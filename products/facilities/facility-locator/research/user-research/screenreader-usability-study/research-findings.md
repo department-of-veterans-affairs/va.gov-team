@@ -60,6 +60,8 @@ This research may not meet the needs of the following underserved Veteran commun
 ### Level of vision and assistive technology used:
 Participants in this study had differing levels of vision, unique combinations of devices and assistive technology and displayed varying degrees of experience using their assistive technologies.
 
+### Table - Level of vision and assistive technology used
+
 P# | LEVEL OF VISION | DEVICE | ASSISTIVE TECHNOLOGY |EXPERIENCE LEVEL
 ---|-----------------|--------|------------------------|--------------
 P1 | Completely blind | Desktop | JAWS screen reader † | Advanced
