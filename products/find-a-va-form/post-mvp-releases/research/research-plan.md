@@ -2,8 +2,8 @@
  	
 ## Goals	
 The goals of this research are to 
-1. Better understand how Veterans download VA forms and what challenges they encounter
-1. Get feedback on designs for advising users to download a PDF and then open it with Acrobat, instead of viewing it in a web browser. We want to assess the performance of two different design options for providing instructions.
+1. Better understand how Veterans download VA PDF forms and what challenges they encounter.
+1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We want to assess the performance of two different design options for providing instructions.
 
 ## Background
 Some browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. Our challenge is how to advise users to download the forms to their device and then open them in Acrobat, when the details of how to do that vary by the specific form and the user's operating system, browser, settings by file type, and whether they have Acrobat Reader installed. We are aware of the following use cases:
@@ -26,14 +26,13 @@ In addition, we suspect that users who are less proficient with technology may e
 - Are participants able to save and/or digitally sign the forms? 
 - Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
 - What is the success rate of participants downloading forms from each of the two design options? Is one more effective than the other? 
-  (Each participant will be shown one of two design options.)
 
 ## Hypotheses
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms. 
 - The new instructions will alleviate issues with forms that have different download behaviors.
-- Instructions at the top of the list of forms may be missed when they scroll off the screen.
-- Instructions repeated above every form download link may get ignored or be annoying. 
+- Instructions at the top of the list of forms will be missed when they scroll off the screen.
+- Instructions repeated above every form download link will get ignored or be annoying, especially to users of screen readers. 
 
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving several forms to download (selected by Marci McGuire):
@@ -78,30 +77,29 @@ Ask Perigean to recruit 15 Veterans in order to get 10 completed sessions using 
 - What web browser do you use on that device? (e.g., Chrome, Edge, Internet Explorer, Firefox, Safari) 
 
 ## Timeline
-#### Desired Timeline: July TBD, 2021 
+#### Desired Timeline: July 27-30, 2021 
 **45-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-TBD, 2021 | Noon - 3 pm, 4 - 8 pm
-TBD more days |
+July 27, 2021 | Noon - 3 pm, 4 - 8 pm
+July 28, 2021 | 1:30 - 3 pm, 4 - 8 pm
+July 29, 2021 | Noon - 3 pm, 4 - 8 pm
+July 30, 2021 | 2 - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-TBD, 2021  |  TBD (screen reader user)
-TBD, 2021  |  TBD (non-screen reader user)
-
-*Timing contingent on approval of design changes, development on Staging before pilot sessions, and Cindy's availability.*
+July 22, 2021  |  TBD (screen reader user)
+July 23, 2021  |  TBD (non-screen reader user)
 
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Research guide writing and task development:	Cindy Merrill
+- Research guide writing and task development:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), TBD (non-screen reader user)
-- Notetakers:	Perigean 12-5 pm EST, Cassandra Allen 5-8 pm EST
-- Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (mmcguire@governmentcio.com), Cassandra Allen (callen@governmentcio.com)
+- Notetakers:	Perigean 12-5 pm EST, Cassandra Allen 5-8 pm EST (cassandra.allen@gcio.com)
+- Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (marci.mcguire@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Zach Morel (zach.morel@gcio.com)
  
 ## Resources	
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)	
