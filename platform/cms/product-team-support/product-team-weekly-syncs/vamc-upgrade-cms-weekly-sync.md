@@ -25,15 +25,13 @@
   * Health services migration of remaining 6 VISNs. Proposed timeline: 
     * VAMC upgrade team A-Z mapping done by July 20 EOD
     * CMS team igrated to prod by July 30.  
-  * Menu governance lockdown for VAMC detail pages
-    * Communication from VHA  
-    * [Documentation page](https://prod.cms.va.gov/help/va-medical-centers-vamcs/managing-vamc-sites-as-a-content-admin/how-to-manage-vamc-menus)
+  * Menu governance lockdown for VAMC detail pages ready to go
+    * Announcement from VHA on hold unless we see a ton of help desk issues 
+    * [Knowledge Base Article: How to manage VAMC menus](https://prod.cms.va.gov/help/va-medical-centers-vamcs/how-to-manage-vamc-menus)
     * [Status of eligible parent items](https://docs.google.com/spreadsheets/d/1XBUNWffdo8jCYGYq7FZtN4Ro268lkzYOqlsFZS4A1j0/edit?usp=sharing)
-    * PAOs cannot enable their menu item. 
-      * VAMC team should create these node with enabled menu items, whether they are published or not  
-      * How can these 
+    * PAOs cannot enable their menu item. What is the current workflow for creating these pages, and what should it be?
   * Discuss va- randomness in Health Service import, is current resolution path acceptable?
- * What to do about Lovell now that it's (maybe?) in VAST
+  * What to do about Lovell now that it's (maybe?) in VAST
   
 
 ## July 9 
