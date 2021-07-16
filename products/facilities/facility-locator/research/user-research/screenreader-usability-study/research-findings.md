@@ -336,7 +336,7 @@ Navigate through the landmarks/regions of the page | 3.2%
 As a Veteran who uses assistive technology, some things that would improve my experience would be to…
 
 1. Establish a page hierarchy for pages and ensure that top navigation methods follow it
-   - For example, a user who ‘skips to content’ and then navigates by headings should have a consistent understanding for what the page is about and what they can do there.  
+   - For example, a user who ‘skips to content’ and then navigates by headings should be able to form the same general understanding for what the page is about and what they can do there.  
 2. Tell me what a page is about with a clear heading 1 level when navigating between pages
    - When P2 clicked on a facility detail page link from facility locator search results, the screen reader didn’t drop him onto the H1 because focus is not being managed. 
    > “I clicked El Paso central and it really didn't get me to the start of the page...I refresh JAWS and then I refresh the screen. Typically with JAWS I'll lose the focus when I go to a new page, so I need to refresh to be able to find the headings again. What I'd like to see when I go to a new webpage is go to the heading 1 level. Heading 1, I feel should be the main reason why I'm on the page. Ok? Sometimes it'll be a heading 2 or 3…”
