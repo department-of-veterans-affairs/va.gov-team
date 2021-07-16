@@ -32,6 +32,7 @@
     * PAOs cannot enable their menu item. What is the current workflow for creating these pages, and what should it be?
   * Discuss va- randomness in Health Service import, is current resolution path acceptable?
   * What to do about Lovell now that it's (maybe?) in VAST
+  * Account admin prototype
   
 
 ## July 9 
