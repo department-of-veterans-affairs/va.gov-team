@@ -185,6 +185,8 @@ Consuming Facility Locator search results was also tricky…
 - 1.1 - I need to have multiple ways to accomplish online tasks but have my preferences
   - According to a recent [Webaim survey](https://webaim.org/projects/screenreadersurvey9/#finding) (see table below), when trying to find information on a lengthy web page, screen reader users navigate via headings most often. We observed many combinations of navigation methods in our study, including the use of ‘skip to content’ which most screen readers use sometimes (>28%), often (>14%) or always(>16%).
 
+#### Table - screen reader navigation methods
+
 Response | % of respondents
 ---------------------------------------------------|------------------
 Navigate through the headings on the page | 67.7%
