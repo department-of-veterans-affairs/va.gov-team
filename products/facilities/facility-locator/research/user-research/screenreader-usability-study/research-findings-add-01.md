@@ -349,7 +349,7 @@ but because she had run into a number of technical issues with JAWS ('Find' and 
 
 [ZoomText video demo on YouTube](https://www.youtube.com/watch?v=Xf6K5fyi6yc&t=7s)
 
-When using magnification software like ZoomText, a users viewable area is effectively shrunk to a small percentage of the total screen or window, depending on the level of magnification.
+When using magnification software like ZoomText, a user's viewable area is effectively shrunk to a small percentage of the total screen or window, depending on the level of magnification. This can make it difficult for users to locate items when navigating from page to page, especially when elements change their position on a page. P9 explains below how this is difficult on MyHealtheVet when logging in.
 
 ![P9-zoomtext-steps-sm](https://user-images.githubusercontent.com/4960080/125960651-be73ab70-7f09-412e-b169-6c4e51749319.png)
 
