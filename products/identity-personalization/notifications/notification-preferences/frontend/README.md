@@ -3,7 +3,7 @@
 ## Relevant links
 
 - [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989653/comment/sitemap?mode=i) - will update week of 7/26/2021
-- [Desktop designs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140348538/simulate/sitemap?mode=i)  - Visual only; **do not follow this prototype for interactivity**
+- [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140288788/simulate/no-panels?mode=i)
 - [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i) 
   - The first checkbox shows the loading behavior
   - data reflected is not accurate (some notifications have been added/removed to demonstrate behavior)
@@ -30,12 +30,6 @@ Notification types (appointment reminder, claim update, etc), channels (text/ema
 URL for this section should [www.va.gov/profile/notifications](http://www.va.gov/profile/notifications) as noted in the [IA recommendations document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-profile-notifications.md).
 
 ## Design 
-
-Examples:
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-edit-mode-mobile.jpg)
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/notifications-edit-mode-desktop.png)
 
 ### Prototypes
 
@@ -108,26 +102,15 @@ Copy TBD, coming 7/26/2021
 
 > We don‘t have an email address or mobile phone number for you. To manage notification settings, please [update your contact information](/profile/personal-information).
 
-
-
 ### Partial contact info (missing email or phone)
 
 - Display the contact information we do have in the section under the `h1`
-
 - Display info background only alert immediately below the "update your contact information link"
-
 - Alert should reference the contact information that's missing
 
   - Mobile phone number or
   - Email address
-
 - The channel corresponding to the missing contact info should be replaced with text. 
-
-  > 
-
-[Static mock-up with notes](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/139109897?mode=i)
-
-[Interactive mock-up, using missing email as example](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i). The edit button in the last group is interactive so you can see the edit state as well.
 
 #### Copy
 
@@ -137,13 +120,9 @@ Copy TBD, coming 7/26/2021
 >
 > [Update your contact information] (/profile/personal-information)
 
-**In read mode, replace status information with:**
+**Replace checkbox with:**
 
-> To get these notifications, first add your [missing contact info] to your profile. 
-
-**In edit mode, replace relevant checkbox with this text:**
-
-> Want to get these notifications by email? First add your email address to your profile. 
+> To get these [channel] notifications, first add your [missing contact info] to your profile. 
 
 ### User who is opted into notifications deletes their associated contact information
 
