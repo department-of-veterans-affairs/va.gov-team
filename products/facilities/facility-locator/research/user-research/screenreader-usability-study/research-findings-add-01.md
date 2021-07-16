@@ -356,7 +356,7 @@ When using magnification software like ZoomText, a user's viewable area is effec
 1. “See sign in and register? I hit that” 
 2. “and now that went away”
 3. “and, see, now I gotta go way down here, and hit that”
-4. [screen elements change position so it seems to dissappear]
+4. [screen elements change position so they seem to dissappear]
 5. “and then I gotta go way over here and accept”
 6. “and then I gotta search for it.”
 7. “here. To log into it.”
