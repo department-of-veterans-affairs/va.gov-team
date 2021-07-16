@@ -2,9 +2,11 @@
 
 ## Relevant links
 
-- [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989653/comment/sitemap?mode=i)
-- [Desktop designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989650/comment/sitemap?mode=i) 
-- [Desktop prototype](https://preview.uxpin.com/5ecec4de6ec34eddc9f095677a881be3646124ce#/pages/139049744/simulate/sitemap?mode=i); flow includes adding in missing contact information
+- [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989653/comment/sitemap?mode=i) - will update week of 7/26/2021
+- [Desktop designs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140348538/simulate/sitemap?mode=i)  - Visual only; **do not follow this prototype for interactivity**
+- [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i) 
+  - The first checkbox shows the loading behavior
+  - data reflected is not accurate (some notifications have been added/removed to demonstrate behavior)
 - [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md)
 
 ## Description
@@ -37,38 +39,38 @@ Examples:
 
 ### Prototypes
 
-- Use prototype links above for latest versions of the prototype.
-- Check the documentation tab on the top right side of the prototype for screen-by-screen notes. Not all screens have documentation; orange dot indicates a screen has dev notes.
+Use prototype links above for latest versions of the prototype.
 
-### Specs
+### Accessibility
 
-#### Accessibility
-
-- Edit, update, and cancel buttons should all have unique aria-labels e.g. "update Applications, claims, decision reviews, and appeals notifications" instead of just "update"
 - Screen reader users should understand notification groupings in the same way sighted users understand groupings. e.g. using `role="group"`. This will ensure that the full context is provided to screen reader users upon tabbing into a new group or exiting one E.g. "Notify by text, checkbox, checked, Reminders to finish in-progress applications, Applications, claims, decision reviews, and appeals"
-- Lists should be used in read view so screen reader users can known how many notification types exist within each group. A `dl` (definition list) may be most semantically appropriate in this context, but an `ul` unordered list may work with more assistive technology.
+- Lists should be used so screen reader users can known how many notification types exist within each group. A `dl` (definition list) may be most semantically appropriate in this context, but an `ul` unordered list may work with more assistive technology.
 
-#### Content
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
+
+### Layout / Components
+
+- H1 gets h2 styling for sizing
+- H2s get h3 styling for sizing
+- Use style rules from design system for html elements padding and margins
+- Use design system components
+  -  for checkboxes
+  - For modal
+  - For error and save confirmation
+    - background only alert
+    - Add icons from the full alerts to the background only alert; this isn't technically in the design system OOB but, other teams use this for auto save confirmation in their forms. Discussed w/ Ryan T and it is fine to use.
+
+## Content
 
 - Notification groups should be listed the following order:
   1. Your Health care (only visible for users with health care)
   2. Applications, claims, appeals, and decision reviews
-  3. Benefit payments and debts
-  4. General VA Information and updates
+  3. General VA Information and updates
 - Notification items should be listed alphabetically within each group
 - In edit mode, `notify by email` should come before `notify by text`
+- Source of truth: MVP notification groups and items are [captured in this doc](
 
-#### Layout / Components
-
-- Follow existing patterns for padding + margins from other parts of profile
-
-- I think this is a new pattern on desktop in that it's 2 columns (value + edit button) instead of 3 in other parts of profile (key + value + edit button).  Please keep 48px of distance between text and the edit button (example shown is from a different section of profile, but same concept applies).
-
-  ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/images/edit-button-spacing.png)
-
-- Everything in this section pulls from existing patterns in profile or the VA design system.  There aren't any custom spacing patterns, components or icons. For example, use the site standard to set line height and spacing between `<li>` elements.
-
-## Copy
+### Copy
 
 `h1` and `nav` item reads: Notification settings
 
@@ -81,7 +83,17 @@ Copy below `h1`:
 >
 > [Update your contact information](/profile/personal-information)
 
-Copy for notification types, channels, groups, and settings will come through VA Profile's API.
+**Additional info component**
+
+Copy TBD
+
+**Notification groups, channels, and items**
+
+- Group and notification names will come through VA Profile's API
+
+- In the healthcare group, we need to add a note in the bottom, with a link to MHV (directly to profile if you can)
+
+  > You can manage your health care email notifications in [My Health*e*Vet]()
 
 ## Use cases
 
@@ -101,17 +113,17 @@ Copy for notification types, channels, groups, and settings will come through VA
 ### Partial contact info (missing email or phone)
 
 - Display the contact information we do have in the section under the `h1`
+
 - Display info background only alert immediately below the "update your contact information link"
+
 - Alert should reference the contact information that's missing
 
   - Mobile phone number or
   - Email address
-- In read mode:
-  - If all the notifications in a group have *only* the missing channel, hide the edit button
-  - Replace the on/off status message with text.
-- In edit mode:
-  - The channel corresponding to the missing contact info should be replaced with text. 
-  - Do not display a disabled checkbox.
+
+- The channel corresponding to the missing contact info should be replaced with text. 
+
+  > 
 
 [Static mock-up with notes](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/139109897?mode=i)
 
@@ -147,22 +159,21 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 ## States
 
-### Edit mode
+### Loading
 
-- Users should only be able to edit one group of notifications at a time.
-- No fields are required.
-- There are no possible input errors for this form.
+- Display the same spinner icon and behavior we use on button states, with the dark gray color ($color-gray-dark)
+- See interaction on the first checkbox in [this mock up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i)
 
 ### **Successful save**
 
-- Display a success background-only alert immediately after the `h1`, same behavior as what we do in direct deposit.
+- Display a success background-only alert immediately above the box the user just clicked
 - Save alert must be announced to screen reader users via `aria-live`. This may be tricky to implement if there is a timer that causes it to disappear. Let's talk to Josh about that. It currently disappears in other areas of the profile; he might bring that up as part of the audit currently in progress as of 4/8/21.
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138069327/comment/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i); use the first checkbox
 
 #### Copy
 
-> We’ve updated your notification settings.
+> You've updated your VA [SMS text or email] notifications.
 
 ### VA Profile API GET failure (can't load any data about notifications)
 
@@ -176,13 +187,13 @@ Display error alert immediately after `h1`
 
 ### Save failure
 
-Display error alert after last `fieldset` and before update/cancel buttons
+Display background color only error alert above the checkbox clicked.
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138111406/specification/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376467/simulate/sitemap?mode=i)
 
 #### Copy
 
-> We’re sorry. We can’t save your update at this time. We’re working to fix this problem. Please check back soon.
+> We’re sorry. We can’t save your update at this time. Please try again.
 
 ### Contact endpoint failure
 
