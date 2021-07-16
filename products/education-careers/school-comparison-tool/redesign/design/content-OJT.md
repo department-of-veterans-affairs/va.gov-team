@@ -159,7 +159,13 @@ Update benefits {Update button - deactivated until selection has been made}
 
 **Housing allowance: $NNNN / mo**
 
-**Book stipend: $NN / mo**
+**Book stipend ([Learn more]): $NN / mo**
+
+{ Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
+
+    The book stipend is paid as a lump sum at the beginning of the school year (if starting in the Fall) or at the beginning of the semester. The book stipend is $1,000 per year or $83 per month at 100% benefit. The book stipend is pro-rated based on your enrollment.
+
+    { end Book stipend modal }
 
 ________________________________
 
@@ -188,21 +194,6 @@ Months 13-18: $XXX/mo
 
 Months 19-24: $XXX/mo
 
-#### Book stipend ([Learn more]())
-
-    { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
-
-    You may be eligible to receive a stipend of up to $1000 for books and supplies. The book stipend is pro-rated based on your enrollment.
-
-    { end Book stipend modal }
-
-Months 1-6:  $XX/mo
-
-Months 7-12: $XX/mo
-
-Months 13-18: $XX/mo
-
-Months 19-24: $XX/mo
 
 { end grey box for Estimated benefits }
 
