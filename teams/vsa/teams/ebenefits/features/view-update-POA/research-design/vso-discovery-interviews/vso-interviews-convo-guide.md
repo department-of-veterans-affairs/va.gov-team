@@ -24,8 +24,10 @@ There are a few things I need to mention before we start:
 - OK, now that I've hit the button, do I have your permission to record this session?
 
 ## Warm-up
-- Would you tell us a little bit about yourself? How long have you been a representative, general experiences with the VA?
-- How did you get into representing veterans?
+- Would you tell us a little bit about yourself? 
+  - What organization are you with?
+  - How long have you been an authorized rep?
+  - How did you get into representing veterans?
 
 ## Section one: Becoming a VSO/rep
 - How is your role commonly referred to? (VSO, Veteran Service Officer, rep, etc.)
