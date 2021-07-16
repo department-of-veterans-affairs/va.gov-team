@@ -152,6 +152,8 @@ Imagine you accessed this page to ask the VA a question about (refer to scenario
   - Does anything need to be explained?
   - Does anything need to be added or removed?
 
+**CAN YOU PLEASE CLICK ON THE USERNAME ON THE TOP RIGHT, THEN CLICK ON SIGN OUT?**
+
 ## **Post-Task Interview - 5 minutes**
 
 Thank you for working through that. Now we have a few closing questions.
