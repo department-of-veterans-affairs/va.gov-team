@@ -12,7 +12,8 @@ We have typically used the "Went Well, To Improve, Action Items" format, but the
 In the hybrid framework test, the Retro host will rotate between the team and the host gets to pick the format.
 
 - Tue, June 22 - Brad
-- Tue, July 6 - 
-- Tue, July 20 - 
-- Tue, August 3
-- Tue, August 17 - 
+- Tue, July 6 - Jeff
+- Tue, July 20 - AJ
+- Tue, August 3 - Tony
+- Tue, August 17 - Lauren
+  - This retro will be for our team to look back at the hybrid framework test
