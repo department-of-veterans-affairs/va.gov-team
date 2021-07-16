@@ -34,12 +34,12 @@ requested URL | landing page URL
 **Link to campaign landing page request issue:**
 
 
-### Definition of done
-- [ ] Requesting team: Above information is provided and issue is tagged and assigned appropriately 
-- [ ] Requesting team: All appropriate VA stakeholders are notified of pending redirect 
-- [ ] VSP IA: Request is vetted and documented and implementation plan is clear - *@ VSP IA*
-- [ ] VSP IA: Request is assigned to appropriate team for implementation - *@ VSP IA team*
-- [ ] Implementation team: Implementation team completes work 
-- [ ] Implementation team: Implementation pushed live and redirect is validated in production
-- [ ] Requesting team: Ticket is closed 
+### Process, Roles and Responsibilities
+- [ ] Requesting team: Above information is provided
+- [ ] Requesting team: All appropriate VA stakeholders are notified as appropriate
+- [ ] IA: Request is vetted and documented and implementation plan is clear 
+- [ ] IA: Request is assigned to appropriate team for implementation 
+- [ ] Implementation team: Work is complete
+- [ ] Implementation team: Validated in production
+- [ ] Requesting team: Validates everything is correct in production and closes ticket
 
