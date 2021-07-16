@@ -53,7 +53,7 @@
       - Initiative is led by Meg/Mikki on the IA team -- with details [in this ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/277)
     - Benefit Hubs Optimization - Content & IA 
       - Reducing hierarchy/links in left-nav for Hub pages (as Content moves pages into R&S)
-      - Breadcrumbing to get back from R&S to benefit hub
+      - Back button or other design element to return to Tier 1 from R&S
       - Larger item - CMS: COPE FAQs
     - React Widget Refactor
       - [Problem Statement and Proof of Concept](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/25036)
