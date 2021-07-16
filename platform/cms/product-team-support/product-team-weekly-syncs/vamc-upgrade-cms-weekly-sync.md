@@ -22,13 +22,16 @@
 </details>
 
 ## July 16
-  * Health services migration of remaining 6
+  * Health services migration of remaining 6 VISNs
+  * Menu governance lockdown for VAMC detail pages
+    * Communication from VHA  
+    * [Status of eligible parent items](https://docs.google.com/spreadsheets/d/1XBUNWffdo8jCYGYq7FZtN4Ro268lkzYOqlsFZS4A1j0/edit?usp=sharing)
   * Discuss va- randomness in Health Service import, is current resolution path acceptable?
-  * Status of elligible parent items
+ * What to do about Lovell now that it's (maybe?) in VAST
+  
 
 ## July 9 
 
- * What to do about Lovell now that it's (maybe?) in VAST
 
 ## July 2
 
