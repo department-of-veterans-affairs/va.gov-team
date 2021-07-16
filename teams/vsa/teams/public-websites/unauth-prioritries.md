@@ -32,13 +32,13 @@
         - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
         - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
         - [Banner Visual Design Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/maintenancebanner/)
+     - New Mobile header (Research initiative)
+        - [ ] Product Outline 
+        - [ ] Research Plan
      - Home Page & Benefit Hubs to unify with Unauth experience
         - [Product Outline WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Benefit%20Hub%202.0%20Product%20Outline.md)
         - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md)
         - [Initial Wireframes Concept (IA)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9?sender=johnhashimoto4253)
-    - New Mobile header (Research initiative)
-        - [ ] Product Outline 
-        - [ ] Research Plan
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
       - [ ] Product Outline for V1.0 of Events
       - [ ] Initiative Brief for Filtering Events
