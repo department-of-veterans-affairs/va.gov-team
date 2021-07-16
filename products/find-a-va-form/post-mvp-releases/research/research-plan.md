@@ -1,9 +1,9 @@
 # Research Plan: Find a Form PDF Downloading
  	
 ## Goals	
-The purpose of this research is to better understand how Veterans download VA forms and get feedback on our revised designs for advising users to download a PDF and then open it with Acrobat instead of viewing it in a web browser. With this research, we want to 
-1. Better understand the challenges that Veterans face when using PDF forms, and 
-1. See which of two design options for instructions results in more successful form downloads.
+The goals of this research are to 
+1. Better understand how Veterans download VA forms and what challenges they encounter
+1. Get feedback on designs for advising users to download a PDF and then open it with Acrobat, instead of viewing it in a web browser. We want to assess the performance of two different design options for providing instructions.
 
 ## Background
 Some browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. Our challenge is how to advise users to download the forms to their device and then open them in Acrobat, when the details of how to do that vary by the specific form and the user's operating system, browser, settings by file type, and whether they have Acrobat Reader installed. We are aware of the following use cases:
@@ -25,12 +25,15 @@ In addition, we suspect that users who are less proficient with technology may e
   - What are users' reactions to auto-download? 
 - Are participants able to save and/or digitally sign the forms? 
 - Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
-- Do participant success rates vary by design option? (Each participant will be shown one of two design options.)
+- What is the success rate of participants downloading forms from each of the two design options? Is one more effective than the other? 
+  (Each participant will be shown one of two design options.)
 
 ## Hypotheses
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms. 
 - The new instructions will alleviate issues with forms that have different download behaviors.
+- Instructions at the top of the list of forms may be missed when they scroll off the screen.
+- Instructions repeated above every form download link may get ignored or be annoying. 
 
 ## Method	
 We will conduct remote moderated research sessions via Zoom. Participants will be asked some interview questions about their past usage of VA forms, and then will be given some tasks involving several forms to download (selected by Marci McGuire):
@@ -39,7 +42,11 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 - 20-0968 (not hosted on VA.gov)
 - 20-0995 (one of most downloaded, can fill out in browser, hosted inside VA.gov)
 
-Participants will access the forms using the Find a Form page on Staging: https://staging.va.gov/find-forms/.
+Participants will access the forms using the Find a Form page on Staging: https://staging.va.gov/find-forms/. 
+
+Half of the participants will see one version of the Find a Form page, and the other participants will see a different version. Here are the two versions:
+- Instructions at the top of the list of forms 
+- Instructions repeated above every form download link
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 10 completed sessions using the following criteria:
