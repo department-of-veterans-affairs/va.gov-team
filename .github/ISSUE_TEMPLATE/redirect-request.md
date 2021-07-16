@@ -1,5 +1,5 @@
 ---
-name: Redirect or URL Change Request
+name: Redirect, URL change, or vanity URL request
 about: Submit a request to change a URL and/or implement a redirect for a URL. Also for vanity URL requests.
 title: Redirect Request
 labels: ia
