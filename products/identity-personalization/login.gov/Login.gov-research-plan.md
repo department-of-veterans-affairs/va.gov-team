@@ -88,11 +88,15 @@ Please list the people who will be serving in each role. **Include the primary p
   - Observers: 
     - Cory Trimm
     - John Rahaghi
+    - Cody Reinold 
     - Christine Dillman
     - Joe Niquette
     - Trevor Bosaw
     - Alex Garcia
     - John Bramley
+    -  Ashley Matthews
+    -  Bridget Hapner
+    -  Jen Ecker
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 ## Resources	
