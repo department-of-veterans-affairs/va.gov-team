@@ -48,13 +48,11 @@
         - [X] VEO
         - [X] VHA
         - [ ] VBA
-        - [ ] NCA
-    - Benefit Hubs - relates to the IA initiative/work by Meg?          
-    - [Initial Wireframes Concept (IA)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9?sender=johnhashimoto4253)
+        - [ ] NCA         
     - Sitewide Navigation
       - Initiative is led by Meg/Mikki on the IA team -- with details [in this ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/277)
     - Benefit Hubs Optimization - Content & IA 
-      - Slimmed down left-nav for "slimmed down" Hub pages (as Content moves pages into R&S)
+      - Reducing hierarchy/links in left-nav for Hub pages (as Content moves pages into R&S)
       - Breadcrumbing to get back from R&S to benefit hub
       - Larger item - CMS: COPE FAQs
     - React Widget Refactor
