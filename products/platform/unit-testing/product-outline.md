@@ -48,8 +48,7 @@ See [Unit test overview](https://department-of-veterans-affairs.github.io/vetera
 _Link to the following materials as relevant._
 
 - VFS-facing Product README (in `/platform`)
-- Release Plan
-- Any product health or success dashboards
+- [Unit test coverage report](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard)
 
 ### Communications
 
