@@ -112,7 +112,7 @@ View the [Conversation Guide](https://github.com/department-of-veterans-affairs/
 View the [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/session-notes).
 
 ### Tools used for Synthesis
-`Usability matrix (Excel)` 
+[Usability matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/COE1_Usability_Matrix_W1%20(1).xlsx)
 
 ### Pages and applications used
 View the [prototype](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137584302/simulate/sitemap).
