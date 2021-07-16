@@ -53,7 +53,7 @@ Participant demographics:
 - Cognitive disability: (1)
  
 #### Underserved groups in research
-![MVS-checker](https://user-images.githubusercontent.com/4960080/125621453-2dd373d2-d126-4f50-bd21-5d6d44f7bf1a.png)
+![screengrab of this study in the MVS-checker](https://user-images.githubusercontent.com/4960080/125621453-2dd373d2-d126-4f50-bd21-5d6d44f7bf1a.png)
 
 This research may not meet the needs of the following underserved Veteran communities, as the focus was primarily on recruiting Veterans with assistive technologies: Veterans with cognitive disabilities (only 1 Veteran disclosed having a learning disability, Veterans with other than honorable discharge, Veterans with immigrant origins, Latinx, Biracial, Asian, and Native Veterans, LGBTQ+ Veterans.
 
@@ -192,21 +192,21 @@ Navigate through the links of the page | 7.1%
 Navigate through the landmarks/regions of the page | 3.2%
 
   - P1. used, ‘Skip to content’ on VA.gov homepage, on his first of three failed attempts to complete task number two. The participant is taken to the ‘Service member benefits’ H2. From this point, the user was mentally stuck on trying to complete the task within a ‘benefits’ category that would apply to him. Notice the user’s scanning behavior, as he listens to elements on the page multiple times to understand where he is, what the page is about and where he should go next. This attempt took two minutes and fifteen seconds. On his third attempt, the participant tries to navigate by listening to the headings on the page from the top. Since he did not use ‘skip to content’, this time the homepage appeared to have completely different content than on his first visit. 
-     - <img src="https://user-images.githubusercontent.com/4960080/125654657-ca5d7d0b-378f-4183-9093-7ff4977aefb1.png" alt="P1 - Attempt 1 and 3" width="80%" height="80%">
+     - <img src="https://user-images.githubusercontent.com/4960080/125654657-ca5d7d0b-378f-4183-9093-7ff4977aefb1.png" alt="visual diagram of P1's attempts 1 and 3, highlighting where user listens and interacts" width="80%" height="80%">
 
 > [P1] “Do you understand one thing I said? I typed in VA.gov a while ago and this is not the page that it took me to. So, I went back a page. I don’t know what you see but according to my screen reader, I haven’t been to this page before. I didn’t hear any of this stuff previously” [reflecting on his ‘skip to content’ attempt] “Why in heaven's name did it take me to the middle of the page?”
 
 - 1.2 - I keep my desktop clean to not confuse my screen reader
 - 1.3 - I make my viewport small so I may get a mobile experience on desktop
   - Two JAWS users, whose tech we were able to see and hear, shared a similar behavior of minimizing windows not in use and scaling down the size of their browser viewports. This can create a hybrid mobile/desktop experience for some users. For example, P1 experienced the mobile version of the global nav menu even though he was on a desktop. 
-  - ![minimized](https://user-images.githubusercontent.com/4960080/125656309-c78619df-df9d-4043-8ee4-0293895ead32.png)
-
+  
+<img src="https://user-images.githubusercontent.com/4960080/125656309-c78619df-df9d-4043-8ee4-0293895ead32.png" alt="side by side screengrabs of JAWS users' desktops looking almost identical">
   
 - 1.4 - I am new at using Siri but want to keep learning new ways of dictating my needs
 - 1.5 - It’s easy for me to make spelling mistakes
   - P6: “Barooklyn new york”
   - P9: “va dermatalgist”, “va hospitals soudth ca”
-  - ![spelling-mistakes](https://user-images.githubusercontent.com/4960080/125657249-98bbca76-7437-4416-b618-0df2382d6488.png)
+  - <img src="https://user-images.githubusercontent.com/4960080/125657249-98bbca76-7437-4416-b618-0df2382d6488.png" alt="screengrabs of users spelling mistakes when typing into google search and va.gov">
   - P4, who was diagnosed with Dyslexia after retiring from a successful military career, explains why dictation assistive technology helps her: 
      > “And you said ‘Dermatology’? I can’t spell that so I’m hoping I can use the mic... Normally, I talk into it with a mic [mic icon button on iOS apps that triggers dictation mode]. Because my spelling is atrocious, I tend to do it orally and it recognizes my voice. Most of the time if I type it, I fight with it, with the spelling.”
 
@@ -233,7 +233,7 @@ Navigate through the landmarks/regions of the page | 3.2%
 - 2.6 - I wish I could see hours and services of VA facilities on Google search results
 - 2.7 - Sometimes I do see hours but they don’t make sense to me
      - P9: Low-vision Veteran and wife, who is nearby to help, explain a recent VA facility search using Bing.com to look for VAs close to where they were considering moving. They explained how in their travels they’ve visited different VA facilities that vary widely in terms of the services and want to know if a listing is for a “little clinic” or more comprehensive like their own VA medical center. 
-     - <img src="https://user-images.githubusercontent.com/4960080/125660483-b13235ff-77a9-41c9-8319-8b5e5016df15.png" alt="user types in 'google search results screen" width="60%" height="60%">
+     - <img src="https://user-images.githubusercontent.com/4960080/125660483-b13235ff-77a9-41c9-8319-8b5e5016df15.png" alt="screengrab of google search results screen that user sees after typing in va hospitals south carolina" width="60%" height="60%">
      - The couple demonstrate their search and point out that second search result listing was for a “VA Medical Center” that lists ‘Hospital’ as a service but the closing time of 6:30pm was confusing to them. They didn't mention clicking for more information. In fact, although they described being frequent users of MyHealtheVet (bookmarked in their browser) they were unfamiliar with the VA.gov homepage when prompted to go there for their first task .
      > [Later, while on a facility page, this couple circles back to the importance of understanding ER services, with a personal anecdote] 
      > “It has the hours as 24/7 but that might be because they have the ER and pharmacy. One thing it doesn’t say, that I have seen and heard before, is that if you are feeling you have a heart attack go to the ER. Even though it says cardiology, you don’t go there for heart attacks. If you look at this it says cardiology but doesn’t tell you not to go there. It would be nice if they say, ‘if having a heart attack call 911 and go to the ER’. We had a Vet in our group and they said don’t go to the VA ER because they can’t help so I think that should be on there. When having a heart attack seconds can make a difference.”
@@ -346,7 +346,7 @@ As a Veteran who uses assistive technology, some things that would improve my ex
    - For example, footer links should be grouped into a footer region. Currently, users can’t distinguish between footer links and those that are part of the page content so they are forced to listen to 46 extra links each time they read a new page from top to bottom to orient themselves. 
 5. Make sure ‘skip to content’ takes me to the main content on the page
    - Skip to content on GOV.Uk takes a user to the H1 to announce the page and then following tab takes a user into the search edit box
-   - <img src="https://user-images.githubusercontent.com/4960080/125671954-62d5e689-c0cf-42d5-a1fa-8b2b9c093582.png"  alt="[gov uk skip to content example]" width="60%" height="60%">
+   - <img src="https://user-images.githubusercontent.com/4960080/125671954-62d5e689-c0cf-42d5-a1fa-8b2b9c093582.png"  alt="[gov.uk 'skip to content' homepage example]" width="60%" height="60%">
 6. Give me an edit box that is easy to find because I like an easy way to search
 7. Provide the purpose and destination in link text  so that I know what to expect when I click on a link
 8. Name buttons and links with the keywords that I’m likely to search for like ‘menu’, ‘locations’.
