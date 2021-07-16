@@ -23,7 +23,7 @@ How might we improve the stability and coverage of `vets-website` unit tests whi
    * _Unknown, measurement being implemented as part of [2021 initiative](https://app.zenhub.com/workspaces/vsp---frontend-tools-5fc9325744944e0015ed1861/issues/department-of-veterans-affairs/va.gov-team/16716)_
 * Rate of unit test failure in master branch [spreadsheet for manual data collection](https://docs.google.com/spreadsheets/d/1ygkhUItmLr9KtNIVLutpvLznQoKqWXjFbRltnxTWeGA/edit#gid=0)
    * March 17 - April 15 2021: 59 master builds had failed unit tests = 15% failure rate
-   * May 18 - June 22 2021: 21 master builds had failed unit tests = 5% failure rate
+   * May 18 - June 22 2021 (after Platform changes implemented as part of initiative work): 21 master builds had failed unit tests = 5% failure rate
 
 ---
 
