@@ -8,31 +8,30 @@ assignees: mnorthuis
 ---
 
 ### Instructions
-- Requests for URL changes/redirects need to be submitted **AT LEAST** 2 weeks in advance.  Some changes/redirects take significant amount of time and coordination to implement, so start the process as soon as you know you will need one. 
-- This issue will be used from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
-- It is your responsibility to notify VA stakeholders of pending redirect.  
+- Requests must be submitted **AT LEAST** 2 weeks in advance.  Some requests take a significant amount of time and coordination to implement, so start the process as soon as you know you will need one. 
+- This issue will be used from initial request through implementation to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
+- It is your responsibility to notify VA stakeholders as appropriate.  
 
-### Description
-*This is a detailed description of the request. It should include background information and reason for the request.*
 
-### Requesting team info
-*Indicate what team and who the primary contact on that team is*
+### Type of request
+- [ ] We are retiring or taking down a page and need to redirect the URL (complete reidrect section)
+- [ ] We are changing the URL of an existing page (complete reidrect section)
+- [ ] We need a custom vanity URL (complete vanity URL section)
 
 ### Implementation date
-Date new URL(s) will be live: *enter date new pages/URLs will be live*
+When does this request need to be live: 
 
-Please indicate when the change/redirect(s) needs to be implemented"
-- [ ] On the same date the new URLs launch
-- [ ] Can happen within 1-5 business days after new URLs launch
-- [ ] Other - Please indicate timing : 
-
-**The requesting team is responsible for notifying the group working on this issue if the target date changes. They are also responsible for ensuring the destination URLs are implemented correctly and live at the time the redirects are deployed.**
-
-### Redirects needed
-
+### Redirects 
 Current URL  |  Redirect Destination or New URL
 ---  |  ---
-*enter current URL* | *enter new URL*
+current URL | new URL
+
+### Vanity URLs 
+Vanity URL  |  Landing page
+---  |  ---
+requested URL | landing page URL
+
+**Link to campaign landing page request issue:**
 
 
 ### Definition of done
