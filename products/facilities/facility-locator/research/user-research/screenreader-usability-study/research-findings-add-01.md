@@ -343,7 +343,7 @@ but because she had run into a number of technical issues with JAWS ('Find' and 
 
 ### Case Study P9
 
-#### Low vision user explains a recurrent issue with login when using ZoomText magnification software
+#### Low vision user explains a recurrent issue with MyHealtheVet login when using ZoomText magnification software
 
 <img src="https://user-images.githubusercontent.com/4960080/125962050-4137d43e-ad30-43f5-8454-b31207d565de.png" alt="woman-at-a-computer-using-zoomtext" width="60%" height="60%">
 
