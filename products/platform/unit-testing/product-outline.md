@@ -1,10 +1,10 @@
-# Unit Testing (Frontend) - Product Outline [DRAFT]
+# Unit Testing (Frontend) - Product Outline
 
 ## Overview
-TBD
+Unit tests test a single part of implementation in code (a unit). All FE apps on VA.gov should have unit tests (VSP's [unit testing guidance](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-unit-test/) is that tests cover at least 75% of code paths).
 
 ## Problem Statement
-Unit tests test a single part of implementation in code (a unit). All FE apps on VA.gov should have unit tests (VSP's [unit testing guidance](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-unit-test/) is that tests cover at least 75% of code paths). VSP has limited guidance on best practices for unit tests, and does not currently report on test coverage. We know that unit tests are a pain point (because as of Q4 2020 they keep failing and causing builds to fail), but we have a very limited aggregate view into how VFS teams are writing them. 
+[From 2020] VSP has limited guidance on best practices for unit tests, and does not currently report on test coverage. We know that unit tests are a pain point (because as of Q4 2020 they keep failing and causing builds to fail), but we have a very limited aggregate view into how VFS teams are writing them. 
 
 How might we improve the stability and coverage of `vets-website` unit tests while maintaining VFS team automony? 
 
@@ -15,36 +15,31 @@ How might we improve the stability and coverage of `vets-website` unit tests whi
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* Average percent unit test coverage of VFSs [blocked by,]
-* Number of VFS teams that report on unit test coverage
-* Number of teams blocked when a unit test fails, on average
+* Average percent unit test coverage of VFSs
+* Rate of unit test failure in master branch _(unit tests that fail in master are assumed to be flaky/intermittently failing because it is assumed that they passed in a PR)_
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics, if possible._
+* Average percent unit test coverage of VFSs
+   * _Unknown, measurement being implemented as part of [2021 initiative](https://app.zenhub.com/workspaces/vsp---frontend-tools-5fc9325744944e0015ed1861/issues/department-of-veterans-affairs/va.gov-team/16716)_
+* Rate of unit test failure in master branch [spreadsheet for manual data collection](https://docs.google.com/spreadsheets/d/1ygkhUItmLr9KtNIVLutpvLznQoKqWXjFbRltnxTWeGA/edit#gid=0)
+   * March 17 - April 15 2021: 59 master builds had failed unit tests = 15% failure rate
+   * May 18 - June 22 2021: 21 master builds had failed unit tests = 5% failure rate
 
 ---
 
 ## Assumptions
-- VFS teams should be responsible for testing their own apps
+- VFS teams should be responsible for unit testing their own apps
 
 ## Solution Approach
 
 See [Unit test overview](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-unit-test/) in FE documentation for a description of the current solution approach.
 
+2021 unit testing initiative is summarized in [this demo presentation](https://docs.google.com/presentation/d/1onkyabt0B04WnwUEPf5g9IrgXKxocoQPlNWaAV4Tk34/edit#slide=id.p).
+
 --- 
 
 ## Launch Dates
-- *Launch Date*: TBD
-
----
-
-## Screenshots
-
-_Include before/after screenshots, if applicable. Delete this section otherwise._
-
-### Before
-
-### After
+- *Launch Date*: 2021 unit test initiative completed in July
 
 ---
 
@@ -60,17 +55,8 @@ _Link to the following materials as relevant._
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-
-</details>
-
-### Stakeholders
-
-<details>
-
-_What offices/departments are critical to make this initiative successful?_
+- Team Name: Platform FE Tools
+- GitHub Label: tools-fe
+- Slack channel: #vsp-tools-fe
 
 </details>
