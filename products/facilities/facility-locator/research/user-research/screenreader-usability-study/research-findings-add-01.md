@@ -351,12 +351,12 @@ but because she had run into a number of technical issues with JAWS ('Find' and 
 
 When using magnification software like ZoomText, a user's viewable area is effectively shrunk to a small percentage of the total screen or window, depending on the level of magnification. This can make it difficult for users to locate items when navigating from page to page, especially when elements change their position on a page. P9 demonstrates how this is challenging when logging into MyHealtheVet.
 
-![P9-zoomtext-steps-sm](https://user-images.githubusercontent.com/4960080/125960651-be73ab70-7f09-412e-b169-6c4e51749319.png)
-
+![P9-zoomtext-steps-sm](https://user-images.githubusercontent.com/4960080/125967597-fdc97410-6563-4fd6-b231-c21fb6f67f73.png)
 
 1. “See sign in and register? I hit that” 
 2. “and now that went away”
-3. “and see now I gotta go way down here, and hit that”
-4. “and then I gotta go way over here and accept”
-5. “and then I gotta search for it.”
-6. “here. To log into it.”
+3. “and, see, now I gotta go way down here, and hit that”
+4. [screen elements change position so it seems to dissappear]
+5. “and then I gotta go way over here and accept”
+6. “and then I gotta search for it.”
+7. “here. To log into it.”
