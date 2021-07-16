@@ -206,7 +206,7 @@ Months 19-24: $XX/mo
 
 { end grey box for Estimated benefits }
 
-**Note:** Housing rate and the amount of entitlement used decrease every 6 months as employer pay increases 
+**Note:** Housing rate and the amount of entitlement used decrease every 6 months as training progresses 
 
 ## Getting started with benefits
 
