@@ -27,17 +27,18 @@
 
    > ”Can I ask you a question. You asked me to find a dermatologist but can I do that on this page? I’m confused. You took me to find a location but you are actually asking me to find something specific. It’s confusing because it is about finding a VA location.”
    
-* P2:  1. Tries "L" for location within headings list, 2. Links list, finds "Find a VA Location"
+* P2 fails at his first attempt when typing "L" for location within headings list. On his second attempt using 'Links list', he successfully finds "Find a VA Location" .
 
     > "So its 'Find a location.' So, first letter navigation [tried L] probably wouldn't help me too much because I would think of it as 'Locations' vs 'Find a Location'."
 
-* P6:  [Inexperienced Safari/iPhone user who had never been on VA.gov, (normally relies on Siri but unable to during the session), used a mix of gestures and magic keyboard] 1. Navigates by "Reading page" from top to bottom, finds the global search field easily.
+* P6 is an inexperienced Safari/iPhone user who had never been on VA.gov. P6 normally relies on Siri but was unable to during the session so instead used a mix of gestures and magic keyboard. Navigates by "Reading page" from top to bottom, finds the global search easily so uses that for his search.
 
     - Types in "Mental clinic" in global search which does not give him location related results.
 
 * P10 was the only participant that knew of facility locator but decided to use Google to complete the task instead of going to VA.gov to look for it. Later in the interview she complains about how the volume of information on VA overwhelms her. It is possible, that this could be a reason she decided to try Google first.
- > “I know there’s a location finder… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.” 
-The participant tries to read the page but the screen reader bypasses "Find a VA Location" and the user dead ends in a side navigation without hearing it. See step 12 in [Case Study P10](#case-study-p10)
+
+    > “I know there’s a location finder… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.” 
+The participant tries to 'read the page'.  However, an issue with "VA Benefits and Health Care" in the global nav causes the screen reader to bypasses "Find a VA Location" and the user dead ends in a side navigation without ever hearing it. See step 12 in [Case Study P10](#case-study-p10)
 
 
 ### 3. 4/7 Veterans used global search to find a location or dermatologist. 
@@ -45,6 +46,8 @@ The participant tries to read the page but the screen reader bypasses "Find a VA
    > There's a search thing there so I would do that.
    - P9 proceeds to type 'va dermatalgist' into global search
    - <img src="https://user-images.githubusercontent.com/4960080/125820911-c30211db-acaa-4a7e-8b9b-fd25ab1310ec.png" alt="user types in 'va dermatalgist' into global search" width="35%" height="35%">
+
+## Additional Findings
 
 ## Exhibits 
 
@@ -250,16 +253,17 @@ Two JAWS users, whose tech we were able to see and hear, shared a similar behavi
 
 Using JAWS, P10 tries to find the VA nearest to her using Google. She clarifies if she should look for a va clinic or hospital. She is given the choice. She types in “VA facility near me… [erases 'me' and changes to] fairfield, texas"
 
-   - <img src="https://user-images.githubusercontent.com/4960080/125827261-41d02219-ddf8-47e8-8693-ed10abc5e67c.png" alt="google search for facilities" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/4960080/125942296-0fce677e-4e0a-47d5-aed7-d6d39744d9b8.png" alt="google search for facilities" width="60%" height="60%">
 
-> And yes, I usually take the first option it gives me.
-   - <img src="https://user-images.githubusercontent.com/4960080/125830343-a747fb0c-ec7a-4d05-a1b5-0a54442c1dab.png" alt="google search for facilities" width="60%" height="60%">
+> "And yes, I usually take the first option it gives me."
 
-but because she had run into a number of technical issues with JAWS ('Find' and 'list links' wouldn't work, something that can happen often from according to other JAWS users in the study) she was forced to 'read the page'. This created more obstacles.
+but because she had run into a number of technical issues with JAWS ('Find' and 'list links' wouldn't work, something that can happen often from according to other JAWS users in the study) she was forced to 'read the page'. However, an issue with "VA Benefits and Health Care" in the global nav causes the screen reader to bypasses "Find a VA Location" and the user dead ends in a side navigation without ever hearing it.
 
-> And then you get into this list of.. where are these places?
+<img src="https://user-images.githubusercontent.com/4960080/125941561-b9cab838-57c5-42ff-b837-8adb0f792107.png" alt="google search for facilities" width="60%" height="60%">
 
-> Ok…  “I know there’s a location finder, you can type in your address and it’ll do a little search somewhere… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right.
+> "And then you get into this list of.. where are these places?"
+
+> "Ok...  I know there’s a location finder, you can type in your address and it’ll do a little search somewhere… but I don’t know where that is. I don’t even know what that would be called. You’re hoping somebody labeled it right."
 
 [User activates JAWS and hears:] 
 1. "Search in facility directory, type in text"
@@ -267,60 +271,68 @@ but because she had run into a number of technical issues with JAWS ('Find' and 
 
 [M: If you want to find it, where would you go?]
 
-I would tab through this entire page one by one to see… or I would check the links to see if there’s a link to.... I don’t even know what it’s called. So you’re hoping somebody labelled it right. *sighs* I don’t know. I guess I would listen to the whole thing… tabbing through or just check the links list.
+> "I would tab through this entire page one by one to see… or I would check the links to see if there’s a link to.... I don’t even know what it’s called. So you’re hoping somebody labelled it right. *sighs* I don’t know. I guess I would listen to the whole thing… tabbing through or just check the links list."
 
 [M: Want to try that?]
 
-> Ok… Am I on JAWS?... [user navigates between open windows to reorient herself and comes back to browser] 
-3. JAWS Texas dash locations em dash Mozilla Firefox
+> "Ok… Am I on JAWS?..."
+
+[user navigates between open windows to reorient herself and comes back to browser] 
+
+3. hears "JAWS Texas dash locations em dash Mozilla Firefox
 4. advances, hears "Banner region, here's how you know" button collapsed
 5. skips, hears "talk to the Veter"
-6. skips... hears "search"
-7. skips... hears "contact"
-8. skips... hears "sign in button"
+6. skips, hears "search"
+7. skips, hears "contact"
+8. skips, hears "sign in button"
 > I’m trying to just insert + f7 to get my list links up 
 [user is frustrated that her JAWS list links feature isn't working]
 
 [navigates to GLOBAL NAV]
 
-> ok I can tab through normally… 
+> "ok, I can tab through normally..."
 
 9. “navigation region”
 10. advances, hears "vah benefits and healthcare collapsed"
 11. hears "vah benefits and healthcare collapsed"
 12. hears "vah benefits and healthcare collapsed" 
+
 [user tries activating VA benefits and health care, but it’s not working so skips to left nav]
-> yeah, its...[trails]
+
+> "yeah, its..."[trails]
+
 13. advances, hears “I am a dot, dot, dot, combo box, select one, to change selection, use the arrow keys”
 14. advances, hears “Locations home link" 
 15. hears "Locations home link"
 16. hears "Locations home link”
-> [laughs] yeah, I don't know what's going on with this thing
+
+> [laughs] "yeah, I don't know what's going on with this thing"
  
 [Moderator: What’s going on?]
 
-> I’m in the page! 
+> "I’m in the page!" 
+
 17. advances, hears “vah facilities, link veterans health administration left par right pair"
 18. advances, hears “vah facilities link veterans benefits adminis..."
 19. skips, hears "NCA"
 
 
-> And I can tab easily through… but I can’t get a list of links for some reason. I don’t know why that’s happening. I want to pull it up so I don’t have to go through each one. 
+> "And I can tab easily through… but I can’t get a list of links for some reason. I don’t know why that’s happening. I want to pull it up so I don’t have to go through each one."
 
 20. skips, hears "[inaudible] central office listing link"
 21. advances, hears "vet centers link"
 
-> these are all links and maybe they were up and I didn't realize it
+> "these are all links and maybe they were up and I didn't realize it"
 
 22. advances, hear "PTSD program link"
 23. advances, hears "SUD program link"
 
-> Like, what is sudprogram? I don't know. 
+> "Like, what is sudprogram? I don't know". 
 
 24. advances, hears "grav-eh-side locator new window"
 25. advances, hears "facilities by state link"
 
-> I’m already ON facilities by state? Can’t it say like “facilities by state, you are here? so I don't have to hear it a second time? So maybe it’s probably the interactive US map?"
+> "I’m already ON facilities by state? Can’t it say like “facilities by state, you are here? so I don't have to hear it a second time? So maybe it’s probably the interactive US map?"
 
 [moderator ends task]
 
