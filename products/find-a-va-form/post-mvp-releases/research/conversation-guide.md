@@ -54,7 +54,6 @@ Before we start, I want to go over a few things:
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
 ## Warm-up Questions - 5 minutes
-
 Let’s start with a few questions... 
 
 - *(if using a screenreader)* How would you rate your level of experience with using a screenreader--beginner, intermediate, advanced, or expert?
@@ -72,6 +71,8 @@ I would like you to share your screen with me so I can watch you go to a specifi
 *(refer to Screen sharing instructions above, if needed)*
 
 What kind of device are you using today? *(Phone / Tablet / Computer)*
+
+*RECORD design version: Instructions once at top / repeated for every form*
 
 ## Veteran Tasks
 Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to put into the Zoom chat for you to click on (https://staging.va.gov/find-forms/).
@@ -98,7 +99,7 @@ Say that someone from the VA asked you to fill out form **10-2850c**, and they s
   - *RECORD any reactions to the form auto-downloading:* ________________
   - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
   - *RECORD whether had difficulty finding the downloaded form: yes / no* 
-  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat (SUCCESS): yes / no / help needed*
   - *RECORD whether able to fill out form: yes / no / help needed*
  
 - What would you do if you wanted to continue filling out this form later? 
@@ -122,7 +123,7 @@ The person at the VA also asked you to fill out a second VA form: **10-0003k**. 
   - *RECORD any reactions to the form auto-downloading:* ________________
   - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
   - *RECORD whether had difficulty finding the downloaded form: yes / no* 
-  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat (SUCCESS): yes / no / help needed*
   - *RECORD whether able to fill out form: yes / no / help needed*
  
 - What would you do if you wanted to continue filling out this form later? 
@@ -146,7 +147,7 @@ I have a third VA form for you to find and fill out: **20-0968**.
   - *RECORD any reactions to the form auto-downloading:* ________________
   - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
   - *RECORD whether had difficulty finding the downloaded form: yes / no* 
-  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat (SUCCESS): yes / no / help needed*
   - *RECORD whether able to fill out form: yes / no / help needed*
  
 - What would you do if you wanted to continue filling out this form later? 
@@ -170,7 +171,7 @@ And there's one last form for you to find and fill out: **20-0995**.
   - *RECORD any reactions to the form auto-downloading:* ________________
   - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
   - *RECORD whether had difficulty finding the downloaded form: yes / no* 
-  - *RECORD whether opened form in Acrobat: yes / no / help needed*
+  - *RECORD whether opened form in Acrobat (SUCCESS): yes / no / help needed*
   - *RECORD whether able to fill out form: yes / no / help needed*
  
 - What would you do if you wanted to continue filling out this form later? 
