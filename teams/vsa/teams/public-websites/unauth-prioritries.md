@@ -79,7 +79,7 @@
       - Video in Search Results
   - Iterate
     - Type Ahead
-    - Site Indexing
+    - [Site Indexing/Search Relevancy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25556)
   - Maintain
     - Site SEO Optimization (e.g. fix errors)
   
