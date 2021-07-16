@@ -112,6 +112,8 @@ Copy TBD, coming 7/26/2021
   - Email address
 - The channel corresponding to the missing contact info should be replaced with text. 
 
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376735/simulate/no-panels?mode=i)
+
 #### Copy
 
 **Alert Copy**
