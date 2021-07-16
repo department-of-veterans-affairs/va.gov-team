@@ -4,10 +4,6 @@
 `Candy Clark, researcher`
 
 ---
-#### Questions
-- Will there be a tool for VSOs on va.gov, or is the info gathered here wrapped into the veteran’s tool?
-- Since we are working with the internal contact we have, do we leave the "must have" recruiting criteria?
----
 
 #### Background
 Establishing benefits and claims with the VA can be a lengthy and complicated process. The VA's Office of General Counsel has a list of accredited or certified individuals or groups (Veterans Service Organizations or Veterans Service Officers, VSO) that are best qualified to help Veterans in various tasks. Form 21-22/a allows users to appoint a VSO to represent them  to the VA.
@@ -30,8 +26,6 @@ The primary goal of this research is to understand how the representation/Power 
 - How long do appointments last?
 - When do appointments end? At the end of a claims process? After a certain amount of time?
 
-#### Hypotheses
-
 ### Method
 We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited through internal VA contacts. We are currently working with Paul Shute and Bill Meadows. Sessions will be recorded (with permission), and observers may be in attendance.
 
@@ -50,13 +44,13 @@ Recruit for 5 fulfilled sessions using the following criteria:
 **Principal participant criteria/question**
 - Are you an accredited representative with a Veterans Service Organization? (pass = yes)
 
-**Must have for participants**
+<!- **Must have for participants**
 - At least 1 representative from a federally-chartered VSO
 - At least 1 representative from a VSO that is not federally chartered
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
-- At least one person with a disability rating of 80% or greater
+- At least one person with a disability rating of 80% or greater -> 
 
 **Good to have for participants**
 - At least 1 participant 35 or under and 1 participant over 55
@@ -77,15 +71,20 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 #### eBenefits Team Availability
 
-Please allow 30 minutes between sessions.
+We are targeting July 21 - August 3, subject to VSO availablilty.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| -  | 9 AM to 5 PM |
-| -  | 9 AM to noon |
-| -  | 9 AM to 5 PM |
-| -  | 9 AM to 5 PM |
-| -  | 9 AM to 5 PM |
+| Wednesday, July 21  | 9:30 AM to noon |
+| Thursday, July 22  | 9:30 AM to 6 PM |
+| Friday, July 23  | 9:30 AM to 6 PM |
+| Monday, July 26  | 9:30 AM to 6 PM |
+| Tuesday, July 27  | 9:30 AM to noon |
+| Wednesday, July 28  | 9:30 AM to noon |
+| Thursday, July 29  | 9:30 AM to 6 PM |
+| Friday, July 30  | 9:30 AM to 6 PM |
+| Monday, August 2  | 9:30 AM to 6 PM |
+| Tuesday, August 3  | 9:30 AM to 6 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
