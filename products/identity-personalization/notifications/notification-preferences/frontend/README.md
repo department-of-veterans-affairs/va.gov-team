@@ -85,7 +85,7 @@ Copy below `h1`:
 
 **Additional info component**
 
-Copy TBD
+Copy TBD, coming 7/26/2021
 
 **Notification groups, channels, and items**
 
@@ -168,10 +168,13 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 - Display a success background-only alert immediately above the box the user just clicked
 - Save alert must be announced to screen reader users via `aria-live`. This may be tricky to implement if there is a timer that causes it to disappear. Let's talk to Josh about that. It currently disappears in other areas of the profile; he might bring that up as part of the audit currently in progress as of 4/8/21.
+- Any visible alert should hide when another checkbox is clicked
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i); use the first checkbox
 
 #### Copy
+
+Will be finalized 7/26/2021
 
 > You've updated your VA [SMS text or email] notifications.
 
@@ -187,7 +190,8 @@ Display error alert immediately after `h1`
 
 ### Save failure
 
-Display background color only error alert above the checkbox clicked.
+- Display background color only error alert above the checkbox clicked.
+- Any visible alert should hide when another checkbox is clicked.
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376467/simulate/sitemap?mode=i)
 
