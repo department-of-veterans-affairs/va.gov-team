@@ -1,4 +1,4 @@
-# Frontent Unit Testing
+# Frontend Unit Testing
 
 A unit test is a test that validates the behavior of a single unit of logic disconnected from all other units of logic. All FE apps on VA.gov should have unit tests (VSP's unit testing guidance is that tests cover at least 75% of code paths).
 
