@@ -73,7 +73,7 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 
 #### Figure P1-1
 
-<img src="https://user-images.githubusercontent.com/4960080/125805121-47859be1-8685-4e43-b876-c55377cc1310.png" alt="[Figure P1-1]" width="55%" height="55%">
+<img src="https://user-images.githubusercontent.com/4960080/125805121-47859be1-8685-4e43-b876-c55377cc1310.png" alt="visual diagram of P1's first attempt using 'skip to content', highlighting where user listens and interacts" width="55%" height="55%">
 ![Figure 1 1 1]
 
 ##### P1, Attempt #1, Using 'Skip to content' on VA.gov homepage
@@ -112,7 +112,7 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 
 #### Figure P1-2
 
-<img src="https://lh5.googleusercontent.com/fjeQ1iYLez4GaL-o5exjlTBPiHcXViBt7K5DVRCgFOvdtm_gEnMXnyjuAedrzguCU1wzDVQH6q6hM8lIpcdm9bpaBETH-8TsYFiMTQgo470_0LBS26aUWyzBS7dLFHV2rNWZNnLS"  alt="[Figure P1-2]" width="55%" height="55%">
+<img src="https://lh5.googleusercontent.com/fjeQ1iYLez4GaL-o5exjlTBPiHcXViBt7K5DVRCgFOvdtm_gEnMXnyjuAedrzguCU1wzDVQH6q6hM8lIpcdm9bpaBETH-8TsYFiMTQgo470_0LBS26aUWyzBS7dLFHV2rNWZNnLS"  alt="visual diagram of P1's second attempt using 'headings' from where he left off in first attempt, highlighting where user listens and interacts" width="55%" height="55%">
 
 ##### P1, Attempt #2, goes back to homepage, tries navigating via headings from where he left off
 
@@ -146,7 +146,7 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 
 #### Figure P1-3
 
-<img src="https://lh3.googleusercontent.com/fW9ILsx-fn9rc7tCfYDhfeTYdFRez9n95LgMwCGuiN0SsUUHe7hFtkE0NjjRx28iOrUs0f0fkZIfHSdanvKRdND24OG-NzZmuotCEcmR4qb6KU7n_1hwGVI5mAggprAzSPXziAFg" alt="[Figure P1-3]" width="55%" height="55%">
+<img src="https://lh3.googleusercontent.com/fW9ILsx-fn9rc7tCfYDhfeTYdFRez9n95LgMwCGuiN0SsUUHe7hFtkE0NjjRx28iOrUs0f0fkZIfHSdanvKRdND24OG-NzZmuotCEcmR4qb6KU7n_1hwGVI5mAggprAzSPXziAFg" alt="visual diagram of P1's third attempt using 'headings' from top of page, highlighting where user listens and interacts" width="55%" height="55%">
 
 ##### P1, Attempt #3, starts at the top of the page navigating via headings
 
@@ -188,7 +188,7 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 
   > "I really dislike the lists link; it doesn't always put everything in the list. That's the last thing I would do... See, this particular way, right here, to me, maybe I don't do it because it's like a 'blind only' thing and I rather navigate the page like everybody else does."
 
-<img src="https://user-images.githubusercontent.com/4960080/125809086-57494ad5-3413-47ce-a4cf-7ff6fd3821ca.png" alt="[Figure P1-4-1]" width="55%" height="55%">
+<img src="https://user-images.githubusercontent.com/4960080/125809086-57494ad5-3413-47ce-a4cf-7ff6fd3821ca.png" alt="P1 pulling up list links" width="55%" height="55%">
 
 [Does not find "Find a VA Location" in the list using 'F']
 
@@ -196,13 +196,13 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 
 [Later, user opens links list while global menu is open and does encounter 'Find a VA location']
 
-<img src="https://user-images.githubusercontent.com/4960080/125809977-9866595a-7741-474e-8713-b74574ad5a49.png" alt="[Figure P1-4-1]" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/4960080/125809977-9866595a-7741-474e-8713-b74574ad5a49.png" alt="view of list links while global nav is expanded" width="60%" height="60%">
 
   > "see, that links list thing doesn't work because it's in a menu."
 
 #### Figure P1-5
 
-<img src="https://lh5.googleusercontent.com/ML5Z0abgsawim478iQh2vdzt4H9rjrRnkZ8m4UBTmeEJMZDE8eIiR1xg_LAy3C1J6OMmj0UL-9D5xkhyraGqjx55LD_rSUvpKHHXCGFp_GZLmutfDoppAZd_aDD6IYmDTrplOw-z" alt="[Figure P1-5]" width="60%" height="60%">
+<img src="https://lh5.googleusercontent.com/ML5Z0abgsawim478iQh2vdzt4H9rjrRnkZ8m4UBTmeEJMZDE8eIiR1xg_LAy3C1J6OMmj0UL-9D5xkhyraGqjx55LD_rSUvpKHHXCGFp_GZLmutfDoppAZd_aDD6IYmDTrplOw-z" alt="diagram of P1's fifth attempt using the global nav, highlighting what user hears and what he interacts with" width="60%" height="60%">
 
 
 ##### P1, Attempt 5.
@@ -248,7 +248,7 @@ P1 used ‘Skip to content’ on VA.gov homepage, on his first of three failed a
 
 Two JAWS users, whose tech we were able to see and hear, shared a similar behavior of minimizing windows not in use and scaling down the size of their browser viewports. This can create a hybrid mobile/desktop experience for some users.
 
-<img src="https://lh4.googleusercontent.com/0bo3thJR-Hukrjhj9VXlO6vwkKvxfCI_VMWYpesUFRJ8a2anLnu51XdpM7iAxQBiU6-vpvFP0_tY2LikOFEIgrcDBK2RdIdBBqIvUAHH5JAvbdyyHv_BpXO4VSB_5wU1TQNsTCQ9" alt="[Figure 2]" width="60%" height="60%">
+<img src="https://lh4.googleusercontent.com/0bo3thJR-Hukrjhj9VXlO6vwkKvxfCI_VMWYpesUFRJ8a2anLnu51XdpM7iAxQBiU6-vpvFP0_tY2LikOFEIgrcDBK2RdIdBBqIvUAHH5JAvbdyyHv_BpXO4VSB_5wU1TQNsTCQ9" alt="side by side screengrabs of JAWS users' desktops looking almost identical" width="60%" height="60%">
 
 ---
 
@@ -264,7 +264,7 @@ Using JAWS, P10 tries to find the VA nearest to her using Google. She clarifies 
 
 but because she had run into a number of technical issues with JAWS ('Find' and 'list links' wouldn't work, something that can happen often from according to other JAWS users in the study) she was forced to 'read the page'. However, an issue with "VA Benefits and Health Care" in the global nav causes the screen reader to bypasses "Find a VA Location" and the user dead ends in a side navigation without ever hearing it.
 
-<img src="https://user-images.githubusercontent.com/4960080/125941561-b9cab838-57c5-42ff-b837-8adb0f792107.png" alt="google search for facilities" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/4960080/125941561-b9cab838-57c5-42ff-b837-8adb0f792107.png" alt="va page of texas facilities" width="60%" height="60%">
 
 > "And then you get into this list of.. where are these places?"
 
@@ -351,7 +351,8 @@ but because she had run into a number of technical issues with JAWS ('Find' and 
 
 When using magnification software like ZoomText, a user's viewable area is effectively shrunk to a small percentage of the total screen or window, depending on the level of magnification. This can make it difficult for users to locate items when navigating from page to page, especially when elements change their position on a page. P9 demonstrates how this is challenging when logging into MyHealtheVet.
 
-![P9-zoomtext-steps-sm](https://user-images.githubusercontent.com/4960080/125967597-fdc97410-6563-4fd6-b231-c21fb6f67f73.png)
+<img src="https://user-images.githubusercontent.com/4960080/125967597-fdc97410-6563-4fd6-b231-c21fb6f67f73.png" alt="visual diagram of the zoomed in portion of the screen that this zoomtext user likely sees as he logs into MyHealtheVet" width="60%" height="60%">
+
 
 1. “See sign in and register? I hit that” 
 2. “and now that went away”
