@@ -13,11 +13,11 @@
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-research-plan.md)
 
 ## Intro
-Good morning/afternoon and thank you for joining us today. My name is Candy and I have a few colleagues on the line to help me take notes. We are part of a team with the Department of Veterans Affairs that's moving some features of the old eBenefits site over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful for them. Our focus today is how users find and appoint representatives.
+Good morning/afternoon and thank you for joining us today. My name is `<name>` and I have a few colleagues on the line to help me take notes. We are part of a team with the Department of Veterans Affairs that's moving some features of the old eBenefits site over to VA.gov. We're learning what Veterans need to improve their online experience, and how we can make VA.gov more useful for them. Our focus today is how users find and appoint representatives. To start, I'll ask you a few questions about your background, then we'll move onto how representation starts and how you work with veterans. And, finally, we'll wrap up with limits of representation.
 
 There are a few things I need to mention before we start:
 - The session should take about 30 minutes. But you can end it at any point -- just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
-- We're not testing you in any way -- there are no right or wrong answers. We want to hear your thoughts about your experiences so that we can make improvements to VA.gov.
+- There are no right or wrong answers. We want to hear your thoughts about experiences so that we can make improvements to VA.gov.
 - Please say what's on your mind -- good and bad. I will not be offended by any opinions you express.
 - We'd like to record this session. This'll give us a record to use for note-taking. We'll store the recording on a private drive, and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - I'll ask "on the record" once the recording starts.
@@ -37,8 +37,8 @@ Okay, let’s talk a little bit about how Veterans and Service Members find you 
 - How do veterans or service members typically find you? (VA lookup, some other search like Google, referral, etc)
 - How do they contact you before they appoint a rep? (phone, email, webform…?)
 - Typically, how far along in the benefits/claims process are Veterans when start looking for a rep? 
-- When a Veteran is ready to appoint a representative, how do make that selection official? (use VA 21-22/a? typically use a paper form or submit electronically?)
-- `Do Veterans or Service Members select a rep individually or are they assigned in some way? If assigned, how does that happen or who makes that choice?`
+- When a Veteran is ready to appoint a representative, how do they make that selection official? (use VA 21-22/a? typically use a paper form or submit electronically?)
+- Aside from the what we just talked about, how else might a Veteran or Service Member find you?
 
  
 ## Section three: Working with Veterans
@@ -47,7 +47,7 @@ Thank you, that really helps me understand how Veterans start this process. Now,
 - After a Veteran or Service Member appoints you as their representative, how often do you interact with them?
   - How do you usually work with them - phone, email, in person, etc?
 - What are the most common issues you help with?
-- `Do you have a specialty that you focus on or do you handle all claims? Is that typical for representatives?`
+- What type of claims do you specialize in?
 
 ## Section four: Limits and ending appointment
 Okay, we’re almost finished. I’d just like to ask a few more questions about the limits of representation and how representation ends.
