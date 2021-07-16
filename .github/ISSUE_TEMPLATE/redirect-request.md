@@ -14,8 +14,8 @@ assignees: mnorthuis
 
 
 ### Type of request
-- [ ] We are retiring or taking down a page and need to redirect the URL (complete reidrect section)
-- [ ] We are changing the URL of an existing page (complete reidrect section)
+- [ ] We are retiring or taking down a page and need to redirect the URL (complete redirect section)
+- [ ] We are changing the URL of an existing page (complete redirect section)
 - [ ] We need a custom vanity URL (complete vanity URL section)
 
 ### Implementation date
