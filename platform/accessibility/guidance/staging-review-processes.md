@@ -97,21 +97,21 @@ We require that you verify all required checks were completed using TestRail or 
 
 ### Mobile
 
-Design most account for a minimum width of at least 320px and a minimum height of at least 256px
+Design must account for a minimum width of at least 320px and a minimum height of at least 256px
 
-Gestures must be simple and can be used with 1 finger when able (multi-finger gestures must have a single-finger option)
+Finger gestures must able to be used with 1 finger when able. Gestures can still be used with multiple fingers. Gestures that cannot be used with 1 finger will be reviewed on a case-by-case basis.
 
-Actions must trigger on touch/mouse up. Actions must be cancellable on touch-mouse down.
+Actions must trigger on touch/mouse up. Actions must be cancellable on touch/mouse down.
 
 ### Cognitive
 
-Inputs with a label must have a name that matches the label
+Inputs with an HTML label must have a HTML attribute name that matches the label
 
-Status messages (banners, notices, pop up disclaimers, etc) should be indentifiable programmably for assistive technologies determined through the "role" property
+Status messages ([modals](https://design.va.gov/storybook/?path=/docs/components-modal--default), [alerts](https://design.va.gov/storybook/?path=/docs/components-va-alert--default), [error messages](https://design.va.gov/patterns/messaging-dictionary), etc) should be identifiable programmably for assistive technologies determined through the "role" property
 
 ### Color
 
-Minimum Color Contrast ratio of 3:1
+Color contrast ratio must be a minimum of 3:1
 
 ## Foundational testing tips
 
@@ -276,8 +276,7 @@ Unresolved content resize issues are documented in issue tickets and listed as k
 
 #### Steps to test
 
-*   Use a mobile device to test a functionality of feature
-    *   Make sure you can fully utilize feature using only 1 finger to gesture (tapping, swiping, etc)
+*   Using a mobile device, make sure you can use the full functionality of a feature with only 1 finger to gesture (tapping, swiping, etc.)
 
 #### Definition of done
 
@@ -297,10 +296,8 @@ All functionality is available when limited to 1 finger to gesture
 
 #### Steps to test
 
-*   Touch/click down on a button/link/feature
-    *   The button/link/feature should not trigger
-*   Untouch/click up on a button/link/feature
-    *   The button/link/feature should trigger
+*   Touch/click down on a button/link/feature. The button/link/feature should not trigger.
+*   Untouch/click up on a button/link/feature. The button/link/feature should trigger.
 
 #### Definition of done
 
@@ -323,12 +320,11 @@ User should be able to cancel triggering a button/link/feature by moving finger/
 
 #### Steps to test
 
-*   Find input with label
-    *   Check to see if label and input name match
+*   Confirm that for any input with an HTML label, the input label and input HTML attribute name match.
 
 #### Definition of done
 
-Input label and name are matching
+Input HTML label and input HTML attribute name are matching
 
 #### Related resources
 
@@ -344,7 +340,7 @@ Input label and name are matching
 
 #### Steps to test
 
-*   Review status message html and check if it has the appropriate role for screen reader announcement
+*   Review status message HTML and check if it has the appropriate role for screen reader announcement
 
 #### Definition of done
 
