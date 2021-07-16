@@ -49,6 +49,11 @@ The participant tries to 'read the page'.  However, an issue with "VA Benefits a
 
 ## Additional Findings
 
+- For many Veterans, MyHealtheVet is their effective VA homepage. Some participants who had never been to VA.gov were very familiar with MyHealtheVet and overall have favorable opinions of it.  How does this health mental model affect how they approach other parts of VA.gov? Some participants didn’t think to look for a dermatologist within a facility locator tool but under health care or benefits. 
+
+- ZoomText is magnification software that allows low vision users to enlarge anything they see on their desktop screen and control settings like contrast and color. Although we were not able to observe ZoomText over Zoom in this study, two of the low vision Veterans in this study rely on it heavily. Some parts of VA.gov are difficult to use with magnification software and more research is needed to understand this. However, P9 was able to describe in vivid detail how difficult it is to log into MyHealtheVet while using ZoomText. See [Case Study P9](#case-study-p9) for his description. The participant explains that layouts on VA.gov that are constrained within a smaller area (e.g. 700 width content column layouts) were easier to navigate.
+    > "So if you got the screen big enough that you can read the stuff with your eyes, with the sight that you _do_ have, then you can’t see the other one until you move your cursor to it. If I have it small enough to see the whole page, then I can’t see the page." 
+
 ## Exhibits 
 
 ### Case Study P1
@@ -249,7 +254,7 @@ Two JAWS users, whose tech we were able to see and hear, shared a similar behavi
 
 ### Case Study P10
 
-#### Low vision user who cannot get her ZoomText to work switches to JAWS 
+#### Low vision user, who cannot get her preferred ZoomText magnification software to work, switches to JAWS 
 
 Using JAWS, P10 tries to find the VA nearest to her using Google. She clarifies if she should look for a va clinic or hospital. She is given the choice. She types in “VA facility near me… [erases 'me' and changes to] fairfield, texas"
 
@@ -336,3 +341,22 @@ but because she had run into a number of technical issues with JAWS ('Find' and 
 
 [moderator ends task]
 
+### Case Study P9
+
+#### Low vision user explains a recurrent issue with login when using ZoomText magnification software
+
+<img src="https://user-images.githubusercontent.com/4960080/125962050-4137d43e-ad30-43f5-8454-b31207d565de.png" alt="woman-at-a-computer-using-zoomtext" width="60%" height="60%">
+
+[ZoomText video demo on YouTube](https://www.youtube.com/watch?v=Xf6K5fyi6yc&t=7s)
+
+When using magnification software like ZoomText, a users viewable area is effectively shrunk to a small percentage of the total screen or window, depending on the level of magnification.
+
+![P9-zoomtext-steps-sm](https://user-images.githubusercontent.com/4960080/125960651-be73ab70-7f09-412e-b169-6c4e51749319.png)
+
+
+1. “See sign in and register? I hit that” 
+2. “and now that went away”
+3. “and see now I gotta go way down here, and hit that”
+4. “and then I gotta go way over here and accept”
+5. “and then I gotta search for it.”
+6. “here. To log into it.”
