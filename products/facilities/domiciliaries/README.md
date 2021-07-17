@@ -7,6 +7,7 @@ Domiciliaries are "shelters" (also referred to as [DRRTPs](https://www.va.gov/HO
   - [VA system page](https://www.va.gov/philadelphia-health-care/locations/philadelphia-va-domiciliary/)(No services listed)
   - [Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center](https://www.va.gov/philadelphia-health-care/locations/corporal-michael-j-crescenz-department-of-veterans-affairs/)
     - Services listed under "Homeless Veteran Care"
+    - [Legacy site](https://www.philadelphia.va.gov/services/homeless/index.asp)
 - **Eastern Colorado**
   - Valor Point VA Domiciliary
     - [VA system page](https://www.va.gov/eastern-colorado-health-care/locations/valor-point-va-domiciliary/)(No services listed)
