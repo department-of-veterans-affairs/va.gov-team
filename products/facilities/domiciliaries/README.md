@@ -7,7 +7,7 @@
 [Domiciliary types explained](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf)
 
 Domiciliary facilities are mainly distinguished by the type of services they provide. Larger facilities may serve multiple populations at the same location. The official categories are:
-- Domiciliary Residential Rehabilitation Treatment Programs (DRRTP)
+- Domiciliary Residential Rehabilitation Treatment Programs (DRRTP or RRTP)
 - Domiciliary Care for Homeless Veterans (DCHV)
 - Domiciliary PTSD (Dom PTSD)
 - Domiciliary SA (Dom SA)
