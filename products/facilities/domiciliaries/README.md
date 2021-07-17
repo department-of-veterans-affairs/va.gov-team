@@ -1,6 +1,10 @@
 ## Domiciliaries
 
-Domiciliaries are "shelters" (also referred to as [DRRTPs](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf)) providing services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients or victims of domestic violence. VA Domiciliaries are VA health facilities which are included as locations under the relevant VAMC. They don't fit the facility pattern established by the VAMC facility detail pages as they include minimal services, such as "extended care" (or none at all). The information that Veterans need for these types of facilities may be different than that which is expected for medical clinics.
+Domiciliaries are "shelters" (also referred to as [DRRTPs](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf)) providing services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients or victims of domestic violence.
+
+[Community Resource and Referral Centers (CRRCs)](https://www.va.gov/HOMELESS/CRRC.asp) help connect Veterans to various programs and services, including domiciliary facilities.
+
+VA Domiciliaries are VA health facilities which are included as locations under the relevant VAMC. They don't fit the facility pattern established by the VAMC facility detail pages as they include minimal services, such as "extended care" (or none at all). The information that Veterans need for these types of facilities may be different than that which is expected for medical clinics.
 
 ### Example locations:
 - **Philadelphia, PA**
