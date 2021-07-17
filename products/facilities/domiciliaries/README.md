@@ -16,9 +16,9 @@ Domiciliary facilities are mainly distinguished by the type of services they pro
 ### Example locations:
 
 - **Pennsylvania**
-  - **Coatesville, PA:** [Legacy site](https://www.coatesville.va.gov/services/Residential_Rehabilitation_Treatment_Programs.asp)
-  - **Butler, PA:** [Legacy site](https://www.butler.va.gov/services/Domiciliary_Residential_Rehabilitation_Treatment.asp)
-  - **Philadelphia, PA**
+  - Coatesville, PA: [Legacy site](https://www.coatesville.va.gov/services/Residential_Rehabilitation_Treatment_Programs.asp)
+  - Butler, PA: [Legacy site](https://www.butler.va.gov/services/Domiciliary_Residential_Rehabilitation_Treatment.asp)
+  - Philadelphia, PA
     - [VA system page](https://www.va.gov/philadelphia-health-care/locations/philadelphia-va-domiciliary/)(No services listed)
     - [Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center](https://www.va.gov/philadelphia-health-care/locations/corporal-michael-j-crescenz-department-of-veterans-affairs/)
       - Services listed under "Homeless Veteran Care"
