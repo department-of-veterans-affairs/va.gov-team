@@ -43,8 +43,10 @@ Domiciliary facilities are mainly distinguished by the type of services they pro
 - **Detroit, MI**
   - Detroit VA Domiciliary
     - [Facility locator page](https://www.va.gov/find-locations/facility/vha_553BU)
-  - John D. Dingell VA Medical Center (Domiciliary Residential Rehabilitation Treatment Program)
+  - John D. Dingell VAMC (Domiciliary Residential Rehabilitation Treatment Program)
     - [Legacy site page](https://www.detroit.va.gov/services/MH_DRRTP.asp)
+  - John D. Dingell VAMC (on campus transitional housing and services)
+    - [Legacy site page](https://www.detroit.va.gov/services/homeless/index.asp)
 - **Tampa, FL**
    - [VA system page](https://www.va.gov/tampa-health-care/locations/tampa-va-domiciliary/)
    - [Legacy site page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
