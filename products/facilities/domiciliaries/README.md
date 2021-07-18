@@ -50,3 +50,5 @@ Domiciliary facilities are mainly distinguished by the type of services they pro
 - **Tampa, FL**
    - [VA system page](https://www.va.gov/tampa-health-care/locations/tampa-va-domiciliary/)
    - [Legacy site page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
+- **Vancouver, WA**
+  - [Legacy site](https://www.portland.va.gov/services/Rehabilitation_Veterans_Recovery_House_A_Residential_Rehabilitation_Treatment_Program_RRTP.asp)
