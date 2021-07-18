@@ -9,7 +9,8 @@ Community Living Centers deliver nursing home level of care, skilled nursing and
 ### Community Living Center Examples
 
 - **Western Colorado**
-  - [Legacy site](https://www.grandjunction.va.gov/services/Community_Living_Center.asp)
+  - Grand Junction, CO
+    - [Legacy site](https://www.grandjunction.va.gov/services/Community_Living_Center.asp)
 - **Miles City, MT**
   - Miles City VA Community Living Center
     - [VA system site](https://www.va.gov/montana-health-care/locations/miles-city-va-community-living-center/)
