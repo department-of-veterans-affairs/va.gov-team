@@ -19,3 +19,5 @@ Community Living Centers deliver nursing home level of care, and they can be a t
   - Biloxi VA Medical Center
     - [Va system site](https://www.va.gov/gulf-coast-health-care/locations/biloxi-va-medical-center/)
         - Listed under "Extended care and rehabilitation"
+- **Minneapolis, MN**
+  - [Minneapolis Veterans Home site](https://mn.gov/mdva/homes/minneapolis/)
