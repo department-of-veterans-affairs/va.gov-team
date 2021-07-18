@@ -6,8 +6,6 @@ VA Community Living Centers are VA health facilities which are included as locat
 
 Community Living Centers deliver nursing home level of care, skilled nursing and/or medical care. They can be a temporary or permanent home. They can also provide rehab care/services.
 
-There are 2 free-standing CLCs with dual state status at this time. However, they may be different in other systems and not easily recognizable as CLCs.
-
 ### Community Living Center Examples
 
 - **Western Colorado**
