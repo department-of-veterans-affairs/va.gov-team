@@ -55,3 +55,37 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
         - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
           - Why? What are your impressions of the experience?
 - Thank you for helping us comtinue to improve the check-in experience.
+
+## Method 2: Internal VA, GCIO, and Ad Hoc Veteran Employees Review
+### Methodology and Recruitment
+- Recruit volunteers to do production testing. 
+  - VA (who have an association with this project), GCIO, and Ad Hoc employees, who are also Veterans.
+  - Outstanding question: how do we technically make it possible for them to test the system?
+- Send out complete information about the process to the They will complete check-in on their own time, then answer a SUS survey.
+
+### When? What dates do you plan to do research?
+- To be determined.
+
+### Conversation Guide
+- Prior to interacting with Veterans, take notes about the setup of the clinic.
+  - What does the area look like? 
+  - How many MSAs/clerks are available in the clinic? 
+  - What is the staff check-in process like?
+- When intercepting a Veteran...Hi! My name is [Name] and I'm a researcher at the VA. We created a new way to check-in using your mobile phone. 
+- Would you like to check-in via your mobile phone?
+  - If no:
+    - Thank you. Have a nice day.
+  - If yes:
+    - Do you mind if I observe you completing check-in and ask 2 follow-up questions about the experience? It will help us to continue to improve the check-in experience for Veterans like yourself. 
+      - If no:
+        - That is ok. Point them to the poster, so they can complete mobile check-in by themselves.
+      - If yes:
+        - Thank you. Direct them to the poster, and watch them complete check-in.
+          - Things to watch for:
+            - Did they successfully complete check-in?
+            - If not, what happened? Where did they get stuck?
+            - Did the Veteran talk to the MSA/clerk for any reason?
+              - Why?
+        - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
+          - Why? What are your impressions of the experience?
+- Thank you for helping us comtinue to improve the check-in experience.
