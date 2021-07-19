@@ -22,6 +22,7 @@ General notes:
 - We always prefer using top level properties on `appointment` as opposed to properties on items in `vvsAppointments` or `vdsAppointments`. MAS does some work to pull up properties associated with patients, which is normally what we want to use.
 - It's a bad idea to try to break up the appointments in MAS, even if you see both video and in person components. The merging logic is there for a reason and staying consistent with MAS's merging means that all clients using MAS are more likely to display appointments similarly.
 - It's also a bad idea to combine other sources of appointments together with MAS, unless you are very sure that there are no duplicates. VAOS does this with community care appointments, because we know that MAS is hiding the VistA records for those appointments. MAS should be the source of truth.
+- On VAOS, if there are multiple entries in vdsAppointments, we use the first one. We may want to switch to sorting these by earliest time, since we've seen one example where a provider VistA record that was 5 minutes after the patient VistA record was listed first
 - `appointment.facilityId` is the `sta3n` id (or VistA site id).
 - `appointment.sta6aid` is the id of the actual appointment location, based on the `facilityId` and `appointment.clinicId`.
 
