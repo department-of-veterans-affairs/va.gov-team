@@ -8,7 +8,7 @@
 - Desired date: Target launch 7/30/2021
 - Desired number of users: x
 - How you'll conduct the testing: 
--   Go to pilot site
+  - Go to pilot site
 - Would want to go on high volume days and time
 - NPS
 - General thoughts?
