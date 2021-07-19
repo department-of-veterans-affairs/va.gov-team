@@ -67,4 +67,6 @@ Platform brings:
 
 
 ## What is the outcome of this touchpoint?
-Platform reviewers document their feedback in a GitHub ticket. Platform will escalate critical issues if necessary to ensure they are addressed prior to launch. We'll identify launch-blocking accessibility issues and provide assistance, if requested, in getting issues resolved.
+Platform reviewers will assess products against the VA.gov Experience Standards and document their feedback in a GitHub ticket. We'll identify launch-blocking issues and provide assistance, if requested, in getting issues resolved. Platform will escalate critical issues if necessary to ensure they are addressed prior to launch. If a launch-blocking issue is challeneged, OCTO practice area leads and/or OCTO platform product owners will have the final say.
+
+**Issue tickets are not to be closed until the issue is resolved.** These tickets will be used to assess the health of VA.gov so it is critical tickets are not close prematurely.
