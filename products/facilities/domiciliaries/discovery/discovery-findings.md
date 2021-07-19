@@ -19,6 +19,8 @@ Domiciliary facilities are mainly distinguished by the type of services they pro
 
 [Mural board](https://app.mural.co/t/vaadhoc1321/m/vaadhoc1321/1626443115766/c7cd6759fcfac13269e363dee26fe7d188537eab?sender=u8a90be72499ecb4354e14700)
 
-Information about domiciliary locations is present on newer VA system pages, as well as legacy site pages, but the information available about facilities and services themselves is not consistent. Legacy sites tend to have more information about Site pages fall into a few categories of information availability:
+Information about domiciliary locations is present on newer VA system pages, as well as legacy site pages, but the information available about facilities and services themselves is not consistent. Pages have different levels of information availability:
 - No information about services
-  - Valor Point
+  - [Valor Point VA system site](https://www.va.gov/eastern-colorado-health-care/locations/valor-point-va-domiciliary/) || [Valor Point legacy site](https://www.denver.va.gov/locations/Valor_Point_VA_Domiciliary.asp)
+- Brief information about services
+  - 
