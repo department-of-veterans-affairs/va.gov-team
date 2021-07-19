@@ -45,7 +45,7 @@
     * Would it possible to align LH UX and CMS UX on taxonomy? (let's target for after LH has a chance to review the list)
 * VC CAP data
   * Waiting on how we determine lat/long that Dave is currently tracking down
-  * LH looking for confirmation that CMS push approach is viable. A: yes
+  * LH looking for confirmation that CMS push approach is viable. A: yes, will take about a sprint for CMS to set up (doesn't include testing)
 
 ## Monday July 12, 2021
 * CMS health services
