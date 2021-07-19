@@ -6,9 +6,7 @@
 
 ### Domiciliary categories
 
-[Domiciliary types explained](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf)
-
-Domiciliaries fall under the *Mental Health Residential Rehabilitation Program (MHRRTP)* category of VA programs. Programs are basically packages of services (as explained by Lisa Trombley), and may themselves contain other programs/services.
+Domiciliaries fall under the [Mental Health Residential Rehabilitation Program (MHRRTP)](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf) category of VA programs. Programs are basically packages of services (as explained by Lisa Trombley), and may themselves contain other programs/services.
 
 Domiciliary facilities are mainly distinguished by the type of services they provide. Larger facilities may serve multiple populations at the same location. The official service categories are:
 - Domiciliary Residential Rehabilitation Treatment Programs (DRRTP or RRTP)
