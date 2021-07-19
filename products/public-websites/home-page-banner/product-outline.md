@@ -1,6 +1,6 @@
 ## Product Outline
 
-Since the launch of VA.gov in 2018, the Website has supported/enable "emergency communications/messaging" from VA leadership at OPIA with a Home Page banner alert.  That 
+Since the launch of VA.gov in 2018, we have supported/enabled "emergency communications/messaging" from VA leadership at OPIA with a Home Page banner alert.  That 
 
 
 ![HP Banner](https://user-images.githubusercontent.com/63107147/126205733-c34132d0-8c11-4793-b4f0-93eca2e1ceef.png)
