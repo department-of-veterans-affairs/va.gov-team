@@ -2,6 +2,8 @@
 
 ## Moderator logistics
 
+*For all SCREEN READER users, schedule Josh or Angela to attend to help resolve any technical difficulties. Note that set up and user tasks may take longer and so the participant might get through fewer tasks.*
+
 *Review participant list for participant name and screener question responses*
 
 **10-15 min before session**: 
@@ -56,9 +58,11 @@ Before we start, I want to go over a few things:
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
-- *(if using a screenreader)* How would you rate your level of experience with using a screenreader--beginner, intermediate, advanced, or expert?
+- *(if using a screen reader)* How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
+- *(if using a screen reader)* What assistive technology are you using today?
 - What device are you using today? *(Phone / Tablet / Computer)*
 - What kind of a device is it? *(Windows / Mac / iPhone / Android)*
+- How would you prefer that I share a web page URL with you? Dictate it to you, put it in the Zoom chat, email it, (only if on a phone) text it?
 - Have you ever looked online for VA forms? 
   - If yes, can you describe the last time you did that? 
     - what looking for?
@@ -67,13 +71,13 @@ Let’s start with a few questions...
     - on what device(s)--computer, tablet, or smartphone? 
 
 ## Screen sharing
-I would like you to share your screen with me so I can watch you go to a specific web page. I'll need to see only a blank web browser window for now.
+I would like you to share your screen with me so I can watch you use a specific website. I'll need to see only a blank web browser window for now.
 *(refer to Screen sharing instructions above, if needed)*
 
 *RECORD design version: Instructions once at top / repeated for every form*
 
 ## Veteran Tasks
-Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to put into the Zoom chat for you to click on (https://staging.va.gov/find-forms/).
+Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (https://staging.va.gov/find-forms/).
 
 - *(Instructions for finding Chat, if needed)* In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
