@@ -98,7 +98,7 @@ July 23, 2021  |  TBD (non-screen reader user)
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), TBD (non-screen reader user)
-- Notetakers:	Perigean 12-5 pm EST, Cassandra Allen 5-8 pm EST (cassandra.allen@gcio.com)
+- Notetakers:	Perigean. If can't do after hours, Cassandra Allen can cover 5-8 pm EST (cassandra.allen@gcio.com)
 - Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (marci.mcguire@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Zach Morel (zach.morel@gcio.com)
  
 ## Resources	
