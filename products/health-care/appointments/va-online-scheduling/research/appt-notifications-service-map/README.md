@@ -23,7 +23,7 @@ We'll be running three different activities to capture this information:
 
 ### Document existing research around appointment notifications
 Create a list of resources to inform future work on appointment messaging
-Ongoing - see [Desk research: how are Veterans keeping track of their appointments](https://docs.google.com/document/d/1lBCmDudq__ZDm65LnIxf-MNxBGc8daQEIvTZbxiKYnk/edit#) [TODO - move to GH]
+Ongoing - see [Appointment notifications secondary research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map/appt-notifications-secondary-research.md)
 
 Document where different VA.gov projects that involve scheduling fit in the notification ecosystem.
 Ongoing - see [Service maps - VA appt tools - internal audit](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1606258692103/073961190cc646e036a4300e65524fa1b413182e?sender=ub08ff1d80ee7bd38d6c02354)
