@@ -12,4 +12,4 @@ This research is a collaboration between VAOS and the Authenticated Experience t
 - Prototype:
     - [Opt-out flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2)
     - [Opt-in flow](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669703)
-
+- [Findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md)
