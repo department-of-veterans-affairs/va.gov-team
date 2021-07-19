@@ -18,7 +18,7 @@ Existing research and other resources to help answer this question.
 
 ## Roles and responsibilities at facilities
 
-[Roles and responsibilities at VA facilities](TBD) [TODO: ADD doc]
+[Roles and responsibilities at VA facilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map/VAOS-facilities-roles-and-responsibilities.md)
 
 ### Mobile app
 
