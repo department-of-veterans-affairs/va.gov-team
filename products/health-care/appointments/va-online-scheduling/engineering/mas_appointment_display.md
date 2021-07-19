@@ -44,7 +44,7 @@ Appointments in the future:
 
 Video appointments have their own set of types with different rules. As a shorthand, `vvsAppointment` refers to `appointment.vvsAppointments[0]`.
 
-Video appointments where `vvsAppointment.appointmentKind` is `NO-VA-ID` are not shown.
+Video appointments where `vvsAppointment.appointmentKind` is `NO_VA_ID` are not shown.
 
 - `NO_VA_ID` appointments are for patients who aren't enrolled and won't show up through VAOS
 
