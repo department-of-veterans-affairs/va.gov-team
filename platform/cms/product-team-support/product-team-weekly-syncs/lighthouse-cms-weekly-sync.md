@@ -25,6 +25,13 @@
 
 </details>
 
+## Monday, July 19, 2021
+* CMS health services
+* VC CAP data
+* Clarification on workflow for VAMC user data request changes for facilities
+  * Current process is to email api@va.gov
+  * Suggestion to reroute users to VSSC
+
 ## Monday July 12, 2021
 * CMS health services
   * API pushing per facility - implementation timing (for initial bulk and then ongoing)
