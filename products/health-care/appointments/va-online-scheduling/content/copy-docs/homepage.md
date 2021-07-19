@@ -28,13 +28,13 @@ Primary and specialty care appointments are available.
 
 ### Appointment List Options
 
-Show by type
+Show by status
 
-{Upcoming, Open requests, Past, Canceled}
+{Upcoming, Requested, Past, Canceled}
 
-#### Open Requests
+#### Requests
 
-Your open appointment requests are listed below. Older requests are at the top of the list. These appointments haven't been scheduled.
+Your appointment requests are listed below. Older requests are at the top of the list. These appointments haven't been scheduled.
 
 #### Past
 
