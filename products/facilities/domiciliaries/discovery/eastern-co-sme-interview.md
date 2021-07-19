@@ -22,7 +22,6 @@
      - Who normally contacts you to find out about your available services (Veterans,caregivers)?
           - How do they normally find out about you (online, through other Veterans, phone)?
           - Who do you believe would search for information about your facility online (Veterans, caregivers, etc)?
-          - ~~Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?~~
      - What term do you use to describe your facility (i.e. officially it's "domiciliary" but is another commonly used)?
           - What terms to people staying at the facility use to describe it?
 - **Services**
