@@ -74,5 +74,5 @@ Thank you to the following individuals who contributed to these guidelines:
 - Emily Mann
 - Meli Manak
 - Trevor Pierce
- -Martha Wilkes
+- Martha Wilkes
 
