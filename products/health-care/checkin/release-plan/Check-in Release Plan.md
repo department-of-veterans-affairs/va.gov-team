@@ -6,7 +6,7 @@
 
 ### Planning:
 - Desired date: Target launch 7/30/2021
-- Desired number of users: x
+- Desired number of users: Target pilot site: Martinsburg, WV. Number of users to be determined based on site visit and communication with staff. 
 - How you'll conduct the testing: 
   - Go to pilot site
     - Would want to go on high volume days and time
