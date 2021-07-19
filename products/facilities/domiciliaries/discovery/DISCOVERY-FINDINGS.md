@@ -29,3 +29,9 @@ Information about domiciliary locations is present on newer VA system pages, as 
   - [VAMC locations under "Homeless Veteran care"](https://www.va.gov/philadelphia-health-care/locations/corporal-michael-j-crescenz-department-of-veterans-affairs/)
 - Detailed information about services
   - [Tampa VA Domiciliary legacy page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
+
+### The domiciliary landscape [reorganize & update w/
+
+ - **Facilities**
+ - **Services**
+ - **Referrals & admissions**
