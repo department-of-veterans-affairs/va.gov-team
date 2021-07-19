@@ -28,12 +28,9 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - Watch the Veteran complete check-in on their mobile phone.
 - Ask a few follow-up questions.
 
-### When?
-Timeline: What dates do you plan to do research?
-- TBD. 
-- To coordinate with the pilot location.
-  - Find out from pilot site what the busiest day(s) and time(s) are and try to complete this research during this time.
-  - 
+### When? What dates do you plan to do research?
+- To be determined. Coordination with the pilot location(s) needed.
+  - Find out from pilot site what the busiest day(s) and time(s) are and try to complete this research during that time.
 
 ### Conversation Guide
 - Prior to interacting with Veterans, take notes about the setup of the clinic.
