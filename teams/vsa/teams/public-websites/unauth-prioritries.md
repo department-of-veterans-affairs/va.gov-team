@@ -27,7 +27,8 @@
         - [Intake ticket to add OAR "File a decision review" link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
       - Home Page Alert Banner to make process/functionality more "systematic" 
         - [ ] Initiative Brief or Product Outline
-        - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/unauth-prioritries.md)
+        - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
+        - [Dismissable HP Banner Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27240)
         - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
         - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
         - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
