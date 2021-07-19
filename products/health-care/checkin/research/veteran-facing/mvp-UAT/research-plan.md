@@ -40,7 +40,7 @@ Timeline: What dates do you plan to do research?
   - What does the area look like? 
   - How many MSAs/clerks are available in the clinic? 
   - What is the staff check-in process like?
-- When intercapting a Veteran...Hi! My name is [Name] and I'm a researcher at the VA. We created a new way to check-in using your mobile phone. 
+- When intercepting a Veteran...Hi! My name is [Name] and I'm a researcher at the VA. We created a new way to check-in using your mobile phone. 
 - Would you like to check-in via your mobile phone?
   - If no:
     - Thank you. Have a nice day.
