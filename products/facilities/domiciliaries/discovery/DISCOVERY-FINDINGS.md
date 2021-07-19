@@ -30,7 +30,9 @@ Information about domiciliary locations is present on newer VA system pages, as 
 - Detailed information about services
   - [Tampa VA Domiciliary legacy page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
 
-### The domiciliary landscape [reorganize & update w/
+### The domiciliary landscape
+
+*[REORGANIZE/UPDATE DISCOVERY QUESTIONS FOR THIS SECTION - INCLUDE INTERVIEW/RESEARCH DATA, COVERING DIFFERENCES ACROSS SYSTEM]*
 
  - **Facilities**
  - **Services**
