@@ -14,7 +14,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - How do staff feel about the mobile check-in solution?
 
 ### Hypotheses:
-- Veterans will be able to successfully complete check-in on their mobile device. Success = The Veteran didn't have to talk to the front line clerk/MSA to check-in. The office knew they were in the waiting room and called them back for their appointment.
+- Veterans will be able to successfully complete check-in on their mobile device. Success = The office knew they were in the waiting room and called them back for their appointment.
 - Veterans feel the mobile check-in experience is a option that they will continue to utilize.
 - The staff experience should improve due to shorter lines, but the impact to their workflow and experience with software should remain relatively unchanged.
   - First, we need to verify if VetLink can be continued to be utilized. We also need to understand the workflow of the pilot site(s) to really understand the potential impacts to the staff workflow.
@@ -53,6 +53,8 @@ Timeline: What dates do you plan to do research?
           - Things to watch for:
             - Did they successfully complete check-in?
             - If not, what happened? Where did they get stuck?
+            - Did the Veteran talk to the MSA/clerk for any reason?
+              - Why?
         - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
           - Why? What are your impressions of the experience?
 - Thank you for helping us comtinue to improve the check-in experience.
