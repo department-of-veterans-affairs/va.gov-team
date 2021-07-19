@@ -22,13 +22,14 @@ VFS brings:
   - Product Manager (required)
   - OCTO-DE Design Lead (required)
   - OCTO-DE Product Lead (recommended)
-  - Content, IA, and QA specialists (if applicable)
+  - Accessibility, Content, IA, and QA specialists (if applicable)
   - Other stakeholders you want to invite (if applicable)
 
 Platform brings (when applicable):
   - Design
   - Information architecture
   - Product
+  - Accessibility 
   - Analytics
   - Content
   - OCTO-DE Practice Areas Leads
