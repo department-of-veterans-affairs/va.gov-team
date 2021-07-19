@@ -42,11 +42,11 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
   - If no:
     - Thank you. Have a nice day.
   - If yes:
-    - Do you mind if I observe you completing check-in and ask 2 follow-up questions about the experience?
+    - Do you mind if I observe you completing check-in and ask 2 follow-up questions about the experience? It will help us to continue to improve the check-in experience for Veterans like yourself. 
       - If no:
         - That is ok. Point them to the poster, so they can complete mobile check-in by themselves.
       - If yes:
-        - Thank you. It will help us to continue to improve the check-in experience for Veterans like yourself. Direct them to the poster, and watch them complete check-in.
+        - Thank you. Direct them to the poster, and watch them complete check-in.
           - Things to watch for:
             - Did they successfully complete check-in?
             - If not, what happened? Where did they get stuck?
