@@ -1,4 +1,4 @@
-## Product Outline
+## Home Page Banner Product Outline (v2.0)
 
 Since the launch of VA.gov in 2018, we have supported/enabled "emergency communications/messaging" from VA leadership at OPIA with a Home Page banner alert.  That 
 
