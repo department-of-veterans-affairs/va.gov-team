@@ -2,7 +2,7 @@
 
 **Name:** Dr. Mandy Rabenhorst-bell (mandy.rabenhorst-bell@va.gov)
 
-**Title:** Section Chief, clinical psychologist for Eastern CO domiciliary system
+**Title:** Section Chief; clinical psychologist for Eastern CO domiciliary system
 
 **Location(s):**
 - [Denver VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)
