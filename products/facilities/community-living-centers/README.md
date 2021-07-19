@@ -4,7 +4,7 @@
 
 Community Living Centers deliver nursing home level of care, and they can be a temporary or permanent home. They can provide a variety of services included short term nursing, rehabilitation, and hospice care, to long term assisted living care.
 
-### Community Living Center Examples
+### Example locations
 
 - **Western Colorado**
   - Grand Junction, CO
@@ -22,3 +22,4 @@ Community Living Centers deliver nursing home level of care, and they can be a t
         - Listed under "Extended care and rehabilitation"
 - **Minneapolis, MN**
   - [Minneapolis Veterans Home site](https://mn.gov/mdva/homes/minneapolis/)
+    - This fits the description of a CLC, but may not be associate with the VA
