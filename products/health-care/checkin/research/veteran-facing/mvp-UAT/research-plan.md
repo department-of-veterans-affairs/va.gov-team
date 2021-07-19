@@ -26,7 +26,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
   - Work with MSAs at desk to determine best location/let them know what's going on, etc.
   - Ask as many Veterans with appointments at the pilot clinics as we possible can, while we are there.
 - Watch the Veteran complete check-in on their mobile phone.
-- Ask a few follow-up questions.
+- Ask follow-up questions (including Net Promoter Score).
 
 ### When? What dates do you plan to do research?
 - To be determined. Coordination with the pilot location(s) needed.
