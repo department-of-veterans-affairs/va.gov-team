@@ -44,27 +44,28 @@ It has been discussed to update the Diary Entry directly, but there are a few ch
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+* Effectively at 0%
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: More Veterans have verified that their dependents are correct, or have the option to correct them.
+  - Key result: Percentage comparison of annual updates compared to total (0%+)
+  - Key result: Conversion rate of presented question vs skipped (>50%)
 
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Veterans will close modal windows without looking , especially if in their way to do something else.
+- The modal is not clear/simple  enough
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Starting with a modal window that once seen to be effective, can be displayed anywhere on the site.
+- An inline approach might be advantageous for some pages (View Dependents), as well as email campaings that drive traffic to View Dependents/Modal
+- Not sharing Dependents NOT on award at this time as we want to keep messaging simple and non-awarded dependents are not impacting any party financially
+- The modal window can travel aroudn the site as needed, be granualr in how it and when it gets presented
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
@@ -80,18 +81,22 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - August 31, 2021
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
-  - 
+  - +1 month
 ---
 
 ## Solution Narrative
 
 ### Current Status
+- FE complete
+- BE testing some Centralized Mail pdfs
 
 ### Key Decisions
+- Because this question is so important, we are working very closely with the Comp Innocvation Team that is going to be producing global comms on this feature once available.
+- There is a Congressional mandate for this to be in place ASAP.
 
 ---
    
@@ -107,11 +112,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: eBenefits
+- GitHub Label: #vsa-ebenefits
+- Slack channel: #vsa-ebenefits-migration
+- Product POCs: Jason Wolf
+- Stakeholders: Paul Shute, Alejandro Mendiolaflores
 
 </details>
 
@@ -127,7 +132,3 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 </details>
 
 
-#### Stakeholders
-
-- Paul Shute
-- Alejandro Mendiolaflores
