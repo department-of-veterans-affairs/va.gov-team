@@ -13,8 +13,8 @@ __Not changed:__ Rubric for display hierarchy is still a) Emergency banner, b) S
 
 __1. Home Page Emergency banner__
 
-- Ability to publish: OPIA, DEPO, VISNs, and VAMCs. 
-- OPIA can publish on VA.gov homepage via Drupal.  Does not require platform deployment.
+- Ability to publish: OPIA-only via DEPO (Public Websites). 
+- OPIA can publish on VA.gov homepage-only via an update to a file on GitHub.  This file is then PR'ed by a front end engineer on Public Websites, merged by platform after review and then deployed with the daily afternoon content build.   If the file needs to be deployed more immediately or during off-hours (evenings, weekends), the process requires Platform approval for an out-of-band deployment.
   - Typically Josh Tushcher  or Gary Hicks, via YAML/GitHub
   - Requires PR review by FE engineer -- must be approved within 15m
   - Use Cases: Natural Disasters, Operational emergencies, Fed Gov shutdown
