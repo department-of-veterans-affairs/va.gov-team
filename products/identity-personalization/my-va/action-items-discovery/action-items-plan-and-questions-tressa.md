@@ -68,6 +68,7 @@ June 30, 2021
 - Do users need to see all the alerts they've ever had? 
 - What should this section be called?? (alerts, notifications, action items??)
 - Do people prefer newsfeed or actual alerts?
+- How do people know if a task is complete?
 
 
 ## Questions for the team:
