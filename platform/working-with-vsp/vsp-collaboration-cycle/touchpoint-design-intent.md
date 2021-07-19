@@ -43,7 +43,7 @@ VFS provides:
 - Any other artifacts you have so far
 
 ## What is the outcome of this touchpoint?
-You'll receive feedback from design, accessibility, and IA. You won't receive feedback from content and QA, as it's too early in the development process.
+You'll receive feedback from design and IA only. You won’t receive feedback from accessibility, content, or QA, as it’s too early in the development process.
 
 Platform reviewers will document their feedback, if applicable, in a GitHub ticket. Feedback tickets will be made available to VFS teams no later than EOD the next business day following the meeting. In addition, OCTO-DE/Platform may:
 
