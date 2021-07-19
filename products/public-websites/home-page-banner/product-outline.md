@@ -1,6 +1,6 @@
 ## Product Outline
 
-
+Since the launch of VA.gov, the Website has provided "emergency communications/messaging" from VA leadership by deploying a Home Page banner alert 
 
 **How might we make the Veteran experience of starting online applications more seamless and successful?**
 
