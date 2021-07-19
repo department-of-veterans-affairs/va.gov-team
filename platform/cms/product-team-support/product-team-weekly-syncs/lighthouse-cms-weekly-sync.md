@@ -30,11 +30,22 @@
 
 ## Monday, July 19, 2021
 * Clarification on workflow for VAMC user data request changes for facilities
-  * Current process is to email api@va.gov
-  * Suggestion to reroute users to VSSC
+  * Current process is to email api@va.gov (LH customer support team)
+  * Suggestion to reroute users to VSSC = VAST
+  * LH wants to own any data that flows through it
+  * VAST data entries take an approved editor
+  * VAST data changes take a while so encourage/remind VHA Digital Media to send requests in as early as possible (can take weeks)
+    * Dave C to leverage "Did You Know?" type announcements to remind
 * CMS health services
+  * LH to discuss internally how to handle services
+  * LH requesting a list of service names to be able to start stress testing (current names as they are) = can be found here:  https://prod.cms.va.gov/vha-health-services/export, doesn't have unique ID which we'll probably want to leverage as unique ID
+    * Need to account for these changing (e.g. LGBT to LGBTQ+) as well as new
+    * Q: is there a static record of these services?
+    * A: in the CMS there's a "term_ID" which might be possible to use as a unique identifier (also, "Health Service API ID" is currently visible at https://prod.cms.va.gov/vha-health-services)
+    * Would it possible to align LH UX and CMS UX on taxonomy? (let's target for after LH has a chance to review the list)
 * VC CAP data
-
+  * Waiting on how we determine lat/long that Dave is currently tracking down
+  * LH looking for confirmation that CMS push approach is viable. A: yes
 
 ## Monday July 12, 2021
 * CMS health services
@@ -57,7 +68,6 @@
 * What happens when a new facility/system gets created?
   * Currently the CMS doesn't assign a VISN, will need to be manually assigned
   * This is because there is no source for that info
-
 
 ## Monday June 28, 2021
 * How LH's API should get data for CMS health services
