@@ -102,7 +102,7 @@ VA device appointments are video appointments where `vvsAppointment.appointmentK
 
 - Label: VA Video Connect using a VA device
   - Under review, since they are not VA Video Connect and this may be misleading
--  Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
+- Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
   - Date is in ISO format, in UTC
   - Displayed in timezone of facility with id `appointment.facilityId`.
 - Location: Not shown
@@ -167,7 +167,7 @@ These are VistA appointments that have `appointment.phoneOnly` set to true.
 
 ## Community care
 
-These are VistA appointments that have `appointment.communityCare` set to true. This is basically a stub for tracking purposes. They are not returned in MAS and we do not want to show these if possible.
+These are VistA appointments that have `appointment.communityCare` set to true. They are basically a stub for tracking purposes. They are not returned in MAS (that logic is controlled by feature flag), they will not be returned in MAS v2 (CC appointments will come from HSRM directly), and so VAOS has no plans to actually show them in production when using MAS v1.
 
 - Label: Community care
 - Appointment time: `appointment.startDate` or `vvsAppointment.dateTime`.
