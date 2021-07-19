@@ -9,14 +9,14 @@
 - Desired number of users: x
 - How you'll conduct the testing: 
   - Go to pilot site
-- Would want to go on high volume days and time
-- NPS
-- General thoughts?
-- What did you like? Not like?
-- Work with pilot and have them get feedback (similar to Questionnaire plan: https://docs.google.com/presentation/d/1XAqnUKsL5C-Btg_QTFwLUWJeRbn4xNB-Lhzttm-9P4c/edit?usp=sharing)
-- Benefit of veteran and staff feedback.
+    - Would want to go on high volume days and time
+      - NPS
+      - General thoughts?
+      - What did you like? Not like?
+  - Work with pilot and have them get feedback (similar to Questionnaire plan: https://docs.google.com/presentation/d/1XAqnUKsL5C-Btg_QTFwLUWJeRbn4xNB-Lhzttm-  9P4c/edit?usp=sharing)
+  - Benefit of veteran and staff feedback.
 - Find VA, GCIO, and Ad Hoc employees to do production testing.
-- SUS
+  - SUS
 ### Results:
 - Number of users: x
 - Number of bugs identified / fixed: x/x
