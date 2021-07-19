@@ -29,7 +29,6 @@ Platform brings (when applicable):
   - Design
   - Information architecture
   - Product
-  - Accessibility 
   - Analytics
   - Content
   - OCTO-DE Practice Areas Leads
