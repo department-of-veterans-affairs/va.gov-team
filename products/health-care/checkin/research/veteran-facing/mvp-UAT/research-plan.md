@@ -113,3 +113,15 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
       - Why? What are your impressions of the experience?
       - What did you like and dislike about the experience?
       - Do you have any other feedback on checking in via your mobile phone?
+
+
+## Method 4: Pilot Site Feedback from Staff
+### Methodology and Recruitment
+- The check-in team reaches out to the pilot site(s) after the check-in experience has been running for a little bit. 
+  - Feedback can be soliticited via email or remote meeting.
+  - Try to invite as many staff and roles as possible at the pilot site to give feedback.
+
+### When? What dates do you plan to do research?
+- To be determined between pilot site and check-in team.
+
+### Conversation Guide
