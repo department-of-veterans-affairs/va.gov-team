@@ -70,8 +70,6 @@ Let’s start with a few questions...
 I would like you to share your screen with me so I can watch you go to a specific web page. I'll need to see only a blank web browser window for now.
 *(refer to Screen sharing instructions above, if needed)*
 
-What kind of device are you using today? *(Phone / Tablet / Computer)*
-
 *RECORD design version: Instructions once at top / repeated for every form*
 
 ## Veteran Tasks
