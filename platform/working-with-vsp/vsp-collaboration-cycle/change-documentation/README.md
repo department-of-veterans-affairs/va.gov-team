@@ -1,6 +1,9 @@
 ## Collaboration Cycle - Change Log
 
 
+### July 19, 2021 
+- **Design Intent updated.** Template has been updated to add accessibility back into design intent.
+
 ### June 28, 2021 
 - **Design Intent, Midpoint Review, and Staging Review templates updated.** Templates have been updated to reflect that Staging Reviews can only be scheduled on Thursday during the 1:30pm and 2:00pm time slots. Design Intent and Midpoint Review templates have also been updated to reflect that these touchpoints can only be scheduled on Monday, Tuesday, or Friday.
 
