@@ -296,7 +296,7 @@ Navigate through the landmarks/regions of the page | 3.2%
 - 4.5 - I want to choose by something that I’m familiar with, like clinics or hospitals
      > [P10] “You know. The question is. Is it a VA clinic or a VA hospital? That’s the main thing.”
 - 4.6 - The service type combo box doesn’t work
-     - When a user enters this type ahead combo box, the screen reader tells them to choose a service type but there are no choices until a user types and this interaction tripped up multiple users.
+     - When a user enters the Service Type combo box / Community Providers (in VA's network), the screen reader tells them to choose a service type but there are no choices until a user types and this interaction tripped up multiple users.
      > [P2] “Seems to be stuck on listbox for service type. It's not letting me check... dermatology... Used 'enter', but not selecting."
      > [P7] "there seems to be only chiropractor and optometrist and I have a community care provider I see here in town. It says there’s supposed to be a list."
 - 4.7 - If I’m in a crisis, I won’t want to struggle with this page
