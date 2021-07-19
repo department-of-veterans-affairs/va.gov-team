@@ -16,13 +16,16 @@
 <details>
   <summary>Parking lot</summary>
   
-  ## Action Items:
-  * Dave to send CAP workflow to CMS and Lighthouse teams (waiting on Michelle to review) - no update as of 4/12
-  * Lighthouse to investigate pushing of services in bulk. (+11,000 if doing a bulk push of one service at a time, not an immediate need) - no update as of 4/12
+  ## Open Action Items:
   * Pushing Vet Center CAP would need a new push endpoint or a new nightly sync from Lighthouse. - will need to be prioritized
   * Detailed services returning an empty list rather than a null statement. Any next steps? From a data integrity standpoint a non-issue but Adam would like to go back and clean-up at some point.
     * Noticing automated schema tests not happy so looking to prioritize at some point
-
+  * From 5/10/21 - When a Vet Center editor archives a Vet Center CAP, CMS will keep the data in archived (unpublished) form. Related questions: 
+    * CMS will push this content update to Lighthouse.
+    * CMS issue for content lifecycle documentation for CAPs, including Lighthouse dependencies.
+    * CMS to mockup what the push fo CAPs to LH will look like
+  * From 7/12/21 - LH will need a list of name strings to be sent in order to map service name to internal service name; CMS will need to iron out naming convention in order to send** (also research what's the right path for the data)
+ 
 </details>
 
 ## Monday, July 19, 2021
