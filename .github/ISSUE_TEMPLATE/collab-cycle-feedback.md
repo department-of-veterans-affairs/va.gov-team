@@ -37,4 +37,4 @@ assignees: ''
 - Add assignees based on collab cycle touchpoint
   - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
   - **Midpoint Review**: VFS PM, yourself (optional)
-  - **Staging Review**: VFS PM, yourself (optional)
+  - **Staging Review QA Only**: VFS PM, yourself (optional)
