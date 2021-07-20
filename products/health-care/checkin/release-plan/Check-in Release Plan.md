@@ -11,7 +11,7 @@
 ### Planning:
 - Link to [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-UAT/research-plan.md) for UAT
 - Desired date: Target launch 7/30/2021
-- Desired number of users: Pilot site will be Martinsburg, WV. Number of users to be determined based on site visit and communication with staff. Target number ~ 50 participants within first month.
+- Desired number of users: Pilot site will be Martinsburg, WV. Number of users to be determined based on site visit and communication with staff. Target number would like to see ~ 50 participants within first month.
 - How you'll conduct the testing: 
   - Go to pilot site
     - Would want to go on high volume days and time
