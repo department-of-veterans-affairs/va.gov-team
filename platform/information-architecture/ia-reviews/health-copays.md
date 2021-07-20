@@ -27,7 +27,8 @@ Diagram illustrates cross-linking paths from new landing page as well as individ
 Page | URL | Breadcrumb | Description
 --- | --- | --- | ---
 Pay copay bills static page | https://www.va.gov/health-care/pay-copay-bill/ | Home > Health care > Pay your VA copay bill |  This is an existing page, no changes to URL or breadcrumb.
-View copay bill tool/form |  www.va.gov/health-care/pay-copay-bill/xxxxx  |  Home > Health care > Pay your VA copay bill > [Page H1]  | New tool to view copay bills. <br> ***URL TBD based on H1 of page.***
+View copay bills tool |  www.va.gov/health-care/pay-copay-bill/xxxxx  |  Home > Health care > Pay your VA copay bill > [View copay bills page H1]  | New tool to view copay bills. <br> ***URL TBD based on H1 of page.***
+Copay bill details |  www.va.gov/health-care/pay-copay-bill/xxxxx/xxxx  |  Home > Health care > Pay your VA copay bill > [View copay bills page H1] > [Copay bill details page H1]   | New tool to view copay bills. <br> ***URL TBD based on H1 of page.***
 Financial hub static landing page   | www.va.gov/xxxxxx   | Home > [H1 of page]   | New static landing page provides links to all financial-related tools and forms 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
