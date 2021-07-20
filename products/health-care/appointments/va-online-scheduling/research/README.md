@@ -2,7 +2,7 @@
 
 ## Upcoming
 
-Appointments notifications service map.
+Appointments notifications service map. - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map)
 
 ## 2021 Studies
 
