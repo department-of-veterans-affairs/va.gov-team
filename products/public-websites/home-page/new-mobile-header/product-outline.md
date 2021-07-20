@@ -1,17 +1,7 @@
 ## New VA.gov Mobile Header
 
-Since the launch of VA.gov in 2018, we have supported/enabled "emergency communications/messaging" from VA leadership at OPIA with a Home Page banner alert.  The process by which that banner is used and deployed is **unique and problematic**.  In short:
+TBD
 
-- OPIA can publish on VA.gov homepage-only via an update to a yaml file with an HTML snippet on GitHub. This file is then PR'ed by a front end engineer on Public Websites, merged by platform after review and then deployed with hourly content builds. If the file needs to be pushed into production more immediately or during off-hours (evenings, weekends), the process requires Platform approval for an out-of-band deployment and a full content build (a process that can take up to one hour).
-
-- There are multiple issues related to this process:
-
-  - (1) **Single-threaded dependency** -- especially during off-hours -- on one knowledgeable Public Websites engineer (formerly Nick Sullivan, now Kelson Adams) to PR and promote the yaml file once it is updated by OPIA.  There currently is no "back up" plan if the Public Website engineer is unreachable.
-  - (2) **Communication silo** - the way OPIA (aka Josh Tuscher) notifies VA.gov that the banner is going to be used/updated varies -- sometimes he reaches out to the Public Websites Product Owner via Teams, sometimes he contacts the PW engineer directly via mobile phone.  There currently is no "official notification" process in place that ensures this event is more broadly communicated and managed.
-  - (3) **Risk of content error** - the yaml file approach requires OPIA to create or update content using what amounts to unstructured HTML mark-up.  As a result, there is no built-in link checking, spell checking, text formatting capability.  That has already resulted in content issues -- misspellings, broken links, formatting issues. Worth noting: During off-hours, weekends it is often the case that the OPIA author of the alert needs to make the change using his mobile device, increasing the risk of error.
-  - (4) **Delayed publishing** - at one time, deploying the yaml file did not require waiting for an hourly content build. Once reviewed and approved by the PW FE engineer, the file could be pushed into production in real-time.  However, a new content build process introduced in mid-2020 moved the HP banner alert into the standard publishing path.  The business requirement is for the content to go live within 15 minutes of request for PR review.
-
-![HP Banner](https://user-images.githubusercontent.com/63107147/126205733-c34132d0-8c11-4793-b4f0-93eca2e1ceef.png)
 
 ## The Problem to be Solved
 
@@ -27,44 +17,7 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 **Requirements**
 
-- **Short Term: Improving the existing yaml file approach**
-  - **Awareness & Response:** Create a communication channel from VA stakeholder (OPIA) that notifies multiple VA.gov team-members and Platform when a new or updated Alert is planned.
-    - Idea: Create an integrated HP Banner Alert channel in Teams (used by OPIA) and Slack (used by VA.gov); this must be tied to the #oncall channel for off-hours support.
-  - **Redundancy:** Ensure any FE engineer (including #oncall engineer) is trained to implement the HP Banner alert process.
-    - Idea: Make this a Site-Ops/Platform responsibility, eliminating reliance on Public Websites engineer/team.
-    - Idea: Make the "How to do" document available to all teams/developers on https://depo-platform-documentation.scrollhelp.site/index.html
-  - **Publishing Speed** Create a fast-track publishing capability for the HP Banner Alert to ensure that once it is PR'ed, it can be deployed into production within 15 minutes.
- 
- - **Long Term: Moving from yaml to Something Better**
-   - Add HP banner content to CMS (ore technical background about solutioning [available here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991#issuecomment-875210594)
-     - Pros
-       - does not require OOB deploy
-       - has built in error checking for mis-spellings, broken links, bad content formatting
-       - uses existing content publishing pipeline
-     - Cons
-       - requires CMS/GFE access
-       - requires CMS permissions and field
-       - can be blocked by content build errors
-     - Mitigations
-       - improve specificity of permissions
-       - have OCTODE staff perform content updates
-   - Load data from public Github repo using React widget
-     - Pros
-       - does not require GFE access
-       - does not depend on content build
-     - Cons
-       - malformed data could break homepage
-       - adds additional source for content on va.gov outside of content build
-       - handling of different environments (dev/stage/prod) unclear
-     - Mitigations
-       - add CI/CD tests to repo
 
-
-
-   - **Mid Term: Refine the design of the HP alert banner to optimize readibility and Home Page UX overall**
-     - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
-     - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner
-     - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/emergency-banner/VA-Emergency-alerts-spec.pdf
 
 ## Hypothesis or Bet
 
@@ -92,16 +45,9 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 ## Relevant Links
 
-- [Public Websites 7/10 Epic from Mike Chelen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
-- [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
-- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
-- [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
 
 ## Screenshots
 
-- New HP Banner Alert design 
-
-![image](https://user-images.githubusercontent.com/63107147/126380726-fc9eedc3-9dda-4c98-a192-d90fad0f6326.png)
 
 
 ## Status 
