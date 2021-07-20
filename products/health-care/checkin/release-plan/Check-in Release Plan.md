@@ -21,6 +21,18 @@
   - Benefit of veteran and staff feedback.
 - Find VA, GCIO, and Ad Hoc employees to do production testing.
   - SUS
+
+### Key Performance Indicators
+- Check-in app was successfully loaded from text message
+- Valid UUID API called was successful
+- Valid UUID API called was unsuccessful
+- “Yes” to update information
+- “No” to update information
+- Check in button clicked
+- Check in was successful API call
+- Check in wasn’t successful API call
+- Back button was clicked
+
 ### Results:
 - Number of users: x
 - Number of bugs identified / fixed: x/x
