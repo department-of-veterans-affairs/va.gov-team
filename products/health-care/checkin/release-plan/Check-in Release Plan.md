@@ -34,12 +34,7 @@
 - Back button was clicked
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- TBD
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
