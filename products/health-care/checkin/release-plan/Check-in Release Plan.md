@@ -21,7 +21,7 @@
   - Work with pilot and have them get feedback (similar to Questionnaire plan: https://docs.google.com/presentation/d/1XAqnUKsL5C-Btg_QTFwLUWJeRbn4xNB-Lhzttm-  9P4c/edit?usp=sharing)
   - Benefit of veteran and staff feedback.
 - Find VA, GCIO, and Ad Hoc employees to do production testing.
-  - SUS
+  - General feedback
   
   
 ### Key Performance Indicators (KPI)
