@@ -9,7 +9,7 @@
 ## Phase I: Pilot Phase and UAT 
 
 ### Planning:
-- Link to Research Plan(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-UAT/research-plan.md) for UAT
+- Link to Research Plan (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-UAT/research-plan.md) for UAT
 - Desired date: Target launch 7/30/2021
 - Desired number of users: Pilot site - Martinsburg, WV. Number of users to be determined based on site visit and communication with staff. Target number ~ 50 participants. 
 - How you'll conduct the testing: 
@@ -26,14 +26,10 @@
   
 ### Key Performance Indicators (KPI)
 - Check-in app was successfully loaded from text message
-- Valid UUID API called was successful
-- Valid UUID API called was unsuccessful
-- “Yes” to update information
-- “No” to update information
-- Check in button clicked
-- Check in was successful API call
-- Check in wasn’t successful API call
-- Back button was clicked
+- “Yes” was clicked to update information
+- “No” was clicked declining to update information
+- "Check in now" button clicked
+- "Back to last screen" button was clicked
 
 
 ### KPI Results:
