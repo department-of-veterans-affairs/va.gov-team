@@ -56,7 +56,7 @@ Information about domiciliary locations is present on newer VA system pages, as 
     - Veterans can contact domiciliary admissions coordinators ([interview with Dr. Rabenhorst-bell](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/eastern-co-sme-interview.md)) at domiciliaries themselves, care coordinators associated with VAMC systems, or a representative from a VA CRRC.
   - What are the admissions requirements?
     - Admissions requirements vary based on the primary purpose of the domiciliary program (ex: DRRTP or PTSD), but they generally include:
-      - if third party referral is required, a primary care provider, case worker, or other healthcare representative with relevent medical documentation
-      - if self-referring, relevant medical or financial documents that indicate a need for domiciliary services
-      - being able to independently perform activites of daily living (ADLs), including physical mobility (wheelchairs are also independent)
-      - no outstanding felony warrents (ex: Tampa domiciliary requirements)
+      - If third party referral is required, a primary care provider, case worker, or other healthcare representative with relevent documentation
+      - Relevant medical or financial documents that indicate a need for domiciliary services
+      - Being able to independently perform activites of daily living (ADLs), including physical mobility (wheelchairs are also independent)
+      - No outstanding felony warrants
