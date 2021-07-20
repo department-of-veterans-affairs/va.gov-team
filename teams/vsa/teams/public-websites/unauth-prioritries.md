@@ -32,7 +32,6 @@
         - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
         - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
         - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
-        - [Banner Visual Design Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design/components/maintenancebanner/)
      - New Mobile header (Research initiative)
         - [ ] Product Outline 
         - [ ] Research Plan
