@@ -18,7 +18,8 @@ The CMS team then initiated a two-pronged discovery effort:
 
 The team has created a [recommendation matrix](https://docs.google.com/spreadsheets/d/1qrXyjnED4aaJuQ0AgqHHFK2RMjjqeAP1GL1hw5lo0tU/edit?usp=sharing), evaluating each possible technical solution against a number of criteria and scoring each criterion with a Pro/Neutral/Con system.
 
-[AP - Solution Options Matrix.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6617548/AP.-.Solution.Options.Matrix.pdf)
+- [PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/AP%20-%20Solution%20Options%20Matrix.pdf)
+- [XLSX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/accelerated_publishing/AP%20-%20Solution%20Options%20Matrix.xlsx)
 
 ## Recommendation
 
