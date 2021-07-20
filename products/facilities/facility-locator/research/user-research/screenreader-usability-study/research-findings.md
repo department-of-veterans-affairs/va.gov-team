@@ -148,7 +148,7 @@ Consuming Facility Locator search results was also tricky…
 - 5.1 - I did a search but the screen reader didn’t tell me that there weren’t results
 - 5.2 - I got results but I don’t know what the letter and number combination means
 - 5.3 - I don’t hear a way to get directions to these locations
-- 5.4 - It not clear to me what is a phone number or other piece of information
+- 5.4 - It's not clear to me what is a phone number or other piece of information
 - 5.5 - I don’t know what ‘limited services and hours means’
 - 5.6 - I didn’t realize that I was being taken to Google Maps, I like to know this
 - 5.7 - If I leave VA.gov I expect to go to a different tab, otherwise don’t open a new tab
@@ -321,11 +321,11 @@ Navigate through the landmarks/regions of the page | 3.2%
      - P2 'Reads' the search results and stops when he can’t understand what sounds like  “geDEERayshons” and has JAWS spell it: 
      > “What’s that say?” [switches from male to female screen reader voice] G-E-T D-I-R-E-C-T-I-O-N-S-T-O, [SR re-pronounces the words]. “‘Get DEER rations file.’ I have no idea what that is... Oh! it says ‘directions’. [uses military spelling reader] There’s no space between N and the T so when I read it... What I had to do was use the JAWS cursor and that lets me navigate that differently than the PC cursor.”
 
-- 5.4 - It not clear to me what is a phone number or other piece of information
+- 5.4 - It's not clear to me what is a phone number or other piece of information
      - Phone numbers that lack labels can confuse screenreader users. One participant interpreted a phone number as GPS coordinates because it was read directly following "Get directions''.
      > [P10] “Is it giving me GPS coordinates? [laughing] It didn’t say phone number! *chuckling* It goes from get directions, then it goes to 903-723-9006- it gave me numbers so my brain went to GPS directions. It should have said “phone number” or “clinic number” or something to call them!”
 
-- 5.5 - I don’t know what ‘limited services and hours means’
+- 5.5 - I don’t know what ‘limited services and hours' means
 - 5.6 - I didn’t realize that I was being taken to Google Maps, I like to know this
      > [P2]“Yea, I had no idea it was going to go to google maps, but once I was on google maps it was OK. It said "get directions" but not "get directions on google maps." If there was a little more description underneath the link saying that it goes to Google Maps. "Some people don't like to use google.”
 
