@@ -26,6 +26,37 @@ None
 </summary>
 
 </details>
+## Wednesday, July 21, 2021
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+- [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) #25989
+- [ ] June Home Page Link Requests from VA #26276
+- [ ] Accessibility Feedback for Staging Review | Language Assistance and Resources | #25592
+- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869
+- [ ] 508-defect-2, sitewide [FOCUS]: Mobile menu loses focus when expanded and collapsed #25661
+- [ ] Pagination: Improve usage #5962
+- [ ] Replace straight quotes with curly quotes in content (not code) #27473
+- [ ] [Campaign Landing Page Production Launch]- Veterans Experience Action Center #27515
+- [ ] CMS - 508-defect-2 Fast Follow! [COGNITION]: PDF download links MUST follow the established pattern #14614
+- [ ] 508-defect-2 [FOCUS]: Back to top button's focus halo MUST be visible on Safari #25001
+- [ ] Back to top component is not displayed in IE-11 #25103
+- [ ] 508-defect-3 [SCREENREADER]: On this page list should be announced as a list on VoiceOver #25005
+
+### Icebox Items (Relevancy - Delete)
+- [ ] [Blocked] Allow dismissible homepage banners in PROD #7098
+- [ ] Bug: Wrong font color in intro text discharge upgrade tool page #15267
+
+### Team Clarity Requests: (Call out tickets)
+
+### Dad Joke:  
+Why did the Scarecrow win an award?  [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+
+
 ## Wednesday, June 23, 2021
 
 ### Key Grooming Factors:
@@ -582,4 +613,4 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-The stock market.
+Becuase he was outstanding in his field.
