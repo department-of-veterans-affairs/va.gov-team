@@ -92,6 +92,7 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 ## Relevant Links
 
+- [Public Websites 7/10 Epic from Mike Chelen](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
 - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
 - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
