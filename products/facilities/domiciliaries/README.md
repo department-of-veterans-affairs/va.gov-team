@@ -26,7 +26,7 @@
   - Minneapolis VA Clinic
     - [VA system page](https://www.va.gov/minneapolis-health-care/locations/minneapolis-va-clinic/)
       - Services listed under "Homeless Veteran Care"
-  - Minnesota Veterans Home Domiciliary Program
+  - Minnesota Veterans Home Domiciliary Program (this seems state run)
     - [Minnesota Veterans Home - Minneapolis](https://mn.gov/mdva/homes/minneapolis/)
     - [Program brochure](https://mn.gov/mdva/assets/2019-08-doms-brochure_tcm1066-396897.pdf)
 - **Detroit, MI**
