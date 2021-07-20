@@ -40,7 +40,7 @@
      - What information does a Veteran need to provide, or have with them, in order to stay there?
      - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
 
-### Transcript
+### Full Transcript
 
 - [Nick] Have you taken a look at how the facilities in the Eastern CO region are represented on the VA site any time recently?
 > It has been a long time since I've looked, and I just know, we've heard feedback that we've gotten from Veterans over and over, is that you guys need to do a better job at present, and we agree with them but haven't been able to make that a priority.
@@ -53,4 +53,4 @@
   
 ![VA Continuum of health slide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/images/VA%20continuum%20of%20health%20-%20Dr.%20Rabenhorst-bell.png?raw=true)
 </details>
-> [Referring to slide] This is a slide showing the continuum of healthcare within VA. PC-MHI are the primary mental health clinics, that's where someone is going into their primary care appointment but has a mental health need, but are brief interventions that aren't really formal a involvement with the mental health service yet. If someone does need a referral to a more outpatient formal mental healthcare they would go to the General Mental Health clinics (those are like the BHIPs), and then someone would be assigned a mental health treatment coordinator and prescriber. If someone needs a more specialized form of mental health care (PTSD, substance abuse, etc) then they can go to Outpatient Speciality Care or spciality clinics, where the clinic has a singular focus on providing evidence-based treatments for a particular diagnosis or set of symptoms. 
+> [Referring to slide] This is a slide showing the continuum of healthcare within VA. PC-MHI are the primary mental health clinics, that's where someone is going into their primary care appointment but has a mental health need, but are brief interventions that aren't really formal a involvement with the mental health service yet. If someone does need a referral to a more outpatient formal mental healthcare they would go to the General Mental Health clinics (those are like the BHIPs), and then someone would be assigned a mental health treatment coordinator and prescriber. If someone needs a more specialized form of mental health care (PTSD, substance abuse, etc) then they can go to Outpatient Speciality Care or spciality clinics, where the clinic has a singular focus on providing evidence-based treatments for a particular diagnosis or set of symptoms. Residential programs are a step up from that - for those Veterans for whome an outpatient course of treatment has not been successful or available. If they live in more rural areas and don't have access to outpatient specialty clinics, they might preer
