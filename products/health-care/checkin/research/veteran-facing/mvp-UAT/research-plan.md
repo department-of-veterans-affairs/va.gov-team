@@ -57,19 +57,19 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 
 ## Method 2: Internal VA, GCIO, and Ad Hoc Veteran Employees Review
 ### Methodology and Recruitment
+- _Use this method only if absolutely necessary._
 - Recruit volunteers to do production testing. 
   - VA (who have an association with this project), GCIO, and Ad Hoc employees, who are also Veterans.
   - Outstanding question: how do we technically make it possible for them to test the system?
 - Send out complete information about the process to the volunteers via Slack or email.
-- They will complete check-in on their own time, then answer a SUS survey.
-- Limit to 10 people.
+- They will complete check-in on their own time, then send general feedback to the team via email or Slack.
 
 ### When? What dates do you plan to do research?
 - To be determined.
 
 ### Conversation Guide
 - Email/Slack content:
-  - Thank you for volunteering to help us test the new mobile phone check-in experience. [Instructions on how to complete check-in.] Once you complete check-in, please complete the following survey by [date], so we can understand more about your experience: [survey link].
+  - Thank you for volunteering to help us test the new mobile phone check-in experience. [Instructions on how to complete check-in.] Once you complete check-in, please send any feedback to [whoever , so we can understand more about your experience: [survey link].
 - Survey questions
   - The first ten questions are part of System Usability Scale (SUS), so they will be on a scale of 1 (Strongly disagree) to 5 (Strongly agree).
   - I think that I would like to use this system frequently.
