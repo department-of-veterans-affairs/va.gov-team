@@ -34,7 +34,7 @@
 
 ### KPI Results:
 
-## 1-week:
+#### 1-week:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
 - Post-launch KPI 2 actual: xx lorem ipsum
@@ -44,7 +44,7 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## 1-month:
+#### 1-month:
 - Number of unique users: x
 - Post-launch KPI 1 actual: xx lorem ipsum
 - Post-launch KPI 2 actual: xx lorem ipsum
