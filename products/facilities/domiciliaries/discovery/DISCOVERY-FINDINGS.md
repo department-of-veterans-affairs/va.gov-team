@@ -38,4 +38,8 @@ Information about domiciliary locations is present on newer VA system pages, as 
     - Where are they located?
  - **What services are provided?**
     - Healthcare provided
+    - Who is it intended for?
  - **What is the referral process?**
+    - How are Veterans referred?
+    - Who can Veterans contact?
+    - What are they admissions requirements?
