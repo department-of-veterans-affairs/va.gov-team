@@ -32,17 +32,16 @@
 - "Back to last screen" button was clicked
 
 
-### KPI Results:
+### KPI Results Post-Launch:
 
 #### 1-week:
 - Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Check-in app was successfully loaded from text message: xx
+- “Yes” was clicked to update information: xx
+- “No” was clicked declining to update information: xx
+- "Check in now" button clicked: xx
+- "Back to last screen" button was clicked: xx
+
 
 #### 1-month:
 - Number of unique users: x
@@ -53,6 +52,13 @@
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
+
+## Phase II: Staggered Rollout
+Evaluation will take place with current pilot site in Martinsburg, WV to determine go froward strategy of either:
+- Expand rollout to additional clincs at the pilot facility
+- Determine new facility to work with and implement 
+- Both
+
 
 ## Post-launch Questions 
 
