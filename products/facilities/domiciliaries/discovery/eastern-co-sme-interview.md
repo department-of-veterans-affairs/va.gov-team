@@ -39,7 +39,7 @@
      - What would a Veteran need to know before coming to the facility?
      - What information does a Veteran need to provide, or have with them, in order to stay there?
      - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
-
+---
 ### Full Transcript
 
 - [Nick] Have you taken a look at how the facilities in the Eastern CO region are represented on the VA site any time recently?
@@ -64,4 +64,28 @@
 > If someone is not at all connected with mental healthcare: 1) the follow up is really hard to do, and 2) we want to make sure that someone really needs a residential level of care, and if we can meet someone's treatment needs in a less restrictive way than residential, then we do that. So if someone hasn't tried a less restrictive form of treatment, then we're really going to encourage people to get engaged with an outpatient form of treatment first.
 > So for the screening process: we'll do a brief chart review, then an interview with the Veteran to determine if they're meeing out admission criteria. For example in the homeless program, a Veteran either has to be homeless or at risk of homelessness, be independent and able to meet their activities of daily living (ADLs), abstain from substance use and not at be at risk of detox - some of those main point from the PTSD program - to have a military related trauma. They can also have other lifetime experience of trauma, we're aren't picky about whether symptoms are specificaly related to military trauma or not - the science isn't very good at differentiating which symptoms belong to which kinds of trauma for people with more than one.
 
-> When someone is screened for admission, they're offered a bed date when we have one available, or we let them know if it's going to be more than 30 days we can help them find another program that might have availability, or to help them access community care if that's available. For both of the programs in the eastern CO system, for PTSD and for the homeless, there's just not a lot of programs available in the community. It's not uncommon for those [community] programs, when we can find them, to have longer wait times than what we have in-house.
+> When someone is screened for admission, they're offered a bed date when we have one available, or we let them know if it's going to be more than 30 days we can help them find another program that might have availability, or to help them access community care if that's available. For both of the programs in the eastern CO system, for PTSD and for the homeless, there's just not a lot of programs available in the community. It's not uncommon for those [community] programs, when we can find them, to have longer wait times than what we have in-house. Following the missions act we do talk with Veterans about what their choices and options are, when they're not immediately available.
+
+- [Nick] Are either of those facilities located within another building, like a wing or a floor?
+
+> No, the Valor Point domiciliary is independant in it's own space in Lakewood [CO], about 15 miles from the main VAMC in Aurora [CO]. It's a leased facility operating offsite. We have a shuttle that takes people back and forth from the Valor Point dom to the main VAMC, so for medical appointments we can help get them there. For the PTSD program - we *were* open at the Clermont location [[Denve VAMC](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)] that you guys have on the form, and then when Covid hit we were moved out of that space so those beds could potentially be used for Covid overflow. Due to infrastructure problems we were not able to return to that building. The good news is that construction was already underway to build a new facility on the VAMC campus, it's own building, but the VAMC PTSD program remains closed pending construction of the new space.
+
+[Nick] In general, would you say there's a more likely population that gets served at either domiciliary, in terms of demographics?
+
+> We're more likely to see combat Veterans in the PTSD program. 2/3rds of the people in the PTSD program are OIF / OEF Vets [operation Iraqi freedom / operation enduring freedom]. About 10 percent still on active duty status, when we were open. The other 1/3rd we Veterans who had trauma that was not combat related, MST [military sexual trauma] or training accidents or things like that, also Vietnam Vets, Gulf War, or other conflicts. A younger group of people in the PTSD program. In the Valor Point dom there's a wider range of age groups, but fewer combat Veterans. 
+
+[Nick] Are either of those facilities mixed gender?
+
+> Yeah, when the program is open at full capacity Valor Point has 6 beds for women Veterans. The program has a strong history of treating Veterans who are non-binary or trans. There's a real open treatment community for working with Veterans. In previous PTSD program [on VAMC campus] we were only working with male Veterans, but in the new [under construction] facility, we will have 5 beds for Women Veterans too - 15 beds for men, 5 beds for women.
+
+[Nick] Any other more appropriate terms like "unhoused" or "houseless" being used?
+
+> I haven't heard them in use, but I like the shift. We will talk about helping people get stablely housed as one of their treatment goals, and so thinking about that kind of shift in language, rather than the person first kind of language - making that shift. So for language on a web presence I think that's a great idea.
+
+[Nick] For either location are there permanent healthcare staff on site?
+
+> Yeah, Valor Point has a full-time psychiatrist and a full-time primary care nurse practitioner, as well a nursing staff. There's an RN nurse manager, an assistant RN nurse manager, and one more RN. The 24/7 staff are LPNs. There's less capacity for managing high-level or urgent needs during the weekends, but during the week, any emergent medical issues that come up it's a call to a medical center. Often 911, but we're working on expanding the RN coverage to be truly 24/7, but that's a work in progress. The primary care nurse practitioner is the primary medical provider for Veterans at Valor Point. Veterans do often enter the program based on whether they've been on the street or not stablely housed, so managing health needs has not been somethin they've been able to do, so there's both some chronic concerns and some accute medical concerns, that increase the complexity of care. Often comorbid mental health psychiatric needs as well as medical needs.
+
+[Nick] Any services that people ask for that aren't offered?
+
+
