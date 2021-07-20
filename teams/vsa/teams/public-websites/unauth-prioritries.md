@@ -35,7 +35,7 @@
      - New Mobile header (Research initiative)
         - [ ] Analytics baseline request -- e.g.. what is overall % usage of search on Mobile; what is % usage of search in header on Mobile. 
         - [ ] Product Outline 
-        - [ ] Research Plan
+        - [ ] Research Plan - in production sample size testing
      - DISCOVERY PROJECT: Home Page & Benefit Hubs to unify with Unauth experience
         - [Product Outline WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Benefit%20Hub%202.0%20Product%20Outline.md)
         - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md)
