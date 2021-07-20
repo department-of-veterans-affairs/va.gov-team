@@ -89,86 +89,96 @@ Imagine that you just learned that you can complete VA forms electronically. Iâ€
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 ### Task 1: [Form 10-2850c--most downloaded, has digital signature] - 5 minutes
-Say that someone from the VA asked you to fill out form **10-2850c**, and they said you could find it online. How would you start?
+Imagine that you are a healthcare worker applying for a job with the VA. You want to find the form that you can use to apply for a health job. How would you do this?
 
-- Please talk me through what you're doing.
+- Please talk me through what you're doing. 
+  - *(Search for "health jobs" > Click on "Application for Associated Health Occupations")*
 
-- *If they need prompting...After they open the form:* What do you see here?
-- I'd like you to start filling it out. 
+- *(If they need prompting...After they open the form:)* What do you see here?
+- I'd like you to start filling out this form. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
-  - *RECORD whether clicked on "Get instructions" link: yes / no 
-  - *RECORD whether downloaded form: yes / no / help needed*
-  - *RECORD any reactions to the form auto-downloading:* ________________
-  - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
-  - *RECORD whether had difficulty finding the downloaded form: yes / no* 
-  - *RECORD whether opened form in Acrobat (SUCCESS): yes / no / help needed*
-  - *RECORD whether able to fill out form: yes / no / help needed*
- 
-- What would you do if you wanted to continue filling out this form later? 
-  - *RECORD whether able to save form: yes / no / help needed*
- 
+- What would you do if you wanted to continue filling out this form later?
+  
 - Now assume that the form is completely filled out. What would you do now? 
-  - *RECORD whether able to digitally sign form: yes / no / help needed*
-
+ 
 - What are your thoughts about the process of filling out this form? 
+
+Action | Yes | No | Help Needed | Reactions
+-------------|-----|----|------------|----------
+Clicked on "Get instructions" link? 
+Navigate back to Find a Form page?
+Downloaded form?  
+Noticed notification/file downloaded?
+Difficulty finding the downloaded form?
+Opened form in Acrobat? (SUCCESS)
+Filled out form?
+To continue later, saved form?
+When done, digitally signed form?
 
 ### Task 2: [Form 10-0003k--has digital signature] - 5 minutes
-The person at the VA also asked you to fill out a second VA form: **10-0003k**. You can find it online. What would you do?
+Now assume that you got the healthcare job with the VA. Suppose you've started working and want to look into what scholarships you could apply for. How would you find the application form for employee scholarships?
 
-- Please talk me through what you're doing.
+- Please talk me through what you're doing. 
+  - *(Search for "application form scholarships" or "employee scholarships"*
+  - *> Click on "Employee Incentive Scholarship Program (ESPI) Application" Health Occupations")*
 
-- *If they need prompting...After they open the form:* What do you see here?
+- *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
-  - *RECORD whether clicked on "Get instructions" link: yes / no 
-  - *RECORD whether downloaded form: yes / no / help needed*
-  - *RECORD any reactions to the form auto-downloading:* ________________
-  - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
-  - *RECORD whether had difficulty finding the downloaded form: yes / no* 
-  - *RECORD whether opened form in Acrobat (SUCCESS): yes / no / help needed*
-  - *RECORD whether able to fill out form: yes / no / help needed*
- 
-- What would you do if you wanted to continue filling out this form later? 
-  - *RECORD whether able to save form: yes / no / help needed*
- 
+ - What would you do if you wanted to continue filling out this form later?
+  
 - Now assume that the form is completely filled out. What would you do now? 
-  - *RECORD whether able to digitally sign form: yes / no / help needed*
-
+ 
 - What are your thoughts about the process of filling out this form? 
+
+Action | Yes | No | Help Needed | Reactions
+-------------|-----|----|------------|----------
+Clicked on "Get instructions" link? 
+Navigate back to Find a Form page?
+Downloaded form?  
+Noticed notification/file downloaded?
+Difficulty finding the downloaded form?
+Opened form in Acrobat? (SUCCESS)
+Filled out form?
+To continue later, saved form?
+When done, digitally signed form?
 
 ### Task 3: [Form 20-0968--not hosted on VA.gov] - 5 minutes
 I have a third VA form for you to find and fill out: **20-0968**.
 
 - Please talk me through what you're doing.
 
-- *If they need prompting...After they open the form:* What do you see here?
+- *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
-  - *RECORD whether clicked on "Get instructions" link: yes / no 
-  - *RECORD whether downloaded form: yes / no / help needed*
-  - *RECORD any reactions to the form auto-downloading:* ________________
-  - *RECORD whether noticed notification/file that they downloaded the form: yes / no / not sure*
-  - *RECORD whether had difficulty finding the downloaded form: yes / no* 
-  - *RECORD whether opened form in Acrobat (SUCCESS): yes / no / help needed*
-  - *RECORD whether able to fill out form: yes / no / help needed*
- 
-- What would you do if you wanted to continue filling out this form later? 
-  - *RECORD whether able to save form: yes / no / help needed*
- 
+ - What would you do if you wanted to continue filling out this form later?
+  
 - Now assume that the form is completely filled out. What would you do now? 
-  - *RECORD whether able to digitally sign form: yes / no / help needed*
-
+ 
 - What are your thoughts about the process of filling out this form? 
+
+Action | Yes | No | Help Needed | Reactions
+-------------|-----|----|------------|----------
+Clicked on "Get instructions" link? 
+Navigate back to Find a Form page?
+Downloaded form?  
+Noticed notification/file downloaded?
+Difficulty finding the downloaded form?
+Opened form in Acrobat? (SUCCESS)
+Filled out form?
+To continue later, saved form?
+When done, digitally signed form?
+ 
 
 ### Task 4: [Form 20-0995--most downloaded, can fill out in browser, hosted inside VA.gov)] - 5 minutes
 And there's one last form for you to find and fill out: **20-0995**.
 
 - Please talk me through what you're doing.
 
-- *If they need prompting...After they open the form:* What do you see here?
+- *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
 
@@ -178,12 +188,10 @@ And there's one last form for you to find and fill out: **20-0995**.
  
 - What are your thoughts about the process of filling out this form? 
 
-  
-  - *RECORD the user's actions:*
-
 Action | Yes | No | Help Needed | Reactions
 -------------|-----|----|------------|----------
 Clicked on "Get instructions" link? 
+Navigate back to Find a Form page?
 Downloaded form?  
 Noticed notification/file downloaded?
 Difficulty finding the downloaded form?
@@ -191,7 +199,6 @@ Opened form in Acrobat? (SUCCESS)
 Filled out form?
 To continue later, saved form?
 When done, digitally signed form?
-
 
 
 ## (if time) Post-Task Interview - 5 minutes
