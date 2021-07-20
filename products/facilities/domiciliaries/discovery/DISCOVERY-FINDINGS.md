@@ -38,16 +38,25 @@ Information about domiciliary locations is present on newer VA system pages, as 
 
 ### Domiciliary facilities and services
 
-*[REORGANIZE/UPDATE DISCOVERY QUESTIONS FOR THIS SECTION - INCLUDE INTERVIEW/RESEARCH DATA, COVERING DIFFERENCES ACROSS SYSTEM]*
-
- - **How are domiciliaries described?**
-    - What are they?
-    - Program or a service?
-    - Where are they located?
- - **What services are provided?**
-    - Healthcare provided
-    - Who is it intended for?
- - **What is the referral process?**
-    - How are Veterans referred?
-    - Who can Veterans contact?
-    - What are they admissions requirements?
+  #### The facilities
+  - What are they?
+      - Domiciliaries provide short-term to long-term residential services to Veterans experiencing a range of issues related to mental and medical heath care, homelessness, vocational, and social skills. Different domiciliary programs may focus on specific mental and medical health needs, but every facilitiy has some level of care provided on site, and is associated with a main VAMC location.
+      - Domiciliaries differ from community living centers or other assisted living centers in that they do not provide "bedside" care: residents are expected to be able to meet their activities of daily living (ADLs) independently, including physical mobility and taking medications (this does not exlcude wheelchairs or Veterans with disabilities who are still able to be independent).
+  - Where are they located?
+    - Domiciliaries can be free-standing facilities located offsite from a VAMC campus ([Valor Point VA Domiciliary](https://www.denver.va.gov/locations/Valor_Point_VA_Domiciliary.asp)), seperate free-standing facilities located on a VAMC campus ([Butler DRRTP](https://www.butler.va.gov/services/Domiciliary_Residential_Rehabilitation_Treatment.asp)), or distinct floors/wings of a building on a VAMC campus ([Coatesville VA Domiciliary](https://www.coatesville.va.gov/images/Facility_Maps/Coatesville_VAMC_Map_3-10-09.pdf)).
+  - How do people refer to them?
+    - "Domiciliaries", "Doms", "RRTPs", or "RTPs" are all terms used to describe these facilities, but exactly who uses what terms commonly may vary from location to location. While not everyone on site may refer to them with official names, these should be fine for Veteran-facing language on site pages.
+  #### The services
+  - Healthcare provided
+    - Domiciliaries vary in terms of services, but the common thread is short to long-term stable housing. The Valor Point VA Domiciliary and [Tampa VA Domiciliary](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp) are both examples of DRRTPs, offering a wider range of services to multiple populations. DTTRP facilities have onsite health care staff (ex: a full-time Nurse Practioner, Registered Nurses, and full-time psychiatrist at Valor Point)  and shuttle service to VAMC facilities for regular appointments. These facilities may also offer walk-in clinics on site, although the residential portion of the services are not walk-in. The [Denver VA Domiciliary](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/) is an example of a Domiciliary PTSD (Dom PTSD) that offers higher-level mental healthcare services and specific treatment/therapy that may not be available at general DRRTP locations. (See the definitions in the [MHRRTP document](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf)).
+  #### The referral process
+  - How are Veterans referred?
+    - Veterans can be referred to domiciliary programs via their VA primary health care providers, social case managers, VA Community Resource and Referral Centers ([CRRCs](https://www.va.gov/HOMELESS/CRRC.asp)), care coordinators associated with a VAMC system (ex: [Minneapolis care coordinator](https://www.va.gov/minneapolis-health-care/health-services/homeless-veteran-care/)), and in the case of self-referral, Veterans can call domiciliary facilities directly to begin the admissions process.
+  - Who can Veterans contact directly?
+    - Veterans can contact domiciliary admissions coordinators ([interview with Dr. Rabenhorst-bell](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/eastern-co-sme-interview.md)) at domiciliaries themselves, care coordinators associated with VAMC systems, or a representative from a VA CRRC.
+  - What are the admissions requirements?
+    - Admissions requirements vary based on the primary purpose of the domiciliary program (ex: DRRTP or PTSD), but they generally include:
+      - if third party referral is required, a primary care provider, case worker, or other healthcare representative with relevent medical documentation
+      - if self-referring, relevant medical or financial documents that indicate a need for domiciliary services
+      - being able to independently perform activites of daily living (ADLs), including physical mobility (wheelchairs are also independent)
+      - no outstanding felony warrents (ex: Tampa domiciliary requirements)
