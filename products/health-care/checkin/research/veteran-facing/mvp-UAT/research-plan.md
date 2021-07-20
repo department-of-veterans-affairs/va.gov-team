@@ -62,6 +62,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
   - Outstanding question: how do we technically make it possible for them to test the system?
 - Send out complete information about the process to the volunteers via Slack or email.
 - They will complete check-in on their own time, then answer a SUS survey.
+- Limit to 10 people.
 
 ### When? What dates do you plan to do research?
 - To be determined.
