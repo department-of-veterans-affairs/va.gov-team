@@ -39,3 +39,11 @@
      - What would a Veteran need to know before coming to the facility?
      - What information does a Veteran need to provide, or have with them, in order to stay there?
      - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
+
+### Transcript
+
+- [Nick] Have you taken a look at how the facilities in the Eastern CO region are represented on the VA site any time recently?
+> It has been a long time since I've looked, and I just know, we've heard feedback that we've gotten from Veterans over and over, is that you guys need to do a better job at present, and we agree with them but haven't been able to make that a priority.
+- [Nick showing site pages, explaining Valor Point has no info]
+
+
