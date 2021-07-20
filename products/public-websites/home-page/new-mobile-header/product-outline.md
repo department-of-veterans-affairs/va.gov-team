@@ -1,4 +1,4 @@
-## Home Page Banner Product Outline (v2.0)
+## New VA.gov Mobile Header
 
 Since the launch of VA.gov in 2018, we have supported/enabled "emergency communications/messaging" from VA leadership at OPIA with a Home Page banner alert.  The process by which that banner is used and deployed is **unique and problematic**.  In short:
 
