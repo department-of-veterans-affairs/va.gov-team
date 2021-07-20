@@ -20,15 +20,23 @@ Since the launch of VA.gov in 2018, we have supported/enabled "emergency communi
 
 ## Proposed Solution(s)
 
+**High Level User Story/ies**
+
+As a content editor, I need to quickly publish error-free alerts on the VA.gov homepage at all hours, so that time sensitive information can reach Veterans.
 
 
+**Requirements**
 
+- Short Term: Improving the existing yaml file approach
+  - **Awareness & Response:** Create a communication channel from VA stakeholder (OPIA) that notifies multiple VA.gov team-members and Platform when a new or updated Alert is planned.
+    - Idea: Create an integrated HP Banner Alert channel in Teams (used by OPIA) and Slack (used by VA.gov); this must be tied to the #oncall channel for off-hours support.
+  - **Redundancy:** Ensure any FE engineer (including #oncall engineer) is trained to implement the HP Banner alert process.
+    - Idea: Make this a Site-Ops/Platform responsibility, eliminating reliance on Public Websites engineer/team.
+    - Idea: Make the "How to do" document available to all teams/developers on https://depo-platform-documentation.scrollhelp.site/index.html
+  - **Publishing Speed** Create a fast-track publishing capability for the HP Banner Alert to ensure that once it is PR'ed, it can be deployed into production within 15 minutes.
+  
+ - Long Term: Moving from yaml to CMS
 
-## High Level User Story/ies
-
-- As a user, I need to apply for the correct benefit online in a way that is quick, easy and ideally error-proof.
-
-## Requirements
 
 
 ## Hypothesis or Bet
