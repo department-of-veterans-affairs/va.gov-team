@@ -47,8 +47,8 @@
         - [X] Web Governance Board (OPIA)
         - [X] VEO
         - [X] VHA
-        - [ ] VBA
-        - [ ] NCA         
+        - [X] VBA, via Web Governance Board meeting
+        - [X] NCA, via Web Governance Board meeting         
     - Sitewide Navigation
       - Initiative is led by Meg/Mikki on the IA team -- with details [in this ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/277)
     - Benefit Hubs Optimization - Content & IA 
