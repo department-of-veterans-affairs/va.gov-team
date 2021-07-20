@@ -47,7 +47,7 @@
   - If yes, what: lorem ipsum
 
 
-#### 1-month:
+#### 1-month (repeat metrics):
 - Number of unique users: x
 - Check-in app was successfully loaded from text message: xx
 - “Yes” was clicked to update information: xx
