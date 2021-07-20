@@ -19,6 +19,7 @@ In addition, we suspect that users who are less proficient with technology may e
 
 ## Research questions
 - How intuitive is the download process with the new instructions? What issues arise (with the interace and/or specific forms)?
+  - Do any users click on the new instructions link and have difficulty navigating back to the Find a Form page?
   - Do some users not notice the download notification/file at the bottom of the browser window?
   - Are there any difficulties in finding the file to open it? 
   - Does the file always open in Acrobat?
