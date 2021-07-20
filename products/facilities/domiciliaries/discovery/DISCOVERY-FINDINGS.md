@@ -2,7 +2,7 @@
 
 ### Background
 
-[Domiciliaries](https://www.va.gov/homeless/dchv.asp) are residential shelters that provide services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients, victims of domestic violence, Veterans with disabilities,  and any qualifying Veteran requiring offered services. They are often connected to VAMC facilities, and both VAMCs and [Community Resource and Referral Centers (CRRCs)](https://www.va.gov/HOMELESS/CRRC.asp), can  help connect Veterans to various programs and services, including domiciliary facilities.
+[Domiciliaries](https://www.va.gov/homeless/dchv.asp) are residential shelters that provide services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients, victims of domestic violence, Veterans with disabilities,  and any qualifying Veteran requiring offered services. They are connected to VAMC facilities, and both VAMCs and [Community Resource and Referral Centers (CRRCs)](https://www.va.gov/HOMELESS/CRRC.asp), can  help connect Veterans to various programs and services, including domiciliary facilities.
 
 Domiciliaries fall under the [Mental Health Residential Rehabilitation Program (MHRRTP)](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf) category of VA programs. Programs are basically packages of services (as explained by Lisa Trombley), and may themselves contain other programs/services.
 
@@ -28,11 +28,14 @@ Information about domiciliary locations is present on newer VA system pages, as 
 - Detailed information about services
   - [Tampa VA Domiciliary legacy page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
 
-### The domiciliary landscape
+### Domiciliary facilities and programs
 
 *[REORGANIZE/UPDATE DISCOVERY QUESTIONS FOR THIS SECTION - INCLUDE INTERVIEW/RESEARCH DATA, COVERING DIFFERENCES ACROSS SYSTEM]*
 
  - **What are domiciliaries?**
+    - What are they?
+    - Program or a service?
+    - Where are they located?
  - **What services are provided?**
- - **How to Veterans get in?**
- - **What do Veterans need to know?**
+    - Healthcare provided
+ - **What is the referral process?**
