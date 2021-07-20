@@ -4,8 +4,6 @@
 
 [Domiciliaries](https://www.va.gov/homeless/dchv.asp) are residential shelters that provide services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients, victims of domestic violence, Veterans with disabilities,  and any qualifying Veteran requiring offered services. They are often connected to VAMC facilities, and both VAMCs and [Community Resource and Referral Centers (CRRCs)](https://www.va.gov/HOMELESS/CRRC.asp), can  help connect Veterans to various programs and services, including domiciliary facilities.
 
-### Domiciliary categories
-
 Domiciliaries fall under the [Mental Health Residential Rehabilitation Program (MHRRTP)](https://www.va.gov/HOMELESS/docs/DCHV_Definitions_of_MHRRTPs.pdf) category of VA programs. Programs are basically packages of services (as explained by Lisa Trombley), and may themselves contain other programs/services.
 
 Domiciliary facilities are mainly distinguished by the type of services they provide. Larger facilities may serve multiple populations at the same location. The official service categories are:
