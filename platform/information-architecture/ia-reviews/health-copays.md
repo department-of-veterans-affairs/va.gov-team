@@ -17,8 +17,7 @@
 *Description of how users will flow through the experience*
 
 Diagram illustrates cross-linking paths from new landing page as well as individual tools. 
-
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/a7cd5156-fc55-4d0b-8748-4821ee53e816)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/89b3c085-a29c-4a9f-ba28-393f4d70638d)
 
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
@@ -27,18 +26,18 @@ Diagram illustrates cross-linking paths from new landing page as well as individ
 
 Page | URL | Breadcrumb | Description
 --- | --- | --- | ---
-Financial hub static landing page   | www.va.gov/xxxxxx   | Home > [H1 of page]   | New static landing page provides links to all financial-related tools and forms  | 
-Pay copay bill tool/form |  www.va.gov/health-care/pay-copay-bill/xxxxx  |  Home > Health care > Pay your VA copayb bill > [Page H1]  | 
-
+Pay copay bills static page | https://www.va.gov/health-care/pay-copay-bill/ | Home > Health care > Pay your VA copay bill |  This is an existing page, no changes to URL or breadcrumb.
+View copay bill tool/form |  www.va.gov/health-care/pay-copay-bill/xxxxx  |  Home > Health care > Pay your VA copay bill > [Page H1]  | New tool to view copay bills. <br> ***URL TBD based on H1 of page.***
+Financial hub static landing page   | www.va.gov/xxxxxx   | Home > [H1 of page]   | New static landing page provides links to all financial-related tools and forms 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Placement | Destination | Description
 --- | --- | --- | ---
- MUST | Pay medical copays static page | Pay copays tool| 
-  TBD  |  Records top nav   | Financial hub static page  |  Place in righ column in 5th position; Move National Archives link to 2nd position in left column.  | 
- TBD | Records hub page   | Financial hub static page |  TBD
+ MUST | [Pay medical copays static page](https://www.va.gov/health-care/pay-copay-bill/) | Pay copays tool | Existing static page will need sign in module, content and link to new tool. 
+ TBD |  TBD  | Financial hub static landing page | ***Entry points for this new static page are TBD***
+
  
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
