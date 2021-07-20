@@ -19,9 +19,7 @@ We will be attempting to answer some (not all) of the below research questions, 
 9. What trust issues should we consider as it relates to the current credential options?
 10. What are the potential trust issues with login.gov?
 11. What are the pain points with identity proofing? 
-## Metrics
-1. Metrics - What accounts are vets currently using to log in to va.gov?
-2. Metrics - How many veterans have login.gov accounts? 	
+ 	
 ## Hypothesis
 1. What is your hypothesis for this research?
   - We believe that by narrowing down the VA.gov sign in options to two providers, will lead to less frustrating login experience and fewer abandoned sessions. 	 	
@@ -36,6 +34,7 @@ We will be attempting to answer some (not all) of the below research questions, 
 4. What will you be testing? (Design mocks, card sort, prototype, page, content, etc.)
   - VA.gov sign-in modal
   - Design mocks with addition/removal of Login.gov button	
+  - Screen after sign-on where we invite them to create a Login.gov account
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
@@ -43,13 +42,12 @@ We will be attempting to answer some (not all) of the below research questions, 
 
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have**
-  - Participants that primarily log in through VA.gov
-  - At least one participant from DSLogon, MHV, ID.Me
-  - At least one participant from MHV
-  - At least one participant from ID.Me
-  - At least one participant who has logged in to send a secure message or
-  - At least one participant who has logged in to track a claim status or
-  - At least one participant who has logged in to change direct deposit
+- At least three participants from DSLogon, MHV, ID.Me
+- At least one participant that uses primarily mobile to access VA websites
+- At least half of participants who have logged in and:
+  - Sent a secure message OR
+  - Tracked claim status OR
+  - Changed direct deposit
 
 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
   - At least one person under the age of 30, and at least one person over the age of 55
