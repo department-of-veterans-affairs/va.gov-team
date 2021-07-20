@@ -20,13 +20,17 @@ The notifications ecosystem is complex and involves systems outside of the VAOS 
 ## Method
 
 We'll be running three different activities to capture this information:
+* Secondary research to document existing research around notifications
+* A service mapping workshop with facilities
+* A TBD research effort with veterans to validate our findings.
 
-### Document existing research around appointment notifications
-Create a list of resources to inform future work on appointment messaging
-Ongoing - see [Appointment notifications secondary research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map/secondary-research/appt-notifications-secondary-research-resources.md)
+These are described in detail below.
 
-Document where different VA.gov projects that involve scheduling fit in the notification ecosystem.
-Ongoing - see [Service maps - VA appt tools - internal audit](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1606258692103/073961190cc646e036a4300e65524fa1b413182e?sender=ub08ff1d80ee7bd38d6c02354)
+### Secondary research: document existing research around appointment notifications
+
+* Document resources to inform future work on appointment messaging: [Appointment notifications secondary research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map/secondary-research/appt-notifications-secondary-research-resources.md).
+* Document where different VA.gov projects that involve scheduling fit in the notification ecosystem: [Service maps - VA appt tools - internal audit](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1606258692103/073961190cc646e036a4300e65524fa1b413182e?sender=ub08ff1d80ee7bd38d6c02354).
+* Document the [channels veterans use to schedule appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map/secondary-research/appt-scheduling-channels.md).
 
 ### Create a service map of the current notification experience
 
