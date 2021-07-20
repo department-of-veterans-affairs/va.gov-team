@@ -2,7 +2,7 @@
 
 ### Background
 
-[Domiciliaries](https://www.va.gov/homeless/dchv.asp) are residential shelters that provide services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can also provide shelter to rehab patients, victims of domestic violence, Veterans with disabilities,  and any qualifying Veteran requiring offered services. They are connected to VAMC facilities, and both VAMCs and [Community Resource and Referral Centers (CRRCs)](https://www.va.gov/HOMELESS/CRRC.asp), can  help connect Veterans to various programs and services, including domiciliary facilities.
+[Domiciliaries](https://www.va.gov/homeless/dchv.asp) are residential shelters that provide services to homeless Veterans (or to returning service members who may not have a home in the area to which they have returned). They can provide shelter to rehab patients, victims of domestic violence, Veterans with disabilities,  and any qualifying Veteran requiring offered services.
 
 Domiciliaries fall onto the VA continuum of mental health care, as a next step for Veterans for whom outpatient care has not been successful, or simply isn't available (see Dr. Rabenhorst-bell [interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/eastern-co-sme-interview.md)):
 
@@ -36,11 +36,11 @@ Information about domiciliary locations is present on newer VA system pages, as 
 - Detailed information about services
   - [Tampa VA Domiciliary legacy page](https://www.tampa.va.gov/locations/Tampa_VA_Domiciliary.asp)
 
-### Domiciliary facilities and programs
+### Domiciliary facilities and services
 
 *[REORGANIZE/UPDATE DISCOVERY QUESTIONS FOR THIS SECTION - INCLUDE INTERVIEW/RESEARCH DATA, COVERING DIFFERENCES ACROSS SYSTEM]*
 
- - **What are domiciliaries?**
+ - **How are domiciliaries described?**
     - What are they?
     - Program or a service?
     - Where are they located?
