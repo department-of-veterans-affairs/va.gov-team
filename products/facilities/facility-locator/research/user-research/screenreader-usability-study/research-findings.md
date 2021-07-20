@@ -64,7 +64,7 @@ Participants in this study had differing levels of vision, unique combinations o
 
 P# | LEVEL OF VISION | DEVICE | ASSISTIVE TECHNOLOGY |EXPERIENCE LEVEL
 ---|-----------------|--------|------------------------|--------------
-P1 | Completely blind | Desktop | JAWS screen reader † | Advanced
+P1 | Completely blind | Desktop | JAWS screen reader  | Advanced
 P2 | Completely blind | Desktop | JAWS screen reader §† | Advanced
 P4 | Cognitive Disability,  Dyslexia | mobile iPhone | iOS dictation §† | Beginner
 P6 | Low vision | mobile iPhone | magic keyboard § | Beginner on iOS
