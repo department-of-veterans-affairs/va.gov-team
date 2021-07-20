@@ -33,7 +33,7 @@ assignees: shiragoodman, allison0034
 - Product Manager (required): name
 - OCTO-DE Design Lead (required): Ryan Thurlwell
 - OCTO-DE Product Lead (recommended): name
-- VFS content, IA, and QA specialists (if applicable): name(s)
+- VFS accessibility, content, IA, and QA specialists (if applicable): name(s)
 - Other stakeholders you want to invite (if applicable): name(s)
 
 ## Scheduling
