@@ -8,7 +8,7 @@ Since the launch of VA.gov in 2018, we have supported/enabled "emergency communi
 
   - (1) **Single-threaded dependency** -- especially during off-hours -- on one knowledgeable Public Websites engineer (formerly Nick Sullivan, now Kelson Adams) to PR and promote the yaml file once it is updated by OPIA.  There currently is no "back up" plan if the Public Website engineer is unreachable.
   - (2) **Communication silo** - the way OPIA (aka Josh Tuscher) notifies VA.gov that the banner is going to be used/updated varies -- sometimes he reaches out to the Public Websites Product Owner via Teams, sometimes he contacts the PW engineer directly via mobile phone.  There currently is no "official notification" process in place that ensures this event is more broadly communicated and managed.
-  - (3) **Risk of content error** - the yaml file approach requires OPIA to create or update content using what amounts to unstructured HTML mark-up.  As a result, there is no built-in link checking, spell checking, text formatting capability.  That has already resulted in content issues -- misspellings, broken links, formatting issues.  
+  - (3) **Risk of content error** - the yaml file approach requires OPIA to create or update content using what amounts to unstructured HTML mark-up.  As a result, there is no built-in link checking, spell checking, text formatting capability.  That has already resulted in content issues -- misspellings, broken links, formatting issues. Worth noting: During off-hours, weekends it is often the case that the OPIA author of the alert needs to make the change using his mobile device, increasing the risk of error.
   - (4) **Delayed publishing** - at one time, deploying the yaml file did not require waiting for an hourly content build. Once reviewed and approved by the PW FE engineer, the file could be pushed into production in real-time.  However, a new content build process introduced in mid-2020 moved the HP banner alert into the standard publishing path.  The business requirement is for the content to go live within 15 minutes of request for PR review.
 
 ![HP Banner](https://user-images.githubusercontent.com/63107147/126205733-c34132d0-8c11-4793-b4f0-93eca2e1ceef.png)
@@ -27,7 +27,7 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 **Requirements**
 
-- Short Term: Improving the existing yaml file approach
+- **Short Term: Improving the existing yaml file approach**
   - **Awareness & Response:** Create a communication channel from VA stakeholder (OPIA) that notifies multiple VA.gov team-members and Platform when a new or updated Alert is planned.
     - Idea: Create an integrated HP Banner Alert channel in Teams (used by OPIA) and Slack (used by VA.gov); this must be tied to the #oncall channel for off-hours support.
   - **Redundancy:** Ensure any FE engineer (including #oncall engineer) is trained to implement the HP Banner alert process.
@@ -35,9 +35,29 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
     - Idea: Make the "How to do" document available to all teams/developers on https://depo-platform-documentation.scrollhelp.site/index.html
   - **Publishing Speed** Create a fast-track publishing capability for the HP Banner Alert to ensure that once it is PR'ed, it can be deployed into production within 15 minutes.
   
- - Long Term: Moving from yaml to CMS
-
-
+ - **Long Term: Moving from yaml to CMS**
+   - Add HP banner content to CMS
+     - Pros
+       - does not require OOB deploy
+       - has built in error checking for mis-spellings, broken links, bad content formatting
+       - uses existing content publishing pipeline
+     - Cons
+       - requires CMS/GFE access
+       - requires CMS permissions and field
+       - can be blocked by content build errors
+     - Mitigations
+       - improve specificity of permissions
+       - have OCTODE staff perform content updates
+   - Load data from public Github repo using React widget
+     - Pros
+       - does not require GFE access
+       - does not depend on content build
+     - Cons
+       - malformed data could break homepage
+       - adds additional source for content on va.gov outside of content build
+       - handling of different environments (dev/stage/prod) unclear
+     - Mitigations
+       - add CI/CD tests to repo
 
 ## Hypothesis or Bet
 
