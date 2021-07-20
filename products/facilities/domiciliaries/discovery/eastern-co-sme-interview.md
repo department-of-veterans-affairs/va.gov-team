@@ -45,5 +45,4 @@
 - [Nick] Have you taken a look at how the facilities in the Eastern CO region are represented on the VA site any time recently?
 > It has been a long time since I've looked, and I just know, we've heard feedback that we've gotten from Veterans over and over, is that you guys need to do a better job at present, and we agree with them but haven't been able to make that a priority.
 - [Nick showing site pages, explaining Valor Point has no info]
-
-
+- [Dave gives more context and explains what we're trying to accomplish; improve the web presence of VAMC facilities that are not explicitly medical centers; location and contact information we get from VAST system; health services offered are linked to an official taxonomy of about 90 services; overall page pattern is what we use for other hospitals/clinics; trying to understand what domiciliaries are, how/why they provide services, etc. to iterate on current page design to make more discoverable and to better align with Veteran needs]
