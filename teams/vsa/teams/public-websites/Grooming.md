@@ -33,18 +33,18 @@ None
 2. Assign estimates and confirm team members are on the same page.
 3. Determine / Validate definition of DONE. 
 
-- [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) #25989
-- [ ] June Home Page Link Requests from VA #26276
-- [ ] Accessibility Feedback for Staging Review | Language Assistance and Resources | #25592
-- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style #18869
-- [ ] 508-defect-2, sitewide [FOCUS]: Mobile menu loses focus when expanded and collapsed #25661
-- [ ] Pagination: Improve usage #5962
-- [ ] Replace straight quotes with curly quotes in content (not code) #27473
-- [ ] [Campaign Landing Page Production Launch]- Veterans Experience Action Center #27515
-- [ ] CMS - 508-defect-2 Fast Follow! [COGNITION]: PDF download links MUST follow the established pattern #14614
-- [ ] 508-defect-2 [FOCUS]: Back to top button's focus halo MUST be visible on Safari #25001
-- [ ] Back to top component is not displayed in IE-11 #25103
-- [ ] 508-defect-3 [SCREENREADER]: On this page list should be announced as a list on VoiceOver #25005
+- [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
+- [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
+- [ ] Accessibility Feedback for Staging Review | Language Assistance and Resources | [#25592](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25592)
+- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style [#18869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18869)
+- [ ] 508-defect-2, sitewide [FOCUS]: Mobile menu loses focus when expanded and collapsed [#25661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25661) 
+- [ ] Pagination: Improve usage [#5962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5962) 
+- [ ] Replace straight quotes with curly quotes in content (not code) [#27473](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27473)
+- [ ] [Campaign Landing Page Production Launch]- Veterans Experience Action Center [#27515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27515) 
+- [ ] CMS - 508-defect-2 Fast Follow! [COGNITION]: PDF download links MUST follow the established pattern [#14614](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14614)
+- [ ] 508-defect-2 [FOCUS]: Back to top button's focus halo MUST be visible on Safari [#25001](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25001)
+- [ ] Back to top component is not displayed in IE-11 [#25103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25103)
+- [ ] 508-defect-3 [SCREENREADER]: On this page list should be announced as a list on VoiceOver [#25005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25005) 
 
 ### Icebox Items (Relevancy - Delete)
 - [ ] [Blocked] Allow dismissible homepage banners in PROD #7098
