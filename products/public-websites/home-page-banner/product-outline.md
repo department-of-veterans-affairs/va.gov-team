@@ -61,7 +61,8 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 
 
-   - **Mid Term: Refine the design of the HP alert banner to optimize readibility and Home Page UX overall
+   - **Mid Term: Refine the design of the HP alert banner to optimize readibility and Home Page UX overall**
+     - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
 
 
 ## Hypothesis or Bet
