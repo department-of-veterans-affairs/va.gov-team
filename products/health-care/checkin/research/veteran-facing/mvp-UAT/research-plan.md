@@ -23,7 +23,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - 1-2 team members travel to the pilot site(s).
 - Intercept Veterans at the check-in desk.
   - Work with MSAs at desk to determine best location/let them know what's going on, etc.
-  - Ask as many Veterans with appointments at the pilot clinics as we possible can, while we are there.
+  - Ask as many Veterans with appointments at the pilot clinics as we possibly can, while we are there.
 - Watch the Veteran complete check-in on their mobile phone.
 - Ask follow-up questions (including Net Promoter Score).
 
