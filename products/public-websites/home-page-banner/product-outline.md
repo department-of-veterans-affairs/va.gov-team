@@ -63,24 +63,30 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
    - **Mid Term: Refine the design of the HP alert banner to optimize readibility and Home Page UX overall**
      - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/banners/sitewide-system-downtime-design-files
-
+     - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/emergency-banner
+     - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/emergency-banner/VA-Emergency-alerts-spec.pdf
 
 ## Hypothesis or Bet
 
-**If** we move to a CMS approach **then** 
+**If** we create a more robust, systematic approach to enabling HP banner alerts **then** we will reduce the litany of high profile risks (availability, timeliness, content errors) which exist now.
 
-## OKR
-
-_Drive more online use of benefits applications as they are more discoverable, resulting in more correct or eligible applications received_
- - Increase usage of how to apply wizards
- - Reduced bounce rate from wizards
- - Reduction in number of "incorrect" applications received (veterans are applying for the wrong benefits because they are not using the gating wizards.
-
-_Success Metrics Note:_  The Analytics team is recommending the tagging/tracking approach already taken with the education benefits wizard -- e.g. GA can report on “Started Education How To Apply - Did not Complete [Funnel Segment]” --  a good proxy for success if we apply this across the HLR and Disability wizards as well. The KPI would be to show reduced bounce rate on the Wizards – implying that a more informed veteran would then be prepared to apply (e.g. reduction in ineligibles).
 
 ## Definition of done
 
-The how to apply wizards are live in production across the identified pages, resulting in reduced Wizard bounce rates.
+**For Short Term Solution**
+
+- [ ] Set meeting with Platform for collaboration on improving communication, response, redundancy and speed to publish issues/gaps.
+- [ ] Create tickets for solutioning
+
+**For Mid Term Solution**
+
+- [ ] Confirm recommended UX changes with Ryan T.
+- [ ] Create ticket for backlog and implementation
+
+**For Long Term Solution**
+
+- [ ] Confirm recommended UX changes with Ryan T.
+- [ ] Create ticket for backlog and implementation
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
