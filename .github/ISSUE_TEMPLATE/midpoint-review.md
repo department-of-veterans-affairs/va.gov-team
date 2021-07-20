@@ -60,4 +60,4 @@ Please note:
 - VFS Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
 ## Additional information
-Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) on Github for more information about the Collaboration Cycle.
+Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)or the [Midpoint Review Touchpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md) on Github for more information about the Collaboration Cycle.
