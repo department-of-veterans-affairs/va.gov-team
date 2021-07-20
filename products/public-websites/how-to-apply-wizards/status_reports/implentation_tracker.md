@@ -3,7 +3,7 @@
 
 | TEAM                | BAM 1                             | BAM 1                     | BAM 2                   |  eBenefits                                       |
 | -------------       | -------------                     | -------------             | -------------           | -------------                                    |
-| <b>Product<b>           | Disability (526)                  | HLR                       | Education (1990, STEM)  | Personalized Care & Planning (Ch 36/31) |
+| <b>Product<b>           | Disability (526)                  | HLR (20-0996)                     | Education (1990, STEM)  | Personalized Care & Planning (Ch 36/31) |
 | <b>Product Leads<b>       | Hashimoto/Self/Henry           | Hashimoto/Self/Henry   | Self/Keeler             | Jason Wolf           
 | <b>UX Spec (via Prototype)<b> | Done                   | Done                      | Done                    | Done
 | <b>User Test (via Prototype)<b>| Done                  | Done                      | Done                    | Done
