@@ -53,4 +53,4 @@
   
 ![VA Continuum of health slide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/images/VA%20continuum%20of%20health%20-%20Dr.%20Rabenhorst-bell.png?raw=true)
 </details>
-
+> [Referring to slide] This is a slide showing the continuum of healthcare within VA. PC-MHI are the primary mental health clinics, that's where someone is going into their primary care appointment but has a mental health need, but are brief interventions that aren't really formal a involvement with the mental health service yet. If someone does need a referral to a more outpatient formal mental healthcare they would go to the General Mental Health clinics (those are like the BHIPs), and then someone would be assigned a mental health treatment coordinator and prescriber. If someone needs a more specialized form of mental health care (PTSD, substance abuse, etc) then they can go to Outpatient Speciality Care or spciality clinics, where the clinic has a singular focus on providing evidence-based treatments for a particular diagnosis or set of symptoms. 
