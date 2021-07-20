@@ -73,30 +73,31 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 ## Definition of done
 
-**For Short Term Solution**
+**For Short Term Solution (Goal: Put in place by Sept. 1)**
 
 - [ ] Set meeting with Platform for collaboration on improving communication, response, redundancy and speed to publish issues/gaps.
 - [ ] Create tickets for solutioning
 
-**For Mid Term Solution**
+**For Mid Term Solution (Goal: Implement by Oct. 1)**
 
 - [ ] Confirm recommended UX changes with Ryan T.
 - [ ] Create ticket for backlog and implementation
 
-**For Long Term Solution**
+**For Long Term Solution (Goal: Implement in Q1/2022)**
 
-- [ ] Confirm recommended UX changes with Ryan T.
-- [ ] Create ticket for backlog and implementation
+- [ ] Determine LOE for CMS solution and where it fits based on other CMS priorities
+- [ ] Create ticket for backlog(s)
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
 ## Screenshots
 
+- New HP Banner Alert design 
+
+![image](https://user-images.githubusercontent.com/63107147/126380726-fc9eedc3-9dda-4c98-a192-d90fad0f6326.png)
 
 
 ## Status 
-
-
 
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
