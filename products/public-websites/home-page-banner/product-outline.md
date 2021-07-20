@@ -34,9 +34,9 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
     - Idea: Make this a Site-Ops/Platform responsibility, eliminating reliance on Public Websites engineer/team.
     - Idea: Make the "How to do" document available to all teams/developers on https://depo-platform-documentation.scrollhelp.site/index.html
   - **Publishing Speed** Create a fast-track publishing capability for the HP Banner Alert to ensure that once it is PR'ed, it can be deployed into production within 15 minutes.
-  
- - **Long Term: Moving from yaml to CMS**
-   - Add HP banner content to CMS
+ 
+ - **Long Term: Moving from yaml to Something Better**
+   - Add HP banner content to CMS (ore technical background about solutioning [available here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991#issuecomment-875210594)
      - Pros
        - does not require OOB deploy
        - has built in error checking for mis-spellings, broken links, bad content formatting
@@ -59,9 +59,14 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
      - Mitigations
        - add CI/CD tests to repo
 
+
+
+   - **Mid Term: Refine the design of the HP alert banner to optimize readibility and Home Page UX overall
+
+
 ## Hypothesis or Bet
 
-**If** the Wizards are moved to the application page **then**  there will be a reduction in the number of ineligible/incorrect applications received by VA benefits administrators.
+**If** we move to a CMS approach **then** 
 
 ## OKR
 
