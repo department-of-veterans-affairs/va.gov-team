@@ -1,23 +1,26 @@
 ## Home Page Banner Product Outline (v2.0)
 
-Since the launch of VA.gov in 2018, we have supported/enabled "emergency communications/messaging" from VA leadership at OPIA with a Home Page banner alert.  The process by which that banner is used and deployed is **unique**.  In short:
+Since the launch of VA.gov in 2018, we have supported/enabled "emergency communications/messaging" from VA leadership at OPIA with a Home Page banner alert.  The process by which that banner is used and deployed is **unique and problematic**.  In short:
 
-- OPIA can publish on VA.gov homepage-only via an update to a yaml file on GitHub. This file is then PR'ed by a front end engineer on Public Websites, merged by platform after review and then deployed with the daily afternoon content build. If the file needs to be pushed into production more immediately or during off-hours (evenings, weekends), the process requires Platform approval for an out-of-band deployment and a full content build (a process that can take up to one hour).
+- OPIA can publish on VA.gov homepage-only via an update to a yaml file with an HTML snippet on GitHub. This file is then PR'ed by a front end engineer on Public Websites, merged by platform after review and then deployed with hourly content builds. If the file needs to be pushed into production more immediately or during off-hours (evenings, weekends), the process requires Platform approval for an out-of-band deployment and a full content build (a process that can take up to one hour).
 
 - There are multiple issues related to this process:
 
   - (1) **Single-threaded dependency** -- especially during off-hours -- on one knowledgeable Public Websites engineer (formerly Nick Sullivan, now Kelson Adams) to PR and promote the yaml file once it is updated by OPIA.  There currently is no "back up" plan if the Public Website engineer is unreachable.
   - (2) **Communication silo** - the way OPIA (aka Josh Tuscher) notifies VA.gov that the banner is going to be used/updated varies -- sometimes he reaches out to the Public Websites Product Owner via Teams, sometimes he contacts the PW engineer directly via mobile phone.  There currently is no "official notification" process in place that ensures this event is more broadly communicated and managed.
   - (3) **Risk of content error** - the yaml file approach requires OPIA to create or update content using what amounts to unstructured HTML mark-up.  As a result, there is no built-in link checking, spell checking, text formatting capability.  That has already resulted in content issues -- misspellings, broken links, formatting issues.  
-  - (4) **Slow deployment** - 
+  - (4) **Delayed publishing** - at one time, deploying the yaml file did not require waiting for an hourly content build. Once reviewed and approved by the PW FE engineer, the file could be pushed into production in real-time.  However, a new content build process introduced in mid-2020 moved the HP banner alert into the standard publishing path.  The business requirement is for the content to go live within 15 minutes of request for PR review.
 
 ![HP Banner](https://user-images.githubusercontent.com/63107147/126205733-c34132d0-8c11-4793-b4f0-93eca2e1ceef.png)
 
+## The Problem to be Solved
 
-**How might we make the process of creating or updating a VA.gov Home Page banner easier, faster and less risk-prone?
+**How might we make the process of creating or updating a VA.gov Home Page banner easier, faster and less risk-prone?**
 
 
-## Solution
+## Proposed Solution(s)
+
+
 
 
 
