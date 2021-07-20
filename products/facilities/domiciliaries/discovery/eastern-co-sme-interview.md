@@ -108,4 +108,4 @@
 
 [Nick] If you were updating the site, what the first thing you would want Veterans coming into the program to know?
 
-> 
+> I know the PTSD program [at Denver VAMC] much better, having been there just over 8 years - word of mouth is one of our best referral sources. Veterans talk to other Veterans about how great the program is, and that's what we hear - "Hey, I know Denver's got the best program I want to come there'. I think we often feel intimidated by that
