@@ -88,4 +88,18 @@
 
 [Nick] Any services that people ask for that aren't offered?
 
+> I think some of the things that are offered within the main medical center that are just harder to get, like dental and eye exams - some of it is because people aren't elegible for those services within VA, if they're not service connected or don't meet requirements. If they're in the Valor Point dom for a certain amount of time, then they qualify for certain benefits, like dental or some vision benefits, and they can access those in the community closer to where the dom is located. Otherwise we do utilize that shuttle back and forth to the main VAMC quite a bit, so Veterans can access their goal appointments, or any other to get their needs met.
+
+[Nick] Are there different elegibility requirements for services within the dom, or is it that once you're in you automatically qualify for a range of services?
+
+> There are, I don't know all of them, but with dental for example, there are certain services that once you're in the program you have access to, like if you have an abscess tooth, you can get it extracted, but in terms of the more [routine, longer-term, or preventative care], unless someone is 100% service connected then I think a lot of Veterans just aren't elegible for those kinds of services within VA. And that's not unique to domiciliary populations, that's true across the board.
+
+[Nick] So if something qualifies as an "emergency" they're maybe more likely to be taken care of?
+
+> Yeah, absolutely. And at Valor Point because it located so far from the main VAMC - it's in a different county even - when we have to call 911, it's not the VA emeregncy department that's going to see them first, it's going to be an emergency department that's much closer. Likely Lakewood [CO] community emergency services, for either mental health or medical. If someone needs to be hospitalized, if it's appropriate, that community partner will try to get that Veteran moved from the community facility to the VA facility. Community partners will also protect Veterans from being billed inappropriately for services they have recieved.
+
+[Nick] Is there anything a Veteran would need to know before coming to either facility? Like is there anything they need to bring with them, or...
+
+> Yeah, for the PTSD program, that has a shorter length of stay, about 8 weeks and it's intensive trauma treatment. In the PTSD program usually we'll try to work with people to try to maintain their routine medical care, but those 8 weeks are not the time to focus on new medical issues or get ahead of their job of managing some of their chronic medical issues. We're asking them to do that either before or after the program - not always possible with the homeless dom since people are there for longer, 3-6 months, sometimes longer. [At the dom] They are usually able to get a handle on their routine medical care. What's true in both locations is that the providers on site aren't going to work to increase opiate medications - not just take them away, but work to taper down and get a safe medication regimen. It's sometimes helpful for Veterans to know you are unlikely to have increases in pain medication in a RTP. We often talk about this in our screening process just to give Veterans a heads up - they need to work with their primary care doctor for that, not dom or RTP staff.
+
 
