@@ -6,7 +6,7 @@
 - [ ] Staging Review 7/29/2021
 - [ ] Production target launch date 7/30/2021
 
-## Phase I: Pilot Phase and UAT 
+## Phase I: Pilot and UAT 
 
 ### Planning:
 - Link to [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-UAT/research-plan.md) for UAT
