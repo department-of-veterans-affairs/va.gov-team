@@ -34,6 +34,7 @@ Information about domiciliary locations is present on newer VA system pages, as 
 
 *[REORGANIZE/UPDATE DISCOVERY QUESTIONS FOR THIS SECTION - INCLUDE INTERVIEW/RESEARCH DATA, COVERING DIFFERENCES ACROSS SYSTEM]*
 
- - **Facilities**
- - **Services**
- - **Referrals & admissions**
+ - **What are domiciliaries?**
+ - **What services are provided?**
+ - **How to Veterans get in?**
+ - **What do Veterans need to know?**
