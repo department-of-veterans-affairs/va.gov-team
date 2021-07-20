@@ -10,7 +10,7 @@
 | <b>Development<b>  |Done (2/2021)                 | Done (2/2021)       | 50% Complete/Hold       | Ch 36 Done (12/2020) <br> Chapter 31 In progress
 | <b>Staging Review/Q-A<b> | In Review                  | In Review                       | TBD                     | TBD
 | <b>Site Links(PW)<b>   | In progress                       | In progress               | In progress             | In progress
-| <b>Target Launch Date<b>        | [LIVE](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction)                          | [LIVE](https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)                 | [Q3-4](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction/)             |[Ch 31 (March)](https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start) <br> [Ch 36 (Launched 1/4)](https://www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)
+| <b>Target Launch Date<b>        | [LIVE](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction)                          | [LIVE](https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/introduction)                 | [Q3-4](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction/)             |[Ch 31 LIVE](https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start) <br> [Ch 36 (Launched 1/4)](https://www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)
 
 ## Application Wizard Links
 
