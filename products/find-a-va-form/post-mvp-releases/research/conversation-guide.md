@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 
-*For all SCREEN READER users, schedule Josh or Angela to attend to help resolve any technical difficulties. Note that set up and user tasks may take longer and so the participant might get through fewer tasks. USE HEADPHONES & open [Screen Reader Facilitation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/screenreaders.md)*
+*For all SCREEN READER users, schedule Josh or Angela to attend to help resolve any technical difficulties. Note that set up and user tasks may take longer and so the participant might get through fewer tasks. Open [Screen Reader Facilitation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/screenreaders.md)*
 
 *Review participant list for participant name and screener question responses*
 
