@@ -57,7 +57,8 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 
 ## Method 2: Internal VA, GCIO, and Ad Hoc Veteran Employees Review
 ### Methodology and Recruitment
-- _Use this method only if absolutely necessary._
+_Use this method only if absolutely necessary._
+
 - Recruit volunteers to do production testing. 
   - VA (who have an association with this project), GCIO, and Ad Hoc employees, who are also Veterans.
   - Outstanding question: how do we technically make it possible for them to test the system?
@@ -69,20 +70,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 
 ### Conversation Guide
 - Email/Slack content:
-  - Thank you for volunteering to help us test the new mobile phone check-in experience. [Instructions on how to complete check-in.] Once you complete check-in, please send any feedback to [whoever , so we can understand more about your experience: [survey link].
-- Survey questions
-  - The first ten questions are part of System Usability Scale (SUS), so they will be on a scale of 1 (Strongly disagree) to 5 (Strongly agree).
-  - I think that I would like to use this system frequently.
-  - I found the system unnecessarily complex.
-  - I thought the system was easy to use.
-  - I think that I would need the support of a technical person to be able to use this system.
-  - I found the various functions in this system were well integrated.
-  - I thought there was too much inconsistency in this system.
-  - I would imagine that most people would learn to use this system very quickly.
-  - I found the system very cumbersome to use.
-  - I felt very confident using the system.
-  - I needed to learn a lot of things before I could get going with this system.
-  - Do you have any other feedback about checking in on your mobile phone?
+  - Thank you for volunteering to help us test the new mobile phone check-in experience. [Instructions on how to complete check-in.] Once you complete check-in, please send any feedback to [someone's email] or Slack the DSVA #check-in experience channel, so we can understand more about your experience. Some questions to think about when writing your feedback. What are your general impressions of checking in on your mobile phone? What did you like about the experience? What did you dislike about it? 
 
 ## Method 3: Pilot Site Staff Help Us Gather Feedback from Veterans
 ### Methodology
@@ -90,8 +78,8 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 
 ### Recruitment
 - Staff should try to get feedback from:  
-  - 5 Veterans who completed check-in on their mobile phone
-  - 5 Veterans who did not check-in on their mobile phone
+  - 6 Veterans who completed check-in on their mobile phone
+  - 3 Veterans who did not check-in on their mobile phone
 - _Staff should not worry about getting feedback from every patient while the pilot is running._
 
 ### When? What dates do you plan to do research?
@@ -99,9 +87,9 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 
 ### How staff should document feedback
 - Feedback should be anonymous. Do not collect names or other identifiable information.
-- A printable document will be created that the staff can utilize to capture the feedback from the patient. Staff fills out the documentation.
+- The staff can utilize this [interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/6850668/MVP.PilotEvaluation-Feedback.pdf) to capture the feedback from the patient. Staff fills out the documentation.
 - Corey Parker will periodically message the pilot site to gather the feedback documents.
-- If you would prefer another document type or process to gather feedback, message Kristen.Mcconnell@va.gov with details.
+- If staff would prefer another document type or process to gather feedback, message Kristen.Mcconnell@va.gov with details.
 
 ### Conversation Guide (Questions to ask Veterans)
 - Did you check-in for your appointment on your mobile phone today?
@@ -119,7 +107,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 ## Method 4: Pilot Site Feedback from Staff
 ### Methodology and Recruitment
 - The check-in team reaches out to the pilot site(s) after the check-in experience has been running for a little bit. 
-  - Feedback can be soliticited via email or remote meeting.
+  - Feedback can be soliticited via email or remote meeting. If a site visit is able to be scheduled, then we can ask these questions during the site visit as well.
   - Try to invite as many staff and roles as possible at the pilot site to give feedback.
 
 ### When? What dates do you plan to do research?
