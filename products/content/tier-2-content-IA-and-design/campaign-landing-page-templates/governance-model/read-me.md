@@ -52,6 +52,9 @@
 
 ### Relevant Documents
 
+How to Clone a CLP in CMS
+https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page
+
 CLP Governance and Product Guide (Draft - 06-15-2021)-
 [VA.gov Campaign Landing Page_Governance_Product_Guide.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6663537/VA.gov.Campaign.Landing.Page_Governance_Product_Guide.pptx)
 
