@@ -19,6 +19,7 @@
 | :--- | :--- | :--- |
 | View Dependents | [XD Mockups](https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/) | Get text from mock |
 | View Dependents V2 <br> (New tool page layout) | [XD Mockups](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/) | Concept layout |
+| View Dependents <br> (Back to OLD tool page layout) | [XD Mockups](https://xd.adobe.com/view/659d31d9-4d54-4400-ad7b-25bbe62ef212-30ce/) | Midpoint review layout 
 
 #### Add Dependents (21-686c/21-674)
 
