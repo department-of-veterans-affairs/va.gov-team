@@ -1,5 +1,7 @@
 
-## Post-MVP Production Release Phase (June-Forward 2021)
+## GOVERNANCE MODEL
+
+**IA Governance**
 
 - The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but will not appear in the VA.gov IA.
 - The URL is set dynamically via the H1 (with hyphens)
