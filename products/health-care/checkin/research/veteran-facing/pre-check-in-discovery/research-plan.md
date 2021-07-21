@@ -6,17 +6,16 @@ August 2021
 VSA Healthcare Experience: Check-in
 
 ### Background
-This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via va.gov.
-
-With this round of research, we are looking to test the usability and design of the proposed MVP.
+This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. To help streamline the day of check-in experience, the healthcare experience team is exploring the concept of pre-check-in, which would allow Veterans to complete a series of tasks prior to their appointment from the comfort of their homes. These tasks could include:
+- reviewing contact information
+- reviewing insurance
+- answering questionnaires
 
 ### Research questions:
-What question(s) do you hope to be able to answer after completing this research?
+- Do Veterans find value in being able to complete these tasks a few days prior to their appointment?
+- What tasks do Veterans find value in?
+- 
 
-Do Veterans understand how to check-in via their mobile device?
-How do Veterans feel about the proposed check-in solution, particularly the multiple modalities utilized (text, then website)?
-What appointment information are Veterans expecting to review, in order to complete check-in?
-Once check-in is complete, do Veterans understand what will happen/what they should do next, or how to get help if they are having trouble checking in?
 ### Hypotheses:
 Veterans will be able to complete check-in on their mobile device.
 Due to our authentication method, Veterans will have no problems jumping from text to website to complete check-in.
