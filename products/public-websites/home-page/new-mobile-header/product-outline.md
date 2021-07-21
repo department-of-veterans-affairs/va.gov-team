@@ -1,28 +1,20 @@
 ## New VA.gov Mobile Header
 
-Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element that was **not optimized for Mobile view.**
+Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element that was **not optimized for Mobile view.**  
+As a result, for our growing base of Mobile users, issues with the current header include:
 
-![image (4)](https://user-images.githubusercontent.com/63107147/126556098-9f79475a-4514-4b40-b033-38782bab2325.png)
-
-
-
-
-
+- It consumes too much space, pushing down the most important element on the page (based on usage): the top tasks links.
+- Some of the exposed navigational elements cause user confusion -- e.g. the Crisis Line logo was mistaken for a hamburger menu on mobile per user research
+- Too many chevrons in the top right corner with all acting differently, causing confusion
 
 ## The Problem to be Solved
 
-**How might we make the process of creating or updating a VA.gov Home Page banner easier, faster and less risk-prone?**
-
+**How might we make the Mobile version of VA.gov easier to scan and use, while preserving important links in an intuitive way?**
 
 ## Proposed Solution(s)
 
-**High Level User Story/ies**
 
-As a content editor, I need to quickly publish error-free alerts on the VA.gov homepage at all hours, so that time sensitive information can reach Veterans.
-
-
-**Requirements**
-
+![image (4)](https://user-images.githubusercontent.com/63107147/126556098-9f79475a-4514-4b40-b033-38782bab2325.png)
 
 
 ## Hypothesis or Bet
