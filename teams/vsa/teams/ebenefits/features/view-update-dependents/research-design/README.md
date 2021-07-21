@@ -11,7 +11,7 @@
 
 [Pre-launch Add Dependents/686 Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/686-punch-list-0720.md)
 
-[Midpoint review View Dependents Changelog/Punchlist]()
+[Midpoint review View Dependents Changelog/Punchlist ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/27634)
 
 ### View Dependents Mockups Changelog
 
@@ -32,7 +32,7 @@
 - Add link to bottom of first section in right sidebar: "Find out more about dependents and your benefits" (https://www.va.gov/disability/add-remove-dependent/)
 - Change text link from "Get help filing a claim" to "Get help filing your claim or appeal"
 - Increase padding/margin between last item and the footer
-- 
+
 ---
 
 #### View Dependents
