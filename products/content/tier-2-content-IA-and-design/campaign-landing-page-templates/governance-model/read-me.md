@@ -37,7 +37,7 @@
   - Accessibility 
   - Design/UX - Adherence to VA.gov design principles
   - Information Architecture, with focus on URL (including H1 and Vanity) setting
-  - Will be provided with three "artifacts" (all are available on the [CLP Teams Sharepoint site](https://teams.microsoft.com/_#/files/General?threadId=19%3A0PwhhN1I-X_rH2qjwRgqZSbQXA8PKa53mL_0OKm-xpM1%40thread.tacv2&ctx=channel&context=General&rootfolder=%252Fsites%252FCampaignLandingPage%252FShared%2520Documents%252FGeneral)
+  - Will be provided with three "artifacts" (all are available on the [CLP Teams Sharepoint site](https://teams.microsoft.com/_#/files/General?threadId=19%3A0PwhhN1I-X_rH2qjwRgqZSbQXA8PKa53mL_0OKm-xpM1%40thread.tacv2&ctx=channel&context=General&rootfolder=%252Fsites%252FCampaignLandingPage%252FShared%2520Documents%252FGeneral))
     - Campaign Landing Page Info Form - This is the info CLP stakeholders will use to (a) compile upfront about the campaign/page and; (b) is helpful in determing if the initiative is a good fit for CLP.
     - Campaign Landing Page Content Build Template - This Word doc can be used to pre-create a CLP before you use the CMS to build the page.
     - [UTM Worksheet on Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/VAgovCampaignTracker/_layouts/15/Doc.aspx?sourcedoc=%7BD01C9E16-B6D7-4240-9333-037D41A185B6%7D&file=va.gov-utm-campaign-tracker-UPDATED.xlsx&action=default&mobileredirect=true)
