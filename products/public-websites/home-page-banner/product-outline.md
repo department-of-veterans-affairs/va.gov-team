@@ -34,17 +34,16 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
     - Idea: Make this a Site-Ops/Platform responsibility, eliminating reliance on Public Websites engineer/team.
     - Idea: Make the "How to do" document available to all teams/developers on https://depo-platform-documentation.scrollhelp.site/index.html
   - **Publishing Speed** Create a fast-track publishing capability for the HP Banner Alert to ensure that once it is PR'ed, it can be deployed into production within 15 minutes.
-
-   - Load data from public Github repo using React widget
-     - Pros
-       - does not require GFE access
-       - does not depend on content build
-     - Cons
-       - malformed data could break homepage
-       - adds additional source for content on va.gov outside of content build
-       - handling of different environments (dev/stage/prod) unclear
-     - Mitigations
-       - add CI/CD tests to repo
+    - Idea: Load data from public Github repo using React widget
+      - Pros
+        - does not require GFE access
+        - does not depend on content build
+      - Cons
+        - malformed data could break homepage
+        - adds additional source for content on va.gov outside of content build
+        - handling of different environments (dev/stage/prod) unclear
+      - Mitigations
+        - add CI/CD tests to repo
  
  - **Long Term: Moving from yaml to Something Better**
    - Add HP banner content to CMS (ore technical background about solutioning [available here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991#issuecomment-875210594))
