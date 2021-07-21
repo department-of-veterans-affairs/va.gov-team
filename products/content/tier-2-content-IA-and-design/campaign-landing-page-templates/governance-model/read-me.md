@@ -1,5 +1,5 @@
 
-## GOVERNANCE MODEL
+## Campaign Landing Page Approved Governance Model
 
 **IA Governance**
 
