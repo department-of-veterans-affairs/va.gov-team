@@ -8,11 +8,11 @@
 - There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages
 - CLPs will be temporary -- they will have a start and end date, and they will be removed from the VA.gov site with a redirect specified by the VA business stakeholder  to support the "expiration" of the page.
 
-
-**Goals:** 
 To release the CLP to VACO Digital Comms teams -- enabling the tool to be used at wider scale, with VA business self-governance.
 
 **Governance Model (Draft-WIP):**
+
+- **Goal:** To allow VACO Digital Comms teams to self-publish with little "overhead" required by VA.gov digital teams (Public Website and CMS Product)
 - Edit and Publish access will go wider --  with the following guardrails in place:
   - The VACO Web Communications (Web Comms) teams/leads **OR the Web Governance Board led by OPIA (Gary Hicks)** will be the business owners of the CLP (with Public Websites remaining the Product Owner). That means, the leads on those teams:
     - Decide what is a CLP – including assessing requests from Offices, Leadership, etc.  Criteria include:
