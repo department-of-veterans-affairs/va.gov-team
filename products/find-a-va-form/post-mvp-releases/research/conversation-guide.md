@@ -115,7 +115,7 @@ Imagine that you are a healthcare worker applying for a job with the VA. You wan
   
 - What would you do if you wanted to continue filling out this form later?
   
-- Now assume that the form is completely filled out. What would you do now? 
+- Now assume that the form is completely filled out. How would you sign it? 
  
 - What are your thoughts about the process of filling out this form? 
 
@@ -144,7 +144,7 @@ I'd like you to again open the web page you started on. Now assume that you got 
   
  - What would you do if you wanted to continue filling out this form later?
   
-- Now assume that the form is completely filled out. What would you do now? 
+- Now assume that the form is completely filled out. How would you sign it? 
  
 - What are your thoughts about the process of filling out this form? 
 
@@ -176,10 +176,8 @@ I'd like you to again open the web page you started on. You also want the form t
 - I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
- - What would you do if you wanted to continue filling out this form later?
+- What would you do if you wanted to continue filling out this form later?
   
-- Now assume that the form is completely filled out. What would you do now? 
- 
 - What are your thoughts about the process of filling out this form? 
 
 Action | Yes | No | Help Needed | Reactions
@@ -192,7 +190,6 @@ Difficulty finding the downloaded form?
 Opened form in Acrobat? (SUCCESS)
 Filled out form?
 To continue later, saved form?
-When done, digitally signed form?
  
 
 ### Task 4: [Form 20-0995--most downloaded, can fill out in browser, hosted inside VA.gov)] - 5 minutes
@@ -208,8 +205,6 @@ I'd like you to again open the web page you started on. And there's one last for
 
 - What would you do if you wanted to continue filling out this form later?
   
-- Now assume that the form is completely filled out. What would you do now? 
- 
 - What are your thoughts about the process of filling out this form? 
 
 Action | Yes | No | Help Needed | Reactions
@@ -222,7 +217,6 @@ Difficulty finding the downloaded form?
 Opened form in Acrobat? (SUCCESS)
 Filled out form?
 To continue later, saved form?
-When done, digitally signed form?
 
 
 ## (if time) Post-Task Interview - 5 minutes
