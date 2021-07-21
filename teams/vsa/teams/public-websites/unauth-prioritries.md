@@ -44,12 +44,10 @@
       - [ ] Product Outline for V1.0 of Events
       - [ ] Initiative Brief for Filtering Events
     - Campaign Landing Page
-      - Finalizing Governance model with stakeholders
-        - [X] Web Governance Board (OPIA)
-        - [X] VEO
-        - [X] VHA
-        - [X] VBA, via Web Governance Board meeting
-        - [X] NCA, via Web Governance Board meeting         
+      - Finalizing [Governance model with stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/governance-model/read-me.md)
+      - Finalizing all self-service components
+        - [ ] Teams site with shareable artifacts
+        - [ ] Analytics/GA reporting
     - Sitewide Navigation
       - Initiative is led by Meg/Mikki on the IA team -- with details [in this ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/277)
     - Benefit Hubs Optimization - Content & IA 
