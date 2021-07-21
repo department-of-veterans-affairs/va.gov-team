@@ -26,6 +26,7 @@ None
 </summary>
 
 </details>
+
 ## Wednesday, July 21, 2021
 
 ### Key Grooming Factors:
@@ -46,6 +47,7 @@ None
 - [ ] 508-defect-2 [FOCUS]: Back to top button's focus halo MUST be visible on Safari [#25001](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25001)
 - [ ] Back to top component is not displayed in IE-11 [#25103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25103)
 - [ ] 508-defect-3 [SCREENREADER]: On this page list should be announced as a list on VoiceOver [#25005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25005) 
+- [ ] Banner Alerts Overview @John
 
 ### Icebox Items (Relevancy - Delete)
 - [ ] [Blocked] Allow dismissible homepage banners in PROD #7098
