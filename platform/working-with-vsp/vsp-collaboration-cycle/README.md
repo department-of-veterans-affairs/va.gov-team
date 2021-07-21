@@ -1,3 +1,11 @@
+# We're moving our docs! 
+
+### You can find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+-------
+
 # Platform Collaboration Cycle
 
 The Platform Collaboration Cycle is where Platform reviewers provide support and guidance to VFS teams to help ensure the products they are building on VA.gov meet platform standards.  
