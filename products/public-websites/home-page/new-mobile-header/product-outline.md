@@ -22,29 +22,19 @@ As a result, for our growing base of Mobile users, issues with the current heade
 **If** we implement a Mobile optimized sitewide header **then** we will increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.
 
 
-## Definition of done
+## What Needs to Be Done
 
-**For Short Term Solution (Goal: Put in place by Sept. 1)**
+- [ ] Need Analytics to determine baseline performance of the current header, including:
+      - What is the usage of Search on Mobile in that header component?
+      - What is the usage of Top Tasks via the Mobile Home Page?
+- [ ] Create a version of the proposed new Mobile-optimized header for a live, in-production "sample size" test via GA tracking
+- [ ] Determine what metrics will determine "success" (e.g. same or higher usage of Search and Top Tasks)
 
-- [ ] Set meeting with Platform for collaboration on improving communication, response, redundancy and speed to publish issues/gaps.
-- [ ] Create tickets for solutioning
-
-**For Mid Term Solution (Goal: Implement by Oct. 1)**
-
-- [ ] Confirm recommended UX changes with Ryan T.
-- [ ] Create ticket for backlog and implementation
-
-**For Long Term Solution (Goal: Implement in Q1/2022)**
-
-- [ ] Determine LOE for CMS solution and where it fits based on other CMS priorities
-- [ ] Create ticket for backlog(s)
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
 ## Relevant Links
 
-
-## Screenshots
 
 
 
