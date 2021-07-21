@@ -405,6 +405,6 @@ In this study, we were not able to test the tasks with dictation nor magnificati
 ## Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md)\
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)\
-[Research Findings - VA.gov Homepage Specific](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
+[Research Findings - Main Research Findings Report]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
 
 
