@@ -50,8 +50,8 @@ None
 - [ ] Banner Alerts Overview @John
 
 ### Icebox Items (Relevancy - Delete)
-- [ ] [Blocked] Allow dismissible homepage banners in PROD #7098
-- [ ] Bug: Wrong font color in intro text discharge upgrade tool page #15267
+- [ ] [Blocked] Allow dismissible homepage banners in PROD [#7098](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7098)
+- [ ] Bug: Wrong font color in intro text discharge upgrade tool page [#15267](https://github.com/department-of-veterans-affairs/va.gov-team/issues/15267)
 
 ### Team Clarity Requests: (Call out tickets)
 
