@@ -82,31 +82,31 @@ Secondary criteria / Would like to have:
 
 When?
 
-● Timeline: The timeline for this study: July 22 to July 23, 2021.
+● Timeline: The timeline for this study: July 28 to July 29, 2021. 
 
-● Prepare: When will the thing you are testing be ready? It is ready.
+● Prepare: When will the thing you are testing be ready? It is ready. VA.gov in Staging
 
 ● Length of Sessions: up to 60 minutes, and allow 30 minutes between each session.
 
-● Availability: 10 am - 5 pm EST Thursday and Friday
+● Availability: 10 am - 7 pm EST Wednesday and Thursday
 
-● Pilot: July 21, 2021, 12 pm EST
+● Pilot: July 27, 2021, 12 pm EST
 
 Team Roles:
 
-● Moderator: Christian V.
+● Moderator: Christian V.  Christian.Valla@gcio.com 
 
 ● Conversation guide writing and task development: Christian V.
 
 ● Participant recruiting & screening: Perigean
 
-● Project point of contact: Christian V. (Phone: 626 491 4488, email: cvalla@governmentcio.com
+● Project point of contact: Christian V. (Phone: 626 491 4488, email: Christian.Valla@gcio.com
 
-● Participant(s) for pilot test: Kevin S.
+● Participant(s) for pilot test: Kevin Stachura. kstachura@governmentcio.com
 
 ● Note-takers: Kevin S., Perigean.
 
-● Observers: Robin G., Anna C., Shawna H., Paul S., Kevin S., Veronica H.
+● Observers: Robin G., robin.garrison@adhocteam.us, Anna C., anna@adhocteam.us, Shawna H., shawna@adhocteam.us, Paul S., Paul.Shute@va.gov, Kevin S, kstachura@governmentcio.com, Veronica H., vhenry@governmentcio.com, Asha G., asha.gross@adhocteam.us
 
 Resources
 
