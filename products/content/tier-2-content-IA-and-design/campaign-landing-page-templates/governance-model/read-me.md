@@ -11,6 +11,9 @@
 **Governance Model (Draft-WIP):**
 
 - **Goal:** To allow VACO Digital Comms teams to self-publish with little "overhead" required by VA.gov digital teams (Public Website and CMS Product)
+
+<img width="975" alt="Screen Shot 2021-07-21 at 3 14 23 PM" src="https://user-images.githubusercontent.com/63107147/126546492-41438b9b-686f-4ea5-b049-d84100adb9f0.png">
+
 - **How It Works:**
   - The VACO Web Communications (Web Comms) teams/leads will be the business owners of the CLP (with Public Websites and CMS Product Support remaining the Product Owner). That means, the leads on those teams:
     - Decide what is a CLP – including assessing requests from Offices, Leadership, etc.  Criteria include:
