@@ -19,7 +19,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 ## Hypothesis or Bet
 
-**If** we create a more robust, systematic approach to enabling HP banner alerts **then** we will reduce the litany of high profile risks (availability, timeliness, content errors) which exist now.
+**If** we implement a Mobile optimized sitewide header **then** we will increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.
 
 
 ## Definition of done
