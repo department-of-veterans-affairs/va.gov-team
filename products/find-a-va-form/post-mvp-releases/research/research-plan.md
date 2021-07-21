@@ -92,7 +92,7 @@ July 30, 2021 | 2 - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-July 22, 2021  |  TBD (screen reader user)
+July 22, 2021  |  5:30 pm (angela.fowler@adhocteam.us)
 July 23, 2021  |  TBD (non-screen reader user)
 
 ## Team Roles	
