@@ -10,6 +10,9 @@
 - *Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
 
 - *Share brief summary of participant demographic info*
+- **If screen reader user, slack Zach re version switching now and during test**
+  - For 1st user: First want to test message with every result (to see if irritating), then switch to only at top.
+  - For 2nd user: First test only at top, then switch to every result. 
 
 **5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
@@ -36,6 +39,12 @@ Before we start, I want to go over a few things:
 - **This session should take about 45 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
+
+- I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
+  - I could dictate it to you, put it in the Zoom chat, email it to you, *(only if on a phone)* text it to you.
+    - *(if email)* Is your current email XYX *(get from participant roster)* ?
+    - *(if text)* What is your mobile phone number?
+
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -58,11 +67,16 @@ Before we start, I want to go over a few things:
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
-- *(if using a screen reader)* How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
-- *(if using a screen reader)* What assistive technology are you using today?
+### If using a screen reader
+- What assistive technology are you using today?
+- How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
+- How long have you been using a screen reader?
+- Are you wearing headphones today? 
+  - If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
+
+### For all participants
 - What device are you using today? *(Phone / Tablet / Computer)*
 - What kind of a device is it? *(Windows / Mac / iPhone / Android)*
-- How would you prefer that I share a web page URL with you? Dictate it to you, put it in the Zoom chat, email it, (only if on a phone) text it?
 - Have you ever looked online for VA forms? 
   - If yes, can you describe the last time you did that? 
     - what looking for?
@@ -74,7 +88,8 @@ Let’s start with a few questions...
 I would like you to share your screen with me so I can watch you use a specific website. I'll need to see only a blank web browser window for now.
 *(refer to Screen sharing instructions above, if needed)*
 
-*RECORD design version: Instructions once at top / repeated for every form*
+- *NOTE how to share URL: dictate / Zoom chat / email / text* 
+- *NOTE design version: Instructions once at top / repeated for every form*
 
 ## Veteran Tasks
 Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (https://staging.va.gov/find-forms/).
@@ -144,6 +159,12 @@ Opened form in Acrobat? (SUCCESS)
 Filled out form?
 To continue later, saved form?
 When done, digitally signed form?
+
+### If using a screen reader, switch version of page
+1. *SLACK ZACH*
+1. *get confirmation from Zach that it's done*
+1. Could you please refresh your browser window?
+1. *NOTE any feedback on instructions positioning or frequency*
 
 ### Task 3: [Form 20-0968--not hosted on VA.gov] - 5 minutes
 I'd like you to again open the web page you started on. You also want the form to get reimbursed for your travel to your last doctor's appointment. 
