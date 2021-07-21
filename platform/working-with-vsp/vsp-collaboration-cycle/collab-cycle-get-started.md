@@ -1,3 +1,12 @@
+
+# We're moving our docs! 
+### You can find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+
+------
+
 # Getting started with the Collaboration Cycle 
 Before engaging with the Collaboration Cycle, please review the guidance and questions below to help Platform determine what level of support, which practice areas, and which touchpoints are needed for your work. If you don’t know the answer to a question, then it’s too early for you to engage with the Collaboration Cycle.
 
