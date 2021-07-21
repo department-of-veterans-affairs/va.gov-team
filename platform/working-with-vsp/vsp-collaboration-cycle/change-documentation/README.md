@@ -1,3 +1,14 @@
+
+
+# We're moving our docs! 
+### You can find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Change-history.1768259657.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+
+-------
+
+
 ## Collaboration Cycle - Change Log
 
 
