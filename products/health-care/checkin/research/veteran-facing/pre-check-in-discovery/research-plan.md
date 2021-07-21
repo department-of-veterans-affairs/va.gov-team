@@ -14,19 +14,15 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 ### Research questions:
 - Do Veterans find value in being able to complete these tasks a few days prior to their appointment?
 - What tasks do Veterans find value in?
-- 
+- How do Veterans want to be notified that they have these tasks to complete?
 
 ### Hypotheses:
-Veterans will be able to complete check-in on their mobile device.
-Due to our authentication method, Veterans will have no problems jumping from text to website to complete check-in.
-Since Veterans are at the VA facility, they only need a few pieces of appointment information during the check-in process.
-Veterans will have enough information to know what to do next or where to go if they do have questions.
+- Veterans will verbalize how completing these tasks before an appointment are helpful to them.
+- Veterans will be able verbalize which tasks are more important t
 
 ## Method
 ### What method of research are you planning?
-Remote, moderated sessions conducted on Zoom
-
-Usability testing using a poster, Twilio and staging.
+Remote, moderated sessions with interview questions and review of a UXPin prototype conducted on Zoom.
 
 ### Why this method? How does this methodology help you answer your research questions?
 Usability testing will allow the Veterans to walk through each step of the proposed process, so they can provide feedback to each research question.
