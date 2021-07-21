@@ -48,6 +48,7 @@ None
 - [ ] Back to top component is not displayed in IE-11 [#25103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25103)
 - [ ] 508-defect-3 [SCREENREADER]: On this page list should be announced as a list on VoiceOver [#25005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25005) 
 - [ ] Banner Alerts Overview @John
+- [ ] @Kelson - ticket to refactor metatag templates to a single easy-to-read template.
 
 ### Icebox Items (Relevancy - Delete)
 - [ ] [Blocked] Allow dismissible homepage banners in PROD [#7098](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7098)
