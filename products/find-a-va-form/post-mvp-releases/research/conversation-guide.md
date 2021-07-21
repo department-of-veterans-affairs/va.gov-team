@@ -92,7 +92,7 @@ I would like you to *talk aloud* as much as possible so that you share what you'
 Imagine that you are a healthcare worker applying for a job with the VA. You want to find the form that you can use to apply for a health job. How would you do this?
 
 - Please talk me through what you're doing. 
-  - *(Search for "health jobs" > Click on "Application for Associated Health Occupations")*
+  - *(Search for "health jobs" > Click on "Application for Associated Health Occupations"--form 10-2850c)*
 
 - *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling out this form. 
@@ -117,11 +117,11 @@ To continue later, saved form?
 When done, digitally signed form?
 
 ### Task 2: [Form 10-0003k--has digital signature] - 5 minutes
-Now assume that you got the healthcare job with the VA. Suppose you've started working and want to look into what scholarships you could apply for. How would you find the application form for employee scholarships?
+I'd like you to again open the web page you started on. Now assume that you got the healthcare job with the VA. Suppose you've started working and want to look into what scholarships you could apply for. How would you find the application form for employee scholarships?
 
 - Please talk me through what you're doing. 
   - *(Search for "application form scholarships" or "employee scholarships"*
-  - *> Click on "Employee Incentive Scholarship Program (ESPI) Application" Health Occupations")*
+  - *> Click on "Employee Incentive Scholarship Program (ESPI) Application" Health Occupations"--form 10-0003k)*
 
 - *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling it out. 
@@ -146,9 +146,10 @@ To continue later, saved form?
 When done, digitally signed form?
 
 ### Task 3: [Form 20-0968--not hosted on VA.gov] - 5 minutes
-I have a third VA form for you to find and fill out: **20-0968**.
+I'd like you to again open the web page you started on. You also want the form to get reimbursed for your travel to your last doctor's appointment. 
 
 - Please talk me through what you're doing.
+  - *(Search for "travel" > Click on "Claim for Reimbursement of Travel Expenses"--form 20-0968)*
 
 - *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling it out. 
@@ -174,9 +175,11 @@ When done, digitally signed form?
  
 
 ### Task 4: [Form 20-0995--most downloaded, can fill out in browser, hosted inside VA.gov)] - 5 minutes
-And there's one last form for you to find and fill out: **20-0995**.
+I'd like you to again open the web page you started on. And there's one last form for you to find: the one to request another review of your claim with supplemental evidence.
 
 - Please talk me through what you're doing.
+  - *(Search for "request review" or "request claim review" or "supplement claim" or "supplement evidence"*
+  - *> Click on "Decision Review Request: Supplemental Claim" -- form 20-0995)*
 
 - *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling it out. 
