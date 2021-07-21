@@ -1,6 +1,7 @@
 ## New VA.gov Mobile Header
 
-TBD
+Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element 
+
 
 
 ## The Problem to be Solved
