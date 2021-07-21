@@ -8,20 +8,20 @@
 - There will be NO links to CLPs from global menus, footers, or tier 1 benefit pages
 - CLPs will be temporary -- they will have a start and end date, and they will be removed from the VA.gov site with a redirect specified by the VA business stakeholder  to support the "expiration" of the page.
 
-To release the CLP to VACO Digital Comms teams -- enabling the tool to be used at wider scale, with VA business self-governance.
 
 **Governance Model (Draft-WIP):**
 
 - **Goal:** To allow VACO Digital Comms teams to self-publish with little "overhead" required by VA.gov digital teams (Public Website and CMS Product)
-- Edit and Publish access will go wider --  with the following guardrails in place:
-  - The VACO Web Communications (Web Comms) teams/leads **OR the Web Governance Board led by OPIA (Gary Hicks)** will be the business owners of the CLP (with Public Websites remaining the Product Owner). That means, the leads on those teams:
+- **How It Works:**
+  - The VACO Web Communications (Web Comms) teams/leads will be the business owners of the CLP (with Public Websites and CMS Product Support remaining the Product Owner). That means, the leads on those teams:
     - Decide what is a CLP – including assessing requests from Offices, Leadership, etc.  Criteria include:
       - Is this a campaign or a blog post? 
       - Is the content duplicative? 
       - Is this time-bound?  A campaign must have an end date.
       - CLPs need to drive traffic TO benefits or tools or products, not the other direction.
       - CLPs can be seasonal or recurring(like Flu Season 2020, Pride Month 2020) but not duplicative of evergreen content
-    - Ultimately responsible for ensuring the quality of the CLP -- e.g. look/feel, plain English content, accessibility)
+    - Are responsible for ensuring the quality of the CLP -- e.g. look/feel, plain English content, accessibility)
+    - Must kick-off the CLP process by communicating their plan -- via dedicated Teams channel -- to the Web Governance Board chaired by Josh Tushcher of OPIA.  This is to ensure cross-organizational alignment (e.g. this does not conflict with strategic communications initiatives by another VACO team)
     - Must kick-off the CLP process by creating/submitting the CLP request form. The request form will be used for two purposes:
       - To ensure the CLP meets the criteria for a Campaign and to ensure key information (e.g. name, goals, start-end date, URL requirements, etc.) are identified up-front
       - To make the Public Websites and CMS Product Support teams aware a new CLP is planned in case limited support is needed (user access, site cloning, vanity URL set-up) **Note:** There will be no VA.gov Platform or Product review before publication of the CLP
