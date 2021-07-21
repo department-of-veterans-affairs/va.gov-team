@@ -19,7 +19,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - Clerks/MSAs should have shorter lines of Veterans waiting to check in, since Veterans will utilize this solution. They shouldn't need to speak directly to the Veterans who check in via their mobile phones, in order for the clinical staff to know the Veteran has arrived for their appointment. The impact to their in-person Veteran check in (Veteran's who choose not to utilize the mobile check-in solution) workflow may vary depending upon their current workflows.
 - There should be minimal to no impact to clinical staff's workflow on how they know a Veteran has arrived for their appointment. 
 - Veteran and staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
-- Veteran should utilize VA.gov to check in for their appointment when the reach the clinic check-in area/waiting room.
+- Veteran should utilize VA.gov to check in for their appointment when they reach the clinic check-in area/waiting room.
 
 ## Method 1: Go to MVP site and observe/interview Veterans
 ### Methodology and recruitment
@@ -64,6 +64,9 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
                 - Why?
           - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
             - Why? What are your impressions of the experience?
+            - Now that you've experienced mobile check-in, where would you ideally want to check-in at? 
+              - If options if needed...at the clinic, in the main lobby, from the parking lot/when you are walking in
+              - Why?
 - Thank you for helping us continue to improve the check-in experience.
 
 ## Method 2: Go to MVP site and observe/interview staff
