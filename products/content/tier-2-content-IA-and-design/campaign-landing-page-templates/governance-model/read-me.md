@@ -42,13 +42,13 @@
     - Campaign Landing Page Info Form - This is the info CLP stakeholders will use to (a) compile upfront about the campaign/page and; (b) is helpful in determing if the initiative is a good fit for CLP.
     - Campaign Landing Page Content Build Template - This Word doc can be used to pre-create a CLP before you use the CMS to build the page.
 
-### Stakeholder Meetings for Post-MVP Governance Model
+### VACO Digital Comms Stakeholders who signed-off on Governance Model
 
-- [X] VEO: Tim Hudek - Meeting held on 6/16
-- [X] VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar, Jessica Ashley-Austin (VHADigitalMedia@va.gov) - Meeting held on 6/29
-- [ ] VBA Digital Strategy Team (Benefits): John P. DiMartino (Chief), Tanekwa Bournes (Program Analyst), Adrianne Hooten
-- [ ] OPIA & Web Governance Board: Kayla Williams, John Santos
-- [ ] NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
+- [X] VEO: Tim Hudek 
+- [X] VHA Digital Media (Health): Jenny Heiland-Luedtke, Jeffrey Grandon, Steve Tokar, Jessica Ashley-Austin (VHADigitalMedia@va.gov)
+- [X] VBA Digital Strategy Team (Benefits): John P. DiMartino (Chief), Tanekwa Bournes (Program Analyst), Adrianne Hooten
+- [X] OPIA & Web Governance Board: Josh Tuscher
+- [X] NCA Web Services: James LaPaglia (NCAWebServices@va.gov)
 
 ### Relevant Documents
 
