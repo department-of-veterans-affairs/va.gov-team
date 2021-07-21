@@ -41,7 +41,18 @@
 
 ## July 21
 
-* Metatags 
+* CLP governance
+  * notes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/governance-model/read-me.md
+  * getting closer to self-service model
+  * what is the business process to archive, redirect, un-archive, un-redirect, etc. 
+  * [How to clone documentation](https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page) 
+* Homepage banner
+  * John has completed a [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) based on experience from July 3
+    * Short term: Need to make sure the existing process is shored up and not 
+    * Long term: CMS
+* Events
+  * John will take on events product brief in a similar way to Homepage banner.
+* Metatags
   * Current sprint: fix `og:image` for CLP and fix `<title>` 9 other content types.
   * Later: more fine-grained audit and metatag planning for all 30 contentt ypes.
 * #18151 TTY phone numbers in right rail of Hub landing pages.
