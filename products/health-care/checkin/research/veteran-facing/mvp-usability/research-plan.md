@@ -150,8 +150,5 @@ Please list exact dates and times in EASTERN Standard Time. Please request enoug
 
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md_
 * [Convo Guide Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/conversation-guide.md)
-* Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
-* Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
-* Read-Out/Results
-  * Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.
-  * \*\* Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+* [Synthesis document](https://app.mural.co/t/vsa8243/m/vsa8243/1625079366895/f1363142396561f67e55f596ab3be49ccc343e0b?sender=uc940f53ad96ac0203d6d3631)
+* [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md)
