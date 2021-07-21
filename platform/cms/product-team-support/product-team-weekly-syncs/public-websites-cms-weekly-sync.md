@@ -45,7 +45,7 @@
   * Current sprint: fix `og:image` for CLP and fix `<title>` 9 other content types.
   * Later: more fine-grained audit and metatag planning for all 30 contentt ypes.
 * #18151 TTY phone numbers in right rail of Hub landing pages.
-* CMS account admin policies for CLP and 
+* CMS account admin policies for CLP and Outreach Hub
 * FYSA: Kevin out much of next week including July 28 
 
 ## July 14
