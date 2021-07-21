@@ -27,7 +27,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
   - Aim to intercept at least 10-15 Veterans as they enter the clinic, before their check in for their appointment.
 - Watch the Veteran complete check-in on their mobile phone.
 - Ask follow-up questions.
-- Utilize Net Promoter Score (NPS) in conjuntion with qualitative questions to evaluate Veteran and staff experiences. NPS 
+- Utilize Net Promoter Score (NPS) in conjuntion with qualitative questions to evaluate Veteran and staff experiences. NPS can be used overtime to see flucuations in the experience, but it shouldn't be the only user experience metrics evaluated. 
 
 ### When? What dates do you plan to do research?
 - To be determined. Coordination with the pilot location(s) needed.
