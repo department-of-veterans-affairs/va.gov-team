@@ -35,12 +35,18 @@
 
 </details>
 
+## July 28
+
+[kevin out]
+
 ## July 21
 
-* CMS account admin policies
-* Metatags
+* Metatags 
+  * Current sprint: fix `og:image` for CLP and fix `<title>` 9 other content types.
+  * Later: more fine-grained audit and metatag planning for all 30 contentt ypes.
 * #18151 TTY phone numbers in right rail of Hub landing pages.
-
+* CMS account admin policies for CLP and 
+* FYSA: Kevin out much of next week including July 28 
 
 ## July 14
 
