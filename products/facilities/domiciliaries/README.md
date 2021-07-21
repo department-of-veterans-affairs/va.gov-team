@@ -7,7 +7,6 @@
 - **Pennsylvania**
   - Coatesville, PA: 
     - [Coatesville VAMC](https://www.va.gov/coatesville-health-care/locations/coatesville-va-medical-center/) (under "homeless veteran care")
-    - [Legacy site](https://www.coatesville.va.gov/services/Residential_Rehabilitation_Treatment_Programs.asp)
   - Butler, PA
     - [VA system page](https://www.va.gov/butler-health-care/locations/butler-va-medical-center/) (residential treatment under "Addiction and substance abuse care")
     - [Legacy site](https://www.butler.va.gov/services/Domiciliary_Residential_Rehabilitation_Treatment.asp)
