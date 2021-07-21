@@ -2,7 +2,8 @@
 
 Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element that was **not optimized for Mobile view.**
 
-<img width="975" alt="Screen Shot 2021-07-21 at 3 14 23 PM" src="https://user-images.githubusercontent.com/63107147/126554963-abca90e4-14b0-4e26-be02-e26c4b139b37.png">
+<img width="1225" alt="Screen Shot 2021-07-21 at 4 02 39 PM" src="https://user-images.githubusercontent.com/63107147/126555013-040c8a00-a224-4d1d-869d-4826e544e50d.png">
+
 
 
 
