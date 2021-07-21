@@ -29,6 +29,11 @@ Mobile VHA
 - [CMS epic-Distinguish mobile VAMC clinics from non-mobile clinics #4743](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4743)
 - [Facilities epic - Mobile VHA locations #21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
 
+Vet Center Location Lists 
+>  District 5 is missing Locations List nodes. there are 70 Vet Centers but only 3 Locations List nodes (the three that were in MVP). We need to create 67, one for each Vet Center.  It wouldn’t take too long to do this manually, maybe 2 hours. But it should be done programatically, since we have to do this for another ~223 in Q4 anyway, which we may as well do now. I believe i did this manually for the first 10 in MVP. We may need to let District 5 editors that they are blocked from adding additional mobile vet centers and nearby vet centers and outstations for now.
+>  CMS issue [#5917](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5917)
+
+
 Possible
 * Top task hardening
 
