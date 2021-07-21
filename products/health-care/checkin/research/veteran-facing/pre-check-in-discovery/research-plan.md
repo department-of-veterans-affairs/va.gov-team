@@ -56,38 +56,36 @@ Note:
 
 ## When?
 ### Timeline: What dates do you plan to do research?
-TBD
+- TBD
 
 ### When will the thing you are testing be ready?
-TBD
+- TBD
 
 ### Length of Sessions: How long do you estimate each session will be?
-1 hour sessions, 30 minute buffer between sessions
+- 1 hour sessions, 30 minute buffer between sessions
 
 ### Availability: If applicable, when would you like sessions scheduled?
-Date; Time with a.m./p.m. and timezone
-
-Pilot: Please indicate a date before your sessions begin for piloting your research.
-TBD
-
-Which member of the design team will you pilot your research with?
-TBD
+- Date; Time with a.m./p.m. and timezone
+- Pilot: Please indicate a date before your sessions begin for piloting your research.
+  - TBD
+    - Which member of the design team will you pilot your research with?
+      - TBD
 
 ### Team Roles
-Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
-Research guide writing and task development (usually but not always same as moderator): Kristen McConnell
-Participant recruiting & screening: Perigean
-Project point of contact: Corey Parker (jparker@governmentcio.com)
-Participant(s) for pilot test: Dillo Raju (draju@governmentcio.com)
-Note-takers: Perigean
-Observers:
-Corey Parker
-Dillo Raju
-Patrick Bateman (Patrick.Bateman@va.gov)
-Mark Dewey (mdewey@governmentcio.com)
-Stephen Barrs (Stephen.Barrs@va.gov)
-Julia Snyder (Julia.Snyder@va.gov)
-Danielle Johnson (Danielle.Johnson13@va.gov)
+- Moderator: Kristen McConnell (kristen.mcconnell@adhocteam.us)
+- Research guide writing and task development (usually but not always same as moderator): Kristen McConnell
+- Participant recruiting & screening: Perigean
+- Project point of contact: Corey Parker (jparker@governmentcio.com)
+- Participant(s) for pilot test: TBD
+- Note-takers: Perigean
+- Observers:
+  - Corey Parker
+  - Patrick Bateman (Patrick.Bateman@va.gov)
+  - Dillo Raju (draju@governmentcio.com)
+  - Mark Dewey (mdewey@governmentcio.com)
+  - Stephen Barrs (Stephen.Barrs@va.gov)
+  - Julia Snyder (Julia.Snyder@va.gov)
+  - Danielle Johnson (Danielle.Johnson13@va.gov)
 
 ## Resources
 [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
