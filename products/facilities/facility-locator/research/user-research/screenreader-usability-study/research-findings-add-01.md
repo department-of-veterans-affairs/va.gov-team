@@ -398,7 +398,7 @@ When using magnification software like ZoomText, a user's viewable area is effec
 
 ## Further Research Needed
 
-In this study, we were not able to test the tasks with dictation nor magnification software. However, we learned that the VA provides Veterans with many of these dictation and magnification software (e.g. ZoomText, Fusion) technologies that the participants use. More research is needed to understand the technology breakdown so that teams can begin to test accordingly.  Likewise, more research is needed to understand how top tasks would fare using those technologies.
+In this study, we were not able to test the tasks with dictation nor magnification software. However, we learned that the VA provides Veterans with many of these dictation and magnification software (e.g. ZoomText, Fusion, hardware) technologies that the participants use. More research is needed to understand the technology breakdown so that teams can begin to test accordingly.  Likewise, more research is needed to understand how top tasks would fare using those technologies.
 
 ---
 
