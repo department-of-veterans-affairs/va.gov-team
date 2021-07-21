@@ -96,6 +96,11 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
 - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
 
+## Additional Background
+
+
+
+
 ## Screenshots
 
 - New HP Banner Alert design 
