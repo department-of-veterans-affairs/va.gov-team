@@ -8,6 +8,8 @@
 * [Exhibits](#exhibits)
 * [Recommendations](#recommendations)
 * [Further research needed](#further-research-needed)
+* [Appendix](#appendix)
+
 
 ## Key Findings
 
@@ -394,9 +396,15 @@ When using magnification software like ZoomText, a user's viewable area is effec
    
 
 
-### Further Research Needed
+## Further Research Needed
 
 In this study, we were not able to test the tasks with dictation nor magnification software. However, we learned that the VA provides Veterans with many of these dictation and magnification software (e.g. ZoomText, Fusion) technologies that the participants use. More research is needed to understand the technology breakdown so that teams can begin to test accordingly.  Likewise, more research is needed to understand how top tasks would fare using those technologies.
 
+---
+
+## Appendix
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-plan.md)\
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/conversation-guide.md)\
+[Research Findings - VA.gov Homepage Specific](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings-add-01.md)
 
 
