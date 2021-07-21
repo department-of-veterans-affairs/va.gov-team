@@ -83,6 +83,8 @@
 
 [View Dependents current screen content/layout](https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/)
 
+[View Dependents midpoint review screen layouts](https://xd.adobe.com/view/659d31d9-4d54-4400-ad7b-25bbe62ef212-30ce/)
+
 #### Add Dependents (21-686c/21-674)
 [21-686c/21-674 preliminary screen layouts](https://xd.adobe.com/view/ffffe536-2ba5-47c6-4c4b-ac1679179973-89ce/)
 
