@@ -53,7 +53,7 @@ Information about domiciliary locations is present on newer VA system pages, as 
   - How are Veterans referred?
     - Veterans can be referred to domiciliary programs via their VA primary health care providers, social case managers, VA Community Resource and Referral Centers ([CRRCs](https://www.va.gov/HOMELESS/CRRC.asp)), care coordinators associated with a VAMC system (ex: [Minneapolis care coordinator](https://www.va.gov/minneapolis-health-care/health-services/homeless-veteran-care/)), and in the case of self-referral, Veterans can call domiciliary facilities directly to begin the admissions process.
   - Who can Veterans contact directly?
-    - Veterans can contact domiciliary admissions coordinators ([interview with Dr. Rabenhorst-bell](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/eastern-co-sme-interview.md)) at domiciliaries themselves, care coordinators associated with VAMC systems, or a representative from a VA CRRC.
+    - Veterans can contact domiciliary Admissions Coordinators at domiciliaries themselves, care coordinators associated with VAMC systems, or a representative from a VA CRRC. Vetersans can contact these representatives throughout the process of admisions (ie. these not a one-time points of contact).
   - What are the admissions requirements?
     - Admissions requirements vary based on the primary purpose of the domiciliary program (ex: DRRTP or PTSD), but they generally include:
       - If third party referral is required, a primary care provider, case worker, or other healthcare representative with relevent documentation
