@@ -11,8 +11,28 @@
 
 [Pre-launch Add Dependents/686 Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/686-punch-list-0720.md)
 
-[Midpoint review View Dependents Channgelog/Punchlist]()
+[Midpoint review View Dependents Changelog/Punchlist]()
 
+### View Dependents Mockups Changelog
+
+**July 20, 2021**
+- **Mockups are reverting to old tool layou** to align with page in VA staging
+- Many of these are fit-and-finish corrections per design intent feedback that were not addressed
+- Dependency Verification modal: Move primary "Change dependents button" to the left
+- Dependency Verification modal: Remove bolding from "Relationship"
+- Change breadcrumb to match H1 ("Your VA dependents")
+- Use correct style for lead-in/subhead copy ("Below is a list of dependents...")
+- Reduce whitespace between green button and H2
+- Change font for dependents names in cards to Bitter
+- Confirm mask/no masking on SSN in cards
+- Remove bolding from relationship, SSN and DOB in the cards
+- Change styling of "No dependents..." message at bottom to gray box (mockup)
+- Change heading of first section in the right sidebar to "When should I notify VA about dependents on my benefits?"
+- Add space in first section, first paragraph: "...status. Changes..."
+- Add link to bottom of first section in right sidebar: "Find out more about dependents and your benefits" (https://www.va.gov/disability/add-remove-dependent/)
+- Change text link from "Get help filing a claim" to "Get help filing your claim or appeal"
+- Increase padding/margin between last item and the footer
+- 
 ---
 
 #### View Dependents
