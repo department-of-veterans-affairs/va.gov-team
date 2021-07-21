@@ -87,7 +87,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 ### Conversation Guide (Questions to ask Veterans)
 - Did you check-in for your appointment on your mobile phone today?
   - If the Veteran answer "no" or "I don't remember," ask the following questions:
-    - Did you see a poster [name the location of the poster at MVP site letting your know that you could use your mobile phone to check-in?
+    - Did you see a poster [name the location of the poster at MVP site letting you know that you could use your mobile phone to check-in?
       - If yes, was there a reason that you did not check-in on your mobile phone?
     - Thank you very much for your feedback.  
   - If the Veteran answers "yes," ask the following questions:
