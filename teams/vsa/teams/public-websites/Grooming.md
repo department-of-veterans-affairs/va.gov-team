@@ -34,6 +34,7 @@ None
 3. Determine / Validate definition of DONE. 
 
 - [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
+- [ ] CLP Pride Sunset --> What's the sunset Strategy? Do we need a ticket?  When do we want to work this?
 - [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
 - [ ] Accessibility Feedback for Staging Review | Language Assistance and Resources | [#25592](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25592)
 - [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style [#18869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18869)
