@@ -63,4 +63,3 @@ Information about domiciliary locations is present on newer VA system pages, as 
     - Special requirements may vary slighty from location to location but they can include:
       - Service animals may be considered on a case by case basis at cerain facilities
       - No outstanding felony warrants
-      - 
