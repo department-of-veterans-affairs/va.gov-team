@@ -1,5 +1,14 @@
 # Homepage research findings from [Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
 
+## Table of Contents
+
+
+* [Key Findings](#key-findings)
+* [Additional Findngs](#additional-findings)
+* [Exhibits](#exhibits)
+* [Recommendations](#recommendations)
+* [Further research needed](#further-research-needed)
+
 ## Key Findings
 
 ### 1. The homepage is difficult to use with screen readers
@@ -361,3 +370,33 @@ When using magnification software like ZoomText, a user's viewable area is effec
 5. “and then I gotta go way over here and accept”
 6. “and then I gotta search for it.”
 7. “here. To log into it.”
+
+
+---
+
+## Recommendations
+
+1. Establish a page hierarchy for pages and ensure that top navigation methods follow it
+   - Group links and content with logically ordered  heading levels to create an understandable hierarchy of the page that can be scanned more quickly instead of making all links on the page H2s which cause users to listen to everything and make sense of it.
+   - For example, a user who ‘skips to content’ and then navigates by headings should be able to form the same general understanding for what the page is about and what they can do there.  
+2. Create regions on every page so that users navigate quickly between areas
+   - For example, footer links should be grouped into a footer region. Currently, users can’t distinguish between footer links and those that are part of the page content so they are forced to listen to 46 extra links each time they read a new page from top to bottom to orient themselves. 
+3. Make sure ‘skip to content’ takes me to the main content on the page. Currently, it goes to the "Service member benefits" H2 and bypasses the Top 4 boxes section.
+   - Skip to content on GOV.Uk takes a user to the H1 to announce the page and then following tab takes a user into the search edit box
+   - <img src="https://user-images.githubusercontent.com/4960080/125671954-62d5e689-c0cf-42d5-a1fa-8b2b9c093582.png"  alt="[gov.uk 'skip to content' homepage example]" width="60%" height="60%"> 
+4. Currently, screen readers announce that there isn't an edit box on the homepage. Consider expanding or exposing global search as its default state, making it more prominent so that screen reader users are alerted that there is, in fact, an edit box on this page. Participants perceived this to be the quickest and most obvious way to search for anything.
+5. Consider updating the global nav menu to give mobile and desktop users the same access to the links within it. The mobile layout and how it functions today is problematic for screen reader users.
+6. Assess keywords searches and ensure that buttons and links include the keywords that users are likely to search for like ‘menu’ and 'locations'. One user missed 'Find a VA Location' because he looked for 'locations' in an alphabetized links list and didn't think to look for it under 'F'. Another user was confused by the language 'Closed button collaped' not realizing that it was referring to the global menu.  
+7. Assess the naming of component states, consider more descriptive and expected language like, ‘menu open’.
+8. Work with Facilities team to assess and incorporate facility related keywords. Veterans didn’t think to look for a facility locator and are likely to use global search when looking for a facility. 
+    - Assess keyword searches for top facility types on VA.gov and incorporate those terms into global search best bets
+    - Experiment with patterns that exist within popular search tools like ‘hospitals near me’, ‘urgent care near me’ that could appear in type ahead global searches to connect users from the homepage to Facility Locator.
+   
+
+
+### Further Research Needed
+
+In this study, we were not able to test the tasks with dictation nor magnification software. However, we learned that the VA provides Veterans with many of these dictation and magnification software (e.g. ZoomText, Fusion) technologies that the participants use. More research is needed to understand the technology breakdown so that teams can begin to test accordingly.  Likewise, more research is needed to understand how top tasks would fare using those technologies.
+
+
+
