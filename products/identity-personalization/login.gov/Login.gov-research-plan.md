@@ -43,7 +43,7 @@ We will be attempting to answer some (not all) of the below research questions, 
 Please list your participant criteria in two categories-
 1. **Primary criteria / Must have**
 - At least three participants from DSLogon, MHV, ID.Me
-- At least one participant that uses primarily mobile to access VA websites
+- At least one participant that uses primarily mobile to access VA.gov via mobile browser
 - At least half of participants who have logged in and:
   - Sent a secure message OR
   - Tracked claim status OR
