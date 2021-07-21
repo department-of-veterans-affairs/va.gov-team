@@ -41,7 +41,7 @@ Information about domiciliary locations is present on newer VA system pages, as 
   #### The facilities
   - What are they?
       - Domiciliaries provide short-term to long-term residential services to Veterans experiencing a range of issues related to mental and medical heath care, homelessness, vocational, and social skills. Different domiciliary programs may focus on specific mental and medical health needs, but every facilitiy has some level of care provided on site, and is associated with a main VAMC location.
-      - Domiciliaries differ from community living centers or other assisted living centers in that they do not provide "bedside" care: residents are expected to be able to meet their activities of daily living (ADLs) independently, including physical mobility and taking medications (this does not exlcude wheelchairs or Veterans with disabilities who are still able to be independent).
+      - Domiciliaries differ from community living centers or other assisted living centers in that they do not provide "bedside" care: residents are expected to be able to meet their activities of daily living (ADLs) independently, including physical mobility and taking medications (this does not exlcude wheelchairs or Veterans with disabilities who are still able to be independent). Domiciliaries rooms can have multiple beds, ie., Veterans may have roommates in the same program.
   - Where are they located?
     - Domiciliaries can be free-standing facilities located offsite from a VAMC campus ([Valor Point VA Domiciliary](https://www.denver.va.gov/locations/Valor_Point_VA_Domiciliary.asp)), seperate free-standing facilities located on a VAMC campus ([Butler DRRTP](https://www.butler.va.gov/services/Domiciliary_Residential_Rehabilitation_Treatment.asp)), or distinct floors/wings of a building on a VAMC campus ([Coatesville VA Domiciliary](https://www.coatesville.va.gov/images/Facility_Maps/Coatesville_VAMC_Map_3-10-09.pdf)).
   - How do people refer to them?
@@ -59,4 +59,5 @@ Information about domiciliary locations is present on newer VA system pages, as 
       - If third party referral is required, a primary care provider, case worker, or other healthcare representative with relevent documentation
       - Relevant medical or financial documents that indicate a need for domiciliary services
       - Being able to independently perform activites of daily living (ADLs), including physical mobility (wheelchairs are also independent)
-      - No outstanding felony warrants
+  - Any special requirements?
+    - Special elegibility requirements may vary slighty from location to location
