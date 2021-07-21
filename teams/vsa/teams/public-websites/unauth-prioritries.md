@@ -34,7 +34,7 @@
         - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
      - New Mobile header (Research initiative)
         - [ ] Analytics baseline request -- e.g.. what is overall % usage of search on Mobile; what is % usage of search in header on Mobile. 
-        - [ ] Product Outline 
+        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
         - [ ] Research Plan - in production sample size testing
      - DISCOVERY PROJECT: Home Page & Benefit Hubs to unify with Unauth experience
         - [Product Outline WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Benefit%20Hub%202.0%20Product%20Outline.md)
