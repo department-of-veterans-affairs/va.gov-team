@@ -1,4 +1,4 @@
-## What are Community Living Centers (ClCs)?
+## What are Community Living Centers (CLCs)?
 
 [Community Living Center general information](https://www.va.gov/GERIATRICS/pages/VA_Community_Living_Centers.asp)
 
