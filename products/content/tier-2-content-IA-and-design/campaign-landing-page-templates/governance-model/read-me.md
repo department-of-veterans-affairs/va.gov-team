@@ -26,9 +26,9 @@
       - To make the Public Websites and CMS Product Support teams aware a new CLP is planned in case limited support is needed (user access, site cloning, vanity URL set-up) **Note:** There will be no VA.gov Platform or Product review before publication of the CLP
     - Build or oversee the build of the CLP
     - Manage any page updates
-    - Create and implement share links (UTMs)
+    - Create and implement share links (via UTM Worksheet on Sharepoint)
     - Monitor CLP performance (via Google Analytics)
-    - Request “take down” of page when campaign ends, specifying the redirect strategy and/or URL
+    - Request “sunset” or "archiving" of page when campaign ends, specifying the redirect strategy and URL.
 
 - VACO Web Comms Teams - CLP Training requirements: 
   - How to use CMS
