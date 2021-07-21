@@ -109,6 +109,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
   - What would you change about the new mobile check-in?
 - How has mobile check-in impacted the Veteran experience?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process be utilized at another VA clinic?
+- If a site visit is able to be scheduled, observe the staff member's check-in process.
 
 ## Method 4: Internal VA, GCIO, and Ad Hoc Veteran Employees Review
 ### Methodology and Recruitment
