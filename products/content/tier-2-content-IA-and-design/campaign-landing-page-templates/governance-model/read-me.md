@@ -37,11 +37,13 @@
   - Accessibility 
   - Design/UX - Adherence to VA.gov design principles
   - Information Architecture, with focus on URL (including H1 and Vanity) setting
-  - Will be provided with two "artifacts"
+  - Will be provided with three "artifacts"
     - Campaign Landing Page Info Form - This is the info CLP stakeholders will use to (a) compile upfront about the campaign/page and; (b) is helpful in determing if the initiative is a good fit for CLP.
     - Campaign Landing Page Content Build Template - This Word doc can be used to pre-create a CLP before you use the CMS to build the page.
+    - [UTM Worksheet on Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/VAgovCampaignTracker/_layouts/15/Doc.aspx?sourcedoc=%7BD01C9E16-B6D7-4240-9333-037D41A185B6%7D&file=va.gov-utm-campaign-tracker-UPDATED.xlsx&action=default&mobileredirect=true)
 
-### VACO Digital Comms Stakeholders who signed-off on Governance Model
+
+### VACO Digital Comms Stakeholders who approved the Governance Model
 
 - [X] OPIA & Web Governance Board: Josh Tuscher
 - [X] VEO: Tim Hudek 
@@ -49,14 +51,10 @@
 - [X] VBA Digital Strategy Team (Benefits): John P. DiMartino (Chief), Tanekwa Bournes (Program Analyst), Adrianne Hooten
 - [X] NCA Web Services: Lisa Hollenback (NCAWebServices@va.gov)
 
-### Relevant Documents
+### Relevant Documents & Links
+
 
 How to Clone a CLP in CMS
 https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page
 
-CLP Governance and Product Guide (Draft - 06-15-2021)-
-[VA.gov Campaign Landing Page_Governance_Product_Guide.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6663537/VA.gov.Campaign.Landing.Page_Governance_Product_Guide.pptx)
 
-
-CMS Training Guide -
-https://docs.google.com/presentation/d/1YfNpegO3TS13O7Sd0lnmy-mWf7ywmHPTxxtItchu9AE/edit#slide=id.gc3bbf21d57_0_90
