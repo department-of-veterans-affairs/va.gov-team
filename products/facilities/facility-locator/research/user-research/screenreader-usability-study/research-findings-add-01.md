@@ -4,7 +4,7 @@
 
 
 * [Key Findings](#key-findings)
-* [Additional Findngs](#additional-findings)
+* [Additional Findings](#additional-findings)
 * [Exhibits](#exhibits)
 * [Recommendations](#recommendations)
 * [Further research needed](#further-research-needed)
