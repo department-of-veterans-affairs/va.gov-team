@@ -3,8 +3,8 @@
 
 **IA Governance**
 
-- The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but **will not appear in the VA.gov global site navigation (header, footer, side) not will links be allowed from the Benefit Hubs.
-- The root URL is set dynamically via the H1 (with hyphens); vanity URLs will only be allowed/supported after VA.gov IA review.
+- The CLP will sit within a new "initiatives" sub-directory of VA.gov -- https://va.gov/initiatives/h1-of-clp -- but **will not appear in the VA.gov global site navigation (header, footer, side) nor will links be allowed from the Benefit Hubs.**
+- The root URL is set dynamically via the H1 (with hyphens) and will be reviewed by the VA product/IA team; vanity URLs will only be allowed/supported after VA.gov IA review.
 - Unless a seasonal campaign, CLPs will be temporary -- they will have a start and end date, and they will be removed/deleted from the VA.gov site with a redirect specified by the VA business stakeholder to support the "expiration" of the page.
   - Seasonal CLPs (examples include Flu Vaccination, Pride Month) can be archived via CMS (unpublished) and revived on an annual basis.  Both the root and vanity URL need to be re-directed (Question: Is 404 acceptable?)
 
