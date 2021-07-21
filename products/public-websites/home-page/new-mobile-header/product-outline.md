@@ -1,6 +1,9 @@
 ## New VA.gov Mobile Header
 
-Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element 
+Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element that was **not optimized for Mobile view.**
+
+<img width="975" alt="Screen Shot 2021-07-21 at 3 14 23 PM" src="https://user-images.githubusercontent.com/63107147/126554963-abca90e4-14b0-4e26-be02-e26c4b139b37.png">
+
 
 
 
