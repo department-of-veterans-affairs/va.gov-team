@@ -98,8 +98,9 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 ## Additional Background
 
-
-
+- Existing OOB deployment process is also blocked by broken links
+- During business hours changes to `vagov-content` would be picked up by automated hourly deploy
+- CMS provides manual "[Release Content](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/cms-content-release.md#cms-content-release)" button that is capable of deploying content in ~15 minutes
 
 ## Screenshots
 
