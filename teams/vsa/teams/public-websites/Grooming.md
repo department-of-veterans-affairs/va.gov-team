@@ -34,6 +34,7 @@ None
 2. Assign estimates and confirm team members are on the same page.
 3. Determine / Validate definition of DONE. 
 
+- [ ] Banner Alerts Overview @John
 - [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
 - [ ] CLP Pride Sunset --> What's the sunset Strategy? Do we need a ticket?  When do we want to work this?
 - [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
@@ -47,8 +48,7 @@ None
 - [ ] 508-defect-2 [FOCUS]: Back to top button's focus halo MUST be visible on Safari [#25001](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25001)
 - [ ] Back to top component is not displayed in IE-11 [#25103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25103)
 - [ ] 508-defect-3 [SCREENREADER]: On this page list should be announced as a list on VoiceOver [#25005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25005) 
-- [ ] Banner Alerts Overview @John
-- [ ] @Kelson - ticket to refactor metatag templates to a single easy-to-read template.
+- [ ] Refactor metatag templates to a single easy-to-read template.[#27678](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27678)
 
 ### Icebox Items (Relevancy - Delete)
 - [ ] [Blocked] Allow dismissible homepage banners in PROD [#7098](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7098)
