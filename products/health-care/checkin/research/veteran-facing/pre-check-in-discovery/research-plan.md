@@ -95,7 +95,7 @@ Note:
 
 ## Resources
 [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
-Convo Guide Discussion guide
+[Convo Guide Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-discovery/conversation-guide.md)
 Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
 Read-Out/Results
