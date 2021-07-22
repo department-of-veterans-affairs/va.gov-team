@@ -15,7 +15,7 @@ assignees: ''
 5. When the issue is closed you will be notified and can continue with on-boarding setup
 
 # Description
-- Please provide your Contracting Officer's Representative (COR) name.
+- Please provide your Government Team Lead (GTL) name.
    > Janet Doe
 - Please provide your name.
    > Jane Doe
