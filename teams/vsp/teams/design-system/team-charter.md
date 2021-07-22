@@ -51,7 +51,7 @@ DST Q4 Roadmap https://vfs.atlassian.net/l/c/rmLRTqQq
 ### Team Members:
 - DSVA Product Lead: Kevin Hoffman
 - Team Product Manager: Carol Wong
-- UX Designer: Crystabel Reiter
+- UX Designer: TBD
 - Engineering Lead: Christopher Valarida
 - Engineer: Brooks Johnson 
 
@@ -65,14 +65,14 @@ DST Q4 Roadmap https://vfs.atlassian.net/l/c/rmLRTqQq
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ 11:30AM ET
+- Daily @ 11:45AM ET
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint at 2pm ET
+- 1st Wednesday of every sprint following retrospective
 - 1 hour
 - _any other notes you have_
 
@@ -86,7 +86,7 @@ Review accomplishments from prior sprint, what went well, what can be improvemed
 #### Grooming
 Assess and update workload for remainder of sprint
 
-- 2nd Thursday of every sprint at 12PM ET 
+- 2nd Thursday of every sprint at 11:30AM ET 
 - 1 hour
 - _any other notes you have_
 
