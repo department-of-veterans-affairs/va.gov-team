@@ -24,6 +24,19 @@
 
 </details>
 
+## July 22, 2021 - Stage: Define / Design
+Action items:
+1. Summarize any items from last meeting - Updates from @Soni/@Josh
+2. Design Status Update: Flow / Mock Ups (@Cassandra) 
+
+Today's Goals: 
+1. Determine what is needed to Finalize User Flow and Intro Page/Form Mocks 
+2. Determine what Content Roundtable / Breakout sessions are needed Forward?
+3. Reminder: Design Intent Review (Scheduled for 7/26/21) 
+
+
+
+
 ## July 15, 2021 - Stage: Define / Design
 Action items:
 1. Summarize any items from last meeting - Updates from Soni/Josh
