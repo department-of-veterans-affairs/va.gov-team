@@ -23,8 +23,9 @@
 
 ## July 23
 
-VAMC launches
- - Erie? Butler?
+* VAMC launches
+  * Erie? Butler?
+* CMS Helpdesk status 
 
 ## July 16
   * Health services migration of remaining 6 VISNs. Proposed timeline: 
