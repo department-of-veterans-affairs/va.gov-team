@@ -32,7 +32,8 @@ The card sort will help us prioritize tasks that Veterans truly find valuable fo
 ### Primary criteria / Must have:
 - 15 participants (for a minimum of 8 completed sessions)
 - Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last two years (disqualify those that don't)
-- Participant must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
+- Participants must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
+- Participants must be willing to join the research session via their laptop/desktop computers (no mobile phones due to prototype).
 
 - Please screen participants based on these questions:
   - Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
@@ -45,10 +46,10 @@ The card sort will help us prioritize tasks that Veterans truly find valuable fo
     - None (Qualify)
 
 Please confirm participants have Zoom downloaded prior to the session and they know how to screen share.
-Note:
-- For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
-- For this session, we are unable to include people with significant vision loss.
-- For this session, we are unable to include people who use magnification tools.
+Due to the use of a UXPin prototype, for this session:
+- we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
+- we are unable to include people with significant vision loss.
+- we are unable to include people who use magnification tools.
 
 ### Secondary criteria / Would like to have
 - At least 1 woman
