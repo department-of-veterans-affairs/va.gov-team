@@ -67,7 +67,7 @@ At this point, I would like you to share your screen, so we can see the email to
   * What are your thoughts about what the email is asking you to do?
   * Is there anything missing?
   * Here we are showing an email, but how would you like to be notified that you have these pre-check-in tasks to complete?
-    * Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, text, etc.
+    * Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, text, etc.
 
 Seeing this email, what would you do next? 
 
@@ -83,8 +83,9 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 * Is there anything missing?
 
 ## Post-Task Interview - 5 minutes
-* Now that you've seen the whole experience, what are your impressions of the experience?
+* Now that you've seen the whole experience, what are your impressions?
 * Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
+* Would you make any changes to your card sort now that you saw some wireframes of the experience?
 * I've used the term pre-check-in a few times, but what would you call this?
 * If you could change one thing about the experience, what would it be? 
 * Do you have any other thoughts on what we talked about today?
@@ -92,8 +93,8 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 
 ## Thank-You and Closing - 2 minutes
 
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us, so thank you for your time.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us.
 
-Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
+I have one final question for you. Do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
 Great, well thank you so much again, and enjoy the rest of your day!
