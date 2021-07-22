@@ -93,14 +93,14 @@ July 30, 2021 | 2 - 3 pm, 4 - 8 pm
 Pilot Sessions | Time (EST)
 ---------------|----------
 July 22, 2021  |  5:30 pm (angela.fowler@adhocteam.us)
-July 23, 2021  |  TBD (non-screen reader user)
+July 23, 2021  |  4:30 pm (robin.garrison@adhocteam.us)
 
 ## Team Roles	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Research guide writing and task development:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), TBD (non-screen reader user)
+- Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), Robin Garrison (robin.garrison@adhocteam.us)
 - Notetakers:	Perigean. If can't do after hours, Cassandra Allen can cover 5-8 pm EST (cassandra.allen@gcio.com)
 - Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (marci.mcguire@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Zach Morel (zach.morel@gcio.com)
  
