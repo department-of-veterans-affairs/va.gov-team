@@ -93,7 +93,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
   - What do you dislike about it?
   - Did you have to change anything about your workflow to accommodate this new process?
     - _Probe more into changes to tool usage and job duties as needed._
-    - _For MSA Supervisors_ How has this mobile check-in process affected your supervisory duties and how you balance your team?
+    - _For MSA Supervisors:_ How has this mobile check-in process affected your supervisory duties and how you balance your team?
     - How does mobile check in affect communication between MSAs and providers?
     - How do you know if a mobile phone check-in occurred and clinical staff have already been notified?
   - If a Veteran checks in via mobile, but is on the ICB list, how do you manage that?
