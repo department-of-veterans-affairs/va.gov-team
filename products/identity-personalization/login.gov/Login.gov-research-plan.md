@@ -64,7 +64,6 @@ What is your recruitment strategy?
 
 ## When? 	
 1. Timeline: What dates do you plan to do research? 
-  - July 27th: 11:00am - 3:30pm, 5:00-8pm EST
   - July 28th: 11:00am - 2:30pm, 5:00-8pm EST
   - July 29th: 11:00am - 3:30pm, 5:00-8pm EST
 2. Prepare: When will the thing you are testing be ready? 
