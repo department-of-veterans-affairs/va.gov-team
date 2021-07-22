@@ -52,7 +52,7 @@ Now, we'll complete an activity where you will prioritize all the information th
 
 [Card sort](https://adhoc.optimalworkshop.com/optimalsort/en03872b)
 
-- Are their any other items or information that you would like to review and update prior to your appointment?
+- Are there any other items or information that you would like to review and update prior to your appointment?
 
 ## Usability - 20 minutes
 
