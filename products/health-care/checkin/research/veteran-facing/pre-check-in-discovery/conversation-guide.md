@@ -82,6 +82,7 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 * Can you explain to me what we're looking at?
 * Is there anything missing?
 
+
 ## Post-Task Interview - 5 minutes
 * Now that you've seen the whole experience, what are your impressions?
 * Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
