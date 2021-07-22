@@ -58,7 +58,7 @@ Now, we'll complete an activity where you will prioritize all the information th
 
 Alright, I want you to pretend that you have an upcoming VA medical appointment and you receive the following email.
 
-[UXPin prototype - will update to UXPin once it is ready. Current link is Sketch working file.](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/Gm8dgnv)
+[UXPin prototype - will update to UXPin once it is ready. The current link is the Sketch working file.](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/Gm8dgnv)
 
 At this point, I would like you to share your screen, so we can see the email too.
 
