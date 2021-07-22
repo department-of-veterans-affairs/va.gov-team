@@ -46,6 +46,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
  * What questions have staff members asked you during check-in?
  * If you utilized a kiosk, what types of additional questions were you asked or what types of information did you review?
  * Did you ever complete any paperwork prior to your VA medical appointments?
+  * _If yes:_ Can you tell me more about the paperwork and what information it was capturing?
 
 ## Prototype - 20 minutes
 
