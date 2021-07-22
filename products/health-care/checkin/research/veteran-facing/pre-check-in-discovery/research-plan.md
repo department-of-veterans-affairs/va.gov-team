@@ -12,7 +12,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - answering questionnaires
 
 ### Research questions:
-- Do Veterans find value in being able to complete these tasks a few days prior to their appointment?
+- Do Veterans find value in being able to complete any tasks a few days prior to their appointment?
 - What specific tasks do Veterans find value in reviewing and updating?
 - How do Veterans want to be notified that they have these tasks to complete?
 
