@@ -19,3 +19,20 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
 </details>
 
 ### CLC facilities and services
+
+#### The facilities
+
+- What are they?
+- Where are they located?
+- How to people refer to them?
+
+#### The services
+
+- Healthcare provided
+
+### The referral process
+
+- How are Veterans referred?
+- Who can Veterans contact directly?
+- What are the admissions requirements?
+- Any special elegibility requirements?
