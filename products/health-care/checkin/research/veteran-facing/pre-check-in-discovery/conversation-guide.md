@@ -85,7 +85,7 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 ## Post-Task Interview - 5 minutes
 * Now that you've seen the whole experience, what are your impressions?
 * Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
-* Would you make any changes to your card sort now that you saw some wireframes of the experience?
+* Would you make any changes to your card sort answers now that you saw some wireframes of the experience?
 * I've used the term pre-check-in a few times, but what would you call this?
 * If you could change one thing about the experience, what would it be? 
 * Do you have any other thoughts on what we talked about today?
