@@ -13,7 +13,8 @@
 - **If screen reader user, slack Zach re version switching now and during test**
   - For 1st user: First want to test message with every result (to see if irritating), then switch to only at top.
   - For 2nd user: First test only at top, then switch to every result. 
-
+- **If screen reader user, have Josh or Angela observing** and for tech support
+- 
 **5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
 - *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
@@ -230,7 +231,7 @@ To continue later, saved form?
 - What would you like to *change* about what you've seen today?
 - Is there anything else that we haven't talked about that you think I should know? 
 
-- *RECORD assessment of technical expertise: expert / in between / not expert
+- *RECORD assessment of technical expertise: expert / in between / not expert*
 
 
 ## Thank You and Closing - 1 minute
