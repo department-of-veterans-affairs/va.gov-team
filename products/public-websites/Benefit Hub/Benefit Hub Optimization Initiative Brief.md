@@ -88,7 +88,6 @@ Focus Area: Benefit Hubs
 
 ### Solution Scope
 **In Scope**
-- Home Page (Top 4 funnel)
 - Mega Menu 
 - left hand nav slim down - Benefit hub funnels 
 - Content shift - Benefit hubs to R&S
