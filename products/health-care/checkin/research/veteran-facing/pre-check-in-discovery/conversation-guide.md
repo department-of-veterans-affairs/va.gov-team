@@ -68,6 +68,9 @@ Things to watch for:
 * Were there any usability issues/points of confusion?
 * General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
+**Following pages in the prototype**
+- Need to update the prototype, then come back and update with questions.
+
 **After reviewing full prototype**
 - Now that you've seen an example of what this pre-check-in experience could look like, what are your impressions?
 - Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
