@@ -15,22 +15,20 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - Do Veterans find value in being able to complete these tasks a few days prior to their appointment?
 - What tasks do Veterans find value in reviewing and updating?
 - How do Veterans want to be notified that they have these tasks to complete?
-- Are Veterans able to complete all of the pre-check-in tasks?
 
 ### Hypotheses:
 - Veterans will verbalize how completing these tasks before an appointment is helpful to them, such as it will shortened their day of check-in experience or allow them to review the information on their own time and not rush.
 - Veterans will have clear opinions on what tasks bring value to the pre-check-in experience.
 - Based upon findings from previous research, Veterans will want to be notified via text or email.
-- Veterans will be able to successfully review and update all of the pre-check-in tasks. 
 
 ## Method
-Remote, moderated sessions with interview questions, an Optimal Sort card sort, and review of a UXPin prototype conducted on Zoom.
+Remote, moderated sessions with interview questions, review of a UXPin prototype, and an Optimal Sort card sort conducted on Zoom.
 
 ## Participants and Recruitment
 ### Primary criteria / Must have:
 - 15 participants (for a minimum of 8 completed sessions)
 - Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last two years (disqualify those that don't)
-- Participant must go to VA facilities and not community care providers for most of their appointments
+- Participant must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
 
 - Please screen participants based on these questions:
   - Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
@@ -38,7 +36,7 @@ Remote, moderated sessions with interview questions, an Optimal Sort card sort, 
     - No (Disqualify)
   - How many of your medical appointments are with community care providers and not providers at VA facilities?
     - All (Disqualify)
-    - Most (Disqualify)
+    - Most (Qualify)
     - Some (Qualify)
     - None (Qualify)
 
