@@ -41,9 +41,9 @@ Now, I’m going to ask you to think about your very last medical appointment th
   * Overall, how would you describe that experience? Was it a good or bad experience? Easy or hard?
     * What did you like about it?
     * What did you not like about it?
-* You checked in via [the method they mentioned in the previous question], but is that the method that you use most often?
+* You checked in via [the method they mentioned in the previous question], but what method do you use most often?
   * _Clarify options available only if necessary._ This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments.
- * What questions have staff members ask you during check-in?
+ * What questions have staff members asked you during check-in?
  * If you utilized a kiosk, what types of additional questions were you asked or what types of information did you review?
  * Did you ever complete any paperwork prior to your VA medical appointments?
 
@@ -67,6 +67,7 @@ Things to watch for:
 * Were there any usability issues/points of confusion?
 * General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
+**After reviewing full prototype**
 - Now that you've seen an example of what this pre-check-in experience could look like, what are your impressions?
 - Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
 - If you could change one thing about the experience, what would it be? 
@@ -81,7 +82,7 @@ _Have them place items in the interested versus not interested groups. Then, hav
 - Are there any other items or information that you would like to review and update prior to your appointment?
 
 ## Post-Task Interview - 3 minutes
-* I've used the term pre-check-in a few times, but what would you call this?
+* Now that you've used this process, but what would you call this?
 * Do you have any other thoughts on what we talked about today?
 * Any questions for me?
 
