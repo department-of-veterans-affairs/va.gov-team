@@ -10,4 +10,12 @@ Community Living Centers deliver nursing home level of care, and they can be a t
 
 [Mural board](https://app.mural.co/t/vaadhoc1321/m/vaadhoc1321/1626443115766/c7cd6759fcfac13269e363dee26fe7d188537eab?sender=u8a90be72499ecb4354e14700)
 
+Community Living Centers fall onto the VA continuum of mental health care, as one of the main forms of inpatient care available in the VA system, and are intended for patients requiring full-time access to assisted living services and bedside care.
+
+<details>
+  <summary>VA Continuum of health slide</summary>
+  
+![VA Continuum of health slide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/images/VA%20continuum%20of%20health%20-%20Dr.%20Rabenhorst-bell.png?raw=true)
+</details>
+
 ### CLC facilities and services
