@@ -64,6 +64,12 @@ Before we start, I want to go over a few things:
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
+## Instructions for finding Zoom chat (if needed)
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
+  - Computer: Just to the left of center is a conversation bubble that says Chat. 
+  - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+ 
 ## Warm-up Questions - 5 minutes
 Let’s start with a few questions... 
 
@@ -94,10 +100,7 @@ I would like you to share your screen with me so I can watch you use a specific 
 ## Veteran Tasks
 Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (https://staging.va.gov/find-forms/).
 
-- *(Instructions for finding Chat, if needed)* In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
-  - Computer: Just to the left of center is a conversation bubble that says Chat. 
-  - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+
 
 - What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
