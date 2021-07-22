@@ -38,7 +38,7 @@ Before we start, I want to go over a few things:
 
 - **This session should take about 45 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
-- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **If for any reason and at any time you want to stop the session, please let me know.** You will not lose your stipend or be penalized in any way if we need to stop.
 
 - I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
   - I could dictate it to you, put it in the Zoom chat, email it to you, *(only if on a phone)* text it to you.
