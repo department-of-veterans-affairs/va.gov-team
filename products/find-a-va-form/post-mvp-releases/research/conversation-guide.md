@@ -18,13 +18,13 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
-*Open a standalone browser window to va.gov/find-forms*
+- *Open a standalone browser window to va.gov/find-forms*
 
-*Do Not Disturb ON so no notifications*
+- *Do Not Disturb ON so no notifications*
 
-*Make sure everyone is muted except me and the participant*
+- *Make sure everyone is muted except me and the participant*
 
-*ADMIT any observers from the waiting room*
+- *ADMIT any observers from the waiting room*
 
 *When the participant is ready, turn on your camera and begin session with the intro*
 
