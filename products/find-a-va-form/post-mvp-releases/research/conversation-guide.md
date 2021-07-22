@@ -14,7 +14,7 @@
   - For 1st user: First want to test message with every result (to see if irritating), then switch to only at top.
   - For 2nd user: First test only at top, then switch to every result. 
 - **If screen reader user, have Josh or Angela observing** and for tech support
-- 
+
 **5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
 - *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
