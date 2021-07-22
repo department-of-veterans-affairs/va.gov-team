@@ -64,14 +64,15 @@ What is your recruitment strategy?
 
 ## When? 	
 1. Timeline: What dates do you plan to do research? 
-  - July 28th: 11:00am - 2:30pm, 5:00-8pm EST
-  - July 29th: 11:00am - 3:30pm, 5:00-8pm EST
+  - August 2nd: 11:00am - 2:30pm, 5:00-8pm EST
+  - August 3rd: 11:00am - 3:30pm, 5:00-8pm EST
+  - August 4th: 11:00am - 3:30pm, 5:00-8pm EST
 2. Prepare: When will the thing you are testing be ready? 
-  - July 23rd- Interveiwing participants on both live (VA.gov) site and mockups
+  - July 29th- Interveiwing participants on both live (VA.gov) site and mockups
 3. Length of Sessions: 
   - 60 mins, with 15 mins in between each session 
 4. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
-  - July 26th, 3:30pm EST
+  - July 30th, 3:30pm EST
     -  Naomi Marcussen
     - Christine Dillman
 ## Team Roles	
