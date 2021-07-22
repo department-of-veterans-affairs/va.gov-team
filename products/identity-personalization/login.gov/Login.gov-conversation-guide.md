@@ -18,7 +18,7 @@ Before we look at the website, let’s start with a few warm-up questions.
   - Which browser do you use to access the internet?
   - Which account do you use to sign in to the VA.gov site?
   	- How did you determine which account you’d be most comfortable using?
-  	- Have you ever signed in to any other government sites (for example Social Security)?
+  	- Have you ever signed in to any other government sites (for example Social Security, USAJobs, IRS, or Federal Student Loans)?
   		- How is that experience different or similar to VA.gov?
 ## Sign-in process - 5 minutes:
   - Could you describe to me how you would sign in to the VA.gov site?
