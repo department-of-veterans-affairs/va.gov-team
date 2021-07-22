@@ -16,7 +16,7 @@ When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about checking in for medical appointment at the VA, particularly tasks that you could complete at home before your appointment.
+Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about something new to the VA, which is check-in tasks that you could complete at home before your VA medical appointment.
 
 Before we start, a few things I want to mention:
 
