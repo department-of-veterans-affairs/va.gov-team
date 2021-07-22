@@ -76,7 +76,7 @@ Now, we'll complete an activity where you will prioritize all the information yo
 
 [Card sort](https://adhoc.optimalworkshop.com/optimalsort/en03872b)
 
-_Have them place items in the interested versus not interested groups. Then, have them rank the items within the interested group._
+_Have them place items in the interested versus not interested groups. Then, have them rank the items within the interested group. Make sure they click finish._
 
 - Are there any other items or information that you would like to review and update prior to your appointment?
 
