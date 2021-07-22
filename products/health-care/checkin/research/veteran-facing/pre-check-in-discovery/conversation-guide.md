@@ -71,6 +71,8 @@ At this point, I would like you to share your screen, so we can see the email to
 
 Seeing this email, what would you do next? 
 
+Go ahead and do that.
+
 Things to watch for:
 * Were they able to successfully complete the task?
 * Were there any points of confusion?
