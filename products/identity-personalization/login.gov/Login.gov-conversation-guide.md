@@ -16,8 +16,12 @@ Before we look at the website, let’s start with a few warm-up questions.
   - What branch did you serve?
   - What type of devices do you use to access services?
   - Which browser do you use to access the internet?
+  - Which account do you use to sign in to the VA.gov site?
+  	- How did you determine which account you’d be most comfortable using?
+  	- Have you ever signed in to any other government sites (for example Social Security)?
+  		- How is that experience different or similar to VA.gov?
 ## Sign-in process - 5 minutes:
-  - Could you describe to me how you would sign in to the site?
+  - Could you describe to me how you would sign in to the VA.gov site?
   - Would you be comfortable with screen-sharing your sign-in process with me and talking me through how you sign-in?
  **Things to watch for:**
   - Do they use search or browse?
@@ -26,17 +30,17 @@ Before we look at the website, let’s start with a few warm-up questions.
   - How do they interact with navigation if at all?
   - How do they switch between content pages using the navigation?
 ## Additional questions 10-15 minutes:
-  - How often do you access VA websites?
+  - How often do you access VA.gov?
   - Which accounts (if you have multiple) do you use most often?
   	- Follow-on: Do you associate specific credentials with specific areas of VA? or Do use different credentials for different parts of VA? Why?
-  - What devices do you typically use when visiting the VA websites?
-  - How would you describe your past and current experience with VA websites?
+  - What devices do you typically use when visiting the VA.gov?
+  - How would you describe your past and current experience with VA.gov?
   - Do you have others that sign in for you (Caregiver? Family member?) Tell me about some instances when you would have someone sign in for you.
   - Are there instances where you’ll use someone else’s login? Tell me about that process.
-  - What are the most important tasks you or other people need to perform when using VA websites? 
+  - What are the most important tasks you or other people need to perform when using VA.gov? 
   - How do you normally get to [task that was referenced above]?
   - Do you or did you in the past use other websites and resources for the same purpose?
-  - How much time do you typically spend on VA websites/how often do you visit?
+  - How much time do you typically spend on VA.gov /how often do you visit?
   - What information do you typically need before you sign into the site?
   - Could you describe to me how you would sign into the site?
   - If you had a question regarding sign in do you know who to contact?
