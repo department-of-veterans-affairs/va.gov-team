@@ -91,14 +91,17 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - How has mobile check-in impacted your work?
   - What do you like about it? 
   - What do you dislike about it?
-  - What would you change about the new mobile check-in?
   - Did you have to change anything about your workflow to accommodate this new process?
-  - How do you know if a mobile phone check-in occurred and clinical staff have already been notified?
+    - _Probe more into changes to tool usage and job duties as needed._
+    - _For MSA Supervisors_ How has this mobile check-in process affected your supervisory duties and how you balance your team?
+    - How does mobile check in affect communication between MSAs and providers?
+    - How do you know if a mobile phone check-in occurred and clinical staff have already been notified?
   - If a Veteran checks in via mobile, but is on the ICB list, how do you manage that?
   - Has the rate of Veterans checking in before they've arrived at the clinic changed with mobile check-in?
 - How has mobile check-in impacted the Veteran experience?
+  - Has it affected complaints about long waits/Veterans in the waiting room who have not actually been checked in?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process be utilized at another VA clinic?
-- If a site visit is able to be scheduled, observe the staff member's check-in process. 
+- What would you change about the new mobile check-in?
 
 ## Method 3: MVP site staff help us gather feedback from Veterans
 ### Methodology
