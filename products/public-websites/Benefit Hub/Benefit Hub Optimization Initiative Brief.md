@@ -11,7 +11,7 @@ An oppurtunity now exists to revisit the benefit hubs and flatten much needed IA
 Optimize user flows and conversion paths on benefit hub pages to:
   
 1. Help increase account creation; online application submissions; sign in’s to manage benefits or top tasks
-2. Optimize templatize benefit hubs for optimized conversion paths to tools and apps (Does the original Benefit Hub templates optimize pathways for veterans to find, complete and track benefits?).  
+2. Optimize templatize benefit hubs for best-path for conversion tools and apps (Does the original Benefit Hub templates optimize pathways for veterans to find, complete and track benefits?).  
 
 Optimize user navigation funnels from benefit hub to Tier 1 spoke/benefit action:
 
