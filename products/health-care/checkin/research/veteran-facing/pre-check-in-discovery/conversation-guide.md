@@ -68,10 +68,8 @@ At this point, I would like you to share your screen, so we can see the email to
   * Is there anything missing?
   * Here we are showing an email, but how would you like to be notified that you have these pre-check-in tasks to complete?
     * Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, text, etc.
-
-Seeing this email, what would you do next? 
-
-Go ahead and do that.
+  * Seeing this email, what would you do next? 
+  * Go ahead and do that.
 
 Things to watch for:
 * Were they able to successfully complete the task?
