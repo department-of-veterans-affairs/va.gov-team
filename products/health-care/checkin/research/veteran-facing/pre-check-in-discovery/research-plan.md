@@ -24,7 +24,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 ## Method
 Remote, moderated sessions with interview questions, review of a UXPin prototype, and an Optimal Sort card sort conducted on Zoom.
 
-The prototype will help give context to the Veteran as to what we mean by a pre-check-in experience. It is to be utilized more for feedback on the validity of this concept then usability testing. However, we should receive some usability feedback in the process.
+The prototype will help give context to the Veteran as to what we mean by a pre-check-in experience. It is to be utilized more for feedback on the validity of this concept than usability testing. However, we should receive some usability feedback in the process.
 
 The card sort will help us prioritize tasks that Veterans truly find valuable for implementation.
 
