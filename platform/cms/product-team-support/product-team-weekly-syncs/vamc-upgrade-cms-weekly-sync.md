@@ -25,7 +25,8 @@
 
 * VAMC launches
   * Erie? Butler?
-* CMS Helpdesk status 
+* CMS Helpdesk status
+* Menu governance change requests workflow
 
 ## July 16
   * Health services migration of remaining 6 VISNs. Proposed timeline: 
