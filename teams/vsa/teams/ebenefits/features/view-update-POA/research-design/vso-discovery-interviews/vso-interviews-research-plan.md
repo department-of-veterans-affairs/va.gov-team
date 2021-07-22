@@ -53,6 +53,9 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - At least one person with a disability rating of 80% or greater --> 
 
 **Good to have for participants**
+- At least 1 representative from a federally-chartered VSO
+- At least 1 representative from a VSO that is not federally chartered
+- At least 1 woman of color
 - At least 1 participant 35 or under and 1 participant over 55
 - At least one person that has a college degree (to include of officer Veterans)
 - At least one person who lives in a major metropolitan area
