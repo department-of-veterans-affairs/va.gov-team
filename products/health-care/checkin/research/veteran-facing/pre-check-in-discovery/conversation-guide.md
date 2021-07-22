@@ -16,15 +16,16 @@ When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about something new to the VA, which is check-in tasks that you could complete at home before your VA medical appointment.
+Thanks for joining us today! My name is \[NAME\] and I also have some colleagues on the line observing and taking notes. Today, we're going to talk about all the questions you are asked or information you review when checking in for a VA medical appointment. We are exploring the possiblity of enabling Veterans to review and update that information prior to their appointment on your own time from the comfort of their own homes.
 
 Before we start, a few things I want to mention:
 
 * This entire session should take no longer than an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-* In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts on a possible new way to let your doctor know that you have arrived for your appointment. I will not be offended by any opinions you express, and I welcome your feedback.
+* In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts about completing pre-check-in tasks from your home. I will not be offended by any opinions you express, and I welcome your feedback.
 * During this session, we'll be doing two things:
-  * First, I'll start by asking you a few questions about your past experiences.
-  * For the second half of the session, I'll send you a link to a prototype that one of our teams created to explain a new way to let your doctor know that you have arrived. 
+  * First, I'll start by asking you a few questions about your past check-in experiences.
+  * Then, we'll complete a short card sort exercise to help us prioritize what tasks you would like to complete at home.
+  * For the last part of the session, I'll send you a link to a pre-check-in prototype that I'll have you review. 
 * If for any reason and at any time you want to stop the session, please let me know.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -33,7 +34,7 @@ Start recording.
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 7 minutes
 Now, I’m going to ask you to think about your very last medical appointment that you actually went to the VA facility for.
 
 * Can you describe checking in for that medical appointment?
@@ -42,10 +43,16 @@ Now, I’m going to ask you to think about your very last medical appointment th
     * What did you not like about it?
 * You checked in via [the method they mentioned in the previous question], but is that the method that you use most often?
   * _Clarify options available only if necessary._ This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments.
-* Have you ever had a check-in experience go wrong at the VA?
-  * If so, can you share what happened?
+ * What questions have staff members ask you during check-in?
+ * If you utilized a kiosk, what types of additional questions were you asked or what types of information did you review?
+ * Did you ever complete any paperwork prior to your VA medical appointments?
 
-## Usability - 30 minutes
+## Card Sort - 15 minutes
+Now, we'll complete an activity where you will prioritize all the tasks/information that you are interested in reviewing and updating prior to the day of your medical appointment. If you are interested in reviewing/updating all of the tasks that is fine. If you really have no interest in reviewing/udpating any of 
+
+[Card sort]()
+
+## Card Sort - 30 minutes
 
 Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your appointment and you see the following sign hanging on the wall. 
 
