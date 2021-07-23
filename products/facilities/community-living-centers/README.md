@@ -23,3 +23,7 @@ Community Living Centers deliver nursing home level of care, and they can be a t
 - **Minneapolis, MN**
   - [Minneapolis Veterans Home site](https://mn.gov/mdva/homes/minneapolis/)
     - This fits the description of a CLC, but seems state run, and not associated with federal VA
+- **Orlando, FL**
+  - [Legacy site](https://www.orlando.va.gov/services/CLC.asp)
+- **Palo Alto, CA**
+  - [Legacy site](https://www.paloalto.va.gov/clc.asp)
