@@ -3,6 +3,7 @@
 ### Background
 
 [Community Living Center general information](https://www.va.gov/GERIATRICS/pages/VA_Community_Living_Centers.asp)
+
 [Geriatrics and extended care general information](https://www.patientcare.va.gov/geriatrics.asp)
 
 Community Living Centers deliver nursing home level of care, and they can be a temporary or permanent home. They provide a variety of services, from short-term nursing, rehabilitation, and hospice care, to long-term assisted living care.
