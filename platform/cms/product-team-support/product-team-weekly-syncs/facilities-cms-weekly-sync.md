@@ -23,6 +23,13 @@
 
 </details>
 
+## July 28
+
+When to contact Lighthouse vs CMS support
+- Facility info is incorrect (not when requesting a modification - ie: additional phone number fields, etc)
+
+Suite # field for CAPs
+
 ## July 21
 
 Mobile VHA
