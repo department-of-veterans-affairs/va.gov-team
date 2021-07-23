@@ -598,11 +598,25 @@ To access Cypress environment variables, simply call `Cypress.env()` followed by
 ];
 ```
 
-To test against each of the viewports in the array, simply iterate through it using `.forEach()` in the callback of an `it` function call, like so:
+We've also provided the following Cypress env vars that are set to the maximum index value of the `vaTopMobileViewports`, `vaTopTabletViewports`, and `vaTopDesktopViewports` arrays that we recommend be used for testing:
+
+```
+vaTopMobileViewportsIterateUptoIndex
+vaTopTabletViewportsIterateUptoIndex
+vaTopDesktopViewportsIterateUptoIndex
+```
+
+At the time of this writing, each of these 'IterateUptoIndex' env vars is set to `0`, meaning only the viewport object at index `0` in each set of viewport objects should be used in your tests. As the platform expands its ability to run Cypress tests more quickly and efficiently, we'll increase the value of these env vars so your tests automatically run against additional viewports. 
+
+Please iterate through the 'vaTopViewport' arrays and break out of the iteration based on the value of 'IterateUptoIndex' like so:
 
 ```javascript
 it('should render in mobile layouts', () => {
-  Cypress.env().vaTopMobileViewports.forEach((viewportData) => {
+  const mobileViewports = Cypress.env().vaTopMobileViewports;
+
+  for (let i = 0; i < mobileViewports.length; i += 1) {
+    if (i > Cypress.env().vaTopMobileViewportsIterateUptoIndex) break;
+
     const {
       list,
       rank,
@@ -612,7 +626,7 @@ it('should render in mobile layouts', () => {
       viewportPreset
       width,
       height,
-    } = viewportData;
+    } = mobileViewports[i];
 
     cy.log(`Viewport list: ${list}`);
     cy.log(`Viewport rank: ${rank}`);
@@ -625,7 +639,7 @@ it('should render in mobile layouts', () => {
     cy.visit('/page');
     cy.viewportPreset(viewportPreset);
     // Cypress test code follows...
-  });
+  }
 });
 ```
 
