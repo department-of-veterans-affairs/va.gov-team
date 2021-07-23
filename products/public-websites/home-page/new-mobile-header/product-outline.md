@@ -24,7 +24,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 ## What We Know
 
-- A snapshot of VA.gov click-through analytics and user research conducted in May 2021 indicates there is modest engagement of the navigational elements in the global header, with search generating the most usage.
+- A snapshot of Mobile VA.gov click-through analytics and user research conducted in May 2021 indicates there is relatively modest engagement of the navigational elements in the global header, with the exception of the VA Benefits and Health Care menu item and to a lesser extend Search.
 
 <img width="1130" alt="Screen Shot 2021-07-23 at 8 45 53 AM" src="https://user-images.githubusercontent.com/63107147/126784095-b9009ffc-33d8-4436-bb6c-a51eee153b6e.png">
 
