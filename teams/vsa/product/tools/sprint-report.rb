@@ -35,13 +35,15 @@ end
 gh_response.body
 gh_json = JSON.parse(gh_response.body)
 
-file.puts label 
+file.puts "#{label}, Select all and paste the entire table into the appropriate section."
 
 #Zenhub processing and request
 file.puts "<table>"
 
+file.puts "<th style=#{'background-color:#cfe2f3;font-family:Helvetica,sans-serif;'}>Issue #</th><th style=#{'background-color:#cfe2f3;font-family:Helvetica,sans-serif;'}>Points</th><th style=#{'background-color:#cfe2f3;font-family:Helvetica,sans-serif;'}>User Story Title</th><th style=#{'background-color:#cfe2f3;font-family:Helvetica,sans-serif;'}>Status</th>"
+
 gh_json.each do |issue|
-	zh_api_key="Paste your Zenhub API key"
+	zh_api_key="PASTE YOUR ZENHUB KEY"
 	zh_uri = URI.parse("https://api.zenhub.com/p1/repositories/133843125/issues/#{issue["number"]}")
 
 	zh_request = Net::HTTP::Get.new(zh_uri)
@@ -61,9 +63,9 @@ gh_json.each do |issue|
 #Create sprint report file
 	
 	begin   
-		file.puts "<tr><td><a href=#{gh_issue_url}#{issue["number"]}>##{issue["number"]}</a></td><td> #{zh_json["estimate"]["value"]} </td> <td>#{issue["title"]}</td> <td>#{issue["state"]}</td></tr>"
+		file.puts "<tr><td style=#{'border:#999999'}><a href=#{gh_issue_url}#{issue["number"]}>##{issue["number"]}</a></td><td style=#{'border:#999999'}> #{zh_json["estimate"]["value"]} </td> <td style=#{'border:#999999'}>#{issue["title"]}</td> <td style=#{'border:#999999'}>#{issue["state"]}</td></tr>"
 	 	rescue StandardError=>e
-	 		file.puts "<tr><td><a href=#{gh_issue_url}#{issue["number"]}>##{issue["number"]}</a></td><td> NO ESTIMATE </td> <td>#{issue["title"]}</td> <td>#{issue["state"]}</td></tr>"
+	 		file.puts "<tr><td style=#{'border:#999999'}><a href=#{gh_issue_url}#{issue["number"]}>##{issue["number"]}</a></td><td style=#{'border:#999999'}> NO ESTIMATE </td> <td style=#{'border:#999999'}>#{issue["title"]}</td> <td style=#{'border:#999999'}>#{issue["state"]}</td></tr>"
 	end
 	#end
 #end
