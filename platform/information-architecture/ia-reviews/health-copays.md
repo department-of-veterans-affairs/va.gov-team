@@ -33,16 +33,16 @@ Page flow illustrates proposed H1s, link labels and URLs:
 Page | URL | Breadcrumb | Description
 --- | --- | --- | ---
 Pay copay bills static page | https://www.va.gov/health-care/pay-copay-bill/ | Home > Health care > Pay your VA copay bill |  This is an existing page, no changes to URL or breadcrumb.
-View copay bills tool |  www.va.gov/health-care/pay-copay-bill/your-current-balances/  |  Home > Health care > Pay your VA copay bill > [View copay balance page H1]  | New tool to view copay bills. 
-Copay bill details |  www.va.gov/health-care/pay-copay-bill/your-current-balances/balance-details/  |  Home > Health care > Pay your VA copay bill > [View copay balance page H1] > [Copay balance details page H1]   | Detail level of copay balance.
-Financial hub static landing page   | www.va.gov/xxxxxx   | Home > [H1 of page]   | New static landing page provides links to all financial-related tools and forms 
+Auth tool: Copay balances |  www.va.gov/health-care/pay-copay-bill/your-current-balances/  |  Home > Health care > Pay your VA copay bill > [View copay balance page H1]  | New tool to view copay bills. 
+Auth tool: Balance details |  www.va.gov/health-care/pay-copay-bill/your-current-balances/balance-details/  |  Home > Health care > Pay your VA copay bill > [View copay balance page H1] > [Copay balance details page H1]   | Detail level of the copay balance.
+Financial hub static landing page   | www.va.gov/xxxxxx   | Home > [H1 of page]   | ***Details for this page are TBD*** <br>New static landing page provides links to all financial-related tools and forms 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Placement | Destination | Description
 --- | --- | --- | ---
- MUST | [Pay medical copays static page](https://www.va.gov/health-care/pay-copay-bill/) | Pay copays tool | Existing static page will need sign in module, content and link to new tool. 
+ MUST | Pay medical copays static page <br>https://www.va.gov/health-care/pay-copay-bill/ | Auth tool: Copay balances <br>www.va.gov/health-care/pay-copay-bill/your-current-balances/ | Existing static page will need sign in module, content and link to new tool. 
  TBD |  TBD  | Financial hub static landing page | ***Entry points for this new static page are TBD***
 
  
