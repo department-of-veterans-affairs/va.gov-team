@@ -27,3 +27,5 @@ Community Living Centers deliver nursing home level of care, and they can be a t
   - [Legacy site](https://www.orlando.va.gov/services/CLC.asp)
 - **Palo Alto, CA**
   - [Legacy site](https://www.paloalto.va.gov/clc.asp)
+- **South Texas**
+  - [Legacy site](https://www.southtexas.va.gov/services/CLC.asp)
