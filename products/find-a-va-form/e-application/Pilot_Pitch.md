@@ -12,7 +12,11 @@ How might we make it easier for Veterans and their caretakers to apply for a wid
 
 ### Background 
 
-More than 20 years ago, the landmark Electronic Signatures in Global and National Commerce (ESIGN) Act was passed in the U.S. to address the growing need for a consistent standard for electronic signatures. While this legislation certainly paved the way for the use of electronic signatures in government, it wasn’t until the COVID-19 pandemic when agencies were truly forced to use this innovation for meeting citizen needs during a challenging time. 
+The 21st Century Integrated Digital Experience Act, otherwise known as 21st Century IDEA, was signed into law in December 2018.  The Act requires all executive branch agencies to:
+
+- digitize services and forms,
+- accelerate use of e-signatures,
+- improve customer experience, and
 
 Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
 
@@ -36,8 +40,6 @@ Docusign Agreeable Government Mandate whitepaper
 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
 
-e-signature v. digital signature
-https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
 
 
 **Benefits of e-Signature solution**
