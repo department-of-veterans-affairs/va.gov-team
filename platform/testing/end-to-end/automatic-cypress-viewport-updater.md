@@ -64,7 +64,7 @@ To run the updater locally, grab the values from the following parameters in the
 /dsva-vagov/testing-team/cypress_viewport_updater/google_analytics_credentials
 ```
 
-Format your `config/settings.local.yml` file like this:
+Format your `config/settings.local.yml` file like this (the indentation is important):
 
 ```yaml
 google_analytics_cvu:
