@@ -103,9 +103,9 @@ I would like you to share your screen with me so I can watch you use a specific 
 - What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
 ## Veteran Tasks
-Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (https://staging.va.gov/find-forms/).
+Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to *(spell/put into the Zoom chat/email/text)* for you to click on (https://staging.va.gov/find-forms/).
 
-I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+I would like you to **talk aloud** as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 ### Task 1: [Form 10-2850c--most downloaded, has digital signature] - 5 minutes
 Imagine that you are a healthcare worker applying for a job with the VA. You want to find the form that you can use to apply for a health job. How would you do this?
