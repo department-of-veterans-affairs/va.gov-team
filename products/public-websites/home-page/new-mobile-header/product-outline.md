@@ -30,6 +30,11 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 <img width="1247" alt="Screen Shot 2021-07-23 at 8 46 35 AM" src="https://user-images.githubusercontent.com/63107147/126784074-177cf028-54b1-4870-90a0-9276a85cd91e.png">
 
+- For Search, year-to-date data shows about a 70/30 split between the search engagement on Desktop vs. Mobile (source: [DOMO Dashboard/Google Analytics](https://va-gov.domo.com/page/1964748112))
+
+<img width="432" alt="Screen Shot 2021-07-23 at 9 01 34 AM" src="https://user-images.githubusercontent.com/63107147/126785444-4cc0286f-3782-470c-818b-fc9a00ec2b53.png">
+
+<img width="348" alt="Screen Shot 2021-07-23 at 9 01 24 AM" src="https://user-images.githubusercontent.com/63107147/126785457-b457518b-6099-49c7-b6bd-940a6b1c7d82.png">
 
 
 ## What Needs to Be Done
