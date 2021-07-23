@@ -74,7 +74,7 @@
 ### Prototype Changelog
 
 **July 21, 2021**
-- [Reconciled research finding, LGY feeback, Platform feedback]()
+- [Reconciled research findings, LGY feeback, Platform feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/coe-changelog-072121.md)
 
 **April 15, 2021**
 - Received some content feedback
