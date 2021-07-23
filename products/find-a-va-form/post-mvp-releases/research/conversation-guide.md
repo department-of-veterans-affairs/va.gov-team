@@ -139,7 +139,7 @@ I'd like you to again open the web page you started on. Now assume that you got 
   - *> Click on "Employee Incentive Scholarship Program (ESPI) Application" Health Occupations"--form 10-0003k)*
 
 - *(If they need prompting...After they open the form:)* What do you see here?
-- I'd like you to start filling it out. 
+  - *(skip if successful previously)* I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
  Action | Yes | No | Help Needed | Reactions
@@ -150,7 +150,7 @@ I'd like you to again open the web page you started on. Now assume that you got 
 *Noticed that file downloaded?*
 *Found the downloaded form?*
 *Opened form in Acrobat? (SUCCESS)*
-*Filled out form?*
+*(skip if successful previously)* *Filled out form?*
 *(skip if successful previously)* What would you do if you wanted to continue filling out this form later? *Saved form?*
 *(skip if successful previously)* Now assume that the form is completely filled out. How would you sign it? *Digitally signed form?*
 
@@ -169,7 +169,7 @@ I'd like you to again open the web page you started on. You also want the form t
   - *(Search for "travel" > Click on "Claim for Reimbursement of Travel Expenses"--form 20-0968)*
 
 - *(If they need prompting...After they open the form:)* What do you see here?
-- I'd like you to start filling it out. 
+  - *(skip if successful previously)* I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
  Action | Yes | No | Help Needed | Reactions
@@ -180,7 +180,7 @@ I'd like you to again open the web page you started on. You also want the form t
 *Noticed that file downloaded?*
 *Found the downloaded form?*
 *Opened form in Acrobat? (SUCCESS)*
-*Filled out form?*
+*(skip if successful previously)* *Filled out form?*
 *(skip if successful previously)* What would you do if you wanted to continue filling out this form later? *Saved form?*
 
 What are your thoughts about the process of filling out this form? 
@@ -194,7 +194,7 @@ I'd like you to again open the web page you started on. And there's one last for
   - *> Click on "Decision Review Request: Supplemental Claim" -- form 20-0995)*
 
 - *(If they need prompting...After they open the form:)* What do you see here?
-- I'd like you to start filling it out. 
+  - *(skip if successful previously)* I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
 
  Action | Yes | No | Help Needed | Reactions
@@ -205,7 +205,7 @@ I'd like you to again open the web page you started on. And there's one last for
 *Noticed that file downloaded?*
 *Found the downloaded form?*
 *Opened form in Acrobat? (SUCCESS)*
-*Filled out form?*
+*(skip if successful previously) Filled out form?*
 *(skip if successful previously)* What would you do if you wanted to continue filling out this form later? *Saved form?*
 
 What are your thoughts about the process of filling out this form? 
