@@ -116,24 +116,20 @@ Imagine that you are a healthcare worker applying for a job with the VA. You wan
 - *(If they need prompting...After they open the form:)* What do you see here?
 - I'd like you to start filling out this form. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
-  
-- What would you do if you wanted to continue filling out this form later?
-  
-- Now assume that the form is completely filled out. How would you sign it? 
- 
-- What are your thoughts about the process of filling out this form? 
 
 Action | Yes | No | Help Needed | Reactions
 -------------|-----|----|------------|----------
-Clicked on "Get instructions" link? 
-Navigate back to Find a Form page?
-Downloaded form?  
-Noticed notification/file downloaded?
-Difficulty finding the downloaded form?
-Opened form in Acrobat? (SUCCESS)
-Filled out form?
-To continue later, saved form?
-When done, digitally signed form?
+*Clicked on "Get instructions" link?*
+*Navigated back to Find a Form page?*
+*Downloaded form?*
+*Noticed that file downloaded?*
+*Found the downloaded form?*
+*Opened form in Acrobat? (SUCCESS)*
+*Filled out form?*
+What would you do if you wanted to continue filling out this form later? *Saved form?*
+Now assume that the form is completely filled out. How would you sign it? *Digitally signed form?*
+
+- What are your thoughts about the process of filling out this form? 
 
 ### Task 2: [Form 10-0003k--has digital signature] - 5 minutes
 I'd like you to again open the web page you started on. Now assume that you got the healthcare job with the VA. Suppose you've started working and want to look into what scholarships you could apply for. How would you find the application form for employee scholarships?
@@ -146,23 +142,19 @@ I'd like you to again open the web page you started on. Now assume that you got 
 - I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
- - What would you do if you wanted to continue filling out this form later?
-  
-- Now assume that the form is completely filled out. How would you sign it? 
- 
-- What are your thoughts about the process of filling out this form? 
-
-Action | Yes | No | Help Needed | Reactions
+ Action | Yes | No | Help Needed | Reactions
 -------------|-----|----|------------|----------
-Clicked on "Get instructions" link? 
-Navigate back to Find a Form page?
-Downloaded form?  
-Noticed notification/file downloaded?
-Difficulty finding the downloaded form?
-Opened form in Acrobat? (SUCCESS)
-Filled out form?
-To continue later, saved form? *(skip if successful previously)*
-When done, digitally signed form? *(skip if successful previously)*
+*Clicked on "Get instructions" link?*
+*Navigated back to Find a Form page?*
+*Downloaded form?*
+*Noticed that file downloaded?*
+*Found the downloaded form?*
+*Opened form in Acrobat? (SUCCESS)*
+*Filled out form?*
+*(skip if successful previously)* What would you do if you wanted to continue filling out this form later? *Saved form?*
+*(skip if successful previously)* Now assume that the form is completely filled out. How would you sign it? *Digitally signed form?*
+
+- What are your thoughts about the process of filling out this form? 
 
 ### If using a screen reader, switch version of page
 1. *SLACK ZACH*
@@ -180,20 +172,18 @@ I'd like you to again open the web page you started on. You also want the form t
 - I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
   
-- What would you do if you wanted to continue filling out this form later?
-  
-- What are your thoughts about the process of filling out this form? 
-
-Action | Yes | No | Help Needed | Reactions
+ Action | Yes | No | Help Needed | Reactions
 -------------|-----|----|------------|----------
-Clicked on "Get instructions" link? 
-Navigate back to Find a Form page?
-Downloaded form?  
-Noticed notification/file downloaded?
-Difficulty finding the downloaded form?
-Opened form in Acrobat? (SUCCESS)
-Filled out form?
-To continue later, saved form? *(skip if successful previously)*
+*Clicked on "Get instructions" link?*
+*Navigated back to Find a Form page?*
+*Downloaded form?*
+*Noticed that file downloaded?*
+*Found the downloaded form?*
+*Opened form in Acrobat? (SUCCESS)*
+*Filled out form?*
+*(skip if successful previously)* What would you do if you wanted to continue filling out this form later? *Saved form?*
+
+- What are your thoughts about the process of filling out this form? 
  
 
 ### Task 4: [Form 20-0995--most downloaded, can fill out in browser, hosted inside VA.gov)] - 5 minutes
@@ -207,21 +197,18 @@ I'd like you to again open the web page you started on. And there's one last for
 - I'd like you to start filling it out. 
   - *(after they've typed something into one or two of the fields)* You don't have to fill out the whole form; let's stop there.
 
-- What would you do if you wanted to continue filling out this form later?
-  
-- What are your thoughts about the process of filling out this form? 
-
-Action | Yes | No | Help Needed | Reactions
+ Action | Yes | No | Help Needed | Reactions
 -------------|-----|----|------------|----------
-Clicked on "Get instructions" link? 
-Navigate back to Find a Form page?
-Downloaded form?  
-Noticed notification/file downloaded?
-Difficulty finding the downloaded form?
-Opened form in Acrobat? (SUCCESS)
-Filled out form?
-To continue later, saved form? *(skip if successful previously)*
+*Clicked on "Get instructions" link?*
+*Navigated back to Find a Form page?*
+*Downloaded form?*
+*Noticed that file downloaded?*
+*Found the downloaded form?*
+*Opened form in Acrobat? (SUCCESS)*
+*Filled out form?*
+*(skip if successful previously)* What would you do if you wanted to continue filling out this form later? *Saved form?*
 
+- What are your thoughts about the process of filling out this form? 
 
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
