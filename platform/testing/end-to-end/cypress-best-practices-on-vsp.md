@@ -608,7 +608,7 @@ vaTopDesktopViewportsIterateUptoIndex
 
 At the time of this writing, each of these 'IterateUptoIndex' env vars is set to `0`, meaning only the viewport object at index `0` in each set of viewport objects should be used in your tests. As the platform expands its ability to run Cypress tests more quickly and efficiently, we'll increase the value of these env vars so your tests automatically run against additional viewports. 
 
-Please use the env vars like so:
+Please iterate through the 'vaTopViewport' arrays and break out of the iteration based on the value of 'IterateUptoIndex' like so:
 
 ```javascript
 it('should render in mobile layouts', () => {
