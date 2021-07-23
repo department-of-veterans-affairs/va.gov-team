@@ -68,13 +68,13 @@ Format your `config/settings.local.yml` file like this:
 
 ```yaml
 google_analytics_cvu:
-  [contents of /dsva-vagov/testing-team/cypress_viewport_updater/google_analytics_credentials goes here]
+  contents of /dsva-vagov/testing-team/cypress_viewport_updater/google_analytics_credentials goes here
 
 github_cvu:
-  installation_id: [contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_installation_id goes here]
-  integration_id: [contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_integration_id goes here]
+  installation_id: contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_installation_id goes here
+  integration_id: contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_integration_id goes here
   private_pem: |-
-  [contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_private_pem goes here]
+  contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_private_pem goes here
 ```
 
 All sensitive Google API and GitHub settings that VCR normally records in each cassette `yml` file have been filtered out.
