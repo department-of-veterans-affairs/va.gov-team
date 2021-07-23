@@ -30,6 +30,8 @@ When to contact Lighthouse vs CMS support
 
 Suite # field for CAPs
 
+Remove a Vet Center service is only available to content admin or above
+
 ## July 21
 
 Mobile VHA
