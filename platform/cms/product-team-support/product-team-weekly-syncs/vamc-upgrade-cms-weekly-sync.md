@@ -24,22 +24,39 @@
 ## July 23
 
 VAMC launches
- * Erie? Butler?
+ * Butler, Syracuse, OK city, New Jersey, SLC.
+ * CMS team to create a remove endpoint PR for Butler
+ * Stan can provide list for first two weeks of August. 
 
 VAMC editor support 
 * Staffing changes
 * High touch users
+* Office hours every Tuesday, and pushing to twice a week in August. There were 70 last week.
+* PAO newsletter 
+  * will remind them about office hours, and ask a review of VAMC facility data
+  * knowledge base announcement (August 2?)
 * Menu governance change requests workflow
-  * Disabled menu items?
+  * Disabled menu items
+  * Health services detail page requests
+* [Knowledge Base article](https://prod.cms.va.gov/help/vamc/how-to-manage-vamc-menus)
+  * VAMC upgrade team can work with Steve T on language
 
 Migrations
- * Walla Walla
+ * Walla Walla: CMS Section and URL alias menu machine name are wallawalla, but everything should be two words, walla walla
+   * Facilities team robots.txt 
+   * CMS team to create new va-walla-walla-health-care menu
+   * CMS team can rename Section
+   * VAMC upgrade team will need to recreate menu items
+   * CMS team to create CMS Knowledge Base article when VAMC name changes, what needs to happen, based on issue Steve created 
  * FH Lovell
+   * Remove from migration until this is settled.
+   * Dave will work with VHA on name.
+ * Hopefully wrapped today and QA can start Monday or Tuesday.
 
 Knowledge Base
 
 Operating status
-
+* changes incoming, more next week.
 
 
 
