@@ -1,18 +1,20 @@
 # Variant Test - Sorting Facilities
 
-_background info_
-
-
 ## Problem / Opportunity
 
+Veterans are more often than not registered at more than one VA facility. It can be confusing for them when they have to select from a list of facilities that they are registered at. The list can be overwhelming and may include facilities they no longer visit to receive care (e.g. moved to another state).
+
+Currently, in the VA request flow, approximately 75% of users who land on the facilities page move to the next step. We want to raise the completion rate on this page and increase the speed at which those who complete the page move on to the next step.
 
 ## Hypothesis
 
-
+We believe that if we provide simpler interactions and clearer language on the facility selection page, veterans will be able to more easily understand their options. This will help them complete the facility selection step more quickly, whether they move on to the next step, or drop-off. This will also help them complete the step successfully slightly more often.
 
 ## Analytics
 
 Dashboard: https://analytics.google.com/analytics/web/#/dashboard/OJY0YEinTf2JR4Gk3HsSUw/a50123418w177519031p176188361/
+
+Funnel (control and variant): https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/Z4cFM5gyQhy65K3s4tymQw
 
 ### Events
 
