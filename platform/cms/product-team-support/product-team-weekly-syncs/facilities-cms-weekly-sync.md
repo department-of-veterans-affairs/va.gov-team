@@ -32,7 +32,7 @@ Suite # field for CAPs
 
 Remove a Vet Center service is only available to content admin or above
 
-Online scheduling toggle switch
+Online scheduling toggle switch should be set to "unknown" or suppress
 
 ## July 21
 
