@@ -19,12 +19,12 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 ## Hypothesis or Bet
 
-**If** we implement a Mobile optimized sitewide header **then** we will increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.
+**If** we implement a mobile optimized sitewide header **then** we will increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.
 
 
 ## What We Know
 
-- A snapshot of Mobile VA.gov click-through analytics and user research conducted in May 2021 indicates there is relatively modest engagement of the navigational elements in the global header, with the exception of the VA Benefits and Health Care menu item and to a lesser extend Search.
+- A snapshot of VA.gov click-through analytics and user research conducted in May 2021 indicates there is relatively modest engagement of the navigational elements in the global header by mobile users, **with the exception of the VA Benefits and Health Care menu item and to a lesser extent Search**.
 
 <img width="1130" alt="Screen Shot 2021-07-23 at 8 45 53 AM" src="https://user-images.githubusercontent.com/63107147/126784095-b9009ffc-33d8-4436-bb6c-a51eee153b6e.png">
 
