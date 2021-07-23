@@ -13,13 +13,14 @@
 - **If screen reader user, slack Zach re version switching now and during test**
   - For 1st user: First want to test message with every result (to see if irritating), then switch to only at top.
   - For 2nd user: First test only at top, then switch to every result. 
-- **If screen reader user, have Josh or Angela observing** and for tech support
 
 **5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
 - *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
-- *Open a standalone browser window to va.gov/find-forms*
+- *Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants*
+
+- *Open a standalone browser window to https://staging.va.gov/find-forms/*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -37,8 +38,8 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This session should take about 45 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
+- **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veterans' needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** You will not lose your stipend or be penalized in any way if we need to stop.
 
 - I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
@@ -78,8 +79,10 @@ Let’s start with a few questions...
 - What assistive technology are you using today?
 - How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
 - How long have you been using a screen reader?
-- Are you wearing headphones today? 
-  - If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
+- Are you wearing headphones today?
+  - *(if on desktop)* Could you please share your audio with me on Zoom?
+  - *(if on mobile)* Would it be possible for you to take them off and use your computer or mobile audio? 
+  - I'm asking so I will be able to hear your screen reader during the session.
 
 ### For all participants
 - What device are you using today? *(Phone / Tablet / Computer)*
@@ -97,13 +100,10 @@ I would like you to share your screen with me so I can watch you use a specific 
 
 - *NOTE how to share URL: dictate / Zoom chat / email / text* 
 - *NOTE design version: Instructions once at top / repeated for every form*
+- What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
 ## Veteran Tasks
 Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (https://staging.va.gov/find-forms/).
-
-
-
-- What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
 I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
@@ -161,8 +161,8 @@ Noticed notification/file downloaded?
 Difficulty finding the downloaded form?
 Opened form in Acrobat? (SUCCESS)
 Filled out form?
-To continue later, saved form?
-When done, digitally signed form?
+To continue later, saved form? *(skip if successful previously)*
+When done, digitally signed form? *(skip if successful previously)*
 
 ### If using a screen reader, switch version of page
 1. *SLACK ZACH*
@@ -193,7 +193,7 @@ Noticed notification/file downloaded?
 Difficulty finding the downloaded form?
 Opened form in Acrobat? (SUCCESS)
 Filled out form?
-To continue later, saved form?
+To continue later, saved form? *(skip if successful previously)*
  
 
 ### Task 4: [Form 20-0995--most downloaded, can fill out in browser, hosted inside VA.gov)] - 5 minutes
@@ -220,7 +220,7 @@ Noticed notification/file downloaded?
 Difficulty finding the downloaded form?
 Opened form in Acrobat? (SUCCESS)
 Filled out form?
-To continue later, saved form?
+To continue later, saved form? *(skip if successful previously)*
 
 
 ## (if time) Post-Task Interview - 5 minutes
