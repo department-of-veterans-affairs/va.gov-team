@@ -22,6 +22,16 @@ As a result, for our growing base of Mobile users, issues with the current heade
 **If** we implement a Mobile optimized sitewide header **then** we will increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.
 
 
+## What We Know
+
+- A snapshot of VA.gov click-through analytics and user research conducted in May 2021 indicates there is modest engagement of the navigational elements in the global header, with search generating the most usage.
+
+<img width="1130" alt="Screen Shot 2021-07-23 at 8 45 53 AM" src="https://user-images.githubusercontent.com/63107147/126784095-b9009ffc-33d8-4436-bb6c-a51eee153b6e.png">
+
+<img width="1247" alt="Screen Shot 2021-07-23 at 8 46 35 AM" src="https://user-images.githubusercontent.com/63107147/126784074-177cf028-54b1-4870-90a0-9276a85cd91e.png">
+
+
+
 ## What Needs to Be Done
 
 - [ ] Need Analytics to determine baseline performance of the current header, including:
