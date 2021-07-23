@@ -1,8 +1,6 @@
 
 ## DISCOVERY SPRINT BRIEF
 
-https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
-
 ### Initiative Name
 Find a Form - e-Application/Digital Signature Option
 
