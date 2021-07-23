@@ -32,6 +32,8 @@ Suite # field for CAPs
 
 Remove a Vet Center service is only available to content admin or above
 
+Online scheduling toggle switch
+
 ## July 21
 
 Mobile VHA
