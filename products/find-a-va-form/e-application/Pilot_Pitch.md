@@ -39,6 +39,10 @@ Docusign Agreeable Government Mandate whitepaper
 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
 
+e-signature v. digital signature
+https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
+
+
 **Benefits of e-Signature solution**
 
 An e-Signature solution should provide the following benefits:
