@@ -23,13 +23,24 @@
 
 ## July 23
 
-* VAMC launches
-  * Erie? Butler?
-* CMS Helpdesk status
-  * Staffing changes
-  * High touch users
+VAMC launches
+ * Erie? Butler?
+
+VAMC editor support 
+* Staffing changes
+* High touch users
 * Menu governance change requests workflow
   * Disabled menu items?
+
+Migrations
+ * Walla Walla
+ * FH Lovell
+
+Knowledge Base
+
+Operating status
+
+
 
 
 ## July 16
