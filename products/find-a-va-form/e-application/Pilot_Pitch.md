@@ -5,7 +5,7 @@
 Find a Form - e-Application/Digital Signature Option
 
 ### Problem Statement / How Might We statements
-How might we make it easier for Veterans and their caretakers to apply for a wider range of benefits without the complicatons of using a "download and print PDF/paper" form?
+How might we make it easier for Veterans and their caretakers to apply for a wider range of benefits without the complicatons of using a downloadable PDF form?
 
 ### What Sprint Teams Are Associated with this Discovery? 
 * Decision Tools (Find a Form)
@@ -15,7 +15,6 @@ How might we make it easier for Veterans and their caretakers to apply for a wid
 More than 20 years ago, the landmark Electronic Signatures in Global and National Commerce (ESIGN) Act was passed in the U.S. to address the growing need for a consistent standard for electronic signatures. While this legislation certainly paved the way for the use of electronic signatures in government, it wasn’t until the COVID-19 pandemic when agencies were truly forced to use this innovation for meeting citizen needs during a challenging time. 
 
 Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
-
 
 More details about the Docusign Federal Government initiative here:
 
