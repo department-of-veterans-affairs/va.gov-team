@@ -10,8 +10,8 @@
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
 | Feature Flow Diagrams | [Adobe XD](https://xd.adobe.com/view/6c65f5c2-36e1-4051-81be-6f8b9415a3cd-3936/) | No text | 4/19 | --- |
-| Concept Mockups | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/comment/sitemap,comments) | Using prototype screens | 5/12 | --- |
-| Prototype | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137576823/simulate/sitemap?mode=f) | Set to full screen | 5/12 | --- |
+| Concept Mockups | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312/comment/sitemap,comments) | Using prototype screens | 5/12 | --- |
+| Prototype | [UXPin](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/137557312/simulate/sitemap?mode=f) | Set to full screen | 5/12 | --- |
 
 #### Collaboration cycle touchpoints
 
@@ -27,10 +27,9 @@
 - [Post-launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-post-launch.md)
 
 
-
 #### Information architecture
 
-[COE  user flows]()
+[COE  user flows](https://xd.adobe.com/view/03f5874d-242c-4e74-9616-641276b2b238-56a6/)
 
 ---
 
@@ -73,6 +72,9 @@
 - TBD
 
 ### Prototype Changelog
+
+**July 21, 2021**
+- [Reconciled research finding, LGY feeback, Platform feedback]()
 
 **April 15, 2021**
 - Received some content feedback
