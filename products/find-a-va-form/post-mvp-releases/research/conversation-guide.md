@@ -7,7 +7,7 @@
 *Review participant list for participant name and screener question responses*
 
 **10-15 min before session**: 
-- *Send out p# and [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) (Slackbot will do this for you if you type "observer instructions")*
+- *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
 
 - *Share brief summary of participant demographic info*
 - **If screen reader user, slack Zach re version switching now and during test**
