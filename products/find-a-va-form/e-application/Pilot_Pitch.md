@@ -5,7 +5,7 @@
 Find a Form - e-Application/Digital Signature Option
 
 ### Problem Statement / How Might We statements
-How might we make it easier for Veterans and their caretakers to apply for a wider range of benefits without the complicatons of using a download and print paper form?
+How might we make it easier for Veterans and their caretakers to apply for a wider range of benefits without the complicatons of using a "download and print PDF/paper" form?
 
 ### What Sprint Teams Are Associated with this Discovery? 
 * Decision Tools (Find a Form)
