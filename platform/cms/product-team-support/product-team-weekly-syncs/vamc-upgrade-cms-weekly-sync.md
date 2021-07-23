@@ -26,6 +26,8 @@
 * VAMC launches
   * Erie? Butler?
 * CMS Helpdesk status
+  * Staffing changes
+  * High touch users
 * Menu governance change requests workflow
   * Disabled menu items?
 
