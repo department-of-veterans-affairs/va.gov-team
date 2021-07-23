@@ -16,8 +16,14 @@
 ## <a name="flows"></a>User/Page Flows <br>
 *Description of how users will flow through the experience*
 
-Diagram illustrates cross-linking paths from new landing page as well as individual tools. 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/89b3c085-a29c-4a9f-ba28-393f4d70638d)
+Page flow illustrates proposed H1s, link labels and URLs:
+<Br> *Black lines = existing pages/links*
+<Br> *Orange dashed lines = new page*
+<Br> *Lt Blue dotted lines = external page/link*
+
+
+
+![image](https://user-images.githubusercontent.com/20994159/126819951-93d0650e-fd43-49de-aff0-5b762f577169.png)
 
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
@@ -27,8 +33,8 @@ Diagram illustrates cross-linking paths from new landing page as well as individ
 Page | URL | Breadcrumb | Description
 --- | --- | --- | ---
 Pay copay bills static page | https://www.va.gov/health-care/pay-copay-bill/ | Home > Health care > Pay your VA copay bill |  This is an existing page, no changes to URL or breadcrumb.
-View copay bills tool |  www.va.gov/health-care/pay-copay-bill/xxxxx  |  Home > Health care > Pay your VA copay bill > [View copay bills page H1]  | New tool to view copay bills. <br> ***URL TBD based on H1 of page.***
-Copay bill details |  www.va.gov/health-care/pay-copay-bill/xxxxx/xxxx  |  Home > Health care > Pay your VA copay bill > [View copay bills page H1] > [Copay bill details page H1]   | New tool to view copay bills. <br> ***URL TBD based on H1 of page.***
+View copay bills tool |  www.va.gov/health-care/pay-copay-bill/your-current-balances/  |  Home > Health care > Pay your VA copay bill > [View copay balance page H1]  | New tool to view copay bills. 
+Copay bill details |  www.va.gov/health-care/pay-copay-bill/your-current-balances/balance-details/  |  Home > Health care > Pay your VA copay bill > [View copay balance page H1] > [Copay balance details page H1]   | Detail level of copay balance.
 Financial hub static landing page   | www.va.gov/xxxxxx   | Home > [H1 of page]   | New static landing page provides links to all financial-related tools and forms 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
