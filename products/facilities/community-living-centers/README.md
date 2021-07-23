@@ -26,7 +26,7 @@ Community Living Centers deliver nursing home level of care, and they can be a t
 - **Florida**
   - Orlando, FL
     - [Legacy site](https://www.orlando.va.gov/services/CLC.asp)
-  - Tampa, FL - James A. Haley Veteran's Hospital
+  - Tampa, FL - James A. Haley Veteran's Hospital CLC
     - [Legacy site](https://www.tampa.va.gov/services/Haley_s_Cove_Community_Living_Center.asp)
 - **Palo Alto, CA**
   - [Legacy site](https://www.paloalto.va.gov/clc.asp)
