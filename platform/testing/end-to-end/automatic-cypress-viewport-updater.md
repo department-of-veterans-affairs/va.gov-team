@@ -56,6 +56,27 @@ The `Cypress Viewport Updater Bot` GitHub App is owned by `@department-of-vetera
 
 Secrets for for the Google API Service Account and the GitHub App are stored in credstash. The Google Analytics settings are available in the `google_analytics_cvu` object in `config/settings.yml` and the GitHub settings are available in the `github_cvu` object in `config/settings.yml`. The settings are available in the `dev`, `staging`, `prod`, and `sandbox` environments.
 
+To run the updater locally, grab the values from the following parameters in the AWS Parameter Store and save them in `config/settings.local.yml`:
+```
+/dsva-vagov/testing-team/cypress_viewport_updater/github_private_pem
+/dsva-vagov/testing-team/cypress_viewport_updater/github_installation_id
+/dsva-vagov/testing-team/cypress_viewport_updater/github_integration_id
+/dsva-vagov/testing-team/cypress_viewport_updater/google_analytics_credentials
+```
+
+Format your `config/settings.local.yml` file like this (the indentation is important):
+
+```yaml
+google_analytics_cvu:
+  contents of /dsva-vagov/testing-team/cypress_viewport_updater/google_analytics_credentials goes here
+
+github_cvu:
+  installation_id: contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_installation_id goes here
+  integration_id: contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_integration_id goes here
+  private_pem: |-
+    contents of /dsva-vagov/testing-team/cypress_viewport_updater/github_private_pem goes here
+```
+
 All sensitive Google API and GitHub settings that VCR normally records in each cassette `yml` file have been filtered out.
 
 ## Google Analytics VCR Cassettes Were Manually Updated
