@@ -47,6 +47,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 An e-Signature solution should provide the following benefits:
 
 - Legally binding signature
+- Can pre-fill users information with authentication
 - Can support multiple signatures (e.g. Veteran and Spouse, Dependents, Attorney) 
 - Application can not be submitted without completion of Required fields 
 - Attachments can be included for supporting documents
