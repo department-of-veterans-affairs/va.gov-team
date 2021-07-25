@@ -22,11 +22,14 @@
 ## Changelog
 
 ### Landing page/content
-- [ ] All new content for "How do I get my VA home loan COE?" section
+- All new content for "How do I get my VA home loan COE?" section
+- Content will be added to other static content (Drupal) pages as they are identified
 
 ### Intro screens/states
+- Added unauthenticated
 
 ### Eligibility/MyCOE screen
+- Added "Denied" state to go with auto, available and pending
 
 ### Form screens
 
