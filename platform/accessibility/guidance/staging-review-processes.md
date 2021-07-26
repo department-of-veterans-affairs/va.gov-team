@@ -93,6 +93,27 @@ If you built a house and waited until it was completely built to see if the hous
 
 We require that you verify all required checks were completed using TestRail or the GitHub template before requesting a staging review. However, we suggest that you coordinate with your team throughout your project to determine how you want to keep track of your progress.
 
+## Foundational Testing for WCAG2.1
+
+### Mobile
+
+Design must account for a minimum width of at least 320px and a minimum height of at least 256px
+
+Finger gestures must able to be used with 1 finger when able. Gestures can still be used with multiple fingers. Gestures that cannot be used with 1 finger will be reviewed on a case-by-case basis.
+
+Actions must trigger on touch/mouse up. Actions must be cancellable on touch/mouse down.
+
+### Cognitive
+
+Inputs with an HTML label must have a HTML attribute name that matches the label
+
+Status messages ([modals](https://design.va.gov/storybook/?path=/docs/components-modal--default), [alerts](https://design.va.gov/storybook/?path=/docs/components-va-alert--default), [error messages](https://design.va.gov/patterns/messaging-dictionary), etc) should be identifiable programmably for assistive technologies determined through the "role" property
+
+The purpose of each input field collecting information about the user can be programmatically determined when used for the purposes noted in the "Input Purposes for User Interface Components" section of the WCAG 2.1 standards: https://www.w3.org/TR/WCAG21/#x7-input-purposes-for-user-interface-components
+
+### Color
+
+Color contrast ratio must be a minimum of 3:1 for things like UI components, graphic objects, and focus haloes.
 
 ## Foundational testing tips
 
@@ -216,13 +237,11 @@ Unresolved color test issues are documented in issue tickets and listed as known
 *   [VA.gov design system color palette](https://design.va.gov/design/color-palette)
 *   [Color blindness: how to design an accessible user interface](https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858)
 
-
 ### Content resize check
 
 **Who:** Design or any team member with time to review
 
 **When:** At a minimum, before staging review. We recommend that you consider content resizing best practices throughout design and development.
-
 
 #### Steps to test
 
@@ -243,13 +262,96 @@ OR
 Unresolved content resize issues are documented in issue tickets and listed as known issues in your staging review request ticket. 
 
 
-
 #### Related resources
 
 *   [Understanding Success Criterion 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
 *   [WCAG: Understanding Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
 *   [F69: Failure of Success Criterion 1.4.4 when resizing visually rendered text up to 200 percent causes the text, image or controls to be clipped, truncated or obscured](http://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/F69)
 *   [F80: Failure of Success Criterion 1.4.4 when text-based form controls do not resize when visually rendered text is resized up to 200%](http://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/F80)
+
+
+### Pointer Gestures
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Using a mobile device, make sure you can use the full functionality of a feature with only 1 finger to gesture (tapping, swiping, etc.)
+
+#### Definition of done
+
+All functionality is available when limited to 1 finger to gesture
+
+#### Related resources
+
+*   [2.5.1 Pointer Gestures](https://www.w3.org/TR/WCAG21/#pointer-gestures)
+*   [Understanding Success Criterion 2.5.1: Pointer Gestures](https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html)
+
+
+### Pointer Cancellation
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Touch/click down on a button/link/feature. The button/link/feature should not trigger.
+*   Untouch/click up on a button/link/feature. The button/link/feature should trigger.
+
+#### Definition of done
+
+Buttons/links/features should only trigger when touch up/click up.
+
+AND
+
+User should be able to cancel triggering a button/link/feature by moving finger/mouse away after touch/click down performing touch/click up
+
+#### Related resources
+
+*   [2.5.2 Pointer Cancellation](https://www.w3.org/TR/WCAG21/#pointer-cancellation)
+*   [Understanding Success Criterion 2.5.2: Pointer Cancellation](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html)
+
+### Input label and name label check
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Confirm that for any input with an HTML label, the input label and input HTML attribute name match.
+
+#### Definition of done
+
+Input HTML label and input HTML attribute name are matching
+
+#### Related resources
+
+*   [2.5.3 Label in Name](https://www.w3.org/TR/WCAG21/#label-in-name)
+*   [Understanding Success Criterion 2.5.3: Label in Name](https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html)
+
+
+### Status messages
+
+**Who:** Frontend engineer
+
+**When:** As part of daily development
+
+#### Steps to test
+
+*   Review status message HTML and check if it has the appropriate role for screen reader announcement
+
+#### Definition of done
+
+The status message will have the correct **role** attribute
+
+#### Related resources
+
+*   [4.1.3 Status Messages](https://www.w3.org/TR/WCAG21/#status-messages)
+*   [Understanding Success Criterion 4.1.3: Status Messages](https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html)
 
 
 ### Keyboard navigation check
@@ -334,4 +436,3 @@ Unresolved screen reader testing issues are documented in issue tickets and list
 *   [Cross-platform Screen Reader Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/screenreader-testing-cross-platform.md)
 *   [WebAIM: Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
 *   [NVDA download](https://www.nvaccess.org/download/)
-*   [NVDA Focus Plugin](https://addons.nvda-project.org/addons/focusHighlight.en.html) 
