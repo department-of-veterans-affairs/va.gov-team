@@ -30,5 +30,6 @@ Community Living Centers deliver nursing home level of care, and they can be a t
     - [Legacy site](https://www.tampa.va.gov/services/Haley_s_Cove_Community_Living_Center.asp)
 - **Palo Alto, CA**
   - [Legacy site](https://www.paloalto.va.gov/clc.asp)
+  - [(CLC FAQs)](https://www.paloalto.va.gov/clcfaq.asp)
 - **South Texas**
   - [Legacy site](https://www.southtexas.va.gov/services/CLC.asp)
