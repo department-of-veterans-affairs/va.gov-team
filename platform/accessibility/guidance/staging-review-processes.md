@@ -109,9 +109,11 @@ Inputs with an HTML label must have a HTML attribute name that matches the label
 
 Status messages ([modals](https://design.va.gov/storybook/?path=/docs/components-modal--default), [alerts](https://design.va.gov/storybook/?path=/docs/components-va-alert--default), [error messages](https://design.va.gov/patterns/messaging-dictionary), etc) should be identifiable programmably for assistive technologies determined through the "role" property
 
+The purpose of each input field collecting information about the user can be programmatically determined when used for the purposes noted in the "Input Purposes for User Interface Components" section of the WCAG 2.1 standards: https://www.w3.org/TR/WCAG21/#x7-input-purposes-for-user-interface-components
+
 ### Color
 
-Color contrast ratio must be a minimum of 3:1
+Color contrast ratio must be a minimum of 3:1 for things like UI components, graphic objects, and focus haloes.
 
 ## Foundational testing tips
 
@@ -434,4 +436,3 @@ Unresolved screen reader testing issues are documented in issue tickets and list
 *   [Cross-platform Screen Reader Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/screenreader-testing-cross-platform.md)
 *   [WebAIM: Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
 *   [NVDA download](https://www.nvaccess.org/download/)
-*   [NVDA Focus Plugin](https://addons.nvda-project.org/addons/focusHighlight.en.html) 
