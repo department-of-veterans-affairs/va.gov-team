@@ -112,7 +112,7 @@ More information on the process for requesting a Medallia user survey can be fou
 
 ### Additional Resources
 
-- [How to request a survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-request-survey.md)
+- [How to request a survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/medallia/medallia-request-survey.md)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/product-outlines/medallia-product-outline.md)
 - [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/medallia/medallia-release-notes.md)
 - [Rollout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17925)
