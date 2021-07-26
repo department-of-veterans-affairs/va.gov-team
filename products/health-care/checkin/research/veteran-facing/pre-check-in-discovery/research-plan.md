@@ -31,12 +31,12 @@ The card sort will help us prioritize tasks that Veterans truly find valuable fo
 ## Participants and Recruitment
 ### Primary criteria / Must have:
 - 15 participants (for a minimum of 8 completed sessions)
-- Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last two years (disqualify those that don't)
+- Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last six months (disqualify those that don't)
 - Participants must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
 - Participants must be willing to join the research session via their laptop/desktop computers (no mobile phones due to prototype).
 
 - Please screen participants based on these questions:
-  - Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
+  - Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last six months.
     - Yes (Qualify)
     - No (Disqualify)
   - How many of your medical appointments are with community care providers and not providers at VA facilities?
