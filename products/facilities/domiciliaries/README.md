@@ -24,7 +24,7 @@
     - [VA system page](https://www.va.gov/eastern-colorado-health-care/locations/denver-va-domiciliary/)
     - [Legacy site page](https://www.denver.va.gov/locations/Denver_VA_Domiciliary.asp)(No services listed)
 - **Minneapolis, MN**
-  - Minneapolis VA Clinic
+  - Minneapolis VA Clinic (CRRC)
     - [VA system page](https://www.va.gov/minneapolis-health-care/locations/minneapolis-va-clinic/)
       - Services listed under "Homeless Veteran Care"
   - Minnesota Veterans Home Domiciliary Program (this seems state run)
