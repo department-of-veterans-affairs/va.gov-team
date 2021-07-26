@@ -36,7 +36,7 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
 #### The services
 
 - Healthcare provided
-  - Community Living Centers are intended to help treat Veterans with chronic stable conditions, and who need assistance with daily living activities. 
+  - Community Living Centers are intended to help treat Veterans with chronic stable conditions, and who need assistance with daily living activities. Services include short and long-term nursing care, rehabilitiation care, respite care, and hospice care. 
 
 ### The referral process
 
