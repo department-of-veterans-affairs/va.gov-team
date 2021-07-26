@@ -1,10 +1,10 @@
 # Roles and responsibilities at VA facilities [DRAFT]
 
-Who are the people at VA facilities:
+This is in support of the notifications service map to help us identify SMEs at VA who:
 
--   Giving and receiving health care
--   Involved in day to day scheduling
--   Involved in creating and managing scheduling-related processes
+-   Give and receiving health care
+-   Are involved in day-to-day scheduling
+-   Create and manage scheduling-related processes
 
 ## Patient roles
 
@@ -44,6 +44,7 @@ Any specialized roles in the hierarchy: 
     * AKA (TOC) Request Manager
 * Admin Manager
 * Lead scheduler
+* Medical Support Assistant/Physician Support Assistant (MSA/PSA)
 
 ## Clinical
 
