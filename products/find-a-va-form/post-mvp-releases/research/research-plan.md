@@ -55,7 +55,7 @@ Ask Perigean to recruit 15 Veterans in order to get 10 completed sessions using 
 
 ### Must have for participants
 - At least 5 people who use the Chrome web browser on a computer
-- At least 4 participants over 60
+- At least 4 participants over 60 (i.e., in age group 55-64 or older)
 - At least 3 people with a cognitive disability (e.g., TBI)
 
 ### Good to have for participants
