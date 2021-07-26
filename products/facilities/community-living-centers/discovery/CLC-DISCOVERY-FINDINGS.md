@@ -29,8 +29,9 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
 #### The facilities
 
 - What are they?
-  - ClCs are short-term and long-term residential facilities intended for Veterans who require assistance with their activities of daily living (ADLs). They are designed to look more like actual homes or small neighborhoods, rather than dormatories, in order to provide a greater level of comfort to elderly patients.
+  - ClCs are short-term and long-term residential facilities intended for Veterans who require assistance with their activities of daily living (ADLs). They are designed to look more like actual homes or small neighborhoods (ex: [Orlando CLC](https://www.orlando.va.gov/services/CLC_Pictures.asp)), more so than dormatories, in order to provide a greater level of comfort to elderly patients.
 - Where are they located?
+  - Community Living Centers are located on VAMC campuses, or in proximity, in order to provide residents with 24/7 access to medical care.
 - How to people refer to them?
 
 #### The services
@@ -41,10 +42,11 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
 ### The referral process
 
 - How are Veterans referred?
+  - Veterans can be referred through their primary health care provider, their social case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly.
 - Who can Veterans contact directly?
 - What are the admissions requirements?
   - Admissions requirements may vary slightly depending on the location, but they include:
     - Veteran must be enrolled in VA health care
-    - Veteran must be medically and psychiatrically stable (medical needs and conditions may change over a long-term stay, but should be stable/manageable on entry)
+    - Veteran must be medically and psychiatrically stable on entry
     - the primary services required, anticipated length of stay, anticipated discharge disposition, and priority for CLC services must be documented
 - Any special elegibility requirements?
