@@ -28,6 +28,7 @@
       - Home Page Alert Banner to make process/functionality more "systematic" 
         - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md)
         - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
+          - [OCTO-DE Project Board Card](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/425)
         - [Dismissable HP Banner Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27240)
         - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
         - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
