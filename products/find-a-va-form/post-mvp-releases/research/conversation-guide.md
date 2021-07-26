@@ -99,7 +99,7 @@ I would like you to share your screen with me so I can watch you use a specific 
 *(refer to Screen sharing instructions above, if needed)*
 
 - *NOTE how to share URL: dictate / Zoom chat / email / text* 
-- *NOTE design version: Instructions once at top / repeated for every form*
+- *NOTE design version: Instructions once at top / repeated for every form in blue box / repeated for every form in help text above download link*
 - What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
 ## Veteran Tasks
