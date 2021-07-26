@@ -28,11 +28,13 @@
 When to contact Lighthouse vs CMS support
 - Facility info is incorrect (not when requesting a modification - ie: additional phone number fields, etc)
 
-Suite # field for CAPs
+Add address line 2 for CAPs (Suite #, etc)
 
 Remove a Vet Center service is only available to content admin or above
 
-Online scheduling toggle switch should be set to "unknown" or suppress
+Automate "Nearby Vet Center" list
+
+VAMC: Online scheduling toggle switch should be set to "unknown" or suppress
 
 ## July 21
 
