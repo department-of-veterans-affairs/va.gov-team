@@ -42,7 +42,7 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
 ### The referral process
 
 - How are Veterans referred?
-  - Veterans can be referred through their primary health care provider, their social case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly.
+  - Veterans can be referred through their primary health care provider, their social case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly (a VA health care representative must make the referral if the CLC residency is intended to at VA's expense (see [CLC FAQs](https://www.paloalto.va.gov/clcfaq.asp)).
 - Who can Veterans contact directly?
 - What are the admissions requirements?
   - Admissions requirements may vary slightly depending on the location, but they include:
