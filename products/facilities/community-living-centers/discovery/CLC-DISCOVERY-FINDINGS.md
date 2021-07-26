@@ -50,3 +50,4 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
     - Veteran must be medically and psychiatrically stable on entry
     - the primary services required, anticipated length of stay, anticipated discharge disposition, and priority for CLC services must be documented
 - Any special elegibility requirements?
+  - Service connected status, level of disability, and income are all factors in determining the amount of copay a Veteran is responsible for.
