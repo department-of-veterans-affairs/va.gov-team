@@ -1,5 +1,7 @@
 # Veteran channels for scheduling and managing appointments [DRAFT]
 
+This is to support the service mapping 
+
 ## Phone 
 
 * 7 of 8 participants shared a negative perception of calling the VA - [Facilities personalization research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md#half-of-the-participants-preferred-to-schedule-appointments-through-a-combination-of-secure-messenger-and-in-person)
@@ -11,7 +13,7 @@
 
 ### Robocall appointment reminders
 
-## Mail
+## Physical Mail
 
 ### Postcard reminders
 
