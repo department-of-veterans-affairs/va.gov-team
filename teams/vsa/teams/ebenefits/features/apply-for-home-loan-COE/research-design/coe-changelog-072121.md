@@ -27,13 +27,18 @@
 
 ### Intro screens/states
 - Added unauthenticated
+- Unauthenticated state has no subway map or login widget
+- Unauthenticated has all new content
+- Authenticated state has all new content (incl. subway map)
 
 ### Eligibility/MyCOE screen
 - Added "Denied" state to go with auto, available and pending
+- Denied state has placeholder copy/content
 
 ### Form screens
+- TBD
 
 ### Confirmation screen
-
+- TBD
 
 ---
