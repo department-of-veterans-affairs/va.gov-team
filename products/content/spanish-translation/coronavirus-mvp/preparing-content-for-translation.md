@@ -74,16 +74,17 @@ _Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD
 |  | |
 
 - [ ] Text avoids demonstrative pronouns (ex. replace "This allows you to" with "This function allows you to").
-- [ ] Text avoids or limits compound words wherever possible. [REVIEW THIS ON MORE]
+- [ ] Text avoids or limits compound words wherever possible. [REVIEW THIS ONE MORE]
 - [ ] Text avoids the conditional (ex. replace "This would open the window" with "This will open the window").
-- [ ] Text avoids abbreviations whenever possible (including Latin abbreviations such as "i.e.: and "etc.").
+- [ ] Text avoids abbreviations (including Latin abbreviations such as "i.e.: and "etc.").
 - [ ] Text avoids "and/or" 
 - [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out on the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "sigla en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, sigla en inglés)." For all following instances, just use the acronym. 
 
 ## Bulleted lists
 
 - [ ] Lead-ins to bulleted lists are complete sentences.
-- [ ] In bulleted lists, each list item is complete and parallel.
+- [ ] In bulleted lists, each list item is parallel in construction.
+- [ ] In bulleted lists, each list item is a complete sentence wherever possible. There may be exceptions when a phrase or single word makes sense.
 - [ ] Dates are written in non-numeric format.
 
 ## URLs and links Links to other pages
