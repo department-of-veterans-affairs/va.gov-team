@@ -11,7 +11,7 @@ The Million Veteran Program invites you to join our campaign to engage and enrol
 You can help by sharing the materials uploaded to this communication toolkit:
 1. [PSA video and materials (social media, newsletter blurbs)](#psa-video-and-materials)
 2. [Feature story for VISN and VAMC websites](#feature-story-for-visn-and-vamc-websites)
-3. [Flyers](#flyers)
+3. [Flyers and posters](#flyers-and-posters)
 4. [One-pager](#one-pager)
 5. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
 6. [Text for patient instructions](#text-for-patient-instructions)
@@ -46,7 +46,7 @@ Before publishing, please confirm your facility's MVP site has re-opened by emai
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
 
 
-## Flyers
+## Flyers and posters
 
 Each PDF flyer has the same content but different portraits. Please use whichever flyer best reflects the audience you’re engaging or wish to engage. 
 
@@ -54,9 +54,9 @@ Flyers can also be printed as posters.
 
 We recommend placing flyers/posters in highly visible locations, such as COVID-19 vaccination waiting areas and staff break rooms, and areas frequented by women Veterans, such as women’s clinics and mobile mammogram units.
 
-All PDF flyers:
+All PDF flyers and posters:
 
-- [Gwendolyn](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn.pdf)
+- Gwendolyn: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn-11x17.pdf)
 - [Jennifer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jennifer.pdf)
 - [Jessica](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jessica.pdf)
 - [Linda](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Linda.pdf)
@@ -71,7 +71,8 @@ This one-pager explains what it means to participate in MVP, how participation c
 
 Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Program Coordinators, MVP Coordinators, Red Coat volunteers, and others can share this material with patients or women Veterans, as appropriate.
 
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet.pdf">MVP one-pager (PDF)</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet.pdf">8.5x11 MVP one-pager flyer (PDF)</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet-11x17.pdf">11x17 MVP one-pager poster (PDF)</a>
 
 ## Women Veterans in Research FAQ
 
