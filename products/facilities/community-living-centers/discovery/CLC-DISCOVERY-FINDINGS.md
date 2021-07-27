@@ -31,6 +31,7 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
 - Where are they located?
   - Community Living Centers are usually located on VAMC campuses, or in proximity, in order to provide residents with 24/7 access to medical care. A VA health care system may also contract with community nursing home in the area via the Community Nursing Home Program (CNH Program).
 - How to people refer to them?
+  - "Community Living Centers", "CLCs", and "nursing homes" are all terms used to refer to these facilities.
 
 #### The services
 
@@ -42,6 +43,7 @@ Community Living Centers fall onto the VA continuum of mental health care, as on
 - How are Veterans referred?
   - Veterans can be referred through their primary health care provider, their social case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly (a VA health care representative must make the referral if the CLC residency is intended to at VA's expense (see [CLC FAQs](https://www.paloalto.va.gov/clcfaq.asp)).
 - Who can Veterans contact directly?
+  - CLC residency requires a referral, so Veterans should be in contact with their primary health care provider or social worker, or a Patient Aligned Care Team (PACT) for the process of admission. 
 - What are the admissions requirements?
   - Admissions requirements may vary slightly depending on the location, but they include:
     - Veteran must be enrolled in VA health care
