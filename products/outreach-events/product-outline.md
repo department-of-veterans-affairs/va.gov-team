@@ -2,8 +2,9 @@
 
 The VA.gov [Outreach Events calendar](https://www.va.gov/outreach-and-events/events/) was quickly built and released as an "at parity" MVP more product -- with very basic funcitonality -- more than <two> years ago.  Since that time, the popularity of the product has grown (to more than 200,000 page views on average per month [Google Analytics report](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190701&_u.date01=20210722&explorer-table.filter=outreach-and-events~2Fevents~2F&explorer-table.plotKeys=%5B%5D&explorer-graphOptions.selected=analytics.nthMonth)) and so have the needs and expectations of the VA business stakeholders.   Indeed, as of the spring of 2021, the Veterans Experience Office has broaded the [user base for the national events calendar to digital comms teams at VHA, VBA, OPIA and NCA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md).
   
+For this initiative, we will outline a plan to implement series of functional, UX and CMS-based authoring enhancements that will more fully mature the Outreach Hub events calendar product, making it more personalized and useful for VA.gov users and easier to curate-manage by VA business stakeholders.
   
- <img width="1167" alt="Screen Shot 2021-07-27 at 1 14 05 PM" src="https://user-images.githubusercontent.com/63107147/127198473-5917b8d0-cf14-4bc2-a161-77b79d460269.png">
+ 
 
   
  
