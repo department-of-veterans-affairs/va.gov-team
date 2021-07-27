@@ -130,7 +130,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKE
 
 ## Test Case C: Edge Case - Expired Token
 
-> No test made
+> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.403.on.check-in.cypress.spec.js)
 
 ### Note
 
@@ -139,6 +139,7 @@ This case may not be different than other token-based edge cases, but calling th
 ### Use case
 
 - As a user, I have clicked a link that is no longer valid (i.e., for an appointment that happened yesterday)
+- Technically, this test covers a 403 status code from CHIP, which is an expired token error.
   
 ### Arrange (Data needed)
 
@@ -149,7 +150,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TO
 ### Act
 
 - The link Loads
-- User should see an error page 
+- User should see an error page
 
 ### Assert (Expected Outcome)
 
@@ -158,7 +159,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TO
 
 ## Test Case D: Edge Case - No token provided
 
-> No Cypress test created yet
+> [Cypress test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/no.token.provided.cypress.spec.js)
 
 ### Note
 
@@ -186,7 +187,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/>
 
 ## Test Case E: Edge Case - Malformed Token
 
-> No Cypress test created yet
+> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/malformed.token.cypress.spec.js)
 
 ### Note
 
@@ -200,7 +201,7 @@ This case may not be different than other token-based edge cases, but calling th
 
 - A link to the check in-app with a malformed LoROTA token
 
-Example: <<https://staging.va.gov/health-care/appointment-check-in/?id=NOT> A VALID TOKEN>
+Example: <https://staging.va.gov/health-care/appointment-check-in/?id=NOT_A_VALID_TOKEN>
 
 ### Act
 
@@ -214,19 +215,19 @@ Example: <<https://staging.va.gov/health-care/appointment-check-in/?id=NOT> A VA
 
 ## Test Case F: Edge Case - User Tries to check in again after already successfully checking in
 
-> No Cypress test created yet
+> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.404.on.check-in.cypress.spec.js)
 
 ### Note
 
-This case may not be different than other token-based edge cases, but calling this out for coverage.
+This case may not be different than other token-based edge cases, but calling this out for coverage. This case assumes that using a token that already been used will return a `404` error.
 
 ### Use case
 
-- As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in. 
-  
+- As a user, I have clicked on the same link prior to my appointment time to check in again after already successfully checking in.
+
 ### Arrange (Data needed)
 
-- A link to the check in-app with a LoROTA token that has already been used to check-in. 
+- A link to the check in-app with a LoROTA token that has already been used to check-in.
 
 Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TOKEN>
 
@@ -242,7 +243,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 
 ## Test Case G: Edge Case - User Tries to check in again after not completing an earlier check in attempt
 
-> No Cypress test created yet
+> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
 ### Use case
 
@@ -275,7 +276,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 
 ## Test Case H: Edge Case - User Refreshes the app before finishing the check in process
 
-> No Cypress test created yet
+> [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
 ### Use case
 
@@ -292,7 +293,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 
 - The user clicks the link
 - At some point, before clicking "check-in," the user refreshed the page.
-- The app is loaded at the same point without failure. 
+- The app is loaded at the same point without failure.
 
 ### Assert (Expected Outcome)
 
