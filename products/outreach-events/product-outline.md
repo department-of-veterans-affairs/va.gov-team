@@ -7,14 +7,15 @@ For this initiative, we will implement a series of functional, UX and CMS-based 
 
 ## The Problem to be Solved
 
-**How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach-and-events/events/) more personalized for users (e.g. find events by date, time, event type, etc.) and easier to manage/curate for VA business users. **
+How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach-and-events/events/) more personalized for users (e.g. find events by date, time, event type, etc.) and easier to manage/curate for VA business users.
 
 
 ## Proposed Solution(s)
 
 **High Level User Story/ies**
 
-As a content editor, I need to quickly publish error-free alerts on the VA.gov homepage at all hours, so that time sensitive information can reach Veterans.
+- As a Veteran user, I need to quickly find VA events of most interest based on a variety of search goals: date, time, location, event type, etc.
+- As a VACO digital comms content editor, I need to quickly publish error-free alerts on the VA.gov homepage at all hours, so that time sensitive information can reach Veterans.
 
 
 **Requirements**
