@@ -9,13 +9,12 @@
 ### Public Websites 
 
 - Products
-  - Home Page (including Alert Banner)
-  - Site Navigation (Header, Left Hand, Footer)
-  - Benefit Hubs 
-  - Outreach & Events Hub and Calender
-  - Resources & Support
-  - Campaign Landing Page
-  - React Widget
+  - Home Page (including Alert Banner) [Secondary: Ryan and/or Beth/Danielle]
+  - Site Navigation (Header, Left Hand, Footer) [Secondary: Meg]
+  - Benefit Hubs [Secondary: Meg and/or Beth/Danielle]
+  - Outreach & Events Hub and Calender [Secondary: Dave C]
+  - Resources & Support [Secondary: Beth]
+  - Campaign Landing Page [Secondary: Dave and/or Danielle]
 
 - 2021 Priorities
   - **New**
