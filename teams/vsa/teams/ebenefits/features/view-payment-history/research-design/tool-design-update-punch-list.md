@@ -5,7 +5,7 @@
 
 ---
 
-Reference mockups are available [here.](https://www.sketch.com/s/2cbfbba2-b8c6-490a-8f25-240877a7786b)
+See [Reference mockups](https://www.sketch.com/s/2cbfbba2-b8c6-490a-8f25-240877a7786b) and [Content ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26891).
 
 ### Intro Page
 
