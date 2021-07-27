@@ -144,16 +144,15 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 ## States
 
-### Loading
+### Update in progress
 
-- Display the same spinner icon and behavior we use on button states, with the dark gray color ($color-gray-dark)
+- Display the word "Saving..." in italics, as seen on VA.gov application forms that autosave. [Video example here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/green-save-pop-up.mov)
 - See interaction on the first checkbox in [this mock up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i)
 
 ### **Successful save**
 
 - Display a success background-only alert immediately above the box the user just clicked
 - Save alert must be announced to screen reader users via `aria-live`. 
-- Display a `saving...` message as seen in VA.gov forms (above back/continue buttons).
 - Any visible alert should hide when another checkbox is clicked.
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i); use the first checkbox
