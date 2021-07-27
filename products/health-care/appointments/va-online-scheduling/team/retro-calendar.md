@@ -14,6 +14,6 @@ In the hybrid framework test, the Retro host will rotate between the team and th
 - Tue, June 22 - Brad
 - Tue, July 6 - Jeff
 - Tue, July 20 - AJ
-- Tue, August 3 - Tony
+- Tue, August 3 - Lauren
 - Tue, August 17 - Lauren
   - This retro will be for our team to look back at the hybrid framework test
