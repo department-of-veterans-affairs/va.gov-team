@@ -39,7 +39,7 @@ See [Reference mockups](https://www.sketch.com/s/2cbfbba2-b8c6-490a-8f25-240877a
 - [ ] “What if I am missing a payment?” moved below Payments returned section
 	- [ ] Heading: H2 “What if I am missing a payment?”
 	- [ ] Body: default
-	- [ ] Content: 
+	- [ ] Content: (note: "Direct deposit information" is bold)
 		> If you didn't receive your payment on the date it should have arrived, please wait 3 business days before you contact us. We can't track payments before then.
 		
 		> Note: We don't list direct-deposit payments that are less than $1 or check payments that are less than $5 in your online payment history.
