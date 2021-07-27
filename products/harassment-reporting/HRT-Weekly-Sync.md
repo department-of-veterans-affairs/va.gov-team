@@ -23,6 +23,7 @@
 </summary>
 
 </details>
+
 ## July 29, 2021 - Stage: Design / Build
 Action items:
 1. Summarize discussion points from Design Intent Review  - Updates from @Brian/Soni/Cassandra
