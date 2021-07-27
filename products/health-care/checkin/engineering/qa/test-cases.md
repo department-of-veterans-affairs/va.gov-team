@@ -18,40 +18,46 @@
     - [Arrange (Data needed)](#arrange-data-needed-1)
     - [Act](#act-1)
     - [Assert (Expected Outcome)](#assert-expected-outcome-1)
-  - [Test Case C: Edge Case - Expired Token](#test-case-c-edge-case---expired-token)
+  - [Test Case C: Edge Case - Premature Check-in](#test-case-c-edge-case---premature-checkin-in)
     - [Note](#note)
     - [Use case](#use-case-2)
     - [Arrange (Data needed)](#arrange-data-needed-2)
     - [Act](#act-2)
     - [Assert (Expected Outcome)](#assert-expected-outcome-2)
-  - [Test Case D: Edge Case - No token provided](#test-case-d-edge-case---no-token-provided)
+  - [Test Case D: Edge Case - Expired Token](#test-case-d-edge-case---expired-token)
     - [Note](#note-1)
     - [Use case](#use-case-3)
     - [Arrange (Data needed)](#arrange-data-needed-3)
     - [Act](#act-3)
     - [Assert (Expected Outcome)](#assert-expected-outcome-3)
-  - [Test Case E: Edge Case - Malformed Token](#test-case-e-edge-case---malformed-token)
+  - [Test Case E: Edge Case - No token provided](#test-case-e-edge-case---no-token-provided)
     - [Note](#note-2)
     - [Use case](#use-case-4)
     - [Arrange (Data needed)](#arrange-data-needed-4)
     - [Act](#act-4)
     - [Assert (Expected Outcome)](#assert-expected-outcome-4)
-  - [Test Case F: Edge Case - User Tries to check in again after already successfully checking in](#test-case-f-edge-case---user-tries-to-check-in-again-after-already-successfully-checking-in)
+  - [Test Case F: Edge Case - Malformed Token](#test-case-f-edge-case---malformed-token)
     - [Note](#note-3)
     - [Use case](#use-case-5)
     - [Arrange (Data needed)](#arrange-data-needed-5)
     - [Act](#act-5)
     - [Assert (Expected Outcome)](#assert-expected-outcome-5)
-  - [Test Case G: Edge Case - User Tries to check in again after not completing an earlier check in attempt](#test-case-g-edge-case---user-tries-to-check-in-again-after-not-completing-an-earlier-check-in-attempt)
+  - [Test Case G: Edge Case - User Tries to check in again after already successfully checking in](#test-case-g-edge-case---user-tries-to-check-in-again-after-already-successfully-checking-in)
+    - [Note](#note-4)
     - [Use case](#use-case-6)
     - [Arrange (Data needed)](#arrange-data-needed-6)
     - [Act](#act-6)
     - [Assert (Expected Outcome)](#assert-expected-outcome-6)
-  - [Test Case H: Edge Case - User Refreshes the app before finishing the check in process](#test-case-h-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
+  - [Test Case H: Edge Case - User Tries to check in again after not completing an earlier check in attempt](#test-case-h-edge-case---user-tries-to-check-in-again-after-not-completing-an-earlier-check-in-attempt)
     - [Use case](#use-case-7)
     - [Arrange (Data needed)](#arrange-data-needed-7)
     - [Act](#act-7)
     - [Assert (Expected Outcome)](#assert-expected-outcome-7)
+  - [Test Case I: Edge Case - User Refreshes the app before finishing the check in process](#test-case-i-edge-case---user-refreshes-the-app-before-finishing-the-check-in-process)
+    - [Use case](#use-case-8)
+    - [Arrange (Data needed)](#arrange-data-needed-8)
+    - [Act](#act-8)
+    - [Assert (Expected Outcome)](#assert-expected-outcome-8)
 
 ## Scope
 
@@ -128,7 +134,36 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=VALID-TOKE
 - No errors are thrown
 - The user sees a `See Staff` screen with appropriate messaging that matches the mockups
 
-## Test Case C: Edge Case - Expired Token
+## Test Case C: Edge Case - Premature Check-in
+
+> Cypress Test [TBD]
+
+### Note
+
+This case may not be different than other token-based edge cases, but calling this out for coverage.
+
+### Use case
+
+- As a user, I have clicked a link too early (i.e., for an appointment >30 min. in the future).
+  
+### Arrange (Data needed)
+
+- A link to the check in-app with a LoROTA token for appt >30 in the future
+
+Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TOKEN-HERE>
+
+### Act
+
+- The link Loads
+- User should see an error page
+
+### Assert (Expected Outcome)
+
+- Application does not crash
+- The user sees an `Error` screen with appropriate messaging that matches the mockups
+
+
+## Test Case D: Edge Case - Expired Token
 
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.403.on.check-in.cypress.spec.js)
 
@@ -157,7 +192,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TO
 - Application does not crash
 - The user sees an `Error` screen with appropriate messaging that matches the mockups
 
-## Test Case D: Edge Case - No token provided
+## Test Case E: Edge Case - No token provided
 
 > [Cypress test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/no.token.provided.cypress.spec.js)
 
@@ -185,7 +220,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/>
 - Application does not crash
 - The user sees an `Error` screen with appropriate messaging that matches the mockups
 
-## Test Case E: Edge Case - Malformed Token
+## Test Case F: Edge Case - Malformed Token
 
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/malformed.token.cypress.spec.js)
 
@@ -213,7 +248,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=NOT_A_VALI
 - Application does not crash
 - The user sees an `Error` screen with appropriate messaging that matches the mockups
 
-## Test Case F: Edge Case - User Tries to check in again after already successfully checking in
+## Test Case G: Edge Case - User Tries to check in again after already successfully checking in
 
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.404.on.check-in.cypress.spec.js)
 
@@ -241,7 +276,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 - Application does not crash
 - The user sees an `Error` screen with appropriate messaging that matches the mockups
 
-## Test Case G: Edge Case - User Tries to check in again after not completing an earlier check in attempt
+## Test Case H: Edge Case - User Tries to check in again after not completing an earlier check in attempt
 
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
@@ -274,7 +309,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 - No errors are thrown
 - The user sees a confirmation screen with appropriate messaging that matches the mockups
 
-## Test Case H: Edge Case - User Refreshes the app before finishing the check in process
+## Test Case I: Edge Case - User Refreshes the app before finishing the check in process
 
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/session/session.reloads.on.refresh.cypress.spec.js)
 
