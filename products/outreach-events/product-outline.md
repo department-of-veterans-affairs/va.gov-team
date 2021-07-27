@@ -32,7 +32,7 @@ As a content editor:
   
 - 
 
-## Definition of done
+## What Needs to Be Done
 
 **For Short Term Solution (Goal: Put in place by Sept. 1)**
 
