@@ -2,7 +2,7 @@
 
 ## Relevant links
 
-- [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989653/comment/sitemap?mode=i) - will update week of 7/26/2021
+- [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/140606620/comment/sitemap?mode=i) 
 - [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140288788/simulate/no-panels?mode=i)
 - [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i) 
   - The first checkbox shows the loading behavior
@@ -40,8 +40,6 @@ Use prototype links above for latest versions of the prototype.
 - Screen reader users should understand notification groupings in the same way sighted users understand groupings. e.g. using `role="group"`. This will ensure that the full context is provided to screen reader users upon tabbing into a new group or exiting one E.g. "Notify by text, checkbox, checked, Reminders to finish in-progress applications, Applications, claims, decision reviews, and appeals"
 - Lists should be used so screen reader users can known how many notification types exist within each group. A `dl` (definition list) may be most semantically appropriate in this context, but an `ul` unordered list may work with more assistive technology.
 
-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
-
 ### Layout / Components
 
 - H1 gets h2 styling for sizing
@@ -49,10 +47,10 @@ Use prototype links above for latest versions of the prototype.
 - Use style rules from design system for html elements padding and margins
 - Use design system components
   -  for checkboxes
-  - For modal
-  - For error and save confirmation
-    - background only alert
-    - Add icons from the full alerts to the background only alert; this isn't technically in the design system OOB but, other teams use this for auto save confirmation in their forms. Discussed w/ Ryan T and it is fine to use.
+  -  For modal
+  -  For error and save confirmation
+     - background only alert
+     - Add icons from the full alerts to the background only alert; this isn't technically in the design system OOB but, other teams use this for auto save confirmation in their forms. Discussed w/ Ryan T and it is fine to use.
 
 ## Content
 
@@ -62,7 +60,7 @@ Use prototype links above for latest versions of the prototype.
   3. General VA Information and updates
 - Notification items should be listed alphabetically within each group
 - In edit mode, `notify by email` should come before `notify by text`
-- Source of truth: MVP notification groups and items are [captured in this doc](
+- Source of truth: MVP notification groups and items are [captured in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
 
 ### Copy
 
@@ -70,7 +68,7 @@ Use prototype links above for latest versions of the prototype.
 
 Copy below `h1`:
 
-> We’ll use the contact information from your profile to send notifications: 
+> We’ll use the contact information from your profile to send you notifications: 
 >
 > **user email**
 > ​**user mobile phone**
@@ -79,7 +77,13 @@ Copy below `h1`:
 
 **Additional info component**
 
-Copy TBD, coming 7/26/2021
+Label
+
+> Learn more about notification options
+
+Content when expanded
+
+> At this time, we can only offer some notifications by both email and text message. We're working to expand options for more notifications. You'll find new options here as we add them.
 
 **Notification groups, channels, and items**
 
@@ -87,7 +91,7 @@ Copy TBD, coming 7/26/2021
 
 - In the healthcare group, we need to add a note in the bottom, with a link to MHV (directly to profile if you can)
 
-  > You can manage your health care email notifications in [My Health*e*Vet]()
+  > Manage your health care email notifications on [My Health*e*Vet]()
 
 ## Use cases
 
@@ -148,14 +152,13 @@ If a user is opted into text messages or email notifications, and deletes their 
 ### **Successful save**
 
 - Display a success background-only alert immediately above the box the user just clicked
-- Save alert must be announced to screen reader users via `aria-live`. This may be tricky to implement if there is a timer that causes it to disappear. Let's talk to Josh about that. It currently disappears in other areas of the profile; he might bring that up as part of the audit currently in progress as of 4/8/21.
-- Any visible alert should hide when another checkbox is clicked
+- Save alert must be announced to screen reader users via `aria-live`. 
+- Display a `saving...` message as seen in VA.gov forms (above back/continue buttons).
+- Any visible alert should hide when another checkbox is clicked.
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i); use the first checkbox
 
 #### Copy
-
-Will be finalized 7/26/2021
 
 > You've updated your VA [SMS text or email] notifications.
 
