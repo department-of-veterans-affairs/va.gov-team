@@ -44,7 +44,9 @@ An endpoint exists to allow test users to create an appointment in the test Vist
   "195": "Cardiology",
   "62": "Dermatology",
   "23": "General Medicine",
-  "427": "Opthamology"
+  "427": "Opthamology",
+  "429": "Pulmonary",
+  "430": "Sleep Lab"
 }
 ```
 
