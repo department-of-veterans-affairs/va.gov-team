@@ -27,10 +27,17 @@ As a user:
 - I want to search for events by type so that I know what's happening in-person vs. online/virtual
 - I want to search for events by interest/need so that I know if there events of special interest to me (e.g. about VA benefits, about VA education, about VA Community Care etc.)
 - I want to search for events based on my status (Veteran, beneficiary, care-giver, etc.) so that I can find events of special interest to me.
+
+As a national VACO digital comms content editor:
   
-As a content editor:
+-
   
-- 
+  
+  
+As a local VAMC/Vet Center content editor:
+  
+- I want the capability to create events and associate them with my administration so its clear which team created the event (e.g. VHA, VBA, etc.) 
+- I want the capability to 
 
 ## What Needs to Be Done
 
