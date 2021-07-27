@@ -21,10 +21,16 @@
   - **New**
     - Harassment Reporting Tool
   - **Iterate**
+    - Campaign Landing Page
+      - Finalizing [Governance model with stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/governance-model/read-me.md)
+        - Finalizing all self-service components
+        - [ ] Teams site with shareable artifacts
+        - [ ] Analytics/GA reporting
     - Home Page 
       - Home Page Layout to accommodate more Top Tasks
         - [ ] Initiative Brief or Product Outline (focused on swapping low performing links with new links and testing)
         - [Intake ticket to add OAR "File a decision review" link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
+        - User Research planned to test adding link to search at bottom of Top Tasks boxes
       - Home Page Alert Banner to make process/functionality more "systematic" 
         - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md)
         - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
@@ -44,11 +50,6 @@
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
       - [ ] Product Outline for V1.0 of Events
       - [ ] Initiative Brief for Filtering Events
-    - Campaign Landing Page
-      - Finalizing [Governance model with stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/governance-model/read-me.md)
-      - Finalizing all self-service components
-        - [ ] Teams site with shareable artifacts
-        - [ ] Analytics/GA reporting
     - Sitewide Navigation
       - Initiative is led by Meg/Mikki on the IA team -- with details [in this ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/277)
     - Benefit Hubs Optimization - Content & IA 
