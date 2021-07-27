@@ -1,5 +1,10 @@
 ## Outreach Events Calendar Product Outline (v.1.0)
 
+The VA.gov [Outreach Events calendar](https://www.va.gov/outreach-and-events/events/) was quickly built and released as an "at parity" MVP more product -- with very basic funcitonality -- more than <two> years ago.  Since that time, the popularity of the product has grown (to more than 200,000 page views on average per month per Google Analytics) and so have the needs and expectations of the VA business stakeholders.   Indeed, as of the spring of 2021, the Veterans Experience Office has broaded the content rights user base for the national events calendar to digital comms teams at VHA, VBA, OPIA and NCA.
+  
+ 
+
+
 
 ## The Problem to be Solved
 
