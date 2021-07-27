@@ -23,6 +23,20 @@
 </summary>
 
 </details>
+## July 29, 2021 - Stage: Design / Build
+Action items:
+1. Summarize discussion points from Design Intent Review  - Updates from @Brian/Soni/Cassandra
+2. Design Status Update: Flow / Mock Ups (@Cassandra) 
+3. Other items as identified 
+
+Today's Goals: 
+1. Determine what is needed to Finalize User Flow and Intro Page/Form Mocks 
+2. Determine what Content Roundtable / Breakout sessions are needed Forward? Is another breakout session needed?
+3. Design Intent Review Recommendations --> Making items optimal (minimal imput vs. full imput)
+
+
+
+
 
 ## July 22, 2021 - Stage: Define / Design
 Action items:
