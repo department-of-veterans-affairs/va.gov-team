@@ -15,7 +15,7 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
 **High Level User Story/ies**
 
 - As a Veteran user, I need to quickly find VA events of most interest based on a variety of search goals: date, time, location, event type, etc.
-- As a VACO digital comms content editor, I need to quickly publish error-free alerts on the VA.gov homepage at all hours, so that time sensitive information can reach Veterans.
+- As a VACO digital comms content editor, I need to curate events (including create, modify, duplicate, categorize for filtering) in the VA.gov CMS in the most efficient way possible.
 
 
 **Requirements**
