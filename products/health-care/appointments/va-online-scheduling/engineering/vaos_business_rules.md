@@ -44,6 +44,8 @@ In order to open VAOS on va.gov, a user must:
 - Users can choose to sort the facilities by how close they are to their current (browser) location
 - Facilities that are within 100 miles of the residential address or current location (if currently being used) and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options.
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
+- If the user is registered at a Cerner site, facilities in that site are always shown on this page and include a link to the Cerner portal below the radio button
+- If a user choose a Cerner facility and clicks Continue, they're sent to the schedule Cerner page
 
 #### Facility and type of care eligibility check
 
@@ -69,6 +71,12 @@ In order to open VAOS on va.gov, a user must:
         - This is controlled in VATS and can be set to 1 or 2
 - If a user can direct schedule, they're sent to the clinic choice page
 - If a user can only make a request, they're sent to the request calendar page
+
+### Schedule Cerner page
+
+- If a user chose a Cerner facility on the facility choice page, no eligibility checks are performed and they're sent to this page
+- The user is shown the facility contact information and given a link to the Cerner portal
+- Users can progress no further from here, because VAOS does not support scheduling appointments at Cerner sites
 
 ### Clinic choice page
 
