@@ -18,7 +18,7 @@
     - [Arrange (Data needed)](#arrange-data-needed-1)
     - [Act](#act-1)
     - [Assert (Expected Outcome)](#assert-expected-outcome-1)
-  - [Test Case C: Edge Case - Premature Check-in](#test-case-c-edge-case---premature-checkin-in)
+  - [Test Case C: Edge Case - Premature Check-in](#test-case-c-edge-case---premature-check-in)
     - [Note](#note)
     - [Use case](#use-case-2)
     - [Arrange (Data needed)](#arrange-data-needed-2)
@@ -150,7 +150,7 @@ This case may not be different than other token-based edge cases, but calling th
 
 - A link to the check in-app with a LoROTA token for appt >30 in the future
 
-Example: <https://staging.va.gov/health-care/appointment-check-in/?id=EXPIRED-TOKEN-HERE>
+Example: <https://staging.va.gov/health-care/appointment-check-in/?id=TOKEN-HERE>
 
 ### Act
 
