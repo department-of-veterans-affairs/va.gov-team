@@ -37,7 +37,7 @@ Today's Goals:
 
 
 
-
+<details><summary>Previous Agenda Items</summary>
 
 ## July 22, 2021 - Stage: Define / Design
 Action items:
@@ -88,3 +88,5 @@ Today's Goals:
   * PR Code Review - Original Pull Request  
 #### Next Steps: Collaboration Cycle Checkin  
   * Design Intent Review - Once draft designs are finalized 
+  
+</details>
