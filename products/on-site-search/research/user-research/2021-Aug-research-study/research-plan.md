@@ -48,6 +48,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
 
 ### Must have for participants
+- All are Veterans
 - At least 3 people who plan to use their computer for the session
 - At least 3 people who plan to use their smartphone for the session
 - At least 3 participants over 60
