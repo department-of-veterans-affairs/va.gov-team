@@ -37,6 +37,8 @@
 
 ## July 28
 
+* Pride CLP archive/redirect details
+
 [kevin out]
 
 ## July 21
