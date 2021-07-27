@@ -54,12 +54,10 @@
     - Benefit Hubs Optimization - Content & IA 
       - Reducing hierarchy/links in left-nav for Hub pages (as Content moves pages into R&S)
       - Back button or other design element to return to Tier 1 from R&S
-      - Larger item - CMS: COPE Single Q-and-A's
-    - React Widget Refactor
-      - [Problem Statement and Proof of Concept](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/25036)
-  
+      - Larger item - CMS: COPE Single Q-and-A
+
   - **Maintain**
-    - Resources & Support
+    - Resources & Support (with enhanced Video template in backlog)
 
 ### Search & Discovery
 
