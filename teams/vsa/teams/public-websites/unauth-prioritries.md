@@ -24,7 +24,7 @@
     - Campaign Landing Page
       - Finalizing [Governance model with stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/governance-model/read-me.md)
         - Finalizing all self-service components
-        - [ ] Teams site with shareable artifacts for Web Governance Board
+        - [X] [Microsoft Teams site with shareable artifacts for Web Governance Board](https://teams.microsoft.com/l/team/19%3a0PwhhN1I-X_rH2qjwRgqZSbQXA8PKa53mL_0OKm-xpM1%40thread.tacv2/conversations?groupId=d791b7ac-7e88-4e65-a956-8abcc683d26f&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
         - [ ] Analytics/GA + DOMO reporting -- how to systemize?
       - Current CLP Work
         - New CLP for Aug 1 release: [Veteran Experience Action Centers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27515)
@@ -108,5 +108,4 @@
     - Discharge Upgrade Wizard
   - Maintain
     - Find a Yellow Ribbon Program
-  
- 3
+
