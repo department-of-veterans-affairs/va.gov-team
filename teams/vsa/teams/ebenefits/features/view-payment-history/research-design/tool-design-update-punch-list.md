@@ -20,6 +20,7 @@ Reference mockups are available [here.](https://www.sketch.com/s/2cbfbba2-b8c6-4
 - [ ] Gray info box changed to current alert box style `confirm`
 - [ ] Update copy for "What if I find a check that I reported missing?" section:
 	> If you find a check that you reported missing, please don't deposit it. Return it to the U.S. Department of the Treasury and wait for your replacement check. Call this number to find out how to return the original check: XXX-XXX-XXXX.
+	
 	> If you deposit both the original and the replacement check, you'll owe us for the additional payment. U.S. Debt Management Center will contact you about collection.
 - [ ] Need help component added
 	- [ ] Heading: H3, “Need help?”
@@ -40,6 +41,8 @@ Reference mockups are available [here.](https://www.sketch.com/s/2cbfbba2-b8c6-4
 	- [ ] Body: default
 	- [ ] Content: 
 		> If you didn't receive your payment on the date it should have arrived, please wait 3 business days before you contact us. We can't track payments before then.
+		
 		> Note: We don't list direct-deposit payments that are less than $1 or check payments that are less than $5 in your online payment history.
+		
 		> To report a missing payment, contact us at 800-827-1000. Please be ready to give us your address and social security number or VA claim number. If you receive payments through direct deposit, you'll also need your bank account information.
 
