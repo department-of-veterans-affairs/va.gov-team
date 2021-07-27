@@ -1,4 +1,4 @@
-## Outreach Events Calendar Product Outline (v1.0)
+## Outreach Events Calendar Product Outline (v.1.0)
 
 
 ## The Problem to be Solved
