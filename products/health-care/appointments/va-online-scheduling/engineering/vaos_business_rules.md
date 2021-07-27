@@ -19,6 +19,7 @@ In order to open VAOS on va.gov, a user must:
     - For audiology, users are shown the facility type page before choosing the specific audiology type
 - Podiatry is currently only available for community care. Users will see a modal if they select podiatry and they're not community care eligible
 - If a user does not have a residential address, they are shown an alert on this page with a link to the va.gov profile.
+- If a user chooses COVID-19 vaccine and clicks Continue, they're sent to the vaccine flow
 
 ### Community care eligibility check
 
