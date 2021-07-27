@@ -2,6 +2,10 @@
 
 This attempts to be a high-level summary of the various product and business rules that VAOS follows, primarily from a front end or user perspective. It's not meant to be a detailed spec, but hopefully contains all the important rules that 
 
+# VAOS product and business rules
+
+This attempts to be a high-level summary of the various product and business rules that VAOS follows, primarily from a front end or user perspective. It's not meant to be a detailed spec, but hopefully contains all the important rules that 
+
 ## Application level
 
 In order to open VAOS on va.gov, a user must:
@@ -67,3 +71,110 @@ In order to open VAOS on va.gov, a user must:
         - This check does not apply for primary care
     3. Is the user over the request limit for this facility and type of care
         - This is controlled in VATS and can be set to 1 or 2
+- If a user can direct schedule, they're sent to the clinic choice page
+- If a user can only make a request, they're sent to the request calendar page
+
+### Clinic choice page
+
+- If a user can direct schedule, they're shown a list of VistA clinics where:
+    - The clinics support scheduling for the facility and type of care chosen
+    - The clinic has been interacted with in some way by the user in the past 24 months
+- If the user doesn't recognize any of these clinics, there's an option to choose a different clinic, which will put the user in the request path (on the request calendar page)
+- After selecting a clinic, the user is sent to the preferred date page
+
+### Preferred date page
+
+- Users only see this page if they're on the direct schedule path
+- They must enter a date the same as or after today's date
+- After entering a date, the user is sent to the direct schedule calendar page
+
+### Calendar page (direct schedule)
+
+- Users use a calendar picker to choose the time of their appointment
+- The calendar starts on the month of the preferred date
+- The earliest date allowed for scheduling is the day after the current day
+- The latest date allowed for scheduling is 395 days after the current date
+    - This may be further limited if the chosen VistA clinic has a max booking date that's less than 395 days. If that's the case, the front end will not receive any slots after this date
+- The times shown are determined by the time slots returned to the front end based on the configuration of the selected VistA clinic
+- If the preferred date is the current date, then an urgent care warning is shown above the calendar
+- Once a time is chosen, the user is sent to the reason for visit page
+
+### Calendar page (request path)
+
+- Users use a calendar picker to choose their preferred appointment time frames
+- Users are allowed to pick an AM or PM slot on each weekday, up to 3 slots.
+- The calendar starts on the current month
+- The earliest date allowed for scheduling is 5 days after the current day
+- The latest date allowed for scheduling is 120 days after the current date
+- Once preferred times are chosen, then:
+    - For community care requests, they're sent to the community care preferences page
+    - For VA requests, they're sent to the reason for visit page
+
+### Community care preferences
+
+- There are two versions of the preferences page, depending on if the user has a residential address on file
+    - When they have an address, users can choose a provider from a list of providers near their current address
+        - Providers are fetched from PPMS, using specialty codes mapped to the type of care the user has chosen
+        - Providers are sorted by closest to the user's residential address
+        - Only one provider can be chosen
+        - Providers can also be sorted by distance from the user's current location (via their browsers's location information)
+    - When they do not have an address, users can enter provider name, phone, and address information
+        - They're also given an option to choose the preferred language of their provider
+- On both versions of the page, if a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
+- After the user has chosen their parent facility and provider, they're sent to the community care language page (if they have a residential address) or the reason for appointment page (if they didn't have an address)
+
+### Community care language page
+
+- A user can choose the preferred language of their provider
+- This page is only shown in the community care request path and if the user does not have a residential address on file
+- After choosing a language, the user is sent to the reason for appointment page
+
+### Reason for visit page
+
+- Users can enter information about why they're making or requesting an appointment
+- For VA requests and direct scheduling:
+    - A user must choose a purpose from a set list:
+        - Routine/Follow-up
+        - New issue
+        - Medication concern
+        - Other
+    - A user must also enter text describing the reason for their visit
+- For community care requests, a user can enter an optional reason for appointment
+- When on the direct path, the chosen purpose and reason text are combined and added to the bookingNotes field of the appointment
+- When on the request path, the reason text is added as a request message on the backend and the selected reason is added in the purpose of visit field
+- After a user enters their reason information, then
+    - For community care requests or the direct path, they're sent to the contact info page
+    - For VA requests, they're sent to the visit type page
+
+### Visit type page (request path)
+
+- Users must choose the type of visit they'd like to have
+    - Office visit
+    - Phone call
+    - Video appointment
+- After the user chooses the type of visit, they're sent to the contact info page
+
+### Contact information page
+
+- A user can enter their phone number and email address on this page
+- The phone and email address fields are pre-populated with data from VA Profile
+- If the user is on the request path, they they will also be required to choose a preferred time for the scheduler to call them: morning, afternoon, or evening
+    - User can choose any combination of these options
+- After contact information is entered, the user is sent to the review page
+
+
+### Review page
+
+- The user is presented with the information entered on the previous pages in the form
+- Edit links in different sections take the user back to that page, and the user has to navigate back through the flow again after making their change
+- After clicking Submit:
+    - When there is an error, an error alert will be shown under the button with information about what went wrong and how to contact the facility
+    - If a request was successfully made, the user is redirected to the detail page for that request
+        - A confirmation message is shown on the detail page
+    - If an appointment was made successfully, the appointment confirmation page is shown
+
+### Confirmation page
+
+- The appointment confirmation page is shown after a successful directly scheduled appointment
+- It is meant to look like the appointment detail page
+
