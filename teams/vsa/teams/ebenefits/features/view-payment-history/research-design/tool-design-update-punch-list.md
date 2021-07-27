@@ -35,7 +35,7 @@ Reference mockups are available [here.](https://www.sketch.com/s/2cbfbba2-b8c6-4
 	- [ ] Heading: H2 “What if I need to change my direct deposit or contact information?”
 	- [ ] Body: default, use existing production copy
 	- [ ] Content:
-		> To change your bank information, go to your profile and click on Direct deposit information. Any changes you make in your VA.gov profile will update across these benefits: disability compensation, pension, claims and appeals, Veteran Readiness and Employment (VR&E), and VA health care.
+		> To change your bank information, go to your profile and click on **Direct deposit information**. Any changes you make in your VA.gov profile will update across these benefits: disability compensation, pension, claims and appeals, Veteran Readiness and Employment (VR&E), and VA health care.
 - [ ] “What if I am missing a payment?” moved below Payments returned section
 	- [ ] Heading: H2 “What if I am missing a payment?”
 	- [ ] Body: default
