@@ -24,8 +24,14 @@
     - Campaign Landing Page
       - Finalizing [Governance model with stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/governance-model/read-me.md)
         - Finalizing all self-service components
-        - [ ] Teams site with shareable artifacts
-        - [ ] Analytics/GA reporting
+        - [ ] Teams site with shareable artifacts for Web Governance Board
+        - [ ] Analytics/GA + DOMO reporting -- how to systemize?
+      - Current CLP Work
+        - New CLP for Aug 1 release: [Veteran Experience Action Centers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27515)
+        - Archive/Un-Publish
+          - [Pride Month](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27904)
+          - Trust: Leave through end of year, then check with Tim Hudak at VEO
+          - COVID Questions: Leave through end of year, then check with Danielle (will likely remain up into 2022)
     - Home Page 
       - Home Page Layout to accommodate more Top Tasks
         - [ ] Initiative Brief or Product Outline (focused on swapping low performing links with new links and testing)
