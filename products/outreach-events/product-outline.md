@@ -45,20 +45,10 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
   
 ## What Needs to Be Done
 
-**For Short Term Solution (Goal: Put in place by Sept. 1)**
+**In Short-term (by Aug. 6**
 
-- [ ] Set meeting with Platform for collaboration on improving communication, response, redundancy and speed to publish issues/gaps.
-- [ ] Create tickets for solutioning
+- [ ] Review this outline with Dave/Kev for "fleshing out"
 
-**For Mid Term Solution (Goal: Implement by Oct. 1)**
-
-- [ ] Confirm recommended UX changes with Ryan T.
-- [ ] Create ticket for backlog and implementation
-
-**For Long Term Solution (Goal: Implement in Q1/2022)**
-
-- [ ] Determine LOE for CMS solution and where it fits based on other CMS priorities
-- [ ] Create ticket for backlog(s)
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
