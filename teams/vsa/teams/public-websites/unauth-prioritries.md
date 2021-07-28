@@ -94,7 +94,8 @@
       - Type Ahead Everywhere Component
       - Video in Search Results
   - Iterate
-    - Type Ahead
+    - Type Ahead Everywhere
+    - [Best Bets for VAMCs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25534)
     - [Site Indexing/Search Relevancy](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25556)
   - Maintain
     - Site SEO Optimization (e.g. fix errors)
