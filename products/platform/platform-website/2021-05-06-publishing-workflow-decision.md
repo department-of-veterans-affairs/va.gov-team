@@ -65,7 +65,7 @@ The Content team holds sole publishing power.  This allows us to enforce rigorou
 
 ## Decision
 
-To come.
+Add everyone to the `scroll-viewport-admins` user group so that individuals experience minimal barriers to contributing to the Platform website as possible.
 
 
 notes with Amy:
