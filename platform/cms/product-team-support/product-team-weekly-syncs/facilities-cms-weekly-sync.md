@@ -27,11 +27,31 @@
 
 * When to contact Lighthouse vs CMS support
   * Facility info is incorrect (not when requesting a modification - ie: additional phone number fields, etc)
+  * How to make more clear in the UI
+  * During office hours, Jessica mentioned a specific POC to direct requests but LH has deflected.
+  * Possibly add link to KB article in the CMS UI
 * Add address line 2 for CAPs (Suite #, etc)
+  * Dave and Kev may already be in sync on this
+  * Will be FE work to pull in
 * Remove a Vet Center service is only available to content admin or above
+  * Expectation is that users have the remove ability
+  * CMS team to research what's going on
+  * May need to prevent them from duplicating in a different way
+  * Can wait for now because we're catching before publishing currently
 * Automate "Nearby Vet Center" list
+  * Section where they declare which ones they want included where users are getting confused
+  * Can we default to everything within an x radius to be included?
+  * VCs have lat/long data so technically possible
+  * What about someone elses CAP? on the fringe between 2 VCs
+    * A: CAPs don't currently have lat/long data so not possible until available; can add once available; address for the CAP isn't always its physical location
 * VAMC: Online scheduling toggle switch should be set to "unknown" or suppress
+  * PAO has control over scheduling availability is disconnected from actual system
+  * Request from Dave to set to "unknown" or suppress so that it doesn't create misperceptions for Veterans; until we land on the source of truth for this data
 * Meta tag question: description
+  * Snippet that google creates when searching for VCs because there's no description tag
+  * Facilities reccommending description meta tag for main page
+  * Would want patterned text
+  * Facilities team has a request currently in for Content Team, once fulfilled the CMS team can prioritize with Dave
 
 ## July 21
 
