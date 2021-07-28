@@ -29,7 +29,7 @@
           - [CMS Knowledge Center - CMS Basics](https://prod.cms.va.gov/help/cms-basics)
           - [CMS Knowledge Center - Campaign Landing Page ](https://prod.cms.va.gov/help/campaign-landing-pages/campaign-landing-pages)
           - [CMS Knowledge Center - How to Create/Clone a CLP](https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page)
-          - CMS Knowledge Center - How to Create Video (In Progress)
+          - CMS Knowledge Center - How to Create Video (in PPT Work in Progress)
           - Note: We expect experienced CLP users -- Tim Hudak at VEO & John Santos at OPIA -- to train their teammates.  There are no plans for the CMS team to provide in-person training)
       - Current CLP Work
         - New CLP for Aug 1 release: [Veteran Experience Action Centers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27515)
