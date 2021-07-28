@@ -33,6 +33,7 @@
 * Add address line 2 for CAPs (Suite #, etc)
   * Dave and Kev may already be in sync on this
   * Will be FE work to pull in
+  * CMS issue [#5980](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5980)
 * Remove a Vet Center service is only available to content admin or above
   * Expectation is that users have the remove ability
   * CMS team to research what's going on
