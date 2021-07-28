@@ -6,37 +6,15 @@ To test the Check in process, an appointment must exist in the test VistA instan
 
 Additionally, to initiate the Check In Experience workflow, the tester must send an SMS message from a phone number known to the vetext system.
 
-Endpoints are available to allow test users to create appointments and update a phone number for a specific user.
+Endpoints are available to allow test users to view thier existing appointments, create a new appointment, delete an existing appointment and update the phone number associated with their assigned test user. An additional endpoint is available to see the available appointment slots for a specific clinic; a slot must be available to make an appointment.
 
-**Note**: All endpoints must be executed from within the VA Network
+These endpoints require entering the patientDfn (this is the patient Identifier in a VistA system) and ClinicIen (this is the clinic identifier in a VistA system). The patientDFN and clinicIen values configured in the test VistA syteme are noted below.
 
-## Create Appointment Endpoint
-
-An endpoint exists to allow test users to create an appointment in the test VistA.
-
-**Note**: There must be an available appointment timeslot in the clinic. Currently the error message returned is not clear. If you encounter errors makeing an appointment, please try a different time. We are working on the ability to show available appointment time slots for a clinic.
-
-### Required Parameters
-
-```json
-{
-  "patientDFN": "3",
-  "startDateTime": "2021-07-30 09:00",
-  "endDateTime": "2021-07-30 09:30",
-  "apptLength": "30",
-  "clinicIen": "195",
-  "clinicName": "Cardiology"
-}
-```
-
-- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
-- `startDateTime` - the start date and time of the appointment, in format yyyy-mm-dd hh:mm.
-- `endDateTime` - the start date and time of the appointment, in format yyyy-mm-dd hh:mm.
-- `apptLength` - the length of the appointment. This should corespond to the start and end dateTimes.
-- `clinicIen` - This is the VistA identifier for the clinic where the appointment will be scheduled. There are
-- `clinicName` - This is the name of the clinic where the appointment will be scheduled.
+## VistA Configuration Data
 
 ### Available Clinics
+
+- formatted as `clinicIen: clinicName`
 
 ```json
 {
@@ -52,7 +30,7 @@ An endpoint exists to allow test users to create an appointment in the test Vist
 
 ### Assigned DFNs
 
-Format is `"patientIcn": "Name (Assigned To)"`
+Formatted as `"patientIcn": "Name (Assigned To)"`
 
 ```json
 {
@@ -73,11 +51,45 @@ Format is `"patientIcn": "Name (Assigned To)"`
 }
 ```
 
-### /appointment URL
+#
+
+## Endpoints
+
+**Note**: All endpoints must be executed from within the VA Network
+
+Replace all `<EXAMPLE>` values in smaple code with real values prior to executing.
+
+## Appointments Endpoint
+
+This RESTful endpoint provides `GET`, `POST` and `DELETE` actions on appointments in the test VistA.
 
 `https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments`
 
-### /appointment POST curl Statement
+## `POST` - Make Appointment
+
+**Note**: There must be an available appointment timeslot in the clinic.
+
+### Parameters as Example
+
+```json
+{
+  "patientDFN": "3",
+  "startDateTime": "2021-07-30 09:00",
+  "endDateTime": "2021-07-30 09:30",
+  "apptLength": "30",
+  "clinicIen": "195",
+  "clinicName": "Cardiology"
+}
+```
+
+- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
+- `startDateTime` - the start date and time of the appointment, in format yyyy-mm-dd hh:mm.
+- `endDateTime` - the end date and time of the appointment, in format yyyy-mm-dd hh:mm.
+- `apptLength` - the length of the appointment. This should corespond to the start and end dateTimes.
+- `clinicIen` - This is the VistA identifier for the clinic where the appointment will be made.
+- `clinicName` - This is the name of the clinic where the appointment will be made.
+
+### curl Example
 
 ```bash
 curl --request POST \
@@ -97,11 +109,136 @@ curl --request POST \
 }'
 ```
 
-## Update Phone Number Endpoint
+### Expected Responses
 
-A `/patients` endpoint exists to allow the phone number associated with a test PatientDfn to be changed. This endpoint will update the VistA Patient record and the vetext database. The primary use case for this is to allow testing teams to share a VistA test user by modifying the phone number to be that of the current tester, such that the SMS workflow will work from that testers mobile phone.
+### Success
 
-### Required Parameters
+- 200 OK - `Appointment Created at 2021-07-27 18:00 in Sleep Lab (430)`
+
+### Failure
+
+- 400 Bad Request - With the following statuses:
+
+  - Cannot create appointment because of OVERBOOK
+  - Cannot create appointment because NO OPEN SLOTS
+  - Cannot create appointment because ALREADY SCHEDULED AT SAME TIME
+  - Cannot create appointment because APPOINTMENT COULD NOT BE CREATED
+
+- 502 Bad Gateway - This indicates an issue with the AWS Lambda or a downstream dependency
+
+## `GET` - Get Appointments for Date
+
+### Parameters as Example
+
+```json
+{
+  "patientDFN": "3",
+  "date": "2021-07-30"
+}
+```
+
+- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
+- `date` - the date to query for appointments, in format yyyy-mm-dd.
+
+### curl Example
+
+```bash
+curl --request GET \
+  --url https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/ \
+  --header 'Content-Type: application/json' \
+  --header 'x-api-key: <API KEY>' \
+  --header 'x-apigw-api-id: ij4ry1zth2' \
+  --data '{
+  "body": {
+    "patientDfn": "3",
+    "date": "2021-07-27"
+  }
+}'
+```
+
+## `DELETE` - Delete an Appointment
+
+### Parameters as Example
+
+```json
+{
+  "patientDFN": "3",
+  "startDateTime": "2021-07-30 09:00",
+  "apptLength": "30",
+  "clinicIen": "195",
+  "clinicName": "Cardiology"
+}
+```
+
+- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
+- `startDateTime` - the start date and time of the appointment, in format yyyy-mm-dd hh:mm.
+- `apptLength` - the length of the appointment.
+- `clinicIen` - This is the VistA identifier for the clinic where the appointment will be deleted.
+- `clinicName` - This is the name of the clinic where the appointment will be deleted.
+
+### curl Example
+
+```bash
+curl --request DELETE \
+  --url https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments \
+  --header 'Content-Type: application/json' \
+  --header 'x-api-key: <API KEY>' \
+  --header 'x-apigw-api-id: ij4ry1zth2' \
+  --data '{
+  "body": {
+    "patientDfn": "3",
+    "startDateTime": "2021-07-27 11:30",
+    "clinicIen": "195",
+    "clinicName": "Cardiology",
+    "apptLength": "30"
+  }
+}'
+```
+
+## Appointment Slots endpoint
+
+This endpoint provides a GET action to query the VistA system for available appointment slots in a specific clinic for a specified date.
+
+`https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/slots`
+
+### Parameters and Example
+
+```json
+{
+  "date": "2021-07-30",
+  "clinicIen": "195",
+  "status": "available"
+}
+```
+
+- `clinicIen` - This is the VistA identifier for the clinic where the appointment availability will be queried.
+- `date` - The date of the appointment availability
+- `status` - The status of the appointments to be queried. To find appointment slots that can be scheduled into set status to `available`. To see all appointments regardless of status, completely remove the status paramater from the request.
+
+### curl Example
+
+```bash
+curl --request GET \
+  --url https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/slots \
+  --header 'Content-Type: application/json' \
+  --header 'x-api-key: <API KEY>' \
+  --header 'x-apigw-api-id: ij4ry1zth2' \
+  --data '{
+  "body": {
+    "clinicIen": "430",
+    "date": "2021-07-27",
+    "status": "available"
+  }
+}'
+```
+
+## Patients Endpoint
+
+This endpoint provides a PUT action to allow a tester to update the phone number associated with their assigned test patient. This endpoint will update both the VistA Patient record and the vetext database used to receive SMS messages for Check In Experience. The primary use case for this is to allow testing teams to share a VistA test user by modifying the phone number to be that of the current tester, such that the SMS workflow will work from that testers mobile phone.
+
+`https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/patients`
+
+### Parameters as Example
 
 ```json
 {
@@ -112,11 +249,7 @@ A `/patients` endpoint exists to allow the phone number associated with a test P
 }
 ```
 
-### /patients URL
-
-`https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/patients`
-
-### /patients PUT curl Statement
+### curl Statement
 
 ```bash
 curl --request PUT \
@@ -132,60 +265,17 @@ curl --request PUT \
 }'
 ```
 
-#
-
-## Endpoint Execution
-
-### Using Curl
-
-- **Note**: replace `<DFN>` with the appropriate DFN your team has been assigned.
-- **Note**: replace `<API KEY>` with the API Key delivered separately
-
-```bash
-curl --request POST \
-  --url https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments \
-  --header 'Content-Type: application/json' \
-  --header 'x-apigw-api-id: ij4ry1zth2' \
-  --header 'x-api-key: <API KEY>' \
-  --data '{
-  "body": {
-    "patientDfn": "<DFN>",
-    "startDateTime": "2021-07-22 12:00",
-    "endDateTime": "2021-07-22 12:30",
-    "clinicIen": "195",
-    "clinicName": "Cardiology",
-    "apptLength": "30"
-  }
-}'
-```
-
-#
-
-### Using [insomnia](https://insomnia.rest/)
-
-The easist way to import a curl statement into insomnia is to copy the complete curl statement into the device clipboard, choose `import data` from insomnia preferences and selct `import from clipboard`. This will configure ab insomnia endpoint that mimics the behavior of the curl statement. It is recommended to rename the endpoint in insomnia to something descriptive like `CIE - Make Appointment`. It is also recommended to create a collection in insomnia, and import all related endpoints into that collection.
-
 # End to End Testing Workflow
 
 ## Create Appointment
 
 Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the clinicIen at the time specified in `startDateTime`.
 
-- **Note**: At this time the API returns an unhelpful error message if there is no available appointment slot; this error should be more clear in the future. Additionally, we are thinking through how we might surface the available time slots for each clinic in an easy to use way.
-
-When an appointment has been successfully created, a response similar to the following will be returned:
-
-- `Appointment created at <startDateTime>`
-
-If the test Patient already has an appointment scheudled in any clinic at the same `startDateTime`, the following response will be returned:
-
-- `"APPOINTMENT IN <clinicName> ALREADY SCHEDULED AT THE SAME TIME."`
+- **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into
 
 Once the appointment has been scheduled, send a text message to initiate the Check In Experience workflow.
 
-- **Note**: ~~Currently the time window that an appointment can be checked in to is 30 minutes prior to the appointment start time.~~
-
-- **Note: There is currently a bug in the system such that the valid appointment check in time starts from the time the initial text message is sent and ends 30 minutes later. This Note will be removed when the bug is fixed.**
+- **Note**: Currently the time window that an appointment can be checked in to is 30 minutes prior to and 10 minutes past the appointment start time.
 
 ## Send Text
 
