@@ -3,8 +3,8 @@ When we set up the form fields for the [Form Name] we added a schema into `vets-
 
 ## Tasks
 - [ ] Set up test file
-- [ ] Write unit tests for [Form Name] schema in `vets-json-schema`
-- [ ] Submit a PR in `vets-json-schem` for review
+- [ ] Write unit tests for the [Form Name] application schema in `vets-json-schema`
+- [ ] Submit a PR in `vets-json-schema` for review
 
 ## Acceptance criteria
 - [ ] The schema for [Form Name] in `vets-json-schema` has been unit tested to 80% coverage
