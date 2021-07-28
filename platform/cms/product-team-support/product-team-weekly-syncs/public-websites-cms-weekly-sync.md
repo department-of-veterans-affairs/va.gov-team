@@ -38,6 +38,28 @@
 ## July 28
 
 * Pride CLP archive/redirect details
+  * Short term / long term strategies
+  * No burning need to take down
+  * Possibilities laid out by Mikki (what's easiest, what's smart, what's a good user experience, what provides the most SEO value):
+    * Don't take it down, update content to summarize event. Show VA's position on the topic, and prompt for the next year.  The vanity URL and CLP do not need to be retired, traffic can still hit the page. 
+    * Take it down, use temporary redirects in order to resurrect next year
+    * Take the page down, use the year/date in the canonical URLs going forward so we can fully retire it each year.  I'd prefer not to do that with the vanity URLs, however.
+    * Future direction...we could use a different canonical URL structure for events (i.e. va.gov/events/mental-health-awareness-month) and identify a strategy specific to events versus general campaigns, because events are a bit different.
+      * Suggestion to redirect under events
+      * Jen Lee was a strong proponent to let them die
+      * Possible seasonal CLPs
+      * When Mikki returns, John and Brian to sync and orchestrate the change. Will recommend using a different canonical URL structure
+* Homepage banner questions
+  * PW would like to address in the next month if possible
+  * Biggest risk = if someone publishes the alert and something beyond CMS control blocks content release, no current mechanism to notify people
+  * John to explore with OCTO-DE on whether they want to support off-hours activity
+  * GovDelivery messages doesn't go out if content doesn't go out. does that need to be revisited?
+* CLP training requirements
+  * All Users, Editorial workflow
+  * Partner with an existing person or with John
+  * CLP specific training being worked on
+* Outreach Hub training requirements
+  * All Users, Events training
 
 [kevin out]
 
