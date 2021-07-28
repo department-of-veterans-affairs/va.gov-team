@@ -45,10 +45,11 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
   
 ## What Needs to Be Done
 
-**In Short-term (by Aug. 6**
+**In Short-term (by Aug. 6)**
 
 - [ ] Review this outline with Dave/Kev for "fleshing out"
-
+- [ ] Identify next iteration of product enhancement work -- CMS AX experience, front-end user experience (e.g. how will filtering work from a user/UX perspective?)
+  
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
