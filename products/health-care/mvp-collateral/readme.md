@@ -36,6 +36,21 @@ For Women Veteran’s Day in June 2021, you can spread the word about MVP at you
 - [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
 - [VAntage Point story about PSA](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
 
+### Testimonial videos
+
+- [Army Veteran Deb Kramer on joining VA's genetic research program](https://youtu.be/xxU9yzMPU_8)
+- [Army Veteran Dr. Jennifer MacDonald on joining VA's genetic research program, part I](https://youtu.be/21YLiM_1CIs)
+- [Army Veteran Dr. Jennifer MacDonald on joining VA's genetic research program, part II](https://youtu.be/MpfSI8ti948)
+- [Navy Veteran Ana Claudio on joining VA's genetic research program](https://youtu.be/cYOqgRbMhY4)
+- [Army Veteran Elizabeth Estabrooks on joining VA's genetic research program](https://youtu.be/40shx_tneIA)
+- [Army Veteran Kafi Joseph on joining VA's genetic research program](https://youtu.be/_zslgpCj-ls)
+- [Army Veteran Kayla Williams on joining VA's genetic research program, part I](https://youtu.be/anjuflzJgGs)
+- [Army Veteran Kayla Williams on joining VA's genetic research program, part II](https://youtu.be/FWL35E_Qeys)
+- [Army Veteran Kayla Williams on joining VA's genetic research program, part III](https://youtu.be/DcNfH_No1SU)
+- [Navy Veteran Missina Schallus on joining VA's genetic research program](https://youtu.be/SvlKH2Z-6dE)
+- [Army Veteran Tanya Bradsher on joining VA's genetic research program](https://youtu.be/-_IL668DFp4)
+ 
+
 
 ## Feature story for VISN and VAMC websites
 
