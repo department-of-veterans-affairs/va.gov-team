@@ -1,6 +1,6 @@
 # VAOS on VA.gov Roadmap
 
-![vaos-product-roadmap](images/vaos-product-roadmap.png)
+![vaos-product-roadmap](product/images/vaos-product-roadmap.png)
 
 
 Updated July 28, 2021
