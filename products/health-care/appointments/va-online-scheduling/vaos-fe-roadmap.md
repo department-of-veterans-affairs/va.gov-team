@@ -5,4 +5,4 @@
 
 Updated July 28, 2021
 
-_Note-Prioriites are subject to change_
+_Note-Priorities are subject to change_
