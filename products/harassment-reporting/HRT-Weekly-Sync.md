@@ -25,15 +25,19 @@
 </details>
 
 ## July 29, 2021 - Stage: Design / Build
-Action items:
+### Action items:
 1. Summarize discussion points from Design Intent Review  - Updates from @Brian/Soni/Cassandra
-2. Design Status Update: Flow / Mock Ups (@Cassandra) 
-3. Other items as identified 
+  - Trauma Design Best Practices (Martha Wilkes/Josh Kim) 
+  - Shorten Input Items (Required Vs. Optional inputs)
+3. Design Status Update: Flow / Mock Ups (@Cassandra) 
+4. FE Implimentation elements - Landing/Intro Page + Form Flow 
+5. Email to Larry for several request items (from Form Flow discussion)
 
-Today's Goals: 
-1. Determine what is needed to Finalize User Flow and Intro Page/Form Mocks 
-2. Determine what Content Roundtable / Breakout sessions are needed Forward? Is another breakout session needed?
-3. Design Intent Review Recommendations --> Making items optimal (minimal imput vs. full imput)
+### Today's Goals: 
+1. Determine what is needed to Finalize User Flow ISO Intro Page/Form Mock Ups/Prototypes 
+
+### Next Steps 
+Deisgn Mockups --> Prototypes --> User Research (August to September) 
 
 
 
