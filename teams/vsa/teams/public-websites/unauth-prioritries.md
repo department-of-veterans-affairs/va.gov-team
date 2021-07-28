@@ -26,11 +26,11 @@
         - [X] [Microsoft Teams site with shareable artifacts for Web Governance Board](https://teams.microsoft.com/l/team/19%3a0PwhhN1I-X_rH2qjwRgqZSbQXA8PKa53mL_0OKm-xpM1%40thread.tacv2/conversations?groupId=d791b7ac-7e88-4e65-a956-8abcc683d26f&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
         - [ ] Analytics/GA + DOMO reporting -- how to systemize?
         - [ ] On-boarding and Training Elements
-              - [CMS Knowledge Center - CMS Basics](https://prod.cms.va.gov/help/cms-basics)
-              - [CMS Knowledge Center - Campaign Landing Page ](https://prod.cms.va.gov/help/campaign-landing-pages/campaign-landing-pages)
-              - [CMS Knowledge Center - How to Create/Clone a CLP](https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page)
-              - CMS Knowledge Center - How to Create Video (In Progress)
-              - Note: We expect experienced CLP users -- Tim Hudak at VEO & John Santos at OPIA -- to train their teammates.  There are no plans for the CMS team to provide in-person training)
+          - [CMS Knowledge Center - CMS Basics](https://prod.cms.va.gov/help/cms-basics)
+          - [CMS Knowledge Center - Campaign Landing Page ](https://prod.cms.va.gov/help/campaign-landing-pages/campaign-landing-pages)
+          - [CMS Knowledge Center - How to Create/Clone a CLP](https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page)
+          - CMS Knowledge Center - How to Create Video (In Progress)
+          - Note: We expect experienced CLP users -- Tim Hudak at VEO & John Santos at OPIA -- to train their teammates.  There are no plans for the CMS team to provide in-person training)
       - Current CLP Work
         - New CLP for Aug 1 release: [Veteran Experience Action Centers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27515)
         - Archive/Un-Publish
