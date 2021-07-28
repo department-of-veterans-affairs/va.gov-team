@@ -42,7 +42,15 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
   
 - I want < > so that I can < >.
 
+
+**As the Outreach Events product owner:**
+
+- I want an intuitive UX which allows users to narrow their search for events in an intutive way -- on desktop and mobile -- so their experience is efficient and more personalize.  (Note: Is this a map interface, for example?)
+-
   
+ 
+  
+
 ## What Needs to Be Done
 
 **In Short-term (by Aug. 6)**
