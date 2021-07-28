@@ -72,7 +72,7 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
   
   <img width="969" alt="Screen Shot 2021-07-28 at 12 50 18 PM" src="https://user-images.githubusercontent.com/63107147/127363797-d39057d4-171a-42d8-977e-4a2787d44384.png">
 
-**TheEventsCalendar.com (WordPress Plug In)-https://demo.theeventscalendar.com/
+**TheEventsCalendar.com (WordPress Plug In)** - https://demo.theeventscalendar.com/
   
 <img width="859" alt="Screen Shot 2021-07-28 at 12 54 39 PM" src="https://user-images.githubusercontent.com/63107147/127364295-652dcc77-e239-4ed8-8535-6f6b037b9cc6.png">
 
