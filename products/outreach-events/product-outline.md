@@ -60,6 +60,7 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
 
 ## Additional Background
 
+  - VEO, the business "owner" of Outreach and Events Hub, has extended content edit capability and rights to leads in other VACO digital comms teams [as outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md)
 
 ## Screenshots
 
