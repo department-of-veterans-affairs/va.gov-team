@@ -4,9 +4,8 @@
 
 - [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/140606620/comment/sitemap?mode=i) 
 - [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140288788/simulate/no-panels?mode=i)
-- [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i) 
-  - The first checkbox shows the loading behavior
-  - data reflected is not accurate (some notifications have been added/removed to demonstrate behavior)
+- [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140637426/simulate/sitemap?mode=i) 
+  - Data reflected is not accurate (some notifications have been added/removed to demonstrate behavior)
 - [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md)
 
 ## Description
@@ -151,8 +150,8 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 ### **Successful save**
 
-- Display a success background-only alert immediately above the box the user just clicked
-- Save alert must be announced to screen reader users via `aria-live`. 
+- Display a success background-only alert immediately below the box the user just clicked
+- Save alert must be announced to screen reader users via `aria-live="polite"`. 
 - Any visible alert should hide when another checkbox is clicked.
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i); use the first checkbox
@@ -173,7 +172,7 @@ Display error alert immediately after `h1`
 
 ### Save failure
 
-- Display background color only error alert above the checkbox clicked.
+- Display background color only error alert below the checkbox clicked.
 - Any visible alert should hide when another checkbox is clicked.
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376467/simulate/sitemap?mode=i)
