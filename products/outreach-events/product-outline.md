@@ -45,10 +45,7 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
 
 **As the Outreach Events product owner:**
 
-- I want an intuitive UX which allows users to narrow their search for events in an intutive way -- on desktop and mobile -- so their experience is efficient and more personalize.  (Note: Is this a map interface, for example?)
--
-  
- 
+- I want an intuitive UX which allows users to narrow their search for events in an intutive way -- on desktop and mobile -- so their experience is efficient and more personalizable.  (Note: Is this a map interface, for example?)
   
 
 ## What Needs to Be Done
