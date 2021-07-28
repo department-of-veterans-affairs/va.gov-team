@@ -30,8 +30,8 @@
 
 **Page** | **URL** | **Breadcrumb** | **Description**
 --- | --- | --- | ---
-Check-in task flow - primary url   |  www.va.gov/health-care/appointment-check-in/   |  None |  - Breadcrumb should be suppressed/hidden to reduce options to exit flow since they cannot navigate back, and although tool lives within va.gov, it is not findable via search/navigation, so location within site is irrelevant. <br> 
-Check-in task flow - chapter slugs | .../insurance  <br> .../details <br> .../complete <br> .../see-staff | None | Individual chapters/pages of the flow will each have their own final url slug. Items shown are suggestions, final slugs can be determined by the team.  They should be 1-2 words max, use understandable key words, and relate to the specific purpose of that page.  
+Check-in task flow - primary url   |  www.va.gov/health-care/appointment-check-in/   |  None |  - Breadcrumb should be suppressed/hidden to reduce options to exit flow since they cannot navigate back, and although tool lives within va.gov, it is not findable via search/navigation, so location within site is irrelevant. 
+Check-in task flow - chapter slugs | examples: <br> .../insurance  <br> .../details <br> .../complete <br> .../see-staff | None | - Individual chapters/pages of the flow will each have their own final url slug. Items shown are suggestions, final slugs can be determined by the team.  They should be 1-2 words max, use understandable key words, and relate to the specific purpose of that page.  <br> - Breadcrumb should be suppressed/hidden to reduce options to exit flow since they cannot navigate back, and although tool lives within va.gov, it is not findable via search/navigation, so location within site is irrelevant. <br> - Alternative option is to add a "< Back" link in place of the breadcrumb. 
 
 
 **Placement of check-in pages within the hierarchy/organization of VA.gov**
