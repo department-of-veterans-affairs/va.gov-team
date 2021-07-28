@@ -31,6 +31,7 @@
 * Remove a Vet Center service is only available to content admin or above
 * Automate "Nearby Vet Center" list
 * VAMC: Online scheduling toggle switch should be set to "unknown" or suppress
+* Meta tag question: description
 
 ## July 21
 
