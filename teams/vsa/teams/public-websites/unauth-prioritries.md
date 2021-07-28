@@ -53,7 +53,7 @@
         - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md)
         - [Initial Wireframes Concept (IA)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9?sender=johnhashimoto4253)
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
-      - [ ] Product Outline for V1.0 of Events
+      - [X] [Product Outline for V1.0 of Events](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md)
       - [ ] Initiative Brief for Filtering Events
     - Sitewide Navigation
       - Initiative is led by Meg/Mikki on the IA team -- with details [in this ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/277)
