@@ -30,8 +30,8 @@ As a user:
 
 As a national VACO digital comms content editor:
   
--
-  
+- I want a better CMS authoring experience 
+
   
   
 As a local VAMC/Vet Center content editor:
@@ -60,6 +60,7 @@ As a local VAMC/Vet Center content editor:
 
 ## Relevant Links
 
+  - [Events Hub Super Epic from March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
 
 
 ## Additional Background
