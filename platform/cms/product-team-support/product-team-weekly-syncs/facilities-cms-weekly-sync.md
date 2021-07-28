@@ -29,7 +29,7 @@
   * Facility info is incorrect (not when requesting a modification - ie: additional phone number fields, etc)
   * How to make more clear in the UI
   * During office hours, Jessica mentioned a specific POC to direct requests but LH has deflected.
-  * Possibly add link to KB article in the CMS UI
+  * Possibly add link to KB article in the CMS UI https://prod.cms.va.gov/node/23533
 * Add address line 2 for CAPs (Suite #, etc)
   * Dave and Kev may already be in sync on this
   * Will be FE work to pull in
@@ -38,6 +38,7 @@
   * CMS team to research what's going on
   * May need to prevent them from duplicating in a different way
   * Can wait for now because we're catching before publishing currently
+  * See Slack https://dsva.slack.com/archives/C02730UEZPS/p1627066941051900, editor was able to add duplicate service accordion for military sexual trauma care but unable to remove duplicate, editor didn't have publisher access so couldn't archive it and didn't have a Remove button, so Michelle had to remove the accordion
 * Automate "Nearby Vet Center" list
   * Section where they declare which ones they want included where users are getting confused
   * Can we default to everything within an x radius to be included?
