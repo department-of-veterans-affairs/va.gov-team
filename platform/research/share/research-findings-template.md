@@ -13,16 +13,19 @@ Date: MM/DD/YYYY
 
 [Research Report PDF] (link here)
 
-Jump to:
-[Hypotheses and conclusions](insert link)
+<br>
 
-[Key findings](insert link)
+**Jump to:**
 
-[Recommendations](insert link)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#hypotheses-and-conclusions)
 
-[Who we talked to](insert link)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#key-findings)
 
-[Further research needed](insert link)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#recommendations)
+
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#who-we-talked-to-)
+
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#further-research-needed)
 
 
 # Research Goals
@@ -36,7 +39,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 _Research questions/tasks here_
 
 _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#research-questions)_
-
 
 
 * Question/task 
@@ -63,7 +65,7 @@ _(“True”, “Likely True” or “Very True”) Why?_
 
 _How does this research map to the Veteran journey? Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
 
-_[Download the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf )_
+_[Download the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
 
 # Methodology 
@@ -75,9 +77,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". _
+_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#key-findings) _
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#key-findings)_
 
 1. Finding one
 
@@ -98,7 +100,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _For each theme, list details with supporting quotes and images when possible. Please **add relevant keywords to your findings** selected from the [master taxonomy]. Tagging your findings will help others find research relevant to their work._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#themes-and-detailed-findings) _
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#themes-and-detailed-findings)_
 
 _To add images: ![task-summary](add github folder with .png)_
 
@@ -197,60 +199,46 @@ Include any secondary research you may have.
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
-## Who we talked to \
+## Who we talked to 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md#who-we-talked-to-including-pilot-participant)_
 
 We talked to **x participants.**
 
-_Fill in all demographics that apply below. _
+_Fill in all demographics that apply below._
 
 Audience segment:
-
-
-
 * Veterans: x 
 * Caregivers: x 
-* Family members of a Veteran: x  \
+* Family members of a Veteran: x  
 
 
 Gender:
-
-
-
 * Male: x 
 * Female: x 
 
+
 LGBTQ+:
-
-
-
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
 * Gay, lesbian, or bisexual: x
 
+
 Devices used during study: 
-
-
-
 * Desktop: x 
 * Tablet: x 
 * Mobile: x 
 * Assistive Technology: x
 
+
 Age:
-
-
-
 * 25-34: x
 * 35-44: x
 * 55-64: x
 * 65-74: x
 * Unknown: x
 
+
 Education:
-
-
-
 * High school degree or equivalent: x
 * Some college (no degree): x
 * Certificates and certifications?
@@ -260,18 +248,14 @@ Education:
 * Doctorate degree: x
 * Unknown: x
 
+
 Geographic location:
-
-
-
 * Urban: x
 * Rural: x
 * Unknown: x
 
+
 Race:
-
-
-
 * White: x
 * Black: x
 * Hispanic: x
@@ -279,10 +263,8 @@ Race:
 * Asian: x
 * Native: x
 
-Disability and Assistive Technology
 
-
-
+Disability and Assistive Technology:
 * Cognitive: x
 * AT Beginner: x
 * AT Advanced User: x
@@ -299,20 +281,11 @@ Disability and Assistive Technology
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
-This research does not include the perspectives of the following marginalized Veteran groups:_ _
-
-
-
+This research does not include the perspectives of the following marginalized Veteran groups:
 * Group 1
 * Group 2
 * Group 3
 
 _[insert screenshot of completed recruitment checker]_
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/images/VA-recruitement-checker-example.png)
 
