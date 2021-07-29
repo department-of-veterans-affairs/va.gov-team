@@ -3,7 +3,7 @@
 - **Name:** n/a
 - **Title:** Chief Nurse, Geriatric and Extended Care Services
 - **Location(s):** Florida VAMC Community Living Center
-- **Notes:**
+- **Notes:** Is willing for follow up questions, or to review any updated designs.
 
 ### Full transcript
 
@@ -101,4 +101,25 @@
 - [Michelle] What were you expecting it to show you?
 
 > Like something more similar to what we already have [something more specific to the VAMC clc]. This is fine, but we do have the general contact, I don't think too many people call directly to the [clc] admissions person. I don't think we get frequent callers saying they want to come to the clc - we do get some, don't get me wrong because I get the calls myself, but [the general VA long-term info page] there's no contact number...this is very brief. I just feel like the current page is setup for a hospital not a nursing home. 
-> If you called ours [clc on their legacy page] you're not getting that number that we put on the site. They're just going to pick a random number, or one of the unit numbers or something like that. 
+> If you called ours [VAMC main number] you're not getting that number that we put on the site [legacy clc page]. They're just going to pick a random number, or one of the unit numbers or something like that.
+
+- [Nick] So someone calling would just get transferred to somebody who *might* be relevant?
+
+> Yes, like if you called [the VAMC main number] and said "hey I want to get admitted to the clc" I don't know who the operator's going to give you. I get some of these calls, random calls asking to be admitted to the hospital, I honestly can't say if someone called here [VAMC] that they're going to get to the right person. So that might be a good thing to fix. This number right here [on legacy site page] transfers you to the Admissions Coordinator. That's their extension, so the call would go specifically to that person.
+> Then we put the business hours, not necessarily the hours the clc is open for visitation, but the business hours, if you're looking for an Admissions Coordinator or the business office, for example. 
+
+- [Michelle] That would be helpful, to have those labeled accordingly so people know who they're calling, and that those hours represent that person's availability.
+
+> We even put a little bit about admissions, because most people are coming to the clc to be admitted to the clc, and then our goal is for people to be discharged from the clc, we really don't admit long-stay, so we put a little bit about that. 
+
+[Nick] If you would like to see any of our eventual designs we can let you know when those are ready.
+
+> Yes, like before they go live.
+
+[Michelle] Yeah, that would be great to get some feedback and see whether you think it works.
+
+> [Looking at Miles City clc example VA page map] I don't know if you have an actual campus map, because they thing is, we're part of the - we're there on campus. So, it's really not helping anyone if you just show them [the generic google map]. Something like a more detailed map vs just where the VAMC is located [We look at campus map]. So we're right here - here's the main hospital and we're literally across the driveway. It might change a little when they open up [new building on campus], I'll have to see how they handle the entry [to new building]. I think that would be helpful to someone that was coming here.
+
+[Michelle] What about parking, is there shared parking?
+
+> 
