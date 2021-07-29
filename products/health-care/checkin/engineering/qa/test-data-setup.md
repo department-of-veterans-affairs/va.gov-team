@@ -249,8 +249,6 @@ This endpoint provides a POST action to check in to a specific appointment.
 
 When executed, this endpoint will change the status of the specified appointment to `ACT REQ/CHECKED IN`, which is the expected value when an appointment has been check in to.
 
-- **Note**: Currently there is no error code returned from this endpoint, and nearly anything you send it will result in a 200 OK response. We are collaborating with the dependent system to have error checking and appropriate responses returned and will flow those back through this endpoint when available. For now, please use the `getAppointments` endpoint to confirm the Appointment status before and after executing this call.
-
 `https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/checkin`
 
 ### Parameters as Example
@@ -283,6 +281,21 @@ curl --request POST \
   }
 }'
 ```
+
+
+### Expected Responses
+
+### Success
+
+- 200 OK - `Appointment Checked In`
+
+### Failure
+
+- 400 Bad Request - With the following statuses:
+    - Invalid Appointment Date/Time Format
+    - Invalid Appointment
+    - Other VistA Error
+
 <a name="appointmentslots"></a>
 ## Appointment Slots endpoint
 
