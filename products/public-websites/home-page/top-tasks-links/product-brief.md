@@ -1,8 +1,7 @@
 ## Home Page Top Tasks Links Product Brief
 
+Conceived as the unifying "Veteran-facing digital brand" for the Department of Veteran Affairs when it launched in late 2018, VA.gov has become the front-door to top tasks, tools and information.  But in the two plus years since the site launch, the range of VA benefits and programs have grown and evolved, with new offerings, as well as new positionings.   In a sense, the site now has to serve more masters -- and more importantly, serve as a guide-post to a growing selection of new information and services.
 
-  
-For this initiative, we will implement a series of functional, UX and CMS-based authoring enhancements that will more fully mature the Outreach Hub events calendar product, making it more personalized and useful for VA.gov users and easier to curate-manage by VA business stakeholders.
 
 
 ## The Problem to be Solved
