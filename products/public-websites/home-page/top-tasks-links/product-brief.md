@@ -2,9 +2,13 @@
 
 Conceived as the unifying "Veteran-facing digital brand" for the Department of Veteran Affairs when it launched in late 2018, VA.gov has become **the** front-door to top tasks, tools and information for Veterans and beneficiaries.  In the two plus years since the site's launch, the range of VA benefits and programs has grown and evolved, with new valuable offerings.  Cases in point: (a) the new [Manage Your VA Debt hub](https://www.va.gov/manage-va-debt/) and (b) [File a decision review](https://www.va.gov/decision-reviews/).  In a sense, the site now has to serve more masters -- and more importantly, serve as a guide-post to a growing selection of new information and benefit services.
 
-The current UX design was optimized for viewability across Desktop and Mobile -- that is why the four Top Tasks boxes contain a fixed number of links: five in each = 20 tasks.
+The current UX design was optimized for viewability across Desktop and Mobile and that is why the four Top Tasks boxes contain a fixed number of links five in each = 20 tasks total.
 
+Cindy Merrill's research
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf
 
+2018 Home Page Research 
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/user-research
 
 ## The Problem to be Solved
 
