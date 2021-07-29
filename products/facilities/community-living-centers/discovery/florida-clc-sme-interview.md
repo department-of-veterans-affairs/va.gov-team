@@ -68,4 +68,23 @@
 
 > Sometimes people want long-stay, but we're no actively admitting so, there's only under circumstances that we've taken on a long-stay patient. We're looking at other things we could potentially do that are like specific focus, like STIs. We have a robust STI program, and a rehab, and poly-rehab program here, so some of the things you would normally see clcs in other areas doing, it's not as much of an option for us because of the other services that are already being offered in other parts of the hospital.
 
+[Nick] Are there any services that someone would need to be at the clc for a certain amount of time before they qualify for them? [Explain dental care example]
 
+> I don't know, truthfully, I'm not that in the weeds for stuff like that. I thought that was based on your service connection, as for dental and vision, I thought you had to be 100% service connected to qualify for those. 
+
+[Nick] Is there anything that might useful for someone coming into the facility to know, that isn't currently on the website?
+
+> No, I think we are looking trying to make some changes to our programs, and as I said potentially offer some long-stay, but that's not approved yet. So I wouldn't change anything on this page - like we literally, I want to say it was a year ago maybe a year and half, we just updated this. Then we had covid, so we're not doing anything new. I think right now it kind of captures what we're doing.
+
+[Michelle] What about visitor policies?
+
+> It's covid, so right now we're not doing any. Prior to that I think we kind of left this off [the site]. In our resident handbooks it has informatio about our regular visiting, which is usually fairly liberal pre-covid. Hospice is mostly anytime, and we still have compassionate care visits for hospice. On the other units it still was fairly liberal, you can visit mostly anytime. So, we didn't have "no visiting after a certain time", we just had to be careful that people weren't trying to like move in. Literally we had that happen one time, like you can't live here. Generally our visiting is fairly liberal, and it's in our resident handbook so we didn't put it on the website.
+> They should have a handbook from the regular hospital, and part of our admissions process, since most of our admissions come from the hospital, our Admissions Coordinator goes and greets the patients there. So they get information about our program before they even get here, and then on admission they get a handbook. [Michelle: So we could have them refer to that]
+
+[Nick] Is that handbook available online somewhere? [No] Why not?
+
+> It's not online, it's our own internal document. We don't want it put online - I don't have a good reason, we just never had it online, we haven't discussed it. I would have to bring that to committee and see if that's something we'd be able to do.
+
+[Nick] Are pets or service animals allowed at the clc?
+
+> 
