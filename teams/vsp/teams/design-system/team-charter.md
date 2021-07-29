@@ -1,4 +1,6 @@
-*Proposed edits are in red. 
+# Design System Team Charter
+
+
 
 ## Why we're here
 
