@@ -1,5 +1,12 @@
 # Check In Experience Test Data Setup
 
+# Sections
+1. [Overview](#overview)
+2. [End to End Testing Workflow](#end-to-end-testing-workflow)
+3. [VistA Configuration Data](#vista-configuration-data)
+4. [Endpoints](#endpoints)
+
+## Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
 
 To test the Check in process, an appointment must exist in the test VistA instance for a user with a specific phone number.
@@ -9,6 +16,35 @@ Additionally, to initiate the Check In Experience workflow, the tester must send
 Endpoints are available to allow test users to view thier existing appointments, create a new appointment, delete an existing appointment and update the phone number associated with their assigned test user. An additional endpoint is available to see the available appointment slots for a specific clinic; a slot must be available to make an appointment.
 
 These endpoints require entering the patientDfn (this is the patient Identifier in a VistA system) and ClinicIen (this is the clinic identifier in a VistA system). The patientDFN and clinicIen values configured in the test VistA syteme are noted below.
+
+# End to End Testing Workflow
+
+## Assign Phone Number
+If you have not already done so, use the `/patients` endpoint to add your phone number to your assigned VistA test patient.
+
+## Create Appointment
+
+Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the clinicIen at the time specified in `startDateTime`.
+
+- **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into
+
+Once the appointment has been scheduled, send a text message to initiate the Check In Experience workflow.
+
+- **Note**: Currently the time window that an appointment can be checked in to is 30 minutes prior to and 10 minutes past the appointment start time.
+
+## Send Text
+
+- **Note**: The text message must come from the phone number associated with the test Patient.
+
+Once an appointment has been created, send `check in` as a text message to `254.278.2622`. An SMS similar to this will be returned:
+
+```
+Check in for your VA appointment at https://go.usa.gov/xyz123
+```
+
+## Access Check In Experience va.gov Workflow
+
+Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
 
 ## VistA Configuration Data
 
@@ -310,28 +346,4 @@ curl --request PUT \
 }'
 ```
 
-# End to End Testing Workflow
 
-## Create Appointment
-
-Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the clinicIen at the time specified in `startDateTime`.
-
-- **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into
-
-Once the appointment has been scheduled, send a text message to initiate the Check In Experience workflow.
-
-- **Note**: Currently the time window that an appointment can be checked in to is 30 minutes prior to and 10 minutes past the appointment start time.
-
-## Send Text
-
-- **Note**: The text message must come from the phone number associated with the test Patient.
-
-Once an appointment has been created, send `check in` as a text message to `254.278.2622`. An SMS similar to this will be returned:
-
-```
-Check in for your VA appointment at https://go.usa.gov/xyz123
-```
-
-## Access Check In Experience va.gov Workflow
-
-Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
