@@ -5,6 +5,12 @@
 2. [End to End Testing Workflow](#end-to-end-testing-workflow)
 3. [VistA Configuration Data](#vista-configuration-data)
 4. [Endpoints](#endpoints)
+    1. [Appointments](#appointments-endpoint)
+        1. [Make Appointment](#makeappointment)
+        2. [Get Appointments](#getappointments)
+        3. [Delete Appointment](#deleteappointment)
+        4. [Checkin to Appointment](#checkinappointment)
+        5. [Find Appointment Slots](#appointmentslots)
 
 # Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
@@ -101,8 +107,8 @@ This RESTful endpoint provides `GET`, `POST` and `DELETE` actions on appointment
 
 `https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments`
 
-## `POST` - Make Appointment
-
+<a name="makeappointment"></a>
+## `POST` - Make Appointment 
 **Note**: There must be an available appointment timeslot in the clinic.
 
 ### Parameters as Example
@@ -162,6 +168,7 @@ curl --request POST \
 
 - 502 Bad Gateway - This indicates an issue with the AWS Lambda or a downstream dependency
 
+<a name="getappointments"></a>
 ## `GET` - Get Appointments for Date
 
 ### Parameters as Example
@@ -191,7 +198,7 @@ curl --request GET \
   }
 }'
 ```
-
+<a name="deleteappointment"></a>
 ## `DELETE` - Delete an Appointment
 
 This endpoint will change the status of the specified appointment to `CANCELLED BY PATIENT`.
@@ -234,7 +241,7 @@ curl --request DELETE \
   }
 }'
 ```
-
+<a name="checkinappointment"></a>
 ## Appointment Checkin endpoint
 
 This endpoint provides a POST action to check in to a specific appointment.
@@ -275,7 +282,7 @@ curl --request POST \
   }
 }'
 ```
-
+<a name="appointmentslots"></a>
 ## Appointment Slots endpoint
 
 This endpoint provides a GET action to query the VistA system for available appointment slots in a specific clinic for a specified date.
