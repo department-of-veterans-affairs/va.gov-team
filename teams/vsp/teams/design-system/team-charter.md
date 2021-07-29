@@ -1,68 +1,95 @@
-# Design System Team Charter
-
----
+*Proposed edits are in red. 
 
 ## Why we're here
 
 ### North Star:
-Any team charged with building a Veteran Facing Service (VFS) has the tools to quickly design, test and build an application that builds an application that meets or improves VA’s standards of quality for the Veteran experience.  
 
-### Product Suite: 
-Design System 
+Any team charged with building a Veteran Facing Service (VFS) has the tools to quickly design, test and build an application that meets or improves VA’s standards of quality for the Veteran experience.
 
 ### Team Mission Statement:
-Provide simple, scalable, high quality tools and guidelines that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA.   
 
-### Product Portfolio:
-- React Library
+Provide simple, scalable, high quality tools and guidelines that enable teams to rapidly build and improve the Veteran facing digital applications provided by VA. 
+
+### Product Suite:
+
+Design System 
+
+### Product Portfolio: 
+
+- Component Library
+  - React components
+  - Web components
+  - Storybook
 - Sketch Library
-- design.va.gov
-- Component Library 
-- Forms Library 
-   - Documentation 
-
-
-
+- http://design.va.gov
+  - All sections except for Content and Experimental Design
+  - Technical aspects (build, deploy, dependency upgrades, etc.)
+- Forms Libraries
+  - Schema-based
+  - Formulate
+- Documentation
+  - All the products in our portfolio
+  - Experimental design process
 
 ### Responsibilities:
+
 Design System Backlog Problem Statement
-- We believe that VFS teams need regular improvements to the design system documentation, tools, and shared code.
+
+- We believe that VFS teams need regular continuous improvements to the design system documentation, tools, and shared code.
 - We know this is true because they are impatient for progress, forking components into custom code, and applying components incorrectly.
-- We believe that establishing and shipping a biweekly update of components prioritized by the Design System Council will improve the speed with which VFS teams can design and develop an application without customizing and forking  common code and shared tools.
+- We believe that establishing and shipping a biweekly updates of components prioritized by the Design System Council will improve the speed with which VFS teams can design and develop an application without customizing and forking  common code and shared tools.
 
-Forms Library Problem Statement
+Forms Library Problem Statement 
+
 - We believe that VFS teams are not designing and building forms efficiently.
-- We know this is true because there are a lot of support requests in Slack for form related design and development.
+- We know this is true because there are a lot of support requests in Slack for form related design and development. 
+- We know this is true because we have personal experience and heard feedback from VFS teams that the current Forms Library is rigid and requires a complex mental model to use.
 - We believe that improving form-related component and pattern documentation will improve the time from launch to production for form applications.
+- We believe that building a new forms library which focuses on the developer experience will reduce pain points and increase the efficiency of building forms for VFS engineers. 
 
-Source of Truth Problem Statement
-- We believe that VFS Designers are confused by inconsistencies across design system documentation, tools, and production applications.
+Source of Truth Problem Statement (NEEDS EDITING)
+
+- We believe that VFS Designers and Engineers are confused by inconsistencies across design system documentation, tools, and production applications.
+
 - We know this is true because design critiques are more focused on proper usage of existing components as opposed to improvements or new components that will benefit all teams.
+
+- We know this is true because there is confusion in communication between designers and engineers because there is a disconnect in how things are named. 
+
 - We believe that improving consistency by identifying and communicating a “source of truth” version for components and patterns will increase the number of new or variant components launched and help us track the actual usage of components and patterns across our production applications.
 
+  
 
 ### Roadmap:
-DST Q4 Roadmap https://vfs.atlassian.net/l/c/rmLRTqQq
 
----
+[DST 2020 Q4 Roadmap]() 
+
+[DST 2021 Q1 Roadmap]()
+
+[DST 2021 Q2 Roadmap]()
+
+[DST 2021 Q3 Roadmap]()
+
+------
 
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: Kevin Hoffman
-- Team Product Manager: Carol Wong
+
+- OCTODE Product Lead: Kevin Hoffman 
+- VA Design Lead: Ryan Thurlwell
+- Product Manager: Carol Wong
 - UX Designer: TBD
 - Engineering Lead: Christopher Valarida
-- Engineer: Brooks Johnson 
+- Engineer: Brooks Johnson
 
-
----
+------
 
 ## How we work
 
 ### Workflow + Cadence
 
 #### Stand-up
+
 Check in on people and product progress
 
 - Daily @ 11:45AM ET
@@ -70,33 +97,37 @@ Check in on people and product progress
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
+
 Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Wednesday of every sprint following retrospective
 - 1 hour
-- _any other notes you have_
+- *any other notes you have*
 
-#### Retro
-Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
+#### Retro + Sprint Planning
+
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items. Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Wednesday of every sprint at 1:00pm ET
-- 30 min
-- _any other notes you have_
+- 90 mins
+- *Any other issues you have to discuss with the team*
 
 #### Grooming
+
 Assess and update workload for remainder of sprint
 
-- 2nd Thursday of every sprint at 11:30AM ET 
+- 2nd Thursday of every sprint at 11:30AM ET
 - 1 hour
-- _any other notes you have_
+- *Any other issues you have to discuss with the team*
 
 #### Issue Etiquette
+
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 
-- Estimate
+- Estimate (when possible)
 - Title that explains task
-- Description with Background and Acceptance Criteria
-- Labels: _your team's labels_
+- Description with Background and Acceptance Criteria (optional)
+- Labels: vsp-design-system-team 
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
@@ -106,7 +137,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-_Update as you see fit! These are some starter norms for you to consider_
+*Update as you see fit! These are some starter norms for you to consider*
 
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls
@@ -118,10 +149,15 @@ _Update as you see fit! These are some starter norms for you to consider_
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
+Private Team Slack channel: #vsp-design-system-team
+
+Public Design System Slack channel: #vsp-design-system
+
 #### GitHub
+
 GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
 
 #### General things
-- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub.
 
+- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
+- Extra time? Explore the "Backlog (prioritized)" column in [Design System Team ZenHub board](https://app.zenhub.com/workspaces/vsp-design-system-5f8de67192551b0012ebb802/board?repos=133843125,152664242,194202180).
