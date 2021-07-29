@@ -58,8 +58,14 @@
 [Nick] Is there an average length of stay for the short-term stay?
 
 > [Searches for info] Our average length of stay is usually pretty short, it's somehwere around two weeks, but I can get you a more exact...we try to keep it to three 
-> months or less, but I think we're significantly less than that.
+> months or less, but I think we're significantly less than that. Year-to-date for this year [2021], average length of stay is 18 days.
 
 [Michelle] Will you return to admissions for long-term, is that like a capacity thing?
 
-> It's not a 
+> It's not a capacity thing no, that's an option we're looking at returning to but we're not there yet. We don't have anything definitive on that yet.
+
+[Nick] Have there every been any services that people have requested that are not offered at this location?
+
+> Sometimes people want long-stay, but we're no actively admitting so, there's only under circumstances that we've taken on a long-stay patient. We're looking at other things we could potentially do that are like specific focus, like STIs. We have a robust STI program, and a rehab, and poly-rehab program here, so some of the things you would normally see clcs in other areas doing, it's not as much of an option for us because of the other services that are already being offered in other parts of the hospital.
+
+
