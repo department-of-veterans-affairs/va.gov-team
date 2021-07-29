@@ -10,6 +10,6 @@
 <details>
 <summary> Sprint 52, ending July 27, 2021 </summary>
 
-![Sprint 52 Retro board]
+![Sprint 52 Retro board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/sprint%2052%20retro.PNG)
 
 </details>
