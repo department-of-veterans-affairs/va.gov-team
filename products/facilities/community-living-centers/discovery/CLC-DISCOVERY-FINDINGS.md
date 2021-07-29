@@ -44,11 +44,11 @@ Community Living Centers exist on the VA continuum of mental health care as one 
 - How are Veterans referred?
   - Veterans can be referred through their primary health care provider, their social work case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly (a VA health care representative must make the referral if the CLC residency is intended to at VA's expense (see [CLC FAQs](https://www.paloalto.va.gov/clcfaq.asp)). Because CLCs are often located on VAMC campuses, VA primary care providers and social workers working with other in-patient units on the campus often refer patients to the CLC.
 - Who can Veterans contact directly?
-  - CLC residency requires a referral, so Veterans should be in contact with their primary health care provider, social worker, or a Patient Aligned Care Team (PACT) for the process of admission. Veterans and caregivers can also call Admissions Coordinators directly, but will likely still need a third party health or social care provider involved in 
+  - CLC residency requires a referral, so Veterans should be in contact with their primary health care provider, social worker, or a Patient Aligned Care Team (PACT) for the process of admission. Veterans and caregivers can also call Admissions Coordinators directly, but will likely still need a third party health or social care provider involved in the process.
 - What are the admissions requirements?
   - Admissions requirements may vary slightly depending on the location, but they include:
     - Veteran must be enrolled in VA health care
     - Veteran must be medically and psychiatrically stable on entry
-    - the primary services required, anticipated length of stay, anticipated discharge disposition, and priority for CLC services must be documented
+    - the primary services required, anticipated length of stay, anticipated discharge disposition, and priority for CLC services must be documented?
+    - Service connected status, level of disability, and income are all factors in determining the amount of copay a Veteran is responsible for
 - Any special elegibility requirements?
-  - Service connected status, level of disability, and income are all factors in determining the amount of copay a Veteran is responsible for.
