@@ -11,6 +11,7 @@
         3. [Delete Appointment](#deleteappointment)
         4. [Checkin to Appointment](#checkinappointment)
         5. [Find Appointment Slots](#appointmentslots)
+    2. [Patients](#patients) 
 
 # Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
@@ -319,7 +320,7 @@ curl --request GET \
   }
 }'
 ```
-
+<a name="patients"></a>
 ## Patients Endpoint
 
 This endpoint provides a PUT action to allow a tester to update the phone number associated with their assigned test patient. This endpoint will update both the VistA Patient record and the vetext database used to receive SMS messages for Check In Experience. The primary use case for this is to allow testing teams to share a VistA test user by modifying the phone number to be that of the current tester, such that the SMS workflow will work from that testers mobile phone.
