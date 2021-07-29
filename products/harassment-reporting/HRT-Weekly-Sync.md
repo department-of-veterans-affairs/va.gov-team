@@ -39,6 +39,7 @@
 - Deisgn Mockups --> Prototypes --> User Research (August to September) 
 - Content Review Meeting --> Wednesday Aug 4 is target. 
 
+## Notes:
 
 
 <details><summary>Previous Agenda Items</summary>
