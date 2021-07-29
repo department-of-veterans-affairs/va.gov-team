@@ -27,6 +27,7 @@ Date: MM/DD/YYYY
 
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#who-we-talked-to)
 
+<br>
 
 # Research Goals
 _Description of research goals_
@@ -98,7 +99,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Details of Findings 
 
-_For each theme, list details with supporting quotes and images when possible. Please **add relevant keywords to your findings** selected from the [master taxonomy]. Tagging your findings will help others find research relevant to their work._
+_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords to your findings** selected from the [master taxonomy]. Tagging your findings will help others find research relevant to their work._
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#themes-and-detailed-findings)_
 
