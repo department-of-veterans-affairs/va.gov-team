@@ -74,10 +74,10 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
      - Is there anything a Veteran with physical limitations would need to know about this facility?
      - Who normally contacts you to find out about your available services (Veterans,caregivers)?
           - How do they normally find out about you (online, through other Veterans, phone)?
-          - Who do you believe would search for information about your facility online (Veterans, caregivers, etc)?
-          - ~~Who is the intended audience for information about this facility (the Veterans themselves, caregivers, etc)?~~
      - What term do you use to describe your facility (i.e. officially it's "domiciliary" but is another commonly used)?
           - What terms to people staying at the facility use to describe it?
+     - How does this facility handle visitors?
+        - Is there anything visitors need to know before coming?
 - **Services**
      - What services are provided at your location?
      - Is there healthcare provided on site? (If so, what?)
@@ -85,13 +85,12 @@ Is it alright if I record? [Yes/no? - Confirm yes response on recording]
      - Are there any other specific services provided on site (i.e. social work case management)?
      - Are there any services that Veterans often request, that are not currently offered?
 - **Referrals**
-     - Is there a referral process? (If so, what?)
+     - Is there a referral process?
      - Can Veterans self-refer?
      - Are walk-ins accepted?
+        - Is there a walk-in clinic on site?
 - **Required information**
      - Are there any specific eligibility requirements for this facility?
-     - What would a Veteran need to know before coming to the facility?
-     - What information does a Veteran need to provide, or have with them, in order to stay there?
      - Under a "prepare for your stay" section of this facility's website, what would be meaningful to include?
 
 ### Wrap-up
