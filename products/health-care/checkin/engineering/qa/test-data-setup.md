@@ -6,7 +6,7 @@
 3. [VistA Configuration Data](#vista-configuration-data)
 4. [Endpoints](#endpoints)
 
-## Overview
+# Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
 
 To test the Check in process, an appointment must exist in the test VistA instance for a user with a specific phone number.
@@ -46,7 +46,7 @@ Check in for your VA appointment at https://go.usa.gov/xyz123
 
 Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
 
-## VistA Configuration Data
+# VistA Configuration Data
 
 ### Available Clinics
 
@@ -89,7 +89,7 @@ Formatted as `"patientIcn": "Name (Assigned To)"`
 
 #
 
-## Endpoints
+# Endpoints
 
 **Note**: All endpoints must be executed from within the VA Network
 
