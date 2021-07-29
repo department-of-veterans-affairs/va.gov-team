@@ -13,11 +13,10 @@
    - Who is this facility most likely to serve, in terms of demographics?
    - Is the facility mixed gender?
    - Community Living Centers are referred to as "nursing homes", "Veteran's homes", etc., but is there anything more appropriate?
-      - What terms to the people staying there use to describe it?
-   - Is there anything a Veteran with physical limitations would need to know before coming to this facility?
    - Who normally contacts you to find out about your available services?
       - How do they normally find out about you (online, via word of mouth, phone)?
-      - Who do you believe would search for information about your facility online (Veterans, caregivers, etc)?
+   - How does this facility handle visitors?
+      - Is there anything visitors need to know before coming?
 - **Services**
    - Are there any specific services provided at this location that might not be provided at other CLCs? (ex: spinal cord injury treatment)?
    - Are there any services that are requested, that aren't currently offered?
