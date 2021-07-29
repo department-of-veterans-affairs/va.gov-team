@@ -158,6 +158,10 @@ curl --request GET \
 
 ## `DELETE` - Delete an Appointment
 
+This endpoint will change the status of the specified appointment to `CANCELLED BY PATIENT`.
+
+- **Note**: You cannot cancel an appointment in the past. However, you can check in to a past appointment using the provided `/appointments/checkin` endpoint.
+
 ### Parameters as Example
 
 ```json
@@ -195,13 +199,54 @@ curl --request DELETE \
 }'
 ```
 
+## Appointment Checkin endpoint
+
+This endpoint provides a POST action to check in to a specific appointment.
+
+When executed, this endpoint will change the status of the specified appointment to `ACT REQ/CHECKED IN`, which is the expected value when an appointment has been check in to.
+
+- **Note**: Currently there is no error code returned from this endpoint, and nearly anything you send it will result in a 200 OK response. We are collaborating with the dependent system to have error checking and appropriate responses returned and will flow those back through this endpoint when available. For now, please use the `getAppointments` endpoint to confirm the Appointment status before and after executing this call.
+
+`https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/checkin`
+
+### Parameters as Example
+
+```json
+{
+  "patientDfn": "3",
+  "clinicIen": "64",
+  "startDateTime": "2021-07-30 14:30"
+}
+```
+
+- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
+- `clinicIen` - This is the VistA identifier for the clinic where the appointment will be found to be checked in.
+- `startDateTime` - the start date and time of the appointment to check in, in format yyyy-mm-dd hh:mm.
+
+### curl Example
+
+```bash
+curl --request POST \
+  --url https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/checkin \
+  --header 'Content-Type: application/json' \
+  --header 'x-api-key: <API KEY>' \
+  --header 'x-apigw-api-id: ij4ry1zth2' \
+  --data '{
+  "body": {
+    "patientDfn": "3",
+    "startDateTime": "2021-07-29 14:30",
+    "clinicIen": "64"
+  }
+}'
+```
+
 ## Appointment Slots endpoint
 
 This endpoint provides a GET action to query the VistA system for available appointment slots in a specific clinic for a specified date.
 
 `https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/slots`
 
-### Parameters and Example
+### Parameters as Example
 
 ```json
 {
