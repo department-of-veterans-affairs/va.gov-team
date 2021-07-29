@@ -112,9 +112,10 @@ Accessibility: keyword 1, keyword 2
 
 Components & Patterns: keyword 1, keyword 2 
 
-_Raw data: Quote here_
+_Supporting data: Quote here_
 
-_Raw data: Quote here_
+_Supporting data: Quote here_
+
 
 **Finding 2**
 
@@ -124,9 +125,10 @@ Accessibility: keyword 1, keyword 2
 
 Components & Patterns: keyword 1, keyword 2 
 
-_Raw data: Quote here_
+_Supporting data: Quote here_
 
-_Raw data: Quote here_
+_Supporting data: Quote here_
+
 
 **Finding 3**
 
@@ -136,9 +138,9 @@ Accessibility: keyword 1, keyword 2
 
 Components & Patterns: keyword 1, keyword 2 
 
-_Raw data: Quote here_
+_Supporting data: Quote here_
 
-_Raw data: Quote here_
+_Supporting data: Quote here_
 
 
 # Additional Insights
