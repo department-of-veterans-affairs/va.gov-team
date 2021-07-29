@@ -102,7 +102,9 @@ _For each theme, list details with supporting quotes and images when possible. P
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#themes-and-detailed-findings)_
 
-_To add images: ![task-summary](add github folder with .png)_
+_To add images: ![text](link - add image to github folder and link here with .png)_
+
+<br>
 
 **Finding 1**
 
@@ -112,10 +114,11 @@ Accessibility: keyword 1, keyword 2
 
 Components & Patterns: keyword 1, keyword 2 
 
-_Supporting data: Quote here_
+> _Supporting data: Quote here_
 
-_Supporting data: Quote here_
+> _Supporting data: Quote here_
 
+<br>
 
 **Finding 2**
 
@@ -125,10 +128,11 @@ Accessibility: keyword 1, keyword 2
 
 Components & Patterns: keyword 1, keyword 2 
 
-_Supporting data: Quote here_
+> _Supporting data: Quote here_
 
-_Supporting data: Quote here_
+> _Supporting data: Quote here_
 
+<br>
 
 **Finding 3**
 
@@ -138,9 +142,9 @@ Accessibility: keyword 1, keyword 2
 
 Components & Patterns: keyword 1, keyword 2 
 
-_Supporting data: Quote here_
+> _Supporting data: Quote here_
 
-_Supporting data: Quote here_
+> _Supporting data: Quote here_
 
 
 # Additional Insights
@@ -213,17 +217,20 @@ Audience segment:
 * Caregivers: x 
 * Family members of a Veteran: x  
 
+<br>
 
 Gender:
 * Male: x 
 * Female: x 
 
+<br>
 
 LGBTQ+:
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
 * Gay, lesbian, or bisexual: x
 
+<br>
 
 Devices used during study: 
 * Desktop: x 
@@ -231,6 +238,7 @@ Devices used during study:
 * Mobile: x 
 * Assistive Technology: x
 
+<br>
 
 Age:
 * 25-34: x
@@ -239,6 +247,7 @@ Age:
 * 65-74: x
 * Unknown: x
 
+<br>
 
 Education:
 * High school degree or equivalent: x
@@ -250,12 +259,14 @@ Education:
 * Doctorate degree: x
 * Unknown: x
 
+<br>
 
 Geographic location:
 * Urban: x
 * Rural: x
 * Unknown: x
 
+<br>
 
 Race:
 * White: x
@@ -265,6 +276,7 @@ Race:
 * Asian: x
 * Native: x
 
+<br>
 
 Disability and Assistive Technology:
 * Cognitive: x
