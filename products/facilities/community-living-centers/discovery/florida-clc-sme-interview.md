@@ -120,6 +120,8 @@
 
 > [Looking at Miles City clc example VA page map] I don't know if you have an actual campus map, because they thing is, we're part of the - we're there on campus. So, it's really not helping anyone if you just show them [the generic google map]. Something like a more detailed map vs just where the VAMC is located [We look at campus map]. So we're right here - here's the main hospital and we're literally across the driveway. It might change a little when they open up [new building on campus], I'll have to see how they handle the entry [to new building]. I think that would be helpful to someone that was coming here.
 
-[Michelle] What about parking, is there shared parking?
+[Michelle] What about parking, is there shared parking? Is there recommended parking for visitors to your facility?
 
-> 
+> Prior to covid, we had shuttles that would take you directly between the main hospital and building 30 [the clc building.] So people who came to see our residences during regular business hours, till 7-8 whenever the shuttle stopped running, they could park in the parking garage and take the shuttle. It would drop them off pretty much in front of the building to where it's a very short walk. [She discusses current entry into the clc, via hospital]
+
+[Michelle] Right that's a good point, because the "Prepare for your visit" section is also "prepare to visit someone" - preferrend entrance is important.
