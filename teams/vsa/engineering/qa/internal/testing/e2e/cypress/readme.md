@@ -5,5 +5,6 @@ This subfolder hosts **VSA-QA-internal** information about Cypress test-framewor
 ## Cypress CI/CD test-selection
 
 This is a proposal to implement programmatic-selection of Cypress tests-suites at the CI/CD level:
-Problem Statement [doc coming soon]
-Proof of Concept [doc coming soon]
+
+- Problem Statement [doc coming soon]
+- Proof of Concept [doc coming soon]
