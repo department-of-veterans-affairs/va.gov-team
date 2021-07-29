@@ -39,11 +39,15 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 ## What Needs to Be Done
 
-- [ ] Need Analytics to determine baseline performance of the current header, including:
-      - What is the usage of Search on Mobile in that header component?
-      - What is the usage of Top Tasks via the Mobile Home Page?
-- [ ] Create a version of the proposed new Mobile-optimized header for a live, in-production "sample size" test via GA tracking
-- [ ] Determine what metrics will determine "success" (e.g. same or higher usage of Search and Top Tasks)
+- [ ] Need Analytics to determine baseline performance of the current header, including % of mobile users that click on:
+      - Search (the little mganification icon)
+      - Menu
+      - Veteran Crisis Line
+      - Contact us
+      - Sign in
+      - Back to home (VA logo/Home menu item in the current nav)
+- [ ] Create a version of the proposed new Mobile-optimized header for a live, in-production "sample size" test of 1–5% via GA tracking
+- [ ] Metrics that will determine "success" (e.g. same or higher usage of Search and Top Tasks), using the same tasks as listed above
 
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
