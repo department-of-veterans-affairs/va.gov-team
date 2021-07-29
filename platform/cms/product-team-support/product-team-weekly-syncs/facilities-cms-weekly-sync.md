@@ -27,12 +27,7 @@
 
 * Automate 'required' services for Vet Centers?
 * Hardening/engineering sync
-* FYI - in current Facilities sprint
-  * [DISCOVERY] Evaluate viability of dynamic solution code for VAMC side nav [#17746](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17746)
-  * Remove flag for Leadership url change [#27056](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27056)
-  * Photos on VAMC Stories appear grainy [#27280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27280)
-  * Broken link and story path [#27752](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27752)
-  * Links to unpublished staff profiles [#27755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27755)
+
 
 ## July 28
 
