@@ -36,8 +36,8 @@
 1. Determine what is needed to Finalize User Flow ISO Intro Page/Form Mock Ups/Prototypes 
 
 ### Next Steps 
-Deisgn Mockups --> Prototypes --> User Research (August to September) 
-Content Review Meeting --> Wednesday Aug 4 is target. 
+- Deisgn Mockups --> Prototypes --> User Research (August to September) 
+- Content Review Meeting --> Wednesday Aug 4 is target. 
 
 
 
