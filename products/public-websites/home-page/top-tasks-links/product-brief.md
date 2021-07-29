@@ -1,6 +1,8 @@
 ## Home Page Top Tasks Links Product Brief
 
-Conceived as the unifying "Veteran-facing digital brand" for the Department of Veteran Affairs when it launched in late 2018, VA.gov has become the front-door to top tasks, tools and information.  But in the two plus years since the site launch, the range of VA benefits and programs have grown and evolved, with new offerings, as well as new positionings.   In a sense, the site now has to serve more masters -- and more importantly, serve as a guide-post to a growing selection of new information and services.
+Conceived as the unifying "Veteran-facing digital brand" for the Department of Veteran Affairs when it launched in late 2018, VA.gov has become **the** front-door to top tasks, tools and information for Veterans and beneficiaries.  In the two plus years since the site's launch, the range of VA benefits and programs has grown and evolved, with new valuable offerings.  Cases in point: (a) the new [Manage Your VA Debt hub](https://www.va.gov/manage-va-debt/) and (b) [File a decision review](https://www.va.gov/decision-reviews/).  In a sense, the site now has to serve more masters -- and more importantly, serve as a guide-post to a growing selection of new information and benefit services.
+
+The current UX design was optimized for viewability across Desktop and Mobile -- that is why the four Top Tasks boxes contain a fixed number of links: five in each = 20 tasks.
 
 
 
