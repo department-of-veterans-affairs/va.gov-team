@@ -3,7 +3,7 @@ VA online scheduling (VAOS) is a Veteran-facing healthcare appointment schedulin
 
 ## About the Product
 
-### North Star
+### Vision
 Deliver a seamless and positive experience for any Veteran who wants to schedule an appointment online.
 
 ### User Problem Statement
