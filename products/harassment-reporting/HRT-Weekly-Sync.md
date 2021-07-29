@@ -30,7 +30,6 @@
   - Trauma Design Best Practices (Martha Wilkes/Josh Kim) 
   - Shorten Input Items (Required Vs. Optional inputs)
 2. Design Status Update: Flow / Mock Ups (@Cassandra) --> Green light with form flow (Mural) ISO mockup/proto build. 
-3. FE Implimentation elements - Landing/Intro Page + Form Flow 
 
 
 ### Today's Goals: 
