@@ -29,9 +29,9 @@
 1. Summarize discussion points from Design Intent Review  - Updates from @Brian/Soni/Cassandra
   - Trauma Design Best Practices (Martha Wilkes/Josh Kim) 
   - Shorten Input Items (Required Vs. Optional inputs)
-3. Design Status Update: Flow / Mock Ups (@Cassandra) 
-4. FE Implimentation elements - Landing/Intro Page + Form Flow 
-5. Email to Larry for several request items (from Form Flow discussion)
+2. Design Status Update: Flow / Mock Ups (@Cassandra) 
+3. FE Implimentation elements - Landing/Intro Page + Form Flow 
+
 
 ### Today's Goals: 
 1. Determine what is needed to Finalize User Flow ISO Intro Page/Form Mock Ups/Prototypes 
