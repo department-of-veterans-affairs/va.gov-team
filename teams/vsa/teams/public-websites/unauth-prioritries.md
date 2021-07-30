@@ -115,7 +115,12 @@
       - [Product Epic (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27461)
   - Iterate
     - Find a Form
+      - [Adding new Detail Pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22726)
+        - Batch 1 (VBA) - Complete
+        - Batch 2 (VHA) - In review with Janel Keyes
+        - Batch 3 (VBA) - In the queue for Sitewide Content/Selina & Randi
     - Discharge Upgrade Wizard
+        - DoD requested Content and Possible Flow Update
   - Maintain
     - Find a Yellow Ribbon Program
 
