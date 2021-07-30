@@ -16,7 +16,7 @@
   - [Cards (Filter for "Sitewide Crew")](https://github.com/department-of-veterans-affairs/digital-experience-products/issues)
   - [Product Board (Filter for "Sitewide Crew")](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3A+label%3Acrew-sitewide)
 
-### Public Websites 
+## Public Websites 
 
 - Products
   - Home Page (including Alert Banner) [Secondary: Ryan and/or Beth/Danielle]
@@ -81,7 +81,7 @@
   - **Maintain**
     - Resources & Support (with enhanced Video template in backlog)
 
-### Search & Discovery
+## Search & Discovery
 
 - Products
   - On-site Search
@@ -107,7 +107,7 @@
     - Site SEO Optimization (e.g. fix errors)
   
   
-  ### Decision Tools
+  ## Decision Tools
   
 - Products
   - Find a Form
