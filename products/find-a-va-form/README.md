@@ -80,7 +80,7 @@ __VA forms stakeholder working group includes:__
 - Smith, Gail T. (VACO) <gail.smith@va.gov>; 
 
 ### VA Forms Contacts
-![image](https://user-images.githubusercontent.com/73354907/120379482-d0bcbd80-c2ed-11eb-9d70-9cf7ab7dda47.png)
+![image](https://user-images.githubusercontent.com/73354907/127664782-8a613a86-80bb-480a-ba5a-b9cc2904fb44.png)
 
 ## Problem Statement 
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
