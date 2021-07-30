@@ -8,7 +8,7 @@
 
 **10-15 min before session**: 
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
-
+  - *@mention team members*
 - *Share brief summary of participant demographic info*
 - **If screen reader user, slack Zach re version switching now and during test**
   - For 1st user: First want to test message with every result (to see if irritating), then switch to only at top.
@@ -55,6 +55,7 @@ Before we start, I want to go over a few things:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Screen sharing instructions (if needed)
+- For screen reader users, if already hearing their screen reader on Zoom, don't check "share computer audio"
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
@@ -62,6 +63,8 @@ Before we start, I want to go over a few things:
 - Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or  your web browser.
   - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: Broadcast screen
 
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
@@ -95,7 +98,7 @@ Let’s start with a few questions...
     - on what device(s)--computer, tablet, or smartphone? 
 
 ## Screen sharing
-I would like you to share your screen with me so I can watch you use a specific website. I'll need to see only a blank web browser window for now.
+I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your desktop. You should first close any other applications that you don't want me to see.
 *(refer to Screen sharing instructions above, if needed)*
 
 - *NOTE how to share URL: dictate / Zoom chat / email / text* 
