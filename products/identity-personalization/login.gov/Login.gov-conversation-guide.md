@@ -7,6 +7,7 @@ Before we start, a few things I want to mention:
   - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 	  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
   - If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+
 [Start recording]
   - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 ## Warm-up Questions- 5 minutes
@@ -22,6 +23,7 @@ Before we look at the website, can you tell me a little about yourself?
 ## Sign-in process - 5 minutes:
   - Could you describe to me how you would sign in to the VA.gov site?
   - Would you be comfortable with screen-sharing your sign-in process with me and talking me through how you sign-in?
+ 
  **Things to watch for:**
   - Do they use search or browse?
   - If they search, what is that like? What about browsing?
