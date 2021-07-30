@@ -1,4 +1,4 @@
-# [Draft] OCTO-DE Strategy
+# [Draft] OCTO-DE Product Strategy
 
 ## Mission
 Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
