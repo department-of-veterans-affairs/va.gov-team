@@ -1,4 +1,4 @@
-*_Duplicated in Confluence_*
+*_[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1793556578/How+to+request+a+Medallia+survey)_*
 
 # How to request a Medallia survey
 
