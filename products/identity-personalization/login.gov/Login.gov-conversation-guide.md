@@ -39,9 +39,8 @@ Before we look at the website, can you tell me a little about yourself?
   - What are the most important tasks you or other people need to perform when using VA.gov? 
   - How do you normally get to [task that was referenced above]?
   - Do you or did you in the past use other websites and resources for the same purpose?
-  - How much time do you typically spend on VA.gov /how often do you visit?
+  - How much time do you typically spend on VA.gov?
   - What information do you typically need before you sign into the site?
-  - Could you describe to me how you would sign into the site?
   - If you had a question regarding sign in do you know who to contact?
 	  - If yes – how do you know?
 	  - If not – how would you go about contacting someone?
