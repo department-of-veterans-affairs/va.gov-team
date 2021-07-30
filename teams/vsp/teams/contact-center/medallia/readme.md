@@ -1,4 +1,4 @@
-*_Duplicated in Confluence_*
+*_[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1765113923/Medallia+User+Surveys+Overview+WIP)_*
 
 ## Medallia User Surveys Overview (WIP)
 
