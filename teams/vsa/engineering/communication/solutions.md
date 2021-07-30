@@ -14,7 +14,7 @@ An asyncronous document or a syncrounous meeting should be provided before a VSP
 
 ## Root Cause - Solutions are over-engineered
 
-> Almost every technical solution that is provided by VSP is over-engineered and much more complex than needed. This leds to sloppy implimentations of solutions that are much more far reaching than they need to be.
+> Almost every technical solution that is provided by VSP is over-engineered and much more complex than needed. This leds to implimentations of solutions that are much more far reaching than they need to be.
 
 
 Solution
