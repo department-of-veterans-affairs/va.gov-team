@@ -10,6 +10,9 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 2018 Home Page Research 
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/user-research
 
+Unifying Auth and Unauth
+https://github.com/department-of-veterans-affairs/digital-experience-products/issues/46
+
 ## The Problem to be Solved
 
 How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach-and-events/events/) more personalized for users (e.g. find events by date, time, event type, etc.) and easier to manage/curate for VA business users.
