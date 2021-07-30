@@ -58,6 +58,7 @@ Information about CLC facilities is present on newer VA system pages, as well as
   > Most of our patients come from the inpatient unit [at the VAMC]. [Florida VAMC SME interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/community-living-centers/discovery/florida-clc-sme-interview.md)
 - Who can Veterans contact directly?
   - CLC residency requires a referral, so Veterans should be in contact with their VA primary health care provider, VA social worker, or a Patient Aligned Care Team (PACT) for the process of admission. Veterans and caregivers can also call Admissions Coordinators directly, when their contact numbers are available, but will likely still need a third party health or social care provider involved in the process.
+  - If a direct number to a CLC is available, Veterans can call the number during business hours. If a CLC is located on a VAMC campus, and a non-direct number is listed (i.e. a general number for the VAMC), Veterans can call during business hours, but it may be more difficult to reach the CLC as the VAMC desk or unit that answers the phone may or may not know where to transfer the call. (See [Florida SME interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/community-living-centers/discovery/florida-clc-sme-interview.md)).
 - What are the admissions requirements?
   - Admissions requirements may vary slightly depending on the location, but they include:
     - Veteran must be enrolled in VA health care
