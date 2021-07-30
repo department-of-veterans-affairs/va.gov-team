@@ -54,3 +54,4 @@ Community Living Centers exist on the VA continuum of mental health care as one 
     - the primary services required, anticipated length of stay, anticipated discharge disposition, and priority for CLC services must be documented?
     - Service connected status, level of disability, and income are all factors in determining the amount of copay a Veteran is responsible for
 - Any special elegibility requirements?
+  - Pets and service animals may be permitted for hospice and end-of-life circumstances, but are otherwise likely not allowed.
