@@ -1,3 +1,5 @@
+*_[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1791983788/Contact+Center+Data+and+Reporting)_*
+
 # VSP Product Outline Template
 
 _**Guidance**_
