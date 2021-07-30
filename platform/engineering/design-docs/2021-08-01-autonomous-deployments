@@ -1,0 +1,96 @@
+# Forms library
+
+**Author(s):** Tim Wright  
+**Last Updated:** 08-01-2021  
+**Status:** **Draft** | In Review | Approved  
+**Approvers:** 
+
+- [ ] Mike Prichard 
+- [ ] Dror Matalon 
+- [ ] Michael Fleet 
+- [ ] Demian Ginther
+
+**Awareness and Review:**
+
+- [ ] Mike Chelen
+- [ ] Chris Valarida
+- [ ] General VFS Team Members
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [Objective](#objective)
+  - [Background](#background)
+  - [Problems](#problems)
+  - [High Level Design](#high-level-design)
+- [Specifics](#specifics)
+  - [Detailed Design](#detailed-design)
+     - [New Features](#new-features)
+     - [Updates Needed](#updates-needed) 
+  - [Technologies Being Used](#technologies-being-used)
+  - [Work Estimates](#work-estimates)
+  - [Alternatives](#alternatives)
+  - [Future Work](#future-work)
+  - [Revision History](#revision-history)
+
+## Overview
+
+### Objective
+
+VFS teams should be able to safely and reliably deploy their frontend applications to any environment at any time. This should happen without waiting for scheduled deployment, or manual intervention by Platform or other VFS teams. Deployments should not cause significant risk to the build or to the site
+
+While adding the ability to autonomously deploy, VA should still maintain the benefits of shared components (i.e. VFSs are still using shared patterns/components for standardization and quality purposes, and we don’t see wide variance from one VA.gov experience to another).
+
+VFS teams should also be able to easily revert their change on their own, as needed.
+
+#### Desired Outcomes
+
+- Increasing the production deployment rate
+- Increasing customer satisfaction
+- Decreasing support volume
+- Decreasing the average time from kickoff to production, by initiative complexity
+- Decreasing build failures
+
+### Background
+
+The current deployment model is to merge changes into the `master` branch to get changes deployed to production, staging, and dev servers. Merges to staging and dev happen with relative frequency, but deployments to production are done once a day for all teams/applications through a central platform-level action. If errors occur at the application level, teams need to request an [out-of-band deployment](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html#DeploymentPolicies-Requestingout-of-banddeploys), which needs to be apporoved by relevent stakeholders. If the error is not critical, the fix needs to wait a full day until the next scheduled deployment.
+
+This model has increased platform support volume, deployment failures and decreased customer satisfaction while limiting the deployments to only a handful a week. It has also increased support volume for on call teams when out-of-band deployments are needed outside business hours.
+
+We are writing this with the assumption that Github Actions work will continue to completion. 
+
+This phase of the initiative does not include
+- Programmatic isolation of the applications
+- Physical isolation of the applications
+
+### High Level Design
+
+TBD
+
+## Specifics
+
+### Detailed Design
+
+#### Technologies Being Used
+
+TBD
+
+### Work Estimates
+
+#### Milestone: TBD
+
+(Prerequisites, Tasks, Estimate)
+
+### Alternatives
+
+TBD
+
+### Future Work
+
+TBD
+
+### Revision History
+
+Date | Revisions Made | Author
+-----|----------------|----------
+August 1, 2021 | Initial draft | Tim Wright
