@@ -14,7 +14,7 @@ Before we start, a few things I want to mention:
 Before we look at the website, can you tell me a little about yourself? 
   - What part of the country do you live in? 
   - What branch did you serve?
-  - What type of devices do you use to access services?
+  - What type of devices do you use to access VA.gov?
   - Which browser do you use to access the internet?
   - Which account do you use to sign in to the VA.gov site?
   	- How did you determine which account you’d be most comfortable using?
@@ -34,7 +34,6 @@ Before we look at the website, can you tell me a little about yourself?
   - How often do you access VA.gov?
   - Which accounts (if you have multiple) do you use most often?
   	- Follow-on: Do you associate specific credentials with specific areas of VA? or Do use different credentials for different parts of VA? Why?
-  - What devices do you typically use when visiting the VA.gov?
   - How would you describe your past and current experience with VA.gov?
   - Do you have others that sign in for you (Caregiver? Family member?) Tell me about some instances when you would have someone sign in for you.
   - Are there instances where you’ll use someone else’s login? Tell me about that process.
@@ -62,9 +61,9 @@ Scenario: Imagine you need to track the status of a claim [or task participant m
 - What are your overall impressions?
 	- Does this screen look familiar?
 	- Does anything look different? 
-- How would you proceed? [after giving impressions of changes]
 - Which of these methods would you be interested in logging in with?
 	- Rate each credential on a scale of 1 - 5, 1 being ”I would not use to sign in”, 5 being “I would definitely use to sign in”
+- How would you proceed? [after giving impressions of changes]
 	- If logging in with DSLogon or MHV [participant presented with second screen with new messaging and options]
 		- Take a min to look it over the next screen
 			- Which option would you prefer and why? (Login.gov, Id.Me, Skip)
