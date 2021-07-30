@@ -52,7 +52,7 @@ Information about CLC facilities is present on newer VA system pages, as well as
   - Because CLCs often serve elderly Veterans, they may also have services specific to this population, including dementia and geropsychiatric care. CLCs can also serve as short-term "sub-acute" care facilities, serving as intermediary locations between VAMC hospitals and other home or community based locations.
   - Covid has restricted regular visitation at many CLC locations, but visitations may still be allowed for compassionate care circumstances, including hospice and immament end-of-life.
 
-### The referral process
+#### The referral process
 
 - How are Veterans referred?
   - Veterans can be referred through their primary health care provider, their social work case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly (a VA health care representative must make the referral if the CLC residency is intended to at VA's expense (see [CLC FAQs](https://www.paloalto.va.gov/clcfaq.asp)). 
