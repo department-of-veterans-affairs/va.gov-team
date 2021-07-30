@@ -1,3 +1,5 @@
+*_[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1791983795/Contact+Center+Tier+II+III+Support+Product+Outline)_*
+
 # Contact Center Tier II/III Support Product Outline
 
 ## Overview
