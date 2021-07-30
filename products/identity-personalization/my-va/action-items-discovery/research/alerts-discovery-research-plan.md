@@ -6,13 +6,12 @@ Our team is looking to give Veterans access to their recent action items in a ce
 The goal of this research is to understand the best way to implement this new feature on VA.gov.
  
 - How do users expect to find their action items? 
-- Can the user find the tools and tasks that they are looking for effectively? 
-- Can the user easily access and understand any personal updates (related to claims, health care, or forms)?
-- Is the new dashboard layout more effective than the current MyVA page?
 
 ## Background
 
-Based on past user interviews, we know people come to VA.gov to see information that is relevant to them and to complete tasks specific to their benefits. Users do not want to see links, suggestions or information that doesn't apply to them personally on their dashboard.
+
+
+In many past user interviews, users have expressed the importance of having relevant or time-sensitive action items elevated.  Based on recent studies,  Having a centralized place for recent action items would be a large improvement and would help users complete important tasks efficiently.  
 
 Our goal is to create a My VA dashboard design that will improve the online experience for Veterans, by better integrating Veteran-provided data onto the My VA dashboard. The MyVA dashboard aims to surface the status and the most recent update to a users health care information, claims information, and any applications in progress. Users should also be able to quickly and easily reach the tools that allow them to manage this information. 
 
