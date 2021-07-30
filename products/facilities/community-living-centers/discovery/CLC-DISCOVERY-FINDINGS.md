@@ -55,7 +55,9 @@ Information about CLC facilities is present on newer VA system pages, as well as
 ### The referral process
 
 - How are Veterans referred?
-  - Veterans can be referred through their primary health care provider, their social work case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly (a VA health care representative must make the referral if the CLC residency is intended to at VA's expense (see [CLC FAQs](https://www.paloalto.va.gov/clcfaq.asp)). Because CLCs are often located on VAMC campuses, VA primary care providers and social workers working with other in-patient units on the campus often refer patients to the CLC.
+  - Veterans can be referred through their primary health care provider, their social work case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly (a VA health care representative must make the referral if the CLC residency is intended to at VA's expense (see [CLC FAQs](https://www.paloalto.va.gov/clcfaq.asp)). 
+  - Because CLCs are often located on VAMC campuses, VA primary care providers and social workers working with other in-patient units on the campus often refer patients to the CLC.
+  > Most of our patients come from the inpatient unit [at the VAMC]. [Florida VAMC SME interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/community-living-centers/discovery/florida-clc-sme-interview.md)
 - Who can Veterans contact directly?
   - CLC residency requires a referral, so Veterans should be in contact with their primary health care provider, social worker, or a Patient Aligned Care Team (PACT) for the process of admission. Veterans and caregivers can also call Admissions Coordinators directly, when their contact numbers are available, but will likely still need a third party health or social care provider involved in the process.
 - What are the admissions requirements?
