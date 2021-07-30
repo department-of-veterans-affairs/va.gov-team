@@ -21,6 +21,16 @@
 
 </details>
 
+## July 30
+
+Help desk
+Health service migrations
+Upcoming VAMC launches
+Operating status
+
+
+
+
 ## July 23
 
 VAMC launches
