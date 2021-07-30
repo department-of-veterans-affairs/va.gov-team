@@ -23,7 +23,7 @@
 
 ## July 30
 
-Help desk
+VAMC editors support.
 Health service migrations
 Upcoming VAMC launches
 Operating status
