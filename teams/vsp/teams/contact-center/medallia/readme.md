@@ -1,3 +1,5 @@
+*_Duplicated in Confluence_*
+
 ## Medallia User Surveys Overview (WIP)
 
 *Only the Feedback Survey is live in production (as of 4/2/21)*
