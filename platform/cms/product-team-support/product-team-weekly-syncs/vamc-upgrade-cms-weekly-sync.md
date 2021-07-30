@@ -23,10 +23,10 @@
 
 ## July 30
 
-VAMC editors support.
-Health service migrations
-Upcoming VAMC launches
-Operating status
+* VAMC editors support.
+* Health service migrations
+* Upcoming VAMC launches
+* Operating status permissions etc
 
 
 
