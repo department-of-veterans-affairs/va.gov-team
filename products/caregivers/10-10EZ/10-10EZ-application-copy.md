@@ -12,7 +12,7 @@ Sign in to check your application status _(link)_
 
 _(end blue box)_
 
-### Follow these steps to get started:
+### Follow these steps to get started
 
 **1. Check your eligibility**
 
@@ -23,7 +23,7 @@ Make sure you meet our eligibility requirements for full enrollment before you a
 What are the eligibility requirements to enroll in VA health care? _(more info)_
 
 You may be eligible to enroll in VA health care if all of these statements are true:
-- You served in the active military, naval, or air service(including being called up from the National Guard or Reserve by a federal order), **and**
+- You served in the active military, naval, or air service (including being called up from the National Guard or Reserve by a federal order), **and**
 - You didn’t receive a dishonorable discharge, **and**
 - You meet at least one of the service requirements for enrollment
 
@@ -79,6 +79,7 @@ We’ll take you through each step of the process. It should take about 30 minut
 What happens after I apply?  _(more info)_
 
 We process health care applications within about a week. We’ll send you a letter in the mail with our decision.
+
 If you don’t receive your decision letter within a week after you apply, please don’t apply again. Call us at 877-222-8387 _(link)_ (TTY: 711)_(link)_. We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 _(end more info)_
