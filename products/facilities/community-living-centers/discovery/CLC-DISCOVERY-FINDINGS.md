@@ -27,24 +27,26 @@ Community Living Centers exist on the VA continuum of mental health care as one 
 #### The facilities
 
 - What are they?
-  - ClCs are short-term and long-term residential facilities intended for Veterans who require assistance with their activities of daily living (ADLs). They are designed to look more like actual homes or small neighborhoods (ex: [Orlando CLC](https://www.orlando.va.gov/services/CLC_Pictures.asp)), more so than dormatories, in order to provide a greater level of comfort to elderly patients.
+  - CLCs are short-term and long-term residential facilities intended for Veterans who require assistance with their activities of daily living (ADLs). They are designed to look more like actual homes or small neighborhoods (ex: [Orlando CLC](https://www.orlando.va.gov/services/CLC_Pictures.asp)), more so than dormatories, in order to provide a greater level of comfort to elderly patients.
   - Do to the nature of the in-patient care CLC residents often require, residents have access to the full range of services offered at the VAMC the CLC is attached to. Health services are offerd in-suite at the CLC, and shuttle services are available for travel between CLC residences and other VAMC units.
 - Where are they located?
-  - Community Living Centers are usually located on VAMC campuses as an attached wing, or in proximity to an VAMC campus, in order to provide residents with 24/7 access to medical care. A VA health care system may also contract with community nursing home in the area via the Community Nursing Home Program (CNH Program).
+  - Community Living Centers are usually located on VAMC campuses as an attached wing, or in proximity to an VAMC campus, in order to provide residents with 24/7 access to medical care. A VA health care system may also contract with community nursing home in the local area via the Community Nursing Home Program (CNH Program).
 - How to people refer to them?
   - "Community Living Centers", "CLCs", and "nursing homes" are all terms used to refer to these facilities.
 
 #### The services
 
 - Healthcare provided
-  - Community Living Centers are intended to help treat Veterans with chronic stable conditions, and who need assistance with daily living activities. Services include short and long-term nursing care, rehabilitiation care, respite care, pallative care, hospice care, and the full range of health care services offered at the VAMC location the CLC is attached to. Available services may vary slightly from location to location depending on the purpose of the facility (ex: [Palo Alto](https://www.paloalto.va.gov/clc.asp) focusing on pallative, hospice, and sub-acute care, vs [Orlando](https://www.orlando.va.gov/services/CLC.asp) offering services related to spinal cord injury specifically). Because CLCs often serve elderly Veterans, they may also have services specific to this population, including dementia and geropsychiatric care. CLCs can also serve as short-term "sub-acute" care facilities, serving as intermediary locations between VAMC hospitals and other home or community based locations.
+  - Community Living Centers are intended to help treat Veterans with chronic stable conditions, and who need assistance with daily living activities. Services include short and long-term nursing care, rehabilitiation care, respite care, pallative care, hospice care, and the full range of health care services offered at the VAMC location the CLC is attached to. Available services may vary slightly from location to location depending on the purpose of the facility (ex: [Palo Alto](https://www.paloalto.va.gov/clc.asp) focusing on pallative, hospice, and sub-acute care, vs [Orlando](https://www.orlando.va.gov/services/CLC.asp) offering services related to spinal cord injury specifically). 
+  - Because CLCs often serve elderly Veterans, they may also have services specific to this population, including dementia and geropsychiatric care. CLCs can also serve as short-term "sub-acute" care facilities, serving as intermediary locations between VAMC hospitals and other home or community based locations.
+  - Covid has restricted regular visitation at many CLC locations, but visitations may still be allowed for compassionate care circumstances, including hospice and immament end-of-life.
 
 ### The referral process
 
 - How are Veterans referred?
   - Veterans can be referred through their primary health care provider, their social work case managers, representatives of VA Community Resource and Referral Centers (CRRCs), and via self-referral by calling the facility directly (a VA health care representative must make the referral if the CLC residency is intended to at VA's expense (see [CLC FAQs](https://www.paloalto.va.gov/clcfaq.asp)). Because CLCs are often located on VAMC campuses, VA primary care providers and social workers working with other in-patient units on the campus often refer patients to the CLC.
 - Who can Veterans contact directly?
-  - CLC residency requires a referral, so Veterans should be in contact with their primary health care provider, social worker, or a Patient Aligned Care Team (PACT) for the process of admission. Veterans and caregivers can also call Admissions Coordinators directly, but will likely still need a third party health or social care provider involved in the process.
+  - CLC residency requires a referral, so Veterans should be in contact with their primary health care provider, social worker, or a Patient Aligned Care Team (PACT) for the process of admission. Veterans and caregivers can also call Admissions Coordinators directly, when their contact numbers are available, but will likely still need a third party health or social care provider involved in the process.
 - What are the admissions requirements?
   - Admissions requirements may vary slightly depending on the location, but they include:
     - Veteran must be enrolled in VA health care
