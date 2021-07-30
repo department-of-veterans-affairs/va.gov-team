@@ -1,5 +1,3 @@
-[IN PROGRESS]
-
 ## Community Living Center (CLC) Discovery Findings
 
 ### Background
