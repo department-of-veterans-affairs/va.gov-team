@@ -1,3 +1,5 @@
+*_Duplicated in Confluence_*
+
 # How to request a Medallia survey
 
 **Summary:** this document outlines Medallia _Feedback_ surveys and how you can request one for your Veteran-facing service.
