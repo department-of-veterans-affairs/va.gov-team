@@ -23,13 +23,21 @@
 
 ## July 30
 
-* VAMC editors support.
+* VAMC editors support
+  * Prod launches coming quickly so more issues are raised
+  * 2nd weekly office hours starting in August, with some focus on Plain Language, Style guide, and where there may be additional training
+  * VAMC upgrade team ramping up the self-service campaign
 * Health service migrations
+  * No Lovell FHCC for now, waiting on final name
+  * Low lift once naming decision is made, just edit the CSVs that are already in codebase
+* LGBTQ+
+  * Detail pages getting updated
+  * Other language changes 
+* Walla Walla 
+  * CMS team creates menu first week of August and delete the old one
 * Upcoming VAMC launches
+  * Stan sending list for August 
 * Operating status permissions etc
-
-
-
 
 ## July 23
 
