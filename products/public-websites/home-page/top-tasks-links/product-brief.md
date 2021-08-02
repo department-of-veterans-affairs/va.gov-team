@@ -77,17 +77,12 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
 
 ## Additional Background
 
-  - VEO, the business "owner" of Outreach and Events Hub, has extended content edit capability and rights to leads in other VACO digital comms teams [as outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md)
+- [2018 Home Page Research Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/user-research)
+- [2021 User Research on Home Page Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf)
 
-## Screenshots of Representative Events Calendars
-  
-**AARP**
-  
-  <img width="969" alt="Screen Shot 2021-07-28 at 12 50 18 PM" src="https://user-images.githubusercontent.com/63107147/127363797-d39057d4-171a-42d8-977e-4a2787d44384.png">
 
-**TheEventsCalendar.com (WordPress Plug In)** - https://demo.theeventscalendar.com/
-  
-<img width="859" alt="Screen Shot 2021-07-28 at 12 54 39 PM" src="https://user-images.githubusercontent.com/63107147/127364295-652dcc77-e239-4ed8-8535-6f6b037b9cc6.png">
+## Screenshots 
+
 
 
 ## Status 
