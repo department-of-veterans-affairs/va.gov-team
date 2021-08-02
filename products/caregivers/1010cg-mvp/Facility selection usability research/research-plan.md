@@ -6,7 +6,7 @@ This research is to be conducted on the Health Care Application (10-10EZ) by the
 During various usability studies on this form we have found the facility selection page to cause many users confusion. A few trends in confusion include:
 1. Users don't know why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
-3. Users that live on state borders potentially would have to select a different state from where they live in order to find their prefferred facility (located in another state).
+3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
 
 ## Goals	
 
@@ -41,7 +41,7 @@ A task-based usability study will be conducted remotely with Zoom using the Peri
 - Do they know what to input in the text field?
 - Can they successfully filter by distance?
 - When the distance is automatically raised (if no results within specified distance), is this clear to the participant?
-- Can users successully navigate past a "no results" error?
+- Can users successfully navigate past a "no results" error?
 - Can users successfully load more facilities if return is greater than 5?
 
 Participants will be encouraged to talk through their exploration of the prototype.
