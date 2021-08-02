@@ -34,8 +34,8 @@ Our hypothesis is that users will be able to navigate through the short form rel
 
 A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Participants will be shown one of three flows:
 1. Short form based on pre-populated disability rating of 50% or higher at application start
-2. Short form based on self-reported disability rating of 50% or higher based on VA compensation questions
-3. Regular form based on self-reported disability rating after answering VA compensation question
+2. Short form based on self-reported disability rating of 50% or higher on VA compensation question
+3. Full form based on self-reported not having a disability rating of 50% or higher on VA compensation question
 
 
 Participants will be encouraged to talk through their exploration of the prototype. Remote observers and note takers will be in attendance.
