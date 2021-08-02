@@ -27,7 +27,7 @@
 
 * Automate 'required' services for Vet Centers?
 * Hardening/engineering sync
-
+* Supporting 2 address lines on CAP nodes and Facility Health Service paragraph (graphql/template)
 
 ## July 28
 
