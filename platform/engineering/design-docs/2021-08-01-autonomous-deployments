@@ -1,7 +1,7 @@
-# Forms library
+# Autonomous Deployment for vets-website Applications
 
 **Author(s):** Tim Wright  
-**Last Updated:** 08-01-2021  
+**Last Updated:** 08-04-2021  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** 
 
@@ -35,11 +35,13 @@
 
 ## Overview
 
+The document's purpose it to outline the minimum viable product (MVP) outcome to create autonomous deployment within the vets-website repository. The end of this document contains a post-MVP plan as well.
+
 ### Objective
 
-VFS teams should be able to safely and reliably deploy their frontend applications to any environment at any time. This should happen without waiting for scheduled deployment, or manual intervention by Platform or other VFS teams. Deployments should not cause significant risk to the build or to the site
+VFS teams should be able to safely and reliably deploy their frontend applications to any environment at any time. This should happen without waiting for a scheduled deployment or manual intervention by Platform or other VFS teams. Deployments should also not cause significant risk to the build or to the site.
 
-While adding the ability to autonomously deploy, VA should still maintain the benefits of shared components (i.e. VFSs are still using shared patterns/components for standardization and quality purposes, and we don’t see wide variance from one VA.gov experience to another).
+While adding the ability to autonomously deploy, VA should still maintain the benefits of shared components (i.e. VFS teams are still using shared patterns/components for standardization and quality purposes, and we don’t see wide variance from one VA.gov experience to another).
 
 VFS teams should also be able to easily revert their change on their own, as needed.
 
@@ -53,9 +55,11 @@ VFS teams should also be able to easily revert their change on their own, as nee
 
 ### Background
 
-The current deployment model is to merge changes into the `master` branch to get changes deployed to production, staging, and dev servers. Merges to staging and dev happen with relative frequency, but deployments to production are done once a day for all teams/applications through a central platform-level action. If errors occur at the application level, teams need to request an [out-of-band deployment](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html#DeploymentPolicies-Requestingout-of-banddeploys), which needs to be apporoved by relevent stakeholders. If the error is not critical, the fix needs to wait a full day until the next scheduled deployment.
+The current deployment model is to merge changes into the `master` branch to get changes deployed to production, staging, and dev servers. Commits to staging and dev happen with relative frequency, but deployments to production are done once a day for all teams/applications through a central platform-level action. If errors occur at the application level, teams need to request an [out-of-band deployment](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html#DeploymentPolicies-Requestingout-of-banddeploys), which needs to be apporoved by relevent stakeholders. If the error is not critical, the fix needs to wait a full day until the next scheduled deployment.
 
 This model has increased platform support volume, deployment failures and decreased customer satisfaction while limiting the deployments to only a handful a week. It has also increased support volume for on call teams when out-of-band deployments are needed outside business hours.
+
+Our goal with this initiative is to allow teams to freely deploy their own code, breaking free of the current model.
 
 We are writing this with the assumption that Github Actions work will continue to completion. 
 
@@ -65,19 +69,79 @@ This phase of the initiative does not include
 
 ### High Level Design
 
-TBD
+Deployment environments will be remapped from `master` as a central merge location to related environment branches. `master` will deploy to production, `staging` will deploy to staging, and `dev` will deploy to dev.
+
+For each environment (prod/staging/dev), a Github Action Workflow will be set up to handle application deployments to the appropriate S3 bucket.
+
+The daily deployment will continue until all applications are approved and migrated into the new production release pattern. The same also applies to any platform or shared code that may been regular deployments.
+
+After the system is rolled out, we will start working from a "disallowed" list instead of an "allowed" list to identify applications that are not yet ready for autonomous deployments (I.E. the static pages app).
+
+VSP will always maintain an option to complete and deploy a full release to any environment as a system of developer hygene and to keep all dependencies up to date. This can be the current daily deply script, whether (long term) it is on a schedule or not.
+
+#### Production Deployments 
+
+Commits to the `master` branch will have an optional auto deployment flag in the manifest.json file (at the discretion of the application) as well as a manual option for app teams to control production release with a higher level of granularity. A team may not want to deploy to production until after hours, for example.
+
+Upon initial/beta release of production deployments there will be an "allowed" list for applications that VSP identifies as good candidates for testing the system (teams with frewquent releases). All other applications will have the advantage of auto deployments to staging and dev environments, but will remain contained in the daily deployment until the system is ready to be truly switched on. Applications using the auto-deployment will also remain in the daily deploy while the system in beta to clean up and issues and dependencies upgrades.
+
+#### Staging and Dev deployments
+
+Deployments to staging and dev will be automatic upon merge to the branch for all applications. This is a workflow change and will need heavy communication throughout VFS teams.
 
 ## Specifics
 
 ### Detailed Design
 
+**Steps for a production deployment:**
+
+VSP maintains the ability to create and deploy full production builds as a failsafe until the system is stable.
+
+1. Merge branch into master to trigger workflow
+2. Is the daily deploy running?
+  - **Yes**: Stop
+  - **No**: Continue
+3. Has an approved application changed?
+  - **Yes**: Continue
+  - **No**: Stop
+4. Build changed applications / Run unit tests
+5. Sync CSS/JS/assets to prod S3 bucket
+
+**Steps for a staging/dev deployment:**
+
+VSP maintains the ability to create and deploy full staging/dev builds as a failsafe until the system is stable.
+
+1. Merge branch into staging/dev (locally or through PR)
+2. Build changed applications / Run unit tests
+4. Sync CSS/JS/assets to prod S3 bucket
+
+#### Roadmap
+1. Update current system to function with new workflows
+2. Create and release staging/dev deployment behaviors
+3. Create and release initial production behaviors with "allow" list
+4. Create and release MVP production bahviors with "disallow" list
+
 #### Technologies Being Used
 
-TBD
+- [Github Actions](https://github.com/features/actions)
+- [AWS](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [Webpack](https://webpack.js.org/)
 
 ### Work Estimates
 
-#### Milestone: TBD
+#### Milestone: Update current system to function with new workflows
+
+(Prerequisites, Tasks, Estimate)
+
+#### Milestone: Create and release staging/dev deployment behaviors
+
+(Prerequisites, Tasks, Estimate)
+
+#### Milestone: Create and release initial production behaviors with "allow" list
+
+(Prerequisites, Tasks, Estimate)
+
+#### Milestone: Create and release MVP production bahviors with "disallow" list
 
 (Prerequisites, Tasks, Estimate)
 
@@ -85,12 +149,12 @@ TBD
 
 TBD
 
-### Future Work
+### Future Work / Post-MVP Dashboard
 
-TBD
+Initial dashboard view where teams and sign in with Github auth, view their apps and manage their deployments including: scheduling, reverting, and manual deployment. This dashboard and infrastructure should be scoped and estimated separately as a post-MVP item. It will be the basis for a future platform dashboard.
 
 ### Revision History
 
 Date | Revisions Made | Author
 -----|----------------|----------
-August 1, 2021 | Initial draft | Tim Wright
+August 4, 2021 | Initial draft | Tim Wright
