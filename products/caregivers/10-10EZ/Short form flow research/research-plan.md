@@ -3,7 +3,7 @@
 ## Background
 This research is to be conducted on the Health Care Application (10-10EZ) by the Caregivers team.
 
-Based on our [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) data and [Discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md) we have identified that the Miltary Service and Household Information sections of the 10-10EZ cause applicants the most confusion and time, and show the highest drop-off rates. As part of an iterative process we are working to create [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) for those that we identify to have a service-connected disability rating of 50% or higher either through information we already have on file (pre-populated) or by them self-reporting it. Once these flows are validated, we will look into expanding it to provide a short form experience for other qualifying questions.
+Based on our [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-whUrSArDLf8OP_-65lCMPi36h0ihHPA3XqmIk/edit#slide=id.p1) data and [Discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md) we have identified that the Military Service and Household Information sections of the 10-10EZ cause applicants the most confusion and time, and show the highest drop-off rates. As part of an iterative process we are working to create [shortened form flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) for those that we identify to have a service-connected disability rating of 50% or higher either through information we already have on file (pre-populated) or by them self-reporting it. Once these flows are validated, we will look into expanding it to provide a short form experience for other qualifying questions.
 
 ## Goals	
 
@@ -14,7 +14,7 @@ The goals of this user research are to:
 
 **Research questions**
 
-1. Are users able to navigate through the pre-poulated short form easily and without confusion?
+1. Are users able to navigate through the pre-populated short form easily and without confusion?
 2. Are users able to navigate through the short form based on self-reported information easily and without confusion?
 3. Do users understand what the short form is?
 4. Do users understand why they can fill out a short form?
