@@ -32,8 +32,9 @@ After conversations with key OCTO-DE product and design leads, two solution opti
 
 
 
-
 ### (2) Refreshing the Home Page
+
+
 
 
 
@@ -41,20 +42,14 @@ After conversations with key OCTO-DE product and design leads, two solution opti
 
 ### (3) Unifying the Auth/Unauth Experience 
 
-
-
 Unifying Auth and Unauth
 https://github.com/department-of-veterans-affairs/digital-experience-products/issues/46
 
-## The Problem to be Solved
 
-How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach-and-events/events/) more personalized for users (e.g. find events by date, time, event type, etc.) and easier to manage/curate for VA business users.
 
   
-## Proposed Solution(s)
 
-
-## User Stories
+## What Comes Next
 
 
 - [ ] Review this outline with Dave/Kev for "fleshing out"
