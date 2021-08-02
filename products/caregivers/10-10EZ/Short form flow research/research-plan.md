@@ -71,6 +71,10 @@ All participants must:
 
 ## When? 	
 Desired Timeline: TBD
+
+Session length: 45 minutes. Please leave 15 minutes in between each session.
+
+Notetaking: TBD
 	
 Team Availability | Time (EST)
 ------------------|--------------
