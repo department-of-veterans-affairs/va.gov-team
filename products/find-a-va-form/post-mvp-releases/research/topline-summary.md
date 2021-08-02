@@ -28,16 +28,15 @@ Participants were on a variety of devices:
 ## Findings
 We had planned to assess participants' success in downloading PDF forms per each of the 3 designs we had for providing instructions, but unfortunately we found that *most people completely ignored the instructions*--no matter which design they saw. 
 
-More disappointing was the finding that *most participants (9 of 11) were unable to fill out any of 4 specific forms without a lot of help* from the moderator and notetakers, and many participants were unable to succeed even with the help provided. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all four forms. 
+More disappointing was the finding that *most participants (9 of 11) were unable to fill out and digitally sign any of 4 specific forms without a lot of help* from the moderator and notetakers, and many participants were unable to succeed even with the help provided. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all four forms. 
 
 Unique issues were encountered in every session, which will be documented in the full report. A few are mentioned below in this summary. Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants universally regardless of their visual ability/disability.
 
 ## Universal Issues
 
 1. For 10 of 11 participants, the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat. In the web browser in this way, the form couldn't be filled out, saved, and/or digitally signed.
-1. Without any assistance from the moderator, only 2 of 11 participants were able to successfully download *any* of the 4 forms and open them in Adobe Acrobat to fill out and digitally sign. One participant was successful with one of the forms, and the other participant was successful with two of the forms. 
-  1. The kinds of problems that each participant encountered were unique, and depended on their specific device, operating system, web browser, and whether they had Adobe Acrobat already installed.
-  1. Participants using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat that's only available in Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms.
+1. Issues encountered by each participant in filling out the PDF forms were unique, and depended on their specific device, operating system, web browser, and whether they had Adobe Acrobat already installed.
+1. Participants using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat that's only available in Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms.
 1. 
 
 
