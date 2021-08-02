@@ -92,7 +92,7 @@ Provide a bulleted outline describing the required features of the product
 
 ### Key Workflows ###
 * [Adding a new VA form](URL TBD)
-* [Publishing, editing or deleting a form details page](form-detail-landing-pages/publish-edit-delete-details-page.md)
+* [Publishing, editing or deleting a form details page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/form-detail-landing-pages/Publishing%20a%20new%20form%20detail%20landing%20page.pdf)
 * [Removing a form from Find a VA Search](URL TBD)
 * [Linking search results to a form detail page](URL TBD)
 * [Linking to new online tool form equivalent](URL TBD)
