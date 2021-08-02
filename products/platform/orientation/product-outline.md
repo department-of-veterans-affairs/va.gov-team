@@ -1,9 +1,9 @@
 # VSP Product Outline Template
 
-# VSP Orientation
+# Platform Orientation
 
 ## Overview
-*When a new VFS team joins or a new person joins a VFS team, VSP conducts orientation (a series of meetings and reading material) to introduce VFS teams to processes, standards and expectations of developing on platform.*
+*When a new VFS team joins or a new person joins a VFS team, VSP conducts platform orientation (a series of meetings and reading material) to introduce VFS teams to processes, standards and expectations of developing on platform.*
 
 ## Problem Statement
 The platform ecosystem is robust and it can be a confusing experience for new VFS teams or team member to jump into developing on Platform.
