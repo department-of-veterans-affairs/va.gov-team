@@ -55,13 +55,13 @@ All participants must:
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
 
-**Participant pool should strive for the following breakdown:**
+**Participant pool should strive for the following breakdown**
 
 - Age: minimum of 50% over age 55
 - Veterans with a disability rating of 50% or higher:	minimum of 80% of participants
 
 
-**Participant pool should in diverse in:**
+**Participant pool should in diverse in**
 - Branch of service
 - Gender (30% or more women)
 - Race
