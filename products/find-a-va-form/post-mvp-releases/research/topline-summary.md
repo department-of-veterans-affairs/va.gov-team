@@ -35,7 +35,9 @@ Unique issues were encountered in every session, which will be documented in the
 ## Universal Issues
 
 1. For 10 of 11 participants, the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat. In the web browser in this way, the form couldn't be filled out, saved, and/or digitally signed.
-1. Participants using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat that's only available in Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms.
+1. Without any assistance from the moderator, only 2 of 11 participants were able to successfully download *any* of the 4 forms and open them in Adobe Acrobat to fill out and digitally sign. One participant was successful with one of the forms, and the other participant was successful with two of the forms. 
+  1. The kinds of problems that each participant encountered were unique, and depended on their specific device, operating system, web browser, and whether they had Adobe Acrobat already installed.
+  1. Participants using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat that's only available in Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms.
 1. 
 
 
