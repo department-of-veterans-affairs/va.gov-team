@@ -29,8 +29,9 @@
 </details>
 
 ## Monday, August 2, 2021
-* 
-
+* How to uniquely identify the health services objects
+  * LH to go through UX to validate whether to use machine name or non-sensical ID or a list that LH owns (what makes sense for different consumers)
+  * Will then need to add unique identifier into payload from CMS
 
 ## Monday, July 19, 2021
 * Clarification on workflow for VAMC user data request changes for facilities
