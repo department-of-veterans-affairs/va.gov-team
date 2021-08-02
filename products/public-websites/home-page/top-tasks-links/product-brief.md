@@ -26,23 +26,17 @@ As an OCTO-DE product owner, I need a defensible framework for adding -- and not
 
 After conversations with key OCTO-DE product and design leads, two solution options have been identified:
 
-- Create a rubric that establishes a baseline "score" to qualify for placement on the Home Page
+- Create a rubric that establishes a baseline "score" for links to earn placement on the Home Page. 
 
 [VA.gov HP Links Scorecard.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6919371/VA.gov.HP.Links.Scorecard.xlsx)
 
 
+- Leverage "A/B testing" in production to determine if newly-proposed links perform better than existing links.  This will ensure we make data-informed decisions. (Approach preferred by Ryan Thurwell)
 
 
-- Leverage "A/B testing" in production to determine if newly proposed links perform better than existing links (e.g. underperformers).
+### (2) Refresh the Home Page 
 
-
-
-### (2) Refreshing the Home Page
-
-
-
-
-
+Does the current VA.gov home page -- now nearly three years old -- meet the evolving needs of its users and the ever-changing entity it represents?  Not only are there new stakeholder demands, but user expectations may be changing as well.  The three year mark 
 
 
 ### (3) Unifying the Auth/Unauth Experience 
