@@ -59,17 +59,39 @@ As well as those who publicize MMU events and information to Veterans:
    - More discovery work to understand PAO tools, processes, needs and pain points. 
    - Find ways to improve relationships with PAOs, and create solutions that take their needs into account.
 
-### 3. Coordination, collaboration and communication between VHA and Vet Centers is inconsistent at best.
+### 3. Collaboration between VHA and Vet Centers is inconsistent at best and needs work
 
 - MMUs and MVCs (Mobile Vet Centers) can be used and deployed interchangeably for different situations and may be parked next to each other without the other knowing. VA staff that we interviewed report poor collaboration between VHA and Vet Centers, explaining how inconsistent it is across the country and even hinting at adversarial in some cases. This is not good for the Veteran or VA staff. This means Veterans are not being effectively routed to potential care and benefits.
 - In past research, Vet Center staff voiced concerns over the negative relationship between VHA and Vet Center. In this study, VHA staff volunteered the same concern.
-- Health systems where VHA and VC work together effectively, like Orlando, have acknowledged the issue and put practices in place to rectify it. However, this scenario seems to be an outlier, due to considerable concerted effort by motivated staff, rather than the VA norm.
+- Health systems where VHA and VC work together effectively, like Orlando, have acknowledged the issue and put practices in place to rectify it. However, this scenario seems to be an outlier, due to considerable concerted effort by motivated staff, rather than the norm.
 - In past research, Veterans expressed anger and resentment that they were not informed of Vet Center mental health care options by their VHA mental health providers.
 
    #### Recommendation: 
 
-   - More research is needed to understand the source of the problem and to identify potential downstream effects that it may be causing Veterans and staff.
+   - Identify the entity most receptive to responding to this finding: Veteran experience office?
+   - More research is needed to understand the problem and additional downstream effects that it may be causing Veterans and staff.
 
+### 4. Communicating MMU/MVC deployment after an emergency may not be done consistently on VA.gov, or at all.
+
+ We learned that there are barriers to updating the status of an MMU on Teamsite in a timely manner following an emergency.
+   - Emergencies often happen after hours making coming into the office  to update a website impractical 
+   - Facebook is easier to update than the website
+   - Belief that Veterans won't be going to VA.gov for information after an emergency
+
+ 
+ #### Recommendation: 
+
+   - More research is needed to understand user flow, barriers, and areas of improvement 
+
+### 5. The list of Mobile clinics in VAST is innaccurate
+
+- Emergency Management must be able to track the status and location of all (CDRs) Critical Deployable Resources, including MMUs? What system houses this data?Can we leverage this? 
+
+
+   #### Recommendation: 
+
+   - Get an updated list of all Mobile Units from emergency management, OR
+   - Send out a mandatory survey to PAOs having them confirm or correct the MMU inventory
 
 ## Recommendations
 ## Next steps
