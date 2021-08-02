@@ -15,9 +15,11 @@ VSP practice area specialists
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+* What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?
 * _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Grafana or other dashboards/reports where possible_
+* Reduction in number of hours per sprint dedicated to hosting orientation meetings
+* Reduction in quantity of questions per sprint on #vfs-platform-support relevant to "where do I find..." or "how do I..."?
+* Reduction in quantity of questions on #vfs-platform-support from new VFS team members
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
