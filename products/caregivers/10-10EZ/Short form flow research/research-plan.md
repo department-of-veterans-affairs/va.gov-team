@@ -93,7 +93,7 @@ Pilot Session: TBD | TBD EST
 - Project point of contact:	Same as moderator
 - Participant(s) for pilot test:	TBD
 - Note-takers: TBD
-- Observers: Chris Dyer (chris.dyer@adhocteam.us), Daniel Nalback (dnalbach@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov) 
+- Observers: Chris Dyer (chris.dyer@adhocteam.us), Daniel Nalbach (dnalbach@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov) 
 	
 
 ## Resources	
