@@ -44,26 +44,9 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
   
 ## Proposed Solution(s)
 
-**High Level User Story/ies**
-
-- As a Veteran user, I need to quickly find VA events of most interest based on a variety of search goals: date, time, location, event type, etc.
-- As a VACO digital comms content editor, I need to curate events (including create, modify, duplicate, categorize for filtering) in the VA.gov CMS in the most efficient way possible.
-
 
 ## User Stories
 
-**As a user:**
-  
-- I want to search for events by date (month, day) and time so that I know what's happening based on my schedule/availability. 
-- I want to search for events by location so that I know what's happening in my area (e.g. at my VAMC).
-- I want to search for events by type so that I know what's happening in-person vs. online/virtual
-- I want to search for events by interest/need so that I know if there events of special interest to me (e.g. about VA benefits, about VA education, about VA Community Care etc.)
-- I want to search for events based on my status (Veteran, beneficiary, care-giver, etc.) so that I can find events of special interest to me.
-
-
-## What Needs to Be Done
-
-**In Short-term (by Aug. 6)**
 
 - [ ] Review this outline with Dave/Kev for "fleshing out"
 - [ ] Identify next iteration of product enhancement work -- CMS AX experience, front-end user experience (e.g. how will filtering work from a user/UX perspective?)
