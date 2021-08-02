@@ -21,6 +21,10 @@
 
 </details>
 
+## August 6
+
+* Schedule for removing endpoints for full prod launches
+
 ## July 30
 
 * VAMC editors support
