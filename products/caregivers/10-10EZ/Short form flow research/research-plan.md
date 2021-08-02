@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for [VSA Caregiver, Usability research of short form based on disability rating, Health Care application 10-10EZ, August 2021]
+# [DRAFT] Research Plan: VSA Caregiver, Usability research of shortened form based on disability rating, Health Care application 10-10EZ, August 2021
 
 ## Background
 This research is to be conducted on the Health Care Application (10-10EZ) by the Caregivers team.
