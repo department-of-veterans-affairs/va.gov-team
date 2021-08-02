@@ -7,7 +7,7 @@ What's more, VA.gov has advanced its authenticated experience -- e.g. MyVA, MyPr
 With this in mind, this Product Brief outlines -- at a high level -- three possible stages of the evolution of VA.gov.
 
 
-### Managing Home Page Top Tasks
+### (1) Managing Home Page Top Tasks
 
 [Comprehensive user research conducted for the 2018 VA.gov home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/brand-consolidation-research-summary-10-25-2018.pptx) determined that the "benefit category is the default mental model for organizing information, but top tasks are why users come to va.gov."  These findings drove the final design which has fundamentally remained unchanged since launch.
 
@@ -33,13 +33,13 @@ After conversations with key OCTO-DE product and design leads, two solution opti
 
 
 
-### Refreshing the Home Page
+### (2) Refreshing the Home Page
 
 
 
 
 
-### Unifying the Auth/Unauth Experience 
+### (3) Unifying the Auth/Unauth Experience 
 
 
 
