@@ -57,8 +57,8 @@ All participants must:
 
 **Participant pool should strive for the following breakdown**
 
+- Disability rating of 50% or higher: minimum of 80% of participants
 - Age: minimum of 50% over age 55
-- Veterans with a disability rating of 50% or higher:	minimum of 80% of participants
 
 
 **Participant pool should in diverse in**
