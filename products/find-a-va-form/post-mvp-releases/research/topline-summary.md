@@ -14,6 +14,8 @@ This topline summary is a high level, top-of-mind summary of trends observed in 
 
 ## Introduction
 The purpose of this research is to 
+1. Better understand how Veterans download VA PDF forms and what challenges they encounter.
+1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We want to assess the performance of three different design options for providing instructions.
 
 ## Participants
 We talked to **11** participants (all Veterans except for one family member of a Veteran). 4 participants used screen readers during the sessions.
@@ -24,27 +26,22 @@ Participants were on a variety of devices:
 - 1 on a smartphone
 
 ## Findings
-We had intended to assess participants' success in downloading PDF forms per each of the 3 designs we had for providing instructions, but unfortunately we found that *most people completely ignored the instructions*--no matter which design they saw. 
+We had planned to assess participants' success in downloading PDF forms per each of the 3 designs we had for providing instructions, but unfortunately we found that *most people completely ignored the instructions*--no matter which design they saw. 
 
-More disappointing was the finding that *most participants (9 of 11) were unable to complete any of the user tasks without a lot of help* from the moderator and notetakers, and many participants were unable to succeed even with the help provided. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all of the forms. 
+More disappointing was the finding that *most participants (9 of 11) were unable to fill out any of 4 specific forms without a lot of help* from the moderator and notetakers, and many participants were unable to succeed even with the help provided. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all four forms. 
 
 Unique issues were encountered in every session, which will be documented in the full report. A few are mentioned below in this summary. Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants universally regardless of their visual ability/disability.
 
 ## Universal Issues
 
-### Topic
-1. 
-
-### Topic
+1. For 10 of 11 participants, the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat. In the web browser in this way, the form couldn't be filled out, saved, and/or digitally signed.
+1. Participants using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat that's only available in Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms.
 1. 
 
 
 ## Assessibility Issues
 
-### Topic
 1. 
-
-### Topic
 1. 
 
 ## Other Insights
