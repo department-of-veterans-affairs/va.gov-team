@@ -49,7 +49,7 @@
           - COVID Questions: Leave through end of year, then check with Danielle (will likely remain up into 2022)
     - Home Page 
       - Home Page Layout to accommodate more Top Tasks
-        - [ ] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.mda)
+        - [ ] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)
         - [Intake ticket to add OAR "File a decision review" link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
         - User Research planned to test adding link to search at bottom of Top Tasks boxes
       - Home Page Alert Banner to make process/functionality more "systematic" (e.g. enable this via CMS)
