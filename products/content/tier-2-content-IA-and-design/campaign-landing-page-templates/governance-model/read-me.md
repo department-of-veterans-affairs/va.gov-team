@@ -57,7 +57,9 @@
 ### Relevant Documents & Links
 
 The Campaign Landing Page Product & Governance Guide (Approved 7/21/2021)
-- [VA.gov Campaign Landing Page_Governance_Product_Guide_07212021.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6858259/VA.gov.Campaign.Landing.Page_Governance_Product_Guide_07212021.pdf)
+
+[VA.gov Campaign Landing Page_Governance_Product_Guide_08012021.pptx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6917862/VA.gov.Campaign.Landing.Page_Governance_Product_Guide_08012021.pptx)
+
 
 How to Clone a CLP in CMS
 - https://prod.cms.va.gov/help/campaign-landing-pages/clone-a-campaign-landing-page
