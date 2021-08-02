@@ -15,6 +15,7 @@ In particular, the current UX design was optimized for viewability across Deskto
 
 And not surprisingly, [update-to-date click-tracking analytics and user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) reveals the Top Tasks section of the Home Page attracts the lion's share of user engagement.
 
+In recent months, VA.gov has received a number of requests to add more links to the Home Page -- some related to [benefits/top tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276), some [not (e.g.featuring video on the homepage)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28193)
 
 
 
