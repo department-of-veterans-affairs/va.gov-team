@@ -27,7 +27,13 @@
 
 * Automate 'required' services for Vet Centers?
 * Hardening/engineering sync
-* Supporting 2 address lines on CAP nodes and Facility Health Service paragraph (graphql/template)
+* Meta description for Locations page 
+  * Content input in [comment here on #27812](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27812#issuecomment-891111897)
+* Dynamic side nav [##17746](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17746)
+  * Discovery determined this work may be more effort than it is worth
+  * May need to look at creating runbook tracking the individual tasks needed for new/merged faciities?
+* How to direct Vet Centers for facility data changes
+
 
 ## July 28
 
