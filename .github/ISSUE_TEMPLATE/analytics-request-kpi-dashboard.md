@@ -68,6 +68,6 @@ Your KPI dashboard request will be added to the Platform Analytics & Insights te
 
 ## Definition of Done
 
-- [ ] Accepted Criteria has been completed
+- [ ] Acceptance Criteria has been completed
   - [ ] KPI Dashboard full QA checklist completed
 - [ ] Dashboard has been shared back with the VFS team
