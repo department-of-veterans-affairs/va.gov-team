@@ -19,7 +19,16 @@ In recent months, VA.gov has received a number of requests to add more links to 
 
 **What Problem Needs to be Solved**
 
-As an OCTO-DE product owner, I need a defensible framework for adding -- and not adding -- new links to the VA.gov Home Page so I can (a) feature the most valuable Veteran facing content and (b) more effectively anage stakeholder requests.
+As an OCTO-DE product owner, I need a defensible framework for adding -- and not adding -- new links to the VA.gov Home Page so I can (a) feature the most valuable Veteran facing tasks, tools and content; and (b) more effectively manage stakeholder requests.
+
+
+**Solutions to be Considered**
+
+After conversations with key OCTO-DE product and design leads, two solution options have been identified:
+
+- Create a rubric that establishes a baseline "score" to qualify for Hom
+
+- Leverage "A/B testing" in production to determine if newly proposed links perform better than existing links (e.g. underperformers).
 
 
 
