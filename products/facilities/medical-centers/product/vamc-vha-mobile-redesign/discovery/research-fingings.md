@@ -25,20 +25,34 @@ As well as those who publicize MMU events and information to Veterans:
 
 ### 1. Mobile clinics, events and services will not be adequately represented by the current model of 1 webpage per vehicle. 
 
-- Mobile clinics, MMUs, MUVs vary widely in their use and purpose. 
-- A mobile asset may be owned by a particular facility but it's custodianship falls under emergency management
-- Emergency management can deploy an MMU at any time, for different needs, crossing health system and catchment area borders. 
+
+- A mobile asset may be owned by a particular facility but it's custodianship falls under emergency management who can deploy it at any time, for different needs, crossing health system and catchment area borders. 
+- Mobile clinics, MMUs, MUVs vary widely in their use and purpose.
+
+    Non-emergency:
+    - Used as primary care clinics to offer scheduled appointments by a predictable schedule
+    - Used as dedicated space for a CBOC to deliver scheduled specialty care; cardiology
+    - Ability to connect to a secure weblink as one reason for choice of location
+    - Used as private space for counseling during planned outreach events
+    - Walk-in services during a planned event
+
+    During emergency response:
+    - Used to deliver primary care in high visibility location 
+    - Used to deliver food, showers, mental health counseling
+    - Used by VHA staff for counseling even when typically staffed by Mobile Vet Center
+
 
    #### Recommendation: 
 
-   - 
+   - Offer multiple solutions driven by the service being offered, e.g.
+    -  Recurring and scheduled primary = dedicated webpage (current VAMC)
+    -  Temporary event or emergency response = events pages
+    -  Specialty service offered by an MMU = service accordion under a facility page
 
 ### 2. PAOs are apprehensive or resistant to adopting upgraded websites
 
-- PAO staffing and capabilities vary widely across VISNs, systems, and facilities. 
-- Current web solutions don’t factor in this variability. 
+- PAO staffing and capabilities vary widely across VISNs, systems, and facilities. Some PAOs don’t feel adequately staffed or trained or supported to maintain a website. Current web solutions don’t factor in this variability. 
 - PAOs prefer to update their facilities' Facebook pages than their current official website.
-- Some PAOs don’t feel adequately staffed or trained or supported to maintain a website. 
 
    #### Recommendation: 
 
