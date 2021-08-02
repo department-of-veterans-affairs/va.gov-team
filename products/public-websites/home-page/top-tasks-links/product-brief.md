@@ -9,12 +9,11 @@ With this in mind, this Product Brief outlines -- at a high level -- three possi
 
 ### Managing Home Page Top Tasks
 
-[Comprehensive user research conducted for the 2018 VA.gov home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/brand-consolidation-research-summary-10-25-2018.pptx)determined that the "benefit category is the default mental model for organizing information, but top tasks are why users come to va.gov," findings which drove the design which has remained unchanged since launch.
+[Comprehensive user research conducted for the 2018 VA.gov home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/brand-consolidation-research-summary-10-25-2018.pptx) determined that the "benefit category is the default mental model for organizing information, but top tasks are why users come to va.gov" -- findings which drove the final design which has remained unchanged since launch.
+
+In particular, the current UX design was optimized for viewability across Desktop and Mobile and that is why the four Top Tasks boxes contain a fixed number of five links in each = 20 tasks total.
 
 
-
-Analytics and user research
-The current UX design was optimized for viewability across Desktop and Mobile and that is why the four Top Tasks boxes contain a fixed number of five links in each = 20 tasks total.
 
 This 
 
