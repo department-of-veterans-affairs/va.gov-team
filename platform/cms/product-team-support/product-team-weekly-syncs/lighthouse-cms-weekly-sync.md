@@ -28,6 +28,10 @@
  
 </details>
 
+## Monday, August 2, 2021
+* 
+
+
 ## Monday, July 19, 2021
 * Clarification on workflow for VAMC user data request changes for facilities
   * Current process is to email api@va.gov (LH customer support team)
