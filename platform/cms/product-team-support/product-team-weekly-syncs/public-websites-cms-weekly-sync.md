@@ -35,6 +35,13 @@
 
 </details>
 
+## August 4 
+
+Banners 
+ * New content type!
+CLP
+
+
 ## July 28
 
 * Pride CLP archive/redirect details
