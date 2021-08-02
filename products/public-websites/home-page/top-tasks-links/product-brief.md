@@ -26,7 +26,12 @@ As an OCTO-DE product owner, I need a defensible framework for adding -- and not
 
 After conversations with key OCTO-DE product and design leads, two solution options have been identified:
 
-- Create a rubric that establishes a baseline "score" to qualify for Hom
+- Create a rubric that establishes a baseline "score" to qualify for placement on the Home Page
+
+[VA.gov HP Links Scorecard.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/6919371/VA.gov.HP.Links.Scorecard.xlsx)
+
+
+
 
 - Leverage "A/B testing" in production to determine if newly proposed links perform better than existing links (e.g. underperformers).
 
