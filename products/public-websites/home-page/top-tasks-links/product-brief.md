@@ -15,14 +15,13 @@ In particular, the current UX design was optimized for viewability across Deskto
 
 And not surprisingly, [update-to-date click-tracking analytics and user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) reveals the Top Tasks section of the Home Page attracts the lion's share of user engagement.
 
-In recent months, VA.gov has received a number of requests to add more links to the Home Page -- some related to [benefits/top tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276), some not -- as an example [this request to feature VA videos on the homepage)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28193)
+In recent months, VA.gov has received a number of requests to add more links to the Home Page -- some related to [benefits/top tasks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276), some not -- as an example [this request to feature VA videos on the homepage.)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28193)
+
+**What Problem Needs to be Solved**
+
+As an OCTO-DE product owner, I need a defensible framework for adding -- and not adding -- new links to the VA.gov Home Page so I can (a) feature the most valuable Veteran facing content and (b) more effectively anage stakeholder requests.
 
 
-
-
-
-2018 Home Page Research 
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/user-research
 
 
 ### Refreshing the Home Page
