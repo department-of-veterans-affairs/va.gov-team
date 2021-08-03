@@ -71,7 +71,7 @@ We recommend placing flyers/posters in highly visible locations, such as COVID-1
 
 All PDF flyers and posters:
 
-- Gwendolyn: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn-11x17.pdf)
+- Gwendolyn: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Gwendolyn-11x17.pdf) and [27x33 large poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-08-MVP-Women-poster-Gwendolyn-27x33.pdf)
 - Jennifer: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jennifer.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jennifer-11x17.pdf)
 - Jessica: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jessica.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Jessica-11x17.pdf)
 - Linda: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Linda.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Linda-11x17.pdf)
@@ -88,6 +88,7 @@ Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Progr
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet.pdf">8.5x11 MVP one-pager flyer (PDF)</a>
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet-11x17.pdf">11x17 MVP one-pager poster (PDF)</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-08-MVP-Women-poster-27x33.pdf">27x33 MVP one-pager large poster (PDF)</a>
 
 ## Women Veterans in Research FAQ
 
