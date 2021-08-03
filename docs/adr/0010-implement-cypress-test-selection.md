@@ -23,9 +23,12 @@ Proposed test selection logic:
 - Else iterate through all files in the branch, create an array of test file paths by grabbing the paths that match `/src/applications/**/tests/**/*.cypress.spec.js?(x)`, pass the array to Cypress, and run the tests
 
 **Step 2**  
-Currently, Cypress tests are divided into 8 groups, and each group of tests is executed in one of 8 containers within a GitHub Actions job matrix. This current approach is not ideal for test selection, because any number of tests, from 0 to the total number of tests, can be selected. For example, imagine that only 6 test files are selected. This would only require Container 0; Containers 1-7 would be created unnecessarily and would not perform any work.  
+Currently, Cypress tests are divided into 8 groups, and each group of tests is executed in one of 8 containers within a GitHub Actions job matrix. This current approach is not ideal for test selection, because any number of tests, from 0 to the total number of tests, can be selected. For example, imagine that only 6 test files are selected. This would only require Container 0; Containers 1-7 would be created unnecessarily because they would not perform any work.  
 
 This process will be updated so that the number of containers created is dependent on the number of tests selected.
+
+**Step 3**  
+As a final precaution to ensure all tests pass, the full suite of Cypress tests will run when a PR is merged to `master`.
 
 ## Consequences
 We expect:
