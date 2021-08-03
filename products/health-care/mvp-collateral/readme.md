@@ -32,7 +32,7 @@ Below is an advertisement that can be used on digital screens in elevators, way-
 
 - Ad for VAMC televisions and digital screens
 
-## One pager (flyer and posters)
+## Flyers and posters
 
 Each PDF flyer has the same content but different portraits. Please use whichever flyer best reflects the audience you’re engaging or wish to engage. 
 
