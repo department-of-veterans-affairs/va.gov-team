@@ -36,7 +36,13 @@ After conversations with key OCTO-DE product and design leads, two solution opti
 
 ### (2) Refresh the Home Page 
 
-Does the current VA.gov home page -- now nearly three years old -- meet the evolving needs of its users and the ever-changing entity it represents?  Not only are there new stakeholder demands, but user expectations may be changing as well.  The three year mark 
+Does the current VA.gov home page -- now nearly three years old -- meet the evolving needs of its users and VA as it continues to consolidate and modernize its digital experience?  Not only are there new stakeholder demands, but user expectations may be changing as well.  The three year mark c/should prompt a fresh look -- via analytics review and user research -- as to whether the Home Page design/IA is "fine as is" or needs a re-think/re-fresh.
+
+Jeff Barnes recommends the following:
+
+- Create a small "tiger team" -- with Design, IA, Research and Product representated -- to conduct a Discovery sprint to examine the effectiveness of the Home Page
+- This team can/should also take into account the new VA stakeholder demands for Home Page "visibility and promotion" -- e.g. does the page need to be more fluid/flexible to accommodate these new demands?
+- 
 
 
 ### (3) Unifying the Auth/Unauth Experience 
