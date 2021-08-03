@@ -20,7 +20,6 @@ As well as those who publicize MMU events and information to Veterans:
  - 1- Veteran outreach coordinator
 
 
-
 ## Research findings
 
 ### 1. Mobile clinics, events and services will not be adequately represented by the current model of 1 webpage per vehicle. 
@@ -45,9 +44,9 @@ As well as those who publicize MMU events and information to Veterans:
    #### Recommendation: 
 
    - Offer multiple solutions driven by the service being offered, e.g.
-    -  Recurring and scheduled primary = dedicated webpage (current VAMC)
-    -  Temporary event or emergency response = events pages
-    -  Specialty service offered by an MMU = service accordion under a facility page
+    -  Recurring and scheduled primary care = dedicated webpage (current VAMC)
+    -  Temporary event or emergency response = event page(s)
+    -  Specialty service offered by an MMU = service accordion under parent facility page
 
 ### 2. PAOs are apprehensive or resistant to adopting upgraded websites
 
@@ -74,8 +73,9 @@ As well as those who publicize MMU events and information to Veterans:
 ### 4. Communicating MMU/MVC deployment after an emergency may not be done consistently on VA.gov, or at all.
 
  We learned that there are barriers to updating the status of an MMU on Teamsite in a timely manner following an emergency.
-   - Emergencies often happen after hours making coming into the office  to update a website impractical 
-   - Facebook is easier to update than the website
+   - Emergencies often happen after hours making coming into the office to update a website impractical 
+      - Facebook is easier to update than the website
+   - Hesitancy in adopting a new tool
    - Belief that Veterans won't be going to VA.gov for information after an emergency
 
  
@@ -93,5 +93,37 @@ As well as those who publicize MMU events and information to Veterans:
    - Get an updated list of all Mobile Units from emergency management, OR
    - Send out a mandatory survey to PAOs having them confirm or correct the MMU inventory
 
-## Recommendations
-## Next steps
+## Recommendations in order of priority
+
+1. Create the ability for facility locator to surface events
+ 
+   i. Consider creating event types for future filtering, e.g. healthcare event, emergency response, community outreach
+
+2. Get an updated list of all Mobile Units:
+
+   i. [Stan covering this?] OR
+   
+   ii. From emergency management, OR
+   
+   ii. Send out a mandatory survey [via optimal workshop] to PAOs [with help from leadership] having them confirm or correct the MMU inventory 
+      - share early design concepts [embedded images with room for feedback]
+      - solicit ideas [open box]
+      - solicit volunteers to work with us for deeper user testing
+
+3. Prototype design options and get PAO feedback [existing low fidelity wireframes may suffice]
+    -  Recurring and scheduled primary care = dedicated webpage (current VAMC experience)
+    -  Temporary event or emergency response = event page(s) under hosting health system or nearest to where event will be held
+    -  Specialty service offered by an MMU = service accordion under parent facility page
+
+4. More research: 
+  
+   i. More discovery work to understand PAO tools, processes, needs and pain points. 
+   
+   - Leverage/gather input from other VA web teams who interact with PAOs, maintainers
+   - Find ways to improve relationships with PAOs, and create solutions that take their needs into account 
+     - Validate and refine proto persona
+     - PAO Job shadow (ethnographic research) to understand context, tools (Facebook vs our website) and processes
+     - Walk-thrus of user flows, barriers, and areas of improvement when updating the status of an MMU in emergency response
+
+5. Offer PAOs multiple solutions driven by the service being offered 
+
