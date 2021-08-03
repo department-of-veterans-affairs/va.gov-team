@@ -12,6 +12,8 @@ The goals of this user research are to:
 2. Determine whether or not the short form flow is usable and cognitively understood when it is based on a self-reported, service-connected disability pay for a 50% or higher rating
 3. Determine whether or not the flow and copy sets proper expectations for the application experience
 
+As a secondary goal, we will also take special note of any participant feedback to the Introduction page as this as recently been updated.
+
 **Research questions**
 
 1. Are users able to navigate through the pre-populated short form easily and without confusion?
