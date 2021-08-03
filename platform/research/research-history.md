@@ -22,6 +22,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/README.md)
 - List of keywords: Veterans, appointments, check-in, kiosk, staff members, text message check-in, digital check-in, medical appointments, contact information, insurance
 
+#### June 8-25: Facility Locator - Assistive Technology Discovery and Usability Study
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 7 Veterans (3 blind, 3 low vision, 1 cognitive disability, dyslexia)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study)
+- List of keywords: Veterans,  accessibility, assistive technology, screen reader, screenreader, blind, low vision, dyslexia, JAWS, ZoomText, Fusion, VO, voice over, VoiceOver dictation, Dragon, orientation, wayfinding, VA.gov home page, site search, global search, Facility Locator, Google search, search behavior
+
 #### June 14-17: VA.gov profile notification settings usability study
 *Authenticated experience, Lead Researcher: Liz Lantz*
 - Number of participants: 8 Veterans
