@@ -46,7 +46,7 @@
           - [OCTO-DE Project Board Card](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/425)
           - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
           - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
-          - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-
+          - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners)
       - **Home Page Evolution** 
         - [X] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)
         - User Research planned to test adding link to search at bottom of Top Tasks boxes
