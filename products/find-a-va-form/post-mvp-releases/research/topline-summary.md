@@ -48,7 +48,7 @@ Unique issues were encountered in every session, which will be documented in the
 1. Many participants (8 of 11) clicked on the form name to open the form detail page, and from there clicked the download link. This means that they **didn't see the instructions provided only on the search results page**. 
 1. Three of the Mac and iOS users were surprised and annoyed when they heard that you have to use Adobe Acrobat, which is generally not used on those platforms.
 
-### Assessibility-Related Issues
+### Accessibility-Related Issues
 1. One of the screen reader users couldn't access the digital signature field because JAWS didn't read it. The problem was that there's **no label on the signature field** to indicate what it is.
 2. There were other **issues with the form fields that made them difficult to fill out** using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
 3. **Form search results were hard to scan** because there was no heading for each one, and so participants had to tab down 4-5 lines each time to see the next one.
