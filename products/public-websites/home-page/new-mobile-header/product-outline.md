@@ -40,7 +40,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 ## What Needs to Be Done
 
 - [ ] Need Analytics to determine baseline performance of the current header, including % of mobile users that click on:
-      - Search (the little mganification icon)
+      - Search (the little mganification icon) (8/3 - Ticket created for Analytics - https://github.com/department-of-veterans-affairs/va.gov-team/issues/28225)
       - Menu
       - Veteran Crisis Line
       - Contact us
