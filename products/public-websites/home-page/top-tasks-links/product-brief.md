@@ -62,16 +62,14 @@ Driving this "streamlining" concept, Meg's words: The VA.gov authenticated exper
 
 <img width="862" alt="Screen Shot 2021-08-03 at 1 29 17 PM" src="https://user-images.githubusercontent.com/63107147/128059795-62a037d6-984e-4175-acdc-e38bf101a7c9.png">
 
-
-
+**The question: Should the VA.gov digital experience team make this "vision" a Big Rock to being work on now -- or wait until 2022?  In either case, who will/should do it?**
 
 
 ## What Comes Next
 
 
-- [ ] Review this outline with Dave/Kev for "fleshing out"
-- [ ] Identify next iteration of product enhancement work -- CMS AX experience, front-end user experience (e.g. how will filtering work from a user/UX perspective?)
-  
+- [ ] Hand-off this Product Brief to the Sitewide Crew to determine next steps.
+- [ ] TBD
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
