@@ -9,57 +9,28 @@ The Million Veteran Program invites you to join our campaign to engage and enrol
 **Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
 
 You can help by sharing the materials uploaded to this communication toolkit:
-1. [PSA video and materials (social media, newsletter blurbs)](#psa-video-and-materials)
-2. [Feature story for VISN and VAMC websites](#feature-story-for-visn-and-vamc-websites)
-3. [Flyers and posters](#flyers-and-posters)
-4. [One-pager](#one-pager)
-5. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
-6. [Text for patient instructions](#text-for-patient-instructions)
-7. [Facebook posts](#facebook-posts)
+1. [Ad for VAMC televisions and digital screens](#ad-for-vamc-tvs)
+2. [Flyers and posters](#flyers-and-posters)
+3. [One-pager (flyer and poster)](#one-pager)
+4. [Videos](#videos)
+5. [Newsletter blurbs](#newsletter-blurbs)
+6. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
+7. [Social media content](#social-media-content)
 8. [Graphics for social media](#graphics-for-social-media)
-9. [Other content (additional articles, news releases, podcasts, etc.)](#other-content) 
-10. [Photos of 8 featured Veterans](#photos-of-8-featured-veterans)
+9. [Photos of 8 featured Veterans](#photos-of-8-featured-veterans)
+10. [Feature story for VISN and VAMC websites](#feature-story-for-visn-and-vamc-websites)
+11. [Text for patient instructions](#text-for-patient-instructions)
+12. [Other content (additional articles, news releases, podcasts, etc.)](#other-content) 
 
 Please feel free to distribute and share as appropriate. 
 
 **Questions?** Contact Jennifer.Deen@va.gov or Shakeria.Cohen@va.gov
 
-## PSA video and materials
+## Ad for VAMC televisions and digital screens
 
-For Women Veteran’s Day in June 2021, you can spread the word about MVP at your facility by:
+Below is an advertisement that can be used on digital screens in elevators, way-finding screens around the hospital, and televisions located in the waiting rooms. 
 
-1. Posting any of the three (3) Facebook posts and tweets from the below toolkit on/around June 12th (for Women Veteran’s Day). For any other day, there are five (5) additional Facebook posts and tweets in the toolkit that can be posted as your social media schedule permits.
-2. Using any of the two newsletter blurbs in your facility’s newsletters with VA employees and Veterans.
- 
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Social-Media-Content-MVP-PSA-FINAL.docx">PSA social media toolkit</a>
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Newsletter-Blurbs-Short-and-Long-FINAL.docx">PSA newsletter blurbs</a>
-- [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
-- [VAntage Point story about PSA](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
-
-### Testimonial videos
-
-- [Army Veteran Deb Kramer on joining VA's genetic research program](https://youtu.be/xxU9yzMPU_8)
-- [Army Veteran Dr. Jennifer MacDonald on joining VA's genetic research program, part I](https://youtu.be/21YLiM_1CIs)
-- [Army Veteran Dr. Jennifer MacDonald on joining VA's genetic research program, part II](https://youtu.be/MpfSI8ti948)
-- [Navy Veteran Ana Claudio on joining VA's genetic research program](https://youtu.be/cYOqgRbMhY4)
-- [Army Veteran Elizabeth Estabrooks on joining VA's genetic research program](https://youtu.be/40shx_tneIA)
-- [Army Veteran Kafi Joseph on joining VA's genetic research program](https://youtu.be/_zslgpCj-ls)
-- [Army Veteran Kayla Williams on joining VA's genetic research program, part I](https://youtu.be/anjuflzJgGs)
-- [Army Veteran Kayla Williams on joining VA's genetic research program, part II](https://youtu.be/FWL35E_Qeys)
-- [Army Veteran Kayla Williams on joining VA's genetic research program, part III](https://youtu.be/DcNfH_No1SU)
-- [Navy Veteran Missina Schallus on joining VA's genetic research program](https://youtu.be/SvlKH2Z-6dE)
-- [Army Veteran Tanya Bradsher on joining VA's genetic research program](https://youtu.be/-_IL668DFp4)
- 
-
-
-## Feature story for VISN and VAMC websites
-
-This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. **We encourage you to publish this feature story on your VAMC or VISN homepage when your facility's MVP site re-opens (if it hasn't already).**
-
-Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
-
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
-
+- Ad for VAMC televisions and digital screens
 
 ## Flyers and posters
 
@@ -80,7 +51,7 @@ All PDF flyers and posters:
 - Shyla: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shyla.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shyla-11x17.pdf)
 - Teresa: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa-11x17.pdf)
 
-## One-Pager
+## One-pager (flyer and posters)
 
 This one-pager explains what it means to participate in MVP, how participation can help women’s health, and how to enroll in the program.
 
@@ -90,6 +61,39 @@ Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Progr
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-1sheet-11x17.pdf">11x17 MVP one-pager poster (PDF)</a>
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-08-MVP-Women-poster-27x33.pdf">27x33 MVP one-pager large poster (PDF)</a>
 
+## Videos
+
+### PSA video
+
+Below is a 30-second PSA video and accompanying VAntage Point story that can be used to help spread teh word about MVP at your facility:
+
+- [PSA on YouTube](https://www.youtube.com/watch?v=drlPmhhk-SA&ab_channel=VeteransHealthAdministration)
+- [VAntage Point story about PSA](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
+
+### Testimonial videos
+
+- [Army Veteran Deb Kramer on joining VA's genetic research program](https://youtu.be/xxU9yzMPU_8)
+- [Army Veteran Dr. Jennifer MacDonald on joining VA's genetic research program, part I](https://youtu.be/21YLiM_1CIs)
+- [Army Veteran Dr. Jennifer MacDonald on joining VA's genetic research program, part II](https://youtu.be/MpfSI8ti948)
+- [Navy Veteran Ana Claudio on joining VA's genetic research program](https://youtu.be/cYOqgRbMhY4)
+- [Army Veteran Elizabeth Estabrooks on joining VA's genetic research program](https://youtu.be/40shx_tneIA)
+- [Army Veteran Kafi Joseph on joining VA's genetic research program](https://youtu.be/_zslgpCj-ls)
+- [Army Veteran Kayla Williams on joining VA's genetic research program, part I](https://youtu.be/anjuflzJgGs)
+- [Army Veteran Kayla Williams on joining VA's genetic research program, part II](https://youtu.be/FWL35E_Qeys)
+- [Army Veteran Kayla Williams on joining VA's genetic research program, part III](https://youtu.be/DcNfH_No1SU)
+- [Navy Veteran Missina Schallus on joining VA's genetic research program](https://youtu.be/SvlKH2Z-6dE)
+- [Army Veteran Tanya Bradsher on joining VA's genetic research program](https://youtu.be/-_IL668DFp4)
+
+
+## Newsletter blurbs
+
+Below are two blurbs that can be used in emails or newsletters to Veterans, VA employees, and other relevant audiences.
+
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Newsletter-Blurbs-Short-and-Long-FINAL.docx">PSA newsletter blurbs</a>
+
+
+
+
 ## Women Veterans in Research FAQ
 
 This FAQ explains how MVP is prioritizing women Veterans in research, and why it’s important to engage women in genomics research. 
@@ -98,23 +102,22 @@ Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Progr
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/Women-Veterans-Fact-Sheet.pdf">Women Veterans in Research FAQ (PDF)</a>
 
-## Text for patient instructions
 
-To assist with referrals, healthcare providers can copy/paste this text into their patient instructions following appointments when MVP was discussed.
 
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Text-for-patient-instructions.docx">Text for patient instructions (Word doc)</a>
-
-## Facebook posts
+## Social media content
 
 Below is a Word document with 12 Facebook posts that can be shared by any VA account. You can either copy/paste from this document into your Facebook account,or post directly from VA’s Social Studio.
 
-If you copy/paste from the Word document, choose an image to accompany the post from any of the social media assets in the next section below. 
+If you copy/paste from the Word document, choose an image to accompany the post from any of the social media assets in the next section below called "Graphics for social media". 
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Social-Media-MVP-Womens-Campaign-Toolkit.docx">12 Facebook posts (Word doc)</a>
 
-## Graphics for social media
+For Women Veteran’s Day in June, you can spread the word about MVP at your facility by posting any of the three (3) Facebook posts and tweets from the toolkit below. 
 
-Below are 16 images that can be used to accompany the above Facebook posts. Eight images have the MVP logo with no text, eight images include the campaign slogan “the future of medicine is in your genes”. These images feature eight womenVeterans, photographed by Candace Woods, Visual Information Specialist at the Lexington VA Health Care System.
+For any other day, there are five (5) additional Facebook posts and tweets that can be posted as your social media schedule permits.
+2. Using any of the two newsletter blurbs in your facility’s newsletters with VA employees and Veterans.
+ 
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Social-Media-Content-MVP-PSA-FINAL.docx">PSA social media toolkit</a>
 
 ### Facebook with text
 
@@ -160,23 +163,9 @@ Below are 16 images that can be used to accompany the above Facebook posts. Eigh
 - [Shyla](assets/png/Twitter-Shyla-NoText.png)
 - [Teresa](assets/png/Twitter-Teresa-NoText.png)
 
-## Other content
+## Graphics for social media
 
-Note: Newest content is listed first
-- [She Wears the Boots: A Podcast for Women Veterans: MVP interview with Jennifer Deen](https://www.spreaker.com/user/11014928/womenshealth-deen-mvp-052721-edits-06252)
-- [Military.com: VA Calls on Female Veterans to Enroll in World's Largest Medical Research Biobank](https://www.military.com/daily-news/2021/06/28/va-calls-female-veterans-enroll-worlds-largest-medical-research-biobank.html)
-- [Military Times: VA’s Million Veteran Program wants thousands of more women to sign up for genetic study](https://www.militarytimes.com/veterans/2021/06/25/vas-million-veteran-program-wants-thousands-of-more-women-to-sign-up-for-genetic-study)
-- [Air Force Times: VA’s Million Veteran Program wants thousands of more women to sign up for genetic study](https://www.airforcetimes.com/veterans/2021/06/25/vas-million-veteran-program-wants-thousands-of-more-women-to-sign-up-for-genetic-study/)
-- [30-second PSA: Women Veterans invite you to join them in MVP](https://www.youtube.com/watch?v=drlPmhhk-SA)
-- [VAntage Point Blog: Future of medicine is in your genes – we need your help](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
-- [ICYMI: AMVETS and VA Facebook Live on the Million Veteran Program and future of medicine](https://blogs.va.gov/VAntage/88845/icymi-amvets-va-facebook-live-million-veteran-program-future-medicine/)
-- [VAntage Point Blog: Keisha Bellamy: Army Veteran a champion for health and research](https://blogs.va.gov/VAntage/86267/army-veteran-champion-health-research/)
-- [VAntage Point Blog: Morgan Danowski: Combining science and service as a VA genetic counselor](https://blogs.va.gov/VAntage/85996/combining-science-service-va-genetic-counselor/)
-- [Combat Divas Podcast: The Real MVPs feat. Sumitra Muralidhar](https://podcasts.apple.com/us/podcast/the-real-mvps-feat-sumitra-muralidhar/id1450927577?i=1000511698703)
-- [VAntage Point Blog: Sedra Graves: Giving back through research](https://blogs.va.gov/VAntage/85366/sedra-graves-giving-back-research)
-- [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
-
- 
+Below are 16 images that can be used to accompany the above Facebook posts. Eight images have the MVP logo with no text, eight images include the campaign slogan “the future of medicine is in your genes”. These images feature eight womenVeterans, photographed by Candace Woods, Visual Information Specialist at the Lexington VA Health Care System.
 
 ## Photos of 8 featured Veterans
 
@@ -230,4 +219,37 @@ Teresa
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/png/FB-Teresa.png" width="150">
 
 ---
+
+
+## Feature story for VISN and VAMC websites
+
+This is a slotted feature story for the 60+ VISNs and VAMCs with a participating MVP site location. **We encourage you to publish this feature story on your VAMC or VISN homepage when your facility's MVP site re-opens (if it hasn't already).**
+
+Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
+
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
+- 
+
+## Text for patient instructions
+
+To assist with referrals, healthcare providers can copy/paste this text into their patient instructions following appointments when MVP was discussed.
+
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Text-for-patient-instructions.docx">Text for patient instructions (Word doc)</a>
+- 
+
+## Other content
+
+Note: Newest content is listed first
+- [She Wears the Boots: A Podcast for Women Veterans: MVP interview with Jennifer Deen](https://www.spreaker.com/user/11014928/womenshealth-deen-mvp-052721-edits-06252)
+- [Military.com: VA Calls on Female Veterans to Enroll in World's Largest Medical Research Biobank](https://www.military.com/daily-news/2021/06/28/va-calls-female-veterans-enroll-worlds-largest-medical-research-biobank.html)
+- [Military Times: VA’s Million Veteran Program wants thousands of more women to sign up for genetic study](https://www.militarytimes.com/veterans/2021/06/25/vas-million-veteran-program-wants-thousands-of-more-women-to-sign-up-for-genetic-study)
+- [Air Force Times: VA’s Million Veteran Program wants thousands of more women to sign up for genetic study](https://www.airforcetimes.com/veterans/2021/06/25/vas-million-veteran-program-wants-thousands-of-more-women-to-sign-up-for-genetic-study/)
+- [30-second PSA: Women Veterans invite you to join them in MVP](https://www.youtube.com/watch?v=drlPmhhk-SA)
+- [VAntage Point Blog: Future of medicine is in your genes – we need your help](https://blogs.va.gov/VAntage/89967/future-medicine-genes-need-help/)
+- [ICYMI: AMVETS and VA Facebook Live on the Million Veteran Program and future of medicine](https://blogs.va.gov/VAntage/88845/icymi-amvets-va-facebook-live-million-veteran-program-future-medicine/)
+- [VAntage Point Blog: Keisha Bellamy: Army Veteran a champion for health and research](https://blogs.va.gov/VAntage/86267/army-veteran-champion-health-research/)
+- [VAntage Point Blog: Morgan Danowski: Combining science and service as a VA genetic counselor](https://blogs.va.gov/VAntage/85996/combining-science-service-va-genetic-counselor/)
+- [Combat Divas Podcast: The Real MVPs feat. Sumitra Muralidhar](https://podcasts.apple.com/us/podcast/the-real-mvps-feat-sumitra-muralidhar/id1450927577?i=1000511698703)
+- [VAntage Point Blog: Sedra Graves: Giving back through research](https://blogs.va.gov/VAntage/85366/sedra-graves-giving-back-research)
+- [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
 
