@@ -12,6 +12,6 @@
   - [Cards (Filter for "Sitewide Crew")](https://github.com/department-of-veterans-affairs/digital-experience-products/issues)
   - [Product Board (Filter for "Sitewide Crew")](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3A+label%3Acrew-sitewide)
   - Key questions:
-    - Which/When do Sitewide items in "Up Next" need to be "scored" and moved to "Current"
-    - Who will drive the VA.gov [Home Page evolution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)?
+    - For CJ/JB: Which/When do Sitewide items in "Up Next" need to be "scored" and moved to "Current"
+    - For Crew: Who will drive the VA.gov [Home Page evolution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)?
 - **Next Sitewide Crew Share-out - Thursday, August 19th**
