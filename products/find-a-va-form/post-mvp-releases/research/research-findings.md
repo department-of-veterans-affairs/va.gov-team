@@ -67,8 +67,7 @@ Each participant saw one of three versions of the Find a Form page:
 1. Instructions repeated above every form download link will get ignored or be annoying, especially to users of screen readers. 
 
 _(“True”, “Likely True” or “Definitely True”) Why?_
-“False”
-“Don’t know”
+“False”, "Likely False"
 “Not enough information”
 
 
