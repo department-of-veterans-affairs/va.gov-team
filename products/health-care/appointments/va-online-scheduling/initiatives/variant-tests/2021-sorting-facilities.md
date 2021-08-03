@@ -12,9 +12,11 @@ We believe that if we provide simpler interactions and clearer language on the f
 
 ## Analytics
 
-Dashboard: https://analytics.google.com/analytics/web/#/dashboard/OJY0YEinTf2JR4Gk3HsSUw/a50123418w177519031p176188361/
+Dashboard: [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/OJY0YEinTf2JR4Gk3HsSUw/a50123418w177519031p176188361/)
 
-Funnel (control and variant): https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/Z4cFM5gyQhy65K3s4tymQw
+Funnel: [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/Z4cFM5gyQhy65K3s4tymQw)
+
+Average time on page report template: [Google Analytics](https://analytics.google.com/analytics/web/template?uid=wJNRUJodTRW30Z7w567VZg)
 
 ### Events
 
@@ -49,7 +51,7 @@ Funnel (control and variant): https://analytics.google.com/analytics/web/#/analy
 
 ## Test and Results
 
-Start Date:
+Start Date: July 28, 2021
 
 End Date:
 
