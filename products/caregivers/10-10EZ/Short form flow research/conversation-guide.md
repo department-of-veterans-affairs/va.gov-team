@@ -20,7 +20,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
 
-**Talk them through Zoom screen sharing and chat features.
+**Talk them through Zoom screen sharing and chat features.**
 
 
 **I'm going to send you a link in the chat.**
@@ -95,9 +95,9 @@ Let's pretend that you went through the sign in process and are taken to here (a
 - Participant will next be shown the short form notification
      - Note any response
      - Can you tell me a little about your thoughts as you read this page?
-     - What do expect to happen next?
+     - What do you expect to happen next?
      - Do you have any questions?
-     - Is there anything you that stands out to you on this page? Good, bad, indifferent
+     - Is there anything that stands out to you on this page? Good, bad, indifferent
 
 Great, let's continue
 - Participant will next navigate to the first page of the form "Veteran information"
@@ -119,9 +119,9 @@ Once participant selects that they receive pay for a disability of 50% or higher
 - Participant will next be shown the short form confirmation page
      - Note any response
      - Can you tell me a little about your thoughts as you read this page?
-     - What do expect to happen next?
+     - What do you expect to happen next?
      - Do you have any questions?
-     - Is there anything you that stands out to you on this page? Good, bad, indifferent
+     - Is there anything that stands out to you on this page? Good, bad, indifferent
 
 For the purpose of this research, imagine that you actually do not have a disability rating of 50% or higher, and you reached this page by accident. What would you do next?
 - Note their response/interaction
@@ -143,13 +143,13 @@ Once participant makes selection on VA Benefits- current compensation page and c
 - Let's say you accidently selected that you receive pay for a disability rating of 50% or higher and click Next (they will be shown the short form confirmation page)
      - Note any response
      - Can you tell me a little about your thoughts as you read this page?
-     - What do expect to happen next?
+     - What do you expect to happen next?
      - Do you have any questions?
-     - Is there anything you that stands out to you on this page? Good, bad, indifferent
+     - Is there anything that stands out to you on this page? Good, bad, indifferent
 - What would you do next (since you reached this page by accident)
      - Note reactions/ interactions/ confusions
 
-Once the partipant navigates past this to continue the form, this section of the research is complete.
+Once the participant navigates past this to continue the form, this section of the research is complete.
 
 
 ## Post task questions - 10 minutes
@@ -159,7 +159,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 **Overall** 
 
 - What did you think of the overall experience?
-- Whas there anything that stood out to you? Then prompt positives/ negatives / confusing
+- Was there anything that stood out to you? Then prompt positives/ negatives / confusing
 - Can you tell me about this experience in your own words, as if I was another Veteran interested in applying for health care
 - Any other thoughts before we end?
 - Do you have any questions for me before we conclude?
