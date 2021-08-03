@@ -40,29 +40,26 @@
           - Trust: Leave through end of year, then check with Tim Hudak at VEO
           - COVID Questions: Leave through end of year, then check with Danielle (will likely remain up into 2022)
     - Home Page 
-      - Home Page Evolution 
-        - [ ] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)
-        - [Intake ticket to add OAR "File a decision review" link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
-        - User Research planned to test adding link to search at bottom of Top Tasks boxes
-      - Home Page Alert Banner to make process/functionality more "systematic" (e.g. enable this via CMS)
+      - **Home Page Alert Banner to make process/functionality more "systematic" (e.g. enable this via CMS)**
         - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md)
         - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
           - [OCTO-DE Project Board Card](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/425)
         - [Dismissable HP Banner Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27240)
         - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
         - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
-        - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
-     - New Mobile header (Research initiative)
+        - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-
+      - **Home Page Evolution** 
+        - [X] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)
+        - User Research planned to test adding link to search at bottom of Top Tasks boxes
+      - **New Mobile header (Research initiative)**
         - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
         - [ ] Analytics baseline request -- e.g.. what is overall % usage of search on Mobile; what is % usage of search in header on Mobile. 
         - [ ] Research Plan - in-production test will require big tech lift for Mobile header; easier to do interactive prototype/usability test.
      - DISCOVERY PROJECT: Home Page & Benefit Hubs to unify with Unauth experience
         - [Product Outline WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Benefit%20Hub%202.0%20Product%20Outline.md)
         - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md)
-        - [Initial Wireframes Concept (IA)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9?sender=johnhashimoto4253)
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
       - [X] [Product Outline for V1.0 of Events](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md)
-      - [ ] Initiative Brief for Filtering Events
     - Sitewide Navigation
       - Initiative is led by Meg/Mikki on the IA team -- with details [in this ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/277)
     - Benefit Hubs Optimization - Content & IA 
