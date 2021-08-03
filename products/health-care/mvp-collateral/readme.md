@@ -51,7 +51,7 @@ All PDF flyers and posters:
 - Shyla: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shyla.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Shyla-11x17.pdf)
 - Teresa: [8.5x11 flyer](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa.pdf) and  [11x17 poster](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/2021-02-MVP-Women-flyer-Teresa-11x17.pdf)
 
-## One-pager (flyer and posters)
+## One pager (flyer and posters)
 
 This one-pager explains what it means to participate in MVP, how participation can help women’s health, and how to enroll in the program.
 
