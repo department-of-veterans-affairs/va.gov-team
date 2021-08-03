@@ -92,8 +92,6 @@ Below are two blurbs that can be used in emails or newsletters to Veterans, VA e
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/PSA-Newsletter-Blurbs-Short-and-Long-FINAL.docx">PSA newsletter blurbs</a>
 
 
-
-
 ## Women Veterans in Research FAQ
 
 This FAQ explains how MVP is prioritizing women Veterans in research, and why it’s important to engage women in genomics research. 
@@ -101,7 +99,6 @@ This FAQ explains how MVP is prioritizing women Veterans in research, and why it
 Healthcare providers, Women Veteran Program Coordinators, Minority Veteran Program Coordinators, MVP Coordinators, Red Coat volunteers, and others can share this material with patients or women Veterans, as appropriate, for more information about the program.
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/Women-Veterans-Fact-Sheet.pdf">Women Veterans in Research FAQ (PDF)</a>
-
 
 
 ## Social media content
@@ -228,14 +225,14 @@ This is a slotted feature story for the 60+ VISNs and VAMCs with a participating
 Before publishing, please confirm your facility's MVP site has re-opened by emailing Claudia Gutierrez at Claudia.Gutierrez@va.gov. To see if your VAMC has a MVP clinic, [check here](https://www.research.va.gov/mvp/all-clinics.cfm).
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Slotted-Feature-Story-FINAL.docx">Feature story for VISN and VAMC websites (Word doc)</a>
-- 
+
 
 ## Text for patient instructions
 
 To assist with referrals, healthcare providers can copy/paste this text into their patient instructions following appointments when MVP was discussed.
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/doc/Text-for-patient-instructions.docx">Text for patient instructions (Word doc)</a>
-- 
+
 
 ## Other content
 
@@ -252,4 +249,3 @@ Note: Newest content is listed first
 - [Combat Divas Podcast: The Real MVPs feat. Sumitra Muralidhar](https://podcasts.apple.com/us/podcast/the-real-mvps-feat-sumitra-muralidhar/id1450927577?i=1000511698703)
 - [VAntage Point Blog: Sedra Graves: Giving back through research](https://blogs.va.gov/VAntage/85366/sedra-graves-giving-back-research)
 - [Press release: VA to increase participation of women Veterans in genetic research to aid in improving women's health](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5627)
-
