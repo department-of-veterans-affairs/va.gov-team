@@ -146,7 +146,7 @@ As well as those who publicize MMU events and information to Veterans:
    
    - Leverage/gather input from other VA web teams (CMS?) who interact with PAOs, maintainers
    - Find ways to improve relationships with PAOs, and create solutions that take their needs into account 
-     - Validate and refine proto persona
+     - Validate and refine [proto persona](https://app.mural.co/t/vsa8243/m/vsa8243/1627038564401/bdd84c5da65e1000f7d3d2f2d365d03839a1466e?wid=0-1627502345353&outline=open)
      - PAO Job shadow (ethnographic research) to understand context, tools (Facebook vs our website) and processes
      - Walk-thrus of user flows, barriers, and areas of improvement when updating the status of an MMU in emergency response
      - Help PAOs be more efficient, encourage adoption of tools; Facebook posting from events pages. What is this process like today? are improvements needed to make this more attractive? If you had to create an event page for 42 county healthcare events, could you duplicate pages or do you have to make 42 pages from scratch each time? What are the friction points?
