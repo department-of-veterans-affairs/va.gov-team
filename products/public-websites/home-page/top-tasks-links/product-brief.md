@@ -38,19 +38,26 @@ After conversations with key OCTO-DE product and design leads, two solution opti
 
 Does the current VA.gov home page -- now nearly three years old -- meet the evolving needs of its users and VA as it continues to consolidate and modernize its digital experience?  Not only are there new stakeholder demands, but user expectations may be changing as well.  The three year mark c/should prompt a fresh look -- via analytics review and user research -- as to whether the Home Page design/IA is "fine as is" or needs a re-think/re-fresh.
 
-Jeff Barnes recommends the following:
+Jeff Barnes suggests the following:
 
 - Create a small "tiger team" -- with Design, IA, Research and Product representated -- to conduct a Discovery sprint to examine the effectiveness of the Home Page
 - This team can/should also take into account the new VA stakeholder demands for Home Page "visibility and promotion" -- e.g. does the page need to be more fluid/flexible to accommodate these new demands?
-- 
+- Deliver recommendations for the HP refresh to Crew Chiefs/Leadership (go/no go) by early fall.
 
 
 ### (3) Unifying the Auth/Unauth Experience 
 
+What is the vision for the next big iteration of VA.gov?  Chris Johnston's POV: it is far more personalized in orientation -- aka the Bank of America experience where the user hits the home page and immediately signs-in to "check and do stuff -- view bank balance, make a payment, etc."   As for the rest of the home page, it is focused on "up-selling/promoting" new products and services.
+
+<img width="902" alt="Screen Shot 2021-08-03 at 1 09 07 PM" src="https://user-images.githubusercontent.com/63107147/128057334-8eb05d3f-0465-4b14-8fcb-d368cb2b035b.png">
+
+
+Based on analytics and user research generated for authenticated product builds (My VA and Profile), Samara Strauss believes the time has come to ["create an authenticated navigation that is more tool and task-oriented and allows each veteran to more readily navigate their experience at the VA."](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/46)
+
 Unifying Auth and Unauth
 https://github.com/department-of-veterans-affairs/digital-experience-products/issues/46
 
-
+https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9
 
   
 
