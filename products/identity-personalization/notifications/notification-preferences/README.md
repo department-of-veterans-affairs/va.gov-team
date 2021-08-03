@@ -1,6 +1,6 @@
 # Communications permissions (notification preferences): Product outline
 
-Last Updated April 19, 2021
+Last Updated August 03, 2021
 
 ## POCs
 
