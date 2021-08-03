@@ -3,7 +3,7 @@
 ## Background
 This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the Caregivers team.
 
-During various usability studies on this form we have found the facility selection page to cause many users confusion. A few trends in confusion include:
+During previous usability studies (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md))  on this form we have found the facility selection page to cause many users confusion. A few trends in confusion include:
 1. Users don't know why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
