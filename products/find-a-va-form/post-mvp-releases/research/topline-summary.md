@@ -40,7 +40,7 @@ Unique issues were encountered in every session, which will be documented in the
 
 ### Universal Issues (unrelated to accessibility technology)
 1. For 10 of 11 participants, the ***Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed. 
-1. **Issues encountered by each participant in filling out the PDF forms were unique and depended on their specific device, operating system, web browser, and whether they had Adobe Acrobat installed** on their device.
+1. **Issues encountered by each participant in filling out the PDF forms were unique and depended on their specific device, operating system, web browser,  whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.**
     1. 8 of 11 people had difficulty downloading the form from the web browser.
     2. After forms were downloaded, they often displayed in Preview (on Macs) or Edge (on Windows computers) because those are the default applications for opening PDFs. And because it wasn't in Adobe Acrobat, the forms couldn't be filled out and signed.
     3. Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it. 
