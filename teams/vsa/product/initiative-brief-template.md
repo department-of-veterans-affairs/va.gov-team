@@ -75,8 +75,8 @@
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - .
-- **Viability Risks/Constraints** (will there be a positive organizational impact):
-  - <!-- e.g. testing requirements, marketing requirements.  -->
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - e.g. testing, marketing, compliance requirements
 
 ### Hypotheses & Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
