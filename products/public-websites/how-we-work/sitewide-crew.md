@@ -8,6 +8,10 @@
 - **Mural Boards Room**
   - [Sitewide Crew Mural Room/Boards](https://app.mural.co/t/departmentofveteransaffairs9999/r/1610305690941)
   - Dave and Meg given Admin rights to "own" and manage
-- OCTO-DE Cards and Project Board
+- **OCTO-DE Cards and Project Board**
   - [Cards (Filter for "Sitewide Crew")](https://github.com/department-of-veterans-affairs/digital-experience-products/issues)
   - [Product Board (Filter for "Sitewide Crew")](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3A+label%3Acrew-sitewide)
+  - Key questions:
+    - Which/When do Sitewide items in "Up Next" need to be "scored" and moved to "Current"
+    - Who will drive the VA.gov [Home Page evolution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)?
+- **Next Sitewide Crew Share-out - Thursday, August 19th**
