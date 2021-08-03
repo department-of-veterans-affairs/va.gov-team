@@ -12,11 +12,18 @@ How might we make it easier for Veterans and their caretakers to apply for a wid
 
 ### Background 
 
-The 21st Century Integrated Digital Experience Act, otherwise known as 21st Century IDEA, was signed into law in December 2018.  The Act requires all executive branch agencies to:
+The use of paper/PDF forms by Veterans and their beneficiaries for determining eligibility, applying for and managing changes related to VA benefits is increasingly out-of-step with key Federal Government modernization initiatitives and mandates, including:
 
-- digitize services and forms,
-- accelerate use of e-signatures,
-- improve customer experience, and
+- The 21st Century Integrated Digital Experience Act, otherwise known as 21st Century IDEA, was signed into law in December 2018.  The Act requires all executive branch agencies to:
+
+  - digitize services and forms,
+  - **accelerate use of e-signatures**, and
+  - improve customer experience
+
+- The Social Security Number Fraud Prevention Act of 2017 which prohibits the inclusion of SSNs on any document sent by mail unless the head of the agency determines that the inclusion of the SSN is necessary. For VA, any form that has a field for a SSN, must be reviewed and a determination must be made as to whether that field can be removed, reduced to only the last four digits, or remain as-is. If the full SSN must remain, the program office that owns that form must submit an acceptable justification. This portion of the Act must be implemented by 2023.
+
+
+
 
 Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
 
@@ -24,9 +31,6 @@ More details about the Docusign Federal Government initiative here:
 
 https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
 
-Trump signs IDEA Act into Law: President Trump signed the 21st Century IDEA Act into law, requiring all Federal agencies to make sure their websites are user-friendly and support digital forms
-
-https://www.meritalk.com/articles/president-trump-signs-21st-century-idea-act-into-law/
 
 Electronic signatures in the coronavirus (COVID-19) era
 
