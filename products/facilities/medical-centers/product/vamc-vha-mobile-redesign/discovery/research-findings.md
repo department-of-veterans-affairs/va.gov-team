@@ -26,7 +26,7 @@ As well as those who publicize MMU events and information to Veterans:
 
 
 - A mobile asset may be owned by a particular facility but it's custodianship falls under emergency management who can deploy it at any time, for different needs, crossing health system and catchment area borders. 
-- Mobile clinics, MMUs, MUVs vary widely in their use and purpose.
+- Mobile clinics, MMUs, MUVs vary widely in their use and purpose. Some of the use cases we learned about in this study were:
 
     Non-emergency:
     - Used as primary care clinics to offer scheduled appointments by a predictable schedule
@@ -97,7 +97,11 @@ As well as those who publicize MMU events and information to Veterans:
 
 1. Create the ability for facility locator to surface events
  
-   i. Consider creating event types for future filtering, e.g. healthcare event, emergency response, community outreach
+   i. Leverge "Share on Facebook" functionality
+
+      - Are improvements needed to make this a more attractive option?
+   
+   ii. Consider creating event types for future filtering, e.g. healthcare event, emergency response, community outreach
 
 2. Get an updated list of all Mobile Units:
 
