@@ -30,7 +30,7 @@ The purpose of this research was to
 1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We wanted to assess the performance of three different design options for providing instructions.
 
 
-# Research Questions/Tasks
+# Research Questions
 
 - How intuitive is the download process with the new instructions? What issues arise (with the interace and/or specific forms)?
   - Do users click on the new instructions link?
@@ -44,27 +44,6 @@ The purpose of this research was to
 - Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
 - What is the success rate of participants downloading forms from each of the two design options? Is one more effective than the other? 
 
-
-
-# Hypotheses and Conclusions
-
-1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
-    1. LIKELY TRUE: 
-1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms. 
-1. The new instructions will alleviate issues with forms that have different download behaviors.
-1. Instructions at the top of the list of forms will be missed when they scroll off the screen.
-1. Instructions repeated above every form download link will get ignored or be annoying, especially to users of screen readers. 
-
-_(“True”, “Likely True” or “Very True”) Why?_
-
-
-# Mapping to the Veteran journey
-
-_How does this research map to the Veteran journey? Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-
-_[Download the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-
-
 # Methodology 
 
 We conducted hour-long remote moderated research sessions via Zoom on **July 27-30, 2021**. Participants were asked to search for the following four PDF forms using the Find a Form page on Staging (https://staging.va.gov/find-forms/):
@@ -77,6 +56,28 @@ Each participant saw one of three versions of the Find a Form page:
 - Instructions at the top of the list of forms 
 - Instructions repeated above every form download link in a light blue box
 - Instructions repeated directly above every form download link in gray help text
+
+# Hypotheses and Conclusions
+
+1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
+    1. LIKELY TRUE: 
+1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms. 
+1. The new instructions will alleviate issues with forms that have different download behaviors.
+1. Instructions at the top of the list of forms will be missed when they scroll off the screen.
+1. Instructions repeated above every form download link will get ignored or be annoying, especially to users of screen readers. 
+
+_(“True”, “Likely True” or “Definitely True”) Why?_
+“False”
+“Don’t know”
+“Not enough information”
+
+
+# Mapping to the Veteran journey
+
+_How does this research map to the Veteran journey? Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
+
+_[Download the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+
 
 
 # Key Findings
