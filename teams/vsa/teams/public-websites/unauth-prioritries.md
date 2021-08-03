@@ -8,14 +8,6 @@
 - [How We Work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/README.md): Key commonalities and helpful guidance about how we work, with links to Team Charters, Folders and a description of role/responsibilities for Product leads.
 - [Veteran Facing Tools (VFT) Zenhub Sprint Board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?repos=133843125,31788863): Filterable ZenHub board outlining sprint plans across unauth teams.
 
-**Sitewide Crew**
-
-- Mural 2021 Roadmap
-- Microsoft Teams Channel/File Repository
-- OCTO-DE Cards and Project Board
-  - [Cards (Filter for "Sitewide Crew")](https://github.com/department-of-veterans-affairs/digital-experience-products/issues)
-  - [Product Board (Filter for "Sitewide Crew")](https://github.com/orgs/department-of-veterans-affairs/projects/306?card_filter_query=label%3A+label%3Acrew-sitewide)
-
 ## Public Websites 
 
 - Products
