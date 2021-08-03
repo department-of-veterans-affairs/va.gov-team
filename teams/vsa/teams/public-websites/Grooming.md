@@ -38,7 +38,19 @@ None
 - [ ] Video Links on HP from VA Working Group [#28193](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28193)
 - [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
 - [ ] [Campaign Landing Page Production Launch]- Veterans Experience Action Center [#27515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27515)
-- [ ] 
+- [ ] Sitewide, Design system, CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order [#6375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375) 
+- [ ] Explore Closed Caption Transcripts for Campaign Landing Pages (508/a11y Recommendation) [#19082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19082) 
+- [ ] 508-defect-2 [COGNITION] Videos should have captions and a link to transcript of [#21020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21020) 
+- [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751) 
+- [ ] 1x Test account on a non-production env for Cerner Facilities [#21238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21238)
+- [ ] [COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? [#1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045) 
+
+### Future Work Grooming: 
+New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
+
+### Icebox Items (Relevancy - Delete)
+- [ ] Use a cta-widget or similar embedded component for links to eBenefits [#9020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9020) 
+- [ ] Related Links missing across VA.gov [#13501](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13501) 
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
