@@ -88,9 +88,10 @@
 - 2021 Priorities
   - New
     - On-site
-      - Search Landing Page
+      - Search Landing Page (surfacing more Search tools)
       - Type Ahead Everywhere Component
       - Video in Search Results
+      - DOMO Dashboard
   - Iterate
     - Type Ahead Everywhere
     - [Best Bets for VAMCs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25534)
