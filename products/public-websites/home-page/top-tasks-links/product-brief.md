@@ -75,7 +75,7 @@ Driving this "streamlining" concept, Meg's words: The VA.gov authenticated exper
 
 ## Relevant Links
 
-  - [Events Hub Super Epic from March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22241)
+  - TBD
 
 ## Additional Background
 
