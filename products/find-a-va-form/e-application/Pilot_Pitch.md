@@ -12,7 +12,7 @@ How might we make it easier for Veterans and their caretakers to apply for a wid
 
 ### Background 
 
-The use of paper/PDF forms by Veterans and their beneficiaries for determining eligibility, applying for and managing changes related to VA benefits is increasingly out-of-step with key Federal Government modernization initiatitives and mandates, including:
+The use of paper/PDF forms by Veterans and their beneficiaries for determining eligibility, applying for and managing changes related to VA benefits is increasingly out-of-step with key Federal Government modernization and security initiatitives, including:
 
 - The 21st Century Integrated Digital Experience Act, otherwise known as 21st Century IDEA, was signed into law in December 2018.  The Act requires all executive branch agencies to:
 
@@ -20,9 +20,17 @@ The use of paper/PDF forms by Veterans and their beneficiaries for determining e
   - **accelerate use of e-signatures**, and
   - improve customer experience
 
-- The Social Security Number Fraud Prevention Act of 2017 which prohibits the inclusion of SSNs on any document sent by mail unless the head of the agency determines that the inclusion of the SSN is necessary. For VA, any form that has a field for a SSN, must be reviewed and a determination must be made as to whether that field can be removed, reduced to only the last four digits, or remain as-is. If the full SSN must remain, the program office that owns that form must submit an acceptable justification. This portion of the Act must be implemented by 2023.   This requirement is compelling VA to consider updating a broad ranges of forms - a time-consuming, costly process given resourcing.
+- The Social Security Number Fraud Prevention Act of 2017 which prohibits the inclusion of SSNs on any document sent by mail unless the head of the agency determines that the inclusion of the SSN is necessary. [For VA, any form that has a field for a SSN, must be reviewed and a determination must be made as to whether that field can be removed, reduced to only the last four digits, or remain as-is](https://www.oprm.va.gov/privacy/SSNReduction.aspx). If the full SSN must remain, the program office that owns that form must submit an acceptable justification. This portion of the Act must be implemented by 2023.   This requirement is compelling VA to consider updating a broad ranges of forms - a time-consuming, costly process given resourcing.
 
-The reliance on PDF comes with another challenge that has grown more prevalent with the complexity of browsers, devices and operating systems: compatability.   
+The reliance on PDF comes with another challenge that has grown more prevalent with the complexity of browsers, devices and operating systems: compatability.  While the Adobe PDF format has long been considered "cross compatible" the user experience can vary -- especially for those who do not rely on the free Adobe reader.   This is illustrated by the [steps required to open, fill and/or electronically sign PDFs](https://portal.ct.gov/DEEP/About/Tips-for-Viewing-and-Using-Fillable-PDFs).
+
+In fact, VA.gov user research conducted in July-August of 2021 revealed numerous "real users, real life" friction points in the PDF-centric Find a Form product.  
+
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/topline-summary.md
+
+
+
 
 
 Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
