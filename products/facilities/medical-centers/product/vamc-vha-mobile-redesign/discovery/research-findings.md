@@ -151,4 +151,5 @@ As well as those who publicize MMU events and information to Veterans:
 ## Appendix
 
 [Session notes](https://docs.google.com/document/d/1HmL0sVDIzFQ2pLO7yochHyLy2p1GKyS0nWGeJw0UlqY/edit?usp=sharing)
+
 [Synthesis board in Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1627038564401/bdd84c5da65e1000f7d3d2f2d365d03839a1466e?sender=leydahughes3111)
