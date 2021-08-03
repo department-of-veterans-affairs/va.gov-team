@@ -57,7 +57,7 @@ Based on analytics and user research generated for authenticated product builds 
 
 A glimpse at what a more fully realized "unified unauth/auth VA.gov" might be is conceived and illustrated by Meg Peters [in this detailed wireframe.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9)
 
-Driving this "streamlining" concept, Meg's words: The VA.gov authenticated experience is fragmented -- and will become more so in the coming months as we build the MyHealthevet "apartment."
+Driving this "streamlining" concept, in Meg's words: The VA.gov authenticated experience is fragmented -- and will become more so in the coming months as we build the MyHealthevet "apartment."
 
 
 <img width="862" alt="Screen Shot 2021-08-03 at 1 29 17 PM" src="https://user-images.githubusercontent.com/63107147/128059795-62a037d6-984e-4175-acdc-e38bf101a7c9.png">
