@@ -1,10 +1,10 @@
-# [Study] Research Findings 
+# Find a Form PDF Downloading Usability Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE) and VSA, Find a Form, Decision Tools**
 
-Date: MM/DD/YYYY
+Date: 08/06/2021
 
-[Designer 1] [email], [Designer 2] [email]
+Cindy Merrill [cindy.merrill@adhocteam.us)]
 
 [Research Report PDF] (link here)
 
@@ -25,34 +25,35 @@ Date: MM/DD/YYYY
 <br>
 
 # Research Goals
-_Description of research goals_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md#research-goals)_
+The purpose of this research was to 
+1. Better understand how Veterans download VA PDF forms and what challenges they encounter.
+1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We wanted to assess the performance of three different design options for providing instructions.
 
 
 # Research Questions/Tasks
 
-_Research questions/tasks here_
+- How intuitive is the download process with the new instructions? What issues arise (with the interace and/or specific forms)?
+  - Do users click on the new instructions link?
+  - Do users have difficulty navigating back to the Find a Form page from the instructions?
+  - Do users download the form?
+  - Do some users not notice the download notification/file at the bottom of the browser window?
+  - Are there any difficulties in finding the file to open it? 
+  - Does the file always open in Acrobat?
+  - What are users' reactions to auto-download? 
+- Are participants able to save and/or digitally sign the forms? 
+- Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
+- What is the success rate of participants downloading forms from each of the two design options? Is one more effective than the other? 
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#research-questions)_
-
-
-* Question/task 
-* Question/task
-* Question/task
 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#hypotheses)_
-
-_Hypothesis statement_
-
-_(“True”, “Likely True” or “Very True”) Why?_
-
-_Hypothesis statement_
+1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
+    1. LIKELY TRUE: 
+1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms. 
+1. The new instructions will alleviate issues with forms that have different download behaviors.
+1. Instructions at the top of the list of forms will be missed when they scroll off the screen.
+1. Instructions repeated above every form download link will get ignored or be annoying, especially to users of screen readers. 
 
 _(“True”, “Likely True” or “Very True”) Why?_
 
@@ -66,9 +67,16 @@ _[Download the Veteran journey](https://github.com/department-of-veterans-affair
 
 # Methodology 
 
-_Brief description of method chosen_
+We conducted hour-long remote moderated research sessions via Zoom on **July 27-30, 2021**. Participants were asked to search for the following four PDF forms using the Find a Form page on Staging (https://staging.va.gov/find-forms/):
+1. 10-2850c (most downloaded, has digital signature)
+1. 10-0003k (has digital signature)
+1. 20-0968 (not hosted on VA.gov)
+1. 20-0995 (one of most downloaded, can fill out in browser, hosted inside VA.gov)
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#research-methodology)_
+Each participant saw one of three versions of the Find a Form page:
+- Instructions at the top of the list of forms 
+- Instructions repeated above every form download link in a light blue box
+- Instructions repeated directly above every form download link in gray help text
 
 
 # Key Findings
