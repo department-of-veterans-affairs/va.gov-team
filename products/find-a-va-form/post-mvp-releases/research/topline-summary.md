@@ -36,21 +36,20 @@ We had planned to assess participants' success in downloading PDF forms for each
 
 More disappointing was the finding that **most participants (9 of 11) were unable to fill out and digitally sign any of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with the help provided. Several participants were technically savvy, and they had issues just like less experienced people. Only 2 participants were able to download and fill out *any* of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not. 
 
-Unique issues were encountered in every session, which will be documented in the full report. A few are mentioned below in this summary. Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants universally regardless of their visual ability/disability.
+Unique issues were encountered in every session, which will be documented in the full report. A few are mentioned below in this summary. Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology.
 
-### Universal Issues
+### Universal Issues (unrelated to accessibility technology)
 1. For 10 of 11 participants, the ***Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed. 
 1. **Issues encountered by each participant in filling out the PDF forms were unique and depended on their specific device, operating system, web browser, and whether they had Adobe Acrobat installed** on their device.
     1. 8 of 11 people had difficulty downloading the form from the web browser.
     2. After forms were downloaded, they often displayed in Preview (on Macs) or Edge (on Windows computers) because those are the default applications for opening PDFs. And because it wasn't in Adobe Acrobat, the forms couldn't be filled out and signed.
     3. Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it. 
     4. The 3 participants who were using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms for the same reason.
+1. Many participants (8 of 11) clicked on the form name to open the form detail page, and from there clicked the download link. This means that they **didn't see the instructions provided only on the search results page**. 
 1. Three of the Mac and iOS users were surprised and annoyed when they heard that you have to use Adobe Acrobat, which is generally not used on those platforms.
 
-### Assessibility Issues
+### Assessibility-Related Issues
 1. One of the screen reader users couldn't access the digital signature field because JAWS didn't read it. The problem was that there's **no label on the signature field** to indicate what it is.
 2. There were other **issues with the form fields that made them difficult to fill out** using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
 3. **Form search results were hard to scan** because there was no heading for each one, and so participants had to tab down 4-5 lines each time to see the next one.
 
-### Other Insights
-1. Many participants (8 of 11) clicked on the form name to open the form detail page, and from there clicked the download link. This means that they didn't see the instructions that were provided only on the search results page. 
