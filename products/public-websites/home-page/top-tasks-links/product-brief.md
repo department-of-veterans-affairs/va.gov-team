@@ -49,15 +49,13 @@ Jeff Barnes suggests the following:
 
 What is the vision for the next big iteration of VA.gov?  Chris Johnston's POV: it is far more personalized in orientation -- aka the Bank of America experience where the user hits the home page and immediately signs-in to "check and do stuff -- view bank balance, make a payment, etc."   As for the rest of the home page, it is focused on "up-selling/promoting" new products and services.
 
+
 <img width="902" alt="Screen Shot 2021-08-03 at 1 09 07 PM" src="https://user-images.githubusercontent.com/63107147/128057334-8eb05d3f-0465-4b14-8fcb-d368cb2b035b.png">
 
 
 Based on analytics and user research generated for authenticated product builds (My VA and Profile), Samara Strauss believes the time has come to ["create an authenticated navigation that is more tool and task-oriented and allows each veteran to more readily navigate their experience at the VA."](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/46)
 
-Unifying Auth and Unauth
-https://github.com/department-of-veterans-affairs/digital-experience-products/issues/46
-
-https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9
+A glimpse at what a more fully realized "unified unauth/auth VA.gov" might be is conceived and illustrated by Meg Peters [in this detailed wireframe.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620919229869/557b3f36f36ae4f6b9b6073ae7fa58263ef64ff9)
 
   
 
