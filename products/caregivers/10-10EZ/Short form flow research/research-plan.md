@@ -26,7 +26,7 @@ The goals of this user research are to:
 Our hypothesis is that users will be able to navigate through the short form relatively easily, but may have issues with the following:
 - Understanding what a "short form" is 
 - Understanding what is the added value of this experience (because they will not see the skipped questions)
-- Getting stuck/confused on the confirmation page after self-reporting receiving pay for a disability rating of 50% or higher
+- Getting stuck/confused on the confirmation page after self-reporting pay for a disability rating of 50% or higher
 
 
 ## Method	
