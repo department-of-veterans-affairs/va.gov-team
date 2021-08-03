@@ -70,8 +70,8 @@ Yes; Veterans understood what referred charges meant and the alert was often the
 This is a component that was tested as part of the experimental design system
 
 * Some clicked on the alert to read more while others moved on to looking at either their balance details or resolution options
-* Of the 10 participants who viewed the prototype:
-  * 9 understood what a referred charge was and how to resolve it
+* Of the 9 participants who viewed the prototype:
+  * 8 understood what a referred charge was and how to resolve it
   * 1 participant understood that they owed money but struggled to find information about how to resolve it 
 * Several participants were interested in seeing the specific charges that were referred for collection 
 
