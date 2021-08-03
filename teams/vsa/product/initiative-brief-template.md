@@ -24,13 +24,10 @@
 ---
 
 ## Outcome Summary
-> *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
-
+> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * .
 
-**Related product(s)**
-> *Identify VA.gov product(s) this initiative is associated with.*
-
+**Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
