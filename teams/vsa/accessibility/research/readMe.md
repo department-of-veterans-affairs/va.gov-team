@@ -17,7 +17,7 @@ By stewarding inclusive research at the VA, we can:
 - Underserved Veteran communities
 - Roadmap for new guidelines
 
-## [Documents Tools and Methods](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/documents-tools-and-methods)
+## [Documents, Tools, and Methods](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/documents-tools-and-methods.md)
 - Document and tools, current state and recommendations
 - Inclusive methods (WIP)
 
