@@ -9,9 +9,9 @@ The Million Veteran Program invites you to join our campaign to engage and enrol
 **Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
 
 You can help by sharing the materials uploaded to this communication toolkit:
-1. [Ad for VAMC televisions and digital screens](#ad-for-vamc-tvs)
+1. [Ad for VAMC televisions and digital screens](#ad-for-vamc-televisions-and-digital-screens)
 2. [Flyers and posters](#flyers-and-posters)
-3. [One-pager (flyer and poster)](#one-pager)
+3. [One pager (flyer and posters)](#one-pager)
 4. [Videos](#videos)
 5. [Newsletter blurbs](#newsletter-blurbs)
 6. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
@@ -32,7 +32,7 @@ Below is an advertisement that can be used on digital screens in elevators, way-
 
 - Ad for VAMC televisions and digital screens
 
-## Flyers and posters
+## One pager (flyer and posters)
 
 Each PDF flyer has the same content but different portraits. Please use whichever flyer best reflects the audience you’re engaging or wish to engage. 
 
