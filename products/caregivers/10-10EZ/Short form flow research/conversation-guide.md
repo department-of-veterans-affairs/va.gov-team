@@ -156,7 +156,7 @@ Once the partipant navigates past this to continue the form, this section of the
 
 Wonderful! I have a few questions about what you just saw in the prototype.
 
-**Overall 
+**Overall** 
 
 - What did you think of the overall experience?
 - Whas there anything that stood out to you? Then prompt positives/ negatives / confusing
