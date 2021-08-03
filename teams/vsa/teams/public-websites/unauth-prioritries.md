@@ -50,6 +50,7 @@
       - **Home Page Evolution** 
         - [X] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)
         - User Research planned to test adding link to search at bottom of Top Tasks boxes
+        - Next Steps: Provided an overview of this to members of the Sitewide Crew on 8/3; the new PO/Crew Chief will need to help drive this forward.
       - **New Mobile header (Research initiative)**
         - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
         - [ ] Analytics baseline request -- e.g.. what is overall % usage of search on Mobile; what is % usage of search in header on Mobile. 
