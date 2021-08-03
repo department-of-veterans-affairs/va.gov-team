@@ -24,6 +24,7 @@
 ## August 6
 
 * Schedule for removing endpoints for full prod launches
+* Syncing on guidance for Programs page, specifically in regards to disabling menu links / overusing health services / lift and shift vs. Marie Kondo. context [here](https://dsva.slack.com/archives/C02686M6K6X/p1628009571010300)
 
 ## July 30
 
