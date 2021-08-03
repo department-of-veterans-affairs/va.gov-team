@@ -11,7 +11,7 @@ The Million Veteran Program invites you to join our campaign to engage and enrol
 You can help by sharing the materials uploaded to this communication toolkit:
 1. [Ad for VAMC televisions and digital screens](#ad-for-vamc-televisions-and-digital-screens)
 2. [Flyers and posters](#flyers-and-posters)
-3. [One pager (flyer and posters)](#one-pager)
+3. [One pager (flyer and posters)](#one-pager-flyer-and-posters)
 4. [Videos](#videos)
 5. [Newsletter blurbs](#newsletter-blurbs)
 6. [Women Veterans in Research FAQ](#women-veterans-in-research-faq)
