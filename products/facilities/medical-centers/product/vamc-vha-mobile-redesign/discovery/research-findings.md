@@ -157,6 +157,14 @@ As well as those who publicize MMU events and information to Veterans:
     - Identify the entity most receptive to responding to this finding and share: Veteran experience office?
     - More research is needed to understand the problem and additional downstream effects that it may be causing Veterans and staff.
 
+## Next steps
+
+1. Discuss findings and recommendations with Facilities team
+2. Submit high level concepts into Collab cycle
+3. Refine mockups
+4. Create PAO survey (if recommendation is adopted)
+5. User test ideas with PAO
+6. User test ideas with Veterans
 
 ## Appendix
 
