@@ -1,4 +1,14 @@
-# VAMC VHA Mobile Redesign - Discovery
+# Research Findings - VAMC VHA Mobile Redesign - Discovery
+
+
+## Table of Contents
+
+* [Research goals](#research-goals)
+* [Methodology](#methodology)
+* [Research findings](#research-findings)
+* [Research findings with detaila](#research-findings-with-details)
+* [Recommendations](#recommendations)
+* [Appendix](#appendix)
 
 ## Research goals
 
@@ -29,7 +39,7 @@ As well as those who publicize MMU events and information to Veterans:
 ##### 5. Collaboration between VHA and Vet Centers is inconsistent at best and needs work
 
 
-## Research findings - Detailed
+## Research findings with details
 
 ### 1. Mobile clinics, events and services will not be adequately represented by the current model of 1 webpage per vehicle. 
 
