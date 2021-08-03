@@ -1,5 +1,27 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
+## 8/6/2021 - placeholder - briefing with VBA, VHA, NCA, OPIA, and OEI comms teams
+
+
+## 8/2/2021 
+
+Internal walk through - strategy and WIP wireframes. 
+
+Attendees: 
+Ryan Thurlwell
+Martha Wilkes
+Beth Potts
+Danielle Thierry
+Meg Peters
+Neil Hastings
+Kevin Walsh
+Dave Conlon
+Chris Johnston
+Steve Wirt
+Jen Lee
+Mikki Northuis
+
+
 ## 7/14/2021
 
 Presented tier 3 strategy proposal to the Digital Modernization Council's "deep dive." 
