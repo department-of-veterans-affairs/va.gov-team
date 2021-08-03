@@ -3,17 +3,19 @@
 ## Background
 This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the Caregivers team.
 
-During previous usability studies (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md))  on this form we have found the facility selection page to cause many users confusion. A few trends in confusion include:
-1. Users don't know why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
+During previous usability studies on this form (Research Findings: [February 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md), [April 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)) we have found the VA medical facility selection page caused many users confusion. A few trends in confusion include:
+1. Users are confused why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
 2. Users are uncertain which facility to specify (Eg. Primary care, therapist, oncologist, most recent, etc.)
 3. Users that live on state borders potentially would have to select a different state from where they live in order to find their preferred facility (located in another state).
+
+We have redesigned the page to address these needs and this research is on the usability of this redesign. 
 
 ## Goals	
 
 The goals of this user research are to:
 1. Determine whether or not this facility redesign is usable 
 2. Determine whether or not this facility redesign is accessible
-3. Determine whether or not this facility redesign resolves the confusion trends listed above.
+3. Determine whether or not this facility redesign resolves the confusion trends listed above
 
 **Research questions**
 
@@ -26,7 +28,7 @@ The goals of this user research are to:
 
 **Hypotheses**
 
-Our hypothesis is that users will be able to navigate through the facility relatively easily, but may have issues with the following:
+Our hypothesis is that users will be able to navigate through the facility selection relatively easily, but may have issues with the following:
 - The amount of results shown
 - Filtering results by miles away
 - Not recognizing the name of the facility they are looking for
@@ -35,7 +37,7 @@ Our hypothesis is that users will be able to navigate through the facility relat
 ## Method	
 **Task analysis**
 
-A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Because the facility selection appears near the beginning of the flow, we will have the participant start at the beginning of the application, for context, and then conduct complete specific tasks on the facility selection page, paying special attention to:
+A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Because the facility selection appears near the beginning of the flow, we will have the participant start at the beginning of the application, for context, and then complete specific tasks on the facility selection page, paying special attention to:
 - Where does the participant think that the pre-populated postal code came from?
 - Can they clear the text input field?
 - Do they know what to input in the text field?
@@ -64,9 +66,13 @@ All participants must:
 
 **Participant pool should strive for the following breakdown**
 
-- Age: 50% over age 55, 25% age 18-30, 25% age 31-50 
-- Device: 50% smartphone/tablet, 50% laptop/desktop
-
+- Age: 
+     - over age 55: 50%  
+     - age 18-30: 25%  
+     - age 31-50: 25%  
+- Device: 
+     - smartphone/tablet: 50%
+     - laptop/desktop: 50% 
 
 **Participant pool should in diverse in**
 - Branch of service
