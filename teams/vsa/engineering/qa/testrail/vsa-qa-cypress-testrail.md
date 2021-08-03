@@ -42,13 +42,13 @@ Instead of checking TestRail URLs to obtain your team's Project & Suite IDs (2 k
 | ------------- | ------------- | ------------- | ------------- |
 | Authenticated Experience | [VSA-Authd-Exp][authd-exp-tr-proj]  | 4  | 5 |
 | Claims & Appeals | [VSA-Claims-Appeals][claims-tr-proj]  | 5  | 6 |
-| Debt Resolution | [VSA-Debt-Resolution][debt-tr-proj]  | 7  | 8 |
 | Caregiver | [VSA-Caregiver][caregiver-tr-proj] | 10  | 11 |
 | Content & Localization | [VSA-Content-Localization][content-loc-tr-proj] | 34  | 183 |
+| Debt Resolution | [VSA-Debt-Resolution][debt-tr-proj]  | 7  | 8 |
 | Decision Tools  | [VSA-Decision-Tools][dcsn-tools-tr-proj] | 30 | 136 |
-| eBenefits | [VSA-eBenefits][eben-tr-proj] | 3 | 3 |
+| eBenefits Migration | [VSA-eBenefits][eben-tr-proj] | 3 | 3 |
 | Facilities | [VSA-Facilities][fac-tr-proj] | 6 | 7 |
-| Healthcare Experience | [VSA-Healthcare][healthcare-tr-proj] | 24 | 35 |
+| Healthcare Experience [aka Clipboard] | [VSA-Healthcare-Exp][healthcare-tr-proj] | 24 | 35 |
 | Public Websites | [VSA-Public-Websites][pubweb-tr-proj] | 8 | 9 |
 | Search & Discovery | [VSA-Search-Discovery][search-tr-proj] | 31 | 150 |
 | VAMC | [VSA-VAMC][vamc-tr-proj] | 9 | 10 |
