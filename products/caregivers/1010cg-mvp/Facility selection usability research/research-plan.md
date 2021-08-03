@@ -1,7 +1,7 @@
 # [DRAFT] Research Plan: VSA Caregiver, 10-10CG facility selection redesign usability testing, August 2021
 
 ## Background
-This research is to be conducted on the Application for Family Caregiver Benefits (10-10EZ) by the Caregivers team.
+This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the Caregivers team.
 
 During various usability studies on this form we have found the facility selection page to cause many users confusion. A few trends in confusion include:
 1. Users don't know why the facility they are familiar with isn't listed. (The current dropdown list only includes facilities with a Caregiver support staff)
