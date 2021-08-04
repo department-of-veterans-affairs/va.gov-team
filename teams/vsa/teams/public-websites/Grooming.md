@@ -44,6 +44,7 @@ None
 - [ ] Clean up the widget pattern in the "static-pages" code [#7751](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7751) 
 - [ ] 1x Test account on a non-production env for Cerner Facilities [#21238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21238)
 - [ ] [COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? [#1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045) 
+- [ ] 508-defect-1 ❗[SCREENREADER]: Some non-English links have the lang="en" attribute [#27619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27619) 
 
 ### Future Work Grooming: 
 New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
