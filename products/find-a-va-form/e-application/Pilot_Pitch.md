@@ -62,7 +62,7 @@ For the pilot, we would propose the following (with more granular details to be 
 
 [VA-DocuSign Form 40-1330 - Business Case Final.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6933796/VA-DocuSign.Form.40-1330.-.Business.Case.Final.pdf)
 
-- **Select a limited number of VA Forms for testing, based on criteria including:
+- **Select a limited number of VA Forms for testing, based on criteria including:**
   - Expense to the agency (e.g. the paper process is unwieldy)
   - Expense to the user (e.g. any fees associated with completing)
   - Time-intensive (e.g. forms with highest burden -- complexity, number of questions, etc.)
