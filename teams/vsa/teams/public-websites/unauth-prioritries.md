@@ -10,6 +10,16 @@
 
 ## Public Websites 
 
+Product Manager
+- Brian Lloyd
+FE Engineers
+-  Kelson Adams
+-  Ryan Leahy
+UX Designer
+- Cassandra Allen
+Researcher
+- Cindy Merrill
+
 - Products
   - Home Page (including Alert Banner) [Secondary: Ryan and/or Beth/Danielle]
   - Site Navigation (Header, Left Hand, Footer) [Secondary: Meg]
