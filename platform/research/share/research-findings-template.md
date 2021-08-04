@@ -239,6 +239,7 @@ Devices used during study:
 Age:
 * 25-34: x
 * 35-44: x
+* 45-54: x
 * 55-64: x
 * 65-74: x
 * Unknown: x
