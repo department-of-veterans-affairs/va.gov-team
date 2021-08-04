@@ -35,16 +35,23 @@ _Description of research goals_
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md#research-goals)_
 
 
-# Research Questions/Tasks
+# Research Questions
 
-_Research questions/tasks here_
+_Research questions here_
 
 _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#research-questions)_
 
 
-* Question/task 
-* Question/task
-* Question/task
+* Question 
+* Question
+* Question
+* 
+
+# Methodology 
+
+_Brief description of method chosen_
+
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#research-methodology)_
 
 
 # Hypotheses and Conclusions
@@ -55,11 +62,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _Hypothesis statement_
 
-_(“True”, “Likely True” or “Very True”) Why?_
-
-_Hypothesis statement_
-
-_(“True”, “Likely True” or “Very True”) Why?_
+_(“True”, “Likely True”, “Definitely True”, “False”, “Likely False” or “Not enough information”) Why?_
 
 
 # Mapping to the Veteran journey
@@ -67,13 +70,6 @@ _(“True”, “Likely True” or “Very True”) Why?_
 _How does this research map to the Veteran journey? Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
 
 _[Download the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-
-
-# Methodology 
-
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#research-methodology)_
 
 
 # Key Findings
