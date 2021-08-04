@@ -81,7 +81,12 @@
 
 ## Search & Discovery
 
-- Products
+- Product Manager - Denise Coveyduc
+- FE Engineer - Sam Suddath
+- UX Designer - Megan Gayle
+- Researcher - Cindy Merrill
+
+### Products
   - On-site Search
     - Type Ahead
     - Best Bets/Top Recommendations
@@ -91,7 +96,7 @@
     - Structured Markup Features (e.g. Snippets, FAQs)
     - Local Search Optimization/Listing (e.g. Google My Business)
 
-- 2021 Priorities
+### 2021 Priorities
   - New
     - On-site
       - Search Landing Page (surfacing more Search tools)
@@ -105,15 +110,20 @@
   - Maintain
     - Site SEO Optimization (e.g. fix errors)
   
-  
+ 
   ## Decision Tools
   
-- Products
+- Product Manager - Marci McGuire
+- FE Engineer - Zach Morel
+- UX Designer - Cassandra Allen
+- Researcher - Cindy Merrill
+
+### Products
   - Find a Form
   - Find a Yellow Ribbon Program
   - Discharge Upgrade Wizard
 
-- 2021 Priorities
+### 2021 Priorities
   - New
     - Find a Form eSign-eApplication POC
       - [X] [Draft - Discovery Sprint Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/Pilot_Pitch.md)
