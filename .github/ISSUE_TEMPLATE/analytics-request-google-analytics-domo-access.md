@@ -10,7 +10,7 @@ assignees: joanneesteban
 # Request Google Analytics and/or Domo access
 
 ## What this form is for
-Use this template to request access to Google Analytics and/or Domo. Please complete steps 1-3 below. 
+Use this template to request access to Google Analytics and/or Domo. Please complete steps 1 & 2 below. 
 
 ## 1. Access Requirements 
 Please check the analytics tool(s) you need access to:
@@ -29,12 +29,6 @@ _Please list any additional requirements, if any (i.e. edit access). If you are 
 
 _Once you receive access, you should receive a confirmation email directly from Google or Domo._
 
-## 3. Product Team / External Team / VA Office
-Please share the team you are on. This is helpful for auditing purposes.
-
-**Team: ________________**
- 
- 
  
 ---
 
