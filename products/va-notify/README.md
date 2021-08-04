@@ -67,7 +67,7 @@ ________________________________________________________________________________
 | Communication Channel      | Unit Price                                       | Messages per AWS credit                                   |
 |:---------------------------|:-------------------------------------------------|:----------------------------------------------------------|
 | Email                      | $0.000093/email                                  | 10,000 emails per credit                                  |
-| SMS [outbound and inbound] | $0.0054/SMS [outbound] $0.0070/SMS [inbound]     | 172.22 SMS/credit [outbound] 133.33 SMSs/credit [inbound] |
+| SMS [outbound and inbound] | $0.0054/SMS [outbound]<br/>$0.0070/SMS [inbound] | 172.22 SMS/credit [outbound] 133.33 SMSs/credit [inbound] |
 
 <br>
 
