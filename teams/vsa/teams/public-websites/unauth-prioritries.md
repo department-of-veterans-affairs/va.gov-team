@@ -68,6 +68,9 @@
   - **Maintain**
     - Resources & Support (with enhanced Video template in backlog)
 
+  - **RADAR**
+    - Mission Act page goes away in Sept 30th.   Jenny H-L is helping us determine what happens (redirect to Mission Act content page in Benefits Hub).  Danielle is also involved.
+
 ## Search & Discovery
 
 - Products
