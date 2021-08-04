@@ -20,6 +20,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery)
 - List of keywords: Mobile clinics, Mobile Medical Units, Critical deployable resources, MMU, MUV, CDR, rural health, telehealth, telemedicine, PAOs, VAMC location pages, emergency response  
 
+#### July 1 - July 1: VA Health Care Copayment Tool MVP Usability Study - Mobile
+*Debt Resolution, Lead Researchers: Riley Orr (Amida), Rebecca Walsh (Ad Hoc)*
+- Number of participants: 10 Veterans (All use VA health care; 5 on Android; 5 on iPhone)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research/jun-2021)
+- List of keywords: Mobile, Veterans, Veterans Health Administration, Veteran Patient Statements, copays, health care, debt, financial assistance, Pay.gov, experimental design 
+
 ### June 2021
 
 #### June 23-29: Check-in MVP Usability Veteran-facing Research
