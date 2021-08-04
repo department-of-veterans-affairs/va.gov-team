@@ -20,14 +20,11 @@ The use of paper/PDF forms by Veterans and their beneficiaries for determining e
   - **accelerate use of e-signatures**, and
   - improve customer experience
 
-- The Social Security Number Fraud Prevention Act of 2017 which prohibits the inclusion of SSNs on any document sent by mail unless the head of the agency determines that the inclusion of the SSN is necessary. [For VA, any form that has a field for a SSN, must be reviewed and a determination must be made as to whether that field can be removed, reduced to only the last four digits, or remain as-is](https://www.oprm.va.gov/privacy/SSNReduction.aspx). If the full SSN must remain, the program office that owns that form must submit an acceptable justification. This portion of the Act must be implemented by 2023.   This requirement is compelling VA to consider updating a broad ranges of forms - a time-consuming, costly process given resource constraints.
+- The Social Security Number Fraud Prevention Act of 2017 which prohibits the inclusion of SSNs on any document sent by mail unless the head of the agency determines that the inclusion of the SSN is necessary. [For VA, any form that has a field for a SSN, must be reviewed and a determination must be made as to whether that field can be removed, reduced to only the last four digits, or remain as-is](https://www.oprm.va.gov/privacy/SSNReduction.aspx). If the full SSN must remain, the program office that owns that form must submit an acceptable justification. This portion of the Act must be implemented by 2023.   This requirement is compelling VA to consider updating a broad range of forms - a time-consuming, costly process given resource constraints.
 
 The reliance on PDF comes with another challenge that has grown more prevalent with the complexity of browsers, devices and operating systems: compatability.  While the Adobe PDF format has long been considered "cross compatible" the user experience can vary -- especially for those who do not rely on the free Adobe reader.   This is illustrated by the [steps required to open, fill and/or electronically sign PDFs](https://portal.ct.gov/DEEP/About/Tips-for-Viewing-and-Using-Fillable-PDFs).
 
-In fact, VA.gov user research conducted in July-August of 2021 revealed numerous "real users, real life" friction points in the PDF-centric Find a Form product.  
-
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/topline-summary.md
+In fact, VA.gov user research conducted in [July-August of 2021 revealed numerous "real users, real life" friction points in the PDF-centric Find a Form product.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/topline-summary.md). New VA efforts to include electronic signature functionality in the PDF forms has made the compatibility issue even more pronounced.
 
 
 
