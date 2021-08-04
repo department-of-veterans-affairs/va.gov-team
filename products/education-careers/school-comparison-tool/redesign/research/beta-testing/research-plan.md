@@ -89,7 +89,7 @@ Group 12:
 
 Group 13: 
 - Women who are currently using or plan to use Chapter 33 benefits in the next year
-- Will test on a Will test on a mobile device (i.e. phone)
+- Will test on a mobile device (i.e. phone)
 
 Group 14:
 - Men who have previously used, are currently using, or plan to use Chapter 30 benefits in the next year
