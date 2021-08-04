@@ -224,11 +224,11 @@ _To be filled out by the sprint team._
 * Links to key documents (discovery readout, charter, etc.)
 
 # Next Steps
-[X] Talk with OCTO-DE Benefits Applicatons Product Leads Matt Self & Sabrina Mohamed
-[X} Talk to VHA Forms lead Janel Keyes
-[ ] Talk to VBA Forms lead Yvette Allmond
-[ ] Talk to VA Privacy Office - Kamilah Jackson and Stephania Griffin
-[ ] Determine how to test and goals of test -- e.g., Is usability testing needed -- or sample test in Production for a period of time?
-[ ] Flesh out the business case, economics -- if VA were to adopt the DocuSign solution, who would create all the DocuSign formatted forms and at what cost?  What would be the annual licensing cost based on estimated transaction volume?  What's the ROI?
-[ ] PO needs to get Crew Chiefs and Chris Johnston sign off
+- [X] Talk with OCTO-DE Benefits Applicatons Product Leads Matt Self & Sabrina Mohamed
+- [X] Talk to VHA Forms lead Janel Keyes
+- [ ] Talk to VBA Forms lead Yvette Allmond
+- [ ] Talk to VA Privacy Office - Kamilah Jackson and Stephania Griffin
+- [ ] Determine how to test and goals of test -- e.g., Is usability testing needed -- or sample test in Production for a period of time?
+- [ ] Flesh out the business case, economics -- if VA were to adopt the DocuSign solution, who would create all the DocuSign formatted forms and at what cost?  What would be the annual licensing cost based on estimated transaction volume?  What's the ROI?
+- [ ] PO needs to get Crew Chiefs and Chris Johnston sign off
 
