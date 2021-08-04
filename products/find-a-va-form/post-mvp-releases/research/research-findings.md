@@ -25,9 +25,11 @@ Cindy Merrill [cindy.merrill@adhocteam.us)]
 <br>
 
 # Research Goals
+Veterans may need to fill out forms from the VA throughout their lives to apply for and update benefits. These forms exist in a variety of formats, including paper, PDF, and HTML. This research was focused on fillable PDF forms, some of which cause issues for Veterans depending on the technology they use to access them.
+
 The purpose of this research was to 
-1. Better understand how Veterans download VA PDF forms and what challenges they encounter.
-1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We wanted to assess the performance of three different design options for providing instructions.
+1. Better understand how Veterans download VA forms that are fillable PDFs and what challenges they encounter.
+1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We wanted to assess the performance of three different design options for providing these instructions.
 
 
 # Research Questions
