@@ -54,7 +54,7 @@ Change  |  [Housing assistance left nav](https://www.va.gov/housing-assistance/h
 
   
 
-**Additional key linking opportunities**  Not an all-inclusive list.
+**Additional key linking opportunities**  (Not an all-inclusive list.)
 Page | Description
 --- | ---
 [Search best bets](https://www.va.gov/search/?query=home%20loan&t=false) | Review current best bets and potentially replace "loan types" with an apply option 
