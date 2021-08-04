@@ -12,7 +12,13 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
+### July 2021
 
+#### June 15 - July 12: Facility Locator - VAMC VHA Mobile Redesign - Stakeholder interviews
+*VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
+- Number of participants: 16 VA employees (Public Affairs Officers, Emergency Managers, Clinic Managers, Physicians, Nurse Managers)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery)
+- List of keywords: Mobile clinics, Mobile Medical Units, Critical deployable resources, MMU, MUV, CDR, rural health, telehealth, telemedicine, PAOs, VAMC location pages, emergency response  
 
 ### June 2021
 
