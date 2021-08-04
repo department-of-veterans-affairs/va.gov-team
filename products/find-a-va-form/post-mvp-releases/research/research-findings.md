@@ -182,21 +182,23 @@ _If there are demographics that were not included in this study or you discovere
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)
 
 [Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+- [Synthesis spreadsheet]()
+- [Technology setup and issues by user]()
+- [Mural board for user steps](https://app.mural.co/t/vsa8243/m/vsa8243/1628022580962/ff307182df2400489fee75782bd37f5879cca3a1?sender=ua2ff9f6c0031cb4999ae6676)  
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Find a Form on Staging](https://staging.va.gov/find-forms/)
 
 
 ## Other supporting documents created
