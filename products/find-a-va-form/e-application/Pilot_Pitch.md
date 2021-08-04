@@ -79,17 +79,17 @@ For the pilot, we would propose the following (with more granular details to be 
   - Reduced "error rate" in submitted documents
   - Reduction in labor costs associated with manually keying in form data
   - Faster speed to outcomes
-- Eliminate from the process:
-  - Hassles
-  - Errors
-  - Delays
-  - Risks
-  - Paper
-- Build into the process:
-  - Time savings
-  - Cost savings
-  - Security
-  - Trust
+  - Eliminate from the process:
+    - Hassles
+    - Errors
+    - Delays
+    - Risks
+    - Paper
+  - Build into the process:
+    - Time savings
+    - Cost savings
+    - Security
+    - Trust
 
 ### Relevant Resources & Links
 
