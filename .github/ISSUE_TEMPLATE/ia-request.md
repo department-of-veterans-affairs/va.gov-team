@@ -7,7 +7,7 @@ assignees: mnorthuis
 
 ---
 ## When to use this 
-After you've received a response to your Collaboration Cycle kickoff ticket that indicates an Information Architect Request is needed. 
+Once you've kicked off your work and are starting on early designs. 
 
 ## Steps to complete an IA request
 
