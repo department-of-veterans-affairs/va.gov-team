@@ -18,7 +18,7 @@
 - Researcher - Cindy Merrill
 
 
-# Products
+### Products
   - Home Page (including Alert Banner) [Secondary: Ryan and/or Beth/Danielle]
   - Site Navigation (Header, Left Hand, Footer) [Secondary: Meg]
   - Benefit Hubs [Secondary: Meg and/or Beth/Danielle]
