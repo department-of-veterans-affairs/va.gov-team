@@ -274,7 +274,7 @@ Race:
 
 <br>
 
-Disability and Assistive Technology:
+Disability and Assistive Technology (AT):
 * Cognitive: x
 * AT Beginner: x
 * AT Advanced User: x
