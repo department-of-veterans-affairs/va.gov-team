@@ -52,7 +52,6 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 * Question 
 * Question
 * Question
-* 
 
 # Methodology 
 
