@@ -34,6 +34,7 @@
 
 ### Next Steps 
 - Deisgn Mockups --> Prototypes --> User Research (August to September) 
+- Schedule a design review meeting to lock in mockups ISO interactive prototype build for user research testing. 
 
 ## Session Notes:
 
