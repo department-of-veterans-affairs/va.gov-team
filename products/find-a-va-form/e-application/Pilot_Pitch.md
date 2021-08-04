@@ -56,9 +56,13 @@ With all this in mind, we believe it is vital that we examine the feasibility of
 
 ### About the Pilot
 
-- We would propose using DocuSign for this pilot.  DocuSign already has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
+For the pilot, we would propose the following (with more granular details to be determined as part of the Discovery process)
 
--
+- **Leverage DocuSign for this pilot.** DocuSign already has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  That agreement includes 100,000 envelopes (a submitted form), providing ample opportunity to pilot test -- in production -- a limited number of select forms-transactions.   DocuSign is already working closely with VA Privacy Office on the e-signature and SSN reduction initiatives.   DocuSign has tentatively agreed to support this pilot and has provided this "business case" to highlight benefits.         
+
+[VA-DocuSign Form 40-1330 - Business Case Final.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6933796/VA-DocuSign.Form.40-1330.-.Business.Case.Final.pdf)
+
+
 
 - Success metrics would include:
   - Evidence of user preference over standard digital download and email/fax
@@ -88,14 +92,16 @@ https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/prod
 
 ### Discovery Sprint Roles
 
-* Product Lead: TBD
+* OCTO-DE Product Lead: TBD
+* OCTO Product Engineer for Identity/Authentication: Cody Reinhold
 * Product Manager: Marci McGuire
 * Discovery Sprint Lead: TBD
-* Engineer: Zach Morel
+* Front End Engineer: Zach Morel
 * Designer: Cassandra Allen
 * Researcher: Cindy Merrill
 * Accessibility: Josh Kim, Angela Fowler
 * VA Champion: Janel Keyes, VHA Deputy Director 
+
 
 
 ### Stakeholders
@@ -104,7 +110,7 @@ https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/prod
     - OMB Personnel to better understand the form creation/approval/modification process
     - VA Forms leadership to better understand the end-to-end workflow from form creation to the processing of submitted forms
     - VA Forms Managers to better understand their workflow in adding new or updated forms to the VA system
-    - Other technical teams that complete VA forms in the background as part of their web applications
+    - Other technical teams that complete VA forms in the background as part of their web applications (e.g. VA Publications Services - Brian Mano)
     - VA personnel who process forms that have been emailed, mailed, or faxed in
         - Centralized Mail: https://eauth.va.gov/accessva/about/dmhs
         - VA Evidence Intake Center: https://cck-law.com/blog/what-is-the-va-evidence-intake-center/
