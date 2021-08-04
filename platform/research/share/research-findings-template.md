@@ -276,13 +276,13 @@ Race:
 
 Disability and Assistive Technology (AT):
 * Cognitive: x
-* AT Beginner: x
-* AT Advanced User: x
-* Desktop Screen Reader (SR): x
-* Mobile Screen Reader (SR): x
+* AT beginner: x
+* AT advanced user: x
+* Desktop screen reader (SR): x
+* Mobile screen reader (SR): x
 * Magnification/Zoom: x
 * Voice AT like Siri/Dragon Naturally Speaking: x
-* Hearing Aids: x
+* Hearing aids: x
 * Sighted keyboard: x
 * Captions: x
 
