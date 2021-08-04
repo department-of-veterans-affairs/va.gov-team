@@ -62,21 +62,22 @@ Each participant saw one of three versions of the Find a Form page:
 # Hypotheses and Conclusions
 
 1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
-    1. LIKELY TRUE: 
-1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms. 
+    1. FALSE: Most participants (10 of 11) didn't read at the instructions provided. Maybe if the instructions had been on the form detail pages, more people might have noticed them. But even so, the forms turned out to be impossible to open in Acrobat on a mobile device, so nothing could help there.
+1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms.
+    1. FALSE: Same reason as above. In addition, the digital signature is not be accessible to screen readers.
 1. The new instructions will alleviate issues with forms that have different download behaviors.
+    1. FALSE: Same reason as above.
 1. Instructions at the top of the list of forms will be missed when they scroll off the screen.
+    1. MAYBE TRUE: Instructions at the top were ignored by all participants who saw them.
 1. Instructions repeated above every form download link will get ignored or be annoying, especially to users of screen readers. 
+    1. MAYBE TRUE: Instructions repeated were ignored by all except two participants. No one mentioned being annoyed by the repeated text. 
 
-_(“True”, “Likely True” or “Definitely True”) Why?_
-“False”, "Likely False"
-“Not enough information”
 
 # Key Findings
 
 ## Universal Issues (unrelated to accessibility technology)
 
-1. **Almost all participants (10 of 11) completely ignored the instructions--no matter which of the 3 designs they saw.** Therefore, assessing the designs by which resulted in more success doesn't make sense.
+1. **Most participants (9 of 11) completely ignored the instructions--no matter which of the 3 designs they saw.** Therefore, assessing the designs by which resulted in more success doesn't make sense.
 
 1. **Most participants (9 of 11) were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
@@ -104,6 +105,10 @@ _For each finding, list details with supporting quotes and images when possible.
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#themes-and-detailed-findings)_
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
+
+**Finding 1**
+
+9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore them.
 
 <br>
 
