@@ -23,9 +23,9 @@ Date: MM/DD/YYYY
 
 [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#recommendations)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#further-research-needed)
-
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#who-we-talked-to)
+
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#further-research-needed)
 
 <br>
 
