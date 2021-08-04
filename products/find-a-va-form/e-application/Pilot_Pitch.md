@@ -33,7 +33,7 @@ With all this in mind, we believe it is vital that we examine the feasibility of
 - (b) can be implemented at scale (as compared to the engineering intensive approach of transforming forms into full-on online applications).  
 
 
-**Our user experience goal:** Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.
+**Our user experience goal:** Make many if not every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.
 
 **The solution we would like to pilot/test** a cloud-based e-application service -- examples include DocuSign and Adobe Sign -- that enables a user to view, fill-in, sign and submit a PDF document using a browser or mobile device.  Assumed benefits of this approach:
 
