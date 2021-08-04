@@ -152,7 +152,7 @@ Once participant makes selection on VA Benefits- current compensation page and c
 Once the participant navigates past this to continue the form, this section of the research is complete.
 
 
-## Post task questions - 10 minutes
+## Post task questions - 5 minutes
 
 Wonderful! I have a few questions about what you just saw in the prototype.
 
