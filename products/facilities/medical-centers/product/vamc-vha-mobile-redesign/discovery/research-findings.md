@@ -20,7 +20,7 @@ To understand how mobile clinics are being used across the country, so that we a
 
 ## Who we spoke with
 
-We interviewed 14 VA employees, in various roles who run and manage the MMU programs and services:
+We interviewed 16 VA employees, in various roles who run and manage the MMU programs and services:
  - 2 - Emergency managers
  - 6 - Health programs and operations management 
 (physicians, nurses and clinic managers)
