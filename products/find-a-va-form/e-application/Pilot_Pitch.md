@@ -35,16 +35,19 @@ With all this in mind, we believe it is vital that we examine the feasibility of
 
 **Our user experience goal:** Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.
 
-**The solution we would like to pilot/test** a cloud-based e-application service  -- examples include DocuSign and Adobe Sign -- that enables a user to view, fill, sign a PDF document using a browser or mobile device.  
+**The solution we would like to pilot/test** a cloud-based e-application service -- examples include DocuSign and Adobe Sign -- that enables a user to view, fill-in, sign and submit a PDF document using a browser or mobile device.  Some top-line assumed benefits of this approach:
 
-https://www.getapp.com/p/sem/digital-signatures-software?t=Best%20Signature%20Software&camp=adw_search&utm_content=g&utm_source=ps-google&utm_campaign=COM_US_Desktop_BR-Electronic_Signature&utm_medium=cpc&account_campaign_id=1541494697&account_adgroup_id=59891968798&ad_id=367729108692&utm_term=free%20digital%20signature%20software%20for%20pdf&matchtype=b&gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSvkVf_ks2kit5tYFtztJ0tVkBY7756roYYDyUUDtsr1ggal3K8U_exoCCfUQAvD_BwE
+- More universally compatabile 
+- Less error-prone (e.g. built-in error handling)
+- More secure (e.g. paper form can stolen/lost in the mail)
+- Reduces technology overhead (e.g. no need for FAX machine)
+- Faster delivery-processing time (e.g. submitted electronically vs. snail mail)
+- Business cost savings (e.g. eliminating costly paper-processes; data is captured by and auto-ingested from electronic form)
+- Increasing user comfort/familiarity (e.g. e-applications are becoming more common in the consumer finance sector -- for Home Loans, auto loans, etc.)
 
-https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives
+### About the Pilot
 
-
-### About the DocuSign Solution Approach
-
-Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
+- We would leverage Docusign for this pilot.  DocuSign already has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
 
 More details about the Docusign Federal Government initiative here:
 https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
