@@ -1,5 +1,5 @@
 ---
-name: IA Request
+name: IA Support Request
 about: Finalize the IA of your product for VA.gov
 title: IA Request [Team-Name, Feature-Name]
 labels: ia
