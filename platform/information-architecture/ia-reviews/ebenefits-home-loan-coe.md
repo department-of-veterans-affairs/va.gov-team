@@ -19,11 +19,12 @@
 
 - The Housing assistance hub has 2 separate areas - one for home loans and the other for housing grants - making the structure of this hub slightly different than other benefit hubs.  Rather than the typical 3 spoke structure (get, manage, resources), this hub is broken into 2 spokes to separate the 2 different benefit types under housing assistance. Under those 2 spokes, the options/content pages are then ordered based on the get/manage/resources structure, but not labeled as so.  
 - A static content page about this benefit already exists, but currently directs users to eBenefits to apply. With this work the static page will be updated appropriately and will direct users to the new online form on VA.gov. 
-- The new form will be nested under the [Home loans page](https://www.va.gov/housing-assistance/home-loans/) at the same level as all other home loans pages.
+- The new form will be nested under the [Home loans page](https://www.va.gov/housing-assistance/home-loans/) section at the same level as all other home loans pages.
+- A new authenticated tool and corresponding static landing page will also be created as part of this experience to allow users to check the status of their COE and download it.
 - The diagram below does not represent all pages within this section, only the general hierarchy and key pages impacted. 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/64a2a16e-355a-48b8-96b7-62e2f685960e)
 
+![image](https://user-images.githubusercontent.com/20994159/128267893-4f403b80-e75a-4991-b820-f0110799dbaf.png)
 
 **Page** | **URL** | **Full Breadcrumb*** | **Notes**
 --- | --- | --- | ---
@@ -50,12 +51,18 @@ Add  |  [Housing assistance left nav](https://www.va.gov/housing-assistance/home
 Add  |  [Housing assistance left nav](https://www.va.gov/housing-assistance/home-loans/)   | Check status tool static page <br> www.va.gov/housing-assistance/home-loans/check-coe-status | - Add appropriate link label to left nav.  <br> - Place after the surviving spouses option.   
 Change  |  [Housing assistance left nav](https://www.va.gov/housing-assistance/home-loans/)   | n/a | - CONFIRMING IF APPEALING A DECISION IS AN OPTION <br> - Change order of top 7 left nav options: 1) Loan types 2) Eligibility 3) How to apply 4) Apply now 5) Surviving spouse programs 6) Check COE status 7) Request decision review 8) Check appeal status   <br> - Change the label on this option to clarify that they are checking the status of an appeal, not a claim.  
 Change  |  [Housing assistance left nav](https://www.va.gov/housing-assistance/home-loans/)   | Check your VA claim status | - CONFIRMING IF APPEALING A DECISION IS AN OPTION  <br> - Change the label on this option to clarify that they are checking the status of an appeal, not a claim.  Make sure this option is distinct from the option to check the COE status. <br> - Move this option below "Request a decision review" option.   
-Add  |  [VA-backed Veterans home loans page](https://www.va.gov/housing-assistance/home-loans/)  | COE application <br> www.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880 | - Add appropriate link label and teaser text to page.  <br> - Place after the "How to apply" option.  
-Add  |  [VA-backed Veterans home loans page](https://www.va.gov/housing-assistance/home-loans/)   | Check status tool static page <br> www.va.gov/housing-assistance/home-loans/check-coe-status | - Add appropriate link label and teaser text to page.  <br> - Place after the surviving spouses option. 
-Add  |  [Purchase loan page](https://www.va.gov/housing-assistance/home-loans/loan-types/purchase-loan/) | COE application <br> www.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880 | - Add information on how to apply and a link to apply now that goes directly to the COE application.  
-Add  |  [Purchase loan page](https://www.va.gov/housing-assistance/home-loans/loan-types/purchase-loan/) | Check status tool static page <br> www.va.gov/housing-assistance/home-loans/check-coe-status | - Add information for users who have already applied on what do to check their status and download their COE to give to their lender. 
-Change  |  [Cash-out refinance loan page](https://www.va.gov/housing-assistance/home-loans/loan-types/cash-out-loan/) | COE application <br> www.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880 | - Update the link in step 2 of subway map to take user directly to the form.
-Add  |  [Cash-out refinance loan page](https://www.va.gov/housing-assistance/home-loans/loan-types/cash-out-loan/) | Check status tool static page <br> www.va.gov/housing-assistance/home-loans/check-coe-status | - Add information for users who have already applied on what do to check their status and download their COE to give to their lender.
+
+  
+
+**Additional key linking opportunities**  Not an all-inclusive list.
+Page | Description
+--- | ---
+[Search best bets](https://www.va.gov/search/?query=home%20loan&t=false) | Review current best bets and potentially replace "loan types" with an apply option 
+[VA-backed Veterans home loans page](https://www.va.gov/housing-assistance/home-loans/)  | Link to apply for COE and check status tool
+[Purchase loan page](https://www.va.gov/housing-assistance/home-loans/loan-types/purchase-loan/) |  Link to apply for COE and check status tool for those that have already applied.
+[Cash-out refinance loan page](https://www.va.gov/housing-assistance/home-loans/loan-types/cash-out-loan/) | Link to apply for COE and check status tool for those that have already applied.
+[Native American direct loan](https://www.va.gov/housing-assistance/home-loans/loan-types/native-american-direct-loan) | Link to apply for COE and check status tool for those that have already applied.
+[Interest rate reduction loan](https://www.va.gov/housing-assistance/home-loans/loan-types/interest-rate-reduction-loan) | Link to apply for COE and check status tool for those that have already applied.
 
 
 
@@ -63,7 +70,7 @@ Add  |  [Cash-out refinance loan page](https://www.va.gov/housing-assistance/hom
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  No known redirects needed. 
+-  eBenefits technical team will be repsonsible for retiring and redirecting any related tools or content on ebenefits.va.gov. 
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
