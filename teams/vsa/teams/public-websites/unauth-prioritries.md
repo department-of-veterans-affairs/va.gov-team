@@ -76,7 +76,7 @@
   - **Maintain**
     - Resources & Support (with enhanced Video template in backlog)
 
-  - **RADAR**
+  - **On the Radar**
     - Mission Act page goes away in Sept 30th.   Jenny H-L is helping us determine what happens (she seemed keen on the idea of redirecting to Mission Act to the Community Care page - https://www.va.gov/COMMUNITYCARE/).  Danielle is also involved in figuring this out.
 
 ## Search & Discovery
