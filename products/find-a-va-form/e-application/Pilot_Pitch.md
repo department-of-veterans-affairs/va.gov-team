@@ -27,7 +27,13 @@ The reliance on PDF comes with another challenge which has grown more prevalent 
 In fact, VA.gov user research conducted in [July-August of 2021 revealed numerous "real users, real life" friction points in the PDF-centric Find a Form product.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/topline-summary.md) New VA efforts to include electronic signature functionality in the PDF forms has made the compatibility issue even more pronounced.
 
 
-With all this in mind, we believe it is vital that we examine the feasibility of a new, more user-friendly approach to enable Veterans and beneficiaries to apply/manage their benefits -- one that is (a) far more robust than the legacy "download and print PDF" process and (b) can be implemented at scale (as compared to the engineering intensive approach of transforming forms into full-on online applications).    **Our user experience goal: Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.**
+With all this in mind, we believe it is vital that we examine the feasibility of a new, more user-friendly approach to enable Veterans and beneficiaries to apply/manage their benefits -- one that is:
+
+- (a) far more robust than the legacy "download and print PDF" process, and;
+- (b) can be implemented at scale (as compared to the engineering intensive approach of transforming forms into full-on online applications).  
+
+
+**Our user experience goal: Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.**
 
 
 ### About the DocuSign Solution Approach
