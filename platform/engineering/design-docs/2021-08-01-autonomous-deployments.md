@@ -1,7 +1,7 @@
 # Autonomous Deployment Plan for vets-website React Applications
 
 **Author(s):** Tim Wright  
-**Last Updated:** 08-03-2021  
+**Last Updated:** 08-04-2021  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** 
 
@@ -127,6 +127,8 @@ VSP maintains the ability to create and deploy full staging/dev builds as a fail
 4. Sync /build/vagov{env} to staging/dev S3 bucket
 
 This will likely cause `staging` and `dev` to diverge from `master` over time. We can set up a scheduled job to merge master into staging/dev on a weekly basis and reserve the ability to completely reset the environments if needed. When an environment is reset, a slack notification should go out alerting VFS teams that they will need to remerge any branches. An alert should also go out to Slack the previous day if any preparations are needed as to not interfere with potential planned demos. 
+
+We will also require commits to be merged into `staging` (not `dev`) before they are allowed to merge into `master`. After this requirement is in place, we would like to monitor for feedback to see if we need to allow teams to bypass this requirement with branch naming `hotfix/` and/or `revert/` prefixes.
 #### Roadmap
 
 1. Update current system to function with new workflows
@@ -196,9 +198,11 @@ After autonomous deployment work has been completed, work on application isolati
 - Should teams be able to merge into `master` without merging into `staging`/`dev`? Maybe only `hotfix/` and `revert/` branches can pass through?
 - What is the turnaround time to revert a commit?
 - Can we let teams deploy a full app or should be point to commits instead?
+- Should there be a maximum deployment frequency so a single app doesn't clog up the system?
 
 ### Revision History
 
 Date | Revisions Made | Author
 -----|----------------|----------
 August 3, 2021 | Initial draft | Tim Wright
+August 4, 2021 | Revisions based on FE Tools feedback | Tim Wright
