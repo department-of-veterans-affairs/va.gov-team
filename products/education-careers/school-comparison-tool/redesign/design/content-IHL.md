@@ -318,7 +318,7 @@ Tuition and fees charged: $NNNN
 
     { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
 
-    You may be eligible to receive a stipend of up to $1000 for books and supplies.  The book stipend is pro-rated based on your enrollment. 
+    You may be eligible for money to cover books and supplies, up to $83 per month.
 
     { end Book stipend modal }
 
