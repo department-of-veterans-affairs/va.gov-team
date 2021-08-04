@@ -125,7 +125,9 @@ https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/prod
 
 
 ### Stakeholders
-* VA business owner: Janel Keyes
+* VA executive champion: Janel Keyes, VHA
+  - VA Privacy Office - Kamilah Jackson and Stephania Griffin
+  - Veterans Experience Office - Tim Hudak
 * Stakeholders who will be involved or interviewed: TBD.  Possiblilities:
     - OMB Personnel to better understand the form creation/approval/modification process
     - VA Forms leadership to better understand the end-to-end workflow from form creation to the processing of submitted forms
@@ -222,17 +224,11 @@ _To be filled out by the sprint team._
 * Links to key documents (discovery readout, charter, etc.)
 
 # Next Steps
-- Talk with Matt & Sabrina - next week or so
-- Talk to Janel & possibly Yvette?
-   - Possible executive champion
-- Meet again with Docusign after that conversation
-- What other insights do we need to flesh out?
-  - Whether we should do it
-  - If we do, HOW do we do it?
-- What do the costs look like? 
-- Cost/Benefit analysis
-  - Hard costs
-  - Soft costs
-  - Benefits to Veterans & caregivers
-  - Estimated cost per page
-  - Janel's BA can figure that out
+[X] Talk with OCTO-DE Benefits Applicatons Product Leads Matt Self & Sabrina Mohamed
+[X} Talk to VHA Forms lead Janel Keyes
+[ ] Talk to VBA Forms lead Yvette Allmond
+[ ] Talk to VA Privacy Office - Kamilah Jackson and Stephania Griffin
+[ ] Determine how to test and goals of test -- e.g., Is usability testing needed -- or sample test in Production for a period of time?
+[ ] Flesh out the business case, economics -- if VA were to adopt the DocuSign solution, who would create all the DocuSign formatted forms and at what cost?  What would be the annual licensing cost based on estimated transaction volume?  What's the ROI?
+[ ] PO needs to get Crew Chiefs and Chris Johnston sign off
+
