@@ -24,7 +24,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 
 
 **I'm going to send you a link in the chat.**
-_ I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
+_I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
 
 _TBD link_
 
