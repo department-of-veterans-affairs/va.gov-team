@@ -231,7 +231,7 @@ LGBTQ+:
 Devices used during study: 
 * Desktop: x 
 * Tablet: x 
-* Mobile: x 
+* Smart phone: x 
 * Assistive Technology: x
 
 <br>
