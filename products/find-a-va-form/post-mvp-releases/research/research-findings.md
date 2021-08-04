@@ -221,81 +221,62 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md#who-we-talked-to-including-pilot-participant)_
-
-We talked to **x participants.**
-
-_Fill in all demographics that apply below._
+We talked to **11 participants.**
 
 Audience segment:
 * Veterans: 10 
 * Family member of a Veteran: 1  
 
-<br>
-
 Gender:
-* Male: x 
-* Female: x 
-
-<br>
+* Male: 3 
+* Female: 8 
 
 Devices used during study: 
-* Desktop: 9 
-* Tablet: 2 
-* Mobile: x 
-* Assistive Technology: x
+* Desktop: 9 (7 Windows, 2 Mac)
+* Tablet: 2 (iPad)
+* Phone: 1 (iPhone; also used a computer during the session, so counted above, too)
+* Assistive Technology: 4 (screen reader)
 
-<br>
+Web browsers used during study:
+* Chrome: 5
+* Safari: 5
+* Edge: 3 (1 also used Chrome on computer and Safari on iOS, so counted above twice)
+* Firefox: 1 (also tried in Chrome, so counted above, too)
 
 Age:
-* 25-34: x
-* 35-44: x
-* 55-64: x
-* 65-74: x
-* Unknown: x
-
-<br>
+* 25-34: 1
+* 35-44: 2
+* 45-54: 1
+* 55-64: 6
+* 65-74: 1
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Certificates and certifications?
-* Associate's degree: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-<br>
+* High school degree or equivalent: 1
+* Some college (no degree): 1
+* Associate's degree, trade certificate, or vocational training: 1
+* Bachelor's degree: 4
+* Master's degree: 3
+* Unknown: 1
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-<br>
+* Urban: 9
+* Rural: 2
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
+* White: 8
+* Black: 2
+* Hispanic: 0
+* Biracial: 1 (Native and White)
+* Asian: 0
 * Native: x
 
-<br>
-
 Disability and Assistive Technology:
-* Cognitive: x
-* AT Beginner: x
-* AT Advanced User: x
-* Desktop Screen Reader (SR): x
-* Mobile Screen Reader (SR): x
-* Magnification/Zoom: x
+* Cognitive disability: 3
+* AT intermediate: 3
+* AT advanced user: 1
+* Desktop screen reader: 3 (2 JAWS on Windows, 1 VoiceOver on Mac)
+* Mobile screen reader): 1 (VoiceOver on iPad)
 * Voice AT like Siri/Dragon Naturally Speaking: x
-* Hearing Aids: x
-* Sighted keyboard: x
-* Captions: x
 
 
 ## Underserved group we haven’t talked to 
