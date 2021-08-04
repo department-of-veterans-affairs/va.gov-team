@@ -1,15 +1,61 @@
 ## Type Ahead - Search.gov Meeting & Implementation Notes
 
 
+### August 5 - VA Search Related Updates
 
+ Agenda Topics:  
 
+   
+ 
 
+ 1. **John Sharing News**
+ 2. **Videos - Examining results using 4 YouTube channels and have a few questions:**
+    - Why are videos sometimes showing up under the results when there are
+   multiple videos under the video tab? Is there a minimum number of
+   video results that need to show up? If so what is that number? 
+     - How flexible is the design for videos and other categories? 
+  
+ 3. **Result Relevancy – How can we improve the relevancy of the search
+   results?**
+ 4. **Best Bets – API for scale** 
+ 5. **Collections/Faceted Search – Is that on the roadmap for 2021?** 
+ 6.  **Stop Words  - Any updates?** 
+
+> We shared a list of stop words and they can see how removing the
+> suggested stop words in those queries improves results.  Search.gov
+> said.. “We're looking at comparative volume of queries like these
+> (with stop words included) and determining ways for a potential A/B
+> test in production in the future to be able to prioritize and roll out
+> a change like this, as it'd impact all customers. That said, we're not
+> yet sure when we'd be able to prioritize this work after its scoped -
+> will keep you updated on this front as we get more clarity.”
+
+ 
+
+ 
+
+ 
+
+***Other Topics but no need for discussion at this time*** 
+
+- _Click Tracking_ – nothing for them to do when we hit the endpoint – it is working well 
+- _||Veterans_ – Nothing for Search.gov to do at this time. We have a fix in place that removes ||Veterans Affairs from the titles; however if we remove that fix that will reappear in the title we think as a result of how search.gov is presenting titles back. However the fix is working so no action items at this time. 
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 3/9 Email Exchange about Type Ahead suggestions data purge
 
 - Candidly, we were not aware of the extent of build-up of "old" suggestions ahead of the bug resolution. You're right in that this impacted all Search.gov sites, but we haven't yet heard feedback from other customers using type-ahead.
 
 - We're happy to support on the manual creation in whatever ways you need to help "seed" these suggestions. Some other adjustments we've been thinking through is 1) the threshold for the number of identical queries needed in a day for something to turn into a suggestion and 2) the window of time to deprecate an "old" suggestion. Right now, we're looking for a query to hit 100 identical queries in a day, and deprecate after 30 days of not meeting that threshold, but thinking about tweaking this to ~30 identical queries / day within the last 5-7 days, to improve the feel of "recency". Considering VA.gov's traffic, do you have any thoughts or suggestions on what would be a suitable threshold for your use case? 
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ### 2/26 Email Exchange
