@@ -161,8 +161,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 - What did you think of the overall experience?
 - Was there anything that stood out to you? Then prompt positives/ negatives / confusing
 - Can you tell me about this experience in your own words, as if I was another Veteran interested in applying for health care
-- Any other thoughts before we end?
-- Do you have any questions for me before we conclude?
+- Any other thoughts or questions for me before we conclude?
  
 ## Thank you and Closing
 
