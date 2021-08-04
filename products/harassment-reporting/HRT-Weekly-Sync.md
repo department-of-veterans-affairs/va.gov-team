@@ -24,6 +24,22 @@
 
 </details>
 
+## August 5, 2021 - Stage: Design / Build
+### Action items:
+1. Summarize Content & IA session - Review any new details, requirements?
+2. Trauma Design Best Practices (Martha Wilkes/Josh Kim) @Cassandra to provide any insights
+  - Shorten Input Items (Required Vs. Optional inputs)
+  - Save in progress element?
+2. Design Status Update: Mock Ups (@Cassandra) --> Next steps
+
+### Next Steps 
+- Deisgn Mockups --> Prototypes --> User Research (August to September) 
+
+## Session Notes:
+
+
+<details><summary>Previous Agenda Items</summary>
+  
 ## July 29, 2021 - Stage: Design / Build
 ### Action items:
 1. Summarize discussion points from Design Intent Review  - Updates from @Brian/Soni/Cassandra
@@ -39,11 +55,8 @@
 - Deisgn Mockups --> Prototypes --> User Research (August to September) 
 - Content Review Meeting --> Wednesday Aug 4 is target. 
 
-## Notes:
-
-
-<details><summary>Previous Agenda Items</summary>
-
+  
+  
 ## July 22, 2021 - Stage: Define / Design
 Action items:
 1. Summarize any items from last meeting - Updates from @Soni/@Josh
