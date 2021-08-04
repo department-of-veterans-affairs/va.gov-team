@@ -65,13 +65,6 @@ _Hypothesis statement_
 _(“True”, “Likely True”, “Definitely True”, “False”, “Likely False” or “Not enough information”) Why?_
 
 
-# Mapping to the Veteran journey
-
-_How does this research map to the Veteran journey? Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-
-_[Download the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-
-
 # Key Findings
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
