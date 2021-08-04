@@ -482,7 +482,7 @@ Learn more about:
 ### Additional Resources
 - IF (Q4 = 1) [Army Review Boards Agency](http://arba.army.pentagon.mil/)
 - IF (Q4 = 1, 3, or 4 = & Board = DRB) [Army Discharge Review Board](http://arba.army.pentagon.mil/adrb-overview.html) 
-- IF (Q4 = 1 & Board = BCMR) [Army Board for Correction of Military Records](www.arba.army.pentagon.mil/abcmr-overview.html)
+- IF (Q4 = 1 & Board = BCMR) [Army Board for Correction of Military Records](https://afrba-portal.cce.af.mil/#portal)
 - IF Q4 = 2, or 5 = [Naval Discharge Review Board](http://www.secnav.navy.mil/mra/CORB/pages/ndrb/default.aspx)
 - IF (Q4 = 3 & Board = BCMR) [Air Force Board for Correction of Military Records](http://www.afpc.af.mil/Board-for-Correction-of-Military-Records/)
 - IF (Q4 = 4 & Board = BCMR) [Coast Guard Board for Correction of Military Records](https://www.uscg.mil/Resources/legal/BCMR/)
