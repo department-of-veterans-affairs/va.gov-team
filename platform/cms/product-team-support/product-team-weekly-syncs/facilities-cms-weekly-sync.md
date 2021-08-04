@@ -25,14 +25,22 @@
 
 ## August 4
 
-* Automate 'required' services for Vet Centers?
-* Hardening/engineering sync
-* Meta description for Locations page 
-  * Content input in [comment here on #27812](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27812#issuecomment-891111897)
+**VAMC**
+* Followups to broken VAMC Locations List pages
+  * Post mortem
+  * Tech debt/defects related to CMS #1005 (January 2020!) refactoring of List pages. 
 * Dynamic side nav [##17746](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17746)
   * Discovery determined this work may be more effort than it is worth
   * May need to look at creating runbook tracking the individual tasks needed for new/merged faciities?
+
+**Vet Centers**
+* Automate 'required' services for Vet Centers?
+* Meta description for Vet Centers Locations page 
+  * Content input in [comment here on #27812](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27812#issuecomment-891111897)
 * How to direct Vet Centers for facility data changes
+
+**Other?**
+* Hardening/engineering sync
 
 
 ## July 28
