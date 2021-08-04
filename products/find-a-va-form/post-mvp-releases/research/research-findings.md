@@ -74,23 +74,27 @@ _(“True”, “Likely True” or “Definitely True”) Why?_
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+## Universal Issues (unrelated to accessibility technology)
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#key-findings)_
+1. **Almost all participants (10 of 11) completely ignored the instructions--no matter which of the 3 designs they saw.** Therefore, assessing the designs by which resulted in more success doesn't make sense.
 
-1. Finding one
+1. **Most participants (9 of 11) were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
-2. Finding two
+1. **For almost all participants (10 of 11), the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed.
 
-3. Finding three
+1. The 3 participants who were using iOS **mobile devices were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS**. Subsequent testing showed that Android phones are unable to fill out the PDF forms for the same reason.
 
-4. Finding four
+1. Many participants (8 of 11) clicked on the form name to open the form detail page, and from there clicked the download link. This means that they **didn't see the instructions provided only on the search results page**. 
 
-5. Finding five
+1. Three of the Mac and iOS users were **surprised and annoyed when they heard that you have to use Adobe Acrobat**, which is generally not used on those platforms.
 
-6. Finding six
+## Accessibility-Related Issues
 
-7. Finding seven
+1. One of the screen reader users couldn't access the digital signature field because JAWS didn't read it. The problem was that there's **no label on the signature field** to indicate what it is.
+
+3. There were other **issues with the form fields that made them difficult to fill out** using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
+
+5. **Find a Form search results were hard to scan** because there was no heading for each one, and so participants had to tab down 4-5 lines through each search results before seeing the next one.
 
 
 # Details of Findings 
@@ -103,7 +107,19 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 <br>
 
-**Finding 1**
+**Finding 2**
+
+Several participants were technically savvy, and they had issues just like less experienced people. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not.
+
+Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck. See steps in the diagram below: 
+![steps-diagram](link TBD)
+
+Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology.
+
+- 8 of 11 people had difficulty downloading the form from the web browser.
+- After forms were downloaded, they often displayed in Preview (on Macs) or Edge (on Windows computers) because those are the default applications for opening PDFs. And because it wasn't in Adobe Acrobat, the forms couldn't be filled out and signed.
+- Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it.
+- The 3 participants who were using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms for the same reason.
 
 Brief description
 
@@ -212,9 +228,8 @@ We talked to **x participants.**
 _Fill in all demographics that apply below._
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10 
+* Family member of a Veteran: 1  
 
 <br>
 
@@ -224,16 +239,9 @@ Gender:
 
 <br>
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-<br>
-
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
+* Desktop: 9 
+* Tablet: 2 
 * Mobile: x 
 * Assistive Technology: x
 
