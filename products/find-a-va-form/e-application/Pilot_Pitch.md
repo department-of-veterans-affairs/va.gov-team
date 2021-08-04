@@ -35,49 +35,31 @@ With all this in mind, we believe it is vital that we examine the feasibility of
 
 **Our user experience goal:** Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.
 
-**The solution we would like to pilot/test** a cloud-based e-application service -- examples include DocuSign and Adobe Sign -- that enables a user to view, fill-in, sign and submit a PDF document using a browser or mobile device.  Some top-line assumed benefits of this approach:
+**The solution we would like to pilot/test** a cloud-based e-application service -- examples include DocuSign and Adobe Sign -- that enables a user to view, fill-in, sign and submit a PDF document using a browser or mobile device.  Assumed benefits of this approach:
 
 - More universally compatabile 
-- Less error-prone (e.g. built-in error handling)
+- Less error-prone (e.g. built-in error handling; application can not be submitted without completion of required fields)
 - More secure (e.g. paper form can stolen/lost in the mail)
-- Reduces technology overhead (e.g. no need for FAX machine)
+- Reduces technology overhead for user (e.g. no need for user to have a FAX machine)
 - Faster delivery-processing time (e.g. submitted electronically vs. snail mail)
-- Business cost savings (e.g. eliminating costly paper-processes; data is captured by and auto-ingested from electronic form)
-- Increasing user comfort/familiarity (e.g. e-applications are becoming more common in the consumer finance sector -- for Home Loans, auto loans, etc.)
-
-### About the Pilot
-
-- We would leverage Docusign for this pilot.  DocuSign already has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
-
-More details about the Docusign Federal Government initiative here:
-https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
-
-Electronic signatures in the coronavirus (COVID-19) era
-https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
-
-Docusign Overview of 21st Century IDEA Act & Readiness info
-https://www.docusign.com/21st-century-idea-act
-
-Docusign Agreeable Government Mandate whitepaper
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
-
-Gartner review of competitive e-signature solutions/services
-https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives
-
-**Benefits of e-Signature solution**
-
-An e-Signature solution should provide the following benefits:
-
+- Business cost savings (e.g. eliminating costly paper-processes; data is captured and transmitted electronically)
+- Increasing user comfort/familiarity (e.g. e-applications are becoming more common in the consumer finance sector for home Loans, auto loans, etc.)
 - Legally binding signature
 - Can pre-fill users information with authentication
 - Can support multiple signatures (e.g. Veteran and Spouse, Dependents, Attorney) 
-- Application can not be submitted without completion of Required fields 
 - Attachments can be included for supporting documents
 - Can automatically add up loan amounts and use of funds amounts to take the burden off the applicant
 - Allows user to save and return later to complete process
 - Is Secure, encrypted in transit and in rest
 - Is accessible to those using screen readers
 - Requires no special plug-in or helper application
+
+### About the Pilot
+
+- We would propose using DocuSign for this pilot.  DocuSign already has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
+
+-
+
 - Success metrics would include:
   - Evidence of user preference over standard digital download and email/fax
   - Reduced "error rate" in submitted documents
@@ -85,19 +67,36 @@ An e-Signature solution should provide the following benefits:
   - Faster speed to outcomes
 
 
-**
+### Relevant Resources & Links
+
+
+- More details about the Docusign Federal Government initiative here:
+https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
+
+- Electronic signatures in the coronavirus (COVID-19) era
+https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
+
+- Docusign Overview of 21st Century IDEA Act & Readiness info
+https://www.docusign.com/21st-century-idea-act
+
+- Docusign Agreeable Government Mandate whitepaper
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
+
+- Gartner review of competitive e-signature solutions/services
+https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives
+
 
 ### Discovery Sprint Roles
 
-* Product Lead: John Hashimoto
+* Product Lead: TBD
 * Product Manager: Marci McGuire
 * Discovery Sprint Lead: TBD
 * Engineer: Zach Morel
 * Designer: Cassandra Allen
 * Researcher: Cindy Merrill
 * Accessibility: Josh Kim, Angela Fowler
-* Other people from the Sprint Team:
-* SME: Janel Keyes
+* VA Champion: Janel Keyes, VHA Deputy Director 
+
 
 ### Stakeholders
 * VA business owner: Janel Keyes
