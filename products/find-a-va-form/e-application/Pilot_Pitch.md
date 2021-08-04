@@ -33,7 +33,13 @@ With all this in mind, we believe it is vital that we examine the feasibility of
 - (b) can be implemented at scale (as compared to the engineering intensive approach of transforming forms into full-on online applications).  
 
 
-**Our user experience goal: Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.**
+**Our user experience goal:** Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.
+
+**The solution we would like to pilot/test** a cloud-based e-application service  -- examples include DocuSign and Adobe Sign -- that enables a user to view, fill, sign a PDF document using a browser or mobile device.  
+
+https://www.getapp.com/p/sem/digital-signatures-software?t=Best%20Signature%20Software&camp=adw_search&utm_content=g&utm_source=ps-google&utm_campaign=COM_US_Desktop_BR-Electronic_Signature&utm_medium=cpc&account_campaign_id=1541494697&account_adgroup_id=59891968798&ad_id=367729108692&utm_term=free%20digital%20signature%20software%20for%20pdf&matchtype=b&gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSvkVf_ks2kit5tYFtztJ0tVkBY7756roYYDyUUDtsr1ggal3K8U_exoCCfUQAvD_BwE
+
+https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives
 
 
 ### About the DocuSign Solution Approach
@@ -41,23 +47,19 @@ With all this in mind, we believe it is vital that we examine the feasibility of
 Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
 
 More details about the Docusign Federal Government initiative here:
-
 https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
 
-
 Electronic signatures in the coronavirus (COVID-19) era
-
 https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
 
 Docusign Overview of 21st Century IDEA Act & Readiness info
-
 https://www.docusign.com/21st-century-idea-act
 
 Docusign Agreeable Government Mandate whitepaper
-
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
 
-
+Gartner review of competitive e-signature solutions/services
+https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives
 
 **Benefits of e-Signature solution**
 
