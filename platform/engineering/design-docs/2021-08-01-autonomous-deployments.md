@@ -18,20 +18,28 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Objective](#objective)
-  - [Background](#background)
-  - [Problems](#problems)
-  - [High Level Design](#high-level-design)
-- [Specifics](#specifics)
-  - [Detailed Design](#detailed-design)
-     - [New Features](#new-features)
-     - [Updates Needed](#updates-needed) 
-  - [Technologies Being Used](#technologies-being-used)
-  - [Work Estimates](#work-estimates)
-  - [Alternatives](#alternatives)
-  - [Future Work](#future-work)
-  - [Revision History](#revision-history)
+- [Autonomous Deployment Plan for vets-website React Applications](#autonomous-deployment-plan-for-vets-website-react-applications)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Objective](#objective)
+    - [Desired Outcomes](#desired-outcomes)
+    - [Background](#background)
+    - [High Level Design](#high-level-design)
+      - [Production Deployments](#production-deployments)
+      - [Staging and Dev deployments](#staging-and-dev-deployments)
+  - [Specifics](#specifics)
+    - [Detailed Design](#detailed-design)
+      - [Roadmap](#roadmap)
+      - [Technologies Being Used](#technologies-being-used)
+    - [Work Estimates](#work-estimates)
+      - [Milestone: Update current system to function with new workflows](#milestone-update-current-system-to-function-with-new-workflows)
+      - [Milestone: Create and release staging/dev deployment behaviors](#milestone-create-and-release-stagingdev-deployment-behaviors)
+      - [Milestone: Create and release initial production behaviors with "allow" list](#milestone-create-and-release-initial-production-behaviors-with-allow-list)
+      - [Milestone: Create and release MVP production behaviors with "disallow" list](#milestone-create-and-release-mvp-production-behaviors-with-disallow-list)
+    - [Alternatives](#alternatives)
+    - [Post MVP](#post-mvp)
+    - [Questions](#questions)
+    - [Revision History](#revision-history)
 
 ## Overview
 
@@ -45,7 +53,7 @@ While adding the ability to autonomously deploy, VA should still maintain the be
 
 VFS teams should also be able to easily revert their change on their own, as needed.
 
-#### Desired Outcomes
+### Desired Outcomes
 
 - Increasing the production deployment rate
 - Increasing customer satisfaction
@@ -119,7 +127,6 @@ VSP maintains the ability to create and deploy full staging/dev builds as a fail
 4. Sync /build/vagov{env} to staging/dev S3 bucket
 
 This will likely cause `staging` and `dev` to diverge from `master` over time. We can set up a scheduled job to merge master into staging/dev on a weekly basis and reserve the ability to completely reset the environments if needed. When an environment is reset, a slack notification should go out alerting VFS teams that they will need to remerge any branches. An alert should also go out to Slack the previous day if any preparations are needed as to not interfere with potential planned demos. 
-
 #### Roadmap
 
 1. Update current system to function with new workflows
@@ -177,7 +184,7 @@ An alternative that was discussed was isolating the applications in their own re
 
 We also discussed monorepo isolation, but deemed it as unnecessary to complete the objective.
 
-### Future Work / Post-MVP Dashboard
+### Post MVP
 
 Initial dashboard view where teams sign in with Github auth, view their apps and manage their deployments including: scheduling, reverting, and manual deployment. This dashboard and infrastructure should be scoped and estimated separately as a post-MVP item. It will be the basis for a future platform dashboard.
 
