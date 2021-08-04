@@ -57,3 +57,4 @@
 | [Combat-Related Special Compensation (CRSC)](https://www.va.gov/resources/combat-related-special-compensation-crsc/) | Disability | 7/27/21| Reach out to SME Juan Lyons in December for new link for online submission of the Air Force reconsideration CRSC form |
 | [Choosing a decision review option](https://www.va.gov/resources/choosing-a-decision-review-option/) | Decision reviews | 7/14/21 | |
 [Non-compensable disability](https://www.va.gov/resources/non-compensable-disability/) | Disability | 7/27/21 |
+| [Can I get a loan through my VA life insurance policy?](https://www.va.gov/resources/can-i-get-a-loan-through-my-va-life-insurance-policy/) | Life insurance | 8/3/21 |
