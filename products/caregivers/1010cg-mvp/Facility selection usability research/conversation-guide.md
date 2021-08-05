@@ -72,7 +72,7 @@ Great. Now we're really ready to begin!
 - Do they live with the Veteran?
 
 
-## Applying to Caregiver benefits 
+## Applying to Caregiver benefits - 25 minutes
 
 **For Veterans:**
 
