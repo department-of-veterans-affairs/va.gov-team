@@ -25,10 +25,10 @@
 > will keep you updated on this front as we get more clarity.”
 
   6. **Videos - Examining results using 4 YouTube channels and have a few questions:**
-    - Why are videos sometimes showing up under the results when there are
-   multiple videos under the video tab? Is there a minimum number of
+ 
+ - Why are videos sometimes showing up under the results when there are multiple videos under the video tab? Is there a minimum number of
    video results that need to show up? If so what is that number? 
-     - How flexible is the design for videos and other categories? 
+ - How flexible is the design for videos and other categories? 
 
  
 <br/>
