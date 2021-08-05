@@ -42,12 +42,10 @@ Now, I’m going to ask you to think about your very last medical appointment th
     * What did you not like about it?
 * You checked in via [the method they mentioned in the previous question], but is that the method that you use most often?
   * _Clarify options available only if necessary._ This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments.
-* Have you ever had a check-in experience go wrong at the VA?
-  * If so, can you share what happened?
 
 ## Usability - 30 minutes
 
-Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your appointment and you see the following sign hanging on the wall. 
+Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your cardiology appointment and you see the following sign hanging on the wall. 
 
 [Screenshare poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/check-in-collateral-usabilityTest.pdf)
 
@@ -64,38 +62,46 @@ Things to watch for:
 
 * Were they able to successfully complete the task?
 * Were there any points of confusion?
-* Were there any comments about jumping from a text message to a website?
-* Did they expect to see any additional information on their contact info/insurance, appointment, or confirmation pages?
+* Were there any comments about security or data points asked for identity verification?
+* Were there any comments about the "your appointment" page with their iterinary, particularly the statuses displayed?
 
 Now, I'm going to have you go back through check-in again. This time I'll ask you some questions at each point in the process.
 
 **Text Message**
 * Would you make any changes to this text messaging portion of check-in?
-* What do you think about starting in a text message, then finishing check-in on va.gov?
+
+**Check in at VA**
+* Can you explain to me what we're looking at?
+* What are your thoughts about what this page is asking you?
+* Is there anything missing?
 
 **Contact/insurance**
-* Is this what you were expecting?
 * Can you explain to me what we're looking at?
+* What are your thoughts about what this page is asking you?
 * Is there anything missing?
 
-**Your appointment**
-* Is this what you were expecting?
+**Your appointments**
 * Can you explain to me what we're looking at?
-* Is there anything missing?
+* What are your thoughts about what this page is showing you?
+  * What are your thoughts about seeing all of your appointments for the day on one screen?
+  * What do you think you have to do to check-in for another appointment (after you already checked in for one)? 
+    * What are your thoughts about that?
+    * What do you tink about the possibility that there are multiple appointments eligible for check-in right now, but only being able to select one to complete check-in.
+  * What are your thoughts about seeing these other types of appointments on this page?
+    * an appointment you already checked in for.
+    * an appointment that is past the time where you are able to check-in for from your phone.
+    * an appointment that you are too early to check-in for from your phone.
+* Is there anything you would like to be able to do or see on this page that currently isn't available?
+* Is there anything on this page that isn't useful to you? You would be ok if it was removed.
 
 **Confirmation page**
-* Is this what you were expecting?
+* What are your thoughts about this page?
 * Is there anything missing?
 * What would you do next?
 
 
 ## Post-Task Interview - 5 minutes
 * Now that you've seen the whole experience, what are your impressions of the experience?
-* What wording would you want the initial poster and webpages to use?
-  * let us know you're here
-  * check-in
-  * something else
-  * I don't have a preference
 * If you could change one thing about the experience, what would it be? 
 * Do you have any other thoughts on what we talked about today?
 * Any questions for me?
