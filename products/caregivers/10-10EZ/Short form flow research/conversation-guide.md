@@ -51,7 +51,7 @@ Great. Now we're really ready to begin!
 **For Veterans:**
 - Tell me a little about yourself 
 - How many years has it been since you left the service?
-- Do you currently have healthcare benefits through the VA or through another provider?
+- Do you currently have health care benefits through the VA or through another provider?
 - Tell me a little bit about how you chose this healthcare option?
 - (If not already answered) Have you ever filled out the VA Health Care application either partially or fully?
 
