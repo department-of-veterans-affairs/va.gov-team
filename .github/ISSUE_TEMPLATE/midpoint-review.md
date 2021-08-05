@@ -34,7 +34,7 @@ assignees: andreahewitt-odd, shiragoodman
 - Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) (even if just a draft) for QA practice area review
 
 ## Scheduling
-Would you like this review to be asynchronous? Please refer to the [Midpoint Review guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md) for the difference between a synchronous meeting and an asynchronous review.
+Would you like this review to be asynchronous? Please refer to the [Midpoint Review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) for the difference between a synchronous meeting and an asynchronous review.
 - [ ] Yes
 - [ ] No
  
@@ -60,4 +60,4 @@ Please note:
 - VFS Content, IA, accessibility, and QA specialists (if applicable): name(s)
 
 ## Additional information
-Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md)or the [Midpoint Review Touchpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-midpoint-review.md) on Github for more information about the Collaboration Cycle.
+Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Midpoint Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) on Platform website for more information about the Collaboration Cycle.
