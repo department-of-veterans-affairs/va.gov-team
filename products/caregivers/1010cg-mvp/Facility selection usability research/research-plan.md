@@ -59,7 +59,11 @@ We would like to work with Perigean to recruit for 8-10 fulfilled remote session
 
 All participants must:
 
-- Be a Veteran or POA of a Veteran (minimum 3 POA, maximum 5 POA)
+- At least 5 Veterans
+- At least 3 POAs
+- At least 5 people who plan to use their computer for the session
+- At least 5 people who plan to use their smartphone for the session
+- At least 1 person who uses a screen reader
 - Have access to a laptop/desktop or smartphone/tablet and be willing to complete the test on said laptop/desktop/smartphone/tablet
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
@@ -70,14 +74,13 @@ All participants must:
      - over age 55: 50%  
      - age 18-30: 25%  
      - age 31-50: 25%  
-- Device: 
-     - smartphone/tablet: 50%
-     - laptop/desktop: 50% 
+
 
 **Participant pool should in diverse in**
 - Branch of service
 - Gender (30% or more women)
 - Disability rating of 50% or higher representative of applicant demographics
+- Education
 - Race
 - Geography
 - Density (rural)
