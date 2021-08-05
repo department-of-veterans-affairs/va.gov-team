@@ -9,17 +9,11 @@
  
 
  1. **John Sharing News**
- 2. **Videos - Examining results using 4 YouTube channels and have a few questions:**
-    - Why are videos sometimes showing up under the results when there are
-   multiple videos under the video tab? Is there a minimum number of
-   video results that need to show up? If so what is that number? 
-     - How flexible is the design for videos and other categories? 
-  
- 3. **Result Relevancy – How can we improve the relevancy of the search
+ 2. **Result Relevancy – How can we improve the relevancy of the search
    results?**
- 4. **Best Bets – API for scale** 
- 5. **Collections/Faceted Search – Is that on the roadmap for 2021?** 
- 6.  **Stop Words  - Any updates?** 
+ 3.  **Best Bets – API for scale**
+ 4. **Collections/Faceted Search – Is that on the roadmap for 2021?** 
+ 5. **Stop Words  - Any updates?** 
 
 > We shared a list of stop words and they can see how removing the
 > suggested stop words in those queries improves results.  Search.gov
@@ -30,12 +24,16 @@
 > yet sure when we'd be able to prioritize this work after its scoped -
 > will keep you updated on this front as we get more clarity.”
 
- 
+  6. **Videos - Examining results using 4 YouTube channels and have a few questions:**
+    - Why are videos sometimes showing up under the results when there are
+   multiple videos under the video tab? Is there a minimum number of
+   video results that need to show up? If so what is that number? 
+     - How flexible is the design for videos and other categories? 
 
  
-
- 
-
+<br/>
+<br/>
+<br/>
 ***Other Topics but no need for discussion at this time*** 
 
 - _Click Tracking_ – nothing for them to do when we hit the endpoint – it is working well 
