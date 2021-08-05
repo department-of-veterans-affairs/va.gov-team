@@ -55,9 +55,19 @@ We conducted hour-long remote moderated research sessions via Zoom on **July 27-
 1. 20-0995 (one of most downloaded, can fill out in browser, hosted inside VA.gov)
 
 Each participant saw one of three versions of the Find a Form page:
-- Instructions at the top of the list of forms 
-- Instructions repeated above every form download link in a light blue box
-- Instructions repeated directly above every form download link in gray help text
+
+## Instructions at the top of the list of forms
+
+![UI-alert-at-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-at-top.png)
+
+## Instructions repeated above every form download link in a light blue box
+
+![UI-alert-repeated-blue-box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-repeated-blue-box.png)
+
+## Instructions repeated above every form download link in gray help text
+
+![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
+
 
 # Hypotheses and Conclusions
 
@@ -106,7 +116,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
-**Finding 1**
+**1. Most participants ignored the instructions provided**
 
 9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore them.
 
