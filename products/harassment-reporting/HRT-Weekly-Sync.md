@@ -27,7 +27,7 @@
 ## August 5, 2021 - Stage: Design / Build
 ### Action items:
 1. Summarize Content & IA session - Review any new details, requirements?
-2. Trauma Design Best Practices (Martha Wilkes/Josh Kim) @Cassandra to provide any insights
+2. Trauma Informed Design Best Practices (Martha Wilkes/Josh Kim) @Cassandra to provide any insights
   - Shorten Input Items (Required Vs. Optional inputs)
   - Save in progress element?
 2. Design Status Update: Mock Ups (@Cassandra) --> Next steps
