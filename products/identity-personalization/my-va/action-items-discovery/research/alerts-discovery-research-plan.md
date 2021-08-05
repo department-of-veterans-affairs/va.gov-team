@@ -58,15 +58,19 @@ Recruit for 12 sessions (8 fulfilled sessions) using the following criteria:
 
 - 12 participants (for a minimum of **8** completed sessions)
 
-- We will need 5 participants who are eligible/currently recieve health care from the VA. Please confirm this prior to sessions.
+- We will need at least 5 participants who are eligible/currently receive health care from the VA. Please confirm this prior to sessions.
 
-- We will need 5 participants who have active claims or appeals. (This may or may not overlap with users who have health care) Please confirm this prior to sessions.
+- We will need at least 5 participants who have active claims or appeals. (This may or may not overlap with users who have health care) Please confirm this prior to sessions.
 
-- All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
+- All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. To confirm this, please:
+  -  have users sign into VA.gov with any of their credentials
+  -  Direct them to go to their VA.gov profile, or send them the URL: va.gov/profile/personal-information
+  -  If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
+  -  If they can see their personal and contact information in the profile, they are LOA3 and can participate in testing.
 
-- Participants must be people who visit VA.gov using their mobile devices
+- Participants must be people who visit VA.gov using their mobile devices.
 
-- Participants must be able to join our Zoom call from their mobile devices (app required)
+- Participants must be able to join our Zoom call from their mobile devices (app required).
 
 - We will not be able to accommodate non-sighted users due to the prototype technology.
 
