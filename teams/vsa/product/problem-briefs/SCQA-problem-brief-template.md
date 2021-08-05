@@ -1,23 +1,22 @@
+# Problem Brief Template
 > Make a copy of this template and add to your respective team or product folder.\
 >You can also copy this to a GH epic/super-epic. 
----
-# Problem Brief Template
-## Situation
+### Situation
 _Describe the current-state of your problem and the environment in which it exists._
 
-## Complication(s)
+### Complication(s)
 _Describe what’s changed and how it impacts your team._\
 _Leverage techniques like 5 Why’s_ 
 
-## Question(s)
+### Question(s)
 _What’s the fundamental question you are going  to answer?_ 
 
-## Answer(s)
+### Answer(s)
 _How will the problem be solved and what evidence do we have that it will._ 
 _How will you know the problem is solved? What data will you look for?_
 
 
-
+---
 ## Appendix
 ### Context
 
