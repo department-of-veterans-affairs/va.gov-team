@@ -104,11 +104,12 @@ Upon arrival to the facility selection page:
      - Remind participants to think out loud.
      - Any fields trip them up?
      - Anything particularly confusing for them?
-- Once user interacts with the facility selection for awhile, makes selection, and is ready to move on to the next page, ask them to pause and complete the following tasks (if not already completed on their own):
+- Once user interacts with the facility selection for awhile, makes selection, and is ready to move on to the next page, ask them to pause.
      - Were you able to find the facility you were looking for?
      - Did you have any confusion which one to choose?
      - Is there any other information you would like to better help you make your selection?
      - Where do you think the prefilled zip code came from?
+- Complete the following tasks (if not already completed on their own):
      - Pretend you were about to move to Dallas, Texas (or somewhere other than their current location). So you want to look what VA facilities are there. What would you do? (observe how they clear the input field)
      - What would you do if you don't see the facility you are looking for (or some other way to prompt the user to interact with the "show more" button.
      - Now pretend you were moving to Homer, Alaska (or somewhere that doesn't have a VA facility within 50 miles). (observe the "magic" loader to extended distance).  
@@ -130,7 +131,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 
 - What did you think of the overall experience?
 - Was there anything that stood out to you? Then prompt positives/ negatives / confusing
-- Can you tell me about this experience in your own words, as if I was another Veteran interested in applying for the Caregiver program.
+- Can you tell me about this experience in your own words, as if I was another Veteran/Caregiver interested in applying for the Caregiver program.
 - Any other thoughts or questions for me before we conclude?
  
 ## Thank you and Closing
