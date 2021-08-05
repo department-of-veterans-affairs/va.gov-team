@@ -15,7 +15,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 
 - This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- You'll be interacting with a a demo tool. This is a demo tool that may not function exactly the way you expect. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- You'll be interacting with a demo tool. This is a demo tool that may not function exactly the way you expect. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - Please talk aloud as you're looking through things. For example, say "now I'd click on this.. what's this?" This helps me understand what's going through your head while using the tool.
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
@@ -113,7 +113,7 @@ Upon arrival to the facility selection page:
      - What would you do if you don't see the facility you are looking for (or some other way to prompt the user to interact with the "show more" button.
      - Now pretend you were moving to Homer, Alaska (or somewhere that doesn't have a VA facility within 50 miles). (observe the "magic" loader to extended distance).  
      - You had selected that you would like to see results within a 50 mile distance, can you talk about what the results are showing? Note any surprises, confusion.
-     - Talk through general thoughts feelings about this page.
+     - Talk through general thoughts, feelings about this page.
 - Great! Go ahead and continue the application (note any confusion, especially around the Primary/Secondary questions.)
 - _(Time permitting)_ Once arrive at file upload page, if participant says "no" prompt them to say yes and continue to the file upload page.
       - I'd like to test the error on this page if you upload a file that the system cannot accept _(TBD- provide them with a file too large)_ (note any interaction, hiccups, confusion, questions)
