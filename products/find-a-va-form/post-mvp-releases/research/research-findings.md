@@ -95,7 +95,7 @@ Each participant saw one of three versions of the Find a Form page:
 
     1. **Many participants (8 of 11) clicked on the form name to open the form detail page**, and from there clicked the *Download VA form* link. This means that they may not have seen the instructions provided on the search results page. 
 
-1. **For almost all participants (10 of 11), the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed.
+1. **For most participants (9 of 11), the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed.
 
 1. **Most participants (9 of 11) were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
@@ -120,7 +120,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
-**1. Most participants ignored the instructions provided**
+## 1. Most participants ignored the instructions provided
 
 9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore or skip over them.
 
@@ -135,7 +135,16 @@ Components & Patterns: keyword 1, keyword 2
 > _Supporting data: Quote here_
 <br>
 
-**Finding 2**
+## 2. *Download VA form* link opened forms in web browser
+
+The *Download VA form* link should download the PDF form and open it in Adobe Acrobat so it can be filled out, saved, and digitally signed. However, that happened for only 2 of 11 participants. 9 of 11 participants saw the form open in a web browser or it failed to open at all, and then they had to do several extra steps to get the form into Acrobat (see the top half of the steps diagram below):
+
+![Steps-PDF-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/Steps-PDF-form.png)
+
+These steps were difficult for many participants because of various technical issues, which are documented below by step.
+
+### Issues with downloading the file from the web browser to user's device
+
 
 Brief description
 
