@@ -5,8 +5,6 @@
 
 **Product/Featue:** 
 
-**Background/Context:**   
-
 **IA Request:** 
 
 **On this page:**
@@ -25,15 +23,15 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
 
-Page | URL | Breadcrumb | Description
+**Page** | **URL** | **Breadcrumb** | **Description**
 --- | --- | --- | ---
    |   |   |  | 
 
 
-## <a name="nav"></a>Navigation and Entry Points <br>
+## <a name="nav"></a>Navigation and Primary Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Destination | Description
+**Action** | **Placement** | **Destination** | **Description**
 --- | --- | --- | ---
    |   |   |  | 
 
