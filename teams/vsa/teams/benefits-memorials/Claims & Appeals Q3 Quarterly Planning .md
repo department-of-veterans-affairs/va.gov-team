@@ -26,7 +26,7 @@ Metrics
 -	For mature products, we do bi-weekly review, 1 product each time
 -	Backend engineers will walk us through the data, FE will do GA. And we’ll have discussion on what it means and what actions we need to take or new product iterations to develop
 
-# Goals
+# Quarter 3 Goals
 1.	Release MVP - NOD 
 2.	Original claims form 526ez - Iteration 3 (research and design work first, while Anna (and new engineer) tackle bugs). We prioritize from there.
   - Audit readout enhancements (comparison between staging and 526 style guide):
