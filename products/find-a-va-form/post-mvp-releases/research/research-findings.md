@@ -68,6 +68,10 @@ Each participant saw one of three versions of the Find a Form page:
 
 ![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
 
+## Resources and Support (R&S) article from "Get instructions" or "Read More" link
+
+![R&S-How2download](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/R%26S-How2download.png)
+
 
 # Hypotheses and Conclusions
 
@@ -118,7 +122,9 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **1. Most participants ignored the instructions provided**
 
-9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore them.
+9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore or skip over them.
+
+A few participants were asked by the moderator to look at the instructions. One skimmed them and decided nothing was applicable. Another participant was puzzled about needing to use Adobe Acrobat, which they knew they didn't have installed on their (Mac) computer. This participant didn't click on the "Get Acrobat Reader for free from Adobe" link but instead said he would do some research on how to download the latest version of Acrobat. 
 
 Accessibility: keyword 1, keyword 2 
 
@@ -183,6 +189,11 @@ Components & Patterns: keyword 1, keyword 2
 > _Supporting data: Quote here_
 
 
+(For finding re Adobe and Mac users:)
+> "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired." (p5, who has been using a screen reader for the last 6 years)
+
+
+
 # Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
@@ -194,10 +205,12 @@ _Put together initial recommendations here based on your findings along with sup
 
 
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+1. Encourage form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they are accessible across devices, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
+    * Fillable PDF forms that require a desktop version of Adobe Acrobat are problematic for many people, as evidenced by the findings above.
+    
+1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the Resources and support article.
+
+    1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it isn't overlooked after reading the steps).
 
 
 # Next Steps
