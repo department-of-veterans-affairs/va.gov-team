@@ -77,17 +77,17 @@ Each participant saw one of three versions of the Find a Form page:
 
 ## Universal Issues (unrelated to accessibility technology)
 
-1. **Most participants (9 of 11) completely ignored the instructions--no matter which of the 3 designs they saw.** Therefore, assessing the designs by which resulted in more success doesn't make sense.
+1. **Most participants (9 of 11) completely ignored the instructions--no matter which of the 3 designs they saw** on the Find a Form search results page. Therefore, assessing the designs by which resulted in more success doesn't make sense.
+
+    1. **Many participants (8 of 11) clicked on the form name to open the form detail page**, and from there clicked the *Download VA form* link. This means that they may not have seen the instructions provided on the search results page. 
 
 1. **For almost all participants (10 of 11), the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed.
 
 1. **Most participants (9 of 11) were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
-1. The 3 participants who were using iOS **mobile devices were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS**. Subsequent testing showed that Android phones are unable to fill out the PDF forms for the same reason.
+    1. The 3 participants who were using iOS **mobile devices were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS**. Subsequent testing showed that Android phones are unable to fill out the PDF forms for the same reason.
 
-1. Many participants (8 of 11) clicked on the form name to open the form detail page, and from there clicked the download link. This means that they **didn't see the instructions provided only on the search results page**. 
-
-1. Three of the Mac and iOS users were **surprised and annoyed when they heard that you have to use Adobe Acrobat**, which is generally not used on those platforms.
+    1. Three of the Mac and iOS users were **surprised and annoyed when they heard that you have to use Adobe Acrobat**, which is generally not used on those platforms.
 
 ## Accessibility-Related Issues
 
