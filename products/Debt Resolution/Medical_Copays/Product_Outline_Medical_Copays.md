@@ -150,7 +150,7 @@ This product will build on top of current Debt Portal design although utilize a 
 ## Implementation Team -Debt Resolution Team
 
 ***Team Slack Channel***-------    [**vsa-debt**](https://dsva.slack.com/archives/CPE4AJ6Q0)
-***Github Label***----------------[**Benefits and Memorials 2**](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-benefits-2&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
+***Github Label***----------------[**VSA-DEBT**](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/board?notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
 
 **
 
@@ -162,10 +162,10 @@ We follow a 2 week SCRUM development cycle
 **SCRUM Ceremonies** 
 |Ceremony   |Day  |   Time|
 |--|--|--|
-| Daily Stand-up |M-F  |10:00am CT
+| Daily Stand-up |M-F  |9:00am CT
 |Backlog Grooming|Wednesdays mid-sprint|1:00pm CT|--|
-|Sprint Planning|Wednesday start of sprint|12:30pm CT|
-|Sprint Retro|Wednesday start of sprint|10:15am CT|--|
+|Sprint Planning|Wednesday start of sprint|1:00pm CT|
+|Sprint Retro|Wednesday start of sprint|9:15am CT|--|
 
 
 
