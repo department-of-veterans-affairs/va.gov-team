@@ -2,6 +2,10 @@
 
 **August 2020 Discovery, Tressa Furner**<br>
 
+- What would you call notifications (need to reword it)
+- 
+
+
 ## Moderated Card Sort
 
 ### Setup
@@ -16,11 +20,10 @@ Thanks for joining us today! My name is [NAME] and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45 minutes.** 
-- **First, I'll ask you a few warm up questions to get us started.
+- **This entire session should take about 60 minutes.** 
+- **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Then, I'll be sharing my screen.** We'll look at the location finder together and I'll ask you a few questions about it.
 - **You'll be participating in four exercises** that we will do together. 
-- **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -31,36 +34,15 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 10 minutes
 
-- Can you tell me a little about your service history?
-- Have you visited a VA location recently? 
+- Can you tell me a little about yourself? (if needed, ask about service history)
+- Do you currently, or have you ever, received any benefits from the VA?
+- Do you currently, or have you ever, filed a claim or appeal with the VA?
+- Have you logged-in to VA.gov recently?
 - For what reasons do you visit VA locations?
 
 
-## First Task: [REVIEW LOCATION FINDER] - 15 minutes
 
-For our first exercise, I'd like for us to look at VA.gov website together, so that I can point out the area that we'll be talking about. I have a few questions before we begin. 
-
-[QUESTIONS]
-
-- Are you familiar with VA.gov's location finder? 
-- Have you had a reason to use it recently? 
-    - If yes, what were you doing? What was that experience like?
-    - If no, how do you go about finding information about VA locations?
-- How are you currently getting information on location hours, closures, etc.?
-
-[MODERATOR SHARES SCREEN & PULLS UP LOCATION FINDER]
-https://www.va.gov/find-locations/ 
-
-I'm going to walk us through a scenario. Imagine you are planning a trip and you’d like to know what the closest VA facility would be from where you’ll be staying.
-
-- If you were in this situation, what information would you need when preparing to visit to a facility?
-
-Let’s imagine the location is Lamar, CO.
-
-[MODERATOR ENTERS A LOCATION]
-
-- What can you tell me about the hours and services at the location?
-- What would be your next step?
+- **I'll start with sharing my screen.**  
 
 
 ## Second Task: [DEFINE CURRENT STATUSES]  - 5 minutes
