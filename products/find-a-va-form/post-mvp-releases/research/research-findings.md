@@ -208,7 +208,9 @@ _Put together initial recommendations here based on your findings along with sup
 1. Encourage form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they are accessible across devices, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
     * Fillable PDF forms that require a desktop version of Adobe Acrobat are problematic for many people, as evidenced by the findings above.
     
-1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the Resources and support article.
+1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. 
+    1. Add the instructions to the form detail pages, in addition to the form search results page where it was tested.
+    1. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the R&S article.
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it isn't overlooked after reading the steps).
 
