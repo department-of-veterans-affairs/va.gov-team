@@ -18,7 +18,7 @@ The goals of this user research are to:
 1. Determine whether or not this facility redesign is usable 
 2. Determine whether or not this facility redesign is accessible
 3. Determine whether or not this facility redesign resolves the confusion trends listed above
-4. Determine whether or not the error message on file upload is usable 
+4. Determine whether or not the error message on file upload is usable and easily worked through
 
 **Research questions**
 
