@@ -52,11 +52,11 @@ Great. Now we're really ready to begin!
 - Tell me a little about yourself 
 - How many years has it been since you left the service?
 - Do you currently have health care benefits through the VA or through another provider?
-- Tell me a little bit about how you chose this healthcare option?
+- Tell me a little bit about how you chose this health care option?
 - (If not already answered) Have you ever filled out the VA Health Care application either partially or fully?
 
 **If yes, has already fully filled out and submitted form**
-- Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
+- Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, health care or not)
   -  Did they seek any help in completing the form?
   -  Do they remember how long the form took you to fill out?
   - Did you save the form and return to it or fill it out in one sitting?
@@ -66,7 +66,7 @@ Great. Now we're really ready to begin!
      -  Were you contacted and asked to submit additional information?
 
 **If yes, has partially filled out but not submitted form**
-- Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, healthcare or not)
+- Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, health care or not)
   -  Did they seek any help in completing the form?
   -  Do you remember what section you stopped at and why?
   - Did you save the form?
@@ -89,7 +89,7 @@ If the participant immediately moves to click on "start your application..." but
 
 ## Variation 1: Applying to health care benefits, 50% or higher disability rating is known at sign in (~half of participants, participant should have a disability rating of 50% or higher) - 25 minutes
 
-Go ahead and continue as if you were applying for healthcare. Note if participant would sign in or not.
+Go ahead and continue as if you were applying for health care. Note if participant would sign in or not.
 
 Let's pretend that you went through the sign in process and are taken to here (authenticated Intro page), from here please continue with the application.
 - Participant will next be shown the short form notification
