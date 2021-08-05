@@ -149,7 +149,7 @@ This product will build on top of current Debt Portal design although utilize a 
 
 ## Implementation Team -Debt Resolution Team
 
-***Team Slack Channel***-------    [**vsa-bam-2**](https://dsva.slack.com/archives/CPE4AJ6Q0)
+***Team Slack Channel***-------    [**vsa-debt**](https://dsva.slack.com/archives/CPE4AJ6Q0)
 ***Github Label***----------------[**Benefits and Memorials 2**](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-benefits-2&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
 
 **
