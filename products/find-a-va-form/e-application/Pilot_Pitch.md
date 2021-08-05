@@ -226,6 +226,7 @@ _To be filled out by the sprint team._
 # Next Steps
 - [X] Talk with OCTO-DE Benefits Applicatons Product Leads Matt Self & Sabrina Mohamed
 - [X] Talk to VHA Forms lead Janel Keyes
+- [ ] **Talk to Office of General Counsel (OCG) -- in particular Gi-Hyun An. Per Janel Keyes,"OGC previously considered DocuSign, and they had concerns regarding the use of a third party platform."**
 - [ ] Talk to VBA Forms lead Yvette Allmond
 - [ ] Talk to VA Privacy Office - Kamilah Jackson and Stephania Griffin
 - [ ] Determine how to test and goals of test -- e.g., Is usability testing needed -- or sample test in Production for a period of time?
