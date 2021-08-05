@@ -63,6 +63,7 @@ We would like to work with Perigean to recruit for 10 fulfilled remote sessions.
 **Participant pool should in diverse in**
 - Branch of service
 - Gender (30% or more women)
+- Education
 - Age
 - Race
 - Geography
