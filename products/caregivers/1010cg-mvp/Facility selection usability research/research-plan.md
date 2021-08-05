@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: VSA Caregiver, 10-10CG facility selection redesign usability testing, August 2021
+# [DRAFT] Research Plan: VSA Caregiver, 10-10CG facility selection redesign usability testing and upload error message checkup, August 2021
 
 ## Background
 This research is to be conducted on the Application for Family Caregiver Benefits (10-10CG) by the Caregivers team.
@@ -10,12 +10,15 @@ During previous usability studies on this form (Research Findings: [February 202
 
 We have redesigned the page to address these needs and this research is on the usability of this redesign. 
 
+Additionally, we have recently released a new upload error message/flow. The usability of this error will be tested as a secondary goal of this research.
+
 ## Goals	
 
 The goals of this user research are to:
 1. Determine whether or not this facility redesign is usable 
 2. Determine whether or not this facility redesign is accessible
 3. Determine whether or not this facility redesign resolves the confusion trends listed above
+4. Determine whether or not the error message on file upload is usable 
 
 **Research questions**
 
@@ -24,6 +27,7 @@ The goals of this user research are to:
 3. Do users understand how the postal code was pre-populated?
 4. Can users easily change the text input and understand what choices are populated from that search?
 5. Do users understand "no facility found" error and can easily work through it?
+6. Can users easily work through an error message on file upload?
 
 
 **Hypotheses**
@@ -33,6 +37,8 @@ Our hypothesis is that users will be able to navigate through the facility selec
 - Filtering results by miles away
 - Not recognizing the name of the facility they are looking for
 
+Our hypothesis is that users will be able to navigate through file upload error messages relatively easily, but may have issues with the following:
+- Not understanding how to "fix" the file they are uploading
 
 ## Method	
 **Task analysis**
@@ -45,6 +51,7 @@ A task-based usability study will be conducted remotely with Zoom using the Peri
 - When the distance is automatically raised (if no results within specified distance), is this clear to the participant?
 - Can users successfully navigate past a "no results" error?
 - Can users successfully load more facilities if return is greater than 5?
+- Can users work through an error upon file upload?
 
 Participants will be encouraged to talk through their exploration of the prototype.
 
