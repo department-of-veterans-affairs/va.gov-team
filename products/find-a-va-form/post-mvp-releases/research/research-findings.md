@@ -268,12 +268,12 @@ Geographic location:
 * Rural: 2
 
 Race:
-* White: 8
+* White: 9
 * Black: 2
 * Hispanic: 0
 * Biracial: 1 (Native and White)
 * Asian: 0
-* Native: x
+* Native: 1
 
 Disability and Assistive Technology:
 * Cognitive disability: 3
@@ -281,7 +281,6 @@ Disability and Assistive Technology:
 * AT advanced user: 1
 * Desktop screen reader: 3 (2 JAWS on Windows, 1 VoiceOver on Mac)
 * Mobile screen reader): 1 (VoiceOver on iPad)
-* Voice AT like Siri/Dragon Naturally Speaking: x
 
 
 ## Underserved group we haven’t talked to 
