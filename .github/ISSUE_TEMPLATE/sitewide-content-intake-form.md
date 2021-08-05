@@ -1,6 +1,6 @@
 ---
 name: Sitewide Content and IA Intake Form
-about: To file request with the Sitewide Content team
+about: To request support with content and/or IA from the Sitewide Content and IA team
 title: <Type of Request> from <Team>
 labels: sitewide content, sitewide content-product support
 assignees: Sitewide Content, RLHecht
