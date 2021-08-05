@@ -23,10 +23,15 @@
 
 ## August 6
 
-* Schedule for removing endpoints for full prod launches
-* Syncing on guidance for Programs page, specifically in regards to disabling menu links / overusing health services / lift and shift vs. Marie Kondo. context [here](https://dsva.slack.com/archives/C02686M6K6X/p1628009571010300)
-* system health service library source code for general taxonomy - mentioned in office hours and help desk needs to know how to support
-* Top task pages for Q3/Q4: Medical records, Billing and insurance, Register for care. Is it possible to "get ahead" on these for dual state, by creating 140 of them, one for each system? 
+Schedule for removing endpoints for full prod launches
+
+Detail pages 
+* guidance for Programs pages, health services, context [here](https://dsva.slack.com/archives/C02686M6K6X/p1628009571010300)
+
+System health service library source code for general taxonomy - mentioned in office hours and help desk needs to know how to support
+
+Top task pages for Q3/Q4: Medical records, Billing and insurance, Register for care. 
+* Is it possible to "get ahead" on these for dual state, by creating 140 of them, one for each system? 
 
 
 ## July 30
