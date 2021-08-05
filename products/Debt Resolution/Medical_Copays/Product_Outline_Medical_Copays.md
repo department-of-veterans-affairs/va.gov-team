@@ -74,7 +74,7 @@ Veterans receive a variety of debt letters from The Department of Veterans Affai
 ## Desired Business Outcomes
 
  - Streamline Veteran's interaction with debt, so there is one face of VA
- - Increase time to debt resolution whether it is payments or debt relief
+ - Decrease time to debt resolution whether it is payments or debt relief
 
 ## Undesired Business Outcomes
 
