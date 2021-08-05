@@ -100,7 +100,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
-<br>
 
 **Finding 1**
 
@@ -114,7 +113,6 @@ Components & Patterns: keyword 1, keyword 2
 
 > _Supporting data: Quote here_
 
-<br>
 
 **Finding 2**
 
@@ -128,7 +126,6 @@ Components & Patterns: keyword 1, keyword 2
 
 > _Supporting data: Quote here_
 
-<br>
 
 **Finding 3**
 
@@ -213,20 +210,17 @@ Audience segment:
 * Caregivers: x 
 * Family members of a Veteran: x  
 
-<br>
 
 Gender:
 * Male: x 
 * Female: x 
 
-<br>
 
 LGBTQ+:
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
 * Gay, lesbian, or bisexual: x
 
-<br>
 
 Devices used during study: 
 * Desktop: x 
@@ -234,7 +228,6 @@ Devices used during study:
 * Smart phone: x 
 * Assistive Technology: x
 
-<br>
 
 Age:
 * 25-34: x
@@ -244,7 +237,6 @@ Age:
 * 65-74: x
 * Unknown: x
 
-<br>
 
 Education:
 * High school degree or equivalent: x
@@ -256,14 +248,12 @@ Education:
 * Doctorate degree: x
 * Unknown: x
 
-<br>
 
 Geographic location:
 * Urban: x
 * Rural: x
 * Unknown: x
 
-<br>
 
 Race:
 * White: x
@@ -273,7 +263,6 @@ Race:
 * Asian: x
 * Native: x
 
-<br>
 
 Disability and Assistive Technology (AT):
 * Cognitive: x
