@@ -79,9 +79,9 @@ Each participant saw one of three versions of the Find a Form page:
 
 1. **Most participants (9 of 11) completely ignored the instructions--no matter which of the 3 designs they saw.** Therefore, assessing the designs by which resulted in more success doesn't make sense.
 
-1. **Most participants (9 of 11) were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
-
 1. **For almost all participants (10 of 11), the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed.
+
+1. **Most participants (9 of 11) were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
 1. The 3 participants who were using iOS **mobile devices were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS**. Subsequent testing showed that Android phones are unable to fill out the PDF forms for the same reason.
 
@@ -110,9 +110,30 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore them.
 
+Accessibility: keyword 1, keyword 2 
+
+Components & Patterns: keyword 1, keyword 2 
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
 <br>
 
 **Finding 2**
+
+Brief description
+
+Accessibility: keyword 1, keyword 2 
+
+Components & Patterns: keyword 1, keyword 2 
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+<br>
+
+**Finding 3**
 
 Several participants were technically savvy, and they had issues just like less experienced people. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not.
 
@@ -138,19 +159,6 @@ Components & Patterns: keyword 1, keyword 2
 
 <br>
 
-**Finding 2**
-
-Brief description
-
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-<br>
 
 **Finding 3**
 
