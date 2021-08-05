@@ -12,15 +12,15 @@ Cindy Merrill [cindy.merrill@adhocteam.us)]
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#recommendations)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#further-research-needed)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#further-research-needed)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)
 
 <br>
 
