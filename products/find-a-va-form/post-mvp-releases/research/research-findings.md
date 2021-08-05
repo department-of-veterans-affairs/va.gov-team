@@ -293,4 +293,4 @@ This research does not include the perspectives of the following marginalized Ve
 * Group 3
 
 _[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/images/VA-recruitement-checker-example.png)
+![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/images/VA-recruitement-checker-example.png)
