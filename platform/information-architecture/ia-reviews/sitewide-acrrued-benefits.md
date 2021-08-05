@@ -25,7 +25,7 @@
 
 **Page** | **URL** | **Breadcrumb** | **Description**
 --- | --- | --- | ---
-Accrued benefits content page   | /family-member-benefits/accured-benefits  |  Home > Family member benefits > VA accrued benefits for dependent spouses, children, and parents |   - New unauth content page. <br> - No left nav on this page.
+Accrued benefits content page   | /family-member-benefits/accrued-benefits  |  Home > Family member benefits > VA accrued benefits for dependent spouses, children, and parents |   - New unauth content page. <br> - No left nav on this page.
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
@@ -33,12 +33,11 @@ Accrued benefits content page   | /family-member-benefits/accured-benefits  |  H
 
 **Action** | **Placement** | **Destination** | **Description**
 --- | --- | --- | ---
-Add | https://www.va.gov/family-member-benefits/   |  /family-member-benefits/accured-benefits |  - Add link and teaser text to page <br> - Placement TBD
-Add | https://www.va.gov/disability/ | /family-member-benefits/accured-benefits | Review analytics of "Other VA benefits and services" section to potentially replace an option. 
-Add | https://www.va.gov/pension/ | /family-member-benefits/accured-benefits | Review analytics of "Other VA benefits and services" section to potentially replace an option. 
-Add | https://www.va.gov/va-payment-history/ | /family-member-benefits/accured-benefits | Add to "More information" box?
+Add | https://www.va.gov/family-member-benefits/   |  /family-member-benefits/accrued-benefit |  - Add link and teaser text to page <br> - Placement TBD
+Add | https://www.va.gov/disability/ | /family-member-benefits/accrued-benefit | Review analytics of "Other VA benefits and services" section to potentially replace an option. 
+Add | https://www.va.gov/pension/ | /family-member-benefits/accrued-benefit | Review analytics of "Other VA benefits and services" section to potentially replace an option. 
+Add | https://www.va.gov/va-payment-history/ | /family-member-benefits/accrued-benefit | Add to "More information" box?
 
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 
 ## <a name="redirects"></a>Redirects <br>
