@@ -283,14 +283,14 @@ Disability and Assistive Technology:
 * Mobile screen reader): 1 (VoiceOver on iPad)
 
 
-## Underserved group we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-* Group 1
-* Group 2
-* Group 3
+* Hispanic
+* Asian
+* Other than honorable discharge
+* Immigrant origin
+* Expat (living abroad)
+* LGBTQ+
 
-_[insert screenshot of completed recruitment checker]_
-![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/images/VA-recruitement-checker-example.png)
+![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/recruitment-checker.png)
