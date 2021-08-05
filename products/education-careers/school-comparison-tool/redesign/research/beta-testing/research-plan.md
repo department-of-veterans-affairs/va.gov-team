@@ -11,7 +11,14 @@ As a designer I need to create a research plan to share with my team.
 The VA team has fully redesigned the GI Bill Comparison Tool and conducted multiple rounds of testing to assess its effectiveness.  The team seeks to conduct a large scale usability test to ensure that the tool works well for a wide variety of users.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+
+- Are users able to effectively utilize the search(es) to find institutions?
+- Are users able to use the comparison functionality?
+- Do users believe the information on the profile pages is valuable to them?
+- Can users determine the specific benefits they would receive at a particular institution? (Customize to their situation)
+
+
+5. Hypothesis: What is your hypothesis for this research? 	
 
 Researchers believe that individuals will be able to use the tool to find schools that accept VA education benefits, learn more about those schools and compare potential school options against one another.
 ## Method	
