@@ -68,7 +68,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _Hypothesis statement_
 
-_(“True”, “Likely True”, “Definitely True”, “False”, “Likely False” or “Not enough information”) Why?_
+_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
 # Key Findings
