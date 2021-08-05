@@ -1,4 +1,4 @@
-# Conversation guide for Healthcare Experience Team, Check-in MVP Usability
+# Conversation guide for Healthcare Experience Team, Check-in Phase 2 Usability
 
 ## Moderator logistics
 
