@@ -28,8 +28,18 @@ Schedule for removing endpoints for full prod launches
 
 Detail pages 
 * guidance for Programs pages, health services, context [here](https://dsva.slack.com/archives/C02686M6K6X/p1628009571010300)
+  * Pre-lockdown, 2 or 3 PAOs were adding a lot under health services
 * Request from PAO to disable areas that will not be in use. (i.e., News releases) That may be enabled in the future.  VHA has approved disable and removing from menu as long as they can be enabled in the future.
+  * Dave is recommending we do not disable menu items
+  * Some PAOs are continuing to add services here. Getting push from administrators to get pages up for surgery, etc.
+  * This will be case by case, so CMS help desk will tag Stan and Lisa on these requests.
+  * how to handle cleanup for existing pages that have disabled menu items.
 * System health service library source code for general taxonomy - mentioned in office hours and help desk needs to know how to support
+  * "Care we provide" content can be boilerplate that editors at each system could adapt. 
+
+
+* News releases 
+  * Decision: if PAO wants to disable News releases, request fulfillment to CMS helpdesk whole will archive the page, and make sure there's no published news releases. 
 
 Top task pages for Q3/Q4: Medical records, Billing and insurance, Register for care. 
 * Is it possible to "get ahead" on these for dual state, by creating 140 of them, one for each system? 
