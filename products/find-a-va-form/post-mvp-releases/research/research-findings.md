@@ -178,15 +178,21 @@ Most participants (8 of 11) had difficulty downloading the file from the web bro
 
 
 ### Issues with downloading Adobe Acrobat Reader to user's device
-- Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms. 
+- Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms.
+- Two participants asked if the VA will be requiring Adobe Acrobat to open forms.
+- The three participants using iOS mobile devices found out that the **Adobe software required to fill out VA forms (Adobe Acrobat Reader DC for Mac or Windows) isn't available for mobile devices**. Subsequent testing showed that it doesn't work for Android phones either.
+- Two participants had a really hard time installing Adobe Acrobat on their computer. 
+  - One was on Windows, where the download and install took a long time (about 6 minutes), which perhaps is partially because McAfee Security Scan Plus and McAfee Safe Connect are also installed by default (unless you un-check the option at the beginning of the install). 
+  - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit and then started it again. The install again looked stuck but finally finished after 15 minutes.
 
-> "Anybody who is trying to use Adobe with Mac is not going to work well...Mac has gotten away from Adobe and supports everything natively. Requiring Adobe Acrobat is ogoing to be a problem. VA should support Veterans on iPads, even if a minority." (p2)
+> "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac." (p2) 
+"we haven't gone very far. until we got to the download, everything seems to be normal"
 
 ### Issues with finding the downloaded file on user's device
--
+- Two iOS users didn't know how to find files they downloaded.
 
 ### Issues with opening the file in Acrobat
-
+- 
 
 
 Accessibility: keyword 1, keyword 2 
