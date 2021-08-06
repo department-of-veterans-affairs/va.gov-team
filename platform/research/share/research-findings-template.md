@@ -199,6 +199,7 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
+_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0"._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md#who-we-talked-to-including-pilot-participant)_
 
 We talked to **x participants.**
