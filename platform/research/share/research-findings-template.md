@@ -201,8 +201,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 We talked to **x participants.**
 
-_Fill in all demographics that apply below._
-
 Audience segment:
 * Veterans: x 
 * Caregivers: x 
