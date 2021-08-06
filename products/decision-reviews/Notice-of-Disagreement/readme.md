@@ -207,9 +207,9 @@ During UAT testing, we ran into a major issue where the contestable issues list 
 - Primary POCs (Veronica Henry, Matt Self)
 - Engineering POCs (Anna Carey, Robin Garrison)
 - Dashboards:
-  - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/NOD-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)
-  - Staging: http://grafana.vfs.va.gov/d/qCRjZjDMk/NOD-higher-level-review?orgId=1&var-data_source=Prometheus%20(Staging)
-- Sentry issues: http://sentry.vfs.va.gov/organizations/vsp/issues/?query=source%3A10182-board-appeal&statsPeriod=14d
+  - Production: 
+  - Staging: https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182
+- Sentry issues: 
    
 ## Screenshots
 
