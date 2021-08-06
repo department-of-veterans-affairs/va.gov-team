@@ -268,7 +268,7 @@ Disability and Assistive Technology (AT):
 * Desktop screen reader: x
 * Mobile screen reader: x
 * Magnification/Zoom: x
-* [Speech Input Technology] (add link here) like Siri/Dragon Naturally Speaking: x
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
 * Hearing aids: x
 * Sighted keyboard: x
 * Captions: x
