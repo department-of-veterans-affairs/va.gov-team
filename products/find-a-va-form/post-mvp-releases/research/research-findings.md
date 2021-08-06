@@ -137,16 +137,36 @@ Components & Patterns: keyword 1, keyword 2
 
 ## 2. *Download VA form* link opened forms in web browser
 
-The *Download VA form* link should download the PDF form and open it in Adobe Acrobat so it can be filled out, saved, and digitally signed. However, that happened for only 2 of 11 participants. 9 of 11 participants saw the form open in a web browser or it failed to open at all, and then they had to do several extra steps to get the form into Acrobat (see the top half of the steps diagram below):
+The *Download VA form* link should download the PDF form so it's easy to open it in Adobe Acrobat to fill out, digitally sign, and save. However, that happened for only 2 of 11 participants--one participant for all 4 forms (Edge browser on Windows), and the other participant for only the first 2 forms (Chrome on Windows). Neither was surprised that the file was auto-downloaded. The participant who had just auto-downloaded the first 2 forms was **surprised when the next 2 forms didn't download and there was no error message--just nothing happened**. She then decided to try Firefox, which showed the "Please wait" error in the browser. 
+
+The other **9 of 11 participants saw the form open in a web browser or it failed to open at all**, and so they had several extra steps to get the form into Acrobat (see the top row of steps in the diagram below). These steps were difficult for many participants due to a variety of technical issues, which are documented per step in the next detailed finding.
+
+Accessibility: keyword 1, keyword 2 
+
+Components & Patterns: keyword 1, keyword 2 
+
+> "Can I fill it out here or do I need to open it separately?" (p11)
+> 
+> "I don't like when it opens in the browser because it feels limited" (p9)
 
 ![Steps-PDF-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/Steps-PDF-form.png)
 
-These steps were difficult for many participants because of various technical issues, which are documented below by step.
+
+## 3. Most participants were unable to fill out and digitally sign *any* of the forms without help
+
+9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
 ### Issues with downloading the file from the web browser to user's device
+- 
 
+### Issues with downloading Adobe Acrobat Reader to user's device
+- One participant using Firefox tried "Save Page As" and then opened the file in Acrobat, but the form was no longer fillable. With help, the participant found the download button in the top right of the browser window.
 
-Brief description
+### Issues with finding the downloaded file on user's device
+
+### Issues with opening the file in Acrobat
+
+Once the file was opened in Acrobat, it wasn't always fillable. How the file was downloaded and whether any fields had been filled out before it was downloaded determined the format of the file. 
 
 Accessibility: keyword 1, keyword 2 
 
@@ -163,7 +183,6 @@ Components & Patterns: keyword 1, keyword 2
 Several participants were technically savvy, and they had issues just like less experienced people. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not.
 
 Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck. See steps in the diagram below: 
-![steps-diagram](link TBD)
 
 Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology.
 
