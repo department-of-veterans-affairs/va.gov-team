@@ -21,6 +21,7 @@ The VA team has fully redesigned the GI Bill Comparison Tool and conducted multi
 5. Hypothesis: What is your hypothesis for this research? 	
 
 Researchers believe that individuals will be able to use the tool to find schools that accept VA education benefits, learn more about those schools and compare potential school options against one another.
+
 ## Method	
 1.	What method of research are you planning? 	
   - Remote unmoderated usability testing with a follow-up survey
@@ -29,13 +30,13 @@ Researchers believe that individuals will be able to use the tool to find school
 - Researchers need to assess the effectiveness of the tool on a large scale audience in a realistic scenario.  Unmoderated usability testing allows users to interact with the tool in their natural environment and utilize the tool without input or prompting from a facilitator.
 
 3.	Where are you planning to do your research? 	
- - Online using a sandbox for the tool and SurveyMonkey for the survey
+ - Online using a sandbox for the tool (https://staging.va.gov/gi-bill-comparison-tool-sandbox/) and SurveyMonkey for the survey
  
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 - We will be testing page content, navigation and general usability.
 
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
-- GIBCT Sandbox and SurveyMonkey
+- GIBCT Sandbox (https://staging.va.gov/gi-bill-comparison-tool-sandbox/) and SurveyMonkey
 
 
 ## Participants and Recruitment	
@@ -129,7 +130,7 @@ Group 19:
  
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
- - Aug 30 - Sept 6, 2021
+ - Aug 27 - Sept 6, 2021
   	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
  - Aug 25, 2021
