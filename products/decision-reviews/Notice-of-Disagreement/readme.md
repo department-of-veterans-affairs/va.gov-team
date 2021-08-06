@@ -43,10 +43,7 @@ In this phase, our research team will be doing usability and UAT the phase 1 MVP
 4. Roll-out Strategy
 
 
-BELOW THIS IS STILL HLR STUFF - WORKING ON THE OUTLINE
 
-
-![Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/Appeals_Process_Higher_Level_Review_Flowchart-1.png)
 
 ### Program Requirements
 If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
@@ -143,7 +140,6 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 ## OKRs and KPIs
 ## KPIs
 - Number of NOD submissions (input KPI)
-- 20% of appeals completed online in first month with 5% MoM increase
 - <15% abandon rate from start of form 
 - Average time to complete the form
 - Where do Veterans abandon the form 
