@@ -157,16 +157,35 @@ Components & Patterns: keyword 1, keyword 2
 9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
 ### Issues with downloading the file from the web browser to user's device
-- 
+**Only 4 of 11 participants knew that they would need to download the PDF file and open it in Adobe Acrobat Reader. The other participants didn't understand this and got stuck** (most hadn't read the instructions provided), and so the moderator explained that they needed to do this. 
+
+Most participants (8 of 11) had difficulty downloading the file from the web browser to their device. How the file was downloaded and whether any fields had been filled out before it was downloaded affected whether the file was fillable in Acrobat. 
+
+- One participant using Firefox tried "Save Page As" and then opened the file in Acrobat, but the form was no longer fillable. With prompting from the moderator, the participant found the download button in the top right of the browser window.
+- In Safari on iOS, you have to use the *Share* button and share it to Adobe, which wasn't intuitive. Participants using Safari on a Mac tried saving the file but not downloading it, which opens a non-editable version in the Preview application. Another participant did Export as PDF. The forms weren't editable until they installed Adobe Acrobat.
+- In Chrome on Windows, one participant started filling out the form. Then they clicked the download button and selected "with your changes". On one form (10-2850c), this didn't save the information they had already entered. On a different form (20-0995), the downloaded version wasn't fillable in Acrobat. Then they tried right-clicking on the *Download VA form* link and selecting "save link", but this didn't work either. The only way to download the form so it remained fillable was to **use the download button in the browser without after not filling out anything in the form**. Another participant clicked on the *Download VA form* link and then Keep > Open with system viewer, and this version could be opened in Acrobat and filled out. Other participants using Chrome didn't know how to save the file. 
+- In Edge on Windows, one participant used the Save button in the browser, but the saved version isn't fillable in Acrobat. Then they tried Print > Save as PDF, and this file, too, wasn't fillable in Acrobat. Next they tried Download > Show in folder > right-click to open with Acrobat, and still not fillable. They tried right-click to open with Edge, which resulted in a fillable PDF but without the digital signature. They also tried right-clicking on the *Download VA form* link, and that wasn't fillable. Finally what worked was **right-clicking on the *Download VA form* link and choosing *Save link as***; this was fillable, but it was missing the visual indicators (shading) for the fillable fields.
+- Two of the forms (10-0003k and 20-0968) displayed for some participants an error message in the browser instead of the form itself: "Please wait...If this message is not automatically replaced by the proper contents of the document, your PDF viewer may not be able to display this type of document." Different participants had different reactions to this error message, which was confusing:
+   - Thought the form was downloading (but it was not)
+   - Thought their computer needed upgrading (vs. only Acrobat, which they weren't familiar with)
+   - Liked that the message told them to open the file in Adobe
+   - Thought they could download the file instead but didn't know how to do that
+   - Downloaded the file in spite of the error (from Edge)
+   - Didn't notice the message because their screen reader didn't say anything to announce it
+
+> "Frustrating to have some forms open and some not" (p12) 
+> "Would be nice if you could download the form directly into Adobe...it would be faster" (p7)
+
 
 ### Issues with downloading Adobe Acrobat Reader to user's device
-- One participant using Firefox tried "Save Page As" and then opened the file in Acrobat, but the form was no longer fillable. With help, the participant found the download button in the top right of the browser window.
+- Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms. 
 
 ### Issues with finding the downloaded file on user's device
+-
 
 ### Issues with opening the file in Acrobat
 
-Once the file was opened in Acrobat, it wasn't always fillable. How the file was downloaded and whether any fields had been filled out before it was downloaded determined the format of the file. 
+
 
 Accessibility: keyword 1, keyword 2 
 
