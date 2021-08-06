@@ -1,5 +1,5 @@
 # IA Design and Recommendations
-**STATUS:**  IN PROGRESS
+**STATUS:**  COMPLETED 08/06/2021
 
 **Team:** Sitewide content
 
@@ -33,10 +33,9 @@ Accrued benefits content page   | /family-member-benefits/accrued-benefits  |  H
 
 **Action** | **Placement** | **Destination** | **Description**
 --- | --- | --- | ---
-Add | https://www.va.gov/family-member-benefits/   |  /family-member-benefits/accrued-benefit |  - Add link and teaser text to page <br> - Placement TBD
-Add | https://www.va.gov/disability/ | /family-member-benefits/accrued-benefit | Review analytics of "Other VA benefits and services" section to potentially replace an option. 
-Add | https://www.va.gov/pension/ | /family-member-benefits/accrued-benefit | Review analytics of "Other VA benefits and services" section to potentially replace an option. 
-Add | https://www.va.gov/va-payment-history/ | /family-member-benefits/accrued-benefit | Add to "More information" box?
+Add | https://www.va.gov/family-member-benefits/   |  /family-member-benefits/accrued-benefit |  - Add link and teaser text to page <br> - Place as last option in first section, just after "Compensation for surviving spouse and dependents (DIC)"
+Add | https://www.va.gov/disability/ | /family-member-benefits/accrued-benefit | OPTIONAL - Review analytics of "Other VA benefits and services" section to potentially replace an option. 
+Add | https://www.va.gov/pension/ | /family-member-benefits/accrued-benefit | OPTIONAL - Review analytics of "Other VA benefits and services" section to potentially replace an option. 
 
 
 
