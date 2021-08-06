@@ -30,7 +30,7 @@ Please feel free to distribute and share as appropriate.
 
 Below is an advertisement that can be used on digital screens in elevators, way-finding screens around the hospital, and televisions located in the waiting rooms. 
 
-- Ad for VAMC televisions and digital screens
+- [Ad for VAMC televisions and digital screens](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/png/digital-ad-Gwendolyn.pdf)
 
 ## Flyers and posters
 
