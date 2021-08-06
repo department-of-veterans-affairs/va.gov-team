@@ -353,5 +353,6 @@ This research does not include the perspectives of the following marginalized Ve
 * Immigrant origin
 * Expat (living abroad)
 * LGBTQ+
+* AT other than screen readers
 
 ![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/recruitment-checker.png)
