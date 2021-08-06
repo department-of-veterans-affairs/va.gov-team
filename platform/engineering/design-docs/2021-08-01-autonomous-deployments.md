@@ -1,7 +1,7 @@
 # Autonomous Deployment Plan for vets-website React Applications
 
 **Author(s):** Tim Wright  
-**Last Updated:** 08-04-2021  
+**Last Updated:** 08-06-2021  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** 
 
@@ -149,7 +149,7 @@ We will also require commits to be merged into `staging` (not `dev`) before they
 - Update current (dev/staging) deploy scripts to sync and not delete files from s3 OR create new script
 - Create single app build in webpack that includes assets.
 
-This work should be completed in 1 sprint with 2 people.
+This work should be completed in 1 sprint with 2 people (1 person on each task).
 
 #### Milestone: Create and release staging/dev deployment behaviors
 
@@ -161,7 +161,7 @@ This work should be completed in 1 sprint with 2 people.
 - Reserve time for troubleshooting staging
 - Reach out to two application teams for production deployment beta
 
-This work should be completed in 2 sprints with 2 people.
+This work should be completed in 2-3 sprints with 2 people. Sprint 1 should be dev. Sprint 2 should be staging. Reserving and extra sprint for troubleshooting if needed.
 
 #### Milestone: Create and release initial production behaviors with "allow" list
 
@@ -206,3 +206,4 @@ Date | Revisions Made | Author
 -----|----------------|----------
 August 3, 2021 | Initial draft | Tim Wright
 August 4, 2021 | Revisions based on FE Tools feedback | Tim Wright
+August 6, 2021 | Updated and ammended work estimates | Tim Wright
