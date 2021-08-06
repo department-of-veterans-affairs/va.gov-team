@@ -24,6 +24,7 @@ Follow the steps below:
 - Enter "1" in each underserved dimension (rows) the Veteran (column) identifies with. A Veteran may identify with more than one dimension.
 - Enter “0” in each underserved dimension the Veteran does not identify with.
 - If there’s a no show, replace the “1”s with “N’s.”
+- If there are underserved dimensions that have no participants due to a lack of data from the initial survey, write "unknown" under target
 - Write in any notes on no-shows or recommendations.
 - Take a screenshot of the matrix and place it into your research readout.
 
