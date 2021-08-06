@@ -180,6 +180,8 @@ Most participants (8 of 11) had difficulty downloading the file from the web bro
 ### Issues with downloading Adobe Acrobat Reader to user's device
 - Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms. 
 
+> "Anybody who is trying to use Adobe with Mac is not going to work well...Mac has gotten away from Adobe and supports everything natively. Requiring Adobe Acrobat is ogoing to be a problem. VA should support Veterans on iPads, even if a minority." (p2)
+
 ### Issues with finding the downloaded file on user's device
 -
 
