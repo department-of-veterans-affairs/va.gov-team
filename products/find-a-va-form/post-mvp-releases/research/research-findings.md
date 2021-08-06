@@ -157,9 +157,10 @@ Components & Patterns: keyword 1, keyword 2
 9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
 ### Issues with downloading the file from the web browser to user's device
+
 **Only 4 of 11 participants knew that they would need to download the PDF file and open it in Adobe Acrobat Reader. The other participants didn't understand this and got stuck** (most hadn't read the instructions provided), and so the moderator explained that they needed to do this. 
 
-Most participants (8 of 11) had difficulty downloading the file from the web browser to their device. How the file was downloaded and whether any fields had been filled out before it was downloaded affected whether the file was fillable in Acrobat. 
+**Most participants (8 of 11) had difficulty downloading the file from the web browser to their device**. How the file was downloaded and whether any fields had been filled out before it was downloaded affected whether the file was fillable in Acrobat. 
 
 - One participant using Firefox tried "Save Page As" and then opened the file in Acrobat, but the form was no longer fillable. With prompting from the moderator, the participant found the download button in the top right of the browser window.
 - In Safari on iOS, you have to use the *Share* button and share it to Adobe, which wasn't intuitive. Participants using Safari on a Mac tried saving the file but not downloading it, which opens a non-editable version in the Preview application. Another participant did Export as PDF. The forms weren't editable until they installed Adobe Acrobat.
@@ -176,11 +177,10 @@ Most participants (8 of 11) had difficulty downloading the file from the web bro
 > "Frustrating to have some forms open and some not" (p12) 
 > "Would be nice if you could download the form directly into Adobe...it would be faster" (p7)
 
-
 ### Issues with downloading Adobe Acrobat Reader to user's device
 - Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms.
 - Two participants asked if the VA will be requiring Adobe Acrobat to open forms.
-- The three participants using iOS mobile devices found out that the **Adobe software required to fill out VA forms (Adobe Acrobat Reader DC for Mac or Windows) isn't available for mobile devices**. Subsequent testing showed that it doesn't work for Android phones either.
+- The three participants using iOS mobile devices found out that the **Adobe software required to fill out VA forms (Adobe Acrobat Reader DC for Mac or Windows) isn't available for mobile devices**. When they searched for Adobe Acrobat, they found only "Adobe Acrobat Reader PDF Maker", which wasn't the app required. 
 - Two participants had a really hard time installing Adobe Acrobat on their computer. 
   - One was on Windows, where the download and install took a long time (about 6 minutes), which perhaps is partially because McAfee Security Scan Plus and McAfee Safe Connect are also installed by default (unless you un-check the option at the beginning of the install). 
   - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit and then started it again. The install again looked stuck but finally finished after 15 minutes.
@@ -188,12 +188,16 @@ Most participants (8 of 11) had difficulty downloading the file from the web bro
 > "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac." (p2) 
 "we haven't gone very far. until we got to the download, everything seems to be normal"
 
-### Issues with finding the downloaded file on user's device
+### Issues with *finding* the downloaded file on user's device
 - Two iOS users didn't know how to find files they downloaded.
 
 ### Issues with opening the file in Acrobat
-- 
-
+- When the 3 iOS users tried to open a downloaded form in Adobe Acrobat version they were able to install on their devices, they saw the error message "This form requires Adobe Acrobat Reader DC for Mac or Windows", indicating that it only works with the desktop version of Adobe Acrobat. The regular Adobe Reader mobile app opens files in read-only mode if it is able to open them at all, but doesn't make the forms fillable. One user tapped on the pencil icon to fill out the form, and they got an error about it being a Protected document. Subsequent testing showed that fillable PDFs don't  work on Android phones either.
+- Two participants downloaded forms from Chrome, and the files opened in Edge, presumable because Edge is the default application to open PDF files.  
+- When two participants clicked the downloaded files shown at the bottom of their browser, the files opened in the browser. In order to get them in Acrobat, they launched Acrobat and opened the files from there.
+- When two participants opened files from inside Acrobat, they were prompted to set Acrobat Reader as their default for PDF files. They both appeared to not read the details in the prompt shown and simply declined. 
+- Two participants opened File Manager, right-clicked on the file to open, and selected Adobe Acrobat Reader.
+- One participant needed help downloading Adobe Acrobat and using it to open the form. For the next form, they needed help again. For the third form, they remembered the process themselves.
 
 Accessibility: keyword 1, keyword 2 
 
@@ -264,8 +268,8 @@ _Put together initial recommendations here based on your findings along with sup
     * Fillable PDF forms that require a desktop version of Adobe Acrobat are problematic for many people, as evidenced by the findings above.
     
 1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. 
-    1. Add the instructions to the form detail pages, in addition to the form search results page where it was tested.
-    1. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the R&S article.
+    1. Add the instructions to the form detail pages, in addition to the form search results page where we tested. Consider adding that you have to be on a computer to fill out the form.
+    1. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the R&S article. We need to be clear that mobile devices can't be used to fill out the forms online and provide alternate instructions (i.e., use a computer with Adobe Acrobat Reader to fill out the form, or print the form and fill it out on paper)
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it isn't overlooked after reading the steps).
 
