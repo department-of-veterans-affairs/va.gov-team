@@ -194,6 +194,8 @@ The goal of this post-MVP stage is to abstract the Github UI from the deployment
 
 After autonomous deployment work has been completed, work on application isolation will begin and another design document will be created.
 
+We would also like to be able to track which version of an app is currently released.
+
 ### Questions
 - Should teams be able to merge into `master` without merging into `staging`/`dev`? Maybe only `hotfix/` and `revert/` branches can pass through?
 - What is the turnaround time to revert a commit?
