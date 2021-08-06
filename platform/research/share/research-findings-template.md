@@ -17,15 +17,15 @@ Date: MM/DD/YYYY
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](insert link to section)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#key-findings)
+[Key findings](insert link to section)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#recommendations)
+[Recommendations](insert link to section)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#who-we-talked-to)
+[Who we talked to](insert link to section)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/research-findings-template.md#further-research-needed)
+[Further research needed](insert link to section)
 
 <br>
 
@@ -36,9 +36,6 @@ _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.
 _Then, describe your goals for this research_
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md#research-goals)_
-
-
-
 
 
 
@@ -242,8 +239,7 @@ Age:
 Education:
 * High school degree or equivalent: x
 * Some college (no degree): x
-* Certificates and certifications?
-* Associate's degree: x
+* Associate's degree, trade certificate or vocational training: x
 * Bachelor's degree: x
 * Master's degree: x
 * Doctorate degree: x
@@ -269,24 +265,24 @@ Disability and Assistive Technology (AT):
 * Cognitive: x
 * AT beginner: x
 * AT advanced user: x
-* Desktop screen reader (SR): x
-* Mobile screen reader (SR): x
+* Desktop screen reader: x
+* Mobile screen reader: x
 * Magnification/Zoom: x
-* Voice AT like Siri/Dragon Naturally Speaking: x
+* [Speech Input Technology] (add link here) like Siri/Dragon Naturally Speaking: x
 * Hearing aids: x
 * Sighted keyboard: x
 * Captions: x
 
 
-## Underserved group we haven’t talked to 
+## Underserved groups we haven’t talked to 
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
+_List all groups in red from the spreadsheet_
 * Group 1
 * Group 2
 * Group 3
 
 _[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/share/images/VA-recruitement-checker-example.png)
-
+![VA-recruitment-checker](link - add image to github folder and link here with .png)
