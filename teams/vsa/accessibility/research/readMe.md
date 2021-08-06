@@ -44,7 +44,7 @@ By stewarding inclusive research at the VA, we can:
 - Magnification and zoom (WIP)
 - Captions and transcriptions (WIP)
 - Hearing aids (WIP)
-- Voice recognition (WIP)
+- Speech input technology (Voice recognition and assistive technology) (WIP)
 - Braille readers (WIP)
 
 ## [Communicating and Documenting Risk](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/risk-documentation.md)
