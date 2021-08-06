@@ -22,7 +22,7 @@ assignees: andreahewitt-odd, shiragoodman
 - Any other artifacts you have so far
 
 ## Questions
-Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/collab-cycle-get-started.md) for detailed information and examples for the below questions.
+Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
 
 ### 1. Will your work result in visible changes to the user experience?
 - [ ] Yes
@@ -122,4 +122,4 @@ Examples of **changes to url, navigation, or entry points** include:
 
 
 ## Additional information
-Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) on Github for more information about the Collaboration Cycle.
+Please refer to the [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) guidance on Platform website for more information about the Collaboration Cycle.
