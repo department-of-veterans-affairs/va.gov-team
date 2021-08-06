@@ -23,12 +23,12 @@
 
 ## August 6
 
-Schedule for removing endpoints for full prod launches
-
+* Schedule for removing endpoints for full prod launches
+  * Full production for Aug 11th, (Southern Nevada, Sioux Falls, Central California, Fargo, Albany,     Finger Lakes, and Northport)
 Detail pages 
 * guidance for Programs pages, health services, context [here](https://dsva.slack.com/archives/C02686M6K6X/p1628009571010300)
-
-System health service library source code for general taxonomy - mentioned in office hours and help desk needs to know how to support
+* Request from PAO to disable areas that will not be in use. (i.e., News releases) That may be enabled in the future.  VHA has approved disable and removing from menu as long as they can be enabled in the future.
+* System health service library source code for general taxonomy - mentioned in office hours and help desk needs to know how to support
 
 Top task pages for Q3/Q4: Medical records, Billing and insurance, Register for care. 
 * Is it possible to "get ahead" on these for dual state, by creating 140 of them, one for each system? 
