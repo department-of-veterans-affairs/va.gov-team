@@ -12,6 +12,7 @@ SELECT DISTINCT date,
   fullVisitorId as user,
   concat(fullVisitorId, visitStartTime) as session,
   hits.page.pagePath as page_path,
+  lag(hits.page.pagePath, 1) over (partition by fullvisitorid, visitStartTime order by hits.hitNumber asc) as previous_page_path,
   hits.hitNumber as hit_number,
   (LEAD(hits.time,1) OVER (PARTITION BY date, fullvisitorid, concat(fullVisitorId, visitStartTime) 
       ORDER BY date, fullvisitorid, concat(fullVisitorId, visitStartTime), hits.hitNumber) - hits.time)/1000 as time_on_page
@@ -36,7 +37,7 @@ SELECT DISTINCT PARSE_DATE("%Y%m%d", ga.date) AS date,
   `vsp-analytics-and-insights.vsp_sites.find_hub_product`(hits.page.pagePath) as hub_product,
   fv.form_name,
   hits.page.pagePath as page_path,
-  prev.page_path as previous_page_path,
+  top.previous_page_path as previous_page_path,
   device.deviceCategory as device_category,
   device.browser as device_browser,
   trafficSource.medium as medium,
@@ -62,11 +63,6 @@ left join page_detail top on top.date = ga.date
                           AND top.session = CONCAT(ga.fullVisitorId, ga.visitStartTime) 
                           AND hits.page.pagePath = top.page_path 
                           AND hits.hitNumber = top.hit_number
-left join page_detail prev ON prev.date = ga.date
-                          AND prev.user = ga.fullVisitorId
-                          AND prev.session = CONCAT(ga.fullVisitorId, ga.visitStartTime)
-                          AND prev.hit_number <= hits.hitNumber - 1
-                          and hits.type = 'PAGE'
 INNER JOIN `vsp-analytics-and-insights.vsp_sites.forms_vaos` AS fv ON (hits.page.pagePath LIKE CONCAT('%',fv.step_link,'%') 
     OR hits.eventInfo.eventLabel = fv.step_link) AND fv.active = true                        
 WHERE _table_suffix --between '20190618' AND FORMAT_DATE('%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
