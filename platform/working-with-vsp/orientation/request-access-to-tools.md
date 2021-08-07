@@ -59,13 +59,15 @@ ZenHub is used by the VSP team for issue tracking and management.
 
 ## Additional access for developers
 
-Several internal tools for development are only accessible within the VA network. Access to developers outside the VA network is made available via a SOCKS proxy. For proxy access, we require the use of an SSH key pair for security.
+Several internal tools for development are only accessible within the VA network. Access to developers outside the VA network is made available via a SOCKS proxy.
 
-### Set up your SSH key pair
+### Socks Setup
 
-1. Create new SSH keys.
-    * [Windows instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-windows)
-    * [Mac/Linux instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-mac-or-linux).
+1. Follow the instructions for setting up SOCKS access in the [internal tools documentation](../../engineering/internal-tools.md).
+1. Test accessing Jenkins, Grafana, and Sentry through the SOCKS proxy (see below).
+    * When logging into these services for the first time click the button `Login with GitHub` or similar.
+        * You will be prompted to link your GitHub account and presented with a permissions dialog.
+        * Allow the service to access your account and view your Organization membership.
 
 ### Request access
 
@@ -77,21 +79,6 @@ Several internal tools for development are only accessible within the VA network
     * Comment on the ticket, tagging the `@department-of-veterans-affairs/vsp-operations` group to review. **PLEASE NOTE: If this step is skipped, Operations team members are not notified. The template adds a label for filtering, but it does not send notification to the team. This step must be included for your request to be properly routed.**
     * Monitor the issue for updates and respond to any questions from the operations group.
 
-### Set up the SOCKS proxy
-
-1. Make sure your Environment Access Request ticket has been completed.
-
-1. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy).
-
-1. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-va-network).
-
-1. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-the-internet).
-
-1. Test accessing Jenkins, Grafana, and Sentry through the SOCKS proxy (see below).
-    * When logging into these services for the first time click the button `Login with GitHub` or similar.
-        * You will be prompted to link your GitHub account and presented with a permissions dialog.
-        * Allow the service to access your account and view your Organization membership.
-
 ### AWS Console Access
 
 If you requested AWS Console access in your Environment Access Request, here's how to proceed:
@@ -100,7 +87,6 @@ If you requested AWS Console access in your Environment Access Request, here's h
 1. Log in and change the temporary password immediately. AWS will prompt you to change your password during the first login.
 1. Follow the [walk through for MFA setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/aws-account-setup.md).
     * Setting up a virtual MFA device is required to access services in the AWS cloud and programatically via the CLI.
-
 
 
 ## Tools overview
