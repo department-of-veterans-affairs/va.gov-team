@@ -177,6 +177,7 @@ Unique technical issues were encountered in every session, which will be discuss
    - Thought they could download the file instead but didn't know how to do that
    - Downloaded the file in spite of the error (from Edge)
    - Didn't notice the message because their screen reader didn't say anything to announce it
+ - A number of participants said that if they couldn't get the form, they would try something else (e.g., work computer, ask a friend or family member to help or print the form, go to the library or local VA to get the form) before giving up.
 
 > "Frustrating to have some forms open and some not" (p12). 
 > "Would be nice if you could download the form directly into Adobe...it would be faster" (p7).
@@ -189,9 +190,9 @@ Unique technical issues were encountered in every session, which will be discuss
   - One was on Windows, where the download and install took a long time (about 6 minutes), which perhaps is partially because McAfee Security Scan Plus and McAfee Safe Connect are also installed by default (unless you un-check the option at the beginning of the install). 
   - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit and then started it again. The install again looked stuck but finally finished after 15 minutes.
 
-> "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired." (p5, who has been using a screen reader for the last 6 years)
-> "It is a pain that you have to use Adobe for some of the forms...I am getting a third master’s degree and I have not needed Adobe up until this point. I have been able to fill out all forms in Safari until today" (p12)
-> "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac." (p2) 
+> "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired" (p5, who has been using a screen reader for the last 6 years).
+> "It is a pain that you have to use Adobe for some of the forms...I am getting a third master’s degree and I have not needed Adobe up until this point. I have been able to fill out all forms in Safari until today" (p12).
+> "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac" (p2).
 
 
 ### Issues with *finding* the downloaded file on user's device
@@ -255,7 +256,6 @@ Screen reader users found it challenging to fill out the forms in Adobe Acrobat 
 - In form 10-0003k, there was an unlabled Edit box next to the VANEEP field, which a participant didn't understand.
 - In forms 20-0995 and 10-2850c, the tab order of fields doesn't follow the visual layout and logical organization of the forms. This was noticed by 2 sighted participants.
 
-
 Accessibility: keyword 1, keyword 2 
 
 Components & Patterns: keyword 1, keyword 2 
@@ -267,51 +267,27 @@ Components & Patterns: keyword 1, keyword 2
 ### 1. Find a Form search results hard to scan 
 There was no heading for each Find a Form search result, and so participants had to tab down 6 lines through each search result in order to see the next one.
 
-Brief description
-
 Accessibility: keyword 1, keyword 2 
 
 Components & Patterns: keyword 1, keyword 2 
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
 
 <br>
 
 
-**Finding 3**
-
-Brief description
-
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-(For finding re Adobe and Mac users:)
-> "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired." (p5, who has been using a screen reader for the last 6 years)
-
 # Additional Insights: Feedback on the Find a Form page
-### Usability issues
 
 ### Likes
-
+- Easy to search and find forms
+- Nice page layout 
+- Wealth of forms available
+- See date when form was last updated
 
 ### Dislikes
-- Seeing that form 10-2850c was last updated in 2016 (10-2850c). "It seems a little old" (p9).
-
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+- Find a Form search could work better (e.g., "job" and "career" didn't return the healthcare job application but "health jobs" did).
+- Form 10-2850c was last updated in 2016 (10-2850c)--"Seems a little old" (p9).
+- Missing "When to use this form" section (on form detail page) for form 20-0968.
 
 # Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
 1. Encourage form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they are accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
     * Fillable PDF forms that require a desktop version of Adobe Acrobat are problematic for many people, as evidenced by the findings above.
@@ -354,7 +330,6 @@ _If there are demographics that were not included in this study or you discovere
 - [Synthesis spreadsheet]()
 - [Technology setup and issues by user]()
 - [Mural board for user steps](https://app.mural.co/t/vsa8243/m/vsa8243/1628022580962/ff307182df2400489fee75782bd37f5879cca3a1?sender=ua2ff9f6c0031cb4999ae6676)  
-
 
 ## Pages and applications used
 
