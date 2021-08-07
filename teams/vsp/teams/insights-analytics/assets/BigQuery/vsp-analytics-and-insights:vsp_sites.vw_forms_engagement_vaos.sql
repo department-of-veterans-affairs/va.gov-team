@@ -1,6 +1,6 @@
 /***************************************************************
-Name:         vsp_sites.vw_forms_engagement
-Created:      2021-04-12
+Name:         vsp_sites.vw_forms_engagement_vaos
+Created:      2021-08-02
 Created By:   Jason Cavnar
 Description:  Standardized query for all form engagement for data
               from all time
@@ -33,7 +33,7 @@ SELECT DISTINCT PARSE_DATE("%Y%m%d", ga.date) AS date,
   FORMAT_DATE('%d', PARSE_DATE("%Y%m%d", ga.date)) AS day,
   `vsp-analytics-and-insights.vsp_sites.find_benefit_hub`(hits.page.pagePath) as benefit_hub,
   `vsp-analytics-and-insights.vsp_sites.find_hub_product`(hits.page.pagePath) as hub_product,
-  f.form_name,
+  fv.form_name,
   hits.page.pagePath as page_path,
   prev.page_path as previous_page_path,
   device.deviceCategory as device_category,
@@ -66,6 +66,7 @@ left join page_detail prev ON prev.date = ga.date
                           AND prev.session = CONCAT(ga.fullVisitorId, ga.visitStartTime)
                           AND prev.hit_number = hits.hitNumber - 1
                           and hits.type = 'PAGE'
-INNER JOIN `vsp-analytics-and-insights.vsp_sites.forms` AS f ON hits.page.pagePath LIKE CONCAT('%', f.step_link, '%') AND f.active = true                       
+INNER JOIN `vsp-analytics-and-insights.vsp_sites.forms_vaos` AS fv ON (hits.page.pagePath LIKE CONCAT('%',fv.step_link,'%') 
+    OR hits.eventInfo.eventLabel = fv.step_link) AND fv.active = true                       
 WHERE _table_suffix between '20190618' AND FORMAT_DATE('%Y%m%d', DATE_TRUNC(CURRENT_DATE(), WEEK(SATURDAY)))
                     --= FORMAT_DATE('%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))

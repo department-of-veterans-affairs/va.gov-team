@@ -72,7 +72,8 @@ SELECT DISTINCT PARSE_DATE("%Y%m%d",a.date) AS date,
             LEFT JOIN UNNEST(hits.customMetrics) AS hcm
           WHERE 
            _TABLE_SUFFIX --= FORMAT_DATE('%Y%m%d',DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
-                         BETWEEN '20210101' AND FORMAT_DATE('%Y%m%d', DATE_TRUNC(CURRENT_DATE(), WEEK(SATURDAY)))
+                         BETWEEN FORMAT_DATE('%Y%m%d', DATE_TRUNC(DATE_SUB(CURRENT_DATE(), INTERVAL 6 DAY), WEEK(SUNDAY))) 
+                             AND FORMAT_DATE('%Y%m%d', DATE_TRUNC(CURRENT_DATE(), WEEK(SATURDAY)))
            AND hits.eventInfo.eventLabel in ('view_search_results', 'onsite-search-results-click')
           GROUP BY date,
           fullVisitorId,

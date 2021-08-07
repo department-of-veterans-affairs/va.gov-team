@@ -1,6 +1,6 @@
 /***************************************************************
-Name:         vsp_sites.vw_forms_funnels_last_week
-Created:      2021-04-12
+Name:         vsp_sites.vw_forms_funnels_vaos_last_week
+Created:      2021-08-02
 Created By:   Jason Cavnar
 Description:  Standardized query for all form funnels for data
               from previous week
@@ -36,26 +36,27 @@ WITH users AS (
                   (SELECT hcd.value FROM ga.customdimensions as hcd WHERE hcd.index = 22) as loa,
                   ga.device.deviceCategory as device_category,
                   ga.device.browser as browser,
-                  f.form_name,
-                  f.hub_product,
-                  f.form_type,
-                  f.form_description,
-                  f.step_number,
-                  f.step_link,
-                  f.step_name,
+                  fv.form_name,
+                  fv.hub_product,
+                  fv.form_type,
+                  fv.form_description,
+                  fv.step_number,
+                  fv.step_link,
+                  fv.step_name,
                   hits.page.pagePath AS pagePath,
                   hits.eventInfo.eventLabel as eventLabel,
                   totals.bounces as bounce,
-                  CASE WHEN f.step_type = 'page' and hits.type = 'PAGE' THEN hits.time/1000
-                          WHEN f.step_type = 'event' and hits.type = 'EVENT' THEN hits.time/1000
+                  CASE WHEN fv.step_type = 'page' and hits.type = 'PAGE' THEN hits.time/1000
+                          WHEN fv.step_type = 'event' and hits.type = 'EVENT' THEN hits.time/1000
                           ELSE NULL END as hit_time,
-                  LEAD(CASE WHEN f.step_type = 'page' and hits.type = 'PAGE' THEN hits.time
-                      WHEN f.step_type = 'event' and hits.type = 'EVENT' THEN hits.time
-                      ELSE NULL END, 1) OVER(PARTITION BY f.form_name, ga.fullVisitorId, visitStartTime ORDER BY hitNumber ASC )/1000 AS next_hit_time
+                  LEAD(CASE WHEN fv.step_type = 'page' and hits.type = 'PAGE' THEN hits.time
+                      WHEN fv.step_type = 'event' and hits.type = 'EVENT' THEN hits.time
+                      ELSE NULL END, 1) OVER(PARTITION BY fv.form_name, ga.fullVisitorId, visitStartTime ORDER BY hitNumber ASC )/1000 AS next_hit_time
               FROM
                   `vsp-analytics-and-insights.176188361.ga_sessions_*` AS ga,
                   UNNEST(ga.hits) AS hits
-              INNER JOIN `vsp-analytics-and-insights.vsp_sites.forms` AS f ON hits.page.pagePath LIKE CONCAT('%',f.step_link,'%') and f.active = true
+             INNER JOIN `vsp-analytics-and-insights.vsp_sites.forms_vaos` AS fv ON (hits.page.pagePath LIKE CONCAT('%',fv.step_link,'%') 
+                 OR hits.eventInfo.eventLabel = fv.step_link) AND fv.active = true
               WHERE
                 _TABLE_SUFFIX BETWEEN FORMAT_DATE('%Y%m%d', DATE_TRUNC(DATE_SUB(CURRENT_DATE(), INTERVAL 6 DAY), WEEK(SUNDAY))) 
                         AND FORMAT_DATE('%Y%m%d', DATE_TRUNC(CURRENT_DATE(), WEEK(SATURDAY)))  
@@ -87,7 +88,7 @@ WITH users AS (
       users.bounce,
       users.hit_time, 
       users.next_hit_time
-  FROM `vsp-analytics-and-insights.vsp_sites.forms` AS forms 
+  FROM `vsp-analytics-and-insights.vsp_sites.forms_vaos` AS forms 
   CROSS JOIN users
   WHERE users.form_name = forms.form_name
     AND users.step_number >= forms.step_number;
