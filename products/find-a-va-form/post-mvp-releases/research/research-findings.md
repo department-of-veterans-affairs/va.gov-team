@@ -185,12 +185,7 @@ Unique technical issues were encountered in every session, which will be discuss
 - Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms.
 - Two participants asked if the VA will be requiring Adobe Acrobat to open forms.
 - The three participants using iOS mobile devices found out that the **Adobe software required to fill out VA forms (Adobe Acrobat Reader DC for Mac or Windows) isn't available for mobile devices**. When they searched for Adobe Acrobat, they found only "Adobe Acrobat Reader PDF Maker", which wasn't the app required. 
-
-
 - Two participants had a really hard time installing Adobe Acrobat on their computer. 
-
-
-
   - One was on Windows, where the download and install took a long time (about 6 minutes), which perhaps is partially because McAfee Security Scan Plus and McAfee Safe Connect are also installed by default (unless you un-check the option at the beginning of the install). 
   - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit and then started it again. The install again looked stuck but finally finished after 15 minutes.
 
@@ -232,18 +227,37 @@ Even with assistance, 5 of 11 people were unable to digitally sign the two PDF f
 - 1 participant was surprised to see the digital signature, which she recognized from having set it up previously for a school form and readily used it
 > "The first time I had to create a digital ID in Acrobat, I had to trust what was going on. I didn't think would ever need it again so I was surprised to see it. So more than one-time use--not use once and throw away" (p8).
 
+<br>
+
 ## Accessibility-Related Issues that affected screen reader users
 
 ### 1. Digital signature field invisible 
-Participants using a screen reader were unable to digitally sign because screen readers (JAWS) didn't announce any place to sign. It wasn't an editable field or a button, and there wasn't a label on the field. 
+Participants using a screen reader were unable to digitally sign because screen readers (e.g., JAWS) didn't announce any place to sign. The signature field wasn't an editable field or a button, and there wasn't a label on the field. 
+
+Accessibility: keyword 1, keyword 2 
+
+Components & Patterns: keyword 1, keyword 2 
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
 
 ### 1. Form fields difficult to fill out 
-using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
+Screen reader users found it challenging to fill out the forms in Adobe Acrobat because of missing field labels, incorrect tab order, and multiple input fields under one label.
+- One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant started. When asked where to sign, she expected to find that near a "Submit" button (like on web forms, which she has filled out a lot). 
+
+- (i.e., last name, first name, and middle name).
+
+Accessibility: keyword 1, keyword 2 
+
+Components & Patterns: keyword 1, keyword 2 
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
 
 ### 1. Find a Form search results hard to scan 
 because there was no heading for each one, and so participants had to tab down 4-5 lines through each search results before seeing the next one.
-
-
 
 Brief description
 
