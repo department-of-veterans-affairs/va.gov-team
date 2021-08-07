@@ -228,7 +228,7 @@ There were many accessibility issues with the PDF forms encountered by the 4 scr
 Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it. 
 - 3 participants signed in a non-digital way in Edge by using the Draw tool to sign their name.
 - 1 participant couldn't sign form 10-2850c in Preview because there was a big "X" in the signature box. They said that they would print the form and sign below the "X".
-- When one participant saw the digital signature field prompt open up in Acrobat, they dismissed it and then clicked the "Fill & Sign" button at the top to add her drawn signature.  She repeated these steps in each signature field.
+- When one participant saw the digital signature field prompt open up in Acrobat, they dismissed it and then clicked the "Fill & Sign" button at the top to add her drawn signature. She repeated these steps in each signature field. (This doesn't digitally sign the form.)
 - 1 participant was surprised to see the digital signature, which she recognized from having set it up previously for a school form and readily used it
 > "The first time I had to create a digital ID in Acrobat, I had to trust what was going on. I didn't think would ever need it again so I was surprised to see it. So more than one-time use--not use once and throw away" (p8).
 
@@ -289,12 +289,12 @@ Components & Patterns: keyword 1, keyword 2
 
 # Recommendations
 
-1. Encourage form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they are accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
+1. Encourage VA form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they can be accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
     * Fillable PDF forms that require a desktop version of Adobe Acrobat are problematic for many people, as evidenced by the findings above.
     
-1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. 
+1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. If we want more users to see them, consider making them more visible visually, though users may skip them if they're focused on finding a download link.
     1. Add the instructions to the form detail pages, in addition to the form search results page where we tested. Consider adding that you have to be on a computer to fill out the form.
-    1. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the R&S article. We need to be clear that mobile devices can't be used to fill out the forms online and provide alternate instructions (i.e., use a computer with Adobe Acrobat Reader to fill out the form, or print the form and fill it out on paper)
+    1. Consider adding detailed platform-specific instructions (e.g., mobile/desktop, Windows/Mac, Chrome/Edge/Safari/Firefox) to the R&S article. We need to be clear that mobile devices can't be used to fill out the forms online and provide alternate instructions (i.e., use a computer with Adobe Acrobat Reader to fill out the form, or print the form and fill it out on paper). Here is an example of such instructions: https://portal.ct.gov/DEEP/About/Tips-for-Viewing-and-Using-Fillable-PDFs.
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it isn't overlooked after reading the steps).
 1. On the Find a Form search results page, add an H3 heading above each search result to enable easy scanning down the list of search results.
