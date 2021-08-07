@@ -148,8 +148,8 @@ Accessibility: keyword 1, keyword 2
 Components & Patterns: keyword 1, keyword 2 
 
 > "Can I fill it out here or do I need to open it separately?" (p11).
-> 
 > "I don't like when it opens in the browser because it feels limited" (p9).
+> "Having to go to a different browser or use a different format gets so confusing and bothersome. I would need to have somebody help me through that. My frustration level gets so high so quickly that I’d give up" (p8). 
 
 ![Steps-PDF-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/Steps-PDF-form.png)
 
@@ -190,6 +190,7 @@ Unique technical issues were encountered in every session, which will be discuss
   - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit and then started it again. The install again looked stuck but finally finished after 15 minutes.
 
 > "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired." (p5, who has been using a screen reader for the last 6 years)
+> "It is a pain that you have to use Adobe for some of the forms...I am getting a third master’s degree and I have not needed Adobe up until this point. I have been able to fill out all forms in Safari until today" (p12)
 > "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac." (p2) 
 
 
@@ -216,6 +217,9 @@ Components & Patterns: keyword 1, keyword 2
 
 ### Issues with filling out the form
 One participant was able to fill out the forms in Safari and Preview, but the fillable fields weren't shaded until they moused over them, so it was difficult to know what to fill out. This problem was resolved when the forms were opened in Adobe Acrobat.
+
+Another participant called out how different the forms were from each other.
+> "The lack of standardization in the forms. That is such a big thing for us in the military...Standardizing these forms would mean that every form has the same outline and things are done in the same way. There should be common instructions that you can give for all forms. Any specific instructions for the particular form would be on the page where the form is" (p12).
 
 There were many accessibility issues with the PDF forms encountered by the 4 screen reader users, which will be detailed in the Assessibility section below. 
 
@@ -244,9 +248,13 @@ Components & Patterns: keyword 1, keyword 2
 
 ### 1. Form fields difficult to fill out 
 Screen reader users found it challenging to fill out the forms in Adobe Acrobat because of missing field labels, incorrect tab order, and multiple input fields under one label.
-- One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant started. When asked where to sign, she expected to find that near a "Submit" button (like on web forms, which she has filled out a lot). 
+- One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant started. Later, JAWS stopped reading onything on one of the forms, and the accessibility specialist advised her to quit Adobe Acrobat and then come back in. Later when asked where to sign, this participant expected to find that near a "Submit" button (like on web forms, which are familiar to her). 
+- Another participant expected the form to not be accessible because their screen reader didn't say anything to describe it. They tabbed through the form to look at it.
+- Another participant remarked that they always have trouble filling out forms in PDFs because they're not accessible. 
+- In form 10-2850c, one field was announced as ""name last first middle" all run together, which participant had difficulty filling out correctly. It would be easier to understand if this field were split into 3 separate fields (last name, first name, and middle name), each with its own label.
+- In form 10-0003k, there was an unlabled Edit box next to the VANEEP field, which a participant didn't understand.
+- In forms 20-0995 and 10-2850c, the tab order of fields doesn't follow the visual layout and logical organization of the forms. This was noticed by 2 sighted participants.
 
-- (i.e., last name, first name, and middle name).
 
 Accessibility: keyword 1, keyword 2 
 
@@ -257,7 +265,7 @@ Components & Patterns: keyword 1, keyword 2
 > _Supporting data: Quote here_
 
 ### 1. Find a Form search results hard to scan 
-because there was no heading for each one, and so participants had to tab down 4-5 lines through each search results before seeing the next one.
+There was no heading for each Find a Form search result, and so participants had to tab down 6 lines through each search result in order to see the next one.
 
 Brief description
 
@@ -288,9 +296,15 @@ Components & Patterns: keyword 1, keyword 2
 (For finding re Adobe and Mac users:)
 > "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired." (p5, who has been using a screen reader for the last 6 years)
 
+# Additional Insights: Feedback on the Find a Form page
+### Usability issues
+
+### Likes
 
 
-# Additional Insights
+### Dislikes
+- Seeing that form 10-2850c was last updated in 2016 (10-2850c). "It seems a little old" (p9).
+
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
@@ -299,9 +313,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-
-
-1. Encourage form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they are accessible across devices, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
+1. Encourage form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they are accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
     * Fillable PDF forms that require a desktop version of Adobe Acrobat are problematic for many people, as evidenced by the findings above.
     
 1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. 
@@ -309,8 +321,13 @@ _Put together initial recommendations here based on your findings along with sup
     1. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the R&S article. We need to be clear that mobile devices can't be used to fill out the forms online and provide alternate instructions (i.e., use a computer with Adobe Acrobat Reader to fill out the form, or print the form and fill it out on paper)
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it isn't overlooked after reading the steps).
+1. On the Find a Form search results page, add an H3 heading above each search result to enable easy scanning down the list of search results.
 1. Fix the accessibility problems encountered in these forms.
     1. All digital signature fields need a label (e.g., "signature button") or some indication of how to find it and what to do.
+    2. Every fillable field needs its own label
+        1. In form 10-0003k, there was an unlabeled Edit box next to the VANEEP field.  
+        1. In form 10-2850c, the "name last first middle" field should be split into 3 separate fields (last name, first name, and middle name), each with its own label.
+    1. In forms 20-0995 and 10-2850c, the tab order of fields should follow the visual layout and logical organization of the forms. 
 
 
 # Next Steps
