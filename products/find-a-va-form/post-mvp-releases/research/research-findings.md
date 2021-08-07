@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE) and VSA, Find a Form, Decision Tools**
 
-Date: 08/06/2021
+Date: 08/10/2021
 
 Cindy Merrill [cindy.merrill@adhocteam.us)]
 
@@ -120,7 +120,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
-## 1. Most participants ignored the instructions provided
+## Universal Issues (unrelated to accessibility technology)
+
+### 1. Most participants ignored the instructions provided
 
 9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore or skip over them.
 
@@ -135,7 +137,7 @@ Components & Patterns: keyword 1, keyword 2
 > _Supporting data: Quote here_
 <br>
 
-## 2. *Download VA form* link opened forms in web browser
+### 2. *Download VA form* link opened forms in web browser
 
 The *Download VA form* link should download the PDF form so it's easy to open it in Adobe Acrobat to fill out, digitally sign, and save. However, that happened for only 2 of 11 participants--one participant for all 4 forms (Edge browser on Windows), and the other participant for only the first 2 forms (Chrome on Windows). Neither was surprised that the file was auto-downloaded. The participant who had just auto-downloaded the first 2 forms was **surprised when the next 2 forms didn't download and there was no error message--just nothing happened**. She then decided to try Firefox, which showed the "Please wait" error in the browser. 
 
@@ -145,16 +147,18 @@ Accessibility: keyword 1, keyword 2
 
 Components & Patterns: keyword 1, keyword 2 
 
-> "Can I fill it out here or do I need to open it separately?" (p11)
+> "Can I fill it out here or do I need to open it separately?" (p11).
 > 
-> "I don't like when it opens in the browser because it feels limited" (p9)
+> "I don't like when it opens in the browser because it feels limited" (p9).
 
 ![Steps-PDF-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/Steps-PDF-form.png)
 
 
-## 3. Most participants were unable to fill out and digitally sign *any* of the forms without help
+### 3. Most participants were unable to fill out and digitally sign *any* of the forms without help
 
-9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
+9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Several participants were technically savvy, and they had issues just like less experienced people. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
+
+Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck (see diagram above). Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology.
 
 ### Issues with downloading the file from the web browser to user's device
 
@@ -174,26 +178,32 @@ Components & Patterns: keyword 1, keyword 2
    - Downloaded the file in spite of the error (from Edge)
    - Didn't notice the message because their screen reader didn't say anything to announce it
 
-> "Frustrating to have some forms open and some not" (p12) 
-> "Would be nice if you could download the form directly into Adobe...it would be faster" (p7)
+> "Frustrating to have some forms open and some not" (p12). 
+> "Would be nice if you could download the form directly into Adobe...it would be faster" (p7).
 
 ### Issues with downloading Adobe Acrobat Reader to user's device
 - Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms.
 - Two participants asked if the VA will be requiring Adobe Acrobat to open forms.
 - The three participants using iOS mobile devices found out that the **Adobe software required to fill out VA forms (Adobe Acrobat Reader DC for Mac or Windows) isn't available for mobile devices**. When they searched for Adobe Acrobat, they found only "Adobe Acrobat Reader PDF Maker", which wasn't the app required. 
+
+
 - Two participants had a really hard time installing Adobe Acrobat on their computer. 
+
+
+
   - One was on Windows, where the download and install took a long time (about 6 minutes), which perhaps is partially because McAfee Security Scan Plus and McAfee Safe Connect are also installed by default (unless you un-check the option at the beginning of the install). 
   - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit and then started it again. The install again looked stuck but finally finished after 15 minutes.
 
+> "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired." (p5, who has been using a screen reader for the last 6 years)
 > "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac." (p2) 
-"we haven't gone very far. until we got to the download, everything seems to be normal"
+
 
 ### Issues with *finding* the downloaded file on user's device
 - Two iOS users didn't know how to find files they downloaded.
 
 ### Issues with opening the file in Acrobat
-- When the 3 iOS users tried to open a downloaded form in Adobe Acrobat version they were able to install on their devices, they saw the error message "This form requires Adobe Acrobat Reader DC for Mac or Windows", indicating that it only works with the desktop version of Adobe Acrobat. The regular Adobe Reader mobile app opens files in read-only mode if it is able to open them at all, but doesn't make the forms fillable. One user tapped on the pencil icon to fill out the form, and they got an error about it being a Protected document. Subsequent testing showed that fillable PDFs don't  work on Android phones either.
-- Two participants downloaded forms from Chrome, and the files opened in Edge, presumable because Edge is the default application to open PDF files.  
+- When the 3 iOS users tried to open a downloaded form in Adobe Acrobat version they were able to install on their devices, they saw the error message "This form requires Adobe Acrobat Reader DC for Mac or Windows", indicating that it only works with a *desktop* version of Adobe Acrobat. The regular Adobe Reader mobile app opens files in read-only mode if it is able to open them at all, but doesn't make the forms fillable. One user tapped on the pencil icon to fill out the form, and they got an error about it being a Protected document. Subsequent testing showed that fillable PDFs don't  work on Android phones either.
+- Two participants downloaded forms from Chrome, and the files opened in Edge, presumably because Edge is the default application to open PDF files.  
 - When two participants clicked the downloaded files shown at the bottom of their browser, the files opened in the browser. In order to get them in Acrobat, they launched Acrobat and opened the files from there.
 - When two participants opened files from inside Acrobat, they were prompted to set Acrobat Reader as their default for PDF files. They both appeared to not read the details in the prompt shown and simply declined. 
 - Two participants opened File Manager, right-clicked on the file to open, and selected Adobe Acrobat Reader.
@@ -209,18 +219,31 @@ Components & Patterns: keyword 1, keyword 2
 
 <br>
 
-**Finding 3**
+### Issues with filling out the form
+One participant was able to fill out the forms in Safari and Preview, but the fillable fields weren't shaded until they moused over them, so it was difficult to know what to fill out. This problem was resolved when the forms were opened in Adobe Acrobat.
 
-Several participants were technically savvy, and they had issues just like less experienced people. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not.
+There were many accessibility issues with the PDF forms encountered by the 4 screen reader users, which will be detailed in the Assessibility section below. 
 
-Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck. See steps in the diagram below: 
+### Issues with digitally signing the form
+Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it. 
+- 3 participants signed in a non-digital way in Edge by using the Draw tool to sign their name.
+- 1 participant couldn't sign form 10-2850c in Preview because there was a big "X" in the signature box. They said that they would print the form and sign below the "X".
+- When one participant saw the digital signature field prompt open up in Acrobat, they dismissed it and then clicked the "Fill & Sign" button at the top to add her drawn signature.  She repeated these steps in each signature field.
+- 1 participant was surprised to see the digital signature, which she recognized from having set it up previously for a school form and readily used it
+> "The first time I had to create a digital ID in Acrobat, I had to trust what was going on. I didn't think would ever need it again so I was surprised to see it. So more than one-time use--not use once and throw away" (p8).
 
-Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology.
+## Accessibility-Related Issues that affected screen reader users
 
-- 8 of 11 people had difficulty downloading the form from the web browser.
-- After forms were downloaded, they often displayed in Preview (on Macs) or Edge (on Windows computers) because those are the default applications for opening PDFs. And because it wasn't in Adobe Acrobat, the forms couldn't be filled out and signed.
-- Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it.
-- The 3 participants who were using mobile devices (iPhones and iPads) were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms for the same reason.
+### 1. Digital signature field invisible 
+Participants using a screen reader were unable to digitally sign because screen readers (JAWS) didn't announce any place to sign. It wasn't an editable field or a button, and there wasn't a label on the field. 
+
+### 1. Form fields difficult to fill out 
+using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
+
+### 1. Find a Form search results hard to scan 
+because there was no heading for each one, and so participants had to tab down 4-5 lines through each search results before seeing the next one.
+
+
 
 Brief description
 
@@ -272,6 +295,8 @@ _Put together initial recommendations here based on your findings along with sup
     1. Consider adding detailed platform-specific instructions (e.g., mobile vs. desktop and Windows vs. Mac) to the R&S article. We need to be clear that mobile devices can't be used to fill out the forms online and provide alternate instructions (i.e., use a computer with Adobe Acrobat Reader to fill out the form, or print the form and fill it out on paper)
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it isn't overlooked after reading the steps).
+1. Fix the accessibility problems encountered in these forms.
+    1. All digital signature fields need a label (e.g., "signature button") or some indication of how to find it and what to do.
 
 
 # Next Steps
