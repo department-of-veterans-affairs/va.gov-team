@@ -76,6 +76,21 @@ https://public.tableau.com/shared/B447NBPGK?:display_count=y&:origin=viz_share_l
 experienced significant improvements in long term diabetes control."
 [Reference](https://www.va.gov/HEALTHEQUITY/docs/HispanicHeritageMonthFactSheet_Final_11062018.pdf)
 
+## Minority Veterans Report (March 2017)
+- Department of Veterans Affairs, National Center for Veterans Analysis and Statistics
+
+### Data on language among the Veteran population from the 2014 ACS Survey
+
+| Ethnicity | Total population | Speaks a language other than English | Speaks English well | Speaks English less than well | 
+|-----|-----|-----|-----|-----|
+| 15,207,706 | 434,147 (2.9%) | 15,184,097 (99.8%) | 23,609 (0.2%) |
+| Black or African American, non-Hispanic | 2,172,285 | 74,341 (3.4%) | 2,168,093 (99.8%) | 4,192 (0.2%) |
+| American Indian Alaskan Native, Non-Hispanic | 123,017 | 22,917 (18.6%) | 122,078 (99.2%) | 939 (0.8%) |
+| Asian, Non-Hispanic | 280,531 | 160,862 (57.3%) | 256,262 (91.3%) | 24,269 (8.7%) |
+| Native Hawaiian and Other Pacific Islander, non-Hispanic | 28,622 | 7,806 (27.3%) | 28,405 (99.2%) | 217 (0.8%) |
+| Some other race, non-Hispanic | 20,742 | 2,181 (10.5%) | 20,241 (97.6%) | 501 (2.4%) |
+| Two or more races, non-Hispanic | 2,172,285 | 22,922 (8.2%) | 277,750 (99.2%) | 2,348 (0.8%) | Hispanic or Latino | 1,273,588 | 761,404 (59.8%) | 1,210,481 (95.0%) | 63,107 (5.0%) |
+
 ## VA.gov usability research findings
 
 What people are looking for on VA.gov:
