@@ -2,12 +2,6 @@
 
 **August 2020 Discovery, Tressa Furner**<br>
 
-- What would you call notifications (need to reword it)
-- 
-
-
-## Moderated Card Sort
-
 ### Setup
 
 - [ ] Notifications off
@@ -30,7 +24,6 @@ Before we start, a few things I want to mention:
 [Start recording to the Cloud]
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
-
 
 ## Warm-up Questions - 10 minutes
 
