@@ -18,12 +18,12 @@ As part of Phase 3, we’re interviewing VA employees who serve Veterans and fam
 ### 3. Research questions: What question(s) do you hope to be able to answer after completing this research?	
 
 - How do Veterans and their family members with LEP typically search for translated content online? 
-- Where do they expect to find access to translated content and language assistance information on VA.gov? Would they search for it, look for a link in the header, footer, or on a page? 
+- Where do they expect to find translated content and language assistance information on VA.gov? Would they search for it, look for a link in the header, footer, or on a page? 
 - What does a good experience with translated content look like for these Veterans and family members (i.e., sites they use that provide what they need well)?
 - Do they get language assistance from VA now? If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)?
 - How do they currently use VA.gov or other VA websites?
 - What types of content do they most need translated?
-- If they needed to apply for a VA benefit and require language assistance, would they apply online, by mail, call, or go in person? If they needed language assistance to apply, how would they try to get it—and what type of assistance would be most helpful (i.e., phone or in-person assistance from an interpreter, a translated PDF to mail in, a translated online application, etc.)? 
+- If they needed to apply for a VA benefit, would they apply online, by mail, call, or go in person? If they needed language assistance to apply, how would they try to get it—and what type of assistance would be most helpful (i.e., phone or in-person assistance from an interpreter, a translated PDF to mail in, a translated online application, etc.)? 
 - Do our currently translated COVID-19 pages offer value beyond the English content? How could we offer greater value?
 - Can Veterans and family members with LEP find the current Language Assistance and Resources pages on VA.gov? Do these pages offer value? How could we improve them?
 - Do  Veterans and their family members with LEP need or want the ability to print or share information they find on VA.gov?
