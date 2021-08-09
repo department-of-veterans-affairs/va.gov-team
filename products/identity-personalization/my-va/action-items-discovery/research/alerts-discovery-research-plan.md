@@ -23,12 +23,11 @@ In many past user interviews, users have expressed the importance of having rele
 - What are the least important action items for users?
 - How do people expect to see these action items?
 - How do people expect their action items to be ordered?
-- Do people expect to see action items in sections or in an 'action item hub'?
 - How do users expect to be able to resolve these action items?
 - Do people expect to go to My VA to see notifications?
 - Is it useful to have alerts on My VA?
 - Is duplication helpful? (indicator + actual notification)
-- How do users think of alerts? (eg a to-do list or more of a notification?)
+- How do users think of action items? (eg a to-do list or more of a notification?)
 - What does a 'new' alert mean? (eg when should they see an indicator in the navigation)
 - Do users want to see all the alerts they’ve ever had?
 - What should this section be called?? (alerts, notifications, action items??)
