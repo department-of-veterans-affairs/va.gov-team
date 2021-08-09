@@ -104,7 +104,7 @@ What are you looking for in a participant?
 
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
 
-* August 17 - 20
+* August 17 - 24
 
 ### When will the thing you are testing be ready?
 
@@ -120,14 +120,15 @@ _(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up t
 
 Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
-* Tue, August 17; 9 am - 5 pm ET
 * Wed, August 18; 9 am - 11:30 EST, 1:30 - 5 pm ET
 * Thurs, August 19; 11:30 am - 5 pm ET
 * Fri, August 20; 9 am - 10:30 am ET, Noon - 2 pm, 3:30 pm - 5 pm ET
+* Mon, August 23; 9 am - 10:45 am ET, Noon - 5 pm ET
+* Tue, August 24; 9 am - 4 p.m. ET
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
-* TBD
+* Tue, August 17, Time TBD
 
 ### Which member of the design team will you pilot your research with?
 
