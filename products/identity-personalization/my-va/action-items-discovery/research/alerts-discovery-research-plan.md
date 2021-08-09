@@ -2,7 +2,7 @@
 
 ## Goals
 
-As an enhancement to the new My VA dashboard, our team is looking to give Veterans access to their recent action items in a centralized place. We are in the discovery phase, and aim to understand the best way to implement the new action items feature on VA.gov. This includes:
+As an enhancement to the new My VA dashboard, our team is looking to give Veterans access to their recent action items in a centralized place. We aim to understand the best way to implement the new action items feature on VA.gov. This includes:
  
 - How do users expect to find their action items? 
 - How do users expect to take action on their action items?
@@ -19,18 +19,18 @@ In many past user interviews, users have expressed the importance of having rele
 
 ## Research questions
 
-- What are the most important action items for users?
+- What are the most important scenarios that need action for users?
 - What are the least important action items for users?
 - How do people expect to see these action items?
 - How do people expect their action items to be ordered?
 - Do people expect to see action items in sections or in an 'action item hub'?
 - How do users expect to be able to resolve these action items?
-- Will people come to My VA to see their notifications? 
+- Do people expect to go to My VA to see notifications?
 - Is it useful to have alerts on My VA?
 - Is duplication helpful? (indicator + actual notification)
 - How do users think of alerts? (eg a to-do list or more of a notification?)
 - What does a 'new' alert mean? (eg when should they see an indicator in the navigation)
-- Do users need to see all the alerts they've ever had?
+- Do users want to see all the alerts they’ve ever had?
 - What should this section be called?? (alerts, notifications, action items??)
 - How do people know if a task is complete?
 - What information about an action item do people need to see?
@@ -63,10 +63,10 @@ Recruit for 12 sessions (8 fulfilled sessions) using the following criteria:
 - We will need at least 5 participants who have active claims or appeals. (This may or may not overlap with users who have health care) Please confirm this prior to sessions.
 
 - All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. To confirm this, please:
-  -  have users sign into VA.gov with any of their credentials
+  -  Have users sign into VA.gov with any of their credentials
   -  Direct them to go to their VA.gov profile, or send them the URL: va.gov/profile/personal-information
-  -  If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
-  -  If they can see their personal and contact information in the profile, they are LOA3 and can participate in testing.
+  -  If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing 
+  -  If they can see their personal and contact information in the profile, they are LOA3 and can participate in testing
 
 - Participants must be people who visit VA.gov using their mobile devices.
 
