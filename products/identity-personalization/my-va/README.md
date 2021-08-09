@@ -130,6 +130,8 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 
 ### What we can do in the next  1- 2 quarters (100 foot view: Q2 – Q3 2021)
 
+[My VA 2.0 Dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/)
+
 **Objective: Update My VA so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.**
 
 **Key Result #1** — Usage: Increase % of logged-in users visiting My VA from 6% pre-My VA 2.0 to 8% post-My VA 2.0 by Q3.
@@ -142,6 +144,7 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 |% of logged-in users interact with the homepage| 13% |TBD|TBD|
 
 Additionally, we want to see if adding a My VA link to the unauth nav impacts traffic to the page. So, as part of evaluating this KR, we want to add tracking to the new My VA link to the unauth nav.
+[Top Events - Unauthenticated Clicks to My VA](https://analytics.google.com/analytics/web/#/savedreport/KPirHWA4RQWqO5YBJmIwOw/a50123418w177519031p176188361/_r.dsa=1&_.useg=userXZpoGov_R4K1a1Biwj2YNg&_.advseg=&_.sectionId=&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.filter=Navigation%20-%20Header%20-%20My%20VA)
 
 **Key result #2** — Interaction: Increase overall clicks into claims, messages, appointment, and prescription CTAs. 
 
