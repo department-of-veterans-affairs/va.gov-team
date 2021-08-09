@@ -27,19 +27,28 @@ Location
 Accreditation ([Learn more])
 
     { learn more modal, Learn more aria label: "Learn more about the different accreditation types and why it matters" }
-    Accreditation and why it matters
+    
+    #### Accreditation and why it matters
     
     The goal of accreditation is to ensure the education provided by institutions of higher learning meets acceptable levels of quality. Accreditation matters if you plan to start school at one institution and transfer to another to complete your degree. Be sure to ask any potential school about their credit transfer policy.
-    Schools are accredited regionally or nationally by private educational associations. While the Department of Education (ED) doesn't say whether regional or national accreditation is better, a recent ED study revealed that, “Nearly 90 percent of all student credit transfer opportunities occurred between institutions that were regionally, rather than nationally, accredited.” Read the ED report on credit transferability to learn more about the accreditation process and types of accreditation, visit the "About this Tool" page.
+    Schools are accredited regionally or nationally by private educational associations. While the Department of Education (ED) doesn't say whether regional or 
+    national accreditation is better, a recent ED study revealed that, “Nearly 90 percent of all student credit transfer opportunities occurred between
+    institutions that were regionally, rather than nationally, accredited.” Read the ED report on credit transferability to learn more about the accreditation
+    process and types of accreditation, visit the [About this Tool] (https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accreditation_type)
+    page.
     { end learn more modal }
     
     
 GI Bill students (Learn more)
 
     {GI Bill students modal, Learn more aria label: "Learn more about how we calculate the number of GI Bill students" }
-    GI Bill students
     
-    The number of Veterans, service members and family members using their GI Bill benefits attending this school in the last calendar year. This includes all chapters of the GI Bill program (e.g., Post-9/11, Montgomery GI Bill, Reserve Education Assistance Program, and Veteran Readiness and Employment). Keep in mind that differences in attendee numbers don’t necessarily mean one school is more military friendly than another. This information will be updated annually.
+    ####GI Bill students
+    
+    The number of Veterans, service members and family members using their GI Bill benefits attending this school in the last calendar year. This includes all
+    chapters of the GI Bill program (e.g., Post-9/11, Montgomery GI Bill, Reserve Education Assistance Program, and Veteran Readiness and Employment). Keep in
+    mind that differences in attendee numbers don’t necessarily mean one school is more military friendly than another. This information will be updated
+    annually.
     {end GI Bill students modal }
 
 
@@ -51,9 +60,31 @@ Type of school
 
 Institution locale
 
-Size of school (Learn more)
+Size of institution (Learn more)
+
+    {Size of institution modal, Learn more aria label: “This is the aria label”}
+    #### Size of institution
+    The size of institutions is based on calculation of full-time equivalent students (FTEs) which considers both full-time and part-time students. Two-year colleges are classified using a different scale than four-year and higher institutions 
+    Two-year college sizes
+    •	Very small two-year—fewer than 500 FTEs attend this institution
+    •	Small two-year —at least 500 but fewer than 2000 FTEs attend
+    •	Medium two-year —at least 2000 but fewer than 5000 FTEs  
+    •	Large two-year—at least 5000 but fewer than 10000 FTEs attend  
+    •	Very large two-year —10000 or more FTEs attend  
+    
+    Four-year college sizes
+    •	Very small four-year – fewer than 1000 FTEs attend this four-year institution
+    •	Small four-year —at least 1000 but fewer than 3000 FTEs attend
+    •	Medium four-year —at least 3000 but fewer than 10000 FTEs attend
+    •	Large four-year —more than 10000 FTEs attend
+    {end modal}
 
 Specialized mission (Learn more)
+    
+    { Specialized mission modal, Learn more aria label: “This is the aria label”}
+    #### Specialized mission
+    Is the school single-gender, a Historically Black College or University, or have a religious-affiliation?
+    {end modal}
 
 { END OF SUMMARY TABLE }
 
@@ -68,11 +99,9 @@ Specialized mission (Learn more)
 Tuition and fees (Learn more)
 
     { learn more modal, Learn more aria label: "Learn more about why we ask for in-state tuition and fees" }
-    In-state tuition and fees per year
-    Enter the amount of tuition/fees your school charges in-state students.
-    When you select some schools, we import the average in-state tuition/fees for an undergraduate student as reported by the school to the Department of Education through IPEDS. This is the same information that is published on College Navigator.
-    Generally, in-state residents are charged a discounted rate of tuition and fees. VA pays the in-state tuition & fee rate at public schools.
-    View the current tuition benefit rates
+    We display the average tuition and fees for an undergraduate student that is reported by the school to the Department of Education. 
+    These values might not be the same for all students at an institution. [Learn more about the tuition and fees displayed in the GI Bill Comparison
+    Tool(https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#tuition_fees_input)
     { end modal }
     
     
@@ -117,7 +146,7 @@ Book stipend (Learn more)
 
 { SCHOOL RATINGS SUMMARY TABLE SECTION }
 
-**School ratings**
+**Veteran ratings**
 
 Overall rating
 
@@ -159,7 +188,7 @@ True to expectations
 **Cautionary information**
 Caution flags (Learn more)
 
-    { Caution Flags modal, Learn more aria label: "Learn more about how housing allowance is determined" } 
+    { Caution Flags modal, Learn more aria label: "Learn more about how housing allowance is determined!" } 
     Caution flags indicate that VA or other federal agencies like the Department of Defense (DoD) or Department of Education (ED) have applied increased regulatory or legal scrutiny to this program.
     { End Caution Flags modal, Learn more }
     
@@ -169,7 +198,7 @@ Student complaints (Learn more)
     { Learn more modal, Learn more aria label: "Learn more about student complaints" } 
     Student complaints
     This is the number of closed, Principles of Excellence-related, complaints submitted to VA through the GI Bill Feedback system for this school.
-    To learn more visit the VA GI Bill Feedback Tool.
+    To learn more [visit the VA GI Bill Feedback Tool.](https://www.benefits.va.gov/GIBILL/Feedback.asp)
     { end modal }
     
 { END OF CAUTIONARY INFORMATION TABLE SECTION }
@@ -183,7 +212,7 @@ Length of VET TEC programs
 Credit for military training (Learn more)
 
     { learn more modal, Learn more aria label: "Learn more about credit for military training" }
-    Credit for military training
+    #### Credit for military training
     Does the school offer postsecondary credit for experiences and military training?
     { end modal content }
     
@@ -197,28 +226,29 @@ Credit for military training (Learn more)
 Yellow Ribbon (Learn more)
 
     { Learn more modal, Learn more aria label: "Learn more about what is covered by the Yellow Ribbon program and who can use it" }
-    Yellow Ribbon Program
+    #### Yellow Ribbon Program
     The Yellow Ribbon Program can help you pay for out-of-state, private school, or graduate school tuition that the Post-9/11 GI Bill doesn’t cover. Schools that choose to participate in the Yellow Ribbon program will contribute a certain amount toward the extra tuition. VA will match the participating school’s contribution, up to the total cost of the tuition and fees.
     Veterans and Fry Scholarship and Purple Heart recipients, or their dependents using transferred benefits, are eligible for the maximum benefit rate. Active-duty service members and their spouses aren’t eligible for this program. (An active-duty service member’s dependent child using transferred benefits may be eligible if the service member is qualified at the 100% rate.)
-    Learn more about the Yellow Ribbon Program.
-    Visit the Yellow Ribbon tool to find schools that participate in this program.
+    [Learn more about the Yellow Ribbon Program.](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
+    [Visit the Yellow Ribbon tool](https://www.va.gov/education/yellow-ribbon-participating-schools/)
+)to find schools that participate in this program.
     { end modal }
 
 
 Student Veteran Group (Learn more)
 
     { learn more modal content, Learn more aria label: "Learn more about Student Veteran Groups" }
-    Student Veterans group
+    #### Student Veterans group
     Does this school have a student-led Veterans group on campus?
     If a school has a student Veterans group that’s not represented here, please email 224A.VBAVACO@va.gov. We make quarterly updates to this tool.
-    Please note this email address is only for Comparison Tool-related issues. For questions about your GI Bill benefits, please check this "Ask a Question" page.
+    Please note this email address is only for Comparison Tool-related issues. For questions about your GI Bill benefits, [please check this "Ask a Question" page.](https://gibill.custhelp.va.gov/app/utils/login_form/redirect/ask)
     { end modal }
 
 
 Principles of Excellence (Learn more)
 
     { learn more modal content, Learn more aria label: "Learn more about Principles of Excellence" }
-    Principles of Excellence
+    #### Principles of Excellence
     The Principles of Excellence are guidelines for educational institutions receiving federal funding. Schools that agree to participate will:
     •	End fraudulent and aggressive recruiting techniques and misrepresentation.
     •	Provide students with a personalized form covering the total cost of an education program.
@@ -236,18 +266,20 @@ Principles of Excellence (Learn more)
 8 Keys to Veteran Success (Learn more)
 
     { learn more modal content, Learn more aria label: "Learn more about 8 Keys to Veteran Success" }
-    8 Keys to Veteran Success
+    #### 8 Keys to Veteran Success
     The “8 Keys to Veterans’ Success” are steps that postsecondary institutions can take to assist Veterans and service members in transitioning to higher education, completing their college programs, and obtaining career-ready skills.
     Postsecondary institutions listed here have stated their support for the 8 Keys. However, this isn’t an assurance by the U.S. Department of Education that an institution has actually implemented the 8 Keys. It also doesn’t mean that these institutions are endorsed by the U.S. Department of Education.
-    To learn more about accreditation, visit the U.S. Department of Education’s 8 Keys to Veterans’ Success page.
+    To learn more about accreditation, visit the U.S. Department of Education’s [8 Keys to Veterans’ Success page](Link to http://www.ed.gov/veterans-and-military-families/8-keys-success-sites)
+
     { end modal }
 
 
 Military Tuition Assistance (TA) (Learn more)
 
     { learn more modal content, Learn more aria label: "Learn more about Military Tuition Assistance" }
-    Military Tuition Assistance (TA)
-    Are you receiving any military tuition assistance this year? If so, how much? The Post-9/11 GI Bill pays the net-cost of your education after scholarships or financial aid amounts are applied. This includes amounts already paid by military tuition assistance.
+    Military Tuition Assistance (TA) 
+    Military Tuition Assistance is a benefit paid to eligible members of the Army, Navy, Marines, Air Force, and Coast Guard. Each service has its own criteria
+    for eligibility and application process. This money is usually paid directly to the institution by the individual service.
     { end modal }
 
 
