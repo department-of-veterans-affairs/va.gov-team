@@ -8,7 +8,7 @@ Content and localization team – Sustainable translation solutions discovery wo
 
 ### 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
 
-We are taking a phased approach to translating VA.gov content for Veterans and their family members:
+We are taking a phased approach to translating VA.gov benefit hub content for Veterans and their family members with limited English proficiency (LEP):
 - **Phase 1:** Translate 2 main COVID-19 pages into Spanish and Tagalog
 - **Phase 2:** Launch language assistance and resources pages in English, Spanish, and Tagalog
 - **Phase 3:** Provide a picture of how VA can move forward with sustainable translation solutions
@@ -17,26 +17,27 @@ As part of Phase 3, we’re interviewing VA employees who serve Veterans and fam
 
 ### 3. Research questions: What question(s) do you hope to be able to answer after completing this research?	
 
-- How do Veterans and their family members with limited English proficiency typically search for translated content online? 
-- Where do these Veterans and family members expect to find access to translated content and language assistance information on VA.gov? Would they search for it, look for a link in the header, footer, or on a page? 
+- How do Veterans and their family members with LEP typically search for translated content online? 
+- Where do they expect to find access to translated content and language assistance information on VA.gov? Would they search for it, look for a link in the header, footer, or on a page? 
 - What does a good experience with translated content look like for these Veterans and family members (i.e., sites they use that provide what they need well)?
-- Do these Veterans and family members get language assistance from VA now? If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)?
-- How do these Veterans and their family members currently use VA.gov or other VA websites?
-- What types of content do these Veterans and their family members need most?
+- Do they get language assistance from VA now? If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)?
+- How do they currently use VA.gov or other VA websites?
+- What types of content do they most need translated?
 - If they needed to apply for a VA benefit and require language assistance, would they apply online, by mail, call, or go in person? If they needed language assistance to apply, how would they try to get it—and what type of assistance would be most helpful (i.e., phone or in-person assistance from an interpreter, a translated PDF to mail in, a translated online application, etc.)? 
 - Do our currently translated COVID-19 pages offer value beyond the English content? How could we offer greater value?
-- Can these Veterans and family members find the current Language Assistance and Resources pages on VA.gov? Do these pages offer help to Veterans and family members? How could we improve them?
-- Do these Veterans and their family members need or want the ability to print or share information they find on VA.gov?
-- Do Veterans and family members notice a callout about getting language assistance by phone on an English page? If yes, would they call if they needed help with reading the information? 
+- Can Veterans and family members with LEP find the current Language Assistance and Resources pages on VA.gov? Do these pages offer value? How could we improve them?
+- Do  Veterans and their family members with LEP need or want the ability to print or share information they find on VA.gov?
+- Do Veterans and family members with LEP notice a callout about getting language assistance by phone on an English page? If yes, would they call if they needed help with reading the information? 
 
 ### 4. Hypothesis: What is your hypothesis for this research?
 
-- **For generative research:** By talking directly with Veterans and family members who have LEP, we can gain insights that will help us best serve their needs moving forward.
+- **For generative research:** 
+  - By talking directly with Veterans and family members with LEP, we can gain insights that will help us best serve their needs moving forward.
+  - We hypothesize that the volume of use of existing language assistance at VA may be artificially lower because of lack of awareness that this assistance exists.
 - **For current translated VA.gov content:** 
   - We hypothesize that the Language Assistance and Resources pages are hard to find in the footer.
   - We hypothesize that the Language Assistance and Resources pages offer some basic value, but are limited due to scope and ability to build out full sections rather than one page for each language.
   - We hypothesize that the value of the translated COVID-19 pages are limited by the fact that most of the links (except for some links to translated CDC content) go to English-language pages.
-  - We hypothesize that the volume of use of existing language assistance at VA may be artificially lower because of lack of awareness that this assistance exists.
 
 ## Method	
 
