@@ -78,16 +78,13 @@ We are targeting July 21 - August 3, subject to VSO availablilty.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| Wednesday, July 21  | 9:30 AM to noon |
-| Thursday, July 22  | 9:30 AM to 6 PM |
-| Friday, July 23  | 9:30 AM to 6 PM |
-| Monday, July 26  | 9:30 AM to 6 PM |
-| Tuesday, July 27  | 9:30 AM to noon |
-| Wednesday, July 28  | 9:30 AM to noon |
-| Thursday, July 29  | 9:30 AM to 6 PM |
-| Friday, July 30  | 9:30 AM to 6 PM |
-| Monday, August 2  | 9:30 AM to 6 PM |
-| Tuesday, August 3  | 9:30 AM to 6 PM |
+| Thursday, August 12  | 9:30 AM to noon |
+| Friday, August 13  | 9:30 AM to 6 PM |
+| Monday, August 16  | 9:30 AM to 6 PM |
+| Tuesday, August 17  | 9:30 AM to 6 PM |
+| Wednesday, August 18  | 9:30 AM to noon |
+| Thursday, August 19  | 9:30 AM to noon |
+| Friday, August 20 | 9:30 AM to 6 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
