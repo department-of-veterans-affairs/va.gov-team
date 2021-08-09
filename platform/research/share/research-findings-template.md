@@ -100,11 +100,11 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Finding 1**
 
-Brief description
-
 Accessibility: keyword 1, keyword 2 
 
 Components & Patterns: keyword 1, keyword 2 
+
+Brief description
 
 > _Supporting data: Quote here_
 
@@ -113,11 +113,11 @@ Components & Patterns: keyword 1, keyword 2
 
 **Finding 2**
 
-Brief description
-
 Accessibility: keyword 1, keyword 2 
 
 Components & Patterns: keyword 1, keyword 2 
+
+Brief description
 
 > _Supporting data: Quote here_
 
@@ -126,11 +126,11 @@ Components & Patterns: keyword 1, keyword 2
 
 **Finding 3**
 
-Brief description
-
 Accessibility: keyword 1, keyword 2 
 
 Components & Patterns: keyword 1, keyword 2 
+
+Brief description
 
 > _Supporting data: Quote here_
 
