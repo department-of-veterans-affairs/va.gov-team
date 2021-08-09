@@ -34,6 +34,7 @@ As part of Phase 3, we’re interviewing VA employees who serve Veterans and fam
 - **For generative research:** 
   - By talking directly with Veterans and family members with LEP, we can gain insights that will help us best serve their needs moving forward.
   - We hypothesize that the volume of use of existing language assistance at VA may be artificially lower because of lack of awareness that this assistance exists.
+  - We hypothesize that Veterans and family members with LEP may have specific content that's a higher priority to have in their first language.
 - **For current translated VA.gov content:** 
   - We hypothesize that the Language Assistance and Resources pages are hard to find in the footer.
   - We hypothesize that the Language Assistance and Resources pages offer some basic value, but are limited due to scope and ability to build out full sections rather than one page for each language.
