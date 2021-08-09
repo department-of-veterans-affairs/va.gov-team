@@ -142,8 +142,8 @@ Please list the people who will be serving in each role.
 **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
 - Moderator:
-•	Danielle Thierry: 609.420.1348, danielle.thierry@va.gov
-•	Eunice Garcia: 661.544.6706, eunice.garcia@va.gov	
+  - Danielle Thierry: 609.420.1348, danielle.thierry@va.gov
+  - Eunice Garcia: 661.544.6706, eunice.garcia@va.gov	
 
 - Research guide writing and task development (usually but not always same as moderator): Danielle Thierry and Eunice Garcia	
 
@@ -161,7 +161,7 @@ Please list the people who will be serving in each role.
 	
 ## Resources		
 - Project Brief: 	
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization/product-outline-working-drafts (will update link to GH file shortly)
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md
 	
 - Convo Guide	
 Working on this now
