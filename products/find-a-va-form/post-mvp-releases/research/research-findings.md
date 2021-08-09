@@ -107,9 +107,9 @@ Each participant saw one of three versions of the Find a Form page:
 
 1. One of the screen reader users couldn't access the digital signature field because JAWS didn't read it. The problem was that there's **no label on the signature field** to indicate what it is.
 
-3. There were other **issues with the form fields that made them difficult to fill out** using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
+1. There were other **issues with the form fields that made them difficult to fill out** using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
 
-5. **Find a Form search results were hard to scan** because there was no heading for each one, and so participants had to tab down 4-5 lines through each search results before seeing the next one.
+1. **Find a Form search results were hard to scan** because there was no heading for each one, and so participants had to tab down 4-5 lines through each search results before seeing the next one.
 
 
 # Details of Findings 
@@ -247,7 +247,7 @@ Components & Patterns: keyword 1, keyword 2
 
 > _Supporting data: Quote here_
 
-### 1. Form fields difficult to fill out 
+### 2. Form fields difficult to fill out 
 Screen reader users found it challenging to fill out the forms in Adobe Acrobat because of missing field labels, incorrect tab order, and multiple input fields under one label.
 - One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant started. Later, JAWS stopped reading onything on one of the forms, and the accessibility specialist advised her to quit Adobe Acrobat and then come back in. Later when asked where to sign, this participant expected to find that near a "Submit" button (like on web forms, which are familiar to her). 
 - Another participant expected the form to not be accessible because their screen reader didn't say anything to describe it. They tabbed through the form to look at it.
@@ -264,7 +264,7 @@ Components & Patterns: keyword 1, keyword 2
 
 > _Supporting data: Quote here_
 
-### 1. Find a Form search results hard to scan 
+### 3. Find a Form search results hard to scan 
 There was no heading for each Find a Form search result, and so participants had to tab down 6 lines through each search result in order to see the next one.
 
 Accessibility: keyword 1, keyword 2 
