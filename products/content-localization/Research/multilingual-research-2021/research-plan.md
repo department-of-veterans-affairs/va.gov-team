@@ -160,9 +160,11 @@ Please list the people who will be serving in each role.
 	
 ## Resources		
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content-localization/product-outline-working-drafts (will update link to GH file shortly)
+	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+Working on this now
+
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
