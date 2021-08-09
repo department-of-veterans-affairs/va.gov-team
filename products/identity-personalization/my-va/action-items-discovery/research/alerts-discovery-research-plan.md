@@ -39,7 +39,7 @@ In many past user interviews, users have expressed the importance of having rele
 
 - Users will be able to find alerts easily using the omni-present alert in the navigation.
 - Users will likely not go to My VA first to view alerts. 
-- There will be some confusion around dismissing and alert/finishing a task.
+- There will potentially be some confusion around finishing a task because in the current design we do not differentiate between what is done/unfinished.
 - People will want to be able to sort the alerts hub page. 
 
 
@@ -47,7 +47,7 @@ In many past user interviews, users have expressed the importance of having rele
 
 - We will be running remote moderated usability testing via Zoom on mobile using the Perigean contract.
 
-- We will conduct an initial card sort exercise. We will use Optimal Workshop to help the Veteran sort which notifications are highest priority. The moderator (Tressa) will manage all the interactions on Mural, since we think Veterans might have trouble navigating this tool themselves.  
+- We will conduct an initial card sort exercise. We will use Optimal Workshop to help the Veteran sort which notifications are highest priority. The moderator (Tressa) will manage all the interactions on Optimal Workshop, since we think Veterans might have trouble navigating this tool themselves.  
 - This will be followed by a qualitative interview, using a prototype in UX-pin.
 
 ## Participants and Recruitment
@@ -76,15 +76,14 @@ Recruit for 12 sessions (8 fulfilled sessions) using the following criteria:
 
 #### Secondary criteria / Would like to have
 
-* At least 1 woman
-* At least 1 person of color
-* At least 1 participant 35 or under and 1 participant over 55
-* At least one person that does not have a college degree (to include enlisted Service Members)
-* At least one person that has no college experience 
-* At least one person who lives in a rural or remote area
-* At least one person who lives in a major metropolitan area
-* At least one participant who t has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
-* At least one non-native English speaker
+- 50% aged 55-64+
+- 50% with an identified cognitive disability
+- 50% primarily mobile users
+- 30% people of color
+- 25% in a rural area(anecdotally quoted at 45% by David Shulkin)
+- 25% without a degree
+- 17% with immigrant origins
+- 10% women
 
 ## Timeline 	
 
