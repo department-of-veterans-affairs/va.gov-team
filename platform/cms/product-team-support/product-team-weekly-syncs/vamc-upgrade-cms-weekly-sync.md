@@ -21,6 +21,10 @@
 
 </details>
 
+## August 13
+* Staff Profile - Multiple Systems (Within one VISN/or not?)
+  * Chandra Lake (for example)
+
 ## August 6
 
 Schedule for removing endpoints for full prod launches
