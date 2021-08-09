@@ -12,7 +12,8 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] Links to card sort: https://adhoc.optimalworkshop.com/optimalsort/docaar20
+- [ ] Links to card sort: 
+- [ ] Links to prototype: 
 
 ## Intro - 3 minutes
 
@@ -22,8 +23,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 60 minutes.** 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **Then, I'll be sharing my screen.** We'll look at the location finder together and I'll ask you a few questions about it.
-- **You'll be participating in four exercises** that we will do together. 
+- **You'll be participating in two exercises today.** We'll walk through these together. 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -34,81 +34,83 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 10 minutes
 
-- Can you tell me a little about yourself? (if needed, ask about service history)
-- Do you currently, or have you ever, received any benefits from the VA?
-- Do you currently, or have you ever, filed a claim or appeal with the VA?
-- Have you logged-in to VA.gov recently?
-- For what reasons do you visit VA locations?
+1. Can you tell me a little about yourself? (if needed, ask about service history)
+2. What device are you joining us on?
+3. Do you currently, or have you ever, received any benefits from the VA?
+4. Do you currently, or have you ever, filed a claim or appeal with the VA?
+5. (if yes) How do you check for any updates or changes to your benefits?
+6. How often do you go online to manage your benefits?
 
+## First task: [CARD SORT]  - ?? minutes
 
+Just a little bit of background before we start - we are working on building a central place for you to recieve any action items, updates or reminders on VA.gov. These could be anything related to health care, benefits or just general announcements. 
 
-- **I'll start with sharing my screen.**  
+1. So let's imagine that this sort of page exits - a centralized place for any new updates, reminders or action items that you need to complete on VA.gov. What would you expect a page like this would be called?
 
-
-## Second Task: [DEFINE CURRENT STATUSES]  - 5 minutes
-
-We're going to move onto the second exercise.
+- Okay, great. Let's go ahead and get started - **I'll start with sharing my screen.**  
 
 [PULLS UP OPTIMAL SORT]
 
-Today, when a location is not operating with normal hours and services, we display 1 of 3 possible statuses. On the following screens, we’re going to look at these statuses and I’d like you to tell me how you interpret each of them.
+**[CARD SORT - ADDING CARDS]** 
 
-    - Facility Closed
-    - Facility notice 
-    - Limited services
+On these cards that you can see here, we have a few potential action items that you might see on VA.gov. Go ahead and read through these. If you can think of any additional action items that you might want to see, let's go ahead an make cards for them. 
 
-## Third Task: [MULTIPLE CHOICE - CHOOSE A STATUS]  - 5 minutes
- 
-[MULTIPLE CHOICE ACTIVITY]
+**[CARD SORT - SORTING]** 
 
-On this third exercise, I'd like you to read over the blurb of text and choose which status you think it should have.
+So now that we have all of the potential action items that you'd like to see - let's sort these by priority. 
 
-[MODERATOR HAS PARTICIPANT COMPARE AFTER ANSWERING]
-
-- What are your thoughts overall about these three statuses for labels on facilities (Facility closed, Facility notice, Limited services) - do you feel like they are distinct and make sense? If so, what is distinct about the 3, what make them different from each other? If not, why are they not distinct?
-- Are any parts confusing? If so, what is confusing? 
-
-## Fourth Task: [CARD SORT 2 - OPEN SORT OF SCENARIOS] - 10 minutes
-
-[CARD SORT PREP]
-
-This is the 4th and final exercise.
-
-We just went over three possibilities for statuses that you could see on a facility.
-
-You mentioned those labels were confusing in **x ways** previously (or we suspect that veterans might find some of this categorization confusing), and we think Veterans might be able to come up with better status categories.
-
-The white boxes contain various events that could affect facility hours and services and currently could result in seeing statuses like the ones we saw earlier. I’d like you to consider each event and sort them into categories. I’ll move them for you.
-
-Afterwards you can create "statuses" that make sense to you. You could use the statuses we’ve already seen or create new statuses.
-
-[CARD SORT]
+We'll make three columns: High, Medium, and Low priority. 
 
 **Feel free to think out loud as you work through the exercise.**
 
 [AFTER CARD SORT]
 
-[QUESTION]
+[QUESTIONS]
 
 - Ok, looking at theses categories, do you feel like they work for you?
-- Can you talk me through how these categories might work as more useful statuses on the VA locations pages? You can rename them if you like. 
-- Can you take a look at these specific cards and double check that the categories you've made are correct for them? If not feel free to make new categories or move things. 
-   - "The facility is..."
-- How do you think these categories you made compare to the three statuses we looked at before? (Facility closed, Facility notice, limited services)?
-- You saw that in some of these cards, facilities were closed physcially but still oferring virtual services. What status would best fit that in your estimation?
+- Let's take a look at the high priority column - why did you put these updates in that column?
+    - What makes an update 'High priority' to you? 
+- Let's take a look at the low priority column - why did you put these updates in that column?
+    - What makes an update 'Low priority' to you? 
+- So if you could imagine a page with all of these updates, how could you tell which ones are high priority vs low priority? 
+- Any additional thoughts or questions before we move on?
 
-[MODERATOR PULLS UP LOCATOR BRIEFLY TO REFRESH PARTICIPANT’S MEMORY]
+## Second task: [PROTOTYPE]  - ?? minutes
 
-[MODERATOR CLICKS INTO LOCATION ON LAMAR, CO]
+Great, let's move on. We're now going to take a look at a prototype. I'll share a link with you, and go ahead and pull that up and share your screen with me. 
 
-- What about now? What can you tell me about the hours and services at this location?
-- What would make you trust that the information on the listing/result is accurate?
-- Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
+[LINK]: 
 
-## Post-Task Interview - 5 minutes
+### Logistics: figure out how to share your screen - 5 minutes
 
-- Let's say you are vising a ceremony, do you think these statuses we've created would work for alerting you about what's happening at a cemetary? What might be different about that situation?
-- Any questions for me? 
+- Confirm with the participant that they are using a mobile device with Zoom installed
+- If not, backup plan - load VA.gov in a "mobile frame" - open VA.gov in Chrome. Hit Command+Alt+J.  Backup to backup - moderator shares screen.
+
+Let's start by making sure you can figure out how to share your screen on Zoom.
+
+**If they are on an iPhone**
+* Tap ‘Share content’ (Green button at bottom middle of the screen) If you can’t see the zoom menu, tap anywhere on your screen once and it should appear.
+* Tap on Screen
+* Tap Zoom
+* Tap start broadcast. After a count of 3, the entire device screen will be shared into the meeting
+* Tap the red bar at the top of your screen when you are ready to end the share 
+* IF THEY CAN'T FIGURE IT OUT
+   * they can tap "share content" then tap "web URL" and just enter in VA.gov
+* For troubleshooting screen sharing in iOS, reference the Zoom documentation here https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing   
+
+**If they are on Android**
+* Tap "Share"
+* Tap "Screen"
+* Tap Zoom
+* May give a "sensitive info" alert
+* May ask you to give Zoom permission to display over other apps, toggle yes. The hit the back arrow . Then it might just share your screen.
+* Tap "Start now" (maybe)
+* For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen
+
+**Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
+
+
+
 
 ## Thank-You and Closing - 2 minutes
 
