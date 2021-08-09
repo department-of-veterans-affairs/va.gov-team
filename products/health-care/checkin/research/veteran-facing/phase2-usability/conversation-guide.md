@@ -48,6 +48,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 Alright, I want you to pretend that you have a VA medical appointment today. You have just arrived at the location of your cardiology appointment and you see the following sign hanging on the wall. 
 
 [Screenshare poster](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/check-in-collateral-usabilityTest.pdf)
+[For reference: UX Pin prototype](https://preview.uxpin.com/6917d1a8683f4d51ece3826388e618dac3eb875d#/pages/140839196?mode=cvhidm)
 
 **Poster**
   * Can you explain to me what we're looking at here?
