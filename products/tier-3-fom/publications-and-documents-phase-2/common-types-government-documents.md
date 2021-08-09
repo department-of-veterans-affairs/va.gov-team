@@ -50,7 +50,8 @@ These are some examples of common VA document types.
     - {see Notice 012021aa Acting USH Stone example}
 - Financial policy https://www.va.gov/finance/policy/index.asp
 - Policy statements https://www.va.gov/finance/policy/index.asp --> click on "Read the full policy statement" link; policy statement is presented as a modal
-- Policy - "open for public comment" - examples: https://blogs.va.gov/VAntage/57149/veteran-community-care-open-public-comment/ and https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5152 and https://www.regulations.gov/document/VA-2018-VACO-0002-0058 
+- Policy - "open for public comment" - examples: https://blogs.va.gov/VAntage/57149/veteran-community-care-open-public-comment/ and https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5152 and https://www.regulations.gov/document/VA-2018-VACO-0002-0058 and https://www.federalregister.gov/documents/2018/11/27/2018-25763/notice-of-request-for-information-on-the-department-of-veterans-affairs-program-of-comprehensive 
+
 - Regulations https://www.va.gov/oal/library/vaar/
 - Fact sheets https://www.benefits.va.gov/benefits/media-publications.asp#factSheets
 - Brochures https://www.benefits.va.gov/benefits/media-publications.asp#benefitSummaries 
