@@ -28,6 +28,21 @@
  
 </details>
 
+## Monday, August 9, 20221
+* LH currently working on changing the architecture of how they handle the overlay data, going to decouple the overlay from the facility objects so that CMS can send data for a facility that doesn't exist. Is CMS doing anything with the return codes?
+  * CMS team to look into how they're handled, specifically 201 (received but couldn't do anything with it)
+  * Currently, LH will store even if ID isn't recognized and not ever purging
+  * CMS would want to know if recurring
+  * CMS would want to know if 201 occurs in order to remove it from the queue
+* The url to the service info pages for the detailed service blocks, currently LH is managing through external (bc COVID) - need Dave for direction
+  * Paths ought to be part of the CMS but currently not
+  * CMS doesn't have the full path bc the system isn't part of it yet, possibly bc some were nationally controlled
+    * Not all the facilities are synced up because many are still done by hand, VAMC Upgrade team still needs to populate
+* The character limit for additional info for operating status
+  * Should LH loosen or CMS tighten? Decision by Dave to harden on CMS end. [CMS issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6027)
+  * CMS to also look at the error messaging around this
+* Machine names for services still on hold
+
 ## Monday, August 2, 2021
 * How to uniquely identify the health services objects
   * LH to go through UX to validate whether to use machine name or non-sensical ID or a list that LH owns (what makes sense for different consumers)
