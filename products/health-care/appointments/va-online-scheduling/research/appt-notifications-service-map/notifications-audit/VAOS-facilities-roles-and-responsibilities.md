@@ -1,10 +1,6 @@
 # Roles and responsibilities at VA facilities [DRAFT]
 
-This is in support of the notifications service map to help us identify SMEs at VA who:
-
--   Give and receiving health care
--   Are involved in day-to-day scheduling
--   Create and manage scheduling-related processes
+This is in support of the notifications service map to help involve SMEs at facilities who are directly involved in shceduling.
 
 ## Patient roles
 
