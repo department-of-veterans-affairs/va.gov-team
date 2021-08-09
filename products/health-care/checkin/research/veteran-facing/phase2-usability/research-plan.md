@@ -14,7 +14,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 With this round of research, we are looking to test the usability and design of our proposed phase 2 features:
 - the addition of last name and last 4 of SSN as identity verification data points.
 - the ability for Veterans to check-in if they have multiple appointments in one day.
-- showing check-in status for each appointment.
+- showing a check-in status for each appointment.
 
 ### Research questions: 
 
@@ -24,17 +24,17 @@ What question(s) do you hope to be able to answer after completing this research
 * Do Veterans understand how to check-in for 1 appointment via their mobile device when they have multiple appointments in one day?
 * Do Veterans find value in seeing an iterinary of all their appointments for the day?
 * Is the information provided in said itinerary sufficient, too much, or too little?
-* Are the actions available on the iterinary page align with Veteran expectations? Are there things that Veterans expect to be able to do from an itinerary page that they aren't able to do?
+* Do the actions on the iterinary page align with Veteran expectations? Are there things that Veterans expect to be able to do from an itinerary page that they aren't able to do?
 * Are the check-in appointment statuses helpful to Veterans?
 * Would Veterans find repeating this process multiple times per day (for each appointment if they had multiple appts) burdensome or easy?
 
 ### Hypotheses: 
 
-* The additional identity verification data points to help alleviate some of the earlier security concerns that we heard from Veterans.
+* The additional identity verification data points help alleviate some of the earlier security concerns that we heard from Veterans.
 * Adding the capability to check in for multiple appointments throughout the day will not impact a Veterans ability to complete check-in for an individual appointment.
 * The combination of a daily iterinary and statuses for each appointment will help provide clarity to the Veteran throughout their day at the medical facility.
 * The Veteran might have additional expectations on what they could see or do on the iterinary, such as check-in for all their appointments for the day at once.
-* Veterans might initially understand why they have to repeat this process multiple times per day.
+* Veterans might not initially understand why they have to repeat this process multiple times per day.
 
 ## Method
 
@@ -43,7 +43,7 @@ What question(s) do you hope to be able to answer after completing this research
 Remote, moderated sessions conducted on Zoom
 
 * Usability testing using a poster, Twilio and interactive UX Pin Prototype.
-* We will employ the laptop hugging method to enable easier transition and observations of the poster to text portion of the workflow.
+* We will employ the laptop hugging method to enable easier transition and observations from the poster to text portion of the workflow.
 
 #### Why this method? How does this methodology help you answer your research questions?
 
@@ -68,6 +68,8 @@ What are you looking for in a participant?
 * 15 participants (for a minimum of 8 completed sessions)
   * Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last two years (disqualify those that don't)
   * Participants must be willing to use Zoom and screen share from their laptop, but also must be willing to bring their smart phone to use during the study (disqualify those that aren't)
+  * At least 6 participants should have an iOS smart phone
+  * At least 6 participants should have an Android smart phone
 * Please screen participants based on these questions:
   * Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last two years.
     1. Yes (Qualify)
@@ -75,6 +77,9 @@ What are you looking for in a participant?
   * Do you have a smart phone?
     1. Yes (Qualify)
     2. No (Disqualify)
+  * What type of smart phone do you have?
+    1. iOS (Qualify a minimum of 6)
+    2. Android (Qualify a minimum of 6)
   * Are you able to use Zoom and screen share on your laptop, yet also bring your smart phone to utilize during the study?
     1. Yes (Qualify)
     2. No (Disqualify)
@@ -117,8 +122,6 @@ _(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up t
 * 1 hour sessions, 30 minute buffer between sessions
 
 ### Availability: If applicable, when would you like sessions scheduled? 
-
-Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S. Specify how much time you want between sessions, if any.
 
 * Wed, August 18; 9 am - 11:30 EST, 1:30 - 5 pm ET
 * Thurs, August 19; 11:30 am - 5 pm ET
