@@ -16,12 +16,12 @@ Form ID (if different from app name):
 ## The front end code
 > This is for a detailed description of the front end code for your app. Good things to put here are the basic folder and file structure as well as a short description of why this folder and file structure was used. Also be sure to callout any interesting folder or file usage that might confuse a future developer.
 
-## Callouts on how the front end works
+## Callouts on how the front end works (optional)
 > Any special or interesting aspects of how the front end works should be detailed here. This is meant to be read by developers that need to make sense of these special or interesting aspects of your code without you present so write them with as much code detail as possible to achieve good clarity.
 
 ## The back end code
 > This is for a detailed description of the back end code for your app. Good things to put here are the basic folder and file structure as well as a short description of why this folder and file structure was used. Also be sure to callout any interesting folder or file usage that might confuse a future developer.
 
 
-## Callouts on how the front end works
+## Callouts on how the front end works (optional)
 > Any special or interesting aspects of how the back end works should be detailed here. This is meant to be read by developers that need to make sense of these special or interesting aspects of your code without you present so write them with as much code detail as possible to achieve good clarity.
