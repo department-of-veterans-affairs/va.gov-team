@@ -438,17 +438,16 @@ VSP relies on [foundational accessibility tests](https://github.com/department-o
 To add an entire ruleset to your Cypress test, call `cy.axeCheck()` with two arguments:
 
 1. A CSS selector string 
-1. A `runOnly.values` array with a new ruleset entry
+1. An object wrapping the `runOnly.values` array with a new ruleset entry
 
 Be sure not to remove any rulesets from the `values[]` array. [Learn more about axe-core rulesets](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md) in the axe-core documentation.
 
 ```javascript
-cy.axeCheck(
-  'main',
+cy.axeCheck('main', {
   runOnly: {
     values: ['section508', 'wcag2a', 'wcag2aa', 'best-practice'],
   },
-);
+});
 ```
 
 #### Enable the color-contrast rule, or add another rule
@@ -456,11 +455,10 @@ cy.axeCheck(
 If you want to enable the color-contrast check or add another rule to your tests, call `cy.axeCheck()` with two arguments:
 
 1. A CSS selector string
-1. A `rules` object with a dash-separated string and an `{ enabled: true }` boolean object.
+1. A parent object wrapping the `rules` object with a dash-separated string and an `{ enabled: true }` boolean object.
 
 ```javascript
-cy.axeCheck(
-  'main',
+cy.axeCheck('main', {
   rules: {
     'color-contrast': {
       enabled: false,
@@ -469,7 +467,7 @@ cy.axeCheck(
       enabled: true,
     },
   },
-);
+});
 ```
 
 #### axe-core documentation
