@@ -16,15 +16,19 @@ With this round of research, we are looking to test the usability and design of 
 - the ability for Veterans to check-in if they have multiple appointments in one day.
 - showing a check-in status for each appointment.
 
+In prior research, half of the Veterans were concerned that check-in only utilized their phone number to verify they were the right person checking in. We also found out that last name and last 4 digits of SSN were commonly asked to verify identity within current check-in workflows.
+
+We analyzed appointment data (particularly looking at our proposed pilot site...Martinsburg WV) and found over half of Veterans have more than one appointment on any given day. With our MVP scope, those Veterans would not be able to complete check-in. We want to recify that in Phase 2.
+
 ### Research questions: 
 
 What question(s) do you hope to be able to answer after completing this research?
 
 * Does the addition of last name and last 4 of SSN help the Veterans feel more secure about utilizing this check-in solution?
 * Do Veterans understand how to check-in for 1 appointment via their mobile device when they have multiple appointments in one day?
-* Do Veterans find value in seeing an iterinary of all their appointments for the day?
+* Do Veterans find value in seeing an itinerary of all their appointments for the day?
 * Is the information provided in said itinerary sufficient, too much, or too little?
-* Do the actions on the iterinary page align with Veteran expectations? Are there things that Veterans expect to be able to do from an itinerary page that they aren't able to do?
+* Do the actions on the itinerary page align with Veteran expectations? Are there things that Veterans expect to be able to do from an itinerary page that they aren't able to do?
 * Are the check-in appointment statuses helpful to Veterans?
 * Would Veterans find repeating this process multiple times per day (for each appointment if they had multiple appts) burdensome or easy?
 
@@ -32,8 +36,8 @@ What question(s) do you hope to be able to answer after completing this research
 
 * The additional identity verification data points help alleviate some of the earlier security concerns that we heard from Veterans.
 * Adding the capability to check in for multiple appointments throughout the day will not impact a Veterans ability to complete check-in for an individual appointment.
-* The combination of a daily iterinary and statuses for each appointment will help provide clarity to the Veteran throughout their day at the medical facility.
-* The Veteran might have additional expectations on what they could see or do on the iterinary, such as check-in for all their appointments for the day at once.
+* The combination of a daily itinerary and statuses for each appointment will help provide clarity to the Veteran throughout their day at the medical facility.
+* The Veteran might have additional expectations on what they could see or do on the itinerary, such as check-in for all their appointments for the day at once.
 * Veterans might not initially understand why they have to repeat this process multiple times per day.
 
 ## Method
@@ -47,7 +51,7 @@ Remote, moderated sessions conducted on Zoom
 
 #### Why this method? How does this methodology help you answer your research questions?
 
-* Usability testing will allow the Veterans to walk through each step of the proposed process, so they can provide feedback to each research question.
+* Usability testing will allow the Veterans to walk through each step of the proposed process, so they can provide feedback to each research question. The laptop hugging method allows us to better simulate the physical poster starting point of the workflow, then eloquently transition to/observe the rest of the workflow (text and va.gov). For instance, users will be able to scan the QR code.
 
 #### Where are you planning to do your research? 
 
@@ -162,3 +166,5 @@ _(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up t
 * [Convo Guide Discussion guide]()
 * [Synthesis document]()
 * [Research report]()
+
+* [Related research: MVP Check in usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md)
