@@ -123,7 +123,7 @@ Each participant saw one of three versions of the Find a Form page:
 
 A few participants were asked by the moderator to look at the instructions on the R&S page. One skimmed them and decided nothing was applicable. Another participant was puzzled about needing to use Adobe Acrobat, which they knew they didn't have installed on their (Mac) computer. This participant didn't click on the "Get Acrobat Reader for free from Adobe" link but instead said they would do some research on how to download the latest version of Acrobat. 
 
-Keywords: alert boxes, instructions
+Keywords: alert boxes, hint text, instructions
 
 
 ### 2. *Download VA form* link opened forms in web browser
