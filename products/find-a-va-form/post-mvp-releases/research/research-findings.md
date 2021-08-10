@@ -49,10 +49,10 @@ The purpose of this research was to
 # Methodology 
 
 We conducted hour-long remote moderated research sessions via Zoom on **July 27-30, 2021**. Participants were asked to search for the following four PDF forms using the Find a Form page on Staging (https://staging.va.gov/find-forms/):
-1. 10-2850c (most downloaded, has digital signature)
-1. 10-0003k (has digital signature)
+1. 10-2850c (most downloaded, has digital signature, hosted on VA.gov)
+1. 10-0003k (has digital signature, hosted on VA.gov)
 1. 20-0968 (not hosted on VA.gov)
-1. 20-0995 (one of most downloaded, can fill out in browser, hosted inside VA.gov)
+1. 20-0995 (one of most downloaded, can fill out in browser, hosted on VA.gov)
 
 Each participant saw one of three versions of the Find a Form page:
 
