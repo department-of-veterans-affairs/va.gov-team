@@ -124,7 +124,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 2 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/discussion-guide-sco.md
 - Synthesis	
-https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1603279285871/f4978fd8967974485698cf7905b13cc79f90091f 	
+https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1603279285871/f4978fd8967974485698cf7905b13cc79f90091f?sender=jonesjennifer26349 	
 - Lessons Learned	
 *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
