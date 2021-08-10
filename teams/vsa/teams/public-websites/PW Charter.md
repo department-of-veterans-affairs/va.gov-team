@@ -19,14 +19,13 @@ We envision a world where it takes less time to find information about VA benefi
 Unauthenticated Experience for VA.gov
 
 ### Product Portfolio:
--	Home Page 
--	Header / Footer 
--	Redirect Benefit Hubs 2.0 
--	On-site Search 2.0
--	Contact Us/ Help Utility
-- Metrics - baseline and goals
-- Learning Center Content / IA 
-
+-	Home Page (including Alert Banner) 
+-	Site Navigation (Header, Left Hand, Footer)
+-	Benefit Hubs
+-	Outreach & Events Hub and Calender
+-	Resources & Support
+- Campaign Landing Page
+- Contact Us / Help 
 
 ### Responsibilities (Problem space and user goals):
 1. We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
@@ -45,14 +44,11 @@ Unauthenticated Experience for VA.gov
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Owner     |Jen Lee                             |
-|DSVA Product Owner     |John Hashimoto                      |
-|DVSA Content Lead      |Danielle Thierry                    |
-|DVSA Content Lead      |Beth Potts                          |
+|DSVA Product Owner     |TBD                                 |
 |Product Manager        |Brian Lloyd                         |
-|Front End Engineer     |Nick Sullivan                       |
 |Front End Engineer     |Kelson Adams                        |
-|Design/Research        |Liz Lantz                           |
+|Front End Engineer     |Ryan Leahy.                         |
+|Design/Research        |Cassandra Allen                     |
 |Content Writer         |Selina Cooper                       |
 |Content Writer         |Laura Walsh                         |
 |Copy Editor            |Randi Hecht                         |
