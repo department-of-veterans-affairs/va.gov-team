@@ -7,6 +7,11 @@
 
 ## Punchlist
 
+### Introduction screen
+- [ ] Confirm styling of info-box (Note: Since you’re signed in to your account...); should it have the info icon and different spacing?
+- [ ] Change green button text to; "Apply for Veteran Readiness and Employment"
+- [ ] In subway map, change first sentence under (1) Prepare to: "When you apply, be sure to have these on hand:"
+
 - [ ] Intro copy is different from both mocks and prototype; The XD Orientation mocks have the latest
 - [ ] In the wizard, the Orientation shows when “Neither” option is selected; I think the user needs to be a Veteran or service member to continue
 - [ ] 2A. Other “no” responses also reveal the Orientation module; should we encourage “No” respondents to continue?
