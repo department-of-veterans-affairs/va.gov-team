@@ -2,6 +2,8 @@
 Discovery Readout <br/>
 Lead researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
 
+- [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/Research%20Findings.pdf)
+
 ## Background and Goals
 
 ### Background
