@@ -94,62 +94,54 @@ Each participant saw one of three versions of the Find a Form page:
 
 1. **Most participants (9 of 11) completely ignored the instructions--no matter which of the 3 designs they saw** on the Find a Form search results page. Therefore, assessing the designs by which resulted in more success doesn't make sense.
 
-    1. **Many participants (8 of 11) clicked on the form name to open the form detail page**, and from there clicked the *Download VA form* link. This means that they may not have seen the instructions provided on the search results page. 
+    1. **Many participants (8 of 11) clicked on the form name to open the form detail page**, and from there clicked the *Download VA form* link. This means that they may not have paid attention to the instructions on the search results page if they weren't downloading the form from there. 
 
 1. **For most participants (9 of 11), the *Download VA form* link opened forms in a web browser instead of Adobe Acrobat**. When displayed in the web browser, the forms couldn't be filled out, saved, and/or digitally signed.
 
 1. **Most participants (9 of 11) were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help** from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
 
-    1. The 3 participants who were using iOS **mobile devices were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS**. Subsequent testing showed that Android phones are unable to fill out the PDF forms for the same reason.
+    1. The 3 participants who were using iOS **mobile devices were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS**. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms.
 
-    1. Three of the Mac and iOS users were **surprised and annoyed when they heard that you have to use Adobe Acrobat**, which is generally not used on those platforms.
+    1. Three of the Mac and iOS users were **surprised and annoyed when they heard that you have to use Adobe Acrobat**, which is generally not used on Apple platforms.
 
 ## Accessibility-Related Issues
 
-1. One of the screen reader users couldn't access the digital signature field because JAWS didn't read it. The problem was that there's **no label on the signature field** to indicate what it is.
+1. One of the screen reader users couldn't access the digital signature field because JAWS didn't read it. There seemed to be **no label on the signature field** to indicate what it is and how to interact with it.
 
 1. There were other **issues with the form fields that made them difficult to fill out** using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
 
-1. **Find a Form search results were hard to scan** because there was no heading for each one, and so participants had to tab down 4-5 lines through each search results before seeing the next one.
+1. **Find a Form search results were hard to scan** because there was no heading for each one, and so screen reader users had to tab down 4-5 lines through each search results before they could see the next one.
 
 
 # Details of Findings 
-
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords to your findings** selected from the [master taxonomy]. Tagging your findings will help others find research relevant to their work._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#themes-and-detailed-findings)_
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 ## Universal Issues (unrelated to accessibility technology)
 
 ### 1. Most participants ignored the instructions provided
 
-9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore or skip over them.
+9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore or skip them.
 
-A few participants were asked by the moderator to look at the instructions. One skimmed them and decided nothing was applicable. Another participant was puzzled about needing to use Adobe Acrobat, which they knew they didn't have installed on their (Mac) computer. This participant didn't click on the "Get Acrobat Reader for free from Adobe" link but instead said he would do some research on how to download the latest version of Acrobat. 
+A few participants were asked by the moderator to look at the instructions on the R&S page. One skimmed them and decided nothing was applicable. Another participant was puzzled about needing to use Adobe Acrobat, which they knew they didn't have installed on their (Mac) computer. This participant didn't click on the "Get Acrobat Reader for free from Adobe" link but instead said they would do some research on how to download the latest version of Acrobat. 
 
 Accessibility: keyword 1, keyword 2 
 
 Components & Patterns: keyword 1, keyword 2 
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-<br>
 
 ### 2. *Download VA form* link opened forms in web browser
 
-The *Download VA form* link should download the PDF form so it's easy to open it in Adobe Acrobat to fill out, digitally sign, and save. However, that happened for only 2 of 11 participants--one participant for all 4 forms (Edge browser on Windows), and the other participant for only the first 2 forms (Chrome on Windows). Neither was surprised that the file was auto-downloaded. The participant who had just auto-downloaded the first 2 forms was **surprised when the next 2 forms didn't download and there was no error message--just nothing happened**. She then decided to try Firefox, which showed the "Please wait" error in the browser. 
+The *Download VA form* link should download the PDF form so it's easy to open in Adobe Acrobat to fill out, digitally sign, and save. However, that happened for only 2 of 11 participants--one participant for all 4 forms (Edge browser on Windows), and the other participant for only the first 2 forms (Chrome on Windows). Neither was surprised that the file auto-downloaded. The participant who auto-downloaded the first 2 forms was **surprised when the next 2 forms didn't download and there was no error message--just nothing happened**. They then decided to try Firefox, which showed the "Please wait" error in the browser. 
 
-The other **9 of 11 participants saw the form open in a web browser or it failed to open at all**, and so they had several extra steps to get the form into Acrobat (see the top row of steps in the diagram below). These steps were difficult for many participants due to a variety of technical issues, which are documented per step in the next detailed finding.
+The other **9 of 11 participants saw the form open in a web browser or it failed to open at all**, and they they had extra steps to get the form into Acrobat (see the top row of steps in the diagram below). These steps were difficult for many participants due to a variety of technical issues, which are documented per step in the next detailed finding.
 
 Accessibility: keyword 1, keyword 2 
 
 Components & Patterns: keyword 1, keyword 2 
 
-> "Can I fill it out here or do I need to open it separately?" (p11).
+> "Can I fill it out here, or do I need to open it separately?" (p11).
+
 > "I don't like when it opens in the browser because it feels limited" (p9).
+
 > "Having to go to a different browser or use a different format gets so confusing and bothersome. I would need to have somebody help me through that. My frustration level gets so high so quickly that I’d give up" (p8). 
 
 ![Steps-PDF-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/Steps-PDF-form.png)
@@ -157,7 +149,7 @@ Components & Patterns: keyword 1, keyword 2
 
 ### 3. Most participants were unable to fill out and digitally sign *any* of the forms without help
 
-9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Several participants were technically savvy, and they had issues just like less experienced people. Only 2 participants were able to download and fill out any of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opens PDFs by default on their device.
+9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Several participants were technically savvy, and they had issues just as participants who were less experienced with technology. Only 2 participants were able to download and fill out *any* of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opened PDFs by default on their device.
 
 Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck (see diagram above). Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology.
 
