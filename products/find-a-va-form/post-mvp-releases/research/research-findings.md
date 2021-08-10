@@ -29,7 +29,7 @@ Veterans may need to fill out forms from the VA throughout their lives to apply 
 
 The purpose of this research was to 
 1. Better understand how Veterans download VA forms that are fillable PDFs and what challenges they encounter.
-1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We wanted to assess the performance of three different design options for providing these instructions.
+1. Get feedback on designs for advising users to download a PDF form and then open it with Adobe Acrobat Reader, rather than trying to fill it out in a web browser. We wanted to assess the performance of three different design options for providing these instructions.
 
 
 # Research Questions
@@ -44,15 +44,16 @@ The purpose of this research was to
   - What are users' reactions to auto-download? 
 - Are participants able to save and/or digitally sign the forms? 
 - Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
-- What is the success rate of participants downloading forms from each of the two design options? Is one more effective than the other? 
+- What is the success rate of participants downloading forms from each of the three design options? Is one more effective than the others? 
 
 # Methodology 
 
 We conducted hour-long remote moderated research sessions via Zoom on **July 27-30, 2021**. Participants were asked to search for the following four PDF forms using the Find a Form page on Staging (https://staging.va.gov/find-forms/):
-1. 10-2850c (most downloaded, has digital signature, hosted on VA.gov)
-1. 10-0003k (has digital signature, hosted on VA.gov)
-1. 20-0968 (not hosted on VA.gov)
-1. 20-0995 (one of most downloaded, can fill out in browser, hosted on VA.gov)
+1. 10-2850c (one of most downloaded, has digital signature, hosted on VA.gov) = healthcare job application
+1. 10-0003k (has digital signature, hosted on VA.gov) = employee scholarship application
+1. 20-0968 (hosted on vba.va.gov) = reimbursement form for travel expenses
+1. 20-0995 (one of most downloaded, can fill out in browser, hosted on vba.va.gov) = decision review request supplemental claim
+
 
 Each participant saw one of three versions of the Find a Form page:
 
