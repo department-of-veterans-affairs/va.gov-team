@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] Links to card sort: 
+- [ ] Links to card sort: https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646
 - [ ] Links to prototype: 
 
 ## Intro - 3 minutes
