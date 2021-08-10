@@ -40,7 +40,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
   * Overall, how would you describe that experience? Was it a good or bad experience? Easy or hard?
     * What did you like about it?
     * What did you not like about it?
-* You checked in via [the method they mentioned in the previous question], but is that the method that you use most often?
+* You checked in via [the method they mentioned in the previous question], what method do you use most often?
   * _Clarify options available only if necessary._ This could be using the kiosk, talking directly with VA staff, using text messaging , or how your access virtual appointments.
 
 ## Usability - 30 minutes
@@ -69,7 +69,7 @@ Things to watch for:
 Now, I'm going to have you go back through check-in again. This time I'll ask you some questions at each point in the process.
 
 **Text Message**
-* Would you make any changes to this text messaging portion of check-in?
+* What changes would you make to this text messaging portion of check-in?
 
 **Check in at VA**
 * Can you explain to me what we're looking at?
@@ -87,13 +87,15 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
   * What are your thoughts about seeing all of your appointments for the day on one screen?
   * What do you think you have to do to check-in for another appointment (after you already checked in for one)? 
     * What are your thoughts about that?
-    * What do you tink about the possibility that there are multiple appointments eligible for check-in right now, but only being able to select one to complete check-in.
+    * What do you think about the possibility that there are multiple appointments eligible for check-in right now, but only being able to select one to complete check-in.
   * What are your thoughts about seeing these other types of appointments on this page?
     * an appointment you already checked in for.
     * an appointment that is past the time where you are able to check-in for from your phone.
     * an appointment that you are too early to check-in for from your phone.
 * Is there anything you would like to be able to do or see on this page that currently isn't available?
+  * Why?
 * Is there anything on this page that isn't useful to you? You would be ok if it was removed.
+  * Why?
 
 **Confirmation page**
 * What are your thoughts about this page?
