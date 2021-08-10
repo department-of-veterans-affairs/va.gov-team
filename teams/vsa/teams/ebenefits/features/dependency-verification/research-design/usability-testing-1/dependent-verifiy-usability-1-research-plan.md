@@ -46,6 +46,9 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 - The moderator will prompt the user to explore next steps within the "change" scenario
 - There will be a quick Q/A and wrap-up
 
+#### Resetting cookies
+To reset the modal proc, "X" out of the modal and on the View Dependents page itself, right click and toggle the  true/false for the diary entry at `retrieveDiaries` under "Application" by right clicking and selecting "Edit 'Value'" then click away, and refresh. 
+
 ### Participants and recruitment
 
 Recruit for 5 fulfilled sessions using the following criteria:
