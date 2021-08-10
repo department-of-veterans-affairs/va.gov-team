@@ -46,7 +46,7 @@ In many past user interviews, users have expressed the importance of having rele
 
 - We will be running remote moderated usability testing via Zoom on mobile using the Perigean contract.
 
-- We will conduct an initial card sort exercise. We will use Optimal Workshop to help the Veteran sort which notifications are highest priority. The moderator (Tressa) will manage all the interactions on Optimal Workshop, since we think Veterans might have trouble navigating this tool themselves.  
+- We will conduct an initial card sort exercise. We will use Mural to help the Veteran sort which notifications are highest priority. The moderator (Tressa) will manage all the interactions on Mural, since we think Veterans might have trouble navigating this tool themselves.  
 - This will be followed by a qualitative interview, using a prototype in UX-pin.
 
 ## Participants and Recruitment
