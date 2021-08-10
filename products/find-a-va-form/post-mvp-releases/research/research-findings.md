@@ -4,7 +4,7 @@
 
 Date: 08/10/2021
 
-Cindy Merrill [cindy.merrill@adhocteam.us)]
+Cindy Merrill [cindy.merrill@adhocteam.us]
 
 [Research Report PDF] (link here)
 
