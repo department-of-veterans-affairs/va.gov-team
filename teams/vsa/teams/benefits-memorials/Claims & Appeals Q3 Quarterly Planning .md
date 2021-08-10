@@ -44,8 +44,6 @@ Metrics
       - Determine where we want surveys placed and what we want to ask 
   
   - Ask EVSS to look into all errors
-  
-  - Meet with EVSS about validation document
  
   - Two forms that aren’t launched (8940, 4192 (ticket already created) 
     - Change title of chapters
