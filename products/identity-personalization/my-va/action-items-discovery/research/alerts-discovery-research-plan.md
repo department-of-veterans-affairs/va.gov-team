@@ -46,8 +46,8 @@ In many past user interviews, users have expressed the importance of having rele
 
 - We will be running remote moderated usability testing via Zoom on mobile using the Perigean contract.
 
-- We will conduct an initial card sort exercise. We will use Mural to help the Veteran sort which notifications are highest priority. The moderator (Tressa) will manage all the interactions on Mural, since we think Veterans might have trouble navigating this tool themselves.  
-- This will be followed by a qualitative interview, using a prototype in UX-pin.
+- We will conduct an initial [card sort exercise](https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646). We will use Mural to help the Veteran sort which notifications are highest priority. The moderator (Tressa) will manage all the interactions on Mural, since we think Veterans might have trouble navigating this tool themselves.  
+- This will be followed by a qualitative interview, using a [prototype in UX-pin.](https://app.uxpin.com/edit/8893671#?id_page=140666348)
 
 ## Participants and Recruitment
 
@@ -132,6 +132,7 @@ August 10
 ## Resources
 * [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery)
 * [Mobile Prototype](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348)
-* [Conversation Guide]()
+* [Card sort template](https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646)
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-conversation-guide.md)
 * Research Findings
 
