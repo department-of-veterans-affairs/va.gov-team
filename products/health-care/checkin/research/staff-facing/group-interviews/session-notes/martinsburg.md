@@ -1,4 +1,4 @@
-# Martinsburg staff-facing research
+# Martinsburg staff-facing research: Teams meeting on August 5, 2021
 
 ## Opening question from Martinsburg  
 - Participant 1 - Have you involved Veterans in this process?
