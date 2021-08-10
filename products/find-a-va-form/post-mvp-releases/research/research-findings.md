@@ -123,9 +123,7 @@ Each participant saw one of three versions of the Find a Form page:
 
 A few participants were asked by the moderator to look at the instructions on the R&S page. One skimmed them and decided nothing was applicable. Another participant was puzzled about needing to use Adobe Acrobat, which they knew they didn't have installed on their (Mac) computer. This participant didn't click on the "Get Acrobat Reader for free from Adobe" link but instead said they would do some research on how to download the latest version of Acrobat. 
 
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
+Keywords: alert boxes, instructions
 
 
 ### 2. *Download VA form* link opened forms in web browser
@@ -134,9 +132,7 @@ The *Download VA form* link should download the PDF form so it's easy to open in
 
 The other **9 of 11 participants saw the form open in a web browser or it failed to open at all**, and they they had extra steps to get the form into Acrobat (see the top row of steps in the diagram below). These steps were difficult for many participants due to a variety of technical issues, which are documented per step in the next detailed finding.
 
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
+Keywords: forms, download
 
 > "Can I fill it out here, or do I need to open it separately?" (p11).
 
@@ -203,15 +199,6 @@ Unique technical issues were encountered in every session, which will be discuss
 - Two participants opened File Manager, right-clicked on the file to open, and selected Adobe Acrobat Reader. (SUCCESS!)
 - One participant needed help downloading Adobe Acrobat and using it to open the form. For the next form, they needed help again. For the third form, they remembered the process themselves.
 
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-<br>
 
 ### Issues with filling out the form
 - One participant using a Mac was able to fill out the forms in Safari and Preview, but the fillable fields weren't shaded until they moused over them, so it was difficult to know what to fill out. This problem was resolved when the forms were opened in Adobe Acrobat.
@@ -230,6 +217,8 @@ There were many accessibility issues with the PDF forms encountered by the 4 scr
 One participant was surprised to see the digital signature, which they recognized from having set it up previously for a school form and readily used it.
 > "The first time I had to create a digital ID in Acrobat, I had to trust what was going on. I didn't think would ever need it again so I was surprised to see it. So more than one-time use--not use once and throw away" (p8).
 
+Keywords: forms, download, digital signature
+
 <br>
 
 ## Accessibility-Related Issues that affected screen reader users
@@ -237,13 +226,7 @@ One participant was surprised to see the digital signature, which they recognize
 ### 1. Digital signature field invisible 
 Participants using a screen reader were unable to digitally sign because screen readers (e.g., JAWS) didn't announce any place to sign. The signature field wasn't an editable field or a button, and there wasn't a label on the field. 
 
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+Keywords: forms, digital signature
 
 ### 2. Form fields difficult to fill out 
 **Screen reader users found it challenging to fill out the forms in Adobe Acrobat because of missing field labels, incorrect tab order, and multiple input fields under one label.**
@@ -254,20 +237,12 @@ Components & Patterns: keyword 1, keyword 2
 - In form 10-0003k, there was an unlabled Edit box next to the VANEEP field, which a participant didn't understand.
 - In forms 20-0995 and 10-2850c, the tab order of fields didn't follow the visual layout and logical organization of the forms. This was noticed by 2 sighted participants.
 
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+Keywords: forms, accessibility
 
 ### 3. Find a Form search results hard to scan 
 There was no heading for each Find a Form search result, and so participants had to tab down 6 lines through each search result in order to see the next one.
 
-Accessibility: keyword 1, keyword 2 
-
-Components & Patterns: keyword 1, keyword 2 
+Keywords: search results, headings, accessibility
 
 <br>
 
@@ -331,16 +306,6 @@ None at this time
 ## Pages and applications used
 
 [Find a Form on Staging](https://staging.va.gov/find-forms/)
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-None
 
 
 ## Who we talked to 
