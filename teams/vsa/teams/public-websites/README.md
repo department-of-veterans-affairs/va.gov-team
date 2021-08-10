@@ -23,13 +23,13 @@ Unauthenticated Experience for VA.gov
 - Campaign Landing Pages 
 
 ### Product Initiatives:
-- Home Page 
--	Header / Footer 
--	Redirect Benefit Hubs 2.0 
-- How to Apply Wizards - Benefit Hubs 2.0
--	Contact Us/ Help Utility
-- Metrics - baseline and goals
-- Content / IA 
+- Home Page (including Alert Banner)
+- Site Navigation (Header, Left Hand, Footer)
+- Benefit Hubs
+- Outreach & Events Hub and Calender
+- Resources & Support
+- Campaign Landing Page
+- Contact Us / Help Utility
 
 
 ### Responsibilities (Problem space and user goals):
