@@ -85,12 +85,12 @@ Recruit for 5 fulfilled sessions using the following criteria:
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| June X | 9 AM to 5 PM |
-| June X  | N/A |
-| June X  | 9 AM to Noon |
-| June X  | 9 AM to 5 PM |
-| June X  | 9 AM to Noon |
-| June X  | 9 AM to 5 PM |
+| August 17  | 9:30 AM to 6 PM |
+| August 18  | 11:30 AM to 2:00 PM or 4:00 PM to 6 PM |
+| August 19  | 9:30 AM to 6 PM |
+| August 20  | 9:30 AM to 6 PM |
+| August 23  | 9:30 AM to 6 PM |
+| August 24  | 9:30 AM to 12:30 PM or 4:30 PM to 6 PM|
 
 - Schedule sessions as 30-minute blocks
 - Please leave at least 30 minutes between sessions 
