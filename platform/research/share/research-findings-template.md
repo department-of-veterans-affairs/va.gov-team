@@ -102,7 +102,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 Accessibility: keyword 1, keyword 2 
 
-Components & Patterns: keyword 1, keyword 2 
+Design system components & patterns: keyword 1, keyword 2 
 
 Brief description
 
@@ -115,7 +115,7 @@ Brief description
 
 Accessibility: keyword 1, keyword 2 
 
-Components & Patterns: keyword 1, keyword 2 
+Design system components & patterns: keyword 1, keyword 2
 
 Brief description
 
@@ -128,7 +128,7 @@ Brief description
 
 Accessibility: keyword 1, keyword 2 
 
-Components & Patterns: keyword 1, keyword 2 
+Design system components & patterns: keyword 1, keyword 2 
 
 Brief description
 
