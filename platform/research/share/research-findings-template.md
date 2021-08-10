@@ -61,7 +61,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-report.md#hypotheses)_
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
 _Hypothesis statement_
 
