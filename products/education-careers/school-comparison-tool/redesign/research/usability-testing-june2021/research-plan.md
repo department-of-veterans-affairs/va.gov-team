@@ -115,7 +115,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 - Convo Guide	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/usability-testing-june2021/discussion-guide.md	
 - Synthesis	
-https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1623780668827/7720e9acd7f8c80fcb293c2462916a1370a53001 	
+https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1623780668827/7720e9acd7f8c80fcb293c2462916a1370a53001?sender=jonesjennifer26349 	
 - Lessons Learned	
 *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
