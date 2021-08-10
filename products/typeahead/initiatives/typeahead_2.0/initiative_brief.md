@@ -1,4 +1,4 @@
-# Initiative Brief : Typeahead 2.0 (WIP)
+# Initiative Brief : Typeahead 2.0 
 #### Overview
 
 
