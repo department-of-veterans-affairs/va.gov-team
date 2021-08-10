@@ -28,24 +28,24 @@ There are a few things I need to mention before we start:
 * (Start recording) OK now, do I have your permission to record this session?
 
 ## Warm-up
-* Would you tell us a little bit about yourself? Your service experience, where you live, general experiences with the VA...
+* Please tell me a little about yourself.  (Your service experience, where you live, general experiences with the VA...)
 * Have you used eBenefits to make changes to your dependents?
 * (If user has disability rating) Would you mind telling us what your disability rating is?
 * How often do you visit the eBenefits site? How about VA.gov?
 
-We'll be looking at two scenarios today -- both will involve dependents. Since this is just testing, so we'll be using a test account with made-up data. 
+We'll be looking at two scenarios today -- both will involve dependents. Since this is just testing, we'll be using a test account with made-up data. 
 
 * Now we're ready to start. OK, now could you share your screen with us? There should be a green button at the bottom of your Zoom screen that says "Share Screen." 
 * **Just click that, select your screen, and hit share.**
 
 ## Verify dependents scenario 
-For the first task, imagine that you have three dependents -- a spouse and two children (We'll need to confirm static info in staging). You're on VA.gov to get some info about dependents benefits.
+For the first task, imagine that you have two dependents -- a spouse and one child. You're on VA.gov to get some info about dependents benefits.
 
 ### Task 1 / Sign-in / 5 minutes 
-User is given a link to a starting page in the VA.gov staging environment. 
-* Now I have a link in chat to the page we're starting on; **please click on it.** (Clicks on link to landing page)
-* To be able to see dependents information, you'll have to log in. I put the username and password in the chat -- **use these to sign-in.** For this scenario, you're (supply username).
-* Find the View Dependents button and **click on it.**
+User is given a link to a starting page in the VA.gov staging environment and log in info for test user 108. 
+* Now I have put a link to the page we're starting on in the chat; **please click on it.** (Clicks on link to landing page)
+* To be able to see dependents' information, you'll have to log in. I put the username and password in the chat -- **use these to sign-in.** For this scenario, your name is Morris.
+* If you want  **click on it.**
 
 ### Task 2 / Review dependents / 5 minutes 
 Modal intercepts user.
