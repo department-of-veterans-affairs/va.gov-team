@@ -54,7 +54,7 @@ Unauthenticated Experience for VA.gov
 |DSVA Product Owner     |John Hashimoto                      |<img width="200" alt="John Hashimoto" src="https://user-images.githubusercontent.com/70410912/122793443-74a7e200-d278-11eb-8404-7685852ff08a.png">|
 |Sr Product Manager     |Brian Lloyd                         |<img width="200" alt="Brian Lloyd" src="https://user-images.githubusercontent.com/70410912/122794199-39f27980-d279-11eb-90c7-e3d2520474b3.png">| 
 |Front End Engineer     |Kelson Adams                       |<img width="200" alt="Kelson Adams" src="https://user-images.githubusercontent.com/70410912/122794450-8342c900-d279-11eb-9de4-37ecdd866cfe.png">|
-|Front End Engineer     |Ryan Leahy                       |Picture Pending |
+|Front End Engineer     |Ryan Leahy                       |<img width="200" alt="Screen Shot 2021-08-10 at 3 36 15 PM" src="https://user-images.githubusercontent.com/70410912/128938307-5df13004-3d55-4fe4-b8f6-b789aac88126.png">|
 |Design       |Cassandra Allen         |<img width="200" alt="Cassandra Allen" src="https://user-images.githubusercontent.com/70410912/122793681-b8025080-d278-11eb-8a9f-11f75e296e03.png">|
 |Research     |Cindy Merrill         |<img width="200" alt="Cindy Merrill" src="https://user-images.githubusercontent.com/70410912/122793757-cbadb700-d278-11eb-8ac8-ac0f521fd7fc.png">|
 
