@@ -102,7 +102,7 @@ Each participant saw one of three versions of the Find a Form page:
 
     1. The 3 participants who were using iOS **mobile devices were unable to fill out the PDF forms because they require a version of Adobe Acrobat only available on Windows or MacOS**. Subsequent testing showed that Android phones are similarly unable to fill out the PDF forms.
 
-    1. Three of the Mac and iOS users were **surprised and annoyed when they heard that you have to use Adobe Acrobat**, which is generally not used on Apple platforms.
+    1. Three of the 5 Apple users were **surprised and annoyed when they heard that you have to use Adobe Acrobat**, which is generally not used on Apple platforms.
 
 ## Accessibility-Related Issues
 
@@ -119,7 +119,7 @@ Each participant saw one of three versions of the Find a Form page:
 
 ### 1. Most participants ignored the instructions provided
 
-9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more. Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore or skip them.
+**9 of 11 participants ignored or skipped over the instructions and didn't click on the link to learn more.** Two participants (both screen reader users) mentioned  the instructions, but only one of them clicked on the link to learn more. The one who clicked saw the version with the repeated instructions in light blue boxes, and the one who didn't click saw the version with the repeated instructions in gray help text. The two other screen reader users in the study didn't let the screen reader read the full line and just moved ahead to the next line. None of the sighted participants said anything about the instructions and so appeared to ignore or skip them.
 
 A few participants were asked by the moderator to look at the instructions on the R&S page. One skimmed them and decided nothing was applicable. Another participant was puzzled about needing to use Adobe Acrobat, which they knew they didn't have installed on their (Mac) computer. This participant didn't click on the "Get Acrobat Reader for free from Adobe" link but instead said they would do some research on how to download the latest version of Acrobat. 
 
@@ -149,7 +149,7 @@ Components & Patterns: keyword 1, keyword 2
 
 ### 3. Most participants were unable to fill out and digitally sign *any* of the forms without help
 
-9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided. Several participants were technically savvy, and they had issues just as participants who were less experienced with technology. Only 2 participants were able to download and fill out *any* of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opened PDFs by default on their device.
+**9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided.** Several participants were technically savvy, and they had issues just as participants who were less experienced with technology. Only 2 participants were able to download and fill out *any* of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opened PDFs by default on their device.
 
 Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck (see diagram above). Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology.
 
@@ -159,32 +159,36 @@ Unique technical issues were encountered in every session, which will be discuss
 
 **Most participants (8 of 11) had difficulty downloading the file from the web browser to their device**. How the file was downloaded and whether any fields had been filled out before it was downloaded affected whether the file was fillable in Acrobat. 
 
-- One participant using Firefox tried "Save Page As" and then opened the file in Acrobat, but the form was no longer fillable. With prompting from the moderator, the participant found the download button in the top right of the browser window.
-- In Safari on iOS, you have to use the *Share* button and share it to Adobe, which wasn't intuitive. Participants using Safari on a Mac tried saving the file but not downloading it, which opens a non-editable version in the Preview application. Another participant did Export as PDF. The forms weren't editable until they installed Adobe Acrobat.
-- In Chrome on Windows, one participant started filling out the form. Then they clicked the download button and selected "with your changes". On one form (10-2850c), this didn't save the information they had already entered. On a different form (20-0995), the downloaded version wasn't fillable in Acrobat. Then they tried right-clicking on the *Download VA form* link and selecting "save link", but this didn't work either. The only way to download the form so it remained fillable was to **use the download button in the browser without after not filling out anything in the form**. Another participant clicked on the *Download VA form* link and then Keep > Open with system viewer, and this version could be opened in Acrobat and filled out. Other participants using Chrome didn't know how to save the file. 
-- In Edge on Windows, one participant used the Save button in the browser, but the saved version isn't fillable in Acrobat. Then they tried Print > Save as PDF, and this file, too, wasn't fillable in Acrobat. Next they tried Download > Show in folder > right-click to open with Acrobat, and still not fillable. They tried right-click to open with Edge, which resulted in a fillable PDF but without the digital signature. They also tried right-clicking on the *Download VA form* link, and that wasn't fillable. Finally what worked was **right-clicking on the *Download VA form* link and choosing *Save link as***; this was fillable, but it was missing the visual indicators (shading) for the fillable fields.
-- Two of the forms (10-0003k and 20-0968) displayed for some participants an error message in the browser instead of the form itself: "Please wait...If this message is not automatically replaced by the proper contents of the document, your PDF viewer may not be able to display this type of document." Different participants had different reactions to this error message, which was confusing:
+- One participant using Firefox tried *Save Page As* and then opened the file in Acrobat, but the form was no longer fillable. With prompting from the moderator, the participant found the download button in the top right of the browser window.
+- In Safari on iOS, you have to use the *Share* button and share it to Adobe, which wasn't intuitive. Participants using Safari on a Mac tried saving the file but not downloading it, which opens a non-editable version in the Preview application. Another participant did *Export as PDF*. The forms weren't editable until they installed Adobe Acrobat.
+- In Chrome on Windows, one participant started filling out the form. Then they clicked the download button and selected *with your changes*. On one form (10-2850c), this didn't save the information they had already entered. On a different form (20-0995), the downloaded version wasn't fillable in Acrobat. Then they tried right-clicking on the *Download VA form* link and selecting *save link*, but this didn't work either. The only way to download the form so it remained fillable was to **use the download button in the browser *before filling out* anything in the form**. Another participant clicked on the *Download VA form* link and then *Keep* > *Open with system viewer*, and this version could be opened in Acrobat and filled out. Other participants using Chrome didn't know how to save the file. 
+- In Edge on Windows, one participant used the *Save* button in the browser, but the saved version wasn't fillable in Acrobat. Then they tried *Print* > *Save as PDF*, and this file, too, wasn't fillable in Acrobat. Next they tried *Download* > *Show in folder* > right-click to open with Acrobat, and still not fillable. They tried right-click to open with Edge, which resulted in a fillable PDF but without the digital signature. They also tried right-clicking on the *Download VA form* link, and that wasn't fillable. Finally what worked was **right-clicking on the *Download VA form* link and choosing *Save link as***; this was fillable, but it was missing the visual indicators (shading) for the fillable fields, which made it more difficult to figure out where to type.
+- **Two of the forms (10-0003k and 20-0968) displayed for some participants an error message in the browser instead of the form itself**: "Please wait...If this message is not automatically replaced by the proper contents of the document, your PDF viewer may not be able to display this type of document." Different participants had different reactions to this error message, which was confusing:
    - Thought the form was downloading (but it was not)
-   - Thought their computer needed upgrading (vs. only Acrobat, which they weren't familiar with)
+   - Thought their computer needed upgrading (*vs.* only Acrobat, which they weren't familiar with)
    - Liked that the message told them to open the file in Adobe
    - Thought they could download the file instead but didn't know how to do that
    - Downloaded the file in spite of the error (from Edge)
    - Didn't notice the message because their screen reader didn't say anything to announce it
- - A number of participants said that if they couldn't get the form, they would try something else (e.g., work computer, ask a friend or family member to help or print the form, go to the library or local VA to get the form) before giving up.
+ - A number of participants said that if they couldn't get the form, they would try something else (e.g., work computer, ask a friend or family member to help or print the form for them, go to the library or local VA to get the form) before giving up.
 
 > "Frustrating to have some forms open and some not" (p12). 
+
 > "Would be nice if you could download the form directly into Adobe...it would be faster" (p7).
 
 ### Issues with downloading Adobe Acrobat Reader to user's device
-- Three Mac/iOS users were surprised and annoyed that you have to use Adobe Acrobat to open VA forms.
-- Two participants asked if the VA will be requiring Adobe Acrobat to open forms.
-- The three participants using iOS mobile devices found out that the **Adobe software required to fill out VA forms (Adobe Acrobat Reader DC for Mac or Windows) isn't available for mobile devices**. When they searched for Adobe Acrobat, they found only "Adobe Acrobat Reader PDF Maker", which wasn't the app required. 
+
+- The 3 participants using iOS mobile devices found out that the **Adobe software required to fill out VA forms (Adobe Acrobat Reader DC for Mac or Windows) isn't available for mobile devices**. When they searched for Adobe Acrobat, they found only "Adobe Acrobat Reader PDF Maker", which wasn't the app required. 
 - Two participants had a really hard time installing Adobe Acrobat on their computer. 
-  - One was on Windows, where the download and install took a long time (about 6 minutes), which perhaps is partially because McAfee Security Scan Plus and McAfee Safe Connect are also installed by default (unless you un-check the option at the beginning of the install). 
-  - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit and then started it again. The install again looked stuck but finally finished after 15 minutes.
+  - One was on Windows, where the download and installation took a long time (about 6 minutes), which perhaps is partially because McAfee Security Scan Plus and McAfee Safe Connect are also installed by default (unless you un-check the option at the beginning of the install). 
+  - One was on a Mac running Big Sur. The installation's progress bar stopped moving and looked stuck, and so the participant force quit the install and then started it again. The install again looked stuck but finally finished after 15 minutes.
+- Two participants asked if the VA will be requiring Adobe Acrobat to open forms.
+- **Three Apple users were surprised and annoyed that they had to use Adobe Acrobat** to open VA forms.
 
 > "I’ve never come across a document that is highly recommended to use Acrobat Reader for. It makes it seem like I HAVE to download it and use that. I used to use it when I was sighted, but I’ve never used it when visually impaired" (p5, who has been using a screen reader for the last 6 years).
+
 > "It is a pain that you have to use Adobe for some of the forms...I am getting a third master’s degree and I have not needed Adobe up until this point. I have been able to fill out all forms in Safari until today" (p12).
+
 > "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac" (p2).
 
 
@@ -192,11 +196,11 @@ Unique technical issues were encountered in every session, which will be discuss
 - Two iOS users didn't know how to find files they downloaded.
 
 ### Issues with opening the file in Acrobat
-- When the 3 iOS users tried to open a downloaded form in Adobe Acrobat version they were able to install on their devices, they saw the error message "This form requires Adobe Acrobat Reader DC for Mac or Windows", indicating that it only works with a *desktop* version of Adobe Acrobat. The regular Adobe Reader mobile app opens files in read-only mode if it is able to open them at all, but doesn't make the forms fillable. One user tapped on the pencil icon to fill out the form, and they got an error about it being a Protected document. Subsequent testing showed that fillable PDFs don't  work on Android phones either.
+- When the 3 iOS users tried to open a downloaded form in the Adobe Acrobat version they were able to install on their devices, they saw the error message **"This form requires Adobe Acrobat Reader DC for Mac or Windows", indicating that it only works with a *desktop* version of Adobe Acrobat.** The regular Adobe Reader mobile app opens files in read-only mode if it is able to open them at all, but doesn't make the forms fillable. One participant tapped on the pencil icon to fill out the form, and they got an error about it being a Protected document. Subsequent testing showed that fillable PDFs don't work on Android phones either.
 - Two participants downloaded forms from Chrome, and the files opened in Edge, presumably because Edge is the default application to open PDF files.  
-- When two participants clicked the downloaded files shown at the bottom of their browser, the files opened in the browser. In order to get them in Acrobat, they launched Acrobat and opened the files from there.
+- When two participants clicked the downloaded files shown at the bottom of their browser, the files opened in the browser. In order to get them into Acrobat, they had to launch Acrobat and opened the files from there.
 - When two participants opened files from inside Acrobat, they were prompted to set Acrobat Reader as their default for PDF files. They both appeared to not read the details in the prompt shown and simply declined. 
-- Two participants opened File Manager, right-clicked on the file to open, and selected Adobe Acrobat Reader.
+- Two participants opened File Manager, right-clicked on the file to open, and selected Adobe Acrobat Reader. (SUCCESS!)
 - One participant needed help downloading Adobe Acrobat and using it to open the form. For the next form, they needed help again. For the third form, they remembered the process themselves.
 
 Accessibility: keyword 1, keyword 2 
@@ -210,19 +214,20 @@ Components & Patterns: keyword 1, keyword 2
 <br>
 
 ### Issues with filling out the form
-One participant was able to fill out the forms in Safari and Preview, but the fillable fields weren't shaded until they moused over them, so it was difficult to know what to fill out. This problem was resolved when the forms were opened in Adobe Acrobat.
+- One participant using a Mac was able to fill out the forms in Safari and Preview, but the fillable fields weren't shaded until they moused over them, so it was difficult to know what to fill out. This problem was resolved when the forms were opened in Adobe Acrobat.
 
-Another participant called out how different the forms were from each other.
+- Another participant called out how different the forms were from each other.
 > "The lack of standardization in the forms. That is such a big thing for us in the military...Standardizing these forms would mean that every form has the same outline and things are done in the same way. There should be common instructions that you can give for all forms. Any specific instructions for the particular form would be on the page where the form is" (p12).
 
-There were many accessibility issues with the PDF forms encountered by the 4 screen reader users, which will be detailed in the Assessibility section below. 
+There were many accessibility issues with the PDF forms encountered by the 4 screen reader users, which will be detailed in the Assessibility-Related Issues section below. 
 
 ### Issues with digitally signing the form
-Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it. 
-- 3 participants signed in a non-digital way in Edge by using the Draw tool to sign their name.
-- 1 participant couldn't sign form 10-2850c in Preview because there was a big "X" in the signature box. They said that they would print the form and sign below the "X".
-- When one participant saw the digital signature field prompt open up in Acrobat, they dismissed it and then clicked the "Fill & Sign" button at the top to add her drawn signature. She repeated these steps in each signature field. (This doesn't digitally sign the form.)
-- 1 participant was surprised to see the digital signature, which she recognized from having set it up previously for a school form and readily used it
+**Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it.** 
+- 3 participants signed in a non-digital way in Edge by using the *Draw* tool to sign their name.
+- 1 participant couldn't sign form 10-2850c in Preview because there was a big "X" in the signature box. They said that they would print the form and sign below the "X". (This won't digitally sign the form.)
+- When one participant saw the digital signature field prompt open up in Acrobat, they dismissed it and then clicked the *Fill & Sign* button at the top to add her drawn signature. She repeated these steps in each signature field. (This doesn't digitally sign the form.)
+
+One participant was surprised to see the digital signature, which they recognized from having set it up previously for a school form and readily used it.
 > "The first time I had to create a digital ID in Acrobat, I had to trust what was going on. I didn't think would ever need it again so I was surprised to see it. So more than one-time use--not use once and throw away" (p8).
 
 <br>
@@ -241,13 +246,13 @@ Components & Patterns: keyword 1, keyword 2
 > _Supporting data: Quote here_
 
 ### 2. Form fields difficult to fill out 
-Screen reader users found it challenging to fill out the forms in Adobe Acrobat because of missing field labels, incorrect tab order, and multiple input fields under one label.
-- One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant started. Later, JAWS stopped reading onything on one of the forms, and the accessibility specialist advised her to quit Adobe Acrobat and then come back in. Later when asked where to sign, this participant expected to find that near a "Submit" button (like on web forms, which are familiar to her). 
+**Screen reader users found it challenging to fill out the forms in Adobe Acrobat because of missing field labels, incorrect tab order, and multiple input fields under one label.**
+- One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant was able to get started. Later, JAWS stopped reading one of the forms, and the accessibility specialist advised her to quit Adobe Acrobat and then come back in. Later when asked where to sign, this participant expected to find that near a *Submit* button (as on web forms, which were familiar to them). 
 - Another participant expected the form to not be accessible because their screen reader didn't say anything to describe it. They tabbed through the form to look at it.
 - Another participant remarked that they always have trouble filling out forms in PDFs because they're not accessible. 
-- In form 10-2850c, one field was announced as ""name last first middle" all run together, which participant had difficulty filling out correctly. It would be easier to understand if this field were split into 3 separate fields (last name, first name, and middle name), each with its own label.
+- In form 10-2850c, one field was announced as "name last first middle" all run together, which participants had difficulty filling out correctly. It would be easier to understand if this field were split into 3 separate fields (last name, first name, and middle name), each with its own label.
 - In form 10-0003k, there was an unlabled Edit box next to the VANEEP field, which a participant didn't understand.
-- In forms 20-0995 and 10-2850c, the tab order of fields doesn't follow the visual layout and logical organization of the forms. This was noticed by 2 sighted participants.
+- In forms 20-0995 and 10-2850c, the tab order of fields didn't follow the visual layout and logical organization of the forms. This was noticed by 2 sighted participants.
 
 Accessibility: keyword 1, keyword 2 
 
@@ -276,22 +281,22 @@ Components & Patterns: keyword 1, keyword 2
 - See date when form was last updated
 
 ### Dislikes
-- Find a Form search could work better (e.g., "job" and "career" didn't return the healthcare job application but "health jobs" did).
-- Form 10-2850c was last updated in 2016 (10-2850c)--"Seems a little old" (p9).
+- Find a Form search could work better (e.g., search queries "job" and "career" didn't return the healthcare job application but "health jobs" did).
+- Form 10-2850c was last updated in 2016 (10-2850c).
+> "Seems a little old" (p9).
 - Missing "When to use this form" section (on form detail page) for form 20-0968.
 
 # Recommendations
 
-1. Encourage VA form owners to replace fillable PDF VA forms with a more accessible format. Best would be HTML/web forms because they can be accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
-    * Fillable PDF forms that require a desktop version of Adobe Acrobat are problematic for many people, as evidenced by the findings above.
+1. **Encourage VA form owners to replace every fillable PDF VA form with a more accessible format.** Best would be HTML/web forms because they can be accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
     
-1. Since fillable PDF forms will continue to exist at least in the near term, add instructions above each download link--even though most people won't read them because a few might. If we want more users to see them, consider making them more visible visually, though users may skip them if they're focused on finding a download link.
-    1. Add the instructions to the form detail pages, in addition to the form search results page where we tested. Consider adding that you have to be on a computer to fill out the form.
+1. Since fillable PDF forms will continue to exist at least in the near term, **add instructions above each download link**--even though most people won't read them because a few might. If we want more users to see the instructions, consider making them more visible visually, though users may still skip them if they're focused on finding a download link.
+    1. **Add the instructions to the form detail pages** (as currently planned), in addition to the form search results page where we tested. Consider also adding that **you must be on a computer to fill out the form**.
     1. Consider adding detailed platform-specific instructions (e.g., mobile/desktop, Windows/Mac, Chrome/Edge/Safari/Firefox) to the R&S article. We need to be clear that mobile devices can't be used to fill out the forms online and provide alternate instructions (i.e., use a computer with Adobe Acrobat Reader to fill out the form, or print the form and fill it out on paper). Here is an example of such instructions: https://portal.ct.gov/DEEP/About/Tips-for-Viewing-and-Using-Fillable-PDFs.
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it isn't overlooked after reading the steps).
-1. On the Find a Form search results page, add an H3 heading above each search result to enable easy scanning down the list of search results.
-1. Fix the accessibility problems encountered in these forms.
+1. On the Find a Form search results page, **add an H3 heading above each search result** to enable easy scanning down the list of search results.
+1. **Encourage VA form owners to fix the accessibility problems encountered in these forms**.
     1. All digital signature fields need a label (e.g., "signature button") or some indication of how to find it and what to do.
     2. Every fillable field needs its own label
         1. In form 10-0003k, there was an unlabeled Edit box next to the VANEEP field.  
@@ -301,13 +306,12 @@ Components & Patterns: keyword 1, keyword 2
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+Share findings and recommendations with the Decision Tools team. 
 
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+None at this time
 
 # Appendix
 
@@ -315,7 +319,7 @@ _If there are demographics that were not included in this study or you discovere
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview notes](link here)
 
 
 ## Tools used for Synthesis
@@ -336,9 +340,7 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+None
 
 
 ## Who we talked to 
@@ -409,5 +411,7 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * LGBTQ+
 * AT other than screen readers
+
+<br>
 
 ![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/recruitment-checker.png)
