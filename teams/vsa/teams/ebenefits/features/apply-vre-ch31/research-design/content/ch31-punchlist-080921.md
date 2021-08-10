@@ -20,18 +20,17 @@
 - [ ] Lower-case the "R" in "Review"
 
 ## Wizard
-- [ ] Intro copy is different from both mocks and prototype; Use content from XD Orientation mocks
+- [ ] Intro (Wizard state) copy is different from both mocks and prototype; use content from XD Orientation mocks
 - [ ] Orientation shows when “Neither” option is selected; the user needs to be a Veteran or service member to continue
-- [ ] Orientation shows when “Neither” option is selected; I think the user needs to be a Veteran or service member to continue
 - [ ] 2A. Other “no” responses also reveal the Orientation module; should we encourage “No” respondents to continue?
 - [ ] Orientation continues to show when user backs-up to change response.
-- [ ] Spacing issues throughout
-- [ ] Card is oddly formatted with action link
+- [ ] Padding/margin issues throughout; refer to mocks
+- [ ] Card is oddly formatted with action link; refer to mocks
 - [ ] 5A. Should “Apply online…” text say “Apply fo Veterans…” like the second action link?
 - [ ] Where did “Slide” numbers come from?
-- [ ] “Orientation” sits on top of each panel… ?
+- [ ] “Orientation” sits on top of each panel… 
 - [ ] Date styling on slide 2
-- [ ] Lower-case the “T” on slides 5, 6, 7, 8, 9
+- [ ] Lower-case the “T” on slides 5, 6, 7, 8, 9 (Be sure of sentence case throughout)
 - [ ] Agree that there should be a “done” panel/slide
 - [ ] Cap “Only if different…”?
 - [ ] Address block differences? “Street” vs. “Street address”; state/province/region?
