@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 6. Have you ever used the My VA page on VA.gov? What do you use it for? 
 7. How often do you go online to manage your benefits?
 
-## BACKGROUND AND QUESTIONS - 7 minutes
+## BACKGROUND AND QUESTIONS - 5 minutes
 
 Just a little bit of background before we start - we are working on building a central place for you to recieve any action items, updates or reminders on VA.gov. These could be anything related to health care, benefits or just general announcements. 
 
@@ -46,7 +46,7 @@ Just a little bit of background before we start - we are working on building a c
 3. What are some scenarios in your life would want a page like this? 
 4. Imagine that you do have new [USE THEIR WORD], how would you know? Where would you expect to see that on VA.gov? 
 
-## PROTOTYPE - 20 minutes 
+## PROTOTYPE - 25 minutes 
 
 Great, let's move on. We're now going to take a look at a prototype. I'll share a link with you, and go ahead and pull that up and share your screen with me. 
 
@@ -84,9 +84,9 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 Just a reminder - we are working with a prototype so it might not behave exactly how you expect. 
 
-## First task - Scenario - ?? minutes
+## First task - Scenario - 5 minutes
 
-I'm going to give you a scenario. You've just logged into VA.gov. Imagine you've been recieving money from the VA for your education, you expected a payment awhile back  - but you aren't sure if it was deposited or not. How would you check on that? 
+I'm going to give you a scenario. You've just logged into VA.gov. Imagine you've been recieving money from the VA for your education, you expected a payment this week  - but you aren't sure if it was deposited or not. How would you check on that? 
 
 *If users DID click on alerts, skip to the third task*
 
@@ -95,18 +95,13 @@ I'm going to give you a scenario. You've just logged into VA.gov. Imagine you've
 1. Why would you expect it to be in this section? 
 2. What are you looking for here? 
 
-Here is another scenario. Imagine you've been recently been going to a VA health care facility, and in your visit today, your doctor said he would send you a message about your results. How would you check for that message on VA.gov?
-
-1. Why would you expect it to be in this section? 
-2. What are you looking for here? 
-
-## Second task - My VA - ?? minutes
+## Second task - My VA - 7 minutes
 
 Let's go ahead and click on 'My VA'. I have another scenario for you. Imagine you have a health care appointment coming up, but you can't remember when. How would you check that on this page? 
 
 1. Why would you expect it to be in this section? 
 
-- Let's take an a look at the Alerts section on My VA. 
+- Let's take a look at the Alerts section on My VA. 
 
 1. What are your thoughts on this section?
 2. What would you expect to see this section on My VA?  
@@ -117,7 +112,7 @@ Let's go ahead and click on 'My VA'. I have another scenario for you. Imagine yo
 
 Go ahead and click on 'View all alerts.
 
-## Third task - Alerts - ?? minutes
+## Third task - Alerts - 10 minutes
 
 Go ahead and scroll through this page and walk me through what you're seeing here. 
 
@@ -130,16 +125,18 @@ Go ahead and scroll through this page and walk me through what you're seeing her
 
 Okay, great - any questions or thoughts before we move on?
 
-## Fourth task - Alerts indicator - ?? minutes
+*If users initially clicked on alerts, loop back to the second task*
+
+## Fourth task - Alerts indicator - 1 minute
 
 Go ahead and scroll to the top, and take a look at the 'Alerts' with the little bell and the red dot. 
 
 1. What does that mean to you?
-2. On VA.gov, how do you expect to be notified about new updates?
+2. What is confusing about this?
 
 Okay, great! That's it for the prototype, so we'll go ahead an move on to the next activity. 
 
-## CARD SORT - 20 minutes
+## CARD SORT - 20 minutes (or remaining time)
 
 - Okay, great. Let's go ahead and get started - **I'll start with sharing my screen.**  
 
@@ -176,11 +173,8 @@ We'll make three columns: High, Medium, and Low priority.
 3. Do you think you would or would not use these pages when you log in to VA.gov? Why?
     - if no: What would make this page more useful to you?
 
-## Thank-You and Closing - 2 minutes
+## Thank-You and Closing 
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
