@@ -75,11 +75,11 @@
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - e.g. testing, marketing, compliance requirements
 
-### Hypotheses & Prioritization
+### Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Scope
-> *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 --- 
 
