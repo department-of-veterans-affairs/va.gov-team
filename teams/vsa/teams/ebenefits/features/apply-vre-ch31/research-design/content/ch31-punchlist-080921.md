@@ -5,12 +5,35 @@
 
 ---
 
-## Punchlist
+## Introduction screen
+- [ ] **Confirm:** styling of info-box (Note: Since you’re signed in to your account...); should it have the info icon and different spacing?
+- [ ] Change green button text to: "Apply for Veteran Readiness and Employment"
+- [ ] **Confirm:** Should "If you're not sure this is the right form, you can go back and answer the questions again," link be included?
+- [ ] Change "To apply by mail" to H2
+- [ ] **Confirm** Formatting/spacing is off for "Department of Veterans Affairs" address block; match prototype
+- [ ] Use download link styling for "Download VA Form 28-1900 (PDF)"
+- [ ] Be sure of sentence case throughout
 
-### Introduction screen
-- [ ] Confirm styling of info-box (Note: Since you’re signed in to your account...); should it have the info icon and different spacing?
-- [ ] Change green button text to; "Apply for Veteran Readiness and Employment"
-- [ ] In subway map, change first sentence under (1) Prepare to: "When you apply, be sure to have these on hand:"
+### Subway map
+- [ ] Change first sentence under (1) Prepare to: "When you apply, be sure to have these on hand:"
+- [ ] **Confirm:** Change "Prepare, Apply, VA review..". headers to H3 (20px) 
+- [ ] Lower-case the "R" in "Review"
+
+### Wizard
+- [ ] 
+
+## Form
+- [ ] **Confirm:** Contact info for "Need help?" section above footer
+- [ ] Change first chapter title to: "Step 1 of 4:  Applicant information"
+- [ ] **Confirm:** Vertical positioning of "Finish this application later;" above or below buttons?
+- [ ] Add copy above address fields per prototype, starting with: "Mailing address"
+- [ ] Move "(Required)" to immediately after, "Are you moving in the next 30 days?"
+- [ ] Position "(*Choose at least 1)" immediately after: "When is the best time for you to meet with your  counselor?"
+- [ ] Lower-case "I" in: "Applicant information" (Be sure of sentence case throughout)
+- [ ] Lower-case "I" in: "Additional information" (Be sure of sentence case throughout)
+- [ ] Lower-case "P" in: "Communication preferences" (Be sure of sentence case throughout)
+
+---
 
 - [ ] Intro copy is different from both mocks and prototype; The XD Orientation mocks have the latest
 - [ ] In the wizard, the Orientation shows when “Neither” option is selected; I think the user needs to be a Veteran or service member to continue
