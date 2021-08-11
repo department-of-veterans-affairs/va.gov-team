@@ -136,7 +136,7 @@ _(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up t
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
-* Tue, August 17, 1:30 - 2:30 p.m. ET
+* Tue, August 17, 2:00 - 3:00 p.m. ET
 
 ### Which member of the design team will you pilot your research with?
 
