@@ -275,7 +275,7 @@ Keywords: search results, headings, accessibility
         2. When crafting instructions, be aware some users (especially Mac users) may be unfamiliar with Adobe Acrobat or reluctant to use it.
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it's easy to see after reading the steps).
-1. On the Find a Form search results page, **add an H3 heading above each search result** to enable easy scanning down the list of search results.
+1. On the Find a Form search results page, **add an H3 heading above each search result** to enable easy scanning down the list of search results while using a screen reader.
 1. **Encourage VA form owners to fix the accessibility problems encountered in these forms**.
     1. All digital signature fields need a label (e.g., "signature button") or some indication of how to find it and what to do.
     2. Every fillable field needs its own label
