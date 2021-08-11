@@ -5,8 +5,8 @@
 
 ---
 ### Setup
+- Make sure modal will proc for both test users.
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
-- Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 - In the Attendees section, make sure everyone except the participant is on mute
 - In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
@@ -38,7 +38,7 @@ We'll be looking at two scenarios today -- both will involve dependents. Since t
 - Now we're ready to start. OK, now could you share your screen with us? There should be a green button at the bottom of your Zoom screen that says "Share Screen." 
 - **Just click that, select your screen, and hit share.**
 
-## Verify dependents scenario 
+## Scenario 1: Verify dependents 
 For the first task, imagine that you have two dependents -- a spouse and one child. You're on VA.gov to get some info about dependents benefits.
 
 ### Task 1 / Sign-in / 5 minutes 
@@ -49,60 +49,64 @@ User is given a link to a starting page in the VA.gov staging environment and lo
 
 ### Task 2 / Review dependents / 5 minutes 
 Modal intercepts user.
-* Tell me what you are thinking here.
-* Why do you think you're seeing this? 
-* Who are listed as your dependents?
+- 'observe reaction' If needed, prompt: Tell me what you are thinking here.
+- Why do you think you're seeing this? 
+- Who is listed as your dependents?
 
 #### Things to look for:
-* Do users recognize they’ve been intercepted by a modal?
-* Why do users think they are being asked to confirm their dependents?
-* What is the users’ perception of what the modal is telling them and what options are available?
-* What does the user expect to happen when they click the “verify this is correct” button?
+- Do users recognize they’ve been intercepted by a modal?
+- Why do users think they are being asked to confirm their dependents?
+- What is the users’ perception of what the modal is telling them and what options are available?
+- What does the user expect to happen when they click the “verify this is correct” button?
 
 ### Task 3 / Confirm dependents / 2 minutes
 For this scenario, your dependents should be Veronica Corningston and Quanily Ortiz. 
-* What other information would you need to confirm these are your dependents or not?
-* If the list of dependents is correct, what would you do next? Go ahead and do that.
+- 'observe reaction'
+- What other information would you need to confirm these are your dependents or not?
+- If the list of dependents is correct, what would you do next? Go ahead and do that.
 
 And now you've come to this page. What do you see here?
 
 #### Things to look for:
-* Does the user use the “Verify dependents” button or try to bypass the modal in another way?
-* What does the user expect to happen now?
+- Does the user use the “Verify dependents” button or try to bypass the modal in another way?
+- What does the user expect to happen now?
 
-## Update dependents scenario
-OK! Thank you. Now we'll go on to the next scenario.
+## Scenario 2: Update dependents
+OK! Thank you. Before we begin the next task, I need you to sign out of va.gov. Find your name (Morris) in the upper right, click on the drop-down, and select "sign out".
 
-This time, imagine that some time has passed, maybe a year or so. During the past year, you’ve had some life changes -- one child turned 18 and aged-out, and you adopted another child. It's been a while, but now you're back on VA.gov.
+Let's go on to the next scenario. This time, you are going to be Allan and you have one child, Margie. Margie has recently finished school and you want to remove her from your benefits.
 
 ### Task 1A / Back to start / 2 minutes 
-User is again given the link to the starting page in the VA.gov staging environment. 
-* If you can go back to the link in chat; **please click on it.** (Clicks on link to landing page)
+User is again given the link to the starting page in the VA.gov staging environment and credentials for test user 15. 
+- If you can go back to the link in chat; **please click on it.** (Clicks on link to landing page)
+- And, sign in with the username and password I just added to the chat.
+- You are back on VA.gov. Remove Margie from your list of dependents.
 
 #### Things to look for:
-* Do users identify the “add or remove dependents” button as a way to make updates?
-* Do users understand what could happen if their dependents are wrong?
+- Do users identify the “add or remove dependents” button as a way to make updates?
+- Do users understand what could happen if their dependents are wrong?
 
 ### Task 2A / Review dependents / 2 minutes
 Modal intercepts user.
-* Why do you think you're seeing this now?
-* How often do expect to see this?
-* After user clicks “Remove dependent” link: This is where we run into a feature we haven’t prototyped yet. What would you expect to happen now?
+- Why do you think you're seeing this now?
+- How often do expect to see this?
+- After user clicks “Remove dependent” link: This is where we run into a feature we haven’t prototyped yet. What would you expect to happen now?
  
 #### Things to look for:
-* Note: The link for this will not work
-* Does the user use the “add or remove dependents” button or try to bypass the modal in another way?
-* Does the user find the “remove dependent” link?
-* What do users expect will happen after they remove a dependent? 
+- Note: The link for this will not work
+- Does the user use the “add or remove dependents” button or try to bypass the modal in another way?
+- Does the user find the “remove dependent” link?
+- What do users expect will happen after they remove a dependent? 
 
+<!-- 
 ### Task 3A
 Add Taylor to your dependents
-* After user clicks “Add dependents to your VA benefits” action link: And this is the other feature that we haven’t prototyped out. What would you expect to happen here?
+- After user clicks “Add dependents to your VA benefits” action link: And this is the other feature that we haven’t prototyped out. What would you expect to happen here?
 
 #### Things to look for:
 * Note: The link for this will not work
 * Does the user find the “add dependent” button?
-* What do users expect will happen after they add a dependent? 
+* What do users expect will happen after they add a dependent? -->
 
 ## Final thoughts
 * If this were an actual application, what would expect to happen next?
