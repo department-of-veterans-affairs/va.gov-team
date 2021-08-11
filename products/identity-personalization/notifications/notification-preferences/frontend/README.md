@@ -49,6 +49,7 @@ Use prototype links above for latest versions of the prototype.
   -  radio input styling ([documentation](https://design.va.gov/components/form-controls#radio-buttons))
 - Our input messaging component is being proposed as an experimental design component, and should be used for the save, error, and warning messaging. It's made up of different aspects of the design system:
   - background-only alert, icons, form input validation message
+  - All states documented in [these specs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140847358/simulate/sitemap?mode=i)
 
 ## Content
 
@@ -148,6 +149,8 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 ## States
 
+All states documented in [these specs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140847358/simulate/sitemap?mode=i)
+
 ### User has not set a preference for a notification
 
 Use the input message pattern with a warning state
@@ -156,7 +159,7 @@ Use the input message pattern with a warning state
 
 > Select an option.
 
-Mock-up
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948765/simulate/sitemap?mode=i)
 
 ### Update in progress
 
