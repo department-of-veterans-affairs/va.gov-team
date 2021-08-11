@@ -115,6 +115,9 @@ Copy below `h1`:
 - Alert should reference the contact information that's missing
   - Mobile number or
   - Email address
+- Alert should be dismissible. 
+  - If user dismisses alert, don't show it again.
+  - Display the 
 - [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836904/simulate/sitemap?mode=i)
 
 #### Copy
@@ -134,6 +137,24 @@ Copy below `h1`:
 **Replace radio inputs with:**
 
 > Want to get these notifications by text message?  [Add your mobile number](/profile/personal-information)
+
+### User has notifications for which they have not made a selection
+
+Display warning alert immediately below `h1`
+
+#### Copy
+
+**Alert Heading:** 
+
+> **Select your notification options**
+
+**Alert Body:**
+
+> We’ve added notification options to your profile. Tell us how you’d like us to contact you.
+
+**Alert Link** (use [on this page jump link](https://design.va.gov/components/on-this-page-jump-links))
+
+> [Select your notification options](#appointment-reminder-notification) 
 
 ### User who is opted into notifications deletes their associated contact information
 
