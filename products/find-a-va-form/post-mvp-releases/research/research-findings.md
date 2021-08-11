@@ -229,13 +229,16 @@ Participants using a screen reader were unable to digitally sign because screen 
 Keywords: forms, digital signature
 
 ### 2. Form fields difficult to fill out 
-**Screen reader users found it challenging to fill out the forms in Adobe Acrobat because of missing field labels, incorrect tab order, and multiple input fields under one label.**
-- One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant was able to get started. Later, JAWS stopped reading one of the forms, and the accessibility specialist advised her to quit Adobe Acrobat and then come back in. Later when asked where to sign, this participant expected to find that near a *Submit* button (as on web forms, which were familiar to them). 
-- Another participant expected the form to not be accessible because their screen reader didn't say anything to describe it. They tabbed through the form to look at it.
-- Another participant remarked that they always have trouble filling out forms in PDFs because they're not accessible. 
+**Some screen reader users weren't happy about having to fill out the forms in Adobe Acrobat because of perceived lack of accessibility based on their past experiences with PDF fillable forms.**
+- One participant remarked that they always have trouble filling out forms in PDFs because they're not accessible. 
+- Another participant expected the form to not be accessible because their screen reader didn't say anything upfront to describe it. They tabbed through the form to look at it.
+
+**Screen reader users found it challenging to fill out these forms because of missing field labels, incorrect tab order, and multiple input fields under one label.**
 - In form 10-2850c, one field was announced as "name last first middle" all run together, which participants had difficulty filling out correctly. It would be easier to understand if this field were split into 3 separate fields (last name, first name, and middle name), each with its own label.
 - In form 10-0003k, there was an unlabled Edit box next to the VANEEP field, which a participant didn't understand.
 - In forms 20-0995 and 10-2850c, the tab order of fields didn't follow the visual layout and logical organization of the forms. This was noticed by 2 sighted participants.
+
+One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant was able to get started. Later, JAWS stopped reading one of the forms, and the accessibility specialist advised her to quit Adobe Acrobat and then come back in. Later when asked where to sign, this participant expected to find that near a *Submit* button (as on web forms, which were familiar to them). 
 
 Keywords: forms, accessibility
 
