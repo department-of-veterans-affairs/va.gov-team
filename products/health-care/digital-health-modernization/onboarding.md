@@ -314,6 +314,8 @@ The following are descriptions of what we believe would result in a coherent and
 - Lobby aggressively for all of VA.gov to be on the same first-tier support contract, including My HealtheVet; otherwise debugging issues and measuring customers' problems will be intractable (connect with the Identity team for history lessons on why this matters)
 - During transition, invest in high-quality publications of how-to guides for Veterans transitioning from Legacy MHV to "apartment" MHV; writing quality is higher in OCTO for this sort of thing and it will make it easier for us to sell transition to VSOs, MHV Coordinators, etc. if we can write a lot of the collateral for them
 
+--- 
+
 # Appendix
 [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
 
