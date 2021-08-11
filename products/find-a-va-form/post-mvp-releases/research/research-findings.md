@@ -272,7 +272,7 @@ Keywords: search results, headings, accessibility
     1. **Add the instructions to the form detail pages** (as currently planned), in addition to the form search results page where we tested. Consider also adding that **you must be on a computer to fill out the form**.
     1. Consider adding **detailed platform-specific instructions (e.g., mobile/desktop, Windows/Mac, Chrome/Edge/Safari/Firefox) to the R&S article** that cover ALL of the specific steps that may be required (as detailed in the diagram above). Here is an [example of platform-specific instructions](https://portal.ct.gov/DEEP/About/Tips-for-Viewing-and-Using-Fillable-PDFs).
         1. We need to be clear that mobile devices CANNOT be used to fill out the forms online and provide alternate instructions (i.e., use a computer with Adobe Acrobat Reader to fill out the form, or print the form and fill it out on paper). 
-        2. When crafting instructions, be aware that Mac users may be unfamiliar with Adobe Acrobat or reluctant to use it.
+        2. When crafting instructions, be aware some users (especially Mac users) may be unfamiliar with Adobe Acrobat or reluctant to use it.
 
     1. In the R&S article, copy the "Get Acrobat Reader for free from Adobe" link to just below the numbered steps (so it's easy to see after reading the steps).
 1. On the Find a Form search results page, **add an H3 heading above each search result** to enable easy scanning down the list of search results.
