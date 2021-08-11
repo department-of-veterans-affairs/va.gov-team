@@ -212,179 +212,54 @@ Which concept best fits user needs
 
 … following this style, we’ll want to add details for workshops 3-4 here.
 
-# The Bigger PictureR
+# The Bigger Picture
 
 The Digital Health Modernization program is much bigger than the initial DHM team. In addition to requiring a close partnership with My HealtheVet and the Office of Connected Care, this work will impact most VA.gov teams. The following describes how the Health Apartment™ work is situated within the Office of the CTO’s strategic initiatives, and how it intersects with ongoing work on VA.gov.
-Where is this work situated? Parent Organizations
-OCTO
+
+## Where is this work situated?
+
+### OCTO
 The vision for the health apartment supports OCTO’s mission, vision, and North Star goals for serving Veterans.
 
 OCTO vision: Every Veteran is guaranteed access to self-service benefits and accurate data.
 OCTO mission: Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
 OCTO’s North Star goals:
--    	Increase the usage and throughput of VA services.
--    	Decrease the time Veterans spend waiting for an outcome.
--    	Increase the quality and reliability of VA services.
+- Increase the usage and throughput of VA services.
+- Decrease the time Veterans spend waiting for an outcome.
+- Increase the quality and reliability of VA services.
 
-## Digital Modernization Council
+### Digital Modernization Council
 For the past few years, OCTO has led the Digital Modernization Council, working with executives across VA to modernize online services for Veterans. The Digital Modernization Strategy, defined in July 2017, continues to guide our design and technology decisions:
 
-VA will deliver self-service tools on par with top private sector companies and will have the best online experience in the federal government.
-Every digital service will be customized to the individual using it.
-Interacting with VA digital services will feel like navigating TurboTax, not filling out a form.
+- VA will deliver self-service tools on par with top private sector companies and will have the best online experience in the federal government.
+- Every digital service will be customized to the individual using it.
+- Interacting with VA digital services will feel like navigating TurboTax, not filling out a form.
 
 Which teams and projects are impacted by this work?
 
-Change this to:
-Appointment consolidation
-VAOS + MHV
-Notifications
-Appt focused: VAOS, MHV, My VA, VA Notify
-Beyond that: My VA + VA Notify?
-Profile?
-Sign-in
-Identity strategy
-Login.gov research
-Mobile app discovery
-Flagship mobile app
+**Appointment consolidation** 
+As part of our planned work, the VA Online Scheduling (VAOS) team and MHV team are collaborating to conduct a gap analysis and user research in order to consolidate the appointment experience into a single tool on VA.gov. As such, this is the first tool to move into the apartment. (Can link to Teams channel, etc. where collaboration is taking place.)
+
+**Notifications** 
+After consolidating appointments in VAOS, the team will then conduct gap analysis and user research to consolidate all appointment-related notifications in VA.gov. This work will involve not only MHV and VAOS, but two other VA.gov teams: My VA and VA Notify.
+
+My VA is an authenticated product on VA.gov that offers Veterans a personalized landing page. The team is exploring how to better elevate action items within My VA. This exploratory design research will lay the foundation for how VA.gov will surface notifications -- a key part of the Health Apartment design concept.
+
+VANotify is a standardized, self-service notifications platform. The My VA team will build an MVP for notifications that are currently supported by VANotify. See what products are currently supported on VANotify.
+As part of the Digital Health Modernization workshop series, OCC agreed to leverage the VANotify platform moving forward. My VA, VANotify, and the Health Apartment team will need to work together to provide centralized notifications in the apartment.
+
+**Sign-in** 
+In January 2021, the OCTO Identity team spearheaded a strategy to consolidate pathways and tools for Veterans to sign in to VA products and services.This strategy is a main driver in delivering the promise of the Digital Modernization principle: “Every service is accessible from a single “front door” experience.”
+
+Veterans will be directed to VA.gov/sign-in to authenticate, regardless of web property. The identity strategy identifies one private (ID.me) and one public (Login.gov) credential that Veterans can choose from. Long-term, this will mean existing credentials including MHV and DSLogon will be deprecated. 
+
+Starting in January, the Identity team instituted a Identity Working Group to coordinate across lines of business to realize this vision. They have received an ATO for Login.gov, and are beginning discovery research about Vetearn attitudes toward the public credential. 
+ 
+**Flagship mobile app** 
 Bottom up approach for “apartment” concept (health + benefits together)
-Check-in
-MVP for appointment journey?
-VAOS (VA Online Scheduling)
 
-OCTO Crew
-Health
-Lauren Alexanderson, Crew Lead
-OCTO Team Lead
-Lauren Alexanderson
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments
-Slack Channel
-#vaos-team
-
-
-Background on appointments in VA.gov and MHV
-Consolidation work
-Connect with Notifications work
-My VA
-
-OCTO Crew
-Account Experience
-Kevin Hoffman, Crew Lead
-OCTO Team Lead
-Samara Strauss
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va
-Slack Channel
-#vsa-auth-exp
-
-
-Background
-My VA is an authenticated product on VA.gov that offers Veterans a personalized landing page. This page is meant to do the following:
-Elevate action items
-Communicate benefit status and updates
-Provide personalized suggestions
-
-In the future, My VA is intended to evolve into the authenticated homepage for VA.gov. However, the current iteration of My VA is a separate dashboard that lives side-by-side with the authenticated homepage. Read more about this distinction here.
-
-This year (2021), the team is making progress toward that future-state goal by iterating on a couple of key areas. First, the team iterated on the overall design of My VA, which launched in June of 2021. The team has already seen some early success in engagement with the product as a result.
-
-Second, the team is exploring how to better elevate action items within My VA. This exploratory design research will lay the foundation for how VA.gov will surface notifications -- a key part of the Health Apartment design concept.
-Next Steps
-Health Apartment connect with My VA team and review exploratory research to inform proof of concept.
-
-VA Notify
-
-OCTO Crew
-Account Experience
-Kevin Hoffman, Crew Lead
-OCTO Team Lead
-Shane Elliot
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify
-Slack Channel
-#va-notify-public
-
-
-VA.gov Profile
-
-OCTO Crew
-Account Experience
-Kevin Hoffman, Crew Lead
-OCTO Team Lead
-Samara Strauss
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile
-Slack Channel
-#vsa-auth-exp
-
-
-Anything actionable here?
-
-Identity
-
-OCTO Crew
-Account Experience
-Kevin Hoffman, Crew Lead
-OCTO Team Lead
-John Rahaghi
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login
-Slack Channel
-#vsp-identity
-
-
-Background on identity strategy (link to doc)
-Current SSOe work?
-Login.gov discovery research
-Long term migration and need for service design?
-VA Flagship Mobile App
-
-OCTO Crew
-Mobile
-Leanna Miller, Crew Lead
-OCTO Team Lead
-Leanna Miller
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app
-Slack Channel
-#va-mobile-app
-
-
-Kind of a proof of concept for the “apartment” vision (health + benefits colocated)
-VA.gov + MHV teams worked on secure messaging together
-Up next: exploring login (connect with Identity team above)
-Check-In
-
-OCTO Crew
-Health
-Lauren Alexanderson, Crew Lead
-OCTO Team Lead
-Patrick Bateman
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md
-Slack Channel
-#check-in-experience
-
-
-Connect with appointment/notifications work?
-Debt Resolution - Medical Copays
-
-OCTO Crew
-Benefits Tools
-Zach Goldfine, Crew Lead
-OCTO Team Lead
-Matt Self
-GH Repo
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md
-Slack Channel
-#vsa-debt
-
-
-Future state vision for financial hub
-Link to discovery research and usability test findings
-Connecting with Chip Harmon from MHV to discuss linking from MHV > VA.gov
-
+**Check-in** 
+MVP for appointment journey? VAOS (VA Online Scheduling)
 
 # Recommendations
 If the current product person were to remain in his role, this is what he’d advocate.
