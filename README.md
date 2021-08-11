@@ -4,6 +4,8 @@ This project aims to improve the lives of Veterans, their families, and their ca
 
 This repository is used to store *non-code* documents and files created and used by teams building the VSP and VFSs. It is also used for issue tracking across the platform and teams building on VA.gov.
 
+You must install [git-lfs](https://git-lfs.github.com/) locally in order to clone this repository. 
+
 ***An important note about security for contributors to this repository: this is a public, open source space! Which means it's great for collaborating, but decidedly not great for storing sensitive information (like credentials, PII, etc). So be mindful as you work in this repo. Don't store anything sensitive here!***
 
 For information on how to use this repo, see the [Repo Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md).
