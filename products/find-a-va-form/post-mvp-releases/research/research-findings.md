@@ -51,10 +51,19 @@ The purpose of this research was to
 # Methodology 
 
 We conducted hour-long remote moderated research sessions via Zoom on **July 27-30, 2021**. Participants were asked to search for the following four PDF forms using the Find a Form page on Staging (https://staging.va.gov/find-forms/):
-1. 10-2850c (one of most downloaded, has digital signature, hosted on VA.gov) = healthcare job application
-1. 10-0003k (has digital signature, hosted on VA.gov) = employee scholarship application
-1. 20-0968 (hosted on vba.va.gov) = reimbursement form for travel expenses
-1. 20-0995 (one of most downloaded, can fill out in browser, hosted on vba.va.gov) = decision review request supplemental claim
+1. [Application for Associated Health Occupations](https://www.va.gov/find-forms/about-form-10-2850c/) (10-2850c) 
+    1. one of most downloaded
+    1. has digital signature
+    1. hosted on VA.gov
+1. [Employee Incentive Scholarship Program (EISP) Agreement](https://www.va.gov/find-forms/about-form-10-0003k/) (10-0003k)
+    1. has digital signature
+    1. hosted on VA.gov
+1. [Claim for Reimbursement of Travel Expenses](https://www.va.gov/find-forms/about-form-20-0968/) (20-0968)
+    1. hosted on vba.va.gov
+1. [Decision Review Request: Supplemental Claim](https://www.va.gov/find-forms/about-form-20-0995/) (20-0995)
+    1. one of most downloaded
+    1. can fill out in browser
+    1. hosted on vba.va.gov
 
 
 Each participant saw 1 of 3 versions of the Find a Form search results page with instructions added:
