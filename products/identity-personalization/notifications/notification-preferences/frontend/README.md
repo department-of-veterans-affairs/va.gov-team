@@ -21,7 +21,7 @@ Notification types (appointment reminder, claim update, etc), channels (text/ema
 **Show**
 
 - We will always show this section.
-- Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/137989650/comment/sitemap?mode=i))
+- Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i)
 
 ## URL
 
