@@ -55,7 +55,7 @@ In conversations with OCTO and OCC staff, we heard that the “health apartment�
 - For users, it will feel similar to My HealtheVet.
 - It makes it easier for My HealtheVet to retain its brand.
 
-## How do we get there? << section in progress >>
+## How do we get there? 
 Incrementally. It will take intense collaboration and planning, with the Health Apartment Team working closely with multiple teams in OCTO and OCC. These 3 VA employees will support and guide the Health Apartment Team:
 - A product person from OCC
 - An engineer from OCC
@@ -64,9 +64,9 @@ Incrementally. It will take intense collaboration and planning, with the Health 
 In the workshops, OCTO-OCC leadership supported the idea of moving appointments into the health apartment first for a few reasons:
 - Appointments is one of the “big four” Veteran top task areas (scheduling, managing, cancelling, rescheduling, etc.).
 - Both My HealtheVet and VA.gov have appointments functionality (some of it redundant).
-- VA Online Scheduling (VAOS), the appointments tool with more functionality, is already part of VA.gov.
+- VA Online Scheduling (VAOS), the appointments tool with more functionality than My HealtheVet, is already part of VA.gov.
 
-With the consensus on appointments, OCTO and OCC will begin to move toward the health apartment concept beginning in late July or early August 2021. The MHV and VAOS teams will conduct comparative analyses of existing appointments tools and their notifications. The purpose of this work is to:
+With the consensus on appointments, OCTO and OCC began to move toward the health apartment concept beginning in late July 2021. The MHV and VAOS teams have started to conduct comparative analyses of existing appointments tools and their notifications. The purpose of this work is to:
 - Find gaps in functionality between MHV appointments and VAOS
 - Understand user needs
 - Recommend ways to address gaps
@@ -80,11 +80,11 @@ Also the VA.gov team is working on sitewide notifications. In the health apartme
 Before moving any My HealtheVet and VAOS products in production, the Health Apartment Team will design and test the apartment concept to ensure that it’s viable, intuitive, easy to use and navigate, and clearly understood by Veterans.
 
 ## How should the work proceed?
-The DHM Team communicated the model below to the MHV team. This model should not be re-thought until a proof of concept has been shipped. In the model, the work proceeds this way:
+The DHM Team communicated the model below to the MHV team. This model should not be rethought until a proof of concept has been shipped. In the model, the work proceeds this way:
 
 - Now / this quarter / planned work
   - Ship an apartment proof of concept (that’s you, dear reader)
-  - Analyze differences between current appointments tools and their notifications
+  - Analyze differences between the MHV and VAOS appointments tools and their notifications
 - Next / after this quarter / intended work
   - Detailed plan to rebuild MHV website MVP inside VA.gov apartment
   - Presumed MVP scope is appointments, prescriptions, medical records and secure message happy paths all functional on VA.gov
@@ -115,7 +115,7 @@ Here’s the thinking behind the graphic above.
 - It’s critical to validate the design with real user feedback before jumping in headfirst.
 - VA.gov’s information architecture and navigation need love before they’re ready to integrate the health apartment concept.
 - Creating the “apartment” before we move products onto VA.gov means products can move asynchronously. This simplifies planning, a lot.
-- Moving products from My HealtheVet to VA.gov will succeed only with input from the My HealtheVet Team.
+- Moving products from My HealtheVet to VA.gov will succeed only by collaborating with the My HealtheVet Team.
 
 Since the work for appointments and appointment notifications will start before the Health Apartment Team onboards, it will pave the way for the health apartment in a few important ways. First, the work will be done by the first blended team between OCTO and OCC/My HealtheVet. Second, we will understand the My HealtheVet appointments infrastructure better. Third, we will have more insight into the needs of users of appointments functionality.
 
@@ -123,33 +123,25 @@ Since the work for appointments and appointment notifications will start before 
 
 Because some work needs more planning and validation before it’s actionable, the Digital Health Modernization Team recommends these activities (shown as “intended” above):
 - Adopt formal, shared success metrics.
-- Shift or rebuild Secure Message, Prescription Refill and Medical Records functionality in the “apartment.”
-- Do an opt-in beta test for My HealtheVet users of the products in 2).
-- Follow with an opt-out beta test for My HealtheVet users of the products in 2).
+- Move or rebuild Secure Message, Prescription Refill and Medical Records functionality into the “apartment.”
+- Do an opt-in beta test for My HealtheVet users of the products in the second bullet above.
+- Follow with an opt-out beta test for My HealtheVet users of the products in the second bullet above.
 - Formally launch the My HealtheVet apartment on VA.gov and deactivate non-apartment instances of those products on My HealtheVet.
 
-Note that making the intended work actionable requires (a) learnings from shipping the “apartment” section and (b) OCTO-OCC leadership to help with planning. The leadership group plans to meet every 6 weeks to check in with the Health Apartment Team, as well as the points of contact for aligning these sections of the OCTO and OCC roadmaps: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy.
-And what’s the thinking behind the envisioned work?
-Xxxx
+Making the intended work actionable requires (a) learnings from shipping the “apartment” section and (b) that OCTO-OCC leadership help with planning. The leadership group plans to meet every 6 weeks to check in with the Health Apartment Team and the points of contact for aligning these sections of the OCTO and OCC roadmaps: 
+- Appointments
+- Notifications
+- PGHD (patient-generated health data)
+- Secure messaging
+- Pharmacy
 
-<< Meg is here. >>
+### What’s the thinking behind the envisioned work?
+Since this is a Herculean effort, it's important to have a North Star to guide decisions and focus the work. All along, our North Star has been to unify, streamline, and consolidate the Veteran health experience, and we see the health apartment concept as the first step in that direction. We envision:
+- An accessible, usable, discoverable My HealtheVet-branded section of VA.gov that contains all web health tools.
+- That the Health Apartment Team will continue to define and consolidate the Veteran health experience on VA.gov after validating or invalidating the health apartment concept.  
+- That teams who own health tools on My HealtheVet and VA.gov will help move them to VA.gov and will continue to own them afterwards.
 
-~~~~~~~~
-Notes to write from…   
-
-Envisioned work:
-Our North Star is having all health web tools in the “apartment.”
-•   	Our goal is an accessible, usable, discoverable
-My HealtheVet-branded section of VA.gov that contains all web health tools.
-•   	We intend for teams who own those tools now to help move them to VA.gov and continue to own them afterwards.
-•   	This will never be fully true — the VA is too big for perfect consolidation — but will help us decide what work to plan and how.
-
-Notes from 4th workshop:
-APT concept… what does success look like? AJ - 1 appts tool on web, MHV branded, and it’s in VA.gov.
-
-End of notes ^
-
-~~~~~~~~~~~~
+Going forward, the Health Apartment Team will partner with OCTO and OCC staff to guide the work on the VA.gov health experience, including all planned, intended, and envisioned work.
 
 # Team History
 The Digital Health Modernization team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the Digital Modernization Strategy, we aim to give Veterans one place to manage all of their VA benefits.
