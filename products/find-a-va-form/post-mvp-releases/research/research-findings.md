@@ -266,7 +266,7 @@ Keywords: search results, headings, accessibility
 
 # Recommendations
 
-1. **Encourage VA form owners to replace every fillable PDF VA form with a more accessible format.** Best would be HTML/web forms because they can be accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
+1. **Encourage VA form owners to replace every fillable PDF VA form with a more accessible format.** Best would be HTML/web forms because they can be accessible across devices, browsers, platforms, and screen readers. Second best would be a web-based form tool that supports text entry and electronic signing of static forms (e.g., DocuSign) that is accessible across devices, platforms, and screen readers.
     
 1. Since fillable PDF forms will continue to exist at least in the near term, **add instructions above each download link**--even though most people won't read them because a few might. If we want more users to see the instructions, consider making them more visible visually, though users may still skip them if they're focused on finding a download link.
     1. **Add the instructions to the form detail pages** (as currently planned), in addition to the form search results page where we tested. Consider also adding that **you must be on a computer to fill out the form**.
