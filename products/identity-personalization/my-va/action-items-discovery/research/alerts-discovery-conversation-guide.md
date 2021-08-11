@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 7. Have you ever used the My VA page on VA.gov? What do you use it for? 
 8. How often do you go online to manage your benefits?
 
-## BACKGROUND AND QUESTIONS - 5 minutes
+## BACKGROUND AND QUESTIONS - 7 minutes
 
 Just a little bit of background before we start - we are working on building a central place for you to recieve any action items, updates or reminders on VA.gov. These could be anything related to health care, benefits or just general announcements. 
 
@@ -47,7 +47,7 @@ Just a little bit of background before we start - we are working on building a c
 3. What are some scenarios in your life where you would want a page like this? 
 4. Imagine that you do have new [USE THEIR WORD], how would you know? Where would you expect to see that on VA.gov? 
 
-## PROTOTYPE - 25 minutes 
+## PROTOTYPE - 30 minutes 
 
 Great, let's move on. We're now going to take a look at a prototype. I'll share a link with you, and go ahead and pull that up and share your screen with me. 
 
@@ -83,20 +83,28 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
 
-Just a reminder - we are working with a prototype so it might not behave exactly how you expect. 
+Just a reminder - we are working with a prototype so it might not behave exactly how you expect. The information shown is not real information, and is completely fictional. If you could pretend 
 
 ## First task - Scenario - 5 minutes
 
-I'm going to give you a scenario. You've just logged into VA.gov. Let’s imagine you got a newsletter from the VA and read that you can now get notifications for things like benefits applications on va.gov. Where would you go from here to see those notifications? How would you check on that? 
+[NEED TO ASK ABOUT THIS] Let's image you recieved a text letting you know that you have a health care appointment coming up at a VA facility. You want to double check which appointment it is. How would you do that from this page? 
+
+I'm going to give you a scenario. Let’s imagine you got a newsletter from the VA and read that you can now get notifications for things like benefits applications on va.gov.  You've just logged into VA.gov. Where would you go from here to see those notifications? How would you check on that? 
 
 *If users DID click on alerts, skip to the fourth task*
 
+*If users clicked on My VA, skip to the third task*
+
+*If users notice the red dot and bell next to 'Alerts', skip to the second task*
+
 *If users did NOT click on alerts:*
+
+I noticed you clicked on [section].
 
 1. Why would you expect it to be in this section? 
 2. What are you looking for here? 
 
-## Second task - Alerts indicator - 1 minute
+## Second task - Alerts indicator - 3 minutes
 
 Go ahead and scroll to the top, and take a look at the 'Alerts' with the little bell and the red dot. 
 
@@ -115,14 +123,12 @@ Let's go ahead and click on 'My VA'. I have another scenario for you. Imagine yo
 - Let's take a look at the Alerts section on My VA. 
 
 1. What are your thoughts on this section? 
-2. What are these alerts telling you? 
-3. What information is useful here? 
-4. What would you do next with this info?
-5. Why do you think you are seeing these specific alerts?
-6. What do you think works about this section?
-7. What do you find confusing here? 
-8. What would you change about this section?
-9. If you were to click on 'View all alerts', what would you expect to happen?  
+2. What would you do next with this info?
+3. What information about your alerts would you want to see on your personal dashboard?
+4. What do you think works about this section?
+5. What do you find confusing here? 
+6. What would you change about this section?
+7. If you were to click on 'View all alerts', what would you expect to happen?  
 
 Go ahead and click on 'View all alerts.
 
@@ -130,51 +136,19 @@ Go ahead and click on 'View all alerts.
 
 Go ahead and scroll through this page and walk me through what you're seeing here. 
 
-1. What are your thoughts about this page?
-2. What would you expect to see on this page?  
-3. What do you think works about this page?
-4. What do you find confusing here? 
-5. What would you change about this page?
-6. What is missing on this page? 
+1. What are your overall thoughts about this page?
+2. Why do you think you are seeing these specific alerts?
+3. What information is useful here? 
+4. What would make one notification more important than another one?
+5. What would you do next with this info?
+6. What do you think works about this page?
+7. What do you find confusing here? 
+8. What would you change about this page?
+9. What is missing on this page? 
 
 Okay, great - any questions or thoughts before we move on?
 
 *If users initially clicked on alerts, loop back to the third task*
-
-
-## CARD SORT - 20 minutes (or remaining time)
-
-- Okay, great. Let's go ahead and get started - **I'll start with sharing my screen.**  
-
-[PULLS UP OPTIMAL SORT]
-
-**[CARD SORT - PARTICIPANT CARDS]** 
-
-If you were to log in to VA.gov today, what kinds of notifications would you want to see? We can write them down on these cards together. 
-
-**[CARD SORT - ADDING CARDS]** 
-
-On these cards that you can see here, we have a few potential action items that you might see on VA.gov. Go ahead and read through these. If you can think of any additional action items that you might want to see, let's go ahead an make cards for them. 
-
-**[CARD SORT - SORTING]** 
-
-So now that we have all of the potential action items that you'd like to see - let's sort these by priority. 
-
-We'll make three columns: High, Medium, and Low priority. 
-
-**Feel free to think out loud as you work through the exercise.**
-
-[AFTER CARD SORT]
-
-[QUESTIONS]
-
-- Ok, looking at theses categories, do you feel like they work for you?
-- Let's take a look at the high priority column - why did you put these updates in that column?
-    - What makes an update 'High priority' to you? 
-- Let's take a look at the low priority column - why did you put these updates in that column?
-    - What makes an update 'Low priority' to you? 
-- So if you could imagine a page with all of these updates, how could you tell which ones are high priority vs low priority? 
-- Any additional thoughts or questions?
 
 ## CLOSING QUESTIONS - TIME PERMITTING - 2 minutes
 
