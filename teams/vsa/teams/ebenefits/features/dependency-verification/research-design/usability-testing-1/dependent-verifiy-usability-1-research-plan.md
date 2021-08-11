@@ -46,10 +46,14 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 - The moderator will prompt the user to explore next steps within the "change" scenario
 - There will be a quick Q/A and wrap-up
 
-#### Staging User
+#### Staging Users
 Test user 108 is reserved for this test.
  - 	vets.gov.user+108@gmail.com	
  - 	295SsNrLgPv5
+
+Test user 15 is reserved for this test.
+- vets.gov.user+15@gmail.com
+- 363SsNrLgPv5
 
 #### Resetting cookies
 Page in question: https://staging.va.gov/view-change-dependents/view/
