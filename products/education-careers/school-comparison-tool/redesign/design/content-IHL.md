@@ -150,7 +150,7 @@ Enter the total tuition/fees you'll be charged for the academic year.
 
 When you select some schools, we import the average tuition/fees for an undergraduate student as reported by the school to the Department of Education through [IPEDS](http://nces.ed.gov/ipeds/datacenter/). This is the same information that is published on [College Navigator](http://nces.ed.gov/collegenavigator/).
 
-To learn more, please review our "[About This Tool](http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#yellow_ribbon_from_school)" page.
+To learn more, please review our [About this Tool](http://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#yellow_ribbon_from_school) page.
 
 { end modal }
 
@@ -351,15 +351,13 @@ Yellow Ribbon Program ([Learn more]()): {Options: Yes | No }
 
 { Learn more modal, Learn more aria label: "Learn more about what is covered by the Yellow Ribbon program and who can use it" }
 
-### Yellow Ribbon Program
+#### Yellow Ribbon Program
 
-The Yellow Ribbon Program can help you pay for out-of-state, private school, or graduate school tuition that the Post-9/11 GI Bill doesn’t cover. Schools that choose to participate in the Yellow Ribbon program will contribute a certain amount toward the extra tuition. VA will match the participating school’s contribution, up to the total cost of the tuition and fees. 
+The Yellow Ribbon Program can help you pay for out-of-state, private school, or graduate school tuition that the Post-9/11 GI Bill doesn’t cover. Schools that choose to participate in the Yellow Ribbon program will contribute a certain amount toward the extra tuition. VA will match the participating school’s contribution, up to the total cost of the tuition and fees.
 
-Veterans and Fry Scholarship and Purple Heart recipients, or their dependents using transferred benefits, are eligible for the maximum benefit rate. Active-duty service members and their spouses aren’t eligible for this program. (An active-duty service member’s dependent child using transferred benefits may be eligible if the service member is qualified at the 100% rate.) 
+[Learn more about the Yellow Ribbon Program.](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 
-Learn more about [the Yellow Ribbon Program](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/). 
-
-Visit the [Yellow Ribbon tool](https://www.va.gov/education/yellow-ribbon-participating-schools/) to find schools that participate in this program.
+[Visit the Yellow Ribbon tool](https://www.va.gov/education/yellow-ribbon-participating-schools/) to find schools that participate in this program.
 
 { end modal }
 
@@ -526,7 +524,7 @@ A school may ask us for a list of Veterans who rated their school, but we do not
 
 Before enrolling in a program at this institution, VA recommends that potential students consider these cautionary warnings. Caution flags indicate that VA or other federal agencies like the Department of Defense (DoD) or Department of Education (ED) have applied increased regulatory or legal scrutiny to this program.
 
-To learn more about Caution Flags, [visit the About this Tool Page]().
+To learn more about Caution Flags, [visit the About this Tool page]().
 
 ### Student feedback
 
@@ -589,7 +587,7 @@ The goal of accreditation is to ensure the education provided by institutions of
  
 Schools are accredited regionally or nationally by private educational associations. While the Department of Education (ED) doesn't say whether regional or national accreditation is better, a recent ED study revealed that, “Nearly 90 percent of all student credit transfer opportunities occurred between institutions that were regionally, rather than nationally, accredited.” [Read the ED report on credit transferability](http://nces.ed.gov/pubs2014/2014163.pdf)
  
-To learn more about the accreditation process and types of accreditation, visit the "[About this Tool](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accreditation_type)" page.
+To learn more about the accreditation process and types of accreditation, visit the [About this Tool](https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accreditation_type) page.
 
 { end learn more modal }
 
@@ -619,7 +617,7 @@ Beneficiaries may use educational assistance to access online learning (accredit
 
 #### Priority enrollment
 
-If an Institution of Higher Learning (a college or university) has a system for priority enrollment that allows certain student Veterans to enroll in courses earlier than other students (not necessarily earlier than *all* students), we’ll note that with the school’s information here.
+If a college or university has a system for priority enrollment that allows certain student Veterans to enroll in courses earlier than other students (not necessarily earlier than all students), we’ll note that with the school’s information here.
 
 { end learn more modal }
 
@@ -658,9 +656,9 @@ To learn more about accreditation, visit the U.S. Department of Education’s [8
 
 { learn more modal content, Learn more aria label: "Learn more about Military Tuition Assistance" }
 
-#### Military Tuition Assistance (TA)
+#### Military Tuition Assistance (TA) 
 
-Are you receiving any military tuition assistance this year? If so, how much? The Post-9/11 GI Bill pays the net-cost of your education after scholarships or financial aid amounts are applied. This includes amounts already paid by military tuition assistance.
+Military Tuition Assistance is a benefit paid to eligible members of the Army, Navy, Marines, Air Force, and Coast Guard. Each service has its own criteria for eligibility and application process. This money is usually paid directly to the institution by the individual service.
 
 { end modal }
 
@@ -690,13 +688,13 @@ We try to make sure this information is accurate, but prospective students shoul
 
 { learn more modal content, Learn more aria label: "Learn more about Student Veteran Groups" }
 
-#### Student Veterans group
+#### Student Veteran group
 
-Does this school have a student-led Veterans group on campus?
+Does this school have a student-led Veteran group on campus?
 
-If a school has a student Veterans group that’s not represented here, please email [224A.VBAVACO@va.gov](). We make quarterly updates to this tool.
+If a school has a student Veterans group that’s not represented here, please notify us by email at [224A.VBAVACO@va.gov]. We update this information in the Comparison Tool quarterly.
 
-Please note this email address is only for Comparison Tool-related issues. For questions about your GI Bill benefits, please check this "[Ask a Question](https://gibill.custhelp.va.gov/app/utils/login_form/redirect/ask)" page.
+Please note this email address is only for Comparison Tool-related issues. For questions about your GI Bill benefits, [please check this "Ask a Question" page](https://gibill.custhelp.va.gov/app/utils/login_form/redirect/ask).
 
 { end modal }
 
