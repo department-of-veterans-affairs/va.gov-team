@@ -40,7 +40,9 @@ Accreditation (Learn more)
     
     The goal of accreditation is to ensure the education provided by institutions of higher learning meets acceptable levels of quality. Accreditation matters if you plan to start school at one institution and transfer to another to complete your degree. Be sure to ask any potential school about their credit transfer policy.
     
-    Schools are accredited regionally or nationally by private educational associations. While the Department of Education (ED) doesn't say whether regional or national accreditation is better, a recent ED study revealed that, “Nearly 90 percent of all student credit transfer opportunities occurred between institutions that were regionally, rather than nationally, accredited.” Read the ED report on credit transferability to learn more about the accreditation process and types of accreditation, visit the [About this Tool] (https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accreditation_type) page.
+    Schools are accredited regionally or nationally by private educational associations. While the Department of Education (ED) doesn't say whether regional or national accreditation is better, a recent ED study revealed that, “Nearly 90 percent of all student credit transfer opportunities occurred between institutions that were regionally, rather than nationally, accredited.” [Read the ED report on credit transferability](http://nces.ed.gov/pubs2014/2014163.pdf).  
+    
+    To learn more about the accreditation process and types of accreditation, visit the [About this Tool] (https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#accreditation_type) page.
 
     { end learn more modal }
     
@@ -223,7 +225,7 @@ Student complaints (Learn more)
     
     This is the number of closed, Principles of Excellence-related, complaints submitted to VA through the GI Bill Feedback system for this school.
     
-    To learn more [visit the VA GI Bill Feedback Tool.](https://www.benefits.va.gov/GIBILL/Feedback.asp)
+    To learn more [visit the VA GI Bill Feedback Tool](https://www.benefits.va.gov/GIBILL/Feedback.asp).
     
     { end modal }
     
@@ -288,7 +290,7 @@ Principles of Excellence (Learn more)
     
     #### Principles of Excellence
     
-    The Principles of Excellence are guidelines for educational institutions receiving federal funding. Schools that agree to participate will:
+    The [Principles of Excellence](https://www.govinfo.gov/content/pkg/FR-2012-05-02/pdf/2012-10715.pdf) are guidelines for educational institutions receiving federal funding. Schools that agree to participate will:
     
     •	End fraudulent and aggressive recruiting techniques and misrepresentation.
     •	Provide students with a personalized form covering the total cost of an education program.
