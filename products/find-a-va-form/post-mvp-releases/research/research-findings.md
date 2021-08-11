@@ -71,7 +71,7 @@ You can see screenshots in the [Pages and applications used section below](https
 
 ![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
 
-## Resources and Support (R&S) article linked to from "Get instructions..." or "Read More" link
+## Resources and Support (R&S) article linked to from "Get instructions for opening the form in Acrobat Reader" and "Read More" links
 
 ![R&S-How2download](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/R%26S-How2download.png)
 
@@ -313,6 +313,23 @@ None at this time
 ## Pages and applications used
 
 [Find a Form on Staging](https://staging.va.gov/find-forms/)
+
+### Design #1: Instructions at the top of the list of forms
+
+![UI-alert-at-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-at-top.png)
+
+### Design #2: Instructions repeated above every form download link in a light blue box
+
+![UI-alert-repeated-blue-box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-repeated-blue-box.png)
+
+### Design #3: Instructions repeated above every form download link in gray help text
+
+![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
+
+### Resources and Support article linked to from "Get instructions for opening the form in Acrobat Reader" and "Read More" links
+
+![R&S-How2download](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/R%26S-How2download.png)
+
 
 
 ## Who we talked to 
