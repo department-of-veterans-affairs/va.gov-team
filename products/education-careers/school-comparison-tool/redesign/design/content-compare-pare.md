@@ -277,7 +277,7 @@ Student Veteran Group (Learn more)
     
     Does this school have a student-led Veteran group on campus?
     
-    If a school has a student Veterans group that’s not represented here, please notify us by email at [224A.VBAVACO@va.gov]. We update this information in the Comparision Tool quarterly.
+    If a school has a student Veterans group that’s not represented here, please notify us by email at [224A.VBAVACO@va.gov]. We update this information in the Comparison Tool quarterly.
     
     Please note this email address is only for Comparison Tool-related issues. For questions about your GI Bill benefits, [please check this "Ask a Question" page](https://gibill.custhelp.va.gov/app/utils/login_form/redirect/ask).
     
@@ -316,7 +316,7 @@ Principles of Excellence (Learn more)
     
     Postsecondary institutions listed here have stated their support for the 8 Keys. However, this isn’t an assurance by the U.S. Department of Education that an institution has actually implemented the 8 Keys. It also doesn’t mean that these institutions are endorsed by the U.S. Department of Education.
     
-    To learn more about accreditation, visit the U.S. Department of Education’s [8 Keys to Veterans’ Success page](Link to http://www.ed.gov/veterans-and-military-families/8-keys-success-sites)
+    To learn more about accreditation, visit the U.S. Department of Education’s [8 Keys to Veterans’ Success page](Link to http://www.ed.gov/veterans-and-military-families/8-keys-success-sites).
 
     { end modal }
 
