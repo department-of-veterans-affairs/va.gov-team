@@ -31,7 +31,7 @@ URL for this section should [www.va.gov/profile/notifications](http://www.va.gov
 
 ### Prototypes
 
-Use prototype links above for latest versions of the prototype.
+Use [prototype links above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#relevant-links) for latest versions of the prototype.
 
 ### Accessibility
 
