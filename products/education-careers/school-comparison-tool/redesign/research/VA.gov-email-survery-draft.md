@@ -27,12 +27,18 @@ Good Afternoon Ms./Mr.,
 Thank you for reaching out!
 To participate, please complete both activities.
 1.	Interact with the prototype by: 
-•	(opt 1) Search for a couple things of schools you would be interested in attending. Personalize your search and benefits. Look for more detail specific to one or more of the schools.  See how schools compare to one another.
-Option 2
-•	Look for one or more schools you would be interested in
-•	See what information is available to you on one of those schools
-•	Compare two or more schools against one another
-•	Look to see what benefits you would receive from the GI Bill
+
+  (Option 1)
+  
+  • Search for a couple things of schools you would be interested in attending. Personalize your search and benefits. Look for more detail specific to one or more of the schools.  See how schools compare to one another.
+  
+  (Option 2)
+
+  •	Look for one or more schools you would be interested in. See what information is available to you on one of those schools
+  
+  •	Compare two or more schools against one another
+  
+  •	Look to see what benefits you would receive from the GI Bill
 
 **Click on this link to access the prototype: [link](http://)**
 
