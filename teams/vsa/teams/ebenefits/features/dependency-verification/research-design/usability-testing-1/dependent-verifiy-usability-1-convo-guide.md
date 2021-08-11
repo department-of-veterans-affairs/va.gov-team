@@ -49,7 +49,7 @@ User is given a link to a starting page in the VA.gov staging environment and lo
 
 ### Task 2 / Review dependents / 5 minutes 
 Modal intercepts user.
-- 'observe reaction' If needed, prompt: Tell me what you are thinking here.
+- `observe reaction` If needed, prompt: Tell me what you are thinking here.
 - Why do you think you're seeing this? 
 - Who is listed as your dependents?
 
@@ -88,6 +88,7 @@ User is again given the link to the starting page in the VA.gov staging environm
 
 ### Task 2A / Review dependents / 2 minutes
 Modal intercepts user.
+- 'observe reaction' 
 - Why do you think you're seeing this now?
 - How often do expect to see this?
 - After user clicks “Remove dependent” link: This is where we run into a feature we haven’t prototyped yet. What would you expect to happen now?
