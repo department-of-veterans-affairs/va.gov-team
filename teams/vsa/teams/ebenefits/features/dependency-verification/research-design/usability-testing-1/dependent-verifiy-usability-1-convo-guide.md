@@ -30,7 +30,7 @@ There are a few things I need to mention before we start:
 ## Warm-up
 * Please tell me a little about yourself.  (Your service experience, where you live, general experiences with the VA...)
 * Have you used eBenefits to make changes to your dependents?
-* (If user has disability rating) Would you mind telling us what your disability rating is?
+  * What kind of changes did you make? 
 * How often do you visit the eBenefits site? How about VA.gov?
 
 We'll be looking at two scenarios today -- both will involve dependents. Since this is just testing, we'll be using a test account with made-up data. 
@@ -45,11 +45,11 @@ For the first task, imagine that you have two dependents -- a spouse and one chi
 User is given a link to a starting page in the VA.gov staging environment and log in info for test user 108. 
 * Now I have put a link to the page we're starting on in the chat; **please click on it.** (Clicks on link to landing page)
 * To be able to see dependents' information, you'll have to log in. I put the username and password in the chat -- **use these to sign-in.** For this scenario, your name is Morris.
-* If you want  **click on it.**
+* You're now on VA.gov and you want to know who the VA has listed as your dependents. **Find your list of dependents.**
 
 ### Task 2 / Review dependents / 5 minutes 
 Modal intercepts user.
-* Describe what you're seeing.
+* Tell me what you are thinking here.
 * Why do you think you're seeing this? 
 * Who are listed as your dependents?
 
@@ -60,7 +60,7 @@ Modal intercepts user.
 * What does the user expect to happen when they click the “verify this is correct” button?
 
 ### Task 3 / Confirm dependents / 2 minutes
-User verify dependents are correct.
+For this scenario, your dependents should be Veronica Corningston and Quanily Ortiz. 
 * What other information would you need to confirm these are your dependents or not?
 * If the list of dependents is correct, what would you do next? Go ahead and do that.
 
