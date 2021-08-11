@@ -14,7 +14,11 @@ This section of profile allows users to:
 - Manage text and email notification preferences.  
 - Review the contact info where notifications will be sent, when we have that information on file.
 
-Notification types (appointment reminder, claim update, etc), channels (text/email), groups (e.g. health care, and settings will come through VA Profile's API.
+The following data will come through VA Profile's API
+
+- Notification types (appointment reminder, claim update, etc)
+- Channels (text/email), groups (e.g. health care
+- User settings (null, true, false) will come through
 
 ## When/where to show the notification preferences section
 
