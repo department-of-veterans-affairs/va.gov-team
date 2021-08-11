@@ -226,7 +226,7 @@ Keywords: forms, download, digital signature
 ### 1. Digital signature field invisible 
 Participants using a screen reader were unable to digitally sign because screen readers (e.g., JAWS) didn't announce any place to sign. The signature field wasn't an editable field or a button, and there wasn't a label on the field. 
 
-Keywords: forms, digital signature
+Keywords: forms, digital signature, accessibility
 
 ### 2. Form fields difficult to fill out 
 **Some screen reader users weren't happy about having to fill out the forms in Adobe Acrobat because of perceived lack of accessibility based on their past experiences with PDF fillable forms.**
