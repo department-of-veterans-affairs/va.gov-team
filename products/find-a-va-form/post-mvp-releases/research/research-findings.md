@@ -203,7 +203,7 @@ Unique technical issues were encountered in every session, which will be discuss
 ### Issues with filling out the form
 - One participant using a Mac was able to fill out the forms in Safari and Preview, but the fillable fields weren't shaded until they moused over them, so it was difficult to know what to fill out. This problem was resolved when the forms were opened in Adobe Acrobat.
 
-- Another participant called out how different the forms were from each other.
+- Another participant called out how different the forms were from each other:
 > "The lack of standardization in the forms. That is such a big thing for us in the military...Standardizing these forms would mean that every form has the same outline and things are done in the same way. There should be common instructions that you can give for all forms. Any specific instructions for the particular form would be on the page where the form is" (p12).
 
 There were many accessibility issues with the PDF forms encountered by the 4 screen reader users, which will be detailed in the Assessibility-Related Issues section below. 
