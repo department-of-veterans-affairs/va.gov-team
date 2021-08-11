@@ -19,7 +19,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 60 minutes.** 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be participating in two exercises today.** We'll walk through these together. In one of the exercises, we will be working with a prototype - so it might not behave exactly how you expect.
+- **You'll be participating in two exercises today.** We'll walk through these together. In one of the exercises, we will be working with a prototype - so it might not behave exactly how you expect. If the prototype doesn't do what you expect, let me know what you expected to happen. 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -32,18 +32,19 @@ Before we start, a few things I want to mention:
 1. Can you tell me a little about yourself? (if needed, ask about service history)
 2. What device are you joining us on?
 3. Do you currently, or have you ever, received any benefits from the VA?
-4. Do you currently, or have you ever, filed a claim or appeal with the VA?
-5. (if yes) How do you check for any updates or changes to your benefits?
-6. Have you ever used the My VA page on VA.gov? What do you use it for? 
-7. How often do you go online to manage your benefits?
+    4. If yes: What benefits?  
+5. Do you currently, or have you ever, filed a claim or appeal with the VA?
+6. (if yes) How do you check for any updates or changes to your benefits?
+7. Have you ever used the My VA page on VA.gov? What do you use it for? 
+8. How often do you go online to manage your benefits?
 
 ## BACKGROUND AND QUESTIONS - 5 minutes
 
 Just a little bit of background before we start - we are working on building a central place for you to recieve any action items, updates or reminders on VA.gov. These could be anything related to health care, benefits or just general announcements. 
 
-1. So let's imagine that this sort of page exits - a centralized place for any new updates, reminders or action items that you need to complete on VA.gov. What would you expect a page like this would be called?
+1. So let's imagine that this sort of page exists - a centralized place for any new updates, reminders or action items that you need to complete on VA.gov. What would you expect a page like this would be called?
 2. What kind of information would you expect to be on a page like this? 
-3. What are some scenarios in your life would want a page like this? 
+3. What are some scenarios in your life where you would want a page like this? 
 4. Imagine that you do have new [USE THEIR WORD], how would you know? Where would you expect to see that on VA.gov? 
 
 ## PROTOTYPE - 25 minutes 
@@ -86,33 +87,46 @@ Just a reminder - we are working with a prototype so it might not behave exactly
 
 ## First task - Scenario - 5 minutes
 
-I'm going to give you a scenario. You've just logged into VA.gov. Imagine you've been recieving money from the VA for your education, you expected a payment this week  - but you aren't sure if it was deposited or not. How would you check on that? 
+I'm going to give you a scenario. You've just logged into VA.gov. Let’s imagine you got a newsletter from the VA and read that you can now get notifications for things like benefits applications on va.gov. Where would you go from here to see those notifications? How would you check on that? 
 
-*If users DID click on alerts, skip to the third task*
+*If users DID click on alerts, skip to the fourth task*
 
 *If users did NOT click on alerts:*
 
 1. Why would you expect it to be in this section? 
 2. What are you looking for here? 
 
-## Second task - My VA - 7 minutes
+## Second task - Alerts indicator - 1 minute
 
-Let's go ahead and click on 'My VA'. I have another scenario for you. Imagine you have a health care appointment coming up, but you can't remember when. How would you check that on this page? 
+Go ahead and scroll to the top, and take a look at the 'Alerts' with the little bell and the red dot. 
+
+1. What does that mean to you?
+2. What do you expect to happen if you click on the bell?
+3. What is confusing about this?
+
+Okay, great! That's it for the prototype, so we'll go ahead an move on to the next activity. 
+
+## Third task - My VA - 7 minutes
+
+Let's go ahead and click on 'My VA'. I have another scenario for you. Imagine you recently went to a VA doctor and she said she would send you a message about your results. Can you walk me through how you would see that?
 
 1. Why would you expect it to be in this section? 
 
 - Let's take a look at the Alerts section on My VA. 
 
-1. What are your thoughts on this section?
-2. What would you expect to see this section on My VA?  
-3. What do you think works about this section?
-4. What do you find confusing here? 
-5. What would you change about this section?
-6. If you were to click on 'View all alerts', what would you expect to happen?  
+1. What are your thoughts on this section? 
+2. What are these alerts telling you? 
+3. What information is useful here? 
+4. What would you do next with this info?
+5. Why do you think you are seeing these specific alerts?
+6. What do you think works about this section?
+7. What do you find confusing here? 
+8. What would you change about this section?
+9. If you were to click on 'View all alerts', what would you expect to happen?  
 
 Go ahead and click on 'View all alerts.
 
-## Third task - Alerts - 10 minutes
+## Fourth task - Alerts - 10 minutes
 
 Go ahead and scroll through this page and walk me through what you're seeing here. 
 
@@ -125,22 +139,18 @@ Go ahead and scroll through this page and walk me through what you're seeing her
 
 Okay, great - any questions or thoughts before we move on?
 
-*If users initially clicked on alerts, loop back to the second task*
+*If users initially clicked on alerts, loop back to the third task*
 
-## Fourth task - Alerts indicator - 1 minute
-
-Go ahead and scroll to the top, and take a look at the 'Alerts' with the little bell and the red dot. 
-
-1. What does that mean to you?
-2. What is confusing about this?
-
-Okay, great! That's it for the prototype, so we'll go ahead an move on to the next activity. 
 
 ## CARD SORT - 20 minutes (or remaining time)
 
 - Okay, great. Let's go ahead and get started - **I'll start with sharing my screen.**  
 
 [PULLS UP OPTIMAL SORT]
+
+**[CARD SORT - PARTICIPANT CARDS]** 
+
+If you were to log in to VA.gov today, what kinds of notifications would you want to see? We can write them down on these cards together. 
 
 **[CARD SORT - ADDING CARDS]** 
 
