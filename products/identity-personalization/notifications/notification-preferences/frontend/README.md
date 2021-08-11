@@ -36,8 +36,9 @@ Use prototype links above for latest versions of the prototype.
 
 ### Accessibility
 
-- Screen reader users should understand notification groupings in the same way sighted users understand groupings. e.g. using `role="group"`. This will ensure that the full context is provided to screen reader users upon tabbing into a new group or exiting one E.g. "Notify by text, checkbox, checked, Reminders to finish in-progress applications, Applications, claims, decision reviews, and appeals"
+- Screen reader users should understand notification groupings in the same way sighted users understand groupings. e.g. using `role="group"`. This will ensure that the full context is provided to screen reader users upon tabbing into a new group or exiting one E.g. "Notify me by text, radio, checked, Reminders to finish in-progress applications, Applications, claims, decision reviews, and appeals"
 - Lists should be used so screen reader users can known how many notification types exist within each group. A `dl` (definition list) may be most semantically appropriate in this context, but an `ul` unordered list may work with more assistive technology.
+
 
 ### Layout / Components
 
@@ -45,11 +46,10 @@ Use prototype links above for latest versions of the prototype.
 - H2s get h3 styling for sizing
 - Use style rules from design system for html elements padding and margins
 - Use design system components
-  -  for checkboxes
-  -  For modal
-  -  For error and save confirmation
-     - background only alert
-     - Add icons from the full alerts to the background only alert; this isn't technically in the design system OOB but, other teams use this for auto save confirmation in their forms. Discussed w/ Ryan T and it is fine to use.
+  -  for large warning alerts
+  -  radio inputs
+- Our input messaging component is being proposed as an experimental design component, and should be used for the save, error, and warning messaging. It's made up of different aspects of the design system:
+  - background-only alert, icons, form input validation message
 
 ## Content
 
@@ -58,7 +58,7 @@ Use prototype links above for latest versions of the prototype.
   2. Applications, claims, appeals, and decision reviews
   3. General VA Information and updates
 - Notification items should be listed alphabetically within each group
-- In edit mode, `notify by email` should come before `notify by text`
+- In edit mode, `notify me by email` should come before `notify me by text`
 - Source of truth: MVP notification groups and items are [captured in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
 
 ### Copy
@@ -67,22 +67,14 @@ Use prototype links above for latest versions of the prototype.
 
 Copy below `h1`:
 
-> We’ll use the contact information from your profile to send you notifications: 
+(Update URLS should go directly to that part of personal and contact info, in edit mode if possible)
+
+> We’ll use the contact information from your profile to send you the notifications you choose: 
 >
-> **user email**
-> ​**user mobile phone**
+> - **user email** [Update email](/profile/personal-information)
+> - **user mobile phone** [Update mobile phone](/profile/personal-information)
 >
-> [Update your contact information](/profile/personal-information)
-
-**Additional info component**
-
-Label
-
-> Learn more about notification options
-
-Content when expanded
-
-> At this time, we can only offer some notifications by both email and text message. We're working to expand options for more notifications. You'll find new options here as we add them.
+> 
 
 **Notification groups, channels, and items**
 
@@ -92,42 +84,58 @@ Content when expanded
 
   > Manage your health care email notifications on [My Health*e*Vet]()
 
+**More info under notification groups**
+
+> **Note:** We have limited notification options at this time. Check back for more options in the future.
+
 ## Use cases
 
 ### No contact info on file
 
-- Display info background only alert immediately below `h1`
+- Display warning alert immediately below `h1`
 - Hide notifications + groups
 
 [Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278598/specification/sitemap?mode=i)
 
 #### Copy
 
-> We don‘t have an email address or mobile phone number for you. To manage notification settings, please [update your contact information](/profile/personal-information).
+**Alert Heading** 
+
+> We don’t have your contact information
+
+**Alert Body**
+
+> We don’t have your contact email address or mobile phone number. To manage your notification settings, first update your contact information.
+
+**Alert Link** (use active link style with right chevron)
+
+> [**Update your contact information** >](/profile/personal-information) 
 
 ### Partial contact info (missing email or phone)
 
-- Display the contact information we do have in the section under the `h1`
-- Display info background only alert immediately below the "update your contact information link"
+- Display warning alert immediately below `h1`
 - Alert should reference the contact information that's missing
-
-  - Mobile phone number or
+  - Mobile number or
   - Email address
-- The channel corresponding to the missing contact info should be replaced with text. 
-
-[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376735/simulate/no-panels?mode=i)
+- [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376735/simulate/no-panels?mode=i)
 
 #### Copy
 
-**Alert Copy**
+**Alert Heading:** 
 
-> To get notifications by [missing channel], first add your [missing contact info] to your profile.
->
-> [Update your contact information] (/profile/personal-information)
+> **We don’t have your [contact information]**
 
-**Replace checkbox with:**
+**Alert Body:**
 
-> To get these [channel] notifications, first add your [missing contact info] to your profile. 
+> To manage settings for [channel] notifications, first add a [missing contact information] to your profile.
+
+**Alert Link** (use active link style with right chevron)
+
+> [**Add a [contact information] to your profile** >](/profile/personal-information) 
+
+**Replace radio inputs with:**
+
+> Want to get these notifications by text message?  [Add your mobile number](/profile/personal-information)
 
 ### User who is opted into notifications deletes their associated contact information
 
@@ -143,43 +151,58 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 ## States
 
+### User has not set a preference for a notification
+
+Use the input message pattern with a warning state
+
+#### Copy
+
+> Select an option.
+
+Mock-up
+
 ### Update in progress
 
 - Display the word "Saving..." in italics, as seen on VA.gov application forms that autosave. [Video example here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/green-save-pop-up.mov)
 - See interaction on the first checkbox in [this mock up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i)
 
+#### Copy
+
+> *Saving...*
+
 ### **Successful save**
 
-- Display a success background-only alert immediately below the box the user just clicked
+- Use the input message pattern with a success state
 - Save alert must be announced to screen reader users via `aria-live="polite"`. 
-- Any visible alert should hide when another checkbox is clicked.
+- Any visible alert should not when another checkbox is clicked to prevent a whole lotta jumping around on the page.  We will make improvements to this in a future iteration
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i); use the first checkbox
 
 #### Copy
 
-> You've updated your VA [SMS text or email] notifications.
+> Update saved.
 
-### VA Profile API GET failure (can't load any data about notifications)
+### Save failure
 
-Display error alert immediately after `h1`
+- Use the input message pattern with an error state
+- Save alert must be announced to screen reader users via `aria-live="polite"`. 
+- Any visible alert should not when another checkbox is clicked to prevent a whole lotta jumping around on the page.  We will make improvements to this in a future iteration
 
 [Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080509/comment/sitemap?mode=i)
 
 #### Copy
 
-> We’re sorry. We can’t access your notification settings at this time. We’re working to fix this problem. Please check back soon.
+> We’re sorry. We can’t save your update at this time. Please try again.
 
-### Save failure
+### VA Profile API GET failure (can't load any data about notifications)
 
-- Display background color only error alert below the checkbox clicked.
-- Any visible alert should hide when another checkbox is clicked.
+Display error alert immediately after `h1`
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376467/simulate/sitemap?mode=i)
 
 #### Copy
 
-> We’re sorry. We can’t save your update at this time. Please try again.
+> We’re sorry. We can’t access your notification settings at this time. We’re working to fix this problem. Please check back soon.
 
 ### Contact endpoint failure
 
@@ -191,12 +214,19 @@ Display error alert immediately after `h1`
 
 > We’re sorry. We can’t access your notification settings at this time. We’re working to fix this problem. Please check back soon.
 
-## Updates to profile personal and contact information section
+## Changes to profile personal and contact information section
 
-- Remove the text in the mobile number section that lets users know whether or not they're receiving health notifications
+### Additions
 
-- Remove the checkbox in edit view for mobile number section that allows users to opt-in/out of notifications
+Add success alert to mobile number and email address sections to guide users back to notification settings
 
-- Update copy in our confirmation alert so that when a user deletes their mobile number or email address information, they'll see content letting them know they may not receive notifications anymore.  [See specs for removing contact info for modal content.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/maintenance/front-end/remove-info-specs.md)
+Mock-up and copy to come
 
-  
+### Remove
+
+- Text in the mobile number section that lets users know whether or not they're receiving health notifications
+- Checkbox in edit view for mobile number section that allows users to opt-in/out of notifications
+
+### Updates
+
+- Update copy in our confirmation alert so that when a user deletes their mobile number or email address information, they'll see content letting them know they may not receive notifications anymore.  [See specs for removing contact info for modal content.](
