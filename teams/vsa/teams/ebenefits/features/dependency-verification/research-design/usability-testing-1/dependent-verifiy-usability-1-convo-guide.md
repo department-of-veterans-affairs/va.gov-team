@@ -88,7 +88,7 @@ User is again given the link to the starting page in the VA.gov staging environm
 
 ### Task 2A / Review dependents / 2 minutes
 Modal intercepts user.
-- 'observe reaction' 
+- `observe reaction` 
 - Why do you think you're seeing this now?
 - How often do expect to see this?
 - After user clicks “Remove dependent” link: This is where we run into a feature we haven’t prototyped yet. What would you expect to happen now?
