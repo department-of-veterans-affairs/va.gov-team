@@ -13,6 +13,7 @@
 
 ## Sprint 51 (6/30 - 7/13) 
 [Sprint 51 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25126)
+
 Any outstanding work from 50 plus:
 
 ### My VA
@@ -61,6 +62,7 @@ lots of clean up work if bandwidth exists
 
 ## Sprint 52 (7/14 - 7/27)
 [Sprint 52 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25127)
+
 Any outstanding work from 51 plus: 
 
 ### My VA 
@@ -103,7 +105,9 @@ Any outstanding work from 51 plus:
 [Sprint 53 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26228)
 
 ### My VA redesign
-- submit for full accessibility review
+**FE**
+- My VA 1.0 code cleanup
+- Minor GA enhancements
 
 ### Action Items Discovery
 **Design/Research**
@@ -111,20 +115,22 @@ Any outstanding work from 51 plus:
 
 ### Notification preferences
 **PM**
-- Product guide updates
-- Submit product guide to Contact Center for review
-- Submit analytics request
-- Submit QA test plan request for QA to occur in sprint 55
+- Product guide updates (moved to later sprints due to design changes)
+- Submit product guide to Contact Center for review (moved to later sprints due to design changes)
+- Submit analytics request (moved to later sprints due to design changes)
+- Submit QA test plan request for QA to occur in sprint 55 (moved to later sprints due to design changes)
 
 **Design/Research**
-- Assist with product guide updates
-- Design solution for oreniting users to notification preferences as a new concept on VA.gov
+- Assist with product guide updates (moved to later sprints due to design changes)
+- Design solution for oreniting users to notification preferences as a new concept on VA.gov (moved to later sprints due to design changes)
+- Create new design for solving for profile completeness _and_ getting users out of null state
 
 **Frontend**
-- FINISH BUILD
+- Continue build
+- _additional work based on revised designs, i.e. modifications to radio button component_
 
 ### Profile
-- as needed
+- as needed 
 
 
 ## Sprint 54 (8/11 - 8/24)
@@ -137,45 +143,96 @@ Any outstanding work from 51 plus:
 ### Notification preferences
 
 **PM**
-- Internal QA
-- Submit staging review request for sprint after next?
+- Test case documentation updates
+- Analytics request
+- Submit Staging review request
+- Test with VA Notify and VA Profile
 
 **Design/Research**
-- TK
+- Experiemental design submission
+- New design prototype and review internally
+- Documentation updates
+- Test with VA Notify and VA Profile
 
 **Frontend**
-- Resolve any internal QA issues
+- Continue build: radio button revisions and implementation
+- Testing with VA Notify and VA Profile
+
+**Backend**
+- Identity team work
+- VA Profile errors
+- Testing with VA Notify and VA Profile
 
 
 
 ## Sprint 55 (8/25 - 9/7)
 [Sprint 55 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27314)
 
-### My VA - Action Items Discovery
-**PM**
-- MVP discussions with Kevin
-
-**Design/Research**
-- Research synthesis
-- MVP discussions with Kevin
-
 ### Notification preferences
 
 **PM**
-- TK
+- Test plan request
+- Product guide updates
+- Internal testing
+
 
 **Design/Research**
-- TK
+- Design solution to return users to task (updating preferences)
+- Help with product guide updates
+- Internal testing
 
 **Frontend**
-- TK
+- Complete build
+- Address any findings from internal testing/testing with VA Profile
+
+### Action Items Discovery
+
+**Design/Research**
+- Research synthesis
+
+### Profile
+
+**Frontend**
+- cleanup work as needed/capacity allows
+
 
 
 ## Sprint 56 (9/8 - 9/21)
 [Sprint 56 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28591)
 
+### Notification preferences
+
+**PM**
+- QA go/no
+- QA
+
+**Design/Research**
+- TK
+
+**Frontend**
+- Respond to QA findings
+
+### Action Items Discovery
+
+**PM**
+- MVP scope discussions
+
+**Design/Research**
+- MVP scope discussions
+
 ## Sprint 57 (9/22 - 10/5)
 [Sprint 57 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28592)
+
+### Notification preferences
+
+**PM**
+- Staging review
+
+**Design/Research**
+- Address/respond to findings from staging review
+
+**Frontend**
+- Address/respond to findings from staging review
 
 ## Sprint 58 (10/6 - 10/19)
 
