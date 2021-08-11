@@ -42,7 +42,7 @@ The purpose of this research was to
   - Are there any difficulties in finding the file to open it? 
   - Does the file always open in Acrobat?
   - What are users' reactions to auto-download? 
-- Are participants able to save and/or digitally sign the forms? 
+  - Do participants figure out how to save and/or digitally sign the forms? 
 - Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
 - What is the success rate of participants downloading forms from each of the three design options? Is one more effective than the others? 
 
@@ -56,6 +56,8 @@ We conducted hour-long remote moderated research sessions via Zoom on **July 27-
 
 
 Each participant saw one of three versions of the Find a Form page:
+
+You can see screenshots in the [Pages and applications used section below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md##Pages-and-applications-used):
 
 ## 1. Instructions at the top of the list of forms
 
