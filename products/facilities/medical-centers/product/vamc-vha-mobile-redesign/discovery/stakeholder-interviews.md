@@ -68,50 +68,54 @@ Today VA.gov links to a very simple page. [Show local webpage]
 
 [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1621428990239/3d51af4fa995ba023556956d066b2fbdda6a89ff?sender=leydahughes3111)
 
-1. ~~Montrose 1 VA Mobile Clinic~~  **RESPONSE:** Stakeholder responded that these mobile clinics are no longer operating
-    - https://www.va.gov/find-locations/facility/vha_620QA
-    - In dual state? **Yes**
-    - https://www.va.gov/hudson-valley-health-care/locations/montrose-1-va-mobile-clinic/
-    - https://www.va.gov/hudson-valley-health-care/locations/montrose-2-va-mobile-clinic/
-    - https://www.va.gov/hudson-valley-health-care/locations/montrose-3-va-mobile-clinic/
-
-2. Cheyenne VA Mobile Clinic
+1. Cheyenne VA Mobile Clinic  **INTERVIEWED ON JUNE 15, 2021**
     - https://www.va.gov/find-locations/facility/vha_442QF
     - In dual state? **Yes**
     - https://www.va.gov/cheyenne-health-care/locations/cheyenne-va-mobile-clinic/
     - Reached out to Jill Atwood VISN 19 PAO
     - Reached out to Samuel House Cheyenne PAO > **RESPONSE:** directed me to Scott & Izzy (RNs) 
     - Reached out to Samuel, Scott & Izzy for a meeting 
-    **MEETING SCHEDULED FOR TUESDAY, JUNE 15, 2021**
 
- 
-3. Palo Alto Mobile Clinic
-    - https://www.va.gov/find-locations/facility/vha_640QA
-    - In dual state? **Yes**
-    - https://www.va.gov/palo-alto-health-care/locations/
-    - Reached out to Palo Alto PAO Kim Betton > bounced back
-    - Reached out to VISN 21 PAO Armenthis Lester - waiting
-
- 
-4. Des Moines Mobile Clinic
-    - https://www.va.gov/find-locations/facility/vha_636QH
-    - In dual state? **Yes**
-    - https://www.va.gov/central-iowa-health-care/
-    - Reached out to Central Iowa PAO, Jerry Self - waiting
-    - Reached out to VISN 23 PAO - Ron Woolery - waiting
-
-5. Fayetteville VA Mobile Clinic (NC)
+2. Fayetteville VA Mobile Clinic (NC) **INTERVIEWED ON JUNE 17, 2021**
     - https://www.va.gov/fayetteville-coastal-health-care/
     - In dual state? **Yes**
     - https://www.va.gov/fayetteville-coastal-health-care/locations/fayetteville-va-mobile-clinic/
     - Reached out to VISN 6 PAO: Tara Ricks-Edger
     - **RESPONSE:** Tara responded and referred me to new PAO, Gigail Cureton 
     - Reached out to both for a meeting
-    - **MEETING SCHEDULED FOR TUESDAY, JUNE 15, 2021**
+
+3. Des Moines Mobile Clinic   **INTERVIEWED ON JUNE 22, 2021**
+    - https://www.va.gov/find-locations/facility/vha_636QH
+    - In dual state? **Yes**
+    - https://www.va.gov/central-iowa-health-care/
+    - Reached out to Central Iowa PAO, Jerry Self - waiting
+    - Reached out to VISN 23 PAO - Ron Woolery - waiting
+        
+4. Columbia VA Mobile Clinic   **INTERVIEWED ON JULY 7, 2021**
+   - https://www.va.gov/find-locations/facility/vha_544HK
+   - https://www.va.gov/columbia-south-carolina-health-care/
 
 
+5. Orlando Part 1 - Emergency Management **INTERVIEWED ON JUNE 29, 2021**
+    - https://www.va.gov/find-locations/facility/vha_675
+    - https://www.va.gov/orlando-health-care/
+   Orlando Part 2 - Veteran Outreach & Minority Programs Coordinator  **INTERVIEWED ON JULY 12, 2021**
 
 ### TBD
+
+~~Palo Alto Mobile Clinic~~ **NO RESPONSE:**
+    - https://www.va.gov/find-locations/facility/vha_640QA
+    - In dual state? **Yes**
+    - https://www.va.gov/palo-alto-health-care/locations/
+    - Reached out to Palo Alto PAO Kim Betton > bounced back
+    - Reached out to VISN 21 PAO Armenthis Lester - waiting
+
+~~Montrose 1 VA Mobile Clinic~~  **RESPONSE:** Stakeholder responded that these mobile clinics are no longer operating
+    - https://www.va.gov/find-locations/facility/vha_620QA
+    - In dual state? **Yes**
+    - https://www.va.gov/hudson-valley-health-care/locations/montrose-1-va-mobile-clinic/
+    - https://www.va.gov/hudson-valley-health-care/locations/montrose-2-va-mobile-clinic/
+    - https://www.va.gov/hudson-valley-health-care/locations/montrose-3-va-mobile-clinic/
 
 Long Beach VA Mobile clinic
    - Cannot find on Facility Locator or VAMC 
@@ -131,10 +135,6 @@ Houston VA mobile clinic
    - https://www.va.gov/find-locations/facility/vha_580QB
    - In dual state? **Yes**
    - https://www.va.gov/houston-health-care/
-
-Columbia VA Mobile Clinic
- 
-   - https://www.va.gov/find-locations/facility/vha_544HK
 
 Chillicothe VA Mobile Clinic
     - https://www.va.gov/find-locations/facility/vha_538QA

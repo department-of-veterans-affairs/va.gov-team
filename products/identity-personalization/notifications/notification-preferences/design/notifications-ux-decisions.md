@@ -2,7 +2,7 @@
 
 Designer: Liz Lantz, VSA Authenticated Experience
 
-Last updated: 5/07/2021
+Last updated: 7/29/2021
 
 ## Background and goals
 
@@ -15,6 +15,25 @@ We're approaching this from an MVP perspective with the understanding that we'll
 Document UX decisions for the MVP and our rationale for making these decisions. 
 
 ## UX Decisions
+
+### Improve ability to account for NULL permissions
+
+7/29/21
+Attendees/contributors: Kevin Hoffman, Ana Jackabcin, Erik Hansen, Liz Lantz, Lihan Lee, Maria Becker, Shane Elliot, Todd Stanich, Beverly Nelson
+
+Update design to make it clear whether or not a user has ever updated their permissions
+- Change checkbox to radio buttons in order to
+  - Make it clear to the user whether or not they have ever made a selection
+  - Giving the user a clear way to say "no" if they have never made a selection
+- Add messaging to encourage Veterans to make a selection.  Exact solution TBD, exploring a variation of our input error message pattern, full-width alerts, and a modal
+
+### Improve clarity for notification setting status
+Week of 7/12 (writing retroactively)
+Attendees: Liz Lantz, Kevin Hoffman, Ana Jackabcin
+
+- Update design to remove read mode in order to clearly expose status of notification settings
+- Remove gray heading background and containers to improve spacing, readability, and mobile UX
+
 
 ### Use case: user opted into notifications deletes their associated contact information
 

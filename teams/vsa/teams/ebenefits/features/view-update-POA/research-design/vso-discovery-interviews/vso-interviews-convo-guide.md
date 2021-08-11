@@ -25,39 +25,42 @@ There are a few things I need to mention before we start:
 
 ## Warm-up
 - Would you tell us a little bit about yourself? 
+  - What are your own service and VA benefits experiences?
   - What organization are you with?
   - How long have you been an authorized rep?
-  - How did you get into representing veterans?
+
 
 ## Section one: Becoming a VSO/rep
+- How did you get into representing veterans?
 - How is your role commonly referred to? (VSO, Veteran Service Officer, rep, etc.)
-- What are your own service and VA benefits experiences?
 - What credentials or training are need to be a VSO?
 
 ## Section two: Starting an appointment
-Okay, let’s talk a little bit about how Veterans and Service Members find you and start an appointment.
-- How do veterans or service members typically find you? (VA lookup, some other search like Google, referral, etc)
+Okay, let’s talk a little bit about how Veterans and Service Members find you and start an appointment 'probe on language'.
+- How do veterans or service members typically find you? (VA lookup, some other search like Google, referral, etc) 
 - How do they contact you before they appoint a rep? (phone, email, webform…?)
 - Typically, how far along in the benefits/claims process are Veterans when start looking for a rep? 
 - When a Veteran is ready to appoint a representative, how do they make that selection official? (use VA 21-22/a? typically use a paper form or submit electronically?)
-- Aside from the what we just talked about, how else might a Veteran or Service Member find you?
+  - Where do you think this goes?
+- Aside from the what we just talked about, how else might a Veteran or Service Member find you? (Is there anything else I should know or consider?)
 
  
 ## Section three: Working with Veterans
 Thank you, that really helps me understand how Veterans start this process. Now, let’s talk about how things work after they have appointed you as their representative. 
-- How much information do you typically have when you receive an appointment?
-- After a Veteran or Service Member appoints you as their representative, how often do you interact with them?
-  - How do you usually work with them - phone, email, in person, etc?
+- After a Veteran or Service Member appoints you as their representative, how much information do you typically have when you receive an appointment?
+- How often do you interact with them?
+  - (How do you usually work with them - phone, email, in person, etc?)
+- What type of claims do you specialize in? (Is this common terminology of specializations in your field?)
 - What are the most common issues you help with?
-- What type of claims do you specialize in?
+
 
 ## Section four: Limits and ending appointment
 Okay, we’re almost finished. I’d just like to ask a few more questions about the limits of representation and how representation ends.
 - What are the limits on what you can help with? 
   - When would you need to decline an appointment or refer to another representative?
   - When do you usually find out that a case has an issue like that - is it early in the process or later after quite a bit of work has been done?
-- How long do appointments typically last?
-  - How do you know when an appointment is ending? (the end of a claims process, after a certain amount of time…)
+- Once a Veteran or Service Member has submitted their 21/22a and you are their representative, how long do you typically work with them?
+  - How do you know when reprsentation is ending? (the end of a claims process, after a certain amount of time…)
   - What is the process to end representation?
 - If you could change just one thing about the process of being appointed as a representative for a Veteran, what would it be?
 

@@ -1,6 +1,6 @@
 # Communications permissions (notification preferences): Product outline
 
-Last Updated April 19, 2021
+Last Updated August 03, 2021
 
 ## POCs
 
@@ -60,21 +60,23 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 **Objective: Allow Veteran's to easily customize how they communicate with the VA.**
 
-- **Key result #1**: Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).
-- **Key result #2**: Increase the number of profiles that have mobile phone numbers and email addresses by 15% each. [April 2021 baseline report from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/data/VA%20Profile%20PowerBI%20Report%2011%20Current%20Contact%20Info%20Report.pptx)
+- **Key result #1**: ~Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).~
+- **Key result #2**: Increase the number of profiles that have mobile phone numbers and email addresses by 15% each on a quarterly basis. [April 2021 baseline report from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/data/VA%20Profile%20PowerBI%20Report%2011%20Current%20Contact%20Info%20Report.pptx)
 
 |KPI/metric|Baseline as of 4/30/21| Baseline immediately before launch (date TBD) |% of profiles with this info at the end of Q4 2021 (Oct - Dec) | % of profiles with this info at the end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|--------------|--------------|
 |# of profiles with mobile phone saved in VA Profile backend|7,759,973/15,329,217 profiles (50.6%)|TBD|TBD|TBD|
 |# of profiles with email addresses saved in VA Profile backend|6,367,462/15,329,217 profiles (41.5%)|TBD|TBD|TBD|
 
-- **Key result #3**: Maintain at least a 95% success rate for retrievals of notification preferences.
+- **Key result #3**: 60% of first time users of notification preferences have set at least one of the four notification preferences available at launch within the first quarter of launch.
+
 - **Key result #4**: Maintain at least a 95% success rate for successful saves of notification preference information.
+- **Key result #5**: Maintain at least a 95% success rate for retrievals of notification preferences.
 
 |KPI/metric|Success rates 1 month after launch| Success rates at the end of Q4 2021 (Oct - Dec) |Success rates at the end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|-------------------|
-|% of successful retreivals|TBD|TBD|TBD|
-|% of successful saves|TBD|TBD|TBD|
+|95% successful retreivals|TBD|TBD|TBD|
+|95% successful saves|TBD|TBD|TBD|
 
 # Implementation Info
 
@@ -91,10 +93,12 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **March 2021**: Design begins
 - **April 2021**: Initial design wrapped; worked with VANotify and VEText to understand MVP notification preference needs
 - **June 2021**: Desktop usability study complete ([research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research))
-- **July 2021**: Development
+- **July 2021**: Development, design iterations
 - **August 2021**: QA
 
 ## Product Decisions
+
+- [UX specific decision doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/design/notifications-ux-decisions.md)
 
 ## Technical Details
 

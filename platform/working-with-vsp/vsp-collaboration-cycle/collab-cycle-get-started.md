@@ -85,7 +85,7 @@ Examples of **changes to url, navigation, or entry points** include:
  - Moving an online tool or content page within the site or needing to retire/redirect a page
  - Modifying options within core navigation elements (for example, top nav, left nav, home page)
 
-### 9. Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?
+### 9. Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
 ### 10. If yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?
 
 We ask these questions to determine if Analytics will need to be involved in your Collaboration Cycle reviews, and if an Analytics Request is necessary.

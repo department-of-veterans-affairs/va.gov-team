@@ -12,78 +12,127 @@ How might we make it easier for Veterans and their caretakers to apply for a wid
 
 ### Background 
 
-The 21st Century Integrated Digital Experience Act, otherwise known as 21st Century IDEA, was signed into law in December 2018.  The Act requires all executive branch agencies to:
+The use of paper/PDF forms by Veterans and their beneficiaries for determining eligibility, applying for and managing changes related to VA benefits is increasingly out-of-step with key Federal Government modernization and security initiatitives, including:
 
-- digitize services and forms,
-- accelerate use of e-signatures,
-- improve customer experience, and
+- The 21st Century Integrated Digital Experience Act, otherwise known as 21st Century IDEA, was signed into law in December 2018.  The Act requires all executive branch agencies to:
 
-Docusign has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  VA has the opportunity to test the desirability and viability of electronic signature transaction -- which has become common in the consumer sector (e.g. Home Loans, legal agreements, etc.) -- using the new modernized Find a Form tool as the test bed.
+  - digitize services and forms,
+  - **accelerate use of e-signatures**, and
+  - improve customer experience
 
-More details about the Docusign Federal Government initiative here:
+- The Social Security Number Fraud Prevention Act of 2017 which prohibits the inclusion of SSNs on any document sent by mail unless the head of the agency determines that the inclusion of the SSN is necessary. [For VA, any form that has a field for a SSN, must be reviewed and a determination must be made as to whether that field can be removed, reduced to only the last four digits, or remain as-is](https://www.oprm.va.gov/privacy/SSNReduction.aspx). If the full SSN must remain, the program office that owns that form must submit an acceptable justification. This portion of the Act must be implemented by 2023.   This requirement is compelling VA to consider updating a broad range of forms - a time-consuming, costly process given resource constraints.
 
-https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
+The reliance on PDF comes with another challenge which has grown more prevalent with the complexity of browsers, devices and operating systems: compatability.  While the Adobe PDF format has long been considered "cross compatible" the user experience can vary -- especially for those who do not rely on the free Adobe reader.   This is illustrated by the [steps required to open, fill and/or electronically sign PDFs](https://portal.ct.gov/DEEP/About/Tips-for-Viewing-and-Using-Fillable-PDFs).
 
-Trump signs IDEA Act into Law: President Trump signed the 21st Century IDEA Act into law, requiring all Federal agencies to make sure their websites are user-friendly and support digital forms
-
-https://www.meritalk.com/articles/president-trump-signs-21st-century-idea-act-into-law/
-
-Electronic signatures in the coronavirus (COVID-19) era
-
-https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
-
-Docusign Overview of 21st Century IDEA Act & Readiness info
-
-https://www.docusign.com/21st-century-idea-act
-
-Docusign Agreeable Government Mandate whitepaper
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
+In fact, VA.gov user research conducted in [July-August of 2021 revealed numerous "real users, real life" friction points in the PDF-centric Find a Form product.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/topline-summary.md) New VA efforts to include electronic signature functionality in the PDF forms has made the compatibility issue even more pronounced.
 
 
+With all this in mind, we believe it is vital that we examine the feasibility of a new, more user-friendly approach to enable Veterans and beneficiaries to apply/manage their benefits -- one that is:
 
-**Benefits of e-Signature solution**
+- (a) far more robust than the legacy "download and print PDF" process, and;
+- (b) can be implemented at scale (as compared to the engineering intensive approach of transforming forms into full-on online applications).  
 
-An e-Signature solution should provide the following benefits:
 
+**Our user experience goal:** Make every Veteran-facing form digitally fillable, signable, and searchable from nearly any desktop and mobile device.
+
+**The solution we would like to pilot/test:** A cloud-based e-application service -- examples include DocuSign and Adobe Sign -- that enables a user to view, fill-in, sign and submit a PDF document using a browser or mobile device.  Assumed benefits of this approach:
+
+- More universally compatabile 
+- Less error-prone (e.g. built-in error handling; application can not be submitted without completion of required fields)
+- More secure (e.g. paper form can stolen/lost in the mail)
+- Reduces technology overhead for user (e.g. no need for user to have a FAX machine)
+- Faster delivery-processing time (e.g. submitted electronically vs. snail mail)
+- Business cost savings (e.g. eliminating costly paper-processes; data is captured and transmitted electronically)
+- Increasing user comfort/familiarity (e.g. e-applications are becoming more common in the consumer finance sector for home Loans, auto loans, etc.)
 - Legally binding signature
 - Can pre-fill users information with authentication
 - Can support multiple signatures (e.g. Veteran and Spouse, Dependents, Attorney) 
-- Application can not be submitted without completion of Required fields 
 - Attachments can be included for supporting documents
 - Can automatically add up loan amounts and use of funds amounts to take the burden off the applicant
 - Allows user to save and return later to complete process
 - Is Secure, encrypted in transit and in rest
 - Is accessible to those using screen readers
 - Requires no special plug-in or helper application
-- Success metrics would include:
+
+### About the Pilot
+
+For the pilot, we would propose the following (with more granular details to be determined as part of the Discovery process)
+
+- **Leverage DocuSign for this pilot.** DocuSign already has an Enterprise License Agreement with VA to digitize many of the VA's paper intensive processes such as consent and privacy docs.  That agreement includes 100,000 envelopes (a submitted form), providing ample opportunity to pilot test -- in production -- a limited number of select forms-transactions.   DocuSign is already working closely with VA Privacy Office on the e-signature and SSN reduction initiatives.   DocuSign has tentatively agreed to support this pilot and has provided this "business case" to highlight benefits.         
+
+[VA-DocuSign Form 40-1330 - Business Case Final.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/6933796/VA-DocuSign.Form.40-1330.-.Business.Case.Final.pdf)
+
+- **Select a limited number of VA Forms for testing, based on criteria including:**
+  - Expense to the agency (e.g. the paper process is unwieldy)
+  - Expense to the user (e.g. any fees associated with completing)
+  - Time-intensive (e.g. forms with highest burden -- complexity, number of questions, etc.)
+  - Most used forms (e.g. highest submission volumes)
+
+- **Possible Forms to be tested and rationale**
+  - A middle-tier form with no online application option
+  - A middle-tier form with an online application option
+  - TBD
+  - TBD
+
+- **Success metrics would include:**
   - Evidence of user preference over standard digital download and email/fax
   - Reduced "error rate" in submitted documents
   - Reduction in labor costs associated with manually keying in form data
   - Faster speed to outcomes
+  - Eliminate from the process:
+    - Hassles
+    - Errors
+    - Delays
+    - Risks
+    - Paper
+  - Build into the process:
+    - Time savings
+    - Cost savings
+    - Security
+    - Trust
+
+### Relevant Resources & Links
 
 
-**
+- More details about the Docusign Federal Government initiative here:
+https://www.docusign.com/blog/growing-federal-government-acceptance-electronic-signatures
+
+- Electronic signatures in the coronavirus (COVID-19) era
+https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-in-the-coronavirus-covid-19-era
+
+- Docusign Overview of 21st Century IDEA Act & Readiness info
+https://www.docusign.com/21st-century-idea-act
+
+- Docusign Agreeable Government Mandate whitepaper
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
+
+- Gartner review of competitive e-signature solutions/services
+https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives
+
 
 ### Discovery Sprint Roles
 
-* Product Lead: John Hashimoto
+* OCTO-DE Product Lead: TBD
+* OCTO Product Engineer for Identity/Authentication: Cody Reinhold
 * Product Manager: Marci McGuire
 * Discovery Sprint Lead: TBD
-* Engineer: Zach Morel
+* Front End Engineer: Zach Morel
 * Designer: Cassandra Allen
 * Researcher: Cindy Merrill
 * Accessibility: Josh Kim, Angela Fowler
-* Other people from the Sprint Team:
-* SME: Janel Keyes
+* VA Champion: Janel Keyes, VHA Deputy Director 
+
+
 
 ### Stakeholders
-* VA business owner: Janel Keyes
+* VA executive champion: Janel Keyes, VHA
+  - VA Privacy Office - Kamilah Jackson and Stephania Griffin
+  - Veterans Experience Office - Tim Hudak
 * Stakeholders who will be involved or interviewed: TBD.  Possiblilities:
     - OMB Personnel to better understand the form creation/approval/modification process
     - VA Forms leadership to better understand the end-to-end workflow from form creation to the processing of submitted forms
     - VA Forms Managers to better understand their workflow in adding new or updated forms to the VA system
-    - Other technical teams that complete VA forms in the background as part of their web applications
+    - Other technical teams that complete VA forms in the background as part of their web applications (e.g. VA Publications Services - Brian Mano)
     - VA personnel who process forms that have been emailed, mailed, or faxed in
         - Centralized Mail: https://eauth.va.gov/accessva/about/dmhs
         - VA Evidence Intake Center: https://cck-law.com/blog/what-is-the-va-evidence-intake-center/
@@ -175,17 +224,12 @@ _To be filled out by the sprint team._
 * Links to key documents (discovery readout, charter, etc.)
 
 # Next Steps
-- Talk with Matt & Sabrina - next week or so
-- Talk to Janel & possibly Yvette?
-   - Possible executive champion
-- Meet again with Docusign after that conversation
-- What other insights do we need to flesh out?
-  - Whether we should do it
-  - If we do, HOW do we do it?
-- What do the costs look like? 
-- Cost/Benefit analysis
-  - Hard costs
-  - Soft costs
-  - Benefits to Veterans & caregivers
-  - Estimated cost per page
-  - Janel's BA can figure that out
+- [X] Talk with OCTO-DE Benefits Applicatons Product Leads Matt Self & Sabrina Mohamed
+- [X] Talk to VHA Forms lead Janel Keyes
+- [ ] **Talk to Office of General Counsel (OCG) -- in particular Gi-Hyun An. Per Janel Keyes,"OGC previously considered DocuSign, and they had concerns regarding the use of a third party platform."**
+- [ ] Talk to VBA Forms lead Yvette Allmond
+- [ ] Talk to VA Privacy Office - Kamilah Jackson and Stephania Griffin
+- [ ] Determine how to test and goals of test -- e.g., Is usability testing needed -- or sample test in Production for a period of time?
+- [ ] Flesh out the business case, economics -- if VA were to adopt the DocuSign solution, who would create all the DocuSign formatted forms and at what cost?  What would be the annual licensing cost based on estimated transaction volume?  What's the ROI?
+- [ ] PO needs to get Crew Chiefs and Chris Johnston sign off
+

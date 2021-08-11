@@ -53,5 +53,5 @@ Please note:
 ## Additional information
 For the Design Intent, you'll receive feedback from design and IA only. You won't receive feedback from accessibility, content, or QA, as it's too early in the development process.
 
-Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/README.md) or the [Design Intent Touchpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-design-intent.md) on Github for more information about the Collaboration Cycle.
+Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Design Intent Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Design-intent.1782153235.html) on Platform website for more information about the Collaboration Cycle.
 

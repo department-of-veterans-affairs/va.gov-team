@@ -25,7 +25,58 @@
 
 ## August 4
 
-* Automate 'required' services for Vet Centers?
+**VAMC**
+* Followups to broken VAMC Locations List pages
+  * Post mortem
+  * Tech debt/defects related to CMS #1005 (January 2020!) refactoring of List pages.
+    * Automated testing to check Locations List page (not just individual Locations)
+    * Facilities will validate other 5 List pages (Health Services, News releases, Events, Stories, Leadership)
+* Dynamic side nav [##17746](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17746)
+  * Discovery determined this work may be more effort than it is worth
+  * May need to look at creating runbook tracking the individual tasks needed for new/merged faciities?
+  * A CMS-based dynamic approach is blocked by some Accelerated Publishing work. 
+  * Facilities team to log this in the icebox for now
+
+CMS/VAMC/Facilities upgrade team can collaborate on a "how to spin up a VAMC site" runbook
+  * VAMC upgrade team will get ball rolling on this. 
+
+**Vet Centers**
+
+Product iteration, still in ideation:
+* Required Prepare for your visit, eg parking
+* Nationalizing at least one of the Prepare for your visit accordions (what to bring)
+* Required services for Vet Centers
+  * Research happening about whether or not local description should be required to augment national description 
+  * Editors _maybe_ wouldn't be able to remove/delete that service.
+
+
+Meta description for Vet Centers Locations page 
+ * Content input in [comment here on #27812](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27812#issuecomment-891111897)
+ * **CMS team** to audit description and og:description for all content types, current state and what it should be.  
+   * More of a site-wide issue than a Vet Center issue.  
+
+How to direct Vet Centers for facility data changes
+ * Email api@va.gov (current guidelines in CMS UI) or VSSC? 
+ * Decision: continue to email api@va.gov and Lighthouse will respond with instructions
+ * Facilities team can leapfrog Lighthouse with a data call to Vet Centers (other than District 5) by having them review data in Facility Locator, prior to onboarding to CMS. 
+ * Potential editorial experience change: "Once data has changed upstream, it can take up to 48 hours to make its way here." and/or "Requests to change this data take time to process, etc".
+
+Facility status "more info" field
+ * Should CMS harden character count to 300 (instead of soft limit) or should Lighthouse relax their character count?
+ 
+VAMC banner alerts
+ * possibly refactor VAMC product to use the new banner content type and bring in situation updates in a different way. 
+ * should we impose character limits and dismissible by default in the meantime for VAMC banners to match guardrails from new banner alert type?
+
+Emergency communications more generally
+ * what is the right experience for veterans and VAMC editors and how it relates to overall comms
+ * what can go into a bottom of page 
+
+Promotional content
+ * can VAMC leverage https://design.va.gov/components/promo-banners for marketing content like VA Health Chat app (currently a banner alert at https://www.va.gov/wilmington-health-care/) 
+
+
+**Other?**
 * Hardening/engineering sync
 
 

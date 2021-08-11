@@ -7,14 +7,14 @@ Before we start, a few things I want to mention:
   - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 	  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
   - If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
-Start recording.
+
+[Start recording]
   - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 ## Warm-up Questions- 5 minutes
-Before we look at the website, let’s start with a few warm-up questions.
-  - Before we look at the website, can you tell me a little about yourself? 
+Before we look at the website, can you tell me a little about yourself? 
   - What part of the country do you live in? 
   - What branch did you serve?
-  - What type of devices do you use to access services?
+  - What type of devices do you use to access VA.gov?
   - Which browser do you use to access the internet?
   - Which account do you use to sign in to the VA.gov site?
   	- How did you determine which account you’d be most comfortable using?
@@ -23,6 +23,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Sign-in process - 5 minutes:
   - Could you describe to me how you would sign in to the VA.gov site?
   - Would you be comfortable with screen-sharing your sign-in process with me and talking me through how you sign-in?
+ 
  **Things to watch for:**
   - Do they use search or browse?
   - If they search, what is that like? What about browsing?
@@ -33,16 +34,14 @@ Before we look at the website, let’s start with a few warm-up questions.
   - How often do you access VA.gov?
   - Which accounts (if you have multiple) do you use most often?
   	- Follow-on: Do you associate specific credentials with specific areas of VA? or Do use different credentials for different parts of VA? Why?
-  - What devices do you typically use when visiting the VA.gov?
   - How would you describe your past and current experience with VA.gov?
   - Do you have others that sign in for you (Caregiver? Family member?) Tell me about some instances when you would have someone sign in for you.
   - Are there instances where you’ll use someone else’s login? Tell me about that process.
   - What are the most important tasks you or other people need to perform when using VA.gov? 
   - How do you normally get to [task that was referenced above]?
   - Do you or did you in the past use other websites and resources for the same purpose?
-  - How much time do you typically spend on VA.gov /how often do you visit?
+  - How much time do you typically spend on VA.gov?
   - What information do you typically need before you sign into the site?
-  - Could you describe to me how you would sign into the site?
   - If you had a question regarding sign in do you know who to contact?
 	  - If yes – how do you know?
 	  - If not – how would you go about contacting someone?
@@ -62,9 +61,9 @@ Scenario: Imagine you need to track the status of a claim [or task participant m
 - What are your overall impressions?
 	- Does this screen look familiar?
 	- Does anything look different? 
-- How would you proceed? [after giving impressions of changes]
 - Which of these methods would you be interested in logging in with?
 	- Rate each credential on a scale of 1 - 5, 1 being ”I would not use to sign in”, 5 being “I would definitely use to sign in”
+- How would you proceed? [after giving impressions of changes]
 	- If logging in with DSLogon or MHV [participant presented with second screen with new messaging and options]
 		- Take a min to look it over the next screen
 			- Which option would you prefer and why? (Login.gov, Id.Me, Skip)

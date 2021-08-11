@@ -34,11 +34,12 @@ StatsD is the main metric collector for all of Vets-API and Vets-Website. The me
 [IAM SSOe OAuth Session Metrics](https://github.com/department-of-veterans-affairs/vets-api/blob/9c908c868e8d1cc5d28f148696baf0df6f1ab8e0/config/initializers/statsd.rb#L224) related Oauth metrics for mobile. We normally do not interact with this data much so only adding this as a reference.
 
 ### Errors
-SAML Errors can be found [here](https://github.com/department-of-veterans-affairs/vets-api/blob/9c908c868e8d1cc5d28f148696baf0df6f1ab8e0/lib/saml/errors.rb#L14). More information on SAML errors should be referenced from a previous task called [Sentry Hackathon](https://github.com/department-of-veterans-affairs/va.gov-team/tree/joeniquette-identityerrorsmetrics-1/teams/vsp/teams/identity/Sentry%20Hackathon%202020).
+SAML Errors can be found [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/saml/errors.rb#L15). More information on SAML errors should be referenced from a previous task called [Sentry Hackathon](https://github.com/department-of-veterans-affairs/va.gov-team/tree/joeniquette-identityerrorsmetrics-1/teams/vsp/teams/identity/Sentry%20Hackathon%202020).
 - `MULTIPLE_MHV_IDS_CODE`
 - `MULTIPLE_EDIPIS_CODE`
 - `MHV_ICN_MISMATCH_CODE`
 - `IDME_UUID_MISSING_CODE`
+- `MULTIPLE_CORP_IDS_CODE`
 
 ### Performance Alerting
 [Prometheus](http://prometheus-prod.vfs.va.gov:9090/prometheus/alerts) is the main location of our performance alerts. Many of the metrics the Identity team maintains are graphed here and then used for alerting to slack and pagerduty.

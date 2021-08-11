@@ -35,6 +35,34 @@
 
 </details>
 
+## August 11
+
+Banner path / scope
+
+## August 4 
+
+Banners for Sept 1
+ * New banner content type
+ * **CMS** 
+   * Get Entity ID to hardcode against
+   * New field: dismissible with default as TRUE
+   * Change alert body limit to 300 character soft limit, 500 character hard limit, not including HTML (not 1000)
+   * 2nd half of august: Knowledge Base article(s) 
+   * Change management and adoption in September
+ * **Public websites** 
+   * to track dismisses of alerts
+
+
+Og:image
+* CMS provides only the path for og:images, but not the hostURL (www.va.gov) 
+
+CLP
+* Tim H and Katie working on a new one 
+* Pride is staying up, not being retired and redirected
+* Trust CLP staying up for now, still being promoted
+* John reviewing Jane's KB articles, slidedeck for training
+
+
 ## July 28
 
 * Pride CLP archive/redirect details

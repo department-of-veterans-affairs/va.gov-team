@@ -1,5 +1,8 @@
 **QUARTERLY PLANNING**
- 
+
+<details><summary> 2021 Q1 (January - March) </summary>
+
+
 
  ***Q1: Jan-Mar***
 |**Initiative**         |[S40 - (1/27-2/9)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19480) |**[S41 (2/10-2/23)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19627)**         |**[S42 (2/24-3/9)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19694)**         |**[S43 (3/10-3/23)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19695)**| 
@@ -14,8 +17,12 @@
 |[XML Sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16752)             |n/a |Stretch Goal |~~Knowledge transfer from PW~~ Delayed  |Knowledge transfer from PW |
 |[Click Tracking]()             |n/a |n/a|n/a |(Stretch)Explore Best Bet Implementation|
 |[Site Indexing]()             |n/a |n/a|n/a |(Stretch) Exploration to understand what we do today and what we can control on FE|
+</details>
 
+<details><summary> 2021 Q2 (April - June) </summary>
 
+ 
+ 
  ***Q2: Apr-Jun***
 | Initiative                                                                                                         | [S44 (Mar 10- Apr)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21835) | [S45 (Apr 7 - 20)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21836) | [S46 (Apr 21- May 4)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22908) | [S47 (May 5-18)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23360) | [S48 (May 19-Jun 1)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23543)| S49(Jun 2 - 15) | S50 (Jun 16- 29) |
 |--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------|------------------|
@@ -30,6 +37,12 @@
 | [Data Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22132)                       | On Hold                                                                                         | On Hold                                                                                        | Initiate discussions with analytics - GA reports for Global Search                                | TBD                                                                                          | TBD                                                                                               | TBD             | TBD              |
 | [Typeahead 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17558)                        | On Hold                                                                                         | On Hold                                                                                        | TBD                                                                                               | TBD                                                                                          | TBD                                                                                               | TBD             | TBD              |
 
+</details>
 
-
-```July 1 - TO BE UPDATED - Coming soon```
+<details><summary> 2021 Q3 (July - Sept) </summary>
+Coming soon
+ </details>
+ 
+ <details><summary> 2021 Q4 (Oct - Dec) </summary>
+Coming soon
+ </details>

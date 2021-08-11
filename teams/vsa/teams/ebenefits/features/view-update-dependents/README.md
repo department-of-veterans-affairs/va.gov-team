@@ -214,7 +214,7 @@ TBD after launch
 
 - VA Executive Sponsor`*`: Paul Schute
 - VA Policy Expert(s):
-- DEPO`*`: Steve Kovacs
+- DEPO`*`: Matt Self
 - Product Manager`*`: Jason Wolf
 - Design Lead: Shawna Hein
 - Eng Lead: Paul Short

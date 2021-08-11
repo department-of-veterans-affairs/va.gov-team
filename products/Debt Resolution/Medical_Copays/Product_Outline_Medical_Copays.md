@@ -74,7 +74,9 @@ Veterans receive a variety of debt letters from The Department of Veterans Affai
 ## Desired Business Outcomes
 
  - Streamline Veteran's interaction with debt, so there is one face of VA
- - Increase time to debt resolution whether it is payments or debt relief
+ - Decrease time to debt resolution whether it is payments or debt relief
+ - Increase numbers of veteran's taking actions to their debt
+ - Decrease numbers of veteran's debt go to collections
 
 ## Undesired Business Outcomes
 
@@ -91,8 +93,8 @@ Veterans receive a variety of debt letters from The Department of Veterans Affai
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
 | KPI      |# of Veterans logging in to view       |  Average visit time                  |   Call Volume                 |        |
-| KPI      |             |                    |                    |        |
-
+| KPI      |# of Veterans view details of their copay debt|                    |        |
+| KPI      |# of Veterans take action to their copay debt |                    |        |
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
@@ -101,8 +103,8 @@ Increase self service on va.gov
 
 - Objective:
   - Key result:  Increase number of Veterans logging in 
-  - Key result: Increase average visit time
-
+  - Key result:  Increase average visit time
+  - Key result:  decrease average calls receive by contact center 
 
 ---
 
@@ -149,8 +151,8 @@ This product will build on top of current Debt Portal design although utilize a 
 
 ## Implementation Team -Debt Resolution Team
 
-***Team Slack Channel***-------    [**vsa-bam-2**](https://dsva.slack.com/archives/CPE4AJ6Q0)
-***Github Label***----------------[**Benefits and Memorials 2**](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-benefits-2&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
+***Team Slack Channel***-------    [**vsa-debt**](https://dsva.slack.com/archives/CPE4AJ6Q0)
+***Github Label***----------------[**VSA-DEBT**](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/board?notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
 
 **
 
@@ -162,10 +164,10 @@ We follow a 2 week SCRUM development cycle
 **SCRUM Ceremonies** 
 |Ceremony   |Day  |   Time|
 |--|--|--|
-| Daily Stand-up |M-F  |10:00am CT
+| Daily Stand-up |M-F  |9:00am CT
 |Backlog Grooming|Wednesdays mid-sprint|1:00pm CT|--|
-|Sprint Planning|Wednesday start of sprint|12:30pm CT|
-|Sprint Retro|Wednesday start of sprint|10:15am CT|--|
+|Sprint Planning|Wednesday start of sprint|1:00pm CT|
+|Sprint Retro|Wednesday start of sprint|9:15am CT|--|
 
 
 

@@ -16,7 +16,7 @@ Fill out name of individual and *Description* section below.
 - Please provide the name of their team, their role on that team, expected last day, and the name of the company they work for.
    > this adds context
 - Please provide any type of access they may have and their GitHub username. 
-  > ex: SOCKS, Pagerduty, Google analytics, ect.
+  > ex: SOCKS, Pagerduty, Google analytics, etc.
   
  
 ## AC
@@ -33,4 +33,4 @@ Fill out name of individual and *Description* section below.
  - [ ] Sentry access removed (if applicable)
  - [ ] Google analytics, and Domo access removed (if applicable) 
  
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support , @department-of-veterans-affairs/vsp-analytics-insights, @KevinMHoffmanUSDS, @drorva  
+ CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support , @department-of-veterans-affairs/vsp-analytics-insights, @drorva, @mchelen-gov

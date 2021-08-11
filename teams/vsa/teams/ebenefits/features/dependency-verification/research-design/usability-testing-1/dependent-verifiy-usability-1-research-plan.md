@@ -46,6 +46,15 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 - The moderator will prompt the user to explore next steps within the "change" scenario
 - There will be a quick Q/A and wrap-up
 
+#### Staging User
+Test user 108 is reserved for this test.
+ - 	vets.gov.user+108@gmail.com	
+ - 	295SsNrLgPv5
+
+#### Resetting cookies
+Page in question: https://staging.va.gov/view-change-dependents/view/
+To reset the modal proc, "X" out of the modal and on the View Dependents page itself, right click and toggle the  true/false for the diary entry at `retrieveDiaries` under "Application" by right clicking and selecting "Edit 'Value'" then click away, and refresh. 
+
 ### Participants and recruitment
 
 Recruit for 5 fulfilled sessions using the following criteria:
@@ -82,12 +91,12 @@ Recruit for 5 fulfilled sessions using the following criteria:
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| June X | 9 AM to 5 PM |
-| June X  | N/A |
-| June X  | 9 AM to Noon |
-| June X  | 9 AM to 5 PM |
-| June X  | 9 AM to Noon |
-| June X  | 9 AM to 5 PM |
+| Tuesday, August 17  | 9:30 AM to 6 PM |
+| Wednesday, August 18  | 11:30 AM to 2:00 PM or 4:00 PM to 6 PM |
+| Thursday, August 19  | 9:30 AM to 6 PM |
+| Friday, August 20  | 9:30 AM to 6 PM |
+| Monday, August 23  | 9:30 AM to 6 PM |
+| Tuesday, August 24  | 9:30 AM to 12:30 PM or 4:30 PM to 6 PM|
 
 - Schedule sessions as 30-minute blocks
 - Please leave at least 30 minutes between sessions 

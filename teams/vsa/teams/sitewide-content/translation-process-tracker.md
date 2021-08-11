@@ -24,3 +24,4 @@
 | Survey page Spanish | | 6/28 | 6/29 | | | | 7/6 |
 | Survey page Tagalog | | 7/12 |
 | Delta variant updates | 7/13 | 7/13 | 7/14 | 7/15 | 7/15  | 71/3 | 7/15 |
+| Mask wearing FAQs update | 8/3 | 8/3 | 8/3 | | | 8/3 | |

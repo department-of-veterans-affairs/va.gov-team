@@ -33,7 +33,7 @@ This is a sample SAML response returned from via ID.me from MHV sign-in:
 
 The first 3 fields are derived entirely by MHV.
 
-- `mhv_icn` - corresponds to the ICN used to query MVI.
+- `mhv_icn` - corresponds to the ICN used to query MPI.
 - `mhv_profile` - a hash that includes the account level and a list of available services for querying MHV APIs.
 - `mhv_uuid` - a primary key that is equivalent to `mhv_correlation_id`
 
@@ -44,23 +44,23 @@ The remaining 4 fields are ID.me specific attributes.
 - `uuid` - this is a unique identifier that ID.me users, note that this is the SAME uuid that va.gov uses corresponding to the user session.
 - `level_of_assurance` - this is the ID.me LOA, and this is used to determine whether or not loa_current < loa_highest (available), or whether or not we need to do the additional redirect through ID.me for FICAM verified attributes. If the user is `Advanced` or `Basic`, the user is characterized as being LOA1 until this verify step is completed. If a user has never completed the verify step and it is required for a service they wish to access, the FE will present the user with link to verify. This same URL is used for putting the user through the FICAM process whereby they verify SSN and other attributes and used for redirecting the user when loa_current < loa_highest.
 
-### Complexities with MHV & the Master Veteran Index (MVI)
+### Complexities with MHV & the Master Veteran Index (MPI)
 
-Because we do not receive baseline attributes in the SAML response from MHV we must query MVI for the same baseline attributes that are typically available for other sign-in methods.
+Because we do not receive baseline attributes in the SAML response from MHV we must query MPI for the same baseline attributes that are typically available for other sign-in methods.
 
-Additionally, because we only query MVI when a user is LOA3, Basic and Advanced users who have not FICAM verified their accounts will only be identified by their email address upon sign-in.
+Additionally, because we only query MPI when a user is LOA3, Basic and Advanced users who have not FICAM verified their accounts will only be identified by their email address upon sign-in.
 
 The cannonical `first_name`, `last_name`, `ssn`, `date_of_birth` and other key attributes follow the following model of cannonicity
 
 #### User is `Premium`
 
-- If we can successfully query MVI with the ICN, then the attributes are derived from MVI.
+- If we can successfully query MPI with the ICN, then the attributes are derived from MPI.
 
 #### User is `Advanced` or `Basic`
 
-- If the user has previously identity proofed with ID.me, we will automatically fetch the needed attributes from ID.me but we will still use the ICN provided to query MVI. When this happens, we trust the FICAM attributes over anything that is provided by MVI, but we additionally check to make sure that SSN from the SAML attributes corresponds to those in MVI. If they do not, eventually, we will not allow this user to login.
+- If the user has previously identity proofed with ID.me, we will automatically fetch the needed attributes from ID.me but we will still use the ICN provided to query MPI. When this happens, we trust the FICAM attributes over anything that is provided by MPI, but we additionally check to make sure that SSN from the SAML attributes corresponds to those in MPI. If they do not, eventually, we will not allow this user to login.
 
-- If the user has not previously identity proofed with ID.me we will derive all of our values from the SAML assertion. We do not do lookups in MVI if a user is not LOA3. These users will be prompted to verify their identity when they try to access a service that requires LOA3.
+- If the user has not previously identity proofed with ID.me we will derive all of our values from the SAML assertion. We do not do lookups in MPI if a user is not LOA3. These users will be prompted to verify their identity when they try to access a service that requires LOA3.
 
 ## DS Logon
 
@@ -90,11 +90,11 @@ The first 11 of these fields in the SAML assertion (prefixed with dslogon_) are 
 
 As mentioned before, dslogon_assurance of 2 or higher corresponds to va.gov LOA3. These users do not require FICAM identity verification through ID.me and va.gov will trust the attributes provided. Only an level of assurance of 1 would require verification.
 
-### DS Logon & MVI
+### DS Logon & MPI
 
 If a user signs in with either a dslogon_assurance of 2 or 3, or signs in with dslogon_assurance of 1 but has verified their identity through ID.me's FICAM process, these users are characterized as LOA3 by va.gov.
 
-VA.gov will attempt to query MVI using an probabilistic search of MVI based on 4-5 qualifying components of their SAML assertion: first_name, last_name, ssn, birth_date, and gender. Failure to match MVI will result in the user not getting logged in. Furthermore, if the probabilistic search returns a result in which the SSN does not match the SSN of the SAML assertion precisely, the user will not be logged in and will encounter an error. If a query results in duplicate results being returned by MVI, this too, means that the user will not be logged in.
+VA.gov will attempt to query MPI using an probabilistic search of MPI based on 4-5 qualifying components of their SAML assertion: first_name, last_name, ssn, birth_date, and gender. Failure to match MPI will result in the user not getting logged in. Furthermore, if the probabilistic search returns a result in which the SSN does not match the SSN of the SAML assertion precisely, the user will not be logged in and will encounter an error. If a query results in duplicate results being returned by MPI, this too, means that the user will not be logged in.
 
 ## ID.me
 
@@ -119,15 +119,15 @@ All of these fields in the SAML assertion are derived by ID.me and should be mos
 
 Users having level_of_assurance of 3 correspond to va.gov LOA3. These users have already completed identity verification.
 
-### ID.me & MVI
+### ID.me & MPI
 
 If a user signs in with either a level_of_assurance 3 or signs in with level_of_assurance 1 but has verified their identity through ID.me's FICAM process, these users are characterized as LOA3 by va.gov.
 
-VA.gov will attempt to query MVI using a probabilistic search of MVI based on 4-5 qualifying components of their SAML assertion: first_name, last_name, ssn, birth_date, and gender. Failure to match MVI will result in the user not getting logged in. Furthermore, if the probabilistic search returns a result in which the SSN does not match the SSN of the SAML assertion precisely, the user will not be logged in and will encounter an error. If a query results in duplicate results being returned by MVI, this too, means that the user will not be logged in.
+VA.gov will attempt to query MPI using a probabilistic search of MPI based on 4-5 qualifying components of their SAML assertion: first_name, last_name, ssn, birth_date, and gender. Failure to match MPI will result in the user not getting logged in. Furthermore, if the probabilistic search returns a result in which the SSN does not match the SSN of the SAML assertion precisely, the user will not be logged in and will encounter an error. If a query results in duplicate results being returned by MPI, this too, means that the user will not be logged in.
 
 
 
-### Vet360
-If MVI returns a vet360_id we can use it to get a user's contact information from VA-Profile (formerly Vet360).  
+### VA Profile 
+If MPI returns a vet360_id we can use it to get a user's contact information from VA-Profile (formerly Vet360).  
 
 This is data from VA Profile we serialize to the User.  Consider (https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) the authoritative source of this documentation, under the vet360_contact_information attribute.

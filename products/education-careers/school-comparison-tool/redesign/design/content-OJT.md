@@ -163,9 +163,8 @@ Update benefits {Update button - deactivated until selection has been made}
 
     { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
 
-    The book stipend is paid in a lump sum at the beginning of the semester when you start your school year.
-    
-    At 100% benefit the book stipend is $1,000 per year or $83 per month. It is pro-rated based on your enrollment (full-time, half-time, etc.) and your benefit eligibility.
+    You may be eligible for money to cover books and supplies, up to $83 per month.
+
     { end Book stipend modal }
 
 ________________________________

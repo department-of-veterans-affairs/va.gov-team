@@ -21,6 +21,52 @@
 
 </details>
 
+## August 13
+* Staff Profile - Multiple Systems (Within one VISN/or not?)
+  * Chandra Lake (for example)
+
+## August 6
+
+Schedule for removing endpoints for full prod launches
+* Full production for Aug 11th, (Southern Nevada, Sioux Falls, Central California, Fargo, Albany,     Finger Lakes, and Northport)
+
+Detail pages 
+* guidance for Programs pages, health services, context [here](https://dsva.slack.com/archives/C02686M6K6X/p1628009571010300)
+  * Pre-lockdown, 2 or 3 PAOs were adding a lot under health services
+* Request from PAO to disable areas that will not be in use. (i.e., News releases) That may be enabled in the future.  VHA has approved disable and removing from menu as long as they can be enabled in the future.
+  * Dave is recommending we do not disable menu items
+  * Some PAOs are continuing to add services here. Getting push from administrators to get pages up for surgery, etc.
+  * This will be case by case, so CMS help desk will tag Stan and Lisa on these requests.
+  * how to handle cleanup for existing pages that have disabled menu items.
+* System health service library source code for general taxonomy - mentioned in office hours and help desk needs to know how to support
+  * "Care we provide" content can be boilerplate that editors at each system could adapt. 
+
+
+* News releases 
+  * Decision: if PAO wants to disable News releases, request fulfillment to CMS helpdesk whole will archive the page, and make sure there's no published news releases. 
+
+Top task pages for Q3/Q4: Medical records, Billing and insurance, Register for care. 
+* Is it possible to "get ahead" on these for dual state, by creating 140 of them, one for each system? 
+
+
+## July 30
+
+* VAMC editors support
+  * Prod launches coming quickly so more issues are raised
+  * 2nd weekly office hours starting in August, with some focus on Plain Language, Style guide, and where there may be additional training
+  * VAMC upgrade team ramping up the self-service campaign
+* Health service migrations
+  * No Lovell FHCC for now, waiting on final name
+  * Low lift once naming decision is made, just edit the CSVs that are already in codebase
+* LGBTQ+
+  * Detail pages getting updated
+  * Other language changes 
+* Walla Walla 
+  * CMS team creates menu first week of August and delete the old one
+* Upcoming VAMC launches
+  * Stan sending list for August 
+* Operating status permissions etc
+
 ## July 23
 
 VAMC launches

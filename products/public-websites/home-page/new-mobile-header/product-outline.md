@@ -40,7 +40,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 ## What Needs to Be Done
 
 - [ ] Need Analytics to determine baseline performance of the current header, including % of mobile users that click on:
-      - Search (the little mganification icon)
+      - Search (the little mganification icon) (8/3 - Ticket created for Analytics - https://github.com/department-of-veterans-affairs/va.gov-team/issues/28225)
       - Menu
       - Veteran Crisis Line
       - Contact us
@@ -48,6 +48,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
       - Back to home (VA logo/Home menu item in the current nav)
 - [ ] Create a version of the proposed new Mobile-optimized header for a live, in-production "sample size" test of 1–5% via GA tracking
 - [ ] Metrics that will determine "success" (e.g. same or higher usage of Search and Top Tasks), using the same tasks as listed above
+- [ ] Created a Technical discovery ticket to review technical aspects/risks for implimentation - https://github.com/department-of-veterans-affairs/va.gov-team/issues/28288
 
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*

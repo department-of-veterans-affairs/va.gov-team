@@ -162,7 +162,6 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=TOKEN-HERE
 - Application does not crash
 - The user sees an `Error` screen with appropriate messaging that matches the mockups
 
-
 ## Test Case D: Edge Case - Expired Token
 
 > [Cypress Test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/check-in/tests/errors/server.403.on.check-in.cypress.spec.js)
@@ -328,7 +327,7 @@ Example: <https://staging.va.gov/health-care/appointment-check-in/?id=A_VALID_TO
 
 - The user clicks the link
 - At some point, before clicking "check-in," the user refreshed the page.
-- The app is loaded at the same point without failure.
+- The app is loaded at the at the beginning of the check-in process for the same appointment
 
 ### Assert (Expected Outcome)
 

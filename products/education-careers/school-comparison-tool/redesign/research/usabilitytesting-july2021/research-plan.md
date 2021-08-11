@@ -110,11 +110,10 @@ Please list your participant criteria in two categories-
 - Project Brief: 	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/ct-redesign-discovery_product-outline.md	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/usabilitytesting-july2021/discussion-guide.md	
 - Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
+https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1626879891882/6da026cfcda3b129280f4c99b3d06c2c060f2c59?sender=jonesjennifer26349	
 - Lessons Learned	
 *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/usabilitytesting-july2021/CT%20Redesign_Profile.pdf

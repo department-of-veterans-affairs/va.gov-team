@@ -1,3 +1,5 @@
+*_[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1793556578/How+to+request+a+Medallia+survey)_*
+
 # How to request a Medallia survey
 
 **Summary:** this document outlines Medallia _Feedback_ surveys and how you can request one for your Veteran-facing service.

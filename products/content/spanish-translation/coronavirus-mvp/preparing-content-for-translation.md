@@ -5,7 +5,17 @@
 
 - [ ] Text is free of spelling and grammatical errors.
 - [ ] Text is written in sentence casing.
+
+| Like this | Not like this |
+|---|---|
+| Managing your health care | Managing Your Health Care |
+
 - [ ] Text uses the Oxford comma.
+
+| Like this | Not like this |
+|---|---|
+| You can apply for disability, pension, education, and home loan benefits. | You can apply for disability, pension, education and home loan benefits.  |
+
 - [ ] Text uses active voice.
 
 | Like this | Not like this |
@@ -18,7 +28,7 @@
 
 ## Sentences
 
-- [ ] Sentences are generally between 5 and 20 words. No sentences are more than 25 words.
+- [ ] Sentences are more than 25 words in length. Aim for sentences between 5 and 20 words whenever possible.
 - [ ] In general, each sentence conveys 1 thought and contains 1 active verb. There may be exceptions where a sentence with 2 active verbs is better in order to avoid awkward writing. 
 | Like this | Not like this |
 |---|---|

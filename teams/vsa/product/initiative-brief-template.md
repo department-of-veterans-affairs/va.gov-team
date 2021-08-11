@@ -24,13 +24,10 @@
 ---
 
 ## Outcome Summary
-> *Write up a brief statement describing the opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include the measurable outcome (i.e. metric) you're trying to improve.*
-
+> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * .
 
-**Related product(s)**
-> *Identify VA.gov product(s) this initiative is associated with.*
-
+**Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
@@ -75,14 +72,14 @@
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - .
-- **Viability Risks/Constraints** (will there be a positive organizational impact):
-  - .
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - e.g. testing, marketing, compliance requirements
 
-### Hypotheses & Prioritization
+### Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Scope
-> *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 --- 
 

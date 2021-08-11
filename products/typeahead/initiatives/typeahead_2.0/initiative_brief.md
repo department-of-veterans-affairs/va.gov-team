@@ -1,4 +1,4 @@
-# Initiative Brief : Typeahead 2.0 (WIP)
+# Initiative Brief : Typeahead 2.0 
 #### Overview
 
 
@@ -10,11 +10,12 @@
 - Typeahead | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/typeahead/product-outline.md) 
 
 ## Problem
-* typeahead is only available to users in the global header
+* Typeahead is only available to users in the global header
 * DownShift implementation limits our ability to resolve accessibility feedback to address user needs and still meet analytics requirements
+* Typeahead (using the current implementation) can not be added to other locations across va.gov search pages
 
 ## Benefits
-_Establishing a drop down comonent for typeahead will:_
+_Establishing a drop down component for typeahead will:_
 * ensure we are not reliant on third party components such as downshift which limits our ability to address accessibility needs
 * enable more complex rendering of acronymns
 * facilitate universal typeahead for other search tools and locations across va.gov
@@ -60,9 +61,11 @@ _Establishing a drop down comonent for typeahead will:_
   - .
 
 ### Hypotheses & Prioritization
-> *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
+- Creating a drop down component will improve the user experience by offering typeahead suggestions in other locations across the VA.gov search experience which align with the search experience in the header.  
+
 
 ### Solution Scope
+- Drop down component allows typeahead to become a more universal experience helping veterans get to the content they are looking for faster. 
 > *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 --- 
@@ -83,7 +86,7 @@ _Establishing a drop down comonent for typeahead will:_
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - This is a Q3 initiative. Launch date TBD
+  - This is a Q3 initiative but actual launch date has yet to be established. Targetting end of September 2021. 
 - *Actual Launch Date* 
   - tbd
 
@@ -92,6 +95,7 @@ _Establishing a drop down comonent for typeahead will:_
 ## Screenshots
 
 ### Before
+<img width="1286" alt="Screen Shot 2021-08-10 at 1 24 36 PM" src="https://user-images.githubusercontent.com/72393866/128906421-5c187d11-e713-4fdb-94fc-9bfeda488eef.png">
 
 ### After
 
@@ -117,7 +121,8 @@ _Establishing a drop down comonent for typeahead will:_
 - Contact(s): - DEPO Lead: John Hashimoto
 - PM: Denise Coveyduc
 - Engineering: Sam Suddath
-- Research/Design: Megan Gayle & Cindy Merrill
+- Design: Megan Gayle
+- Research: Cindy Merrill
  
 </details>
 

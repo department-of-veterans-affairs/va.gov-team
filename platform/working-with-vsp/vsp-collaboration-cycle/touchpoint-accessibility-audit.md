@@ -1,3 +1,8 @@
+# We're moving our docs! 
+### You can find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
 # Full Accessibility and 508 Office Audit
 
 Did we recommend a Full Accessibility and 508 Office Audit in the Collaboration Cycle Kickoff issue ticket? If so, follow the below guidelines to get started.

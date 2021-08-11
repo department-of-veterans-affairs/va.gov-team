@@ -1,3 +1,5 @@
+*_[Duplicated in Confluece](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1794015358/Medallia+Product+Outline)_*
+
 # Medallia Product Outline
 ---
 

@@ -26,8 +26,9 @@ As a content editor, I need to quickly publish error-free alerts on the VA.gov h
 
 
 **Requirements**
+**[NOTE: In a 7/26 meeting with key players from CMS and Public Websites -- including Chelen, Walsh, Wirt, Hashimoto, Lloyd, Kelson -- the decision was made to focus effort on scoping out the CMS solution outlined as a Long-Term solve below.)**
 
-- **Short Term: Improving the existing yaml file approach**
+- **Short Term: Improving the existing yaml file approach** (NOTE: In a meeting with key players from Public Websites, CMS -- including Chelen, Walsh, Wirt, Hashimoto, Lloyd, Kelson -- the decision was made to focus effort on fully scoping out the CMS solution
   - **Awareness & Response:** Create a communication channel from VA stakeholder (OPIA) that notifies multiple VA.gov team-members and Platform when a new or updated Alert is planned.
     - Idea: Create an integrated HP Banner Alert channel in Teams (used by OPIA) and Slack (used by VA.gov); this must be tied to the #oncall channel for off-hours support.
   - **Redundancy:** Ensure any FE engineer (including #oncall engineer) is trained to implement the HP Banner alert process.

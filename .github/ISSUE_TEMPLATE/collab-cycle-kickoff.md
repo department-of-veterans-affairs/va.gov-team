@@ -22,7 +22,7 @@ assignees: andreahewitt-odd, shiragoodman
 - Any other artifacts you have so far
 
 ## Questions
-Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/collab-cycle-get-started.md) for detailed information and examples for the below questions.
+Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
 
 ### 1. Will your work result in visible changes to the user experience?
 - [ ] Yes
@@ -101,11 +101,9 @@ Examples of **changes to url, navigation, or entry points** include:
  - Moving an online tool or content page within the site or needing to retire/redirect a page
  - Modifying options within core navigation elements (for example, top nav, left nav, home page)
 
-### 9. Does your product/feature have Google Analytics tracking ~and a KPI dashboard in Domo~?
+### 9. Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
 - [ ] Yes
 - [ ] No
-
-Please note that Domo is on pause until end of June. See [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/DEPO/team-wide-messages/analytics-services-paused-for-infra-work.md) for more information. Google Analytics tracking support will still be provided.
 
 ### 10. If yes, then do you need to capture any other analytics or metrics in addition to what you're currently tracking?
 
@@ -124,4 +122,4 @@ Please note that Domo is on pause until end of June. See [here](https://github.c
 
 
 ## Additional information
-Please refer to the [Platform Collaboration Cycle README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) on Github for more information about the Collaboration Cycle.
+Please refer to the [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) guidance on Platform website for more information about the Collaboration Cycle.
