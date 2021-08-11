@@ -1,6 +1,6 @@
 # Conversation Guide for Moderated Card Sort and Usability Study - Action items, VSA Authenticated Experience
 
-**August 2020 Discovery, Tressa Furner**<br>
+**August 2021 Discovery, Tressa Furner**<br>
 
 ### Setup
 
