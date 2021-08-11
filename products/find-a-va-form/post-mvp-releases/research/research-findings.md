@@ -57,7 +57,7 @@ We conducted hour-long remote moderated research sessions via Zoom on **July 27-
 1. 20-0995 (one of most downloaded, can fill out in browser, hosted on vba.va.gov) = decision review request supplemental claim
 
 
-Each participant saw one of three versions of the Find a Form page. You can see screenshots in the [Pages and applications used section below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used):
+Each participant saw 1 of 3 versions of the Find a Form search results page:
 
 1. Instructions at the top of the list of forms
 
@@ -65,7 +65,7 @@ Each participant saw one of three versions of the Find a Form page. You can see 
 
 1. Instructions repeated above every form download link in gray help text
 
-In the above designs, the "Get instructions for opening the form in Acrobat Reader" and "Read More" links open a Resources and Support (R&S) article that details the steps you need to do.
+In the above 3 designs, the "Get instructions for opening the form in Acrobat Reader" and "Read More" links open a Resources and Support (R&S) article that details the steps you need to do. You can see screenshots of all of these designs in the [Pages and applications used section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used) in the Appendix.
 
 
 # Hypotheses and Conclusions
