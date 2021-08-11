@@ -27,9 +27,9 @@
 - [ ] Padding/margin issues throughout; refer to mocks
 - [ ] Card is oddly formatted with action link; refer to mocks
 - [ ] 5A. Should “Apply online…” text say “Apply fo Veterans…” like the second action link?
-- [ ] Where did “Slide” numbers come from?
-- [ ] “Orientation” sits on top of each panel… 
-- [ ] Date styling on slide 2
+- [ ] **Confirm** Why are there “Slide” numbers? Rephrase "slide"
+- [ ] “Orientation” sits on right top of each panel--increase margin/padding
+- [ ] Follow system date styling on slide 2
 - [ ] Lower-case the “T” on slides 5, 6, 7, 8, 9 (Be sure of sentence case throughout)
 - [ ] Agree that there should be a “done” panel/slide
 - [ ] Cap “Only if different…”?
