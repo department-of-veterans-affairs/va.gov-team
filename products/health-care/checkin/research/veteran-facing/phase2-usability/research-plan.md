@@ -136,11 +136,11 @@ _(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up t
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
-* Tue, August 17, Time TBD
+* Tue, August 17, 1:30 - 2:30 p.m. ET
 
 ### Which member of the design team will you pilot your research with?
 
-  * TBD
+  * Corey Parker ([Corey.Parker@gcio.com](mailto:Corey.Parker@gcio.com)) 
 
 ## Team Roles
 
@@ -148,7 +148,7 @@ _(This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up t
 * Research guide writing and task development (usually but not always same as moderator): Kristen McConnell
 * Participant recruiting & screening: Perigean
 * Project point of contact: Corey Parker ([Corey.Parker@gcio.com](mailto:Corey.Parker@gcio.com)) 
-* Participant(s) for pilot test: TBD
+* Participant(s) for pilot test: Corey Parker
 * Note-takers: Perigean
 * Observers: 
   * Corey Parker
