@@ -27,7 +27,8 @@ What question(s) do you hope to be able to answer after completing this research
 * Does the addition of last name and last 4 of SSN help the Veterans feel more secure about utilizing this check-in solution?
 * Do Veterans understand how to check-in for 1 appointment via their mobile device when they have multiple appointments in one day?
 * Do Veterans find value in seeing an itinerary of all their appointments for the day?
-* Is the information provided in said itinerary sufficient, too much, or too little?
+* Is the information provided in said itinerary sufficient, too much, or too little? 
+  * Particularly, are Veterans interested in seeing appointments that are past the time where they can check-in?
 * Do the actions on the itinerary page align with Veteran expectations? Are there things that Veterans expect to be able to do from an itinerary page that they aren't able to do?
 * Are the check-in appointment statuses helpful to Veterans?
 * Would Veterans find repeating this process multiple times per day (for each appointment if they had multiple appts) burdensome or easy?
