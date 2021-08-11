@@ -11,7 +11,7 @@
 - [Sprint 59](#sprint-59-1020---112)
 - [Sprint 60](#sprint-60-113---1116)
 
-## Sprint 51 (6/30 - 7/13)
+## [Sprint 51 (6/30 - 7/13)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25126)
 
 Any outstanding work from 50 plus:
 
