@@ -20,6 +20,8 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#further-research-needed)
 
+[Appendix with screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#appendix)
+
 [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)
 
 <br>
@@ -315,6 +317,7 @@ None at this time
 ### Find a Form page on Staging
 
 [Find a Form on Staging](https://staging.va.gov/find-forms/)
+![find-a-form-staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/find-a-form-staging.png)
 
 ### Design #1: Instructions at the top of the list of forms
 
