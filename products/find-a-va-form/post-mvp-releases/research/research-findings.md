@@ -57,7 +57,7 @@ We conducted hour-long remote moderated research sessions via Zoom on **July 27-
 
 Each participant saw one of three versions of the Find a Form page:
 
-You can see screenshots in the [Pages and applications used section below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md##Pages-and-applications-used):
+You can see screenshots in the [Pages and applications used section below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used):
 
 ## 1. Instructions at the top of the list of forms
 
