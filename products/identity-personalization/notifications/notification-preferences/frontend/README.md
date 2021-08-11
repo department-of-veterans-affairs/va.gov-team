@@ -105,7 +105,7 @@ Copy below `h1`:
 
 > We don’t have your contact email address or mobile phone number. To manage your notification settings, first update your contact information.
 
-**Alert Link** (use active link style with right chevron)
+**Alert Link** (use [active link style](https://design.va.gov/design/typography#links) with right chevron)
 
 > [**Update your contact information** >](/profile/personal-information) 
 
@@ -127,7 +127,7 @@ Copy below `h1`:
 
 > To manage settings for [channel] notifications, first add a [missing contact information] to your profile.
 
-**Alert Link** (use active link style with right chevron)
+**Alert Link** (use [active link style](https://design.va.gov/design/typography#links) with right chevron)
 
 > [**Add a [contact information] to your profile** >](/profile/personal-information) 
 
