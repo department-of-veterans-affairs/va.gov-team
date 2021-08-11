@@ -117,7 +117,10 @@ Here’s the thinking behind the graphic above.
 - Creating the “apartment” before we move products onto VA.gov means products can move asynchronously. This simplifies planning, a lot.
 - Moving products from My HealtheVet to VA.gov will succeed only by collaborating with the My HealtheVet Team.
 
-Since the work for appointments and appointment notifications will start before the Health Apartment Team onboards, it will pave the way for the health apartment in a few important ways. First, the work will be done by the first blended team between OCTO and OCC/My HealtheVet. Second, we will understand the My HealtheVet appointments infrastructure better. Third, we will have more insight into the needs of users of appointments functionality.
+Since the work for appointments and appointment notifications will start before the Health Apartment Team onboards, it will pave the way for the health apartment in a few important ways: 
+- The work will be done by the first blended team between OCTO and OCC/My HealtheVet. 
+- We will understand the My HealtheVet appointments infrastructure better. 
+- We will have more insight into the needs of users of appointments functionality.
 
 ### What’s the thinking behind the intended work?
 
