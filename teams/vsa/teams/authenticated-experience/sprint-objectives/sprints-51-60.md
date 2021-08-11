@@ -11,8 +11,8 @@
 - [Sprint 59](#sprint-59-1020---112)
 - [Sprint 60](#sprint-60-113---1116)
 
-## [Sprint 51 (6/30 - 7/13)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25126)
-
+## Sprint 51 (6/30 - 7/13) 
+[Sprint 51 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25126)
 Any outstanding work from 50 plus:
 
 ### My VA
@@ -60,6 +60,7 @@ lots of clean up work if bandwidth exists
 - Profile + DD screenreader issue and focus on edit button
 
 ## Sprint 52 (7/14 - 7/27)
+[Sprint 52 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25127)
 Any outstanding work from 51 plus: 
 
 ### My VA 
@@ -99,6 +100,7 @@ Any outstanding work from 51 plus:
 
 
 ## Sprint 53 (7/28 - 8/10)
+[Sprint 53 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26228)
 
 ### My VA redesign
 - submit for full accessibility review
@@ -126,6 +128,7 @@ Any outstanding work from 51 plus:
 
 
 ## Sprint 54 (8/11 - 8/24)
+[Sprint 54 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27160)
 
 ### My VA - Action Items Discovery
 **Design/Research**
@@ -146,6 +149,7 @@ Any outstanding work from 51 plus:
 
 
 ## Sprint 55 (8/25 - 9/7)
+[Sprint 55 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27314)
 
 ### My VA - Action Items Discovery
 **PM**
@@ -168,8 +172,10 @@ Any outstanding work from 51 plus:
 
 
 ## Sprint 56 (9/8 - 9/21)
+[Sprint 56 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28591)
 
 ## Sprint 57 (9/22 - 10/5)
+[Sprint 57 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28592)
 
 ## Sprint 58 (10/6 - 10/19)
 
