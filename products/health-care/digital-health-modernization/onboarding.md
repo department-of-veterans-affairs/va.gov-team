@@ -55,7 +55,7 @@ In conversations with OCTO and OCC staff, we heard that the “health apartment�
 - For users, it will feel similar to My HealtheVet.
 - It makes it easier for My HealtheVet to retain its brand.
 
-## How do we get there? 
+## How do we get there?
 Incrementally. It will take intense collaboration and planning, with the Health Apartment Team working closely with multiple teams in OCTO and OCC. These 3 VA employees will support and guide the Health Apartment Team:
 - A product person from OCC
 - An engineer from OCC
@@ -117,9 +117,9 @@ Here’s the thinking behind the graphic above.
 - Creating the “apartment” before we move products onto VA.gov means products can move asynchronously. This simplifies planning, a lot.
 - Moving products from My HealtheVet to VA.gov will succeed only by collaborating with the My HealtheVet Team.
 
-Since the work for appointments and appointment notifications will start before the Health Apartment Team onboards, it will pave the way for the health apartment in a few important ways: 
-- The work will be done by the first blended team between OCTO and OCC/My HealtheVet. 
-- We will understand the My HealtheVet appointments infrastructure better. 
+Since the work for appointments and appointment notifications will start before the Health Apartment Team onboards, it will pave the way for the health apartment in a few important ways:
+- The work will be done by the first blended team between OCTO and OCC/My HealtheVet.
+- We will understand the My HealtheVet appointments infrastructure better.
 - We will have more insight into the needs of users of appointments functionality.
 
 ### What’s the thinking behind the intended work?
@@ -131,7 +131,7 @@ Because some work needs more planning and validation before it’s actionable, t
 - Follow with an opt-out beta test for My HealtheVet users of the products in the second bullet above.
 - Formally launch the My HealtheVet apartment on VA.gov and deactivate non-apartment instances of those products on My HealtheVet.
 
-Making the intended work actionable requires (a) learnings from shipping the “apartment” section and (b) that OCTO-OCC leadership help with planning. The leadership group plans to meet every 6 weeks to check in with the Health Apartment Team and the points of contact for aligning these sections of the OCTO and OCC roadmaps: 
+Making the intended work actionable requires (a) learnings from shipping the “apartment” section and (b) that OCTO-OCC leadership help with planning. The leadership group plans to meet every 6 weeks to check in with the Health Apartment Team and the points of contact for aligning these sections of the OCTO and OCC roadmaps:
 - Appointments
 - Notifications
 - PGHD (patient-generated health data)
@@ -292,42 +292,63 @@ The health apartment team will need to collaborate with My VA to design a cohesi
 
 # Recommendations
 If the current product person were to remain in his role, this is what he’d advocate.
-Team
-Do something scrum-like rather than kanban-like for iteration planning. The org understands it better. You’ll have an easier time partnering with feds.
-Use Github Issues or Max.gov JIRA for project management. Those two tools are open to all people you will collaborate with eventually. No other tool is.
-Use MS Teams and Mural for document collaboration. Do not use Google Docs. Many VA feds cannot use Google Docs. It’s perceived as rude.
-Use Zoom or Teams for video meetings. Those tools work for virtually all VA feds. Other tools may not.
-Send a weekly email explaining what the team worked on and why you did it that way (ex., this is why we did a concept test; this is what we learned). Part of the value of this engagement is patterning good product development behavior.
+
+## Team
+- Do something scrum-like rather than kanban-like for iteration planning. The org understands it better. You’ll have an easier time partnering with feds.
+- Use Github Issues or Max.gov JIRA for project management. Those two tools are open to all people you will collaborate with eventually. No other tool is.
+- Use MS Teams and Mural for document collaboration. Do not use Google Docs. Many VA feds cannot use Google Docs. It’s perceived as rude.
+- Use Zoom or Teams for video meetings. Those tools work for virtually all VA feds. Other tools may not.
+- Send a weekly email explaining what the team worked on and why you did it that way (ex., this is why we did a concept test; this is what we learned). Part of the value of this engagement is patterning good product development behavior.
 
 ## Product
-Early on in proof of concept design, inventory and prioritize technical risks. The concept was developed by non-technical staff and does not account for them.
-Early on in proof of concept design, identity metrics we think (1) can actually be measured without earth-shattering effort and (2) reasonably capture Veteran-facing benefit or harm plausibly caused by software we release.
-Identify a Fed (strongly preferably a Veteran, mildly preferably a member of Office of Connected Care / VHA) and groom them to own the resulting health “apartment” on VA.gov from a strategic product management perspective. This thing will grow large and complex. Minimally, it will need someone at the helm able to make difficult decisions in order to keep it maintainable and consistent. Ideally, it will need a steward / champion to evolve and disseminate the vision.
-People will throw risks and concerns at you left and right. To the maximum extent possible, address these by shrinking the problem rather than growing the solution.
-Build bearing in mind that the front-end-as-perceived-by-Veterans may later need to draw data from several, unrelated backend systems (ex., facilities using VistA as their EHR, and those using Cerner — as well as potentially Community Care facilities using a variety of EHRs, though that’s more pie in the sky at this point)
-Organization
-Adopt an OCTO-wide planning cadence (probably quarterly) so that cross-team consequences of doubling the complexity and user count of VA.gov can be planned and prioritized in a way that respects teams’ existing commitments
-Adopt a formal top-down method for prioritizing cross-team work in OCTO, in sync with the planning cadence. This initiative will not always be in individual teams’ best interest to work on, but it will be in the office’s best interest to override that kind of local optimization.
+- Early on in proof of concept design, inventory and prioritize technical risks. The concept was developed by non-technical staff and does not account for them.
+- Early on in proof of concept design, identity metrics we think (1) can actually be measured without earth-shattering effort and (2) reasonably capture Veteran-facing benefit or harm plausibly caused by software we release.
+- Identify a Fed (strongly preferably a Veteran, mildly preferably a member of Office of Connected Care / VHA) and groom them to own the resulting health “apartment” on VA.gov from a strategic product management perspective. This thing will grow large and complex. Minimally, it will need someone at the helm able to make difficult decisions in order to keep it maintainable and consistent. Ideally, it will need a steward / champion to evolve and disseminate the vision.
+- People will throw risks and concerns at you left and right. To the maximum extent possible, address these by shrinking the problem rather than growing the solution.
+- Build bearing in mind that the front-end-as-perceived-by-Veterans may later need to draw data from several, unrelated backend systems (ex., facilities using VistA as their EHR, and those using Cerner — as well as potentially Community Care facilities using a variety of EHRs, though that’s more pie in the sky at this point)
+
+## Organization
+- Adopt an OCTO-wide planning cadence (probably quarterly) so that cross-team consequences of doubling the complexity and user count of VA.gov can be planned and prioritized in a way that respects teams’ existing commitments
+- Adopt a formal top-down method for prioritizing cross-team work in OCTO, in sync with the planning cadence. This initiative will not always be in individual teams’ best interest to work on, but it will be in the office’s best interest to override that kind of local optimization.
 
 ## Portfolio
 The following are descriptions of what we believe would result in a coherent and cohesive user experience for Veterans, assuming the health apartment is (viable and) a vehicle for perhaps the most important Veteran benefit: Healthcare. These are not supported by specific research, testing or ideation. The intent in writing this down is to spark thinking about how the apartment, and the promise of the apartment, might inspire us to change other aspects of VA.gov.
-Authenticated Experience / My VA / Home
-My VA (or something that replaces it) becomes the home / destination page for users who complete sign up, and users who sign in from the homepage
-The home page must not contradict information displayed in the health apartment (ex., if there are 2 unread health messages that show in the apartment, and the home page displays unread message count, there should be at least 2 unread messages indicated on the home page)
-The authenticated homepage should not otherwise be constrained by the apartment vision. The team that owns the authenticated home should be free to determine the most valuable things to put on it based on Veteran research and best judgment
-Sitewide Navigation
-Conduct primary taxonomy research (ex., card sorts) based on hypothetical future available tasks and topics, including the health apartment tasks and tools, not “top tasks” currently on VA.gov. Analytics don’t see what people can’t find in nav.
-Re-organize main nav based on ^
-Notifications
-Scope sitewide notifications to transactional notifications only. Use other channels for marketing. Don’t yield on this. Respect Veterans’ attention, and our need to preserve an effective communication channel for things that really matter.
-If there’s a sitewide UX component, put it in the nav / header (rendered on every page). Do not bury it on a page.That defeats the purpose.
-Consider being opinionated rather than implementing user preferences or configurability may become a quagmire and our users may shoot themselves (and us) in the foot by making bad decisions (yes, I am the nanny state). Ex., if your appointment was canceled we are going to notify you immediately on all applicable channels there is no setting for this; vs. option for notification for ANY claims changes vs. only if it has reached final status or needs an action from you.
 
-Profile
-Login
-Legal and Privacy
-Marketing
-Support
+### Authenticated Experience / My VA / Home
+- My VA (or something that replaces it) becomes the home / destination page for users who complete sign up, and users who sign in from the homepage
+- The home page must not contradict information displayed in the health apartment (ex., if there are 2 unread health messages that show in the apartment, and the home page displays unread message count, there should be at least 2 unread messages indicated on the home page)
+- The authenticated homepage should not otherwise be constrained by the apartment vision. The team that owns the authenticated home should be free to determine the most valuable things to put on it based on Veteran research and best judgment
+
+### Sitewide Navigation
+- Conduct primary taxonomy research (ex., card sorts) based on hypothetical future available tasks and topics, including the health apartment tasks and tools, not “top tasks” currently on VA.gov. Analytics don’t see what people can’t find in nav.
+- Re-organize main nav based on ^
+
+### Notifications
+- Scope sitewide notifications to transactional notifications only. Use other channels for marketing. Don’t yield on this. Respect Veterans’ attention, and our need to preserve an effective communication channel for things that really matter.
+- If there’s a sitewide UX component, put it in the nav / header (rendered on every page). Do not bury it on a page.That defeats the purpose.
+- Consider being opinionated rather than implementing user preferences or configurability may become a quagmire and our users may shoot themselves (and us) in the foot by making bad decisions (yes, I am the nanny state). Ex., if your appointment was canceled we are going to notify you immediately on all applicable channels there is no setting for this; vs. option for notification for ANY claims changes vs. only if it has reached final status or needs an action from you.
+
+### Profile
+- ADD LINKS TO PREVIOUS MHV PROFILE CONSOLIDATION RESEARCH ARYEH
+
+### Login
+- Support Identity team as needed in implementing universal single sign-on between VA.gov and MHV; it will make transition far easier if both tech stacks can consistently agree upon the identity of a user, and present the same data consistently
+
+### Legal and Privacy
+- Support Identity team and Carnetta Scruggs as needed in consolidating MHV and VA.gov Terms of Service; if not done, it will block apartment release
+
+### Marketing
+- Plan to market these changes continuously for several months
+  - Direct to Veterans
+  - To VSOs
+  - To MHV Coordinators
+  - To support / help desk staff
+
+### Support
+- Lobby aggressively for all of VA.gov to be on the same first-tier support contract, including My HealtheVet; otherwise debugging issues and measuring customers' problems will be intractable (connect with the Identity team for history lessons on why this matters)
+- During transition, invest in high-quality publications of how-to guides for Veterans transitioning from Legacy MHV to "apartment" MHV; writing quality is higher in OCTO for this sort of thing and it will make it easier for us to sell transition to VSOs, MHV Coordinators, etc. if we can write a lot of the collateral for them
+
+--- 
 
 # Appendix
 [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
