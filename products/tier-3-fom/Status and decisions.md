@@ -1,6 +1,55 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
-## 8/6/2021 - placeholder - briefing with VBA, VHA, NCA, OPIA, and OEI comms teams
+## 8/11/2021 
+
+Follow up meeting with JHL, VHA, re: other types of content at VHA - heads up about future "patient education" initiative/s at VHA. 
+
+__Call summary:__
+Too early to know exactly what the content will be - some may be clinician facing, some patient facing, some program content for VHA field staff. Whether these things need a custom website or can be addressed by the new content templates being developed for tier 3 or possibly a new content product on va.gov - difficult to say at this stage. Syncing early mostly for awareness of this still evolving space. 
+
+
+
+## 8/6/2021 
+
+Briefing with VBA, VHA, NCA, OPIA, and OEI comms teams
+
+[Deck from call](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/webcomms-teams-VA-Tier-3-Strategy-OCTO-updated080621.pdf)
+
+__Attendees:__
+
+- Jennifer Heiland-Luedtke, VHA
+
+- Blake Scates, VHA
+
+- Jeff Grandon, VHA
+
+- Matt Bristol, OEI (Strategic Comms)
+
+- Janet Schiller, OEI (FOM manager)
+
+- Tanekwa Bournes, VBA (for JP Dm)
+
+- Lisa Hollenbeck, NCA (for James Lp)
+
+- Jen Lee, OCTO
+
+- (Gary Hicks, OPIA invited but not in attendance)
+
+
+__Call summary of discussion:__
+
+- Change management communications working group will be essential to the effort. 
+    - JHL: VHA is currently stretched with VAMC Upgrades through the end of this calendar year.
+    - Jen: No imminent need to start anything now; reaching out now bc want to give plenty of advance time for VHA, VBA, and NCA web comms, staff/OPIA comms, and OEI comms and FOM teams to plan.  
+- Blake and Janet both raised concerns about the difficulty of VA field staff not having the skills to create or fix non-508 compliant documents. 
+
+- Concerns raised regarding WCAG 2.1 aspiration. 
+
+
+__Next steps from the call:__
+
+- Meeting with VHA comms to dive deeper into VHA specific content types (Jen will reach out to JHL to set up a call.) 
+- Reach out to the 508 Office to discuss publications modernization. ( Martha Wilkes will set up a call with Jen and 508 Office.) 
 
 
 ## 8/2/2021 
