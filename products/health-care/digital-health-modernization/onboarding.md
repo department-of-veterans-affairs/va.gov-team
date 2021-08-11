@@ -1,5 +1,5 @@
 # Health Apartment Team 101
-Formerly known as Digital Health Modernization
+For Digital Health Modernization
 
 ## Introduction
 In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created a team called “Digital Health Modernization” to simplify Veterans’ online health experience. This document describes the history and implications of Digital Health Modernization’s work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
