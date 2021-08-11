@@ -115,11 +115,11 @@ VSP maintains the ability to create and deploy full production builds as a fails
 4. Build changed applications / Run unit tests
 5. Sync CSS/JS/images to prod S3 bucket
 
-Manual deployments follow the same process, but do not need to check the commit status. Should be able to trigger via the Github action UI and provide an app name (or list of apps).
+Manual deployments follow the same process, but do not need to check the commit status. Should be able to trigger via the Github action UI and provide an app name (or list of apps). Teams should be made aware that if they manually deploy something that's running in master CI, the manual deployment results will be overwritten when the auto-deploy completes.
 
 **Steps for a staging/dev deployment:**
 
-VSP maintains the ability to create and deploy full staging/dev builds as a failsafe until the system is stable.
+VSP maintains the ability to create and deploy full staging/dev builds as a failsafe.
 
 1. Merge branch into staging/dev (locally or through PR)
 2. Build all applications
@@ -129,6 +129,7 @@ VSP maintains the ability to create and deploy full staging/dev builds as a fail
 This will likely cause `staging` and `dev` to diverge from `master` over time. We can set up a scheduled job to merge master into staging/dev on a weekly basis and reserve the ability to completely reset the environments if needed. When an environment is reset, a slack notification should go out alerting VFS teams that they will need to remerge any branches. An alert should also go out to Slack the previous day if any preparations are needed as to not interfere with potential planned demos. 
 
 We will also require commits to be merged into `staging` (not `dev`) before they are allowed to merge into `master`. After this requirement is in place, we would like to monitor for feedback to see if we need to allow teams to bypass this requirement with branch naming `hotfix/` and/or `revert/` prefixes.
+
 #### Roadmap
 
 1. Update current system to function with new workflows
@@ -148,8 +149,9 @@ We will also require commits to be merged into `staging` (not `dev`) before they
 
 - Update current (dev/staging) deploy scripts to sync and not delete files from s3 OR create new script
 - Create single app build in webpack that includes assets.
+- Alert VFS teams to the rollout plan (dev -> staging -> prod)
 
-This work should be completed in 1 sprint with 2 people (1 person on each task).
+This work should be completed in 1-2 sprints with 2 people (1 person on each task).
 
 #### Milestone: Create and release staging/dev deployment behaviors
 
@@ -160,8 +162,13 @@ This work should be completed in 1 sprint with 2 people (1 person on each task).
 - Disable current staging deployment behaviors
 - Reserve time for troubleshooting staging
 - Reach out to two application teams for production deployment beta
+- Create script to "reset" each environment (with Slack alerts).
 
-This work should be completed in 2-3 sprints with 2 people. Sprint 1 should be dev. Sprint 2 should be staging. Reserving and extra sprint for troubleshooting if needed.
+This work should be completed in 2-3 sprints with 3 people (3-4 with 2 people). Sprint 1 should be dev. Sprint 2 should be staging. Reserving and extra sprint for troubleshooting if needed.
+
+A representative from each VFS team should have to review / approve the PR that activated this feature in each environment as a way to acknoledge the change. FE Tools will also attend the VSA Engineering meeting, alert slack, and add to the newsletter (with each environment release).
+
+This release behavior should not replace Review Instances. Review Instances should still be used when possible as to not overload staging / dev deployments.
 
 #### Milestone: Create and release initial production behaviors with "allow" list
 
