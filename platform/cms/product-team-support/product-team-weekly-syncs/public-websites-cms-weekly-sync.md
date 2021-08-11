@@ -38,6 +38,28 @@
 ## August 11
 
 Banner path / scope
+* query to pull it in has a POC
+* Dismissibility
+  * CMS team will be adding a dismissability field soon, defaulting to true
+  * same behavior from the existing block/42 dismissibility
+  * What happens to a dismissable banner after it's edited? 
+  * FE could use revision ID
+  * Iteration could consider adding additional tools for dismissability settings, based on data from Veterans 
+* stacking 
+ * OK for now, can be handled by business process with teams managing alert
+ * governance probably can't be on the CMS side
+* [rubric] is hypothetical, needs more discussion with design system and thinking across products and teams
+ * none of this is critical path for this phase 
+* paths
+  * needs to be agnostic to the CMS (like the homepage)
+  * Kelson working on the path / scope problem
+  * Need a clear regex pattern, like asterisk at the tail end, which is what sitewide content team needs to migrate block/42 to new content type. 
+  * `!` at the start of a string for path blocking. 
+  * Nice to have: being able to regex the asterisk anywhere in the path, like `/*-health-care/*` for any health care site, or for any events, like `*/events/*`. 
+
+Recurring events
+* To be discussed with Michelle present week of the 16th.
+
 
 ## August 4 
 
