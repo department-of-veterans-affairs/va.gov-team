@@ -117,6 +117,8 @@ In the above 3 designs, the "Get instructions for opening the form in Acrobat Re
 
 A few participants were asked by the moderator to look at the instructions on the R&S page. One skimmed them and decided nothing was applicable. Another participant was puzzled about needing to use Adobe Acrobat, which they knew they didn't have installed on their (Mac) computer. This participant didn't click on the "Get Acrobat Reader for free from Adobe" link but instead said they would do some research on how to download the latest version of Acrobat. 
 
+**8 of 11 participants clicked on the form name to open the form detail page, and from there clicked the *Download VA form* link.** This means that they may not have paid attention to the instructions on the search results page since they weren't downloading the form from there. Once they reached the form detail page and confirmed that the form was the one they wanted, then they used the *Download VA form*, but we didn't provide any download instructions on that page. 
+
 Keywords: alert boxes, hint text, instructions
 
 
