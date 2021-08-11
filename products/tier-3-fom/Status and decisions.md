@@ -7,6 +7,49 @@ Follow up meeting with JHL, VHA, re: other types of content at VHA - heads up ab
 __Call summary:__
 Too early to know exactly what the content will be - some may be clinician facing, some patient facing, some program content for VHA field staff. Whether these things need a custom website or can be addressed by the new content templates being developed for tier 3 or possibly a new content product on va.gov - difficult to say at this stage. Syncing early mostly for awareness of this still evolving space. 
 
+## 8/10/2021 
+
+Follow up call with Dan's Salesforce technical team. 
+
+__Action items from today’s call:__
+
+Dan’s team will create an epic to track the following 2 items/ticket for the Salesforce technical team's backlog. 
+
+__Item #1:__
+
+Create an account name extract field, so the plain language name of the office (e.g., Office of Free Candy for All Veterans) can be used without the account prefix code (e.g., OEI-008)
+
+Business need: 
+- We need to pair the office name with the administration or central office data, to provide human usable and plain language experience on the frontend of the website UX. Example: Each office will be displayed with their name and parent admin/staff office like so: “Homeless Veterans Program, Veterans Health Administration.”  We do not want to clutter up the customer experience with internally used account prefix code. 
+- Note – we will use the Account ID field internally to identify each office record uniquely; we will however keep this data as internal CMS meta information, not to be used in external customer-facing website UX.
+- This is a high-priority need for OCTO-DE’s (Office of the CTO-Digital Experience) tier 3 modernization.
+
+__Item #2:__
+
+Create a “merged” meta data/flag when an office is archived by merging it with another office record. 
+
+Business need: 
+- We want to use the “Archived” meta data to help site editors and VHA/VBA/NCA/Staff office web comms teams know when an office webpage needs to be retired. Likewise, if an office was “merged” with another office, we want to use that meta data to auto-notify the site editors and web comms team that the web pages for office A and B should be manually consolidated. 
+- Per Robert – not a high LOE.
+- This is a lower priority need for OCTO-DE than the name extract field. 
+
+__Call summary:__
+
+- Per Robert, we will use the In-FOM field to identify which office is a valid and active account in FOM. 
+- For Janet’s FOM VIEWS needs: She mentioned that the Active__c field is easily confused with the Inactive field and would like to have the Active_c field retired or hidden. 
+- For administration data – tabled for now; Jen will see if there’s a way for the CMS/FE teams to use the VA Organization Acronym field to create org taxonomy. 
+        - Per Robert, we can’t use the Office Type field because all offices are currently defaulted to “organization” (nothing is using the “Administration & Staff office” value) because only orgs can show up inside the hierarchy. 
+- Website vs. FOM_external_URL fields - tabled for now – more process problem than data problem right now. 
+- Text representation of org chart (508 compliant) – tabled for now; FOM doc pulls from the org hierarchy Salesforce data and then Nintext doc generator applies logic to the hierarchy data in order to create a text outline version of the org chart. Desiree’s recommendation – CMS should pull from the Sf org hierarchy data, not Nintext, if we need to provide this text 508 compliant org chart representation in the FE. 
+
+__Attendees:__
+
+Dan Navarro, VA
+Desiree Fraser, pm
+Robert Booth, dev
+Janel Schiller, OEI
+Mike Chelen, OCTO engineer lead
+Jen Lee
 
 
 ## 8/6/2021 
