@@ -193,6 +193,8 @@ An alternative that was discussed was isolating the applications in their own re
 
 We also discussed monorepo isolation, but deemed it as unnecessary to complete the objective. Monorepo setup involves a technology infusion with something like Lerna, Yarn Workspaces, and/or NX. It was decided that pulling in new infrastructure at this stage would not get us any closer to the primary objective. This was also identified as an important upgrade to the system, but as it is non-critical, it is to be added to the roadmap as a follow-up initiative. Before this work can be completed, we need to make foundational upgrades to the platform code, architecture, and design system.
 
+One last option was to leave the system as-is, which the current deployment model. This was not pursued because it would not meet the objective. Another option was to keep everything we have in place right now, but require full builds and deploys for each merge into master. Ultimately we felt the deployment process would be too slow and prone to failure if we required full build and test suites for each deployment, which would dramatically increase strain on support.
+
 ### Post MVP
 
 Initial dashboard view where teams sign in with Github auth, view their apps and manage their deployments including: scheduling, reverting, and manual deployment. This dashboard and infrastructure should be scoped and estimated separately as a post-MVP item. It will be the basis for a future platform dashboard.
