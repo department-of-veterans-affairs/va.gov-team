@@ -61,7 +61,7 @@ Modal intercepts user.
 
 ### Task 3 / Confirm dependents / 2 minutes
 For this scenario, your dependents should be Veronica Corningston and Quanily Ortiz. 
-- 'observe reaction'
+- `observe reaction` If needed, prompt: Tell me what you are thinking here. 
 - What other information would you need to confirm these are your dependents or not?
 - If the list of dependents is correct, what would you do next? Go ahead and do that.
 
