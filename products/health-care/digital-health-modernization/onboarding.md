@@ -192,7 +192,7 @@ The workshops brought OCTO and OCC together on vision and a path forward. Since 
 
 In our first workshop with OCTO and OCC leadership, the theme “hide the plumbing” emerged. If we design an exceptional health experience, Veterans will not need to navigate the VA and its product silos. Instead there will be one user experience — no redundant tasks or multiple communication channels. We heard this during the leadership workshops:  
 
-**"Veterans do not need to know that we are several different teams. To them, their digital interactions feel created by the same VA."**
+> *"Veterans do not need to know that we are several different teams. To them, their digital interactions feel created by the same VA."*
 
 In addition to hiding the plumbing, leadership agreed that VA should provide a personalized experience for all benefits. In [our generative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md), we observed that participants struggled to understand their eligibility for VA benefits. In particular, participants were confused about the nuanced ways health care and disability eligibility differ. These findings underscore the value of providing a personalized view of VA benefits that also shows the connections between health care and disability benefits.   
 
