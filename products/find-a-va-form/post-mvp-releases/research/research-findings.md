@@ -57,7 +57,7 @@ We conducted hour-long remote moderated research sessions via Zoom on **July 27-
 1. 20-0995 (one of most downloaded, can fill out in browser, hosted on vba.va.gov) = decision review request supplemental claim
 
 
-Each participant saw 1 of 3 versions of the Find a Form search results page:
+Each participant saw 1 of 3 versions of the Find a Form search results page with instructions added:
 
 1. Instructions at the top of the list of forms
 
@@ -71,11 +71,11 @@ In the above 3 designs, the "Get instructions for opening the form in Acrobat Re
 # Hypotheses and Conclusions
 
 1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
-    1. FALSE: Most participants (9 of 11) didn't read the instructions provided on the search results page. Maybe if the instructions had been on the form detail pages, some people might have noticed them there. Even so, the forms turned out to be impossible to fill out on a mobile device, so instructions couldn't solve this problem.
+    1. FALSE: Most participants ignored the instructions and were unable to fill out any of the forms without a lot of help from the moderator, and many were unable to succeed even with all the help provided (especially users on mobile devices).
 1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms.
-    1. FALSE: Same reason as above. In addition, the digital signature is not accessible to users of screen readers.
+    1. FALSE: Same reasons as above. In addition, the digital signature is not accessible to users of screen readers.
 1. The new instructions will alleviate issues with forms that have different download behaviors.
-    1. FALSE: Same reason as above.
+    1. FALSE: Same reasons as above.
 1. Instructions at the top of the list of forms will be missed when they scroll off the screen.
     1. MAYBE TRUE: Instructions at the top were ignored by all participants who saw them.
 1. Instructions repeated above every form download link will get ignored or be annoying, especially to users of screen readers. 
