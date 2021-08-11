@@ -57,25 +57,15 @@ We conducted hour-long remote moderated research sessions via Zoom on **July 27-
 1. 20-0995 (one of most downloaded, can fill out in browser, hosted on vba.va.gov) = decision review request supplemental claim
 
 
-Each participant saw one of three versions of the Find a Form page:
+Each participant saw one of three versions of the Find a Form page. You can see screenshots in the [Pages and applications used section below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used):
 
-You can see screenshots in the [Pages and applications used section below](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used):
+1. Instructions at the top of the list of forms
 
-## 1. Instructions at the top of the list of forms
+1. Instructions repeated above every form download link in a light blue box
 
-![UI-alert-at-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-at-top.png)
+1. Instructions repeated above every form download link in gray help text
 
-## 2. Instructions repeated above every form download link in a light blue box
-
-![UI-alert-repeated-blue-box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-repeated-blue-box.png)
-
-## 3. Instructions repeated above every form download link in gray help text
-
-![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
-
-## Resources and Support (R&S) article linked to from "Get instructions for opening the form in Acrobat Reader" and "Read More" links
-
-![R&S-How2download](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/R%26S-How2download.png)
+In the above designs, the "Get instructions for opening the form in Acrobat Reader" and "Read More" links open a Resources and Support (R&S) article that details the steps you need to do.
 
 
 # Hypotheses and Conclusions
