@@ -50,7 +50,10 @@ Thank you, that really helps me understand how Veterans start this process. Now,
 - After a Veteran or Service Member appoints you as their representative, how much information do you typically have when you receive an appointment?
 - How often do you interact with them?
   - (How do you usually work with them - phone, email, in person, etc?)
-- What type of claims do you specialize in? (Is this common terminology of specializations in your field?)
+- What type of cla![image](https://user-images.githubusercontent.com/84141672/129045524-929d268a-9473-4caa-80ac-c7d03066e9e0.png)
+![image](https://user-images.githubusercontent.com/84141672/129045532-6d6d4c01-2941-47a6-8849-34eac50a3c60.png)
+![image](https://user-images.githubusercontent.com/84141672/129045548-63014fb6-6b7e-4af7-8889-c21209dc00a0.png)
+ims do you specialize in? (Is this common terminology of specializations in your field?)
 - What are the most common issues you help with?
 
 
@@ -60,7 +63,7 @@ Okay, we’re almost finished. I’d just like to ask a few more questions about
   - When would you need to decline an appointment or refer to another representative?
   - When do you usually find out that a case has an issue like that - is it early in the process or later after quite a bit of work has been done?
 - Once a Veteran or Service Member has submitted their 21/22a and you are their representative, how long do you typically work with them?
-  - How do you know when reprsentation is ending? (the end of a claims process, after a certain amount of time…)
+  - How do you know when representation is ending? (the end of a claims process, after a certain amount of time…)
   - What is the process to end representation?
 - If you could change just one thing about the process of being appointed as a representative for a Veteran, what would it be?
 
