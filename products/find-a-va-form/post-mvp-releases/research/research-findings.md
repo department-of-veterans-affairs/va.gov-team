@@ -166,7 +166,7 @@ Unique technical issues were encountered in every session, which will be discuss
    - Thought they could download the file instead but didn't know how to do that
    - Downloaded the file in spite of the error (from Edge)
    - Didn't notice the message because their screen reader didn't read it aloud
- - A number of participants said that if they couldn't get the form, they would try something else (e.g., work computer, ask a friend or family member to help or print the form for them, go to the library or local VA to get the form) before giving up.
+ - A number of participants said that if they couldn't get the form, they would try something else (e.g., use their work computer, ask a friend or family member to help or print the form for them, go to the library or local VA to get the form) before giving up.
 
 > "Frustrating to have some forms open and some not" (p12). 
 
