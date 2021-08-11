@@ -28,9 +28,10 @@ Please feel free to distribute and share as appropriate.
 
 ## Ad for VAMC televisions and digital screens
 
-Below is an advertisement that can be used on digital screens in elevators, way-finding screens around the hospital, and televisions located in the waiting rooms. 
+Below are two advertisements that can be used on digital screens in elevators, way-finding screens around the hospital, and televisions located in the waiting rooms. One is a customizable PowerPoint for VAMCs with local MVP clinics to include the location of the local MVP clinic (i.e., floor and room number). It is not permissible to include local contact information (staff phone numbers/emails). The other is not customizable and can be displayed at any VAMC, whether or not they have a local MVP clinic.
 
-- [Ad for VAMC televisions and digital screens](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/png/digital-ad-Gwendolyn.png)
+- [PNG (non-customizable)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/png/digital-ad-Gwendolyn.png)
+- [PPT (with customizable text for room/floor)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/ppt/digital-ad-Gwendolyn.pptx)
 
 ## Flyers and posters
 
