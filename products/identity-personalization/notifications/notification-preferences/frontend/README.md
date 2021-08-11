@@ -117,7 +117,7 @@ Copy below `h1`:
   - Email address
 - Alert should be dismissible. 
   - If user dismisses alert, don't show it again.
-  - Display the 
+  - Display the alert for [users who have notifications but haven't made a selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#user-has-notifications-for-which-they-have-not-made-a-selection)
 - [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836904/simulate/sitemap?mode=i)
 
 #### Copy
