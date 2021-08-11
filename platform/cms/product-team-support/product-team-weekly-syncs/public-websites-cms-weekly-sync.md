@@ -38,7 +38,7 @@
 ## August 11
 
 **Banners**
-* [rubric] from discussions with John/Dave/Jen in 2020 is hypothetical, needs more discussion with design system and thinking across products and teams
+* [rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) from discussions with John/Dave/Jen in 2020 is hypothetical, needs more discussion with design system and thinking across products and teams
  * none of this is critical path for this phase 
 * Query to pull in in has a POC
 * Dismissibility
