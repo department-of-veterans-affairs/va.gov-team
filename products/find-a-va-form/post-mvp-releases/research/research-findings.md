@@ -373,14 +373,12 @@ Disability and Assistive Technology:
 
 ## Underserved groups we haven’t talked to 
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-* Hispanic
-* Asian
+This research may not include the perspectives of the following underserved Veteran groups:
+* Identify as Hispanic, Asian, or LGBTQ+
 * Other than honorable discharge
 * Immigrant origin
 * Expat (living abroad)
-* LGBTQ+
-* AT other than screen readers
+* Users of Assistive Technology other than screen readers
 
 <br>
 
