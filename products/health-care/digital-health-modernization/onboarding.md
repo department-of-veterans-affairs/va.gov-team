@@ -40,9 +40,8 @@ The health “apartment” brings all health things under the same umbrella as b
 
 During a series of workshops held in Spring 2021, OCC and OCTO leadership aligned on a shared vision to simplify the Veteran digital health experience. The health “apartment” concept will unify all health things into a distinct, MHV-branded section of VA.gov. The result will be that Veterans can manage all of their benefits, including health care, from a single website. The wireframe below illustrates what this could look like.
 
-
-
-The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. (See the Mural.)
+![Apartment wireframe](assets/apartment_concept.png)
+*The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. (See the Mural.)*
 
 These things will move into the health apartment, which will be branded as “My HealtheVet”:
 - My HealtheVet content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — known as “the big four” since they are top tasks)
@@ -96,8 +95,8 @@ The DHM Team communicated the model below to the MHV team. This model should not
 
 The Health Apartment Team can use this model over time, always having buckets of planned, intended, and envisioned work.
 
-
-Slide from the DHM Team’s presentation to the My HealtheVet Team about the health apartment concept on July 15, 2021.
+![Diagram of planned, intended and envisioned work](assets/planned_intended_envisioned.jpg)
+*Slide from the DHM Team’s presentation to the My HealtheVet Team about the health apartment concept on July 15, 2021.*
 
 ## What success might look like
 We envision the Health Apartment Team evaluating and learning as they iterate, asking after each planned phase:
@@ -107,8 +106,8 @@ We envision the Health Apartment Team evaluating and learning as they iterate, a
 
 In this context of continuous iteration, the DHM Team shared thoughts with the MHV Team about what success might look like.
 
-
-Slide from the DHM Team’s presentation to the My HealtheVet Team about the health apartment concept on July 15, 2021.
+![success criteria for planned, intended and envisioned work](assets/success_criteria.jpg)
+*Slide from the DHM Team’s presentation to the My HealtheVet Team about the health apartment concept on July 15, 2021.*
 
 Here’s the thinking behind the graphic above.
 
