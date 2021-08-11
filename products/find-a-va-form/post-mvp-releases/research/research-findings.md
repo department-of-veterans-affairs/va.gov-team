@@ -79,7 +79,7 @@ Each participant saw one of three versions of the Find a Form page:
 1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
     1. FALSE: Most participants (9 of 11) didn't read the instructions provided on the search results page. Maybe if the instructions had been on the form detail pages, some people might have noticed them there. Even so, the forms turned out to be impossible to fill out on a mobile device, so instructions couldn't solve this problem.
 1. The new instructions will enable people of diverse technical abilities, ages, and disabilities to save and digitally sign PDF forms.
-    1. FALSE: Same reason as above. In addition, the digital signature is not be accessible to users of screen readers.
+    1. FALSE: Same reason as above. In addition, the digital signature is not accessible to users of screen readers.
 1. The new instructions will alleviate issues with forms that have different download behaviors.
     1. FALSE: Same reason as above.
 1. Instructions at the top of the list of forms will be missed when they scroll off the screen.
