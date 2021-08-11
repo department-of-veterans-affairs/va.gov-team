@@ -23,6 +23,11 @@
 
 </details>
 
+## August 11
+  * Fix for grainy photos and potential risks
+    * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
+
+
 ## August 4
 
 **VAMC**
@@ -31,6 +36,7 @@
   * Tech debt/defects related to CMS #1005 (January 2020!) refactoring of List pages.
     * Automated testing to check Locations List page (not just individual Locations)
     * Facilities will validate other 5 List pages (Health Services, News releases, Events, Stories, Leadership)
+ 
 * Dynamic side nav [##17746](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17746)
   * Discovery determined this work may be more effort than it is worth
   * May need to look at creating runbook tracking the individual tasks needed for new/merged faciities?
