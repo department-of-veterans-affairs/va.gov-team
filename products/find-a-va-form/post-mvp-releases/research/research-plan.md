@@ -3,7 +3,7 @@
 ## Goals	
 The goals of this research are to 
 1. Better understand how Veterans download VA PDF forms and what challenges they encounter.
-1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We want to assess the performance of two different design options for providing instructions.
+1. Get feedback on designs for advising users to download a PDF form and then open it with Acrobat, instead of viewing it in a web browser. We want to assess the performance of three different design options for providing instructions.
 
 ## Background
 Some browsers enable PDFs to be viewed directly instead of needing to first be downloaded. Many VA forms are in PDF format and need to be filled out in Acrobat in order to save the information entered and use a digital signature. Our challenge is how to advise users to download the forms to their device and then open them in Acrobat, when the details of how to do that vary by the specific form and the user's operating system, browser, settings by file type, and whether they have Acrobat Reader installed. We are aware of the following use cases:
@@ -28,7 +28,7 @@ In addition, we suspect that users who are less proficient with technology may e
   - What are users' reactions to auto-download? 
 - Are participants able to save and/or digitally sign the forms? 
 - Do different download behaviors from different forms (e.g., auto-downloading ones vs. not) cause issues for users?
-- What is the success rate of participants downloading forms from each of the two design options? Is one more effective than the other? 
+- What is the success rate of participants downloading forms from each of the three design options? Is one more effective than the others? 
 
 ## Hypotheses
 - The new instructions will enable people of diverse technical abilities, ages, and disabilities to download and open PDF forms in Acrobat. 
@@ -106,7 +106,7 @@ July 23, 2021  |  4:30 pm (robin.garrison@adhocteam.us)
  
 ## Resources	
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)	
-- [Research Findings]()	
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md)	
 
 ## Approvals
 Plan reviewed and approved by Lauren Alexanderson on July 22, 2021
