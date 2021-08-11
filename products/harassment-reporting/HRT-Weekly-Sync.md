@@ -24,6 +24,24 @@
 
 </details>
 
+## August 12, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
+### Action items:
+1. Program/Stakeholder Update - @Soni/Josh
+2. Mobile Design Update - Requests for Information needed? @Cassandra 
+3. Update: Content will be taking for pass this week, then we'll finalize following week ISO design finalization
+4. Roundtable Questions, Comments. 
+
+### Next Steps 
+- Deisgn Mockups --> Prototypes --> User Research (August to mid-September) 
+
+
+## Session Notes:
+
+
+<details><summary>Previous Agenda Items</summary>
+  
+
+  
 ## August 5, 2021 - Stage: Design / Build
 ### Action items:
 1. Program/Stakeholder Update - @Soni/Josh
@@ -37,10 +55,7 @@
 - Deisgn Mockups --> Prototypes --> User Research (August to September) 
 - Schedule a design review meeting to lock in mockups ISO interactive prototype build for user research testing. 
 
-## Session Notes:
-
-
-<details><summary>Previous Agenda Items</summary>
+## Session Notes:  
   
 ## July 29, 2021 - Stage: Design / Build
 ### Action items:
