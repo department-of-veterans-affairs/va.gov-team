@@ -232,10 +232,10 @@ For the past few years, OCTO has led the Digital Modernization Council, working 
 
 Which teams and projects are impacted by this work?
 
-**Appointment consolidation** 
+**Appointment consolidation**
 As part of our planned work, the VA Online Scheduling (VAOS) team and MHV team are collaborating to conduct a gap analysis and user research in order to consolidate the appointment experience into a single tool on VA.gov. As such, this is the first tool to move into the apartment. (Can link to Teams channel, etc. where collaboration is taking place.)
 
-**Notifications** 
+**Notifications**
 After consolidating appointments in VAOS, the team will then conduct gap analysis and user research to consolidate all appointment-related notifications in VA.gov. This work will involve not only MHV and VAOS, but two other VA.gov teams: My VA and VA Notify.
 
 My VA is an authenticated product on VA.gov that offers Veterans a personalized landing page. The team is exploring how to better elevate action items within My VA. This exploratory design research will lay the foundation for how VA.gov will surface notifications -- a key part of the Health Apartment design concept.
@@ -243,17 +243,17 @@ My VA is an authenticated product on VA.gov that offers Veterans a personalized 
 VANotify is a standardized, self-service notifications platform. The My VA team will build an MVP for notifications that are currently supported by VANotify. See what products are currently supported on VANotify.
 As part of the Digital Health Modernization workshop series, OCC agreed to leverage the VANotify platform moving forward. My VA, VANotify, and the Health Apartment team will need to work together to provide centralized notifications in the apartment.
 
-**Sign-in** 
+**Sign-in**
 In January 2021, the OCTO Identity team spearheaded a strategy to consolidate pathways and tools for Veterans to sign in to VA products and services.This strategy is a main driver in delivering the promise of the Digital Modernization principle: “Every service is accessible from a single “front door” experience.”
 
-Veterans will be directed to VA.gov/sign-in to authenticate, regardless of web property. The identity strategy identifies one private (ID.me) and one public (Login.gov) credential that Veterans can choose from. Long-term, this will mean existing credentials including MHV and DSLogon will be deprecated. 
+Veterans will be directed to VA.gov/sign-in to authenticate, regardless of web property. The identity strategy identifies one private (ID.me) and one public (Login.gov) credential that Veterans can choose from. Long-term, this will mean existing credentials including MHV and DSLogon will be deprecated.
 
-Starting in January, the Identity team instituted a Identity Working Group to coordinate across lines of business to realize this vision. They have received an ATO for Login.gov, and are beginning discovery research about Vetearn attitudes toward the public credential. 
- 
-**Flagship mobile app** 
+Starting in January, the Identity team instituted a Identity Working Group to coordinate across lines of business to realize this vision. They have received an ATO for Login.gov, and are beginning discovery research about Vetearn attitudes toward the public credential.
+
+**Flagship mobile app**
 Bottom up approach for “apartment” concept (health + benefits together)
 
-**Check-in** 
+**Check-in**
 MVP for appointment journey? VAOS (VA Online Scheduling)
 
 # Recommendations
@@ -304,7 +304,7 @@ Cerner EHR Migration
 
 Mission Act and Community Care
 
-Previous Digital Health Modernization strategies
-- Ad Hoc
-- VA OCTO
-- By Light
+Previous Digital Health Modernization strategies (please ask a VA OCTO employee for access to these documents if needed; reading strongly recommended prior to making major architecture decisions about the apartment):
+- [Ad Hoc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/VA.gov%20Health%20Portal.docx)
+- [VA OCTO](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/2020.1.10%20readout%20%20(1).pptx)
+- [By Light](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/MHV_Going%20Forward_White_Paper_Dec_20.2019.docx)
