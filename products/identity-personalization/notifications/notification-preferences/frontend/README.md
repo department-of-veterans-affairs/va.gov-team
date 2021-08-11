@@ -2,10 +2,9 @@
 
 ## Relevant links
 
-- [Mobile designs](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/140606620/comment/sitemap?mode=i) 
-- [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140288788/simulate/no-panels?mode=i)
-- [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140637426/simulate/sitemap?mode=i) 
-  - Data reflected is not accurate (some notifications have been added/removed to demonstrate behavior)
+- [Mobile designs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948765/simulate/sitemap?mode=i) 
+- [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i)
+- [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i) 
 - [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md)
 
 ## Description
@@ -46,8 +45,8 @@ Use prototype links above for latest versions of the prototype.
 - H2s get h3 styling for sizing
 - Use style rules from design system for html elements padding and margins
 - Use design system components
-  -  for large warning alerts
-  -  radio inputs
+  -  for warning alerts ([documentation](https://design.va.gov/components/alertboxes#warning-alert))
+  -  radio input styling ([documentation](https://design.va.gov/components/form-controls#radio-buttons))
 - Our input messaging component is being proposed as an experimental design component, and should be used for the save, error, and warning messaging. It's made up of different aspects of the design system:
   - background-only alert, icons, form input validation message
 
@@ -73,10 +72,8 @@ Copy below `h1`:
 >
 > - **user email** [Update email](/profile/personal-information)
 > - **user mobile phone** [Update mobile phone](/profile/personal-information)
->
-> 
 
-**Notification groups, channels, and items**
+#### **Notification groups, channels, and items**
 
 - Group and notification names will come through VA Profile's API
 
@@ -84,7 +81,7 @@ Copy below `h1`:
 
   > Manage your health care email notifications on [My Health*e*Vet]()
 
-**More info under notification groups**
+#### **More info under notification groups**
 
 > **Note:** We have limited notification options at this time. Check back for more options in the future.
 
@@ -95,7 +92,7 @@ Copy below `h1`:
 - Display warning alert immediately below `h1`
 - Hide notifications + groups
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138278598/specification/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836903/simulate/sitemap?mode=i)
 
 #### Copy
 
@@ -117,7 +114,7 @@ Copy below `h1`:
 - Alert should reference the contact information that's missing
   - Mobile number or
   - Email address
-- [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376735/simulate/no-panels?mode=i)
+- [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836904/simulate/sitemap?mode=i)
 
 #### Copy
 
@@ -164,7 +161,7 @@ Mock-up
 ### Update in progress
 
 - Display the word "Saving..." in italics, as seen on VA.gov application forms that autosave. [Video example here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/green-save-pop-up.mov)
-- See interaction on the first checkbox in [this mock up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i)
+- See interaction in [this mock up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i)
 
 #### Copy
 
@@ -176,7 +173,7 @@ Mock-up
 - Save alert must be announced to screen reader users via `aria-live="polite"`. 
 - Any visible alert should not when another checkbox is clicked to prevent a whole lotta jumping around on the page.  We will make improvements to this in a future iteration
 
-[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140375964/simulate/sitemap?mode=i); use the first checkbox
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i); use the first radio button
 
 #### Copy
 
@@ -188,7 +185,7 @@ Mock-up
 - Save alert must be announced to screen reader users via `aria-live="polite"`. 
 - Any visible alert should not when another checkbox is clicked to prevent a whole lotta jumping around on the page.  We will make improvements to this in a future iteration
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080509/comment/sitemap?mode=i)
+See the 3rd radio input in this [mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i)
 
 #### Copy
 
@@ -198,7 +195,7 @@ Mock-up
 
 Display error alert immediately after `h1`
 
-[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140376467/simulate/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948808/simulate/sitemap)
 
 #### Copy
 
@@ -208,7 +205,7 @@ Display error alert immediately after `h1`
 
 Display error alert immediately after `h1`
 
-[Mock-up](https://preview.uxpin.com/bb87d0fa61a32938a47e7bcdc836db235ab77576#/pages/138080509/comment/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948808/simulate/sitemap)
 
 #### Copy
 
