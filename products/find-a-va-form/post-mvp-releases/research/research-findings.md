@@ -382,4 +382,4 @@ This research may not include the perspectives of the following underserved Vete
 
 <br>
 
-![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/recruitment-checker.png)
+![recruitment-checker]()
