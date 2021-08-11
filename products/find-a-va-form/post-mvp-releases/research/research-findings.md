@@ -316,7 +316,6 @@ None at this time
 
 ### Find a Form page on Staging
 
-[Find a Form on Staging](https://staging.va.gov/find-forms/)
 ![find-a-form-staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/find-a-form-staging.png)
 
 ### Design #1: Instructions at the top of the list of forms
@@ -331,7 +330,7 @@ None at this time
 
 ![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
 
-### Resources and Support article linked to from "Get instructions for opening the form in Acrobat Reader" and "Read More" links
+### Resources and Support article linked to from "Get instructions for opening the form in Acrobat Reader" and "Read More" links in above designs
 
 ![R&S-How2download](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/R%26S-How2download.png)
 
