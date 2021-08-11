@@ -75,8 +75,8 @@ Copy below `h1`:
 
 > We’ll use the contact information from your profile to send you the notifications you choose: 
 >
-> - **user email** [Update email](/profile/personal-information)
-> - **user mobile phone** [Update mobile phone](/profile/personal-information)
+> - **user email** [Update email](/profile/personal-information#edit-contact-email-address)
+> - **user mobile phone** [Update mobile phone](/profile/personal-information#edit-mobile-phone-number)
 
 #### **Notification groups, channels, and items**
 
@@ -136,11 +136,11 @@ Copy below `h1`:
 
 **Alert Link** (use [active link style](https://design.va.gov/design/typography#links) with right chevron)
 
-> [**Add a [contact information] to your profile** >](/profile/personal-information) 
+> [**Add a [contact information] to your profile** >](/profile/personal-information#edit-[contact information]) 
 
 **Replace radio inputs with:**
 
-> Want to get these notifications by text message?  [Add your mobile number](/profile/personal-information)
+> Want to get these notifications by [channel]?  [Add your [contact information]](/profile/personal-information#edit-[contact information])
 
 ### User has notifications for which they have not made a selection
 
