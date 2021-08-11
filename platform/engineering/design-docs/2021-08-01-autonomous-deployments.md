@@ -189,9 +189,9 @@ This work should be completed in 2-3 sprints with 2 people.
 
 ### Alternatives
 
-An alternative that was discussed was isolating the applications in their own repositories before executing autonomous deploys. We felt that this would bloat the timeline and delay the feature from being released for too long.
+An alternative that was discussed was isolating the applications in their own repositories before executing autonomous deploys. We felt that this would bloat the timeline and delay the feature from being released for too long. Isolating each application entails all of the groundwork needed to complete the autonomous deployment initiative, but also revamping deployments further, dependency isolation, foundational upgrades to the infrastructure, and large/disruptive changes to VFS teams' workflow as well as extensive training. While full isolation is a long term goal, it will be rolled out as part of an iterative plan; autonomous deployments being the first objective to complete.
 
-We also discussed monorepo isolation, but deemed it as unnecessary to complete the objective.
+We also discussed monorepo isolation, but deemed it as unnecessary to complete the objective. Monorepo setup involves a technology infusion with something like Lerna, Yarn Workspaces, and/or NX. It was decided that pulling in new infrastructure at this stage would not get us any closer to the primary objective. This was also identified as an important upgrade to the system, but as it is non-critical, it is to be added to the roadmap as a follow-up initiative. Before this work can be completed, we need to make foundational upgrades to the platform code, architecture, and design system.
 
 ### Post MVP
 
