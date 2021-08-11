@@ -57,15 +57,15 @@ We conducted hour-long remote moderated research sessions via Zoom on **July 27-
 
 Each participant saw one of three versions of the Find a Form page:
 
-## Instructions at the top of the list of forms
+## 1. Instructions at the top of the list of forms
 
 ![UI-alert-at-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-at-top.png)
 
-## Instructions repeated above every form download link in a light blue box
+## 2. Instructions repeated above every form download link in a light blue box
 
 ![UI-alert-repeated-blue-box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-repeated-blue-box.png)
 
-## Instructions repeated above every form download link in gray help text
+## 3. Instructions repeated above every form download link in gray help text
 
 ![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
 
