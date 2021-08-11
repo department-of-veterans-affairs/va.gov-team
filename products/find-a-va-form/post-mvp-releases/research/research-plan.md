@@ -109,4 +109,4 @@ July 23, 2021  |  4:30 pm (robin.garrison@adhocteam.us)
 - [Research Findings]()	
 
 ## Approvals
-Plan reviewed and approved by Lauren Alexanderson on DATE TBD
+Plan reviewed and approved by Lauren Alexanderson on July 22, 2021
