@@ -137,8 +137,6 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 - [Mockups](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/screen/a6e29c96-2964-497f-befc-23dcd9620651)
 
-- [Prototype]()
-
 - [Feature flow diagrams](https://xd.adobe.com/view/d390050f-bc57-4550-a139-a57642c89f8c-86c3/)
  
 ---
