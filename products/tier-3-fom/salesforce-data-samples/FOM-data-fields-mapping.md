@@ -31,5 +31,18 @@ Required = *
 
 | __Salesforce FOM field  | Maps to this CMS field | Maps to this FE content field__ |
 | ------------- | ------------- | ------------- |
+| TBD: Dan's team has a ticket to create a name-only extract field for our use  | Content Cell  | Office Name  |
+| Mission  | Content Cell  | Mission  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
