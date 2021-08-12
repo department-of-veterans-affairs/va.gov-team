@@ -100,9 +100,8 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Finding 1**
 
-Accessibility: keyword 1, keyword 2 
-
-Design system components & patterns: keyword 1, keyword 2 
+Keywords: keyword 1, keyword 2 
+_List all keywords from the master taxonomy that apply to this finding._
 
 Brief description
 
@@ -113,9 +112,8 @@ Brief description
 
 **Finding 2**
 
-Accessibility: keyword 1, keyword 2 
-
-Design system components & patterns: keyword 1, keyword 2
+Keywords: keyword 1, keyword 2 
+_List all keywords from the master taxonomy that apply to this finding._
 
 Brief description
 
@@ -126,9 +124,8 @@ Brief description
 
 **Finding 3**
 
-Accessibility: keyword 1, keyword 2 
-
-Design system components & patterns: keyword 1, keyword 2 
+Keywords: keyword 1, keyword 2 
+_List all keywords from the master taxonomy that apply to this finding._
 
 Brief description
 
