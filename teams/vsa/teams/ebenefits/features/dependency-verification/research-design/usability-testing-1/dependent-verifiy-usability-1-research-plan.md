@@ -28,7 +28,7 @@ The goal of this usability study is to determine the effectiveness of the interc
 - Participants will generally understand why VA is asking about their dependents; they will likely know the financial ramifications of being over- or under-paid by VA.
 - Users may not be aware that they submitted and actual form when they "confirm," but they will understand they've "let VA know" their dependent are correct
 - Participants will likely be able to locate and understand the "remove" dependent feature; they may a slightly harder time finding the "add" feature
-- Users will expect the "remove" feature will just "delete" the removed dependent--but they likely will accept the formlet feature; users will expect the 'add" feature to request information about the new dependent
+- Users will expect the "remove" feature will just "delete" the removed dependent; users will expect the 'add" feature to request information about the new dependent
 
 ### Method
 We'll engage in moderated usability testing conducted remotely using Zoom. Participants will be recruited using Perigean. These users will be provided links to a starting point (page) from which they will trigger the Dependency Verification modal. Users will be given open-ended "tasks" set forth in the conversation guide, and their actions and feedback will be recorded. Observers and notetakers may be in attendance.
@@ -48,8 +48,8 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 
 #### Staging Users
 Test user 108 is reserved for this test.
- - 	vets.gov.user+108@gmail.com	
- - 	295SsNrLgPv5
+- 	vets.gov.user+108@gmail.com	
+- 	295SsNrLgPv5
 
 Test user 15 is reserved for this test.
 - vets.gov.user+15@gmail.com
@@ -90,17 +90,22 @@ Recruit for 5 fulfilled sessions using the following criteria:
 
 **Pilot sessions** | Dates/times TBD
 
-`There will be two pilot sessions`
+| Dates | Times (EDT) |
+| --- | --- |
+| Tuesday, August 17  | 4 PM |
+| Wednesday, August 18  | 12 PM |
 
 **Team availability**
 | Dates | Times (EDT) |
 | --- | --- |
-| Tuesday, August 17  | 9:30 AM to 6 PM |
-| Wednesday, August 18  | 11:30 AM to 2:00 PM or 4:00 PM to 6 PM |
 | Thursday, August 19  | 9:30 AM to 6 PM |
 | Friday, August 20  | 9:30 AM to 6 PM |
 | Monday, August 23  | 9:30 AM to 6 PM |
 | Tuesday, August 24  | 9:30 AM to 12:30 PM or 4:30 PM to 6 PM|
+| Wednesday, August 25 | 9:30 AM to 12:30 PM |
+| Thursday, August 26 | 9:30 AM to 6 PM |
+| Friday, August 27 | 9:30 AM to 6 PM |
+
 
 - Schedule sessions as 30-minute blocks
 - Please leave at least 30 minutes between sessions 
@@ -115,12 +120,13 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - Micah Chiang | micah@adhocteam.us -- Frontend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
+- Matt Self | matt.self2@va.gov -- Product Co-Owner
+- Shawna Hein | shawna@adhocteam.us -- UX manager
 - Perigean -- Participant recruiting & screening, notetaking
 - Note-takers -- Various as available
 - Observers -- various as available
 - Others -- Pending
 
-<!-- - Matt Self | matt.self2@va.gov -- Product Co-Owner -->
 
 ### Resources
 - [Project brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification)
