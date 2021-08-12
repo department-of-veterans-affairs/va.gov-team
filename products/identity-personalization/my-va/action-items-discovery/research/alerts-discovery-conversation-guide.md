@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 7. Have you ever used the My VA page on VA.gov? What do you use it for? 
 8. How often do you go online to manage your benefits?
 
-## BACKGROUND AND QUESTIONS - 7 minutes
+## Background and questions - 7 minutes
 
 Just a little bit of background before we start - we are working on building a central place for you to recieve any action items, updates or reminders on VA.gov. These could be anything related to health care, benefits or just general announcements. 
 
@@ -47,7 +47,7 @@ Just a little bit of background before we start - we are working on building a c
 3. What are some scenarios in your life where you would want a page like this? 
 4. Imagine that you do have new [USE THEIR WORD], how would you know? Where would you expect to see that on VA.gov? 
 
-## PROTOTYPE - 30 minutes 
+## Prototype - 30 minutes 
 
 Great, let's move on. We're now going to take a look at a prototype. I'll share a link with you, and go ahead and pull that up and share your screen with me. 
 
