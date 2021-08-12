@@ -53,6 +53,6 @@ Average time on page report template: [Google Analytics](https://analytics.googl
 
 Start Date: July 28, 2021
 
-End Date:
+End Date: August 12, 2021
 
-Number of unique users: 
+
