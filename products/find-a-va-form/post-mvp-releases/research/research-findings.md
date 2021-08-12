@@ -328,7 +328,8 @@ None at this time
 
 - [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/Find%20a%20Form%20PDF%20Downloading%20notes%20%26%20data%20analysis%20(7).xlsx)
 - [Technology setup and issues by user](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/PDF_research-study_results.xlsx)
-- [Mural board for user steps](https://app.mural.co/t/vsa8243/m/vsa8243/1628022580962/ff307182df2400489fee75782bd37f5879cca3a1?sender=ua2ff9f6c0031cb4999ae6676)  
+- [Mural board for user steps](https://app.mural.co/t/vsa8243/m/vsa8243/1628022580962/ff307182df2400489fee75782bd37f5879cca3a1?sender=ua2ff9f6c0031cb4999ae6676) 
+- [Quantitative analysis including analytics data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/Quantitative%20Analyses.xlsx)
 
 ## Pages and applications used
 
