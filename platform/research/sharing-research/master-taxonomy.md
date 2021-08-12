@@ -4,7 +4,7 @@ Copy and paste all keywords that apply to your findings from the list below into
 
 Don’t see a keyword that describes your research? Suggest one in the #research-ops channel on Slack.
 
-[Design system components](link here)<br>
+[Design system components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#design-system-components)<br>
 [Design system patterns](link here)<br>
 [-Benefit applications] (link here)<br>
 [-Content presentation] (link here)<br>
