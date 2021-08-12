@@ -7,7 +7,7 @@
 
 ## Participant 1
 
-`Raw transcript/unedited`
+`Raw notes/unedited`
 
 ---
 
@@ -36,33 +36,31 @@
 - Before someone can represent a Veteran, they have to complete 21-22 to give VSO POA
 - 21-22 is sent to VA they note the appointment, and VA grants access to Veteran records
 - They inform Veteran upfront they must be given POA to represent the Veteran
+- Upload 21-22 to portal online; imports to VA; logs into VA system; access has to be granted by VA
+- Used to be a fax
+- Some VSOs use their own program or site to upload
+- Paper and face-to-face are still popular, so they still mail 21-22
+- Some officers have physical location so everything can be handled in-person
+- They do not move forward with anything regarding claim until 21-22 is submitted
 
 ## Section three: Working with Veterans
-
+- Younger Veterans have more information upfront on CD they get at discharge; so they can get medical info upfront
+- Older veterans don’t; Some info was destroyed in a fire
+- May start with minimal info; may need info from doctors and family members
+- There is frequent contact early on; after it’s when there is an update
+- They have access to VBMS to check cases/status
+- Often, they help family members vs. Veterans
+- Sometimes Veterans come in/call when they receive letter
+- Typically, contact is onece a month or so
+- Timing is three to six month for initial claims, way faster than it used to be
+- No specialty — any kind of claims (health)
+- Some orgs are very specialized; (PBA) work with paralyzed Veterans
+- Most common things are mental health conditions, physical knee back problems
 
 ## Section four: Limits and ending appointment
 
 
 
-
-Used to be a fax now is a central mail portal online import to VA
-Some user their own program or site to upload 
-Logs into VA access system—has to be granted by VA (what is it called?)
-Paper and face-to-face so they still mail 21-22; some officers have physical location everything is handled in-person
-Do not move forward with anything regarding claim until 21-22
-Younger Veterans have more information upfront on CD; medical upfront
-Older veterans don’t; Some info has been destroyed
-May start with minimal info; may need docs from doctors and family members
-Frequent contact early on; after it’s when there is an update 
-Have access to VBMS to check cases
-Often it’s a family member
-Sometime they receive letter
-Monthly contact after the initial claim input
-Appeals management three to six month for initial claims
-But faster than it used to be
-No specialty—any kind of claims
-Some orgs PBA work with paralyzed Veterans
-Most common mental health conditions, physical knee back problems
 Example of update linking respiratory conditions to Service, update allows this
 Sometime call from veterans, so need to be educated on updates when questions come in
 Veterans need to know how weighting table affect them
