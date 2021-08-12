@@ -7,7 +7,7 @@
 
 ### Background
 
-Veterans receiving disability payments from VA can claim additional compensation for any dependents they might have. Dependents could include a spouse, children and/or dependent parents. Because family situations often change, VA requires the Veteran to notify them when a family member leaves the household. This happens through divorce, death, children leaving school and a few other circmustances. One consequence of not reporting dependent changes in a timely manner, is the Veteran could incur a debt with VA. 
+Veterans receiving disability payments from VA can claim additional compensation for any dependents they might have. Dependents could include a spouse, children and/or dependent parents. Because family situations often change, VA requires the Veteran to notify them when a family member leaves the household. This happens through divorce, death, children leaving school and a few other circumstances. One consequence of not reporting dependent changes in a timely manner, is the Veteran could incur a debt with VA. 
 
 To short circuit this issue, the eBenefits team has created an intercept modal residing on the View Dependents page. Veterans must log in to see this screen, and when they navigate to the dependents page, a check will occur against a notification date. The modal will prompt the Veteran to review the VA record of their dependents, and will be asked to add or remove dependents if necessary.
 
