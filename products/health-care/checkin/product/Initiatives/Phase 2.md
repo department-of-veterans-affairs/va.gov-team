@@ -3,7 +3,11 @@
 
 <details>
  
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
+ *This is the first iteration of the Mobile Check-in product MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this team will be including the following three elements to the Check-in product:* 
+
+* - the addition of last name and last 4 of SSN as identity verification data points.*
+* - the ability for Veterans to check-in if they have multiple appointments in one day.*
+    * - showing a check-in status for each appointment.*
  
 </details>
 
