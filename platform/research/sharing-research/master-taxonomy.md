@@ -6,17 +6,18 @@ Don’t see a keyword that describes your research? Suggest one in the #research
 
 [Design system components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#design-system-components)<br>
 [Design system patterns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#design-system-patterns)<br>
-[-Benefit applications] (link here)<br>
-[-Content presentation] (link here)<br>
-[-Email] (link here)<br>
-[-Forms] (link here)<br>
-[-Error Messages] (link here)<br>
-[-Pages] (link here)<br>
-[-Signed in state] (link here)<br>
-[-Help] (link here)<br>
-[-Wizards] (link here)<br>
-[-Notifications] (link here)<br>
-[Accessibility](link here)<br>
+- [Benefit applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#benefit-applications)<br>
+- [Content presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#content-presentation)<br>
+- [Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#email)<br>
+- [Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#forms)<br>
+- [Error Messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#error-messages)<br>
+- [Pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#pages)<br>
+- [Signed in state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#signed-in-state)<br>
+- [Help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#help)<br>
+- [Wizards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#wizards)<br>
+- [Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#notifications)
+
+[Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md#accessibility)
 
 
 ## Design system components
