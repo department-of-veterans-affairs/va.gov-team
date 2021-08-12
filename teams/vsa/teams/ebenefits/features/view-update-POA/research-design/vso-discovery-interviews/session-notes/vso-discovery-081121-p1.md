@@ -56,29 +56,26 @@
 - No specialty — any kind of claims (health)
 - Some orgs are very specialized; (PBA) work with paralyzed Veterans
 - Most common things are mental health conditions, physical knee back problems
+- Example of update linking respiratory conditions to Service, update allows this
+- Sometime call from veterans, so need to be educated on updates when questions come in
+- Veterans need to know how weighting table affect them
 
 ## Section four: Limits and ending appointment
+- Only up to the board of appeals; after refer them to lawyer
+- Attorneys working pro bono
+- Other limitations issues related to state or local area—if not a VA issue they are referred
+- References are usually to no-cost firms
+- Provide list—no favoritism
+- Usually find out about the issue by talking to the Veteran/initial convo
+- Can help most veterans; some circumstances are extraordinary
+- Once a veteran appoints someone else, automatically terminates representation
+- If Veteran just wants to stop, they can; write letter to VA for processing VA will 
 
-
-
-Example of update linking respiratory conditions to Service, update allows this
-Sometime call from veterans, so need to be educated on updates when questions come in
-Veterans need to know how weighting table affect them
-Only up to the board of appeals; after refer them to lawyer
-Attorneys working pro bono
-Other limitations issues related to state or local area—if not a VA issue they are referred
-References are usually to no-cost firms
-Provide list—no favoritism
-Usually find out about the issue by talking to the Veteran/initial convo
-Can help most veterans; some circumstances are extraordinary
-Once a veteran appoints someone else, automatically terminates representation
-If Veteran just wants to stop, they can; write letter to VA for processing VA will 
-Knows about eBenefits, but no-one monitored system so 21-22 didn’t go any where
-No one monitored it; wasn’t well managed
-VSO just weren’t aware of feature, so make sure VSO knows feature is available and active and use it
-Communication/meeting with VBA inform VSOs about feature
-Make sure correct contact info is correct and up-to-date; many complaints
-
-
+## Wrap-up
+- Knows about eBenefits, but no-one monitored system so 21-22 didn’t go any where
+- No one monitored it; wasn’t well managed
+- VSO just weren’t aware of feature, so make sure VSO knows feature is available and active and use it
+- Communication/meeting with VBA inform VSOs about feature
+- Make sure correct contact info is correct and up-to-date; many complaints
 
 ---
