@@ -7,7 +7,7 @@
 
 - the addition of last name and last 4 of SSN as identity verification data points.*
 - the ability for Veterans to check-in if they have multiple appointments in one day.*
- - showing a check-in status for each appointment.*
+    - showing a check-in status for each appointment.*
  
 </details>
 
