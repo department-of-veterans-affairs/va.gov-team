@@ -13,4 +13,17 @@
 
 ## Warm-up
 
+
+## Section one: Becoming a VSO/rep
+
+
+## Section two: Appointing a representative
+
+
+## Section three: Working with Veterans
+
+
+## Section four: Limits and ending appointment
+
+
 ---
