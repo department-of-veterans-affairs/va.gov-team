@@ -242,11 +242,16 @@ Keywords: forms, download, digital signature
 ## Accessibility-Related Issues that affected screen reader users
 
 ### 1. Digital signature field invisible 
-Participants using a screen reader were unable to digitally sign because screen readers (e.g., JAWS) didn't announce any place to sign. The signature field wasn't an editable field or a button, and there wasn't a label on the field. 
 
 Keywords: forms, digital signature, accessibility
 
+Participants using a screen reader were unable to digitally sign because screen readers (e.g., JAWS) didn't announce any place to sign. The signature field wasn't an editable field or a button, and there wasn't a label on the field. 
+
+
 ### 2. Form fields difficult to fill out 
+
+Keywords: forms, accessibility
+
 **Some screen reader users weren't happy about having to fill out the forms in Adobe Acrobat because of perceived lack of accessibility based on their past experiences with PDF fillable forms.**
 - One participant remarked that they always have trouble filling out forms in PDFs because they're not accessible. 
 - Another participant expected the form to not be accessible because their screen reader didn't say anything upfront to describe it. They tabbed through the form to look at it.
@@ -258,12 +263,11 @@ Keywords: forms, digital signature, accessibility
 
 One participant had never used Adobe Acrobat before and didn't know how to navigate a PDF form and fill it out (i.e., select check boxes, type content into fields). The accessibility specialist observing the session gave this participant a bit of training, and then the participant was able to get started. Later, JAWS stopped reading one of the forms, and the accessibility specialist advised her to quit Adobe Acrobat and then come back in. Later when asked where to sign, this participant expected to find that near a *Submit* button (as on web forms, which were familiar to them). 
 
-Keywords: forms, accessibility
-
 ### 3. Find a Form search results hard to scan 
-There was no heading for each Find a Form search result, and so participants had to tab down 6 lines through each search result in order to see the next one.
 
 Keywords: search results, headings, accessibility
+
+There was no heading for each Find a Form search result, and so participants had to tab down 6 lines through each search result in order to see the next one.
 
 <br>
 
