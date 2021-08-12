@@ -91,9 +91,9 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords to your findings** selected from the [master taxonomy]. Tagging your findings will help others find research relevant to their work._
+_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords to your findings** selected from the [master taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/master-taxonomy.md). Tagging your findings will help others find research relevant to their work._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#themes-and-detailed-findings)_
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#details-of-findings)_
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
