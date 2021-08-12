@@ -113,7 +113,7 @@ In the above 3 designs, the "Get instructions for opening the form in Acrobat Re
 
 1. There were other **issues with the form fields that made them difficult to fill out** using a screen reader because of missing field labels, incorrect tab order, and multiple input fields under one label (i.e., last name, first name, and middle name).
 
-1. **Find a Form search results were hard to scan** because there was no heading for each one, and so screen reader users had to tab down 4-5 lines through each search results before they could see the next one.
+1. **Find a Form search results were hard to scan** because there was no heading for each one, and so screen reader users had to tab down 4-5 lines through each search result before they could see the next one.
 
 
 # Details of Findings 
