@@ -88,11 +88,11 @@ Recruit for 12 sessions (8 fulfilled sessions) using the following criteria:
 
 ### Timeline: What dates do you plan to do research? 
 
-* August 17-24
+* August 19-26
 
 ### When will the thing you are testing be ready?
 
-August 10
+August 12
 
 ### Length of Sessions: How long do you estimate each session will be? 
 
@@ -100,16 +100,16 @@ August 10
 
 ### Availability: If applicable, when would you like sessions scheduled? 
 
-* Aug 17; 9am - 6pm EST
-* Aug 18; 9am - 6pm EST
 * Aug 19; 9am - 6pm EST
 * Aug 20; 9am - 6pm EST
 * Aug 23; 9am - 6pm EST
 * Aug 24; 9am - 6pm EST
+* Aug 25; 9am - 6pm EST
+* Aug 26; 9am - 6pm EST
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
-* Aug 16; TBD
+* Aug 18; TBD
 
 ### Which member of the design team will you pilot your research with?
 
