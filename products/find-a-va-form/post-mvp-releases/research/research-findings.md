@@ -164,7 +164,7 @@ Download file to device | 10 | 15
 Digitally sign form in Acrobat | 9 | 4
 Fill out form in Acrobat | 8 | 8
 Open file in Acrobat | 6 | 5
-Download Adobe Acrobat to device | 6 | 4
+Download Acrobat to device | 6 | 4
 Find file on device | 2 | 1
 
 ### Issues with downloading the file from the web browser to user's device
