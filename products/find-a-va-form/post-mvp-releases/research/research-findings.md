@@ -154,7 +154,7 @@ Keywords: forms, download
 
 Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck (see diagram above). Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology. For technical details from each session, see [Technology setup and issues by user](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/PDF_research-study_results.xlsx). This diagram shows the number of unique issues per step and the number of participants affected, both of which were highest for downloading the file to the user's device:
 
-![issues&participants-by-step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/issues%26participants-by-step.png)
+![number-of-issues-per-step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/number-of-issues-per-step.png)
 
 Here are the steps listed with the greatest number of research participants (of 11) affected at the top:
 
