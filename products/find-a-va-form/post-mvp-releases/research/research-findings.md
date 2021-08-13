@@ -215,7 +215,7 @@ Find file on device | 2 | 1
 - When two participants clicked the downloaded files shown at the bottom of their browser, the files opened in the browser. In order to get them into Acrobat, they had to launch Acrobat and opened the files from there.
 - When two participants opened files from inside Acrobat, they were prompted to set Acrobat Reader as their default for PDF files. They both appeared to not read the details in the prompt shown and simply declined. 
 - Two participants opened File Manager, right-clicked on the file to open, and selected Adobe Acrobat Reader. (SUCCESS!)
-- One participant needed help downloading Adobe Acrobat and using it to open the form. For the next form, they needed help again. For the third form, they remembered the process themselves.
+- One participant needed help downloading Adobe Acrobat and using it to open the form. For the next form, they needed help again in opening it in Acrobat. For the third form, they remembered the process themselves.
 
 
 ### Issues with filling out the form
