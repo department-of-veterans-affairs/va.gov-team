@@ -43,7 +43,7 @@ This directory contains a plethora of historical and current-state information a
 * How to [add someone to MVI]()
 * It is highly recommended that everyone on the VA.gov team attempts to identity proof themselves so that they can login to VA.gov in a production system. Identity proofing is available to everyone, independent of Veteran status.  If you are not a Veteran, you will not be matched in MVI but that's the expected behavior! You will simply not be able to see Veteran-specific items (e.g. secure messaging, Rx refills, etc.)
 * To navigate VA.gov as an LOA3 identity proofed Veteran:
-  * Pick a test account from [this table](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv) (scroll to the right for user/password columns)
+  * You can obtain a test username and password from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
   * Visit https://staging.va.gov (HTTP auth username is `veterans` and password is `am3rica`)
   * Click "Sign In"
   * Enter your chosen user/password in the ID.me dialog and click "Sign In"

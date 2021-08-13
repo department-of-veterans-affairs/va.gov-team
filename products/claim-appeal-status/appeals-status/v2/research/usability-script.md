@@ -10,7 +10,8 @@
 - Identify where it in during the process where a Veteran would call their rep and when they wouldn't. 
 
 ## Test Links
-- Test accounts - ID: vets.gov.user+226@gmail.com | password: [check the va.gov-team-sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+- You can obtain a test username and password from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
+- Test accounts: vets.gov.user+226@gmail.com
 - [Pending Form 9](https://staging.vets.gov/track-claims/appeals-v2/7387389/status)
 - [On docket](https://staging.vets.gov/track-claims/appeals-v2/7387390/status)
 - [Decision](https://staging.vets.gov/track-claims/appeals-v2/7387391/status)

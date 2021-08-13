@@ -8,7 +8,7 @@ June 20, 2017
 
 https://staging.vets.gov/letters; veterans, am3rica
 
-Sign in: vets.gov.user+298@gmail.com, [password lookup here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+Sign in: `vets.gov.user+298@gmail.com`, you can obtain the password for `vets.gov.user+298@gmail.com` from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
 
 mockup: https://marvelapp.com/2jaea53/screen/29132668
 

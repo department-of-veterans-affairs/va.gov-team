@@ -6,6 +6,8 @@ for Mock Data and Live Data rounds, April 2018
 
 [Review instance](http://e5dc56c3c6e50404e36a2e4744bc5f6b.review.vetsgov-internal/disability-benefits/526/apply-for-increase/) (requires [socks proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md))
 
+You can obtain a test username and password from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
+
 [Participant #], [date] [time]
 
 ## Background Questions - 6 minutes (until :11 in)
@@ -43,7 +45,7 @@ Imagine you’ve been feeling like the condition you’re rated for has become m
 
 ### Steps
 
-- [Sign In] - [test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
+- [Sign In] - (see test user information at top of document)
   - Why do you think you're being propmted to sign in?
   - Do you have any concerns at this stage?
 - [Apply page / subway map]

@@ -171,7 +171,8 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## How to Access and Test
 
-- Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
+- You can obtain a test username and password from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
+- Login with any your selected username/password on https://staging.va.gov
 - Visit https://staging.va.gov/profile/
 
 ## Error Handling

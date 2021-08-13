@@ -255,9 +255,7 @@ Staging Environment Testing
 
 - Integration testing will be conducted in the staging environment.  The staging URL is <https://staging.va.gov/education/apply-for-education-benefits/application/0994/introduction> 
 
-- Test users can be found here: 
-<https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv>
-
+- You can obtain a test username and password from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
 
 The Staging environment is integrated with a SFTP server and a mail server so complete end to end testing can be executed in Staging.  Access to the SFTP server is managed by Chris Marino (Christopher.Marino2@va.gov).  Email addresses are configured in the mailers files located in "app/mailers/".
 

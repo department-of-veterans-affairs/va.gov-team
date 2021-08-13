@@ -40,7 +40,7 @@
 * Mel's V.1 [video walk-through](https://www.youtube.com/watch?v=74u3L23uX4M&feature=youtu.be)
 eBenefits screenshots & redesigns
 * [Screenshots of v.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/track-claim-status/design/claim-status-screenshots.zip)
-* [User accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
+* Test Accounts: You can obtain a test username and password from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
 
 ## Other details
 * There are no redirects in place but eBenefits displays a banner on their claim status detail pages encouraging their users to "try" the new vets.gov version.

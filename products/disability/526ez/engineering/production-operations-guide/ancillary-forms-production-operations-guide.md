@@ -167,8 +167,7 @@ Monitoring and Triage Overview
 
 - Integration testing will be conducted in the staging environment.  The staging URL is <https://staging.va.gov/disability-benefits/apply/form-526-all-claims/introduction> 
 
-- Test users can be found here: 
-<https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv>
+- You can obtain a test username and password from the [Test User Dashboard](https://tud.vfs.va.gov). If you do not have the required [SOCKS proxy](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-SetuptheSOCKSproxy) set up to view the Test User Dashboard, a full list of staging test users is in [mvi-staging-users.csv](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), though the accounts on this list will not be as up to date as those managed through the Test User Dashboard.
 
 **DEPRECATED: **
 *All form submissions update the [disability_compensation_job_statuses](#disability_compensation_job_statuses) table. This should be verified with each form submission or form upload.  Additional form specific testing is documented below.*

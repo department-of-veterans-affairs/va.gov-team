@@ -33,7 +33,8 @@ The following list is a set of resources compiled by the people in your practice
     - Run the app
         - [Running the app](https://github.com/department-of-veterans-affairs/vets-api#running-the-app)
    - Logging in 
-        -   [DS Logon usernames and passwords]()
+        - [Test User Dashboard (requires SOCKS proxy)](https://tud.vfs.va.gov)
+        - [DS Logon usernames and passwords]()
         - [MyHealtheVet usernames and passwords]()
         - [id.me usernames and passwords](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
     - Run tests
