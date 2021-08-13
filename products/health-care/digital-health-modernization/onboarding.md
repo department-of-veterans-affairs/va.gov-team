@@ -201,11 +201,17 @@ For the second OCTO-OCC leadership workshop, we created 3 concepts for how to �
 - Make My HealtheVet’s and VA.gov’s designs more similar
 - Result in the My HealtheVet and VA.gov teams working together more closely
 
-Leadership evaluated the 3 concepts anonymously, with 80% consensus on the health apartment concept. Their evaluation was based on these criteria:
+Leadership evaluated the 3 concepts anonymously during the workshop, with 80% consensus on the health apartment concept. Their evaluation was based on these criteria:
 - How well each concept supported specific top tasks or scenarios
 - Which concept best fits user needs
 
-… following this style, we’ll want to add details for workshops 3-4 here.
+To prepare for workshop 3, we met with 13 key teams/stakeholders in OCTO and OCC to get their feedback on the health apartment concept, discuss their roadmaps, and ask them for project ideas to move us towards the health apartment. The DHM Team synthesized what we heard and in workshop 3 presented the OCTO-OCC leadership group with a list of project ideas. Leadership chose to immediately focus on notifications, appointments, and the health apartment. They also expresssed a strong desire to align the OCTO and OCC roadmaps. 
+
+Our goal for workshop 4 was twofold: 
+
+
+
+- Workshop 4: Looked at OCC’s and OCTO’s roadmaps and chose these areas to align roadmaps on in the near term: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy. We also designated OCTO and OCC points of contact for each of these 5 areas.
 
 # The Bigger Picture
 
