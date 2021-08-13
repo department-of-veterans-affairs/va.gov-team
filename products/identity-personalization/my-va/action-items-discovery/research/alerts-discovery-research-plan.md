@@ -125,6 +125,7 @@ August 12
 * Observers: 
 	* Liz Lantz (liz.lantz@adhocteam.us)
 	* Erik Hansen (erik@adhocteam.us)
+	* Lihan Li (lihan@adhocteam.us)
 	* Taylor Mitchell (tmitchell@governmentcio.com)
 	* Ana Jakabcin (ana@adhocteam.us)
 	* Kevin Hoffman (kevin.hoffman1@va.gov)	
