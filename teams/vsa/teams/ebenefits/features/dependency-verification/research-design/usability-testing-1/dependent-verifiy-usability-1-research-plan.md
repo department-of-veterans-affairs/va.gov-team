@@ -61,7 +61,7 @@ To reset the modal proc, "X" out of the modal and on the View Dependents page it
 
 ### Participants and recruitment
 
-Recruit for 5 fulfilled sessions using the following criteria:
+Recruit 8 for 5 fulfilled sessions using the following criteria:
 
 **Critical participant criteria**
 - Participants must receive VA compensation payments
@@ -76,6 +76,7 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - At least 1 participant under 35
 - At least one person that has a college degree (to include of officer Veterans)
 - At least one person who lives in a major metropolitan area
+- Veterans who receive VA compensation payments for dependents
 
 **Please consider**
 - At least one person who lives in a rural or remote area
