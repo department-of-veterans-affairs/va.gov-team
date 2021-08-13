@@ -48,7 +48,7 @@ The wireframe below illustrates what the health apartment could look like.
 *The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. See [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620410062494/ebd48844ad82c50d028818c677a26faab827cfb3?sender=megpeters0505).*
 
 The following things will move into the health apartment:
-- My HealtheVet content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — we call these top tasks “the big four”)
+- My HealtheVet content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — we call these top tasks the "big four”)
 - Health-related things on VA.gov (examples: apply for health care, medical copays, travel pay, order hearing aid batteries and prosthetic socks)
 
 Since things like disability and claims relate closely to health, the health apartment will have intuitive and meaningful pathways to this content, which lives elsewhere on VA.gov.
@@ -127,8 +127,8 @@ Since the work for appointments and appointments notifications started before th
 Because some work needs more planning and validation before it’s actionable, the DHM Team recommends these activities (shown as “intended” above):
 - Adopt formal, shared success metrics.
 - Move or rebuild Secure Message, Prescription Refill and Medical Records functionality into the health apartment.
-- Do an opt-in beta test for users of My HealtheVet Appointments, Secure Message, Prescription Refill and Medical Records as these products ("the big four") move into the health apartment.
-- Follow with an opt-out beta test for My HealtheVet users of "the big four."
+- Do an opt-in beta test for users of My HealtheVet Appointments, Secure Message, Prescription Refill and Medical Records as these products (the "big four") move into the health apartment.
+- Follow with an opt-out beta test for My HealtheVet users of the "big four."
 - Formally launch the My HealtheVet apartment on VA.gov and deactivate the instances of those products on My HealtheVet.
 
 Making the intended work actionable requires (a) learnings from shipping the health apartment, and (b) that OCTO-OCC leadership help with planning. The leadership group plans to meet every 6 weeks to check in with the Health Apartment Team and the points of contact for aligning these OCTO and OCC roadmaps:
@@ -153,16 +153,16 @@ The following describes the key milestones of the team’s journey.
 
 ## Key Milestones
 Mapping the Health Landscape | October - November 2020
-- Conducted OCTO stakeholder interviews to understand how Veterans think about VA health care and VA.gov
+- Conducted OCTO stakeholder interviews to understand the intersection of health and VA.gov 
 - [Began mapping the health landscape](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/history/information-architecture)
 - Gathered baseline web analytics
 
 Discovery Research | December 2020
-- [Conducted generative research with Veterans and caregivers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md)
+- [Conducted generative research with Veterans and caregivers to understand how they think about and manage health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md)
 
 OCTO Big Rock Planning | January 2021
 - [OCTO Health Big Rocks planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1611253339753/84f8b6fe7d254477f57aa7215f7b953428149a62?sender=uaf2e527a10dad9fb94a02129)
-- [Co-created recommendations with OCTO-DE crews](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1610571571747/efaae198a64701c8eee8dd5efe8bf85657d39c1c?sender=uaf2e527a10dad9fb94a02129)
+- [Cocreated recommendations with OCTO Digital Experience crews](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1610571571747/efaae198a64701c8eee8dd5efe8bf85657d39c1c?sender=uaf2e527a10dad9fb94a02129)
 
 DHM Product Strategy | February - March 2021:
 - Created product strategy and roadmap documents
