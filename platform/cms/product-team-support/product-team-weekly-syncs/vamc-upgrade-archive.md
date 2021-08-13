@@ -1,4 +1,4 @@
-# Archive 2020-2021 Q1+Q2 VAMC upgrade / CMS team sycncs
+# Archive 2020-2021 Q1+Q2 VAMC upgrade / CMS team syncs
 
 ## June 25
 
