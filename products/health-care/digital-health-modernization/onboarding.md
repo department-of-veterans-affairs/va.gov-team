@@ -220,9 +220,11 @@ Read on for the mission, vision, and goals behind all work in OCTO; the overarch
 ### OCTO
 The vision for the health apartment supports OCTO’s mission, vision, and North Star goals for serving Veterans.
 
-OCTO vision: Every Veteran is guaranteed access to self-service benefits and accurate data.
-OCTO mission: Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
-OCTO’s North Star goals:
+**OCTO vision:** Every Veteran is guaranteed access to self-service benefits and accurate data.
+
+**OCTO mission:** Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
+
+**OCTO’s North Star goals:**
 - Increase the usage and throughput of VA services.
 - Decrease the time Veterans spend waiting for an outcome.
 - Increase the quality and reliability of VA services.
