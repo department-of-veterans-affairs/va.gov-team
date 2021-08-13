@@ -238,6 +238,7 @@ To assist with referrals, healthcare providers can copy/paste this text into the
 ## Other content
 
 Note: Newest content is listed first
+- [VAntage Point Blog: VA women leaders join women Veterans in research](https://blogs.va.gov/VAntage/93254/va-women-leaders-join-women-veterans-in-research/)
 - [She Wears the Boots: A Podcast for Women Veterans: MVP interview with Jennifer Deen](https://www.spreaker.com/user/11014928/womenshealth-deen-mvp-052721-edits-06252)
 - [Military.com: VA Calls on Female Veterans to Enroll in World's Largest Medical Research Biobank](https://www.military.com/daily-news/2021/06/28/va-calls-female-veterans-enroll-worlds-largest-medical-research-biobank.html)
 - [Military Times: VA’s Million Veteran Program wants thousands of more women to sign up for genetic study](https://www.militarytimes.com/veterans/2021/06/25/vas-million-veteran-program-wants-thousands-of-more-women-to-sign-up-for-genetic-study)
