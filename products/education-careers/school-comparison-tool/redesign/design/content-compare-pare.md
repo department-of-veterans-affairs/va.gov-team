@@ -8,9 +8,9 @@ Use the GI Bill Comparison Tool to see how VA education benefits can pay for you
 
 { SCHOOL COMPARISON HEADER }
 
-## School comparison:
+## Institution comparison:
 
-View school information side by side to compare schools
+Compare schools, employers and VET TEC providers side-by-side
 
 {Checkbox + Icon + Highlight differences}
 
@@ -61,7 +61,7 @@ GI Bill students (Learn more)
 Length of program
 
 
-Type of school
+Type of institution
 
 
 Institution locale
