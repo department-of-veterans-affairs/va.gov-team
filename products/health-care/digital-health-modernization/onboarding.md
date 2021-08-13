@@ -35,6 +35,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 # Vision
 With this mission in mind, the DHM Team held a series of workshops held in Spring 2021 with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC, which owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet (MHV) and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. The wireframe below illustrates what this could look like.
 
+
 ![Apartment wireframe](assets/apartment_concept.png)
 *The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. See [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620410062494/ebd48844ad82c50d028818c677a26faab827cfb3?sender=megpeters0505).*
 
@@ -42,7 +43,7 @@ These things will move into the health apartment, which will be branded as “My
 - My HealtheVet content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — known as “the big four” since they are top tasks)
 - Health-related things on VA.gov (examples: apply for health care, medical copays, travel pay, order hearing aid batteries and prosthetic socks)
 
-The health apartment will be designed with intuitive and meaningful pathways to content closely related to health, content that lives elsewhere on VA.gov (examples: disability, claims, Veterans Health Library).
+The health apartment will have intuitive and meaningful pathways to content closely related to health, content that lives elsewhere on VA.gov (examples: disability, claims, Veterans Health Library).
 
 In conversations with OCTO and OCC staff, we heard that the “health apartment” appealed to them for a few reasons:
 - All things health are in one place.
@@ -50,7 +51,7 @@ In conversations with OCTO and OCC staff, we heard that the “health apartment�
 - For users, it will feel similar to My HealtheVet.
 - It makes it easier for My HealtheVet to retain its brand.
 
-As the Health Apartment Team, you will design the apartment and test it with Veterans to see how well it meets their needs before we take expensive and difficult-to-revoke steps to rebuild MHV’s website inside VA.gov. Your team will validate or invalidate the health apartment vision and ship a proof of concept to production.
+As the Health Apartment Team, you will design the health apartment and test it with Veterans to see how well it meets their needs before we take expensive and difficult-to-revoke steps to rebuild MHV’s website inside VA.gov. Your team will validate or invalidate the health apartment vision and ship a proof of concept to production.
 
 ## How do we get there?
 Incrementally. It will take intense collaboration and planning, with the Health Apartment Team working closely with multiple teams in OCTO and OCC. These 3 VA employees will support and guide the Health Apartment Team:
