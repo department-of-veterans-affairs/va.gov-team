@@ -224,7 +224,7 @@ Find file on device | 2 | 1
 - Another participant called out how different the forms were from each other:
 > "The lack of standardization in the forms. That is such a big thing for us in the military...Standardizing these forms would mean that every form has the same outline and things are done in the same way. There should be common instructions that you can give for all forms. Any specific instructions for the particular form would be on the page where the form is" (p12).
 
-There were many accessibility issues with the PDF forms encountered by the 4 screen reader users, which will be detailed in the Assessibility-Related Issues section below. 
+There were many accessibility issues with the PDF forms encountered by the 4 screen reader users, which will be detailed in the Accessibility-Related Issues section below. 
 
 ### Issues with digitally signing the form
 **Even with assistance, 5 of 11 people were unable to digitally sign the two PDF forms that required it.** 
