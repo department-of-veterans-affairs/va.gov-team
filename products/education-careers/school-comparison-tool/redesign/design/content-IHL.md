@@ -279,7 +279,13 @@ Tuition and fees charged: $NNNN
 
 **Housing allowance: $NNNN / mo
 
-**Book stipend: $NNNN / year
+**Book stipend ([Learn more]): $NNNN / year
+
+    { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
+
+    You may be eligible for money to cover books and supplies, up to $83 per month.
+
+    { end Book stipend modal }
 
 **Total paid to you: $NNNN
 
@@ -313,14 +319,6 @@ Tuition and fees charged: $NNNN
     [View the current housing allowance payment rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp?_ga=2.144591223.39405460.1542131207-1582256389.1508352376)
 
     { end Housing allowance modal }
-
-**Book stipend ([Learn more])
-
-    { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
-
-    You may be eligible for money to cover books and supplies, up to $83 per month.
-
-    { end Book stipend modal }
 
 
 ### Additional information regarding your benefits
