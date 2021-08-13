@@ -25,3 +25,4 @@
 | Survey page Tagalog | | 7/12 |
 | Delta variant updates | 7/13 | 7/13 | 7/14 | 7/15 | 7/15  | 71/3 | 7/15 |
 | Mask wearing FAQs update | 8/3 | 8/3 | 8/11 | 8/11 | 8/11 | 8/3 | 8/11 |
+| Booster alert | 8/13 | 8/13 | 
