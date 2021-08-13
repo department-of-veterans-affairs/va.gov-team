@@ -33,63 +33,65 @@ Consider booking a doctor’s appointment: One system locates nearby facilities.
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and to make that experience easy and intuitive.
 
 # Vision
-With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC, which owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet (MHV) and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. The wireframe below illustrates what this could look like.
+With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC, which owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
 
-
-![Apartment wireframe](assets/apartment_concept.png)
-*The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. See [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620410062494/ebd48844ad82c50d028818c677a26faab827cfb3?sender=megpeters0505).*
-
-These things will move into the health apartment, which will be branded as “My HealtheVet”:
-- My HealtheVet content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — known as “the big four” since they are top tasks)
-- Health-related things on VA.gov (examples: apply for health care, medical copays, travel pay, order hearing aid batteries and prosthetic socks)
-
-The health apartment will have intuitive and meaningful pathways to content closely related to health, content that lives elsewhere on VA.gov (examples: disability, claims, Veterans Health Library).
-
-In conversations with OCTO and OCC staff, we heard that the “health apartment” appealed to them for a few reasons:
+In conversations with OCTO and OCC staff, we heard that the health apartment idea appealed to them for a few reasons:
 - All things health are in one place.
 - The concept scales to provide a holistic experience with other VA benefits.
 - For users, it will feel similar to My HealtheVet.
 - It makes it easier for My HealtheVet to retain its brand.
 
-As the Health Apartment Team, you will design the health apartment and test it with Veterans to see how well it meets their needs before we take expensive and difficult-to-revoke steps to rebuild MHV’s website inside VA.gov. Your team will validate or invalidate the health apartment vision and ship a proof of concept to production.
+The wireframe below illustrates what the health apartment could look like.
+
+
+![Apartment wireframe](assets/apartment_concept.png)
+*The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. See [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620410062494/ebd48844ad82c50d028818c677a26faab827cfb3?sender=megpeters0505).*
+
+The following things will move into the health apartment:
+- My HealtheVet content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — we call these top tasks “the big four”)
+- Health-related things on VA.gov (examples: apply for health care, medical copays, travel pay, order hearing aid batteries and prosthetic socks)
+
+Since things like disability and claims relate closely to health, the health apartment will have intuitive and meaningful pathways to this content, which lives elsewhere on VA.gov.
+
+As the Health Apartment Team, you will design the health apartment and test it with Veterans to see how well it meets their needs before we take expensive and difficult-to-revoke steps to rebuild the My HealtheVet website inside VA.gov. Your team will validate or invalidate the health apartment vision and ship a proof of concept to production.
 
 ## How do we get there?
-Incrementally. It will take intense collaboration and planning, with the Health Apartment Team working closely with multiple teams in OCTO and OCC. These 3 VA employees will support and guide the Health Apartment Team:
+Incrementally. It will take intense collaboration and planning, with the Health Apartment Team working closely with multiple teams in OCTO and OCC. As part of the Health Apartment Team, these 3 VA employees will help guide the work and connect you to VA partners and subject-matter experts:
 - A product person from OCC
 - An engineer from OCC
 - A designer from OCTO
 
-In the workshops, OCTO-OCC leadership supported the idea of moving appointments into the health apartment first for a few reasons:
+In the workshops, OCTO-OCC leadership decided to move appointments into the health apartment first for a few reasons:
 - Appointments is one of the “big four” Veteran top task areas (scheduling, managing, cancelling, rescheduling, etc.).
 - Both My HealtheVet and VA.gov have appointments functionality (some of it redundant).
 - VA Online Scheduling (VAOS), the appointments tool with more functionality than My HealtheVet, is already part of VA.gov.
 
-With the consensus on appointments, OCTO and OCC began to move toward the health apartment concept beginning in late July 2021. The MHV and VAOS teams have started to conduct comparative analyses of existing appointments tools and their notifications. The purpose of this work is to:
-- Find gaps in functionality between MHV appointments and VAOS
+With consensus on appointments, OCTO and OCC took the first steps towards the health apartment concept in late July 2021. In August, the My HealtheVet and VAOS teams started comparative analyses of their appointments tools and notifications. The purpose of this work is to:
+- Find gaps in appointments functionality between My HealtheVet and VAOS
 - Understand user needs
 - Recommend ways to address gaps
-- Propose functionality in MHV that should not move into the apartment (if applicable)
-- Define the core sets of functionality for appointments and appointments notifications
+- Propose what functionality in My HealtheVet should not move into the apartment (if applicable)
+- Define the core functionality for appointments and appointments notifications to move into the health apartment
 
-At the same time, the points of contact for aligning the appointments roadmaps are creating a plan to consolidate web appointments into VAOS and retire My HealtheVet appointment functionality.
+At the same time, the appointments roadmap points of contact from OCTO and OCC are aligning their roadmaps and creating a plan to move My HealtheVet appointments functionality into VAOS (and VA.gov).
 
-Also the VA.gov team is working on sitewide notifications. In the health apartment vision, centralized notifications are a key driver of Veteran value. The health apartment will help us implement them in a way that maximizes value and minimizes duplicate notifications.
+And the VA.gov team is working on notifications. In the health apartment vision, centralized notifications are a key driver of Veteran value. The health apartment will help us implement them in a way that maximizes value and minimizes duplicate notifications.
 
 Before moving any My HealtheVet and VAOS products in production, the Health Apartment Team will design and test the apartment concept to ensure that it’s viable, intuitive, easy to use and navigate, and clearly understood by Veterans.
 
 ## How should the work proceed?
-The DHM Team communicated the model below to the MHV team. This model should not be rethought until a proof of concept has been shipped. In the model, the work proceeds this way:
+The DHM Team communicated the model below to the My HealtheVet team. This model should not be rethought until a proof of concept has been shipped. In the model, the work proceeds this way:
 
-- Now / this quarter / planned work
-  - Ship an apartment proof of concept (that’s you, dear reader)
-  - Analyze differences between the MHV and VAOS appointments tools and their notifications
-- Next / after this quarter / intended work
-  - Detailed plan to rebuild MHV website MVP inside VA.gov apartment
+- Now / this quarter / **planned work**
+  - Ship an apartment proof of concept 
+  - Analyze differences in appointments functionality between My HealtheVet and VAOS
+- Next / after this quarter / **intended work**
+  - Detailed plan to rebuild My HealtheVet website MVP inside the VA.gov apartment
   - Presumed MVP scope is appointments, prescriptions, medical records and secure message happy paths all functional on VA.gov
-- Later / 2-5 year time horizon / envisioned work
-  - Integrate or deprecate the long tail of MHV tools and content
+- Later / 2-5 year time horizon / **envisioned work**
+  - Integrate or deprecate the long tail of My HealtheVet tools and content
   - Integrate Community Care (VA-funded healthcare at non-VA facilities)
-  - Integrate Cerner electronic health record management system (there is a long-term effort to install this at all VA facilities)
+  - Integrate Cerner electronic health record management system (There is a long-term effort to install this at all VA facilities.)
 
 The Health Apartment Team can use this model over time, always having buckets of planned, intended, and envisioned work.
 
@@ -102,7 +104,7 @@ We envision the Health Apartment Team evaluating and learning as they iterate, a
 - What did not?
 - Should we adjust the health apartment vision?
 
-In this context of continuous iteration, the DHM Team shared thoughts with the MHV Team about what success might look like.
+In this context of continuous iteration, the DHM Team shared thoughts with the My HealtheVet Team about what success might look like.
 
 ![success criteria for planned, intended and envisioned work](assets/success_criteria.jpg)
 *Slide from the DHM Team’s presentation to the My HealtheVet Team about the health apartment concept on July 15, 2021.*
@@ -171,7 +173,7 @@ DHM Product Vision | April - June 2021:
 - Designed and held vision workshops
 
 Appointments Consolidation | July 2021:
-- Began collaborating with MHV
+- Began collaborating with My HealtheVet
 
 ## Vision Workshops
 From April to June 2021, OCTO’s Digital Health Modernization (DHM) Team led a series of 4 workshops with OCTO and OCC leadership to define a vision for simplifying the health experience for Veterans, as well as a path forward for realizing that vision.
@@ -250,23 +252,23 @@ As part of the Digital Health Modernization workshop series, OCC agreed to lever
 
 In January 2021, the OCTO Identity team spearheaded a strategy to consolidate pathways and tools for Veterans to sign in to VA products and services.This strategy is a main driver in delivering the promise of the Digital Modernization principle: “Every service is accessible from a single “front door” experience.”
 
-Veterans will be directed to VA.gov/sign-in to authenticate, regardless of web property. The identity strategy identifies one private (ID.me) and one public (Login.gov) credential that Veterans can choose from. Long-term, this will mean existing credentials including MHV and DSLogon will be deprecated.
+Veterans will be directed to VA.gov/sign-in to authenticate, regardless of web property. The identity strategy identifies one private (ID.me) and one public (Login.gov) credential that Veterans can choose from. Long-term, this will mean existing credentials including My HealtheVet and DSLogon will be deprecated.
 
 Starting in January, the Identity team instituted a Identity Working Group to coordinate across lines of business to realize this vision. They have received an ATO for Login.gov, and are [beginning discovery research about Vetearn attitudes toward the public credential.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login.gov)
 
 Several privacy and security initiatives are ongoing to support the identity strategy and apartment vision, including:
-- **Consolidating Terms of Service:** Currently, MHV and VA.gov have different ToS. A single ToS is needed for authentication to occur on VA.gov/sign-in for both sites. This will also pave the way for moving MHV health products into VA.gov.
-- **Deprecating “Advanced” MHV Accounts:** To comply with NIST security guidelines, MHV is deprecating its advanced level accounts. This is intended to nudge more Veterans to identity proof, a critical step in the identity strategy migration.
+- **Consolidating Terms of Service:** Currently, My HealtheVet and VA.gov have different ToS. A single ToS is needed for authentication to occur on VA.gov/sign-in for both sites. This will also pave the way for moving My HealtheVet health products into VA.gov.
+- **Deprecating “Advanced” My HealtheVet Accounts:** To comply with NIST security guidelines, My HealtheVet is deprecating its advanced level accounts. This is intended to nudge more Veterans to identity proof, a critical step in the identity strategy migration.
 
 For purposes of good governance, the Digital Health Modernization team created the Health Apartment design concept under the assumption that a sign-in solution will be implemented before products are moved from My HealtheVet to VA.gov. However, we recommend that the Health Apartment team continues to coordinate with the OCTO Identity team to share updates, research findings, and coordinate on key initiatives to realize both teams’ vision.
 
 #### Flagship mobile app
 
-In June 2021, the OCTO Mobile team launched the MVP native mobile app. Combining both VA benefits and health care tools in a single interface, the app is an early proof of concept for the health vision. While DHM aligned OCC and OCTO leadership on this vision, the Mobile team created momentum bottom up through [co-designing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-summary.md) and collaborating directly with the MHV team.
+In June 2021, the OCTO Mobile team launched the MVP native mobile app. Combining both VA benefits and health care tools in a single interface, the app is an early proof of concept for the health vision. While DHM aligned OCC and OCTO leadership on this vision, the Mobile team created momentum bottom up through [co-designing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-summary.md) and collaborating directly with the My HealtheVet team.
 
 #### Medical finances
 
-[In our generative research study,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md) we learned that a major pain point for Veterans was having to navigate outside of MHV for medical financial related tasks. Two common tasks include 1) Viewing and paying a medical copayment, and 2) Requesting travel pay, a reimbursement issued by VBA for travel expenses to VA appointments.
+[In our generative research study,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md) we learned that a major pain point for Veterans was having to navigate outside of My HealtheVet for medical financial related tasks. Two common tasks include 1) Viewing and paying a medical copayment, and 2) Requesting travel pay, a reimbursement issued by VBA for travel expenses to VA appointments.
 
 The Debt Resolution team has created a debt management tool on VA.gov that allows Veterans to quickly and easily understand if and why they have debt with the VA, and how to work with the VA to resolve them.
 
@@ -330,21 +332,21 @@ The following are descriptions of what we believe would result in a coherent and
 - ADD LINKS TO PREVIOUS MHV PROFILE CONSOLIDATION RESEARCH ARYEH
 
 ### Login
-- Support Identity team as needed in implementing universal single sign-on between VA.gov and MHV; it will make transition far easier if both tech stacks can consistently agree upon the identity of a user, and present the same data consistently
+- Support Identity team as needed in implementing universal single sign-on between VA.gov and My HealtheVet; it will make transition far easier if both tech stacks can consistently agree upon the identity of a user, and present the same data consistently
 
 ### Legal and Privacy
-- Support Identity team and Carnetta Scruggs as needed in consolidating MHV and VA.gov Terms of Service; if not done, it will block apartment release
+- Support Identity team and Carnetta Scruggs as needed in consolidating My HealtheVet and VA.gov Terms of Service; if not done, it will block apartment release
 
 ### Marketing
 - Plan to market these changes continuously for several months
   - Direct to Veterans
   - To VSOs
-  - To MHV Coordinators
+  - To My HealtheVet Coordinators
   - To support / help desk staff
 
 ### Support
 - Lobby aggressively for all of VA.gov to be on the same first-tier support contract, including My HealtheVet; otherwise debugging issues and measuring customers' problems will be intractable (connect with the Identity team for history lessons on why this matters)
-- During transition, invest in high-quality publications of how-to guides for Veterans transitioning from Legacy MHV to "apartment" MHV; writing quality is higher in OCTO for this sort of thing and it will make it easier for us to sell transition to VSOs, MHV Coordinators, etc. if we can write a lot of the collateral for them
+- During transition, invest in high-quality publications of how-to guides for Veterans transitioning from Legacy My HealtheVet to "apartment" My HealtheVet; writing quality is higher in OCTO for this sort of thing and it will make it easier for us to sell transition to VSOs, My HealtheVet Coordinators, etc. if we can write a lot of the collateral for them
 
 ---
 
