@@ -15,7 +15,7 @@ As an enhancement to the new My VA dashboard, our team is looking to give Vetera
 In many past user interviews, users have expressed the importance of having relevant or time-sensitive action items elevated.  Our goal is to create a centralized place for recent action items that will improve the personalized experience for Veterans, by helping users complete important tasks efficiently, as well as be aware of any upcoming events and/or status changes.  This new 'Alerts' feature (name to be determined) aims to surface any important health care, claim and/or benefit information.
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) 
-- [Comparative analysis)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/action-items-comparative%20analysis.md)
+- [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/action-items-comparative%20analysis.md)
 
 ## Research questions
 
