@@ -23,10 +23,14 @@
 
 </details>
 
+## August 18
+
+  * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
+  * Social media meta tag overview 
+
 ## August 11
   * Fix for grainy photos and potential risks
-    * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
-
+    * Story pages need to maintain current product design (2:1, full width)
 
 ## August 4
 
