@@ -1,3 +1,13 @@
+----
+
+# We're moving our docs!
+
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) on Slack.
+
+----
+
 # Internal Tools Access (via SOCKS)
 
 This document details what tools are available behind our SOCKS proxy and how to configure access to those tools.
