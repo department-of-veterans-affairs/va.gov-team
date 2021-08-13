@@ -2,7 +2,7 @@
 *The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience.*
 
 ## Introduction
-In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ online health experience. This document describes the history and implications of this team’s work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
+In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ health experience on the web. This document describes the history and implications of this team’s work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
 
 ## Goals of This Onboarding Guide
 1) That people working on the health apartment understand:
@@ -24,7 +24,7 @@ In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Te
 TBD
 
 # Mission
-The Health Apartment Team’s mission is to simplify Veterans’ online health experience, picking up where the DHM Team left off.
+The Health Apartment Team’s mission is to simplify Veterans’ health experience on the web, picking up where the DHM Team left off.
 
 To get the health care they need, Veterans must find, register for, and learn to use a number of different websites and software products. [Our generative research from late 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md) shows that Veterans find it extremely difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits.
 
@@ -104,7 +104,7 @@ We envision the Health Apartment Team evaluating and learning as they iterate, a
 - What did not?
 - Should we adjust the health apartment vision?
 
-In this context of continuous iteration, the DHM Team shared thoughts with the My HealtheVet Team about what success might look like.
+In this context of continuous iteration, the DHM Team shared the following thoughts about what success might look like with the My HealtheVet Team.
 
 ![success criteria for planned, intended and envisioned work](assets/success_criteria.jpg)
 *Slide from the DHM Team’s presentation to the My HealtheVet Team about the health apartment concept on July 15, 2021.*
@@ -113,25 +113,25 @@ Here’s the thinking behind the graphic above.
 
 ### Why was the planned work planned first?
 - It’s critical to validate the design with real user feedback before jumping in headfirst.
-- VA.gov’s information architecture and navigation need love before they’re ready to integrate the health apartment concept.
-- Creating the “apartment” before we move products onto VA.gov means products can move asynchronously. This simplifies planning, a lot.
-- Moving products from My HealtheVet to VA.gov will succeed only by collaborating with the My HealtheVet Team.
+- VA.gov’s information architecture and navigation system need love before they are ready to integrate the health apartment concept.
+- Creating the “apartment” before we move products onto VA.gov means products can move asynchronously. This simplifies planning a lot.
+- Moving products from My HealtheVet to VA.gov will succeed only if we collaborate with the My HealtheVet Team.
 
-Since the work for appointments and appointment notifications will start before the Health Apartment Team onboards, it will pave the way for the health apartment in a few important ways:
-- The work will be done by the first blended team between OCTO and OCC/My HealtheVet.
+Since the work for appointments and appointments notifications started before the Health Apartment Team onboards, it will pave the way for the health apartment in a few important ways:
+- The work will be done by the first blended team between OCTO and OCC.
 - We will understand the My HealtheVet appointments infrastructure better.
 - We will have more insight into the needs of users of appointments functionality.
 
 ### What’s the thinking behind the intended work?
 
-Because some work needs more planning and validation before it’s actionable, the Digital Health Modernization Team recommends these activities (shown as “intended” above):
+Because some work needs more planning and validation before it’s actionable, the DHM Team recommends these activities (shown as “intended” above):
 - Adopt formal, shared success metrics.
-- Move or rebuild Secure Message, Prescription Refill and Medical Records functionality into the “apartment.”
-- Do an opt-in beta test for My HealtheVet users of the products in the second bullet above.
-- Follow with an opt-out beta test for My HealtheVet users of the products in the second bullet above.
-- Formally launch the My HealtheVet apartment on VA.gov and deactivate non-apartment instances of those products on My HealtheVet.
+- Move or rebuild Secure Message, Prescription Refill and Medical Records functionality into the health apartment.
+- Do an opt-in beta test for users of My HealtheVet Appointments, Secure Message, Prescription Refill and Medical Records as these products ("the big four") move into the health apartment.
+- Follow with an opt-out beta test for My HealtheVet users of "the big four."
+- Formally launch the My HealtheVet apartment on VA.gov and deactivate the instances of those products on My HealtheVet.
 
-Making the intended work actionable requires (a) learnings from shipping the “apartment” section and (b) that OCTO-OCC leadership help with planning. The leadership group plans to meet every 6 weeks to check in with the Health Apartment Team and the points of contact for aligning these sections of the OCTO and OCC roadmaps:
+Making the intended work actionable requires (a) learnings from shipping the health apartment, and (b) that OCTO-OCC leadership help with planning. The leadership group plans to meet every 6 weeks to check in with the Health Apartment Team and the points of contact for aligning these OCTO and OCC roadmaps:
 - Appointments
 - Notifications
 - PGHD (patient-generated health data)
@@ -139,7 +139,7 @@ Making the intended work actionable requires (a) learnings from shipping the “
 - Pharmacy
 
 ### What’s the thinking behind the envisioned work?
-Since this is a Herculean effort, it's important to have a North Star to guide decisions and focus the work. All along, our North Star has been to unify, streamline, and consolidate the Veteran health experience, and we see the health apartment concept as the first step in that direction. We envision:
+Since this is a Herculean effort, it's important to have a North Star to guide decisions and focus the work. All along, our North Star has been to unify, streamline, and consolidate the Veteran health experience, and we see the health apartment concept as the first big step in that direction. We envision:
 - An accessible, usable, discoverable My HealtheVet-branded section of VA.gov that contains all web health tools.
 - That the Health Apartment Team will continue to define and consolidate the Veteran health experience on VA.gov after validating or invalidating the health apartment concept.  
 - That teams who own health tools on My HealtheVet and VA.gov will help move them to VA.gov and will continue to own them afterwards.
@@ -147,13 +147,13 @@ Since this is a Herculean effort, it's important to have a North Star to guide d
 Going forward, the Health Apartment Team will partner with OCTO and OCC staff to guide the work on the VA.gov health experience, including all planned, intended, and envisioned work.
 
 # Team History
-The Digital Health Modernization team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the Digital Modernization Strategy, we aim to give Veterans one place to manage all of their VA benefits.
+The Digital Health Modernization team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the Digital Modernization Strategy, we aim to give Veterans one website to manage all of their VA benefits.
 
 The following describes the key milestones of the team’s journey.
 
 ## Key Milestones
 Mapping the Health Landscape | October - November 2020
-- Conducted OCTO stakeholder interviews to understand the intersection of health and VA.gov
+- Conducted OCTO stakeholder interviews to understand how Veterans think about VA health care and VA.gov
 - [Began mapping the health landscape](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/history/information-architecture)
 - Gathered baseline web analytics
 
