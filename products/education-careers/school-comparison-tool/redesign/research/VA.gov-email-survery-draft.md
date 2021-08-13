@@ -1,49 +1,58 @@
 Intro email:
 
 **SUBJECT LINE: User Experience Research Studies - Invitation to Participate (Study Name)**
+
 Hello,
-The VA.gov team at the Department of Veterans Affairs is running a user research session for the GI Bill Comparison Tool.
 
-We're seeking individuals to test a redesign of the GI BIll Comparison Tool. We're looking to understand whether individuals can find schools, employers, and training providers in the tool and then learn about them.  
+The VA.gov team at the Department of Veterans Affairs is running a user research session to test an updated design of the GI Bill Comparison Tool.
 
-Your feedback will help us build a better product.
+We want to understand whether individuals can find schools or other educational opportunities using the Comparison Tool and determine whether those options are a good fit for them.
 
 
-**What will I be doing in this session?** You will be sent two links. The first link will be to a prototype of the GI Bill Comparison Tool. The second link will take you to a survey, where we'll ask you questions about your experience engaging with the tool. To receive compensation, you must complete both activities.
+**What will I be doing in this session?** When you respond to this email and let us know you’re interested in participating, we’ll send you an email with instructions and 2 important links. 
+The first link will take you to the test version of the GI Bill Comparison Tool where you’ll perform a few basic tasks. When you’re done with the tasks, the second link will take you to a survey where we’ll ask about your experience with the tool. 
 
-**How long is a session?** The activity is self-guided and should take no more than 30 minutes to complete. 
-Interested in participating? Please reply to this email to receive the study links and a participation code. After you complete the activity, we'll send your compensation of $25 within 1-2 weeks.
+
+**How long is a session?** These activities should take you no more than 30 minutes to complete.  We’ll send you an email with instructions and the links you’ll need. 
+
+**Interested in participating?** Please reply to this email to receive the study links and a participation code. After you complete the activity, we'll send your compensation of $25 within 1-2 weeks.
+
 
 **Process**
 
-\1. We will schedule the first 10 individuals that can match the criteria and timeslots.
-
-\2. We will email you the links and a participation code.
-
-\3. Once you complete the activity, your compensation will be delivered via check within 1-2 weeks.
-
+\1.	You respond to this email letting us know you’d like to participate.
+\2. We’ll schedule the first 10 individuals that match our recruiting criteria. 
+\3. We’ll email instructions with links to the activities and a participation code.
+\4. You complete the activities and enter your participation code in the survey.
+\5. We’ll deliver your compensation via check within 1-2 weeks.
 
 
 Instructions email:
 
 **Subject: User Experience Research Studies - Study Details (Study Name)**
-Good Afternoon Ms./Mr.,
-Thank you for reaching out!
-To participate in this study, please complete both activities.
 
-1.	Interact with the GI Bill Comparison Tool prototype for about 15 minutes. Try the following:
-   * Search for one or more schools you’d be interested in attending
-   * See what information is available for those schools in the tool
-   * Compare two or more schools against one another
-   * Look to see what GI Bill benefits you might be eligible for
+Good Afternoon Ms./Mr., 
 
-  Click on this link to access the GI Bill Comparison Tool: [https://staging.va.gov/gi-bill-comparison-tool-sandbox/](https://staging.va.gov/gi-bill-comparison-tool-sandbox/)
+Thank you for reaching out! 
 
-2.	Take the survey:
-Your honest and candid feedback will help us make this product better.
-At the end of the survey, you will be asked to enter a code. This will be a unique identifier to confirm that you have completed the study. If you do not enter your code, then we will not be able to compensate you.
-**Click on this [link]() to give feedback: **
-**Your code is: **
+The GI Bill Comparison Tool is designed to help you learn about educational opportunities and compare your education benefits by school or employer.  This study is focused on understanding how well the redesigned lets you do that. 
+To participate in this study and receive compensation, you must complete both activities.
+
+**Activity 1:** Interact with the GI Bill Comparison Tool prototype for about 15 minutes. Try the following:
+*	Search for one or more schools you’d be interested in attending
+*	See what information is available for those schools in the tool
+*	Compare two or more schools against one another
+*	Look to see what GI Bill benefits you might be eligible for
+
+**Click this link to access the GI Bill Comparison Tool:** https://staging.va.gov/gi-bill-comparison-tool-sandbox/
+
+**Activity 2:** Take the survey. Your honest and candid feedback will help us make the Comparison Tool a better product for all GI Bill beneficiaries.
+
+At the end of the survey, you’ll be asked to enter a code to confirm participation.  If you don’t enter your code, we won’t be able to pay you for participating.
+
+**Click this link to take the survey:** <SurveyMonkey link>
+  
+Your code is: XXXXXX
 
 
 Shannon Housel
