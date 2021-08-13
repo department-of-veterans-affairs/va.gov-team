@@ -203,7 +203,7 @@ Find file on device | 2 | 1
 
 > "It is a pain that you have to use Adobe for some of the forms...I am getting a third master’s degree and I have not needed Adobe up until this point. I have been able to fill out all forms in Safari until today" (p12).
 
-> "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelieveable that somebody wouldn't be consciously programming for the Mac" (p2).
+> "As soon as I see Adobe Acrobat, I know enough from using Apple products that that's going to be a problem. It may or may not work. I understand that there are more PCs in the world than there are Macs, and so you get the largest audience by programming for the PC, but there is a substantial number of people on Macs who use their cell phones and iPads that, to me, it's rather unbelievable that somebody wouldn't be consciously programming for the Mac" (p2).
 
 
 ### Issues with *finding* the downloaded file on user's device
