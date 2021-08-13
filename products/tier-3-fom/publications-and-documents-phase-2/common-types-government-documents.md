@@ -59,6 +59,11 @@ These are some examples of common VA document types.
 - Posters, infographics https://www.benefits.va.gov/benefits/media-publications.asp#infographics2
 -
 
+### Example of a VA document with 5 levels deep
+
+https://benefits.va.gov/WARMS/M27_1.asp : M27-1 (level 1) > Part X (2) > Chapter X (3) > Chapter-section X (4) > Sub-section X (5) 
+
+
 ### VA appears to have multiple 'consolidated' experiences and backend data respositories or databases for documents, as well as having ad hoc individually uploaded documents by each office directly to their site pages. 
 
 VA Publications https://www.va.gov/vapubs/index.cfm
