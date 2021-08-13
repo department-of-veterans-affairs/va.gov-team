@@ -24,7 +24,11 @@
 ## August 13
 * Staff Profile - Multiple Systems (Within one VISN/or not?)
   * Chandra Lake (for example)
-
+* photos guidance
+  * Stories - landscape (displayed at 2:1 on va.gov, 3:2 on facebook/twitter on VAMC homepage), minimum width 1000px?
+  * Facilities 
+  * Staff profiles 
+  
 ## August 6
 
 Schedule for removing endpoints for full prod launches
