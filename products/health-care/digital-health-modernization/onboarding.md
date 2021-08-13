@@ -2,7 +2,7 @@
 *The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience.*
 
 ## Introduction
-In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ health experience on the web. This document describes the history and implications of this team’s work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
+In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ health experience on the web. This document, written in August 2021, describes the history and implications of the DHM Team's work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
 
 ## Goals of this onboarding guide
 1) That people working on the health apartment understand:
@@ -281,10 +281,16 @@ The unauthenticated and authenticated VA.gov homepage currently share the same d
 
 This year, the team launched My VA 2.0 in June. This second iteration has already seen some [early success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#what-we-can-do-in-the-next--1--2-quarters-100-foot-view-q2--q3-2021) with Veterans engaging with the new My VA.
 
-To design a cohesive authenticated experience, the Health Apartment Team will need to collaborate with the My VA Team and others on the Account Experience Crew.
+To design a cohesive authenticated experience, the Health Apartment Team will need to collaborate with the My VA Team and others on the Account Experience Crew. Work on authenticated and unauthenticated navigation strategy and implementation will also involve the Sitewide Crew.
 
 #### Content and navigation
-Currently,,,
+The [Health Care benefit hub on VA.gov](https://www.va.gov/health-care/) gives Veterans the information and tools they need to get and manage their health benefits. While VAOS is located in the Health Care benefit hub, the hub links to My HealtheVet for Prescriptions, Secure Messaging, and Medical Records. And it links to AccessVA for travel pay. 
+
+In the health apartment vision, everything in the Health Care hub would move to the health apartment. Because the first flyout menu link on the main navigation for VA.gov is "VA Benefits and Health Care," it would be best to migrate the Health Care hub content early on to avoid confusing Veterans by having 2 places on the VA.gov navigation for health ("VA Benefits and Health Care" and "My HealtheVet"). 
+
+To move the Health Care hub into the health apartment, the Health Apartment Team will need to work closely with the Content Team on the Sitewide Crew. This team manages the content in the Health Care hub, working closely with business stakeholders. 
+
+The [navigation scheme in the benefit hubs] (https://www.va.gov/health-care/about-va-health-benefits/)differs from the navigation system used for the [VA Medical Center websites](https://www.va.gov/pittsburgh-health-care/). For many reasons, it's possible that work on the health apartment will require the evolution or extension of one of these navigation systems.  
 
 # Recommendations
 If the current product person were to remain in his role, this is what he’d advocate.
