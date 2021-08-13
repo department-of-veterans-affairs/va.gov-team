@@ -10,7 +10,7 @@ Use the GI Bill Comparison Tool to see how VA education benefits can pay for you
 
 ## Institution comparison:
 
-Compare schools, employers and VET TEC providers side-by-side
+Compare schools, employers, and VET TEC providers side-by-side
 
 {Checkbox + Icon + Highlight differences}
 
@@ -107,7 +107,7 @@ Specialized mission (Learn more)
 
 { PAYMENTS MADE TO SCHOOL TABLE }
 
-**Payments made to school**
+**Payments made to  institution**
 
 Tuition and fees (Learn more)
 
@@ -120,13 +120,13 @@ Tuition and fees (Learn more)
     { end modal }
     
     
-GI Bill pays to school
+GI Bill pays to institution
 
 
 Out of pocket tuition
 
 
-{ END OF PAYMENTS MADE TO SCHOOL TABLE }
+{ END OF PAYMENTS MADE TO INSTITUTION TABLE }
 
 
 { PAYMENTS MADE TO YOU TABLE }
