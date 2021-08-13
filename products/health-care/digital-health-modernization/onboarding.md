@@ -186,7 +186,7 @@ The 4 workshops yielded the vision for the health apartment, and OCTO and OCC le
 - Workshop 1: Discussed existing fragmented health landscape and brainstormed what success looks like as OCTO and OCC work together going forward.
 - Workshop 2: Considered 3 concepts for moving My HealtheVet and the health-related things on VA.gov to a new health section of VA.gov. The health apartment concept won 80% consensus. After this workshop, the DHM Team met with groups in OCTO to get feedback on the health apartment concept and to get their ideas on projects that would move us towards the apartment.
 - Workshop 3: Reviewed project ideas and decided these 3 areas were top priority: notifications, appointments, and the health apartment.
-- Workshop 4: Looked at OCC’s and OCTO’s roadmaps and chose these areas to align roadmaps on in the near term: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy. We also designated OCTO and OCC points of contact for each of these 5 areas.
+- Workshop 4: Looked at OCC’s and OCTO’s roadmaps and chose these areas to align on: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy. We also designated OCTO and OCC points of contact for each of these 5 areas.
 
 The workshops brought OCTO and OCC together on a shared vision and path forward. Since our two offices have different cultures and ways of working, the Health Apartment Team will need to be flexible and creative as they collaborate with partners throughout OCTO and OCC.  
 
@@ -207,11 +207,7 @@ Leadership evaluated the 3 concepts anonymously during the workshop, with 80% co
 
 To prepare for workshop 3, we met with 13 key teams/stakeholders in OCTO and OCC to get their feedback on the health apartment concept, discuss their roadmaps, and ask them for project ideas to move us towards the health apartment. The DHM Team synthesized what we heard and in workshop 3 presented the OCTO-OCC leadership group with a list of project ideas. Leadership chose to immediately focus on notifications, appointments, and the health apartment. They also expresssed a strong desire to align the OCTO and OCC roadmaps. 
 
-Our goal for workshop 4 was twofold: 
-
-
-
-- Workshop 4: Looked at OCC’s and OCTO’s roadmaps and chose these areas to align roadmaps on in the near term: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy. We also designated OCTO and OCC points of contact for each of these 5 areas.
+Our goal for workshop 4 was twofold: 1) compare OCTO and OCC roadmaps and designate points of contact, and 2) align on the role of the OCTO-OCC leadership group. We emerged from workshop 4 with points of contact for appointments, notifications, PGHD, secure messaging, and pharmacy (voted as top priority). And the OCTO-OCC leadership group agreed to meet about every 6 weeks to help drive the health apartment, roadmap alignment, and collaboration between OCTO and OCC.
 
 # The Bigger Picture
 
