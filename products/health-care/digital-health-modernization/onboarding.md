@@ -211,7 +211,9 @@ Our goal for workshop 4 was twofold: 1) compare OCTO and OCC roadmaps and design
 
 # The Bigger Picture
 
-OCTO's Digital Health Modernization efforts extend way beyond the scope of the DHM Team's work. Besides requiring close partnership with My HealtheVet and the Office of Connected Care, this work will impact most VA.gov teams. The following describes the mission, vision, and goals behind all work in OCTO, the overarching Digital Modernization Strategy, and how the health apartment concept intersects with other VA.gov efforts.
+OCTO's Digital Health Modernization efforts extend way beyond the scope of the DHM Team's work. Besides requiring close partnership with My HealtheVet and the Office of Connected Care, this work will impact most VA.gov teams. 
+
+Read on for the mission, vision, and goals behind all work in OCTO; the overarching Digital Modernization Strategy; and ways the health apartment concept intersects with other VA.gov efforts.
 
 ## Where is the health apartment work situated?
 
