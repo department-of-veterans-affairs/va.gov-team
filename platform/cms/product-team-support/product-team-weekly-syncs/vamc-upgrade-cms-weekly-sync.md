@@ -21,16 +21,29 @@
 
 </details>
 
+## August 20
+
+
+
 ## August 13
 
 * Schedule for removing endpoints for full prod launches
+  * Hudson Valley going next week. 
 * Staff Profile - Multiple Systems (Within one VISN/or not?)
-  * Chandra Lake (for example)
-* photos guidance
+  * as a principle, only one staff profile
+  * For caregivers 
+    * Facilities team will eventually be removing individual URLs 
+    * CMS team: how to handle the phone number problem, which needs to be structured anyway.  
+  * For leadership
+    * Chandra Lake (for example), leadership at 3 VISNs
+    * their URL and breadcrumb will show their "main" VAMC system  
+* Photos guidance in the absence of guardrails - min 1000px width?  
   * Stories - landscape (displayed at 2:1 on va.gov, 3:2 on facebook/twitter on VAMC homepage), minimum width 1000px?
-  * Facilities - 
-  * Staff profiles 
-  
+  * Facilities - portrait (displayed at 3:2 in most places)
+  * Staff profiles - portrait (displayed as circle in some cases, 2:3 portrait) 
+  * VAMC system photo - portrait (displayed at 3:2)
+  * News releases - needs more investigation. 
+ 
 ## August 6
 
 Schedule for removing endpoints for full prod launches
