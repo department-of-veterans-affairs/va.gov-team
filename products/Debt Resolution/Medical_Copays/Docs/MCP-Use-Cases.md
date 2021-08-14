@@ -117,7 +117,7 @@ Last updated 2021-08-13
   - `vets.gov.user+86@gmail.com`
 
 
-## Use Case H - Not enrolled in Health Care
+## Use Case H - Not Enrolled in Health Care
 Last updated 2021-08-13
 
 * **Description**
