@@ -6,9 +6,11 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 
 [Product Outline][mcp-product-outline]
 
-## Contents
+[Designs][designs] [Status-variations and Line-items TBD]
+
+## On this page
 <details>
-<summary></summary>
+<summary>[click to expand/collapse]</summary>
   
 - [Use Case A - Active, Single Facility](#use-case-a---active-single-facility) 
 - [Use Case B - Active, Multiple Facilities](#use-case-b---active-multiple-facilities)
@@ -25,30 +27,33 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 </details>
 
 ## Use Case A - Active, single facility
+Last updated 2021-08-13
 
 * **Description**
   - Veteran has active copays at one facility
 
 * **Link to designs**
-  - lorem ipsum
+  - [Copay overview - Open alert][copay-overview-open-alert] [EXCEPT: "What you owe to your 1 facility" section-title, and just one bill-card]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+80@gmail.com
+  - `vets.gov.user+80@gmail.com`
 
 
 ## Use Case B - Active, multiple facilities
+Last updated 2021-08-13
 
 * **Description**
   - Veteran has active copays at multiple facilities
 
 * **Link to designs**
-  - lorem ipsum
+  - [Copay overview - Open alert][copay-overview-open-alert] [EXCEPT: No zero-balance bill-cards]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+81@gmail.com
+  - `vets.gov.user+81@gmail.com`
 
 
 ## Use Case C - In collection
+Last updated 2021-08-13
 
 * **Description**
   - Veteran has copays referred to DoT for collection
@@ -57,10 +62,11 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
   - lorem ipsum
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+82@gmail.com
+  - `vets.gov.user+82@gmail.com`
 
 
 ## Use Case D - Resolved, single facility
+Last updated 2021-08-13
 
 * **Description**
   - Veteran has a resolved (paid) balance at one facility
@@ -69,92 +75,102 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
   - lorem ipsum
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+83@gmail.com
+  - `vets.gov.user+83@gmail.com`
 
 
 ## Use Case E - Active + Resolved, multiple facilities
+Last updated 2021-08-13
 
 * **Description**
   - Veteran has a mixture of active and resolved copay balances at multiple facilities
 
 * **Link to designs**
-  - lorem ipsum
+  - [Copay overview - Open alert][copay-overview-open-alert]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+84@gmail.com
+  - `vets.gov.user+84@gmail.com`
 
 
 ## Use Case F - Prescriptions only
+Last updated 2021-08-13
 
 * **Description**
   - Veteran doesn't pay copays but pays for prescriptions
 
 * **Link to designs**
-  - lorem ipsum
+  - [TBD]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+85@gmail.com
+  - `vets.gov.user+85@gmail.com`
 
 
 ## Use Case G - No history
+Last updated 2021-08-13
 
 * **Description**
   - Veteran no history of copays
 
 * **Link to designs**
-  - lorem ipsum
+  - [TBD]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+86@gmail.com
+  - `vets.gov.user+86@gmail.com`
 
 
 ## Use Case H - Not enrolled in Health Care
+Last updated 2021-08-13
 
 * **Description**
   - Veteran is not enrolled in Health Care
 
 * **Link to designs**
-  - lorem ipsum
+  - [TBD]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+87@gmail.com
+  - `vets.gov.user+87@gmail.com`
 
 
 ## Use Case I - Financial Hardship
+Last updated 2021-08-13
 
 * **Description**
   - Veteran qualifies for financial hardship determination
 
 * **Link to designs**
-  - lorem ipsum
+  - [TBD]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+88@gmail.com
+  - `vets.gov.user+88@gmail.com`
 
 
 ## Use Case J - Balance suspended
+Last updated 2021-08-13
 
 * **Description**
   - Veteran's balance is suspended for [reasons TBD]
 
 * **Link to designs**
-  - lorem ipsum
+  - [TBD]
+
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+89@gmail.com
+  - `vets.gov.user+89@gmail.com`
 
 
 ## Use Case K - Deceased
+Last updated 2021-08-13
 
 * **Description**
   - Veteran's deceased
 
 * **Link to designs**
-  - lorem ipsum
+  - [TBD]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
-  - vets.gov.user+90@gmail.com
+  - `vets.gov.user+90@gmail.com`
 
 
 
 [mcp-product-outline]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md
+[designs]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/140826057/simulate/sitemap?mode=i%5D
 [mvi-staging-users]: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv
+[copay-overview-open-alert]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/140669279/simulate/sitemap?mode=i%5D
