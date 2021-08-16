@@ -30,7 +30,7 @@ To get the health care they need, Veterans must find, register for, and learn to
 
 Consider booking a doctor’s appointment: One system locates nearby facilities. Another schedules appointments. Another handles follow-ups like messages and prescriptions. And another reimburses travel expenses. That’s a lot for Veterans to learn. It’s also difficult for VA staff to support so many siloed systems.
 
-We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and to make that experience easy and intuitive.
+We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make that experience easy and intuitive.
 
 # Vision
 With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC, which owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
