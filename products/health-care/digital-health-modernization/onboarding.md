@@ -294,7 +294,8 @@ To design a cohesive authenticated experience, the Health Apartment Team will ne
 #### Content and navigation
 The [Health Care benefit hub on VA.gov](https://www.va.gov/health-care/) gives Veterans the information and tools they need to get and manage their health benefits. While VAOS is located in the Health Care benefit hub, the hub links to My HealtheVet for Prescriptions, Secure Messaging, and Medical Records. And it links to AccessVA for travel pay.
 
-insert
+![Health Care hub page and sub page](assets/health-care-hub-and-sub-page_8-16-2021.jpg)
+*Above, screen grabs of the Health Care hub page and the Eligibility page, which is on the next level.*
 
 In the health apartment vision, everything in the Health Care hub would move to the health apartment. Because the first flyout menu link on the main navigation for VA.gov is "VA Benefits and Health Care," it would be best to migrate the Health Care hub content early on to avoid confusing Veterans by having 2 places on the VA.gov navigation for health ("VA Benefits and Health Care" and "My HealtheVet").
 
