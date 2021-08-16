@@ -32,7 +32,7 @@ A [prioritization study](https://github.com/department-of-veterans-affairs/va.go
 ### Hypotheses:
 - Veterans will continue to find value in completing these tasks based upon previous research.
 - Veterans will verbalize their preference or concerns regarding updating next of kin and emergency contacts within this workflow.
-- The informational banner at the top of the contact and next of kin pages will be notified by Veterans, so they will understand changes made here will update their information across VA>
+- The informational banner at the top of the contact and next of kin pages will be notified by Veterans, so they will understand changes made here will update their information across VA.
 - The modal will impose no problems on the Veteran's ability to update their information; therefore, this pattern can be submitted to the design system for consideration.
 - Changing the questionnaires questions to one per page will improve or not change the usability of this form.
 - Based upon earlier questionnaire research, the confirmation page should provide enough information that the Veteran knows what to do after completing pre-check-in.
