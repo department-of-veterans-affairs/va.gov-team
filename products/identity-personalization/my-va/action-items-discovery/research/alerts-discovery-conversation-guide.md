@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] Create card sort mural board for participant from [this template])https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646)
+- [ ] Create card sort mural board for participant from [this template](https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646)
 - [ ] Links to prototype:
     - [Desktop](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348)
     - [Mobile](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140646787)
