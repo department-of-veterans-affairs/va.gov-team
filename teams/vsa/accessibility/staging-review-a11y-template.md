@@ -43,8 +43,9 @@ This may include mockups, prototypes, github markdown files, Word document/outli
 ### 7. Link to your product [test cases/test plan in TestRail with test execution logs](link here) for QA review
 ([Learn more about QA test plans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) 
 
-### 8. Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail
-For QA practice area review
+### 8. Link to your [Coverage for References](link here) and [Summary(Defects)](link here) reports in TestRail for QA review
+[Template for Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12)
+[Template for Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14)
 
 ### 9. Verification that foundational accessibility checks are complete:
 You **must** complete one of the two following options:
