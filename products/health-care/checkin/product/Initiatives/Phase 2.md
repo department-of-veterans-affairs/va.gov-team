@@ -18,12 +18,13 @@
 
 ## Outcome Summary
 > *The expected outcome(s) of this iteration should result in the following: 
->   *Veterans have the ability to use additional and familiar data points for idenitity verificaiton, resulting in a more secure and comfortable experience for the Veteran. 
->   *Veterans have the ability to view multiple appointments, ii applicable, on the appropriate date of the scheduled appointment(s).*
+     *Veterans have the ability to use additional and familiar data points for idenitity verificaiton, resulting in a more secure and comfortable experience for the Veteran. 
+     *Veterans have the ability to view multiple appointments, ii applicable, on the appropriate date of the scheduled appointment(s).*
 
 
 **Related/Associated product(s)**
 - Product | Link to [product outline]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
+-
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
