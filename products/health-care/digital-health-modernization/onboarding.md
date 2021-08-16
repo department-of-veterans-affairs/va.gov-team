@@ -47,7 +47,7 @@ The wireframe below illustrates what the health apartment could look like.
 ![Apartment wireframe](assets/apartment_concept.png)
 *The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. See [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620410062494/ebd48844ad82c50d028818c677a26faab827cfb3?sender=megpeters0505).*
 
-The following things will move into the health apartment:
+The vision is to move the following things into the health apartment:
 - [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — we call these top tasks the "big four”)
 - Health-related things on [VA.gov](https://www.va.gov/) (examples: apply for health care, medical copays, travel pay, and order hearing aid batteries)
 - Any health related things left on [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage), the VA/Department of Defense website for benefits provided by VBA, or Veterans Benefits Administration. Most VBA benefits are not related to health, with the exception of prosthetic socks and hearing aid batteries. For the year or so, OCTO has gradually been moving eBenefits functionality and content to VA.gov.
