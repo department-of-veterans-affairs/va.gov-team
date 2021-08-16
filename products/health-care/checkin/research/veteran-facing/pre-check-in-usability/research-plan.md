@@ -1,4 +1,4 @@
-# Research Plan for Pre-check-in Discovery
+# Research Plan for Pre-check-in Usability
 August 2021
 
 ## Goals
@@ -6,34 +6,49 @@ August 2021
 VSA Healthcare Experience: Check-in
 
 ### Background
-This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. To help streamline the day of check-in experience, the healthcare experience team is exploring the concept of pre-check-in, which would allow Veterans to complete a series of tasks prior to their appointment from the comfort of their homes. These tasks could include:
+This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. To help streamline the day of check-in experience, the healthcare experience team is exploring the concept of pre-check-in, which would allow Veterans to complete a series of tasks prior to their appointment from the comfort of their homes. These tasks will include:
 - reviewing contact information
+- reviewing next of kin
 - reviewing insurance
 - answering questionnaires
 
+This research will build off of [questionnaire discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-findings.md). During discovery, we found that:
+- Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.
+- Veterans believe that filling out digital forms before their appointment would decrease wait times and optimize time with care providers.
+
+A [prioritization study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/research-findings.md) was also completed and Veterans did specify that they would like to complete the above items prior to their appointment.[Card sort details](https://app.optimalworkshop.com/optimalsort/adhoc/j2b7m7j5/shared-results/x21jzunipdyzwymg6ge3538j7s1k7qs6)
+
+
 ### Research questions:
-- Do Veterans find value in being able to complete any tasks a few days prior to their appointment?
-- What specific tasks do Veterans find value in reviewing and updating?
+- Do Veterans find value in being able to review contact and insurance information as well as answer questionnaires a few days prior to their appointment?
+- Are Veterans expecting to be able to update their next of kin information here?
+    - Would they prefer to update their emergency contact information here instead?
+- Do Veterans understand that updating their contact and next of kin information here will update it across VA?
+- Are Veterans able to utilize the modal to update their information?
+- Does changing the primary care questionnaire questions to one question per page have any impact on the usability of the questionnaire portion of this form?
+- Do Veterans know what to do after completing pre-check-in?
 - How do Veterans want to be notified that they have these tasks to complete?
 
 ### Hypotheses:
-- Veterans will verbalize how completing these tasks before an appointment is helpful to them, such as it will shortened their day of check-in experience or allow them to review the information on their own time and not rush.
-- Veterans will have clear opinions on what tasks bring value to the pre-check-in experience.
+- Veterans will continue to find value in completing these tasks based upon previous research.
+- Veterans will verbalize their preference or concerns regarding updating next of kin and emergency contacts within this workflow.
+- The informational banner at the top of the contact and next of kin pages will be notified by Veterans, so they will understand changes made here will update their information across VA>
+- The modal will impose no problems on the Veteran's ability to update their information; therefore, this pattern can be submitted to the design system for consideration.
+- Changing the questionnaires questions to one per page will improve or not change the usability of this form.
+- Based upon earlier questionnaire research, the confirmation page should provide enough information that the Veteran knows what to do after completing pre-check-in.
 - Based upon findings from previous research, Veterans will want to be notified via text or email.
 
 ## Method
-Remote, moderated sessions with interview questions, review of a UXPin prototype, and an Optimal Sort card sort conducted on Zoom.
+Remote, moderated sessions with interview questions and review of a UXPin prototype conducted on Zoom.
 
-The prototype will help give context to the Veteran as to what we mean by a pre-check-in experience. It is to be utilized more for feedback on the validity of this concept than usability testing. However, we should receive some usability feedback in the process.
-
-The card sort will help us prioritize tasks that Veterans truly find valuable for implementation.
+Usability testing will allow the Veterans to walk through each step of the proposed process, so they can provide feedback to each research question.
 
 ## Participants and Recruitment
 ### Primary criteria / Must have:
 - 15 participants (for a minimum of 8 completed sessions)
 - Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last six months (disqualify those that don't)
 - Participants must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
-- Participants must be willing to join the research session via their laptop/desktop computers (no mobile phones due to prototype).
+- Participants must be willing to join the research session via their mobile phones.
 
 - Please screen participants based on these questions:
   - Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last six months.
