@@ -20,6 +20,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research)
 - List of keywords: alert boxes, hint text, instructions, forms, download, digital signature, accessibility, search results, headings 
 
+#### July 21-23:  Comparison Tool Redesign - Profile Page
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - Number of participants: 7 
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research/usabilitytesting-july2021)
+ - **Keywords:** Comparison Tool, profile page, "on this page" navigation 
+
 #### June 15 - July 12: Facility Locator - VAMC VHA Mobile Redesign - Stakeholder interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 16 VA employees (Public Affairs Officers, Emergency Managers, Clinic Managers, Physicians, Nurse Managers)
@@ -45,6 +51,12 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants: 7 Veterans (3 blind, 3 low vision, 1 cognitive disability, dyslexia)
 - [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study)
 - List of keywords: Veterans,  accessibility, assistive technology, screen reader, screenreader, blind, low vision, dyslexia, JAWS, ZoomText, Fusion, VO, voice over, VoiceOver dictation, Dragon, orientation, wayfinding, VA.gov home page, site search, global search, Facility Locator, Google search, search behavior
+
+#### June 16-18:  Comparison Tool Redesign - Compare
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - Number of participants: 8 
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research/usability-testing-june2021)
+ - **Keywords:** Comparison Tool, comparison table, add and remove selections from comparison 
 
 #### June 14-17: VA.gov profile notification settings usability study
 *Authenticated experience, Lead Researcher: Liz Lantz*
@@ -77,6 +89,12 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords: Veterans, Virtual Agent, Chatbot
 
 ### May 2021
+
+#### May 25-27:  Comparison Tool Redesign - Search
+*Booz Allen: Amy Knox, Jen Jones, Emma Waters*
+ - Number of participants: 7 
+ - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research/usability-testing-may2021)
+ - **Keywords:** Comparison Tool, name search, location search 
 
 #### May 17 - May 25: Emergency Care Mashup
 *Facilities Team, Lead Researcher: Nick Osmanski*
