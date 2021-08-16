@@ -4,9 +4,9 @@
  
  *The following informaiton provided will cover the secong iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a healthcare appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following features with the Check-in product:* 
 
-- the addition of using Last 4 of SSN and Last Name as identity verification data points.*
-- the ability for Veterans to check-in if they have multiple appointments in one day.*
-    - showing a check-in status for each appointment.*
+- *the addition of using Last 4 of SSN and Last Name as identity verification data points.*
+- *the ability for Veterans to check-in if they have multiple appointments in one day.*
+    - *showing a check-in status for each appointment.*
  
 *Veterans wanted a more secure approach to validating idenitity rather than just a phone number that the Check-in MVP product uses. Veterans also specifically called out using Last 4 of SSN and Last Name because these data points are commonly used when checking in. This was also confirmed from a staff facing perspective by observing these two data points being used for check-in when completed with a staff member.*
 
