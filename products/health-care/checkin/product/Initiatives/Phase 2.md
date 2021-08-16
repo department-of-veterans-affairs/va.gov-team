@@ -2,12 +2,14 @@
 #### Overview
 
  
- *This is the first iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following elements to the Check-in product:* 
+ *The following informaiton provided will cover the secong iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a healthcare appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following features with the Check-in product:* 
 
-- the addition of last name and last 4 of SSN as identity verification data points.*
+- the addition of using Last 4 of SSN and Last Name as identity verification data points.*
 - the ability for Veterans to check-in if they have multiple appointments in one day.*
     - showing a check-in status for each appointment.*
  
+*Veterans wanted a more secure approach to validating idenitity rather than just a phone number that the Check-in MVP product uses. Veterans also specifically called out using Last 4 of SSN and Last Name because these data points are commonly used when checking in. This was also confirmed from a staff facing perspective by observing these two data points being used for check-in when completed with a staff member.*
+
 </details>
  
 ---
@@ -68,7 +70,7 @@
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Scope
-> *Addition of idenityt validations data points and multiple appointments are the two new key features. These were prioritized over other requests (such as trvel reimbursement, card scanning, and other recommendations) due to the higher request rate from Veterans duing usability testing. Veterans wanted a more scure approach to validating idenitity rather than just a phone that the Check-in MVP uses, and specifically called out using Last 4 of SSN and Last Name. This was also confirmed from a staff facing perspective by observing these two data points being used for check-in when completed with a staff member.*
+> *Addition of identity validations data points and multiple appointments are the two new key features in scope for this second iteration of the Check-in product. These were prioritized over other requests (such as travel reimbursement capabilities, idenitity card scanning, and other recommendations) due to the higher request rate from Veterans during usability testing.*
 
 --- 
 
