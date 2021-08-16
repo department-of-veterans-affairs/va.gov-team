@@ -39,14 +39,15 @@ None
 - [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
 - [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521)
 - [ ] Sitewide, Design system, CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order [#6375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375) 
+- [ ] 508-defect-4, Side nav component, [SCREENREADER]: "In this section" menu needs additional context [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698) 
+- [ ] Manual migration of accordions web components in content build [#26280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26280) 
 
 
 ### Future Work Grooming: 
 New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
 
 ### Icebox Items (Relevancy - Delete)
-- [ ] 
-- [ ]  
+- [ ] Implement recommendations to flatten level 4+ child pages in benefit hubs, in the nav [#8060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8060)
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
