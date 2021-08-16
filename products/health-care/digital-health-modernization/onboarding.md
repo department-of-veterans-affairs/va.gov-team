@@ -110,7 +110,7 @@ We envision the Health Apartment Team evaluating and learning as they iterate, a
 
 In this context of continuous iteration, the DHM Team shared the following thoughts about what success might look like with the My HealtheVet Team.
 
-![success criteria for planned, intended and envisioned work](assets/success_criteria.jpg)
+![Success criteria for planned, intended and envisioned work](assets/success_criteria.jpg)
 *Slide from the DHM Team’s presentation to the My HealtheVet Team about the health apartment concept on July 15, 2021.*
 
 Here’s the thinking behind the graphic above.
@@ -159,7 +159,7 @@ Mapping the Health Landscape | October - November 2020
 - Conducted OCTO stakeholder interviews to understand the intersection of health and VA.gov
 - [Gathered web analytics for My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/DHM-onboarding-edits/products/health-care/digital-health-modernization/analytics/MHV-Google_Analytics_Late-2020.pdf]
 - Began mapping the health landscape. Below is a visual to convey the enormity of the health landscape at VA. [Go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). 
-![Health landscape](assets/health-people-products-systems-map_late-2020_partial)
+![Health landscape](assets/health-people-products-systems-map_detail.png)
 
 **Discovery research | December 2020**
 - [Conducted generative research with Veterans and caregivers to understand how they think about and manage health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md)
