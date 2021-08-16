@@ -29,11 +29,28 @@
 </details>
 
 ## Monday, August 16, 20221
+* Lat/long update: Dave has found a service at the Census office that we might be able to use.
+  * Dave will investigate how we might leverage for VC CAPs, and VBA stuff. TBD on timing. https://geocoding.geo.census.gov/
+  * CMS team to explore how to leverage. Some concerns around if it needs to be validated.
 * Mobile Vet Center statuses
   * When removed, Facility status for MVCs got stuck with no way to update
   * Will leave as is in CMS for now until Dave clarifies business process with Jessica
+    * Facility needs to be removed or made inactive in VAST - won't be something that CMS/LH will be able to solve because the Facility will still appear with the VC.
+    * CMS may need to archive in order to make it disappear.
+    * FYI for CMS helpdesk: users may be confused.
+    * Status from CMS side = currently doesn't exist for MVC
   * LH to set status to null
 * Communication channel
+  * Separate channel or existing?
+  * Clarence to set up and add other relevant folks (Michelle Middaugh, CMS helpdesk)
+* If CMS becomes source of truth for services data (away from ATC), some data will be lost but may not be needed (access to care, wait time, and satisfaction)
+  * Currently LH is getting 14 services from ATC
+  * 82 other services from CMS currently don't have wait time and satisfaction
+  * Mission Act drove wait time and satisfaction data being tracked / visible
+  * Important to keep in the API response but may never get for 82 services
+  * CMS will govern if a facility has a service or not regardless
+  * Possibly flagging the 14 services that have this info for the FE
+  * Contingencies on bad data will need to be explored
 
 ## Monday, August 9, 20221
 * LH currently working on changing the architecture of how they handle the overlay data, going to decouple the overlay from the facility objects so that CMS can send data for a facility that doesn't exist. Is CMS doing anything with the return codes?
