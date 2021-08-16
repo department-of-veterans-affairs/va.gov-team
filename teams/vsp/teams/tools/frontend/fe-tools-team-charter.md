@@ -7,13 +7,12 @@
 ### Team Members:
 - Product Manager: Megan
 - Frontend engineering lead: Tim
-- Frontend engineer: Eugene
+- Frontend engineer: Nick
 - Frontend engineer: Jhonny
 - Frontend engineer: Katy
 - Frontend engineer: Chris A
 - Frontend engineer: Theo 
 - Frontend engineer: Oseas
-- Frontend engineer: Calvin
 
 ---
 
