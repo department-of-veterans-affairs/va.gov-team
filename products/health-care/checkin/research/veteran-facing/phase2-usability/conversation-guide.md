@@ -36,6 +36,7 @@ Start recording.
 ## Warm-up Questions - 5 minutes
 Now, I’m going to ask you to think about your very last medical appointment that you actually went to the VA facility for.
 
+* What type of mobile phone do you have (iPhone or Android)?
 * Can you describe checking in for that medical appointment?
   * Overall, how would you describe that experience? Was it a good or bad experience? Easy or hard?
     * What did you like about it?
