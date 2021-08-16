@@ -46,9 +46,11 @@ Usability testing will allow the Veterans to walk through each step of the propo
 ## Participants and Recruitment
 ### Primary criteria / Must have:
 - 15 participants (for a minimum of 8 completed sessions)
-- Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last six months (disqualify those that don't)
-- Participants must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
-- Participants must be willing to join the research session via their mobile phones.
+    - Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last six months (disqualify those that don't)
+    - Participants must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
+    - Participants must be willing to join the research session via their mobile phones.
+    - At least 6 participants should have an iOS smart phone
+    - At least 6 participants should have an Android smart phone
 
 - Please screen participants based on these questions:
   - Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last six months.
@@ -59,6 +61,15 @@ Usability testing will allow the Veterans to walk through each step of the propo
     - Most (Qualify)
     - Some (Qualify)
     - None (Qualify)
+  - Do you have a smart phone?
+    - Yes (Qualify)
+    - No (Disqualify)
+  - What type of smart phone do you have?
+    - iOS (Qualify a minimum of 6)
+    - Android (Qualify a minimum of 6)
+  - Are you able to use Zoom on your smart phone and willing to share your smart phone screen via Zoom? 
+    - Yes (Qualify)
+    - No (Disqualify) 
 
 Please confirm participants have Zoom downloaded prior to the session and they know how to screen share.
 Due to the use of a UXPin prototype, for this session:
@@ -114,7 +125,7 @@ Due to the use of a UXPin prototype, for this session:
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
-- [Convo Guide Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-discovery/conversation-guide.md)
+- [Convo Guide Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/conversation-guide.md)
 - Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 - Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
 - Read-Out/Results
