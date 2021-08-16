@@ -68,3 +68,11 @@ Information about domiciliary locations is present on newer VA system pages, as 
     - Special requirements may vary slighty from location to location but they can include:
       - Service animals may be considered on a case by case basis at cerain facilities
       - No outstanding felony warrants
+
+### Domiciliary / CLC discovery board
+
+<details>
+  <summary>Dom / CLC discovery board</summary>
+  
+![Dom / CLC discovery board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/images/Dom%20CLC%20discovery%20mural.png)
+</details>
