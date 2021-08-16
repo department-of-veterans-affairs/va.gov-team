@@ -2,27 +2,32 @@
 #### Overview
 
  
- *The following informaiton provided will cover the secong iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a healthcare appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following features with the Check-in product:* 
+ *The following informaiton provided will cover the second iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a healthcare appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following features for the Check-in product:* 
 
 - *the addition of using Last 4 of SSN and Last Name as identity verification data points.*
-- *the ability for Veterans to check-in if they have multiple appointments in one day.*
+- *the ability for Veterans to view and check-in for multiple appointment in a single day.*
     - *showing a check-in status for each appointment.*
  
-*Veterans wanted a more secure approach to validating idenitity rather than just a phone number that the Check-in MVP product uses. Veterans also specifically called out using Last 4 of SSN and Last Name because these data points are commonly used when checking in. This was also confirmed from a staff facing perspective by observing these two data points being used for check-in when completed with a staff member.*
+*Veterans wanted a more secure approach to validating idenitity rather than just a phone number that the Check-in MVP product uses. Veterans specifically called out using Last 4 of SSN and Last Name because these data points are commonly used when checking in. This was also confirmed from a staff facing perspective by observing these two data points being used for check-in when completed with a staff member.*
+
+*The Check-in MVP only allows veterans to check in for an appointment if there is a single appointment for that day. Research has shown that many times Veterans may have multiple appointments in a single day so the appointments can all be completed at once. The iteration will enhance the experience for the Veeran by allowing them to use the Check-in Product for any and all appointments on a given day. 
 
 </details>
  
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+> *The expected outcome(s) of this iteration should result in the following: 
+  > *Veterans have the ability to use additional and familiar data points for idenitity verificaiton, resulting in a more secure and comfortable experience for the Veteran. 
+  > *Veterans have the ability to view multiple appointments, ii applicable, on the appropriate date of the scheduled appointment(s).*
+
 
 **Related/Associated product(s)**
 - Product | Link to [product outline]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
+  *  
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
 
