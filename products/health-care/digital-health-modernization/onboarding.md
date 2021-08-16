@@ -159,7 +159,7 @@ Mapping the Health Landscape | October - November 2020
 - Conducted OCTO stakeholder interviews to understand the intersection of health and VA.gov
 - [Gathered web analytics for My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/DHM-onboarding-edits/products/health-care/digital-health-modernization/analytics/MHV-Google_Analytics_Late-2020.pdf]
 - Began mapping the health landscape. Below is a visual to convey the enormity of the health landscape at VA. [Go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). 
-![Health landscape](assets/health-people-products-systems-map_late-2020_thumbnail.png)
+![Health landscape](assets/health-people-products-systems-map_late-2020_partial)
 
 **Discovery research | December 2020**
 - [Conducted generative research with Veterans and caregivers to understand how they think about and manage health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md)
