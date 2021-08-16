@@ -5,20 +5,20 @@
 In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ health experience on the web. This document, written in August 2021, describes the history and implications of the DHM Team's work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
 
 ## Goals of this onboarding guide
-1) That people working on the health apartment understand:
-- The vision
-- The concept
-- The health landscape at the VA
+- That people working on the health apartment understand:
+  - The vision
+  - The concept
+  - The health landscape at the VA
 
-2) That people working on the health apartment know:
-- Who decided we should do this
-- How they decided
-- Why they decided
+- That people working on the health apartment know:
+  - Who decided we should do this
+  - How they decided
+  - Why they decided
 
-3) That people working on the health apartment:
-- Have clear roles
-- Have a clear list of problems that need to be solved
-- Know where to look or who to ask when they need something
+- That people working on the health apartment:
+  - Have clear roles
+  - Have a clear list of problems that need to be solved
+  - Know where to look or who to ask when they need something
 
 # Executive summary
 TBD
