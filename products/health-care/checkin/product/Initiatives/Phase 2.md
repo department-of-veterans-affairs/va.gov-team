@@ -17,8 +17,7 @@
 * .
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
-
+- Product | Link to [product outline]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
