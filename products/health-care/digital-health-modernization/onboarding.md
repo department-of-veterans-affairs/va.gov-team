@@ -183,33 +183,33 @@ Mapping the Health Landscape | October - November 2020
 From April to June 2021, the DHM Team led a series of 4 workshops with OCTO and OCC leadership to define a vision to simplify Veterans’ health experience on the web, as well as a path forward for realizing that vision.
 
 The workshop series was designed to help OCTO and OCC align and work together. In the past, OCTO and OCC have operated independently, both creating software, often with overlapping or redundant content and functionality. Equally dedicated to improving the health experience for Veterans, OCTO and OCC have complementary skill sets:
-- OCC has medical expertise and has cultivated a vision for patient engagement. For over 15 years, OCC has managed VA’s patient portal, My HealtheVet, with 5 million registered users (about half of the Veterans who get health care from VA). In addition to medical expertise, OCC has deep technical expertise and knowledge of VistA, VA’s electronic health records system, slated to be replaced by Cerner.
-- OCTO has design and technical expertise, which have led to success in tackling difficult user experience challenges using modern technologies and processes.
+- **OCC** has medical expertise and has cultivated a vision for patient engagement. For over 15 years, OCC has managed VA’s patient portal, My HealtheVet, with 5 million registered users (about half of the Veterans who get health care from VA). In addition to medical expertise, OCC has deep technical expertise and knowledge of VistA, VA’s electronic health records system, slated to be replaced by Cerner.
+- **OCTO** has design and technical expertise, which have led to success in tackling difficult user experience challenges using modern technologies and processes.
 
 The 4 workshops yielded the vision for the health apartment, and OCTO and OCC leadership aligned on next steps. Here’s a summary of what we covered:
-- Workshop 1: Discussed existing fragmented health landscape and brainstormed what success looks like as OCTO and OCC work together going forward.
-- Workshop 2: Considered 3 concepts for moving My HealtheVet and the health-related things on VA.gov to a new health section of VA.gov. The health apartment concept won 80% consensus. After this workshop, the DHM Team met with groups in OCTO to get feedback on the health apartment concept and to get their ideas on projects that would move us towards the apartment.
-- Workshop 3: Reviewed project ideas and decided these 3 areas were top priority: notifications, appointments, and the health apartment.
-- Workshop 4: Looked at OCC’s and OCTO’s roadmaps and chose these areas to align on: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy. We also designated OCTO and OCC points of contact for each of these 5 areas.
+- **Workshop 1:** Discussed existing fragmented health landscape and brainstormed what success looks like as OCTO and OCC work together going forward.
+- **Workshop 2:** Considered 3 concepts for moving My HealtheVet and the health-related things on VA.gov to a new health section of VA.gov. The health apartment concept won 80% consensus. 
+- **Workshop 3:** Reviewed project ideas and decided these 3 were top priority: notifications, appointments, and the health apartment.
+- **Workshop 4:** Looked at OCC’s and OCTO’s roadmaps and chose these areas to align on: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy. We also designated OCTO and OCC points of contact for each of these 5 areas.
 
-The workshops brought OCTO and OCC together on a shared vision and path forward. Since our two offices have different cultures and ways of working, the Health Apartment Team will need to be flexible and creative as they collaborate with partners throughout OCTO and OCC.  
+The workshops brought OCTO and OCC together on a shared vision and path forward. Since our 2 offices have different cultures and ways of working, the Health Apartment Team will need to be flexible and creative as they collaborate with partners throughout OCTO and OCC.  
 
-In our first workshop with OCTO and OCC leadership, the theme “hide the plumbing” emerged. This means if we design an exceptional health experience, Veterans will not need to navigate the VA and its product silos. Instead there will be one user experience — no redundant tasks or multiple communication channels. During the leadership workshops, someone expressed it this way:  
+In our first workshop with OCTO and OCC leadership, the theme “hide the plumbing” emerged. In other words, if we design an exceptional health experience, Veterans will not need to navigate the VA and its product silos. Instead there will be one user experience — no redundant tasks or multiple communication channels. During the leadership workshops, someone expressed it this way:  
 
 > *"Veterans do not need to know that we are several different teams. To them, their digital interactions feel created by the same VA."*
 
-In addition to hiding the plumbing, leadership agreed that VA should provide a personalized experience for all benefits, in line with the Digital Modernization Strategy below. In [our generative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md), we observed participants struggling to understand their eligibility for VA benefits. In particular, participants were confused about the nuanced ways health care and disability eligibility differ. These findings underscore the value of providing a personalized view of VA benefits that also shows the connections between health care and disability benefits.   
+In addition to hiding the plumbing, leadership agreed that VA should provide a personalized experience for all benefits, in line with the Digital Modernization Strategy below. In [our generative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md), we observed participants struggling to understand their eligibility for VA benefits. In particular, participants were confused about the nuanced ways eligibility for health care and disability benefits differ. These findings underscore the value of a personalized view of VA benefits that shows the connections between health care and disability.   
 
 For the second OCTO-OCC leadership workshop, we created 3 concepts for how to “hide the plumbing” and connect health with other VA benefits. All the concepts would:
 - Improve the Veteran health experience
-- Make My HealtheVet’s and VA.gov’s designs more similar
+- Make My HealtheVet’s and VA.gov’s designs more similar, with both using the [VA.gov Design System](https://design.va.gov/)
 - Result in the My HealtheVet and VA.gov teams working together more closely
 
-Leadership evaluated the 3 concepts anonymously during the workshop, with 80% consensus on the health apartment concept. Their evaluation was based on these criteria:
-- How well each concept supported specific top tasks or scenarios
-- Which concept best fits user needs
+Leadership evaluated the 3 concepts anonymously during the workshop, with 80% consensus on the health apartment concept. They based their evaluation on these criteria:
+- How well each concept supported specific top tasks or scenarios; and
+- Which concept best fits user needs.
 
-To prepare for workshop 3, we met with 13 key teams/stakeholders in OCTO and OCC to get their feedback on the health apartment concept, discuss their roadmaps, and ask them for project ideas to move us towards the health apartment. The DHM Team synthesized what we heard and in workshop 3 presented the OCTO-OCC leadership group with a list of project ideas. Leadership chose to immediately focus on notifications, appointments, and the health apartment. They also expresssed a strong desire to align the OCTO and OCC roadmaps.
+To prepare for workshop 3, we met with 13 key teams/stakeholders in OCTO and OCC to get their feedback on the health apartment concept, discuss their roadmaps, and hear project ideas to move us towards the health apartment. The DHM Team synthesized what we heard and in workshop 3 presented the OCTO-OCC leadership group with a list of project ideas. Leadership chose to immediately focus on notifications, appointments, and the health apartment. They also expresssed a strong desire to align the OCTO and OCC roadmaps.
 
 Our goal for workshop 4 was twofold: 1) compare OCTO and OCC roadmaps and designate points of contact, and 2) align on the role of the OCTO-OCC leadership group. We emerged from workshop 4 with points of contact for appointments, notifications, PGHD, secure messaging, and pharmacy (voted as top priority). And the OCTO-OCC leadership group agreed to meet about every 6 weeks to help drive the health apartment, roadmap alignment, and collaboration between OCTO and OCC.
 
@@ -243,12 +243,14 @@ For the past few years, OCTO has led the Digital Modernization Council, working 
 #### Appointments
 As part of planned work for the health apartment, the VAOS team and My HealtheVet team are collaborating on a gap analysis and user research in order to consolidate the appointment experience into VAOS on VA.gov. Appointments/VAOS will be the first tool to move into the health apartment.
 
-*(Can link to Teams channel, etc. where collaboration is taking place.)*
+[Go to the Microsoft Teams channel where VAOS and My HealtheVet are collaborating on appointments analysis.](https://teams.microsoft.com/l/channel/19%3a75a7b4c89a6148c784e0336ecc42c339%40thread.t[…]-071bbc4e7ea3&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 
 #### Notifications
 After consolidating appointments into VAOS, the team will do a gap analysis and user research in preparation for moving all appointment-related notifications to VA.gov. This work will involve not only My HealtheVet and VAOS, but two other VA.gov teams: My VA and VA Notify.
 
 My VA is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept).
+
+[insert My VA page]
 
 VANotify is a standardized, self-service platform VA offices can use to implement notifications. The My VA team will build an MVP for notifications supported by VANotify. [See what products are currently supported on VANotify.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#see-who-we-are-working-with)
 
