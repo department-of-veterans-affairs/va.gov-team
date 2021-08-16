@@ -28,6 +28,13 @@
  
 </details>
 
+## Monday, August 16, 20221
+* Mobile Vet Center statuses
+  * When removed, Facility status for MVCs got stuck with no way to update
+  * Will leave as is in CMS for now until Dave clarifies business process with Jessica
+  * LH to set status to null
+* Communication channel
+
 ## Monday, August 9, 20221
 * LH currently working on changing the architecture of how they handle the overlay data, going to decouple the overlay from the facility objects so that CMS can send data for a facility that doesn't exist. Is CMS doing anything with the return codes?
   * CMS team to look into how they're handled, specifically 201 (received but couldn't do anything with it)
