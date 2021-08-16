@@ -94,6 +94,7 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
     * an appointment you already checked in for.
     * an appointment that is past the time where you are able to check-in for from your phone.
     * an appointment that you are too early to check-in for from your phone.
+    * an appointment that isn't eligible for online check-in.
 * Is there anything you would like to be able to do or see on this page that currently isn't available?
   * Why?
 * Is there anything on this page that isn't useful to you? You would be ok if it was removed.
