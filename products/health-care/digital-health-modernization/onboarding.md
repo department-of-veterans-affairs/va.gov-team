@@ -52,7 +52,7 @@ The vision is to move the following things into the health apartment:
 - Health-related things on [VA.gov](https://www.va.gov/) (examples: apply for health care, medical copays, travel pay, and order hearing aid batteries)
 - Any health related things left on [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage), the VA/Department of Defense website for benefits provided by VBA, or Veterans Benefits Administration. Most VBA benefits are not related to health, with the exception of prosthetic socks and hearing aid batteries. For the year or so, OCTO has gradually been moving eBenefits functionality and content to VA.gov.
 
-![My HealtheVet website](assets/MHV-hp_8-16-2021.png)
+![My HealtheVet and VA.gov](assets/MHV-and-VA-gov-homepages_8-16-2021.jpg)
 *The My HealtheVet website homepage in early August 2021 (https://www.myhealth.va.gov/).*
 
 Since things like disability compensation and claims relate closely to health, the health apartment will have intuitive and meaningful pathways to this content, which lives elsewhere on VA.gov. (Note that VBA administers disability compensation. Also, most claims by Veterans are for disability, but a Veteran can file a claim related to any benefit.)
