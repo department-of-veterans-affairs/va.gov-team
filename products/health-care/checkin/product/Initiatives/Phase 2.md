@@ -1,7 +1,6 @@
 # Initiative Brief Template
 #### Overview
 
-<details>
  
  *This is the first iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following elements to the Check-in product:* 
 
@@ -10,11 +9,6 @@
     - showing a check-in status for each appointment.*
  
 </details>
-
- 
- </details>
- 
- > 💡 Helpful guidance/tips
  
 ---
 
