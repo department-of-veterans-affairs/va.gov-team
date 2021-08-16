@@ -38,6 +38,7 @@ We expect:
 ### Preliminary Data
 We are collecting data about `master` builds and `branch` builds on our [dashboard](https://va-gov.domo.com/page/1232474697) including the below key takeaways:
 - About 80% of builds handled in GitHub Actions are `branch` builds
+- `Branch` builds on average select 56% fewer tests than the full suite of available tests
+- Given that fewer tests are selected for, `Branch` build test executions take an average of **4** containers as opposed to `master` build test executions that take 8
 - `Branch` build test executions take an average of about **5.5** minutes as opposed to `master` build test executions that take about **11.5** minutes
-- `Branch` build test executions take an average of **4** containers as opposed to `master` build test executions that take 8
 - Generally we seem to be saving about 50% resources by selecting only relevant tests in `branch` builds
