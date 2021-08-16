@@ -59,7 +59,8 @@
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .
+  - .Cell service 
+  - .WiFi signal 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - e.g. testing, marketing, compliance requirements
 
