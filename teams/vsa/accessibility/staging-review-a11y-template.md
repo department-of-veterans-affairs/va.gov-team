@@ -25,7 +25,7 @@ Do not put staging credentials in your va.gov-team ticket; store or reference th
 
 ### 2. Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 
-### 3 .Link to [content brief](link here) if applicable
+### 3. Link to [content brief](link here) if applicable
 
 ### 4. Project's content source of truth
 This may include mockups, prototypes, github markdown files, Word document/outline, staging link, or preview link.
