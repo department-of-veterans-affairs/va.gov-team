@@ -1,6 +1,6 @@
 # Accessibility
 
-Veteran-facing services (VFS) teams are responsible for ensuring the accessibility of the products. The Digital Experience and Product Office (DEPO) platform supports their work at scale by creating and maintaining VA.gov accessibility standards required for production and by providing guidance as VFS teams work to meet those standards. Code quality is the responsibility of each individual VFS team. This includes:
+Veteran-facing services (VFS) teams are responsible for ensuring the accessibility of the products. The Office of the Chief Technology Officer - Digital Experience (OCTO-DE) platform supports their work at scale by creating and maintaining VA.gov accessibility standards required for production and by providing guidance as VFS teams work to meet those standards. Code quality is the responsibility of each individual VFS team. This includes:
 - Meeting [Section 508](https://www.section508.gov/) compliance for [WCAG 2.0 Level A and AA](https://www.w3.org/TR/WCAG20/) success criteria
 - Meeting new [WCAG 2.1 Level A and AA](https://www.w3.org/TR/WCAG21/) success criteria
 
