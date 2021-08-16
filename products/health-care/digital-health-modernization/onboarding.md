@@ -24,16 +24,16 @@ In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Te
 TBD
 
 # Mission
-The Health Apartment Team’s mission is to simplify Veterans’ health experience on the web, picking up where the DHM Team left off.
+The Health Apartment Team’s mission is to simplify Veterans’ health experience on the web, picking up where the DHM Team left off. The original DHM Team has fulfilled its mission. Going forward, work on the health apartment will be one of many digital health modernization efforts.
 
 To get the health care they need, Veterans must find, register for, and learn to use a number of different websites and software products. [Our generative research from late 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md) shows that Veterans find it extremely difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits.
 
 Consider booking a doctor’s appointment: One system locates nearby facilities. Another schedules appointments. Another handles follow-ups like messages and prescriptions. And another reimburses travel expenses. That’s a lot for Veterans to learn. It’s also difficult for VA staff to support so many siloed systems.
 
-We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make that experience easy and intuitive.
+We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive.
 
 # Vision
-With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC, which owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
+With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC, which owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet, eBenefits, and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
 
 In conversations with OCTO and OCC staff, we heard that the health apartment idea appealed to them for a few reasons:
 - All things health are in one place.
@@ -48,10 +48,11 @@ The wireframe below illustrates what the health apartment could look like.
 *The “health apartment” concept that the Health Apartment Team will design and test as a proof of concept, then iterate on and build. See [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1620410062494/ebd48844ad82c50d028818c677a26faab827cfb3?sender=megpeters0505).*
 
 The following things will move into the health apartment:
-- My HealtheVet content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — we call these top tasks the "big four”)
-- Health-related things on VA.gov (examples: apply for health care, medical copays, travel pay, order hearing aid batteries and prosthetic socks)
+- [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — we call these top tasks the "big four”)
+- Health-related things on [VA.gov](https://www.va.gov/) (examples: apply for health care, medical copays, travel pay, and order hearing aid batteries)
+- Any health related things left on [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage), the VA/Department of Defense website for benefits provided by VBA, or Veterans Benefits Administration. Most VBA benefits are not related to health, with the exception of prosthetic socks and hearing aid batteries. For the year or so, OCTO has gradually been moving eBenefits functionality and content to VA.gov.
 
-Since things like disability and claims relate closely to health, the health apartment will have intuitive and meaningful pathways to this content, which lives elsewhere on VA.gov.
+Since things like disability compensation and claims relate closely to health, the health apartment will have intuitive and meaningful pathways to this content, which lives elsewhere on VA.gov. (Note that VBA administers disability compensation. Also, most claims by Veterans are for disability, but a Veteran can file a claim related to any benefit.)
 
 As the Health Apartment Team, you will design the health apartment and test it with Veterans to see how well it meets their needs before we take expensive and difficult-to-revoke steps to rebuild the My HealtheVet website inside VA.gov. Your team will validate or invalidate the health apartment vision and ship a proof of concept to production.
 
