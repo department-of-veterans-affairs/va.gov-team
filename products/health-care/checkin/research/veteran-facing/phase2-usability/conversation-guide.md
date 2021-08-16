@@ -74,6 +74,7 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
 **Check in at VA**
 * Can you explain to me what we're looking at?
 * What are your thoughts about what this page is asking you?
+* Would you prefer to enter in the last 4 digits of your SSN or your date of birth here?
 * Is there anything missing?
 
 **Contact/insurance**
@@ -96,6 +97,8 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
   * Why?
 * Is there anything on this page that isn't useful to you? You would be ok if it was removed.
   * Why?
+* Have you ever scheduled an appointment on VA.gov?
+  * If so, what you do think about this appointment list versus your experience with VA online scheduling?
 
 **Confirmation page**
 * What are your thoughts about this page?
