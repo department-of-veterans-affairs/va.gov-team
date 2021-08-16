@@ -25,6 +25,7 @@
 
 ## August 18
 
+  * staff profiles for care coordinators (and other non-leadership staff profiles)
   * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
   * Social media meta tag overview 
 
