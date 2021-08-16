@@ -104,13 +104,12 @@ Please list the people who will be serving in each role. **Include the primary p
 	
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/product-outline.md	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/research/discussion-guide.md	
 - Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
+https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1587053279523/e66fd766f4dc8823ab9149af634e2cb5fdb50a43?sender=jonesjennifer26349 	
 - Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
+N/A 	
 - Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/research/GIBCT-Sec103-Readout-2020430.pdf
