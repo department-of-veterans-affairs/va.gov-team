@@ -19,7 +19,7 @@
 
 ### Do I need a staged rollout?
 
-**No.**
+**Yes**
 
 
 
@@ -47,12 +47,12 @@ _The stages and number of users below are provided as example values recommended
 
 ### Stage A: Canary
 
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
+- Phased rollout approach. Release to small percentage of users, track issues and errors, then ramp up until full release.
 
 #### Planning
 
-- Length of time: N/A
-- Percentage of Users (and roughly how many users do you expect this to be): 10% (
+- Length of time: 1 week 
+- Percentage of Users: 15 
 
 #### Results:
 - Number of unique users: x
@@ -63,7 +63,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 ### Stage B: N/A
 
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
+- Rollout to 50% of users
 
 #### Rollout Plan
 
@@ -100,9 +100,8 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ### Planning:
 - Desired date: 06/10/21
 - Post-launch KPI 1 actual: Number of NOD submissions
-- Post-launch KPI 2 actual: 20% of claims completed online in first month with 5% MoM inclease
-- Post-launch KPI 3 actual: Where do Veterans abandon the form
-- Post-launch KPI 4 actual: Successful vs. Unsuccessful submissions
+- Post-launch KPI 2 actual: Where do Veterans abandon the form
+- Post-launch KPI 3 actual: Successful vs. Unsuccessful submissions
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
