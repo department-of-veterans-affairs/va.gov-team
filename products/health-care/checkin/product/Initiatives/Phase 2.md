@@ -59,8 +59,8 @@
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .Cell service 
-  - .WiFi signal 
+  - Cell service 
+  - WiFi signal 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - e.g. testing, marketing, compliance requirements
 
@@ -68,7 +68,7 @@
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Scope
-> *What's in scope for you to build? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+> *Addition of idenityt validations data points and multiple appointments are the two new key features. These were prioritized over other requests (such as trvel reimbursement, card scanning, and other recommendations) due to the higher request rate from Veterans duing usability testing. Veterans wanted a more scure approach to validating idenitity rather than just a phone that the Check-in MVP uses, and specifically called out using Last 4 of SSN and Last Name. This was also confirmed from a staff facing perspective by observing these two data points being used for check-in when completed with a staff member.*
 
 --- 
 
