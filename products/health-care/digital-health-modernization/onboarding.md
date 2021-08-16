@@ -250,8 +250,8 @@ After consolidating appointments into VAOS, the team will do a gap analysis and 
 
 **My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept).
 
-![My VA 2.0 mockup](assets/My-VA-2.0-mockup.png)
-*A mockup of the My VA page that launched in Summer 2021 that's similar to the final version.*
+![My VA 2.0 mockup](assets/My-VA-2.0-mockup.jpg)
+*Above, a mockup of the My VA page that launched in Summer 2021 that's similar to the final version.*
 
 **VANotify** is a standardized, self-service platform VA offices can use to implement notifications. The My VA team will build an MVP for notifications supported by VANotify. [See what products are currently supported on VANotify.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#see-who-we-are-working-with)
 
