@@ -17,9 +17,9 @@
 ---
 
 ## Outcome Summary
-*The expected outcome(s) of this iteration should result in the following: 
-  *Veterans have the ability to use additional and familiar data points for idenitity verificaiton, resulting in a more secure and comfortable experience for the Veteran. 
-  *Veterans have the ability to view multiple appointments, ii applicable, on the appropriate date of the scheduled appointment(s).*
+*The expected outcome(s) of this iteration should result in the following:* 
+  - *Veterans have the ability to use additional and familiar data points for idenitity verificaiton, resulting in a more secure and comfortable experience for the Veteran. 
+  - *Veterans have the ability to view multiple appointments, ii applicable, on the appropriate date of the scheduled appointment(s).*
 
 
 **Related/Associated product(s)**
