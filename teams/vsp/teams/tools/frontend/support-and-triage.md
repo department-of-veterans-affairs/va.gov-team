@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Supporting VSA teams requires a cohesive and well-coordinated experience. The frontend tools team assigns responsibility for this work to a VSP frontend engineer (frontend support dev) on a weekly rotation. This document summarizes the responsibilities of this role and how the rotation works. 
+Supporting VFS teams requires a cohesive and well-coordinated experience. The frontend tools team assigns responsibility for this work to a VSP frontend engineer (frontend support dev) on a weekly rotation. This document summarizes the responsibilities of this role and how the rotation works. 
 
 ## Rotation 
 
