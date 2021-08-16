@@ -17,20 +17,22 @@
 ---
 
 ## Outcome Summary
->*The expected outcome(s) of this iteration should result in the following:* 
+*The expected outcome(s) of this iteration should result in the following:* 
   - *Veterans have the ability to use additional and familiar data points for idenitity verificaiton, resulting in a more secure and comfortable experience for the Veteran.*
   - *Veterans have the ability to view multiple appointments, ii applicable, on the appropriate date of the scheduled appointment(s).*
+
+---
 
 
 **Related/Associated product(s)**
 - Product | Link to [product outline]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
--
+
+
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  *  
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+  *  Veterans need and want the ability to participate in a more secure experience when checking in for an appointment on a mobile device. This was called out by 50% of Veterans who participated in usability testing with the Check-in MVP.
+  *  Veterans also expressed the need to see multiple appointments on a simgle day.  
 
 <!--
 ## Desired User Outcomes
