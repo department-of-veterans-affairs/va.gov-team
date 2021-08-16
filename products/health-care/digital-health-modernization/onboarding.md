@@ -33,7 +33,7 @@ Consider booking a doctor’s appointment: One system locates nearby facilities.
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive.
 
 # Vision
-With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC, which owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet, eBenefits, and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
+With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)and is part of VHA, Veterans Health Administration). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet, eBenefits, and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
 
 In conversations with OCTO and OCC staff, we heard that the health apartment idea appealed to them for a few reasons:
 - All things health are in one place.
@@ -50,7 +50,7 @@ The wireframe below illustrates what the health apartment could look like.
 The vision is to move the following things into the health apartment:
 - [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) content and functionality (starting with Appointments, Prescriptions, Secure Messaging, and Records — we call these top tasks the "big four”)
 - Health-related things on [VA.gov](https://www.va.gov/) (examples: apply for health care, medical copays, travel pay, and order hearing aid batteries)
-- Any health related things left on [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage), the VA/Department of Defense website for benefits provided by VBA, or Veterans Benefits Administration. Most VBA benefits are not related to health, with the exception of prosthetic socks and hearing aid batteries. For the year or so, OCTO has gradually been moving eBenefits functionality and content to VA.gov.
+- Any health related things left on [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage), the VA/Department of Defense website for benefits managed by VBA, Veterans Benefits Administration. Most VBA benefits are not related to health, with the exception of prosthetic socks and hearing aid batteries. For the past year or so, OCTO has gradually been moving eBenefits functionality and content to VA.gov.
 
 ![My HealtheVet and VA.gov](assets/MHV-and-VA-gov-homepages_8-16-2021.jpg)
 *Above, the My HealtheVet (https://www.myhealth.va.gov/) and VA.gov homepages in early August 2021.*
