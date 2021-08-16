@@ -19,7 +19,7 @@ Abbey, Derek.  Dissertation. “How Navy and Marine Corps Veterans Make Meaning 
 
 >	“The search phase for the students that participated in this study did not include an in-depth analysis of multiple programs and was heavily weighted on the input and perceived trust of others”
 
--	Internet was primary information gathering tool, but was research was cursory
+-	Internet was primary information gathering tool, but the research was cursory
 >	“When exploring which university to attend in order to attain their four-year degree, the participants in this study did not conduct in-depth searches. The majority of the participants selected a region or city and then did brief research of local universities using online search engines or websites.”
 
 -	Participants lacked knowledge related to higher education and the benefits they were intending to use
