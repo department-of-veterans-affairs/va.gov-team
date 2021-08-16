@@ -70,3 +70,11 @@ Information about CLC facilities is present on newer VA system pages, as well as
     - Service connected status, level of disability, and income are all factors in determining the amount of copay a Veteran is responsible for
 - Any special elegibility requirements?
   - Pets and service animals may be permitted for hospice and end-of-life circumstances, but are otherwise likely not allowed.
+
+### CLC / Domiciliary discovery board
+
+<details>
+  <summary>CLC / Dom discovery board</summary>
+  
+![Dom / CLC discovery board](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/images/Dom%20CLC%20discovery%20mural.png)
+</details>
