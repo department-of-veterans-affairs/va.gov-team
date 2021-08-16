@@ -16,7 +16,7 @@ Required for tier 3 experience = *
 - Office/org name *  (Currently, the account name field has an alphanumeric prefix like 'OEI-008' attached to the office name; Dan's Salesforce team is creating a plain language name-only field for us, without the prefix.) 
 - Office account record ID * (This is the unique identifier.)
 - The Administration it belongs to or the parent central staff office *
-- Mission text
+- Mission text * (Mission field is optional in Salesforce. We will pull Mission data in and IF the office has it filled out in Salesforce, include it in the FE; IF this data is empty for the office in SF, we'll hide this field in the FE.)
 - Overview text *
 - Authorities text * (as it appears in the FOM document which is a concatenation/formula of multiple fields)
 - Activities text *
