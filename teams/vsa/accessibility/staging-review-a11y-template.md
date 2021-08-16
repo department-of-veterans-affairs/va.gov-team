@@ -20,12 +20,13 @@
 
 ## Artifacts
 
-### 1. Link to [artifact in staging and scope of review](link here)
+### 1. Link to [artifact in staging and scope of review](insert link here)
 Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. We recommend using this [accessible staging account template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md).
 
-### 2. Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+### 2. Link to [product outline](insert link here)
+[Template for product outline]([product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 
-### 3. Link to [content brief](link here) if applicable
+### 3. Link to [content brief](insert link here) if applicable
 
 ### 4. Project's content source of truth
 This may include mockups, prototypes, github markdown files, Word document/outline, staging link, or preview link.
@@ -35,7 +36,8 @@ This may include mockups, prototypes, github markdown files, Word document/outli
 
 ### 5. Link to the [github ticket that shows work for creating and/or updating](insert link here) any relevant static content pages and entry points for this project
 
-### 6. Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+### 6. Link to [release plan](insert link here)
+[Template for release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 "Planning" sections should be completed in each section: Phase I, Phase II, Go Live
 
 ### 7. Link to your product [test cases/test plan in TestRail with test execution logs](link here) for QA review
