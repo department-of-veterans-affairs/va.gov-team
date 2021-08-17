@@ -68,7 +68,7 @@ Incrementally. It will take intense collaboration and planning, with the Health 
 In the workshops, OCTO-OCC leadership decided to move appointments into the health apartment first for a few reasons:
 - Appointments is one of the “big four” Veteran top task areas (scheduling, managing, cancelling, rescheduling, etc.).
 - Both My HealtheVet and VA.gov have appointments functionality (some of it redundant).
-- VA Online Scheduling (VAOS), the appointments tool with more functionality than My HealtheVet, is already part of VA.gov.
+- [VA Online Scheduling (VAOS)](https://www.va.gov/health-care/schedule-view-va-appointments/), the appointments tool with more functionality than [My HealtheVet Appointments](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/keeping-up-with-your-va-appointments), is already part of VA.gov.
 
 With consensus on appointments, OCTO and OCC are taking the first steps towards the health apartment concept. In August 2021, the My HealtheVet and VAOS teams started comparative analyses of their appointments tools and notifications. The purpose of this work is to:
 - Find gaps in appointments functionality between My HealtheVet and VAOS
