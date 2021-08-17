@@ -1,5 +1,7 @@
 { VET TEC Summary }
 
+{Card Heading: VET TEC }
+
 # Name of VET TEC Provider
 
 CITY, STATE
@@ -93,7 +95,7 @@ VA pays to provider: ([Learn more]()) $X,XXX
 
  { display VET TEC payment calculations }     
  
- Upon enrollment in program (25%):  $X,XXX
+      Upon enrollment in program (25%):  $X,XXX
   
       Upon completion of program (25%):  $X,XXX
   
