@@ -42,7 +42,7 @@ This may include mockups, prototypes, github markdown files, Word document/outli
 - [Prototype](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbxZp4L/play)
 - [Staging] - **TBD**
 
-### [Github ticket that shows work for creating and/or updating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan) any relevant static content pages and entry points for this project
+### [Github ticket that shows work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan) for creating and/or updating any relevant static content pages and entry points for this project
 
 ### [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/Check-in%20Release%20Plan.md)
 
