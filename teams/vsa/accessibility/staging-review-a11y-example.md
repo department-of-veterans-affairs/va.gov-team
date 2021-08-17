@@ -70,7 +70,7 @@ https://dsvavsp.testrail.io/index.php?/reports/view/14
 
 ### Verification that foundational accessibility checks are complete:
 
-#### [Document in product folder of completed accessibility checks](https://google.com)
+- [Document in product folder of completed accessibility checks](https://google.com)
 
 <!--
 Template of markdown document of accessibility checks
