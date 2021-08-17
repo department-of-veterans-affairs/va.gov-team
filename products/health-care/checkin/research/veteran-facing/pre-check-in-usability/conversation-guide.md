@@ -46,7 +46,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
  * Did you ever complete any paperwork prior to your VA medical appointments?
   * _If yes:_ Can you tell me more about the paperwork and what information it was capturing?
 
-## Prototype - 20 minutes
+## Prototype - 35 minutes
 
 Alright, I want you to pretend that you have an upcoming VA medical appointment and you receive the following text a few days beforehand.
 
