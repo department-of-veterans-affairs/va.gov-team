@@ -173,6 +173,7 @@ The following describes the key milestones of the team’s journey.
 - Conducted OCTO stakeholder interviews to understand the intersection of health and VA.gov
 - [Gathered web analytics for My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/DHM-onboarding-edits/products/health-care/digital-health-modernization/analytics/MHV-Google_Analytics_Late-2020.pdf)
 - Began mapping the health landscape. Below is a partial view, intended to convey the vastness of the health landscape at VA. For the full view, [go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). 
+<br></br>
 ![Health landscape](assets/health-people-products-systems-map_detail.png)
 
 **Discovery research | December 2020**
