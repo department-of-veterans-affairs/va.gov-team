@@ -10,10 +10,10 @@
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: EDU Stakeholders
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
+- Number of users: 3
+- Number of bugs identified / fixed: 0/0
 - Was the data submitted (if any) easy for VA to process?: N/A
-- Types of errors logged: lorem ipsum
+- Types of errors logged: N/A
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? UX made select updates based on EDU input
 - If yes, what: 
   - Added "Learn more" content to Comparison page
