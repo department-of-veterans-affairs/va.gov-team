@@ -19,7 +19,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 60 minutes.** 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be participating in two exercises today.** We'll walk through these together. In one of the exercises, we will be working with a prototype - so it might not behave exactly how you expect. If the prototype doesn't do what you expect, let me know what you expected to happen. 
+- **You'll be interacting with a prototype today.** It might not behave exactly how you expect. If the prototype doesn't do what you expect, let me know what you expected to happen. 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
@@ -32,11 +32,14 @@ Before we start, a few things I want to mention:
 1. Can you tell me a little about yourself? (if needed, ask about service history)
 2. What device are you joining us on?
 3. Do you currently, or have you ever, received any benefits from the VA?
-    4. If yes: What benefits?  
-5. Do you currently, or have you ever, filed a claim or appeal with the VA?
-6. (if yes) How do you check for any updates or changes to your benefits?
-7. Have you ever used the My VA page on VA.gov? What do you use it for? 
-8. How often do you go online to manage your benefits?
+   - If yes: What benefits?  
+4. Do you currently, or have you ever, filed a claim or appeal with the VA?
+5. (if yes) How do you check for any updates or changes to your benefits?
+6. Have you ever used the My VA page on VA.gov? What do you use it for? 
+7. How do you manage your benefits?
+    - (if needed: do you ever go online?) Where do you go?
+8. Do you ever manage your benefits on VA.gov? Tell me about that.
+    - (if they haven't mentioned it: Are you familiar with My VA? Tell me about your experience with it)
 
 ## Background and questions - 7 minutes
 
@@ -45,7 +48,8 @@ Just a little bit of background before we start - we are working on building a c
 1. So let's imagine that this sort of page exists - a centralized place for any new updates, reminders or action items that you need to complete on VA.gov. What would you expect a page like this would be called?
 2. What kind of information would you expect to be on a page like this? 
 3. What are some scenarios in your life where you would want a page like this? 
-4. Imagine that you do have new [USE THEIR WORD], how would you know? Where would you expect to see that on VA.gov? 
+4. Imagine that you do have new [USE THEIR WORD], how would you know? 
+5. Where would you expect the VA to tell you about that? 
 
 ## Prototype - 30 minutes 
 
@@ -83,13 +87,13 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 
 **Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
 
-Just a reminder - we are working with a prototype so it might not behave exactly how you expect. The information shown is not real information, and is completely fictional. If you could pretend 
+Just a reminder - we are working with a prototype so it might not behave exactly how you expect. The information shown is not real information, and is completely fictional. If you could pretend that you are 'Kimberly Washington' and that this is your information, that would be great.  
 
 ## First task - Scenario - 5 minutes
 
-[NEED TO ASK ABOUT THIS] Let's image you recieved a text letting you know that you have a health care appointment coming up at a VA facility. You want to double check which appointment it is. How would you do that from this page? 
+*Participant should be on first page of the prototype.*
 
-I'm going to give you a scenario. Let’s imagine you got a newsletter from the VA and read that you can now get notifications for things like benefits applications on va.gov.  You've just logged into VA.gov. Where would you go from here to see those notifications? How would you check on that? 
+- Now that you’re looking at this prototype, where would you go to find some of the updates we just discussed, starting from here?
 
 *If users DID click on alerts, skip to the fourth task*
 
@@ -117,6 +121,8 @@ Okay, great! That's it for the prototype, so we'll go ahead an move on to the ne
 ## Third task - My VA - 7 minutes
 
 Let's go ahead and click on 'My VA'. I have another scenario for you. Imagine you recently went to a VA doctor and she said she would send you a message about your results. Can you walk me through how you would see that?
+
+*If they said that, ask*
 
 1. Why would you expect it to be in this section? 
 
