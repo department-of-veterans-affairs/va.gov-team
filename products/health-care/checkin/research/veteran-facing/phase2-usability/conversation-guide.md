@@ -110,7 +110,7 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
 * What would you do next?
   * If you don't know where to go, then what would you prefer to do next call or talk to a staff member?
     * What if the phone number was for the main VA call center? 
-* [Make sure they close their prototype before asking this question] You have now checked in for one appointment. Pretend your next appointment isn't for another few hours. Describe to me how you would check-in for your next appointment.
+* [Make sure they close their prototype before asking this question] You have now checked in for one appointment. Pretend your next appointment isn't for another few hours. Maybe you went and grabbed lunch in between appointments. Describe to me how you would check-in for your next appointment.
   * _Observe if they want to click the link again, if they text "check in" again, or if they try to bring up the confirmation page._
 
 ## Post-Task Interview - 5 minutes
