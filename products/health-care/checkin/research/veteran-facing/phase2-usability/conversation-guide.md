@@ -112,6 +112,7 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
     * What if the phone number was for the main VA call center? 
 * [Make sure they close their prototype before asking this question] You have now checked in for one appointment. Pretend your next appointment isn't for another few hours. Maybe you went and grabbed lunch in between appointments. Describe to me how you would check-in for your next appointment.
   * _Observe if they want to click the link again, if they text "check in" again, or if they try to bring up the confirmation page._
+  * What are your thoughts about entering your last name and last 4 digits of your SSN again to check in for your next appointment?
 
 ## Post-Task Interview - 5 minutes
 * Now that you've seen the whole experience, what are your impressions of the experience?
