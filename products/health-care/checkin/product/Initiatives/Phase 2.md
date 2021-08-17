@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief - Check-in Phase 2 
 #### Overview
 
  
