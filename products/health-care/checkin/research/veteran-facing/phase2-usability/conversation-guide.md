@@ -97,7 +97,7 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
     * an appointment that isn't eligible for online check-in.
 * Is there anything you would like to be able to do or see on this page that currently isn't available?
   * Why?
-* Have you ever had a virtual (video or phone) appointments?
+* Have you ever had a virtual (video or phone) appointment?
   * Would you expect or not expect virtual appointments to be a part of this check-in experience?
 * Is there anything on this page that isn't useful to you? You would be ok if it was removed.
   * Why?
