@@ -53,6 +53,7 @@ The vision is to move the following things into the health apartment:
 - Any health related things left on [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage), the VA/Department of Defense website for benefits managed by VBA, Veterans Benefits Administration. Most VBA benefits are not related to health, with the exception of prosthetic socks and hearing aid batteries. For the past year or so, OCTO has gradually been moving eBenefits functionality and content to VA.gov.
 
 <p align="center"><img src="assets/MHV-and-VA-gov-homepages_8-16-2021.jpg" alt="My HealtheVet and VA.gov" height="800"></p>
+
 *Above, the My HealtheVet (https://www.myhealth.va.gov/) and VA.gov homepages in early August 2021. (The user is not signed in.)*
 
 Since things like disability compensation and claims relate closely to health, the health apartment will have intuitive and meaningful pathways to this content, which lives elsewhere on VA.gov. (Note that VBA, not VHA, administers disability compensation. Also, most claims by Veterans are disability claims, but a Veteran can file a claim related to any VA benefit: health care, pension, housing assistance, etc.)
@@ -251,6 +252,7 @@ After consolidating appointments into VAOS, the team will do a gap analysis and 
 **My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept).
 
 <p align="center"><img src="assets/My-VA-2-point-0-mockup.jpg" alt="My VA 2.0 mockup" height="800"></p>
+
 *Above, a mockup of the My VA page that's similar to what launched in Summer 2021.*
 
 **VANotify** is a standardized, self-service platform VA offices can use to implement notifications. The My VA team will build an MVP for notifications supported by VANotify. [See what products are currently supported on VANotify.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#see-who-we-are-working-with)
@@ -294,7 +296,8 @@ To design a cohesive authenticated experience, the Health Apartment Team will ne
 #### Content and navigation
 The [Health Care benefit hub on VA.gov](https://www.va.gov/health-care/) (below) gives Veterans the information and tools they need to get and manage their health benefits. While VAOS is located in the Health Care benefit hub, the hub links to My HealtheVet for Prescriptions, Secure Messaging, and Medical Records. And it links to AccessVA for travel pay.
 
-![Health Care hub page and sub page](assets/health-care-hub-and-sub-page_8-16-2021.jpg)
+<p align="center"><img src="assets/health-care-hub-and-sub-page_8-16-2021.jpg" alt="Health Care hub page and sub page" height="800"></p>
+
 *Above, August 2021 screen grabs of the Health Care hub page and the Eligibility page, which is on the next level.*
 
 In the health apartment vision, everything in the Health Care hub would move to the health apartment. Because the first flyout menu link on the main navigation for VA.gov is "VA Benefits and Health Care," it would be best to migrate the Health Care hub content early on to avoid confusing Veterans by having 2 places on the VA.gov navigation for health ("VA Benefits and Health Care" and "My HealtheVet").
