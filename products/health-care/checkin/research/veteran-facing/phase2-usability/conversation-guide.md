@@ -95,6 +95,7 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
     * an appointment that is past the time where you are able to check-in for from your phone.
     * an appointment that you are too early to check-in for from your phone.
     * an appointment that isn't eligible for online check-in.
+    * What about virtual (video or phone) appointments?
 * Is there anything you would like to be able to do or see on this page that currently isn't available?
   * Why?
 * Is there anything on this page that isn't useful to you? You would be ok if it was removed.
@@ -106,6 +107,8 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
 * What are your thoughts about this page?
 * Is there anything missing?
 * What would you do next?
+  * If you don't know where to go, then what would you prefer to do next call or talk to a staff member?
+    * What if the phone number was for the main VA call center? 
 * [Make sure they close their prototype before asking this question] You have now checked in for one appointment. Pretend your next appointment isn't for another few hours. Describe to me how you would check-in for your next appointment.
   * _Observe if they want to click the link again, if they text "check in" again, or if they try to bring up the confirmation page._
 
