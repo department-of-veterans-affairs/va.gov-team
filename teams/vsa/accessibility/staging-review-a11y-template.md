@@ -62,11 +62,15 @@ You **must** complete one of the two following options:
 - Issue 3
 
 ## Meeting Attendees
-- Product Manager (required): name
-- OCTO-DE Product lead (recommended): name
+- Product Manager (required): [Insert name here]
+- OCTO-DE Product lead (recommended): [Insert name here]
 - OCTO-DE Design lead (required): Ryan Thurlwell
-- Anyone else from your team who significantly contributed to the artifacts provided (required): name(s)
-- VFS Content, IA, accessibility, and QA specialists (if applicable): name(s)
+- Anyone else from your team who significantly contributed to the artifacts provided (required): [Insert names here]
+
+### VFS Attendees (if applicable)
+- VFS Content and IA: Mikki
+- Accessibility: Josh, Angela
+- QA specialists: Tze
 
 ### Staging Reviews can only be scheduled on Thursday.
 
