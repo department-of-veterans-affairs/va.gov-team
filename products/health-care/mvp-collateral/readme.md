@@ -30,10 +30,11 @@ Please feel free to distribute and share as appropriate.
 
 Below are two advertisements that can be used on digital screens in elevators, way-finding screens around the hospital, and televisions located in the waiting rooms. One is a customizable PowerPoint for VAMCs with local MVP clinics to include the location of the local MVP clinic (i.e., floor and room number). It is not permissible to include local contact information (staff phone numbers/emails). The other is not customizable and can be displayed at any VAMC, whether or not they have a local MVP clinic.
 
-<!---
-- [PNG (non-customizable)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/png/digital-ad-Gwendolyn.png)
+- [PNG (1920x1080, non-customizable)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/png/digital-ad-Gwendolyn.png)
+- [PNG (1237x926, non-customizable)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/png/digital-ad-1237x926-Gwendolyn.png)
+
+<!--- - [PPT (with customizable text for room/floor)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/ppt/digital-ad-gwendolyn.pptx)
 --->
-- [PPT (with customizable text for room/floor)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/ppt/digital-ad-gwendolyn.pptx)
 
 ## Flyers and posters
 
