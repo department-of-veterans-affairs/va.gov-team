@@ -10,7 +10,7 @@
  
 *Veterans wanted a more secure approach to validating idenitity rather than just a phone number that the Check-in MVP product uses. Veterans specifically called out using Last 4 of SSN and Last Name because these data points are commonly used when checking in. This was also confirmed from a staff facing perspective by observing these two data points being used for check-in when completed with a staff member.*
 
-*The Check-in MVP only allows veterans to check in for an appointment if there is a single appointment for that day. Research has shown that many times Veterans may have multiple appointments in a single day so the appointments can all be completed at once. The iteration will enhance the experience for the Veeran by allowing them to use the Check-in Product for any and all appointments on a given day. 
+*The Check-in MVP only allows veterans to check in for an appointment if there is a single appointment for that day. Research has shown that many times Veterans may have multiple appointments in a single day so the appointments can all be completed at once. The iteration will enhance the experience for the Veeran by allowing them to use the Check-in Product for any and all appointments on a given day.*
 
 </details>
  
