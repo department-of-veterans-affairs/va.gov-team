@@ -9,9 +9,9 @@
 - [x] Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support. 
 - [x] At least 4 days before scheduled meeting, you must complete list of artifacts below
 - [x] Verify that access information has been provided for the tool or feature in staging. Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.
-- [x] Respond to Platform feedback tickets.
-- [x] Update this ticket with the product’s launch date after it has gone live.
-- [x] Close this ticket when the review is complete.
+- [ ] Respond to Platform feedback tickets.
+- [ ] Update this ticket with the product’s launch date after it has gone live.
+- [ ] Close this ticket when the review is complete.
 
 ### Platform
 - [x] Schedule meeting with Platform reviewers and requesting team attendees (as listed below)
