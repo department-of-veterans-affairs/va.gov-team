@@ -52,7 +52,7 @@ Now, I’m going to ask you to think about your very last medical appointment th
 
 Alright, I want you to pretend that you have an upcoming VA medical appointment and you receive the following email a few days beforehand.
 
-[UXPin prototype - will update to UXPin once it is ready. The current link is the Sketch working file.](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/Gm8dgnv)
+[UXPin prototype - will update to UXPin once it is ready. The current link is the Sketch working file.](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbrGr18/play)
 
 At this point, I would like you to share your screen, so we can see the email too.
 
