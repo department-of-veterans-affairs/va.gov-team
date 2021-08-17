@@ -92,18 +92,13 @@ There are several considerations in determining which on-line application Form t
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks.*
 
-- **Value Risks** (will people use it): 
-Spanish LEP Veterans/family members/caregivers value an on-line translated application process for benefits on par with English version
-  - .
-- **Usability Risks**:
-We expect to see a higher completion rate and satisfaction score with this offering
-  - .
-- **[Technical] Feasibility Risks**:
-  - . On-line application form is limited to 1 form for launch that maps to the considerations listed above.
+- **Value Risks** (will people use it): Spanish LEP Veterans/family members/caregivers value an on-line translated application process for benefits on par with English version
+  
+- **Usability Risks**: We expect to see a higher completion rate and satisfaction score with this offering
 
-- **Organizational Viability Risks/Constraints**:
+- **[Technical] Feasibility Risks**: On-line application form is limited to 1 form for launch that maps to the considerations listed above.
 
-This is part of on-going effort to support Congressional request and EO.
+- **Organizational Viability Risks/Constraints**: This is part of on-going effort to support Congressional request and EO.
 
 Before undertaking this effort, we will have completed technical discoverability for effort including LOE, other system dependencies/constraints, translation service availability and the like to enable us to start with a very high confidence level that we can build and ship this within set timeframe.
 
@@ -118,8 +113,8 @@ We will also gain a better understanding of how to scale translation for Forms f
 --- 
 
 ## Launch Planning
+
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
 
@@ -132,9 +127,9 @@ We will also gain a better understanding of how to scale translation for Forms f
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
-- *Target Launch Date*
+- Target Launch Date
   - tbd
-- *Actual Launch Date* 
+- Actual Launch Date
   - tbd
 
 ---
@@ -148,30 +143,32 @@ We will also gain a better understanding of how to scale translation for Forms f
 ---
 
 #### Communications
+
+<details>
+
 - Team Name: Content & Localization
 
-*Where will you discuss this initiative?*
+Where will you discuss this initiative?
 
 - GitHub Label(s): vsa-content-localization
-- Slack channel: C&L  
+- Slack channel: https://dsva.slack.com/archives/C01GCADCMQT 
 
 </details>
 
-
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
+What offices/departments are critical to make this initiative successful?
 
 <details>
   
 - Office/Department: DEPO
 - Contact(s): Danielle Thierry
 Team Members:
-•	DEPO Product Lead: Danielle Thierry
-•	DEPO Engineering Lead: Michelle Steigerwalt
-•	Team Product Manager: Sharon Kasimow
-•	UX/Research: n/a
-•	Front-End Engineering: Adam Whitlock
-•	Consultant: Eunice Garcia
+  - DEPO Product Lead: Danielle Thierry
+  - DEPO Engineering Lead: Michelle Steigerwalt
+  - Team Product Manager: Sharon Kasimow
+  - UX/Research: n/a
+  - Front-End Engineering: Adam Whitlock
+  - Consultant: Eunice Garcia
 
  
 </details>
