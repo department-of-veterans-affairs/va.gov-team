@@ -29,7 +29,7 @@
 1. Program/Stakeholder Update - @Soni/Josh
 2. Mobile Design Update - Requests for Information needed? @Cassandra 
 3. Update: Content will be taking for pass this week, then we'll finalize following week ISO design finalization
-4. LoROTA capability Itro: “low risk one time authentication”. Currently, to get around a veteran having to have a va.gov account set up, this authentication method verifies identity based on the phone number listed in Vista. (Built for Check-in MVP but could expand if applicable). 
+4. LoROTA capability Intro: “low risk one time authentication”. Currently, to get around a veteran having to have a va.gov account set up, this authentication method verifies identity based on the phone number listed in Vista. (Built for Check-in MVP but could expand if applicable). 
 5. Roundtable Questions, Comments. 
 
 ### Next Steps 
