@@ -41,6 +41,7 @@ None
 - [ ] Sitewide, Design system, CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order [#6375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375) 
 - [ ] 508-defect-4, Side nav component, [SCREENREADER]: "In this section" menu needs additional context [#28698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28698) 
 - [ ] Manual migration of accordions web components in content build [#26280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26280) 
+- [ ] Update links to IRIS and GI Bill systems on the Contact Us page from Ask VA Team on the VRM product line [#28848](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28848)
 
 
 ### Future Work Grooming: 
