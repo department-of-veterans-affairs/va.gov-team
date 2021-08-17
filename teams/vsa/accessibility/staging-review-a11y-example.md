@@ -48,6 +48,13 @@ This may include mockups, prototypes, github markdown files, Word document/outli
 This should be a github ticket that shows work for creating and/or updating any relevant static content pages and entry points for this project
 -->
 
+### [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/Check-in%20Release%20Plan.md)
+
+<!-- 
+Template for release plan
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md
+-->
+
 ### Product [test cases](google.com) and [test plan](google.com) in TestRail.
 
 <!--
@@ -55,12 +62,6 @@ Learn more about QA test plans. These should contain test execution logs for QA 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan
 -->
 
-### [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/Check-in%20Release%20Plan.md)
-
-<!-- 
-Template for release plan
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md
--->
 
 ### [Coverage for References](google.com) and [Summary(Defects)](google.com) reports in TestRail.
 
