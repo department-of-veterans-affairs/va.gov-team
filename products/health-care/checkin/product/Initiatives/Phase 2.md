@@ -65,12 +65,14 @@
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Some Veterans have voiced opinions that even with the mobile check-in capability, they would still choose to check-in with a staff member. 
+  - Generational factors also will come into play. Both Veternas and staff have mentioned that many Veterans will most likely choose to keep the process of checking in the same, even with the digital experience available. Opinions did differ based on a younger generation of Veterans, which we observed in usability. 
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Cell service 
   - WiFi signal 
+  - Does the Veteran have a smartphone? 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - e.g. testing, marketing, compliance requirements
 
