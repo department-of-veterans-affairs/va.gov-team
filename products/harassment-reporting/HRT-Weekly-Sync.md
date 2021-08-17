@@ -24,12 +24,13 @@
 
 </details>
 
-## August 12, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
+## August 19, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
 ### Action items:
 1. Program/Stakeholder Update - @Soni/Josh
 2. Mobile Design Update - Requests for Information needed? @Cassandra 
 3. Update: Content will be taking for pass this week, then we'll finalize following week ISO design finalization
-4. Roundtable Questions, Comments. 
+4. LoROTA capability Itro: “low risk one time authentication”. Currently, to get around a veteran having to have a va.gov account set up, this authentication method verifies identity based on the phone number listed in Vista. 
+5. Roundtable Questions, Comments. 
 
 ### Next Steps 
 - Deisgn Mockups --> Prototypes --> User Research (August to mid-September) 
