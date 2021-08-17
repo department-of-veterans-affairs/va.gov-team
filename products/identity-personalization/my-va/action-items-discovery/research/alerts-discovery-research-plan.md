@@ -45,8 +45,6 @@ In many past user interviews, users have expressed the importance of having rele
 ## Method
 
 - We will be running remote moderated usability testing via Zoom on mobile using the Perigean contract.
-
-- We will conduct an initial [card sort exercise](https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646). We will use Mural to help the Veteran sort which notifications are highest priority. The moderator (Tressa) will manage all the interactions on Mural, since we think Veterans might have trouble navigating this tool themselves.  
 - This will be followed by a qualitative interview, using a [prototype in UX-pin.](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348)
 
 ## Participants and Recruitment
@@ -109,11 +107,11 @@ August 12
 
 ### Pilot: Please indicate a date before your sessions begin for piloting your research. 
 
-* Aug 18; TBD
+* Aug 18; 4-5 ET
 
 ### Which member of the design team will you pilot your research with?
 
-* TBD
+* Candy Clark
 
 ## Team Roles
 * Moderator: Tressa Furner (tressa.furner@adhocteam.us) or Liz Lantz (liz.lantz@adhocteam.us)
