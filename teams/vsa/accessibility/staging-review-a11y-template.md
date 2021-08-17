@@ -68,7 +68,8 @@ You **must** complete one of the two following options:
 - Anyone else from your team who significantly contributed to the artifacts provided (required): [Insert names here]
 
 ### VFS Attendees (if applicable)
-- VFS Content and IA: Mikki
+<!-- Delete any of the below if they are not applicable for your meeting -->
+- Content and IA: Mikki
 - Accessibility: Josh, Angela
 - QA specialists: Tze
 
