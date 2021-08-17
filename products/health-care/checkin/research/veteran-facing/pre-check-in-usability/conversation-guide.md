@@ -25,7 +25,6 @@ Before we start, a few things I want to mention:
 * During this session, we'll be doing two things:
   * First, I'll start by asking you a few questions about your past check-in experiences.
   * Then, I'll send you a link to a pre-check-in prototype that I'll have you review.
-  * For the last part of the session, we'll complete a short card sort exercise to help us prioritize what tasks you would like to complete at home.
 * If for any reason and at any time you want to stop the session, please let me know.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -38,7 +37,6 @@ Start recording.
 Now, I’m going to ask you to think about your very last medical appointment that you actually went to the VA facility for.
 
 * Can you describe checking in for that medical appointment?
-  * Overall, how would you describe that experience? Was it a good or bad experience? Easy or hard?
     * What did you like about it?
     * What did you not like about it?
 * You checked in via [the method they mentioned in the previous question], but what method do you use most often?
@@ -50,17 +48,17 @@ Now, I’m going to ask you to think about your very last medical appointment th
 
 ## Prototype - 20 minutes
 
-Alright, I want you to pretend that you have an upcoming VA medical appointment and you receive the following email a few days beforehand.
+Alright, I want you to pretend that you have an upcoming VA medical appointment and you receive the following text a few days beforehand.
 
 [UXPin prototype - will update to UXPin once it is ready. The current link is the Sketch working file.](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbrGr18/play)
 
-At this point, I would like you to share your screen, so we can see the email too.
+At this point, I would like you to share your screen, so we can see the text too.
 
-**Email**
-- What are your thoughts about what the email is asking you to do?
-- Would you add anything to this email?
-- Here we are showing an email, but how would you like to be notified that you have these pre-check-in tasks to complete?
- - _Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, text, etc._
+**Text**
+- What are your thoughts about what the text is asking you to do?
+- Would you add anything to this text messages?
+- Here we are showing a text message, but how would you like to be notified that you have these pre-check-in tasks to complete?
+ - _Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, email, etc._
 -  What would you do next? 
  - Go ahead and do that (_assuming they would click the pre-check-in link_).
 
@@ -68,27 +66,17 @@ Things to watch for:
 * Were there any usability issues/points of confusion?
 * General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
-**Following pages in the prototype**
+## Each page in prototype
 - Need to update the prototype, then come back and update with questions.
 
-**After reviewing full prototype**
+## Post-Task Interview - 5 minutes
 - Now that you've seen an example of what this pre-check-in experience could look like, what are your impressions?
+- What would you call this?
 - Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
-- If you could change one thing about the experience, what would it be? 
-
-## Card Sort - 15 minutes
-Now, we'll complete an activity where you will prioritize all the information you could review and update prior to the day of your medical appointment. If you are interested in reviewing/updating all of the items that is great. If you really have no interest in reviewing/udpating any of items, we definitely want to know that too. 
-
-[Card sort](https://adhoc.optimalworkshop.com/optimalsort/en03872b)
-
-_Have them place items in the interested versus not interested groups. Then, have them rank the items within the interested group. Make sure they click finish._
-
 - Are there any other items or information that you would like to review and update prior to your appointment?
-
-## Post-Task Interview - 3 minutes
-* Now that you've used this process, but what would you call this?
-* Do you have any other thoughts on what we talked about today?
-* Any questions for me?
+- If you could change one thing about the experience, what would it be? 
+- Do you have any other thoughts on what we talked about today?
+- Any questions for me?
 
 ## Thank-You and Closing - 2 minutes
 
