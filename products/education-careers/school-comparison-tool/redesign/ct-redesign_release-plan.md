@@ -3,8 +3,8 @@
 ## Phase I: User Acceptance Testing (UAT)
 
 ### Planning:
-- Desired date range or test duration: 07/12-07/16
-- Desired number of users: TBD (EDU Stakeholders)
+- Desired date range or test duration: 07/12-07/16/21
+- Desired number of users: Limited to EDU Stakeholders
 - How you'll recruit the right production test users: EDU Stakeholders
 - How you'll conduct the testing: Provide a test script
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: EDU Stakeholders
@@ -12,20 +12,22 @@
 ### Results:
 - Number of users: x
 - Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Was the data submitted (if any) easy for VA to process?: N/A
 - Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? UX made select updates based on EDU input
+- If yes, what: 
+  - Added "Learn more" content to Comparison page
+  - Switched map location identification from letters to numbers so it's easier to gauge large result sets
 
 ## Phase II: Beta Release Testing
 Remote unmoderated testing on staging with survey. 
 
 ### Planning:
-- Desired date range or test duration: 
-- Desired number of users: 200? (desktop, mobile)
-- How you'll recruit the right production test users: 
-- How you'll conduct the testing: 
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: 
+- Desired date range or test duration: August 25(-ish)- Sept 7, 2021 
+- Desired number of users: 80. Recruiting across various education benefits, Veteran/dependent statuses, users engaging with assistive devices, and device type (desktop & mobile)
+- How you'll recruit the right production test users: Working with Perigean to segment & recruit the array of participants 
+- How you'll conduct the testing: Testing will be asynchronous.  We'll recruit & send instructions via email; participants will engage with the tool & answer survey questions to rate their experience
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: The redesigned Comparison Tool is currently deployed and accessible on staging  
 
 ### Results:
 - Number of users: x
