@@ -20,8 +20,21 @@ In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Te
   - Have a clear list of problems that need to be solved
   - Know where to look or who to ask when they need something
 
-# Executive summary
-TBD
+## Table of Contents
+* [Mission](#mission)
+* [Vision](#vision)
+  * [How do we get there?](#how-do-we-get-there)
+  * [How should the work proceed?](#how-should-the-work-proceed)
+  * [What success might look like](#what-success-might-look-like)
+* [DHM team history](#dhm-team-history)
+  * [Key milestones](#key-milestones)
+  * [OCTO-OCC vision workshops](#octo-occ-vision-workshops)
+* [The bigger picture](#the-bigger-picture)
+  * [Where is the health apartment work situated?](#where-is-the-health-apartment-work-situated)
+  * [How does the health apartment intersect with other VA.gov work?](#how-does-the-health-apartment-intersect-with-other-vagov-work)
+* [Appendix](#appendix)
+  * [Reading material](#reading-material)
+  * [Recommendations](#recommendations)
 
 # Mission
 The Health Apartment Team’s mission is to simplify Veterans’ health experience on the web, picking up where the DHM Team left off. The original DHM Team has fulfilled its mission. Going forward, work on the health apartment will be one of many digital health modernization efforts.
@@ -150,7 +163,7 @@ Since this is a Herculean effort, it's important to have a North Star to guide d
 
 Going forward, the Health Apartment Team will partner with OCTO and OCC staff to guide the work on the VA.gov health experience, including all planned, intended, and envisioned work.
 
-# DHM Team history
+# DHM team history
 The Digital Health Modernization team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the Digital Modernization Strategy, we aim to give Veterans one website to manage all of their VA benefits.
 
 The following describes the key milestones of the team’s journey.
@@ -175,12 +188,12 @@ Mapping the Health Landscape | October - November 2020
   - [Microsoft Teams: Digital Health Modernization Phase 1](https://teams.microsoft.com/l/file/36FF257E-4366-4D29-9D0B-A1F5207F3F4A?tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&fileType=docx&objectUrl=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2FOCTO-Health%2FShared%20Documents%2FDigital%20Health%20Modernization%2FDigital%20Health%20Modernization%20Phase%201.docx&baseUrl=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2FOCTO-Health&serviceName=teams&threadId=19:4966c5d6e2334740a84fd1b4fcb107f7@thread.skype&groupId=d0a820a4-a7fc-4c92-9f4a-a866363c2818)
 
 **DHM product vision | April - June 2021**
-- Designed and held vision workshops
+- Designed and held vision workshops with OCTO and OCC leadership
 
 **Appointments consolidation | July 2021**
 - Began collaborating with My HealtheVet
 
-## Vision workshops
+## OCTO-OCC vision workshops
 From April to June 2021, the DHM Team led a series of 4 workshops with OCTO and OCC leadership to define a vision to simplify Veterans’ health experience on the web, as well as a path forward for realizing that vision.
 
 The workshop series was designed to help OCTO and OCC align and work together. In the past, OCTO and OCC have operated independently, both creating software, often with overlapping or redundant content and functionality. Equally dedicated to improving the health experience for Veterans, OCTO and OCC have complementary skill sets:
@@ -239,14 +252,14 @@ For the past few years, OCTO has led the Digital Modernization Council, working 
 - Every digital service will be customized to the individual using it.
 - Interacting with VA digital services will feel like navigating TurboTax, not filling out a form.
 
-### How does the health apartment intersect with other VA.gov work?
+## How does the health apartment intersect with other VA.gov work?
 
-#### Appointments
+### Appointments
 As part of planned work for the health apartment, the VAOS team and My HealtheVet team are collaborating on a gap analysis and user research in order to consolidate the appointment experience into VAOS on VA.gov. Appointments/VAOS will be the first tool to move into the health apartment.
 
 [Go to the Microsoft Teams channel where VAOS and My HealtheVet are collaborating on appointments analysis.](https://teams.microsoft.com/l/channel/19%3a75a7b4c89a6148c784e0336ecc42c339%40thread.t[…]-071bbc4e7ea3&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 
-#### Notifications
+### Notifications
 After consolidating appointments into VAOS, the team will do a gap analysis and user research in preparation for moving all appointment-related notifications to VA.gov. This work will involve not only My HealtheVet and VAOS, but two other VA.gov teams: My VA and VA Notify.
 
 **My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept).
@@ -259,7 +272,7 @@ After consolidating appointments into VAOS, the team will do a gap analysis and 
 
 As part of the DHM Team's workshop series, OCC agreed to leverage the VANotify platform moving forward. My VA, VANotify, and the Health Apartment Team will work together to provide centralized notifications on VA.gov.
 
-#### Sign-in
+### Sign-in
 In January 2021, the OCTO Identity team spearheaded a strategy to consolidate pathways and tools for Veterans to sign in to VA products and services. This strategy will help deliver on the promise of this Digital Modernization principle: “Every service is accessible from a single 'front door' experience.”
 
 Veterans will be directed to VA.gov/sign-in to authenticate, regardless of which VA website they are on. The identity strategy identifies one private credential (ID.me) and one public credential (Login.gov) for Veterans to choose from. Over the long term, existing credentials (including My HealtheVet and DSLogon) will be deprecated.
@@ -272,10 +285,10 @@ Several ongoing privacy and security initiatives support the identity strategy a
 
 The DHM Team created the health apartment design concept with the assumption that a sign-in solution will be implemented before products are moved from My HealtheVet to VA.gov. We recommend that the Health Apartment Team coordinate with the OCTO Identity Team to share updates and research findings, as well as coordinate on key initiatives.
 
-#### Flagship mobile app
+### Flagship mobile app
 In June 2021, the OCTO Mobile team launched the native mobile app MVP. Combining both VA benefits and health care tools in a single interface, the app is an early proof of concept for the health vision. While DHM aligned OCC and OCTO leadership on this vision, the Mobile Team created momentum bottom-up through [co-designing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-summary.md) and collaborating directly with the My HealtheVet team.
 
-#### Medical finances
+### Medical finances
 [In our generative research study,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md) we learned that a major pain point for Veterans was having to navigate outside of My HealtheVet for medical financial tasks. Two common tasks include 1) viewing and paying a medical copayment, and 2) requesting travel pay. VBA reimburses Veterans for expenses incurred traveling to any VA appointment.
 
 The Debt Resolution Team has created a tool on VA.gov to help Veterans quickly and easily understand if and why they owe VA money and how to work with VA to pay it.
@@ -286,14 +299,14 @@ In the short term, the Debt Resolution Team will coordinate with My HealtheVet t
 
 *Talk to Chris J about progress on BTSSS travel pay work.*
 
-#### Authenticated home page
+### Authenticated home page
 The unauthenticated and authenticated VA.gov homepage currently share the same design. At this time, the My VA dashboard is separate from the authenticated homepage. The future vision is for My VA evolve into the authenticated homepage for VA.gov. [Read the background here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#logged-in-homepage--my-va-pivot)
 
 This summer, the team launched My VA 2.0. This second iteration has already seen some [early success](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#what-we-can-do-in-the-next--1--2-quarters-100-foot-view-q2--q3-2021) with Veterans engaging with the new My VA.
 
 To design a cohesive authenticated experience, the Health Apartment Team will need to collaborate with the My VA Team and others on the Account Experience Crew. Work on authenticated and unauthenticated navigation strategy and implementation will also involve the Sitewide Crew.
 
-#### Content and navigation
+### Content and navigation
 The [Health Care benefit hub on VA.gov](https://www.va.gov/health-care/) (below) gives Veterans the information and tools they need to get and manage their health benefits. While VAOS is located in the Health Care benefit hub, the hub links to My HealtheVet for Prescriptions, Secure Messaging, and Medical Records. And it links to AccessVA for travel pay.
 
 <p align="center"><img src="assets/health-care-hub-and-sub-page_8-16-2021.jpg" alt="Health Care hub page and sub page" height="800"></p>
