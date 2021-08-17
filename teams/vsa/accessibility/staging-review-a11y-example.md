@@ -20,7 +20,7 @@
 
 ## Artifacts
 
-### [Scope of review](https://staging.va.gov/health-care/appointment-check-in/?id=xxxxxxxxxx)
+### [Scope of review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md)
 
 <!-- 
 Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. We recommend using this [accessible staging account template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md).
