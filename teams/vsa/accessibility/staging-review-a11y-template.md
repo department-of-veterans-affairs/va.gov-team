@@ -62,12 +62,18 @@ You **must** complete one of the two following options:
 - Issue 3
 
 ## Meeting Attendees
-- Product Manager (required): [Insert name here]
-- OCTO-DE Product lead (recommended): [Insert name here]
-- OCTO-DE Design lead (required): Ryan Thurlwell
-- Anyone else from your team who significantly contributed to the artifacts provided (required): [Insert names here]
 
-### VFS Attendees (if applicable)
+### Important Attendees
+- Product Manager: [Insert name here]
+- OCTO-DE Product lead: [Insert name here]
+- OCTO-DE Design lead: Ryan Thurlwell
+
+### Team Members
+<!-- Add anyone from your team who significantly contributed to the artifacts provided, otherwise, delete list -->
+- [Insert name here]
+- [Insert name here]
+
+### VFS Attendees
 <!-- Delete any of the below if they are not applicable for your meeting -->
 - Content and IA: Mikki
 - Accessibility: Josh, Angela
