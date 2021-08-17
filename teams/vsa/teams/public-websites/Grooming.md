@@ -42,6 +42,7 @@ None
 - [ ] Manual migration of accordions web components in content build [#26280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26280) 
 - [ ] Update links to IRIS and GI Bill systems on the Contact Us page from Ask VA Team on the VRM product line [#28848](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28848)
 
+What else is needed for Banners migration work? 
 
 ### Future Work Grooming: 
 New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
