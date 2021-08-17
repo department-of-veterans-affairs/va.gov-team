@@ -28,7 +28,7 @@
 
 - 2021 Priorities
   - **New**
-    - Harassment Reporting Tool
+    - Harassment Reporting Tool (Designs, Interactive Mockups, User Research, FE Build)
   - **Iterate**
     - Campaign Landing Page
       - Finalized [Governance model with stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/governance-model/read-me.md)
@@ -78,6 +78,9 @@
 
   - **On the Radar**
     - Mission Act page goes away in Sept 30th.   Jenny H-L is helping us determine what happens (she seemed keen on the idea of redirecting to Mission Act to the Community Care page - https://www.va.gov/COMMUNITYCARE/).  Danielle is also involved in figuring this out.
+  
+  - **Ideation**
+    - Combined diability calulator:  Possibly interate on this elemenet as many open source options exist for Veterans however the VA.gov should be the standard for Veterans and the current calulator is currently missing elements to support a more fluid UX. 
 
 ## Search & Discovery
 
