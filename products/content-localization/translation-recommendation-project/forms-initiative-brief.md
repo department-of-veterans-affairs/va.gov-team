@@ -143,13 +143,12 @@ We will also gain a better understanding of how to scale translation for Forms f
 ---
 
 #### Communications
-
-<details>
-
-- Team Name: Content & Localization
-
 Where will you discuss this initiative?
 
+<details>
+  
+
+- Team Name: Content & Localization
 - GitHub Label(s): vsa-content-localization
 - Slack channel: https://dsva.slack.com/archives/C01GCADCMQT 
 
