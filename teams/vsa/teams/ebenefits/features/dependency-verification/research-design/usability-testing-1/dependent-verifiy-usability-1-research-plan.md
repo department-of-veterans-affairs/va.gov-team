@@ -51,6 +51,11 @@ Test user 108 is reserved for this test.
 - 	vets.gov.user+108@gmail.com	
 - 	295SsNrLgPv5
 
+Test user 50
+vets.gov.user+50@gmail.com	
+308SsNrLgPv5
+
+
 Test user 15 is reserved for this test.
 - vets.gov.user+15@gmail.com
 - 363SsNrLgPv5
