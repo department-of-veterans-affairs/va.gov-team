@@ -67,11 +67,17 @@ Things to watch for:
 * General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
 **Introduction page**
+
 **Contact information**
+
 **Modal**
+
 **Next of kin**
+
 **Insurance**
+
 **Questionnaire**
+
 **Confirmation page**
 
 ## Post-Task Interview - 5 minutes
