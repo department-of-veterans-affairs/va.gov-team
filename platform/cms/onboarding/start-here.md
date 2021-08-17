@@ -1,6 +1,4 @@
-[DOC]
-Start Here
-Welcome to the CDC Prime Team! If you haven't received the "CDC PRIME New Team Member Welcome Guide," click here to download the interactive guide.
+Welcome to the VFS-CMS Team!
 
 Onboarding Materials
 The onboarding materials below are organized and linked up in the "CDC PRIME New Team Member Welcome Guide." For an enhanced experience, we encourage new team members to use the interactive guide to access these onboarding materials. (If you're a returning user, you can come to this section any time to refresh your knowledge on a specific topic covered below.)
