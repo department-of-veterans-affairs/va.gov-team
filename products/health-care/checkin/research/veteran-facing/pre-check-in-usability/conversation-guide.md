@@ -66,8 +66,13 @@ Things to watch for:
 * Were there any usability issues/points of confusion?
 * General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
-## Each page in prototype
-- Need to update the prototype, then come back and update with questions.
+**Introduction page**
+**Contact information**
+**Modal**
+**Next of kin**
+**Insurance**
+**Questionnaire**
+**Confirmation page**
 
 ## Post-Task Interview - 5 minutes
 - Now that you've seen an example of what this pre-check-in experience could look like, what are your impressions?
