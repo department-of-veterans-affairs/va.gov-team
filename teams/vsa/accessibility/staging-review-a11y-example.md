@@ -42,7 +42,18 @@ This may include mockups, prototypes, github markdown files, Word document/outli
 - [Prototype](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbxZp4L/play)
 - [Staging] - **TBD**
 
-### [Github ticket that shows work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan) for creating and/or updating any relevant static content pages and entry points for this project
+### [Updates to content pages and entry points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan) 
+
+<!--
+This should be a github ticket that shows work for creating and/or updating any relevant static content pages and entry points for this project
+-->
+
+### Product [test cases](google.com) and [test plan](google.com) in TestRail.
+
+<!--
+Learn more about QA test plans. These should contain test execution logs for QA review.
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan
+-->
 
 ### [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/Check-in%20Release%20Plan.md)
 
@@ -51,14 +62,7 @@ Template for release plan
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md
 -->
 
-### Product [test cases](https://dsvavsp.testrail.io/index.php?/suites/view/35&group_by=cases:section_id&group_order=asc&display_deleted_cases=0&group_id=1348) and [test plans](https://dsvavsp.testrail.io/index.php?/plans/view/1987) in TestRail with test execution logs for QA review
-
-<!--
-Learn more about QA test plans
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan
--->
-
-### [Coverage for References](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan) and [Summary(Defects)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan) reports in TestRail for QA review
+### [Coverage for References](google.com) and [Summary(Defects)](google.com) reports in TestRail.
 
 <!-- 
 Template for Coverage for References
