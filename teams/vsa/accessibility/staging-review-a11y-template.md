@@ -1,5 +1,6 @@
 # Staging Review: [team name] [feature name]
 
+
 ## Action items
 
 ### VFS Product Manager
@@ -17,6 +18,7 @@
 - [ ] Schedule meeting with Platform reviewers and requesting team attendees (as listed below)
 - [ ] Create feedback tickets and link to the Staging Review ticket (if no feedback, please comment stating that). 
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+
 
 ## Artifacts
 
@@ -104,6 +106,7 @@ List known issues or delete if there are none.
 - Issue 2
 - Issue 3
 
+
 ## Meeting Attendees
 
 ### Important Attendees
@@ -138,6 +141,7 @@ Please note:
 - When you reserve a time slot, the reserved meeting will show up alongside the [STAGING BLOCK]. 
 - Please select a time slot at least 4 business days from request date.
 -->
+
 
 ## Additional information
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) on Platform website for more information about the Collaboration Cycle.
