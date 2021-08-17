@@ -26,7 +26,7 @@ In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Te
   * [How do we get there?](#how-do-we-get-there)
   * [How should the work proceed?](#how-should-the-work-proceed)
   * [What success might look like](#what-success-might-look-like)
-* [DHM team history](#dhm-team-history)
+* [DHM Team history](#dhm-team-history)
   * [Key milestones](#key-milestones)
   * [OCTO-OCC vision workshops](#octo-occ-vision-workshops)
 * [The bigger picture](#the-bigger-picture)
@@ -163,15 +163,15 @@ Since this is a Herculean effort, it's important to have a North Star to guide d
 
 Going forward, the Health Apartment Team will partner with OCTO and OCC staff to guide the work on the VA.gov health experience, including all planned, intended, and envisioned work.
 
-# DHM team history
-The Digital Health Modernization team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the Digital Modernization Strategy, we aim to give Veterans one website to manage all of their VA benefits.
+# DHM Team history
+The Digital Health Modernization team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the [Digital Modernization Strategy,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf) we aim to give Veterans one website to manage all of their VA benefits.
 
 The following describes the key milestones of the team’s journey.
 
 ## Key milestones
-Mapping the Health Landscape | October - November 2020
+**Mapping the Health Landscape | October - November 2020**
 - Conducted OCTO stakeholder interviews to understand the intersection of health and VA.gov
-- [Gathered web analytics for My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/DHM-onboarding-edits/products/health-care/digital-health-modernization/analytics/MHV-Google_Analytics_Late-2020.pdf]
+- [Gathered web analytics for My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/DHM-onboarding-edits/products/health-care/digital-health-modernization/analytics/MHV-Google_Analytics_Late-2020.pdf)
 - Began mapping the health landscape. Below is a partial view, intended to convey the vastness of the health landscape at VA. For the full view, [go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). 
 ![Health landscape](assets/health-people-products-systems-map_detail.png)
 
@@ -247,7 +247,7 @@ The vision for the health apartment supports OCTO’s mission, vision, and North
 - Increase the quality and reliability of VA services.
 
 ### Digital Modernization Council
-For the past few years, OCTO has led the Digital Modernization Council, working with executives across VA to modernize online services for Veterans. The Digital Modernization Strategy, defined in July 2017, continues to guide our design and technology decisions:
+For the past few years, OCTO has led the Digital Modernization Council, working with executives across VA to modernize online services for Veterans. The [Digital Modernization Strategy,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf) defined in July 2017, continues to guide our design and technology decisions:
 - VA will deliver self-service tools on par with top private sector companies and will have the best online experience in the federal government.
 - Every digital service will be customized to the individual using it.
 - Interacting with VA digital services will feel like navigating TurboTax, not filling out a form.
