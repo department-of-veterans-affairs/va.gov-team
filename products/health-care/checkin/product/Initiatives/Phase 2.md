@@ -74,7 +74,7 @@
   - WiFi signal 
   - Does the Veteran have a smartphone? 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - e.g. testing, marketing, compliance requirements
+  - Similar to the technicl risks mentioned, there may be organizational risks/constraints depending on facility/clinic location and cell reception that would be needed. 
 
 ### Hypotheses & Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
