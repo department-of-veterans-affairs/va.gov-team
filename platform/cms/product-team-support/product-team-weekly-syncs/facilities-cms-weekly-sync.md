@@ -32,6 +32,8 @@
     * Link creation (inline links, appropriate labels, etc)
     * Duplicate national content
     * Rich text formatting (bullets)
+  * Restricting number of "Prepare for Visit" Accordions to 5
+  * Elaborating on the content intent in the editorial experience
 
 ## August 11
   * Fix for grainy photos and potential risks
