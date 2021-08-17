@@ -47,6 +47,8 @@ None
 ### Future Work Grooming: 
 New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
 
+Outreach and Events - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md) 
+
 ### Icebox Items (Relevancy - Delete)
 - [ ] Implement recommendations to flatten level 4+ child pages in benefit hubs, in the nav [#8060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8060)
 
