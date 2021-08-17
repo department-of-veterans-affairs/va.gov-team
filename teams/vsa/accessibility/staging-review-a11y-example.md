@@ -20,7 +20,7 @@
 
 ## Artifacts
 
-### [Artifact in staging and scope of review](https://staging.va.gov/health-care/appointment-check-in/?id=xxxxxxxxxx)
+### [Scope of review](https://staging.va.gov/health-care/appointment-check-in/?id=xxxxxxxxxx)
 
 <!-- 
 Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. We recommend using this [accessible staging account template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md).
@@ -40,7 +40,7 @@ This may include mockups, prototypes, github markdown files, Word document/outli
 -->
 
 - [Prototype](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/QbxZp4L/play)
-- [Staging] - **TBD**
+- [Staging](https://staging.va.gov/health-care/appointment-check-in/?id=xxxxxxxxxx)
 
 ### [Updates to content pages and entry points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan) 
 
