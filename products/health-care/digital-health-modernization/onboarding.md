@@ -214,7 +214,7 @@ In our first workshop with OCTO and OCC leadership, we asked the group what it w
 
 In addition to hiding the plumbing, leadership agreed that VA should provide a personalized experience for all benefits, in line with the Digital Modernization Strategy below. In [our generative research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md), we observed participants struggling to understand their eligibility for VA benefits. In particular, participants were confused about the nuanced ways eligibility for health care and disability benefits differ. These findings underscore the value of a personalized view of VA benefits that shows the connections between health care and disability.   
 
-For the second OCTO-OCC leadership workshop, we created 3 concepts for how to “hide the plumbing” and connect health with other VA benefits. All the concepts would:
+For the second OCTO-OCC leadership workshop, [we created 3 concepts for how to “hide the plumbing” and connect health with other VA benefits.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1619564345817/2907c538199617dfdbae8131d8c806083b4025f2?sender=uaf2e527a10dad9fb94a02129) All the concepts would:
 - Improve the Veteran health experience
 - Make My HealtheVet’s and VA.gov’s designs more similar, with both using the [VA.gov Design System](https://design.va.gov/)
 - Result in the My HealtheVet and VA.gov teams working together more closely
@@ -262,7 +262,7 @@ As part of planned work for the health apartment, the VAOS team and My HealtheVe
 ### Notifications
 After consolidating appointments into VAOS, the team will do a gap analysis and user research in preparation for moving all appointment-related notifications to VA.gov. This work will involve not only My HealtheVet and VAOS, but two other VA.gov teams: My VA and VA Notify.
 
-**My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept).
+**My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept). 
 
 <p align="center"><img src="assets/My-VA-2-point-0-mockup.jpg" alt="My VA 2.0 mockup" height="800"></p>
 
@@ -289,15 +289,20 @@ The DHM Team created the health apartment design concept with the assumption tha
 In June 2021, the OCTO Mobile team launched the native mobile app MVP. Combining both VA benefits and health care tools in a single interface, the app is an early proof of concept for the health vision. While DHM aligned OCC and OCTO leadership on this vision, the Mobile Team created momentum bottom-up through [co-designing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-summary.md) and collaborating directly with the My HealtheVet team.
 
 ### Medical finances
-[In our generative research study,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md) we learned that a major pain point for Veterans was having to navigate outside of My HealtheVet for medical financial tasks. Two common tasks include 1) viewing and paying a medical copayment, and 2) requesting travel pay. VBA reimburses Veterans for expenses incurred traveling to any VA appointment.
+[In our generative research study,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md) we learned that a major pain point for Veterans was having to navigate outside of My HealtheVet for medical financial tasks. Two common tasks include 1) viewing and paying a medical copayment, and 2) requesting travel pay. The VA reimburses Veterans for expenses incurred traveling to any VA appointment.
 
-The Debt Resolution Team has created a tool on VA.gov to help Veterans quickly and easily understand if and why they owe VA money and how to work with VA to pay it.
+The **Debt Resolution Team** has created a tool on VA.gov to help Veterans quickly and easily understand if and why they owe VA money and how to work with VA to pay it.
 
 In Summer 2021, the team has been [designing the medical copayment tool MVP on VA.gov.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays) Their discovery research validated findings from our study: that Veterans expect to find information about their VA medical bills with the rest of their health tools and information on My HealtheVet.
 
 In the short term, the Debt Resolution Team will coordinate with My HealtheVet to provide meaningful connections between My HealtheVet and VA.gov. Long term, the Health Apartment Team will coordinate with the Debt Resolution Team to design financial information and tools in the apartment.
 
-*Talk to Chris J about progress on BTSSS travel pay work.*
+As of August 2021, OCTO is exploring consolidating the travel pay experience in VA.gov. Although VA.gov provides content about travel pay, Veterans must navigate to another website--access.va.gov--to submit a request through the Beneficiary Travel Self-Service System (BTSSS). At the time of writing, work has yet to begin. 
+
+### Check-in
+The check-in team is reimagining the ecosystem that allows a Veteran to check-in for a VA medical appointment. As of August 2021, the team is aiming to pilot an MVP of the product later this month. [Go to the team's GitHub repo.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin) 
+
+The product allows Veterans to use their mobile device to let the VA know they have arrived for their appointment (to check-in) via VA.gov. The Health Apartment team should coordinate with this team to consider how to support the entire appointment journey. 
 
 ### Authenticated home page
 The unauthenticated and authenticated VA.gov homepage currently share the same design. At this time, the My VA dashboard is separate from the authenticated homepage. The future vision is for My VA evolve into the authenticated homepage for VA.gov. [Read the background here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#logged-in-homepage--my-va-pivot)
@@ -344,6 +349,21 @@ Strategies from previous attempts to do similar projects.
 - [Ad Hoc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/VA.gov%20Health%20Portal.docx)
 - [VA OCTO](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/2020.1.10%20readout%20%20(1).pptx)
 - [By Light](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/MHV_Going%20Forward_White_Paper_Dec_20.2019.docx)
+
+## Directory of points of contact
+
+Use this to connect with teams referenced throughout this document. 
+
+| Team | OCTO Crew | Slack Channel | GH Repo | Relevant Projects |
+| ---- | ---- | ---- | ---- | ---- | 
+| My VA | Account Experience | [@vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) | [My VA repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va) | auth homepage; notifications; check-in; appointments; medical finances |
+| VANotify | Account Experience | [@va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) | [VANotify repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md) | notifications; auth homepage; check-in; appointments; mobile |
+| VeText | Account Experience | [@vetext-notifications](https://dsva.slack.com/archives/C01D2T36XLL) | [VeText repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext) | notifications; appointments; check-in |
+| Mobile | Mobile Experience | [@va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ) | [Mobile repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app) | mobile; notifications; sign-in; appointments |
+| VSP Identity | Account Experience | [@vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) | [Identity repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)| sign-in; mobile |
+| VAOS | Health | [@vaos-team](https://dsva.slack.com/archives/CMNQT72LX) | [VAOS repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling)| appointments; notifications; check-in |
+| Check-in (VSA Healthcare Experience team) | Health | [@check-in-experience](https://dsva.slack.com/archives/C022AC2STBM) | [Check-in repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md) | check-in; appointments; medical finances |
+| Debt Resolution (Benefits and Memorials 2) | Benefits | [@vsa-debt](https://dsva.slack.com/archives/CPE4AJ6Q0) | [Debt Resolution repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution) | medical finances; check-in; auth homepage |
 
 ## Recommendations
 If the current product person were to remain in his role, this is what he’d advocate.
