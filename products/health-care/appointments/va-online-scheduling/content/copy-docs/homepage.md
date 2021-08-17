@@ -18,31 +18,59 @@ Primary and specialty care appointments are available.
 
 (H1) VA online scheduling
 
-Primary and specialty care appointments are available.
+Schedule primary or specialty care appointments.
 
 (CTA) Start scheduling
-
-(H2) Your appointments
 
 ---
 
 ### Appointment List Options
 
+#### Upcoming
+
+(H2) Your appointments
+
 Show by status
 
 {Upcoming, Requested, Past, Canceled}
 
+---
+
 #### Requests
 
-Your appointment requests are listed below. Older requests are at the top of the list. These appointments haven't been scheduled.
+(H2) Requested
+
+Show by status
+
+{Upcoming, Requested, Past, Canceled}
+
+Below is your list of appointment requests that haven’t been scheduled yet.
+
+---
 
 #### Past
 
+(H2) Past appointments
+
+Show by status
+
+{Upcoming, Requested, Past, Canceled}
+
 Select a date range
 
-{Past 3 months, All of {current year}, All of {prior year}}
+{Past 3 months, All of {current year}, All of {prior year}, {5 months prior} - {3 months prior}, {8 months prior} - {6 months prior}, {11 months prior} - {9 months prior}}
 
 (CTA) Update
+
+---
+
+#### Canceled
+
+(H2) Canceled appointments
+
+Show by status
+
+{Upcoming, Requested, Past, Canceled}
 
 ---
 
@@ -99,6 +127,8 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 (link) Schedule an appointment
 
+---
+
 #### Requests
 
 You don't have any appointment requests
@@ -107,6 +137,7 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 (link) Schedule an appointment
 
+---
 
 #### Past
 
@@ -116,6 +147,7 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 (link) Schedule an appointment
 
+---
 
 #### Canceled
 
