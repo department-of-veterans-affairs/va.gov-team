@@ -32,7 +32,7 @@
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
   *  Veterans need and want the ability to participate in a more secure experience when checking in for an appointment on a mobile device. This was called out by 50% of Veterans who participated in usability testing with the Check-in MVP.
-  *  Veterans also expressed the need to see multiple appointments on a simgle day.  
+  *  Veterans also expressed the need to see multiple appointments on a single day. With the current MVP, Veterans can only check-in if there is a single appointment for that day, and many times there are more than one appointments scheduled. 
 
 <!--
 ## Desired User Outcomes
