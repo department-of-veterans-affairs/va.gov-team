@@ -52,8 +52,10 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+- Number of Veterans who successfully checked in through mobile. 
+  - Comparative analyis between Check-in MVP and new iteration.
+    - Did the addition of Last4/LastName for identity verification reduce overall checkiin rate? 
+- Number of Veterans with multiple appointments in a day. 
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
