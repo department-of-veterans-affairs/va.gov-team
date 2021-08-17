@@ -87,9 +87,7 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
 * Can you explain to me what we're looking at?
 * What are your thoughts about what this page is showing you?
   * What are your thoughts about seeing all of your appointments for the day on one screen?
-  * What do you think you have to do to check-in for another appointment (after you already checked in for one)? 
-    * What are your thoughts about that?
-    * What do you think about the possibility that there are multiple appointments eligible for check-in right now, but only being able to select one to complete check-in.
+* What do you think about the possibility that there are multiple appointments eligible for check-in right now, but only being able to select one to complete check-in.
   * What are your thoughts about seeing these other types of appointments on this page?
     * an appointment you already checked in for.
     * an appointment that is past the time where you are able to check-in for from your phone.
@@ -103,6 +101,8 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
   * Why?
 * Have you ever scheduled an appointment on VA.gov?
   * If so, what you do think about this appointment list versus your experience with VA online scheduling?
+* What do you think you have to do to check-in for another appointment (after you already checked in for one)? 
+  * What are your thoughts about that?
 
 **Confirmation page**
 * What are your thoughts about this page?
