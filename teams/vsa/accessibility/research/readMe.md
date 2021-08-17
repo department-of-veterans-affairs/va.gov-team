@@ -69,7 +69,7 @@ Thank you to the following individuals who contributed to these guidelines:
 - Joshua Kim
 - Jennifer Strickland
 - Angela Fowler
-- Maria Vidart
+- Maria Vidart-Delgado
 - Shawna Hein
 - Emily Mann
 - Meli Manak
