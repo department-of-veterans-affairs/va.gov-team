@@ -104,7 +104,7 @@ Please select your preferred time slot per the Platform Collaboration Meetings C
 https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York.
 -->
 
-**[07/29/2021, 2:00pm - 2:30pm EST]**
+**07/29/2021, 2:00pm - 2:30pm EST**
 
 <!-- 
 Please note:
