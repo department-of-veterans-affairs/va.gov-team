@@ -95,9 +95,10 @@ Now, I'm going to have you go back through check-in again. This time I'll ask yo
     * an appointment that is past the time where you are able to check-in for from your phone.
     * an appointment that you are too early to check-in for from your phone.
     * an appointment that isn't eligible for online check-in.
-    * What about virtual (video or phone) appointments?
 * Is there anything you would like to be able to do or see on this page that currently isn't available?
   * Why?
+* Have you ever had a virtual (video or phone) appointments?
+  * Would you expect or not expect virtual appointments to be a part of this check-in experience?
 * Is there anything on this page that isn't useful to you? You would be ok if it was removed.
   * Why?
 * Have you ever scheduled an appointment on VA.gov?
