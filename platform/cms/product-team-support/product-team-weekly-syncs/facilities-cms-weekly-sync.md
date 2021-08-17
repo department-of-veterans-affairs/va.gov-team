@@ -28,6 +28,10 @@
   * staff profiles for care coordinators (and other non-leadership staff profiles)
   * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
   * Social media meta tag overview 
+  * Common content creation errors
+    * Link creation (inline links, appropriate labels, etc)
+    * Duplicate national content
+    * Rich text formatting (bullets)
 
 ## August 11
   * Fix for grainy photos and potential risks
