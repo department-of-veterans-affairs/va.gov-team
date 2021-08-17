@@ -1,13 +1,13 @@
 # Initiative Brief – Translated Forms
-#### Overview
 
+## Overview
 
 
 ## Outcome Summary
 
 Extend our ability to provide translated content to on-line form applications.
 
-To date, we have established an approach for supporting static content pages and are working on recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and as a first step, understand the effort and obstacles that need to be solutioned.
+To date, we have established an approach for supporting static content pages and are working on our recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and as a first step, understand the effort and obstacles that need to be solutioned.
 
 
 - Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
@@ -16,34 +16,33 @@ To date, we have established an approach for supporting static content pages and
 
 What is the problem and who is affected? 
 
-Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language.
+- Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language.
 
 What evidence do we have of the problem?
 
-VA has existing guidance for complying with Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency, 65 Fed. 50,121 (Aug. 16, 2000).
+- VA has existing guidance for complying with Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency, 65 Fed. 50,121 (Aug. 16, 2000).
 
-(Research study underway for Spanish Veterns/caregivers…)
+- (Research study underway for Spanish Veterns/caregivers…)
 
 
-* How does this initiative help further OCTO-DE's mission and goals?
-VA North Star:
+How does this initiative help further OCTO-DE's mission and goals?
+
+- VA North Star:
 •	Veteran satisfaction with VA.gov site
 •	Veterans and their families can apply for benefits online
 •	Drive to self service tools and faster times to outcomes
 •	(Do we have any numbers on cost savings of applying on-line or reduced time to process applications and get benefits??)
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
+- Why would a user want to use this?
 
-On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly (proof point?).
+- On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly (proof point?).
 
-(Note: Cindy’s recent research on just the technical challenges with downloading PDFs).
+- (Note: add Cindy’s recent research on just the technical challenges with downloading PDFs).
 
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- With this problem solved, what should users be able to do/achieve that they couldn't before?
 
-We should see an increase in on-line form applications for xx form from the Spanish speaking population along with a reduction in errors? Quicker time for approvals?
-
+- We should see an increase in on-line form applications for xx form from the Spanish speaking population along with a reduction in errors? Quicker time for approvals?
 
 ## Undesired User Outcomes
 -	VA can't demonstrate progress on translation efforts in a timely way
