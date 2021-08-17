@@ -58,7 +58,7 @@ Alright, I want you to pretend that you have multiple VA medical appointments to
 
 Seeing this poster, what would you do next? 
 
-At this point, I would like you to share your screen, so we can watch you complete the task mentioned on the poster. [Only prompt them if need be in order to complete check-in.]
+At this point, I would like you to share your mobile phone screen with your laptop computer, so we can watch you complete the task mentioned on the poster. [Only prompt them if need be in order to complete check-in.]
 
 Things to watch for:
 
