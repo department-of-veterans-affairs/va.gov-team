@@ -64,7 +64,7 @@ Learn more about QA test plans
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan
 -->
 
-### 8. [Coverage for References](link here) and [Summary(Defects)](link here) reports in TestRail for QA review
+### [Coverage for References](link here) and [Summary(Defects)](link here) reports in TestRail for QA review
 
 <!-- 
 Template for Coverage for References
