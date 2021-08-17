@@ -52,8 +52,7 @@ The vision is to move the following things into the health apartment:
 - Health-related things on [VA.gov](https://www.va.gov/) (examples: apply for health care, medical copays, travel pay, and order hearing aid batteries)
 - Any health related things left on [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage), the VA/Department of Defense website for benefits managed by VBA, Veterans Benefits Administration. Most VBA benefits are not related to health, with the exception of prosthetic socks and hearing aid batteries. For the past year or so, OCTO has gradually been moving eBenefits functionality and content to VA.gov.
 
-<img src="assets/MHV-and-VA-gov-homepages_8-16-2021.jpg" alt="My HealtheVet and VA.gov" height="800" align="center">
-
+<p align="center"><img src="assets/MHV-and-VA-gov-homepages_8-16-2021.jpg" alt="My HealtheVet and VA.gov" height="800"></p>
 *Above, the My HealtheVet (https://www.myhealth.va.gov/) and VA.gov homepages in early August 2021. (The user is not signed in.)*
 
 Since things like disability compensation and claims relate closely to health, the health apartment will have intuitive and meaningful pathways to this content, which lives elsewhere on VA.gov. (Note that VBA, not VHA, administers disability compensation. Also, most claims by Veterans are disability claims, but a Veteran can file a claim related to any VA benefit: health care, pension, housing assistance, etc.)
@@ -251,8 +250,7 @@ After consolidating appointments into VAOS, the team will do a gap analysis and 
 
 **My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept).
 
-<img src="assets/My-VA-2-point-0-mockup.jpg" alt="My VA 2.0 mockup" height="800" align="center">
-
+<p align="center"><img src="assets/My-VA-2-point-0-mockup.jpg" alt="My VA 2.0 mockup" height="800"></p>
 *Above, a mockup of the My VA page that's similar to what launched in Summer 2021.*
 
 **VANotify** is a standardized, self-service platform VA offices can use to implement notifications. The My VA team will build an MVP for notifications supported by VANotify. [See what products are currently supported on VANotify.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#see-who-we-are-working-with)
