@@ -1,5 +1,7 @@
 { On-the-job training summary }
 
+{Card Heading: On-the-job training / Apprenticeship }
+
 # Name of OJT/Apprenticeship Provider
 
 CITY, STATE
