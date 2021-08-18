@@ -1,12 +1,4 @@
-{ CT INTRO }
-
-# GI Bill Comparison Tool
-
-Use the GI Bill Comparison Tool to see how VA education benefits can pay for your education.
-
-{ END OF CT INTRO }
-
-{ SCHOOL COMPARISON HEADER }
+{ COMPARISON HEADER }
 
 ## Institution comparison:
 
@@ -15,20 +7,20 @@ Compare schools, employers, and VET TEC providers side-by-side
 {Checkbox + Icon + Highlight differences}
 
 {Mini Card 1 - Heading: Type of Institution: Display any MSI flags – Institution name }
-Remove 
+[Remove]() 
 
 {Mini Card 2 - Heading: Type of Institution: Display any MSI flags – Institution name }
-Remove
+[Remove]()
 
 {Mini Card 3 - Heading: Type of Institution: Display any MSI flags – Institution name }
-Remove
+[Remove]()
 
 { END OF SCHOOL COMPARISON HEADER }
 
 
 { SUMMARY TABLE }
 
-**Summary**
+### Summary
 
 Location 
 
@@ -104,10 +96,11 @@ Specialized mission (Learn more)
 
 { YOUR ESTIMATED BENEFITS TABLE SECTION }
 
+### Your estimated benefits
 
-{ PAYMENTS MADE TO SCHOOL TABLE }
+{ PAYMENTS MADE TO INSTITUTION TABLE }
 
-**Payments made to  institution**
+#### Payments made to institution
 
 Tuition and fees (Learn more)
 
@@ -131,7 +124,7 @@ Out of pocket tuition
 
 { PAYMENTS MADE TO YOU TABLE }
 
-**Payments made to you**
+#### Payments made to you
 
 Housing allowance (Learn more)
 
@@ -167,7 +160,7 @@ Book stipend (Learn more)
 
 { SCHOOL RATINGS SUMMARY TABLE SECTION }
 
-**Veteran ratings**
+### Veteran ratings
 
 Overall rating
 
@@ -178,7 +171,7 @@ Overall rating
 
 { EDUCATION RATINGS TABLE SECTION }
 
-**Education ratings**
+#### Education ratings
 
 Overall experience
 
@@ -192,7 +185,7 @@ Job preparation
 
 { VETERAN FRIENDLINESS RATINGS TABLE SECTION }
 
-**Veteran Friendliness**
+#### Veteran friendliness
 
 GI Bill support
 
@@ -206,7 +199,7 @@ True to expectations
 
 { CAUTIONARY INFORMATION TABLE SECTION }
 
-**Cautionary information**
+### Cautionary information
 
 Caution flags (Learn more)
 
@@ -233,7 +226,7 @@ Student complaints (Learn more)
 
 { ACADEMICS TABLE SECTION }
 
-**Academics**
+### Academics
 
 Length of VET TEC programs
 
@@ -252,7 +245,7 @@ Credit for military training (Learn more)
 
 { VETERAN PROGRAMS TABLE SECTION }
 
-**Veteran programs**
+### Veteran programs
 
 Yellow Ribbon (Learn more)
 
