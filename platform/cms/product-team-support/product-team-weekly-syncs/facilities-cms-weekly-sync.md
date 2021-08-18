@@ -34,6 +34,7 @@
     * Rich text formatting (bullets)
   * Restricting number of "Prepare for Visit" Accordions to 5
   * Elaborating on the content intent in the editorial experience
+  * Tracking and validate changes in VAST [VAMC facility map fails to load on some detail views #28558](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28558#issuecomment-901097646)
 
 ## August 11
   * Fix for grainy photos and potential risks
