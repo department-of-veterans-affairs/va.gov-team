@@ -410,9 +410,10 @@ At VA, you might hear the phrase "single source of truth." In general, the word 
 Assuming the health apartment is (viable and) a vehicle for perhaps the most important Veteran benefit, health care, we believe that the following aspects of VA.gov will figure heavily into the Veteran and caregiver health experience. Our belief is not supported by specific research, testing, or ideation. The intent in writing this down is to spark thinking about how the apartment, and the promise of the apartment, might inspire us to change other aspects of VA.gov.
 
 #### Authenticated experience / My VA / VA.gov homepage
-- My VA (or something that replaces it) will become the home / destination page for users who create an account and for users who sign in from the homepage. Currently the VA.gov homepage does not have a logged-in state. The Account Experience Crew is using the My VA page to test ideas for a logged-in homepage; eventually they envision that My VA will become the logged-in homepage.
-- The home page must not contradict information in the health apartment (ex., if there are 2 unread health messages that show in the apartment, and the home page displays unread message count, there should be at least 2 unread messages indicated on the home page).
-- The logged-in homepage should not otherwise be constrained by the apartment vision. The team that owns the authenticated home should be free to determine the most valuable things to put on it based on Veteran research and best judgment.
+- Make My VA (or something that replaces it) the home / destination page for users who create an account and for users who sign in from the homepage. Currently the VA.gov homepage does not have a logged-in state. The Account Experience Crew is using the My VA page to test ideas for a logged-in homepage; eventually they envision that an iteration of My VA will become the logged-in homepage.
+- Ensure that the home page does not contradict information in the health apartment (ex., if there are 2 unread health messages that show in the apartment, and the home page displays unread message count, there should be at least 2 unread messages indicated on the home page).
+
+The logged-in homepage should not otherwise be constrained by the apartment vision. The team that owns the authenticated home should be free to determine the most valuable things to put on it based on Veteran research and best judgment.
 
 #### Sitewide navigation
 - Conduct primary taxonomy research (ex., card sorts) based on hypothetical future available tasks and topics, including the health apartment tasks and tools, not “top tasks” currently on VA.gov. Analytics don’t see what people can’t find in navigation.
@@ -428,7 +429,7 @@ Assuming the health apartment is (viable and) a vehicle for perhaps the most imp
   - You get a notification only if it has reached final status or needs an action from you.
 
 #### Profile
-- Read and update [previous thinking](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/MHV%20profile%20recommendations.pdf) on how to consolidate MHV and VA.gov profiles (this is out of date)
+- Read and update [previous thinking](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/MHV%20profile%20recommendations.pdf) on how to consolidate MHV and VA.gov profiles (this is out of date).
 
 #### Login
 - Support Identity Team as needed in implementing universal single sign-on between VA.gov and My HealtheVet. It will make transition far easier if both tech stacks can consistently agree upon the identity of a user and always present the same data.
