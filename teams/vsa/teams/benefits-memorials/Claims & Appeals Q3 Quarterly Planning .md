@@ -24,7 +24,7 @@ Quarter 1 Accomplishments
 Metrics
 -	For new products we’ll do a weekly review
 -	For mature products, we do bi-weekly review, 1 product each time
--	Backend engineers will walk us through the data, FE will do GA. And we’ll have discussion on what it means and what actions we need to take or new product iterations to develop
+-	Backend engineers will walk us through the sentry/grafana data, FE will do GA. And we’ll have discussion on what it means and what actions we need to take or new product iterations to develop
 
 # Quarter 3 Goals
 1.	Release MVP - NOD 
