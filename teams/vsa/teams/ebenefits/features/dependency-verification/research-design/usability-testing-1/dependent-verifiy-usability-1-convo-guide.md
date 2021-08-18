@@ -7,8 +7,7 @@
 ### Setup
 - Make sure modal will proc for both test users.
 - Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
-- In the Attendees section, make sure everyone except the participant is on mute
-- In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
+- Zoom Setup: Turn off "Play Entry/Exit Chimes", allow anyone to share screen, and make sure all observers are on mute.
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time; users will be required to share their screen
 - **Note:** These sessions will be recorded
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-research-plan.md) 
@@ -18,11 +17,11 @@ Good morning/afternoon and thank you for joining us today. My name is `name` and
 
 There are a few things I need to mention before we start:
 - The session should take about 30 minutes, but you can end it at any point--just let me know. 
-- We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item on the list.
 - If you have participated in a usability test before, this should be pretty similar. And, if you haven’t, it’s pretty simple. I will give you a little backstory and then ask you to complete a few tasks based on that scenario.
-- I do want to stress that we are testing ourselves and not **you** in any way. There are no right or wrong answers. We'd like to hear exactly what you think about what we show you so we can make improvements to VA.gov.
-- Please say what's on your mind--good and bad. Any problem you have or confusion you experience is significant and helps us identify areas where we need to improve. I will not be offended by any opinions you express.
-- Today we'll be working with an early version of a feature we're developing. Most things we're testing will work, but some might not. This is not a live web page, so none of your actions will affect your account or any VA information.
+- I do want to stress that we are testing ourselves and not **you** in any way. There are no right or wrong answers and we'd like to hear exactly what you think about what we show you so we can make improvements to VA.gov.
+- It really helps me understand what is working (or not) if you talk out loud as you are complete the tasks.
+- Today we'll be working with an early version of a feature we're developing. Most things we're testing will work, but some might not. If we run into problems, I might switch us over to a less interactive protoype.
+- This is a protoype, but it is not a live web page. None of your actions will affect your account or any VA information.
 - We'd like to record this session. This gives us a record to use for note-taking. The recording will be stored on a private drive and deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - If yes, I'll ask "on the record" once the recording starts.
 - (Start recording) OK now, do I have your permission to record this session?
@@ -35,17 +34,21 @@ There are a few things I need to mention before we start:
 
 We'll be looking at two scenarios today -- both will involve dependents. Since this is just testing, we'll be using a test account with made-up data. 
 
-- Now we're ready to start. OK, now could you share your screen with us? There should be a green button at the bottom of your Zoom screen that says "Share Screen." 
+Now we're ready to start. (I'm going to turn off my video now. You can turn yours off or leave it on, whichever you prefer.) OK, now could you share your screen with us? There should be a green button at the bottom of your Zoom screen that says "Share Screen." 
 - **Just click that, select your screen, and hit share.**
 
+
+
 ## Scenario 1: Verify dependents 
-For the first task, imagine that you have two dependents -- a spouse and one child. You're on VA.gov to get some info about dependents benefits.
+For the first task, I would like for you to imagine that you are on VA.gov to get some info about dependents benefits. You have two dependents - one spouse and one child.
 
 ### Task 1 / Sign-in / 5 minutes 
-User is given a link to a starting page in the VA.gov staging environment and log in info for test user 108. 
+User is given a link to the View Dependents page in the VA.gov staging environment and log in info for test user 108. 
 - Now I have put a link to the page we're starting on in the chat; **please click on it.** (Clicks on link to landing page)
 - To be able to see dependents' information, you'll have to log in. I put the username and password in the chat -- **use these to sign-in.** For this scenario, your name is Morris.
-* You're now on VA.gov and you want to know who the VA has listed as your dependents. **Find your list of dependents.**
+- You're now on VA.gov and you want to know who the VA has listed as your dependents. **Find your list of dependents.**
+
+>Note: User may see VA modal if they have not been to the staging enviornment before. If they cannot clear the modal, send a link to https://staging.va.gov. Have them clear the modal, then go back to the View Dependents URL.
 
 ### Task 2 / Review dependents / 5 minutes 
 Modal intercepts user.
@@ -65,19 +68,19 @@ For this scenario, your dependents should be Veronica Corningston and Quanily Or
 - What other information would you need to confirm these are your dependents or not?
 - If the list of dependents is correct, what would you do next? Go ahead and do that.
 
-And now you've come to this page. What do you see here?
-
 #### Things to look for:
 - Does the user use the “Verify dependents” button or try to bypass the modal in another way?
 - What does the user expect to happen now?
 
+
+
 ## Scenario 2: Update dependents
 OK! Thank you. Before we begin the next task, I need you to sign out of va.gov. Find your name (Morris) in the upper right, click on the drop-down, and select "sign out".
 
-Let's go on to the next scenario. This time, you are going to be Allan and you have one child, Margie. Margie has recently finished school and you want to remove her from your benefits.
+Let's go on to the next scenario. This time, you are going to be Gerald and you have 7 dependents, a spouse and 6 children. One of your kids, Carl, has finished school and you want to remove him from your benefits.
 
 ### Task 1A / Back to start / 2 minutes 
-User is again given the link to the starting page in the VA.gov staging environment and credentials for test user 15. 
+User is again given the link to the starting page in the VA.gov staging environment and credentials for test user 50. 
 - If you can go back to the link in chat; **please click on it.** (Clicks on link to landing page)
 - And, sign in with the username and password I just added to the chat.
 - You are back on VA.gov. Remove Margie from your list of dependents.
