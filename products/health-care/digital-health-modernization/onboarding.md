@@ -302,7 +302,7 @@ In the short term, the Debt Resolution Team will coordinate with My HealtheVet t
 As of August 2021, OCTO is exploring consolidating the travel pay experience in VA.gov. Although VA.gov provides content about travel pay, Veterans must navigate to another website--access.va.gov--to submit a request through the Beneficiary Travel Self-Service System (BTSSS). At the time of writing, work has yet to begin. 
 
 ### Check in for appointments
-The Check-in Team is reimagining the ecosystem that allows a Veteran to check-in for a VA medical appointment. As of August 2021, the team aimed to pilot an MVP of the product before the end of August. [Go to the team's GitHub repo.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin) 
+The Check-in Team is reimagining the ecosystem that allows a Veteran to check in for a VA medical appointment. As of August 2021, the team aimed to pilot an MVP of the product before the end of August. [Go to the team's GitHub repo.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin) 
 
 The product allows Veterans to use their mobile device to let VA know they have arrived for their appointment (to check in) via VA.gov. The Health Apartment Team should coordinate with this team to consider how to support the entire appointment journey. 
 
@@ -358,51 +358,51 @@ Use this to connect with teams referenced throughout this document.
 
 | Team | OCTO Crew | Slack Channel | GH Repo | Relevant Projects |
 | ---- | ---- | ---- | ---- | ---- | 
-| My VA | Account Experience | [@vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) | [My VA repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va) | auth homepage; notifications; check-in; appointments; medical finances |
-| VANotify | Account Experience | [@va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) | [VANotify repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md) | notifications; auth homepage; check-in; appointments; mobile |
-| VeText | Account Experience | [@vetext-notifications](https://dsva.slack.com/archives/C01D2T36XLL) | [VeText repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext) | notifications; appointments; check-in |
+| My VA | Account Experience | [@vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) | [My VA repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va) | auth homepage; notifications; check in; appointments; medical finances |
+| VANotify | Account Experience | [@va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) | [VANotify repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md) | notifications; auth homepage; check in; appointments; mobile |
+| VeText | Account Experience | [@vetext-notifications](https://dsva.slack.com/archives/C01D2T36XLL) | [VeText repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext) | notifications; appointments; check in |
 | Mobile | Mobile Experience | [@va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ) | [Mobile repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app) | mobile; notifications; sign-in; appointments |
 | VSP Identity | Account Experience | [@vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) | [Identity repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)| sign-in; mobile |
-| VAOS | Health | [@vaos-team](https://dsva.slack.com/archives/CMNQT72LX) | [VAOS repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling)| appointments; notifications; check-in |
-| Check-in (VSA Healthcare Experience team) | Health | [@check-in-experience](https://dsva.slack.com/archives/C022AC2STBM) | [Check-in repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md) | check-in; appointments; medical finances |
-| Debt Resolution (Benefits and Memorials 2) | Benefits | [@vsa-debt](https://dsva.slack.com/archives/CPE4AJ6Q0) | [Debt Resolution repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution) | medical finances; check-in; auth homepage |
+| VAOS | Health | [@vaos-team](https://dsva.slack.com/archives/CMNQT72LX) | [VAOS repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling)| appointments; notifications; check in |
+| Check in (VSA Healthcare Experience team) | Health | [@check-in-experience](https://dsva.slack.com/archives/C022AC2STBM) | [Check-in repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md) | check in; appointments; medical finances |
+| Debt Resolution (Benefits and Memorials 2) | Benefits | [@vsa-debt](https://dsva.slack.com/archives/CPE4AJ6Q0) | [Debt Resolution repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution) | medical finances; check in; auth homepage |
 
 ## Recommendations
 If the current product person were to remain in his role, this is what he’d advocate.
 
 ### Team
-- Do something scrum-like rather than kanban-like for iteration planning. The org understands it better. You’ll have an easier time partnering with feds.
-- Use Github Issues or Max.gov JIRA for project management. Those two tools are open to all people you will collaborate with eventually. No other tool is.
-- Use Microsoft Teams and Mural for document collaboration. Do not use Google Docs. Many VA feds cannot use Google Docs. It’s perceived as rude.
-- Use Zoom or Teams for video meetings. Those tools work for virtually all VA feds. Other tools may not.
-- Send a weekly email explaining what the team worked on and why you did it that way (ex., this is why we did a concept test; this is what we learned). Part of the value of this engagement is patterning good product development behavior. OCTO product owners tell us they appreciate our weekly email, that they value being in the loop with our work. Regular communication helps us all "connect the dots" between various health efforts.   
+- **Planning:** Do something scrum-like rather than kanban-like for iteration planning. The org understands it better. You’ll have an easier time partnering with feds.
+- **Project management:** Use Github Issues or Max.gov JIRA for project management. Those two tools are open to all people you will collaborate with eventually. No other tool is.
+- **Document collaboration:** Use Microsoft Teams and Mural for document collaboration. Do not use Google Docs. Many VA feds cannot use Google Docs. It’s perceived as rude.
+- **Meetings:** Use Zoom or Teams for video meetings. Those tools work for virtually all VA feds. Other tools may not.
+- **Weekly updates:** Send a weekly email explaining what the team worked on and why you did it that way (ex., this is why we did a concept test; this is what we learned). Part of the value of this engagement is patterning good product development behavior. OCTO product owners tell us they appreciate our weekly email, that they value being in the loop with our work. Regular communication helps us all "connect the dots" between various health efforts.   
 
 ### Product
-- Early on in proof of concept design, inventory and prioritize technical risks. The concept was developed by non-technical staff and does not account for them.
-- Early on in proof of concept design, identity metrics we think (1) can actually be measured without earth-shattering effort, and (2) reasonably capture Veteran-facing benefit or harm plausibly caused by software we release.
-- Identify a fed (strongly preferably a Veteran, mildly preferably a member of Office of Connected Care / VHA) and groom them to own the resulting health “apartment” on VA.gov from a strategic product management perspective. This thing will grow large and complex. Minimally, it will need someone at the helm able to make difficult decisions in order to keep it maintainable and consistent. Ideally a steward / champion will evolve and disseminate the vision.
-- People will throw risks and concerns at you left and right. To the maximum extent possible, address these by shrinking the problem rather than growing the solution.
-- When building, bear in mind that the front-end-as-perceived-by-Veterans may later need to draw data from several unrelated back-end systems (ex., facilities using VistA as their EHR, and facilities using Cerner — and potentially Community Care facilities using a variety of EHRs, though that’s more pie in the sky at this point).
+- **Technical risks:** Early on in proof of concept design, inventory and prioritize technical risks. The concept was developed by non-technical staff and does not account for them.
+- **Handling risks:** People will throw risks and concerns at you left and right. To the maximum extent possible, address these by shrinking the problem rather than growing the solution.
+- **Metrics:** Early on in proof of concept design, identity metrics we think (1) can actually be measured without earth-shattering effort, and (2) reasonably capture Veteran-facing benefit or harm plausibly caused by software we release.
+- **Ownership:** Identify a fed (strongly preferably a Veteran, mildly preferably a member of Office of Connected Care / VHA) and groom them to own the resulting health apartment on VA.gov from a strategic product management perspective. This thing will grow large and complex. Minimally, it will need someone at the helm able to make difficult decisions in order to keep it maintainable and consistent. Ideally a steward / champion will evolve and disseminate the vision.
+- **Data and systems:** When building, bear in mind that the front-end-as-perceived-by-Veterans may later need to draw data from several unrelated back-end systems (ex., facilities using VistA as their EHR, and facilities using Cerner — and potentially Community Care facilities using a variety of EHRs, though that’s more pie in the sky at this point).
 
 ### Organization
-- Adopt an OCTO-wide planning cadence (probably quarterly) so that cross-team consequences of doubling the complexity and user count of VA.gov can be planned and prioritized in a way that respects teams’ existing commitments.
-- Adopt a formal top-down method for prioritizing cross-team work in OCTO, in sync with the planning cadence. This initiative will not always be in individual teams’ best interest to work on, but it will be in the office’s best interest to override that kind of local optimization.
+- **Planning:** Adopt an OCTO-wide planning cadence (probably quarterly) so that cross-team consequences of doubling the complexity and user count of VA.gov can be planned and prioritized in a way that respects teams’ existing commitments.
+- **Prioritization:** Adopt a formal top-down method for prioritizing cross-team work in OCTO, in sync with the planning cadence. This initiative will not always be in individual teams’ best interest to work on, but it will be in the office’s best interest to override that kind of local optimization.
 
 ### Communication
 We cannot underscore the need for good communication strongly enough. It has been a long road to get here. For several years, OCTO and OCC have been trying to work together in a meaningful and productive way. Both groups have tried hard and felt frustrated and discouraged. Trust has been a major issue. 
 
-As we onboard you, the Health Apartment Team, we are at an exciting and critical stage. We need to nurture the trust we have built between OCTO and OCC over the past few months. We need to be open and honest yet tread carefully. We need to communicate clearly and often, keeping in mind that many in OCC and OCTO, both federal employees and contractors, have worked years to get to this point.
+As the Health Apartment Team onboards, we are at an exciting and critical stage. We need to nurture the trust we have built between OCTO and OCC over the past few months. We need to be open and honest yet tread carefully. We need to communicate clearly and often, keeping in mind that many in OCC and OCTO, both federal employees and contractors, have worked years to get to this point.
 
 Besides sending a weekly email explaining what we worked on and why we did it that way, we have had success doing "tours" or "roadshows." If we need feedback or find ourselves at a decision point, we schedule quick sessions with teams doing related work. Before each tour, we usually prepare a Mural board with activities/questions and use it to guide the discussion. We have learned very important things during these sessions and also made strong connections with other teams in the health space. 
 
 In our conversations across OCC and OCTO, we have found that certain words and ideas resonate with people, while others definitely do not. For example: 
-- The phrase **“digital front door strategy”** has been used at VA for years and resonates widely. In certain contexts, this extends beyond health, meaning that Veterans would use the same digital front door both when they are Veterans (VA) and previously when they are on active service duty (DoD, or Department of Defense). 
-- Everyone believes that Veterans should not have to think about what software they use to fulfill their health care needs. We talk often about creating a unified health experience. Words like "streamlined," "seamless," and "intuitive" also work well.
-- When talking about My HeatheVet going to VA.gov, the idea of "retiring" My HealtheVet has created confusion. Instead we say:
-  - We are reimagining the My HealtheVet *website* as a 'My HealtheVet' section of VA.gov.
-  - We are moving the My HealtheVet *website* into a 'My HealtheVet'-branded section of VA.gov.
-  - We are keeping the My HealtheVet brand; we're just moving things between *websites*. 
- - We are moving the people with the products, from My HealtheVet to VA.gov.
+- The phrase “digital front door strategy” has been used at VA for years and resonates widely. In certain contexts, this extends beyond health, meaning that Veterans would use the same digital front door both when they are Veterans (getting benefits from VA) and previously when they are on active service duty (getting benefits from DoD, the Department of Defense). 
+- Everyone believes that Veterans should not have to think about what software they use to fulfill their health care needs. We talk often about creating a unified health experience. Words like "streamlined," "seamless," and "intuitive" resonate.
+- When talking about My HeatheVet going to VA.gov, the idea of "retiring" My HealtheVet has created confusion, and it's not accurate. Instead we talk about:
+  - Reimagining the My HealtheVet *website* as a 'My HealtheVet' section of VA.gov
+  - Moving the My HealtheVet *website* into a 'My HealtheVet'-branded section of VA.gov
+  - Keeping the My HealtheVet brand and moving things between *websites*. 
+ - Moving the people with the products, from My HealtheVet to VA.gov.
 
 At VA, you might hear the phrase "single source of truth." In general, the word "single" does not work well for a couple reasons. One, the flagship mobile app is different from the website, so there will not be a "single" experience. Two, the health experience is so huge, with so many moving parts, that it will take years to unify it. 
 
@@ -410,8 +410,8 @@ At VA, you might hear the phrase "single source of truth." In general, the word 
 Assuming the health apartment is (viable and) a vehicle for perhaps the most important Veteran benefit, health care, we believe that the following aspects of VA.gov will figure heavily into the Veteran and caregiver health experience. Our belief is not supported by specific research, testing, or ideation. The intent in writing this down is to spark thinking about how the apartment, and the promise of the apartment, might inspire us to change other aspects of VA.gov.
 
 #### Authenticated experience / My VA / VA.gov homepage
-- My VA (or something that replaces it) becomes the home / destination page for users who create an account and for users who sign in from the homepage. Currently the VA.gov homepage does not have a logged-in state. The Account Experience Crew is using the My VA page to test ideas for a logged-in homepage; eventually they envision that My VA will become the logged-in homepage.
-- The home page must not contradict information displayed in the health apartment (ex., if there are 2 unread health messages that show in the apartment, and the home page displays unread message count, there should be at least 2 unread messages indicated on the home page).
+- My VA (or something that replaces it) will become the home / destination page for users who create an account and for users who sign in from the homepage. Currently the VA.gov homepage does not have a logged-in state. The Account Experience Crew is using the My VA page to test ideas for a logged-in homepage; eventually they envision that My VA will become the logged-in homepage.
+- The home page must not contradict information in the health apartment (ex., if there are 2 unread health messages that show in the apartment, and the home page displays unread message count, there should be at least 2 unread messages indicated on the home page).
 - The logged-in homepage should not otherwise be constrained by the apartment vision. The team that owns the authenticated home should be free to determine the most valuable things to put on it based on Veteran research and best judgment.
 
 #### Sitewide navigation
