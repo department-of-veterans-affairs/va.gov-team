@@ -47,7 +47,7 @@ New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-a
 
 
 Ticket Needs: 
-- Create EPIC 
+- Epic Build - Connect existing tickets
 - Discussion scheduled with @Ryan tomorrow to review details 
 - Will add in backlog tickets in support
 
@@ -66,7 +66,12 @@ FE TBD
 
 
 Ticket Needs: 
-
+- EPIC Build - Connect existing tickets
+- Design discovery (@Cassandra)
+- Research discovery (@Cindy)
+- Sorting/Filtering component (Search & Filter by Date time group (DTG). 
+- Taging (discussed) what would this look like? 
+- Repeat Events - CMS Build - What FE tasks?
 
 
 Banner Migration
