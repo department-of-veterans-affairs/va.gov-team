@@ -371,7 +371,8 @@ Use this to connect with teams referenced throughout this document.
 
 ## Org charts
 Here are some org charts that should prove useful.  
-- [Presentation from December 2020 when OCTO crews were introduced](assets/DEPO-2021-Org-Strategy-and-Goals.pdf). This PPT has several org charts. Note that "OCTO DE" or "OCTODE" refers to the Digital Experience part of OCTO, which overlaps with the Health Delivery part of OCTO.
+- [Presentation from December 2020 when OCTO crews were introduced](assets/DEPO-2021-Org-Strategy-and-Goals.pdf)
+This PPT has several org charts. Note that "OCTO DE" or "OCTODE" refers to the Digital Experience part of OCTO, which overlaps with the Health Delivery part of OCTO.
 - [My HealtheVet org chart](assets/MHV-Org-Chart.docx)
 
 ## Recommendations
