@@ -23,7 +23,7 @@
   - [Wizard prototype](https://preview.uxpin.com/ca08f3dbf63475b2b62f3e8c00050ad1b19c4cb5#/pages/133085100/simulate/sitemap?mode=i)
   - Rogers STEM ([is live on VA.gov](https://www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203/introduction))
 - **Personalized Career & Planning Guidance (Chapter 36)** ([Live on VA.gov](https://www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-28-8832/introduction)) 
-- **Veteran Readiness and Employment (Chapter 31)**
+- **Veteran Readiness and Employment (Chapter 31)** ([Live on VA.gov](https://https://www.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start))
 
 ## Artifact Links
 
@@ -48,5 +48,5 @@
     - Public Websites [Content Intake Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13028)
   - [Analytics Instrumentation Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13060)
   - [Accessibility Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12211)
-  - [Q-A Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13124) - TBD
+  - [Q-A Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13124)
 
