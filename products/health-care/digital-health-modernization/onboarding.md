@@ -370,6 +370,8 @@ Use this to connect with teams referenced throughout this document.
 | Check in (VSA Healthcare Experience team) | Health | [@check-in-experience](https://dsva.slack.com/archives/C022AC2STBM) | [Check-in repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md) | check in; appointments; medical finances |
 | Debt Resolution (Benefits and Memorials 2) | Benefits | [@vsa-debt](https://dsva.slack.com/archives/CPE4AJ6Q0) | [Debt Resolution repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution) | medical finances; check in; auth homepage |
 
+Add org charts here with text intro... 
+
 ## Recommendations
 If the current product person were to remain in his role, this is what he’d advocate.
 
