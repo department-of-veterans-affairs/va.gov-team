@@ -18,7 +18,7 @@ The new team member onboarding materials below are organized by chronological or
 - [ ] Why are Vet Centers important to Veterans? Watch the [2-minute YouTube video](https://www.youtube.com/watch?v=VMzkZNbKk1I).
 - [ ] Why are VA Medical Centers changing their websites? Watch the [2-minute YouTube video](https://youtu.be/Xrv5wCv6cKY).
 ### How?
-- [ ] How does the VFS-CMS team work in an agile environment?
+- [ ] [How does the VFS-CMS team work in an agile environment?](https://docs.google.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o)
 - [ ] How do Agile 6 and Civic Actions work together on this project?
 - [ ] [How do you get secure access to the VA systems you need?](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/491554/Security+onboarding+process) Complete the following paperwork and submit them to the security officer.
   - [ ] Moderate Risk Position Questionnare- AQFPT
