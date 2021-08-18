@@ -344,7 +344,7 @@ Major programs at the VA which we may be able to make much more accessible to Ve
 - **Cerner EHR Migration:** VA has been implementing Cerner, an electronic health record (EHR) system, at its health care facilities, one by one. Currently only a few of VA’s ~1,300 facilities have migrated to Cerner. VA’s previous EHR system, [VistA], still holds most of the patient data. Veterans can see their health data from both VistA and Cerner on VA.gov.
   -  [About VA EHR modernization (Cerner implementation)](https://www.ehrm.va.gov/)
   -  [About VistA](https://www.va.gov/health/imaging/)
-- **Mission Act and Community Care:** The MISSION Act gives Veterans greater access to health care in VA facilities and the community, expands benefits for caregivers, and improves VA’s ability to recruit and retain the best medical providers. For example, a Veteran who lives far from a VA Medical Center (VAMC) and needs speciality care may qualify to see a non-VA provider nearby through the Community Care program. 
+- **Mission Act and Community Care:** The MISSION Act gives Veterans greater access to health care in VA facilities and the community, expands benefits for caregivers, and improves VA’s ability to recruit and retain the best medical providers. For example, a Veteran who lives far from a VA Medical Center (VAMC) and needs specialty care may qualify to see a non-VA provider nearby through the Community Care program. 
   - [MISSION Act legislation](https://www.congress.gov/115/bills/s2372/BILLS-115s2372enr.pdf)
   - [MISSION Act fact sheets on Community Care](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp)
   - [General information on Community Care](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/VHA-FS_MISSION-Act.pdf)
