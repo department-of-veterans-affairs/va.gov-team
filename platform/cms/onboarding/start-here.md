@@ -69,7 +69,7 @@ The new team member onboarding materials below are organized by chronological or
  - [ ] LucidChart
  - [ ] Balsamiq
 ### When?
-- Check your calendar for invitations to team ceremonies.
+Check your calendar for invitations to team ceremonies.
  - [ ] Scrums
  - [ ] Planning sessions
  - [ ] Refinement sessions
