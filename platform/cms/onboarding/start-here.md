@@ -6,7 +6,7 @@ The new team member onboarding materials below are organized by chronological or
 ### Why?
 ### How?
 ### Who?
-- [ ] Who is a part of the VA.gov platform? Discuss the [mission and goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/onboarding/VA.gov%20Platform%20Overview%202021.pdf).
+- [ ] Who is a part of the VA.gov platform? Discuss the [mission and goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/onboarding/library/VA.gov%20Platform%20Overview%202021.pdf).
 ### What?
 - [ ] Contract
 - [ ] Assessment questionnaire
