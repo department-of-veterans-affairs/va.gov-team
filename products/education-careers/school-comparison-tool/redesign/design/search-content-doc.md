@@ -6,6 +6,8 @@
 
 Use the GI Bill Comparison Tool to see how VA education benefits can pay for your education.
 
+## Search Controls
+
 "Search by name" / "Search by location" { tab options }
 
 { Search by name }
@@ -17,9 +19,22 @@ Use the GI Bill Comparison Tool to see how VA education benefits can pay for you
      Search { button with magnifying glass icon }
 { end controls }
 
-{ post search }
+{ end Search by name }
 
-Showing **XXX search results** for '_search term_'
+{ Search by location controls }
+
+     { alphanumeric text input field, helper text "city, state or postal code" } 
+
+     { radius dropdown, default is "within 25 miles" }
+     
+     { link, GPS icon + "Use my location" }
+
+     Search { button with magnifying glass icon }
+
+{ end Search by location }
+
+
+## Filters
 
 Update tuition and housing { accordion }
 
@@ -90,7 +105,7 @@ Filter your results { accordion }
 
 ### Type of institution
 
-Schools { checkbox }
+Schools { checkbox, selected by default }
 - Exclude these school types:
    - Public { checkbox }
    - For profit { checkbox }
@@ -129,9 +144,9 @@ See more... { hyperlink, when clicked "Flight" and "Correspondence" are added to
           
 - Special mission (i.e., Single-gender, Religious affiliation, HBCU) { dropdown, default is "All" }
 
-On-the-job training and apprenticeships {checkbox }
+On-the-job training and apprenticeships { checkbox, selected by default }
 
-VET TEC providers { checkbox }
+VET TEC providers { checkbox, selected by default }
 - Preferred providers { checkbox }
 
 ### Location
@@ -143,19 +158,79 @@ Update results { button }
 
 { end Filter your results }
 
+## Search Results
+
+{ Search by name }
+
+Showing **XXX search results** for '**search term**' { appears above accordions }
+
+{ search cards are listed in two columns to the right of the accordions, order is determined by closest match }
+
 { end Search by name }
 
-{ Search by location controls }
+{ Search by location }
 
-     { alphanumeric text input field, helper text "city, state or postal code" } 
+Showing **XXX search results** for '**search term**' { appears below accordions }
 
-     { radius dropdown, default is "within 25 miles" }
-     
-     { link, GPS icon + "Use my location" }
-
-     Search { button with magnifying glass icon }
+{ search cards appear in single column list beneath accordions, map appears to the right of the accordions, order is determined by closest distance }
 
 { end Search by location }
 
+## Search cards
+
+{ black circle with identifying number } **_Distance from location_** { appears above cards in 'Search by location' }
+
+#### IHL Cards
+{ blue header } School: { Include any special mission headings }  { end blue header }
+### NAME OF IHL ### { hyperlink to profile page }
+CITY, STATE
+
+Display overall star rating **(X.X of 5) by XXX Veterans** OR **"Not yet rated by Veterans"**
+
+{ If applicable, "This school has X cautionary warnings", expandable dropdown, closed by default }
+
+**You may be eligible for up to:**
+Tuition benefit:                      Housing benefit:
+$X,XXX or 100% in-state.              $X,XXX / month
+
+**Accreditation:                      GI Bill students:**
+{ applicable accreditation or N/A)    X,XXX
+
+Compare { checkbox }
 
 
+#### On-the-job training / Apprenticeship Cards
+{ green header } On-the-job training / Apprenticeship  { end green header }
+### NAME OF EMPLOYER ### { hyperlink to profile page }
+CITY, STATE
+
+
+**You may be eligible for up to:**
+Tuition benefit:                      Housing benefit:
+N/A                                   $X,XXX / month*
+
+* Housing rate and the amount of entitlement used decrease every 6 months as training progresses.
+
+**Accreditation:                      GI Bill students:**
+N/A                                   XX
+
+Compare { checkbox }
+
+
+#### VET TEC Cards
+{ red header } VET TEC  { end red header }
+### NAME OF VET TEC PROVIDER ### { hyperlink to profile page }
+CITY, STATE
+
+{ If applicable, star icon + "**Preferred Provider**" }
+
+{ If applicable, "This school has X cautionary warnings", expandable dropdown, closed by default }
+
+**You may be eligible for up to:**
+Tuition benefit:                      Housing benefit:
+$X,XXX or TBD                         $X,XXX / month
+
+**Approved programs:                      Program length:**
+{ No of approved programs}                { range of program lengths offered by provider, e.g. 480-576 hours }
+
+Compare { checkbox }
