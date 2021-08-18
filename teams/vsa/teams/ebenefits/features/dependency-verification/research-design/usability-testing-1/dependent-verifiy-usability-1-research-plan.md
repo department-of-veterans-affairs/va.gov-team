@@ -46,8 +46,9 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 - The moderator will prompt the user to explore next steps within the "change" scenario
 - There will be a quick Q/A and wrap-up
 
-#### Initial URL
-- https://staging.va.gov/view-change-dependents
+#### URLs
+- Staging: https://staging.va.gov/view-change-dependents
+- Backup Protoype: https://xd.adobe.com/view/2ac2e549-4997-4870-8115-17f62703bb0f-7f91/
 
 #### Staging Users
 Test user 108 is reserved for this test.
