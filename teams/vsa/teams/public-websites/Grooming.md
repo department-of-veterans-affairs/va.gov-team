@@ -39,7 +39,8 @@ None
 - [ ] Manual migration of accordions web components in content build [#26280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26280) 
 - [ ] Update links to IRIS and GI Bill systems on the Contact Us page from Ask VA Team on the VRM product line [#28848](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28848)
 
-What else is needed for Banners migration work? 
+### Icebox Items (Relevancy - Delete)
+- [ ] Implement recommendations to flatten level 4+ child pages in benefit hubs, in the nav [#8060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8060)
 
 ### Future Work Grooming: 
 New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
@@ -73,9 +74,6 @@ Banner Migration
   - Then remove FE support for alert-block-based banners. (backlog Ticket)
   - Then remove CMS support for alert-block-based banners.
 
-
-### Icebox Items (Relevancy - Delete)
-- [ ] Implement recommendations to flatten level 4+ child pages in benefit hubs, in the nav [#8060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8060)
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
