@@ -8,6 +8,8 @@ We've heard in previou research that Veterans receive inconsistent updates about
 
 We will run a service mapping workshop with VA facility staff. This will involve three activities, defined below. Note that each activity can occur on a different day. Workshop and synthesis should be scheduled for the same week.
 
+All deliverables will be initially captured in the sensitive repo. Once map/report has been scrubbed of identifying information we will post it here.
+
 ### 1. Validate user journey (30m)
 
 Participants
@@ -31,7 +33,7 @@ Activity
 * Fill out the service map with staff.
 
 Resources
-* TODO: Add agenda
+* [Service map agenda template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map/service-map-workshop/workshop-agenda-template.md)
 * TODO: Add intro to service mapping slide deck
 * [Service map template](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1628006047131/4a3af5fc0571c2afe52427b9a3b3b6b3b168d96e?sender=ub08ff1d80ee7bd38d6c02354). 
 
@@ -70,16 +72,18 @@ TBD
 # Team roles
 
 * Moderator: Peter Russo, peter.russo@adhocteam.us
-* Research guide writing and task development (usually but not always same as moderator):
-* Participant recruiting & screening:
-* Project point of contact:
-* Participant(s) for pilot test:
-* Note-takers:
-* Observers: 
+* Research guide writing and task development: Peter Russo, peter.russo@adhocteam.us
+* Participant recruiting & screening: We'll work closely with OCTO to identify appropriate facilities/SMEs for outreach.
+* Project point of contact: Peter Russo, peter.russo@adhocteam.us
+* Participant(s) for pilot test: TBD
+* Note-takers: TBD
+* Observers:
+  * Lauren Ernest
+  * TBD  
 
 # Resources
 * TBD Facility SME outreach email
-* TBD Service map workshop agenda
+* [Service map agenda template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map/service-map-workshop/workshop-agenda-template.md)
 * TBD Intro to service mapping slide deck
 * [Service map template](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1628006047131/4a3af5fc0571c2afe52427b9a3b3b6b3b168d96e?sender=ub08ff1d80ee7bd38d6c02354)
 * TBD Post-mapping synthesis doc
