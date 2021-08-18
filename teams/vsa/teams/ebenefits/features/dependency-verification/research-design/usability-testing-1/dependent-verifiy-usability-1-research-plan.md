@@ -48,7 +48,7 @@ We'll engage in moderated usability testing conducted remotely using Zoom. Parti
 
 #### URLs
 - Staging: https://staging.va.gov/view-change-dependents
-- Backup Protoype: https://xd.adobe.com/view/2ac2e549-4997-4870-8115-17f62703bb0f-7f91/
+- Backup Protoype: https://xd.adobe.com/view/2ac2e549-4997-4870-8115-17f62703bb0f-7f91/?fullscreen
 
 #### Staging Users
 Test user 108 is reserved for this test.
