@@ -6,20 +6,20 @@ The new team member onboarding materials below are organized by chronological or
 ### Why?
 ### How?
 ### Who?
-- [ ] Who's on the VFS-CMS team?
+- [ ] Who's on the VFS-CMS team? Discuss with your delivery manager or product manager.
 ### What?
-- [ ] Contract
-- [ ] Discuss the [VA.gov platform mission and goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/onboarding/library/VA.gov%20Platform%20Overview%202021.pdf).
+- [ ] Contract - Discuss with your delivery manager.
+- [ ] Read the [VA.gov platform mission and goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/onboarding/library/VA.gov%20Platform%20Overview%202021.pdf).
 - [ ] Assessment questionnaire
 
 ## Week one
 ### Why?
-- [ ] Why is VA.gov using Drupal CMS and how is our success measured? Discuss the [objectives and key results](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/96698383/Product+CMS).
+- [ ] Why is VA.gov using Drupal CMS and how is our success measured? Read the [objectives and key results](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/96698383/Product+CMS).
 - [ ] Why are Vet Centers important to Veterans? Watch the [2-minute YouTube video](https://www.youtube.com/watch?v=VMzkZNbKk1I).
 - [ ] Why are VA Medical Centers changing their websites? Watch the [2-minute YouTube video](https://youtu.be/Xrv5wCv6cKY).
 ### How?
 - [ ] [How does the VFS-CMS team work in an agile environment?](https://docs.google.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o)
-- [ ] How do Agile 6 and Civic Actions work together on this project?
+- [ ] How do Agile 6 and Civic Actions work together on this project? Discuss with your delivery manager or product manager.
 - [ ] [How do you get secure access to the VA systems you need?](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/491554/Security+onboarding+process) Complete the following paperwork and submit them to the security officer.
   - [ ] Moderate Risk Position Questionnare- AQFPT
   - [ ] Background Investigation Request (BI_REQ)
@@ -34,7 +34,7 @@ The new team member onboarding materials below are organized by chronological or
 ### Who?
 - [ ] Who is on the VFS-CMS team? Read your [team members' user manuals and create your own](https://drive.google.com/drive/u/0/folders/195otsT1IUxi_k8oEU21TUkvEG-6p5YQj?ths).
 ### What?
-- [ ] What products does our team support? Discuss the [product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf).
+- [ ] What products does our team support? Read the [product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf).
 - [ ] What do I need to know about my discipline on this team (DevOps, Engineering, Helpdesk, ID, UX)? Discuss with the discipline lead.
  - [ ] [Onboarding for UX](https://docs.google.com/document/d/1bKDptaJomOx9aaeZYBakZkqC1J5Eg7kZGtrUbrD7prg/)
 - [ ] What applications do you need access to?
@@ -61,7 +61,7 @@ The new team member onboarding materials below are organized by chronological or
 #### Helpdesk
   - [ ] Jira
 #### Instructional Design
-#### UX, as needed
+#### UX, discuss with the UX what you need
   - [ ] Mural
   - [ ] Airtable
   - [ ] Figma
@@ -80,8 +80,8 @@ The new team member onboarding materials below are organized by chronological or
 ### Why?
 ### How?
 ### Who?
-- [ ] Who are our VA points of contact?
-- [ ] Who should we know on the platform teams?
+- [ ] Who are our VA points of contact? Discuss with your delivery manager or product manager.
+- [ ] Who should we know on the platform teams? Discuss with your delivery manager or product manager.
 ### What?
  - [ ] [What is Drupal?](https://docs.google.com/spreadsheets/d/11ppWiIggKJh-YAWia28utZXW48tJZGCEg-sFJ6eIl9c)
  - [ ] [Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics)
