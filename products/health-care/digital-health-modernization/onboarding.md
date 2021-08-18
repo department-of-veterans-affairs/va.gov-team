@@ -175,7 +175,7 @@ The following describes the key milestones of the team’s journey.
 - Began mapping the VA health landscape: people, products, and systems. For the full view, [go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). 
 <br></br>
 ![Health landscape](assets/health-people-products-systems-map_detail.png)
-*Above, a partial view of the VA health landscape, intended to convey its vastness and complexity.*
+*Above, a partial view of the VA health landscape, intended to convey its vastness and complexity. [Go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb).*
 
 **Discovery research | December 2020**
 - [Conducted generative research with Veterans and caregivers to understand how they think about and manage health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/history/research/generative-research-study-1/research-findings.md).
@@ -210,7 +210,7 @@ The 4 workshops yielded the vision for the health apartment, and OCTO and OCC le
 
 The workshops brought OCTO and OCC together on a shared vision and path forward. Since our 2 offices have different cultures and ways of working, the Health Apartment Team will need to be flexible and creative as they collaborate with partners throughout OCTO and OCC.  
 
-In our first workshop with OCTO and OCC leadership, we asked the group what it would look like if we succeeded in unifying the health experience. [During that brainstorm,](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1617049140406/7f90489c0db15b1f5843e5b7bb360661040ac818?sender=uaf2e527a10dad9fb94a02129) the theme “hide the plumbing” emerged. In other words, if we design an exceptional health experience, Veterans will not need to navigate the VA and its product silos. Instead there will be one user experience — no redundant tasks or multiple communication channels. During the leadership workshops, someone expressed it this way:  
+In our first workshop with OCTO and OCC leadership, we asked the group what it would look like if we succeeded in unifying the health experience. During that brainstorm, the theme “hide the plumbing” emerged. ([See the Mural from that brainstorming session](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1617049140406/7f90489c0db15b1f5843e5b7bb360661040ac818?sender=uaf2e527a10dad9fb94a02129).) In other words, if we design an exceptional health experience, Veterans will not need to navigate the VA and its product silos. Instead there will be one user experience — no redundant tasks or multiple communication channels. During the leadership workshops, someone expressed it this way:  
 
 > *"Veterans do not need to know that we are several different teams. To them, their digital interactions feel created by the same VA."*
 
