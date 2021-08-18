@@ -38,43 +38,43 @@ The new team member onboarding materials below are organized by chronological or
 - [ ] What do I need to know about my discipline on this team (DevOps, Engineering, Helpdesk, ID, UX)? Discuss with the discipline lead.
 - [ ] What applications do you need access to? Discuss with the discipline lead.
 #### All users
-  - [ ] [VA.gov tools overview](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
-  - [ ] [Slack](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/slack-requests.md) for instant messaging
- Github for issue tracking and document sharing
-   - [ ] [VA.gov request instructions](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?labels=add-user-to-org%2C+new-user%2C+user-created&template=add-user-to-the-va-organization.md&title=ADD+USER+TO+ORG+-+%5BUSERNAME%5D)
-   - [ ] [CMS team list](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-cms-team/members) - get added
-   - [ ] [Zenhub extension instructions](https://www.zenhub.com/extension)
-   - [ ] [SOCKS proxy request](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) to access VA network tools until you get a PIV card
-   - [ ] [SOCKS instructions for Windows](https://www.youtube.com/watch?v=4MHlX39dCwA)
-   - [ ] [Citrix Access Gateway instructions](https://www.oit.va.gov/resources/remote-access/index.cfm?) for after you get your PIV card
-  - [ ] Confluence
-  - [ ] WeWork, as needed
+ - [ ] [VA.gov tools overview](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+ - [ ] [Slack](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/slack-requests.md) for instant messaging
+ - [ ] Github for issue tracking and document sharing
+    - [ ] [VA.gov request instructions](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?labels=add-user-to-org%2C+new-user%2C+user-created&template=add-user-to-the-va-organization.md&title=ADD+USER+TO+ORG+-+%5BUSERNAME%5D)
+    - [ ] [CMS team list](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-cms-team/members) - get added
+    - [ ] [Zenhub extension instructions](https://www.zenhub.com/extension)
+ - [ ] [SOCKS proxy request](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) to access VA network tools until you get a PIV card
+    - [ ] [SOCKS instructions for Windows](https://www.youtube.com/watch?v=4MHlX39dCwA)
+ - [ ] [Citrix Access Gateway instructions](https://www.oit.va.gov/resources/remote-access/index.cfm?) for after you get your PIV card
+ - [ ] Confluence
+ - [ ] WeWork, as needed
 #### DevOps
-  - [ ] [Request access to Github Codespaces](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=general+issue%2C+user-created&template=general-help-request.md&title=Add%20user%20to%20Codespaces)
-  - [ ] [IAM/SSO lower environment access](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/cms/cms-sso-saml-iam-login-braindump.md#testing-login)
-  - [ ] [Jenkins](http://jenkins.vfs.va.gov/) (SOCKS required)
-  - [ ] [Grafana](http://grafana.vfs.va.gov/login) (SOCKS required)
-  - [ ] [Sentry](http://sentry.vfs.va.gov.) (SOCKS required)
-  - [ ] [AWS](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Requestaccess) (SOCKS required)
-  - [ ] sshuttle
+ - [ ] [Request access to Github Codespaces](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=general+issue%2C+user-created&template=general-help-request.md&title=Add%20user%20to%20Codespaces)
+ - [ ] [IAM/SSO lower environment access](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/cms/cms-sso-saml-iam-login-braindump.md#testing-login)
+ - [ ] [Jenkins](http://jenkins.vfs.va.gov/) (SOCKS required)
+ - [ ] [Grafana](http://grafana.vfs.va.gov/login) (SOCKS required)
+ - [ ] [Sentry](http://sentry.vfs.va.gov.) (SOCKS required)
+ - [ ] [AWS](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Requestaccess) (SOCKS required)
+ - [ ] sshuttle
 #### Helpdesk
-  - [ ] Jira
+ - [ ] Jira
 #### Instructional Design
-  - [ ] Audio/video recording tools
+ - [ ] Audio/video recording tools
 #### [Onboarding for UX](https://docs.google.com/document/d/1bKDptaJomOx9aaeZYBakZkqC1J5Eg7kZGtrUbrD7prg/)
- - [ ] Mural
- - [ ] Airtable
- - [ ] Figma
- - [ ] SurveyMonkey
- - [ ] LucidChart
- - [ ] Balsamiq
+- [ ] Mural
+- [ ] Airtable
+- [ ] Figma
+- [ ] SurveyMonkey
+- [ ] LucidChart
+- [ ] Balsamiq
 ### When?
-Check your calendar for invitations to team ceremonies.
- - [ ] Scrums
- - [ ] Planning sessions
- - [ ] Refinement sessions
- - [ ] Demos
- - [ ] Retros
+- [ ] Check your calendar for invitations to team ceremonies.
+  - [ ] Scrums
+  - [ ] Planning sessions
+  - [ ] Refinement sessions
+  - [ ] Demos
+  - [ ] Retros
  
 ## Month one
 ### Why?
@@ -83,12 +83,12 @@ Check your calendar for invitations to team ceremonies.
 - [ ] Who are our VA points of contact? Discuss with your delivery manager or product manager.
 - [ ] Who should we know on the platform teams? Discuss with your delivery manager or product manager.
 ### What?
- - [ ] [What is Drupal?](https://docs.google.com/spreadsheets/d/11ppWiIggKJh-YAWia28utZXW48tJZGCEg-sFJ6eIl9c)
- - [ ] [Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics)
+- [ ] [What is Drupal?](https://docs.google.com/spreadsheets/d/11ppWiIggKJh-YAWia28utZXW48tJZGCEg-sFJ6eIl9c)
+- [ ] [Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics)
 
 ## Month two
 ### Why?
 ### How?
 ### Who?
 ### What?
-  - [ ] [CMS Support distro group](https://mim.va.gov/IdentityManagement/default.aspx)
+- [ ] [CMS Support distro group](https://mim.va.gov/IdentityManagement/default.aspx)
