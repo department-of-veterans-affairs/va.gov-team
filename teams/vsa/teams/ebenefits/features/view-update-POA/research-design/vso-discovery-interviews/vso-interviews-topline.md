@@ -111,7 +111,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
  
 
-** Representatives reported problems with out of date information and submissions that didn’t seem to go anywhere.** 
+**Representatives reported problems with out of date information and submissions that didn’t seem to go anywhere.** 
 
 - eBenefits sometimes has out of date information. 
 
