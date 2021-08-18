@@ -75,7 +75,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 ### Planning
 
 - Desired date range: 09/21/21- 10/21/21
-- How will you make the product available in production while limiting the number of users who can find/access it: Feature Flags
+- How will you make the product available in production while limiting the number of users who can find/access it: The CT Redesign sandbox application is currently behind a prod flag. It will be placed behind a feature flag to move to production. It will be active in parallel to the existing CT.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
@@ -87,8 +87,8 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Length of time: one week (_minimum 2 hours_)
+- Percentage of Users (and roughly how many users do you expect this to be): 10% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
 
 #### Results:
 - Number of unique users: x
