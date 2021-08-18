@@ -24,7 +24,7 @@ Compare schools, employers, and VET TEC providers side-by-side
 
 Location 
 
-Accreditation (Learn more)
+Accreditation [(Learn more)]()
 
     { learn more modal, Learn more aria label: "Learn more about the different accreditation types and why it matters" }
     
@@ -39,7 +39,7 @@ Accreditation (Learn more)
     { end learn more modal }
     
     
-GI Bill students (Learn more)
+GI Bill students [(Learn more)]()
 
     {GI Bill students modal, Learn more aria label: "Learn more about how we calculate the number of GI Bill students" }
      
@@ -58,7 +58,7 @@ Type of institution
 
 Institution locale
 
-Size of institution (Learn more)
+Size of institution [(Learn more)]()
 
     {Size of institution modal, Learn more aria label: “Learn more about institution size”}
     
@@ -81,7 +81,7 @@ Size of institution (Learn more)
 
     {end modal}
 
-Specialized mission (Learn more)
+Specialized mission [(Learn more)]()
     
     { Specialized mission modal, Learn more aria label: “Learn more about specialized mission”}
    
@@ -102,7 +102,7 @@ Specialized mission (Learn more)
 
 #### Payments made to institution
 
-Tuition and fees (Learn more)
+Tuition and fees [(Learn more)]()
 
     { learn more modal, Learn more aria label: "Learn more about tuition and fees" }
 
@@ -126,7 +126,7 @@ Out of pocket tuition
 
 #### Payments made to you
 
-Housing allowance (Learn more)
+Housing allowance [(Learn more)]()
 
 { display housing allowance by relevant benefit & term with "Total per year" calculation at the bottom }
 
@@ -141,7 +141,7 @@ Housing allowance (Learn more)
 { end Housing allowance modal }
     
  
-Book stipend (Learn more)
+Book stipend [(Learn more)]()
 
         { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
         
@@ -201,7 +201,7 @@ True to expectations
 
 ### Cautionary information
 
-Caution flags (Learn more)
+Caution flags [(Learn more)]()
 
     { Caution Flags modal, Learn more aria label: "Learn more about why caution flags might appear on an institution profile" } 
 
@@ -210,7 +210,7 @@ Caution flags (Learn more)
     { End  modal }
     
     
-Student complaints (Learn more)
+Student complaints [(Learn more)]()
 
     { Learn more modal, Learn more aria label: "Learn more about student complaints" } 
     
@@ -230,7 +230,7 @@ Student complaints (Learn more)
 
 Length of VET TEC programs
 
-Credit for military training (Learn more)
+Credit for military training [(Learn more)]()
 
     { learn more modal, Learn more aria label: "Learn more about credit for military training" }
     
@@ -247,7 +247,7 @@ Credit for military training (Learn more)
 
 ### Veteran programs
 
-Yellow Ribbon (Learn more)
+Yellow Ribbon [(Learn more)]()
 
     { Learn more modal, Learn more aria label: "Learn more about what is covered by the Yellow Ribbon program and who can use it" }
     
@@ -262,7 +262,7 @@ Yellow Ribbon (Learn more)
     { end modal }
 
 
-Student Veteran Group (Learn more)
+Student Veteran Group [(Learn more)]()
 
     { learn more modal content, Learn more aria label: "Learn more about Student Veteran Groups" }
     
@@ -277,7 +277,7 @@ Student Veteran Group (Learn more)
     { end modal }
 
 
-Principles of Excellence (Learn more)
+Principles of Excellence [(Learn more)]()
 
     { learn more modal content, Learn more aria label: "Learn more about Principles of Excellence" }
     
@@ -299,7 +299,7 @@ Principles of Excellence (Learn more)
 
 { end modal }
 
-8 Keys to Veteran Success (Learn more)
+8 Keys to Veteran Success [(Learn more)]()
 
     { learn more modal content, Learn more aria label: "Learn more about 8 Keys to Veteran Success" }
     
@@ -314,7 +314,7 @@ Principles of Excellence (Learn more)
     { end modal }
 
 
-Military Tuition Assistance (TA) (Learn more)
+Military Tuition Assistance (TA) [(Learn more)]()
 
     { learn more modal content, Learn more aria label: "Learn more about Military Tuition Assistance" }
     
@@ -325,7 +325,7 @@ Military Tuition Assistance (TA) (Learn more)
     { end modal }
 
 
-Priority Enrollment (Learn more)
+Priority Enrollment [(Learn more)]()
 
     { learn more modal, Learn more aria label: "Learn more about priority enrollment" }
     
