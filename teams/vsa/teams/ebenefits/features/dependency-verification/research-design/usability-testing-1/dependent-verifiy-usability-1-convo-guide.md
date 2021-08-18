@@ -20,8 +20,8 @@ There are a few things I need to mention before we start:
 - If you have participated in a usability test before, this should be pretty similar. And, if you haven’t, it’s pretty simple. I will give you a little backstory and then ask you to complete a few tasks based on that scenario.
 - I do want to stress that we are testing ourselves and not **you** in any way. There are no right or wrong answers and we'd like to hear exactly what you think about what we show you so we can make improvements to VA.gov.
 - It really helps me understand what is working (or not) if you talk out loud as you are complete the tasks.
-- Today we'll be working with an early version of a feature we're developing. Most things we're testing will work, but some might not. If we run into problems, I might switch us over to a less interactive protoype.
-- This is a protoype, but it is not a live web page. None of your actions will affect your account or any VA information.
+- Today we'll be working with an early version of a feature we're developing. Most things we're testing will work, but some might not. If we run into problems, I might switch us over to a less interactive prototype.
+- This is a prototype, but it is not a live web page. None of your actions will affect your account or any VA information.
 - We'd like to record this session. This gives us a record to use for note-taking. The recording will be stored on a private drive and deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - If yes, I'll ask "on the record" once the recording starts.
 - (Start recording) OK now, do I have your permission to record this session?
@@ -48,7 +48,7 @@ User is given a link to the View Dependents page in the VA.gov staging environme
 - To be able to see dependents' information, you'll have to log in. I put the username and password in the chat -- **use these to sign-in.** For this scenario, your name is Morris.
 - You're now on VA.gov and you want to know who the VA has listed as your dependents. **Find your list of dependents.**
 
->Note: User may see VA modal if they have not been to the staging enviornment before. If they cannot clear the modal, send a link to https://staging.va.gov. Have them clear the modal, then go back to the View Dependents URL.
+>Note: User may see VA modal if they have not been to the staging environment before. If they cannot clear the modal, send a link to https://staging.va.gov. Have them clear the modal, then go back to the View Dependents URL.
 
 ### Task 2 / Review dependents / 5 minutes 
 Modal intercepts user.
@@ -79,7 +79,7 @@ OK! Thank you. Before we begin the next task, I need you to sign out of va.gov. 
 
 Let's go on to the next scenario. This time, you are going to be Gerald and you have 7 dependents, a spouse and 6 children. One of your kids, Carl, has finished school and you want to remove him from your benefits.
 
-### Task 1A / Back to start / 2 minutes 
+### Task 2.1 / Back to start / 2 minutes 
 User is again given the link to the starting page in the VA.gov staging environment and credentials for test user 50. 
 - If you can go back to the link in chat; **please click on it.** (Clicks on link to landing page)
 - And, sign in with the username and password I just added to the chat.
@@ -89,17 +89,15 @@ User is again given the link to the starting page in the VA.gov staging environm
 - Do users identify the “add or remove dependents” button as a way to make updates?
 - Do users understand what could happen if their dependents are wrong?
 
-### Task 2A / Review dependents / 2 minutes
+### Task 2.2 / Make Changes to Dependents / 2 minutes
 Modal intercepts user.
 - `observe reaction` 
 - Why do you think you're seeing this now?
 - How often do expect to see this?
-- After user clicks “Remove dependent” link: This is where we run into a feature we haven’t prototyped yet. What would you expect to happen now?
+- After user clicks “Make changes to dependents” button: This is where we run into a feature we haven’t prototyped yet. What would you expect to happen now?
  
 #### Things to look for:
-- Note: The link for this will not work
 - Does the user use the “add or remove dependents” button or try to bypass the modal in another way?
-- Does the user find the “remove dependent” link?
 - What do users expect will happen after they remove a dependent? 
 
 <!-- 
