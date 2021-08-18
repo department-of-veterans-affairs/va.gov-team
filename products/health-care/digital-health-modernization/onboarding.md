@@ -2,7 +2,7 @@
 *The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience.*
 
 ## Introduction
-In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ health experience on the web. This document, written in August 2021, describes the history and implications of the DHM Team's work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work. 
+In November 2020, the Department of Veterans Affairs (VA) Office of the Chief Technology Officer (OCTO) created the Digital Health Modernization (DHM) Team to simplify Veterans’ health experience on the web. This document, written in August 2021, describes the history and implications of the DHM Team's work between November 2020 and August 2021. If you’re working on those implications, this was written for you. Thank you for your work.
 
 ## Goals of this onboarding guide
 - That people working on the health apartment understand:
@@ -46,7 +46,7 @@ Consider booking a doctor’s appointment: One system locates nearby facilities.
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive.
 
 # Vision
-With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and is part of VHA, Veterans Health Administration). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet, eBenefits, and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
+With this mission in mind, in Spring 2021 the DHM Team held a series of workshops with the leadership of OCTO (which owns [VA.gov](https://www.va.gov)) and the Office of Connected Care (OCC owns [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) and is part of VHA, Veterans Health Administration). OCTO and OCC leadership aligned on a vision we call the "health apartment." This concept will unify all health things from My HealtheVet, eBenefits, and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov.
 
 In conversations with OCTO and OCC staff, we heard that the health apartment idea appealed to them for a few reasons:
 - All things health are in one place.
@@ -91,7 +91,7 @@ With consensus on appointments, OCTO and OCC are taking the first steps towards 
 - Propose what functionality in My HealtheVet should not move into the apartment (if applicable)
 - Define the core functionality for appointments and appointments notifications to move into the health apartment
 
-At the same time, the appointments roadmap points of contact from OCTO and OCC began aligning their roadmaps and creating a plan to move My HealtheVet appointments functionality into VAOS, which is on VA.gov. 
+At the same time, the appointments roadmap points of contact from OCTO and OCC began aligning their roadmaps and creating a plan to move My HealtheVet appointments functionality into VAOS, which is on VA.gov.
 
 This summer, the My VA Team has been working on notifications and alerts. In the health apartment vision, centralized notifications are a key driver of value for Veterans. The health apartment will help us implement notifications in a way that maximizes their usefulness and minimizes duplication.
 
@@ -171,8 +171,8 @@ The following describes the key milestones of the team’s journey.
 ## Key milestones
 **Mapping the Health Landscape | October - November 2020**
 - Conducted OCTO stakeholder interviews to understand the intersection of health and VA.gov.
-- [Gathered web analytics for My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/DHM-onboarding-edits/products/health-care/digital-health-modernization/analytics/MHV-Google_Analytics_Late-2020.pdf)
-- Began mapping the VA health landscape: people, products, and systems. For the full view, [go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb). 
+- [Gathered web analytics for My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/DHM-onboarding-edits/products/health-care/digital-health-modernization/analytics/my-healthevet/MHV-Google_Analytics_Late-2020.pdf)
+- Began mapping the VA health landscape: people, products, and systems. For the full view, [go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb).
 <br></br>
 ![Health landscape](assets/health-people-products-systems-map_detail.png)
 *Above, a partial view of the VA health landscape, intended to convey its vastness and complexity. [Go to the health landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606314329344/1d6343c768f02ec0ab12eab999c331b3c64b29eb).*
@@ -204,7 +204,7 @@ The workshop series was designed to help OCTO and OCC align and work together. I
 
 The 4 workshops yielded the vision for the health apartment, and OCTO and OCC leadership aligned on next steps. Here’s a summary of what we covered with links to the workshop agendas:
 - [**Workshop 1:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/vision-workshops/DHM%20Workshop%201.pdf) Discussed existing fragmented health landscape and brainstormed what success looks like as OCTO and OCC work together going forward.
-- [**Workshop 2:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/vision-workshops/DHM%20Workshop%202.pdf) Considered 3 concepts for moving My HealtheVet and the health-related things on VA.gov to a new health section of VA.gov. The health apartment concept won 80% consensus. 
+- [**Workshop 2:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/vision-workshops/DHM%20Workshop%202.pdf) Considered 3 concepts for moving My HealtheVet and the health-related things on VA.gov to a new health section of VA.gov. The health apartment concept won 80% consensus.
 - [**Workshop 3:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/vision-workshops/DHM%20Workshop%203.pdf) Reviewed project ideas and decided these 3 were top priority: notifications, appointments, and the health apartment.
 - [**Workshop 4:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/vision-workshops/DHM%20Workshop%204.pdf) Looked at OCC’s and OCTO’s roadmaps and chose these areas to align on: appointments, notifications, PGHD (patient-generated health data), secure messaging, and pharmacy. We also designated OCTO and OCC points of contact for each of these 5 areas.
 
@@ -264,7 +264,7 @@ As part of planned work for the health apartment, the VAOS Team and the My Healt
 ### Notifications
 After consolidating appointments into VAOS, the team will do a gap analysis and user research in preparation for moving all appointment-related notifications to VA.gov. This work will involve not only My HealtheVet and VAOS, it will involve two other VA.gov teams: My VA and VA Notify.
 
-**My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept). 
+**My VA** is a personalized landing page on VA.gov. That team is [exploring how to better elevate action items within My VA.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery) This exploratory design research will lay the foundation for how VA.gov will show notifications — a key part of the Veteran health experience (and thus the health apartment concept).
 
 <p align="center"><img src="assets/My-VA-2-point-0-mockup.jpg" alt="My VA 2.0 mockup" height="800"></p>
 
@@ -299,12 +299,12 @@ In Summer 2021, the team has been [designing the medical copayment tool MVP on V
 
 In the short term, the Debt Resolution Team will coordinate with My HealtheVet to provide meaningful connections between My HealtheVet and VA.gov. Long term, the Health Apartment Team will coordinate with the Debt Resolution Team to design financial information and tools in the apartment.
 
-As of August 2021, OCTO is exploring consolidating the travel pay experience in VA.gov. Although VA.gov provides content about travel pay, Veterans must navigate to another website--access.va.gov--to submit a request through the Beneficiary Travel Self-Service System (BTSSS). At the time of writing, work has yet to begin. 
+As of August 2021, OCTO is exploring consolidating the travel pay experience in VA.gov. Although VA.gov provides content about travel pay, Veterans must navigate to another website--access.va.gov--to submit a request through the Beneficiary Travel Self-Service System (BTSSS). At the time of writing, work has yet to begin.
 
 ### Check in for appointments
-The Check-in Team is reimagining the ecosystem that allows a Veteran to check in for a VA medical appointment. As of August 2021, the team aimed to pilot an MVP of the product before the end of August. [Go to the team's GitHub repo.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin) 
+The Check-in Team is reimagining the ecosystem that allows a Veteran to check in for a VA medical appointment. As of August 2021, the team aimed to pilot an MVP of the product before the end of August. [Go to the team's GitHub repo.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin)
 
-The product allows Veterans to use their mobile device to let VA know they have arrived for their appointment (to check in) via VA.gov. The Health Apartment Team should coordinate with this team to consider how to support the entire appointment journey. 
+The product allows Veterans to use their mobile device to let VA know they have arrived for their appointment (to check in) via VA.gov. The Health Apartment Team should coordinate with this team to consider how to support the entire appointment journey.
 
 ### Authenticated home page
 The unauthenticated and authenticated VA.gov homepage currently share the same design. At this time, the My VA dashboard is separate from the authenticated homepage. The future vision is for My VA evolve into the authenticated homepage for VA.gov. [Read the background here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#logged-in-homepage--my-va-pivot)
@@ -344,7 +344,7 @@ Major programs at the VA which we may be able to make much more accessible to Ve
 - **Cerner EHR Migration:** VA has been implementing Cerner, an electronic health record (EHR) system, at its health care facilities, one by one. Currently only a few of VA’s ~1,300 facilities have migrated to Cerner. VA’s previous EHR system, [VistA], still holds most of the patient data. Veterans can see their health data from both VistA and Cerner on VA.gov.
   -  [About VA EHR modernization (Cerner implementation)](https://www.ehrm.va.gov/)
   -  [About VistA](https://www.va.gov/health/imaging/)
-- **Mission Act and Community Care:** The MISSION Act gives Veterans greater access to health care in VA facilities and the community, expands benefits for caregivers, and improves VA’s ability to recruit and retain the best medical providers. For example, a Veteran who lives far from a VA Medical Center (VAMC) and needs specialty care may qualify to see a non-VA provider nearby through the Community Care program. 
+- **Mission Act and Community Care:** The MISSION Act gives Veterans greater access to health care in VA facilities and the community, expands benefits for caregivers, and improves VA’s ability to recruit and retain the best medical providers. For example, a Veteran who lives far from a VA Medical Center (VAMC) and needs specialty care may qualify to see a non-VA provider nearby through the Community Care program.
   - [MISSION Act legislation](https://www.congress.gov/115/bills/s2372/BILLS-115s2372enr.pdf)
   - [MISSION Act fact sheets on Community Care](https://www.va.gov/COMMUNITYCARE/pubs/factsheets.asp)
   - [General information on Community Care](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/VHA-FS_MISSION-Act.pdf)
@@ -356,10 +356,10 @@ Strategies from previous attempts to do similar projects.
 - [By Light](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/MHV_Going%20Forward_White_Paper_Dec_20.2019.docx)
 
 ## Directory of points of contact
-Use this to connect with teams referenced throughout this document. 
+Use this to connect with teams referenced throughout this document.
 
 | Team | OCTO Crew | Slack Channel | GH Repo | Relevant Projects |
-| ---- | ---- | ---- | ---- | ---- | 
+| ---- | ---- | ---- | ---- | ---- |
 | My VA | Account Experience | [@vsa-authd-exp](https://dsva.slack.com/archives/C909ZG2BB) | [My VA repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va) | auth homepage; notifications; check in; appointments; medical finances |
 | VANotify | Account Experience | [@va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) | [VANotify repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md) | notifications; auth homepage; check in; appointments; mobile |
 | VEText | Account Experience | [@vetext-notifications](https://dsva.slack.com/archives/C01D2T36XLL) | [VEText repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext) | notifications; appointments; check in |
@@ -396,22 +396,22 @@ If the current product person were to remain in his role, this is what he’d ad
 - **Prioritization:** Adopt a formal top-down method for prioritizing cross-team work in OCTO, in sync with the planning cadence. This initiative will not always be in individual teams’ best interest to work on, but it will be in the office’s best interest to override that kind of local optimization.
 
 ### Communication
-We cannot underscore the need for good communication strongly enough. It has been a long road to get here. For several years, OCTO and OCC have been trying to work together in a meaningful and productive way. Both groups have tried hard and felt frustrated and discouraged. Trust has been a major issue. 
+We cannot underscore the need for good communication strongly enough. It has been a long road to get here. For several years, OCTO and OCC have been trying to work together in a meaningful and productive way. Both groups have tried hard and felt frustrated and discouraged. Trust has been a major issue.
 
 As the Health Apartment Team onboards, we are at an exciting and critical stage. We need to nurture the trust we have built between OCTO and OCC over the past few months. We need to be open and honest yet tread carefully. We need to communicate clearly and often, keeping in mind that many in OCC and OCTO, both federal employees and contractors, have worked years to get to this point.
 
-Besides sending a weekly email explaining what we worked on and why we did it that way, we have had success doing "tours" or "roadshows." If we need feedback or find ourselves at a decision point, we schedule quick sessions with teams doing related work. Before each tour, we usually prepare a Mural board with activities/questions and use it to guide the discussion. We have learned very important things during these sessions and also made strong connections with other teams in the health space. 
+Besides sending a weekly email explaining what we worked on and why we did it that way, we have had success doing "tours" or "roadshows." If we need feedback or find ourselves at a decision point, we schedule quick sessions with teams doing related work. Before each tour, we usually prepare a Mural board with activities/questions and use it to guide the discussion. We have learned very important things during these sessions and also made strong connections with other teams in the health space.
 
-In our conversations across OCC and OCTO, we have found that certain words and ideas resonate with people, while others definitely do not. For example: 
-- The phrase “digital front door strategy” has been used at VA for years and resonates widely. In certain contexts, this extends beyond health, meaning that Veterans would use the same digital front door both when they are Veterans (getting benefits from VA) and previously when they are on active service duty (getting benefits from DoD, the Department of Defense). 
+In our conversations across OCC and OCTO, we have found that certain words and ideas resonate with people, while others definitely do not. For example:
+- The phrase “digital front door strategy” has been used at VA for years and resonates widely. In certain contexts, this extends beyond health, meaning that Veterans would use the same digital front door both when they are Veterans (getting benefits from VA) and previously when they are on active service duty (getting benefits from DoD, the Department of Defense).
 - Everyone believes that Veterans should not have to think about what software they use to fulfill their health care needs. We talk often about creating a unified health experience. Words like "streamlined," "seamless," and "intuitive" resonate.
 - When talking about My HealtheVet going to VA.gov, the idea of "retiring" My HealtheVet has created confusion, and it's not accurate. Instead we talk about:
   - Reimagining the My HealtheVet *website* as a 'My HealtheVet' section of VA.gov
   - Moving the My HealtheVet *website* into a 'My HealtheVet'-branded section of VA.gov
-  - Keeping the My HealtheVet brand and moving things between *websites*. 
+  - Keeping the My HealtheVet brand and moving things between *websites*.
  - Moving the people with the products, from My HealtheVet to VA.gov.
 
-At VA, you might hear the phrase "single source of truth." In general, the word "single" does not work well for a couple reasons. One, the flagship mobile app is different from the website, so there will not be a "single" experience. Two, the health experience is so huge, with so many moving parts, that it will take years to unify it. 
+At VA, you might hear the phrase "single source of truth." In general, the word "single" does not work well for a couple reasons. One, the flagship mobile app is different from the website, so there will not be a "single" experience. Two, the health experience is so huge, with so many moving parts, that it will take years to unify it.
 
 ### Portfolio
 Assuming the health apartment is (viable and) a vehicle for perhaps the most important Veteran benefit, health care, we believe that the following aspects of VA.gov will figure heavily into the Veteran and caregiver health experience. Our belief is not supported by specific research, testing, or ideation. The intent in writing this down is to spark thinking about how the apartment, and the promise of the apartment, might inspire us to change other aspects of VA.gov.
