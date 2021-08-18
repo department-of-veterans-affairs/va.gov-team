@@ -45,10 +45,12 @@ None
 ### Future Work Grooming: 
 New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
 
+
 Ticket Needs: 
 - Create EPIC 
 - Discussion scheduled with @Ryan tomorrow to review details 
 - Will add in backlog tickets in support
+
 
 Outreach and Events - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md) 
 FE TBD
@@ -62,8 +64,10 @@ FE TBD
 - Preview experience
 - PW team will design/research next steps here (@Cassandra to take a look at this and provide some design recommendations.) [Outreach and Events Link](https://www.va.gov/outreach-and-events/)
 
+
 Ticket Needs: 
-- 
+
+
 
 Banner Migration
 
@@ -81,6 +85,7 @@ Banner Migration
   - Repeat the launch on prod
   - Then remove FE support for alert-block-based banners. 
   - Then remove CMS support for alert-block-based banners.
+
 
 Ticket Needs: 
 - Testing switch in Tugboat (Kelson's PR)
