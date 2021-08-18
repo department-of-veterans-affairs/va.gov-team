@@ -279,7 +279,7 @@ In January 2021, the OCTO Identity Team spearheaded a strategy to consolidate pa
 
 Veterans will be directed to VA.gov/sign-in to authenticate, regardless of which VA website they are on. The identity strategy identifies one private credential (ID.me) and one public credential (Login.gov) for Veterans to choose from. Over the long term, existing credentials (including My HealtheVet and DSLogon) will be deprecated.
 
-Starting in January 2021, the Identity Team formed a Identity Working Group to coordinate across lines of business to realize this vision. They have an ATO for Login.gov and are [beginning discovery research about Vetearn attitudes toward the public credential.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login.gov)
+Starting in January 2021, the Identity Team formed an Identity Working Group to coordinate across lines of business to realize this vision. They have an ATO for Login.gov and are [beginning discovery research about Vetearn attitudes toward the public credential.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login.gov)
 
 Several ongoing privacy and security initiatives support the identity strategy and health apartment vision, including:
 - **Consolidating Terms of Service (ToS):** Currently My HealtheVet and VA.gov have different ToS. We need a single ToS for users to authenticate at VA.gov/sign-in from both VA.gov and My HealtheVet. This will also pave the way for moving My HealtheVet health products into VA.gov.
