@@ -6,13 +6,14 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
+- [ ] Create card sort mural board for participant from [this template](https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646)
 - [ ] Links to prototype:
     - [Desktop](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348)
     - [Mobile](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140646787)
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding locations on the VA.gov website and the information you see on those location pages.
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. 
 
 Before we start, a few things I want to mention:
 
