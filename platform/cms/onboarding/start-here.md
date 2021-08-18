@@ -61,6 +61,7 @@ The new team member onboarding materials below are organized by chronological or
  - [ ] Jira
 #### Instructional Design
  - [ ] Audio/video recording tools
+ - [ ] [YouTube channel for training videos](https://www.youtube.com/channel/UC5Y2p4ASQ5HdRR-pQ8RVQKQ)
 #### [Onboarding for UX](https://docs.google.com/document/d/1bKDptaJomOx9aaeZYBakZkqC1J5Eg7kZGtrUbrD7prg/)
 - [ ] Mural
 - [ ] Airtable
