@@ -6,16 +6,22 @@ Hello,
 
 The VA.gov team at the Department of Veterans Affairs is running a user research session to test an updated design of the GI Bill Comparison Tool.
 
-We want to understand whether individuals can find schools or other educational opportunities using the Comparison Tool and determine whether those options are a good fit for them.
+We're seeking individuals to test a redesign of the tool. We want to understand whether individuals can find schools and other educational opportunities using the tool and determine whether those options are a good fit for them.
 
 
-**What will I be doing in this session?** When you respond to this email and let us know you’re interested in participating, we’ll send you an email with instructions and 2 important links. 
-The first link will take you to the test version of the GI Bill Comparison Tool where you’ll perform a few basic tasks. When you’re done with the tasks, the second link will take you to a survey where we’ll ask about your experience with the tool. 
+**What will I be doing in this session?** 
 
+We’ll send you two links. The first link will take you to a prototype of the GI Bill Comparison Tool where you’ll perform a few basic tasks.
 
-**How long is a session?** These activities should take you no more than 30 minutes to complete.  We’ll send you an email with instructions and the links you’ll need. 
+Once you’re done “testing” the Comparison Tool, the second link will take you to a survey where we’ll ask about your experience with the tool. To receive compensation, you must complete both activities.
 
-**Interested in participating?** Please reply to this email to receive the study links and a participation code. After you complete the activity, we'll send your compensation of $25 within 1-2 weeks.
+ 
+
+**How long is a session?** 
+These activities should take you no more than 30 minutes to complete.  We’ll send you an email with instructions and the links you’ll need.  
+ 
+
+**Interested in participating?** Please reply to this email to receive the study links and a participation code. After you complete the activities, we'll send your compensation of $25 within 1-2 weeks.
 
 
 **Process**
@@ -35,7 +41,6 @@ Good Afternoon Ms./Mr.,
 
 Thank you for reaching out! 
 
-The GI Bill Comparison Tool is designed to help you learn about educational opportunities and compare your education benefits by school or employer.  This study is focused on understanding how well the redesigned lets you do that. 
 To participate in this study and receive compensation, you must complete both activities.
 
 **Activity 1:** Interact with the GI Bill Comparison Tool prototype for about 15 minutes. Try the following:
