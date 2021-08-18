@@ -1,5 +1,5 @@
 # Overview
-As we've gone through design iterations with the Notification Preferences feature, we've found that there are some great opportunities to incorporate A/B testing. This document outlines two experiments we've had in mind. The main business objective associated with the Notification Preferences feature is to allow Veteran's to easily customize how they communicate with the VA. Two key results associated with the objective are: 
+As we've gone through design iterations with the Notification Preferences feature, we've found that there are some great opportunities to incorporate A/B testing. This document outlines two experiments we've had in mind. The main [business objective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success) associated with the Notification Preferences feature is to allow Veteran's to easily customize how they communicate with the VA. Two key results associated with the objective are: 
 
 1. Increase the number of profiles that have mobile phone numbers and email addresses by 15% each on a quarterly basis. (Key Result #2)
 2. 60% of first time users of notification preferences have set at least one of the four notification preferences available at launch within the first quarter of launch.(Key Result #3)
