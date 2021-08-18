@@ -324,7 +324,7 @@ In the health apartment vision, everything in the Health Care hub would move to 
 
 To move the Health Care hub into the health apartment, the Health Apartment Team will need to work closely with the Content Team on the Sitewide Crew. This team manages the content in the Health Care hub, working closely with business stakeholders.
 
-The [navigation system used in the benefit hubs](https://www.va.gov/health-care/about-va-health-benefits/)differs from the [navigation system used for the VA Medical Center websites](https://www.va.gov/pittsburgh-health-care/). It's possible that neither of these navigation systems will work well for the health apartment for various reasons. At a minimum, work on the health apartment will most likely require the evolution or extension of one of these navigation systems.  
+The [navigation system used in the benefit hubs](https://www.va.gov/health-care/about-va-health-benefits/) differs from the [navigation system used for the VA Medical Center websites](https://www.va.gov/pittsburgh-health-care/). It's possible that neither of these navigation systems will work well for the health apartment for various reasons. At a minimum, work on the health apartment will most likely require the evolution or extension of one of these navigation systems.  
 
 ---
 
