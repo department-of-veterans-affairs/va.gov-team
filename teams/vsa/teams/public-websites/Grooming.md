@@ -34,8 +34,6 @@ None
 2. Assign estimates and confirm team members are on the same page.
 3. Determine / Validate definition of DONE. 
 
-
-- [ ] Video Links on HP from VA Working Group [#28193](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28193)
 - [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
 - [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521)
 - [ ] Manual migration of accordions web components in content build [#26280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26280) 
