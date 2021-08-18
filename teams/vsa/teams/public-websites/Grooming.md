@@ -94,7 +94,8 @@ Banner Migration
 
 Ticket Needs: 
 - Testing switch in Tugboat (Kelson's PR)
-- Remove FE Support for alert-block-based banners.
+- Remove FE Support for alert-block-based banners on block 42.
+- Max three Banners - Dave guidance 
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
