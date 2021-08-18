@@ -1,13 +1,38 @@
-# Background
-As we've gone through design iterations with the Notification Preferences feature, we've found that there are some great opportunities to incorporate A/B testing. This document outlines two experiments we've had in mind.
+# Overview
+As we've gone through design iterations with the Notification Preferences feature, we've found that there are some great opportunities to incorporate A/B testing. This document outlines two experiments we've had in mind. The main business objective associated with the Notification Preferences feature is to allow Veteran's to easily customize how they communicate with the VA. Two key results associated with the objective are: 
+
+1. Increase the number of profiles that have mobile phone numbers and email addresses by 15% each on a quarterly basis. (Key Result #2)
+2. 60% of first time users of notification preferences have set at least one of the four notification preferences available at launch within the first quarter of launch.(Key Result #3)
+
+## Modal vs On-Page Alert Experiment
+
+### Background
+In order to achieve the key results outlined above, we need to drive users to the feature. Given that the concept of proactively setting notification preferences is a new concept for Veterans on VA.gov, we have some concerns around the level of awareness Veterans will have of the feature. We are proposing an A/B test with the use of modals and on-page alerts to help drive traffic and engagement with this new feature.
+
+### Why do we want to A/B test this?
+....
+
+### How would we A/B test this?
+....
+
+### How would we A/B test?
+....
+
+### When are we proposing to conduct A/B test, and for how long?
+....
+
+
 
 ## Warning Icon Experiment
 
 ### Background
-One of our main business goals of the Notification Preferences feature is to get all Veterans to proactively set their notification preferences by making selections for various notification items. Our current [design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948867/simulate/no-panels?mode=i) incorporates a warning icon and accompanying message to indicate to the user that we would like them to make a selection. This icon and message appear multiple times on the page for each notification item where we need them to make a selection. 
+As noted above, one of the main business goals of the Notification Preferences feature is to get all Veterans to proactively set their notification preferences by making selections for various notification items. Our current [design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948867/simulate/no-panels?mode=i) incorporates a warning icon and accompanying message to indicate to the user that we would like them to make a selection. This icon and message appear multiple times on the page for each notification item where we need them to make a selection. 
 
 ### Why do we want to A/B test this?
 This design is being considered within the experimental design process. During the design council review, there were some concerns raised around the repetitive nature of the warning icon. There is concern that the warning icon may be triggering for Veterans and come off as "yelling" at them. Given the business goal of getting Veterans to proactively set their notifications, we want to know what might be the most effective way of doing that. We think an A/B test is most effective at measuring this engagement because it will give us quantitative data from a large pool of users with minimal risk of behavior modification due to being guided or observed.
 
-### How will we A/B test?
+### How would we A/B test?
 We'd like to conduct an A/B test leveraging feature flags and Google Analytics events to evaluate whether or not the warning state on radio inputs increases engagement. Interactions on radio inputs for [version A](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141179062/simulate/no-panels?mode=i) would fire an event reflecting a non-warning state; [version B](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948867/simulate/no-panels?mode=i) interactions would reflect the warning state.
+
+### When are we proposing to conduct A/B test, and for how long?
+As part of the MVP release, for two weeks once we have rolled out the feature to 100% of users.
