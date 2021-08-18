@@ -182,7 +182,7 @@ Showing **XXX search results** for '**search term**' { appears below accordions 
 
 #### IHL Cards
 { blue header } School: { Include any special mission headings }  { end blue header }
-### NAME OF IHL ### { hyperlink to profile page }
+### NAME OF IHL { hyperlink to profile page }
 CITY, STATE
 
 Display overall star rating **(X.X of 5) by XXX Veterans** OR **"Not yet rated by Veterans"**
@@ -190,36 +190,42 @@ Display overall star rating **(X.X of 5) by XXX Veterans** OR **"Not yet rated b
 { If applicable, "This school has X cautionary warnings", expandable dropdown, closed by default }
 
 **You may be eligible for up to:**
-Tuition benefit:                      Housing benefit:
-$X,XXX or 100% in-state.              $X,XXX / month
 
-**Accreditation:                      GI Bill students:**
-{ applicable accreditation or N/A)    X,XXX
+Tuition benefit:----------------------Housing benefit:
+
+$X,XXX or 100% in-state-------------$X,XXX / month
+
+**Accreditation:----------------------GI Bill students:**
+
+{ applicable accreditation or N/A)----X,XXX
 
 Compare { checkbox }
 
 
 #### On-the-job training / Apprenticeship Cards
 { green header } On-the-job training / Apprenticeship  { end green header }
-### NAME OF EMPLOYER ### { hyperlink to profile page }
+### NAME OF EMPLOYER { hyperlink to profile page }
 CITY, STATE
 
 
 **You may be eligible for up to:**
-Tuition benefit:                      Housing benefit:
-N/A                                   $X,XXX / month*
+
+Tuition benefit:----------------------Housing benefit:
+
+N/A----------------------------------$X,XXX / month*
 
 * Housing rate and the amount of entitlement used decrease every 6 months as training progresses.
 
-**Accreditation:                      GI Bill students:**
-N/A                                   XX
+**Accreditation:----------------------GI Bill students:**
+
+N/A----------------------------------XX
 
 Compare { checkbox }
 
 
 #### VET TEC Cards
 { red header } VET TEC  { end red header }
-### NAME OF VET TEC PROVIDER ### { hyperlink to profile page }
+### NAME OF VET TEC PROVIDER { hyperlink to profile page }
 CITY, STATE
 
 { If applicable, star icon + "**Preferred Provider**" }
@@ -227,10 +233,13 @@ CITY, STATE
 { If applicable, "This school has X cautionary warnings", expandable dropdown, closed by default }
 
 **You may be eligible for up to:**
-Tuition benefit:                      Housing benefit:
-$X,XXX or TBD                         $X,XXX / month
 
-**Approved programs:                      Program length:**
-{ No of approved programs}                { range of program lengths offered by provider, e.g. 480-576 hours }
+Tuition benefit:----------------------Housing benefit:
+
+$X,XXX or TBD------------------------$X,XXX / month
+
+**Approved programs:-----------------------Program length:**
+
+{ No of approved programs}---------------{ range of program lengths offered by provider, e.g. 480-576 hours }
 
 Compare { checkbox }
