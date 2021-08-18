@@ -164,7 +164,7 @@ Since this is a Herculean effort, it's important to have a North Star to guide d
 Going forward, the Health Apartment Team will partner with OCTO and OCC staff to guide the work on the VA.gov health experience, including all planned, intended, and envisioned work.
 
 # DHM Team history
-The Digital Health Modernization Team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the [Digital Modernization Strategy,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf) we aim to give Veterans one website to manage all of their VA benefits.
+The Digital Health Modernization Team formed in late 2020 to create a product strategy for Veterans to manage their health care on VA.gov. Following the vision set forth in the [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf), we aim to give Veterans one website to manage all of their VA benefits.
 
 The following describes the key milestones of the team’s journey.
 
@@ -370,7 +370,9 @@ Use this to connect with teams referenced throughout this document.
 | Check in (VSA Healthcare Experience team) | Health | [@check-in-experience](https://dsva.slack.com/archives/C022AC2STBM) | [Check-in repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md) | check in; appointments; medical finances |
 | Debt Resolution (Benefits and Memorials 2) | Benefits | [@vsa-debt](https://dsva.slack.com/archives/CPE4AJ6Q0) | [Debt Resolution repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution) | medical finances; check in; auth homepage |
 
-Add org charts here with text intro... 
+Here are some **org charts** that should prove useful. Note that "OCTO DE" or "OCTODE" refers to the Digital Experience part of OCTO, which overlaps with the Health Delivery part of OCTO. 
+- [Presentation from December 2020 when OCTO crews were introduced](assets/DEPO-2021-Org-Strategy-and-Goals.pdf) (which has several org charts)
+- [My HealtheVet org chart](assets/MHV Org Chart.docx)
 
 ## Recommendations
 If the current product person were to remain in his role, this is what he’d advocate.
