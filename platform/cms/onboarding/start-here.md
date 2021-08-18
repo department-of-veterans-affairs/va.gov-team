@@ -36,8 +36,8 @@ The new team member onboarding materials below are organized by chronological or
 ### What?
 - [ ] What products does our team support? Read the [product sheets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VA-CMS-Product-Sheets.pdf).
 - [ ] What do I need to know about my discipline on this team (DevOps, Engineering, Helpdesk, ID, UX)? Discuss with the discipline lead.
- - [ ] [Onboarding for UX](https://docs.google.com/document/d/1bKDptaJomOx9aaeZYBakZkqC1J5Eg7kZGtrUbrD7prg/)
-- [ ] What applications do you need access to?
+- [ ] What applications do you need access to? Discuss with the discipline lead.
+- [ ] [Onboarding for UX](https://docs.google.com/document/d/1bKDptaJomOx9aaeZYBakZkqC1J5Eg7kZGtrUbrD7prg/)
 #### All users
   - [ ] [VA.gov tools overview](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
   - [ ] [Slack](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/slack-requests.md) for instant messaging
