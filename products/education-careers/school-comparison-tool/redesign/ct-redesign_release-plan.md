@@ -7,7 +7,7 @@
 - Desired number of users: Limited to EDU Stakeholders
 - How you'll recruit the right production test users: EDU Stakeholders
 - How you'll conduct the testing: Provide a test script
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: EDU Stakeholders
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: EDU Stakeholders will access staging
 
 ### Results:
 - Number of users: 3
@@ -75,7 +75,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 ### Planning
 
 - Desired date range: 09/21/21- 10/21/21
-- How will you make the product available in production while limiting the number of users who can find/access it: The CT Redesign sandbox application is currently behind a prod flag. It will be placed behind a feature flag to move to production. It will be active in parallel to the existing CT.
+- How will you make the product available in production while limiting the number of users who can find/access it: The CT Redesign sandbox application is currently behind a prod flag. It will be placed behind a feature flag and the prod flag flipped to move to production. It will be active in parallel to the existing CT.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
@@ -103,7 +103,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
+- Length of time: two weeks (_minimum 1 day_)
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
 
 #### Results:
