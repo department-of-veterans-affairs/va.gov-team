@@ -401,7 +401,7 @@ Besides sending a weekly email explaining what we worked on and why we did it th
 In our conversations across OCC and OCTO, we have found that certain words and ideas resonate with people, while others definitely do not. For example: 
 - The phrase “digital front door strategy” has been used at VA for years and resonates widely. In certain contexts, this extends beyond health, meaning that Veterans would use the same digital front door both when they are Veterans (getting benefits from VA) and previously when they are on active service duty (getting benefits from DoD, the Department of Defense). 
 - Everyone believes that Veterans should not have to think about what software they use to fulfill their health care needs. We talk often about creating a unified health experience. Words like "streamlined," "seamless," and "intuitive" resonate.
-- When talking about My HeatheVet going to VA.gov, the idea of "retiring" My HealtheVet has created confusion, and it's not accurate. Instead we talk about:
+- When talking about My HealtheVet going to VA.gov, the idea of "retiring" My HealtheVet has created confusion, and it's not accurate. Instead we talk about:
   - Reimagining the My HealtheVet *website* as a 'My HealtheVet' section of VA.gov
   - Moving the My HealtheVet *website* into a 'My HealtheVet'-branded section of VA.gov
   - Keeping the My HealtheVet brand and moving things between *websites*. 
