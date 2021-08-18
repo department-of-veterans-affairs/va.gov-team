@@ -374,7 +374,7 @@ Use this to connect with teams referenced throughout this document.
 If the current product person were to remain in his role, this is what he’d advocate.
 
 ### Team
-- **Planning:** Do something scrum-like rather than kanban-like for iteration planning. The org understands it better. You’ll have an easier time partnering with feds.
+- **Planning:** Do something scrum-like rather than Kanban-like for iteration planning. The org understands it better. You’ll have an easier time partnering with feds.
 - **Project management:** Use GitHub Issues or Max.gov JIRA for project management. Those two tools are open to all people you will collaborate with eventually. No other tool is.
 - **Document collaboration:** Use Microsoft Teams and Mural for document collaboration. Do not use Google Docs. Many VA feds cannot use Google Docs. It’s perceived as rude.
 - **Meetings:** Use Zoom or Teams for video meetings. Those tools work for virtually all VA feds. Other tools may not.
