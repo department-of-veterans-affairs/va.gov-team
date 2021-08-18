@@ -30,7 +30,7 @@ The new team member onboarding materials below are organized by chronological or
   - [ ] Request for New Special Agreement Check (SAC request)
   - [ ] Self-Certification of Continous Service (SIC Self Verif)
   - [ ] 0710_Release of Information Form
- - [ ] A6: How do I charge time or costs to the project?
+ - [ ] A6: How do you charge time or costs to the project? Discuss with your delivery manager or Finance AVP.
 ### Who?
 - [ ] Who is on the VFS-CMS team? Read your [team members' user manuals and create your own](https://drive.google.com/drive/u/0/folders/195otsT1IUxi_k8oEU21TUkvEG-6p5YQj?ths).
 ### What?
