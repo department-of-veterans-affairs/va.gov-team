@@ -42,7 +42,7 @@ Now we're ready to start. (I'm going to turn off my video now. You can turn your
 ## Scenario 1: Verify dependents 
 For the first task, I would like for you to imagine that you are on VA.gov to get some info about dependents benefits. You have two dependents - one spouse and one child.
 
-### Task 1 / Sign-in / 5 minutes 
+### Task 1.1 / Sign-in / 5 minutes 
 User is given a link to the View Dependents page in the VA.gov staging environment and log in info for test user 108. 
 - Now I have put a link to the page we're starting on in the chat; **please click on it.** (Clicks on link to landing page)
 - To be able to see dependents' information, you'll have to log in. I put the username and password in the chat -- **use these to sign-in.** For this scenario, your name is Morris.
@@ -50,7 +50,7 @@ User is given a link to the View Dependents page in the VA.gov staging environme
 
 >Note: User may see VA modal if they have not been to the staging environment before. If they cannot clear the modal, send a link to https://staging.va.gov. Have them clear the modal, then go back to the View Dependents URL.
 
-### Task 2 / Review dependents / 5 minutes 
+### Task 1.2 / Review dependents / 5 minutes 
 Modal intercepts user.
 - `observe reaction` If needed, prompt: Tell me what you are thinking here.
 - Why do you think you're seeing this? 
@@ -62,7 +62,7 @@ Modal intercepts user.
 - What is the users’ perception of what the modal is telling them and what options are available?
 - What does the user expect to happen when they click the “verify this is correct” button?
 
-### Task 3 / Confirm dependents / 2 minutes
+### Task 1.3 / Confirm dependents / 2 minutes
 For this scenario, your dependents should be Veronica Corningston and Quanily Ortiz. 
 - `observe reaction` If needed, prompt: Tell me what you are thinking here. 
 - What other information would you need to confirm these are your dependents or not?
