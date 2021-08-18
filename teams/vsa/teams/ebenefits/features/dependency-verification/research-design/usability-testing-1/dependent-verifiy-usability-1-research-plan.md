@@ -52,8 +52,8 @@ Test user 108 is reserved for this test.
 - 	295SsNrLgPv5
 
 Test user 50
-vets.gov.user+50@gmail.com	
-308SsNrLgPv5
+- vets.gov.user+50@gmail.com	
+- 308SsNrLgPv5
 
 
 Test user 15 is reserved for this test.
@@ -154,4 +154,4 @@ Recruit 8 for 5 fulfilled sessions using the following criteria:
 ---
 
 #### Approval
-_Approval pending_
+_Approved by Lauren Alexanderson on August 12, 2021._
