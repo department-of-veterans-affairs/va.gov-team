@@ -47,6 +47,36 @@ What else is needed for Banners migration work?
 New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
 
 Outreach and Events - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md) 
+FE TBD
+
+One node, many single pages
+How to handle scaleability -- limits on number of instances
+What is the right design for repeating events - one page with all instances or one page per instance
+ICS calendar link feasibility for repeating events -
+What is the right URL for event pages
+Event listing page refactoring
+Preview experience
+PW team will design/research next steps here
+
+Banner Migration - 
+Content type close to ready, still working on governance features
+Scope
+Non-content admins cannot create banners, but they can edit them.
+Non-content admins will not be able to edit
+PR open to support exceptions, catch alls, info and warning
+Governance
+Punting on stacking and sorting issues for now, can be handled by business process by sitewide content team, who needs awareness.
+Runbook for sunsetting block 42 (vaccine)
+Finish creating new node and scope (Steve and Randi/Danielle, need to confirm the visibility rules)
+Will we support both banner types at once?
+Testing the switch in a tugboat environment with Kelson's branch? (archive block 42 + publish the new node, test the paths to see that they match prod), test the homepage banner.
+Merge Kelson's PR
+Confirm the visibility rules with sitewide team.
+Repeat the launch on prod
+Then remove FE support for alert-block-based banners.
+Then remove CMS support for alert-block-based banners.
+CMS issues for editorial experience - clear rules about what banners are for
+CMS issue to trigger content build
 
 ### Icebox Items (Relevancy - Delete)
 - [ ] Implement recommendations to flatten level 4+ child pages in benefit hubs, in the nav [#8060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8060)
