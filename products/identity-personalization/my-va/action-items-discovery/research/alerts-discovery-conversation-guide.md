@@ -8,7 +8,7 @@
 - [ ] Turn off waiting room feature in Zoom
 - [ ] Create card sort mural board for participant from [this template](https://app.mural.co/t/vsa8243/m/vsa8243/1628612585149/29d89d512c9cd7cb8fe8b16ac0eb0fa2604b73e9?sender=tressafurner7646)
 - [ ] Links to prototype:
-    - [Desktop](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348)
+    - [Desktop](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348) (If a user is on desktop, have them zoom to 80% to see the full phone screen)
     - [Mobile](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140646787)
 
 ## Intro - 3 minutes
@@ -45,11 +45,12 @@ Before we start, a few things I want to mention:
 
 Just a little bit of background before we start - we are working on building a central place for you to recieve any action items, updates or reminders on VA.gov. These could be anything related to health care, benefits or just general announcements. 
 
-1. So let's imagine that this sort of page exists - a centralized place for any new updates, reminders or action items that you need to complete on VA.gov. What would you expect a page like this would be called?
-2. What kind of information would you expect to be on a page like this? 
-3. What are some scenarios in your life where you would want a page like this? 
-4. Imagine that you do have new [USE THEIR WORD], how would you know? 
-5. Where would you expect the VA to tell you about that? 
+1. Have you ever seen a place on any websites that you user currently that has this kind of information all in one place?
+2. What would you expect that type of information to be called?
+3. What kind of information would you expect to be on a page like this? 
+4. What are some scenarios in your life where you would want a page like this? 
+5. Imagine that you do have new [USE THEIR WORD], how would you know? 
+6. Where would you expect the VA to tell you about that? 
 
 ## Prototype - 30 minutes 
 
@@ -85,7 +86,8 @@ Let's start by making sure you can figure out how to share your screen on Zoom.
 * Tap "Start now" (maybe)
 * For Android troubleshooting, try here: https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen
 
-**Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype**
+**Ask participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype. If a user is on desktop, have them zoom to 80% to see the full phone screen
+**
 
 Just a reminder - we are working with a prototype so it might not behave exactly how you expect. The information shown is not real information, and is completely fictional. If you could pretend that you are 'Kimberly Washington' and that this is your information, that would be great.  
 
@@ -147,10 +149,13 @@ Go ahead and scroll through this page and walk me through what you're seeing her
 3. What information is useful here? 
 4. What would make one notification more important than another one?
 5. What would you do next with this info?
-6. What do you think works about this page?
-7. What do you find confusing here? 
-8. What would you change about this page?
-9. What is missing on this page? 
+6. What does it mean to take action on an alert?
+7. How far back are you expecting to see your alerts?
+8. What do you think works about this page?
+9. What do you find confusing here? 
+10. What assumptions are you making about this page?
+11. What would you change about this page?
+12. What is missing on this page? 
 
 Okay, great - any questions or thoughts before we move on?
 
