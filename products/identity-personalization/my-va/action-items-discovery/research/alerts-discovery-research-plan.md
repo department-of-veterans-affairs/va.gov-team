@@ -98,7 +98,7 @@ August 12
 
 ### Availability: If applicable, when would you like sessions scheduled? 
 
-* Aug 19; 9am - 6pm EST
+* Aug 19; 11am - 6pm EST
 * Aug 20; 9am - 6pm EST
 * Aug 23; 9am - 6pm EST
 * Aug 24; 9am - 6pm EST
