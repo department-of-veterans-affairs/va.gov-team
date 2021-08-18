@@ -56,7 +56,7 @@ FE TBD
   - What is the right URL for event pages
 - Event listing page refactoring
 - Preview experience
-- PW team will design/research next steps here (@Cassandra to take a look at this and provide some design recommendations.)
+- PW team will design/research next steps here (@Cassandra to take a look at this and provide some design recommendations.) [Outreach and Events Link](https://www.va.gov/outreach-and-events/)
 
 Banner Migration
 
