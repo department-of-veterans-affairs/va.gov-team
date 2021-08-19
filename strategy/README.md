@@ -53,3 +53,11 @@ Continuously deliver high-quality digital experiences for the benefit of all Vet
 - **Time to process online applications (vs. paper)**
   - The time span includes the moment an application is submitted online via VA.gov to the moment a decision is made by VA.
   - This includes products like Caregiver Benefits (10-10cg) that are submitted to a program office for a decision.
+
+
+## Teams
+| DE Crews | Platform | Sitewide | Account Experience | Mobile | Benefit Tools | Health Tools | 
+| :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | 
+| Crew Chief | Rachael Roueche | Dave Conlon | Kevin Hoffman | Leanna Miller | Matt Self | Lauren Alexanderson | 
+| Crew Description | Standards & policies, tooling, community, infrastructure | UX & Design System, Global IA, content, CMS publishing, public tools, VA facilities | Personalization, login & identity, help desk, mobile, notifications | Flagship mobile app, mobile strategy, mobile distribution | Benefits applications & status, eBenefits migration | Health applications, health tools, COVID response | 
+| Crew Teams |  <ul><li>FE Tools</li><li>BE Tools</li><li>Testing Tools </li><li>Operations </li><li>CMS Core Application </li><li>Service Design </li><li>Product Support </li><li>Analytics & Insights </li><li>Content & IA  </li></ul> | <ul><li>Facilities </li><li>VAMC Upgrade </li><li>CMS Product Support </li><li>Public Websites </li><li>Search & Discovery </li><li>Decision Tools </li><li>Content & Localization </li><li>Design Systems </li></ul> | <ul><li>Personalization </li><li>Login and Identity </li><li>Contact Center </li><li>Virtual Agent / Chatbot </li><li>Notifications Engine </li><li>VEText Notifications </li></ul> |  <ul><li>VA Mobile App Core </li><li>Secure Messaging </li></ul> |  <ul><li>Claims & Appeals </li><li>eBenefits Migration </li><li>Debt Resolution </li><li>Education Application </li></ul> |  <ul><li>Health care Experience </li><li>Online Scheduling </li><li>COVID Response </li><li>Caregiver / 10-10 apps </li><li>Dig. Health Moderniztion </li></ul> | 
