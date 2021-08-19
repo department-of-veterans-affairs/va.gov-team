@@ -30,6 +30,10 @@ Use the GI Bill Comparison Tool to see how VA education benefits can pay for you
      { link, GPS icon + "Use my location" }
 
      Search { button with magnifying glass icon }
+     
+{ left side bar helper content }
+
+Please enter a locatino (street, city, state, or postal code) then click search above to find institutions. 
 
 { end Search by location }
 
