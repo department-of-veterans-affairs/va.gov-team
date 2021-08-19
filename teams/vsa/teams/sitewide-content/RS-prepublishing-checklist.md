@@ -4,6 +4,7 @@ Before publishing a Resources and Support article make sure these steps are all 
 - [ ] H2s are within the 70-character limit
 - [ ] Related links are on page and make sense (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing
 - [ ] CTA button wording matches buttons on other pages that use same link
+- [ ] If linking off of VA.gov, make sure that's indicated with the words in the label or button
 - [ ] Correct article category is selected
 - [ ] Correct benefit hub contacts are selected
 - [ ] Appropriate audience and top tags are selected
