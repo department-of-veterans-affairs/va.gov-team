@@ -17,6 +17,8 @@ assignees: ''
 # Description
 - Please provide your Contracting Officer's Representative (COR) name.
    > Janet Doe
+- Please provide your Vendor Onboaring Representative name. This is the person from the contracting company responsible for your onboarding process.
+   > Janet Doe
 - Please provide your name.
    > Jane Doe
 - Please Provide your email.
