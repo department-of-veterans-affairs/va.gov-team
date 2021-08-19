@@ -104,7 +104,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 #### Planning
 
 - Length of time: two weeks (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (500 users)
 
 #### Results:
 - Number of unique users: x
