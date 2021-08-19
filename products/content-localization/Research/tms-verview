@@ -1,0 +1,40 @@
+TMS is a means of automating content collection, workflow triggers, notifications, and delivery of translated content. It’s an ecosystem that provides translators with the tools they need to properly translate content at the highest quality possible.
+
+This type of collaboration within an organization is crucial for projects to run smoothly and meet deadlines.
+
+Computer-aided translation (CAT) tools segmented content into small chunks to make it easier for translators to tackle, while translation memory (TM) comprised a database of previously completed translations that could be reused in future projects. 
+When the TMS concept was created, it automated TM updates and made sure the TM was reused when the same translation needs arose repeatedly. It also added systematic quality assurance to the process.
+
+Benefits of TMS:
+- creates greater efficiencies in the translation process
+- greater accuracy of translated content 
+- cost savings
+- can be applicable to emails, push notifications, contact centers, snail mail
+- make a translation available for every sentence, phrase, or word that is repeatable 
+- ensures that translations for the same content aren’t done twice—and paid for twice
+- can provide context for translations
+
+8 Essential Features in a TMS
+
+1.	 Integrations:
+- Make sure a TMS can connect to existing systems that contain translation content
+- Does the TMS provide the automatic “pull” of source content and “push” of translated content?
+- Does the TMS support HTML, including landing pages and email templates?
+2.	Vendor management + intelligent workflows:
+- Does the TMS include ways to automatically move projects in the proper order, starting with a translator, then to an editor, and then to an internal reviewer, for example?
+3.	Visual context: 
+- Does the TMS provide visual context from the original source material in the form of a screen grab?
+- Does it include the original format and layout of that content and how the translated text needs to fit into that layout and format?
+4.	Real-time TM + linguistic assets:
+- Translation Memory is a database of current and past translations performed by an organization
+- Linguistic assets include a glossary of terms, which dictates whether a term should or should not be translated
+5.	APIs for everything:
+- These tools are particularly useful for a TMS with other systems where content is housed
+6.	Reporting: 
+- TMS vendor can provide reports that monitor and manage performance translation forspeed and quality. Should provide key insights for all aspects of their 
+translation process, such as platform usage, user and resource productivity, content quality, and total translation spend. 
+7.	Data-driven, cloud-based:
+- Does the TMS use cloud services to store data and intelligence, and does it automate updates to translations?
+8.	Advanced security framework: 
+- Does this TMS support all these security standards and certifications: GDPR, SSAE 16 SOC2, PCI DSS L1, HIPAA, and any others?
+
