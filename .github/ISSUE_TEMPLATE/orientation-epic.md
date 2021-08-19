@@ -40,7 +40,6 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Designers: Request design orientation with @ Allison Christman in Slack
 - [ ] Front-end Engineers: Request Front-end orientation with @ Megan Kelley in Slack
 - [ ] Back-end Engineers: Request Back-end orientation with @ Jeff Dunn in Slack
-- [ ] PM, Designers and Content Writer(s): Request content and IA intro with @ Liani Lye in Slack
 - [ ] PM and Front-End Engineers: Request analytics intro with @ Joanne Esteban in Slack
 - [ ] PM, Designers, FE devs: Request 508 intro with @ Trevor Pierce in Slack
 - [ ] PM and Engineers: Request QA intro with @ Peter Hill in Slack
