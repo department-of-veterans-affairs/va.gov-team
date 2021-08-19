@@ -32,7 +32,7 @@ We'll call you to confirm your provider choice or to help you choose a provider 
 
 (H2) Choose a provider
 
-Displaying 1 to {2-5} of {total number} providers.
+Displaying 1 to {1-5} of {total number} providers.
 
 #### Home Address on File
 
