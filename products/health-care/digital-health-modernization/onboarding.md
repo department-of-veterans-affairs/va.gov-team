@@ -371,7 +371,7 @@ Use this to connect with teams referenced throughout this document.
 
 ## Org charts
 Here are some org charts that should prove useful.  
-- [Presentation from December 2020 when the OCTO crews were introduced](assets/DEPO-2021-Org-Strategy-and-Goals.pdf) (Note that "OCTO DE" or "OCTODE" refers to the Digital Experience part of OCTO, which overlaps with the Health Delivery part of OCTO.)
+- [OCTO-DE strategic hierarchy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Strategic%20Hierarchy.pdf) (Note that "DE" refers to the Digital Experience part of OCTO, which overlaps with the Health Delivery part of OCTO.)
 - [My HealtheVet org chart](assets/MHV-Org-Chart.docx)
 
 ## Recommendations
