@@ -1,5 +1,27 @@
 # Status and decisions - Tier 3 FOM office templates MVP 1.0
 
+## 8/19/2021
+
+__Call summary:__
+
+- Funding for Tier 3 Modernization product development is in place, and hiring effort in progress. Team will be cross-functional, and ETA sometime October. 
+- Formal kickoff recommended with all-tier 3 related teams when product development team in place (OCTO, VACO-OEI-OPIA web comms, Janet, Dan). 
+- OCTO project POC will be Dave Conlon, Sitewide Crew Chief (product owner of the unauthenticated VA.gov product line), as Jen transitions off. 
+- Tier 3 work communicated now to Digital Modernization Council, VBA-VHA-NCA-OPIA-OEI vaco web comms teams, 508 Office, and OEI leadership. Jen will separately reach out to Dan’s manager. 
+- Janet currently working on finalizing FOM publication; will take vacation likely September. 
+- Mike Chelen – Platform engineering lead and consult for infrastructure. 
+- Jen will cancel FOM weekly, now that we’re at a good end point for data exploration. Dave will check in after new product development team is in place and onboarded. 
+
+__Attendees:__ 
+
+- Janet
+- Dave
+- Jen
+- Dan
+
+
+
+
 ## 8/11/2021 
 
 Follow up meeting with JHL, VHA, re: other types of content at VHA - heads up about future "patient education" initiative/s at VHA. 
