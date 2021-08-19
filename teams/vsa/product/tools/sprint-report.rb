@@ -76,5 +76,5 @@ file.close
 
 puts "All done. Head to the folder where this file is stored."
 puts "Open up the new sprint-report.html file with your issues"
-puts "Paste your issues into your sprint report."
-puts "You'll need to indicate which epics your stories belong to."
+puts "Paste your issues into your sprint report in MS Excel Online."
+puts "You can check formatting by going into Print Preview."
