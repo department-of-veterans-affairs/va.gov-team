@@ -1,10 +1,15 @@
-# [Draft] OCTO-DE Product Strategy
+# [Draft] Digital Experience (DE) Product Strategy
 
-## Mission
-Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
+## Ofiice of the CTO (OCTO) North Stars
+1. Increase the usage and throughput of VA services 
+2. Decrease the time Veterans spend waiting for an outcome 
+3. Increase the quality and reliability of VA services
 
-## Vision
+## DE Vision
 Every Veteran is guaranteed access to self service benefits and accurate data.
+
+## DE Mission
+Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
 
 ## Goals
 1. Veterans and their families can apply for all benefits online 
