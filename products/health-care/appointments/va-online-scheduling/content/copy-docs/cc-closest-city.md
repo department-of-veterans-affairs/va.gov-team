@@ -10,3 +10,11 @@ Choose a city that is near you. This ensures that we send your community care re
 
 - {registered site}
 - {registered site}
+
+---
+
+## Error Validation
+
+### City/State - no selection
+
+Please provide a response
