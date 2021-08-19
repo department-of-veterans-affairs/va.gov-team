@@ -1,6 +1,6 @@
 { SCHOOL SUMMARY }
 
-{Card Heading: **Type of Institution:** Display any MSI flags }
+{Card Heading: **School**, if applicable add ":" + any MSI flags }
 
 # Name of school 
 
