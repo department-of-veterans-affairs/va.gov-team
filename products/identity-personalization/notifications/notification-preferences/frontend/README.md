@@ -25,7 +25,7 @@ The following data will come through VA Profile's API
 **Show**
 
 - We will always show this section.
-- Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i)
+- Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i))
 
 ## URL
 
@@ -49,11 +49,13 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
 - H2s get h3 styling for sizing
 - Use style rules from design system for html elements padding and margins
 - Use design system components
-  -  for warning alerts ([documentation](https://design.va.gov/components/alertboxes#warning-alert))
-  -  radio input styling ([documentation](https://design.va.gov/components/form-controls#radio-buttons))
+  -  warning alerts ([design system documentation](https://design.va.gov/components/alertboxes#warning-alert))
+  -  radio input styling ([design system documentation](https://design.va.gov/components/form-controls#radio-buttons))
+  -  In the warning alert, use the on this page jump link ([design system documentation](https://design.va.gov/components/on-this-page-jump-links))
 - Our input messaging component is being proposed as an experimental design component, and should be used for the save, error, and warning messaging. It's made up of different aspects of the design system:
   - background-only alert, icons, form input validation message
   - All states documented in [these specs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140847358/simulate/sitemap?mode=i)
+  - [Here's the experimental page in the design system docs](https://design.va.gov/experimental-design/input-message)
 
 ## Content
 
@@ -62,8 +64,8 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
   2. Applications, claims, appeals, and decision reviews
   3. General VA Information and updates
 - Notification items should be listed alphabetically within each group
-- In edit mode, `notify me by email` should come before `notify me by text`
 - Source of truth: MVP notification groups and items are [captured in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
+  - **Note:** Prescription shipment and tracking updates should only display for users registered at Asheville and Denver VAMCs
 
 ### Copy
 
@@ -211,9 +213,9 @@ Use the input message pattern with a warning state
 
 - Use the input message pattern with an error state
 - Save alert must be announced to screen reader users via `aria-live="polite"`. 
-- Any visible alert should not when another checkbox is clicked to prevent a whole lotta jumping around on the page.  We will make improvements to this in a future iteration
+- Any visible alert should not disappear when user interacts with another fieldset to prevent a whole lotta jumping around on the page.  We will make improvements to this in a future iteration
 
-See the 3rd radio input in this [mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i)
+See the 2nd radio input in this [mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i)
 
 #### Copy
 
