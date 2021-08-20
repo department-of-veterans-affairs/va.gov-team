@@ -1,4 +1,4 @@
-Intro email:
+## Intro email:
 
 **SUBJECT LINE: User Experience Research Studies - Invitation to Participate (Study Name)**
 
@@ -33,7 +33,7 @@ These activities should take you no more than 30 minutes to complete.  We’ll s
 5. We’ll deliver your compensation via check within 1-2 weeks.
 
 
-Instructions email:
+## Instructions email:
 
 **Subject: User Experience Research Studies - Study Details (Study Name)**
 
