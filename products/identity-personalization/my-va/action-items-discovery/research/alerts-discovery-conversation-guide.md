@@ -44,12 +44,12 @@ Before we start, a few things I want to mention:
 
 Just a little bit of background before we start - we are working on building a central place for you to recieve any action items, updates or reminders on VA.gov. These could be anything related to health care, benefits or just general announcements. 
 
-1. Have you ever seen a place on any websites that you user currently that has this kind of information all in one place?
+1. Let's say the VA has some things related to your benefits that need your attention - what would you call those?
 2. What would you expect that type of information to be called?
 3. What kind of information would you expect to be on a page like this? 
 4. What are some scenarios in your life where you would want a page like this? 
-5. Imagine that you do have new [USE THEIR WORD], how would you know? 
-6. Where would you expect the VA to tell you about that? 
+5. Imagine that you do have new [USE THEIR WORD], where would you expect to hear about it? 
+6. Where would you expect to find that information on VA.gov? 
 
 ## Prototype - 30 minutes 
 
@@ -117,17 +117,9 @@ Go ahead and scroll to the top, and take a look at the 'Alerts' with the little 
 2. What do you expect to happen if you click on the bell?
 3. What is confusing about this?
 
-Okay, great! That's it for the prototype, so we'll go ahead an move on to the next activity. 
-
 ## Third task - My VA - 7 minutes
 
 Let's go ahead and click on 'My VA'. I have another scenario for you. Imagine you recently went to a VA doctor and she said she would send you a message about your results. Can you walk me through how you would see that?
-
-*If they said that, ask*
-
-1. Why would you expect it to be in this section? 
-
-- Let's take a look at the Alerts section on My VA. 
 
 1. What are your thoughts on this section? 
 2. What would you do next with this info?
