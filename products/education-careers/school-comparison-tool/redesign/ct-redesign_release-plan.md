@@ -47,18 +47,6 @@ Remote unmoderated testing on staging with survey.
 * This change does not impact user flows through tasks
 * This change does not affect traffic to backend services
 
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
 #### Exceptions
 
 Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
@@ -75,8 +63,16 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 ### Planning
 
 - Desired date range: 09/21/21- 10/21/21
-- How will you make the product available in production while limiting the number of users who can find/access it: The CT Redesign sandbox application is currently behind a prod flag. It will be placed behind a feature flag and the prod flag flipped to move to production. It will be active in parallel to the existing CT.
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
+- How will you make the product available in production while limiting the number of users who can find/access it: 
+  - The CT Redesign sandbox application is currently behind a prod flag. It will be placed behind a feature flag and the prod flag flipped to move to production. It will be active in parallel to the existing CT.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
+  - **Performance Metrics**
+    -  CT Search Autocomplete
+    -  CT Location Search
+    -  Google Analytics: Bounce Rate doesn't exceed 20% (Bounce rate YTD: 13.3%; 2020: 17%)
+  - **Satisfaction Metrics**
+    -   Contact Center: Call volume (negative input) doesn't increase above NNN / NN% 
+    -   Medallia Ratings: CT Satisfaction scores don't drop below NN pts/ NN% 
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
