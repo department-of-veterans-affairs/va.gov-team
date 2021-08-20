@@ -26,11 +26,11 @@ These activities should take you no more than 30 minutes to complete.  We’ll s
 
 **Process**
 
-\1.	You respond to this email letting us know you’d like to participate.
-\2. We’ll schedule the first 10 individuals that match our recruiting criteria. 
-\3. We’ll email instructions with links to the activities and a participation code.
-\4. You complete the activities and enter your participation code in the survey.
-\5. We’ll deliver your compensation via check within 1-2 weeks.
+1.	You respond to this email letting us know you’d like to participate.
+2. We’ll schedule the first 10 individuals that match our recruiting criteria. 
+3. We’ll email instructions with links to the activities and a participation code.
+4. You complete the activities and enter your participation code in the survey.
+5. We’ll deliver your compensation via check within 1-2 weeks.
 
 
 Instructions email:
