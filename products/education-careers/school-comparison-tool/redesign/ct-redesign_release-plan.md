@@ -71,8 +71,8 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
     -  CT Location Search - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable averaging 1 s with peaks below 2 s
     -  Google Analytics: Bounce Rate doesn't exceed 20% (Bounce rate YTD: 13.3%; 2020: 17%)
   - **Satisfaction Metrics**
-    -   Contact Center: Call volume (negative input) doesn't increase above NNN / NN% 
-    -   Medallia Ratings: CT Satisfaction scores don't drop below NN pts/ NN% 
+    -   Contact Center: Call volume (negative input) doesn't increase above NNN / NN% *_Working with Jason Woodman on baseline_*
+    -   Medallia Ratings: CT Satisfaction scores don't drop below NN pts/ NN% *_Working with Jason Woodman on baseline_*
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
