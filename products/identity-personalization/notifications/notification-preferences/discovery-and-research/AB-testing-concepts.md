@@ -37,4 +37,4 @@ Additionally, this design is being considered as an experiment in the VA design 
 We'd like to conduct an A/B test leveraging feature flags and Google Analytics events to evaluate whether or not the warning state on radio inputs increases engagement. Interactions on radio inputs for [version A](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141179062/simulate/no-panels?mode=i) would fire an event reflecting a non-warning state; [version B](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948867/simulate/no-panels?mode=i) interactions would reflect the warning state.
 
 ### When are we proposing to conduct A/B test, and for how long?
-As part of the MVP release, for two weeks once we have rolled out the feature to 100% of users.
+~As part of the MVP release, for two weeks once we have rolled out the feature to 100% of users.~ Post MVP, depending on how engagement looks and usability testing after MVP launch.
