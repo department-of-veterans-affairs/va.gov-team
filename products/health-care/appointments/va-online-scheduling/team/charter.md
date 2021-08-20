@@ -2,13 +2,6 @@
 
 ## Workflow and Cadence
 
-<details><summary>Hybrid cycle calendar</summary>
-  <p>
-    
-  ![VAOS Dev Team Cycle Meeting Calendar](https://user-images.githubusercontent.com/72046525/122489083-b93f2f00-cf93-11eb-8d5a-ec58002ce3de.jpg)
-  
-</details>  
-
 ### Stand-up
 Check on people and work progress.
 - Daily at 12pm ET
@@ -21,7 +14,7 @@ Review and estimate backlog items. Review priorities of current and upcoming wor
 
 
 ### Retro
-Reflect on prior cycles: accomplishments, what went well, what can be improvemed, what questions people have, action items.
+Reflect on prior cycles: accomplishments, what went well, what can be improved, what questions people have, action items.
 - Every 2 weeks on Tuesdays at 12pm ET
 - 1 hr
 
@@ -75,8 +68,8 @@ Anyone on the team can [create a ticket](how-to-create-vaos-tickets.md). All are
   - Ready for QA, Product, Design, or VSP review
   - For a ticket to go into the "Validate" pipeline, it must:
     - Be code complete
-    - Have all acceptance criteria reviewed and checked off by assignee
-    - Have all definition of done items completed and checked off by assignee
+    - Have all acceptance criteria completed
+    - Have all definition of done items completed
     - Result in new or changed product functionality (for code changes), or have documentation/artifacts provided (for other tasks/requests)
     - Be available in Staging, if functional or visual change
 - Closed
@@ -92,7 +85,6 @@ We're going to experiment with t-shirt size estimates. Effectively this is just 
 - 5 = large
 - 8 = x-large
 
-### 
 
 ## Communication
 
@@ -103,6 +95,8 @@ We're going to experiment with t-shirt size estimates. Effectively this is just 
   - Coordinated communication related to rollouts, releases, and launches
   - SQA- and testing-related questions
 - #vaos-eng
-  - Code review reminders
+  - Engineering practice and technical discussions
 - #vaos-alerts
   - Grafana alerts
+- #vaos-pull-requests
+  - Pull request reminders
