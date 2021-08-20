@@ -52,6 +52,9 @@ Pointing scale:
 - 13: The biggest possible task completable within a sprint, but risky
 - 21: Bigger than a sprint
 
+### Best practices:
+1. If an issue grows or decreases in scope during a sprint, don't change the original estimate as it was meant to reflect the estimate with the known acceptance criteria at the time.
+
 ## Sprint Goals
 Sprint goals ought to be proposed to the team and OCTO-DE by the VFS-CMS Product Managers and confirmed at that sprint’s planning session. They are used by OCTO-DE to help measure our progress and success on the project. They should:
 
