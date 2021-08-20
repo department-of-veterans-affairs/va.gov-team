@@ -130,10 +130,10 @@ Group 19:
  
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
- - Aug 27 - Sept 6, 2021
+ - Aug 25 - Sept 6, 2021
   	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
- - Aug 25, 2021
+ - Aug 23, 2021
 
 3. Length of Sessions: How long do you estimate each session will be? 
  - No set times, but we expect the testing and survey to take a total of 30 minutes to complete
