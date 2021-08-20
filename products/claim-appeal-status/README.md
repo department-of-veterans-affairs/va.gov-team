@@ -157,11 +157,11 @@ TBD after launch
 TBD after launch
 
 ## Team
-- VA Digital Strategist(s): Andrea Schneider
+- VA Digital Strategist(s): Matt Self
 - Product Manager: Veronica Henry 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Anna Carey, Ed Mangimelli, Robin Garrison, Nick Sprinkle
+- Engineers: Anna Carey, Robin Garrison, Asha Gross, Michel McDonald
    
 ## Screenshots
 ### Before
