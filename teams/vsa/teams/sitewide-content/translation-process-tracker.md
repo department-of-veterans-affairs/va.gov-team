@@ -27,3 +27,4 @@
 | Mask wearing FAQs update | 8/3 | 8/3 | 8/11 | 8/11 | 8/11 | 8/3 | 8/11 |
 | Booster alert | 8/13 | 8/13 | 
 | Updates to FAQs and vaccine 8/13 | 8/13 | 8/16 |
+| New vaccine child page, updates to vaccine and FAQs page | 8/20 | 8/20 |
