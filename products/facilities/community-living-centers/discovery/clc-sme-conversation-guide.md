@@ -22,7 +22,7 @@
    - Are there any services that are requested, that aren't currently offered?
 - **Referrals**
    - ***What is the referral process?***
-   - ***Can Veterans self-refer?**
+   - ***Can Veterans self-refer?***
    - Are walk-ins accepted under any circumstances?
 - **Required information**
    - **Are there any specific eligibility requirements for this facility?**
