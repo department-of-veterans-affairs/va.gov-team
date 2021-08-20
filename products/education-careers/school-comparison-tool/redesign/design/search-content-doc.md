@@ -70,22 +70,6 @@ Cumulative Post-9/11 active-duty service ([Learn more]()) {dropdown, 36+ months:
      { end modal }
 
 
-## this is not in the sandbox
-Did you use your Post-9/11 GI Bill benefits for tuition, housing, or books for a term that started before January 1, 2018? ([Learn more]()) {radio button selection, No selected by default}
-
-Yes | No { selection options }
-
-     {Learn more modal content, Learn more aria label: "Learn more about your monthly housing allowance rate" }
-
-     #### What is Section 501 (Monthly Housing Allowance Rate)?
-
-     Effective January 1, 2018, the Post-9/11 GI Bill monthly housing allowance rate will be the same as the Department of Defense’s E-5 with dependents Basic Allowance Housing (BAH) rate.
-
-     * Students will receive this rate if they first used their Post-9/11 GI Bill benefits on or after January 1, 2018.
-     * If the student started using their Post-9/11 GI Bill before January 1, 2018, they will continue receiving payments based on the slightly higher VA rate eliminated by this change.
-
-     { end modal content}
-
 { if  Ch30 }
 #### Selection of Ch30 Benefit results in this dropdown: Completed an enlistment of: ([Learn more]())
 
@@ -103,8 +87,7 @@ Yes | No { selection options }
      
      { end if Ch30 }
   
-  ## need aria label for this content
-  Will you be taking any classes in person?   {Learn more modal content, Learn more aria label: " SOMETHING SPECIFIED HERE" }
+  Will you be taking any classes in person?   {Learn more modal content, Learn more aria label: "Learn more about how we calculate your housing allowance based on where you take classes" }
   
   #### Your housing allowance is determined by where you take classes
 
@@ -137,14 +120,13 @@ See more... { hyperlink, when clicked "Flight" and "Correspondence" are added to
 
 
 ## About "the" school in sandbox. find out where "this" came from and fix it there 
-## Aria links for learn mores? 
 - About this school
    - Has no cautionary warnings ([Learn more]) { checkbox }
    - Is accredited ([Learn more]) { checkbox }
    - Has a Student Veteran Group { checkbox }
    - Offers Yellow Ribbon Program { checkbox }
 
-          { Has no cautionary warnings modal }
+          { Has no cautionary warnings modal, aria label = "Learn more about cautionary warnings" }
 
           ### Cautionary warnings and school closings
 
@@ -156,7 +138,7 @@ See more... { hyperlink, when clicked "Flight" and "Correspondence" are added to
 
           { end Has no cautionary warnings modal }
 
-          { Is accredited modal }
+          { Is accredited modal, aria label = "Learn more about accreditation and how it can affect you" }
 
           ### Accreditation and why it matters
 
@@ -201,6 +183,26 @@ Showing **XXX search results** for '**search term**' { appears below accordions,
 { search cards appear in single column list beneath accordions, map appears to the right of the accordions, order is determined by closest distance }
 
 { end Search by location }
+
+{ if no results are found in location search }
+
+We didn't find any institutions based on your search. **For better results*:*
+- **Zoom in or out** of the map, or
+- **Move the map** to a different area
+
+Then click the **"Search this area of map"** button.
+
+If we still haven't found any facilities near you, **please enter a different search term** (street, city, state, or postal code)
+
+{ end if no results are found in location search }
+
+{ if the user tries to select more than 3 institutions, display modal contents }
+
+### You've reached the comparison limit
+
+You can compare up to 3 institutions. You'll have to remove one of your selections before you can add another to the comparison.
+
+{ end if user tries to select more than 3 institutions }
 
 ## Search cards
 
@@ -247,9 +249,7 @@ Tuition benefit:----------------------Housing benefit:
 
 N/A----------------------------------$X,XXX / month*
 
-* Housing rate and the amount of entitlement used decrease every 6 months as training progresses.
-
-## no period at the end of this sentence in the sandbox
+* Housing rate and the amount of entitlement used decrease every 6 months as training progresses
 
 **Accreditation:----------------------GI Bill students:**
 
