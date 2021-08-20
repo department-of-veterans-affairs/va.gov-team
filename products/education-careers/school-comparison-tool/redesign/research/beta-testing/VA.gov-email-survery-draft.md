@@ -32,6 +32,19 @@ These activities should take you no more than 30 minutes to complete.  We’ll s
 4. You complete the activities and enter your participation code in the survey.
 5. We’ll deliver your compensation via check within 1-2 weeks.
 
+{ closing }
+
+Shannon Housel
+
+Consultant
+
+Perigean Technologies LLC
+
+shannon@perigeantechnologies.com
+
+PH: 540-513-8510
+
+http://www.perigeantechnologies.com
 
 ## Instructions email:
 
@@ -59,6 +72,7 @@ At the end of the survey, you’ll be asked to enter a code to confirm participa
   
 Your code is: XXXXXX
 
+{ closing }
 
 Shannon Housel
 
