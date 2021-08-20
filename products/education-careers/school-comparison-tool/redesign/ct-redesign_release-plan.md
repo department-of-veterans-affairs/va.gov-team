@@ -68,11 +68,14 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
   - **Performance Metrics**
     -  CT Search Autocomplete - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable at well below 500 ms
-    -  CT Location Search - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable averaging 1 s with peaks below 2 s
+    -  CT Keyword Search - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable averaging 1 s with peaks below 2 s
     -  Google Analytics: Bounce Rate doesn't exceed 20% (Bounce rate YTD: 13.3%; 2020: 17%)
   - **Satisfaction Metrics**
     -   Contact Center: Call volume (negative input) doesn't increase above NNN / NN% *_Working with Jason Woodman on baseline_*
     -   Medallia Ratings: CT Satisfaction scores don't drop below NN pts/ NN% *_Working with Jason Woodman on baseline_*
+  - **Usage Metrics**
+    -   CT Location Search - Monitor usage statistics to ensure existing licensing for map APIs does not exceed usage threshold (POC: nancy.smith@oddball.io)
+
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
