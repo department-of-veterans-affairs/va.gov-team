@@ -23,7 +23,15 @@
 
 ## August 20
 
+Incoming changes to VAMC product 
+- 3 new top task content types, ignore for now. 
+- staff profile selector widgets improvements
 
+Guidance / editor support
+- photo guidance 
+
+Full product launches
+- removed endpoints Aug 31: durham, central iowa, iowa city, hampton, fayetteville arkansas 
 
 ## August 13
 
