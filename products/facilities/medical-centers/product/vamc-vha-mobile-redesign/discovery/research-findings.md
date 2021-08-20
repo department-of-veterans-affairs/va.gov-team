@@ -16,7 +16,7 @@ To understand how mobile clinics are being used across the country, so that we a
 
 ## Methodology
 
-1-hour moderated group interviews over Teamsite. 
+1-hour moderated individual or group stakeholder interviews over Teamsite.
 
 ## Who we spoke with
 
