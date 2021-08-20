@@ -87,7 +87,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time: one week (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): 10% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Percentage of Users (and roughly how many users do you expect this to be): 10% (500 users)
 
 #### Results:
 - Number of unique users: x
