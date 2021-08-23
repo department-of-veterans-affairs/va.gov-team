@@ -71,8 +71,8 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
     -  CT Keyword Search - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable averaging 1 s with peaks below 2 s
     -  Google Analytics: Bounce Rate doesn't exceed 20% (Bounce rate YTD: 13.3%; 2020: 17%)
   - **Satisfaction Metrics**
-    -   Contact Center: Call volume (negative input) doesn't increase above NNN / NN% *_Working with Jason Woodman on baseline_*
-    -   Medallia Ratings: CT Satisfaction scores don't drop below 3.0 pts (Satisfaction June 2020 = 3.71, 9 Ratings; July 2020 = 4.5, 2 Ratings)  
+    -   Contact Center: Call volume doesn't increase above 5 calls / month with negative input.  (White House Call Center reports June 2021 = 3 calls - all navigation-issues; July 2021 = 0 calls) 
+    -   Medallia Ratings: CT Satisfaction scores don't drop below 3.0 pts (Satisfaction June 2021 = 3.71, 9 Ratings; July 2021 = 4.5, 2 Ratings)  
   - **Usage Metrics**
     -   CT Location Search - Monitor usage statistics to ensure existing licensing for map APIs does not exceed usage threshold. The license is managed by the Facility Locator team (POC: nancy.smith@oddball.io).
 
