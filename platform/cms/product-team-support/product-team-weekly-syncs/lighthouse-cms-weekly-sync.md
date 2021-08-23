@@ -29,8 +29,10 @@
 </details>
 
 ## Monday, August 23, 2021
-* New clack channgel to collaborate here: [#cms-lighthouse](https://join.slack.com/share/zt-ukjhgl7n-YUFtRrwVRm_QssZWYfT2pQ)
-* 
+* New slack channgel to collaborate here: [#cms-lighthouse](https://join.slack.com/share/zt-ukjhgl7n-YUFtRrwVRm_QssZWYfT2pQ)
+* Updates on:
+  * Census office lat/long service
+  * MVC statuses
 
 ## Monday, August 16, 20221
 * Lat/long update: Dave has found a service at the Census office that we might be able to use.
