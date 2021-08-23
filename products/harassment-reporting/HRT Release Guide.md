@@ -4,8 +4,8 @@ How do we ensure a smooth and successful launch? (This document starts from the 
 - [VSP Collaboration Cycle Requirements/Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md)
 - [Change Release Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/decision-tools/DRAFT_Change_Checklist.md)
 
-## Release Sequencing 
-- First Priority 1st Launch - Homepage Link: Determine location of VA.gov (PO/PM/IA)
+## Product Launch Sequencing 
+- First Priority 1st Launch - Homepage Link: Determine location of VA.gov (PO/PM/IA) - Complaince with 5303 directive **Time Sensative**
 - Second Priority 2nd Launch - Landing/Intro Page: Explainer landing page that breaks down information and form completion activities.
 - Third Priority 3rd Launch - HRT form app/wizard with submission status component.  
 
