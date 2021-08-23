@@ -105,11 +105,12 @@ We are targeting July 21 - August 3, subject to VSO availablilty.
 ### Resources
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-convo-guide.md)
 
-- [Session notes]() (Available at conclusion of research.)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews#:~:text=.%E2%80%8A.-,session-notes,-Create%20vso-discovery)
 
-- [Topline summary]() (Available at conclusion of research.)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-interviews-topline.md)
 
-- [Research synthesis]() (Available at conclusion of research.)
+- [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1628786622604/103eacbbea8770ab31d6cf61a7e3c51be0f3403f?sender=ude9e1e23baafa8f9953e3669) 
+- [Notes matrix](https://github.com/department-of-veterans-affairs/va.gov-team/raw/41d945715194421535990f2572acf624b761201d/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/VSO%20Discovery%20Interview%20Notes.xlsx)
 
 ### References
 
