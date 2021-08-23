@@ -58,25 +58,60 @@ At this point, I would like you to share your screen, so we can see the text too
 - What are your thoughts about what the text is asking you to do?
 - Would you add anything to this text messages?
 - Here we are showing a text message, but how would you like to be notified that you have these pre-check-in tasks to complete?
- - _Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, email, etc._
+   - _Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, email, etc._
 -  What would you do next? 
  - Go ahead and do that (_assuming they would click the pre-check-in link_).
+- When they get to the next of kin page, were you expecting to be able to update your next of kin's information here?
 
 Things to watch for:
+* Were they able to successfully complete the task?
 * Were there any usability issues/points of confusion?
 * General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
 **Introduction page**
+* Can you explain to me what we're looking at?
+* What are your thoughts about the information shared with you on this page?
+* Is there anything missing?
 
 **Contact information**
-
+* Can you explain to me what we're looking at?
+* What are your thoughts about what this page is asking you?
+* Updating your information here affects what? 
+* Are there any other pieces of contact information that you would like to review on this page?
+* Pretend that you moved, so you need to update your Home address. How would you do that?
+  * Things to watch for:
+    * Were they able to successfully complete the task?
+    * Was there anything confusing about the interaction with the modal on a mobile device?
+    * Were there any usability issues/points of confusion?
+* Is there anything missing or would you change anything?
+* 
 **Modal**
+* What are your thoughts about what this page is showing you?
+* Is there anything missing or would you change anything?
 
 **Next of kin**
+* Can you explain to me what we're looking at?
+* What are your thoughts about what this page is asking you?
+* Updating your next of kin's information here affects what?
+* Would you prefer to update your next of kin or emergency contact information here?
+* Pretend that you need to change your next of kin, how would you do that?
+  * Things to watch for:
+    * Were they able to successfully complete the task?
+    * Was there anything confusing about the interaction with the modal on a mobile device?
+    * Was there any confusion that this information should be about their next of kin and not themself?
+    * Were there any usability issues/points of confusion?
 
 **Insurance**
+* Can you explain to me what we're looking at?
+* What are your thoughts about what this page is asking you?
+* Is there anything you would like to be able to do or see on this page that currently isn't available?
+  * Why?
+* Pretend that your insurance information displayed here isn't correct. _Make sure they click "No."_
+  * _After clicking "No,"_ What are your thoughts baout what this page is asking you?
 
 **Questionnaire**
+* What are your thoughts about what this page is asking you?
+
 
 **Confirmation page**
 
