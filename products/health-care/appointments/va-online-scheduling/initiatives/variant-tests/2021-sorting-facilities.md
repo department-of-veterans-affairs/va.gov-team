@@ -50,8 +50,8 @@ Funnel: [Google Analytics](https://analytics.google.com/analytics/web/#/analysis
 
 ## Test and Results
 
-- [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/files/7033991/Variant.Test.Overview._.Sorting.Facilities.pdf)
+- [Overview pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/7033991/Variant.Test.Overview._.Sorting.Facilities.pdf)
 - Testing period:
   - Start Date (toggle on): July 28, 2021
   - End Date (toggle off): August 12, 2021
-- Results Report
+- Results report
