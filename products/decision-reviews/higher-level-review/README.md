@@ -3,7 +3,7 @@
 ## Communications
 - GitHub Label: [hlr](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
 - Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Matt Self and Luke Majewski
+- Product POCs: Matt Self and Ronnie Henry
 - va.gov link: https://www.va.gov/decision-reviews/higher-level-review/
 - Physical form: https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf
 - Stakeholders: AMO (Jane Chi jane.chi1@va.gov, Lauren Sylvia Lauren.Sylvia@va.gov), Lighthouse (Kelly Lein Kelly.Lein@va.gov, Premal Shaw Premal.Shah@va.gov) and VBA (Paul Shute Paul.Shute@va.gov)
@@ -133,7 +133,7 @@ Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob
   - Early December for Launch
   - Updated to late January due to accessibilty and UAT testing
 - *Actual Launch Date*
-  - xxxx
+  - March 3, 2021
 - *What date will you evaluate impact after launch?*
   - One month after launch (although we will be looking at data during)
 
@@ -149,14 +149,17 @@ Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob
 
 ## Status
 1. MVP design completed.
-2. Front-end implementation almost complete.
-3. Back-end schema changes to LH API almost complete (8/17)
+2. Front-end implementation complete.
+3. Back-end schema changes to LH API complete (8/17)
 4. Integration
+
+
+## HLR Form Refresh - August 2021
+A new version of the form was released. All updates/tasks addressed in this ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/28113 
 
 ## Technical Decisions/Discovery
 
 ## Product Decisions
-Rewriting this as I lost the tab with the edits before I could save post meeting.
 
 #### Meeting Minutes 11/13:
 Goal of meeting was to determine the logic for filtering contestable issues. A contestable issue and HLR eligibilty are very different.  There were some previous assumptions about who owns the filtering of the contestable issues into eligible HLR issues.
@@ -169,14 +172,14 @@ During UAT testing, we ran into a major issue where the contestable issues list 
 ## Team
 
 - VA Digital Strategist(s): Matt Self
-- Product Manager: Luke Majewski 
+- Product Manager: Ronnie Henry
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Anna Carey, Nick Sprinkle, Robin Garrison, Ed Mangimelli)
+- Engineers: Anna Carey, Robin Garrison, Asha Gross, Michel McDonald
 
 ## Incident Response
-- Primary POCs (Luke Majewski, Matt Self, John Hashimoto)
-- Engineering POCs (Ed Mangimelli, Robin Garrison)
+- Primary POCs (Ronnie Henry, Matt Self)
+- Engineering POCs (Anna Carey, Robin Garrison)
 - Lighthouse for Downstream API POCs (Kelly Lein, Pramal Shah)
 - Dashboards:
   - Production: http://grafana.vfs.va.gov/d/qCRjZjDMk/hlr-higher-level-review?orgId=1&var-data_source=Prometheus%20(Production)
