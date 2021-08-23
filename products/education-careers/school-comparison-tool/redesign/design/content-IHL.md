@@ -114,6 +114,7 @@ Update benefits {Update button - deactivated until selection has been made}
 
 ### School costs and calendar { accordion }
 
+{ question for public schools }
 Are you an in-state student? {radio button selection, Yes selected by default}
 
 Yes | No { selection options }
@@ -124,11 +125,11 @@ Yes | No { selection options }
 
 If you're using GI Bill education benefits, you probably qualify for in-state tuition.
 
-Contact the School Certifying Official (SCO) to learn more about this school's in-state tuition requirements.
+Visit this school's website [to see any in-state tuition requirements](){ link to the school's tuition URL if it's been provided by the school } .
 
 { end modal }
 
-{ if yes, conditional text field with learn more }
+{ if "No" radio button is selected, conditional text field with learn more }
 
 In-state tuition and fees per year ([Learn more]()){ text field }
 
@@ -145,6 +146,8 @@ Generally, in-state residents are charged a discounted rate of tuition and fees.
 [View the current tuition benefit rates](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp#ch33)
 
 { end modal }
+
+{ end public school tuition & fee questions }
 
 Tuition and fees per year ([Learn more]()) {text field: filled with school tuition, if available }
 
@@ -285,7 +288,7 @@ Tuition and fees charged: $NNNN
 
 **Housing allowance: $NNNN / mo
 
-**Book stipend ([Learn more]): $NNNN / year
+**Book stipend ([Learn more]): $1000 / yr
 
     { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
 
