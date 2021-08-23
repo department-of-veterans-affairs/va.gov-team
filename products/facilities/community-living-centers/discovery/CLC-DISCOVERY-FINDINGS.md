@@ -18,8 +18,6 @@ Community Living Centers exist on the VA continuum of mental health care as one 
 
 ### CLC Site pages
 
-[Mural board](https://app.mural.co/t/vaadhoc1321/m/vaadhoc1321/1626443115766/c7cd6759fcfac13269e363dee26fe7d188537eab?sender=u8a90be72499ecb4354e14700)
-
 Information about CLC facilities is present on newer VA system pages, as well as older legacy site pages, but the level of information available varies by location.
 
 - No information about services
