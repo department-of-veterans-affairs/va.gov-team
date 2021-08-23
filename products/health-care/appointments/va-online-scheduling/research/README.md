@@ -3,7 +3,6 @@
 ## In progress
 
 * Appointments notifications service map. - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map)
-* [Facility page variant test](https://app.zenhub.com/workspaces/vaos---productdesign-5fff340c2d80a4000fb6f69c/issues/department-of-veterans-affairs/va.gov-team/24213)
 
 ## 2021 Studies
 
