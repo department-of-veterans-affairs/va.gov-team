@@ -21,7 +21,7 @@ Prepared by: Candy Clark, eBenefits
  
 [Notes Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/raw/41d945715194421535990f2572acf624b761201d/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/VSO%20Discovery%20Interview%20Notes.xlsx)
 
-[Mural Board]()  
+[Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1628786622604/103eacbbea8770ab31d6cf61a7e3c51be0f3403f?sender=ude9e1e23baafa8f9953e3669)  
 
  
 
