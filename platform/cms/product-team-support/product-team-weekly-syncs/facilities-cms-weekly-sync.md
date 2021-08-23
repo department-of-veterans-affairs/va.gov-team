@@ -27,6 +27,13 @@
 VAMC
 * Top tasks: Register for care, Billing and insurance, Medical records office 
 
+Vet Centers
+* Required compoenets/content for publishing
+  * service list
+  * "Prepare for your visit" accordions (Appointments, parking/transportation, what to bring)
+  * CAP images
+  * at least one local spotlight
+
 Other
 * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
 
