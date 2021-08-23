@@ -74,7 +74,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
     -   Contact Center: Call volume (negative input) doesn't increase above NNN / NN% *_Working with Jason Woodman on baseline_*
     -   Medallia Ratings: CT Satisfaction scores don't drop below 3.0 pts (Satisfaction June 2020 = 3.71, 9 Ratings; July 2020 = 4.5, 2 Ratings)  
   - **Usage Metrics**
-    -   CT Location Search - Monitor usage statistics to ensure existing licensing for map APIs does not exceed usage threshold (POC: nancy.smith@oddball.io)
+    -   CT Location Search - Monitor usage statistics to ensure existing licensing for map APIs does not exceed usage threshold. The license is managed by the Facility Locator team (POC: nancy.smith@oddball.io).
 
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
