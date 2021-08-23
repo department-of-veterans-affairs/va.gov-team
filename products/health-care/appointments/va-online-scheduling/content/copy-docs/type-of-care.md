@@ -25,4 +25,4 @@ What care do you need? (*Required)
 
 You'll need to call your VA health facility to schedule an appointment.
 
-(link) Find a VA location
+[Find a VA location](link)
