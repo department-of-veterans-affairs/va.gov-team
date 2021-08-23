@@ -106,7 +106,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 **Objective #1: To be the place where Veterans and other users can review all the information the VA knows about them, and reliably update (or learn how to update) outdated or incorrect information.**
 
 - **Key result #1**: Finish integrating direct deposit for edu information into the VA.gov profile in **Q2 2021 (April – June)**.
-- **Key result #2**: Add preferred medical facilities information to the VA.gov profile **Q3 2021 (July – September)**.
+- ~**Key result #2**: Add preferred medical facilities information to the VA.gov profile **Q3 2021 (July – September)**.~
 - **Key result #3**: Maintain a 97%+ success rate on all user-generated updates/form submissions that happen from the VA.gov profile.
 - **Key result #4**: Maintain a 97%+ success rate on retrieval of all information that is pulled into the profile.
 
