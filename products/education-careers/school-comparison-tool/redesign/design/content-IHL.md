@@ -292,6 +292,8 @@ Tuition and fees charged: $NNNN
 
     { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
 
+    **Book stipend
+    
     You may be eligible for money to cover books and supplies, up to $83 per month.
 
     { end Book stipend modal }
