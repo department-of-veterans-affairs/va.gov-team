@@ -50,6 +50,8 @@ Press room landing page
 
 These templates provide interim shell HTML pages for document files. More research with VA offices is needed to understand how documents are today managed (e.g., How and where does VA have manage document files - in one, multiple databases, via direct upload to TeamSite pages? 
 
+### 2.0 documents
+
 Collections
 
 Document content types - [see common government & VA document types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/publications-and-documents-phase-2/common-types-government-documents.md)
