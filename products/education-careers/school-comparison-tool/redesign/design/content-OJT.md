@@ -18,6 +18,12 @@ NNN GI Bill students ([Learn more]())
     {end GI Bill students modal }
 
  { icon + "On-the-job training" } 
+ 
+ { Navigation element: On this page links list. }
+
+{ Display "On this page" style links list for each of the key sections of the page }
+
+{ end navigation element }
 
 ## Calculate your benefits
 
@@ -161,10 +167,12 @@ Update benefits {Update button - deactivated until selection has been made}
 
 **Housing allowance: $NNNN / mo**
 
-**Book stipend ([Learn more]): $NN / mo**
+**Book stipend ([Learn more]): $NN /yr**
 
     { Book stipend modal, Learn more aria label: "Learn more about the book stipend" }
 
+    **Book stipend
+    
     You may be eligible for money to cover books and supplies, up to $83 per month.
 
     { end Book stipend modal }
