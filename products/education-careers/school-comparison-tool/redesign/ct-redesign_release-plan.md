@@ -72,7 +72,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
     -  Google Analytics: Bounce Rate doesn't exceed 20% (Bounce rate YTD: 13.3%; 2020: 17%)
   - **Satisfaction Metrics**
     -   Contact Center: Call volume (negative input) doesn't increase above NNN / NN% *_Working with Jason Woodman on baseline_*
-    -   Medallia Ratings: CT Satisfaction scores don't drop below NN pts/ NN% *_Working with Jason Woodman on baseline_*
+    -   Medallia Ratings: CT Satisfaction scores don't drop below 3.0 pts (Satisfaction June 2020 = 3.71, 9 Ratings; July 2020 = 4.5, 2 Ratings)  
   - **Usage Metrics**
     -   CT Location Search - Monitor usage statistics to ensure existing licensing for map APIs does not exceed usage threshold (POC: nancy.smith@oddball.io)
 
