@@ -2,7 +2,7 @@
 #### Overview
 
  
- *The following informaiton provided will cover the second iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a healthcare appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following features for the Check-in product:* 
+ *The following information provided will cover the second iteration of the Check-in product since completion of the MVP, which is reimagining the ecosystem that allows a Veteran to check-in for a healthcare appointment. Specifically, based on uasability feedback from both Veterans and VA staffmembers, this iteration will incorporate the following features for the Check-in product:* 
 
 - *the addition of using Last 4 of SSN and Last Name as identity verification data points.*
 - *the ability for Veterans to view and check-in for multiple appointment in a single day.*
