@@ -29,10 +29,34 @@
 </details>
 
 ## Monday, August 23, 2021
-* New slack channgel to collaborate here: [#cms-lighthouse](https://join.slack.com/share/zt-ukjhgl7n-YUFtRrwVRm_QssZWYfT2pQ)
-* Updates on:
-  * Census office lat/long service
-  * MVC statuses
+* New slack channel to collaborate here: [#cms-lighthouse](https://join.slack.com/share/zt-ukjhgl7n-YUFtRrwVRm_QssZWYfT2pQ)
+* Census office API for lat/long service: for CMS to pull into a future sprint for discovery (for CAPs, future VBA stuff)
+  * Potentially CMS as SSOT for this for LH to consume so that users can validate
+* VBA database
+  * Data call completed
+  * Drupal to be used for content, to be put on CMS roadmap
+  * Dave's targetting for Q4
+  * Upstream BISL dependency to be aware of, driving timeline
+  * Will additional columns break anything? (is the VBA facility inside a VHA facility? services at a specific address)
+  * If data elements change will that break anything?
+* VBA facilities have been deleted as a part of the above
+  * CMS needs to understand and track when a facility is no longer in LH so that a VBA editor doesn't update a facility that doesn't exist
+  * Could be the same use case as for VAMC facilities
+* VBA_facilities database (with one table) changes
+  * new columns should have no impact on LH, will just ignore
+  * value changes in existing columns (facility_type): `outbased` field, is that mapped to classification? doesn't look to be used currently by LH
+  * Dave has what he needs to move forward
+  * What's the process for adding a new service / integration point with LH: bring up at this weekly meeting
+  * LH queries time zone based off of lat/long
+  * Uses IANA format (official zone name, doesn't have UTC) for Arizona funkiness, leverages polygons
+    * Is this API accessible? lat/long to timezone conversion
+    * CMS issue is how to display
+    * CMS may look to LH to mimic for repeating events that it's creating
+* CMS is working with VEO to centralize event data if LH is interested
+* MVC statuses
+  * Adding in overlay deletions today-ish, once in then operating status overlay can go in
+  * LH should be good by next meeting
+  * MVCs will still be listed in VAST
 
 ## Monday, August 16, 20221
 * Lat/long update: Dave has found a service at the Census office that we might be able to use.
