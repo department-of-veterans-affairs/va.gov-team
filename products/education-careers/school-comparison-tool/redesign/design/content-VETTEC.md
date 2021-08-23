@@ -34,6 +34,12 @@ Compare { compare checkbox }
 
 { end VET TEC Summary }
 
+{ Navigation element: On this page links list. }
+
+{ Display "On this page" style links list for each of the key sections of the page }
+
+{ end navigation element }
+
 ## Calculate your benefits
 
 Use the fields below to update your benefits.
