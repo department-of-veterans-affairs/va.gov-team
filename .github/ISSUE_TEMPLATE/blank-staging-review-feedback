@@ -1,7 +1,7 @@
 ---
 name: Blank Staging Review Feedback Ticket
 about: A blank ticket for staging review feedback
-title: [VA.gov Issue Category] VA.gov Issue Description (Category Number.Issue Number.Instance Number)
+title: [VA.gov Issue Category] VA.gov Issue Description (Category Number.Issue Number)
 labels: staging, collab-cycle-feedback
 assignees: 
 
@@ -15,7 +15,7 @@ assignees:
 #### VFS product name
 
 
-#### Point of Contact/Reviewers
+#### Point of Contact/Reviewers (Practice area)
 
 
 ---
@@ -29,7 +29,7 @@ assignees:
 ### Link, screenshot or steps to recreate
 
 
-### Supporting Guidance
+### VA.gov Experience Standards
 
 
 ### Other References
@@ -51,3 +51,4 @@ assignees:
 - Add to the Feedback pipeline on the Platform Product Support board
 - Add your feedback
 - Add assignees: VFS PM
+- Add labels including appropriate practice area and if it is launch blocking
