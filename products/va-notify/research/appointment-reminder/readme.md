@@ -1,2 +1,2 @@
-# Review, consolidate, & write appointment notifications in plain language
+## Review, consolidate, & write appointment notifications in plain language
 Veterans receive a lot of notifications from many different sources. As part of the apartment testing goals, our goal is to review all of the notifications that Veterans receive about appointments, conduct user testing to see which are most effective, define the events and triggers for notifications, agree on plain language content for the notification, and design how notifications will be surfaced to Veterans & where.
