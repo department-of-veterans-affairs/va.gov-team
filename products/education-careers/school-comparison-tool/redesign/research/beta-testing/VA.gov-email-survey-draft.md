@@ -13,7 +13,7 @@ We're seeking individuals to test a redesign of the tool. We want to understand 
 
 We’ll send you two links. The first link will take you to a prototype of the GI Bill Comparison Tool where you’ll perform a few basic tasks.
 
-Once you’re done “testing” the Comparison Tool, the second link will take you to a survey where we’ll ask about your experience with the tool. To receive compensation, you must complete both activities.
+Once you’re done “testing” the Comparison Tool, the second link will take you to a questionnaire where we’ll ask about your experience with the tool. To receive compensation, you must complete both activities.
 
  
 
@@ -29,7 +29,7 @@ These activities should take you no more than 30 minutes to complete.  We’ll s
 1.	You respond to this email letting us know you’d like to participate.
 2. We’ll schedule the first 10 individuals that match our recruiting criteria. 
 3. We’ll email instructions with links to the activities and a participation code.
-4. You complete the activities and enter your participation code in the survey.
+4. You complete the activities and enter your participation code in the questionnaire.
 5. We’ll deliver your compensation via check within 1-2 weeks.
 
 { closing }
@@ -64,11 +64,11 @@ To participate in this study and receive compensation, you must complete both ac
 
 **Click this link to access the GI Bill Comparison Tool:** https://staging.va.gov/gi-bill-comparison-tool-sandbox/
 
-**Activity 2:** Take the survey. Your honest and candid feedback will help us make the Comparison Tool a better product for all GI Bill beneficiaries.
+**Activity 2:** Take the questionnaire. Your honest and candid feedback will help us make the Comparison Tool a better product for all GI Bill beneficiaries.
 
-At the end of the survey, you’ll be asked to enter a code to confirm participation.  If you don’t enter your code, we won’t be able to pay you for participating.
+At the end of the questionnaire, you’ll be asked to enter a code to confirm participation.  If you don’t enter your code, we won’t be able to pay you for participating.
 
-**Click this link to take the survey:** <SurveyMonkey link>
+**Click this link to take the questionnaire:** <SurveyMonkey link>
   
 Your code is: XXXXXX
 
