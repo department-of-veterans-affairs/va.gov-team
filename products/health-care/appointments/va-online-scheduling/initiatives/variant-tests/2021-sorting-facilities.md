@@ -4,11 +4,11 @@
 
 Veterans are more often than not registered at more than one VA facility. It can be confusing for them when they have to select from a list of facilities that they are registered at. The list can be overwhelming and may include facilities they no longer visit to receive care (e.g. moved to another state).
 
-Currently, in the VA request flow, approximately 75% of users who land on the facilities page move to the next step. We want to raise the completion rate on this page and increase the speed at which those who complete the page move on to the next step.
+Currently, in the VA request flow, approximately 74% of users who land on the facilities page move to the next step. We want to raise the completion rate on this page and increase the speed at which those who complete the page move on to the next step.
 
 ## Hypothesis
 
-We believe that if we provide simpler interactions and clearer language on the facility selection page, veterans will be able to more easily understand their options. This will help them complete the facility selection step more quickly, whether they move on to the next step, or drop-off. This will also help them complete the step successfully slightly more often.
+We believe that if we provide simpler interactions and clearer language on the facility selection page, Veterans will be able to more easily understand their options. This will help them complete the facility selection step more quickly, whether they move on to the next step, or drop-off. This will also help them complete the step successfully slightly more often.
 
 ## Analytics
 
@@ -16,7 +16,6 @@ Dashboard: [Google Analytics](https://analytics.google.com/analytics/web/#/dashb
 
 Funnel: [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/Z4cFM5gyQhy65K3s4tymQw)
 
-Average time on page report template: [Google Analytics](https://analytics.google.com/analytics/web/template?uid=wJNRUJodTRW30Z7w567VZg)
 
 ### Events
 
@@ -51,8 +50,8 @@ Average time on page report template: [Google Analytics](https://analytics.googl
 
 ## Test and Results
 
-Start Date: July 28, 2021
-
-End Date: August 12, 2021
-
-
+- [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/files/7033991/Variant.Test.Overview._.Sorting.Facilities.pdf)
+- Testing period:
+  - Start Date (toggle on): July 28, 2021
+  - End Date (toggle off): August 12, 2021
+- Results Report
