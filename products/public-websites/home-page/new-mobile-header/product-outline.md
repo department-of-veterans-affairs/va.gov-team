@@ -59,6 +59,21 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 
 ## Status 
+Some questions to answer as we gain analytics insight and determine best path forward:
+
+- Q: How are we planning to mitigate any organizational constraints/concerns that arise from minimizing or changing logos? Who needs to know?
+- A: Ryan has been discussing with Chris. Dave C. to follow up and validate with applicable stakeholders.
+- Q: The proposed changes to the unauth/auth states still have Health care as the only visible Top 4 Box (albeit not as pushed down). Given the Hypothesis, what impact are we actually hoping to see re:usage of Top Task links?
+- A: Analytics/KPIs - this was my big focus as well. Two thoughts here:
+
+We need specifics: What specifically are we trying to improve/keep the same
+Baselines - we have a ticket open with analytics team that should be treated as a blocker to ensure we have enough data for comparison as related to Specifics.
+Analytics comparison of Mobile to Desktop.
+- What are the common tasks across each device that should be the same?
+- What are the "top tasks" that lend themselves more to desktop (e.g. filling out a form)?
+- What are those that lend themselves more to mobile?
+
+Q: It sounds like we'd like to improve mobile search usage. But, the proposed changes have the Search CTA moving a level deeper. What impact do we expect that to have/not have?
 
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
