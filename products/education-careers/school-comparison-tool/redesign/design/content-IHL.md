@@ -42,6 +42,12 @@ Compare { Compare checkbox }
 
 { end School Summary }
 
+{ Navigation element: On this page links list.  }
+
+{ Display "On this page" style links list for each of the key sections of the page }
+
+{ end navigation element }
+
 ## Calculate your benefits
 
 The 4 sections below include questions that will refine your benefits estimate.  Use the fields in each section to make your updates. 
@@ -222,7 +228,7 @@ Update benefits {Update button - deactivated until selection has been made}
 
 ### Scholarships and other VA funding { accordion }
 
-Will you be a Yellow Ribbon recipient ([Learn more]()) { radio button selection, No selected by default }
+Will you be a Yellow Ribbon recipient? ([Learn more]()) { radio button selection, No selected by default }
 
 Yes | No { selection options }
 
@@ -262,7 +268,7 @@ Yes | No { selection options }
 
 #### Scholarships (excluding Pell Grants)
 
-Are you receiving any scholarships or grants that go directly to pay tution/fees this year? If so, add that number here.
+Are you receiving any scholarships or grants that go directly to pay tuition/fees this year? If so, add that number here.
 
 { end modal }
 
