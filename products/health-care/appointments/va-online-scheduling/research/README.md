@@ -7,6 +7,8 @@
 
 ## 2021 Studies
 
+July/August - [Facility selection A/B test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-august-facilities-ab-test/README.md)
+
 May/June - [Facilities personalization research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research)
 
 * _Preferences when choosing a facility, Personalization/automation, Preferred scheduling and appt management tools, Calling VA, Wayfinding VAOS <-> Profile, Traveling veterans_
