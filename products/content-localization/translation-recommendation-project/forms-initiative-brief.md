@@ -17,12 +17,15 @@ What is the problem and who is affected?
 
 - Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive as to-date, all apps are in English. 
 
+Which Veteran/organizational segments are most affected by the problem?
+
+- Any VA.gov users (Veterans, caregivers, family members) who are LEP or non-English speakers and want to fill out an application for a benefit on-line without needing to go to a VCO for assistance or engage a transaltor.
+
 What evidence do we have of the problem?
 
 - VA has existing guidance for complying with Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency, 65 Fed. 50,121 (Aug. 16, 2000).
 
 - (**ADD: Research study underway for Spanish Veterns/caregivers…)**
-
 
 How does this initiative help further OCTO-DE's mission and goals?
 
@@ -67,7 +70,7 @@ With this problem solved, what should users be able to do/achieve that they coul
 
 
 ---
-## Measuring Success
+## Measuring Success (TBD)
 
 -	Measure PDF vs on-line form error rates? Approval timeframe? Completion rate?time to complete?
 -	We will include a Medallia Spanish survey on translated pages to collect customer feedback. 
@@ -89,7 +92,7 @@ Trust/Satisfaction, Health.*<sup>1</sup>\
 
 There are several considerations in determining which on-line application Form to translate and offer in Spanish:
 
--	The current on-line application form must also have a corresponding English and Spanish PDF version (setting baseline metrics and KPIs)
+-	The current on-line application form must also have a corresponding English and Spanish PDF version (for setting baseline metrics and KPIs)
 -	The form is not overly complex/long or has unique complexities that would mean a longer delivery timeline
 - Form requires minimal updates/changes
 -	Evidence of a high need exists
@@ -101,7 +104,7 @@ There are several considerations in determining which on-line application Form t
 
 - **Value Risks** (will people use it): Spanish LEP Veterans/family members/caregivers value an on-line translated application process for benefits on par with English version
   
-- **Usability Risks**: We expect to see a higher completion rate and satisfaction score with this offering
+- **Usability Risks**: We expect to see a higher completion rate and satisfaction score with this offering. Low-risk since we will be transalting an all-ready published form.
 
 - **[Technical] Feasibility Risks**: On-line application form is limited to 1 form for launch that maps to the considerations listed above.
 
