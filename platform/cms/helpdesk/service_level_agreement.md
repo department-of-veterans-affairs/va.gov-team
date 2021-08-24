@@ -5,7 +5,7 @@
 
 The Help Desk should operate according to a Service Level Agreement (SLA) which lays out the terms and conditions of Help Desk support efforts.
 
-Under the SLA, "business hours" are from 8am to 8pm EST, and during these hours the Help Desk team commits to:
+Under the SLA, "business hours" are from 9am to 5pm EST, and during these hours the Help Desk team commits to:
 
    * respond with a First Response to support requests within a set period of time (<90 minutes for all Priority 1 or 2 Tickets); 
    * resolve tickets within a set period of time:
