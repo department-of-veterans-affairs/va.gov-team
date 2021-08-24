@@ -26,6 +26,13 @@
 ## August 25 
 VAMC
 * Top tasks: Register for care, Billing and insurance, Medical records office 
+* Hi-res images
+  * Current Facilities sprint (beginning 8/25)
+    * Remove hyperlinks for staff without bios [#29102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29102)
+    * Hi res image download rendered as a link without href [#29079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29079)
+  * Validation on CMS side
+    * presence of hi-res image
+    * link to image
 
 Vet Centers
 * Required compoenets/content for publishing
@@ -33,6 +40,7 @@ Vet Centers
   * "Prepare for your visit" accordions (Appointments, parking/transportation, what to bring)
   * CAP images
   * at least one local spotlight
+* District 1 kickoff planned for late October, FYI
 
 Other
 * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
