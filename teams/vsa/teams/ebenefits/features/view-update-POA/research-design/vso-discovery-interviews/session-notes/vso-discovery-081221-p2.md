@@ -5,7 +5,7 @@
 #### Session Recorded: Yes
 #### Note-taker: James Adams
 
-## Participant 1
+## Participant 2
 
 `Raw notes/unedited`
 
