@@ -1,4 +1,4 @@
-## eBenefits VSO discovery interviews session 2
+## eBenefits VSO discovery interviews session 4
 #### Conducted: August 17, 2021 via Zoom
 #### Moderator: Candy Clark
 #### Participants: 1
