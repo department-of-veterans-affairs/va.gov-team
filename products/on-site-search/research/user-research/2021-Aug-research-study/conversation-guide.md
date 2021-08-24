@@ -68,8 +68,10 @@ Before we start, I want to go over a few things:
 ## Instructions for finding Zoom chat (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
+    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
   - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+
 
 ## Warm-up Questions - 5 minutes
 
@@ -81,6 +83,9 @@ Let’s start with a few questions...
 (Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)
 
 - *If they mentioned VA.gov*, ASK: When was the last time that you remember going to the VA.gov website?
+  - What were you looking for?
+  - Where did you look?
+  - Did you find what you were looking for?
 
 ## Screen sharing
 I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your desktop. You should first close any other applications that you don't want me to see.
@@ -91,10 +96,9 @@ What kind of device are you using today? *(Phone / Computer)*
 ## Veteran Tasks
 I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
-I will share the link to the prototype in the Zoom chat. *COPY LINK TO CHAT* Do you see the link? 
-*COPY CHAT INSTRUCTIONS FROM PDF CONVO GUIDE*
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD).
 
-- *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls. NEED TO ADD MORE INSTRUCTIONS HERE
+Do you see the link? 
 
 While you're looking at this prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
@@ -105,7 +109,7 @@ Have you ever done this before? (Y / N) If so, how did you do this? If not, how 
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / Other________________________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for > __________ / VA forms / __________* 
 
 What would you expect to happen?
 
@@ -117,7 +121,53 @@ Now you can go ahead with what you wanted to do.
 
 - *RECORD search query typed:* _____________________________
 
-Because this is a limited prototype, you're going to see what happens if you typed something slightly different from what you typed--"XYZ".
+Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"letter in support".
+
+*If see search results, ASK:* What are your impressions of what you see?
+
+What would you do now?
+ 
+### Task 2: [Find VA hospital in Knoxville] - 5 minutes
+Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
+
+Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
+
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for > __________ / Find VA location / __________* 
+
+What would you expect to happen?
+
+Now go ahead and try it.
+
+Before you do anything on this page, what do you think you can do here? 
+
+Now you can go ahead with what you wanted to do.
+
+- *RECORD search query typed:* _____________________________
+
+Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"Knoxville TN".
+
+*If see search results, ASK:* What are your impressions of what you see?
+
+What would you do now?
+ 
+### Task 3: [College credit for military service] - 5 minutes
+Now I would like you to See if you can get any college credit for your military service.
+
+Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
+
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for > __________ / Resources & support / __________* 
+
+What would you expect to happen?
+
+Now go ahead and try it.
+
+Before you do anything on this page, what do you think you can do here? 
+
+Now you can go ahead with what you wanted to do.
+
+- *RECORD search query typed:* _____________________________
+
+Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"college credit".
 
 *If see search results, ASK:* What are your impressions of what you see?
 
@@ -125,6 +175,7 @@ What would you do now?
  
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
+
 - What did you *like* about what you've seen today?
 
 - What did you *dislike* about what you've seen today?
@@ -136,7 +187,7 @@ What would you do now?
 
 ## Thank You and Closing - 1 minute
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
 
 Thank you so much again, and enjoy the rest of your day!
 
