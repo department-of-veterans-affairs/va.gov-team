@@ -52,7 +52,6 @@ Before we start, I want to go over a few things:
 
 
 ## Screen sharing instructions (if needed)
-- For screen reader users, if already hearing their screen reader on Zoom, don't check "share computer audio"
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
