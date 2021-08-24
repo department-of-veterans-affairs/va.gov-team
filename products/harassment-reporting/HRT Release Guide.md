@@ -5,9 +5,28 @@ How do we ensure a smooth and successful launch? (This document starts from the 
 - [Change Release Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/decision-tools/DRAFT_Change_Checklist.md)
 
 ## Product Launch Sequencing 
-- First Priority 1st Launch - Homepage Link: Determine location of VA.gov (PO/PM/IA) - Complaince with 5303 directive **Time Sensative**
-- Second Priority 2nd Launch - Landing/Intro Page: Explainer landing page that breaks down information and form completion activities.
-- Third Priority 3rd Launch - HRT form app/wizard with submission status component.  
+#### First Priority Launch/Release 
+Landing Page: Determine location of VA.gov (PO/PM/IA) - Complaince with 5303 directive **Time Sensative**
+      
+      - Landing Page Copy Complete - Stakeholder review and feedback (Aug 30- Sep 3)
+      - Landing Page Review (VSP Staging Review - Sep 6-10)
+      - Determine Placement on VA.gov (Aug 30- Sep 10)
+      - Target **Launch** (Sep 16, 2021)
+      - Note: This landing page will not mentioned the form, an alternate version will be produced that will deploy at the same time as the HRT Intro-page and Form at an alternate date. 
+
+#### Second Priority Follow-on Launch/Release
+Form Version of Landing Page, Intro Page and HRT Form: Form version of landing page (V2), Explainer Intro page that breaks down information and form completion activities. HRT form app/wizard with submission status component. 
+      
+      - Remain on current collaboration cycle (Research Plan --> Mid-Point Review as next steps)
+      - Complete Designs post content copy (S55)
+      - Build out Interactive prototype (S55)
+      - User Research Plan - Conduct Research (TBD)
+      - Determine updates based on research readout 
+      - VSP Midpoint Review
+      - FE Build - Test - A11y Review - WCAG 2.1
+      - Internal UAT - Smoke Check
+      - VSP staging review 
+      - **Launch** Stretch Goal - October 2021
 
 ## Pre-Release 
 
