@@ -87,7 +87,7 @@ If the participant immediately moves to click on "start your application..." but
   - Is there anything that you would not have on-hand or would need to prepare before starting this application?
   - Do you have any additional thoughts or questions? 
 
-## Variation 1: Applying to health care benefits, 50% or higher disability rating is known at sign in (~half of participants, participant should have a disability rating of 50% or higher) - 20 minutes
+## Variation 1: Applying to health care benefits, 50% or higher disability rating is known at sign in (~half of participants, participant should have a disability rating of 50% or higher) - 15 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not.
 
@@ -106,7 +106,7 @@ Great, let's continue
      - Prompt participant to interact with alert on the third or fourth page of the form if they haven't already - note any interaction/content positives/confusion
 
 
-## Variation 2: Applying to health care benefits, 50% or higher disability rating is known at self-reported (~half of participants, participant should have a disability rating of 50% or higher) - 20 minutes
+## Variation 2: Applying to health care benefits, 50% or higher disability rating is known at self-reported (~half of participants, participant should have a disability rating of 50% or higher) - 15 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
 
@@ -129,7 +129,7 @@ For the purpose of this research, imagine that you actually do not have a disabi
 Ask participant to continue filling out the form
 - Prompt participant to interact with alert on form if they haven't already - note any interaction/content positives/confusion
      
-## Variation 3: Applying to health care benefits, does not have 50% or higher disability rating (1-2 participants) - 20 minutes
+## Variation 3: Applying to health care benefits, does not have 50% or higher disability rating (1-2 participants) - 15 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
 
