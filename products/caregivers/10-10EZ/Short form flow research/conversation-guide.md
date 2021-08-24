@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide: VSA Caregiver, Usability research of shortened form based on disability rating for the 10-10EZ, August 2021
+# Conversation Guide: VSA Caregiver, Usability research of shortened form based on disability rating for the 10-10EZ, September 2021
 
 ## Moderator Logistics
 
@@ -57,8 +57,8 @@ Great. Now we're really ready to begin!
 
 **If yes, has already fully filled out and submitted form**
 - Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, health care or not)
-  -  Did they seek any help in completing the form?
-  -  Do they remember how long the form took you to fill out?
+  -  Did you seek any help in completing the form?
+  -  Do you remember how long the form took you to fill out?
   - Did you save the form and return to it or fill it out in one sitting?
     - If so, did you receive any reminders to return and complete it?
   -  What happened after you submitted the form?
@@ -67,7 +67,7 @@ Great. Now we're really ready to begin!
 
 **If yes, has partially filled out but not submitted form**
 - Do you have any lasting impressions (anything you liked or found frustrating) of filling out the VA Health Care Application? (How does it compare to other applications you've completed? -VA or not, health care or not)
-  -  Did they seek any help in completing the form?
+  -  Did you seek any help in completing the form?
   -  Do you remember what section you stopped at and why?
   - Did you save the form?
     - Have you received any reminders to return and complete it?
@@ -77,7 +77,7 @@ Great. Now we're really ready to begin!
 
 Now that I understand a little bit more about your background. 
 
-Let's look at the screen that I have shared with you. Put yourself back to the moment that you arrived at this screen to apply for health care benefits in the past. (or if has never applied- you arrive here with the intention of applying for health care benefits.) https://staging.va.gov/health-care/apply/application/introduction  Go ahead and talk me through what you would do upon arriving at this page. 
+Let's look at the screen that I have shared with you. Put yourself back to the moment that you arrived at this screen to apply for health care benefits in the past. (or if has never applied- you arrive here with the intention of applying for health care benefits.) Go ahead and talk me through what you would do upon arriving at this page. 
 
 If the participant immediately moves to click on "start your application..." button, I will ask them if they usually read this intro page, even if no, continue with the following questions.
 
@@ -166,4 +166,5 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 ## Thank you and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
+
 Great, thank you so much again, and enjoy the rest of your day!
