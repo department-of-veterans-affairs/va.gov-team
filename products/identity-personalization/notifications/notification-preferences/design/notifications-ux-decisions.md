@@ -16,6 +16,22 @@ Document UX decisions for the MVP and our rationale for making these decisions.
 
 ## UX Decisions
 
+### Use experimental design pattern on radio inputs
+
+8/6/2021, Design council meeting
+Attendees: Design system council members, Liz Lantz, Erik Hansen, Ana Jackabcin, Robin Garrison
+
+We submitted a [variation of our error message pattern](https://design.va.gov/experimental-design/input-message) for review to the design system council ([reasoning outlined in #511](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/511)), and it was approved with reservations in this meeting.  Some concerns were raised:
+- Users might feel triggered by all the warning icons, or that the page is "yelling" at them.  
+  - We talked about using the info state instead, but the design council suggested we test with it as is.
+  - We'll do a hallway test with colleagues who are also Veterans as a gut check before launch, in lieu of usability testing
+  - We'll also get input from a VA mental health professional (key informant sampling) to see whether or not they share this concern. It's challenging to evaluate whether or not we're triggering people. We don't want to put Veterans at risk and purposely trigger them through research.
+- Having all the different icons in a circle makes it hard to distinguish one from another.  
+  - Since we're using the design system feedback icons, we won't make any changes to our design.
+- It's hard to scan the different notification channels (text vs email) since the radio labels all start with "Notify by...".  
+  - We've have worked closely with our content team throughout this process, so we'll keep content as-is until we gather more evidence that we need to change it.
+
+
 ### Improve ability to account for NULL permissions
 
 7/29/21
@@ -33,7 +49,6 @@ Attendees: Liz Lantz, Kevin Hoffman, Ana Jackabcin
 
 - Update design to remove read mode in order to clearly expose status of notification settings
 - Remove gray heading background and containers to improve spacing, readability, and mobile UX
-
 
 ### Use case: user opted into notifications deletes their associated contact information
 
