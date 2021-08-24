@@ -57,8 +57,6 @@ At this point, I would like you to share your screen, so we can see the text too
 **Text**
 - What are your thoughts about what the text is asking you to do?
 - Would you add anything to this text messages?
-- Here we are showing a text message, but how would you like to be notified that you have these pre-check-in tasks to complete?
-   - _Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, email, etc._
 -  What would you do next? 
  - Go ahead and do that (_assuming they would click the pre-check-in link_).
 - When they get to the next of kin page, were you expecting to be able to update your next of kin's information here?
@@ -100,6 +98,7 @@ Things to watch for:
     * Was there anything confusing about the interaction with the modal on a mobile device?
     * Was there any confusion that this information should be about their next of kin and not themself?
     * Were there any usability issues/points of confusion?
+* Is there anything missing or would you change anything?
 
 **Insurance**
 * Can you explain to me what we're looking at?
@@ -109,17 +108,37 @@ Things to watch for:
 * Pretend that your insurance information displayed here isn't correct. _Make sure they click "No."_
   * _After clicking "No,"_ What are your thoughts baout what this page is asking you?
 
-**Questionnaire**
+**Reason for your visit**
 * What are your thoughts about what this page is asking you?
+* Do you see value or no value in sharing this information with your primary care provider?
 
+**Other concerns or life changes**
+* What are your thoughts about what this page is asking you?
+* Do you see value or no value in sharing this information with your primary care provider?
+
+**Questions for provider**
+* What are your thoughts about what this page is asking you?
+* Do you see value or no value in sharing this information with your primary care provider?
+* How would you expect your doctor or primary care provider to use this information?
+* Do you feel the in-person part of your appointment with the doctor/nurse will be different after providing this information ahead of time?
 
 **Confirmation page**
+* What are your thoughts about this page?
+* Once you subit these pre-check-in questions, who do you expect will have access to the answers that you entered? - Is it what you were expecting or not expecting?
+* Is there any other information we should include here? Anything about what to bring to your appointment or how to contact?
+* Where would you like to navigate to next after completing this form? (You can select more than one or none of the following options.) _Pause to let them answer, then provide options._
+  * A list of your upcoming appointments
+  * A list of other questionnaires that you need to complete
+  * VA.gov home page
+  * Other:
 
 ## Post-Task Interview - 5 minutes
-- Now that you've seen an example of what this pre-check-in experience could look like, what are your impressions?
-- What would you call this?
+- Now that you've seen an example of what this pre-check-in experience could look like, what are your overall impressions?
+- What would you call this experience?
 - Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
 - Are there any other items or information that you would like to review and update prior to your appointment?
+- Here we showed a text message, but how would you like to be notified that you have these pre-check-in tasks to complete?
+   - _Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, email, etc._
 - If you could change one thing about the experience, what would it be? 
 - Do you have any other thoughts on what we talked about today?
 - Any questions for me?
