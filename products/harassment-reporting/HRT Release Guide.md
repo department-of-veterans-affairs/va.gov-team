@@ -5,7 +5,7 @@ How do we ensure a smooth and successful launch? (This document starts from the 
 - [Change Release Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/decision-tools/DRAFT_Change_Checklist.md)
 
 ## Product Launch Sequencing 
-#### First Priority Launch/Release 
+#### Phase I: First Priority Launch/Release 
 Landing Page: Determine location of VA.gov (PO/PM/IA) - Complaince with 5303 directive **Time Sensative**
       
       - Landing Page Copy Complete - Stakeholder review and feedback (Aug 30- Sep 3)
@@ -14,7 +14,7 @@ Landing Page: Determine location of VA.gov (PO/PM/IA) - Complaince with 5303 dir
       - Target **Launch** (Sep 16, 2021)
       - Note: This landing page will not mentioned the form, an alternate version will be produced that will deploy at the same time as the HRT Intro-page and Form at an alternate date. 
 
-#### Second Priority Follow-on Launch/Release
+#### Phase II: Second Priority Follow-on Launch/Release
 Form Version of Landing Page, Intro Page and HRT Form: Form version of landing page (V2), Explainer Intro page that breaks down information and form completion activities. HRT form app/wizard with submission status component. 
       
       - Remain on current collaboration cycle (Research Plan --> Mid-Point Review as next steps)
