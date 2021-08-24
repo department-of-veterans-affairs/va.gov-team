@@ -2,7 +2,7 @@
 name: Collab Cycle Feedback for Staging
 about: Staging feedback template for Collaboration Cycle reviewers to provide feedback to VFS teams
 title: [VA.gov Issue Category] VA.gov Issue Description (Category Number.Issue Number)
-labels: staging, collab-cycle-feedback
+labels: staging, collab-cycle-feedback, vsp-product-support, collaboration-cycle
 assignees: 
 
 ---
