@@ -74,7 +74,7 @@ Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using t
 - What kind of device will you be joining on and are willing to share a browser window on--computer or smartphone?  
 
 ## Timeline
-#### Desired Timeline: Aug TBD, 2021 
+#### Desired Timeline: Sept TBD, 2021 
 **30-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
@@ -95,12 +95,12 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participant(s) for pilot test:	TBD
+- Participants for pilot test:	TBD
 - Notetakers:	Perigean 
 - Observers:	NEW PO? (emailTBD@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Sam Suddath (ssuddath@governmentcio.com)
  
 ## Resources	
-- [Conversation Guide]()	
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/conversation-guide.md)	
 - [Research Findings]()	
 
 ## Approvals
