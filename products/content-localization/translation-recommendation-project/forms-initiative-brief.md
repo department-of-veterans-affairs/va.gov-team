@@ -3,44 +3,51 @@
 ## Overview
 
 
-## Outcome Summary
-
 Extend our ability to provide translated content to on-line form applications.
 
-To date, we have established an approach for supporting static content pages and are working on our recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and as a first step, understand the effort and obstacles that need to be solutioned.
+To date, we have established an approach for supporting static content pages and are working on our recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and as a first step, we're undertaking Technical Discovery to understand the effort and obstacles that need to be solutioned.
 
+Once completed, we want to implement a translated form app to confirm our approach wroks in production and we don't encounter any other factors that may not have arisen in the sandbox environment. 
 
-- Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
+- Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
 ## Problem
 
 What is the problem and who is affected? 
 
-- Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language.
+- Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive as to-date, all apps are in English. 
 
 What evidence do we have of the problem?
 
 - VA has existing guidance for complying with Executive Order 13166, Improving Access to Services for Persons with Limited English Proficiency, 65 Fed. 50,121 (Aug. 16, 2000).
 
-- (Research study underway for Spanish Veterns/caregivers…)
+- (**ADD: Research study underway for Spanish Veterns/caregivers…)**
 
 
 How does this initiative help further OCTO-DE's mission and goals?
 
 - VA North Star:
-•	Veteran satisfaction with VA.gov site
-•	Veterans and their families can apply for benefits online
-•	Drive to self service tools and faster times to outcomes
-•	(Do we have any numbers on cost savings of applying on-line or reduced time to process applications and get benefits??)
+  - Veteran satisfaction with VA.gov site
+  - Veterans and their families can apply for benefits online
+  - Drive to self service tools and faster times to outcomes
+  - (**DT:* where can we get data re value of providing on-line apps vs paper PDFs (ie: are there cost savings in on-line apps vs pdf forms  - reduced errors, reduced time to process applications/get benefits, higher satisfaction?)**
 
 ## Desired User Outcomes
-- Why would a user want to use this?
+Why would a user want to use this?
 
 - On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly (proof point?).
 
-- (Note: add Cindy’s recent research on just the technical challenges with downloading PDFs).
+Link to recent research study on Find a Form/PDF Downloads: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
 
-- With this problem solved, what should users be able to do/achieve that they couldn't before?
+**Summary of Key Findings**
+- Most participants ignored the instructions provided
+- Most participants were unable to fill out and digitally sign any of the forms without
+help
+  -  Impossible on mobile devices because the forms require a version of Adobe Acrobat only available on desktop
+  -  Digital signature field was invisible to screen reader users
+  -  Form fields were difficult to fill out using a screen rea
+
+With this problem solved, what should users be able to do/achieve that they couldn't before?
 
 - We should see an increase in on-line form applications for xx form from the Spanish speaking population along with a reduction in errors? Quicker time for approvals?
 
