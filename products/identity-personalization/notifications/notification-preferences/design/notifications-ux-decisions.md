@@ -30,6 +30,10 @@ We submitted a [variation of our error message pattern](https://design.va.gov/ex
   - Since we're using the design system feedback icons, we won't make any changes to our design.
 - It's hard to scan the different notification channels (text vs email) since the radio labels all start with "Notify by...".  
   - We've have worked closely with our content team throughout this process, so we'll keep content as-is until we gather more evidence that we need to change it.
+- People might be confused by the lack of a save button
+  - We'll proceed with the auto-save functionality as is, but keep an eye on this in future tests.
+  - We'll do a hallway test with colleagues who are also Veterans as a gut check before launch, in lieu of usability testing
+
 
 
 ### Improve ability to account for NULL permissions
