@@ -3,7 +3,7 @@
 ## Goals	
 The purpose of this research is to get user feedback on new design concepts for surfacing site search and other search tools. We plan to test the following design concepts:
 1. A new search landing page that has links to other search tools (Find a Form, Resources & Support, and Find a VA Location)
-1. A new link on the VA.gov home page near the "top 4" boxes that goes to the new search landing page
+1. A new link on the VA.gov home page under the "top 4" boxes that goes to the new search landing page
 1. Search in the header is a link that goes to the new search landing page
 1. New links at the bottom of the search results page go to other search tools
 
@@ -19,8 +19,8 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 1. What are users' reactions to a landing page that highlights search tools? 
 1. Do users try using the search tools from links on the landing page?  
 1. What are users' reactions to Search in the header taking them to a landing page?
-1. What are users' reactions to new search link(s) in the "top 4" boxes taking them to a landing page?
-1. Do users try using the search tools from links on the search results page? Did they notice them at the bottom of the page?
+1. Do users try the new search link under the "top 4" boxes? What are users' reactions to it taking them to a landing page?
+1. Do users notice the search tool links at the bottom of the search results page? Do they try using them? Reactions?
 1. Are users able to complete tasks without getting stuck?
 
 ## Hypotheses
