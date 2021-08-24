@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1844805751/Contact+Center+Report+Feedback+Summary)
+
 ### Introduction
 
 The Insights and Analytics Team published a contact center report for October 2019. This was the first contact center report available since the 
