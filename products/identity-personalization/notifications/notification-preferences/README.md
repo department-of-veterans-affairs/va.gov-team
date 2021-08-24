@@ -106,6 +106,7 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 ### Error Handling
 ## Screenshots
 ### Before
+This is a new feature, no **before** state.
 
 ### After
 
