@@ -110,7 +110,7 @@ Have you ever done this before? (Y / N) If so, how did you do this? If not, how 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
 - *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / __________* 
-- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools: 
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
 
 What would you expect to happen?
 
@@ -134,7 +134,7 @@ Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
 - *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / __________* 
-- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools: 
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:* 
 
 What would you expect to happen?
 
@@ -158,7 +158,8 @@ Now I would like you to See if you can get any college credit for your military 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
 - *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Resources & support / __________* 
-- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools: 
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
+- *RECORD where clicked on Resources and support page: search box / college credits article link*
 
 What would you expect to happen?
 
