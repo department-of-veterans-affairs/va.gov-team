@@ -2,11 +2,13 @@
 
 ## Goals
 
-We've heard in previou research that Veterans receive inconsistent updates about their appointments, sometimes too many, sometimes too few. To improve how we deliver notifications, We want to better understand how different facilities manage appointment updates across the Veteran's health care journey.
+We've heard in [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/report-out.md#appointment-reminders-are-inconsistent) that Veterans receive inconsistent updates about their appointments, sometimes too many, sometimes too few. To improve how we communicate important scheduling information to Veterans, we want to better understand how different facilities manage appointment updates across the Veteran's health care journey.
 
 ## Methodology
 
-We will run a service mapping workshop with VA facility staff. This will involve three activities, defined below. Note that each activity can occur on a different day. Workshop and synthesis should be scheduled for the same week.
+We will run a service mapping workshop with VA facility staff. This will involve three activities, defined below. 
+
+Note that each activity can occur on a different day. Workshop and synthesis should be scheduled for the same week.
 
 All deliverables will be initially captured in the sensitive repo. Once map/report has been scrubbed of identifying information we will post it here.
 
@@ -52,22 +54,20 @@ All deliverables will be initially captured in the sensitive repo. Once map/repo
 
 ## Participants and recruitment
 
-We will run this workshop with VA facility staff who understand the scheduling process at 2-3 facilities. The facilities should be representative of regional differences:
-* One urban
-* One rural
-* TBD: We would like to speak to staff at facilities specifically involved in scheduling Community Care appointments. Refer to previous research.
+We will pilot this workshop with 2-5 VA facility staff who are directly involved with the scheduling and managing Veteran appointments at one VA facility. 
 
-Each workshop will include a group of 2-5 people actively involved in: 
+This might include: 
 * Scheduling veterans for appointments
 * Managing schedulers/the scheduling process
 * Educating veterans about scheduling
 
-## When?
-TBD
+After the pilot we will decide what other types of facilities we want to recruit from. These might include:
+* Facilities representative of regional differences (urban v rural)
+* Facilities specifically involved in scheduling Community Care appointments.
 
-* When ready: TBD
+## When?
+* When ready: The pilot is ready.
 * Length of sessions: 2.5 hours across 2-3 separate days.
-* Pilot: TBD
 
 # Team roles
 
