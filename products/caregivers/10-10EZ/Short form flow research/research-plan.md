@@ -53,7 +53,7 @@ We would like to work with Perigean to recruit for 10 fulfilled remote sessions.
 - At least 7 Veterans
 - At least 1 POA (no more than 3)
 - At least 8 people with a disability rating of 50% or higher
-- At least least 3 people over the age of 55
+- At least 3 people over the age of 55
 - All participants must participate using a laptop or desktop (the prototype is not functional on mobile or tablet devices)
 - All participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
