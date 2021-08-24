@@ -1,6 +1,6 @@
 ---
-name: Staging Review Feedback Ticket
-about: A ticket for staging review feedback
+name: Collab Cycle Feedback for Staging
+about: Staging feedback template for Collaboration Cycle reviewers to provide feedback to VFS teams
 title: [VA.gov Issue Category] VA.gov Issue Description (Category Number.Issue Number)
 labels: staging, collab-cycle-feedback
 assignees: 
