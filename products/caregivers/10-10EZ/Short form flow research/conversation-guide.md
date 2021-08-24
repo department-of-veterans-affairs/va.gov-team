@@ -168,3 +168,11 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
 
 Great, thank you so much again, and enjoy the rest of your day!
+
+
+## Resources	
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/research-plan.md)
+- [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
+- [Designs](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/4EEB69A5-43C1-45B3-B5B6-58D7DA435BD1)
+- Prototype: TBD	
+
