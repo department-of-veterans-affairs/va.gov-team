@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: VSA Caregiver, Usability research of shortened form based on disability rating, Health Care application 10-10EZ, August 2021
+# Research Plan: VSA Caregiver, Usability research of shortened form based on disability rating, Health Care application 10-10EZ, September 2021
 
 ## Background
 This research is to be conducted on the Health Care Application (10-10EZ) by the Caregivers team.
@@ -34,7 +34,7 @@ Our hypothesis is that users will be able to navigate through the short form rel
 ## Method	
 **Task analysis**
 
-A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Participants will be shown one of three flows:
+A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/conversation-guide.md)). Participants will be shown one of three flows:
 1. Short form based on pre-populated disability rating of 50% or higher at application start
 2. Short form based on self-reported disability rating of 50% or higher on VA compensation question
 3. Full form based on self-report of not having a disability rating of 50% or higher on VA compensation question (no more than 20% of participants should receive this flow)
@@ -42,7 +42,7 @@ A task-based usability study will be conducted remotely with Zoom using the Peri
 
 Participants will be encouraged to talk through their exploration of the prototype. Remote observers and note takers will be in attendance.
 
-We will be testing with a coded form in staging or a clickable UXPin prototype or "Wizard of OZ" study with high fidelity designs if the coded form is not ready.
+We will be testing with a clickable UXPin prototype.
   	
 
 ## Participants and Recruitment	
@@ -52,11 +52,10 @@ We would like to work with Perigean to recruit for 10 fulfilled remote sessions.
 
 - At least 7 Veterans
 - At least 1 POA (no more than 3)
-- At least 5 people who plan to use their computer for the session
-- At least 5 people who plan to use their smartphone for the session
 - At least 8 people with a disability rating of 50% or higher
 - At least least 3 people over the age of 55
-- Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
+- All participants must participate using a laptop or desktop (the prototype is not functional on mobile or tablet devices)
+- All participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
 
 
@@ -71,7 +70,7 @@ We would like to work with Perigean to recruit for 10 fulfilled remote sessions.
 
 
 ## When? 	
-Desired Timeline: TBD
+Desired Timeline: September 1 - 9, 2021
 
 Session length: 45 minutes. Please leave 15 minutes in between each session.
 
@@ -79,12 +78,16 @@ Notetaking: TBD
 	
 Team Availability | Time (EST)
 ------------------|--------------
-TBD      | TBD EST
-TBD       | TBD EST
+September 1     | 8am-3:30pm EST
+September 2     | 8am-6pm EST
+September 3     | 10:30am-6pm EST
+September 7     | 8am-5pm EST
+September 8     | 8am-3:30pm EST
+September 9     | 8am-4pm EST
 
 
 
-Pilot Session: TBD | TBD EST 	
+Pilot Session: August 31, 2021 | 3:30pm-5pm EST 	
 
 ## Team Roles	
 	
@@ -92,14 +95,16 @@ Pilot Session: TBD | TBD EST
 - Research guide writing and task development: Same as moderator
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Same as moderator
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test: TBD
 - Note-takers: TBD
-- Observers: Chris Dyer (chris.dyer@adhocteam.us), Daniel Nalbach (dnalbach@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov) 
+- Observers: Chris Dyer (chris.dyer@adhocteam.us), George Chewning (george.chewning@va.gov) 
 	
 
 ## Resources	
 - Project Brief: TBD
-- Short form [user flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
-- Convo Guide: TBD	
+- [User flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20)
+- [Designs](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/4EEB69A5-43C1-45B3-B5B6-58D7DA435BD1)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/conversation-guide.md)
+- Prototype: TBD	
 - Synthesis: TBD
 - Read-Out/Results: TBD
