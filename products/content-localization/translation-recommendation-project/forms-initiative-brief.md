@@ -89,11 +89,11 @@ Trust/Satisfaction, Health.*<sup>1</sup>\
 
 There are several considerations in determining which on-line application Form to translate and offer in Spanish:
 
--	The current on-line application form also has a corresponding English and Spanish PDF version (setting baseline metrics and KPIs)
--	The form is not overly complex/long
+-	The current on-line application form must also have a corresponding English and Spanish PDF version (setting baseline metrics and KPIs)
+-	The form is not overly complex/long or has unique complexities that would mean a longer delivery timeline
+- Form requires minimal updates/changes
 -	Evidence of a high need exists
--	Form requires minimal updates/changes
--	Other technical considerations and/or value?
+-	**Other technical considerations and/or value?**
 
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
