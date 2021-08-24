@@ -66,6 +66,8 @@ Things to watch for:
 * Were there any usability issues/points of confusion?
 * General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
+Now, I'm going to have you go back through pre-check-in again. This time I'll ask you some questions at each point in the process.
+
 **Introduction page**
 * Can you explain to me what we're looking at?
 * What are your thoughts about the information shared with you on this page?
