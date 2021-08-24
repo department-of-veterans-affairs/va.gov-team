@@ -127,6 +127,8 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 **Confirmation page**
 * What are your thoughts about this page?
 * Once you subit these pre-check-in questions, who do you expect will have access to the answers that you entered? - Is it what you were expecting or not expecting?
+  * What if your provider didn't request you answer any questions, so the only things you reviewed/updated were your contact, insurance, and next-of-kin information. Would you want access to the answers that you entered?
+    * If yes, where? Profile or with your other health questionnaires?
 * Is there any other information we should include here? Anything about what to bring to your appointment or how to contact?
 * Where would you like to navigate to next after completing this form? (You can select more than one or none of the following options.) _Pause to let them answer, then provide options._
   * A list of your upcoming appointments
