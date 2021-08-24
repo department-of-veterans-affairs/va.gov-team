@@ -84,7 +84,7 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
     * Was there anything confusing about the interaction with the modal on a mobile device?
     * Were there any usability issues/points of confusion?
 * Is there anything missing or would you change anything?
-* 
+
 **Modal**
 * What are your thoughts about what this page is showing you?
 * Is there anything missing or would you change anything?
