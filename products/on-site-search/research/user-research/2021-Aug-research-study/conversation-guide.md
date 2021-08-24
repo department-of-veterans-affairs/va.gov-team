@@ -17,7 +17,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting OFF*
 
-- *Open a standalone browser window to PROTOTYPE URL TBD*
+- *Open a standalone browser tabs to https://bit.ly/tasks-d and https://bit.ly/tasks-m)*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -96,7 +96,7 @@ What kind of device are you using today? *(Phone / Computer)*
 ## Veteran Tasks
 I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD).
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (desktop https://bit.ly/tasks-d or mobile prototypes: https://bit.ly/tasks-m).
 
 Do you see the link? 
 
@@ -109,7 +109,8 @@ Have you ever done this before? (Y / N) If so, how did you do this? If not, how 
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for > __________ / VA forms / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / __________* 
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools: 
 
 What would you expect to happen?
 
@@ -132,7 +133,8 @@ Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for > __________ / Find VA location / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / __________* 
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools: 
 
 What would you expect to happen?
 
@@ -155,7 +157,8 @@ Now I would like you to See if you can get any college credit for your military 
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for > __________ / Resources & support / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Resources & support / __________* 
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools: 
 
 What would you expect to happen?
 
