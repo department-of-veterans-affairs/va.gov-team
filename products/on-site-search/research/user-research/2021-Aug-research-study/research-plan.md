@@ -97,7 +97,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participant(s) for pilot test:	TBD
 - Notetakers:	Perigean 
-- Observers:	John Hashimoto (john.hashimoto@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Sam Suddath (ssuddath@governmentcio.com)
+- Observers:	NEW PO? (emailTBD@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Sam Suddath (ssuddath@governmentcio.com)
  
 ## Resources	
 - [Conversation Guide]()	
