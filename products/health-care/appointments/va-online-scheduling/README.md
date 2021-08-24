@@ -34,7 +34,6 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - Design & Research:
   - [Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9)
 - Engineering:
-  - [Kam Karshenas](https://dsva.slack.com/team/U1DCKT85B)
   - [Jeff Balboni](https://dsva.slack.com/team/U1YQCT1V3)
   - [Corey Ferris](https://dsva.slack.com/team/U01F5F6V8QN)
   - [Brad Gross](https://dsva.slack.com/team/U0188D5JV71)
@@ -44,10 +43,10 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - [Tony Williams](https://dsva.slack.com/team/UMBGJ37EK)
 
 ## What We're Working On
-
-- [VAOS homepage refresh](https://github.com/department-of-veterans-affairs/va.gov-team/blob/48097f1c1a996bbfde3f937e6591bf0f5ec05250/products/health-care/appointments/va-online-scheduling/initiatives/homepage-refresh/homepage-refresh-initiative-2021.md)
 - Integration with VAMF vaos-service
-- Appointment notifications
+- Digital health modernization efforts - "Health Apartment"
+  - Consolidating web appointments
+  - Appointment notifications
 
 ## Product Documentation
 - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/vaos-fe-roadmap.md)
@@ -69,6 +68,8 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - Eric Hopkins, Project Manager
   - Steven Brush, Engineering Lead
   - Brad Crosby, Engineering Lead
-  - Judy Mercado, Analyst
-  - Grace Palino, Project Manager (Production Support/SQA)
+  - Judy Mercado, Business Analyst
+  - Steve Alcocer, Business Analyst
+  - Grace Palino, Program Analyst (Production Support/SQA)
+  - Marcy Nadeau, Tester (SQA)
 
