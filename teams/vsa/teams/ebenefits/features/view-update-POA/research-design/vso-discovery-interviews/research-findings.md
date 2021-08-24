@@ -68,8 +68,8 @@ Next steps here
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/session-notes)
 
 ### Tools used for Synthesis
-[Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1628786622604/103eacbbea8770ab31d6cf61a7e3c51be0f3403f?sender=ude9e1e23baafa8f9953e3669)
-[Notes Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/VSO%20Discovery%20Interview%20Notes.xlsx)
+- [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1628786622604/103eacbbea8770ab31d6cf61a7e3c51be0f3403f?sender=ude9e1e23baafa8f9953e3669)
+- [Notes Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/VSO%20Discovery%20Interview%20Notes.xlsx)
 
 ### Pages and applications used
 n/a
