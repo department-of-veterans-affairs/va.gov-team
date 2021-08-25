@@ -25,7 +25,7 @@ Conversational discovery interviews were conducted remotely using Zoom’s audio
 We spoke to five (5) Veterans Service Officers that represented five different Veterans Service Organizations. 
 - 8-25 years of experience as VSOs
 - all were also veterans
-- 2 upper management/director level    `verify these numbers in notes`
+- 2 upper management/director level
 - 3 currently representing clients
 
 ### Research Questions
