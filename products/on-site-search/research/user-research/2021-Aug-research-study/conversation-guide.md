@@ -110,6 +110,9 @@ Have you ever done this before? (Y / N) If so, how did you do this? If not, how 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
 - *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / __________* 
+
+- *RECORD any reactions to the search landing page, esp. if got there from Search in header*
+
 - *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
 
 What would you expect to happen?
@@ -127,6 +130,9 @@ Because this is a limited prototype, you'll see what happens if you typed someth
 *If see search results, ASK:* What are your impressions of what you see?
 
 What would you do now?
+
+- *RECORD if participant gets stuck w/o finding link to target content*
+
  
 ### Task 2: [Find VA hospital in Knoxville] - 5 minutes
 Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
@@ -134,6 +140,9 @@ Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
 - *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / __________* 
+
+- *RECORD any reactions to the search landing page, esp. if got there from Search in header*
+
 - *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:* 
 
 What would you expect to happen?
@@ -151,6 +160,9 @@ Because this is a limited prototype, you'll see what happens if you typed someth
 *If see search results, ASK:* What are your impressions of what you see?
 
 What would you do now?
+
+- *RECORD if participant gets stuck w/o finding link to target content*
+
  
 ### Task 3: [College credit for military service] - 5 minutes
 Now I would like you to See if you can get any college credit for your military service.
@@ -158,7 +170,13 @@ Now I would like you to See if you can get any college credit for your military 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
 - *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Resources & support / __________* 
+
+- *RECORD any reactions to the search landing page, esp. if got there from Search in header*
+
 - *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
+
+- *RECORD any reactions to the search landing page, esp. if got there from Search in header*
+
 - *RECORD where clicked on Resources and support page: search box / college credits article link*
 
 What would you expect to happen?
@@ -176,6 +194,9 @@ Because this is a limited prototype, you'll see what happens if you typed someth
 *If see search results, ASK:* What are your impressions of what you see?
 
 What would you do now?
+
+- *RECORD if participant gets stuck w/o finding link to target content*
+
  
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
