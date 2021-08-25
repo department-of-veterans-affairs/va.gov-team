@@ -18,7 +18,7 @@ To get ensure there aren't any blatant usability issues with these changes, we r
 
    - One participant hesitated to make any selections because the notifications weren't relevant to them.
 
-2. Auto-saving was intuitive for all but one participant.  They wanted to click a button to feel confident that his changes were saved. 
+2. Auto-saving was intuitive for all but one participant.  They wanted to click a button to feel confident that their changes were saved. 
 
    - This participant was 45-55, and the only participant who does not work directly on a product team.
    - They immediately looked for a save button after checking the radio inputs.  
@@ -55,7 +55,7 @@ To get ensure there aren't any blatant usability issues with these changes, we r
 
 1. We should do more research on our design with a broader, non-employee participant pool to validate what we saw here and see if there are additional findings. With regard to these specific findings, we should:
    - Confirm that loading a page with multiple warning alerts doesn't overwhelm people
-   - Evaluate if the lack of a submit button causes usability problems for Veterans who aren't technology super-users, especially older Veterans.
+   - Evaluate if the lack of a submit button causes usability problems for Veterans who aren't technology super-users, especially older Veterans. The single participant who wasn't part of a product team had the most questions and points of hesitation.
 
 2. Update the "Manage your health email notifications on MHV" link to use the [active text link](https://design.va.gov/design/typography#links) style. It's an easy approach to make it more visible. We can also check the navigation path in analytics to see if people are finding it.
 3. Use an in page alert instead of a modal to drive traffic to the notification settings page.
