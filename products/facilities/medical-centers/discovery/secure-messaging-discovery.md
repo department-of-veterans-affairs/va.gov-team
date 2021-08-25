@@ -18,7 +18,7 @@ Informational interview with secure messaging SME(s).
 
 ### Discovery Questions
 
-- Where does this product fit into the Veteran journey?
+- Where does this product fit into the Veteran journey? ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
 - What is a typical use case for this product?
 - Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?
 - How does a health care provider onboard to secure messaging?
