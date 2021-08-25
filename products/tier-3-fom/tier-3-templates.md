@@ -48,13 +48,13 @@ Press room landing page {no wireframe}
 
 ## Phase 2 - tier 3 documents templates
 
-These templates provide interim shell HTML pages for document files. More research with VA offices is needed to understand how documents are today managed (e.g., How and where does VA have manage document files - in one, multiple databases, via direct upload to TeamSite pages? 
+These templates provide interim shell HTML pages for document files. More research with VA document creators is needed to understand how documents are today managed (e.g., How and where does VA have manage document files - in one/multiple databases, via direct upload to TeamSite pages? are there template formats for specific types of documents - there doesn't seem to be, but Ryan and I may not have found them in our exploration of the legacy site, WARMS, and pubs library).
 
 ### 2.0 documents
 
 Collections
 
-Document content types - [see common government & VA document types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/publications-and-documents-phase-2/common-types-government-documents.md)
+Document content types - [see common government & VA document types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/publications-and-documents-phase-2/common-types-government-documents.md) - e.g., handbooks, directives, manuals, reports...
 
 
 
