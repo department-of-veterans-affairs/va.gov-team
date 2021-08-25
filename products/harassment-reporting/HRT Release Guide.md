@@ -20,13 +20,15 @@ Form Version of Landing Page, Intro Page and HRT Form: Form version of landing p
       - Remain on current collaboration cycle (Research Plan --> Mid-Point Review as next steps)
       - Complete Designs post content copy (S55)
       - Build out Interactive prototype (S55)
-      - User Research Plan - Conduct Research (TBD)
-      - Determine updates based on research readout 
-      - VSP Midpoint Review
-      - FE Build - Test - A11y Review - WCAG 2.1
-      - Internal UAT - Smoke Check
-      - VSP staging review 
-      - **Launch** Stretch Goal - October 2021
+      - QA/Review Interactive Prototype (S56)
+      - VSP Midpoint Review (S56)
+      - User Research Plan Draft (S55-56)
+      - Conduct Research (S57-58 Pending timing with Search Research) 
+      - Determine updates based on research readout (S58)
+      - FE Build - Test - A11y Review - WCAG 2.1 (S58-59)
+      - Internal UAT - Smoke Check (S60)
+      - VSP staging review (S60)
+      - **Launch** Stretch Goal - Late October / Early November 2021 (Stretch launch goal: November 4 (Prior to Veterans Day) Launch goal: November 16, 2021. 
 
 ## Pre-Release 
 
