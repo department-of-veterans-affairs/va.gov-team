@@ -38,11 +38,28 @@
 ## Aug 25
 
 **Recurring events**
+* Design work needed around workflow, UX (from both listing page and detail page)
+  * Loop in Mikki
+  * Loop in Facilities team to ensure UX is coordinated across the CMS
+* Can we get a list of all events and urls in the system? to see how many have been cloned **CMS to do**
 
 **Banners**
+* Currently on all non-prod environments
+* CMS to update content to provide parity on all sites **CMS to do**
+* PW to ensure banner component is reusable **PW to do**
+  * Projecting to have in non-prod soon (latest ~early next week, dependent on review process)
+* CMS to sync with Danielle on pathing (include Dave) **CMS to do**
+  * OPIA should only have access to homepage alert
+  * May need some editorial experience changes in order to only show what's relevant to OPIA (question for Danielle)
+* Dismiss functionality: may want an expiry for dismissal (e.g. promo banner has been in use since ~Sept?, dismissed and forgotten about)
+  * Does this need separate UX and governance?
+  * Homepage update coming soon
+  * If moving from local storage to session storage, shouldn't be a big lift for PW
+* Governance around changing paths when not supposed to (not a blocker)
 
 **Breadcrumbs**
-
+* PR to fix hyphenation should be in by COB today
+* Will wait for Kev to return to connect dots
 
 
 ## Aug 18
