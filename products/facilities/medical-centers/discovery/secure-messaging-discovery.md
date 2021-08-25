@@ -9,6 +9,7 @@ Discovery for issue [#27687](https://github.com/department-of-veterans-affairs/v
 Get clarity on when to use this method (from VA perspective) so that we can determine the best method for researching Veteran expectations about their communication options and begin considering the best way to present the information that Veterans need.
 
 [VA Secure Messaging](https://www.va.gov/health-care/secure-messaging/)
+
 [Secure Messaging FAQ](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-general-faqs)
 
 ### Methodology
