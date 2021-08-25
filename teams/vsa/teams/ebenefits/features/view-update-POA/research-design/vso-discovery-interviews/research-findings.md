@@ -23,7 +23,7 @@ Conversational discovery interviews were conducted remotely using Zoom’s audio
 ### Who we talked to
 
 We spoke to five (5) Veterans Service Officers that represented five different Veterans Service Organizations. 
-- 8-20 years of experience as VSOs
+- 8-25 years of experience as VSOs
 - all were also veterans
 - 2 upper management/director level    `verify these numbers in notes`
 - 3 currently representing clients
@@ -45,12 +45,16 @@ Research questions here
 
 ## Details of Findings
 1. Every representative interviewed identified word of mouth and outreach efforts as the primary way they connect with Veterans and Service Members. Many organizations rely on regional outposts with monthly meetings and/or relationships  with medical providers to funnel Veterans to their organization. Three of the representatives mentioned outreach during TAPS, but have found that the claims process is not the highest priority during inital transition from active duty. Only two of the representatives mentioned searches on VA.gov and none mentioned OGC. 
+> The biggest way is our reputation. When I mentioned ALS and that we represent 75% of Veterans with ALS, that's a huge percentage and in effect anyone who's diagnosed with ALS gets referred to us... That starts in the private sector. There were changes to legislation in 2008 that we knew were coming in 2007. So we started a massive outreach campaign across the country with hospitals and ALS clinics to let them know what we do and what we can do for Veterans with ALS.
 
 2. Representatives estimated that 80-90% of clients begin looking for a representative before starting the claim process. Although this means they are starting with less initial information, every representataive preferred to meet with Veterans or Service Members prior to claims being started so they can position their claim for the best chance of success. Typically Veterans will be routed to individual representatives through a group that determines which department (by specialty, location, or other demographic) is best matched with them. Some of the representatives had slang terms Veterans and Service Members that change representation mid-claim, referring to them as "POA hoppers" or "POA hunters", and the behavior makes them wary. Sometimes these claims are not really related to VA benefits, or the veteran feels they should be getting more than they are. All representatives were very clear that they can consult with any Veteran or Service member, but they cannot take any action until the VA 21-22 is in place and active.
+> Almost anything you can imagine, if it's related to VA benefits, we can help. The majority 
 
 3. All representatives remarked that paper forms and in-person help is still neccessary to reach veterans, but that COVID-19 protocols had driven more of their process "online". This largely meant that they were collecting filled-in VA 21-22 forms through encrypted mail and uploading to VA through Direct Mail Upload or the Centralized Mail Portal. Using Direct Mail Upload has decreased the time it takes for a POA to be active from 10 days using fax submission to 3 days.
+> Because of the serious nature of the disabilies in our clients, we try to fill out everything we can and send it to them for their signature so they don't have to fill out a whole bunch of forms... Prior to COVID, most of them were paper copies through the mail. Because of COVID, it's changed significantly in that almost everything is done electronically, which actually should be the preferred message because it's made things much easier for our clients and much faster.
 
 4. Tools mentioned include eBenefits (Veteran tool only), SEP, Direct Mail Upload, Centrailized Mail Portal (also referred to as Cenmail Protal), VetsPro, VBMS, CAG, encrypted email, paper forms, and fax. Additionally, each organiation has internal tools to manage cases. One representative mentioned creating a special "user guide" to walk Veterans through appointing a representative in eBenefits. This user guide includes screen shots of eBenefit pages, arrows pointing to menu items, and specific information to enter to find the organization.
+
 
 5. Two of the representatives said their organization prefers to get VA 21-22 forms through eBenefits and SEP. After the initial consultation with a Veteran or Service Member, they will ask the client to go through eBenefits to appoint the representative. Then the representative will use SEP to finish their portion of the form and submit to VA. However, sometimes this goes wrong and the appointment does not show up in SEP. When this happens, the Veteran will have to call the helpdesk. Often they revert back to paper forms instead of waiting for digital resolution. This is especially problematic for users that are trying to change representatives during the claims process.
 
