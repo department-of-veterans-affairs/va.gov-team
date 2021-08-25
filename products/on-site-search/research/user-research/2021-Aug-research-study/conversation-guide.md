@@ -127,7 +127,7 @@ Now you can go ahead with what you wanted to do.
 
 Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"letter in support".
 
-*If see search results, ASK:* What are your impressions of what you see?
+- *If see search results, ASK:* What are your impressions of what you see?
 
 What would you do now?
 
@@ -157,7 +157,7 @@ Now you can go ahead with what you wanted to do.
 
 Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"Knoxville TN".
 
-*If see search results, ASK:* What are your impressions of what you see?
+- *If see search results, ASK:* What are your impressions of what you see?
 
 What would you do now?
 
@@ -165,7 +165,7 @@ What would you do now?
 
  
 ### Task 3: [College credit for military service] - 5 minutes
-Now I would like you to See if you can get any college credit for your military service.
+Now I would like you to see if you can get any college credit for your military service.
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
@@ -174,8 +174,6 @@ Can you look at the page in your web browser and tell me what you might do--but 
 - *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
 - *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
-
-- *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
 - *RECORD where clicked on Resources and support page: search box / college credits article link*
 
@@ -191,7 +189,7 @@ Now you can go ahead with what you wanted to do.
 
 Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"college credit".
 
-*If see search results, ASK:* What are your impressions of what you see?
+- *If see search results, ASK:* What are your impressions of what you see?
 
 What would you do now?
 
