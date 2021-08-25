@@ -33,8 +33,8 @@
 5. Roundtable Questions, Comments. 
 
 ### Next Steps 
-Static Content Landing Page: Landing Page Content Copy --> Review/Validate --> VSP Staging Review (9/9 @2PM) --> Anticipated Launch Sep 16, 2021. 
-Form Track: Iteractive Prototypes --> User "Veteran" Research --> VSP Mid-point review 
+1. Fast Path "landing page" - Static Content Landing Page Content Copy --> Review/Validate --> VSP Staging Review (9/9 @2PM) --> Anticipated Launch Sep 16, 2021. 
+2. Form Track: Iteractive Prototypes --> User "Veteran" Research --> VSP Mid-point review 
 
 
 ## Session Notes:
