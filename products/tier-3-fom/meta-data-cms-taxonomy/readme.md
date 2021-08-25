@@ -58,12 +58,22 @@ Content types in "Policies and manuals":
 
 ## Topics meta data
 
+Topics meta data nomenclature TBD SME input and card sort with tier 3 audiences and authors. 
+
+Could begin with:
+
+- Use the benefits categories as the baseline of topic lables (Health care, Disability, Pension, Education, etc.)
+- Include Veteran audience labels used in RS (Women Veterans, LGBTQ+ Veterans, Gulf War Veterans, etc.)
+- Include well-known/common VA topics: MISSION Act, Agent Orange, Coronavirus, PTSD, Military sexual trauma, Veteran's Day, Mental health
+- Get input from tier 3 audiences of what common topics they look for from VA
+- Get input from tier 3 SMEs of what common topics they create content about
+
 
 ## Other meta data 
 
-- Office name
-- Administration (or "VA" for the central offices)
-- Senior leader names
+- Office name (from Salesforce)
+- Administration or "VA" for the central offices (from Salesforce)
+- Senior leader names (from CMS bios database)
 - 
 
 
