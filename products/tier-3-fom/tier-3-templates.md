@@ -24,7 +24,7 @@ Story page [same as `Announcement` template; different CMS meta data]
 
 Policy statement
 
-Policy notice/proposed rule - open/closed
+Policy notice/proposed rule - open/closed for public comments
 
 'Mother' search page - i.e., from `View all latest content` from an office page 
 
@@ -41,9 +41,9 @@ Remarks page
 
 Press release page
 
-Official travel and public schedules page
+Official travel and public schedules page {no wireframe}
 
-Press room landing page
+Press room landing page {no wireframe}
 
 
 ## Phase 2 - tier 3 documents templates
