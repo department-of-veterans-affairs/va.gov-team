@@ -16,9 +16,9 @@ issue tickets (if they add value when describing known errors for your product)
 ## Contacts
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_ _persons's email_
-- Team Product Manager: _person’s name_ _persons's email_
-- _Additional Team Role_: _person’s name_ _persons's email_
+- OCTO-DE product lead: Matt Self (Matthew.Self2@va.gov)
+- Product manager: Darrell Neel (Neel_Darrell@bah.com) / Will McCormack (McCormack_Will@bah.com)
+- Lead engineer: Dan Shawkey (Shawkey_Daniel@bah.com)
 
 ### Outage Contacts:
 - _Additional Team Role_: _person’s name_ _persons's email_
