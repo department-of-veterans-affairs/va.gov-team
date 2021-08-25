@@ -16,7 +16,5 @@ Informational interview with secure messaging SME(s).
 
 **SME(s):** 
 
-**Possible questions:**
-
-- Who oversees this product on the VA side?
+**Questions:**
 
