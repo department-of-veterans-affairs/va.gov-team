@@ -25,6 +25,12 @@ If you get a vaccine that requires 2 doses, you'll need to return to the same fa
 
 ---
 
+### Error Validation
+
+Please select a location for your appointment
+
+---
+
 ### Alerts
 
 #### No Slots
