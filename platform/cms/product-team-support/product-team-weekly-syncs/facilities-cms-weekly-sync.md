@@ -25,7 +25,8 @@
 
 ## August 25 
 VAMC
-* Top tasks: Register for care, Billing and insurance, Medical records office 
+* Top tasks: Register for care, Billing and insurance, Medical records office
+  * Coordination of remaining steps [6072](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6072)
 * Hi-res images
   * Current Facilities sprint (beginning 8/25)
     * Remove hyperlinks for staff without bios [#29102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29102)
