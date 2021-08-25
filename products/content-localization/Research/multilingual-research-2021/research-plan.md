@@ -1,4 +1,4 @@
-# Research Plan for Content & Localization team, Multilingual content research, August 9, 2021
+# Research Plan for Content & Localization team, Multilingual content research, August 24, 2021
 As the product owner, I need to create a research plan to share with my team.	
 
 ## Goals	
@@ -15,15 +15,28 @@ We are taking a phased approach to translating VA.gov benefit hub content for Ve
 
 As part of Phase 3, we’re interviewing VA employees who serve Veterans and family members with LEP as well as employees of other federal agencies who serve individuals with LEP. We’d like to also interview Veterans and family members with LEP themselves. This will help us understand how best to meet their needs as we plan for the future.
 
-### 3. Research questions: What question(s) do you hope to be able to answer after completing this research?	
+### 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
-- How do Veterans and their family members with LEP typically search for translated content online? 
-- Where do they expect to find translated content and language assistance information on VA.gov? Would they search for it, look for a link in the header, footer, or on a page? 
-- What does a good experience with translated content look like for these Veterans and family members (i.e., sites they use that provide what they need well)?
-- Do they get language assistance from VA now? If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)?
-- How do they currently use VA.gov or other VA websites?
+#### Interview portion questions
+
+##### 1. What does a good experience with online translated content look like for Veterans and their families with LEP?
+- How do they currently search for translated content online (outside of VA)? 
 - What types of content do they most need translated?
-- If they needed to apply for a VA benefit, would they apply online, by mail, call, or go in person? If they needed language assistance to apply, how would they try to get it—and what type of assistance would be most helpful (i.e., phone or in-person assistance from an interpreter, a translated PDF to mail in, a translated online application, etc.)? 
+
+##### 2. How do Veterans and their families with LEP navigate VA services currently?
+- If they needed to apply for a VA benefit, would they apply online, by mail, call, or go in person?
+- If they needed language assistance to apply, how would they try to get it—and what type of assistance would be most helpful (i.e., phone or in-person assistance from an interpreter, a translated PDF to mail in, a translated online application, etc.)?
+- Where do they expect to find this content on VA.gov?
+
+##### 3. Are Veterans currently receiving language assistance from VA?
+- If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)?
+- How do they currently use VA.gov or other VA websites?
+
+_Note: These interview questions are intended to add more insights to analytics and other quantitative data. We don't expect to get the full picture from this study alone. We also intend to continue to do future research studies with our LEP audiences to gather more insights over time._
+
+#### Usability test
+
+#### 4. How findable and valuable is the current translated VA.gov content?
 - Do our currently translated COVID-19 pages offer value beyond the English content? How could we offer greater value?
 - Can Veterans and family members with LEP find the current Language Assistance and Resources pages on VA.gov? Do these pages offer value? How could we improve them?
 - Do  Veterans and their family members with LEP need or want the ability to print or share information they find on VA.gov?
@@ -86,16 +99,10 @@ Please list your participant criteria in two categories-
   - Very well (Disqualify)
 
 #### 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
- - At least 2 participants who have VA.gov accounts
+ - At least 2 participants who have signed in to their VA.gov account within the past 6 months
  - At least 2 participants who are enrolled in VA health care
- - At least 2 women
- - At least 2 participants age 35 or under and 2 participants 55 or over
- - At least 1 participant who wasn’t born in the U.S. 
- - At least 1 participant who has a parent who wasn’t born in the U.S.
+ - At least 2 participants who weren't born in the U.S. or who have at least 1 parent who wasn’t born in the U.S.
  - At least 1 person who doesn’t have a college degree (to include enlisted Veterans)
- - At least 1 person who has no college experience
- - At least 1 person who lives in a rural or remote area
- - At least 1 person who lives in a major metropolitan area
  - At least 1 person who has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
  - At least 1 person who identifies as LGBTQ+ 
  - At least 1 person who uses a screen reader or other assistive device
@@ -112,11 +119,11 @@ We will use the Perigean contract. In addition, we will share recruitment flyers
 
 #### 1.	Timeline: What dates do you plan to do research?
 
-Our goal is to do this research in early September.
+Our goal is to do this research in mid September.
 
 #### 2.	Prepare: When will the thing you are testing be ready?
 
-Most of the content is ready. We will have a mockup of the page with the callout to phone assistance ready by August 27.
+Most of the content is ready. We will have a mockup of the page with the callout to phone assistance ready by September 10.
 	
 #### 3. Length of Sessions: How long do you estimate each session will be?**
  - < 1-hour sessions
