@@ -13,10 +13,12 @@ If a Veteran experiences an incident of harassment or other inappropriate behavi
 1. Where do users expect to find a harassment reporting tool? 
   1. Are they able to find it on VA.gov?
 1. What are users' reactions to the landing page?
-1. What are users' reactions to the form?
+1. What are users' reactions to the online reporting form?
 
 ## Hypotheses
-1. 
+1. Users will like the convenience of self-service reporting of harassment.
+1. Users will be able to find the information about harassment on the VA.gov home page.
+1. Users will feel comfortable filling out the harassment reporting form.
 
 ## Method
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype in UXPin. Some participants will be on desktop, and some will be on mobile.
@@ -63,7 +65,7 @@ Oct 7, 2021 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-Sept 28 or 29, 2021  |  TBD 
+Sept 27, 28, or 29, 2021  |  TBD 
 Sept 29 or 30, 2021  |  TBD 
 
 
@@ -75,7 +77,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participants for pilot test:	TBD
 - Notetakers:	Perigean 
-- Observers:	Dave Conlon? (emailTBD@va.gov), Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), VA stakeholders TBD
+- Observers:	Dave Conlon? (emailTBD@va.gov), Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Soni Meckem? Josh Farrar?
  
 ## Resources	
 - [Conversation Guide]()	
