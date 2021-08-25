@@ -33,7 +33,7 @@ Search {content category} page - see content categories & content types
 
 ### 1.2 - public affairs/press room content types
 
-1.2 page types are public affairs/press room content that need OPIA SME input and participation. Recommend carving these out from 1.0 to develop when business is ready engage.
+1.2 page types are public affairs/press room content that need OPIA SME input and approval. Recommend peeling these out of 1.0 to develop when business is ready.
 
 Speech page
 
