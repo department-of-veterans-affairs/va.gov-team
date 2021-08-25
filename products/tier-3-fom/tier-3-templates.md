@@ -6,13 +6,13 @@ Per tier 3 strategy and high-level plan, we recommend working on Phase 1 first. 
 
 ### 1.0
 
-All offices page
+All org/offices search page
 
 Office/org landing page
 
 Office about us page
 
-All senior leaders bios page
+All senior leaders bios search page
 
 Bio detail page
 
