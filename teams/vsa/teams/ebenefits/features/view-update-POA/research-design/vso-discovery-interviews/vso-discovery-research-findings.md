@@ -1,5 +1,3 @@
-`In Progress`
-
 # VSO Discovery Interviews for Search and Appoint Representative Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, eBenefits**<br>
 
