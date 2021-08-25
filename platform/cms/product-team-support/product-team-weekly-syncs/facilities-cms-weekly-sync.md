@@ -34,18 +34,19 @@
   * Coordination of remaining steps [6072](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6072)
 * Hi-res images
   * Current Facilities sprint (beginning 8/25)
-    * Remove hyperlinks for staff without bios [#29102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29102)
     * Hi res image download rendered as a link without href [#29079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29079)
   * Validation on CMS side
     * presence of hi-res image
     * link to image
 * Social media meta tag audit planned for next sprint, 8/30, [#6171](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6171)
+* Staff profiles (fyi)
+  * Remove hyperlinks for staff without bios [#29102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29102) - Current Facilities sprint (beginning 8/25)
 
 ### Vet Centers
-* Required compoenets/content for publishing
-  * service list
-  * "Prepare for your visit" accordions (Appointments, parking/transportation, what to bring)
-  * CAP images
+* Required components/content for publishing
+  * service list (add to CMS migration backlog)
+  * "Prepare for your visit" accordions (Appointments, parking/transportation, what to bring) (add to CMS migration backlog)
+  * Facility images (including CAPs)
   * at least one local spotlight
 * District 1 kickoff planned for late October, FYI
 
