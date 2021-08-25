@@ -17,6 +17,7 @@ Informational interview with secure messaging SME(s).
 - Where does this product fit into the Veteran journey?
 - What is a typical use case for this product?
 - Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?
+- How does a health care provider onboard to secure messaging?
 
 ### SME Interview
 
