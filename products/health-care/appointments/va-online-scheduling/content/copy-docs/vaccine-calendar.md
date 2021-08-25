@@ -13,3 +13,10 @@ When choosing a date, make sure:
 - You can return to Cheyenne VA Medical Center for your second dose 3 to 4 weeks after the date you select.
 
 {calendar}
+
+---
+
+### Error Validation
+
+Please choose your preferred date and time for your appointment
+
