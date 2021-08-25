@@ -14,7 +14,7 @@ Informational interview with secure messaging SME(s).
 
 ### SME Interview
 
-**SME(s):** 
+**SME(s)** 
 
-**Questions:**
+**Questions**
 
