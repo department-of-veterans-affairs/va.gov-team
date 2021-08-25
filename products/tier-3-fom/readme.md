@@ -8,3 +8,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 
 Tier 3 Strategy deck presented to the Digital Modernization Council: 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/VA-Tier-3-Strategy-OCTO-071421.pdf
+
+Salesforce field mapping: 
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/tier-3-fom/salesforce-data-samples/field-mapping.md 
