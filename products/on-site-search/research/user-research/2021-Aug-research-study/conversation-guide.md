@@ -96,7 +96,7 @@ What kind of device are you using today? *(Phone / Computer)*
 ## Veteran Tasks
 I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (desktop https://bit.ly/tasks-d or mobile prototypes: https://bit.ly/tasks-m).
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (desktop https://bit.ly/tasks-d or mobile https://bit.ly/tasks-m).
 
 Do you see the link? 
 
