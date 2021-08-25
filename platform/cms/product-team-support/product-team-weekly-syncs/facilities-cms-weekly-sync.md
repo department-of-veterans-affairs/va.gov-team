@@ -34,7 +34,7 @@ VAMC
   * Validation on CMS side
     * presence of hi-res image
     * link to image
-  * Social media meta tag audit planned for next sprint, 8/30, [#6171](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6171)
+* Social media meta tag audit planned for next sprint, 8/30, [#6171](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6171)
 
 Vet Centers
 * Required compoenets/content for publishing
