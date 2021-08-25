@@ -16,7 +16,7 @@ If a Veteran experiences an incident of harassment or other inappropriate behavi
 1. What are users' reactions to the online reporting form?
 
 ## Hypotheses
-1. Users will like the convenience of self-service reporting of harassment.
+1. Users will like the convenience of self-service reporting harassment.
 1. Users will be able to find the information about harassment on the VA.gov home page.
 1. Users will feel comfortable filling out the harassment reporting form.
 
