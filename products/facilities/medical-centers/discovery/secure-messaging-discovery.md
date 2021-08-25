@@ -12,7 +12,7 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 Informational interview with secure messaging SME(s).
 
-- What do they need to know about each service?
+- What do Veterans need to know about each service?
 - How is it different than the other options?
 - Where does each option fit within the Veteran journey?
 - What is the situation the Veteran is in when he/she uses the service?
