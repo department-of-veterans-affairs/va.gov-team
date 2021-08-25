@@ -6,7 +6,7 @@ Date: 08/10/2021
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
-[Research Report PDF] (link here)
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-readout-full.pdf)
 
 <br>
 
