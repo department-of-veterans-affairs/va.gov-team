@@ -50,79 +50,98 @@ Please list your participant criteria in two categories-
 Group 1:
  - Men who have previously used Chapter 33 benefits
  - Will test on a desktop computer
+ - Link: https://www.surveymonkey.com/r/PPGL56K
 
 Group 2:
 - Women who have previously used Chapter 33 benefits
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/6LF8PV9
 
 Group 3:
 - Men who are currently using or plan to use Chapter 33 benefits in the next year
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/67SJFKZ
 
 Group 4: 
 - Women who are currently using or plan to use Chapter 33 benefits in the next year
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/67BCVBZ
 
 Group 5:
 - Men who have previously used, are currently using, or plan to use Chapter 30 benefits in the next year
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/698RQLX
 
 Group 6:
 - Women who have previously used, are currently using, or plan to use Chapter 30 benefits in the next year
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/69DZWH5
 
 Group 7:
 - Men who have previously used, are currently using, or plan to use VR&E benefits in the next year
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/69W8M7T
 
 Group 8:
 - Women who have previously used, are currently using, or plan to use VR&E benefits in the next year
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/69N2K8P
 
 Group 9:
 - Non-Veteran dependents who have previously used, are currently using, or plan to use Chapter 35 benefits in the next year
 - Will test on a desktop computer
+- Link: https://www.surveymonkey.com/r/69P9SRQ
 
 Group 10:
  - Men who have previously used Chapter 33 benefits
  - Will test on a mobile device (i.e. phone)
+ - Link: https://www.surveymonkey.com/r/6D79LZ8
 
 Group 11:
 - Women who have previously used Chapter 33 benefits
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6DJPZRT
 
 Group 12:
 - Men who are currently using or plan to use Chapter 33 benefits in the next year
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6DMXZ3F
 
 Group 13: 
 - Women who are currently using or plan to use Chapter 33 benefits in the next year
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6DBTW9D
 
 Group 14:
 - Men who have previously used, are currently using, or plan to use Chapter 30 benefits in the next year
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6Y8YYG3
 
 Group 15:
 - Women who have previously used, are currently using, or plan to use Chapter 30 benefits in the next year
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6YYBNVH
 
 Group 16:
 - Men who have previously used, are currently using, or plan to use VR&E benefits in the next year
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6YQ7TZL
 
 Group 17:
 - Women who have previously used, are currently using, or plan to use VR&E benefits in the next year
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6YT7JX6
 
 Group 18:
 - Non-Veteran dependents who have previously used, are currently using, or plan to use Chapter 35 benefits in the next year
 - Will test on a mobile device (i.e. phone)
+- Link: https://www.surveymonkey.com/r/6YFSVBR
 
 Group 19:
 - Individuals who have previously used, are currently using, or plan to use VA Education benefits (i.e. Chapter 33, Chapter 30, VR&E, Chapter 35) in the next year
 - Individuals use one or more assistive devices (e.g. screen reader, magnifier) for computer usage
 - Will test on desktop computer
+- Link: https://www.surveymonkey.com/r/62KQMMR
 
 
 2.	What is your recruitment strategy? 	
