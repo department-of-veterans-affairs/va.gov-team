@@ -24,16 +24,17 @@
 
 </details>
 
-## August 19, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
+## August 26, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
 ### Action items:
 1. Program/Stakeholder Update - @Soni/Josh
-2. Mobile Design Update - @Cassandra 
-3. Update: Recieved Content draft, @Cassandra working design updates and plan to follow back up for final pass with content early next week
+2. [Release Plan Update](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/HRT%20Release%20Guide.md) - @brian
+3. Status: @Cassandra finalizing design "content" updates / Working UX Pin Interactive Prototype, Veteran Research Plan Draft is in-progress.  
 4. LoROTA capability Intro: “low risk one time authentication”. Currently, to get around a veteran having to have a va.gov account set up, this authentication method verifies identity based on the phone number listed in Vista. (Built for Check-in MVP but could expand if applicable). 
 5. Roundtable Questions, Comments. 
 
 ### Next Steps 
-- Deisgn Mockups --> Prototypes --> User Research (August to mid-September) 
+Static Content Landing Page: Landing Page Content Copy --> Review/Validate --> VSP Staging Review (9/9 @2PM) --> Anticipated Launch Sep 16, 2021. 
+Form Track: Iteractive Prototypes --> User "Veteran" Research --> VSP Mid-point review 
 
 
 ## Session Notes:
