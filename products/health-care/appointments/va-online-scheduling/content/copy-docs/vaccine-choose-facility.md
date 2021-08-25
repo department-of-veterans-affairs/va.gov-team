@@ -22,3 +22,21 @@ Please select where you’d like to have your appointment. (*Required)
 (H2) Some COVID-19 vaccines require 2 doses
 
 If you get a vaccine that requires 2 doses, you'll need to return to the same facility for your second dose.
+
+---
+
+### Alerts
+
+#### No Slots
+
+We’re sorry. We couldn’t find any available slots for your appointment.
+
+Please call your medical facility:
+
+{facility name}
+
+{facility address}
+
+Main phone: {phone number}
+
+TTY: 711
