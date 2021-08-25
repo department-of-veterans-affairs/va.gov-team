@@ -9,13 +9,8 @@ The VA.gov team at the Department of Veterans Affairs is running a user research
 We're seeking individuals to test a redesign of the tool. We want to understand whether individuals can find schools and other educational opportunities using the tool and determine whether those options are a good fit for them.
 
 
-**What will I be doing in this session?** 
+**What will I be doing in this session?** We’ll send you two links. The first link will take you to a prototype of the GI Bill Comparison Tool where you’ll perform a few basic tasks.  Once you’re done “testing” the Comparison Tool, the second link will take you to a questionnaire where we’ll ask about your experience with the tool. To receive compensation, you must complete both activities.
 
-We’ll send you two links. The first link will take you to a prototype of the GI Bill Comparison Tool where you’ll perform a few basic tasks.
-
-Once you’re done “testing” the Comparison Tool, the second link will take you to a questionnaire where we’ll ask about your experience with the tool. To receive compensation, you must complete both activities.
-
- 
 
 **How long is a session?** 
 These activities should take you no more than 30 minutes to complete.  We’ll send you an email with instructions and the links you’ll need.  
