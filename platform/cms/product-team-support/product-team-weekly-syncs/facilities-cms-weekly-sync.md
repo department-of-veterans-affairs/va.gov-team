@@ -24,7 +24,12 @@
 </details>
 
 ## August 25 
-VAMC
+
+### FE topics
+  * moderationState field
+  * jump links/table of contents [#28249](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28249)
+  
+### VAMC
 * Top tasks: Register for care, Billing and insurance, Medical records office
   * Coordination of remaining steps [6072](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6072)
 * Hi-res images
@@ -36,7 +41,7 @@ VAMC
     * link to image
 * Social media meta tag audit planned for next sprint, 8/30, [#6171](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6171)
 
-Vet Centers
+### Vet Centers
 * Required compoenets/content for publishing
   * service list
   * "Prepare for your visit" accordions (Appointments, parking/transportation, what to bring)
@@ -44,7 +49,7 @@ Vet Centers
   * at least one local spotlight
 * District 1 kickoff planned for late October, FYI
 
-Other
+### Other
 * Topic for the future: site monitoring (related to broken VAMC Locations List pages)
 
 ## August 18
