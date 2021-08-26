@@ -5,5 +5,5 @@
 **Type:** Email
 
 **Example**
+![1FN0C7dFBIC7Gm30U_I7ZDU0eFQ0X37RVTp3-Lq7l](https://user-images.githubusercontent.com/2536801/131004258-bc585062-7731-4354-912a-64b1b778a3f7.png)
 
-![1vvoZYc7cZ8-tTuzU4bctGpW9eLujX3TXs_n0O2WB](https://user-images.githubusercontent.com/2536801/131004051-415ce2be-4869-42ce-9085-ddb007775636.png)
