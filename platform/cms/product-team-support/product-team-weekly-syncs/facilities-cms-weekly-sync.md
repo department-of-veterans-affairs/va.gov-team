@@ -22,6 +22,11 @@
 
 
 </details>
+## Septeber 1
+
+VAMC
+* Hardening content model
+* Logic for the number of featured stories in Drupal and on FE
 
 ## August 25 
 
