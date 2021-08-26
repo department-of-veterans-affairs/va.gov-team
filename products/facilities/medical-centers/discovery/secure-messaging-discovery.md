@@ -23,9 +23,9 @@ Informational interview with secure messaging SME(s).
 - Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?
 - How does a health care provider onboard to secure messaging?
 
-### SME Interview
+### SME Interview(s)
 
-**SME(s)** 
+**SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
-**Questions**
+
 
