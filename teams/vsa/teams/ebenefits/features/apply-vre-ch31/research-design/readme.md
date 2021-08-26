@@ -10,7 +10,8 @@
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
 | Concept Mockups | [Adobe XD](https://xd.adobe.com/view/17b9e3b9-abb2-4c17-6619-adcc54353687-6188/) | Do not use for text | August 14, 2020 | --- |
-| Prototype | [UXPin](https://preview.uxpin.com/e291c4ac8956d804d774160cdb82ecb724044689#/pages/129526673) | Get text from prototype | August 14, 2020 | --- |
+| Wizard Mockups | [Adobe XD](https://xd.adobe.com/view/b8e1ab4c-4d8a-4f71-8d6c-00e4c1e809cc-edb2/) | Do not use for text | April 22, 2021 | --- |
+| Prototype | [UXPin](https://preview.uxpin.com/e291c4ac8956d804d774160cdb82ecb724044689#/pages/129526673) | Only use text beyond wizard screen | October 23, 2020 | --- |
 
 #### Information architecture & naming
 
