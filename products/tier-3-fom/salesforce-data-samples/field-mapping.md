@@ -37,7 +37,7 @@ Required for tier 3 experience = *
 | Account ID  | Content Cell  | will not be used for FE, but need it to uniquely identify each office in the CMS  |
 | FOM_Mission__c  | Content Cell  | Mission and vision |
 | FOM_Overview__c  | Content Cell  | Overview under "Our business function and mandates" section  |
-| Full__title__c  | Content Cell  | Authorities  |
+| Full__title__c {this is a concatenated formula field; and it is the one that will give us the exact way this information appears in the FOM doc} | Content Cell  | Authorities  |
 | FOM_Functions_and_Activities__c  | Content Cell  | Activities  |
 | Parent Account: ParentId  | Content Cell  | {not used as a FE field, but can be use to identify immediate parent (1 level up) of an office}  |
 | Child Account: ChildAccounts  | Content Cell  | {not used as a FE field, but can use to identify immediate child (1 level down) of an office}  |
@@ -45,6 +45,7 @@ Required for tier 3 experience = *
 | Merged data flag TBD: Dan's team   | Content Cell  | {not used in the FE as a field; but desired to identify which offices have been archived by merging, so the relevant offices can be notified to manually consolidate their web pages or depreciate one}  |
 | In_FOM__c | Content Cell  | {not used as a FE field but needed to validate that the office is a valid active office in the FOM hierarchy}  |
 | FOM_Coordinator__c  | Content Cell  | {not used as a FE field; need in CMS to help site editors/POC identify who to contact if they have missing FOM info that needs to be added in Salesforce} |
+| VA_Organization_Acronym__c | Content Cell  | {corresponds to the Administrations VHA, VBA, NCA. VACO offices get their own acronym like OIT; VACO acronyms will not be used, as they should always show a roll up to the Office of the SecVA}  |
 | FOM_Level_0__c  | Content Cell  | {corresponds to Level 0 in the hierarchy: Department of VA}  |
 | FOM_Level_1__c  | Content Cell  | {corresponds to Level 1 in the hierarchy: Office of the SecVA}  |
 | FOM_Level_2__c  | Content Cell  | {corresponds to Level 2 in the hierarchy - parent VACO offices like OIT, OALC, OIG, Human Resources, and the VHA/VBA/NCA Under Secretary offices}  |
