@@ -23,16 +23,16 @@ paths:
             examples:
               MHV new secure message:
                 value:
-                  name: New Message
+                  eventType: NEW_MESSAGE
                   payload:
                     messageId: 80337bc5-7215-4b22-a20d-84330631d8b5
                     title: Your prescription is ready
-                  sourceSystem: MHV Secure Messaging
+                  sourceSystem: MHV_SECURE_MESSAGING
                   user:
                     icn: 1008709396V637156
               VAOS upcoming appointment:
                 value:
-                  name: Upcoming Appointment
+                  eventType: UPCOMING_APPOINTMENT
                   payload:
                     appointmentId: 80337bc5-7215-4b22-a20d-84330631d8b5
                     datetime: 2021-08-25T16:22:58-07:00
@@ -54,13 +54,7 @@ paths:
               schema:
                 $ref: "#/components/schemas/Errors"
         400:
-          description: Bad Request.
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/Errors"
-        408:
-          description: The response from this API timed out.
+          description: Bad Request. One or more validation errors have occurred.
           content:
             application/json:
               schema:
@@ -77,15 +71,16 @@ components:
   schemas:
     EventRequest:
       required:
-        - name
+        - eventType
         - payload
         - sourceSystem
         - user
       properties:
         name:
-          type: string
-          description: A constant name for a repeatable system event type.
-          example: New Message
+          eventType: string
+          description: A constant name for a repeatable event from the source system. Naming convention follows 'contants' in C style languages; 
+          uppercase with underscores for spaces.
+          example: NEW_MESSAGE
         payload:
           type: object
           description: A JSON object of data that is unique to this event type.
@@ -94,7 +89,7 @@ components:
             title: Your prescription is ready
         sourceSystem:
           type: string
-          description: The source system that is outputting the event. Like the name field this should be constant.
+          description: The VA system that is producing the event. Like the eventType field this should be constant and use the same naming convention.
           example: MHV Secure Messaging
         user:
           type: object
@@ -119,7 +114,7 @@ components:
               example: 1518951480106-0
             created:
               type: string
-              description: The datetime the event was written to the stream.
+              description: The datetime the event was written to the stream. ISO 8601 format, Zulu time zone (UTC +0).
               example: 2021-08-25T14:59:10.000Z
     Errors:
       type: object
