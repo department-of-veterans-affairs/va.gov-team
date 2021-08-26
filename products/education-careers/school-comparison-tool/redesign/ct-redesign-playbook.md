@@ -27,8 +27,9 @@ issue tickets (if they add value when describing known errors for your product)
 ## Troubleshooting
 
 ### Errors and Metrics
-link to errors and logs your product produces
-brief explanation of errors/metrics (or link to them here)
+  - **Performance Metrics**
+    -  CT Search Autocomplete - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable at well below 500 ms
+    -  CT Keyword Search - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable averaging 1 s with peaks below 2 s
 
 ### Issue investigation steps
 - Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
