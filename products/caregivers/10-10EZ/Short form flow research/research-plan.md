@@ -8,8 +8,8 @@ Based on our [Google Analytics](https://docs.google.com/presentation/d/1HDGBx-wh
 ## Goals	
 
 The goals of this user research are to:
-1. Determine whether or not the short form flow is usable and cognitively understood when it is pre-populated at start of authenticated application
-2. Determine whether or not the short form flow is usable and cognitively understood when it is based on a self-reported, service-connected disability pay for a 50% or higher rating
+1. Determine whether or not the short form flow is usable and understandable when it is pre-populated at start of authenticated application
+2. Determine whether or not the short form flow is usable and understandable understood when it is based on a self-reported, service-connected disability pay for a 50% or higher rating
 3. Determine whether or not the flow and copy sets proper expectations for the application experience
 
 As a secondary goal, we will also take special note of any participant feedback to the Introduction page as this has recently been updated.
@@ -23,7 +23,7 @@ As a secondary goal, we will also take special note of any participant feedback 
 5. What is the overall sentiment about this short form experience?
 
 
-**Hypotheses**
+**Hypothesis**
 
 Our hypothesis is that users will be able to navigate through the short form relatively easily, but may have issues with the following:
 - Understanding what a "short form" is 
@@ -46,14 +46,14 @@ We will be testing with a clickable UXPin prototype.
   	
 
 ## Participants and Recruitment	
-We would like to work with Perigean to recruit for 10 fulfilled remote sessions. Therefore, we request that 15 sessions be scheduled.
+We would like to work with Perigean to recruit for 13 fulfilled remote sessions. Therefore, we request that 18 sessions be scheduled.
 
 **Must have for participants**
 
-- At least 7 Veterans
-- At least 1 POA (no more than 3)
-- At least 8 people with a disability rating of 50% or higher
-- At least 3 people over the age of 55
+- At least 10 Veterans
+- At least 2 POAs (no more than 3)
+- At least 9 people with a disability rating of 50% or higher (Please be mindful that the prototype is not accesibility for folks using most types of assistive tech, eg. screenreaders)
+- At least 4 people over the age of 55
 - All participants must participate using a laptop or desktop (the prototype is not functional on mobile or tablet devices)
 - All participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
 
