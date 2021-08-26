@@ -2,8 +2,8 @@
  	
 ## Goals	
 The purpose of this research is to get user feedback on the new online harassment reporting tool. We would like participants to do the following:
-- Find where to go on the VA.gov home page 
-- Look at the harassment landing page and find the form
+- Find where to go on VA.gov to report a harassment incident
+- Look at the harassment information and find the form to report it
 - Fill out the form to report harassment  
 
 ## Background
@@ -26,7 +26,16 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with the aftereffects of harassment. Such SMEs may include mental health counselors at VA facilities or Vet Centers who counsel harassment victims, and VA staff who field harassment reporting calls from Veterans and/or VA employees. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
 
-Ask Perigean to recruit 12 Veterans from the names we provide in order to get 8 completed sessions using the following criteria:
+### Topics to discuss with subject-matter experts (SMEs)
+1. Explain what we want to do (goals above) and how (use a design prototype)
+1. Ask if they might be willing to look at the prototype and provide feedback from the point of view of someone who has experienced harassment at the VA
+3. Ask for feedback on whether we should try to do this with Veterans who may have experienced harassment--potential for re-triggering the trauma?
+4. Allow participants to fill out whatever information they feel like sharing from their own experiences, or provide ficticious details to enter?
+5. OK or not to ask some warmup questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details?
+7. Ask if know of any Veterans who might be willing and feel comfortable talking with us about reporting an harassment incident. If so, can provide a blurb to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
+8. Ask if might be willing to observe the research session and provide support during it and afterwards, if needed
+
+Ask Perigean to recruit 16 Veterans from the names we provide in order to get 8 completed sessions using the following criteria:
 
 ### Must have for participants
 - All are Veterans
