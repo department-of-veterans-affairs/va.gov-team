@@ -1,7 +1,7 @@
 openapi: "3.0.2"
 info:
   title: VA Event Stream
-  version: "1.0"
+  version: "0.0"
 servers:
   - url: https://api.va.gov/services/event-stream
 paths:
