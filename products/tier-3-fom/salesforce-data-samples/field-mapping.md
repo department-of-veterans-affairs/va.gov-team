@@ -44,8 +44,11 @@ Required for tier 3 experience = *
 | Merged data flag TBD: Dan's team   | Content Cell  | {not used in the FE as a field; but desired to identify which offices have been archived by merging, so the relevant offices can be notified to manually consolidate their web pages or depreciate one}  |
 | In_FOM__c | Content Cell  | {not used as a FE field but needed to validate that the office is a valid active office in the FOM hierarchy}  |
 | FOM_Coordinator__c  | Content Cell  | {not used as a FE field; need in CMS to help site editors/POC identify who to contact if they have missing FOM info that needs to be added in Salesforce} |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| FOM_Level_0__c  | Content Cell  | {corresponds to Level 0 in the hierarchy: Department of VA}  |
+| FOM_Level_1__c  | Content Cell  | {corresponds to Level 1 in the hierarchy: Office of the SecVA}  |
+| FOM_Level_2__c  | Content Cell  | {corresponds to Level 2 in the hierarchy - parent VACO offices like OIT, OALC, OIG, Human Resources, and the VHA/VBA/NCA Under Secretary offices}  |
+| FOM_Level_3__c  | Content Cell  | {corresponds to Level 3 in the hierarchy - like the Patient Advocate Office under VHA} |
+| FOM_Level_4__c  | Content Cell  | {corresponds to Level 4 in the hierarchy} |
+| FOM_Level_5__c  | Content Cell  | {corresponds to Level 5 in the hierarchy} |
+| FOM_Level_6__c  | Content Cell  | {corresponds to Level 6 in the hierarchy} |
 
