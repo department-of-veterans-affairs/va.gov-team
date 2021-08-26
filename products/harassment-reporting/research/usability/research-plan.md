@@ -24,7 +24,9 @@ If a Veteran experiences an incident of harassment or other inappropriate behavi
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype in UXPin. Some participants will be on desktop, and some will be on mobile.
 
 ## Participants and Recruitment	
-Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
+Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with the aftereffects of harassment. Such SMEs may include mental health counselors at VA facilities or Vet Centers who counsel harassment victims, and VA staff who field harassment reporting calls from Veterans and/or VA employees. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
+
+Ask Perigean to recruit 12 Veterans from the names we provide in order to get 8 completed sessions using the following criteria:
 
 ### Must have for participants
 - All are Veterans
