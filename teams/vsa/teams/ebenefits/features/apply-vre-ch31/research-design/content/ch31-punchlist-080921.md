@@ -21,9 +21,9 @@
 
 ## Wizard
 - [ ] Intro (Wizard state) copy is different from both mocks and prototype; use content from XD Orientation mocks
-- [ ] Orientation shows when “Neither” option is selected; the user needs to be a Veteran or service member to continue
-- [ ] 2A. Other “no” responses also reveal the Orientation module; should we encourage “No” respondents to continue?
-- [ ] Orientation continues to show when user backs-up to change response.
+- [x] Orientation shows when “Neither” option is selected; the user needs to be a Veteran or service member to continue
+- [x] 2A. Other “no” responses also reveal the Orientation module; should we encourage “No” respondents to continue?
+- [ ] ~~Orientation continues to show when user backs-up to change response.~~ NOTE: Steve mentioned a while ago that we should just keep showing the orientation once it's been revealed.
 - [ ] Padding/margin issues throughout; refer to mocks
 - [ ] Card is oddly formatted with action link; refer to mocks
 - [ ] 5A. Should “Apply online…” text say “Apply fo Veterans…” like the second action link?
