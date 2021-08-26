@@ -32,12 +32,12 @@ issue tickets (if they add value when describing known errors for your product)
     -  CT Keyword Search - [latency](http://grafana.vfs.va.gov/d/000000050/backend-service-report?viewPanel=141&orgId=1&from=now-7d&to=now) should remain stable averaging 1 s with peaks below 2 s
 
 ### Issue investigation steps
-- Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
+- The most common issues that arise are data issues noticed by the EDU stakeholders. Since the backend GI Bill Comparison Tool Data Source (GIDS) is manually updated from several sources, anomolies in the data sources files cause unexpected display issues. The best way to troubleshoot is to get copies of the latest source files in question from EDU and load in to the staging [GIDS Dashboard](https://staging.va.gov/gids/dashboards). The data can be reviewed manually and the issue can be reproduced by generating a new version in the dashboard. Primary datasource is built in the [GIDS Institution Builder](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/app/models/institution_builder.rb).
 
 ### Flipper Features and Rollback
-- Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
-- At what point, if applicable, should your code be rolled back, to what state? (optional)
+- There will be a feature flag for the limited rollout. This will be updated prior to rollout.
+- This redesign will replace the current [GI Bill Comparison Tool](https://www.va.gov/gi-bill-comparison-tool). For the limited rollout, it will reside in parallel with the existing tool. Once limited rollout is complete, the redesign will replce the existing tool.
 
 ## Security
-descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc.
+N/A
 
