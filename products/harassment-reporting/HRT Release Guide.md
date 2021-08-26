@@ -10,7 +10,7 @@ Landing Page: Determine location of VA.gov (PO/PM/IA) - Complaince with 5303 dir
       
       - Landing Page Copy Complete - Stakeholder review and feedback (Aug 30- Sep 3)
       - VSP Staging Review (Sep 9 @2PM)
-      - Determine Placement on VA.gov (Aug 30- Sep 10)
+      - Determine Placement on VA.gov (Aug 30)
       - Target **Launch** (Sep 16, 2021)
       - Note: This landing page will not mentioned the form, an alternate version will be produced that will deploy at the same time as the HRT Intro-page and Form at an alternate date. 
 
