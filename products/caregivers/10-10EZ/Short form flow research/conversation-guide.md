@@ -16,7 +16,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 - This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - You'll be interacting with a demo tool. This is a demo tool that may not function exactly the way you expect. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- Please talk aloud as you're looking through things. For example, say "now I'd click on this.. what's this?" This helps me understand what's going through your head while using the tool.
+- Please talk aloud as you're looking through things. For example, say "now I'd click on this, because I'd expect it to do this..." This helps me understand what's going through your head while using the tool.
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
 
@@ -44,7 +44,7 @@ _TBD link_
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"** 
 
-Great. Now we're really ready to begin!
+Ok. Now we're really ready to begin!
 
 ## Warm-up Questions - 5 minutes
 
@@ -99,7 +99,7 @@ Let's pretend that you went through the sign in process and are taken to here (a
      - Do you have any questions?
      - Is there anything that stands out to you on this page? Good, bad, indifferent
 
-Great, let's continue
+Alright, let's continue
 - Participant will next navigate to the first page of the form "Veteran information"
      - Mostly let the participant fill out the form (noting any comments)
      - Make special note of how participant interacts with the green alert that talks about the short form
@@ -167,7 +167,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and service members.
 
-Great, thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and enjoy the rest of your day!
 
 
 ## Resources	
