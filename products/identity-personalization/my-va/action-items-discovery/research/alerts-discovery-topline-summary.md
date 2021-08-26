@@ -1,22 +1,25 @@
 # Topline Summary for Usability Study - Action items, VSA Authenticated Experience
-- Prepared by Tressa Furner, Aug 2021
+Prepared by Tressa Furner, Aug 2021
 
-[Research plan]() 
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-plan.md) 
 
-[Conversation guide]() 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-conversation-guide.md) 
 
 ## Findings (Wins)
 
-**Overall**
+**Overall Wayfinding**
 
-- All users said they would look in the homepage links to find updates to benefits (specifically in the disability section)
-- Users easily found the information that they were looking for
-- Users were able to complete most tasks, even if there was some confusion about specific information
-- Mixed reviews on preferring the homepage vs MyVA as the homepage - more users preferred the MyVA page
-- Users had positive feedback about the MyVA page
-- The MyVA mostly met user expectations
-- Users easily understood how to get to the profile 
-- Users understood the difference between MyVA and the profile
+- All users easily understood what the Alerts page was 
+- All users easily found the omni-present Alerts page link in the navigation
+- All users easily understood the red dot indicator - though some users wanted a number in the red dot (like on a phone)
+- Users were able to understand how to take action on an alert
+- Users wanted alerts to be ordered chronologically
+- Time sensitivity is important to call out
+
+
+**Alerts Page**
+
+**Alerts on My VA**
 
 ### Users easily understood:
 
