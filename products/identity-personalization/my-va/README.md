@@ -12,7 +12,7 @@ Last updated May 19, 2021
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|AJ Jakabcin |Product Manager| ana@adhocteam.us |
+|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
 |Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
@@ -154,11 +154,11 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 |KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Clicks into individual claims| ~102K clicks|TBD|TBD|
-|Clicks to view all claims | ~77K|TBD|TBD|
-|Clicks to view all appointments| ~20K|TBD|TBD|
-|Clicks to view all messages| ~32K|TBD|TBD|
-|Clicks to view all prescriptions|~20K|TBD|TBD|
+|Clicks into individual claims ("view claim")| ~102K clicks|TBD|TBD|
+|Clicks to view all claims ("Manage all your claims and appeals")| ~77K|TBD|TBD|
+|Clicks to view all appointments ("Schedule and view your appointments")| ~20K|TBD|TBD|
+|Clicks to view all messages ("You have n unread messages")| ~32K|TBD|TBD|
+|Clicks to view all prescriptions ("Refill and track your prescriptions")|~20K|TBD|TBD|
 
 **Key result #3** — Findability: Reduce search incidents for features that exist on My VA. None of the features on the page should be in the top 20 search terms for searches generate from My VA.
 
