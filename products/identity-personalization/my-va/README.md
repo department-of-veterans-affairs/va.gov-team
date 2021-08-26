@@ -149,6 +149,7 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 **Key result #2** — Interaction: Increase overall clicks into claims, messages, appointment, and prescription CTAs. 
 
 [My VA Interactions Report: Jan - March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
+[My VA Interactions Report: July 15 - August 15 2021 (revised naming conventions, custom report)](https://analytics.google.com/analytics/web/?authuser=0#/savedreport/_qH7yauBREi4LUUwrzMGRg/a50123418w177519031p176188361/_u.date00=20210715&_u.date01=20210815&_r.dsa=1&_.advseg=&_.useg=&_.sectionId=&3426-table.plotKeys=%5B%5D/)
 
 |KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
