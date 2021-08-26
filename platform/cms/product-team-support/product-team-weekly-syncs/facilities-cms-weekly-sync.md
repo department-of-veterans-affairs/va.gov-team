@@ -22,11 +22,11 @@
 
 
 </details>
-## Septeber 1
+## September 1
 
 VAMC
 * Hardening content model
-* Logic for the number of featured stories in Drupal and on FE
+* Logic for the number of featured stories in Drupal and on FE [#29378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29378)
 
 ## August 25 
 
