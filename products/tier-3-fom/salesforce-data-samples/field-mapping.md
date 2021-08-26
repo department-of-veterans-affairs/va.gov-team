@@ -38,6 +38,7 @@ Required for tier 3 experience = *
 | FOM_Mission__c  | Content Cell  | Mission and vision |
 | FOM_Overview__c  | Content Cell  | Overview under "Our business function and mandates" section  |
 | Full__title__c {this is a concatenated formula field; and it is the one that will give us the exact way this information appears in the FOM doc} | Content Cell  | Authorities  |
+| Authority Junction ID {this field in the Authorities data connects an Authority to a specific office} | Content Cell  | {may need this data to display the Authorities for the right office} |
 | FOM_Functions_and_Activities__c  | Content Cell  | Activities  |
 | Parent Account: ParentId  | Content Cell  | {not used as a FE field, but can be use to identify immediate parent (1 level up) of an office}  |
 | Child Account: ChildAccounts  | Content Cell  | {not used as a FE field, but can use to identify immediate child (1 level down) of an office}  |
