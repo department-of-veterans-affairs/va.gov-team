@@ -17,9 +17,8 @@ The current problems orientation faces are the following:
 With new VFS teams coming onto VA.gov, the problems we currently face will be amplified.  
 
 ## Personas
-Brand new VFS teams
-New VFS team members on existing teams
-Platform practice area specialists
+- Brand new VFS teams
+- New VFS team members on existing teams
 
 ## Measuring Success
 
