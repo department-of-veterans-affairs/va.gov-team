@@ -28,9 +28,10 @@
 ### Action items:
 1. Program/Stakeholder Update - @Soni/Josh
 2. [Release Plan Update](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/HRT%20Release%20Guide.md) - @Brian
-3. Status: @Cassandra finalizing design "content" updates / Working UX Pin Interactive Prototype, Veteran Research Plan Draft is in-progress.  
-4. LoROTA capability Intro: “low risk one time authentication”. Currently, to get around a veteran having to have a va.gov account set up, this authentication method verifies identity based on the phone number listed in Vista. (Built for Check-in MVP but could expand if applicable). 
-5. Roundtable Questions, Comments. 
+3. Schedule a design review with @Soni/Josh next week to validate work. 
+4. Status: @Cassandra finalizing design "content" updates / Working UX Pin Interactive Prototype, Veteran Research Plan Draft is in-progress.  
+5. LoROTA capability Intro: “low risk one time authentication”. Currently, to get around a veteran having to have a va.gov account set up, this authentication method verifies identity based on the phone number listed in Vista. (Built for Check-in MVP but could expand if applicable). 
+6. Roundtable Questions, Comments. 
 
 ### Next Steps 
 1. Fast Path "landing page" - Static Content Landing Page Content Copy --> Review/Validate --> VSP Staging Review (9/9 @2PM) --> Anticipated Launch Sep 16, 2021. 
