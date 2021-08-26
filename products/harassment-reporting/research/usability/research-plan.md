@@ -30,7 +30,7 @@ Because harassment is a potentially triggering subject, we want to be careful ab
 1. Explain what we want to do (goals above) and how (use a design prototype)
 1. Ask if they might be willing to look at the prototype and provide feedback from the point of view of someone who has experienced harassment at the VA
 3. Ask for feedback on whether we should try to do this with Veterans who may have experienced harassment--potential for re-triggering the trauma?
-4. Allow participants to fill out whatever information they feel like sharing from their own experiences, or provide ficticious details to enter?
+4. Allow participants to fill out whatever information they feel like sharing from their own experiences, or provide fictitious details to enter?
 5. OK or not to ask some warmup questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details?
 7. Ask if know of any Veterans who might be willing and feel comfortable talking with us about reporting an harassment incident. If so, can provide a blurb to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
 8. Ask if might be willing to observe the research session and provide support during it and afterwards, if needed
