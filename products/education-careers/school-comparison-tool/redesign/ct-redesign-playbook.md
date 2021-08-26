@@ -21,9 +21,8 @@ issue tickets (if they add value when describing known errors for your product)
 - Lead engineer: Dan Shawkey (Shawkey_Daniel@bah.com)
 
 ### Outage Contacts:
-- _Additional Team Role_: _person’s name_ _persons's email_
-- _Additional Team Role_: _person’s name_ _persons's email_
-- pagerduty email/activation call (if available)
+- Senior developer: Devin McCurdy McCurdy_Devin@bah.com
+- Senior developer: Matt Roth Roth_Matthew@bah.com
 
 ## Troubleshooting
 
