@@ -74,7 +74,7 @@ Research questions here
 
 ## Recommendations
 1. Determine best end point for process.
-    - Do we have information to allow user to send an email to the VSO?)
+    - Do we have information to allow user to send an email to the VSO?
 2. Revise content to direct users to contact VSO directly before making a selection.
 3. There are several opportunities for further inquiry, including:
     - What functions are available in SEP and how it fits in to the day-to-day usage for VSOs?
