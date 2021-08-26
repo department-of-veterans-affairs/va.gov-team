@@ -74,7 +74,7 @@ Desired Timeline: September 1 - 9, 2021
 
 Session length: 45 minutes. Please leave 15 minutes in between each session.
 
-Notetaking: TBD
+Notetaking: TBD (will be handled by the Caregiver team)
 	
 Team Availability | Time (EST)
 ------------------|--------------
