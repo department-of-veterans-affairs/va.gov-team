@@ -28,4 +28,8 @@ Informational interview with secure messaging SME(s).
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
 - Secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation.
-- Depending on the health care team, secure messaging can be used for a variety of purposes
+- Depending on the health care team, secure messaging can be used for a variety of purposes including: filling prescriptions, appointments, and even scheduling rides. Messages are triaged by a Veteran's health care team, and it depends on what the team is open to using messaging for.
+- Developing a relationship with the health care team was important for Veterans, in establishing communication norms. Degree of responsiveness varied depending on the team, but officially it's supposed to be within 3 business days.
+- On the health care team side, there is training and onboarding they must go through before using secure messaging.
+- Secure messaging isn't for introductory purposes: a Veteran must already be registered and in contact with their health care team, and they can only communicate with health care providers they are authorized for - no contacting different people in different health systems [like for more information or second opinions].
+- Health care providers may be somewhat distrustful of more apps to use, including secure messaging, if they already have established methods.
