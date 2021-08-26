@@ -6,7 +6,15 @@
 *When a new VFS team joins or a new person joins a VFS team, Platform conducts platform orientation (a series of meetings and reading material) to introduce VFS teams to processes, standards and expectations of developing on platform.*
 
 ## Problem Statement
-The platform ecosystem is robust and it can be a confusing experience for new VFS teams or team member to jump into developing on Platform.
+The current problems orientation faces are the following:
+1. Platform team members spend a significant amount of time hosting 1:1 orientation meetings. 
+2. It is challenging to keep the content in the slide decks up to date. 
+3. Content that VFS teams would find valuable is not included in orientation. 
+4. VFS teams struggle with retaining information shared in Orientation. 
+5. Orientation for new teams vs. new team members has been relatively the same (with a couple minor exceptions). 
+6. There is no reliable process for Platform to be notified of new VFS teams and/or new VFS team members.
+
+With new VFS teams coming onto VA.gov, the problems we currently face will be amplified.  
 
 ## Personas
 Brand new VFS teams
@@ -35,17 +43,21 @@ We assume that new
 
 ## Solution Approach
 
-We are creating a one-stop shop/self-service tool/landing page for Platform Website that has all of the guidance and documentation VFS team members will need to start supporting their VFS team on VA.gov. The content of this landing page will be organized by VFS team member roles (General, PM, BE Engineer, FE Engineer, Designer/Researcher). Content will live in it's appropriate location on Platform Website, however it will be linked/accessible from the landing page. 
+We are taking a 2-pronged approach to resolving the problems identified in the Problem Statement.
 
-We are starting here because this approach will allow us to determine which content is valuable for VFS teams. Some of this content may already exist on Platform Website, and therefore can be easily referenced on the landing page. For the content that does not already exist on Platform Website, the appropriate owner will be identified and a ticket will be added to that teams backlog so that content can then be migrated from github or created.
+The first approach will be to create a one-stop shop/self-service tool/landing page for Platform Website that has all of the guidance and documentation VFS team members will need to start supporting their VFS team on VA.gov. The content of this landing page will be organized by VFS team member roles (General, PM, BE Engineer, FE Engineer, Designer/Researcher). Content will live in it's appropriate location on Platform Website, however it will be linked/accessible from the landing page. The team hopes to use the Getting Started page on Platform Website for this purpose. An MVP of this page could be the content in the current orientation decks (transformed to Platform Website guidance), with later iterations including additional content identified through Platform research. 
 
-To ensure content remains up to date, the acceptance criteria on the Platform initiative outlines will be modified. Platform teams will be asked to verify that the release of their product/iteration does not impact Platform Orientation documentation. If it does, they will need to update the documentation appropriately before release of their product.
+The second approach will be to update and modify the existing process for orienting new teams and new team members. Utilizing the landing page above, new VFS teams will be directed to open a github ticket using an updated [New Team VSP Orientation Epic template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=orientation-epic.md&title=New+Team+VSP+Orientation). This ticket will be modified to reflect the responsibilities of a brand new team only. In addition, new VFS team members will also be directed to open a github ticket with a new template (also accessible from the Platform Website landing page). This new template will be an abbreviated version of the new team template. This is necessary to ensure that the new team member is added to the appropriate VFS team in the VFS team Roster, as well as other tasks TBD. Both templates will ensure that the right Platform teams are notified of the new team/team member. Both templates will also be dependent on the content outlined in the Platform Website landing page (per the first approach above). 
 
-There is currently a [New Team VSP Orientation Epic template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=orientation-epic.md&title=New+Team+VSP+Orientation) that is used for brand new teams and new VFS team members on existing teams. This ticket will be modified to reflect the responsibilities of a brand new team only. Another ticket will be created for new team members on existing teams that will be an abbreviated version. There is also [VFS Orientation Epic template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=vsp-product-support&template=vfs-onboarding-epic.md&title=Orientation+for+______+Team) that is used by Platform Product Support to manage orientation from the Platform perspecive. Valueable information from this ticket can be merged with the New Team VSP Orientation Epic template and this template can be archived.
+We are starting with the landing page because we already know the slide deck content is valuable for VFS teams. Some of this content may already exist on Platform Website, and therefore can be easily referenced on the landing page. For the content that does not already exist on Platform Website, the appropriate owner will be identified and a ticket will be added to that teams backlog so that content can then be migrated from github or created.
 
-We are taking this solution/approach over others because it allows us to separate the solution for new team orientation from new team member orientation. New team members and new teams can both benefit from this landing page, however new teams will still need a different, more personal approach to orientation. We still plan to have orientation meetings for new team members, however they can be modified and/or abbreiviated so they only cover what is not included in the landing page.
+To ensure content referenced on the landing page remains up to date, the acceptance criteria on the Platform initiative outlines will be modified. Platform teams will be asked to verify that the release of their product/iteration does not impact Platform Orientation documentation. If it does, they will need to update the documentation appropriately before release of their product.
 
-The solution/approach may evolve to include other content and/or valuable information from other non-platform teams. For example, Lighthouse or VANotify.
+There is the [VFS Orientation Epic template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=vsp-product-support&template=vfs-onboarding-epic.md&title=Orientation+for+______+Team) that is used by Platform Product Support to manage orientation from the Platform perspecive. Valueable information from this ticket can be merged with the New Team VSP Orientation Epic template and this template can be archived.
+
+We are taking this solution/approach over others because it allows important information to be accessed indpenedently, but also allows us to separate the solution for new team orientation from new team member orientation. New team members and new teams can both benefit from this landing page, however new teams will still need a different, more personal approach to orientation. We still plan to have orientation meetings for new teams, however they can be modified and/or abbreiviated so they only cover what is not included in the landing page. We also recognize that there is value in new teams meeting face-to-face with Platform teams as they being their work on VA.gov.
+
+The solution/approach may evolve to include other content and/or valuable information from other non-platform teams. 
 
 
 
