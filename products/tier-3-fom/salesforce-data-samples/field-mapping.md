@@ -39,7 +39,8 @@ Required for tier 3 experience = *
 | FOM_Overview__c  | Content Cell  | Overview under "Our business function and mandates" section  |
 | Full__title__c  | Content Cell  | Authorities  |
 | FOM_Functions_and_Activities__c  | Content Cell  | Activities  |
-| Parent Account: ParentId  | Content Cell  | {not used as a FE field, but needed to identify (in reverse) the immediate children of an office}  |
+| Parent Account: ParentId  | Content Cell  | {not used as a FE field, but can be use to identify immediate parent (1 level up) of an office}  |
+| Child Account: ChildAccounts  | Content Cell  | {not used as a FE field, but can use to identify immediate child (1 level down) of an office}  |
 | Office_Archived__c    | Content Cell  | {not used as a FE field; needed to identify what office's POC needs to be notified so they can archive/unpublish their org page on VA.gov |
 | Merged data flag TBD: Dan's team   | Content Cell  | {not used in the FE as a field; but desired to identify which offices have been archived by merging, so the relevant offices can be notified to manually consolidate their web pages or depreciate one}  |
 | In_FOM__c | Content Cell  | {not used as a FE field but needed to validate that the office is a valid active office in the FOM hierarchy}  |
