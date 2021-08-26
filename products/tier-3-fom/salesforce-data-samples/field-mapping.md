@@ -39,8 +39,8 @@ Required for tier 3 experience = *
 | FOM_Overview__c  | Content Cell  | Overview under "Our business function and mandates" section  |
 | Full__title__c  | Content Cell  | Authorities  |
 | FOM_Functions_and_Activities__c  | Content Cell  | Activities  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Parent Account: ParentId  | Content Cell  | {not used as a FE field, but needed to identify (in reverse) the immediate children of an office}  |
+| Office_Archived__c    | Content Cell  | {not used as a FE field; needed to identify what office's POC needs to be notified so they can archive/unpublish their org page on VA.gov |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
