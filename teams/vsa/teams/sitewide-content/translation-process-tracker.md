@@ -26,5 +26,5 @@
 | Delta variant updates | 7/13 | 7/13 | 7/14 | 7/15 | 7/15  | 71/3 | 7/15 |
 | Mask wearing FAQs update | 8/3 | 8/3 | 8/11 | 8/11 | 8/11 | 8/3 | 8/11 |
 | Booster alert | 8/13 | 8/13 | 
-| Updates to FAQs and vaccine 8/13 | 8/13 | 8/16 |
+| Updates to FAQs and vaccine 8/13 | 8/13 | 8/16 | 8/26 |
 | New vaccine child page, updates to vaccine and FAQs page | 8/20 | 8/20 |
