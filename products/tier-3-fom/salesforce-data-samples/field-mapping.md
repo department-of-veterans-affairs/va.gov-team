@@ -53,4 +53,8 @@ Required for tier 3 experience = *
 | FOM_Level_4__c  | Content Cell  | {corresponds to Level 4 in the hierarchy} |
 | FOM_Level_5__c  | Content Cell  | {corresponds to Level 5 in the hierarchy} |
 | FOM_Level_6__c  | Content Cell  | {corresponds to Level 6 in the hierarchy} |
+| Website {See note below}  | Content Cell  | {to display the office's external website if they choose to maintain an external custom site rather than being on va.gov} |
 
+__Website field note:__ 
+This Salesforce field isn't currently used by a lot of offices, and sometimes include intranet URLs. The idea behind extracting a website URL from Salesforce is: if some offices choose to create a custom external site, they will still get the required default FOM office landing page; however, we can generate an alert message or banner on their page that links users to their custom website. In order for that to happen, the office would need to enter their custom website URL in their Salesforce account, for transparency and traceability. See this example on Gov.uk: https://www.gov.uk/government/organisations/advisory-committee-on-animal-feedingstuffs 
+If this field were to be used for this purpose, we would need to 1/ ask the FOM team (Janet and Dan) to specify in Salesforce for offices to begin using that field for this purpose; 2/ communicate via Janet's FOM coordinators and the VACO digital comms teams to offices that if offices want a custom site, they'll need to record that site's URL in Salesforce.
