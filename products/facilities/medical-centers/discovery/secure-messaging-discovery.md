@@ -27,5 +27,5 @@ Informational interview with secure messaging SME(s).
 
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
-
-
+- Secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation.
+- Depending on the health care team, secure messaging can be used for a variety of purposes
