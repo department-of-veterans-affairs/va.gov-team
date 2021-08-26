@@ -31,7 +31,7 @@ For more information on these tools, see [Tools Overview in our Getting access t
 
 ### Configuring Access on Mac
 
-:cinema: Watching [this instructional video](https://www.youtube.com/watch?v=cpj2NPLoXhA) (5m 47s) is recommended.
+:cinema: Watching [this instructional video](https://youtu.be/OnBhO3FVTTg) (5m 47s) is recommended.
 
 1. **Open Terminal** from your Application's Utilities folder.
    - If you're on Windows, this is the Ubuntu window you just opened.
@@ -45,7 +45,7 @@ For more information on these tools, see [Tools Overview in our Getting access t
 <details>
   <summary>Click to view instructions for Linux</summary>
 
-:cinema: Watching [this instructional video](https://www.youtube.com/watch?v=cpj2NPLoXhA) (5m 47s) is recommended. There's a Ubuntu demo at the end of the video.
+:cinema: Watching [this instructional video](https://youtu.be/OnBhO3FVTTg) (5m 47s) is recommended. There's a Ubuntu demo at the end of the video.
 
 1. **Install ruby** by running `sudo apt update && sudo apt install ruby`.
    - If you already have a version of ruby installed, you can skip this step.
@@ -57,7 +57,7 @@ For more information on these tools, see [Tools Overview in our Getting access t
 <details>
   <summary>Click to view instructions for Windows</summary>
 
-:cinema: Watching [this instructional video](https://youtu.be/4MHlX39dCwA) (4m 45s) is recommended.
+:cinema: Watching [this instructional video](https://youtu.be/K30i5hcNcRQ) (4m 45s) is recommended.
 
 1. **Enable WSL** and reboot.
    1. In Windows Search, search "**features**" and open "**Turn Windows features on or off**".
