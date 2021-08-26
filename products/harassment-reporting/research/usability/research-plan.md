@@ -34,8 +34,15 @@ Because harassment is a potentially triggering subject, we want to be careful ab
 5. OK or not to ask some warmup questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details?
 7. Ask if know of any Veterans who might be willing and feel comfortable talking with us about reporting an harassment incident. If so, can provide a blurb to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
 8. Ask if might be willing to observe the research session and provide support during it and afterwards, if needed
+9. Is there anyone else that you would recommend that I talk with? (who and why?)
 
-Ask Perigean to recruit 16 Veterans from the names we provide in order to get 8 completed sessions using the following criteria:
+### Participants to recruit
+
+We also might be able to get from another Veteran the names of Veterans who have experienced harassment at the VA, reported it, and had closure/resolution of their case. 
+
+Ideally we would like to talk with 8 Veterans, but we may proceed instead with 5 SMEs and 5 Veterans.
+
+Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8? completed sessions using the following criteria:
 
 ### Must have for participants
 - All are Veterans
