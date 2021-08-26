@@ -143,6 +143,7 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 - Are there any other items or information that you would like to review and update prior to your appointment?
 - Here we showed a text message, but how would you like to be notified that you have these pre-check-in tasks to complete?
    - _Only if necessary, bring up examples of other notification methods, such as appointment reminder postcards, letters, MyHealtheVet message, email, etc._
+   - When would you like to be notified? How many days before your appointment?
 - If you could change one thing about the experience, what would it be? 
 - Do you have any other thoughts on what we talked about today?
 - Any questions for me?
