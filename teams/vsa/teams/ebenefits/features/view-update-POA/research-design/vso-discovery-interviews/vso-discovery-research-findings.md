@@ -65,21 +65,21 @@ Research questions here
 
 6. When a claim is complete, the file is no longer "active" with VA, but the representation stays in place unless a Veteran does something to explicitly end that representation. There is not a form or formal process to do this, but the most common response was that veterans can write a letter and mail it to VA. Similarly, if a representative chooses to end a relationship, there is no formal process. As mentioned above, changing representation during a claim, or when appealling a decision, can create problems when the representation change is not coordinated.
 > The case file is "inactive" but the representation is in place unless the veteran takes action to end or change it.
- > Every once in awhile you will get someone who does something where you need to revoke the Power of Attorney. We let them know our policy and reserve the right to revoke. We'll do an internal write up and send to a management team. When we get the okay internally, we'll write up a Memorandum to Revoke to send to the VA and then we'll send a copy of that to the Veteran.
+   > Every once in awhile you will get someone who does something where you need to revoke the Power of Attorney. We let them know our policy and reserve the right to revoke. We'll do an internal write up and send to a management team. When we get the okay internally, we'll write up a Memorandum to Revoke to send to the VA and then we'll send a copy of that to the Veteran.
 
 7. Each of the representatives interviewed spoke with passion about their job and helping veterans. In addition to helping veterans, they can also help family members. They have continuing education to stay up to date on legislative changes and state benefits. Three of five representatives mentioned having systems that proactively flag clients that may be affected by program changes, or that have not had active communication in a certain amount of time. 
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+
 
 ## Recommendations
 1. Determine best end point for process. (Do we have information to allow user to send an email to the VSO?)
 2. Revise content to direct users to contact VSO directly before making a selection.
 3. There are several opportunities for further inquiry, including:
-  - What functions are available in SEP and how it fits in to the day-to-day usage for VSOs?
-  - What is the system of record for VSO contact information and current POA status?
-  - How might we connect Veteran > Organization > Individual Rep more consistently?
-  - How might we help Veterans find and understand an organization or representative’s specialty (type of disability, location, other demographic)?
+    - What functions are available in SEP and how it fits in to the day-to-day usage for VSOs?
+    - What is the system of record for VSO contact information and current POA status?
+    - How might we connect Veteran > Organization > Individual Rep more consistently?
+    - How might we help Veterans find and understand an organization or representative’s specialty (type of disability, location, other demographic)?
 
 ## Next Steps
 Next steps here
