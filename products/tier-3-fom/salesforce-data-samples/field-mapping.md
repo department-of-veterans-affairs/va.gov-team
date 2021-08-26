@@ -65,5 +65,5 @@ __Example of how FOM Levels work:__
 (0) Department of Veterans Affairs
 - (1) Office of the Secretary of Veterans Affairs
   -  (2) Office of Information Technology OIT 
-        - (3) Office of the CTO 
+        - (3) Office of the Chief Technology Officer
              - (4) DEPO  {DEPO has no child/sub offices} 
