@@ -3,7 +3,7 @@
 ### Event Ingress
 The system writes events to a Redis stream which is an in-memory log data structure. We chose Redis because vets-api already uses Redis in production. The expected throughput is thousands rather than millions of events per hour. We may reach a higher threshold in the future. Until then we won't need the capacity and operational complexity of an alternative such as Kafka.
 
-The VA systems producing events are not within the same AWS VPC and some systems still live in legacy data centers. Also not all VA systems have the technical experience of writing to a distributed log. An API endpoint provides remote systems are familiar path to get events into the system. 
+The VA systems producing events are not within the same AWS VPC, and some of these systems still live in legacy data centers. Also, not all VA systems have the technical experience of writing to a distributed log. An API endpoint provides remote systems a familiar path to get events into our system. 
 
 To reduce the complexity of exposing, securing, and documenting this endpoint we'd like to host it on VA Lighthouse. 
 
