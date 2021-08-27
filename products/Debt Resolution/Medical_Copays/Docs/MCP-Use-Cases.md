@@ -52,14 +52,14 @@ Last updated 2021-08-13
   - `vets.gov.user+81@gmail.com`
 
 
-## Use Case C - In collection
+## Use Case C - In collection (Not a current use case)
 Last updated 2021-08-13
 
 * **Description**
   - Veteran has copays referred to DoT for collection
 
 * **Link to designs**
-  - lorem ipsum
+  - N/A
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+82@gmail.com`
@@ -91,14 +91,15 @@ Last updated 2021-08-13
   - `vets.gov.user+84@gmail.com`
 
 
-## Use Case F - Prescriptions only
+## Use Case F - Prescriptions only (Not a current use case)
 Last updated 2021-08-13
 
 * **Description**
-  - Veteran doesn't pay copays but pays for prescriptions
+  - Veteran doesn't pay copays but pays for prescriptions.
+  - **Note:** We determined that this was not a valid use case for now, the details pages will simply show only prescription charges in the table.
 
 * **Link to designs**
-  - [TBD]
+  - N/A
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+85@gmail.com`
