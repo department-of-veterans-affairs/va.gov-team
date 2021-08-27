@@ -3,7 +3,7 @@
 ## Background
 The VA Mobile App team is creating an API endpoint to ingest events from MHV Secure Messaging. These events would then trigger push notifications in the app via VEText. 
 
-The above use-case of MHV Secure Messaging to VEText is unlikely to be the last connection the mobile app needs to support. To accelerate the onboarding of event producers. The creation of consumers. And to decouple the one-to-one connection between producers and consumers. We are designing the system as an event stream. Once placed on the stream multiple event consumers may independently read an event and decide how to react to it.
+This single use case (MHV Secure Messaging to VEText) is unlikely to be the last connection the mobile app needs to support. We are therefore designing the system as an event stream. This design will allow us to accelerate the onboarding of event producers, expedite the creation of consumers, and decouple the one-to-one connection between producers and consumers. Once placed on the stream, multiple event consumers may independently read an event and decide how to react to it.
 
 
 ## Team
