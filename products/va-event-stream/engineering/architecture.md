@@ -34,6 +34,10 @@ Event consumers will run 'rules' on the event stream. When an event trigger's a 
 ### Actions
 Actions are Sidekiq jobs. In most cases they will call a 3rd party API to deliver the notification to a veteran.
 
-### Flow Chart
+### Diagrams
 
+#### High Level Flow Chart
 ![Event Stream Flow Chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/va-event-stream-openapi-spec/products/va-event-stream/engineering/resources/event-stream-flow-chart.svg)
+
+#### Secure Messaging Push Notification Sequence Diagram
+![Secure Messaging Push Notification Sequence Diagram](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/va-event-stream-openapi-spec/products/va-event-stream/engineering/resources/secure-messaging-push-sequence.svg)
