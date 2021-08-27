@@ -15,21 +15,23 @@ Prepared by Tressa Furner, Aug 2021
 - Users were able to understand how to take action on an alert (links inside of alerts)
 - Users wanted alerts to be ordered chronologically
 - Time sensitivity is important to call out
-- Most users wanted an archive
+- Most users wanted an archive of alerts (somewhere to see all past alerts)
 - Users mentioned wanting a dashboard AND a centralized place for alerts
 - Redundancy is welcomed and important 
 - Most users recieve emails and text and would not be confused if they came to VA.gov and saw the same thing
-- Only 2 people mentioned wanting to know if their alert had been 'viewed'
 - Users liked the amount of information shown in each alert - a few people mentioned wanting additional information around messages (eg subject)
-- Almost all users prioritized the form and the appeal hearing reminder followed by appointments
+
 - No users knew what the form number meant - users mentioned being more specific around this
 - Most users could not point to what was 'the most important' - many mentioned that it completely depends what is happening in a Veteran's life. 
 - Many people said that if there is something that is going to expire or you have to be somewhere at a certain time - that would make an alert important. 
 - Users were really excited and surprised to see something that was so personalized to them. 
 - There was some concern about alerts getting 'lost' 
 - Users wanted to categorize alerts into the same sections that are on the homepage (?)
-- 
 
+
+- Only 2 people mentioned wanting to know if their alert had been 'viewed'
+
+- Almost all users prioritized the form and the appeal hearing reminder followed by appointments
 
 **Alerts Page**
 
