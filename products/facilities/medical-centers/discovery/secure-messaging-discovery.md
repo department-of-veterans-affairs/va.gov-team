@@ -22,12 +22,12 @@ Informational interview with secure messaging SME(s).
     - **Patient experience**: before or after a visit; at any point a patient needs to communicate with their health care team, when not in-person
     - **Veteran journey**: from the point a Veteran is registered for VA health care, secure messaging could apply anytime a Veteran needs to communicate with their health care team
 - What is a typical use case for this product?
-        - Sheduling appointments
-        - Requesting prescription refills
-        - Non-urgent general health care questions
+    - Sheduling appointments
+    - Requesting prescription refills
+    - Non-urgent general health care questions
 - Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?
-        - Benficial to have a record of previous communications (see My HealtheVet research)
-        - Works on Veteran's own schedules; relieves pressure of real-time communicaiton via chat or phone
+    - Benficial to have a record of previous communications (see My HealtheVet research)
+    - Works on Veteran's own schedules; relieves pressure of real-time communicaiton via chat or phone
 - How does a health care provider onboard to secure messaging?
 
 ### SME Interview(s)
