@@ -26,7 +26,7 @@ Informational interview with secure messaging SME(s).
     - Requesting prescription refills
     - Non-urgent general health care questions
 - Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?
-    - Benficial to have a record of previous communications (see My HealtheVet research)
+    - Benficial to have a record of previous communications (see [Digital Modernization research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf))
     - Works on Veteran's own schedules; relieves pressure of real-time communicaiton via chat or phone
 - How does a health care provider onboard to secure messaging?
 
