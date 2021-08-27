@@ -124,7 +124,7 @@ Last updated 2021-08-13
   - Veteran is not enrolled in Health Care
 
 * **Link to designs**
-  - [TBD]
+  - [Copay overview - Not enrolled][copay-overview-not-enrolled]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+87@gmail.com`
@@ -177,3 +177,4 @@ Last updated 2021-08-13
 [copay-overview-active-one-facility]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466536/simulate/sitemap?mode=i
 [copay-overview-active-multiple-facilities]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468774/simulate/sitemap?mode=i
 [copay-overview-resolved-one-facility]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466576/simulate/sitemap?mode=i
+[copay-overview-not-enrolled]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468871/simulate/sitemap?mode=i
