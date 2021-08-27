@@ -34,7 +34,7 @@ Below is a list of questions that we would like to ask SMEs.
 1. Are there any Veteran groups that are disproportionately harmed/effected by harassment? Who are they and why?
 1. Should we allow participants to fill out whatever information they feel like sharing from their own experiences or imagination, or provide fictitious details for them to enter?
 1. Do you think it's OK to ask some warm-up questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details but let the person be heard.
-    1. Have you been harassed at a VA facility before? 
+    1. Have you been harassed at a VA facility before? Are you up for talking about that?
     2. If so, did you report it? How?
     3. How would you prefer to report it? Why?
 3. Do you know of any Veterans who might be willing and feel comfortable talking with us about reporting harassment? If so, I can provide a blurb for you to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
