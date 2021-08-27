@@ -85,11 +85,12 @@ Prepared by Tressa Furner, Aug 2021
 - Benefit summary (1)
 - VA notices (1)
 
-**All users easily understood and liked the term 'Alerts' after they saw it**
+**All users easily understood and liked the term 'Alerts' after they saw it.** If we call the page 'Nofications', it might be confusing to a user to go to notification settings and not be able to change anything about the actual 'Notifications' page.
 
 ## Thoughts and Questions
 
 - Apparently VA doctors can mark messages as urgent. Who do we ask about this? Do we need to account for this in the alerts section?
 - A couple users mentioned wanting the ability to print out all of their appointments. I need to follow up with VAOS about this.
 - We only had one user who had an active appeal, and he mentioned wanting the timeline of the appeal included. What does that look like currently on that site? Is that something that should live in an alert?
+
 
