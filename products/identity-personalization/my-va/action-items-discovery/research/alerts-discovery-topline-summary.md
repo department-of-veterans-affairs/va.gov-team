@@ -9,8 +9,8 @@ Prepared by Tressa Furner, Aug 2021
 
 **Alerts page**
 
-- All users easily understood what the Alerts page was 
-- Users were able to understand how to take action on an alert (links inside of alerts)
+- All users easily understood what the alerts page was for
+- Users were able to understand how to take action on an alert (eg links inside of alerts)
 - Users easily understood and wanted alerts to be ordered chronologically
 - Most users wanted an archive of alerts at least 1 year back (somewhere to see all past alerts)
 - Users mentioned wanting a dashboard AND a centralized place for alerts
