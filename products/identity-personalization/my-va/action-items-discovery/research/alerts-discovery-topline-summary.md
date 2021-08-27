@@ -7,141 +7,81 @@ Prepared by Tressa Furner, Aug 2021
 
 ## Findings (Wins)
 
-**Overall Wayfinding**
+**Alerts page**
 
 - All users easily understood what the Alerts page was 
-- All users easily found the omni-present Alerts page link in the navigation
-- All users easily understood the red dot indicator - though some users wanted a number in the red dot (like on a phone)
 - Users were able to understand how to take action on an alert (links inside of alerts)
-- Users wanted alerts to be ordered chronologically
-- Time sensitivity is important to call out
-- Most users wanted an archive of alerts (somewhere to see all past alerts)
+- Users easily understood and wanted alerts to be ordered chronologically
+- Most users wanted an archive of alerts at least 1 year back (somewhere to see all past alerts)
 - Users mentioned wanting a dashboard AND a centralized place for alerts
-- Redundancy is welcomed and important 
+- Redundancy of alerts was welcomed and important 
 - Most users recieve emails and text and would not be confused if they came to VA.gov and saw the same thing
-- Users liked the amount of information shown in each alert - a few people mentioned wanting additional information around messages (eg subject)
+- Users liked the amount of information shown in each alert
+- Users were really excited and surprised to see something that was so personalized to them
+- Multiple users called out the exclamation point icon as something that made sense 
 
-- No users knew what the form number meant - users mentioned being more specific around this
-- Most users could not point to what was 'the most important' - many mentioned that it completely depends what is happening in a Veteran's life. 
-- Many people said that if there is something that is going to expire or you have to be somewhere at a certain time - that would make an alert important. 
-- Users were really excited and surprised to see something that was so personalized to them. 
-- There was some concern about alerts getting 'lost' 
-- Users wanted to categorize alerts into the same sections that are on the homepage (?)
+**Alerts link/indicator**
 
-
-- Only 2 people mentioned wanting to know if their alert had been 'viewed'
-
-- Almost all users prioritized the form and the appeal hearing reminder followed by appointments
-
-**Alerts Page**
+- All users easily found the omni-present Alerts page link in the navigation
+- All users easily understood the red dot indicator
+- All users easily understood the term 'Alerts' and what it meant 
 
 **Alerts on My VA**
-- Users were confused by why they were seeing the alerts they were seeing on My VA
-- Almost all users missed 'View all alerts', but when directed to it they easily understood where it would go
-- 
+
+- Users were confused by why they were seeing the specific alerts that they were seeing on My VA
+- Almost all users missed 'View all alerts' initially, but when directed to it they easily understood where it would go
+- Users expected there to be an alerts section in My VA
+- Users were not bothered by having an alerts section as well as an alerts page
+
+## Findings (Pain points)
+
+**Alerts page**
+
+- There was some concern about 'important' alerts getting lost or buried
+- Some users wanted to categorize alerts or be able to tell alerts apart by category
+- No users knew what the form number meant
+- Users mentioned wanting some more specificity around the form alert (eg form name) and messages (eg subject)
+- Users wanted more differentiation between time sensitive alerts and non-time sensitive alerts 
+
+**Alerts link/indicator**
+
+- Multiple participants mentioned they might expect to see a number in the red indicator
+
+**Alerts on My VA**
+
+- Users were confused by why they were seeing the specific alerts that they were seeing on My VA
+- Almost all users missed 'View all alerts' initially, but when directed to it they easily understood where it would go
+- Users were confused by the text '3 latest alerts in the last 30 days'
+
+## Other
+
+**Prioritization**
+
+- Most users could not point to what was 'the most important alert' - many mentioned that it completely depends what is happening in a Veteran's life. 
+- Many people said that if there is something that is going to expire or you have to be somewhere at a certain time - that would make an alert important.
+- Time sensitivity is important to call out 
+- Almost all users prioritized the unfinished form alert and the appeal hearing reminder, closely followed by appointments
 
 **Commonly mentioned things**
-- Payments
+- Appointments
+- Prescriptions
+- Messages
+- Claims and appeals information
+- Payments/financial information (debt)
 - Education payments
 - Home loan info (provider, local APRs)
 - Referral approvals
 - Annual amount of disability compensation
 - Veteran organizations available to join
 
-### Users easily understood:
+## What should this page be called?
 
-**Nametag**
+- Notifications (3)
+- Action items (2)
+- Knowledge base (1)
+- Status updates (1)
+- Benefit summary (1)
+- VA notices (1)
 
-- how to find their disability rating
-- where the disability rating would go
-
-**Claims**
-
-- why we were showing the grey box in claims & appeals
-- "X claims & appeals in progress" link would take them to a break down with their claims in progress
-- how to view all of their claims and appeals
-- how to view specific details about their claim
-
-**Healthcare**
-
-- how to find all of their health care information (messages, appointments, prescriptions)
-- how to read their latest message
-- how to read get to their 'X unread messages'
-- why we're showing their next appointment
-- CTA's would take them to a separate page with more information
-
-**Apply for benefits** 
-
-- what the applications in progress are
-- how to finish and submit an application
-- how to apply to for additional benefits
-- generally why we are showing what we're showing in 'Benefits you might be interested in'
-- how to find more information about additional benefits
-
-
-## Findings (Pain points)
-
-**Overall**
-
-- No users were able to find MyVA in the Menu dropdown on their own (could be the way we framed the question - all users said they would look in the homepage links to find updates to benefits (specifically in the disability section)
-- A couple users thought the grey boxes were clickable
-- Multiple users mentioned messages and prescriptions grey boxes to be not helpful, 1 participant wanted all grey boxes removed
-- A lot of confusion around 'totals' in general. Users didn't know if the grey box was included in the total in the CTA
-- A few people mentioned wanting the section titles to be clickable
-- A few people mentioned wanting the whole page to be more 'actionable' - if it isn't something they can act on, they didn't want it
-
-### Users were confused about:
-
-**Nametag**
-
-- no confusion
-
-**Claims**
-
-- the total number of claims & appeals
-
-**Healthcare**
-
-- all healthcare totals
-- why there is a grey box in messages and prescriptions
-- prescription update, users didn't always understand what it was referring too
-- prescription refills, specifically how the number of refills related to the information in the grey box
-- prescription section in general - users wanted to see a link to see all prescriptions
-
-**Apply for benefits**
-
-- if the benefit we are showing was something they were eligible for
-- if the benefit we are showing was a benefit that is underutilized at the VA 
-- how to learn more about benefits. Users all eventually found the FAQ, but several mentioned that they would move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible)
-
-## Things participants mentioned that they would like added/changed
-
-**Overall**
-
-- payment history (6)
-- personal notifications (4)
-- GI Bill information (specifically how much money and time is left) (3)
-- information about home loans (3)
-- direct deposit (2)
-- contact information for the VA for each section (2)
-
-**Nametag**
-
-- no major changes
-
-**Claims & appeals**
-
-- no major changes
-
-**Healthcare**
-
-- specific CTAs (schedule/cancel appointments, send a message)
-- doctor appointments and appointment type to be added to appt boxes
-- when their prescriptions are going to be arriving  
-
-**Apply for Benefits**
-
-- eligibility requirements
-- move 'What benefits does the VA offer' up to the top of the page or the top of the section (make it more visible)
-
+**All users easily understood and liked the term 'Alerts' after they saw it**
 
