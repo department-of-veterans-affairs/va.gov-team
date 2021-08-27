@@ -33,7 +33,7 @@ Last updated 2021-08-13
   - Veteran has active copays at one facility
 
 * **Link to designs**
-  - [Copay overview - One facility][copay-overview-one-facility] [EXCEPT: "What you owe to your 1 facility" section-title, and just one bill-card]
+  - [Copay overview - One facility][copay-overview-active-one-facility]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+80@gmail.com`
@@ -46,7 +46,7 @@ Last updated 2021-08-13
   - Veteran has active copays at multiple facilities
 
 * **Link to designs**
-  - [Copay overview - Open alert][copay-overview-open-alert] [EXCEPT: No zero-balance bill-cards]
+  - [Copay overview - Open alert][[copay-overview-active-multiple-facilities]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+81@gmail.com`
@@ -72,7 +72,7 @@ Last updated 2021-08-13
   - Veteran has a resolved (paid) balance at one facility
 
 * **Link to designs**
-  - [Copay overview - One resolved][copay-overview-one-resolved]
+  - [Copay overview - One resolved][copay-overview-resolved-one]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+83@gmail.com`
@@ -174,5 +174,6 @@ Last updated 2021-08-13
 [designs]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/140826057/simulate/sitemap?mode=i%5D
 [mvi-staging-users]: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv
 [copay-overview-open-alert]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/140669280/simulate/sitemap?mode=i
-[copay-overview-one-facility]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466536/simulate/sitemap?mode=i
-[copay-overview-one-resolved]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466576/simulate/sitemap?mode=i
+[copay-overview-active-one-facility]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466536/simulate/sitemap?mode=i
+[copay-overview-active-multiple-facilities]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468774/simulate/sitemap?mode=i
+[copay-overview-resolved-one-facility]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466576/simulate/sitemap?mode=i
