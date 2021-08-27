@@ -42,8 +42,8 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 1. See if you can get college credit for your military service (search for **"college credit"** in site search or Resources & Support; this finds R&S article "How do I get college credits for my military service?")
 
 **Notes:**
-- We plan to show some *unhelpful* search results and see what participants do next (on the page they're looking at and/or navigating back to the home page).
-- We will likely need *a separate prototype for each task* so that search queries and search results can be different.
+- In the prototypes, site search will lead only to *unhelpful* search results (as it does today for the above search tasks, which is why they were selected). We want to see what participants do (on the page they're looking at and/or navigating back to the home page) and see if they find that *searching from one of the other search tools leads to success*.
+- We will need *a separate prototype for each task* so that search queries and search results can be different.
 
 ## Participants and Recruitment	
 Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
