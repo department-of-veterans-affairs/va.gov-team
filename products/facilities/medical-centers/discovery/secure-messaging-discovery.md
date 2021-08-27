@@ -16,22 +16,24 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 Informational interview with secure messaging SME(s).
 
-### Discovery Questions
+### Key Findings
 
-- Where does this product fit into the Veteran journey? ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
-    - **Patient experience**: before or after a visit; at any point a patient needs to communicate with their health care team, when not in-person
-    - **Veteran journey**: from the point a Veteran is registered for VA health care, secure messaging could apply anytime a Veteran needs to communicate with their health care team
-- What is a typical use case for this product?
+- **Where does this product fit into the Veteran journey?** ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
+    - Patient experience: before or after a visit; at any point a patient needs to communicate with their health care team, when not in-person
+    - Veteran journey: from the point a Veteran is registered for VA health care, secure messaging could apply anytime a Veteran needs to communicate with their health care team
+- **What is a typical use case for this product?**
     - Sheduling appointments
     - Requesting prescription refills
     - Non-urgent general health care questions
-- Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?
+- **Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?**
     - Benficial to have a record of previous communications (see [Digital Modernization research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf))
     - Works on Veteran's own schedules; relieves pressure of real-time communicaiton via chat or phone
-- How does a health care provider onboard to secure messaging?
-    - (Potentially complicated, with their own training procedures, etc - probably out of scope)
+- **What does a Veteran need to know about this?**
+    - Secure messaging cannot be used for emergency or urgent communication
+    - Health care teams are different, and Veterans and their team must agree on if, and how, they want to use secure messaging
+    - Veterans can only communicate with health care teams they are authorized to communicate with
 
-### SME Interview(s)
+## SME Interview(s)
 
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
