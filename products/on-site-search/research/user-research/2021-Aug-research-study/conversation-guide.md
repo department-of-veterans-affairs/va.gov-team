@@ -88,7 +88,7 @@ Let’s start with a few questions...
   - Did you find what you were looking for?
 
 ## Screen sharing
-I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your desktop. You should first close any other applications that you don't want me to see.
+I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your web browser. If you want to share your whole desktop, first close any other applications that you don't want me to see.
 *(refer to Screen sharing instructions above, if needed)*
 
 What kind of device are you using today? *(Phone / Computer)*
@@ -103,6 +103,8 @@ Do you see the link?
 While you're looking at this prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 ### Task 1: [Submit letter in support of your claim - Form 21-4138] - 5 minutes
+Could you please click on the link for "Task 1"?
+
 Let's say that in order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury.
 
 Have you ever done this before? (Y / N) If so, how did you do this? If not, how might you do this?
@@ -135,6 +137,8 @@ What would you do now?
 
  
 ### Task 2: [Find VA hospital in Knoxville] - 5 minutes
+Could you please go back to the original browser tab and click on the link for "Task 2"?
+
 Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
@@ -165,6 +169,8 @@ What would you do now?
 
  
 ### Task 3: [College credit for military service] - 5 minutes
+Could you please go back to the original browser tab and click on the link for "Task 3"?
+
 Now I would like you to see if you can get any college credit for your military service.
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
