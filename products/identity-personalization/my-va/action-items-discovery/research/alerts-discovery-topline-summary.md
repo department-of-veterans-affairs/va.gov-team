@@ -12,14 +12,39 @@ Prepared by Tressa Furner, Aug 2021
 - All users easily understood what the Alerts page was 
 - All users easily found the omni-present Alerts page link in the navigation
 - All users easily understood the red dot indicator - though some users wanted a number in the red dot (like on a phone)
-- Users were able to understand how to take action on an alert
+- Users were able to understand how to take action on an alert (links inside of alerts)
 - Users wanted alerts to be ordered chronologically
 - Time sensitivity is important to call out
+- Most users wanted an archive
+- Users mentioned wanting a dashboard AND a centralized place for alerts
+- Redundancy is welcomed and important 
+- Most users recieve emails and text and would not be confused if they came to VA.gov and saw the same thing
+- Only 2 people mentioned wanting to know if their alert had been 'viewed'
+- Users liked the amount of information shown in each alert - a few people mentioned wanting additional information around messages (eg subject)
+- Almost all users prioritized the form and the appeal hearing reminder followed by appointments
+- No users knew what the form number meant - users mentioned being more specific around this
+- Most users could not point to what was 'the most important' - many mentioned that it completely depends what is happening in a Veteran's life. 
+- Many people said that if there is something that is going to expire or you have to be somewhere at a certain time - that would make an alert important. 
+- Users were really excited and surprised to see something that was so personalized to them. 
+- There was some concern about alerts getting 'lost' 
+- Users wanted to categorize alerts into the same sections that are on the homepage (?)
+- 
 
 
 **Alerts Page**
 
 **Alerts on My VA**
+- Users were confused by why they were seeing the alerts they were seeing on My VA
+- Almost all users missed 'View all alerts', but when directed to it they easily understood where it would go
+- 
+
+**Commonly mentioned things**
+- Payments
+- Education payments
+- Home loan info (provider, local APRs)
+- Referral approvals
+- Annual amount of disability compensation
+- Veteran organizations available to join
 
 ### Users easily understood:
 
