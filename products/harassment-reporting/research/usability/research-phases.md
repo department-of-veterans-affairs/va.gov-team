@@ -15,13 +15,13 @@ We will talk with the SMEs about what we want to do and get feedback from them o
 
 If an SME thinks this is reasonable to do, we will ask them for names of specific Veterans who they think might feel comfortable participating. We will also invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
 
-### Phase 2: Usability Testing with SMEs (mid-late Sept; 60 min over Zoom)
-After the prototype (or maybe the wireframes?) have been finalized by Design, Content, and Research, show it to several SMEs to review it from the point of view of a someone who has experienced harassment at the VA. They will be prompted through the user tasks in the usbility test.
+### Phase 2: Usability Testing with SMEs (late Sept; 60 min over Zoom)
+After the prototype has been finalized by Design, Content, and Research, show it to several SMEs to consider from the point of view of a someone who has experienced harassment at the VA. They will be prompted to go through the user tasks in the usbility test.
 
 ### Phase 3: Usability Testing with Veterans (early-mid Oct; 60 min over Zoom)
 If we have obtained the buy-in of the SMEs and some names or recommendations for Veterans to interview, we will work with Perigean to recruit the participants for usability test sessions. They will be prompted through the same user tasks in the usability test as the SMEs did in Phase 2. 
 
-If we are advised to not test with Veterans, then the participants in this phase will be SMEs instead, and we will likely need to schedule more sessions. If the SMEs are not Veterans, then we cannot use Perigean to recruit, and our team will need to handle the recruiting logistics. 
+*If we are advised by SMEs to not test with Veterans*, then the participants in this phase will be SMEs instead, and we will likely need to schedule more sessions. If the SMEs are not Veterans, then Perigean cannot recruit them for us, and our team will need to handle the recruiting logistics workload. 
 
 ## Information gathering from SMEs
 Below is a list of questions that we would like to ask SMEs.
