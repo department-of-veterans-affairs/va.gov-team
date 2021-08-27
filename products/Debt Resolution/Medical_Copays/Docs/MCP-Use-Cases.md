@@ -163,7 +163,7 @@ Last updated 2021-08-13
   - Veteran's deceased
 
 * **Link to designs**
-  - [TBD]
+  - [Copay overview - Veteran is deceased][copay-overview-veteran-deceased]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+90@gmail.com`
@@ -179,3 +179,4 @@ Last updated 2021-08-13
 [copay-overview-resolved-one-facility]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466576/simulate/sitemap?mode=i
 [copay-overview-not-enrolled]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468871/simulate/sitemap?mode=i
 [copay-overview-no-copay-history]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468842/simulate/sitemap?mode=i
+[copay-overview-veteran-deceased]: https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141469718/simulate/sitemap?mode=i
