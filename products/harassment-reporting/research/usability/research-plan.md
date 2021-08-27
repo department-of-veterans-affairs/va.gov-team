@@ -11,30 +11,35 @@ If a Veteran experiences an incident of harassment or other inappropriate behavi
 
 ## Research questions
 1. Where do users expect to find a harassment reporting tool? 
-  1. Are they able to find it on VA.gov?
+1. Are they able to find information on harassment on VA.gov?
 1. What are users' reactions to the landing page?
 1. What are users' reactions to the online reporting form?
 
 ## Hypotheses
 1. Users will like the convenience of self-service reporting harassment.
-1. Users will be able to find the information about harassment on the VA.gov home page.
+1. Users will be able to find the information about harassment on VA.gov.
 1. Users will feel comfortable filling out the harassment reporting form.
 
 ## Method
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype in UXPin. Some participants will be on desktop, and some will be on mobile.
 
 ## Participants and Recruitment	
-Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with the aftereffects of harassment. Such SMEs may include mental health counselors at VA facilities or Vet Centers who counsel harassment victims, and VA staff who field harassment reporting calls from Veterans and/or VA employees. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
+Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with harassment. Such SMEs may include mental health counselors at VA facilities or Vet Centers who counsel harassment victims, and VA staff who field harassment reporting calls from Veterans and/or VA employees. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
 
-### Topics to discuss with subject-matter experts (SMEs)
-1. Explain what we want to do (goals above) and how (use a design prototype)
-1. Are you willing to look at the prototype and provide feedback from the point of view of someone who has experienced harassment at the VA?
-3. Ask for feedback on whether we should try to do this with Veterans who may have experienced harassment--potential for re-triggering the trauma?
-4. Allow participants to fill out whatever information they feel like sharing from their own experiences, or provide fictitious details to enter?
-5. OK or not to ask some warm-up questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details?
-7. Ask if know of any Veterans who might be willing and feel comfortable talking with us about reporting an harassment incident. If so, can provide a blurb to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
-8. Ask if might be willing to observe the research session and provide support during it and afterwards, if needed
-9. Is there anyone else that you would recommend that I talk with? (who and why?)
+### Topics to discuss with subject-matter experts (SMEs)--30 min discussion + 30 min to go thru prototype
+1. Explain what we want to do (goals above) and how (interact with a design prototype)
+1. Are you willing to look at the prototype and provide feedback from the point of view of someone who has experienced harassment at the VA? (if so, share the prototype and prompt with user tasks)
+1. Do you think we should try to ask Veterans who may have experienced harassment to give feedback on this prototype? Potential for re-triggering the trauma?
+    1. If no, skip to last question
+    1. If yes, ask rest of questions
+1. What kinds of Veterans do you think we should target in our research? (i.e., female/male, sexual/non-sexual harassment)
+1. Who do you think might use a self-service harassment reporting tool like this one vs. call a phone number vs. not report at all?
+1. Are there any Veteran groups that are disproportionately harmed/effected by harassment? Who are they and why?
+1. Should we allow participants to fill out whatever information they feel like sharing from their own experiences or imagination, or provide fictitious details for them to enter?
+1. Do you think it's OK to ask some warm-up questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details but let the person be heard.
+1. Do you know of any Veterans who might be willing and feel comfortable talking with us about reporting harassment? If so, I can provide a blurb for you to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
+1. Might you be willing to observe the research session(s) with the Veterans you recommend and provide support during the session(s) and afterwards, if needed?
+1. Is there anyone else that you would recommend that I talk with? (who and why?)
 
 ### Participants to recruit
 
