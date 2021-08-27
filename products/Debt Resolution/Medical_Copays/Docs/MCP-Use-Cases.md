@@ -27,7 +27,7 @@ _The purpose of this document is for designers, PMs, and engineers to align earl
 </details>
 
 ## Use Case A - Active, single facility
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran has active copays at one facility
@@ -40,7 +40,7 @@ Last updated 2021-08-13
 
 
 ## Use Case B - Active, multiple facilities
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran has active copays at multiple facilities
@@ -53,7 +53,7 @@ Last updated 2021-08-13
 
 
 ## Use Case C - In collection (Not a current use case)
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran has copays referred to DoT for collection
@@ -66,7 +66,7 @@ Last updated 2021-08-13
 
 
 ## Use Case D - Resolved, single facility
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran has a resolved (paid) balance at one facility
@@ -79,7 +79,7 @@ Last updated 2021-08-13
 
 
 ## Use Case E - Active + Resolved, multiple facilities
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran has a mixture of active and resolved copay balances at multiple facilities
@@ -92,7 +92,7 @@ Last updated 2021-08-13
 
 
 ## Use Case F - Prescriptions only (Not a current use case)
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran doesn't pay copays but pays for prescriptions.
@@ -106,7 +106,7 @@ Last updated 2021-08-13
 
 
 ## Use Case G - No history
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran no history of copays
@@ -119,7 +119,7 @@ Last updated 2021-08-13
 
 
 ## Use Case H - Not Enrolled in Health Care
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran is not enrolled in Health Care
@@ -158,7 +158,7 @@ Last updated 2021-08-13
 
 
 ## Use Case K - Deceased
-Last updated 2021-08-13
+Last updated 2021-08-27
 
 * **Description**
   - Veteran's deceased
