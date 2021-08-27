@@ -51,7 +51,7 @@ We would like to work with Perigean to recruit for 13 fulfilled remote sessions.
 **Must have for participants**
 
 - At least 10 Veterans
-- At least 2 POAs (no more than 3)
+- At least 2 Power of attorney (POA) but no more than 3
 - At least 9 people with a disability rating of 50% or higher (Please be mindful that the prototype is not accesibility for folks using most types of assistive tech, eg. screenreaders)
 - At least 4 people over the age of 55
 - All participants must participate using a laptop or desktop (the prototype is not functional on mobile or tablet devices)
