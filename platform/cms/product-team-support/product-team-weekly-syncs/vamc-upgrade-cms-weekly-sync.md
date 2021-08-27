@@ -21,6 +21,16 @@
 
 </details>
 
+## August 27, 2021
+Full product launches
+- removed endpoints for 9/1: durham, central iowa, hampton, fayetteville arkansas
+
+Guidance / editor support
+- spike in new users due to VHA email reminder to complete training
+- ask folks not to copy the helpdesk on email communications
+
+
+
 ## August 20
 
 Incoming changes to VAMC product 
