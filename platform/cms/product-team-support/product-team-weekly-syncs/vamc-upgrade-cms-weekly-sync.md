@@ -22,13 +22,34 @@
 </details>
 
 ## August 27, 2021
+
 Full product launches
-- removed endpoints for 9/1: durham, central iowa, hampton, fayetteville arkansas
+- remove endpoints for 9/1: durham, central iowa, hampton, fayetteville arkansas [6185](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6185)
 
 Guidance / editor support
 - spike in new users due to VHA email reminder to complete training
+  - VISN 17, 20 now engaged
+  - after Labor Day every VISN will have been engaged in regards to training
 - ask folks not to copy the helpdesk on email communications
+  - if someone sends a direct email to someone, best practice is to forward helpdesk to create the issue in the system
+- new CMS helpdesk manager onboarding now
+- any issues with VISN 19 having 4 folks with access? (specifically Jason Strickland)
+  - Dave ok with how they're managing
 
+Soft content retirement protocol
+- when new content is currently created it will automatically archive the old one and move it so that the new one gets the right alias
+- CMS can't release as is because it would replace with a non-page
+- CMS will only apply to policy pages and will loop in VAMC Upgrade when this occurs
+- VAMC almost done with scaffolding of sites
+
+Limit banner display
+- currently a disconnect between CMS and FE that's causing the checkbox to limit banner to homepage may be inverted
+- "InheretanceSubPages = False" not behaving as expected ("Show on all pages")
+- runbook may need to be tweaked specifically for the "this page isn't the real one" banner
+- next dual-state launches on Tues, 8/31
+- Dave deciding what to change (FE or BE)
+- How could we make the rebuild process most efficient once we land on fix? (between CMS and Facilities)
+- Possibly change the label in the CMS, not necessarily the default value
 
 
 ## August 20
