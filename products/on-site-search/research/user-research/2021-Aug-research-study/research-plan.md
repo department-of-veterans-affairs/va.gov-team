@@ -16,6 +16,7 @@ User research findings from the VA.gov home page ([May 2021](https://github.com/
 Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)) have indicated that users get stuck while working on tasks because they're so focused on the "top 4" boxes, and that site search and other search tools are not noticed and used as much as we hoped. To address this, the Search & Discovery team is considering new ideas for better surfacing site search and other search tools.
 
 ## Research questions
+1. Do users find and use the other search tools?
 1. What are users' reactions to a landing page that highlights search tools? 
 1. Do users try using the search tools from links on the landing page?  
 1. What are users' reactions to Search in the header taking them to a landing page?
