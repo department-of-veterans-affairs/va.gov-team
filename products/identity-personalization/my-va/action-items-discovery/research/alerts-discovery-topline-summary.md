@@ -59,7 +59,7 @@ Prepared by Tressa Furner, Aug 2021
 
 - Most users could not point to what was 'the most important alert' - many mentioned that it completely depends what is happening in a Veteran's life. 
 - Many people said that if there is something that is going to expire or you have to be somewhere at a certain time - that would make an alert important.
-- Time sensitivity is important to call out 
+- Time sensitivity is an important factor when it comes to prioritization
 - Almost all users prioritized the unfinished form alert and the appeal hearing reminder, closely followed by appointments
 
 **Commonly mentioned things**
@@ -84,4 +84,10 @@ Prepared by Tressa Furner, Aug 2021
 - VA notices (1)
 
 **All users easily understood and liked the term 'Alerts' after they saw it**
+
+## Thoughts and Questions
+
+- Apparently VA doctors can mark messages as urgent. Who do we ask about this? Do we need to account for this in the alerts section?
+- A couple users mentioned wanting the ability to print out all of their appointments. I need to follow up with VAOS about this.
+- We only had one user who had an active appeal, and he mentioned wanting the timeline of the appeal included. What does that look like currently on that site? Is that something that should live in an alert?
 
