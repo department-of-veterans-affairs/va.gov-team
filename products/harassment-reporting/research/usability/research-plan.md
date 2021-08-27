@@ -37,9 +37,12 @@ Because harassment is a potentially triggering subject, we want to be careful ab
 1. Are there any Veteran groups that are disproportionately harmed/effected by harassment? Who are they and why?
 1. Should we allow participants to fill out whatever information they feel like sharing from their own experiences or imagination, or provide fictitious details for them to enter?
 1. Do you think it's OK to ask some warm-up questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details but let the person be heard.
-1. Do you know of any Veterans who might be willing and feel comfortable talking with us about reporting harassment? If so, I can provide a blurb for you to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
-1. Might you be willing to observe the research session(s) with the Veterans you recommend and provide support during the session(s) and afterwards, if needed?
-1. Is there anyone else that you would recommend that I talk with? (who and why?)
+    1. Have you been harassed at a VA facility before? 
+    2. If so, did you report it? How?
+    3. How would you prefer to report it? Why?
+3. Do you know of any Veterans who might be willing and feel comfortable talking with us about reporting harassment? If so, I can provide a blurb for you to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
+4. Might you be willing to observe the research session(s) with the Veterans you recommend and provide support during the session(s) and afterwards, if needed?
+5. Is there anyone else that you would recommend that I talk with? (who and why?)
 
 ### Participants to recruit
 
