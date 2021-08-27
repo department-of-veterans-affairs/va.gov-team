@@ -46,7 +46,7 @@ Last updated 2021-08-13
   - Veteran has active copays at multiple facilities
 
 * **Link to designs**
-  - [Copay overview - Open alert][[copay-overview-active-multiple-facilities]
+  - [Copay overview - Open alert][copay-overview-active-multiple-facilities]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+81@gmail.com`
@@ -72,7 +72,7 @@ Last updated 2021-08-13
   - Veteran has a resolved (paid) balance at one facility
 
 * **Link to designs**
-  - [Copay overview - One resolved][copay-overview-resolved-one]
+  - [Copay overview - One resolved][copay-overview-resolved-one-facility]
 
 * **Instructions to access in Staging** [Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+83@gmail.com`
