@@ -29,6 +29,7 @@ Informational interview with secure messaging SME(s).
     - Benficial to have a record of previous communications (see [Digital Modernization research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf))
     - Works on Veteran's own schedules; relieves pressure of real-time communicaiton via chat or phone
 - How does a health care provider onboard to secure messaging?
+    - (Potentially complicated, with their own training etc. Maybe out of scope)
 
 ### SME Interview(s)
 
