@@ -31,7 +31,7 @@
 
 ## Intro - 5 minutes
 
-Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about finding VA information online.
+Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about finding VA information online. You won't need to log in during this session.
 
 Before we start, I want to go over a few things:
 
@@ -78,7 +78,7 @@ Before we start, I want to go over a few things:
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
 Let’s start with a few questions...
-- Where do you typically go to get information and benefits from the VA?
+- Where do you typically go to get information about VA benefits?
 
 (Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)
 
@@ -96,7 +96,7 @@ What kind of device are you using today? *(Phone / Computer)*
 ## Veteran Tasks
 I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (desktop https://bit.ly/tasks-d or mobile https://bit.ly/tasks-m).
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (desktop https://bit.ly/tasks-d or mobile https://bit.ly/tasks-m). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
@@ -107,7 +107,7 @@ Could you please click on the link for "Task 1"?
 
 Let's say that in order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury.
 
-Have you ever done this before? (Y / N) If so, how did you do this? If not, how might you do this?
+Have you ever done this before? (Y / N) If so, how did you do this? 
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
@@ -141,6 +141,8 @@ Could you please go back to the original browser tab and click on the link for "
 
 Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
 
+Have you ever looked for a VA hospital in a city before? (Y / N) If so, how did you do this? 
+
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
 - *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / __________* 
@@ -172,6 +174,8 @@ What would you do now?
 Could you please go back to the original browser tab and click on the link for "Task 3"?
 
 Now I would like you to see if you can get any college credit for your military service.
+
+Have you ever done this before? (Y / N) If so, how did you do this? 
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
 
