@@ -73,6 +73,8 @@ Prepared by Tressa Furner, Aug 2021
 - Referral approvals
 - Annual amount of disability compensation
 - Veteran organizations available to join
+- Updates from the VA
+- Covid-19 updates
 
 ## What should this page be called?
 
