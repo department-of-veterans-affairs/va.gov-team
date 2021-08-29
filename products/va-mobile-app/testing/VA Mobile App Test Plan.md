@@ -74,7 +74,7 @@ In order to support testing activities we will need test user accounts with test
 - Users with multiple locations for claims and appointments (including a user with appointments in different time zones)
 - Users with different volumes of claims and appointments (including accounts with no claims or appointments)
 
-## Issue tracking
+## Bug tracking
 
 Issues identified during a development sprint will be managed and addressed on the story ticket. Issues identified after a story has been closed and delivered will be logged as a separate issue ticket and linked to the story in question. The Product Owner may prioritize logged issues into upcoming sprints for the development team to address. At the POs discretion, issue tickets are not scoped and do not add to a team&#39;s velocity.
 
