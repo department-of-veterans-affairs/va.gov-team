@@ -8,8 +8,6 @@ What value does the app provide to Veterans? Our big bet is that:
 
 *How will we know whether we were right about this bet?*
 
-This bet and the measures of success will change over time; the metrics below are for 
-
 ---
 
 ## Measures of Success for Veterans
