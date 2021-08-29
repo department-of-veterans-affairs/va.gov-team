@@ -5,9 +5,7 @@
 
 In August, 2021, the VA Mobile app team overhauled its use of Zenhub as a product management tool. Each phase of work was designed to solve a few key challenges:
 
-Phase 1: Migrate repositories: Migrate all issues from va.gov-team to va-mobile-app, to solve:
-
-
+**Phase 1:** Migrate repositories: Migrate all issues from va.gov-team to va-mobile-app, to solve:
 
 * Laggy, slow board due to many teams using a single, shared repo
 * Board did not display va-mobile-app PRs
@@ -15,9 +13,7 @@ Phase 1: Migrate repositories: Migrate all issues from va.gov-team to va-mobile-
 
 * Note that we still use the va.gov-team repo for our product documentation beyond Zenhub
 
-Phase 2: Set up multiple boards to more fully use Zenhub functionality, to allow us to:
-
-
+**Phase 2:** Set up multiple boards to more fully use Zenhub functionality, to allow us to:
 
 * Track a more granular view of progress across UX and Engineering work
 * Allow a single user story to float from UX to Engineering
@@ -32,6 +28,8 @@ The following documentation is meant to serve as a guide for our team and stakeh
 We use multiple boards (“workspaces” in ZH-speak) to allow UX and Engineering teams to track their work in a more granular manner than a single, combined board. Though the same issues exist on every board, but we use filters and the “workflow” feature in ZH to sort them into different columns (“pipelines”) on each board. For example, an issue in the Backlog column of the UX board will appear in the Pre-Engineering column of the Engineering board.
 
 Here’s what you can expect to find on each board:
+
+---
 
 
 ### [Product View board ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
@@ -163,6 +161,7 @@ Here’s what belongs in each column of the Product board:
   </tr>
 </table>
 
+---
 
 
 ### [UX Board](https://app.zenhub.com/workspaces/va-mobile-ux-60fed87c42104e0017e04ef9/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
@@ -286,6 +285,7 @@ Here’s what belongs in each column of the UX board:
   </tr>
 </table>
 
+---
 
 
 ### [Eng Board](https://app.zenhub.com/workspaces/va-mobile-eng-60f1a34998bc75000f2a489f/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
@@ -419,7 +419,7 @@ Here’s what belongs in each column of the Eng board:
   </tr>
 </table>
 
-
+---
 
 ### [Epic Board](https://app.zenhub.com/workspaces/va-mobile-epic-view-610c326ab97401001446efa6/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
 
