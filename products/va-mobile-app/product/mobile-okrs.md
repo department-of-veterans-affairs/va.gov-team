@@ -32,17 +32,6 @@ What value does the app provide to Veterans? Our big bet is that:
 -   KPI: Login start-success rate
 
 
-### Organizational Objective: The VA can place an app that integrates health and benefits information into the app store.
-
--KR: We are placed in app store
-  - App store approvals
-  - Downloads
-
-- KR: We have approval from VSP and OCTO stakeholders
-  - Approvals from VSP and OCTO stakeholders
-
-
-
 ### Objective: Veterans can more easily complete transactions on the app than they can on desktop or mobile web
 
 - KRs: rate of task completion is on par with or higher than VA.gov or MHV counterpart
@@ -79,6 +68,15 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 
 ## Measures of Success for VA
 **What sources of value might the app provide for OCTO and VA?**
+
+### Organizational Objective: The VA can place an app that integrates health and benefits information into the app store.
+
+-KR: We are placed in app store
+  - App store approvals
+  - Downloads
+
+- KR: We have approval from VSP and OCTO stakeholders
+  - Approvals from VSP and OCTO stakeholders
 
 - Break down silos: Build closer ties between OCTO and OCC/MHV
 
