@@ -112,7 +112,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 ### Release Sign off
 
-**When:** Monday or Tuesday
+**When:** Monday or Tuesday, the week before the next release is submitted to stores
 
 **Who:** 1 Delivery PM, 1 designated UX person, 1 QA, VA PO
 
@@ -158,6 +158,6 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 **Agenda:** Discussion of ongoing discovery work and next steps
 
 
-## Sample Schedule
+## Sample Meeting Cadence in Practice
 
-
+![image](https://user-images.githubusercontent.com/7320097/131268935-4957becd-b146-41e5-96b2-814ea756c8d5.png)
