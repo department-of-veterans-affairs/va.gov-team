@@ -88,7 +88,7 @@ Our baseline KPI values come from VA.gov and MHV statistics on usage and transac
 - Reviews
 - Accessibility reviews
 
-[Objectives & Key Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/mobile-okrs.md)
+[Objectives & Key Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Mobile-OKRs.md)
 
 ---
 
