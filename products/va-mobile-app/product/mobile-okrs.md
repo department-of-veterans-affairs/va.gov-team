@@ -69,15 +69,6 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 ## Measures of Success for VA
 **What sources of value might the app provide for OCTO and VA?**
 
-### Organizational Objective: The VA can place an app that integrates health and benefits information into the app store.
-
--KR: We are placed in app store
-  - App store approvals
-  - Downloads
-
-- KR: We have approval from VSP and OCTO stakeholders
-  - Approvals from VSP and OCTO stakeholders
-
 - Break down silos: Build closer ties between OCTO and OCC/MHV
 
   - Collaborating increases visibility into each other's priorities and build trust and open communication channels
@@ -91,6 +82,15 @@ _Reducing the feeling of VA being a "black hole" or needing to be persistent to 
 - Feature differentiation: The mobile app allows us to provide some fundamentally different experiences than we can on websites (biometrics, push notifications, location
 
 - Learn more about our beneficiaries: We expect to gain granular customer behavior data from the app that will teach us more about how Veterans interact with VA digitally
+
+### Organizational Objective: The VA can place an app that integrates health and benefits information into the app store.
+
+-KR: We are placed in app store
+  - App store approvals
+  - Downloads
+
+- KR: We have approval from VSP and OCTO stakeholders
+  - Approvals from VSP and OCTO stakeholders
 
 ## How might our goal for the app change over time?
 
