@@ -88,10 +88,12 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * Issues that will not be a priority in the next 1-3 sprints should be moved to the Icebox column
 * Issues that require input from the VA POs should be moved to the Product Management column
 * Issues that are complete with a clear title and description, correct label, and estimation, and that may be prioritized in the next 1-3 sprints should be moved to the UX Backlog or Eng Backlog columns
+* Tickets tagged to the next Release have been reviewed, and removed from the Release tag if no longer accurate
 
 **After the meeting:**
 
 * If there are any outstanding tickets that remain a mystery, Managers will check with their team members to fill in the details and move to the correct Backlog or Icebox
+* If there are any major changes to the next release, Delivery PM to flag to VA PO
 
 ---
 
