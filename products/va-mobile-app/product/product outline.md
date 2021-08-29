@@ -116,13 +116,13 @@ Additionally, one of the pain points we heard from users was that VA can feel fr
 ## Go-to-market Strategy
 
 - In Phase 1, we did a friendly release to a very small group of users, including veterans who work at the VA . This group will be predetermined and will be invited to use the app on Test Flight.
-- In Phase 2, we will have a quiet release. The app will be available in app stores but we will not broadly market the app.
+- In Phase 2, we had a quiet release. The app was made to be available in app stores but was not broadly marketed.
 - In Phase 3, we will market the app and launch it publicly. Marketing measures may include putting a banner about the app on VA.gov, sending text messages to Veterans directing them to where they can download the app or using social media to get the message out.
 
 ## Launch Dates
 - Phase 1: February/March 2021
-- Phase 2: June 2021
-- Phase 3: August onwards
+- Phase 2: July 2021
+- Phase 3: September 2021 onwards
 
 *Actual Launch Date* 
-- Currently projected for June 2021
+- July 2021
