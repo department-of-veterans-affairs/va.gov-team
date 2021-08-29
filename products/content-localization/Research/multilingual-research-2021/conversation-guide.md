@@ -18,8 +18,8 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Step 1: Interview
+- [ ] Step 2: Usability test
 
 ## Intro - 5 minutes
 
@@ -39,14 +39,21 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+I'd like to start with learning a little more about how [you/the Veteran you care for] use VA benefits and services.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- 
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Interview - X minutes
 
-- Step 1
-- Step 2
+Now, I'm going to ask you some questions about how you get the information you need about VA benefits and services.
+
+- When you need information about a VA benefit or service, where do you search for that information?
+- Do you usually search for that information in English or in Spanish?
+- Have you ever search specifically for Spanish language information on VA.gov? 
+- If you needed to apply for a VA benefit, how would you fill out an application? Would you apply online, by mail, call, or go to your local VA office or health facility?
+- Do you feel more comfortable applying for a benefit in Spanish?
+- Have you ever received interpreter or other language assistance from VA?
+    - _If yes,_ can you tell me about that experience? How did you ask for the services? What services did you receive? 
 
 ### Things to watch for:
 
@@ -54,7 +61,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Usability test - X minutes
+
+Now I'd like to ask you to share your screen with me, so I can see how 
 
 - Step 1
 - Step 2
