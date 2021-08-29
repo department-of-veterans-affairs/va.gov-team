@@ -73,21 +73,19 @@ Our baseline KPI values come from VA.gov and MHV statistics on usage and transac
 
 2. Ease of Use
 - Adoption of biometrics
-- Time to send a message
-- % of users performing at least one transaction
 - Login rates compared to VA.gov users
+- Repeat usage (sessions per user)
 
 3. Service Completion
 - Time to login
 - Persistence of login
+- % of users performing at least one transaction
+- Start-completion rates for each feature (ie Time to send a message)
+
+4. Trust, Satisfaction, and Equity 
+- App Store rating
 - Referrals
 - Reviews
-- Start-success rates for each feature
-
-4. Trust and Equity 
-- App Store rating
-- Survey Findings
-- Internal app store mechanisms
 - Accessibility reviews
 
 [Objectives & Key Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/mobile-okrs.md)
