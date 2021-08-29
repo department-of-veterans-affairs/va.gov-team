@@ -14,15 +14,6 @@ What value does the app provide to Veterans? Our big bet is that:
 
 **All KPIs tracked in spreadsheet [here](https://docs.google.com/spreadsheets/d/1G-Ru00IIEVCeMbYMqWVDTLO0f4WDdVrchPp0dIHM1N4/edit#gid=1172783502)**
 
-### Objective: Veterans can more easily complete actions on the app compared to other Veteran-facing services.
-
-- KR: Establish a baseline for the uptake of services
-  - Utilization of profile, secure messaging, claims, appointments, and letters
- 
-- KR: Equal or lower transaction times compared to VA.gov key transactions
-  - Screen-time to transaction copletion on profile, SM, claims, appointments, letters (time) 
-
-
 ### Objective: Veterans can access their authenticated experience quickly and easily on the mobile app.
 
 - KR: Establish baseline biometric uptake
@@ -32,11 +23,11 @@ What value does the app provide to Veterans? Our big bet is that:
 -   KPI: Login start-success rate
 
 
-### Objective: Veterans can more easily complete transactions on the app than they can on desktop or mobile web
+### Objective: Veterans can more easily complete transactions on the app than they can on VA desktop or mobile web services
 
 - KRs: rate of task completion is on par with or higher than VA.gov or MHV counterpart
 
-  - KPIs: rate of task completion for all features (for SM: percent of users who begin a message, who then send it; for VAOS: in the future, appointment completion rate in the funnel
+  - KPIs: rate of task completion for all features (utilization?) (for SM: percent of users who begin a message, who then send it; for VAOS: in the future, appointment completion rate in the funnel
 
 - KR: speed of task completion is on par with or higher than VA.gov or MHV counterpart
   - KPIs:  speed of task completion for features (for SM: time it takes between clicking into the Secure Messaging feature, to send a message?)
@@ -47,6 +38,7 @@ What value does the app provide to Veterans? Our big bet is that:
 - KR: Vets take advantage of native functionality in the app
 _helps us answer: was it the right bet to build this app natively?_
   - KPI: frequency of usage of allowing location services, or adding VAOS appointment to calendar, or using camera for uploading a claime file, or sending an SMS via the VCL link, or clicking to call a help line directly from the app
+
 
 
 ### Objective: Reduce the barriers to entry to accessing authenticated features
