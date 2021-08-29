@@ -14,7 +14,7 @@ What value does the app provide to Veterans? Our big bet is that:
 
 **All KPIs tracked in spreadsheet [here](https://docs.google.com/spreadsheets/d/1G-Ru00IIEVCeMbYMqWVDTLO0f4WDdVrchPp0dIHM1N4/edit#gid=1172783502)**
 
-### In-App Objective: Veterans can and will more easily complete actions on the app compared to other veteran-facing platforms.
+### Objective: Veterans can more easily complete actions on the app compared to other Veteran-facing services.
 
 - KR: Establish a baseline for the uptake of services
   - Utilization of profile, secure messaging, claims, appointments, and letters
@@ -23,7 +23,7 @@ What value does the app provide to Veterans? Our big bet is that:
   - Screen-time to transaction copletion on profile, SM, claims, appointments, letters (time) 
 
 
-### App Objective: Veterans can access their authenticated experience quickly and easily on the mobile app.
+### Objective: Veterans can access their authenticated experience quickly and easily on the mobile app.
 
 - KR: Establish baseline biometric uptake
   - KPI: Biometric login opt-in rate
