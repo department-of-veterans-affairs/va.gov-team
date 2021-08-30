@@ -13,7 +13,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 # Week A (when a new sprint begins)
 
 
-## Internal Sprint Pre-Planning
+## Internal AH Sprint Pre-Planning
 
 **When:** Monday, before Sprint Pre-Planning
 
@@ -47,7 +47,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
     * Tag FE issues tagged to the next sprint with the Release that is 4 weeks away
 
 
-## Sprint Pre-Planning
+## Sprint Pre-Planning between Managers and VA
 
 **When:** Tuesday, day before Sprint Planning
 
