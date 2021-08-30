@@ -204,7 +204,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 ## Feature-specific Check ins
 
-**When: **As needed
+**When:** As needed
 
 **Who:** Discovery PM and team members as needed; VA Product Owners
 
@@ -225,6 +225,10 @@ TBD - developing this process
 
 
 * Review epic-level ideas in Icebox
-* Brainstorm new epic-level ideas
+* Brainstorm new epic-level ideas, based on:
+   * Veteran perspective: User interviews, app feedback
+   * Updates from other teams building other digital properties at VA
+   * VA organizational priorities and policies
+
 * Review overall mission, vision, and objectives
 * Determine which epics should be prioritized for the next quarter
