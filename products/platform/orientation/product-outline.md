@@ -6,15 +6,16 @@
 *When a new VFS team joins or a new person joins a VFS team, Platform conducts platform orientation (a series of meetings and reading material) to introduce VFS teams to processes, standards and expectations of developing on platform.*
 
 ## Problem Statement
-The current problems orientation faces are the following:
-1. Platform team members spend a significant amount of time hosting 1:1 orientation meetings. 
-2. It is challenging to keep the content in the slide decks up to date. 
-3. Content that VFS teams would find valuable is not included in orientation. 
-4. VFS teams struggle with retaining information shared in Orientation. 
-5. Orientation for new teams vs. new team members has been relatively the same (with a couple minor exceptions). 
-6. There is no reliable process for Platform to be notified of new VFS teams and/or new VFS team members.
+The current problems orientation faces are the following (in priority order):
+1. VFS teams struggle with retaining information shared in Orientation. 
+2. Not having separate platform processes for new teams vs. new team members is inefficient. 
+3. There is no reliable process for Platform to be notified of new VFS teams and/or new VFS team members.
+4. Platform team members spend a significant amount of time hosting 1:1 orientation meetings.
+5. It is challenging to keep the content in the slide decks up to date. 
+6. Content that VFS teams would find valuable is not included in orientation. 
 
 With new VFS teams coming onto VA.gov, the problems we currently face will be amplified.  
+
 
 ## Personas
 - Brand new VFS teams
