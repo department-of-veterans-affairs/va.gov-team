@@ -80,16 +80,16 @@ Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using t
 
 Team Availability | Time (EST)
 ------------------|--------------
-Sept 9, 2021 | Noon - 3 pm, 4 - 8 pm 
-Sept 10, 2021 | Noon - 3 pm, 4 - 8 pm
+Sept 9, 2021? | Noon - 3 pm, 4 - 8 pm
+Sept 10, 2021? | Noon - 3 pm, 4 - 8 pm
 Sept 13, 2021 | Noon - 3 pm, 4 - 8 pm
 Sept 14, 2021 | Noon - 4 pm
 Sept 15, 2021 | Noon - 3 pm, 4:30 - 7 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-Sept 1, 2021  |  TBD 
-Sept 2, 2021  |  TBD 
+Sept 9, 2021  |  TBD 
+Sept 10, 2021  |  TBD 
 
 
 ## Team Roles	
