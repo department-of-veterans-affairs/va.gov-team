@@ -307,6 +307,8 @@ Tuition and fees charged: $NNNN
 { display tuition & fees by relevant benefit & term with "Total per year" calculation at the bottom }
 
     { Tuition and fees modal, Learn more aria label: "Learn more about tuition and fees" }
+    
+  **Tuition and fees**
 
     We display the average tuition and fees for an undergraduate student that is reported by the school to the Department of Education. These values might not be the same for all students at an institution.
 
