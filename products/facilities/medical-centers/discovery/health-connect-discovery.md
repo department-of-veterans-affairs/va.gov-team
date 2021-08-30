@@ -1,5 +1,3 @@
-[IN PROGRESS]
-
 ## VA Health Connect Discovery
 
 Discovery for issue [#27688](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/27688). New options for contacting the VA are becoming available and need to be added to the VAMC pages. Before we can determine the right experience for Veterans, we need to understand both the individual options and the landscape.
