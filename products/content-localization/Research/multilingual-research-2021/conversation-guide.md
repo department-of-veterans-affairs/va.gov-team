@@ -54,28 +54,29 @@ Now, I'm going to ask you some questions about how [you/your family member] get 
 - How do [you/they] usually find access to information in Spanish? 
 - If [you/they] search for information online, do [you/they] usually search for information that's translated into Spanish? Do [you/they] set your browser to Spanish? Can you tell me a bit about [your/their] experiences with translated content?
 - Have you ever received interpreter or other language assistance from VA?
-    - _If yes,_ Can you tell me about that experience? How did you ask for the services? What services did you receive? 
-    - _If no,_ Was this because you didn't need this kind of help?
-      - _If yes_, If you or a family member did need an interpreter or translation services, how would you request those services?
-      - _If no,_, Can you tell me why you think you didn't get the help you needed? 
+    - _If yes,_ Can you tell me about that experience? How did [you/they] ask for the services? What services did [you/they] receive? 
+    - _If no,_ Have [you/they] ever needed interpreter or other language assistance from VA? 
+      - _If yes_, Can you tell me why you think you didn't receive the help you needed?
+      - _If no,_, If [you/they] did need an interpreter or translation services, how would you request those services?
 
 ### Things to watch for:
 
 - Does the participant have specific types of information that they need in Spanish?
 - What's helpful to the participant in terms of getting translated content? What's not helpful?
-- [Etc]
+- Does the participant know that VA offers interpreter and translation services?
+- If the participant has used interpreter or translation services at VA, what was their experience like?
 
 ## Second Task: Usability test part 1: VA.gov language assistance and resources pages - X minutes
 
 Now I'd like to ask you to share your screen with me, so we can go through the VA.gov site together. As you do, if you can think out loud, that would be very helpful so I can hear how the site works for you.
 
-Please pull up your Internet browser and then type in www.va.gov. 
+Please pull up Google or another Internet browser that you use to search for information online. Thank you. Can you now type in www.va.gov?
 
-- I'd like to ask you now to think about a situation where you want to get information about a VA benefit or service in Spanish. Can you show me how you would try to find that on this site? _[examples of follow-up questions depending on where they go: What do you find here? And what do you expect to find? If you didn't find what you needed here, what would you do next? Why?]_
+- I'd like to ask you now to think about a situation where you want to get information about a VA benefit or service in Spanish. Can you show me how you would try to find that on this site? _[examples of follow-up questions depending on where they go: What information is this page providing? Is this the information you expected to find here? If you didn't find what you needed here, what would you do next? Why?]_
 
-_[If the person doesn't go to the footer after a few minutes, direct them to the footer for this next part]_
+_[If the participant doesn't go to the footer after a few minutes, direct them to the footer for this next part]_
 
-- _[Before person clicks on the Spanish link]_ Before you click on the link, can you tell me what you would expect to find on this page? Thank you. Okay, go ahead and click.
+- _[Before participant clicks on the Spanish link]_ Before you click on the link, can you tell me what you would expect to find on this page? Thank you. Okay, go ahead and click.
 - _[On Spanish page: Follow-up questions]_ What do you see on this page? Is it what you expected? What type of information does the page offer? What would you do next? Why?
 - _[After participant clicks on a link from page]_ What do you see on this page now? Is it what you expected? 
 
@@ -89,6 +90,9 @@ _[If the person doesn't go to the footer after a few minutes, direct them to the
 
 Now I'm going to ask you to think about a situation where you want to get information about how the coronavirus pandemic may affect your VA benefits and services. 
 
+I'd like to ask you to go back to the va.gov homepage.
+
+- _[Once on homepage]_
 
 
 ### Things to watch for:
@@ -99,9 +103,9 @@ Now I'm going to ask you to think about a situation where you want to get inform
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- Are there any websites that you think do a great job at providing information in Spanish? _If yes,_ could you take me to one or two of those sites now on your browser?
+- _[Once on site]_ Can you tell me about what this site does well?
+- Do you have any questions for me before we end this session? 
 
 ## Thank-You and Closing - X minutes
 
