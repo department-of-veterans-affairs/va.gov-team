@@ -44,28 +44,24 @@ I'd like to start with learning a little more about how [you/the Veteran you car
 - Can you tell me about any VA benefits or services that you use now or have used in the past? _[follow-up questions as appropriate]_
 - How often do you use VA.gov to get benefit and service information?
 - Do you have a VA.gov account (like DS Logon, My HealtheVet, or ID.me)?
-
+- - Have you ever received interpreter or other language assistance from VA?
+    - _If yes,_ Can you tell me about that experience? How did you ask for the services? What services did you receive? 
+    - _If no,_ Was this because you didn't need this kind of help?
+      - _If yes_, If you or a family member did need an interpreter or translation services, how would you request those services?
+      - _If no,_, Can you tell me why you think you didn't get the help you needed? 
 
 
 ## First Task: Interview - X minutes
 
 Now, I'm going to ask you some questions about how you get the information you need about VA benefits and services.
 
-- In general, when you need information, do you prefer to read it in English or Spanish? Are there specific kinds of information or topics that you particularly prefer in Spanish?
-  - _If yes,_ How do you usually get that information in Spanish?
-- When you need information about a VA benefit or service, how do you get that information?
+- In general, when you need information, do you prefer to read it in English or Spanish? Are there specific kinds of information or topics that you specifically prefer in Spanish?
+_[if yes to above]_
+- How do you usually get that information in Spanish?
 - If you search for information online, do you usually search for information that's translated into Spanish? Do you set your browser to Spanish? Or do you search for and read the information in English?
-- Have you ever searched specifically for information in Spanish on VA.gov?
-  - _If yes,_ Can you tell me about that experience?
-  - _If no,_ Can you think of a situation where you might want to search for Spanish language information on VA.gov? For example, specific benefits or topics that you'd need in Spanish?
-- If you needed to apply for a VA benefit, how would you fill out an application? Would you apply online, by mail, call, or go to your local VA office or health facility?
-- Do you feel more comfortable applying for a benefit using an application that's written in Spanish?
-- Have you ever received interpreter or other language assistance from VA?
-    - _If yes,_ Can you tell me about that experience? How did you ask for the services? What services did you receive? 
-    - _If no,_ Was this because you didn't need this kind of help?
-      - _If yes_, If you or a family member did need an interpreter or translation services, how would you request those services?
-      - _If no,_, Can you tell me why you think you didn't get the help you needed? 
 
+
+- Do you feel more comfortable applying for a benefit using an application that's written in Spanish?
 ### Things to watch for:
 
 - [Does the participant understand meaning of xyz?]
