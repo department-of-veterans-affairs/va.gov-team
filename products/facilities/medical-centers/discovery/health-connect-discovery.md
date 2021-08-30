@@ -10,7 +10,7 @@ Discovery for issue [#27688](https://app.zenhub.com/workspaces/vft-59c95ae5fda75
 - slow roll-out, will be available nationwide
 - How does VA Health Connect differ from "teleurgent care line" which appears on Pittsburgh's operating status page? (see below)
  
-<img src="https://user-images.githubusercontent.com/4960080/131341695-ba479e59-c66f-4a83-814d-552ef0955bbf.png"  alt="[screenshot of "teleurgent care line" which appears on Pittsburgh's operating status page]" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/4960080/131341695-ba479e59-c66f-4a83-814d-552ef0955bbf.png"  alt="[screenshot of teleurgent care line which appears on Pittsburgh's operating status page]" width="40%" height="40%">
 
 
 #### Other methods of communication available to Veterans : 
