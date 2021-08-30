@@ -133,6 +133,8 @@ Retros are held at the end of each sprint separately, per team (Core Application
 ## Reporting
 At the beginning of each sprint, a sprint report is generated in [Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/424181765/Sprint+Goals+and+Ship+Reports). The purpose of this report is to track agreed upon sprint goals for each team and how they relate to the project’s overall objectives, and give visibility into the team’s velocity and other work. This report is sent to OCTO-DE by COB of the next business day after the sprint has ended.
 
+Monthly reports are also sent to OCTO-DE by COB of the 5th day of the following month. They are essentially a roll up of all sprint reports during that period and are captured in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/201294029/CMS2020+Monthly+Reporting).
+
 ### Best practices
 1. During sprint planning, the sprint’s goals should be captured in that sprint’s report.
 2. If there is potential for a sprint goal to not get completed, notes should be entered into the sprint report and OCTO-DE made aware by at least the mid-sprint check-in.
