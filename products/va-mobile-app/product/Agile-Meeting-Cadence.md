@@ -121,7 +121,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **When:** Monday
 
-**Who:** Ad Hoc manager team (combination of Delivery PMs and Eng+UX Managers)
+**Who:** Internal Ad Hoc manager team (combination of Delivery PMs and Eng+UX Managers)
 
 **ZH Board used:** Product
 
