@@ -1,36 +1,76 @@
 # Mobile Team - Meeting Cadence
 
 
-## Overview
+# Overview
 
 In August, 2021, the mobile team is poised to grow substantially. The following is intended to clarify goals, cadences, and attendees for meetings to help the team stay in sync without overloading anyone’s calendars.
 
+## Sample Meeting Cadence in Practice
 
-## Week A (when a new sprint begins)
+![image](https://user-images.githubusercontent.com/7320097/131268935-4957becd-b146-41e5-96b2-814ea756c8d5.png)
 
 
-### Sprint Pre-Planning
+# Week A (when a new sprint begins)
+
+
+## Internal Sprint Pre-Planning
+
+**When:** Monday, before Sprint Pre-Planning
+
+**Who:** Ad Hoc manager team (combination of Delivery PMs and Eng+UX Managers)
+
+**Zenhub Board:** UX, Eng
+
+**Before this meeting, managers are expected to:**
+
+
+
+* Close issues that are completed
+* Know which issues that will be complete by the end of the sprint
+* Ensure any priority issues that need to be in Backlog are present and refined
+* Ensure issues in Backlog and Current Sprint have been estimated and are labeled with UX/Front-end/Back-end
+
+**Agenda:**
+
+
+
+* Product team shares priorities for the upcoming sprint
+* UX:
+    * Review issues in UX Current sprint and tag to next sprint if needed (using ZH milestones)
+    * Review issues in UX Backlog and tag to next sprint
+    * Ensure all issues for next sprint are estimated, labeled, and assigned
+* Eng:
+    * Review issues in Eng Current sprint and tag to next sprint if needed
+    * Review of issues in Eng Backlog and tag to next sprint
+    * Ensure all issues for next sprint are estimated and labeled (Eng team self-assigns once they begin work)
+* QA:
+    * Tag FE issues tagged to the next sprint with the Release that is 4 weeks away
+
+
+## Sprint Pre-Planning
 
 **When:** Tuesday, day before Sprint Planning
 
-**Who:** VA Product Owners; representative Product/UX/Eng Managers
+**Who:** VA Product Owners; representative subset of Ad Hoc Practice Management (Product/UX/Eng Managers)
 
 **Zenhub board used:** Product board
 
-**Before the meeting:**
+**Before the meeting: **
 
-* Team will assign Sprint labels to issues in the UX and Engineering backlogs (inclusive of Bugs) that they think should be prioritized
-* Team will ensure those issues have been labeled, estimated and assigned
-* Team will  tag issues in the QA column to mark what will go out in the release in 2 weeks
 
-**By the end of the meeting:**
 
-* VA POs and team will be aligned on what is prioritized for the next sprint. 
-* If needed, review issues in the Icebox and Product Management columns of the Product board to ensure nothing that is a high priority has been missed
+* Issues will be tagged to the next sprint, representing the team’s hypothesis about what to prioritize
 
----
+**Agenda: **
 
-### Demo
+
+
+* Review the  Product board filtered for issues are tagged for the next sprint (using ZH Milestones)
+* VA POs and team adjust if needed and align on issues for the next sprint
+* If needed, review issues in the Product Management columns of the Product board to answer any open questions
+
+
+## Demo
 
 **When:** Tuesday, last day of the sprint
 
@@ -38,7 +78,6 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Agenda:** Team shares new and interesting work they’d like to highlight (UX, FE, BE)
 
----
 
 ### Retro
 
@@ -48,9 +87,8 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Agenda:** Open discussion on what has gone well, what has been challenging, and discussion of action items
 
----
 
-### Sprint Planning
+## Sprint Planning
 
 **When:** Wednesday of a new sprint
 
@@ -58,67 +96,79 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Zenhub board used:** UX board + Eng board
 
-**Before the meeting:**
+**Before the meeting: **
+
+
 
 * Team will have conducted Sprint Pre-Planning with VA POs to gain alignment
 * Issues labeled with the new Sprint will be moved from the UX and Eng Backlogs into the UX and Eng Current Sprint columns on each board
-* Any issue labeled with the new Sprint is fully estimated, labeled, and assigned
+* Any issue labeled with the new Sprint is fully estimated, labeled, and assigned (*note that Eng tickets get assigned during the sprint as the team picks them up)
 
-**By the end of the meeting:**
-
-* Full team is aware of what work they will pick up during the next sprint
-* Team has had opportunity to ask any questions about the upcoming sprint and adjust any estimates that are incorrect
-
----
-
-## Week B (sprint is continuing)
+**Agenda:**
 
 
-### Grooming/Refinement
+
+* Using the UX board, review issues that have been tagged to the next sprint
+* Product team shares sprint objectives
+* Ensure full team is aware of what work they will be picking up
+* Full team has opportunity to ask any questions about the upcoming sprint and adjust any estimates that are incorrect
+
+
+# Week B (sprint is continuing)
+
+
+## Grooming/Refinement
 
 **When:** Monday
 
-**Who:** Non-VA manager team (combination of Delivery PMs and Eng+UX Managers)
+**Who:** Ad Hoc manager team (combination of Delivery PMs and Eng+UX Managers)
 
 **ZH Board used:** Product
 
-**By the end of the meeting:**
+**Agenda:**
 
-* Team will have reviewed all new issues in the New Issues column in the Product board
-* Issues that will not be a priority in the next 1-3 sprints should be moved to the Icebox column
-* Issues that require input from the VA POs should be moved to the Product Management column
-* Issues that are complete with a clear title and description, correct label, and estimation, and that may be prioritized in the next 1-3 sprints should be moved to the UX Backlog or Eng Backlog columns
-* Tickets tagged to the next Release have been reviewed, and removed from the Release tag if no longer accurate
+
+
+* Review all new issues in the New Issues column in the Product board
+* Move any Issues that will not be a priority in the next 1-3 sprints to the Icebox column
+* Move any Issues that require input from the VA POs to the Product Management column
+* Move Issues that may be prioritized in the next 1-3 sprints to the UX Backlog or Eng Backlog columns
+    * Ensure these issues are complete with a clear title and description, correct label, and estimation
+* Review tickets tagged to the next Release to ensure accuracy
 
 **After the meeting:**
+
+
 
 * If there are any outstanding tickets that remain a mystery, Managers will check with their team members to fill in the details and move to the correct Backlog or Icebox
 * If there are any major changes to the next release, Delivery PM to flag to VA PO
 
----
 
-### Program Check in
+## Program Check in
 
 **When:** Tuesday (likely the same time as Sprint Pre Planning, for consistency)
 
 **Who:** AH Program Manager, AH Practice Leadership, VA POs
 
 **Agenda:**
+
+
+
 * Give and receive general feedback
 * Check in on delivery
-* Raise any personnel issues
+* Raise any staffing issues
 * Bubble up generalized feedback from Retro
 
----
 
-
-### Release Sign off
+## Release Sign off
 
 **When:** Monday or Tuesday, the week before the next release is submitted to stores
 
 **Who:** 1 Delivery PM, 1 designated UX person, 1 QA, VA PO
 
-**How:**
+**Process:**
+
+
 
 * AH team has 15 min internal meeting to review ticket and check boxes
 * AH team then follows up async on Slack with VA PO(s)
@@ -128,12 +178,11 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
     * What’s new content
     * Other Content updates
     * PR opened for review
-    * List of bugs with status update
+    * Bugs: sev-1 or sev-1 known issues that are not fixed, reporting for transparency
 * Note that all issues within the Release can be viewed by filtering the Product board with the Release tag, or by checking the Release Report
 
----
 
-### UX to Eng Hand-off
+## UX to Eng Hand-off
 
 **When:** Thursday (?)
 
@@ -141,25 +190,41 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **ZH board:** Eng
 
-**By the end of the meeting:**
+**Agenda:**
 
-* Eng managers will understand each issues being handed off from UX team
-* Issues have been re-labeled from UX to Eng, and re-estimated for UX work (if possible, otherwise this can be addressed during Grooming)
-* Issues will have moved from Needs Handoff Meeting to Backlog-Ready to Work columns
 
----
 
-## Weekly or as Needed
+* UX team walks through each issue to be handed off, ensures that Eng managers understand it
+* Issues are re-labeled from UX to Eng, and re-estimated for Eng work (if possible, otherwise this can be addressed during Grooming)
+* Issues are moved from Needs Handoff Meeting to Backlog-Ready to Work columns
 
-### Feature-specific Check ins
 
-**When:** As needed
+# Weekly or as Needed (or in progress)
+
+
+## Feature-specific Check ins
+
+**When: **As needed
 
 **Who:** Discovery PM and team members as needed; VA Product Owners
 
 **Agenda:** Discussion of ongoing discovery work and next steps
 
 
-## Sample Meeting Cadence in Practice
+## Bug Prioritization (TBD)
 
-![image](https://user-images.githubusercontent.com/7320097/131268935-4957becd-b146-41e5-96b2-814ea756c8d5.png)
+TBD - developing this process
+
+
+## Quarterly Planning & Roadmapping (TBD)
+
+**When:** at the end of each quarter
+
+**Agenda:**
+
+
+
+* Review epic-level ideas in Icebox
+* Brainstorm new epic-level ideas
+* Review overall mission, vision, and objectives
+* Determine which epics should be prioritized for the next quarter
