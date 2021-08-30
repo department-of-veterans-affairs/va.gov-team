@@ -47,13 +47,20 @@ I'd like to start with learning a little more about how [you/the Veteran you car
 
 Now, I'm going to ask you some questions about how you get the information you need about VA benefits and services.
 
-- When you need information about a VA benefit or service, where do you search for that information?
-- Do you usually search for that information in English or in Spanish?
-- Have you ever search specifically for Spanish language information on VA.gov? 
+- In general, when you need information, do you prefer to read it in English or Spanish? Are there specific kinds of information or topics that you particularly prefer in Spanish?
+  - _If yes,_ How do you usually get that information in Spanish?
+- When you need information about a VA benefit or service, how do you get that information?
+- If you search for information online, do you usually search for information that's translated into Spanish? Do you set your browser to Spanish? Or do you search for and read the information in English?
+- Have you ever search specifically for Spanish language information on VA.gov?
+  - _If yes,_ Can you tell me about that experience?
+  - _If no,_ Can you think of a situation where you might want to search for Spanish language information on VA.gov? For example, specific benefits or topics that you'd need in Spanish?
 - If you needed to apply for a VA benefit, how would you fill out an application? Would you apply online, by mail, call, or go to your local VA office or health facility?
-- Do you feel more comfortable applying for a benefit in Spanish?
+- Do you feel more comfortable applying for a benefit using an application that's written in Spanish?
 - Have you ever received interpreter or other language assistance from VA?
-    - _If yes,_ can you tell me about that experience? How did you ask for the services? What services did you receive? 
+    - _If yes,_ Can you tell me about that experience? How did you ask for the services? What services did you receive? 
+    - _If no,_ Was this because you didn't need this kind of help?
+      - _If yes_, If you or a family member did need an interpreter or translation services, how would you request those services?
+      - _If no,_, Can you tell me why you think you didn't get the help you needed? 
 
 ### Things to watch for:
 
@@ -61,7 +68,7 @@ Now, I'm going to ask you some questions about how you get the information you n
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: Usability test part 1 - X minutes
+## Second Task: Usability test part 1: VA.gov language assistance and resources pages - X minutes
 
 Now I'd like to ask you to share your screen with me, so we can go through the VA.gov site together. As you do, if you can think out loud, that would be very helpful so I can hear how the site works for you.
 
@@ -72,18 +79,20 @@ Please pull up your Internet browser and then type in www.va.gov.
 _[If the person doesn't go to the footer after a few minutes, direct them to the footer for this next part]_
 
 - _[Before person clicks on the Spanish link]_ Before you click on the link, can you tell me what you would expect to find on this page? Thank you. Okay, go ahead and click.
-- _[On Spanish page]_ What do you see on this page? Is it what you expected?
+- _[On Spanish page: Follow-up questions]_ What do you see on this page? Is it what you expected? What type of information does the page offer? What would you do next? Why?
+- _[After participant clicks on a link from page]_ What do you see on this page now? Is it what you expected? 
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Where does the participant go to find translated content?
+- Does the participant find the Spanish language assistance link in the footer without direction? If yes, how long does it take them to find it?
+- Does the participant understand the content on the Spanish language assistance page? Is it helpful to them? Is it confusing? 
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: Usability test part 2: Coronavirus FAQs page - X minutes
 
-- Step 1
-- Step 2
+Now I'm going to ask you to think about a situation where you want to get information about how the coronavirus pandemic may affect your VA benefits and services. 
+
+
 
 ### Things to watch for:
 
