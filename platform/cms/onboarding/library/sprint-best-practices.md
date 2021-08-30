@@ -4,7 +4,7 @@
 This document is designed to capture best practices around how the VFS-CMS team approaches each two week sprint and leverages various applications throughout.
 
 ## Capacity planning
-Before the start of each sprint, team members are expected to go into their respective team’s tab (“Core Team” or “Product Support Team”) on this sheet and enter the number of available days for the sprint.
+Before the start of each sprint, team members are expected to go into their respective team’s tab (“Core Team” or “Product Support Team”) on [this sheet](https://docs.google.com/spreadsheets/d/1mZwt-dzVjS2BYbOoviQ5eTvnBRhPIfc0zcl4EuCVMII/edit#gid=6090049) and enter the number of available days for the sprint.
 
 The default is eight, which translates to eight working days per two week period, and accounts for two days of sprint ceremonies, code review, context switching, and general meetings. Holidays, PTO, and OOO should be accounted for by subtracting one point for each day unavailable. Adding a note to give information on why points were subtracted is appreciated but not required.
 
@@ -13,6 +13,7 @@ The “Summary” tab will convert those days into the team’s total point capa
 ## Scrum
 Team scrums are a vital component of keeping the team connected and informed. The cadence may vary per team but the intent is the same: sharing how you’re doing overall, what you’re working on, and if you have any questions or blockers.
 
+### Best practices
 1. Try to keep your update < one minute. Anything that needs to take longer to talk through can be put on as a “16th minute” or moved to a slack thread or separate conversation. We generally try to timebox updates at 15 minutes and leave any other topics for the “16th minute” list.
 2. Give your personal [“balance score”](https://medium.com/civicactions/improving-scrum-team-flow-on-digital-service-projects-6723d95eaad8#:~:text=Balance%20is%20about%20self-recognition%20of%20our%20own%20priorities,real%20understanding%20of%20the%20constraints%20of%20our%20situations.) for the day. This is meant to be a quick snapshot into how balanced you’re feeling mentally, spiritually, emotionally, physically, and professionally. We score on a scale of 1-10, with 1 being completely unbalanced and 10 being completely balanced.
 3. Use the board during scrum to keep it as updated as possible in regards to status and comments.
@@ -30,7 +31,7 @@ There may be additional refinement sessions specific to project workstreams (Hel
 2. The Product Manager and Delivery Manager will ideally have synced with the Product Owner to clarify priorities for the next sprint(s) based on agreed upon OKRs for the quarter.
 3. The definition of done for issues must be clear, including a list of acceptance criteria that can be objectively reviewed by the PO.
 4. User stories should:
-  - Be sized by the full team with the exception of the Product Manager and Scrum Master according to planning poker - see Pointing section below
+  - Be sized by the full team with the exception of the Product Manager and Scrum Master according to planning poker (see Pointing section below)
     1. Should a disagreement arise, the person showing the lowest point value must justify the point size. Afterwards, those showing higher point values can either agree or raise any risk, scope or complexity the lower point may not have considered. 
   - Have a single owner accountable to drive the story to completion.
   - Be labeled with “PO Review” if the OCTO-DE PO must review and accept the story prior to it being moved to Complete.
@@ -128,3 +129,13 @@ Retros are held at the end of each sprint separately, per team (Core Application
 2. OCTO-DE (specifically our POs) representation is critical to reinforcing direct and open lines of trust. This should be clearly communicated to OCTO-DE and encouraged on a regular basis.
 3. Open and honest feedback helps to drive meaningful change.
 4. Limiting feedback to the specific sprint helps to focus the discussion but team members shouldn’t feel restricted to not bring up larger issues, they just may need further unpacking outside of the retro.
+
+## Reporting
+At the beginning of each sprint, a sprint report is generated in [Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/424181765/Sprint+Goals+and+Ship+Reports). The purpose of this report is to track agreed upon sprint goals for each team and how they relate to the project’s overall objectives, and give visibility into the team’s velocity and other work. This report is sent to OCTO-DE by COB of the next business day after the sprint has ended.
+
+### Best practices
+1. During sprint planning, the sprint’s goals should be captured in that sprint’s report.
+2. If there is potential for a sprint goal to not get completed, notes should be entered into the sprint report and OCTO-DE made aware by at least the mid-sprint check-in.
+3. At the end of each sprint, the board should be cleaned up to reflect all of the work completed. Any lingering issues should either be moved to the following sprint to complete, reprioritized with the PO for a future sprint, or put into the icebox.
+   1. Once the board has been updated, the milestone for that sprint can be closed.
+   2. The velocity for each team and status for each sprint goal should be added to the report and sent to the COR and POs.
