@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5-8 minutes
 
 I'd like to start with learning a little more about how [you/the Veteran you care for] use VA benefits and services.
 
@@ -47,10 +47,10 @@ I'd like to start with learning a little more about how [you/the Veteran you car
 
 ## First Task: Interview - X minutes
 
-Now, I'm going to ask you some questions about how [you/your family member] get the information you need.
+Now, I'm going to ask you some questions about how [you/your family member] get the information you need in [your/their] preferred language.
 
-- In general, when you need information, do [you/they] prefer to read it in English or Spanish? Are there specific kinds of information or topics that [you/they] specifically prefer in Spanish? Why is this?
-- When it comes to applying for benefits or services, do [you/they] feel more comfortable applying for a benefit using an application that's written in Spanish?
+- In general, when you need information, do [you/they] prefer to read it in English or Spanish? Are there specific kinds of information or topics that [you/they] specifically prefer in Spanish? Can you tell me more about this?
+- When it comes to applying for government or other benefits, do [you/they] feel more comfortable applying for a benefit using an application that's written in Spanish? Can you tell me about your experiences applying for benefits (either in English, in Spanish, or both)?
 - How do [you/they] usually find access to information in Spanish? 
 - If [you/they] search for information online, do [you/they] usually search for information that's translated into Spanish? Do [you/they] set your browser to Spanish? Can you tell me a bit about [your/their] experiences with translated content?
 - Have you ever received interpreter or other language assistance from VA?
@@ -62,7 +62,7 @@ Now, I'm going to ask you some questions about how [you/your family member] get 
 ### Things to watch for:
 
 - Does the participant have specific types of information that they need in Spanish?
-- [Does the participant notice xyz?]
+- What's helpful to the participant in terms of getting translated content? What's not helpful?
 - [Etc]
 
 ## Second Task: Usability test part 1: VA.gov language assistance and resources pages - X minutes
