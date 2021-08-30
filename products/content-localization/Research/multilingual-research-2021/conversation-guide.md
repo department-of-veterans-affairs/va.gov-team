@@ -61,12 +61,18 @@ Now, I'm going to ask you some questions about how you get the information you n
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: Usability test - X minutes
+## Second Task: Usability test part 1 - X minutes
 
-Now I'd like to ask you to share your screen with me, so I can see how 
+Now I'd like to ask you to share your screen with me, so we can go through the VA.gov site together. As you do, if you can think out loud, that would be very helpful so I can hear how the site works for you.
 
-- Step 1
-- Step 2
+Please pull up your Internet browser and then type in www.va.gov. 
+
+- I'd like to ask you now to think about a situation where you want to get information about a VA benefit or service in Spanish. Can you show me how you would try to find that on this site? _[examples of follow-up questions depending on where they go: What do you find here? And what do you expect to find? If you didn't find what you needed here, what would you do next? Why?]_
+
+_[If the person doesn't go to the footer after a few minutes, direct them to the footer for this next part]_
+
+- _[Before person clicks on the Spanish link]_ Before you click on the link, can you tell me what you would expect to find on this page? Thank you. Okay, go ahead and click.
+- _[On Spanish page]_ What do you see on this page? Is it what you expected?
 
 ### Things to watch for:
 
