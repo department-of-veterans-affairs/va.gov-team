@@ -1,7 +1,7 @@
 # Mobile Team - Zenhub Guide
 
 
-## Overview
+# Overview
 
 In August, 2021, the VA Mobile app team overhauled its use of Zenhub as a product management tool. Each phase of work was designed to solve a few key challenges:
 
@@ -22,17 +22,24 @@ We also conducted a general inventory and clean up, which included closing redun
 
 The following documentation is meant to serve as a guide for our team and stakeholders to understand how to read and use our Zenhub boards.
 
+## Sample progression of issues across the board
 
-## Boards
+
+
+![image](https://user-images.githubusercontent.com/7320097/131267743-ac87e88d-70d6-48e5-b482-a9a33b8ae697.png)
+
+![image](https://user-images.githubusercontent.com/7320097/131267753-6d49e8fd-4f03-44c6-91c9-850490a874d7.png)
+
+
+
+# Boards
 
 We use multiple boards (“workspaces” in ZH-speak) to allow UX and Engineering teams to track their work in a more granular manner than a single, combined board. Though the same issues exist on every board, but we use filters and the “workflow” feature in ZH to sort them into different columns (“pipelines”) on each board. For example, an issue in the Backlog column of the UX board will appear in the Pre-Engineering column of the Engineering board.
 
 Here’s what you can expect to find on each board:
 
----
 
-
-### [Product View board ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
+## [Product View board ](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
 
 
 <table>
@@ -136,6 +143,14 @@ Here’s what belongs in each column of the Product board:
    </td>
   </tr>
   <tr>
+   <td>Eng Backlog - Bugs
+   </td>
+   <td>Bugs that have not yet been prioritized by the team
+   </td>
+   <td>These issues should include info on what happened, steps to reproduce, desired behavior, and screenshots, as well as a bug severity label 
+   </td>
+  </tr>
+  <tr>
    <td>Current Sprint - Eng
    </td>
    <td>Issues that have been prioritized for the current sprint and are being worked on by the Eng team
@@ -152,6 +167,14 @@ Here’s what belongs in each column of the Product board:
    </td>
   </tr>
   <tr>
+   <td>Ready for Release
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
    <td>Closed
    </td>
    <td>Issues where all work is complete
@@ -161,10 +184,9 @@ Here’s what belongs in each column of the Product board:
   </tr>
 </table>
 
----
 
 
-### [UX Board](https://app.zenhub.com/workspaces/va-mobile-ux-60fed87c42104e0017e04ef9/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
+## [UX Board](https://app.zenhub.com/workspaces/va-mobile-ux-60fed87c42104e0017e04ef9/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
 
 
 <table>
@@ -183,7 +205,7 @@ Here’s what belongs in each column of the Product board:
   <tr>
    <td>When is this board used?
    </td>
-   <td>Sprint pre-planning and planning: Assign sprint label to issues in the Backlog; move from Backlog to Current Sprint columns \
+   <td>Sprint pre-planning and planning: Tag sprint label to issues in the Backlog; move from Backlog to Current Sprint columns \
  \
 Throughout the sprint: by the UX team to track their work
    </td>
@@ -285,10 +307,9 @@ Here’s what belongs in each column of the UX board:
   </tr>
 </table>
 
----
 
 
-### [Eng Board](https://app.zenhub.com/workspaces/va-mobile-eng-60f1a34998bc75000f2a489f/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
+## [Eng Board](https://app.zenhub.com/workspaces/va-mobile-eng-60f1a34998bc75000f2a489f/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
 
 
 <table>
@@ -307,7 +328,7 @@ Here’s what belongs in each column of the UX board:
   <tr>
    <td>When is this board used?
    </td>
-   <td>Sprint pre-planning and planning: Assign sprint label to issues in the Backlog; move from Backlog to Current Sprint; Tag QA issues with Release date \
+   <td>Sprint pre-planning and planning: Tag sprint label to issues in the Backlog; move from Backlog to Current Sprint; Tag QA issues with Release date \
  \
 UX to Eng Hand off: Review tickets in Handoff column, re-label, re-estimate, move to Eng Backlog column \
  \
@@ -419,9 +440,9 @@ Here’s what belongs in each column of the Eng board:
   </tr>
 </table>
 
----
 
-### [Epic Board](https://app.zenhub.com/workspaces/va-mobile-epic-view-610c326ab97401001446efa6/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
+
+## [Epic Board](https://app.zenhub.com/workspaces/va-mobile-epic-view-610c326ab97401001446efa6/board?notFullScreen=false&repos=292052392&showPRs=false&showPipelineDescriptions=false&showReleases=false&showReviewers=false)
 
 
 <table>
@@ -440,7 +461,7 @@ Here’s what belongs in each column of the Eng board:
   <tr>
    <td>When is this board used?
    </td>
-   <td>Updated each sprint by Product Managers
+   <td>Updated manually each sprint by Product Managers
    </td>
   </tr>
 </table>
@@ -526,7 +547,7 @@ Here’s what belongs in each column of the Epic board:
 
 
 
-## How we use various Zenhub features
+# How we use various Zenhub features
 
 
 <table>
@@ -564,7 +585,13 @@ Here’s what belongs in each column of the Epic board:
   <tr>
    <td>Sprints
    </td>
-   <td>2-week timebox, starting on a Wednesday, ending on a Tuesday. Will allow us to track Velocity and Burndown rates if we choose
+   <td>We do not use this feature as it does not carry across multiple boards
+   </td>
+  </tr>
+  <tr>
+   <td>Milestones
+   </td>
+   <td>2 week timebox indicating a sprint, starting on a Wednesday and ending on a Tuesday. We use this instead of the Sprints feature because Milestones flow across boards and Sprints do not
    </td>
   </tr>
   <tr>
@@ -596,24 +623,16 @@ Here’s what belongs in each column of the Epic board:
 * Sprints: issues that are prioritized for the 2 week timebox of a sprint
 
 
-## Adding an issue to the board.
+# Adding an issue to the board.
 
 Anyone on the team may add a new issue to the board. We will have issue templates shortly, but in the meantime, keep these guidelines in mind:
 
 
 
-* **Any new issue should go into the New Issues column (Pipeline) of the Product board** so that the Product team can groom/refine it and prioritize for the next sprint. Exceptions may be made if the issue is capturing a task that has already been prioritized and is actively being worked on.
-* Bugs should also be added to the New Issues column of the Product board
+* **Any non-bug new issue should go into the New Issues column (Pipeline) of the Product board** so that the Product team can groom/refine it and prioritize for the next sprint.
+    * Exceptions may be made if the issue is capturing a task that has already been prioritized and is actively being worked on.
+* **Bugs should be added to the Bug Backlog column**
 * Please be sure to include at a minimum:
 * Title: Clear headline of what this piece of work is about
 * Labels: UX, Eng, or Bug (at a minimum(
 * Epic: If you know what epic this issue should go in, add it, otherwise it can be filled out later
-
-
-## Sample progression of issues across the board
-
-
-
-![image](https://user-images.githubusercontent.com/7320097/131267743-ac87e88d-70d6-48e5-b482-a9a33b8ae697.png)
-
-![image](https://user-images.githubusercontent.com/7320097/131267753-6d49e8fd-4f03-44c6-91c9-850490a874d7.png)
