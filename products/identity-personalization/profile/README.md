@@ -137,6 +137,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 **Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.**
 
 - **Key result**: Launch notification preference settings MVP in the VA.gov profile in **Q3 2021 (July – September)**.
+     See [success metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success)for Notification Preferences 
 
 ## Solution Narrative
 
