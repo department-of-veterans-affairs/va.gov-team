@@ -96,6 +96,7 @@ There are several considerations in determining which on-line application Form t
 -	The form is not overly complex/long or has unique complexities that would mean a longer delivery timeline
 - Form requires minimal updates/changes
 -	Evidence of a high need exists
+-	Unauthenticated
 -	**Other technical considerations and/or value?**
 
 ### Assumptions/Risks
