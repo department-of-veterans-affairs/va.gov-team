@@ -28,6 +28,11 @@
  
 </details>
 
+## Monday, August 30, 2021
+* MVC statuses, LH code is complete and merged but not quite in (can then delete overlays)
+* James and Jessica (VC) connected now for RCS (Readjustment Counseling Services) path stuff, James waiting on a response
+  * Jessica might have info on updates for VCs not being handled the same way as VAMCs
+
 ## Monday, August 23, 2021
 * New slack channel to collaborate here: [#cms-lighthouse](https://join.slack.com/share/zt-ukjhgl7n-YUFtRrwVRm_QssZWYfT2pQ)
 * Census office API for lat/long service: for CMS to pull into a future sprint for discovery (for CAPs, future VBA stuff)
