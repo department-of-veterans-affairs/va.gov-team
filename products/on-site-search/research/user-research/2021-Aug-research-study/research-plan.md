@@ -75,19 +75,21 @@ Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using t
 - What kind of device will you be joining on and are willing to share a browser window on--computer or smartphone?  
 
 ## Timeline
-#### Desired Timeline: Sept TBD, 2021 
+#### Desired Timeline: Sept 9-13 or 13-15, 2021 
 **30-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-TBD, 2021 | Noon - 3 pm, 4 - 8 pm
-TBD, 2021 | Noon - 3 pm, 4 - 8 pm
-TBD, 2021 | Noon - 3 pm, 4 - 8 pm
+Sept 9, 2021 | Noon - 3 pm, 4 - 8 pm 
+Sept 10, 2021 | Noon - 3 pm, 4 - 8 pm
+Sept 13, 2021 | Noon - 3 pm, 4 - 8 pm
+Sept 14, 2021 | Noon - 4 pm
+Sept 15, 2021 | Noon - 3 pm, 4:30 - 7 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-TBD, 2021  |  TBD 
-TBD, 2021  |  TBD 
+Sept 1, 2021  |  TBD 
+Sept 2, 2021  |  TBD 
 
 
 ## Team Roles	
