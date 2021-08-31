@@ -46,7 +46,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 - We will need *a separate prototype for each task* so that search queries and search results can be different.
 
 ## Participants and Recruitment	
-Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using the following criteria:
+Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions using the following criteria:
 
 ### Must have for participants
 - All are Veterans
