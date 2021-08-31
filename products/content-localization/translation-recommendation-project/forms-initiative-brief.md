@@ -40,7 +40,7 @@ Why would a user want to use this?
 
 - On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly (proof point?).
 
-As a recent user on "Find a Form/PDF Downloads" shows, particpants have difficulty using with PDFs for a number of reasons summarized below. 
+As a recent user on "Find a Form/PDF Downloads" shows, particpants have difficulty using PDFs for a number of reasons summarized below. 
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
 
 **Summary of Key Findings**
@@ -93,8 +93,8 @@ Trust/Satisfaction, Health.*<sup>1</sup>\
 
 There are several considerations in determining which on-line application Form to translate and offer in Spanish:
 
--	The current on-line application form must also have a corresponding English and Spanish PDF version (for setting baseline metrics and KPIs)
--	The form is not overly complex/long or has unique complexities that would mean a longer delivery timeline
+-	The current on-line application form has a corresponding English and Spanish PDF version (for setting baseline metrics and KPIs)
+-	Form is not overly complex/long or has unique complexities that would result in an extended delivery timeline
 - Form requires minimal updates/changes
 -	Evidence of a high need exists
 -	Unauthenticated
