@@ -37,8 +37,8 @@ Informational interview with secure messaging SME(s).
 
 ### Additional questions
 
-- Does health chat connect directly to a specifc health care team, or at the system level?
-- How do Veterans currently learn about health chat? (ie. Are health care teams supposed to inform them?)
+- Does messaging connect directly to a specifc health care team, or at the system level first?
+- How do Veterans currently learn about secure messaging? (ie. Are health care teams supposed to inform them?)
 
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
