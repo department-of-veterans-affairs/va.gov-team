@@ -31,6 +31,7 @@ Harassment reporting form |  /report-harassment/file-report-online/  | Home >  [
 --- | --- | --- | ---
 Add | Sub-footer   |  www.va.gov/report-harassment/    |  Add link to sub-footer (bottom 2 rows). <br> Placement TBD
 Add | [Contact us page](https://www.va.gov/contact-us/) | www.va.gov/report-harassment/  |  Add link and descriptive text to the page.  <br>  Discussed creating a section towards the bottom for filing complaints that would also include link to Civil Rights info. 
+Add | Harassment static content page   |  www.va.gov/report-harassment/file-report-online/    |  Add link and content to static page to access the online form once the form has launched. 
 
 
 
