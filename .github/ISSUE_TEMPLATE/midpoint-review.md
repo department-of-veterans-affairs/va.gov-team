@@ -3,7 +3,7 @@ name: Midpoint Review
 about: Request Midpoint Review
 title: Midpoint Review [Team Name, Feature Name]
 labels: vsp-product-support, content-ia-team, collaboration-cycle, collab-cycle-review
-assignees: andreahewitt-odd, shiragoodman
+assignees: shiragoodman
 
 ---
 
@@ -26,7 +26,7 @@ assignees: andreahewitt-odd, shiragoodman
 
 ## Artifacts
 - Link to [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
-- Link to or attach prototype or mockups
+- Link to or attach a finalized design prototype or mockup
 - Link to content brief (if applicable)
 - Link to or attach your project's content source of truth (for example, mockup, prototype, Github, Word outline, or staging or preview link) 
 - Link to research plan ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md))  and conversation guide ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
