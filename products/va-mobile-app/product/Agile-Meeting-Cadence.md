@@ -47,7 +47,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
     * Tag FE issues tagged to the next sprint with the Release that is 4 weeks away
 
 
-## Sprint Pre-Planning between Managers and VA
+## Sprint Pre-Planning and Product Sync between Managers and VA
 
 **When:** Tuesday, day before Sprint Planning
 
@@ -68,6 +68,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * Review the  Product board filtered for issues are tagged for the next sprint (using ZH Milestones)
 * VA POs and team adjust if needed and align on issues for the next sprint
 * If needed, review issues in the Product Management columns of the Product board to answer any open questions
+* VA shares any updates, discussion on new priorities and stakeholder landscape
 
 
 ## Demo
@@ -158,6 +159,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * Check in on delivery
 * Raise any staffing issues
 * Bubble up generalized feedback from Retro
+* VA shares any updates, discussion on new priorities and stakeholder landscape
 
 
 ## Release Sign off
