@@ -108,7 +108,7 @@ Alright, let's continue
      - Prompt participant to interact with alert on the third or fourth page of the form if they haven't already - note any interaction/content positives/confusion
 
 
-## Variation 2: Applying to health care benefits, 50% or higher disability rating is known at self-reported (~half of participants, participant should have a disability rating of 50% or higher) - 15 minutes
+## Variation 2: Applying to health care benefits, 50% or higher disability rating is known at self-report, VA compensation question (~half of participants, participant should have a disability rating of 50% or higher) - 15 minutes
 
 Go ahead and continue as if you were applying for health care. Note if participant would sign in or not. 
 
