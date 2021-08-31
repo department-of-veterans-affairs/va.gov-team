@@ -157,7 +157,8 @@ Now you can go ahead with what you wanted to do.
 
 - *RECORD search query typed:* _____________________________
 
-- *RECORD if noticed "Can’t find what you’re looking for? Try using our other tools to search." Expectation: location tools / search landing page / ________*
+- *RECORD if noticed "Can’t find what you’re looking for? Try using our other tools to search." Y / N*
+  - *Expectation: location searching tools / search landing page / _________________*
 
 Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"Knoxville TN".
 
