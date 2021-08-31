@@ -75,21 +75,19 @@ Ask Perigean to recruit 15 Veterans in order to get 8 completed sessions using t
 - What kind of device will you be joining on and are willing to share a browser window on--computer or smartphone?  
 
 ## Timeline
-#### Desired Timeline: Sept 9-13 or 13-15, 2021 
+#### Desired Timeline: Sept 13-15, 2021 
 **30-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-Sept 9, 2021? | Noon - 3 pm, 4 - 8 pm
-Sept 10, 2021? | Noon - 3 pm, 4 - 8 pm
 Sept 13, 2021 | Noon - 3 pm, 4 - 8 pm
 Sept 14, 2021 | Noon - 4 pm
 Sept 15, 2021 | Noon - 3 pm, 4:30 - 7 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
+Sept 2, 2021  |  TBD 
 Sept 9, 2021  |  TBD 
-Sept 10, 2021  |  TBD 
 
 
 ## Team Roles	
@@ -100,7 +98,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participants for pilot test:	TBD
 - Notetakers:	Perigean 
-- Observers:	NEW PO? (emailTBD@va.gov), Denise Coveyduc (dcoveyduc@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Sam Suddath (ssuddath@governmentcio.com)
+- Observers:	Denise Coveyduc (dcoveyduc@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Sam Suddath (ssuddath@governmentcio.com)
  
 ## Resources	
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/conversation-guide.md)	
