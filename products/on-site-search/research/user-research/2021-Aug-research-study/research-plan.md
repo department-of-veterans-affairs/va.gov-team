@@ -87,7 +87,7 @@ Sept 15, 2021 | Noon - 3 pm, 4:30 - 7 pm
 Pilot Sessions | Time (EST)
 ---------------|----------
 Sept 2, 2021  |  TBD 
-Sept 9, 2021  |  TBD 
+Sept 3 or 9, 2021  |  TBD 
 
 
 ## Team Roles	
