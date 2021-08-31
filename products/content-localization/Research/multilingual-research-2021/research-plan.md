@@ -1,4 +1,4 @@
-# Research Plan for Content & Localization team, Multilingual content research, August 24, 2021
+# Research Plan for Content & Localization team, Multilingual content research, August 31, 2021
 As the product owner, I need to create a research plan to share with my team.	
 
 ## Goals	
@@ -11,7 +11,7 @@ Content and localization team – Sustainable translation solutions discovery wo
 We are taking a phased approach to translating VA.gov benefit hub content for Veterans and their family members with limited English proficiency (LEP):
 - **Phase 1:** Translate 2 main COVID-19 pages into Spanish and Tagalog
 - **Phase 2:** Launch language assistance and resources pages in English, Spanish, and Tagalog
-- **Phase 3:** Provide a picture of how VA can move forward with sustainable translation solutions
+- **Phase 3:** Provide a picture of how VA can move forward with sustainable translation solutions and a near-term plan for offering more translated content
 
 As part of Phase 3, we’re interviewing VA employees who serve Veterans and family members with LEP as well as employees of other federal agencies who serve individuals with LEP. We’d like to also interview Veterans and family members with LEP themselves. This will help us understand how best to meet their needs as we plan for the future.
 
@@ -22,13 +22,14 @@ As part of Phase 3, we’re interviewing VA employees who serve Veterans and fam
 ##### 1. What does a good experience with online translated content look like for Veterans and their families with LEP?
 - How do they currently search for translated content online (outside of VA)? 
 - What types of content do they most need translated?
+- Are there websites that they think do a great job at providing Spanish content (and what do they think makes them great)? 
 
 ##### 2. How do Veterans and their families with LEP navigate VA services currently?
 - If they needed to apply for a VA benefit, would they apply online, by mail, call, or go in person?
-- If they needed language assistance to apply, how would they try to get it—and what type of assistance would be most helpful (i.e., phone or in-person assistance from an interpreter, a translated PDF to mail in, a translated online application, etc.)?
-- Where do they expect to find this content on VA.gov?
+- If they needed language assistance from VA, how would they try to get it—and what type of assistance would be most helpful (i.e., phone or in-person assistance from an interpreter, a translated PDF to mail in, a translated online application, etc.)?
+- Where do they expect to find Spanish-language resources and content about getting language assistance on VA.gov?
 
-##### 3. Are Veterans currently receiving language assistance from VA?
+##### 3. Are Veterans aware of and using language assistance services from VA?
 - If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)?
 - How do they currently use VA.gov or other VA websites?
 
@@ -71,8 +72,6 @@ Online using Zoom.
 We’ll be testing our existing Spanish translated pages:
 https://www.va.gov/asistencia-y-recursos-en-espanol/
 https://www.va.gov/health-care/covid-19-vaccine-esp/
-
-We’ll also be testing a high-fidelity mockup of a page with a language assistance callout.	
 
 ### 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)		
 
@@ -123,7 +122,7 @@ Our goal is to do this research in mid September.
 
 #### 2.	Prepare: When will the thing you are testing be ready?
 
-Most of the content is ready. We will have a mockup of the page with the callout to phone assistance ready by September 10.
+We'll be using live pages so everything is ready.
 	
 #### 3. Length of Sessions: How long do you estimate each session will be?**
  - < 1-hour sessions
@@ -131,11 +130,12 @@ Most of the content is ready. We will have a mockup of the page with the callout
 
 #### Availability: If applicable, when would you like sessions scheduled?
 
-- Wednesday, September 1: 10 a.m. to 9 p.m. ET
-- Thursday, September 2: 12 noon to 9 p.m. ET
-- Friday, September 3: 10 a.m. to 9 p.m. ET
-- Tuesday, September 7: 10 a.m. to 9 p.m. ET
-- Wednesday, September 8: 10 a.m. to 2:30 p.m.; 4:30 p.m. to 9 p.m. ET
+- Wednesday, September 15: 10 a.m. to 1 p.m. ET and 2 p.m. to 9 p.m. ET
+- Thursday, September 16: 12 noon to 9 p.m. ET
+- Friday, September 17: 10 a.m. to 4 p.m. and 6 p.m. to 9 p.m. ET
+- Monday, September 20: 10 a.m. to 3:30 p.m. ET and 6 p.m. to 9 p.m. ET
+- Tuesday, September 21: 10 a.m. to 9 p.m. ET
+- Wednesday, September 22: 10 a.m. to 3 p.m. and 4:30 p.m. to 9 p.m. ET
 - Thursday, December 9: 12 noon to 9 p.m. ET
 - Friday, September 10: 10 a.m. to 9 p.m. ET
 
@@ -163,7 +163,7 @@ Please list the people who will be serving in each role.
 - Note-takers:	
   - Sharon Kasimow
 
-- Observers:	
+- Observers: Michelle Steigerwalt, 	
 
 	
 ## Resources		
