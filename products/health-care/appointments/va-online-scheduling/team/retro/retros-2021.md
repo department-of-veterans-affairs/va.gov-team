@@ -1,5 +1,13 @@
 # VAOS Retros
 
+
+<details>
+<summary>August 31, 2021</summary>
+  
+![vaos retro 20210831](https://user-images.githubusercontent.com/72046525/131573220-a830de42-df05-4957-b4fc-46acc06f4859.jpg)
+
+</details>
+
 <details>
 <summary>August 18, 2021</summary>
   
