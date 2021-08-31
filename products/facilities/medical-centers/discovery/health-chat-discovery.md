@@ -35,7 +35,7 @@ Informational interview with health chat SME(s).
 
 ### Additional questions
 
-- Does health chat connect directly to a specifc health care team, or at the system level?
+- Does health chat connect directly to a specifc health care team, or at the system level first?
 - How do Veterans currently learn about health chat? (ie. Are health care teams supposed to inform them?)
 
 **SME:**
