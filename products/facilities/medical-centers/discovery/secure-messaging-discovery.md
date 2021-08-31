@@ -35,6 +35,11 @@ Informational interview with secure messaging SME(s).
 
 ## SME Interview(s)
 
+### Additional questions
+
+- Does health chat connect directly to a specifc health care team, or at the system level?
+- How do Veterans currently learn about health chat? (ie. Are health care teams supposed to inform them?)
+
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
 - Secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation.
