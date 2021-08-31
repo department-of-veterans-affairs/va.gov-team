@@ -66,7 +66,7 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 - At least 1 non-native English speaker
 
 ### Recruitment requirements for ALL participants
-- Have a computer or smartphone and be willing to be complete their interview on one of those devices
+- Have a computer or smartphone and be willing to be complete their interview on one of those devices (NOT a tablet)
 - During the session, be willing to share a new web browser window on their device 
 - Have a working microphone on their device
 - Have Zoom downloaded to their device prior to the session and know how to share their screen
