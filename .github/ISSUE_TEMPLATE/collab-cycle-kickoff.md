@@ -3,7 +3,7 @@ name: Collaboration Cycle Kickoff
 about: Begin engaging with the Collaboration Cycle
 title: Collaboration Cycle Kickoff [Team Name, Feature Name]
 labels: vsp-product-support, collaboration-cycle, collab-cycle-review
-assignees: andreahewitt-odd, shiragoodman
+assignees: shiragoodman
 
 ---
 
