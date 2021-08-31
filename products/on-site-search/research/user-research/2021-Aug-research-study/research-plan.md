@@ -52,7 +52,7 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 - All are Veterans
 - At least 3 people who plan to use their computer for the session
 - At least 3 people who plan to use their smartphone for the session
-- At least 3 participants over 60
+- At least 3 participants 55 or older
 - At least 2 people with a cognitive disability (e.g., TBI)
 
 ### Good to have for participants
