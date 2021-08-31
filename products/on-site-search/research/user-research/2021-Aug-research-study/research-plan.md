@@ -33,17 +33,17 @@ Feb 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/mas
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype; ideally, some will be on desktop and some will be on mobile.
 
 ## Method--Details
-### Potential pages for the design prototype:
+### Screens in the design prototype:
 ![screen-flow-diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/Screen%20Flow%20Diagram%20for%20Search%20Prototype.jpg)
 
-### Potential search tasks (that are not in the "top 4" boxes):
+### Search tasks (that are not in the "top 4" boxes) for the design prototype:
 1. In order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury. (search for **"letter in support"** in site search or Find a form; this is top forms search #4--for form 21-4138 Statement in Support of Claim)
 1. Find out if there is a VA hospital in Knoxville, Tennessee (search for **"Knoxville TN"** in site search or go to Find a VA location)
 1. See if you can get college credit for your military service (search for **"college credit"** in site search or Resources & Support; this finds R&S article "How do I get college credits for my military service?")
 
 **Notes:**
 - In the prototypes, site search will lead only to *unhelpful* search results (as it does today for the above search tasks, which is why they were selected). We want to see what participants do (on the page they're looking at and/or navigating back to the home page) and see if they find that *searching from one of the other search tools leads to success*.
-- We will need *a separate prototype for each task* so that search queries and search results can be different.
+- We have *a separate prototype for each task* so that search queries and search results can be different.
 
 ## Participants and Recruitment	
 Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions using the following criteria:
