@@ -18,7 +18,7 @@ Informational interview with health chat SME(s).
 
 - **Where does this product fit into the Veteran journey?** ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
     - Patient experience: VA health chat applies to before and after a visit to a VA facility or meeting with a health care representative
-    - Veteran journey:
+    - Veteran journey: from the point a Veteran is registered for VA health care, health chat could apply anytime a Veteran need to communicate with representatives from the health care system they are registered in
 - **What is a typical use case for this product?**
 - **Why would a Veteran use this, as opposed to something like [secure messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687)?**
     - Health chat is for questions that require real-time responses, for minor health issues and requests (not for emergencies). Example issues include:
