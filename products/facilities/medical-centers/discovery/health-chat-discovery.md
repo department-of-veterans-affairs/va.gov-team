@@ -20,7 +20,7 @@ Informational interview with health chat SME(s).
     - Patient experience:
     - Veteran journey:
 - **What is a typical use case for this product?**
-- **Why would a Veteran use this, as opposed to something like [Health Chat](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686)?**
+- **Why would a Veteran use this, as opposed to something like [secure messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687)?**
 - **What does a Veteran need to know about this?**
 
 ## SME Interview(s)
