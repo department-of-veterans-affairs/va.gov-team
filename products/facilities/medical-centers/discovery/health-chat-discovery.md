@@ -18,19 +18,24 @@ Informational interview with health chat SME(s).
 
 - **Where does this product fit into the Veteran journey?** ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
     - Patient experience: VA health chat applies to before and after a visit to a VA facility or meeting with a health care representative
-    - Veteran journey: from the point a Veteran is registered for VA health care, health chat could apply anytime a Veteran need to communicate with representatives from the health care system they are registered in
+    - Veteran journey: from the point a Veteran is registered for VA health care, health chat could apply anytime a Veteran needs to communicate with representatives from their health care system
 - **What is a typical use case for this product?**
+    - You feel ill and unsure about going to an emergency room or clinic
+    - You have a reaction to a medication
+    - You have questions about your prescriptions
+    - Minor health issues such as: allergies, cough/cold, fever, ear ache, sore throat, etc.
+    - Requests such as: finding facilities, scheduling appointments, refilling prescriptions, and sending non-urgent messages to health care teams
 - **Why would a Veteran use this, as opposed to something like [secure messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687)?**
-    - Health chat is for questions that require real-time responses, for minor health issues and requests (not for emergencies). Example issues include:
-        - You feel ill and unsure about going to an emergency room or clinic
-        - You have a reaction to a medication
-        - You have questions about your prescriptions
-        - Minor health issues such as: allergies, cough/cold, fever, ear ache, sore throat, etc.
-        - Requests such as: finding facilities, scheduling appointments, refilling prescriptions, and sending non-urgent messages to health care teams
+    - Health chat is for questions that require real-time responses, for minor health issues and requests (not for emergencies).
 - **What does a Veteran need to know about this?**
     - VA health chat is not for emergency situations
-    - Only available in select states, and in select health care systems 
+    - Only available in select states, and in select health care systems
 
 ## SME Interview(s)
+
+### Additional questions
+
+- Does health chat connect directly to a specifc health care team, or at the system level?
+- How do Veterans currently learn about health chat? (ie. Are health care teams supposed to inform them?)
 
 **SME:**
