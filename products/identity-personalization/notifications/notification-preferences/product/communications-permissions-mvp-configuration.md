@@ -10,7 +10,7 @@ As of Q3 2021, the following items, groupings and channels were agreed upon for 
 | Communication Item | Group Name | Channels | For MVP | Description | Notes/Open questions|
 |--------------------|------------|----------|---------|-------------|---------------------|
 | Board of Veterans’ Appeals hearing reminder |	Applications, claims, decision reviews, and appeals | Text | Yes | Reminder for upcoming BVA appeals hearing. | These were live but have been disabled because of the pandemic. Not sure when these will get turned back on | Not sure when these will get turned back on |
-|COVID-19 updates | General VA updates and information | Email | Yes | COVID updates. Currently vaccine focused.  I imagine this could change based on what shifts w/ the pandemic | Previously called “Keep me informed” |
+|COVID-19 updates | General VA updates and information | Email | ~Yes~ No | COVID updates. Currently vaccine focused.  I imagine this could change based on what shifts w/ the pandemic. Update as of 8/31 - this will not be included in MVP.  | Previously called “Keep me informed” |
 | Appointment reminders | Your health care |Text | Yes | Appointment reminders for health care appointments at VAMCs and CBOCs |   |
 | Prescription shipment and tracking updates |	Your health care | Text | Yes |  Notifications (via SMS) to alert Veterans their prescriptions have shipped from the local VA facility.  The notification includes the tracking link.  This is currently a pilot that is only live at two VAMCs (Denver and Asheville). Not sure when it will be live at others but working through funding now. | Only show this to people registered at participating facilities |
 
