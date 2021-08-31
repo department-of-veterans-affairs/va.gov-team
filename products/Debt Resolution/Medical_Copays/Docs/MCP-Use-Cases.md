@@ -131,7 +131,7 @@ Last updated 2021-08-27
   - `vets.gov.user+87@gmail.com`
 
 
-## Use Case I - Financial Hardship
+## Use Case I - Financial Hardship (not a current case)
 Last updated 2021-08-13
 
 * **Description**
@@ -144,7 +144,7 @@ Last updated 2021-08-13
   - `vets.gov.user+88@gmail.com`
 
 
-## Use Case J - Balance suspended
+## Use Case J - Balance suspended (not a current case)
 Last updated 2021-08-13
 
 * **Description**
