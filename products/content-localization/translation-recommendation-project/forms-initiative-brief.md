@@ -112,6 +112,10 @@ There are several considerations in determining which on-line application Form t
 
 - **Organizational Viability Risks/Constraints**: This is part of on-going effort to support Congressional request and EO.
 
+- Findings from user research are representative of Veterans across the Veteran journey.
+
+- **Viability**: the form selected is being actively maintained by the VA to ensure content is relevant and accurate and there is a process in place for updating the transalted version.
+
 Before undertaking this effort, we will have completed technical discoverability for effort including LOE, other system dependencies/constraints, translation service availability and the like to enable us to start with a very high confidence level that we can build and ship this within set timeframe.
 
 We will also gain a better understanding of how to scale translation for Forms from this effort. 
@@ -119,7 +123,7 @@ We will also gain a better understanding of how to scale translation for Forms f
 ### Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
-The team has considered doing other work first, which includes further integration/testing with Weblate (or another vendor), automating translation files and supporting without use of emails, building entity reference fields but have determined this is the highest priority because we need to understand how to support content other than static pages such as Forms for apps before going deeper on one content type for our upcoming recommendation proposal.
+The team has considered doing other work first, which includes further integration/testing with Weblate (or another vendor), automating translation files to improve workflow and building entity reference fields. However, we've determined that this is the highest priority because of the need to quickly understand how to support content other than static. 
 
 ### Solution Scope
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
