@@ -5,9 +5,9 @@
 
 Extend our ability to provide translated content to on-line form applications.
 
-To date, we have established an approach for supporting static content pages and are working on our recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and as a first step, we're undertaking Technical Discovery to understand the effort and obstacles that need to be solutioned.
+To date, we have established an approach for supporting static content pages and are working on recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and for our first step, we're undertaking Technical Discovery to understand the effort and obstacles to supporting translated form apps.
 
-Once completed, we want to implement a translated form app to confirm our approach wroks in production and we don't encounter any other factors that may not have arisen in the sandbox environment. 
+Once completed, we want to implement a translated form app to confirm our approach works in production and we don't encounter any other factors that may not have arisen in the sandbox environment. 
 
 - Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
@@ -15,7 +15,7 @@ Once completed, we want to implement a translated form app to confirm our approa
 
 What is the problem and who is affected? 
 
-- Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive as to-date, all apps are in English. 
+- Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive. 
 
 Which Veteran/organizational segments are most affected by the problem?
 
