@@ -109,17 +109,15 @@ Let's say that in order to support your request for VA benefits, you want to sub
 
 Have you ever done this before? (Y / N) If so, how did you do this? 
 
-Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
+Can you look at the page in your web browser and tell me what you might do--but don't do it yet. What would you expect to happen?
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / VA Benefits and Health Care / __________* 
+
+Now go ahead and try it.
 
 - *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
 - *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
-
-What would you expect to happen?
-
-Now go ahead and try it.
 
 Before you do anything on this page, what do you think you can do here? 
 
@@ -143,23 +141,23 @@ Now could you please find out if there's a VA hospital in Knoxville, Tennessee?
 
 Have you ever looked for a VA hospital in a city before? (Y / N) If so, how did you do this? 
 
-Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
+Can you look at the page in your web browser and tell me what you might do--but don't do it yet. What would you expect to happen?
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / VA Benefits and Health Care / __________* 
+
+Now go ahead and try it.
 
 - *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
 - *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:* 
-
-What would you expect to happen?
-
-Now go ahead and try it.
 
 Before you do anything on this page, what do you think you can do here? 
 
 Now you can go ahead with what you wanted to do.
 
 - *RECORD search query typed:* _____________________________
+
+- *RECORD if noticed "Can’t find what you’re looking for? Try using our other tools to search." Expectation: location tools / search landing page / ________*
 
 Because this is a limited prototype, you'll see what happens if you typed something slightly different from what you typed--"Knoxville TN".
 
@@ -177,23 +175,21 @@ Now I would like you to see if you can get any college credit for your military 
 
 Have you ever done this before? (Y / N) If so, how did you do this? 
 
-Can you look at the page in your web browser and tell me what you might do--but don't do it yet.
+Can you look at the page in your web browser and tell me what you might do--but don't do it yet. What would you expect to happen?
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Resources & support / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Resources & support / VA Benefits and Health Care / __________* 
+
+Now go ahead and try it.
 
 - *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
 - *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
 
-- *RECORD where clicked on Resources and support page: search box / college credits article link*
-
-What would you expect to happen?
-
-Now go ahead and try it.
-
 Before you do anything on this page, what do you think you can do here? 
 
 Now you can go ahead with what you wanted to do.
+
+- *RECORD where clicked on Resources and support page: search box / college credits article link*
 
 - *RECORD search query typed:* _____________________________
 
@@ -214,6 +210,8 @@ What would you do now?
 - What did you *dislike* about what you've seen today?
 
 - What would you like to *change* about what you've seen today?
+
+- What improvements could make search easier or better for you? 
 
 - Is there anything else that we haven't talked about that you think I should know? 
 
