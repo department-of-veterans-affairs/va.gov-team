@@ -3,7 +3,7 @@ name: Staging Review
 about: Request a Platform staging review
 title: Staging Review [Team Name - Feature Name]
 labels: vsp-product-support, collaboration-cycle, staging-review, collab-cycle-review
-assignees: andreahewitt-odd, Shiragoodman
+assignees: Shiragoodman
 
 ---
 
