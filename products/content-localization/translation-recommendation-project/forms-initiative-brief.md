@@ -40,7 +40,8 @@ Why would a user want to use this?
 
 - On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly (proof point?).
 
-Link to recent research study on Find a Form/PDF Downloads: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
+As a recent user on "Find a Form/PDF Downloads" shows, particpants have difficulty using with PDFs for a number of reasons summarized below. 
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
 
 **Summary of Key Findings**
 - Most participants ignored the instructions provided
