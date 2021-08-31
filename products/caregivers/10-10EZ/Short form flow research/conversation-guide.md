@@ -27,8 +27,8 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 _I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
 
 Prototypes:
-- [Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
-- [Self-reported short form](https://preview.uxpin.com/19ee97072a3233029149e8865f986abfda4c1aef#/pages/141488374/simulate/no-panels)	
+- Variation 1: [Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
+- Variation 2: [Self-reported short form](https://preview.uxpin.com/19ee97072a3233029149e8865f986abfda4c1aef#/pages/141488374/simulate/no-panels)	
 
 
 **Backup plan if they cannot figure out how to share screen:**
