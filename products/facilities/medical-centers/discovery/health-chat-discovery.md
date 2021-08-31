@@ -21,6 +21,12 @@ Informational interview with health chat SME(s).
     - Veteran journey:
 - **What is a typical use case for this product?**
 - **Why would a Veteran use this, as opposed to something like [secure messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687)?**
+    - Health chat is for questions that require real-time responses, for minor health issues and requests (not for emergencies). Issues can include:
+        <details>
+            <summary>VA health chat use cases</summary>
+  
+            ![VA heath chat use cases](![image](https://user-images.githubusercontent.com/81988788/131517669-d35799bf-904b-41f6-8a1e-fc65180065df.png)
+        </details>
 - **What does a Veteran need to know about this?**
 
 ## SME Interview(s)
