@@ -19,7 +19,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View Dependents on Award                            | vsa-ebenefits | Launch with Modify Dependents        | --        | --        | --  | --
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | In `prod`, 80%        | --        | --        | --  | (EBN using 2014 686c), BGS integration
 | Dependency Verification                             | vsa-ebenefits | In staging, development        | --        | --  | -- | New CFO priority as of Q4 2020, depends on Modify Dependents
-| Pension Automation: Dependency Claims               | vsa-ebenefits | In testing        | --        | -- | -- | New USB priority as of Q4, inflates scope of Modify Dependents
+| Pension Automation: Dependency Claims               | vsa-ebenefits | **(COMPELETE)**        | --        | -- | -- | New USB priority as of Q4, inflates scope of Modify Dependents
 | View My Payments                                    | vsa-ebenefits | **(COMPELETE 01082020)**        | Messaging with link to app on VA.gov        | --        | -- | No stakeholder POC
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | **(COMPELETE 01042020)**        | Full redirect to [app](va.gov.education/how-to-apply)        | --        | -- | Jan 4 2021 launch via LoB request
 | Apply for VRE CH31 (1900)                           | vsa-ebenefits | **(COMPELETE 05172020)**      | Banner messaging        | --        | -- | New VRE (CMS) integration was required; CMS pilot May 12 (Cleveland)
