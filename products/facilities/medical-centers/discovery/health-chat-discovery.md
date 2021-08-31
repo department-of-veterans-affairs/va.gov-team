@@ -25,7 +25,7 @@ Informational interview with health chat SME(s).
         <details>
             <summary>VA health chat use cases</summary>
   
-            ![VA heath chat use cases](![image](https://user-images.githubusercontent.com/81988788/131517669-d35799bf-904b-41f6-8a1e-fc65180065df.png)
+            
         </details>
 - **What does a Veteran need to know about this?**
 
