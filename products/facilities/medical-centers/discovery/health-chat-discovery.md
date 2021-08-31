@@ -25,7 +25,8 @@ Informational interview with health chat SME(s).
         - You feel ill and unsure about going to an emergency room or clinic
         - You have a reaction to a medication
         - You have questions about your prescriptions
-        - You need medical advice for a minor injury or illness, such as: allergies, cough/cold, fever, ear ache, sore throat, etc.
+        - Minor health issues such as: allergies, cough/cold, fever, ear ache, sore throat, etc.
+        - Requests such as: finding facilities, scheduling appointments, refilling prescriptions, and sending non-urgent messages to health care teams
 - **What does a Veteran need to know about this?**
 
 ## SME Interview(s)
