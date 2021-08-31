@@ -316,6 +316,24 @@ Tuition and fees charged: $NNNN
     (https://www.benefits.va.gov/gibill/comparison_tool/about_this_tool.asp#tuition_fees_input)
 
     { end Tuition and fees modal }
+    
+### Yellow Ribbon ([Learn more])
+
+{ display Yellow Ribbon contribution with "Total per year" calculation at the bottom }
+
+{ Learn more modal, Learn more aria label: "Learn more about the Yellow Ribbon Program" }
+
+### Yellow Ribbon Program
+
+The Yellow Ribbon Program can help you pay for out-of-state, private school, or graduate school tuition that the Post-9/11 GI Bill doesn’t cover. Schools that choose to participate in the Yellow Ribbon program will contribute a certain amount toward the extra tuition. VA will match the participating school’s contribution, up to the total cost of the tuition and fees. 
+
+Veterans and Fry Scholarship and Purple Heart recipients, or their dependents using transferred benefits, are eligible for the maximum benefit rate. Active-duty service members and their spouses aren’t eligible for this program. (An active-duty service member’s dependent child using transferred benefits may be eligible if the service member is qualified at the 100% rate.) 
+
+Learn more about [the Yellow Ribbon Program](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/). 
+
+Visit the [Yellow Ribbon tool](https://www.va.gov/education/yellow-ribbon-participating-schools/) to find schools that participate in this program.
+
+{ end modal }
 
 **Housing allowance ([Learn more])
 
