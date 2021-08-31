@@ -17,7 +17,7 @@ Informational interview with health chat SME(s).
 ### Key Findings
 
 - **Where does this product fit into the Veteran journey?** ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
-    - Patient experience:
+    - Patient experience: VA health chat applies to before and after a visit to a VA facility or meeting with a health care representative
     - Veteran journey:
 - **What is a typical use case for this product?**
 - **Why would a Veteran use this, as opposed to something like [secure messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687)?**
@@ -28,6 +28,8 @@ Informational interview with health chat SME(s).
         - Minor health issues such as: allergies, cough/cold, fever, ear ache, sore throat, etc.
         - Requests such as: finding facilities, scheduling appointments, refilling prescriptions, and sending non-urgent messages to health care teams
 - **What does a Veteran need to know about this?**
+    - VA health chat is not for emergency situations
+    - Only available in select states, and in select health care systems 
 
 ## SME Interview(s)
 
