@@ -29,6 +29,7 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 - QA Specialist: Peter Hill, Darius Dzien
 - UX Designer: Allison Christman
 - Content Specialist: Peggy Gannon
+- Information Architect: TBD
 
 ---
 
