@@ -3,7 +3,7 @@ name: Midpoint Review
 about: Request Midpoint Review
 title: Midpoint Review [Team Name, Feature Name]
 labels: vsp-product-support, content-ia-team, collaboration-cycle, collab-cycle-review
-assignees: andreahewitt-odd, shiragoodman
+assignees: shiragoodman
 
 ---
 
