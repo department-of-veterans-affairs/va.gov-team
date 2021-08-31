@@ -24,12 +24,11 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 ## Who we are
 
 ### Team Members:
-- Team Product Manager: Andrea Hewitt, Andrea.hewitt@oddball.io, Slack: @AndreaHewitt
-- Front-end engineer: Dan Shank, Dan.Shank@oddball.io, Slack: Dan Shank
-- Web Accessibility: Trevor Pierce, trevor@adhocteam.us, Slack: Trevor Pierce
-- QA Specialist: Peter Hill, trevor@adhocteam.us, Slack: Peter Hill
-- Back-end Engineer: Travis Hilton, Travis.Hilton@oddball.io, Slack: Travis Hilton
-- UX Designer: Crystabel Reiter, crystabel@adhocteam.us, Slack: Crystabel Reiter
+- Team Product Manager: Shira Goodman
+- Web Accessibility: Noah Gelman
+- QA Specialist: Peter Hill, Darius Dzien
+- UX Designer: Allison Christman
+- Content Specialist: Peggy Gannon
 
 ---
 
