@@ -16,6 +16,7 @@ Once completed, we want to implement a translated form app to confirm our approa
 What is the problem and who is affected? 
 
 - Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive. 
+- On-line applications provide an electronic footprint that reassures user that their application was corectly submitted and the VA has received it. 
 
 Which Veteran/organizational segments are most affected by the problem?
 
@@ -38,9 +39,12 @@ How does this initiative help further OCTO-DE's mission and goals?
 ## Desired User Outcomes
 Why would a user want to use this?
 
-- On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly (proof point?).
+- On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly. During the Research and Discovery phase the Caregiver's team noted the following:
 
-As a recent user on "Find a Form/PDF Downloads" shows, particpants have difficulty using PDFs for a number of reasons summarized below. 
+- An online form allows applicants to legibly complete at their own pace, save progress, and take breaks as needed, which some expressed difficulties with using the PDF online.
+- Many Veterans and Caregivers expressed they have poor handwriting, so an online application eases the workload for VA personnel processing applications.
+
+Related tot his, a recent user on "Find a Form/PDF Downloads" shows, particpants have difficulty using PDFs for a number of reasons summarized below. 
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
 
 **Summary of Key Findings**
