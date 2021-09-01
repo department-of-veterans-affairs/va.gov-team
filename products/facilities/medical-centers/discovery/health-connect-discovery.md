@@ -96,6 +96,7 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
 ### UX RECOMMENDATIONS AT A HIGH LEVEL:
 
 - Branded name should not be Veteran facing - All phone labels should concisely describe their purpose, e.g  with verbs and not branded internal names
+- Test language with Veterans - Usability test the new phone number in context with other phone numbers to guage clarity and to mitigate adding more noise and confusion
 - Define what success looks like? Are we tracking call volume for numbers before and after for the different numbers if this is a pilot? 
 - Identify other stakeholders need to be identified so that we can sunset numbers that will be redundant.
 - Phone number audit to answer the following for VISN 8: 
