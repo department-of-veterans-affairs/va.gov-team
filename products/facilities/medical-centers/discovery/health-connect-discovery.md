@@ -96,8 +96,8 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
 ### UX RECOMMENDATIONS AT A HIGH LEVEL:
 
 - Branded name should not be Veteran facing - All phone labels should concisely describe their purpose, e.g  with verbs and not branded internal names
-- Define what does success looks like? Are we tracking call volume for numbers before and after for the different numbers if this is a pilot? 
-- Identify what other stakeholders need to be identified so that we can sunset numbers that will be redundant? 
+- Define what success looks like? Are we tracking call volume for numbers before and after for the different numbers if this is a pilot? 
+- Identify other stakeholders need to be identified so that we can sunset numbers that will be redundant.
 - Phone number audit to answer the following for VISN 8: 
     - What is the number
     - What call center is this?
