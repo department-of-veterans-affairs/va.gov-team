@@ -69,21 +69,23 @@ With this problem solved, what should users be able to do/achieve that they coul
 -	Veterans, family members and caregivers find content confusing or unhelpful.
 -	Veterans, family members and caregivers can't easily find or use translated content.
 
-
 ---
 ## Measuring Success (TBD)
 
--	Measure PDF vs on-line form error rates? Approval timeframe? Completion rate?time to complete?
--	We will include a Medallia Spanish survey on translated pages to collect customer feedback. 
+-	Once we determine the form that will be translated, we will undertake Discovery work to determine the appropriate metrics avaiable to establish our KPI's. If feasible, we would like to include some or all of the following:
+
+- compare the PDF error rates to the on-line form error rates
+-	compare the benefit approval timeframe for PDF submissions vs on-line submissions
+-	compare error rates
+-	cost of processing a PDF vs an on-line application
+-	customer satisfaction 
 
 
 ### Key Performance Indicators (KPIs)
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, 
 Trust/Satisfaction, Health.*<sup>1</sup>\
 
-- Increased …. TBD
-- High satisfaction score via Medallia Spanish survey
-
+- TBD
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
