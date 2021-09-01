@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1858109789/Inter-Departmental+Operational+Resources)
+
 ### _**<span style="text-decoration:underline;">Contact Center - VA.gov Interdepartmental Operational Resources</span>**_
 
 
