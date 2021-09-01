@@ -110,6 +110,17 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
 -   Rick will send language
 -   Team synthesis to understand the communication options that could be presented to Veterans
 
+### RELATED RESEARCH
+
+**Contact Center Content Teams Research** conducted by Liz Lantz Aug-Oct 2020:
+
+- [Visual mapping of various Contact Center Content teams](https://preview.uxpin.com/559c1f8fc9b065402b80c5a8c26262c8371b1295#/pages/134110801/simulate/sitemap?mode=i), systems and software used and process flows for Veteran facing content creation. 
+  - [[supplement to the UXPin file](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris#readme)]
+- [IRIS / Contact Center Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris#readme)
+
+Other resources:
+- [Call Center and POC Matrix](https://adhocteam-my.sharepoint.com/:w:/r/personal/leyda_hughes_adhocteam_onmicrosoft_com/Documents/Facility%20Locator%20Shared/05-Other%20Facilities%20Research/VA%20Call%20Center%20Groups%20and%20POCs.rtf?d=w67ecf58c7ebb42c9936124ad09c411f1&csf=1&web=1&e=t0wvdj) from Chante shared with Liz for the the research work above
+
 ## Interview Notes
 ---------------
 
