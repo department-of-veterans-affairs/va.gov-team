@@ -1,5 +1,8 @@
 # Mobile App Roadmaps
 
+## August 2021
+![image](https://user-images.githubusercontent.com/7320097/131701477-d585e867-657d-4b12-93a6-8a8b00b7b8f9.png)
+
 ## June 2021
 ![image](https://user-images.githubusercontent.com/7320097/131700267-8ca4b9c6-49d2-436c-bb12-d1d867c702b7.png)
 
