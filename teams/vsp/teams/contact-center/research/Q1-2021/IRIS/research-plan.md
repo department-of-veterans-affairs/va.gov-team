@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857519820/Research+Plan+Outline)
+
 # Research Plan for IRIS Replacement, Q1 2021
 
 ## Goals
