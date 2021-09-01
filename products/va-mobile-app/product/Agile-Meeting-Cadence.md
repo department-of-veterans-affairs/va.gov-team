@@ -109,8 +109,8 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 
 
-* Using the UX board, review issues that have been tagged to the next sprint
 * Product team shares sprint objectives
+* Using the UX and Eng boards, review issues that have been tagged to the next sprint
 * Ensure full team is aware of what work they will be picking up
 * Full team has opportunity to ask any questions about the upcoming sprint and adjust any estimates that are incorrect
 
