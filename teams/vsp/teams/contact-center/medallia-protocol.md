@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1860108475/Medallia+Protocol)
+
 # Medallia Protocol
 
 **Audience**: VSP & DEPO. Anyone who needs to understand how we receive user feedback on VA.gov
