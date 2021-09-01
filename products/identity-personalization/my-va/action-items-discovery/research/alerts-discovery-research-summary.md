@@ -55,19 +55,19 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Alerts
 
-**All users were quickly and easily able to find and understand the 'Alerts' link and indicator (red dot) in the navigation.** Users understood that the red dot meant that something needed their attention and they easily understood that they could get more information if they clicked on the link. All users were able to navigate to the alerts page with no problem.
+**1. All users were quickly and easily able to find and understand the 'Alerts' link and indicator (red dot) in the navigation.** Users understood that the red dot meant that something needed their attention and they easily understood that they could get more information if they clicked on the link. All users were able to navigate to the alerts page with no problem.
 
 > "Quote"
 
-**Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.** Users understood the layout and content of the page, and were easily able to talk to personal experiences where certain alerts would be helpful. 
+**2. Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.** Users understood the layout and content of the page, and were easily able to talk to personal experiences where certain alerts would be helpful. 
 
-**Users were able to easily understand the amount of information shown in an alert and how to take action on said alert (eg clicking on links inside of alerts).** Many users appreciated the level of information shown. All users understood how to get additional information if they wanted it. There was some specific details (link) that users mentioned would be helpful if they were included (e.g. subject in messages), but overall the amount of information shown seemed appropriate. 
+**3. Users were able to easily understand the amount of information shown in an alert and how to take action on said alert (eg clicking on links inside of alerts).** Many users appreciated the level of information shown. All users understood how to get additional information if they wanted it. There was some specific details (link) that users mentioned would be helpful if they were included (e.g. subject in messages), but overall the amount of information shown seemed appropriate. 
 
-**All users mentioned redundancy as a welcomed and important feature.** All participants mentioned that they currently receive texts and emails from the VA, and having another channel of communication would not be a bad thing. Users also mentioned that they would NOT be confused if they recieved a text about a benefit update, and then came to VA.gov and saw the exact same alert on the website. In fact, they said it would work great for them. Many users mentioned push notifications as something that would be helpful.
+**4. All users mentioned redundancy as a welcomed and important feature.** All participants mentioned that they currently receive texts and emails from the VA, and having another channel of communication would not be a bad thing. Users also mentioned that they would NOT be confused if they recieved a text about a benefit update, and then came to VA.gov and saw the exact same alert on the website. In fact, they said it would work great for them. Many users mentioned push notifications as something that would be helpful.
 
-**Users want their alerts to be ordered chronologically.** 
+**5. Users want their alerts to be ordered chronologically.** 
 
-**All users easily understood and liked the term 'Alerts' after they saw it.** We asked users to pick a title before they saw the prototype and there was a large array of what people mentioned. *Just a thought - if we call the page 'Notifications', it might be confusing to a user to go to notification settings and not be able to change anything about the actual 'Notifications' page.*
+**6.All users easily understood and liked the term 'Alerts' after they saw it.** We asked users to pick a title before they saw the prototype and there was a large array of what people mentioned. *Just a thought - if we call the page 'Notifications', it might be confusing to a user to go to notification settings and not be able to change anything about the actual 'Notifications' page.*
 
 #### What users thought this page should be called
 
