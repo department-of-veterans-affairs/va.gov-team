@@ -18,8 +18,7 @@
 
 ### Project-specific setup
 
-- [ ] Step 1: Interview
-- [ ] Step 2: Usability test
+*No prototype setup needed. Make sure share screen is enabled so participant can share their screen.
 
 ## Intro - 5 minutes
 
@@ -42,8 +41,6 @@ Before we start, a few things I want to mention:
 I'd like to start with learning a little more about you and how you use VA benefits and services.
 
 - First, would you consider yourself a Veteran, a family member of a Veteran, or a caregiver for a Veteran?
-- How would you describe your comfort level in English, for speaking and for reading?
-
 - Can you tell me about any VA benefits or services that [you/the Veteran you care for] use now or have used in the past? _[follow-up questions as appropriate]_
 - How often do you and [the Veteran/your family member] use VA.gov to get benefit and service information?
 - Do you or [the Veteran/your family member] have a VA.gov account (like DS Logon, My HealtheVet, or ID.me)?
