@@ -106,13 +106,12 @@ There are several considerations in determining which on-line application Form t
 
 - **Value Risks** (will people use it): Spanish LEP Veterans/family members/caregivers value an on-line translated application process for benefits on par with English version
   
-- **Usability Risks**: We expect to see a higher completion rate and satisfaction score with this offering. Low-risk since we will be transalting an all-ready published form.
+- **Usability Risks**: findings from our user research and analysis are representative of Veterans across the Veteran journey. We'll
+ expect to see a higher completion rate and satisfaction score with this offering. Low-risk since we will be transalting an all-ready published form.
 
 - **[Technical] Feasibility Risks**: On-line application form is limited to 1 form for launch that maps to the considerations listed above.
 
 - **Organizational Viability Risks/Constraints**: This is part of on-going effort to support Congressional request and EO.
-
-- Findings from user research are representative of Veterans across the Veteran journey.
 
 - **Viability**: the form selected is being actively maintained by the VA to ensure content is relevant and accurate and there is a process in place for updating the transalted version.
 
