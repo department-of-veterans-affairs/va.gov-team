@@ -33,7 +33,7 @@ VAMC
 
 Vet Center 
  * operating status alert
- * "Normal" alert status displays one way on the Vet Center's own page than it does when included as a "Nearby" location on another page [#29415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29415) 
+   * "Normal" alert status displays one way on the Vet Center's own page than it does when included as a "Nearby" location on another page [#29415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29415) 
 
 
 ## August 25 
