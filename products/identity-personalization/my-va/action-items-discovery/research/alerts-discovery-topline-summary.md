@@ -29,10 +29,9 @@ Prepared by Tressa Furner, Aug 2021
 
 **Alerts on My VA**
 
-- Users were confused by why they were seeing the specific alerts that they were seeing on My VA
-- Almost all users missed 'View all alerts' initially, but when directed to it they easily understood where it would go
 - Users expected there to be an alerts section in My VA
 - Users were not bothered by having an alerts section as well as an alerts page
+- Users understood the difference between the pages
 
 ## Findings (Pain points)
 
