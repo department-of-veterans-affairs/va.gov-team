@@ -51,6 +51,14 @@ Platform is making 2 assumptions, also detailed in the problem statement above.
 
 ## Solution Approach
 
+MVP/Phase 1 solution:
+The MVP will have 2 parts. The first iteration of the MVP will include migrating all existing Orientation slide decks to the Getting Started page of Platform Website. The 2nd iteration will include transfering contents out of the General Orientation deck to the Platform Website. Also in the 2nd iteration, Platform plans to include a solution for giving new teams/team members knowledge/an overview of VA.gov and potentially sharing veterans use cases. This will either manifest as a VA.gov Overview video that we ask VFS teams to watch, or asking VFS teams to perform a list of tasks on VA.gov with staging log ins.
+
+Phase 2 solution:
+Using General Orientation as an example, other Platform teams will follow suit and transfer content from their Orientation decks over to Platform Website. For orientation decks where there is no defined Platform team owner (ie Design Orientation), we will need to identify a solution. 
+
+A more detailed approach has been documented and is currently commented out. View file in raw form to read in detail.
+<!---
 We are taking a 2-pronged approach to resolving the problems identified in the Problem Statement.
 
 The first approach will be to create a one-stop shop/self-service tool/landing page for Platform Website that has all of the guidance and documentation VFS team members will need to start supporting their VFS team on VA.gov. The content of this landing page will be organized by VFS team member roles (General, PM, BE Engineer, FE Engineer, Designer/Researcher). Content will live in it's appropriate location on Platform Website, however it will be linked/accessible from the landing page. The team hopes to use the Getting Started page on Platform Website for this purpose. An MVP of this page could be the content in the current orientation decks (transformed to Platform Website guidance), with later iterations including additional content identified through Platform research. 
@@ -66,7 +74,7 @@ There is the [VFS Orientation Epic template](https://github.com/department-of-ve
 We are taking this solution/approach over others because it allows important information to be accessed indpenedently, but also allows us to separate the solution for new team orientation from new team member orientation. New team members and new teams can both benefit from this landing page, however new teams will still need a different, more personal approach to orientation. We still plan to have orientation meetings for new teams, however they can be modified and/or abbreiviated so they only cover what is not included in the landing page. We also recognize that there is value in new teams meeting face-to-face with Platform teams as they being their work on VA.gov.
 
 The solution/approach may evolve to include other content and/or valuable information from other non-platform teams. 
-
+-->
 
 
 ## Launch Dates
