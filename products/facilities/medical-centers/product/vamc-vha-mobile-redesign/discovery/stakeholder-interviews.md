@@ -155,3 +155,10 @@ Copy the following onto outreach emails:
 - jeffrey.grandon@va.gov
 - steve.tokar2@va.gov
 - jennifer.heiland-luedtke@va.gov
+
+### Reference files
+- [VAMV Upgrade URLS](https://docs.google.com/spreadsheets/d/1ZLRCNFt4Ml967zo260dlw38gjXUhP_g2/edit?usp=sharing&ouid=109024407558026969388&rtpof=true&sd=true)
+- [VAMC spreadsheet of "Other" location/facility types](https://docs.google.com/spreadsheets/d/11NlludP42r6DGWky0fKZEdJAET81cjdejZ5PJsCCrJc/edit?usp=sharing)
+- [Orphan facilities](https://docs.google.com/spreadsheets/d/1clQPgCFmvBz8ipz71eB9iMVwyTZTJkI_/edit?usp=sharing&ouid=109024407558026969388&rtpof=true&sd=true)
+- [PAO directory](https://docs.google.com/document/d/19ceFh8WZSPHhFAVjenSTLczElRLwT90F/edit?usp=sharing&ouid=109024407558026969388&rtpof=true&sd=true)
+- [raw interview notes](https://docs.google.com/document/d/1HmL0sVDIzFQ2pLO7yochHyLy2p1GKyS0nWGeJw0UlqY/edit?usp=sharing)
