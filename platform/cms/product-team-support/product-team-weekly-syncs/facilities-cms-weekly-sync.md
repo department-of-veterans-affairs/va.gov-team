@@ -22,14 +22,19 @@
 
 
 </details>
+
 ## September 1
 
 VAMC
-* Hardening content model
+* Hardening content model for 3 top task pages
 * Editorial experience for the number of featured stories in Drupal 
   * [#29378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29378) - we will limit the number of featured stories to two and return to story order in a future issue following changes to editorial experience
-* Vet Center operating status alert
-  * "Normal" alert status displays one way on the Vet Center's own page than it does when included as a "Nearby" location on another page [#29415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29415)
+* System health service descriptions (based on Shreveport experience)
+
+Vet Center 
+ * operating status alert
+ * "Normal" alert status displays one way on the Vet Center's own page than it does when included as a "Nearby" location on another page [#29415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29415) 
+
 
 ## August 25 
 
