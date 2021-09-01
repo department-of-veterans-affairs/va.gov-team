@@ -256,7 +256,7 @@ Users mentioned things that we may be able to implement in the future including:
 
 ## Recommendations
 
-This recommendations are not final, and should be iterated on over time.
+These recommendations are not final, and should be iterated on over time.
 
 1. Remove grey boxes in messages and prescriptions.
 2. Keep totals for messages, but remove totals for appointments, claims and prescriptions. Replace with a 'Manage all X' CTA.   
