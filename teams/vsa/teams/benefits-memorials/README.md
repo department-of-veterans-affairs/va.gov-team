@@ -32,13 +32,10 @@
 - [Keywords](#Keywords)
 - [Team](#team)
 
-# Priorities (Updated 1/12/2021)
+# Priorities (Updated 8/12/2021)
 
 ## Higher Level Review
-We are within days/weeks of launching.  This product has been in work for almost a year and delayed significantly due to 526 errors that are consistently impacting existing users. Also, BDD has recently launched and has been at 100%.  We are managing the errors/flow through BDD and have not seen any major issues.  Finally, NOD is on the horizon. 
-- Launch Higher Level Review
-  - Focus on UAT, currently not finding candidates (banner has been put up on eBenefits)
-  - No updated launch date at this time
+Launched. This product had been under development for almost a year and delayed significantly due to 526 errors that are consistently impacting existing users. Also, BDD has recently launched and has been at 100%.  We are managing the errors/flow through BDD and have not seen any major issues.  Finally, NOD is on the horizon. 
   
 ## 526 Health and Technical Debt
 This is our flagship product.  We have seen that our error rate drop from 20% to 8% but we still have some critical fixes to get us to 100%. The team agrees that focusing on 526 before new work is brought on is the ideal scenario.  However, we have Notice of Disagreement.
@@ -63,12 +60,11 @@ Related to 526 health (and in some ways Claims Status Tool) the traffic from Cal
   - We need this data in order to bring prioritization recommendations to our customer
   
 ## Notice of Disagreement
-This is a customer that has a direct line to the secretary's office and we have been delaying them for months.  Matt and Lighthouse worked on a delivery plan which has our team starting in January.
-  - Prepare for Notice of Disagreement design and implementation
-  - Work to get plan updated
+Began development Q2 2021
+  - Release pending
   
 ## Claims and Appeals Status
-  - Fell down the priority list, however we have been making file upload fixes
+  - Scheduled for Q4 2021
   
 ## Supplemental Claims
 Not even on our radar at the moment.  NOD 100% if we are doing new work.
@@ -91,9 +87,12 @@ First line is always Matt and Ronnie. However, our channel #vsa-claims-appeals i
 |DSVA Product Manager   |Matt Self                           |matt.self@va.gov                |
 |Team Product Manager   |Veronica Henry                      |vhenry@governmentcio.com        |
 |Back-End Engineer      |Anna Carey                          |anna@adhocteam.us               |
+|Back-End Engineer      |Michel McDonald                     |michel.mcdonald@adhocteam.us    |
 |Front-End Engineer     |Robin Garrison                      |robin.garrison@adhocteam.us     |
+|Front-End Engineer     |Asha Gross.                         |asha.gross@adhocteam.us.        |
 |Design Researcher      |Christian Valla                     |cvalla@governmentcio.com        |
-|Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com      |
+|Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com  
+|
 
 # Executive Summary
 
