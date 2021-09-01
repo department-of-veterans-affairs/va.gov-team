@@ -53,13 +53,13 @@ Informational interview with secure messaging SME(s) over Microsoft Team.
 - **SME:** Rick Fox
 
 
-Rick (Rick) Fox:
+Rick (Richard) Fox:
 
 -   Communications Director VHA
 
 -   Veteran 
 
--   Used to work at Heinz
+-   Used to work at Heinz as PAO, content editor
 
 ## FINDINGS
 
