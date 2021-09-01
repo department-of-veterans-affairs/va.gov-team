@@ -34,7 +34,9 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 
 
-* Product team shares priorities for the upcoming sprint
+* Product team:
+     * Shares priorities for the upcoming sprint
+     * Updates the Epic-level board
 * UX:
     * Review issues in UX Current sprint and tag to next sprint if needed (using ZH milestones)
     * Review issues in UX Backlog and tag to next sprint
