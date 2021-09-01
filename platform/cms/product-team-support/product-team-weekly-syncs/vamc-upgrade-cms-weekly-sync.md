@@ -21,6 +21,10 @@
 
 </details>
 
+## September 3
+
+- facility statuses on operating status
+
 ## August 27, 2021
 
 Full product launches
