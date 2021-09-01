@@ -28,8 +28,11 @@
 VAMC
 * Hardening content model for 3 top task pages
 * Editorial experience for the number of featured stories in Drupal 
-  * [#29378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29378) - we will limit the number of featured stories to two and return to story order in a future issue following changes to editorial experience
+  * [#29378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29378) - we will limit the number of featured stories to two and return to story order in a future issue following changes to editorial experience 
+  * [#1318](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1318) CMS epic to rebuild this feature... no timeline on it. 
 * System health service descriptions (based on Shreveport experience)
+  * 508 issues due to use of improper headings
+  * How might we provide guidelines or guardrails... structured "Care we provide" content with bullets? Disable headings? If we disable headings, how do we handle existing content that has "Care we provide at VA Shreveport" h2 in the rich text? 
 
 Vet Center 
  * operating status alert
