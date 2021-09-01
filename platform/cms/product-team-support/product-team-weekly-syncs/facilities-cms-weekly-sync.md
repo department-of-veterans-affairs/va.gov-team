@@ -23,21 +23,44 @@
 
 </details>
 
+## September 8
+
+ * Editor support processes 
+ * District 1 planning
+
 ## September 1
 
 VAMC
 * Hardening content model for 3 top task pages
+  * kev to add MPS and Gaida and Michelle to Thursday call
 * Editorial experience for the number of featured stories in Drupal 
   * [#29378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29378) - we will limit the number of featured stories to two and return to story order in a future issue following changes to editorial experience 
   * [#1318](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1318) CMS epic to rebuild this feature... no timeline on it. 
-* System health service descriptions (based on Shreveport experience)
+  * CMS to do: identify some small things that can be done... only one module? 
+  * CMS to do: write own "known issues"
+* System health service descriptions (based on Shreveport experience) 
   * 508 issues due to use of improper headings
   * How might we provide guidelines or guardrails... structured "Care we provide" content with bullets? Disable headings? If we disable headings, how do we handle existing content that has "Care we provide at VA Shreveport" h2 in the rich text? 
+    * CMS to figure out a content model iteration that would prevent 508 issues, assuming FE could add an h3 "Care we provide at [Health Care System]", including content intent instructions.  
 
 Vet Center 
  * operating status alert
    * "Normal" alert status displays one way on the Vet Center's own page than it does when included as a "Nearby" location on another page [#29415](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29415) 
-
+   * CMS issue - do not push "more info" to lighthouse when status is normal
+   * CMS issue - clear "more info" when status is saved as normal 
+ * District 1 - 80 Vet Centers 2nd week of October
+   * CMS issue to load POCs for District 1 (list forthcoming, missing some names)
+   * More to come, agenda next week.
+ * Editor support processes 
+   * How might we automate the required services (without local info) and required Prepare for your visit accordions.
+   * CMS issue to populate the required services for each Vet Center in District 1-4. Script can check to see if any are missing for existing Vet Centers too.  
+     * Should this apply to new Vet Centers when they get created? Yes.
+     * CMS issue: Editors should not be able to delete required services.  
+   * Prepare for your visit
+     * What to bring, national standardized content, could be hardened now, OR prepopulated
+     * Other possibilities for preopulation or hardening: transportation, parking
+ * Editorial experience for not repeating national content, first for VEt Center, hopefully a design pattern 
+ *  
 
 ## August 25 
 
