@@ -55,13 +55,13 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Zenhub board used:** Product board
 
-**Before the meeting: **
+**Before the meeting:**
 
 
 
 * Issues will be tagged to the next sprint, representing the team’s hypothesis about what to prioritize
 
-**Agenda: **
+**Agenda:**
 
 
 
@@ -97,11 +97,11 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Zenhub board used:** UX board + Eng board
 
-**Before the meeting: **
+**Before the meeting:**
 
 
 
-* Team will have conducted Sprint Pre-Planning with VA POs to gain alignment
+* Team will have conducted Sprint Pre-Planning with VA POs to gain alignment on priorities
 * Issues labeled with the new Sprint will be moved from the UX and Eng Backlogs into the UX and Eng Current Sprint columns on each board
 * Any issue labeled with the new Sprint is fully estimated, labeled, and assigned (*note that Eng tickets get assigned during the sprint as the team picks them up)
 
