@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859944556/Contact+Center+Resource+Repositories)
+
 #### **<span style="text-decoration:underline;">VA Contact Center Resource Repositories (Internal and External)</span>**
 
 **<span style="text-decoration:underline;">Purpose</span>**
