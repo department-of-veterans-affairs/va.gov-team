@@ -50,16 +50,19 @@ Informational interview with secure messaging SME(s) over Microsoft Team.
 
 ## SME Interview(s)
 
-- **SME:** Rick Fox
+- **SME:** Rick (Richard) Fox:
 
-
-Rick (Richard) Fox:
-
--   Communications Director VHA
+-   PAO, Communications Director VHA
 
 -   Veteran 
 
 -   Used to work at Heinz as PAO, content editor
+
+- **Stakeholders:** 
+
+- Susan Clinker: director of clinical contact center and modernization
+- Susan Kirsch: Acting Deputy Under Secretary (Rick's boss)
+- Jenny Heiland-Luedtke: Deputy Director VHA
 
 ## FINDINGS
 
