@@ -19,7 +19,7 @@ Discovery for issue [#27688](https://app.zenhub.com/workspaces/vft-59c95ae5fda75
 - in-person conversation
 
 
-### Goals
+### Research Goals
 
 Get clarity on when to use this method (from VA perspective) so that we can determine the best method for researching Veteran expectations about their communication options and begin considering the best way to present the information that Veterans need.
 
@@ -64,20 +64,20 @@ Rick (Rick) Fox:
 ## FINDINGS
 
 
-### GOALS:
+### STAKEHOLDER GOALS:
 
--   New number on Fac Loc for VISN 8 facilities by Dec 31st 
+-   Get new VA Health Connect number on Fac Loc for VISN 8 facilities by Dec 31st 
 
 ### WHY ARE WE DOING THIS:
 
 Clinical Contact Center & Modernization and Office of Comm Care: 
    -   Reduce emergent care cost for urgent care use cases 
-   -   Consolidate multiple call centers into a multi-use contact center that can offer help in scheduling and direct Veterans to virtual visits
-   -   Give Veterans 1-stop shop phone number for multiple services but not all
+   -   Consolidate multiple call centers into a multi-use contact center that can offer help in scheduling, offer clinical triage, Rx refills and virtual visits
+   -   Give Veterans more access to care
 
 ### RISKS - PROBLEMS THIS INITIATIVE CAN CREATE FOR VETERANS 
 
--   This number does NOT replace the existing "main number" so having two "main numbers" in addition to Mental Health phone on Facility Locator adds confusion and cognitive load
+-   This number does NOT replace the existing "main number" because it can't handle all types of calls. Having two "main numbers" in addition to Mental Health phone on Facility Locator adds confusion and cognitive load. Setting expectations of what this number is for is crucial.
 
 -   During the day calls are handled by PAC team, after hours by Clinical Contact Center which seem to "compete" with each other. Does this create a situation where care decisions are not about what's best for the Veteran but instead which department gets credit for the "conversion"?
 
@@ -93,8 +93,9 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
 
 -   Who owns the success metric? Facilities team? VA Health Connect? Are they different or aligned?
 
-### UX RECOMMENDATIONS:
+### UX RECOMMENDATIONS AT A HIGH LEVEL:
 
+- Branded name should not be Veteran facing - All phone labels should concisely describe their purpose, e.g  with verbs and not branded internal names
 - Define what does success looks like? Are we tracking call volume for numbers before and after for the different numbers if this is a pilot? 
 - Identify what other stakeholders need to be identified so that we can sunset numbers that will be redundant? 
 - Phone number audit to answer the following for VISN 8: 
@@ -125,7 +126,7 @@ Other resources:
 ## Interview Notes
 ---------------
 
-What is the VA Health Connect?
+#### What is the VA Health Connect?
 
 -   Right now Facilities have call centers. One facility might have 8 different call centers and/or contact centers
 
@@ -150,15 +151,15 @@ What is the VA Health Connect?
 
 4.  Pharmacy services - mostly for refills, but also for preventing ER overuse
 
-Eligibility:
+#### Eligibility:
 
 Have to be enrolled in health care but not meant to replace PAC team, this is a complement to existing care. PAC teams get very "attached" to their patients. Those not enrolled, would be handled by the HC administrator who is knowledgeable and trained.
 
-Long term:
+#### Long term:
 
 OIT (Shawn Mitz explained to Rick) has invested in this effort with an 8 billion dollar backbone so that it will be standardized, working with EHR to be nationalized by a cisco backbone. Then cloud based software lays overtop the cisco infrastructure.
 
-VISN 8 feedback
+#### VISN 8 feedback
 
 Feedback is great, but only complaint is that it's not on Facility Locator. Rick is working with Jenny HL to get this on the site and she pushes back saying OIT folks [facilities team] need to see the vision and know how it fits in with the other methods of contact, other numbers. 
 
@@ -168,19 +169,10 @@ Another initiative is we're working with Community Care. The Emergency Departmen
 
 Example: We were able to get Veteran on Video Connect who got a spider bite who might have instead used ER. VISN 8 is seeing a reduction in Community Care ED use. Susan Clinker is their director of clinical contact center and modernization. She's giving me real evidence that this works to continue to reduce ER costs. We need to find other ways to get veterans the care they need.
 
-How has/ how will a Veteran get routed to this call center?
 
-What is a typical use case for this product?
+#### How does this differ from the other numbers listed here? Tele-urgent Care Line 1-833-835-3874, or what would it replace?
 
--   Are there any other use cases, or edge cases?
-
--   How would this phone number ideally be labeled?
-
--   Where did the name come from?
-
-How does this differ from the other numbers listed here? Tele-urgent Care Line 1-833-835-3874, or what would it replace?
-
-![](https://lh6.googleusercontent.com/j0v4R2dtus_MkL5wdWYNsHBYRML2sMe8hwU2U0SHnwhbyP0LJRKKHemNOa69MwdwHtTRp6v_V_bqB45AudqXFgBerZPWy4PqxY-MPE2sirxTiy37D3X_TcOqOlKNfv9dZK4F2c5K=s0)
+<img src="https://lh6.googleusercontent.com/j0v4R2dtus_MkL5wdWYNsHBYRML2sMe8hwU2U0SHnwhbyP0LJRKKHemNOa69MwdwHtTRp6v_V_bqB45AudqXFgBerZPWy4PqxY-MPE2sirxTiy37D3X_TcOqOlKNfv9dZK4F2c5K=s0"  alt="[screenshot of teleurgent care line which appears on Pittsburgh's operating status page]" width="40%" height="40%">
 
 I'm not sure, I'm the comms guy, but I believe
 
@@ -214,7 +206,7 @@ Mental health call, are the a warm hand-off: 
 
 All warm hand-offs, multiple callers might have multiple issues.They've gone through lengthy process maps. I'm not at the level to know what they'd do. Finding what mistakes were caught during pilot for VISN 8. 
 
-Pilots in other VISNs
+#### Pilots in other VISNs
 
 Pharmacy Support: VISN 10 has 1 pharmacy support for the whole VISN. We're using that as the model for pharmacy support.
 
@@ -222,15 +214,16 @@ Scheduling: VISN 12 all apppoint calls go to Madison, WI.
 
 I don't know but if we have 8 of these different contact centers. Some of them have already consolidated so as we consolidate at the VISN level we'll probably, and I can probably help you get the right person to talk to you. We tried for weeks to get us with the head of VA Health Connect and Susan Klinker from VISN 8 together, we just couldn't get everyone's schedule to work. So, I'm glad this is happening to get the nuts and bolts out of the way. I think it will be a simpler call. 
 
-Process Flow - are they available to us?
+#### Process Flow - are they available to us?
 
 Sounds like a good idea, I don't know if they are available. 
 
-For Vaccines:
+#### For Vaccines:
 
 Rick worked with Lauren A and Shante during COVID to work on final approved messaging. The call centers get info before VISN directors. We're still figuring out some of that mapping.
 
 VISN 8 Live Site - Orlando - will VAHC # replace main phone?
+
 
 ![](https://lh3.googleusercontent.com/ZXF-hdVRuvksxzZuvfk_0x47Q9_C6VDX67sdi0NX5STwl5MdyT7p5hS_IS9FfVVKrhN1Y7AHbCIGqpFBrOhkLDkBO7tMFL7cRFvDhkBFx77BDBtJVX3-jTG46oha-8wZYNJLRMAt=s0)
 
@@ -250,13 +243,14 @@ PAOs are often not trained for content editing 
 
 On VISN 8 I'm still not seeing the same page with the phone numbers as Pittsburgh. Let's face it I was the content manager at Heinz, I had zero training, I had no idea how to use Teamsite, no idea what my responsibilities were because there hadn't been a PAO in place for two years when I was hired. And we have that across the country, some are more stable than others. And in some places sometimes its the PAO that's the content manager and others its the dietitian who just became the deputy of whatever this week, the way we hire and promote within the VA, communications is never... I happen to have a masters degree... I happen to have 20 years experience before coming to VA. It doesn't make me super special but I'm not the norm. Like I said, I could have been a dietician last week but because I wanted a promotion to GS12 from their GS11 position and because they had good customer service skills, somebody gave them the job and were told, oh by the way, you're our new content manager. 
 
-![](https://lh3.googleusercontent.com/DSgXKPK5QeQYKhc1uQ6CH2HIxy_JZsK5zQxwJaR3seM_ggCzTOv03hY9c3Ds6C7QP1At_-mC_MB7vqzj9BAod-APLplnY7A8ziQB3f7ZhyiBTviCjkhWK3FcnA1eyP7kRndEPY3p=s0)
+<img src="https://lh3.googleusercontent.com/DSgXKPK5QeQYKhc1uQ6CH2HIxy_JZsK5zQxwJaR3seM_ggCzTOv03hY9c3Ds6C7QP1At_-mC_MB7vqzj9BAod-APLplnY7A8ziQB3f7ZhyiBTviCjkhWK3FcnA1eyP7kRndEPY3p=s0"  alt="[screenshot of upgraded Orlandao VAMC page focusing on primary page CTAs at the top of the page]" width="60%" height="60%">
 
-Clicking blue button "Make an Appointment":
+
+#### Clicking blue button "Make an Appointment":
 
 Primary care call center: 877-646-4550 < this is not the toll free number for the clinical contact center. This is probably the normal call center during normal business hours and there's probably a way for it to roll over after hours. I'm making some educated guesses.
 
-Is it behind the scenes only?
+#### Is it behind the scenes only?
 
 No, it can also be behind the scenes and maybe in the short term but we want it to be the primary go to for high acuity, emergent care or urgent care. If it's 2 in the afternoon it's going to be staffed but if it's after hours or a holiday it's going to roll over that other number. 
 
@@ -264,15 +258,16 @@ How do I talk to someone right now: [I point this out because it's how we handle
 
 "It doesn't seem particularly user friendly. It doesn't seem intuitive to me. And that's only for an appointment. 'I don't want an appointment, how do I get help right now? I've been trying to get a hold of the PAC team for three weeks but when they return my call I'm at work and I haven't been able to take it, how do I' you know those kind of calls."  
 
-The ask:
+#### The ask:
 
 The phone number that's listed here: <https://www.visn8.va.gov/ccc.asp> on Facility Locator and a quick description of what it is.
 
 [Rick does a Google search for "Orlando VA medical center "clinical contact center""]
 
-![](https://lh3.googleusercontent.com/SqOFWLFBG3pHZ9756MOs2n1FMGG3PYaJZABvF-TDds1aNGj6VH0Ryncu5-s2croyhyUKN3v0a_xm2NP5gfv8dStp00_f7Yh3--vmIwLrSfee0gDE7AxbjZJ8rUcffiDcJOQBe10v=s0)
 
-Checking out Orlando VAMC Teamsite for the VAHC#
+<img src="https://lh3.googleusercontent.com/SqOFWLFBG3pHZ9756MOs2n1FMGG3PYaJZABvF-TDds1aNGj6VH0Ryncu5-s2croyhyUKN3v0a_xm2NP5gfv8dStp00_f7Yh3--vmIwLrSfee0gDE7AxbjZJ8rUcffiDcJOQBe10v=s0"  alt="[screenshot of upgraded Orlandao VAMC clinical contact center page]" width="60%" height="60%">
+
+#### Checking out Orlando VAMC Teamsite for the VAHC#
 
 <https://www.orlando.va.gov/index.asp>
 
@@ -280,7 +275,8 @@ Michelle: It says in that blue box that it should not be used for emergency situ
 
 Rick: I wish I had an answer, I can only give you my opinion. I think we need some kind of disclaimer like this is after hours support. If we ask the general counsel I'm sure they will say we need to say call 911 for... I know part of the goal is to get people who are using the emergency department inappropriately to use this. So where's the magic wand to move from one to the other. I lean to what you first said, so people can use this in place of an emergency room. because if its after hours and calls the triage line, they almost always automatically tell you to go to the emergency room for anything but the most basic thing because that's CYA. but if they could actually dial this in and get on and actually do a virtual visit. That's what saves the trip. You're probing into the right areas. Unfortunately, I'm the comms guy and I don't know what the clinicians who are involved in this and frankly the people on the operational executive leadership team... I don't know if they have all the answers. But they are the ones that could make these decisions. But I can weigh in and you can weigh in from a communications perspective but operationally only they can tell us what they are trying to achieve. 
 
-![](https://lh5.googleusercontent.com/nCPm22Hru-4UcFk16w4HSK97K7WcV9xDa-jpLg9Zd5UNlh-o9DyLNbushSvcBQQ9nogxSlJVzoufKKjEqNEqDj3SvZb9nC04Y8AmBGIRd9_3pYiWSuK7RXtavIPKJ6wyPrFRfazq=s0)
+
+<img src="https://lh5.googleusercontent.com/nCPm22Hru-4UcFk16w4HSK97K7WcV9xDa-jpLg9Zd5UNlh-o9DyLNbushSvcBQQ9nogxSlJVzoufKKjEqNEqDj3SvZb9nC04Y8AmBGIRd9_3pYiWSuK7RXtavIPKJ6wyPrFRfazq=s0"  alt="[screenshot of current teamsite Orlandao VAMC page]" width="60%" height="60%">
 
 [Notice under "Telephone Care:" in the right rail navigation]
 
@@ -297,7 +293,7 @@ Rick: "It's lost, it's not up in their yellow box" what's here? More toll free n
 
 <https://iris.custhelp.va.gov/app/answers/detail/a_id/1703>
 
-![](https://lh6.googleusercontent.com/6G-8Z26e53H85aQ1Qe_M6mNXCMFqFQyT09BM5EPg7nMYE3QjYGLOxaD1iXh1IonKPOxDP2omkFCfEvwQ1NXIrZrJgZCDWWJuz2DXhuZJyWMXY9ISXgzHoYBj2bQNNIMC8bGs-HJx=s0)
+<img src="https://lh6.googleusercontent.com/6G-8Z26e53H85aQ1Qe_M6mNXCMFqFQyT09BM5EPg7nMYE3QjYGLOxaD1iXh1IonKPOxDP2omkFCfEvwQ1NXIrZrJgZCDWWJuz2DXhuZJyWMXY9ISXgzHoYBj2bQNNIMC8bGs-HJx=s0"  alt="[screenshot of current teamsite Orlandao VAMC page]" width="60%" height="60%">
 
 Rick: So here's their numbers. I don't know where these even take you. I mean, I assume those are national and not Orlando.
 
