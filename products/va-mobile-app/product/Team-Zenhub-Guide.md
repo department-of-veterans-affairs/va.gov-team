@@ -625,7 +625,7 @@ Here’s what belongs in each column of the Epic board:
 
 # Adding an issue to the board.
 
-Anyone on the team may add a new issue to the board. We will have issue templates shortly, but in the meantime, keep these guidelines in mind:
+Anyone on the team may add a new issue to the board. You may use an Issue template to create a New Bug Report, ticket for a Common COmponent, Epic, or Issue (user story). Keep these guidelines in mind:
 
 
 
