@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857880413/Team+Charter)
+
 # **Contact Center Charter**
 
 
