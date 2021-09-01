@@ -8,14 +8,21 @@
 ## Problem Statement
 The current problems orientation faces are the following (in priority order):
 1. VFS teams struggle with retaining information shared in Orientation. 
-2. Not having separate platform processes for new teams vs. new team members is inefficient. 
-3. There is no reliable process for Platform to be notified of new VFS teams and/or new VFS team members.
-4. Platform team members spend a significant amount of time hosting 1:1 orientation meetings.
-5. It is challenging to keep the content in the slide decks up to date. 
+2. There is no reliable process for Platform to be notified of new VFS teams and/or new VFS team members.
+3. It is challenging to keep the content in the slide decks up to date. 
+4. Not having separate platform processes for new teams vs. new team members is inefficient. 
+5. Platform team members spend a significant amount of time hosting 1:1 orientation meetings.
 6. Content that VFS teams would find valuable is not included in orientation. 
+7. The current orientation process is not scalable.
+8. VFS teams struggle to find information shared in orientation.
+9. (assumption) VFS teams get too much information too quickly.
+10.(assumption) VFS teams don't know what VA.gov is and how it works prior to general orientation.
+11. VFS Product Owners are not familiar with Platform processes and policies.
 
-With new VFS teams coming onto VA.gov, the problems we currently face will be amplified.  
+In a MURAL session with our Product Owner on 9/1, the following matrix was developed to help prioritize which problems to solve for first:
+![image](https://user-images.githubusercontent.com/71330581/131703640-bf44ba7c-a465-45e5-bd70-f99ea4fdfb0f.png)
 
+The MVP will attempt to solve for problems #3, #8 and #10. 
 
 ## Personas
 - Brand new VFS teams
@@ -37,9 +44,10 @@ With new VFS teams coming onto VA.gov, the problems we currently face will be am
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+Platform is making 2 assumptions, also detailed in the problem statement above.
 
-We assume that new 
+1. VFS teams get too much information too quickly. (#9 in problem statement)
+2. VFS teams don't know what VA.gov is and how it wokrs priot to general orientation. (#10 in problem statement)
 
 ## Solution Approach
 
