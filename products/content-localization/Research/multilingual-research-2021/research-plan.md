@@ -20,7 +20,8 @@ As part of Phase 3, we’re interviewing VA employees who serve Veterans and fam
 #### Interview portion questions
 
 ##### 1. What does a good experience with online translated content look like for Veterans and their families with LEP?
-- How do they currently search for translated content online (outside of VA)? 
+- How do they currently search for translated content online?
+- Where do they expect to find access to translated content on a website? 
 - What types of content do they most need translated?
 - Are there websites that they think do a great job at providing Spanish content (and what do they think makes them great)? 
 
@@ -30,7 +31,7 @@ As part of Phase 3, we’re interviewing VA employees who serve Veterans and fam
 - Where do they expect to find Spanish-language resources and content about getting language assistance on VA.gov?
 
 ##### 3. Are Veterans aware of and using language assistance services from VA?
-- If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)?
+- If yes, how do they get that assistance (i.e., in person, by phone, through relatives or friends, setting their Internet browser to a language other than English, etc.)? And what is their experience like with these services?
 - How do they currently use VA.gov or other VA websites?
 
 _Note: These interview questions are intended to add more insights to analytics and other quantitative data. We don't expect to get the full picture from this study alone. We also intend to continue to do future research studies with our LEP audiences to gather more insights over time._
@@ -38,10 +39,10 @@ _Note: These interview questions are intended to add more insights to analytics 
 #### Usability test
 
 #### 4. How findable and valuable is the current translated VA.gov content?
-- Do our currently translated COVID-19 pages offer value beyond the English content? How could we offer greater value?
+- Do our currently translated COVID-19 pages offer value beyond the English content? Do they help people with LEP feel more confident in taking action? How could we offer greater value?
 - Can Veterans and family members with LEP find the current Language Assistance and Resources pages on VA.gov? Do these pages offer value? How could we improve them?
 - Do  Veterans and their family members with LEP need or want the ability to print or share information they find on VA.gov?
-- Do Veterans and family members with LEP notice a callout about getting language assistance by phone on an English page? If yes, would they call if they needed help with reading the information? 
+- Do Veterans and family members with LEP notice a callout about getting language assistance by phone? If yes, would they call if they needed help?
 
 ### 4. Hypothesis: What is your hypothesis for this research?
 
@@ -89,26 +90,25 @@ Please list your participant criteria in two categories-
 
 - Participants must be a Veteran or must be actively helping a Veteran. 
 
-- Participants must speak Spanish and/or must be actively helping a Veteran, family member, or caregiver who speaks Spanish to access or manage their VA benefits. 
+- Participants must speak Spanish.
 
-- Participants and/or the Veteran, family member, or caregiver they’re helping must have limited English proficiency. We’ll follow the Census Bureau’s way of identifying individuals with LEP. The person must answer “Not at all” or “Not well” to this question. <br> How well [do you/does your family member or caregiver] speak English?
+- Participants and/or the Veteran, family member, or a caregiver they’re helping must have limited English proficiency. We’ll follow the Census Bureau’s way of identifying individuals with LEP. The person must answer “Not at all” or “Not well” to this question. <br> How well [do you/does your family member or caregiver] speak English?
   - Not at all (Qualify)
   - Not well (Qualify)
   - Well (Disqualify)
   - Very well (Disqualify)
 
 #### 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
- - At least 2 participants who have signed in to their VA.gov account within the past 6 months
- - At least 2 participants who are enrolled in VA health care
+ - At least 1 participant who has signed in to their VA.gov account within the past 6 months
+ - At least 1 participant who is enrolled in VA health care
  - At least 2 participants who weren't born in the U.S. or who have at least 1 parent who wasn’t born in the U.S.
  - At least 1 person who doesn’t have a college degree (to include enlisted Veterans)
  - At least 1 person who has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
- - At least 1 person who identifies as LGBTQ+ 
- - At least 1 person who uses a screen reader or other assistive device
+ - At least 1 person who uses a screen reader or other assistive device _[Note for Lauren and Emily: We would need training to make sure we're prepared to conduct a session with someone who is using an assistive device so we can make it a smooth experience for them.]
 
 #### 2.	What is your recruitment strategy?
 
-We will use the Perigean contract. In addition, we will share recruitment flyers with these groups for distribution:
+We will use the Perigean contract. In addition, we will share English-language and Spanish-language recruitment flyers (leading to the Perigean recruitment site) with these groups for distribution:
  - Health equity office
  - Center for Minority Veterans and minority Veteran coordinators
  - Employees at VA facilities who handle incoming requests for interpreters and translation services
@@ -133,49 +133,54 @@ We'll be using live pages so everything is ready.
 - Wednesday, September 15: 10 a.m. to 1 p.m. ET and 2 p.m. to 9 p.m. ET
 - Thursday, September 16: 12 noon to 9 p.m. ET
 - Friday, September 17: 10 a.m. to 4 p.m. and 6 p.m. to 9 p.m. ET
-- Monday, September 20: 10 a.m. to 3:30 p.m. ET and 6 p.m. to 9 p.m. ET
-- Tuesday, September 21: 10 a.m. to 9 p.m. ET
+- Monday, September 20: 10 a.m. to 2 p.m. ET and 6 p.m. to 9 p.m. ET
+- Tuesday, September 21: 10 a.m. to 2 p.m. ET and 3 p.m. to 9 p.m. ET
 - Wednesday, September 22: 10 a.m. to 3 p.m. and 4:30 p.m. to 9 p.m. ET
-- Thursday, December 9: 12 noon to 9 p.m. ET
-- Friday, September 10: 10 a.m. to 9 p.m. ET
+- Thursday, September 23: 12 noon to 3:30 p.m. and 6:00 p.m. to 9 p.m. ET
+- Friday, September 24: 10 a.m. to 9 p.m. ET
+
+_[Note: If recruitment is difficult, we could extend into the following week if needed.]_
 
 #### 5. **Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-Friday, August 27th with Sharon Kasimow (product manager)
+Monday, September 13, with Sharon Kasimow (product manager)
 
 ## Team Roles	
 
 Please list the people who will be serving in each role. 
+
 **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
 - Moderator:
-  - Danielle Thierry: 609.420.1348, danielle.thierry@va.gov
-  - Eunice Garcia: 661.544.6706, eunice.garcia@va.gov	
+  - **Main:** Eunice Garcia: 661.544.6706, eunice.garcia@va.gov
+  - **Backup:** Danielle Thierry: 609.420.1348, danielle.thierry@va.gov  	
 
 - Research guide writing and task development (usually but not always same as moderator): Danielle Thierry and Eunice Garcia	
 
-- Participant recruiting & screening:	
+- Participant recruiting & screening: Danielle Thierry and Eunice Garcia	
 
-- Project point of contact: Danielle Thierry	
+- Project point of contact: Danielle Thierry and Eunice Garcia	
 
-- Participant(s) for pilot test: Sharon Kasimow
+- Participant(s) for pilot test: Sharon Kasimow _adding emails shortly_
 	 
 - Note-takers:	
+  - Danielle Thierry
   - Sharon Kasimow
 
-- Observers: Michelle Steigerwalt, 	
+- Observers: Michelle Steigerwalt, Adam Whitlock, Jennifer Heiland-Luedtke, Mathew (Mateo) Schmidt _adding emails shortly_	
 
 	
 ## Resources		
 - Project Brief: 	
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md
 	
-- Convo Guide	
-Working on this now
+- Convo Guide:	
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/Research/multilingual-research-2021/conversation-guide.md
 
-- Synthesis	
+- Synthesis:	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
+
+- Lessons Learned:	
 *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
   - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
