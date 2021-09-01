@@ -22,3 +22,10 @@ Each application has its own folder where content exists for the UI and this con
   * A common glossary namespace is maintained and is loaded by default on all pages
 * Each application can view translated strings via dedicated UI and see some basic statistics on untranslated content
 
+### Technical debt and changes required
+
+* Platform wide forms use the react-jsonschema-form library, but a heavily modified version. The VA version was forked at [rjsf - version 0.43](https://github.com/rjsf-team/react-jsonschema-form/releases/tag/v0.43.0), which was originally released in February 2017.
+  * Since this fork we have added approximately 15 commits on top.
+  * Our version of rjsf is behind the current maintained version by more than 650 commits.
+  * Since we forked the original library there has been support added for i18n
+
