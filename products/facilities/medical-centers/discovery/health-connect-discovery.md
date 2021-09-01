@@ -108,7 +108,8 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
 ### NEXT STEPS:
 
 -   Rick will send language
--   Team synthesis to understand the communication options that could be presented to Veterans
+-   Facilities Team synthesis to understand the communication options that could be presented to Veterans
+-   **NOTE: Keep Lauren in the loop if we decide to reach out to Kathy Frisbee or Nancy Wilck on further Health Chat/Comms work so Lauren is aware of touchpoints between facilities and Office of Connected Care
 
 ### RELATED RESEARCH
 
