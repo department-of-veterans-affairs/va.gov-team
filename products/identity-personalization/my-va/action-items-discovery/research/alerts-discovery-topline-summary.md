@@ -76,8 +76,11 @@ Prepared by Tressa Furner, Aug 2021
 
 ## What should this page be called?
 
+* Some users mentioned multiple titles
+
 - Notifications (3)
 - Action items (2)
+- Alerts (1)
 - Knowledge base (1)
 - Status updates (1)
 - Benefit summary (1)
