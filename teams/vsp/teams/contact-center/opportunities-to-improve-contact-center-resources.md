@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859616899/Opportunities+to+Improve+Contact+Center+Product+Guides+and+Videos)
+
 **Opportunities to Improve Contact Center Product Guides and Videos**
 
 Known gaps and ways to address them:
