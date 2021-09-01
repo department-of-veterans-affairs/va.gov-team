@@ -35,6 +35,11 @@
 
 </details>
 
+## September 1
+
+Banners runbook
+Recurring events knowledge transfer for design - who should be there
+
 ## Aug 25
 
 **Recurring events**
