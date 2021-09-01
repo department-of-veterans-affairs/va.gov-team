@@ -1,4 +1,4 @@
-## VA Health Connect Discovery
+## VA Health Connect Discovery - Research Findings
 
 Discovery for issue [#27688](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/27688). New options for contacting the VA are becoming available and need to be added to the VAMC pages. Before we can determine the right experience for Veterans, we need to understand both the individual options and the landscape.
 
@@ -95,10 +95,8 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
 
 ### UX RECOMMENDATIONS AT A HIGH LEVEL:
 
-- Branded name should not be Veteran facing - All phone labels should concisely describe their purpose, e.g  with verbs and not branded internal names
-- Test language with Veterans - Usability test the new phone number in context with other phone numbers to guage clarity and to mitigate adding more noise and confusion
-- Define what success looks like? Are we tracking call volume for numbers before and after for the different numbers if this is a pilot? 
-- Identify other stakeholders need to be identified so that we can sunset numbers that will be redundant.
+1. Define what success looks like? Are we tracking call volume for numbers before and after for the different numbers if this is a pilot? 
+2. Identify other stakeholders need to be identified so that we can sunset numbers that will be redundant.
 - Phone number audit to answer the following for VISN 8: 
     - What is the number
     - What call center is this?
@@ -106,6 +104,8 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
     - Where is it located? 
     - Are they aware of clinical contact center if I call and ask?
     - How are they determining between urgent and emergent care?
+3. Prototype new labels: Branded name should not be Veteran facing - All phone labels should concisely describe their purpose, e.g  with verbs and not branded internal names. 
+4. Test language with Veterans - Usability test the new phone number in context with other phone numbers to guage clarity and to mitigate adding more noise and confusion
 
 ### NEXT STEPS:
 
