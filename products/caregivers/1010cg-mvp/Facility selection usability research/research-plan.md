@@ -122,6 +122,7 @@ Pilot Session: TBD | TBD EST
 
 ## Resources	
 - Project Brief: TBD
-- Convo Guide: TBD	
+- Convo Guide: TBD
+- Design drafts: [Sketch](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/D741171D-81BD-4CEF-A7A2-69A548C8D346)	
 - Synthesis: TBD
 - Read-Out/Results: TBD
