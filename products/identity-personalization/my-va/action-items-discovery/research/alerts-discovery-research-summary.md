@@ -18,100 +18,163 @@ As an enhancement to the new My VA dashboard, our team is looking to give Vetera
 
 ## Research Methodology 
 
-We conducted remote moderated usability testing via Zoom using the Perigean contract. This method allowed us to share a high-fidelity prototype. Users were asked to join using their mobile devices (android, iphone and samsung) - but some joined via a laptop or an ipad.
+We conducted remote moderated usability testing via Zoom using the Perigean contract. This method allowed us to share a high-fidelity prototype. Users were asked to join using their mobile devices (android, iphone and samsung). All uses joined on their mobile phones.
 
 ### Who we talked to
 
-- 8 Veterans
+- 8 total Veterans
 - Ages varied from 35-65 (exact demographics unknown)
-- All 8 veterans were currently disabled (ranging from 10%-100%)
-- 5 out of 8 veterans were currently enrolled and using health care through the VA
+- 7 out of 8 veterans were currently receiving disability compensation
+- 7 out of 8 veterans were enrolled in and using VA health care
+- 7 out of 8 veterans had an active appeal
 - All 8 veterans were currently receiving some type of benefit (retirement, health care, GI bill etc)
-- 4 out of 8 veterans had cognitive considerations
+- 2 out of 8 veterans had cognitive considerations
 - 8 out of 8 veterans managed their benefits online (using primarily MHV and ebenefits)
+- 6 out of 8 visited VA.gov specifically to check their benefits
 
-### Research questions
+## Research questions
 
-<details>
-  <summary>Details</summary>
-
-**Overall questions**
-- Did we correctly prioritize this page?
-- Is this page useful? Does it have the information and actions it needs?
-- Is there anything they expected to see on My VA that’s missing?
-- What do people think My VA is?
-- What do people think will happen if they click My VA? Does our flow meet expectations?
-
-**My VA vs. the homepage**
-- What would people use My VA for vs. what would people use the homepage for?
-- If there was no homepage, what would a user need My VA to do that it’s not currently doing?
-
-**Mobile questions**
-
-*Note-these probably aren’t questions we’d ask outright, but more assess by behavior*
-
-- Can people find what they need on mobile?
-- Does the page feel too long/like there is too much scrolling required to get to the information they need?
-
-**Nametag**
-- What identifiers do people expect to see on this page?
-- Can people find their disability rating? Did they notice it in the name tag?
-
-**Profile**
-- Where do users think the profile link goes?
-- What do they think is the difference is between the profile vs. My VA?
-
-**Claims**
-- Do they understand the featured claim is the most recently-updated claim?
-- Do they know how many claims and appeals they have total? Is this information helpful to them?
-- Do they know how to view the featured claim/all claims?
-- Is there information missing — or are there actions missing — from this section?
-- What do people expect to happen if they have no claims in progress?
-
-**Health care**
-- Did we correctly prioritize information in this section by featuring latest/most recent information? Or, are the CTAs into the tools and update totals more important?
-- Can they find “totals” information (i.e. 2 unread messages)? And does this information matter to them?
-- Do people understand the latest message (or upcoming appointment or most recent refill) is part of “2 unread messages” (or whatever total) or do they think it’s the latest message + 2 more unread messages (or whatever total)?
-- Do people understand they are looking at their most recent prescription refill update? Why do they think they are seeing this prescription vs. another prescription?
-- Do people understand how they can get more information about their messages/appointments/prescriptions?
-- Do people understand the CTAs will not take them directly to the latest or most recent information? Do they understand CTAs will take them to an overview page?
-- Are there other links, CTAs, or information that would be helpful to show in this section?
-
-**Apply for benefits**
-- Do people understand that they are looking at applications that they’ve started but not yet submitted? Do they understand what “in progress” means?
-- Do people understand how to view an in-progress application?
-- Do people understand why we are showing certain benefits in “benefits you might be interested in”?
-- Do people think “benefits you might be interested in” are the ONLY benefits they are eligible for?
-- Do people understand how to get more information on what benefits the VA offers? Is the information provided helpful to them?
-
-</details>
+- What are the most important scenarios that need action for users?
+- What are the least important action items for users?
+- How do people expect to see these action items?
+- How do people expect their action items to be ordered?
+- How do users expect to be able to resolve these action items?
+- Do people expect to go to My VA to see notifications?
+- Is it useful to have alerts on My VA?
+- Is duplication helpful? (indicator + actual notification)
+- How do users think of action items? (eg a to-do list or more of a notification?)
+- What does a 'new' alert mean? (eg when should they see an indicator in the navigation)
+- Do users want to see all the alerts they’ve ever had?
+- What should this section be called?? (alerts, notifications, action items??)
+- How do people know if a task is complete?
+- What information about an action item do people need to see?
 
 ## Overall Findings: What worked
 
-**1. Users easily found the information that they were looking for and completed tasks. Overall, the information we have on My VA seems helpful.** Users were able to complete most tasks, even if there was some confusion about specific information (prescriptions, totals and grey boxes). Overall, users had positive feedback about the My VA page and stated that they would use it.
+**Overall, users were very positive about the My VA and Alerts page. 8 out of 8 participants said they would use these pages and would find them very useful.**
 
-> "I like it, I have a similar one for work because I work in finance so it can pinpoint what needs actions, pending or in progress, so it is a one stop shop."
+### Alerts
 
-**2. All users stated that My VA met or exceeded their expectations.**  The information presented on the page was what they expected and they could easily find what they were looking for. Since we are using a prototype with dummy information, this may be skewed and we may get more valuable data in coming sessions using real information.
+**All users were quickly and easily able to find and understand the 'Alerts' link and indicator (red dot) in the navigation.** Users understood that the red dot meant that something needed their attention and they easily understood that they could get more information if they clicked on the link. All users were able to navigate to the alerts page with no problem.
 
-> "I like it, I think it is good. I like that it is phone friendly, they aren’t just information all over the page and you don’t need to scroll through a lot. The UI is designed in a way that is friendly to your eyes and other app developers do their pages. It's not just a spreadsheet that is all on the page. Summary of everything but not crazy extensive."
+> "Quote"
 
-**3. There was a tie on preferring the homepage to My VA (4 to 4), but many participants mentioned how much they appreciated the personalization of My VA.** Users who preferred the homepage said they appreciated how much you could do on the page. Users who preferred My VA said they loved how streamlined and personal it was - but both users said they appreciated the personalization of My VA. Some folks said that there would need to be some additions to My VA for it to work as a homepage for them, specifically adding an education benefits and/or records section. This further validates the existence of My VA and our pursuit of personalization on VA.gov. 
+**Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.** Users understood the layout and content of the page, and were easily able to talk to personal experiences where certain alerts would be helpful. 
 
-> "I think it covers any questions or guide the veteran where to go if they have any questions. I don’t think they could leave this without finding an answer."
+**Users were able to easily understand the amount of information shown in an alert and how to take action on said alert (eg clicking on links inside of alerts).** Many users appreciated the level of information shown. All users understood how to get additional information if they wanted it. There was some specific details (link) that users mentioned would be helpful if they were included (e.g. subject in messages), but overall the amount of information shown seemed appropriate. 
 
-**4. People generally understood the difference between the My VA dashboard and the Profile, and they were able to accurately describe the profile in their own words.** However, they had a leg up because we asked them this question when they had already spent time on My VA. We should continue to explore this differentiation over time so we can make sure we're surfacing the right information in the right places.
+**All users mentioned redundancy as a welcomed and important feature.** All participants mentioned that they currently receive texts and emails from the VA, and having another channel of communication would not be a bad thing. Users also mentioned that they would NOT be confused if they recieved a text about a benefit update, and then came to VA.gov and saw the exact same alert on the website. In fact, they said it would work great for them. Many users mentioned push notifications as something that would be helpful.
 
-**5. All users easily found and understood the disability rating and how to get more information on their disability ratings.**
+**Users want their alerts to be ordered chronologically.** 
 
-> "Oh, my disability rating is just right up top - I love that!"
+**All users easily understood and liked the term 'Alerts' after they saw it.** We asked users to pick a title before they saw the prototype and there was a large array of what people mentioned. *Just a thought - if we call the page 'Notifications', it might be confusing to a user to go to notification settings and not be able to change anything about the actual 'Notifications' page.*
 
-**6. Users found the grey boxes in appointments and claims & appeals to be useful.** Users easily understood that the grey box in claims & appeals was their latest claim update. There were some additional things that users would like to see in the appointments box (e.g. the doctor's name and type of practice), but they appreciated seeing their next appointment so they could keep track of it. Also, soon we will have the functionality to link to a specific appointment which will make that box more actionable.
+#### What users thought this page should be called
 
-![appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/appointments.png)
+*Note: some users mentioned multiple titles
 
-![claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/images/claims.png)
+- Notifications (3)
+- Action items (2)
+- Alerts (1)
+- Knowledge base (1)
+- Status updates (1)
+- Benefit summary (1)
+- VA notices (1)
 
-> (When asked about the grey box in appointments) "Make you aware of the next appointment so you don’t miss it. That’s the most important thing is the next one so you do not forget and it is a reminder. It is good they put it there." 
+### Alerts on My VA
 
-**7. Users easily understood the applications in progress section and how to complete and submit an application.** Users understood that this was an application that they had personall started and they all easily stated they would click on the 'continue application' button to complete the application.
+**Users expect an alerts section to be on My VA, in addition to a separate alerts page.** Many participants were excited to see My VA, and mentioned that it would make tracking benefits easier. All users understood the difference between My VA and the Alerts page. 
+
+### Prioritization
+
+**Users don't expect the VA to know specifically what alerts are important to them.** Many users gave the sentiment that it depends on what is happening in a Veterans life, so a certain alert could be much more important at a certain time. Many participants gave the example of if they had a major health problem, then their appointment or messages alerts would be the most important, but if they had been waiting for their appeal hearing then that would become the most important. 
+
+
+
+## Overall Findings: What did NOT work
+
+### Alerts
+
+**Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).** When asked what the difference was between 'old' and 'new', many users mentioned that an old alert would be something that they have taken action on - like a form that wasn't completed, but now is OR if an appointment has already passed. 2 participants wanted the ability to dismiss alerts themselves.  When asked to choose what they thought were the most important the two most commonly mentioned thing were the appeal hearing alert and form submission alert, followed closely by appointments. Many users mentioned knowing that their prescription had shipped was NOT important.
+
+**5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see.** 
+
+> "Quote"
+
+**There was some concern about alerts getting 'lost'. Some users felt overwhelmed with the number of alerts shown.** 
+
+### My VA
+
+**Users were very confused about why they were seeing those specific alerts on My VA** Most users thought that the alerts shown on My VA were there because they were more important than the other alerts. 
+
+**7 out of 8 users missed the 'View all alerts' link completely. Many users mentioned wanting it to be further up on the page and called out.** 
+
+### Prioritization
+
+**Users generally wanted to be able to tell the difference between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).**
+
+**All users mentioned time-sensitivity as an important indicator of what is 'important'.** 
+
+
+## Things Veterans mentioned they'd want to see as an alert (in no specific order)
+
+- Benefits that Veterans are entitled to
+- Education payments
+- Debt payments
+- Timeline on appeals
+- Home loan information (lenders, local APRs, loan status)
+- Appointments
+- Prescriptions
+- Messages
+- Claims and appeals information
+- Physician referral approvals
+- Annual amount of disability compensation
+- Veteran organizations available to join
+- Updates from the VA
+- Covid-19 updates
+
+## Additional findings
+
+- Users expected the messaging link to take them directly to that specific messages, not the messaging page on MHV.
+- 6 out of 8 users mentioned wanting to see the My VA page first thing when they log in.
+- All participants had very postive feedback for the nametag area. 
+- Many participants were surprised and excited at the level of personalization that was provided on the alerts page (even though it was a prototype and not their real information). 
+
+
+## Recommendations
+
+1. Explore ways to 
+2. Keep totals for messages, but remove totals for appointments, claims and prescriptions. Replace with a 'Manage all X' CTA.   
+3. Update CTA verbiage to be more actionable (i.e. Manage all prescriptions) in all sections.
+4. Make the 'What benefits does the VA offer' dropdown more visible, or move to the top of section.
+5. Eventually add in payment history and a notification hub when time/functionality allows.
+
+
+## Next Steps
+
+1. Make all updates to mobile and desktop prototype 
+2. Make all updates on staging
+3. Test again with real user information
+
+## Appendix
+
+### Conversation guide
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-conversation-guide.md
+
+### Interview transcripts
+
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/session-notes
+
+### Tools used for Synthesis
+
+[Spreadsheet]
+
+### Pages and applications used
+
+[Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444774121_Home_Screen)
+
+
+
+
+
