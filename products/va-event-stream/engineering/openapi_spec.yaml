@@ -90,7 +90,7 @@ components:
         sourceSystem:
           type: string
           description: The VA system that is producing the event. Like the eventType field this should be constant and use the same naming convention.
-          example: MHV Secure Messaging
+          example: MHV_SECURE_MESSAGING
         user:
           type: object
           description: A JSON object of user traits that will be used by consumers to identify users or retrieve additional user data.
