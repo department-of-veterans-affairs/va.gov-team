@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857519829/Monthly+Reporting+Request+Process)
+
 # Monthly Reporting Request Process
 
 This document includes the history, current state, and future goals of how VSP Contact Center POCs interact with and retrieve information from external contact centers.  
