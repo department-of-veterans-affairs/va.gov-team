@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1860108468/Medallia+implementation+process)
+
 # Medallia implementation process
 
 **Summary:** How do we implement Medallia surveys on VA.gov?
