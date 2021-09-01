@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857880437/Improving+Veterans+Experience+on+VA.gov+VFS+Reporting)
+
 **<span style="text-decoration:underline;">Improving Veterans’ Experience on VA.gov / VFS Reporting</span>**
 
 **Summary**
