@@ -51,14 +51,14 @@ _[If Veteran: Follow-up questions for Veterans]_
   - Can you tell me more about any VA benefits or services that you use or have used in the past? What about any benefits or services for your family members? 
   - Does anyone in your family help you manage your benefits and services? Tell me more.
   - How often do you or your family members use VA.gov to learn about, apply for, or manage benefits and services? 
-  - Do you have a VA.gov account (like DS Logon, My HealtheVet, or ID.me)?
+  - Do you have an account (like DS Logon, My HealtheVet, or ID.me) that you use to sign in to VA.gov?
   - When you go online, what type of device do you usually use (like a desktop computer, laptop, or mobile phone)?
   
 _[If family member or caregiver: Follow-up questions for family members and caregivers]_
   - Can you tell me about any VA benefits or services that you, or the Veteran, use or have used in the past?
   - Do you help the Veteran manage any of their benefits or services? Tell me more.
   - How often do you or the Veteran use VA.gov to learn about, apply for, or manage benefits and services? 
-  - Do you or the Veteran have a VA.gov account (like DS Logon, My HealtheVet, or ID.me)?
+  - Do you or the Veteran have an account (like DS Logon, My HealtheVet, or ID.me) to sign in to VA.gov?
   - When you go online, what type of device do you usually use (like a desktop computer, laptop, or mobile phone)?
   
 ## First Task: Interview - 20 minutes
