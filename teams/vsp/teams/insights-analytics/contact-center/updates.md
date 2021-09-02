@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1860108577/Legacy+2019+Process)
+
 As of 10/25/2019:
 Original escalation process of reporting from IRIS and SalesForce to the VSP teams has proven to be more chanllenging than once thought.  A different approach is now being taken by the Contact Center team.
 
