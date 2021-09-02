@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857880489/Milestone+Case+Handling+Templates)
+
 # Milestone Templates
 
 The following three templates are associated with the [tier 3 escalation process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/tier-3-process-updated.md)
