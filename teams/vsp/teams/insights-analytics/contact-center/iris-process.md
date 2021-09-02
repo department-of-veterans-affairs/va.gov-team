@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859256489/IRIS+Process)
+
 IRIS Process Documentation
 Currently, the only way to get reliable access to data on VA.gov issues is through the VA.gov IRIS group and the MS Dynamics sign in form. This is a very manual and slow process and has been put in place as a stop gap measure so the VSP team can gather data on the types of issues our users are seeing on VA.gov and provide a path for users to get answers to their technical issues. This is not a process that should be included in any long-term strategy for VA.gov call center work but will continue until we are able to have a contact center trained to answer VA.gov technical questions. 
 
