@@ -1,3 +1,5 @@
+[Duplicated in Confuence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859846324/Contact+Center+Escalations)
+
 ## Preface:
 
 The purpose of this document is to recommend what is needed for an MVP to fulfill the mission of the Contact Center Lead.  This is to be the liaison between the Contact Center(s) and development teams to escalate Tier 2 and Tier 3 issues.
