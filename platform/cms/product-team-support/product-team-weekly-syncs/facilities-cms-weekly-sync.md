@@ -25,6 +25,9 @@
 
 ## September 8
 
+ * Features stories and event sorting 
+   * What are all the scenarios that need to be accounted for? 
+   * CMS proposal to only provide 3 values, and removing Featured boolean. 
  * Editor support processes 
  * District 1 planning
 
