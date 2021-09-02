@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859846396/YouTube+Uploads+-+How+To)
+
 ### How to Upload Demo Video to VA Youtube Channel
 
 Product teams are required to notify the contact center team before a new feature or update will be released on VA.gov. As part of this notification 
