@@ -133,6 +133,8 @@ Because this is a limited prototype, you'll see what happens if you typed someth
 
 What would you do now?
 
+- *If participant isn't scrolling, SAY:* You can scroll in the prototype, if you want to.
+
 - *RECORD if participant gets stuck w/o finding link to target content*
 
  
