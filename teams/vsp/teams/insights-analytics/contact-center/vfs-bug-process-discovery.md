@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857519929/VFS+Bug+Process+Discovery)
+
 # Initial Discussion
 ### 12/30/19
 - Chante Lantos-Swett
