@@ -1,4 +1,6 @@
- ## Monthly Contact Center Report
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859780788/Monthly+Contact+Center+Report)
+
+## Monthly Contact Center Report
 Each month the Contact Center team reports ticket issue totals from IRIS and SalesForce, the breakdown of ticet issues by topic and subtopic, reported feedback, and call volume from participating contact centers.  Currently we receive call volume reporting sporadically from NCC only. 
 
 There are two spreadsheets involved in the monthly reporting process, both located on the VA Network on theh O drive.
