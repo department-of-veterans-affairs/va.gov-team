@@ -76,8 +76,8 @@ components:
         - sourceSystem
         - user
       properties:
-        name:
-          eventType: string
+        eventType:
+          type: string
           description: A constant name for a repeatable event from the source system. Naming convention follows 'contants' in C style languages; 
           uppercase with underscores for spaces.
           example: NEW_MESSAGE
