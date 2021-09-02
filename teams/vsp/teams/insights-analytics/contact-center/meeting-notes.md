@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857880482/Meeting+Notes)
+
 # Purpose
 This space will allow the current Contact Center Leads to unload information that occurs from our scheduled or one off meetings that are had 
 multiple VA contact centers.
