@@ -70,85 +70,16 @@
 - "entryName": "login-page",
 - "rootUrl": "/sign-in",
  
-    "appName": "40-40007 pre need burial planning form",
-    "entryName": "pre-need",
-    "rootUrl": "/burials-and-memorials/pre-need/form-10007-apply-for-eligibility",
-    "template": {
-      "title": "Apply online for pre-need determination of eligibility in a VA National Cemetery",
-      "display_title": "Apply Now",
-      "entryname": "pre-need",
-      "layout": "page-react.html",
-      "order": 1,
-      "includeBreadcrumbs": true,
-      "breadcrumbs_override": [
-        {
-          "path": "burials-memorials/",
-          "name": "Burials and Memorials"
-        },
-        {
-          "path": "burials-and-memorials/pre-need/form-10007-apply-for-eligibility/",
-          "name": "Pre-need Eligibility Determination"
-        }
-      ]
-    }
-  },
-  {
-    "appName": "Post 9/11 GI Bill Status",
-    "entryName": "post-911-gib-status",
-    "rootUrl": "/education/gi-bill/post-9-11/ch-33-benefit/status",
-    "template": {
-      "layout": "page-react.html",
-      "title": "Check Your Post-9/11 GI Bill Benefits Status",
-      "heading": "Check your Post-9/11 GI Bill benefits status",
-      "display_title": "Check Post-9/11 GI Bill benefits",
-      "collection": "education",
-      "spoke": "Manage benefits",
-      "order": 2,
-      "in_maintenance": false,
-      "maintenance_line1": "We’re sorry. Our system is temporarily down while we fix a few things. Please try again later.",
-      "includeBreadcrumbs": true,
-      "breadcrumbs_override": [
-        {
-          "path": "education/",
-          "name": "Education and training"
-        },
-        {
-          "path": "education/about-gi-bill-benefits/",
-          "name": "GI Bill"
-        },
-        {
-          "path": "education/about-gi-bill-benefits/post-9-11/",
-          "name": "Post-9/11 GI Bill"
-        },
-        {
-          "path": "education/gi-bill/post-9-11/ch-33-benefit/",
-          "name": "Check Post-9/11 GI Bill benefits"
-        },
-        {
-          "path": "education/gi-bill/post-9-11/ch-33-benefit/status",
-          "name": "Post-9/11 GI Bill Statement of Benefits"
-        }
-      ]
-    }
-  },
-  {
-    "appName": "Discharge Wizard",
-    "entryName": "discharge-upgrade-instructions",
-    "rootUrl": "/discharge-upgrade-instructions",
-    "template": {
-      "layout": "page-react.html",
-      "title": "How To Apply For A Discharge Upgrade",
-      "heading": "How to apply for a discharge upgrade",
-      "display_title": "Discharge upgrade",
-      "description": "Want to apply for a military discharge upgrade or correction? Get step-by-step instructions depending on your specific situation. If your discharge is upgraded, you'll be eligible for VA benefits you earned while serving.",
-      "keywords": "upgrade discharge, military discharge upgrade, discharge upgrade",
-      "order": 6,
-      "spoke": "Get records",
-      "collection": "records",
-      "includeBreadcrumbs": true
-    }
-  },
-  {
+12. **"appName": "40-40007 pre need burial planning form",**
+- "rootUrl": "/burials-and-memorials/pre-need/form-10007-apply-for-eligibility",
+- "title": "Apply online for pre-need determination of eligibility in a VA National Cemetery",
+- "display_title": "Apply Now",
+    
+13. **"appName": "Post 9/11 GI Bill Status",**
+- "title": "Check Your Post-9/11 GI Bill Benefits Status",
+- "appName": "Discharge Wizard",
+- "title": "How To Apply For A Discharge Upgrade",
+      
     "appName": "Yellow Ribbon Schools",
     "entryName": "yellow-ribbon",
     "rootUrl": "/education/yellow-ribbon-participating-schools",
