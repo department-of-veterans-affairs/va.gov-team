@@ -1,3 +1,5 @@
+Legacy process. Did not duplicate in Confluence.
+
 ### New feature/capability for Contact Center
 
 *When releasing a new feature and notifying the Contact Center, indicate the need for the following:*
