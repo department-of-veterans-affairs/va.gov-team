@@ -59,7 +59,7 @@ _Note: These interview questions are intended to add more insights to analytics 
 
 ### 1.	What method of research are you planning?
 
-We are planning 1-hour, remote moderated interviews that will combine ethnographic interviews and usability testing with our live site and potentially a high-fidelity prototype.
+We are planning 1-hour, remote moderated interviews that will combine ethnographic interviews and usability testing with our live site.
 
 ### 2.	Why this method? How does this methodology help you answer your research questions?
 
