@@ -24,6 +24,7 @@
 ## September 3
 
 - facility statuses on operating status
+- live Drupal training for end of September
 
 ## August 27, 2021
 
