@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859256499/SalesForce+Process)
+
 # SalesForce Process
 
 SalesForce is the CRM that is used by the WHH.  In the current state, there are no specific fields for va.gov issues.  Since February 2019, there have been no modifications to SalesForce, only fixes that have been in the pipeline.  
