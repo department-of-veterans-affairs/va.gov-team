@@ -83,11 +83,11 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Alerts on My VA
 
-**Users expect an alerts section to be on My VA, in addition to a separate alerts page.** Many participants were excited to see My VA, and mentioned that it would make tracking benefits easier. All users understood the difference between My VA and the Alerts page. 
+**1. Users expect an alerts section to be on My VA, in addition to a separate alerts page.** Many participants were excited to see My VA, and mentioned that it would make tracking benefits easier. All users understood the difference between My VA and the Alerts page. 
 
 ### Prioritization
 
-**Users don't expect the VA to know specifically what alerts are important to them.** Many users gave the sentiment that it depends on what is happening in a Veterans life, so a certain alert could be much more important at a certain time. Many participants gave the example of if they had a major health problem, then their appointment or messages alerts would be the most important, but if they had been waiting for their appeal hearing then that would become the most important. 
+**1. Users don't expect the VA to know specifically what alerts are important to them.** Many users gave the sentiment that it depends on what is happening in a Veterans life, so a certain alert could be much more important at a certain time. Many participants gave the example of if they had a major health problem, then their appointment or messages alerts would be the most important, but if they had been waiting for their appeal hearing then that would become the most important. 
 
 
 
@@ -95,25 +95,25 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Alerts
 
-**Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).** When asked what the difference was between 'old' and 'new', many users mentioned that an old alert would be something that they have taken action on - like a form that wasn't completed, but now is OR if an appointment has already passed. 2 participants wanted the ability to dismiss alerts themselves.  When asked to choose what they thought were the most important the two most commonly mentioned thing were the appeal hearing alert and form submission alert, followed closely by appointments. Many users mentioned knowing that their prescription had shipped was NOT important.
+**1. Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).** When asked what the difference was between 'old' and 'new', many users mentioned that an old alert would be something that they have taken action on - like a form that wasn't completed, but now is OR if an appointment has already passed. 2 participants wanted the ability to dismiss alerts themselves.  When asked to choose what they thought were the most important the two most commonly mentioned thing were the appeal hearing alert and form submission alert, followed closely by appointments. Many users mentioned knowing that their prescription had shipped was NOT important.
 
-**5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see.** 
+**2. 5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page.** 
 
 > "Quote"
 
-**There was some concern about alerts getting 'lost'. Some users felt overwhelmed with the number of alerts shown.** 
+**3. There was some concern about alerts getting 'lost'. Some users felt overwhelmed with the number of alerts shown.** 
 
 ### My VA
 
-**Users were very confused about why they were seeing those specific alerts on My VA** Most users thought that the alerts shown on My VA were there because they were more important than the other alerts. 
+**1. Users were very confused about why they were seeing those specific alerts on My VA** Most users thought that the alerts shown on My VA were there because they were more important than the other alerts. 
 
-**7 out of 8 users missed the 'View all alerts' link completely. Many users mentioned wanting it to be further up on the page and called out.** 
+**2. 7 out of 8 users missed the 'View all alerts' link completely. Many users mentioned wanting it to be further up on the page and called out.** 
 
 ### Prioritization
 
-**Users generally wanted to be able to tell the difference between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).**
+**1. Users generally wanted to be able to tell the difference between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).**
 
-**All users mentioned time-sensitivity as an important indicator of what is 'important'.** 
+**2. All users mentioned time-sensitivity as an important indicator of what is 'important'.** 
 
 
 ## Things Veterans mentioned they'd want to see as an alert (in no specific order)
@@ -143,18 +143,34 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Recommendations
 
-1. Explore ways to 
-2. Keep totals for messages, but remove totals for appointments, claims and prescriptions. Replace with a 'Manage all X' CTA.   
-3. Update CTA verbiage to be more actionable (i.e. Manage all prescriptions) in all sections.
-4. Make the 'What benefits does the VA offer' dropdown more visible, or move to the top of section.
-5. Eventually add in payment history and a notification hub when time/functionality allows.
+### Alerts
 
+1. Name this feature 'Notifications' or 'Alerts'. 
+2. Define what an 'old' and 'new' alert is within our technological restraints.
+3. Explore ways to represent old alerts vs new alerts.
+4. Explore ways to add design considerations for each alert section to help with scannability (e.g. health care, claims, covid).
+5. Include the ability to sort alerts by section, date or time-sensitivity. **This feature will most likely not be included in MVP**
+
+### My VA
+
+1. Revisit how we represent alerts on My VA.
+2. Make the link 'View all alerts' easier to find. 
+
+### Prioritization
+
+1. Explore ways to differentiate between things that need action vs things that do not need action.
+2. Either do a card sort or another round of research around prioritization to understand what Veterans deem 'time-sensitive'. 
+
+
+
+1. Since users wanted a differentiation between an old and new alert, we should define what an 'old' and 'new' alert is within our technological restraints.
+2. Once we have a grasp on what an 'old' alert is and what a 'new' alert is, we should explore how those can be represented.
+3. Explore ways to categorize alerts using design and content. This will help 
+4. Users asked for categories or the ability to sort their alerts. We need to figure out how much of a lift that would be to build (in old conversations with Erik, I believe this will be a pretty hefty lift). This feature will likely not be included in MVP, but we could include it on a road map to explore in the future.
 
 ## Next Steps
 
-1. Make all updates to mobile and desktop prototype 
-2. Make all updates on staging
-3. Test again with real user information
+- [ ] asdfj
 
 ## Appendix
 
