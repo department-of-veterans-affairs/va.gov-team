@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857519897/Tech+Issue+Responses)
+
 ## Issue Title: How do I update my address?
 **Description:** This answer is for the user who does not seem to know where to go on VA.gov to update their address. 
 
