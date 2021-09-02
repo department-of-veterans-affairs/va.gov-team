@@ -1,3 +1,5 @@
+Legacy information. DOMO is widely used now. Not duplicated in Confluence.
+
 ## Reporting Visualization
 
 Currently the Contact Center Monthly Report lives in DOMO and mirrors an Excel spreadsheet.  The purpose of this is to have the Contact Center Monthly 
