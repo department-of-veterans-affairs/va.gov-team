@@ -41,4 +41,11 @@
 - "display_title": "Apply Now",
 - "description": "Apply for VA health care benefits. Find out which documents you’ll need, and start your online application today.",
 
+6. **"appName": "686C-674",** 
+- "rootUrl": "/view-change-dependents/add-remove-form-21-686c",
+- "name": "View or change your dependents"
+- "path": "view-change-dependents/add-remove-form-21-686c/",
+       
+   
+
 
