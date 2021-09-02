@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859780774/Uploads+to+DOMO)
+
 # DOMO Upload
 The purpose of this document is to inform Contact Center team members how to upload raw data from the spreadsheet into DOMO.  These dashboards take the place of the Excel version of the [Monthly Contact Center Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/monthly-report.md).
 
