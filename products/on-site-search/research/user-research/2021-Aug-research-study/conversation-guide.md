@@ -15,7 +15,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants*
 
-- *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting OFF*
+- *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
 - *Open a standalone browser tabs to https://bit.ly/tasks-d and https://bit.ly/tasks-m)*
 
@@ -35,7 +35,7 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This session should take about 30 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
+- **This session may take about 60 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
@@ -94,7 +94,9 @@ I would like you to share your screen with me so I can watch you use a specific 
 What kind of device are you using today? *(Phone / Computer)*
 
 ## Veteran Tasks
-I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
+I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. There may be multiple ways to do tasks on this website, and sometimes I may ask you to try a different way if the way you try doesn't work in the prototype.
+
+Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
 I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (desktop https://bit.ly/tasks-d or mobile https://bit.ly/tasks-m). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
@@ -105,13 +107,13 @@ While you're looking at this prototype, I would like you to *talk aloud* as much
 ### Task 1: [Submit letter in support of your claim - Form 21-4138] - 5 minutes
 Could you please click on the link for "Task 1"?
 
-Let's say that in order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury.
+Let's say that in order to support your request for VA benefits, you plan to submit a letter from someone who has first-hand knowledge of your condition. You want to find the form for them to write the letter to support your claim.
 
-Have you ever done this before? (Y / N) If so, how did you do this? 
+Have you ever done this before? *(Y / N)* If so, how did you do this? 
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet. What would you expect to happen?
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / VA Benefits and Health Care / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / VA forms / VA Benefits and Health Care / Top 4 boxes / __________* 
 
 Now go ahead and try it.
 
@@ -143,7 +145,7 @@ Have you ever looked for a VA hospital in a city before? (Y / N) If so, how did 
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet. What would you expect to happen?
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / VA Benefits and Health Care / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Find VA location / VA Benefits and Health Care / Top 4 boxes / __________* 
 
 Now go ahead and try it.
 
@@ -178,7 +180,7 @@ Have you ever done this before? (Y / N) If so, how did you do this?
 
 Can you look at the page in your web browser and tell me what you might do--but don't do it yet. What would you expect to happen?
 
-- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Resources & support / VA Benefits and Health Care / __________* 
+- *RECORD where wanted to click/tap: Search in header / Can't find what looking for / Resources & support / VA Benefits and Health Care / Top 4 boxes / __________* 
 
 Now go ahead and try it.
 
