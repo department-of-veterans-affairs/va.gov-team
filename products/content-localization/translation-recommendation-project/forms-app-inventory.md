@@ -1,7 +1,7 @@
-## The application registry contains all the apps as well as forms: https://github.com/department-of-veterans-affairs/content-build/blob/master/src/applications/registry.json
+### The application registry contains all the apps as well as forms: https://github.com/department-of-veterans-affairs/content-build/blob/master/src/applications/registry.json
 
 
-## Below is a sub-set of just the on-line app forms: 
+### Below is a sub-set of just the on-line app forms: 
 
 1. **"appName": "COVID-19 screener",**
 - "entryName": "covid19screen",
