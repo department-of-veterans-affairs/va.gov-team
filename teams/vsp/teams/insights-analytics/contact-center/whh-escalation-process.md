@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857880538/Legacy+VEO+Escalation+Process)
+
 Escalation Process (Current state)
 
 Once the call comes in (WHH process)
