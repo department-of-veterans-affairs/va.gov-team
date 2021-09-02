@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857519904/Technical+Questions+for+Agents)
+
 # Contact Center Agent Guides
 *Question Consolidation on VA.gov products for Contact Center agents*
 
