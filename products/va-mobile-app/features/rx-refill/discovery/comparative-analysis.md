@@ -73,8 +73,7 @@ Since there is a lot of information to display on a prescription we wanted to se
 		* Quantity
 	* Pharmacy Details
 		* Contact info and icon link to call
-
-![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/WYkdgviT9eY-sEI2JUCsDt6H8sdMR3g6gVK3ionWWsq1xED2SlejOUpmml40WtqdMekY2yCrpfIMkbT7ifR--Ab7REeimx9gCahEFYAhHSvbV_0yzYUPPozgKnT5OOikoavp2Ko5=s0.jpg)
+<img src="https://user-images.githubusercontent.com/1401704/131918991-03088e14-50ac-404d-ab8f-b456edb8d6a6.jpg" alt="Screenshot of prescription detail in My Chart app">
 #### CVS
 * Medication name, strength, type
 * Who it’s for
