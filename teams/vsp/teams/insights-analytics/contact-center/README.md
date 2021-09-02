@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1852703406/Process+and+Key+Documents)
+
 Welcome to the Contact Center lead Folder.
 
 Responsibilities for the Contact Center Lead can be found [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/contact-center-lead-responsibilities.md)
