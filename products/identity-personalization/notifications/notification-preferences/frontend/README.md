@@ -60,7 +60,7 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
 ## Content
 
 - Notification groups should be listed the following order:
-  1. Your Health care (only visible for users with health care)
+  1. Your Health care (only visible for users who are enrolled in health care)
   2. Applications, claims, appeals, and decision reviews
   3. General VA Information and updates
 - Notification items should be listed alphabetically within each group
