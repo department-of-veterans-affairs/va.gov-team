@@ -88,7 +88,7 @@ Please list your participant criteria in two categories-
 
 #### 1. Primary criteria / Must have
 
-- Participants must be a Veteran or must be actively helping a Veteran. 
+- Participants must be a Veteran or the family member or family caregiver of a Veteran. 
 
 - Participants must speak Spanish.
 
@@ -99,7 +99,7 @@ Please list your participant criteria in two categories-
   - Very well (Disqualify)
 
 #### 2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
- - At least 1 participant who has signed in to their VA.gov account within the past 6 months
+ - At least 1 participant who has signed in to the account they use to access VA.gov within the past 6 months
  - At least 1 participant who is enrolled in VA health care
  - At least 2 participants who weren't born in the U.S. or who have at least 1 parent who wasn’t born in the U.S.
  - At least 1 person who doesn’t have a college degree (to include enlisted Veterans)
@@ -161,13 +161,13 @@ Please list the people who will be serving in each role.
 
 - Project point of contact: Danielle Thierry and Eunice Garcia	
 
-- Participant(s) for pilot test: Sharon Kasimow _adding emails shortly_
+- Participant(s) for pilot test: Sharon Kasimow sharon.kasimow@gcio.com 
 	 
 - Note-takers:	
   - Danielle Thierry
   - Sharon Kasimow
 
-- Observers: Michelle Steigerwalt, Adam Whitlock, Jennifer Heiland-Luedtke, Mathew (Mateo) Schmidt _adding emails shortly_	
+- Observers: Michelle Steigerwalt (michelle.steigerwalt.va@gmail.com), Adam Whitlock (adam.whitlock@adhocteam.us), Randi Hecht (randi.hecht@gcio.com), Selina Cooper (scooper@governmentcio.com) 
 
 	
 ## Resources		
