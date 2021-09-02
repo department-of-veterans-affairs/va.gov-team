@@ -80,14 +80,19 @@ eBenefits
 
 ### Possible deliverables
 
-- That really depends. Cory would see us doing this research long term, mainly because it expands into the UI that's being presented to the non-Veteran. He sees a natural place where it fits in to where it's all built
+#### Near term
+
+- Understanding whether or not dependents are just using VA.gov as a shopping list where they sign in and download a letter once a year and that's it?
+- Defining where on VA.gov it makes sense for dependents to be able to download their benefit letter
+- Some basic dependent-specific functionality within their account (e.g. seeing their name, personal info, etc)
+
+#### Long term
+
 - We just don't know what that user journey looks like for non-Veterans
+
 - There are a lot of different personas we can create and determine what is their ideal journey on VA.gov
-- Are they just using VA.gov as a shopping list where they sign in and download a letter once a year and that's it?
-- Trying to prioritize how we can provide value to non-Veterans
-- Providing that back-end infrastructure
-- Some basic functionality within their account as well e.g. seeing their name
-- 
+
+- Prioritizing how we can provide value to non-Veterans (maybe this is something more near term?)
 
 ## Possible approaches to research
 
