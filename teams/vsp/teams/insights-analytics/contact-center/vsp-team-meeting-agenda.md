@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859256537/VFS+Team+Escalation+Meeting+Agendas)
+
 Due to the complexity of IRIS and SalesForce reporting and escalation, the Contact Center team has decided on the following process:
 The Contact Center team will meet with other VSP teams individually to introduce the team, review the issues that have been presented, and
 inquire about any work arounds that may be possible to give back to the contact centers or individuals directly.
