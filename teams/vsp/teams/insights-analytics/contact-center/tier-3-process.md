@@ -1,3 +1,5 @@
+[Duplicate in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857880513/Tier+3+Process)
+
 # Tier 3 Process
 
 This document outlines the process for identifying, triaging and escalating Tier 3 VA.gov issues. This document covers how the VSP Contact Center Team will engage VFS teams to address and resolve Tier 3 issues found in their products. Please note, that this bug reporting pr
