@@ -52,3 +52,6 @@ Who can help us figure this out?
 > One way to better understand dependent's top priorities is to assess what they already do online to manage their relationship with the VA (could be on sites other than VA.gov).
 
 Do we know what other sites? Or is part of this work figuring out what other sites and figuring out dependent priorities? It seems like the best way to do this is a comparative analysis + interviews.
+
+What deliverable from our team would make this collab successful?
+
