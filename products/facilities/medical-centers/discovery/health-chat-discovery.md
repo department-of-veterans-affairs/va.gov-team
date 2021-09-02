@@ -39,4 +39,4 @@ Informational interview with health chat SME(s).
 - How do Veterans currently learn about health chat? (ie. Are health care teams supposed to inform them?)
 - Does health chat keep a record of past conversations?
 
-**SME:**
+**SME:** Kathleen Frisbee (Kathleen.Frisbee@va.gov), manages VA Health Chat
