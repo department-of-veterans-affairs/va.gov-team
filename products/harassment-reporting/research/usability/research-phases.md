@@ -31,7 +31,7 @@ Below is a list of questions that we would like to ask SMEs.
     1. If yes, ask rest of questions
 1. What kinds of Veterans do you think we should target in our research? (i.e., female/male, sexual/non-sexual harassment)
 1. Who do you think might use a self-service harassment reporting tool like this one vs. call a phone number vs. not report at all?
-1. Are there any Veteran groups that are disproportionately harmed/effected by harassment? Who are they and why?
+1. Are there any Veteran groups that are disproportionately harmed/affected by harassment? Who are they and why?
 1. Should we allow participants to fill out whatever information they feel like sharing from their own experiences or imagination, or provide fictitious details for them to enter?
 1. Do you think it's OK to ask some warm-up questions about harassment experiences before showing the design prototype? If OK, how to ask to get a sense of them without asking for all of the details but let the person be heard.
     1. Have you been harassed at a VA facility before? Are you up for talking about that?
