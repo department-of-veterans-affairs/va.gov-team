@@ -73,7 +73,8 @@ Since there is a lot of information to display on a prescription we wanted to se
 		* Quantity
 	* Pharmacy Details
 		* Contact info and icon link to call
-<img src="https://user-images.githubusercontent.com/1401704/131918991-03088e14-50ac-404d-ab8f-b456edb8d6a6.jpg" alt="Screenshot of prescription detail in My Chart app">
+<img src="https://user-images.githubusercontent.com/1401704/131918991-03088e14-50ac-404d-ab8f-b456edb8d6a6.jpg" alt="Screenshot of prescription detail in My Chart app" width="350">
+
 #### CVS
 * Medication name, strength, type
 * Who it’s for
