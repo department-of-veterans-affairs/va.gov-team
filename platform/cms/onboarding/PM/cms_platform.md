@@ -2,16 +2,11 @@
 
 ### Working Style
 
-In a nutshell: we strive to adhere closely to Agile principles so that we can consistently deliver value for the government, while respecting our
-team members' needs for autonomy and wholeness. Within that framework, we aim to give the maximum latitude possible to working styles
-and individual preferences. We highly value self-organization and aim to put our team members in a position to succeed while doing work
-they are intrinsically motivated to do.
+In a nutshell: we strive to adhere closely to Agile principles so that we can consistently deliver value for the government, while respecting our team members' needs for autonomy and wholeness. Within that framework, we aim to give the maximum latitude possible to working styles and individual preferences. We highly value self-organization and aim to put our team members in a position to succeed while doing work they are intrinsically motivated to do.
 
-This is a long-winded way of saying that you can trust the team to take clear acceptance criteria and statements of value and turn them into
-well-implemented solutions.
+This is a long-winded way of saying that you can trust the team to take clear acceptance criteria and statements of value and turn them into well-implemented solutions.
 
-You can always lean on your delivery manager or anyone at A6 for guidance - if they don't know how to
-help, they will help you find who can. Never be afraid to ask questions! Here are some great people for specific areas:
+You can always lean on your delivery manager or anyone at A6 for guidance - if they don't know how to help, they will help you find who can. Never be afraid to ask questions! Here are some great people for specific areas:
 
 - **Agile process/training:** Dotti Cummings
 - **HR / personnel:** Emily Levenson
@@ -19,20 +14,15 @@ help, they will help you find who can. Never be afraid to ask questions! Here ar
 
 ### What does success look like?
 
-Above all, success for this project is embodied in communicating with the government PO and working towards their stated preferences. As
-of September 2021, the main points of emphasis are:
+Above all, success for this project is embodied in communicating with the government PO and working towards their stated preferences. As of September 2021, the main points of emphasis are:
 
 - Monitoring & alerting for all services the CMS provides to other teams
 - System stability & scalability
 - Discovery & prototyping for the Public Content API
 
-We are fortunate that we have a great deal of trust from the Government side and no interest in finger-pointing after downtime incidents. What
-is important to them is that a post-mortem document (and meeting if necessary) is created shortly after the incident, and remediation work is
-specified and prioritized.
+We are fortunate that we have a great deal of trust from the Government side and no interest in finger-pointing after downtime incidents. What is important to them is that a post-mortem document (and meeting if necessary) is created shortly after the incident, and remediation work is specified and prioritized.
 
-Finally, use the forums available such as the #victories Slack channel, Team of Teams and Platform Demo time to spread the good word about
-the great work the team is doing. Over the top cheerleading is not required, but embrace the role of being an advocate for the product,
-its needs and its successes.
+Finally, use the forums available such as the [#victories](https://dsva.slack.com/archives/C04KXPXL4) Slack channel, Team of Teams and Platform Demo time to spread the good word about the great work the team is doing. Over the top cheerleading is not required, but embrace the role of being an advocate for the product, its needs and its successes.
 
 ## Tools
 
