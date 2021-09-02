@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859780765/Contact+Center+Lead+Responsibilities)
+
 # Contact Center Lead Mission:
 
 Improve the Veteran experience on Va.gov by...
