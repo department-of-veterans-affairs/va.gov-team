@@ -18,7 +18,7 @@ The following statistics emphasize how diverse our user population is, and why i
 
 - 40% of Veterans live in rural areas (Shulkin, David J. *It Shouldn't Be This Hard to Serve Your Country: Our Broken Government and the Plight of Veterans*. New York: PublicAffairs, 2019.)
 
-You can view this [Veterans disability statistics resource](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/veterans-disability-statistics.md) for additional statistics and personal stories of Veterans with disabilities. 
+You can view this [Veterans disability statistics resource](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md) for additional statistics and personal stories of Veterans with disabilities. 
 
 ## Guidelines for inclusive research recruiting
 
