@@ -57,17 +57,11 @@
 - "appName": "Discharge Wizard",
 - "title": "How To Apply For A Discharge Upgrade",
       
-    "appName": "Yellow Ribbon Schools",
-    "entryName": "yellow-ribbon",
-    "rootUrl": "/education/yellow-ribbon-participating-schools",
-    "template": {
-      "description": "Search for schools that participate in the Yellow Ribbon Program.",
-      "layout": "page-react.html",
-      "title": "Find A Yellow Ribbon School | Veterans Affairs",
-      "vagovprod": true
-    }
-  },
-  {
+14. **"appName": "Yellow Ribbon Schools",**
+- "entryName": "yellow-ribbon",
+- "description": "Search for schools that participate in the Yellow Ribbon Program.",
+     
+
     "appName": "22-1990E Education benefits form",
     "entryName": "1990e-edu-benefits",
     "rootUrl": "/education/apply-for-education-benefits/application/1990E",
