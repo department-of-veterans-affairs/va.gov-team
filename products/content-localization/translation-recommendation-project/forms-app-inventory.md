@@ -4,56 +4,34 @@
 ### Below is a sub-set of just the on-line app forms: 
 
 1. **"appName": "COVID-19 screener",**
-- "entryName": "covid19screen",
-- "rootUrl": "/covid19screen",
-- "template": {
 - "title": "COVID-19 screening tool",
-- "vagovprod": true
-
 
 2. **"appName": "21-527EZ pension benefits form",**
 - "entryName": "pensions",
-- "rootUrl": "/pension/application/527EZ",
-- "template": {
 - "title": "Apply For Pension Benefits",
-- "heading": "Apply for pension benefits",
 
 3. **"appName": "10-10CG",**
 - "entryName": "1010cg-application-caregiver-assistance",
-- "rootUrl": "/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg",
-- "template": {
 - "title": "Caregiver Application for Benefits",
-- "vagovprod": true,
-- "vagovdev": true,
 
 4. **"appName": "21P-530 Burials benefits form",**
 - "entryName": "burials",
-- "rootUrl": "/burials-and-memorials/application/530",
-- "template": {
 - "title": "Apply for Burial Benefits (VA Form 21P-530)",
-- "display_title": "Apply Now",
 
 5. **"appName": "1010ez Health Care Application form",**
-- "entryName": "hca",
 - "rootUrl": "/health-care/apply/application",
-- "template": {
 - "title": "Apply for Health Care",
-- "display_title": "Apply Now",
 - "description": "Apply for VA health care benefits. Find out which documents you’ll need, and start your online application today.",
 
 6. **"appName": "686C-674",** 
 - "rootUrl": "/view-change-dependents/add-remove-form-21-686c",
 - "name": "View or change your dependents"
-- "path": "view-change-dependents/add-remove-form-21-686c/",
-       
    
 7. **"appName": "21-526EZ disability compensation claim form",**
 - "entryName": "526EZ-all-claims",
-- "rootUrl": "/disability/file-disability-claim-form-21-526ez"
 - "title": "File for disability benefits",
-      
-
-8. ** "appName": "Order hearing aid batteries and accessories",**
+  
+8. **"appName": "Order hearing aid batteries and accessories",**
 - "entryName": "order-form-2346",
 - "rootUrl": "/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346",
 
@@ -73,7 +51,6 @@
 12. **"appName": "40-40007 pre need burial planning form",**
 - "rootUrl": "/burials-and-memorials/pre-need/form-10007-apply-for-eligibility",
 - "title": "Apply online for pre-need determination of eligibility in a VA National Cemetery",
-- "display_title": "Apply Now",
     
 13. **"appName": "Post 9/11 GI Bill Status",**
 - "title": "Check Your Post-9/11 GI Bill Benefits Status",
