@@ -25,6 +25,8 @@ Who are dependents?
 - I know dependents can be spouses and children. 
 - Does VA recognize non-legal partnerships? 
 
+What are the specific qualifications that make someone a dependent? 
+
 What are all the benefits dependents can get?
 
 What do we know so far about dependents' top priorities?
@@ -46,3 +48,7 @@ Ok for us to just reach out to Jason to get convo started?
 > Where else on the site are dependents' already able to view data (eg. benefit letters, other edu info, etc.)?
 
 Who can help us figure this out?
+
+> One way to better understand dependent's top priorities is to assess what they already do online to manage their relationship with the VA (could be on sites other than VA.gov).
+
+Do we know what other sites? Or is part of this work figuring out what other sites and figuring out dependent priorities? It seems like the best way to do this is a comparative analysis + interviews.
