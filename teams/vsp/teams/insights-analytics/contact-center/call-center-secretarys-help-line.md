@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859846311/Office+of+Client+Relations)
+
 ## Contact Center
 
 If you are involved in a discovery sprint, one good resource is to use the contact center.  The contact center speaks with Veterans daily on problems and issues they face with vets.gov.  The best way to work with the contact center is through our DSVA Contact Center Lead Chante Lantos-Swett (Chante.LantosSwett@va.gov). 
