@@ -50,8 +50,8 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 
 ### Must have for participants
 - All are Veterans
-- At least 3 people who plan to use their computer for the session
-- At least 3 people who plan to use their smartphone for the session
+- At least 7 people who plan to use their computer for the session
+- At least 7 people who plan to use their smartphone for the session
 - At least 3 participants 55 or older
 - At least 2 people with a cognitive disability (e.g., TBI)
 
@@ -75,14 +75,16 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 - What kind of device will you be joining on and are willing to share a browser window on--computer or smartphone?  
 
 ## Timeline
-#### Desired Timeline: Sept 13-15, 2021 
-**30-minute** sessions with at least **30-minute breaks** in between 
+#### Desired Timeline: Sept 10-17, 2021 
+**60-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
+Sept 10, 2021 | Noon - 3 pm, 4 - 8 pm
 Sept 13, 2021 | Noon - 3 pm, 4 - 8 pm
 Sept 14, 2021 | Noon - 4 pm
 Sept 15, 2021 | Noon - 3 pm, 4:30 - 7 pm
+Sept 17, 2021 | Noon - 3 pm, 4 - 7 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
