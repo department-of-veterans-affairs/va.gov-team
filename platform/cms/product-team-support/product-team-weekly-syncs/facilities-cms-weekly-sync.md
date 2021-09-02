@@ -66,14 +66,38 @@ Vet Center
 
 ### FE topics
   * moderationState field
+    * Neil created a ticket and scheduled for next sprint
+    * Not currently a blocker, as long as filtering capability remains
+    * Issue when in preview mode, want to see data that's archived
   * jump links/table of contents [#28249](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28249)
+    * 28249: should FE fix it?
+		  * Facilities is getting some push back on whether to fix or not from Ops
+		  * Content needs to be bumped up a level
+		  * Component is behaving as it should
+		  * Shouldn't fix because it's pointing out a problem with the content
+		  * Until Platform provides training, tools, the field doesn't even have a clue
+		  * In our sphere of control is whether or not is appears vs. holistic approach (on Platform for later)
+		  * Need a defensive strategy, ultimately would need it fixed on FE
+		  * Dave to chime in on ticket to clarify
   
 ### VAMC
 * Top tasks: Register for care, Billing and insurance, Medical records office
   * Coordination of remaining steps [6072](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6072)
+  * Facilities to review what we've got
+  * Next week's discussion after review
 * Hi-res images
   * Current Facilities sprint (beginning 8/25)
     * Hi res image download rendered as a link without href [#29079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29079)
+    * Facilities team: validation on CMS side
+			   * On FE we could do some defensive things:
+			     * If there's no hi res image don't offer the checkbox
+			     * Currently not presenting a link at all
+			     * What is the right image for hi res? (A: original)
+			     * Need in the KB for developers (list of images)
+			   * Will be used in Facilities too, even though originated from a different product
+			   * FE isn't going to actually pull the image, but trust that the image is actually hi res, check should be on CMS end
+			   * Or don't check at all and if someone checks the box, give them the highest quality image we have
+			   * Whatever aspect ratio is used on the page, if someone loads an image that's not hi res should we provide the largest? A: no, because the purpose is to make it available for print material
   * Validation on CMS side
     * presence of hi-res image
     * link to image
@@ -86,7 +110,30 @@ Vet Center
   * service list (add to CMS migration backlog)
   * "Prepare for your visit" accordions (Appointments, parking/transportation, what to bring) (add to CMS migration backlog)
   * Facility images (including CAPs)
-  * at least one local spotlight
+  * at least one local spotlight, maybe don't tackle for October because there might be a bunch of empty spotlights on the page
+  * Are there some sort of migrations we could do to stub out these accordions for District 1 facilities?
+    * Accordions would be editable except "what to bring"
+    * For this facility add these accordions
+    * Then also as a migration put in the facility service nodes for that facility
+    * A: yes possible, don't have a method yet to put specific facility info into each (maybe we hold off on that)
+    * What are the multiple levels of maturity? Bc we're going to be hardening it anyway at some point
+    * Services would be the same migration that VAMC upgrade is doing now for facility = this service (all 70 are the same)
+    * Both could just be additions to the VC migrations we already have
+    * Create an issue for service list migration (CMS team)
+    * Issue for default prepare for your accordions (CMS team)
+    * CAP images, need to flip the switch and make required, doesn't hold up the entire main page
+    * Facility (Vet stations, out stations, mobiles) image required too
+      * They won't be able to save anything else until they save an image
+      * Can we hinge the ability to publish on that?
+      * Possible but we don't have a model / pattern for that yet
+      * Not all of the validation can happen on a bulk publish
+      * Break this work out from CAP images
+      * Dave would like to consider some migrations in prep for District 1 kickoff
+        * Also user creation
+        * Michelle to get that list from Jessica/Barb
+        * Are there any changes from the format from last time? Should be fine, just need section and email
+        * Need to address regular cadence of quarterly validation (needs CMS ticket)
+        * Consider if they don't log in within a quarter, automatically block their account
 * District 1 kickoff planned for late October, FYI
 
 ### Other
