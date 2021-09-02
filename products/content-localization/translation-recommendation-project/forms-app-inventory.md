@@ -25,3 +25,10 @@
 - "title": "Caregiver Application for Benefits",
 - "vagovprod": true,
 - "vagovdev": true,
+
+4. **"appName": "21P-530 Burials benefits form",**
+- "entryName": "burials",
+- "rootUrl": "/burials-and-memorials/application/530",
+- "template": {
+- "title": "Apply for Burial Benefits (VA Form 21P-530)",
+- "display_title": "Apply Now",
