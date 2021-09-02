@@ -32,3 +32,13 @@
 - "template": {
 - "title": "Apply for Burial Benefits (VA Form 21P-530)",
 - "display_title": "Apply Now",
+
+5. **"appName": "1010ez Health Care Application form",**
+- "entryName": "hca",
+- "rootUrl": "/health-care/apply/application",
+- "template": {
+- "title": "Apply for Health Care",
+- "display_title": "Apply Now",
+- "description": "Apply for VA health care benefits. Find out which documents you’ll need, and start your online application today.",
+
+
