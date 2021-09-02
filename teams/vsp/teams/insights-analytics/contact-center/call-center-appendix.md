@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859256450/Health+Resource+Center+Support+Overview)
+
 # Health Resource Center Support Overview
 
 ## Support provided to vets.gov
