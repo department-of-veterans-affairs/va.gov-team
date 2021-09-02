@@ -53,79 +53,23 @@
 - "title": "File for disability benefits",
       
 
-    "appName": "Order hearing aid batteries and accessories",
-    "entryName": "order-form-2346",
-    "rootUrl": "/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346",
-    "template": {
-      "layout": "page-react.html",
-      "vagovprod": true
-    }
-  },
-  {
-    "appName": "Request for Higher-Level Review",
-    "entryName": "0996-higher-level-review",
-    "rootUrl": "/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996",
-    "template": {
-      "title": "Request a Higher-Level Review",
-      "heading": "Request a Higher-Level Review",
-      "display_title": "Request a Higher-Level Review",
-      "layout": "page-react.html",
-      "description": "Apply online to request a Higher-Level Review.",
-      "includeBreadcrumbs": true,
-      "vagovprod": true,
-      "breadcrumbs_override": [
-        {
-          "name": "Decision reviews and appeals",
-          "path": "decision-reviews"
-        },
-        {
-          "name": "Higher‑Level Reviews",
-          "path": "decision-reviews/higher-level-review/"
-        },
-        {
-          "name": "Request a Higher‑Level Review",
-          "path": "decision-reviews/higher-level-review/request-higher-level-review-form-20-0996"
-        }
-      ]
-    }
-  },
-  {
-    "appName": "Claims Status",
-    "entryName": "claims-status",
-    "rootUrl": "/track-claims",
-    "template": {
-      "title": "Track Claims",
-      "layout": "page-react.html",
-      "description": "Track the status of your VA claims and appeals."
-    }
-  },
-  {
-    "appName": "Letters",
-    "entryName": "letters",
-    "rootUrl": "/records/download-va-letters/letters",
-    "template": {
-      "title": "Download VA Letters and Documents",
-      "entryname": "letters",
-      "layout": "page-react.html",
-      "includeBreadcrumbs": true,
-      "in_maintenance": false,
-      "maintenance_line1": "We’re sorry. The page you’re looking for is currently down while we fix a few things. We’ll get it back online as soon as we can.",
-      "maintenance_line2": "In the meantime, please try the search box above or one of the options listed below to find more information."
-    }
-  },
-  {
-    "appName": "Login Page",
-    "entryName": "login-page",
-    "rootUrl": "/sign-in",
-    "template": {
-      "vagovprod": true,
-      "layout": "page-react.html",
-      "includeBreadcrumbs": false,
-      "noNavOrLogin": true,
-      "noMegamenu": true
-    }
-  },
-  {
+8. ** "appName": "Order hearing aid batteries and accessories",**
+- "entryName": "order-form-2346",
+- "rootUrl": "/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346",
+
+9. **"appName": "Request for Higher-Level Review",**
+- "entryName": "0996-higher-level-review",
+- "rootUrl": "/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996",
+- "title": "Request a Higher-Level Review",
+     
+10. **"appName": "Claims Status",**
+- "rootUrl": "/track-claims",
+- "description": "Track the status of your VA claims and appeals."
+   
+11.**"appName": "Login Page",**
+- "entryName": "login-page",
+- "rootUrl": "/sign-in",
+ 
     "appName": "40-40007 pre need burial planning form",
     "entryName": "pre-need",
     "rootUrl": "/burials-and-memorials/pre-need/form-10007-apply-for-eligibility",
