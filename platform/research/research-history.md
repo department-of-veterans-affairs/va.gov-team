@@ -12,6 +12,14 @@ This does not include research for Appeals projects, which is stored in differen
 - List of keywords
 
 ------
+### August 2021
+
+#### August 20-34: Alert/Action Items Discovery Research
+*Authenticated Experience, Lead Researcher: Tressa Furner*
+- Number of participants: 8 Veterans 
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery/research)
+- List of keywords: alerts, action items, notifications, My VA, card pattern
+
 ### July 2021
 
 #### July 27-30: Find a Form PDF Downloading Usability Research
