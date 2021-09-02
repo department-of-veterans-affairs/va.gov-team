@@ -24,7 +24,8 @@ The following data will come through VA Profile's API
 
 **Show**
 
-- We will always show this section.
+- ~We will always show this section.~
+- The Notification Settings feature will only appear for Veterans who are enrolled in healthcare _or_ who are eligible to have claims _or_ who are eligible to have appeals.
 - Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i))
 
 ## URL
@@ -61,11 +62,12 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
 
 - Notification groups should be listed the following order:
   1. Your Health care (only visible for users who are enrolled in health care)
-  2. Applications, claims, appeals, and decision reviews
-  3. General VA Information and updates
+  2. Applications, claims, appeals, and decision reviews (only visible for users with access to claims or appeals, not necessarily have an active claim or appeal)
+  3. ~General VA Information and updates~
 - Notification items should be listed alphabetically within each group
 - Source of truth: MVP notification groups and items are [captured in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
   - **Note:** Prescription shipment and tracking updates should only display for users registered at Asheville and Denver VAMCs
+ 
 
 ### Copy
 
@@ -93,6 +95,10 @@ Copy below `h1`:
 > **Note:** We have limited notification options at this time. Check back for more options in the future.
 
 ## Use cases
+
+### Veteran is not enrolled in healthcare and is not eligible for claims or appeals
+
+- Notification settings feature does not display in profile at all
 
 ### No contact info on file
 
