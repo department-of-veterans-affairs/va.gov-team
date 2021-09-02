@@ -1,3 +1,5 @@
+[Duplicaated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859616910/Contact+Center+Process+-+Insights+Analytics+Reporting)
+
 Contact Center Process - Insights & Analytics Reporting
 Note: This is an MVP process and we will continue to capture pain points as we test this out and learn what works well and what doesn't. It is intended to change as we discover what works best!
 Step One: Discover an issue
