@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1859780781/IRIS+and+SalesForce+Tracking)
+
 # IRIS and SalesForce Tracking
 
 ## Current State
