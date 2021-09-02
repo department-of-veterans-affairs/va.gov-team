@@ -1,3 +1,5 @@
+[Duplicated in Confluence](https://vfs.atlassian.net/wiki/spaces/Contact/pages/1857519866/DOMO+Monthly+Report+Survey+Synthesis)
+
 # DOMO Monthly Report Survey Synthesis
 
 From the small batch of results that were submitted, the report is not often utilized.  In reviewing the data, two of the three participants have not actually used the contact center report and merely glanced at it.  One individual who seems to use the contact center report stated that there are pros/cons either way, however, Excel is easier to filter.  This could be the lack of familiarity with DOMO, which could be remedied by a walkthrough of the system or changing access levels for the particular card (dashboard).
