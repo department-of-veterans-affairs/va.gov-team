@@ -17,3 +17,11 @@
 - "template": {
 - "title": "Apply For Pension Benefits",
 - "heading": "Apply for pension benefits",
+
+3. **"appName": "10-10CG",**
+4. "entryName": "1010cg-application-caregiver-assistance",
+- "rootUrl": "/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg",
+- "template": {
+- "title": "Caregiver Application for Benefits",
+- "vagovprod": true,
+- "vagovdev": true,
