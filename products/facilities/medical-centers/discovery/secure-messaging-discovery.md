@@ -48,3 +48,5 @@ Informational interview with secure messaging SME(s).
 - On the health care team side, there is training and onboarding they must go through before using secure messaging.
 - Secure messaging isn't for introductory purposes: a Veteran must already be registered and in contact with their health care team, and they can only communicate with health care providers they are authorized for - no contacting different people in different health systems [like for more information or second opinions].
 - Health care providers may be somewhat distrustful of more apps to use, including secure messaging, if they already have established methods.
+
+**SME:** Patricia Henry (Patricia.Henry@va.gov), secure messaging PO
