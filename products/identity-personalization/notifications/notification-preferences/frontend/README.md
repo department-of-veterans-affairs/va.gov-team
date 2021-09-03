@@ -143,8 +143,8 @@ _Mock-up link TK_
 
 - Display warning alert immediately below `h1`
 - Alert should reference the contact information that's missing
-  - Mobile number ~or
-  - Email address~
+  - Mobile number ~or~
+  - ~Email address~
 - Alert should be dismissible. 
   - If user dismisses alert, don't show it again.
   - Display the alert for [users who have notifications but haven't made a selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#user-has-notifications-for-which-they-have-not-made-a-selection)
