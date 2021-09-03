@@ -22,7 +22,7 @@ The current problems orientation faces are the following (in priority order):
 In a MURAL session with our Product Owner on 9/1, the following matrix was developed to help prioritize which problems to solve for first:
 ![image](https://user-images.githubusercontent.com/71330581/131703640-bf44ba7c-a465-45e5-bd70-f99ea4fdfb0f.png)
 
-The MVP will attempt to solve for problems #3, #8 and #10. 
+The MVP will attempt to solve for problems #2, #3, #8 and #10. 
 
 ## Personas
 - Brand new VFS teams
