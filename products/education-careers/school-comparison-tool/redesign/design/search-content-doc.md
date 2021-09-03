@@ -4,7 +4,7 @@
 
 # GI Bill Comparison Tool
 
-Use the GI Bill Comparison Tool to see how VA education benefits can pay for your education.
+Learn about and compare your GI Bill benefits at approved schools, employers, and VET TEC providers.
 
 ## Search Controls
 
@@ -14,7 +14,7 @@ Use the GI Bill Comparison Tool to see how VA education benefits can pay for you
 
 { controls }
 
-     { alphanumeric text input field, helper text "school, employer or training provider" } 
+     School, employer, or training provider (* Required) { alphanumeric text input field, helper text "school, employer or training provider" } 
 
      Search { button with magnifying glass icon }
 { end controls }
@@ -23,7 +23,7 @@ Use the GI Bill Comparison Tool to see how VA education benefits can pay for you
 
 { Search by location controls }
 
-     { alphanumeric text input field, helper text "city, state or postal code" } 
+     City, state, or postal code (* Required ) { alphanumeric text input field, helper text "city, state or postal code" } 
 
      { radius dropdown, default is "within 25 miles" }
      
@@ -168,7 +168,7 @@ Update results { button }
 
 { Search by name }
 
-Showing **XXX search results** for '**search term**' { appears above accordions }
+Showing XXX search results for "**search term**" { appears above accordions }
 
 { search cards are listed in two columns to the right of the accordions on desktop and in single file below the accordions in mobile, order is determined by closest match }
 
@@ -178,7 +178,7 @@ Showing **XXX search results** for '**search term**' { appears above accordions 
 
 { Search by location }
 
-Showing **XXX search results** for '**search term**' { appears below accordions, inside search results section }
+Showing XXX search results for "**search term**" { appears above accordions }
 
 { search cards appear in single column list beneath accordions, map appears to the right of the accordions, order is determined by closest distance }
 
