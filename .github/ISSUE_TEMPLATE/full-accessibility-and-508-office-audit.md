@@ -12,7 +12,7 @@ assignees: noahgelman, shiragoodman
 - [ ] VFS Product Manager: Create this issue and fill in your team and feature name in the title
 - [ ] VFS: Using the Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)), notify Collaboration Cycle team of this Github ticket in #vfs-platform-support. 
 - [ ] Platform: Create sub-issues attached to this epic with findings. Audits are performed on a first-come-first-serve basis and are scheduled with each biweekly sprint.
-- [ ] VFS: Send your product to VA's 508 office for approval (as applicable), and to coordinate and address accessibility findings.
+- [ ] VFS: Coordinate and address accessibility findings with VA's 508 office.
 - [ ] Platform: Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886)
 - [ ] VFS: Close this ticket when all steps above are completed.
 
@@ -27,5 +27,5 @@ OR
 ## Additional information
 VFS teams also need to send their product to VA's 508 office for approval (as applicable).
 
-Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) on Platform website for more information about the Collaboration Cycle.
+Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Full Accessibility and 508 Office Audit Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Full-accessibility-and-508-office-audit.1774846068.html) on Platform website for more information about the Collaboration Cycle.
 

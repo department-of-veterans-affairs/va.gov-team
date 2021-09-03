@@ -59,4 +59,5 @@ Please note:
 - Please select a time slot at least 4 business days from request date.
 
 ## Additional information
-Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) on Platform website for more information about the Collaboration Cycle.
+
+Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Staging Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html) on Platform website for more information about the Collaboration Cycle. 
