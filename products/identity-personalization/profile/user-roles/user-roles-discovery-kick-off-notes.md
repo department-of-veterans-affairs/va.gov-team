@@ -82,6 +82,7 @@ eBenefits
 
 #### Near term
 
+- Understanding what dependents may (or may not?) need from VA.gov. _There is a big assumption that dependents are logging in to get benefit letters, but is that true?_
 - Understanding whether or not dependents are just using VA.gov as a shopping list where they sign in and download a letter once a year and that's it?
 - Defining where on VA.gov it makes sense for dependents to be able to download their benefit letter
 - Some basic dependent-specific functionality within their account (e.g. seeing their name, personal info, etc)
@@ -136,4 +137,15 @@ eBenefits
 7. What do dependents already do online to manage their relationship with VA?
 8. Where do they do this?
 
+Product related questions
+1. Is there a product outline for this? (user roles)
+
+2. Prioritization and timeline - what is the timeline and how does this fit into our existing priorities?
+
+3. What is success for this initiative?
+
+4. We understand that the ask is to perform research. Is the intent of the research to prove (or disprove?) that the benefit letter download is _the_ thing to build, or is the research intended to discover _what_ we should build, beyond the possibility of download benefit letters feature?  
+
 ## Next steps
+1. Create document with what _we_ think they're asking for and share with them to make sure we're on the same page
+2. Track down answers to questions where possible
