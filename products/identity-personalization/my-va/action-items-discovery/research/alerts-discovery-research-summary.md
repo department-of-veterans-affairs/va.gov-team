@@ -238,7 +238,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Additional findings
 
-- Users expected the messaging link to take them directly to that specific messages, not the messaging page on MHV.
+- Users expected the messaging link to take them directly to that specific message, not the messaging page on MHV.
 - Users wanted to see a subject line in the messages alert.
 - Users mentioned the following features as missing on My VA:
   - Preferred facility/hospital
