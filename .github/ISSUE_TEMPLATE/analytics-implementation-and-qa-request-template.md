@@ -92,13 +92,17 @@ An example of a completed request template can be found [here](https://github.co
 
 > Please leave the following blank
 
-## Acceptance Criteria
+## Acceptance criteria
 - [ ] [All items of checklist have been executed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md#%EF%B8%8F-checklist-before-closing-any-ticket)
 - [ ] QA has been completed
 - [ ] Events have been added to `Product` and `Benefit Hub` Content Groups
 
 
-## Definition of Done
+## Definition of done
 - [ ] All appropriate issue tagging is completed
 - [ ] All AC completed
 - [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+
+## Additional information
+
+Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Analytics Request Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Analytics-request.1782120453.html) on Platform website for more information about the Collaboration Cycle.
