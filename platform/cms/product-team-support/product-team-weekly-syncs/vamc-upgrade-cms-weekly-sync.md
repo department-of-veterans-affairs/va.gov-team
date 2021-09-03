@@ -26,6 +26,10 @@
 Scaffolding
 - facility statuses on operating status
 
+CMS changes
+- Archiving certain content types only by content admin.
+- Deleting content only by content admin. We will make this more granular later. 
+
 Editor support tand training 
 - ongoing support
 - live Drupal training for end of September
