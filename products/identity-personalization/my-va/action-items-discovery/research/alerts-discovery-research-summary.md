@@ -54,14 +54,19 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 **1. Overall, users were very positive about the My VA and Alerts page. 8 out of 8 participants said they would use these pages and would find them very useful.** Most users specifically called out the name tag area and commented on how they liked the sections included in My VA. All users mentioned that the Alerts page design was clean and easy to understand overall. 
 
 > "It's very easy to navigate - a lot of vets worry about the process and paperwork, this make it so easy. I just scroll and see everything that I need to see."
+
 > "I like seeing my name, my branch, it gives it a personal feel."
+
 > "It's a big improvement over what it used to be, you know exactly what is going on. You know what's going on, and you haven't been forgotten."
+
 > "It'll be great whenever this does roll out, I'm excited to use it." 
 
 **2. 6 out of 8 users expressed that the My VA page should be first thing they see when they log in.** Most participants had not used the new My VA page on VA.gov. These users often scrolled through the whole My VA page unprompted and commented that they liked it broken into sections and would find it useful.
 
 > "This is perfect to see right when I log in (My VA). If this is the first page that you see - you don't have to question anything. This makes it really easy. It's like dummy proof."
+
 > I" personally wish that it would default to ...this guy right here (My VA). I'd like that first, and then maybe you have a link to another page that displays all the information on the homepage."
+
 > "If I knew this was the landing page for my VA experience - this would be my first stop shop for all my needs."
 
 **3. Many participants were surprised and excited at the level of personalization that was provided on the alerts page and My VA (even though it was a prototype and not their real information).** Many Veterans in this study mentioned that the current VA.gov experience is designed for the general Veteran population - not for them specifically. When they saw the My VA page and the alerts page, they immediately began relaying scenarios in which they would use this new personalized format. 
