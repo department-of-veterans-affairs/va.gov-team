@@ -135,7 +135,7 @@ What would you do now?
 
 - *If participant isn't scrolling, SAY:* You can scroll in the prototype, if you want to.
 
-- *RECORD if participant gets stuck w/o finding link to target content*
+- *RECORD if participant gets stuck w/o finding link to target content. "Upload evidence to support your disability claim" result has some relevant info*
 
  
 ### Task 2: [Find VA hospital in Knoxville] - 5 minutes
@@ -204,7 +204,7 @@ Because this is a limited prototype, you'll see what happens if you typed someth
 
 What would you do now?
 
-- *RECORD if participant gets stuck w/o finding link to target content*
+- *RECORD if participant gets stuck w/o finding link to target content. "VA education and training benefits" result is irrelevant*
 
  
 ## (if time) Post-Task Interview - 5 minutes
