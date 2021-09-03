@@ -16,7 +16,7 @@ The current problems orientation faces are the following:
 7. The current orientation process is not scalable.
 8. VFS teams struggle to find information shared in orientation.*
 9. (assumption) VFS teams get too much information too quickly.
-10.(assumption) VFS teams don't know what VA.gov is and how it works prior to general orientation.*
+10. (assumption) VFS teams don't know what VA.gov is and how it works prior to general orientation.*
 11. VFS Product Owners are not familiar with Platform processes and policies.
 
 In a MURAL session with our Product Owner on 9/1, the following matrix was developed to help prioritize which problems to solve for first:
