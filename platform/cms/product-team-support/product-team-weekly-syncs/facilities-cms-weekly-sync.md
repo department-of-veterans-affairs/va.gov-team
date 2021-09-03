@@ -25,6 +25,7 @@
 
 ## September 8
 
+ * Google results: no index-no follow trailing slash work - is this now doen for all known locations? will it be done automatically for newly created?
  * Features stories and event sorting 
    * What are all the scenarios that need to be accounted for? 
    * CMS proposal to only provide 3 values, and removing Featured boolean. 
