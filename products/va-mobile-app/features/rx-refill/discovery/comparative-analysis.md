@@ -96,7 +96,7 @@ Since there is a lot of information to display on a prescription we wanted to se
 	* Expires
 	* NDC
 
-![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/ITTSEJyJhFSf_4HfpDU2uaiZwlJH5jNBqx9dth6MXEc-Yo1yw081vK3py5L8Nn6zZh8bCosROEbdRHUsc5Yb-hzrHhyL1q76_aScPz_em6i6xbnpZhl0JJZ7s0Id6vud_BdC6_MR=s0.jpg)
+![ITTSEJyJhFSf_4HfpDU2uaiZwlJH5jNBqx9dth6MXEc-Yo1yw081vK3py5L8Nn6zZh8bCosROEbdRHUsc5Yb-hzrHhyL1q76_aScPz_em6i6xbnpZhl0JJZ7s0Id6vud_BdC6_MR=s0](https://user-images.githubusercontent.com/1401704/132066518-f3c1f6ae-c8ee-451b-af9d-0ab0076cfa21.jpg)
 
 #### Walgreens
 * Medication name, strength, type
@@ -112,7 +112,8 @@ Since there is a lot of information to display on a prescription we wanted to se
 	* Quantity
 	* Number of refills left
 
-![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/oGBNO-cLf40TUT8jlvD0ozjOhjReNOZNe2FRvQy0eytO4UgH1R943l1rSOyGVS3eU9xBFS0Io5ioUsm_xb0qF85hsOiNhETxbv8qH_xB8rGuD-G6cv5ZnqFFTNHKkol7yqf0658T=s0.jpg)
+![oGBNO-cLf40TUT8jlvD0ozjOhjReNOZNe2FRvQy0eytO4UgH1R943l1rSOyGVS3eU9xBFS0Io5ioUsm_xb0qF85hsOiNhETxbv8qH_xB8rGuD-G6cv5ZnqFFTNHKkol7yqf0658T=s0](https://user-images.githubusercontent.com/1401704/132067080-0ce60147-102e-4dd2-b52f-7f5b6e3e874a.jpg)
+
 
 #### Express Scripts
 * Medication name, strength, type
@@ -132,8 +133,9 @@ Since there is a lot of information to display on a prescription we wanted to se
 	* Rx expiration date
 	* Doctor
 	* Doctors phone number
+![8zfsN2TKgCGwoD3L546zJBysMQAihBFxEr9j-NMYiIrfbVHxq_G346WIDvyN9YzC9NQceV-SKr8DMraZNCLXMxRZUkffs7spJjuOSYV0S8KiGPL8pIJ5pcaZQ85w9XOe9t7u4Qm4=s0](https://user-images.githubusercontent.com/1401704/132066625-a1b69e3f-a42b-4050-8adc-a65016257018.png)
 
-![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/8zfsN2TKgCGwoD3L546zJBysMQAihBFxEr9j-NMYiIrfbVHxq_G346WIDvyN9YzC9NQceV-SKr8DMraZNCLXMxRZUkffs7spJjuOSYV0S8KiGPL8pIJ5pcaZQ85w9XOe9t7u4Qm4=s0.png)
+
 #### Capsule
 Note: screenshot is from marketing materials
 * Patient
@@ -143,7 +145,9 @@ Note: screenshot is from marketing materials
 * Status (refill processing, out of refilled)
 * Status text (We reached out to your doctor, You need to call your doctor and call button)
 
-![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/xhixjfCOr9VlLl3J5ZDIjFZGfbb8hos7waiXK0YlZvSf_kABygswA2H63npq5AUjOhbVIdRGEfwOntrN2Sw4aPG4ShagS1aeKxQhukcFMFosKsnRPWJaapdKMl-06TTwRUOqGac5=s0.jpg)
+
+![xhixjfCOr9VlLl3J5ZDIjFZGfbb8hos7waiXK0YlZvSf_kABygswA2H63npq5AUjOhbVIdRGEfwOntrN2Sw4aPG4ShagS1aeKxQhukcFMFosKsnRPWJaapdKMl-06TTwRUOqGac5=s0](https://user-images.githubusercontent.com/1401704/132066664-d971a903-a676-41bd-8f75-2bab07c21a74.jpg)
+
 
 #### Amazon Pharmacy
 Note: Screenshot is from Amazon website
@@ -160,7 +164,8 @@ Note: Screenshot is from Amazon website
 	* Supply
 	* Price
 
-![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/37mHax7k-jtP0zL4O3h5fCyvAg4p_u2B0crgZjNWUVTamN5-EzRlRGdgqqO95e18wT75Iw32p-7GLDENTsPU0HyJQF8HM3e6RbCPp2OK6zrd8x7Py5X16qHVnxWN05Av2iD7J4pB=s0.jpg)
+![37mHax7k-jtP0zL4O3h5fCyvAg4p_u2B0crgZjNWUVTamN5-EzRlRGdgqqO95e18wT75Iw32p-7GLDENTsPU0HyJQF8HM3e6RbCPp2OK6zrd8x7Py5X16qHVnxWN05Av2iD7J4pB=s0](https://user-images.githubusercontent.com/1401704/132066685-4e6e2818-2e4a-470d-960a-c42ca5dcc9d3.jpg)
+
 ### Mobile-friendly features observed
 We wanted to note any features that took advantage of the mobile device functionality.
 * Scanning barcodes or labels
@@ -174,17 +179,19 @@ We wanted to note any features that took advantage of the mobile device function
 * Walgreens and Capsule have the ability to chat with a pharmacist within the app.
 
 ### How do apps handle medication pickup or delivery?
-*![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/Nc3_B3qtCAOUp3b50OwVZ-BWTuLfLF7kAoxZh2Z5Myw66zi-f69IdgvNUTkO_p3jXgxgprRw5QHBJpHsugcyoUQytlwUvMg1xeXPrRKxVe1KfelJGV6fphvH2WBevchq3Rn36w2o=s0.png)*
 * Walgreens allows users to switch between picking up medication at a location or having it delivered.
 * Express Scripts has detailed order and shipping tracking info in the app.
 * Capsule has same-day delivery tracking. Seems similar to services like DoorDash or Uber. e.g. “James is on the way”. You can track the delivery person on a map in the app and also have the ability to message or call them.
 * Since Amazon Pharmacy is part of their app it’s assumed they have typical Amazon shipping and tracking information.
+![Nc3_B3qtCAOUp3b50OwVZ-BWTuLfLF7kAoxZh2Z5Myw66zi-f69IdgvNUTkO_p3jXgxgprRw5QHBJpHsugcyoUQytlwUvMg1xeXPrRKxVe1KfelJGV6fphvH2WBevchq3Rn36w2o=s0](https://user-images.githubusercontent.com/1401704/132066587-c4d6c6d1-2b7e-4254-b5b6-77f84b93d653.png)
 
 ### How are alerts or notifications handled?
-*![](VA%20Mobile%20Comparative%20Analysis%20Rx%20Refill/9AOsp-RqxLN65KNPlIPYqy5hmMl3bZvYI3SBdBeQgy_8VCH-YTDktSgwcZIiDn_cAryMPZX6emmP3laX7lLriTaVuwgbCOxGUlK_XWbml2ysyv6QbuKXMY2i7yZfjZPr7Nxi9xQh=s0.jpg)*
 * Walgreens has the ability to set up push, text & calls, and email notifications.
 * CVS has the ability to set up SMS text and email notifications.
 * Assumed that Amazon Pharmacy orders would also have typical Amazon notifications. 
+
+![9AOsp-RqxLN65KNPlIPYqy5hmMl3bZvYI3SBdBeQgy_8VCH-YTDktSgwcZIiDn_cAryMPZX6emmP3laX7lLriTaVuwgbCOxGUlK_XWbml2ysyv6QbuKXMY2i7yZfjZPr7Nxi9xQh=s0](https://user-images.githubusercontent.com/1401704/132066739-2ede27ea-9010-4ba3-a27c-bb1f9a142dbc.jpg)
+
 ## Takeaways
 * All the apps reviewed were fairly standard in how they displayed basic prescription drug information but varied when displaying a more detailed view.
 * All the apps displayed only key information on a prescription drug and then allowed for the user to display the additional information through a toggle or link to an additional screen.
