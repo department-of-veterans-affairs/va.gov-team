@@ -23,8 +23,13 @@
 
 ## September 3
 
+Scaffolding
 - facility statuses on operating status
+
+Editor support tand training 
 - live Drupal training for end of September
+
+Dual state and prod rollouts
 - full prod rollouts in the coming weeks
 - decommissioning dual state tugboat environments after dual state launch
 
