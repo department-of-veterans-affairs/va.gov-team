@@ -159,7 +159,6 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 * Give and receive general feedback
 * Check in on delivery
-* Raise any staffing issues
 * Bubble up generalized feedback from Retro
 * VA shares any updates, discussion on new priorities and stakeholder landscape
 
