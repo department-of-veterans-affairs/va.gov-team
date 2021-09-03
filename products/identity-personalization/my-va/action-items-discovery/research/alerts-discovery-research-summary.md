@@ -51,21 +51,40 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Overall Findings: What worked
 
-**Overall, users were very positive about the My VA and Alerts page. 8 out of 8 participants said they would use these pages and would find them very useful.**
+**1. Overall, users were very positive about the My VA and Alerts page. 8 out of 8 participants said they would use these pages and would find them very useful.** Most users specifically called out the name tag area and commented on how they liked the sections included in My VA. All users mentioned that the Alerts page design was clean and easy to understand overall. 
+
+> "It's very easy to navigate - a lot of vets worry about the process and paperwork, this make it so easy. I just scroll and see everything that I need to see."
+> "I like seeing my name, my branch, it gives it a personal feel."
+> "It's a big improvement over what it used to be, you know exactly what is going on. You know what's going on, and you haven't been forgotten."
+> "It'll be great whenever this does roll out, I'm excited to use it." 
 
 ### Alerts
 
 **1. All users were quickly and easily able to find and understand the 'Alerts' link and indicator (red dot) in the navigation.** Users understood that the red dot meant that something needed their attention and they easily understood that they could get more information if they clicked on the link. All users were able to navigate to the alerts page with no problem.
 
-> "Quote"
+> "I like the red dot, it lets me know that there's something there that I need to look at."
+> "Obviously the alerts at the top, that's helpful. The red dot automatically draws my attention to it because the column header is alerts. Obviously that tells me that something that I need to look at or needs my attention."
 
-**2. Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.** Users understood the layout and content of the page, and were easily able to talk to personal experiences where certain alerts would be helpful. 
+**2. Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.** Users understood the layout and content of the page, and were easily able to talk to personal experiences where certain alerts would be helpful.
+
+> "It's pretty great! You don't have to go to different websites to find different information, it's right here at your fingertips."
+> "I would use this page - it's all centralized, everything you need to know is in one place."
 
 **3. Users were able to easily understand the amount of information shown in an alert and how to take action on said alert (eg clicking on links inside of alerts).** Many users appreciated the level of information shown. All users understood how to get additional information if they wanted it. There was some specific details (link) that users mentioned would be helpful if they were included (e.g. subject in messages), but overall the amount of information shown seemed appropriate. 
 
+> "The amount of information is perfect - it's not too much, or too little. "
+> "It's easy to read, I like the big bold text and the date and that I can just click to get more information."
+
 **4. All users mentioned redundancy as a welcomed and important feature.** All participants mentioned that they currently receive texts and emails from the VA, and having another channel of communication would not be a bad thing. Users also mentioned that they would NOT be confused if they recieved a text about a benefit update, and then came to VA.gov and saw the exact same alert on the website. In fact, they said it would work great for them. Many users mentioned push notifications as something that would be helpful.
 
+> "When you reach my age, you can't have enough reminders."
+> "Redundancy is never a bad thing with the VA."
+> "I think the more lines of communication the better, I'm working, I'm busy - ... if your prescription is filled, I love to get a text message about it so then I could go pick up my prescription instead of coming home, logging in, and being frustrated."
+
 **5. Users want their alerts to be ordered chronologically.** 
+
+> "I'd like to see recent alerts first. That would make sense - chronological order makes the most sense."
+> "They are in sequential order so it does make sense that way too."
 
 **6.All users easily understood and liked the term 'Alerts' after they saw it.** We asked users to pick a title before they saw the prototype and there was a large array of what people mentioned. *Just a thought - if we call the page 'Notifications', it might be confusing to a user to go to notification settings and not be able to change anything about the actual 'Notifications' page.*
 
@@ -85,11 +104,15 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **1. Users expect an alerts section to be on My VA, in addition to a separate alerts page.** Many participants were excited to see My VA, and mentioned that it would make tracking benefits easier. All users understood the difference between My VA and the Alerts page. 
 
+> "Alerts are important to be on this page, it's important to keep in mind as you go through all the different pages."
+> "Its good to see this here, it's like a one-stop shop."
+
 ### Prioritization
 
-**1. Users don't expect the VA to know specifically what alerts are important to them.** Many users gave the sentiment that it depends on what is happening in a Veterans life, so a certain alert could be much more important at a certain time. Many participants gave the example of if they had a major health problem, then their appointment or messages alerts would be the most important, but if they had been waiting for their appeal hearing then that would become the most important. 
+**1. Users don't expect the VA to know specifically what alerts are important to them.** Many users gave the sentiment that it depends on what is happening in a Veterans life, so a certain alert could be much more important at a certain time. Many participants gave the example of if they had a major health problem, then their appointment or messages alerts would be the most important, but if they had been waiting for their appeal hearing then that would become the most important. *Note- users did point out the icon in the form alert made them think it was important.* 
 
-
+> "Your individual concerns - if you have a major health problem. That would be more important than any forms or an appeal. Or for some people the appeal would be the most important."
+> "What's important totally depends on what's happening in a Veterans life."
 
 ## Overall Findings: What did NOT work
 
@@ -97,23 +120,39 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **1. Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).** When asked what the difference was between 'old' and 'new', many users mentioned that an old alert would be something that they have taken action on - like a form that wasn't completed, but now is OR if an appointment has already passed. 2 participants wanted the ability to dismiss alerts themselves.  When asked to choose what they thought were the most important the two most commonly mentioned thing were the appeal hearing alert and form submission alert, followed closely by appointments. Many users mentioned knowing that their prescription had shipped was NOT important.
 
-**2. 5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page.** 
+> "If we're going to see alerts, we should only see the alerts that are active. If I've already had that appointment, then I would hope that this alert would automatically disappear after that appointment day."
+> " If I were to click on the alerts - I'd expect to see what is new and what isn't..."
 
-> "Quote"
+**2. 5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page.** The current design has a list of alerts that all look exactly the same - there was some concern about alerts getting 'lost'. Some users felt overwhelmed with the number of alerts shown with no differentiation between section or type.
 
-**3. There was some concern about alerts getting 'lost'. Some users felt overwhelmed with the number of alerts shown.** 
+> "Maybe there could be some color variation between different types of alerts, that might help break it up."
+> "If they were categorized, that woudl be really nice. If it's categorized in the same way as the homepage."
+> "Vets usually have a lot of appointments and a lot of medications... it would be SO cluttered with those that the important things might get lost." 
 
 ### My VA
 
-**1. Users were very confused about why they were seeing those specific alerts on My VA** Most users thought that the alerts shown on My VA were there because they were more important than the other alerts. 
+**1. Users were very confused about why they were seeing those specific alerts on My VA** Most users thought that the alerts shown on My VA were there because they were more important than the other alerts on the alerts page. Users thought that the VA had specifically chosen those to elevate. Only 1 user recognized that they were the most recent alerts.
 
-**2. 7 out of 8 users missed the 'View all alerts' link completely. Many users mentioned wanting it to be further up on the page and called out.** 
+> "I'm confused why it's only showing me 3 on My VA.... I guess it's just a matter of understanding how they did this... "
+> "Why would only show me 3?? I can't understand this."
+
+**2. 7 out of 8 users missed the 'View all alerts' link completely. Many users mentioned wanting it to be further up on the page and called out.** Almost all users scrolled right past this link, and if asked to go back to the alerts page they would use the link in the navigation.
+
+> "If this information is already listed in alerts - I don't think this is extremely helpful. Especially knowing I have to scroll all the way down to see the rest of my alerts. I'd prefer to just see 'View all alerts' at the top, with some kind of reminder to say I have new things to look at. OR if it's a message, maybe that could also be a hyperlink as well, maybe under 'Go to your profile'"
+> "You know where it says 'view all alerts'... I want it to stand out more- it shouldn't just be part of the page like everything else."
 
 ### Prioritization
 
-**1. Users generally wanted to be able to tell the difference between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).**
+**1. Users generally wanted to be able to easily tell the difference between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).** Users wanted to be able to quickly see what needs to be done, act on it and get off the site. The thought that the other 'notifications' were important, but much less important.
 
-**2. All users mentioned time-sensitivity as an important indicator of what is 'important'.** 
+> "Reminder is a soft notice, vs a hard notice. Like the appointment vs the application"
+> "It's more important for me to see the alerts than notifications. I ahve a lot going on - so I don't have time to like read through all of this. Or energy. I would want to know if there was a problem with my medication. If it was going to be late, I would want to know that."
+> "Some of these are more-so notifications and reminders, I think action items should be separate and called out. Like this form, this should be a separate sub task under alerts listed as action items. Maybe with another red dot - I have action items to complete. More so than just a generic notification." 
+
+**2. All users mentioned time-sensitivity or if there is an issue as a good indicator of what is 'important'.** 
+
+> "If something has a short shelf life, make it noticeable. Make it stand out, like BAM."
+> "Nothing is important until it becomes a problem."
 
 
 ## Things Veterans mentioned they'd want to see as an alert (in no specific order)
@@ -154,7 +193,8 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### My VA
 
 1. Revisit how we represent alerts on My VA.
-2. Make the link 'View all alerts' easier to find. 
+2. Make the link 'View all alerts' easier to find.
+3. Continue pursuing a more personalized homepage on VA.gov 
 
 ### Prioritization
 
