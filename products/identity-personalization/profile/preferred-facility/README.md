@@ -1,6 +1,7 @@
 # Preferred medical facilities in the VA.gov profile: Product Outline
 
-Last Updated June 8, 2021
+Last Updated September 3, 2021
+_As of July 2021, further development of this feature was put on hold due to research findings in partnership with VAOS that showed this feature would not be valuable to Veterans in its current state. The full research report can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/research-findings.md._
 
 ## POCs
 
@@ -139,6 +140,7 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 
 - This feature will live in the VA.gov profile.
 - This feature needs to co-exist/sync with the MHV version of the same feature until there's a future in which the MHV profile is retired.
+- _As of July 2021, further development of this feature was put on hold due to research findings in partnership with VAOS._
 
 ## Technical Details
 
