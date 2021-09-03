@@ -17,7 +17,7 @@ Note: some of the apps reviewed were based on their marketing materials, app scr
 * Capsule Pharmacy
 * Amazon Pharmacy (not its own app but part of the Amazon app)
 
-## Takeaways
+## Features
 ### Common features
 These are the features that were almost universal among the apps we reviewed.
 * Detailed information on medication and prescriptions
@@ -29,7 +29,7 @@ These are the features that were almost universal among the apps we reviewed.
 * Automatic refills
 * Coupons/discounts
 
-### Less common
+### Less common features
 These features were less common among the apps we reviewed.
 * Self entering other medications
 * Medication reminders (to take them)
@@ -44,7 +44,7 @@ These features were less common among the apps we reviewed.
 * Spoken RX (RFD with CVS app)
 * Long-press gestures on app icon for Rx shortcuts (scan refill, pill reminder)
 
-### Accessibility
+## Accessibility
 We did not do an accessibility audit of each app however we did check in on some common accessibility criteria, and observed inconsistent and limited consideration for accessibility in the apps we reviewed. 
 * Text resizing capabilities were inconsistent. Most apps either did not have this enabled or had very limited usage of this feature. My Chart was the exception by allowing most text to resize. Text in the Walgreens app was especially small and would have benefited from allowing users to resize and make it larger.
 * Several of the apps had color contrast issues that would have failed accessibility tests.
@@ -56,9 +56,9 @@ We did not do an accessibility audit of each app however we did check in on some
 	* Walgreens and CVS have screen reader content available but incorrect announcements. Had incorrect use of links and buttons.
 	* My Chart was not usable with a screen reader. Instead of medication names being announced it would default to announcing individual letters. There were no descriptions of actions when landing on buttons
 
-### How is medication displayed?
+## How is medication displayed?
 Since there is a lot of information to display on a prescription we wanted to see how each app chose to show summary and detailed information.
-#### My Chart
+### My Chart
 * Medication name, strength, type
 * Commonly known as 
 * Learn more links (sends to medication search)
@@ -75,7 +75,7 @@ Since there is a lot of information to display on a prescription we wanted to se
 		* Contact info and icon link to call
 <img src="https://user-images.githubusercontent.com/1401704/131918991-03088e14-50ac-404d-ab8f-b456edb8d6a6.jpg" alt="Screenshot of prescription detail in My Chart app" width="350">
 
-#### CVS
+### CVS
 * Medication name, strength, type
 * Who it’s for
 * Details
@@ -96,9 +96,9 @@ Since there is a lot of information to display on a prescription we wanted to se
 	* Expires
 	* NDC
 
-![ITTSEJyJhFSf_4HfpDU2uaiZwlJH5jNBqx9dth6MXEc-Yo1yw081vK3py5L8Nn6zZh8bCosROEbdRHUsc5Yb-hzrHhyL1q76_aScPz_em6i6xbnpZhl0JJZ7s0Id6vud_BdC6_MR=s0](https://user-images.githubusercontent.com/1401704/132066518-f3c1f6ae-c8ee-451b-af9d-0ab0076cfa21.jpg)
+<img src="https://user-images.githubusercontent.com/1401704/132066518-f3c1f6ae-c8ee-451b-af9d-0ab0076cfa21.jpg" alt="Screenshot of prescription detail in CVS app" width="350">
 
-#### Walgreens
+### Walgreens
 * Medication name, strength, type
 * Photo of medication
 * Last filled
@@ -112,10 +112,10 @@ Since there is a lot of information to display on a prescription we wanted to se
 	* Quantity
 	* Number of refills left
 
-![oGBNO-cLf40TUT8jlvD0ozjOhjReNOZNe2FRvQy0eytO4UgH1R943l1rSOyGVS3eU9xBFS0Io5ioUsm_xb0qF85hsOiNhETxbv8qH_xB8rGuD-G6cv5ZnqFFTNHKkol7yqf0658T=s0](https://user-images.githubusercontent.com/1401704/132067080-0ce60147-102e-4dd2-b52f-7f5b6e3e874a.jpg)
+<img src="https://user-images.githubusercontent.com/1401704/132067080-0ce60147-102e-4dd2-b52f-7f5b6e3e874a.jpg" alt="Screenshot of prescription detail in Walgreens app" width="350">
 
 
-#### Express Scripts
+### Express Scripts
 * Medication name, strength, type
 * Days remained
 * Patient name
@@ -133,10 +133,10 @@ Since there is a lot of information to display on a prescription we wanted to se
 	* Rx expiration date
 	* Doctor
 	* Doctors phone number
-![8zfsN2TKgCGwoD3L546zJBysMQAihBFxEr9j-NMYiIrfbVHxq_G346WIDvyN9YzC9NQceV-SKr8DMraZNCLXMxRZUkffs7spJjuOSYV0S8KiGPL8pIJ5pcaZQ85w9XOe9t7u4Qm4=s0](https://user-images.githubusercontent.com/1401704/132066625-a1b69e3f-a42b-4050-8adc-a65016257018.png)
+<img src="https://user-images.githubusercontent.com/1401704/132066625-a1b69e3f-a42b-4050-8adc-a65016257018.png" alt="Screenshot of prescription detail in Express Scripts app" width="350">
 
 
-#### Capsule
+### Capsule
 Note: screenshot is from marketing materials
 * Patient
 * Medication name
@@ -145,11 +145,10 @@ Note: screenshot is from marketing materials
 * Status (refill processing, out of refilled)
 * Status text (We reached out to your doctor, You need to call your doctor and call button)
 
+<img src="https://user-images.githubusercontent.com/1401704/132066664-d971a903-a676-41bd-8f75-2bab07c21a74.jpg" alt="Screenshot of prescription detail in Capsule app" width="350">
 
-![xhixjfCOr9VlLl3J5ZDIjFZGfbb8hos7waiXK0YlZvSf_kABygswA2H63npq5AUjOhbVIdRGEfwOntrN2Sw4aPG4ShagS1aeKxQhukcFMFosKsnRPWJaapdKMl-06TTwRUOqGac5=s0](https://user-images.githubusercontent.com/1401704/132066664-d971a903-a676-41bd-8f75-2bab07c21a74.jpg)
 
-
-#### Amazon Pharmacy
+### Amazon Pharmacy
 Note: Screenshot is from Amazon website
 * Medication name, strength, type
 * Refills remaining
@@ -164,9 +163,9 @@ Note: Screenshot is from Amazon website
 	* Supply
 	* Price
 
-![37mHax7k-jtP0zL4O3h5fCyvAg4p_u2B0crgZjNWUVTamN5-EzRlRGdgqqO95e18wT75Iw32p-7GLDENTsPU0HyJQF8HM3e6RbCPp2OK6zrd8x7Py5X16qHVnxWN05Av2iD7J4pB=s0](https://user-images.githubusercontent.com/1401704/132066685-4e6e2818-2e4a-470d-960a-c42ca5dcc9d3.jpg)
+<img src="https://user-images.githubusercontent.com/1401704/132066685-4e6e2818-2e4a-470d-960a-c42ca5dcc9d3.jpg" alt="Screenshot of prescription detail on Amazon Pharmacy website" width="350">
 
-### Mobile-friendly features observed
+## Mobile-friendly features observed
 We wanted to note any features that took advantage of the mobile device functionality.
 * Scanning barcodes or labels
 * Links to call doctors or pharmacy
@@ -174,23 +173,23 @@ We wanted to note any features that took advantage of the mobile device function
 * ID cards (iOS Wallet)
 * CVS has “Spoken Rx”. Users can ask to have RFID tags added to their prescription bottles and then use their phone to scan the tag and have their prescription information read out loud.
 
-### Did Rx work with a messaging feature?
+## Did Rx work with a messaging feature?
 * My Chart has a link to compose a new message to a provider if the prescription refill could not be refilled.
 * Walgreens and Capsule have the ability to chat with a pharmacist within the app.
 
-### How do apps handle medication pickup or delivery?
+## How do apps handle medication pickup or delivery?
 * Walgreens allows users to switch between picking up medication at a location or having it delivered.
 * Express Scripts has detailed order and shipping tracking info in the app.
 * Capsule has same-day delivery tracking. Seems similar to services like DoorDash or Uber. e.g. “James is on the way”. You can track the delivery person on a map in the app and also have the ability to message or call them.
 * Since Amazon Pharmacy is part of their app it’s assumed they have typical Amazon shipping and tracking information.
-![Nc3_B3qtCAOUp3b50OwVZ-BWTuLfLF7kAoxZh2Z5Myw66zi-f69IdgvNUTkO_p3jXgxgprRw5QHBJpHsugcyoUQytlwUvMg1xeXPrRKxVe1KfelJGV6fphvH2WBevchq3Rn36w2o=s0](https://user-images.githubusercontent.com/1401704/132066587-c4d6c6d1-2b7e-4254-b5b6-77f84b93d653.png)
+<img src="https://user-images.githubusercontent.com/1401704/132066587-c4d6c6d1-2b7e-4254-b5b6-77f84b93d653.png" alt="Screenshot of Walgreens app where a user could select delivery and pick up" width="350">
 
-### How are alerts or notifications handled?
+## How are alerts or notifications handled?
 * Walgreens has the ability to set up push, text & calls, and email notifications.
 * CVS has the ability to set up SMS text and email notifications.
 * Assumed that Amazon Pharmacy orders would also have typical Amazon notifications. 
 
-![9AOsp-RqxLN65KNPlIPYqy5hmMl3bZvYI3SBdBeQgy_8VCH-YTDktSgwcZIiDn_cAryMPZX6emmP3laX7lLriTaVuwgbCOxGUlK_XWbml2ysyv6QbuKXMY2i7yZfjZPr7Nxi9xQh=s0](https://user-images.githubusercontent.com/1401704/132066739-2ede27ea-9010-4ba3-a27c-bb1f9a142dbc.jpg)
+<img src="https://user-images.githubusercontent.com/1401704/132066739-2ede27ea-9010-4ba3-a27c-bb1f9a142dbc.jpg" alt="Screenshot of SMS text messages notifications from CVS" width="350">
 
 ## Takeaways
 * All the apps reviewed were fairly standard in how they displayed basic prescription drug information but varied when displaying a more detailed view.
@@ -198,6 +197,7 @@ We wanted to note any features that took advantage of the mobile device function
 * There was a variety of functionality and features around delivery or shipping prescriptions.
 * Several apps did not seem to take advantage of native push notifications and instead rely on email or phone for notifications.
 * There were a variety of features that would not be applicable to the VA mobile app, such as comparing drug pricing, coupons and discounts, and the ability to manage prescriptions for family members.
+* 
 ## Recommended features
 Based on the analysis we did we would recommend the following features for Rx refill in the VA mobile app. Note that these features do not take into account any technical or logistical constraints with the MHV Rx refill system. 
 * Lead with accessibility best practices. Observed limited consideration for accessibility  in other Rx apps. 
