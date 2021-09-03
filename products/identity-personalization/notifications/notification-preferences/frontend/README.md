@@ -61,9 +61,9 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
 ## Content
 
 - Notification groups should be listed the following order:
-  1. Your Health care (only visible for users who are enrolled in health care)
-  2. Applications, claims, appeals, and decision reviews (only visible for users with access to claims or appeals, not necessarily have an active claim or appeal)
-  3. ~General VA Information and updates~
+  1. Your health care (only visible for users who are enrolled in health care) 
+  3. Applications, claims, appeals, and decision reviews (visible to all users)
+  4. ~General VA Information and updates~
 - Notification items should be listed alphabetically within each group
 - Source of truth: MVP notification groups and items are [captured in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
   - **Note:** Prescription shipment and tracking updates should only display for users registered at Asheville and Denver VAMCs
