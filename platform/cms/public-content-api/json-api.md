@@ -2,7 +2,7 @@ The JSON:API will provide an API from Drupal following the https://jsonapi.org/ 
 
 Current test endpoint: 
 * https://pr6265-lkoslgyagkodlmzq41fgzass01ozbvla.ci.cms.va.gov/jsonapi
-* OpenAPI Spec: https://pr6265-lkoslgyagkodlmzq41fgzass01ozbvla.ci.cms.va.gov/openapi/jsonapi
+* V2 OpenAPI Spec: https://pr6265-lkoslgyagkodlmzq41fgzass01ozbvla.ci.cms.va.gov/openapi/vagov
 
 ## Modules Used
 
@@ -33,3 +33,7 @@ Other projects to look at:
 * https://www.contentacms.org/
 * https://github.com/contentacms/contentajs
 * https://www.drupal.org/project/jsonapi_include
+
+## OpenAPI Spec
+
+Lighthosue requires V3 of the OpenAPI spec.  The drupal modules currently only supports V2.  To help generate V3, the [swagger2openapi](https://www.npmjs.com/package/swagger2openapi] npm package is used.  The script at `./scripts/generate-open-spec.sh` can be used to generate the V3 spec.
