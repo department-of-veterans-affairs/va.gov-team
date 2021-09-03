@@ -1,0 +1,163 @@
+openapi: "3.0.2"
+info:
+  title: VA Event Stream
+  version: "0.0"
+servers:
+  - url: https://api.va.gov/services/event-stream
+paths:
+  /v0/events:
+    post:
+      description: Receives VA system published data change events that may interest a veteran.
+      The system then places events on a stream where one or more consumers filter and process them.
+      Should an event pass a consumer's rules it will trigger an action or notification.
+      Notifications may include mobile push notifications, text messages, emails, or in-browser messages.
+      security:
+        - Bearer: [ ]
+      requestBody:
+        description: The event to add to the stream.
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/EventRequest"
+            examples:
+              MHV new secure message:
+                value:
+                  eventType: NEW_MESSAGE
+                  payload:
+                    messageId: 80337bc5-7215-4b22-a20d-84330631d8b5
+                    title: Your prescription is ready
+                  sourceSystem: MHV_SECURE_MESSAGING
+                  user:
+                    icn: 1008709396V637156
+              VAOS upcoming appointment:
+                value:
+                  eventType: UPCOMING_APPOINTMENT
+                  payload:
+                    appointmentId: 80337bc5-7215-4b22-a20d-84330631d8b5
+                    datetime: 2021-08-25T16:22:58-07:00
+                    location: "VA Long Beach: Audiology"
+                  sourceSystem: VAOS
+                  user:
+                    icn: 1008709396V637156
+      responses:
+        201:
+          description: Created
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/EventResponse"
+        401:
+          description: Authentication is possible but has failed or not yet been provided.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Errors"
+        400:
+          description: Bad Request. One or more validation errors have occurred.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Errors"
+        500:
+          description: An internal API error occured.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Errors"
+
+
+components:
+  schemas:
+    EventRequest:
+      required:
+        - eventType
+        - payload
+        - sourceSystem
+        - user
+      properties:
+        eventType:
+          type: string
+          description: A constant name for a repeatable event from the source system. Naming convention follows 'contants' in C style languages; 
+          uppercase with underscores for spaces.
+          example: NEW_MESSAGE
+        payload:
+          type: object
+          description: A JSON object of data that is unique to this event type.
+          example:
+            messageId: 80337bc5-7215-4b22-a20d-84330631d8b5
+            title: Your prescription is ready
+        sourceSystem:
+          type: string
+          description: The VA system that is producing the event. Like the eventType field this should be constant and use the same naming convention.
+          example: MHV_SECURE_MESSAGING
+        user:
+          type: object
+          description: A JSON object of user traits that will be used by consumers to identify users or retrieve additional user data.
+          Currently only MPI's ICN is supported.
+          properties:
+            icn:
+              type: string
+              example: 1008709396V637156
+    EventResponse:
+      required:
+        - data
+      properties:
+        data:
+          required:
+            - id
+            - created
+          properties:
+            id:
+              type: string
+              description: The stream id returned during a successful write.
+              example: 1518951480106-0
+            created:
+              type: string
+              description: The datetime the event was written to the stream. ISO 8601 format, Zulu time zone (UTC +0).
+              example: 2021-08-25T14:59:10.000Z
+    Errors:
+      type: object
+      required:
+        - errors
+      properties:
+        errors:
+          type: array
+          items:
+            type: object
+            required:
+              - title
+              - detail
+              - code
+              - status
+            properties:
+              title:
+                type: string
+              detail:
+                type: string
+              code:
+                type: string
+              status:
+                type: string
+              source:
+                type: string
+              meta:
+                type: object
+                required:
+                  - messages
+                properties:
+                  messages:
+                    type: array
+                    items:
+                      type: object
+                      required:
+                        - key
+                        - severity
+                        - text
+                      properties:
+                        key:
+                          type: string
+                        severity:
+                          type: string
+                        text:
+                          type: string
