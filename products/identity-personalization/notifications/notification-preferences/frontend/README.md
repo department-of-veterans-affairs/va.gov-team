@@ -139,7 +139,7 @@ _Mock-up link TK_
 
 > [**Update your contact information** >](/profile/personal-information) 
 
-### Partial contact info (missing email or phone)
+### Partial contact info (missing phone)
 
 - Display warning alert immediately below `h1`
 - Alert should reference the contact information that's missing
