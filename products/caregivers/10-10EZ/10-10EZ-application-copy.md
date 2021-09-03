@@ -16,7 +16,7 @@ _(end blue box)_
 
 **1. Check your eligibility**
 
-Make sure you meet our eligibility requirements for full enrollment before you apply. 
+Make sure you meet our eligibility requirements for enrollment before you apply. 
 
 **Note:** We can help connect you with mental health care—no matter your discharge status, service history, or eligibility for VA health care. [Find out how to get mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/). 
 
