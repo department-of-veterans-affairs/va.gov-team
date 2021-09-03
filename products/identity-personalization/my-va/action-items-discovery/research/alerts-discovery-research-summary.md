@@ -112,11 +112,11 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 **1. All users were quickly and easily able to find and understand the 'Alerts' link and indicator (red dot) in the navigation.** Users understood that the red dot meant that something needed their attention and they easily understood that they could get more information if they clicked on the link. All users were able to navigate to the alerts page with no problem.
 
-SCREENSHOT
-
 > "I like the red dot, it lets me know that there's something there that I need to look at."
 
 > "Obviously the alerts at the top, that's helpful. The red dot automatically draws my attention to it because the column header is alerts. Obviously that tells me that something that I need to look at or needs my attention."
+
+![Indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/Alerts%20indicator.png)
 
 **2. Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.** Users understood the layout and content of the page, and were easily able to talk to personal experiences where certain alerts would be helpful.
 
@@ -131,8 +131,6 @@ SCREENSHOT
 > "It's easy to read, I like the big bold text and the date and that I can just click to get more information."
 
 **4. All users mentioned redundancy as a welcomed and important feature.** All participants mentioned that they currently receive texts and emails from the VA, and having another channel of communication would be welcomed. Users also mentioned that they would NOT be confused if they recieved a text about a benefit update, and then came to VA.gov and saw the exact same alert on the website. In fact, they said it would work great for them. Many users mentioned push notifications as something that would be helpful.
-
-SCREENSHOT
 
 > "When you reach my age, you can't have enough reminders."
 
@@ -174,6 +172,8 @@ SCREENSHOT
 
 > "Vets usually have a lot of appointments and a lot of medications... it would be SO cluttered with those that the important things might get lost." 
 
+![alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/Alerts%20page.png)
+
 ### Alerts section on My VA
 
 **1. Users expect an alerts section to be on My VA, in addition to a separate alerts page.** Many participants were excited to see My VA, and mentioned that it would make tracking benefits easier. All users understood the difference between My VA and the Alerts page. 
@@ -194,11 +194,11 @@ SCREENSHOT
 
 > "You know where it says 'view all alerts'... I want it to stand out more- it shouldn't just be part of the page like everything else."
 
+![My VA View All Alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/My%20VA.png)
+
 ### Prioritization
 
-**1. Users don't expect the VA to know specifically what alerts are important to them.** Many users gave the sentiment that it depends on what is happening in a Veterans life, so a certain alert could be much more important at a certain time. Many participants gave the example of if they had a major health problem, then their appointment or messages alerts would be the most important. However, if they had been waiting for their appeal hearing then that would become the most important. *Note- users did point out the icon in the form alert made them think it was important.* 
-
-SCREENSHOT
+**1. Users don't expect the VA to know specifically what alerts are important to them.** Many users gave the sentiment that it depends on what is happening in a Veterans life, so a certain alert could be much more important at a certain time. Many participants gave the example of if they had a major health problem, then their appointment or messages alerts would be the most important. However, if they had been waiting for their appeal hearing then that would become the most important. 
 
 > "Your individual concerns - if you have a major health problem. That would be more important than any forms or an appeal. Or for some people the appeal would be the most important."
 
@@ -241,9 +241,12 @@ SCREENSHOT
 - Users expected the messaging link to take them directly to that specific messages, not the messaging page on MHV.
 - Users wanted to see a subject line in the messages alert.
 - Users mentioned the following features as missing on My VA:
- - Preferred facility/hospital
- - Primary care physician
- - Primary care location 
+  - Preferred facility/hospital
+  - Primary care physician
+  - Primary care location 
+- Users pointed out the icon in the form alert as something that would make them think it was important.
+
+![icon](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/icon.png)
 
 
 ## Recommendations
@@ -317,7 +320,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 ### Pages and applications used
 
 [Mobile Prototype](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348)
-
 
 
 
