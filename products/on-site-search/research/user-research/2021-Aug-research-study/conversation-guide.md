@@ -17,7 +17,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser tabs to https://bit.ly/tasks-d and https://bit.ly/tasks-m)*
+- *Open standalone browser tabs to https://bit.ly/tasks-d and https://bit.ly/tasks-m) and save these links somewhere to paste*
 
 - *Do Not Disturb ON so no notifications*
 
