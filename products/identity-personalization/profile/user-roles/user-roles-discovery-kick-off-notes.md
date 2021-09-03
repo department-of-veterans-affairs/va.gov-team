@@ -147,5 +147,5 @@ Product related questions
 4. We understand that the ask is to perform research. Is the intent of the research to prove (or disprove?) that the benefit letter download is _the_ thing to build, or is the research intended to discover _what_ we should build, beyond the possibility of download benefit letters feature?  
 
 ## Next steps
-1. Create document with what _we_ think they're asking for and share with them to make sure we're on the same page
+1. Create project outline that documents with what _we_ think they're asking for and share with them to make sure we're on the same page
 2. Track down answers to questions where possible
