@@ -21,18 +21,36 @@
 
 </details>
 
+## September 10 
+
+Ongoing editor support processes
+
+Dual state and prod rollouts
+- full prod rollouts in the coming weeks
+- decommissioning dual state tugboat environments after dual state launch
+
 ## September 3
 
 Scaffolding
-- facility statuses on operating status
+- facility statuses on operating status - VAMC upgrade team will connect Operating Status for the remaining 10 or so systems that do not have these connections. Jane to send a list.  
 
 CMS changes
 - Archiving certain content types only by content admin.
 - Deleting content only by admin. We will make this more granular later. 
 
-Editor support tand training 
-- ongoing support
-- live Drupal training for end of September
+Google is crawling/indexing some dual state sites despite Robots.txt
+- Steve will investigate the robots.txt no-index no-follow settings, which should pre-empt sitemap.xml
+
+Editor training 
+- live Drupal training for end of September for PAOs? 
+- dates: End of September, X slots available, first-come-first-served. 
+- Dave: we need to be careful about not setting expectations that these will be available on a regular basis.
+- Jane: people who learn better in live training can self-select. And make it very targetted by topic, most problematic issues. 
+- Lisa: That's similar to what we're doing on Thursdays. Yesterday there were _80_ people.
+- Dave: The risk that people won't do training because "live training is coming" may be too great... let's stick to the targetted Thursday sessions by Lisa and Stan.   
+
+Ongoing editor support processes
+- 
 
 Dual state and prod rollouts
 - full prod rollouts in the coming weeks
