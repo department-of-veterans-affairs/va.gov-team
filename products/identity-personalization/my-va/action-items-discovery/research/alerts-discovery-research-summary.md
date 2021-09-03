@@ -145,11 +145,11 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Alerts
 
-1. Name this feature 'Notifications' or 'Alerts'. 
-2. Define what an 'old' and 'new' alert is within our technological restraints.
-3. Explore ways to represent old alerts vs new alerts.
+1. Pick a title. I recommend naming this feature 'Notifications' or 'Alerts'. 
+2. Define what an 'old' and 'new' alert is within our technological restraints and determine if it's worth the lift.
+3. Explore ways to represent old alerts vs new alerts. **This feature might NOT be included in MVP**
 4. Explore ways to add design considerations for each alert section to help with scannability (e.g. health care, claims, covid).
-5. Include the ability to sort alerts by section, date or time-sensitivity. **This feature will most likely not be included in MVP**
+5. Include the ability to sort alerts by section, date or time-sensitivity. **This feature will most likely NOT be included in MVP**
 
 ### My VA
 
@@ -161,34 +161,56 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 1. Explore ways to differentiate between things that need action vs things that do not need action.
 2. Either do a card sort or another round of research around prioritization to understand what Veterans deem 'time-sensitive'. 
 
-
-
-1. Since users wanted a differentiation between an old and new alert, we should define what an 'old' and 'new' alert is within our technological restraints.
-2. Once we have a grasp on what an 'old' alert is and what a 'new' alert is, we should explore how those can be represented.
-3. Explore ways to categorize alerts using design and content. This will help 
-4. Users asked for categories or the ability to sort their alerts. We need to figure out how much of a lift that would be to build (in old conversations with Erik, I believe this will be a pretty hefty lift). This feature will likely not be included in MVP, but we could include it on a road map to explore in the future.
-
 ## Next Steps
 
-- [ ] asdfj
+### Understand each alert in MVP
+   - [ ] Work with VA.notify and VetText to understand APIs
+   - [ ] Work with VA.notify and VetText to understand content of each alert
+   - [ ] Outline time-sensitivity/urgency of each alert
+
+### Old vs. new alert (*might NOT be in MVP)
+   - [ ] Determine what it means for an alert to be 'old' vs 'new'.
+   - [ ] Do a technical discovery to figure out if it's feasible to include in MVP or at all.
+   - [ ] Do a comparative analysis on the best ways to show this
+   - [ ] Explore ways to reflect that in the design
+
+### Section design considerations
+   - [ ] Explore design solutions for making the page more scannable
+   - [ ] Explore design solutions for making it easier to differentiate between one an alert in one section vs another
+
+### Add in the ability to sort (*might NOT be in MVP)
+   - [ ] Do a technical discovery to determine the lift of this feature
+
+### Redesign alerts on My VA
+   - [ ] Explore ways to represent alerts on My VA 
+   - [ ] Run a usability test to see if the new design is successful
+
+### Prioritization
+   - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification' 
+   - [ ] Explore ways to differentiate from a design or UX standpoint
+   - [ ] Test! Either a card sort or a usability study
+
+### Start the collab cycle
+   - [ ] Once we've made the changes outlined above, then we should start a formal collaboration cycle
+
 
 ## Appendix
 
 ### Conversation guide
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-conversation-guide.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-conversation-guide.md
 
 ### Interview transcripts
 
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/session-notes
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery/research/participant-notes
 
 ### Tools used for Synthesis
 
-[Spreadsheet]
+[Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1629486960158/8b6f559f0cc35a20d98bf6c5f462ca5f1a022840?sender=tressafurner7646)
 
 ### Pages and applications used
 
-[Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444774121_Home_Screen)
+[Mobile Prototype](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140666348)
 
 
 
