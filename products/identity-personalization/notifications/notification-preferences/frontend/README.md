@@ -105,6 +105,7 @@ _Mock-up link TK_
 ### Veteran is enrolled in health care at a participating prescription shipment tracking facility (for MVP this is Asheville or Denver)
 
 - Display Your health care notification group with appointment reminders and prescription shipment and tracking notification item
+- Display message to manage health care email notifications on [My Health*e*Vet]()
 - Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
 
 _Mock-up link TK_
@@ -112,6 +113,7 @@ _Mock-up link TK_
 ### Veteran is enrolled in health care but not at a participating prescription shipment tracking facility (for MVP this is Asheville or Denver)
 
 - Display Your health care notification group with appointment reminders only
+- Display message to manage health care email notifications on [My Health*e*Vet]()
 - Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
 
 _Mock-up link TK_
@@ -119,9 +121,9 @@ _Mock-up link TK_
 ### No mobile phone on file
 
 - Display warning alert immediately below `h1`
-- Display  
+- Display message prompting Veteran to provide their mobile phone number to receive text message notifications.
 
-[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836903/simulate/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836903/simulate/sitemap?mode=i) - _needs updating_
 
 #### Copy
 
@@ -131,7 +133,7 @@ _Mock-up link TK_
 
 **Alert Body**
 
-> We don’t have your contact email address or mobile phone number. To manage your notification settings, first update your contact information.
+> We don’t have your contact ~email address or~ mobile phone number. To manage your notification settings, first update your contact information.
 
 **Alert Link** (use [active link style](https://design.va.gov/design/typography#links) with right chevron)
 
@@ -141,8 +143,8 @@ _Mock-up link TK_
 
 - Display warning alert immediately below `h1`
 - Alert should reference the contact information that's missing
-  - Mobile number or
-  - Email address
+  - Mobile number ~or
+  - Email address~
 - Alert should be dismissible. 
   - If user dismisses alert, don't show it again.
   - Display the alert for [users who have notifications but haven't made a selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#user-has-notifications-for-which-they-have-not-made-a-selection)
