@@ -24,8 +24,7 @@ The following data will come through VA Profile's API
 
 **Show**
 
-- ~We will always show this section.~
-- The Notification Settings feature will only appear for Veterans who are enrolled in healthcare _or_ who are eligible to have claims _or_ who are eligible to have appeals.
+- We will always show this section.
 - Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i))
 
 ## URL
