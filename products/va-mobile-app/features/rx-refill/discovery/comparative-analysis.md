@@ -184,7 +184,6 @@ We wanted to note any features that took advantage of the mobile device function
 * Walgreens has the ability to set up push, text & calls, and email notifications.
 * CVS has the ability to set up SMS text and email notifications.
 * Assumed that Amazon Pharmacy orders would also have typical Amazon notifications. 
-
 <img src="https://user-images.githubusercontent.com/1401704/132066739-2ede27ea-9010-4ba3-a27c-bb1f9a142dbc.jpg" alt="Screenshot of SMS text messages notifications from CVS" width="350">
 
 ## Takeaways
@@ -193,7 +192,7 @@ We wanted to note any features that took advantage of the mobile device function
 * There was a variety of functionality and features around delivery or shipping prescriptions.
 * Several apps did not seem to take advantage of native push notifications and instead rely on email or phone for notifications.
 * There were a variety of features that would not be applicable to the VA mobile app, such as comparing drug pricing, coupons and discounts, and the ability to manage prescriptions for family members.
-* 
+
 ## Recommended features
 Based on the analysis we did we would recommend the following features for Rx refill in the VA mobile app. Note that these features do not take into account any technical or logistical constraints with the MHV Rx refill system. 
 * Lead with accessibility best practices. Observed limited consideration for accessibility  in other Rx apps. 
@@ -216,4 +215,3 @@ Based on the analysis we did we would recommend the following features for Rx re
 * Push notifications for reminders and status changes
 * Long-press gestures for shortcuts in iOS
 * In the future, if we ever have proxy accounts for caregivers consider “family” medication management
-
