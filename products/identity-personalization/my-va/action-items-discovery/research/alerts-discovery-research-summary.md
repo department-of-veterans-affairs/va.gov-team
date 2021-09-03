@@ -277,6 +277,10 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Work with VA.notify and VetText to understand content of each alert
    - [ ] Outline time-sensitivity/urgency of each alert
 
+### Figure out how to incorporate an alerts link into the navigation
+   - [ ] Explore ways to show an Alerts link in the navigation
+   - [ ] Work with the appropriate parties to get it implemented
+
 ### Old vs. new alert (*might NOT be in MVP)
    - [ ] Determine what it means for an alert to be 'old' vs 'new'.
    - [ ] Do a technical discovery to figure out if it's feasible to include in MVP or at all.
@@ -290,17 +294,19 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Add in the ability to sort (*might NOT be in MVP)
    - [ ] Do a technical discovery to determine the lift of this feature
 
-### Redesign alerts on My VA
+### Redesign the alerts section on My VA
    - [ ] Explore ways to represent alerts on My VA 
-   - [ ] Run a usability test to see if the new design is successful
 
 ### Prioritization
    - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification' 
-   - [ ] Explore ways to differentiate from a design or UX standpoint
-   - [ ] Test! Either a card sort or a usability study
+   - [ ] Run a card sort to determine which alerts qualify as time sensitive or an unexpected problem
+   - [ ] Explore ways to differentiate from a design and UX standpoint
 
 ### Start the collab cycle
    - [ ] Once we've made the changes outlined above, then we should start a formal collaboration cycle
+
+### Test
+   - [ ] Run a usability study to understand if we're on the right track
 
 
 ## Appendix
