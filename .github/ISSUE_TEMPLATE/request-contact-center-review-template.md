@@ -40,3 +40,8 @@ Please review the Self-service Product Guide Template [link](https://github.com/
 - [ ] Platform: Contact Center QA has been completed 
 - [ ] Platform: Contact Center sends artifacts to appropriate contact centers
 - [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+
+
+## Additional information
+
+Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Contact-center-review.1782317061.html) or the [Contact Center Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Contact-center-review.1782317061.html) on Platform website for more information about the Collaboration Cycle.
