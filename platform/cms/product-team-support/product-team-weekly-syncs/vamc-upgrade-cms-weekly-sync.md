@@ -28,7 +28,7 @@ Scaffolding
 
 CMS changes
 - Archiving certain content types only by content admin.
-- Deleting content only by content admin. We will make this more granular later. 
+- Deleting content only by admin. We will make this more granular later. 
 
 Editor support tand training 
 - ongoing support
