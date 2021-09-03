@@ -27,6 +27,7 @@ Scaffolding
 - facility statuses on operating status
 
 Editor support tand training 
+- ongoing support
 - live Drupal training for end of September
 
 Dual state and prod rollouts
