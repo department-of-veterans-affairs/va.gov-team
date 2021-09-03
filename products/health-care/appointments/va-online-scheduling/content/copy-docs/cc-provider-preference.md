@@ -41,7 +41,7 @@ Show providers closest to
 {Your home address, Your current location, {registered site city, state}}
 
 - {provider name}<br>
-{city, ST}<br>
+{provider address}<br>
 {distance} miles
 
 #### No Home Address on File
@@ -53,5 +53,5 @@ Show providers closest to
 Note: To show providers near your home, you need to add your home address to [your VA profile](link).
 
 - {provider name}<br>
-{city, ST}<br>
+{provider address}<br>
 {distance} miles
