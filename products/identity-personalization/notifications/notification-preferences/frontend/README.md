@@ -11,13 +11,13 @@
 
 This section of profile allows users to:
 
-- Manage text and email notification preferences.  
+- Manage text ~and email~ notification preferences (for MVP notification items are limited to text messages only)  
 - Review the contact info where notifications will be sent, when we have that information on file.
 
 The following data will come through VA Profile's API
 
 - Notification types (appointment reminder, claim update, etc)
-- Channels (text/email), groups (e.g. health care
+- Channels (text/~email~), groups (e.g. health care)
 - User settings (null, true, false) will come through
 
 ## When/where to show the notification preferences section
@@ -59,7 +59,7 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
 
 ## Content
 
-- Notification groups should be listed the following order:
+- Notification groups should be listed in the following order:
   1. Your health care (only visible for users who are enrolled in health care) 
   3. Applications, claims, appeals, and decision reviews (visible to all users)
   4. ~General VA Information and updates~
@@ -78,7 +78,7 @@ Copy below `h1`:
 
 > We’ll use the contact information from your profile to send you the notifications you choose: 
 >
-> - **user email** [Update email](/profile/personal-information#edit-contact-email-address)
+> ~- **user email** [Update email](/profile/personal-information#edit-contact-email-address)~
 > - **user mobile phone** [Update mobile phone](/profile/personal-information#edit-mobile-phone-number)
 
 #### **Notification groups, channels, and items**
@@ -95,14 +95,31 @@ Copy below `h1`:
 
 ## Use cases
 
-### Veteran is not enrolled in healthcare and is not eligible for claims or appeals
+### Veteran is not enrolled in healthcare
 
-- Notification settings feature does not display in profile at all
+- Hide Your health care notification group
+- Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
 
-### No contact info on file
+_Mock-up link TK_
+
+### Veteran is enrolled in health care at a participating prescription shipment tracking facility (for MVP this is Asheville or Denver)
+
+- Display Your health care notification group with appointment reminders and prescription shipment and tracking notification item
+- Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
+
+_Mock-up link TK_
+
+### Veteran is enrolled in health care but not at a participating prescription shipment tracking facility (for MVP this is Asheville or Denver)
+
+- Display Your health care notification group with appointment reminders only
+- Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
+
+_Mock-up link TK_
+
+### No mobile phone on file
 
 - Display warning alert immediately below `h1`
-- Hide notifications + groups
+- Display  
 
 [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836903/simulate/sitemap?mode=i)
 
