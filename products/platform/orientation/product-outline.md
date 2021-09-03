@@ -6,7 +6,7 @@
 *When a new VFS team joins or a new person joins a VFS team, Platform conducts platform orientation (a series of meetings and reading material) to introduce VFS teams to processes, standards and expectations of developing on platform.*
 
 ## Problem Statement
-The current problems orientation faces are the following (in priority order):
+The current problems orientation faces are the following:
 1. VFS teams struggle with retaining information shared in Orientation. 
 2. There is no reliable process for Platform to be notified of new VFS team members.*
 3. It is challenging to keep the content in the slide decks up to date.* 
