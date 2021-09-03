@@ -25,6 +25,8 @@
 
 - facility statuses on operating status
 - live Drupal training for end of September
+- full prod rollouts in the coming weeks
+- decommissioning dual state tugboat environments after dual state launch
 
 ## August 27, 2021
 
