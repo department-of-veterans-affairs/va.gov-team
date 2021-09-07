@@ -10,7 +10,7 @@ Listed here are various analytics to help drive research planning.
 
 ### Veteran demographics 
 (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
-- In 2018, there were approximately 18M Veterans in the U.S. Half of these are considered VA Veterans, meaning they receive benefits through VA. (This number is decreasing.)
+- In 2018, there were approximately 18M Veterans in the U.S. Half of these received benefits through VA. (This number is decreasing.)
 - In 2017, the median age of male Veterans was 64, while the median age of female Veteran was 48.
 - In 2018, 9% of Veterans were women. (This number is increasing.)
   - In 2017, 9.6% of users of VA services were women. Of female Veterans, 50% use VA services (compared to 49% utilization for male Veterans).
@@ -20,12 +20,12 @@ Listed here are various analytics to help drive research planning.
 -  Benefit enrollment: In 2017, 9.8M (about 50%) of all Veterans were enrolled in at least 1 VA service.
   -  And in general, Veterans aged 25-34 and 65+ were most likely to use VA benefits.
 -  Disability: In 2018, 24% of Veterans had a service-connected disability (an injury, disease, or disability either caused or aggravated by active duty).
-  -  In 2017, 707,000 Veterans had a service-connected disability rating of 100%.
-  - 30% of Veterans have an American Community Survey-defined disability. There are likely many more disabled Vets that are not identified, in part due to military culture.
-  - 43% of Post-9/11 veterans have a service-connected disability – significantly higher than Veterans from other periods. Advances in battlefield medicine and rapid evacuations have resulted in more Veterans surviving wounds, but an **increase in invisible injuries like Traumatic Brain Injury (TBI).**
-  - **The most common disabilities include hearing loss, PTSD, scars, back and neck pain, and migraines.**
-  - There are **158,000 legally blind veterans, with 7,000 veterans newly blind or visually impaired each year.**
--  **In 2019, 5.38M Veterans and survivors received disability compensation.** Benefits include Disability Compensation, DIC (Dependent and Indemnity Compensation, also called Death benefit), and SMC (Special Monthly Comp).
+  -  707,000 Veterans had a service-connected disability rating of 100% (2017).
+  -  43% of Post-9/11 veterans had a service-connected disability – significantly higher than Veterans from other periods. Advances in battlefield medicine and rapid evacuations have resulted in more Veterans surviving wounds, but an increase in invisible injuries like Traumatic Brain Injury (TBI).
+  -  The most common disabilities included hearing loss, PTSD, scars, back and neck pain, and migraines.
+  -  There were 158,000 legally blind veterans, with 7,000 veterans newly blind or visually impaired each year.
+  -  There were likely many more disabled Vets not identified, in part due to military culture.
+  -  In 2019, 5.38M Veterans and survivors received disability compensation. Benefits include Disability Compensation, DIC (Dependent and Indemnity Compensation, also called Death benefit), and SMC (Special Monthly Comp).
 
 ### VA.gov baseline wayfinding research  (Spring 2021)
 - [VA.gov baseline wayfinding research full readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-longer-June7.pdf) — This study included top tasks that could be completed on VA.gov without signing in; it did not include tasks that directed users to My HealtheVet. 
