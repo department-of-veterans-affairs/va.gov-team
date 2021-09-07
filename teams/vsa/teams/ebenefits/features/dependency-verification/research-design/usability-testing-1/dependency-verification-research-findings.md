@@ -46,7 +46,7 @@ We recruited a 8 participants for a total of 6 fulfilled sessions. All participa
 - Assistive tech: 0
 
 ### Research Questions
-- What are users reactions to the appearance of the intercept modal? Do they understand what is happening?
+- What are users' reactions to the appearance of the intercept modal? Do they understand what is happening?
 - Why do participants think they're being asked to confirm their dependents? Do they know what could happen if their dependents list is not up to date?
 - What do users think happens when they click and choose the "confirm" path?
 - Can participants identify their options when they click and choose the "change" path?
