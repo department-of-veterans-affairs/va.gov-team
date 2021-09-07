@@ -6,13 +6,14 @@ Candy Clark (candy.clark@gcio.com), James Adams (james.adams@gcio.com), 09/03/20
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-research-plan.md).
 ## Research Goals 
 
-The primary goal of this study was to assess the effectivness of the intercept modal in prompting users to verify or update their dependents. Secondarily, we wanted to asses:
-- User acceptance of the modal inteception method
+The primary goal of this study was to assess the effectiveness
+ of the intercept modal in prompting users to verify or update their dependents. Secondarily, we wanted to assess:
+- User acceptance of the modal interception method
 - How easily users located the option to add or remove dependents
 - How clear and helpful the text was
 - If the user understood what their next steps were
 
-OCTO-DE goals that this supports are:
+OCTO-DE goals that this research supports are:
 - Logged-in users have a personalized experience, with relevant and time-saving features
 - Logged-in users can update their personal information easily and instantly
 - Usage of digital, self-service tools
