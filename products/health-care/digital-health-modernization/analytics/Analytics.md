@@ -17,9 +17,11 @@ Listed here are various analytics to help drive research planning.
 
 ### VA benefit usage 
 (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
--  Benefit enrollment: In 2017, 9.8M (about 50%) of all Veterans were enrolled in at least 1 VA service.
-  -  And in general, Veterans aged 25-34 and 65+ were most likely to use VA benefits.
--  Disability: In 2018, 24% of Veterans had a service-connected disability (an injury, disease, or disability either caused or aggravated by active duty).
+-  **Benefit enrollment:**
+  - In 2017, 9.8M (about 50%) of all Veterans were enrolled in at least 1 VA service.
+  - In general, Veterans aged 25-34 and 65+ were most likely to use VA benefits.
+-  **Disability:** 
+  -  In 2018, 24% of Veterans had a service-connected disability (an injury, disease, or disability either caused or aggravated by active duty).
   -  707,000 Veterans had a service-connected disability rating of 100% (2017).
   -  43% of Post-9/11 veterans had a service-connected disability – significantly higher than Veterans from other periods. Advances in battlefield medicine and rapid evacuations have resulted in more Veterans surviving wounds, but an increase in invisible injuries like Traumatic Brain Injury (TBI).
   -  The most common disabilities included hearing loss, PTSD, scars, back and neck pain, and migraines.
