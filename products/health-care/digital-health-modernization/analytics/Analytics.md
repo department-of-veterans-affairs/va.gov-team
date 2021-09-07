@@ -17,8 +17,8 @@ The demographics data comes from the U.S. Census.
 
 ### Analytics on top tasks for research planning for the health apartment (Sept. 2021)
 - [Top tasks (pageviews) for modernized pages (Sept. 6, 2020 to Sept. 6, 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200906&_u.date01=20210906&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_.useg=builtin1/) — Top tasks included (in order):
-  - VA.gov homepage
-  - Track claims / your claims (/track-claims/index.html)
+  - [VA.gov homepage](https://www.va.gov/)
+  - [Track claims / your claims](https://www.va.gov/track-claims/index.html)
   - Facilities page (/facilities/index.html?XXX) — Old URL? 
   - Claim or appeal status (/claim-or-appeal-status/index.html?postlogin=true)
   - COVID-19 screen
