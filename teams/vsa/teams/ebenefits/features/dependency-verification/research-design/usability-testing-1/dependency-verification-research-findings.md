@@ -78,6 +78,14 @@ We recruited 8 participants for a total of 6 fulfilled sessions. All participant
 
 ## Additional Insights
 - All participants were able to link to the Add or Remove Dependents page but were overwhelmed by the subway map. They noted the overall text was too much, but there was no information on removing a dependent. One also noted that the time to complete was too much just to remove someone.
+<details>
+ 
+  <summary>Click to see screenshot</summary>
+ 
+ ![Screen Shot 2021-05-18 at 10 17 59 AM](https://user-images.githubusercontent.com/84141672/132413108-de13b702-a800-4c10-a802-f9c84b899c9c.png)
+ 
+</details>
+
 - Participants expected that they could go back to their list of dependents to see that a dependent had been removed. Most expected that this would be immediate, but some would take additional steps such as logging out and back in to verify the change “took”. A couple also expected to get a letter in the mail because “letters are how VA communicates”.
 - Participants generally did not think of the verify button or removing a dependent as submitting a form. After probing, one participant said, “Well, I hadn’t thought about it, but it makes sense because the VA runs on forms.” and another said, “No, I’m doing this online so I don’t have to fill out a form."
 - The modal took a long time to display after participants moved to the “view” page.
