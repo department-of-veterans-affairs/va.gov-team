@@ -14,20 +14,25 @@ Access requests (specifically those involving SOCKS), are currently done the fol
 5. The oncall ops member merges the PR and SOCK access is fully granted
 
 Some common pitfalls exist in this process that could be handled by automation. This would act as a win-win scenrio for
-access requestors and for oncall ops members.
+access requesters and for oncall ops members.
 
 ## Motivations
-The curernt process of manually monitoring access request tickets & manually generating access request pull requests
-has a number of downsides:
+Due to how "manual" the process is, there's a number of downsides - both for platform team members and access requester:
 
-1. Increased Wait Times for Requestors
-2. Context Switching for Oncall Engineers
-3. Social Engineering Security Risk
+1. Increased wait times for requesters
+2. Increassed context switching for oncall engineers
+3. Social engineering security risks
 
 ## Security Concerns
 `va.gov-team` (where access requests originate) is a public GitHub repo - anyone
-with a GH account may open a SOCKS access request. It's up to the oncall operations member to **remember**
-to verify that the requestor is a member of the `department-of-veterans-affairs` GH organization.
+with a GH account may open a SOCKS access request. It's up to the oncall operations member to
+verify that the requester is a member of the `department-of-veterans-affairs` GH organization.
+
+The oncall member might:
+
+- forget to verify entirely
+- make a mistake while verifying
+- be tricked by a malicious user who spoofed their membership
 
 ## Perceived Gatekeeping
 The operations team does not act as "Gatekeepers" to who gets SOCKS access. That job is left to 
@@ -36,12 +41,11 @@ provides the mechanism to issue said SOCKS access.
 
 When others perceive the ops team to be acting as gatekeepers, it can result in:
 
-1. Resentment/frustration from SOCKS access requestors
-2. A false sense of security for those who assume operations is vetting requestors
+1. Resentment/frustration from SOCKS access requesters
+2. A false sense of security for those who assume operations is vetting requesters
 
 ## Design
 
-### Automated Validations
 A github workflow that triggers upon creation of an access request. The workflow exits early if:
 
 - The opened GH issue is not an access request of SOCKS
@@ -88,5 +92,5 @@ Instead of opening the PR automatically, the GH workflow would notify a slack ch
 
 **Cons**
 - still requires _some_ context switching for ops members
-- still requires _some_ wait times for requestors
+- still requires _some_ wait times for requesters
 
