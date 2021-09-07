@@ -89,7 +89,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### June 1-8: VAOS facility preferences generative research / VA.gov profile facility settings usability research
 *Collaborative study: VAOS (Peter Russo) and Authenticated Experience (Liz Lantz)*
 - Number of participants: 9
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research/topline-summary.md)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research)
 - Keywords: preferences, saved facilities, health facilities, health care, online scheduling, making an appointment, facility registrations, primary care
 
 #### June 1st: Virtual Agent Proof of Concept 
