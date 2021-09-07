@@ -53,6 +53,7 @@ We would like to work with Perigean to recruit for 13 fulfilled remote sessions.
 - At least 10 Veterans
 - At least 2 Power of attorney (POA) but no more than 3
 - At least 9 people with a disability rating of 50% or higher (Please be mindful that the prototype is not accesibility for folks using most types of assistive tech, eg. screenreaders)
+- At least 2 people with a disability rating of less than 50% but no more than 3
 - At least 4 people over the age of 55
 - All participants must participate using a laptop or desktop (the prototype is not functional on mobile or tablet devices)
 - All participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom
@@ -84,7 +85,9 @@ September 3     | 10:30am-6pm EST
 September 7     | 8am-5pm EST
 September 8     | 8am-3:30pm EST
 September 9     | 8am-4pm EST
-
+September 10     | 8am-10am and 1pm-4pm EST
+September 13     | 8am-5pm EST
+September 14     | 8am-4pm EST
 
 
 Pilot Session: August 31, 2021 | 3:30pm-5pm EST 	
