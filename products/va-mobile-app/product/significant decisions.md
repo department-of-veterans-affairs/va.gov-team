@@ -541,6 +541,37 @@ TBA
 ### When, or under what conditions, would you recommend revisiting this design decision?
 We will review this decision upon app store release and additional testing of this language in both the Google Play Store (where we can A/B test language about the app in the app store).
 
+# Decision name: Scale now with legacy credentials and existing stack
+Today, the mobile app's login process is not performant or user-centered. While VA's overall identity strategy will eventually improve this, we will not wait to scale up traffic to the app until these VA makes these improvements. 
+
+We had two main concerns: scaling the app with a bad login experience, and driving users to the app with legacy credentials that we'd stop supporting, forcing them to migrate credentials. We hoped that the early stage of mobile's product maturity gave us an opportunity to push VA's identity strategy forward and improve our users' experiences. However, for the reasons 
+
+VA's identity strategy includes removing MHV and DS Logon as credential types in favor of id.me and Login.gov, which are more modern and secure. VA also plans to replace the existing underlying technology with a AWS Cognito. Our main concern was scaling the app with
+
+## What did you decide on?
+Scale now with legacy credentials and 
+
+## Document the people who agreed to the design decision (and their roles on the project)
+- Leanna Miller (product owner)
+- Travis Newby (engineering lead - gov)
+- Patrick Vinograd (backend engineer)
+- Patrick Saxton (engineering lead - vendor)
+- Ambike Roos (product lead - vendor)
+- Alastair Dawson (backend engineer)
+
+## What was the deciding factor for your decision?
+- Desire and overall strategic value to scaling earlier 
+- Risk involved in removing support for 2/3 of our user base's credentials - they may never come back 
+- Too many dependencies on other teams means too much uncertainty in the timeline for marketing, PR, stakeholder management, etc 
+- Too much complexity in migrating credentials; we need much more robust user research, change management, design time to be able to do this in a human centered way 
+
+
+## What other options did you consider?
+- Wait for Login.gov 
+- Replace initial login page with one that VA.gov controls to improve user experience 
+
+## When, or under what conditions, would you recommend revisiting this design decision?
+E.g., after usability testing, after launch when metrics or analytics equal X, etc.
 
 
 
