@@ -1,7 +1,7 @@
 # Profile Release Notes
 Last update: September 7, 2021
 
-This document intends to track updates to Profile at a high level so that other teams who leverage functionality on Profile are aware of changes. The Authenticated Experience team intends to update this page on a quarterly basis.
+This document tracks updates to Profile so that other teams who leverage functionality on Profile are aware of changes. The Authenticated Experience team intends to update this page on a quarterly basis.
 
 ## Q3 2021 Updates
 
