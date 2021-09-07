@@ -17,10 +17,13 @@ Listed here are various analytics to help drive research planning.
 
 ### VA benefit usage 
 (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
+
 **Benefit enrollment:**
 - In 2017, 9.8M (about 50%) of all Veterans were enrolled in at least 1 VA service.
+- In 2017, the most-used VA benefits are healthcare and disability compensation.
+  - 76% of VA users receive healthcare and/or disability compensation.
 - In general, Veterans aged 25-34 and 65+ were most likely to use VA benefits.
-- 
+
 **Disability:** 
 - In 2018, 24% of Veterans had a service-connected disability (an injury, disease, or disability either caused or aggravated by active duty).
 - 707,000 Veterans had a service-connected disability rating of 100% (2017).
