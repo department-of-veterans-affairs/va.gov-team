@@ -19,8 +19,12 @@ Related documentation:
 #### My Chart
 My Chart is a medical app that lets patients access their medical records and providers. 
 
+<img src="https://user-images.githubusercontent.com/1401704/132398320-7eaddfab-852c-40b8-afc1-a1b13b1bbc65.png" alt="Screenshot of home screen of My Chart app" width="250"> 
+
 #### Starbucks
 The Starbucks app lets users place orders at their retail stores and track rewards.
+
+<img src="https://user-images.githubusercontent.com/1401704/132398468-1b72cc6d-e2f6-43da-b761-d8cefb427033.jpg" alt="Screenshot of home screen of Starbucks app" width="250">
 
 #### What we learned
 * 2FA worked similarly in both apps.
@@ -47,8 +51,12 @@ The Starbucks app lets users place orders at their retail stores and track rewar
 #### Merrill Edge
 The Merrill Edge app gives users access to their investment accounts.
 
+<img src="https://user-images.githubusercontent.com/1401704/132398667-74f4caa7-39be-4009-a92a-296d7f0dc473.png" alt="Screenshot of home screen of Merrill Edge app" width="250">
+
 #### Aetna
 The Aetna app allows users to access their health insurance benefits.
+
+<img src="https://user-images.githubusercontent.com/1401704/132398755-a79e772d-457b-4d08-a986-0393d98f1bb0.jpg" alt="Screenshot of home screen of Aetna app" width="250">
 
 #### What we learned
 * Neither app allowed for login via email instead of username.
@@ -71,11 +79,16 @@ The Aetna app allows users to access their health insurance benefits.
 * Reduce barriers from using the app once logged in, like forcing users to update profiles.
 
 ### Web Login
+
 #### Target
 The Target app lets users shop at Target's online or retail stores.
 
+<img src="https://user-images.githubusercontent.com/1401704/132398948-432bcb97-ee06-404e-b21e-c6a62fbaddfd.png" alt="Screenshot of home screen of Target app" width="250">
+
 #### Google Drive
 Google Drive gives users access to their file storage account.
+
+<img src="https://user-images.githubusercontent.com/1401704/132398969-a6471f3d-dd61-474b-a7ad-b7887d8c930e.jpg" alt="Screenshot of home screen of Google Drive app" width="250">
 
 #### What we learned
 * Target app had a significant portion of the app available without logging in.
@@ -104,8 +117,12 @@ Google Drive gives users access to their file storage account.
 #### DoorDash
 The DoorDash app allows users to browse and order items for local delivery.
 
+<img src="https://user-images.githubusercontent.com/1401704/132399014-fab5b0df-58e8-49ed-9cf5-b118e057cc61.png" alt="Screenshot of home screen of Door Dash app" width="250">
+
 #### Airbnb
 The Airbnb app lets users browse, book, and manage vacation room or home rentals.
+
+<img src="https://user-images.githubusercontent.com/1401704/132399043-c03b6d35-80da-4abd-9712-bdf628da5ea1.png" alt="Screenshot of home screen of Airbnb app" width="250">
 
 #### What we learned
 * DoorDash allowed for single sign on using Facebook, Google, and Apple. It seemed preferred as it was at the top of the screen above the sign in form.
@@ -135,8 +152,12 @@ The Airbnb app lets users browse, book, and manage vacation room or home rentals
 #### USPS
 The USPS app lets users access tools and services from the United States Post Office.
 
+<img src="https://user-images.githubusercontent.com/1401704/132399095-42716f9b-42e7-4289-8763-3181f74accf1.jpg" alt="Screenshot of home screen of USPS app" width="250">
+
 #### Login.gov (developer sandbox website)
 Login.gov aims to provide simple and secure login and identity verification for participating government websites.
+
+<img src="https://user-images.githubusercontent.com/1401704/132399155-3233752a-cd66-4948-a38e-050bdd58794a.jpg" alt="Screenshot of home screen of Login.gov mobile website" width="250">
 
 #### What we learned
 * Could not finish identity verification on USPS due to eligibility issues with the mailing address. Did go through the entire process before the app indicated that the mailing address was ineligible to use the service.
