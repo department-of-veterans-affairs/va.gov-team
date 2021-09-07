@@ -2,8 +2,8 @@
 
 ## Relevant links
 
-- [Mobile designs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948765/simulate/sitemap?mode=i) 
-- [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i)
+- [Mobile designs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141694444/simulate/sitemap?mode=i) 
+- [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756016/simulate/sitemap?mode=i)
 - [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i) 
 - [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md)
 
@@ -11,13 +11,13 @@
 
 This section of profile allows users to:
 
-- Manage text ~and email~ notification preferences (for MVP notification items are limited to text messages only)  
+- Manage text and email notification preferences.  
 - Review the contact info where notifications will be sent, when we have that information on file.
 
 The following data will come through VA Profile's API
 
 - Notification types (appointment reminder, claim update, etc)
-- Channels (text/~email~), groups (e.g. health care)
+- Channels (text/email), groups (e.g. health care
 - User settings (null, true, false) will come through
 
 ## When/where to show the notification preferences section
@@ -59,14 +59,12 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
 
 ## Content
 
-- Notification groups should be listed in the following order:
-  1. Your health care (only visible for users who are enrolled in health care) 
-  3. Applications, claims, appeals, and decision reviews (visible to all users)
-  4. ~General VA Information and updates~
+- Notification groups should be listed the following order:
+  1. Your Health care (only visible for users with health care)
+  2. Applications, claims, appeals, and decision reviews
 - Notification items should be listed alphabetically within each group
 - Source of truth: MVP notification groups and items are [captured in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-configuration.md)
   - **Note:** Prescription shipment and tracking updates should only display for users registered at Asheville and Denver VAMCs
- 
 
 ### Copy
 
@@ -78,7 +76,6 @@ Copy below `h1`:
 
 > We’ll use the contact information from your profile to send you the notifications you choose: 
 >
-> ~- **user email** [Update email](/profile/personal-information#edit-contact-email-address)~
 > - **user mobile phone** [Update mobile phone](/profile/personal-information#edit-mobile-phone-number)
 
 #### **Notification groups, channels, and items**
@@ -95,35 +92,12 @@ Copy below `h1`:
 
 ## Use cases
 
-### Veteran is not enrolled in healthcare
-
-- Hide Your health care notification group
-- Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
-
-_Mock-up link TK_
-
-### Veteran is enrolled in health care at a participating prescription shipment tracking facility (for MVP this is Asheville or Denver)
-
-- Display Your health care notification group with appointment reminders and prescription shipment and tracking notification item
-- Display message to manage health care email notifications on [My Health*e*Vet]()
-- Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
-
-_Mock-up link TK_
-
-### Veteran is enrolled in health care but not at a participating prescription shipment tracking facility (for MVP this is Asheville or Denver)
-
-- Display Your health care notification group with appointment reminders only
-- Display message to manage health care email notifications on [My Health*e*Vet]()
-- Display Applications, claims, appeals, and decision reviews notification group and BVA appeals hearing reminder notification item; with message to provide mobile phone to receive text message notifications
-
-_Mock-up link TK_
-
-### No mobile phone on file
+### No contact info on file
 
 - Display warning alert immediately below `h1`
-- Display message prompting Veteran to provide their mobile phone number to receive text message notifications.
+- Hide notifications + groups
 
-[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836903/simulate/sitemap?mode=i) - _needs updating_
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836903/simulate/sitemap?mode=i)
 
 #### Copy
 
@@ -133,40 +107,13 @@ _Mock-up link TK_
 
 **Alert Body**
 
-> We don’t have your contact ~email address or~ mobile phone number. To manage your notification settings, first update your contact information.
+> We don’t have your contact email address or mobile phone number. To manage your notification settings, first update your contact information.
 
 **Alert Link** (use [active link style](https://design.va.gov/design/typography#links) with right chevron)
 
 > [**Update your contact information** >](/profile/personal-information) 
 
-### Partial contact info (missing phone)
-
-- Display warning alert immediately below `h1`
-- Alert should reference the contact information that's missing
-  - Mobile number ~or~
-  - ~Email address~
-- Alert should be dismissible. 
-  - If user dismisses alert, don't show it again.
-  - Display the alert for [users who have notifications but haven't made a selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#user-has-notifications-for-which-they-have-not-made-a-selection)
-- [Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836904/simulate/sitemap?mode=i)
-
-#### Copy
-
-**Alert Heading:** 
-
-> **We don’t have your [contact information]**
-
-**Alert Body:**
-
-> To manage settings for [channel] notifications, first add a [missing contact information] to your profile.
-
-**Alert Link** (use [active link style](https://design.va.gov/design/typography#links) with right chevron)
-
-> [**Add a [contact information] to your profile** >](/profile/personal-information#edit-[contact information]) 
-
-**Replace radio inputs with:**
-
-> Want to get these notifications by [channel]?  [Add your [contact information]](/profile/personal-information#edit-[contact information])
+> /profile/personal-information#edit-[contact information])
 
 ### User has notifications for which they have not made a selection
 
@@ -269,9 +216,13 @@ Display error alert immediately after `h1`
 
 ### Additions
 
-Add success alert to mobile number and email address sections to guide users back to notification settings
+Add success alert to mobile number section to guide users back to notification settings
 
-Mock-up and copy to come
+[Mock-up](https://preview.uxpin.com/6fa96dc222d3c59c67feba34a5cac98770462bd7#/pages/141512226/simulate/no-panels?mode=i) (add phone number to see alert)
+
+#### Copy
+
+> Update saved. Now you can [sign up for text notifications](/profile/notifications).
 
 ### Remove
 
