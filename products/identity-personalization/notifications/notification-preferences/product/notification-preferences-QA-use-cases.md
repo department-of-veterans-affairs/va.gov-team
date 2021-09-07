@@ -1,10 +1,6 @@
 # Product Use Cases Template
 
-_Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
-
-_The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on.  Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc_
-
-Link to product outline: [Product Name](#)
+Link to product outline: [Notification Preferences product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md)
 
 ## Contents
 <details>
@@ -19,24 +15,29 @@ Link to product outline: [Product Name](#)
 ## Use Case A
 
 * **Description**
-  - lorem ipsum
+  - LOA1 user has not verified their identity
+  - User sees warning message stating that we can't load all of their profile information, and they are prompted to verify their identity
 
 * **Link to designs**
-  - lorem ipsum
+  - TK
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+* **Instructions to access in Staging (or Prod for Drupal)** 
+  1. Log in to staging using any LOA1 test user credentials
+  2. Navigate to Profile > Notification settings page
+  3. See warning message at the top of the page stating your profile information can't be loaded, and a prompt to verify your identity
 
 ## Use Case B
 
 * **Description**
-  - lorem ipsum
+  - User is not enrolled in health care and therefore does not the "Your health care" notification group or items within
 
 * **Link to designs**
-  - lorem ipsum
+  - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756452/simulate/sitemap?mode=i)
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+* **Instructions to access in Staging (or Prod for Drupal)** 
+  1. Log in to staging using test user 42 or test user 202 (creds here)[TK]
+  2. Navigate to Profile > Notification settings page
+  3. See only the Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
 ## Use Case C
 
