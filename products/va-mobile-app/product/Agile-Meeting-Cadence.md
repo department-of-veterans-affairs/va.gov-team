@@ -79,7 +79,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Who:** VA Product Owners; Additional VA Stakeholders; Full team
 
-**Agenda:** Team shares new and interesting work they’d like to highlight (UX, FE, BE)
+**Agenda:** Team shares new and interesting work they’d like to highlight (UX, FE, BE); Team shares 1-2 sentence summary of what went out in that day's release, using the ZH Release Report
 
 
 ### Retro
@@ -137,7 +137,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * Move any Issues that require input from the VA POs to the Product Management column
 * Move Issues that may be prioritized in the next 1-3 sprints to the UX Backlog or Eng Backlog columns
     * Ensure these issues are complete with a clear title and description, correct label, and estimation
-* Review tickets tagged to the next Release to ensure accuracy
+* Review tickets tagged to the next Release (3 weeks away) to ensure accuracy
 
 **After the meeting:**
 
@@ -158,7 +158,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 
 * Give and receive general feedback
-* Check in on delivery
+* Check in on delivery (share any notable changes to sprint or upcoming release)
 * Bubble up generalized feedback from Retro
 * VA shares any updates, discussion on new priorities and stakeholder landscape
 
