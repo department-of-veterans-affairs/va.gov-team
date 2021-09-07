@@ -1,4 +1,4 @@
-# Analytics to inform initial user research for the Health Apartment site map
+# Analytics to inform initial user research for the Health Apartment IA
 Listed here are various analytics to help drive research planning. 
 
 ### Key facts about VA health care 
