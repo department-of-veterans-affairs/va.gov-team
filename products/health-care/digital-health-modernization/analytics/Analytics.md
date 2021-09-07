@@ -16,20 +16,44 @@ The demographics data comes from the U.S. Census.
   - [Home page click visualization slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/analysis/Home%20Page%20Click%20Visualizations%20(4).pptx)
 
 ### Analytics on top tasks for research planning for the health apartment (Sept. 2021)
-- [Top tasks (pageviews) for modernized pages (Sept. 6, 2020 to Sept. 6, 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200906&_u.date01=20210906&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_.useg=builtin1/) — Top tasks included (in order):
-  - [VA.gov homepage](https://www.va.gov/)
-  - [Track claims / your claims](https://www.va.gov/track-claims/index.html)
-  - Facilities page (/facilities/index.html?XXX) — Old URL? 
-  - Claim or appeal status (/claim-or-appeal-status/index.html?postlogin=true)
+- [Top tasks (pageviews) for modernized pages on VA.gov (Sept. 6, 2020 to Sept. 6, 2021)](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200906&_u.date01=20210906&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_.useg=builtin1/) — Top pages / tasks included the following (from the top 30 URLs). Many of these tasks have long tails.
+  - VA.gov homepage
+  - Track claims and appeals 
+  - Facilities homepage (Old URL?) 
   - COVID-19 screen
-  - Track claims
-  - Claim or appeal status
-
+  - Various login screens / scenarios
+  - My VA
+  - COVID-19 vaccine
+  - VA payment history
+  - Disability compensation rates
+  - Find forms
+  - Schedule / view VA appointments
+  - Download VA letters
+  - Find VA locations
+  - How to file a disability claim
+  - Profile - Personal information
+ 
+- [Top tasks (pageviews) for all VA.gov websites (Sept. 6, 2020 to Sept. 6, 2021)](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20200906&_u.date01=20210906&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pagePath/) — Top pages / tasks included the following (from the top 30 URLs). Many of these tasks have long tails.
+  - Homepage - My HealtheVet
+  - Homepage - VA.gov
+  - Sign in - My HealtheVet 
+  - Homepage - eBenefits
+  - Track claims and appeals - VA.gov
+  - Secure messaging - My HealtheVet
+  - Facilities homepage (Old URL?) 
+  - COVID-19 screen - VA.gov
+  - Refill VA prescriptions - My HealtheVet
+  - Sign in - VA.gov
+  - Profile - eBenefits 
+  - Appointments - My HealtheVet
+  - My VA - VA.gov
+  - Disabilities - eBenefits (signed in)
+ 
 ### Analytics on top tasks to inform information architecture planning (Summer 2020)
 - [Analytics on top tasks (pageviews)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/analytics/top-task-analytics.md) — These analytics informed the above wayfinding research completed in Spring 2021.
 
 ### Jeff Barnes' work...  (date)
-- [link name](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/analytics/top-task-analytics.md) — Xxxx xxxxx...
+- [link name](https://xxxxx) — Xxxx xxxxx...
 
 
 
