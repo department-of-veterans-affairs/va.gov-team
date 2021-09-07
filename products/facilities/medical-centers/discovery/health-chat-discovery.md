@@ -38,5 +38,6 @@ Informational interview with health chat SME(s).
 - Does health chat connect directly to a specifc health care team, or at the system level first?
 - How do Veterans currently learn about health chat? (ie. Are health care teams supposed to inform them?)
 - Does health chat keep a record of past conversations?
+- Can Veterans ask general non health care questions? (ie. Questions about their education benefits?)
 
 **SME:** Kathleen Frisbee (Kathleen.Frisbee@va.gov), manages VA Health Chat
