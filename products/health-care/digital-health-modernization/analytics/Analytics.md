@@ -2,14 +2,14 @@
 Listed here are various analytics to help drive research planning. 
 
 ### Key facts about VA health care 
-(Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
+(Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf) — most stats are from 2017-2018)
 - VA runs the nation's largest integrated health system and only nationalized health care in the U.S., aside from the military and Indian Health Service
 - There are 1,255 healthcare facilities, 170 VA Medical Centers (VAMCs), and 18 Veterans Integrated Service Networks (VISNs - regional care networks).
 - VA health care "serves 9.3M enrolled Veterans each year"
   - *Does this mean that of the enrolled Veterans, 9.3M use VA health care per year? Or there's a total of 9.3M Veterans enrolled?*
 
 ### Veteran demographics 
-(Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
+(Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf) — most stats are from 2017-2018)
 - In 2018, there were approximately 18M Veterans in the U.S. 
   - 50% received benefits through VA.
   - 36% had ever received VA health care.
@@ -18,7 +18,7 @@ Listed here are various analytics to help drive research planning.
   - In 2017, 9.6% of users of VA services were women. Of female Veterans, 50% use VA services (compared to 49% utilization for male Veterans).
 
 ### VA benefit usage 
-(Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
+(Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf) — most stats are from 2017-2018)
 
 **Benefit enrollment:**
 - 9.8M (about 50%) of all Veterans were enrolled in at least 1 VA service.
