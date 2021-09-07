@@ -1,10 +1,12 @@
 # Analytics to inform initial user research for the Health Apartment site map
 Listed here are various analytics to help drive research planning. 
 
-### Key facts about VA health care (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
-- VA runs the nation's largest integrated health system and only health care in the U.S. operated by the government and employing health care professionals, aside from the military and Indian Health Service
-- **Serves 9.3M enrolled Veterans each year** (Does this mean of the enrolled Veterans, 9.3M use VA health care per year?)
-- 1,255 healthcare facilities; 170 VA Medical Centers (VAMCs); 18 Veterans Integrated Service Networks (VISNs), or regional care networks.
+### Key facts about VA health care 
+(Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
+- VA runs the nation's largest integrated health system and only nationalized health care in the U.S., aside from the military and Indian Health Service
+- There are 1,255 healthcare facilities, 170 VA Medical Centers (VAMCs), and 18 Veterans Integrated Service Networks (VISNs - regional care networks).
+- **VA health care "serves 9.3M enrolled Veterans each year"** 
+  - *Does this mean that of the enrolled Veterans, 9.3M use VA health care per year?*
 
 ### Veteran demographics (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
 The demographics data comes from the U.S. Census.
