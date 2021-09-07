@@ -1,11 +1,15 @@
 # Analytics to inform initial user research for the Health Apartment site map
 Listed here are various analytics to help drive research planning.  
 
-### Veteran demographics and benefit usage
+### Veteran demographics and benefit usage (Source: [Ad Hoc's "VA 101"presentation](), updated August 2021)
 The demographics data comes from the U.S. Census.
 -  In 2018, there were approximately 18M Veterans in the U.S. Half of these are considered VA Veterans (i.e., receive benefits through VA). It's predicted that there will be 13M Veterans in 2040.
 -  In 2018, 9% of Veterans were women. It's predicted that 17% of Veterans will be women in 2040.
--  
+-  In 2018, 24% of Veterans had a service-connected disability. This is an injury, disease, or disability that active duty either caused or aggravated.
+  -  30% of Veterans have an American Community Survey-defined disability. There are likely many more disabled Vets that are not identified, in part due to military culture.
+  -  43% of Post-9/11 veterans have a service-connected disability – significantly higher than Veterans from other periods. Advances in battlefield medicine and rapid evacuations have resulted in more Veterans surviving wounds, but an increase in invisible injuries like Traumatic Brain Injury (TBI).
+  -  The most common disabilities include hearing loss, PTSD, scars, back and neck pain, and migraines.
+  -  There are 158,000 legally blind veterans, with 7,000 veterans newly blind or visually impaired each year.
 
 ### VA.gov baseline wayfinding research  (Spring 2021)
 - [VA.gov baseline wayfinding research full readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-longer-June7.pdf) — This study included top tasks that could be completed on VA.gov without signing in; it did not include tasks that directed users to My HealtheVet. 
