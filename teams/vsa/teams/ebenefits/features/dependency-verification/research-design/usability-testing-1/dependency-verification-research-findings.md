@@ -42,7 +42,7 @@ We recruited a 8 participants for a total of 6 fulfilled sessions. All participa
     - Some college: 1
     - Bachelor’s: 2
     - Master's: 3
-- LGBTQ+: Identification not provided
+- LGBTQ+: not provided
 - Assistive tech: 0
 
 ### Research Questions
