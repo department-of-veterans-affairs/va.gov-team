@@ -60,12 +60,28 @@ We recruited a 8 participants for a total of 6 fulfilled sessions. All participa
 5. There is a potential conflict with the modal that will prevent users from accessing the Verification modal.
 
 ## Details of Findings
+1. All participants successfully completed both the “verify” and “change” dependents when viewing the modal. One participant had several accidental left and right mouse clicks throughout the test, one of which bypassed the first modal they encountered. We restarted the scenario with that participant in the backup prototype. 
+    > It was letting me know is a dependent and verifying who are dependents for me.
+    > Somewhere in the vast computer world of va, next to my name it has the dependents under mine and verifying they are still my dependents. What they do with it, who knows.
 
+2. After the users clicked the “Verify dependents” button on the modal, the system adds a confirmation alert to the top of the page, but it was not visible on any of the participants’ screens. All of the participants were testing from a desktop. Similarly, on the change scenario, the alert box and “Add or remove a dependent button” were above the viewport. It appeared that each was sharing the desktop view and they had the browser window maximized.  While all participants eventually found the “Add or remove a dependent” button, only one user scrolled up enough to notice the “verify” alert box.
+
+3. Despite it being a test scenario instead of real participant data, all participants looked at the list of names and relationships when verifying their dependents and correctly made the choice to “verify” or “change” dependents. However, after seeing the list of dependents with additional information on the full “view” page, 3 participants thought the birthdate and last four of the social could be helpful when verifying dependents. 
+    > On the next page it ahs the last 4 ssn, that might be good on verifying it is the right person.
+    > It lists my dependents. I assume they are correct. It shows me I have two dependents in the system. My spouse and a minor child. As long as the names are correct, that would be confirmation for me.
+
+4. All six participants looked for a method to directly remove a participant on the participant card. Because of the view issue on finding 2, participants had to scroll up to see the alert box and button to make changes. All participants visibly reacted to the intro page/subway map to make changes to the participants. Four participants remarked that it was a lot of words, two that the subway map had no instructions on removing a dependent, and one that 30 minutes was a long time to just remove someone from their dependents list.
+> Oh theres carl. Change dependents. I see the list again. I don’t see how to delete it. theres a click learn more for adding or removing, if I saw this I would click add or remove.
+
+5. If users have not logged into the site (tested on staging.va.gov) before and go directly to the /view page, the va.gov SSO modal will appear over the dependency verification modal where the mouse interacts with the dependency verification modal in the background. User must dismiss the DV modal before they can continue or dismiss the SSO modal. There is currently no other method to verify dependents, so users would have to leave and return to the page to trigger the modal again. When the trigger for the dependency verification modal is moved to other areas of the site, this scenario is more likely to occur.
 
 ## Additional Insights
 - All participants were able to link to the Add or Remove Dependents page, but were overwhelmed by the subway map. They noted the overall text was too much, but there was no information on removing a dependent. One also noted that the time to complete was too much just to remove someone.
 - Participants expected that they could go back to their list of dependents to see that a dependent had been removed. Most expected that this would be immediate, but some would take additional steps such as logging out and back in to verify the change “took”. A couple also expected to get a letter in the mail because “letters are how VA communicates”.
-
+- Participants generally did not think of the verify button or removing a dependent as submitting a form. After probing, one participant said, “Well, I hadn’t thought about it, but it makes sense because the VA runs on forms.” and another said, “No, I’m doing this online so I don’t have to fill out a form."
+- The modal took a long time to display after participants moved to the “view” page.
+- After removing a dependent, five of the six participants expected to be able to return to the view page to verify the participant had been removed. Two of these five thought that the VA would have to verify something, but that the change would be visible right away. One of the six participants expected that they would have to wait for a letter from the VA before the change was effective and they could view updated information on va.gov.
+- Participants generally understood why they would want to verify dependents periodically and thought that annually and/or on a birthdate or anniversary date were reasonable. 
 
 
 ## Recommendations
@@ -75,7 +91,7 @@ We recruited a 8 participants for a total of 6 fulfilled sessions. All participa
 - Move forward with 686 formlet to simplify removal of dependents.
 - When communication about this feature is sent to veterans, encourage business to direct veterans to landing page (instead of directly to the view page) to prevent instances of competing modals. 
 - Work with content on the 686 subway map to reduce load and improve understanding of how to remove dependents.
-
+- Investigate why it is taking the modal so long to display.
 
 ## Next Steps
 - Work with dev team on modal solution
