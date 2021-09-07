@@ -17,13 +17,23 @@ Some common pitfalls exist in this process that could be handled by automation. 
 access requesters and for oncall ops members.
 
 ## Motivations
-Due to how "manual" the process is, there's a number of downsides - both for platform team members and access requester:
+Due to how "manual" the process is, there's a number of downsides - both for platform team members and access requester.
+By adding more automation to the process, we hope to:
 
-1. Increased wait times for requesters
-2. Increassed context switching for oncall engineers
-3. Social engineering security risks
+1. Reduce wait times for requesters
+2. Reduce context switching for oncall engineers
+3. Reduce notification noise in Slack & email
+4. Reduce risk of provisioning access to someone who shouldn't receive it
 
-## Security Concerns
+#### Wait Times & Context Switching
+Managing all of the inflight access requests can be a logistical headache. It's not uncommon for
+multiple rounds of back-and-forth to occur in the GH issue comments for various reasons.
+
+Access requests will sometimes "fall through the cracks". These requests can remain unattended for days 
+& weeks at a time. This is especially true for access requests that span across multiple oncall
+shifts (1 week long).
+
+#### Security Concerns
 `va.gov-team` (where access requests originate) is a public GitHub repo - anyone
 with a GH account may open a SOCKS access request. It's up to the oncall operations member to
 verify that the requester is a member of the `department-of-veterans-affairs` GH organization.
@@ -34,7 +44,7 @@ The oncall member might:
 - make a mistake while verifying
 - be tricked by a malicious user who spoofed their membership
 
-## Perceived Gatekeeping
+#### Perceived Gatekeeping
 The operations team does not act as "Gatekeepers" to who gets SOCKS access. That job is left to 
 https://github.com/department-of-veterans-affairs/github-user-requests. The operations team only
 provides the mechanism to issue said SOCKS access.
@@ -58,14 +68,14 @@ Next, more validations occur:
 
 The latter set of validations are actionable by the user, so a bot user will make a 'self-help' style comment that the user may then take action upon.
 
-### Changes to the Access Request GH Issue Template
+#### Changes to the Access Request GH Issue Template
 An "Access Type" field will be added to the GH issue template. It will read:
 
 > Access Type: Please choose 'Developer' or 'Viewer'.
 
 > [Read more on which access type you need](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools). For an access type other than 'Developer' or 'Viewer', please contact the #vfs-platform-support slack channel.
 
-### Automatic Pull Request
+#### Automatic Pull Request
 
 Once all validations have passed, the bot will open a PR to the devops repo. The PR body will consist of:
 
@@ -84,7 +94,7 @@ This risk is however mitigated by:
 
 ## Alternatives
 
-### Notify a slack channel instead of opening a PR
+#### Notify a slack channel instead of opening a PR
 Instead of opening the PR automatically, the GH workflow would notify a slack channel. The ops oncall member would then review said slack channel and respond accordingly. In this scenario, the GH workflow for opening a socks request PR would still exist, except now it would have to be manually triggered instead being automatic.
 
 **Pros**
