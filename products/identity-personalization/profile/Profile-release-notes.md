@@ -2,22 +2,30 @@
 This document intends to track updates to Profile at a high level so that other teams who leverage functionality on Profile are aware of changes. The Authenticated Experience team intends to update this page on a quarterly basis.
 
 ## Q3 2021 Updates
-- Implemented proper width styling of all buttons and forms for mobile
-- ...
 
+### Global profile updates
+- Aligned width of all buttons and forms for mobile to VA.gov patterns (full-width on small screens)
+
+### Personal and contact information
+- Moved functionality to remove contact information from edit mode to read mode
 
 ## Q2 2021 Updates
-- FAQ to personal and contact information boxes
-- Updates to how we handle instances when users attempt to add international phone numbers since we don't accept international phone numbers, changes applied to mobile, home and fax
+
+### Global profile updates
+- Updated alert that appears when we can connect to MPI but the user does not exist ([#24105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24105))
+- Changed buttons styles to use the primary and secondary button pattern from the design system. This update applies to mutiple sections of profile: 
+   - prompting users to add missing information (bank information, contact information)
+   - Edit, Remove, and Cancel buttons for contact information
+   - 
+### Personal and contact information
+- Added FAQ accordion to personal and contact information section to provide more information to users about how their contact information is used ([23376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376))
+- Updated phone number fields to make it more clear that we don't support international phone numbers ([issue #22533](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22533))
    - field label updates
    - error messages
    - hint text 
-- Updated alert that appears when we can connect to MPI but the user does not exist (24105)
-- Updates to all buttons to ensure they are styled as buttons (as opposed to hyperlinked text). This update was made in multiple locations/scenarios across profile: 
-   - When we are missing contact info for a user: New design includes a text prompt (instead of hyperlinked text as previously existed) followed by a true button to perform the prompted updates.
-   - "Please add your bank information" hyperlinked text converted to plain text + added true button for user to make the update
-- Corrected "edit" button position to align with cancel button
- 
+   - 
+### Direct deposit
+- Launched direct deposit for EDU ([product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/53363983c5bd1685248e249bfa7a888091e02b2f/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md))
 
 ## Q1 2021 Updates
 - Mailing address form updates - changed 2nd and 3rd "Street address" lines to "Line 2" and "Line 3" respectively
