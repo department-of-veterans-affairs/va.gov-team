@@ -39,6 +39,7 @@ Informational interview with secure messaging SME(s).
 
 - Does messaging connect directly to a specifc health care team, or at the system level first?
 - How do Veterans currently learn about secure messaging? (ie. Are health care teams supposed to inform them?)
+- Can Veterans ask general non health care questions? (ie. Questions about their education benefits?)
 
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
