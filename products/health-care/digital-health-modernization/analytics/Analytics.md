@@ -11,6 +11,7 @@ Listed here are various analytics to help drive research planning.
 ### Veteran demographics 
 (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
 - In 2018, there were approximately 18M Veterans in the U.S. Half of these received benefits through VA. (This number is decreasing.)
+  - 36% of of all Veterans have ever received VA health care.
 - In 2017, the median age of male Veterans was 64, while the median age of female Veteran was 48.
 - In 2018, 9% of Veterans were women. (This number is increasing.)
   - In 2017, 9.6% of users of VA services were women. Of female Veterans, 50% use VA services (compared to 49% utilization for male Veterans).
@@ -23,6 +24,7 @@ Listed here are various analytics to help drive research planning.
   - 25% of VA users only received VA health care (and not other benefits).
   - 45% of Veterans used multiple VA benefits.
   - 75% of VA users receiving disability comp also received VA health care.
+  - 36% of of all Veterans have ever received VA health care.
 - The most-used VA benefits are healthcare and disability compensation.
   - 76% of VA users received health care and/or disability compensation. 
 - Veterans aged 25-34 and 65+ were most likely to use VA benefits.
