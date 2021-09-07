@@ -148,7 +148,7 @@ See more... { hyperlink, when clicked "Flight" and "Correspondence" are added to
 
           { end Is accredited modal }
           
-- Special mission (i.e., Single-gender, Religious affiliation, HBCU) { dropdown, default is "All" }
+- Specialized mission (i.e., Single-gender, Religious affiliation, HBCU) { dropdown, default is "All" }
 
 On-the-job training and apprenticeships { checkbox, selected by default }
 
