@@ -19,10 +19,13 @@ Listed here are various analytics to help drive research planning.
 (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
 
 **Benefit enrollment:**
-- In 2017, 9.8M (about 50%) of all Veterans were enrolled in at least 1 VA service.
-- In 2017, the most-used VA benefits are healthcare and disability compensation.
-  - 76% of VA users receive healthcare and/or disability compensation.
-- In general, Veterans aged 25-34 and 65+ were most likely to use VA benefits.
+- 9.8M (about 50%) of all Veterans were enrolled in at least 1 VA service.
+  - 25% of VA users only received VA health care (and not other benefits).
+  - 45% of Veterans used multiple VA benefits.
+  - 75% of VA users receiving disability comp also received VA health care.
+- The most-used VA benefits are healthcare and disability compensation.
+  - 76% of VA users received health care and/or disability compensation. 
+- Veterans aged 25-34 and 65+ were most likely to use VA benefits.
 
 **Disability:** 
 - In 2018, 24% of Veterans had a service-connected disability (an injury, disease, or disability either caused or aggravated by active duty).
@@ -30,8 +33,9 @@ Listed here are various analytics to help drive research planning.
 - 43% of Post-9/11 veterans had a service-connected disability – significantly higher than Veterans from other periods. Advances in battlefield medicine and rapid evacuations have resulted in more Veterans surviving wounds, but an increase in invisible injuries like Traumatic Brain Injury (TBI).
 - The most common disabilities included hearing loss, PTSD, scars, back and neck pain, and migraines.
 - There were 158,000 legally blind veterans, with 7,000 veterans newly blind or visually impaired each year.
-- There were likely many more disabled Vets not identified, in part due to military culture.
 - In 2019, 5.38M Veterans and survivors received disability compensation. Benefits include Disability Compensation, DIC (Dependent and Indemnity Compensation, also called Death benefit), and SMC (Special Monthly Comp).
+
+Note: It's likely that there were many more disabled Vets not identified, in part due to military culture.
 
 ### VA.gov baseline wayfinding research  (Spring 2021)
 - [VA.gov baseline wayfinding research full readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-longer-June7.pdf) — This study included top tasks that could be completed on VA.gov without signing in; it did not include tasks that directed users to My HealtheVet. 
