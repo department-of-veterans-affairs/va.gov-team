@@ -26,7 +26,7 @@ Listed here are various analytics to help drive research planning.
   - 45% of Veterans used multiple VA benefits.
 - The most-used VA benefits are healthcare and disability compensation.
   - 36% of of all Veterans have ever received VA health care.
-  - 76% of VA users received health care and/or disability compensation. (Read this bullet and the next one carefully.)
+  - 76% of VA users received health care and/or disability compensation. (Read this and the sub-bullet carefully.)
     - 75% of VA users receiving disability comp also received VA health care. 
 - Veterans aged 25-34 and 65+ were most likely to use VA benefits.
 
