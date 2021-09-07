@@ -31,7 +31,7 @@ Listed here are various analytics to help drive research planning.
 
 **Disability:** 
 - In 2018, 24% of Veterans had a service-connected disability (an injury, disease, or disability either caused or aggravated by active duty).
-- 707,000 Veterans had a service-connected disability rating of 100% (2017).
+- 707,000 Veterans had a service-connected disability rating of 100%.
 - 43% of Post-9/11 veterans had a service-connected disability – significantly higher than Veterans from other periods. Advances in battlefield medicine and rapid evacuations have resulted in more Veterans surviving wounds, but an increase in invisible injuries like Traumatic Brain Injury (TBI).
 - The most common disabilities included hearing loss, PTSD, scars, back and neck pain, and migraines.
 - There were 158,000 legally blind veterans, with 7,000 veterans newly blind or visually impaired each year.
