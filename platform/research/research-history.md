@@ -22,6 +22,11 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### July 2021
 
+#### July 28-August 11: VA facility selection interactions A/B test
+*VA Online Scheduling (VAOS), Lead Researcher: Peter Russo*
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-august-facilities-ab-test/README.md)
+- Keywords: select, dropdown, sorting pattern, variant test, distance sort, location sort
+
 #### July 27-30: Find a Form PDF Downloading Usability Research
 *Decision Tools, Lead Researcher: Cindy Merrill*
 - Number of participants: 11 (10 Veterans, 1 family member of a Veteran; 4 screen reader users)
