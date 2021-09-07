@@ -6,7 +6,7 @@ Listed here are various analytics to help drive research planning.
 - VA runs the nation's largest integrated health system and only nationalized health care in the U.S., aside from the military and Indian Health Service
 - There are 1,255 healthcare facilities, 170 VA Medical Centers (VAMCs), and 18 Veterans Integrated Service Networks (VISNs - regional care networks).
 - VA health care "serves 9.3M enrolled Veterans each year"
-  - *Does this mean that of the enrolled Veterans, 9.3M use VA health care per year? Or is there a total of 9.3M Veterans enrolled?*
+  - *Does this mean that of the enrolled Veterans, 9.3M use VA health care per year? Or there's a total of 9.3M Veterans enrolled?*
 
 ### Veteran demographics 
 (Source: [Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf), updated August 2021)
