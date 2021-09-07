@@ -103,15 +103,15 @@ Copy below `h1`:
 
 **Alert Heading** 
 
-> We don’t have your contact information
+> We don’t have your mobile number
 
 **Alert Body**
 
-> We don’t have your contact email address or mobile phone number. To manage your notification settings, first update your contact information.
+> To manage settings for text message notifications, first add a mobile number to your profile.
 
 **Alert Link** (use [active link style](https://design.va.gov/design/typography#links) with right chevron)
 
-> [**Update your contact information** >](/profile/personal-information) 
+> [**Add a mobile number to your profile** >](/profile/personal-information) 
 
 > /profile/personal-information#edit-[contact information])
 
