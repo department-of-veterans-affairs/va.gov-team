@@ -5,6 +5,7 @@ Aug 3, 2021
 The VA Mobile app launched using the VA IAM team’s SSOe OAuth to authenticate users. However, this solution is not optimized to mobile, and lacks a native UX for authentication. We conducted a comparative analysis to better understand the mobile identity landscape, and glean best practices for how to improve or evaluate an alternative mobile authentication service. The following analysis includes only the most salient iOS apps that we examined, across the health, finance, and e-commerce spaces.
 
 Related documentation:
+[Mobile Auth and Identity - UX Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/identity/discovery/ux-recommendations.md)
 
 ## Biggest Takeaways
 * Do better with accessibility. Many apps failed even the most basic accessibility criteria.
