@@ -1,5 +1,36 @@
 # 2021 ~Weekly~ 6 weeks PM/PO Sync for ~CMS Export Build~ Content Release
 
+## 9-7-21
+
+### Agenda
+
+- How many nodes are published now? 
+- What is the general timeline and roadmap for node publishing? 
+
+### Notes
+
+- Health care systems node updates
+   - Stan: We have 27 health care systems left (24?). Expect the standard requirements for each of those to be 100-150 per system. 
+   - Mike C: Let's update the estimated notes per health care system on the Google spreadsheet? 
+   - Stan: Each system has a required number we push, and then when the VA content editors come in they do add more. When they finish it's around 200-250 nodes. 
+   - Dave: PAOs are really just beginning to get involved in filling out the rest of the info. We're about 2-3 months away from getting a really good idea of what our baseline will be and what our growth pattern will be. 
+   - Mike C: Right now we have the estimate in the spreadsheet as 300 min - 600 max. If that's way off base, let's update. 
+   - Dave: Let's hold off on updating that for now. 
+   - Mike C: Is there a place we can go to check the number of VAMC systems that are published? In the CMS? 
+   - Adrian: Yes I've been updating that every week — VAMC published
+- Vet centers node updates
+   - Dave: There are unpublished nodes in the CMS now for district 5. Nodes per vet center = at least 10. Not a significant number. Second week in October we'll be doing a kickoff for district 1 which will mean an additional 80 vet centers. Hope to publish those around end of year.
+   - Overall estimate for vet centers MVP nodes is in 1k-5k range
+- Campaign landing pages, resources and support 
+   - Mike C: still relatively small content wise? 
+   - Beth: yes. Occasionally we create content that we decide not to publish. Does that count as a node or not? 
+   - Mike C: the part that is a constraint is the content build, which only builds things that are published. 
+- Overview from Mike C
+   - Started the year around 4,000 nodes and now we're up to 20,000 - published! 
+   - Will continue supporting up to 50,000 and are on track to stay within that limit for the foreseeable future 
+   - 
+
+
 ## 6-15-21
 
 ### Standing agenda
