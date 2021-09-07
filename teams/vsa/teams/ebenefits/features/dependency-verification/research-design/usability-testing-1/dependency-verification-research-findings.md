@@ -53,19 +53,33 @@ We recruited a 8 participants for a total of 6 fulfilled sessions. All participa
 - What do users expect will happen when they choose to remove a dependent? Add a dependent?
 
 ## Key Findings
-
+1. Participants accepted the modal as part of the workflow and understood the options were to say that their list of participants was correct.
+2. Users did not see the confirmation and alert boxes. This seems to be a combination of auto scrolling to a particular header and viewport size.
+3. Participants thought the name and relationship was sufficent information to verify dependents on the modal during the task, but when they reached the full /view page, they liked seeing birthdate and last 4 of the SSN.
+4. After clicking “make changes” on the modal, participants expected the list of participants shown to have an option to remove a dependent in line rather than linking through to another “Add or Remove Dependent” screen.
+5. There is a potential conflict with the modal that will prevent users from accessing the Verification modal.
 
 ## Details of Findings
 
 
 ## Additional Insights
+- All participants were able to link to the Add or Remove Dependents page, but were overwhelmed by the subway map. They noted the overall text was too much, but there was no information on removing a dependent. One also noted that the time to complete was too much just to remove someone.
+- Participants expected that they could go back to their list of dependents to see that a dependent had been removed. Most expected that this would be immediate, but some would take additional steps such as logging out and back in to verify the change “took”. A couple also expected to get a letter in the mail because “letters are how VA communicates”.
+
 
 
 ## Recommendations
+- Investigate potential impact, cause and fix options for the competition between the dependency verification and SSO modals.
+- Investigate anchor link placement to ensure confirmation messages are seen.
+- Move forward with in-line verification on view page so that a user can verify dependents if the modal is not seen or dismissed prematurely.
+- Move forward with 686 formlet to simplify removal of dependents.
+- When communication about this feature is sent to veterans, encourage business to direct veterans to landing page (instead of directly to the view page) to prevent instances of competing modals. 
+- Work with content on the 686 subway map to reduce load and improve understanding of how to remove dependents.
 
 
 ## Next Steps
-
+- Work with dev team on modal solution
+- Work with dev team on anchor link placements 
 
 ## Appendix
 ### Conversation guide
