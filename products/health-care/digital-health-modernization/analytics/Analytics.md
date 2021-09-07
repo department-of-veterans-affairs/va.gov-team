@@ -1,7 +1,5 @@
 # Analytics to inform initial user research for the Health Apartment site map
-Listed here are various analytics and questions to help drive research planning.  
-
-## Xxxxxxx
+Listed here are various analytics to help drive research planning.  
 
 ### Veteran demographics and benefit usage
 The demographics data comes from the U.S. Census.
