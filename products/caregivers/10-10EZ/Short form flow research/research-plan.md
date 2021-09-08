@@ -88,6 +88,9 @@ September 9     | 8am-4pm EST
 September 10     | 8am-10am and 1pm-4pm EST
 September 13     | 8am-5pm EST
 September 14     | 8am-4pm EST
+_If needed_: September 15     | 8am-10am EST
+_If needed_: September 16     | 8am-noon and 1pm-5pm EST
+
 
 
 Pilot Session: August 31, 2021 | 3:30pm-5pm EST 	
