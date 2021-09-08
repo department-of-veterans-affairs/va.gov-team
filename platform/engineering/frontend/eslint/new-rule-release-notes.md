@@ -1,5 +1,14 @@
 # Release Notes
 
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/ESLint-new-rule-release-notes.1847918613.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 ## ESLint deployed rules
 
 June 12, 2020
