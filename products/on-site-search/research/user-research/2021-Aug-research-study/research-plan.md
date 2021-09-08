@@ -89,7 +89,7 @@ Sept 17, 2021 | Noon - 3 pm, 4 - 7 pm
 Pilot Sessions | Time (EST)
 ---------------|----------
 Sept 2, 2021  |  2:30 pm  
-Sept 3 or 9, 2021  |  TBD 
+Sept 9, 2021  |  4 pm 
 
 
 ## Team Roles	
@@ -98,7 +98,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participants for pilot test:	TBD
+- Participants for pilot test:	mark.huber@adhocteam.us
 - Notetakers:	Perigean 
 - Observers:	Denise Coveyduc (dcoveyduc@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Sam Suddath (ssuddath@governmentcio.com)
  
