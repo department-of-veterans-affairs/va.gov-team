@@ -23,26 +23,43 @@
 
 </details>
 
+## September 15
+
+Mobile VAMC facilities
+
 ## September 8
 
 
 VAMC 
  * Google results: no index-no follow trailing slash work - is this now done for all known locations? will it be done automatically for newly created?
- * Placeholder images for VAMC profiles [#29788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29688)
+   * comment to ROBOTS.TXT file for how to write index-no entries.
+ * Placeholder images 
+   * for VAMC profiles [#29788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29688)
+   * as a general rule, placeholder images should not be in the CMS.
+   * CMS can remove placeholder images after FE has ensured placeholders show when values are NULL. 
  * Profile pages.
+   * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6363 : First sentence and body are required 
  * Features stories and event sorting 
-   * What are all the scenarios that need to be accounted for? 
-   * CMS proposal to only provide 3 values, and removing Featured boolean. 
+   * CMS team will design implementation steps but not merge anything until we've coordinated. #1317 / #1318 / #1316
  * Top tasks (Medical Records, Billing and Insurance, Register for Care)
    * Each are slightly more complex than Policies, but all in a similar way (the addition of Facility services)
 
 Vet Center
  * Type of care default for Vet Centers - do Vet Centers still have the option to choose outside the Vet Center list? [24313](#https://github.com/department-of-veterans-affairs/va.gov-team/issues/24313)
+   * Vet Center editors can only choose services that have Vet Center type of care that they don't already of 
  * District 1 planning
+   * 2nd week of October
+   * list of users forthcoming, missing some outreach specialists
  * Editor support processes 
-
-James Hoehn's email 
-
+   * It's been quiet and then there was a flood. Michelle reviewed 42 that had been requested. Another 2 dozen pending. 
+   * Steve or Jessica from VHA will prod editors to get them moving, it's now past their deadline (Aug 20).
+ * Required Vet Center services https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6332 
+   * Michelle to provide list of required services.  
+ * Nearby Vet Centers and Outstations
+   * will all be automated (#27813) based on 80 mile range of zip code, minus the ones already specified on the page
+   * In the future, this may change, so that regions where people are used to driving farther, editors could set the distance higher. 
+   * CMS issue: delete the Nearby Vet Ceners field and update field labels and UI accordingly, including dashboard, and provide some inline help text to explain that _Vet Center locations_ within 80 miles will also be displayed.  Do not merge until #27813 is done. 
+   * CMS issue: update training and KB article about Nearby Vet Centers. (post #27813)
 
 
 ## September 1
