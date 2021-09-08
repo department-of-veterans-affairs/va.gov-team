@@ -1,3 +1,5 @@
+## This doc is no longer updated or maintained. Please [reference it here in the Frontend Tools Operational Documentation space instead](https://vfs.atlassian.net/wiki/spaces/FTT/pages/894304313/Team+Charter).
+
 # FE Tools Team Charter
 
 ---
