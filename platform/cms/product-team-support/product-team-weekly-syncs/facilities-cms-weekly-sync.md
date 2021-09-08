@@ -25,19 +25,23 @@
 
 ## September 8
 
- * Google results: no index-no follow trailing slash work - is this now doen for all known locations? will it be done automatically for newly created?
-
+ * Google results: no index-no follow trailing slash work - is this now done for all known locations? will it be done automatically for newly created?
  * Editor support processes 
  * District 1 planning
 
 VAMC front end
  * Placeholder images for VAMC profiles [#29788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29688)
+ * Profile pages.
  * Features stories and event sorting 
    * What are all the scenarios that need to be accounted for? 
    * CMS proposal to only provide 3 values, and removing Featured boolean. 
 
 Vet Center front end
  * Type of care default for Vet Centers - do Vet Centers still have the option to choose outside the Vet Center list? [24313](#https://github.com/department-of-veterans-affairs/va.gov-team/issues/24313)
+
+James Hoehn's email 
+
+
 
 ## September 1
 
