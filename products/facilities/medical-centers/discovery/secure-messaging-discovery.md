@@ -52,6 +52,7 @@ Informational interview with secure messaging SME(s).
 
 **SME:** 
 Patricia Henry (Patricia.Henry@va.gov), secure messaging PO
+
 Tracey Martin (Tracey.Martin@va.gov), My HealtheVet coordinator
 
 
