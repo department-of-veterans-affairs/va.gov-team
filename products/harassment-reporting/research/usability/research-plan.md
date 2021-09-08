@@ -22,7 +22,7 @@ If a Veteran experiences an incident of harassment or other inappropriate behavi
 1. Users will feel comfortable filling out the harassment reporting form.
 
 ## Method
-We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a design prototype in UXPin. Some participants will be on desktop, and some will be on mobile.
+We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a mobile design prototype in UXPin. All participants will be using smartphones to match the form factor of the prototype.
 
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with harassment. Such SMEs may include mental health counselors at VA facilities or Vet Centers who counsel harassment victims, and VA staff who field harassment reporting calls from Veterans and/or VA employees. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
@@ -37,8 +37,7 @@ Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8
 
 ### Must have for participants
 - All are Veterans
-- At least 3 people who plan to use their computer for the session
-- At least 3 people who plan to use their smartphone for the session
+- All plan to use their smartphone for the session
 - At least 3 participants over 60
 - At least 2 people with a cognitive disability (e.g., TBI)
 
@@ -53,13 +52,10 @@ Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8
 - At least 1 non-native English speaker
 
 ### Recruitment requirements for ALL participants
-- Have a computer or smartphone and be willing to be complete their interview on one of those devices
-- During the session, be willing to share a new web browser window on their device 
-- Have a working microphone on their device
-- Have Zoom downloaded to their device prior to the session and know how to share their screen
-
-### Additional questions to ask in the screener
-- What kind of device will you be joining on and are willing to share a browser window on--computer or smartphone?  
+- Have a smartphone and be willing to be complete their interview on that device
+- During the session, be willing to share a new web browser window on their phone 
+- Have a working microphone on their phone
+- Have Zoom downloaded to their phone prior to the session and know how to share their screen
 
 ## Timeline
 #### Desired Timeline: Oct 4-8, 2021 
