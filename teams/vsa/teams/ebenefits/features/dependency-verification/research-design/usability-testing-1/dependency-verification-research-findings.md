@@ -65,7 +65,7 @@ We recruited 8 participants for a total of 6 fulfilled sessions. All participant
     > It was letting me know is a dependent and verifying who are dependents for me.
     > Somewhere in the vast computer world of va, next to my name it has the dependents under mine and verifying they are still my dependents. What they do with it, who knows.
 
-<details>
+    <details>
  
       <summary>Click to see modal.</summary>
  
