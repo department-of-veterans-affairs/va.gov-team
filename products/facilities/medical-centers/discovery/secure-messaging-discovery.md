@@ -92,4 +92,4 @@ Tracey Martin (Tracey.Martin@va.gov), My HealtheVet coordinator
 - [Tracey]
     - I think the biggest stumbling block would be, I don't know where to start, I see the facility I want to get care from, I click on this button, and oh, I'm not eligible to do that. You know, you're not a current user so therefore this component is blocked - that would be frustrating I think. To me as a user, if you offer it, then it better work. If they need a premium access to get there, that would be a stumbling block.
 - [Patricia]
-    - You're going to have to be clear about if you have to be premium, you have to be associated with the facility. Be clear about the criteria.
+    - You're going to have to be clear about if you have to be premium, you have to be associated with the facility. Be clear about the criteria. Any new registrant to My HealtheVet automatically has access to secure messaging, and once they log in we start educating right away. You could do "what is secure messaging?" or something like that - we try to talk a lot about managing your own care, with communicating, with staying on top of your messages - it's really about co-managing your health with the VA.
