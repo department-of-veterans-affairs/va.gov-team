@@ -51,6 +51,7 @@ Informational interview with secure messaging SME(s).
 - Health care providers may be somewhat distrustful of more apps to use, including secure messaging, if they already have established methods.
 
 **SME:** 
+
 Patricia Henry (Patricia.Henry@va.gov), secure messaging PO
 
 Tracey Martin (Tracey.Martin@va.gov), My HealtheVet coordinator
