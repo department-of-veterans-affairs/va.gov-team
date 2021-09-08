@@ -4,6 +4,7 @@
 
 - [Mobile designs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141694444/simulate/sitemap?mode=i) 
 - [Desktop design](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756016/simulate/sitemap?mode=i)
+- [Input message states](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141783656/simulate/sitemap?mode=i)
 - [Interactivity](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i) 
 - [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md)
 
@@ -25,7 +26,7 @@ The following data will come through VA Profile's API
 **Show**
 
 - We will always show this section.
-- Should appear in profile nav immediately before connected apps (as shown in [desktop mock-ups](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836902/simulate/sitemap?mode=i))
+- Should appear in profile nav immediately before connected apps 
 
 ## URL
 
@@ -54,8 +55,8 @@ Use [prototype links above](https://github.com/department-of-veterans-affairs/va
   -  In the warning alert, use the on this page jump link ([design system documentation](https://design.va.gov/components/on-this-page-jump-links))
 - Our input messaging component is being proposed as an experimental design component, and should be used for the save, error, and warning messaging. It's made up of different aspects of the design system:
   - background-only alert, icons, form input validation message
-  - All states documented in [these specs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140847358/simulate/sitemap?mode=i)
-  - [Here's the experimental page in the design system docs](https://design.va.gov/experimental-design/input-message)
+  - All states documented in Input Message States [linked above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/frontend/README.md#relevant-links)
+  - [Here are the experimental page in the design system docs](https://design.va.gov/experimental-design/input-message)
 
 ## Content
 
@@ -96,8 +97,9 @@ Copy below `h1`:
 
 - Display warning alert immediately below `h1`
 - Hide notifications + groups
+- **Note:** This will be specific to mobile number for MVP since we are not launching with any email notifications
 
-[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140836903/simulate/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141757595/simulate/sitemap?mode=i)
 
 #### Copy
 
@@ -118,6 +120,8 @@ Copy below `h1`:
 ### User has notifications for which they have not made a selection
 
 Display warning alert immediately below `h1`
+
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141694444/simulate/sitemap?mode=i)
 
 #### Copy
 
@@ -147,8 +151,6 @@ If a user is opted into text messages or email notifications, and deletes their 
 
 ## States
 
-All states documented in [these specs](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140847358/simulate/sitemap?mode=i)
-
 ### User has not set a preference for a notification
 
 Use the input message pattern with a warning state
@@ -157,11 +159,11 @@ Use the input message pattern with a warning state
 
 > Select an option.
 
-[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948765/simulate/sitemap?mode=i)
+[Mock-up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141694444/simulate/sitemap?mode=i)
 
 ### Update in progress
 
-- Display the word "Saving..." in italics, as seen on VA.gov application forms that autosave. [Video example here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/green-save-pop-up.mov)
+- Display the word "Saving...", as seen on VA.gov application forms that autosave. [Video example here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/images/green-save-pop-up.mov)
 - See interaction in [this mock up](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140721595/simulate/sitemap?mode=i)
 
 #### Copy
