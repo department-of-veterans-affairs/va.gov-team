@@ -68,5 +68,8 @@ Tracey Martin (Tracey.Martin@va.gov), My HealtheVet coordinator
     - [Via email after interview] About 67% of My HealtheVet users are premium users.
 - [Tracey]
     - Active users sending secure messages, or have sent secure messages in the past two years, are about 21.97% My HealtheVet users.
+- [Tracey]
+    - If we had some sort of general mailbox that would be great, but we would need to get buy-in at the facilities. Right now the My HealtheVet coordinators tend to be that catch all, if somebody doesn't know where to send a message they'll send it to the My HealtheVet coordinators, who then reassign the message over. Who is going to the man the general mailbox - there would definitely need to be some cultural changes for that to happen. Some might say the best place for that might be a call center, but what we find is that the call centers tend to be very hands off with secure messaging.
+    - I can't give specific stats as to what is the most common, but ideally they're primary care teams. That's where we started secure messaging, and that's where we stand right now. Those teams rise to the top of the pick list when they compose a message [subject line categorization]. 
 - [Patricia]
-    - 
+    - When we first started we had a few categories [subject line message categorization], and based on those categories it would tell you the most common things are medication questions, appointment scheduling, records requests, and general "this is how I'm feeling" messages. The things you would expect to see.
