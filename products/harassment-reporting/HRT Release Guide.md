@@ -8,27 +8,27 @@ How do we ensure a smooth and successful launch? (This document starts from the 
 #### Phase I: First Priority Launch/Release 
 Landing Page: Determine location of VA.gov (PO/PM/IA) - Complaince with 5303 directive **Time Sensative**
       
-      - Landing Page Copy Complete - Stakeholder review and feedback (Aug 30- Sep 3)
-      - VSP Staging Review (Sep 9 @2PM)
-      - Determine Placement on VA.gov (Aug 30)
-      - Target **Launch** (Sep 16, 2021)
+      - Landing Page Copy Complete - Stakeholder review and feedback (Aug 30- Sep 3 Completed)
+      - VSP Staging Review (Sep 16 @2PM)
+      - Determine Placement on VA.gov (Aug 30 - Completed)
+      - Target **Launch** (Sep 22, 2021)
       - Note: This landing page will not mentioned the form, an alternate version will be produced that will deploy at the same time as the HRT Intro-page and Form at an alternate date. 
 
 #### Phase II: Second Priority Follow-on Launch/Release
 Form Version of Landing Page, Intro Page and HRT Form: Form version of landing page (V2), Explainer Intro page that breaks down information and form completion activities. HRT form app/wizard with submission status component. 
       
       - Remain on current collaboration cycle (Research Plan --> Mid-Point Review as next steps)
-      - Complete Designs post content copy (S55)
-      - Build out Interactive prototype (S55)
-      - QA/Review Interactive Prototype (S56)
-      - VSP Midpoint Review (S56)
-      - User Research Plan Draft (S55-56)
-      - Conduct Research (S57-58 Pending timing with Search Research) 
-      - Determine updates based on research readout (S58)
-      - FE Build - Test - A11y Review - WCAG 2.1 (S58-59)
+      - Complete Designs post content copy (S55 - WIP)
+      - Build out Interactive prototype (S55 - WIP)
+      - QA/Review Interactive Prototype (S56 - WIP)
+      - VSP Midpoint Review (S58)
+      - User Research Plan Draft (S56-58)
+      - Conduct Research (S58-59 Pending timing with Search Research) 
+      - Determine updates based on research readout (S59)
+      - FE Build - Test - A11y Review - WCAG 2.1 (S59-60)
       - Internal UAT - Smoke Check (S60)
-      - VSP staging review (S60)
-      - **Launch** Stretch Goal - Late October / Early November 2021 (Stretch launch goal: November 4 (Prior to Veterans Day) Launch goal: November 16, 2021. 
+      - VSP staging review (S61)
+      - **Launch** Stretch Goal - Late October / Early November 2021 (Stretch launch goal: November 4 (Prior to Veterans Day) Launch goal: November 18, 2021. 
 
 ## Pre-Release 
 
