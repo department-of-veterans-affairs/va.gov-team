@@ -4,6 +4,7 @@
 - Polish and refine app
 - Find and fix bugs
 - Build out analytics pipeline
+- Build out demo mode
 - Vaccine records discovery
 - Rx Refill pre-discovery
 - Redesign pre-discovery
