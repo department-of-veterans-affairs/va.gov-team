@@ -81,4 +81,15 @@ Tracey Martin (Tracey.Martin@va.gov), My HealtheVet coordinator
 - [Patricia]
     - We don't want the to use it for urgent matters, it's for non-urgent non-emergency communication. Typically it doesn't take 3 days for a response, but we want them to understand it's not for urgent communication. Wherever you decide to put this link to secure messaging, you want to put the disclaimer there as well.
 - [Tracey]
-    - 
+    - It's very person specific, as much as the person on the other end has an understanding of all the pieces [as far as how the coordinator or team member directs a question that's not health care related]. Some people just say "I can't help you" when they receive questions outside of secure messaging scope.
+- [Patricia]
+    - Escalation is very important, most network directors down to the facility directors have a performance measurment having to do with escalation. We track the escalation very closely, and the majority of our sites are very good at responding to questions within 3 days. My HealtheVet coordinators have notices when it gets close to 3 days, and when it passes 3 days, and we follow up with those health care teams to make sure messages get responded to.
+- [Tracey]
+    - We don't want something just sitting there to be ignored, and that's why if we had a general mailbox, we would really need to ensure that the right team members are on that. The My HealtheVet coordinators should be one of those people, but there needs to be accountability beyond the coordinator.
+- [Patricia]
+    - The other thing we have the functionality to allow a message to be reassigned outside of the facility [like to another facility or team]. 
+    - In terms of how you might measure success, access [to this feature] feedback may be how you measure it, as opposed to percentage of users because as you can see those are very high. The whole notion of have one place to go, VA.gov, as a digital front door, that's important to folks.
+- [Tracey]
+    - I think the biggest stumbling block would be, I don't know where to start, I see the facility I want to get care from, I click on this button, and oh, I'm not eligible to do that. You know, you're not a current user so therefore this component is blocked - that would be frustrating I think. To me as a user, if you offer it, then it better work. If they need a premium access to get there, that would be a stumbling block.
+- [Patricia]
+    - You're going to have to be clear about if you have to be premium, you have to be associated with the facility. Be clear about the criteria.
