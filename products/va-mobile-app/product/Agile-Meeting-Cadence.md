@@ -7,7 +7,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 ## Sample Meeting Cadence in Practice
 
-![image](https://user-images.githubusercontent.com/7320097/131268935-4957becd-b146-41e5-96b2-814ea756c8d5.png)
+![image](https://user-images.githubusercontent.com/7320097/132521348-20eafae5-6526-4244-8a86-af4efe1b7aae.png)
 
 
 # Week A (when a new sprint begins)
