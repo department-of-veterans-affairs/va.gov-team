@@ -65,6 +65,14 @@ We recruited 8 participants for a total of 6 fulfilled sessions. All participant
     > It was letting me know is a dependent and verifying who are dependents for me.
     > Somewhere in the vast computer world of va, next to my name it has the dependents under mine and verifying they are still my dependents. What they do with it, who knows.
 
+<details>
+ 
+      <summary>Click to see modal.</summary>
+ 
+      <img width="1431" alt="Screen Shot 2021-09-07 at 2 48 11 AM" src="https://user-images.githubusercontent.com/84141672/132559105-8d5c2748-8840-42c8-9f7c-32984d2d3310.png">
+ 
+    </details>
+
 2. After the users clicked the “Verify dependents” button on the modal, the system adds a confirmation alert to the top of the page, but it was not visible on any of the participants’ screens. All of the participants were testing from a desktop. Similarly, on the change scenario, the alert box and “Add or remove a dependent button” were above the viewport. It appeared that each was sharing the desktop view and they had the browser window maximized.  While all participants eventually found the “Add or remove a dependent” button, only one user scrolled up enough to notice the “verify” alert box.
 
     <details>
@@ -92,6 +100,13 @@ We recruited 8 participants for a total of 6 fulfilled sessions. All participant
     > Oh there's Carl [the dependent the user was to remove]. Change dependents... I see the list again. I don’t see how to delete it [remove a dependent from the list]. There's a click learn more for adding or removing, if I saw this I would click add or remove.
 
 5. If users have not logged into the site (tested on staging.va.gov) before and go directly to the /view page, the va.gov SSO modal will appear over the dependency verification modal where the mouse interacts with the dependency verification modal in the background. User must dismiss the DV modal before they can continue or dismiss the SSO modal. There is currently no other method to verify dependents, so users would have to leave and return to the page to trigger the modal again. When the trigger for the dependency verification modal is moved to other areas of the site, this scenario is more likely to occur.
+    <details>
+ 
+      <summary>Click to see SSO modal.</summary>
+ 
+      <img width="1234" alt="Screen Shot 2021-09-07 at 9 16 25 AM" src="https://user-images.githubusercontent.com/84141672/132559207-9a74e725-fbd4-4a1f-8915-c685482ec85c.png">
+ 
+    </details>
 
 ## Additional Insights
 - All participants were able to link to the Add or Remove Dependents page but were overwhelmed by the subway map. They noted the overall text was too much, but there was no information on removing a dependent. One also noted that the time to complete was too much just to remove someone.
