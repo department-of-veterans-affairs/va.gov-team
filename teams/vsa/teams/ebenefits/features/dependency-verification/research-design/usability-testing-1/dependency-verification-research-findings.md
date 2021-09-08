@@ -67,6 +67,23 @@ We recruited 8 participants for a total of 6 fulfilled sessions. All participant
 
 2. After the users clicked the “Verify dependents” button on the modal, the system adds a confirmation alert to the top of the page, but it was not visible on any of the participants’ screens. All of the participants were testing from a desktop. Similarly, on the change scenario, the alert box and “Add or remove a dependent button” were above the viewport. It appeared that each was sharing the desktop view and they had the browser window maximized.  While all participants eventually found the “Add or remove a dependent” button, only one user scrolled up enough to notice the “verify” alert box.
 
+    <details>
+ 
+      <summary>Click to see example of screen position on view page after modal.</summary>
+ 
+      <img width="1317" alt="Screen Shot 2021-09-07 at 9 38 27 AM" src="https://user-images.githubusercontent.com/84141672/132557792-c7386385-e1d0-4d6e-b1eb-a7d7d862b4f1.png">
+ 
+    </details>
+    
+     <details>
+ 
+      <summary>Click to see example of screen position on intro page.</summary>
+ 
+      <img width="1317" alt="Screen Shot 2021-09-07 at 9 34 11 AM" src="https://user-images.githubusercontent.com/84141672/132558628-e75264a5-4dd3-4c80-9c76-5aa34cb8900f.png">
+
+ 
+    </details>
+
 3. Despite it being a test scenario instead of real participant data, all participants looked at the list of names and relationships when verifying their dependents and correctly made the choice to “verify” or “change” dependents. However, after seeing the list of dependents with additional information on the full “view” page, 3 participants thought the birthdate and last four of the social could be helpful when verifying dependents. 
     > On the next page it has the last 4 ssn, that might be good on verifying it is the right person.
     > It lists my dependents. I assume they are correct. It shows me I have two dependents in the system. My spouse and a minor child. As long as the names are correct, that would be confirmation for me.
@@ -78,13 +95,6 @@ We recruited 8 participants for a total of 6 fulfilled sessions. All participant
 
 ## Additional Insights
 - All participants were able to link to the Add or Remove Dependents page but were overwhelmed by the subway map. They noted the overall text was too much, but there was no information on removing a dependent. One also noted that the time to complete was too much just to remove someone.
-<details>
- 
-  <summary>Click to see screenshot</summary>
- 
- ![Screen Shot 2021-05-18 at 10 17 59 AM](https://user-images.githubusercontent.com/84141672/132413108-de13b702-a800-4c10-a802-f9c84b899c9c.png)
- 
-</details>
 
 - Participants expected that they could go back to their list of dependents to see that a dependent had been removed. Most expected that this would be immediate, but some would take additional steps such as logging out and back in to verify the change “took”. A couple also expected to get a letter in the mail because “letters are how VA communicates”.
 - Participants generally did not think of the verify button or removing a dependent as submitting a form. After probing, one participant said, “Well, I hadn’t thought about it, but it makes sense because the VA runs on forms.” and another said, “No, I’m doing this online so I don’t have to fill out a form."
