@@ -40,15 +40,6 @@ _helps us answer: was it the right bet to build this app natively?_
   - KPI: frequency of usage of allowing location services, or adding VAOS appointment to calendar, or using camera for uploading a claime file, or sending an SMS via the VCL link, or clicking to call a help line directly from the app
 
 
-
-### Objective: Reduce the barriers to entry to accessing authenticated features
-
-- KR: X% of users choose to allow biometric login _(we hear from Vets how hard it is for them to login, turning on Touch ID or Face ID seems like a good indication that Vets find value in native functionality in the app)_
-
-- KR: Login success rate matches or is higher than on VA.gov
-
-  - KPI: Login success rate
-
 ### Objective: Vets gain peace of mind by using the app
 _Reducing the feeling of VA being a "black hole" or needing to be persistent to follow up on benefits_
 
