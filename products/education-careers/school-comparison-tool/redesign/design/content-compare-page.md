@@ -205,6 +205,8 @@ Caution flags [(Learn more)]()
 
     { Caution Flags modal, Learn more aria label: "Learn more about why caution flags might appear on an institution profile" } 
 
+    #### Caution flags
+    
     Caution flags indicate that VA or other federal agencies like the Department of Defense (DoD) or Department of Education (ED) have applied increased regulatory or legal scrutiny to this program.
 
     { End  modal }
