@@ -24,6 +24,24 @@
 
 </details>
 
+## September 9, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
+### Action items:
+1. Program/Stakeholder Update - @Soni/Josh
+2. Action items from HRT Landing Page Sync (Revisit warrning box, need to determine phone/email for Veterans) What else?  followup timline?
+3. Research / Recruiting Plan update @Cindy 
+4. Content/Design working to finalize prototype (plan to schedule design review with team once udpated) @Cassandra/Brian
+5. Status: @Cassandra finalizing design "content" updates / Working UX Pin Interactive Prototype, Veteran Research Plan Draft is in-progress.   
+7. Roundtable Questions, Comments. 
+
+### Next Steps 
+1. Fast Path "landing page" - Static Content Landing Page Content Copy --> Review/Validate --> VSP Staging Review (9/16 @2PM) --> Anticipated Launch Sep 22, 2021 (pending content feedback/landing page placement. 
+2. Form Track: Iteractive Prototypes --> User "Veteran" Research --> Frontend Build --> VSP Mid-point review. 
+
+## Session Notes:
+
+
+<details><summary>Previous Agenda Items</summary>
+  
 ## August 26, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
 ### Action items:
 1. Program/Stakeholder Update - @Soni/Josh
@@ -39,11 +57,6 @@
 
 
 ## Session Notes:
-
-
-<details><summary>Previous Agenda Items</summary>
-  
-
   
 ## August 5, 2021 - Stage: Design / Build
 ### Action items:
