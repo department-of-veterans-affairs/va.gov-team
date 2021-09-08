@@ -33,6 +33,8 @@ VAMC
  * Features stories and event sorting 
    * What are all the scenarios that need to be accounted for? 
    * CMS proposal to only provide 3 values, and removing Featured boolean. 
+ * Top tasks (Medical Records, Billing and Insurance, Register for Care)
+   * Each are slightly more complex than Policies, but all in a similar way (the addition of Facility services)
 
 Vet Center
  * Type of care default for Vet Centers - do Vet Centers still have the option to choose outside the Vet Center list? [24313](#https://github.com/department-of-veterans-affairs/va.gov-team/issues/24313)
