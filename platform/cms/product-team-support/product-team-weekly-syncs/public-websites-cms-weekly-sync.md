@@ -35,6 +35,23 @@
 
 </details>
 
+## September 8
+
+Banners blocker to launch
+- CMS finishing two blockers required for OPIA 
+  - https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6175 
+  - https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6015 
+- Existing COVID banner migration
+  - Current node 33317 only has half the URLs
+  - We either need to finish migrating or finalize the rules with Danielle. 
+  - Steve Randi Danielle (optional Kelson)
+- Homepage banner
+  - Needs updating to match what's on prod
+- CMS team to book time with JoshT from OPIA (and others?) 
+
+
+
+
 ## September 1
 
 Banners runbook
