@@ -66,3 +66,7 @@ Tracey Martin (Tracey.Martin@va.gov), My HealtheVet coordinator
     - In the past we had three levels of users: basic, advanced, and premium. Anybody can be a basic user - you have a home page and contacts, but no access to PHI (protected health information). Then they would be matched to MPI (master patient index) and then automatially go to advanced status, and then would go through an in person authentication, or remote authentication, and then they would become premium. Premium allows for use of all the features of My HealtheVet.
     - We recently started a campaign to do away with the "advanced" imbetween status, so we're going to have basic users, or premium users. The authentication requires proof of identity - in person via identity verification and answering some questions, or they can do it online. My HealtheVet coordinators upgrade them after authentication.
     - [Via email after interview] About 67% of My HealtheVet users are premium users.
+- [Tracey]
+    - Active users sending secure messages, or have sent secure messages in the past two years, are about 21.97% My HealtheVet users.
+- [Patricia]
+    - 
