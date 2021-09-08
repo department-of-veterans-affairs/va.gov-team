@@ -39,6 +39,7 @@ Last Updated May 4, 2021
 - [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
 - [Design](#design)
 - [Screenshots](#screenshots)
+- [Release notes](#release-notes)
 
 ---
 
@@ -203,3 +204,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 ![Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20-%20Identity%20Verified.jpg)
 
 ![Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-connected.jpg)
+
+## Release Notes
+
+[Published quarterly in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Profile-release-notes.md)
