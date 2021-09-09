@@ -9,7 +9,8 @@ We are mainly concerned with the relevance of the videos that might be shown to 
 
 Secondly, you mentioned that the videos from the tab are what would be presented to us via the API and that they are sorted by recency not relevancy. Is it possible to switch that? The most recent video may not be the most relevant for a users query. 
 
-And lastly, in regards to the design are we free to implement any design Megan feel is best for the users experience or are we limited to having only one video appearing between the best bet and the search results? Similar to the way that NASA has implemented videos here? 
+And lastly, in regards to the design are we free to implement any design we feel is best for the users experience?
+For example, are we limited to displaying all videos in a tab and having only one video appearing between the best bet and the search results? Similar to the way that NASA has implemented videos here?
 
 ![image](https://user-images.githubusercontent.com/72393866/132742847-d866e139-2463-43f7-b7c0-f88e79234dec.png)
 
