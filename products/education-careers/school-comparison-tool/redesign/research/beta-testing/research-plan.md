@@ -150,7 +150,7 @@ Group 19:
  
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
- - Aug 25 - Sept 6, 2021
+ - Sept 9 - Sept 15, 2021
   	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
  - Aug 23, 2021
