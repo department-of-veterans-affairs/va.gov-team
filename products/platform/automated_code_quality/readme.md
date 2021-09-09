@@ -1,4 +1,14 @@
 # Automated Code Quality (Front-End) v1.2
+
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Automated-code-quality.1845887276.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 Provide automated tooling to automate to improve code quality with explicit and enforced standards to help reduce the burden of code reviews felt by both VFS and VSP Teams.
 
 ## Tools Implemented:

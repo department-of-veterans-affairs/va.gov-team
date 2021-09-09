@@ -1,5 +1,14 @@
 # Triggering a manual review
 
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Triggering-a-manual-review.1846083890.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 Each PR on `vets-website` will run through an automated process which looks for code additions/modifications
 which could be considered bad for the platform.  If a potential issue is found, a bot will leave an
 automated comment and request a review from the **frontend-review-group**.

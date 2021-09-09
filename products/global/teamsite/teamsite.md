@@ -1,5 +1,14 @@
 # Testing Teamsite Header & Footer
 
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Charles-Proxy-setup-for-TeamSite.1857060882.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 In order to get teamsite working, you have to set up a proxy that directs your browser to load `/health` and `va_files` from va.gov, and all other files from `localhost:3001`. This lets you edit css, javascript etc, and load from webpack, without having to set up teamsite locally.
 
 ## Guide

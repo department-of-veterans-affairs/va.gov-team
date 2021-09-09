@@ -3,6 +3,14 @@
 Front end apps on `vets-website` should have unit tests and end-to-end tests. It is the application team's responsibility to create and maintain adequate automated test coverage for their applications. 
 
 ## Unit tests 
+----
+
+## We're moving our docs! 
+#### Find [the latest version of this section](https://depo-platform-documentation.scrollhelp.site/developer-docs/Unit-tests.1836187655.html) on the Platform website.
+
+#### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 
 - New code added to `vets-website` should be unit tested.
 - Updated code should pass or adjust existing unit tests.

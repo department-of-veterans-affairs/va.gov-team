@@ -1,5 +1,14 @@
 # Resolving critical issues
 
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Resolving-critical-issues.1846182121.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 This document describes VSP policy for handling critical issues in master branches, regardless of whether that issue has reached production.
 
 We intend to keep our repositories **always deployable from master branches**. VA.gov does not use release branches; instead, we maintain a focus on keeping the master branches healthy. This means that problematic code in master branches should be resolved as quickly as possible.

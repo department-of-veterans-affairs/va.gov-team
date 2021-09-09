@@ -1,5 +1,14 @@
 # Support and Triage rotation (Frontend support dev)
 
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/FTT/pages/1872592907/Support+and+Triage+Rotation) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 ## Overview 
 
 Supporting VFS teams requires a cohesive and well-coordinated experience. The frontend tools team assigns responsibility for this work to a VSP frontend engineer (frontend support dev) on a weekly rotation. This document summarizes the responsibilities of this role and how the rotation works. 
