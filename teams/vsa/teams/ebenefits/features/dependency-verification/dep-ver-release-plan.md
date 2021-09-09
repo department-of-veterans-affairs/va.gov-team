@@ -106,7 +106,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: August 2021
+- Desired date: September 2021
 - Post-launch KPI 1: positive verfication greater than 10%
 - etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/dep-ver-go-no-go.md]
