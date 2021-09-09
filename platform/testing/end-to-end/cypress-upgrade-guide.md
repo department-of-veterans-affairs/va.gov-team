@@ -1,3 +1,9 @@
+----
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Cypress-Upgrade-Guide.1869742109.html) on the Platform website.
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # Cypress Upgrade Guide
 
 Cypress is under active development, and the Cypress development team has been releasing regular changes to the tool. Minor version are released every few weeks, while major versions are released a few times per year. This guide documents our approach to upgrading Cypress consistently so that potential issues with upgrades are adequately addressed, and VFS teams are informed of any relevant changes to Cypress.
