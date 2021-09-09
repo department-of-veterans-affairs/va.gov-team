@@ -25,7 +25,7 @@ If a Veteran experiences an incident of harassment or other inappropriate behavi
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a mobile design prototype in UXPin. All participants will be using smartphones to match the form factor of the prototype.
 
 ## Participants and Recruitment	
-Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with harassment. Such SMEs may include mental health counselors at VA facilities or Vet Centers who counsel harassment victims, and VA staff who field harassment reporting calls from Veterans and/or VA employees. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
+Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with harassment. Such SMEs may include mental health counselors or social workers at VA facilities or Vet Centers who counsel harassment victims, VA staff who field harassment reporting calls from Veterans and/or VA employees, or patient advocates at the VA. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
 
 ### Participants to recruit
 
@@ -58,20 +58,20 @@ Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8
 - Have Zoom downloaded to their phone prior to the session and know how to share their screen
 
 ## Timeline
-#### Desired Timeline: Oct 4-8, 2021 
+#### Desired Timeline: Oct 11-14, 2021 
 **60-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-Oct 4, 2021 | Noon - 3 pm, 4 - 8 pm
-Oct 5, 2021 | Noon - 3 pm, 4 - 8 pm
-Oct 6, 2021 | Noon - 3 pm, 4 - 8 pm
-Oct 7, 2021 | Noon - 3 pm, 4 - 8 pm
+Oct 11, 2021 | Noon - 3 pm, 4 - 8 pm
+Oct 12, 2021 | Noon - 3 pm, 4 - 8 pm
+Oct 13, 2021 | Noon - 3 pm, 4:30 - 8 pm
+Oct 14, 2021 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-Sept 27, 28, or 29, 2021  |  TBD 
-Sept 29 or 30, 2021  |  TBD 
+Oct 4 or 5, 2021  |  TBD 
+Oct 6 or 7, 2021  |  TBD 
 
 
 ## Team Roles	
@@ -82,7 +82,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participants for pilot test:	TBD
 - Notetakers:	Perigean 
-- Observers:	Dave Conlon? (emailTBD@va.gov), Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Soni Meckem? Josh Farrar?
+- Observers:	Dave Conlon? (david.conlon@va.gov), Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Soni Meckem? Josh Farrar?
  
 ## Resources	
 - [Conversation Guide]()	
