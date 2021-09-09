@@ -81,7 +81,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - August 31, 2021
+  - September 2021
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch?*
