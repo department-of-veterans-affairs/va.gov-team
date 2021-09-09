@@ -1,5 +1,39 @@
 ## Type Ahead - Search.gov Meeting & Implementation Notes
 
+### Sept 9 Followup on Videos
+
+Hi Amani, 
+Thank you for the information regarding videos. We have done more exploration and have a few questions before we proceed. 
+
+We are mainly concerned with the relevance of the videos that might be shown to users and the inclusion of the playlists is posing some challenges. So our first question, is it possible to exclude those playlists from the API?
+
+Secondly, you mentioned that the videos from the tab are what would be presented to us via the API and that they are sorted by recency not relevancy. Is it possible to switch that? The most recent video may not be the most relevant for a users query. 
+
+And lastly, in regards to the design are we free to implement any design Megan feel is best for the users experience or are we limited to having only one video appearing between the best bet and the search results? Similar to the way that NASA has implemented videos here? 
+
+![image](https://user-images.githubusercontent.com/72393866/132742847-d866e139-2463-43f7-b7c0-f88e79234dec.png)
+
+Our plan is to use your responses to aid our discussion with the VA before we proceed. We will let you know what is decided. 
+Thanks again,
+Denise
+
+
+
+### Aug 19 Response from Search.gov
+
+Hi Denise and team,
+
+Appreciate your patience while we investigated this!
+
+Difference in Results on First Page vs. Tab: We'll show the most relevant video in the first page of results, while the videos tab itself shows results sorted by recency. It also looks like we require a keyword match in the video title to show on the first page, rather than only a match in the description. However, if you use the Videos API endpoint, you'll retrieve all videos (that would be listed in the tab), not just the singular one we feature on the hosted results page. 
+
+Videos from other channels appearing in results: We index all playlists for any given youtube channel, so that's where those additional videos are coming from. You can see the VA playlists here: https://www.youtube.com/c/VeteransHealthAdmin/playlists and an example of a playlist with non-VA content here: https://www.youtube.com/watch?v=zahV4QKqaUw&list=PL3AQ_JVoBEyyy1-hWbMe2MWPWL3aben9I  
+
+As always, let us know with additional questions!
+
+Best,
+Amani
+
 
 ### August 5 - VA Search Related Updates
 
