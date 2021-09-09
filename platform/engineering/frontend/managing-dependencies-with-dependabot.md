@@ -1,5 +1,14 @@
 # Dependabot in `vets-website` repo
 
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Dependabot.1846018114.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 **Author:** Jhonny Gonzalez
 
 **Last Updated:** June 25, 2020
