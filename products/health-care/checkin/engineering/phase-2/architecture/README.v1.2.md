@@ -6,7 +6,7 @@
 
 ## Notes
 
-- VETS-API is now treating `sessions` as a RESTful resource.
+- For the vet-api, the endpoints need refactored to include RESTful endpoints for validation and check-in
 - This flow picks up once the user clicks a generated link from VeText.
 
 ## Notes from Engineering team
@@ -55,7 +55,3 @@ Would Veterans like to see the valid times they can check in to an appointment i
 How many chances does the Veteran get to validate? Ask Security team.  
 When will Lorota delete the data? Overnight scheduled job?
 Veterans may want to see the list of appointments they checked in to on a day, after the final appointment check in valid time has expired.
-
-## Vets Website to Vets API endpoints
-
-// TODO: this
