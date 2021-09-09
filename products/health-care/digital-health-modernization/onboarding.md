@@ -361,6 +361,12 @@ Strategies from previous attempts to do similar projects.
 - [VA OCTO](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/2020.1.10%20readout%20%20(1).pptx)
 - [By Light](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/documents/MHV_Going%20Forward_White_Paper_Dec_20.2019.docx)
 
+### Background on Veterans and VA
+[Ad Hoc's "VA 101"presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/VA%20101%20-%20External%20-%20Aug%202021.pdf) gives detailed info on: 
+- Veteran demographics
+- Veteran benefit usage, journeys, and pain points with VA
+- VA benefits and services, budget and staffing, and key policies
+
 ## Directory of points of contact
 Use this to connect with teams referenced throughout this document.
 
