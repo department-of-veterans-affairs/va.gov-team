@@ -27,7 +27,7 @@
 ## September 9, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
 ### Action items:
 1. Program/Stakeholder Update - @Soni/Josh
-2. Action items from HRT Landing Page Sync (Revisit warrning box, need to determine phone/email for Veterans) What else?  followup timline?
+2. Action items from HRT Landing Page Sync (Revisit warrning box, need to determine phone/email for Veterans) **Establish a feedback cutoff time** for consolidation and dissemination to PW/Sitewide content team.  Thoughts? 
 3. Research / Recruiting Plan update @Cindy 
 4. Content/Design working to finalize prototype (plan to schedule design review with team once udpated) @Cassandra/Brian
 5. Status: @Cassandra finalizing design "content" updates / Working UX Pin Interactive Prototype, Veteran Research Plan Draft is in-progress.   
