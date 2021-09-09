@@ -80,7 +80,7 @@ Incrementally. It will take intense collaboration and planning, with the Health 
 - A designer from OCTO
 
 In the workshops, OCTO-OCC leadership decided to move appointments into the health apartment first for a few reasons:
-- Appointments is one of the “big four” Veteran top task areas (scheduling, managing, cancelling, rescheduling, etc.).
+- Appointments is one of the “big four” Veteran top task areas. (Appointments functionality includes scheduling, managing, cancelling, rescheduling, and more.)
 - Both My HealtheVet and VA.gov have appointments functionality (some of it redundant).
 - [VA Online Scheduling (VAOS)](https://www.va.gov/health-care/schedule-view-va-appointments/), the appointments tool with more functionality than [My HealtheVet Appointments](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/keeping-up-with-your-va-appointments), is already part of VA.gov.
 
