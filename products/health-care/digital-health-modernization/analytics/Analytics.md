@@ -82,6 +82,23 @@ Note: It's likely that there were many more disabled Vets not identified, in par
   - Appointments - My HealtheVet
   - My VA - VA.gov
   - Disabilities - eBenefits (signed in)
+
+- [Top search terms on VA.gov (September 1, 2020 to August 31, 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/analytics/Search.gov_Search_Terms_Sept_1_2020_to_August_31_2021.xlsx) Report pulled from search.gov. Health-related terms included the following (from top 30 terms):
+  - travel pay
+  - direct deposit
+  - rating
+  - forms
+  - disability rating
+  - dd214
+  - dental
+  - disability
+  - travel
+  - travel reimbursement
+  - urgent care
+  - payment history
+  - community care
+  - champva
+  - covid vaccine
  
 ### Analytics on top tasks to inform information architecture planning (Summer 2020)
 - [Analytics on top tasks (pageviews)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/analytics/top-task-analytics.md) — These analytics informed the above wayfinding research completed in Spring 2021.
@@ -90,6 +107,7 @@ Note: It's likely that there were many more disabled Vets not identified, in par
 - [VA-gov-relaunch-2018 repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/user-research) — This folder has a good summary of the research. Below is a screen grab from [this October 2018 summary of the research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/user-research/brand-consolidation-research-summary-10-25-2018.pptx) that shows the top tasks for health and disability used in the Study 4b navigation tree test.
 
 <img width="438" alt="top-HC-and-disability-tasks_WBC-research-2018" src="https://user-images.githubusercontent.com/20934443/132397080-5fa0c2a5-60bf-4b29-897b-cab10bb2ccc8.png">
+
 
 
 
