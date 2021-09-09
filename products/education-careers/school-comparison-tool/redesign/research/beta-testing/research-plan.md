@@ -48,8 +48,6 @@ Please list your participant criteria in two categories-
 1. **Primary criteria / Must have** 
 
 
-**Current**
-
 Group 1:
  - Men who have previously used Chapter 33 benefits
  - Will test on a desktop computer
@@ -94,9 +92,6 @@ Group 9:
 - Non-Veteran dependents who have previously used, are currently using, or plan to use Chapter 35 benefits in the next year
 - Will test on a desktop computer
 - Link: https://www.surveymonkey.com/r/69P9SRQ
-
-
-**On Hold**
 
 Group 10:
  - Men who have previously used Chapter 33 benefits
