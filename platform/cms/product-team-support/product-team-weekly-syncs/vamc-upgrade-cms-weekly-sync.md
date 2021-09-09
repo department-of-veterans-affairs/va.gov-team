@@ -25,6 +25,9 @@
 
 Ongoing editor support processes
 
+Archiving mobile facilities (eg mobile facilities at Fayetteville Coastal https://github.com/department-of-veterans-affairs/va.gov-team/issues/29782)
+- is this being done proactively? At least one editor requested it via help desk.
+
 Dual state and prod rollouts
 - full prod rollouts in the coming weeks
 - decommissioning dual state tugboat environments after dual state launch
