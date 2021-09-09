@@ -195,6 +195,9 @@ The following describes the key milestones of the team’s journey.
 **Appointments consolidation | July 2021**
 - Began collaborating with My HealtheVet.
 
+**Prep for onboarding the Health Apartment Team | August - September 2021**
+- Began collaborating with My HealtheVet.
+
 ## OCTO-OCC vision workshops
 From April to June 2021, the DHM Team led a series of 4 workshops with OCTO and OCC leadership to define a vision to simplify Veterans’ health experience on the web, as well as a path forward for realizing that vision.
 
