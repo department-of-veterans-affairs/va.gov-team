@@ -119,11 +119,11 @@ Now go ahead and try it.
 
 - *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
-- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
-
 Before you do anything on this page, what do you think you can do here? 
 
 Now you can go ahead with what you wanted to do.
+
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
 
 - *RECORD search query typed:* _____________________________
 
@@ -153,11 +153,11 @@ Now go ahead and try it.
 
 - *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
-- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:* 
-
 Before you do anything on this page, what do you think you can do here? 
 
 Now you can go ahead with what you wanted to do.
+
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:* 
 
 - *RECORD search query typed:* _____________________________
 
@@ -188,11 +188,11 @@ Now go ahead and try it.
 
 - *RECORD any reactions to the search landing page, esp. if got there from Search in header*
 
-- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
-
 Before you do anything on this page, what do you think you can do here? 
 
 Now you can go ahead with what you wanted to do.
+
+- *RECORD where clicked on search landing page: search box / Find a VA Form / Resources and support / Find VA Locations / More search tools:*
 
 - *RECORD where clicked on Resources and support page: search box / college credits article link*
 
