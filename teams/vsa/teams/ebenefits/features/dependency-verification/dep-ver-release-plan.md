@@ -11,7 +11,7 @@ That's what this Release Plan Template is for!
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: August 2021
+- Desired date range or test duration: September 2021
 - Desired number of users: 5
 - How you'll recruit the right production test users: Perigean
 - How you'll conduct the testing: Zoom
