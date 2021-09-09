@@ -131,10 +131,7 @@ Applicants under the age of 18 can't legally make a benefits election. Based on 
     - Female
     - Male
 - What's your relationship to the service member whose benefit is being transferred to you? (*Required) { radio buttons }
-    - Spouse or surviving spouse [Learn more]()
-         - Learn more ARIA label: Learn more about VA requirements for marriage certification 
-         - Learn more header: Marriage certification
-         - Learn more content:  If you are certifying that you are married for the purpose of VA benefits, your marriage must be recognized by the place where you and/or your spouse resided at the time of marriage or where you and/or your spouse resided when you filed your claim (or a later date when you became eligible for benefits) (38 U.S.C.§ 103(3)). Additional guidance on when VA recognizes marriages is available at http://www.va.gov/opa/marriage/.
+    - Spouse or surviving spouse [Learn more](http://www.va.gov/opa/marriage/)
     - Child, stepchild, adopted child
 
 [ Back | Continue ] { buttons }   
