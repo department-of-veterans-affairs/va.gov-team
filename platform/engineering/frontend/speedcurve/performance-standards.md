@@ -1,5 +1,14 @@
 # Monitoring performance on VA.gov
 
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Monitoring-Performance-on-va.gov.1846214727.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 [SpeedCurve](https://www.speedcurve.com) provides insight into the interaction between performance and design to help Veteran-facing services (VFS) teams deliver fast and engaging user experiences.
 
 SpeedCurve also provides performance feedback of each app such as page size and how long it takes to load a page, and can show you the impact new features have on the performance of the app.
