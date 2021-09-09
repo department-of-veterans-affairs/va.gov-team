@@ -7,7 +7,7 @@ The purpose of this research is to get user feedback on the new online harassmen
 
 ### Phase 1: SME Discussions (early Sept; 30 min over Zoom)
 We want to reach out to several SMEs who work with Veterans dealing with harassment and talk with them about the research we're planning. SMEs might include
-- Mental health counselors at VA facilities or VSOs
+- Mental health counselors or social workers at VA facilities or VSOs
 - Vet Center outreach specialists or counselors 
 - VA staff who answer harassment reporting calls from Veterans and/or VA employees
 - Patient advocates at the VA
