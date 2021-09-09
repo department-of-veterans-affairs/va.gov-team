@@ -196,7 +196,10 @@ The following describes the key milestones of the team’s journey.
 - Began collaborating with My HealtheVet.
 
 **Prep for onboarding the Health Apartment Team | August - September 2021**
-- Began collaborating with My HealtheVet.
+- Wrote this onboarding guide.
+- Created a [health apartment site map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1630530056765/d3d8cdb3f341d709f2f6b6658bbd7d6b6c50bf75).
+- Gathered [analytics (page views and search terms)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/analytics/Analytics.md).
+- Sketched out user research studies.
 
 ## OCTO-OCC vision workshops
 From April to June 2021, the DHM Team led a series of 4 workshops with OCTO and OCC leadership to define a vision to simplify Veterans’ health experience on the web, as well as a path forward for realizing that vision.
