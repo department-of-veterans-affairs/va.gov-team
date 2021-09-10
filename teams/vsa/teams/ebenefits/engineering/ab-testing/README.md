@@ -19,6 +19,4 @@ Notes
 Feature candidates to start with:
 - Payment History: test various functins (like sorting) to see if they are used.
 - Rated Disabilities: test various functionalities (like sorting)
-- Test sorting on Payment History (given its high traffic numbers: see if sorting is useful)
-- Test sorting on Rated Disabilities for individual ratigns (to be descending: is it reducing cognitive overhead?)
-- Test engagement with VR&E Orientation (would its removal/reduction help with conversion rate)
+- VR&E Orientation: what impact does changing this make to conversions?
