@@ -6,7 +6,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 <details>
 <summary></summary>
   
-- [Use Case A](#use-case-a) 
+- [Use Case A - Unverified identity](#use-case-a-unverified-identity) 
 - [Use Case B](#use-case-b)
 - [Use Case C](#use-case-c)
 - [Use Case D](#use-case-d)
@@ -17,7 +17,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   
 </details>
 
-## Use Case A
+## Use Case A - Unverified identity
 
 * **Description**
   - LOA1 user has not verified their identity
