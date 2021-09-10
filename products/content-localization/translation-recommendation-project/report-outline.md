@@ -1,24 +1,24 @@
 # Section 1: Executive summary (Danielle, Sharon)
-Section 2: Our phased approach to date(Danielle, sitewide content team)
+# Section 2: Our phased approach to date(Danielle, sitewide content team)
 - Include translation workflow artifact
-Section 3: Needs assessmentDanielle, Eunice, Sharon)
+# Section 3: Needs assessmentDanielle, Eunice, Sharon)
 - Population statistics (Danielle has some in early research, Mateo sent more, continue to explore)
 - VEO research findings (Danielle to ask for update from VEO)
 - Information from patient advocates and others (Danielle to lead)
 - Our research (hopefully working with PW team)
 - VA.gov analytics (Sharon lead)
 - MyVA411 requests for interpreter (# of requests, languages requested)
-Section 4: Translation process and workflow- How other agencies/companies are handling translation now (Danielle, Eunice, Sharon)
+# Section 4: Translation process and workflow- How other agencies/companies are handling translation now (Danielle, Eunice, Sharon)
 - Include summary of other agency conversations
 - Include summary of board survey results (Danielle note - just received this)
 - Considerations for TeamSite pages (Danielle, Sharon working with Jenny, Mateo, other VA stakeholders)
 - Results of our automated workflow pilot
 - Technical flow diagram of automated workflow (Michelle, Fareez)
 - Comparison of current workflow and automated workflow (Danielle, sitewide content team)
-Section 5: Drupal multilingual level of effort (LOE) (Michelle, Fareez)
+# Section 5: Drupal multilingual level of effort (LOE) (Michelle, Fareez)
 - What it will look like
 - What we need to do to make it happen- Costs ($ and staffing)
-Section 6: Recommendations/options for sustainable long-term solution
+# Section 6: Recommendations/options for sustainable long-term solution
 - Overall considerations: (Team - Danielle, Sharon to lead - will involve coordination with our VA SME partners)
 - What content to translate and when (informed, in part, by needs assessment and the technical/cost, staffing realties)
 - What languages to translate to(informed, in part, by needs assessment)
@@ -35,5 +35,5 @@ Section 6: Recommendations/options for sustainable long-term solution
 - team input)- What it would take to make it happen (Michelle, Fareez)
 - Technical (addressing tech debt, implementation, etc.) (Michelle, Fareez)
 - Procurement needs (short-term/long-term) (Danielle, Eunice, Michelle, Mary)
- -Timing of when we could make the technical solution happen (Michelle, Fareez)
-Section 7:Conclusion
+- Timing of when we could make the technical solution happen (Michelle, Fareez)
+# Section 7:Conclusion
