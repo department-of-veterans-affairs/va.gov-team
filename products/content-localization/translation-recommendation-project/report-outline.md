@@ -1,4 +1,5 @@
 ## Section 1: Executive summary (Danielle, Sharon)
+
 ## Section 2: Our phased approach to date(Danielle, sitewide content team)
 - Include translation workflow artifact for current process
 - Write up and diagram of Reference Entity fields
@@ -22,6 +23,8 @@
 
 ## Section 5: Drupal multilingual level of effort (LOE) (Michelle, Adam)
 - What it will look like **(SK note: add topic for 16th min?)**
+- Approach for adt'l languages (ie Chinese)
+- Approach to supporting form applications
 - What we need to do to make it happen - Costs ($ and staffing)
 
 ## Section 6: Recommendations/options for sustainable long-term solution
