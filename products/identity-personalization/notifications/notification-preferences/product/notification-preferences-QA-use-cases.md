@@ -31,7 +31,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. See warning message at the top of the page stating your profile information can't be loaded, and a prompt to verify your identity
 
-## Use Case B Not enrolled in health care
+## Use Case B: Not enrolled in health care
 
 * **Description**
   - User is _not_ enrolled in health care and therefore does not see the "Your health care" notification group or items within
@@ -44,7 +44,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. See only the Applications, claims, decision reviews, and appeals notification group within Board of Veterans' Appeals hearing reminder notification item.
 
-## Use Case C No Rx tracking
+## Use Case C: No Rx tracking
 
 * **Description**
   - User is enrolled in health care at a participating prescription shipment tracking facility
@@ -57,7 +57,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
-## Use Case D Health care with Rx tracking
+## Use Case D: Health care with Rx tracking
 
 * **Description**
   - User is enrolled in health care but _not_ with a participating prescription shipment tracking facility
@@ -71,7 +71,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
 
-## Use Case E Missing mobile phone
+## Use Case E: Missing mobile phone
 
 * **Description**
   - User is missing mobile phone number
@@ -85,7 +85,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   3. User sees alert at the top of the page telling them to provide mobile phone number, with link to the Personal and contact information section of Profile. Link will deep link to mobile phone section of contact info page.
 
 
-## Use Case F Adding mobile phone
+## Use Case F: Adding mobile phone
 
 * **Description**
   - User adds mobile phone via alert message 
@@ -101,7 +101,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   5. User follows steps to add their mobile phone number.
   6. Upon saving their mobile phone number, user sees link to return to notification settings to continue establishing their notification settings.
 
-## Use Case G Save failure
+## Use Case G: Save failure
 
 * **Description**
   - Save failure
