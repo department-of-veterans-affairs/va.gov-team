@@ -17,6 +17,7 @@ This is to help guide and memorialize decisions made about different functionali
 - Where does the Veteran send it
 - From there (**the intended rep**) it goes to ______
 2. What system(s) is/are used to send now?  What is expected?
+- Is there regular downtime on partner systems for things like scheduled maintenance?
 - Is the Office of General Counsel responsible for managing the system/process?
 3. What is the appointment process?
 - Where or who set the rep in CorpDB for the Veteran
