@@ -6,18 +6,18 @@ Link to product outline: [Notification Preferences product outline](https://gith
 <details>
 <summary></summary>
   
-- [Use Case A - Unverified identity](#use-case-a-unverified-identity) 
-- [Use Case B](#use-case-b)
-- [Use Case C](#use-case-c)
-- [Use Case D](#use-case-d)
-- [Use Case E](#use-case-e)  
-- [Use Case F](#use-case-f)  
-- [Use Case G](#use-case-g)
+- [Use Case A - LOA1 unverified identity](#use-case-a-loa1-unverified-identity) 
+- [Use Case B - Not enrolled in health care](#use-case-b-not-enrolled-in-health-care)
+- [Use Case C - No Rx tracking](#use-case-c-no-rx-tracking)
+- [Use Case D - Health care with Rx tracking](#use-case-d-health-care-with-rx-tracking)
+- [Use Case E - Missing mobile phone](#use-case-e-missing-mobile-phone)  
+- [Use Case F - Adding mobile phone](#use-case-f-adding-mobile-phone)  
+- [Use Case G - Save failure](#use-case-g-save-failure)
   
   
 </details>
 
-## Use Case A - Unverified identity
+## Use Case A - LOA1 unverified identity
 
 * **Description**
   - LOA1 user has not verified their identity
@@ -31,7 +31,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. See warning message at the top of the page stating your profile information can't be loaded, and a prompt to verify your identity
 
-## Use Case B
+## Use Case B - Not enrolled in health care
 
 * **Description**
   - User is _not_ enrolled in health care and therefore does not see the "Your health care" notification group or items within
@@ -44,7 +44,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. See only the Applications, claims, decision reviews, and appeals notification group within Board of Veterans' Appeals hearing reminder notification item.
 
-## Use Case C
+## Use Case C - No Rx tracking
 
 * **Description**
   - User is enrolled in health care at a participating prescription shipment tracking facility
@@ -57,7 +57,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
-## Use Case D
+## Use Case D - Health care with Rx tracking
 
 * **Description**
   - User is enrolled in health care but _not_ with a participating prescription shipment tracking facility
@@ -71,7 +71,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
 
-## Use Case E
+## Use Case E - Missing mobile phone
 
 * **Description**
   - User is missing mobile phone number
@@ -85,7 +85,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   3. User sees alert at the top of the page telling them to provide mobile phone number, with link to the Personal and contact information section of Profile. Link will deep link to mobile phone section of contact info page.
 
 
-## Use Case F
+## Use Case F - Adding mobile phone
 
 * **Description**
   - User adds mobile phone via alert message 
@@ -101,7 +101,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   5. User follows steps to add their mobile phone number.
   6. Upon saving their mobile phone number, user sees link to return to notification settings to continue establishing their notification settings.
 
-## Use Case G
+## Use Case G - Save failure
 
 * **Description**
   - Save failure
