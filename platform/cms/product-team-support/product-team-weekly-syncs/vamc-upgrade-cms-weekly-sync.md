@@ -32,6 +32,11 @@ Dual state and prod rollouts
 - full prod rollouts in the coming weeks
 - decommissioning dual state tugboat environments after dual state launch
 
+Editor support
+- Accessibility issues for:
+  - https://prod.cms.va.gov/central-arkansas-health-care/health-services/veteran-connections-at-va-central-arkansas-health-care
+  - https://prod.cms.va.gov/houston-health-care/health-services/workshops-and-classes-at-va-houston-health-care
+
 ## September 3
 
 Scaffolding
