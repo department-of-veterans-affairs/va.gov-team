@@ -14,9 +14,9 @@ This is to help guide and memorialize decisions made about different functionali
   
 1. Workflow for the form:
 - Where does it originate? **Veteran**
-- Where does the Veteran send it
+- Where does the Veteran send it? **The Veteran must complete the form (electronically or paper), and submit it to their VSO who will sign and send on to VA (Often via a VA "upload portal").** 
 - From there (**the intended rep**) it goes to ______
-2. What system(s) is/are used to send now?  What is expected?
+2. What system(s) is/are used to send now? **We heard there is an "upload portal" to receive the 21-22; eBenefits was mentioned once, SEP came up.** What is expected? **VA receives the form, then allows the VSO open access to the veteran's health records and claims (minus and restrictions). That's pretty much the sum of what the form does: POA so the VSO can see what the Veteran sees.**
 - Is there regular downtime on partner systems for things like scheduled maintenance?
 - Is the Office of General Counsel responsible for managing the system/process?
 3. What is the appointment process?
