@@ -53,9 +53,10 @@ This is to help guide and memorialize decisions made about different functionali
 13. Is it necessary that the forms be PDF'd and uploaded to eFolder?  
 
 **TL;DR - what does this mean?  what do we do next?**
-Tickets to write:
-- ...
 
+## Tickets to write:
+
+## Decisions
 
 **June 17, 2021**  
 Hold off on Save in Progress afor searching for a rep for now: too small to justifiy SIP on search POA
