@@ -25,22 +25,25 @@ This is to help guide and memorialize decisions made about different functionali
 - It seems that email address is preferred for initial contact (reaching out directly), is that collected and available? Or will it eventually? Is it a spam risk?
 6. Is there a place to determine if the application is pending?
 - Do we need to manage its status?
-7. How does SEP play a role?
-- Is it just another portal for VSOs to use?
-- Can we get a walkthrough?
-- How many are using SEP?
-8. Is there anything on the form(s) that is not necessary?  (What is the minimum required fields for successul addition?
-9. How are reps removed?
-10. For VA use only, do we need to address this?  
+7. How does SEP play a role?  
+- Is it just another portal for VSOs to use?  
+- Can we get a walkthrough?  
+- How many are using SEP?  
+8. Is there anything on the form(s) that is not necessary?  (What is the minimum required fields for successul addition?  
+9. How are reps removed?  
+10. For VA use only, do we need to address this?    
 <details>
   <summary>Click to see screenshot</summary>
   
   ![image](https://user-images.githubusercontent.com/53826255/132881760-e29a1be7-ca56-45dd-8d49-8ccbeefce464.png)
 
 </details>
-11. What are the largest pain points?  
-- What would make things easier for the Veteran?  For OGC?  
-12. How does Direct Upload play a role in this application today?  Centralized Mail?  
+
+11. What are the largest pain points?   
+- What would make things easier for the Veteran?   
+- For OGC?  
+12. How does Direct Upload play a role in this application today?   
+- Centralized Mail?   
 - We have heard of SEP, Direct Mail Upload, CMP, Vets Pro, VBMS, CAG  
 13. Is it necessary that the forms be PDF'd and uploaded to eFolder?  
   
