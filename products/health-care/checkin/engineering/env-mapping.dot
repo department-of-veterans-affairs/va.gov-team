@@ -1,0 +1,34 @@
+digraph environments_mapping {
+  cnpd [label = "CHIP NONPROD"]
+  cint [label = "CHIP INT"]
+  cppd [label = "CHIP PREPROD"]
+  cprd [label = "CHIP PROD"]
+  ldev [label = "LoROTA DEV"]
+  lint [label = "LoROTA INT"]
+  lstg [label = "LoROTA STAGING"]
+  lprd [label = "LoROTA PROD"]
+  vdev [label = "vets-api DEV"]
+  vint [label = "vets-api STAGING (v1)"]
+  vstg [label = "vets-api STAGING (v0)"]
+  vprd [label = "vets-api PROD"]
+  vtst [label = "VEText STAGING"]
+  vtpd [label = "VEText PROD"]
+  vast [label = "VistA API STAGING"]
+  vapd [label = "VistA API PROD"]
+
+  edge [len = 2.3]
+  cnpd -> {ldev vast}
+  vdev -> {cnpd ldev}
+  cint -> {lint vast}
+  vint -> {cint lint}
+  vtst -> cppd
+  cppd -> {lstg vast}
+  vstg -> {cppd lstg}
+  vtpd -> cprd
+  cprd -> {lprd vapd}
+  vprd -> {cprd lprd}
+
+  labelloc="t"
+  fontsize=24
+  label="Check In Experience System Environments Mapping"
+}
