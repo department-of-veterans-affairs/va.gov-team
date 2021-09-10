@@ -16,4 +16,4 @@ VEText PROD -> CHIP PROD
 CHIP PROD -> LoROTA PROD, VistA API PROD
 vets-api PROD -> CHIP PROD, LoROTA PROD
 
-![Check In Experience Environments Mapping](./cie-environments-mapping.svg)
+![Check In Experience Environments Mapping](cie-environments-mapping.svg)
