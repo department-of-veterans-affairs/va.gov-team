@@ -82,7 +82,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 **Agenda:** Team shares new and interesting work they’d like to highlight (UX, FE, BE); Team shares 1-2 sentence summary of what went out in that day's release, using the ZH Release Report
 
 
-### Retro
+## Retro
 
 **When:** Tuesday, last day of the sprint
 
