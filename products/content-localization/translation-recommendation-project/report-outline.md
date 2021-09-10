@@ -1,6 +1,8 @@
 ## Section 1: Executive summary (Danielle, Sharon)
 ## Section 2: Our phased approach to date(Danielle, sitewide content team)
 - Include translation workflow artifact
+- Write up and diagram of Reference Entity fields
+- Write up and diagram of form applications
 ## Section 3: Needs assessmentDanielle, Eunice, Sharon)
 - Population statistics (Danielle has some in early research, Mateo sent more, continue to explore)
 - VEO research findings (Danielle to ask for update from VEO)
