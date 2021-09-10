@@ -3,7 +3,7 @@
 - Include translation workflow artifact for current process
 - Write up and diagram of Reference Entity fields
 - Write up and diagram of form applications
-- 
+
 ## Section 3: Needs assessment (Danielle, Eunice, Sharon)
 - Population statistics (Danielle has some in early research, Mateo sent more, continue to explore)
 - VEO research findings (Danielle to ask for update from VEO)
@@ -11,7 +11,7 @@
 - Our research (hopefully working with PW team)
 - VA.gov analytics (Sharon lead)
 - MyVA411 requests for interpreter (# of requests, languages requested)
-- 
+
 ## Section 4: Translation process and workflow - How other agencies/companies are handling translation now (Danielle, Eunice, Sharon)
 - Include summary of other agency conversations **(SK note: can Eunice do first draft)**
 - Include summary of board survey results (Danielle note - just received this)
@@ -19,11 +19,11 @@
 - Results of our automated workflow pilot **(SK note: we're planning work for XLIFF but not doing a Weblate pilot)**
 - Technical flow diagram of automated workflow (Michelle, Adam) **(SK note: as if we had a TMS provider?)**- 
 - Comparison of current workflow and automated workflow (Danielle, sitewide content team)
-- 
+
 ## Section 5: Drupal multilingual level of effort (LOE) (Michelle, Adam)
 - What it will look like **(SK note: add topic for 16th min?)
 - What we need to do to make it happen- Costs ($ and staffing)
-- 
+
 ## Section 6: Recommendations/options for sustainable long-term solution
 - Overall considerations: (Team - Danielle, Sharon to lead - will involve coordination with our VA SME partners)
 - What content to translate and when (informed, in part, by needs assessment and the technical/cost, staffing realties)
@@ -42,5 +42,5 @@
 - Technical (addressing tech debt, implementation, etc.) (Michelle, Adam)
 - Procurement needs (short-term/long-term) (Danielle, Eunice, Michelle, Mary)
 - Timing of when we could make the technical solution happen (Michelle, Adam)
-- 
+
 ## Section 7:Conclusion
