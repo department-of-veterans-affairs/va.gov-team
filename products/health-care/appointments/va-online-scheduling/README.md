@@ -15,7 +15,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 - GitHub label = `vaos` 
 - ZenHub board - [VAOS Team](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/board?repos=133843125,194202180&showPRs=false&showReleases=false&showReviewers=false)
-- [Team Charter](charter.md)
+- [Team Charter](team/charter.md)
 
 ### Slack Channels
 
@@ -43,8 +43,8 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - [Tony Williams](https://dsva.slack.com/team/UMBGJ37EK)
 
 ## What We're Working On
-- Integration with VAMF vaos-service
-- Digital health modernization efforts - "Health Apartment"
+- [Integration with VAMF VAOS Service](initiatives/vaos-service-integration/vaos-service-integration-initiative-brief.md)
+- Digital health modernization efforts - ["Health Apartment"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/onboarding.md)
   - Consolidating web appointments
   - Appointment notifications
 
@@ -59,7 +59,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 - VA Business Owners:
   - Dr. John Murphy (Office of Connected Care)
     - Kay Lawyer (proxy)
-  - Dr. Clinton Greenstone (Office of Community Care)
+  - Dr. Clinton "Leo" Greenstone (Office of Community Care)
     - Kim Pullin (proxy)
   - Dr. Kevin Galpin (Telehealth)
     - Pauline Anderson
@@ -70,6 +70,6 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - Brad Crosby, Engineering Lead
   - Judy Mercado, Business Analyst
   - Steve Alcocer, Business Analyst
-  - Grace Palino, Program Analyst (Production Support/SQA)
-  - Marcy Nadeau, Tester (SQA)
+  - Grace Palino, Production Support/SQA Project Manager
+  - Marcy Nadeau, SQA Tester
 
