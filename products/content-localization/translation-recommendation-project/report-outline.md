@@ -38,7 +38,7 @@
 - Content standards (Danielle, sitewide content - Eunice consulting)
 - Details of 2 to 3 options, with the following information for each:
 - How it would work (with technical diagram/specs) (Michelle, Adam)
-- Benefits (Michelle, Fareez 
+- Benefits (Michelle, Adam)
 - team input re: benefits to larger process, worflow)
 - Risks, drawbacks, limitations (Michelle, Adam)
 - team input)- What it would take to make it happen (Michelle, Adam)
