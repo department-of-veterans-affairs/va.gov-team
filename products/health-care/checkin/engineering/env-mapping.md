@@ -16,4 +16,4 @@ VEText PROD -> CHIP PROD
 CHIP PROD -> LoROTA PROD, VistA API PROD
 vets-api PROD -> CHIP PROD, LoROTA PROD
 
-![Check In Experience Environments Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/cie-environments-mapping.svg)
+![Check In Experience Environments Mapping](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/checkin/engineering/cie_environments_mapping.svg)
