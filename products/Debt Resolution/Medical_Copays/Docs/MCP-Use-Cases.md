@@ -1,6 +1,6 @@
 # [DRAFT] Medical Copays - Use Cases
 
-Last updated 2012-09-01
+Last updated 2021-09-10
 
 _Track and maintain the various use cases that exist for a given product and is
 best maintained alongside the product outline._
@@ -14,7 +14,7 @@ searches and gets no results.", etc._
 
 [Product Outline][mcp-product-outline]
 
-[Designs][designs] [Status-variations and Line-items TBD]
+[Designs][designs] [Table and line items removed from MVP; statements will be downloadable] 
 
 ## On this page
 
@@ -105,7 +105,7 @@ Last updated 2021-08-27
 [copay-overview-active-one-facility]:
   https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466536/simulate/sitemap?mode=i
 [copay-overview-active-multiple-facilities]:
-  https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468774/simulate/sitemap?mode=i
+  https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/140669280/simulate/sitemap?mode=i
 [copay-overview-resolved-one-facility]:
   https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141466576/simulate/sitemap?mode=i
 [copay-overview-active-and-resolved-multiple-facilities]:
