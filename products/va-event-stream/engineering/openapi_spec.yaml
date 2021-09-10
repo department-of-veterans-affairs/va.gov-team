@@ -84,9 +84,10 @@ paths:
 components:
   securitySchemes:
     Bearer:            
-      type: http
-      scheme: bearer
-      bearerFormat: JWT
+      type: apiKey
+      name: Authorization
+      in: header
+      description: Pass the token in the 'Authorization' Header in the format 'Bearer {token}'. e.g. 'Bearer abcdefg1234567'.
   schemas:
     EventRequest:
       required:
