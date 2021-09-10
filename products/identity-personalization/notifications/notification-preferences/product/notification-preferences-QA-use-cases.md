@@ -8,8 +8,8 @@ Link to product outline: [Notification Preferences product outline](https://gith
   
 - [Use Case A: LOA1 unverified identity](#use-case-a-loa1-unverified-identity) 
 - [Use Case B: Not enrolled in health care](#use-case-b-not-enrolled-in-health-care)
-- [Use Case C: No Rx tracking](#use-case-c-no-rx-tracking)
-- [Use Case D: Health care with Rx tracking](#use-case-d-health-care-with-rx-tracking)
+- [Use Case C: Health care with Rx tracking](#use-case-c-health-care-with-rx-tracking)
+- [Use Case D: No Rx tracking](#use-case-d-no-rx-tracking)
 - [Use Case E: Missing mobile phone](#use-case-e-missing-mobile-phone)  
 - [Use Case F: Adding mobile phone](#use-case-f-adding-mobile-phone)  
 - [Use Case G: Save failure](#use-case-g-save-failure)
