@@ -21,8 +21,8 @@
 - Comparison of current workflow and automated workflow (Danielle, sitewide content team)
 
 ## Section 5: Drupal multilingual level of effort (LOE) (Michelle, Adam)
-- What it will look like **(SK note: add topic for 16th min?)
-- What we need to do to make it happen- Costs ($ and staffing)
+- What it will look like **(SK note: add topic for 16th min?)**
+- What we need to do to make it happen - Costs ($ and staffing)
 
 ## Section 6: Recommendations/options for sustainable long-term solution
 - Overall considerations: (Team - Danielle, Sharon to lead - will involve coordination with our VA SME partners)
