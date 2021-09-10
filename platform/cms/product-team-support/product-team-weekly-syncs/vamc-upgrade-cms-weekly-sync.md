@@ -36,6 +36,7 @@ Editor support
 - Accessibility issues for:
   - https://prod.cms.va.gov/central-arkansas-health-care/health-services/veteran-connections-at-va-central-arkansas-health-care
   - https://prod.cms.va.gov/houston-health-care/health-services/workshops-and-classes-at-va-houston-health-care
+  - https://prod.cms.va.gov/pacific-islands-health-care/health-services/psychology-at-va-pacific-islands-health-care
 - Content strategy for: https://www.va.gov/houston-health-care/programs/support-groups/
 
 ## September 3
