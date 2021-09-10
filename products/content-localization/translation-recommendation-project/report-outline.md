@@ -1,22 +1,24 @@
 ## Section 1: Executive summary (Danielle, Sharon)
 
-## Section 2: Our phased approach to date(Danielle, sitewide content team)
-- Include translation workflow artifact for current process
-- Write up and diagram of Reference Entity fields
-- Write up and diagram of form applications
+## Section 2: Our phased approach to date (Danielle, Adam, Michelle)
+- Include translation workflow artifact for current process (include summary - Danielle)
+- Brief summary/diagram of what we have done to date:
+- Screen reader
+- Menu Toggle
+- URLs: need of strategy and recommendation for always using translated URLs
+- Future: Write up and diagram of Reference Entity fields
+- Future: Write up and diagram of form applications
 
 ## Section 3: Needs assessment (Danielle, Eunice, Sharon)
-- Population statistics (Danielle has some in early research, Mateo sent more, continue to explore)
-- VEO research findings (Danielle to ask for update from VEO)
-- Information from patient advocates and others (Danielle to lead)
-- Our research (hopefully working with PW team)
+- Population statistics (Danielle)
+- VA internal data and information (Danielle)
+- Our research (Danielle and Eunice)
 - VA.gov analytics (Sharon lead)
-- MyVA411 requests for interpreter (# of requests, languages requested)
 
 ## Section 4: Translation process and workflow - How other agencies/companies are handling translation now (Danielle, Eunice, Sharon)
 - Include summary of other agency conversations **(SK note: can Eunice do first draft)**
 - Include summary of board survey results (Danielle note - just received this)
-- Considerations for TeamSite pages (Danielle, Sharon working with Jenny, Mateo, other VA stakeholders) **(SK note: what do we need here?)**
+- Considerations for TeamSite pages (Danielle, Sharon working with Jenny, Mateo, other VA stakeholders) 
 - Results of our automated workflow pilot **(SK note: we're planning work for XLIFF but not doing a Weblate pilot)**
 - Technical flow diagram of automated workflow (Michelle, Adam) **(SK note: as if we had a TMS provider?)**
 - Comparison of current workflow and automated workflow (Danielle, sitewide content team)
