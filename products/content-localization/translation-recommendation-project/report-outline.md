@@ -17,7 +17,7 @@
 - Include summary of board survey results (Danielle note - just received this)
 - Considerations for TeamSite pages (Danielle, Sharon working with Jenny, Mateo, other VA stakeholders) **(SK note: what do we need here?)**
 - Results of our automated workflow pilot **(SK note: we're planning work for XLIFF but not doing a Weblate pilot)**
-- Technical flow diagram of automated workflow (Michelle, Adam) **(SK note: as if we had a TMS provider?)**- 
+- Technical flow diagram of automated workflow (Michelle, Adam) **(SK note: as if we had a TMS provider?)**
 - Comparison of current workflow and automated workflow (Danielle, sitewide content team)
 
 ## Section 5: Drupal multilingual level of effort (LOE) (Michelle, Adam)
