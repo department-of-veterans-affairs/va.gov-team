@@ -1,5 +1,7 @@
 ![Check In Experience Environments Mapping](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/checkin/engineering/cie_environments_mapping.svg)
 
+** Note: In this context, `vets-website` only communicates with `vets-api`, so they are considered as one system for the purpose of this diagram.
+
 ## DEV/NONPROD Environments
 - CHIP NONPROD -> LoROTA DEV, VistA API STAGING
 - vets-api DEV -> CHIP NONPROD, LoROTA DEV
