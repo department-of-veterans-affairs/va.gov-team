@@ -84,10 +84,12 @@ paths:
 components:
   securitySchemes:
     Bearer:            
-      type: apiKey
+      type: oauth2
       name: Authorization
       in: header
       description: Pass the token in the 'Authorization' Header in the format 'Bearer {token}'. e.g. 'Bearer abcdefg1234567'.
+      authorizationUrl: https://api.va.gov/oauth2/event-stream/v0/authorization
+      tokenUrl: https://api.va.gov/oauth2/event-stream/v0/token
   schemas:
     EventRequest:
       required:
