@@ -1,16 +1,16 @@
 ## Section 1: Executive summary (Danielle, Sharon)
 ## Section 2: Our phased approach to date(Danielle, sitewide content team)
-- Include translation workflow artifact
+- Include translation workflow artifact for current process
 - Write up and diagram of Reference Entity fields
 - Write up and diagram of form applications
-## Section 3: Needs assessmentDanielle, Eunice, Sharon)
+## Section 3: Needs assessment (Danielle, Eunice, Sharon)
 - Population statistics (Danielle has some in early research, Mateo sent more, continue to explore)
 - VEO research findings (Danielle to ask for update from VEO)
 - Information from patient advocates and others (Danielle to lead)
 - Our research (hopefully working with PW team)
 - VA.gov analytics (Sharon lead)
 - MyVA411 requests for interpreter (# of requests, languages requested)
-## Section 4: Translation process and workflow- How other agencies/companies are handling translation now (Danielle, Eunice, Sharon)
+## Section 4: Translation process and workflow - How other agencies/companies are handling translation now (Danielle, Eunice, Sharon)
 - Include summary of other agency conversations
 - Include summary of board survey results (Danielle note - just received this)
 - Considerations for TeamSite pages (Danielle, Sharon working with Jenny, Mateo, other VA stakeholders)
