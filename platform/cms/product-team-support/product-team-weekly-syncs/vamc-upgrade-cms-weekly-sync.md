@@ -24,20 +24,42 @@
 ## September 10 
 
 Ongoing editor support processes
+- Big increase, and will continue
+- Continue to direct to office hours, considering adding a 3rd (Tues/Wed/Thurs)
+- Dave: CMS help desk team attendance is optional, VAMC team can escalate.
+
+Getting Dave access to Jira
 
 Archiving mobile facilities (eg mobile facilities at Fayetteville Coastal https://github.com/department-of-veterans-affairs/va.gov-team/issues/29782)
 - is this being done proactively? At least one editor requested it via help desk.
+- CMS help desk: Refer  requests to archive mobile clinics to VAMC upgarde team. 
+
+Staff profiles 
+- CMS issue: menu items should not be required for staff profiles (except for Leadership staff profiles) 
 
 Dual state and prod rollouts
 - full prod rollouts in the coming weeks
+  - September 15, 2021 - No roll outs
+  - September 22, 2021 - Roll outs - Currently confirmed:   Philadelphia health care, Sheridan health care, Fayetteville Coastal (NC)
+  - New schedule was sent, more VAMCs may be added Sept 16 for Sept 22.
+- Operating status endpoints with redirects
+  - Steve: these fail gracefully when the endpoint is redirected
+  - New approach to removing endpoints: wait for full prod launch before creating PR to remove endpoint. 
 - decommissioning dual state tugboat environments after dual state launch
+  - Stan: 
 
 Editor support
 - Accessibility issues for:
-  - https://prod.cms.va.gov/central-arkansas-health-care/health-services/veteran-connections-at-va-central-arkansas-health-care
-  - https://prod.cms.va.gov/houston-health-care/health-services/workshops-and-classes-at-va-houston-health-care
-  - https://prod.cms.va.gov/pacific-islands-health-care/health-services/psychology-at-va-pacific-islands-health-care
+  - https://prod.cms.va.gov/central-arkansas-health-care/health-services/veteran-connections-at-va-central-arkansas-health-care - Vet Center service 
+  - https://prod.cms.va.gov/houston-health-care/health-services/workshops-and-classes-at-va-houston-health-care - Vet Center service
+  - https://prod.cms.va.gov/pacific-islands-health-care/health-services/psychology-at-va-pacific-islands-health-care - h2s inside the accordion
 - Content strategy for: https://www.va.gov/houston-health-care/programs/support-groups/
+
+Vet Center services that were used for VAMC during a window
+- Workshops and classes - Houston
+- Veteran connections - Central Arkansas
+
+
 
 ## September 3
 
