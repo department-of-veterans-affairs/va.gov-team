@@ -118,6 +118,6 @@ Lighthouse
 
 ## Incident Response ##
 Points of contact:
-* Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
-* Project Manager: [Tim Radle](mailto://tim.radle@thoughtworks.com)
+* Co-Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
+* Co-Tech Lead: [Philip.Herbert](mailto://philip.herbert@va.gov)
 * Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
