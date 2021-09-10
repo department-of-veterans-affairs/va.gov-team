@@ -43,8 +43,8 @@ paths:
                   user:
                     icn: 1008709396V637156
       responses:
-        201:
-          description: Created
+        202:
+          description: Accepted. The event has been written to the stream but is not immediately available for retrieval.
           content:
             application/json:
               schema:
@@ -56,25 +56,25 @@ paths:
               schema:
                 $ref: "#/components/schemas/Errors"
         401:
-          description: Token is missing or is invalid.
+          description: Unauthorized. Token is missing or is invalid.
           content:
             application/json:
               schema:
                 $ref: "#/components/schemas/Errors"
         403:
-          description: Token is valid, but does not have proper authorization.
+          description: Forbidden. Token is valid, but does not have proper authorization.
           content:
             application/json:
               schema:
                 $ref: "#/components/schemas/Errors"
         429:
-          description: Rate limit exceeded.
+          description: Too many requests. Rate limit exceeded.
           content:
             application/json:
               schema:
                 $ref: "#/components/schemas/Errors"
         500:
-          description: An internal API error occured.
+          description: Internal server error. An unexpected API error occured.
           content:
             application/json:
               schema:
