@@ -4,8 +4,8 @@
 This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
 -------------
 
-[21-22](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf): APPOINTMENT OF VETERANS SERVICE ORGANIZATION AS CLAIMANT'S REPRESENTATIVE
-[21-22a](https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf): APPOINTMENT OF INDIVIDUAL AS CLAIMANT'S REPRESENTATIVE
+- [21-22](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf): APPOINTMENT OF VETERANS SERVICE ORGANIZATION AS CLAIMANT'S REPRESENTATIVE  
+- [21-22a](https://www.vba.va.gov/pubs/forms/vba-21-22a-are.pdf): APPOINTMENT OF INDIVIDUAL AS CLAIMANT'S REPRESENTATIVE
 
 
 ## Questions for Stakeholders  
