@@ -210,7 +210,7 @@ Form 22-5490
 
 ### Benefit selection
 
-**Important**: If you qualify for both the Survivors’ and Dependents’ Educational Assistance (DEA, Chapter 35) program and the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship, Chapter 33), you need to pick one or the other. You must give up entitlement to the benefit that you’re not applying for. **You can’t retain eligibility for both programs at the same time.**
+**Important:** If you qualify for both the Survivors’ and Dependents’ Educational Assistance (DEA, Chapter 35) program and the Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship, Chapter 33), you need to pick one or the other. You must give up entitlement to the benefit that you’re not applying for. **You can’t retain eligibility for both programs at the same time.**
 
 Select the benefit that is the best match for you: (*Required) { radio buttons }
 - Survivors' and Dependents' Educational Assistance (DEA, Chapter 35) [Learn more](https://staging.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/)
