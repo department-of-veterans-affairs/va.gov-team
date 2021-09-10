@@ -28,3 +28,4 @@
 | Booster alert | 8/13 | 8/13 | 
 | Updates to FAQs and vaccine 8/13 | 8/13 | 8/16 | 8/26 |
 | New vaccine child page, updates to vaccine and FAQs page | 8/20 | 8/20 |
+| Updated pregnancy question on vaccine and CLP pages | 9/10 | 9/10 |
