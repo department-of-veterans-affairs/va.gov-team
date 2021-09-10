@@ -44,7 +44,7 @@ paths:
                     icn: 1008709396V637156
       responses:
         202:
-          description: Accepted. The event has been written to the stream but is not immediately available for retrieval.
+          description: Accepted. The event has been written to the stream but may not be immediately available for retrieval.
           content:
             application/json:
               schema:
