@@ -27,6 +27,8 @@
 
 - Mobile VAMC facilities
 - VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
+- Overriding the official Vet Center name (i.e. Dr. Cameron McKinley Department of Veterans Affairs Veterans Center = Prescott Vet Center)
+  - Facilities team: [#29844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29844)
 
 ## September 8
 
