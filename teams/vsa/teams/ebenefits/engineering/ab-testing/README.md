@@ -2,7 +2,7 @@
 _Avoid the idea of only stopping at a single test...they can be multidimensional_
 
 1. What app do we want to plan for first?
-2. What metrics do we want to improve on?
+2. What metrics do we want to improve on? Have a KPI ready.
   - Conversions
   - Reduce failures
   - Time spent
@@ -17,6 +17,8 @@ Notes
   - Use GA to track pages and events to get a sense of what te conversions might be (if we are testing for that)
 
 Feature candidates to start with:
+- Payment History: test various functins (like sorting) to see if they are used.
+- Rated Disabilities: test various functionalities (like sorting)
 - Test sorting on Payment History (given its high traffic numbers: see if sorting is useful)
 - Test sorting on Rated Disabilities for individual ratigns (to be descending: is it reducing cognitive overhead?)
-- Test engagement with VR&E Orientation
+- Test engagement with VR&E Orientation (would its removal/reduction help with conversion rate)
