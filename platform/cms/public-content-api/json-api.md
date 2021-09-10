@@ -1,4 +1,4 @@
-The JSON:API will provide an API from Drupal following the https://jsonapi.org/ spec.
+The JSON:API module will provide an API from Drupal following the https://jsonapi.org/ spec.
 
 Current test endpoint: 
 * https://pr6265-lkoslgyagkodlmzq41fgzass01ozbvla.ci.cms.va.gov/jsonapi
@@ -11,7 +11,7 @@ Current test endpoint:
 | jsonapi           | Core                                             | Provides default JSON:API for all entities in Drupal                                   |
 | jsonapi_extras    | https://www.drupal.org/project/jsonapi_extras    | Provides configuration, control and UI for JSON:API. See the module page for examples. |
 | jsonapi_resources | https://www.drupal.org/project/jsonapi_resources | Allows for Custom JSON:API routes.                                                     |
-| openapi           | https://www.drupal.org/project/openapi           | A framework for generate OpenAPI compliant JSON endpoints.                             |
+| openapi           | https://www.drupal.org/project/openapi           | A framework for generating OpenAPI compliant JSON endpoints.                             |
 | openapi_jsonapi   | https://www.drupal.org/project/openapi_jsonapi   | Creates a OpenAPI endpoint for the JSON:API at `/openapi/jsonapi`                      |
 | schemata          | https://www.drupal.org/project/schemata          | Provides a JSON:API spec document for Drupal entities.                                 |
 
@@ -36,4 +36,4 @@ Other projects to look at:
 
 ## OpenAPI Spec
 
-Lighthosue requires V3 of the OpenAPI spec.  The drupal modules currently only supports V2.  To help generate V3, the [swagger2openapi](https://www.npmjs.com/package/swagger2openapi] npm package is used.  The script at `./scripts/generate-open-spec.sh` can be used to generate the V3 spec.
+Lighthouse requires V3 of the OpenAPI spec.  The drupal modules currently only support V2.  To help generate V3, the [swagger2openapi](https://www.npmjs.com/package/swagger2openapi] npm package is used.  The script at `./scripts/generate-open-spec.sh` can be used to generate the V3 spec.
