@@ -25,8 +25,8 @@
 
 ## September 15
 
-Mobile VAMC facilities
-VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing?
+- Mobile VAMC facilities
+- VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
 
 ## September 8
 
