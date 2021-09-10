@@ -44,7 +44,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. See only the Applications, claims, decision reviews, and appeals notification group within Board of Veterans' Appeals hearing reminder notification item.
 
-## Use Case C: No Rx tracking
+## Use Case C: Health care with Rx tracking
 
 * **Description**
   - User is enrolled in health care at a participating prescription shipment tracking facility
@@ -57,7 +57,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
-## Use Case D: Health care with Rx tracking
+## Use Case D: No Rx tracking
 
 * **Description**
   - User is enrolled in health care but _not_ with a participating prescription shipment tracking facility
