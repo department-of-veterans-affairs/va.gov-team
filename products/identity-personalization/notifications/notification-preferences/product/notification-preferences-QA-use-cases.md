@@ -8,8 +8,13 @@ Link to product outline: [Notification Preferences product outline](https://gith
   
 - [Use Case A](#use-case-a) 
 - [Use Case B](#use-case-b)
-- [Use Case C](#use-case-c) 
-
+- [Use Case C](#use-case-c)
+- [Use Case D](#use-case-d)
+- [Use Case E](#use-case-e)  
+- [Use Case F](#use-case-f)  
+- [Use Case G](#use-case-g)
+  
+  
 </details>
 
 ## Use Case A
