@@ -8,8 +8,8 @@ _Avoid the idea of only stopping at a single test...they can be multidimensional
   - Time spent
   - Top funnel locations
   - Functionality/recommendations (508)
-3. What test would accomplish this?
-4. How would those test be implemented?
+3. What tests would accomplish this?
+4. How would those tests be implemented?
 
 Notes
 - Use feature toggles (Flipper)
