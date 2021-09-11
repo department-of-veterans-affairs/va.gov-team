@@ -1,4 +1,4 @@
-# Applications testing using A/B testing
+# A/B testing for eBenefits
 _Avoid the idea of only stopping at a single test...they can be multidimensional_
 
 1. What app do we want to plan for first?
