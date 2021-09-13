@@ -44,11 +44,14 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 ### Key Performance Indicators (KPIs)
 
-- Findability: TBD
-- Service Completion: TBD 
-- Ease of use: TBD
-- Trust/Satisfaction: TBD
-
+- **Findability:** Increase top task link clicks by 10% that lend to mobile usage (See Bet for details) (Currently 2.3% of all unique clicks from top tasks) with an overal top task stretch goal of 15% increase over a six month usage benchmark. 
+    - BET: Elevating VA.gov Mobile header through cleaner interface will decrease confusion and allow for a greater view and usage of top tasks links on mobile/table. Some tasks present more of a mobile friendly experience (i.e. Menu, Sign-in, search, find a VA location) and others to Desktop (I.e. form completion, direct deposit, dependent change, footer elements). We anticipate that by increasing visiability on the more "mobile" freindly tasks and increase in both usage and confident on mobile will be experienced. 
+- **Service Completion:** Increase mobile sign-ins by 10% (Currently 4.3% of all sign-ins are mobile) with an overal top task stretch goal of 20% increase over a six month usage benchmark.
+    - BET: Improving UX via bringing the sign-in element to a more visible location for mobile users functionality and findability should increase sign-ins on mobile making a more efficient funnel to Tier 1 benefit actions for mobile users.
+- **Ease of use:** Increase mobile usage by 2.5% (Currently sitting at 1.7% of total usage) 
+    - Eliminating navigational confusion through streamlining design elements and exposing critical items such as sign-in and top tasks links users will be more confident in using mobile/tablet to learn, access and apply for benefits. 
+- **Trust/Satisfaction:** Increase mobile Medallia score from 1.5 to 2.0 as a messure of success for 5% production release set. 
+    - BET: Increased user satisfaction: Improved UI will result in increased CSAT score as a measure of increased satisfaction and truth through use of new mobile interface. 
  
 ---
 
@@ -72,7 +75,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 **In Scope**
 - Mobile enhancements only (Not affecting Desktop experience)
 - Auth and Unauth elements as outlined in Deisgn specs
-- Defined roll out plan to 5% prod, test & measure before increasing roll out percentage
+- Defined roll out plan to 5% prod, test & measure before increasing roll out percentage/scope 
 
 **Not In Scope**
 - No Desktop enhancements (Mobile only)
