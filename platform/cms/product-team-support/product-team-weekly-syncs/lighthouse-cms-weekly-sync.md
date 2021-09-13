@@ -29,6 +29,8 @@
 </details>
 
 ## Monday, Spetember 13, 2021
+* MVC status updates, if any
+* Census office API updates, if any
 * PAO communications on how to update facility data
 
 ## Monday, August 30, 2021
