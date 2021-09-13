@@ -2,9 +2,9 @@
 
 ## Overview
 
-To date, we have established an approach for supporting static content pages and are in the process of putting together our recommendations for a longer-term, more scaleable solution. We need to be able to do the same for on-line forms and so have begun a technical discovery sprint to understand the effort required and identify how we can support within existing architecture.
+To date, we have established an approach for supporting static content pages and are in the process of putting together our recommendations for a longer-term, more scaleable solution. We need to be able to do the same for on-line forms and have undertaken a technical discovery sprint to understand the effort required and identify how we can support within the existing architecture.
 
-This phase is nearing completion and for the next phase, we'd like to implement an actual translated form app to the production environemnt; this will enable s to test and confirm the approach is sound and that there aren't any isues that didnt come to light because we were working in a sandbox environment. 
+This phase is nearing completion and for the next phase, we'd like to implement an actual translated form app to the production environemnt; this will enable s to test and confirm the approach identified is sound and that there aren't any isues that didn't come to light because we were working in a sandbox environment. 
 
 - Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
@@ -31,7 +31,7 @@ How does this initiative help further OCTO-DE's mission and goals?
   - Veteran satisfaction with VA.gov site
   - Veterans and their families can apply for benefits online
   - Drive to self service tools and faster times to outcomes
-  - (**DT:* where can we get data re value of providing on-line apps vs paper PDFs (ie: are there cost savings in on-line apps vs pdf forms  - reduced errors, reduced time to process applications/get benefits, higher satisfaction?)**
+  - (** Note: based on form chosn, we hope to be able to get data from the product team on metrics related to the value of providing on-line apps vs paper PDFs/VCO staff (ie: what are the cost savings when using an on-line apps vs pdf forms  - reduced errors? reduced time to process applications/get benefits? higher satisfaction?)**
 
 ## Desired User Outcomes
 Why would a user want to use this?
@@ -55,10 +55,11 @@ help
 
 With this problem solved, what should users be able to do/achieve that they couldn't before?
 
-- We should see an increase in on-line form applications for xx form from the Spanish speaking population along with a reduction in errors? Quicker time for approvals?
+- We should see an increase in on-line form applications from the Spanish speaking population? a reduction in errors? Quicker time for approvals?
 
 ## Undesired User Outcomes
 -	VA can't demonstrate progress on translation efforts in a timely way
+-	The on-line application is more confusing and complicated than existing PDF and/or english version of the tool.
 
 ## Desired Business Outcomes
 
@@ -78,7 +79,6 @@ With this problem solved, what should users be able to do/achieve that they coul
 
 - compare the PDF error rates to the on-line form error rates
 -	compare the benefit approval timeframe for PDF submissions vs on-line submissions
--	compare error rates
 -	cost of processing a PDF vs an on-line application
 -	customer satisfaction 
 
@@ -95,11 +95,11 @@ Trust/Satisfaction, Health.*<sup>1</sup>\
 
 ## Discovery
 
-There are several considerations in determining which on-line application Form to translate and offer in Spanish:
+There are several considerations in determining which on-line application form to translate and offer in Spanish. Ideally:
 
--	The current on-line application form has a corresponding English and Spanish PDF version (for setting baseline metrics and KPIs)
--	Form is not overly complex/long or has unique complexities that would result in an extended delivery timeline
-- Form requires minimal updates/changes
+-	The current on-line application form has a corresponding English and Spanish PDF version (to establish baseline metrics and KPIs)
+-	The form is not overly complex/long or has unique complexities that would result in an extended delivery timeline
+- Form requires minimal updates/changes over the next 6-8 months.
 -	Evidence of a high need exists
 -	Unauthenticated
 -	**Other technical considerations and/or value?**
