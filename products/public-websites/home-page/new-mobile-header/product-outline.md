@@ -36,6 +36,337 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 <img width="348" alt="Screen Shot 2021-07-23 at 9 01 24 AM" src="https://user-images.githubusercontent.com/63107147/126785457-b457518b-6099-49c7-b6bd-940a6b1c7d82.png">
 
+## Analytics
+
+## 2020-08-23 to 2021-08-23
+
+
+## Total users by device category
+
+[GA report](https://analytics.google.com/analytics/web/#/report/visitors-mobile-overview/a50123418w177519031p176188361/_u.date00=20200823&_u.date01=20210823)
+
+
+<table>
+  <tr>
+   <td><strong>Device Category</strong>
+   </td>
+   <td><p style="text-align: right">
+<strong>Users</strong></p>
+
+   </td>
+   <td><p style="text-align: right">
+<strong>New Users</strong></p>
+
+   </td>
+   <td><p style="text-align: right">
+<strong>Sessions</strong></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>desktop
+   </td>
+   <td><p style="text-align: right">
+62,299,493</p>
+
+   </td>
+   <td><p style="text-align: right">
+60,660,768</p>
+
+   </td>
+   <td><p style="text-align: right">
+167,225,384</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>mobile
+   </td>
+   <td><p style="text-align: right">
+46,514,817</p>
+
+   </td>
+   <td><p style="text-align: right">
+45,562,890</p>
+
+   </td>
+   <td><p style="text-align: right">
+125,214,357</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>tablet
+   </td>
+   <td><p style="text-align: right">
+3,964,380</p>
+
+   </td>
+   <td><p style="text-align: right">
+3,811,410</p>
+
+   </td>
+   <td><p style="text-align: right">
+11,341,625</p>
+
+   </td>
+  </tr>
+</table>
+
+
+
+## Search (the little magnification icon)
+
+We don't have direct tracking on the icon, but we can look at the _view_search_results_ events going back to December 2020.
+
+[GA Custom Report template](https://analytics.google.com/analytics/web/template?uid=ralbK1-NQyuKxBUu7oiing)
+
+
+<table>
+  <tr>
+   <td><strong><em>Device Category</em></strong>
+   </td>
+   <td><p style="text-align: right">
+<strong><em>Users</em></strong></p>
+
+   </td>
+   <td><p style="text-align: right">
+<strong><em>Percent  of Total</em></strong></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>desktop
+   </td>
+   <td><p style="text-align: right">
+1,262,131</p>
+
+   </td>
+   <td><p style="text-align: right">
+2.0259089%</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>mobile
+   </td>
+   <td><p style="text-align: right">
+509,364</p>
+
+   </td>
+   <td><p style="text-align: right">
+1.0950575%</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>tablet
+   </td>
+   <td><p style="text-align: right">
+69,673</p>
+
+   </td>
+   <td><p style="text-align: right">
+1.7574753%</p>
+
+   </td>
+  </tr>
+</table>
+
+
+If you want data before that, I can pull site search data.
+
+
+## Menu
+
+Unfortunately I see no tracking on the MENU button.
+
+
+## Veteran Crisis Line
+
+Event action = _Navigation - Crisis Modal Clicked - Header_
+
+[GA Custom Report template](https://analytics.google.com/analytics/web/template?uid=zU1NWl2QRLiL_RVVtusQjQ)
+
+
+<table>
+  <tr>
+   <td><strong><em>Device Category</em></strong>
+   </td>
+   <td><p style="text-align: right">
+<strong><em>Users</em></strong></p>
+
+   </td>
+   <td><p style="text-align: right">
+<strong><em>Percent of Total</em></strong></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td><em>mobile</em>
+   </td>
+   <td><p style="text-align: right">
+<em>128,076</em></p>
+
+   </td>
+   <td><p style="text-align: right">
+<em>0.2753445%</em></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td><em>desktop</em>
+   </td>
+   <td><p style="text-align: right">
+<em>88,937</em></p>
+
+   </td>
+   <td><p style="text-align: right">
+<em>1.4275558%</em></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td><em>tablet</em>
+   </td>
+   <td><p style="text-align: right">
+<em>7,709</em></p>
+
+   </td>
+   <td><p style="text-align: right">
+<em>0.1944566%</em></p>
+
+   </td>
+  </tr>
+</table>
+
+
+
+## Contact us
+
+Event action = _Navigation - Jumplink Click - Contact us_
+
+[GA Custom Report template](https://analytics.google.com/analytics/web/template?uid=6262qu4cTC-inTH97ZUkAg)
+
+
+<table>
+  <tr>
+   <td><strong>Device Category</strong>
+   </td>
+   <td><p style="text-align: right">
+<strong>Users</strong></p>
+
+   </td>
+   <td><p style="text-align: right">
+<strong>Percent of Total</strong></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>desktop
+   </td>
+   <td><p style="text-align: right">
+332,050</p>
+
+   </td>
+   <td><p style="text-align: right">
+0.5329899%</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>mobile
+   </td>
+   <td><p style="text-align: right">
+205,467</p>
+
+   </td>
+   <td><p style="text-align: right">
+0.4417238%</p>
+
+   </td>
+  </tr>
+  <tr>
+   <td>tablet
+   </td>
+   <td><p style="text-align: right">
+14,230</p>
+
+   </td>
+   <td><p style="text-align: right">
+0.3589464%</p>
+
+   </td>
+  </tr>
+</table>
+
+
+
+## Sign in
+
+Event label = _login-link-clicked-header_
+
+[GA Custom Report template](https://analytics.google.com/analytics/web/template?uid=Y7UHXbS0TPCDdKfcq4TgMA)
+
+
+<table>
+  <tr>
+   <td><strong><em>Device Category</em></strong>
+   </td>
+   <td><p style="text-align: right">
+<strong><em>Users</em></strong></p>
+
+   </td>
+   <td><p style="text-align: right">
+<strong><em>Percent of Total</em></strong></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td><em>desktop</em>
+   </td>
+   <td><p style="text-align: right">
+<em>3,524,695</em></p>
+
+   </td>
+   <td><p style="text-align: right">
+<em>5.6576624</em></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td><em>mobile</em>
+   </td>
+   <td><p style="text-align: right">
+<em>1,994,226</em></p>
+
+   </td>
+   <td><p style="text-align: right">
+<em>4.2872919</em></p>
+
+   </td>
+  </tr>
+  <tr>
+   <td><em>tablet</em>
+   </td>
+   <td><p style="text-align: right">
+<em>193,620</em></p>
+
+   </td>
+   <td><p style="text-align: right">
+<em>4.8839919</em></p>
+
+   </td>
+  </tr>
+</table>
+
+
+
+## Back to home (VA logo/Home menu item in the current nav)
+
+Unfortunately I see no tracking on the logo or HOME menu item.
+
+
 
 ## What Needs to Be Done
 
