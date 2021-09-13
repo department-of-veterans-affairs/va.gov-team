@@ -76,9 +76,8 @@ When designing and developing new services for va.gov to consume, contact the EV
 
 Just to recap the purpose of the 3 evss-related slack channels:
 
-  * [#evss-internal](https://dsva.slack.com/channels/evss-internal): va.gov only (DSVA and Ad Hoc); use this to brainstorm things before heading over to #evss or [#evss-prod](https://dsva.slack.com/channels/evss-prod)
   * [#evss-prod](https://dsva.slack.com/channels/evss-prod): EVSS sustainment and development; use this to ask questions about any live product; you can also ask if something that's live is broken in staging if you're seeing a problem; not always responsive, so if urgent, follow up with email (see above for contacts)
-  * [#evss](https://dsva.slack.com/channels/evss): EVSS development;  use this to collaborate on services that aren’t launched yet; you can also ask about how production services were architected and/or get background information on production services; in some cases, this team will be asked to make a change to a production service, but before asking them to do this, discuss on [#evss-internal](https://dsva.slack.com/channels/evss-internal)
+  * [#evss-dev](https://dsva.slack.com/channels/evss): EVSS development;  use this to collaborate on services that aren’t launched yet; you can also ask about how production services were architected and/or get background information on production services; in some cases, this team will be asked to make a change to a production service
 
 ## May 2017 Historical Notes
 
