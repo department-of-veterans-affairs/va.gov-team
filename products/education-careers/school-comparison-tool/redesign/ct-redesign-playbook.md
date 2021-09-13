@@ -17,14 +17,13 @@ issue tickets (if they add value when describing known errors for your product)
 
 ### Team Members:
 - OCTO-DE product lead: Matt Self (Matthew.Self2@va.gov)
-- Product manager: Darrell Neel (Neel_Darrell@bah.com) / Will McCormack (McCormack_Will@bah.com)
+- Product manager: TBD
 - Lead engineer: Dan Shawkey (Shawkey_Daniel@bah.com)
 
 #### Note: This project is in the process of going through a transition and the above contacts will be changing on or around 09/20/21.
 
 ### Outage Contacts:
-- Senior developer: Devin McCurdy McCurdy_Devin@bah.com
-- Senior developer: Matt Roth Roth_Matthew@bah.com
+- _Additional Team Role_: TBD
 
 ## Troubleshooting
 
