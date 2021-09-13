@@ -36,10 +36,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 <img width="348" alt="Screen Shot 2021-07-23 at 9 01 24 AM" src="https://user-images.githubusercontent.com/63107147/126785457-b457518b-6099-49c7-b6bd-940a6b1c7d82.png">
 
-## Analytics
-
-## 2020-08-23 to 2021-08-23
-
+## Analytics: 2020-08-23 to 2021-08-23
 
 ## Total users by device category
 
