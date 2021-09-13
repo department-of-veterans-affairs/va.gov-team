@@ -22,7 +22,14 @@ As a result, findings from the study will likely be desktop-centric and fail to 
 | OptimalSort (Card Sorting)                    | All AT (including keyboard and magnification)                                             | Treejack from Optimal Workshop is WCAG 2.0 AA compliant.                                                                                                                                                                                                                                                |
 | Miro, Mural                                   | Screen Readers, Cognitive Disabilities                                                    | In-person participatory workshops at a local VA medical center or office Interviews, talk out loud studies                                                                                                                                                                                              |
 
-## Inclusive Methods
-- Diary studies WIP
-- Network ethnography WIP
-- Participatory design workshops WIP
+## Virtual Data Collection Methods (WIP) *
+- Diary studies 
+- Video call (Zoom)
+- Audio call (Mobile or fixed-line phone)
+- Interactive voice response (Automated phone survey)
+- Phone-based survey (SMS, WhatsApp)
+- Online survey
+- Network ethnography 
+- Participatory design workshops 
+
+[SVRI Knowledge Exchange, Pivoting to remote research on violence against women during COVID-19 (PDF)](https://www.svri.org/sites/default/files/attachments/2020-08-13/Knowledge%20Exchange%20Pivoting%20to%20remote%20research%20on%20VAW.pdf)
