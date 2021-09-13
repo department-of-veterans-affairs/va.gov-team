@@ -406,6 +406,29 @@ Analytics comparison of Mobile to Desktop.
 
 Q: It sounds like we'd like to improve mobile search usage. But, the proposed changes have the Search CTA moving a level deeper. What impact do we expect that to have/not have?
 
+## Technical Analysis 
+- Review product outline and provide a technical analysis on implementation
+  - Many of the changes in the product outline are cosmetic including:
+    - Updating the "Official..." banner to consume less space
+    - Removing the "crisis line" logo
+    - Use a simplified version of the VA logo
+    - Add th hamburger icon to the Menu button
+    - Remove the Home page item in the menu"
+    - "Contact us" moves to the bottom spot on the expanded menu
+    - Wrap "Close menu" with the expanded menu
+    - Authenticated user drop down menu moves to the top
+  - All of these changes can be done by removing/updating assets and elements with minimal risk
+  - Some changes will involve relocating existing components 
+    - Sign in stays persistent in the header
+    - Search is now usable in the expanded menu
+    - Currently these are part of the [SearchHelpSignIn component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx), but would need to be broken up into individual components so we can relocate the individual UI pieces
+- Provide best recommendations for optimized UX/UI
+  - Earlier comments mentioned building out 2-4 components 1 for each combination of Unauth/Auth + Desktop/Mobile, but it looks as though the distinction between unauth and auth at the component level is already done for us [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx#L36-L66), so we can mostly copy the [MegaMenu](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/mega-menu/components/MegaMenu.jsx) to a `MobileMegaMenu` component that can be combined with the [MobileMenuButton](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/mobile-menu-button/containers/Main.jsx)
+  - We should consider moving the mobile mega menu out of `content-build` entirely and having it render by react so it can sit below the menu button within the dom, making it easier to have connect the background/border of the menu and button
+- Include risks and ideas to mitigate risks for implementation
+  - The biggest risk is in breaking functionality, especially anything tied to the redux state when we break out the components in the [SearchHelpSignIn component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx), but we can mitigate this risk with E2E testing
+- Add questions for PO/PM/Lead Designer for follow up and determination during future planning and grooming sessions
+  - None at this time
 
 *Take into consideration Accessibility/QA needs as well as Product, Technical, and Design requirements.*
 
