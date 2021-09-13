@@ -30,8 +30,19 @@
 
 ## Monday, Spetember 13, 2021
 * MVC status updates, if any
+  * LH deployed update for Facilities API this past Friday, so should have no orphaned overlay info now
+  * Falling back to the VAST operating status
 * Census office API updates, if any
+  * CMS team has a spike in queue
 * PAO communications on how to update facility data
+  * How can we streamline communications for escalations while limiting incorrect escalations?
+  * Suggestion: LH to update and maintain CMS KB article on how to update facility data
+  * In CMS help text would direct to KB article instead of directly to api@va.gov
+  * Access to care wait time data: how to better inform users on how to update (add info to KB article)
+  * Explore KB article editor role
+* VBA data status
+  * Dave did clean up
+  * Back with VBA to answer questions, will circle back in ~2 weeks with the goal to refresh around mid-October
 
 ## Monday, August 30, 2021
 * MVC statuses, LH code is complete and merged but not quite in (can then delete overlays)
