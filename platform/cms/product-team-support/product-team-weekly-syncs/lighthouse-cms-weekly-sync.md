@@ -28,6 +28,9 @@
  
 </details>
 
+## Monday, Spetember 13, 2021
+* PAO communications on how to update facility data
+
 ## Monday, August 30, 2021
 * MVC statuses, LH code is complete and merged but not quite in (can then delete overlays)
 * James and Jessica (VC) connected now for RCS (Readjustment Counseling Services) path stuff, James waiting on a response
