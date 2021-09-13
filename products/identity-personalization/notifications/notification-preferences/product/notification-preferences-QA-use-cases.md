@@ -26,7 +26,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Link to designs**
   - TK
 
-* **Instructions to access in Staging (or Prod for Drupal)** 
+* **Instructions to access in Staging** 
   1. Log in to staging using any LOA1 test user credentials
   2. Navigate to Profile > Notification settings page
   3. See warning message at the top of the page stating your profile information can't be loaded, and a prompt to verify your identity
@@ -39,8 +39,8 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Link to designs**
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756452/simulate/sitemap?mode=i)
 
-* **Instructions to access in Staging (or Prod for Drupal)** 
-  1. Log in to staging using test user 42 or test user 202 (creds here)[TK]
+* **Instructions to access in Staging** 
+  1. Log in to staging using test user 42 or test user 202 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
   3. See only the Applications, claims, decision reviews, and appeals notification group within Board of Veterans' Appeals hearing reminder notification item.
 
@@ -52,7 +52,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Link to designs**
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756016/simulate/sitemap?mode=i)
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user 36 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
@@ -65,7 +65,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Link to designs**
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756485/simulate/sitemap?mode=i)
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user ssoissoetesting+mhvcss4@gmail.com ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md))
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
@@ -79,8 +79,8 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Link to designs**
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141757595/simulate/sitemap?mode=i)
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user 38 or test user 202 (creds here)[TK]
+* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
+  1. Log in to staging using test user 38 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
   3. User sees alert at the top of the page telling them to provide mobile phone number, with link to the Personal and contact information section of Profile. Link will deep link to mobile phone section of contact info page.
 
@@ -93,8 +93,8 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Link to designs**
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141757595/simulate/sitemap?mode=i)
 
-* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using TEST USER TK (creds here)[TK]
+* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
+  1. Log in to staging using TK
   2. Navigate to Profile > Notification settings page
   3. User sees alert at the top of the page telling them to provide mobile phone number.
   4. User clicks link to "add a mobile number to your profile" which deep links to the mobile phone section of contact info page.
