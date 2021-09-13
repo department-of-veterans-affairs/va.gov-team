@@ -345,7 +345,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Analytics
 * Documentation sites
 
-**Now (Sept - Dec 2021)**
+**Starts Now (Sept - Dec 2021)**
 * Vaccine records discovery
 * Rx Refill initial discovery
 * Push Notifications  for Appointments
@@ -359,7 +359,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Information Architecture refinements
 * Dark Mode
 
-**Next (Jan - March 2022)**
+**Starts Next (Jan - March 2022)**
 * Appointment: native join session
 * Rx Refill design + build (TBD)
 * Appointment refinements (reason for appointment, clinic specific info)
@@ -371,7 +371,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Veteran ID card
 * Tablet UX refinements
 
-**Later (April - July 2022 and beyond)**
+**Starts Later (April - July 2022 and beyond)**
 * Labs & Tests
 * Health Record (Blue Button)
 * Push Notifications for Claims
