@@ -5,34 +5,38 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 
 ## Team
 
+### VA Product Owners
+- Leanna Miller
+- Travis Newby
+
 ### Product, Project, and Program Management
-- Leanna Miller - Product Owner, VA
-- Travis Newby - Engineering, VA
 - Ambika Roos - Principal Product Manager
-- Ayush Chakravarty - Product Manager
+- Meko Hong - Sr Product Manager
+- Ayush Chakravarty - Sr Product Manager
 - Ashley Matthews - Product Manager
-- Bess Green - Product Support
-- Cat Greim - Program Mgr
+- Bess Green - Sr Product Manager
+- Cat Greim - Sr Program Manager
 
 
 ### UX
-- Martha Wilkes - Designer, VA
-- Bridget Hapner - UX Design Lead
-- Jen Ecker - UX Designer
-- Meli Manak - Designer
-- Melissa Lefevre - Designer
+- Jen Ecker - UX Design Leadership
+- Meli Manak - UX Design
+- Melissa Lefevre - UX Design
+- Esther Kitavi - UX Design
 - Alex Taylor - Principal UX Designer
 
 
 ### Engineering
-- Patrick Saxton - Mobile Engineer Lead
-- Alastair Dawson - Staff Engineer, API
+- Patrick Saxton - Engineer Leadership
+- Alastair Dawson - Engineer
 - Narin Ratana - Engineer
-- Jayson Perkins - Engineer, API
+- Jayson Perkins - Engineer
 - Teesh Shahi, Engineer
 - Ken Harrison - QA Support
 - Tom Gammons, Engineer, QA
 - Raf Arroyo, Engineer
+- John Marchi, Engineer
+- Ken Li, Engineer
 
 ## Communications
 - Slack: #va-mobile-app
