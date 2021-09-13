@@ -2,12 +2,9 @@
 
 ## Overview
 
+To date, we have established an approach for supporting static content pages and are putting together recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and we've started "Technical Discovery" to understand the effort and obstacles to supporting translated form apps.
 
-Extend our ability to provide translated content to on-line form applications.
-
-To date, we have established an approach for supporting static content pages and are working on recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and for our first step, we're undertaking Technical Discovery to understand the effort and obstacles to supporting translated form apps.
-
-Once completed, we want to implement a translated form app to confirm our approach works in production and we don't encounter any other factors that may not have arisen in the sandbox environment. 
+This phase is nearing completion and for the next phase, we'd like to implement a translated form app to production and be able to test and confirm the approach is sound and we don't encounter any obstacles that weren't surfaced in the sandbox environment. 
 
 - Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
