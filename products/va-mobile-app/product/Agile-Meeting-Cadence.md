@@ -191,7 +191,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Who:** Eng Managers and involved UX team members, + 1 Delivery PM to relabel and manage tickets
 
-**ZH board:** Eng
+**ZH board:** Product
 
 **Agenda:**
 
