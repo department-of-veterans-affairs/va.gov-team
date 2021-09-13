@@ -38,6 +38,10 @@ Reference [VA.gov Mobile Header Initiative Briefing](https://github.com/departme
 
 <img width="348" alt="Screen Shot 2021-07-23 at 9 01 24 AM" src="https://user-images.githubusercontent.com/63107147/126785457-b457518b-6099-49c7-b6bd-940a6b1c7d82.png">
 
+- A VA.gov customer service data snapshot from August 2021 shows an increase in Tier 1 calls related to navigation issues to include mobile sign-in issues along with header and footer info requests (user confusion)
+![Screen Shot 2021-09-13 at 4 35 42 PM](https://user-images.githubusercontent.com/70410912/133165778-d994657a-62ae-49fb-808d-846a16a52102.png)
+
+
 ## Analytics: 2020-08-23 to 2021-08-23
 
 ## Total users by device category
