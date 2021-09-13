@@ -1,7 +1,7 @@
 # Mobile App Roadmaps
 
-## Sept 2021 (proposed) 3 formats - Objectives, Simplified, and Milestones
-
+## Sept 2021 (proposed) 
+_3 formats below - Objectives, Simplified, and Milestones_
 
 ### Objective-driven Roadmap
 
