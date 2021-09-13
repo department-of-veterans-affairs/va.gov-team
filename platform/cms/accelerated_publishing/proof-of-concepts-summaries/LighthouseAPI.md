@@ -54,3 +54,10 @@ Using this approach to serve public content in real time would require:
 - Drupal application infrastructure upgrades to allow for scalability and high availability.
 
 Additional effort would be required to discover & implement a front-end monitoring solution allowing discovery and resolution of any availability issues introduced by the TIC.
+
+## Steps to create a sandbox:
+
+High level: https://developer.va.gov/api-publishing
+
+1. Create/Update [OpenAPI sec](https://developer.va.gov/api-publishing/expectations)
+2. Submit to Lighthosue team
