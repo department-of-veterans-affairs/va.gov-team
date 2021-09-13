@@ -17,7 +17,7 @@ As of March 2018, va.gov relies on the following EVSS services, which are availa
 There are a number of EVSS environments, but the ones we care about are
   * INT: `https://int.ebenefits.va.gov` (connects to `dev-api.vets.gov`)
   * PINT: `https://pint.ebenefits.va.gov` (connects to `staging-api.vets.gov`)
-  * PROD:
+  * PROD: `https://www.ebenefits.va.gov` (connects to `api.vets.gov`)
 
 ## API Documentation
 
@@ -31,17 +31,17 @@ There are a number of EVSS environments, but the ones we care about are
     * Swagger docs: ?
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status/file-claim
   * Education Services
-    * Swagger docs: [Original](https://int.ebenefits.va.gov/wss-education-services-web/swagger-ui/index.html?url=https://int.ebenefits.va.gov/wss-education-services-web/rest/swagger.yaml#/educationchapter33) (on VA network), 
+    * Swagger docs: [Original](https://www.ebenefits.va.gov/wss-education-services-web/swagger-ui/index.html?url=https://www.ebenefits.va.gov/wss-education-services-web/rest/swagger.yaml#/educationchapter33/getChapter33)
 [our copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/education-careers/statement-of-benefits/engineering/swagger-education-services-schema.yaml)
     
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits
   * Letter Services
 
-    * Swagger docs: [Original](https://int.ebenefits.va.gov/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://int.ebenefits.va.gov/wss-lettergenerator-services-web/rest/swagger.yaml#/letters) (on VA network), [our copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
+    * Swagger docs: [Original]( https://www.ebenefits.va.gov/wss-lettergenerator-services-web/swagger-ui/index.html?url=https://www.ebenefits.va.gov/wss-lettergenerator-services-web/rest/swagger.yaml#/letter), [our copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/veteran-military-records/swagger-va-letters.yaml)
     
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records and https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS
   * PCIU Services
-    * Swagger docs: https://csraciapp6.evss.srarad.com/wss-pciu-services-web/swagger-ui/index.html
+    * Swagger docs: https://www.ebenefits.va.gov/wss-pciu-services-web/swagger-ui/index.html?url=https://www.ebenefits.va.gov/wss-pciu-services-web/rest/swagger.yaml
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS
   * form526 Services
     * Swagger docs: [Original](https://www.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=htt%5B%E2%80%A6%5D.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml)
