@@ -2,7 +2,7 @@
 
 ## Overview
 
-To date, we have established an approach for supporting static content pages and are in the process of putting together our recommendations for a longer-term, more scaleable solution. We need to be able to do the same for on-line forms and so have begun our "Technical Discovery" to understand the effort required and identify how we can support within existing architecture.
+To date, we have established an approach for supporting static content pages and are in the process of putting together our recommendations for a longer-term, more scaleable solution. We need to be able to do the same for on-line forms and so have begun a technical discovery sprint to understand the effort required and identify how we can support within existing architecture.
 
 This phase is nearing completion and for the next phase, we'd like to implement an actual translated form app to the production environemnt; this will enable s to test and confirm the approach is sound and that there aren't any isues that didnt come to light because we were working in a sandbox environment. 
 
