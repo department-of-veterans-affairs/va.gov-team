@@ -110,7 +110,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/140948867/simulate/sitemap?mode=i)_Note: this is for demonstrative purposes only, there will not be a notification item labeled "Error State Example."_
 
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using any LOA3 user (creds here)[TK]
+  1. Log in to staging using any LOA3 user ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
   3. Once page has loaded, turn off your wifi
   4. Attempt to make a radio button selection
