@@ -17,7 +17,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
      * This is occuring likely due to the context rich pages in the benefit hubs that are likely creating "content roadblocks" for Veterans to complete intented tasks. In addition to the large left hand navigational menu (mega menu) as it was proven that the smaller navigational menu is easier to navigate and provides a quicker path for users to interact with and follow.  
-     * [Baseline analytics] 
+     * [Baseline analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28225) 
      * Veterans were asked in a recent research wayfinding session what they didn't like about VA.gov, almost half of the participants said that it was difficult to find what you need, especially when it isn't in the "top 4" boxes. "A lot of things I can't find on mobile".  
       
  
