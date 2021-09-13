@@ -41,7 +41,8 @@
   - What it would take to make it happen (Michelle, Adam)
   - Technical (addressing tech debt, implementation, etc.) (Michelle, Adam)
   -	Timing of when we could make the technical solution happen (Michelle, Adam)
-- Procurement needs (short-term/long-term) (Danielle, Eunice, Michelle, Mary)
+  - Procurement needs (short-term/long-term) (Danielle, Eunice, Michelle, Mary)
+  - **(Team discussed being able to better define above once rest of research was completed)**
 
 ## Section 6: Conclusion
 
