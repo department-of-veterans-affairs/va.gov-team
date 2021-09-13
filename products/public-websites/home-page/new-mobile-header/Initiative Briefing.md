@@ -62,16 +62,18 @@ As a result, for our growing base of Mobile users, issues with the current heade
   -  Some of the exposed navigational elements cause user confusion -- e.g. the Crisis Line logo was mistaken for a hamburger menu on mobile per user research
   -  Too many chevrons in the top right corner with all acting differently, user causing confusion and degrading user experience.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - This page will be easy to refactor, All of suggested design changes can be done by removing/updating assets and elements with minimal risk.  [Refer to Technical analysis for additional details](  
+  - This page will be easy to refactor, All of suggested design changes can be done by removing/updating assets and elements with minimal risk.  [Refer to Technical analysis for additional details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md#technical-analysis)  
 - **Viability Risks/Constraints** (will there be a positive organizational impact):
-  - This optimization will apply some much needed streamlining for navigational strategies along with user flow and conversion paths as related to the benefit hubs. Risk/constraint to consideer will be ensuring no disruptions to the current veteran expereince in applying for benefit actions (servicability needs to remain stead and active).  A secondary contraint will be to ensure user flow and conversion paths are fully tested with Veterans through exstensive user testing to ensure optimization of pathways and flows meet desired outcomes. 
+  - This optimization will apply some much needed streamlining for navigational strategies along with user flow and conversion paths for mobile users that are currently struggling to complete critical tasks via mobile platform. Risk/constraint to consideer will be ensuring no disruptions to the current veteran expereince in VA.gov home page via mobile while we optimize (servicability needs to remain stead and active).  A secondary contraint will be to ensure user flow and mobile enhancmenets are fully tested with Veterans through a slow production release to 5% of users and test and measure effectiveness against defined KPIs to ensure success criteria is being achieved and intended user experience is achieved before increasing phased roll-out.   
 
 ### Solution Scope
 **In Scope**
-
+- Mobile enhancements only (Not affecting Desktop experience)
+- Auth and Unauth elements as outlined in Deisgn specs
+- Defined roll out plan to 5% prod, test & measure before increasing roll out percentage
 
 **Not In Scope**
-
+- No Desktop enhancements (Mobile only)
 --- 
 
 ## Launch Planning
