@@ -53,7 +53,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756016/simulate/sitemap?mode=i)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user 36 (creds here)[TK]
+  1. Log in to staging using test user 36 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
@@ -66,7 +66,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756485/simulate/sitemap?mode=i)
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user (TK)
+  1. Log in to staging using test user ssoissoetesting+mhvcss4@gmail.com ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md))
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
