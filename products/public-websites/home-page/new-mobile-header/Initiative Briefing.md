@@ -44,9 +44,11 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 ### Key Performance Indicators (KPIs)
 
+- Findability: TBD
 - Service Completion: TBD 
 - Ease of use: TBD
 - Trust/Satisfaction: TBD
+
  
 ---
 
@@ -57,7 +59,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
   - There is measurable value to Veterans optimizing VA.gov mobile header to increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.  Essentially changing design aspects that have been proven through user research to be confusion and low value user experiences would give mobile users a clearer path to the benefits they deserve.   
   - The biggest technical risk is in breaking functionality, especially anything tied to the redux state when we break out the components in the [SearchHelpSignIn component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx), but we can mitigate this risk with E2E testing
 - **Usability Risks** (can people figure out how to use it):
-  -  Only 2% of users were clicking on the right rail navigation because for most users(on desktop, tablet, and mobile), media queries forced that section to the bottom of the page, even on desktop.
+  -  A snapshot of VA.gov click-through analytics and user research conducted in May 2021 indicates there is relatively modest engagement of the navigational elements in the global header by mobile users, with the exception of the VA Benefits and Health Care menu item and to a lesser extent Search.
   -  Scoping mobile navigational paths to be "three-click rule" compliant could help user find itended supporting content that would lead to an informed benefit action providing a clear conversion paths from the benefit hubs to the benefit action spoke. 
   -  Some of the exposed navigational elements cause user confusion -- e.g. the Crisis Line logo was mistaken for a hamburger menu on mobile per user research
   -  Too many chevrons in the top right corner with all acting differently, user causing confusion and degrading user experience.
