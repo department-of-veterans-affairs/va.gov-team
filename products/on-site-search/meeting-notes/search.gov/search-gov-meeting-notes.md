@@ -1,5 +1,17 @@
 ## Type Ahead - Search.gov Meeting & Implementation Notes
 
+### Sept 10 Response
+
+Hi Denise,
+
+Unfortunately we don't have the option to not include playlists in our indexing, or a sort_by parameter for the videos vertical. All videos returned will match the query, the relevancy is determined by where it matches, and we require the keyword to match in the "title" to show in the first page of results. You may have more control over the content if you hit the Youtube API directly.
+
+As far as design, you're definitely free to implement whatever works for your website! 
+
+Best,
+Amani
+
+
 ### Sept 9 Followup on Videos
 
 Hi Amani, 
