@@ -2,9 +2,9 @@
 
 ## Overview
 
-To date, we have established an approach for supporting static content pages and are putting together recommendations for moving to a more scaleable solution. We need to be able to do the same for on-line forms and we've started "Technical Discovery" to understand the effort and obstacles to supporting translated form apps.
+To date, we have established an approach for supporting static content pages and are in the process of putting together our recommendations for a longer-term, more scaleable solution. We need to be able to do the same for on-line forms and so have begun our "Technical Discovery" to understand the effort required and identify how we can support within existing architecture.
 
-This phase is nearing completion and for the next phase, we'd like to implement a translated form app to production and be able to test and confirm the approach is sound and we don't encounter any obstacles that weren't surfaced in the sandbox environment. 
+This phase is nearing completion and for the next phase, we'd like to implement an actual translated form app to the production environemnt; this will enable s to test and confirm the approach is sound and that there aren't any isues that didnt come to light because we were working in a sandbox environment. 
 
 - Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
@@ -17,7 +17,7 @@ What is the problem and who is affected?
 
 Which Veteran/organizational segments are most affected by the problem?
 
-- Any VA.gov users (Veterans, caregivers, family members) who are LEP or non-English speakers and want to fill out an application for a benefit on-line without needing to go to a VCO for assistance or engage a transaltor.
+- Any VA.gov users (Veterans, caregivers, family members) who are LEP or non-English speakers and want to fill out an application for a benefit on-line without needing to go to a VCO for assistance or engage a translator.
 
 What evidence do we have of the problem?
 
@@ -36,13 +36,14 @@ How does this initiative help further OCTO-DE's mission and goals?
 ## Desired User Outcomes
 Why would a user want to use this?
 
-- On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly. During the Research and Discovery phase the Caregiver's team noted the following:
+- On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly. During their Research and Discovery phase the Caregiver's team noted the following:
 
 - An online form allows applicants to legibly complete at their own pace, save progress, and take breaks as needed, which some expressed difficulties with using the PDF online.
 - Many Veterans and Caregivers expressed they have poor handwriting, so an online application eases the workload for VA personnel processing applications.
 
-Related tot his, a recent user on "Find a Form/PDF Downloads" shows, particpants have difficulty using PDFs for a number of reasons summarized below. 
-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
+Related to this, a recent research effort on "Find a Form/PDF Downloads" showed that particpants have difficulty using PDFs for a number of reasons, as summarized below. 
+
+Research Results: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
 
 **Summary of Key Findings**
 - Most participants ignored the instructions provided
