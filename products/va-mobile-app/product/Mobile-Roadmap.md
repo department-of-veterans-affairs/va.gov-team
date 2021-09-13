@@ -343,7 +343,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Codesign Sessions
 * Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
 * Analytics
-* Documentation sites
+* Documentation sites (Sketch library, Github Pages)
 
 **Starts Now (Sept - Dec 2021)**
 * Vaccine records discovery
@@ -351,10 +351,10 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Push Notifications  for Appointments
 * Push Notifications for Secure Messaging
 * UAT for new features 
-* Secure Messaging refinements (iemail preferences, signature, Cerner)
+* Secure Messaging refinements (email preferences, signature, Cerner, delete, avatars, preferred contacts)
 * Follow along with VSP identity team
 * Add Login.gov credential
-* Scale activities (comms, privacy update)
+* Scale activities (comms, privacy update, ATO)
 * Content Audit
 * Information Architecture refinements
 * Dark Mode
@@ -362,7 +362,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 **Starts Next (Jan - March 2022)**
 * Appointment: native join session
 * Rx Refill design + build (TBD)
-* Appointment refinements (reason for appointment, clinic specific info)
+* Appointment refinements (reason for appointment, clinic specific info, covid-19 appointments)
 * Appointment Request & Direct Schedule
 * Deep Links
 * Push Notifications architecture redesign
@@ -377,7 +377,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Push Notifications for Claims
 * Retire MHV
 * Retire DS Logon
-* Profile refinements (view dependents, int’l phone number)
+* Profile refinements (view dependents, int’l phone number, local VAMC contact info)
 * GI Bill balance (view payments, manage dependents)
 * Debt (view payments)
 * Localization (languages, number and date formatting)
