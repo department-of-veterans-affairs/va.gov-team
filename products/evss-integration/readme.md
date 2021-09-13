@@ -44,7 +44,7 @@ There are a number of EVSS environments, but the ones we care about are
     * Swagger docs: https://csraciapp6.evss.srarad.com/wss-pciu-services-web/swagger-ui/index.html
     * va.gov-team docs: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS
   * form526 Services
-    * Swagger docs: [Original](https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=htt[…].gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml) (on VA network), 
+    * Swagger docs: [Original](https://www.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=htt%5B%E2%80%A6%5D.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml)
 [our copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/disability/526ez/engineering/evss-docs/wss-form526-services-web-v2.yaml)
 
 Note that the earlier EVSS services were built with no swagger documentation.
