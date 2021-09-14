@@ -1,10 +1,10 @@
-## Steps to complete Staging Review: 
+# Steps to complete Staging Review: 
 
 
 ## Before meeting
 
 **VFS Product Manager**
-- [ ] Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support (see Slack Workflow ([User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
+- [ ] Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
 - [ ]  Add artifacts listed below to the ticket at least 4 days before scheduled meeting.
 - [ ]  Ensure you've provided staging access information for the tool or feature. (Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
 
@@ -22,7 +22,7 @@
 
 **Platform**
 
-- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+- [ ] [Update Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 
 
 
@@ -45,7 +45,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 [Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 --> 
 
-- [ ] Release Plan 
+- [ ] Release plan 
 
 <!-- 
 Release plan template
@@ -70,17 +70,19 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 
 - [ ]  Product test cases/test plan in TestRail with test execution logs 
 - [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
-- [ ] [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail 
+- [ ] [Summary(Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
 
 ### Accessibility artifacts 
 
-- [ ] Completed [TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). (preferred)
+- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). (preferred)
 
 OR
 
-- [ ] Document in your product folder that indicates all required checks from the accessibility [staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
+- [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
 
 - [ ] List of known issues
+
+#### List of known issues
 
 •	Issue 1
 
