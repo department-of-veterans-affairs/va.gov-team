@@ -99,7 +99,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Overall
 
-**1. Overall, users were very positive about the My VA and Alerts page. 8 out of 8 participants said they would use these pages and would find them very useful.** Most users specifically called out the name tag area and commented on how they liked the sections included in My VA. All users mentioned that the Alerts page design was clean and easy to understand overall. 
+**1. Users were very positive about the My VA and Alerts page. 8 out of 8 participants said they would use these pages and would find them very useful.** Most users specifically called out the name tag area and commented on how they liked the sections included in My VA. All users mentioned that the Alerts page design was clean and easy to understand overall. 
 
 > "It's very easy to navigate - a lot of vets worry about the process and paperwork, this makes it so easy. I just scroll and see everything that I need to see."
 
@@ -113,7 +113,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "This is perfect to see right when I log in (My VA). If this is the first page that you see - you don't have to question anything. This makes it really easy. It's like dummy proof."
 
-> I" personally wish that it would default to ...this guy right here (My VA). I'd like that first, and then maybe you have a link to another page that displays all the information on the homepage."
+> "I personally wish that it would default to ...this guy right here (My VA). I'd like that first, and then maybe you have a link to another page that displays all the information on the homepage."
 
 > "If I knew this was the landing page for my VA experience - this would be my first stop shop for all my needs."
 
