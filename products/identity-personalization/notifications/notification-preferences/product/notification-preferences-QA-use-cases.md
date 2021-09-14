@@ -24,7 +24,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   - User sees warning message stating that we can't load all of their profile information, and they are prompted to verify their identity
 
 * **Link to designs**
-  - TK
+  - [Alert screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/LOA1.png)
 
 * **Instructions to access in Staging** 
   1. Log in to staging using any LOA1 test user credentials
