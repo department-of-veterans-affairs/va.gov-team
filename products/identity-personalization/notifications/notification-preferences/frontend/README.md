@@ -220,7 +220,7 @@ Display error alert immediately after `h1`
 
 Add success alert to mobile number section to guide users back to notification settings
 
-[Mock-up](https://preview.uxpin.com/6fa96dc222d3c59c67feba34a5cac98770462bd7#/pages/141512227/simulate/sitemap?mode=i) (add phone number to see alert)
+[Mock-up](https://preview.uxpin.com/6fa96dc222d3c59c67feba34a5cac98770462bd7#/pages/141913008/simulate/sitemap?mode=i)  (Add phone number to see alert.)
 
 #### Copy
 
