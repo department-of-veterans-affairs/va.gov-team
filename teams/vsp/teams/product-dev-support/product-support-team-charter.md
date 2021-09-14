@@ -31,6 +31,8 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 - Content Specialist: Peggy Gannon
 - Information Architect: Jim Ryan
 
+### OCTO Product Owner
+- Rachael Roueche
 ---
 
 ## How we work
@@ -94,8 +96,8 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - User Story
 - Description with Background
 - Acceptance Criteria
-- Label: Product Support
-- Nested in an Epic
+- Label: 'vsp-product-support'
+- Nested in an Epic (if applicable)
 
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
@@ -111,7 +113,15 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Slack:
 
-This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication. We use the VSP-product-support channel for our team discussions. You'll also get many support requests in vfs-platform-support
+This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
+
+Channels:
+- **#vsp-product-support-team** This is our main team channel and is used for all internal team communication. This is a private channel since VFS work is often discussed.
+- **#vsp-collaboration-cycle** This is the main channel for the Collaboration Cycle. All reviewers and OCTO practice area leads involved in the Collaboration Cycle are included. This is a private channel since VFS work is discussed.
+- **#vfs-platform-support** This is the support channel that VFS teams use to request any support from Platform, including Collaboration Cycle reviews.
+-  
+Group:
+**@vsp-product-support-members** This is our teams Slack group. When we receive requests in #vfs-platform-support, the group is tagged. All team members, including our PO, are included in the group.
 
 #### GitHub
 GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
