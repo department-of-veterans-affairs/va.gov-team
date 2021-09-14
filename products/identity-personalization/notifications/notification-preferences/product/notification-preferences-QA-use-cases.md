@@ -91,7 +91,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   - User adds mobile phone via alert message 
 
 * **Link to designs**
-  - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141757595/simulate/sitemap?mode=i)
+  - [Mockup](https://preview.uxpin.com/6fa96dc222d3c59c67feba34a5cac98770462bd7#/pages/141913008/simulate/sitemap?mode=i)
 
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using TK
