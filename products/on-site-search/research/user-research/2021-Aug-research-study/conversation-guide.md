@@ -35,8 +35,8 @@ Thank you for joining us today! My name is Cindy, and I have some colleagues on 
 
 Before we start, I want to go over a few things:
 
-- **This session may take about 60 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veteran's needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
+- **This session may take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veterans' needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
   - I could dictate it to you, put it in the Zoom chat, email it to you, *(only if on a phone)* text it to you.
