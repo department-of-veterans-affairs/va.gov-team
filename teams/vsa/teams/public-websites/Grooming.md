@@ -42,10 +42,11 @@ None
 - [ ] [Discovery] Why can't we put the Promo Banner on all pages [#29823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29823) 
 - [ ] [BUG] Promo Banner dismissing when hyperlink clicked [#29824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29824) 
 - [ ] [BUG] Only 1x (promo) announcement can be created at a time [#29827](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29827) 
+- [ ] Incorrect PDF form name on VA Survivors Pension page [#29906](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29906)
 
 
 ### Icebox Items (Relevancy - Delete)
-
+Revisit form intro page pattern - multiple issues [#14623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14623) 
 
 ### Future Work Grooming: 
 Outreach and Events - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md) 
