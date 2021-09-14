@@ -103,6 +103,7 @@ Lighthouse
 * Direct Deposit Email Confirmation - automatically sent when the Veteran updates their direct deposit account information on va.gov.
 * Application Connect & Disconnection from VA account - sent when the Veteran allows an app to access their health information and vice versa on va.gov.
 * VA.gov Authenticated experience - Email confirmation that a veteran has updated their contact information.
+* Higher-Level Review Email Confirmation- Sent automatically upon submission
 
 
 
