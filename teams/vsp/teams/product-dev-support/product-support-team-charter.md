@@ -67,6 +67,13 @@ Check in on people and product progress
 - 30 min
 - Format: Review weekly [Standup Agenda](https://vfs.atlassian.net/wiki/spaces/PPST/pages/1762492421/Product+Support+-+Standup+Agenda) and discuss urgent items
 
+#### Sprint Creation
+Finalize objectives and goals for the upcoming sprint.
+
+- Every other Monday at 3 pm Eastern
+- 30 minutes
+- Finalize sprint objectives and write the Sprint Report
+
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
