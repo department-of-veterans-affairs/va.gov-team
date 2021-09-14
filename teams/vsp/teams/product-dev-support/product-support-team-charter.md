@@ -25,24 +25,45 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 
 ### Team Members:
 - Team Product Manager: Shira Goodman
-- Web Accessibility: Noah Gelman
+- Accessibility: Noah Gelman
 - QA Specialist: Peter Hill, Darius Dzien
 - UX Designer: Allison Christman
 - Content Specialist: Peggy Gannon
-- Information Architect: TBD
+- Information Architect: Jim Ryan
 
 ---
 
 ## How we work
+
+### Product Management
+
+#### Board
+All work is managed under the [Platform- Product Support](https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/board?repos=133843125,154174777&showEstimates=false&showMilestones=false&showEpics=false&showReleases=false&showDependencies=false) board in Zenhub.
+
+#### Label
+All work performed by Platform Product Support team will have the 'vsp-product-support' label in github/zenhub.
+
+#### Pipelines
+- **Backlog:** Default pipeline for all new work. Anything that has not yet been picked up for a specific sprint or is in need of refinement.
+- **Icebox:** This pipeline is not used often, however it is for low priority, un-prioritized issues that are not immediate priorities.
+- **Now Initiatives:** High level initiatives for the current quarter. Issues in this pipeline are always at the Epic level. 
+- **Upcoming Initiatives:** High level initiatives for an upcoming quarter. Issues in this pipeline are always at the Epic level.
+- **Feedback:** This pipeline contains issue tickets written by Platform Product Support team members assigned to other VFS teams as part of Collaboration Cycle (this piepline will be retired as new tickets should not include the 'vsp-product-support' label.
+- **Upcoming CC Reviews:** Upcoming issue tickets (or touchpoints) for the Collaboration Cycle created by VFS teams. This represents the current workload for the Collaboration Cycle.
+- **Completed CC Reviews:** Completed issue tickets (or touchpoints) for the Collaboration Cycle created by VFS teams. Platform does not mark any Collaboration Cycle tickets as closed (that is the responsibility of the VFS team) so tickets will remain in this pipeline until VFS action is taken.
+- **Planned:** Issue tickets ready to be worked on this sprint or the upcoming sprint.
+- **In Progress:** Issue tickets currently being worked on.
+- **Review/QA:** Completed issue tickets awaiting peer review, PM approval and/or PO review.
+- **Closed:** Completed and closed out issues.
 
 ### Workflow + Cadence
 
 #### Stand-up
 Check in on people and product progress
 
-- Monday, Wednesday, Thursday, Friday at 12 pm Eastern. Tuesdays at 1:30 Eastern. 
-- 15 min
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- Monday, Wednesday, Friday at 12 pm Eastern. 
+- 30 min
+- Format: Review weekly [Standup Agenda](https://vfs.atlassian.net/wiki/spaces/PPST/pages/1762492421/Product+Support+-+Standup+Agenda) and discuss urgent items
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
@@ -58,7 +79,7 @@ Review accomplishments from prior sprint, what went well, what can be improvemed
 - 30 min
 
 
-#### Grooming
+#### Refinement
 Assess and update workload for remainder of sprint
 
 - 2nd Thursday of every sprint at 4 pm Eastern
