@@ -71,7 +71,7 @@ Ticket Needs:
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
-### Dad Joke: What do you do when you see a space man? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+### Dad Joke: What do you get if you put a duck in a cement mixer? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
 
 <details><summary>Past Grooming Sessions</summary>
 
@@ -697,6 +697,6 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-Park your car, man.
+Quacks in the pavement.
 
 </details>
