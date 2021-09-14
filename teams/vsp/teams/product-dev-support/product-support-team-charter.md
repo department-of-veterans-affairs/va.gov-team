@@ -43,7 +43,7 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 All work is managed under the [Platform- Product Support](https://app.zenhub.com/workspaces/platform---product-support-5f85b91c14d8df0018fac414/board?repos=133843125,154174777&showEstimates=false&showMilestones=false&showEpics=false&showReleases=false&showDependencies=false) board in Zenhub.
 
 #### Label
-All work performed by Platform Product Support team will have the 'vsp-product-support' label in github/zenhub.
+All work performed by Platform Product Support team will have the `vsp-product-support` label in github/zenhub.
 
 #### Pipelines
 - **Backlog:** Default pipeline for all new work. Anything that has not yet been picked up for a specific sprint or is in need of refinement.
