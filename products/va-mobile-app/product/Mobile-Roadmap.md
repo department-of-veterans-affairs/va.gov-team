@@ -89,7 +89,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
    <td>
 <ul>
 
-<li>Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
+<li>Polish, Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
 
 <li>Analytics
 
@@ -341,7 +341,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 **Continued/Repeated each quarter:**
 * UAT for new features
 * Codesign Sessions
-* Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
+* Polish, Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
 * Analytics
 * Documentation sites (Sketch library, Github Pages)
 
