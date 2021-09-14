@@ -11,7 +11,7 @@ Tressa Furner (tressa.furner@adhocteam.us), September 2021
 
 *Note - part of this research was to figure out what to call this new feature, throughout documentation we have called it 'alerts', 'action items' and 'notifications' - these terms are all referring to the same feature.*
 
-Our team is giving Veterans access to their recent action items by adding recent action items to the My VA dashboard. We aim to understand the best way to implement this new action items feature on VA.gov. This includes:
+Our team is giving Veterans access to their recent action items by adding recent action items to the My VA dashboard as well as building out a separate page for action items. We aim to understand the best way to implement this new action items feature on VA.gov. This includes:
  
 - How do users expect to find their action items? 
 - How do users expect to take action on their action items?
