@@ -343,7 +343,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Codesign Sessions
 * Polish, Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
 * Analytics
-* Documentation sites (Sketch library, Github Pages)
+* Documentation sites (Github Pages)
 
 **Starts Now (Sept - Dec 2021)**
 * Vaccine records discovery
