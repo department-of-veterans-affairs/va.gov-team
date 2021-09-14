@@ -31,7 +31,7 @@ link to errors and logs your product produces
 brief explanation of errors/metrics (or link to them here)
 
 ### Issue investigation steps
-- Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
+- STEM automated decision is heavily dependent on very specific parameters returned from the [EVSS service] (https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/gi_bill_status/gi_bill_status_response.rb). EVSS is only available during certain hours of the day. If the parameters are not met for auto denial, the data is passed on to be processed manually.
 
 ### Flipper Features and Rollback
 - Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
