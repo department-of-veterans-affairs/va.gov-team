@@ -27,31 +27,27 @@ None
 
 </details>
 
-## Wednesday, August 18, 2021
+## Wednesday, September 15, 2021
 
 ### Key Grooming Factors:
 1. Breakdown User Stories into smaller tasks.
 2. Assign estimates and confirm team members are on the same page.
 3. Determine / Validate definition of DONE. 
 
-- [ ] Mission Act website shut down/redirect strategy (Target Date Sept 30, 2021) [#25989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25989)
-- [ ] Hyphenation in breadcrumb [#17521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17521)
-- [ ] Manual migration of accordions web components in content build [#26280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26280) 
-- [ ] Update links to IRIS and GI Bill systems on the Contact Us page from Ask VA Team on the VRM product line [#28848](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28848)
+- [ ] Subdomains' header does not look correct [#29458](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29458) 
+- [ ] 508-defect-3 [Headings]: Search resources and support articles or all of VA.gov should be a heading [#29733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29733)
+- [ ] 508-defect-2 [Headings]: Search results for resources and support should be consistent with other search heading orders [#29743](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29743) 
+- [ ] 508-defect-4 [COGNITION]: Breadcrumbs should match h1 [#29759](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29759) 
+- [ ] 508-defect-3 [SCREENREADER]: Resources and support search result metadata should be linked to their respective headings using aria-describedby [#29789](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29789) 
+- [ ] [Discovery] Why can't we put the Promo Banner on all pages [#29823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29823) 
+- [ ] [BUG] Promo Banner dismissing when hyperlink clicked [#29824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29824) 
+- [ ] [BUG] Only 1x (promo) announcement can be created at a time [#29827](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29827) 
+
 
 ### Icebox Items (Relevancy - Delete)
-- [ ] Implement recommendations to flatten level 4+ child pages in benefit hubs, in the nav [#8060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8060)
+
 
 ### Future Work Grooming: 
-New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
-
-
-Ticket Needs: 
-- Epic Build - Connect existing tickets
-- Discussion scheduled with @Ryan tomorrow to review details 
-- Will add in backlog tickets in support
-
-
 Outreach and Events - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md) 
 FE TBD
 
@@ -64,7 +60,6 @@ FE TBD
 - Preview experience
 - PW team will design/research next steps here (@Cassandra to take a look at this and provide some design recommendations.) [Outreach and Events Link](https://www.va.gov/outreach-and-events/)
 
-
 Ticket Needs: 
 - EPIC Build - Connect existing tickets
 - Design discovery (@Cassandra)
@@ -72,30 +67,6 @@ Ticket Needs:
 - Sorting/Filtering component (Search & Filter by Date time group (DTG). 
 - Taging (discussed) what would this look like? 
 - Repeat Events - CMS Build - What FE tasks?
-
-
-Banner Migration
-
-- Content type close to ready, still working on governance features
-- Scope
-  - Non-content admins cannot create banners, but they can edit them.
-  - Non-content admins will not be able to edit
-  - PR open to support exceptions, catch alls, info and warning
-- Runbook for sunsetting block 42 (vaccine)
-  - Finish creating new node and scope (Steve and Randi/Danielle, need to confirm the visibility rules)
-  - Will we support both banner types at once?
-  - Testing the switch in a tugboat environment with Kelson's branch? (archive block 42 + publish the new node, test the paths to see that they match prod), test the homepage banner.
-  - Merge Kelson's PR (Kelson to test and finalize prior to merge)
-  - Confirm the visibility rules with sitewide team.
-  - Repeat the launch on prod
-  - Then remove FE support for alert-block-based banners. 
-  - Then remove CMS support for alert-block-based banners.
-
-
-Ticket Needs: 
-- Testing switch in Tugboat (Kelson's PR)
-- Remove FE Support for alert-block-based banners on block 42.
-- Max three Banners - Dave guidance 
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
