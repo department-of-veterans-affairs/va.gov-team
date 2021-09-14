@@ -55,8 +55,8 @@ _[If Veteran: Follow-up questions for Veterans]_
   - When you go online, what type of device do you usually use (like a desktop computer, laptop, or mobile phone)?
   
 _[If family member or caregiver: Follow-up questions for family members and caregivers]_
-  - Can you tell me about any VA benefits or services that you, or the Veteran, use or have used in the past?
-  - Do you help the Veteran manage any of their benefits or services? Tell me more.
+  **- Can you tell me about any VA benefits or services that you, or the Veteran, use or have used in the past?**
+  **- Do you help the Veteran manage any of their benefits or services? Tell me more.**
   - How often do you or the Veteran use VA.gov to learn about, apply for, or manage benefits and services? 
   - Do you or the Veteran have an account (like DS Logon, My HealtheVet, or ID.me) to sign in to VA.gov?
   - When you go online, what type of device do you usually use (like a desktop computer, laptop, or mobile phone)?
@@ -67,7 +67,7 @@ Now, I'm going to ask you some questions about how you and [your family members/
 
 - Do you and [your family/the Veteran] primarily speak Spanish, English, or another language at home? Can you tell me about your and [your family members'/the Veteran's] level of comfort with English vs. Spanish?
 - In general, when you each need information, do you prefer to read it in English or Spanish? Are there specific kinds of information or topics that you specifically prefer in Spanish? Can you tell me more about this?
-- Can you tell me about your experiences applying for government benefits with applications that are written in English, in Spanish, or both? _[Follow-up question]_ Can you think of anything that would have made your experience easier?
+- Can you tell me about your experiences applying for government benefits with applications that are written in English, in Spanish, or both? _[Follow-up question]_ **Can you think of anything that would have made your experience easier?**
 - How do you and [your family members/the Veteran] usually find access to information in Spanish? Are there certain formats you find more helpful?
 - How do you usually access information in Spanish online?
   _[Follow-up questions if needed]
@@ -93,12 +93,12 @@ _[send this link in the chat: https://www.va.gov/]_
 
 I've sent you a link in the chat for VA.gov. Please cut and paste this link into your browser. Thank you.
 
-- I'd like to ask you now to think about a situation where you want to get information about a VA benefit or service in Spanish. Can you show me how you would try to find that on this site?
+- I'd like to ask you now to think about a situation where you want to get information about a VA benefit or service in Spanish. **Can you show me how you would try to find that on this site?**
 
   _[examples of follow-up questions depending on where they go]_
   - What information is this page providing?
   - Is this the information you expected to find here?
-  - If you didn't find what you needed here, what would you do next? Why?
+  **- If you didn't find what you needed here, what would you do next? Why?**
 
 _[If the participant doesn't go to the footer after a few minutes, direct them to the footer for this next part]_
 
