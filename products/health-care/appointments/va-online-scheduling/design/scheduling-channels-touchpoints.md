@@ -10,7 +10,7 @@ This documents touchpoints where a Veteran may schedule and manage health care a
 
 [This Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1631052267269/a0bd249352ab8b1c655ce47c01c52eddd7f2c82e?sender=ub08ff1d80ee7bd38d6c02354) captures a high-level overview of how each touchpoint helps Veterans complete these tasks.
 
-Touchpoints are organized by the channels through which they can be accessed.
+Touchpoints are organized by the channels through which they can be accessed. Quotes from relevant research are included to help provide context around Veteran attitudes.
 
 ## CH: In person
 
