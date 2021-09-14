@@ -70,7 +70,7 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 - [name of content of truth, for example, "Invision Prototypes"](link here)
 - [name of 2nd content of truth, if any, for example, "PDF Mockups"](link here)
 
-- [ ] Github ticket that shows the work for updating/creating any relevant static content pages and entry points for product (if applicable)
+- [ ] Github ticket that shows the updates for any relevant static content pages and entry points for product (if applicable)
 
 ### Q/A artifacts
 
