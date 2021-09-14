@@ -35,6 +35,12 @@
 
 </details>
 
+## September 15
+
+Banners 
+
+Promos
+
 ## September 8
 
 Banners blocker to launch
