@@ -36,6 +36,8 @@
 - [ ] Create unit tests
 - [ ] Create e2e tests
 - [ ] Update relevant documentations
+  - [ ] README
+  - [ ] Use Cases
 
 ## Acceptance Criteria
 
