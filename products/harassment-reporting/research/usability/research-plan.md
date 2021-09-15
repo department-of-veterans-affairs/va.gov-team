@@ -57,6 +57,9 @@ Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8
 - Have a working microphone on their phone
 - Have Zoom downloaded to their phone prior to the session and know how to share their screen
 
+### Additional questions to ask in the screener
+- What is your native language? If not English, record as "non-native English speaker".
+
 ## Timeline
 #### Desired Timeline: Oct 11-14, 2021 
 **60-minute** sessions with at least **30-minute breaks** in between 
