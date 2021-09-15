@@ -37,9 +37,15 @@
 
 ## September 15
 
-Banners 
+Alert banners (FKA "Banners")
+- High five session 
+- Update from OPIA handoff yesterday (covered in Jane's email, forwarded to Brian and Kelson)
+- Next steps to remove alert block cruft from FE and [CMS](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6176) (PR ready)
+- This Friday's meeting with Sitewide content team
 
-Promos
+Promo banners
+- Current state - how does this work? 
+- User stories for PW team
 
 ## September 8
 
