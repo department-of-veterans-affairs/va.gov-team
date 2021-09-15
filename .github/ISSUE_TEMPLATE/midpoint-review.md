@@ -7,7 +7,7 @@ assignees: shiragoodman
 
 ---
 
-## Steps to complete Midpoint Review 
+# Steps to complete Midpoint Review 
 
 ## Before meeting
 
@@ -46,12 +46,14 @@ Provide links or documents for the following:
 --> 
 - [ ] Finalized design prototype or mockup
 - [ ] Research plan 
-<!--
-([Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)) 
---> 
 
+<!--
+[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) 
+--> 
 - [ ] Conversation guide 
-<!--([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
+
+<!--
+[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
 -->
 
 
@@ -63,17 +65,15 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 -->
 
 - [name of content of truth, for example, "Invision Prototypes"](link here)
-- [name of 2nd content of truth, if any, for example, "PDF Mockups"](link here)
 
-- [ ] Github ticket that shows the updates for any relevant static content pages and entry points for product (if applicable)
+- [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
+ 
+### QA artifacts
 
-### Q/A artifacts
+[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
-[Learn more about QA test plans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
-
-- [ ] Product test cases/test plan in TestRail with test execution logs 
-- [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
-- [ ] [Summary(Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
+- [ ] Regression test plans (if there isn't already a regression test plan for this feature in TestRaiProduct)
+- [ ] Link to test cases/test plan in TestRail (draft OK) 
 
 
 ## VFS Meeting Attendees
