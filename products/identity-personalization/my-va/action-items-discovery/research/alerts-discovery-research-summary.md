@@ -193,7 +193,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Alerts section on My VA
 
-**1. Users expect an alerts section to be on My VA, in addition to a separate alerts page.** Many participants were excited to see My VA, and mentioned that it would make tracking benefits easier. All users understood the difference between My VA and the Alerts page. 
+**1. Users expect there to be information about their alerts on My VA, in addition to a separate alerts page.** Many participants were excited to see My VA, and mentioned that it would make tracking benefits easier. All users understood the difference between My VA and the Alerts page. 
 
 > "Alerts are important to be on this page, it's important to keep in mind as you go through all the different pages."
 
