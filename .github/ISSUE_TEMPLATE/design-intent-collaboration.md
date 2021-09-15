@@ -9,7 +9,7 @@ assignees: shiragoodman, allison0034
 
 ## Steps to complete Design Intent Collaboration
 
-## Before meeting
+### Before meeting
 
 **VFS Product Manager or Designer**
 - [ ]  Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
@@ -25,7 +25,7 @@ assignees: shiragoodman, allison0034
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
 
 **VFS**
-- [ ] Respond appropriately to Platform feedback tickets.
+- [ ] Respond to Platform feedback tickets.
 - [ ] Close this ticket when review is complete and feedback has been addressed. 
 
 
@@ -37,6 +37,7 @@ assignees: shiragoodman, allison0034
 ## Artifacts
 
 Provide links or documents for the following: 
+
 - [ ] Product outline
  
 <!--
@@ -56,7 +57,7 @@ Provide links or documents for the following:
 - OCTO-DE Design lead: Ryan Thurlwell
 
 ### Team Members
-<!-- Add anyone from your team who significantly contributed to the artifacts provided, otherwise, delete list -->
+<!-- Add anyone from your team who significantly contributed to the artifacts, otherwise, delete list -->
 - [Insert name here]
 - [Insert name here]
 
