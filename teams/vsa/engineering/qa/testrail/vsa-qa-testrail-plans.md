@@ -31,7 +31,7 @@ When you creating/editing a Test Plan, click **Add Test Run(s)** at the top of t
 
 After adding a Test Run to your Test Plan, click **Configurations** next to the Test Run title, then select the devices/browsers you need for the Run.
 
-[See Test Plan & Test Run video](https://governmentcio.sharepoint.com/:v:/r/sites/VSATeam/Shared%20Documents/Engineering/QA/QA-shared/TestRail/Videos/tr-plan-run-config.mp4?csf=1&web=1&e=inL8zR) [Click **Request access** if prompted]
+[See Test Plan & Test Run video](https://governmentcio.sharepoint.com/:v:/r/sites/VSATeam/Shared%20Documents/Engineering/QA/QA-shared/TestRail/Videos/tr-plan-run-config.mp4?csf=1&web=1&e=inL8zR) [requires GCIO SharePoint access]
 
 
 [tr-plan-add-run]: ../images/tr-plan-add-run.png
