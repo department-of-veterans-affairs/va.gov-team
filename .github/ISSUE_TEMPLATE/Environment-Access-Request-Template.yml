@@ -51,14 +51,14 @@ body:
       placeholder: this adds context
     validations:
       required: false
-  - type: checkboxes
+  - type: dropdown
     id: request-services
     attributes:
       label: Service(s) You Want Access To
       multiple: true
       options:
-        - label: SOCKS (Requires public ssh key)
-        - label: AWS
+        - SOCKS (Requires public ssh key)
+        - AWS
   - type: textarea
     id: ssh-key
     attributes:
