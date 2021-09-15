@@ -25,6 +25,7 @@ Informational interview with secure messaging SME(s).
     - Veteran journey: from the point a Veteran is registered for VA health care, secure messaging could apply anytime a Veteran needs to communicate with their health care team
 - **What is a typical use case for this product?**
     - Sheduling appointments
+    - Questions about medications
     - Requesting prescription refills
     - Providing updates on health condition
     - Non-urgent general health care questions
