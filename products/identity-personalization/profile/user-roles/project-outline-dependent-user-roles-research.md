@@ -2,15 +2,15 @@
 #### Overview
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+Conduct usability testing/research to define the top priorities of a dependent user role. Initial thinking is that dependents need to be able to sign into va.gov to retrieve benefit letters. Our research should help validate, or invalidate this need, and ideally, identify if there are other potentially higher priorities that dependents may have in accessing an authenticated experience on va.gov. Ultimately this research will be used to scope what a dependent user role MVP looks like on va.gov.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Profile | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md) 
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
+*  
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
 
