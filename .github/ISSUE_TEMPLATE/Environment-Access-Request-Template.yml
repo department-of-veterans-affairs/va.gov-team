@@ -51,3 +51,24 @@ body:
       placeholder: this adds context
     validations:
       required: false
+  - type: dropdown
+    id: request-services
+    attributes:
+      label: Service(s) You Want Access To
+      multiple: true
+      options:
+        - SOCKS (Requires public ssh key)
+        - AWS
+  - type: textarea
+    id: ssh-key
+    attributes:
+      label: Public SSH Key
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      placeholder: 
+      render: shell
+  - type: textarea
+    id: aws-access
+    attributes:
+      label: Desired AWS Service(s) & Access
+      description: What AWS services do you need access to and why? 
+      placeholder: I need access to S3 to read uploaded files
