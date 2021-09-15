@@ -1,7 +1,7 @@
 # How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
-- [ ] Labeled with Team (`vsa-healthcare-exp`)
+- [ ] Labeled with Team (`vsa-healthcare-exp` and `Health Care Exp-Planned` or `Health Care Exp-Unplanned` )
 - [ ] Fill in User Stories
 - [ ] Fill in Documentation
 - [ ] Fill in Tasks
@@ -20,7 +20,8 @@
 
 > these should be links to feature docs
 
-- [MVP: Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)
+- [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
+- [Product Docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin)
 - [Feature Doc](%FILL IN%)
 
 ## Description
@@ -32,9 +33,8 @@
 > this is a list of technical tasks that need for this ticket
 
 - [ ] %Add any tasks%
-- [ ] Create user tests
+- [ ] Create unit tests
 - [ ] Create e2e tests
-- [ ] Create Pact tests
 - [ ] Update relevant documentations
 
 ## Acceptance Criteria

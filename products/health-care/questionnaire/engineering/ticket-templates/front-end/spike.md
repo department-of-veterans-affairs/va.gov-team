@@ -20,7 +20,8 @@
 
 > these should be links to feature docs
 
-- [MVP: Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)
+- [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
+- [Product Docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin)
 - [Feature Doc](%FILL IN%)
 
 ## Description
@@ -29,7 +30,7 @@
 
 ## Questions to Answer
 
-> these are the targeted questions that need answered in this spike
+> these are the targeted questions that need to be answered in this spike
 
 - [ ] Question 1
 - [ ] Question 2
@@ -49,5 +50,5 @@
 > when is the ticket done
 
 - [ ] %Add any additional Acceptance Criteria%
-- [ ] Relativant documentation has been created
+- [ ] Relevant documentation has been created
 - [ ] Findings shared with the appropriate team members
