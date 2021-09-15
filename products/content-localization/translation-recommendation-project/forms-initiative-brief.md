@@ -4,7 +4,7 @@
 
 To date, we have established an approach for supporting static content pages and are in the process of putting together our recommendations for a longer-term, more scaleable solution. We need to be able to do the same for on-line forms and have completed a technical discovery sprint to understand the effort required and identify how we can support within the existing architecture.
 
-Now that this initial discovery work is complete, we'd like to implement an actual translated form app to the production environemnt; this will enable s to test and confirm the approach identified is sound and that there aren't any isues that didn't come to light because we were working in a sandbox environment. 
+Now that this initial discovery work is complete, we'd like to implement an actual translated form app to the production environment; this will enable us to test and confirm the approach identified is sound and that there aren't any isues that didn't come to light because we were working in a sandbox environment. 
 
 - Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
@@ -17,7 +17,7 @@ What is the problem and who is affected?
 
 Which Veteran/organizational segments are most affected by the problem?
 
-- Any VA.gov users (Veterans, caregivers, family members) who are LEP or non-English speakers and want to fill out an application for a benefit on-line without needing to go to a VCO for assistance or engage a translator.
+- Any VA.gov users (Veterans, caregivers, family members) who are LEP or non-English speakers and want to fill out an application for a benefit on-line without needing to go to a VSO for assistance or engage a interpreter.
 
 What evidence do we have of the problem?
 
@@ -59,7 +59,7 @@ With this problem solved, what should users be able to do/achieve that they coul
 
 ## Undesired User Outcomes
 -	VA can't demonstrate progress on translation efforts in a timely way
--	The on-line application is more confusing and complicated than existing PDF and/or english version of the tool.
+-	Usage doesn't increase with time and awareness efforts
 
 ## Desired Business Outcomes
 
@@ -80,7 +80,7 @@ With this problem solved, what should users be able to do/achieve that they coul
 - compare the PDF error rates to the on-line form error rates
 -	compare the benefit approval timeframe for PDF submissions vs on-line submissions
 -	cost of processing a PDF vs an on-line application
--	customer satisfaction 
+-	customer satisfaction scores compared to english tool
 
 
 ### Key Performance Indicators (KPIs)
@@ -97,7 +97,7 @@ Trust/Satisfaction, Health.*<sup>1</sup>\
 
 There are several considerations in determining which on-line application form to translate and offer in Spanish. Ideally:
 
--	The current on-line application form has a corresponding English and Spanish PDF version (to establish baseline metrics and KPIs)
+-	The current on-line application form has a corresponding English tool 
 -	The form is not overly complex/long or has unique complexities that would result in an extended delivery timeline
 - Form requires minimal updates/changes over the next 6-8 months.
 -	Evidence of a high need exists
@@ -126,7 +126,7 @@ We will also gain a better understanding of how to scale translation for Forms f
 ### Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
-The team has considered doing other work first, which includes further integration/testing with Weblate (or another vendor), automating translation files to improve workflow and building entity reference fields. However, we've determined that this is the highest priority because of the need to quickly understand how to support content other than static content. 
+The team has considered doing other work first, which includes automating translation files to improve workflow and building entity reference fields. However, we've determined that this is the highest priority because of the need to quickly understand how to support content other than static content. 
 
 ### Solution Scope
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
