@@ -1,16 +1,15 @@
 name: Environment Access Request
 description: To request access to dev tools
 title: Access for [individual]
-labels: ['external-request', 'operations, ops-access-request']
+labels: ['external-request', 'operations', 'ops-access-request']
 body:
   - type: markdown
     attributes:
       value: |
-        1. Fill out **Description**
-        2. Change the **Title** to include your name
-        3. Add the label used by your team (eg: `BAH-526`)
-        4. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        5. When the issue is closed you will be notified and can continue with on-boarding setup
+        1. Change the **Title** to include your name
+        2. Add the label used by your team (eg: `BAH-526`)
+        3. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
+        4. When the issue is closed you will be notified and can continue with on-boarding setup
   - type: input
     id: cor-name
     attributes:
@@ -40,7 +39,7 @@ body:
     attributes:
       label: Your Email
       description: Please provide your name.
-      placeholder: jane.doe@gmail.com
+      placeholder: ex. jane.doe@gmail.com
     validations:
       required: true
   - type: input
@@ -71,6 +70,6 @@ body:
   - type: textarea
     id: aws-access
     attributes:
-      label: Desired AWS Service(s) & Access
+      label: Desired AWS Services
       description: What AWS services do you need access to and why? 
-      placeholder: I need access to S3 to read uploaded files
+      placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
