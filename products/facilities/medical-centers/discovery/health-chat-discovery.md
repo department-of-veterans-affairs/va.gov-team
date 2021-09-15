@@ -10,6 +10,8 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 [VA Health Chat](https://mobile.va.gov/app/va-health-chat)
 
+[Heath Chat VA intro video](https://www.youtube.com/watch?v=WzibuuD0_Jk)
+
 ### Methodology
 
 Informational interview with health chat SME(s).
