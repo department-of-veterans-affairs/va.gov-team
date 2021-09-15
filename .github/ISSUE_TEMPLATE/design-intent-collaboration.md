@@ -7,9 +7,9 @@ assignees: shiragoodman, allison0034
 
 ---
 
-## Steps to complete Design Intent Collaboration
+# Steps to complete Design Intent Collaboration
 
-### Before meeting
+## Before meeting
 
 **VFS Product Manager or Designer**
 - [ ]  Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
@@ -18,7 +18,7 @@ assignees: shiragoodman, allison0034
 **Platform**
 - [ ] Schedule meeting with Platform reviewers and VFS team attendees listed in ticket. 
 
-### After meeting
+## After meeting
 
 **Platform**
 - [ ] Create feedback tickets and link to the Design Intent epic (if no feedback, please comment stating that). 
