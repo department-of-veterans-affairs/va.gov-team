@@ -1,4 +1,4 @@
-# Product Use Cases Template
+# Product Use Cases: Notification Preferences
 
 Link to product outline: [Notification Preferences product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md)
 
