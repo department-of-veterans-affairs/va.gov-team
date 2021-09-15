@@ -5,7 +5,7 @@ The purpose of this research is to get user feedback on the new online harassmen
 
 ## Phases of Research
 
-### Phase 1: SME Discussions (early Sept; 30 min over Zoom)
+### Phase 1: SME Discussions (early Sept; 60 min over Zoom)
 We want to reach out to several SMEs who work with Veterans dealing with harassment and talk with them about the research we're planning. SMEs might include
 - Mental health counselors or social workers at VA facilities or VSOs
 - Vet Center outreach specialists or counselors 
@@ -27,9 +27,9 @@ If we have obtained the buy-in of the SMEs and some names or recommendations for
 ## Information gathering from SMEs
 Below is a list of questions that we would like to ask SMEs.
 1. Explain what we want to do (get user feedback on the new online harassment reporting tool) and how (interact with a design prototype on their computer or smartphone). Maybe show some wireframes, if they're ready.
-1. Do you think we should try to ask Veterans who may have experienced harassment to give feedback on this prototype? Potential for re-triggering the trauma?
-    1. If no, skip to last question
-    1. If yes, ask rest of questions
+1. What are your thoughts about trying to ask Veterans who may have experienced harassment to give feedback on this prototype? How would you consider the potential for re-triggering the trauma?
+    1. If they recommend not talking with Veterans, skip to the last question.
+    1. Otherwise, continue with the questions below.
 1. What kinds of Veterans do you think we should target in our research? (i.e., female/male, sexual/non-sexual harassment)
 1. Who do you think might use a self-service harassment reporting tool like this one vs. call a phone number vs. not report at all?
 1. Are there any Veteran groups that are disproportionately harmed/affected by harassment? Who are they and why?
