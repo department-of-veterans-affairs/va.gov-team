@@ -9,10 +9,10 @@ Conduct usability testing/research to define the top priorities of a dependent u
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-*  
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* **What is the problem and who is affected? And, what evidence do we have of the problem?** The suspected problem is that dependents don't have an easy way to retrieve benefit letters. However, there are a lot of unknowns about this. There are only "rumors" that dependents access va.gov for this purpose. We'll need to validate whether that is in fact true, and determine if there are other needs that are potentially more common or more important.
+
+* **How does this initiative help further OCTO-DE's mission and goals?**
+This research would be done in direct service of several of OCTO-DE's mission and goals. For example, If we determine that dependents are in fact using va.gov to retrieve benefit letters, or there are other needs identified, the work would be done in direct service of providing a Veterans and their families a single source for information and resources. Additionally, depending on our research findings, this could point us in the direction of creating a more personalized experience on va.gov not only for Veterans, but for their dependents, as well any other future user roles that come out of this work, i.e. caregivers, POA's etc. This work also supports the goals of providing Veterans and their families with service that they trust (security, accuracy and relevancy); providing Veterans and their families with a seamless experience to apply for benefits and track applications, claims and appeals online.
 
 <!--
 ## Desired User Outcomes
