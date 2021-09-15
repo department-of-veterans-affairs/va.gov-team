@@ -21,7 +21,7 @@
 6. Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
 
 
-</details>
+</details>***
 
 ## September 15
 
@@ -38,11 +38,12 @@ Nearby Vet Centers listing
 ### VAMC
 
 Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
-- CMS issue:
+- CMS issue: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
 
 Mobile VAMC facilities
 
-VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
+VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty 
+- After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
 
 
 ## September 8
