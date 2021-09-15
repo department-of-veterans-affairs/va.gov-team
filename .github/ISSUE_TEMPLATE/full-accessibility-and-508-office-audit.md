@@ -7,21 +7,20 @@ assignees: noahgelman, shiragoodman
 
 ---
 
-## Steps to complete the Full Accessibility & 508 Audit
-Audits are performed on a first-come-first-serve basis and are scheduled with each biweekly sprint.
+# Steps to complete the Full Accessibility & 508 Audit
+Audits are performed on a first-come, first-served basis and are scheduled with each biweekly sprint.
 
-### Before audit 
+## Before audit 
 
 **VFS product manager**
-
 - [ ] Verify all accessibility defects identified at Staging Review have been fixed before requesting a full audit *(Platform understands that other teams may be accountable for fixing some of the defects identified at Staging Review. These defects are exempt and will not block a team from scheduling this touchpoint)*
 - [ ] Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
 
 
-### After audit
+## After audit
  
 **Platform**
-- [ ] Create sub-issues attached to this Full Accessbility Audit epic with findings. 
+- [ ] Create sub-issues attached them to Full Accessbility Audit epic. 
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886)
 
 **VFS**
@@ -41,9 +40,7 @@ Use this accessible staging account template to do so:
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md
 -->
 
-- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). (Preferred)
-
-OR
+- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)**, OR
 
 - [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) document are complete.
 
