@@ -23,27 +23,63 @@
 
 </details>***
 
+## September 22 
+
+Official vs plain language Vet Center names
+
+Scheduling Mobile VAMC facilities research/design/discovery overview
+
+Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
+- CMS issue: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
+
+VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty 
+- After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
+
+Featured stories
+- [KB article](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
+
+
+
 ## September 15
 
 ### Vet Centers
 
 Overriding the official Vet Center name (i.e. Dr. Cameron McKinley Department of Veterans Affairs Veterans Center = Prescott Vet Center)
  - Facilities team: [#29844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29844)
+ - Facilities team to look at District 1 and 5 for other official names to determine priority
+ - **CMS issue:** As a Content admin, i can override the official name with a Veteran-friendly one, so that the front end can use the plain language one as the h1. 
+   - URL should use the plain language name (/prescott-vet-center)   
+   - This is only the case for <5% of Vet Centers. 
+   - Field should only be editable by Content Admins, disabled for others
+   - Concerns that need to be addressed: Facility API parity, URL aliases. 
+   - Implementation idea: "Official name" field that Facility API migrates into, which populates title, and which becomes overrideable by content admins. 
+ 
 
 Nearby Vet Centers listing 
- - The published status of Vet Centers in VACMS should not matter. 
- - Preview server and Prod should match. 
- - Lat/long in CMS?
+ - The published status of Vet Centers in VACMS should not matter because it's all Facility API... So no photos and no links to CMS-managed Vet Center content, for now. Future state: photos, and links to Vet Center pages. 
+ - Lat/long in CMS? Should it be pulled in from Facility API?
+ - **CMS issue**: Migrate in lat/long from facility API, to go with other Lat/Long issues (VBA, CAP, events, mobile VAMC)
+ - editorial experience: 
+   - Up to 5, excluding Vet Centers listed in "MAIN AND SATELLITE LOCATIONS" field, within an 80 mile radius. No nearby CAPs or MVCs. Other VC's CAPs may be included in the future. 
+
+other affected Vet Center - vc_0705V 
+
+### VAMC and Vet Center
+
+Facility status push to lighthouse
+- Status can be out of sync between CMS and Lighthouse
+- less likely to happen for VAMC facilities
+- changes to draft facilities that have never been published get pushed to lighthouse 
+- if a facility has been published, we're only supposed to be pushing changes when changes are published.
+- Business process changes
+  - Barb needs to maintain the facility's moderation state for facilities having facility status updated
+  - CMS issue to prioritize fix to logic [#6429](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6429)
+- Adam from Lighthouse will provide list of 9 that were out of sync, Steve will review the use cases. 
 
 ### VAMC
 
-Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
-- CMS issue: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
 
-Mobile VAMC facilities
 
-VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty 
-- After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
 
 
 ## September 8
