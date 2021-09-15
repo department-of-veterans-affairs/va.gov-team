@@ -8,7 +8,6 @@ Conduct usability testing/research to define the top priorities of a dependent u
 - Profile | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md) 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
 * **What is the problem and who is affected? And, what evidence do we have of the problem?** The suspected problem is that dependents don't have an easy way to retrieve benefit letters. However, there are a lot of unknowns about this. There are only "rumors" that dependents access va.gov for this purpose. We'll need to validate whether that is in fact true, and determine if there are other needs that are potentially more common or more important.
 
 * **How does this initiative help further OCTO-DE's mission and goals?**
