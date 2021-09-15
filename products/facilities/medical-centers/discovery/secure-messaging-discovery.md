@@ -12,6 +12,8 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 [Secure Messaging FAQ](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-general-faqs)
 
+[My HealtheVet Secure Messaging](https://www.myhealth.va.gov/mhv-portal-web/secure-messaging-spotlight)
+
 ### Methodology
 
 Informational interview with secure messaging SME(s).
