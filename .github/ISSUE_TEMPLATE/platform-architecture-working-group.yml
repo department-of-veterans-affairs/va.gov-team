@@ -72,6 +72,5 @@ body:
     attributes:
       label: "Other:"
       description: "If 'Other' is selected, please list the other topic(s) here:"
-      placeholder: ""
     validations:
       required: false
