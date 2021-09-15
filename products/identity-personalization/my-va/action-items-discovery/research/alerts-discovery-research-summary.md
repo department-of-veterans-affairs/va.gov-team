@@ -226,7 +226,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "What's important totally depends on what's happening in a Veterans life."
 
-**2. Users made a clear distinction between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).** They wanted to be able to quickly see what needs to be done, act on it and get off the site. There was a shared sentiment that the other 'notifications' were important, but much less than something that required action from them.
+**2. Users made a clear distinction between an 'action item' (something that the Veteran needs to DO) and a 'notification' (something that the Veteran should know).** They wanted to be able to quickly see what needs to be done, act on it and get off the site. There was a shared sentiment that the other 'notifications' were important, but much less than something that requires action from them.
 
 > "Reminder is a soft notice, vs a hard notice. Like the appointment vs the application"
 
