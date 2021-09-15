@@ -25,14 +25,25 @@
 
 ## September 15
 
-- Nearby Vet Centers listing 
-  - The published status of Vet Centers in VACMS should not matter. 
-  - Preview server and Prod should match. 
-  - Lat/long in CMS?
-- Mobile VAMC facilities
-- VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
-- Overriding the official Vet Center name (i.e. Dr. Cameron McKinley Department of Veterans Affairs Veterans Center = Prescott Vet Center)
-  - Facilities team: [#29844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29844)
+### Vet Centers
+
+Overriding the official Vet Center name (i.e. Dr. Cameron McKinley Department of Veterans Affairs Veterans Center = Prescott Vet Center)
+ - Facilities team: [#29844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29844)
+
+Nearby Vet Centers listing 
+ - The published status of Vet Centers in VACMS should not matter. 
+ - Preview server and Prod should match. 
+ - Lat/long in CMS?
+
+### VAMC
+
+Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
+- CMS issue:
+
+Mobile VAMC facilities
+
+VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
+
 
 ## September 8
 
