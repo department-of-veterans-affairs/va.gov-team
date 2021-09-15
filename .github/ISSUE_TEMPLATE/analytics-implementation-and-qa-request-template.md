@@ -15,10 +15,10 @@ assignees: joanneesteban
 <summary>More Information</summary>
 <div>
     <br>
-<p>Use this template to request Google Tag Manager and Google Analytics implementation or QA for your product. Please fill out all brackets.</p>
+<p>Use this template to request Google Analytics implementation or QA for your product. Please fill out all brackets.</p>
     
 > _Please see the following information for implementation timeline:_
-> New Teams: Implementation will usually be completed in 4 sprints:
+> New Teams: Implementation will usually be completed in 4 sprints
 > 
 > - Sprint 1: Discovery/Orientation
 > - Sprint 2: FE Implementation
@@ -30,75 +30,57 @@ assignees: joanneesteban
 > - Sprint 1: Discovery and FE Implementation
 > - Sprint 2: Tagging Implementation and QA
 
-For more information, please check out the [Google Tag Manager resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/readme.md).
-
-An example of a completed request template can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7199). A fully completed issue can help speed up the implementation process.
 </div>
 </details>
 
 ## Description
-- Is this request for Google Analytics implementation or QA?
+### Required
+- **Is this request for **Google Analytics implementation** or **QA**?**
 
+     - [ ] Google Analytics implementation
+     - [ ] QA
 
-- Who is this request for?
+- **Who is this request for?**
 
-    - [Insert Name(s)]
-    _Provide any relevant contact information and link this issue on the DSVA Slack Channel: `#VFS-Platform-Support` and tag `@platform-analytics`._
+    - [Insert team name(s) and individual's names]
     
-- What team/project is this work for?
-    _this adds context for the data_
     
-    - [Insert team and project]
+- **Provide the link(s) for Google Analytics implementation or QA**
+  
+    - [Insert link(s)]
     
-- Provide the Domain where Google Analytics needs to be implemented
-    _i.e. www.staging.va.gov_
+- **When is the launch date?**
+    - [Insert launch date]
+
+- **What interactions need to be tracked?** _NOTE: [Design System Components](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Design-System-Components.1840808040.html) are automatically tracked_
     
-    _Identify if PII is passed in URL or title tag_
+    - [If this is a funnel, insert each step's URL - pages visible depending on the applicant's answers should be marked accordingly]
     
-    - [Provide Domain here]
-- Please provide any upcoming deadlines or important milestones
-    _ex: launch_
-    
-    - [Provide relevant dates here]
-
-- Please provide website interactions to Track
+    - [Insert other interactions - please review the [Design System Components](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Design-System-Components.1840808040.html) to make sure these interactions aren't already tracked]
 
 
-    _Design System components are automatically tracked. [Read more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/build-process-measuring-pageviews-and-events.md#other-important-things) to see which Design System components are opt in or opt out. You do not need to specify on this ticket which components you are tracking unless you are opting in._
+### Optional
+- **If applicable, what test users are needed?**  _NOTE: Do not put staging credentials in this ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository_
 
-    - *Conversions - Understanding the User Flow:* _Provide URLs that are part of the application from introduction page to successful form completion; conditional pages that are visible depending on an applicant's answer should be marker accordingly._
-    
-    - [URLs here]
-    
-    - *Other User Interactions*: _Provide details on other interactions and metrics, like click to help text links, that are helpful in understanding user behavior._
-    
-    - [Other user interactions here]
+    - [Insert test user]
 
-- Sample Users when authentication is required _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
+- **Any additional comments**
 
-    - [Provide sample users or link to user information here]
-
-- Test Users to replicate the event _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
-
-    - [Provide test users or link to user information here]
-
-- Certain conditions/responses that need to be reviewed
-
-    - [Provide conditions/responses here]
-
-- Additional Comments
-
-    - [Add any comments or questions for the Insights team here (if applicable).]
+    - [Insert comments]
 
 > Please leave the following blank
 
-## Acceptance Criteria
+## Acceptance criteria
 - [ ] [All items of checklist have been executed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md#%EF%B8%8F-checklist-before-closing-any-ticket)
 - [ ] QA has been completed
 - [ ] Events have been added to `Product` and `Benefit Hub` Content Groups
 
 
-## Definition of Done
+## Definition of done
 - [ ] All appropriate issue tagging is completed
 - [ ] All AC completed
 - [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
+
+## Additional information
+
+Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Analytics Request Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Analytics-request.1782120453.html) on Platform website for more information about the Collaboration Cycle.
