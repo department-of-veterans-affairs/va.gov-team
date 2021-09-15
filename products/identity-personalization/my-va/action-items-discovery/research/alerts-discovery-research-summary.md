@@ -210,13 +210,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 > "If this information is already listed in alerts - I don't think this is extremely helpful. Especially knowing I have to scroll all the way down to see the rest of my alerts. I'd prefer to just see 'View all alerts' at the top, with some kind of reminder to say I have new things to look at. OR if it's a message, maybe that could also be a hyperlink as well, maybe under 'Go to your profile'."
 
 > "You know where it says 'view all alerts'... I want it to stand out more- it shouldn't just be part of the page like everything else."
-
-<details>
-  <summary>Screenshot</summary>
  
 ![My VA View All Alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/screenshots/My%20VA.png)
  
-</details>
 
 ### Prioritization
 
