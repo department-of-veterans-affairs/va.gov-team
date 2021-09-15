@@ -37,15 +37,28 @@
 
 ## September 15
 
-Alert banners (FKA "Banners")
+Alert banners (soon to be FKA "Banners")
 - High five session 
 - Update from OPIA handoff yesterday (covered in Jane's email, forwarded to Brian and Kelson)
-- Next steps to remove alert block cruft from FE and [CMS](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6176) (PR ready)
+- Next steps to remove alert block cruft [from FE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28924) and [CMS](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6176) (PR ready)
 - This Friday's meeting with Sitewide content team
 
 Promo banners
 - Current state - how does this work? 
+  - In vets-website there's a folder called Announcements, with a [index.jsx config file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/announcements/index.jsx), where announcements can be added with a custom component that renders as a promo banner. 
+  - [There are different types of promo banners](https://design.va.gov/components/promo-banners) (benefits announcements, news, signup)
+  - If the text is too long, the design breaks. 
+  - Currently supported on any URLs. 
+  - The intention with the Afghanistan promo banner was to have it on all pages, but there's a defect (no timeline)
+  - Promo banners have largely served as pressure release valves for other product requests, such as adding "Afghanistan resources" to the main nav. 
 - User stories for PW team
+  - Dave's MVP idea: Just on the homepage, or all pages.  It 
+  - Dave: Is this a place for planned downtime announcements? PW will investigate.
+- Possibility of extending this tool to VAMCs, but this brings governance issues
+  - But each URL can only have one, so there are cross-product governance details to work out. Who trumps who? 
+  - What happens if user dismisses the "top" promo banner, does another one show up? 
+  - How might the design system support some of these governance needs. 
+- Should promo banners expire? Maybe not an MVP feature but this could help with governance. 
 
 ## September 8
 
