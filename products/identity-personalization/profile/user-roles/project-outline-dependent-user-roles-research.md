@@ -1,4 +1,4 @@
-# Project Outline (Initiative Brief): User roles & permissions - Dependents user roles research
+# Project Outline (Initiative Brief): User roles & permissions - Dependents user roles research & discovery
 #### Overview
 
 ## Outcome Summary
