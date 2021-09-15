@@ -1,7 +1,9 @@
 name: Platform Architecture Working Group
 description: Schedule a presentation for the Platform Architecture Working Group
 title: "[Platform Arch WG]: "
-labels: ["platform-working-group", "Internal request"]
+labels:
+  - "platform-architecture-working-group"
+  - "Internal Request"
 assignees:
   - f1337
   - thepipster
@@ -24,7 +26,7 @@ body:
     id: summary
     attributes:
       label: Summary
-      description: Please summarize the topic in a few sentences.
+      description: "Please summarize the topic in a few sentences:"
       placeholder: Network path for public requests coming into VAEC AWS cloud environment and the systems and boundaries involved.
     validations:
       required: true
@@ -32,11 +34,11 @@ body:
     id: status
     attributes:
       label: Status
-      description: What is the status of the documentation?
+      description: "What is the status of the documentation?"
       options:
-        - Ready
-        - In progress
-        - Not ready
+        - "Not Ready"
+        - "Draft"
+        - "Ready"
     validations:
       required: true
   - type: textarea
@@ -46,7 +48,15 @@ body:
       description: Please link to all documentation that will be covered.
       placeholder: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/TechnicalArchitectureOverview.md
     validations:
-      required: false      
+      required: false
+  - type: textarea
+    id: points-of-contact
+    attributes:
+      label: Points of Contact
+      description: "Please list the GitHub handles of the main Point(s)-of-Contact who own the item that will be reviewed:"
+      placeholder: "@my-github-handle"
+    validations:
+      required: false
   - type: checkboxes
     id: ready
     attributes:
@@ -57,3 +67,11 @@ body:
         - label: Backend application
         - label: Network
         - label: Other
+  - type: input
+    id: other-topics
+    attributes:
+      label: "Other:"
+      description: "If 'Other' is selected, please list the other topic(s) here:"
+      placeholder: ""
+    validations:
+      required: false
