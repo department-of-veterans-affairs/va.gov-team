@@ -70,6 +70,9 @@ response = MPI::Service.new.find_profile(user_identity).profile
 
 More details about form526_job_statuses error messages in  [the 526: Reduce form526 Submission Errors, Technical Debt, and Improvements epic ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9903)
 
-[find sentry issues by user_uuid](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=3&query=is%3Aunresolved+user%3A%22id%3Aaaaaaaaaaaaa%22&statsPeriod=14d)
+[find vets-api sentry issues by user_uuid](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=3&query=is%3Aunresolved+user%3A%22id%3Aaaaaaaaaaaaa%22&statsPeriod=14d)
 
 if you want to ask EVSS to investigate something the `Form526Submission - auth_headers["va_eauth_service_transaction_id"]` will help them find the event
+
+Occasionally we'll see id's like `25b9d12f6eb44c2707e90a53` this is a sidekiq id and we can find the related job & form with
+`Form526JobStatus.where(job_id: ids)`
