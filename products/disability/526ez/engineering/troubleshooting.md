@@ -58,7 +58,16 @@ next steps:
 # see if they've had any recent submissions, successful or otherwise
 fss = Form526Submission.where(user_uuid: ipf.user_uuid)
 # check the job status & errors of the last recent attempt
-fss.last.form526_job_statuses
+fss.last.form526_job_statuses.last.error_message
 ````
+
+if we see an identiy related error like `Error calling external service to establish the claim during Submit` (useful, huh?) we can check the identity info (check for multiple birls id's)
+````ruby
+acct = Account.where(idme_uuid: ipf.user_uuid).first
+user_identity =  OpenStruct.new(mhv_icn: acct.icn, dslogon_edipi: acct.edipi)
+response = MPI::Service.new.find_profile(user_identity).profile
+````
+
 More details about form526_job_statuses error messages in  [the 526: Reduce form526 Submission Errors, Technical Debt, and Improvements epic ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9903)
 
+[find sentry issues by user_uuid](http://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=3&query=is%3Aunresolved+user%3A%22id%3Aaaaaaaaaaaaa%22&statsPeriod=14d)
