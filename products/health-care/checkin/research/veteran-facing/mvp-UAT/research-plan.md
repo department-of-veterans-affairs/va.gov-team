@@ -6,7 +6,7 @@ August 2021
 VSA Healthcare Experience: Check-in
 
 ### Background:
-This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. With this round of research, we are looking to get feedback the initial, limited release of our MVP with real users checking in.
+This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov.With this round of research, we are looking to get feedback on the initial limited release of our MVP with real users checking in and staff.  Lastly, we are interested in understanding pre-registration more as well as  check-in indicators needed by staff.
 
 ### Research questions:
 - After a Veteran utilizes the new mobile check-in solution, are they called back for their appointment without having to talk to a clerk/Medical Support Assistant (MSA)?
@@ -20,6 +20,9 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - There should be minimal to no impact to clinical staff's workflow on how they know a Veteran has arrived for their appointment. 
 - Veteran and staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
 - Veteran should utilize VA.gov to check in for their appointment when they reach the clinic check-in area/waiting room.
+- MSAs and administration will have clear ideas on what check in indicators would be helpful to them as well as what is important for pre-registration.
+- What do MSAs need/want to be notified about related to check in (including pre-registration and insurance capture)?
+- What is important to administration about pre-registration and insurance capture?
 
 ## Method 1: Go to MVP site and observe/interview Veterans
 ### Methodology and recruitment
