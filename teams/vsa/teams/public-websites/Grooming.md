@@ -47,7 +47,7 @@ None
 - [ ] [BUG] - Broken PDF form link on Fry Scholarship content page [#29961](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29961) 
 
 New ticket build:
-- Remove Pitsburg Promo Banner component 
+- Remove Pittsburgh Promo Banner component 
 - Test other types of promot banners to ensure functionality (other then announcement promos)
 Others? 
 
