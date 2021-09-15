@@ -53,7 +53,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 [Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 --> 
 
-- [ ] Release plan 
+- [ ] Release plan with the "Planning" sections completed 
 
 <!-- 
 Release plan template
@@ -68,29 +68,25 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 -->
 
 - [name of content of truth, for example, "Invision Prototypes"](link here)
-- [name of 2nd content of truth, if any, for example, "PDF Mockups"](link here)
 
-- [ ] Github ticket that shows the updates for any relevant static content pages and entry points for product (if applicable)
+- [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
 
-### Q/A artifacts
+### QA artifacts
 
 [Learn more about QA test plans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
 
-- [ ]  Product test cases/test plan in TestRail with test execution logs 
+- [ ] Product test cases/test plan in TestRail with test execution logs 
 - [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
 - [ ] [Summary(Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
 
 ### Accessibility artifacts 
 
-- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). (Preferred)
-
-OR
+- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
 
 - [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
 
 - [ ] List of known issues
 
-#### List of known issues
 
 •	Issue 1
 
@@ -107,7 +103,7 @@ OR
 - OCTO-DE Design lead: Ryan Thurlwell
 
 ### Team Members
-<!-- Add anyone from your team who significantly contributed to the artifacts provided, otherwise, delete list -->
+<!-- Add anyone from your team who significantly contributed to the artifacts, otherwise, delete list -->
 - [Insert name here]
 - [Insert name here]
 
