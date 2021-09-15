@@ -1,5 +1,6 @@
 ### **Interview with Carlos**
-- speaks both spanish and english. primarily speaks spanish at home.
+- speaks both spanish and english
+- primarily speaks spanish at home.
 - Wife speaks spanish and english as well
 - Kids speak english
 - Uses VA.gov for health, dental and GI bill
