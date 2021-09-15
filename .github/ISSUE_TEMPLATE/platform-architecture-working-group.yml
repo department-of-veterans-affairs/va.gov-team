@@ -28,14 +28,6 @@ body:
       placeholder: Network path for public requests coming into VAEC AWS cloud environment and the systems and boundaries involved.
     validations:
       required: true
-  - type: textarea
-    id: documentation
-    attributes:
-      label: documentation
-      description: Please link to all documentation that will be covered.
-      placeholder: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/TechnicalArchitectureOverview.md
-    validations:
-      required: false
   - type: dropdown
     id: status
     attributes:
@@ -47,6 +39,14 @@ body:
         - Not ready
     validations:
       required: true
+  - type: textarea
+    id: documentation
+    attributes:
+      label: Documentation
+      description: Please link to all documentation that will be covered.
+      placeholder: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/TechnicalArchitectureOverview.md
+    validations:
+      required: false      
   - type: checkboxes
     id: ready
     attributes:
