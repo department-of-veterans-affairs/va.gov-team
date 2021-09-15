@@ -46,6 +46,10 @@ None
 - [ ] React pages should also have banners [#29943](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29943)
 - [ ] [BUG] - Broken PDF form link on Fry Scholarship content page [#29961](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29961) 
 
+New ticket build:
+- Remove Pitsburg Promo Banner component 
+- Test other types of promot banners to ensure functionality (other then announcement promos)
+Others? 
 
 ### Icebox Items (Relevancy - Delete)
 Revisit form intro page pattern - multiple issues [#14623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14623) 
