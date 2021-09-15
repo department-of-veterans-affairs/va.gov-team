@@ -122,23 +122,23 @@
 - This group is part of the same group as the pain clinic. 
 - They share a waiting room with nuclear medicine, orthopedics, and prosthetics
 ### Interview with MSA
-  - Uses Teams to communicate with providers
-Utilizes VSE GUI to check-in
-Asks Veterans if they have any changes to their personal information
-Uses ICB - Asks if hey have updates to their insurance that they want to share.
-What would you improve about check-in?
-Some Veterans do not come to window and they get skipped as a result. They just come to the area and sit down.
-Providers have VSE GUI.
-MSA really wants an indicator to know that the Veteran is there. Isn’t as interested in a demographics updated indicator.
-They had patients with multiple appointments per day in one clinic. It would be good to check the Veteran in for all appointments in that clinic all at once. 
-(This is similar to the triage nurse and pain appointment)
-Patients can have physical therapy, occupational therapy, and chiropractic appointments together in this physical medicine department.
-Overall MSA structure in physical medicine
-3 MSAs split up the work
-All share the consult list
-1 - check-in and schedules consults
-1 - in the back office on ACD duty
-1 - check-out window, scheduling, and back-up on the phones
+- Uses Teams to communicate with providers
+- Utilizes VSE GUI to check-in
+- Asks Veterans if they have any changes to their personal information
+- Uses ICB - Asks if hey have updates to their insurance that they want to share.
+- What would you improve about check-in?
+  - Some Veterans do not come to window and they get skipped as a result. They just come to the area and sit down.
+- Providers have VSE GUI.
+- MSA really wants an indicator to know that the Veteran is there. Isn’t as interested in a demographics updated indicator.
+- They had patients with multiple appointments per day in one clinic. It would be good to check the Veteran in for all appointments in that clinic all at once. 
+  - (This is similar to the triage nurse and pain appointment)
+  - Patients can have physical therapy, occupational therapy, and chiropractic appointments together in this physical medicine department.
+- Overall MSA structure in physical medicine
+  - 3 MSAs split up the work
+  - All share the consult list
+  - 1: check-in and schedules consults
+  - 1: in the back office on ACD duty
+  - 1: check-out window, scheduling, and back-up on the phones
 
 ## Audiology - visited area
 - This group is part of the same group as the pain clinic. 
@@ -168,73 +168,71 @@ All share the consult list
 - Waiting area is for primary care only.
 
 ## Conversation with MSA Administrator and Trainer
-Overall feedback they have heard/personally have about pilot.
-“Staff love it.”
-Love that it is a system that MSAs already use.
-I’m a Veteran. It is simple to use as a Veteran, but I worry about Veterans checking in from their driveway. How do we know that a Veteran is here.
-Feature request: Adding the ability for an MSA to send the Veteran a message that the provider is ready. 
-This will cover the scenario of a Veteran checks in and leaves to get coffee/talk to a friend. “Vets wander off.”
-It will cover the MSA that they tried to find the Veteran.
-Maybe add to the poster “Please remain in the area until provider calls you.”
-They noticed this was a problem when they had central check-in during the height of the pandemic. The system would say that the waiting room was “full,” but only like 4 Veterans would be there.
-They previously piloted restaurant pagers for check-in. It would signal to the Veteran when the provider was ready. 
-The pagers only worked on one floor. Otherwise, they were out of range, so the pilot failed.
-Pre-registration 
-It is important to have up-to-date contact information for the following reasons
-Sending medications to the correct locations
-“Patient safety”
-Accurate beneficiary travel calculations
-Wellness checks - if needed, responders are deployed to the correct address.
-Knowing who the primary next of kin is.
-No official metric or number to hit, but it is “supposed to be 100% and done at every appointment.” Says Martinsburg has around a 90-95% successful pre-registration rate.
-There are 4 different addresses
-Confidential
-Mailing
-Temporary 
-Home
-Beneficiary travel
-Martinsburg spends a lot on this each year (1.6 million)
-They spent a lot on postage to bad addresses, pharmacy, and police
-They are currently working on a report about this.
-Currently travel staff utilize BTSS, VistA, Bene Travel - VistA overlay
-35% BTSS success rate
-Most do paper claim
-Travel is based on the residential address in VistA
-(Outstanding question: how do that work for snowbirds?)
-If the addresses don’t match between a digital travel submission and what is in VistA, they go with the VistA address.
-If a paper form is submitted and the addresses don’t match, then they investigate.
-Demo of pre-registration wireframes
-Contact information is more important than insurance 
-One reason given is the gap that happens with beneficiary travel.
-Claim they live somewhere that they don’t.
-Want radio button to verify that each data point is correct?
-Maybe add temporary address, so the Veteran can review and update it.
-They want a hard stop if the contact information isn’t correct. No back button.
-They think both emergency contact and next of kin should be reviewed.
-They want to see who verified the information update CYA MSA
-Trainers at Martinsburg instruct MSAs to only update demographic information in Blue VistA, since it is the only place that date/time stamps re-registration and lists who did the update.
-It is also done there, so updated can be seen when a Veteran is admitted to the hospital
-A history of demographic updates would be great. 
-Recent history in particular if case there is problems.
-Shown the BISL (Business Intelligence Service Line) tool, Pre-reg report
-BISL- SCHEDUAD>SATReports>Appointment List_v02
-Martinsburg Administrator want pre-reg monitoring here.
-Columns available are the information that they are looking for, but they aren’t populated.
-Check-in staff indicators
-Initial feedback was to have three indicators (next of kin, demo and insurance)
-However, we then discussed needs for reporting purposes and what MSAs really needed to see.
-They agreed that MSAs only really need to see items that they need to take action on.
-“Provide us with a definition of pre-reg and have one indicator for that for the MSA.”
-Basically, if our experience makes the Veteran review demo, insurance, and next of kin, then they only want to know if the Veteran successfully reviewed it or not.
-However, reporting will need to be broken out more into those three areas.
-Overall check-in product feedback
-Make sure that “already checked in” is both Veteran and MSA triggered.
-They still want a kiosk type solution for Veterans who forget their phone or aren’t as tech savvy.
-“Not a tablet. It would need to be a fixed device or they will walk away.”
-ICB information
-There is an option in ICB for staff to mark that the Veteran
-does have insurance, but refused to share the information.
-doesn’t have insurance
-When discussing insurance capture in mobile check-in, “Don’t want the hospital to lose money.”
-
-
+- Overall feedback they have heard/personally have about pilot.
+  - “Staff love it.”
+  - Love that it is a system that MSAs already use.
+  - I’m a Veteran. It is simple to use as a Veteran, but I worry about Veterans checking in from their driveway. How do we know that a Veteran is here.
+- Feature request: Adding the ability for an MSA to send the Veteran a message that the provider is ready. 
+  - This will cover the scenario of a Veteran checks in and leaves to get coffee/talk to a friend. “Vets wander off.”
+  - It will cover the MSA that they tried to find the Veteran.
+  - Maybe add to the poster “Please remain in the area until provider calls you.”
+  - They noticed this was a problem when they had central check-in during the height of the pandemic. The system would say that the waiting room was “full,” but only like 4 Veterans would be there.
+- They previously piloted restaurant pagers for check-in. It would signal to the Veteran when the provider was ready. 
+  - The pagers only worked on one floor. Otherwise, they were out of range, so the pilot failed.
+- Pre-registration 
+  - It is important to have up-to-date contact information for the following reasons
+    - Sending medications to the correct locations
+    - “Patient safety”
+    - Accurate beneficiary travel calculations
+    - Wellness checks - if needed, responders are deployed to the correct address.
+    - Knowing who the primary next of kin is.
+- No official metric or number to hit, but it is “supposed to be 100% and done at every appointment.” Says  Martinsburg has around a 90-95% successful pre-registration rate.
+- There are 4 different addresses
+  - Confidential
+  - Mailing
+  - Temporary 
+  - Home
+- Beneficiary travel
+  - Martinsburg spends a lot on this each year (1.6 million)
+    - They spent a lot on postage to bad addresses, pharmacy, and police
+    - They are currently working on a report about this.
+    - Currently travel staff utilize BTSS, VistA, Bene Travel - VistA overlay
+    - 35% BTSS success rate
+      - Most do paper claim
+    - Travel is based on the residential address in VistA
+      - (Outstanding question: how do that work for snowbirds?)
+      - If the addresses don’t match between a digital travel submission and what is in VistA, they go with the VistA address.
+        - If a paper form is submitted and the addresses don’t match, then they investigate.
+- Demo of pre-registration wireframes
+  - Contact information is more important than insurance 
+    - One reason given is the gap that happens with beneficiary travel.
+      - Claim they live somewhere that they don’t.
+  - Want radio button to verify that each data point is correct?
+  - Maybe add temporary address, so the Veteran can review and update it.
+  - They want a hard stop if the contact information isn’t correct. No back button.
+  - They think both emergency contact and next of kin should be reviewed.
+- They want to see who verified the information update CYA MSA
+  - Trainers at Martinsburg instruct MSAs to only update demographic information in Blue VistA, since it is the only place that date/time stamps re-registration and lists who did the update.
+  - It is also done there, so updated can be seen when a Veteran is admitted to the hospital
+- A history of demographic updates would be great. 
+  - Recent history in particular if case there is problems.
+- Shown the BISL (Business Intelligence Service Line) tool, Pre-reg report
+  - BISL- SCHEDUAD>SATReports>Appointment List_v02
+  - Martinsburg Administrator want pre-reg monitoring here.
+  - Columns available are the information that they are looking for, but they aren’t populated.
+- Check-in staff indicators
+  - Initial feedback was to have three indicators (next of kin, demo and insurance)
+  - However, we then discussed needs for reporting purposes and what MSAs really needed to see.
+  - They agreed that MSAs only really need to see items that they need to take action on.
+    - “Provide us with a definition of pre-reg and have one indicator for that for the MSA.”
+    - Basically, if our experience makes the Veteran review demo, insurance, and next of kin, then they only want to know if the Veteran successfully reviewed it or not.
+  - However, reporting will need to be broken out more into those three areas.
+- Overall check-in product feedback
+  - Make sure that “already checked in” is both Veteran and MSA triggered.
+  - They still want a kiosk type solution for Veterans who forget their phone or aren’t as tech savvy.
+  - “Not a tablet. It would need to be a fixed device or they will walk away.”
+- ICB information
+  - There is an option in ICB for staff to mark that the Veteran
+    - does have insurance, but refused to share the information.
+    - doesn’t have insurance
+- When discussing insurance capture in mobile check-in, “Don’t want the hospital to lose money.”
