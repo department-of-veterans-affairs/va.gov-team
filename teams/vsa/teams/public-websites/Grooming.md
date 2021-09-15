@@ -43,6 +43,8 @@ None
 - [ ] [BUG] Promo Banner dismissing when hyperlink clicked [#29824](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29824) 
 - [ ] [BUG] Only 1x (promo) announcement can be created at a time [#29827](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29827) 
 - [ ] Incorrect PDF form name on VA Survivors Pension page [#29906](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29906)
+- [ ] React pages should also have banners [#29943](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29943)
+- [ ] [BUG] - Broken PDF form link on Fry Scholarship content page [#29961](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29961) 
 
 
 ### Icebox Items (Relevancy - Delete)
