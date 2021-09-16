@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Key-Management.1886879804.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # Key Management
 
 Vets.gov systems may process sensitive information that must be protected from unauthorized parties. We utilize cryptography to protect this information and associated secrets. This document outlines our guidelines and general practices with regards to managing cryptographic keys and access credentials for protected systems.
