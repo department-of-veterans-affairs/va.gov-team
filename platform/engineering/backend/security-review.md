@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Security-Review.1885733207.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # Security Review
 
 All new services developed under Vets-API must undergo an internal security review prior to production launch. The purpose of this review is to dive into the implementation of a new service at the code level, and ensure that the accompanying OpenAPI specification is valid and complete. The following template should be used:
