@@ -13,8 +13,8 @@ Conduct usability testing/research to define the top priorities of a dependent u
 * **How does this initiative help further OCTO-DE's mission and goals?**
 This research would be done in direct service of several of OCTO-DE's mission and goals. For example, If we determine that dependents are in fact using va.gov to retrieve benefit letters, or there are other needs identified, the work would be done in direct service of providing a Veterans and their families a single source for information and resources. Additionally, depending on our research findings, this could point us in the direction of creating a more personalized experience on va.gov not only for Veterans, but for their dependents, as well any other future user roles that come out of this work, i.e. caregivers, POA's etc. This work also supports the goals of providing Veterans and their families with service that they trust (security, accuracy and relevancy); providing Veterans and their families with a seamless experience to apply for benefits and track applications, claims and appeals online.
 
-### Hypothesis
-* <What's our high-level hypothesis for what we think we should do?>
+### Hypotheses
+* <What do we think we should do?>
 
 <!--
 ## Desired User Outcomes
