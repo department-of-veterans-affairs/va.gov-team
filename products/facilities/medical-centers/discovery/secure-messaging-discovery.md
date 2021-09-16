@@ -37,7 +37,8 @@ Informational interview with secure messaging SME(s).
     - Secure messaging cannot be used for emergency or urgent communication
     - Health care teams are different, and Veterans and their team must agree on if, and how, they want to use secure messaging
     - Veterans can only communicate with health care teams they are authorized to communicate with
-    - Veterans can use scure messaging as a basic user, or as a premium member
+    - Signinup with My HealtheVet, automatically grants access to secure messaging
+    - Veterans can use secure messaging as a basic user, or as a premium member
     - Must be premium members to exchange PHI via secure messaging.
 
 ## SME Interview(s)
@@ -72,7 +73,7 @@ Tracey Martin (Tracey.Martin@va.gov), My HealtheVet coordinator
 - [Patricia]
     - In the past we had three levels of users: basic, advanced, and premium. **Anybody can be a basic user - you have a home page and contacts, but no access to PHI (protected health information).** Then they would be matched to MPI (master patient index) and then automatially go to advanced status, and then would go through an in person authentication, or remote authentication, and then they would become premium. **Premium allows for use of all the features of My HealtheVet [including PHI].**
     - We recently started a campaign to do away with the "advanced" imbetween status, so we're going to have basic users, or premium users. The authentication requires proof of identity - in person via identity verification and answering some questions, or they can do it online. My HealtheVet coordinators upgrade them after authentication.
-    - [Via email after interview] About 67% of My HealtheVet users are premium users.
+    - [Via email after interview] **About 67% of My HealtheVet users are premium users**.
 - [Tracey]
     - Active users sending secure messages, or have sent secure messages in the past two years, are about 21.97% My HealtheVet users.
 - [Tracey]
