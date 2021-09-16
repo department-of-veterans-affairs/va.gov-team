@@ -2,11 +2,10 @@
 
 ## Overview
 
-We have established an approach for supporting static content pages and as part of our recommendations for a longer-term, more scaleable solution we need to create and implement a solution for on-line forms. We've recently completed our technical discovery sprint to determine how to support this within VA.gov's existing architecture and gauge the type and level of effort required.
+We have established an approach for supporting static content pages and as part of our recommendations for a longer-term, more scaleable solution we need to create and implement a solution for on-line forms. We've recently completed our initial technical discovery sprint to determine how to support this within VA.gov's existing architecture and gauge the type and level of effort required.
 
 As our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps. 
 
-- [Translation Recommendation Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md)
 
 ## Problem
 
@@ -42,9 +41,9 @@ Why would a user want to use this?
 
 - During the Caregiver's Research and Discovery phase the team noted the following:
 
-- An online form allows applicants to legibly complete at their own pace, save progress, and take breaks as needed, which some expressed difficulties with using the PDF online.
+  - "An online form allows applicants to legibly complete at their own pace, save progress, and take breaks as needed, which some expressed difficulties with using the PDF online".
 
-- Many Veterans and Caregivers expressed they have poor handwriting, so an online application eases the workload for VA personnel processing applications.
+  - "Many Veterans and Caregivers expressed they have poor handwriting, so an online application eases the workload for VA personnel processing applications".
 
 Further related to this, a recent research effort on "Find a Form/PDF Downloads"* showed that particpants have difficulty using PDFs for a number of reasons, summarized below:
 
@@ -169,6 +168,9 @@ The team has considered doing other work first, which includes automating transl
 ### After
 
 ---
+### Translation Recommendations Product Outline
+
+- [Translation Recommendation Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md)
 
 #### Communications
 Where will you discuss this initiative?
