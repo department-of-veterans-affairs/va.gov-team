@@ -80,7 +80,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141757595/simulate/sitemap?mode=i)
 
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user 38 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+  1. Log in to staging using test user 1 or 38 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
   3. User sees alert at the top of the page telling them to provide mobile phone number, with link to the Personal and contact information section of Profile. Link will deep link to mobile phone section of contact info page.
 
