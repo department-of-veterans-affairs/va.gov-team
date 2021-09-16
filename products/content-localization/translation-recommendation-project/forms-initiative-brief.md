@@ -41,9 +41,7 @@ Why would a user want to use this?
 - An online form allows applicants to legibly complete at their own pace, save progress, and take breaks as needed, which some expressed difficulties with using the PDF online.
 - Many Veterans and Caregivers expressed they have poor handwriting, so an online application eases the workload for VA personnel processing applications.
 
-Related to this, a recent research effort on "Find a Form/PDF Downloads" showed that particpants have difficulty using PDFs for a number of reasons, as summarized below. 
-
-Research Results: [Research Study PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf)
+Related to this, a recent research effort on "Find a Form/PDF Downloads"* showed that particpants have difficulty using PDFs for a number of reasons, as summarized below:
 
 **Summary of Key Findings**
 - Most participants ignored the instructions provided
@@ -52,6 +50,8 @@ help
   -  Impossible on mobile devices because the forms require a version of Adobe Acrobat only available on desktop
   -  Digital signature field was invisible to screen reader users
   -  Form fields were difficult to fill out using a screen rea
+
+- Research Results*: [Research Study PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf)
 
 With this problem solved, what should users be able to do/achieve that they couldn't before?
 
