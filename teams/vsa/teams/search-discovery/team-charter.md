@@ -159,10 +159,10 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 - Show your face (Webcam) at meetings / calls
 - Speak up! - everyone’s voice matters
 - We are flexible, but intentional in the way we work
-- Strive for oppurtunties to collaborate 
+- Strive for opportunties to collaborate 
 - Assume best intentions - especially when in a remote setting
 - Trust one another and ask questions freely and frequently
-- Celebrate the wins
+- Celebrate the wins - even the small ones
 - Let’s have fun and do great work!
 
 ### Decision Etiquette
