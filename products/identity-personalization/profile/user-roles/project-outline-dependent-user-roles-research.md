@@ -47,13 +47,13 @@ This research would be done in direct service of several of OCTO-DE's mission an
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - We assume dependents will use va.gov 
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - .
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - e.g. testing, marketing, compliance requirements
+  - Why does VA believe this user role needs to exist on VA.gov?
 
 ### Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
