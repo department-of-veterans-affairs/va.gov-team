@@ -38,7 +38,7 @@ VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is e
 Featured stories
 - [KB article](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
 
-
+Upcoming CMS staffing changes
 
 ## September 15
 
