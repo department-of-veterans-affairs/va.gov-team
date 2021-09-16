@@ -9,15 +9,14 @@ This product folder contains all research, design, engineering, and product docu
 ## VAMC upgrade work - October 1, 2020 thru December 31, 2020
 
 ### Business goal
-`By the end of 2020 Q4, we will have 16 Systems ready for Dual-staging.`
+`By end of October 15th, 2021, VAMC will have all Systems in dual-state status.`
 
 **What this means:**
-- All 8 VISN-4 VAMC sites will be ready and/or in dual-state production on VA.gov (eight VISN-4 VAMCs)
-- All 8 VISN-19 VAMC sites will be ready and/or in dual-state production on va.gov (eight VISN-8 VAMCs)
+- All 139 VAMC systems will either be in full production or in dual-state status. 
+  - (Dual-state status, is where the CMS system has been published and is visible via a browser using the approved VA URL, but is not yet customer facing due to disallow blocking set up in robot.txt files) 
   - All new required site content is drafted and published in Drupal Prod (prod.cms.va.gov)
   - All legacy content, files, links, etc. have been accounted for and documented (upgraded or not)
-  - All new sites have been fully QA'd by the team and ready to hand off to the business for UAT.
-- The team has created and documented (e.g., upgrade runbook, content creation cheatsheets, step-by-step guides, etc.) a repeatable, scalable VAMC site upgrade process in order for VHA to be able to upgrade 134 legacy VAMC system websites over a 24-month period
+  - The team has created and documented (e.g., upgrade runbook, content creation cheatsheets, step-by-step guides, etc.) a repeatable, scalable VAMC site upgrade process in order for VHA to be able to upgrade 134 legacy VAMC system websites over a 24-month period
 
 **What this does not mean:**
 - VAMC public affairs teams are trained on Drupal
