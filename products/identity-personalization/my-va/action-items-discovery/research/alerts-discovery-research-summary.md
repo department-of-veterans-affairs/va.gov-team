@@ -310,6 +310,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Explore ways to reflect that in the design
 
 ### Section design considerations
+   - [ ] Outline what each section is and what it includes
    - [ ] Explore design solutions for making the page more scannable
    - [ ] Explore design solutions for making it easier to differentiate between one an alert in one section vs another
 
