@@ -2,7 +2,7 @@
 ----
 
 # We're moving our docs! 
-### Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1885700252/Service+Object+Implementation) on the Platform website.
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Service-Object-Implementation.1885700252.html) on the Platform website.
 
 ### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
