@@ -60,31 +60,31 @@ help
 
 With this problem solved, what should users be able to do/achieve that they couldn't before?
 
-- We should see an increase in on-line form applications from the spanish speaking population, a reduction in errors, quicker time for approvals (depending on form chosen, these need to be confirmed and/or updated).
+- We should see an increase in on-line form applications from the spanish speaking population, a reduction in errors, quicker time for approvals (note: subject to change as it will depend on form chosen).
 
 ## Undesired User Outcomes
 
--	VA can't demonstrate progress on translation efforts for key content types in a timely way
--	Usage of translated form doesn't increase with time and awareness efforts
+-	Veterans, family members and caregivers can't easily find or use translated content.
+-	Usage of translated form doesn't increase with time and awareness efforts.
 
 ## Desired Business Outcomes
 
--	Meet federal/agency requirements for providing translated benefit information
--	VA demonstrates to Congress that we are continuing to make progress on providing critical information in Spanish while working on our longer-term recommendations
--	VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (spanish first)
+-	Meet federal/agency requirements for providing translated benefit information.
+-	VA demonstrates to Congress that we are continuing to make progress on providing critical information in Spanish while working on our longer-term recommendations.
+-	VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (spanish first).
 
 
 ## Undesired Business Outcomes
 
--	Veterans, family members and caregivers can't easily find or use translated content.
+-	VA can't demonstrate progress on translation efforts for key content types in a timely way.
 
 ---
 ## Measuring Success (TBD)
 
--	Once we determine the form application that will be translated, we will undertakea discovery effort and determine the appropriate metrics to use for our KPI's. If possible, we would like to include some or all of the following:
+-	Once we determine the form application that will be translated, we will undertake a discovery effort to determine the appropriate metrics to use for our KPI's. If possible, we would like to include some, or all, of the following:
 
-- compare error rates to existing PDF 
--	compare the benefit approval timeframe for PDF submissions vs on-line submissions
+- error rates compard to existing PDF 
+-	benefit approval timeframe for PDF submissions vs on-line submissions
 -	cost of processing a PDF vs an on-line application
 -	customer satisfaction scores compared to english tool
 
@@ -119,20 +119,20 @@ There are several considerations in determining which on-line application form t
 - **Usability Risks**: findings from our user research and analysis are representative of Veterans across the Veteran journey. We'll
  expect to see a higher completion rate and satisfaction score with this offering. Low-risk since we will be using an all-ready published form.
 
-- **[Technical] Feasibility Risks**: On-line application form is limited to 1 form for launch that maps to the considerations listed above.
+- **[Technical] Feasibility Risks**: On-line application form is limited to 1 form for launch that maps to the considerations noted above.
 
 - **Organizational Viability Risks/Constraints**: This is part of on-going effort to support Congressional request and EO.
 
 - **Viability**: the form selected is being actively maintained by the VA to ensure content is relevant and accurate and there is a process defined for updating the translated version along with any english updates.
 
-Before undertaking this effort, we will have completed additional technical discoverability for effort including specific LOE for the selected tool, system dependencies/constraints, translation service availability to enable us to start with a very high confidence level that we can build and ship this within set timeframe.
+Before undertaking this effort, we will have completed additional technical discoverability including specific LOE for the selected tool, system dependencies/constraints, translation service availability to enable us to start with a very high confidence level that we can build and ship within set timeframe.
 
 We will also gain a better understanding of how to scale translation for Forms from this effort. 
 
 ### Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
-The team has considered doing other work first, which includes automating translation files to improve workflow and building entity reference fields to associated translated pages. However, we've determined that this is the highest priority because of the need to quickly garner a more detailed understanding of supporting content other than static content. 
+The team has considered doing other work first, which includes automating translation files to improve workflow and building entity reference fields to associate translated pages. However, we've determined that this is the highest priority because of the need to quickly garner a more detailed understanding of  content other than static content. 
 
 ### Solution Scope
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
