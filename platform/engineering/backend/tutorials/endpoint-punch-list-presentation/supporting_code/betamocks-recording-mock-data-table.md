@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1885831242/Betamocks+Mockdata+Example) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 ## vets-api-mockdata/evss/pciu/email/796376250.yml
 ````yml
 ---
