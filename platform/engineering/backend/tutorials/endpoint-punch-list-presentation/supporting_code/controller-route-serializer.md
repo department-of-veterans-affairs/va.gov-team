@@ -1,7 +1,7 @@
 ----
 
 # We're moving our docs! 
-### Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1886814232/Controller+Route+Serializer) on the Platform website.
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Controller-Route-Serializer.1886814232.html) on the Platform website.
 
 ### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
