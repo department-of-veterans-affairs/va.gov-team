@@ -2,9 +2,9 @@
 
 ## Overview
 
-We have established an approach for supporting static content pages and as part of our recommendations for a longer-term, more scaleable solution we need to create and implement a solution for on-line forms. We've recently completed our technical discovery sprint to determine how to support this within VA.gov's existing architecture and gauge the effort.
+We have established an approach for supporting static content pages and as part of our recommendations for a longer-term, more scaleable solution we need to create and implement a solution for on-line forms. We've recently completed our technical discovery sprint to determine how to support this within VA.gov's existing architecture and gauge the type and level of effort required.
 
-For our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps. 
+As our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps. 
 
 - Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
@@ -13,11 +13,11 @@ For our next step, we plan to translate an existing form application and launch 
 What is the problem and who is affected? 
 
 - Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive. 
-- On-line applications provide an electronic footprint that reassures user that their application was corectly submitted and the VA has received it. 
+- On-line applications provide an electronic footprint that reassures users that their application was corectly submitted and the VA has received it. 
 
 Which Veteran/organizational segments are most affected by the problem?
 
-- Any VA.gov users (Veterans, caregivers, family members) who are LEP or non-English speakers and want to fill out an application for a benefit on-line without needing to go to a VSO for assistance or engage a interpreter.
+- Any VA.gov users (Veterans, caregivers, family members) who are LEP or non-English speakers and want to fill out an application for a benefit on-line without needing to go to a VSO for assistance or engage an interpreter.
 
 What evidence do we have of the problem?
 
@@ -43,7 +43,7 @@ Why would a user want to use this?
 
 Related to this, a recent research effort on "Find a Form/PDF Downloads" showed that particpants have difficulty using PDFs for a number of reasons, as summarized below. 
 
-Research Results: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf 
+Research Results: [Research Study PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf)
 
 **Summary of Key Findings**
 - Most participants ignored the instructions provided
