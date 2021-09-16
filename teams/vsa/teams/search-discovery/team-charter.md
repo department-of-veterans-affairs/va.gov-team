@@ -4,13 +4,14 @@
 
 #  Team Guideposts
 ### Our Team Mission:
-(WORKING DRAFT) To enable veterans to find the essential information, tools and services they need as easily and quickly as possible on VA.gov.
+ Enable Veterans to find the essential information, tools, and services they need as easily and quickly as possible on VA.gov
+
 
 ### Our Team Vision:
-(WORKING DRAFT) To make VA.gov the indispensible "source of truth" for veteran benefit information through the power of a world class search experience.
+To make VA.gov search the indispensible "go-to" resource for veterans, caregivers and family to find relevant information quickly and reliably. 
 
 ### How We Measure Our Success:
-(WORKING DRAFT)
+
 - Better search experiences as measured by: 
   - faster, more relevant outcomes
   - satisfaction
@@ -31,9 +32,9 @@
 - [GitHub Document Directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)
   
 - Custom on-site search utilities for VA.gov content, forms and lists, including:
-  - [Learning Center](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b) - launching in Oct-Dec, 2020.
-  - [Find a Form](https://www.va.gov/find-forms/)
-  - [Yellow Ribbon Program](https://www.va.gov/education/yellow-ribbon-participating-schools/)
+  - [Best Bets (aka. Top Recommendations)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/best_bet)
+
+- [Typeahead](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/typeahead)
   
 - Off-site search (as SMEs), including:
  - SEO optimization to improve VA.gov performance on Google, Bing, etc. (encompasses IA, Content and site performance)
@@ -146,7 +147,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Owner     |John Hashimoto                      |
+|DSVA Product Owner     |Dave Conlon                     |
 |Product Manager        |Denise Coveyduc                     |
 |Front End Engineer     |Sam Suddath                         |
 |Designer/Researcher    |Megan Gayle                         |
