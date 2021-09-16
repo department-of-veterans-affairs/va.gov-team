@@ -275,7 +275,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 2. Define what an 'old' and 'new' (read vs unread) alert is within our technological restraints and determine if it's worth the lift (**This feature might NOT be included in MVP**(
 3. Explore ways to represent old alerts vs new alerts (**This feature might NOT be included in MVP**(
 4. Explore ways to add design considerations for each alert section to help with scannability (e.g. health care, claims, covid)
-5. Include the ability to sort alerts by section, date or time-sensitivity (**This feature will most likely NOT be included in MVP**)
+5. Include the ability to sort and/or filter alerts by section, type, date or time-sensitivity (**This feature will most likely NOT be included in MVP**)
+6. Figure out an appropriate timeline for alerts
+7. Explore ways to incorporate an archive if the team decides that it's worthwhile to do
 
 ### My VA
 
@@ -285,10 +287,17 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ### Prioritization
 
-1. Explore ways to differentiate between things that need action vs things that do not need action
+1. Explore ways to differentiate between things that need action vs things that do not need action within our technological constraints
 2. Either do a card sort or another round of research around prioritization to understand what Veterans deem 'time-sensitive'
 
 ## Next Steps
+
+### Scope MVP
+[Project outline for discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#proj[…]very)
+
+   - [ ] Create project outline 
+   - [ ] Clearly define the goals of this project and MVP
+   - [ ] Work with team to figure out what should or should not (or can and cannot) be included in MVP
 
 ### Understand each alert in MVP
    - [ ] Work with VA.notify and VetText to understand how the current APIs work and if we need to build new ones
