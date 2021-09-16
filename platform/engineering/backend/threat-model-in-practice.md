@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Threat-Model-in-Practice.1886879813.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 ### Introduction 
 The vets.gov team is collaboratively developing a [threat model document](/Products/Vets.gov%20Platform/Infrastructure/threat_model/vetsgov_threat_model.md) that identifies general security threats, specific vulnerabilities, and mitigation strategies. This document in turn describes how to use the threat model during our development process.
 
