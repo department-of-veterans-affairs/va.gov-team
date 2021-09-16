@@ -28,62 +28,66 @@ What evidence do we have of the problem?
 How does this initiative help further OCTO-DE's mission and goals?
 
 - VA North Star:
-- 
+
   - Veteran satisfaction with VA.gov site
   - Veterans and their families can apply for benefits online
   - Drive to self service tools and faster times to outcomes
   
 
 ## Desired User Outcomes
+
 Why would a user want to use this?
 
-- On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly. During their Research and Discovery phase the Caregiver's team noted the following:
+- On-line applications are more efficient and accurate. Providing translated applications will increase awareness of available benefits and enable Veterans/family members/caregivers to receive their benefits more quickly. 
+
+- During the Caregiver's Research and Discovery phase the team noted the following:
 
 - An online form allows applicants to legibly complete at their own pace, save progress, and take breaks as needed, which some expressed difficulties with using the PDF online.
+
 - Many Veterans and Caregivers expressed they have poor handwriting, so an online application eases the workload for VA personnel processing applications.
 
-Related to this, a recent research effort on "Find a Form/PDF Downloads"* showed that particpants have difficulty using PDFs for a number of reasons, as summarized below:
+Further related to this, a recent research effort on "Find a Form/PDF Downloads"* showed that particpants have difficulty using PDFs for a number of reasons, summarized below:
 
 **Summary of Key Findings**
+
 - Most participants ignored the instructions provided
 - Most participants were unable to fill out and digitally sign any of the forms without
 help
   -  Impossible on mobile devices because the forms require a version of Adobe Acrobat only available on desktop
   -  Digital signature field was invisible to screen reader users
-  -  Form fields were difficult to fill out using a screen rea
+  -  Form fields were difficult to fill out using a screen reader
 
 - Research Results*: [Research Study PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf)
 
 With this problem solved, what should users be able to do/achieve that they couldn't before?
 
-- We should see an increase in on-line form applications from the Spanish speaking population? a reduction in errors? Quicker time for approvals?
+- We should see an increase in on-line form applications from the spanish speaking population, a reduction in errors, quicker time for approvals (depending on form chosen, these need to be confirmed and/or updated).
 
 ## Undesired User Outcomes
--	VA can't demonstrate progress on translation efforts in a timely way
--	Usage doesn't increase with time and awareness efforts
+
+-	VA can't demonstrate progress on translation efforts for key content types in a timely way
+-	Usage of translated form doesn't increase with time and awareness efforts
 
 ## Desired Business Outcomes
 
--	Meet federal/agency requirements for providing translated benefit information.
--	VA demonstrates to Congress that we are continuing to make progress with providing critical information in Spanish while working towards our longer-term approach recommendations
--	VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (Spanish first)
+-	Meet federal/agency requirements for providing translated benefit information
+-	VA demonstrates to Congress that we are continuing to make progress on providing critical information in Spanish while working on our longer-term recommendations
+-	VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (spanish first)
 
 
 ## Undesired Business Outcomes
--	Veterans, family members and caregivers find content confusing or unhelpful.
+
 -	Veterans, family members and caregivers can't easily find or use translated content.
 
 ---
 ## Measuring Success (TBD)
 
--	Once we determine the form that will be translated, we will undertake Discovery work to determine the appropriate metrics avaiable to establish our KPI's. If feasible, we would like to include some or all of the following:
+-	Once we determine the form application that will be translated, we will undertakea discovery effort and determine the appropriate metrics to use for our KPI's. If possible, we would like to include some or all of the following:
 
-- compare the PDF error rates to the on-line form error rates
+- compare error rates to existing PDF 
 -	compare the benefit approval timeframe for PDF submissions vs on-line submissions
 -	cost of processing a PDF vs an on-line application
 -	customer satisfaction scores compared to english tool
-
-- (** Note: based on form chosen, we hope to be able to get data from the product team on metrics related to the value of providing on-line apps vs paper PDFs/VCO staff (ie: what are the cost savings when using an on-line apps vs pdf forms  - reduced errors? reduced time to process applications/get benefits? higher satisfaction?)**
 
 ### Key Performance Indicators (KPIs)
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, 
@@ -97,23 +101,24 @@ Trust/Satisfaction, Health.*<sup>1</sup>\
 
 ## Discovery
 
-There are several considerations in determining which on-line application form to translate and offer in Spanish. Ideally:
+There are several considerations in determining which on-line application form to translate and offer in spanish:
 
--	The current on-line application form has a corresponding English tool 
--	The form is not overly complex/long or has unique complexities that would result in an extended delivery timeline
-- Form requires minimal updates/changes over the next 6-8 months.
--	Evidence of a high need exists
--	Unauthenticated
--	**Other technical considerations and/or value?**
+-	Whether the current on-line application form has a corresponding english tool (must-have)
+-	The form is not overly complex/long or has unique complexities that would result in an extended delivery timeline (must-have)
+- Form requires minimal updates/changes over the next 6-8 months (must-have)
+-	Evidence of a high need exists (must-have)
+-	Unauthenticated (must-have)
+-	Has existing spanish PDF (nice-to-have)
+-	**TBD: other technical considerations and/or value?**
 
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks.*
 
-- **Value Risks** (will people use it): Spanish LEP Veterans/family members/caregivers value an on-line translated application process for benefits on par with English version
+- **Value Risks** (will people use it): spanish LEP Veterans/family members/caregivers value an on-line translated application process for benefits on par with the english version
   
 - **Usability Risks**: findings from our user research and analysis are representative of Veterans across the Veteran journey. We'll
- expect to see a higher completion rate and satisfaction score with this offering. Low-risk since we will be transalting an all-ready published form.
+ expect to see a higher completion rate and satisfaction score with this offering. Low-risk since we will be using an all-ready published form.
 
 - **[Technical] Feasibility Risks**: On-line application form is limited to 1 form for launch that maps to the considerations listed above.
 
@@ -121,14 +126,14 @@ There are several considerations in determining which on-line application form t
 
 - **Viability**: the form selected is being actively maintained by the VA to ensure content is relevant and accurate and there is a process defined for updating the translated version along with any english updates.
 
-Before undertaking this effort, we will have completed technical discoverability for effort including LOE, other system dependencies/constraints, translation service availability and the like to enable us to start with a very high confidence level that we can build and ship this within set timeframe.
+Before undertaking this effort, we will have completed additional technical discoverability for effort including specific LOE for the selected tool, system dependencies/constraints, translation service availability to enable us to start with a very high confidence level that we can build and ship this within set timeframe.
 
 We will also gain a better understanding of how to scale translation for Forms from this effort. 
 
 ### Prioritization
 > *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
-The team has considered doing other work first, which includes automating translation files to improve workflow and building entity reference fields. However, we've determined that this is the highest priority because of the need to quickly understand how to support content other than static content. 
+The team has considered doing other work first, which includes automating translation files to improve workflow and building entity reference fields to associated translated pages. However, we've determined that this is the highest priority because of the need to quickly garner a more detailed understanding of supporting content other than static content. 
 
 ### Solution Scope
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
