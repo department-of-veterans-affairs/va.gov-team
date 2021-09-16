@@ -50,8 +50,8 @@ As a result, for our growing base of Mobile users, issues with the current heade
     - BET: Improving UX via bringing the sign-in element to a more visible location for mobile users functionality and findability should increase sign-ins on mobile making a more efficient funnel to Tier 1 benefit actions for mobile users.
 - **Ease of use:** Increase mobile usage by 2.5% (Currently sitting at 1.7% of total usage) 
     - Eliminating navigational confusion through streamlined design elements and exposing critical items such as sign-in and top tasks links users will be more confident in using mobile/tablet to learn, access and apply for benefits. 
-- **Trust/Satisfaction:** Increase mobile Medallia score from 1.5 to 2.0 as a messure of success for 5% production release. 
-    - BET: Increased user satisfaction: Improved UI will result in increased CSAT score as a measure of increased satisfaction and truth through use of new mobile interface. 
+- **Trust/Satisfaction:** Achieve a Medallia score of 2.0 to 2.5 satisfaction as a messure of success for mobile. 
+    - BET: Currently CSAT is not being measured on the homepage, however we are working with customer contact team to impliment user satisfaction rating element on the homepage for tracking: Improved UI will result in increased CSAT score as a measure of increased satisfaction and truth through use of new mobile interface. 
  
 ---
 
