@@ -2,9 +2,9 @@
 
 ## Overview
 
-We have established an approach for supporting static content pages and are in the process of putting together our recommendations for a longer-term, more scaleable solution. We need to be able to do the same for on-line forms and have completed a technical discovery sprint to gauge the effort required and identify how to support within VA.gov's existing architecture.
+We have established an approach for supporting static content pages and as part of our recommendations for a longer-term, more scaleable solution we need to create and implement a solution for on-line forms. We've recently completed our technical discovery sprint to determine how to support this within VA.gov's existing architecture and gauge the effort.
 
-As our next step, we plan to translate an existing form app and launch to the production environment. This enables us to test and confirm that our approach  is sound and begin to measure interest and satisfaction for translated apps. 
+For our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps. 
 
 - Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
 
