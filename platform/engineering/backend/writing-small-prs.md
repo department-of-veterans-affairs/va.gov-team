@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Writing-Small-PRs.1885798516.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Tips for creating small pull requests
 
 Code reviews are an integral part of developing high quality software in an agile process. But it can be nearly impossible to review a pull request with thousands of lines of changes. On VA.gov, we try to limit pull requests to 400-500 lines, because that's roughly the upper limit of what a reviewer can effectively review in an hour. That can be difficult on its own, but our development process also requires that any code that is merged works in production or is hidden behind a flag. So, we've put together some tips on how to get your PRs down to a reviewable size.
