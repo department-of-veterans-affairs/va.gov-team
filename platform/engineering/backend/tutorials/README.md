@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Backend-Endpoint-Tutorial.1886978053.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Backend Endpoint Tutorial
 
 Creating a service backend endpoint for va.gov is a common task for developers. Due to the complexity of integrating with legacy VA REST or SOAP applications we've developed a pattern for making these connections. As much of the process is automatable we've created a Rails generator that creates an example 'Hello, World!' endpoint for you.
