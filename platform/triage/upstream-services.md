@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Upstream-Services.1885601877.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 The following table links upstream services with their respective contact lists, maintainence notification streams and on-call documentation. Missing data indicates gaps in this pipeline.
 
 | Shortname  	| Service Name                                     	| Notes                                                                                                                                                                                	| Outage/Maintenance                                                                                                                                                                                                       	| Mailing Lists         	| Contacts                                                                                                                                                                     	| On BSR?                         	| Breakers?                       	| Monitoring                                                                                                	| Alerting 	| VFT Docs                                                                                                                                                   	| Devops Docs                                                                                                                                                             	| Products                                                       	| Child Dependencies 	|
