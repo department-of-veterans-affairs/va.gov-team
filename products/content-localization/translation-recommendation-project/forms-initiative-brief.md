@@ -2,17 +2,18 @@
 
 ## Overview
 
-We have established an approach for supporting static content pages and as part of our recommendations for a longer-term, more scaleable solution we need to create and implement a solution for on-line forms. We've recently completed our initial technical discovery sprint to determine how to support this within VA.gov's existing architecture and gauge the type and level of effort required.
-
-As our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps. 
+We have established an approach for supporting static content pages and as part of our recommendations for a longer-term, more scalable solution we need to create and implement a solution for on-line forms. We've recently completed our initial technical discovery sprint to determine how to support this within VA.gov's existing architecture and gauge the type and level of effort required.
+As our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps.
 
 
 ## Problem
 
 What is the problem and who is affected? 
 
-- Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive. 
-- On-line applications provide an electronic footprint that reassures users that their application was corectly submitted and the VA has received it. 
+- Veterans and their family members with limited English proficiency (LEP) don't have access to essential VA online content in their native language. This includes applying for benefits they are eligible to receive.
+- On-line applications provide an electronic footprint that reassures users that their application was correctly submitted, and the VA has received it.
+- Can’t save progress and pick back up where you left off (true??)
+
 
 Which Veteran/organizational segments are most affected by the problem?
 
@@ -70,7 +71,7 @@ With this problem solved, what should users be able to do/achieve that they coul
 ## Desired Business Outcomes
 
 -	Meet federal/agency requirements for providing translated benefit information.
--	VA demonstrates to Congress that we are continuing to make progress on providing critical information in Spanish while working on our longer-term recommendations.
+-	VA demonstrates to Congress that we are continuing to make progress on providing critical information in spanish while working on our longer-term recommendations.
 -	VA provides relevant, easy-to-find, high-quality content for LEP Veterans and their families in the languages they most need (spanish first).
 
 
@@ -83,10 +84,9 @@ With this problem solved, what should users be able to do/achieve that they coul
 
 -	Once we determine the form application that will be translated, we will undertake a discovery effort to determine the appropriate metrics to use for our KPI's. If possible, we would like to include some, or all, of the following:
 
-- Reduced error rate compared to existing PDF 
--	Faster benefit approval timeframe for on-line submissions va PDF submissions 
--	Lower cost of processing an on-line application vs a PDF 
--	Higer customer satisfaction score compared to english tool
+- Reduced error rate compared to existing PDF
+- Faster benefit approval timeframe for on-line submissions vs PDF submissions
+- Higher customer satisfaction score 
 
 ### Key Performance Indicators (KPIs)
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, 
@@ -107,6 +107,7 @@ There are several considerations in determining which on-line application form t
 -	Evidence of a high need exists (must-have)
 -	Unauthenticated (must-have)
 -	Has existing spanish PDF (nice-to-have)
+- English app doesn’t have established baseline metrics that we can use to set KPIs
 -	**TBD: other technical considerations and/or value?**
 
 ### Assumptions/Risks
@@ -119,6 +120,7 @@ There are several considerations in determining which on-line application form t
 - **[Technical] Feasibility Risks**: On-line application form is limited to 1 form for launch that maps to the considerations noted above.
 
 - **Organizational Viability Risks/Constraints**: This is part of on-going effort to support Congressional request and EO.
+  - Risk that IAA agreement won’t be in place by the time we are ready to kick-off project
 
 - **Viability**: the form selected is being actively maintained by the VA to ensure content is relevant and accurate and there is a process defined for updating the translated version along with any english updates.
 
