@@ -1,3 +1,13 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Supporting-Code.1887010852.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
+
 ## vets-api/config/betamocks/services_config.yml
 ````yml
 # EVSS
