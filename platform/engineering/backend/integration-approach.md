@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Integration-Approach.1887567946.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Overall philosophy
 
 Use an existing API if it's available and will provide what's needed to meet core product functionality and performance standards. If the experience (both user experience and business process experience) for the product in question would be significantly deprecated with any of our existing options, then we need more technical discovery to determine how to create a new service - i.e. should CSRA (or other) build a middle service, or should it be a direct connection that the Vets.gov team builds.
