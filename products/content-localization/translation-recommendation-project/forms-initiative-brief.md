@@ -83,18 +83,17 @@ With this problem solved, what should users be able to do/achieve that they coul
 
 -	Once we determine the form application that will be translated, we will undertake a discovery effort to determine the appropriate metrics to use for our KPI's. If possible, we would like to include some, or all, of the following:
 
-- error rates compard to existing PDF 
--	benefit approval timeframe for PDF submissions vs on-line submissions
--	cost of processing a PDF vs an on-line application
--	customer satisfaction scores compared to english tool
+- Reduced error rate compared to existing PDF 
+-	Faster benefit approval timeframe for on-line submissions va PDF submissions 
+-	Lower cost of processing an on-line application vs a PDF 
+-	Higer customer satisfaction score compared to english tool
 
 ### Key Performance Indicators (KPIs)
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, 
 Trust/Satisfaction, Health.*<sup>1</sup>\
 
-- TBD
-
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Month over month increase in usage
+- Improved satisfaction scores as measured by Medallia
 
 ---
 
@@ -111,8 +110,6 @@ There are several considerations in determining which on-line application form t
 -	**TBD: other technical considerations and/or value?**
 
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): spanish LEP Veterans/family members/caregivers value an on-line translated application process for benefits on par with the english version
   
