@@ -7,9 +7,11 @@
 3. **Acknowledge** request
 4. **Evaluate** request if any of the below is missing or unclear:
    -  VA digital product and/or section
-   -  Role: Editor, publisher, content admin
+   -  Role: Editor, reviewer, publisher
    -  Do they have network access? (Folks who are remote/ or contractors will need CAG or some other means of accessing the network first).
-   -  Name of person who can verify the users's permissions and what training or other criteria must be met before the account is approved. (See next section for verifiers by product).
+   -  If they are requesting for themselves, need name of person who can verify the users's permissions and what training or other criteria must be met before the account is approved. If they don't have a verifier, see next section for verifiers by product.
+   -  If they are requesting for others and they have a Drupal account, the new user may get an account with the same role(s) or section(s) only.
+   -  If they are requesting for others and they don't have a Drupal account, see next section for verifiers by product.
 5. **Investigate** by following up with the requester if any information is missing.
 6. **Verify** request 
    - Contact verifier to approve the sections and roles.
@@ -29,44 +31,46 @@
 ## CMS account verification
 
 **VAMC**
-- Person to contact for verification: Stan Gardner
-- How to reach them: Slack
-- Training required? Yes.
+- Person to contact for verification: Stan Gardner or Lisa Trombley
+- How to reach them: Slack channel vamc-editor-support
+- Training required for prod account activation? Yes.
+- Reference: See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
+
+**Vet Center**
+- Person to contact for verification: Michelle Middaugh or Dave Conlon
+- How to reach them: Slack channel facility-support
+- Training required for prod account activation?no, but encouraged
 - Reference: See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
 
 **Benefits hubs**
 - Person to contact for verification: Randi Hecht and Danielle Thierry
 - How to reach them: Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
-- Training required? No. (Public Websites team typically does their own training).
+- Training required for prod account activation? No. (Public Websites team typically does their own training).
 - Reference: See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
-
-
-
 
 ----
 
-## Process Overview - Training Needed
+## Onboarding - Training Needed
 
-1. Request comes in (via email/slack/jira widget)
-2. We acknowledge the request
-3. We make sure a Jira ticket exists
-4. We find out their product owner, desired role, va email address, etc., if they have network access (if they’re a contractor), and what training they need, if any.
-5. If they need training, pass this information to training by assigning the ticket to training in Jira.
-    1. If they don’t have access, training can send them youtube video links but we can’t give them training site access
-    2. If they do have access, create their account in prod following instructions below, create their account in training environment (because prod account won't update training environment until the next training environment refresh), then send training instructions, including following up with their product owner/approver when training is completed.
+1. Request comes in via email, Slack or Jira.
+2. We create a ticket if it hasn't been created.
+3. Acknowledge the request and ask for any missing account info.
+4. If they need training, pass this information to training by assigning the ticket to training in Jira.
+    - If they don’t have VA network access, training can send them youtube video links but we can’t give them training site access
+    - If they do have VA network access, create their account in prod following instructions below (defaults to blocked status), create their account in training environment (because prod account won't update training environment until the next training environment refresh).
+5. Send training instructions.
    
 
-## Process Overview - No Training Needed/Training Completed
+## Onboarding - No Training Needed/Training Completed
 
-1. Request comes in (via email/slack/jira widget)
-2. We acknowledge the request
-3. We make sure a Jira ticket exists
-4. We find out their product owner, desired role, va email address, etc., if they have network access (if they’re a contractor), and what training they need, if any.
-    1. If no training is needed per the product owner/approver, go to the next step. Note: Public Websites handles their own trainings so just create their account. 
-    2. If training is needed, assign the ticket to training. This will follow the Training Needed process. The user will be instructed to follow up with their product owner/approver when training is completed.
-5. We’ll link it to the previous training request ticket if possible
-6. We’ll create the new user (per instructions section below) 
-7. We’ll notify the new user and resolve the ticket.
+1. Request comes in via email, Slack or Jira.
+2. We create a ticket if it hasn't been created.
+3. Acknowledge the request and ask for any missing account info.
+    - If no training is needed per the product owner/approver, go to the next step. Note: Public Websites handles their own trainings so just create their account. 
+    - If training is needed, assign the ticket to training. This will follow the Training Needed process. The user will be instructed to follow up with their product owner/approver when training is completed.
+4. Activate prod account.
+5. Send prod login instructions.
+
 
 
 ## Prerequisites
@@ -87,34 +91,6 @@ Ideally, the user would have requested their account following the instructions 
 *   Verify VA network access or SOCKS proxy
 *   Verify what training is needed, if any.
 
-### Questions for new user
-
-*   What CMS-managed product will you be working on
-    *   AKA: What VFS Product team are you on 
-    *   AKA: what content do you need to edit ?
-    *   This should tell us who their product owner is, and/or which list of criteria may apply to their getting an account. 
-*   How quickly do you need access?
-*   Do you have a va.gov email address? If yes, that probably means 
-    *   1) you can access the network, 
-    *   2) you are eligible for a prod CMS account for editing content (pending approval from PO)
-    *   If no, 
-        *   Are you a FE developer needing GraphQL access? This makes them eligible for a prod account without a VA.gov email address.  
-        *   Do you actually need edit access to prod? Or do you just need access to a demo environment to understand more about the CMS (this could be true for members of VFS product teams, like product managers). 
-        *   Do you have SOCKS access (so that they can access the network… although they may not know what SOCKS is, and we don’t want to support them with that). 
-
-	
-
-### Questions for Product owners or someone responsible for content/user governance for a product.
-Some of these may already be part of the originating request, but need validation with PO. [The User administration view of the Product airtable](https://airtable.com/tblFDPzooEhiRdJZb/viwOAzxpLOz2hgOj8?blocks=hide ) contains relevant information for each product which may help guide these decisions. 
-
-*   What Sections should the new user have access to? 
-*   What Roles
-    *   Editorial workflow: Should they have Content editor, Content reviewer, or Content publisher? 
-    *   Content creation: What content creator roles should they have (this should be implicit based on the product(s) they are going to be working on)
-    *   Content admin (only in very specific circumstances)
-*   What training is needed? If training criteria for provisioning access is vague, should this be immediate? Pending training? Who is responsible for training the new user?
-
-
 ## Instructions for adding one user at a time
 
 
@@ -128,7 +104,7 @@ Some of these may already be part of the originating request, but need validatio
 6. After **Email address**, enter the user’s VA.gov email address. _Make sure this is the correct address, since if it differs, their PIV login will fail._
 7. After **Username**, enter the user’s VA.gov email address. _See step above._
 8. **Password** process: select a one-time password using three unrelated words, a number, a punctuation character. No one will need to be told this password, and the user will be prompted to create their own password immediately, but it’s good form not to use something that can be guessed in the meantime. 
-9. Leave the **Status** as **Active** unless the account is pending some verification. In that case, click **Blocked**.
+9. Leave the **Status** as **Blocked**.
 10. Check the box next to **Notify user of new account**. This will send the user an email and prompt the user to reset their password.
 11. Leave the box checked next to **Enable this user to leverage SAML authentication**.
 12. Skip **Password Expiration** for now. Currently there is no expiration period.
@@ -139,6 +115,7 @@ Some of these may already be part of the originating request, but need validatio
 17. In the user account line, under the **Sections** column, click **Edit**.
 18. Click the checkbox next to the appropriate section(s).
 19. Click **Save**.
+20. Repeat in training environment if training is required, but leave the status as Active.
 
 OR
 
