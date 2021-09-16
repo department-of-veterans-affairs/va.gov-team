@@ -21,6 +21,15 @@
 
 </details>
 
+## September 17
+
+Archiving facilities
+* what to do about operating status, operating status more info
+
+Broken links in VAMC product
+* #vfs-platform-builds channel
+
+
 ## September 10 
 
 Ongoing editor support processes
