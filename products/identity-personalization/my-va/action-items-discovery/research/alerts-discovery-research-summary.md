@@ -272,7 +272,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Alerts
 
 1. Pick a title. I recommend naming this feature either 'Notifications' or 'Alerts'. We need to align with the similarly titled 'Notification Preferences' feature, as that will be built and launched first.
-2. Define what an 'old' and 'new' (read vs unread) alert is within our technological restraints and determine if it's worth the lift
+2. Define what an 'old' and 'new' (read vs unread) alert is within our technological restraints and determine if it's worth the lift **This feature might NOT be included in MVP**
 3. Explore ways to represent old alerts vs new alerts **This feature might NOT be included in MVP**
 4. Explore ways to add design considerations for each alert section to help with scannability (e.g. health care, claims, covid)
 5. Include the ability to sort alerts by section, date or time-sensitivity **This feature will most likely NOT be included in MVP**
@@ -298,6 +298,10 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Figure out how to incorporate an alerts link into the navigation
    - [ ] Explore ways to show an Alerts link in the navigation
    - [ ] Work with the appropriate parties to get it implemented
+
+### Figure out what alerts should be included based on other initiatives
+   - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
+   - [ ] Outline each initiative and determine technological restraints
 
 ### Old vs. new alert (*might NOT be in MVP)
    - [ ] Determine what it means for an alert to be 'old' vs 'new'.
