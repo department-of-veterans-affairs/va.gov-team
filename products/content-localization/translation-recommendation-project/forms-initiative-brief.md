@@ -6,7 +6,7 @@ We have established an approach for supporting static content pages and as part 
 
 As our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps. 
 
-- Translation Recommendation Product | Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md 
+- Translation Recommendation Product | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md)
 
 ## Problem
 
