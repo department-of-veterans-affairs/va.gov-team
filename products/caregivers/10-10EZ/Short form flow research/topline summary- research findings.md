@@ -8,6 +8,11 @@ Prepared by: Dené Gabaldón, Caregiver Team
 
 [Session Notes]() 
 
+Prototypes:
+- Variation 1: [Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
+- Variation 2: [Self-reported short form](https://preview.uxpin.com/19ee97072a3233029149e8865f986abfda4c1aef#/pages/141488374/simulate/no-panels)
+- Variation 2.2 (updated iteration): [2.2 Self-reported short form](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i)
+
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
 
