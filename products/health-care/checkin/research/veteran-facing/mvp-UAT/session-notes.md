@@ -59,6 +59,7 @@
     - MSA reviews the ICB list at the beginning of the day.
   - Communications with physicians haven’t changed. They use Teams.
 - Main Veteran confusion point: Waiting for the text response with the link. It takes a little bit, so the Veteran thinks that they are already checked in.
+  - Witnessed during most Veteran intercepts as well. 
 - NPS question: Likes tech changes, so she is game for this. Would give it an 8 or 9 - only since this is still new.
 - This mobile check-in process made her more aware of time-stamping demographic updates.
 - Ideally, the triage appointment and pain appointment would be linked, so the Veteran would check in for both at the same time.
