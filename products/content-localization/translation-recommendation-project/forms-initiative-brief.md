@@ -6,7 +6,7 @@ We have established an approach for supporting static content pages and as part 
 
 As our next step, we plan to translate an existing form application and launch to the production environment. This will enable us to test and confirm that our approach is sound in the live environment and begin to establish metrics and customer satisfaction for translated apps. 
 
-- [Translation Recommendation Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md)
+- [Translation Recommendation Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/product-outline-working-drafts/markdown-version.md)
 
 ## Problem
 
@@ -28,10 +28,11 @@ What evidence do we have of the problem?
 How does this initiative help further OCTO-DE's mission and goals?
 
 - VA North Star:
+- 
   - Veteran satisfaction with VA.gov site
   - Veterans and their families can apply for benefits online
   - Drive to self service tools and faster times to outcomes
-  - (** Note: based on form chosn, we hope to be able to get data from the product team on metrics related to the value of providing on-line apps vs paper PDFs/VCO staff (ie: what are the cost savings when using an on-line apps vs pdf forms  - reduced errors? reduced time to process applications/get benefits? higher satisfaction?)**
+  
 
 ## Desired User Outcomes
 Why would a user want to use this?
@@ -82,6 +83,7 @@ With this problem solved, what should users be able to do/achieve that they coul
 -	cost of processing a PDF vs an on-line application
 -	customer satisfaction scores compared to english tool
 
+- (** Note: based on form chosen, we hope to be able to get data from the product team on metrics related to the value of providing on-line apps vs paper PDFs/VCO staff (ie: what are the cost savings when using an on-line apps vs pdf forms  - reduced errors? reduced time to process applications/get benefits? higher satisfaction?)**
 
 ### Key Performance Indicators (KPIs)
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, 
