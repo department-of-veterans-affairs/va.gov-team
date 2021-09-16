@@ -16,7 +16,8 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 ## Onboarding Checklist
 
 - [ ] PM: Attend intro meeting with product support PM
-- [ ] Attend general orientation meeting (contact @ Shira Goodman on Slack to schedule)
+- [ ] Attend General Orientation meeting (contact @ Shira Goodman on Slack to schedule)
+- [ ] Review the [VA.gov Platform - General Orientation](https://docs.google.com/presentation/d/1xZMmHtsa65fJ1nMMfFC2PWFBDhBmBWmx1EqQQlPdsVc/edit?usp=sharing) slide deck 
 - [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 - [ ] Review the [Norms for Using Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-tools.md)
@@ -30,7 +31,6 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Review the [Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809)
 - [ ] Sign up for the [Platform Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/platform-newsletter/README.md)
 - [ ] [Process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
-- [ ] Review the [VFS All Team Orientation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation) slide deck 
 - [ ] Designers: Review [Design & Research Onboarding Documentation](https://design.va.gov/documentation/designers)
 - [ ] Engineers: [Set Up Local Dev Environment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/getting-started.md)
   - [ ] [Set Up Front-end](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)
