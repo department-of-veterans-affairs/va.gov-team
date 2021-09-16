@@ -299,7 +299,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Explore ways to show an Alerts link in the navigation
    - [ ] Work with the appropriate parties to get it implemented
 
-### Figure out what alerts should be included based on other initiatives
+### Figure out what alerts should be included based on other initiatives (and how to include them)
    - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
    - [ ] Outline each initiative and determine technological restraints
 
