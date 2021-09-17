@@ -300,7 +300,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Work with team to figure out what should or should not (or can and cannot) be included in MVP
 
 ### Understand each alert in MVP
-   - [ ] Work with VA.notify and VetText to understand how the current APIs work and if we need to build new ones
+   - [ ] Work with VA.notify and VetText to understand how the current APIs work, how to connect to them and/or if we need to build something new
    - [ ] Work with VA.notify and VetText to understand content of each alert
    - [ ] Outline time-sensitivity/urgency of each alert
 
