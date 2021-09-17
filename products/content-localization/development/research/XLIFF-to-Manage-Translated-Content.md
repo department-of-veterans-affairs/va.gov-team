@@ -1,7 +1,7 @@
 # XLIFF
 
 
-### Drupal Multi-lingual modules are required for setting up translations and exporting XLIFF files.
+### Drupal Translation Management Tools are required to be installed for setting up translations and for exporting XLIFF files.
 
 ![Screen Shot 2021-09-16 at 10 53 05 PM](https://user-images.githubusercontent.com/8332986/133726676-27c3adb5-cfb2-4d41-8509-0c203adbf509.png)
 
