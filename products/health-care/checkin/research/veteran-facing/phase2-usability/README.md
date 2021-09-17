@@ -5,7 +5,7 @@
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/phase2-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/phase2-usability/conversation-guide.md)
 - [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/phase2-usability/session-notes)
-- [Synthesis document]()
+- [Synthesis document](https://app.mural.co/t/vsa8243/m/vsa8243/1629923298341/3f6e350a2b322a4c77a92b30ae0dac25e42439d5?sender=uc940f53ad96ac0203d6d3631)
 - [Research report]()
 - [Participants](#participants)
 
