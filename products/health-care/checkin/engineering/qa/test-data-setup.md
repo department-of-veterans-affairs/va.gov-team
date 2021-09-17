@@ -104,7 +104,13 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 140 | Thirtytwo, Patient | Nira |
 | 442 | Thirtythree, Patient | Paras |
 | 267 | Thirtyfour, Patient | Ya-ching |
-
+| 217 | Nine,Patient | Charley |
+| 240 | Thirtyfive,Patient | Michael K |
+| 260 | Thirtysix,Patient | Patrick (OVAC) |
+| 218 | Thirtyseven,Patient | Patrick (OVAC) | 
+| 151 | Thirtyeight,Patient | Patrick (OVAC) |
+| 347 | Thirtynine,Patient | Patrick (OVAC) |
+| 520 | Forty,Patient | Patrick (OVAC) | 
 #
 <a name="endpoints-section"></a>
 # Endpoints
