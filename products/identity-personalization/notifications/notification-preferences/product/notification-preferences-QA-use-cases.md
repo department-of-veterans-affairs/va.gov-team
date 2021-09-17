@@ -9,7 +9,6 @@ Link to product outline: [Notification Preferences product outline](https://gith
 - [Use Case A: LOA1 unverified identity](#use-case-a-loa1-unverified-identity) 
 - [Use Case B: Not enrolled in health care](#use-case-b-not-enrolled-in-health-care)
 - [Use Case C: Health care with Rx tracking](#use-case-c-health-care-with-rx-tracking) 
-- [Use Case C2: Health care with Rx tracking and other facilities](#use-case-c2-health-care-with-rx-tracking-and-other-facilities)
 - [Use Case D: No Rx tracking](#use-case-d-no-rx-tracking)
 - [Use Case E: Missing mobile phone](#use-case-e-missing-mobile-phone)  
 - [Use Case F: Adding mobile phone](#use-case-f-adding-mobile-phone)  
@@ -58,23 +57,6 @@ Link to product outline: [Notification Preferences product outline](https://gith
   2. Navigate to Profile > Notification settings page
   3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. 
   4. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
-
-
-## Use Case C2: Health care with Rx tracking and other facilities
-
-* **Description**
-  - User is enrolled in health care at a participating prescription shipment tracking facility AND at least one other health care facility that does NOT participate in prescription shipment tracking.
-
-* **Link to designs**
-  - Mockup TK
-
-* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user TK (creds TK) 
-  2. Navigate to Profile > Notification settings page
-  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. 
-  4. Immediately above the Rx tracking notification item, they see hint text indicating that not all facilities offer this feature and that they should check with their pharmacy to find out if it's available. 
-  5. They also see the Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
-
 
 ## Use Case D: No Rx tracking
 
