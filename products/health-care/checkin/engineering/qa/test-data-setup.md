@@ -11,7 +11,9 @@
         3. [Delete Appointment](#deleteappointment)
         4. [Checkin to Appointment](#checkinappointment)
         5. [Find Appointment Slots](#appointmentslots)
-    2. [Patients](#patients) 
+    2. [Test Patient Management](#patients)
+        1. [Get Patient Demographics](#getPatient)
+        2. [Update Phone Number](#putPatient)
 
 # Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
@@ -335,12 +337,45 @@ curl --request GET \
 ```
 <a name="patients"></a>
 ## Patients Endpoint
-
-This endpoint provides a PUT action to allow a tester to update the phone number associated with their assigned test patient. This endpoint will update both the VistA Patient record and the vetext database used to receive SMS messages for Check In Experience. The primary use case for this is to allow testing teams to share a VistA test user by modifying the phone number to be that of the current tester, such that the SMS workflow will work from that testers mobile phone.
+This RESTful endpoint provides `GET` and `PUT` actions on Patients in the test VistA.
 
 `https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/patients`
 
-### Parameters as Example
+<a name="getPatient"></a>
+## `GET` - Get all demographics data for a specific test user
+This endpoint provides a GET action to fetch all demographics information associated with this test VistA user
+
+### Parameters as Example 
+
+```json
+{
+  "body": {
+    "patientDfn": "<DFN>",
+  }
+}
+```
+
+### curl Statement
+
+```bash
+curl --request GET \
+  --url https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/patients \
+  --header 'Content-Type: application/json' \
+  --header 'x-api-key: <API KEY>' \
+  --header 'x-apigw-api-id: ij4ry1zth2' \
+  --data '{
+    "body": {
+    "patientDfn": "<DFN>"
+  }
+}'
+```
+
+<a name="putPatient"></a>
+## `PUT` - Update only the phone number for a specific test user
+
+This endpoint provides a PUT action to allow a tester to update the phone number associated with their assigned test patient. This endpoint will update both the VistA Patient record and the vetext database used to receive SMS messages for Check In Experience. The primary use case for this is to allow testing teams to share a VistA test user by modifying the phone number to be that of the current tester, such that the SMS workflow will work from that testers mobile phone.
+
+### Parameters as Example 
 
 ```json
 {
@@ -366,5 +401,4 @@ curl --request PUT \
   }
 }'
 ```
-
 
