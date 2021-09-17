@@ -80,34 +80,29 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 ### Assigned DFNs
 You will be assigned a specific test user in VistA that will have an identifier associated with it referred to as the `DFN`, or Data File Number. The `DFN` will be used when making calls to many of the endpoints. The `DFN` represents the Internal Entry Number (`IEN`) of the VistA record associated with this test Patient. For our use, `patientDfn` and `patientIen` can be used interchangeably. 
 
-Formatted as `"patientDFN": "Name (Assigned To)"`
-
-ToDo: format this as a table
-```json
-{
-  "237": "One,Patient (Shane)",
-  "205": "Two,Patient (Rob) ",
-  "25": "Three,Patient (Paras)",
-  "229": "Four,Patient (Andy)",
-  "231": "Five,Patient (Justin)",
-  "418": "Six,Patient (Kevin)",
-  "253": "Seven,Patient (Carl)",
-  "3": "Eight,Patient (Stephen)",
-  "8": "Ten,Patient (QA Team)",
-  "224": "Eleven,Patient (Patrick)",
-  "204": "Twelve,Patient (Mark)",
-  "228": "Thirteen,Patient (Dillo)",
-  "271": "Fourteen,Patient (Kristen)",
-  "723": "Twentysix,Patient (Adrian)",
-  "366": "Twentyeight,Patient (Dan)",
-  "350": "Twentynine,Patient (Gaurav)",
-  "391": "Thirty,Patient (Julie)",
-  "384": "Thirtyone,Patient (Kanchana)",
-  "140": "Thirtytwo,Patient (Nira)",
-  "442": "Thirtythree,Patient (Paras)",
-  "267": "Thirtyfour,Patient (Ya-ching)"
-}
-```
+| `patientDFN`  | Name | Assigned To |
+| --- | ------------ | ----- |
+| 237 | One, Patient | Shane |
+| 205 | Two, Patient | Rob  |
+| 25  | Three, Patient | Paras |
+| 229 | Four, Patient | Andy |
+| 231 | Five, Patient | Justin |
+| 418 | Six, Patient | Kevin |
+| 253 | Seven, Patient | Carl |
+| 3   | Eight, Patient | Stephen |
+| 8   | Ten, Patient | QA Team |
+| 224 | Eleven, Patient | Patrick |
+| 204 | Twelve, Patient | Mark |
+| 228 | Thirteen, Patient | Dillo |
+| 271 | Fourteen, Patient | Kristen |
+| 723 | Twentysix, Patient | Adrian |
+| 366 | Twentyeight, Patient | Dan |
+| 350 | Twentynine, Patient | Gaurav |
+| 391 | Thirty, Patient | Julie |
+| 384 | Thirtyone, Patient | Kanchana |
+| 140 | Thirtytwo, Patient | Nira |
+| 442 | Thirtythree, Patient | Paras |
+| 267 | Thirtyfour, Patient | Ya-ching |
 
 #
 <a name="endpoints-section"></a>
