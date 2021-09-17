@@ -20,6 +20,7 @@
 <details><summary>Parking lot</summary>
 
 </details>
+
 ## September 24
 
 
