@@ -32,8 +32,9 @@ Lovell Federal Health Care
 
 Broken links in VAMC product
 * #vfs-platform-builds channel
-* Common broken links recently: Facility closures/archiving, Unpublished parents for detail pages, Policies pages, Dual state launches.  
+* Common broken links recently: Facility closures/archiving, Unpublished parents for detail pages, Policies pages, Dual state launches. 
 * Resolution time
+* Tier 2 and CMS help desk
 
 ## September 10 
 
