@@ -14,4 +14,5 @@ jobs:
           days-before-close: 7
           days-before-pr-close: -1
           only-labels: 'ops-access-requests'
+          operations-per-run: 100
           debug-only: true
