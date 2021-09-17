@@ -15,7 +15,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
    </td>
   </tr>
   <tr>
-   <td colspan="6" >Every Veteran can easily manage all their VA health and benefits services through their digital channel of choice
+   <td colspan="6" >Every Veteran can easily manage their key VA health and benefits services through their digital channel of choice
    </td>
   </tr>
   <tr>
