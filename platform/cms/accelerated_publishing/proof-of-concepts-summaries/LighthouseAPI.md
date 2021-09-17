@@ -61,3 +61,11 @@ High level: https://developer.va.gov/api-publishing
 
 1. Create/Update [OpenAPI sec](https://developer.va.gov/api-publishing/expectations)
 2. Submit to Lighthosue team
+
+### Notes about the API creation process
+
+* Conversation regarind OpenAPI usage in Lighthouse: https://dsva.slack.com/archives/C021UM3QTCY/p1631539815009500
+  * OpenAPI spec is delivered to the Lighthosue team for uploading.  There is not a self servcie.
+  * Weekly updates to the Spec is to often.
+  * Lighthouse does not validate the request based upon the OpenAPI spec.
+  * We can have a "undocumented API" until we can get the spec published.  This will probably be ok as we can time the API with public release of the front end apps.
