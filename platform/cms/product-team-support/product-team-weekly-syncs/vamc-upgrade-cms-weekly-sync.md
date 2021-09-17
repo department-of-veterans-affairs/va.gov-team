@@ -20,21 +20,47 @@
 <details><summary>Parking lot</summary>
 
 </details>
+## September 24
+
+
 
 ## September 17
 
 Archiving facilities
-* what to do about operating status, operating status more info
+* CMS issue 5248 will remove the ability for PAOs to archive
+* When the facility is still in VAST, PAO can set the facility to closed and put more info
+* As long as its in VAST, we will have a published facility node for it, because it's in Facility API
+* Once VAST has removed it, PAOs will get a support ticket in for next steps. 
 * What about Mobile, Domicilary, and CLC
+  * VAMC upgrade team is archiving all of them.
+* Stan sent Stef and Jane the slides from yesterday's presentation to PAOs yesterday.  
 
-Lovell Federal Health Care
+Facility health service
+* Reminders going out next week from VHA in PAO newsletter about how to maintain facility health services. 
+* Reminder will go out in October. These may cause spikes in help desk. 
+* Newsletter explains the value of it to lighthouse, google search, etc.
+* Deadline will be set for updating facility health services, then CMS team will start pushing to Lighthouse. 
+* CMS issue to audit VAMC facilities have, or are missing Service Location data. In the future, this report will be used to check when data was last updated.
+
+"VA Lovell FHCC health care" will become "Lovell Federal health care"
+* CMS issues 
   * System Name change and update to System Page
+  * Update menu name (maybe make a new one?)
+  * FE issue (CMS can handle it) to update string in sidebar nav
+  * Migration - Stan to determine if these will be manually input, or if a new migration issue is needed. 
+* Content entry and dual state is blocked until these are done.
 
-Broken links in VAMC product
+Process for triaging broken links in VAMC product, **for the next month**
 * #vfs-platform-builds channel
-* Common broken links recently: Facility closures/archiving, Unpublished parents for detail pages, Policies pages, Dual state launches. 
+* Common broken links recently: 
+  * Facility closures/archiving
+  * Unpublished parents for detail pages
+  * Policies pages
+  * Dual state launches
+  * Editor-introduced issues (bad link in an Operating Status banner) 
 * Resolution time
-* Tier 2 and CMS help desk
+* CMS help desk and Tier 2 will cc Stan and Lisa on the slack thread. If VAMC upgrade team is blocked on resolution, CMS team will work to resolve. 
+
 
 ## September 10 
 
