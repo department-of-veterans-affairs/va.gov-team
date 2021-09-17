@@ -40,15 +40,14 @@ Execute the POST to the `/appointments` endpoint described above to create a new
 
 - **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into
 
+## Send Text
 Once the appointment has been scheduled, send a text message to initiate the Check In Experience workflow.
 
-- **Note**: Currently the time window that an appointment can be checked in to is 30 minutes prior to and 10 minutes past the appointment start time.
-
-## Send Text
+- **Note**: Currently the time window that an appointment can be checked in to is 30 minutes prior to and 5 minutes past the appointment start time.
 
 - **Note**: The text message must come from the phone number associated with the test Patient.
 
-Once an appointment has been created, send `check in` as a text message to `254.278.2622`. An SMS similar to this will be returned:
+Once an appointment has been created, send `check in` as a text message to `254-278-2622`. An SMS similar to this will be returned:
 
 ```
 Check in for your VA appointment at https://go.usa.gov/xyz123
@@ -57,6 +56,8 @@ Check in for your VA appointment at https://go.usa.gov/xyz123
 ## Access Check In Experience va.gov Workflow
 
 Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
+
+- **Note**: You will need the test Patient's last name and the last four digits of their social security number to complete the workflow.  These can be retrieved by using the `/patients` GET request to view the demographic data associted with the test patient. 
 
 <a name="vista-configuration-data-section"></a>
 # VistA Configuration Data
