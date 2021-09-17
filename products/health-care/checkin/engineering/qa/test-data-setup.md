@@ -64,19 +64,17 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 
 ### Available Clinics
 
-- formatted as `clinicIen: clinicName`
+| clinicIen | clinicName | Usual Availability (ET) | 
+| --- | ---------------- | ------ |
+| 64 | Audiology | M-F 7AM - 230PM |
+| 195 | Cardiology | M-F 7AM - 230PM |
+| 62 | Dermatology | None |
+| 23 | General Medicine | M-F 7AM - 245PM |
+| 427 | Opthamology | None |
+| 429 | Pulmonary | M-F 12PM - 8PM |
+| 430 | Sleep Lab | M-F 4PM - 11PM |
+| 431 | Nurse Triage | M-F 8AM - 345PM |
 
-```json
-{
-  "64": "Audiology",
-  "195": "Cardiology",
-  "62": "Dermatology",
-  "23": "General Medicine",
-  "427": "Opthamology",
-  "429": "Pulmonary",
-  "430": "Sleep Lab"
-}
-```
 
 ### Assigned DFNs
 You will be assigned a specific test user in VistA that will have an identifier associated with it referred to as the `DFN`, or Data File Number. The `DFN` will be used when making calls to many of the endpoints. The `DFN` represents the Internal Entry Number (`IEN`) of the VistA record associated with this test Patient. For our use, `patientDfn` and `patientIen` can be used interchangeably. 
