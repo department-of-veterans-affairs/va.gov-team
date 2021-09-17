@@ -4,7 +4,7 @@
 3. For each new account, enter a separate line and add a comma as a column separator.
 4. For the username, enter the VA email.
 5. For the roles, enter the machine name of the role. For multiple roles, separate them with a comma and put quotes at the beginning and end of that field.
-6. For the sections, enter the complete section name. For multiple sections, separate them with a comma and put quotes at the beginning and end of that field.ions
+6. For the sections, enter the complete section name. For multiple sections, separate them with a comma and put quotes at the beginning and end of that field.
 7. Go to the next line and repeat with each new account.
 8. Save the file as a .csv
 9. Open the prod environment.
