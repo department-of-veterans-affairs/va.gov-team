@@ -25,7 +25,9 @@
 
 Archiving facilities
 * what to do about operating status, operating status more info
-
+* What about Mobile, Domicilary, and CLC
+Lovel Federal Health Care
+  * System Name change and update to System Page
 Broken links in VAMC product
 * #vfs-platform-builds channel
 
