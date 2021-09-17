@@ -28,7 +28,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 
 * **Instructions to access in Staging** 
   1. Log in to staging using any LOA1 test user credentials
-  2. Navigate to Profile > Notification settings page
+  2. Navigate to Profile
   3. See warning message at the top of the page stating your profile information can't be loaded, and a prompt to verify your identity
 
 ## Use Case B: Not enrolled in health care
