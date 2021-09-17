@@ -56,7 +56,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user TK (creds TK)
   2. Navigate to Profile > Notification settings page
-  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. Immediately above the Rx tracking notification item, they see hint text indicating that not all facilities offer this feature and that they should check with their pharmacy to find out if it's available. They also see the Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
+  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
 
 ## Use Case C2: Health care with Rx tracking and other facilities
@@ -70,7 +70,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user 36 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
-  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
+  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. Immediately above the Rx tracking notification item, they see hint text indicating that not all facilities offer this feature and that they should check with their pharmacy to find out if it's available. They also see the Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
 
 ## Use Case D: No Rx tracking
