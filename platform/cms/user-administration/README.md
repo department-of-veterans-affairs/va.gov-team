@@ -1,5 +1,5 @@
-# How to create a new CMS user account in prod 
-*For CMS team user admins only*
+# How to create a new Drupal CMS account
+*For Drupal account admins only*
 
 ## General process
 1. **Receive** new account request
