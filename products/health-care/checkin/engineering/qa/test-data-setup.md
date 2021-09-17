@@ -69,7 +69,7 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 | 64 | Audiology | M-F 7AM - 230PM |
 | 195 | Cardiology | M-F 7AM - 230PM |
 | 62 | Dermatology | None |
-| 23 | General Medicine | M-F 7AM - 245PM |
+| 23 | General Medicine | M-Th 7AM - 245PM, F 7AM - 1145AM |
 | 427 | Opthamology | None |
 | 429 | Pulmonary | M-F 12PM - 8PM |
 | 430 | Sleep Lab | M-F 4PM - 11PM |
