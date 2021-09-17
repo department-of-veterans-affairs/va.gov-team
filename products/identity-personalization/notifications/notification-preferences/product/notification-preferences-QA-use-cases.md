@@ -48,29 +48,32 @@ Link to product outline: [Notification Preferences product outline](https://gith
 ## Use Case C: Health care with Rx tracking
 
 * **Description**
+  - User is enrolled in health care at a participating prescription shipment tracking facility 
+
+* **Link to designs**
+  - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756016/simulate/sitemap?mode=i) 
+
+* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
+  1. Log in to staging using test user 36 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+  2. Navigate to Profile > Notification settings page
+  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. 
+  4. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
+
+
+## Use Case C2: Health care with Rx tracking and other facilities
+
+* **Description**
   - User is enrolled in health care at a participating prescription shipment tracking facility AND at least one other health care facility that does NOT participate in prescription shipment tracking.
 
 * **Link to designs**
   - Mockup TK
 
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user TK (creds TK)
+  1. Log in to staging using test user TK (creds TK) 
   2. Navigate to Profile > Notification settings page
-  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
-
-
-## Use Case C2: Health care with Rx tracking and other facilities
-
-* **Description**
-  - User is enrolled in health care at a participating prescription shipment tracking facility
-
-* **Link to designs**
-  - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141756016/simulate/sitemap?mode=i)
-
-* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user 36 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-  2. Navigate to Profile > Notification settings page
-  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. Immediately above the Rx tracking notification item, they see hint text indicating that not all facilities offer this feature and that they should check with their pharmacy to find out if it's available. They also see the Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
+  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. 
+  4. Immediately above the Rx tracking notification item, they see hint text indicating that not all facilities offer this feature and that they should check with their pharmacy to find out if it's available. 
+  5. They also see the Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
 
 
 ## Use Case D: No Rx tracking
