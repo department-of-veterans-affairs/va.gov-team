@@ -47,7 +47,7 @@ As a part of the collaboration cycle, VFS teams must do [foundational accessibil
 * [Accessibility Best Practices:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) Learn about what areas of your product will be evaluated for accessibility and inclusivity.
 * [Accessible Links and Buttons Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/research/links-and-buttons.md)
 * [Screen Reader Fieldset Plus Legend Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/research/screenreader-fieldset-legend-label.md)
-* [Examples of Assistive Tech](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
+* [Examples of Assistive Tech](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/screenreaders.md)
 * [Inclusive Design Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research/readMe.md)
 * [Collaboration cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md)
   * [Staging Review Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
