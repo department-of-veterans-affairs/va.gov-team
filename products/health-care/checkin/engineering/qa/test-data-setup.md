@@ -74,8 +74,9 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 ```
 
 ### Assigned DFNs
+You will be assigned a specific test user in VistA that will have an identifier associated with it referred to as the `DFN`, or Data File Number. The `DFN` will be used when making calls to many of the endpoints. The `DFN` represents the Internal Entry Number (`IEN`) of the VistA record associated with this test Patient. For our use, `patientDfn` and `patientIen` can be used interchangeably. 
 
-Formatted as `"patientIcn": "Name (Assigned To)"`
+Formatted as `"patientDFN": "Name (Assigned To)"`
 
 ```json
 {
@@ -93,6 +94,7 @@ Formatted as `"patientIcn": "Name (Assigned To)"`
   "204": "Twelve,Patient (Mark)",
   "228": "Thirteen,Patient (Dillo)",
   "271": "Fourteen,Patient (Kristen)"
+  
 }
 ```
 
@@ -158,7 +160,7 @@ curl --request POST \
 
 ### Success
 
-- 200 OK - `Appointment Created at 2021-07-27 18:00 in Sleep Lab (430)`
+- 200 OK - `Appointment Created at 2021-07-22 12:00 in Cardiology (195)`
 
 ### Failure
 
