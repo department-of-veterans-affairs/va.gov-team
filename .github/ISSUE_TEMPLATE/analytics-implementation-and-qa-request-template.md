@@ -71,15 +71,9 @@ assignees: joanneesteban
 > Please leave the following blank
 
 ## Acceptance criteria
-- [ ] [All items of checklist have been executed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/customer-support-guide-v2.md#%EF%B8%8F-checklist-before-closing-any-ticket)
+- [ ] All appropriate issue tagging is completed
 - [ ] QA has been completed
 - [ ] Events have been added to `Product` and `Benefit Hub` Content Groups
-
-
-## Definition of done
-- [ ] All appropriate issue tagging is completed
-- [ ] All AC completed
-- [ ] Platform: [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) is updated
 
 ## Additional information
 
