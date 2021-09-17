@@ -1,11 +1,11 @@
 # Check In Experience Test Data Setup
 
 # Sections
-1. [Overview](#overview)
-2. [End to End Testing Workflow](#end-to-end-testing-workflow)
-3. [VistA Configuration Data](#vista-configuration-data)
-4. [Endpoints](#endpoints)
-    1. [Appointments](#appointments-endpoint)
+1. [Overview](#overview-section)
+2. [End to End Testing Workflow](#end-to-end-testing-workflow-section)
+3. [VistA Configuration Data](#vista-configuration-data-section)
+4. [Endpoints](#endpoints-section)
+    1. [Appointments](#appointments-endpoint-section)
         1. [Make Appointment](#makeappointment)
         2. [Get Appointments](#getappointments)
         3. [Delete Appointment](#deleteappointment)
@@ -14,7 +14,9 @@
     2. [Test Patient Management](#patients)
         1. [Get Patient Demographics](#getPatient)
         2. [Update Phone Number](#putPatient)
-
+<a name=""></a>
+<a name=""></a>
+<a name="overview-section"></a>
 # Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
 
@@ -26,6 +28,7 @@ Endpoints are available to allow test users to view thier existing appointments,
 
 These endpoints require entering the patientDfn (this is the patient Identifier in a VistA system) and ClinicIen (this is the clinic identifier in a VistA system). The patientDFN and clinicIen values configured in the test VistA syteme are noted below.
 
+<a name="end-to-end-testing-workflow-section"></a>
 # End to End Testing Workflow
 
 ## Assign Phone Number
@@ -55,6 +58,7 @@ Check in for your VA appointment at https://go.usa.gov/xyz123
 
 Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
 
+<a name="vista-configuration-data-section"></a>
 # VistA Configuration Data
 
 ### Available Clinics
@@ -78,6 +82,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 
 Formatted as `"patientDFN": "Name (Assigned To)"`
 
+ToDo: format this as a table
 ```json
 {
   "237": "One,Patient (Shane)",
@@ -88,24 +93,31 @@ Formatted as `"patientDFN": "Name (Assigned To)"`
   "418": "Six,Patient (Kevin)",
   "253": "Seven,Patient (Carl)",
   "3": "Eight,Patient (Stephen)",
-  "217": "Nine,Patient (Kennon)",
   "8": "Ten,Patient (QA Team)",
   "224": "Eleven,Patient (Patrick)",
   "204": "Twelve,Patient (Mark)",
   "228": "Thirteen,Patient (Dillo)",
-  "271": "Fourteen,Patient (Kristen)"
-  
+  "271": "Fourteen,Patient (Kristen)",
+  "723": "Twentysix,Patient (Adrian)",
+  "366": "Twentyeight,Patient (Dan)",
+  "350": "Twentynine,Patient (Gaurav)",
+  "391": "Thirty,Patient (Julie)",
+  "384": "Thirtyone,Patient (Kanchana)",
+  "140": "Thirtytwo,Patient (Nira)",
+  "442": "Thirtythree,Patient (Paras)",
+  "267": "Thirtyfour,Patient (Ya-ching)"
 }
 ```
 
 #
-
+<a name="endpoints-section"></a>
 # Endpoints
 
 **Note**: All endpoints must be executed from within the VA Network
 
 Replace all `<EXAMPLE>` values in smaple code with real values prior to executing.
 
+<a name="appointments-endpoint-section"></a>
 ## Appointments Endpoint
 
 This RESTful endpoint provides `GET`, `POST` and `DELETE` actions on appointments in the test VistA.
