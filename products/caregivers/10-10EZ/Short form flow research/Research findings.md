@@ -19,15 +19,10 @@ As a secondary goal, we will also take special note of any participant feedback 
 
 **Task analysis**
 
-A task-based usability study will be conducted remotely with Zoom using the Perigean contract. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/conversation-guide.md)). Participants will be shown one of three flows:
+We conducted 1 pilot + 14 participant remote task-based usability studies remotely, with Zoom, using the Perigean contract. Each moderated session was approximately 45 minutes long, in which we asked participants to talk about their health care application experience and fill out one of our 10-10EZ short form flows. The moderator began with introduction questions and prompted participants with guiding questions (from the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/conversation-guide.md)). Participants were shown one of three UXPin prototyped flows:
 1. Short form based on pre-populated disability rating of 50% or higher at application start [V1 Prototype-Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
 2. Short form based on self-reported disability rating of 50% or higher on VA compensation question [V2.1 Prototype Self-reported short form](https://preview.uxpin.com/19ee97072a3233029149e8865f986abfda4c1aef#/pages/141488374/simulate/no-panels)
 3. Short form based on self-report of not having a disability rating of 50% or higher on VA compensation question [V2.2 Prototype Self-reported short form](https://preview.uxpin.com/2a1ce93f62d447e101cfce3c803d20941fba7203#/pages/141808810/simulate/no-panels?mode=i)
-
-
-Participants will be encouraged to talk through their exploration of the prototype. Remote observers and note takers will be in attendance.
-
-We will be testing with a clickable UXPin prototype.
   	
 
 ### Who we talked to (including pilot participant)
@@ -105,13 +100,30 @@ The research questions we sought to address:
 ## Key Findings
 
 **General**
-1. P
+1. Participants are able to navigate through the pre-populated short form easily and without confusion
+2. Participants are able to able to navigate through the short form based on self-reported information easily and without confusion
+3. Participants feel that these flows are much quicker and easier than they expected
+4. On the review page some participants were confused or had questions as to why they had not been asked for some of the documents listed on the Introduction "Gather your information" section, and some felt that they would have spent unnecessary time looking for those documents before starting
+5. Participants moved through the confirmation step (show in V2.1 & V2.2 only) without question or confusion
 
 
-**Specific sections**
-1. Pa
+**Specific to Version 2.1**
+1. Some participants were confused about the steps numbers and why the number changed upon entering into the short form
+2. Only about half of participants interacted with the "Green accordion alert," and this resulted in some uncertainty as to what information was skipped
 
+**Specific to Version 2.2**
+1. The majority of participants felt like the alert set proper expectations
 
+**Introduction and general application questions (not specifically related to the short form experience)- things that are working well**
+1. The updated Introduction page prepared participants with what documents they will need during the application process well
+2. Many participants expressed that they liked the “Need Help?” section was at the bottom of each page, and some said that they would utilize it
+
+**Introduction and general application questions (not specifically related to the short form experience)- things that could use improvement
+1. Some participants find the repeated Introduction (upon sign in) redundant and/or confusing
+2. More than half of variation 2.1 and 2.2 participants had confusion around the "current compensation” question
+3. The Insurance information "Other coverage" question caused uncertainty for many participants, especially for those who have Tricare (through military retirement)
+4. The majority of participants thought that they would receive a confirmation of application submission by email
+5. Some participants think that since the form is digital and that they qualify for the short form that they will be enrolled upon submission of the application
 
 ## Key Findings - General
 
