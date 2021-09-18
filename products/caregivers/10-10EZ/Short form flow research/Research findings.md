@@ -147,9 +147,9 @@ The research questions we sought to address:
 
 > "It was super fast and super easy. I thought I would need to track down all that, [documents] but since I had a login and had a service connected disability it filled it out for me and I didn’t need that."
 
-_Was there anything that stood out to you?_ “Just the ease of use, I did not expect it to be that fast."
+> _Was there anything that stood out to you?_ “Just the ease of use, I did not expect it to be that fast."
 
-_Tell me about this experience in your own words, as if I was another Veteran interested in applying for health care._ “I would recommend it because of how easy it was for me. even if I didn’t have the application filled out (referring to short form) I still feel like it would be easy. There’s guided step-by-step instructions.”
+> _Tell me about this experience in your own words, as if I was another Veteran interested in applying for health care._ “I would recommend it because of how easy it was for me. even if I didn’t have the application filled out (referring to short form) I still feel like it would be easy. There’s guided step-by-step instructions.”
 
 
 ### On the review page some participants were confused or had questions as to why they had not been asked for some of the documents listed on the Introduction "Gather your information" section, and some felt that they would have spent unnecessary time looking for those documents before starting
