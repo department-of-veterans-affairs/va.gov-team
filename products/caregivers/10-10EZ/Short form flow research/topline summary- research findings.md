@@ -61,6 +61,14 @@ Additionally, the updated Introduction page showed significant read-through comp
 
 > “The only expectation was that it was reduced from what others were doing so it is easier to process if over 50 percent. It was done quicker. So I went from 6 to 4 steps. It makes sense to me.”
 
+**Participants moved through the confirmation step without question or confusion**
+
+- Almost all of the participants moved through this confirmation step without even noting it. A few participants interacted with the more information component and one participant noted that this step seemed different, and was a little uncertain why they were asked to confirm, but once they moved to the next step and saw that they were in the short form, then they understood.
+
+<img width="661" alt="Screen Shot 2021-09-17 at 11 14 47 PM" src="https://user-images.githubusercontent.com/80857940/133870701-a526e27c-4729-4721-bc22-24ea0b9f01de.png">
+
+> "This page changed, it's like stepping out of the process...oh I see why you didn't say it was because of the short form before...In case someone put 50% on accident, you don't want them to see there is a short form.”
+
 **Some participants were confused about the steps numbers and why the number changed upon entering into the short form**
 - With this version many participants noticed that the steps changed from “Step 2 of 6” to “Step 3 of 4.” They all assumed this was due to the short form, but were not exactly sure. Many also expressed that the steps were unclear because there were so many questions on step 1 and only one question in step 2.
 > "This page changed, it's like stepping out of the process. Okay then wow we ended up on step three. Well I guess it found that because I have a higher disability it didn’t need to go to step 2."
@@ -69,7 +77,11 @@ Additionally, the updated Introduction page showed significant read-through comp
 
  
 **Only about half of participants interacted with the "Green accordion alert," and this resulted in some uncertainty as to what information was skipped**
+
 - Because participants that are shown this variation only have 1-2 questions remaining in the application after being put on the short form track, they have very little time to interact with the green accordion alert before finishing the application. About half of the participants did not notice it and/or did not interact with it.
+
+<img width="685" alt="Screen Shot 2021-09-17 at 11 04 21 PM" src="https://user-images.githubusercontent.com/80857940/133870395-ee8d39fc-ed1e-471a-853a-c3dbb94a1606.png">
+
 > “I didn’t notice [that the alert is clickable] until you pointed it out.”
 
 > On the review page "I would really expect it to show something like a block that states I have a disability rating of 50 percent or higher. I would expect to see it here since I put that in."
@@ -79,6 +91,9 @@ Additionally, the updated Introduction page showed significant read-through comp
 
 ## Variation 2.2: Applying to health care benefits, 50% or higher disability rating is known at self-report at VA compensation question - updated alert design and messaging
 We updated version 2.1 with a second iteration of the alert design. This design did not require participant interaction, and showed increased awareness of the short form and the sections that would be skipped.
+
+
+<img width="843" alt="Screen Shot 2021-09-17 at 11 03 24 PM" src="https://user-images.githubusercontent.com/80857940/133870376-a22a0b84-c042-4c3d-9167-89a370cd700a.png">
 
 **The majority of participants felt like the alert set proper expectations**
 - All participants saw the alert, and felt positively upon seeing that they were on step 3 of 4. They expected that the remaining questions would simply be questions that the VA needs to confirm with them or that were not already on their record.
@@ -115,13 +130,22 @@ We updated version 2.1 with a second iteration of the alert design. This design 
  
 ## Introduction and general application questions (not specifically related to the short form experience)- things that could use improvement
 **More than half of variation 2.1 and 2.2 participants had confusion around the "current compensation” question**
+
 - Many participants thought that they receive both service-connected pay for a 50% or higher disability rating and VA pension, thus were confused which one to choose. All who felt this confusion did select the 50% or higher disability rating, but thought this should allow for a multi-checkbox. Many participants thought that the VA pension is for people who retired from the VA. Some participants wondered why they couldn't just disclose their disability rating itself. One participant suggested that there should be a link to check their disability rating if they didn’t know it.
+
+<img width="495" alt="Screen Shot 2021-09-17 at 11 15 35 PM" src="https://user-images.githubusercontent.com/80857940/133870734-0ae7e1e7-91ad-48cd-9849-74768ead9df6.png">
+
 > "Maybe I don’t think I understand. If anyone is over 50%, you are getting a check, so if I click this (pointing to receives pay for a disability 50% or higher) aren’t I also this (pointing to VA pension).” What would you do? “Choose over 50, maybe VA pension is for if you worked for the VA. I see where it's different. I realize my thought was wrong. Maybe this VA pension could say this does not include service disability. Just this one needs clarification."
 
 > "Okay what type of compensation do you currently receive...That is confusing because I am 100%,  but do I click on the pension or 50% or higher?” What would you do? “I would put my rating. I think that could use more clarification.” How do you see them differently? “I have a rating but I also get a VA pension so it’s like ‘okay’ which one do I need to put?”
 
 **The Insurance information "Other coverage" question caused uncertainty for many participants, especially for those who have Tricare (through military retirement)**
+
 - Although none of the participants thought this question would stop them from submitting the form, it caused a lot of confusion that could lead to inaccurate input. The main confusion was in the policy number and group number fields. The majority of participants that had Tricare expressed that they thought that they would use their Social Security number for this, but were uncertain. Additionally, many participants did not read the part of the label that specifies that only the policy number or the group code is required. Some said they would just make one up, others said that they might contact the VA for help. One participant said that they would just say that they did not have other coverage because they wouldn't want the VA to give them less coverage.
+
+<img width="423" alt="Screen Shot 2021-09-17 at 11 17 03 PM" src="https://user-images.githubusercontent.com/80857940/133870748-a8f15098-0601-466a-822a-187ba09ba8e7.png">
+
+
 > (Participant has Tricare) "Group code: This was always just social. I wouldn't have any idea what to put for the group, there was no group number."
 
 > "I can tell you for Tricare there is no group number and it is a required field.” What would you do? “I would put in none and see how they take it. For Tricare, and you’ll have a lot of them with Tricare for life or prime, all you have is the one number that is on your ID card.  You might want to consider a tick mark for Tricare or Medicare instead of the name of the provider."
