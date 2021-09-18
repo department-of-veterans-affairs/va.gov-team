@@ -1,4 +1,4 @@
-# [DRAFT] Usability research of shortened form based on disability rating, Health Care application 10-10EZ - Topline Summary
+# Usability research of shortened form based on disability rating, Health Care application 10-10EZ - Topline Summary
 
 Prepared by: Dené Gabaldón, Caregiver Team
 
@@ -6,7 +6,7 @@ Prepared by: Dené Gabaldón, Caregiver Team
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/conversation-guide.md) 
 
-[Session Notes]() 
+[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/Session%20notes) 
 
 Prototypes:
 - Variation 1: [Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
