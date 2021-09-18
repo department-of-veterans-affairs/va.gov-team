@@ -119,6 +119,8 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 
 > "At the bottom it said if I had issues there was a number to call for help. That was helpful."
 
+ 
+## Introduction and general application questions (not specifically related to the short form experience)- things that could use improvement
 
 **Some participants find the repeated Introduction (upon sign in) redundant and/or confusing**
 - Some participants were confused as to why they were being shown the same page after signing in. Some participants expressed that they felt that they had made a mistake. The participants that expressed this confusion had the expectation that once they signed in, that they would immediately be taken to the application form.
@@ -127,8 +129,8 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 > “I find it weird that I already clicked start and now I have to do it again. Once I said to start it, I expected prefills to come up. I would need to read through this then start the application. When I read this, it doesn’t provide new information. I know it includes this, this doesn’t help me and it takes more time to read.”
 
 > “I really wondered if I signed in correctly and if that was the correct page. That’s why I checked the top right, it looks like the health portal.”
- 
-## Introduction and general application questions (not specifically related to the short form experience)- things that could use improvement
+
+
 **More than half of variation 2.1 and 2.2 participants had confusion around the "current compensation” question**
 
 - Many participants thought that they receive both service-connected pay for a 50% or higher disability rating and VA pension, thus were confused which one to choose. All who felt this confusion did select the 50% or higher disability rating, but thought this should allow for a multi-checkbox. Many participants thought that the VA pension is for people who retired from the VA. Some participants wondered why they couldn't just disclose their disability rating itself. One participant suggested that there should be a link to check their disability rating if they didn’t know it.
