@@ -28,6 +28,28 @@ Additionally, the updated Introduction page showed significant read-through comp
  
  
 # Initial Findings
+ ## All short form flows
+ **The majority of participants feel that this flow is much quicker and easier than they expected**
+- The majority of participants expressed that the short form met their expectations of being shorter, and they were pleasantly surprised how quickly they were able to complete it.
+> "It was super fast and super easy. I thought I would need to track down all that, [documents] but since I had a login and had a service connected disability it filled it out for me and I didn’t need that."
+
+> Was there anything that stood out to you? “Just the ease of use, I did not expect it to be that fast."
+
+> Tell me about this experience in your own words, as if I was another Veteran interested in applying for health care. “I would recommend it because of how easy it was for me. even if I didn’t have the application filled out (referring to short form) I still feel like it would be easy. There’s guided step-by-step instructions.”
+ 
+ **On the review page some participants were confused or had questions as to why they had not been asked for some of the documents listed on the Introduction "Gather your information" section, and some felt that they would have spent unnecessary time looking for those documents before starting**
+- Because people are now reading the Introduction more thoroughly, they have the expectation that they will be asked for documents related to their military service and income. None of the participants expressed that this would keep them from submitting their application, but thought it could cause some worry that their application would be incomplete. One participant thought that they would also like to provide their medical history information, although this is not something listed on the Introduction page.
+ 
+> "I expected it to be longer because of having to track down the finances and DD214. Then when it didn’t need that, I was surprised."
+
+> "I would just wonder how to get the records to them and by what method. It is what you would need if applying from scratch. They would need the health records in order to confirm I have the need for care.”
+
+> “At the beginning it said I needed my income and expenses, but I never had to enter that. Since I don’t enter it, I would take that out because I don’t know I would have figured that out. Maybe I would’ve said I couldn’t apply yet, but I didn’t need it. Everything that I entered was stuff anyone would know.”
+ 
+> "How am I as a beginner supposed to provide hard copy data to those that need it? Like do I take it somewhere or do I mail it, are they copies or originals?...My DD214, birth certificate, marriage certification...I had a hard time getting them [in the past], and it delayed my application.”
+
+
+
 ## Variation 1: Applying to health care benefits, 50% or higher disability rating is known at application start
 
 **All participants shown this variation understood what a "short form" is, why they had received it, and were able to move through the flow naturally and without barriers**
@@ -38,18 +60,10 @@ Additionally, the updated Introduction page showed significant read-through comp
 > What do you expect to happen next (after seeing the alert)? “That they would already have a lot of the financial information because of the rating I have which makes me unemployable. I am rated at 80, but paid at 100 so they would have my financial information because I can't work over a certain number of hours a year or I lose the 100 percent rating.”
 
 
-**The majority of participants feel that this flow is much quicker and easier than they expected**
-- The majority of participants expressed that the short form met their expectations of being shorter, and they were pleasantly surprised how quickly they were able to complete it.
-> "It was super fast and super easy. I thought I would need to track down all that, [documents] but since I had a login and had a service connected disability it filled it out for me and I didn’t need that."
-
-> Was there anything that stood out to you? “Just the ease of use, I did not expect it to be that fast."
-
-> Tell me about this experience in your own words, as if I was another Veteran interested in applying for health care. “I would recommend it because of how easy it was for me. even if I didn’t have the application filled out (referring to short form) I still feel like it would be easy. There’s guided step-by-step instructions.”
-
 
 ## Variation 2.1: Applying to health care benefits, 50% or higher disability rating is known at self-report at VA compensation question
  
-**The majority of participants feel that this flow is much quicker and easier than they expected, and were able to move through it without barriers**
+**The majority of participants were able to move through it without barriers**
 - At the end of the application, the participants expressed that the form was quicker and easier than past experience with other health care related applications (VA or not). They felt that the short form set proper expectations.
 > "It seems like it was very ordinary. This is exactly how I would expect an application to work.  I am used to a lot of health care forms that ask for your whole medical history. This is faster than filling out medical history at the doctor's office.”
 
@@ -100,6 +114,8 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 > “Because I am over 50%, I am filling out a shorter application. It will be fewer healthcare questions because if you have 100 percent then you have provided a lot of information already. I know there are a lot of laws in place regarding eligibility for medical benefits based on ratings. For less than 50% they don’t have to give me everything, but since I am over 50 they are required by law.”
 
 > “When I saw 3 of 4 I was excited. I don’t think it had step of step when I first started it was just step 1 or 2 then changed to step 3 of 4 here.”
+ 
+
  
 
 ## Introduction and general application questions (not specifically related to the short form experience)- things that are working well
@@ -153,20 +169,7 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 > "I can tell you for Tricare there is no group number and it is a required field.” What would you do? “I would put in none and see how they take it. For Tricare, and you’ll have a lot of them with Tricare for life or prime, all you have is the one number that is on your ID card.  You might want to consider a tick mark for Tricare or Medicare instead of the name of the provider."
 
 > “Policy number, for retirees. I would think that the policy number is my DOD number, so I have to clarify what my policy number would be and I have been using it for a little less than a year.” What would you do? “I would login online to see if I can find it. If I can find it, great, if not I would put my DOD number. I think it would be good to only have one required. It took me longer to read it, I think it would say this or group number so I thought I could enter it there. I wouldn’t have entered that until I entered the policy number. I would fill it out in order instead of reading all of it first.”
-
-
-**On the review page some participants were confused or had questions as to why they had not been asked for some of the documents listed on the Introduction "Gather your information" section, and some felt that they would have spent unnecessary time looking for those documents before starting**
-- Because people are now reading the Introduction more thoroughly, they have the expectation that they will be asked for documents related to their military service and income. None of the participants expressed that this would keep them from submitting their application, but thought it could cause some worry that their application would be incomplete. One participant thought that they would also like to provide their medical history information, although this is not something listed on the Introduction page.
  
-> "I expected it to be longer because of having to track down the finances and DD214. Then when it didn’t need that, I was surprised."
-
-> "I would just wonder how to get the records to them and by what method. It is what you would need if applying from scratch. They would need the health records in order to confirm I have the need for care.”
-
-> “At the beginning it said I needed my income and expenses, but I never had to enter that. Since I don’t enter it, I would take that out because I don’t know I would have figured that out. Maybe I would’ve said I couldn’t apply yet, but I didn’t need it. Everything that I entered was stuff anyone would know.”
- 
-> "How am I as a beginner supposed to provide hard copy data to those that need it? Like do I take it somewhere or do I mail it, are they copies or originals?...My DD214, birth certificate, marriage certification...I had a hard time getting them [in the past], and it delayed my application.”
- 
-
 **The majority of participants thought that they would receive a confirmation of application submission by email**
 - The majority of participants expected that the page after submission would give them a timeline for application processing, the method they would be notified, and the place they can go to check the application status. Participants also expected to receive updates via email. All expressed that they prefer email and phone over mail, but are accustomed to the VA sending documents by mail.
 > How would you expect to be contacted? "Email. But it could also be just continuing to check online for status, but I want a basic time frame. Maybe I should expect an email or maybe I just have to keep checking online."
