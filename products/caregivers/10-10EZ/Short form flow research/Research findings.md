@@ -102,10 +102,9 @@ The research questions we sought to address:
 **General**
 1. Participants are able to navigate through the pre-populated short form easily and without confusion
 2. Participants are able to able to navigate through the short form based on self-reported information easily and without confusion
-3. Participants feel that these flows are much quicker and easier than they expected
+3. Participants feel that these short form flows are much quicker and easier than they expected
 4. On the review page some participants were confused or had questions as to why they had not been asked for some of the documents listed on the Introduction "Gather your information" section, and some felt that they would have spent unnecessary time looking for those documents before starting
 5. Participants moved through the confirmation step (show in V2.1 & V2.2 only) without question or confusion
-
 
 **Specific to Version 2.1**
 1. Some participants were confused about the steps numbers and why the number changed upon entering into the short form
@@ -116,167 +115,143 @@ The research questions we sought to address:
 
 **Introduction and general application questions (not specifically related to the short form experience)- things that are working well**
 1. The updated Introduction page prepared participants with what documents they will need during the application process well
-2. Many participants expressed that they liked the “Need Help?” section was at the bottom of each page, and some said that they would utilize it
 
-**Introduction and general application questions (not specifically related to the short form experience)- things that could use improvement
-1. Some participants find the repeated Introduction (upon sign in) redundant and/or confusing
-2. More than half of variation 2.1 and 2.2 participants had confusion around the "current compensation” question
-3. The Insurance information "Other coverage" question caused uncertainty for many participants, especially for those who have Tricare (through military retirement)
-4. The majority of participants thought that they would receive a confirmation of application submission by email
-5. Some participants think that since the form is digital and that they qualify for the short form that they will be enrolled upon submission of the application
+**Introduction and general application questions (not specifically related to the short form experience)- things that could use improvement**
+1. More than half of variation 2.1 and 2.2 participants had confusion around the "current compensation” question
+2. The Insurance information "Other coverage" question caused uncertainty for many participants, especially for those who have Tricare (through military retirement)
+
 
 ## Key Findings - General
 
-### Participants feel that the VA should already have much of the information that the VA health care application requests.
-- Many participants said that they felt frustration that they had to provide similar information for various VA applications. Many participants believe that the VA should automatically be able to populate most of the information that is asked in the application (linking to taxes and military service history). Some POAs find the questions about service history particularly difficult to find the answers to, especially when the Veteran has cognitive/PTSD/TBI- related injuries that hinder their memory of service dates, paperwork location, and desire to discuss topics.. 
+### Participants are able to navigate through the pre-populated short form easily and without confusion
+- Upon seeing the alert that they would receive the short form at application start, the participants quickly understood that they would not have to be asked all questions because of their disability rating.
 
-**Note:** This research was conducted unauthenticated, thus participants didn’t have the experience of having some pre-filled fields that an authenticated applicant would have.
-> "I file my taxes online, can't it just pull my tax information like the FAFSA does?"
+> "I like it, knowing I won't need to backtrack on information I provided over the years. I am glad to see that they are keeping record of what they have. If it were me now I would say it will be a lot easier than I thought."
 
-> "Why do I have to fill out the military service history and upload a DD214, doesn't the VA already have this information...from the military?"
+> _What do you expect to happen next (after seeing the alert)?_ “That they would already have a lot of the financial information because of the rating I have which makes me unemployable. I am rated at 80, but paid at 100 so they would have my financial information because I can't work over a certain number of hours a year or I lose the 100 percent rating.”
 
-### Participants want more transparency on why questions are asked and how that will affect their eligibility.
-- The majority of participants worried that their answers to some questions could automatically disqualify them from receiving health care benefits. Some said that they may even quit the application upon seeing the questions, because they thought they would be disqualified anyway. This concern was mainly around military service history, current VA compensation, and financial disclosure. All participants expressed that they wished that there was more transparency about how their answers would impact their health care eligibility. Additionally, participants felt like spouse and dependent information shouldn't impact their health care application. Many participants said that they would be more likely to complete the application if they knew why the information was being requested and how it could help them get VA health care.
-> "We are focused on the end result, 'do we qualify?' so it would help us to understand how this information is used."
+### Participants are able to able to navigate through the short form based on self-reported information easily and without confusion
+- At the end of the application, the participants expressed that the form was quicker and easier than past experience with other health care related applications (VA or not). They felt that the short form set proper expectations.
+> "It seems like it was very ordinary. This is exactly how I would expect an application to work. I am used to a lot of health care forms that ask for your whole medical history. This is faster than filling out medical history at the doctor's office.”
 
-> "What does my spouse's income have to do with my VA health care? I'm applying for me, not them. This is too nosy, I would say that I am not married." _(participant is married)_
+> “The only expectation was that it was reduced from what others were doing so it is easier to process if over 50 percent. It was done quicker. So I went from 6 to 4 steps. It makes sense to me.”
 
->  _On financial disclosure page_ "I wish it was more clear about the income threshold, I would be worried that I don't qualify."
 
->  _On current VA benefits page_ Participant selects: I don't receive any VA pay... "Does this mean I don't qualify?"
+### Participants feel that these short form flows are much quicker and easier than they expected
+- The majority of participants expressed that the short form met their expectations of being shorter, and they were pleasantly surprised how quickly they were able to complete it.
+> “This is a simple process.”
 
-> "When there are so many questions it feels like they are trying to discourage people from filling out the form - do all these questions even matter?"
+>  “I thought it was simple and a positive experience. I have had nothing but positive experiences with the VA.”
 
-### Participants were  unsure how they will receive updates on their application status.
-- The application does not require email and/or phone number, and doesn’t ask for a preferred contact method. Participants were therefore uncertain how they would be contacted about the status of their application. Many participants who volunteered their email and/or phone number had expectations that these would be used to contact them regarding their application status, but felt uncertain since these fields were not required. The majority of participants expressed that they would like to be able to choose their preferred contact method. Participants also expressed an expectation that they would receive an email (if email was provided) that their application had been successfully submitted.
-> _After application submission_ When asked what they expect to happen next, "I would like to receive an email rather than mail [like previous experience], but I didn't input an email because it's not required and it didn't say communication could be through this."
+>  "I like the short form, it was sweet and quick."
 
-> _After application submission_ "I wish they let me choose my preferred contact- I don't know if it will come by phone, email, etc...I expect notification of receipt, when it's under review, timeline updates, if they need anything..."
+> "It was super fast and super easy. I thought I would need to track down all that, [documents] but since I had a login and had a service connected disability it filled it out for me and I didn’t need that."
 
-### Participants noted that questions were hard to understand and they wanted plain language explanations.
-- The application’s language is not written plainly and does not provide any explanation on how to answer questions. Participants want to know why and how the information is used. Participants had the least clarity around household information, financial questions and who qualifies as a dependent. Finally, some participants expressed concern about security and privacy, especially around uploading their discharge paperwork.
-> "Feels like a lot of government gobbly goop."
+_Was there anything that stood out to you?_ “Just the ease of use, I did not expect it to be that fast."
 
-> "I would like to know how all this information is used and what security measures are taken. My husband is really concerned about security, he wouldn't upload his DD214."
+_Tell me about this experience in your own words, as if I was another Veteran interested in applying for health care._ “I would recommend it because of how easy it was for me. even if I didn’t have the application filled out (referring to short form) I still feel like it would be easy. There’s guided step-by-step instructions.”
 
-### Participants only want to answer questions that are relevant to them and their situation.
-- Participants were frustrated by having to answer irrelevant questions. They also were frustrated by having to fill in information that felt nonsensical, such as when biological children became dependents or providing income for adult children. 
-> "The dependent section is so long, I have three kids, can't I just click something so they have the same last name? Also 'when did they become your dependent?' Isn't this the same as their birthdate? And if they don't fall in the 18-24 range, then why is it asking if I paid for school and their income?"
 
-## Key Findings - Section specific
+### On the review page some participants were confused or had questions as to why they had not been asked for some of the documents listed on the Introduction "Gather your information" section, and some felt that they would have spent unnecessary time looking for those documents before starting
+- Because people are now reading the Introduction more thoroughly, they have the expectation that they will be asked for documents related to their military service and income. None of the participants expressed that this would keep them from submitting their application, but thought it could cause some worry that their application would be incomplete. One participant thought that they would also like to provide their medical history information, although this is not something listed on the Introduction page.
+> "I expected it to be longer because of having to track down the finances and DD214. Then when it didn’t need that, I was surprised."
 
-### Participants didn’t understand how the Service History section choices were organized, thus causing confusion when choosing answers and fear of ineligibility.
-The service history page causes confusion for two main reasons:
- - Many participants believe that if none of the service history list applies to them that they could be disqualified from VA health care. 
+> "I would just wonder how to get the records to them and by what method. It is what you would need if applying from scratch. They would need the health records in order to confirm I have the need for care.”
 
-> _On service history page_ "Since none of these apply to me, I would be worried this would disqualify me." _When asked if it would deter from finishing form_ "It might, yes."
+> “At the beginning it said I needed my income and expenses, but I never had to enter that. Since I don’t enter it, I would take that out because I don’t know I would have figured that out. Maybe I would’ve said I couldn’t apply yet, but I didn’t need it. Everything that I entered was stuff anyone would know.”
 
- - The information architecture of this page also causes categorization confusion. Most participants wonder what the list (category) is and how it will be used. Some participants wonder why there are not more recent events/situations listed.
+> "How am I as a beginner supposed to provide hard copy data to those that need it? Like do I take it somewhere or do I mail it, are they copies or originals?...My DD214, birth certificate, marriage certification...I had a hard time getting them [in the past], and it delayed my application.”
 
-> "What do these have to do with health care?"
 
-> "These seem outdated. I'm looking for something having to do with Iraq."
+## Key Findings - Specific to Version 2.1
 
-> When asked how they think this information will be used. "Maybe this will be used to determine my treatment plan?"
+### Some participants were confused about the steps numbers and why the number changed upon entering into the short form
+ - With this version many participants noticed that the steps changed from “Step 2 of 6” to “Step 3 of 4.” They all assumed this was due to the short form, but were not exactly sure. Many also expressed that the steps were unclear because there were so many questions on step 1 and only one question in step 2.
 
-### Participants felt the household information section (includes financial disclosure information) was the hardest part of the application. They were uncertain how to find the requested information, unclear what the questions were asking, and how their responses would impact their application.
-- Many people were just unclear on how to fill out these questions. They weren't always sure where to find this information and they also felt uncertain as to what the questions were asking for. Many also felt trepidation about how the information would be used and its impact on their qualification for health care. Additionally, the dependent section causes confusion as to what qualifies as a dependent and for those that the dependent is their child, the "When did they become your dependent?" question is confusing.
+> "This page changed, it's like stepping out of the process. Okay then wow we ended up on step three. Well I guess it found that because I have a higher disability it didn’t need to go to step 2."
 
-> "Oh geeze. Oh jesus....Now I need to call my tax man...It should say what box to refer to on my tax form or just let me upload it."  _(In regards to financial disclosure and dependents information)_
+> "Why am I clicking so much to stay on step 1. I have clicked 5 times."
 
-> "Will my financial information impact the health coverage I receive?"
 
-> "When I filled this out in the past, I had to call my husband, he didn't have the paperwork with him so I had to save the form and finish it at home with the kids running around."
+### Only about half of participants interacted with the "Green accordion alert," and this resulted in some uncertainty as to what information was skipped
+- Because participants that are shown this variation only have 1-2 questions remaining in the application after being put on the short form track, they have very little time to interact with the green accordion alert before finishing the application. About half of the participants did not notice it and/or did not interact with it.
 
-> "What is a dependent defined? My spouse? I also finance my spouse's parents, but they live in the Philippines, do they count or do I have to go by the IRS definition?"
+> “I didn’t notice [that the alert is clickable] until you pointed it out.”
 
-> In regards to net income: "Does a house count?"
+> “Maybe that’s why I didn’t need tax or income. So if I am over 50 percent, maybe have it note that if you are over 50 percent…”
 
-> In regards to previous year's deductibles, "It asks amount for you or your spouse [paid in non-reimbursable medical expenses this year]. Does it mean 'and'? Does a deductible qualify?"
 
-### It was difficult for participants that live in states with many facilities to find their preferred facility. Additionally, participants in this study only noticed the "Find locations with the VA Facility Locator" after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
-- For Veterans that live in a state with many facilities, selecting a VA medical facility took time and caused some confusion. The list is not in alphabetical order thus participants had to read each one in order to make their selection. Many participants expressed that they were not sure which one to choose, especially those who don't regularly visit a VA center or clinic. The "Find locations with the VA Facility Locator" (when noticed) was noticed after the participant had already looked through the drop-down menu, thus it was a delayed help for them.
+## Key Findings - Specific to Version 2.2
 
-> _Looks through drop-down VA center or clinic_ "I guess I would have to Google that." _Closes list_ "Oh there is a 'Find locations with VA Facility Locator' I see now. _Clicks on it_ "That would be helpful."
+### The majority of participants felt like the alert set proper expectations.
+- All participants saw the alert, and felt positively upon seeing that they were on step 3 of 4. They expected that the remaining questions would simply be questions that the VA needs to confirm with them or that were not already on their record.
 
-### Participants did not get enough information from the Medicaid and Medicare related questions to confidently provide answers.
-- Many participants did not know if they qualified for Medicaid or Medicare (even when reading the more information component). Some wished they could answer, "I don't know," some said they would have to stop and do research. Additionally, one participant faced confusion with the design, and thought that the more information component was the question itself.
-> "I wish I could answer 'I don't know' because if I put 'no' then I would think it would be on my record and I would be disqualified from getting it, but I don't know if I am."
+> “Because I am over 50%, I am filling out a shorter application. It will be fewer healthcare questions because if you have 100 percent then you have provided a lot of information already. I know there are a lot of laws in place regarding eligibility for medical benefits based on ratings. For less than 50% they don’t have to give me everything, but since I am over 50 they are required by law.”
 
+> “When I saw 3 of 4 I was excited. I don’t think it had step of step when I first started it was just step 1 or 2 then changed to step 3 of 4 here.”
+
+
+## Key Findings - Introduction and general application questions (not specifically related to the short form experience)- things that are working well
+
+### The updated Introduction page prepared participants with what documents they will need during the application process well.
+- During Discovery research we found that many participants merely skimmed the Introduction as it was quite long. The majority of the participants in that research study went straight to the "Start the application" button. This is a distinct contrast with what we saw in this study that utilized the shortened Introduction and the button that is moved to the bottom. In this study the majority of participants read the entire introduction, commenting that it is clear and prepares them well for what they will need in the application.
+> "It is self-explanatory I think. This is covering everything I mentioned to you, I found out about one at a time [referring to when they applied in the past], it's nice to have it grouped together so you know what is required."
+
+> “I would follow the steps, click on the eligibility requirements, then gather information (reading page), then after that I would start the application...I am just reading though the directions quickly because it says sign in to start and start without signing in. It answers the question why. Information will already be entered so I would sign in for the security of it.”
+
+> _Do you have any questions after looking at this page?_ "No, I have a copy of my DD214 on cloud so that’s easy. Insurance, I also have scans of those, I am not sure how hard it is to get them on the tablet though."
+
+## Introduction and general application questions (not specifically related to the short form experience)- things that could use improvement
+### More than half of variation 2.1 and 2.2 participants had confusion around the "current compensation” question
+- Many participants thought that they receive both service-connected pay for a 50% or higher disability rating and VA pension, thus were confused which one to choose. All who felt this confusion did select the 50% or higher disability rating, but thought this should allow for a multi-checkbox. Many participants thought that the VA pension is for people who retired from the VA. Some participants wondered why they couldn't just disclose their disability rating itself. One participant suggested that there should be a link to check their disability rating if they didn’t know it.
+> "Maybe I don’t think I understand. If anyone is over 50%, you are getting a check, so if I click this (pointing to receives pay for a disability 50% or higher) aren’t I also this (pointing to VA pension).” What would you do? “Choose over 50, maybe VA pension is for if you worked for the VA. I see where it's different. I realize my thought was wrong. Maybe this VA pension could say this does not include service disability. Just this one needs clarification."
+
+> "Okay what type of compensation do you currently receive...That is confusing because I am 100%, but do I click on the pension or 50% or higher?” What would you do? “I would put my rating. I think that could use more clarification.” How do you see them differently? “I have a rating but I also get a VA pension so it’s like ‘okay’ which one do I need to put?”
+
+### The Insurance information "Other coverage" question caused uncertainty for many participants, especially for those who have Tricare (through military retirement)
+- Although none of the participants thought this question would stop them from submitting the form, it caused a lot of confusion that could lead to inaccurate input. The main confusion was in the policy number and group number fields. The majority of participants that had Tricare expressed that they thought that they would use their Social Security number for this, but were uncertain. Additionally, many participants did not read the part of the label that specifies that only the policy number or the group code is required. Some said they would just make one up, others said that they might contact the VA for help. One participant said that they would just say that they did not have other coverage because they wouldn't want the VA to give them less coverage.
+> _(Participant has Tricare)_ "Group code: This was always just social. I wouldn't have any idea what to put for the group, there was no group number."
+
+> "I can tell you for Tricare there is no group number and it is a required field.” What would you do? “I would put in none and see how they take it. For Tricare, and you’ll have a lot of them with Tricare for life or prime, all you have is the one number that is on your ID card. You might want to consider a tick mark for Tricare or Medicare instead of the name of the provider."
+
+> “Policy number, for retirees. I would think that the policy number is my DOD number, so I have to clarify what my policy number would be and I have been using it for a little less than a year.” What would you do? “I would login online to see if I can find it. If I can find it, great, if not I would put my DOD number. I think it would be good to only have one required. It took me longer to read it, I think it would say this or group number so I thought I could enter it there. I wouldn’t have entered that until I entered the policy number. I would fill it out in order instead of reading all of it first.”
 
 ## Additional Insights
-* Most Veterans do not differentiate the nomenclature of the VA benefits and health care, they are all "VA benefits" to them. Additionally there are no distinguishing visual cues.
-  *   This causes applicants to have uncertainty as to which form they have/will fill out and what benefits will be gained from that application. 
+*  Some participants find the repeated Introduction (upon sign in) redundant and/or confusing
+*  Some participants think that since the form is digital and that they qualify for the short form that they will be enrolled upon submission of the application
+* Many participants expressed that they liked the “Need Help?” section was at the bottom of each page, and some said that they would utilize it, especially that it suggests VSOs
+* The majority of participants thought that they would receive a confirmation of application submission by email
 
-* The form progression is unclear. This is due to the inconsistent progress bar advancement and use of same titles on multiple pages.
-
-* The unauthenticated experience is redundant (name, social security number), this led the majority of participants to believe that they had made a mistake. 
-
-* People appreciate the more information component, but it also can create confusion depending on its placement- sometimes people don't see it, think it is the question, or don't automatically seek it out when they need more information about a question. 
-
-* Some participants found the way that the page advances from one to the next jarring and were unsure if their information input had been accepted.
 
 ### Hypotheses
 
-1. Veterans don’t complete the form because they found a different source of health care (outside of the VA).
-    1. LIKELY FALSE: The participants that we talked to came to the VA health care because of a change in life circumstance, leaving military, loss of job, increased impact of service-related health condition, etc. thus they were specifically seeking VA health care, not just health insurance in general.
-2. Veterans don’t complete the form because they are unclear as to what information to provide in specific sections (mainly sections related to finances).
-    1. LIKELY TRUE: The majority of participants named the household information (which includes the financial information) as the hardest part. Multiple participants said that they would have to ask another person for help (spouse, tax preparer, VSO, etc.). Others said that they would have to guess because they were unclear about the specific meaning of the question.
-3. Veterans don’t complete the form because they don’t have information readily available (mainly sections related to finances).
-    1. LIKELY TRUE: One participant specifically said that she had to save the form for almost a month before she was able to gather the financial information. Two POA participants said that they had to stop and get help because in the past they didn't know how to find the service history information and discharge paperwork. Some said that they might give up.
-4. Veterans don’t complete the form because they feel uncomfortable disclosing certain information.
-    1. LIKELY TRUE: Participants expressed concern about the security of uploading discharge papers, providing information about their own and their spouses finances, and around their service history. Multiple participants stated that some of the questions in these sections might be a barrier of completion with some feeling that they are invasive and nosy while others felt concerns for the security of their information, worrying about stolen identity.
-5. Online forms innately create different obstacles/less flexibility than paper/in-person experiences.
-    1. PARTIALLY TRUE: Many participants thought that they had filled out the VA health care application when they first left the military and did so with assistance. By filling it out in-person they were able to clarify questions' meaning and how their answers would impact their health care eligibility.
-
+1. Users will be able to navigate through the short form relatively easily.
+    1. LIKELY TRUE: All of our participants were able to complete the application easily and without barrier
+2. Users may have issues with understanding what a "short form" is.
+    1. LIKELY FALSE: The majority of participants understood what a short form is and were not left with questions or concerns when reaching submission.
+3. Users may have issues with understanding what is the added value of this experience (because they will not see the skipped questions)
+    1. LIKELY FALSE: The majority of participants were pleasantly surprised how quick and easy the application was even without having the experience of the full one to compare it to.
+4. Users may have issues with getting stuck/confused on the confirmation page after self-reporting pay for a disability rating of 50% or higher
+    1. LIKELY FALSE: All of the participants moved through the confirmation with minimal thought to it. For those who wondered why they were asked to confirm, their questions were resolved when they moved to the next page and saw the alert that they were filling out a short form.
 
 ## Recommendations
 
-### Transparency
-1. Clarify that each question is necessary and be able to answer how it is used to determine VA health care eligibility, providing explanations for questions that the research and analytics show to be the most troublesome for applicants.
-2. Explore progress bar and heading title options to provide clearer progression
-3. Mitigate fear of being automatically disqualified
-
-### Reduced burden
-1. Create an information architecture that naturally reflects Veteran heuristics, exploring the following options:
-    1. Order of questions should be chunked according to Veterans' mental model
-    2. Headings on page should be properly labeled to reflect application progression
-    3. Explore automatic qualifiers (Veterans who have automatically qualifying factors will not have to fill out the entire form)
-    4. Create dependencies based on input information (ie. only ask service related questions that are date dependent based on applicant's service dates)
-
-2. Rewrite confusing questions in plain language (also improves accessibility)
-3. Explore ways to better implement VA Facility locator
-4. Explore ways to automatically generate information (eg. from tax filing, other military databases, etc.)
-5. Find out if it is possible to eliminate repeated questions for the unauthenticated experience
-6. Simplify Introduction page
-
-### Trust
-1. Clarify how the Veteran will be notified with application status updates
-    1.  Explore e-mail validation link
-    2.  Explore e-mail confirmation on submission
-    3.  Explore preferred contact option
-
-2. Provide security and privacy information within the Military Service and Household Information sections
-
-### Accessibility
-1. Explore 1 question per page (also reduces burden)
-2. Make sure that all button and link treatment and behavior is correct
-3. Headings on page should be properly labeled for screen reader accessibility 
+1. Implement the short form
 
 ## Next Steps
 
-1. Clarify that each question is necessary and be able to answer how it is used to determine VA health care eligibility removing any question that is not required by the program team (if any)
-2. Rewrite any question/choices that caused confusion (including updating the gender, preferred contact, and simplifying introduction page)
-3. Create content "source of truth"
-4. Update the flow 
-    1. Explore automatic qualification
-    2. Explore making more questions dependent on applicants' answers
-    3. Update order putting emotionally difficult questions near the beginning and ensuring other questions are chunked based on Veteran heuristics
-5. Design one question per page with space for additional information
-6. Conduct A/B testing with 1 question per page and current flow
+1. Design an alert for the Review page that reminds users what information they were able to skip and why
+2. Update the Current compensation question messaging
+3. Update the Insurance detail question messaging
+4. Consider ways to update the Introduction page so that Veterans who will receive the short form will not spend unnecessary time searching for documents that they won't need
+5. Update 10-10EZ question order [flows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/A71F1C96-FF98-42A2-9ADD-6D4B7A1DDB20) in production
+6. Implement the short form for applicants with a disability rating of 50% or higher
+
 
 ###  In the future
-* Explore how to update progress bar and headings
+* Explore alternatives to showing the repeated Introduction on sign in
+* Explore ways to improve the progress bar so that it is more reflective of length and progress
+* Explore other qualifying criteria (Eg. combat status) to expand the short flow experience to more Veterans
 
 
 ## Appendix
