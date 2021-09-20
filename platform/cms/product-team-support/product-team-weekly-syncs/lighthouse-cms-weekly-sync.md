@@ -30,7 +30,16 @@
 
 ## Monday, September 20, 2021
 * Facility data update workflow, [6413](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6413)
-* 
+  * https://prod.cms.va.gov/help/vet-centers/how-do-i-update-my-facilitys-basic-location-data
+  * Break out existing KB article by product type (possibly 4)
+  * LH team to own info in KB articles for VAMC and VC; CMS to own cemeteries and VBA Regional offices for now
+  * LH team to send over folks they want to have access to edit
+* Updates for facilities detailed services
+  * Frequency of updates from CMS to make sure data is in sync
+  * Ideally shouldn't need it but CMS to plan for a nightly sync
+    * Bulk push of all vs. LH single query; bulk push with all individual services hasn't been tested yet; LH will be set up for bulk push but want to notify their DevOps folks as early as possible
+    * Decision: start with the bulk push, explore single query if needed
+    * Q: currently these pushes are scheduled for the night time, should we consider moving to when folks are around? TBD
 
 ## Monday, Spetember 13, 2021
 * MVC status updates, if any
