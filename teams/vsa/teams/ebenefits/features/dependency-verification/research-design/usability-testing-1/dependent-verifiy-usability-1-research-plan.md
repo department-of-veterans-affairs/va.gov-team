@@ -144,11 +144,11 @@ Recruit 8 for 5 fulfilled sessions using the following criteria:
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependent-verifiy-usability-1-convo-guide.md)
 
-- [Session notes]() (Available at conclusion of research)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/Dependency_Verification_Notes_Matrix%20(1).xlsx)
 
-- [Topline summary]() (Available at conclusion of research)
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependency_verification_topline.md)
 
-- [Research synthesis]() (Available at conclusion of research)
+- [Research synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/dependency-verification-research-findings.md) 
 
 ### References
 
