@@ -31,8 +31,18 @@ The CSV file of all urls and word counts are available at: https://github.com/de
 * Largest page: https://www.va.gov/dayton-health-care/locations/dayton-va-medical-center
 * Largest page word count: 11,917
 
-### Disability Hub Stats
+### Benefit Hubs
 
-* Disability pages: 78
-* Disability pages total words: 113,703
-* Disability average words per page: 1,458
+| category                | pages | words  | avg words per page |
+|-------------------------|-------|--------|--------------------|
+| disability              | 79    | 113703 | 1439               |
+| health-care             | 72    | 66323  | 921                |
+| education               | 54    | 24250  | 449                |
+| records                 | 10    | 4320   | 432                |
+| housing-assistance      | 16    | 12646  | 790                |
+| pension                 | 21    | 20704  | 986                |
+| careers-employment      | 20    | 9841   | 492                |
+| burials-and-memorials   | 3     | 0      | 0                  |
+| family-member-benefites | 3     | 2104   | 701                |
+| life-insurance          | 12    | 13078  | 1090               |
+| service-member-benefits | 1     | 1047   | 1047               |
