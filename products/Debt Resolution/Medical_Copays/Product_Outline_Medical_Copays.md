@@ -115,6 +115,7 @@ Increase self service on va.gov
 ## Solution Approach
 
 This product will build on top of current Debt Portal design although utilize a different set(s) of APIs. 
+- [IA design and recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-copays.md)
 
 --- 
 
