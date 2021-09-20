@@ -1,42 +1,140 @@
 # Research Plan for [Team, Product, Date]
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
-## Goals	
-1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+
+## Background
+Briefly describe the background of your product. Consider:
+- What problem is your product trying to solve?
+- Where is your product situated on VA.gov? (ex: auth vs. unauth)
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+
+[Link to product brief](url goes here).
+
+### OCTO-DE Objectives 
+*Note: applicable only to OCTO-DE teams*
+
+Which [OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+
+### Veteran Journey
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+Are there moments that matter? 
+
+## Research Goals	
+What are you trying to learn from this research? 
+
+*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+
+### Outcome
+How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+### Research questions
+Consider bucketing research questions under research goals. For each question, think about:
+- What will I do with what I learn from this question?
+- Does this question serve the goals of my study?
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+### Hypothesis
+What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+- What do you already know about this problem space?
+- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+- Write a generalized statement that combines what you know + what you think will happen during the study. 
+- Remember to constrain the hypothesis to the goals of your study!
+
 ## Method	
-1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
-  	
-2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
-## Participants and Recruitment	
-1.	Participant criteria: What are you looking for in a participant?	  
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Please list your participant criteria in two categories-
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+Examples of common research methods include: 
+- Semi-structured interviews - appropriate for generative research
+- Contextual inquiry - appropriate for generative research
+- Card sorts - appropriate for generative and evaluative research; depending on the study design 
+- Tree tests - appropriate for evaluative research
+- Usability testing - appropriate for evaluative research
+- User acceptance testing (UAT) - required before product release
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+Additional resources:
+- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
+- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
+- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
 
-*Pro tips for writing recruiting critera:* 
-- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
-- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+### Location
+Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
 
-## When? 	
-1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	Specify how much time you want between sessions, if any.
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+If in person, include:
+- Location
+- Point of contact
+- Equipment used for research
+
+### Research materials
+*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
+
+Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+
+For moderated interviews:
+- [Link to conversation guide](url goes here) 
+
+For moderated usability tests: 
+- [Link to conversation guide](url goes here)
+- [Link to prototype](url goes here)
+
+For unmoderated testing: 
+- [Link to email with instructions](url goes here)
+- [Link to prototype or OptimalSort session for group A](url goes here)
+- [Link to prototype or OptimalSort session for group B](url goes here)
+
+If recruiting outside of Perigean’s participant database:
+- [Link to recruitment flyer](url goes here)
+	
+## Recruitment	
+
+OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+
+Before writing your recruitment criteria, be sure to review the following resources. 
+- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
+- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of marginalized Veteran communities.
+
+### Recruitment approach
+Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+
+Pro tip:
+- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
+- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
+- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements.
+
+Which inclusive research strategies are you leveraging for this study? OCTO recommends using the Lean MVS strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity. *Note: this template will be moving outside of Google Sheets to it is accessible on the VA network.*
+
+### Primary criteria (must-haves)
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
+Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
+  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+
+Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could 1) leverage the [lean MVS approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) or 2) break up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+
+### Secondary criteria (nice-to-haves)
+What criteria would strengthen your results? 
+
+## Timeline
+If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+
+### Prepare
+When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
+
+Please indicate the date and name of a mock participant for a pilot session. 
+* Pilot participant email:
+* Date and time of pilot session: 
+
+### Research sessions
+What dates do you plan to do research? 
+
+### Length of sessions
+How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
+Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+
+### Availability
+When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
@@ -47,15 +145,3 @@ Please list the people who will be serving in each role. **Include the primary p
 - Note-takers:	
 - Observers:	
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
-## Resources	
-- Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
