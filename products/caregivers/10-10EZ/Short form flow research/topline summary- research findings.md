@@ -23,7 +23,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 - - - 
 
-Overall, both the pre-populated and self-reported short form flows were usable, understood, and did not create a barrier for form completion. The majority of the research participants expressed that they were positively surprised by how short and easy the application was (with these short form flows).
+Overall, both the pre-populated and self-reported short form flows were usable, understood, and did not create a barrier for form completion. The majority of the research participants expressed that they were positively surprised by how short and easy the application was (with these short form flows). During the research, we updated the design of the self-reported short form alert, this showed improved visibility of the alert that resulted in greater awareness and time expectation of the short form.
 Additionally, the updated Introduction page showed significant read-through completion improvement from our Discovery research conducted in May of 2021. The majority of participants read the majority of the Introduction page without being prompted and were able to accurately state what documents they needed in order to complete the application. 
  
  
