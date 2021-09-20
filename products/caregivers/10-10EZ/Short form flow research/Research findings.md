@@ -75,7 +75,7 @@ This research may not meet the needs of the following marginalized Veteran group
 | Category            | Target | Study Total 
 |---------------------|--------|-------------
 | Age 55-64+ ❗       | 7    | 4    
-| Mobile user ❗      | -   | 3
+| Mobile user ❗      | -   | 3 (tablet)
 | Rural               | 4  | 3   
 | No degree           | 4    | 3 
 | Women               | 2    | 4    
