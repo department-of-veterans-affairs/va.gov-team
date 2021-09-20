@@ -76,9 +76,9 @@
   - e.g. testing, marketing, compliance requirements
 
 ### Prioritization
-> *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
+> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
-### Solution Scope
+### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 --- 
