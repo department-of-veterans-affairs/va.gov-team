@@ -24,10 +24,20 @@ We talked to **7** Veterans and showed them all the desktop version of the proto
 - 5 on a desktop/laptop computer 
 - 2 on a tablet (iPad)
 
-We wanted half of the participants to join via smartphone so they could test the mobile version of the prototypes, but none of the recruited mobile users showed up or used their phone for the session. We declined to extend the research sessions beyond the allotted time to try to recruit more mobile users.
+We wanted half of the participants to join via smartphone so they could test the mobile version of the prototypes, but none of the recruited mobile users showed up or used their phone for the session. We declined Perigean's offer to extend the research sessions beyond the allotted timeframe to try to recruit more mobile users. One of our pilot testers used a smartphone for the research session, so we have a bit of feedback from that one Veteran.
 
 ## Findings
-1. Some participants made use of the new design concepts, but still all participants but one got stuck anyway.
+1. All new design concepts were used by at least one particpant participant: 
+
+Design Concept | # of Participants (out of 7) who used it
+---------------|-----------------------------------------
+Search tool links on new search landing page | 5
+Search tool links on search results page | 4
+Search link under the "top 4" boxes | 2 
+
+1. Despite the new design concepts, 6 of 7 
+2. 7 participants 
+4. but all participants except one got stuck anyway. 
 
 ### ABC Issues 
 1. For Z of X participants, 
