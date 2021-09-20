@@ -54,7 +54,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user 36 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
-  3. Healch-care section will be displayed, and will include prescription settings.
+  3. Health care section will be displayed, and will include prescription settings.
 
 ## Use Case D: No Rx tracking
 
