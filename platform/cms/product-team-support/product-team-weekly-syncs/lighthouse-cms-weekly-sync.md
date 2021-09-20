@@ -28,6 +28,10 @@
  
 </details>
 
+## Monday, September 20, 2021
+* Facility data update workflow, [6413](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6413)
+* 
+
 ## Monday, Spetember 13, 2021
 * MVC status updates, if any
   * LH deployed update for Facilities API this past Friday, so should have no orphaned overlay info now
