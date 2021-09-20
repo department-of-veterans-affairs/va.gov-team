@@ -11,8 +11,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 - [Use Case C: Health care with Rx tracking](#use-case-c-health-care-with-rx-tracking) 
 - [Use Case D: No Rx tracking](#use-case-d-no-rx-tracking)
 - [Use Case E: Missing mobile phone](#use-case-e-missing-mobile-phone)  
-- [Use Case F: Adding mobile phone](#use-case-f-adding-mobile-phone)  
-- [Use Case G: Save failure](#use-case-g-save-failure)
+- [Use Case F: Save failure](#use-case-f-save-failure)
   
   
 </details>
@@ -20,7 +19,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 ## Use Case A: LOA1 unverified identity
 
 * **Description**
-  - LOA1 user has not verified their identity
+  - LOA1 user has not verified their identity -- use Safari only and locally override User >  
   - User sees warning message stating that we can't load all of their profile information, and they are prompted to verify their identity
 
 * **Link to designs**
@@ -42,7 +41,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** 
   1. Log in to staging using test user 42 or test user 202 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
-  3. See only the Applications, claims, decision reviews, and appeals notification group within Board of Veterans' Appeals hearing reminder notification item.
+  3. Health-care section will not be displayed.
 
 ## Use Case C: Health care with Rx tracking
 
@@ -55,8 +54,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user 36 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
-  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. 
-  4. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
+  3. Healch-care section will be displayed, and will include prescription settings.
 
 ## Use Case D: No Rx tracking
 
@@ -69,40 +67,24 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user ssoissoetesting+mhvcss4@gmail.com ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md))
   2. Navigate to Profile > Notification settings page
-  3. User sees the Your health care notification group with Appointment reminders notification item and Prescription shipment and tracking updates notification item. User also sees Applications, claims, decision reviews, and appeals notification group with Board of Veterans' Appeals hearing reminder notification item.
+  3. Health-care section will be displayed, but _won't_ include prescription settings.
 
 
 ## Use Case E: Missing mobile phone
 
 * **Description**
-  - User is missing mobile phone number
+  - User profile is missing mobile phone number
 
 * **Link to designs**
   - [Mockup](https://preview.uxpin.com/51ca6ecd7ddaf2ceaf75f94e2b2ccbed2a193f6d#/pages/141757595/simulate/sitemap?mode=i)
 
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using test user 1 or 38 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+  1. Log in to staging using any LOA3 test user -- Remove mobile-phone-number as needed to start Case. ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
-  3. User sees alert at the top of the page telling them to provide mobile phone number, with link to the Personal and contact information section of Profile. Link will deep link to mobile phone section of contact info page.
+  3. Alert will be displayed indicating missing mobile phone number, including direct deeplink to mobile-phone-number page/section.
+  4. After mobile-phone-number add, page/section will also display return deeplink to Notification settings page.
 
-
-## Use Case F: Adding mobile phone
-
-* **Description**
-  - User adds mobile phone via alert message 
-
-* **Link to designs**
-  - [Mockup](https://preview.uxpin.com/6fa96dc222d3c59c67feba34a5cac98770462bd7#/pages/141913008/simulate/sitemap?mode=i)
-
-* **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
-  1. Log in to staging using TK
-  2. Navigate to Profile > Notification settings page
-  3. User sees alert at the top of the page telling them to provide mobile phone number.
-  4. User clicks link to "add a mobile number to your profile" which deep links to the mobile phone section of contact info page.
-  5. User follows steps to add their mobile phone number.
-  6. Upon saving their mobile phone number, user sees link to return to notification settings to continue establishing their notification settings.
-
-## Use Case G: Save failure
+## Use Case F: Save failure
 
 * **Description**
   - Save failure
