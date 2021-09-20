@@ -6,7 +6,7 @@ All of the charts on this page are found [here](https://lucid.app/lucidchart/f1c
 
 ## High Level
 
-The following is a high-level diagraph showing the flow of HTML, content, and assets between Drupal and the React Application.
+The following is a high-level diagram showing the flow of HTML, content, and assets between Drupal and the React Application.
 
 ![ContentAPI _ ContentApp - High Level](https://user-images.githubusercontent.com/121603/133799992-9f8975c1-be9c-4e63-ba51-0582e54b941c.png)
 
@@ -16,7 +16,7 @@ The JSON response between Drupal and the React App will flow through an API Gate
 
 ### JSON:API
 
-The [JSON:API specificaiton](https://jsonapi.org/) will be used to communicate between Drupal and any other system.  Drupal provides a JSON:API interface within core.  Other modules enhance the API by adding configuration and features.  
+The [JSON:API specification](https://jsonapi.org/) will be used to communicate between Drupal and any other system.  Drupal provides a JSON:API interface within core.  Other modules enhance the API by adding configuration and features.  
 
 These modules include but are not limited to:
 * [jsonapi_extras](https://www.drupal.org/project/jsonapi_extras)
@@ -25,11 +25,11 @@ These modules include but are not limited to:
 
 ## Content API
 
-The Content API architecture is in charge of providing a high performant API.  This API will be broken into products to allow API consumers a logical interface.  
+The Content API architecture is in charge of providing a performant API.  This API will be broken into products to allow API consumers a logical interface.  
 
-The exact architect is still be evaluated, but the following options are being considered.
+The exact architecture is still under evaluation, but the following options are being considered:
 
-Option with service the content directly from Drupal.
+Option with serving the content directly from Drupal.
 
 ![ContentAPI _ ContentApp - Content API (1)](https://user-images.githubusercontent.com/121603/133816575-e6873bc2-37f7-4045-93ed-fb89b78b24e8.png)
 
@@ -45,15 +45,15 @@ The [content_build](https://github.com/department-of-veterans-affairs/content-bu
 
 The React application(s) structure is still to be determined.  An SDK will be created to abstract the API from the front-end developers.  A reference application will also be supplied showing best practice implementations of the Content API.
 
-Possible strucutre of React applicaitons.
+Possible structure of React applications.
 
 ![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/133818504-097a5f48-18c6-4e9c-9f52-85b90752e9d2.png)
 
-Here is a font-end architecture where there is a single React application used for all content apps.
+Here is a front-end architecture where a single React application is used for all content apps.
 
 ![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/133818727-da9d4653-59f8-49a5-bbd0-3a756258d706.png)
 
-Another architecture where each appliation is seperate and uses a shared SDK and Components.
+Another architecture where each appliation is separate and uses a shared SDK and Components.
 
 ![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/134020876-fd8667a5-0175-446d-a96e-a6c08e736d7a.png)
 
