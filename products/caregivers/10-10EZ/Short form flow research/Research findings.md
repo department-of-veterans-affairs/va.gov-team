@@ -10,7 +10,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 The goals of this user research study are to: 
 
 - Determine whether or not the short form flow is usable and understandable when it is pre-populated at start of authenticated application
-- Determine whether or not the short form flow is usable and understandable understood when it is based on a self-reported, service-connected disability pay for a 50% or higher rating
+- Determine whether or not the short form flow is usable and understandable when it is based on a self-reported, service-connected disability pay for a 50% or higher rating
 - Determine whether or not the flow and copy sets proper expectations for the application experience
 
 As a secondary goal, we will also take special note of any participant feedback to the Introduction page as this has recently been updated.
