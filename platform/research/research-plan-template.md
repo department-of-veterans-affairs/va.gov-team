@@ -99,11 +99,14 @@ Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs
 Pro tip:
 - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
 - Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements.
+- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using the Lean MVS strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity. *Note: this template will be moving outside of Google Sheets to it is accessible on the VA network.*
+Which inclusive research strategies are you leveraging for this study? OCTO recommends using the Lean MVS strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity. *Note: this template will be moving outside of Google Sheets so it is accessible on the VA network.*
 
-### Primary criteria (must-haves)
+### Recruitment criteria
+List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+
+**Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
@@ -111,7 +114,7 @@ Write any recruitment criteria for experience or scenarios as screener questions
 
 Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could 1) leverage the [lean MVS approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) or 2) break up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
-### Secondary criteria (nice-to-haves)
+**Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
 
 ## Timeline
