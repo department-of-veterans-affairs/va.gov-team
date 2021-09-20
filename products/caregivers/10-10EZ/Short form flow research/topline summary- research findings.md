@@ -8,6 +8,10 @@ Prepared by: Dené Gabaldón, Caregiver Team
 
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/Session%20notes) 
 
+Flows:
+- Variation 1: [Immediate alert short form](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/EL9RYvq)
+- Variation 2: [Self-reported short form](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/dlvDq7j)
+
 Prototypes:
 - Variation 1: [Immediate alert short form](https://preview.uxpin.com/acda277e33e9629a7ab817f6c93c251b4a60ac56#/pages/141488399/simulate/no-panels?mode=i)
 - Variation 2: [Self-reported short form](https://preview.uxpin.com/19ee97072a3233029149e8865f986abfda4c1aef#/pages/141488374/simulate/no-panels)
