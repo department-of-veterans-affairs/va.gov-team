@@ -58,7 +58,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 1. Users were very positive about the My VA and Alerts page. All participants said they would use these pages and would find them very useful.
 2. 6 out of 8 users expressed that the My VA page should be the first thing they see when they log in.
-3. Many participants were surprised and excited at the level of personalization that was provided on the alerts page and My VA (even though it was a prototype and not their real information).
+3. Many participants were surprised and excited at the level of personalized content that was provided on the alerts page and My VA (even though it was a prototype and not their real information).
 
 #### Central Alerts Page
 
@@ -73,10 +73,11 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 2. Users easily understood the purpose of the alerts page and why they were seeing the alerts they were seeing.
 3. Users were able to easily understand the amount of information shown in an alert and how to take action on said alert (eg clicking on links inside of alerts).
 4. All users mentioned redundancy as a welcomed and important feature.
-5. Users want their alerts to be ordered chronologically.
+5. Users want their alerts in reverse chronological order (most recent at the top).
 6. All users easily understood and liked the term 'Alerts' after they saw it.
-7. Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).
-8. 5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page.
+7. Users want the ability to see old/expired alerts.
+8. Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).
+9. 5 out of 8 users mentioned perceiving the categories of alerts would be helpful (like on the homepage or on My VA). 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page. This included the ability to filter alerts by category or date.
 
 #### Alerts section on My VA
 
@@ -117,7 +118,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "If I knew this was the landing page for my VA experience - this would be my first stop shop for all my needs."
 
-**3. Many participants were surprised and excited at the level of personalization that was provided on the alerts page and My VA (even though it was a prototype and not their real information).** Many Veterans in this study mentioned that the current VA.gov experience is designed for the general Veteran population - not for them specifically. When they saw the My VA page and the alerts page, they immediately began relaying scenarios in which they would use this new personalized format. 
+**3. Many participants were surprised and excited at the level of personalized content that was provided on the alerts page and My VA (even though it was a prototype and not their real information).** Many Veterans in this study mentioned that the current VA.gov experience is designed for the general Veteran population - not for them specifically. When they saw the My VA page and the alerts page, they immediately began relaying scenarios in which they would use this new personalized format. 
 
 > "What I would like to see, is something that is personalized. What would be really lovely, is once you signed in and you're on your own secure page - it would have personalized alerts. That would be wonderful."
 
@@ -155,7 +156,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 > "I think the more lines of communication the better, I'm working, I'm busy - ... if your prescription is filled, I love to get a text message about it so then I could go pick up my prescription instead of coming home, logging in, and being frustrated."
 
-**5. Users want their alerts to be ordered chronologically.** They easily understood the date on each alert, and mentioned that the order was exactly as expected.
+**5. Users want their alerts in reverse chronological order (most recent at the top).** They easily understood the date on each alert, and mentioned that the order was exactly as expected.
 
 > "I'd like to see recent alerts first. That would make sense - chronological order makes the most sense."
 
@@ -175,13 +176,21 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 - Benefit summary (1)
 - VA notices (1)
 
-**7. Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).** When asked what the difference was between 'old' and 'new', many users mentioned that an old alert would be something that they have taken action on - like a form that wasn't completed, but now is OR if an appointment has already passed. 2 participants wanted the ability to dismiss alerts themselves.  When asked to choose what they thought were the most important the two most commonly mentioned thing were the appeal hearing alert and form submission alert, followed closely by appointments. Many users mentioned knowing that their prescription had shipped was NOT important.
+**7. Users want the ability to see old/expired alerts.** Users mentioned wanting the ability to see any previous alerts that had past. On the prototype, we show the past alerts for 30 days. Some users found that to be appropriate, but there was some concern about missing an alert if they don't get on VA.gov very often. There were a range of timelines that users mentioned - the most consistent one was 1 year. 
+
+> "Your main page should be your new ones, but there should be an archive in case you want to see them down the line. "
+
+> " I'd want to see them for about a year and a day - generally everything has a year expiration date. Anything that is time constricted with your claim is usually a year. "
+
+> "There should be another page to see all the past alerts."
+
+**8. Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).** When asked what the difference was between 'old' and 'new', many users mentioned that an old alert would be something that they have taken action on - like a form that wasn't completed, but now is OR if an appointment has already passed. 2 participants wanted the ability to dismiss alerts themselves.  When asked to choose what they thought were the most important the two most commonly mentioned thing were the appeal hearing alert and form submission alert, followed closely by appointments. Many users mentioned knowing that their prescription had shipped was NOT important.
 
 > "If we're going to see alerts, we should only see the alerts that are active. If I've already had that appointment, then I would hope that this alert would automatically disappear after that appointment day."
 
 > " If I were to click on the alerts - I'd expect to see what is new and what isn't..."
 
-**8. 5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page.** The current design has a list of alerts that all look exactly the same - there was some concern about alerts getting 'lost'. Some users felt overwhelmed with the number of alerts shown with no differentiation between section or type.
+**9. 5 out of 8 users wanted alerts to be sorted into categories (like on the homepage or on My VA). This included the ability to filter alerts by category or date. 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page.** The current design has a list of alerts that all look exactly the same - there was some concern about alerts getting 'lost'. Some users felt overwhelmed with the number of alerts shown with no differentiation between section or type.
 
 > "Maybe there could be some color variation between different types of alerts, that might help break it up."
 
@@ -272,12 +281,10 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Alerts
 
 1. Pick a title. I recommend naming this feature either 'Notifications' or 'Alerts'. We need to align with the similarly titled 'Notification Preferences' feature, as that will be built and launched first.
-2. Define what an 'old' and 'new' (read vs unread) alert is within our technological restraints and determine if it's worth the lift (**This feature might NOT be included in MVP**(
-3. Explore ways to represent old alerts vs new alerts (**This feature might NOT be included in MVP**(
-4. Explore ways to add design considerations for each alert section to help with scannability (e.g. health care, claims, covid)
-5. Include the ability to sort and/or filter alerts by section, type, date or time-sensitivity (**This feature will most likely NOT be included in MVP**)
-6. Figure out an appropriate timeline for alerts
-7. Explore ways to incorporate an archive if the team decides that it's worthwhile to do
+2. Add design considerations for each alert section to help with scannability (e.g. health care, claims, covid)
+3. Discuss an appropriate timeline for alerts
+4. Deprioritize representing read vs unread alerts for MVP
+5. Deprioritize including the ability to sort alerts by section, date or time-sensitivity for MVP
 
 ### My VA
 
