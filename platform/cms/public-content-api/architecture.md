@@ -51,11 +51,11 @@ Possible strucutre of React applicaitons.
 
 Here is a font-end architecture where there is a single React application used for all content apps.
 
-![ContentAPI _ ContentApp - Possible Front End Architecture (1)](https://user-images.githubusercontent.com/121603/133818727-da9d4653-59f8-49a5-bbd0-3a756258d706.png)
+![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/133818727-da9d4653-59f8-49a5-bbd0-3a756258d706.png)
 
-Another architecture where each appliation is seperate and uses a shared SDK.
+Another architecture where each appliation is seperate and uses a shared SDK and Components.
 
-![ContentAPI _ ContentApp - Possible Front End Architecture (2)](https://user-images.githubusercontent.com/121603/133819115-33ba4c18-1341-4f54-aa77-a1441ed38560.png)
+![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/134020876-fd8667a5-0175-446d-a96e-a6c08e736d7a.png)
 
 
 ### CMS Assets
