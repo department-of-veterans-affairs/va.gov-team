@@ -26,7 +26,7 @@ If we have obtained the buy-in of the SMEs and some names or recommendations for
 
 ## Information gathering from SMEs
 Below is a list of questions that we would like to ask SMEs.
-1. Explain what we want to do (get user feedback on the new online harassment reporting tool) and how (interact with a design prototype on their computer or smartphone). Maybe show some wireframes, if they're ready.
+1. Explain what we want to do (get user feedback on the new online harassment reporting tool) and how (interact with a design prototype on their smartphone). Maybe show some wireframes, if they're ready.
 1. What are your thoughts about trying to ask Veterans who may have experienced harassment to give feedback on this prototype? How would you consider the potential for re-triggering the trauma?
     1. If they recommend not talking with Veterans, skip to the last question.
     1. Otherwise, continue with the questions below.
