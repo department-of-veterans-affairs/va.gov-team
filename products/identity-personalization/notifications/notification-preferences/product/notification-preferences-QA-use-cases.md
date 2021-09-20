@@ -67,7 +67,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** (_Note: credentials should be stored in sensitive repos only_)
   1. Log in to staging using test user ssoissoetesting+mhvcss4@gmail.com ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md))
   2. Navigate to Profile > Notification settings page
-  3. Health-care section will be displayed, but _won't_ include prescription settings.
+  3. Health care section will be displayed, but _won't_ include prescription settings.
 
 
 ## Use Case E: Missing mobile phone
