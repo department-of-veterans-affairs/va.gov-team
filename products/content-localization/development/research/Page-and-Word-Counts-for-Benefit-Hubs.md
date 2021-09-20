@@ -1,19 +1,23 @@
 # Research for Page & Word Counts for Benefit Hubs
 
-## Technical Summary:
+## Technical Process Summary:
 The https://va.gov/sitemap.xml file was parsed and data was extracted to generate an array of all page urls.
 
-A small application was created to approximate a word count for each page. Nodejs, express, axios, prisma orm, and cheerio were used to spin up a rest endpoint that accepted a query parameter for the page that needed to be evaluated.
+An application was created to approximate a word count for each page. Nodejs, express, axios, prisma orm, and cheerio were used to spin up a rest endpoint that accepted a query parameter for the page index that needed to be evaluated.
 
-When the rest endpoint was requested, the server used axios to retrieve the dom for the content url, and then cheerio was used to parse this dom and evaluate specific elements in the dom. 
-Only main content was evaluated to prevent the menus, sidebars, footers etc from being used when generating word counts.
-(the url that was retrieved was actually the localhost version of the live va.gov url, to prevent excessive requests to the live va.gov pages)
-The retrieved dom content for the page was then transformed to remove all html markup, and then was split by spaces to get the word count. 
+When the rest endpoint was requested, the server uses axios to retrieve the dom for the content url, and then Cheerio parses this dom and extract the html of the detected content elements.
+
+Only main content elements are evaluated for word content, therefore excluding common menus, sidebars, headers and footer sections from word counts.
+
+As a precautionary method, the url used for evaluation is substituted for the local version `localhost:3002/*` of the va.gov url when the request was made, to prevent excessive requests to the live va.gov pages. This substitution means that the local server of content-build has to be running when performing this process and updated with the latest content.
+
+The retrieved dom content for the page is then transformed to remove all html markup, and then split by spaces to result in an array of all words in the content. The length of the array was then used as the total word count.
 
 After getting a word count, the url and count were added to the a sqlite database via the Prisma ORM, so that aggregations and data analysis could achieved.
-Finally after all urls were analyzed the final database was exported to a csv for uploading to the repository.
 
-The full CSV of urls and word counts is available at: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/development/research/va_page_word_counts.csv
+Finally, after all urls are analyzed the final database can be exported to a csv or other file formats for further analysis.
+
+The full CSV of urls and word counts are available at: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/development/research/va_page_word_counts.csv
 
 
 ## Findings
