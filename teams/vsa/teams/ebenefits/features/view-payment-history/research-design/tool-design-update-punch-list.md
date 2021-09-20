@@ -22,21 +22,21 @@ See [Reference mockups](https://www.sketch.com/s/2cbfbba2-b8c6-490a-8f25-240877a
 	> If you find a check that you reported missing, please don't deposit it. Return it to the U.S. Department of the Treasury and wait for your replacement check. Call this number to find out how to return the original check: XXX-XXX-XXXX.
 	
 	> If you deposit both the original and the replacement check, you'll owe us for the additional payment. U.S. Debt Management Center will contact you about collection.
-- [ ] Need help component added
-	- [ ] Heading: H3, “Need help?”
-	- [ ] Rule: 3px, #0071BB 
-	- [ ] Body: default
+- [x] Need help component added
+	- [x] Heading: H3, “Need help?”
+	- [x] Rule: 3px, #0071BB 
+	- [x] Body: default
 	- [ ] Content:
 		> You can call us at 800-827-1000. We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 #### Right-Rail Content Moves
-- [ ] **HP!** Right rail removed
-- [ ] “What if I need to change my direct deposit or contact information?” moved below Payments returned section
+- [x] **HP!** Right rail removed
+- [x] “What if I need to change my direct deposit or contact information?” moved below Payments returned section
 	- [ ] Heading: H2 “What if I need to change my direct deposit or contact information?”
-	- [ ] Body: default, use existing production copy
+	- [ ] Body: default
 	- [ ] Content:
 		> To change your bank information, go to your profile and click on **Direct deposit information**. Any changes you make in your VA.gov profile will update across these benefits: disability compensation, pension, claims and appeals, Veteran Readiness and Employment (VR&E), and VA health care.
-- [ ] “What if I am missing a payment?” moved below Payments returned section
+- [x] “What if I am missing a payment?” moved below Payments returned section
 	- [ ] Heading: H2 “What if I am missing a payment?”
 	- [ ] Body: default
 	- [ ] Content: (note: "Direct deposit information" is bold)
