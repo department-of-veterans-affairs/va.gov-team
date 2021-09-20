@@ -33,7 +33,8 @@
   * https://prod.cms.va.gov/help/vet-centers/how-do-i-update-my-facilitys-basic-location-data
   * Break out existing KB article by product type (possibly 4)
   * LH team to own info in KB articles for VAMC and VC; CMS to own cemeteries and VBA Regional offices for now
-  * LH team to send over folks they want to have access to edit
+  * LH team to send over folks they want to have access to edit:
+    * joshua.jennings@va.gov, james.costa@va.gov, adam.stilton@va.gov, joseph.justice2@va.gov
 * Updates for facilities detailed services
   * Frequency of updates from CMS to make sure data is in sync
   * Ideally shouldn't need it but CMS to plan for a nightly sync
