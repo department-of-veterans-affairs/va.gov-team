@@ -57,7 +57,7 @@ Additionally, the updated Introduction page showed significant read-through comp
 
 > "I like it, knowing I won't need to backtrack on information I provided over the years. I am glad to see that they are keeping record of what they have. If it were me now I would say it will be a lot easier than I thought."
  
-> What do you expect to happen next (after seeing the alert)? “That they would already have a lot of the financial information because of the rating I have which makes me unemployable. I am rated at 80, but paid at 100 so they would have my financial information because I can't work over a certain number of hours a year or I lose the 100 percent rating.”
+> What do you expect to happen next (after seeing the alert)? “That they would already have a lot of the financial information because of the rating I have which makes me unemployable. I am rated at 80, but paid at 100 so they would have my financial information because I can't work over a certain number of hours a year or I lose the 100% rating.”
 
 
 
@@ -73,7 +73,7 @@ Additionally, the updated Introduction page showed significant read-through comp
 
 > "I like the short form, it was sweet and quick."
 
-> “The only expectation was that it was reduced from what others were doing so it is easier to process if over 50 percent. It was done quicker. So I went from 6 to 4 steps. It makes sense to me.”
+> “The only expectation was that it was reduced from what others were doing so it is easier to process if over 50%. It was done quicker. So I went from 6 to 4 steps. It makes sense to me.”
 
 **Participants moved through the confirmation step without question or confusion**
 
@@ -98,9 +98,9 @@ Additionally, the updated Introduction page showed significant read-through comp
 
 > “I didn’t notice [that the alert is clickable] until you pointed it out.”
 
-> On the review page "I would really expect it to show something like a block that states I have a disability rating of 50 percent or higher. I would expect to see it here since I put that in."
+> On the review page "I would really expect it to show something like a block that states I have a disability rating of 50% or higher. I would expect to see it here since I put that in."
 
-> “Maybe that’s why I didn’t need tax or income. So if I am over 50 percent, maybe have it note that if you are over 50 percent…”
+> “Maybe that’s why I didn’t need tax or income. So if I am over 50%, maybe have it note that if you are over 50%…”
 
 
 ## Variation 2.2: Applying to health care benefits, 50% or higher disability rating is known at self-report at VA compensation question - updated alert design and messaging
@@ -111,7 +111,7 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 
 **The majority of participants felt like the alert set proper expectations**
 - All participants saw the alert, and felt positively upon seeing that they were on step 3 of 4. They expected that the remaining questions would simply be questions that the VA needs to confirm with them or that were not already on their record.
-> “Because I am over 50%, I am filling out a shorter application. It will be fewer healthcare questions because if you have 100 percent then you have provided a lot of information already. I know there are a lot of laws in place regarding eligibility for medical benefits based on ratings. For less than 50% they don’t have to give me everything, but since I am over 50 they are required by law.”
+> “Because I am over 50%, I am filling out a shorter application. It will be fewer healthcare questions because if you have 100% then you have provided a lot of information already. I know there are a lot of laws in place regarding eligibility for medical benefits based on ratings. For less than 50% they don’t have to give me everything, but since I am over 50 they are required by law.”
 
 > “When I saw 3 of 4 I was excited. I don’t think it had step of step when I first started it was just step 1 or 2 then changed to step 3 of 4 here.”
  
