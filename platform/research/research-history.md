@@ -14,6 +14,12 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ### Sept 2021
 
+#### Sept 1 - 16: Usability research of shortened form based on disability rating, Health Care application 10-10EZ
+*Caregiver team, Health care application (10-10EZ) Lead Researcher: Dené Gabaldón*
+- Number of participants: 14 Veterans
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Short%20form%20flow%20research)
+- List of keywords: Health care, application, forms, Introduction, shortened form
+
 #### Sept 10 - 16: GI Bill Comparison Tool Asynchronous Beta Testing
 *Education Applications, Lead Researcher: Jen Jones*
 - Number of participants: 19 VA Education Beneficiaries 
