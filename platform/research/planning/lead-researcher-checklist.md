@@ -62,6 +62,7 @@
   - Stakeholders 
   - 1/2 or full team design meetings
   - Your team meetings
+  - Weekly Design + Content + Research Sync meeting
   - Demo day 
 - [ ] Debrief with team on process and results
 - [ ] Reflect on about ways to improve/better qs to ask/other people to involve (WEEKLY) drawing parallel to design critique
