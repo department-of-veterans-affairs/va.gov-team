@@ -34,6 +34,9 @@ Refactor of operating status pages to pull facility status from system, rather t
 
 VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty 
 - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
+- This is out of compliance with design system
+- Need plan for management of existing content
+- Facilities team issue [#29771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29771)
 
 Featured stories
 - [KB article](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
