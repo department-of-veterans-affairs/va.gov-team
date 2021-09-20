@@ -43,7 +43,7 @@ The [content_build](https://github.com/department-of-veterans-affairs/content-bu
 
 ### React Build
 
-The React application(s) structure is still to be determined.  An SDK will be created to abstract the API from the front-end developers.  A reference application will also be supplied showing best practice implementations of the Content API.
+The React application(s) structure is still to be determined.  An SDK will be created to abstract the API from the front-end developers.  A reference application will also be supplied showing best-practice implementations of the Content API.
 
 Possible structure of React applications.
 
@@ -60,7 +60,7 @@ Another architecture where each appliation is separate and uses a shared SDK and
 
 ### CMS Assets
 
-Drupal will send the file assets to a public S3 public.  File assets include Drupal media entities but not js/css.  
+Drupal will send the file assets to a public S3 bucket.  File assets include Drupal media entities but not js/css.  
 
 The asset file names will be versioned based upon the entity id and entity revision_id.  This will ensure uniqueness with files and allowing the editors to publish new files to s3 without updating existing images.
 
