@@ -136,33 +136,58 @@ Any outstanding work from 51 plus:
 ## Sprint 54 (8/11 - 8/24)
 [Sprint 54 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27160)
 
-### My VA - Action Items Discovery
-**Design/Research**
-- Recruit for and run research
 
 ### Notification preferences
-
-**PM**
-- Test case documentation updates
-- Analytics request
-- Submit Staging review request
-- Test with VA Notify and VA Profile
 
 **Design/Research**
 - Experiemental design submission
 - New design prototype and review internally
 - Documentation updates
-- Test with VA Notify and VA Profile
+
 
 **Frontend**
 - Continue build: radio button revisions and implementation
-- Testing with VA Notify and VA Profile
+
 
 **Backend**
 - Identity team work
 - VA Profile errors
-- Testing with VA Notify and VA Profile
 
+### My VA
+**PM**
+- 508 office review requested
+
+**FE**
+- Resolve findings from a11y to submit request for 508 review
+
+
+### Action Items Discovery
+
+**Design/Research**
+- Prep research materials
+- Recruit for and run research
+
+### Backend
+- Identity team support
+- Profile backlog items
+
+### Profile
+- Implement improved "remove" contact info functionality
+
+_Unplanned_
+### Direct Deposit
+Team assisted with response to incident on DD
+
+**Design/Research**
+- Alert for reactivated DD in limited capacity
+
+**Frontend*
+- Disable DD temporarily
+- Reactivate DD in limited capacity
+
+**Backend**
+- Disable DD temporarily
+- Reactivate DD in limited capacity
 
 
 ## Sprint 55 (8/25 - 9/7)
@@ -171,10 +196,9 @@ Any outstanding work from 51 plus:
 ### Notification preferences
 
 **PM**
-- Test plan request
-- Product guide updates
+- Test case documentation updates
 - Internal testing
-
+- Test with VA Profile
 
 **Design/Research**
 - Design solution to return users to task (updating preferences)
@@ -182,8 +206,12 @@ Any outstanding work from 51 plus:
 - Internal testing
 
 **Frontend**
-- Complete build
+- Continue/Complete build
 - Address any findings from internal testing/testing with VA Profile
+
+**Backend**
+- Test with VA Profile
+
 
 ### Action Items Discovery
 
@@ -195,6 +223,9 @@ Any outstanding work from 51 plus:
 **Frontend**
 - cleanup work as needed/capacity allows
 
+### Backend
+- Caregiver team support
+- Profile backlog items
 
 
 ## Sprint 56 (9/8 - 9/21)
@@ -203,14 +234,25 @@ Any outstanding work from 51 plus:
 ### Notification preferences
 
 **PM**
-- QA go/no
-- QA
+- Test case documentation updates
+- Test plan request
+- Internal testing
+- Analytics request
 
 **Design/Research**
-- TK
+- Internal testing
+- Resources and support page for notification prefs feature
 
 **Frontend**
-- Respond to QA findings
+- Continue/complete build
+
+### Profile
+
+**Design/Research**
+- Improve alert UX throughout profile 
+
+**Frontend**
+- Profile cleanup/improvements and a11y tickets
 
 ### Action Items Discovery
 
@@ -218,7 +260,22 @@ Any outstanding work from 51 plus:
 - MVP scope discussions
 
 **Design/Research**
+- Present research summary
 - MVP scope discussions
+
+### Backend
+- Caregiver team support
+- Profile backlog items
+
+### General
+
+**PM**
+- Dependent user role product outline
+
+**Research/Design**
+- Auth exp best practices research phase 2
+
+
 
 ## Sprint 57 (9/22 - 10/5)
 [Sprint 57 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28592)
@@ -226,6 +283,15 @@ Any outstanding work from 51 plus:
 ### Notification preferences
 
 **PM**
+- Test case documentation updates
+- Analytics request
+- Submit Staging review request
+- Test with VA Notify and VA Profile
+- Test plan request
+- Product guide updates
+- Internal testing
+- QA go/no
+- QA
 - Staging review
 
 **Design/Research**
