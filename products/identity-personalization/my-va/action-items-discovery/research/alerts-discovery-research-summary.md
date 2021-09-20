@@ -76,7 +76,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 5. Users want their alerts in reverse chronological order (most recent at the top).
 6. All users easily understood and liked the term 'Alerts' after they saw it.
 7. Users want the ability to see old/expired alerts.
-8. Most users want to be able to visually differentiate between old and new alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).
+8. Most users want to be able to visually differentiate between read and unread alerts. 4 out 8 participants expected anything that is time-sensitive and expired to 'disappear' all together (e.g. an appointment that has passed).
 9. 5 out of 8 users mentioned perceiving the categories of alerts would be helpful (like on the homepage or on My VA). 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page. This included the ability to filter alerts by category or date.
 
 #### Alerts section on My VA
