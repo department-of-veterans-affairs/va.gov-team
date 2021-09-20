@@ -139,7 +139,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/session-notes
 
 ### Tools used for Synthesis
-[Notes Matrix]()  
+[Notes Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/dependency-verification/research-design/usability-testing-1/Dependency_Verification_Notes_Matrix%20(1).xlsx)  
 
 ### Pages and applications used
 [View dependents on staging.va.gov](https://staging.va.gov/?next=%2Fview-change-dependents%2Fview)
