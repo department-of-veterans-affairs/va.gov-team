@@ -238,6 +238,7 @@ Team assisted with response to incident on DD
 - Test plan request
 - Internal testing
 - Analytics request
+- End to end testing with VA profile, VA Notify and Vetext
 
 **Design/Research**
 - Internal testing
