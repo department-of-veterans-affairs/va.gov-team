@@ -24,7 +24,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 - - - 
 
 Overall, both the pre-populated and self-reported short form flows were usable, understood, and did not create a barrier for form completion. The majority of the research participants expressed that they were positively surprised by how short and easy the application was (with these short form flows). During the research, we updated the design of the self-reported short form alert, this showed improved visibility of the alert that resulted in greater awareness and time expectation of the short form.
-Additionally, the updated Introduction page showed significant read-through completion improvement from our Discovery research conducted in May of 2021. The majority of participants read the majority of the Introduction page without being prompted and were able to accurately state what documents they needed in order to complete the application. 
+Additionally, the updated Introduction page showed significant read-through completion improvement from our [Discovery research conducted in May of 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research/research%20findings.md). The majority of participants read the majority of the Introduction page without being prompted and were able to accurately state what documents they needed in order to complete the application. 
  
  
 # Initial Findings
