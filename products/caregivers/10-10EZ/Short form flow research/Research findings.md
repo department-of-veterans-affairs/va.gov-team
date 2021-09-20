@@ -38,7 +38,7 @@ Flows:
   - Male: 10
   
 - Device used during study:
-  - Tablet:3
+  - Tablet: 3
   - Desktop or laptop: 11
 
 - Age:
