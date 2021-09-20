@@ -23,5 +23,8 @@ Will all of our known "pre-QA" findings be resolved by end of sprint?
 Have we received sign-off on IA?
 - 
 
+Have we tested with our partners on VA Profile and VA Notify and VeText?
+-
+
 Have we received approval on all content/copy?
 - 
