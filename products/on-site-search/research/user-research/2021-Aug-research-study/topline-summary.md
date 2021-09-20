@@ -25,7 +25,7 @@ Participants were asked to do 3 tasks:
 1. See if you can get any college credit for your military service. (Site search doesn't return relevant results, but Resources & Support does--article "How do I get college credits for my military service?")
 
 ## Participants
-We talked to **7** Veterans and showed them all the desktop version of the prototypes:
+We talked to **7 Veterans** and showed them all the desktop version of the prototypes:
 - 5 on a desktop/laptop computer 
 - 2 on a tablet (iPad)
 
@@ -36,7 +36,7 @@ We wanted half of the participants to join via smartphone so they could test the
     1. Many participants didn't notice the search tool links on the search landing page at first because they were laser focused on finding a search box to use and didn't scroll down below it.
     1. Many participants didn't scroll down far enough on the search results page at first or ever to notice the search tool links at the bottom
 
-Design Concept | # of Participants (out of 7) who used it
+Design Concept | # of Participants (of 7) who used it
 ---------------|-----------------------------------------
 Search tool links on new search landing page | 5
 Search tool links on search results page | 4
