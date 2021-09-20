@@ -87,7 +87,7 @@ Additionally, the updated Introduction page showed significant read-through comp
 
 **Some participants were confused about the step numbers and why the number changed upon entering into the short form**
 - With this version many participants noticed that the steps changed from “Step 2 of 6” to “Step 3 of 4.” They all assumed this was due to the short form, but were not exactly sure. Many also expressed that the steps were unclear because there were so many questions on step 1 and only one question in step 2.
-> "This page changed, it's like stepping out of the process. Okay then wow we ended up on step three. Well I guess it found that because I have a higher disability it didn’t need to go to step 2."
+> "Okay then wow we ended up on step three. Well I guess it found that because I have a higher disability it didn’t need to go to step 2."
 
 > "Why am I clicking so much to stay on step 1. I have clicked 5 times."
 
