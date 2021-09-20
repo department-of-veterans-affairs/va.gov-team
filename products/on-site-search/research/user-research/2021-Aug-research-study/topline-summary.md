@@ -20,13 +20,14 @@ The purpose of this research is to get user feedback on the following new design
 1. New links at the bottom of the search results page go to other search tools
 
 ## Participants
-We talked to **X** Veterans on a variety of devices:
-- X on a desktop/laptop computer 
+We talked to **7** Veterans and showed them all the desktop version of the prototypes:
+- 5 on a desktop/laptop computer 
 - 2 on a tablet (iPad)
-- Z on an iPhone  
+
+We wanted half of the participants to join via smartphone so they could test the mobile version of the prototypes, but none of the recruited mobile users showed up or used their phone for the session. We declined to extend the research sessions beyond the allotted time to try to recruit more mobile users.
 
 ## Findings
-overview
+1. Some participants made use of the new design concepts, but still all participants but one got stuck anyway.
 
 ### ABC Issues 
 1. For Z of X participants, 
