@@ -60,3 +60,4 @@
 | 58 | [Can I get a loan through my VA life insurance policy?](https://www.va.gov/resources/can-i-get-a-loan-through-my-va-life-insurance-policy/) | Life insurance | 8/3/21 |  | 
 | 59 | [Ask VA replaces IRIS and the GI Bill Help Portal](https://www.va.gov/resources/ask-va-replaces-iris-and-the-gi-bill-help-portal/) | Education | 9/17/21 |
 | 60 | [Your intent to file a VA claim](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) | Disability | 9/17/21 |
+| 61 | [How your reason for withdrawing from a class affects your VA debt](https://www.va.gov/resources/how-your-reason-for-withdrawing-from-a-class-affects-your-va-debt/) | Education | 9/17/21 |
