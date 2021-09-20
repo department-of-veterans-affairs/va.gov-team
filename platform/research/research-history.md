@@ -19,7 +19,7 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants: 19 VA Education Beneficiaries 
 - [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/redesign/research/beta-testing)
 - List of keywords: GI Bill Comparison Tool, GIBCT, beta testing, asynchronous, education benefits, search, compare, profile page, mobile
-- 
+
 
 ### August 2021
 
