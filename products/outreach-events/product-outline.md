@@ -67,16 +67,19 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
 
   - VEO, the business "owner" of Outreach and Events Hub, has extended content edit capability and rights to leads in other VACO digital comms teams [as outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md)
 
-## Screenshots of Representative Events Calendars
-  
-**AARP**
-  
-  <img width="969" alt="Screen Shot 2021-07-28 at 12 50 18 PM" src="https://user-images.githubusercontent.com/63107147/127363797-d39057d4-171a-42d8-977e-4a2787d44384.png">
+## Screenshots of Discovery Mockups for Filtering / Recurring Events
 
-**TheEventsCalendar.com (WordPress Plug In)** - https://demo.theeventscalendar.com/
+**Mock up with images**
   
-<img width="859" alt="Screen Shot 2021-07-28 at 12 54 39 PM" src="https://user-images.githubusercontent.com/63107147/127364295-652dcc77-e239-4ed8-8535-6f6b037b9cc6.png">
+![134037706-83f21258-479d-418c-8f02-dc5f3c7cae0d](https://user-images.githubusercontent.com/70410912/134214952-33ac9931-88bb-41fc-8632-410ba9816487.png)
 
+**Mock up without images**
+  
+![134030092-bea6d15e-9819-4c1c-ae6c-6980737e2fd4](https://user-images.githubusercontent.com/70410912/134215317-dcb1330f-9150-4dc4-8769-5f016b372075.png)
+
+**Desktop Mockup**  
+  
+![133822603-24a66c6e-d932-4202-916e-f85cc2e771d5](https://user-images.githubusercontent.com/70410912/134216423-3e519d80-0b53-4a15-a9d0-f90682b8e367.png)
 
 ## Status 
 
