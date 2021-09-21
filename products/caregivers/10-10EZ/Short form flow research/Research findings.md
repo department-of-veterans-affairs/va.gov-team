@@ -180,7 +180,7 @@ The research questions we sought to address:
 
 > "Okay then wow we ended up on step three. Well I guess it found that because I have a higher disability it didn’t need to go to step 2."
 
-> "Why am I clicking so much to stay on step 1. I have clicked 5 times."
+> "Why am I clicking so much to stay on step 1? I have clicked 5 times."
 
 
 ### Only about half of participants interacted with the "green accordion alert," and this resulted in some uncertainty as to what information was skipped
