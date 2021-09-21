@@ -64,7 +64,8 @@ garden-video.png
 ## If you use the Videos API endpoint:
  - will retrieve all videos (that would be listed in the tab), not just the singular one we feature on the hosted results page. 
  - 
-
+## Exploring YouTube API - 
+https://developers.google.com/youtube/v3/getting-started
 
 ## Recommendations & Next Steps
 
