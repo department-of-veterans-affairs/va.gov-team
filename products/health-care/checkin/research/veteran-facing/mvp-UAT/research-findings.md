@@ -1,7 +1,7 @@
 # Martinsburg Research Visit Discovery Readout
 - Updated: September 20, 2021
 - Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
-- [Downloadable PDF]()
+- [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-UAT/research-findings.pdf)
 - [Photos from the visit]()
 
 ## Background and Goals
