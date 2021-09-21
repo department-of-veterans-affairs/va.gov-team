@@ -127,7 +127,7 @@ All work should be validated either in staging or production, as defined by the 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 
-### ** Our Workflow + Meeting Cadence**
+### **Meeting Cadence**
 |**Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |
 |-----------------------|------------------------------|------|------------------|-----------------|
 |*Stand-Up*               |Daily @ 10:00am ET |15 mins         | *Monday, Tuesday & Thursday*: [Zoom](https://zoom.us/j/3399042357) Wednesday & Friday: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any impediments?|
