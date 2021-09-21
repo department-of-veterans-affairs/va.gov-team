@@ -5,27 +5,6 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 
 ### Objective-driven Roadmap
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 3.193 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β31
-* Tue Sep 21 2021 10:48:20 GMT-0700 (PDT)
-* Source doc: Mobile Outcome Roadmap
-* Tables are currently converted to HTML tables.
------>
-
 
 
 <table>
@@ -172,6 +151,8 @@ Conversion notes:
 <li>Information Architecture refinements
 
 <li>Dark Mode
+
+<li>Demo Mode
 </li>
 </ul>
    </td>
@@ -420,6 +401,7 @@ Simplified:
 * Localization (languages, number and date formatting)
 * Overall app redesign (preparing for native)
 * Patient check in?
+
 
 ### Milestones for Now
 
