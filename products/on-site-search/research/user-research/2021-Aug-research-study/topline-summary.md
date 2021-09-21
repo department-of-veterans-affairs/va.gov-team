@@ -29,7 +29,7 @@ We talked to **7 Veterans** and showed them all the desktop version of the proto
 - 5 on a desktop/laptop computer 
 - 2 on a tablet (iPad)
 
-We wanted half of the participants to join via smartphone so they could test the mobile version of the prototypes, but none of the recruited mobile users showed up or used their phone for the session. We declined Perigean's offer to extend the research sessions beyond the allotted timeframe to try to recruit more mobile users. One of our pilot testers used a smartphone for the research session, so we have a bit of feedback from that one Veteran.
+We wanted half of the participants to join via smartphone so they could test the mobile version of the prototypes, but none of the recruited mobile users showed up and used their phone for the session. We declined Perigean's offer to extend the research sessions beyond the allotted timeframe to try to recruit more mobile users. One of our pilot testers used a smartphone for the research session, so we have a bit of feedback from that one Veteran.
 
 ## Findings
 1. **All of the new design concepts were used** by at least 2 of 7 research participants to complete tasks (see table below). 
