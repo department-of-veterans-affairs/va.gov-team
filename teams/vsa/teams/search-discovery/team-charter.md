@@ -134,7 +134,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 |*Sprint Planning*        |1st Wednesday of every sprint  @ 2:00pm ET|30 mins with PO + 30 mins as needed with team| [Zoom meeting](https://zoom.us/j/3399042357)|Outline team and member focus, goals for sprint.
 |*Retro*                  |Last Tuesday of every sprint @ 3:30pm ET | 30 mins|[Zoom meeting](https://zoom.us/j/3399042357)| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
 |*Grooming* | 2nd Thursday of every sprint, @ 11:00am ET|30 mins |[Zoom meeting](https://zoom.us/j/3399042357)|Assess and update workload for remainder of sprint|
-|*Team Working Sessions* | Twice a week, Wednesday @ 2:30-3:00 & Friday @ 11:30am-noon  ET|30 mins |[Zoom meeting](https://zoom.us/j/3399042357)|Opportunity for the team to connect and work through challenges. No set agenda. Cancelled/shorted if needed|
+
 
 
 
