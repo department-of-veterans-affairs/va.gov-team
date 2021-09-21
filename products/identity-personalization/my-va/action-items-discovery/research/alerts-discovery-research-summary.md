@@ -295,7 +295,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Prioritization
 
 1. Explore ways to differentiate between things that need action vs things that do not need action within our technological constraints
-2. Either do a card sort or another round of research around prioritization to understand what Veterans deem 'time-sensitive'
+2. Launch prioritized alerts with an educated guess based on the criteria that users mentioned (time-sensitive and/or an unexpected problem)
+3. Learn more about prioritization! I recommend doing a card sort to make sure we’re on the right track as well as setting up parameters in Google Analytics after we launch
+
 
 ## Next Steps
 
@@ -317,30 +319,27 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Work with the appropriate parties to get it implemented
 
 ### Figure out what alerts should be included based on other initiatives (and how to include them)
+   - [ ] This provides a platform for other teams to interface with - we want to connect! We need to figure out how.
    - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
    - [ ] Outline each initiative and determine technological restraints
 
-### Old vs. new alert (*might NOT be in MVP)
-   - [ ] Determine what it means for an alert to be 'old' vs 'new'.
-   - [ ] Do a technical discovery to figure out if it's feasible to include in MVP or at all.
-   - [ ] Do a comparative analysis on the best ways to show this
-   - [ ] Explore ways to reflect that in the design
+### Implement section design considerations   
+   - [ ] Implement designs to differentiate between sections of alerts (e.g. health care vs. covid reminder)
+       - [ ] Outline what each section is and what it includes
 
-### Section design considerations
-   - [ ] Outline what each section is and what it includes
-   - [ ] Explore design solutions for making the page more scannable
-   - [ ] Explore design solutions for making it easier to differentiate between one an alert in one section vs another
-
-### Add in the ability to sort (*might NOT be in MVP)
-   - [ ] Do a technical discovery to determine the lift of this feature
-
-### Redesign the alerts section on My VA
-   - [ ] Explore ways to represent alerts on My VA 
+### Restructure the Alerts section on My VA
+   - [ ] Restructure the alerts section to better reflect what already exists in My VA by only elevating ‘action item’ alerts and prioritizing the link to ‘View all’
 
 ### Prioritization
-   - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification' 
+   - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification'
+   - [ ] Differentiate action items and notifications
    - [ ] Run a card sort to determine which alerts qualify as time sensitive or an unexpected problem
-   - [ ] Explore ways to differentiate from a design and UX standpoint
+
+### Deprioritize read vs unread alerts for MVP 
+   - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
+
+### Deprioritize adding in the ability to sort for MVP
+   - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
 
 ### Start the collab cycle
    - [ ] Once we've made the changes outlined above, then we should start a formal collaboration cycle
