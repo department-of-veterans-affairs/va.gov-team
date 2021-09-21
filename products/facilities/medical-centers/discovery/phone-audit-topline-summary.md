@@ -26,7 +26,8 @@ UX Audit of Veteran facing phone numbers - health care focus
 
 ### Key Findings
  
-- Multiple phone labels co-exist within the VA.gov ecosystem that have similar sounding names, without clear purpose, and therefor not easy to differentiate.
+- Multiple phone labels co-exist within the VA.gov ecosystem that have similar sounding names, some without a clear purpose. Research is needed to understand if Veterans can differentiate them. In adition, some of these labels may not be relevant in all locations. 
+    - Main phone
     - 24-hour nurse
     - Primary care call center
     - Telephone care 
@@ -34,15 +35,33 @@ UX Audit of Veteran facing phone numbers - health care focus
     - VA health benefits hotline
     - My HealtheVet help desk
     - Health care benefits
+    - Telephone assistance service (how VA benefits hotline is described when calling)
+
+
+- Phone numbers within health systems are distributed among many different sections and subpages forcing a user to browse and click around to understand the VA's organizational system to then locate a phone number rather than see a contralized listing of numbers first with an option to click for more. There's no way to easily see all the phone options to compare them nor does the site offer a way to search or filter among them. This information architecture may confuse users as to what is a national vs a location/system specific phone number and in worse cases tax users with cognitive disabilities. Some examples of places where numbers, though not exhaustive:
+    - Global: Contact us
+    - Global: Helpful VA phone numbers
+    - System: Contact us 
+    - System: Contact us / Pharmacy
+    - System: Make an appt
+    - System: Register for care
+
 
 - Phone numbers are inconsistently labeled across VA.gov, VAMC pages and even within a health system
-  - Some examples:  
+  - For example:  
     - Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line 
 
-- When and how a "toll free" number gets listed is inconsistent across VA.gov
-    - Sometimes both numbers are offered, "Call 352-374-6105 or 800-349-9457"  
-    - Sometimes options are labeled, "Toll free: #, Local: #"
+- When and how a "toll free" number gets listed is inconsistent across VAMC pages
+    - Sometimes both numbers are offered under a single label, "352-374-6105 or 800-349-9457"  
+    - Sometimes options are sub-labeled, "Toll free: #, Local: #"
+    - Sometimes options are sub-labeled, "Direct:"
+    - Sometimes options are not sub-labeled
 
+Recommendations:
+- Revise naming of vague labels to be more obvious, e.g. Telephone care. 
+- Health System Contact us page:
+    - Consider making it easier for the Veteran to easily scan top phone numbers by surfacing them on this page like the national contact us page does with a table
+    - ![image](https://user-images.githubusercontent.com/4960080/134192423-e0186435-7da7-4bba-bd4c-2b8e4d8d4946.png)
 
 
 ### Additional questions
