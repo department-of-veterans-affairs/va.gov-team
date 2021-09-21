@@ -41,7 +41,7 @@ Link to product outline: [Notification Preferences product outline](https://gith
 * **Instructions to access in Staging** 
   1. Log in to staging using test user 42 or test user 202 ([creds](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
   2. Navigate to Profile > Notification settings page
-  3. Health-care section will not be displayed.
+  3. Health care section will not be displayed.
 
 ## Use Case C: Health care with Rx tracking
 
