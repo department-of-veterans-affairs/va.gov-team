@@ -9,7 +9,7 @@ Reference mockups are available [here.](https://www.sketch.com/s/9a70f4c7-68f8-4
 
 ### Intro Page
 
-- Change green button to action link
+- [ ] Change green button to action link
 
 ### Tool Pages
 
