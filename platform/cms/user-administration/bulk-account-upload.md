@@ -7,7 +7,7 @@
 6. For the sections, enter the complete section name. For multiple sections, separate them with a comma and put quotes at the beginning and end of that field.
 7. Go to the next line and repeat with each new account.
 8. Save the file as a .csv
-9. Open the prod environment.
+9. Open the training environment.
 10. Click Manage.
 11. Hover over Structure.
 12. Click Migrate Source UI.
@@ -15,7 +15,7 @@
 14. Click Migrate.
 15. If you get any red error messages after upload, fix those errors for each account that failed. The most common error is a username with a space at the end of the email. 
 16. Repeat upload instructions for any accounts that failed or fix the account directly in prod.
-17. Open the training environment and repeat upload instructions (since training environment is only refreshed once a week).
+17. Open the prod environment and repeat upload instructions (since training environment is only refreshed once a week).
 
 ## Example
 username,roles,sections<br>
