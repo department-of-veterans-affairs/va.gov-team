@@ -1,8 +1,7 @@
 # Martinsburg Research Visit Discovery Readout
-Updated: September 20, 2021
-Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
-
-[Downloadable PDF]
+- Updated: September 20, 2021
+- Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
+- [Downloadable PDF]()
 
 ## Background and Goals
 
@@ -74,3 +73,113 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 - “It’s going well.” - MSA
 - “Staff love it. Love that it is a system that the MSAs already use.” - Administration
 - “Couple of patients didn’t bother with it. Some don’t have smartphones.” - MSA
+
+**The pilot had minimal impact to the MSA’s workflow.**
+
+- “It is still close to previous workflow.”
+  - Already used VSE GUI
+  - Still logs into VistA to timestamp that contact information is up-to-date
+  - Uses ICB to update insurance
+  - Communication with clinicians hasn’t changed; they still utilize Teams.
+- MSA finds this to be “fun.”
+- Net Promoter Score: 100
+    - Total % of promoters - total % of detractors = net promoter score
+    - NPS can be used over time to see fluctuations in the experience, but will not be the only user experience metric evaluated. Using only in conjunction with qualitative questions.
+    - Only one staff data point so far.
+    - Ranked 8 or 9. Didn’t want to give it a 10 “because it is so new.” Counting as a 9, which equals a Promoter.
+
+**The MSA still talked to most Veterans who came through the door.**
+ 
+- Reasons for this interaction
+  - to promote the Veteran’s participation in the pilot
+  - to complete pre-registration
+    - Pre-registration consisted of asking one question
+      - “Do you need to update any of your contact information?”
+        - Sometimes examples of what was meant by “contact information” was provided.
+      - 2 Veterans did ask follow-up questions to the contact information question. 
+        - Is the address you have, X?
+        - Do you have the X phone number?
+    - No Veterans required an insurance review  on this day
+      - MSA checked ICB in the morning to see who needed a review.
+  - the physical space is very small and there isn’t a lot of traffic in this clinic
+    - It would almost be weirder for staff to not acknowledge the Veteran, because the space is so small.
+    - This also mimics their pre-COVID workflows. If a Veteran did check in with the kiosk, they still had the Veteran wave to let them know they were here. They just didn’t ask pre-registration questions if the Veteran utilized the kiosk.
+
+**If a Veteran has multiple appointments on a particular day within one clinic, there is interest in checking them in for all of those appointments at once.**
+
+- This idea came from the MSA participants.
+- When a Veteran checks in in-person, MSAs currently check them in for all appointments within the clinic. 
+- Two examples given were:
+  - Nurse triage appointments, which occur immediately before the actual appointment with the provider
+  - Within the physical medicine clinic, patients can have physical therapy, occupational therapy, and/or chiropractic appointment back-to-back.
+
+### Pilot Feedback and Observations - Veterans
+
+**Feedback from the Veterans and caregivers, who attempted mobile check-in, was positive.**
+- “That is easier than waiting in line...not having to touch a kiosk is a good thing.” - Caregiver
+- 5 out of 8 attempted mobile check-in. 
+  - 3 Veterans didn’t have smartphones.
+  - Of those who attempted mobile check-in, 4 out of 5 were “successful.” 
+    - One abandoned once they got to the VA.gov portion and saw that there were additional questions to fill out. “This is too much.”
+    - One of the successes was they tried to check-in too late. 
+    - 2 “successful” check-ins were completed by caregivers.
+- NPS: 100 (2 Veterans gave it a 10).
+
+**2 out of 5 needed assistance texting or scanning the QR code.**
+- 1 Veteran needed guidance/instructions on how to send a text message.
+- 1 Veteran successfully brought up their iPhone camera and scanned the QR code. However, they misclicked the link to create the text message and became confused on what to do next.
+- This supports additional findings from the [Phase 2 usability study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/phase2-usability).
+
+**All participants started to put their phone in their pockets or paused after texting “check in,” because the SMS link took a while to return.**
+- MSA noticed this similar trend on other days as well. 
+- There was a lot of verbal instructions to notify Veterans/caregivers that a link would appear.
+
+### Pre-registration
+
+**It is important to have up-to-date pre-registration information for the following reasons:**
+- **Sending medications to the correct location**
+- **“Patient safety”**
+- **Accurate beneficiary travel calculations**
+- **Wellness checks**
+- **If needed, responders are deployed to the correct address.**
+- **Knowing who the primary next of kin is.**
+- The accuracy of beneficiary travel is a big concern. Martinsburg spends 1.6 million a year on beneficiary travel. They spend a lot of bad postage, pharmacy, and police.
+- No official metric mandated like insurance capture, but it is “supposed to be 100% and done at every appointment.”
+  - Says Martinsburg has around a 90-95% successful pre-registration rate.
+
+**Pre-registration is mostly thought of as the review of address, phone, email, emergency contact and next of kin information.**
+- Insurance review is thought of as a related, but somewhat separate review.
+  - While staff explicitly stated that they were two different things, only administrators expanded to explain why. 
+    - Their one reason why was the gap that happens with beneficiary travel. 
+      - Veterans claim they live somewhere that they don’t. 
+    - Based upon things brought up during the interviews, we believe other reasons are:
+      - updates being entered into two different system (VIstA and ICB)
+      - different timetables for the review
+        - Insurance every 6 months and contact information every appointment
+      - reports and metrics mandated for insurance are more universal/standardized.
+- When asked to prioritize the addition of pre-registration versus insurance in the mobile check-in product, all administrators and supervisors picked pre-registration.
+  - When reviewing the pre-registration prototype, all staff agreed the information being reviewed was the most important (even with emergency contact and next of kin not being reviewed).
+- Suggested additions or changes.
+  - Temporary address (because there are a lot of snowbirds)
+  - If the Veteran has an advanced directive, do they have any updates to it? - from the MSA supervisor.
+  - The administrators were a little concerned that we weren’t having Veterans explicitly confirm each piece of data. Radio button next to each.
+  - They also want the back button removed from the next page if a Veteran says that they need to update their information. 
+    - They don’t want Veterans taking the “easy way” and changing their answer, in order to avoid talking to the MSA to update information.
+  - Administrators thought both emergency contact and next of kin should be reviewed.
+- Address changes are dealt with differently when they come through the beneficiary travel digital versus paper form.
+  - If the addresses don’t match between a digital travel submission and what is in VistA, they go with the VistA address.
+  - If a paper form is submitted and the addresses don’t match, then they investigate.
+
+**Tracking and reporting on pre-registration changes is very important to administrators and could be improved.**
+- Trainers at Martinsburg currently instruct MSAs to only update demographic information in VistA, since it is the only place that date/time stamps re-registration and lists who did the update.
+  - It is also done in VistA, so updates can be seen when a Veteran is admitted to the hospital.
+- Administrators are interested in tracking 
+  - if pre-registration has been updated or not
+  - who completed the updates
+    - Tracking who completed the pre-reg updates has been helpful when researching any problems that arose.
+- Pre-reg report in BISL (Business Intelligence Service Line) is rarely populated with data, but has fields that administrators are interested in.
+  - The BISL report (BISL- SCHEDUAD>SATReports>Appointment List_V02) was actually discussed for all check-in reporting and not just pre-registration.
+
+### Things MSAs want/need to be notified about check-in (Staff indicators)
+
+
