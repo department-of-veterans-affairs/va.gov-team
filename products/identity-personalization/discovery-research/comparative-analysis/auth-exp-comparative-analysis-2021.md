@@ -53,6 +53,7 @@ Research Questions
             -   Should private sector data be included in public sector transactions? If so, how?
             -   Digital governments must know the needs, motivations, preferences and pain points of their “customers.” They also must own and shape the entire “customer” experience. Ultimately, providing a personalized experience requires digital governments to achieve a higher level of sophistication at every level and in every aspect of their operations — and to apply that standard consistently across thousands of citizen touch points.
 -   Recommendation: be transparent about how we use information or "know" things about Veterans. Use this transparency to build and maintain trust
+    -   GOV.uk "because you said" model
 -   
 
 1.2 Do sites use "My" or "Your" equally or is one more prevalent than another?
@@ -126,9 +127,19 @@ Coming soon.
 
 4.2 What information lives on a dashboard?
 
-### What are other governments doing?
+### 5. What are other governments doing?
 
+#### GOV.UK
 
+- Early stages of an account UX
+
+  - "Save and return" - prompting people to create an account after they have completed their task 
+  - Looking into single account UX across multiple government departments
+  - Targeting "whole problems" with personalized experience experiments:
+
+  > It’s made up of a series of complex transactions and pieces of guidance from lots of different parts of government.
+
+- Does not have a profile or dashboard UX at this time
 
 ## Appendix
 
