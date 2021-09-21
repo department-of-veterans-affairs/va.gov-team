@@ -341,6 +341,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Deprioritize adding in the ability to sort for MVP
    - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
 
+### Meet with the mobile team to discuss a title
+   - [ ] AJ will set up a meeting
+
 ### Start the collab cycle
    - [ ] Once we've made the changes outlined above, then we should start a formal collaboration cycle
 
