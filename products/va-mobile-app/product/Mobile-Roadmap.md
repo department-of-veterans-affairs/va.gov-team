@@ -124,8 +124,6 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 
 <li>PN for SM
 
-<li>UAT for new features 
-
 <li>SM refinements (ie email preferences, signature, Cerner)
 </li>
 </ul>
