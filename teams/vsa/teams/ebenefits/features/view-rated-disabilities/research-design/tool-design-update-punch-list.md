@@ -1,5 +1,5 @@
 # Rated Disabilities Tool Design punch list
-**VSA eBenefits Team | June 2021**
+**VSA eBenefits Team | June 2021, updated: September 2021**
 
 `Candy Clark, designer`
 
@@ -9,7 +9,7 @@ Reference mockups are available [here.](https://www.sketch.com/s/9a70f4c7-68f8-4
 
 ### Intro Page
 
-- No Change
+- Change green button to action link
 
 ### Tool Pages
 
