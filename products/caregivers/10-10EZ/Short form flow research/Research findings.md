@@ -245,8 +245,8 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 ## Additional Insights
 *  Some participants find the repeated Introduction (upon sign in) redundant and/or confusing
 *  Some participants think that since the form is digital and that they qualify for the short form that they will be enrolled upon submission of the application
-* Many participants expressed that they liked the “Need Help?” section was at the bottom of each page, especially that it suggests VSOs. Some said that they would utilize it
-* The majority of participants thought that they would receive a confirmation of application submission by email
+* Many participants expressed that they liked the “Need Help?” section is at the bottom of each page, especially that it suggests VSOs. Some said that they would utilize it
+* The majority of participants thought that they would receive a confirmation of application submission via email
 
 
 ### Hypotheses
@@ -299,4 +299,4 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 
 ### Other supporting documents created
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/research-plan.md)
-- [Research Findings Presentation PDF](
+- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/Short%20form%20flow%20research/Research%20Readout_%2010-10EZ%20Short%20form%20usability%20.pdf)
