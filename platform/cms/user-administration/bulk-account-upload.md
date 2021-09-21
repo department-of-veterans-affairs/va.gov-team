@@ -1,5 +1,5 @@
 ## Instructions
-1. Copy and paste the example into a text editor or spreadsheet (don't use Google Sheets as it messes up the formatting of multi-entry fields)
+1. Copy and paste the example below into a text editor or spreadsheet (don't use Google Sheets as it messes up the formatting of multi-entry fields)
 2. Keep the first row of field names as is.
 3. For each new account, enter a separate line and add a comma as a column separator.
 4. For the username, enter the VA email.
