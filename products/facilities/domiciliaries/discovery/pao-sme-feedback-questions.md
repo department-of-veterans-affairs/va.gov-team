@@ -12,5 +12,9 @@
 - Is it feasible for you to create/edit this page layout?
 - For different kinds of programs (dom PTSD, dom RRTP, etc.) does one overall program page make sense?
 
-### PAO/SME Interview
+### PAO/SME Interview (9/21/21)
+
+**SME:** Brandy Morrison (brandy.morrison2@va.gov), Eastern CO PAO
+
+**SME:** Dr. Mandy Rabenhorst-Bell (mandy.rabenhorst-bell@va.gov), Chief Psychologist, Eastern CO Domiciliaries
 
