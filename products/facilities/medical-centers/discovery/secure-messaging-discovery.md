@@ -37,7 +37,7 @@ Informational interview with secure messaging SME(s).
     - Secure messaging cannot be used for emergency or urgent communication
     - Health care teams are different, and Veterans and their team must agree on if, and how, they want to use secure messaging
     - Veterans can only communicate with health care teams they are authorized to communicate with
-    - Signinup with My HealtheVet, automatically grants access to secure messaging
+    - Signing up with My HealtheVet automatically grants access to secure messaging
     - Veterans can use secure messaging as a basic user, or as a premium member
     - Must be premium members to exchange PHI via secure messaging.
 
