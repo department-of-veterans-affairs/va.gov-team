@@ -29,6 +29,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### August 2021
 
+#### August 31: Check-in Research, Martinsburg Visit
+*Healthcare Experience, Lead Researcher: Kristen McConnell*
+- Number of participants: 8 Veterans, 2 caregivers, and 5 staff
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/mvp-UAT)
+- List of keywords: Veterans, appointments, check-in, staff members, text message check-in, digital check-in, medical appointments, contact information, insurance, pre-registration, staff notifications
+
 #### August 20-34: Alert/Action Items Discovery Research
 *Authenticated Experience, Lead Researcher: Tressa Furner*
 - Number of participants: 8 Veterans 
