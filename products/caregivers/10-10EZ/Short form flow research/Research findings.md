@@ -1,4 +1,4 @@
-# [DRAFT] Caregiver, Usability research of shortened form based on disability rating, Health Care application 10-10EZ research findings
+# Caregiver, Usability research of shortened form based on disability rating, Health Care application 10-10EZ research findings
 **Digital Services Veterans Affairs (DSVA), VSA, Caregiver Team**<br>
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 09/17/2021
