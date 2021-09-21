@@ -172,7 +172,7 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
   - If a paper form is submitted and the addresses don’t match, then they investigate.
 
 **Tracking and reporting on pre-registration changes is very important to administrators and could be improved.**
-- Trainers at Martinsburg currently instruct MSAs to only update demographic information in VistA, since it is the only place that date/time stamps re-registration and lists who did the update.
+- Trainers at Martinsburg currently instruct MSAs to only update demographic information in VistA, since it is the only place that date/time stamps pre-registration and lists who did the update.
   - It is also done in VistA, so updates can be seen when a Veteran is admitted to the hospital.
 - Administrators are interested in tracking 
   - if pre-registration has been updated or not
