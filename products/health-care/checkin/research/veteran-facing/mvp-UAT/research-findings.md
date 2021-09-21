@@ -226,9 +226,9 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 ### Pre-registration suggestions 
 - Implement pre-registration solution to support staff workflows.
 - Prioritization of pre-registration and insurance components
-  - Address, phone and email 
-  - Emergency contact and next of kin
-  - Insurance
+  1. Address, phone and email 
+  2. Emergency contact and next of kin
+  3. Insurance
 - Look into the need to incorporate temporary address and advance directive reviews in the future.
 - Look into how beneficiary travels rule about if there is a discrepancy in addresses might affect the check-in product.
 - Talk about administrators more to understand the best solutions for pre-registration reporting.
