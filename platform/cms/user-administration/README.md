@@ -39,7 +39,7 @@
 **Vet Center**
 - Person to contact for verification: Michelle Middaugh or Dave Conlon
 - How to reach them: Slack channel facility-support
-- Training required for prod account activation?no, but encouraged
+- Training required for prod account activation? no, but instructions for training are sent along with prod instructions
 - Reference: See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
 
 **Benefits hubs**
@@ -47,6 +47,9 @@
 - How to reach them: Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
 - Training required for prod account activation? No. (Public Websites team typically does their own training).
 - Reference: See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
+
+**Other products**
+- Slack delivery manager or product manager in CMS Team channel
 
 ----
 
