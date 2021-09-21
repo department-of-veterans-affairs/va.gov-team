@@ -151,7 +151,7 @@
 - Team Name: 
 - GitHub Label: #vsa-caregiver 
 - Slack channel: #vsa-caregiver
-- Product POCs: Alayna, Ming, Danielle T
+- Product POCs: Chris D, George C, Danielle T
 - Stakeholders: Lauren A, Dione D-L,/ Andrea S
 
 </details>
@@ -160,10 +160,10 @@
 
 <details>
  
- - DEPO Lead: Ming, Danielle
- - PM: Alayna
- - Engineering: Justin, Kevin
- - Research/Design: Dené
+ - DEPO Lead: George Chewning, Danielle Thierry
+ - PM: Chris Dyer
+ - Engineering: Patrick Ryll, James Childers
+ - Research/Design: Dené Gabaldón
  
 </details>
 
