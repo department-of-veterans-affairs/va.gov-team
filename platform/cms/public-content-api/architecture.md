@@ -10,6 +10,11 @@ The following is a high-level diagram showing the flow of HTML, content, and ass
 
 ![ContentAPI _ ContentApp - High Level](https://user-images.githubusercontent.com/121603/133799992-9f8975c1-be9c-4e63-ba51-0582e54b941c.png)
 
+This High level option include CloudFront as a CDN in front of the assets and CMS API
+
+![ContentAPI _ ContentApp - High Level w CloudFront](https://user-images.githubusercontent.com/121603/134172129-d25774ce-a729-46a3-ae73-bebab612b0c4.png)
+
+
 ### API Gateway
 
 The JSON response between Drupal and the React App will flow through an API Gateway. The API Gateway will be the only public exposure to the internet.  The API Gateway will provide a single entry point for any react applications and external systems integrating with the CMS.
