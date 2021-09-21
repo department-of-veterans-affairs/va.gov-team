@@ -284,25 +284,103 @@ Team assisted with response to incident on DD
 ### Notification preferences
 
 **PM**
-- Test case documentation updates
-- Analytics request
-- Submit Staging review request
-- Test with VA Notify and VA Profile
-- Test plan request
-- Product guide updates
-- Internal testing
 - QA go/no
+- Product guide updates
+- Test case documentation updates
 - QA
-- Staging review
 
 **Design/Research**
 - Address/respond to findings from staging review
+- Begin prepping UAT materials
 
 **Frontend**
 - Address/respond to findings from staging review
 
+### Profile
+
+**PM**
+- future IA discussions around My VA and Profile
+
+**Design/Research**
+- future IA discussions around My VA and Profile
+- Discovery around edit in place functionality
+
+**Frontend**
+- Remove SMS checkbox ASAP
+- A11y issues from backlog
+
+### Action Items
+
+**PM**
+- Define next steps with research & design
+
+**Research/Design**
+- Define next steps with PM
+
+### My VA
+
+**PM**
+- follow up on 508 office request
+
+**Frontend**
+- A11y issues from pre-508 office review
+
+### Backend
+- Identity team support
+- Profile backlog items
+
+### User Role Research - Dependent User Roles
+
+**PM**
+- Finish product outline for user role - dependent research
+
+
 ## Sprint 58 (10/6 - 10/19)
+[Sprint 58 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30184)
+
+### Notification preferences
+
+**PM**
+- Respond to any QA findings
+- Begin gathering materials for staging and privacy reviews
+
+**Design/Research**
+- Respond to any QA findings
+
+
+**Frontend**
+- Respond to any QA findings
+
+
 
 ## Sprint 59 (10/20 - 11/2)
+[Sprint 59 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30185)
+
+### Notification Preferences
+**PM**
+- Staging & privacy review requests
+- Respond to findings from staging & privacy review requests
+
+**Design/Research**
+- Address/respond to findings from staging review
+- Respond to findings from staging & privacy review requests
+
+**Frontend**
+- Respond to findings from staging & privacy review requests
+
 
 ## Sprint 60 (11/3 - 11/16)
+[Sprint 60 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30186)
+
+### Notification Preferences
+**PM**
+- UAT go/no-go
+- Assist with UAT as needed
+
+**Design/Research**
+- Recruit for & conduct UAT
+
+
+**Frontend**
+- Assist with UAT as needed
+- Respond to UAT findings
