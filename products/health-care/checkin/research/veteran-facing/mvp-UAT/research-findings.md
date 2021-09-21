@@ -2,6 +2,7 @@
 - Updated: September 20, 2021
 - Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
 - [Downloadable PDF]()
+- [Photos from the visit]()
 
 ## Background and Goals
 
@@ -182,4 +183,55 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 
 ### Things MSAs want/need to be notified about check-in (Staff indicators)
 
+**MSAs want indicators about things that they need to take action on.**
+- MSAs were interested in knowing:
+  - if a Veteran started check-in, but didn’t complete it. 
+    - This meant there was a Veteran that they needed to find, in order to finish check-in.
+  - if a Veteran successfully completed check-in, because they would need to notify the clinical staff (unless the mobile check-in system eventually handles this handoff).
+  - if a Veteran needed to update their contact information or insurance.
+    - There was interest in a long-term combined demographic and insurance indicator.
+- Even administrators suggested minimal indicators or notifications for front-line staff. They also wanted the focus on actionable statuses.
 
+**MSAs are interested in alerts, since the actions they must take are time sensitive.**
+- Due to the following reasons, MSAs want to be notified if a Veteran checks in.
+  - MSA can have up to 6-7 software applications open at any given time, so they aren’t always monitoring VSE-GUI.
+  - VSE GUI currently has only patient-centric views, so the MSA doesn’t have a view of what is happening across the clinic.
+  - Some MSAs oversee check-ins for more than one clinic.
+- When asked if a clinic view would solve this problem, the MSA said it would be helpful, but an alert that pops-up would be more helpful.
+  - Particularly when overseeing more than one clinic.
+
+### Clinic exploration for expansion
+
+**Suggestions from MSAs and Administrators**
+
+- Departments with good reception are in the front of the building
+  - Dental
+  - Urology
+  - Podiatry
+  - Cardiology
+- Additional suggestions from administration
+  - Transfer care management
+    - Veterans who recently transition from active duty
+    - Younger demographic
+    - Area has good reception
+  - Primary care #1 and #2
+    - Good reception
+  - Medical
+
+## Recommendations and Next Steps
+### Short-term changes to pilot
+- Explore ways to notice Veterans that they aren’t done checking in after texting “check in.” Let them know that a link will appear.
+- Think about ways to better guide Veterans through texting and scanning QR codes.
+
+### Pre-registration suggestions 
+- Implement pre-registration solution to support staff workflows.
+- Prioritization of pre-registration and insurance components
+  - Address, phone and email 
+  - Emergency contact and next of kin
+  - Insurance
+- Look into the need to incorporate temporary address and advance directive reviews in the future.
+- Look into how beneficiary travels rule about if there is a discrepancy in addresses might affect the check-in product.
+- Talk about administrators more to understand the best solutions for pre-registration reporting.
+
+### Things MSAs want/need to be notified about check-in (Staff indicators)
+- Work with the VSE-GUI team to transfer the knowledge gained about staff indicators.
