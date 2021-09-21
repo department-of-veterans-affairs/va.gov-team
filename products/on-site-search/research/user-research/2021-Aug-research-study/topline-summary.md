@@ -51,5 +51,5 @@ Search tool links on search results page | 4
     1. 2 of 7 participants got stuck in task 1; one of them eventually found *Find a VA Form* on the search results page. Successful participants found *Find a VA Form* on the search landing page (4 participants) or on the search results page (2).
 1. All 7 participants were **successful with task 2, although all but one didn't use any of the new design concepts** in the prototypes. They found *Find a VA Location* in the header (3 participants), in the wide blue button farther down the home page (3), or at the bottom of the search results page (1).
 1. **No participants expressed any surprise when the Search link in the header took them to the new search landing page**. They expected to see a search box, and that's exactly what they saw at the top of the search landing page.
-1. 5 of 7 participants said that they **typically use Google to find VA information**, and several said that they would verify the results to make sure that they came from a VA website or could be confirmed there.
+1. Most (5 of 7) participants said that they **typically use Google to find VA information**, and several said that they would verify the results to make sure that they came from a VA website or could be confirmed there.
 
