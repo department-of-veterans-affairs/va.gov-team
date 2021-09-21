@@ -91,7 +91,7 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 
 **The MSA still talked to most Veterans who came through the door.**
  
-- Reasons for this interaction
+- Reasons for this interaction:
   - to promote the Veteran’s participation in the pilot.
   - to complete pre-registration.
     - Pre-registration consisted of asking one question.
@@ -193,7 +193,7 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 - Even administrators suggested minimal indicators or notifications for front-line staff. They also wanted the focus on actionable statuses.
 
 **MSAs are interested in alerts, since the actions they must take are time sensitive.**
-- Due to the following reasons, MSAs want to be notified if a Veteran checks in.
+- Due to the following reasons, MSAs want to be notified if a Veteran checks in:
   - MSA can have up to 6-7 software applications open at any given time, so they aren’t always monitoring VSE-GUI.
   - VSE GUI currently has only patient-centric views, so the MSA doesn’t have a view of what is happening across the clinic.
   - Some MSAs oversee check-ins for more than one clinic.
@@ -220,7 +220,7 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 
 ## Recommendations and Next Steps
 ### Short-term changes to pilot
-- Explore ways to notice Veterans that they aren’t done checking in after texting “check in.” Let them know that a link will appear.
+- Explore ways to notify Veterans that they aren’t done checking in after texting “check in.” Let them know that a link will appear.
 - Think about ways to better guide Veterans through texting and scanning QR codes.
 
 ### Pre-registration suggestions 
