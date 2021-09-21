@@ -1,5 +1,5 @@
 # `Notification Preferences` QA Go / No Go 
-## `mm/dd/yyyy`
+## `9/27/2021`
 
 ## Decision: 
 
