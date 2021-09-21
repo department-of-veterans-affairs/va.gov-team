@@ -78,9 +78,9 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 **The pilot had minimal impact to the MSA’s workflow.**
 
 - “It is still close to previous workflow.”
-  - Already used VSE GUI
-  - Still logs into VistA to timestamp that contact information is up-to-date
-  - Uses ICB to update insurance
+  - Already used VSE GUI.
+  - Still logs into VistA to timestamp that contact information is up-to-date.
+  - Uses ICB to update insurance.
   - Communication with clinicians hasn’t changed; they still utilize Teams.
 - MSA finds this to be “fun.”
 - Net Promoter Score: 100
@@ -92,17 +92,17 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 **The MSA still talked to most Veterans who came through the door.**
  
 - Reasons for this interaction
-  - to promote the Veteran’s participation in the pilot
-  - to complete pre-registration
-    - Pre-registration consisted of asking one question
+  - to promote the Veteran’s participation in the pilot.
+  - to complete pre-registration.
+    - Pre-registration consisted of asking one question.
       - “Do you need to update any of your contact information?”
         - Sometimes examples of what was meant by “contact information” was provided.
       - 2 Veterans did ask follow-up questions to the contact information question. 
         - Is the address you have, X?
         - Do you have the X phone number?
-    - No Veterans required an insurance review  on this day
+    - No Veterans required an insurance review  on this day.
       - MSA checked ICB in the morning to see who needed a review.
-  - the physical space is very small and there isn’t a lot of traffic in this clinic
+  - the physical space is very small and there isn’t a lot of traffic in this clinic.
     - It would almost be weirder for staff to not acknowledge the Veteran, because the space is so small.
     - This also mimics their pre-COVID workflows. If a Veteran did check in with the kiosk, they still had the Veteran wave to let them know they were here. They just didn’t ask pre-registration questions if the Veteran utilized the kiosk.
 
