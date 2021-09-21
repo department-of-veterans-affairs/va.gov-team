@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-Our goal is to help veterans navigate to relevant content more quickly by providing them with typeahead suggestions that match their characters that they type. These suggestions will ideally offer relevant queries that they can select to surface up relevant results.
+Our goal is to help veterans navigate to relevant content more quickly by providing them with typeahead suggestions that match the characters that they type. These suggestions will ideally offer relevant queries that they can select to surface up relevant results.
 
 
 ## How It Works
