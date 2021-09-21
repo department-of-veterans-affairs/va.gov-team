@@ -4,6 +4,7 @@ about: For Check In Experience Front End Development Tasking
 title: '[FE]' 
 labels: vsa-healthcare-exp, frontend, HCE-Checkin, HealthExp - Planned 
 assignees: 'mdewey'
+pipeline: 'backlog'
 
 ---
 
