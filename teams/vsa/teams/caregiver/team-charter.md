@@ -32,12 +32,12 @@ Health Products
 ## Who we are
 
 ### Team Members:
-- DEPO Product Lead: Ming Ligh
+- DEPO Product Lead: George Chewning
 - DEPO Engineering Lead: Mike Chelen
 - Team Product Manager: Chris Dyer
 - UX/Research: Dené Gabaldón
-- Front-End Engineering: Dat Tran
-- Back-End Engineering: Daniel Nalbach
+- Front-End Engineering: Patrick Ryll
+- Back-End Engineering: James Childers
 
 ---
 
