@@ -304,6 +304,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
    - [ ] Create project outline 
    - [ ] Clearly define the goals of this project and MVP
+   - [ ] Clearly define the scope of MVP
    - [ ] Work with team to figure out what should or should not (or can and cannot) be included in MVP
 
 ### Understand each alert in MVP
