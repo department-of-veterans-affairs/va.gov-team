@@ -25,12 +25,8 @@ Get clarity on when to use this method, by phone, (from VA perspective) so that 
 UX Audit of Veteran facing phone numbers - health care focus
 
 ### Key Findings
-
-- Phone numbers are inconsistently labeled across VA.gov, VAMC pages and even within a health system
-  - Some examples:  
-    - Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line 
  
-- Multiple phone labels co-exist within the VA.gov ecosystem that have similar sounding names, without clear purpose, and not easily differentiated 
+- Multiple phone labels co-exist within the VA.gov ecosystem that have similar sounding names, without clear purpose, and therefor not easy to differentiate.
     - 24-hour nurse
     - Primary care call center
     - Telephone care 
@@ -38,6 +34,10 @@ UX Audit of Veteran facing phone numbers - health care focus
     - VA health benefits hotline
     - My HealtheVet help desk
     - Health care benefits
+
+- Phone numbers are inconsistently labeled across VA.gov, VAMC pages and even within a health system
+  - Some examples:  
+    - Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line 
 
 - When and how a "toll free" number gets listed is inconsistent across VA.gov
     - Sometimes both numbers are offered, "Call 352-374-6105 or 800-349-9457"  
