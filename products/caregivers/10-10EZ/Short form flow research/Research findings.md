@@ -278,6 +278,7 @@ We updated version 2.1 with a second iteration of the alert design. This design 
 * Explore alternatives of showing the repeated Introduction on sign in
 * Explore ways to improve the progress bar so that it is more reflective of length and progress
 * Explore other qualifying criteria (Eg. combat status) to expand the short flow experience to more Veterans
+* Ask Prefered contact question, and implement email confirmation and notifications
 
 
 ## Appendix
