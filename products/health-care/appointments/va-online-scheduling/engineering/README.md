@@ -4,6 +4,12 @@
 
 VAOS is VA online scheduling, the veteran facing component of the VA's online scheduling suite. Sometimes VAOS refers to the front end of the app (i.e. the code on va.gov) or the suite of tools.
 
+## Code
+
+- [Front end](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/vaos)
+- [Back end](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/vaos)
+- [Swagger](https://api.va.gov/vaos/v0/apidocs)
+
 ## Practices
 
 - [Front end practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/front_end_eng_practices.md)
