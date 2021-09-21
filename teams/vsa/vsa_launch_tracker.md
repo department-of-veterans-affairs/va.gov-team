@@ -62,4 +62,4 @@
 | Health care Exp         | Check-in                         | Launch Check-in @ first site (Martinsburg, WV)                                 |    August 26, 2021 | no        | Allow patients to check-in for appointments via mobile device                                                                                                                                                                                |
 |Caregiver |	Caregiver |	Sign as a Representative (75%)	| __	| yes |		Allow Veterans with a legal representative to complete the online family caregiver application.
 | eBenefits Migration | 	Manage Dependents |	Launch ability to Manage Dependents (686) on VA.gov  (80% as of 8/30) |	__ |	no	|	Allow Veterans to manage their dependent information directly on VA.gov
-| Claims & Appeals        | Disability Claims Tool-526       | 526 wizard updates    | Moves the wizard to the intro page to reduce confusion          |     Septermber 14, 2021 
+| Claims & Appeals        | Disability Claims Tool-526       | 526 wizard updates    |      Septermber 14, 2021 | yes |Moves the wizard to the intro page to reduce confusion
