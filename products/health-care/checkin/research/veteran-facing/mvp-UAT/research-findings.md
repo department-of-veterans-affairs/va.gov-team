@@ -230,7 +230,7 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
   2. Emergency contact and next of kin
   3. Insurance
 - Look into the need to incorporate temporary address and advance directive reviews in the future.
-- Look into how beneficiary travels rule about if there is a discrepancy in addresses might affect the check-in product.
+- Look into how beneficiary travel regulations on address discrepancies might apply to the check-in product.
 - Talk about administrators more to understand the best solutions for pre-registration reporting.
 
 ### Things MSAs want/need to be notified about check-in (Staff indicators)
