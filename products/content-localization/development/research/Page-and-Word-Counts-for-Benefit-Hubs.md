@@ -46,3 +46,5 @@ The CSV file of all urls and word counts are available at: https://github.com/de
 | family-member-benefites | 3     | 2104   | 701                |
 | life-insurance          | 12    | 13078  | 1090               |
 | service-member-benefits | 1     | 1047   | 1047               |
+
+Some categories appear to have low page counts like burials-and-memorials, but that appears to be due to their url structures not being consistent with other categories, so their word/page counts may need to be manually adjusted.
