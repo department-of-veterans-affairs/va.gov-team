@@ -5,6 +5,29 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 
 ### Objective-driven Roadmap
 
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 3.193 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β31
+* Tue Sep 21 2021 10:48:20 GMT-0700 (PDT)
+* Source doc: Mobile Outcome Roadmap
+* Tables are currently converted to HTML tables.
+----->
+
+
+
 <table>
   <tr>
    <td colspan="6" >
@@ -133,7 +156,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 
 <li>Follow along with VSP identity team
 
-<li>Add Login.gov credential
+<li>Add Login.gov credential*
 </li>
 </ul>
    </td>
@@ -336,33 +359,44 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
   </tr>
 </table>
 
-### Simplified
+
+Simplified:
 
 **Continued/Repeated each quarter:**
+
+
+
 * UAT for new features
 * Codesign Sessions
 * Polish, Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
 * Analytics
-* Documentation sites (Github Pages)
+* Documentation sites
 
-**Starts Now (Sept - Dec 2021)**
+**Now (Sept - Dec 2021):**
+
+
+
 * Vaccine records discovery
 * Rx Refill initial discovery
 * Push Notifications  for Appointments
 * Push Notifications for Secure Messaging
 * UAT for new features 
-* Secure Messaging refinements (email preferences, signature, Cerner, delete, avatars, preferred contacts)
+* Secure Messaging refinements (ie email preferences, signature, Cerner)
 * Follow along with VSP identity team
-* Add Login.gov credential
-* Scale activities (comms, privacy update, ATO)
+* Add Login.gov credential *pending broader organizational discussions
+* Scale activities (comms, privacy update)
 * Content Audit
 * Information Architecture refinements
 * Dark Mode
+* Demo Mode
 
-**Starts Next (Jan - March 2022)**
+**Next (Jan - March 2022):**
+
+
+
 * Appointment: native join session
 * Rx Refill design + build (TBD)
-* Appointment refinements (reason for appointment, clinic specific info, covid-19 appointments)
+* Appointment refinements (reason for appointment, clinic specific info)
 * Appointment Request & Direct Schedule
 * Deep Links
 * Push Notifications architecture redesign
@@ -371,21 +405,25 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 * Veteran ID card
 * Tablet UX refinements
 
-**Starts Later (April - July 2022 and beyond)**
+**Later (April - July 2022 and beyond):**
+
+
+
 * Labs & Tests
 * Health Record (Blue Button)
 * Push Notifications for Claims
 * Retire MHV
 * Retire DS Logon
-* Profile refinements (view dependents, int’l phone number, local VAMC contact info)
+* Profile refinements (view dependents, int’l phone number)
 * GI Bill balance (view payments, manage dependents)
 * Debt (view payments)
 * Localization (languages, number and date formatting)
 * Overall app redesign (preparing for native)
+* Patient check in?
 
-### Milestones for Now and Next
+### Milestones for Now
 
-![image](https://user-images.githubusercontent.com/7320097/133013504-2b728a6a-bb57-4b7c-8d8a-f8148eab7ba4.png)
+![image](https://user-images.githubusercontent.com/7320097/134221483-a7331550-aafc-452a-8774-9e543b9c2bee.png)
 
 
 -----
