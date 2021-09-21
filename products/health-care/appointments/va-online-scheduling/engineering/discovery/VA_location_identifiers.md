@@ -12,8 +12,10 @@ MAS (mobile appointment service):
 - `sta6aid` is a `sta6aid`, a VA locationid
 - `clinicId` is a VistA clinic id
 
-EAS/VSP
-- URN identifiers are `urn:va:healthcareservice:{sta3n}:{sta6aid}:{clinicId}`
+VistA/VAST
+- VistA site
+- Parent division
+- Child division
 
 ## Overview
 
