@@ -1,5 +1,5 @@
 # View Payments Tool Design punch list
-**VSA eBenefits Team | June 2021**
+**VSA eBenefits Team | June 2021, Updated: September 2021**
 
 `Candy Clark, designer`
 
@@ -9,7 +9,7 @@ See [Reference mockups](https://www.sketch.com/s/2cbfbba2-b8c6-490a-8f25-240877a
 
 ### Intro Page
 
-- No Change
+- [ ] Change green button to action link
 
 ### Tool Pages
 
