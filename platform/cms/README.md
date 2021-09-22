@@ -4,9 +4,9 @@
 
 The CMS team's mission is to empower VA content editors with the tools they need to create Veteran-centered content. We work to build a content management system that is easy to use, scalable, and facilitates Veteran-centered experiences on VA.gov and beyond.
 
-The CMS has two teams, a Core Application Team and Product Support Team. Our work includes:
+The CMS has two teams, a Platform CMS Team and a Sitewide CMS Team. Our work includes:
 
-| Core Application Team | Product Support Team |
+| Platform CMS Team | Sitewide CMS Team |
 | --- | --- |
 | Content API Performance & Scalability | Onboarding of new Products |
 | DevOps / Infrastructure / Demo Environments | Data Migration for Product teams |
@@ -19,8 +19,6 @@ The CMS has two teams, a Core Application Team and Product Support Team. Our wor
 | | Drupal Engineering for Product teams |
 | | CMS Design System |
 | | [CMS Helpdesk](helpdesk) |
-
-**Note that several of these were shifted to allow the Core Team to focus on the Accelerated Publishing Effort in Q2 of 2020**
 
 ## CMS-supported products at VA.gov
 
@@ -71,19 +69,19 @@ Documentation about the CMS lives in various places
 
 ## How to Reach Us
 
-### CMS Core Application Team
+### Platform CMS Team
 - Adrian Rollett, Product Manager - Slack `@Adrian Rollett`
 - Jeff Brauer, Delivery Manager - Slack `@Jeff Brauer`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
 - Neil Hastings, Tech Lead - Slack `@Neil Hastings`
 
-### CMS Product Support Team
+### Sitewide CMS Team
 - Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
 - Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
 - Steve Wirt, Tech Lead - Slack `@Steve Wirt`
 
 ### CMS Program management
-- Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
+- Clarence Maeng, Program Manager - Slack `@Clarence Maeng`
 
 Full team roster can be found in Confluence [here](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/811171875/Both+Teams+Scrum+Notes+May+26+2021+-).
 
@@ -94,7 +92,7 @@ Slack channels:
 
 ## Table of contents
 
-**CMS Help Center**
+**CMS Knowledge Base**
 - <https://prod.cms.va.gov/help>
 
 **How to Work with CMS team**
