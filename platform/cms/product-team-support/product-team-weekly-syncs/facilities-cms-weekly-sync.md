@@ -49,7 +49,9 @@ Care we provide h3s
 - FE issue to place "Care we provide at [health care system]
 
 Scheduling Mobile VAMC facilities research/design/discovery overview
+Scheduling Mobile/Dom VAMC design overview
 
+Vet Center roll-out survey
 
 Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
 - CMS issue: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
