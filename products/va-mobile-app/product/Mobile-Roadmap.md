@@ -106,12 +106,12 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
   </tr>
   <tr>
    <td>
-    <strong>NOW (Sept - Q4 21)</strong>
+    <strong>STARTS NOW (Sept - Q4 21)</strong>
    </td>
    <td>
 <ul>
 
-<li>Vaccine records discovery
+<li>Vaccine records
 
 <li>Rx Refill initial discovery
 </li>
@@ -161,7 +161,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
   </tr>
   <tr>
    <td>
-    <strong>NEXT (Q1 22)</strong>
+    <strong>STARTS NEXT (Q1 22)</strong>
    </td>
    <td>
 <ul>
@@ -212,7 +212,7 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
   </tr>
   <tr>
    <td>
-    <strong>LATER (Q2 22 + beyond)</strong>
+    <strong>STARTS LATER (Q2 22 + beyond)</strong>
    </td>
    <td>
 <ul>
@@ -247,6 +247,8 @@ _2 formats below - Objectives (+ simplified version) and Milestones_
 <li>GI Bill balance (view payments, manage dependents)
 
 <li>Debt (view payments)
+
+<li>Patient check in?
 </li>
 </ul>
    </td>
@@ -351,15 +353,14 @@ Simplified:
 * Analytics
 * Documentation sites
 
-**Now (Sept - Dec 2021):**
+**Starts Now (Sept - Dec 2021):**
 
 
 
-* Vaccine records discovery
+* Vaccine records
 * Rx Refill initial discovery
 * Push Notifications  for Appointments
 * Push Notifications for Secure Messaging
-* UAT for new features 
 * Secure Messaging refinements (ie email preferences, signature, Cerner)
 * Follow along with VSP identity team
 * Add Login.gov credential *pending broader organizational discussions
@@ -369,7 +370,7 @@ Simplified:
 * Dark Mode
 * Demo Mode
 
-**Next (Jan - March 2022):**
+**Starts Next (Jan - March 2022):**
 
 
 
@@ -384,7 +385,7 @@ Simplified:
 * Veteran ID card
 * Tablet UX refinements
 
-**Later (April - July 2022 and beyond):**
+**Starts Later (April - July 2022 and beyond):**
 
 
 
