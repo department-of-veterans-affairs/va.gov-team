@@ -71,9 +71,12 @@
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .
+  - Examples:
+    - API availability
+    - Adverse affects to site performance (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - e.g. testing, marketing, compliance requirements
+  - Examples: VA stakeholder testing, marketing, compliance requirements 
 
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
