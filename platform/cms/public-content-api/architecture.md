@@ -20,7 +20,7 @@ Here is a pobbile design with combination Public API and Static Build / Incremen
 
 ### API Gateway
 
-The JSON response between Drupal and the React App will flow through an API Gateway. The API Gateway will be the only public exposure to the internet.  The API Gateway will provide a single entry point for any react applications and external systems integrating with the CMS.
+The JSON response between Drupal and the React App will flow through an API Gateway. The API Gateway will be the only public exposure to the internet.  The API Gateway will provide a single entry point for any react applications and external systems integrating with the CMS.  At this time, we are planning on using Lighthouse as the API Gateway to expose Drupal to the internet.
 
 ### JSON:API
 
