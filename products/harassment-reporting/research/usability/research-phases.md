@@ -11,17 +11,19 @@ We want to reach out to several SMEs who work with Veterans dealing with harassm
 - Vet Center outreach specialists or counselors 
 - VA staff who answer harassment reporting calls from Veterans and/or VA employees
 - Patient advocates at the VA
+I would like to get their input on developing a conversation guide.
 
 We will talk with the SMEs about what we want to do and get feedback from them on our research approach. The goal is **use the expertise of the SMEs to develop a safe and ethical approach for getting feedback on the harassment tool from Veterans**. 
 
-We will also ask the SMEs for names of specific Veterans who they think might feel comfortable participating, and invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
+We will also ask the SMEs for names of specific Veterans who they think might feel comfortable participating, and invite the SMEs (or a social worker TBD?) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
 
 ### Phase 2: Usability Testing with Veterans (mid Oct; 60 min over Zoom)
-After we have obtained buy-in from the SMEs and ideally some names or recommendations for Veterans to interview, we will work with Perigean to recruit the participants for usability test sessions.  
+After we have obtained buy-in from the SMEs and ideally some names or recommendations for Veterans to interview, we will work with Perigean to recruit the participants for usability test sessions. After each session, it would be great to have a debrief afterwards with the SME or social worker who attended. 
 
 ## Information gathering from SMEs
+Explain what we want to do (get user feedback on the new online harassment reporting tool) and how (interact with a design prototype on their smartphone). Maybe show the prototype, if it's ready. 
 Below is the list of questions that we would like to ask SMEs.
-1. Explain what we want to do (get user feedback on the new online harassment reporting tool) and how (interact with a design prototype on their smartphone). Maybe show some wireframes, if they're ready.
+
 1. What are your thoughts about trying to ask Veterans who may have experienced harassment to give feedback on this prototype? How would you consider the potential for re-triggering the trauma?
     1. If they recommend not talking with Veterans, skip to the last question.
     1. Otherwise, continue with the questions below.
@@ -36,6 +38,8 @@ Below is the list of questions that we would like to ask SMEs.
 1. How do you recommend that we handle (and recognize) trauma-triggering during a research session? (i.e., Stop session and refer to resources TBD? You or someone else take over?)
     1. Acknowledge their pain. Ask if they're comfortable continuing with the session.
     2. What specific resources to provide?
-3. Do you know of any Veterans who might be willing and feel comfortable talking with us about reporting harassment? If so, I can provide a blurb for you to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
-4. Might you be willing to observe the research session(s) with the Veterans you recommend and provide support during the session(s) and afterwards, if needed?
-5. Is there anyone else that you would recommend that I talk with? (who and why?)
+1. Do you know of any Veterans who might be willing and feel comfortable talking with us about reporting harassment? If so, I can provide a blurb for you to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
+1. Might you be willing to observe the research session(s) with the Veterans you recommend and provide support during the session(s) and afterwards, if needed?
+1. What do you think would be an appropriate number of people observing the session besides me (the moderator), a notetaker, and you or a social worker? Maybe only 1 other person? That would be 4 people plus the Veteran.
+1. Can I show you a draft of the conversation guide that I put together with your input? I'd welcome your feedback.
+1. Is there anyone else that you would recommend that I talk with? (who and why?)
