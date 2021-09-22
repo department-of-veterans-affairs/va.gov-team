@@ -13,7 +13,7 @@ assignees: shiragoodman
 
 - [ ] Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)).  
 - [ ] Answer the questions below and attach any artifacts you have available.
-- [ ] Close this ticket when all the steps are completed.
+- [ ] Close this ticket when kickoff is complete and Platform has provided the recommended touchpoints. 
 
 **Platform**
 
