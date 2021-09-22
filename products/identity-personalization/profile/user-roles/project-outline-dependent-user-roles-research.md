@@ -42,7 +42,7 @@ Should we pursue benefit letters for dependents as our MVP...
 
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) |
 |------------|----------|--------|-------------------------------------|
-| Usage | _there may not be a way for us to accurately identify how many dependents are accessing VA.gov_| Establish ability to identify different user role usage stats | TBD |
+| Usage | _there may not be a way for us to accurately identify how many dependents are accessing VA.gov currently without an existing official dependent role_| Establish ability to identify different user role usage stats | TBD |
 | Enagegment | TBD - we'll need to determine current level of engagement by dependents with benefit letters | Increase by n% over quarterly basis | TBD |
 
 ---
