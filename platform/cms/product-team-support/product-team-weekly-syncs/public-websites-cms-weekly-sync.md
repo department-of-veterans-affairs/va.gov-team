@@ -45,6 +45,9 @@ CMS team and staffing changes
 Banners
 - Timeline on [#28924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28924) and [#6176](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6176)
 - Outcome of call with Sitewide content team Sept 17--they are aware of OPIA banner node and will be considering governance issues w/r/t banners and paths. 
+- Intake request form - Brian and Dave will discuss what to do with it, since Promo is still a thing. Doesn't cover modals. 
+- Dave/Steve/Kev - path field visibility.
+
 
 ## September 15
 
