@@ -5,7 +5,7 @@ The purpose of this research is to get user feedback on the new online harassmen
 
 ## Phases of Research
 
-### Phase 1: SME Discussions (late Sept; 60 min over Zoom)
+### Phase 1: SME Discussions (late Sept-early Oct; 60 min over Zoom)
 We want to reach out to several SMEs who work with Veterans dealing with harassment and talk with them about the research we're planning. SMEs might include
 - Mental health counselors or social workers at VA facilities or VSOs
 - Vet Center outreach specialists or counselors 
@@ -16,7 +16,7 @@ We will talk with the SMEs about what we want to do and get feedback from them o
 
 We will also ask the SMEs for names of specific Veterans who they think might feel comfortable participating. We will also invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
 
-### Phase 2: Usability Testing with Veterans (early-mid Oct; 60 min over Zoom)
+### Phase 2: Usability Testing with Veterans (emid Oct; 60 min over Zoom)
 After we have obtained buy-in from the SMEs and ideally some names or recommendations for Veterans to interview, we will work with Perigean to recruit the participants for usability test sessions.  
 
 ## Information gathering from SMEs
