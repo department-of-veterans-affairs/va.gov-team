@@ -53,17 +53,13 @@ The [content_build](https://github.com/department-of-veterans-affairs/content-bu
 
 The React application(s) structure is still to be determined.  An SDK will be created to abstract the API from the front-end developers.  A reference application will also be supplied showing best-practice implementations of the Content API.
 
-Possible structure of React applications.
+Each appliation is separate and uses a shared SDK and Components.
 
-![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/133818504-097a5f48-18c6-4e9c-9f52-85b90752e9d2.png)
+![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/134020876-fd8667a5-0175-446d-a96e-a6c08e736d7a.png)
 
 Here is a front-end architecture where a single React application is used for all content apps.
 
 ![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/133818727-da9d4653-59f8-49a5-bbd0-3a756258d706.png)
-
-Another architecture where each appliation is separate and uses a shared SDK and Components.
-
-![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/134020876-fd8667a5-0175-446d-a96e-a6c08e736d7a.png)
 
 
 ### CMS Assets
