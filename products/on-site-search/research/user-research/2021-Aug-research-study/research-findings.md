@@ -97,7 +97,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 
 - 1 of the above 4 participants said that they missed the search tool links because of their light gray colored boxes on a white background. They recommended adding more color contrast, like the visual design of the "top 4" boxes on the home page (white on a bright blue background).
 
-- Another factor in visibility of the search tools is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not scroll.
+- Another factor in visibility of the search tools is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not scroll. People need some visual indication that there's something below to scroll to, which a partially visible box might be.
   - A mobile user (our second pilot participant) couldn't see any of the search tools below the search box, so they had no indication that anything was below the search box. In contrast, the moderator's phone shows the top half of the first search tool box (Find a VA Form), which suggests that scrolling might be useful.
   - Participants' computer resolution varied in that some showed most of the search tools without scrolling, while one that was particularly low resolution showed only the top of the top two tiles. You can see both below. 
 ![p15-landing-pg-see-very-little]()
