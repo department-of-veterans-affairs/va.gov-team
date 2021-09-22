@@ -38,6 +38,20 @@ Each application has its own folder where content exists for the UI and this con
     }
     ```
   * Validation errors in the existing form library need to be translated and at this point, there is no easy way to do that.
+  * As a POC of translating existing form library apps, there is a branch here: https://github.com/department-of-veterans-affairs/vets-website/tree/28684-poc-legacy-forms-translation-effort
+    * This branch attempts to provide some insight into supporting translation in the various components of the legacy form system.
+      * The namespace would be stored in the form config, preferably towards the top of the form config for visibility.
+      * A getKey() helper function would be provided to use the namespace as a partially applied function for easily generating translation key strings.
+      * form text properties could be passed a key and fallback in a format similar to:
+        * ```
+            title: {
+              key: getKey('title'),
+              fallback: 'Fallback',
+            }
+
+          ```
+
+          This would allow components to the use the key of `namespace:title` to access translations on runtime within components.
 * **Shared Components**
   * platform/forms/save-in-progress/SaveInProgressIntro.jsx
     * uses platform/forms-system/src/js/constants.js - static text strings for application messages
