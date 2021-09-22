@@ -14,7 +14,7 @@ This High level option include CloudFront as a CDN in front of the assets and CM
 
 ![ContentAPI _ ContentApp - High Level w CloudFront](https://user-images.githubusercontent.com/121603/134172129-d25774ce-a729-46a3-ae73-bebab612b0c4.png)
 
-Here is a pobbile design with combination Public API and Static Build / Incremental Build server.  Software like Next.js has build in ability to do both.
+Here is a pobbile design with combination Public API and Static Build / Incremental Build server. 
 
 ![ContentAPI _ ContentApp - Incremental Builds with API](https://user-images.githubusercontent.com/121603/134409865-a6cdd47e-0bcd-417a-b7a2-ded901e2c5ee.png)
 
