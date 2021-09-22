@@ -56,11 +56,13 @@ Should we pursue benefit letters for dependents as our MVP...
   - We assume dependents will use VA.gov
   - We assume accessing benefit letters is the top priority for dependents on VA.gov
   - We assume that dependents are not sharing roles/responsibilities with caregivers, POAs, or other user roles 
+
 - **Usability Risks** (can people figure out how to use it):
   - We assume dependents want the ability to access VA.gov independtly from their Veteran family member(s)
-  - 
+  
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Dependency on Identity team - assumption that they are capable of building the backend for this and we would be providing the frontend
+
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Why does VA believe this user role needs to exist on VA.gov?
 
