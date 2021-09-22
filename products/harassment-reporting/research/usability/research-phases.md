@@ -1,7 +1,7 @@
 # Research Phases: Harassment Reporting Tool
  	
 ## Overview	
-The purpose of this research is to get user feedback on the new online harassment reporting tool. Because harassment is a potential trauma trigger, we want to be careful about recruiting Veterans to participate in this research. To address this ethical concern, we propose to start by talking with **subject-matter experts (SMEs) who work with Veterans dealing with harassment**, before talking with Veterans directly. 
+The purpose of this research is to get user feedback on the new online harassment reporting tool. Because harassment is a potential trauma trigger, we want to be careful about recruiting Veterans to participate in this research. To address this ethical concern, we propose to start by talking with **subject-matter experts (SMEs) who work with Veterans dealing with harassment** *before* talking with Veterans directly. 
 
 ## Phases of Research
 
