@@ -34,7 +34,7 @@ The purpose of this research was to get user feedback on new design concepts for
 1. **Search in the header** as a link that **goes to the new search landing page**
 1. **New links at the bottom of the search results page go to other search tools**
 
-For each of the above design concepts, we wanted to assess *utility* (was it helpful to users and prevented them from getting stuck?) and *usability* (was it findable and intuitive?).
+For each of the above design concepts, we wanted to assess *usage* (was it helpful to users in preventing them from getting stuck?) and *usability* (was it findable and intuitive?).
 
 You can see screenshots of all of these design concepts in the [Pages and applications used section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used) in the Appendix.
 
@@ -69,7 +69,7 @@ We wanted half of the participants to join via smartphone so they could test the
 
 ASSESS utility (was it helpful to users and prevented them from getting stuck?) and usability (was it findable and intuitive?) for each of the above design concepts.
 
-1. **All of the new design concepts were used** by at least 2 of 7 research participants to complete tasks. 
+1. **All of the new design concepts were used by multiple participants** to complete tasks. 
   
 1. **Despite the new design concepts, some participants still got stuck.**
 1. All 7 participants were **successful with task 2, although all but one didn't use any of the new design concepts** in the prototypes. They found *Find a VA Location* in the header (3 participants), in the wide blue button farther down the home page (3), or at the bottom of the search results page (1).
@@ -80,19 +80,39 @@ ASSESS utility (was it helpful to users and prevented them from getting stuck?) 
 
 # Details of Findings 
 
-## 
+## 1. All of the new design concepts were used by multiple participants to complete tasks
+The table below summarizes participants' usage of each of the design concepts to complete tasks, as well as the primary usability issues with each. Discussion of the usability issues is below the table.
 
-### 1. 
-1. **All of the new design concepts were used** by at least 2 of 7 research participants to complete tasks (see table below). 
-    1. Many participants didn't notice the search tool links on the search landing page at first because they were laser focused on finding a search box to use and didn't scroll down below it.
-    1. Many participants didn't scroll down far enough on the search results page at first or ever to notice the search tool links at the bottom
+Design Concept | # of Participants (of 7) who used it | Usability Issues
+---------------|-----------------------------------------| -------------------
+Search tool links on new search landing page | 5 | Didn't look at other links because focused on search box at top (4 people). Low-color contrast between light gray of tiles on white background (1 person)
+Search link under the "top 4" boxes | 2 | Didn't notice under "top 4" boxes (4 people)
+Search in header to search landing page | 6 | Didn't notice in header (1 person)
+Search tool links on search results page | 4 | Didn't scroll down far enough to see (4 people)
 
-Design Concept | # of Participants (of 7) who used it
----------------|-----------------------------------------
-Search tool links on new search landing page | 5
-Search link under the "top 4" boxes | 2
-Search in header to search landing page | 6
-Search tool links on search results page | 4
+### Search tool links on new search landing page
+- At first, 4 of 7 participants didn't notice the search tool links on the search landing page because they were laser focused on finding a search box to use. Since the search box is what they were looking for, most participants didn't scroll down below it. Only one participant scrolled down and looked at everything on the landing page before going back up to type into the search box.
+
+> "You get locked in and focused because you're focused on a specific task" (p8)
+
+- 1 of the above 4 participants said that they missed the search tool links because of their light gray colored boxes on a white background. They recommended adding more color contrast, like the visual design of the "top 4" boxes on the home page (white on a bright blue background).
+
+- Another factor in visibility of the search tools is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not scroll.
+  - A mobile user (our second pilot participant) couldn't see any of the search tools below the search box, so they had no indication that anything was below the search box. In contrast, the moderator's phone shows the top half of the first search tool box (Find a VA Form), which suggests that scrolling might be useful.
+  - Participants' computer resolution varied in that some showed most of the search tools without scrolling, while one that was particularly low resolution showed only the top of the top two tiles. You can see both below. 
+![p15-landing-pg-see-very-little]()
+![p16-landing-pg-see-most]()
+  - 
+
+### Search link under the "top 4" boxes
+
+
+### Search in header to search landing page
+
+
+### Search tool links on search results page
+Many participants didn't scroll down far enough on the search results page at first or ever to notice the search tool links at the bottom.
+
 
 Keywords: 
 
