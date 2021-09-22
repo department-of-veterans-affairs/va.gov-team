@@ -59,7 +59,13 @@ Top task pages -
   - Billing and insurance /node/35840
   - Currently from Lovell Federal health care, but the system may change. 
 - What's ready to go: Centralized content - react widgets, FAQs, intro text, Related links
+  - FE implementation for new VAMC Register for care content model [#29494](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29494)
+  - FE implementation for new VAMC Medical Records content model [#29495](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29495)
+  - FE implementation for new VAMC Billing and insurance content model [#29496](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29496)
 - What's still in progress: Service locations and service location data
+  - FE implementation for Medical Records service location/data [#30390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30390)
+  - FE implementation for Register for care service location/data [#30391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30391)
+  - FE implementation for Billing and insurance service location/data [#30392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30392)
 - Dave to make decisions about service taxonomy dependencies for all the localizable content. 
 - CMS to provide existing centralized content field names for each of the content types
 - Should we publish test content? No. FE devs can use preview URLs. 
@@ -81,7 +87,7 @@ Care we provide h3s
 
 Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
 - CMS issue: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
-- FE issue: ?
+- FE issue: [#30395](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30395)
 
 VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty 
 - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
