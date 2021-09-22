@@ -36,7 +36,15 @@
 </details>
 
 ## September 22
-- Upcoming CMS staffing changes
+
+CMS team and staffing changes
+- Previously: CMS Product Support team
+- Currently: **Sitewide CMS team**
+- Future: Sitewide CMS - Product support team
+
+Banners
+- Timeline on [#28924](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28924] and [#6176](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6176)
+- Outcome of call with Sitewide content team Sept 17--they are aware of OPIA banner node and will be considering governance issues w/r/t banners and paths. 
 
 ## September 15
 
