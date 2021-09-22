@@ -33,23 +33,29 @@ CMS team and staffing changes
 * Future: Sitewide CMS - Product support team
 
 Top task pages - 
-- Medical records 
-- Register for care
-- Billing and insurance  
+- Prod content 
+  - Medical records /node/35838
+  - Register for care /node/35839
+  - Billing and insurance /node/35840
+- Tugboat environment 
+  - https://master-tkr1gvzvdlradcpbynywwn6txmcuk8ug.demo.cms.va.gov/lovell-fhcc-health-care 
+  -  
+- Centralized content ready to go
+- What's remaining: Service locations  
 
 Official vs plain language Vet Center names 
-- (low priority because District 1 and 5 are already handled?)
+- Need to confirm: low priority because District 1 and 5 are already handled?
 - CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
+
 
 Care we provide h3s
 - CMS epic: [#4799](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4799)
   - Audit existing h3s 
   - Search and destroy 
   - Other tasks TBD based on audit 
-- FE issue to place "Care we provide at [health care system]
+- FE issue to place "Care we provide at `[health care system]`" in the VAMC system health service accordions
 
 Scheduling Mobile VAMC facilities research/design/discovery overview
-Scheduling Mobile/Dom VAMC design overview
 
 Vet Center roll-out survey
 
