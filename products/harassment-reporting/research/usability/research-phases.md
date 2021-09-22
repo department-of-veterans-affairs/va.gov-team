@@ -1,11 +1,11 @@
 # Research Phases: Harassment Reporting Tool
  	
 ## Overview	
-The purpose of this research is to get user feedback on the new online harassment reporting tool. Because harassment is a potential trauma trigger, we want to be careful about recruiting Veterans to participate in this research. To address this ethical concern, we propose to start by talking with **subject-matter experts (SMEs) who work with Veterans dealing with harassment**, rather than Veterans directly. 
+The purpose of this research is to get user feedback on the new online harassment reporting tool. Because harassment is a potential trauma trigger, we want to be careful about recruiting Veterans to participate in this research. To address this ethical concern, we propose to start by talking with **subject-matter experts (SMEs) who work with Veterans dealing with harassment**, before talking with Veterans directly. 
 
 ## Phases of Research
 
-### Phase 1: SME Discussions (mid-late Sept; 60 min over Zoom)
+### Phase 1: SME Discussions (late Sept; 60 min over Zoom)
 We want to reach out to several SMEs who work with Veterans dealing with harassment and talk with them about the research we're planning. SMEs might include
 - Mental health counselors or social workers at VA facilities or VSOs
 - Vet Center outreach specialists or counselors 
@@ -14,18 +14,13 @@ We want to reach out to several SMEs who work with Veterans dealing with harassm
 
 We will talk with the SMEs about what we want to do and get feedback from them on our research approach. The goal is **use the expertise of the SMEs to develop a safe and ethical approach for getting feedback on the harassment tool from Veterans**. 
 
-If an SME thinks this is reasonable to do, we will ask them for names of specific Veterans who they think might feel comfortable participating. We will also invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
+We will also ask the SMEs for names of specific Veterans who they think might feel comfortable participating. We will also invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
 
-### Phase 2: Usability Testing with SMEs (late Sept; 60 min over Zoom)
-After the prototype has been finalized by Design, Content, and Research, show it to several SMEs to consider from the point of view of a someone who has experienced harassment at the VA. They will be prompted to go through the user tasks in the usbility test.
-
-### Phase 3: Usability Testing with Veterans (early-mid Oct; 60 min over Zoom)
-If we have obtained the buy-in of the SMEs and some names or recommendations for Veterans to interview, we will work with Perigean to recruit the participants for usability test sessions. They will be prompted through the same user tasks in the usability test as the SMEs did in Phase 2. 
-
-*If we are advised by SMEs to not test with Veterans*, then the participants in this phase will be SMEs instead, and we will likely need to schedule more sessions. If the SMEs are not Veterans, then Perigean cannot recruit them for us, and our team will need to handle the recruiting logistics workload. 
+### Phase 2: Usability Testing with Veterans (early-mid Oct; 60 min over Zoom)
+After we have obtained buy-in from the SMEs and ideally some names or recommendations for Veterans to interview, we will work with Perigean to recruit the participants for usability test sessions.  
 
 ## Information gathering from SMEs
-Below is a list of questions that we would like to ask SMEs.
+Below is the list of questions that we would like to ask SMEs.
 1. Explain what we want to do (get user feedback on the new online harassment reporting tool) and how (interact with a design prototype on their smartphone). Maybe show some wireframes, if they're ready.
 1. What are your thoughts about trying to ask Veterans who may have experienced harassment to give feedback on this prototype? How would you consider the potential for re-triggering the trauma?
     1. If they recommend not talking with Veterans, skip to the last question.
