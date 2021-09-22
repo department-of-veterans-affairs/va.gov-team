@@ -50,9 +50,12 @@ You can see screenshots of all of these design concepts in the [Pages and applic
 # Methodology 
 
 We conducted hour-long remote moderated research sessions via Zoom on **September 10-17, 2021**. Participants were asked to do the following **3 tasks** using  prototypes in UXPin:
-1. In order to support your request for VA benefits, you want to submit a letter from someone who has first-hand knowledge of your condition or injury. You want to find the form for them to write the letter to support your claim. *(Site search doesn't return relevant results, but Find a VA Form does. This is top forms search #4--for form 21-4138 Statement in Support of Claim.)*
-1. Find out if there is a VA hospital in Knoxville, Tennessee. *(Site search doesn't return relevant results, but Find a VA location does.)*
-1. See if you can get any college credit for your military service. *(Site search doesn't return relevant results, but Resources & Support does--article "How do I get college credits for my military service?")*
+
+Task # | Task Goal | Site Search | Search Tool that Helps 
+---------------|-----------------------------------------| ------------------- | ------------
+1 | Find form for letter for someone to support your claim | No relevant results | Find a VA Form (form 21-4138)
+2 | Find out if there's a VA hospital in Knoxville, TN | No relevant results | Find a VA Location
+3 | See if you can get college credit for military service | No relevant results | Resources and Support
 
 In the prototypes, site search leads only to unhelpful search results (as it does today in Production for each of the above search tasks, which is why we selected them). We wanted to see what participants would do and whether they would find and try one of the other search tools. We built a separate prototype for each task so that search query and search results shown could be different.
  
@@ -63,7 +66,7 @@ We wanted half of the participants to join via smartphone so they could test the
 1. A search *landing* page that highlights other search tools will result in more users using the search tools and finding what they're looking for.
 1. A search *results* page that highlights other search tools will result in more users using the search tools and finding what they're looking for.
 1. New search link(s) near the "top 4" boxes will result in more users finding what they're looking for.
-    1. FALSE: 
+    1. : 
 
 # Key Findings
 
@@ -97,7 +100,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 
 - 1 of the above 4 participants said that they missed the search tool links because of their light gray colored boxes on a white background. They recommended adding more color contrast, like the visual design of the "top 4" boxes on the home page (white on a bright blue background).
 
-- Another factor in visibility of the search tools is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not scroll. People need some visual indication that there's something below to scroll to, which a partially visible box might be.
+- Another factor in the visibility of the search tools on the landing page is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not scroll. People need some visual indication that there's something below to scroll to, which a partially visible box may indicate.
   - A mobile user (our second pilot participant) couldn't see any of the search tools below the search box, so they had no indication that anything was below the search box. In contrast, the moderator's phone shows the top half of the first search tool box (Find a VA Form), which suggests that scrolling might be useful.
   - Participants' computer resolution varied in that some showed most of the search tools without scrolling, while one that was particularly low resolution showed only the top of the top two tiles. You can see both below. 
 ![p15-landing-pg-see-very-little]()
@@ -105,14 +108,18 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
   - 
 
 ### Search link under the "top 4" boxes
-
+- 4 participants didn't appear to notice the "Can't find what you're looking for? Search VA.gov" link under the "top 4" boxes. 
+- 1 person mentioned it but said they didn't try it because they expected it to do the same thing as *Search* in the header where they already clicked.
+- Participants' screen resolution may be a factor here, too. Our mobile user (pilot participant) didn't see the link in their phone because they didn't scroll down below the "top 4" boxes.
 
 ### Search in header to search landing page
 
 
 ### Search tool links on search results page
-Many participants didn't scroll down far enough on the search results page at first or ever to notice the search tool links at the bottom.
-
+- 4 participants didn't scroll down far enough on the search results page at first or ever to notice the search tool links at the bottom. To see the search tool links, they needed to scroll down below the numbered links to the subsequent pages of search results, which these participants didn't do.  
+- When one participant finally scrolled down far enough to see the links, they exclaimed
+- > "Oh wow, that's cool!" (p1)
+- Another participant who noticed the search tool links at the end of the session, said that they overlooked them before because they weren't looking for anything but search results. They thought it would be better if the tools could be "more in your face" (p8) on the right of the search results that scrolls down with you (sounds like the "right rail" placement that was previously tried and tested poorly).
 
 Keywords: 
 
