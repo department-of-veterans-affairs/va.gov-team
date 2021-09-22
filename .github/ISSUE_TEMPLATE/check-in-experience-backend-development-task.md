@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Back End Development Task
 about: For Check In Experience Back End Development Tasking 
-title: '[FE]' 
+title: '[BE]' 
 labels: vsa-healthcare-exp, backend, HCE-Checkin, HealthExp - Planned 
 assignees: 'dillo'
 pipeline: 'backlog'
@@ -42,7 +42,6 @@ pipeline: 'backlog'
 
 > this is a list of technical tasks that need for this ticket
 
-- [ ] %Add any tasks%
 - [ ] Write rspec tests
 - [ ] Update relevant documentations
   - [ ] README
@@ -52,6 +51,5 @@ pipeline: 'backlog'
 
 > when is the ticket done
 
-- [ ] %Add any additional Acceptance Criteria%
 - [ ] Deployed to staging.
 - [ ] FE engineering team has signed off on the  feature
