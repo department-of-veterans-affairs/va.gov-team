@@ -14,9 +14,9 @@ We want to reach out to several SMEs who work with Veterans dealing with harassm
 
 We will talk with the SMEs about what we want to do and get feedback from them on our research approach. The goal is **use the expertise of the SMEs to develop a safe and ethical approach for getting feedback on the harassment tool from Veterans**. 
 
-We will also ask the SMEs for names of specific Veterans who they think might feel comfortable participating. We will also invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
+We will also ask the SMEs for names of specific Veterans who they think might feel comfortable participating, and invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest so they can provide support during and/or afterwards as needed. See draft list of questions at the end of this document. 
 
-### Phase 2: Usability Testing with Veterans (emid Oct; 60 min over Zoom)
+### Phase 2: Usability Testing with Veterans (mid Oct; 60 min over Zoom)
 After we have obtained buy-in from the SMEs and ideally some names or recommendations for Veterans to interview, we will work with Perigean to recruit the participants for usability test sessions.  
 
 ## Information gathering from SMEs
@@ -25,7 +25,7 @@ Below is the list of questions that we would like to ask SMEs.
 1. What are your thoughts about trying to ask Veterans who may have experienced harassment to give feedback on this prototype? How would you consider the potential for re-triggering the trauma?
     1. If they recommend not talking with Veterans, skip to the last question.
     1. Otherwise, continue with the questions below.
-1. What kinds of Veterans do you think we should target in our research? (i.e., female/male, sexual/non-sexual harassment)
+1. What kinds of Veterans do you think we should target in our research? (i.e., female/male, experienced harassment or not, sexual/non-sexual harassment)
 1. Who do you think might use a self-service harassment reporting tool like this one vs. call a phone number vs. not report at all?
 1. Are there any Veteran groups that are disproportionately harmed/affected by harassment? Who are they and why?
 1. Should we allow participants to fill out whatever information they feel like sharing from their own experiences or imagination, or provide fictitious details for them to enter?
@@ -33,6 +33,9 @@ Below is the list of questions that we would like to ask SMEs.
     1. Have you been harassed at a VA facility before? Are you up for talking about that?
     2. If so, did you report it? How?
     3. How would you prefer to report it? Why?
+1. How do you recommend that we handle (and recognize) trauma-triggering during a research session? (i.e., Stop session and refer to resources TBD? You or someone else take over?)
+    1. Acknowledge their pain. Ask if they're comfortable continuing with the session.
+    2. What specific resources to provide?
 3. Do you know of any Veterans who might be willing and feel comfortable talking with us about reporting harassment? If so, I can provide a blurb for you to use to ask (i.e., “Would you be willing to participate in an hour-long research session to provide feedback on a new way to report harassment at the VA? If yes, you will be contacted by someone from Perigean Technologies to schedule the session. They are a trusted VA partner.”) 
 4. Might you be willing to observe the research session(s) with the Veterans you recommend and provide support during the session(s) and afterwards, if needed?
 5. Is there anyone else that you would recommend that I talk with? (who and why?)
