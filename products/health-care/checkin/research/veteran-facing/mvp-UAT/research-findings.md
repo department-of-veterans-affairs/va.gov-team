@@ -2,7 +2,7 @@
 - Updated: September 20, 2021
 - Lead Researcher: Kristen McConnell, kristen.mcconnell@adhocteam.us
 - [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-UAT/research-findings.pdf)
-- [Photos from the visit]()
+- [Photos from the visit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/mvp-UAT/photos-for-visit)
 
 ## Background and Goals
 
