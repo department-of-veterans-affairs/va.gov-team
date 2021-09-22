@@ -38,7 +38,11 @@ We should conduct usability testing/research on a prototype that allows dependen
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+Should we pursue benefit letters for dependents as our MVP...
+
+|Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) |
+| Usage | _there may not be a way for us to accurately identify how many dependents are accessing VA.gov_| Establish ability to identify different user role usage stats | tbd |
+| Enagegment | TBD - we'll need to determine current level of engagement by dependents with benefit letters | Increase by n% over quarterly basis | TBD |
 
 ---
 
@@ -48,37 +52,37 @@ We should conduct usability testing/research on a prototype that allows dependen
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - We assume dependents will use VA.gov 
+  - We assume dependents will use VA.gov
+  - We assume accessing benefit letters is the top priority for dependents on VA.gov
+  - We assume that dependents are not sharing roles/responsibilities with caregivers, POAs, or other user roles 
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - We assume dependents want the ability to access VA.gov independtly from their Veteran family member(s)
+  - 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .
+  - Dependency on Identity team - assumption that they are capable of building the backend for this and we would be providing the frontend
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Why does VA believe this user role needs to exist on VA.gov?
 
-### Prioritization
-> *Describe the team's competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
-
-### Solution Scope
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
+NA - discovery only
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+NA - discovery only, but looking to conduct this research early in Q4
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+NA
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
+NA - discovery only
+
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
