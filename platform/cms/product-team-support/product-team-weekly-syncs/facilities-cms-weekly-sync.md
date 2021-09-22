@@ -21,16 +21,39 @@
 6. Staff profiles https://github.com/department-of-veterans-affairs/va.gov-team/issues/17116 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5450 
 
 
-</details>***
+</details>
+
 
 ## September 22 
 
-Official vs plain language Vet Center names
+CMS team and staffing changes
+* Intros: Jay and Suzanne, Facilities team
+* Previously: CMS Product Support team
+* Currently: **Sitewide CMS team**
+* Future: Sitewide CMS - Product support team
+
+Top task pages - 
+- Medical records 
+- Register for care
+- Billing and insurance  
+
+Official vs plain language Vet Center names 
+- (low priority because District 1 and 5 are already handled?)
+- CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
+
+Care we provide h3s
+- CMS epic: [#4799](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4799)
+  - Audit existing h3s 
+  - Search and destroy 
+  - Other tasks TBD based on audit 
+- FE issue to place "Care we provide at [health care system]
 
 Scheduling Mobile VAMC facilities research/design/discovery overview
 
+
 Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
 - CMS issue: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
+- FE issue: ?
 
 VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is empty 
 - After CMS makes Alert Heading field required, should the FE have backup logic if still comes across content where the header is missing, along with the Vet Center services question (for services missing Type of Care attribute).
@@ -41,7 +64,6 @@ VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is e
 Featured stories
 - [KB article](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
 
-Upcoming CMS staffing changes
 
 ## September 15
 
