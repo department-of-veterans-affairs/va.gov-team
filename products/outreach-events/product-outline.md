@@ -69,17 +69,6 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
 
 ## Screenshots of Discovery Mockups for Filtering / Recurring Events
 
-**Mock up with images**
-  
-![134037706-83f21258-479d-418c-8f02-dc5f3c7cae0d](https://user-images.githubusercontent.com/70410912/134214952-33ac9931-88bb-41fc-8632-410ba9816487.png)
-
-**Mock up without images**
-  
-![134030092-bea6d15e-9819-4c1c-ae6c-6980737e2fd4](https://user-images.githubusercontent.com/70410912/134215317-dcb1330f-9150-4dc4-8769-5f016b372075.png)
-
-**Desktop Mockup**  
-  
-![133822603-24a66c6e-d932-4202-916e-f85cc2e771d5](https://user-images.githubusercontent.com/70410912/134216423-3e519d80-0b53-4a15-a9d0-f90682b8e367.png)
 
 ## Status 
 
