@@ -50,7 +50,7 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 
 ## Key Findings
 - Pilot Feedback and Observations - Staff
-  - Staff’s overall impression of the pilot was overwhelming positive.
+  - Staff’s overall impression of the pilot was overwhelmingly positive.
   - The pilot has minimal impact to the MSA’s workflow.
   - The MSA still talked to most Veterans who came through the door.
   - If a Veteran has multiple appointments on a particular day within one clinic, there is interest in checking them in for all of those appointments at once.
@@ -69,7 +69,7 @@ Staff members were also shown a [prototype](https://www.sketch.com/s/e79a827e-42
 ## Detailed Research Findings
 ### Pilot Feedback and Observations - Staff
 
-**Staff’s overall impression of the pilot was overwhelming positive.**
+**Staff’s overall impression of the pilot was overwhelmingly positive.**
 
 - “It’s going well.” - MSA
 - “Staff love it. Love that it is a system that the MSAs already use.” - Administration
