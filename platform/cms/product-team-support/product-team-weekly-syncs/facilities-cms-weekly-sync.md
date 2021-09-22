@@ -24,6 +24,23 @@
 </details>
 
 
+
+## September 29
+
+Product change to support Manila (facility with no system)
+
+Scheduling Mobile VAMC facilities research/design/discovery overview
+- Dave and Leyda are out first week of October 
+- Week of October 18
+- Mobile, CLCs, and Domicilaries are all getting unpublished/archived, so not blocking current VAMCs going out. Central Arkansas has created a Domicilary program page. 
+
+Official vs plain language Vet Center names 
+- Need to confirm: low priority because District 1 and 5 are already handled?
+- CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
+
+National health service content in the Vet Center facility editing experience
+
+
 ## September 22 
 
 ### CMS team and staffing changes
@@ -40,18 +57,27 @@ Top task pages -
   - Medical records /node/35838
   - Register for care /node/35839
   - Billing and insurance /node/35840
+  - Currently from Lovell Federal health care, but the system may change. 
 - What's ready to go: Centralized content - react widgets, FAQs, intro text, Related links
 - What's still in progress: Service locations and service location data
+- Dave to make decisions about service taxonomy dependencies for all the localizable content. 
+- CMS to provide existing centralized content field names for each of the content types
+- Should we publish test content? No. FE devs can use preview URLs. 
 
+Lovell Federal health care 
+- May be in dual state sooner than later
+- Has four facilities not in VAST and therefore not in Facility API
+- Do not have Facility IDs
+- **CMS issue?:** can create these facilities, after discussion with Lighthouse and VHA Digital Media about 4 FHCC facilities and Facility IDs. Or Lighthouse creates it from a CSV because lat/long and other fields that CMS doesn't store. 
 
 Care we provide h3s
 - CMS epic: [#4799](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4799)
+  - **CMS issue:** Create feature flag "care_we_provide_h3s"
   - Audit existing h3s 
   - Search and destroy 
   - Other tasks TBD based on audit 
+  - VAMC upgrade coordination of Lovell migration
 - FE issue to place "Care we provide at `[health care system]`" in the VAMC system health service accordions?
-
-Scheduling Mobile VAMC facilities research/design/discovery overview
 
 Refactor of operating status pages to pull facility status from system, rather than facilities hand-listed on Operating Status page
 - CMS issue: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
@@ -65,17 +91,26 @@ VAMC Detail Page alert content block not visible on VA.gov if Alert Heading is e
 
 Featured stories
 - [KB article](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
+- **CMS will** bring this to VAMC upgrade for a PAO newsletter brief.
 
 ### Vet Center
 
 Vet Center roll-out survey
+- going out to First 10 MVP Vet Center editors and 80 District 5 editors
+- Focus is on Facilities team process -- office hours, content deck. Less about the CMS experience. 
+- What are the pain points so that we can make changes/improvements for District 1 in October. 
+- Keeping it tight/short and anonymous to improve response rates 
 
-Official vs plain language Vet Center names 
-- Need to confirm: low priority because District 1 and 5 are already handled?
-- CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
+Vet Center dashboard usability research
+- Hypotheses were formed for Vet Center dashboard that we want to test, to bring lessons back to Vet Center, but also for how to apply to VAMC dashboard
+- We would focus on non-MVP (District 5 except 2 people) users
+- Michelle can provide Suzanne and Rachel with candidates for usability research participants, across the spectrum. 
 
-
-
+Editing experience for operating status for Vet Centers
+- The problem we're trying to solve: Vet Centers should be maintaining their facility status, they should also be notifying their district to say, for example, they've closed. 
+- As a District director, i want to know when facility status changes. 
+  - Short term: manual
+  - Medium/long-term: automatic / email.   
 
 ## September 15
 
