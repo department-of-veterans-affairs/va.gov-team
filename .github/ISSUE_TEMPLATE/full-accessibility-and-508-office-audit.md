@@ -40,9 +40,7 @@ Use this accessible staging account template to do so:
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md
 -->
 
-- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)**, OR
-
-- [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) document are complete.
+- [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). 
 
 - [ ] List of known issues with links to the tickets (when applicable)
 
