@@ -37,12 +37,16 @@ Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8
 
 ### Must have for participants
 - All are Veterans
-- All plan to use their smartphone for the session
-- At least 3 participants over 60
-- At least 2 people with a cognitive disability (e.g., TBI)
+- Have a smartphone and be willing to join our Zoom call from their phone
+- Have a working microphone on their phone
+- Have the Zoom app downloaded to their phone prior to the session and know how to share their screen
+- During the session, be willing to share their web browser window over Zoom
+
+*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone** ?*
 
 ### Good to have for participants
-- At least 2 people of color
+- At least 3 participants over 60
+- At least 2 people with a cognitive disability (e.g., TBI)- At least 2 people of color
 - At least 1 woman
 - At least 1 participant 35 or under
 - At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
@@ -51,11 +55,7 @@ Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8
 - At least 1 person who lives in a major metropolitan area
 - At least 1 non-native English speaker
 
-### Recruitment requirements for ALL participants
-- Have a smartphone and be willing to be complete their interview on that device
-- During the session, be willing to share a new web browser window on their phone 
-- Have a working microphone on their phone
-- Have Zoom downloaded to their phone prior to the session and know how to share their screen
+
 
 ### Additional questions to ask in the screener
 - What device will you use to join the research session? (must be a smartphone, NOT iPad/tablet, computer, or laptop)
@@ -86,7 +86,7 @@ Please list the people who will be serving in each role.
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participants for pilot test:	TBD
 - Notetakers:	Perigean 
-- Observers:	Dave Conlon? (david.conlon@va.gov), Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Soni Meckem? Josh Farrar?
+- Observers:	Dave Conlon? (david.conlon@va.gov), Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Soni Meckem? Josh Farrar? **We  need to limit the number of observers per session, so please do *not* add everyone to the invite.** We will set up a sign-up sheet and then share the invite for each session with only a small number of people. 
  
 ## Resources	
 - [Conversation Guide]()	
