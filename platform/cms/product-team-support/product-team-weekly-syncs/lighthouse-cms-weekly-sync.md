@@ -28,6 +28,9 @@
  
 </details>
 
+## Monday, September 27, 2021
+* Creation of new facilities from Facilities sync call
+
 ## Monday, September 20, 2021
 * Facility data update workflow, [6413](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6413)
   * https://prod.cms.va.gov/help/vet-centers/how-do-i-update-my-facilitys-basic-location-data
