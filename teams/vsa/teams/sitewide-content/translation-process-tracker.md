@@ -29,5 +29,5 @@
 | Updates to FAQs and vaccine 8/13 | 8/13 | 8/16 | 8/26 |
 | New vaccine child page, updates to vaccine and FAQs page | 8/20 | 8/20 | 9/14 | 9/15 | 9/15 | | 9/15 |
 | Updated pregnancy question on vaccine and CLP pages | 9/10 | 9/10 |
-| Updates to booster page | | 9/20 |
+| Updates to booster page | | 9/20 | 9/22 |
 | Updates to vaccine page (reordering page and removing J&J info, etc.) | | 9/20 |
