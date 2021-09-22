@@ -2,19 +2,20 @@
 #### Overview
 
 ## Outcome Summary
-Conduct usability testing/research to define the top priorities of a dependent user role. Initial thinking is that dependents need to be able to sign into va.gov to retrieve benefit letters. Our research should help validate, or invalidate this need, and ideally, identify if there are other potentially higher priorities that dependents may have in accessing an authenticated experience on va.gov. Ultimately this research will be used to scope what a dependent user role MVP looks like on va.gov.
+Conduct usability testing/research to define the top priorities of a dependent user role. Initial thinking is that dependents need to be able to sign into VA.gov to retrieve benefit letters. Our research should help validate, or invalidate this need, and ideally, identify if there are other potentially higher priorities that dependents may have in accessing an authenticated experience on VA.gov. Ultimately this research will be used to scope what a dependent user role MVP looks like on VA.gov.
 
 **Related/Associated product(s)**
 - Profile | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md) 
 
 ## Problem
-* **What is the problem and who is affected? And, what evidence do we have of the problem?** The suspected problem is that dependents don't have an easy way to retrieve benefit letters. However, there are a lot of unknowns about this. There are only "rumors" that dependents access va.gov for this purpose. We'll need to validate whether that is in fact true, and determine if there are other needs that are potentially more common or more important.
+* **What is the problem and who is affected? And, what evidence do we have of the problem?** The suspected problem is that dependents don't have an easy way to retrieve benefit letters. However, there are a lot of unknowns about this. There are only "rumors" that dependents access VA.gov for this purpose. We'll need to validate whether that is in fact true, and determine if there are other needs that are potentially more common or more important.
 
 * **How does this initiative help further OCTO-DE's mission and goals?**
-This research would be done in direct service of several of OCTO-DE's mission and goals. For example, If we determine that dependents are in fact using va.gov to retrieve benefit letters, or there are other needs identified, the work would be done in direct service of providing a Veterans and their families a single source for information and resources. Additionally, depending on our research findings, this could point us in the direction of creating a more personalized experience on va.gov not only for Veterans, but for their dependents, as well any other future user roles that come out of this work, i.e. caregivers, POA's etc. This work also supports the goals of providing Veterans and their families with service that they trust (security, accuracy and relevancy); providing Veterans and their families with a seamless experience to apply for benefits and track applications, claims and appeals online.
+This research would be done in direct service of several of OCTO-DE's mission and goals. For example, If we determine that dependents are in fact using VA.gov to retrieve benefit letters, or there are other needs identified, the work would be done in direct service of providing a Veterans and their families a single source for information and resources. Additionally, depending on our research findings, this could point us in the direction of creating a more personalized experience on VA.gov not only for Veterans, but for their dependents, as well any other future user roles that come out of this work, i.e. caregivers, POA's etc. This work also supports the goals of providing Veterans and their families with service that they trust (security, accuracy and relevancy); providing Veterans and their families with a seamless experience to apply for benefits and track applications, claims and appeals online.
 
 ### Hypotheses
-* <What do we think we should do?>
+We should conduct usability testing/research on a prototype that allows dependents to retrieve benefit letters from VA.gov to validate whether retrieving benefit letters should be the functionality we build for dependents as part of our MVP - and to help identify if there are other functions that dependents would benefit from. 
+
 
 <!--
 ## Desired User Outcomes
@@ -47,7 +48,7 @@ This research would be done in direct service of several of OCTO-DE's mission an
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - We assume dependents will use va.gov 
+  - We assume dependents will use VA.gov 
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
