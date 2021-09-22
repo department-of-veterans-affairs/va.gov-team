@@ -68,6 +68,10 @@ How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach
   - VEO, the business "owner" of Outreach and Events Hub, has extended content edit capability and rights to leads in other VACO digital comms teams [as outlined here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md)
 
 ## Screenshots of Discovery Mockups for Filtering / Recurring Events
+![Screen Shot 2021-09-22 at 1 46 46 PM](https://user-images.githubusercontent.com/70410912/134411590-631e2d9b-bbcb-4e2b-9b87-b0e3a1920183.png)
+
+  
+![Screen Shot 2021-09-22 at 1 42 40 PM](https://user-images.githubusercontent.com/70410912/134411610-b171a802-cfa4-4a35-9aaf-395f8f1954b0.png)
 
 
 ## Status 
