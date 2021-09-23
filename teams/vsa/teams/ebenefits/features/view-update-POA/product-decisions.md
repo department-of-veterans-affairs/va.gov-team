@@ -51,6 +51,7 @@ This is to help guide and memorialize decisions made about different functionali
 - Centralized Mail?   
 - We have heard of SEP, Direct Mail Upload, CMP, Vets Pro, VBMS, CAG  
 13. Is it necessary that the forms be PDF'd and uploaded to eFolder?  
+14 .Another requirement is the "fee arrangement" doc that needs  to be submitted with a Veterans request 
 
 **TL;DR - what does this mean?  what do we do next?**
 
