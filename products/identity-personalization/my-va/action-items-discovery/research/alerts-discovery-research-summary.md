@@ -314,7 +314,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Work with VA.notify and VetText to understand content of each alert
    - [ ] Outline time-sensitivity/urgency of each alert
 
-### Figure out how to incorporate an alerts link into the navigation
+### Figure out how to incorporate an alerts link into the IA/header (work with Ryan Thurlwell
    - [ ] Explore ways to show an Alerts link in the navigation
    - [ ] Work with the appropriate parties to get it implemented
 
