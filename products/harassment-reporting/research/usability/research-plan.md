@@ -85,8 +85,8 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participants for pilot test:	TBD
-- Notetakers:	Perigean 
-- Observers:	Dave Conlon? (david.conlon@va.gov), Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Soni Meckem? Josh Farrar? **We  need to limit the number of observers per session, so please do *not* add everyone to the invite.** We will set up a sign-up sheet and then share the invite for each session with only a small number of people. 
+**- Notetaker:	Perigean**
+- Observers:	Will be invited directly by the Moderator because we need to limit the number of observers per session. 
  
 ## Resources	
 - [Conversation Guide]()	
