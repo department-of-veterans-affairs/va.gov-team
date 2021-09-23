@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE) and VSA, Search & Discovery**
 
-Date: 08/24/2021
+Date: 08/27/2021
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
@@ -102,6 +102,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 - 1 of the above 4 participants said that they missed the search tool links because of their light gray colored boxes on a white background. They recommended adding more color contrast, like the visual design of the "top 4" boxes on the home page (white on a bright blue background).
 
 - Another factor in the visibility of the search tools on the landing page is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not scroll. People need some visual indication that there's something below to scroll to, which a partially visible box may indicate.
+> "I think to scroll, but I tend to zone in on what I'm seeing" and then not scroll to explore more of the page (p8).
   - A mobile user (our second pilot participant) couldn't see any of the search tools below the search box, so they had no indication that anything was below the search box. In contrast, the moderator's phone shows the top half of the first search tool box (Find a VA Form), which suggests that scrolling might be useful.
   - Participants' computer resolution varied in that some showed most of the search tools without scrolling, while one that was particularly low resolution showed only the top of the top two tiles. You can see both below. 
 ![p15-landing-pg-see-very-little]()
@@ -125,8 +126,9 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 - Another participant who noticed the search tool links at the end of the session, said that they overlooked them before because they weren't looking for anything but search results. They thought it would be better if the tools could be "more in your face" (p8) on the right of the search results that scrolls down with you (sounds like the "right rail" placement that was previously tried and tested poorly).
 
 ## 2. Despite the new design concepts, some participants still got stuck.
-- Participants assumed that what they were looking for would be in the search results, and when they didn't find it there, some seemed frustrated.
+- Participants assumed that what they were looking for would be in the search results, and when they didn't find it there, some seemed frustrated. When searching for "college credit", two participants specifically called out the search result "Lenders Page - VA Home Loans" as completely irrelevant, which led one of them to assume it was an ad.
 > "I couldn’t find what I was looking for” (p16).
+
 - When search results didn't contain anything relevant, most participants wanted to refine their search query, which wasn't possible to do in the prototypes.
 - 6 of 7 participants got stuck trying to do task 3, which required them to find and use *Resources and Support*. The name "Resources and Support" was interpreted by participants as too general or vague to be useful. They were looking specifically for education-related content. After repeated prompts from the moderator to see if they could find anything else to help, 3 of the 6 eventually tried *Resources and Support* and then were successful with the task. 
 - 2 of 7 participants got stuck in task 1; one of them eventually found *Find a VA Form* on the search results page. Successful participants found *Find a VA Form* on the search landing page (4 participants) or on the search results page (2 participants).
@@ -154,6 +156,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 > Because it's at the very bottom of the page [in the footer], it seems like "A last resort instead of what I should go to first" (p5).
 2. There was some hesitation about using *Find a VA Form* if they didn't know the form number (1 participant) or the proper name of the form (another participant). The first participant was looking for the form number in various content pages. Here's a quote from the second participant: 
 > “I guess here I am stuck because I don’t know what the form is called, so I don’t know what to search for” (p16).
+> "It's a hunt--crazy to figure out what words are needed" (p15).
 
 2. When looking for an education home page, 2 participants tried to click on the "Education" header in the "top 4" Education box. Another participant thought that the "Education and Training" link before the pictures might help.
 
@@ -163,8 +166,9 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 1. Consider implementing all 4 of the design concepts because each helped multiple participants from completing tasks and getting stuck.  
 1. On the search results page, consider design ideas for positioning the search tool links farther up on the page or adding a visual indication that there's something below the page navigation to see.
 1. On the search landing page, consider adding a visual indication that there's something below the search box to see.
-2. For the "Can't find what you're looking for?" link, consider making it stand out more visually. This might be done by putting it into a box, or maybe put the link inside each of the "top 4" boxes (since that's where people are looking).
-4. Work with the search.gov team to see if we can get more relevant search results, which may include searching only the primary content of each page and not the side links and related links. If we succeed at getting more relevant results from search.gov, we might want to...
+    1. Another potential design idea is to add radio buttons directly underneath the search box to select all of VA.gov, Find a VA Form, or Resources & Support.
+3. For the "Can't find what you're looking for?" link, consider making it stand out more visually. This might be done by putting it into a box, or maybe put the link inside each of the "top 4" boxes (since that's where people are looking).
+4. Work with the Search.gov team to see if we can get more relevant search results, which may include searching only the main content of each page and not the side links, related links, header, and footer. If we succeed at getting more relevant results from search.gov, we might want to...
     1. Communicate that to Veterans so they'll try it again and see for themselves that it has improved and thus is worth using.
     1. Make the search link in the header more visible/prominent so more Veterans will notice it.
 6. Since so many people get to VA.gov through Google, see if we can improve the Google search path with metadata on pages.
