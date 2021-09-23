@@ -30,6 +30,7 @@
 
 ## Monday, September 27, 2021
 * Creation of new facilities from Facilities sync call
+* Absolute URLs for services being pulled by LH from CMS - timeline, roadmap
 
 ## Monday, September 20, 2021
 * Facility data update workflow, [6413](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6413)
