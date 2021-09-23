@@ -76,6 +76,8 @@ ASSESS utility (was it helpful to users and prevented them from getting stuck?) 
   
 1. **Despite the new design concepts, some participants still got stuck**.
 
+1. **Finding different search tools on different pages is confusing** (i.e., Va.gov site search, Find a VA Form, Resources and Support).
+
 1. **Some participants prefer to browse web pages first, before searching**.
 
 1. Most participants said that they **typically use Google to find VA information**.
@@ -129,23 +131,39 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 - Participants assumed that what they were looking for would be in the search results, and when they didn't find it there, some seemed frustrated. When searching for "college credit", two participants specifically called out the search result "Lenders Page - VA Home Loans" as completely irrelevant, which led one of them to assume it was an ad.
 > "I couldn’t find what I was looking for” (p16).
 
+> "Oh, it seems like search doesn't work" (p13).
+
+- Some participants judge the quality of the search results based on the number of results returned, and they expect to find what they're looking for in the first page or two of search results.
+> 1 participant commented that having only 14 search results from *Find a VA Form* instead of 999 from site search "tells me that I'm getting closer to what I'm looking for" (p2).
+
 - When search results didn't contain anything relevant, most participants wanted to refine their search query, which wasn't possible to do in the prototypes.
 - 6 of 7 participants got stuck trying to do task 3, which required them to find and use *Resources and Support*. The name "Resources and Support" was interpreted by participants as too general or vague to be useful. They were looking specifically for education-related content. After repeated prompts from the moderator to see if they could find anything else to help, 3 of the 6 eventually tried *Resources and Support* and then were successful with the task. 
 - 2 of 7 participants got stuck in task 1; one of them eventually found *Find a VA Form* on the search results page. Successful participants found *Find a VA Form* on the search landing page (4 participants) or on the search results page (2 participants).
 - All 7 participants were successful with task 2, although all but one didn't use any of the new design concepts in the prototypes. They found *Find a VA Location* in the header (3 participants), in the wide blue button farther down the home page (3 participants), or at the bottom of the search results page (1 participant).
   - 1 participant who missed *Find a VA Location* in the header but saw it later recommended moving it to the left of *About VA* because 
+- When participants got stuck during their research sessions, 3 of them said that they would try to contact someone via phone or the link "ask a question online" that 2 of them found.
 
-## 3. Some participants prefer to browse web pages first, before searching
+## 3. Finding different search tools on different pages is confusing (i.e., Va.gov site search, Find a VA Form, Resources and Support)
+- 3 participants said that it was confusing to go to different pages to use different search tools, and that it would be simpler if they all were in one place. 2 of them also said that they didn't want to have to load a separate page for each tool on the search landing page, given the slowness of their Internet connection. Their suggestions included radio buttons underneath the search box or a dropdown when you clicked *Search* on the home page in order to select what you want to search.
+> "It would be helpful if everything is consolidated onto one page” (p13).
+
+- Participants had differing opinions on what content they were searching:
+  - 3 thought that everything in *Find a VA Form* and *Resources and Support* would also be in the general site search results but maybe not in the top page of them. Using the current VA.gov site search, the *Resources and Support article* "How do I get college credits for my military service?" is on the fourth (!) page of results.
+> "Maybe that result is on page 2 or 3, but the odds of me going there are slim" (p5).
+
+  - 1 participant expected *Find a VA Form* and *Resources and Support* results to *not* be in the general site search.
+  - 1 participant trusted *Find a VA Form* to be an exhaustive list of all forms, which was preferable than having to get the exact name of the form correct to find it with the site search.
+
+## 4. Some participants prefer to browse web pages first, before searching
 - All 7 participants went first to the "top 4" boxes, which unfortunately were not functional in the prototypes. No one went to *Search* first, but all eventually did because they were unable to browse anywhere that helped. If the links in the "top 4" boxes and in the topics below the row of pictures had worked in the prototype, perhaps fewer participants would have tried search.
 - 3 participants then tried *VA Benefits and Health Care*, which also wasn't functional in the prototype.
 - When participants navigated to a page containing a search box at the top (i.e., search landing page, Find a VA Form, and Resources and Support), 3 of the 7 scrolled down to look at everything on the page before going back up to the top to type into the search box. One of these participants also scrolled slowly through the entire VA.gov home page and the two content pages that were active links in the search results--they said that they always read the entire web page before interacting.
 
-## 4. Most participants said that they typically use Google to find VA information
+## 5. Most participants said that they typically use Google to find VA information
 - 5 of 7 participants said that when they are looking or information about VA benefits, they go first to Google. Several participants said that they verify what they find to make sure that it came from a VA website or could be confirmed there. 
 - One participant who got stuck said that they would go to Google instead of trying VA.gov again because Google searches more websites. 
 - Search on VA.gov returns a lot of irrelevant results, and so many Veterans have learned to look elsewhere first.
 > "If I had more success finding information on va.gov, I might go directly there. because I have so much success on google I just go there now". OK w/starting w/Google instead of Va.gov (p13).
-
 
 
 # Additional Insights: 
@@ -168,20 +186,21 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 1. On the search landing page, consider adding a visual indication that there's something below the search box to see.
     1. Another potential design idea is to add radio buttons directly underneath the search box to select all of VA.gov, Find a VA Form, or Resources & Support.
 3. For the "Can't find what you're looking for?" link, consider making it stand out more visually. This might be done by putting it into a box, or maybe put the link inside each of the "top 4" boxes (since that's where people are looking).
-4. Work with the Search.gov team to see if we can get more relevant search results, which may include searching only the main content of each page and not the side links, related links, header, and footer. If we succeed at getting more relevant results from search.gov, we might want to...
+4. Work with the Search.gov team to see if we can get more relevant search results, which may include searching only the main content of each page and not the side links, related links, header, and footer. We should also make sure that all *Find a VA Form* and *Resources and Support* content is included in the search.gov results. If we succeed at getting more relevant results from search.gov, we might want to...
     1. Communicate that to Veterans so they'll try it again and see for themselves that it has improved and thus is worth using.
-    1. Make the search link in the header more visible/prominent so more Veterans will notice it.
+    2. Maybe limit the number of results returned so it's not "999" a lot of the time (which suggests an ineffective search). 
+    3. Make the search link in the header more visible/prominent so more Veterans will notice it.
 6. Since so many people get to VA.gov through Google, see if we can improve the Google search path with metadata on pages.
 
 ## For other teams
 1. Consider renaming _Resources and Support_ to "FAQs" because this is a more widely used term that users understand.
 > "I think FAQs are really helpful if it is an exhaustive list” (p5).
-2. Consider making the headers in the "top 4" boxes into links (e.g., "Education" could go to the [VA education and training benefits page](https://www.va.gov/education/) page) because that's where many Veterans look first.
-4. Consider adding "Resources" to the header next to "Find VA Location" to enable more Veterans to find it.
+1. Consider adding "Resources" to the header next to "Find VA Location" to enable more Veterans to find it.
+1. Consider making the headers in the "top 4" boxes into links (e.g., "Education" could go to the [VA education and training benefits page](https://www.va.gov/education/) page) because that's where many Veterans look first.
 
 # Next Steps
 
-Share findings and recommendations with the Search & Discovery team. 
+Share findings and discuss recommendations with the Search & Discovery team. 
 
 
 # Further research needed
