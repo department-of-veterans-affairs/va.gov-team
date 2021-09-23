@@ -35,8 +35,9 @@ Scheduling Mobile VAMC facilities research/design/discovery overview
 - Mobile, CLCs, and Domicilaries are all getting unpublished/archived, so not blocking current VAMCs going out. Central Arkansas has created a Domicilary program page. 
 
 Official vs plain language Vet Center names 
-- Need to confirm: low priority because District 1 and 5 are already handled?
+- Need to confirm: low priority because District 1 and 5 are already handled? -> Ogden Outstation (Major Brent Taylor)
 - CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
+
 
 National health service content in the Vet Center facility editing experience
 
