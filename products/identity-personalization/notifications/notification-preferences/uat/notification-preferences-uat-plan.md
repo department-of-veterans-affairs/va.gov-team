@@ -4,13 +4,9 @@
 
 ## Background
 
-Briefly describe the background of your product. Consider:
+The VA is ramping up their digital communications efforts, specifically through email and text. As a result, Veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.
 
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md).
+See our [MVP definition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/communications-permissions-mvp-definition.md) for more details.
 
 ### OCTO-DE Objectives 
 
@@ -20,7 +16,7 @@ Briefly describe the background of your product. Consider:
 
 ### Veteran Journey
 
-Since our MVP includes notifications related to health care and appeals, it could support Veterans at multiple stages throughout their journey:
+Our MVP includes notifications related to health care and appeal hearings, which are part of multiple stages throughout the Veteran journey:
 
 - Starting up
 - Taking care of myself
@@ -29,84 +25,41 @@ Since our MVP includes notifications related to health care and appeals, it coul
 
 ## Research Goals	
 
-The primary goal of our UAT is to confirm that users are able to 
+The primary goal of our UAT is to confirm that our MVP functionality works as expected.
+
+As a secondary goal we would like to validate that our solution works well on mobile devices and no major usability hurdles have been introduced during the iterations that have occurred since our last usability test.
 
 ### Outcome
 
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Based on the outcome of this research study, we will either release our MVP to production, or update our design to correct any significant usability hurdles people encounter.
 
 ### Research questions
 
-Consider bucketing research questions under research goals. For each question, think about:
-
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- Are people are able to successfully set their notification preference?
+- Are people are able to add a mobile number to their profile from the notification settings page?
+- Are people are able to easily return to the notification settings page after adding a mobile number?
+- Are the backend systems supporting those actions are functioning as expected?
+- Is our solution is easy for people to use on mobile devices?
+- Do people understand the auto-save functionality?
+- Do people understand the [experimental input message pattern](https://design.va.gov/experimental-design/input-message)?
 
 ### Hypothesis
 
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+- Our MVP will work as expected
+- We'll discover some bugs we didn't know about
+- We have not introduced any major usability hurdles since we last tested our MVP
 
 ## Method	
 
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
+User acceptance testing (UAT)
 
 ### Location
 
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-
-- Location
-- Point of contact
-- Equipment used for research
+Remote via Zoom
 
 ### Research materials
 
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For unmoderated testing: 
-
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-
-- [Link to recruitment flyer](url goes here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/uat/notification-preferences-uat-convo-guide.md) 
 
 ## Recruitment	
 
@@ -131,18 +84,44 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 
 ### Recruitment criteria
 
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Please recruit 12 participants for 6 completed sessions.
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could 1) leverage the [lean MVS approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) or 2) break up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+- All participants must be LOA3 (identity verified) on VA.gov. 
+  - **Participants will likely not know what this means**, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
+  - If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
+  - If they can see the profile, they are LOA3 and can participate in testing.
+- Participants must be able to screenshare via Zoom on a mobile device other than a tablet. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. 
+  - If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
+  - **Qualifier:** Are you able to join a Zoom session from a mobile device other than a tablet, such as a Samsung Galaxy or iPhone? (Answer should be yes to qualify)
+- We need a mix of participants who currently receive VA health care:
+  - 50% of participants must currently receive VA health care
+  - 50% of participants must not currently receive VA health care
+- We need a mix of participants who are and are not registered at specific VA Medical Center sites:
+  - At least two participants should be registered at a VAMC in Denver, CO or Asheville, NC
+  - At least two participants should NOT be registered at a VAMC in Denver, CO or Asheville, NC
+  - **Qualifier:** Are you registered with a VA health facility in Denver, CO or Asheville, NC?
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+
+Gender:
+
+- At least 3 women
+
+Inclusion:
+
+- At least 6 people with cognitive disabilities
+- At least 3 people over 55+ (not more than 8)
+- At least 6 people who use assistive technology (such as screen readers, keyboard magnification, hearing aids, or voice recognition)
+- At least 3 transgender Veterans
+- At least 3 Veterans living abroad
+
+Geographic distribution:
+
+- 3 participants from the east coast
+- 3 participants from the mid-west
+- 3 participants from the west coast
 
 ## Timeline
 
@@ -154,33 +133,46 @@ When will the thing you are testing be finalized? (Goes without saying, but shou
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
 
 ### Research sessions
 
 What dates do you plan to do research? 
 
+TBD
+
 ### Length of sessions
 
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+Sessions will be 30 minutes with 30 minutes in between sessions
 
 ### Availability
 
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
-	
+| Date        | Times |
+| ----------- | ----- |
+| October TBD |       |
+| October TBD |       |
+| October TBD |       |
+
+​	
 
 ## Team Roles	
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
+- Moderator: Liz Lantz, liz.lantz@adhocteam.us
+- Research guide writing and task development (usually but not always same as moderator):	Liz Lantz
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	Liz Lantz
+- Participant(s) for pilot test:	TBD
+- Note-takers:	TBD
 - Observers:	
-  **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+  - samara.strauss@va.gov
+  - ana@adhocteam.us
+  - erik@adhocteam.us
+  - lihan@adhocteam.us
+  - taylor.mitchell@gcio.com
+  - shawna@adhocteam.us
+  - maria.becker@thoughtworks.com
+  - paras@docme360.com
+  - beverly.nelson@va.gov
