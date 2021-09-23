@@ -82,13 +82,12 @@ All failure states have the following characteristics:
 
 All confirmations have the following characteristics:
 
-**Placement:** In modal component
-**Alert pattern, style:** Full width, warning state
-**Include heading:** Yes
-**Button usage:**
-
-- First button contains the confirming action and has the primary button style
-- Second button (if applicable) contains the cancel action and has the secondary button style
+- **Placement:** In modal component
+- **Alert pattern, style:** Full width, warning state
+- **Include heading:** Yes
+- **Button usage:**
+  - First button contains the confirming action and has the primary button style
+  - Second button (if applicable) contains the cancel action and has the secondary button style
 
 #### User cancels while editing information
 
