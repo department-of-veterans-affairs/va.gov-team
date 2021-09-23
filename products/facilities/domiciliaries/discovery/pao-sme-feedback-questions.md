@@ -3,14 +3,15 @@
 ### PAO/SME Questions
 
 - We want to create a template to standardize page content - what makes sense to standardize?
-  - Intro paragraph
-  - Admissions description
-  - Hours of operation description
+  - Thought the current section heading were good, suggested adding a transportation/lodging section to the accordions under "Prepare for Your Visit".
 - Is there a distinction between regular business hours, and 24/7 health care hours?
-  - ie. Residents have 24/7 access to care, but what about visiting hours, or regular business hours for non-residents?
+  - Yes, in that administrative coordinators, and other administrators, are accessible during regular business hours. The main domiciliary phone, and health services, are accessible 24/7. Maybe make the labeling more clear so non-resident Veterans don't think they have access.
 - Are there specific phone numbers for admissions, vs health care personel, etc.?
+  - Yes, and distinguishing between admissions coordinator contact and regular contact info may be helpful.
 - Is it feasible for you to create/edit this page layout?
+  - Eastern CO has a webmaster that updates everything, so if it's available in Drupal, it's feasible.
 - For different kinds of programs (dom PTSD, dom RRTP, etc.) does one overall program page make sense?
+  - Dr. Rabenhorst-Bell suggested that Vets don't need the distinction between the various types of MHRRTP, not in the high-level information this program page is intended to convey.
 
 ### PAO/SME Interview (9/21/21)
 
@@ -40,7 +41,7 @@
 - [Nick - are there different phone numbers to call?]
 - [Mandy] **I was going to suggest adding a different phone number - usually the domiciliary phone would get you to the nurse's station or to the administrative person answering the phone, which is not the same as the admissions coordinator. So maybe listing both of those numbers is worth having.** If you've got a loved one in the program and you want to figure out how to get ahold of the program, even 24 hrs a day, that's a great phone number for that ["domiciliary phone"].
 - [Michell] What would you label a number for non-residents to call to speak to a resident in the program?
-- [Mandy] Just what you have there, **domiciliary phone, makes sense to me. It functions as a front-desk phone, in a way. What will happen though, if a loved one has someone in the program, unless they have a written release of information, they're going to hear that we can't confirm or deny that their loved on is in the pgoram. But they [non-resident] can share information or leave a message in emergency situations. Every Veteran in the program can use that number as well. The admissions coordinator line would not be available 24 hrs, it's just someone's office phone.**
+- [Mandy] Just what you have there, **domiciliary phone, makes sense to me. It functions as a front-desk phone, in a way. What will happen though, if a loved one has someone in the program, unless they have a written release of information, they're going to hear that we can't confirm or deny that their loved on is in the pgoram. But they [non-residents] can share information or leave a message in emergency situations. Every Veteran in the program can use that number as well. The admissions coordinator line would not be available 24 hrs, it's just someone's office phone.**
 - [Nick - asks about distinction between regular hours and health services hours; does it make sense to distinguish between these kinds of hours?]
 - [Mandy] Yeah that's a good question. The regular hours that makes sense - **for health services hours I wonder if there's a way to specify that they're for current residents. So that it's not confusing that health services are not available to any Veterans - for enrolled residents, or something like that.** 
 - [Nick - explaining context sentance for hours of operation; we could change labeling as well]
