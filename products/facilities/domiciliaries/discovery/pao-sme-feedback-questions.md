@@ -46,4 +46,6 @@
 - [Nick - explaining context sentance for hours of operation; we could change labeling as well]
 - [Mandy] I would do both, what you have written is great, but I think people's eyes often skip over that to the bold. Changing the labels can help remind people who skipped the context paragraph. I also liked have you have the vistor's hours and information below in the "prepare for your visit" section. We don't want to encourage random visitors or people just dropping by unannounced. We can clarify in this section - visiting really needs to be an appointment.
 - [Nick - explaining desire to standardize prepare for your visit accordions]
-- [Mandy]
+- [Mandy] We would sometimes have folks admitting to the program a day or so after they arrive in the area - usually we've arranged some sort of lodging. As a local program I would want to put that under transportation services and schedules. Lodging and schedules, something like that. [Michelle: maybe combine them?] Yeah, like here's how you get from the airport to get your lodging voucher for your hotel, and then how to get from the hotel to the program (for example). We could make it clear that we're talking about lodging in advance of an admission, not lodging people at hotels as a regular thing.
+- [Michelle - do non-fammiliy visitors need to be different or distinguised? Does the single accordion make sense?]
+- [Mandy] I think the single accordion makes sense, within there each program would be able to specify.
