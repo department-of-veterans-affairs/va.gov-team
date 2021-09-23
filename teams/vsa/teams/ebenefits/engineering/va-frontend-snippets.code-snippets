@@ -15,4 +15,15 @@
 		"body": ["<a className='vads-c-action-link--white' href='${2:href}'>${1:text}</a>"],
 		"description": "Action links guide users to a new page to take an action or to start an online tool or digital service."
 	},
+	// Additional Info
+	"Additional Info w import": {
+		"prefix": ["additional-info w import"],
+		"body": ["// move this import statement to the top of your file", "import additionalInfo from '@department-of-veterans-affairs/component-library/AdditionalInfo';", "<AdditionalInfo", "triggerText='${1:triggerText}'", ">", "${2:content}","</AdditionalInfo>"],
+		"description": "This is the additional info component from the design system with the import statement. https://design.va.gov/storybook/?path=/docs/components-additionalinfo--default",
+	},
+	"Additional Info": {
+		"prefix": ["additional-info"],
+		"body": ["<AdditionalInfo", "triggerText='${1:triggerText}'", ">", "${2:content}","</AdditionalInfo>"],
+		"description": "This is the additional info component from the design system. https://design.va.gov/storybook/?path=/docs/components-additionalinfo--default",
+	}
 }
