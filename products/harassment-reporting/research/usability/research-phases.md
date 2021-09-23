@@ -11,6 +11,7 @@ We want to reach out to several SMEs who work with Veterans dealing with harassm
 - Vet Center outreach specialists or counselors 
 - VA staff who answer harassment reporting calls from Veterans and/or VA employees
 - Patient advocates at the VA
+
 I would like to get their input on developing a conversation guide.
 
 We will talk with the SMEs about what we want to do and get feedback from them on our research approach. The goal is **use the expertise of the SMEs to develop a safe and ethical approach for getting feedback on the harassment tool from Veterans**. 
