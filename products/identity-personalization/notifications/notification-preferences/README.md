@@ -1,6 +1,6 @@
 # Communications permissions (notification preferences): Product outline
 
-Last Updated August 03, 2021
+Last Updated September 23, 2021
 
 ## POCs
 
@@ -16,9 +16,9 @@ Last Updated August 03, 2021
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
-|Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Taylor Mitchell | FE Engineer| taylor.mitchell@gcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
 |Terry Bazemore | VA Profile Engineer |Terry.Bazemore@va.gov |
@@ -95,6 +95,7 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **June 2021**: Desktop usability study complete ([research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research))
 - **July 2021**: Development, design iterations
 - **August 2021**: Development, design iterations, testing with partners
+- **September 2021**: Development, Testing with partners, UAT planning
 
 ## Product Decisions
 
