@@ -1,29 +1,45 @@
 {
+	// These are snippets of the design system components for VA.gov. To install them in Visual Studio Code
+	// Go to Preferences -> user snippets -> New Global Snippets File -> name it whatever you want and then paste
+	// The contents of this file into the file that opens up. Then save it. You can now use these snippets.
 	// Action Links
 	"Action Link Primary": {
 		"prefix": ["action-link-primary"],
 		"body": ["<a className='vads-c-action-link--green' href='${2:href}'>${1:text}</a>"],
-		"description": "Action links guide users to a new page to take an action or to start an online tool or digital service."
+		"description": "Action links guide users to a new page to take an action or to start an online tool or digital service. https://design.va.gov/storybook/?path=/docs/components-action-link--primary"
 	},
 	"Action Link Seconday": {
 		"prefix": ["action-link-secondary"],
 		"body": ["<a className='vads-c-action-link--blue' href='${2:href}'>${1:text}</a>"],
-		"description": "Action links guide users to a new page to take an action or to start an online tool or digital service."
+		"description": "Action links guide users to a new page to take an action or to start an online tool or digital service. https://design.va.gov/storybook/?path=/docs/components-action-link--secondary"
 	},
 	"Action Link Reverse": {
 		"prefix": ["action-link-reverse"],
 		"body": ["<a className='vads-c-action-link--white' href='${2:href}'>${1:text}</a>"],
-		"description": "Action links guide users to a new page to take an action or to start an online tool or digital service."
+		"description": "Action links guide users to a new page to take an action or to start an online tool or digital service. https://design.va.gov/storybook/?path=/docs/components-action-link--reverse"
 	},
 	// Additional Info
 	"Additional Info w import": {
 		"prefix": ["additional-info w import"],
-		"body": ["// move this import statement to the top of your file", "import additionalInfo from '@department-of-veterans-affairs/component-library/AdditionalInfo';", "<AdditionalInfo", "triggerText='${1:triggerText}'", ">", "${2:content}","</AdditionalInfo>"],
+		"body": ["// move this import statement to the top of your file", "import additionalInfo from '@department-of-veterans-affairs/component-library/AdditionalInfo';", "<AdditionalInfo triggerText='${1:triggerText}' >", "	${2:content}","</AdditionalInfo>"],
 		"description": "This is the additional info component from the design system with the import statement. https://design.va.gov/storybook/?path=/docs/components-additionalinfo--default",
 	},
 	"Additional Info": {
 		"prefix": ["additional-info"],
-		"body": ["<AdditionalInfo", "triggerText='${1:triggerText}'", ">", "${2:content}","</AdditionalInfo>"],
+		"body": ["<AdditionalInfo triggerText='${1:triggerText}'>", "		${2:content}","</AdditionalInfo>"],
 		"description": "This is the additional info component from the design system. https://design.va.gov/storybook/?path=/docs/components-additionalinfo--default",
-	}
+	},
+	// Address block
+	"Address Block": {
+		"prefix": ["address-block"],
+		"body": ["<p class='va-address-block'>", "Department of Veterans Affairs Claims Intake Center <br />", "Attention: C-123 Claims<br />", "PO Box 5088<br />", "Janesville, WI 53547-5088<br />","</p>"],
+		"description": "This is a styled address block from our component library. https://design.va.gov/storybook/?path=/docs/components-address-block--default-story",
+	},
+	// Alert Box or VA Alert
+	"Alert Box 'Info'/ va-alert": {
+		"prefix": ["va-alert info"],
+		"body": ["<va-alert", "	onClose={function noRefCheck(){}}", "	status='${1:status}'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
+		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
+	},
+
 }
