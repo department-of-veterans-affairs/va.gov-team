@@ -1,0 +1,1 @@
+The purpose of this archive directory is to store outdated VAOS documentation.
