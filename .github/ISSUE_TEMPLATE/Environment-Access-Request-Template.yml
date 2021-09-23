@@ -10,20 +10,32 @@ body:
         2. Add the label used by your team (eg: `BAH-526`)
         3. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
         4. When the issue is closed you will be notified and can continue with on-boarding setup
-  - type: input
+  - type: dropdown
     id: cor-name
     attributes:
       label: COR Name
       description: Please provide your Contracting Officer's Representative (COR) name.
-      placeholder: ex. Janet Doe
+      options:
+        - Cecila Lee
+        - Crystal Moultrie
+        - Mary O’Toole
+        - Other (Write as a comment after issue is created)
     validations:
       required: true
-  - type: input
+  - type: dropdown
     id: vendor
     attributes:
       label: Vendor Onboarding Representative Name
       description: This is the person from the contracting company responsible for your onboarding process.
-      placeholder: ex. Janet Doe
+      options:
+        - Oddball - Amber Malcolm
+        - Insignia - Kimberly S. Cole
+        - Agile Six - Anthony M. Arashiro
+        - GovernmentCIO - Kimberly O. West
+        - Magnum Opus - Paula G. Mendoza
+        - Liberty IT -  Michael G. Lovejoy
+        - Accenture Federal Services - Alexa Elliot
+        - Other (Write as a comment after issue is created)
     validations:
       required: true
   - type: input
