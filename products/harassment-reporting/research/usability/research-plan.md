@@ -33,7 +33,7 @@ We also might be able to get from another Veteran the names of Veterans who have
 
 Ideally we would like to talk with 8 Veterans, but we may proceed instead with 5 SMEs and 5 Veterans.
 
-Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8? completed sessions using the following criteria:
+Ask Perigean to recruit 16 Veterans from the names we provide in order to get 8 completed sessions using the following criteria:
 
 ### Must have for participants
 - All are Veterans
@@ -47,7 +47,7 @@ Ask Perigean to recruit 16? Veterans from the names we provide in order to get 8
 ### Good to have for participants
 - At least 3 participants over 60
 - At least 2 people with a cognitive disability (e.g., TBI)- At least 2 people of color
-- At least 1 woman
+- At least 4 women
 - At least 1 participant 35 or under
 - At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 1 person that has a college degree (to include officer Veterans)
@@ -85,7 +85,7 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Participants for pilot test:	TBD
-**- Notetaker:	Perigean**
+- **Notetaker:	Perigean**
 - Observers:	Will be invited directly by the Moderator because we need to limit the number of observers per session. 
  
 ## Resources	
