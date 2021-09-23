@@ -32,4 +32,8 @@
 - [Nick] Do either of you update the site, and does this look feasible to do, if you had to add these kinds of sections?
 - [Brandy] I had done the training, we transitioned to Drupal on 9/27. We have a webmaster who does all of our updating. Mandy would request the changes, then upload a ticket to their work order system. I did articulate in my email that "make an appointment" [referencing blue system-level buttons] will take them back to the other page, but since these aren't make an appointment services having these buttons there can be a little misleading and confusing. A lot of our patients are an older demographic - I don't want to confuse people. 
 - [Nick - explains continuing IA feedback, and that we may not need to include blue system-level buttons]
-- 
+- [Mandy] Yeah I wouldn't want someone to think that if they click "register for care" that they have applied to the program. 
+- [Michelle] Is there a call to action that would be better or more relevant in place of those buttons?
+- [Brandy] All of these are referral based for mental health, typically Mandy?
+- [Mandy] Yeah typically, not really for the residential level of care. We're not usually the first stop for someone.
+- [Brandy] If there's a requirement for a call to action, maybe "talk to your mental health care professional now" or something along those lines, and it can foward them to the mental health queue. Their first step is typically a consult with their mental health provider. "Get mental health now" or similar. I feel like it's a very personal discussion, who's a better candidate for residential services vs who still needs more outpatient care. I agree with Mandy because [doms] are not the first point of contact.
