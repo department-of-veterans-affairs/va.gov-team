@@ -44,14 +44,14 @@ Search in header to search landing page | 6
 Search tool links on search results page | 4
 
 
-1. **Despite the new design concepts, some participants still got stuck.**
+2. **Despite the new design concepts, some participants still got stuck.**
     1. All 7 participants went first to the "top 4" boxes, which unfortunately were not functional in the prototypes. No one went first to *Search*, but they all eventually did because they were unable to browse anywhere that helped.
     1. When search results didn't contain anything relevant, most participants wanted to refine their search query, which wasn't possible to do in the prototypes.
     1. 6 of 7 participants got stuck trying to do task 3, which required them to find and use *Resources and Support*. This was difficult because the name "Resources and Support" was perceived by participants as too general or vague to be useful. After repeated prompts from the moderator to see if they could find anything else to help, 3 of the 6 eventually tried *Resources and Support* and then were successful. 
     1. 2 of 7 participants got stuck in task 1; one of them eventually found *Find a VA Form* on the search results page. Successful participants found *Find a VA Form* on the search landing page (4 participants) or on the search results page (2).
-1. All 7 participants were **successful with task 2, although all but one didn't use any of the new design concepts** in the prototypes. They found *Find a VA Location* in the header (3 participants), in the wide blue button farther down the home page (3), or at the bottom of the search results page (1).
-1. **No participants expressed any surprise when the Search link in the header took them to the new search landing page**. Some participants were asked what they would expect when they clicked on search in the header, and they said they expected to see a search box. When the search landing page opened with a search box at the top, we didn't observe any surprised reactions or hear any comments from any of the participants, regardless of whether they had been asked about their expectations before they clicked.
+3. All 7 participants were **successful with task 2, although all but one didn't use any of the new design concepts** in the prototypes. They found *Find a VA Location* in the header (3 participants), in the wide blue button farther down the home page (3), or at the bottom of the search results page (1).
+4. **No participants expressed any surprise when the Search link in the header took them to the new search landing page**. Some participants were asked what they would expect when they clicked on search in the header, and they said they expected to see a search box. When the search landing page opened with a search box at the top, we didn't observe any surprised reactions or hear any comments from any of the participants, regardless of whether they had been asked about their expectations before they clicked.
 
 
-3. Most (5 of 7) participants said that they **typically use Google to find VA information**, and several said that they would verify the results to make sure that they came from a VA website or could be confirmed there.
+5. Most (5 of 7) participants said that they **typically use Google to find VA information**, and several said that they would verify the results to make sure that they came from a VA website or could be confirmed there.
 
