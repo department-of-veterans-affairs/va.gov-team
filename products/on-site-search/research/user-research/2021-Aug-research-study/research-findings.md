@@ -64,24 +64,23 @@ We wanted half of the participants to join via smartphone so they could test the
 # Hypotheses and Conclusions
 
 1. A search *landing* page that highlights other search tools will result in more users using the search tools and finding what they're looking for.
-1. A search *results* page that highlights other search tools will result in more users using the search tools and finding what they're looking for.
-1. New search link(s) near the "top 4" boxes will result in more users finding what they're looking for.
-    1. : 
+    1. TRUE: 5 of 7 participants used the search tools on the landing page to successfully complete tasks.
+2. A search *results* page that highlights other search tools will result in more users using the search tools and finding what they're looking for.
+    1. TRUE: 4 of 7 participants used the search tools on the search results page to successfully complete tasks.
+4. A new search link near the "top 4" boxes will result in more users finding what they're looking for.
+    1. TRUE: 2 of 7 participants used the new search link under the "top 4" boxes to successfully complete tasks.
 
 # Key Findings
-
-ASSESS utility (was it helpful to users and prevented them from getting stuck?) and usability (was it findable and intuitive?) for each of the above design concepts.
 
 1. **All of the new design concepts were used by multiple participants** to complete tasks, though there were a few usability issues. 
   
 1. **Despite the new design concepts, some participants still got stuck**.
 
-1. **Finding different search tools on different pages is confusing** (i.e., Va.gov site search, Find a VA Form, Resources and Support).
+1. **Using different search tools on different pages is confusing** (i.e., Va.gov site search, Find a VA Form, Resources and Support).
 
 1. **Some participants prefer to browse web pages first, before searching**.
 
 1. Most participants said that they **typically use Google to find VA information**.
-
 
 
 # Details of Findings 
@@ -143,7 +142,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
   - 1 participant who missed *Find a VA Location* in the header but saw it later recommended moving it to the left of *About VA* because 
 - When participants got stuck during their research sessions, 3 of them said that they would try to contact someone via phone or the link "ask a question online" that 2 of them found.
 
-## 3. Finding different search tools on different pages is confusing (i.e., Va.gov site search, Find a VA Form, Resources and Support)
+## 3. Using different search tools on different pages is confusing (i.e., Va.gov site search, Find a VA Form, Resources and Support)
 - 3 participants said that it was confusing to go to different pages to use different search tools, and that it would be simpler if they all were in one place. 2 of them also said that they didn't want to have to load a separate page for each tool on the search landing page, given the slowness of their Internet connection. Their suggestions included radio buttons underneath the search box or a dropdown when you clicked *Search* on the home page in order to select what you want to search.
 > "It would be helpful if everything is consolidated onto one page” (p13).
 
