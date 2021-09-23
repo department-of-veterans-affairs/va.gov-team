@@ -98,7 +98,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participants for pilot test:	mark.huber@adhocteam.us
+- Participants for pilot test:	TBD
 - Notetakers:	Perigean 
 - Observers:	Denise Coveyduc (dcoveyduc@governmentcio.com), Megan Gayle (mgayle@governmentcio.com), Sam Suddath (ssuddath@governmentcio.com)
  
