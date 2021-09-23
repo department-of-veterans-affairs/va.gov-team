@@ -61,3 +61,4 @@
 | 59 | [Ask VA replaces IRIS and the GI Bill Help Portal](https://www.va.gov/resources/ask-va-replaces-iris-and-the-gi-bill-help-portal/) | Education | 9/17/21 |
 | 60 | [Your intent to file a VA claim](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) | Disability | 9/17/21 |
 | 61 | [How your reason for withdrawing from a class affects your VA debt](https://www.va.gov/resources/how-your-reason-for-withdrawing-from-a-class-affects-your-va-debt/) | Education | 9/17/21 |
+| 62 | [How we determine your percentage of Post-9/11 GI Bill benefits](https://www.va.gov/resources/how-we-determine-your-percentage-of-post-911-gi-bill-beneits/) | Education | 9/23/21 |
