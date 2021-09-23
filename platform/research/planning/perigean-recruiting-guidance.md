@@ -5,20 +5,19 @@
 Perigean is a small business that handles research recruiting for VA.gov teams. Our primary contacts are: 
 
 - Brian Moon
-- Shannon Bildstein
+- Shannon Housel
 
 ## Who are my VA.gov points of contact for Pergiean? 
 
 - Lauren Alexanderson (lauren.alexanderson@va.gov; slack: @lalexanderson; github: lalexanderson-dsva) is your primary POC for all user research recruiting needs. 
-- Jeff Hayter (Jeffrey.hayter@va.gov; slack: @hayter; GitHub: Jeff-Hayter) is the COR for this contract. 
-- Lacey Higley (lacey.higley@va.gov) can take and process requests for research if Lauren is unavailable or unresponsive. 
+- Mary O'Toole (mary.o'toole@va.gov; slack: @Mary O'Toole) is the COR for this contract. 
+- Alicia Proctor (aproctor@governmentcio.com; slack: @Alicia Proctor) can take and process requests for research if Lauren is unavailable or unresponsive. 
 
 ## What do I need to know about using Perigean for my study?
 
 - Perigean can recruit Veterans, caregivers, dependents, and service members for user research.
   - Of note, service members have proven to be a tricky population. Many service members work during normal business hours and cannot participate in studies Monday-Friday 9-5, or cannot install software for studies on their work machines. If you are looking to do a research study with service members, consider making yourself available to moderate during off hours. 
 - Perigean **cannot** recruit current VA employees or VSOs for studies. If you are looking to do user research on internal systems, you will need to do the recruiting legwork yourself. 
-- Perigean recruits for moderated research studies; if you're looking to do a card sort or tree test that requires 100s of participants for statistical significance, you will need to tap into other networks to do so. 
 - You may do remote (most popular) or in-person studies. However, Perigean can only recruit for in-person research to take place in the Washington DC metro area. 
   - If you are doing in-person research: You are responsible for coordinating a location where you can conduct your research. This may be a contractor's office, a WeWork space, a public library, a Veteran's home or office (if you don't mind doing the traveling). You may also use Perigean's space in Fredericksville. 
   - If you are looking to do in-person research outside of the DMV area, please reach out to Lauren. 
@@ -29,8 +28,7 @@ Perigean is a small business that handles research recruiting for VA.gov teams. 
 - Your official first step for any study (regardless of whether or not you are using Perigean) is to complete a research plan in GitHub. A [research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) can be found in the [Research Practice Area folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research). You must complete all questions in the template up to "resources". 
   - Research documentation should live with the product. Thus, your research plan should be saved in a research folder within your team's product folder. 
 - Write a conversation guide for your moderated research. [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). 
-- **Once you are ready, slack Lauren Alexanderson the link to your research plan and conversation guide.** 
-  - Alternately, create an issue in va.gov and assign it to Lauren and Lacey Higley. 
+- **Once you are ready, slack or email Lauren Alexanderson the link to your research plan and conversation guide.** 
   - Do not go directly to Perigean, even if you have worked with them in the past. 
 - Remote research can be requested up to 1 week out from your desired start date (more advance notice is great); in-person research requires a minimum of 2 weeks advance notice. 
 - Lauren will submit your research to Perigean,  send an email to kick off your study, and create a slack channel for you to communicate with Perigean during the study. 
