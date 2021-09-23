@@ -18,3 +18,4 @@
 
 **SME:** Dr. Mandy Rabenhorst-Bell (mandy.rabenhorst-bell@va.gov), Chief Psychologist, Eastern CO Domiciliaries
 
+- [Mandy] If it's going to be consistant across all VA, then it makes sense to not reinvent definitions or descriptions, but borrow what's there. [Referened definitions and info contained in VHA publication [1162.02 - Mental Health Residential Rehabilitation Program](https://www.va.gov/vhapublications/publications.cfm?Pub=1)]. 
