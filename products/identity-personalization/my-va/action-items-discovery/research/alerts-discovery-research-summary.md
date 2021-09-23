@@ -310,16 +310,17 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Work with team to figure out what should or should not (or can and cannot) be included in MVP
 
 ### Understand each alert in MVP
-   - [ ] Work with VA.notify and VetText to understand how the current APIs work, how to connect to them and/or if we need to build something new
-   - [ ] Work with VA.notify and VetText to understand content of each alert
-   - [ ] Outline time-sensitivity/urgency of each alert
+   - [ ] Work with VAnotify and VetText to understand how the current APIs work, how to connect to them and/or if we need to build something new
+   - [ ] Work with VAnotify and VetText to understand content of each alert
+   - [ ] Outline actionability of each alert - if not, put actionable alerts on My VA
 
-### Figure out how to incorporate an alerts link into the IA/header (work with Ryan Thurlwell
+### Figure out how to incorporate an alerts link into the IA/header (work with Ryan Thurlwell)
    - [ ] Explore ways to show an Alerts link in the navigation
    - [ ] Work with the appropriate parties to get it implemented
 
 ### Figure out what alerts should be included based on other initiatives (and how to include them)
    - [ ] This provides a platform for other teams to interface with - we want to connect! We need to figure out how.
+      - [ ] Talk to Bev Nelson and Maria 
    - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
    - [ ] Outline each initiative and determine technological restraints
 
@@ -333,7 +334,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 ### Prioritization
    - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification'
    - [ ] Differentiate action items and notifications
-   - [ ] Run a card sort to determine which alerts qualify as time sensitive or an unexpected problem
+   - [ ] Post-launch run a card sort to determine which alerts qualify as time sensitive or an unexpected problem (product direction vs product performance)
 
 ### Deprioritize read vs unread alerts for MVP 
    - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
