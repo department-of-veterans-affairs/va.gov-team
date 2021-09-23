@@ -148,7 +148,11 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 
 # Additional Insights: 
 
-1. There was some hesitation about using *Find a VA Form* if they didn't know the form number (1 participant) or the proper name of the form (another participant). The first participant was looking for the form number in various content pages. Here's a quote from the second participant: 
+1. Three participants said that they didn't understand what *Resources and Support* meant and so didn't click on it. The word "FAQs" in the description in the *Resources and Support* tile is what led to some of them eventually trying it.
+> "Might be anything, info I already know, things I don't need to do, might be about claims, will have info about everything" (p1).
+
+> Because it's at the very bottom of the page [in the footer], it seems like "A last resort instead of what I should go to first" (p5).
+2. There was some hesitation about using *Find a VA Form* if they didn't know the form number (1 participant) or the proper name of the form (another participant). The first participant was looking for the form number in various content pages. Here's a quote from the second participant: 
 > “I guess here I am stuck because I don’t know what the form is called, so I don’t know what to search for” (p16).
 
 2. When looking for an education home page, 2 participants tried to click on the "Education" header in the "top 4" Education box. Another participant thought that the "Education and Training" link before the pictures might help.
@@ -166,7 +170,10 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 6. Since so many people get to VA.gov through Google, see if we can improve the Google search path with metadata on pages.
 
 ## For other teams
-1. Consider making the headers in the "top 4" boxes into links (e.g., "Education" could go to the [VA education and training benefits page](https://www.va.gov/education/) page) because that's where many Veterans look first.
+1. Consider renaming _Resources and Support_ to "FAQs" because this is a more widely used term that users understand.
+> "I think FAQs are really helpful if it is an exhaustive list” (p5).
+2. Consider making the headers in the "top 4" boxes into links (e.g., "Education" could go to the [VA education and training benefits page](https://www.va.gov/education/) page) because that's where many Veterans look first.
+4. Consider adding "Resources" to the header next to "Find VA Location" to enable more Veterans to find it.
 
 # Next Steps
 
