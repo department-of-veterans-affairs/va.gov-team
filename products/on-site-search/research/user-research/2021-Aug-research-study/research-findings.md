@@ -6,8 +6,6 @@ Date: 08/27/2021
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
-[Research Report PDF]()
-
 <br>
 
 **Jump to:**
