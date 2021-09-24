@@ -25,7 +25,7 @@
 
 Help desk 
 
-Ability to archive certain content types restricted to content admins
+Ability to archive certain content types now restricted to content admins. Relevant content types for VAMC: 
 
 * Events List
 * Health Services List
@@ -42,7 +42,7 @@ Ability to archive certain content types restricted to content admins
 * VAMC System Register for Care
 * VAMC System Medical Records Office
 * VAMC System Billing and Insurance
-
+* **[KB article](https://prod.cms.va.gov/help/cms-basics/archiving-and-deleting-content)**
 
 
 KB article: [How do I feature a Story on my site's homepage](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
