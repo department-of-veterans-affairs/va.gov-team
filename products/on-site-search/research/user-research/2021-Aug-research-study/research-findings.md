@@ -10,7 +10,7 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md#hypotheses-and-conclusions)
 
 [Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md#key-findings)
 
@@ -30,11 +30,11 @@ The purpose of this research was to get user feedback on new design concepts for
 1. A **new search landing page** that has links to other search tools (e.g., Find a VA Form, Resources & Support, and Find a VA Location)
 1. A **new link** on the VA.gov home page **under the "top 4" boxes** that goes **to the new search landing page**
 1. **Search in the header** as a link that **goes to the new search landing page**
-1. **New links at the bottom of the search results page go to other search tools**
+1. **New links at the bottom of the search results page that go to other search tools**
 
 For each of the above design concepts, we wanted to assess *usage* (was it helpful to users in preventing them from getting stuck?) and *usability* (was it findable and intuitive?).
 
-You can see screenshots of all of these design concepts in the [Pages and applications used section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used) in the Appendix.
+You can see screenshots of all of these design concepts in the [Pages and applications used section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md#Pages-and-applications-used) in the Appendix.
 
 # Research Questions
 1. Do users find and use the other search tools?
