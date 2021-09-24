@@ -236,7 +236,7 @@ After some or all of the design concepts have been launched, we should look at t
 ![search-results-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/search-results-pg.png)
 
 
-## Who we talked to 
+# Who we talked to 
 We talked to **7 participants.**
 
 Audience segment:
