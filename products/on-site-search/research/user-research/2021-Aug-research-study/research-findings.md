@@ -123,7 +123,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 ### Search tool links on search results page
 - 4 participants didn't scroll down far enough on the search results page at first or ever to notice the search tool links at the bottom. To see the search tool links, they needed to scroll down below the numbered links to the subsequent pages of search results, which these participants didn't do.  
 - When one participant finally scrolled down far enough to see the links, they exclaimed
-- > "Oh wow, that's cool!" (p1)
+> "Oh wow, that's cool!" (p1)
 - Another participant who noticed the search tool links at the end of the session, said that they overlooked them before because they weren't looking for anything but search results. They thought it would be better if the tools could be "more in your face" (p8) on the right of the search results that scrolls down with you (sounds like the "right rail" placement that was previously tried and tested poorly).
 
 ## 2. Despite the new design concepts, some participants still got stuck.
