@@ -177,7 +177,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 
 > "It's a hunt--crazy to figure out what words are needed" (p15).
 
-2. When looking for an education home page, 2 participants tried to click on the "Education" header in the "top 4" Education box. Another participant thought that the "Education and Training" link below the pictures might help.
+3. When looking for an education home page, 2 participants tried to click on the "Education" header in the "top 4" Education box. Another participant thought that the "Education and Training" link below the pictures might help.
 
 # Recommendations
 
