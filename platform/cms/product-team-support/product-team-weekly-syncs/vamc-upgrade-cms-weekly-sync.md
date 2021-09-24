@@ -27,6 +27,7 @@
 * Kevin out
 * Manila
 * PAO newsletter items
+  * training exercises
  
 ## September 24
 
@@ -70,8 +71,6 @@ KB article: [How do I feature a Story on my site's homepage](https://prod.cms.va
 * **CMS issue:** Improve VAMC System photo guidance (don't mashup facilities into the decorative photo)
 
 Dual state / prod launches
-
-
 
 
 ## September 17
