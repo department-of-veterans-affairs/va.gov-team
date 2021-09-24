@@ -66,6 +66,131 @@
 		"body": ["<va-alert","	background-only", "	onClose={function noRefCheck(){}}", "	status='error'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
+  "Accordion web-component":
+  {
+    "prefix": "va-accordion",
+    "description": "Accordion web-component",
+    "body":
+    [
+      "<va-accordion",
+      "  disableAnalytics={{",
+      "    value: 'false',",
+      "  }}",
+      "  openSingle={{",
+      "    value: undefined,",
+      "  }}",
+      "  sectionHeading={{",
+      "    value: 'null',",
+      "  }}",
+      ">",
+      "  <va-accordion-item header=\"${1:header}\">",
+      "    ${2:content}",
+      "  </va-accordion-item>",
+      "</va-accordion>;",
+      ""
+    ]
+  },
+	"Alert web component":
+  {
+    "prefix": "va-alert",
+    "description": "Alert web component",
+    "body":
+    [
+      "<va-alert",
+      "  onClose={function noRefCheck(){}}",
+      "  status=\"info\"",
+      ">",
+      "  <h3 slot=\"headline\">",
+      "    Alert headline",
+      "  </h3>",
+      "  <div>",
+      "    This is an alert",
+      "  </div>",
+      "</va-alert>"
+    ]
+  },
+	"Checkbox input web component":
+  {
+    "prefix": "va-checkbox",
+    "description": "Checkbox input web component",
+    "body":
+    [
+      "<va-checkbox",
+      "  ariaDescribedby={{",
+      "    value: '\\'\\''",
+      "  }}",
+      "  checked={null}",
+      "  description={null}",
+      "  error={null}",
+      "  label=\"This is a cleverly-labelled checkbox\"",
+      "  required={null}",
+      "/>"
+    ]
+  },
+	"On this page web component":
+  {
+    "prefix": "va-on-this-page",
+    "description": "On this page web component",
+    "body":
+    [
+      "<va-on-this-page></va-on-this-page>",
+      "<h2 id=\"heading-1\">",
+      "  Heading 1",
+      "</h2>"
+    ]
+  },
+	"Radio input group web component":
+  {
+    "prefix": "va-radio",
+    "description": "Radio input group web component",
+    "body":
+    [
+      "<va-radio",
+      "  enableAnalytics={{",
+      "    value: undefined",
+      "  }}",
+      "  error={null}",
+      "  label=\"This is a label\"",
+      ">",
+      "  <va-radio-option",
+      "    label=\"Option one\"",
+      "    name=\"one\"",
+      "    value=\"1\"",
+      "  />",
+      "</va-radio>"
+    ]
+  },
+	"Select input web component":
+  {
+    "prefix": "va-select",
+    "description": "Select input web component",
+    "body":
+    [
+      "<va-select",
+      "    aria-live-region-text=\"You selected\"",
+      "    error={null}",
+      "    label=\"Branch of Service\"",
+      "    name=\"branch\"",
+      "    value=\"army\"",
+      "  >",
+      "    <option value=\"navy\">",
+      "      Navy",
+      "    </option>",
+      "    <option value=\"army\">",
+      "      Army",
+      "    </option>",
+      "    <option value=\"marines\">",
+      "      Marines",
+      "    </option>",
+      "    <option value=\"air-force\">",
+      "      Air Force",
+      "    </option>",
+      "    <option value=\"coastguard\">",
+      "      Coastguard",
+      "    </option>",
+      "  </va-select>"
+    ]
+  },
 	"Text Input va-text-input web component": {
 		"prefix": ["va-text-input"],
 		"body": [
@@ -74,7 +199,7 @@
 			"	enabled-analytice={null}",
 			" placeholder=''",
 			" label='${1:label}'",
-			" name='${2:name}",
+			" name='${2:name}'",
 			" required={null}",
 			" value={null}"
 			"/>"
