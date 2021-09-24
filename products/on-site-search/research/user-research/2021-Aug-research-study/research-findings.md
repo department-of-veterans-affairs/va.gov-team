@@ -177,26 +177,26 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 
 > "It's a hunt--crazy to figure out what words are needed" (p15).
 
-2. When looking for an education home page, 2 participants tried to click on the "Education" header in the "top 4" Education box. Another participant thought that the "Education and Training" link before the pictures might help.
+2. When looking for an education home page, 2 participants tried to click on the "Education" header in the "top 4" Education box. Another participant thought that the "Education and Training" link below the pictures might help.
 
 # Recommendations
 
 ## For the Search & Discovery team
-1. Consider implementing all 4 of the design concepts because each helped multiple participants from completing tasks and getting stuck.  
-1. On the search results page, consider design ideas for positioning the search tool links farther up on the page or adding a visual indication that there's something below the page navigation to see.
+1. Consider implementing all 4 of the design concepts because each helped multiple participants to complete tasks and avoid getting stuck.  
+1. On the search results page, consider design ideas for positioning the search tool links higher up on the page or adding a visual indication that there's something below the page navigation to see.
 1. On the search landing page, consider adding a visual indication that there's something below the search box to see.
     1. Another potential design idea is to add radio buttons directly underneath the search box to select all of VA.gov, Find a VA Form, or Resources & Support.
-3. For the "Can't find what you're looking for?" link, consider making it stand out more visually. This might be done by putting it into a box, or maybe put the link inside each of the "top 4" boxes (since that's where people are looking).
-4. Work with the Search.gov team to see if we can get more relevant search results, which may include searching only the main content of each page and not the side links, related links, header, and footer. We should also make sure that all *Find a VA Form* and *Resources and Support* content is included in the search.gov results. If we succeed at getting more relevant results from search.gov, we might want to...
+3. For the "Can't find what you're looking for?" link, consider making it stand out more visually. This might be done by putting it inside a box or inside *each* of the "top 4" boxes (since that's where people are looking).
+4. Work with the Search.gov team to see if we can get more relevant search results, which may include searching only the main content of each page and not the side links, related links, header, and footer. We should also make sure that all *Find a VA Form* and *Resources and Support* content is included in the search.gov results. If we succeed at getting more relevant results from Search.gov, we might want to...
     1. Communicate that to Veterans so they'll try it again and see for themselves that it has improved and thus is worth using.
-    2. Maybe limit the number of results returned so it's not "999" a lot of the time (which suggests an ineffective search). 
+    2. Limit the number of results returned so it's not frequently "999" (which suggests an ineffective search that returned too much). 
     3. Make the search link in the header more visible/prominent so more Veterans will notice it.
-6. Since so many people get to VA.gov through Google, see if we can improve the Google search path with metadata on pages.
+6. Since so many people get to VA.gov through Google, see if we can improve the Google search path by improving metadata on VA content pages.
 
 ## For other teams
 1. Consider renaming _Resources and Support_ to "FAQs" because this is a more widely used term that users understand.
 > "I think FAQs are really helpful if it is an exhaustive list” (p5).
-1. Consider adding "Resources" to the header next to "Find VA Location" to enable more Veterans to find it.
+2. Consider adding "Resources" to the header next to "Find VA Location" to enable more Veterans to find it.
 1. Consider making the headers in the "top 4" boxes into links (e.g., "Education" could go to the [VA education and training benefits page](https://www.va.gov/education/) page) because that's where many Veterans look first.
 
 # Next Steps
