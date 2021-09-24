@@ -30,7 +30,7 @@ The purpose of this research was to get user feedback on new design concepts for
 1. A **new search landing page** that has links to other search tools (e.g., Find a VA Form, Resources & Support, and Find a VA Location)
 1. A **new link** on the VA.gov home page **under the "top 4" boxes** that goes **to the new search landing page**
 1. **Search in the header** as a link that **goes to the new search landing page**
-1. **New links at the bottom of the search results page that go to other search tools**
+1. **New links at the bottom of the search results page** that go to other search tools
 
 For each of the above design concepts, we wanted to assess *usage* (was it helpful to users in preventing them from getting stuck?) and *usability* (was it findable and intuitive?).
 
@@ -40,7 +40,7 @@ You can see screenshots of all of these design concepts in the [Pages and applic
 1. Do users find and use the other search tools?
 1. What are users' reactions to a landing page that highlights search tools? 
 1. Do users try using the search tools from links on the landing page?  
-1. What are users' reactions to Search in the header taking them to a landing page?
+1. What are users' reactions to *Search* in the header taking them to a landing page?
 1. Do users try the new search link under the "top 4" boxes? What are users' reactions to it taking them to a landing page?
 1. Do users notice the search tool links at the bottom of the search results page? Do they try using them? Reactions?
 1. Are users able to complete tasks without getting stuck?
@@ -57,7 +57,7 @@ Task # | Task Goal | Site Search | Search Tool that Helps
 
 In the prototypes, site search leads only to unhelpful search results (as it does today in Production for each of the above search tasks, which is why we selected them). We wanted to see what participants would do and whether they would find and try one of the other search tools. We built a separate prototype for each task so that search query and search results shown could be different.
  
-We wanted half of the participants to join via smartphone so they could test the mobile version of the prototypes, but none of the recruited mobile users showed up and used their phone for the session. We declined Perigean's offer to extend the research sessions beyond the allotted timeframe to try to recruit more mobile users. One of our pilot testers used a smartphone for the research session, so we have a bit of feedback from that one Veteran, though most of the findings described in this report are from only the desktop version of the prototypes.
+We wanted half of the participants to join via smartphone so they could test the mobile version of the prototypes, but none of the recruited mobile users showed up and used their phone for the session. We declined Perigean's offer to extend the research sessions beyond the allotted timeframe in order to try to recruit more mobile users. One of our pilot testers used a smartphone for the research session, so we have a bit of feedback from that one Veteran, though most of the findings described in this report are only from the desktop version of the prototypes.
 
 # Hypotheses and Conclusions
 
@@ -74,7 +74,7 @@ We wanted half of the participants to join via smartphone so they could test the
   
 1. **Despite the new design concepts, some participants still got stuck**.
 
-1. **Using different search tools on different pages is confusing** (i.e., Va.gov site search, Find a VA Form, Resources and Support).
+1. **Using different search tools on different pages is confusing** (i.e., VA.gov site search, Find a VA Form, Resources and Support).
 
 1. **Some participants prefer to browse web pages first, before searching**.
 
@@ -88,7 +88,7 @@ The table below summarizes participants' usage of each of the design concepts to
 
 Design Concept | # of Participants (of 7) who used it | Usability Issues
 ---------------|-----------------------------------------| -------------------
-Search tool links on new search landing page | 5 | Didn't look at other links because focused on search box at top (4 people). Low-color contrast between light gray of tiles on white background (1 person)
+Search tool links on new search landing page | 5 | Didn't look at other links because focused on search box at top (4 people). Low-color contrast between light gray of tiles on white background (1 person).
 Search link under the "top 4" boxes | 2 | Didn't notice under "top 4" boxes (4 people)
 Search in header to search landing page | 6 | Didn't notice in header (1 person)
 Search tool links on search results page | 4 | Didn't scroll down far enough to see (4 people)
@@ -96,16 +96,16 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 ### Search tool links on new search landing page
 - At first, 4 of 7 participants didn't notice the search tool links on the search landing page because they were laser focused on finding a search box to use. Since the search box is what they were looking for, most participants didn't scroll down below it. Only one participant scrolled down and looked at everything on the landing page before going back up to type into the search box.
 
-> "You get locked in and focused because you're focused on a specific task" (p8)
+> "You get locked in and focused because you're focused on a specific task" (p8).
 
 - 1 of the above 4 participants said that they missed the search tool links because of their light gray colored boxes on a white background. They recommended adding more color contrast, like the visual design of the "top 4" boxes on the home page (white on a bright blue background).
 
-- Another factor in the visibility of the search tools on the landing page is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not scroll. People need some visual indication that there's something below to scroll to, which a partially visible box may indicate.
+- Another factor in the visibility of the search tools on the landing page is the participant's device and screen resolution, which affects how much of the search tool tiles are shown without scrolling. Depending on how much you see, you may or may not think to scroll. Some people may benefit from some visual indication that there's something below to scroll to, which a partially visible box may indicate.
 > "I think to scroll, but I tend to zone in on what I'm seeing" and then not scroll to explore more of the page (p8).
   - A mobile user (our second pilot participant) couldn't see any of the search tools below the search box, so they had no indication that anything was below the search box. In contrast, the moderator's phone shows the top half of the first search tool box (Find a VA Form), which suggests that scrolling might be useful.
   - Participants' computer resolution varied in that some showed most of the search tools without scrolling, while one that was particularly low resolution showed only the top of the top two tiles. You can see both below. 
-![p15-landing-pg-see-very-little]()
-![p16-landing-pg-see-most]()
+![p15-landing-pg-see-very-little](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/p15-landing-pg-see-very-little.png)
+![p16-landing-pg-see-most](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/p16-landing-pg-see-most.png)
 
 ### Search link under the "top 4" boxes
 - 4 participants didn't appear to notice the "Can't find what you're looking for? Search VA.gov" link under the "top 4" boxes. 
@@ -140,7 +140,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
   - 1 participant who missed *Find a VA Location* in the header but saw it later recommended moving it to the left of *About VA* because 
 - When participants got stuck during their research sessions, 3 of them said that they would try to contact someone via phone or the link "ask a question online" that 2 of them found.
 
-## 3. Using different search tools on different pages is confusing (i.e., Va.gov site search, Find a VA Form, Resources and Support)
+## 3. Using different search tools on different pages is confusing (i.e., VA.gov site search, Find a VA Form, Resources and Support)
 - 3 participants said that it was confusing to go to different pages to use different search tools, and that it would be simpler if they all were in one place. 2 of them also said that they didn't want to have to load a separate page for each tool on the search landing page, given the slowness of their Internet connection. Their suggestions included radio buttons underneath the search box or a dropdown when you clicked *Search* on the home page in order to select what you want to search.
 > "It would be helpful if everything is consolidated onto one page” (p13).
 
