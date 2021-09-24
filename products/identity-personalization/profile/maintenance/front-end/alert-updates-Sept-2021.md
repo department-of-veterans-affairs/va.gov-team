@@ -1,159 +1,227 @@
-# Profile alert updates
+# Profile alert improvements
 
 September 2021
 
 Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?sender=lizlantz1528) to see current states, and screenshots of these use cases
 
-## Use cases
+## New alerts
 
-### Can't load data (API failure)
+### 1. Successfully updated contact information in profile
 
-**Placement:** Under h1 when it impacts only things on that page. Display above h1 when it impacts things in other parts of profile
-**Alert pattern, style:** Full width, warning
-**Include heading:** No
-**Copy:** 
+- **Alert (pattern, state):**  Background only with icon, success
 
-> We're sorry. We can't access your [data] at this time. We're working to fix this problem. Please check back later.
+- **Include heading:** No
 
-### Review data entered
+- **Placement:** Immediately above edit button ([example](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631822264292)), all editable sections of personal and contact information page
 
-No changes at this time, going to address with [#30258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30258)
+- **Copy:** 
 
+  > Update saved. 
 
+## Updates
 
-### Identity verification
+### 1. Can't load data (API failure)
 
-**Placement:** Under h1
-**Alert pattern, style:** Full width alert, [continue state](https://design.va.gov/storybook/?path=/docs/components-va-alert--continue)
-**Include heading:** Yes
-**Copy:** 
+- **Impacted sections**: all
 
-> [heading] **Verify your identity to view your complete profile**. 
->
-> [body] We need to make sure you’re you - and not someone pretending to be you - before we can give you access to your personal and health-related information.  This helps to keep your information safe, and to prevent fraud and identity theft.  
->
-> **This one-time process takes about 5-10 minutes**.
->
-> [action link] Verify your identity
+- **What's changing:** Copy updates, streamlining alert patterns, states, use of headings and whether or not they are dismissible
 
-### Success states
+- **Placement:** Under h1 when it impacts only things on that page. Display above h1 when it impacts things in other parts of profile
 
-All success states have the following characteristics:
+- **Alert (pattern, state):** Full width, warning
 
-**Alert pattern, style:**  Background only with icon, success
-**Include heading:** No
+- **Include heading:** No
 
-#### Successfully updated contact or direct deposit information in profile
+- **Copy:** 
 
-**Placement:** Immediately above edit button ([example](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631822264292))
-**Copy:** 
+  > We're sorry. We can't access your [data] at this time. We're working to fix this problem. Please check back later.
 
-> Update saved.
+### 2. Identity verification
 
-#### Successfully disconnected an app
+- **Impacted sections:** personal and contact information (rest are hidden when this alert shows)
 
-**Placement:** Replace tile of disconnected app 
-**Copy:** 
+- **What's changing:** alert state
 
-> We've disconnected [app name] from your VA.gov profile. To delete stored information in the app, connect the app's support.
+- **Placement:** Under h1
 
-### Failure states
+- **Alert (pattern, state):** Full width alert, [continue state](https://design.va.gov/storybook/?path=/docs/components-va-alert--continue)
 
-All failure states have the following characteristics:
+- **Include heading:** Yes
 
-**Alert pattern, style:**  Background only with icon, failure
-**Include heading:** No
+- **Copy:** 
 
-#### Failure to disconnect an app
+  > [heading] **Verify your identity to view your complete profile**. 
+  >
+  > [body] We need to make sure you’re you - and not someone pretending to be you - before we can give you access to your personal and health-related information.  This helps to keep your information safe, and to prevent fraud and identity theft.  
+  >
+  > **This one-time process takes about 5-10 minutes**.
+  >
+  > [action link] Verify your identity
 
-**Placement:** Above button user clicked to attempt disconnect
-**Copy:** 
+### 3. Successfully updated direct deposit information in profile
 
-> We're sorry. We can't disconnect [app name] from your VA.gov profile at this time. We're working to fix this problem. Please check back later.
+- **Impacted sections:** direct deposit
 
-#### Failure to update contact information in profile
+- **What's changing**: placement, copy, adding icon to alert pattern
 
-**Placement:** Immediately above update button ([example](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631823092685), note that content is not up to date)
-**Copy:** 
+- **Placement:** Immediately above edit button ([example](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631822264292))
 
-> We're sorry. We can't update your [data] at this time. We're working to fix this problem. Please check back later.
+- **Alert (pattern, state):**  Background only with icon, success
 
-### Request user confirmation
+- **Include heading:** No
 
-All confirmations have the following characteristics:
+- **Copy:** 
+
+  > Update saved.
+
+### 4. Failure to update contact information in profile
+
+- **Impacted sections:** personal and contact information
+
+- **What's changing:** Copy updates, streamlining alert patterns, states, use of headings and whether or not they are dismissible
+
+- **Placement:** Immediately above update button ([example](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631823092685), note that content is not up to date)
+
+- **Alert pattern, style:**  Background only with icon, failure
+
+- **Include heading:** No
+
+- **Copy:** 
+
+  > We're sorry. We can't update your [data] at this time. We're working to fix this problem. Please check back later.
+
+### 5. Successfully disconnected an app
+
+- **Impacted sections:** connected apps
+
+- **What's changing**: copy, alert pattern and state.
+
+- **Alert (pattern, state):**  Background only with icon, success
+
+- **Include heading:** No
+
+- **Placement:** Replace tile of disconnected app 
+
+- **Copy:** 
+
+  > We've disconnected [app name] from your VA.gov profile. To delete stored information in the app, connect the app's support
+
+### 6. Failure to disconnect an app
+
+- **Impacted sections:** connected apps
+
+- **What's changing**: copy, alert pattern and state.
+
+- **Alert (pattern, state):**  Background only with icon, failure
+
+- **Include heading:** No
+
+- **Placement:** Above button user clicked to attempt disconnect
+
+- **Copy:** 
+
+  > We're sorry. We can't disconnect [app name] from your VA.gov profile at this time. We're working to fix this problem. Please check back later.
+
+### 7. User hits cancel button while editing data
+
+- **Impacted sections:** any editable section
+
+- **What's changing**: button styles
 
 - **Placement:** In modal component
-- **Alert pattern, style:** Full width, warning state
+
+- **Alert (pattern, state):** Full width, warning state
+
 - **Include heading:** Yes
+
 - **Button usage:**
+
   - First button contains the confirming action and has the primary button style
   - Second button (if applicable) contains the cancel action and has the secondary button style
 
-#### User cancels while editing information
+- **Copy:**
 
-**Copy:** 
+  > [heading] Are you sure?
+  >
+  > [body] You haven't finished editing your [data]. If you cancel, your in-progress work won't be saved.
+  >
+  > [button] Continue editing 
+  >
+  > [button] Cancel
 
-> [heading] Are you sure?
->
-> [body] You haven't finished editing your [data]. If you cancel, your in-progress work won't be saved.
->
-> [button] Continue editing 
->
-> [button] Cancel
+### 8. User is editing a section and attempts to edit another section without saving
 
-#### User is editing a section and attempts to edit another section without saving
+- **Impacted sections:** personal and contact information
 
-**Copy:** 
+- **What's changing**: copy, button styles
 
-> [heading] Are you sure?
->
-> [body] You haven't finished editing your [data]. You can continue editing, or cancel your work. If you cancel, your in-progress work won't be saved.
->
-> [button] Continue editing 
->
-> [button] Cancel edits
+- **Placement:** In modal component
 
-#### User disconnects app
+- **Alert (pattern, state):** Full width, warning state
 
-**Copy:** 
+- **Include heading:** Yes
 
-> [heading] Are you sure?
->
-> [body] Once you disconnect this app, it won’t have access to new information from your VA.gov profile. This may affect how useful the app is to you.
->
-> Some apps might store information you’ve already shared after you disconnect. You can Contact the app’s support if you want stored information to be deleted from the app.
->
-> [button] Disconnect
->
-> [button] Cancel
+- **Button usage:**
 
-#### User removes contact information
+  - First button contains the confirming action and has the primary button style
+  - Second button (if applicable) contains the cancel action and has the secondary button style
 
-No changes to current state
+- **Copy:**
 
-### Miscellaneous
+  > [heading] Are you sure?
+  >
+  > [body] You haven't finished editing your [data]. You can continue editing, or cancel your work. If you cancel, your in-progress work won't be saved.
+  >
+  > [button] Continue editing 
+  >
+  > [button] Cancel edits
 
-#### User has been flagged as incompetent, so they can't access their financial information
+### 9. User disconnects app
 
-**Placement:** under h1 on Personal and Contact information page
-**Alert pattern, style:** Full width, warning state
-**Include heading:** No
-**Dismissible:** Yes
+- **Impacted sections:** connected apps
 
-**Copy:**
+- **What's changing**: copy, button order
 
-> We’re sorry. Our records show that you’re unable to view and update your financial information from your VA.gov profile.
->
-> If you think this is an error, you can call the VA.gov help desk at [855-574-7286](tel:1-855-574-7286) (TTY: [711](tel:711)). We’re here Monday – Friday, 8 a.m. – 8 p.m. ET.
+- **Placement:** In modal component
 
-#### User is not in MPI
+- **Alert (pattern, state):** Full width, warning state
 
-[Current example](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631669409313)
+- **Include heading:** Yes
 
-TBD
+- **Button usage:**
 
-#### No badge
+  - First button contains the confirming action and has the primary button style
+  - Second button (if applicable) contains the cancel action and has the secondary button style
 
-[Current example](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631670009351)
+- **Copy:**
 
-TBD
+  >  [heading] Are you sure?
+  >
+  > [body] Once you disconnect this app, it won’t have access to new information from your VA.gov profile. This may affect how useful the app is to you.
+  >
+  > Some apps might store information you’ve already shared after you disconnect. You can Contact the app’s support if you want stored information to be deleted from the app.
+  >
+  > [button] Disconnect
+  >
+  > [button] Cancel
+
+
+
+## No changes
+
+### 1. Review data entered
+
+​		Going to address with [#30258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30258)
+
+### 2. User is not in MPI
+
+​		No changes
+
+### 3. User has been flagged as incompetent, so they can't access their financial information
+
+​		Going to address with [#30460](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30460)
+
+### 4. User removes contact information
+
+### 
+
