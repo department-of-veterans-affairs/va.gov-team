@@ -224,11 +224,17 @@ After some or all of the design concepts have been launched, we should look at t
 
 ### Prototypes in UXPin
 
-![]()
+![desktop](https://bit.ly/tasks-d)
+![mobile](https://bit.ly/tasks-m)
 
-### Design concept #1: 
+### New design concept: Search landing page
+![search-landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/search-landing-pg.png)
 
-![name]()
+### New design concept: Search link under "top 4" boxes
+![new-search-link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/new-search-link.png)
+
+### New design concept: Search tool links on search results page
+![search-results-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/search-results-pg.png)
 
 
 ## Who we talked to 
