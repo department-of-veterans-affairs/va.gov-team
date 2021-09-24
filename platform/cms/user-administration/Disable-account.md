@@ -1,4 +1,4 @@
-When a user leaves the VA or no longer needs access to Drupal, disable their account in prod (this will automatically then remove them from lesser environments when those environments are rebuilt or refreshed.
+When a user leaves the VA or no longer needs access to Drupal, disable their account in prod (this will automatically then remove them from lesser environments when those environments are rebuilt or refreshed).
 1. Click Manage.
 2. Click People.
 3. Enter the name or email.
