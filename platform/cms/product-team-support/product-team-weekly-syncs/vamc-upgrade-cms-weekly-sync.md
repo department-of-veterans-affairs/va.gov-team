@@ -25,13 +25,17 @@
 
 Help desk 
 
-Lovell facilities
+KB article: [How do I feature a Story on my site's homepage](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
+* PAO newsletter candidate?
 
-"Orphaned" facilities
+4 Lovell facilities not in VAST, likely added directly to  Facility API and then available in Drupal  
+
+What to do about [33 "Orphaned" facilities](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_facility&moderation_state=All&owner=8)
 
 Dual state / prod launches
 
-Featured stories 
+
+
 
 ## September 17
 
