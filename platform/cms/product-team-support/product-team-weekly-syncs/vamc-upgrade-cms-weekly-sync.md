@@ -21,18 +21,28 @@
 
 </details>
 
+## September 31
+
+* Update on Lovell plans
+* Kevin out
+* Manila
+* PAO newsletter items
+ 
 ## September 24
 
 Help desk 
+* Stef can prepare a monthly "Top user" report 
+* Emails going straight to Lisa/Stan. Instead of forwarding, reply should request that requests go straight to help desk. 
+* Dave now able to access Jira
+* New help desk manager, Chris Craig, joining Stefanie, and will get us back to 8am-8pm ET coverage
+* Stef recommends Textpander for standard replies
 
 Ability to archive certain content types now restricted to content admins. Relevant content types for VAMC: 
-
 * Events List
 * Health Services List
 * Leadership List
 * VAMC System Locations List
 * News Releases List
-* Publication Listing Page
 * Stories List
 * VAMC Facility
 * VAMC System
@@ -44,13 +54,20 @@ Ability to archive certain content types now restricted to content admins. Relev
 * VAMC System Billing and Insurance
 * **[KB article](https://prod.cms.va.gov/help/cms-basics/archiving-and-deleting-content)**
 
+* Where should business process documentation go? TBD based on framework for request fulfillment. 
 
-KB article: [How do I feature a Story on my site's homepage](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
-* PAO newsletter candidate?
-
-4 Lovell facilities not in VAST, likely added directly to  Facility API and then available in Drupal  
+Lovell
+* 4 Lovell facilities not in VAST, likely added directly to Facility API and then available in Drupal
+* System name and URL updated in Drupal, and FE sidebar nav
+* CMS still updating menu machine name in Drupal (2nd week of October)
 
 What to do about [33 "Orphaned" facilities](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_facility&moderation_state=All&owner=8)
+* VAMC upgrade: cross-walk Facility IDs with what's in VAST.
+* CMS: Leave these here so that we can test some new comparison / audit tools. 
+
+KB article: [How do I feature a Story on my site's homepage](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
+* PAO newsletter candidate
+* **CMS issue:** Improve VAMC System photo guidance (don't mashup facilities into the decorative photo)
 
 Dual state / prod launches
 
