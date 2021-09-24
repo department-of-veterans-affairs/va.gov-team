@@ -1,9 +1,10 @@
 ---
 name: Best Bet Request
-about: Request to creation or change a Best Bet on VA.gov
+about: Request to creation or change a Best Bet
 title: Best Bet Request for <Team>
-labels: vfs-search-discovery
-assignees: denisecoveyduc, lindali123
+labels: vsa-search-discovery, vsa,needs-grooming
+assignees: Search & Discovery, denisecoveyduc
+
 ---
 
 # Template Instructions
