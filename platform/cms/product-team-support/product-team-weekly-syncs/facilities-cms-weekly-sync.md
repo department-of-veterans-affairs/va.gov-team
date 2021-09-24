@@ -38,6 +38,8 @@ Official vs plain language Vet Center names
 - Need to confirm: low priority because District 1 and 5 are already handled? -> Ogden Outstation (Major Brent Taylor)
 - CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
 
+Temporary vs permanentt inactivation of San Marcos MVC
+
 
 National health service content in the Vet Center facility editing experience
 
