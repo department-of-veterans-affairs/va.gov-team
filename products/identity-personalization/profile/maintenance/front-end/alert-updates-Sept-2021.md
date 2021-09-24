@@ -153,7 +153,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Impacted sections:** personal and contact information
 
-- **What's changing**: copy, button styles
+- **What's changing**: copy, button styles, new button added
 
 - **Placement:** In modal component
 
