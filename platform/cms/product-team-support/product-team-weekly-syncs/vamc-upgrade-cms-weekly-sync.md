@@ -25,6 +25,26 @@
 
 Help desk 
 
+Ability to archive certain content types restricted to content admins
+
+* Events List
+* Health Services List
+* Leadership List
+* VAMC System Locations List
+* News Releases List
+* Publication Listing Page
+* Stories List
+* VAMC Facility
+* VAMC System
+* VAMC System Banner Alert with Situation Updates removed because it does not use moderation states
+* VAMC System Operating Status
+* VAMC System Policies Page
+* VAMC System Register for Care
+* VAMC System Medical Records Office
+* VAMC System Billing and Insurance
+
+
+
 KB article: [How do I feature a Story on my site's homepage](https://prod.cms.va.gov/help/vamc/how-do-i-feature-a-story-on-my-sites-homepage)
 * PAO newsletter candidate?
 
