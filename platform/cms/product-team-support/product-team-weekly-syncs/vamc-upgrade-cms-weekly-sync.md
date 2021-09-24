@@ -23,7 +23,13 @@
 
 ## September 24
 
+Help desk 
 
+Lovell facilities
+
+"Orphaned" facilities
+
+Dual state / prod launches
 
 ## September 17
 
