@@ -66,5 +66,22 @@
 		"body": ["<va-alert","	background-only", "	onClose={function noRefCheck(){}}", "	status='error'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
+	"Text Input va-text-input web component": {
+		"prefix": ["va-text-input"],
+		"body": [
+			"<va-text-input",
+			"	ariaDecribedby={{value: ''}}",
+			"	enabled-analytice={null}",
+			" placeholder=''",
+			" label='${1:label}'",
+			" name='${2:name}",
+			" required={null}",
+			" value={null}"
+			"/>"
+		],
+		"description": "Text input field web component",
+	},
+
+
 
 }
