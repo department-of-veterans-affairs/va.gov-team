@@ -1,83 +1,66 @@
-# Notification preferences UAT conversation guide
+# Profile notification preferences UAT conversation guide
 
 `draft`
 
-## Moderator logistics
-
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
-
-*Mute your Slack notifications*
-
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
-
-*In the Attendees section, make sure everyone except the participant is on mute.*
-
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
-
-*Check your [screensharing setup] and share permissions for participants.*
-
-*When the participant is ready, begin the session with the following intro*
-
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- Sign in to Zoom.
+- We will be having users share their screens and testing the new notification preferences feature in profile. When the participant is ready, have them share their screen.
+- When their screen is shared, send the link https://www.va.gov or have them go to www.va.gov. 
+- **Note: We will not be recording these sessions**.
 
-## Intro - 5 minutes
+## Intro - 2 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Liz and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile section of VA.gov. We've add a new notification settings feature and we want to make sure that it is all working properly in your account.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **This entire session should take less than 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **If you have a mobile phone number in your profile, I'm going to ask you to remove it to test one piece of our functionality.** We can add it back at the end of the session.
+- **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your feedback helps us to figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express.
+- **We will be able to see your real information today.** This may include some healthcare information and some claims information. During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
-*Start recording.*
+## Warm-up/Screener Questions - 3 minutes
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+OK, let's get started.
 
-## Warm-up Questions (Optional) - X minutes
+1. First, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
+2. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? 
 
-Before we look at the website, let’s start with a few warm-up questions.
+- If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?) 
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+3. Do you know your username and password? 
+   - If not: Are these readily accessible? Could get them?
+   - If the user can not remember or retrieve their login credentials, **end the session.**
+4. Can you tell me what type of mobile device you are using today? 
+   - If needed: I'm asking this question because sometimes the type of device can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
+5. Can you tell me which web browser you are using? 
+6. Do you currently or have you ever health care from the VA?
+7. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
+   - If no: Explain this is necessary for testing. If they are still unwilling, **end the call.**
 
-## First Task: [TASK NAME] - X minutes
+**Screenshare**
 
-- Step 1
-- Step 2
+OK, please share your screen, and then we will get started. 
 
-### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+## Navigating to profile - 1 minute
 
-## Second Task: [TASK NAME] - X minutes
+- I'd like you to open a new tab in your browser, and go to https://www.va.gov/. 
 
-- Step 1
-- Step 2
+- Once you are logged in, click on your name in the upper right-hand corner, select Profile. Let's check to see if you have a mobile number on file. If so, let's go ahead and remove it.
+  - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
+  - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
-### Things to watch for:
+## Notification settings with missing contact information - 2 minutes
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- I'd like you to go ahead and click on notification settings
 
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- User should see missing mobile number error
+  - [ ] **UAT TASK:** Confirm correct error is showing
+- Go ahead and click that link and add your number back
+  - [ ] **UAT TASK:** Confirm alert link takes user to mobile section of contact information
 
 ## Post-Task Interview - X minutes
 
