@@ -206,7 +206,7 @@ Share findings and discuss recommendations with the Search & Discovery team.
 
 # Further research needed
 
-After some or all of the design concepts have been launched, we should look at the analytics and assess the actual usage of the new links.
+After some or all of the design concepts have been launched, we should look at the analytics and assess the actual usage of the new links. Look especially at the usage of mobile users since they weren't included in this research.
 
 # Appendix
 
