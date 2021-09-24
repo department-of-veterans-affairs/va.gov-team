@@ -63,24 +63,9 @@ Remote via Zoom
 
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+Our intended audience for this research is Veterans or caregivers who log into VA.gov. We'll use Perigean to recruit them.
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of marginalized Veteran communities.
-
-### Recruitment approach
-
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using the Lean MVS strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity. *Note: this template will be moving outside of Google Sheets so it is accessible on the VA network.*
+We'll focus our inclusive recruitment criteria on the marginalized groups we didn't speak with during our first study (see below).
 
 ### Recruitment criteria
 
@@ -92,9 +77,14 @@ Please recruit 12 participants for 6 completed sessions.
   - **Participants will likely not know what this means**, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
   - If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
   - If they can see the profile, they are LOA3 and can participate in testing.
-- Participants must be able to screenshare via Zoom on a mobile device other than a tablet. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. 
-  - If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
-  - **Qualifier:** Are you able to join a Zoom session from a mobile device other than a tablet, such as a Samsung Galaxy or iPhone? (Answer should be yes to qualify)
+- Participants must be able to screenshare via Zoom on a mobile device other than a tablet. 
+  - Prior to the session, please confirm:
+    - They're comfortable sharing their screen after they've logged into VA.gov.  Some personal information will be viewable to the moderator and any observers.
+    - They have Zoom downloaded prior to the session and they know how to screenshare. 
+  - **If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.**
+  - **Qualifiers:**
+    -  Are you able to join a Zoom session from a mobile device other than a tablet, such as a Samsung Galaxy or iPhone? (Answer should be yes to qualify)
+    - Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to your VA.gov profile so some personal information will be shared. (Answer should be yes to qualify)
 - We need a mix of participants who currently receive VA health care:
   - 50% of participants must currently receive VA health care
   - 50% of participants must not currently receive VA health care
