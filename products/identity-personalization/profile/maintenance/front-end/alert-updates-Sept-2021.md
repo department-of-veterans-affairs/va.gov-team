@@ -104,7 +104,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > We've disconnected [app name] from your VA.gov profile. To delete stored information in the app, connect the app's support
+  > We've disconnected [app name] from your VA.gov profile. To delete stored information in the app, contact the app's support.
 
 ### 6. Failure to disconnect an app
 
