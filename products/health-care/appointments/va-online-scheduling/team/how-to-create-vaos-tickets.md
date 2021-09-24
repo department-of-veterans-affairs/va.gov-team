@@ -12,7 +12,10 @@ For all new VAOS tickets:
 ## Bugs
 - In the 'Template' dropdown, select the VAOS Bug Template
   - ![zh-choose-bug-template](https://user-images.githubusercontent.com/72046525/112037999-92da3680-8aff-11eb-959b-5dca37021116.jpg)
-- Fill out all sections
+- If prompted to change the template, select `Confirm` 
+  - ![Screen Shot 2021-09-24 at 2 37 47 PM](https://user-images.githubusercontent.com/72046525/134742477-33f73e56-834c-48e8-8199-1778995783ae.jpg)
+- Complete all sections of the template
+- Select `Submit new issue`
 
 ---
 
@@ -20,5 +23,8 @@ For all new VAOS tickets:
 Beyond the 508 and VSP audits, our team may identify accessibility issues or recommendations. Group similar violations in one ticket (e.g. color contrast issues on multiple pages can be in one ticket and listed out in the description).
 - In the 'Template' dropdown, select the VAOS Accessibility issue template
   - ![zh-choose-accessibility-template](https://user-images.githubusercontent.com/72046525/112038259-db91ef80-8aff-11eb-9c71-b44db6b932ce.jpg)
-- Fill out all required sections
-- Remove any optional sections without details
+- If prompted to change the template, select `Confirm` 
+  - ![Screen Shot 2021-09-24 at 2 37 47 PM](https://user-images.githubusercontent.com/72046525/134742477-33f73e56-834c-48e8-8199-1778995783ae.jpg)
+- Complete sections of the template
+  - Remove any optional sections without details
+- Select `Submit new issue`
