@@ -176,7 +176,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
   >
   > [button] Cancel edits
 
-### 9. User disconnects app
+### 9. Confirmation user wants to disconnect app
 
 - **Impacted sections:** connected apps
 
