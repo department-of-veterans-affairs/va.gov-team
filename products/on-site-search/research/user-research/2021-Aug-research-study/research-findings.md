@@ -181,16 +181,17 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 # Recommendations
 
 ## For the Search & Discovery team
-1. Consider implementing all 4 of the design concepts because each helped multiple participants to complete tasks and avoid getting stuck.  
-1. On the search results page, consider design ideas for positioning the search tool links higher up on the page or adding a visual indication that there's something below the page navigation to see.
-1. On the search landing page, consider adding a visual indication that there's something below the search box to see.
-    1. Another potential design idea is to add radio buttons directly underneath the search box to select all of VA.gov, Find a VA Form, or Resources & Support.
-3. For the "Can't find what you're looking for?" link, consider making it stand out more visually. This might be done by putting it inside a box or inside *each* of the "top 4" boxes (since that's where people are looking).
-4. Work with the Search.gov team to see if we can get more relevant search results, which may include searching only the main content of each page and not the side links, related links, header, and footer. We should also make sure that all *Find a VA Form* and *Resources and Support* content is included in the search.gov results. If we succeed at getting more relevant results from Search.gov, we might want to...
-    1. Communicate that to Veterans so they'll try it again and see for themselves that it has improved and thus is worth using.
+1. **Consider consolidating all the search tools into the main site search interface**. In this way, there could be a single search box with radio buttons or checkboxes to select what to search (i.e., VA.gov, VA forms, Resources/FAQs). This would eliminate the confusion about other search tools to try and where to find them.
+1. **If we don't implement the previous recommendation, then consider implementing *all 4* of the design concepts** because each helped multiple participants to complete tasks and avoid getting stuck. Consider the following design ideas that may improve the usability of these design concepts:
+    1. On the search results page, try positioning the search tool links higher up on the page or adding a visual indication that there's something below the page navigation to see.
+    1. On the search landing page, try adding a visual indication that there's something below the search box to see.
+        1. Or, add radio buttons directly underneath the search box to select all of VA.gov, Find a VA Form, or Resources & Support so separate links aren't needed.
+    1. For the "Can't find what you're looking for?" link, try making it stand out more visually. This might be done by putting it inside a box or inside *each* of the "top 4" boxes (since that's where people are already looking).
+1. **Work with the Search.gov team to try to get more relevant search results**, which may include searching only the main content of each page and not the side links, related links, header, and footer. We should also make sure that all *Find a VA Form* and *Resources and Support* content is included in the search.gov results. If we succeed at getting more relevant results from Search.gov, we might want to...
+    1. Communicate the improvement to Veterans so they'll try it again and see for themselves that it has improved and thus is worth using.
     2. Limit the number of results returned so it's not frequently "999" (which suggests an ineffective search that returned too much). 
     3. Make the search link in the header more visible/prominent so more Veterans will notice it.
-6. Since so many people get to VA.gov through Google, see if we can improve the Google search path by improving metadata on VA content pages.
+1. Since so many people get to VA.gov through Google, see if we can **improve the Google search path by improving metadata on VA content pages**.
 
 ## For other teams
 1. Consider renaming _Resources and Support_ to "FAQs" because this is a more widely used term that users understand.
