@@ -3,7 +3,7 @@ name: Best Bet Request
 about: Request to creation or change a Best Bet
 title: Best Bet Request for <Team>
 labels: vsa-search-discovery, vsa, needs-grooming
-assignees: Search & Discovery, denisecoveyduc, LindaLi123
+assignees: denisecoveyduc, LindaLi123
 
 ---
 
