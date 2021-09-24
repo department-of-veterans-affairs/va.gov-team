@@ -222,8 +222,8 @@ After some or all of the design concepts have been launched, we should look at t
 
 ### Prototypes in UXPin
 
-![desktop](https://bit.ly/tasks-d)
-![mobile](https://bit.ly/tasks-m)
+![desktop](https://mgleo.github.io/searchtools/desktop.html)
+![mobile](https://mgleo.github.io/searchtools/mobile.html)
 
 ### New design concept: Search landing page
 ![search-landing-pg](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/search-landing-pg.png)
