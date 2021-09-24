@@ -32,7 +32,7 @@ The purpose of this research was to get user feedback on new design concepts for
 1. **Search in the header** as a link that **goes to the new search landing page**
 1. **New links at the bottom of the search results page** that go to other search tools
 
-For each of the above design concepts, we wanted to assess *usage* (was it helpful to users in preventing them from getting stuck?) and *usability* (was it findable and intuitive?).
+For each of the above design concepts, we wanted to assess *utility* (was it helpful to users in preventing them from getting stuck?) and *usability* (was it findable and intuitive?).
 
 You can see screenshots of all of these design concepts in the [Pages and applications used section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md#Pages-and-applications-used) in the Appendix.
 
@@ -124,8 +124,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 - 4 participants didn't scroll down far enough on the search results page at first or ever to notice the search tool links at the bottom. To see the search tool links, they needed to scroll down below the numbered links to the subsequent pages of search results, which these participants didn't do.  
 - When one participant finally scrolled down far enough to see the links, they exclaimed
 > "Oh wow, that's cool!" (p1)
-- Another participant who noticed the search tool links at the end of the session said that they overlooked them before because they weren't looking for anything but search results. 
-> They thought it would be better if the tools could be "more in your face" (p8) on the right of the search results (sounds like the "right rail" placement that was previously tried and tested poorly) and scroll down with you.
+- Another participant who noticed the search tool links at the end of the session said that they overlooked them before because they weren't looking for anything but search results. They thought it would be better if the tools could be "more in your face" (p8) on the right of the search results and scroll down with you.  Having tool links to the right of the search results list sounds like the "right rail" placement design that was previously designed and unfortunately tested poorly. 
 
 ## 2. Despite the new design concepts, some participants still got stuck
 - Participants assumed that what they were looking for would be in the search results, and when they didn't find it there, some seemed frustrated. When searching for "college credit", two participants specifically called out the search result "Lenders Page - VA Home Loans" as completely irrelevant, which led one of them to assume it was an ad.
