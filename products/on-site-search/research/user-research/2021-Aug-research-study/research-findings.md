@@ -105,6 +105,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
   - A mobile user (our second pilot participant) couldn't see any of the search tools below the search box, so they had no indication that anything was below the search box. In contrast, the moderator's phone shows the top half of the first search tool box (Find a VA Form), which suggests that scrolling might be useful.
   - Participants' computer resolution varied in that some showed most of the search tools without scrolling, while one that was particularly low resolution showed only the top of the top two tiles. You can see both below. 
 ![p15-landing-pg-see-very-little](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/p15-landing-pg-see-very-little.png)
+
 ![p16-landing-pg-see-most](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/p16-landing-pg-see-most.png)
 
 ### Search link under the "top 4" boxes
