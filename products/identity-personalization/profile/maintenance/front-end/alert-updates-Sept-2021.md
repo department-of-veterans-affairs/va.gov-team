@@ -215,13 +215,15 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 ### 2. User is not in MPI
 
-​		No changes
+​		No changes, keep [current state](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631669409313)
 
 ### 3. User has been flagged as incompetent, so they can't access their financial information
 
 ​		Going to address with [#30460](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30460)
 
 ### 4. User removes contact information
+
+​		No changes, keep [current state](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631670449009)
 
 ### 
 
