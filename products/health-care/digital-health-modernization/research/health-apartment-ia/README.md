@@ -14,7 +14,7 @@ We've done some thinking to date about how best to validate the IA within the ap
 
 For this tree test, we need to be mindful of balancing thoroughness with an appropriate cognitive load for Veterans. With that in mind, we decided to test no more than 20 tasks per study. Here's how we prioritized which tasks we should test first. 
 * We prioritized tasks/topics that we had questions about -- meaning things that didn't fit well in the existing MHV or VA.gov structure.
-* We then cross-referenced top search terms with top tasks -- assuming that these are high-need, low-discoverability items.
+* We then cross-referenced top search terms with top tasks -- assuming that these are high-need, low-discoverability items. [Go to our analytics page for more information.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/analytics/Analytics.md) 
 
 *Note: The "big 4" tools (messages, appointments, pharmacy, and records) are well-understood in MHV, and we did not make major shifts to their organization here. Thus, we're **not recommending that we test them as part of this first tree test.***
 
