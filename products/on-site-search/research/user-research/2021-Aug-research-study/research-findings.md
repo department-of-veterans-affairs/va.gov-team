@@ -297,4 +297,4 @@ This research may not include the perspectives of the following underserved Vete
 
 <br>
 
-![recruitment-checkers]()
+![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/images/recruitment-checker.png)
