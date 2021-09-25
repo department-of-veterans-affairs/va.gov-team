@@ -219,8 +219,8 @@ After some or all of the design concepts have been launched, we should look at t
 
 ## Tools used for Synthesis
 
-- [Synthesis spreadsheet]()
-- [Notes and takeaways from the team]()
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/analysis/Search%20usability%20notes%20%26%20data%20analysis.xlsx)
+- [Notes and takeaways from the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/analysis/Participant%20Notes.xlsx)
 
 ## Pages and applications used
 
