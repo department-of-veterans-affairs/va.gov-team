@@ -130,10 +130,10 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 ### **Meeting Cadence**
 |**Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |
 |-----------------------|------------------------------|------|------------------|-----------------|
-|*Stand-Up*               |Daily @ 10:00am ET |15 mins         | *Monday, Tuesday & Thursday*: [Zoom](https://zoom.us/j/3399042357) Wednesday & Friday: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any impediments?|
-|*Sprint Planning*        |1st Wednesday of every sprint  @ 2:00pm ET|30 mins with PO + 30 mins as needed with team| [Zoom meeting](https://zoom.us/j/3399042357)|Outline team and member focus, goals for sprint.
-|*Retro*                  |Last Tuesday of every sprint @ 3:30pm ET | 30 mins|[Zoom meeting](https://zoom.us/j/3399042357)| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
-|*Grooming* | 2nd Thursday of every sprint, @ 11:00am ET|30 mins |[Zoom meeting](https://zoom.us/j/3399042357)|Assess and update workload for remainder of sprint|
+|*Stand-Up*               |Daily @ 10:00am ET |15 mins         | *Monday, Wednesday & Thursday*: Zoom Tuesday & Friday: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any impediments?|
+|*Sprint Planning*        |1st Wednesday of every sprint  @ 2:00pm ET|60 mins | Zoom meeting|Outline team and member focus, goals for sprint.
+|*Retro*                  |Last Tuesday of every sprint @ 2:30pm ET | 30 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
+|*Grooming* | 2nd Thursday of every sprint, @ 11:00am ET|30 mins |Zoom meeting|Assess and update workload for remainder of sprint|
 
 
 
@@ -148,7 +148,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Owner     |Dave Conlon                     |
-|Product Manager        |Denise Coveyduc                     |
+|Product Manager        |Linda Li                     |
 |Front End Engineer     |Sam Suddath                         |
 |Designer/Researcher    |Megan Gayle                         |
 
