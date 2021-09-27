@@ -8,15 +8,15 @@ All of the charts on this page are found [here](https://lucid.app/lucidchart/f1c
 
 The following is a high-level diagram showing the flow of HTML, content, and assets between Drupal and the React Application.
 
-![ContentAPI _ ContentApp - High Level](https://user-images.githubusercontent.com/121603/133799992-9f8975c1-be9c-4e63-ba51-0582e54b941c.png)
+![ContentAPI _ ContentApp - High Level](https://user-images.githubusercontent.com/121603/134935807-36380213-ba3d-4715-a3b0-719615265f09.png)
 
 This High level option include CloudFront as a CDN in front of the assets and CMS API
 
-![ContentAPI _ ContentApp - High Level w CloudFront](https://user-images.githubusercontent.com/121603/134172129-d25774ce-a729-46a3-ae73-bebab612b0c4.png)
+![ContentAPI _ ContentApp - High Level w CloudFront](https://user-images.githubusercontent.com/121603/134935935-e08fe667-b49e-42a4-b8ac-1144fd7b1a82.png)
 
-Here is a pobbile design with combination Public API and Static Build / Incremental Build server. 
+Here is a possible design with combination Public API and Static Build / Incremental Build server.
 
-![ContentAPI _ ContentApp - Incremental Builds with API](https://user-images.githubusercontent.com/121603/134409865-a6cdd47e-0bcd-417a-b7a2-ded901e2c5ee.png)
+![ContentAPI _ ContentApp - Incremental Builds with CloudFront](https://user-images.githubusercontent.com/121603/134936037-e9034d7d-daeb-413d-a19a-fb623141a01d.png)
 
 ### API Gateway
 
@@ -39,7 +39,7 @@ The exact architecture is still under evaluation, but the following options are 
 
 Option with serving the content directly from Drupal.
 
-![ContentAPI _ ContentApp - Content API (1)](https://user-images.githubusercontent.com/121603/133816575-e6873bc2-37f7-4045-93ed-fb89b78b24e8.png)
+![ContentAPI _ ContentApp - Content API](https://user-images.githubusercontent.com/121603/133816575-e6873bc2-37f7-4045-93ed-fb89b78b24e8.png)
 
 Option with a NodeJS layer between Drupal and the API Gateway.
 
@@ -53,13 +53,15 @@ The [content_build](https://github.com/department-of-veterans-affairs/content-bu
 
 The React application(s) structure is still to be determined.  An SDK will be created to abstract the API from the front-end developers.  A reference application will also be supplied showing best-practice implementations of the Content API.
 
-Each appliation is separate and uses a shared SDK and Components.
+Here is a possible front end architecture using and SDK and shared React components
 
-![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/134020876-fd8667a5-0175-446d-a96e-a6c08e736d7a.png)
+![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/134936253-8ac3a1b4-88bc-42dc-912f-1213ba9bcb44.png)
 
-Here is a front-end architecture where a single React application is used for all content apps.
+The Code organization could either be a single "Content App" repository where different pages would have their own routes, or each React app could be independant being either part of the vets-website codebase or it's own repository.
 
-![ContentAPI _ ContentApp - Possible Front End Architecture](https://user-images.githubusercontent.com/121603/133818727-da9d4653-59f8-49a5-bbd0-3a756258d706.png)
+![ContentAPI _ ContentApp - Possible Front End Architecture (1)](https://user-images.githubusercontent.com/121603/134936829-139ef5f0-a85f-4b41-81ac-6f4c884a6aef.png)
+
+![ContentAPI _ ContentApp - Possible Front End Architecture (2)](https://user-images.githubusercontent.com/121603/134936908-e2173163-5af6-42a9-8eca-d87f883b8d68.png)
 
 
 ### CMS Assets
