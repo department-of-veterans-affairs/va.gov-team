@@ -20,7 +20,9 @@ Goal: Debrief Samara on the latest team happenings. This will likely be the firs
 - Executing on [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#next-steps) this sprint
 
 ### Strategy
-
+For discussion/possible forward path
+- Alert "history" a separate interface for Veterans to see all of their alerts
+- Only prominent/"un-read" alerts appear on My VA
 
 ## Notification Preferences (VA Notify, VA Profile, and other integration updates)
 
@@ -31,6 +33,7 @@ Goal: Debrief Samara on the latest team happenings. This will likely be the firs
 - UAT materials prep underway
 
 ### Strategy
+
 
 ## Direct Deposit (hack and response)
 - The team assisted in responding to an incident with Direct Deposit the week of 8/9 (reported incidents of fraud)
