@@ -47,31 +47,34 @@ OK, let's get started.
 OK, please share your screen, and then we will get started. 
 
 
-## 1. Navigating to profile - 3 minutes
+## 1. Navigating to notification settings - 3 minutes
 
 I'd like you to open a new tab in your browser, and go to https://www.va.gov/. 
 
-Once you are logged in, click on your name in the upper right-hand corner, select Profile. Let's check to see if you have a mobile number on file. If so, let's go ahead and remove it.
+Once you are logged in, click on your name in the upper right-hand corner, select Profile. Let's check to see if you have a mobile number on file. 
+
+(If so): Let's go ahead and delete your number.
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
 - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
+- [ ] **Usability note:** What was the participant's experience removing their mobile number?
 
 From here, please click on notification settings
 
-- [ ] **UAT TASK:** User can navigate to notification settings
-- [ ] **Usability note:** Was user easily able to use the profile mobile menu? If no, what happened?
+- [ ] **UAT TASK:** User can navigate to notification settings from personal and contact information
+- [ ] **Usability note:** What was the participant's experience using the profile mobile menu?
 
 ## 2. Notification settings with missing contact information - 5 minutes
 
 *User should see missing mobile number error*
 
-- [ ] **UAT TASK:** Confirm correct error is showing
+- [ ] **UAT TASK:** Confirm correct alert is showing: `We don't have your mobile number on file...`
 
-Go ahead and add your number back, and then see if you edit notification settings afterward
+Ok, that's what we were hoping for. Go ahead and add your number back, and then see if you can edit notification settings after you add it back.
 
-- [ ] **UAT TASK:** Confirm alert link takes user to mobile section of contact information
-
-- [ ] **UAT TASK:** Confirm user can get back to notification settings via the alert link
+- [ ] **UAT TASK:** Confirm alert link takes user to mobile section of contact information.
+- [ ] **UAT TASK:** Confirm user can get back to notification settings via the alert link.
+- [ ] **Usability note:** What was the participant's experience adding back their mobile number?
 
 ## 3. Manage notification settings - 5 minutes
 
@@ -85,15 +88,28 @@ Go ahead and add your number back, and then see if you edit notification setting
 (All participants) Go ahead and update your notification settings
 
 - If user doesn't click the link in the alert, instruct them to do so before all the settings are set
-- [ ] **UAT TASK:** Is the health care section only showing for users who have health care?
-- [ ] **UAT TASK:** Do the field sets load with the `warning` state?
-- [ ] **UAT TASK:** Is the prescription shipping/tracking reminder showing appropriately (should be hidden unless a user is registered at an Asheville or Denver VAMC)?
-- [ ] **UAT TASK:** Does the link in the alert take the user to the first `not set` notification option?
-- [ ] **UAT TASK:** Does the `saving...` message display while the API call is in-flight?
-- [ ] **UAT TASK:** Are the users changes to their notification settings accurately saved in the API?
-- [ ] **UAT TASK:** Do the field sets correctly change to the `saved` state?
-- [ ] **Usability:** Did the user experience any confusion related to the auto-save feature?
+
 - [ ] **Usability:** (Healthcare users only) Did the user share any feedback related to notifications they are already receiving?
+
+- [ ] **UAT TASK:** Is the health care section only showing for users who have health care?
+
+- [ ] **UAT TASK:** Do the field sets load with the `warning` state?
+
+- [ ] **UAT TASK:** Is the prescription shipping/tracking reminder showing appropriately (should be hidden unless a user is registered at an Asheville or Denver VAMC)?
+
+- [ ] **UAT TASK:** Does the link in the alert take the user to the first `not set` notification option?
+
+- [ ] **UAT TASK:** Does the `saving...` message display while the API call is in-flight?
+
+- [ ] **UAT TASK:** Are the users changes to their notification settings accurately saved in the API?
+
+- [ ] **UAT TASK:** Do the field sets correctly change to the `saved` state?
+
+- [ ] **Usability:** Did the user experience any confusion related to the auto-save feature?
+
+  
+
+## 
 
 ## Post-Task Interview - 2 minute
 
