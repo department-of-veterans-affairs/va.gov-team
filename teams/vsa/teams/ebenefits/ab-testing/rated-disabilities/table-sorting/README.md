@@ -11,6 +11,8 @@ Sorting is only valuable on certain apps and is very context specific. We don't 
 ## Goal
 We have deternimed that if 25% of Veterans in Variant A use the sorting feature we will impliment it perminantly on the page.
 
-- Target Statistical significance - 95%
-- Sample Size - 28,000
-- Test timing - TBD
+- Target Statistical significance - NA, conversion rate does not apply
+- Sample Size - 5000
+- Test timing - Aprox 2.5 months
+
+## Variation screen shots
