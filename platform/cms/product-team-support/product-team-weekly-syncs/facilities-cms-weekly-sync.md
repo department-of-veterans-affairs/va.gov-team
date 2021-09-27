@@ -27,6 +27,8 @@
 
 ## September 29
 
+VAMC
+
 Product change to support Manila (facility with no system)
 
 Scheduling Mobile VAMC facilities research/design/discovery overview
@@ -34,11 +36,18 @@ Scheduling Mobile VAMC facilities research/design/discovery overview
 - Week of October 18
 - Mobile, CLCs, and Domicilaries are all getting unpublished/archived, so not blocking current VAMCs going out. Central Arkansas has created a Domicilary program page. 
 
+Staff profiles 
+- CMS: new boolean field on prod (see /node/add/person_profile). Existing staff profiles with content in two fields has had this checkbox checked. 
+- FE should probably use the boolean conditional rather than checking the content of the two text fields, because an editor may uncheck the boolean and expect that the FE page will go away. 
+
+Vet Center
+
 Official vs plain language Vet Center names 
 - Need to confirm: low priority because District 1 and 5 are already handled? -> Ogden Outstation (Major Brent Taylor)
 - CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
 
-Temporary vs permanentt inactivation of San Marcos MVC
+Temporary vs permanent inactivation of San Marcos MVC
+
 
 
 National health service content in the Vet Center facility editing experience
