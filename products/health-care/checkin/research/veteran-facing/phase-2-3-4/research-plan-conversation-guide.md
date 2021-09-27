@@ -1,17 +1,7 @@
 # Research Plan and Converstion Guide for Check-in, Phase 2 & 3 UAT and Phase 4, October 2021
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-
-[Link to product brief](url goes here).
-
-### OCTO-DE Objectives 
-*Note: applicable only to OCTO-DE teams*
-
-Which [OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov.With this round of research
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
@@ -127,7 +117,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: 
 
 ### Research sessions
-What dates do you plan to do research? 
+Mid-October, 2021
 
 ### Length of sessions
 How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
@@ -139,11 +129,6 @@ Please request enough dates and time slots for the number of requested participa
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Moderator: Kristen McConnell, Eva Floyd
+- Research guide writing and task development):	Kristen McConnell, Eva Floyd
+	
