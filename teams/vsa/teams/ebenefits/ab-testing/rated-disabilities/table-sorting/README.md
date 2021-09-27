@@ -15,4 +15,3 @@ We have deternimed that if 25% of Veterans in Variant A use the sorting feature 
 - Sample Size - 5000
 - Test timing - Aprox 2.5 months
 
-## Variation screen shots
