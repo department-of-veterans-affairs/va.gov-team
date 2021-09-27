@@ -1,6 +1,6 @@
 # Research Plan and Converstion Guide for Check-in, Phase 2 & 3 UAT and Phase 4, October 2021
 ## Background
-This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov.With this round of research
+This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. With this round of research, we are looking to get feedback on the updated release of our MVP with real users checking in and staff. Lastly, we are interested in understanding if the updated poster provides clarity during the check-in process, and capture initial feedback from the staff on the view-only contact list.
 
 ### Veteran Journey
 The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
