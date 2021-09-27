@@ -109,8 +109,6 @@ Ok, that's what we were hoping for. Go ahead and add your number back, and then 
 
   
 
-## 
-
 ## Post-Task Interview - 2 minute
 
 - Do you have any feedback on what we looked at today?
