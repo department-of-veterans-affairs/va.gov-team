@@ -1,6 +1,10 @@
-## Communication Audit - Research Findings
+# Communication Audit - Research Findings
 
 Follow-up discovery for issue [##27686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686). New options for contacting the VA are becoming available and need to be added to the VAMC pages. Before we can determine the right experience for Veterans, we need to understand both the individual options and the landscape.
+
+
+
+## About the research
 
 ### Goals
 
@@ -24,9 +28,18 @@ Get clarity on when to use which method (from VA perspective) so that we can det
 
 UX Audit of Veteran facing contact methods - health care focus
 
-### Key Findings
+## Key Findings
  
-1. Multiple contact method labels, who's names don't clearly indicate their purpose, co-exist within the VA.gov ecosystem. Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. In adition, some of these labels may not be relevant or available in all locations. In these instances, some health systems list the same number under multiple labels. For example, Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line. 
+1. Multiple contact method labels, who's names don't clearly indicate their purpose, co-exist within the VA.gov ecosystem. 
+2. Contact methods are distributed among many different sections and pages globally and within health systems. 
+3. Contact methods are often embedded within lengthy, wordy pages of dense text.
+4. When and how a sublabels gets implemented is inconsistent across VAMC pages.
+
+## Key Findings - Detailed
+
+1. **Multiple contact method labels, who's names don't clearly indicate their purpose, co-exist within the VA.gov ecosystem.** Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. In adition, some of these labels may not be relevant or available in all locations. In these instances, some health systems list the same number under multiple labels. For example, Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line. 
+
+    Phone labels:
     - Main phone
     - MyVA411 main information line
     - "Call us"
@@ -40,8 +53,10 @@ UX Audit of Veteran facing contact methods - health care focus
     - Clinical Contact Center
     - Primary care call center
     - My HealtheVet help desk
+    - VA Secure Messaging
+    - VA Health Chat
 
-2. Contact methods are distributed among many different sections and pages globally and within health systems. This places all the burden on Veterans to either understand the VA's organizational system or browse multiple pages to then locate and compare communication options. There's no way to easily see all the phone options to compare them nor does the site offer a way to search or filter among them. This makes poorly labeled contact methods even more problematic as it places undue burden on a person's working memory to do all comparison by memory. In addition, the current distrubution of information may confuse users as to what is a national vs a location/system specific phone number. Some examples of places where numbers, though not exhaustive:
+2. **Contact methods are distributed among many different sections and pages globally and within health systems.** This places all the burden on Veterans to either understand the VA's organizational system or browse multiple pages to then locate and compare communication options. There's no way to easily see all option together to compare them nor does the site offer a way to search or filter among them. This makes poorly labeled contact methods even more problematic as it places undue burden on a person's working memory to do all comparison by memory. In addition, the current distrubution of information may confuse users as to what is a national vs a location/system specific contact method. Examples of places where contact methods are listed (not exhaustive):
     - Global: Contact us
     - Global: Helpful VA phone numbers
     - System: Contact us 
@@ -50,28 +65,31 @@ UX Audit of Veteran facing contact methods - health care focus
     - System: Register for care
     - System: Operating status / Patient resources
 
+3. **Contact methods are often embedded within lengthy, wordy pages of dense text.** Most often, contact methods are not listed within a concise, scannable list. Combined with the distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find a label and contact method, add more distance between a question and an answer.
 
-3. When and how a "toll free" number gets listed is inconsistent across VAMC pages
+4. **When and how a sublabels gets implemented is inconsistent across VAMC pages** 
+For example, toll free vs non-toll free numbers:
     - Sometimes both numbers are offered under a single label, "352-374-6105 or 800-349-9457"  
     - Sometimes options are sub-labeled, "Toll free: #, Local: #"
     - Sometimes options are sub-labeled, "Direct:"
     - Sometimes options are not sub-labeled
 
-Questions:
-1. Do we have a clear understanding of the part of the Veteran journeys that we want to prioritize? A Veteran who is Starting out/Getting out and wanting to engage in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their behaviors different? 
+### Questions:
+1. Do we have a clear understanding of the part of the Veteran journey(s) that we want to prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different? 
 2. What Veteran top tasks should we prioritize? e.g. enroll, refill a Rx, make an appt, talk to a nurse, etc 
 3. How does label naming match the task a Veteran is trying to accomplish? "Make an appointment" more likely matches a Veteran's mental model when trying to complete a task than does "Telephone care".
 4. Which contact methods do Veterans use most today? Why?
-5. Which contact methods does VA want to prioritize for top tasks? At what point of care?
+5. Which contact methods does VA want to prioritize for top tasks? At what point of care? Have priorities changed over time and need updating?
 6. Are Veteran and VA priorities aligned? 
+7. How does VA.gov information architecture support top tasks and priorities? 
 
 
-Recommendations:
+### Recommendations:
 1. Stakeholders need to be aligned to help prioritize which methods
 
 ### Additional questions
 
-- In previous studies, multiple Veterans mention the "Nurse Line". Why do they call this number over other numbers?
-- Veterans who are already engaged in health care may already be comfortable using their "main" number, this confusion is likely to cause the most confusion with Veterans who are just starting to engage in healthcare.
-
+- In previous studies, multiple Veterans mention the "Nurse Line". For what purpose(s) do they call this number over other numbers? 
+    - This number isn't widely surfaced on all VA.gov pages. How do Veterans learn about this number? 
+- [Previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf) found that secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation, for established patient Veterans.
 
