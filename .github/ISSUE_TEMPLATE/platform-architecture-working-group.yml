@@ -34,10 +34,9 @@ body:
     id: status
     attributes:
       label: Status
-      description: "What is the status of the documentation?"
+      description: "What is the status of the presentation?"
       options:
         - "Not Ready"
-        - "Draft"
         - "Ready"
     validations:
       required: true
