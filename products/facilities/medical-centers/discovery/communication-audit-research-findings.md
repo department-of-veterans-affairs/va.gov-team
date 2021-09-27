@@ -28,12 +28,19 @@ Get clarity on when to use which method (from VA perspective) so that we can det
 
 UX Audit of Veteran facing contact methods - health care focus
 
+#### Related discovery
+
+[VA Health Connect discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/health-connect-discovery.md) and [VISN 8 phone audit](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Design%20%26%20Research/Facilities%20Team/2021%20-%20Communication%20Methods%20Discovery/Communication%20Audit.xlsx?d=wde893f1280744f7fbc565dec58595748&csf=1&web=1&e=KkvtD9)
+[Health chat discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/health-chat-discovery.md)
+[Secure Messaging discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/secure-messaging-discovery.md)
+
+
 ## Key Findings
  
 1. Multiple contact method labels, who's names don't clearly indicate their purpose, co-exist within the VA.gov ecosystem. 
 2. Contact methods are distributed among many different sections and pages globally and within health systems. 
 3. Contact methods are often embedded within lengthy, wordy pages of dense text.
-4. When and how a sublabels gets implemented is inconsistent across VAMC pages.
+4. When and how a sub-labels get implemented is inconsistent across VAMC pages.
 
 ## Key Findings - Detailed
 
@@ -46,6 +53,7 @@ UX Audit of Veteran facing contact methods - health care focus
      - "Call us"
      - 24-hour nurse
      - Telephone care 
+     - Telephone Triage
      - Telephone assistance service (how VA benefits hotline is described when calling)
      - VA benefits hotline
      - Health benefits hotline
@@ -69,12 +77,13 @@ UX Audit of Veteran facing contact methods - health care focus
 
 3. **Contact methods are often embedded within lengthy, wordy pages of dense text.** Most often, contact methods are not listed within a concise, scannable list. Combined with the distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find a label and contact method, add more distance between a question and an answer.
 
-4. **When and how a sublabels gets implemented is inconsistent across VAMC pages** 
-For example, toll free vs non-toll free numbers:
-    - Sometimes both numbers are offered under a single label, "352-374-6105 or 800-349-9457"  
+4. **When and how labels and sub-labels gets implemented is inconsistent across VAMC pages** 
+Consider "toll free" phone numbers:
+    - Sometimes both toll free and non-toll free numbers are offered under a single label, "352-374-6105 or 800-349-9457"  
     - Sometimes options are sub-labeled, "Toll free: #, Local: #"
     - Sometimes options are sub-labeled, "Direct:"
     - Sometimes options are not sub-labeled
+Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line. 
 
 ### Questions:
 1. Do we have a clear understanding of the part of the Veteran journey(s) that we want to prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different? 
