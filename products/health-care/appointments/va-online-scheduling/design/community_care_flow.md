@@ -45,7 +45,13 @@ If user chooses "Yes" for provider question, fields appear where they can enter 
 ![preferences_expanded](community-care-flow/preferences_expanded.png)
 
 
+## Preferences page (unreleased)
+Selection of closest city and state has been move to its own page.
 
+![preferences_ureleased](community-care-flow/preferences_ureleased.png)
+
+### Choose closest city (unreleased)
+![closest_city](community-care-flow/closest_city.png)
 
 ## Provider Selection Page (unreleased)
 
