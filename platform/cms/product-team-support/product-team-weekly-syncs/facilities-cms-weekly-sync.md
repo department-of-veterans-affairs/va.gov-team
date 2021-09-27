@@ -29,6 +29,8 @@
 
 VAMC
 
+Location sort order
+
 Product change to support Manila (facility with no system)
 
 Scheduling Mobile VAMC facilities research/design/discovery overview
