@@ -56,3 +56,4 @@ In general the team has been thinking about what the best way could be to receiv
 - Caseflow team to integrate their "virtual hearing opt-in" feature with My VA and/or action items
 - Request from VA Profile business to add prompts to address update fields on Profile to encourage Veterans to ensure their home and mailing addresses are up to date
 - Request from Mobile team to expand military branch logos in the name tag region (soon to be renamed the 'my information' region for a11y reasons) on VA.gov
+- EERS on VA.gov profile
