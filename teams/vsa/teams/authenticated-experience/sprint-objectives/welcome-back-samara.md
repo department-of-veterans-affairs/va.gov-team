@@ -40,7 +40,7 @@ For discussion/possible forward path
 - The team assisted in responding to an incident with Direct Deposit the week of 8/9 (reported incidents of fraud)
 - Temporarily disabled the feature on production for all users for a few days
 - The Identity team determined that the issue was occurring in Veterans' accounts who access DD via MHV or DD log-in, but _not_ ID.me
-- The team reenabled the feature to be accessed only via ID.me
+- The team reenabled the feature to be accessed only via verified ID.me users. If they log in with DD or MHV they have limited view only.
 
 ## Additional projects/features
 
