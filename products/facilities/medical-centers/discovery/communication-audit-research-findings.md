@@ -83,13 +83,14 @@ For example, toll free vs non-toll free numbers:
 6. Are Veteran and VA priorities aligned? 
 7. How does VA.gov information architecture support top tasks and priorities? 
 
-
-### Recommendations:
-1. Stakeholders need to be aligned to help prioritize which methods
-
 ### Additional questions
 
 - In previous studies, multiple Veterans mention the "Nurse Line". For what purpose(s) do they call this number over other numbers? 
     - This number isn't widely surfaced on all VA.gov pages. How do Veterans learn about this number? 
 - [Previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf) found that secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation, for established patient Veterans.
 
+### Recommendations:
+1. Stakeholders need to be aligned to help prioritize which methods of communication should be offered for which use cases. 
+2. Communication method labeling and naming should be audited and tested for understandability, interpretability.
+3. Veteran research and analytics of Veteran communication preferences should help shape the prioritization above.
+4. Presentation of contact method(s) should help Veterans easily choose rather than subjecting them to a "tyranny of choice".
