@@ -80,11 +80,11 @@
       "    value: undefined,",
       "  }}",
       "  sectionHeading={{",
-      "    value: 'null',",
+      "    value: '${1:sectionHeading}',",
       "  }}",
       ">",
-      "  <va-accordion-item header=\"${1:header}\">",
-      "    ${2:content}",
+      "  <va-accordion-item header='${2:header}'>",
+      "    ${3:content}",
       "  </va-accordion-item>",
       "</va-accordion>;",
       ""
@@ -98,13 +98,13 @@
     [
       "<va-alert",
       "  onClose={function noRefCheck(){}}",
-      "  status=\"info\"",
+      "  status='info'",
       ">",
-      "  <h3 slot=\"headline\">",
-      "    Alert headline",
+      "  <h3 slot='headline'>",
+      "    ${1:headlineText}",
       "  </h3>",
       "  <div>",
-      "    This is an alert",
+      "    ${2:alertBody}",
       "  </div>",
       "</va-alert>"
     ]
@@ -117,12 +117,12 @@
     [
       "<va-checkbox",
       "  ariaDescribedby={{",
-      "    value: '\\'\\''",
+      "    value: '${1:ariaDescribedBy}'",
       "  }}",
       "  checked={null}",
       "  description={null}",
       "  error={null}",
-      "  label=\"This is a cleverly-labelled checkbox\"",
+      "  label='${2:label}'",
       "  required={null}",
       "/>"
     ]
@@ -134,7 +134,7 @@
     "body":
     [
       "<va-on-this-page></va-on-this-page>",
-      "<h2 id=\"heading-1\">",
+      "<h2 id='${1:headingId}'>",
       "  Heading 1",
       "</h2>"
     ]
@@ -150,12 +150,12 @@
       "    value: undefined",
       "  }}",
       "  error={null}",
-      "  label=\"This is a label\"",
+      "  label='${1:label}'",
       ">",
       "  <va-radio-option",
-      "    label=\"Option one\"",
-      "    name=\"one\"",
-      "    value=\"1\"",
+      "    label='${2:optionLabel}'",
+      "    name='${3:optionName}'",
+      "    value='${4:optionValue}'",
       "  />",
       "</va-radio>"
     ]
@@ -167,46 +167,31 @@
     "body":
     [
       "<va-select",
-      "    aria-live-region-text=\"You selected\"",
+      "    aria-live-region-text='You selected'",
       "    error={null}",
-      "    label=\"Branch of Service\"",
-      "    name=\"branch\"",
-      "    value=\"army\"",
+      "    label='${1:label}'",
+      "    name='${2:name}'",
+      "    value='${3:value}'",
       "  >",
-      "    <option value=\"navy\">",
-      "      Navy",
+      "    <option value='${4:optionValue}'>",
+      "      ${5:optionText}",
       "    </option>",
-      "    <option value=\"army\">",
-      "      Army",
-      "    </option>",
-      "    <option value=\"marines\">",
-      "      Marines",
-      "    </option>",
-      "    <option value=\"air-force\">",
-      "      Air Force",
-      "    </option>",
-      "    <option value=\"coastguard\">",
-      "      Coastguard",
-      "    </option>",
-      "  </va-select>"
+      "</va-select>"
     ]
   },
 	"Text Input va-text-input web component": {
-		"prefix": ["va-text-input"],
+    "prefix": ["va-text-input"],
+    "description": "Text input field web component",
 		"body": [
 			"<va-text-input",
-			"	ariaDecribedby={{value: ''}}",
+			"	ariaDecribedby={{value: '${1:aria}'}}",
 			"	enabled-analytice={null}",
-			" placeholder=''",
-			" label='${1:label}'",
-			" name='${2:name}'",
+			" placeholder='${2:placeholder}'",
+			" label='${3:label}'",
+			" name='${4:name}'",
 			" required={null}",
 			" value={null}"
 			"/>"
-		],
-		"description": "Text input field web component",
+		]
 	},
-
-
-
 }
