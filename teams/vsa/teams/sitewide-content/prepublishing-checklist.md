@@ -15,7 +15,7 @@ Before publishing a Resources and Support article make sure these steps are also
 - [ ] Correct article category is selected
 - [ ] Correct benefit hub contacts are selected
 - [ ] Appropriate audience and top tags are selected
-- [ ] CTA buttons repeat on the bottom if a long article
+- [ ] Action links repeat on the bottom if a long article
 - [ ] **For single Q&A:** Standalone button is checked
 - [ ] **For multiple FAQs:** First publish each Q&A on its own (make sure standalone button is not checked) and then publish the multiple FAQ
 - [ ] **Once published:** Add article to the R&S landing page either in a new hub section or to one that already exists. If there are already more than 5 articles in that hub, you do not need to add it unless you want it to replace another article already on the page.
