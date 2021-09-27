@@ -1,9 +1,16 @@
-Before publishing a Resources and Support article make sure these steps are all complete:</br>
+Before publishing any page on VA.gov confirm the following:</br>
 - [ ] All links are working
 - [ ] Phone numbers are in aria labels
+- [ ] Heirarchy of headings is correct (H1 to H2 to H3--levels shouldn't be skipped)
+- [ ] Node IDs are used for links within Drupal
+- [ ] We aren't using sighted language ("view," "see," "look"). These should be replaced with a word that is better for users with screen readers ("check," "go to")
+- [ ] If publishing a brand-new page, confirm the left nav and url are set up correctly (if the page is a child page, the section needs to be the same as the parent page in order for the lef nav to show)
+- [ ] All apostrophes and quotation marks should be curly
+
+Before publishing a Resources and Support article make sure these steps are also complete:</br>
 - [ ] H2s are within the 70-character limit
 - [ ] Related links are on page and make sense (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing
-- [ ] CTA button wording matches buttons on other pages that use same link
+- [ ] Action link wording matches ones on other pages that use same link
 - [ ] If linking off of VA.gov, make sure that's indicated with the words in the label or button
 - [ ] Correct article category is selected
 - [ ] Correct benefit hub contacts are selected
