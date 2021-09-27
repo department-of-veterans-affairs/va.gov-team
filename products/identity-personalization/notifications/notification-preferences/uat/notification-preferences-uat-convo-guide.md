@@ -1,7 +1,5 @@
 # Profile notification preferences UAT conversation guide
 
-`draft`
-
 ### Project-specific setup
 
 - Sign in to Zoom.
@@ -11,7 +9,7 @@
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Liz and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile section of VA.gov. We've add a new notification settings feature and we want to make sure that it is all working properly in your account.
+Thanks for joining us today! My name is Liz and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile section of VA.gov. We've add a new notification settings feature to manage text and email notifications and we want to make sure that it is all working properly in your account.
 
 Before we start, a few things I want to mention:
 
@@ -21,7 +19,7 @@ Before we start, a few things I want to mention:
 - **We will be able to see your real information today.** This may include some healthcare information and some claims information. During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
-## Warm-up/Screener Questions - 3 minutes
+## Warm-up/Screener Questions - 5 minutes
 
 OK, let's get started.
 
@@ -33,11 +31,15 @@ OK, let's get started.
 3. Do you know your username and password? 
    - If not: Are these readily accessible? Could get them?
    - If the user can not remember or retrieve their login credentials, **end the session.**
-4. Can you tell me what type of mobile device you are using today? 
+4. What type of mobile device you are using today? 
    - If needed: I'm asking this question because sometimes the type of device can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
 5. Can you tell me which web browser you are using? 
-6. Do you currently or have you ever health care from the VA?
-7. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
+6. Do you currently receive health care through the VA?
+   - If no: have you ever?
+   - Have you ever received care at a VA medical facility in Asheville, NC, or Denver, CO? 
+7. Since this new feature is related to notifications, I'm curious to know what notifications you currently get from VA.
+   - Do you receive those via text or email?
+8. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
    - If no: Explain this is necessary for testing. If they are still unwilling, **end the call.**
 
 **Screenshare**
@@ -45,34 +47,59 @@ OK, let's get started.
 OK, please share your screen, and then we will get started. 
 
 
-## Navigating to profile - 1 minute
+## 1. Navigating to profile - 3 minutes
 
-- I'd like you to open a new tab in your browser, and go to https://www.va.gov/. 
+I'd like you to open a new tab in your browser, and go to https://www.va.gov/. 
 
-- Once you are logged in, click on your name in the upper right-hand corner, select Profile. Let's check to see if you have a mobile number on file. If so, let's go ahead and remove it.
-  - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
-  - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
+Once you are logged in, click on your name in the upper right-hand corner, select Profile. Let's check to see if you have a mobile number on file. If so, let's go ahead and remove it.
 
-## Notification settings with missing contact information - 2 minutes
+- [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
+- [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
-- I'd like you to go ahead and click on notification settings
+From here, please click on notification settings
 
-- User should see missing mobile number error
-  - [ ] **UAT TASK:** Confirm correct error is showing
-- Go ahead and click that link and add your number back
-  - [ ] **UAT TASK:** Confirm alert link takes user to mobile section of contact information
+- [ ] **UAT TASK:** User can navigate to notification settings
+- [ ] **Usability note:** Was user easily able to use the profile mobile menu? If no, what happened?
 
-## Post-Task Interview - X minutes
+## 2. Notification settings with missing contact information - 5 minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+*User should see missing mobile number error*
 
-## Thank-You and Closing - X minutes
+- [ ] **UAT TASK:** Confirm correct error is showing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Go ahead and add your number back, and then see if you edit notification settings afterward
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+- [ ] **UAT TASK:** Confirm alert link takes user to mobile section of contact information
 
-Great, well thank you so much again, and enjoy the rest of your day!
+- [ ] **UAT TASK:** Confirm user can get back to notification settings via the alert link
+
+## 3. Manage notification settings - 5 minutes
+
+*User should be on notification settings page*
+
+(Only participants who receive healthcare through VA) Take a look at this page. 
+
+- Are there any notifications here that you already receive? 
+- What are your thoughts about what you see related to those notifications here?
+
+(All participants) Go ahead and update your notification settings
+
+- If user doesn't click the link in the alert, instruct them to do so before all the settings are set
+- [ ] **UAT TASK:** Is the health care section only showing for users who have health care?
+- [ ] **UAT TASK:** Do the field sets load with the `warning` state?
+- [ ] **UAT TASK:** Is the prescription shipping/tracking reminder showing appropriately (should be hidden unless a user is registered at an Asheville or Denver VAMC)?
+- [ ] **UAT TASK:** Does the link in the alert take the user to the first `not set` notification option?
+- [ ] **UAT TASK:** Does the `saving...` message display while the API call is in-flight?
+- [ ] **UAT TASK:** Are the users changes to their notification settings accurately saved in the API?
+- [ ] **UAT TASK:** Do the field sets correctly change to the `saved` state?
+- [ ] **Usability:** Did the user experience any confusion related to the auto-save feature?
+- [ ] **Usability:** (Healthcare users only) Did the user share any feedback related to notifications they are already receiving?
+
+## Post-Task Interview - 2 minute
+
+- Do you have any feedback on what we looked at today?
+- Do you have any questions for me?
+
+## Thank-You and Closing - 1 minute
+
+Well, we really appreciate you taking the time to test these updates today. This helps us to make sure everything will work when we launch these updates for all veterans on VA.gov.  I hope you enjoy the rest of your day!
