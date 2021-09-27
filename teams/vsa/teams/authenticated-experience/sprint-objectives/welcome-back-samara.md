@@ -23,6 +23,7 @@ Goal: Debrief Samara on the latest team happenings. This will likely be the firs
 For discussion/possible forward path
 - Alert "history" a separate interface for Veterans to see all of their alerts
 - Only prominent/"un-read" alerts appear on My VA
+- Consider alerts that other teams are working on/looking to add to AE
 
 ## Notification Preferences (VA Notify, VA Profile, and other integration updates)
 
