@@ -62,7 +62,7 @@ An accredited representative of a Veteran Service Organization or other service 
 
 When you provide a check as payment, you authorize VA to either use information from your check to make a one-time electronic fund transfer from your account or to process the payment asa  check transaction. When VA uses information from your check to make an electronic transfer, funds may be withdrawn from your account as soon as the day we process your payment, and you will not receive your check back from the financial institution. A Privacy Act Statement required by 5 U.S.C & 552a(e)(3) stating our authority for soliciting and collecting the information from your check, and explaining the purposes and routine uses which will be made of your check information, VA Notice of Privacy Practices, IB 10-163 is available online at www.va.gov/vhapublications or call toll free at 1-866-400-1238 to obtain a copy by mail. Furnishing the check information is voluntary, but a decision not to do so may require you to make payment by some other method.
 
-**Questions about payments**
+**Questions about payments** (h4)
 
 Payments made in the past ten (10) days may not have been applied to your account by the time your statement was prepared. If so, this payment will be reflected in your account on the next statement. For assistance in understanding your billing statement and assessed copayment charges contact VA at 1-866-400-1238.
 
