@@ -66,132 +66,46 @@
 		"body": ["<va-alert","	background-only", "	onClose={function noRefCheck(){}}", "	status='error'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
-  "Accordion web-component":
-  {
-    "prefix": "va-accordion",
-    "description": "Accordion web-component",
-    "body":
-    [
-      "<va-accordion",
-      "  disableAnalytics={{",
-      "    value: 'false',",
-      "  }}",
-      "  openSingle={{",
-      "    value: undefined,",
-      "  }}",
-      "  sectionHeading={{",
-      "    value: '${1:sectionHeading}',",
-      "  }}",
-      ">",
-      "  <va-accordion-item header='${2:header}'>",
-      "    ${3:content}",
-      "  </va-accordion-item>",
-      "</va-accordion>;",
-      ""
-    ]
-  },
-	"Alert web component":
-  {
-    "prefix": "va-alert",
-    "description": "Alert web component",
-    "body":
-    [
-      "<va-alert",
-      "  onClose={function noRefCheck(){}}",
-      "  status='info'",
-      ">",
-      "  <h3 slot='headline'>",
-      "    ${1:headlineText}",
-      "  </h3>",
-      "  <div>",
-      "    ${2:alertBody}",
-      "  </div>",
-      "</va-alert>"
-    ]
-  },
+	// Accordion
+  	"Accordion web-component":
+	{
+		"prefix": "va-accordion",
+		"description": "Accordion web-component. https://design.va.gov/storybook/?path=/docs/components-va-accordion--default",
+		"body": ["<va-accordion", "  disableAnalytics={{", "    value: 'false',", "  }}", "  openSingle={{", "    value: undefined,", "  }}", "  sectionHeading={{", "    value: '${1:sectionHeading}',", "  }}", ">", "  <va-accordion-item header='${2:header}'>", "    ${3:content}", "  </va-accordion-item>", "</va-accordion>;","" ]
+	},
+	// Checkbox
 	"Checkbox input web component":
-  {
-    "prefix": "va-checkbox",
-    "description": "Checkbox input web component",
-    "body":
-    [
-      "<va-checkbox",
-      "  ariaDescribedby={{",
-      "    value: '${1:ariaDescribedBy}'",
-      "  }}",
-      "  checked={null}",
-      "  description={null}",
-      "  error={null}",
-      "  label='${2:label}'",
-      "  required={null}",
-      "/>"
-    ]
-  },
+	{
+		"prefix": "va-checkbox",
+		"description": "Allows users to select one or more items from a visible list. https://design.va.gov/storybook/?path=/docs/components-va-checkbox--default",
+		"body": ["<va-checkbox", "  ariaDescribedby={{", "    value: '${1:ariaDescribedBy}'", "  }}", "  checked={null}", "  description={null}", "  error={null}", "  label='${2:label}'", "  required={null}", "/>"]
+	},
+	// On this page
 	"On this page web component":
-  {
-    "prefix": "va-on-this-page",
-    "description": "On this page web component",
-    "body":
-    [
-      "<va-on-this-page></va-on-this-page>",
-      "<h2 id='${1:headingId}'>",
-      "  Heading 1",
-      "</h2>"
-    ]
-  },
+	{
+		"prefix": "va-on-this-page",
+		"description": "On this page web component. https://design.va.gov/storybook/?path=/docs/components-va-on-this-page--default",
+		"body":["<va-on-this-page></va-on-this-page>", "<h2 id='${1:headingId}'>", "  Heading 1", "</h2>"]
+	},
+	// Radio button
 	"Radio input group web component":
-  {
-    "prefix": "va-radio",
-    "description": "Radio input group web component",
-    "body":
-    [
-      "<va-radio",
-      "  enableAnalytics={{",
-      "    value: undefined",
-      "  }}",
-      "  error={null}",
-      "  label='${1:label}'",
-      ">",
-      "  <va-radio-option",
-      "    label='${2:optionLabel}'",
-      "    name='${3:optionName}'",
-      "    value='${4:optionValue}'",
-      "  />",
-      "</va-radio>"
-    ]
-  },
+	{
+		"prefix": "va-radio",
+		"description": "Radio buttons allow users to see all available choices at once and select exactly one option. https://design.va.gov/storybook/?path=/docs/components-va-radio--default",
+		"body":["<va-radio", "  enableAnalytics={{", "    value: undefined", "  }}", "  error={null}", "  label='${1:label}'", ">", "  <va-radio-option", "    label='${2:optionLabel}'", "    name='${3:optionName}'", "    value='${4:optionValue}'", "  />", "</va-radio>"]
+	},
+	// Select box
 	"Select input web component":
-  {
-    "prefix": "va-select",
-    "description": "Select input web component",
-    "body":
-    [
-      "<va-select",
-      "    aria-live-region-text='You selected'",
-      "    error={null}",
-      "    label='${1:label}'",
-      "    name='${2:name}'",
-      "    value='${3:value}'",
-      "  >",
-      "    <option value='${4:optionValue}'>",
-      "      ${5:optionText}",
-      "    </option>",
-      "</va-select>"
-    ]
-  },
-    "Text Input va-text-input web component": {
-    "prefix": ["va-text-input"],
-    "description": "Text input field web component",
-    "body": [
-      "<va-text-input",
-      " ariaDecribedby={{value: '${1:aria}'}}",
-      " enabled-analytics={null}",
-      " placeholder='${2:placeholder}'",
-      " label='${3:label}'",
-      " name='${4:name}'",
-      " required={null}",
-      " value={null}",
-      "/>"
-    ]
-  },
+	{
+		"prefix": "va-select",
+		"description": "A select box allows users to select one option from a list. https://design.va.gov/storybook/?path=/docs/components-va-select--default",
+		"body":["<va-select", "    aria-live-region-text='You selected'", "    error={null}", "    label='${1:label}'", "    name='${2:name}'", "    value='${3:value}'", "  >", "    <option value='${4:optionValue}'>", "      ${5:optionText}", "    </option>", "</va-select>" ]
+	},
+	// Text input
+    "Text Input va-text-input web component": 
+	{
+		"prefix": ["va-text-input"],
+		"description": "Text inputs allow people to enter any type of text unless otherwise restricted. https://design.va.gov/storybook/?path=/docs/components-va-text-input--default",
+		"body": ["<va-text-input", " ariaDecribedby={{value: '${1:aria}'}}", " enabled-analytics={null}", " placeholder='${2:placeholder}'", " label='${3:label}'", " name='${4:name}'", " required={null}", " value={null}", "/>" ]
+	},
 }
