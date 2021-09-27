@@ -35,33 +35,33 @@
 		"body": ["<p class='va-address-block'>", "Department of Veterans Affairs Claims Intake Center <br />", "Attention: C-123 Claims<br />", "PO Box 5088<br />", "Janesville, WI 53547-5088<br />","</p>"],
 		"description": "This is a styled address block from our component library. https://design.va.gov/storybook/?path=/docs/components-address-block--default-story",
 	},
-	// Alert Box or VA Alert
-	"Alert Box 'Info'/ va-alert": {
+	// va-alert or VA Alert
+	"va-alert 'Info'/ va-alert": {
 		"prefix": ["va-alert info"],
 		"body": ["<va-alert", "	onClose={function noRefCheck(){}}", "	status='info'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
-	"Alert Box 'Continue'/ va-alert": {
+	"va-alert 'Continue'/ va-alert": {
 		"prefix": ["va-alert continue"],
 		"body": ["<va-alert", "	onClose={function noRefCheck(){}}", "	status='continue'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
-	"Alert Box 'Success'/ va-alert": {
+	"va-alert 'Success'/ va-alert": {
 		"prefix": ["va-alert success"],
 		"body": ["<va-alert", "	onClose={function noRefCheck(){}}", "	status='success'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
-	"Alert Box 'Warning'/ va-alert": {
+	"va-alert 'Warning'/ va-alert": {
 		"prefix": ["va-alert warning"],
 		"body": ["<va-alert", "	onClose={function noRefCheck(){}}", "	status='warning'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
-	"Alert Box 'Error'/ va-alert": {
+	"va-alert 'Error'/ va-alert": {
 		"prefix": ["va-alert error"],
 		"body": ["<va-alert", "	onClose={function noRefCheck(){}}", "	status='error'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
 	},
-	"Alert Box 'Background Only'/ va-alert": {
+	"va-alert 'Background Only'/ va-alert": {
 		"prefix": ["va-alert background only"],
 		"body": ["<va-alert","	background-only", "	onClose={function noRefCheck(){}}", "	status='error'", ">", "	<h3 slot='headline'>", "		${2:headline}", "	</h3>", "	<div>", "		${3:content}", "	</div>", "</va-alert>"],
 		"description": "Used to provide helpful information or something that warrants a user’s attention. Not used for negative consequences. https://design.va.gov/storybook/?path=/docs/components-va-alert--default",
