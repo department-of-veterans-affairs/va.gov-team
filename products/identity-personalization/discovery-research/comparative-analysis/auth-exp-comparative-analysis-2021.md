@@ -27,7 +27,6 @@ Research Questions
         -   Netflix offers download option in India because connectivity is so inconsistent
         -   What can we learn from private sector organizations operating in limited markets?
     -   Successful when framed as a benefit to the individual
-    -   
 -   What are the differences?
     -   Private sector 
         -   One-to-one "marketing"
@@ -35,7 +34,7 @@ Research Questions
         -   More robust options for personal data you can manage (multiple addresses, phone numbers, preferred names, nicknames for accounts, etc)
         -   Data is licensed to create personalization
             -   Tracking from one site to another (e.g. displaying ads from something you saw on one site on another site) - more creepy
-        -   At times, for a lot of seemingly extraneous information or engagement to create personalization 
+        -   At times, asking for a lot of seemingly extraneous information or engagement to create personalization 
             -   John Hancock life insurance gathering health data to qualify customers for discounts 
             -   Consider how much you need to engage with services like Spotify to "teach" it about you
     -   Civic services
