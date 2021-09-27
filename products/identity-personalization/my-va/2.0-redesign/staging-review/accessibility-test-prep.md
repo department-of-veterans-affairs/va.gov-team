@@ -1,4 +1,4 @@
-# My VA - Accessibility Staging Reivew Prep
+# My VA - Accessibility Staging Review Prep
 
 For additional reference see [Accessibility staging review prepartion documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
 
