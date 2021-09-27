@@ -133,7 +133,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 |*Stand-Up*               |Daily @ 10:00am ET |15 mins         | *Monday, Wednesday & Thursday*: Zoom Tuesday & Friday: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any impediments?|
 |*Sprint Planning*        |1st Wednesday of every sprint  @ 2:00pm ET|60 mins | Zoom meeting|Outline team and member focus, goals for sprint.
 |*Retro*                  |Last Tuesday of every sprint @ 2:30pm ET | 30 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|
-|*Grooming* | 2nd Thursday of every sprint, @ 11:00am ET|30 mins |Zoom meeting|Assess and update workload for remainder of sprint|
+|*Grooming* | 2nd Thursday of every sprint, @ 1:00pm ET|30 mins |Zoom meeting|Assess and update workload for remainder of sprint|
 
 
 
