@@ -31,3 +31,11 @@ jobs:
       with:
         project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/16'
         column_name: 'New'
+    - name: Add issues with `platform-architecture-working-group` label to Platform Architecture Working Group project
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: |
+        github.event.action == 'opened' && 
+        contains(github.event.issue.labels.*.name, 'platform-architecture-working-group')
+      with:
+        project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/41'
+        column_name: 'New'
