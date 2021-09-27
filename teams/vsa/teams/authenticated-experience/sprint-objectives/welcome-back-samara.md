@@ -45,7 +45,7 @@ Goal: Debrief Samara on the latest team happenings. This will likely be the firs
 ### External team requests
 In general the team has been thinking about what the best way could be to receive and prioritize requests from other teams/contracts that range from asking us make minor enhancements to existing features within the auth experience on VA.gov to external teams looking to build on the auth experience themselves. Some examples/groups that came in over the summer include:
 
-- Digitial GI Bill Team to build a new section within My VA for Education; latest request (this morning) secure inbox for education [design intent ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29842#issuecomment-922013798) flagged for us this morning
+- Digitial GI Bill Team to build a new section within My VA for Education; latest request secure inbox for education [design intent ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29842#issuecomment-922013798) (flagged for us this morning)
 - Health care apartment team looking to expand the health care section on My VA
 - Caseflow team to integrate their "virtual hearing opt-in" feature with My VA and/or action items
 - Request from VA Profile business to add prompts to address update fields on Profile to encourage Veterans to ensure their home and mailing addresses are up to date
