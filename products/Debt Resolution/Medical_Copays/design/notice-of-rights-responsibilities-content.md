@@ -31,7 +31,7 @@ You have the right to establish a monthly repayment plan at any time during your
 
 **Dispute the existence or amount of the debt** (h4)
 
-You have the right to dispute the existence or amount of the debt. To do so, submit a letter explaining why you question the validity or amount of the debt. To avoid late charges, you must submit a dispute by the balance due date on the initial billing statement. VA will not initiate collection if your dispute is received within sixty (60) days from the initial billing statement. If VA receives your notice later than sixty (60) days and collection has been initiated, it will continue while the dispute is being reviewed. If the dispute is resolved in your favor, all late charges will be removed from your account, and any amounts withheld from your VA benefits, federal payments, or wages will be refunded to you. Refer to the ""Customer Service" and ""Submitting Your Request" sections below for more information.
+You have the right to dispute the existence or amount of the debt. To do so, submit a letter explaining why you question the validity or amount of the debt. To avoid late charges, you must submit a dispute by the balance due date on the initial billing statement. VA will not initiate collection if your dispute is received within sixty (60) days from the initial billing statement. If VA receives your notice later than sixty (60) days and collection has been initiated, it will continue while the dispute is being reviewed. If the dispute is resolved in your favor, all late charges will be removed from your account, and any amounts withheld from your VA benefits, federal payments, or wages will be refunded to you. Refer to the "Customer Service" and "Submitting Your Request" sections below for more information.
 
 **Hardship determination** (h4)
 
@@ -52,15 +52,19 @@ Submit the required VA forms or documents to apply for one of VA's Financial Har
 * In Person: At your local Veterans Affairs Medical Center's Business Office or Health Administration Service Office
 * By Mail: Send completed forms and/or other required documentation to the VA address at the top left of your statement to the attention of the Business Office/Health Administration Service Office
 
-For additional information, to request necessary forms or assistance in accessing forms online, contact VA at 1-866-400-1238\.
+For additional information, to request necessary forms or assistance in accessing forms online, contact VA at 1-866-400-1238.
 
 **Representation** (h4)
 
-An accredited representative of a Veteran Service Organization or other service organization recognized by the Secretary of Veterans Affairs may represent you without charge. You may employ an attorney or VA accredited agent to assist you. The services of an attorney or accredited agent representing you in adjudicated proceedings before VA are subject to a fee limitation as set forth in 38 U.S.C 5904\. If you desire representation and have not already designated a representative, contact VA at 1-866-400 to request the necessary forms. If an attorney or accredited agent represents you before VA, a copy of any agreement between you and the attorney or accredited agent about the payment of the attorney's or agent's fees must be filed at the following address: Counsel to the Chairman (01C3), Board of Veterans Appeals, 810 Vermont Avenue N.W., Washington D.C. 20420\. 
+An accredited representative of a Veteran Service Organization or other service organization recognized by the Secretary of Veterans Affairs may represent you without charge. You may employ an attorney or VA accredited agent to assist you. The services of an attorney or accredited agent representing you in adjudicated proceedings before VA are subject to a fee limitation as set forth in 38 U.S.C 5904. If you desire representation and have not already designated a representative, contact VA at 1-866-400-1238 to request the necessary forms. If an attorney or accredited agent represents you before VA, a copy of any agreement between you and the attorney or accredited agent about the payment of the attorney's or agent's fees must be filed at the following address: Counsel to the Chairman (01C3), Board of Veterans Appeals, 810 Vermont Avenue N.W., Washington D.C. 20420. 
 
 **Notice to customers making payment by check** (h4)
 
 When you provide a check as payment, you authorize VA to either use information from your check to make a one-time electronic fund transfer from your account or to process the payment asa  check transaction. When VA uses information from your check to make an electronic transfer, funds may be withdrawn from your account as soon as the day we process your payment, and you will not receive your check back from the financial institution. A Privacy Act Statement required by 5 U.S.C & 552a(e)(3) stating our authority for soliciting and collecting the information from your check, and explaining the purposes and routine uses which will be made of your check information, VA Notice of Privacy Practices, IB 10-163 is available online at www.va.gov/vhapublications or call toll free at 1-866-400-1238 to obtain a copy by mail. Furnishing the check information is voluntary, but a decision not to do so may require you to make payment by some other method.
+
+**Questions about payments**
+
+Payments made in the past ten (10) days may not have been applied to your account by the time your statement was prepared. If so, this payment will be reflected in your account on the next statement. For assistance in understanding your billing statement and assessed copayment charges contact VA at 1-866-400-1238.
 
 **VA Privacy** (h4)
 
