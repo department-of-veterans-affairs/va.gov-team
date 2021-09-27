@@ -44,7 +44,7 @@ UX Audit of Veteran facing contact methods - health care focus
 
 ## Key Findings - Detailed
 
-1. **Multiple contact method labels, who's names don't clearly indicate their purpose, co-exist within the VA.gov ecosystem.** Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. In adition, some of these labels may not be relevant or available in all locations. In these instances, some health systems list the same number under multiple labels. For example, Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line. 
+1. **Multiple contact method labels, who's names don't clearly indicate their purpose, co-exist within the VA.gov ecosystem.** Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. 
 
    - Phone labels (not an exhaustive list):
      - Main phone
@@ -75,15 +75,16 @@ UX Audit of Veteran facing contact methods - health care focus
     - System: Register for care
     - System: Operating status / Patient resources
 
-3. **Contact methods are often embedded within lengthy, wordy pages of dense text.** Most often, contact methods are not listed within a concise, scannable list. Combined with the distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find a label and contact method, add more distance between a question and an answer.
+3. **Contact methods are often embedded within lengthy, wordy pages of dense text.** Most often, contact methods are not listed within a concise, scannable list. This is especially true within individual health system pages where contact information is more fragmented than on global information pages. Combined with the distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find a label and contact method, add more distance between a question and an answer. 
 
 4. **When and how labels and sub-labels gets implemented is inconsistent across VAMC pages** 
-Consider "toll free" phone numbers:
+- Some labels may not be relevant to all locations and will list "Not available" or list the same number main number under multiple labels. 
+    - Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line. 
+- Consider "toll free" phone numbers:
     - Sometimes both toll free and non-toll free numbers are offered under a single label, "352-374-6105 or 800-349-9457"  
     - Sometimes options are sub-labeled, "Toll free: #, Local: #"
     - Sometimes options are sub-labeled, "Direct:"
     - Sometimes options are not sub-labeled
-Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line. 
 
 ### Questions:
 1. Do we have a clear understanding of the part of the Veteran journey(s) that we want to prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different? 
