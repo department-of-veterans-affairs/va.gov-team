@@ -68,7 +68,7 @@ body:
       label: Service(s) You Want Access To
       multiple: true
       options:
-        - SOCKS (Requires public ssh key)
+        - SOCKS
         - AWS
     validations:
       required: true
@@ -76,9 +76,8 @@ body:
     id: ssh-key
     attributes:
       label: Public SSH Key
-      description: If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions
+      description: Only required if requesting SOCKS. For help identifying or generating your key [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key)
       placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
-      render: shell
   - type: textarea
     id: aws-access
     attributes:
