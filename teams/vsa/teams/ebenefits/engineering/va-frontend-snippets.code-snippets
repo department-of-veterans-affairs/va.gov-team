@@ -179,19 +179,19 @@
       "</va-select>"
     ]
   },
-	"Text Input va-text-input web component": {
+    "Text Input va-text-input web component": {
     "prefix": ["va-text-input"],
     "description": "Text input field web component",
-		"body": [
-			"<va-text-input",
-			"	ariaDecribedby={{value: '${1:aria}'}}",
-			"	enabled-analytice={null}",
-			" placeholder='${2:placeholder}'",
-			" label='${3:label}'",
-			" name='${4:name}'",
-			" required={null}",
-			" value={null}"
-			"/>"
-		]
-	},
+    "body": [
+      "<va-text-input",
+      " ariaDecribedby={{value: '${1:aria}'}}",
+      " enabled-analytics={null}",
+      " placeholder='${2:placeholder}'",
+      " label='${3:label}'",
+      " name='${4:name}'",
+      " required={null}",
+      " value={null}",
+      "/>"
+    ]
+  },
 }
