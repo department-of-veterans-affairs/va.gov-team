@@ -9,9 +9,9 @@ Sorting is only valuable on certain apps and is very context specific. We don't 
 - **Variant A** - The current app with a drop down added to the top of the table for the Veteran to choose what to sort the table by
 
 ## Goal
-We have deternimed that if 25% of Veterans in Variant A use the sorting feature we will impliment it perminantly on the page.
+We have deternimed that if 10% of Veterans in Variant A use the sorting feature we will impliment it perminantly on the page.
 
-- Target Statistical significance - NA, conversion rate does not apply
-- Sample Size - 5000
-- Test timing - Aprox 2.5 months
+- Target statistical significance - NA, conversion rate does not apply
+- Sample Size - 400,000
+- Test timing - Aprox 1 month
 
