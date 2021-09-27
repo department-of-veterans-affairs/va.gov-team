@@ -10,6 +10,8 @@ Goal: Debrief Samara on the latest team happenings. This will likely be the firs
 - Working on KPI dashboard ticket
 
 ### Strategy
+- Strategic convos about making My VA _the_ homepage for VA.gov
+- Once we get an MVP in place for alerts/action items we should move to make My VA the homepage
  
 ## Alerts (Action Items)
 
