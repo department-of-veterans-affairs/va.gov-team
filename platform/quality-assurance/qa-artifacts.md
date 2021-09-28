@@ -1,3 +1,10 @@
+
+# We're moving our docs!
+### You can find the [latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-artifacts.1906999390.html) on the Platform website.
+### Still can't find what you're looking for? Reach out to #vfs-platform-support on Slack.
+
+-------
+
 # Quality Assurance Artifacts
 A list of expected deliverables and explanation of their contents is listed below.  Please note that you will need access to [TestRail](https://dsvavsp.testrail.io/) in order to create these artifacts.
 
