@@ -41,7 +41,7 @@ The following discovery efforts informed this report:
 ## Key Findings
 The findings below were derived from the page audits referenced above and should serve as hypotheses and questions to be answered with further research. The UX assessment was guided by [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) commonly used in user experience design. 
  
-1. Labels sound similar and don't clearly indicate their purpose. 
+1. Many labels sound similar and don't clearly indicate their purpose. 
 2. Contact information is fragmented across various pages and sections globally and within health systems. 
 3. Contact methods are often embedded within lengthy pages of dense text.
 4. Alternatives to phone communication are missing from Contact us pages.
@@ -49,7 +49,7 @@ The findings below were derived from the page audits referenced above and should
 
 ## Key Findings - Detailed
 
-1. **Labels sound similar and don't clearly indicate their purpose.** The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose. Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. This violates heueristic principle #2: Match between system and the real world as it requires users to guess or understand what the VA means by "Telephone care" vs terms that are more ubiquitous like "Pharmacy". It also violates principle #4: Consistency and standards, as it requires Veterans to wonder whether different words mean the same thing.
+1. **Many labels sound similar and don't clearly indicate their purpose.** The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose. Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. This violates heueristic principle #2: Match between system and the real world as it requires users to guess or understand what the VA means by "Telephone care" vs terms that are more natural and ubiquitous like "Pharmacy". It also violates principle #4: Consistency and standards, as it requires Veterans to wonder whether different words mean the same thing.
 
    - Phone labels (not an exhaustive list):
      - Main phone
