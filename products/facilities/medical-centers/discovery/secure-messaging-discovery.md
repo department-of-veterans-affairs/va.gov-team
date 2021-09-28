@@ -16,7 +16,7 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 ### Methodology
 
-Informational interview with secure messaging SME(s).
+Assessing current methods of accessing VA Secure Messaging; informational interview with secure messaging SME(s).
 
 ### Key Findings
 
@@ -41,13 +41,13 @@ Informational interview with secure messaging SME(s).
     - Veterans can use secure messaging as a basic user, or as a premium member
     - Must be premium members to exchange PHI via secure messaging.
 
-## SME Interview(s)
-
 ### Additional questions
 
 - Does messaging connect directly to a specifc health care team, or at the system level first?
 - How do Veterans currently learn about secure messaging? (ie. Are health care teams supposed to inform them?)
 - Can Veterans ask general non health care questions? (ie. Questions about their education benefits?)
+
+## SME Interview(s)
 
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
 
