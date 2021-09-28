@@ -38,16 +38,17 @@ UX Audit of Veteran facing contact methods with focus on health care. The follow
 
 
 ## Key Findings
+The findings below were derived from the page audits referenced above and should serve as hypotheses and questions to be answered with further research. The UX assessment was guided by [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) commonly used in user experience design. 
  
 1. The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose. 
 2. Contact information is fragmented across various pages and sections globally and within health systems. 
-3. Contact methods are often embedded within lengthy, wordy pages of dense text.
+3. Contact methods are often embedded within length pages of dense text.
 4. Alternatives to phone communication are missing from Contact us pages.
 5. When and how a sub-labels get implemented is inconsistent across VAMC pages.
 
 ## Key Findings - Detailed
 
-1. **The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose.** Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. 
+1. **The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose.** Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. This violates heueristic principle #2: Match between system and the real world as it requires users to guess or understand what the VA means by "Telephone care" vs terms that are more ubiquitous like "Pharmacy". It also violates principle #4: Consistency and standards, as it requires Veterans to wonder whether different words mean the same thing.
 
    - Phone labels (not an exhaustive list):
      - Main phone
@@ -69,7 +70,7 @@ UX Audit of Veteran facing contact methods with focus on health care. The follow
     - VA Health Chat
     - VA Video Connect
 
-2. **Contact information is fragmented across various pages and sections globally and within health systems.** This places all the burden on Veterans to either understand the VA's organizational system or browse multiple pages to locate and then compare communication options. There's no way to easily see all option together to compare them nor does the site offer a way to search or filter among them. This makes poorly labeled contact methods even more problematic as it places undue burden on a person's working memory to do all comparison by memory. In addition, the distrubution of information may confuse users as to what is a national vs a location/system specific contact method which was shown to be problematic in [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/20190712_VAgovCMS_facilities_usability3_synthesis_full.pdf). The Contact us page within a health system lists multiple links and buttons to other pages before contact methods. For example, a prominent link to "Need help? Contact a patient advocate" before seeing the main facility phone or directory. More research is needed to understand how this page is experienced by Veterans. Contact information is distributed among the following (not exhaustive):
+2. **Contact information is fragmented across various pages and sections globally and within health systems.** This places all the burden on Veterans to either understand the VA's organizational system or browse multiple pages to locate and then compare communication options. There's no way to easily see all option together to compare them nor does the site offer a way to search or filter among them. This makes poorly labeled contact methods even more problematic as it places undue burden on a person's working memory to do all comparison by memory, violating principle #6: Recognition rather than recall. In addition, the distrubution of information may confuse users as to what is a national vs a location/system specific contact method which was shown to be problematic in [past research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/20190712_VAgovCMS_facilities_usability3_synthesis_full.pdf). The Contact us page within a health system lists multiple links and buttons to other pages before contact methods. For example, a prominent link to "Need help? Contact a patient advocate" before seeing the main facility phone or directory. More research is needed to understand how this page is experienced by Veterans. Contact information is distributed among the following (not exhaustive):
     - Global: Contact us
     - Global: Helpful VA phone numbers
     - Health system: Contact us 
@@ -79,14 +80,16 @@ UX Audit of Veteran facing contact methods with focus on health care. The follow
     - Health system: Register for care
     - Health system: Operating status / Patient resources
 
-3. **Contact methods are often embedded within lengthy, wordy pages of dense text.** Contact information is not listed within a concise, scannable list. This is especially true within individual health system pages where contact information is more fragmented than on global information pages. Combined with the distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find a label and contact method, add more distance between a question and an answer. 
+3. **Contact methods are often embedded within length pages of dense text.** Contact information is not listed within a concise, scannable list. This is especially true within individual health system subsections where contact information is more fragmented than on global information pages. Combined with the fragmented distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find a label and contact method, add more distance between a question and an answer. 
 
 4. **Alternatives to phone communication are missing from Contact us pages**. Health system contact us pages do not list options like Health chat or Secure Messaging. 
 
-5. **When and how labels and sub-labels gets implemented is inconsistent across VAMC pages** 
+5. **When and how labels and sub-labels gets implemented is inconsistent across VA/VAMCs** This violates heueristic principle #4: Consistency and standards, as it requires Veterans to wonder whether different words mean the same thing.
 - Some labels may not be relevant to all locations and will list "Not available" or list the same number main number under multiple labels. 
     - Bay Pines uses 888-820-0230 under the following labels: 24-hour nurse, Primary care call center, Telephone care, Make an appointment, Change your appointment, Pharmacy refill, Automated refill line. 
-- Consider "toll free" phone numbers:
+- The website phone number labeled "VA benefits hotline" calls itself "telephone assistance service" when dialed.
+- The website phone number labeled "Telephone care" on one page and "24-hour nurse" on another, calls itself a "Clinical Contact Center" when dialed.
+- "toll free" phone numbers:
     - Sometimes both toll free and non-toll free numbers are offered under a single label, "352-374-6105 or 800-349-9457"  
     - Sometimes options are sub-labeled, "Toll free: #, Local: #"
     - Sometimes options are sub-labeled, "Direct:"
@@ -95,7 +98,7 @@ UX Audit of Veteran facing contact methods with focus on health care. The follow
 ### Questions:
 1. Do we have a clear understanding of the part of the Veteran journey(s) that we want to prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different? 
 2. What Veteran top tasks should we prioritize? e.g. enroll, refill a Rx, make an appt, talk to a nurse, etc 
-3. How does label naming match the task a Veteran is trying to accomplish? "Make an appointment" more likely matches a Veteran's mental model when trying to complete a task than does "Telephone care".
+3. How does label naming support the task a Veteran is trying to accomplish? "Make an appointment" more likely matches a Veteran's mental model when trying to complete a task than does "Telephone care".
 4. Which contact methods do Veterans use most today? Why?
 5. Which contact methods does VA want to prioritize for top tasks? At what point of care? Have priorities changed over time and need updating?
 6. Are Veteran and VA priorities aligned? 
