@@ -1,6 +1,6 @@
 [IN PROGRESS]
 
-## VA Health Chat Discovery
+## VA Health Chat - Research Findings
 
 Discovery for issue [#27686](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27686). New options for contacting the VA are becoming available and need to be added to the VAMC pages. Before we can determine the right experience for Veterans, we need to understand both the individual options and the landscape.
 
@@ -14,7 +14,7 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 ### Methodology
 
-Informational interview with health chat SME(s).
+Assessing current methods of accessing VA Health chat, and informational interview with health chat SME(s).
 
 ### Key Findings
 
@@ -33,13 +33,13 @@ Informational interview with health chat SME(s).
     - VA health chat is not for emergency situations
     - Only available in select states, and in select health care systems
 
-## SME Interview(s)
-
 ### Additional questions
 
 - Does health chat connect directly to a specifc health care team, or at the system level first?
 - How do Veterans currently learn about health chat? (ie. Are health care teams supposed to inform them?)
 - Does health chat keep a record of past conversations?
 - Can Veterans ask general non health care questions? (ie. Questions about their education benefits?)
+
+## SME Interview(s)
 
 **SME:** Kathleen Frisbee (Kathleen.Frisbee@va.gov), manages VA Health Chat
