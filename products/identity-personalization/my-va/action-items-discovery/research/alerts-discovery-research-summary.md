@@ -371,7 +371,7 @@ GH Issue: [#30637](https://github.com/department-of-veterans-affairs/va.gov-team
 ### 10. Test
    - [ ] Run a usability study to understand if the updates improve confusion on My VA and if we need to make additional changes
 
-### Deprioritize
+### 11. Deprioritize
 
 #### Deprioritize read vs unread alerts for MVP 
    - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
