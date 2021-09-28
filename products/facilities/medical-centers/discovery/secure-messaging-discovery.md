@@ -23,6 +23,22 @@ Assessing current methods of accessing VA Secure Messaging; informational interv
 - Where does each option fit within the Veteran journey?
 - What is the situation the Veteran is in when he/she uses the service?
 
+### Where does it live?
+
+- [VA.gov](https://va.gov) home page under "Health Care" featured content
+<details>
+<summary>Link to secure messaging on home page</summary>
+    
+![image](https://user-images.githubusercontent.com/81988788/135114808-e639d2fe-bff2-4250-8468-24ee89b4af4a.png)
+</details>
+
+- [My HealtheVet home page](https://www.myhealth.va.gov/mhv-portal-web/home)
+<details>
+<summary>Secure Messaging on My HealtheVet</summary>
+
+![image](https://user-images.githubusercontent.com/81988788/135115421-7e62446e-80f4-4491-a634-0727a5e9c59f.png)
+</details>
+    
 ## Key Findings
 
 - **Where does this product fit into the Veteran journey?** ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
@@ -39,7 +55,7 @@ Assessing current methods of accessing VA Secure Messaging; informational interv
     - Benficial to have a record of previous communications (see [Digital Modernization research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf))
     - Works on Veteran's own schedules; relieves pressure of real-time communicaiton via chat or phone
 - **What does a Veteran need to know about this?**
-    - Veterans must be upgraded premium My HealtheVet members, or a sign-in partner equivalent, to use secure messaging (see [upgrading your My HealtheVet account](https://www.myhealth.va.gov/mhv-portal-web/upgrade-account-to-premium#UpgradeToPremiumAccount))
+    - Veterans must be upgraded premium members, via My HealtheVet members or a sign-in partner equivalent, to use secure messaging (see [upgrading your My HealtheVet account](https://www.myhealth.va.gov/mhv-portal-web/upgrade-account-to-premium#UpgradeToPremiumAccount))
     - Secure messaging cannot be used for emergency or urgent communication
     - Health care teams are different, and Veterans and their team must agree on if, and how, they want to use secure messaging
     - Veterans can only communicate with health care teams they are authorized to communicate with
