@@ -21,7 +21,7 @@ Platform teams
 
 #### Baseline KPI Values
 
-- Will be determined for each product that will use the playbook.
+- Will be determined for each product that uses the playbook starting with Design System components.
 
 ------
 
