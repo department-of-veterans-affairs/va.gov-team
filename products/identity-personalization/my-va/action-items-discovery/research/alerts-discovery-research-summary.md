@@ -301,15 +301,24 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 ## Next Steps
 
-### Scope MVP
-[Project outline for discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#proj[…]very)
+New epic for this phase of work: [#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
 
+### Scope MVP
+GH Issue: [#30608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30608)
    - [ ] Create project outline 
    - [ ] Clearly define the goals of this project and MVP
    - [ ] Clearly define the scope of MVP
    - [ ] Work with team to figure out what should or should not (or can and cannot) be included in MVP
 
+### Figure out what alerts should be included based on other initiatives (and how to include them) - _this should be done as part of (and at the same time as) scoping the MVP_
+GH Issue: [#30612](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30612)
+   - [ ] This provides a platform for other teams to interface with - we want to connect! We need to figure out how.
+      - [ ] Talk to Bev Nelson and Maria 
+   - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
+   - [ ] Outline each initiative and determine technological restraints
+
 ### Understand each alert in MVP
+GH Issue: [#30610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30610)
    - [ ] Work with VAnotify and VetText to understand how the current APIs work, how to connect to them and/or if we need to build something new
    - [ ] Work with VAnotify and VetText to understand content of each alert
    - [ ] Outline actionability of each alert - if not, put actionable alerts on My VA
@@ -318,13 +327,9 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
    - [ ] Explore ways to show an Alerts link in the navigation
    - [ ] Work with the appropriate parties to get it implemented
 
-### Figure out what alerts should be included based on other initiatives (and how to include them)
-   - [ ] This provides a platform for other teams to interface with - we want to connect! We need to figure out how.
-      - [ ] Talk to Bev Nelson and Maria 
-   - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
-   - [ ] Outline each initiative and determine technological restraints
 
-### Implement section design considerations   
+### Implement section design considerations
+GS Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30607  
    - [ ] Implement designs to differentiate between sections of alerts (e.g. health care vs. covid reminder)
        - [ ] Outline what each section is and what it includes
 
