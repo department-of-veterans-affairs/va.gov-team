@@ -76,7 +76,7 @@ We wanted half of the participants to join via smartphone so they could test the
 
 1. **Using different search tools on different pages is confusing** (i.e., VA.gov site search, Find a VA Form, Resources and Support).
 
-1. **Some participants prefer to browse web pages first, before searching**.
+1. **Most participants preferred to browse VA.gov web pages first, before searching**.
 
 1. Most participants said that they **typically use Google to find VA information**.
 
@@ -153,7 +153,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
   - 1 participant expected *Find a VA Form* and *Resources and Support* results to *not* be in the general site search.
   - 1 participant trusted *Find a VA Form* to be an exhaustive list of all forms, which was preferable than having to get the exact name of the form correct to find it using the site search.
 
-## 4. Some participants prefer to browse web pages first, before searching
+## 4. Most participants preferred to browse VA.gov web pages first, before searching
 - All 7 participants went first to the "top 4" boxes, which unfortunately were not functional in the prototypes. No one went to *Search* first, but all eventually did because they were unable to browse anywhere that helped. If the links in the "top 4" boxes and in the topics below the row of pictures had worked in the prototype, perhaps fewer participants would have tried search.
 - 3 participants then tried *VA Benefits and Health Care*, which also wasn't functional in the prototype.
 - When participants navigated to a page containing a search box at the top (i.e., search landing page, Find a VA Form, and Resources and Support), 3 of the 7 scrolled down to look at everything on the page before going back up to the top to type into the search box. One of these participants also scrolled slowly through the entire VA.gov home page and the two content pages that were active links in the search results--they said that they always read the entire web page before interacting.
