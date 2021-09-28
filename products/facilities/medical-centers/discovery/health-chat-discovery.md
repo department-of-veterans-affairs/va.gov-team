@@ -14,7 +14,7 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 ### Methodology
 
-Assessing current methods of accessing VA Health chat, and informational interview with health chat SME(s).
+Assessing current methods of accessing VA Health chat; informational interview with health chat SME(s).
 
 ### Key Findings
 
