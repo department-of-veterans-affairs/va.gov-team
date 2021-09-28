@@ -28,7 +28,7 @@ Assessing current methods of accessing VA Health chat; informational interview w
     - Minor health issues such as: allergies, cough/cold, fever, ear ache, sore throat, etc.
     - Requests such as: finding facilities, scheduling appointments, refilling prescriptions, and sending non-urgent messages to health care teams
 - **Why would a Veteran use this, as opposed to something like [secure messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687)?**
-    - Health chat is for questions that require real-time responses, for minor health issues and requests
+    - Health chat is for questions that require real-time responses, such as for minor health issues requiring immediate feedback
 - **What does a Veteran need to know about this?**
     - Veterans must be upgraded premium My HealtheVet members, or use a sign-in partner equivalent, to exchange PHI via health chat (see [upgrading your My HealtheVet account](https://www.myhealth.va.gov/mhv-portal-web/upgrade-account-to-premium#UpgradeToPremiumAccount))
     - VA health chat is not for emergency situations
