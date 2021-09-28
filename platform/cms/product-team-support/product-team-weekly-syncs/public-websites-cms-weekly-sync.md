@@ -35,6 +35,22 @@
 
 </details>
 
+## October 13
+
+Promo discovery - Role of CMS team
+
+## October 6
+
+Dave out
+
+## September 29
+
+Should we cancel? 
+
+Gov shutdown
+
+Veterans Day - VEO or other needs/
+
 ## September 22
 
 CMS team and staffing changes
