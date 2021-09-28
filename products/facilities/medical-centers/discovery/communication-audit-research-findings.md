@@ -83,7 +83,9 @@ The findings below were derived from the page audits referenced above and should
     - Health system: Operating status / Patient resources
     - MyHealtheVet
 
+
 3. **Contact methods are often embedded within lengthy pages of dense text.** Contact information is not listed in a concise, scannable form.  Instead, it often requires an extra click, and follows multiple paragraphs and heading levels. For example, to find a pharmacy number within the Pittsburgh health care health system section, a user will not find it on the Contact us page, but instead needs to click to a child page dedicated to pharmacy information and scroll through a wordy page to see that there are separate numbers for refilling and general support. This violates heueristic principle #8: Aesthetic and minimalist design, whereby every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. Veteran's consistently complain during research studies about the volume of information on VA pages and their overwhelming nature. Having to wade through paragraphs to find the correct piece of information, in combination with fragmented distribution of information and unclear labeling (as mentioned above), adds more distance between a question and an answer. 
+![communication](https://user-images.githubusercontent.com/4960080/135097570-b3a9a870-a729-4de8-b731-35d33a0a25e1.png)
 
 4. **Alternatives to phone communication are missing from Contact us pages**. Health system contact us pages do not list options like Health chat or Secure Messaging. [Previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf) found that secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation, for established patient Veterans. 
 
