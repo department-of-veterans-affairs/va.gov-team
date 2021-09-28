@@ -95,7 +95,7 @@ The findings below were derived from the page audits referenced above and should
 - The website phone number labeled "VA benefits hotline" calls itself "telephone assistance service" when dialed.
 - The website phone number labeled "Telephone care" on one page and "24-hour nurse" on another, calls itself a "Clinical Contact Center" when dialed.
 - "toll free" phone numbers:
-    - Sometimes both toll free and non-toll free numbers are offered under a single label, "352-374-6105 or 800-349-9457"  
+    - Sometimes both toll free and non-toll free numbers are grouped under a single label, "352-374-6105 or 800-349-9457"  
     - Sometimes options are sub-labeled, "Toll free: #, Local: #"
     - Sometimes options are sub-labeled, "Direct:"
     - Sometimes options are not sub-labeled
