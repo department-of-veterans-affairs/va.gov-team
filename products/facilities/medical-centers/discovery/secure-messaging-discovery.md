@@ -1,6 +1,6 @@
 [IN PROGRESS]
 
-## Secure Messaging Discovery
+## VA Secure Messaging - Research Findings
 
 Discovery for issue [#27687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687). New options for contacting the VA are becoming available and need to be added to the VAMC pages. Before we can determine the right experience for Veterans, we need to understand both the individual options and the landscape.
 
