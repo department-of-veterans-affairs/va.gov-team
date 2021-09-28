@@ -72,6 +72,7 @@ The findings below were derived from the page audits referenced above and should
     - VA Video Connect
 
 2. **Contact information is fragmented across various pages and sections globally and within health systems.** This places all the burden on Veterans to either understand the VA's organizational system or browse multiple pages to locate and then compare communication options. There's no way to easily see all option together to compare them nor does the site offer a way to search or filter among them. This makes poorly labeled contact methods even more problematic as it places undue burden on a person's working memory to do all comparison by memory, violating principle #6: Recognition rather than recall. In addition, the distrubution of information may confuse users as to what is a national vs a location/system specific contact method which was shown to be problematic in past research [hypothesis 2, page 26](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/20190712_VAgovCMS_facilities_usability3_synthesis_full.pdf). The Contact us page within a health system lists multiple links and buttons to other pages before contact methods. For example, a prominent link to "Need help? Contact a patient advocate" before seeing the main facility phone or directory. More research is needed to understand how this page is experienced by Veterans. Contact information is distributed among the following (not exhaustive):
+    - Global: Homepage content, header and footer
     - Global: Contact us
     - Global: Helpful VA phone numbers
     - Health system: Contact us 
@@ -80,6 +81,7 @@ The findings below were derived from the page audits referenced above and should
     - Health system: Make an appt
     - Health system: Register for care
     - Health system: Operating status / Patient resources
+    - MyHealtheVet
 
 3. **Contact methods are often embedded within lengthy pages of dense text.** Contact information is not listed in a concise, scannable form. This is especially true within individual health system subsections where contact information is more fragmented than on global information pages. Combined with the fragmented distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find the correct piece of information, add more distance between a question and an answer. This violates heueristic principle #8: Aesthetic and minimalist design, whereby every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. Veteran's consistently complain during research studies about the volume of information on VA pages and their overwhelming nature.  
 
