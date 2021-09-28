@@ -50,7 +50,7 @@ Phase 2: VFS team members
 
 ## Launch Dates
 
-- *Launch Date*: TBD
+- Q4
 
 ------
 
