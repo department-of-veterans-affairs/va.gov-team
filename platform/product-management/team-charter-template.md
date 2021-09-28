@@ -4,11 +4,8 @@
 
 ## Why we're here
 
-### North Star:
-_Lorem ipsum_
-
-### Product Suite (if applicable): 
-_i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
+### Product Crew (if applicable): 
+_i.e. Sitewide, Platform, Account Experience, Benefits Tools, Health Tools, etc - ask Chris J or your VA Product Lead if you're unsure!_
 
 ### Team Mission Statement:
 _Lorem ipsum_
