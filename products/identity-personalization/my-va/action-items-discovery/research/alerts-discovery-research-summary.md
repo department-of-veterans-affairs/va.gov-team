@@ -3,9 +3,8 @@
 
 Tressa Furner (tressa.furner@adhocteam.us), September 2021
 
-[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-plan.md)
-
-[Mobile Prototype](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140646787)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-plan.md)
+- [Mobile Prototype](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140646787)
 
 ### Table of Contents
 
