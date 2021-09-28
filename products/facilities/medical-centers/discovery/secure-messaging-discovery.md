@@ -1,5 +1,3 @@
-[IN PROGRESS]
-
 ## VA Secure Messaging - Research Findings
 
 Discovery for issue [#27687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687). New options for contacting the VA are becoming available and need to be added to the VAMC pages. Before we can determine the right experience for Veterans, we need to understand both the individual options and the landscape.
@@ -41,18 +39,21 @@ Assessing current methods of accessing VA Secure Messaging; informational interv
     - Benficial to have a record of previous communications (see [Digital Modernization research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf))
     - Works on Veteran's own schedules; relieves pressure of real-time communicaiton via chat or phone
 - **What does a Veteran need to know about this?**
+    - Veterans must be upgraded premium My HealtheVet members, or a sign-in partner equivalent, to use secure messaging (see [upgrading your My HealtheVet account](https://www.myhealth.va.gov/mhv-portal-web/upgrade-account-to-premium#UpgradeToPremiumAccount))
     - Secure messaging cannot be used for emergency or urgent communication
     - Health care teams are different, and Veterans and their team must agree on if, and how, they want to use secure messaging
     - Veterans can only communicate with health care teams they are authorized to communicate with
     - Signing up with My HealtheVet automatically grants access to secure messaging
-    - Veterans can use secure messaging as a basic user, or as a premium member
-    - Must be premium members to exchange PHI via secure messaging.
 
 ### Additional questions
 
 - Does messaging connect directly to a specifc health care team, or at the system level first?
+    - [From SME interview]: There is currently no general top-level health system mailbox. Messages go directly to specific health care teams, and if they do not apply, MyHealtheVet coordinators can redirect them to other teams or health care systems.
 - How do Veterans currently learn about secure messaging? (ie. Are health care teams supposed to inform them?)
+    - Health care teams that already use secure messaing can inform Veterans of their common communication methods
+    - [From SME interview]: Becoming a premium My HealtheVet member may also onboard Veterans: authenticating in-person or via video call allows the VA representative to educated Vets on My HealtheVet features, including secure messaging. Upgrading to premium via sign-in partner (DS Logon or ID.me), means Vets will not be onboarded to My HealtheVet features.
 - Can Veterans ask general non health care questions? (ie. Questions about their education benefits?)
+    - [From SME interview]: Veterans can ask about their benefits, but My HealtheVet coordinators must pass these questions on to VBA benefits teams. Health care teams are not benefits teams, so Vets are encouraged to ask the VBA, not VHA, about benefits questions.
 
 ## SME Interview(s)
 
