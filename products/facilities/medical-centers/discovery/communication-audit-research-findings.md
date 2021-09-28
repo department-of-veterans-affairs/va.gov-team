@@ -32,23 +32,24 @@ UX Audit of Veteran facing contact methods with focus on health care. The follow
 
 #### Related discovery
 
-[VA Health Connect discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/health-connect-discovery.md) and [VISN 8 phone audit](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Design%20%26%20Research/Facilities%20Team/2021%20-%20Communication%20Methods%20Discovery/Communication%20Audit.xlsx?d=wde893f1280744f7fbc565dec58595748&csf=1&web=1&e=KkvtD9)
-[Health chat discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/health-chat-discovery.md)
-[Secure Messaging discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/secure-messaging-discovery.md)
+The following discovery efforts informed this report:
+- [VA Health Connect discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/health-connect-discovery.md) and [VISN 8 phone audit](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Design%20%26%20Research/Facilities%20Team/2021%20-%20Communication%20Methods%20Discovery/Communication%20Audit.xlsx?d=wde893f1280744f7fbc565dec58595748&csf=1&web=1&e=KkvtD9)
+- [Health chat discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/health-chat-discovery.md)
+- [Secure Messaging discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/secure-messaging-discovery.md)
 
 
 ## Key Findings
 The findings below were derived from the page audits referenced above and should serve as hypotheses and questions to be answered with further research. The UX assessment was guided by [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) commonly used in user experience design. 
  
-1. The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose. 
+1. Labels sound similar and don't clearly indicate their purpose. 
 2. Contact information is fragmented across various pages and sections globally and within health systems. 
-3. Contact methods are often embedded within length pages of dense text.
+3. Contact methods are often embedded within lengthy pages of dense text.
 4. Alternatives to phone communication are missing from Contact us pages.
 5. When and how a sub-labels get implemented is inconsistent across VAMC pages.
 
 ## Key Findings - Detailed
 
-1. **The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose.** Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. This violates heueristic principle #2: Match between system and the real world as it requires users to guess or understand what the VA means by "Telephone care" vs terms that are more ubiquitous like "Pharmacy". It also violates principle #4: Consistency and standards, as it requires Veterans to wonder whether different words mean the same thing.
+1. **Labels sound similar and don't clearly indicate their purpose.** The labels of multiple contact methods, co-existing within the VA.gov ecosystem, sound similar and don't clearly indicate their purpose. Some seem duplicative to each other and others are overly branded, which may obfuscate the service that it offers. This violates heueristic principle #2: Match between system and the real world as it requires users to guess or understand what the VA means by "Telephone care" vs terms that are more ubiquitous like "Pharmacy". It also violates principle #4: Consistency and standards, as it requires Veterans to wonder whether different words mean the same thing.
 
    - Phone labels (not an exhaustive list):
      - Main phone
@@ -80,7 +81,7 @@ The findings below were derived from the page audits referenced above and should
     - Health system: Register for care
     - Health system: Operating status / Patient resources
 
-3. **Contact methods are often embedded within length pages of dense text.** Contact information is not listed within a concise, scannable list. This is especially true within individual health system subsections where contact information is more fragmented than on global information pages. Combined with the fragmented distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find a label and contact method, add more distance between a question and an answer. 
+3. **Contact methods are often embedded within lengthy pages of dense text.** Contact information is not listed in a concise, scannable form. This is especially true within individual health system subsections where contact information is more fragmented than on global information pages. Combined with the fragmented distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find the correct piece of information, add more distance between a question and an answer. This violates heueristic principle #8: Aesthetic and minimalist design, whereby every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. Veteran's consistently complain during research studies about the volume of information on VA pages and their overwhelming nature.  
 
 4. **Alternatives to phone communication are missing from Contact us pages**. Health system contact us pages do not list options like Health chat or Secure Messaging. 
 
