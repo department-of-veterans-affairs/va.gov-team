@@ -41,7 +41,7 @@ Finally, use the forums available such as the [#victories](https://dsva.slack.co
 
 ## Meetings
 
-| **Meeting** | **Background** | **Time/Place (ET)** | **Relevant People** | **Relevant Links** | **Relevant Slack****Channel(s)** |
+| **Meeting** | **Background** | **Time/Place (ET)** | **Relevant People** | **Relevant Links** | **Relevant Slack Channel(s)** |
 |-------------|----------------|---------------------|---------------------|--------------------|----------------------------------|
 | **Team of Teams prep** | Meet with other A6/CA delivery & product managers to fill out slides and sync on any updates or news of interest to all teams. | Tuesdays @ 1000 | Clarence Maeng, Kevin Walsh, Jeff Brauer | [CMS slides](https://docs.google.com/presentation/d/1SiJE0j_zLotsYvAmjwLXVw_BlSJrUvoF/edit#slide=id.gd925be7dcf_0_22) | |
 | **Team of Teams (Tot)** | Weekly meeting for all VFS teams to share information & updates of interest to all teams. | Tuesdays @ 1200 | Rachael Rouche | | [#vfs-all-teams](https://dsva.slack.com/archives/CE4304QPK) |
