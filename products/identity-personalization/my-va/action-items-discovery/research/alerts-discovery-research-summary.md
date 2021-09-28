@@ -329,12 +329,13 @@ GH Issue: [#30610](https://github.com/department-of-veterans-affairs/va.gov-team
    - [ ] Outline actionability of each alert - if not, put actionable alerts on My VA
 
 ### Figure out how to incorporate an alerts link into the IA/header (work with Ryan Thurlwell)
+Gh Issue: [#30615](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30615)
    - [ ] Explore ways to show an Alerts link in the navigation
    - [ ] Work with the appropriate parties to get it implemented
 
 
 ### Implement section design considerations
-GS Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30607  
+GH Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30607  
    - [ ] Implement designs to differentiate between sections of alerts (e.g. health care vs. covid reminder)
        - [ ] Outline what each section is and what it includes
 
@@ -346,12 +347,6 @@ GS Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team
    - [ ] Differentiate action items and notifications
    - [ ] Post-launch run a card sort to determine which alerts qualify as time sensitive or an unexpected problem (product direction vs product performance)
 
-### Deprioritize read vs unread alerts for MVP 
-   - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
-
-### Deprioritize adding in the ability to sort for MVP
-   - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
-
 ### Meet with the mobile team to discuss a title
    - [ ] AJ will set up a meeting
 
@@ -361,6 +356,11 @@ GS Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team
 ### Test
    - [ ] Run a usability study to understand if the updates improve confusion on My VA and if we need to make additional changes
 
+### Deprioritize read vs unread alerts for MVP 
+   - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
+
+### Deprioritize adding in the ability to sort for MVP
+   - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
 
 ## Appendix
 
