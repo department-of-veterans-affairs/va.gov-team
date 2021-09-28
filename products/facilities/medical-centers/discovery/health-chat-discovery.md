@@ -28,7 +28,7 @@ Assessing current methods of accessing VA Health chat; informational interview w
     - Minor health issues such as: allergies, cough/cold, fever, ear ache, sore throat, etc.
     - Requests such as: finding facilities, scheduling appointments, refilling prescriptions, and sending non-urgent messages to health care teams
 - **Why would a Veteran use this, as opposed to something like [secure messaging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27687)?**
-    - Health chat is for questions that require real-time responses, for minor health issues and requests (not for emergencies).
+    - Health chat is for questions that require real-time responses, for minor health issues and requests
 - **What does a Veteran need to know about this?**
     - VA health chat is not for emergency situations
     - Only available in select states, and in select health care systems
