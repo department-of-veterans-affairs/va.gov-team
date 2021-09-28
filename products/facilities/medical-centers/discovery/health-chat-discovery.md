@@ -1,4 +1,4 @@
-[IN PROGRESS]
+[SME INTERVIEW PENDING]
 
 ## VA Health Chat - Research Findings
 
