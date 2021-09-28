@@ -314,7 +314,7 @@ We conducted remote moderated usability testing via Zoom using the Perigean cont
 
 New epic for this phase of work: [#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611)
 
-### Scope MVP
+### 1. Scope MVP
 GH Issue: [#30608](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30608)
 
    - [ ] Create project outline 
@@ -322,7 +322,7 @@ GH Issue: [#30608](https://github.com/department-of-veterans-affairs/va.gov-team
    - [ ] Clearly define the scope of MVP
    - [ ] Work with team to figure out what should or should not (or can and cannot) be included in MVP
 
-### Figure out what alerts should be included based on other initiatives (and how to include them) - _this should be done as part of (and at the same time as) scoping the MVP_
+### 2. Figure out what alerts should be included based on other initiatives (and how to include them) - _this should be done as part of (and at the same time as) scoping the MVP_
 GH Issues: 
 - Design/PM: [#30612](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30612)
 - FE/BE: [#30613](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30613)
@@ -332,43 +332,43 @@ GH Issues:
    - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
    - [ ] Outline each initiative and determine technological constraints
 
-### Understand each alert in MVP
+### 3. Understand each alert in MVP
 GH Issue: [#30610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30610)
 
    - [ ] Work with VAnotify and VetText to understand how the current APIs work, how to connect to them and/or if we need to build something new
    - [ ] Work with VAnotify and VetText to understand content of each alert
    - [ ] Outline actionability of each alert - if not, put actionable alerts on My VA
 
-### Figure out how to incorporate an alerts link into the IA/header (work with Ryan Thurlwell)
+### 4. Figure out how to incorporate an alerts link into the IA/header (work with Ryan Thurlwell)
 Gh Issue: [#30615](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30615)
    - [ ] Explore ways to show an Alerts link in the navigation
    - [ ] Work with the appropriate parties to get it implemented
 
 
-### Implement section design considerations
+### 5. Implement section design considerations
 GH Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30607)
    - [ ] Implement designs to differentiate between sections of alerts (e.g. health care vs. covid reminder)
        - [ ] Outline what each section is and what it includes
 
-### Restructure the Alerts section on My VA
+### 6. Restructure the Alerts section on My VA
 GH Issue: [#30636](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30636)
    - [ ] Restructure the alerts section to better reflect what already exists in My VA by only elevating ‘action item’ alerts and prioritizing the link to ‘View all’
 
-### Prioritization 
-GH Issue TK -- _Should the first two items here be part of the tasks needed to define MVP and outline alert items for MVP (issues 30608, 30612, 30613)? Should the third item be part of the "Test" item below?_
+### 7. Prioritization 
+GH Issue TK -- _Should the first two items here be part of the tasks needed to define MVP and outline alert items for MVP (issues 30608, 30612, 30613)? Should the third item be part of "Test" (item 10) below?_
 
    - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification' 
    - [ ] Differentiate action items and notifications
    - [ ] Post-launch run a card sort to determine which alerts qualify as time sensitive or an unexpected problem (product direction vs product performance)
 
-### Meet with the mobile team to discuss a title
+### 8. Meet with the mobile team to discuss a title
 GH Issue: [#30637](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30637)
    - [ ] AJ will set up a meeting
 
-### Start the collab cycle
+### 9. Start the collab cycle
    - [ ] Once we've made the changes outlined above, then we should start a formal collaboration cycle
 
-### Test
+### 10. Test
    - [ ] Run a usability study to understand if the updates improve confusion on My VA and if we need to make additional changes
 
 ### Deprioritize
