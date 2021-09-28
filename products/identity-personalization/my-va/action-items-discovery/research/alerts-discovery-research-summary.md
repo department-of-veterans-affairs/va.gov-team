@@ -319,7 +319,7 @@ GH Issues:
    - [ ] This provides a platform for other teams to interface with - we want to connect! We need to figure out how.
       - [ ] Talk to Bev Nelson and Maria 
    - [ ] Connect with other teams to discuss current work and see how that fits into alerts (GI Bill & Health care apartment)
-   - [ ] Outline each initiative and determine technological restraints
+   - [ ] Outline each initiative and determine technological constraints
 
 ### Understand each alert in MVP
 GH Issue: [#30610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30610)
@@ -335,19 +335,23 @@ Gh Issue: [#30615](https://github.com/department-of-veterans-affairs/va.gov-team
 
 
 ### Implement section design considerations
-GH Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30607  
+GH Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30607)
    - [ ] Implement designs to differentiate between sections of alerts (e.g. health care vs. covid reminder)
        - [ ] Outline what each section is and what it includes
 
 ### Restructure the Alerts section on My VA
+GH Issue: [#30636](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30636)
    - [ ] Restructure the alerts section to better reflect what already exists in My VA by only elevating ‘action item’ alerts and prioritizing the link to ‘View all’
 
-### Prioritization
-   - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification'
+### Prioritization 
+GH Issue TK -- _Should the first two items here be part of the tasks needed to define MVP and outline alert items for MVP (issues 30608, 30612, 30613)? Should the third item be part of the "Test" item below?_
+
+   - [ ] Determine what MVP alerts qualify as an 'action item' vs a 'notification' 
    - [ ] Differentiate action items and notifications
    - [ ] Post-launch run a card sort to determine which alerts qualify as time sensitive or an unexpected problem (product direction vs product performance)
 
 ### Meet with the mobile team to discuss a title
+GH Issue: [#30637](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30637)
    - [ ] AJ will set up a meeting
 
 ### Start the collab cycle
@@ -356,10 +360,12 @@ GH Issue: [#30607](https://github.com/department-of-veterans-affairs/va.gov-team
 ### Test
    - [ ] Run a usability study to understand if the updates improve confusion on My VA and if we need to make additional changes
 
-### Deprioritize read vs unread alerts for MVP 
+### Deprioritize
+
+#### Deprioritize read vs unread alerts for MVP 
    - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
 
-### Deprioritize adding in the ability to sort for MVP
+#### Deprioritize adding in the ability to sort for MVP
    - [ ] Table this for now. In the future we can revisit it once we get the MVP up and running.
 
 ## Appendix
