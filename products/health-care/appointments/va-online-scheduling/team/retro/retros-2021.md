@@ -1,5 +1,18 @@
 # VAOS Retros
 
+<details>
+<summary>September 28, 2021</summary>
+  
+![vaos retro 20210928](https://user-images.githubusercontent.com/72046525/135160353-63ebe551-ea36-49c4-8cd7-8cbc273fbf37.jpg)
+
+</details>
+
+<details>
+<summary>September 14, 2021</summary>
+  
+![vaos retro 20210914](https://user-images.githubusercontent.com/72046525/135160327-62cb5255-b16d-4047-b368-9392899d1a0d.jpg)
+
+</details>
 
 <details>
 <summary>August 31, 2021</summary>
@@ -26,5 +39,14 @@
 <summary>July 20, 2021</summary>
 
 ![image](https://user-images.githubusercontent.com/72046525/127242896-2e0c13c4-f2ec-4e60-875b-d8718264327a.png)
+
+</details>
+
+---
+
+<details>
+<summary>TEMPLATE</summary>
+  
+
 
 </details>
