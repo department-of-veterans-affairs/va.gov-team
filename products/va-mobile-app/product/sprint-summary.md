@@ -1,4 +1,4 @@
-# VA Mobile team - highlights of accomplishments from each Sprint
+# VA Mobile team - Sprint highlights
 
 ## Sprint: 9/29/21 - 10/12/21
 **UX**
