@@ -114,10 +114,10 @@ The findings below were derived from the page audits referenced above and should
 
 ### Recommendations:
 1. VA stakeholders need to be aligned to help prioritize which methods of communication should be offered for which use cases.
- - if new methods are introduced, which will they replace?   
+     - if new methods are introduced, which will they replace?   
 2. Communication method labeling and naming should be simplified; audit and test with Veterans for understandability, interpretability.
 3. Veteran research and analytics of Veteran communication preferences should help shape the prioritization above.
 4. Presentation of contact method(s) should help Veterans easily choose rather than subjecting them to a "tyranny of choice".
- - cull methods, simplify display of options
- - design for the user with the most severe cognitive or other disability to benefit all users
+     - cull methods, simplify display of options
+     - design for the user with the most severe cognitive or other disability to benefit all users
 5. Plan for Veterans at different parts of the Veteran Journey, consider catering to first time users but offering shortcuts for existing users [see #7: Flexibility and efficiency of use](https://www.nngroup.com/articles/ten-usability-heuristics/)
