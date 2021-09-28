@@ -50,9 +50,12 @@ Official vs plain language Vet Center names
 
 Temporary vs permanent inactivation of San Marcos MVC
 
+Facilities Team 4Q21 priorities
 
+Attendance at District 1 office hours
 
 National health service content in the Vet Center facility editing experience
+Migration of required services
 
 
 ## September 22 
