@@ -7,6 +7,18 @@ Tressa Furner (tressa.furner@adhocteam.us), September 2021
 
 [Mobile Prototype](https://preview.uxpin.com/aeb04fa2c4989723cf9b60e6d47e311ae3a4cd78#/pages/140646787)
 
+### Table of Contents
+
+- [Research Goals](#research-goals)
+- [REsearch Methodology](#research-methodology)
+- [Research Questions](#research-questions)
+- [Key Findings](#key-findings)
+- [Additional Findings](#additional-findings)
+- [Recommendations](#recommendations)
+- [Next Steps](#next-steps)
+- [Appendix](#appendix)
+
+
 ## Research Goals
 
 *Note - part of this research was to figure out what to call this new feature, throughout documentation we have called it 'alerts', 'action items' and 'notifications' - these terms are all referring to the same feature.*
