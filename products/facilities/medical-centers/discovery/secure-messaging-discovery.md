@@ -18,7 +18,14 @@ Get clarity on when to use this method (from VA perspective) so that we can dete
 
 Assessing current methods of accessing VA Secure Messaging; informational interview with secure messaging SME(s).
 
-### Key Findings
+### Questions
+
+- What do they need to know about each service?
+- How is it different than the other options?
+- Where does each option fit within the Veteran journey?
+- What is the situation the Veteran is in when he/she uses the service?
+
+## Key Findings
 
 - **Where does this product fit into the Veteran journey?** ([Patient Experience journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Patient%20Experience%20Journey%20Map.pdf) || [Veteran journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf))
     - Patient experience: before or after a visit; at any point a patient needs to communicate with their health care team, when not in-person
