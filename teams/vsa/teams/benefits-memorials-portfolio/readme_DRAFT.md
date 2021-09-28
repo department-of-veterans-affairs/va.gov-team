@@ -1,4 +1,4 @@
-# Platform Principles
+# Draft Principles
 
 These principles guide us in creating appropriate policies, process, and procedures for teams working on the Veteran-facing Services Platform (VSP). They are touchstones to be revisited when we need to make decisions about policy, process, or procedure.
 
