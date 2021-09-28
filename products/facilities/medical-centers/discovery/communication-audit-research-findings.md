@@ -83,7 +83,7 @@ The findings below were derived from the page audits referenced above and should
 
 3. **Contact methods are often embedded within lengthy pages of dense text.** Contact information is not listed in a concise, scannable form. This is especially true within individual health system subsections where contact information is more fragmented than on global information pages. Combined with the fragmented distribution of information and unclear labeling issues mentioned previously, wading through paragraphs to find the correct piece of information, add more distance between a question and an answer. This violates heueristic principle #8: Aesthetic and minimalist design, whereby every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. Veteran's consistently complain during research studies about the volume of information on VA pages and their overwhelming nature.  
 
-4. **Alternatives to phone communication are missing from Contact us pages**. Health system contact us pages do not list options like Health chat or Secure Messaging. 
+4. **Alternatives to phone communication are missing from Contact us pages**. Health system contact us pages do not list options like Health chat or Secure Messaging. [Previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf) found that secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation, for established patient Veterans. 
 
 5. **When and how labels and sub-labels gets implemented is inconsistent across VA/VAMCs** This violates heueristic principle #4: Consistency and standards, as it requires Veterans to wonder whether different words mean the same thing.
 - Some labels may not be relevant to all locations and will list "Not available" or list the same number main number under multiple labels. 
@@ -104,12 +104,9 @@ The findings below were derived from the page audits referenced above and should
 5. Which contact methods does VA want to prioritize for top tasks? At what point of care? Have priorities changed over time and need updating?
 6. Are Veteran and VA priorities aligned? 
 7. How does VA.gov information architecture support top tasks and priorities? 
+8. In previous studies, multiple Veterans mention a preference for the "nurse line". For what purpose(s) do they call this number over other numbers? 
+    - This number isn't widely surfaced on upgraded VA.gov pages. How do Veterans learn about this number? How does the information provided on VA.gov match a Veteran's experience outside of the website. Do other mediums offer a different set of contact methods? Is there a consistent message when a Veteran walks into their clinic, opens their physical mailbox, or visits their clinic's Facebook page?
 
-### Additional questions
-
-- In previous studies, multiple Veterans mention the "Nurse Line". For what purpose(s) do they call this number over other numbers? 
-    - This number isn't widely surfaced on all VA.gov pages. How do Veterans learn about this number? 
-- [Previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/discovery/Digital%20Helath%20Modernization%20-%20Research.pdf) found that secure messaging is a trusted and preferred method of communication, preferred over phone calls, and second only to in-person conversation, for established patient Veterans.
 
 ### Recommendations:
 1. VA stakeholders need to be aligned to help prioritize which methods of communication should be offered for which use cases.
@@ -119,4 +116,4 @@ The findings below were derived from the page audits referenced above and should
 4. Presentation of contact method(s) should help Veterans easily choose rather than subjecting them to a "tyranny of choice".
  - cull methods, simplify display of options
  - design for the user with the most severe cognitive or other disability to benefit all users
-
+5. Plan for Veterans at different parts of the Veteran Journey, consider catering to first time users but offering shortcuts for existing users [see #7: Flexibility and efficiency of use](https://www.nngroup.com/articles/ten-usability-heuristics/)
