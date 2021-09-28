@@ -9,7 +9,7 @@ Tressa Furner (tressa.furner@adhocteam.us), September 2021
 ### Table of Contents
 
 - [Research Goals](#research-goals)
-- [REsearch Methodology](#research-methodology)
+- [Research Methodology](#research-methodology)
 - [Research Questions](#research-questions)
 - [Key Findings](#key-findings)
 - [Additional Findings](#additional-findings)
