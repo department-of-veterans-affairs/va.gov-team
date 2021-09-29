@@ -241,6 +241,7 @@ To assist with referrals, healthcare providers can copy/paste this text into the
 ## Other content
 
 Note: Newest content is listed first
+- [VA News: Reconciling service, the Million Veteran Program, and the PAWS Act](https://www.youtube.com/watch?v=hgPWfr2POGU&ab_channel=VeteransHealthAdministration)
 - [VAntage Point Blog: VA women leaders join women Veterans in research](https://blogs.va.gov/VAntage/93254/va-women-leaders-join-women-veterans-in-research/)
 - [She Wears the Boots: A Podcast for Women Veterans: MVP interview with Jennifer Deen](https://www.spreaker.com/user/11014928/womenshealth-deen-mvp-052721-edits-06252)
 - [Military.com: VA Calls on Female Veterans to Enroll in World's Largest Medical Research Biobank](https://www.military.com/daily-news/2021/06/28/va-calls-female-veterans-enroll-worlds-largest-medical-research-biobank.html)
