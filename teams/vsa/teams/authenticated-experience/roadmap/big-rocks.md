@@ -43,4 +43,5 @@
 ### General authenticated experience oversight & support
 
 - Assuming a dedicated information architect gets onboarded to the VA.gov team, work with this person to determine how we can improve the authenticated IA and navigation so that it better caters to authenticated users.
+- Support health care "apartment" work as needed
 - Provide oversight and guidance to teams on how their work fits into the authenticated experience
