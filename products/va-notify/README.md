@@ -98,7 +98,7 @@ Depending on your level of integration with VANotify you may be set up for call-
 
 
 * **How many notifications have been opened?** 
-Please note the SMS channel does not support Open Events. Each email notification sent with VANotify has a google pixel tracker automatically embedded within the email which allows us to track Open Events. Please note Open Events are not a great metric of success in terms of knowing if your email got in front of your end-user–you can learn more here. If measuring engagement is important to you we highly recommend tracking your click through rate – see below to learn more. In order to view your open events, you must: 
+Please note the SMS channel does not support Open Events. Each email notification sent with VANotify has a google pixel tracker automatically embedded within the email which allows us to track Open Events. Please note Open Events are not a great metric of success in terms of knowing if your email got in front of your end-user–you can learn more here </https://blog.mailup.com/2013/12/email-open-rate-complexity/>. If measuring engagement is important to you we highly recommend tracking your click through rate – see below to learn more. In order to view your open events, you must: 
 
     1. Log in to the VA.gov Production Google Analytics 360 account. If you don’t have access to Google Analytics you can access it here.
     2. Navigate to this page. And select your notification from the list. 
