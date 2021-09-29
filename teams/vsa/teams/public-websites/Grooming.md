@@ -27,6 +27,55 @@ None
 
 </details>
 
+## Friday, October 1, 2021 
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+ 
+
+
+### Future Work Grooming: 
+EPIC: New VA.gov Mobile Header (Unauth) #30623
+-	Update the “Official” Banner with new design elements 
+-	Remove the crisis line logo and update Simplified version of VA logo in header 
+-	Add hamburger icon to the mobile header “Menu Button” 
+-	Style “Sign in” so it stays persistent in header 
+-	[Mobile header Menu] Search moves under mobile menu 
+-	[Mobile header Menu] remove the “Home Page” item in the menu 
+-	[Mobile header Menu] Move “contact us” to bottom of the expanded menu
+-	[Mobile header Menu] wrap “Close menu” with the expanded menu
+What else is needed to support this build? Technical 
+
+EPIC: New VA.gov Mobile Header (Auth Exp) #30626
+-	Drop down menu moves to top for auth users
+(Everything else is the same as unauth users)
+-	Incorporate “Alert” function for auth users (Ryan checking with Samarra) 
+
+EPIC: PW New VA.gov Mobile Header x Collab Cycle Plan #30625
+-	Collaboration Cycle Kickoff [Public Websites, New VA.gov Mobile Header] #28784
+-	Design intent [Public Websites - New VA.gov Mobile Header] #30549
+-	Midpoint Review
+-	Release Plan
+-	Contact Center Review (not 100% sure if this is necessary, but please check in with the team to confirm)
+-	Staging Review
+-	Privacy and Security Review
+-	Internal smoked test / Staging Review design elements 
+-	Launch - See Release Plan
+Post Launch:
+-	Full Accessibility and 508 Office Audit
+-	Post-launch Check-in
+
+
+### Clarity Requests: 
+- @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
+
+### Dad Joke: What did Michael Jackson name his denim store? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+<details><summary>Past Grooming Sessions</summary>
+
 ## Wednesday, September 15, 2021
 
 ### Key Grooming Factors:
@@ -79,10 +128,8 @@ Ticket Needs:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke: What do you get if you put a duck in a cement mixer? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
-
-<details><summary>Past Grooming Sessions</summary>
-
-
+  
+  
 ## Wednesday, August 4, 2021
 
 ### Key Grooming Factors:
@@ -704,6 +751,6 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-Quacks in the pavement.
+Billy Jeans :}.
 
 </details>
