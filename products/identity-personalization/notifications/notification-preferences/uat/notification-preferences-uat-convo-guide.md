@@ -29,7 +29,7 @@ OK, let's get started.
 - If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?) 
 
 3. Do you know your username and password? 
-   - If not: Are these readily accessible? Could get them?
+   - If not: Are these readily accessible? Could you get them?
    - If the user can not remember or retrieve their login credentials, **end the session.**
 4. What type of mobile device you are using today? 
    - If needed: I'm asking this question because sometimes the type of device can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
