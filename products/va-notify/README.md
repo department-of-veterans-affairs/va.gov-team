@@ -88,7 +88,7 @@ ________________________________________________________________________________
 ![](images/technical.png)
 
 
-## Post Launch Information
+## Post Launch Information Checklist
 
 * **How many notifications have been sent, since go-live, last week, etc?** 
 In order to determine how many notifications have been sent, you can check with your technical team to see how many requests they have sent to us. You can also message us at #va-notify-public to request these stats and we will get them to you within 24 hours. In the future, we are working to expose such statistics in our self service portal as well as integrate with DOMO. 
