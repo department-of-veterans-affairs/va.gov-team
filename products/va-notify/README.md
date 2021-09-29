@@ -102,9 +102,12 @@ Please note the SMS channel does not support Open Events. Each email notificatio
 
     1. Log in to the [VA.gov Production Google Analytics 360 account](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open). If you don’t have access to Google Analytics you can access it [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo).
     2. Navigate to [this](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D/) page. And select your notification from the list. 
+  ![](images/Google Analytics Notifications List.png)
     3. Select your time frame on the top right of the screen. This will give you the total open events for your email. 
+  ![](images/Google Analytics Email Open Rate.png)
     4. If you want to determine your Open Rate – divide open events by total successful sends for the same time period and that number will indicate your    
     approximate Open Rate.  
+  ![](images/Google Analytics Click Through.png)
 
 * **How many click-throughs to links?** 
 If you have enabled website visitor tracking that includes referrer information on the web page you are trying to drive traffic and you have included the tracking parameters (i.e. UTM) in the webpage URL you are utilizing in your notification template then you will be able to view the volume of traffic that originated from the email in your tracking system (i.e. Google Analytics, DOMO, etc). To get to your click-through rate divide your click-through traffic by total successful sends for the same time period and that number will indicate your approximate click-through rate.
