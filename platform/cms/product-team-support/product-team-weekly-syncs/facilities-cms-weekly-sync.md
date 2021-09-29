@@ -23,26 +23,48 @@
 
 </details>
 
+## October 6
+
+[Dave is out]
+
+
 
 
 ## September 29
 
+### 4Q21 priorities
+
+CMS needs to add
+* Facility services -> Lighthouse
+
 ### VAMC
 
+Published status of menu items
+
 Product change to support Manila (facility with no system)
+* still a big question mark
+
+Lovell
+* Main hospital, 3 facilities (may or may not be available to DoD) for Veterans.
+* The four other facilities, which are not in VAST, are not available to Veterans, and will not appear on VA.gov.
+* VHA digital media know that Lovell will not be migrated unless we can do it with a detail page under About US for the 4 DoD-only faciltiies
+* Possible future state: DoD could pull facility data from Content API to populate their own website. 
+* More info to come. VAMC meeting with VHA digital media about this. 
+* CMS team will be migrating Lovell health service data 
 
 Staff profiles 
 - CMS: new boolean field on prod (see /node/add/person_profile). Existing staff profiles with content in two fields has had this checkbox checked. 
 - FE should probably use the boolean conditional rather than checking the content of the two text fields, because an editor may uncheck the boolean and expect that the FE page will go away. 
 
-Location sort order on homepage, locations page, menu (low priority)
+Location sort order on homepage, locations page, menu, operating status, and health services accordions
+- FE issue to understand current state
 
-Scheduling Mobile VAMC facilities research/design/discovery overview
-- Dave and Leyda are out first week of October 
-- Week of October 18
-- Mobile, CLCs, and Domicilaries are all getting unpublished/archived, so not blocking current VAMCs going out. Central Arkansas has created a Domicilary program page. 
+Scheduling Mobile VAMC facilities research/design/discovery overview: Mobile, CLCs, and Domicilaries are all getting unpublished/archived, so not blocking current VAMCs going out. Central Arkansas has created a Domicilary program page. 
 
-VAMC 4Q21 priorities
+- Week of October 25
+- Dave, Leyda, Erika, Suzanne, Kevin, Jay, Steve possibly Rachel and Clarence (optional) 
+
+
 
 ### Vet Center
 
@@ -51,16 +73,26 @@ Official vs plain language Vet Center names
 - CMS epic: [#5632](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5632)
 
 Temporary vs permanent inactivation of San Marcos MVC
+- Deafult to archive but not delete, until permanent deactivation can be confirmed. 
+- Do new MVC vehicles get new IDs?
+- if IDs don't change, we can rely on those. 
 
 Attendance at District 1 office hours
+- who should be on invite - October 12/13 kickoff - covering content workbook (aka content deck)
+- Cutoff: Nov 19 or Dec 1 COB
+- weekly office hours week start week of Oct 18th
+
+Survey
+- 28 responses! Deadline Friday, results later.
 
 National health service content in the Vet Center facility editing experience
+
 Migration of required services
+- not ready for District 1
 
 Feedback from Vet Center office hours
-- "in review" status
+- "in review" status.
 
-Vet Center 4Q21 priorities
 
 ## September 22 
 
