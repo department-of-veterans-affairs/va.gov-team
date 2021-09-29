@@ -1,3 +1,10 @@
+# We're moving our docs!
+### You can find the [latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Accessibility-defect-severity-rubric.1906671954.html) on the Platform website.
+### Still can't find what you're looking for? Reach out to #vfs-platform-support on Slack.
+
+--------
+
+
 # Accessibility Defect Severity Rubric
 
 This document will provide a common language for determining accessibility defect seriousness. It will capture the following things:

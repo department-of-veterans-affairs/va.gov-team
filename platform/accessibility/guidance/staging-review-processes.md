@@ -1,4 +1,10 @@
 
+# We're moving our docs!
+### You can find the [latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-staging-review.1909293137.html) on the Platform website.
+### Still can't find what you're looking for? Reach out to #vfs-platform-support on Slack.
+
+---------
+
 # Accessibility staging review preparation
 
 Teams must conduct their own accessibility testing **before** scheduling a DEPO Platform Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). DEPO Platform accessibility specialists will verify teams have completed foundational accessibility testing before the staging review can start. Teams are **required** to complete the [foundational accessibility tests](#foundational-accessibility-tests-required) and encouraged to complete as many of the [advanced accessibility tests](#advanced-accessibility-tests-recommended) as time and techincal proficiency allow.
