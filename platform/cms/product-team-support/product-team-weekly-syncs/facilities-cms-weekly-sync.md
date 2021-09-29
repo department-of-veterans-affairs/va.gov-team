@@ -57,6 +57,9 @@ Attendance at District 1 office hours
 National health service content in the Vet Center facility editing experience
 Migration of required services
 
+Feedback from Vet Center office hours
+- "in review" status
+
 
 ## September 22 
 
