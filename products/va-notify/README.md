@@ -112,7 +112,7 @@ Please note the SMS channel does not support Open Events. Each email notificatio
     4. If you want to determine your Open Rate – divide open events by total successful sends for the same time period and that number will indicate your    
     approximate Open Rate.  
  
-  ![](images/Google-Analytics-Click-Through.png)
+  ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Click%20Through.png)
 
 * **How many click-throughs to links?** 
 If you have enabled website visitor tracking that includes referrer information on the web page you are trying to drive traffic and you have included the tracking parameters (i.e. UTM) in the webpage URL you are utilizing in your notification template then you will be able to view the volume of traffic that originated from the email in your tracking system (i.e. Google Analytics, DOMO, etc). To get to your click-through rate divide your click-through traffic by total successful sends for the same time period and that number will indicate your approximate click-through rate.
