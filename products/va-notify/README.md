@@ -100,20 +100,20 @@ Depending on your level of integration with VANotify you may be set up for call-
 * **How many notifications have been opened?** 
 Please note the SMS channel does not support Open Events. Each email notification sent with VANotify has a google pixel tracker automatically embedded within the email which allows us to track Open Events. Please note Open Events are not a great metric of success in terms of knowing if your email got in front of your end-user–you can learn more [here](https://blog.mailup.com/2013/12/email-open-rate-complexity). If measuring engagement is important to you we highly recommend tracking your click through rate – see below to learn more. In order to view your open events, you must: 
 
-    1. Log in to the [VA.gov Production Google Analytics 360 account](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open). If you don’t have access to Google Analytics you can access it [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo).
+    I. Log in to the [VA.gov Production Google Analytics 360 account](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email,analytics.eventAction:open). If you don’t have access to Google Analytics you can access it [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+access-request&template=analytics-request-google-analytics-domo-access.md&title=Request+access+to+Google+Analytics+and%2For+Domo).
     
-    2. Navigate to [this](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D/) page. And select your notification from the list. 
+    II. Navigate to [this](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210217&_r.drilldown=analytics.eventCategory:email&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.plotKeys=%5B%5D/) page. And select your notification from the list. 
   
-  ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Notifications%20List.png)
+ ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Notifications%20List.png)
   
-    3. Select your time frame on the top right of the screen. This will give you the total open events for your email. 
+   III. Select your time frame on the top right of the screen. This will give you the total open events for your email. 
  
  ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Email%20Open%20Rate.png)
   
-    4. If you want to determine your Open Rate – divide open events by total successful sends for the same time period and that number will indicate your    
+   VI. If you want to determine your Open Rate – divide open events by total successful sends for the same time period and that number will indicate your    
     approximate Open Rate.  
  
-  ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Click%20Through.png)
+ ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Google%20Analytics%20Click%20Through.png)
 
 * **How many click-throughs to links?** 
 If you have enabled website visitor tracking that includes referrer information on the web page you are trying to drive traffic and you have included the tracking parameters (i.e. UTM) in the webpage URL you are utilizing in your notification template then you will be able to view the volume of traffic that originated from the email in your tracking system (i.e. Google Analytics, DOMO, etc). To get to your click-through rate divide your click-through traffic by total successful sends for the same time period and that number will indicate your approximate click-through rate.
