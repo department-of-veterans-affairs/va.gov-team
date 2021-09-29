@@ -16,7 +16,7 @@ Improve the overall experience and quality of communications with veterans using
 - [Email Frame & Template](#email-frame-and-template)
 - [Pricing](#pricing)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
-
+- [Post Launch Information Checklist](#Post Launch Information Checklist)
 
 ## Things to Know
 - [Upcoming Capabilities](#upcoming-capabilities)
@@ -86,6 +86,28 @@ ________________________________________________________________________________
   * https://notification.canada.ca/templates
 
 ![](images/technical.png)
+
+
+## Post Launch Information
+
+* **How many notifications have been sent, since go-live, last week, etc?** 
+In order to determine how many notifications have been sent, you can check with your technical team to see how many requests they have sent to us. You can also message us at #va-notify-public to request these stats and we will get them to you within 24 hours. In the future, we are working to expose such statistics in our self service portal as well as integrate with DOMO. 
+
+* **How many notifications were successful vs. failed?** 
+Depending on your level of integration with VANotify you may be set up for call-back responses – if you are, you will be able to know what notifications were successful or which ones have failed. If not, you can also message us at #va-notify-public to request these stats and we will get them to you within 24 hours. In the future, we are working to expose such statistics in our self service portal as well as integrate with DOMO. 
+
+
+* **How many notifications have been opened?** 
+Please note the SMS channel does not support Open Events. Each email notification sent with VANotify has a google pixel tracker automatically embedded within the email which allows us to track Open Events. Please note Open Events are not a great metric of success in terms of knowing if your email got in front of your end-user–you can learn more here. If measuring engagement is important to you we highly recommend tracking your click through rate – see below to learn more. In order to view your open events, you must: 
+
+    1. Log in to the VA.gov Production Google Analytics 360 account. If you don’t have access to Google Analytics you can access it here.
+    2. Navigate to this page. And select your notification from the list. 
+    3. Select your time frame on the top right of the screen. This will give you the total open events for your email. 
+    4. If you want to determine your Open Rate – divide open events by total successful sends for the same time period and that number will indicate your    
+    approximate Open Rate.  
+
+* **How many click-throughs to links?** 
+If you have enabled website visitor tracking that includes referrer information on the web page you are trying to drive traffic and you have included the tracking parameters (i.e. UTM) in the webpage URL you are utilizing in your notification template then you will be able to view the volume of traffic that originated from the email in your tracking system (i.e. Google Analytics, DOMO, etc). To get to your click-through rate divide your click-through traffic by total successful sends for the same time period and that number will indicate your approximate click-through rate.
 
 
 ## Upcoming Capabilities
