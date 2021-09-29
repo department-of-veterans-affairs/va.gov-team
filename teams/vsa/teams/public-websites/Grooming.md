@@ -34,8 +34,14 @@ None
 2. Assign estimates and confirm team members are on the same page.
 3. Determine / Validate definition of DONE. 
 
- 
-
+### Backlog Tickets:
+- [ ] Explore and revisit Visual Regression Testing to aid in modifications to CMS templates and style [#18869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18869) 
+- [ ] Subdomains' header does not look correct [#29458](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29458) 
+- [ ] 508-defect-2 [SCREENREADER] Hours column in "Call Us" table not announcing correctly [#20239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20239) 
+- [ ] [BUG] 1x promo banner and 1x modal announcement at a time [#29827](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29827)
+- [ ] Inconsistent breadcrumbs with "Past Events" [#30240](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30240)
+- [ ] H1 changes to "Past events" even though aren't any "Upcoming events" and "Past events" subsets of "Outreach events" [#30239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30239) 
+- [ ] FE bug: Pagination link should not show when there's only 1 page [#18571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18571) 
 
 ### Future Work Grooming: 
 EPIC: New VA.gov Mobile Header (Unauth) #30623
