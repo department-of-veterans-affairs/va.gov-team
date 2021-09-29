@@ -45,11 +45,28 @@ Dave out
 
 ## September 29
 
-Should we cancel? 
+Veterans Day - VEO or other needs
 
-Gov shutdown
+Gov shutdown content needs
+ * Evolving situation, contingency plan regularly being updated. As of now:
+   * VHA will continue operations
+   * VBA, OPIA, OIT (including OCTO, and Dave) TBD, may be furloughed. Last time it lasted 2 hours. 
+ * Off-cycle deploy authority will be delegated to Andrea H and Michal F. 
+ * Be mindful of deploy risks, extra extra care to avoid off cycle releases.
 
-Veterans Day - VEO or other needs/
+Promo banners 
+ * How might we 
+    * get these into the CMS as they stand now.
+      * support all types of promos from design system.
+    * find overlap/differences with sitewide banners (content model, governance, scope, editorial experience)
+    * discovery on governance strategy
+      * possibly support promos within other products (VAMC)
+      * guard against whack-a-mole / banner takeover of the page. Eg VA Pittsburgh has a Pittsburgh-specific promo banner, and there's another promo banner that pops up. 
+      * silo promo banners by product, directory, etc.
+      * set content guidelines/guardrails.
+    * CMS team to to set up 
+      *  
+
 
 ## September 22
 
