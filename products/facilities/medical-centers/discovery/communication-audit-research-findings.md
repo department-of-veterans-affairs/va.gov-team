@@ -128,4 +128,5 @@ The findings below were derived from the page audits referenced above and should
 
 5. Plan for Veterans at different parts of the Veteran Journey.
      ##### Question(s) to be explored:
-   - How might we cater to first time users while offering shortcuts for existing users? See [#7: Flexibility and efficiency of use](https://www.nngroup.com/articles/ten-usability-heuristics/)
+   - How might we cater to first time users while offering shortcuts to existing users? 
+     - See [#7: Flexibility and efficiency of use](https://www.nngroup.com/articles/ten-usability-heuristics/)
