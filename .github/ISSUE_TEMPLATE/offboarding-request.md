@@ -33,5 +33,11 @@ Fill out name of individual and *Description* section below.
  - [ ] Datadog account disabled (if applicable)
  - [ ] Sentry access removed (if applicable)
  - [ ] Google analytics, and Domo access removed (if applicable) 
+ - [ ] Bot user GitHub account(s) YubiKey(s) removed
+   > Typically only applies to Operations team members
+   
+   > Refers to the `va-bot`, `va-vfs-bot`, and `va-vsp-bot` users
+   
+   > Documentation for this process can be found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/1908932642/Remove+YubiKeys+of+Offboarded+Operations+Team+Members)
  
  CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support , @department-of-veterans-affairs/vsp-analytics-insights, @mchelen-gov
