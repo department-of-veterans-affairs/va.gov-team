@@ -1,3 +1,11 @@
+
+# We're moving our docs!
+### You can find the [latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-post-launch-audit.1909063817.html) on the Platform website.
+### Still can't find what you're looking for? Reach out to #vfs-platform-support on Slack.
+
+-------
+
+
 # Accessibility post-launch audit processes
 Post-launch audit processes are designed to evaluate applications and static content using a wider set of devices than the [accessibility staging review](./staging-review-processes.md). The post-launch audit is the last evaluation before requesting a VA 508 office quick test.
 
