@@ -16,7 +16,7 @@ Improve the overall experience and quality of communications with veterans using
 - [Email Frame & Template](#email-frame-and-template)
 - [Pricing](#pricing)
 - [Technical Onboarding Guide](#technical-onboarding-guide)
-- [Post Launch Information Checklist](#Post Launch Information Checklist)
+- [Post Launch Information Checklist](#Post-Launch-Information-Checklist)
 
 ## Things to Know
 - [Upcoming Capabilities](#upcoming-capabilities)
