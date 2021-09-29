@@ -4,7 +4,7 @@ Before publishing any page on VA.gov confirm the following:</br>
 - [ ] Heirarchy of headings is correct (H1 to H2 to H3--levels shouldn't be skipped)
 - [ ] Node IDs are used for links within Drupal
 - [ ] We aren't using sighted language ("view," "see," "look"). These should be replaced with a word that is better for users with screen readers ("check," "go to")
-- [ ] If publishing a brand-new page, confirm the left nav and url are set up correctly (if the page is a child page, the section needs to be the same as the parent page in order for the lef nav to show)
+- [ ] If publishing a brand-new page, confirm the left nav and url are set up correctly (if the page is a child page, the section needs to be the same as the parent page in order for the left nav to show)
 - [ ] All apostrophes and quotation marks should be curly
 
 Before publishing a Resources and Support article make sure these steps are also complete:</br>
