@@ -100,24 +100,30 @@ The findings below were derived from the page audits referenced above and should
     - Sometimes options are sub-labeled, "Direct:"
     - Sometimes options are not sub-labeled
 
-### Questions:
-1. Do we have a clear understanding of the part of the Veteran journey(s) that we want to prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different? 
-2. What Veteran top tasks should we prioritize? e.g. enroll, refill a Rx, make an appt, talk to a nurse, etc 
-3. How does label naming support the task a Veteran is trying to accomplish? "Make an appointment" more likely matches a Veteran's mental model when trying to complete a task than does "Telephone care".
-4. Which contact methods do Veterans use most today? Why?
-5. Which contact methods does VA want to prioritize for top tasks? At what point of care? Have priorities changed over time and need updating?
-6. Are Veteran and VA priorities aligned? 
-7. How does VA.gov information architecture support top tasks and priorities? 
-8. In previous studies, multiple Veterans mention a preference for the "nurse line". For what purpose(s) do they call this number over other numbers? 
-    - This number isn't widely surfaced on upgraded VA.gov pages. How do Veterans learn about this number? How does the information provided on VA.gov match a Veteran's experience outside of the website. Do other mediums offer a different set of contact methods? Is there a consistent message when a Veteran walks into their clinic, opens their physical mailbox, or visits their clinic's Facebook page?
 
+## Recommendations:
 
-### Recommendations:
 1. VA stakeholders need to be aligned to help prioritize which methods of communication should be offered for which use cases.
-     - if new methods are introduced, which will they replace?   
-2. Communication method labeling and naming should be simplified; audit and test with Veterans for understandability, interpretability.
-3. Veteran research and analytics of Veteran communication preferences should help shape the prioritization above.
-4. Presentation of contact method(s) should help Veterans easily choose rather than subjecting them to a "tyranny of choice".
-     - cull methods, simplify display of options
-     - design for the user with the most severe cognitive or other disability to benefit all users
-5. Plan for Veterans at different parts of the Veteran Journey, consider catering to first time users but offering shortcuts for existing users [see #7: Flexibility and efficiency of use](https://www.nngroup.com/articles/ten-usability-heuristics/)
+     ##### Questions to be explored:
+   - What part of the Veteran journey(s) that we want to prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different?
+   - What Veteran top tasks should we prioritize? e.g. enroll, refill a Rx, make an appt, talk to a nurse, etc
+   - Which contact methods does VA want to prioritize for top tasks? At what point of care? Have priorities changed over time and need updating?
+   - If new methods are introduced, which will they replace?
+
+2. Communication method labeling and naming should be simplified; audit and test with Veterans for understandability, interpretability. 
+     ##### Questions to be explored:
+   - How does label naming support the task a Veteran is trying to accomplish? "Make an appointment" more likely matches a Veteran's mental model when trying to complete a task than does "Telephone care".
+
+3. Conduct Veteran research and review analytics of Veteran communication usage.
+     ##### Questions to be explored:
+   - Which contact methods do Veterans use most today? Why?  
+     - In previous studies, multiple Veterans mention a preference for the "nurse line". For what purpose(s) do they call this number over other numbers? This number isn't widely surfaced on upgraded VA.gov pages. How do Veterans learn about this number? How does the information provided on VA.gov match a Veteran's experience outside of the website. Do other mediums offer a different set of contact methods? Is there a consistent message when a Veteran walks into their clinic, opens their physical mailbox, or visits their clinic's Facebook page?
+   - Are Veteran and VA priorities aligned?
+   - How does VA.gov information architecture support top tasks and priorities?
+
+4. Presentation of contact method(s) should help Veterans easily choose rather than subject them to a "tyranny of choice".
+     ##### Questions to be explored:
+   - How might we cull communication options and simplify their display? 
+   - How might we design for the user with the most severe cognitive, or other disability, to benefit all users?
+
+5. Plan for Veterans at different parts of the Veteran Journey, consider catering to first time users but offering shortcuts for existing users see [#7: Flexibility and efficiency of use](https://www.nngroup.com/articles/ten-usability-heuristics/)
