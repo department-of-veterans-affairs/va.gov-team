@@ -1,0 +1,1542 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "VAOS Service",
+    "version": "1.11"
+  },
+  "servers": [
+    {
+      "url": "https://veteran.apps-staging.va.gov/vaos/v1",
+      "description": "SQA"
+    },
+    {
+      "url": "https://veteran.apps.va.gov/vaos/v1",
+      "description": "PROD"
+    }
+  ],
+  "security": [
+    {
+      "requireVamfJwtKey": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "Appointments"
+    },
+    {
+      "name": "Patient Scheduling Eligibility"
+    }
+  ],
+  "paths": {
+    "/patients/{icn}/eligibility": {
+      "get": {
+        "tags": [
+          "Patient Scheduling Eligibility"
+        ],
+        "summary": "This endpoint retrieves metadata about a patient's eligibility to schedule appointments.",
+        "description": "A patient's eligibility to create appointment requests or direct schedule for the given clinical service and facility ID is retrieved.  This eligibility is determined by retrieving the scheduling configuration from VATS and comparing to a patient's request and appointment history.",
+        "operationId": "getPatientSchedulingEligibility",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "clinicalServiceId",
+            "in": "query",
+            "description": "The clinical service (type of care) ID for the scheduling eligibility decision. The currently supported/available VAOS clinical service IDs can be discovered from Mobile Facility Service v2.",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "facilityId",
+            "in": "query",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "$ref": "#/components/schemas/VhaFacilityId"
+            }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "direct",
+                "request"
+              ]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PatientEligibilityResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized: authorization information is missing or invalid."
+          },
+          "403": {
+            "description": "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/appointments": {
+      "get": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Fetch Appointments",
+        "description": "Retrieves all appointments for the patient",
+        "operationId": "fetchAppointments",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "start",
+            "in": "query",
+            "description": "The start date for the query.",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "end",
+            "in": "query",
+            "description": "The end date for the query.",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "statuses",
+            "in": "query",
+            "description": "A CSV list of the desired appointment statuses to fetch/filter by.",
+            "required": false,
+            "style": "form",
+            "explode": false,
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/components/schemas/AppointmentStatus"
+              }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AppointmentsResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized: authorization information is missing or invalid."
+          },
+          "403": {
+            "description": "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Create an Appointment",
+        "description": "Create an appointment",
+        "operationId": "createAppointment",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Appointment"
+              },
+              "examples": {
+                "DirectBookClinic": {}
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Appointment"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized: authorization information is missing or invalid."
+          },
+          "403": {
+            "description": "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/appointments/{appointment-id}": {
+      "get": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Fetch Appointment",
+        "description": "Retrieve an appointment by ID",
+        "operationId": "fetchAppointment",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "appointment-id",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AppointmentResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized: authorization information is missing or invalid."
+          },
+          "403": {
+            "description": "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Update an Appointment",
+        "description": "Update an appointment by ID",
+        "operationId": "updateAppointment",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "appointment-id",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateAppointmentRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Appointment"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized: authorization information is missing or invalid."
+          },
+          "403": {
+            "description": "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "404": {
+            "description": "The appointment could not be found."
+          },
+          "500": {
+            "description": "Internal Server Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/locations/{locationId}/clinics/{clinicId}/slots": {
+      "get": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Finds open appointments slots within a VistA clinic",
+        "operationId": "getClinicSlots",
+        "parameters": [
+          {
+            "name": "locationId",
+            "in": "path",
+            "description": "The facility division ID, such as 442 or 534gd.",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "clinicId",
+            "in": "path",
+            "description": "The clinic IEN.",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "start",
+            "in": "query",
+            "description": "The start date for the query.",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "end",
+            "in": "query",
+            "description": "The end date for the query.",
+            "required": true,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Appointment Time Slots for a site code",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SlotsResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized: authorization information is missing or invalid."
+          },
+          "403": {
+            "description": "Not Authorized: the JWT lacked sufficient grants for the server to fulfill the request."
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/locations/{locationId}/clinics": {
+      "get": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Search for VistA clinics at a facility.",
+        "operationId": "getClinics",
+        "parameters": [
+          {
+            "name": "locationId",
+            "in": "path",
+            "description": "The facility division ID, such as 442 or 534gd.",
+            "required": true,
+            "style": "simple",
+            "explode": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "patientIcn",
+            "in": "query",
+            "description": "The ICN for the patient to find clinics for. Only valid if searching for primary care clinics.",
+            "required": false,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "clinicIds",
+            "in": "query",
+            "description": "A comma-separated list of clinic IDs (IENs) at the facility identified by facilityId.",
+            "required": false,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "clinicalService",
+            "in": "query",
+            "description": "Matching clinics must have stop codes that match the stop code configuration for the given clinical service ID (fetched from Mobile Facility Service v2).",
+            "required": false,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "$ref": "#/components/schemas/ClinicalServiceType"
+            }
+          },
+          {
+            "name": "pageSize",
+            "in": "query",
+            "description": "The number of clinics to return in each page of results. If set to 0, all results will be returned in a single page.",
+            "required": false,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "pageNumber",
+            "in": "query",
+            "description": "Which page from the result set to to return. Valid values are greater than or equal to 0. If unspecified, then then first page will be returned.",
+            "required": false,
+            "style": "form",
+            "explode": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ClinicsResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenericError"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "UpstreamFailure": {
+        "type": "object",
+        "properties": {
+          "system": {
+            "type": "string",
+            "description": "The system to which the failure corresponds."
+          },
+          "id": {
+            "type": "string",
+            "description": "An error ID value for error tracing.",
+            "format": "uuid"
+          },
+          "status": {
+            "type": "string",
+            "description": "The HTTP status code applicable to this problem"
+          },
+          "code": {
+            "type": "integer",
+            "description": "The application-specific error code."
+          },
+          "traceId": {
+            "type": "string",
+            "description": "The OpenTracing ID associated with the request."
+          },
+          "message": {
+            "type": "string",
+            "description": "The reason for the error."
+          },
+          "detail": {
+            "type": "string",
+            "description": "Optional details on the cause of this error."
+          }
+        },
+        "description": "Represents a failure response from an upstream system during the processing of a request."
+      },
+      "VhaFacilityId": {
+        "type": "string",
+        "format": "^\\d{3}(?:[a-zA-Z]{2})?$"
+      },
+      "Identifier": {
+        "required": [
+          "system",
+          "value"
+        ],
+        "type": "object",
+        "properties": {
+          "system": {
+            "type": "string"
+          },
+          "value": {
+            "type": "string"
+          }
+        }
+      },
+      "Address": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "postal",
+              "physical",
+              "both"
+            ]
+          },
+          "line": {
+            "type": "array",
+            "description": "Street name, number, direction & P.O. Box etc. The order of the items is order in which lines should appear in an address label.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "city": {
+            "type": "string"
+          },
+          "state": {
+            "type": "string"
+          },
+          "postalCode": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          }
+        }
+      },
+      "AppointmentStatus": {
+        "type": "string",
+        "enum": [
+          "proposed",
+          "pending",
+          "booked",
+          "arrived",
+          "noshow",
+          "fulfilled",
+          "cancelled"
+        ]
+      },
+      "AppointmentsResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Appointment"
+            }
+          },
+          "failures": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/UpstreamFailure"
+            }
+          }
+        },
+        "description": "An array of appointments"
+      },
+      "AppointmentResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/Appointment"
+          },
+          "failures": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/UpstreamFailure"
+            }
+          }
+        },
+        "description": "A single appointment"
+      },
+      "VAOSAppointmentType": {
+        "type": "string",
+        "description": "Valueset for the Appointment.appointmentType field. Indicates the style (modality) of the appointment.\n    \n    |Code|Definition|\n    |------|-----------|\n    |clinic|A clinic (in-person) appointment|\n    |phone|A phone appointment|\n    |video|A video (virtual) appointment|\n    |comcare|A community-care appointment|",
+        "enum": [
+          "clinic",
+          "video",
+          "phone",
+          "comcare"
+        ]
+      },
+      "AppointmentKind": {
+        "type": "string",
+        "description": "The kind of appointment:\n* clinic - A clinic (in-person) appointment\n* cc - A community-care appointment\n* telehealth - A virtual appointment\n* phone - A phone appointment\n",
+        "enum": [
+          "clinic",
+          "cc",
+          "telehealth",
+          "phone"
+        ]
+      },
+      "UpdateAppointmentRequest": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "$ref": "#/components/schemas/AppointmentStatus"
+          }
+        },
+        "description": "A request to create a new appointment."
+      },
+      "AppointmentExtensions": {
+        "type": "object",
+        "properties": {
+          "desiredDate": {
+            "type": "string",
+            "description": "Optional field indicating the date and time that the patient originally desired to have the appointment. Used for reporting with VistA appointments.",
+            "format": "date-time"
+          }
+        },
+        "description": "Non-standard FHIR Appointment attributes."
+      },
+      "Appointment": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "maxLength": 64,
+            "type": "string",
+            "description": "A unique identifier for this appointment."
+          },
+          "identifier": {
+            "type": "array",
+            "description": "External IDs for this item.",
+            "items": {
+              "$ref": "#/components/schemas/Identifier"
+            }
+          },
+          "kind": {
+            "$ref": "#/components/schemas/AppointmentKind"
+          },
+          "status": {
+            "$ref": "#/components/schemas/AppointmentStatus"
+          },
+          "serviceType": {
+            "type": "string",
+            "description": "The care type for the appointment. Values will come from the `VaosServiceTypeValueSet` value set enumeration."
+          },
+          "appointmentType": {
+            "type": "string",
+            "description": "The style of appointment or patient that has been booked in the slot.\n\n|Code|Definition|\n|------|-----------|\n|clinic|A clinic (in-person) appointment|\n|phone|A phone appointment|\n|video|A video (virtual) appointment|\n|comcare|A community-care appointment|",
+            "enum": [
+              "clinic",
+              "phone",
+              "video",
+              "comcare"
+            ]
+          },
+          "reasonCode": {
+            "$ref": "#/components/schemas/CodeableConcept"
+          },
+          "priority": {
+            "minimum": 0,
+            "type": "number",
+            "format": "int32"
+          },
+          "patientIcn": {
+            "type": "string",
+            "description": "The patient ICN.",
+            "nullable": false
+          },
+          "locationId": {
+            "type": "string",
+            "description": "The sta6aid for the VAfacility where the appointment is registered."
+          },
+          "clinic": {
+            "type": "string",
+            "description": "The clinic ID for the Appointment."
+          },
+          "practitionerIds": {
+            "type": "array",
+            "description": "Deprecated. Used to specify desired CC practitioners when submitting a CC request.",
+            "deprecated": true,
+            "items": {
+              "$ref": "#/components/schemas/Identifier"
+            }
+          },
+          "practitioners": {
+            "type": "array",
+            "description": "The practitioners participating in this appointment.",
+            "items": {
+              "$ref": "#/components/schemas/Practitioner"
+            }
+          },
+          "reason": {
+            "type": "string",
+            "description": "The reason for an Express Care request, or the purpose for a a non-Express Care request.",
+            "deprecated": true
+          },
+          "start": {
+            "type": "string",
+            "description": "The start time of the appointment.",
+            "format": "date-time"
+          },
+          "end": {
+            "type": "string",
+            "description": "The end time of the appointment.",
+            "format": "date-time"
+          },
+          "minutesDuration": {
+            "type": "integer",
+            "description": "The duration of the meeting, in minutes."
+          },
+          "slot": {
+            "$ref": "#/components/schemas/Slot"
+          },
+          "created": {
+            "type": "string",
+            "description": "The date this appointment was initially created.",
+            "format": "date-time"
+          },
+          "requestedPeriods": {
+            "type": "array",
+            "description": "a list of requested periods for appointment",
+            "items": {
+              "$ref": "#/components/schemas/Period"
+            }
+          },
+          "contact": {
+            "$ref": "#/components/schemas/PatientContact"
+          },
+          "preferredTimesForPhoneCall": {
+            "type": "array",
+            "description": "A list of times the patient prefers to be contacted by phone.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "Morning",
+                "Afternoon",
+                "Evening"
+              ]
+            }
+          },
+          "preferredLocation": {
+            "$ref": "#/components/schemas/PreferredLocation"
+          },
+          "cancellationReason": {
+            "$ref": "#/components/schemas/CancellationCoding"
+          },
+          "cancelationReason": {
+            "$ref": "#/components/schemas/CodeableConcept"
+          },
+          "description": {
+            "type": "string",
+            "description": "Not used."
+          },
+          "comment": {
+            "type": "string"
+          },
+          "preferredLanguage": {
+            "maxLength": 30,
+            "type": "string"
+          },
+          "cancellable": {
+            "type": "boolean",
+            "description": "If true then this logical appointment can be cancelled."
+          },
+          "patientInstruction": {
+            "type": "string",
+            "description": "Detailed information and instructions for the patient. See: https://www.hl7.org/fhir/appointment-definitions.html#Appointment.patientInstruction"
+          },
+          "telehealth": {
+            "$ref": "#/components/schemas/TelehealthInfo"
+          },
+          "extension": {
+            "$ref": "#/components/schemas/AppointmentExtensions"
+          }
+        },
+        "description": "Information about a future or past meeting."
+      },
+      "PatientContact": {
+        "type": "object",
+        "properties": {
+          "telecom": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/LegacyContactPoint"
+            }
+          }
+        },
+        "description": "Patient contact information"
+      },
+      "LegacyContactPoint": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": false,
+            "enum": [
+              "email",
+              "phone"
+            ]
+          },
+          "value": {
+            "type": "string",
+            "nullable": false
+          }
+        },
+        "deprecated": true
+      },
+      "ContactPoint": {
+        "type": "object",
+        "properties": {
+          "system": {
+            "type": "string",
+            "enum": [
+              "email",
+              "phone"
+            ]
+          },
+          "value": {
+            "type": "string"
+          }
+        }
+      },
+      "Period": {
+        "type": "object",
+        "properties": {
+          "start": {
+            "type": "string",
+            "description": "start time with inclusive boundary",
+            "format": "date-time"
+          },
+          "end": {
+            "type": "string",
+            "description": "end time with inclusive boundary, if not ongoing",
+            "format": "date-time"
+          }
+        },
+        "description": "FHIR reference: https://www.hl7.org/fhir/datatypes.html#Period"
+      },
+      "Slot": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "pattern": "[A-Za-z0-9\\-\\.]{1,64}",
+            "type": "string",
+            "description": "The slot ID"
+          },
+          "start": {
+            "type": "string",
+            "description": "Date/Time that the slot is to begin.",
+            "format": "date-time"
+          },
+          "end": {
+            "type": "string",
+            "description": "Date/Time that the slot is to end.",
+            "format": "date-time"
+          }
+        }
+      },
+      "SlotsResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Slot"
+            }
+          }
+        }
+      },
+      "Clinic": {
+        "type": "object",
+        "properties": {
+          "vistaSite": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "integer",
+            "description": "The VistA site ID (also known as the sta3n) to which this clinic belongs.",
+            "format": "int32"
+          },
+          "id": {
+            "type": "string",
+            "description": "The VistA clinic IEN. Unique within the context of a specific VistA server."
+          },
+          "serviceName": {
+            "type": "string",
+            "description": "The clinic name. If the clinic is configured with a patient-friendly name then that will be the value. Otherwise it will be the internal clinic name."
+          },
+          "physicalLocation": {
+            "type": "string",
+            "description": "Additional physical location information describing where the clinic is located within the VA facility."
+          },
+          "phoneNumber": {
+            "type": "string",
+            "description": "The phone number for the clinic.",
+            "example": "123-456-7890 ext. 112"
+          },
+          "stationId": {
+            "type": "string",
+            "description": "The physical VA facility ID (sta6aid) where the clinic is located."
+          },
+          "stationName": {
+            "type": "string",
+            "description": "The name of the VA facility where the clinic resides."
+          },
+          "primaryStopCode": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "integer",
+            "description": "The clinic primary stop code.",
+            "format": "int32"
+          },
+          "primaryStopCodeName": {
+            "type": "string",
+            "description": "The clinic primary stop code name.",
+            "example": "OCCUPATIONAL HEALTH"
+          },
+          "secondaryStopCode": {
+            "maxLength": 3,
+            "minLength": 3,
+            "type": "integer",
+            "description": "The clinic secondary stop code.",
+            "format": "int32"
+          },
+          "secondaryStopCodeName": {
+            "type": "string",
+            "description": "The clinic secondary stop code name."
+          },
+          "patientDirectScheduling": {
+            "type": "boolean",
+            "description": "Whether direct scheduling by patients is enabled."
+          },
+          "patientDisplay": {
+            "type": "boolean",
+            "description": "Whether appointments at this clinic should be displayed to patients."
+          },
+          "char4": {
+            "type": "string",
+            "description": "The CHAR4 code associated with this clinic.",
+            "example": "CDQC"
+          }
+        }
+      },
+      "ClinicsResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Clinic"
+            }
+          }
+        }
+      },
+      "TelehealthInfo": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "description": "The meeting URL."
+          },
+          "atlas": {
+            "$ref": "#/components/schemas/TasInfo"
+          },
+          "group": {
+            "type": "boolean",
+            "description": "If true then this is a group appointment.",
+            "default": false
+          },
+          "vvsKind": {
+            "type": "string",
+            "description": "The VVS appointment kind. Refer to the current VVS API contract for possible values."
+          }
+        },
+        "description": "Details about a telehealth (virtual) meeting."
+      },
+      "TasInfo": {
+        "type": "object",
+        "properties": {
+          "siteCode": {
+            "type": "string",
+            "description": "The telehealth access site (TAS) site ID."
+          },
+          "confirmationCode": {
+            "type": "string"
+          },
+          "address": {
+            "$ref": "#/components/schemas/TasAddress"
+          }
+        }
+      },
+      "TasAddress": {
+        "type": "object",
+        "properties": {
+          "streetAddress": {
+            "type": "string"
+          },
+          "city": {
+            "type": "string"
+          },
+          "state": {
+            "type": "string"
+          },
+          "zipCode": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          },
+          "latitutde": {
+            "type": "number",
+            "description": "Latitude of the site",
+            "format": "double"
+          },
+          "longitude": {
+            "type": "number",
+            "description": "Longitude of the site",
+            "format": "double"
+          },
+          "additionalDetails": {
+            "type": "string",
+            "description": "AdditionalDetails of the site"
+          }
+        }
+      },
+      "PractitionerIdentifierTypes": {
+        "type": "string",
+        "description": "These are the acceptable values that may be used for `PractitionerIdentifier.system`.\n| Type | URI (system value) | Value Restrictions |\n|------|--------------------|--------------------|\n| US National Provider Number (NPI) | http://hl7.org/fhir/sid/us-npi | regex: \\d{10} |",
+        "enum": [
+          "http://hl7.org/fhir/sid/us-npi"
+        ]
+      },
+      "Practitioner": {
+        "type": "object",
+        "properties": {
+          "identifier": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Identifier"
+            }
+          },
+          "name": {
+            "$ref": "#/components/schemas/HumanName"
+          },
+          "firstName": {
+            "type": "string",
+            "deprecated": true
+          },
+          "lastName": {
+            "type": "string",
+            "deprecated": true
+          },
+          "practiceName": {
+            "type": "string",
+            "deprecated": true
+          }
+        },
+        "description": "Information about a healthcare practitioner who is participating in the healthcare process for a patient.\nExternal identifier systems for the `identifier` values are captured in the `PractitionerIdentifierTypes` enumeration."
+      },
+      "IneligibilityReason": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string"
+          },
+          "display": {
+            "type": "string"
+          }
+        }
+      },
+      "PatientEligibilityResponse": {
+        "type": "object",
+        "properties": {
+          "decisionDate": {
+            "type": "string",
+            "description": "The date-time (in UTC) when the eligibility decision was decided.",
+            "format": "date-time"
+          },
+          "clinicalServiceId": {
+            "type": "string",
+            "description": "The clinical service (type of care) for the the request."
+          },
+          "type": {
+            "type": "string",
+            "description": "The type of appointment eligibility being considered. `direct` means a direct-booking request on the part of the veteran, and `request` means a veteran appointment request (to be processed by a scheduler).",
+            "enum": [
+              "direct",
+              "request"
+            ]
+          },
+          "eligible": {
+            "type": "boolean"
+          },
+          "ineligibilityReasons": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/CodeableConcept"
+            }
+          }
+        },
+        "description": "The response for a patient scheduing eligibility request."
+      },
+      "GenericError": {
+        "required": [
+          "message"
+        ],
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "description": "A general error json response for things like Authorization Errors or Bad Requests (ex. invalid parameter values).",
+            "example": "Detailed error message"
+          }
+        }
+      },
+      "ApiError": {
+        "required": [
+          "code",
+          "id",
+          "message"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "An error ID value for error tracing.",
+            "format": "uuid"
+          },
+          "code": {
+            "type": "integer",
+            "description": "The HTTP status code."
+          },
+          "errorCode": {
+            "type": "integer",
+            "description": "The service-specific error code."
+          },
+          "traceId": {
+            "type": "string",
+            "description": "The OpenTracing ID associated with the request."
+          },
+          "message": {
+            "type": "string",
+            "description": "The reason for the error."
+          },
+          "detail": {
+            "type": "string",
+            "description": "Optional details on the cause of this error."
+          }
+        }
+      },
+      "ClinicalServiceType": {
+        "type": "string",
+        "enum": [
+          "primaryCare",
+          "socialWork",
+          "optometry",
+          "clinicalPharmacyPrimaryCare",
+          "ophthalmology",
+          "foodAndNutrition",
+          "audiology",
+          "audiology-routine exam",
+          "audiology-hearing aid support",
+          "amputation",
+          "homeSleepTesting",
+          "moveProgram",
+          "cpap",
+          "outpatientMentalHealth",
+          "covid",
+          "podiatry"
+        ]
+      },
+      "VaosServiceTypeCodeSystem": {
+        "type": "string",
+        "description": "Clinical service (type of care) codes that can be scheduled in VAOS. Not all service types can be used for all appointment types (clinic, community-care). Consult the `ClinicServiceTypeValueSet` and `ComCareServiceTypeValueSet` enumerations for more specifics.\n\nCode system URL (namespace): https://veteran.apps.va.gov/vaos/v1/CodeSystem/service-type",
+        "enum": [
+          "primaryCare",
+          "socialWork",
+          "optometry",
+          "clinicalPharmacyPrimaryCare",
+          "ophthalmology",
+          "foodAndNutrition",
+          "audiology",
+          "audiology-routine exam",
+          "audiology-hearing aid support",
+          "amputation",
+          "homeSleepTesting",
+          "moveProgram",
+          "cpap",
+          "outpatientMentalHealth",
+          "covid",
+          "podiatry"
+        ]
+      },
+      "VaosServiceTypeValueSet": {
+        "type": "string",
+        "description": "Clinical service (type of care) codes that can be scheduled in VAOS. Not all service types can be used for all appointment types (clinic, community-care). Consult current VAOS policy for more details.\n\nCode system URL (namespace): https://veteran.apps.va.gov/vaos/v1/ValueSet/service-type",
+        "enum": [
+          "primaryCare",
+          "socialWork",
+          "optometry",
+          "clinicalPharmacyPrimaryCare",
+          "ophthalmology",
+          "foodAndNutrition",
+          "audiology",
+          "audiology-routine exam",
+          "audiology-hearing aid support",
+          "amputation",
+          "homeSleepTesting",
+          "moveProgram",
+          "cpap",
+          "outpatientMentalHealth",
+          "covid",
+          "podiatry"
+        ]
+      },
+      "ClinicServiceTypeValueSet": {
+        "type": "string",
+        "description": "Types of care that can be scheduled/requested at VA facilities. All values are frm the `VaosServiceTypeCodeSystem` code system enumeration.",
+        "enum": [
+          "primaryCare",
+          "socialWork",
+          "optometry",
+          "clinicalPharmacyPrimaryCare",
+          "ophthalmology",
+          "foodAndNutrition",
+          "audiology",
+          "amputation",
+          "homeSleepTesting",
+          "moveProgram",
+          "cpap",
+          "outpatientMentalHealth",
+          "covid",
+          "podiatry"
+        ]
+      },
+      "CommunityCareClinicalServiceType": {
+        "type": "string",
+        "description": "Types of care that can be scheduled/requested at non-VA facilities (community care). All values are frm the `VaosServiceTypeCodeSystem` code system enumeration.",
+        "enum": [
+          "primaryCare",
+          "optometry",
+          "foodAndNutrition",
+          "audiology-routine exam",
+          "audiology-hearing aid support",
+          "podiatry"
+        ]
+      },
+      "PreferredLocation": {
+        "type": "object",
+        "properties": {
+          "city": {
+            "maxLength": 64,
+            "type": "string"
+          },
+          "state": {
+            "maxLength": 32,
+            "type": "string"
+          }
+        },
+        "description": "The location that the veteran requested the appointment to be scheduled in. This value is only relevant for community care appointment requests."
+      },
+      "AppointmentCancellationReasonCode": {
+        "type": "string",
+        "description": "This value set defines the appointment cancellation reason codes used by VAOS.\n\n* pat - The appointment was cancelled by the patient\n* prov - The appointment was cancelled by the provider\n* other - Other reason",
+        "enum": [
+          "pat",
+          "prov",
+          "other"
+        ]
+      },
+      "CodeableConcept": {
+        "properties": {
+          "coding": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Coding"
+            }
+          },
+          "text": {
+            "type": "string"
+          }
+        },
+        "description": "A CodeableConcept represents a value that is usually supplied by providing a reference to one or more terminologies or ontologies.\n\nFHIR reference: https://www.hl7.org/fhir/datatypes.html#CodeableConcept"
+      },
+      "Coding": {
+        "properties": {
+          "system": {
+            "type": "string"
+          },
+          "code": {
+            "type": "string"
+          },
+          "display": {
+            "type": "string",
+            "description": "A human-readable representation of the cancellation reason code."
+          }
+        },
+        "description": "A Coding is a representation of a defined concept using a symbol from a defined \"code system\".\n\nFHIR reference: https://www.hl7.org/fhir/datatypes.html#Coding"
+      },
+      "CancellationCoding": {
+        "properties": {
+          "system": {
+            "type": "string"
+          },
+          "code": {
+            "type": "string"
+          },
+          "display": {
+            "type": "string",
+            "description": "A human-readable representation of the cancellation reason code."
+          }
+        },
+        "description": "A Coding is a representation of a defined concept using a symbol from a defined \"code system\".\n\nFHIR reference: https://www.hl7.org/fhir/datatypes.html#Coding",
+        "deprecated": true
+      },
+      "HumanName": {
+        "type": "object",
+        "properties": {
+          "family": {
+            "type": "string",
+            "description": "Family name (surname)."
+          },
+          "given": {
+            "type": "array",
+            "description": "Given names (not always first). Given Names appear in the correct order for presenting the name.",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "description": "A human name."
+      }
+    },
+    "securitySchemes": {
+      "requireVamfJwtKey": {
+        "type": "apiKey",
+        "name": "X-VAMF-JWT",
+        "in": "header"
+      }
+    }
+  }
+}
