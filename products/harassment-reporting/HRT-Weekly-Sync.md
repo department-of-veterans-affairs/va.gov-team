@@ -24,18 +24,12 @@
 
 </details>
 
-## September 15, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
-### Action items:
+## September 30, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
+### Agenda Items:
 1. Program/Stakeholder Update - @Soni/Josh
-2. Reminder that Staging review is now scheduled for 9/23.  Would like to have finalized content by COB tomorrow if possible to keep on track with publication efforts.   
-3. Research / Recruiting Plan sync up 9/21 (Watch for invite)
-4. Content/Design working to finalize prototype (plan to schedule design review with team once udpated) @Cassandra/Brian
-5. Status: @Cassandra finalizing design "content" updates / Working UX Pin Interactive Prototype, Veteran Research Plan Draft is in-progress.   
-7. Roundtable Questions, Comments. 
-
-### Next Steps 
-1. Fast Path "landing page" - Static Content Landing Page Content Copy --> Review/Validate --> VSP Staging Review (9/16 @2PM) --> Anticipated Launch Sep 22, 2021 (pending content feedback/landing page placement. 
-2. Form Track: Iteractive Prototypes --> User "Veteran" Research --> Frontend Build --> VSP Mid-point review. 
+2. Status of Legal Review --> Timeline for anticipated Landing Page Launch?   
+3. Research / Recruiting Plan --> thanks for all the support and assistance.
+4. Roundtable Questions, Comments. 
 
 ## Session Notes:
 
