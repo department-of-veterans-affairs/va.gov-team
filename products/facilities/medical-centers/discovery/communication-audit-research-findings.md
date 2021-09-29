@@ -105,7 +105,7 @@ The findings below were derived from the page audits referenced above and should
 
 1. VA stakeholders need to be aligned to help prioritize which methods of communication should be offered for which use cases.
      ##### Questions to be explored:
-   - What part(s) of a Veteran journey should be prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different?
+   - What part(s) of a [Veteran's journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) should be prioritize? A Veteran who is engaging in healthcare for the first time may need to be prioritized for work on VA.gov vs a Veteran who is already using MyHealtheVet. Are their needs and behaviors different?
    - What Veteran top tasks should be prioritized? e.g. enroll, help with a claim, talk to a nurse, etc
    - Which contact methods does VA want to prioritize for top tasks? At what point of care? Have priorities changed over time and need updating?
    - If new methods are introduced, which will they replace?
