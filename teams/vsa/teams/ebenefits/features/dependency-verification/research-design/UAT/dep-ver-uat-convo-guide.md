@@ -26,7 +26,7 @@ I have a few things I need to mention before we start:
 OK, let's get started.
 
 Today we're going to observe you using a new feature to confirm your dependents. I have a few questions to make sure this form is right for you:
-- I need to confirm: are you a Veteran, service member or dependent? And do you receive educational payments from VA?
+- I need to confirm: are you a Veteran, service member or dependent? And do you receive disability payments from VA?
   - If "no," end the session.
 - Can you confirm that you have an ID.me (or other type of) account? And do you know your username and password? 
   - If not: Are these easy to get? Could get you them?
