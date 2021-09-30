@@ -3,7 +3,7 @@
 ## Site maps and inventories 
 ### Maps of VA.gov and My HealtheVet created at various times for various reasons 
 * [Master URL spreadsheet](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing) kept current by Mikki Northuis, the Veteran-facing IA. This spreadsheet lists the Health Care benefit hub pages.
-* [High-level site map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/MHV-sitemap-from-MHV.pdf) of My HealtheVet provided by the My HealtheVet UX Team in September 2021
+* [High-level site map of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/MHV-sitemap-from-MHV.pdf) provided by the My HealtheVet UX Team in September 2021
 * [Site map of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/MHV-sitemap-from-Mikki.pdf) by Mikki Northuis ~2019-2020
 * [Audit of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/MHV%20Audit.xlsx) by Mikki Northuis ~2019-2020
 
