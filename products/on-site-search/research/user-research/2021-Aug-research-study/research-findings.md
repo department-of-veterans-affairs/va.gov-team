@@ -201,12 +201,12 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 
 # Next Steps
 
-Share findings and discuss recommendations with the Search & Discovery team. 
+The Search & Discovery team will be moving forward on trying to consolidate all the search tools into the main site search interface (recommendation #1) and will be adding *Resources and Support*, *Find a VA Form*, and other search tools to their scope.
 
 
 # Further research needed
 
-After some or all of the design concepts have been launched, we should look at the analytics and assess the actual usage of the new links. Look especially at the usage of mobile users since they weren't included in this research.
+If any new design concepts get launched, we should look at the analytics and assess the actual usage of the new links. Look especially at the usage of mobile users since they weren't included in this research.
 
 # Appendix
 
