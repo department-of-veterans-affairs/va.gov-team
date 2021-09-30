@@ -1,12 +1,15 @@
 # VAOS Reschedule Appointments - Initiative Brief
 
 ## Overview
+Currently on VAOS, a Veteran can cancel an open request or booked appointment (if facility configurations allow for it). If a Veteran wants to reschedule an appointment, they must cancel their appointment and go through the full flow to create a new appointment.
 
-
+In this two-step process, there's a risk that a Veteran cancels an appointment and can't reschedule the same kind of appointment due to facility configurations.
 
 ### Desired Outcomes
+- A Veteran can book the same appointment at a different time.
 
-
+### Undesired Outcomes
+- A Veteran can't book the same appointment.
 
 ## Implementation Information
 
