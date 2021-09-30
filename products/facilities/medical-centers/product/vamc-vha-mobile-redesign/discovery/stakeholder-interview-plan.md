@@ -1,4 +1,4 @@
-# Stakeholder Discovery
+# Stakeholder Discovery - research plan and convo guide
 
 - [ ] Ask to record
 - [ ] Intros
