@@ -60,19 +60,20 @@ Assessing current methods of accessing VA Health chat; informational interview w
 
 ## Recommendations
 
-- Determine where Veterans expect to see, or find it useful to have, references to this communication method
+- **Determine where Veterans expect to see, or find it useful to have, references to this communication method**
     - A [UX tree test](https://www.optimalworkshop.com/treejack/?utm_source=google&utm_medium=cpc&utm_campaign=us-beta-tree-testing&keyword=tree%20testing%20ux&matchtype=p&network=g&gclid=Cj0KCQjwwNWKBhDAARIsAJ8Hkhe4qBARe6USLbIxOSyqfNmB7LPTsOjFUMVlyFR31RQtXMh-zyVL9tcaAuHUEALw_wcB) may help discover at what point in their VA.gov experience do Veterans expect to access Health Chat.
     - A central question is: would Vets expect to see Health Chat after arriving on specific VAMC pages, or should it be accessible at the top level, without the need to search for specific locations
-    - A possible risk is: overcomplicating pages, and overwhelming Veterans with links and disclaimers
-- Determine a method for representing Health Chat on relevant VA.gov pages
+- **Determine a method for representing Health Chat on relevant VA.gov pages**
     - What would a reference to Health Chat look like on top level VA.gov page? (Similar to how to Secure Messaging is present on the VA.gov homepage)
     - What would a reference to Health Chat look like on system level pages (like Contact Us pages), or on specific VAMC pages?
         - For specific VAMC pages, consider using the existing spotlight content, or featured content, design patterns for highlighting this communication method
+- **General recommendations**
+    - A consistant them across research (ex: [Veteran health experience and patient portal research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/OCTO%20health%20research%20report%2022%20Mar%202021.pdf)) is that Veterans are often overwhelmed by the options available to them, and so additional references and disclaimers on a VAMC page, for example, will add to its complexity. Keep it simple!
 
 ### Next steps
 
 - Explore lofi mockups for Health Chat on top level, system level, and specific VAMC pages
-- Interview Kathleen Frisbee for additional questions
+- Interview Kathleen Frisbee for additional questions, and see if she's still giving Health Chat demos
 
 ## SME Interview(s)
 
