@@ -2,7 +2,7 @@
 
 ## Site maps and inventories 
 ### Maps of VA.gov and My HealtheVet created at various times for various reasons 
-* [Master URL spreadsheet](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing) kept current by Mikki Northuis, the Veteran-facing IA
+* [Master URL spreadsheet](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing) kept current by Mikki Northuis, the Veteran-facing IA. This spreadsheet lists the Health Care benefit hub pages.
 * [High-level site map] of My HealtheVet provided by the My HealtheVet UX Team in September 2021
 * [Site map of My HealtheVet] by Mikki Northuis ~2019-2020
 * [Audit of My HealtheVet] by Mikki Northuis ~2019-2020
