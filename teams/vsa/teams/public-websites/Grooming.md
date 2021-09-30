@@ -43,6 +43,8 @@ None
 - [ ] H1 changes to "Past events" even though aren't any "Upcoming events" and "Past events" subsets of "Outreach events" [#30239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30239) 
 - [ ] FE bug: Pagination link should not show when there's only 1 page [#18571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18571) 
 - [ ] Redirect Request for Vet Centers live as of 9/24 - FL detail pages, legacy directory location and key staff pages [#30521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30521) 
+- [ ] Heading Level Adjustment on Ch31 Feature (eBenefits) [#30746](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30746) 
+- [ ] Button / Link style change on Ch31 Feature (eBenefits) [#30745](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30745) 
 
 ### Future Work Grooming: 
 EPIC: New VA.gov Mobile Header (Unauth) #30623
