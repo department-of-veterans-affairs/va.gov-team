@@ -3,7 +3,7 @@
 ## Site maps and inventories
 ### Proposed site maps of the health apartment
 * [Most recent site map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1630530056765/d3d8cdb3f341d709f2f6b6658bbd7d6b6c50bf75?sender=megpeters0505) of levels 1 and 2. (Apartment landing page is level 0.)
-* [Health apartment IA thinking,](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1629312840587/a44f4d73ea946c67cb9aed4dac4dc4e10d2dc040?sender=megpeters0505) a first draft that's outdated. There are text site maps of parts of MHV at the bottom left of the Mural and under certain sections of the site map up top. (Created late summer 2021.)
+* [Health apartment IA thinking,](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1629312840587/a44f4d73ea946c67cb9aed4dac4dc4e10d2dc040?sender=megpeters0505) a first draft that's outdated. But there are useful text site maps of parts of MHV at the bottom left of the Mural and under certain sections of the site map up top. (Created late summer 2021.)
 
 ### Maps of VA.gov and My HealtheVet created at various times for various reasons 
 **Here's a [template for the MHV site audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/assets/MHV-content-audit-template.xlsx).**
