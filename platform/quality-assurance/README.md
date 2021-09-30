@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-(QA)-testing.1241579982.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # QA
 In this folder, you will find rules for how Veteran-facing Services (**VFS**) teams engage in Quality Assurance (**QA**) activities on the Veteran-facing Services Platform (**VSP**).  Generally, QA is the practice of preventing mistakes and defects in a product or service.  As it pertains to this platform, QA is concerned with ensuring that visistors to VA.gov experience a uniform and consistent website free from defects.
 
