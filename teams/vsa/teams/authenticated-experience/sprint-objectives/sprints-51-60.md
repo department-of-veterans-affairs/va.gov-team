@@ -351,6 +351,8 @@ Team assisted with response to incident on DD
 
 ### Alerts
 
+Goal: By the end of this sprint, I would love to be able to define what needs to happen to get this work done so we can accurately scope the project.
+
 - Meet with VANotify
 - Scope technical approach
   - How will we leverage the VANotify platform?
@@ -360,7 +362,7 @@ Team assisted with response to incident on DD
   - Finalize mockups
   - Do we need more research? 
   - Which notifications in VANotify to show as alerts on VA.gov?
-  - What is our plan for content? 
+  - What is our plan for content?
 
 ### User roles research
 
