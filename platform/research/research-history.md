@@ -14,6 +14,12 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ### Sept 2021
 
+#### Sept 10 - 17: Search Design Concepts Usability Research
+*Search & Discovery, Lead Researcher: Cindy Merrill*
+- Number of participants: 7 Veterans
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research/2021-Aug-research-study)
+- List of keywords: search, search results, Resources and Support, Find a VA Form, Find a VA Location, browse, Google 
+
 #### Sept 1 - 16: Usability research of shortened form based on disability rating, Health Care application 10-10EZ
 *Caregiver team, Health care application (10-10EZ) Lead Researcher: Dené Gabaldón*
 - Number of participants: 14 Veterans
