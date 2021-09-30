@@ -351,8 +351,6 @@ Team assisted with response to incident on DD
 **Frontend**
 - Respond to any QA findings
 
-
-
 ## Sprint 59 (10/20 - 11/2)
 [Sprint 59 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30185)
 
@@ -367,6 +365,20 @@ Team assisted with response to incident on DD
 
 **Frontend**
 - Respond to findings from staging & privacy review requests
+
+### Alerts
+
+- Meet with VANotify
+- Scope technical approach
+- Finalize intended design approach and determine next steps (do we need more research? plan for content)
+
+### User roles research
+
+- Scope research
+  - What questions do we intend to answer?
+  - At a high level, what do we need to do to answer these questions
+  - How long do we think this work will take (including final research report & readout)
+- Start research
 
 
 ## Sprint 60 (11/3 - 11/16)
