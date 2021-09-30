@@ -6,7 +6,7 @@ This folder will house all of the necessary files for the Benefits & Memorials 2
 Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 ### **Product Line** 
-Benefits and Memorial Services
+Benefits and Memorial Services; VA Debt Experience
 
 [Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
@@ -17,7 +17,11 @@ Enable Veterans, their dependents, and caregivers to easily discover, apply for,
 ### **Product Portfolio**
 [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
 
-[Debt Letters MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
+[Debt Letters Portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
+
+[Financial Status Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report)
+
+[Medical Copay Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays)
 
 [Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
@@ -29,10 +33,10 @@ TBD
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Matt Self                           |
-|Team Product Manager   |Leah Keeler                         |
-|Back End Engineer      |Cameron Testerman                   |
-|Front End Engineer     |Brad Conley                         |
-|Front End Engineer     |Mahariel Rosario                    |
+|Team Product Manager   |Denise Coveyduc                     |
+|Back End Engineer      |Scott James                         |
+|Front End Engineer     |Craig Wheeler                       |
+|Front End Engineer     |Justin Linn                         |
 |Design Lead            |Shawna Hein                         |
 |Design Researcher      |Riley Orr                           |
 |Design Researcher      |Becca Walsh                         |
