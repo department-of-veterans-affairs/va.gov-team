@@ -1,5 +1,11 @@
 # Stakeholder interview - Design feedback session - Cheyenne, WY
 
+**Date:** Sept-17-2021
+
+**Methodology:** Video interview over Teamsite
+
+**[Link to UXPin prototype](https://preview.uxpin.com/20fd05cf8e86ce628f0c813166424d0a6ca38bfd#/pages/142038860/simulate/sitemap)**
+
 ## Important Take-aways:
 
 ### Use Case that validates new schedule design:
