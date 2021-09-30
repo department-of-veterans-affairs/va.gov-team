@@ -340,6 +340,7 @@ Team assisted with response to incident on DD
 ### Notification preferences
 
 **PM**
+- Call center documentation
 - Respond to any QA findings
 - Begin gathering materials for staging and privacy reviews
 
