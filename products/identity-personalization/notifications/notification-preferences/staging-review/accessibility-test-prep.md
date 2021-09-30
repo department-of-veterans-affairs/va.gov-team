@@ -9,7 +9,7 @@ For additional reference see [Accessibility staging review prepartion documentat
 |Axe scans included in end-to-end (e2e) tests | [read more about e2e tests with axe checks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)|  |  | Erik Hansen |
 | Color tests for proper contrast and colorblindness | [read more about contrast and colorblindness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#color-tests)| Yes | Passed | Liz Lantz |
 | Content zoomed to 200%, 300%, 400% | [read more about zoomed layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#content-resize-check)| Yes | Passed  | Liz Lantz|
-| Keyboard navigation | [read more about navigating with the keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)|  |  |Liz Lantz|
+| Keyboard navigation | [read more about navigating with the keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#keyboard-navigation-check)| Yes | Passed (one thing seems odd to me, but [selecting radio buttons with arrow keys is standard behavior](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30341#issuecomment-930467788) so considering this passed) |Liz Lantz|
 
 ## Advanced Accessibility Tests
 
