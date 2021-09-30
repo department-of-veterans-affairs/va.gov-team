@@ -73,13 +73,14 @@ Assessing current methods of accessing VA Secure Messaging; informational interv
 
 ## Recommendations
 
-- Determine where Veterans expect to see, or find it useful to have, references to this communication method
+- **Determine where Veterans expect to see, or find it useful to have, references to this communication method**
     - A [UX tree test](https://www.optimalworkshop.com/treejack/?utm_source=google&utm_medium=cpc&utm_campaign=us-beta-tree-testing&keyword=tree%20testing%20ux&matchtype=p&network=g&gclid=Cj0KCQjwwNWKBhDAARIsAJ8Hkhe4qBARe6USLbIxOSyqfNmB7LPTsOjFUMVlyFR31RQtXMh-zyVL9tcaAuHUEALw_wcB) may help discover at what point in their VA.gov experience do Veterans expect to access Secure Messaging.
-    - A central question is: would Veterans expect to search for a system level, or specific VAMC page, in order to access Secure Messaging?
-    - A possible risk is: overcomplicating pages, and overwhelming Veterans with links and disclaimers
-- Determine a method for representing Secure Messaging on relevant VA.gov pages
+        - A central question is: would Veterans expect to search for a system level, or specific VAMC page, in order to access Secure Messaging?
+- **Determine a method for representing Secure Messaging on relevant VA.gov pages**
     - What would a reference to SM look like on system level pages (like Contact Us pages), or on specific VAMC pages?
         - For specific VAMC pages, consider using the existing spotlight content, or featured content, design patterns for highlighting this communication method
+- **General recommendations**
+    - A consistant theme across research (ex: [Veteran health experience and patient portal research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/OCTO%20health%20research%20report%2022%20Mar%202021.pdf)) is that Veterans are often overwhelmed by the options available to them, and so additional references and disclaimers on a VAMC page, for example, will add to its complexity. Keep it simple!
 
 ### Next Steps
 
