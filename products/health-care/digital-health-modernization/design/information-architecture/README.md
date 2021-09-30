@@ -1,5 +1,12 @@
 # Digital Health Modernization: Information Architecture 
 
+## Site maps and inventories 
+### Maps of VA.gov and My HealtheVet created at various times for various reasons 
+* [Master URL spreadsheet](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing) kept current by Mikki Northuis, the Veteran-facing IA
+* [High-level site map] of My HealtheVet provided by the My HealtheVet UX Team in September 2021
+* [Site map of My HealtheVet] by Mikki Northuis ~2019-2020
+* [Audit of My HealtheVet] by Mikki Northuis ~2019-2020
+
 ## Mapping the health landscape 
 ### Products, people, and systems
 In late 2020, we wanted to understand how Veterans think about health care, as well as the fragmented ecosystem Veterans and caregivers must navigate to get health care and disability benefits. This would help us modernize digital health by informing our overall strategy and our product, design, content, and user research thinking. We started by:
