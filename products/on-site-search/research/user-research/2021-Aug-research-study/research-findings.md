@@ -192,11 +192,11 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
     2. Limit the number of results returned so it's not frequently "999" (which suggests an ineffective search that returned too much). 
     3. Make the search link in the header more visible/prominent so more Veterans will notice it.
 1. Since so many people get to VA.gov through Google, see if we can **improve the Google search path by improving metadata on VA content pages**.
-
-## For other teams
 1. Consider renaming _Resources and Support_ to "FAQs" because this is a more widely used term that users understand.
 > "I think FAQs are really helpful if it is an exhaustive list” (p5).
-2. Consider adding "Resources" to the header next to "Find VA Location" to enable more Veterans to find it.
+
+## For other teams
+1. Consider adding "Resources" to the header next to "Find VA Location" to enable more Veterans to find it.
 1. Consider making the headers in the "top 4" boxes into links (e.g., "Education" could go to the [VA education and training benefits page](https://www.va.gov/education/) page) because that's where many Veterans look first.
 
 # Next Steps
