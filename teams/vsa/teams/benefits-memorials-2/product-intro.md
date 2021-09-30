@@ -90,7 +90,7 @@ Investigating incorporating medical copayment bills into the VA debt experience 
 * [Staging product link](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)
 * [MCP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)
 * [MCP Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays/research)
-* [Ideation Miro Board](https://miro.com/app/board/o9J_lFg6K9s=/) (pw: vsadesign)
+* [Ideation Miro Board](https://miro.com/app/board/o9J_lFg6K9s=/)
 
 #### Notes about this project:
 
@@ -119,7 +119,7 @@ Providing Veterans eligible for hearing aid battery and/or accessory resupply th
 * [Staging product link](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/)
 * [MDT Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
 * [MDT Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
-* [Ideation Miro Board](https://miro.com/app/board/o9J_kv3bibg=/) (pw: VSAdesign)
+* [Ideation Miro Board](https://miro.com/app/board/o9J_kv3bibg=/)
 
 #### Notes about this product:
 
