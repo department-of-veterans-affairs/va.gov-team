@@ -16,9 +16,9 @@ As a result, for our growing base of Mobile users, issues with the current heade
 * Evidence to support Prolem: Mobile usage is up, however site navigation via mobile is low to include mobile search, during a recent wayfinding research study it was idenfied that certain pain points existed on Mobile that could be enhanced to improve the UX.  A full comparison of Desktop Vs. Mobile is vaualble in determining common tasks across each device, along with what top tasks lend themselves more to desktop (e.g. form completion) and those on mobile (e.g. navigation). 
 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-     * This is occuring likely due to the context rich pages in the benefit hubs that are likely creating "content roadblocks" for Veterans to complete intented tasks. In addition to the large left hand navigational menu (mega menu) as it was proven that the smaller navigational menu is easier to navigate and provides a quicker path for users to interact with and follow.  
+     * The header consumes too much space and makes it more of bulky, clunky user experience for mobile users.    
      * [Baseline analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28225) 
-     * Veterans were asked in a recent research wayfinding session what they didn't like about VA.gov, almost half of the participants said that it was difficult to find what you need, especially when it isn't in the "top 4" boxes. "A lot of things I can't find on mobile".  
+     * Veterans were asked in a recent research wayfinding session what they didn't like about VA.gov, almost half of the participants said that it was difficult to find what you need, especially when "using a mobile device". "A lot of things I can't find on mobile".  
       
  
 * How does this initiative help further OCTO-DE's mission and goals?
