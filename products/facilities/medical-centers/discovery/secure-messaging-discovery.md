@@ -71,6 +71,20 @@ Assessing current methods of accessing VA Secure Messaging; informational interv
 - **Can Veterans ask general non health care questions? (ie. Questions about their education benefits?)**
     - [From SME interview]: Veterans can ask about their benefits, but My HealtheVet coordinators must pass these questions on to VBA benefits teams. Health care teams are not benefits teams, so Vets are encouraged to ask the VBA, not VHA, about benefits questions.
 
+## Recommendations
+
+- Determine where Veterans expect to see, or find it useful to have, references to this communication method
+    - A [UX tree test](https://www.optimalworkshop.com/treejack/?utm_source=google&utm_medium=cpc&utm_campaign=us-beta-tree-testing&keyword=tree%20testing%20ux&matchtype=p&network=g&gclid=Cj0KCQjwwNWKBhDAARIsAJ8Hkhe4qBARe6USLbIxOSyqfNmB7LPTsOjFUMVlyFR31RQtXMh-zyVL9tcaAuHUEALw_wcB) may help discover at what point in their VA.gov experience do Veterans expect to access Secure Messaging.
+    - A central question is: would Veterans expect to search for a system level, or specific VAMC page, in order to access Secure Messaging?
+    - A possible risk is: overcomplicating pages, and overwhelming Veterans with links and disclaimers
+- Determine a method for representing Secure Messaging on relevant VA.gov pages
+    - What would a reference to SM look like on system level pages (like Contact Us pages), or on specific VAMC pages?
+        - For specific VAMC pages, consider using the existing spotlight content, or featured content, design patterns for highlighting this communication method
+
+### Next Steps
+
+- Explore lofi mockups of Secure Messaging on system level, and specific VAMC pages
+
 ## SME Interview(s)
 
 **SME:** Jen Echer, UX Designer, Ad Hoc (research and design for secure messaging mobile app)
