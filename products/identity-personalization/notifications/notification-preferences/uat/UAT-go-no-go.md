@@ -3,8 +3,7 @@
 ## Decision: ______
 ---
 
-**Samara: Is the release plan complete and ready to execute against?**
-- [Notification Preferences Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/release-plan.md)
+**Samara: Is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/release-plan.md) complete and ready to execute against?**
 - Answer: 
 
 **Liz: Are the research plan and conversation guide for UAT complete?**
