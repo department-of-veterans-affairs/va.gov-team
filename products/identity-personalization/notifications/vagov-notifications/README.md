@@ -92,4 +92,8 @@ We have already completed design discovery, which will inform our technical disc
 
 ### Before
 
+*My VA 2.0*
+
+![My VA 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
+
 ### After
