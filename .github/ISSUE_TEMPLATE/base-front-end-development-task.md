@@ -1,6 +1,6 @@
 ---
 name: Base Front End Development Task
-about: ''
+about: 'basic front end task'
 title: '[FE]' 
 labels: frontend
 
