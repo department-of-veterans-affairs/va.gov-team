@@ -1,4 +1,4 @@
-# Notification Preferences - Accessibility Staging Reivew Prep
+# Notification Preferences - Accessibility Staging Review Prep
 
 For additional reference see [Accessibility staging review prepartion documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#accessibility-staging-review-preparation) and [VA Platform Collaboration cycle Staging review documentation](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html)
 
