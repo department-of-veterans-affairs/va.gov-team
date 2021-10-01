@@ -29,7 +29,7 @@ OK, let's get started.
 - If they do not know what that means, ask: Do you ever sign into any va websites, such as VA.gov or ebenefits, to access or apply for your benefits? (If yes: Can you talk me through how you do that?) 
 
 3. Do you know your username and password? 
-   - If not: Are these readily accessible? Could you get them?
+   - If not: Are these readily accessible? Could get them?
    - If the user can not remember or retrieve their login credentials, **end the session.**
 4. What type of mobile device you are using today? 
    - If needed: I'm asking this question because sometimes the type of device can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
@@ -57,6 +57,7 @@ Once you are logged in, click on your name in the upper right-hand corner, selec
 
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
 - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
+- [ ] **UAT TASK:** Confirm the `update saved` alert does not say "manage notification settings" after the user deletes their phone number
 - [ ] **Usability note:** What was the participant's experience removing their mobile number?
 
 From here, please click on notification settings
@@ -88,26 +89,20 @@ Ok, that's what we were hoping for. Go ahead and add your number back, and then 
 (All participants) Go ahead and update your notification settings
 
 - If user doesn't click the link in the alert, instruct them to do so before all the settings are set
-
 - [ ] **Usability:** (Healthcare users only) Did the user share any feedback related to notifications they are already receiving?
-
 - [ ] **UAT TASK:** Is the health care section only showing for users who have health care?
-
 - [ ] **UAT TASK:** Do the field sets load with the `warning` state?
-
 - [ ] **UAT TASK:** Is the prescription shipping/tracking reminder showing appropriately (should be hidden unless a user is registered at an Asheville or Denver VAMC)?
-
 - [ ] **UAT TASK:** Does the link in the alert take the user to the first `not set` notification option?
-
 - [ ] **UAT TASK:** Does the `saving...` message display while the API call is in-flight?
-
-- [ ] **UAT TASK:** Are the users changes to their notification settings accurately saved in the API?
-
 - [ ] **UAT TASK:** Do the field sets correctly change to the `saved` state?
-
 - [ ] **Usability:** Did the user experience any confusion related to the auto-save feature?
 
-  
+## 4. Confirm settings have been saved - 1 minute
+
+Go ahead and refresh the page, so we can confirm everything saved correctly.
+
+- [ ] **UAT TASK:** Are the users changes to their notification settings accurately saved?
 
 ## Post-Task Interview - 2 minute
 
