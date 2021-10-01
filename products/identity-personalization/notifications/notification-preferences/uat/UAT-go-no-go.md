@@ -1,4 +1,4 @@
-# Notification Preferences: UAT Go/No-Go | dd.mm.yyyy (target week of 10/11)
+# Notification Preferences: UAT Go/No-Go | dd.mm.yyyy (target week of 10/18)
 
 ## Decision: ______
 ---
@@ -19,7 +19,7 @@
 **All: Have you all reviewed the tool in staging and confirmed that it works as expected?**
 - Answer: 
 
-**Erik: Are you prepared to manage giving UAT participants access to My VA 2.0 in production?**
+**Erik: Are you prepared to manage giving UAT participants access to the Notification Preferences feature in production?**
 - Answer: 
 
 **All: Is everyone prepared to attend UAT sessions in case there are issues we need to troubleshoot live?**
