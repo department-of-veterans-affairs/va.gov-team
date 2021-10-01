@@ -4,6 +4,8 @@
 
 [Community Living Center general information](https://www.va.gov/GERIATRICS/pages/VA_Community_Living_Centers.asp)
 
+[Residential Settings and Nursing Homes](https://www.va.gov/GERIATRICS/pages/Nursing_Home_and_Residential_Services.asp?utm_source=geriatrics_home_page)
+
 [List of VA CLC facilities](https://www.va.gov/geriatrics/docs/VA_Community_Living_Center_Locations.pdf)
 
 Community Living Centers fall under VA [Geriatrics and Extended Care](https://www.va.gov/GERIATRICS/pages/Nursing_Home_and_Residential_Services.asp?utm_source=geriatrics_home_page) programs, and are design to deliver a nursing home level of care. CLCs may be a temporary or permanent home, and they provide a variety of services from short-term nursing, rehabilitation, and hospice care, to long-term assisted living care, and more specific services depending on the capabilities of the facility.
