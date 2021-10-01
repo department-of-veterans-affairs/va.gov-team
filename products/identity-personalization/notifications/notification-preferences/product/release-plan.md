@@ -5,9 +5,9 @@
 - **Desired date range or test duration:** Sprint 59 (week of 10/25)
 - **UAT Go/No go:** Week of 10/18
 - **Start UAT**: 10/26
-   - Hold UAT Go/No-Go (target week of 10/11) - ticket TK
-   - Link readiness checklist
-- **Desired number of users:** TK
+   - Hold UAT Go/No-Go (target week of 10/18) [#30805](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30805)
+   - Link to [readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/uat/UAT-go-no-go.md)
+- **Desired number of users:** recruiting 12 participants with a target of completeing 6 sessions
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** The feature will
@@ -22,13 +22,15 @@ be behind a feature flag.
 
 ## Phase II: Staged Rollout 
 ### Planning
-**Launch Go/No go:** Week of 11/1 (tentative)
+**Launch Go/No go:** Week of 11/1 (tentative), 
+- Hold go/no-go ([#30806](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30806))
+- [Readiness checklist](
 
 **Desired date range for phased rollout:** 
-- 10% of users (1 week), Dates: week of 11/1 (ticket TK)
-- 25% of users (1 week), Dates: week of 11/8 (ticket TK)
-- 50% of users (1 week), Dates: week of 11/15 (ticket TK)
-- If all goes well, then go to 100% of users: week of 11/22 (ticket TK)
+- 10% of users (1 week), Dates: week of 11/1 ([#30807](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30807))
+- 25% of users (1 week), Dates: week of 11/8 ([#30808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30808))
+- 50% of users (1 week), Dates: week of 11/15 ([#30809](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30809))
+- If all goes well, then go to 100% of users: week of 11/22 ([#30810](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30810))
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Notification Preferences - Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success)
