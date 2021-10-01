@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for [Identity, Sign-in redesign and provider attributes, October 1]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
