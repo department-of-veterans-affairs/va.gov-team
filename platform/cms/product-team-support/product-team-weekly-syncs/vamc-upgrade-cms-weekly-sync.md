@@ -21,14 +21,40 @@
 
 </details>
 
+## October 8
+
+* Help desk
+* PAO newsletter ideas?
+
 ## October 1
 
+* Help desk 
+  * Lisa and Stan working on standardized email to encourage use of KB (http://prod.cms.va.gov/help/vamc) / CMS help desk.
+* Dave out Oct 4-11
+  * Beth and Danielle as escalation points (use #va-sitewide-content channel) 
 * Full prod launches / redirects
+  * Went out this week: Eastern Colorado, Fayetteville, Palo Alto.  
+  * Going out October 6 Montana, cheyenne, new york harbor, central iowa, Augusta, Columbia South Carolina, Charleston, West Texas, black hills, Richmond, Hampton
 * Update on Lovell plans
+  * Conversation with Stan, Dave and Lovell folks yesterday
+  * We can go ahead with the 4 facilities, there's no difference for Veterans between those and other VAMC facilities
+  * The wonkiness for Veterans is well managed by the business, like dual-elegibile folks (eligible for VA and DoD benefits). 
+  * Outstanding: Teamiste for Lovell is the only web presence for both Veterans and DoD service members (recruits, active military, and families). 
+    * DHA - Defense Health Agency
+    * NMRTC - Employee-facing (mostly)
+  * The main hospital serves both audiences. But service member visits tend to be _referalls_ rather than primary. 
+  * The four visits not in VAST are primary care for service member and families _except_ periodic health assessment (annual physical) for service members and families at main hospital
+  * Ideally VA will not house the DoD content. Possible solutions
+    * DoD sticks with teamsite and links out to new Veteran experience in a banner? 
+    * Dave is contacting DHA and NMRTC to see if they're interested in the VACMS content API. 
+      * Then Lovell folks can maintain web presence for two web properties.   
 * Manila
+  * No news yet. 
 * PAO newsletter items
   * training exercises
- 
+  * KB articles
+
+
 ## September 24
 
 Help desk 
