@@ -9,8 +9,8 @@ assignees: Research, lalexanderson-dsva
 
 ## What type of study are you planning to conduct? Check all that apply.
 - [ ] Remote moderated interview
-- [ ] Remote unmoderated
-- [ ] In-person moderated
+- [ ] Remote unmoderated study (card sort, tree test, chalkmark, or other tests - NO SURVEYS or QUESTIONNAIRES allowed due to PRA) 
+- [ ] In-person moderated interview
 
   
 ## Supporting Artifacts
