@@ -6,7 +6,7 @@ Before publishing any page on VA.gov confirm the following:</br>
 - [ ] We aren't using sighted language ("view," "see," "look"). These should be replaced with a word that's inclusive of our users with screen readers ("check," "go to")
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correctly (if the page is a child page, the section needs to be the same as the parent page in order for the left nav to show)
 - [ ] All apostrophes and quotation marks should be curly
-- [ ] There are no changes to the page that shouldn't be published. Check the revision log to confirm that any previous changes made to the page can also be published
+- [ ] There are no changes to the page that shouldn't be published. Check the revision log to confirm that any previous changes made to the page are OK to go live
 
 Before publishing a Resources and Support article make sure these steps are also complete:</br>
 - [ ] H2s are within the 70-character limit
