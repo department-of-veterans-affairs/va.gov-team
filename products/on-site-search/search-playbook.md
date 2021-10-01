@@ -1,16 +1,31 @@
-#vets.gov search
+# vets.gov search
 
-Search on vets.gov uses GSA's [DigitalGov Search](http://search.digitalgov.gov/). To get a login, contact @ayaleloehr with your .gov email address. 
+Search on VA.gov uses the Search Results API provided by Search.gov
 
 The help manual can be found [here](http://search.digitalgov.gov/manual/).
 
-Current facts:
+## Current Tools
+- "Search API" is how we provide search results to users. The implementation guide is [here](https://search.usa.gov/sites/7378/api_instructions) and the vets-api endpoint used for search is [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/search_controller.rb). Results are parsed on the FE and rendered using the search app[here](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/search)
+- "Search Click tracking" is one of the ways we are tracking our click-through rates for global search. From the [search.gov homepage](https://search.usa.gov/sites/7378) navigate to analytics -> clicks or analytics -> monthly reports. This tracking allows us to monitor queries with low click through rates and create best bets or typeahead suggestions to correct the issue. Search click tracking uses the click tracking API, [instructions here](https://search.usa.gov/sites/7378/click_tracking_api_instructions), and uses vets-api to obfuscate the private API keys, [endpoint here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/search_click_tracking_controller.rb)
+- "Search Typeahead" uses a database of suggestions to assist users in finding what they are looking for on va.gov. The instructions for implementing this api is [here](https://search.usa.gov/sites/7378/type_ahead_api_instructions). We use a Vets-API endpoint to obfuscate the private API key [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/search_typeahead_controller.rb). These suggestions are algorithmically generated (if a query is searched X number of times, input it as a suggestion, and then remove it if it goes Y days without being searched Z times). These numbers are controlled by search.gov, and we do not have much control over them.
+- "Best Bets" is a way to boost content on the va.gov site.  More information can be found on [this site](https://search.gov/manual/best-bets.html). Best Bets are added on the search.gov portal which requires approval to access. If a best bet needs to be added or changed reach out to the search.gov team at search@support.digitalgov.gov or contact Danielle Thierry on the VA Content team.
 
-- We use Best Bets to return recommended results at the top of specific queries. One example of this is that if a user searches "job search", the recommended result is vets.gov/employment/job-seekers/search-jobs.
-- We use Routed Queries, which allow us to send someone directly to the page they searched for instead of to a search results page (like "I'm feeling lucky" on Google, except it happens automatically). Currently we have "vec" and "veterans employment center" go to vets.gov/employment and "gi bill tool" and "gi bill comparison tool" go to vets.gov/gi-bill-comparison-tool.  If a user does the same search twice in a row, it takes them to the search results page on the second search, so they are not in an endless loop going to a page they don't seem to actually want to visit. 
-- You can somewhat customize the UX (including the header and footer images) under the Display button on the left hand side after logging in. 
-- This was set up April 27th, so there is no data for before that date. 
+## In Case of Issues
+- The primary contact point for any search related issues is going to be search.gov. Their primary mode of contact is email: search@support.digitalgov.gov
 
-Potential future state:
+### FE issues
+In the event of a front end issue with search, all of the front end code can be found in the following locations:
+- Search in the Header
+[Search Header](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchMenu.jsx)
+- Search Results Page
+[Search App}(https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/search)
 
-- There is actually a search API (which we are not using currently) if we want to bring this to a vets.gov page and keep the vets.gov look and feel. The information about this can be found under Activate link on the left side and then "Search Results API Instructions."  Of note, this page says: to retrieve web results through this API, you must either use our indexes or you must purchase an API key from Bing or Google to use their results. We are not able to pass Bing results through APIs."  Currently we use Bing results, so this would need to be looked into. 
+## BE issues
+In the event of a back end issue with search, all of the back end code can be found in the following locations:
+- Search Results API
+[endpoint here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/search_controller.rb)
+- Search Typeahead API
+[endpoint here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/search_typeahead_controller.rb)
+- Search Click Tracking API
+[endpoint here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/search_click_tracking_controller.rb)
+
