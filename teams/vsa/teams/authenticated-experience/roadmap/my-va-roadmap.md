@@ -13,7 +13,7 @@
 
 |Project|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
 |----|----|----|----|----|
-|**My VA: Notification/Action-item exploration**| Planning; Start research | Complete research and make recommendations |Technical discovery & build | Launch |
+|**Alerts MVP**| Planning; Start research | Complete research and make recommendations |Technical discovery & build | Launch |
 |**User roles & permissions**| - | - | Research discovery to support Identity team | TBD |
 |**Add education section to My VA** |  - | - | Scoping and planning | TBD |
 
