@@ -6,9 +6,7 @@
 
 ## What is this?
 
-A simple set of custom configuration and script files for reporting vets-website's **[Cypress E2E][vsp-e2e-testing]** test results to our **[TestRail][vsp-testrail]** test case management system (TCMS).
-
-This integration leverages Vivify Ideas' **[cypress-testrail-reporter][cy-tr-reporter]** Node-package to post a Cypress spec-file's test-results to an automatically-created TestRail test-run.
+A custom Cypress reporter and process for reporting vets-website's **[Cypress E2E][vsp-e2e-testing]** test results to our **[TestRail][vsp-testrail]** (TR) test case management system (TCMS) -- currently using tlei123's **[cy-tr-reporter][cy-tr-reporter]**.
 
 The cypress-testrail-reporter makes some assumptions about your E2E files and TestRail test-cases:
 - **One TestRail test-case Section for each Cypress spec-file**: If you have 3 E2E spec-files, you should have 3 TestRail test-case Sections (aka Groups).
@@ -26,49 +24,62 @@ First, read **[VSP-QA's basic process][vsp-cy-tr-reporter]** to get a general id
 
 Additional help info is provided below, to flesh-out the basic process.
 
-#### TestRail API Key
+#### TestRail Username & API Key
 
-- To log in to our [TestRail](https://dsvavsp.testrail.io/) TCMS, first obtain your Team's credentials from your Product Manager.
-- To quickly to to your Team's TestRail Project, check the table in the next section.
-- Then just follow [VSP-QA procedure](/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#testrail-api-key) to generate your API Key.
+- To log in to our [TestRail](https://dsvavsp.testrail.io/) TCMS (TR) -- obtain your Team's TR credentials from your Product Manager.
+- To quickly go to your Team's TestRail Project, check the table in the next section for you directly TR-Project link.
+- **TR_USER**: Your Team's username would typically be your PM's email address.
+- **TR_API_KEY**: Follow [VSP-QA procedure](/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#testrail-api-key) to generate your API Key.
+- Save you TR_USER & TR_API_KEY in you **Terminal or default-shell profile** (.zshrc, .bashrc, .profile, etc), so that you won't have to manually re-export them every time you run the custom-reporter.  E.g.:
+  ```shell
+  export TR_USER=example@example.com TR_API_KEY=abcdefghijklmnopqrstuvwxyz1234567890ABCDE
+  ```
 
-#### Corresponding TestRail Objects
+#### TestRail Project & Suite IDs
 
-##### Project & Suite IDs
-
-Instead of checking TestRail URLs to obtain your team's Project & Suite IDs (2 key environment variables you'd need to set), just refer to the table below:
+- Instead of checking TestRail URLs to obtain your team's Project & Suite IDs (2 key environment variables you'd need to set), just refer to the table below:
   
-| VSA Product Team  | TestRail Project Name/Link | TestRail Project ID | TestRail Suite ID |
-| ------------- | ------------- | ------------- | ------------- |
-| Authenticated Experience | [VSA-Authd-Exp][authd-exp-tr-proj]  | 4  | 5 |
-| Claims & Appeals | [VSA-Claims-Appeals][claims-tr-proj]  | 5  | 6 |
-| Caregiver | [VSA-Caregiver][caregiver-tr-proj] | 10  | 11 |
-| Content & Localization | [VSA-Content-Localization][content-loc-tr-proj] | 34  | 183 |
-| Debt Resolution | [VSA-Debt-Resolution][debt-tr-proj]  | 7  | 8 |
-| Decision Tools  | [VSA-Decision-Tools][dcsn-tools-tr-proj] | 30 | 136 |
-| eBenefits Migration | [VSA-eBenefits][eben-tr-proj] | 3 | 3 |
-| Facilities | [VSA-Facilities][fac-tr-proj] | 6 | 7 |
-| Healthcare Experience [aka Clipboard] | [VSA-Healthcare-Exp][healthcare-tr-proj] | 24 | 35 |
-| Public Websites | [VSA-Public-Websites][pubweb-tr-proj] | 8 | 9 |
-| Search & Discovery | [VSA-Search-Discovery][search-tr-proj] | 31 | 150 |
-| VAMC | [VSA-VAMC][vamc-tr-proj] | 9 | 10 |
+  | VSA Product Team  | TestRail Project Name/Link | TestRail Project ID | TestRail Suite ID |
+  | ------------- | ------------- | ------------- | ------------- |
+  | Authenticated Experience | [VSA-Authd-Exp][authd-exp-tr-proj]  | 4  | 5 |
+  | Claims & Appeals | [VSA-Claims-Appeals][claims-tr-proj]  | 5  | 6 |
+  | Caregiver | [VSA-Caregiver][caregiver-tr-proj] | 10  | 11 |
+  | Content & Localization | [VSA-Content-Localization][content-loc-tr-proj] | 34  | 183 |
+  | Debt Resolution | [VSA-Debt-Resolution][debt-tr-proj]  | 7  | 8 |
+  | Decision Tools  | [VSA-Decision-Tools][dcsn-tools-tr-proj] | 30 | 136 |
+  | eBenefits Migration | [VSA-eBenefits][eben-tr-proj] | 3 | 3 |
+  | Facilities | [VSA-Facilities][fac-tr-proj] | 6 | 7 |
+  | Healthcare Experience [aka Clipboard] | [VSA-Healthcare-Exp][healthcare-tr-proj] | 24 | 35 |
+  | Public Websites | [VSA-Public-Websites][pubweb-tr-proj] | 8 | 9 |
+  | Search & Discovery | [VSA-Search-Discovery][search-tr-proj] | 31 | 150 |
+  | VAMC | [VSA-VAMC][vamc-tr-proj] | 9 | 10 |
 
+- Since you're unlikely to switch TR projects, you can also save TR_PROJECTID & TR_SUITEID in your **Terminal or default-shell profile**. E.g:
+  ```shell
+  export TR_PROJECTID=0 TR_SUITEID=0
+  ```
 
-##### Scaffold your TestRail Test Cases
+#### TestRail Test-Case Groups/Sections
+
+You'll need to organize your Product's TR test-cases in a hierarchy of TR groups/sections &mdash; TR uses 'group' & 'section' interchangibly. You'd only need to do this once for each Product:
 
 1. Go to your **TestRail Project**, then click **TEST CASES** tab.  The Test Cases screen has 3 panels:
     - **Test Cases** [left]: Test-cases list.
     - **Selected Test Case** [middle]: Details of a selected test-case (highlighted in the Test Cases panel).
     - **Sections** [right]: Test-cases sections (aka Groups) for organizing test-cases.
 1. In **Sections** panel, Add a **Section** for each Cypress spec-file:
-    - If you don't see an existing root-level Section for your Product (application), create a root-level Section for it.
+    - If you don't see an existing Sub-section for your Product/Feature, create one for it.
     - If you don't see an existing Sub-section for Automated tests, create one [Add a Section, then drag to Move it into the Product Section].
     - Under your Product > Automated section, Add a Section for your Cypress spec-file.
     - In the **Test Cases** panel, under your Cypress-spec-file Section, Add a Test Case for each test (`it('...', () => {...})`) in your Cypress spec-file.
+    
+An example sections-hierarchy for a product should look lik this:
+      
+![testrail-example-sections][testrail-example-sections]
 
 #### TestRail Group IDs
 
-Another environment variable you'd need to set is your TestRail test cases' Group IDs (which enables filtering of your test cases).  Because of how our TestRail test cases are organized/displayed, there's a "trick" to finding the relevant ID(s) for your planned Cypress test runs.
+Another environment variable you'd need to set for the custom-reporter is the TR Group ID.  Because of how our TestRail test cases are organized/displayed, there's a "trick" to finding the relevant ID(s) for your planned Cypress test runs.
 
 1. Go to your Team's TestRail Project. [Click a project-link in **[Project & Suite IDs](#project--suite-ids)** section's table above].
 1. In the **Sections** panel:
@@ -90,7 +101,7 @@ For each .cypress.spec.js file, prepend the TestRail Test Case's IDs to the star
 
 #### 5. Set Environment Variables & invoke Cypress
 
-##### Test Run names
+##### Test Run Names
 
 Test Run name is another environment variable you'd need to set, in order to distinguish different spec-files' test-runs.  Be sure to set your name-string as follows:
 
@@ -112,7 +123,7 @@ The end result is a new TestRail Test Run in your Team's TestRail project, with 
 
 [vsp-e2e-testing]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/testing/end-to-end
 [vsp-testrail]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail
-[cy-tr-reporter]: https://www.npmjs.com/package/cypress-testrail-reporter
+[cy-tr-reporter]: https://github.com/tlei123/cy-tr-reporter
 [vsp-cy-tr-reporter]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md
 [authd-exp-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/4
 [claims-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/5
@@ -126,6 +137,7 @@ The end result is a new TestRail Test Run in your Team's TestRail project, with 
 [pubweb-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/8
 [search-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/31
 [vamc-tr-proj]: https://dsvavsp.testrail.io/index.php?/projects/overview/9
-[testrail-test-cases-view-mode]: images/tr-test-cases-view-mode.png
+[testrail-example-sections]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/images/tr-example-sections.png
+[testrail-test-cases-view-mode]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/images/tr-test-cases-view-mode.png
 [vsp-cy-tr-env-vars]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#environment-variables-set
 [vsp-cy-tr-optns]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/cypress-testrail-reporter-config.md#invoke-cypress-with-custom-reporter-options
