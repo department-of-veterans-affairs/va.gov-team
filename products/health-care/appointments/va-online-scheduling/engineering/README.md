@@ -24,7 +24,7 @@ VAOS is VA online scheduling, the veteran facing component of the VA's online sc
 - [Authentication flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/authentication_flow.md)
 - [Application data flow](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/engineering/data_inventory)
 
-## Product
+## Product and data
 
 - [Tool and system overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/tool_system_overview.md)
 - [Facility identifiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/VA_location_identifiers.md)
