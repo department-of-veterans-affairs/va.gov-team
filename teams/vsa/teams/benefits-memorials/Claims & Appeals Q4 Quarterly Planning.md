@@ -1,12 +1,12 @@
 # Claims & Appeals Quarterly Planning Q4 - 2021
 
 # Quarter 1 Accomplishments
--	BDD launch (1st week December, 100% Feb)
--	HLR launch
--	Misc. 526 Bug Fix
--	Claims Status Tool bug fix
--	Letters bug fix
--	526 PTSD research
+ -	BDD launch (1st week December, 100% Feb)
+ -	HLR launch
+ -	Misc. 526 Bug Fix
+ -	Claims Status Tool bug fix
+ -	Letters bug fix
+ -	526 PTSD research
 
 # Quarter 2 Accomplishments
 -	NOD design & development complete. Ready to launch pending language updates from the Board
