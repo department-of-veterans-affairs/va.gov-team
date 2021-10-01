@@ -1,25 +1,27 @@
 # My VA roadmap
 
-**Updated May 2021**
+**Updated October 1, 2021**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Pre-launch tasks |
+|Alerts MVP| Post-design discovery planning; Technical discovery |
+|Add education section to My VA | Initial discussions & planning |
 
 ### Projected timelines for current projects
 
-|Project|Q1 2021|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
-|----|----|----|----|----|----|
-|**My VA redesign**| Finish design; user testing; FE build | QA; pre-launch; launch | — | — |— |
-|**My VA: Notification/Action-item exploration**| — | Planning; Start research | Complete research and make recommendations | — |— |
-|**User roles & permissions**| - | - | Collab with identity team; Determine if dashboard updates are actually required for MVP | TBD | TBD |
+|Project|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
+|----|----|----|----|----|
+|**My VA: Notification/Action-item exploration**| Planning; Start research | Complete research and make recommendations |Technical discovery & build | Launch |
+|**User roles & permissions**| - | - | Research discovery to support Identity team | TBD |
+|**Add education section to My VA** |  - | - | Scoping and planning | TBD |
 
 ## Completed projects
 
 |Project|Status|
 |----|----|
+|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 ## Potential future projects & feature requests from other teams
