@@ -5,7 +5,7 @@
 - **Desired date range or test duration:** Sprint 59 (week of 10/25)
 - **UAT Go/No go:** Week of 10/18
 - **Start UAT**: 10/26
-   - Hold UAT Go/No-Go - ticket TK
+   - Hold UAT Go/No-Go (target week of 10/11) - ticket TK
    - Link readiness checklist
 - **Desired number of users:** TK
 - **How you'll recruit the right production test users:** We will recruit users via Perigean.
