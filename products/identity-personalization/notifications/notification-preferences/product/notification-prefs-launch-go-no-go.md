@@ -16,7 +16,7 @@
 **Erik, Taylor and Lihan**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer: 
 
-**Erik and Taylor**: are you ready to flip on Notification Preferences to 10% of users?
+**Erik and Taylor**: are you ready to flip on Notification Preferences to 25% of users?
 - Answer: 
 
 **Samara/AJ**: is the Product Health Tool and/or Google Analytics updated to track this product data and are they working as expected?
