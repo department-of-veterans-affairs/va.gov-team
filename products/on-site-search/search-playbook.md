@@ -20,7 +20,7 @@ In the event of a front end issue with search, all of the front end code can be 
 - Search Results Page
 [Search App}(https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/search)
 
-## BE issues
+### BE issues
 In the event of a back end issue with search, all of the back end code can be found in the following locations:
 - Search Results API
 [endpoint here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/search_controller.rb)
