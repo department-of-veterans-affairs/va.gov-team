@@ -1,0 +1,1 @@
+TODO: This will be a description of the Check In Experience with embedded/linked diagrams in the architecture-diagrams directory and with links to the relevant repositories for vets-website, vets-api, CHIP and Lorota. 
