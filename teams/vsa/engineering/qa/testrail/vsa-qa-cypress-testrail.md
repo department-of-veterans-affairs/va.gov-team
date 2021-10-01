@@ -71,42 +71,53 @@ You'll need to organize your Product's TR test-cases in a hierarchy of TR groups
     - If you don't see an existing Sub-section for your Product/Feature, create one for it.
     - If you don't see an existing Sub-section for Automated tests, create one [Add a Section, then drag to Move it into the Product Section].
     - Under your Product > Automated section, Add a Section for your Cypress spec-file.
-    - In the **Test Cases** panel, under your Cypress-spec-file Section, Add a Test Case for each test (`it('...', () => {...})`) in your Cypress spec-file.
     
 An example sections-hierarchy for a product should look lik this:
       
 ![testrail-example-sections][testrail-example-sections]
 
-#### TestRail Group IDs
+#### TestRail Group ID
 
-Another environment variable you'd need to set for the custom-reporter is the TR Group ID.  Because of how our TestRail test cases are organized/displayed, there's a "trick" to finding the relevant ID(s) for your planned Cypress test runs.
+The TR Group ID corresponds to your Cypress spec-file.  Because of how our TestRail test cases are organized/displayed, there's a "trick" to finding the relevant ID(s) for your planned Cypress test runs.
 
-1. Go to your Team's TestRail Project. [Click a project-link in **[Project & Suite IDs](#project--suite-ids)** section's table above].
-1. In the **Sections** panel:
+1. Go to your Team's TR Project, [click a project-link in **[Project & Suite IDs](#project--suite-ids)** section's table above].
+1. Click to bring up the **Test Cases** tab.
+1. In the Test Cases > **Sections** (right) panel:
     - Click the **View Mode** dropdown-menu and choose **Selected group only**.
     
     ![testrail-test-cases-view-mode][testrail-test-cases-view-mode]
     
-    - Click to select the desired **Group/Section**.  On the **Test Cases** panel, you'll see only this selected Group/Section's Test Cases.
-1. Click **TEST CASES** tab to go to your Project's test-cases screen.
-1. Within **Automated** Sub-section, create Test Cases corresponding to your product's E2E tests, one Case for each test (`it('...', () => {...})`) within each .cypress.spec.js file, setting it's Type to **Automated**. No need to create any Steps inside the Case -- these Cases are merely TestRail "stubs" for associating your E2E test results.
+    - Click to select the desired **Group/Section**.  On the **Test Cases** (left) panel, you'll see only test-cases in your selected Group/Section.
+    - Save your Cypress spec-file path \[starting with `src/applications/<your-app>/`\] and TR Group ID in your selected Group/Section's **Description**.  This'll make it much easier when exporting TR variables in your shell.
+1. Create Test Cases to correspond to the tests in your Cypress spec-file, one Case for each test (`it('...', () => {...})`), setting it's Type to **Automated**. No need to create any Steps inside the Case -- these Cases are merely TestRail "stubs" for associating with your Cypress test results.
 </details>
 
-#### 4. Prepend Case IDs to E2E test titles
+#### TestRail Case IDs
 
-For each .cypress.spec.js file, prepend the TestRail Test Case's IDs to the start of your E2E test titles.
+Each TR Case IDs correspond to the tests (`it('...', () => { ... })` blocks) within your Cypress spec-file.
+
+In TR Test Cases tab, add test-cases &mdash; one for test in your Cypress spec-file:
+
+1. In the left panel (test-cases list), under the Section you selected, click **Add Case**.
+1. Enter a case-title that identifies your Cypress test (make it the same as or similar to your Cypress test-description).  Once created TR displays a Case ID (Cxxxx) next to it.
+
+In your Cypress spec-file, append the TR Case ID to test description:
 
 1. In your code-editor, open your .cypress.spec.js file.
-2. At the beginning of each test-title (`it('my-test-title', () => {})`), type **C**, and then the **ID** of the corresponding TestRail Test Case you scaffolded.  E.g., your Cypress test title `it('renders Learn More link', () => {...})` has a corresponding TestRail test case with ID 1059, so prepend "C1059 " to your Cypress test title -- `it('C0159 renders Learn More link'), () => {...})` 
+2. At the end of each test-title (`it('my-test-title', () => {})`), type ** - Cxxx**.  E.g., your Cypress test title `it('renders Learn More link', () => {...})` has a corresponding TestRail test case with ID C1059, so append " - C1059 " to your Cypress test title -- `it('renders Learn More link - C1059'), () => {...})`
 
-#### 5. Set Environment Variables & invoke Cypress
+Once you have TR test-cases created, and TR Case Ids appended to your Cypress spec-file's tests, you're ready to set TR variables in your shell and run your Cypress spec with the custom-reporter.
 
-##### Test Run Names
+#### TR Environment Variables & Custom-Reporter Script-call
 
-Test Run name is another environment variable you'd need to set, in order to distinguish different spec-files' test-runs.  Be sure to set your name-string as follows:
+##### TestRail Run Name
+
+The TR Run Name identifies your Cypress test-run in TR.  Be sure to set your name-string as follows when setting it in your shell:
 
 - No quotes - do not use quotes to enclose the string
 - No spaces - use hyphens or underscores instead to separate words.
+
+A good example TR Run Name is `EX-e2e-LandingPage`, where EX is the acronym for an Example product and LandingPage is the Cyrpess spec-filename.  Use product-acronyms to shorten the run-name -- the test-case-list (left) panel has limited width.
 
 ##### Filter cases
 
