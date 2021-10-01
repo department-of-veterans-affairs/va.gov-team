@@ -27,7 +27,7 @@
 
 [Dave is out]
 
-
+* [6603 mitigation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6603)
 
 
 ## September 29
