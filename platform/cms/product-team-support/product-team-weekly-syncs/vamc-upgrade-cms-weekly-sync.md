@@ -21,7 +21,7 @@
 
 </details>
 
-## September 31
+## October 1
 
 * Full prod launches / redirects
 * Update on Lovell plans
