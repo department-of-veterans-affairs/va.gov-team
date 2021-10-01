@@ -5,7 +5,7 @@
  1. [Github Issue labels](#labels)
  1. [Github Milestones](#milestones)  
  1. [Zenhub practice](#zenhub)
- 1. [Backlog grooming](#grooming)
+ 1. [Backlog refinement](#backlog)
  1. [Defect triage](#defect-triage)
 
 <a name="labels">
@@ -34,7 +34,7 @@ We have about [50 pre-defined labels](https://github.com/department-of-veterans-
 
 **Issue status (light blue):** These labels (groomed or not groomed) will help us prepare for grooming. 
 
-**CMS program objectives (orange):** These labels will help us track progress towards our [program objectives](#) (link forthcoming!). 
+**CMS program objectives (orange):** These labels will help us track progress towards our [program objectives](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/96698383/Product+CMS). 
 
 **CMS team practice area (green):** This should help us to encourage cross-disciplinary planning and ownership.
 
@@ -48,9 +48,7 @@ We have about [50 pre-defined labels](https://github.com/department-of-veterans-
 
  ## Github Milestones
 
-Each issue can be tagged with a milestone.  It is the responsibility of the delivery manager will ensure to ensure completed work has associated milestones. 
-
-We may also use milestones for specific product milestones, such as an MVP or release. 
+Each issue can be tagged with a milestone. We leverage milestones to track which sprint an issue is associated with (e.g. CMS Sprint 42 - Platform Team). It is the responsibility of the delivery manager will ensure to ensure completed work has associated milestones. 
 
 <a name="milestones">
 
@@ -63,22 +61,20 @@ The code review process in Github is stored on the [va.gov-cms repostory](https:
 
 ## Zenhub
 
-
-
-
+ <a name="backlog">
 
 ## Backlog management
 
-### Grooming sessions
+### Refinement sessions
 
-- Every other Monday at 3:30pm: Helpdesk and support backlog grooming 
-- Every other Tuesday at 1:30pm ET: Devops Grooming 
-- Every other Wednesday at 2pm ET: Design pod grooming 
-- Every other Friday at 12:30pm: Cross-disciplinary grooming. The agenda will usually be a few epics, and participation may depend on what epics we’re grooming. 
+- Every other Monday at 3:30pm: Helpdesk and support backlog refinement 
+- Every other Tuesday at 1:30pm ET: Devops refinement 
+- Every other Wednesday at 2pm ET: Design pod refinement
+- Every other Friday at 12:30pm: Cross-disciplinary refinement. The agenda will usually be a few epics, and participation may depend on what epics we’re refining. 
 
-It is the responsibility of the product manager to facilitate these 
+It is the responsibility of the product manager to facilitate these activities.
 
-
+<a name="backlog">
 
 ### Defect triage
 
