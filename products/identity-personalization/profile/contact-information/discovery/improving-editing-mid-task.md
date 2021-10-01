@@ -70,7 +70,7 @@ During the review step, users can update their contact information through a lin
 
 ### VA Online Scheduling
 
-Users who are missing a home address are prompted to add one. This prompt takes them to the "changing your address on VA.gov" content page, which then leads them to profile.
+Users who are missing a home address are prompted to add one. This prompt takes them to the [Changing your address in your VA.gov profile content page](https://www.va.gov/change-address/), which then leads them to profile.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/edit-contact-info-vaos-content-pg-link.png" width="50%" />
 
@@ -82,7 +82,12 @@ VAOS also has a link to profile in conjunction with a mobile number field that i
 
 - In the pre-check in questionnaire, users can update their contact information through a modal triggered by an edit button
 
+(Same UX as [forms example above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/discovery/improving-editing-mid-task.md#forms-notice-of-disagreement-and-request-a-higher-level-review))
 
+- During online check-in, if a patient needs to update their contact information, they're instructed to see a staff member. This is because the staff member needs to know about the update immediately, and the online updates do not come through in time for the patient's appointment.
 
-- During c
+  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/editing-contact-info-check-in.png" width="50%" />
 
+## Next steps
+
+TBD
