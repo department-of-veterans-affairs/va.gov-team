@@ -8,6 +8,7 @@
 |----|----|
 | [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | QA & Pre-launch tasks |
 |Add SIGI, preferred name & pronouns, and sexual orientation | Planning and technical discovery |
+|Enhanced statement of service | Planning |
 
 ### Projected timelines for current projects & enhancements
 
@@ -15,7 +16,7 @@
 |----|----|----|----|----|----|
 |**VA Profile: Notification preferences**| Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | - |
 |**Add SIGI, preferred name & pronouns, and sexual orientation** | - | - | Planning | Design, research, build, launch | TBD |
-|
+|**Enhanced statement of service** |- | - | - | Planning and TBD | TBD | 
 
 ## Completed projects & enhancements
 
