@@ -71,7 +71,7 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 - **Key result #3**: 60% of first time users of notification preferences have set at least one of the ~four~ three notification preferences available at launch within the first quarter of launch.
 
 |KPI/metric| Baseline immediately before launch (date TBD) |% of profiles with saved preferences at the end of Q4 2021 (Oct - Dec) | % of profiles with saved preferences at the end of Q1 2022 (Jan - Mar)|
-|----------|-------------|---------------|--------------|--------------|
+|----------|---------------|--------------|--------------|
 |% of profiles with notification preferences saved |0% (new feature)|TBD|TBD|
 
 - **Key result #4**: Maintain at least a 95% success rate for successful saves of notification preference information.
