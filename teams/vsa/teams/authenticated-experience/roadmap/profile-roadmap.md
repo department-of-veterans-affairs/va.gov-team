@@ -41,7 +41,6 @@ These are considered high priority because other teams are actively planning dev
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Enhanced statement of service | George Chewning | Summer 2021 | This should kickoff with the new profile team in Fall 2021 |
 |Integrate MHV profile data points into VA.gov profile | MHV | 2.10.21 | MHV would like to point all of their users to VA.gov instead of maintaining their own profile. Active converstions with VA.gov and VA Profile are beginning Feb 2021. |
 
 #### Easy enhancements we could knock out when we have time 
