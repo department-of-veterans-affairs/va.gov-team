@@ -11,10 +11,12 @@ Last updated October 1, 2021
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Kevin Hoffman| OCTO Design Director | kevin.hoffman1@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
 |Zach Morel | FE Engineer | zach.morel@gcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Melissa Rebstock | VEO lead | melissa.rebstock@va.gov |
 
 ### Table of Contents
 
@@ -86,7 +88,5 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 ### Before
 
 *Profile 2.0 prior to the addition of this data*
-
-
 
 ### After
