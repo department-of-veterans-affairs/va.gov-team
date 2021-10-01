@@ -55,7 +55,7 @@ Metrics
 -	For mature products, we do bi-weekly review, 1 product each time
 -	Backend engineers will walk us through the data, FE will do GA. And we’ll have discussion on what it means and what actions we need to take or new product iterations to develop
 
-#Quarter 4 Goals
+# Quarter 4 Goals
 Vision – New Product release, Successful Iterations
 
 1.	526
