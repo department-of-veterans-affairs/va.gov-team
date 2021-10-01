@@ -181,7 +181,7 @@ Search tool links on search results page | 4 | Didn't scroll down far enough to 
 # Recommendations
 
 ## For the Search & Discovery team
-1. **Consider consolidating all the search tools into the main site search interface**. In this way, there could be a single search box with radio buttons or checkboxes to select what to search (i.e., VA.gov, VA forms, Resources/FAQs). This would eliminate the confusion about other search tools to try and where to find them.
+1. **Consider consolidating all the search tools into the main site search interface**. In this way, there could be a single search box, possibly with radio buttons or checkboxes to select what to search (i.e., VA.gov, VA forms, Resources/FAQs). This would eliminate the confusion about other search tools to try and where to find them. We could seamlessly combine the search results from site search, Find a VA Form, and Resources & Support into one list for Veterans to see.
 1. **If we don't implement the previous recommendation, then consider implementing *all 4* of the design concepts** because each helped multiple participants to complete tasks and avoid getting stuck. Consider the following design ideas that may improve the usability of these design concepts:
     1. On the search results page, try positioning the search tool links higher up on the page or adding a visual indication that there's something below the page navigation to see.
     1. On the search landing page, try adding a visual indication that there's something below the search box to see.
