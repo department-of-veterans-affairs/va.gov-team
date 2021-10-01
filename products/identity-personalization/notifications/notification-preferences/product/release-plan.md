@@ -27,10 +27,9 @@ be behind a feature flag.
 - [Readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/notification-prefs-launch-go-no-go.md)
 
 **Desired date range for phased rollout:** 
-- 10% of users (1 week), Dates: week of 11/1 ([#30807](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30807))
-- 25% of users (1 week), Dates: week of 11/8 ([#30808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30808))
-- 50% of users (1 week), Dates: week of 11/15 ([#30809](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30809))
-- If all goes well, then go to 100% of users: week of 11/22 ([#30810](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30810))
+- 25% of users (1 week), Dates: week of 11/1 ([#30808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30808))
+- 50% of users (1 week), Dates: week of 11/8 ([#30809](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30809))
+- If all goes well, then go to 100% of users: week of 11/15 ([#30810](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30810))
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Notification Preferences - Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success)
