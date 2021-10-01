@@ -50,7 +50,7 @@ What are you trying to learn from this research?
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
 1. How will the addition of Login.gov and other design modifications to the VA.gov sign-in modal impact a user's ability to sign in?
-2. Given more information about Login.gov and ID.Me, what information does the Veteran find most important, is this information sufficient, and which credential provider would users choose if they had to select a preference?
+2. What information does the Veteran find most important or least important in a sign-in option and which type of credential provider would users prefer given the choice of goverment-created or private sector?
 
 
 ### Outcome
@@ -71,7 +71,7 @@ Consider bucketing research questions under research goals. For each question, t
 1. What usability issues does the modified design pose to the current sign-in process?
 2. Are participants able to quickly locate their current sign in provider?
 
-**Language around attributes of government-created and private sector credentials
+**Language around attributes of government-created and private sector credentials**
 
 1. Do users prefer government created credentials or private sector created credentials? 
 2. Out of the attributes provided, what information is most and least important when selecting a sign-in provider?
