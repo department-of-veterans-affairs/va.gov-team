@@ -1,6 +1,6 @@
-Claims & Appeals Quarterly Planning Q4 - 2021
+# Claims & Appeals Quarterly Planning Q4 - 2021
 
-Quarter 1 Accomplishments
+# Quarter 1 Accomplishments
 -	BDD launch (1st week December, 100% Feb)
 -	HLR launch
 -	Misc. 526 Bug Fix
@@ -8,7 +8,7 @@ Quarter 1 Accomplishments
 -	Letters bug fix
 -	526 PTSD research
 
-Quarter 2 Accomplishments
+# Quarter 2 Accomplishments
 -	NOD design & development complete. Ready to launch pending language updates from the Board
 -	526
 -	Form refresh (rolled back pending EVSS fix)
@@ -21,10 +21,9 @@ Quarter 2 Accomplishments
 -	Disability wizard move
 -	Research: Form refresh
 
-Quarter 3 Accomplishments
+# Quarter 3 Accomplishments
 -	NOD
 -	 enhancement complete (submitted by Board of Appeals)
-
 -	526
 -	Usability testing complete
 -	Disability Wizard launched
@@ -52,7 +51,7 @@ Metrics
 -	For mature products, we do bi-weekly review, 1 product each time
 -	Backend engineers will walk us through the data, FE will do GA. And we’ll have discussion on what it means and what actions we need to take or new product iterations to develop
 
-Quarter 4 Goals
+#Quarter 4 Goals
 Vision – New Product release, Successful Iterations
 
 1.	Audit readout enhancements (comparison between staging and 526 style guide)
@@ -71,7 +70,8 @@ a.	Iteration (vet board feedback)
 a.	Design?
 b.	Known error remediation
 7.	PTSD for 526 (VA Profile team dependency)
-Constraints/Risks
+
+# Constraints/Risks
 -	Time
 -	Conflicting priorities
 -	Holidays
