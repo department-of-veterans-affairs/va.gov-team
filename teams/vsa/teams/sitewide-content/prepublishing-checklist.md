@@ -14,7 +14,7 @@ Before publishing a Resources and Support article make sure these steps are also
 - [ ] If linking off of VA.gov, make sure that's indicated with the words in the label or button
 - [ ] Correct article category is selected
 - [ ] Correct benefit hub contacts are selected
-- [ ] Appropriate audience and top tags are selected
+- [ ] Appropriate audience and topic tags are selected
 - [ ] Action links repeat on the bottom if a long article
 - [ ] **For single Q&A:** Standalone button is checked
 - [ ] **For multiple FAQs:** First publish each Q&A on its own (make sure standalone button is not checked) and then publish the multiple FAQ
