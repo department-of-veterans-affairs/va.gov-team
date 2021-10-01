@@ -24,7 +24,7 @@ be behind a feature flag.
 ### Planning
 **Launch Go/No go:** Week of 11/1 (tentative), 
 - Hold go/no-go ([#30806](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30806))
-- [Readiness checklist](
+- [Readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/notification-prefs-launch-go-no-go.md)
 
 **Desired date range for phased rollout:** 
 - 10% of users (1 week), Dates: week of 11/1 ([#30807](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30807))
