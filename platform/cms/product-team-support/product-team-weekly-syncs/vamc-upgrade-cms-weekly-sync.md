@@ -23,8 +23,8 @@
 
 ## September 31
 
+* Full prod launches / redirects
 * Update on Lovell plans
-* Kevin out
 * Manila
 * PAO newsletter items
   * training exercises
