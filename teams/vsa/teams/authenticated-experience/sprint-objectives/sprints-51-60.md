@@ -342,13 +342,18 @@ Team assisted with response to incident on DD
 **PM**
 - Call center documentation
 - Respond to any QA findings
-- Begin gathering materials for staging and privacy reviews
+- Staging reiview and privacy review
+- Respond to findings from staging and privacy reviews
 
 **Design/Research**
 - Respond to any QA findings
+- Staging reiview and privacy review
+- Respond to findings from staging and privacy reviews
 
 **Frontend**
 - Respond to any QA findings
+- Staging reiview and privacy review
+- Respond to findings from staging and privacy reviews
 
 ### Alerts
 
@@ -378,22 +383,21 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 
 ### Notification Preferences
 **PM**
-- Staging & privacy review requests
-- Respond to findings from staging & privacy review requests
+- UAT go/no-go
 
 **Design/Research**
-- Address/respond to findings from staging review
-- Respond to findings from staging & privacy review requests
+- Recruit for UAT
+- Run UAT
 
 **Frontend**
-- Respond to findings from staging & privacy review requests
+- Assist with UAT as needed
+- Respond to UAT findings
 
 ## Sprint 60 (11/3 - 11/16)
 [Sprint 60 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30186)
 
 ### Notification Preferences
 **PM**
-- UAT go/no-go
 - Assist with UAT as needed
 
 **Design/Research**
