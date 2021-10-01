@@ -39,7 +39,7 @@ GA dashboard link - tk
 ## Go Live!
 ### Planning:
 **Desired date:** 
-- _Desired: week of 11/1/21 for launch to 10%_
+- _Desired: week of 11/1/21 for launch to 25%_
 - Actual: ______
 
 - [Launch go/no go results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/notification-prefs-launch-go-no-go.md)
