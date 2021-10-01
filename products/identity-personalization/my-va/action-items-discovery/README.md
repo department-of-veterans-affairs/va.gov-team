@@ -89,18 +89,6 @@ We plan to conduct a few sprints of discovery to learn more about how we could e
 
 ---
 
-## Solution Narrative
+### Key Deliverables
 
-- **May 2021**: Kickoff discovery effort.
-- **June 2021**: Exporations, research planning, and testing with Veterans.
-- **July 2021**: Wrap work and make recommendations.
-
-### Key Decisions
-
----
-   
-## Screenshots
-
-### Before
-
-### After
+[Action items discovery research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md)
