@@ -1,14 +1,14 @@
 ---
 name: Research Request Form
 about: To request a review of research materials before recruiting for a study
-title: <Type of Request> from <Team>
+title: <Research Request> from <Team>
 labels: collaboration cycle, research
 assignees: Research, lalexanderson-dsva
 
 ---
 
 ## What type of study are you planning to conduct? Check all that apply.
-- [ ] Remote moderated interview
+- [x] Remote moderated interview
 - [ ] Remote unmoderated study (card sort, tree test, chalkmark, or other tests - NO SURVEYS or QUESTIONNAIRES allowed due to PRA) 
 - [ ] In-person moderated interview
 
