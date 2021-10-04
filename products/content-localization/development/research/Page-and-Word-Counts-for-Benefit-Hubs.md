@@ -31,7 +31,7 @@ The CSV file of all urls and word counts are available at: https://github.com/de
 * Largest page: https://www.va.gov/dayton-health-care/locations/dayton-va-medical-center
 * Largest page word count: 11,917
 
-### Benefit Hubs
+### Category / Benefit Hub Stats
 
 | category                | pages | words  | avg words per page |
 |-------------------------|-------|--------|--------------------|
@@ -46,3 +46,4 @@ The CSV file of all urls and word counts are available at: https://github.com/de
 | family-member-benefites | 3     | 2104   | 701                |
 | life-insurance          | 14    | 14581  | 1042               |
 | service-member-benefits | 1     | 1047   | 1047               |
+| resources               | 93    | 29314  | 315                |
