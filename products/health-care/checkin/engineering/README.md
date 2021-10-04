@@ -12,13 +12,13 @@ Description of CIE
 
 - Description
 
-[![alt text](./architecture-diagrams/systemContextDiagram_checkInExp.png "Check In Experience System Context Diagram")](./systemContextDiagram_checkInExp.png)
+[![alt text](./architecture-diagrams/systemContextDiagram_checkInExp.png "Check In Experience System Context Diagram")](./architecture-diagrams/systemContextDiagram_checkInExp.png)
 
 ### Check In Experience Container Diagram:
 
 - Description
 
-[![alt text](./architecture-diagrams/containerDiagram_checkInExp.png "Check In Experience Container Diagram")](./containerDiagram_checkInExp.png)
+[![alt text](./architecture-diagrams/containerDiagram_checkInExp.png "Check In Experience Container Diagram")](./architecture-diagrams/containerDiagram_checkInExp.png)
 
 ### vets-website Component Diagram
 
@@ -36,7 +36,7 @@ Description of CIE
 
 - Description
 
-[![alt text](./architecture-diagrams/componentDiagram_CHIP_checkInExp.png "CHIP Component Diagram")](./componentDiagram_CHIP_checkInExp.png)
+[![alt text](./architecture-diagrams/componentDiagram_CHIP_checkInExp.png "CHIP Component Diagram")](./architecture-diagrams/componentDiagram_CHIP_checkInExp.png)
 
 ### Lorota Component Diagram
 
