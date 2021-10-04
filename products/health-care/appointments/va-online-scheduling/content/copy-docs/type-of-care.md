@@ -68,7 +68,7 @@ What care do you need? (*Required)
 ```
 
 ```
-Not seeing the type of care you need?
+Is the type of care you need not listed here?
 
 You'll need to call your VA health facility to schedule an appointment.
 
