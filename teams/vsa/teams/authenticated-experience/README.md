@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated June 2021**
+**Last updated October 4, 2021**
 
 ## Where to find us 
 
@@ -13,6 +13,10 @@
 
 ### Team Members
 
+Currently, there are **two teams** that support the authenticated experience portfolio.
+
+#### My VA, alerts, and general auth experience team
+
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
@@ -22,6 +26,13 @@
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Taylor Mitchell | FE Engineer| tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
+
+#### Profile team
+
+|Name|Role|Email|
+|----|----|-----|
+|Marci McGuire |Product Manager| marci.mcguire@gcio.com|
+|Zach Morel | FE Engineer | zach.morel@gcio.com |
 
 ## What we work on
 
