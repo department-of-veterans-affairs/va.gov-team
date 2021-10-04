@@ -17,20 +17,21 @@ For example, what if your usability test showed that a navigational effort perfo
 ## Exclusion in Recruitment
 The first step of inclusive design is recognizing exclusion. Follow the steps below to report out gaps in your sample and bring attention to underserved Veteran communities.
 
-### 1. [Use the VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to identify exclusion in your sample
+### 1. [Use the VA recruitment checker (Excel teams)](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to identify exclusion in your sample
+
 Follow the steps below:
-- Open the recruitment checker, duplicate the page, and rename the sheet with your study’s name and date.
-- Enter the final number of participants, AT users, and no shows in row 2.
-- Enter "1" in each underserved dimension (rows) the Veteran (column) identifies with. A Veteran may identify with more than one dimension.
-- Enter “0” in each underserved dimension the Veteran does not identify with.
-- If there’s a no show, replace the “1”s with “N’s.”
-- If there are underserved dimensions that have no participants due to a lack of data from the initial survey, write "unknown" under target
-- Write in any notes on no-shows or recommendations.
-- Take a screenshot of the matrix and place it into your research readout.
+1. Duplicate the template sheet and rename it to your study.																											
+2. Enter the final number of participants into the cell next to "# of participants" (C2).																											
+3. Enter the final number of AT users (J2) and no shows (Q2).																											
+4. Enter "1" in each underserved category (rows) the participant (column) identifies with. A participant may identify with more than one category.								
+5. Identify categories that don't meet their targets (in red) and provide an explanation or future research recommendations under the notes section.							
+6. Take a screenshot of this recruitment checker and place it into your research readout and history folder.																											
 
 <img width="626" alt="Screen Shot 2021-08-03 at 12 02 01 AM" src="https://user-images.githubusercontent.com/14154792/127955705-0c43df3e-0c76-468d-bcc7-03566f120ccd.png">
 
 > The 7th participant identified as over the age of 60 as a woman, so a “1” is placed within those respective rows. The 6th participant was a no-show, so their dimensions are marked with a “N.” The 5th participant did not identify with any of these dimensions, so the entire column is “0.” 
+
+> Can't access Microsoft Excel teams? You can also use the [Google Sheets version of the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Google sheets will not be accessible within the VA network, so if you're looking to share findings, take a screenshot or transition it to Microsoft Excel version.
 
 ### 2. Add the participant checker into your research readout 
 Take a screenshot of your participant checker and place it within your research readout. Write a list of the dimensions that did not meet the minimum to be representative. For example:
