@@ -18,9 +18,10 @@ Veterans are generally confused by requests:
 
 We believe that:
 
--   It isn't clear to a Veteran when an appointment becomes a request (vs. direct scheduling).
--   It isn't clear to a Veteran what an appointment request is.
--   Veterans don't know where to find information about their existing appointment requests.
+-   Veterans don't see a distinction between a request for an appointment and a self-scheduled appointment
+-   It isn't clear when an appointment becomes a request in VAOS
+-   The language "request" doesn't clearly explain what an appointment request is
+-   Veterans don't know where to find information about their existing appointment requests
 
 ### OCTO-DE Objectives
 
