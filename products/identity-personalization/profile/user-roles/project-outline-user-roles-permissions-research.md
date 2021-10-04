@@ -12,7 +12,7 @@ They need the Authenticated Experience team's assistance better defining what a 
 
 
 ## Problem Statement
-Currently, what defines a “non-Veteran” and their use cases are not well understood across the VA. Each administration—VHA, VBA, and NCA—has their own unique definitions and nuances, which significantly increase the complexity of solving for the “non-Veteran” use case. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA![image](https://user-images.githubusercontent.com/45603961/135931066-3a4f0b76-7e9f-487a-9801-23532961a93a.png)
+Currently, what defines a “non-Veteran” and their use cases are not well understood across the VA. Each administration—VHA, VBA, and NCA—has their own unique definitions and nuances, which significantly increase the complexity of solving for the “non-Veteran” use case. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
 _How might we provide better definitions of non-Veteran user roles, and their use cases?_
 
