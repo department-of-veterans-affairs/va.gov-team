@@ -20,10 +20,7 @@
 
 **PM**
 
-- Log in to staging to explore the profile
-- Review profile documents
-- Meet with AJ
-- Set up ceremonies
+- Onboarding ticket #30884
 
 **FE**
 
