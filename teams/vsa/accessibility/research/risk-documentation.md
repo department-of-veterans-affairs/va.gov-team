@@ -33,6 +33,15 @@ Follow the steps below:
 
 > Can't access Microsoft Excel teams? You can also use the [Google Sheets version of the recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Google sheets will not be accessible within the VA network, so if you're looking to share findings, take a screenshot or transition it to Microsoft Excel version.
 
+#### What if I have no shows?
+If a participant doesn't show up, fill out their column using "N" (for noshow) instead of "1" in each underserved category (row) that applies to them. For example, if your fifth participant doesn't show up, still complete their column using "N" instead of "1." In the notes section, consider writing if no shows resulted in underserved groups being left unaccounted for.
+
+#### What if some underserved categories aren't relevant to my study?
+If there are categories that are absolutely unrelated to your study, replace the target % with "Null"
+
+#### What if I the recruitment survey didn't capture data for some underserved categories like "other than honorable?"
+"other than honorable," "immigrant origin," and "expat," are currently unaccounted for in the recruitment survey. If no data exists, simply skip completing the row for each Veteran and write a brief note in the notes section.	For example, under notes, you might write "Our research did not include Veterans who were other than honorable or expats."
+
 ### 2. Add the participant checker into your research readout 
 Take a screenshot of your participant checker and place it within your research readout. Write a list of the dimensions that did not meet the minimum to be representative. For example:
 
