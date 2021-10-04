@@ -342,17 +342,17 @@ Team assisted with response to incident on DD
 **PM**
 - Call center documentation
 - Respond to any QA findings
-- Staging reiview and privacy review
+- Staging review and privacy review
 - Respond to findings from staging and privacy reviews
 
 **Design/Research**
 - Respond to any QA findings
-- Staging reiview and privacy review
+- Staging review and privacy review
 - Respond to findings from staging and privacy reviews
 
 **Frontend**
 - Respond to any QA findings
-- Staging reiview and privacy review
+- Staging review and privacy review
 - Respond to findings from staging and privacy reviews
 
 ### Alerts
