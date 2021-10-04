@@ -6,7 +6,7 @@ Background
 
 VA Online Scheduling allows Veterans to request and schedule health care appointments if they are logged into VA.gov. It is one [channel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/design/scheduling-channels-touchpoints.md) Veterans can use to schedule appointments.
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
 
 ### Problem
 
@@ -74,7 +74,7 @@ Remote, via Zoom.
 
 ### Research materials [TODO]
 
--   [Link to conversation guide](url goes here)
+-   [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/conversation-guide.md)
 -   [Link to prototype](url goes here)
 
 Recruitment
@@ -88,10 +88,13 @@ We will use Perigean to recruit Veterans for this research.
 
 10-12 Veterans with VA health care established at facilities.
 
-Primary criteria
+**Primary criteria**
 
--   Able to log-in to VAOS - ID.me, MHV, or other account
--   Has previously scheduled appointments through VAOS.
+- Has an active ID.me, MHV, or DS Logon account
+- Is able to log-in to VA.gov
+- Has established health care at a VA facility
+- Are you willing to log into your VA.gov account and show information about your health care appointments to our research team?
+- Which account do you use to log in to VA.gov - ID.me, MHV, or DS Logon?
 
 Timeline
 --------
@@ -108,7 +111,7 @@ Date/time is TBD
 
 ### Length of sessions
 
-Sessions will be scheduled for 1 hour to account for difficulties logging in. Actual test should take [TBD]
+Sessions will be scheduled for 1 hour to account for difficulties logging in.
 
 ### Availability
 
