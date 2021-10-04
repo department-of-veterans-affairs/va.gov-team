@@ -137,6 +137,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * Move any Issues that require input from the VA POs to the Product Management column
 * Move Issues that may be prioritized in the next 1-3 sprints to the UX Backlog or Eng Backlog columns
     * Ensure these issues are complete with a clear title and description, correct label, and estimation
+* Review any blocked issues
 * Review tickets tagged to the next Release (3 weeks away) to ensure accuracy
 
 **After the meeting:**
