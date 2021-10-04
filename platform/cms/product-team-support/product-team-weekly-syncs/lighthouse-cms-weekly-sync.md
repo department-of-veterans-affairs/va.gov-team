@@ -28,6 +28,23 @@
  
 </details>
 
+## Monday, October 4, 2021
+* Lovell coordination
+  * 4 facilities within Lovell that service Veterans (Captain James, Evanston, McHenry, Kenosha) will be in Lighthouse
+  * 4 additional that only service active military (USS Osborne, USS Red Rover, USS Tranquility, Zachary) will not be in Lighthouse
+    * Won't be needed in the CMS
+* Absolute URLs for services: ownership timeline for CMS
+  * New updates are getting pulled in from a Sharepoint site
+  * Manually updated, poorly formed
+  * CMS can't own it yet because we're not aware of when they go from dual-state or not
+  * Prior to turning on the full health service integration, will we be able to assume that CMS is providing correct paths?
+    * For COVID services, it's currently a detail page so unstructured data
+    * Which order the services come in through the API is important, shouldn't be maintaining it manually for much longer
+* Documentation of who to reach out to for VAST updates
+  * CMS to update KB articles and help text to point to the source of truth KB article
+* As LH looks at the pending horizon of Facilities v1, might want to look at the backend infrastructure of how everything integrates
+
+
 ## Monday, September 27, 2021
 * Creation of four new Lovell Federal facilities from Facilities sync call
 * Absolute URLs for services being pulled by LH from CMS - timeline, roadmap
