@@ -140,8 +140,8 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 
 |KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|% of logged-in users who visit My VA| 6%|TBD|TBD|
-|% of logged-in users interact with the homepage| 13% |TBD|TBD|
+|% of logged-in users who visit My VA| 6%|7%|TBD|
+|% of logged-in users interact with the homepage| 13% |15%|TBD|
 
 Additionally, we want to see if adding a My VA link to the unauth nav impacts traffic to the page. So, as part of evaluating this KR, we want to add tracking to the new My VA link to the unauth nav.
 [Top Events - Unauthenticated Clicks to My VA](https://analytics.google.com/analytics/web/#/savedreport/KPirHWA4RQWqO5YBJmIwOw/a50123418w177519031p176188361/_r.dsa=1&_.useg=userXZpoGov_R4K1a1Biwj2YNg&_.advseg=&_.sectionId=&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.filter=Navigation%20-%20Header%20-%20My%20VA)
