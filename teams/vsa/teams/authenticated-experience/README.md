@@ -22,7 +22,7 @@ Currently, there are **two teams** that support the authenticated experience por
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
@@ -36,5 +36,6 @@ Currently, there are **two teams** that support the authenticated experience por
 
 |Name|Role|Email|
 |----|----|-----|
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
 |Zach Morel | FE Engineer | zach.morel@gcio.com |
