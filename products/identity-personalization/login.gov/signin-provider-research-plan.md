@@ -75,8 +75,7 @@ Consider bucketing research questions under research goals. For each question, t
 
 1. Do users prefer government created credentials or private sector created credentials? 
 2. Out of the attributes provided, what information is most and least important when selecting a sign-in provider?
-3. Do users have enough information about government-created or private sector created credentials to tell us which provider they would prefer? 
-4. What other attributes do users value in a sign-in provider?
+3. What other attributes do users value in a sign-in provider?
 
 
 ### Hypothesis
@@ -115,7 +114,7 @@ We would like to conduct an unmoderated controlled study where participants are 
 
 Following the first click and card sort, participants click the finished button to capture feedback (likely on Optimal Workshop) and then enter in a validation code (likely on Optimal Workshop) so we can track who has participated and so participants can be compensated.
 
-An unmoderated study prevents bias. We are interested in how Veterans interact with the sign-in modal when no one is providing support or guiding their thoughts. We are also interested in whether Veterans will choose Login.gov or ID.Me, given the text provided and without outside observation. 
+An unmoderated study prevents bias. We are interested in how Veterans interact with the sign-in modal when no one is providing support or guiding their thoughts. 
 
 We have a small sample-size moderated study with Veterans planned for Fall 2021. Details for that study will be provided in that study’s research plan.
 
@@ -252,10 +251,11 @@ Please request enough dates and time slots for the number of requested participa
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Amanda Porter- ajohnson@clarityinnovates.com 	
-- Research guide writing and task development (usually but not always same as moderator):	Amanda Porter- ajohnson@clarityinnovates.com 
+- Research guide writing and task development (usually but not always same as moderator): Amanda Porter- ajohnson@clarityinnovates.com 
 - Participant recruiting & screening:	Perigean 
-- Project point of contact:	Amanda Porter ajohnson@clarityinnovates.com and Nick Soutouras- Nick.soutouras@oddball.io
-- Participant(s) for pilot test:	Naomi Marcussen- naomi.marcussen@oddball.io
+- Project point of contact: Amanda Porter ajohnson@clarityinnovates.com and Nick Soutouras- Nick.soutouras@oddball.io
+- Participant(s) for pilot test: Naomi Marcussen- naomi.marcussen@oddball.io
 - Note-takers: N/A	
-- Observers:	N/A
+- Observers: N/A
+- 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
