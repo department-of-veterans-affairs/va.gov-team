@@ -46,4 +46,4 @@ The CSV file of all urls and word counts are available at: https://github.com/de
 | family-member-benefites | 3     | 2104   | 701                |
 | life-insurance          | 14    | 14581  | 1042               |
 | service-member-benefits | 1     | 1047   | 1047               |
-| resources               | 93    | 29314  | 315                |
+| resources               | 67    | 29314  | 438                |
