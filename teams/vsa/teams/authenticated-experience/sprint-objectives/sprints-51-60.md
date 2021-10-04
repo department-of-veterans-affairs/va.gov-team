@@ -359,12 +359,12 @@ Team assisted with response to incident on DD
 
 Goal: By the end of this sprint, I would love to be able to define what needs to happen to get this work done so we can accurately scope the project.
 
-- Meet with VANotify
-- Scope technical approach
+- Meet with VANotify ([#30612](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30612))
+- Scope technical approach ([#30613](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30613))
   - How will we leverage the VANotify platform?
   - What changes do we need VANotify to make? How long will that take? Does VANotify need our help to update their platform?
   - What work do we need to do? How long will it take?
-- Finalize intended design approach and determine next steps
+- Finalize intended design approach and determine next steps ([#30636](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30636))
   - Finalize mockups
   - Do we need more research? 
   - Which notifications in VANotify to show as alerts on VA.gov?
@@ -372,7 +372,7 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 
 ### User roles research
 
-- Scope research
+- Scope research ([#30892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30892)
   - What questions do we intend to answer?
   - At a high level, what do we need to do to answer these questions?
   - How long do we think this work will take (including final research report & readout)?
