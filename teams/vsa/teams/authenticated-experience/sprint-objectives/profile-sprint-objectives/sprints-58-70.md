@@ -20,13 +20,11 @@
 
 **PM**
 
-- Onboarding ticket #30884
+- Onboarding #30884
 
 **FE**
 
-- Log in to staging to explore the profile
-- Review profile documents
-- Meet with Erik
+- Onboarding #30886
 
 ### Adding preferred name and pronouns, SIGI, and sexual orientation to thhe profile 
 
