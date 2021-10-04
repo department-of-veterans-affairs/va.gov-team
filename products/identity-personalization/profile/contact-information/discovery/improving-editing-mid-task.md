@@ -2,9 +2,7 @@
 
 Liz Lantz, VSA Authenticated Experience
 
-10/1/2021
-
-`draft`
+10/4/2021
 
 ## Background
 
@@ -21,22 +19,22 @@ We'll use what we learn to inform our approach to a consistent UX we can offer V
 
 ## Findings
 
-1. Other teams are thinking about this problem. Two teams are already using the existing modal solution, and one has created two concepts ([flow 1](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/grid) and [flow 2](https://xd.adobe.com/view/81354811-0259-4aa6-9fd0-bd4f3d28d982-d466/grid)) to solve for this problem. No one has done any validation of the modal solution, or concepts.
+1. We identified multiple tasks during which Veterans can update their profile contact information:
 
-   - One form is on production with the modal solution in place (Notice of Disagreement); the rest are in staging or prototypes
-   - One reason linking to profile and opening in another tab didn't work because the application didn't reflect the updates made in the second tab without refreshing the page.
-   - There's a lack of confidence that the modal provides a good mobile UX, but no data to back this up.
-
-2. We identified multiple tasks during which Veterans can update their profile contact information:
-
-   - Managing notification preferences.  
-   - Filling out a form (such as notice of disagreement or pre-check in questionnaire).  
+   - Managing notification preferences
+   - Filling out a form (such as notice of disagreement or pre-check in questionnaire)
    - Checking in for an appointment at a VAMC
    - When scheduling an appointment
 
    There may be more use cases, but these should provide a sufficient variety to inform the design process.
 
-3. We identified 5 patterns being used to guide people to update contact information:
+2. Two teams are already using the existing modal solution, and one has created concepts ([flow 1](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/grid) and [flow 2](https://xd.adobe.com/view/81354811-0259-4aa6-9fd0-bd4f3d28d982-d466/grid)) using an in-line editing solution. No one has done any validation of the modal solution, or concepts.
+
+   - One form is on production with the modal solution in place (Notice of Disagreement); the rest are in staging or prototypes
+   - One reason linking to profile and opening in another tab didn't work because the application didn't reflect the updates made in the second tab without refreshing the page.
+   - There's a lack of confidence that the modal provides a good mobile UX, but no data to back this up.
+
+3. There are currently at least 5 patterns being used to guide people to update contact information:
 
    - A modal triggered by an edit button styled to look like a link. The edit button style is an accessibility violation, and needs special consideration given that this approach requires multiple edit buttons in one view. (Step in form applications, pre check-in questionnaire)
    - A link to va.gov/profile (VAOS, form review step)
@@ -45,8 +43,6 @@ We'll use what we learn to inform our approach to a consistent UX we can offer V
    - Directing someone to speak to a staff member (Onsite check-in app)
 
 4. There are forms that don't pull or update contact information from VA Profile (the API that we use to populate VA.gov profile).  We're not digging into those now, but there is potential for future tie-ins, such as asking users in that flow if they want to use the information they entered to update or create their profile.
-
-   
 
 ## Examples
 
@@ -80,7 +76,7 @@ VAOS also has a link to profile in conjunction with a mobile number field that i
 
 ### Check-in Experience
 
-- In the pre-check in questionnaire, users can update their contact information through a modal triggered by an edit button
+- In the pre-check in questionnaire, users can update their contact information through a modal triggered by an edit button.
 
 (Same UX as [forms example above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/discovery/improving-editing-mid-task.md#forms-notice-of-disagreement-and-request-a-higher-level-review))
 
@@ -90,4 +86,11 @@ VAOS also has a link to profile in conjunction with a mobile number field that i
 
 ## Next steps
 
-TBD
+1. We recommend testing the modal pattern with Veterans to see how it works, especially on mobile devices and with assistive technology.  As far as we know, VA.gov hasn't done any usability testing on our modal component. Therefore, this usability testing could also be valuable in improving our design system component.
+
+   We can also test the in-line editing concept (viewable by clicking the `Update home address` link on [this screen](https://xd.adobe.com/view/81354811-0259-4aa6-9fd0-bd4f3d28d982-d466/screen/c528b32f-99b1-4ba1-928b-c5a730975e7b)) designed by Jim Adams, and see which performs better.
+
+2. Given that a new team is taking over profile work, we need to determine who would take on this usability testing, and where this fits among our other priorities.
+
+
+
