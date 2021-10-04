@@ -35,15 +35,15 @@ The CSV file of all urls and word counts are available at: https://github.com/de
 
 | category                | pages | words  | avg words per page |
 |-------------------------|-------|--------|--------------------|
-| disability              | 82    | 115382 | 1407               |
-| health-care             | 73    | 66751  | 914                |
-| education               | 59    | 25465  | 432                |
-| records                 | 10    | 4320   | 432                |
-| housing-assistance      | 17    | 12646  | 744                |
-| pension                 | 21    | 20704  | 986                |
-| careers-employment      | 20    | 9841   | 492                |
+| disability              | 79    | 115382 | 1461               |
+| health-care             | 62    | 66751  | 1077               |
+| education               | 43    | 25465  | 592                |
+| records                 | 7     | 4320   | 617                |
+| housing-assistance      | 16    | 12646  | 790                |
+| pension                 | 19    | 20704  | 1090               |
+| careers-employment      | 18    | 9841   | 547                |
 | burials-memorials       | 14    | 12103  | 865                |
-| family-member-benefites | 3     | 2104   | 701                |
-| life-insurance          | 14    | 14581  | 1042               |
+| family-member-benefites | 2     | 2104   | 1052               |
+| life-insurance          | 13    | 14581  | 1122               |
 | service-member-benefits | 1     | 1047   | 1047               |
 | resources               | 67    | 29314  | 438                |
