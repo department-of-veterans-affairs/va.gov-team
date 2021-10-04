@@ -8,37 +8,39 @@ Description of CIE
 
 - Description
 
-### Check In Experience System Context Diagram:
+## Check In Experience System:
 
 - Description
 
 [![alt text](./architecture-diagrams/systemContextDiagram_checkInExp.png "Check In Experience System Context Diagram")](./architecture-diagrams/systemContextDiagram_checkInExp.png)
 
-### Check In Experience Container Diagram:
+## Check In Experience Containers:
 
 - Description
 
 [![alt text](./architecture-diagrams/containerDiagram_checkInExp.png "Check In Experience Container Diagram")](./architecture-diagrams/containerDiagram_checkInExp.png)
 
-### vets-website Component Diagram
+## Check In Experience Components
+
+### vets-website
 
 - Description
 
 [vets-website Component Diagram image ToDo](./todo)
 
-### vets-api Component Diagram
+### vets-api
 
 - Description
 
 [vets-api Component Diagram image ToDo](./todo)
 
-### CHIP Component Diagram:
+### Check In Integration Platform (CHIP):
 
 - Description
 
 [![alt text](./architecture-diagrams/componentDiagram_CHIP_checkInExp.png "CHIP Component Diagram")](./architecture-diagrams/componentDiagram_CHIP_checkInExp.png)
 
-### Lorota Component Diagram
+### Low Risk One Time Authn/z (Lorota)
 
 - Description
 
