@@ -16,6 +16,25 @@
 
 ## Sprint 58 (10/6 - 10/19)
 
+### General onboarding
+
+**PM**
+
+- Log in to staging to explore the profile
+- Review profile documents
+- Meet with AJ
+- Set up ceremonies
+
+**FE**
+
+- Log in to staging to explore the profile
+- Review profile documents
+- Meet with Erik
+
+### Adding preferred name and pronouns, SIGI, and sexual orientation to thhe profile 
+
+
+
 ## Sprint 59 (10/20 - 11/2)
 
 ## Sprint 60 (11/3 - 11/16)
