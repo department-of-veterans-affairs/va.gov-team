@@ -4,7 +4,7 @@
  
 # Executive Summary
 
-Currently, VA.gov is home to both **Direct deposit for compensation & pension** information and **Direct deposit for edu** information (currently in staging pending launch in March 2021). The original impetus behing adding this functionality to VA.gov was two-fold:
+Currently, VA.gov is home to both **Direct deposit for compensation & pension** information and **Direct deposit for edu** information. The original impetus behing adding this functionality to VA.gov was two-fold:
 
 1. This was key functionality from eBenefits that we needed to move over in order to be able to retire eBenefits.
 2. With regards to direct deposit for comp & pen, we originally moved this functionality over to VA.gov as a security measure. 
