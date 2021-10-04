@@ -1,7 +1,7 @@
 ---
-name: Platform Orientation Template for new VFS teams/members
-about: For orienting new teams/members to Platform policies/practices
-title: Platform Orientation Template for new VFS teams/members
+name: Platform Orientation Template
+about: For orienting new VFS teams/members to Platform policies/practices
+title: Platform Orientation Template
 labels: ''
 assignees: ''
 
