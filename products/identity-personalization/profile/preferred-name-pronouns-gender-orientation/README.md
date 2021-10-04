@@ -1,6 +1,6 @@
 # Adding preferred name and pronouns, gender identity, and sexual orientation to the VA.gov profile
 
-Last updated October 1, 2021
+Last updated October 4, 2021
 
 ### Communications
 
@@ -16,7 +16,9 @@ Last updated October 1, 2021
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
 |Zach Morel | FE Engineer | zach.morel@gcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Melissa Rebstock | VEO lead | melissa.rebstock@va.gov |
+|Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
+|Laurie Baker | VBA partner | laurie.baker@va.gov |
+|Alexis Matza | Deputy Director, LGBT Health Program | alexis.matza@va.gov |
 
 ### Table of Contents
 
@@ -32,7 +34,7 @@ Last updated October 1, 2021
 
 ## Overview
 
-An executive order went out earlier this year that requires the VA to allow people to identify and update their preferred name and pronouns, gender identity, and sexual orientation. In June 2021, VEO came to VA.gov to talk about integrating this information into the VA.gov profile. 
+In June 2021, VEO came to VA.gov to talk about integrating referred name and pronouns, gender identity, and sexual orientation into the VA.gov profile. The LGBTQ Health Services office is trying to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information. 
 
 ## Problem Statement
 
@@ -68,7 +70,12 @@ OKRs and KPIs TBD
 
 ## Solution approach
 
-We will be incorporating the following metrics into the VA.gov profile: preferred name and pronouns, gender identity, and sexual oritentation. Additional details of this implementation are TBD.
+We will be incorporating the following metrics into the VA.gov profile: preferred name and pronouns, gender identity, and sexual oritentation. Additional details:
+
+- This will be supported by the **VA Profile backend**.
+- These data points currently exist in MPI but not in VA Profile, so VA Profile will need to implement these data points and establish a read/write relationship with MPI. 
+- VA Profile will be beginning this work along with us in Fall 2021, so our timeline for this work is dependent on completion of the integration of this data into the VA Profile backend.
+- As a result, the auth experience will begin and complete as much of the design and fronted aspects of this work as we can while the backend is being built. We'll then integrate with the backend and complete all necessary testing and collab cycle processes before launching this work into production.
 
 ## Key deliverables
 
@@ -82,6 +89,7 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 
 - June 2021: Request made to the VA.gov auth experience team
 - October 2021: New profile team onboarded and project kickoff
+- Fall 2021: VA Profile begins implementation of this work
 
 ## Screenshots
 
