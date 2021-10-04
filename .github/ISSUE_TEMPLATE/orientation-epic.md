@@ -1,7 +1,7 @@
 ---
-name: New Team VSP Orientation Epic Template
-about: For filing an onboarding epic on VSP.
-title: New Team VSP Orientation 
+name: Platform Orientation Template for new VFS teams/members
+about: For orienting new teams/members to Platform policies/practices
+title: Platform Orientation Template for new VFS teams/members
 labels: ''
 assignees: ''
 
