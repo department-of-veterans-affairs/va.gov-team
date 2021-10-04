@@ -33,7 +33,23 @@
 
 ### Adding preferred name and pronouns, SIGI, and sexual orientation to thhe profile 
 
+**PM**
 
+- Review product outline
+- Hold collab cycle kickoff
+- Schedule collab cycle design intent
+- Create tickets for design, content, and frontend
+- Get relevant data points (ie What is populating dropdown menus?)
+
+**Design**
+
+- Complete initial mockups
+- Hold collab cycle design intent  
+
+**FE**
+
+- Tech discovery (getting familiar with profile)
+- Start build, if possible
 
 ## Sprint 59 (10/20 - 11/2)
 
