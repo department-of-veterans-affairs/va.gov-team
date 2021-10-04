@@ -27,7 +27,7 @@ Thanks for joining us today! My name is Peter and I also have some colleagues on
 
 Before we start, a few things I want to mention:
 
-- **During this session we would like to see information about your appointments** This will mean logging into VA.gov and running through the scheduling process with your account. Anything we do in your account will not affect your VA health benefits. This information will only be used in this session. Are you comfortable with sharing your health information with us today?
+- **During this session we would like to see information about your appointments** This will mean logging into VA.gov and running through the scheduling process with your account. Anything we do in your account will not affect your VA health benefits. This information will not be used or shared outside of this research. Are you comfortable with sharing your health information with us today?
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
@@ -45,10 +45,23 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Complete an appointment request - X minutes
 
-- Step 1
-- Step 2
+- Share your screen [TODO add screen share instructions]
+- Navigate to VA online scheduling: https://www.va.gov/health-care/schedule-view-va-appointments/
+- Choose your login.
+   - You may need your phone handy if you are sent a 2FA code.
+   - Complete the log-in process
+- Start scheduling a [TOC] appointment
+- Choose [TOC]
+- Choose VA medical center or clinic (if prompted)
+- Choose any facility
+- Choose an appointment date and time
+- Choose "my reason isn't listed here"
+- Write "Test" in the details
+- Choose "Phone call"
+- Select any options
+- 
 
 ### Things to watch for:
 
@@ -93,7 +106,3 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
