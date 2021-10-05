@@ -1,6 +1,6 @@
 # Profile: potential research
 
-Last updated: 10/4/2021
+Last updated: October 5, 2021
 
 This document serves to capture smaller updates we've made to profile that don't warrant their own research study, but should be evaluated as we have the opportunity in larger studies.
 
