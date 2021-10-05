@@ -53,6 +53,50 @@ This document serves to capture smaller updates we've made to profile that don't
 - Do people understand the difference between sign-in and contact email addresses?
 - Do people hesitate to update/remove their contact email address because they think they won't be able to sign in?
 
+## Improving clarity of content for email addresses
+
+- **Release date**: 9/18/21
+- **Impacted pages:** personal and contact information
+- **Device:** mobile or desktop
+- GH issue [28425](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28425)
+
+### Research questions
+
+- Do people understand the difference between sign-in and contact email addresses?
+- Do people hesitate to update/remove their contact email address because they think they won't be able to sign in?
+
+## Adding success messages after updating contact information
+
+- **Release date:** 9/30/2021
+- **Impacted pages:** personal and contact information
+- **Device:** mobile or desktop
+- **GH Issue** [29542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29542)
+
+### Research questions
+
+- Do users feel confident that changes have saved?
+- Are there any usability hurdles or points of confusion introduced as a result of these messages?
+
+## Notification settings
+
+- **Release date:** notification settings to be added Nov 2021
+- **Impacted pages:** notification settings
+- **Device:** mobile or desktop
+
+### Research questions
+
+(To be evaluated during UAT)
+
+- Test on mobile
+- Validation of input pattern
+  - Is it triggering or overwhelming that the page loads in a warning state?
+  - Do people still have questions about what is turned on or off?
+  - Does it effectively engage people to make a selection?
+- Do people understand the auto-save functionality?
+- How do people react when their setting reflects a null state for notifications they currently receive?
+  - Recruit participants who currently get any of these notifications from the VA
+- Does the save success w/ link confirmation message in contact info help people get back to notification settings more easily?
+
 ## Test left nav, now that it's grown and we have more items
 
 - **Release date**: notification settings to be added Nov 2021
