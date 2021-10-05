@@ -9,7 +9,7 @@ Briefly describe the background of your product. Consider:
 
 The VA.gov sign-in page is used by millions of Veterans to enable access to VA benefits and services. It is a touchpoint used by every authenticated Veteran and is significant in ensuring the ability of Veterans to seamlessly access services digitally. In the coming months, additional services outside of VA.gov (eg: My HealtheVet) will begin routing users to the VA.gov sign-in page, to ensure a consistent authentication experience across VA web properties.
 
-[Link to product brief](url goes here).
+
 
 ### OCTO-DE Objectives 
 *Note: applicable only to OCTO-DE teams*
@@ -49,7 +49,11 @@ What are you trying to learn from this research?
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
+**Sign-in Modal redesign**
 1. How will the addition of Login.gov and other design modifications to the VA.gov sign-in modal impact a user's ability to sign in?
+
+**Attributes of government-created and private sector credentials**
+
 2. What information does the Veteran find most important or least important in a sign-in option and which type of credential provider would users prefer given the choice of goverment-created or private sector?
 
 
@@ -66,12 +70,12 @@ Consider bucketing research questions under research goals. For each question, t
 - Does this question serve the goals of my study?
 - Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
-**Impact of redesign**
+**Sign-in Modal redesign**
 
 1. What usability issues does the modified design pose to the current sign-in process?
 2. Are participants able to quickly locate their current sign in provider?
 
-**Language around attributes of government-created and private sector credentials**
+**Attributes of government-created and private sector credentials**
 
 1. Do users prefer government created credentials or private sector created credentials? 
 2. Out of the attributes provided, what information is most and least important when selecting a sign-in provider?
@@ -85,11 +89,11 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
 
-**Design:**
+**Sign-in Modal redesign**
 * When presented with changes to the VA.gov sign-in modal, participants will be able to select their desired credential provider.
 
-**Text:**
-* When presented with a list of attribute about governemnt-created and privately owned sign-in options, participants will be able to rank their most important and least imporant attributes. 
+**Attributes of government-created and private sector credentials**
+* When presented with a list of attributes about governemnt-created and privately owned sign-in options, participants will be able to rank their most important and least imporant attributes. 
 
 
 ## Method	
@@ -108,28 +112,23 @@ Additional resources:
 - Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
 - If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
 
-**Remote unmoderated**
+_**Remote unmoderated**_
 
-We would like to conduct an unmoderated controlled study where participants are invited to participate in the study by email and are sent a link to Optimal Workshop.  They will participate in a 2 part study, a first click test and card sort. At the end participants will be provided a validation code.
 
-Following the first click and card sort, participants click the finished button to capture feedback (likely on Optimal Workshop) and then enter in a validation code (likely on Optimal Workshop) so we can track who has participated and so participants can be compensated.
+We would like to conduct two unmoderated controlled study where participants are invited to participate in the study via email. They will be provided a link to the study in Optimal Workshop as well as a validation code so we may track who has participated and so that participants can be compensated. 
+
+**Sign-in Modal redesign**
+
+* The first study will be a Chalkmark first-click test in Optimal Workshop. Users will be tasked with signing in to determine if they are able to locate their sign in provider give the design changes to the modal. At the end participants will be provided a validation code (also in Optimal Workshop).
+
+**Attributes of government-created and private sector credentials**
+
+* The second study will be a closed card sort in Optimal Workshop. Where participants will be asked to rank attributes of sign-in providers by most important to least important. At the end participants will be provided a validation code (also in Optimal Workshop). 
 
 An unmoderated study prevents bias. We are interested in how Veterans interact with the sign-in modal when no one is providing support or guiding their thoughts. 
 
 We have a small sample-size moderated study with Veterans planned for Fall 2021. Details for that study will be provided in that study’s research plan.
 
-**_The instructions to send to confirmed participants:_**
-
-_Thank you for participating in this study. We know your time is valuable, and your feedback will help us build better products to serve you. We are exploring a redesign of the sign-in experience on Va.gov as well as what information Veterans value the most in a sign-in provider. To help us understand this, we created a prototype for you to test._
-
-_A couple of things to know:_
-* _This is a prototype, an early version of the product. Some features may not work perfectly. No actions you take in this prototype will affect your VA account, benefits, or services._
-* _Please interact with the sign-in only. Other links, buttons, and/or forms will not be available in the prototype._
-* _Please use a browser like Chrome, Firefox, and Safari and NOT Internet Explorer._
-* _We will provide you with information on cards to sort into a ranking system from most important to least important._
-* _When you are done, please click on the finished or continue button where you can provide feedback. We encourage you to be as honest as possible about what your experience was like with the product._
-
-_Thank you for participating!_ 
 
 
 ### Location
@@ -143,11 +142,6 @@ If remote, include your preferred video conferencing software. Choice of: Zoom, 
  
 
 
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
-
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
@@ -157,6 +151,37 @@ For unmoderated testing:
 - [First Click Test](https://446rp3tp.optimalworkshop.com/chalkmark/k6k271zx)
 - [Card Sort](https://446rp3tp.optimalworkshop.com/optimalsort/cj5ld45g)
 
+**First Click Email Instructions**
+
+**_The instructions to send to confirmed participants:_**
+
+_Thank you for participating in this study. We know your time is valuable, and your feedback will help us build better products to serve you. We are exploring a redesign of the sign-in experience on Va.gov. To help us understand this, we created a prototype for you to test._
+
+_A couple of things to know:_
+
+1. The activity shouldn't take longer than 10 to 15 minutes to complete.
+2. This is a prototype, an early version of the product. Some features may not work perfectly. 
+3. The actions you take in this prototype will **NOT** affect your VA account, benefits, or services.
+4. Please interact with the sign-in only. Other links, buttons, and/or forms will not be available in the prototype.
+5. Imagining that you are actually trying to complete the task, click where you would first look.
+6. Please use a browser like Chrome, Firefox, and Safari and NOT Internet Explorer. 
+
+Thank you for participating!
+
+**Card Sort Email Instructions**
+
+**_The instructions to send to confirmed participants:_**
+
+_Thank you for participating in this study. We know your time is valuable, and your feedback will help us build better products to serve you. We are exploring what information Veterans value the most in a sign-in provider. To help us understand this, we created a card sort for you to test._
+
+_A couple of things to know:_
+
+1. No actions you take in this study will affect your VA account, benefits, or services.
+2. You will be asked to rank cards from what is most important to you to what is least important to you. We encourage you to be as honest as possible about your preferences.
+3. When you have finished ranking your answers please select the "Finished" button at the top of the page.
+4. Please use a browser like Chrome, Firefox, and Safari and NOT Internet Explorer.
+
+_Thank you for participating!_ 
 
 	
 ## Recruitment	
