@@ -63,3 +63,56 @@ We spoke to 9 Veterans, who
 
 <img width="637" alt="Screen Shot 2021-10-05 at 4 20 59 PM" src="https://user-images.githubusercontent.com/66287082/136096881-9a6d67c7-b43c-4c4a-bc1c-eae488f87ded.png">
 
+## Research findings
+
+### Key findings
+- For most Veterans with smartphones, this implementation of online check-in was usable and well received.
+- Seven out of nine participants had trouble creating the text message after reviewing the poster. 
+- Making sure the wording and link looked like it came from VA helped Veterans to trust it and be more prone to click on it.
+- Adding last name and last four digits of Social Security alleviated Veteran security concerns.
+- Veterans want to be able to update their contact information with this check-in workflow; however, they accept the current workflow with the question “Do you need to update any information?” and directions to talk to staff to complete updates.
+- Seeing a list of all the day’s appointments is valuable to Veterans.
+- Seeing check-in statuses for each appointment is valuable to Veterans.
+- More research is needed to determine if telemedicine appointments should be included or connected to the online check-in experience.
+- Most Veterans would go to a staff member at the clinic if they had any questions while completing check-in.
+- MyHealtheVet and VA mobile app users understood why this check-in appointment list existed and was different from their other appointment lists.
+- Most Veterans understand why they can only check-in for one appointment at a time, but their expected starting point varied from the appointment list to the poster.
+
+### For most Veterans with smartphones, this implementation of online check-in was usable and well received.
+"[I'm] really in favor of this."
+
+"It worked fast. I was surprised with what it did. I was a little impressed. It’s not bad at all; I thought it would be cumbersome...It would work for the majority. But in cases with handicap people or individuals that aren’t computer savvy, it would freak them out. I have seen people get frustrated."
+
+### Seven out of nine participants had trouble creating the text message after reviewing the poster. 
+What method did the participants try first to craft the text message:
+- Five participants attempted to scan the QR code.
+  - Four participants had trouble scanning. Three were iOS users and one was an Android user. The different scanners led to different workflows; some led to user confusion.
+- One participant successfully started by creating a new text message.
+- Three participants tried to call the phone number.
+  - Our new hypothesis is that this may be due to using a full phone number for the test and not a short code like will exist in production.
+<img width="451" alt="Screen Shot 2021-10-05 at 4 24 12 PM" src="https://user-images.githubusercontent.com/66287082/136097246-396efd1e-4b69-42ef-99a1-47df3c3b703c.png">
+
+### Making sure the wording and link looked like it came from VA helped Veterans to trust it and be more prone to click on it. 
+"It says check in for the VA appointment. This wouldn’t be an issue for me, because I know where I got the text from. There’s a lot of awareness that you shouldn’t click on anything on your phone."
+
+- Three participants had similar comments to the one above. The other participants had no comments or complaints about this step in the workflow at all.
+- This confirms that the changes made after the last usability study were correct and built Veterans’ trust in the link.
+<img width="319" alt="Screen Shot 2021-10-05 at 4 24 53 PM" src="https://user-images.githubusercontent.com/66287082/136097346-63327537-e029-4c36-8e95-36cc55c7cb60.png">
+_Caption: Link URL due to prototype. Actual URL is go.usa.gov link._
+
+### Adding last name and last four digits of Social Security alleviated Veteran security concerns.
+"It is basically the same information that you give someone when you are checking in with an individual. It is nothing different than doing that."
+- Unlike previous studies, no participant expressed concern on how we were identifying them. 
+  - All participants commented that last name and last four were expected and appropriate when checking in. 
+    - Last four was preferred by all participants over entering their date of birth.
+      - However, most participants felt similar to this participant, "Adding date of birth would be ok.” 
+<img width="322" alt="Screen Shot 2021-10-05 at 4 26 17 PM" src="https://user-images.githubusercontent.com/66287082/136097536-9c77b941-a4ea-4bb6-976c-4550319d6bb7.png">
+
+### Veterans want to be able to update their contact information within this check-in workflow; however, they accept the current workflow with the question “Do you need to update any information?” and directions to talk to staff to complete updates. 
+These two quotes summarize the feedback received from all participants:
+- "Well I would think it would be online like it is with everything else."
+- "That seems reasonable." - in response to the current workflow.
+<img width="258" alt="Screen Shot 2021-10-05 at 4 27 04 PM" src="https://user-images.githubusercontent.com/66287082/136097627-da6750dd-b9d6-436f-b994-ecd2ccccf58d.png">
+
+
+
