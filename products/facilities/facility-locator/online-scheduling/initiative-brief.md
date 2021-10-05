@@ -48,8 +48,7 @@ As an unauthenicated experience, the Facility Locator cannot provide the most co
 
 - **Value Risks** (will people use it): 
     - This value is established by the prioritization and effort already applied to the VA Onling Scheduling tool. 
-    - (need to add usage metrics, if available)
-  
+    - According to the VAOS DOMO Dashboard, Veterans initiate an average of 20-25K online scheduling events weekly. Scheduling competion during the month of September was 54% (exceeding their KPI success rate of 50%). 
 
 - **Usability Risks** (can people figure out how to use it):
     - The Facility Locator already has the ability to display local specific service information with actionable links in search results. Usage metrics for COVID-19 vaccine services and benefit pages for community urgent care and emergency care do not demonstrate any concerns about usability. 
