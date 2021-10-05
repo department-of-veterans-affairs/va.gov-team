@@ -5,11 +5,12 @@ Online scheduling is available for _some_ Veterans at _some_ VA health facilitie
 As an unauthenicated experience, the Facility Locator cannot provide the most complete set of services available for online scheduling for a particular Veteran. However, new mandates are making some services (such as primary care and metnal health care) available for online scheduling by all Veterans. 
 
 **Related/Associated product(s)**
-- Facility Locator | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+- [Facility Locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
 
 ## Problem
 * **What is the problem and who is affected? And, what evidence do we have of the problem?** 
-    * Many Veterans would prefer to schedule VA health appointments using online scheduling. 
+    * During research interviews, Veterans express a preference to schedule VA health appointments using online scheduling. 
+    * This is supported by the support for the VA online scheduling initiative and by Veteran use of the tool. (According to the VAOS DOMO Dashboard, Veterans initiate an average of 20-25K online scheduling events weekly). 
 
 * **How does this initiative help further OCTO-DE's mission and goals?**
     * OCTO-DE objective: Provide accurate health service information for local facilities 
@@ -17,20 +18,48 @@ As an unauthenicated experience, the Facility Locator cannot provide the most co
 
 ### Hypotheses
 
-## Desired User Outcomes
+## Outcomes
+### Desired User Outcomes
 * Veterans can see which VA health facilities offer online scheduling for the service they searched and smoothly connect to onlilne scheduling from Facility Locator search results. 
 
-## Undesired User Outcomes
+### Undesired User Outcomes
 * Veterans are sent to the online scheduling tool for services they are unable to schedule online. 
 
-## Desired Business Outcomes
+### Desired Business Outcomes
 * Enabling online scheduling could also improve facility phone queue volume, improving the experience for Veterans who may be calling with more pressing needs.
 
-## Undesired Business Outcomes
+### Undesired Business Outcomes
 * Unintended negative impacts on VA online scheduling tool.
 * Unintended negative impact on provider schedules (caused by Veterans self-scheduling unnecessary appointments)
 
 ---
+## Current experience
+
+### Facility Locator 
+<details>
+   <summary> Facility Locator current experience </summary>
+
+![image](https://user-images.githubusercontent.com/55411834/136097453-2b868c09-ad12-4c56-be3b-257f687a184f.png)
+   
+   </details>
+
+<details>
+   <summary> Examples of facility and service specific calls to action on the Facility Locator </summary>
+ 
+   ![image](https://user-images.githubusercontent.com/55411834/136097768-92dc9576-a868-45eb-b6b2-8757d301b8e1.png)
+   
+   ![image](https://user-images.githubusercontent.com/55411834/136097940-5c6ba86c-d9af-4685-adc7-f01b51ef6e42.png)
+   
+ </details>
+ 
+ ### VAMC
+ <details>
+   <summary> Examples of facility and service specific information as displayed on VAMC pages </summary>
+ 
+
+![image](https://user-images.githubusercontent.com/55411834/136098209-d61f02b7-68ee-4ae4-bcab-427c944b4c94.png)
+</details>
+
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs) 
@@ -43,8 +72,6 @@ As an unauthenicated experience, the Facility Locator cannot provide the most co
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
     - This value is established by the prioritization and effort already applied to the VA Onling Scheduling tool. 
