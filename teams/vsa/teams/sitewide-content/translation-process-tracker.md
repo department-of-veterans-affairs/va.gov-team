@@ -31,5 +31,5 @@
 | Updated pregnancy question on vaccine and CLP pages | 9/10 | 9/10 | 9/22 | 9/22 | 9/22 | | 9/22 |
 | Updates to booster page | | 9/20 | 9/22 |
 | Updates to vaccine page (reordering page and removing J&J info, etc.) | | 9/20 | 9/22 |
-| New About COVID-19 vaccinees page | 9/24 | 9/24 | 9/28 |
-| Reworked main vaccine mini hub page | 9/24 | 9/24 | 9/28 |
+| New About COVID-19 vaccines page | 9/24 | 9/24 | 9/28 | 10/5 | 10/5 |
+| Reworked main vaccine mini hub page | 9/24 | 9/24 | 9/28 | 10/5 | 10/5 |
