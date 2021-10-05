@@ -24,7 +24,7 @@ Audits are performed on a first-come, first-served basis and are scheduled with 
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886)
 
 **VFS**
-- [ ] Coordinate and address accessibility findings with VA's 508 office.
+- [ ] Coordinate and address accessibility findings with VA's 508 office [via Audit Request](https://depo-platform-documentation.scrollhelp.site/developer-docs/Instructions-for-VA-508-Office-document-review.1857913061.html). 
 - [ ] Close this ticket when all steps above are completed.
 
 ## Artifacts
