@@ -98,7 +98,7 @@ What method did the participants try first to craft the text message:
 - Three participants had similar comments to the one above. The other participants had no comments or complaints about this step in the workflow at all.
 - This confirms that the changes made after the last usability study were correct and built Veterans’ trust in the link.
 <img width="319" alt="Screen Shot 2021-10-05 at 4 24 53 PM" src="https://user-images.githubusercontent.com/66287082/136097346-63327537-e029-4c36-8e95-36cc55c7cb60.png">
-_Caption: Link URL due to prototype. Actual URL is go.usa.gov link._
+Caption: Link URL due to prototype. Actual URL is go.usa.gov link.
 
 ### Adding last name and last four digits of Social Security alleviated Veteran security concerns.
 "It is basically the same information that you give someone when you are checking in with an individual. It is nothing different than doing that."
