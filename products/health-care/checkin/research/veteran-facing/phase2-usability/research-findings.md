@@ -114,5 +114,23 @@ These two quotes summarize the feedback received from all participants:
 - "That seems reasonable." - in response to the current workflow.
 <img width="258" alt="Screen Shot 2021-10-05 at 4 27 04 PM" src="https://user-images.githubusercontent.com/66287082/136097627-da6750dd-b9d6-436f-b994-ecd2ccccf58d.png">
 
+### Seeing a list of all the day’s appointments is valuable to Veterans.
+- All participants commented that they liked seeing a list of all their appointments for the day.
+- Other suggestions made by Veterans when reviewing this page were:
+  - The ability to refer to this list of appointments throughout the day.
+  - The addition of room and floor numbers for each appointment.
+<img width="289" alt="Screen Shot 2021-10-05 at 4 28 04 PM" src="https://user-images.githubusercontent.com/66287082/136097739-5db7dd58-ad56-4f61-ac3b-76a7f6d5d2bd.png">
+
+### Seeing check-in statuses for each appointment is valuable to Veterans.
+“The little instructions that are under the appointment are super valuable, because you can plan the time better."
+- All but one Veteran found all of the following statuses helpful:
+  - This appointment is past the time period for online check-in.
+  - You already checked in for this appointment.
+  - You can check in now for this appointment.
+  - It is too early to check in for this appointment. Try again later.
+  - Online check-in isn’t available for this appointment.
+    - Multiple Veterans were concerned that we used the term “ineligible” to describe this status.
+- The one Veteran didn’t want to see any appointment that they were too late to use mobile check-in.
+<img width="298" alt="Screen Shot 2021-10-05 at 4 29 09 PM" src="https://user-images.githubusercontent.com/66287082/136097900-275892f8-2c7b-498b-91ea-50f3de0b948b.png">
 
 
