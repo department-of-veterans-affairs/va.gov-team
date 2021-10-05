@@ -133,4 +133,49 @@ These two quotes summarize the feedback received from all participants:
 - The one Veteran didn’t want to see any appointment that they were too late to use mobile check-in.
 <img width="298" alt="Screen Shot 2021-10-05 at 4 29 09 PM" src="https://user-images.githubusercontent.com/66287082/136097900-275892f8-2c7b-498b-91ea-50f3de0b948b.png">
 
+### More research is needed to determine if telemedicine appointments should be included or connected to the online check-in experience.
+- When eliciting initial interest in displaying telemedicine appointments within the online check-in experience, there was no consensus among the participants.
+  - Participants ranged from “Yes, absolutely” and “I don’t see why not” to “Not sure” and “I don’t think so.”
+
+### Most Veterans would go to a staff member at the clinic if they had any questions while completing check-in.
+- All of the participants stated that they would go to a staff member with questions, because the staff members are “right there.”
+  - Two participants were concerned that staff members wouldn’t be able to answer questions specifically about the online experience, but staff would be able to check them in using the normal in-person process.
+
+### MyHealtheVet and VA mobile app users understood why this check-in appointment list existed and was different from their other appointment lists.
+- Seven out of nine participants were MyHealtheVet (MHV) users.
+- One participant utilized the VA mobile app.
+- Multiple participants stated they used the MHV and mobile app appointment lists to prepare for future appointments and this appointment list was for day of activities.
+- One participant suggested adding facility name to the appointment cards similar to MHV. It would help if they had appointments at multiple facilities that day.
+
+### Most Veterans understand why they can only check-in for one appointment at a time, but their expected starting point varied from the appointment list to the poster.
+- All Veterans, except one, expected or understood checking in for one appointment at a time.
+  - "I like it, that way it does not confuse you by having to check in all at once."
+  - One Veteran wanted to be able to check-in for all of their appointments for the day at once.
+- What Veterans tried first, in order to check in for a second appointment:
+  - Five would start at the poster again.
+  - Three would go back to the appointment list web page.
+
+### Additional findings
+- One Veteran saw the links available in the mobile header and footer as confusing in this workflow.
+  - About the header...“I am a little confused on the search menu and sign in, where will it take you to. I am not really sure what I would be signing into. What menu would come up; I have no idea what it would show me. I don’t think it needs to be there. When you are in this box to check in, you aren’t trying to log into ebenefits.”
+  - About the footer…“It says here if you need help ask a staff member ,but you have the contact us here. If someone is new to it, then they may think of hitting contact us and that it would be someone in the office.”
+
+## Recommendations
+- Explore ways to improve the first step in our workflow.   
+  - Look into ways to help Veterans understand how to scan QR codes, such as a list of recommended scanners with instructions.
+  - Change the first step completely.
+    - If we do, look into more accessible options than a poster.
+- Don’t change the wording or link address sent via SMS.
+- Keep the addition of last name and last four of Social Security as the way to verify identity.
+  - If the removal of Social Security numbers is mandated, replace it with date of birth.
+- Keep the current “Do you need to update any information?” page, because the functionality to review and update their contact information is coming soon.
+  - This also helps staff capture information updates, which is an important metric for staff performance.
+- Keep the daily itinerary of all appointments, but complete future research into 
+  - how to provide a reference appointment list to Veterans (connection to VAOS),
+  - and wayfinding (room and floor numbers).
+- Implement all check-in statuses on the appointment list, but remove the term “ineligible” from the wording within the one status.
+- Conduct more research to understand all the telemedicine use cases and how they connect to online check-in.
+- Remove the phone numbers from the “Need help” section, since most Veterans would go to a staff member with questions anyway and clinic phones are transitioning to the call center.
+- Add the facility name to the appointment list to address the scenario of appointments at different facilities within one day.
+- Work with engineering on behaviors when a Veteran attempts to check-in for their second appointment of the day.
 
