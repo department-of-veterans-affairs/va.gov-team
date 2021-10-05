@@ -15,6 +15,7 @@ Bug Fixes
 ## Release: 9/14
 New & Improved
 - General Improvements 
+
 Bug Fixes
 - Addressed Sev 1 & Sev 2 Bugs
 
