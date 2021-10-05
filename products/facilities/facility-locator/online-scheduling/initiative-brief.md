@@ -17,6 +17,10 @@ As an unauthenicated experience, the Facility Locator cannot provide the most co
     * OCTO-DE objective: Help Veterans manage their health services online
 
 ### Hypotheses
+* We can incorporating online scheduling availability into the displayed facility information in Facility Locator and make it possible for Veterans to smoothly link to the online scheduling tool (VAOS) from locations in their search results _if_
+  * we can determine the best source of truth for online scheduling data at a facility and service level 
+  * we make the data available to Facility Locator (via Lighthouse, CMS or other process)
+  * we identify broadly available services from a business and technical perspective
 
 ## Outcomes
 ### Desired User Outcomes
@@ -75,7 +79,7 @@ As an unauthenicated experience, the Facility Locator cannot provide the most co
 
 - **Value Risks** (will people use it): 
     - This value is established by the prioritization and effort already applied to the VA Onling Scheduling tool. 
-    - According to the VAOS DOMO Dashboard, Veterans initiate an average of 20-25K online scheduling events weekly. Scheduling competion during the month of September was 54% (exceeding their KPI success rate of 50%). 
+    - Scheduling completion during the month of September was 54% (exceeding their KPI success rate of 50%). Completion is impacted by the availability of online scheduling for the facility and service the Veteran seeks. We can mitigate this risk in our work by surfacing online scheduling information only for the most broadly available services.
 
 - **Usability Risks** (can people figure out how to use it):
     - The Facility Locator already has the ability to display local specific service information with actionable links in search results. Usage metrics for COVID-19 vaccine services and benefit pages for community urgent care and emergency care do not demonstrate any concerns about usability. 
