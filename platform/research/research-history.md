@@ -47,6 +47,12 @@ This does not include research for Appeals projects, which is stored in differen
 - [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery/research)
 - List of keywords: alerts, action items, notifications, My VA, card pattern
 
+#### August 18-24: Check-in, identity verification and multiple appointments usability study
+*Healthcare Experience, Lead Researcher: Kristen McConnell*
+- Number of participants: 9 Veterans 
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/phase2-usability)
+- List of keywords: Veterans, appointments, check-in, text message check-in, digital check-in, medical appointments, identity verification, multiple appointments
+
 ### July 2021
 
 #### July 28-August 11: VA facility selection interactions A/B test
