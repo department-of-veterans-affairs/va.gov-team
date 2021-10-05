@@ -5,6 +5,7 @@ New & Improved
 
 - Users can now view if they or the facility canceled an appointment
 - Add Network Security Configuration File to App
+
 Bug Fixes
 
 - Fixed Web view button breakout to display web page by the native browser. (Google Pixel 3 XL)
