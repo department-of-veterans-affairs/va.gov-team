@@ -84,13 +84,14 @@ VAOS also has a link to profile in conjunction with a mobile number field that i
 
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/images/editing-contact-info-check-in.png" width="50%" />
 
-## Next steps
+## Next step: Usability testing
 
-1. We recommend testing the modal pattern with Veterans to see how it works, especially on mobile devices and with assistive technology.  As far as we know, VA.gov hasn't done any usability testing on our modal component. Therefore, this usability testing could also be valuable in improving our design system component.
+We recommend testing the modal pattern with Veterans to see how it works, especially on mobile devices and with assistive technology.  As far as we know, VA.gov hasn't done any usability testing on our modal component. Therefore, this usability testing could also be valuable in improving our design system component.
 
-   We can also test the in-line editing concept (viewable by clicking the `Update home address` link on [this screen](https://xd.adobe.com/view/81354811-0259-4aa6-9fd0-bd4f3d28d982-d466/screen/c528b32f-99b1-4ba1-928b-c5a730975e7b)) designed by Jim Adams, and see which performs better.
+We can also test the in-line editing concept (viewable by clicking the `Update home address` link on [this screen](https://xd.adobe.com/view/81354811-0259-4aa6-9fd0-bd4f3d28d982-d466/screen/c528b32f-99b1-4ba1-928b-c5a730975e7b)) designed by Jim Adams, and see how that performs compared to the modal.
 
-2. Given that a new team is taking over profile work, we need to determine who would take on this usability testing, and where this fits among our other priorities.
+Proposed test flows:
 
-
+- Notification settings (simple task, one field)
+- Form flow (updating within form flow, and during review stage at the end of the flow)
 
