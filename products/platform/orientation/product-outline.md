@@ -54,10 +54,12 @@ Platform is making 2 assumptions, also detailed in the problem statement above.
 
 ## Solution Approach
 
-MVP solution:
+### MVP solution:
+
 The MVP will include migrating all existing Orientation slide decks to the Getting Started page of Platform Website. 
 
-Phase 1 solution:
+### Phase 1 solution:
+
 Phase 1 will include the following:
 1. Redesign the Getting Started/Platform Orientation page, and will include transfering content out of the General Orientation deck to pages within Platform Website. 
 2. Platform also plans to include a solution for giving new teams/team members knowledge/an overview of VA.gov and potentially sharing veterans use cases. This will either manifest as:
@@ -66,7 +68,8 @@ Phase 1 will include the following:
 3. Platform would like to modify an existing or create a new Github ticket (that is linked and accessible from Platform Website) that will notify Platform team members of the new VFS team members (not new teams). This will help Platform manage intake of new team members as right now there is no reliable process.
 4. Hosting orientation sessions on a recurring schedule (with dates/times posted on Platform Website) and teams can sign up via Calendly. 
 
-Phase 2 solution:
+### Phase 2 solution:
+
 Using General Orientation as an example, other Platform teams will follow suit and transfer content from their Orientation decks over to Platform Website. For orientation decks where there is no defined Platform team owner (ie Design Orientation), we will need to identify a solution. 
 
 A more detailed approach has been documented and is currently commented out. View file in raw form to read in detail.
