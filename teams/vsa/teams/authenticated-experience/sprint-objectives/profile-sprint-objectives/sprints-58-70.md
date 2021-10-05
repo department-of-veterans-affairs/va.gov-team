@@ -16,7 +16,7 @@
 
 ## Sprint 58 (10/6 - 10/19)
 
-### General onboarding
+### General onboarding & team management
 
 **PM**
 
@@ -26,25 +26,26 @@
 
 - Onboarding #30886
 
-### Adding preferred name and pronouns, SIGI, and sexual orientation to thhe profile 
+### Adding preferred name and pronouns, SIGI, and sexual orientation to the profile 
 
 **PM**
 
 - Review product outline
 - Hold collab cycle kickoff
 - Schedule collab cycle design intent
-- Create tickets for design, content, and frontend
-- Get relevant data points (ie What is populating dropdown menus?)
+- Create tickets for design and frontend
 
 **Design**
 
 - Complete initial mockups
+- Collaborate on copy with content team
 - Hold collab cycle design intent  
 
 **FE**
 
+- Review product outline
 - Tech discovery (getting familiar with profile)
-- Start build, if possible
+- Start build
 
 ## Sprint 59 (10/20 - 11/2)
 
