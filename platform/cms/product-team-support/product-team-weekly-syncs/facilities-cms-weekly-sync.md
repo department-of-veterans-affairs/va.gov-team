@@ -29,7 +29,7 @@
 
 * [6603 mitigation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6603)
 
-Location sort logic 
+VAMC Location list sort logic 
 - Location for documentation?
 - Can we get CMS input on settings in CMS or on editorial side which can impact sort order? 
 - Facilities issue [#30774](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
