@@ -1,6 +1,6 @@
 # Profile: potential research
 
-Last updated: 10/4/2021
+Last updated: 10/5/2021
 
 This document serves to capture smaller updates we've made to profile that don't warrant their own research study, but should be evaluated as we have the opportunity in larger studies.
 
@@ -17,29 +17,6 @@ This document serves to capture smaller updates we've made to profile that don't
 - Do people encounter usability issues having to get back up to the profile menu? (e.g. do we need the back to top component in profile)
 - Are any other UX hurdles encountered since the menu is no longer sticky?
 
-## Clarifying that we don't handle international phone numbers
-
-- **Release date**: 4/21/21
-- **Impacted pages:** personal and contact information
-- **Device:** mobile or desktop
-- GH issue [13246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13246) and [22533](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22533)
-
-### Research questions
-
-- Is it clear to people that we don't handle international phone numbers?
-
-## Adding DD214 link
-
-- **Release date**: TBD
-- **Impacted pages:** military history
-- **Device:** mobile or desktop
-- GH Issue [#11053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11053)
-
-### Research questions
-
-- Is it helpful to people to have this link?
-- Is this sufficient?
-
 ## Add FAQ around what departments get updated when a veteran updates their contact info
 
 - **Release date**: 4/15/2021
@@ -53,9 +30,32 @@ This document serves to capture smaller updates we've made to profile that don't
 - Is it helpful to people to have this information?
 - Is this sufficient?
 
+## Clarifying that we don't handle international phone numbers
+
+- **Release date**: 4/21/21
+- **Impacted pages:** personal and contact information
+- **Device:** mobile or desktop
+- GH issue [13246](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13246) and [22533](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22533)
+
+### Research questions
+
+- Is it clear to people that we don't handle international phone numbers?
+
+## Improving clarity of content for email addresses
+
+- **Release date**: 9/18/21
+- **Impacted pages:** personal and contact information
+- **Device:** mobile or desktop
+- GH issue [28425](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28425)
+
+### Research questions
+
+- Do people understand the difference between sign-in and contact email addresses?
+- Do people hesitate to update/remove their contact email address because they think they won't be able to sign in?
+
 ## Test left nav, now that it's grown and we have more items
 
-- **Release date**: TBD
+- **Release date**: notification settings to be added Nov 2021
 - **Impacted pages:** profile 
 - **Device:** mobile or desktop
 
@@ -65,3 +65,15 @@ This document serves to capture smaller updates we've made to profile that don't
 - Do the navigation labels make sense to people?
 - Do we need to think about grouping some labels?
 - More to come...
+
+## Adding DD214 link
+
+- **Release date**: TBD
+- **Impacted pages:** military history
+- **Device:** mobile or desktop
+- GH Issue [#11053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11053)
+
+### Research questions
+
+- Is it helpful to people to have this link?
+- Is this sufficient?
