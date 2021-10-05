@@ -47,4 +47,19 @@ We analyzed appointment data (particularly looking at our proposed pilot site...
 
 ## Methodology
 ### Method and detailed research questions
-We conducted 9 remote moderated tests via Zoom using the Perigean contract. The Veterans provided feedback using a poster, Twilio, and interactive UXPin prototype. They employed the laptop hugging method to enable easier transition and observations from the poster to text portion of the workflow. The complete conversation guide can be found on the [VA’s GitHUB.
+We conducted 9 remote moderated tests via Zoom using the Perigean contract. The Veterans provided feedback using a poster, Twilio, and interactive UXPin prototype. They employed the laptop hugging method to enable easier transition and observations from the poster to text portion of the workflow. The complete conversation guide can be found on the [VA’s GitHUB](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/phase2-usability/conversation-guide.md).
+
+<img width="1343" alt="Screen Shot 2021-10-05 at 4 20 50 PM" src="https://user-images.githubusercontent.com/66287082/136096842-78e6e9d1-70da-45f3-a347-555166ac0355.png">
+
+### Participant Demographics
+We spoke to 9 Veterans, who
+- have a smartphone (4 iOS and 5 Android).
+- currently use VA health care.
+- had an in-person medical appointment at a VA facility within the last 2 years.
+- had a variety of current check-in preferences:
+ - 3 preferred the kiosk
+ - 2 preferred to talk to staff members.
+ - 4 had no preference between kiosk and staff.
+
+<img width="637" alt="Screen Shot 2021-10-05 at 4 20 59 PM" src="https://user-images.githubusercontent.com/66287082/136096881-9a6d67c7-b43c-4c4a-bc1c-eae488f87ded.png">
+
