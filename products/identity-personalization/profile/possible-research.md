@@ -1,6 +1,6 @@
 # Profile: potential research
 
-Last updated: 10/5/2021
+Last updated: 10/4/2021
 
 This document serves to capture smaller updates we've made to profile that don't warrant their own research study, but should be evaluated as we have the opportunity in larger studies.
 
@@ -40,18 +40,6 @@ This document serves to capture smaller updates we've made to profile that don't
 ### Research questions
 
 - Is it clear to people that we don't handle international phone numbers?
-
-## Improving clarity of content for email addresses
-
-- **Release date**: 9/18/21
-- **Impacted pages:** personal and contact information
-- **Device:** mobile or desktop
-- GH issue [28425](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28425)
-
-### Research questions
-
-- Do people understand the difference between sign-in and contact email addresses?
-- Do people hesitate to update/remove their contact email address because they think they won't be able to sign in?
 
 ## Improving clarity of content for email addresses
 
