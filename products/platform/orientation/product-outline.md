@@ -54,10 +54,17 @@ Platform is making 2 assumptions, also detailed in the problem statement above.
 
 ## Solution Approach
 
-MVP/Phase 1 solution:
-The MVP will have 2 parts. The first iteration of the MVP will include migrating all existing Orientation slide decks to the Getting Started page of Platform Website. 
+MVP solution:
+The MVP will include migrating all existing Orientation slide decks to the Getting Started page of Platform Website. 
 
-The 2nd iteration will focus on the design of the Getting Started page, and will include transfering content out of the General Orientation deck to pages within Platform Website. Platform also plans to include a solution for giving new teams/team members knowledge/an overview of VA.gov and potentially sharing veterans use cases. This will either manifest as a VA.gov Overview video that we ask VFS teams to watch, or asking VFS teams to perform a list of tasks on VA.gov with staging log ins. Lastly, Platform would like to modify an existing or create a new Github ticket (that is linked and accessible from Platform Website) that will notify Platform team members of the new VFS team members (not new teams). This will help Platform manage intake of new team members as right now there is no reliable process.
+Phase 1 solution:
+Phase 1 will include the following:
+1. Redesign the Getting Started/Platform Orientation page, and will include transfering content out of the General Orientation deck to pages within Platform Website. 
+2. Platform also plans to include a solution for giving new teams/team members knowledge/an overview of VA.gov and potentially sharing veterans use cases. This will either manifest as:
+   - A VA.gov Overview video that we ask VFS teams to watch, or/and
+   - Asking VFS teams to perform a list of tasks on VA.gov with staging log ins. 
+3. Platform would like to modify an existing or create a new Github ticket (that is linked and accessible from Platform Website) that will notify Platform team members of the new VFS team members (not new teams). This will help Platform manage intake of new team members as right now there is no reliable process.
+4. Hosting orientation sessions on a recurring schedule (with dates/times posted on Platform Website) and teams can sign up via Calendly. 
 
 Phase 2 solution:
 Using General Orientation as an example, other Platform teams will follow suit and transfer content from their Orientation decks over to Platform Website. For orientation decks where there is no defined Platform team owner (ie Design Orientation), we will need to identify a solution. 
