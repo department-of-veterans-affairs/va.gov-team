@@ -24,6 +24,7 @@
 ## October 8
 
 * Help desk
+  * VAMC QA checklist
 * PAO newsletter ideas?
 
 ## October 1
