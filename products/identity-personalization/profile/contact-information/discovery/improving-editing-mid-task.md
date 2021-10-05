@@ -14,6 +14,7 @@ We identified the need for a reusable, consistent way for Veterans to update pro
 
 1. Identify where, if at all, we have already have contact info edit-in-place functionality on VA.gov and how it is working for Veterans.
 2. Learn about other profile info edit-in-place use cases.
+3. Use what we learn to determine how we might move forward in creating a consistent mid-task editing experience for profile contact information, regardless of where a Veteran is on VA.gov.
 
 We'll use what we learn to inform our approach to a consistent UX we can offer Veterans for updating contact information regardless where they are on VA.gov
 
