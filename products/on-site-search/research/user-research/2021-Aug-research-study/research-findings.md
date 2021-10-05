@@ -214,7 +214,7 @@ If any new design concepts get launched, we should look at the analytics and ass
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/conversation-guide.md)
 
-[Interview notes]()
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/research/user-research/2021-Aug-research-study/notes)
 
 
 ## Tools used for Synthesis
