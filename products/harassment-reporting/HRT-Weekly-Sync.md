@@ -24,10 +24,10 @@
 
 </details>
 
-## September 30, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
+## October 7, 2021 - Stage: Mobile Design / Interactive Prototype / User Research 
 ### Agenda Items:
 1. Program/Stakeholder Update - @Soni/Josh
-2. Status of Legal Review --> Timeline for anticipated Landing Page Launch?   
+2. PDF Copy of Landing Page ISO Legal Review --> Timeline for anticipated Landing Page Launch?   
 3. Research / Recruiting Plan --> thanks for all the support and assistance.
 4. Roundtable Questions, Comments. 
 
