@@ -212,23 +212,37 @@ _would like to include a screenshot of the VA.gov homepage to ensure we are reac
 ### Recruitment criteria
 List the total number and type (Veterans, caregivers, etc.) of participants for this study.
 
-We require 180 participants, with 10 participants in each segment:
+We require 180 participants, Group A (First Click Test) and Group B (Card Sort) with 10 participants in each segment:
 
-**DS Logon:**
+**Group A- DS Logon:**
 * Segment #1: 10 participants who sign in with DS Logon AND are new to va.gov (2 years or less)
 * Segment #2: 10 participants who sign in with DS Logon AND are infrequent users of va.gov (once a year)
 * Segment #3: 10 participants who sign in with DS Logon AND are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
 
-**MHV**
+**Group B- DS Logon:**
+* Segment #1: 10 participants who sign in with DS Logon AND are new to va.gov (2 years or less)
+* Segment #2: 10 participants who sign in with DS Logon AND are infrequent users of va.gov (once a year)
+* Segment #3: 10 participants who sign in with DS Logon AND are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
+
+**Group A- MHV**
 * Segment #4: 10 participants who sign in with MHV AND are new to va.gov (2 years or less)
 * Segment #5: 10 participants who sign in with MHV AND are infrequent users of va.gov (once a year)
 * Segment #6: 10 participants who sign in with MHV AND are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
 
-**ID.Me**
+**Group B- MHV**
+* Segment #4: 10 participants who sign in with MHV AND are new to va.gov (2 years or less)
+* Segment #5: 10 participants who sign in with MHV AND are infrequent users of va.gov (once a year)
+* Segment #6: 10 participants who sign in with MHV AND are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
+
+**Group A- ID.Me**
 * Segment #7: 10 participants who sign in with ID.Me AND are new to va.gov (2 years or less)
 * Segment #8: 10 participants who sign in with ID.Me AND are infrequent users of va.gov (once a year)
 * Segment #9: 10 participants who sign in with ID.Me AND are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
 
+**Group B- ID.Me**
+* Segment #7: 10 participants who sign in with ID.Me AND are new to va.gov (2 years or less)
+* Segment #8: 10 participants who sign in with ID.Me AND are infrequent users of va.gov (once a year)
+* Segment #9: 10 participants who sign in with ID.Me AND are frequent users (i.e. dependent on claims etc. or who visit va.gov daily or weekly)
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
