@@ -26,7 +26,7 @@ With this round of research, we are looking to test the usability and design of 
 
 In prior research, half of the Veterans were concerned that check-in only utilized their phone number to verify they were the right person checking in. We also found out that last name and last 4 digits of SSN were commonly asked to verify identity within current check-in workflows.
 
-We analyzed appointment data (particularly looking at our proposed pilot site...Martinsburg WV) and found over half of Veterans have more than one appointment on any given day. With our MVP scope, those Veterans would not be able to complete check-in. We want to rectify that in Phase 2.
+We analyzed appointment data (particularly looking at our proposed pilot site in Martinsburg WV) and found over half of Veterans have more than one appointment on any given day. With our MVP scope, those Veterans would not be able to complete check-in. We want to rectify that in Phase 2.
 
 ### Research questions
 - Does the addition of last name and last 4 of SSN help the Veterans feel more secure about utilizing this check-in solution?
@@ -84,9 +84,10 @@ We spoke to 9 Veterans, who
 "It worked fast. I was surprised with what it did. I was a little impressed. It’s not bad at all; I thought it would be cumbersome...It would work for the majority. But in cases with handicap people or individuals that aren’t computer savvy, it would freak them out. I have seen people get frustrated."
 
 ### Seven out of nine participants had trouble creating the text message after reviewing the poster. 
-What method did the participants try first to craft the text message:
-- Five participants attempted to scan the QR code.
-  - Four participants had trouble scanning. Three were iOS users and one was an Android user. The different scanners led to different workflows; some led to user confusion.
+Participants used several methods to craft the text message:
+- Five participants scanned the QR code. 
+  - One participant was successful without guidance from researchers.
+  - Four participants had trouble scanning. Three were iOS users and one was an Android user. The different scanners led to different workflows; some led to user confusion. 
 - One participant successfully started by creating a new text message.
 - Three participants tried to call the phone number.
   - Our new hypothesis is that this may be due to using a full phone number for the test and not a short code like will exist in production.
@@ -161,11 +162,11 @@ These two quotes summarize the feedback received from all participants:
   - About the footer…“It says here if you need help ask a staff member ,but you have the contact us here. If someone is new to it, then they may think of hitting contact us and that it would be someone in the office.”
 
 ## Recommendations
-- Explore ways to improve the first step in our workflow.   
+- Explore ways to make it easier for Veterans to start the online check-in process, in order to address the current usability issues with the QR code.   
   - Look into ways to help Veterans understand how to scan QR codes, such as a list of recommended scanners with instructions.
-  - Change the first step completely.
+  - Possibly change the first step completely, such as not starting with a poster or QR code.
     - If we do, look into more accessible options than a poster.
-- Don’t change the wording or link address sent via SMS.
+- Keep the SMS wording and link address as go.usa.gov, since Veterans found it trustworthy.
 - Keep the addition of last name and last four of Social Security as the way to verify identity.
   - If the removal of Social Security numbers is mandated, replace it with date of birth.
 - Keep the current “Do you need to update any information?” page, because the functionality to review and update their contact information is coming soon.
