@@ -38,9 +38,13 @@ Most of the time, a VistA site contains a VAMC, identified with an sta3n code, a
 
 (Not all CBOCs in this site are shown)
 
+![VistA site with three facilities](./VistA_site.png)
+
 In the above screenshot, we'd typically call 442 a parent site.
 
 In a limited number of cases, VA health systems have been consolidated into a single VistA instance. In that case, there are multiple, independent health systems in a single instance:
+
+![Integrated VistA site with four parent facilities](./integrated_site.png)
 
 In this case, there are four locations we'd call parent sites, and they have sta6aid codes, rather than only sta3n codes.
 
