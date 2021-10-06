@@ -123,6 +123,8 @@ There are several general use cases around Certificate of Eligibility:
 
 ### Known issues
 - Updates to VSO contact information is a manual process.
+- If a 21-22 or 21-22a is received by paper or through eBenefits that doesn't have a matching VSO number, it will not show up in any VSO's work queue.
+- If a veteran sends their 21-22 or 21-22a directly to VA and the VSO does not use SEP, the VSO will not see the representation request and the veteran's representation will not be valid.
 - Many VSOs do not use SEP and prefer to send information from their proprietary case management systems to VA through Direct Mail.
 - VSO reported issues:
     - Incorrect data in SEP leads to missed submissions in SEP
