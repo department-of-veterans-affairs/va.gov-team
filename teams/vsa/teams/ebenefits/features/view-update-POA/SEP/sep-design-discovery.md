@@ -51,6 +51,31 @@ There are approximately 6000 current users of SEP. These users include:
 - VA Accredited Agents
 - Private attorneys
 
+## Business owners, SMEs, and Related systems
+- OGC is responsible for accreditation of representatives. Unclear if they manage Representative selection or open access to Veteran files.
+- EVSS
+
+### Related Systems
+The following are systems VSOs identified:
+- Direct Mail Upload
+- Centralized Mail Portal (CMP)
+- VBMS
+- VetsPro
+- Citrix Access Gateway (CAG)
+
+The following systems and databases were identified during SME discovery:
+- eFolder
+- D2D
+- CorpDB
+- EVSS
+
+### SME Contacts
+- Melissa Rebstock
+- Laurie Baker
+- Michael Taylor
+- Michael Young
+
+
 <details>
   <summary><strong>Claims submitted through SEP versus VA.gov and eBenefits</strong> (Click to show diagram)</summary>
   <img width="276" alt="Screen Shot 2021-10-05 at 9 06 56 PM" src="https://user-images.githubusercontent.com/84141672/136131035-68f4655d-205e-412a-9ba4-845c4c49eab3.png">
