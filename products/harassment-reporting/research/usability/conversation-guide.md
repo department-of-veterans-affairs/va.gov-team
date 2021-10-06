@@ -26,19 +26,28 @@
 
 ## Intro - 5 minutes
 
-Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about...
+Thank you for joining us today! My name is Cindy. Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker, [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
 
-Before we start, I want to go over a few things:
+I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to get your feedback on a tool for reporting harassment that occurred at a VA site. 
 
-- **This session may take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veterans' needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
+**Are you comfortable proceeding with this session?**
+If no:
+- **Is there anything we can do to make you feel more comfortable?**
+#### [Get verbal confirmation or end session]
+
+If yes:
+
+Thank you! We’re excited to talk with you today. Before we start, I want to give you an idea of what this session will be like...
+
+- **This session may take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task. Please let me know if you need a break at any time.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing this tool to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
-  - I could dictate it to you, put it in the Zoom chat, email it to you, *(only if on a phone)* text it to you.
+- I will be sharing a web link with you during the session. **How would you prefer to receive the URL?** 
+  - I could read it to you, put it in the Zoom chat, email it to you, or *(only if on a phone)* text it to you.
     - *(if email)* Is your current email XYX *(get from participant roster)* ?
     - *(if text)* What is your mobile phone number?
     
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** I use the recording to confirm that we have captured your opinions accurately. I delete the recording after I analyze it, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
