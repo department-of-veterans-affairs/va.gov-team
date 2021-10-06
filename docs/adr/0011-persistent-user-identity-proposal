@@ -1,0 +1,53 @@
+# 11. Persistent User Identity Proposal
+
+Date: 2021-10-06
+
+Whom:
+- Trevor Bosaw
+- Josh Scanish
+- John Bramley
+- Alexander Garcia
+- Joe Niquete
+- Nick Soutouras
+- Cody Reinold
+
+## Status
+
+Pending
+
+## Context
+Currently, users who log onto va.gov during repeat visits have potentially inconsistent behavior from the site, especially if they switch the credential they login with.
+This is most stark with aspects of the site that leverage persistent data, such as forms that the user has partially filled out, and which must be matched up to the user.
+The Accounts table is used today to aid in this, it creates a table entry that links an idme_uuid, icn, sec_id, to different data in our schema, and which we can retrieve
+even after a user session has been ended and a new one started. 
+
+There are some issues with the current implementation, however, which make the intended experience inconsistent. The Accounts table relies on a matching idme_uuid, first and foremost.
+Then will attempt to match with an ICN or a sec_id, depending on the retrieval method. If a user logs in with different credentials, such as ID.me from va.gov, and then later 
+DS Logon from MyHealtheVet (then navigates to VA.gov), they may see different forms and other persistent data depending on the credential.
+
+My Proposal involes refactoring the work done for the Accounts table into something more along the lines of how we actually deal with our users. This involves the concept
+of a 'credential_user', and a 'real_user', and tables to represent each of these: `user_verifications` and `user_accounts`.
+
+A 'credential_user' is our perspective of a user simply as information we get from a specific credential provider. For example, if a user logs in with MHV, we would
+expect to have an MHV uuid representing their account uuid. When a user authenticates, we would store the 'credential_user' by finding or creating an entry in the `user_verifications`
+table. This table would store the uuid from whatever credential provider they logged in with, whether or not the user was verified (LOA3/IAL2) and a link to an entry in the `user_accounts`
+table.
+
+A 'real_user' is our perspective of an actual human behind the entity logging in, regardless of how they logged in. These are reflected in a `user_accounts` table, and would
+only have an optional icn value (if icn is set, we know they are a real, verified human. Because we can make an MPI call with only an icn, this value represents all of the 'real'
+data we have on the 'real_user'. If an icn is not set, we know there is a human behind the entity logging in, but we cannot verify it to any human in our records).
+
+Every 'credential_user' will have a link to a single 'real_user', and every `user_verifications` entry will have a link to a `user_accounts` record. If a user was not verified
+and then becomes verified, the `user_accounts` entry may either simply be updated with the new icn, or, if an existing `user_accounts` record exists with that icn, it will be 
+replaced by the existing `user_accounts` entry, and the unverified `user_accounts` entry will be moved into a `deprecated_user_accounts` table.
+
+Every persistent table on the backend will point to a `user_accounts` uuid, as we want to correlate these to a 'real_user', not to the specific credential. By organizing
+things this way, we will have consistent behavior for the end user, regardless of whatever credential combination they often use. This 
+
+## Decision
+
+1 or more sentences summarizing the decision made.
+
+## Consequences
+
+1 or more sentences summarizing the expected consequences of the decision.
