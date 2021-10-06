@@ -41,7 +41,16 @@ Promo discovery - Role of CMS team
 
 ## October 6
 
-Dave out
+[Dave out]
+
+Action links
+
+Defect affecting generation of Unique IDs for h2s and h3s 
+
+Promos discovery
+
+
+
 
 ## September 29
 
