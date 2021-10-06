@@ -43,11 +43,16 @@ Promo discovery - Role of CMS team
 
 [Dave out]
 
+React acts and banners (slack threads from yesterday)
+
 Action links
 
 Defect affecting generation of Unique IDs for h2s and h3s 
+* [6603 mitigation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6603)
 
 Promos discovery
+
+React widgets in CMS
 
 
 
