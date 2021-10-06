@@ -71,8 +71,7 @@ There are approximately 6000 current users of SEP. These users include:
 Many VSOs send information directly to VBMS through direct upload, bypassing SEP.
 <details>
   <summary><strong>Claims submitted through SEP versus VA.gov and eBenefits</strong> (Click to show diagram)</summary>
-  
-  ![insert image from desktop]
+  <img width="276" alt="Screen Shot 2021-10-05 at 9 06 56 PM" src="https://user-images.githubusercontent.com/84141672/136131035-68f4655d-205e-412a-9ba4-845c4c49eab3.png">
 </details>
 
 
