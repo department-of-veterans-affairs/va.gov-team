@@ -25,15 +25,15 @@ If a Veteran experiences an incident of harassment or other inappropriate behavi
 We will conduct remote moderated research sessions via Zoom. Participants will be given tasks to do using a mobile design prototype in UXPin. All participants will be using smartphones to match the form factor of the prototype.
 
 ## Participants and Recruitment	
-Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We plan to start by talking with subject-matter experts (SMEs) who work with Veterans dealing with harassment. Such SMEs may include mental health counselors or social workers at VA facilities or Vet Centers who counsel harassment victims, VA staff who field harassment reporting calls from Veterans and/or VA employees, or patient advocates at the VA. We will talk with the SMEs about what we want to do, get feedback from them on our research approach, and ask for names of specific Veterans who they think might feel comfortable participating. Then we will invite the SMEs (or a social worker) to observe the sessions with the Veterans they suggest to provide support during and afterwards as needed.
+Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
+- Work with VA contacts to get volunteers (and send their names and contact information by encrypted email to Lauren Alexanderson to share with Perigean).
+- Work with VA contacts to find social workers or other clinicians to observe the sessions with the Veterans and provide support if triggering occurs. 
+- Limit the number of observers in the session.
+- Provide an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
 
 ### Participants to recruit
 
-We also might be able to get from another Veteran the names of Veterans who have experienced harassment at the VA, reported it, and had closure/resolution of their case. 
-
-Ideally we would like to talk with 8 Veterans, but we may proceed instead with 5 SMEs and 5 Veterans.
-
-Ask Perigean to recruit 16 Veterans from the names we provide in order to get 8 completed sessions using the following criteria:
+Ask Perigean to recruit **16** Veterans from the names we provide in order to get **8** completed sessions using the following criteria:
 
 ### Must have for participants
 - All are Veterans
@@ -46,7 +46,8 @@ Ask Perigean to recruit 16 Veterans from the names we provide in order to get 8 
 
 ### Good to have for participants
 - At least 3 participants over 60
-- At least 2 people with a cognitive disability (e.g., TBI)- At least 2 people of color
+- At least 2 people with a cognitive disability (e.g., TBI)
+- At least 2 people of color
 - At least 4 women
 - At least 1 participant 35 or under
 - At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
@@ -56,10 +57,9 @@ Ask Perigean to recruit 16 Veterans from the names we provide in order to get 8 
 - At least 1 non-native English speaker
 
 
-
 ### Additional questions to ask in the screener
 - What device will you use to join the research session? (must be a smartphone, NOT iPad/tablet, computer, or laptop)
-- What is your native or first language? (if not English, record as "non-native English speaker")
+- What is the first language that you learned to speak as a child? (if not English, record as "non-native English speaker")
 
 ## Timeline
 #### Desired Timeline: Oct 11-14, 2021 
