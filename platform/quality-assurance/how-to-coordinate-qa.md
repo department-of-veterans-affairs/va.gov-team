@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-coordinate-QA-testing.1903558744.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # How to coordinate QA testing
 
 1. With as much advance notice as possible, reach out to the QA lead on your program* via Slack to set up a time to go over the product and intended functionality.  You should begin to consider how to test the user stories you are tackling this sprint once you have user stories and acceptance criteria in draft form.
