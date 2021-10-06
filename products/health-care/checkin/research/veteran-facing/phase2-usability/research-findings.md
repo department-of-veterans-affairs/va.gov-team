@@ -148,7 +148,7 @@ These two quotes summarize the feedback received from all participants:
 - Multiple participants stated they used the MHV and mobile app appointment lists to prepare for future appointments and this appointment list was for day of activities.
 - One participant suggested adding facility name to the appointment cards similar to MHV. It would help if they had appointments at multiple facilities that day.
 
-### Most Veterans understand why they can only check-in for one appointment at a time, but their expected starting point to check in for their second appointment varied from the appointment list to the poster.
+### Most Veterans understand why they can only check-in for one appointment at a time, but their expected starting point to check-in for their second appointment varied from the appointment list to the poster.
 - All Veterans, except one, expected or understood checking in for one appointment at a time.
   - "I like it, that way it does not confuse you by having to check in all at once."
   - One Veteran wanted to be able to check-in for all of their appointments for the day at once.
