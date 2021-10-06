@@ -81,15 +81,42 @@ Initial screening interaction
 	- If yes: Do you mind if I observe you completing check-in and ask 2 follow-up questions about the experience? It will help us to continue to improve the check-in experience for Veterans like yourself.
 		- If no: That is ok. Point them to the updated poster, so they can complete mobile check-in by themselves.
 		- If yes: Do you have more than one VA appointment today that you have not already completed (e.g., pre-appointment labs)?
+
 Observing Veteran
 - Direct them to the poster, and watch them complete check-in.
 	- Things to watch for:
 		- Did they successfully complete check-in?
-		- If not, what happened? Where did they get stuck?
-		- Did the Veteran talk to the MSA/clerk for any reason?
-			- Why?
+			- If not, what happened? Where did they get stuck?
+			- Did the Veteran talk to the MSA/clerk for any reason?
+				- Why?
+Follow up questions
 
+- Did you feel secure when checking in today?
+- If the veteran didn't use a QR code, can we ask one more follow-up question here: "when was the last time (if at all) you've used a QR code?"
+- On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
+	- Why? What are your impressions of the experience?
+Thank you for helping us continue to improve the check-in experience.
 
+## Method 2: Go to MVP site and observe/interview staff
+### Methodology and Recruitment
+- During the same onsite trip as the above Veteran study, work with the site to schedule time to observe and interview staff members in the clinics that are utilizing the new VA.gov check-in solution.
+- Try to gather feedback and observations from as many staff and roles as possible during the visit.
 
-	
-	
+### Staff Conversation Guide
+- Hello. I am [name] and I'm a researcher for the VA. We are here today to talk to you about the new Veteran mobile phone check-in process and its impact on your job. I would like to observe you checking in Veterans and ask you a few questions if that is alright?
+- Things to watch for while observing staff:
+	- Did they still engage and talk to Veteran who completed check-in on VA.gov?
+		- Why?
+- How has the most recent release of the mobile check-in impacted your work?
+	- What do you like about it?
+	- What do you dislike about it?
+	- Did you have to change anything about your workflow to accommodate this new process?
+		- Probe more into changes to tool usage and job duties as needed.
+		- For MSA Supervisor Theresa: How has this mobile check-in process affected your supervisory duties and how you balance your team?
+		- How do you know if a mobile phone check-in occurred and clinical staff have already been notified?
+	- If a Veteran checks in via mobile, but is on the ICB list, how do you manage that?
+	- How many Veterans check-in in the hallway before they enter the waiting room? Poster is on the waiting room entrance door.
+- How has mobile check-in impacted the Veteran experience?
+	- Has it affected complaints about long waits/Veterans in the waiting room who have not actually been checked in?
+- On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process be utilized at another VA clinic?
+- What would you change about the new mobile check-in?
