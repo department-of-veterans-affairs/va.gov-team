@@ -30,22 +30,37 @@
 ### Vet Centers
 
 Vet Center onboarding - any updates?
+* Jane: invititations out for 12/13
+  * Helpdesk is setting up accounts Tuesday the 12th at the latest
+  * Office hours invites have been forwarded 
 
-Vet Center usability study
-* List of District 5 users to recruit from
+Vet Center usability study -
+* Rachel: By Oct 8 research plan will be ready, recruitment of 5+ happening next week, getting list of District 5 users to recruit from
+* Michelle: happy to suggest, or pull from the active or inactive users. 
+* Rachel: a mix is good, it's hard to tell who's further on. Will create a list and run it past Michelle and Jane for a review. 
+* Michelle will give Jessica S a headsup that a member of CMS team will be sending an email. Probably Rachel. 
+
+Survey results
+* Michelle: analyzing now, 40 respondents, very candid
 
 ### VAMC 
 
 VAMC Location list sort logic 
-* Location for documentation?
-* Can we get CMS input on settings in CMS or on editorial side which can impact sort order? 
 * Facilities issue [#30774](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
+* Can we get CMS input on settings in CMS or on editorial side which can impact sort order? 
+  * Kevin: Only the menu items can have their order controlled in the CMS
+  * Facilities team is looking into what rules are in place
+* Location for documentation?
+  * Knowledge Base articles listed on the 3rd column at https://prod.cms.va.gov/help/vamc/vamc-guides (probably "About facilities and locations content").
+  * More process/governance coming for KB 
 
-Consistency for data structure
+Consistency for data structure in Centralized content
+* Q&As for Vet Centers coming from Centralized content have a different data structure from other Q&As on the site. 
+* Send any specifics to Steve before writing transformation code to see if anything can be done with the drupal output to match the format used in other non-centralized content components. 
 
 Alignment/product responsibility for new CMS team members?
-
-
+* TBD still. Jay, Amandeep will reach out if they are working on any FE stuff. 
+* Suzanne and Erika as well will need some touchpoints, TBD.  
 
 ## September 29
 
