@@ -1,17 +1,37 @@
 # Research Plan and Converstion Guide for Check-in, Phase 2 & 3 UAT and Phase 4, October 2021
 ## Background
-This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. With this round of research, we are looking to get feedback on the updated release of our MVP with real users checking in and staff. Lastly, we are interested in understanding if the updated poster provides clarity during the check-in process, and capture initial feedback from the staff on the view-only contact list.
+This product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The healthcare experience team in particular is creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. 
+With this round of research, we are looking to validate the updated release of our MVP  with real users checking in and staff. Updated functionality includes additional identity verification steps, checking in for multiple appointments, read-only contact information, and the use of the revised poster throughout this process. 
+
+### OCTO-DE Objectives
+This research supports the following objectives:
+- Veterans can manage their health services online
+- Logged-in users have a personalized experience, with relevant and time-saving features
+- Increase the completion rate of online transactions
+- Increase usage of digital, self-service tools 
+- Decrease time to successful complete and submit online transactions
 
 ### Veteran Journey
 The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 
+## Research goals
+- Conduct user acceptance testing to evaluate if multiple steps in the check-in process are functioning as planned at the pilot location.
+- Understand if the new poster is easier to use, addresses pain points from the original poster, and identify improvements (if any).
+- Understand if the staff workflow has been affected by the implementation of new features.
+
 ### Research questions
-This research study should cover:
-- How are the additional identity verification and multiple appointments features doing now that they are live at the pilot site?
-- What is the impact to Veterans and staff?
-- Usability review of the read-only contact information review feature.
-- Usability testing of the revised poster.
-- - Is the new poster solving the previously found usability problems or Veterans not understanding how to text and that they should wait for a link to appear in their test message to complete check-in.
+- This research study should cover:
+- Are Veterans able to utilize the new mobile check-in solution without intervention from MSAs? 
+	- Are the additional verification steps clear to the Veteran?
+	- How is the read-only contact information review feature being used?
+	- How is the multiple check-in feature being used? 
+	- Does the new poster addresses the following pain points observed from the original poster (if at all): 
+		- Clearly communicates the need to wait for a link  to continue the check-in process
+		- Offers guidance on how to send a text to initiate check-in 
+	- Are veterans able to complete the task with the new poster? 
+- After a Veteran utilizes the new mobile check-in solution, are they called back for their appointment without having to talk to a clerk/Medical Support Assistant (MSA)?
+- What is the impact to the staff workflow when Veterans check in on their mobile phones?
+- How do Veterans and staff feel about the mobile check-in solution?
 
 ### Hypothesis
 - The Veterans will successfully check in via their mobile phone, and verify their identities without additional points of friction.
