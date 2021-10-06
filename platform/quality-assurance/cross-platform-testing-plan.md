@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA.gov-Cross-Platform-Testing.1905000473.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # VA.GOV Cross-Platform Testing Plan
 **NOTE:** A version of this document that contains credentials is stored in the [*va.gov-team-sensitive*](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/quality-assurance/cross-platform-testing-plan.md) repository.
 
