@@ -86,8 +86,8 @@ We spoke to 9 Veterans, who
 ### Seven out of nine participants had trouble creating the text message after reviewing the poster. 
 Participants used several methods to craft the text message:
 - Five participants scanned the QR code. 
-  - One participant was successful without guidance from researchers.
-  - Four participants had trouble scanning. Three were iOS users and one was an Android user. The different scanners led to different workflows; some led to user confusion. 
+  - One participant was successful without guidance from the moderator.
+  - Four participants had trouble scanning and required guidance from the moderator to be successful. Three were iOS users and one was an Android user. The different scanners led to different workflows; some led to user confusion. For instance, one participant's QR scanner asked them to download something resulting in confusion, so the researcher directed them to use their camera to scan the QR code.
 - One participant successfully started by creating a new text message.
 - Three participants tried to call the phone number.
   - Our new hypothesis is that this may be due to using a full phone number for the test and not a short code like will exist in production.
