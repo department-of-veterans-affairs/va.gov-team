@@ -76,7 +76,7 @@ We spoke to 9 Veterans, who
 - More research is needed to determine if telemedicine appointments should be included or connected to the online check-in experience.
 - Most Veterans would go to a staff member at the clinic if they had any questions while completing check-in.
 - MyHealtheVet and VA mobile app users understood why this check-in appointment list existed and was different from their other appointment lists.
-- Most Veterans understand why they can only check-in for one appointment at a time, but their expected starting point varied from the appointment list to the poster.
+- Most Veterans understand why they can only check-in for one appointment at a time, but their expected starting point to check-in for their second appointment varied from the appointment list to the poster.
 
 ### For most Veterans with smartphones, this implementation of online check-in was usable and well received.
 "[I'm] really in favor of this."
