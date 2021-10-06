@@ -5,7 +5,7 @@ Copy and paste this document into your project's folder and fill it out!
 This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
 
 ## PROJECT BRIEF
-_To be filled out with a VA.gov lead prior to starting discovery work._
+_To be filled out with a VA.gov/Veteran Facing Serfices (VFS) lead prior to starting discovery work._
 
 ### Project Name
 _Short name for the project (e.g., "In-person authentication," "disability benefits application," "benefits navigator")._
