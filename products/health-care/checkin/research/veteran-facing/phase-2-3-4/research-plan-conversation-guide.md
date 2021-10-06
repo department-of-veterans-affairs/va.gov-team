@@ -53,7 +53,7 @@ We will observe/intercept Veterans during their visit.
 Research: 1 full day onsite following the October 20th release.
 
 ## Team Roles	
-- Moderator: Eva Floyd, Kristen McConnell
+- Moderator: Eva Floyd, Julie Adair 
 - Research guide writing and task development: Eva Floyd, Kristen McConnell
 
 ## Method 1: Go to MVP site and observe/interview Veterans
