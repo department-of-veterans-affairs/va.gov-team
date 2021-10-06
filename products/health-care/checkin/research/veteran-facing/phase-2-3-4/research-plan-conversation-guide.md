@@ -34,33 +34,37 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 - How do Veterans and staff feel about the mobile check-in solution?
 
 ### Hypothesis
-- The Veterans will successfully check in via their mobile phone, and verify their identities without additional points of friction.
-- The Veterans will be able to view multiple appointments for the day. 
+- The Veterans will successfully check-in via their mobile phone, and verify their identities without additional points of friction.
+- The updated poster successfully communicates the need to wait for a link to continue the check-in process and offers guidance on how to send a text to initiate check-in. 
+- The Veterans will be able to view and understand the display of multiple appointments for the day.
 - There should be minimal to no impact to clinical staff's workflow on how they know a Veteran has arrived for their appointment.
 - Veteran and staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
-- MSAs are satisified with the read-only fields provided for contact information.
-
-
-## Method	
-- 1-2 team members travel to the MVP site, Pain Clinic, Martinsburg VAMC.
-- Conduct intercept interviews with Veterans before their appointment.
-- Identify best place in the facility to conduct intercepts.
-- Work with clinic staff to determine best approach to intercept Veterans.
-- Aim to intercept at least 5-10 Veterans as they enter the clinic, before they check in for their appointment.
-- Watch the Veteran complete check-in on their mobile phone.
-- Ask follow-up questions.
-- Utilize Net Promoter Score (NPS) in conjuntion with qualitative questions to evaluate Veteran and staff experiences. NPS can be used over time to see fluctuations in the experience, but will not be the only user experience metric evaluated.
+- Veterans who confirm that their contact information is correct will minimize the number of questions that MSA need to ask a Veteran. 
+	- Note: MSAs should only need to review next of kin and insurance information for Veterans who confirmed their contact information.
 
 ### Location
-Research will be conducted at the Pain Clinic, part of a VA Healhcare Facility, in Martinsburg, WV. 
+The research will be conducted at the Pain Clinic, part of a VA Healthcare Facility, in Martinsburg, WV.
 	
 ### Recruitment approach
 We will observe/intercept Veterans during their visit.
 
 ## Timeline
-- Research: 1 full day onsite mid-late October, 2021
+Research: 1 full day onsite following the October 20th release.
 
 ## Team Roles	
-- Moderator: Kristen McConnell, Eva Floyd
-- Research guide writing and task development):	Kristen McConnell, Eva Floyd
+- Moderator: Eva Floyd, Kristen McConnell
+- Research guide writing and task development: Eva Floyd, Kristen McConnell
+
+## Method 1: Go to MVP site and observe/interview Veterans
+###Methodology and recruitment
+- 1-2 team members travel to the pilot site, The Pain Clinic, Martinsburg VAMC.
+- Work with pain clinic staff to identify a high-volume day for researchers to attend, so we can maximize the numbers of possible intercept interviews.
+	- Work with clinic staff to determine the best approach to intercept Veterans.
+	- Aim to intercept at least 5-10 Veterans as they enter the clinic before they check-in for their appointment.
+- Watch the Veteran complete check-in on their mobile phone.
+- Ask follow-up questions.
+- Utilize Net Promoter Score (NPS) in conjunction with qualitative questions to evaluate Veteran and staff experiences. NPS can be used over time to see fluctuations in the experience, but will not be the only user experience metric evaluated.
+
+## Veteran Conversation Guide
+	
 	
