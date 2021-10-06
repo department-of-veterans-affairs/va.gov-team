@@ -43,18 +43,28 @@ Promo discovery - Role of CMS team
 
 [Dave out]
 
-* Intros
+Amandeep's role on FE
 
-* React acts and banners (slack threads from yesterday)
+Promos
+* PW is a couple weeks out from being able to work on them
 
-* Action links
+React-only, mobile only pages (?) and banners visibility settings (slack threads from yesterday)
+* Full width banners are appearing on some pages where they shouldn't, like the mobile checkin
+* React apps use client-side routing. 
+* We don't have granularity for mini-routes in react apps, but as far as we know that's not needed.
+* We've removed trailing slash on the banner path setting which will  solve the immediate problem, because these pages are not /index.html pages. 
+* Another FE PR by Kelson will address 
 
-* Defect affecting generation of Unique IDs for h2s and h3s 
-  * [6603 mitigation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6603)
+Staging.va.gov has CMS data that dates back to 3am ET. 
+* In Tugboat we can manually rebuild the prod mirror on demand. 
+* When staging.va.gov rebuilds (on every merge), it does a new content build 
 
-* Promos discovery
+Action links in rich text 
+* CMS is looking to support these in Rich text editors for PW/Sitewide content team products 
 
-* React widgets in CMS
+[#6603 Defect affecting generation of Unique IDs for h2s and h3s](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6603)
+
+
 
 
 
