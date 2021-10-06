@@ -10,7 +10,7 @@ When a Veteran, Service Member, or one of their dependents nees help filing a cl
 
 The Stakeholder Enterprise Portal is the tool that provides access for VSOs and accredited agents to act on behalf of Veterans and view pending representation requests. It has been described as "eBenefits for VSOs". However, many VSOs do not use SEP and prefer to send information from their proprietary case management systems to VA through Direct Mail.
 
-#### Solution
+#### Current Solution
 
 VSOs and accredited representatives that do not use their own system need a way to view pending representation requests and perform actions on behalf of veterans they are representing. Needed functions include:
 - Log in as a VSO
@@ -26,6 +26,8 @@ VSOs and accredited representatives that do not use their own system need a way 
 - Get a list of queued requests in progress
 - Send partial applications to other members within their organization for review and/or approval (example: some VSOs do not allow county service officers to submit. The CSO must send to the NSO for review. NSO can approve and submit or return to CSO for edits.)
 
+There is a congressional mandate that VA Form 21-22 must be able to be submitted electronically. This could be satisfied through representatives' access to direct upload.
+
 <!-- ### Business cases -->
 <!-- 
 ### Business processes
@@ -39,28 +41,9 @@ Users can apply for a COE by submitting VA Form 26-1880 by mail. Online, users c
 </details>
 -->
 
-#### VA Form 21-22 and VA Form 21-22a
-
-VA Form 21-22 is to choose an organization for representation. This is the majority of cases. The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf) as a fillable PDF. The form is two pages with an additional two pages of instructions, recognized service organizations, and addresses. The form encourages users to apply electronically. The form has four sections:
-
-- Section 1 -- Veteran's Information
-- Section 1 -- Claimant's Information (if other than veteran)
-- Section 3 -- Service Organization Information
-- Section 4 -- Authorization Information
-- Section 5 -- Signatures
-
-VA Form 21-22a is to choose an individual for representation. This is less common, and typically after a veteran has reached an appeal. The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/VBA-21-22a-ARE.pdf) as a fillable PDF. The form is two pages with an additional page of instruction and addresses. The form encourages users to apply electronically. The form has four sections:
-
-- Section 1 -- Veteran's Information
-- Section 1 -- Claimant's Information (if other than veteran)
-- Section 3 -- Service Organization Information
-- Section 4 -- Authorization Information
-- Section 5 -- Signatures
-
-While veterans can submit these forms directly to the VA without a representative signature, they are not valid until the representative has signed.
-
 #### Documentation requirements
-If a veteran has submitted a 21-22a, there must be a fee schedule agreement for the attorney on file as well.
+- Veterans can submit these forms directly to the VA without a representative signature, they are not valid until the representative has signed.
+- If a veteran has submitted a 21-22a, there must be a fee schedule agreement for the attorney on file as well.
 
 ## Users and Usage
 There are approximately 6000 current users of SEP. These users include:
@@ -68,15 +51,14 @@ There are approximately 6000 current users of SEP. These users include:
 - VA Accredited Agents
 - Private attorneys
 
-Many VSOs send information directly to VBMS through direct upload, bypassing SEP.
 <details>
   <summary><strong>Claims submitted through SEP versus VA.gov and eBenefits</strong> (Click to show diagram)</summary>
   <img width="276" alt="Screen Shot 2021-10-05 at 9 06 56 PM" src="https://user-images.githubusercontent.com/84141672/136131035-68f4655d-205e-412a-9ba4-845c4c49eab3.png">
 </details>
 
-
-### Eligibility
 <!--
+### Eligibility
+
 There are differing requirements for getting a VA loan depending on the nature of an applicant's service. These are summarized below. Specific eligibility can be found on [VA.gov here.](https://www.va.gov/housing-assistance/home-loans/eligibility/)
 
 **Veteran**
@@ -109,10 +91,6 @@ There are several general use cases around Certificate of Eligibility:
 - User needs to update COE information
 -->
 
-### User journey
-
-
-
 ## SEP features
 
 [Screen caps of the exisitng SEP features]()
@@ -142,6 +120,38 @@ There are several general use cases around Certificate of Eligibility:
   ![VA.gov information architecture placement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/COE_VAgov_IA_Flows_1.png)
 </details>
 -->
+
+### Known issues
+- Updates to VSO contact information is a manual process.
+- Many VSOs do not use SEP and prefer to send information from their proprietary case management systems to VA through Direct Mail.
+- VSO reported issues:
+    - Incorrect data in SEP leads to missed submissions in SEP
+    - Features do not meet needs
+- Development on SEP stalled and many features were not built out
+- Veterans can have multiple representatives. This is only known to happen with appeals.
+- Appeals have their own database and process
+
+#### VA Form 21-22 and VA Form 21-22a
+
+VA Form 21-22 is to choose an organization for representation. This is the majority of cases. The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf) as a fillable PDF. The form is two pages with an additional two pages of instructions, recognized service organizations, and addresses. The form encourages users to apply electronically. The form has four sections:
+
+- Section 1 -- Veteran's Information
+- Section 1 -- Claimant's Information (if other than veteran)
+- Section 3 -- Service Organization Information
+- Section 4 -- Authorization Information
+- Section 5 -- Signatures
+
+VA Form 21-22a is to choose an individual for representation. This is less common, and typically after a veteran has reached an appeal. The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/VBA-21-22a-ARE.pdf) as a fillable PDF. The form is two pages with an additional page of instruction and addresses. The form encourages users to apply electronically. The form has four sections:
+
+- Section 1 -- Veteran's Information
+- Section 1 -- Claimant's Information (if other than veteran)
+- Section 3 -- Service Organization Information
+- Section 4 -- Authorization Information
+- Section 5 -- Signatures
+
+While veterans can submit these forms directly to the VA without a representative signature, they are not valid until the representative has signed.
+
+
 #### Potential improvements
 
 - 
@@ -149,6 +159,7 @@ There are several general use cases around Certificate of Eligibility:
 ## Next steps
 
 #### Research
+- [ ] Conduct feasibility and accessibility review of fillabile PDF solution
 - [ ] Conduct discovery interviews focused on SEP functionality
 - [ ] Document/analyze discovery interview findings
 
@@ -165,11 +176,10 @@ There are several general use cases around Certificate of Eligibility:
 ## References
 
 - [SEP](https://www.sep.va.gov/sep/web/guest/sep)
+- [VSO Discovery Interview Research Findings]9vso-discovery-research-findings.md)
 - [VA Form 21-22 (Veteran tool)](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf)
 - [VA Form 21-22a (Veteran tool)](https://www.vba.va.gov/pubs/forms/VBA-21-22a-ARE.pdf)
 - [Proposed Workflow for Search and Appoint Rep (Veteran tool)](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/a/dlG4Y22)
 - [Wireframes for Search ans Appoint Rep (Veteran tool)](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/a/PGJ3ZlP)
-- [Check your VA claim or appeal status](https://www.va.gov/claim-or-appeal-status/)
-- [Certificate of Eligibility for Home Loan (eBenefits landing page)](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan)
 
 ---
