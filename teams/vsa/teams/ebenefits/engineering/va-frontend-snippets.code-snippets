@@ -2,6 +2,8 @@
 	// These are snippets of the design system components for VA.gov. To install them in Visual Studio Code
 	// Go to Preferences -> user snippets -> New Global Snippets File -> name it whatever you want and then paste
 	// The contents of this file into the file that opens up. Then save it. You can now use these snippets.
+	// The desctiptions and names of these components were taken from https://design.va.gov/storybook/
+
 	// Action Links
 	"Action Link Primary": {
 		"prefix": ["action-link-primary"],
@@ -72,6 +74,53 @@
 		"prefix": "va-accordion",
 		"description": "Accordion web-component. https://design.va.gov/storybook/?path=/docs/components-va-accordion--default",
 		"body": ["<va-accordion", "  disableAnalytics={{", "    value: 'false',", "  }}", "  openSingle={{", "    value: undefined,", "  }}", "  sectionHeading={{", "    value: '${1:sectionHeading}',", "  }}", ">", "  <va-accordion-item header='${2:header}'>", "    ${3:content}", "  </va-accordion-item>", "</va-accordion>;","" ]
+	},
+	// Back to top
+	"Back to top": 
+	{
+		"prefix": "back-to-top",
+		"description": "The Back to top component helps users quickly navigate back to the top of long pages of content.",
+		"body": ["<div id='back-to-top-container'>", "	<div class='usa-content'>", "		<button type='button' className='usa-button'>", "			<span>", "				<i aria-hidden='true' class='fas fa-arrow-up' role='img'></i>", "			</span>", "			<span>Back to top</span>", "		</button>", "	</div>","</div>"],
+	},
+	// Banner
+	"Banner 'default' w import": 
+	{
+		"prefix": "banner default w import",
+		"description": "The banner component for VA.gov. https://design.va.gov/storybook/?path=/docs/components-banners-banner--default",
+		"body": ["// move this import statement to the top of your file", "import Banner from '@department-of-veterans-affairs/component-library/Banner';", "<Banner", "	content='<p>${1:content}</p>'", "	recordEvent={function noRefCheck(){}}", "	storage={{", "		getItem: function noRefCheck(){},", "		setItem: function noRefCheck(){}", "	}}", "title='${2:title}'", "type='${3:type}'", "showClose", "visible", "/>"],
+	},
+	"Banner 'default'": 
+	{
+		"prefix": "banner default",
+		"description": "The banner component for VA.gov. https://design.va.gov/storybook/?path=/docs/components-banners-banner--default",
+		"body": ["<Banner", "	content='<p>${1:content}</p>'", "	recordEvent={function noRefCheck(){}}", "	storage={{", "		getItem: function noRefCheck(){},", "		setItem: function noRefCheck(){}", "	}}", "title='${2:title}'", "type='${3:type}'", "showClose", "visible", "/>"],
+	},
+	// Maintenence Banner
+	"Maintenence Banner w import":
+	{
+		"prefix": "maintenence banner w import",
+		"description": "The mainenence banner component for VA.gov. https://design.va.gov/storybook/?path=/docs/components-banners-maintenancebanner--during-maintenance",
+		"body": ["// move this import statement to the top of your file", "import MaintenenceBanner from '@department-of-veterans-affairs/component-library/MaintenenceBanner';", "<MaintenanceBanner","	content='${1:content}'", "	expiresAt={new Date('${2:expiresAt}')}", "	id='${3:id}'", "	startsAt={new Date('${4:startsAt}')}", "	title='${5:title}'", "	warnContent='${6:warnContent}'", "	warnStartsAt={new Date('${7:warnStart}')}", "	warnTitle='${8:warnTitle}'", "/>"]
+	},
+	"Maintenence Banner":
+	{
+		"prefix": "maintenence banner",
+		"description": "The mainenence banner component for VA.gov. https://design.va.gov/storybook/?path=/docs/components-banners-maintenancebanner--during-maintenance",
+		"body": ["<MaintenanceBanner","	content='${1:content}'", "	expiresAt={new Date('${2:expiresAt}')}", "	id='${3:id}'", "	startsAt={new Date('${4:startsAt}')}", "	title='${5:title}'", "	warnContent='${6:warnContent}'", "	warnStartsAt={new Date('${7:warnStart}')}", "	warnTitle='${8:warnTitle}'", "/>"]
+	},
+	// Promo Banner
+	"Promo Banner w import":
+	{
+		"prefix": "promo banner w import",
+		"description": "The promo banner component for VA.gov",
+		"body": ["// move this import statement to the top of your file", "import PromoBanner from '@department-of-veterans-affairs/component-library/PromoBanner';", "<PromoBanner", "	onClose={function noRefCheck(){}}", "	text='This is an announcement.'", "	type='announcement'", "/>"]
+	},
+	// Promo Banner
+	"Promo Banner":
+	{
+		"prefix": "promo banner w import",
+		"description": "The promo banner component for VA.gov",
+		"body": ["<PromoBanner", "	onClose={function noRefCheck(){}}", "	text='This is an announcement.'", "	type='announcement'", "/>"]
 	},
 	// Checkbox
 	"Checkbox input web component":
