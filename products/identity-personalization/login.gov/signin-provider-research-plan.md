@@ -148,8 +148,26 @@ If remote, include your preferred video conferencing software. Choice of: Zoom, 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For unmoderated testing: 
-- [First Click Test](https://446rp3tp.optimalworkshop.com/chalkmark/k6k271zx)
-- [Card Sort](https://446rp3tp.optimalworkshop.com/optimalsort/cj5ld45g)
+- [Chalkmark First Click- Segment 1A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h)
+- [Chalkmark First Click- Segment 2A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0)
+- [Chalkmark First Click- Segment 3A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0)
+- [Chalkmark First Click- Segment 4A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0-0)
+- [Chalkmark First Click- Segment 5A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0-0-0)
+- [Chalkmark First Click- Segment 6A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0-0-0-0)
+- [Chalkmark First Click- Segment 7A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0-0-0-0-0)
+- [Chalkmark First Click- Segment 8A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0-0-0-0-0-0)
+- [Chalkmark First Click- Segment 9A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0-0-0-0-0-0-0)
+
+- [Card Sort-Segment 1B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-0)
+- [Card Sort-Segment 2B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-1)
+- [Card Sort-Segment 3B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0)
+- [Card Sort-Segment 4B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-2)
+- [Card Sort-Segment 5B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-3)
+- [Card Sort-Segment 6B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-3-0)
+- [Card Sort-Segment 7B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-3-0-0)
+- [Card Sort-Segment 8B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-3-0-1)
+- [Card Sort-Segment 9B](https://adhoc.optimalworkshop.com/optimalsort/ft18i404-0-3-0-1-0)
+
 
 **First Click Email Instructions**
 
