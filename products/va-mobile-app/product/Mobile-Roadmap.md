@@ -1,10 +1,9 @@
-# Mobile App Roadmap
+### Mobile App Roadmap
 
-## Sept 2021 (proposed) 
-_2 formats below - Objectives (+ simplified version) and Milestones_
+1. [Long-term Roadmap - Objectives (updated quarterly)](#long-term-roadmap---objectives)
+2. [Short-term Roadmap - Milestones (updated monthly)](#short-term-roadmap---milestones)
 
-### Objective-driven Roadmap
-
+# Long term Roadmap - Objectives
 
 
 <table>
@@ -402,7 +401,7 @@ Simplified:
 * Patient check in?
 
 
-### Milestones for Now
+# Short-term Roadmap - Milestones
 
 ![image](https://user-images.githubusercontent.com/7320097/134221483-a7331550-aafc-452a-8774-9e543b9c2bee.png)
 
