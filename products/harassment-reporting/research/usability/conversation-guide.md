@@ -89,11 +89,11 @@ I would like you to share your screen with me so I can watch you use a specific 
 What kind of device are you using today? *(Phone / Computer)*
 
 ## Veteran Tasks
-I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. There may be multiple ways to do tasks on this website, and sometimes I may ask you to try a different way if the way you try doesn't work in the prototype.
+I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
 
 Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (desktop https://bit.ly/tasks-d or mobile https://bit.ly/tasks-m). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
