@@ -1,4 +1,4 @@
-# Vets.gov Discovery Sprint How-To (v.2)
+# VA.gov - Discovery Sprint How-To (v.2)
 Adapted from the USDS Discovery Sprint Playbook.
 
 ## Contents
@@ -13,7 +13,7 @@ Adapted from the USDS Discovery Sprint Playbook.
 
 ### What is the purpose of a discovery sprint?
 
-The purpose of a vets.gov discovery sprint is to quickly explore the current state of a new content area or product to help gain insight about the challenges and opportunities and to kick off the initial design and planning of a project.
+The purpose of a VA.gov discovery sprint is to quickly explore the current state of a new content area or product to help gain insight about the challenges and opportunities and to kick off the initial design and planning of a project.
 
 By the end of a discovery sprint, we will have a good understanding of:
 
@@ -60,7 +60,7 @@ Ideally, team members should be dedicated **full time to the sprint for its enti
 #### Checklist:
 
 - [ ] Work with a VA.gov lead to make a copy of the [Discovery Project Brief & Planning Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/discovery-project-brief.md) and fill out the Project Brief section.  
-- [ ] Work with the vets.gov research team to book dates for User Research on their calendar. 
+- [ ] Work with the VA.gov research team to book dates for User Research on their calendar. 
 
 ### Discovery Sprint Planning
 
@@ -91,7 +91,7 @@ See also: the USDS sprint playbook which has a great list about how to prepare f
 
 
 ### Discovery Sprint
-It’s crucial to keep to a strict time commitment (typically 1 or 2 weeks, depending on scope). While it’s easy to want to extend this timeline, time is precious and we’ve got a lot of other products that we want/need to build for vets.gov. 
+It’s crucial to keep to a strict time commitment (typically 1 or 2 weeks, depending on scope). While it’s easy to want to extend this timeline, time is precious and we’ve got a lot of other products that we want/need to build for VA.gov. 
 
 The duration of a discovery sprint will vary by project needs. Projects may require one discovery method or multiple; conversation with a couple of stakeholders or many. It's important to make strategic decisions about what will _and will not_ be part of the discovery sprint. Also, keep in mind that synthesis can be time-consumming so plan accordingly.
 
@@ -116,10 +116,10 @@ See also: [Sample Discovery Sprint Schedule](https://github.com/department-of-ve
 - Document any data standards (e.g., all upper case inputs) for existing systems
 - Identify any VA policies / legal regulations that are required
 - Physically go through the process or follow someone going through the process to see it first hand
-- Identify Information in Support of vets.gov ATO
+- Identify Information in Support of VA.gov ATO
 - Identify existing system classification: FISMA Low, Moderate, High
-- Identify existing system connections required by vets.gov
-- Identify existing system data elements and actions to be performed by vets.gov (e.g. pulled, pushed, stored)
+- Identify existing system connections required by VA.gov
+- Identify existing system data elements and actions to be performed by VA.gov (e.g. pulled, pushed, stored)
 - Identify existing system POC for all things ATO-related (usually ISO)
 - Define change management plan for existing VA systems with VA stakeholders
 - Inventory content for rewrite; plan for sunsetting old content
@@ -134,7 +134,7 @@ Ideally occurs on the last day of the sprint or beginning of following week.
 - [ ] Present [End of Discovery deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/End%20of%20Discovery%20Readout%20Template.pptx) to the Leads, and rest of product sprint team about work done, current state, potential concerns, areas for opportunity, findings, and recommendations/next steps.
 - [ ] Draft [Stakeholder deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/Master%20Stakeholder%20Deck%20Template.pptx) and send to the Leads (customize as needed).
 - [ ] Conduct a [discovery sprint retrospective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-retro.md) with the Discovery Sprint Team.
-- [ ] Request time on the vets.gov agenda for a 5 minute hightlights presentation where you can cover challenges, suprises, what was interesting,etc. 
+- [ ] Request time on the VA.gov agenda for a 5 minute hightlights presentation where you can cover challenges, suprises, what was interesting,etc. 
 - [ ] Do end of project Github / documentation cleanup. Make sure all docs are in Github, issues are closed, and GitHub pages are well-organized.
 - [ ] With a lead, finalize the stakeholder deck and charter and determine when and who will present to stakeholders.
 
