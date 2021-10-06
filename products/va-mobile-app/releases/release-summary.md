@@ -2,7 +2,7 @@
 
 ## Release: 10/12
 
-New Feature(s) + Improvements
+New + Improved
 
 - Users can now identify which appointments will be on video and which will be phone calls
 - Implemented the ability for users to add a reason for an appointment
