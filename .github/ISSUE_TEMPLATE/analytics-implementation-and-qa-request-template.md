@@ -3,7 +3,7 @@ name: Analytics Implementation and QA Request Template
 about: To request Google Analytics implementation for product launches or iterations
 title: Analytics Implementation or QA Support for [Team Name - Feature Name]
 labels: analytics-insights, analytics-request, collaboration-cycle, collab-cycle-review, gtm
-assignees: joanneesteban
+assignees: laurensimpson14
 
 ---
 
@@ -42,7 +42,7 @@ assignees: joanneesteban
 
 - **Who is this request for?**
 
-    - [Insert team name(s) and individual's names]
+    - [Insert team name(s), for individual's names please use the `/support` tracker on the #vfs-platform-support channel and link this ticket.]
     
     
 - **Provide the link(s) for Google Analytics implementation or QA**
@@ -56,7 +56,7 @@ assignees: joanneesteban
     
     - [If this is a funnel, insert each step's URL - pages visible depending on the applicant's answers should be marked accordingly]
     
-    - [Insert other interactions - please review the [Design System Components](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Design-System-Components.1840808040.html) to make sure these interactions aren't already tracked]
+    - [Insert other interactions - please review the [Design System Components](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Design-System-Components.1840808040.html) and [GA Data Dictionary](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Google-Analytics-Data-Dictionary.1810464912.html)  to make sure these interactions aren't already tracked]
 
 
 ### Optional
