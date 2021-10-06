@@ -31,3 +31,17 @@ The VA also has the concept of parent VAMCs. These parents VAMCs have child faci
 - VA locations are identified with a three digit id or a five character id, where the first three characters are the VistA site id and the last two characters are letters. So `552GK` would be an identifier for a location using the `552` VistA site.
 - VA parent sites are VA locations that manage a group of other VA locations. Typically they're also a VistA site, but not always, so the identifier is a sta6aid, which can be 3 or 5 digits.
 - VistA clinic ids are numeric ids, referencing abstract scheduling entities in a VistA site. They are not unique across the VA, they are unique within a VistA site. So a combination of VistA site id and clinic id will uniquely identify a clinic at the VA. They are also associated with a specific VA location in CDW, but the VistA site, rather than a parent location, technically owns a clinic.
+
+## Site and facility relationship
+
+Most of the time, a VistA site contains a VAMC, identified with an sta3n code, as well as a collection of CBOCs, with sta6aid codes. All these facilities are part of the same VA health system, and are part of a VISN with other health systems.
+
+(Not all CBOCs in this site are shown)
+
+In the above screenshot, we'd typically call 442 a parent site.
+
+In a limited number of cases, VA health systems have been consolidated into a single VistA instance. In that case, there are multiple, independent health systems in a single instance:
+
+In this case, there are four locations we'd call parent sites, and they have sta6aid codes, rather than only sta3n codes.
+
+
