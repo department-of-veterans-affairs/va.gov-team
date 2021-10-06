@@ -113,14 +113,27 @@
 	{
 		"prefix": "promo banner w import",
 		"description": "The promo banner component for VA.gov",
-		"body": ["// move this import statement to the top of your file", "import PromoBanner from '@department-of-veterans-affairs/component-library/PromoBanner';", "<PromoBanner", "	onClose={function noRefCheck(){}}", "	text='This is an announcement.'", "	type='announcement'", "/>"]
+		"body": ["// move this import statement to the top of your file", "import PromoBanner from '@department-of-veterans-affairs/component-library/PromoBanner';", "<PromoBanner", "	onClose={function noRefCheck(){}}", "	text='${1:text}'", "	type='${2:type}'", "/>"]
 	},
 	// Promo Banner
 	"Promo Banner":
 	{
 		"prefix": "promo banner w import",
 		"description": "The promo banner component for VA.gov",
-		"body": ["<PromoBanner", "	onClose={function noRefCheck(){}}", "	text='This is an announcement.'", "	type='announcement'", "/>"]
+		"body": ["<PromoBanner", "	onClose={function noRefCheck(){}}", "	text='${1:text}'", "	type='${2:type}'", "/>"]
+	},
+	// Breadcrumbs
+	"Breadcrumbs w import":
+	{
+		"prefix": "breadcrumbs w import",
+		"description": "React component to dynamically build breadcrumb links. The Breadcrumbs component accepts an array of HTML A tags, React Router LINK components, or a combination of the two. The component also accepts hard-coded A or LINK elements as props.children. https://design.va.gov/storybook/?path=/docs/components-breadcrumbs--default",
+		"body": ["// move this import statement to the top of your file", "import Breadcrumbs from '@department-of-veterans-affairs/component-library/Breadcrumbs';", "<Breadcrumbs>", "	<a href='${1:crumb1href}''>", "		${2:crumb1text}", "	</a>", "	<a href='${3:crumb2href}'>", "		${4:crumb2text}", "	</a>", "</Breadcrumbs>"]
+	},
+	"Breadcrumbs":
+	{
+		"prefix": "breadcrumbs w import",
+		"description": "React component to dynamically build breadcrumb links. The Breadcrumbs component accepts an array of HTML A tags, React Router LINK components, or a combination of the two. The component also accepts hard-coded A or LINK elements as props.children. https://design.va.gov/storybook/?path=/docs/components-breadcrumbs--default",
+		"body": ["<Breadcrumbs>", "	<a href='${1:crumb1href}''>", "		${2:crumb1text}", "	</a>", "	<a href='${3:crumb2href}'>", "		${4:crumb2text}", "	</a>", "</Breadcrumbs>"]
 	},
 	// Checkbox
 	"Checkbox input web component":
