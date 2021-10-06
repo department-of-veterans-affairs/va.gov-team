@@ -1,7 +1,8 @@
 # Research Plan and Converstion Guide for Check-in, Phase 2 & 3 UAT and Phase 4, October 2021
 ## Background
 This product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The healthcare experience team in particular is creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. 
-With this round of research, we are looking to validate the updated release of our MVP  with real users checking in and staff. Updated functionality includes additional identity verification steps, checking in for multiple appointments, read-only contact information, and the use of the revised poster throughout this process. 
+
+With this round of research, we are looking to validate the updated release of our MVP  with real users checking in and staff. Updated functionality includes additional identity verification steps, read-only contact information, checking in for multiple appointments, and the use of the revised poster throughout this process. 
 
 ### OCTO-DE Objectives
 This research supports the following objectives:
@@ -65,6 +66,30 @@ Research: 1 full day onsite following the October 20th release.
 - Ask follow-up questions.
 - Utilize Net Promoter Score (NPS) in conjunction with qualitative questions to evaluate Veteran and staff experiences. NPS can be used over time to see fluctuations in the experience, but will not be the only user experience metric evaluated.
 
-## Veteran Conversation Guide
+### Veteran Conversation Guide
+Prior to interacting with Veterans, take notes about the setup of the clinic.
+- What type of care is provided?
+- What does the area look like?
+- How many MSAs/clerks are available in the clinic?
+- What is the staff check-in process like?
+- How is cellular service?
+
+Initial screening interaction
+- When intercepting a Veteran...Hi! My name is [Name] and I'm a researcher for the VA. We created a new way to check-in using your mobile phone.
+- Would you like to check-in via your mobile phone?
+	- If no: Thank you. Have a nice day.
+	- If yes: Do you mind if I observe you completing check-in and ask 2 follow-up questions about the experience? It will help us to continue to improve the check-in experience for Veterans like yourself.
+		- If no: That is ok. Point them to the updated poster, so they can complete mobile check-in by themselves.
+		- If yes: Do you have more than one VA appointment today that you have not already completed (e.g., pre-appointment labs)?
+Observing Veteran
+- Direct them to the poster, and watch them complete check-in.
+	- Things to watch for:
+		- Did they successfully complete check-in?
+		- If not, what happened? Where did they get stuck?
+		- Did the Veteran talk to the MSA/clerk for any reason?
+			- Why?
+
+
+
 	
 	
