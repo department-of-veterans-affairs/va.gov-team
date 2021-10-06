@@ -32,6 +32,9 @@ VAMC Location list sort logic
 - Can we get CMS input on settings in CMS or on editorial side which can impact sort order? 
 - Facilities issue [#30774](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
 
+Vet Center usability study
+- List of District 5 users to recruit from
+
 ## September 29
 
 ### 4Q21 priorities
