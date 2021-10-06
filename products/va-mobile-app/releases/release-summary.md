@@ -1,5 +1,14 @@
 # VA Mobile team - Release Highlights
 
+## Release: 10/12
+
+New Feature(s) + Improvements
+
+Users can now identify which appointments will be on video and which will be phone calls
+Implemented the ability for users to add a reason for an appointment
+Optimized the app for Android 12 & r iOS 15
+
+
 ## Release: 9/28
 New & Improved
 
