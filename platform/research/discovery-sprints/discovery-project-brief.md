@@ -5,7 +5,7 @@ Copy and paste this document into your project's folder and fill it out!
 This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
 
 ## PROJECT BRIEF
-_To be filled out with a Vets.gov lead prior to starting discovery work._
+_To be filled out with a VA.gov lead prior to starting discovery work._
 
 ### Project Name
 _Short name for the project (e.g., "In-person authentication," "disability benefits application," "benefits navigator")._
@@ -14,7 +14,7 @@ _Short name for the project (e.g., "In-person authentication," "disability benef
 What problem are we trying to solve? Why are we doing this? (focus on problems, not possible solutions)
 
 ### What Sprint Teams Are Associated with this Discovery? 
-* Kudos / Rainbows / Core / Other
+* VSA Claims and appeals / VSP identity / other
 
 ### Discovery Sprint Roles
 See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
@@ -44,7 +44,7 @@ Note: revise above sections as needed
 * Are any of the above assumptions that need to be verified?
 * How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
-* Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
+* Who do we need to talk to (stakeholders, Veterans, MyHealtheVet Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
 * What secondary research should we do (google, facebook, internal documents)?
 * Are there any intentional project constraints (things we're intentionally deeming out of scope)?
 * Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
