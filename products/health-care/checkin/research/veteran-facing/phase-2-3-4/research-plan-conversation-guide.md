@@ -4,7 +4,7 @@ This product is reimagining the ecosystem that allows a Veteran to check in for 
 
 With this round of research, we are looking to validate the updated release of our MVP  with real users checking in and staff. Updated functionality includes additional identity verification steps, read-only contact information, checking in for multiple appointments, and the use of the revised poster throughout this process. 
 
-### OCTO-DE Objectives
+### OCTO Objectives
 This research supports the following objectives:
 - Veterans can manage their health services online
 - Logged-in users have a personalized experience, with relevant and time-saving features
