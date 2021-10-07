@@ -29,7 +29,8 @@
 1. Program/Stakeholder Update - @Soni/Josh
 2. PDF Copy of Landing Page ISO Legal Review --> Timeline for anticipated Landing Page Launch?   
 3. Research SME Interviews (blurbs) / Recruiting Plan --> thanks for all the support and assistance.
-4. Roundtable Questions, Comments. 
+4. Do we need this meeting going forward?  Is it still of value?
+5. Roundtable Q&A 
 
 ## Session Notes:
 
