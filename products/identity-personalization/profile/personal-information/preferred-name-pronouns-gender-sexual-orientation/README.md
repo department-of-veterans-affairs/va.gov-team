@@ -1,4 +1,4 @@
-# Personal information updates: Adding preferred name, pronouns, gender identity, and sexual orientation to the VA.gov profile
+# Project outline: Adding preferred name, pronouns, gender identity, and sexual orientation to the VA.gov profile
 
 Last updated October 7, 2021
 
