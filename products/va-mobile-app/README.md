@@ -9,13 +9,13 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Leanna Miller
 - Travis Newby
 
-### Product, Project, and Program Management
-- Ambika Roos - Principal Product Manager
-- Meko Hong - Sr Product Manager
-- Ayush Chakravarty - Sr Product Manager
-- Ashley Matthews - Product Manager
-- Bess Green - Sr Product Manager
-- Cat Greim - Sr Program Manager
+### Product and Program Management
+- Ambika Roos - Product Leadership
+- Meko Hong - Product
+- Ayush Chakravarty - Product
+- Ashley Matthews - Produc
+- Brenda Rocha - Product
+- Cat Greim - Program
 
 
 ### UX
@@ -29,6 +29,7 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 ### Engineering
 - Patrick Saxton - Engineer Leadership
 - Alastair Dawson - Engineer
+- Chika Adibemma - Engineer
 - Narin Ratana - Engineer
 - Jayson Perkins - Engineer
 - Teesh Shahi, Engineer
