@@ -9,10 +9,9 @@ Briefly describe the background of your product. Consider:
 
 [Link to product brief](url goes here).
 
-### OCTO-DE Objectives 
-*Note: applicable only to OCTO-DE teams*
+### OCTO Objectives 
 
-Which [OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
