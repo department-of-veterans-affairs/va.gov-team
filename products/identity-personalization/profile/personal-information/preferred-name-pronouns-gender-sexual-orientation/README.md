@@ -1,6 +1,6 @@
 # Personal information updates: Adding preferred name, pronouns, gender identity, and sexual orientation to the VA.gov profile
 
-Last updated October 4, 2021
+Last updated October 7, 2021
 
 ### Communications
 
