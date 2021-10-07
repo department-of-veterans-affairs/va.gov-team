@@ -40,8 +40,8 @@ Bug Fixes
   - Now displays icon when there is a draft with an attachment
   - Fixed accessibility reading when draft folder message is null
 - Fixed the incorrect messages that were displaying for  
-      - Loading secure messages
-      - Sign out
+  - Loading secure messages
+  - Sign out
 - Fixed GitHub commands for Android QA builds
 - Fixed functionality within the address flow when canceling new address.  User is now redirected back to the personal info screen and existing address displayed with no suggestion validation is seen 
 - Fixed SettingsScreen.test.tsx issue with navigateTo wrapper
