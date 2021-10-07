@@ -16,29 +16,28 @@ Platform teams
 
 ### Key Performance Indicators (KPIs)
 
-- Increase in awareness and adoption of product releases and updates.
-- Decrease in support requests about product changes.
+- Increase in awareness of product releases and updates.
+- Decrease in support requests about produt releases and updates.
 
 #### Baseline KPI Values
 
-- Will be determined for each product that uses the playbook starting with Design System components.
+- Platform Newsletter's average open and click rates from July 2020 to September 2021.
 
 ------
 
 ## Assumptions
 
-- Improved product communications will increase adoption and decrease support requests.
+- Improved product communications will increase adoption of Platform products and decrease support requests.
 
 ## Solution Approach
 
 MVP:
 
-- Draft Platform Communications Guiding Principles: https://vfs.atlassian.net/l/c/vsnjvTm2 
-- Pilot Use Case: Communications for Design System web components to drive adoption by VFS teams.
+- Communications Guiding Principles: https://vfs.atlassian.net/l/c/vsnjvTm2 
 
 Phase 1: 
 
-- Integrate Newsletter into Platform Website
+- Pivot from Newsletter 
 
 ------
 
