@@ -33,7 +33,7 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 - **Homeless_Assistance**
 - **VA_Home_Loan_Assistance**
 - **Insurance_Claim_Assistance**
-- **IDES**
+- **IDES** [Integrated Disability Evaluation System Assistance]
 - **Pre_Discharge_Claim_Assistance**
 - **Transition_Assistance**
 - **Updating_Direct_Deposit_Informa**
