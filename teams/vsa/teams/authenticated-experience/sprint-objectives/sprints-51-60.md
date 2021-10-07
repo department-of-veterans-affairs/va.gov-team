@@ -397,7 +397,11 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 
 - Schedule collab cycle kickoff
 - Design discovery
-  - Determine what makes sense to show in this section. If it's only payment info, or if payment info seems like the most important thing, we may want to consider adding a payment/financial section before an edu section. That way, we could show all payment info, not just for edu benefits. 
+  - Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline.
+  - Look through My VA research to see what edu-related info people have mentioned as important.
+  - Look at analytics for top edu tasks.
+  - One of our biggest restrictions is determining how we can show an education section. If we can only tee off of the education direct deposit, that means we can only show this section to people who already receive edu benefits, which means we only want to elevate the edu tasks that matter to that group.
+  - If we determine that the only thing that is useful to show/the only thing we have data for is payment info, we may want to consider creating a payment/financial section before an edu section. That way, we could show all payment info, not just for edu benefits. 
 - Initial designs
 - (Maybe) Collab cycle design intent
 
