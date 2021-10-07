@@ -100,8 +100,8 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Finding 1**
 
-Keywords: keyword 1, keyword 2 
-_List all keywords from the master taxonomy that apply to this finding._
+Labels: label 1, label 2 
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -112,8 +112,8 @@ Brief description
 
 **Finding 2**
 
-Keywords: keyword 1, keyword 2 
-_List all keywords from the master taxonomy that apply to this finding._
+Labels: label 1, label 2 
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -124,8 +124,8 @@ Brief description
 
 **Finding 3**
 
-Keywords: keyword 1, keyword 2 
-_List all keywords from the master taxonomy that apply to this finding._
+Labels: label 1, label 2 
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -142,8 +142,6 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 # Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-
 
 * Recommendation 1
     * _Supporting evidence_
