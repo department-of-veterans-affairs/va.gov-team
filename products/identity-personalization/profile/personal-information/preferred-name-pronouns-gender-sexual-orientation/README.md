@@ -1,4 +1,4 @@
-# Adding preferred name and pronouns, gender identity, and sexual orientation to the VA.gov profile
+# Personal information updates: Adding preferred name, pronouns, gender identity, and sexual orientation to the VA.gov profile
 
 Last updated October 4, 2021
 
@@ -34,12 +34,12 @@ Last updated October 4, 2021
 
 ## Overview
 
-In June 2021, VEO came to VA.gov to talk about integrating referred name and pronouns, gender identity, and sexual orientation into the VA.gov profile. The LGBTQ Health Services office is trying to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information. 
+In June 2021, VEO came to VA.gov to talk about integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile. The LGBTQ Health Services office is trying to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information. 
 
 ## Problem Statement
 
-- As a Veteran, I want to be able to easily manage and update my preferred name and pronouns, gender identity, and sexual orientation so that the VA has accurate information for me.
-- As a Veteran, I want to be able to easily manage and update my preferred name and pronouns, gender identity, and sexual orientation so that I am addressed accurately in my business with the VA.
+- As a Veteran, I want to be able to easily manage and update my preferred name, pronouns, gender identity, and sexual orientation so that the VA has accurate information for me.
+- As a Veteran, I want to be able to easily manage and update my preferred name, pronouns, gender identity, and sexual orientation so that I am addressed accurately in my business with the VA.
 
 ## User outcomes
 
@@ -70,7 +70,7 @@ OKRs and KPIs TBD
 
 ## Solution approach
 
-We will be incorporating the following metrics into the VA.gov profile: preferred name and pronouns, gender identity, and sexual oritentation. Additional details:
+We will be incorporating the following metrics into the VA.gov profile: preferred name, pronouns, gender identity, and sexual oritentation. Additional details:
 
 - This will be supported by the **VA Profile backend**.
 - These data points currently exist in MPI but not in VA Profile, so VA Profile will need to implement these data points and establish a read/write relationship with MPI. 
