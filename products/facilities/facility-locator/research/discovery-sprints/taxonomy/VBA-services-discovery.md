@@ -11,7 +11,7 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 [VA.gov Resources and support](https://www.va.gov/resources/)
 
-## Discovery Findings
+## Research Findings
 
 - **Applying_for_Benefits**
 
