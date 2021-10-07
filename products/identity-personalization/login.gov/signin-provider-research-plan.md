@@ -148,7 +148,7 @@ If remote, include your preferred video conferencing software. Choice of: Zoom, 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For unmoderated testing: 
-- [Chalkmark First Click- Segment 1A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h)
+- [Chalkmark First Click- Segment 1A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-1)
 - [Chalkmark First Click- Segment 2A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0)
 - [Chalkmark First Click- Segment 3A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0)
 - [Chalkmark First Click- Segment 4A](https://adhoc.optimalworkshop.com/chalkmark/jmlvci7h-0-0-0)
