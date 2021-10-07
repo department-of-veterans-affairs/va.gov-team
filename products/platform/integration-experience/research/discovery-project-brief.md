@@ -1,14 +1,14 @@
  [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
 
 ## PROJECT BRIEF
-_To be filled out with a VA.gov/Veteran Facing Serfices (VFS) lead prior to starting discovery work._
 
 ### Project Name
-_Short name for the project (e.g., "In-person authentication," "disability benefits application," "benefits navigator")._
+Integration Experience
 
 ### Problem Statement / How Might We statements
  Help VFS teams more easily and quickly integrate with systems they rely on. This API posture, or strategy, will help Platform determine how to best enable a “product ownership model” where VFS teams are empowered through the technology stack. 
 
+We will focus is on creating the model and technology for making it easy for customers to browse and integrate with VA external services / APIs.
 
 ### What Sprint Teams Are Associated with this Discovery? 
 * Platform (PTEMS) - Integration Experience Team
@@ -17,11 +17,10 @@ _Short name for the project (e.g., "In-person authentication," "disability benef
 See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
 * Product Lead:
-* Discovery Sprint Lead:
-* Engineer:
+* Discovery Sprint Lead: 
+* Engineers: Anna Carey, Wyatt Walter, Ryan Leahy, Igor Yegorov
 * Designer:
 * Researcher:
-* Other people from the Sprint Team:
 * SME:
 
 ### Stakeholders
