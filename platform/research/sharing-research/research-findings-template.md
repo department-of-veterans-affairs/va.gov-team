@@ -101,6 +101,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 **Finding 1**
 
 Labels: label 1, label 2 
+
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
@@ -113,6 +114,7 @@ Brief description
 **Finding 2**
 
 Labels: label 1, label 2 
+
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
@@ -125,6 +127,7 @@ Brief description
 **Finding 3**
 
 Labels: label 1, label 2 
+
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
