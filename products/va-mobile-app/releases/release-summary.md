@@ -23,8 +23,26 @@ Bug Fixes
 
 ## Release: 9/14
 New & Improved
-- General Improvements 
+
+- Added disability rating to the app
+- Updated screen labels to be consistent with web (show status/details) on the Claims & Appeals screen(s)
+- Added loading message to claims info page
+- Centered all elements in the Web View nav bar
+- App Store & Google Play links added to the Share App message
+- Now capturing event Letter Download as part of analytics
 
 Bug Fixes
-- Addressed Sev 1 & Sev 2 Bugs
 
+- Fixed ClaimScreen name in order to capture accurately as part of Firebase/GA 
+- Fixed the display of effective date when null on the Rating Disability Details page
+- Fixed error state- Community care appointments not loading
+- Folders screen
+  -Now displays icon when there is a draft with an attachment
+  - Fixed accessibility reading when draft folder message is null
+- Fixed the incorrect messages that were displaying for  
+      -Loading secure messages
+      -Sign out
+- Fixed GitHub commands for Android QA builds
+- Fixed functionality within the address flow when canceling new address.  User is now redirected back to the personal info screen and existing address displayed with no suggestion validation is seen 
+- Fixed SettingsScreen.test.tsx issue with navigateTo wrapper
+- Corrected Android App label in setting to show rn-fetch-blob
