@@ -397,6 +397,7 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 
 - Schedule collab cycle kickoff
 - Design discovery
+  - Determine what makes sense to show in this section. If it's only payment info, or if payment info seems like the most important thing, we may want to consider adding a payment/financial section before an edu section. That way, we could show all payment info, not just for edu benefits. 
 - Initial designs
 - (Maybe) Collab cycle design intent
 
