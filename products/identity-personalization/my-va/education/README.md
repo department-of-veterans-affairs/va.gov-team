@@ -37,23 +37,40 @@ When Veterans log into VA.gov, [they expect to be met with an experience that re
 
 ## Problem Statement
 
+- As a person who receives education benefits, I want to see the status of my benefits when I log into VA.gov.
+
 ## User outcomes
 
 ### Desired User Outcomes
 
+- Users who see their status of their education benefits and links to important edu tasks will be able to complete education business more quickly.
+
 ### Undesired User Outcomes
+
+- The information we show is ultimately not helpful because we don't have access to the right APIs, so people are still searching for info and tasks.
 
 ## Business outcomes
 
 ### Desired Business Outcomes
 
+- We are able to move edu customers more quickly to relevant info and tasks.
+
 ### Undesired Business Outcomes
+
+- The information we show is ultimately not helpful because we don't have access to the right APIs, so people are still searching for info and tasks.
 
 ## Measuring success
 
 OKRs and KPIs TBD
 
 ## Solution approach
+
+For discovery, we will:
+
+- Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline.
+- Look through My VA research to see what edu-related info people have mentioned as important.
+- Look at analytics for top edu tasks.
+- Determine what triggers the education section. 
 
 ## Key deliverables
 
@@ -64,6 +81,8 @@ OKRs and KPIs TBD
 - Release plan
 
 ## Key dates
+
+- Oct 2021: Kickoff
 
 ## Screenshots
 
