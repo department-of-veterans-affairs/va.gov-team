@@ -56,7 +56,7 @@ assignees: Sitewide Content, RLHecht
 
 ## Next steps
 
-**Once you’ve submitted this ticket, please post a link to this issue in the [#va-sitewide-content](https://dsva.slack.com/channels/va-sitewide-content) Slack channel and tag @RLHecht.**
+**Once you’ve submitted this ticket, please post a link to this issue in the [#va-sitewide-content](https://dsva.slack.com/channels/va-sitewide-content) Slack channel and tag @RLHecht.  If you know IA assistance is also needed, tag @mnorthuis as well. **
 
 If you also need engineering support from the Public Websites team, fill out their [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E).
   
