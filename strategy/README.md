@@ -5,10 +5,10 @@
 2. Decrease the time Veterans spend waiting for an outcome 
 3. Increase the quality and reliability of VA services
 
-## DE Vision
+## Vision
 Every Veteran is guaranteed access to self service benefits and accurate data.
 
-## DE Mission
+## Mission
 Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
 
 ## Goals
