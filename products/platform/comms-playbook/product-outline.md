@@ -17,7 +17,7 @@ Platform teams
 ### Key Performance Indicators (KPIs)
 
 - Increase in awareness of product releases and updates.
-- Decrease in support requests about produt releases and updates.
+- Decrease in support requests about product releases and updates.
 
 #### Baseline KPI Values
 
