@@ -30,7 +30,8 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 - **Updating_Direct_Deposit_Informa**
   - The [How to change direct deposit information for VA benefits](https://staging.va.gov/resources/how-to-change-direct-deposit-information-for-va-benefits/) page has step-by-step instructions.
   - The [Direct deposit for your VA benefit payments](https://staging.va.gov/resources/direct-deposit-for-your-va-benefit-payments/) page contains Veteran-facing language related to updating this information
+    > If you already have one, find out how to change your direct deposit information.
+    
     > You can change your VA direct deposit information for disability compensation, pension benefits, or education benefits online. You can also update your information by phone or in person.
-    > 
 - **Vocational_Rehabilitation_Emplo**
 - **Other_Services**
