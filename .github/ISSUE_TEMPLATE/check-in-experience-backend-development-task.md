@@ -3,7 +3,7 @@ name: Check In Experience Back End Development Task
 about: For Check In Experience Back End Development Tasking 
 title: '[BE]' 
 labels: vsa-healthcare-exp, backend, HCE-Checkin, HealthExp - Planned 
-pipeline: 'backlog'
+pipeline: backlog
 
 ---
 
