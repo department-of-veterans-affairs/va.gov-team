@@ -13,10 +13,10 @@ Last updated May 19, 2021
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
-|Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
+|Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Sandra Hallie| FE Engineer|	shallie@governmentcio.com |
+|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
 ### Table of Contents
