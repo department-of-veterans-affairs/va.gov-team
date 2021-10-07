@@ -15,10 +15,11 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 - **Applying_for_Benefits**
 
-  >If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information. [(Link to page)](https://staging.va.gov/resources/change-your-address-on-file-with-va/)
+  >If you use any of the VA benefits or services listed below, you’ll need to contact the department that handles those benefits directly to change your information. [(Change your address on file with VA)](https://staging.va.gov/resources/change-your-address-on-file-with-va/)
 - **Burial_Claim_assistance**
-
-  > Get help planning a burial in a VA national cemetery, order a headstone or other memorial item to honor a Veteran's service, and apply for survivor and dependent benefits. [(Link to page)](https://staging.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/)
+  - The [Can I be buried in Arlington National Cemetary](https://staging.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/) page has relevant Veteran-facing language:
+  
+    > Get help planning a burial in a VA national cemetery, order a headstone or other memorial item to honor a Veteran's service, and apply for survivor and dependent benefits.
 - **Disability_Claim_assistance**
   - The [Your intent to file a claim](https://staging.va.gov/resources/your-intent-to-file-a-va-claim/) page contains relevant Veteran-facing language:
   
