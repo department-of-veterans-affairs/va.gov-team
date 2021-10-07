@@ -393,6 +393,13 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 - Assist with UAT as needed
 - Respond to UAT findings
 
+### My VA: Add edu section
+
+- Schedule collab cycle kickoff
+- Design discovery
+- Initial designs
+- (Maybe) Collab cycle design intent
+
 ## Sprint 60 (11/3 - 11/16)
 [Sprint 60 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30186)
 
