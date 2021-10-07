@@ -13,3 +13,19 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 ## Discovery Findings
 
+- Applying_for_Benefits
+- Burial_Claim_assistance
+- Disability_Claim_assistance
+- eBenefits_Registration
+- Education_and_Career_Counseling
+- Education_Claim_Assistance
+- Family_Member_Claim_Assistance
+- Homeless_Assistance
+- VA_Home_Loan_Assistance
+- Insurance_Claim_Assistance
+- IDES
+- Pre_Discharge_Claim_Assistance
+- Transition_Assistance
+- Updating_Direct_Deposit_Informa
+- Vocational_Rehabilitation_Emplo
+- Other_Services
