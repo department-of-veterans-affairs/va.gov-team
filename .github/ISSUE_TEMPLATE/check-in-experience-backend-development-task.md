@@ -9,10 +9,6 @@ pipeline: 'backlog'
 
 ## Description
 
-> these should be why the veteran cares, and the veteran gets out of it.
-
-- (%FILL IN%)
-- (%FILL IN%)
 
 ## Related Documentation
 
