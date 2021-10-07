@@ -76,6 +76,8 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
+## Protocol for Recognizing & Handing Trauma-Triggering
+OBSERVE the participant's body language and tone of voice
 
 ## Warm-up Questions - 5 minutes
 
