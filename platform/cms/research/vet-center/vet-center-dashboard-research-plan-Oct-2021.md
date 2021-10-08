@@ -17,11 +17,8 @@ When editors can more easily find and edit their content, they are less likely t
  
 ## Research Goals
 
-Our goal is to understand whether our design hypothesis for the Vet Centers dashboard is valid. If it is...
+ This is a followup to an initial usability study conducted shortly before implementing the MVP version of the dashboards earlier in the year. Our goal is to understand whether our initial design hypothesis for the Vet Centers dashboard have held up as more Vet Center users onboard, and identify any other usability problems they may be encountering.
 
-- We can bridge the gap between users' mental model and the content model by jump linking from cards to forms
-- Icons (in cards) help users recognize the piece of content they need to edit
-- Surfacing satellite locations and their operating status prompts users to make necessary adjustments
 
 ## Outcome
 As a result of this research, we will
