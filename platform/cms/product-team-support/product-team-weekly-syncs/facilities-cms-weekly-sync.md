@@ -23,6 +23,9 @@
 
 </details>
 
+## October 13
+Facility status push (comments/events in details) 
+
 ## October 6
 
 [Dave is out]
