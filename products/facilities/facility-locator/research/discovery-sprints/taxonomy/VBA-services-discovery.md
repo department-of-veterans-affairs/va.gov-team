@@ -17,7 +17,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 
 ### Key Findings
 
-### Detailed Findings
+## Detailed Findings
 
 - **Applying_for_Benefits**
 
