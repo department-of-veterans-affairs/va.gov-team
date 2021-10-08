@@ -31,7 +31,6 @@ As a result of this research, we will
 ## Research questions
 
 **Top Tasks**
-
 - Does orienting editors with “top tasks” align with how they actually work?
 
     - Do the top tasks reflect the work they need to do? 
@@ -42,12 +41,13 @@ As a result of this research, we will
 **UI/workflow**
 - Do the editors have an accurate understanding of how the content model works? 
     - Do they feel oriented within the form (because the dashboard takes you to the middle of the form)? 
+    
 - Do the cards help editors understand where their content will end up on the website? 
     - Do the icons (in cards) help users recognize the piece of content they need to edit?
     - Do the icons make sense?
     - Does the UI in the dashboard help people get where they need to be?  
     
-** Operating Status **  
+**Operating Status**  
 - Is the satellite location operating status dashboard useful?
     - Does it help users make necessary adjustments for their operating status?
     - If not, what is the form missing?
@@ -83,11 +83,11 @@ CMS team sprints 42-45: Sept. 27 - Nov. 19
 30 to 45 minutes.
  
 ## Team Roles
-Moderator: Rachel, Erika, Suzanne
-Research guide writing and task development (usually but not always same as moderator): Rachel, Erika, Suzanne
-Participant recruiting & screening: Michelle M. 
-Project point of contact: Rachel
-Participant(s) for pilot test: Chris?
-Note-takers: Rachel, Erika, Suzanne
+Moderator: Rachel, Erika, Suzanne\
+Research guide writing and task development (usually but not always same as moderator): Rachel, Erika, Suzanne\
+Participant recruiting & screening: Michelle M. \
+Project point of contact: Rachel\
+Participant(s) for pilot test: Chris\
+Note-takers: Rachel, Erika, Suzanne\
 Observers: Any interested CMS team members
 
