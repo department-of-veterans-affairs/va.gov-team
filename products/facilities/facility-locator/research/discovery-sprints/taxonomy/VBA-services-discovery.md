@@ -38,6 +38,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 - **Family_Member_Claim_Assistance**
 - **Homeless_Assistance**
 - **VA_Home_Loan_Assistance**
+  - The [Can I get a loan through my VA life insurance policy?](https://www.va.gov/resources/can-i-get-a-loan-through-my-va-life-insurance-policy/) page references securing a general loan through life insurance, but otherwise, there is no reference to home loan specifically.
 - **Insurance_Claim_Assistance**
 - **IDES** [Integrated Disability Evaluation System Assistance]
 - **Pre_Discharge_Claim_Assistance**
