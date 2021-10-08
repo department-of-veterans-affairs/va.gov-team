@@ -11,6 +11,10 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 [Resources and support](https://www.va.gov/resources/)
 
+### Background Research
+
+
+
 ### Method
 
 Audit of [Resources and support](https://www.va.gov/resources/) hub to find relevant Veteran-facing language for each service, if present.
