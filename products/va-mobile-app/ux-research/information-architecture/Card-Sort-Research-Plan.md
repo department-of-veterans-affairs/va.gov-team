@@ -171,7 +171,7 @@ Participant pool should be diverse in:
 
 * Date testing material will be finalized: 9/29/2021.
 * Pilot participant email: rafael.arroyo@adhocteam.us
-* Date and time of pilot session: TIME TBD 9/30/2021
+* Date and time of pilot session: Schedule anytime October 11-14
 
 
 ### **Research sessions**
@@ -205,7 +205,7 @@ October 22; 9am - 6pm EST
 * Research guide writing and task development: Melissa Lefevre
 * Participant recruiting & screening: Perigean
 * Project point of contact: Brenda Rocha
-* Participant(s) for pilot test: TBD
+* Participant(s) for pilot test: rafael.arroyo@adhocteam.us
 * Note-takers:
     * Meko Hong
         * meko.hong@adhocteam.us
