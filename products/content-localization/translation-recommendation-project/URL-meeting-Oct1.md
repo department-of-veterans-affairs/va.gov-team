@@ -12,14 +12,14 @@
 •	How will future CMS Public API change or affect how we approach (Mike, Neil)
 
 **Notes:**
-•	Review of slide created by Mikki
-o	We have a toggle on the page to switch between languages.
-o	In some instances, we have  -esp on the URL string.
-o	In other instances, we have translated the URL. 
-o	Currently we have repetition in the left nav (English, Spanish, Tagalog). 
-o	This approach isn’t scalable
-o	Bumped into a couple of screen reader issues that we’ve resolved but would like a cleaner solution 
-•	Options:
+- Review of slide created by Mikki
+- We have a toggle on the page to switch between languages.
+- In some instances, we have  -esp on the URL string.
+- In other instances, we have translated the URL. 
+- Currently we have repetition in the left nav (English, Spanish, Tagalog). 
+- This approach isn’t scalable
+- Bumped into a couple of screen reader issues that we’ve resolved but would like a cleaner solution 
+- Options:
 o	Parameter-based URLs
 o	Sub-directories 
 o	Sub-domains (this has been ruled out)
