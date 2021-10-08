@@ -40,6 +40,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
     > Please let us know if your payment is late. You can call us toll-free at 888-442-4551. We’re here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
 - **Family_Member_Claim_Assistance**
 - **Homeless_Assistance**
+  - [Found no references to homeless assistance]
 - **VA_Home_Loan_Assistance**
   - The [Can I get a loan through my VA life insurance policy?](https://www.va.gov/resources/can-i-get-a-loan-through-my-va-life-insurance-policy/) page references securing a general loan through life insurance, but otherwise, there is no reference to home loan specifically.
 - **Insurance_Claim_Assistance**
