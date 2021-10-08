@@ -39,8 +39,8 @@ As a result of this research, we will
     - Are there tasks that are unused?
 
 **UI/workflow**
-- Do the editors have an accurate understanding of how the content model works? 
-    - Do they feel oriented within the form (because the dashboard takes you to the middle of the form)? 
+- Does the dashboard help editors bridge the gap between how the content model structures information, and their own mental model for their site's content? 
+    - Are editors able to remain oriented within the form (because the dashboard takes you to the middle of the form)? 
     
 - Do the cards help editors understand where their content will end up on the website? 
     - Do the icons (in cards) help users recognize the piece of content they need to edit?
@@ -49,7 +49,7 @@ As a result of this research, we will
     
 **Operating Status**  
 - Is the satellite location operating status dashboard useful?
-    - Does it help users make necessary adjustments for their operating status?
+    - Does it prompt users to make necessary adjustments for their operating status?
     - If not, what is the form missing?
  
 ## Hypothesis
@@ -65,7 +65,8 @@ Usability testing with some semi-structured interviews questions
 Remote, via Zoom
 
 ## Research materials
-[Link to conversation guide](url goes here)
+
+[Link to conversation guide forthcoming in sprint 43](url goes here)
 
 ## Participants 
 5-7 Vet Center site editors who:
