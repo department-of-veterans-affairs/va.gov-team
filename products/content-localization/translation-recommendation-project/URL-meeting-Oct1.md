@@ -7,9 +7,9 @@
 **Objective:** Review of system impacts and options for implementation of translated content
   
 **Agenda:**
-•	Review approach to date and options going forward (Mikki)
-•	Determine system impacts (drupal, metal smith, vets-website) and considerations including left-hand nav and breadcrumbs (All)
-•	How will future CMS Public API change or affect how we approach (Mike, Neil)
+- Review approach to date and options going forward (Mikki)
+- Determine system impacts (drupal, metal smith, vets-website) and considerations including left-hand nav and breadcrumbs (All)
+-	How will future CMS Public API change or affect how we approach (Mike, Neil)
 
 **Notes:**
 - Review of slide created by Mikki
