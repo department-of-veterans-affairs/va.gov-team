@@ -24,10 +24,10 @@
   -	Sub-directories 
   -	Sub-domains (this has been ruled out)
 - Considerations:
-- How do we address header, footer, breadcrumbs, left nav
-- SEO considerations we’ll need to discuss in future
-- Best user experience would be to have the translated content live in Drupal and have a separate URL
-- Tim C noted that when you make a node or a page multilingual in drupal, you are able to specify which section will show in English until such time that there is a translation for it. 
+  - How do we address header, footer, breadcrumbs, left nav
+  - SEO considerations we’ll need to discuss in future
+  - Best user experience would be to have the translated content live in Drupal and have a separate URL
+  - Tim C noted that when you make a node or a page multilingual in drupal, you are able to specify which section will show in English until such time that there is a translation for it. 
 - You would have a mixture of English and Spanish.
 -	If an entire page was not in Spanish, you could even have a notification that this content is not available in Spanish (would need to figure out how to route that)
 -	Mike C:  currently, the issue is that the templates in the content build have a hard time understanding things like this. May be dependent on content API before we can support.
