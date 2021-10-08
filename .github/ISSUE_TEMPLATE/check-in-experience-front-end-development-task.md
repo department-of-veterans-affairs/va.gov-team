@@ -42,8 +42,8 @@ pipeline: 'backlog'
 > this is a list of technical tasks that need for this ticket
 
 - [ ] %Add any tasks%
-- [ ] Create unit tests
-- [ ] Create e2e tests
+- [ ] Create or update unit tests
+- [ ] Create or update e2e tests
 - [ ] Update relevant documentations
   - [ ] README
   - [ ] Use Cases
