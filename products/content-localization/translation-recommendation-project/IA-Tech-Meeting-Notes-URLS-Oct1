@@ -1,12 +1,12 @@
 *Meeting:* Technical Implementation for Translated Content (URLs) 
 
-Date: 10/1/21
+*Date: 10/1/21*
 
-Attendees: Danielle T, Michelle S, Mikki, Adam W, Sharon K, Mike C, Neil H, Tim C, Tim W, Steve W
+*Attendees:* Danielle T, Michelle S, Mikki, Adam W, Sharon K, Mike C, Neil H, Tim C, Tim W, Steve W
 
-Objective: Review of system impacts and options for implementation of translated content
+*Objective:* Review of system impacts and options for implementation of translated content
   
-Agenda:
+*Agenda:*
 •	Review approach to date and options going forward (Mikki)
 •	Determine system impacts (drupal, metal smith, vets-website) and considerations including left-hand nav and breadcrumbs (All)
 •	How will future CMS Public API change or affect how we approach (Mike, Neil)
