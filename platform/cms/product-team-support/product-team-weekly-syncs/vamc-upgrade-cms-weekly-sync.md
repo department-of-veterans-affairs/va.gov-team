@@ -21,12 +21,27 @@
 
 </details>
 
+## October 15
+
+* Broken links - CMS help desk may be able to pitch in
+
 ## October 8
 
 * Help desk
-  * VAMC QA checklist
+  * PAO validation checklist - PAOs use it to review their sites. Questions coming in may refer to that. Chris and Stef have that. 
+* Broken links
+  * Certain editors are ignoring the broken links report, despite multiple explanations
+  * Program areas are a challenge where there are a lot of child pages
+  * Possibly update broken link fail test, and only fail based on number of pages with broken links, rather than number of broken links. 
+* PAO newsletter ideas
+  * Office hours
+  * "Did you know" items?
+  * PDFs
   * Broken links
-* PAO newsletter ideas?
+* Lovell going to Dual state
+  * CSV migration of health services - CMS Sprint 43 (by October 22)
+  * Stan will provide by EOD today.
+* Lisa OOO week of Oct 12
 
 ## October 1
 
