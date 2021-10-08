@@ -35,6 +35,9 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 - **eBenefits_Registration**
 - **Education_and_Career_Counseling**
 - **Education_Claim_Assistance**
+  - The [GI Bill and other VA education benefit payments FAQs](https://www.va.gov/resources/gi-bill-and-other-va-education-benefit-payments-faqs/) has relevant Veteran-facing language.
+    
+    > Please let us know if your payment is late. You can call us toll-free at 888-442-4551. We’re here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY: 711.
 - **Family_Member_Claim_Assistance**
 - **Homeless_Assistance**
 - **VA_Home_Loan_Assistance**
