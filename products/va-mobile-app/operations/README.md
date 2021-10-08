@@ -1,7 +1,7 @@
 # Incident Response and Operations
 
 ### Procedures
-In the event of an incident, please follow the relevant playbook or procedure outlined in the following table. All incidents that require the use of a playbook,  occur for a significant portion of the userbase, persist for a significant period of time, involve the security of a system or a Veteran's data, require out-of-team coordination to fix, or that require an out-of-band deployment shall be brought to the attention of the Product Owner and followed by a postmortem report.
+In the event of an incident, please follow the relevant playbook or procedure outlined in the table below. All incidents that require the use of a playbook,  occur for a significant portion of the userbase, persist for a significant period of time, involve the security of a system or a Veteran's data, require out-of-team coordination to fix, or that require an out-of-band deployment shall be brought to the attention of the Product Owner and followed by a postmortem report.
 Procedure | Usage
 :-- | :--
 [Mobile Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/Mobile%20Incident%20Response%20Playbook.md) | Respond to mobile-specific incidents
@@ -16,6 +16,7 @@ If you need to escalate an issue beyond the immediate team, these are the releva
 Role | Person | Contact Mechanism 
 :-- | :-- | :--
 Product Owner | Leanna Miller | DSVA Slack
+Engineering Lead | Travis Newby | DSVA Slack
 Information System Owner (ISO) | Chris Johnston | DSVA Slack
 Information System Security Officer (ISSO) | Griselda Gallegos | VA Email, phone
 Privacy Officer | Rita Grewal | VA Email, phone
