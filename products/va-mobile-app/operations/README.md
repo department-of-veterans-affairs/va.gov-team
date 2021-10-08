@@ -20,7 +20,7 @@ Information System Owner (ISO) | Chris Johnston | DSVA Slack
 Information System Security Officer (ISSO) | Griselda Gallegos | VA Email, phone
 Privacy Officer | Rita Grewal | VA Email, phone
 
-These contacts (other than mobile product owner) are documented officially here: [ATO Incident Response contact information](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/2020%20Docs/incident_response.md#40-contact-information)
+These contacts (other than mobile product owner) are documented officially in [ATO Incident Response Contact Information](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/2020%20Docs/incident_response.md#40-contact-information).
 
 
 ### Key Slack Channels
