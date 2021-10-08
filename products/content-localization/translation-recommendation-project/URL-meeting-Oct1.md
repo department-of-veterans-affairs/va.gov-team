@@ -43,7 +43,7 @@
    -	Should we test it in sandbox and document or wait for content api to be available?
 -	Mike C recommended separating discussion for React and CMS 
     -	Translation of content in the CMS
-   -	Translation of content in React applications
+    -	Translation of content in React applications
 -	Sharon will schedule follow-up meeting.
 
 
