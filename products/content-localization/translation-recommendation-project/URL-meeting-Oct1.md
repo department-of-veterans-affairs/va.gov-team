@@ -13,16 +13,16 @@
 
 **Notes:**
 - Review of slide created by Mikki
-- We have a toggle on the page to switch between languages.
-- In some instances, we have  -esp on the URL string.
-- In other instances, we have translated the URL. 
-- Currently we have repetition in the left nav (English, Spanish, Tagalog). 
-- This approach isn’t scalable
-- Bumped into a couple of screen reader issues that we’ve resolved but would like a cleaner solution 
+  - We have a toggle on the page to switch between languages.
+  - In some instances, we have  -esp on the URL string.
+  - In other instances, we have translated the URL. 
+  - Currently we have repetition in the left nav (English, Spanish, Tagalog). 
+  - This approach isn’t scalable
+  - Bumped into a couple of screen reader issues that we’ve resolved but would like a cleaner solution 
 - Options:
--	Parameter-based URLs
--	Sub-directories 
--	Sub-domains (this has been ruled out)
+  -	Parameter-based URLs
+  -	Sub-directories 
+  -	Sub-domains (this has been ruled out)
 - Considerations:
 - How do we address header, footer, breadcrumbs, left nav
 - SEO considerations we’ll need to discuss in future
