@@ -33,7 +33,7 @@
    -	Mike C:  currently, the issue is that the templates in the content build have a hard time understanding things like this. May be dependent on content API before we can support.
 -	It was discussed that if we supported multi-lingual with content build that we could only build multi-lingual content 1x a day (for example) so as not to impact overall build times
     -	Neil: if multi-lingual was turned on in drupal, it would require a database query and ~double the time to build.	
-   -	But, once we move to content api, the browser can specify the version/URL of the content it wants, and have it returned in appropriate language.
+    - But, once we move to content api, the browser can specify the version/URL of the content it wants, and have it returned in appropriate language.
 -	Discussion around whether the /es/example sub-folder would be needed if we provide translated URLS (note: drupal multi-lingual node supports this URL pattern)
   -	Tom C noted that it wouldn’t be needed technically but having it would provide a better UX by helping the user understand they are in a spanish experience.
   -	Also helps us to avoid having a problem when a URL isn’t translated (ie COVID-19). There is a UX benefit to having content grouped by language.
