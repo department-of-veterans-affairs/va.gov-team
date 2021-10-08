@@ -3,6 +3,17 @@ As we tackle issues and gain firefighting experience as team, we will undoubtabl
 
 Having an existing play does not abdicate you of your responsibility to follow the playbook and alert the proper people. But it should serve as a guide to help you more quickly resolve recurring problems.
 
+## Overall Tips
+There are a few overarching tips that are applicable across issues. Use your best judgement on when to apply each.
+
+* When possible, work in the open.
+* When finished, contribute back to this list of plays.
+* It's often preferable to create a temporary Slack channel — instead of a direct message group — to address issues and maintain a historical record.
+* Check to see if the issue is impacting mobile, vets-api, or the wider VA. 
+* Don't be afraid to escalate an issue.
+* Involve the Product Owner when working across teams.
+* Be a champion for your issue; squeaky wheels get fixed.
+
 ## SSOe OAuth
 SSOe OAuth issues are a fairly common occurrence. They usually manifest themselves by one or more credential types not being able to sign in.
 
@@ -32,12 +43,12 @@ SSOe OAuth issues are a fairly common occurrence. They usually manifest themselv
         <li/>If the problem is not widespread, alert the Product Owner and begin your investigation.
         <li/>Have we changed anything lately that would impact logging in? Since we use SSOe OAuth, the answer is usually no. But perhaps
         we made some backend changes we should investigate.
-        <li/>At the point we've determined we've not made any changes that would impact login, alert the IAM architects: Damien DeAntonio and 
-        Perry Vessels. They are both reachable via Slack. They will often request you create a ticket in YourIT. You can do that, or ask the
-        government to do it on your behalf. That ticket should get routed to IO.TPS.IAM.Data Quality Team.
+        <li/>At the point we've determined we've not made any changes that would impact login, use Slack to contact the IAM 
+        architects: Damien DeAntonio and Perry Vessels. They will often request you create a ticket in YourIT. You can do that, or ask the
+        government to do it on your behalf. That ticket should get routed to IO.TPS.IAM.Data Quality Team (Boris Ning or Travis can route tickets).
         <li/>Follow up. The IAM team has a lot on their plate, so make sure <i>you</i> champion our cause.
-        <li/>If the problem turns out to be something wider-spread, like a VA DNS issue, alert Boris Ning or Thomas Delrue. They will help 
-        you work with Gateway Ops to resolve the problem.
+        <li/>If the problem turns out to be something wider-spread, like a VA connectivity issue, include Boris Ning or Thomas Delrue in your 
+        troubleshooting. They will help you work with Gateway Ops to resolve the problem.
       </ol>
     </td>
   </tr>
@@ -72,7 +83,7 @@ predict. But when it's DNS, you'll know it.
         <li/>If the problem is not widespread, alert the Product Owner and begin your investigation.
         <li/>DNS issues fall under the purview of Gateway Ops. They are a small group with a huge amount of responsibility. Because of that, it's
         best to approach them with a lot of evidence that DNS is the problem. 
-        <li/>Engage Boris Ning or Thomas Delrue. Boris has empowered Dan E. Smith with the tools necessary to monitor network traffic, and 
+        <li/>Engage Boris Ning or Thomas Delrue via Slack. Boris has empowered Dan Smith with the tools necessary to monitor network traffic, and 
         he's very effective. Use him and all the tools available to gather as much information as possible before going to Gateway Ops.
         <li/>It is also important to note the lack of automation in Gateway Ops. So often issues are intermittent or regionalized.
         <li/>At the point you've collected enough data, contact Gateway Ops. They are on a rotational schedule, so if you contact one of them
