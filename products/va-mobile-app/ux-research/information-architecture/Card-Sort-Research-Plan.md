@@ -176,7 +176,7 @@ Participant pool should be diverse in:
 
 ### **Research sessions**
 
-October 4 - 8, 2021
+October 18 - 22, 2021
 
 
 ### **Length of sessions**
@@ -186,15 +186,15 @@ Up to 1 hour, 30 minute buffer between sessions.
 
 ### **Availability**
 
-October 4; 9am - 6pm EST
+October 18; 9am - 6pm EST
 
-October 5; 9am - 6pm EST
+October 19; 9am - 6pm EST
 
-October 6; 9am - 6pm EST
+October 20; 9am - 6pm EST
 
-October 7; 9am - 6pm EST
+October 21; 9am - 6pm EST
 
-October 8; 9am - 6pm EST
+October 22; 9am - 6pm EST
 
 
 ## Team Roles
