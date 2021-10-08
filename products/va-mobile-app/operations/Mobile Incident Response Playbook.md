@@ -1,7 +1,7 @@
 ## Overview
-This document provides guidance about how to respond to incidents such as outages, widespread crashes, or security breaches. 
+This document provides guidance about how to respond to incidents such as outages, widespread crashes, or security breaches. For more explicit guidance around recurring issues, refer to [Mobile Plays and Postmortems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/Mobile%20Plays%20and%20Postmortems.md).
 
-The VA Mobile App has a unique frontend client, and some of its own API endpoints, but it shares most of its backend infrastructure and upstream dependencies with VA.gov. It also falls under the VA.gov Authority to Operate. Therefore our team is accountable to align with the VA.gov incident response process. 
+The VA Mobile App has a unique frontend client, and some of its own API endpoints, but it shares most of its backend infrastructure and upstream dependencies with VA.gov. It also falls under the VA.gov Authority to Operate. Therefore, our team is accountable to align with the VA.gov incident response process. 
 
 ## Incident Response Rubric
 This rubric acts as a high-level decision tree for how urgently to respond to an incident, whether to escalate, and if so, to whom. 
