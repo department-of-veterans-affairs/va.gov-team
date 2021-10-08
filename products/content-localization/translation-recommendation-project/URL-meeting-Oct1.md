@@ -20,9 +20,9 @@
   - This approach isn’t scalable
   - Bumped into a couple of screen reader issues that we’ve resolved but would like a cleaner solution 
 - Options:
-  -	Parameter-based URLs
-  -	Sub-directories 
-  -	Sub-domains (this has been ruled out)
+ 1. -	Parameter-based URLs
+ 2.  -	Sub-directories 
+ 3.  -	Sub-domains (this has been ruled out)
 - Considerations:
   - How do we address header, footer, breadcrumbs, left nav
   - SEO considerations we’ll need to discuss in future
