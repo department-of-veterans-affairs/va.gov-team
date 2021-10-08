@@ -63,6 +63,9 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
     * For help, see: [Analytics team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics)
 - [ ] This change has an accompanying [VSP Initiative Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).
 
+### When you're ready to launch...
+- [ ] Conduct a [go/no-go] (https://vfs.atlassian.net/wiki/spaces/AP/pages/1670938648/Platform+Crew+Office+Hours#Go%2FNo-Go) when you're almost ready to launch. 
+
 ## Required Artifacts
 
 ### Documentation
