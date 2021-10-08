@@ -38,12 +38,12 @@
       -	Tom C noted that it wouldn’t be needed technically but having it would provide a better UX by helping the user understand they are in a spanish experience.
       -	Also helps us to avoid having a problem when a URL isn’t translated (ie COVID-19). There is a UX benefit to having content grouped by language.
 -	Question that came up after meeting: what are other implications to supporting this?	
-  -	Impact to nav structure (left hand, breadcrumbs)?
-  -	Could re-direct existing URLs using 301 to avoid 404
-  -	Should we test it in sandbox and document or wait for content api to be available?
+   -	Impact to nav structure (left hand, breadcrumbs)?
+   -	Could re-direct existing URLs using 301 to avoid 404
+   -	Should we test it in sandbox and document or wait for content api to be available?
 -	Mike C recommended separating discussion for React and CMS 
-  -	Translation of content in the CMS
-  -	Translation of content in React applications
+    -	Translation of content in the CMS
+   -	Translation of content in React applications
 -	Sharon will schedule follow-up meeting.
 
 
