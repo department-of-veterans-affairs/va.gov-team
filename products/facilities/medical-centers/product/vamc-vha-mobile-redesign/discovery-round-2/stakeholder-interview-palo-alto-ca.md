@@ -16,7 +16,7 @@ Palo Alto brings healthcare to underserved Veterans within its catchment area. T
 
 For this calendar year Palo Alto travels to 206 sites, “stops”, 49 of them are unique locations, meaning they do 'repeat visits' to those 49 locations.  If they don’t get much turnout at a particular location, then they may not return to it and/or try new locations. eg. this year they added 10 new locations over last year.  
 
-5+ off the unique locations could be in “San Jose” alone so those 5 would show up as “Mobile clinic - Jan Jose, CA” with the current design iteration, undistinguishable, in the left nav but all would have unique addresses.
+5+ of the unique locations could be in “San Jose” alone so those 5 would show up as “Mobile clinic - Jan Jose, CA” with the current design iteration, indistinguishable, in the left nav but all would have unique addresses.
 
 They also travel to and support events (like flu clinics, marine muster corp events) but felt that there was a distinction between what they offer at events and the health care services offered on the 206 stops because they **go to** the Veterans at VFWs, homeless shelters, etc. and within the single visit they can register, enroll, conduct a health history and see Veterans for their first health care appt. 
 
