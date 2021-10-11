@@ -24,25 +24,27 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 ## Detailed Findings
 
 #### Applying_for_Benefits
-  - 
 #### Burial_Claim_assistance
 #### Disability_Claim_assistance
+  - 
 #### eBenefits_Registration
 #### Education_and_Career_Counseling
-  - [Found no reference to counseling services]
+  - [Found no reference to counseling benefit services]
 #### Education_Claim_Assistance
 #### Family_Member_Claim_Assistance
 #### Homeless_Assistance
-  - [Found no references to homeless assistance]
+  - [Found no references to homeless benefit services]
 #### VA_Home_Loan_Assistance
 #### Insurance_Claim_Assistance
 #### IDES
 #### Pre_Discharge_Claim_Assistance
 #### Transition_Assistance
 #### Updating_Direct_Deposit_Informa
-- On the [Change Your VA Direct Deposit Information](https://www.va.gov/change-direct-deposit/) page:
+- *Resources and support* links to the external page [Change Your VA Direct Deposit Information](https://www.va.gov/change-direct-deposit/) containing the language:
   - "Change your VA direct deposit information"
   - "Update your direct deposit information"
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
-  - Reference to the *"Veterans Benefits Banking Program"* ([link to page](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
+  - Information on updating and changing [personal information](https://www.va.gov/resources/managing-your-vagov-profile/), such as [address](https://www.va.gov/resources/change-your-address-on-file-with-va/) and [legal name](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/) 
+  - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
+  - "Check the status of your VA claim" ([Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/))
