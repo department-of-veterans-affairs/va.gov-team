@@ -24,10 +24,12 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 ## Detailed Findings
 
 #### Applying_for_Benefits
+  - 
 #### Burial_Claim_assistance
 #### Disability_Claim_assistance
 #### eBenefits_Registration
 #### Education_and_Career_Counseling
+  - [Found no reference to counseling services]
 #### Education_Claim_Assistance
 #### Family_Member_Claim_Assistance
 #### Homeless_Assistance
@@ -43,3 +45,4 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
   - "Update your direct deposit information"
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
+  - Reference to the *"Veterans Benefits Banking Program"* ([link to page](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
