@@ -1,4 +1,4 @@
-# Navigating Google Anaytics
+# Navigating Google Analytics
 
 VA.gov has a premium Google Analytics 360 *account* which houses all of the data for VA.gov. In this resource document, you'll find information on how Google Analytics is structured and when you should engage with Analytics-Insights. 
 
