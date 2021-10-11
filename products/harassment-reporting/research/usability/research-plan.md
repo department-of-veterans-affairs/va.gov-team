@@ -59,8 +59,10 @@ Ask Perigean to recruit **16** Veterans from the names we provide in order to ge
 
 
 ### Additional questions to ask in the screener
-- What device will you use to join the research session? (must be a smartphone, NOT iPad/tablet, computer, or laptop)
-- What is the first language that you learned to speak as a child? (if not English, record as "non-native English speaker")
+- What device will you use to join the research session? *(Must be a smartphone and NOT iPad/tablet, computer, or laptop)*
+- What is the first language that you learned to speak as a child? *(If not English, record as "non-native English speaker")*
+- It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as gay, lesbian, bisexual, or transgender? Yes, No, or Decline to Answer? *(Please include these responses in the Participant Roster and Schedule)*
+
 
 ## Timeline
 #### Desired Timeline: Oct 11-14, 2021 
