@@ -28,7 +28,7 @@
 
 Thank you for joining us today! My name is Cindy. Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker, [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
 
-I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to get your feedback on a tool for reporting harassment that occurred at a VA site. 
+I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to get your feedback on *a tool for reporting harassment that occurred at a VA site*. Your feedback could help us make the tool more friendly and easier to use by Veterans like you.
 
 **Are you comfortable proceeding with this session?**
 If no:
@@ -41,7 +41,7 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 - **This session may take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task. Please let me know if you need a break at any time.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing this tool to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **If for any reason and at any time you want to stop the session, please let me know.** You can take a break from the session or end it altogether.
 - I will be sharing a web link with you during the session. **How would you prefer to receive the URL?** 
   - I could read it to you, put it in the Zoom chat, email it to you, or *(only if on a phone)* text it to you.
     - *(if email)* Is your current email XYX *(get from participant roster)* ?
@@ -78,6 +78,8 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 ## Protocol for Recognizing & Handing Trauma-Triggering
 OBSERVE the participant's body language and tone of voice
+
+SHARE the Veterans Crisis Line to call, text, or chat (from red link at top of VA.gov web pages.
 
 ## Warm-up Questions - 5 minutes
 
