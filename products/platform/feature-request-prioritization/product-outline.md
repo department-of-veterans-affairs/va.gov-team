@@ -9,6 +9,12 @@ A standard Platform process for receiving and prioritizing feature requests and 
 Currently, there is no streamlined process for ideas to get on the value matrix, be scored and moved to team's backlogs. We could be missing out on valuable iterations we didn't think of and it is very difficult to communicate to customers or stakeholders around the priority of their requests.
 
 ## Desired Outcomes 
+_What do you hope changes as a result of launching this product or feature?_
+
+- [Fill out here]
+- [Fill out here]
+- [Fill out here]
+- [Fill out here]
 
 ## Personas
 
