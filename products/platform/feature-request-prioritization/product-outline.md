@@ -24,6 +24,7 @@ _What do you hope changes as a result of launching this product or feature?_
 - VFS folks can more easily resolve their own issues.
 - VSP can use this aggregation of support inicidents to identify areas where we need more or clearer documentation.
 - VSP can use this aggregation of support incidents to identify areas where we need more automation.
+- Every VFS team member and stakeholder is aware and understands improvements to platform features, services, and processes and as a result is less confused and frustrated about 
 
 ## Personas
 
