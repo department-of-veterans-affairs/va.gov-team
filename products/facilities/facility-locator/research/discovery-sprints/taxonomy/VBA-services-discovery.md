@@ -1,4 +1,4 @@
-## VBA Services Discovery
+## VBA Services Discovery - Resources and support
 
 Discovery for [issue #30836](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30836).
 
@@ -39,6 +39,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### IDES
 #### Pre_Discharge_Claim_Assistance
 #### Transition_Assistance
+  - [Found no references to transition benefit services]
 #### Updating_Direct_Deposit_Informa
 - *Resources and support* links to the external page [Change Your VA Direct Deposit Information](https://www.va.gov/change-direct-deposit/) containing the language:
   - "Change your VA direct deposit information"
