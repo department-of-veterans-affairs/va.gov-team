@@ -154,11 +154,11 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 |KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Clicks into individual claims ("view claim")| ~102K clicks|TBD|TBD|
-|Clicks to view all claims ("Manage all your claims and appeals")| ~77K|TBD|TBD|
-|Clicks to view all appointments ("Schedule and view your appointments")| ~20K|TBD|TBD|
-|Clicks to view all messages ("You have n unread messages")| ~32K|TBD|TBD|
-|Clicks to view all prescriptions ("Refill and track your prescriptions")|~20K|TBD|TBD|
+|Clicks into individual claims ("view claim")| ~102K clicks|~206k|TBD|
+|Clicks to view all claims ("Manage all your claims and appeals")| ~77K|~192k|TBD|
+|Clicks to view all appointments ("Schedule and view your appointments")| ~20K|~42k|TBD|
+|Clicks to view all messages ("You have n unread messages")| ~32K|~49k|TBD|
+|Clicks to view all prescriptions ("Refill and track your prescriptions")|~20K|~40k|TBD|
 
 **Key result #3** — Findability: Reduce search incidents for features that exist on My VA. None of the features on the page should be in the top 20 search terms for searches generate from My VA.
 
@@ -166,10 +166,10 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 |KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Search rank for "disability rating” from My VA| #4|TBD|TBD|
-|Search rank for "rating” from My VA| #7|TBD|TBD|
-|Search rank for "disability” from My VA| #8|TBD|TBD|
-|Search rank for "claim” from My VA| #17|TBD|TBD|
+|Search rank for "disability rating” from My VA| #4|#24|TBD|
+|Search rank for "rating” from My VA| #7|#25|TBD|
+|Search rank for "disability” from My VA| #8|#39|TBD|
+|Search rank for "claim” from My VA| #17|#88|TBD|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
