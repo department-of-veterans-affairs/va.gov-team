@@ -24,17 +24,19 @@
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
 
-**Related/Associated product(s)**
-- Product | Link to product outline 
+Increase percentage of acceptable Caregiver PoA documents
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+Legal representatives of Veterans are required to confirm their right to represent Veterans when submitting a 10-10cg. 
+
+As of August 2021, only about 30% of Power of Attorney (PoA) documents uploaded via the online 10-10CG are valid and complete PoA documents. Most are either incorrect documents or partial documents. 
+
+We recently added messaging via an expandable section to specify the correct document types, but it hasn't had much of an impact. As a result, the Sign-as-a-Representative feature was reduced from 75% to 50% availability per Caregiver Program office request.
+
+
+**Related/Associated product(s)**
+- [Caregiver Form (10-10cg)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product/product-outline.md)
 
 <!--
 ## Desired User Outcomes
