@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Google-Analytics.1877999672.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # Navigating Google Analytics
 
 VA.gov has a premium Google Analytics 360 *account* which houses all of the data for VA.gov. In this resource document, you'll find information on how Google Analytics is structured and when you should engage with Analytics-Insights. 
