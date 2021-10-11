@@ -12,11 +12,29 @@
 
 INVALIDATES:
 
+Palo Alto brings healthcare to underserved Veterans within its catchment area. Today we can't easily support their use case and make it easy for Veterans to learn about these mobile services. 
+
+For this calendar year Palo Alto travels to 206 sites, “stops”, 46 of them are unique locations, meaning they do 'repeat visits' to those 49 locations.  If they don’t get much turnout, then they may remove locations and/or try new locations. eg. this year they added 10 new locations over last year.  5+ unique locations could be in “San Jose” alone so those 5 would show up as “Mobile clinic - Jan Jose, CA”, undistinguishable, in the left nav but all would have unique addresses.
+
+They also travel to and support events (like flu clinics, marine muster corp events) but felt that there was a distinction between what they offer at events and the health care services offered on the 206 stops because they **go to** the Veterans at VFWs, homeless shelters, etc. and within the single visit they can register, enroll, conduct a health history and see Veterans for their first health care appt. 
+
+Their services are “walk-in”, not scheduled.
+
 ### Risks
+
+- Long unusable left nav, e.g. 46 "stops", 
+- Indistinguishable locations: e.g. 5 of them look like the same location, "Mobile clinic - San Jose, CA"
+- Unsustainable workload produced by having to create and maintain 46 pages with fluctuating schedules
 
 ### Pain points:
 
+- Unsustainable workload for webmaster
+
 ### Opportunities:
+
+- Data input and separation of duties; Dr. Lighthouse has an admin that could supply/edit schedule changes. 
+      - Could an outside admin feed the schedule data via a spreadsheet or other means of keeping data clean? 
+- Search by service: When a Veteran searches for 'Flu vaccinations' how might we connect the event with the location from Google or Facility Locator? 
 
 ### Other notes:
 
