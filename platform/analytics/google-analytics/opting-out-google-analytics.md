@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Getting-started-with-Platform-Analytics-&-Insights.1771864128.html#GettingstartedwithPlatformAnalytics&Insights-WhatisoptingoutofanalyticsonVA.gov?HowdoIoptout?) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 ## Analytics Opt-Out
 
 #### Who should read this?
