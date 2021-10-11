@@ -53,9 +53,19 @@ Long Term:
 ## Details of Findings
 
 1. Some MMUs travel hundreds of times in a calendar making it inefficient to create a complete facility site for each stop.
-  - For example, for calendar year 2021, Palo Alto will travel to 206 sites, “stops”, 49 of them are unique locations, meaning they do 'repeat visits' to those 49 locations.
+
+    - For example, for calendar year 2021, Palo Alto will travel to 206 sites, “stops”, 49 of them are unique locations, meaning they do 'repeat visits' to those 49 locations.
+
 2. Some MMUs travel to multiple addresses with a shared city and state. 
-  - For example, 5+ of Palo Alto's 49 unique locations are in “San Jose” alone so those 5 would show up as “Mobile clinic - Jan Jose, CA” with the current design iteration, indistinguishable, in the left nav but all would have unique addresses.
+
+    - For example, 5+ of Palo Alto's 49 unique locations are in “San Jose” alone so those 5 would show up as “Mobile clinic - Jan Jose, CA” with the current design iteration, indistinguishable, in the left nav but all would have unique addresses.
+
 3. Some MMU medical services are offered without an appointment.
+
+    - Palo Alto's MMUs travel to many Veteran communities who are either homeless, underserved or not yet enrolled, therefore their medical outreach model of healthcare is mostly walk-in.
+
+    > "in general all of ours are walk-in, no appts.  So, we don’t know who’s coming ahead of time."
+
 4. Maintaining data accuracy for a fluctuating number of websites may be impossible for some low-staffed locations. 
+
 5. Content editors liked the option of a flexible, rich text, content section.
