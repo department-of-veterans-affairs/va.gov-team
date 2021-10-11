@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Google-Analytics.1877999672.html#GoogleAnalytics-TrainingResources) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # Google Analytics Tracking Overview
 Objective: This resource defines common Google Analytics terms and provides more context on their usage within VA.gov. 
 
