@@ -28,7 +28,7 @@
 
 Thank you for joining us today! My name is Cindy. Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker, [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
 
-I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to get your feedback on *a tool for reporting harassment that occurred at a VA site*. Your feedback could help us make the tool more friendly and easier to use by Veterans like you.
+I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to get your feedback on *a tool for reporting harassment that occurred at a VA site*. Your input could help us make the tool easier to use by Veterans like you.
 
 **Are you comfortable proceeding with this session?**
 If no:
@@ -77,15 +77,21 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handing Trauma-Triggering
-OBSERVE the participant's body language and tone of voice
+OBSERVE the participant's body language, tone of voice, and the environment. SENSE discomfort, anxiety, nervousness, anger, crying, shakiness. Prolonged silences? Shifts in tone or attitude? New background noises? Staring into space? 
+- If notice a change, SAY one of these: 
+  - I realize this is hard. Would you like to take a break or stop?
+  - Would you like me to stop recording?
+  - Do you want to just sit here quietly for a few minutes?
+  - Is it OK for us to continue, or would you like to pause?
+  - Is this still a good time for this interview?
 
-SHARE the Veterans Crisis Line to call, text, or chat (from red link at top of VA.gov web pages.
+SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red link at top of VA.gov web pages).
 
-## Warm-up Questions - 5 minutes
+## Warm-up Question - 5 minutes
 
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
-Let’s start with a few questions...
+Let’s start with a question...
 - Where do you typically go to get information about VA benefits?
 
 (Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)
@@ -126,6 +132,12 @@ While you're looking at this prototype, I would like you to *talk aloud* as much
 - What would you like to *change* about what you've seen today?
 
 - What improvements could make search easier or better for you? 
+
+- We would like this harassment reporting tool to meet the needs of all Veterans who may have been harassed at a VA site. We would like to know a little more about your experience with harassment, if you're willing to share...
+  - Have you ever been harassed at the VA before--in person, over the phone, or in email or text? 
+  - If so, did you report it?
+  - If so, *how* did you report it? 
+  - How would you prefer to report any future harassment? *(this tool / phone call / ____________________)*
 
 - Is there anything else that we haven't talked about that you think I should know? 
 
