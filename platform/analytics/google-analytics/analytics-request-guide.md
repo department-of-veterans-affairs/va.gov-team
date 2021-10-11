@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guide.1586823275.html#Analyticscustomersupportguide-1.RequestaccesstoGoogleAnalytics) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # How to Request Google Analytics Support
 
 ### [1. Requesting Access to Google Analytics](#requesting-access-to-google-analytics)
