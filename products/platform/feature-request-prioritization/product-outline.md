@@ -9,22 +9,11 @@ A standard Platform process for receiving and prioritizing feature requests and 
 Currently, there is no streamlined process for ideas to get on the value matrix, be scored and moved to team's backlogs. We could be missing out on valuable iterations we didn't think of and it is very difficult to communicate to customers or stakeholders around the priority of their requests.
 
 ## Desired Outcomes 
-_What do you hope changes as a result of launching this product or feature?_
-
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- **Veterans:** As a Veteran with service connected disabilities, I want to quickly and easily apply and obtain as many benefits as possible.  
-- **eBenefits Team:** Engagement with the specific product increases
-  - More visibility, more conversion
-  - More benefits are put into affect for the Veteran
-  - Ensuring that we are able to establish the right metrics for each product we transfrom, and ask the question: what else can we improve while we migrate.
-- The process for inputting a support request is easy enough that VSP folks do it 95% of the time.
-- VFS folks can more easily resolve their own issues.
-- VSP can use this aggregation of support inicidents to identify areas where we need more or clearer documentation.
-- VSP can use this aggregation of support incidents to identify areas where we need more automation.
-- Every VFS team member and stakeholder is aware and understands improvements to platform features, services, and processes and as a result is less confused and frustrated about 
+- **VFS Teams:**: VFS teams have a standard way to submit feature requests to the Platform and be notified of their status.
+- **Platform Teams:** 
+  - Can find all submitted feature requests in a single place.
+  - Receive requests with sufficient information to be quickly assessed and prioritized by Platform team leads.
+  - Place all approved requests in a team's initiative backlog.
 
 ## Personas
 
