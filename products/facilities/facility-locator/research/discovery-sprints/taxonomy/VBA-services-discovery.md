@@ -64,7 +64,6 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### IDES
 - (Found no referencs to Integrated Disability Evaluation System Assistance (IDES) benefits services)
 #### Pre_Discharge_Claim_Assistance
-- 
 #### Transition_Assistance
 - (Found no references to transition benefit services)
 #### Updating_Direct_Deposit_Informa
@@ -79,3 +78,4 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 - [Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/)
 - [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/)
 - [Combat-Related Special Compensation](https://www.va.gov/resources/combat-related-special-compensation-crsc/)
+- [Free language assistance](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/) is offered via phone, or at VA health facilities
