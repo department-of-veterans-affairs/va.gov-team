@@ -8,7 +8,10 @@
 
 ## Important Take-aways:
 
-### Use Case that validates new schedule design:
+### Use Case that validates/invalidates new schedule design:
+
+VALIDATES:
+
 “I would need to know on the website if i can put it on the website on a schedule, say show up 1x a month, go up and come down. This is going to be in Torrington on Sept 21st, if you’re interested please call this phone number. At midnight the 22nd that goes down automatically, or I put in the Oct date. Can I go in and schedule these snippets similar to what I do in Facebook? Take one down and put one up. That would be ideal.”
 
 ### Risks
