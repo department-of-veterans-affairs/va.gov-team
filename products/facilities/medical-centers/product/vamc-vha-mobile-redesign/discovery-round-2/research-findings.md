@@ -34,7 +34,7 @@ Content editors will be able to use the current design to effectively communicat
 
 ## Key Findings 
 
-1. Some MMUs travel hundreds of times in a calendar making it inefficient to create a complete facility site for each stop.
+1. Some MMUs travel hundreds of times in a calendar year making it inefficient to create a complete facility site for each stop.
 2. Some MMUs travel to multiple addresses with a shared city and state. 
 3. Some MMU medical services are offered without an appointment.
 4. Maintaining data accuracy for a fluctuating number of websites may be impossible for some low-staffed locations. 
@@ -49,6 +49,8 @@ Near Term:
 Long Term:
 - Consider a different parent child relationship between a VAMCs MMU services and their location/schedule information.
   - Consider decoupling a stop's location information from the services offered by the MMU if all stops share the same service offerings. Consider dedicating a separate page for schedule and location information. Revisit concepts [V2](https://app.mural.co/t/vsa8243/m/vsa8243/1631037297093/f42e9797d06d776f255651afcc64b977025d977a?wid=0-1631284163564&outline=open) and [V3](https://app.mural.co/t/vsa8243/m/vsa8243/1631037297093/f42e9797d06d776f255651afcc64b977025d977a?wid=0-1631291621464&outline=open)
+
+- Consider how Events pages can work with Mobile clinic facilities. Could the information architecture evolve to create a closer relationship between a location and an event? Could the link between each other so that the facility page does the heavy lifting of communicating health services and logistics, while an events page(s) lists 200+ locations? How could we surface events into Facility Locator?
 
 ## Details of Findings
 
@@ -68,4 +70,21 @@ Long Term:
 
 4. Maintaining data accuracy for a fluctuating number of websites may be impossible for some low-staffed locations. 
 
-5. Content editors liked the option of a flexible, rich text, content section.
+    - Regarding 49 mobile location pages:
+
+    > "So that would be a lot of editing because the schedule could change so I’d have to go in there..."
+
+    - Regarding being a 1-man-shop:
+
+    > "I have 3 mobile health and two brick and mortar health clinics. It becomes very time intensive, that’s where having a webmaster, would be awesome. " 
+
+5. Content editors liked the option of a flexible, rich text, content section. Even when the idea of editing multiple websites wasn't the ideal solution for the editors, hearing that the schedule section would allow rich text was received positively.
+
+   > "that would work for us"
+
+
+## Next steps
+
+- Test live pages with Veterans. 
+  - How would Veteran know to look for mobile clinic services if they didn't know they existed? Palo Alto's PAO said it well when she question:
+   > I don’t know how many Veterans would do a search or know what a mobile clinic is, or what services are offered there. So, could we instead do the search by the service instead. For example, if they put in, and I don’t know where they could search, but if they put in “Flu”, the pop up would be, flu clinic schedules, and then if the outreach team, and I don’t know if its in the background somewhere, the outreach team had, had a flu fair or an offering, they would see both, and they could see what’s closest to them. So that they’re looking, and that’s why I kind of got stuck on this page, [refers to health system health services] otherwise, I don’t know how many people would be doing a search for that or would know what mobile clinics do
