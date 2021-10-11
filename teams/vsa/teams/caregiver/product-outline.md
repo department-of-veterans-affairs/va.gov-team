@@ -2,8 +2,7 @@
 - GitHub Label: [#vsa-caregivers]
 - Slack channel: [#vsa-caregivers](https://dsva.slack.com/channels/vsa-caregivers)
 - VA.gov link: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
-- Product POCs: Alayna Abel, Ming Ligh
-
+- Product POCs: George Chewning
 ---
 
 ### Table of Contents
