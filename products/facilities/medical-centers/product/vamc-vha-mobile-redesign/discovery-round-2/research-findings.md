@@ -30,14 +30,14 @@ We conducted video interviews over Teamsite. Prototypes were screen shared and d
 
 Content editors will be able to use the current design to effectively communicate location and services information to Veterans.
 
-  - **Somewhat true:** The current design will allow content editors to communicate location and services for each "stop" that an MMU makes. However, it make not be the most effective way for editors to present this information nor for Veterans to consume it. 
+  - **Somewhat true:** The current design will allow content editors to communicate location and services for each "stop" that an MMU makes. However, it may not be the most effective way for editors to present this information nor for Veterans to consume it. 
 
 ## Key Findings 
 
 1. Some MMUs travel hundreds of times in a calendar year making it inefficient to create a complete facility site for each stop.
 2. Some MMUs travel to multiple addresses with a shared city and state. 
 3. Some MMU medical services are offered without an appointment.
-4. Maintaining data accuracy for a fluctuating number of websites may be impossible for some low-staffed locations. 
+4. Maintaining data accuracy for a fluctuating number of websites may be difficult, if not impossible, for some low-staffed locations. 
 5. Content editors liked the option of a flexible, rich text, content section.
 
 
@@ -60,19 +60,23 @@ Long Term:
 
 2. Some MMUs travel to multiple addresses with a shared city and state. 
 
-    - For example, 5+ of Palo Alto's 49 unique locations are in “San Jose” alone so those 5 would show up as “Mobile clinic - Jan Jose, CA” with the current design iteration, indistinguishable, in the left nav but all would have unique addresses.
+    - For example, 5+ of Palo Alto's 49 unique locations are in “San Jose” alone so those 5 would show up as “Mobile clinic - San Jose, CA” with the current design iteration, indistinguishable, in the left nav but all would have unique addresses.
+
+    > "I don’t think it would be helpful to have all of these different mobile clinics and locations given that, I mean we have 5 or 6 sites in San Jose alone. I’d hate for it to day San Jose, CA, San Jose, CA, San Jose, CA and have to click on each to see, ok this is the college." –PAO
+
+    > "I think we’re going to have build different versions, because you’re right it would be confusing to see the city repeated, maybe in the short term, is zip code better." –webmaster
 
 3. Some MMU medical services are offered without an appointment.
 
-    - Palo Alto's MMUs travel to many Veteran communities who are either homeless, underserved or not yet enrolled, therefore their medical outreach model of healthcare is mostly walk-in.
+    - Palo Alto's MMUs travel to many Veteran communities who are either homeless, underserved or not yet enrolled, therefore their medical outreach model of healthcare is mostly walk-in yet highly efficient in that in a single meeting a Veteran and be registered, enrolled and complete their required first appt in order to get into the VA healthcare system. Venues targeted include: Homeless shelters, VFWs, colleges, senior centers.
 
     > "in general all of ours are walk-in, no appts.  So, we don’t know who’s coming ahead of time."
 
-4. Maintaining data accuracy for a fluctuating number of websites may be impossible for some low-staffed locations. 
+4. Maintaining data accuracy for a fluctuating number of websites may be difficult, if not impossible, for some low-staffed locations. 
 
     - Regarding 49 mobile location pages:
 
-    > "So that would be a lot of editing because the schedule could change so I’d have to go in there..."
+    > "I would have to go in maybe once a week, and verify the schedule and update it. It would not be like other locations. It wouldn’t be static. It would require alot of editing on our part."
 
     - Regarding being a 1-man-shop:
 
@@ -86,5 +90,8 @@ Long Term:
 ## Next steps
 
 - Test live pages with Veterans. 
-  - How would Veteran know to look for mobile clinic services if they didn't know they existed? Palo Alto's PAO said it well when she question:
+  - Understand how Veterans who have used MMU services in the past, found out about them. How would Veterans know to look for mobile clinic services if they didn't know they existed? Palo Alto's PAO said it well when she question:
    > I don’t know how many Veterans would do a search or know what a mobile clinic is, or what services are offered there. So, could we instead do the search by the service instead. For example, if they put in, and I don’t know where they could search, but if they put in “Flu”, the pop up would be, flu clinic schedules, and then if the outreach team, and I don’t know if its in the background somewhere, the outreach team had, had a flu fair or an offering, they would see both, and they could see what’s closest to them. So that they’re looking, and that’s why I kind of got stuck on this page, [refers to health system health services] otherwise, I don’t know how many people would be doing a search for that or would know what mobile clinics do
+- Start recruiting efforts to learn from Cheyenne, WY Veterans who've used mobile clinic services in the past. Work with PAO (Samuel E House - Public Affairs Specialist) who is willing to distribute a call for participation email to a segment of Veterans in his database that fit this profile. 
+   - Reach out to Palo Alto PAO as well - we did not discuss this during the session.
+   -  Target 1-month out from start of testing to allow for Perigean to help recruit but not too much that Veterans get called on for other studies beforehand.
