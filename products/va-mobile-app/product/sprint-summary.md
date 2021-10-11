@@ -1,9 +1,18 @@
 # VA Mobile team - Sprint accomplishments
 
 ## Sprint: 9/29/21 - 10/12/21
-- 123
-- xyz
-- abc
+- Vaccine Records
+  - Created wireframe(s) for displaying immunization data
+  - Conducted technical prototyping (test Lighthouse API)
+  - Started mocking up flow in front end 
+- Appointments
+  - Display reason for an appointment (user entered)
+  - Showing appointment type with icons (camera & phone) 
+- Mobile Refinements
+  - Secure messaging action sheet confirmation
+  - Draft message no longer persistent 
+Co-Design & Research
+
 
 ## Sprint: 9/15/21 - 9/28/21
 
