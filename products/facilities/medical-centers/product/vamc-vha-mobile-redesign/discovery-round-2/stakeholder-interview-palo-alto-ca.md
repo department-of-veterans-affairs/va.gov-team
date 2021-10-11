@@ -72,6 +72,7 @@ In the parking lot of a VFW or homeless shelter, and sometimes we don’t use th
 
 ##### MMU Schedule for “Bertha” and “Zeus”
 ![image](https://user-images.githubusercontent.com/4960080/136813620-c68e8863-6ef7-4869-9b8c-8540a56d2a15.png)
+
 So this is internal, we’d love have something for Veterans to access, but anyone in our VA can access this Sharepoint site. But this just shows, our MMUs are Bertha and Zeus, and its color coded. So, the Modesto Salvation Army is a homeless site, Santa Cruz has a large number of homeless Veterans, libraries, oh, we also go to Veteran’s court, maple street - we’re also doing surveillance and covid testing - so this is a homeless shelter so we’re doing some testing because there was a positive, here’s Powow, Manteca VFW (we’re doing flu vaccines now so any of the sites with FLU [preceding the name] we’re doing flu vaccines), SJSU is San Jose State University,
 ![image](https://user-images.githubusercontent.com/4960080/136813706-7917463c-195f-4828-9fd5-94bbbcfa1263.png)
 
