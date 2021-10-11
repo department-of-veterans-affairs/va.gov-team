@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Google-Analytics-and-Google-Tag-Manager.1857978529.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 ## Welcome to Google Analytics
 
 VA.gov uses the paid tier for Google Analytics, called Google Analytics 360 or GA 360. The premium versions offers a higher tier of data collection and more customizable traits that we can use to measure success. 
