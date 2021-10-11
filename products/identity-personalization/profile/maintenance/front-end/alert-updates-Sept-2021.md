@@ -2,7 +2,7 @@
 
 **Last updated:** 10/11/21
 
-**Status:** pending content review
+**Status:** pending content review in [#30265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30265)
 
 Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?sender=lizlantz1528) to see alert states as of September 2021, and screenshots of these use cases.
 
