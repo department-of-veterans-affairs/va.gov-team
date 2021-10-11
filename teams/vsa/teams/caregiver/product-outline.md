@@ -175,24 +175,6 @@ Note: as of 05/27, the program office has not made specific plans to release the
 - Roadmap: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/OKR_Roadmap_Caregivers.png
 - ATO documentation
 
-## Team
-
-- VA.gov Lead: Chris Johnston 
-- VA Policy Expert(s): TBD
-- VA Digital Strategist(s) `*`: C.C. Gong
-- Product Manager `*`: Alayna Abel
-- Design Lead: Shawna Hein
-- Eng Lead: Paul Short
-- VA Web Comms Partner: 
-- VA Call Center Partner(s): TBD
-- Production Testing Partner(s): TBD
-- Designer(s): Jonathan Nelson
-- Content Writer(s): Patrick Sanders
-- Front-end Engineer(s): Justin Linn
-- Back-end Engineer(s): Kevin Mircovich
-
-`*` = approval required for launch
-
 ### Screenshots
 #### Before: 
 https://www.va.gov/health-care/forms/vha-10-10CG.pdf
