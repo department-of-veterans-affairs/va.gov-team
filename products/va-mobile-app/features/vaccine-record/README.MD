@@ -3,4 +3,4 @@ This folder contains information about the vaccine records feature implemented o
 
 - Current state overview of how Veterans access their healthcare records 
 - Comparative analysis of other apps that show vaccine information
-- Vaccine record overview that includes more details on what we are building, how we are building it, and the UX strategy. 
+- [Vaccine record overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/vaccine-record/Vaccine%20Records%20Overview%20.pdf) that includes more details on what we are building, how we are building it, and the UX strategy. 
