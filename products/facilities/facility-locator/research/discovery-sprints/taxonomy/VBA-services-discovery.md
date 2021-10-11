@@ -38,5 +38,6 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Pre_Discharge_Claim_Assistance
 #### Transition_Assistance
 #### Updating_Direct_Deposit_Informa
+  - Use of both "Change your VA direct deposit information" as well as "Update your direct deposit information" ([link to page](https://www.va.gov/change-direct-deposit/))
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
