@@ -1,6 +1,6 @@
 # Product Outline: VA.gov Profile
 
-Last Updated May 4, 2021
+Last Updated October 11, 2021
 
 ### Communications
 - GitHub Label: Profile
@@ -11,6 +11,7 @@ Last Updated May 4, 2021
      - Contact information
      - Direct deposit
      - VA Profile (formerly Vet360)
+     - Notification settings, communication permissions
 
 ### Roles  
   
@@ -147,7 +148,6 @@ We don’t want the profile to become such a de facto place for Veteran informat
 |Product/Project| Outline|
 |----|----|
 |Direct deposit for edu| [Direct deposit for edu outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md)|
-|Preferred medical facility| [Preferred facility outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) |
 | Commmunications permissions/notifications preferences | [Notification preferences outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) |
 
 ### Past projects
@@ -160,6 +160,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 |Direct deposit for comp & pen | [Direct deposit for comp & pen outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)|
 |Contact information| [Contact information outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)|
 |2018 MVP| [2018 MVP outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Readme.md)|
+|Preferred medical facility| [Preferred facility outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) |
 
 ### Timeline
 
@@ -187,6 +188,7 @@ We don’t want the profile to become such a de facto place for Veteran informat
 - Direct deposit for edu information comes from BGS.
 - Personal information comes from MPI.
 - Military information comes from eMIS.
+- Notification settings (communication permissions) come from VA Profile.
 
 ## Design 
 
