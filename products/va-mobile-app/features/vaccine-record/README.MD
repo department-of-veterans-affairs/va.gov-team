@@ -1,5 +1,5 @@
 
-This file contains information about the vaccine records feature implemented on the VA mobile app.
+This folder contains information about the vaccine records feature implemented on the VA mobile app.
 
 - Current state overview of how Veterans access their healthcare records 
 - Comparative analysis of other apps that show vaccine information
