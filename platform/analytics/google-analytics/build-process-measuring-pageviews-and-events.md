@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Google-Analytics-and-Google-Tag-Manager.1857978529.html#GoogleAnalyticsandGoogleTagManager-GoogleTagManager) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # Build Process: Measuring Pageviews and Events
 
 The primary audience for this resource is for front-end engineers who want to understand how pageview and other interaction data is sent to Google Analytics. Tracking for each VFS tool is customized based on product requirements, but this overview will highlight considerations for the build process. 
