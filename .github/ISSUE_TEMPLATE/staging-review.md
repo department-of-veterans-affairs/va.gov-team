@@ -117,15 +117,14 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 
 ## Scheduling
 
+- Open the [staging review calendar](https://calendly.com/collaboration-cycle/staging-review)
+- Select a date and time and click “Confirm”
+- Fill out the form and add the VFS meeting attendees email addresses. 
+- Click Schedule Event
 <!-- 
-Open the staging review calendar (https://calendly.com/collaboration-cycle/staging-review)
-Select an open date and time and click “Confirm”
-Fill out the form and add the attendees from your team by entering their email addresses. 
-Click Schedule Event
-You will receive an email and the meeting will be automatically added to your calendar
+Please note: You are responsible for adding the VFS atteendees. Platform will add the Platform reviews. You will receive an email and the meeting will be automatically added to your calendar
 -->
 
-**[Insert date here]** **[Insert time here]**
 
 <!-- 
 Please note:
