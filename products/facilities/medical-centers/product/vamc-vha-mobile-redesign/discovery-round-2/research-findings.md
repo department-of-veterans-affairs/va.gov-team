@@ -50,3 +50,12 @@ Long Term:
 - Consider a different parent child relationship between a VAMCs MMU services and their location/schedule information.
   - Consider decoupling a stop's location information from the services offered by the MMU if all stops share the same service offerings. Consider dedicating a separate page for schedule and location information. Revisit concepts [V2](https://app.mural.co/t/vsa8243/m/vsa8243/1631037297093/f42e9797d06d776f255651afcc64b977025d977a?wid=0-1631284163564&outline=open) and [V3](https://app.mural.co/t/vsa8243/m/vsa8243/1631037297093/f42e9797d06d776f255651afcc64b977025d977a?wid=0-1631291621464&outline=open)
 
+## Details of Findings
+
+1. Some MMUs travel hundreds of times in a calendar making it inefficient to create a complete facility site for each stop.
+  - For example, for calendar year 2021, Palo Alto will travel to 206 sites, “stops”, 49 of them are unique locations, meaning they do 'repeat visits' to those 49 locations.
+2. Some MMUs travel to multiple addresses with a shared city and state. 
+  - For example, 5+ of Palo Alto's 49 unique locations are in “San Jose” alone so those 5 would show up as “Mobile clinic - Jan Jose, CA” with the current design iteration, indistinguishable, in the left nav but all would have unique addresses.
+3. Some MMU medical services are offered without an appointment.
+4. Maintaining data accuracy for a fluctuating number of websites may be impossible for some low-staffed locations. 
+5. Content editors liked the option of a flexible, rich text, content section.
