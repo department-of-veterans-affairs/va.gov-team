@@ -1,16 +1,18 @@
-# Non-Veteran user roles: previous research notes
+# Non-Veteran user roles: questions and resources
 
 **Last updated:** 10/11/2021
 
 Capturing questions and resources that pop up as we explore documentation that exists related to non-Veteran user roles and tasks.
 
-Screenshots and definitions captured in [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1633525573365/eeb43d10e07a7754128e175176c43bc00b43a883?sender=lizlantz1528).
+Screenshots and findigns captured in [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1633525573365/eeb43d10e07a7754128e175176c43bc00b43a883?sender=lizlantz1528).
 
-## VHA
+## Questions
+
+### VHA
 
 
 
-## VBA
+### VBA
 
 - Do BVA appeals fall under the jurisdiction of VBA?
 
@@ -18,13 +20,13 @@ Screenshots and definitions captured in [this mural board](https://app.mural.co/
 
   But those dependents wouldn't need to/want to log in for anything related to this, would they?
 
-### eBenefits
+#### eBenefits
 
 - eBenefits - parents are handled differently according to [this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/declare-dependent/discovery/basic-product-evaluation.md#help-and-documentation----average). Learn more about that.
 
 
 
-## NCA
+### NCA
 
 
 
