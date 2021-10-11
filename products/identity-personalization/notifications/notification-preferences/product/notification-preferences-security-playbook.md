@@ -1,4 +1,4 @@
-# Notifaction Preferences Security Playbook
+# Notification Preferences Security Playbook
 
 NOTE: 
 - links to complete data for each of the sections below is welcome and encouraged.
@@ -28,15 +28,14 @@ NOTE:
 ## Troubleshooting
 
 ### Errors and Metrics
-link to errors and logs your product produces
-brief explanation of errors/metrics (or link to them here)
+Backend errors are logged in sentry tagged with `controller_name: communication_preferences`  
+Statsd logs have the `api.va_profile` prefix
 
 ### Issue investigation steps
-- Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
+- The VA profile team can be reached in the #va-profile slack channel if there are errors with the VA profile API.
 
 ### Flipper Features and Rollback
-- Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
-- At what point, if applicable, should your code be rolled back, to what state? (optional)
+- The `profile_notification_settings` flipper can be used to turn on or off the notification settings page.
 
 ## Security
 No PII/PHI involved in this feature, or known/accepted security vulnerabitlities
