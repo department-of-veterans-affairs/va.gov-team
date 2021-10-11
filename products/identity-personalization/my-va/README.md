@@ -175,9 +175,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 |KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Logged-in search rank for "disability rating” on all VA.gov| #9 & #15|TBD|TBD|
-|Logged-in search rank for "rating” on all VA.gov| #11|TBD|TBD|
-|Logged-in search rank for "disability” on all VA.gov| #21|TBD|TBD|
+|Logged-in search rank for "disability rating” on all VA.gov| #9 & #15|#8 & #27|TBD|
+|Logged-in search rank for "rating” on all VA.gov| #11|#13 & #15|TBD|
+|Logged-in search rank for "disability” on all VA.gov| #21|#32 & #70|TBD|
 
 **Key result #4** — Satisfaction: Increased user satisfaction score for My VA from 3.2 to 3.7 in ForeSee.
 
