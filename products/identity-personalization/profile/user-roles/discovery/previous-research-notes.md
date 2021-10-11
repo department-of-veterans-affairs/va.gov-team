@@ -38,7 +38,7 @@ Screenshots and findigns captured in [this mural board](https://app.mural.co/t/v
 
 [Lighthouse user roles research](https://docs.google.com/presentation/d/1umk3xortI1ApN1Fd5VYOP57kY8xqB6lcQsDX2-bkVNE/edit#slide=id.ga4450717c4_1_0)
 
-[Lighthouse VSO appeals research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits and Appeals Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
+[Lighthouse VSO appeals research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
 
 [eBenefits current UI dependent types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/declare-dependent/discovery/basic-product-evaluation.md)
 
