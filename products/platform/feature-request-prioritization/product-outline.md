@@ -2,7 +2,7 @@
 
 ## Overview
 
-*A brief description of the product.*
+A standard Platform process for receiving and prioritizing feature requests and communicating back to customers and other stakeholders.
 
 ## Problem Statement
 
