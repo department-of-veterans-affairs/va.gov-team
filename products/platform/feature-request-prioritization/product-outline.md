@@ -15,11 +15,15 @@ _What do you hope changes as a result of launching this product or feature?_
 - [Fill out here]
 - [Fill out here]
 - [Fill out here]
-- - **Veterans:** As a Veteran with service connected disabilities, I want to quickly and easily apply and obtain as many benefits as possible.  
+- **Veterans:** As a Veteran with service connected disabilities, I want to quickly and easily apply and obtain as many benefits as possible.  
 - **eBenefits Team:** Engagement with the specific product increases
   - More visibility, more conversion
   - More benefits are put into affect for the Veteran
   - Ensuring that we are able to establish the right metrics for each product we transfrom, and ask the question: what else can we improve while we migrate.
+- The process for inputting a support request is easy enough that VSP folks do it 95% of the time.
+- VFS folks can more easily resolve their own issues.
+- VSP can use this aggregation of support inicidents to identify areas where we need more or clearer documentation.
+- VSP can use this aggregation of support incidents to identify areas where we need more automation.
 
 ## Personas
 
