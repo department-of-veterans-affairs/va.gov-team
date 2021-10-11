@@ -21,31 +21,38 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 
 ### Key Findings
 
+- Most benefit services listed in the Facility Locator list are not present on the *Resources and support* hub
+
 ## Detailed Findings
 
 #### Applying_for_Benefits
 #### Burial_Claim_assistance
 #### Disability_Claim_assistance
-  - 
+- (Found no reference to benefits claim assistance services)
 #### eBenefits_Registration
 #### Education_and_Career_Counseling
-  - [Found no reference to counseling benefit services]
+- (Found no reference to counseling benefit services)
 #### Education_Claim_Assistance
 #### Family_Member_Claim_Assistance
 #### Homeless_Assistance
-  - [Found no references to homeless benefit services]
+- (Found no reference to homeless benefit services)
 #### VA_Home_Loan_Assistance
+- (Found no reference to loan assistance benefits services)
 #### Insurance_Claim_Assistance
 #### IDES
+- (Found no referencs to Integrated Disability Evaluation System Assistance (IDES) benefits services)
 #### Pre_Discharge_Claim_Assistance
 #### Transition_Assistance
-  - [Found no references to transition benefit services]
+- (Found no references to transition benefit services)
 #### Updating_Direct_Deposit_Informa
+- (Found no direct reference to updating deposit information benefits services)
 - *Resources and support* links to the external page [Change Your VA Direct Deposit Information](https://www.va.gov/change-direct-deposit/) containing the language:
   - "Change your VA direct deposit information"
   - "Update your direct deposit information"
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
-  - Information on updating and changing [personal information](https://www.va.gov/resources/managing-your-vagov-profile/), such as [address](https://www.va.gov/resources/change-your-address-on-file-with-va/) and [legal name](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/) 
-  - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
-  - "Check the status of your VA claim" ([Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/))
+- Information on updating and changing [personal information](https://www.va.gov/resources/managing-your-vagov-profile/), such as [address](https://www.va.gov/resources/change-your-address-on-file-with-va/) and [legal name](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/) 
+- Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
+- "Check the status of your VA claim" ([Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/))
+- Reference to "Travel pay reimbursement" ([Non-compensable disability](https://www.va.gov/resources/non-compensable-disability/))
+- [Combat-Related Special Compensation](https://www.va.gov/resources/combat-related-special-compensation-crsc/)
