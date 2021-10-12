@@ -1,8 +1,5 @@
 # Product outline: Find VA Forms - Search Landing & Form Detail Pages
 
-This is the folder for all background, historical, discovery, and status documentation for the Find a VA Form 2020 product redesign MVP. Refer to [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/State-of-the-Product.md) for the most up-to-date information about this product.
-
-**Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See  tab/sheet called "VA.gov tools mapped to VA forms."**
 
 [VA.gov Product Directory-SharePoint (See last tab in sheet)](https://dvagov.sharepoint.com/:x:/s/CTOTeam/EfFzSYBuL5pHqbGtTBpk7EkBXfw_f8r5QR2C8VJCzifbAg)
 
