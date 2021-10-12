@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Caregiver PoA - Initiative Brief
 #### Overview
 
 <details>
@@ -7,18 +7,6 @@
  
 </details>
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
  > 💡 Helpful guidance/tips
  
 ---
@@ -42,10 +30,11 @@ We recently added messaging via an expandable section to specify the correct doc
 - *Why would a user want to use this?*
   - Caregivers with the right to represent a Veteran want a way to affirm their legal status.
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-  - 
+  - Submit 10-10cgs as a legal representative of a Veteran
 
 ### Undesired User Outcomes
 - Confusion around what's acceptable PoA documentation vs. not
+
 ### Desired Business Outcomes
 
 - *Why would your business want this to exist?*
@@ -95,7 +84,7 @@ We recently added messaging via an expandable section to specify the correct doc
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff *Draft*](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31288)
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -126,10 +115,9 @@ We recently added messaging via an expandable section to specify the correct doc
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: VSA Caregiver
+- GitHub Label(s): vsa-caregiver
+- Slack channel: #vsa-caregiver
 
 </details>
 
@@ -139,8 +127,7 @@ We recently added messaging via an expandable section to specify the correct doc
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: Caregiver Program Office 
  
 </details>
 
