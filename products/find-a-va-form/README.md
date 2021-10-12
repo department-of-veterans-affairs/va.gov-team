@@ -15,6 +15,7 @@ This is the folder for all background, historical, discovery, and status documen
     - [KPIs](#kpis)
     - [Go To Market Strategy](#Go-to-market-Strategy)
 - [Launch Dates](#launch-dates)
+    - [PDF Modal](#pdf-modal)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
     - [Use Administration Field for Related To Info](#use-administration-field-for-related-to-info)
     - [Transforming Search Terms Iteration 1](#transforming-search-terms-iteration-1)
@@ -27,6 +28,8 @@ This is the folder for all background, historical, discovery, and status documen
    - [End to End Flow to Forms API](#end-to-end-flow-to-forms-API)
    - [Content Flow Diagram](#Content-Flow-Diagram)
    - [Detail Page Content Architecture Diagram](#Detail-Page-Content-Architecture-Diagram)
+   - [Code Repository](#code-repository)
+   - [VA Forms API Documentation](#va-forms-api-documentation)
 - [Troubleshooting](#troubleshooting)
 - [Status and decisions](#status-and-decisions)
 
@@ -110,6 +113,8 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 **Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
 **Signal**: are people downloading form applications or starting a new benefit application\
 **Metrics**:
+- Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
+- Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
 
 *Find VA Forms - Search*
 Search Relevancy
@@ -203,6 +208,13 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 
 ### Detail Page Content Architecture Diagram
 [Whimsical diagram - form detail page content architecture](https://whimsical.com/forms-detail-page-content-architecture-Bn5zRk2PDzuSjpu1d5q4Pu)
+
+### Code Repository
+|[Code Repository](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms)| Find a VA Form source repo| [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
+
+### VA Forms API Documentation
+|[VA Forms API](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) | Documentation for API that indexes data sourced from VA.gov  | Lighthouse
+
 
 # Troubleshooting
 - Compare versions in CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000
