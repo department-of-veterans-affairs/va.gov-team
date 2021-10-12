@@ -2,7 +2,7 @@
 
 ## What is Check In Experience (CIE)?
 
-Check In Experience is a VA.gov product that will allow a Veteran with an appointment to check in for that appointment from va.gov using a mobile device. The Check In Integration Platform (CHIP) integration layer also supports functionality required by two staff facing applications.
+Check In Experience is a VA.gov product that will allow a Veteran with an appointment to check in for that appointment on the va.gov website using a mobile device. The Check In Integration Platform (CHIP) integration layer also supports functionality required by two staff facing applications.
 
 ## Check In Experience System Architecture:
 
@@ -16,7 +16,7 @@ Check In Experience consists of muliple code bases deployed to two different AWS
 
 Check In Experience consists of five main containers (see components section for details):
 
-- vets-website:
+- vets-website
 - vets-api
 - CHIP
 - Lorota
@@ -32,8 +32,8 @@ Check In Experience consists of five main containers (see components section for
 - Built with reactJS
 - Calls vets-api to:
   - Establish session
-  - Authorize Veteran based on lastName and lastFour
-  - Refresh of appointment list
+  - Authorize Veteran based on matched phone number, lastName and lastFour
+  - Refresh list of appointments
   - Check in for a specific appointment
 
 [vets-website Component Diagram image ToDo](./todo)
@@ -79,7 +79,7 @@ Check In Experience consists of five main containers (see components section for
 
 ### profile-service
 
-- Provides functinality related to grouping of clinics
+- Provides functionality related to grouping of clinics
 - AWS Lambda built with nodeJS
 
 [profile-service Component Diagram Todo](./todo)
