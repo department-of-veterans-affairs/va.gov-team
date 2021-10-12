@@ -25,7 +25,7 @@ Currently, there is no streamlined process for ideas to get on the value matrix,
 
 ### Key Performance Indicators (KPIs)
 
-- % of submittted feature requests that are reviewed each month
+- *% of submittted feature requests that are reviewed each month*
 
 #### Baseline KPI Values
 
