@@ -13,7 +13,7 @@ This is the folder for all background, historical, discovery, and status documen
    - [Team](#team)
 - [Problem Statement](#problem-statement)
     - [KPIs](#kpis)
-    - [Go-To-Market Strategy](#Go-to-market-Strategy)
+    - [Go To Market Strategy](#Go-to-market-Strategy)
 - [Launch Dates](#launch-dates)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
     - [Use Administration Field for Related To Info](#use-administration-field-for-related-to-info)
@@ -24,7 +24,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [Architecture](#launch-dates)
    - [Data Flow Diagram](#data-flow-diagram)
    - [Drupal CMS Migration Documentation](#Drupal-CMS-Forms-Migration-Documentation)
-   - [End-to-End Flow to Forms API](#end-to-end flow to forms API)
+   - [End to End Flow to Forms API](#end-to-end-flow-to-forms-API)
    - [Content Flow Diagram](#Content-Flow-Diagram)
    - [Detail Page Content Architecture Diagram](#Detail-Page-Content-Architecture-Diagram)
 - [Troubleshooting](#troubleshooting)
@@ -42,8 +42,8 @@ As of 12/31/2020:
 ### Decision Tools Team Members
 |Name|Role|
 |----|----|
-|John Hashimoto	| Decision Tools Product Owner|
-|Marci McGuire	| Decision Tools Product Manager|
+|Dave Conlon	| Find a VA Form Product Owner|
+|Marci McGuire	| Search Product Manager|
 |Zachary Morel	|FE Engineer|
 |Cassandra Allen| Design|
 
@@ -58,14 +58,15 @@ As of 12/31/2020:
 ### Other Subject Matter Experts
 |Name|Role|
 |----|----|
-|Jen Lee	| Former Product Owner|
+|Marci McGuire	| Former Product Manager, iterations on Find a Form|
+|Zachary Morel	|Form FE Engineer, iterations on Find a Form|
+|Cassandra Allen| Design|
 |Brian Lloyd	| Former Product Manager|
 |Mickin Sahni	| Former Product Manager|
 |Mark Greenburg	|VA APIs|
-|Nick Sullivan	|FE Engineer|
-|Kelson Adams	| FE Engineer|
+|Kelson Adams	| FE Engineer, MVP|
 |Steve Wirt	| CMS: Drupal|
-|Ryan Thurlwell	| Design Lead|
+|Ryan Thurlwell	| Design Lead, MVP|
 |Charley Stran	| Formerly supported Forms on Lighthouse API team|
 
 __VA forms stakeholder working group includes:__
@@ -142,10 +143,18 @@ Engagement
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
 ## Launch Dates
+### PDF Modal
+- Go-live: Q3 2021
+  - Invokes a modal upon clicking a link to download a PDF 
+  - Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows
+  - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
+  - Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
+
 ### Transforming Search Terms Iteration 2
 - Go-live: Jul 6, 2021
 - Includes several enhancements:
-   - Updates
+   - Forms API modifications to handle misspellings, disregard placement/omission of dashes, adds root word searching
+   - UI updates to make action links, buttons and text links consistent with other search tools
 
 ### Use Administration Field for Related To Info
 - Go-live: Mar 24, 2021 #21366
