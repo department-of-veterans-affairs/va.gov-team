@@ -145,7 +145,7 @@ Engagement
 ## Launch Dates
 ### PDF Modal
 - Go-live: Q3 2021
-  - Invokes a modal upon clicking a link to download a PDF 
+  - Introduces a modal which is invoked upon clicking a link to download a PDF on the Find a VA Form search page or any of the form detail pages.
   - Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows
   - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
   - Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
@@ -217,6 +217,16 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 
 ------
 ## Status and decisions:
+### 8/
+
+### 8/1/2021 Marci McGuire
+The PDF user study revealed that almost every test user overlooked the download/Adobe Reader information, regardless of where we positioned and styled it.  After discussing with Ryan and Angela Fowler, we all agreed this was a good use case for a modal.  The modal would include 
+
+### 8/1/2021 Marci McGuire
+The PDF user study uncovered a wide variety of expected and unexpected issues with users downloading, saving, and opening PDF forms on various operating systems and browsers.  Because we only tested four forms during the hour-long sessions, John Hashimoto and Marci McGuire agreed it made sense to audit all of the forms available via Find a VA Form to determine how many forms exhibit the issues observed during user testing.  Upon taking over as Product Owner, Dave Conlon agreed having a sense of how many forms were impacted, as well as how often they were downloaded, would be useful to the VA. 
+
+### 6/1/2021 Marci McGuire
+After receiving several anectodal reports and experiencing first-hand issues with some PDF forms, John Hashimoto and Marci McGuire agreed it made sense to do a new user research session in which we would ask users to open several different PDF forms.  This session would not only allow us to confirm that users are experiencing issues, but also support exploring other options for electronic forms.
 
 ### 1/23/2021 Marci McGuire
 The post-MVP enhancements to link the Find a VA Form search page to form details pages and online tools was launched on 1/21/2021
@@ -230,7 +240,7 @@ We tentatively plan to launch Post-MVP enhancements on Jan 12, 2021, which will 
 ### 2020/12/21 Marci McGuire
 John Hashimoto and Marci McGuire agreed that the features being implemented were low-risk and don't warrant conducting user research.
 
-### 06/22/20
+### 06/22/20 
 
 Redirect of the forms search pages set for Thursday 6/25 implementation. Stakeholders notified. Per Kevin Reid, the Viewer page is not "owned" by the forms managers, so we will exclude that page from the redirects. 
 
