@@ -2,7 +2,7 @@
 
 ## Overview
 
-A standard Platform process for receiving and prioritizing feature requests and communicating back to customers and other stakeholders.
+A process for the Platform to receive feature requests in a standard way, prioritize them using the Value Matrix, add approved ones to teams's initiative backlogs, and then communicate back to customers and stakeholders.
 
 ## Problem Statement
 
