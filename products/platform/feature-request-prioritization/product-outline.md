@@ -16,8 +16,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 - **VFS Teams:** VFS teams have a standard way to submit feature requests to the Platform and be notified of their status.
 - **Platform Crew Teams and Leadership:** 
   - Can find all submitted feature requests in a single place.
-  - Receive requests with sufficient information to be quickly assessed and prioritized.
-  - Place all approved requests in a team's initiative backlog.
+  - Receive requests with sufficient information to be quickly assessed and prioritized
 - **OCTO-DE:**
   - Can view all submitted feature requests and their status in a single place.
   
