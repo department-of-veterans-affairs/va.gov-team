@@ -24,7 +24,7 @@ Currently, there is not a streamlined process for feature requests to get on the
 
 ## Personas
 
- VFS teams, OCTO-DE leads, Platform Leadership, Platform teams.
+ VFS teams, Platform teams, OCTO-DE leads, Platform Leadership.
 
 ## Measuring Success
 
