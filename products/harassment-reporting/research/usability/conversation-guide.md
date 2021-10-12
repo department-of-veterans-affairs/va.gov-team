@@ -28,7 +28,7 @@
 
 Thank you for joining us today! My name is Cindy. Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker, [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
 
-I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. Today, we want to get your feedback on *a tool for reporting harassment that occurred at a VA site*. Your input could help us make the tool easier to use by Veterans like you.
+I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. VA is working to stop harassment and make our locations and services safer for all. As part of these efforts, our team is exploring an online tool to make it easier for Veterans to report harassment at VA. Your input could help us make the tool easier to use by Veterans like you. We'll be talking about hypothetical situations, not your own experiences.
 
 **Are you comfortable proceeding with this session?**
 If no:
@@ -41,13 +41,13 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 - **This session may take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task. Please let me know if you need a break at any time.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing this tool to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
-- **If for any reason and at any time you want to stop the session, please let me know.** You can take a break from the session or end it altogether.
+- **If for any reason and at any time you want to take a break or stop the session, please let me know.** You can take a break from the session or end it altogether.
 - I will be sharing a web link with you during the session. **How would you prefer to receive the URL?** 
-  - I could read it to you, put it in the Zoom chat, email it to you, or *(only if on a phone)* text it to you.
+  - I could read it to you, put it in the Zoom chat, email it to you, or text it to you.
     - *(if email)* Is your current email XYX *(get from participant roster)* ?
     - *(if text)* What is your mobile phone number?
     
-- **Are you comfortable if I record my screen and audio as we talk today?** I use the recording to confirm that we have captured your opinions accurately. I delete the recording after I analyze it, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** I use the recording to confirm that we have captured your opinions accurately, and I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you.
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
@@ -77,15 +77,19 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handing Trauma-Triggering
-OBSERVE the participant's body language, tone of voice, and the environment. SENSE discomfort, anxiety, nervousness, anger, crying, shakiness. Prolonged silences? Shifts in tone or attitude? New background noises? Staring into space? 
+OBSERVE the participant's body language, tone of voice, and the environment. SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness. Prolonged silences? Shifts in tone or attitude or interactivity? New background noises? Staring into space? 
 - If notice a change, SAY one of these: 
   - I realize this is hard. Would you like to take a break or stop?
+  - I can see that you're upset. This is important to talk about, but we don't need to go there.
   - Would you like me to stop recording?
   - Do you want to just sit here quietly for a few minutes?
   - Is it OK for us to continue, or would you like to pause?
   - Is this still a good time for this interview?
 
-SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red link at top of VA.gov web pages).
+Clinician on the session (or on standby) jumps in to provide support, if needed. 
+
+SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red box at top of VA.gov web pages).
+  - Give them the number and let them leave the session??
 
 ## Warm-up Question - 5 minutes
 
@@ -120,7 +124,7 @@ While you're looking at this prototype, I would like you to *talk aloud* as much
 
 ### Task 1: [description] - 5 minutes
 
- 
+(Provide a fake scenario TBD based on what we want participants to do in the prototype--about something that happened, you felt uncomfortable while it was happening, and you want to report it so it doesn't happen to other people) 
 
 ## Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
@@ -133,10 +137,11 @@ While you're looking at this prototype, I would like you to *talk aloud* as much
 
 - What improvements could make search easier or better for you? 
 
-- We would like this harassment reporting tool to meet the needs of all Veterans who may have been harassed at a VA site. We would like to know a little more about your experience with harassment, if you're willing to share...
-  - Have you ever been harassed at the VA before--in person, over the phone, or in email or text? 
-  - If so, did you report it?
+- We would like this harassment reporting tool to meet the needs of all Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask...
+  - Have you been harassed at the VA before--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention. You don't need to share any details, and you can stop at any time.
+  - If you were harassed, did you report it?
   - If so, *how* did you report it? 
+  - If you didn't report it, what were the barriers to you reporting it?
   - How would you prefer to report any future harassment? *(this tool / phone call / ____________________)*
 
 - Is there anything else that we haven't talked about that you think I should know? 
@@ -144,7 +149,9 @@ While you're looking at this prototype, I would like you to *talk aloud* as much
 
 ## Thank You and Closing - 1 minute
 
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing another way to report harassment, we can make the VA safer for everyone.
+
+In case you feel uncomfortable or stressed about your harassment experiences or anything else, I just want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of VA.gov web pages.
 
 Thank you so much again, and enjoy the rest of your day!
 
