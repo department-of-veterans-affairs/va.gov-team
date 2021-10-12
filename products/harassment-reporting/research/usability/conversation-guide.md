@@ -115,7 +115,7 @@ I would like you to share your screen with me so I can watch you use a website i
 
 What kind of device are you using today? *(Phone / Computer)*
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD; interim link: https://preview.uxpin.com/2421e73be8eba75acea37ad3fbdd09bfc147940f#/pages/141512978/simulate/sitemap?mode=vhid). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
