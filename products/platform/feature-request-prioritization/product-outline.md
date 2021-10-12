@@ -42,22 +42,22 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
   - Most risky: missing out on valuable initiatives we didn't think of.
   - Not communicating to customers or stakeholders the priority of their requests.
 
-## Solution Approach
-
-*Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:*
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-*For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built.*
+## v1 Solution Approach 
+- Based on requirements generated with Leadership, we're solving for the following in the first iteration:
+  - All requests must be submitted in the same way
+  - Provide transparency to OCTO-DE and requestors vi
+  - Define what information must be included in a feature request submission
+  - Teams use the value matrix 
+  - Platform PMs/TLs/POs meet to go over new requests, determine ownership, and score them using the value matrix
+  - Notify submitter their request has been reviewed
+  - Feature requests are listed in a customer-facing view
+- [Process service blueprint](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1632422771641/e25aecbfd12cd311f5d824b372568f411d679f79?sender=jameschasia4977) 
 
 ------
 
 ## Launch Dates
 
-- *Launch Date*: TBD
+- *Launch Date*: October 2001
 
 ------
 
