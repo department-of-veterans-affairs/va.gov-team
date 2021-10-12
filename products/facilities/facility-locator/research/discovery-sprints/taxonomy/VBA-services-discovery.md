@@ -6,11 +6,6 @@ Discovery for [issue #30836](https://github.com/department-of-veterans-affairs/v
 
 To prepare for taxonomy work on Benefit services, we need to match patient friendly language which has already been discovered for Resources and support with the the service descriptions used by VBA. Language used in the Facility Locator service dropdown for benefit facilities may also be helpful.
 
-- For each of the services listed, discover Veteran-facing language in the Resources and Support hub which aligns. It may not be a 1:1 relationship
-- Discover any additional services which appear to be offered at Benefit locations which could be mapped to "other services"
-
-[Resources and support](https://www.va.gov/resources/)
-
 <details>
   <summary><strong>Benefit facilities - services data call:</strong></summary>
   
@@ -32,6 +27,11 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 - Other_Services
   
 </details>
+
+- For each of the services listed, discover Veteran-facing language in the Resources and Support hub which aligns. It may not be a 1:1 relationship
+- Discover any additional services which appear to be offered at Benefit locations which could be mapped to "other services"
+
+[Resources and support](https://www.va.gov/resources/)
 
 ### Background Research
 
@@ -77,6 +77,6 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
 - [Free language assistance](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/) is offered via phone, or at VA health facilities
 - Possible services
-  - [Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/) - may be useful to have "Claim status help" or similar in the FL dropdown
+  - [Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/) - may be useful to have "Claim status help" or similar in FL dropdown
   - [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/)
   - [Combat-Related Special Compensation](https://www.va.gov/resources/combat-related-special-compensation-crsc/)
