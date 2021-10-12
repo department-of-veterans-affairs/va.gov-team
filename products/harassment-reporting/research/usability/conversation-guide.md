@@ -28,7 +28,7 @@
 
 Thank you for joining us today! My name is Cindy. Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker, [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
 
-I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. VA is working to stop harassment and make our locations and services safer for all. As part of these efforts, our team is exploring an online tool to make it easier for Veterans to report harassment at VA. Your input could help us make the tool easier to use by Veterans like you. We'll be talking about hypothetical situations, not your own experiences.
+I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. VA is working to stop harassment and make our locations and services safer for all. As part of these efforts, our team is exploring an online tool to make it easier for Veterans to report harassment at VA. Your input could help us make the tool easier to use by Veterans like you. You'll try out the tool to report a hypothetical harassment situation, not your own harassment experience.
 
 **Are you comfortable proceeding with this session?**
 If no:
@@ -42,7 +42,7 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 - **This session may take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task. Please let me know if you need a break at any time.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing you. We're testing this tool to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. If at any time you don't feel comfortable answering a question, let me know and we'll move on to the next question.
 - **If for any reason and at any time you want to take a break or stop the session, please let me know.** You can take a break from the session or end it altogether.
-- I will be sharing a web link with you during the session. **How would you prefer to receive the URL?** 
+- I will be sharing a web page URL with you during the session. **How would you prefer to receive the URL?** 
   - I could read it to you, put it in the Zoom chat, email it to you, or text it to you.
     - *(if email)* Is your current email XYX *(get from participant roster)* ?
     - *(if text)* What is your mobile phone number?
@@ -105,26 +105,43 @@ Let’s start with a question...
   - Where did you look?
   - Did you find what you were looking for?
 
-## Screen sharing
-I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your web browser. If you want to share your whole desktop, first close any other applications that you don't want me to see.
+## Start screen sharing
+I would like you to share your screen with me so I can watch you use a website in your web browser. 
 *(refer to Screen sharing instructions above, if needed)*
 
 What kind of device are you using today? *(Phone / Computer)*
-
-## Veteran Tasks
-I would like you to look at a prototype that I will share with you. This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
-
-Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
 I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
-While you're looking at this prototype, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
 
-### Task 1: [description] - 5 minutes
+Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
 
-(Provide a fake scenario TBD based on what we want participants to do in the prototype--about something that happened, you felt uncomfortable while it was happening, and you want to report it so it doesn't happen to other people) 
+While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+
+## Veteran Tasks
+
+### Task 1: [Find harassment info on VA.gov] - 5 minutes
+
+I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way out, a man said something rude to you that made you feel really uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
+
+Before you tap anywhere on the web page displayed on your phone, where might you look for how to report harassment at the VA?
+
+- *Record where: header / top 4 boxes / links below pictures / footer* 
+
+What would you expect to find there?
+
+Now you can tap to go there.
+
+### Task 2: [Explore landing page] - 5 minutes
+
+What are your impressions of this page?
+
+What would you do here?
+
+
 
 ## Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
