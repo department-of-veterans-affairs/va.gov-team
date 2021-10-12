@@ -45,7 +45,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 
 ### Key Findings
 
-- Most benefit services listed in the Facility Locator list are not present on the *Resources and support* hub
+
 
 ## Detailed Findings
 
@@ -69,13 +69,11 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Transition_Assistance
 - (Found no references to transition benefit services)
 #### Updating_Direct_Deposit_Informa
-- (Found no direct reference to updating deposit information benefits services)
-- *Resources and support* links to the external page [Change Your VA Direct Deposit Information](https://www.va.gov/change-direct-deposit/) containing the language:
-  - "Change your VA direct deposit information"
-  - "Update your direct deposit information"
+- Relevant language on the [Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/):
+  - "Change your VA direct deposit information" as opposed to "Updating..." found in Facility Locator
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
-- Information on updating and changing [personal information](https://www.va.gov/resources/managing-your-vagov-profile/), such as [address](https://www.va.gov/resources/change-your-address-on-file-with-va/) and [legal name](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/) 
+- In-person assistance with updating and changing [personal information](https://www.va.gov/resources/managing-your-vagov-profile/), such as [address](https://www.va.gov/resources/change-your-address-on-file-with-va/) and [legal name](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/), is offered at some facilities.
 - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
 - [Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/)
 - [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/)
