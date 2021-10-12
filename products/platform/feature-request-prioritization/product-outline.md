@@ -22,9 +22,9 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
   - Can view all submitted feature requests and their status in a single place.
   
 ## Desired Business Outcomes 
-- Platform Crew prioritize customer feature requests against other initiatives on their roadmap and backlog.
+- Platform Crew teams prioritize feature requests against other initiatives on their roadmap and backlog.
 - Customers and other stakeholders can easily find the status of submitted feature requests.
-- Platform Crew delivers enhancements that customers want resulting in increased customer satisfaction.
+- The Platform delivers enhancements that customers want resulting in increased customer satisfaction.
 
 ## Measuring Success
 
