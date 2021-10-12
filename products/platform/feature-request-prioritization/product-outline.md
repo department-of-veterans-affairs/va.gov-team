@@ -57,7 +57,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 ## Launch Dates
 
-- *Launch Date*: October 2001
+- *Launch Date*: October 2021
 
 ------
 
