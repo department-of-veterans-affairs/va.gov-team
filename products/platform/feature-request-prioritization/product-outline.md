@@ -29,7 +29,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 ### Key Performance Indicators (KPIs)
 
-- *% of submittted feature requests that are reviewed each month*
+- *% of submittted feature requests that are reviewed by Platform team PMs/TLs/POs each month*
 
 #### Baseline KPI Values
 
