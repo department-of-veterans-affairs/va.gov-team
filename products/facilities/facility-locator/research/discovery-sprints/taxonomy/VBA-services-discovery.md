@@ -73,7 +73,6 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
   - "Change your VA direct deposit information" as an alternative to "Updating..."
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
-- In-person assistance with updating and changing [personal information](https://www.va.gov/resources/managing-your-vagov-profile/), such as [address](https://www.va.gov/resources/change-your-address-on-file-with-va/) and [legal name](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/), is offered at some facilities.
 - [Free language assistance](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/) is offered via phone, or at VA health facilities
 - Other possible services (these might not count, but noting just in case):
   - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
