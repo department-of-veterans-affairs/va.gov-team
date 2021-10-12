@@ -42,7 +42,8 @@ As a result of this research, we will
 - Do the cards help editors understand where their content will end up on the website? 
     - Do the icons (in cards) help users recognize the piece of content they need to edit?
     - Do the icons make sense?
-    - Does the UI in the dashboard help people get where they need to be?  
+    - Does the UI in the dashboard help people get where they need to be?
+- Once editors have saved changes to content, how do they get back to the Vet Center dashboard to find other tasks?  
     
 **Operating Status**  
 - Is the satellite location operating status dashboard useful?
