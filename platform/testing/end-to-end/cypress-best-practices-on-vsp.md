@@ -15,6 +15,7 @@
 - [Things to Note](#things-to-note)
   - [Automatic Waiting](#automatic-waiting)
   - [Third-Party Plugings](#third-party-plugins)
+  - [Test Retries](#test-retries)
 - [Cypress Form Tester](#cypress-form-tester)
 - [Cypress Custom Commands](#cypress-custom-commands)
   - [Mock User: `cy.login(userData)`](#mock-user-cyloginuserdata)
@@ -76,6 +77,40 @@ Cypress queues its commands instead of running them synchronously, so doing some
 ### Third-party plugins
 
 Cypress has many third party [plugins](https://docs.cypress.io/plugins/) available. If you find yourself needing to do something that isn't natively supported, there may be a plugin for it.
+
+### Test retries
+
+When running tests on Jenkins, CircleCI, or locally in headless mode, Cypress will retry failing tests up to two times before marking the test as failed. This is meant to reduce the number of build failures from tests that fail occasionally.
+
+Tests should be written to be retry-able in order to use this Cypress feature effectively. Without proper test structure and implementation (set up, execution, teardown, etc.), tests can fail consistently upon retry.
+
+As an example, this simple test can fail on retry due to an issue with test set up:
+
+```javascript
+describe('Google Search', () => {
+   before(() => {
+     cy.visit('http://www.google.com');
+   });
+  it('shows search results', () => {
+    cy.get('input[title="Search"]').type('Hello world');
+    cy.get('input[value="Google Search"]').first().click();
+    cy.get('#search').contains('Hello, World!');
+  });
+});
+```
+
+If the `click()` in this test fails to click properly, Cypress will not see the search results, and the test will be retried. However, the `cy.visit()` is in a `before()` block, which is called only on the first try and not for any retries. This leaves the test in a broken state because the page is not reloaded properly upon retry. To pass on retries, the test can be rewritten as:
+
+```javascript
+describe('Google Search', () => {
+  it('shows search results', () => {
+    cy.visit('http://www.google.com');
+    cy.get('input[title="Search"]').type('Hello world');
+    cy.get('input[value="Google Search"]').first().click();
+    cy.get('#search').contains('Hello, World!');
+  });
+});
+```
 
 ## Cypress Form Tester
 
