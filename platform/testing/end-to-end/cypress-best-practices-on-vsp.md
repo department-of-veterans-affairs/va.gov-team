@@ -29,6 +29,7 @@
 - [Iterate Through Top VA.gov Viewports](#iterate-through-top-vagov-viewports)
 - [Cypress Testing Library Selectors](#cypress-testing-library-selectors)
 - [`data-testid` Attribute](#data-testid-attribute)
+- [Page Objects and Application Actions](#page-objects-and-application-actions)
 
 ## Introduction
 
@@ -714,3 +715,9 @@ While the official Cypress documentation [recommends the `data-cy` attribute](ht
 Add the `data-testid` attribute to your markup when your test would otherwise need to reference elements by CSS attributes as a last resort. As much as possible, prefer writing selectors for `data-testid` attributes over CSS selectors (ids and classes).
 
 The goal is to write tests that [resemble how your users use your app](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change), hence the order of precedence for selecting elements.
+
+## Page Objects and Application Actions
+
+JavaScript objects can be used to create [page objects](https://www.selenium.dev/documentation/guidelines/page_object_models/) in Cypress tests. In test scenarios where multiple pages are interacted with and where the same actions are performed multiple times, page objects can make tests more readable and reduce duplication of code. An example of page object usage can be found in the [COVID-19 Vaccine Stay Informed tool tests](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/coronavirus-vaccination/tests/e2e).
+
+Alternatively, application state can be integrated into Cypress tests in order to reduce duplication of test steps and create more isolated tests using [Application Actions](https://www.cypress.io/blog/2019/10/29/split-a-very-long-cypress-test-into-shorter-ones-using-app-actions/). This can be implemented by modifying the state of rendered components and by directly accessing methods defined within UI components.
