@@ -24,6 +24,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [Architecture](#launch-dates)
    - [Data Flow Diagram](#data-flow-diagram)
    - [Drupal CMS Migration Documentation](#Drupal-CMS-Forms-Migration-Documentation)
+   - [End-to-End Flow to Forms API](#end-to-end flow to forms API)
    - [Content Flow Diagram](#Content-Flow-Diagram)
    - [Detail Page Content Architecture Diagram](#Detail-Page-Content-Architecture-Diagram)
 - [Troubleshooting](#troubleshooting)
@@ -176,6 +177,7 @@ This iteration connected the search page to the form details pages
 
 ------
 ## Architecture
+
 ### Data Flow Diagram
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/findvaform-q3-arch.png?raw=true
 
@@ -183,6 +185,9 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 [Migrations: Forms](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/migrations-forms.md)
 
 [Relationship Between VA Forms DB/Lighthouse API/Drupal](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5702)
+
+### End-to-End Flow to Forms API
+TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> nginx -> Kong ELB -> Kong -> vets-api ELB -> vets-api -> fwdproxy -> backend 
 
 ### Content Flow Diagram
 [Whimiscal VA Forms - content flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
@@ -192,6 +197,8 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 # Troubleshooting
 - Compare versions in CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000
+
+
 - Time lag between VA Form changes & when updated on Find a VA Form:
    - Find a Form search page PDF link will update immediately.  
    - Detail page updates only after the merge runs over night, AND after the next day's 9 AM CMS publish
