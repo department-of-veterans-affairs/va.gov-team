@@ -33,7 +33,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 #### Baseline KPI Values
 
-- *Baseline values for those most critical metrics, if possible.*
+- 
 
 ------
 
