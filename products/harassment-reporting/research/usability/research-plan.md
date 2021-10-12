@@ -45,7 +45,7 @@ Ask Perigean to recruit **16** Veterans from the names we provide in order to ge
 - Have the Zoom app downloaded to their phone prior to the session and know how to share their screen
 - During the session, be willing to share their web browser window over Zoom
 
-*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone**, not a computer or tablet ?*
+*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone**, not a computer or tablet?*
 
 ### Good to have for participants
 - At least 4 women
