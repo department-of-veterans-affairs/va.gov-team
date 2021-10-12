@@ -1,3 +1,11 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
 # Measuring Goals in Google Analytics
 
 *Objective*: Product teams should be able to identify the key performance indicators they would like to measure using the KPIs defined in the KPI workshop. Some of these goals can be tracked within Google Analytics>Conversions within the view for your Product Area. 
