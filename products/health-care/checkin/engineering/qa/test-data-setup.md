@@ -26,7 +26,7 @@ Additionally, to initiate the Check In Experience workflow, the tester must send
 
 Endpoints are available to allow test users to view thier existing appointments, create a new appointment, delete an existing appointment and update the phone number associated with their assigned test user. An additional endpoint is available to see the available appointment slots for a specific clinic; a slot must be available to make an appointment.
 
-These endpoints require entering the patientDfn (this is the patient Identifier in a VistA system) and ClinicIen (this is the clinic identifier in a VistA system). The patientDFN and clinicIen values configured in the test VistA syteme are noted below.
+These endpoints require entering the patientDfn (this is the patient Identifier in a VistA system) and `ClinicIen` (this is the clinic identifier in a VistA system). The `patientDFN` and clinicIen values configured in the test VistA syteme are noted below.
 
 <a name="end-to-end-testing-workflow-section"></a>
 # End to End Testing Workflow
