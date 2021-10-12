@@ -63,7 +63,7 @@ Check in for your VA appointment at https://go.usa.gov/xyz123
 
 Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
 
-- **Note**: You will need the test Patient's last name and the last four digits of their social security number to complete the workflow.  These can be retrieved by using the `/patients` GET request to view the demographic data associted with the test patient. 
+- **Note**: You will need the test Patient's last name and the last four digits of their social security number to complete the workflow.  These can be retrieved by using the `/patients` GET request to view the demographic data associated with the test patient. 
 
 <a name="vista-configuration-data-section"></a>
 
