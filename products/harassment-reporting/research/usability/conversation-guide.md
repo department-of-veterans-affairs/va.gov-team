@@ -161,6 +161,10 @@ What would you do here? *(Continue >>)*
 
 *(enter a description?? then Continue >>)*
 
+There was someone sitting at a VA desk nearby when the harassment happened to you.
+
+*(tap "Yes" then Continue >>)*
+
 
 
 ## Post-Task Interview - 5 minutes
