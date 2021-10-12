@@ -6,7 +6,7 @@ A standard Platform process for receiving and prioritizing feature requests and 
 
 ## Problem Statement
 
-Currently, there is no streamlined process for ideas to get on the value matrix, be scored and moved to team's backlogs. We could be missing out on valuable iterations we didn't think of and it is very difficult to communicate to customers or stakeholders around the priority of their requests.
+Currently, there is not a streamlined process for feature requests to get on the value matrix, be scored and moved to team's backlogs. We could be missing out on valuable iterations we didn't think of and it is very difficult to communicate to customers or stakeholders around the priority of their requests.
 
 ## Desired User Outcomes 
 - **VFS Teams:** VFS teams have a standard way to submit feature requests to the Platform and be notified of their status.
@@ -18,8 +18,9 @@ Currently, there is no streamlined process for ideas to get on the value matrix,
   - Can view all submitted feature requests and their status in a single place.
   
 ## Desired Business Outcomes 
-- Platform teams prioritize customer feature requests against other initiatives on their roadmap and backlog.
+- Platform teams and Product Owners prioritize customer feature requests against other initiatives on their roadmap and backlog.
 - Customers and other stakeholders can easily find the status of submitted feature requests.
+- Platform delivers enhancements that customers want resulting in increased customer satisfaction.
 
 ## Personas
 
