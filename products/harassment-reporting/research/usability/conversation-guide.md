@@ -89,7 +89,7 @@ OBSERVE the participant's body language, tone of voice, and the environment. SEN
 Clinician on the session (or on standby) jumps in to provide support, if needed. 
 
 SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red box at top of VA.gov web pages).
-  - Give them the number and let them leave the session??
+  - Give them the number and let them leave the session if they want
 
 ## Warm-up Question - 5 minutes
 
@@ -125,7 +125,7 @@ While you're looking at this demo tool, I would like you to *talk aloud* as much
 
 ### Task 1: [Find harassment info on VA.gov] - 5 minutes
 
-I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way out, a man said something rude to you and made a gesture with his hand that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
+I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way out, a man said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
 
 Before you tap anywhere on the web page displayed on your phone, where might you look for how to report harassment at the VA?
 
@@ -155,16 +155,46 @@ What would you do here? *(Start your report)*
 
 ### Task 4: [Fill out the reporting form]
 
-What would you do here? *(Continue >>)*
+What would you do here? *(Continue)*
 
-*(Tap "Me" then Continue >>)*
+*(tap "Me" then Continue)*
 
-*(enter a description?? then Continue >>)*
+*(enter a description?? then Continue)*
 
-There was someone sitting at a VA desk nearby when the harassment happened to you.
+There was someone sitting nearby when the harassment happened to you.
 
-*(tap "Yes" then Continue >>)*
+*(anyone else see or hear? tap "Yes" then Continue)*
 
+*(enter a description?? then Continue)*
+
+*(include sexual comments, images, or gestures? tap "Yes" then Continue)*
+
+*(touch your body? tap "No" then Continue)*
+
+*(more than once? tap "Yes" then Continue)*
+
+*(tap to enter day/time then Continue)*
+
+*(tap "In person" then Continue)*
+
+*(type what happened then Continue)*
+
+*(upload supporting materials)* What are your impressions of this page? 
+What might you do here?
+(* tap Continue)*
+
+### Task 5: [Check your address]
+Say that you want to check that your address is correct. How would you do that?
+
+*(tap "+" next to "Your information")*
+
+What would you do now?
+
+*(tap Submit)*
+
+*(any comments on the "you've submitted" page?)*
+
+So what are your thoughts about what you just did?
 
 
 ## Post-Task Interview - 5 minutes
@@ -178,8 +208,8 @@ There was someone sitting at a VA desk nearby when the harassment happened to yo
 
 - What improvements could make search easier or better for you? 
 
-- We would like this harassment reporting tool to meet the needs of all Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask...
-  - Have you been harassed at the VA before--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention. You don't need to share any details, and you can stop at any time.
+- We would like this harassment reporting tool to meet the needs of ALL Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask...
+  - Have you been harassed at the VA before--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, and you can stop at any time.
   - If you were harassed, did you report it?
   - If so, *how* did you report it? 
   - If you didn't report it, what were the barriers to you reporting it?
@@ -192,9 +222,9 @@ There was someone sitting at a VA desk nearby when the harassment happened to yo
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing another way to report harassment, we can make the VA safer for everyone.
 
-In case you feel uncomfortable or stressed about your harassment experiences or anything else, I just want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of VA.gov web pages.
+In case you feel uncomfortable or stressed about your harassment experiences or anything else, I just want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website.
 
-Thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and I hope you enjoy the rest of your day!
 
 ## After Session 
 - Click "End" on zoom website
