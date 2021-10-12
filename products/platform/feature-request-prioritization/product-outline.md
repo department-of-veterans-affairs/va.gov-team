@@ -1,4 +1,4 @@
-# Feature Request Prioritization Process
+# Feature Request Prioritization Process [Draft]
 
 ## Overview
 
@@ -29,7 +29,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 ### Key Performance Indicators (KPIs)
 
-- *% of submittted feature requests that are reviewed by Platform team PMs/TLs/POs each month*
+- *% of submittted feature requests reviewed by Platform team PMs/TLs/POs each month*
 
 #### Baseline KPI Values
 
@@ -38,8 +38,9 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 ------
 
 ## Assumptions
-
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- By not having a standard, transparent process for prioritizing feature requests, the Platform is:
+  - Most risky: missing out on valuable initiatives we didn't think of.
+  - Not communicating to customers or stakeholders the priority of their requests.
 
 ## Solution Approach
 
