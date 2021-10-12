@@ -12,7 +12,7 @@
   - Secure messaging action sheet confirmation
   - Draft message no longer persistent 
 Co-Design & Research
-
+  - Preparation for upcoming research sessions 
 
 ## Sprint: 9/15/21 - 9/28/21
 
