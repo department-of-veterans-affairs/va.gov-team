@@ -45,7 +45,7 @@ Ask Perigean to recruit **16** Veterans from the names we provide in order to ge
 - Have the Zoom app downloaded to their phone prior to the session and know how to share their screen
 - During the session, be willing to share their web browser window over Zoom
 
-*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone** ?*
+*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone**, not a computer or tablet ?*
 
 ### Good to have for participants
 - At least 4 women
@@ -71,20 +71,21 @@ Ask Perigean to recruit **16** Veterans from the names we provide in order to ge
 
 
 ## Timeline
-#### Desired Timeline: Oct 11-14, 2021 
+#### Desired Timeline: Oct 25-29, 2021 
 **60-minute** sessions with at least **30-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-Oct 11, 2021 | Noon - 3 pm, 4 - 8 pm
-Oct 12, 2021 | Noon - 3 pm, 4 - 8 pm
-Oct 13, 2021 | Noon - 3 pm, 4:30 - 8 pm
-Oct 14, 2021 | Noon - 3 pm, 4 - 8 pm
+Oct 25, 2021 | Noon - 3 pm, 5 - 8 pm
+Oct 26, 2021 | Noon - 3 pm, 4 - 8 pm
+Oct 27, 2021 | Noon - 3 pm, 5 - 8 pm
+Oct 28, 2021 | Noon - 3 pm, 4 - 8 pm
+Oct 29, 2021 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-Oct 4 or 5, 2021  |  TBD 
-Oct 6 or 7, 2021  |  TBD 
+Oct 21, 2021  |  TBD 
+Oct 22, 2021  |  TBD 
 
 
 ## Team Roles	
