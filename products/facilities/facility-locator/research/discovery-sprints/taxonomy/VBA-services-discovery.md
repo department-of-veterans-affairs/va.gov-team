@@ -35,7 +35,9 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 ### Background Research
 
-
+(via Danielle Thierry):
+- *Resources and support* houses Tier 2 content, which is information-based (as opposed to Tier 1 content, which is action based)
+- *RS* questions and answers were determined based on SEO and contact center data
 
 ### Method
 
