@@ -71,6 +71,7 @@ body:
       options:
         - SOCKS
         - AWS
+        - Datadog
     validations:
       required: true
   - type: textarea
