@@ -60,9 +60,6 @@ Informational interview with secure messaging SME(s) over Microsoft Team.
   -  Susan Kirsch: Acting Deputy Under Secretary (Rick's boss)
   -  Jenny Heiland-Luedtke: Deputy Director VHA
 
-## FINDINGS
-
-
 ### STAKEHOLDER GOALS:
 
 -   Get new VA Health Connect number on Fac Loc for VISN 8 facilities by Dec 31st 
@@ -74,17 +71,15 @@ Clinical Contact Center & Modernization and Office of Comm Care: 
    -   Consolidate multiple call centers into a multi-use contact center that can offer help in scheduling, offer clinical triage, Rx refills and virtual visits
    -   Give Veterans more access to care
 
-### RISKS - PROBLEMS THIS INITIATIVE CAN CREATE FOR VETERANS 
+## KEY FINDINGS
 
--   This number does NOT replace the existing "main number" because it can't handle all types of calls. Having two "main numbers" in addition to Mental Health phone on Facility Locator adds confusion and cognitive load. Setting expectations of what this number is for is crucial.
+1. This number does NOT replace the existing "main number" because it can't handle all types of calls. Having two "main numbers" in addition to Mental Health phone on Facility Locator adds confusion and cognitive load. Setting expectations of what this number is for is crucial.
 
--   During the day calls are handled by PAC team, after hours by Clinical Contact Center which seem to "compete" with each other. Does this create a situation where care decisions are not about what's best for the Veteran but instead which department gets credit for the "conversion"?
+2. During the day calls are handled by PAC team, after hours by Clinical Contact Center which seem to "compete" with each other. Does this create a situation where care decisions are not about what's best for the Veteran but instead which department gets credit for the "conversion"?
 
--   Stakeholders don't know how each other's phone numbers work, goals are not aligned, organizational silos are currently surfaced on VA websites and Veterans suffer.  
-
--   Veteran is left to figure out who to call
-
--   If we don't update phone numbers on VAMC we will introduce a downstream inconsistency for Veterans to understand how to navigate their own healthcare.
+3. Stakeholders don't know how each other's phone numbers work, goals are not aligned, organizational silos are currently surfaced on VA websites and Veterans suffer: 
+     - Veteran is left to figure out who to call
+     - If we don't update phone numbers on VAMC we will introduce a downstream inconsistency for Veterans to understand how to navigate their own healthcare.
 
 ### SUCCESS METRICS
 
