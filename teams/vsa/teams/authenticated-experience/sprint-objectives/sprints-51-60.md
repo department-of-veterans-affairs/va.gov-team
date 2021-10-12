@@ -397,7 +397,7 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 
 - Schedule collab cycle kickoff
 - Design discovery
-  - Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline.
+  - Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline. For reference, [here is the education section of the website](https://www.va.gov/education/) to give you an idea of what people might need to do.
   - Look through My VA research to see what edu-related info people have mentioned as important.
   - Look at analytics for top edu tasks. Here are some helpful reports:
     - [Top 50 pages in the last year](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20201012&_u.date01=20211011&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
