@@ -63,7 +63,7 @@ How might we make the Veteran experience of starting online applications more se
 - *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
   - Ratio of appropriate/inappropriate disability benefit applications started/completed
   - Ratio of appropriate/inappropriate education benefit applications started/completed
-  - % of "How to Apply" wizard content pages resulting in applications started
+  - ~% of "How to Apply" wizard content pages resulting in applications started~
 
 ---
 
