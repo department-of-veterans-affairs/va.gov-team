@@ -1,4 +1,4 @@
-# Feature Request Prioritization Process [Draft]
+# Feature Request Prioritization Process Product Outline [Draft]
 
 ## Overview
 
