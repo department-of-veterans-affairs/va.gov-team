@@ -26,6 +26,13 @@
 ## October 13
 Facility status push (comments/events in details) 
 
+
+Menus
+* depth https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6659
+* timeline for performance review 
+
+
+
 ## October 6
 
 [Dave is out]
