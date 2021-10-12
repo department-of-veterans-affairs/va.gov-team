@@ -8,23 +8,23 @@ A standard Platform process for receiving and prioritizing feature requests and 
 
 Currently, there is not a streamlined process for feature requests to get on the value matrix, be scored and moved to team's backlogs. We could be missing out on valuable iterations we didn't think of and it is very difficult to communicate to customers or stakeholders around the priority of their requests.
 
+## Personas
+
+VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
+
 ## Desired User Outcomes 
 - **VFS Teams:** VFS teams have a standard way to submit feature requests to the Platform and be notified of their status.
-- **Platform Teams:** 
+- **Platform Crew Teams and Leadership:** 
   - Can find all submitted feature requests in a single place.
-  - Receive requests with sufficient information to be quickly assessed and prioritized by Platform team leads.
+  - Receive requests with sufficient information to be quickly assessed and prioritized.
   - Place all approved requests in a team's initiative backlog.
 - **OCTO-DE:**
   - Can view all submitted feature requests and their status in a single place.
   
 ## Desired Business Outcomes 
-- Platform teams and Product Owners prioritize customer feature requests against other initiatives on their roadmap and backlog.
+- Platform Crew teams and Product Owners prioritize customer feature requests against other initiatives on their roadmap and backlog.
 - Customers and other stakeholders can easily find the status of submitted feature requests.
 - The Platform delivers enhancements that customers want resulting in increased customer satisfaction.
-
-## Personas
-
- VFS teams, Platform teams, OCTO-DE leads, Platform Leadership.
 
 ## Measuring Success
 
