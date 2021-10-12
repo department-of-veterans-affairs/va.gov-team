@@ -1,5 +1,8 @@
 # Product outline: Find VA Forms - Search Landing & Form Detail Pages
 
+This is the folder for all background, historical, discovery, and status documentation for the Find a VA Form product redesign 
+
+**Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See  tab/sheet called "VA.gov tools mapped to VA forms."**
 
 [VA.gov Product Directory-SharePoint (See last tab in sheet)](https://dvagov.sharepoint.com/:x:/s/CTOTeam/EfFzSYBuL5pHqbGtTBpk7EkBXfw_f8r5QR2C8VJCzifbAg)
 
@@ -226,10 +229,8 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 
 ------
 ## Status and decisions:
-### 8/
-
-### 8/1/2021 Marci McGuire
-The PDF user study revealed that almost every test user overlooked the download/Adobe Reader information, regardless of where we positioned and styled it.  After discussing with Ryan and Angela Fowler, we all agreed this was a good use case for a modal.  The modal would include 
+### 9/8/2021 Marci McGuire
+The PDF user study revealed that almost every test user overlooked three different types of download/Adobe Reader information, regardless of where it was positioned (top of page or next to each PDF link) or how it was styled. The recommendation from the study was to use a modal that would have to be viewed.  After discussing these findings with Ryan and Angela Fowler, we all agreed this was a good use case for a modal.  The modal would be invoked when attempting to download a PDF.  It would provide brief info about downloading & using Adobe Reader, a link to download Adobe Reader, a link to a Resources & Support page about PDFs, and a link to the PDF form itself.
 
 ### 8/1/2021 Marci McGuire
 The PDF user study uncovered a wide variety of expected and unexpected issues with users downloading, saving, and opening PDF forms on various operating systems and browsers.  Because we only tested four forms during the hour-long sessions, John Hashimoto and Marci McGuire agreed it made sense to audit all of the forms available via Find a VA Form to determine how many forms exhibit the issues observed during user testing.  Upon taking over as Product Owner, Dave Conlon agreed having a sense of how many forms were impacted, as well as how often they were downloaded, would be useful to the VA. 
@@ -238,7 +239,7 @@ The PDF user study uncovered a wide variety of expected and unexpected issues wi
 After receiving several anectodal reports and experiencing first-hand issues with some PDF forms, John Hashimoto and Marci McGuire agreed it made sense to do a new user research session in which we would ask users to open several different PDF forms.  This session would not only allow us to confirm that users are experiencing issues, but also support exploring other options for electronic forms.
 
 ### 1/23/2021 Marci McGuire
-The post-MVP enhancements to link the Find a VA Form search page to form details pages and online tools was launched on 1/21/2021
+The post-MVP enhancements to link the Find a VA Form search page to form details pages and online tools was launched on 1/21/2021 and included the ability to sort forms by date.
 
 ### 1/05/2021 Marci McGuire
 The decision was made to exclude the ability to sort forms by date in the post-MVP launch.  That will come in late Jan/early Feb.
