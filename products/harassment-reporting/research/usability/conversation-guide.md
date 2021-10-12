@@ -125,11 +125,11 @@ While you're looking at this demo tool, I would like you to *talk aloud* as much
 
 ### Task 1: [Find harassment info on VA.gov] - 5 minutes
 
-I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way out, a man said something rude to you that made you feel really uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
+I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way out, a man said something rude to you and made a gesture with his hand that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
 
 Before you tap anywhere on the web page displayed on your phone, where might you look for how to report harassment at the VA?
 
-- *Record where: header / top 4 boxes / links below pictures / footer* 
+- *Record where: header / top 4 boxes / links below pictures / footer link TBD* 
 
 What would you expect to find there?
 
@@ -139,7 +139,27 @@ Now you can tap to go there.
 
 What are your impressions of this page?
 
-What would you do here?
+What would you do here? *(link TBD to reporting form)*
+
+### Task 3: [Explore intro page and start your report] - 5 minutes
+
+What are your impressions of this page?
+
+What would you do here? *(Sign in to start your report)*
+
+### Task X: [delete this step?]
+
+What are your impressions of this page?
+
+What would you do here? *(Start your report)*
+
+### Task 4: [Fill out the reporting form]
+
+What would you do here? *(Continue >>)*
+
+*(Tap "Me" then Continue >>)*
+
+*(enter a description?? then Continue >>)*
 
 
 
