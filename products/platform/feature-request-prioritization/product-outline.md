@@ -20,7 +20,7 @@ Currently, there is not a streamlined process for feature requests to get on the
 ## Desired Business Outcomes 
 - Platform teams and Product Owners prioritize customer feature requests against other initiatives on their roadmap and backlog.
 - Customers and other stakeholders can easily find the status of submitted feature requests.
-- Platform delivers enhancements that customers want resulting in increased customer satisfaction.
+- The Platform delivers enhancements that customers want resulting in increased customer satisfaction.
 
 ## Personas
 
