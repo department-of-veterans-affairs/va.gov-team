@@ -18,6 +18,8 @@ Currently, there is no streamlined process for ideas to get on the value matrix,
   - Can view all submitted feature requests and their status in a single place.
   
 ## Desired Business Outcomes 
+- Platform teams prioritize customer feature requests against other initiatives on their roadmap and backlog.
+- Customers and other stakeholders can easily find the status of submitted feature requests.
 
 ## Personas
 
