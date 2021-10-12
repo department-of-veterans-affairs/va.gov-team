@@ -38,19 +38,22 @@ We recently added messaging via an expandable section to specify the correct doc
 **Related/Associated product(s)**
 - [Caregiver Form (10-10cg)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product/product-outline.md)
 
-<!--
-## Desired User Outcomes
+### Desired User Outcomes
 - *Why would a user want to use this?*
+  - Caregivers with the right to represent a Veteran want a way to affirm their legal status.
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+  - 
 
-## Undesired User Outcomes
-## Desired Business Outcomes
+### Undesired User Outcomes
+- Confusion around what's acceptable PoA documentation vs. not
+### Desired Business Outcomes
 
 - *Why would your business want this to exist?*
+  - To ensure that invalid documents do not inundate Caregiver offices.
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+  - More accurately determine the outcome of a Caregiver submission with PoA
 
-## Undesired Business Outcomes
--->
+### Undesired Business Outcomes
 
 ---
 ## Measuring Success
@@ -59,7 +62,7 @@ We recently added messaging via an expandable section to specify the correct doc
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- % of accepted documents | 30% | Target | Source: Caregiver Program Office
 
 ---
 
