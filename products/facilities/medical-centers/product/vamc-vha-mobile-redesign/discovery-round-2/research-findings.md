@@ -86,6 +86,13 @@ Long Term:
 
    > "that would work for us"
 
+## Additional Findings
+
+- MMUs can be pulled at any time for emergency response, such as disaster relief.
+
+  > Laura: "Also used to deploy in emergencies. So us in California, its alot of wildfires so MMUs get deployed for that as well." 
+
+  > Dr Lighthouse: "And sometimes the clinics will have power outages because they’re concerned about fires and we’ll deploy MMUs to those events. Other times we’ve deployed when Veterans have been devastated by fires and have lost their homes and their medication and teams have gone out to support those Veterans."
 
 ## Next steps
 
@@ -95,3 +102,8 @@ Long Term:
 - Start recruiting efforts to learn from Cheyenne, WY Veterans who've used mobile clinic services in the past. Work with PAO (Samuel E House - Public Affairs Specialist) who is willing to distribute a call for participation email to a segment of Veterans in his database that fit this profile. 
    - Reach out to Palo Alto PAO as well - we did not discuss this during the session.
    -  Target 1-month out from start of testing to allow for Perigean to help recruit but not too much that Veterans get called on for other studies beforehand.
+
+## Appendix
+
+[Design prototype used in this study](https://preview.uxpin.com/20fd05cf8e86ce628f0c813166424d0a6ca38bfd#/pages/142038860/simulate/sitemap)
+[Research Findings - VAMC VHA Mobile Redesign - Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/research-findings.md)
