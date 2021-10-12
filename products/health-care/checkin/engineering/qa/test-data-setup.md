@@ -17,6 +17,7 @@
 <a name=""></a>
 <a name=""></a>
 <a name="overview-section"></a>
+
 # Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
 
@@ -26,17 +27,22 @@ Additionally, to initiate the Check In Experience workflow, the tester must send
 
 Endpoints are available to allow test users to view thier existing appointments, create a new appointment, delete an existing appointment and update the phone number associated with their assigned test user. An additional endpoint is available to see the available appointment slots for a specific clinic; a slot must be available to make an appointment.
 
-These endpoints require entering the patientDfn (this is the patient Identifier in a VistA system) and `ClinicIen` (this is the clinic identifier in a VistA system). The `patientDFN` and clinicIen values configured in the test VistA syteme are noted below.
+These endpoints require entering the `patientDfn` (this is the patient Identifier in a VistA system) and `ClinicIen` (this is the clinic identifier in a VistA system). The `patientDFN` and `clinicIen` values configured in the test VistA syteme are noted below.
 
 <a name="end-to-end-testing-workflow-section"></a>
+
 # End to End Testing Workflow
 
+## Network access
+
+You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
+
 ## Assign Phone Number
-If you have not already done so, use the `/patients` endpoint to add your phone number to your assigned VistA test patient.
+If you have not already done so, [use the `/patients` endpoint to add your phone number to your assigned VistA test patient](#put---update-only-the-phone-number-for-a-specific-test-user).
 
 ## Create Appointment
 
-Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the clinicIen at the time specified in `startDateTime`.
+Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the `clinicIen` at the time specified in `startDateTime`.
 
 - **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into
 
@@ -60,11 +66,12 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 - **Note**: You will need the test Patient's last name and the last four digits of their social security number to complete the workflow.  These can be retrieved by using the `/patients` GET request to view the demographic data associted with the test patient. 
 
 <a name="vista-configuration-data-section"></a>
+
 # VistA Configuration Data
 
 ### Available Clinics
 
-| clinicIen | clinicName | Usual Availability (ET) | 
+| `clinicIen` | `clinicName` | Usual Availability (ET) | 
 | --- | ---------------- | ------ |
 | 64 | Audiology | M-F 7AM - 230PM |
 | 195 | Cardiology | M-F 7AM - 230PM |
@@ -110,6 +117,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 347 | Thirtynine,Patient | Patrick (OVAC) |
 | 520 | Forty,Patient | Patrick (OVAC) | 
 #
+
 <a name="endpoints-section"></a>
 # Endpoints
 
@@ -197,7 +205,7 @@ curl --request POST \
 }
 ```
 
-- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
+- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team member ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
 - `date` - the date to query for appointments, in format yyyy-mm-dd.
 
 ### curl Example
@@ -234,7 +242,7 @@ This endpoint will change the status of the specified appointment to `CANCELLED 
 }
 ```
 
-- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
+- `patientDFN` - This is the VistA identifier assigned to each testing team. It is vital that each team member ensures this is set to their assigned DFN to ensure they do not impact other testers. See assigned DFNs.
 - `startDateTime` - the start date and time of the appointment, in format yyyy-mm-dd hh:mm.
 - `apptLength` - the length of the appointment.
 - `clinicIen` - This is the VistA identifier for the clinic where the appointment will be deleted.
@@ -387,7 +395,7 @@ curl --request GET \
 <a name="putPatient"></a>
 ## `PUT` - Update only the phone number for a specific test user
 
-This endpoint provides a PUT action to allow a tester to update the phone number associated with their assigned test patient. This endpoint will update both the VistA Patient record and the vetext database used to receive SMS messages for Check In Experience. The primary use case for this is to allow testing teams to share a VistA test user by modifying the phone number to be that of the current tester, such that the SMS workflow will work from that testers mobile phone.
+This endpoint provides a PUT action to allow a tester to update the phone number associated with their assigned test patient. This endpoint will update both the VistA Patient record and the vetext database used to receive SMS messages for Check In Experience. The primary use case for this is to allow testing teams to share a VistA test user by modifying the phone number to be that of the current tester, such that the SMS workflow will work from that tester's mobile phone.
 
 ### Parameters as Example 
 
