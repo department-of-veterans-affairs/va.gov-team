@@ -185,8 +185,8 @@ There was someone sitting nearby when the harassment happened to you.
 
 *(type what happened then Continue)*
 
-*(upload supporting materials)* What are your impressions of this page? 
-What might you do here?
+*(upload supporting materials)* What are your impressions of this page? What might you do here?
+
 *(tap Upload a file then Continue)*
 
 ### Task 5: [Check your address]
