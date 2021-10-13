@@ -94,6 +94,7 @@ If I feel teary or emotional, turn off my camera and/or say something like "I ne
 
 SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red box at top of VA.gov web pages).
   - Give them the number and let them leave the session if they want
+    - Call 800-273-8255 and select 1, or text 838255
 
 ## Warm-up Question - 5 minutes
 
@@ -153,7 +154,7 @@ What are your impressions of this page?
 
 What would you do here? *(Sign in to start your report)*
 
-### Task 4: [Log in]
+### Task 4: [Log in] - 5 minutes
 
 *(click thru modal dialog to log in)*
 
@@ -161,7 +162,7 @@ What would you do here? *(if they're confused, say "Pretend that you just logged
 
 *(Start your report)*
 
-### Task 5: [Fill out the reporting form]
+### Task 5: [Fill out the reporting form] - 15 minutes
 
 What would you do here? 
 
@@ -197,7 +198,7 @@ Let's say that you took a picture with your phone of the man who bothered you.
 
 *(Ever looked at the "Need help with your report?" part of the screen? If so, why?)*
 
-### Task 6: [Check your address]
+### Task 6: [Check your address] - 5 minutes
 Say that you want to check that your address is correct. How would you do that?
 
 *(tap "+" next to "Your information")*
@@ -213,7 +214,7 @@ What would you expect to happen now?
 What thoughts do you have about what you just did?
 
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - 10 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
 - What was *helpful* about what you've seen today?
@@ -236,11 +237,12 @@ What thoughts do you have about what you just did?
 - Is there anything else that we haven't talked about that you think I should know? 
 
 
-## Thank You and Closing - 1 minute
+## Thank You and Closing - 3 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing another way to report harassment, we can make the VA safer for everyone.
 
-In case you feel uncomfortable or stressed about your harassment experiences or anything else, I just want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website.
+In case you feel uncomfortable or stressed about your harassment experiences or anything else, I just want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
+- Call 800-273-8255 and select 1, or text 838255
 
 Thank you so much again, and I hope you enjoy the rest of your day!
 
