@@ -14,10 +14,6 @@ Phase 1: Platform SREs
 
 Phase 2: VFS team members
 
-## Desired User Outcomes
-
-## Desired Business Outcomes
-
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
