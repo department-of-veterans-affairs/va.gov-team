@@ -38,10 +38,10 @@ Start recording.
 Now, I’m going to ask you to think about your experiences checking in for a VA medical appointment.
 
 - Do you normally check in with a staff member or use a kiosk?
- - What types of questions are you asked or what types of information do you review?
+  - What types of questions are you asked or what types of information do you review?
 - What types of questions do the medical professionals (such as doctor or nurse) ask at the start of your appointments? For instance, do they review your list of medications?
- - Have you ever completed any paperwork prior or at the beginning of your VA medical appointments?
-   - _If yes:_ Can you tell me more about the paperwork and what information it was capturing?
+  - Have you ever completed any paperwork prior or at the beginning of your VA medical appointments?
+    - _If yes:_ Can you tell me more about the paperwork and what information it was capturing?
 
 ## Prototype - 40 minutes
 
