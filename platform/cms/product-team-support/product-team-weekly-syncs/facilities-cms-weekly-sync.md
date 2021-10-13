@@ -23,25 +23,50 @@
 
 </details>
 
+## October 20
+
+Metatags for Vet Center and VAMC facilities 
+
 ## October 13
 
-### Vet Cemter 
+### Vet Center 
 
-Vet Center District 1
+District 1
+* kickoffs accomplished, users onboarded
+* email going out tomorrow with content deck and links to training environment 
+* soft deadline Friday November 19, editors have been told to expect to be chased down after that
+* next District (2, 3, or 4) will be identified for early December
+* Can we get a report about time spent per editor per day in CMS? 
+  * Training and exercises is a little over an hour
+  * ~5 hours per Vet Center is the estimate, including time in workbook.  
+  * Not a short term priority for Facilities work, but useful for editorial experience prioritization
 
-Official name
 
-Required services for Vet Centers
 
 Facility status push (comments/events in details) 
+* [Slack thread from Steve](https://dsva.slack.com/archives/C0FQSS30V/p1633628375145200) from October 7. 
+* CMS to do: Editorial experience change about how to handle Details when status is Normal, which is not displayed anywhere? Guidance and field visibility etc. 
 
+Official name ready for FE dev
+* `field_official_name` stores
+
+Required services for Vet Centers
+* hopefully in time for next district
+* change management will be required for District 1 and 5 and MVPs
+  * AC for Migration issue: report what required services are created for them.
+  * Announcement needs writing
+
+Inline national service content should be visible mid-November at the latest.
 
 ### VAMC engineering
 
-VistA / Cerner
+VistA / Cerner 
+* Spokane has been set to Cerner, all other VAMCs set to VistA
+* `field_vamc_ehr_system` and current possible values are `vista|VistA` and `cerner|Cerner`
 
 Menus
 * depth https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6659
+* Steve and Gaida figured it out for the two systems that were not working. 
 * timeline for performance review 
 
 
