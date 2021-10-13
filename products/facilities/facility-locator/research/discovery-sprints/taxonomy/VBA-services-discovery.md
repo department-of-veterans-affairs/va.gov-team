@@ -55,21 +55,23 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 - *Resources and support* references [filing a claim by mail or in person](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) but does not mention any available assistance with filing or checking on the status of a claim.
 #### eBenefits_Registration
 #### Education_and_Career_Counseling
-- (Found no reference to counseling benefit services)
+- Found no reference to counseling benefit services
 #### Education_Claim_Assistance
 #### Family_Member_Claim_Assistance
 #### Homeless_Assistance
-- (Found no reference to homeless benefit services)
+- Found no reference to homeless benefit services
 #### VA_Home_Loan_Assistance
-- (Found no reference to loan assistance benefits services)
+- Found no reference to loan assistance benefits services
 #### Insurance_Claim_Assistance
 #### IDES
-- (Found no referencs to Integrated Disability Evaluation System Assistance (IDES) benefits services)
+- Found no referencs to Integrated Disability Evaluation System Assistance (IDES) benefits services
 #### Pre_Discharge_Claim_Assistance
 #### Transition_Assistance
-- (Found no references to transition benefit services)
+- Found no references to transition benefit services
 #### Updating_Direct_Deposit_Informa
-- [Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/): "Change your VA direct deposit information" as an alternative to "Updating..."
+- [Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)
+  - Use of the phrase "Change your VA direct deposit information" as an alternative to "Updating..."
+  - Veterans can update their information by phone or in person, but there is no direct reference to receiving assistance with this process
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
 - ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/): is offered via phone, or at VA health facilities
