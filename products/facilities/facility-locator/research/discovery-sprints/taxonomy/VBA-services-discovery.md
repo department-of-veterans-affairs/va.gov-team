@@ -33,8 +33,11 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 ### Background Research
 
+**SME:** Danielle Thierry
 - *Resources and support* questions and answers were determined based on SEO and contact center data
 - *Resources and support* houses Tier 2 content, which is information-based (as opposed to Tier 1 content, which is action based)
+
+**SME:** Liz Lantz
 - [Resources and support card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/resouces-and-support-card-sort-summary.pdf): user research determined the categorization of articles by topic
 
 ### Method
@@ -54,6 +57,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Disability_Claim_assistance
 - *Resources and support* references [filing a claim by mail or in person](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) but does not mention any available assistance with filing or checking on the status of a claim.
 #### eBenefits_Registration
+  - (May not be directly related) [Help with upgrading to a premium account](https://www.va.gov/resources/get-a-premium-my-healthevet-account/): Veterans can get help upgrading to a premium account, in person, at VA health facilities.
 #### Education_and_Career_Counseling
 - Found no reference to counseling benefit services
 #### Education_Claim_Assistance
