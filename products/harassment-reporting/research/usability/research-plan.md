@@ -98,7 +98,7 @@ Please list the people who will be serving in each role.
 - Observers:	Will be invited directly by the Moderator because we need to limit the number of observers per session. 
  
 ## Resources	
-- [Conversation Guide]()	
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/harassment-reporting/research/usability/conversation-guide.md)	
 - [Research Findings]()	
 
 ## Approvals
