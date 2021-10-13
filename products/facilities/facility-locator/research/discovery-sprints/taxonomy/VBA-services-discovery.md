@@ -35,9 +35,9 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 ### Background Research
 
-(via Danielle Thierry):
 - *Resources and support* houses Tier 2 content, which is information-based (as opposed to Tier 1 content, which is action based)
-- *RS* questions and answers were determined based on SEO and contact center data
+- *Resources and support* questions and answers were determined based on SEO and contact center data
+- [Resources and support card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/resouces-and-support-card-sort-summary.pdf): user research to determine the correct categorization of articles by topic
 
 ### Method
 
