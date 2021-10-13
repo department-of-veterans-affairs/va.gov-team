@@ -26,7 +26,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 ## Updates
 
-### 1. Can't load data (API failure)
+### 1. Can't load data (API failure) ([#31402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31402))
 
 - **Impacted sections**: all
 
