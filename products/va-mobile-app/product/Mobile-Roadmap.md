@@ -1,10 +1,9 @@
 ### Mobile App Roadmap
 
-1. [Long-term Roadmap - Objectives (updated quarterly)](#long-term-roadmap---objectives)
-2. [Short-term Roadmap - Milestones (updated monthly)](#short-term-roadmap---milestones)
+1. [Long-term Outcomes Roadmap (updated quarterly)](#long-term-roadmap---objectives)
+2. [Short-term Roadmap (updated monthly)](#short-term-roadmap---milestones)
 
-# Long term Roadmap - Objectives
-
+# Long term Roadmap
 
 <table>
   <tr>
@@ -24,7 +23,7 @@
    </td>
   </tr>
   <tr>
-   <td colspan="6" >A native mobile app that is a trusted source for Veterans to quickly and easily check the status of their VA services and complete simple, transactional tasks across health and benefits.
+   <td colspan="6" >A native mobile app that is a trusted source for Veterans to quickly and easily check the status of their VA services and complete simple, transactional tasks across their health and benefits.
    </td>
   </tr>
   <tr>
@@ -38,11 +37,13 @@
    </td>
    <td>Lack of transparency: It can be frustrating to not know if something is moving forward or not.
    </td>
-   <td>Signing in: Veterans interact with VA websites less because they find login too cumbersome
+   <td>Difficulty Signing in: Veterans interact with VA websites less because they find login too cumbersome
    </td>
    <td>Persistence Required: Veterans perceive the need to be persistent to get VA to meet their needs
    </td>
-   <td>Access: VA services should be equally accessible across the digital divide and to those with impairments.
+   <td>Inequitable Access: 
+<p>
+VA services are not always accessible across the digital divide and to those with impairments.
    </td>
   </tr>
   <tr>
@@ -77,7 +78,7 @@
    <td>
 <ul>
 
-<li>UAT for new features
+<li>Usability Testing
 
 <li>Codesign Sessions
 </li>
@@ -90,7 +91,7 @@
    <td>
 <ul>
 
-<li>Polish, Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
+<li>Design & Tech debt 
 
 <li>Analytics
 
@@ -123,7 +124,9 @@
 
 <li>PN for SM
 
-<li>SM refinements (ie email preferences, signature, Cerner)
+<li>SM refinements 
+
+<li>Push Notifications architecture
 </li>
 </ul>
    </td>
@@ -141,7 +144,7 @@
    <td>
 <ul>
 
-<li>Scale activities (comms, privacy update)
+<li>Scale activities
 
 <li>Content Audit
 
@@ -165,42 +168,33 @@
    <td>
 <ul>
 
-<li>Appts: native join session
-
-<li>Rx Refill design + build (TBD)
-
-<li>Appt refinements (reason for appointment, clinic specific info)
-
 <li>Appt Request & Direct Schedule
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
 
-<li>Deep Links
-
-<li>Push Notifications architecture redesign
+<li>Health Record expansion
 </li>
 </ul>
    </td>
    <td>
    </td>
    <td>
+   </td>
+   <td>
 <ul>
 
-<li>Claims file upload refinements
+<li>View C&P payments
 
-<li>Direct Deposit (view and manage payment history for C&P)
+<li>View Education payments
 
-<li>Veteran ID card
+<li>Debt
+
+<li>Profile: view (and manage?) dependents
 </li>
 </ul>
    </td>
    <td>
 <ul>
 
-<li>Tablet UX refinements
+<li>Redesign activities 
 </li>
 </ul>
    </td>
@@ -216,9 +210,7 @@
    <td>
 <ul>
 
-<li>Labs & Tests
-
-<li>Health Record (Blue Button)
+<li>Rx Refill design + build 
 </li>
 </ul>
    </td>
@@ -241,24 +233,15 @@
    <td>
 <ul>
 
-<li>Profile refinements (view dependents, int’l phone number)
+<li>Patient check in
 
-<li>GI Bill balance (view payments, manage dependents)
+<li>Veteran ID card
 
-<li>Debt (view payments)
-
-<li>Patient check in?
+<li>Travel reimbursement
 </li>
 </ul>
    </td>
    <td>
-<ul>
-
-<li>Localization (languages, number and date formatting)
-
-<li>Overall app redesign (preparing for native)
-</li>
-</ul>
    </td>
   </tr>
   <tr>
@@ -266,16 +249,23 @@
    </td>
   </tr>
   <tr>
-   <td><em>Fit our vision but require longer term org changes or new tech capabilities</em>
+   <td><em>Fits our vision but requires broader org/tech change or is lower priority</em>
    </td>
    <td>
 <ul>
 
-<li>VCL chat
+<li>Appts: native join session
 </li>
 </ul>
    </td>
    <td>
+<ul>
+
+<li>Deep Links
+
+<li>VCL chat
+</li>
+</ul>
    </td>
    <td>
 <ul>
@@ -287,11 +277,13 @@
    <td>
 <ul>
 
-<li>Edit dependents
-
-<li>Enable efolder access
+<li>efolder access
 
 <li>Digital DD214
+
+<li>Claims file upload refinements
+
+<li>Profile refinements
 </li>
 </ul>
    </td>
@@ -301,6 +293,8 @@
 <li>Profile for homeless address
 
 <li>Letters accessibility
+
+<li>Localization
 </li>
 </ul>
    </td>
@@ -328,11 +322,6 @@
    <td>
    </td>
    <td>
-<ul>
-
-<li>Travel reimbursements
-</li>
-</ul>
    </td>
    <td>
    </td>
@@ -352,7 +341,7 @@ Simplified:
 * Analytics
 * Documentation sites
 
-**Starts Now (Sept - Dec 2021):**
+**Starts Now (Q4c 2021):**
 
 
 
@@ -360,46 +349,40 @@ Simplified:
 * Rx Refill initial discovery
 * Push Notifications  for Appointments
 * Push Notifications for Secure Messaging
+* Push Notifications longer term architecture
 * Secure Messaging refinements (ie email preferences, signature, Cerner)
 * Follow along with VSP identity team
 * Add Login.gov credential *pending broader organizational discussions
 * Scale activities (comms, privacy update)
-* Content Audit
-* Information Architecture refinements
+* Content Audit (pending a new hire)
+* Information Architecture refinements (part of research sessions)
 * Dark Mode
 * Demo Mode
 
-**Starts Next (Jan - March 2022):**
+**Starts Next (Q1 2022):**
 
 
 
-* Appointment: native join session
-* Rx Refill design + build (TBD)
-* Appointment refinements (reason for appointment, clinic specific info)
 * Appointment Request & Direct Schedule
-* Deep Links
-* Push Notifications architecture redesign
-* Claims file upload refinements
+* Health Records expansion
 * Direct Deposit (view and manage payment history for C&P)
+* Redesign activities
+* Debt (mirroring VA.gov)
+* View C&P Payments
+* View Education Payments
+* Profile: View (and manage?) Dependents
+
+**Starts Later (Q2 2022 and beyond):**
+
+
+
+* Rx Refill design + build
 * Veteran ID card
-* Tablet UX refinements
-
-**Starts Later (April - July 2022 and beyond):**
-
-
-
-* Labs & Tests
-* Health Record (Blue Button)
 * Push Notifications for Claims
 * Retire MHV
 * Retire DS Logon
-* Profile refinements (view dependents, int’l phone number)
-* GI Bill balance (view payments, manage dependents)
-* Debt (view payments)
-* Localization (languages, number and date formatting)
-* Overall app redesign (preparing for native)
-* Patient check in?
-
+* Patient check in
+* Travel reimbursement
 
 # Short-term Roadmap - Milestones
 
