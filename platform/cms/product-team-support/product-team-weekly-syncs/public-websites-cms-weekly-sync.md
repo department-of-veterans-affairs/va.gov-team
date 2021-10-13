@@ -37,7 +37,13 @@
 
 ## October 13
 
-Promo discovery - Role of CMS team
+### CLP content lifecycle
+
+* Review of current request fulfillment and editor support 
+
+
+
+
 
 ## October 6
 
