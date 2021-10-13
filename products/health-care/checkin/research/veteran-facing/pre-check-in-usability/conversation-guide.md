@@ -50,6 +50,21 @@ Alright, I want you to pretend that you have an upcoming appointment with your V
 Which prototypes to show each participant
 
 **Send participant link in chat.**
+| Participant   | SMS | First pre-check-in workflow | Second pre-check-in workflow | Prototype link (4 total different links) |
+| --------------- |------------ | ------------ | ------------ | ------------ | 
+| 1 | Dependent upon confirmation | Form | Task |   |
+| 2 | Dependent upon confirmation | Task | Form |   |
+| 3 | Same time as confirmation | Form | Task |   |
+| 4 | Same time as confirmation | Task | Form |   |
+| 5 | Dependent upon confirmation | Form | Task |   |
+| 6 | Dependent upon confirmation | Task | Form |   |
+| 7 | Same time as confirmation | Form | Task |   |
+| 8 | Same time as confirmation | Task | Form |   |
+| 9 | Dependent upon confirmation | Form | Task |   |
+| 10 | Dependent upon confirmation | Task | Form |   |
+| 11 | Same time as confirmation | Form | Task |   |
+| 12 | Same time as confirmation | Task | Form |   |
+| --------------- |------------ | ------------ | ------------ | ------------ | 
 
 ### SMS and first pass through the first pre-check-in workflow
 At this point, I would like you to share your screen, so we can see the text too. _Remind them to think-aloud as they complete the task._
