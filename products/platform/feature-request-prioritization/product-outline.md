@@ -6,7 +6,7 @@ A process for the Platform to receive feature requests in a standard way, priori
 
 ## Problem Statement
 
-The Platform does not have a streamlined process for receiving and prioritizing feature requests. As a result, we could be missing out on valuable initiatives we didn't think of and it's difficult to effectively communicate to customers and stakeholders the priority of their requests.
+The Platform does not have a streamlined process for receiving and prioritizing feature requests. As a result, we could be missing out on valuable initiatives we have not considered and it is difficult to effectively communicate to customers and stakeholders the priority of their requests.
 
 ## Personas
 
