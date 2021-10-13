@@ -163,7 +163,7 @@ Things to watch for:
 
 ## Post-Task Interview - 9 minutes
 - Now that you've seen an example of what this pre-check-in experience could look like, what are your overall impressions?
-  - As a caregiver, is there anything that we should be aware of?
+  - _If applicable_ As a caregiver, is there anything that we should be aware of?
 - What would you call this experience?
 - Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
 - Are there any other items or information that you would like to review and update prior to your appointment?
