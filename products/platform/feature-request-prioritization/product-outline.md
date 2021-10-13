@@ -47,7 +47,6 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
   - All requests must be submitted in the same way
   - Provide transparency to OCTO-DE and requestors
   - Define what information must be included in a feature request submission
-  - Teams use the value matrix 
   - Platform PMs/TLs/POs meet to go over new requests, determine ownership, and score them using the value matrix
   - Notify submitter their request has been reviewed
   - Feature requests are listed in a customer-facing view
