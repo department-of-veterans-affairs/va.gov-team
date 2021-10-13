@@ -85,17 +85,17 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 - Updating your information here affects what?
 - Are there any other pieces of contact information that you would like to review on this page?
 - How do you define:
- - Home address?
- - Mailing address?
- - Temporary address?
- - Permanent address?
- - Do you prefer home or permanent for the label?
+  - Home address?
+  - Mailing address?
+  - Temporary address?
+  - Permanent address?
+  - Do you prefer home or permanent for the label?
 - Pretend that you moved, so you need to update your Home address. How would you do that?
- - What are your thoughts on having to fully sign into VA.gov, in order to update your contact information?
- - Things to watch for:
-  - Were they able to successfully complete the task?
-  - Was there anything confusing about the interaction with the modal on a mobile device?
-  - Were there any usability issues/points of confusion?
+  - What are your thoughts on having to fully sign into VA.gov, in order to update your contact information?
+  - Things to watch for:
+    - Were they able to successfully complete the task?
+    - Was there anything confusing about the interaction with the modal on a mobile device?
+    - Were there any usability issues/points of confusion?
 - Do you think you’d want to complete these updates on a mobile phone or desktop?
 - Is there anything missing or would you change anything?
 
@@ -113,16 +113,16 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 - What are your thoughts about what this page is asking you?
 - Updating your next of kin's information here affects what?
 - Would you prefer to update your next of kin’s information, your emergency contact’s information, or both in this workflow?
- - How do you define:
-  - Next of kin
-  - Emergency contact
+  - How do you define:
+    - Next of kin
+    - Emergency contact
 - Pretend that your next of kin changed their phone number, how would you update that information?
- - What are your thoughts on having to fully sign into VA.gov, in order to update your next of kin?
- - Things to watch for:
-  - Were they able to successfully complete the task?
-  - Was there anything confusing about the interaction with the modal on a mobile device?
-  - Was there any confusion that this information should be about their next of kin and not themself?
-  - Were there any usability issues/points of confusion?
+  - What are your thoughts on having to fully sign into VA.gov, in order to update your next of kin?
+  - Things to watch for:
+    - Were they able to successfully complete the task?
+    - Was there anything confusing about the interaction with the modal on a mobile device?
+    - Was there any confusion that this information should be about their next of kin and not themself?
+    - Were there any usability issues/points of confusion?
 - Is there anything missing or would you change anything?
 
 [Cut the health questionnaire questions if the session runs short on time.]
@@ -142,9 +142,9 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 **Confirmation page**
 - What are your thoughts about this page?
 - Once you submit these pre-check-in questions, who do you expect will have access to the answers that you entered? - Is it what you were expecting or not expecting?
- - What if your provider didn't request you answer any questions, so the only things you reviewed/updated were your contact and next-of-kin information? 
- - Would you want access to the answers that you entered?
-  - If yes, where? Profile or with your other health questionnaires?
+  - What if your provider didn't request you answer any questions, so the only things you reviewed/updated were your contact and next-of-kin information? 
+  - Would you want access to the answers that you entered?
+    - If yes, where? Profile or with your other health questionnaires?
 - Is there any other information we should include here?
 - What do you do now that you completed pre-check-in? Would you want to navigate anywhere else? What would be the next thing that you do related to your appointment?
 
@@ -157,24 +157,24 @@ Things to watch for:
 - General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
 - Do you prefer the first design you saw or this second design?
- - Why?
+  - Why?
 
 ## Post-Task Interview - 9 minutes
 - Now that you've seen an example of what this pre-check-in experience could look like, what are your overall impressions?
- - As a caregiver, is there anything that we should be aware of?
+  - As a caregiver, is there anything that we should be aware of?
 - What would you call this experience?
 - Can you describe why you would be interested or not interested in reviewing these items prior to your appointment?
 - Are there any other items or information that you would like to review and update prior to your appointment?
 - Do you think you’d want to complete these updates on a mobile phone or desktop?
 - Here we showed a text message, but how would you like to be notified that you have these pre-check-in tasks to complete?
- - Only once they answer, ask about each other type:
-  - What about via
-   - postcard?
-   - letter?
-   - phone?
-   - email?
+  - Only once they answer, ask about each other type:
+    - What about via
+       - postcard?
+       - letter?
+       - phone?
+       - email?
  - When would you like to be notified? How many days before your appointment?
-  - If you didn’t fill it out immediately, would you want a second reminder text send the day before your appointment?
+   - If you didn’t fill it out immediately, would you want a second reminder text send the day before your appointment?
 - If you could change one thing about the experience, what would it be?
 - Do you have any other thoughts on what we talked about today?
 - Any questions for me?
