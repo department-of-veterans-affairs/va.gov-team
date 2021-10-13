@@ -13,7 +13,7 @@ The Platform does not have a streamlined process for receiving and prioritizing 
 VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 ## Desired User Outcomes 
-- **VFS Teams:** VFS teams have a standard way to submit feature requests to the Platform and be notified of their status. And feel that their voices are being heard.
+- **VFS Teams:** VFS feel that their voices are being heard and that the Platform is deliberately iterating based on their needs. 
 - **Platform Crew Teams and Leadership:** 
   - Can find all submitted feature requests in a single place.
   - Receive feature requests with sufficient information to be quickly assessed and prioritized
