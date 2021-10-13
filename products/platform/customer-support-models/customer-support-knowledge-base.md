@@ -2,7 +2,7 @@
 
 ## Overview
 
-An easily searchable repository of articles created by Platform Crew members explaining how to resolve customer support issues.
+An easily searchable repository of articles created by Platform Crew members explaining how to resolve various customer support issues.
 
 ## Problem Statement
 
