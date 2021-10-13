@@ -30,7 +30,7 @@ Phase 2: VFS team members
 
 ## Assumptions
 
-- The positive impact on the quality and efficiency of customer support interactions will be greater than burden of creating and mainting  knowledge base articles on Platform support teams.
+- The positive impact on the quality and efficiency of customer support interactions will be greater than burden of creating and maintaining knowledge base articles on Platform support team members.
 
   
 
