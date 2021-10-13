@@ -219,7 +219,7 @@ What thoughts do you have about what you just did?
 
 - What was *helpful* about what you've seen today?
 
-- What did you *not* helpful about what you've seen today?
+- What was *not* helpful about what you've seen today?
 
 - What would you like to *change* about what you've seen today?
 
