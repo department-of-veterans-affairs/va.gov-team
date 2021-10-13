@@ -42,7 +42,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   > We're sorry. We can't access your [data] at this time. We're working to fix this problem. Please check back later.
 
-### 2. Identity verification
+### 2. Identity verification ([#31403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31403))
 
 - **Impacted sections:** personal and contact information (rest are hidden when this alert shows)
 
@@ -64,7 +64,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
   >
   > [action link] Verify your identity
 
-### 3. Successfully updated direct deposit information in profile
+### 3. Successfully updated direct deposit information in profile ([#31404](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31404))
 
 - **Impacted sections:** direct deposit
 
@@ -80,7 +80,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   > Update saved.
 
-### 4. Failure to update contact information in profile
+### 4. Failure to update contact information in profile ([#31405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31405))
 
 - **Impacted sections:** personal and contact information
 
@@ -96,7 +96,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   > We're sorry. We can't update your [data] at this time. We're working to fix this problem. Please check back later.
 
-### 5. Successfully disconnected an app
+### 5. Successfully disconnected an app ([#31406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31406))
 
 - **Impacted sections:** connected apps
 
@@ -112,7 +112,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   > We've disconnected [app name] from your VA.gov profile. To delete stored information in the app, contact the app's support.
 
-### 6. Failure to disconnect an app
+### 6. Failure to disconnect an app ([#31407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31407))
 
 - **Impacted sections:** connected apps
 
@@ -128,7 +128,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   > We're sorry. We can't disconnect [app name] from your VA.gov profile at this time. We're working to fix this problem. Please check back later.
 
-### 7. User hits cancel button while editing data
+### 7. User hits cancel button while editing data ([#31408](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31408))
 
 - **Impacted sections:** any editable section
 
@@ -155,7 +155,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
   >
   > [button] Cancel
 
-### 8. User is editing a section and attempts to edit another section without saving
+### 8. User is editing a section and attempts to edit another section without saving ([#31410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31410))
 
 - **Impacted sections:** personal and contact information
 
@@ -182,7 +182,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
   >
   > [button] Cancel edits
 
-### 9. Confirmation user wants to disconnect app
+### 9. Confirmation user wants to disconnect app ([#31411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31411))
 
 - **Impacted sections:** connected apps
 
