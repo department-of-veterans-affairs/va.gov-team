@@ -33,6 +33,8 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 ### Background Research
 
+[Discovery/research repo for the Learning center / Resources and support hub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research)
+
 **SME:** Danielle Thierry
 - *Resources and support* questions and answers were determined based on SEO and contact center data
 - *Resources and support* houses Tier 2 content, which is information-based (as opposed to Tier 1 content, which is action based)
