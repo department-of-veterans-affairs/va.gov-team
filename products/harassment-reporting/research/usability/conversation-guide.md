@@ -217,7 +217,7 @@ So what are your thoughts about what you just did?
   - If you were harassed, did you report it?
   - If so, *how* did you report it? 
   - If you didn't report it, what were the barriers to you reporting it?
-  - How would you prefer to report any future harassment? *(this tool / phone call / ____________________)*
+  - How would you prefer to report any future harassment? *(this tool / phone call / in person / _______________)*
 
 *(If they share details of a harassment experience, say "Thank you for sharing your experience; it's helpful for me to hear that.")*
 
