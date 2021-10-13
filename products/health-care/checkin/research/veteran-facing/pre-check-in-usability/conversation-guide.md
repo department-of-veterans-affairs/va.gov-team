@@ -21,8 +21,8 @@ Before we start, a few things I want to mention:
 - This entire session should take no longer than an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts about completing pre-check-in tasks from your home. I will not be offended by any opinions you express, and I welcome your feedback.
 - During this session, we'll be doing two things:
- - First, I'll start by asking you a few questions about your past check-in experiences.
- - Then, I'll send you links to pre-check-in prototypes that I'll have you review.
+  - First, I'll start by asking you a few questions about your past check-in experiences.
+  - Then, I'll send you links to pre-check-in prototypes that I'll have you review.
 - If for any reason and at any time you want to stop the session, please let me know.
 
 Review where to find chat and screen sharing with Veterans. 
