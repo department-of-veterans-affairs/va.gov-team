@@ -52,12 +52,12 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Applying_for_Benefits
 #### Burial_Claim_assistance
 #### Disability_Claim_assistance
-- (Found no reference to disability benefits claim assistance services)
+- *Resources and support* references [filing a claim by mail or in person](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) but does not mention any available assistance with filing or checking on the status of a claim.
 #### eBenefits_Registration
-  - 
 #### Education_and_Career_Counseling
 - (Found no reference to counseling benefit services)
 #### Education_Claim_Assistance
+  - 
 #### Family_Member_Claim_Assistance
 #### Homeless_Assistance
 - (Found no reference to homeless benefit services)
@@ -70,8 +70,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Transition_Assistance
 - (Found no references to transition benefit services)
 #### Updating_Direct_Deposit_Informa
-- Relevant language on the [Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/):
-  - "Change your VA direct deposit information" as an alternative to "Updating..."
+- [Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/): "Change your VA direct deposit information" as an alternative to "Updating..."
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
 - ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/): is offered via phone, or at VA health facilities
