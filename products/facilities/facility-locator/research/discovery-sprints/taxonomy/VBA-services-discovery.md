@@ -33,9 +33,9 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
 
 ### Background Research
 
-- *Resources and support* houses Tier 2 content, which is information-based (as opposed to Tier 1 content, which is action based)
 - *Resources and support* questions and answers were determined based on SEO and contact center data
-- [Resources and support card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/resouces-and-support-card-sort-summary.pdf): user research to determine the correct categorization of articles by topic
+- *Resources and support* houses Tier 2 content, which is information-based (as opposed to Tier 1 content, which is action based)
+- [Resources and support card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/resouces-and-support-card-sort-summary.pdf): user research determined the categorization of articles by topic
 
 ### Method
 
@@ -43,6 +43,8 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 
 ### Key Findings
 
+- **Most of what *Resources and support* offers does not align with *Facility Locator* benefits services**
+  - *Resources and support* provides information on topics related to health care, personal information, and benefits. The *Facility Locator* lists benefit services: locations where Veterans can receive help with their benefits. While *Resources and support* contains step-by-step instructions for some actions, it rarely mentions how Veterans can receive help with performing any of the actions.
 
 
 ## Detailed Findings
@@ -74,8 +76,3 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Other_Services
 - ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/): is offered via phone, or at VA health facilities
 - ["Get help changing your name"](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/): Vets can call individual health facilities or a  regional office for help with the process of changing their legal name on file with the VA.
-- Other possible benefit services (these might not count, but noting just in case):
-  - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
-  - [Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/) - may be useful to have "Claim status help" or similar in FL dropdown
-  - [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/)
-  - [Combat-Related Special Compensation](https://www.va.gov/resources/combat-related-special-compensation-crsc/)
