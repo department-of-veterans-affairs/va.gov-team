@@ -28,10 +28,8 @@ To prepare for taxonomy work on Benefit services, we need to match patient frien
   
 </details>
 
-- For each of the services listed, discover Veteran-facing language in the Resources and Support hub which aligns. It may not be a 1:1 relationship
+- For each of the services listed, discover Veteran-facing language in the [Resources and Support](https://www.va.gov/resources/) hub which aligns. It may not be a 1:1 relationship
 - Discover any additional services which appear to be offered at Benefit locations which could be mapped to "other services"
-
-[Resources and support](https://www.va.gov/resources/)
 
 ### Background Research
 
@@ -54,6 +52,7 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Disability_Claim_assistance
 - (Found no reference to disability benefits claim assistance services)
 #### eBenefits_Registration
+  - 
 #### Education_and_Career_Counseling
 - (Found no reference to counseling benefit services)
 #### Education_Claim_Assistance
@@ -73,8 +72,9 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
   - "Change your VA direct deposit information" as an alternative to "Updating..."
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
-- [Free language assistance](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/) is offered via phone, or at VA health facilities
-- Other possible services (these might not count, but noting just in case):
+- ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/) is offered via phone, or at VA health facilities
+- ["Get help changing your name"](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/): Vets can call individual health facilities or a  regional office for help with the process of changing their legal name.
+- Other possible benefit services (these might not count, but noting just in case):
   - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
   - [Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/) - may be useful to have "Claim status help" or similar in FL dropdown
   - [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/)
