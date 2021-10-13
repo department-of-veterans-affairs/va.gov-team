@@ -33,8 +33,8 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | **(COMPELETE 07202020)**        | --        | --        | --        | Deprecated with launch of Hearing Aids
 | Calculate Home Loan Benefit                         | vsa-ebenefits | Not started | -- | -- | -- | Requires Discovery, possible new LGY integration required
 | Apply for Certificate of Eligibility (1880)         | vsa-ebenefits | In dev | -- | -- | -- | Requires Discovery, possible new LGY integration required
-| View Specially Adapted Housing Grant Status         | vsa-ebenefits | Not started | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ **(confirmed to be shelved, per Randy Cope at LGY)**
-| Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | Not started | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ **(confirmed to be shelved, per Randy Cope at LGY)**
+| View Specially Adapted Housing Grant Status         | vsa-ebenefits | Not started | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~  **No longer to be shelved, avaialble for eneagement**
+| Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | Not started | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~  **No longer to be shelved, avaialble for eneagement**
 | View Dependent Benefits Letter                      | combination   | Q2 FY2021 | --        | --        | --        | [Confirm complete?](https://staging.va.gov/records/download-va-letters/)
 | _SEP Features Placeholder_                          | TBD           | --        | --        | --        | --        | --
 
