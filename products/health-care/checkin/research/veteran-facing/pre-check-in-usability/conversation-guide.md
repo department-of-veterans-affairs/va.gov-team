@@ -140,6 +140,7 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 - Do you feel the in-person part of your appointment with the doctor/nurse will be different after providing this information ahead of time?
 
 [If health questionnaires questions are cut, start asking questions here.]
+
 **Confirmation page**
 - What are your thoughts about this page?
 - Once you submit these pre-check-in questions, who do you expect will have access to the answers that you entered? - Is it what you were expecting or not expecting?
