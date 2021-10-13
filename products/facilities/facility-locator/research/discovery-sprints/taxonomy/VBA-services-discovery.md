@@ -73,9 +73,11 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Transition_Assistance
 - Found no references to transition benefit services
 #### Updating_Direct_Deposit_Informa
-- [Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)
+- [Help with updating direct deposit information](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)
   - Use of the phrase "Change your VA direct deposit information" as an alternative to "Updating..."
   - Veterans can update their information by phone or in person, but there is no direct reference to receiving assistance with this process
+- [Help with opening a bank account](https://www.va.gov/resources/what-if-i-dont-have-a-bank-account-but-i-want-to-use-direct-deposit/)
+  - References to the Veterans Benefits Banking Program (VBBP), which helps Veterans with banking actions
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
 - ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/): is offered via phone, or at VA health facilities
