@@ -28,7 +28,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
-- Work with VA contacts to find social workers or other clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
+- Work with VA contacts to find social workers or clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
 - Limit the number of observers in the session.
 
 ### Participants to recruit
