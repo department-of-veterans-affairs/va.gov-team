@@ -52,33 +52,34 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 
 ## Detailed Findings
 
-#### Applying_for_Benefits
-#### Burial_Claim_assistance
+### Found some reference to:
+
 #### Disability_Claim_assistance
 - *Resources and support* references [filing a claim by mail or in person](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) but does not mention any available assistance with filing or checking on the status of a claim.
 #### eBenefits_Registration
   - (May not be directly related) [Help with upgrading to a premium account](https://www.va.gov/resources/get-a-premium-my-healthevet-account/): Veterans can get help upgrading to a premium account, in person, at VA health facilities.
-#### Education_and_Career_Counseling
-- Found no reference to counseling benefit services
-#### Education_Claim_Assistance
-#### Family_Member_Claim_Assistance
-#### Homeless_Assistance
-- Found no reference to homeless benefit services
-#### VA_Home_Loan_Assistance
-- Found no reference to loan assistance benefits services
-#### Insurance_Claim_Assistance
-#### IDES
-- Found no referencs to Integrated Disability Evaluation System Assistance (IDES) benefits services
-#### Pre_Discharge_Claim_Assistance
-#### Transition_Assistance
-- Found no references to transition benefit services
 #### Updating_Direct_Deposit_Informa
 - [Help with updating direct deposit information](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)
   - Use of the phrase "Change your VA direct deposit information" as an alternative to "Updating..."
   - Veterans can update their information by phone or in person, but there is no direct reference to receiving assistance with this process
-- [Help with opening a bank account](https://www.va.gov/resources/what-if-i-dont-have-a-bank-account-but-i-want-to-use-direct-deposit/)
+- (May not be directly related) [Help with opening a bank account](https://www.va.gov/resources/what-if-i-dont-have-a-bank-account-but-i-want-to-use-direct-deposit/)
   - References to the Veterans Benefits Banking Program (VBBP), which helps Veterans with banking actions
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
 - ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/): is offered via phone, or at VA health facilities
 - ["Get help changing your name"](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/): Vets can call individual health facilities or a  regional office for help with the process of changing their legal name on file with the VA.
+- [Help filing a discrimination help](https://www.va.gov/resources/your-civil-rights-and-how-to-file-a-discrimination-complaint/):  Veterans can call to get information and help with filing a complaint
+
+
+### Found no references to:
+  - Applying_for_Benefits
+  - Burial_Claim_assistance
+  - Education_and_Career_Counseling
+  - Education_Claim_Assistance
+  - Family_Member_Claim_Assistance
+  - Homeless_Assistance
+  - VA_Home_Loan_Assistance
+  - Insurance_Claim_Assistance
+  - IDES
+  - Pre_Discharge_Claim_Assistance
+  - Transition_Assistance
