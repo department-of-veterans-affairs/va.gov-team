@@ -37,9 +37,9 @@
 
 ## October 13
 
-### CLP content lifecycle
+CMS Product support roadmap for Q4
 
-* Review of current request fulfillment and editor support 
+CLP - Review of current request fulfillment and editor support 
 
 
 
