@@ -28,8 +28,7 @@ Phase 2: VFS team members
 
 #### Baseline KPI Values
 
-- [Source for KPIs 1 and 2](https://vfs.atlassian.net/l/c/6aYkm0JB)
-- [Source for KPI 3](https://docs.google.com/spreadsheets/d/1TItdfPMH_TiXEhgMKEqxIW2e5EaMKy4cHaBhaeQ7drU/edit?usp=sharing)
+- [Slack Support Metrics](https://vfs.atlassian.net/l/c/6aYkm0JB)
 
 ------
 
