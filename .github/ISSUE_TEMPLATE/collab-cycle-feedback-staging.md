@@ -23,24 +23,36 @@ assignees:
 ---
 
 ### Platform Issue
-
+<!--
+The Issue column from the [VA.gov Experience Standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html)
+--> 
 
 ### Issue Details
-
+<!--
+Include specific details about the product and why this is an issue.
+--> 
 
 ### Link, screenshot or steps to recreate
-
+<!--
+If applicable.
+--> 
 
 ### VA.gov Experience Standard
-
+<!--
+Category ##, Issue ## (link to VA.gov Experience Standards page on Platform Website)
+--> 
 
 ### Other References
-
+<!--
+WCAG, Design System, Content Style Guide, a previous gh ticket, etc.
+--> 
 
 ---
 
 ### Platform Recommendation
-
+<!--
+Include specific details about how the VFS team can resolve this issue.
+--> 
 
 ### VFS Team Tasks to Complete
 
