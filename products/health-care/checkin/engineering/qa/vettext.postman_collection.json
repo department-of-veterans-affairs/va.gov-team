@@ -1,0 +1,384 @@
+{
+	"info": {
+		"_postman_id": "25ca7eaa-6821-42b6-8bd6-9728de1633aa",
+		"name": "vettext",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get token",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic {{TOKEN}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "2dcdrrn5zc"
+					}
+				],
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/token",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "initiate check in",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{TOKEN}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "2dcdrrn5zc"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"patient\":{\r\n    \"patientLast4\":\"0002\",\r\n    \"patientZipCode\":\"99998\",\r\n    \"patientDob\":\"04/07/1935\",\r\n    \"cellPhone\":\"8144219298\"\r\n  },\r\n  \"appointments\":[\r\n    {\r\n      \"stationNo\":\"500\",\r\n      \"clinicName\":\"\",\r\n      \"datetime\":\"Jul 20, 2021, 8:30:00 AM\",\r\n      \"fmDatetime\":3210720.083,\r\n      \"datetimeStr\":\"Jul 20,2021 08:30\",\r\n      \"facility\":\"VEHU DIVISION\",\r\n      \"patientFriendlyName\":\"\",\r\n      \"clinicPhoneNumber\":\"\",\r\n      \"patientName\":\"TWO,PATIENT\",\r\n      \"patientDfn\":\"205\",\r\n      \"patientLast4\":\"0002\",\r\n      \"patientZipCode\":\"99998\",\r\n      \"patientDob\":\"04/07/1935\",\r\n      \"cellPhone\":\"8144219298\",\r\n      \"status\":\"NO ACTION TAKEN/TODAY\",\r\n      \"appointmentId\":\"205;64;3210720.083\"\r\n    }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/actions/initiate-checkin",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"actions",
+						"initiate-checkin"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete appt",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-key",
+						"value": "{{API_KEY}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "ij4ry1zth2"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"body\": {\n       \"patientDfn\": \"204\",\n    \n    \"startDateTime\": \"2021-07-28 10:00\",\n    \"clinicIen\": \"62\",\n    \"clinicName\": \"Dermatology\",\n    \"apptLength\": \"30\"\n  }\n}"
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"appointments"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get appts for user",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-key",
+						"value": "{{API_KEY}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "ij4ry1zth2"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"body\": {\n    \"patientDfn\": \"204\",\n    \"date\": \"2021-07-28\"\n  }\n}"
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"appointments",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update phone number",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-key",
+						"value": "{{API_KEY}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "ij4ry1zth2"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"body\": {\n    \"patientDfn\": \"204\",\n    \"cellPhone\": \"8144219298\"\n  }\n}"
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/patients",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"patients"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get slots for clinic",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-key",
+						"value": "{{API_KEY}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "ij4ry1zth2"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"body\": {\n    \"clinicIen\": \"62\",\n    \"date\": \"2021-07-27\",\n    \"status\": \"available\"\n  }\n}"
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/slots",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"appointments",
+						"slots"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create appt",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "ij4ry1zth2"
+					},
+					{
+						"key": "x-api-key",
+						"value": "{{API_KEY}}"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"body\": {\n    \"patientDfn\": \"204\",\n    \"startDateTime\": \"2021-07-28 9:30\",\n    \"endDateTime\": \"2021-07-28 10:00\",\n    \"clinicIen\": \"62\",\n    \"clinicName\": \"Dermatology\",\n    \"apptLength\": \"30\"\n  }\n}"
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"appointments"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "check into appointment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-key",
+						"value": "{{API_KEY}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "ij4ry1zth2"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"body\": {\n    \"patientDfn\": \"204\",\n    \"startDateTime\": \"2021-09-15 12:30\",\n    \"clinicIen\": \"64\"\n  }\n}"
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/appointments/checkin",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"appointments",
+						"checkin"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get patient details",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-key",
+						"value": "{{API_KEY}}"
+					},
+					{
+						"key": "x-apigw-api-id",
+						"value": "ij4ry1zth2"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"body\": {\n    \"patientDfn\": \"<PATIENT_DFN>\"\n  }\n}"
+				},
+				"url": {
+					"raw": "https://vpce-06399548ef94bdb41-lk4qp2nd.execute-api.us-gov-west-1.vpce.amazonaws.com/dev/patients",
+					"protocol": "https",
+					"host": [
+						"vpce-06399548ef94bdb41-lk4qp2nd",
+						"execute-api",
+						"us-gov-west-1",
+						"vpce",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"dev",
+						"patients"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
