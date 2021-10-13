@@ -219,11 +219,9 @@ What thoughts do you have about what you just did?
 
 - What was *helpful* about what you've seen today?
 
-- What did you *not helpful* about what you've seen today?
+- What did you *not* helpful about what you've seen today?
 
 - What would you like to *change* about what you've seen today?
-
-- What improvements could make search easier or better for you? 
 
 - We would like this harassment reporting tool to meet the needs of ALL Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask...
   - Have you been harassed at the VA before--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, and you can stop at any time.
@@ -248,7 +246,7 @@ Thank you so much again, and I hope you enjoy the rest of your day!
 
 ## After Session 
 - Click "End" on zoom website
-- Download recordings
+- Download recording
 - Download notes
 - Debrief to my spreadsheet
 
