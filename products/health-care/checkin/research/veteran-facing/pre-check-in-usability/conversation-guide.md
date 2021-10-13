@@ -126,6 +126,7 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 - Is there anything missing or would you change anything?
 
 [Cut the health questionnaire questions if the session runs short on time.]
+
 **Reason for your visit**
 - What are your thoughts about what this page is asking you?
 - Do you see value or no value in sharing this information with your primary care provider? 
