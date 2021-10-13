@@ -1,6 +1,6 @@
 # VA Mobile team - Sprint accomplishments
 
-## Sprint: 10/13/21 - 10/21/21
+## Sprint: 10/13/21 - 10/26/21
 
 
 
