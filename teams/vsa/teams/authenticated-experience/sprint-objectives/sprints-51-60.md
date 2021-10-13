@@ -423,10 +423,9 @@ Design discovery
 
 **Design**
 
-What else needs to happen?
-
 - Design intent
 - Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
+- Start working with content
 
 **FE**
 
@@ -454,7 +453,6 @@ What else needs to happen?
 
 **Design/Research**
 - Recruit for & conduct UAT
-
 
 **Frontend**
 - Assist with UAT as needed
