@@ -29,18 +29,18 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 ### Key Performance Indicators (KPIs)
 
-- *% of submittted feature requests reviewed by Platform team PMs/TLs/POs each month*
+- % of feature requests scored using the Value Matrix each month
 
 #### Baseline KPI Values
 
-- 
+- TBD
 
 ------
 
 ## Assumptions
 - By not having a standard, transparent process for prioritizing feature requests, the Platform is:
-  - Most risky: missing out on valuable initiatives we didn't think of.
-  - Not communicating to customers or stakeholders the priority of their requests.
+  - Missing out on valuable initiatives we didn't think of - most risky.
+  - Not communicating effectively to customers the priority of feature requests.
 
 ## v1 Solution Approach 
 - Based on requirements generated with Leadership, we're solving for the following in the first iteration:
@@ -58,16 +58,6 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 ## Launch Dates
 
 - *Launch Date*: October 2021
-
-------
-
-## Screenshots
-
-*Include before/after screenshots, if applicable. Delete this section otherwise.*
-
-### Before
-
-### After
 
 ------
 
