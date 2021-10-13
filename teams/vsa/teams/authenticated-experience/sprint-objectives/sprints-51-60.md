@@ -382,6 +382,7 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 [Sprint 59 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30185)
 
 ### Notification Preferences
+
 **PM**
 - UAT go/no-go
 
@@ -390,22 +391,53 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 - Run UAT
 
 **Frontend**
+- Updates from security/privacy review, if needed
 - Assist with UAT as needed
 - Respond to UAT findings
 
+**BE**
+
+- Updates from security/privacy review, if needed
+
 ### My VA: Add edu section
 
+**Design**
+
+Design discovery
+
+- Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline. For reference, [here is the education section of the website](https://www.va.gov/education/) to give you an idea of what people might need to do.
+- Look through My VA research to see what edu-related info people have mentioned as important.
+- Look at analytics for top edu tasks. Here are some helpful reports:
+  - [Top 50 pages in the last year](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20201012&_u.date01=20211011&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)   
+  - [Top 50 education pages in the last year](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20201012&_u.date01=20211011&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.filter=~2Feducation&_r.tabId=explorer/)
+- Determine what triggers the education section. If we can only tee off of the education direct deposit, that means we can only show this section to people who already receive edu benefits, which means we only want to elevate the edu tasks that matter to that group. Talk to edu team about if they are aware of APIs we can tap into besides the one that tells us if someone receives edu payments.
+- If we determine that the only thing that is useful to show/the only thing we have data for is payment info, we may want to consider creating a payment/financial section before an edu section. That way, we could show all payment info, not just for edu benefits. 
+
+### Alerts
+
+**PM**
 - Schedule collab cycle kickoff
-- Design discovery
-  - Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline. For reference, [here is the education section of the website](https://www.va.gov/education/) to give you an idea of what people might need to do.
-  - Look through My VA research to see what edu-related info people have mentioned as important.
-  - Look at analytics for top edu tasks. Here are some helpful reports:
-    - [Top 50 pages in the last year](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20201012&_u.date01=20211011&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
-    - [Top 50 education pages in the last year](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20201012&_u.date01=20211011&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.filter=~2Feducation&_r.tabId=explorer/)
-  - Determine what triggers the education section. If we can only tee off of the education direct deposit, that means we can only show this section to people who already receive edu benefits, which means we only want to elevate the edu tasks that matter to that group. Talk to edu team about if they are aware of APIs we can tap into besides the one that tells us if someone receives edu payments.
-  - If we determine that the only thing that is useful to show/the only thing we have data for is payment info, we may want to consider creating a payment/financial section before an edu section. That way, we could show all payment info, not just for edu benefits. 
-- Initial designs
-- (Maybe) Collab cycle design intent
+- Schedule collab cycle design intent
+
+**Design**
+
+What else needs to happen?
+
+- Design intent
+
+**BE**
+
+Can we start build?
+
+### User roles research
+
+Assuming we were able to finish everything from last sprint:
+
+**Design**
+
+- Research plan
+- Convo guide(s)
+- Reach out to SMEs to set up interviews
 
 ## Sprint 60 (11/3 - 11/16)
 [Sprint 60 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30186)
