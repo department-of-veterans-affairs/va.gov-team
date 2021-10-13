@@ -24,12 +24,27 @@
 </details>
 
 ## October 13
+
+### Vet Cemter 
+
+Vet Center District 1
+
+Official name
+
+Required services for Vet Centers
+
 Facility status push (comments/events in details) 
 
+
+### VAMC engineering
+
+VistA / Cerner
 
 Menus
 * depth https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6659
 * timeline for performance review 
+
+
 
 
 
