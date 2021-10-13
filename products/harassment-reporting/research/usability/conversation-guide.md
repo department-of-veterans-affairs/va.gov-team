@@ -129,7 +129,7 @@ While you're looking at this demo tool, I would like you to *talk aloud* as much
 
 ### Task 1: [Find harassment info on VA.gov] - 5 minutes
 
-I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way out, a man said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
+I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a man said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
 
 Before you tap anywhere on the web page displayed on your phone, where might you look for how to report harassment at the VA?
 
@@ -159,9 +159,11 @@ What would you do here? *(Start your report)*
 
 ### Task 4: [Fill out the reporting form]
 
-What would you do here? *(Continue)*
+What would you do here? 
 
-*(tap "Me" then Continue)*
+*(personal info: tap Continue)*
+
+*(happen to you? tap "Me" then Continue)*
 
 *(enter a description?? then Continue)*
 
@@ -175,7 +177,7 @@ There was someone sitting nearby when the harassment happened to you.
 
 *(touch your body? tap "No" then Continue)*
 
-*(more than once? tap "Yes" then Continue)*
+*(more than once? tap "Yes" then Continue)* The man bothered you twice today--on your way in and on your way out of your appointment.
 
 *(tap to enter day/time then Continue)*
 
@@ -185,7 +187,7 @@ There was someone sitting nearby when the harassment happened to you.
 
 *(upload supporting materials)* What are your impressions of this page? 
 What might you do here?
-(* tap Continue)*
+*(tap Upload a file then Continue)*
 
 ### Task 5: [Check your address]
 Say that you want to check that your address is correct. How would you do that?
@@ -198,7 +200,7 @@ What would you do now?
 
 *(any comments on the "you've submitted" page?)*
 
-So what are your thoughts about what you just did?
+So what thoughts do you have about what you just did?
 
 
 ## Post-Task Interview - 5 minutes
