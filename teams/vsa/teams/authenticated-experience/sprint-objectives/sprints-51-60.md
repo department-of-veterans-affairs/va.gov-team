@@ -416,22 +416,28 @@ Design discovery
 ### Alerts
 
 **PM**
+
 - Schedule collab cycle kickoff
 - Schedule collab cycle design intent
+- Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
 
 **Design**
 
 What else needs to happen?
 
 - Design intent
+- Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
+
+**FE**
+
+- Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
 
 **BE**
 
-Can we start build?
+- Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
+- Start build
 
 ### User roles research
-
-Assuming we were able to finish everything from last sprint:
 
 **Design**
 
