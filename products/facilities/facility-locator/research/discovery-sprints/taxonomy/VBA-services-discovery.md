@@ -72,8 +72,8 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
   - "Change your VA direct deposit information" as an alternative to "Updating..."
 #### Vocational_Rehabilitation_Emplo
 #### Other_Services
-- ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/) is offered via phone, or at VA health facilities
-- ["Get help changing your name"](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/): Vets can call individual health facilities or a  regional office for help with the process of changing their legal name.
+- ["Free language assistance"](https://www.va.gov/resources/how-to-get-free-language-assistance-from-va/): is offered via phone, or at VA health facilities
+- ["Get help changing your name"](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/): Vets can call individual health facilities or a  regional office for help with the process of changing their legal name on file with the VA.
 - Other possible benefit services (these might not count, but noting just in case):
   - Reference to the "Veterans Benefits Banking Program" ([Direct deposit for your VA benefit payments](https://www.va.gov/resources/direct-deposit-for-your-va-benefit-payments/)): helps Veterans setup a bank account if they do not already have one
   - [Claim status tool FAQ](https://www.va.gov/resources/claim-status-tool-faqs/) - may be useful to have "Claim status help" or similar in FL dropdown
