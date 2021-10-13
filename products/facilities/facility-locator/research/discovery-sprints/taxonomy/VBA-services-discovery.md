@@ -51,6 +51,9 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 1) **Most of what *Resources and support* offers does not align with *Facility Locator* benefits services**
     - *Resources and support* provides information on topics related to health care, personal information, and benefits. The *Facility Locator* lists benefit services: locations where Veterans can receive help with their benefits. While *Resources and support* contains step-by-step instructions for some actions, it rarely mentions how Veterans can receive help with performing any of the actions.
 
+### Next Steps / Suggestions
+
+- 
 
 ## Detailed Findings
 
