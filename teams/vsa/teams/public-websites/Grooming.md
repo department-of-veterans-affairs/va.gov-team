@@ -27,6 +27,36 @@ None
 
 </details>
 
+## Friday, October 18, 2021 
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+### Backlog Tickets:
+- [ ] Update "Ask a question online" on the right rail of the benefit hub landing pages. [#31350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31350)
+- [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
+- [ ] Redirect Request: Disability & BDD related pages [#12825](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12825)
+- [ ] [Discovery] 404 page content, accessibility and design [#31208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31208) 
+- [ ] GA Event Tracking Request from IA [#31338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31338) 
+
+### Future Work Grooming: 
+Status of VA.gov Mobile Header tickets (Unauth) 
+  - Remaining Effort?  Carry over to S59?
+  - PM working Analytics request and tracking (ticket - Office Hours to discuss how we track 5% production roll-out plan)
+  - PM working mid-point review (async review) as well
+HRT Research Efforts -->  Pilot run Oct 21 with follow on research sessions Oct 25-29.
+Outreach & Events --> Use Cases and Flows (Schedule a review with Dave C.) 
+
+### Clarity Requests: 
+- @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
+
+### Dad Joke: Why do you never see elephants hiding in trees? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+<details><summary>Past Grooming Sessions</summary>
+
+
 ## Friday, October 1, 2021 
 
 ### Key Grooming Factors:
@@ -79,12 +109,8 @@ Post Launch:
 
 
 ### Clarity Requests: 
-- @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
-
-### Dad Joke: What did Michael Jackson name his denim store? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
-
-<details><summary>Past Grooming Sessions</summary>
-
+- @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.    
+  
 ## Wednesday, September 15, 2021
 
 ### Key Grooming Factors:
@@ -760,6 +786,6 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-Billy Jeans :}.
+Becuase they're so good at it! :}.
 
 </details>
