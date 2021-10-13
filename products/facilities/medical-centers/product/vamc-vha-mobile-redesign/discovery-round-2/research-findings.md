@@ -87,9 +87,7 @@ Near Term:
 - Reconsider if MMU location stops need to be listed in the left nav of the page. It may be more usable to not list any MMU locations in the short term.
   - see [Mikki's recommendations for v4](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29332)
   - Include an 'On this page' component for quicker access to: "Main locations", "Health clinic locations", "Other nearby VA locations", and a new "Mobile clinic locations".
-  - Consider how to make the creation and upkeep of mobile clinic websites, with their volatile schedules, easier on content editors.
- 
- Examples: 
+  - Consider how to make the creation and upkeep of mobile clinic websites, with their volatile schedules, easier on content editors. Examples: 
     - Could pages be easily duplicated so that Palo alto can duplicate 1 page 49 times for the unique locations that they will visit in a single calendar year
     - Could new ways of updating website data be created? e.g. Could a spreadsheet be used to update location, dates and times externally vs having to go in and manually edit websites? This would allow other staff, like admin roles, to assist in the keeping information up to date.
 
