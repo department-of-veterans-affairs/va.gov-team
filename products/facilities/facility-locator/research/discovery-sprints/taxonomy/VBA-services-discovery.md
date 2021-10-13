@@ -57,7 +57,6 @@ Audit of [Resources and support](https://www.va.gov/resources/) hub to find rele
 #### Education_and_Career_Counseling
 - (Found no reference to counseling benefit services)
 #### Education_Claim_Assistance
-  - 
 #### Family_Member_Claim_Assistance
 #### Homeless_Assistance
 - (Found no reference to homeless benefit services)
