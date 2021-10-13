@@ -154,7 +154,7 @@ What are your impressions of this page?
 
 What would you do here? *(Sign in to start your report)*
 
-### Task 4: [Log in] - 5 minutes
+### Task 4: [Log in] - 2 minutes
 
 *(click thru modal dialog to log in)*
 
@@ -235,7 +235,7 @@ What thoughts do you have about what you just did?
 - Is there anything else that we haven't talked about that you think I should know? 
 
 
-## Thank You and Closing - 3 minutes
+## Thank You and Closing - 2 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing another way to report harassment, we can make the VA safer for everyone.
 
