@@ -28,7 +28,7 @@
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
 
-Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker, [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
+Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker (or clinician), [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
 
 I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. VA is working to stop harassment and make our locations and services safer for all. As part of these efforts, our team is exploring an online tool to make it easier for Veterans to report harassment at VA. Your input could help us make the tool easier to use by Veterans like you. You'll try out the tool to report a hypothetical harassment situation, not your own harassment experience.
 
@@ -88,7 +88,7 @@ OBSERVE the participant's body language, tone of voice, and the environment. SEN
   - Is it OK for us to continue, or would you like to pause?
   - Is this still a good time for this interview?
 
-Clinician on the session (or on standby) jumps in to provide support, if needed. 
+Social worker/clinician on the session (or on standby) jumps in to provide support, if needed. 
 
 If I feel teary or emotional, turn off my camera and/or say something like "I need to step away for a moment".
 
@@ -145,19 +145,23 @@ What are your impressions of this page?
 
 What would you do here? *(link TBD to reporting form)*
 
+*(If go to "What if I'm not comfortable giving my name" link, note any feedback on phrasing)*
+
 ### Task 3: [Explore intro page and start your report] - 5 minutes
 
 What are your impressions of this page?
 
 What would you do here? *(Sign in to start your report)*
 
-### Task X: [delete this step?]
+### Task 4: [Log in]
 
-What are your impressions of this page?
+*(click thru modal dialog to log in)*
 
-What would you do here? *(Start your report)*
+What would you do here? *(if they're confused, say "Pretend that you just logged in")*
 
-### Task 4: [Fill out the reporting form]
+*(Start your report)*
+
+### Task 5: [Fill out the reporting form]
 
 What would you do here? 
 
@@ -165,13 +169,13 @@ What would you do here?
 
 *(happen to you? tap "Me" then Continue)*
 
-*(enter a description?? then Continue)*
+*(enter a description then Continue)*
 
 There was someone sitting nearby when the harassment happened to you.
 
 *(anyone else see or hear? tap "Yes" then Continue)*
 
-*(enter a description?? then Continue)*
+*(enter a description then Continue)*
 
 *(include sexual comments, images, or gestures? tap "Yes" then Continue)*
 
@@ -187,9 +191,13 @@ There was someone sitting nearby when the harassment happened to you.
 
 *(upload supporting materials)* What are your impressions of this page? What might you do here?
 
+Let's say that you took a picture with your phone of the man who bothered you.
+
 *(tap Upload a file then Continue)*
 
-### Task 5: [Check your address]
+*(Ever looked at the "Need help with your report?" part of the screen? If so, why?)*
+
+### Task 6: [Check your address]
 Say that you want to check that your address is correct. How would you do that?
 
 *(tap "+" next to "Your information")*
@@ -200,15 +208,17 @@ What would you do now?
 
 *(any comments on the "you've submitted" page?)*
 
-So what thoughts do you have about what you just did?
+What would you expect to happen now?
+
+What thoughts do you have about what you just did?
 
 
 ## Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
-- What did you *like* about what you've seen today?
+- What was *helpful* about what you've seen today?
 
-- What did you *dislike* about what you've seen today?
+- What did you *not helpful* about what you've seen today?
 
 - What would you like to *change* about what you've seen today?
 
