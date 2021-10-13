@@ -77,6 +77,7 @@ Please recruit 12 participants for 6 completed sessions.
   - **Participants will likely not know what this means**, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
   - If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
   - If they can see the profile, they are LOA3 and can participate in testing.
+  - **Please provide the participant's login email address prior to sessions so we can turn on the notification settings feature to them.**
 - Participants must be able to screenshare via Zoom on a mobile device other than a tablet. 
   - Prior to the session, please confirm:
     - They're comfortable sharing their screen after they've logged into VA.gov.  Some personal information will be viewable to the moderator and any observers.
@@ -84,7 +85,7 @@ Please recruit 12 participants for 6 completed sessions.
   - **If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.**
   - **Qualifiers:**
     -  Are you able to join a Zoom session from a mobile device other than a tablet, such as a Samsung Galaxy or iPhone? (Answer should be yes to qualify)
-    - Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to your VA.gov profile so some personal information will be shared. (Answer should be yes to qualify)
+    -  Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to your VA.gov profile so some personal information will be shared. (Answer should be yes to qualify)
 - We need a mix of participants who currently receive VA health care:
   - 50% of participants must currently receive VA health care
   - 50% of participants must not currently receive VA health care
@@ -119,7 +120,9 @@ If you are using Perigean to recruit please submit 1 FULL week prior to the star
 
 ### Prepare
 
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
+When will the thing you are testing be finalized? 
+
+10/20/2021
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
@@ -130,19 +133,19 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 What dates do you plan to do research? 
 
-TBD
+10/27-10/29
 
 ### Length of sessions
 
-Sessions will be 30 minutes with 30 minutes in between sessions
+Sessions will be 30 minutes with 30 minutes in between sessions.
 
 ### Availability
 
-| Date        | Times |
-| ----------- | ----- |
-| October TBD |       |
-| October TBD |       |
-| October TBD |       |
+| Date       | Times (Eastern) |
+| ---------- | --------------- |
+| October 27 | 8:30am - 7pm    |
+| October 28 | 9:30am - 7pm    |
+| October 29 | 8:30am - 4:30pm |
 
 ​	
 
@@ -150,7 +153,9 @@ Sessions will be 30 minutes with 30 minutes in between sessions
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
-- Moderator: Liz Lantz, liz.lantz@adhocteam.us
+- Moderators: 
+  - Liz Lantz, liz.lantz@adhocteam.us
+  - Tressa Furner, tressa.furner@adhocteam.us
 - Research guide writing and task development (usually but not always same as moderator):	Liz Lantz
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liz Lantz
@@ -162,7 +167,6 @@ Please list the people who will be serving in each role. **Include the primary p
   - erik@adhocteam.us
   - lihan@adhocteam.us
   - taylor.mitchell@gcio.com
-  - shawna@adhocteam.us
   - maria.becker@thoughtworks.com
   - paras@docme360.com
   - beverly.nelson@va.gov
