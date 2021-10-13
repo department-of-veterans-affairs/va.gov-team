@@ -26,7 +26,7 @@
 
 - Onboarding #30886
 
-### Adding preferred name and pronouns, SIGI, and sexual orientation to the profile 
+### Personal information updates
 
 **PM**
 
@@ -48,6 +48,29 @@
 - Start build
 
 ## Sprint 59 (10/20 - 11/2)
+
+### General onboarding & team management
+
+**PM**
+
+- Product review of contact information and address validation
+- Product review of direct deposit
+
+### Personal information updates
+
+**PM**
+
+- Collab cycle IA review
+- If design work is completed, create frontend documentation 
+
+**Design**
+
+- Meet with content
+- Finalize designs with updated copy
+
+**FE**
+
+- Continue frontend build
 
 ## Sprint 60 (11/3 - 11/16)
 
