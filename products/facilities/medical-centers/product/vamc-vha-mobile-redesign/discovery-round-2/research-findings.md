@@ -95,7 +95,9 @@ Long Term:
 - Consider a different parent child relationship between a VAMCs MMU services and their location/schedule information.
   - Consider decoupling a stop's location information from the services offered by the MMU if all stops share the same service offerings. Consider dedicating a separate page for schedule and location information. Revisit concepts [V2](https://app.mural.co/t/vsa8243/m/vsa8243/1631037297093/f42e9797d06d776f255651afcc64b977025d977a?wid=0-1631284163564&outline=open) and [V3](https://app.mural.co/t/vsa8243/m/vsa8243/1631037297093/f42e9797d06d776f255651afcc64b977025d977a?wid=0-1631291621464&outline=open)
 
-- Consider how Events pages can work with Mobile clinic facilities. Could the information architecture evolve to create a closer relationship between a location and an event? Could the link between each other so that the facility page does the heavy lifting of communicating health services and logistics, while an events page(s) lists 200+ locations? How could we surface events into Facility Locator?
+- Consider how Events pages can work with Mobile clinic facilities. 
+  - Could the information architecture evolve to create a closer relationship between a location and an event? Could they link between each other so that the facility page does the heavy lifting of communicating health services and logistics, while an events page(s) can lists 200+ locations? 
+  - How could we surface events into Facility Locator?
 
 - Begin work to address how an MMU communicates its services and availability during emergency response. 
    - See additional [emergency response use cases](https://app.mural.co/t/vsa8243/m/vsa8243/1627038564401/bdd84c5da65e1000f7d3d2f2d365d03839a1466e?wid=0-1634040246979&outline=open) detailed in the [discovery phase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/research-findings.md) of this research.
