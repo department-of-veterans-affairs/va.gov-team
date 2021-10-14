@@ -1,7 +1,7 @@
 # Research Plan for Apartment IA Proof of Concept Testing, October 2021
 ## Goals
 
-The VFS-APT team is conducting research to validate the IA of health apartment proof of concept (POC) and discoverability of health things within the apartment. The outcome of this tree test research will provide us with insights into what works and what needs work from the start. The tree test will also give us a clear, quantifiable benchmark to improve on in our iterations. 
+The VFS-APT team is conducting research to validate the IA of the health apartment proof of concept (POC) and discoverability of health things within the apartment. The outcome of this tree test research will provide us with insights into what works and what needs work from the start. The tree test will also give us a clear, quantifiable benchmark to improve on in our iterations. 
 
 **Background** 
 
@@ -13,7 +13,7 @@ See 'Tasks' below for a detailed list. Overall, 12 tasks were prioritized to bal
 
 
 ## Method	
-Based on prior work and subsequent recommendation, we will conduct this first round of research via tree test to understand the discoverability of tasks and to validate the organization of information in the apartment. The tree test (built in Treejack by Optimal Workshop) will be pilot tested by Veterans on the internal team for clarity, timing, and general feedback prior to using it with Perigean recruits. This research will be asychronous (i.e., no live moderation), with opportunity for participants to share additional thoughts during the test itself. 
+Based on prior work (link to research plan, findings) and subsequent recommendations (link to Emily's thoughts file), we will conduct this first round of research via tree test to understand the discoverability of tasks and to validate the organization of information in the apartment. The tree test (built in Treejack by Optimal Workshop) will be pilot tested by Veterans on the internal team for clarity, timing, and general feedback prior to using it with Perigean recruits. This research will be asychronous (i.e., no live moderation), with opportunity for participants to share additional thoughts during the test itself. 
 
 To balance comprehensiveness with cognitive load, we decided to test no more than 20 tasks per study. Here's how we prioritized which tasks we should test first. 
 * We prioritized tasks/topics that we had questions about -- meaning things that didn't fit well in the existing MHV or VA.gov structure.
@@ -27,17 +27,29 @@ Tree test link here: XXX.
 
 ### Tasks
 The prioritized 12 tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in tree itself while also being written in plain language. The parentheticals describe the general goal of the task.
-1. You live 110 miles away from the closest VA facility. You need to see a non-VA doctor for an injury from your time in the service. How would you find out if you're eligible to do this? (learning about community care)
-2. You have a x% in disability rating. Where would you go to learn how this impacts your VA health care? (learning about disability benefits)
-3. Your VA doctor prescribed you a hearing aid. After a few months, the battery has died. How would you order a battery replacement? (ordering health supplies (e.g., hearing aid batteries))
-4. Your VA doctor decides that you need to travel to another VA facility for care. You took the subway to that VA facility. How would you request to be reimbursed by VA for your travel expenses to that medical appointment? (requesting travel pay)
-5. How would you pay your most recent health bill? (viewing health bills and payment history)
-6. Lorem ipsum. (learning about dental benefits)
-7. Where would you go to learn about COVID-19? (learning about COVID-19)
-8. You live 110 miles away from the closest VA facility. You need to see a non-VA doctor for an injury from your time in the service. How would you make an appointment? >> Is the fact that the person lives far from the closest VA facility the reason why they need to see a non-VA doctor? (viewing and managing appointments)
+
+1. >>> You live 110 miles away from the closest VA facility. You need to see a non-VA doctor for an injury from your time in the service. How would you find out if you're eligible to do this? (learning about community care)
+
+2. How would you make an appointment? (viewing and managing appointments)
+
+3. You have a 60% in disability rating. Where would you go to learn how this impacts your VA health care? (learning about disability benefits)
+
+4. Your VA doctor prescribed you a hearing aid. After a few months, the battery has died. How would you order a battery replacement? (ordering health supplies (e.g., hearing aid batteries))
+
+5. Your VA doctor decides that you need to travel to another VA facility for care. You took the subway to that VA facility. >>>> How would you request to be reimbursed by VA for your travel expenses to that medical appointment? (requesting travel pay)
+
+6. How would you pay your most recent health bill? (viewing health bills and payment history)
+
+7. >>> Lorem ipsum. (learning about dental benefits)
+
+8. Where would you go to learn about COVID-19? (learning about COVID-19)
+
 9. You've just received a diagnosis for PTSD. Where would you go to find information on resources to help? (learning about specific health conditions (i.e., research health))
-10. Your doctor told you that you have high blood pressure and should be tracking it between visits. Where would you go to enter that information? (tracking self-entered health data)
+
+10. >>> Your doctor told you that you have high blood pressure and requested that you track it on VA.gov between visits. Where would you go to enter that information? (tracking self-entered health data)
+
 11. Subscribe to the MHV newsletter. (reading or subscribing to the MHV newsletter)
+
 12. You had some blood tests done at VA this week. Where would you go to get those results? (viewing labs & test results)
 
 
@@ -51,6 +63,10 @@ Perigean will recruit and schedule # qualified participants for each group outli
 * **Not enrolled in VA health care** -- Veterans who are not currently enrolled in health care. (Maybe add disability bene?)
 * **Service members** -- can we get this?
 * **Caregivers and family** 
+
+Write 2 emails: one to Perigean, one to recruitments
+Talk to Josh about tree test <> accessibility (assisted devices). Can we recruit to account for that?
+10 rounds of 10. PRA.
 
 **Primary criteria**
 
