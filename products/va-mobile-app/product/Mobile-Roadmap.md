@@ -329,7 +329,7 @@ VA services are not always accessible across the digital divide and to those wit
 </table>
 
 
-Simplified:
+## Simplified:
 
 **Continued/Repeated each quarter:**
 
