@@ -35,7 +35,7 @@ An online experience that allows Limited English Proficiency (LEP) Veterans and 
 - DEPO Engineering Lead: Michelle Steigerwalt
 - Team Product Manager: Sharon Kasimow
 - UX/Research: 
-- Front-End Engineering: Fareez Ahmed
+- Front-End Engineering: Adam Whitlock
 - Consultant: Eunice Garcia
 
 ---
