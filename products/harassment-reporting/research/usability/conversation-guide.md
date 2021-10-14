@@ -98,19 +98,19 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - You can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
   - Would you like to stop this session now?
 
-## Warm-up Question - 5 minutes
+## Warm-up Questions - 5 minutes
 
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
 Let’s start with a question...
 - Where do you typically go to get information about the VA?
 
-(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)
+  - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _______________)*
 
-- *If they mentioned VA.gov*, ASK: When was the last time that you remember going to the VA.gov website?
-  - What were you looking for?
-  - Where did you look?
-  - Did you find what you were looking for?
+- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. If you wanted to talk with someone at the VA about it, where would you start?"
+
+  - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
+
 
 ## Start screen sharing
 I'm going to share with you a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
@@ -132,7 +132,7 @@ Do you see the link?
 
 ### Task 1: [Find harassment info on VA.gov] - 5 minutes
 
-I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
+Now, what if you had heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
 
 Before you tap anywhere on the web page displayed on your phone, where might you look for how to report harassment at the VA?
 
@@ -233,15 +233,17 @@ What thoughts do you have about what you just did?
 
 *(If they share details of a harassment experience, say:)"*
 - I am sorry you had this experience with harassment. It is helpful for me to hear that so I can understand how we can build tools to help address it.
+- If you want to report your experience with harassment, you can do that in person at the VA site or call XXX-XXX-XXXX.
 
-- Is there anything else that we haven't talked about that you think I should know? 
+
+Is there anything else that we haven't talked about that you think I should know? 
 
 
 ## Thank You and Closing - 2 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing another way to report harassment, we can make the VA safer for everyone.
 
-In case you feel uncomfortable or stressed about your harassment experiences or anything else, I just want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
+In case you feel uncomfortable or stressed about your harassment experiences or anything else, I want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
 - Call 800-273-8255 and select 1, or text 838255
 
 Thank you so much again, and I hope you enjoy the rest of your day!
