@@ -14,7 +14,7 @@ Thanks for joining us today! My name is Liz and I also have some colleagues on t
 Before we start, a few things I want to mention:
 
 - **This entire session should take less than 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **If you have a mobile phone number in your profile, I'm going to ask you to remove it to test one piece of our functionality.** We can add it back at the end of the session.
+- **If you have a mobile phone number in your profile, I'm going to ask you to remove it to test one part of our feature.** We can add it back at the end of the session.
 - **In this session, we want to hear your honest opinions.** If you find something we show you to be confusing, we want to hear about it. Your feedback helps us to figure out how we can improve the Veteran experience, and we will not be offended by any opinions you express.
 - **We will be able to see your real information today.** This may include some healthcare information and some claims information. During any of the tasks if you feel uncomfortable sharing your screen with any of your information on it, feel free to stop screensharing and start again when you feel comfortable. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
