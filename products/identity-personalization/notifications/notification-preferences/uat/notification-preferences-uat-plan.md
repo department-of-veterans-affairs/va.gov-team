@@ -1,6 +1,6 @@
 # Research Plan for Authenticated Experience, Notification preferences UAT, October 2021
 
-`draft`
+Liz Lantz, VSA, Authenticated Experience
 
 ## Background
 
