@@ -83,13 +83,12 @@ Ok, that's what we were hoping for. Go ahead and add your number back, and then 
 
 (Only participants who receive healthcare through VA) Take a look at this page. 
 
-- Are there any notifications here that you already receive? 
-- What are your thoughts about what you see related to those notifications here?
+- Which of these notifications, if any, do you already receive? 
 
 (All participants) Go ahead and update your notification settings
 
 - If user doesn't click the link in the alert, instruct them to do so before all the settings are set
-- [ ] **Usability:** (Healthcare users only) Did the user share any feedback related to notifications they are already receiving?
+- [ ] **Usability:** Did the user share any feedback related to notifications they are already receiving?
 - [ ] **UAT TASK:** Is the health care section only showing for users who have health care?
 - [ ] **UAT TASK:** Do the field sets load with the `warning` state?
 - [ ] **UAT TASK:** Is the prescription shipping/tracking reminder showing appropriately (should be hidden unless a user is registered at an Asheville or Denver VAMC)?
@@ -104,10 +103,13 @@ Go ahead and refresh the page, so we can confirm everything saved correctly.
 
 - [ ] **UAT TASK:** Are the users changes to their notification settings accurately saved?
 
-## Post-Task Interview - 2 minute
+## Post-Task Interview - 2 minutes
 
+- (If applicable) You mentioned you already receive some of the notifications that you had to select options for. What are your thoughts about having to set up preferences for notifications you're already receiving?
 - Do you have any feedback on what we looked at today?
 - Do you have any questions for me?
+
+- [ ] **Usability:** Did the user share any feedback related to notifications they are already receiving?
 
 ## Thank-You and Closing - 1 minute
 
