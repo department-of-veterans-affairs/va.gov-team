@@ -4,13 +4,13 @@
 
 Liz Lantz, VSA, Authenticated Experience
 
-**Last updated:** October 12, 2021
+**Last updated:** October 14, 2021
 
 ## Background
 
 As My HealtheVet and eBenefits move towards the VA.gov ecosystem, VA.gov will need to transition from serving exclusively Veterans, to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
 
-Currently, what defines a “non-Veteran” and their use cases are not well understood across the VA. Each administration—VHA, VBA, and NCA—has their own unique definitions and nuances, which significantly increases the complexity of solving for the “non-Veteran” use case. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
+Currently, what defines a “non-Veteran” and their use cases are not well understood across the VA. Each administration—VHA, VBA, and NCA—has their own unique definitions and nuances, which significantly increase the complexity of solving for the “non-Veteran” use case. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
 ## Phase 1 Goals
 
@@ -76,7 +76,9 @@ We learned the supplemental claim form asks for the person's relationship to the
 
 #### Findings
 
-2.1 
+2.1 Spouses and dependents can have a basic eBenefits account as long as they are registered in the Defense Enrollment Eligibility Reporting System (DEERS) that also has a DS Logon account.
+
+- 
 
 ### 3. Learn what roles exist for My HealtheVet (MHV)
 
@@ -87,7 +89,15 @@ We learned the supplemental claim form asks for the person's relationship to the
 
 #### Findings
 
-3.1 
+3.1 MHV asks  `What is your relationship to VA?` in the user profile. The following are non-Veteran role options:
+
+- VA Patient (selected by default, can't be unselected)
+- Health Care Provider
+- Veteran Advocate/Family Member/Friend
+- VA Employee
+- CHAMPVA Beneficiary
+- Caregiver
+- Other (no further explanation required)
 
 ### 4. Scope the list of user roles to a manageable list we would actually build on VA.gov
 
