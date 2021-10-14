@@ -28,7 +28,10 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 ### Key Performance Indicators (KPIs)
 
-- % of feature requests scored using the Value Matrix each month
+- % of feature requests scored using the Value Matrix each month.
+- Increase in customer satisfaction.
+- Volume of feature requests submissions.
+- Number of upvotes feature requests receive.
 
 #### Baseline KPI Values
 
