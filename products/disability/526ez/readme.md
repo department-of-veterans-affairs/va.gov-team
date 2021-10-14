@@ -35,9 +35,10 @@
 
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
+- Product Owner: Matt Self (
 - Product manager: Veronica Henry (vhenry@governmentcio.com)
 - Design and Research: Kevin Stachura (kstachura@governmentcio.com), Christian Valla (cvalla@governmentcio.com)
-- Engineering: Anna Carey (anna@adhocteam.us), Robin Garrison (robin.garrison@adhocteam.us), 
-- Contact center partner: Chante Lantos-Swett, Sylvia Palmer & Brenda Torres Hill
+- Engineering: Michel McDonald (), Csaba Nmeth (), Asha Gross (), Robin Garrison (robin.garrison@adhocteam.us), 
+- Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a
