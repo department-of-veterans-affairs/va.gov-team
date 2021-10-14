@@ -1,0 +1,105 @@
+# Research Plan for Apartment IA Proof of Concept Testing, October 2021
+## Goals
+
+The VFS-APT team is conducting research to validate the IA of health apartment proof of concept (POC) and discoverability of health things within the apartment. The outcome of this tree test research will provide us with insights into what works and what needs work from the start. The tree test will also give us a clear, quantifiable benchmark to improve on in our iterations. 
+
+**Background** 
+
+This project maintains the vision of the Digital Modernization Strategy set in 2017: to provide a single, high-quality digital version of every health product or tool, plus the ability for a Veteran to see all of their VA benefits - health, disabililty, education, and other - in one place, on VA.gov.
+
+**Research Questions** 
+
+See 'Tasks' below for a detailed list. Overall, 12 tasks were prioritized to balance thoroughness with an appropriate cognitive load for Veterans; see 'Method' below for additional information on how these tasks were prioritized based on various analytics.
+
+
+## Method	
+Based on prior work and subsequent recommendation, we will conduct this first round of research via tree test to understand the discoverability of tasks and to validate the organization of information in the apartment. The tree test (built in Treejack by Optimal Workshop) will be pilot tested by Veterans on the internal team for clarity, timing, and general feedback prior to using it with Perigean recruits. This research will be asychronous (i.e., no live moderation), with opportunity for participants to share additional thoughts during the test itself. 
+
+To balance comprehensiveness with cognitive load, we decided to test no more than 20 tasks per study. Here's how we prioritized which tasks we should test first. 
+* We prioritized tasks/topics that we had questions about -- meaning things that didn't fit well in the existing MHV or VA.gov structure.
+* We then cross-referenced top search terms with top tasks -- assuming that these are high-need, low-discoverability items. [Go to our analytics page for more information.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/analytics/Analytics.md) 
+
+*Note: Because the "big 4" tools (messages, appointments, pharmacy, and records) are well understood in MHV, the apartment POC did not make major shifts to them. Thus, we are not testing them in this first tree test.
+
+Apartment sitemap Mural here: (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1630530056765/d3d8cdb3f341d709f2f6b6658bbd7d6b6c50bf75?sender=uaf2e527a10dad9fb94a02129) 
+Tree test link here: XXX.
+
+
+### Tasks
+The prioritized 12 tasks, linked to our testing objective, were carefully curated such that they reflect how Veterans might naturally approach the website. We ensured that the answer wasn't given away by using the same language that’s in tree itself while also being written in plain language. The parentheticals describe the general goal of the task.
+1. You live 110 miles away from the closest VA facility. You need to see a non-VA doctor for an injury from your time in the service. How would you find out if you're eligible to do this? (learning about community care)
+2. You have a x% in disability rating. Where would you go to learn how this impacts your VA health care? (learning about disability benefits)
+3. Your VA doctor prescribed you a hearing aid. After a few months, the battery has died. How would you order a battery replacement? (ordering health supplies (e.g., hearing aid batteries))
+4. Your VA doctor decides that you need to travel to another VA facility for care. You took the subway to that VA facility. How would you request to be reimbursed by VA for your travel expenses to that medical appointment? (requesting travel pay)
+5. How would you pay your most recent health bill? (viewing health bills and payment history)
+6. Lorem ipsum. (learning about dental benefits)
+7. Where would you go to learn about COVID-19? (learning about COVID-19)
+8. You live 110 miles away from the closest VA facility. You need to see a non-VA doctor for an injury from your time in the service. How would you make an appointment? >> Is the fact that the person lives far from the closest VA facility the reason why they need to see a non-VA doctor? (viewing and managing appointments)
+9. You've just received a diagnosis for PTSD. Where would you go to find information on resources to help? (learning about specific health conditions (i.e., research health))
+10. Your doctor told you that you have high blood pressure and should be tracking it between visits. Where would you go to enter that information? (tracking self-entered health data)
+11. Subscribe to the MHV newsletter. (reading or subscribing to the MHV newsletter)
+12. You had some blood tests done at VA this week. Where would you go to get those results? (viewing labs & test results)
+
+
+## Participants and Recruitment	
+Perigean will recruit and schedule # qualified participants for each group outlined below.
+
+### Recruitment (FROM EMILY; NEEDS TO BE PARSED OUT IN FORMAT LIKE BELOW)
+*Consider segmenting each group by age (e.g. under/over 45) or gender identity.*
+* **Familiar with MHV**  -- Veterans who are enrolled in VA health care, AND have signed in to MHV in the last 6 months
+* **Not familiar with MHV but have health care** -- Veterans who are enrolled in VA health care AND  do not sign in to the MHV patient portal regularly
+* **Not enrolled in VA health care** -- Veterans who are not currently enrolled in health care. (Maybe add disability bene?)
+* **Service members** -- can we get this?
+* **Caregivers and family** 
+
+**Primary criteria**
+
+*Please consider each of the following three groups as a separate recruitment effort.*
+
+1. Number of years with the VA/eras of service: 
+* At least 3 participants who have left the miliary within the last 3 years
+* At least 3 participants who served in Operation Enduring Freedom or the Iraq War
+* At least 3 participants who served in the Gulf War
+* At least 3 participants who served in the Vietnam War
+
+2. Use of VA benefits:
+* At least 4 participants who use health care only, or health care and disability compensation, but no other VA benefit types (e.g. housing, education)
+* At least 4 participants who use VA health care + 1 other VA benefit type
+* At least 4 participants who use VA health care and 2 or more VA benefit types
+
+3. Caregiver and dependent needs:
+* At least 4 participants who access VA benefits for themselves only, without the help of a caregiver
+* At least 4 participants who access VA benefits for themselves and their dependents, without the help of a caregiver
+* At least 4 participants who are caregivers to Veterans and/or their dependents accessing VA benefits
+
+All participants must use or have applied for VA health care:
+* At least 3 participants in each group who use private health care providers/insurance to supplement their VA health care
+
+**Secondary criteria**
+
+Gender:
+* At least 3 women
+
+Inclusion:
+* At least 3 people of color
+
+Geographic distribution: 
+* 7 participants from the east coast
+*	2 participants from the mid-west
+*	3 participants from the west coast
+
+## When? 	
+Conduct research: MM DD - DD, 2021
+
+Length of session: 1-hour asychronous online test
+
+Draft of research plan complete: MM DD YYYY
+
+
+## Team Roles	
+- Research guide writing and task development: Meg Peters (meg.peters@va.gov); Lara Siopis (lara@themostudio.com); Paula Mendoza (paula@themostudio.com); Emily Mann (emily.mann1@va.gov)
+- Treejack by Optimal Workshop development: Jared Cooke (jared@themostudio.com); Paula Mendoza (paula@themostudio.com)
+- Participant recruiting & screening: Perigean
+- Project point of contact:	Lauren Alexanderson (lauren.alexanderson@va.gov)
+- Participant(s) for pilot test: Lara Siopis (lara@themostudio.com)
+- VFS-APT research team: Meg Peters (meg.peters@va.gov); Lara Siopis (lara@themostudio.com); Paula Mendoza (paula@themostudio.com); Jared Cooke (jared@themostudio.com); Lauren Alexanderson (lauren.alexanderson@va.gov)
