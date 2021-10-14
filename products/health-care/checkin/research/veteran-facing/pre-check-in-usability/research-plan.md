@@ -168,14 +168,18 @@ Due to the use of a UXPin prototype, for this session:
 - At least 1 Biracial participant
 - At least 1 Asian participant
 - At least 6 participants over 55
-- At least 3 people who do not have a college degree (to include enlisted Vets)
-- At least 3 people  who lives in a rural or remote area
-- At least one person who lives in a major metropolitan area
+
 - At least 6 participants that has identified cognitive impairments and/or functional disabilities.
 
     Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low         tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
+- At least 3 people who do not have a college degree (to include enlisted Vets)
+- At least 3 people  who lives in a rural or remote area
 - At least one non-native English speaker
+- At least one person who lives in a major metropolitan area
+- At least one person who is gay, lesbian or bisexual
+- At least one transgender person
+- At least one nonbinary, gender fluid, gender queer, Two-Spirt (Indigenous only), or another gender beyond a man or woman
 
 ## Timeline
 If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
