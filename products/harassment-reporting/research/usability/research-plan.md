@@ -94,7 +94,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participants for pilot test:	TBD
+- Participants for pilot test:	candy.clark@gcio.com
 - **Notetaker:	Perigean**
 - Observers:	Will be invited directly by the Moderator because we need to limit the number of observers per session. 
  
