@@ -28,8 +28,9 @@
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
 
-Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker (or clinician), [name]. I can tell you a little more about who we are and what we’re doing before we go any further.
+Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker (or clinician), [name]. [Name] can jump in to provide support for you, if needed. 
 
+I can tell you a little more about who I am and what we’re doing before we go any further...
 I'm a user researcher and as a team we work on making improvements to VA's websites. We reach out to Veterans from time to time to get their input to make sure we're on the right track with the web pages that we're building. VA is working to stop harassment and make our locations and services safer for all. As part of these efforts, our team is exploring an online tool to make it easier for Veterans to report harassment at VA. Your input could help us make the tool easier to use by Veterans like you. You'll try out the tool to report a hypothetical harassment situation, not your own harassment experience.
 
 **Are you comfortable proceeding with this session?**
@@ -79,22 +80,23 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handing Trauma-Triggering
-OBSERVE the participant's body language, tone of voice, and the environment. SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness. Prolonged silences? Shifts in tone or attitude or interactivity? New background noises? Staring into space? 
-- If notice a change, SAY one of these: 
+*OBSERVE the participant's body language, tone of voice, and the environment. SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness. Prolonged silences? Shifts in tone or attitude or interactivity? New background noises? Staring into space?* 
+*- If notice a change, SAY one of these:*
   - I realize this is hard. Would you like to take a break or stop?
   - I can see that you're upset. This is important to talk about, but we don't need to go there.
   - Would you like me to stop recording?
   - Do you want to just sit here quietly for a few minutes?
-  - Is it OK for us to continue, or would you like to pause?
-  - Is this still a good time for this interview?
+  - Would you like to pause, or are you OK with continuing?
+  - Is this not a good time for this session?
 
-Social worker/clinician on the session (or on standby) jumps in to provide support, if needed. 
+*Social worker/clinician on the session (or on standby) jumps in to provide support, if needed. Could SAY:* 
+- Could you perhaps help, [NAME of social worker/clinician]?
 
-If I feel teary or emotional, turn off my camera and/or say something like "I need to step away for a moment".
+*If I feel teary or emotional, turn off my camera and/or say* "I need to step away for a moment".
 
-SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red box at top of VA.gov web pages).
-  - Give them the number and let them leave the session if they want
-    - Call 800-273-8255 and select 1, or text 838255
+*SHARE the Veterans Crisis Line to call, text, or chat anytime day or night (from red box at top of VA.gov web pages).*
+  - You can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
+  - Would you like to stop this session now?
 
 ## Warm-up Question - 5 minutes
 
