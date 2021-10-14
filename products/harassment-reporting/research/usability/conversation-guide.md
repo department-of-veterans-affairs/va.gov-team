@@ -103,7 +103,7 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
 Let’s start with a question...
-- Where do you typically go to get information about VA benefits?
+- Where do you typically go to get information about the VA?
 
 (Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / ________________________)
 
@@ -113,6 +113,12 @@ Let’s start with a question...
   - Did you find what you were looking for?
 
 ## Start screen sharing
+I'm going to share with you a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
+
+Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
+
+While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+
 I would like you to share your screen with me so I can watch you use a website in your web browser. 
 *(refer to Screen sharing instructions above, if needed)*
 
@@ -122,17 +128,11 @@ I'll have you start from a website that I'm going to (spell/put into the Zoom ch
 
 Do you see the link? 
 
-This is a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
-
-Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
-
-While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
-
 ## Veteran Tasks
 
 ### Task 1: [Find harassment info on VA.gov] - 5 minutes
 
-I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a man said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
+I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like someone at the VA to talk to this person about what happened and hopefully prevent it from happening to other people. You've heard that you can report harassment from the VA.gov website, though you've never done that before. So you take out your smartphone and try to figure out how.
 
 Before you tap anywhere on the web page displayed on your phone, where might you look for how to report harassment at the VA?
 
@@ -194,9 +194,7 @@ There was someone sitting nearby when the harassment happened to you.
 
 *(upload supporting materials)* What are your impressions of this page? What might you do here?
 
-Let's say that you took a picture with your phone of the man who bothered you.
-
-*(tap Upload a file then Continue)*
+*(tap Upload a file OR Continue)*
 
 *(Ever looked at the "Need help with your report?" part of the screen? If so, why?)*
 
@@ -231,8 +229,10 @@ What thoughts do you have about what you just did?
   - If so, *how* did you report it? 
   - If you didn't report it, what were the barriers to you reporting it?
   - How would you prefer to report any future harassment? *(this tool / phone call / in person / _______________)*
+  - How likely would you be to use an online tool like this to report harassment?
 
-*(If they share details of a harassment experience, say "Thank you for sharing your experience; it's helpful for me to hear that.")*
+*(If they share details of a harassment experience, say:)"*
+- I am sorry you had this experience with harassment. It is helpful for me to hear that so I can understand how we can build tools to help address it.
 
 - Is there anything else that we haven't talked about that you think I should know? 
 
