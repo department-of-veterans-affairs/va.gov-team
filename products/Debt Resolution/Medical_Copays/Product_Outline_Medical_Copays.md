@@ -169,12 +169,36 @@ We follow a 2 week SCRUM development cycle
 |Backlog Grooming|Wednesdays mid-sprint|1:00pm CT|--|
 |Sprint Planning|Wednesday start of sprint|1:00pm CT|
 |Sprint Retro|Wednesday start of sprint|9:15am CT|--|
+ 
+ 
+#### Communications
+DSVA Slack channel #vsa-debt
 
+<details>
 
+- Team Name: vsa-debt
+- GitHub Label(s): vsa-debt
+- Slack channel: #vsa-debt
+- Product POCs: 
+
+</details>
 
 
 #### Stakeholders
-
-<details>
+ DMC
  
-See Stakeholder list in Git Repo
+<details>
+- Office/Department: DMC St. Paul
+- Contact(s): Jill Anderson (jill.anderson3@va.gov)
+</details>
+
+#### System and Dependent VA Backends
+<details>
+- VBS:
+  contact: Logan Smith(Logan.Smith1@va.gov), PM of VSB Liberty team 
+- MPI
+- va_notify
+</details>
+---
+<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
+<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
