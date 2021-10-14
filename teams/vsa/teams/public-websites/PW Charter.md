@@ -1,31 +1,36 @@
-# Public Websites Charter
+# Public Websites Team Charter
 
 ---
-
-## Guideposts
-### Mission:
-Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
-
-### Vision:
-We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
 ### North Stars:
 1. Increase the use of self-service tools and associated number of conversions
 2. Decrease time users spend waiting for an outcome
 3. Consistent Customer satisfaction, reliability and secure online UX
 
+## Guideposts
+### Mission:
+Provide Veterans, and those that support Veterans access to vital information and tools about VA benefits and services.
+
+### Vision:
+We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
+
 ## What we work on
 ### Product Suite
 Unauthenticated Experience for VA.gov
 
 ### Product Portfolio:
--	Home Page (including Alert Banner) 
--	Site Navigation (Header, Left Hand, Footer)
--	Benefit Hubs
--	Outreach & Events Hub and Calender
--	Resources & Support
+-	VA.gov Home Page (Unauth) 
+- Campaign Landing Pages 
+- Harassment Reporting Tool (HRT)
+
+### Product Initiatives:
+- Home Page (including Alert Banner)
+- Site Navigation (Header, Left Hand, Footer)
+- Benefit Hubs
+- Outreach & Events Hub and Calender
 - Campaign Landing Page
-- Contact Us / Help 
+- Contact Us / Help Utility
+
 
 ### Responsibilities (Problem space and user goals):
 1. We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
@@ -37,21 +42,21 @@ Unauthenticated Experience for VA.gov
 
 [Learning Center Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Learning%20Center%20OKR%20Road%20Map.pdf)
 
+[Campaing Landing Page (CLP) Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/state-of-product.md)
+
 ---
 
 ## Who we are
 ### Team Members:
 
-|**Roles**              |**Assigned**                        |
-|-----------------------|------------------------------------|
-|DSVA Product Owner     |TBD                                 |
-|Product Manager        |Brian Lloyd                         |
-|Front End Engineer     |Kelson Adams                        |
-|Front End Engineer     |Ryan Leahy.                         |
-|Design/Research        |Cassandra Allen                     |
-|Content Writer         |Selina Cooper                       |
-|Content Writer         |Laura Walsh                         |
-|Copy Editor            |Randi Hecht                         |
+|**Roles**              |**Assigned**                        | **Photo**|
+|-----------------------|------------------------------------|-----------------|
+|DSVA Product Owner     |John Hashimoto                      |<img width="200" alt="John Hashimoto" src="https://user-images.githubusercontent.com/70410912/122793443-74a7e200-d278-11eb-8404-7685852ff08a.png">|
+|Sr Product Manager     |Brian Lloyd                         |<img width="200" alt="Brian Lloyd" src="https://user-images.githubusercontent.com/70410912/122794199-39f27980-d279-11eb-90c7-e3d2520474b3.png">| 
+|Front End Engineer     |Kelson Adams                       |<img width="200" alt="Kelson Adams" src="https://user-images.githubusercontent.com/70410912/122794450-8342c900-d279-11eb-9de4-37ecdd866cfe.png">|
+|Front End Engineer     |Trent McDole                       |<img width="200" alt="Kelson Adams" src=https://user-images.githubusercontent.com/70410912/137388756-2d4585df-4922-4f7a-a70d-2ff176b64fce.jpg>|
+|Design       |Cassandra Allen         |<img width="200" alt="Cassandra Allen" src="https://user-images.githubusercontent.com/70410912/122793681-b8025080-d278-11eb-8a9f-11f75e296e03.png">|
+|Research     |Cindy Merrill         |<img width="200" alt="Cindy Merrill" src="https://user-images.githubusercontent.com/70410912/122793757-cbadb700-d278-11eb-8ac8-ac0f521fd7fc.png">|
 
 ### Popular Labels in ZenHub
 
@@ -62,11 +67,13 @@ Unauthenticated Experience for VA.gov
 * content
 * needs-grooming
 * design
-* Awaiting Feedback
+* developing
+* awaiting Feedback
 * research
-* Website redirects
+* website redirects
 * planned
 * un-planned
+* CMS-intake
 
 Milestones are set up as:
 * Public Websites Sprint xx
@@ -103,13 +110,22 @@ Assess and update workload for remainder of sprint
 * 2nd Wednesday of every sprint, 1-hour
 * On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
+#### ZenHub Team Board
+
+* Icebox: These are items that are eithier blocked indefinately or awaiting added functionality that is dependent on another team or section of VSP/VSF.  No need to touch these items until they are moved to Backlog or Ready Status.   
+* Backlog: These are items that are eithier waiting for other dependencies or team just don't have bandwidth to action these items due to current velocity and burndown requirements.  Items in backlog can be picked up if there's nothing in ready, current sprint, or in-progress respectively. 
+* Ready: These are items that ideally have been groomed and are ready on-deck tickets for team to work as directed.  These are things that are not in current sprint, but if bandwidth is available and all items in current sprint or in-progress are compelted then these can be pick items up for work.  
+* Current Sprint: These are tasks that have been groomed and planned and programmed for completion as priority during sprint. These items can be moved to in-progress when initiated to indicate they are "Inprogress". Having tasks in current sprint indicates to team members that these items would idealy be completed before end of sprint. If there is nothing in-progress, this is the first column to look at when picking up new items.
+* In Progress: These are tasks that are currently "Inprogress" or have PRs open. Some tickets merit more than 1 PR (e.g. maybe there's a backend PR and a frontend PR for the same ticket). When all related PRs are closed for the ticket, the ticket should be moved to the validate column for review and validated by PO/PM. 
+* Validate: All assigned tasks are completed and Acceptable Criteria (AC) has been achieved along with related PRs being merged (not necessarily deployed). These tickets are ready for validation and (following the next deploy cycle) should be able to see the relevant changes on production/staging. **All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PO or PM to validate any tasks you are unable to validate yourself.**
+
 #### Issue Etiquette
 **For Requests originating outside the Public Websites team** - please use our [Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+needs-grooming%2C+Epic&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
 
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
+- Estimate
 - Title that explains task
-- [Estimate](https://docs.google.com/document/d/1WftRc1JeNxVAh7u1iiW5c5Et0HbM_uBqxhCXL6NGYog/edit)
 - Description with Background and Acceptance Criteria
 - Labels: _your team's labels_ 
 - User Story (if applicable), Goal, and Acceptance Criteria
@@ -131,6 +147,16 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 - Trust one another and ask questions freely and frequently
 - Celebrate the wins
 - Let’s have fun and do great work!
+
+#### Estimating:
+Thought process:
+
+- 1: Easy task, work is known, can be executed quickly
+- 2: Mostly known, doable
+- 3: Becoming complex
+- 5: Complex, may take a half a sprint
+- 8: Pretty complex, takes up to a full sprint
+- 13: Very complex, needs to be broken down. Consider spike/ discovery?
 
 #### Decision Etiquette
 Decisions are part of our daily routine, the below questions can help kickstart the decision making and creative thinking process.
