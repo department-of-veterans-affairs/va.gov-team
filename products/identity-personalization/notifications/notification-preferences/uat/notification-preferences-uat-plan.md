@@ -1,6 +1,6 @@
 # Research Plan for Authenticated Experience, Notification preferences UAT, October 2021
 
-Liz Lantz, VSA, Authenticated Experience
+`draft`
 
 ## Background
 
@@ -126,11 +126,10 @@ When will the thing you are testing be finalized?
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: mark.huber@adhocteam.us
+* Pilot participant email: Taylor.mitchell@gcio.com
 * Date and time of pilot session: 
   * Please schedule 45 minutes to allow for extra time
-  * 10/22 12pm EST, or
-  * 10/25 2pm EST
+  * TBD
 
 ### Research sessions
 
@@ -162,7 +161,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator):	Liz Lantz
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liz Lantz
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test:	Taylor Mitchell
 - Note-takers:	TBD
 - Observers:	
   - samara.strauss@va.gov
