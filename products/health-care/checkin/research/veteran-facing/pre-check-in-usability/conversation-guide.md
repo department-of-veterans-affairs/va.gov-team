@@ -15,13 +15,13 @@ Check your \[screensharing setup\]
 When the participant is ready, begin the session with the following intro
 
 ## Intro - 5 minutes
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today, we're going to talk about all the questions you are asked or information you review when checking in for or at the beginning of a VA medical appointment. We are exploring the possibility of enabling Veterans to review and update that information prior to their appointment on their own time from the comfort of their own homes.
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today, we're going to talk about all the questions you are asked and information you review when checking in for or at the beginning of a VA medical appointment. We’ll also discuss actions you can take prior to an appointment, such as canceling and rescheduling. We are exploring the possibility of enabling you to review and update this information as well as cancel/reschedule online in your own time from the comfort of your own home.
 
 Before we start, a few things I want to mention:
 - This entire session should take no longer than an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. We are not testing your ability. We want to hear your thoughts about completing pre-check-in tasks from your home. I will not be offended by any opinions you express, and I welcome your feedback.
 - During this session, we'll be doing two things:
-  - First, I'll start by asking you a few questions about your past check-in experiences.
+  - First, I'll start by asking you a few questions about your past experiences.
   - Then, I'll send you links to pre-check-in prototypes that I'll have you review.
 - If for any reason and at any time you want to stop the session, please let me know.
 
@@ -35,53 +35,56 @@ Start recording.
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Warm-up Questions - 5 minutes
-Now, I’m going to ask you to think about your experiences checking in for a VA medical appointment.
-
+Now, I’m going to ask you to think about the tasks you do prior to a VA medical appointment, such as checking in, answering questions, canceling, or rescheduling.
 - Do you normally check in with a staff member or use a kiosk?
   - What types of questions are you asked or what types of information do you review?
-- What types of questions do the medical professionals (such as doctor or nurse) ask at the start of your appointments? For instance, do they review your list of medications?
+- What types of questions do the medical professionals (such as doctor or nurse) routinely ask at the start of your appointments? For instance, do they review your list of medications?
   - Have you ever completed any paperwork prior or at the beginning of your VA medical appointments?
-    - _If yes:_ Can you tell me more about the paperwork and what information it was capturing?
+    - If yes: Can you tell me more about the paperwork and what information it was capturing?
+- If you need to cancel or reschedule your appointment, how do you normally do that?
+  - What do you like about that process?
+  - What don’t you like about it?
+  - Ideally, how would you like to cancel or reschedule?
 
 ## Prototype - 40 minutes
 
 Alright, I want you to pretend that you have an upcoming appointment with your VA primary care provider via the phone and you receive the following text a few days beforehand.
 
-Which prototypes to show each participant
-
 **Send participant link in chat.**
-| Participant   | SMS | First pre-check-in workflow | Second pre-check-in workflow | Prototype link (4 total different links) |
-| --------------- |------------ | ------------ | ------------ | ------------ | 
-| 1 | Dependent upon confirmation | Form | Task |   |
-| 2 | Dependent upon confirmation | Task | Form |   |
-| 3 | Same time as confirmation | Form | Task |   |
-| 4 | Same time as confirmation | Task | Form |   |
-| 5 | Dependent upon confirmation | Form | Task |   |
-| 6 | Dependent upon confirmation | Task | Form |   |
-| 7 | Same time as confirmation | Form | Task |   |
-| 8 | Same time as confirmation | Task | Form |   |
-| 9 | Dependent upon confirmation | Form | Task |   |
-| 10 | Dependent upon confirmation | Task | Form |   |
-| 11 | Same time as confirmation | Form | Task |   |
-| 12 | Same time as confirmation | Task | Form |   |
+| Participant   | SMS | Pre-check-in workflow | Prototype link (4 total different links) |
+| --------------- |------------ | ------------ | ------------ |
+| 1 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
+| 2 | Dependent upon confirmation | Task (editing contact information and next of kin) |   |
+| 3 | Same time as confirmation | Form (read only contact info and next of kin) |   |
+| 4 | Same time as confirmation | Task (editing contact information and next of kin) |  |
+| 5 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
+| 6 | Dependent upon confirmation | Task (editing contact information and next of kin) |   |
+| 7 | Same time as confirmation | Form (read only contact info and next of kin) |  |
+| 8 | Same time as confirmation | Task (editing contact information and next of kin) |  |
+| 9 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
+| 10 | Dependent upon confirmation | Task (editing contact information and next of kin) |  |
+| 11 | Same time as confirmation | Form (read only contact info and next of kin) |   |
+| 12 | Same time as confirmation | Task (editing contact information and next of kin) |   |
 
 ### SMS and first pass through the first pre-check-in workflow
-At this point, I would like you to share your screen, so we can see the text too. _Remind them to think-aloud as they complete the task._
+At this point, I would like you to share your screen, so we can see the text too. Try to complete the task that the SMS is asking you about. I will just observe you as you try to complete it. I'll ask you questions later. Talk-aloud as you complete the task. Share your thoughts.
 
-**Text**
-- What are your thoughts about what the text is asking you to do?
-- Would you add anything to this text messages?
-- What would you do next? (Direct them to confirm if necessary/applicable, then ask again)
-- Go ahead and do that (assuming they would click the pre-check-in link).
-- When they get to the next of kin page, were you expecting to be able to update your next of kin's information here?
+**Only stop them on the next of kin page**
+- Were you expecting to be able to update your next of kin's information here?
 
 Things to watch for
+- Direct them to confirm if necessary/applicable
 - Were they able to successfully complete the task?
 - Were there any usability issues/points of confusion?
 - General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
 
 ### Second pass through the first pre-check-in workflow
 Now, I'm going to have you go back through pre-check-in again. This time I'll ask you some questions at each point in the process.
+
+**Text**
+- What are your thoughts about what the text is asking you to do?
+- Would you add or remove anything from this text messages?
+- What would you do next? (Direct them to confirm if necessary/applicable, then ask again)
 
 **Identity verification page**
 - Can you explain to me what we're looking at?
@@ -96,7 +99,6 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 **Contact information**
 - Can you explain to me what we're looking at?
 - What are your thoughts about what this page is asking you?
-- Updating your information here affects what?
 - Are there any other pieces of contact information that you would like to review on this page?
 - How do you define:
   - Home address?
@@ -104,13 +106,21 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
   - Temporary address?
   - Permanent address?
   - Do you prefer home or permanent for the label?
+
+If edit prototype,
+- Updating your information here affects what?
 - Pretend that you moved, so you need to update your Home address. How would you do that?
   - What are your thoughts on having to fully sign into VA.gov, in order to update your contact information?
+  - On the modal page,
+    - What are your thoughts about what this page is showing you?
+    - Is there anything missing or would you change anything?
   - Things to watch for:
     - Were they able to successfully complete the task?
     - Was there anything confusing about the interaction with the modal on a mobile device?
     - Were there any usability issues/points of confusion?
-- Do you think you’d want to complete these updates on a mobile phone or desktop?
+
+Both prototypes,
+- Do you think you’d want to review this page a mobile phone or desktop?
 - Is there anything missing or would you change anything?
 
 **Telemedicine page**
@@ -118,20 +128,18 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 - What are your thoughts about what this page is asking you?
 - Is there anything missing?
 
-**Modal**
-- What are your thoughts about what this page is showing you?
-- Is there anything missing or would you change anything?
-
 **Next of kin**
 - Can you explain to me what we're looking at?
 - What are your thoughts about what this page is asking you?
-- Updating your next of kin's information here affects what?
-- Would you prefer to update your next of kin’s information, your emergency contact’s information, or both in this workflow?
+- Would you prefer to review your next of kin’s information, your emergency contact’s information, or both in this workflow?
   - How do you define:
     - Next of kin
     - Emergency contact
+
+If edit prototype,
+- Updating your next of kin's information here affects what?
 - Pretend that your next of kin changed their phone number, how would you update that information?
-  - What are your thoughts on having to fully sign into VA.gov, in order to update your next of kin?
+  - What are your thoughts on having to fully sign into VA.gov if you previous hadn't, in order to update your next of kin?
   - Things to watch for:
     - Were they able to successfully complete the task?
     - Was there anything confusing about the interaction with the modal on a mobile device?
@@ -143,7 +151,8 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 
 **Reason for your visit**
 - What are your thoughts about what this page is asking you?
-- Do you see value or no value in sharing this information with your primary care provider? 
+- What are your thoughts on having to fully sign into VA.gov if you previous hadn't, in order to answer health questions?
+- Do you see value or no value in sharing this information with your primary care provider?
 
 **Other concerns or life changes**
 - What are your thoughts about what this page is asking you?
@@ -163,17 +172,6 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
     - If yes, where? Profile or with your other health questionnaires?
 - Is there any other information we should include here?
 - What do you do now that you completed pre-check-in? Would you want to navigate anywhere else? What would be the next thing that you do related to your appointment?
-
-### Second pre-check-in workflow
-Now, I’m going to show you another possible design for these pre-check-in tasks. Please complete the pre-check-in tasks and talk aloud as you do. _Share your thoughts._
-
-Things to watch for:
-- Were they able to successfully complete the task?
-- Were there any usability issues/points of confusion?
-- General feedback on each item being reviewed. Were they interested in any item more than the other (or vice-a-versa)?
-
-- Do you prefer the first design you saw or this second design?
-  - Why?
 
 ## Post-Task Interview - 9 minutes
 - Now that you've seen an example of what this pre-check-in experience could look like, what are your overall impressions?
