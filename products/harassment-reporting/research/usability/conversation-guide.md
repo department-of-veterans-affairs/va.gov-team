@@ -107,7 +107,7 @@ Let’s start with a question...
 
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _______________)*
 
-- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. If you wanted to talk with someone at the VA about it, where would you start?"
+- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. If you wanted to talk with someone at the VA about it, where would you start?
 
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
