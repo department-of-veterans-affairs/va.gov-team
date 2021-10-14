@@ -170,7 +170,6 @@ Please list the people who will be serving in each role. **Include the primary p
   - erik@adhocteam.us
   - lihan@adhocteam.us
   - taylor.mitchell@gcio.com
-  - shawna@adhocteam.us
   - maria.becker@thoughtworks.com
   - paras@docme360.com
   - beverly.nelson@va.gov
