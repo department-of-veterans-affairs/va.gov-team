@@ -22,29 +22,55 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
   - add "I am Homeless" flag
 
 * **Link to designs**
-  - lorem ipsum
+  - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - Product in staging: https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/
+  - User 237: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv
 
 ## Use Case B
 
-* **Description**
-  - lorem ipsum
+* **Update Rep name format**
+  - Explicitly take in Rep phone# and email
+  - Change time window selection
 
 * **Link to designs**
-  - lorem ipsum
+  - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - same as above
 
 ## Use Case C
 
-* **Description**
-  - lorem ipsum
+* **Date Field**
+  - Add SOC/SSOC Date field per Issue (only if opting in to AMA)
 
 * **Link to designs**
-  - lorem ipsum
+  - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - lorem ipsum
+  - same as above
+
+## Use Case D
+
+* **Add Contact Information**
+  - Start sending in Veteran Contact Info
+
+* **Link to designs**
+  - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
+
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - same as above
+
+## Use Case E
+
+* **Write-In Issuesd**
+  - Support write-in Issues - similar to NOD
+
+* **Link to designs**
+  - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
+
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - same as above
+
+
