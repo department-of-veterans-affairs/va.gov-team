@@ -102,7 +102,7 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
-Let’s start with a question...
+Let’s start with some questions...
 - Where do you typically go to get information about the VA?
 
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _______________)*
