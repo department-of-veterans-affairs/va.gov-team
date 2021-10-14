@@ -126,8 +126,11 @@ When will the thing you are testing be finalized?
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: mark.huber@adhocteam.us
+* Date and time of pilot session: 
+  * Please schedule 45 minutes to allow for extra time
+  * 10/22 12pm EST, or
+  * 10/25 2pm EST
 
 ### Research sessions
 
@@ -167,6 +170,7 @@ Please list the people who will be serving in each role. **Include the primary p
   - erik@adhocteam.us
   - lihan@adhocteam.us
   - taylor.mitchell@gcio.com
+  - shawna@adhocteam.us
   - maria.becker@thoughtworks.com
   - paras@docme360.com
   - beverly.nelson@va.gov
