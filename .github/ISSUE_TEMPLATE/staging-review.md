@@ -122,7 +122,7 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 - Fill out the form and add the VFS meeting attendees email addresses. 
 - Click Schedule Event
 <!-- 
-Please note: You are responsible for adding the VFS atteendees. Platform will add the Platform reviews. You will receive an email and the meeting will be automatically added to your calendar
+Please note: You are responsible for adding the VFS atteendees. Platform will add the Platform reviewers. You will receive an email and the meeting will be automatically added to your calendar
 -->
 
 
