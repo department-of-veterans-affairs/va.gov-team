@@ -1,4 +1,4 @@
-# Outreach and events calendar page
+# Outreach and events calendar hub
 **VSA Public Websites team | October 2021**
 
 `Cassandra Allen & James Adams, designers`
