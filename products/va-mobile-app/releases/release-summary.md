@@ -1,5 +1,27 @@
 # VA Mobile team - Release Highlights
 
+## Release: 10/26
+
+DRAFT......
+New + Improved
+- Accessibility Improvements
+    - change hierarchy oftext on the cancel appt page
+    - 1408 - Refine active states on buttons
+1421 - "How to update Direct Deposit" information for MHV/ DS logon credentialed users
+1654 - Analytics - Change events for log in
+1359 - Save draft confirmation (action sheet) on Secure Messaging
+1360 - Delete home address confirmation (action sheet)
+1419 - Common component: Accordion alert
+1417 - Address confirmation message
+1690 - BUG - sev-4 - All - Missing period at end of Cancel COVID-19 appointment card description text
+1403 - Replace CTA to Claims in Disability Rating with explainer text
+1482 - Add Version Number and Build Number to app UI
+1143 - Display upcoming/past COVID-19 appointments*
+1071 - Appointments: improve accessibility of cancellation label*   
+
+Bug Fixes
+- Fixed missing punctuation on the canel COVID-19 appt screen
+
 ## Release: 10/12
 
 New + Improved
