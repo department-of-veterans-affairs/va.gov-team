@@ -3,7 +3,7 @@ name: Analytics Product KPI Dashboard - Request Template
 about: To request a KPI dashboard on Domo for your product
 title: Analytics KPI dashboard request for [Team]
 labels: analytics-insights, analytics-request, kpi-dashboard
-assignees: joanneesteban
+assignees: chloedotbrown
 
 ---
 
