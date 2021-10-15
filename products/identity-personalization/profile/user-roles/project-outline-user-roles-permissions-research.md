@@ -100,6 +100,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Current Status
 
+- October 2021: Discovery Phase 1 underway ([findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/user-roles/discovery/non-veteran-user-roles-discovery-phase-1.md))
+
 ### Key Decisions
 
 ---
@@ -131,7 +133,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  - DEPO Lead: 
  - PM: 
  - Engineering:
- - Research/Design: 
+ - Research/Design: Liz Lantz
  
 </details>
 
