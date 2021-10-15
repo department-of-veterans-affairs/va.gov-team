@@ -225,7 +225,7 @@ What would you expect to happen now?
     - Did the person touch your body without your consent? (Yes or no)
     - How did the harassment happen? Checkboxes for in person, by telehealth, over the phone, by Veteran's Crisis Line call, in a letter, in a secure message, through email, text, or social media
 
-  - How would you prefer to describe what happened? 
+  - How would you prefer to describe what happened and why? 
     - Short-answer questions and then type a description (as you just experienced)
     - No short-answer questions. Just type a description
     - Other:
