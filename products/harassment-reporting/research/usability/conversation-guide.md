@@ -136,7 +136,7 @@ Now, what if you had heard that you can report harassment from the VA.gov websit
 
 Before you tap anywhere on the web page displayed on your phone, where might you look for how to report harassment at the VA?
 
-- *Record where: header / top 4 boxes / links below pictures / footer link TBD* 
+- *RECORD where: header / top 4 boxes / links below pictures / footer link TBD* 
 
 What would you expect to find there?
 
@@ -146,9 +146,11 @@ Now you can tap to go there.
 
 What are your impressions of this page?
 
+- *RECORD if read "What harassment is and when to report it" section, any feedback, getting lost in it?*
+
 What would you do here? *(link TBD to reporting form)*
 
-*(If go to "What if I'm not comfortable giving my name" link, note any feedback on phrasing)*
+- *(If go to "What if I'm not comfortable giving my name" link, note any feedback on phrasing)*
 
 ### Task 3: [Explore intro page and start your report] - 5 minutes
 
