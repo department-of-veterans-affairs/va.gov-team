@@ -105,7 +105,7 @@ Remote sessions conducted over Zoom.
 
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype](To be added by Oct. 22)
 	
 ## Recruitment	
 
