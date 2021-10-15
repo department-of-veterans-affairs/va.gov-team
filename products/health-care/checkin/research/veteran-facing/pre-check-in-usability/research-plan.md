@@ -189,8 +189,8 @@ Each session will be conducted over 5 days, between October 26th, 2021 and Novem
 Each session will be 1 hour long, 30 minute buffer in between sessions. 
 
 ### Availability
-- Tuesday October 26th, 2021, 11 am EST and 7 pm EST
-- Wednesday October 27th, 2021, 11 am EST and 7 pm EST
+- Tuesday October 26th, 2021, 11:30 am EST and 7 pm EST
+- Wednesday October 27th, 2021, 11:30 am EST and 7 pm EST
 - Thursday October 28th, 2021, 8am EST and 7pm EST
 - Friday October 29th, 2021, 8am EST and 7pm EST
 - Monday, November 1st, 2021, 8am EST and 7pm EST
