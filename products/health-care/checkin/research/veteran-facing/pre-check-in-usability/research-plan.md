@@ -29,7 +29,7 @@ This research will build off of questionnaire discovery research. During discove
 - Veterans believe that filling out digital forms before their appointment would decrease wait times and optimize time with care providers.
 - A prioritization study was also completed and Veterans did specify that they would like to complete the above items prior to their appointment.Card sort details
 
-[Link to product brief] https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
 
 ### OCTO Objectives 
 
@@ -105,7 +105,7 @@ Remote sessions conducted over Zoom.
 ### Research materials
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/conversation-guide.md)
 - [Link to prototype](url goes here)
 	
 ## Recruitment	
@@ -212,7 +212,7 @@ Monday, November 1st, 2021
 - Research guide writing and task development: Kristen McConnell and Nira Datta 
 - Participant recruiting & screening: Perigean
 - Project point of contact: Corey Parker (jparker@governmentcio.com)
-- Participant(s) for pilot test: Julie Adair
+- Participant(s) for pilot test: Julie Adair (julie.adair@agile6.com)
 - Note-takers: Perigean
 - Observers:
 - Corey Parker (jparker@governmentcio.com)
