@@ -7,6 +7,7 @@
 | -------- | -------------- | --------------------- | ------------------ | ------------------------- |
 | Retrieve appointments by patient | [`GET /v1/sdes/appts-by-patient/{stationNo}/{patientDFN}/T/T+1`](https://github.com/department-of-veterans-affairs/chip#multiple-appointments) | `stationNo`, `patientDFN` | [`GET /Appointment?:parameters`](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#search) | `patient`, `location`, `practitioner` |
 | Set appointment status | [`PUT /checkin-status-get-all/{stationNo}/{sdesApptIen}`](https://github.com/department-of-veterans-affairs/chip#multiple-appointments) | `stationNo`, `sdesApptIen` | [`PATCH /Appointment/:id`](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#example---update-status-to-booked) | `id` |
+| Retrieve patient demographics | [`GET /v1/sdes/demographics/${stationNo}/${patientDFN}`](https://github.com/department-of-veterans-affairs/chip/blob/3aa487837da7fa37b2620005f1371ed3f0f2acbe/layers/utilities/nodejs/vistaService.js#L65) | `stationNo`, `patientDFN` | [`GET /Patient/:id`](https://fhir.cerner.com/millennium/r4/base/individuals/patient/#retrieve-by-id) | `id` |
 
 
 ## Potential Integration Routes
