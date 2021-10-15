@@ -62,3 +62,4 @@
 | 60 | [Your intent to file a VA claim](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) | Disability | 9/17/21 |
 | 61 | [How your reason for withdrawing from a class affects your VA debt](https://www.va.gov/resources/how-your-reason-for-withdrawing-from-a-class-affects-your-va-debt/) | Education | 9/17/21 |
 | 62 | [How we determine your percentage of Post-9/11 GI Bill benefits](https://www.va.gov/resources/how-we-determine-your-percentage-of-post-911-gi-bill-beneits/) | Education | 9/23/21 |
+| 63 | [Can I get free health care and prescriptions as a Veteran?](https://www.va.gov/resources/can-i-get-free-health-care-and-prescriptions-as-a-veteran/) | Health care | 10/15/21 |
