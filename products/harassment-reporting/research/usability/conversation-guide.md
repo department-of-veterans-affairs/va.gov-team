@@ -168,19 +168,20 @@ What would you do here? *(if they're confused, say "Pretend that you just logged
 
 What would you do here? 
 
-*(personal info: tap Continue)*
+*(Step 1 personal info: tap Continue)*
 
-*(happen to you? tap "Me" then Continue)*
+*(Step 2 happen to you? tap "Me" then Continue)*
+
+*(Who committed the harassment? enter a description then Continue)*
+- What are your thoughts on providing this information?
+- Do you have any concerns? 
+- *RECORD any concerns--e.g., whether whether VA will tell them that there's been a report filing against them, VA will share your name with them*
+
+*(anyone else see or hear? tap "Yes" then Continue)* There was someone sitting nearby when the harassment happened to you.
 
 *(enter a description then Continue)*
 
-There was someone sitting nearby when the harassment happened to you.
-
-*(anyone else see or hear? tap "Yes" then Continue)*
-
-*(enter a description then Continue)*
-
-*(include sexual comments, images, or gestures? tap "Yes" then Continue)*
+*(Step 3 include sexual comments, images, or gestures? tap "Yes" then Continue)*
 
 *(touch your body? tap "No" then Continue)*
 
@@ -192,13 +193,15 @@ There was someone sitting nearby when the harassment happened to you.
 
 *(type what happened then Continue)*
 
-*(upload supporting materials)* What are your impressions of this page? What might you do here?
+*(upload supporting materials)* 
+- What are your impressions of this page? What might you do here?
 
 *(tap Upload a file OR Continue)*
 
 *(Ever looked at the "Need help with your report?" part of the screen? If so, why?)*
 
 ### Task 6: [Check your address] - 5 minutes
+*(Step 4 Review and submit)*
 Say that you want to check that your address is correct. How would you do that?
 
 *(tap "+" next to "Your information")*
@@ -211,10 +214,20 @@ What would you do now?
 
 What would you expect to happen now?
 
-What thoughts do you have about what you just did?
-
-
 ## Post-Task Interview - 10 minutes
+- What thoughts do you have about what you just did?
+
+- How did you feel about answering short-answer yes/no and checkbox questions and then typing a description of what happened?
+  - *(If they need more description, mention these questions specifically:)* 
+    - Did the incident include sexual comments, images, or gestures? (Yes or no)
+    - Did the person touch your body without your consent? (Yes or no)
+    - How did the harassment happen? Checkboxes for in person, by telehealth, over the phone, by Veteran's Crisis Line call, in a letter, in a secure message, through email, text, or social media
+
+  - How would you prefer to describe what happened? 
+    - Short-answer questions and then type a description (as you just experienced)
+    - No short-answer questions. Just type a description
+    - Other:
+
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
 
 - What was *helpful* about what you've seen today?
