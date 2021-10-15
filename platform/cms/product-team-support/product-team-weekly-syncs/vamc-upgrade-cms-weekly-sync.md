@@ -23,6 +23,7 @@
 
 ## October 15
 
+* Duplicate facilities from VAST
 * Broken links - CMS help desk may be able to pitch in
 
 ## October 8
