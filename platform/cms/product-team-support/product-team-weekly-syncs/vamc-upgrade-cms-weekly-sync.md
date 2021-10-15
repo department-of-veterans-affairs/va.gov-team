@@ -24,13 +24,19 @@
 ## October 15
 
 * Duplicate facilities from VAST
-  * VAMC Upgrade: to coordinate with the PAOs for updating the links to the facilities?
-  * Can we migrate the health services nodes from one facility ID to a different facility ID because VAST created two separate IDs
-  * VAST needs to turn off the old facilities associated with ???
-  * VAMC Upgrade: Update the Lighthouse spreadshee to remove the websites from those specific facilities for Northern CA so we don't create broken links on Facility Locator. You may need to reach out to Lighthouse to make sure that won't bork their system and that they will, indeed, clear out.
-  * CMS request fulfillment = Archive sites + services for Locations in Northern California in Drupal
-  * Create Facility Health Services for the new Facility nodes that have been created in Drupal by the migration for the same facilities (with new IDs) in San Franciso. Note: I'm not sure we can move/migrate but maybe we can? Or else assign to San Francisco?
-  * Request Fulfillment CMS: Publish new facilities & services for San Fran.
+  * Stan touched base with PAOs who were confused that there was a secondary
+  * Will VAST create new facilities each time one moves?
+    * Ought to pull down old site instead and set to not active
+    * Some of this may be from LH, not VAST
+  * Short term:
+    * Assign new facilities to San Fran (VAMC Upgrade)
+    * Services need to be transitioned over to new facility (PAO/VAMC Upgrade)
+      * Assigned to right facility, assigned to the right system health service, put in the right section (VAMC Upgrade)
+      * Urls need to be updated (CMS Team to do in bulk)
+    * Old one should still be published until a redirect can be put in place, with a note that that page is located at another VAMC
+  * Long term:
+    * Identify VAST workflow and what changes need to be made
+    * What coordination needs to happen between the two PAOs involved?
 * Broken links - CMS help desk may be able to pitch in
 
 ## October 8
