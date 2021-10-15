@@ -38,7 +38,7 @@ The Clinical Health API allows you to develop clinical-facing applications which
 
 #### Challenges
 
-- The API currently only provides `GET` endpoints, with no ability to write demographic updates
+- The API currently only provides `GET` endpoints, with no ability to update appointment statues, write demographic updates, etc.
 - Depending on the source, data may be available in real-time or up to 48 hours after entry
 
 #### Resources
