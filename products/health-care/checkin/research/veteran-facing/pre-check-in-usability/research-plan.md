@@ -110,7 +110,7 @@ For moderated usability tests:
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this research include Veterans and caregivers 
+Our intended audience for this research include Veterans and caregivers. 
 We will use Perigean to recruit participants. 
 
 We will use a lean maximum variation inclusive research strategy. 
