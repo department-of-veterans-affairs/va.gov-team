@@ -22,6 +22,17 @@ As of August 2021, only about 30% of Power of Attorney (PoA) documents uploaded 
 
 We recently added messaging via an expandable section to specify the correct document types, but it hasn't had much of an impact. As a result, the Sign-as-a-Representative feature was reduced from 75% to 50% availability per Caregiver Program office request.
 
+<details>
+ <summary>Legal Representative Files from September 2021</summary>
+
+The VA CARMA team reviewed 208 applications (not including duplicate cases) with legal representative attachments from 9/1/21 – 9/30/21 from the report provided by Acumen. 191 of the 208 applications were received online from VA.gov.
+
+Of the 191 online applications, 72 applications had valid legal representative attachments (38%).
+ 
+Of the 119 invalid legal rep documents, 40 documents were General POA files without healthcare specifiers; 19 documents were incomplete (i.e. one page or missing signature page); 11 documents were marriage certificates; 13 documents were driver’s license/military IDs; 36 were other invalid documents (i.e. pictures, ROI, financial POA, VBA letter, 10-10CG paper copy, IRS forms, etc).
+ 
+Of the 119 invalid legal rep uploads, 91 applications were signed by someone other than the Veteran. Therefore, these applications may potentially be invalid depending if valid supporting documents can be retrieved by the CSP staff.
+</details>
 
 **Related/Associated product(s)**
 - [Caregiver Form (10-10cg)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product/product-outline.md)
