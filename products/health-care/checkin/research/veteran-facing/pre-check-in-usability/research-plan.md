@@ -128,26 +128,20 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
          - At least 6 participants should have an Android smart phone
 
 Please screen participants based on these questions:
-- Does the following statement describe you? 
-
-- I currently use VA health care AND had an in-person medical appointment at a VA facility within the last six months.
+- Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last six months.
 	- Yes (Qualify)
 	- No (Disqualify)
-
 - How many of your medical appointments are with community care providers and not providers at VA facilities?
 	- All (Disqualify)
 	- Most (Qualify)
 	- Some (Qualify)
 	- None (Qualify)
-
 - Do you have a smart phone?
 	- Yes (Qualify)
 	- No (Disqualify)
-
 - What type of smart phone do you have?
 	- iOS (Qualify a minimum of 6)
 	- Android (Qualify a minimum of 6)
-
 - Are you able to use Zoom on your smart phone and willing to share your smart phone screen via Zoom?
 	- Yes (Qualify)
 	- No (Disqualify)
@@ -167,7 +161,6 @@ Due to the use of a UXPin prototype, for this session:
 - At least 1 Biracial participant
 - At least 1 Asian participant
 - At least 6 participants over 55
-
 - At least 6 participants that has identified cognitive impairments and/or functional disabilities.
 	- Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low         tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
@@ -186,7 +179,7 @@ If you are using Perigean to recruit please submit 1 FULL week prior to the star
 All UX Pin prototypes will be finalized by October 22, 2021
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: Julie Adair
+* Pilot participant email: Julie Adair (julie.adair@agile6.com)
 * Date and time of pilot session: October 25, 2021
 
 ### Research sessions
@@ -196,13 +189,11 @@ Each session will be conducted over 5 days, between October 26th, 2021 and Novem
 Each session will be 1 hour long, 30 minute buffer in between sessions. 
 
 ### Availability
-Anytime between 8am EST and 7pm EST on the following days: 
-
-Tuesday October 26th, 2021
-Wednesday October 27th, 2021
-Thursday October 28th, 2021
-Friday October 29th, 2021
-Monday, November 1st, 2021
+- Tuesday October 26th, 2021, 11 am EST and 7 pm EST
+- Wednesday October 27th, 2021, 11 am EST and 7 pm EST
+- Thursday October 28th, 2021, 8am EST and 7pm EST
+- Friday October 29th, 2021, 8am EST and 7pm EST
+- Monday, November 1st, 2021, 8am EST and 7pm EST
 
 	
 ## Team Roles	
