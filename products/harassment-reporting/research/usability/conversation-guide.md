@@ -18,7 +18,7 @@
 - *Do Not Disturb ON so no notifications*
 
 - *Make sure everyone is muted except me and the participant*
-- *ADMIT any observers from the waiting room*
+- *ADMIT any observers from the waiting room--ONLY IF THEY'VE SIGNED UP*
 
 *When the participant is ready, turn on your camera and begin session with the intro*
 
