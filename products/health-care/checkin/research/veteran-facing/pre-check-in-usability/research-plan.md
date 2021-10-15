@@ -24,10 +24,10 @@ Staff facing
 - MSAs can spend more time on other critical tasks
 - Increased accuracy in veteran profile information 
 
-This research will build off of questionnaire discovery research. During discovery, we found that:
+This research will build off of [questionnaire discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-findings.md). During discovery, we found that:
 - Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.
 - Veterans believe that filling out digital forms before their appointment would decrease wait times and optimize time with care providers.
-- A prioritization study was also completed and Veterans did specify that they would like to complete the above items prior to their appointment.Card sort details
+- A [prioritization study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/research-findings.md) was also completed and Veterans did specify that they would like to complete the above items prior to their appointment. [Card sort details](https://app.optimalworkshop.com/optimalsort/adhoc/j2b7m7j5/shared-results/x21jzunipdyzwymg6ge3538j7s1k7qs6#/t/results/analysisTools/resultsMatrix)
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
 
@@ -36,10 +36,10 @@ This research will build off of questionnaire discovery research. During discove
 - Veterans can manage their health services online
 - Logged-in users can update their personal information easily and instantly
 - Measures to increase:
-- Usage of digital, self-service tools
-- Completion rate of online transactions
+	- Usage of digital, self-service tools
+	- Completion rate of online transactions
 - Measures to decrease:
-- Time to successfully complete and submit online transactions
+	- Time to successfully complete and submit online transactions
 
 ### Veteran Journey
 The pre-check-in experience is an important part of moments that matter at different stages in a Veteran’s life:  
@@ -58,10 +58,10 @@ We will apply insights from this research to improve and iterate on the pre-chec
 
 1. Identify the type of  pre-check-in information and how to deliver that information in the user flow to better meet Veteran and Caregiver expectations
 - When and how does pre-check-in start?  
-- Does an SMS message align with how Veterans expect pre-check-in to be initiated? If not, what other touchpoints are preferred?  
-- How many days prior to the day of appointment should pre-check-in be initiated? 
-- What are Veterans expectations on the frequency of receiving reminders? E.g. 2 weeks, 1 week, 3 days
-- Should pre-check-in be contingent on a Veteran confirming their appointment? 
+	- Does an SMS message align with how Veterans expect pre-check-in to be initiated? If not, what other touchpoints are preferred?  
+	- How many days prior to the day of appointment should pre-check-in be initiated? 
+	- What are Veterans expectations on the frequency of receiving reminders? E.g. 2 weeks, 1 week, 3 days
+	- Should pre-check-in be contingent on a Veteran confirming their appointment? 
 - Do Veterans have a preferred device (mobile or desktop) to complete these pre-check-in tasks? 
 - How do Veterans respond to the need to complete a health questionnaire during pre-check-in? 
 - Does the need to authenticate in the middle of the pre check-in user flow interfere with a Veteran’s ability to complete the task? 
@@ -76,7 +76,7 @@ We will apply insights from this research to improve and iterate on the pre-chec
 - Does providing a read only version of the contact information page meet Veterans expectations? 
 - Do Veterans have a preference (if at all) for a form list or task list of the pre-check-in activities? 
 - What do Veterans expect to see on the confirmation page? 
-- Do Veterans know what to do after completing pre-check-in? 
+	- Do Veterans know what to do after completing pre-check-in? 
 - Does a Caregiver have unique needs that are not being met by the content and design? 
 
 ### Hypothesis
@@ -97,7 +97,6 @@ We will apply insights from this research to improve and iterate on the pre-chec
 ## Method	
 - Usability testing  on a mobile device using a UXPin prototype on the Veteran’s mobile device. 
 - Usability testing will allow the Veterans to walk through each step of the proposed process, so they can provide feedback to each research question. Additionally, we can test the usability of the design and content decisions made in the pre-check-in user flow. 
-
 
 ### Location
 Remote sessions conducted over Zoom. 
@@ -132,26 +131,26 @@ Please screen participants based on these questions:
 - Does the following statement describe you? 
 
 - I currently use VA health care AND had an in-person medical appointment at a VA facility within the last six months.
-- Yes (Qualify)
-- No (Disqualify)
+	- Yes (Qualify)
+	- No (Disqualify)
 
 - How many of your medical appointments are with community care providers and not providers at VA facilities?
-- All (Disqualify)
-- Most (Qualify)
-- Some (Qualify)
-- None (Qualify)
+	- All (Disqualify)
+	- Most (Qualify)
+	- Some (Qualify)
+	- None (Qualify)
 
 - Do you have a smart phone?
-- Yes (Qualify)
-- No (Disqualify)
+	- Yes (Qualify)
+	- No (Disqualify)
 
 - What type of smart phone do you have?
-- iOS (Qualify a minimum of 6)
-- Android (Qualify a minimum of 6)
+	- iOS (Qualify a minimum of 6)
+	- Android (Qualify a minimum of 6)
 
 - Are you able to use Zoom on your smart phone and willing to share your smart phone screen via Zoom?
-- Yes (Qualify)
-- No (Disqualify)
+	- Yes (Qualify)
+	- No (Disqualify)
 
 - Please confirm participants have Zoom downloaded prior to the session and they know how to screen share. 
 
@@ -170,8 +169,7 @@ Due to the use of a UXPin prototype, for this session:
 - At least 6 participants over 55
 
 - At least 6 participants that has identified cognitive impairments and/or functional disabilities.
-
-    Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low         tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+	- Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity    Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low         tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 - At least 3 people who do not have a college degree (to include enlisted Vets)
 - At least 3 people  who lives in a rural or remote area
@@ -228,8 +226,6 @@ Monday, November 1st, 2021
 - Gaurav Gupta (ggupta@kindsys.us)
 - KanchanaDevi Suriyamoorthy (ksuriyamoorthy@kindsys.us)
 - Sarah Knopp (sarah.knopp@agile6.com)
-
-
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-outline.md)
