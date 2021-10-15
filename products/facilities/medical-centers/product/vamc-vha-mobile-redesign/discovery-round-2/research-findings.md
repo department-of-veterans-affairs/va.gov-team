@@ -13,7 +13,7 @@ The purpose of conducting these feedback sessions was to validate or invalidate 
   - Identify problems with design
   - Discover opportunities to consider for future iterations
 
-[Here is a link to the design prototype used in the sessions.](https://preview.uxpin.com/20fd05cf8e86ce628f0c813166424d0a6ca38bfd#/pages/142038860/simulate/sitemap)
+[Here is a link to the design prototype used in the sessions.](https://preview.uxpin.com/4f0991c7ec9db97d021d5bc6542a5492236522c4#/pages/142964759?mode=cvhidm)
 
 ## Research Questions
 
