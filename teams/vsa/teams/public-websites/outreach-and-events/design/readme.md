@@ -1,7 +1,7 @@
 # Outreach and events calendar page
 **VSA Public Websites team | October 2021**
 
-`James Adams, designer | Slack: @Jim Adams | GH: Sporeboy`
+`Cassandra Allen & James Adams, designers`
 
 ---
 
