@@ -1,5 +1,14 @@
 # Cerner Integration
 
+## API cross-reference
+
+
+| Purpose  | VistA endpoint | VistA Required Params | Millenium Endpoint | Millenium Required Params |
+| -------- | -------------- | --------------------- | ------------------ | ------------------------- |
+| Retrieve appointments by patient | [`GET /v1/sdes/appts-by-patient/{stationNo}/{patientDFN}/T/T+1`](https://github.com/department-of-veterans-affairs/chip#multiple-appointments) | `stationNo`, `patientDFN` | [`GET /Appointment?:parameters`](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#search) | `patient`, `location`, `practitioner` |
+| Set appointment status | [`PUT /checkin-status-get-all/{stationNo}/{sdesApptIen}`](https://github.com/department-of-veterans-affairs/chip#multiple-appointments) | `stationNo`, `sdesApptIen` | [`PATCH /Appointment/:id`](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#example---update-status-to-booked) | `id` |
+
+
 ## Potential Integration Routes
 
 ### Millenium
