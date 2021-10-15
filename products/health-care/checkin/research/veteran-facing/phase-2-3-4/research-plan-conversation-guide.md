@@ -1,4 +1,4 @@
-# Research Plan and Converstion Guide for Check-in, Phase 2 & 3 UAT and Phase 4, October 2021
+# Research Plan and Conversation Guide for Check-in, Phase 2 & 3 UAT and Phase 4, October 2021
 ## Background
 This product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The healthcare experience team in particular is creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. 
 
@@ -10,7 +10,7 @@ This research supports the following objectives:
 - Logged-in users have a personalized experience, with relevant and time-saving features
 - Increase the completion rate of online transactions
 - Increase usage of digital, self-service tools 
-- Decrease time to successful complete and submit online transactions
+- Decrease time to successfully complete and submit online transactions
 
 ### Veteran Journey
 The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
