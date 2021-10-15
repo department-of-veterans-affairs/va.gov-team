@@ -28,6 +28,9 @@
  
 </details>
 
+## Monday, October 18, 2021
+* Duplicate facilities from VAST
+
 ## Monday, October 4, 2021
 * Lovell coordination
   * 4 facilities within Lovell that service Veterans (Captain James, Evanston, McHenry, Kenosha) will be in Lighthouse
