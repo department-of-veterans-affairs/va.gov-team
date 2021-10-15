@@ -24,6 +24,9 @@
 ## October 15
 
 * Duplicate facilities from VAST
+  * Stan Gardner to coordinate with the PAOs for updating the links to the facilities?
+  * Can we migrate the health services nodes from one facility ID to a different facility ID because VAST created two separate IDs
+  * VAST needs to turn off the old facilities associated with ???
 * Broken links - CMS help desk may be able to pitch in
 
 ## October 8
