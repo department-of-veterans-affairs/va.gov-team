@@ -180,7 +180,7 @@ All UX Pin prototypes will be finalized by October 22, 2021
 
 Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Julie Adair (julie.adair@agile6.com)
-* Date and time of pilot session: October 25, 2021
+* Date and time of pilot session: October 25, 2021, 2:00 pm EST
 
 ### Research sessions
 Each session will be conducted over 5 days, between October 26th, 2021 and November 1st, 2021. 
