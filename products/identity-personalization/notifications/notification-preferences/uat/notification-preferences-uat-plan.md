@@ -1,7 +1,5 @@
 # Research Plan for Authenticated Experience, Notification preferences UAT, October 2021
 
-`draft`
-
 ## Background
 
 The VA is ramping up their digital communications efforts, specifically through email and text. As a result, Veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.
