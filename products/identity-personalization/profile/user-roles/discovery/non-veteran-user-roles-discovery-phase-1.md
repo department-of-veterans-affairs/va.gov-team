@@ -4,7 +4,7 @@
 
 Liz Lantz, VSA, Authenticated Experience
 
-**Last updated:** October 14, 2021
+**Last updated:** October 15, 2021
 
 ## Background
 
@@ -78,7 +78,22 @@ We learned the supplemental claim form asks for the person's relationship to the
 
 2.1 Spouses and dependents can have a basic eBenefits account as long as they are registered in the Defense Enrollment Eligibility Reporting System (DEERS) that also has a DS Logon account.
 
-- 
+The DS Logon credential embeds information to tell eBenefits if the user is a dependent, and if so, which Veteran they are linked to.
+
+2.2 The majority of features are read-only for dependents, and there are some features they can't even read such as:
+
+- File a Disability Claim
+- File a Dependents Claim
+- Documents (‘My Documents’ link unavailable from the Dashboard page)
+
+2.3 The functionality available to dependents provides access to two letters in eBenefits:
+
+1. Benefit Summary - Spouse or Dependent Benefits
+2. Disabled Veteran Civilian Service Preference
+
+2.4 There is a VSO/Claim Agent/Private Attorney facing side of eBenefits called Stakeholder Enterprise Portal (SEP).
+
+- Work is underway to determine the best way to move SEP functionality to VA.gov.
 
 ### 3. Learn what roles exist for My HealtheVet (MHV)
 
@@ -115,6 +130,12 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 - Connect with SMEs to start the conversation
 
 #### Findings
+
+5.1 VBA SMEs
+
+5.2 VHA SMEs
+
+5.3 NCA SMEs
 
 
 
