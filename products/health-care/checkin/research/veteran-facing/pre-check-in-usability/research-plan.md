@@ -154,6 +154,8 @@ Due to the use of a UXPin prototype, for this session:
 - we are unable to include people who use magnification tools.
 
 **Secondary criteria (would like to have)**
+Number based upon the [VA Recruitment Checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)
+
 - At least 2 women
 - At least 2 Black participants
 - At least 2 Hispanic participants
