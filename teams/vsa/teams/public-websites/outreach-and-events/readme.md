@@ -3,6 +3,6 @@
 
 ---
 
-[Design folder](/design)
+[Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
 
 ---
