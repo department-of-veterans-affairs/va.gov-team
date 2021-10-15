@@ -124,8 +124,8 @@ List the total number and type (Veterans, caregivers, etc.) of participants for 
 - Participants must use VA health care AND had an in-person medical appointment at a VA facility within the last 12 months (disqualify those that don't)
 - Participants must not exclusively go to community care providers for their appointments; some appointments must be at an actual VA facility.
 - Participants must be willing to join the research session via their mobile phones.
-         - At least 6 participants should have an iOS smart phone
-         - At least 6 participants should have an Android smart phone
+	- At least 6 participants should have an iOS smart phone
+	- At least 6 participants should have an Android smart phone
 
 Please screen participants based on these questions:
 - Does the following statement describe you? I currently use VA health care AND had an in-person medical appointment at a VA facility within the last six months.
