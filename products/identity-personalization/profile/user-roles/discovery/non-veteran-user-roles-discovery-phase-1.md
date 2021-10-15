@@ -80,11 +80,9 @@ We learned the supplemental claim form asks for the person's relationship to the
 
 The DS Logon credential embeds information to tell eBenefits if the user is a dependent, and if so, which Veteran they are linked to.
 
-2.2 The majority of features are read-only for dependents, and there are some features they can't even read such as:
+2.2 Dependents have read-only access to most features in eBenefits, except the ability to file a disability claim, dependent claim, or the documents feature.
 
-- File a Disability Claim
-- File a Dependents Claim
-- Documents (‘My Documents’ link unavailable from the Dashboard page)
+-  eBenefits loads information for dependents **if** it exists in the VA databases connected to eBenefits.
 
 2.3 The functionality available to dependents provides access to two letters in eBenefits:
 
@@ -133,9 +131,15 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 
 5.1 VBA SMEs
 
+- 
+
 5.2 VHA SMEs
 
+- 
+
 5.3 NCA SMEs
+
+- 
 
 
 
