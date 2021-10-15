@@ -41,7 +41,7 @@ To make VA.gov search the indispensible "go-to" resource for veterans, caregiver
  - Structured markup
  - Business Listings for VA medical entities
 - [Github Document Directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)
-
+- [Resources and Support]/[Learning center](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp)
 
 ## Responsibilities (Problem space and user goals):
 
