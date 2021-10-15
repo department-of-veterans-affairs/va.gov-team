@@ -21,6 +21,10 @@
 
 </details>
 
+## October 22
+* Broken links, menu enabling/disabling - CMS help desk may be able to pitch in as Upgrade Team focuses on go-live schedule
+
+
 ## October 15
 
 * Duplicate facilities from VAST
