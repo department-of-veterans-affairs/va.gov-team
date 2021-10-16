@@ -1,22 +1,22 @@
-**--DRAFT--**
+**--Work in Progress--**
 
 # Technical Discovery Research Findings 
 
-**Health Apartment, VFS**
+**Veteran-Facing Services - Digital Health Modernization (VFS-DHM), Health Apartment Team**
 
 Date: 10/14/2021
 
-[Nadya Primak] [nprimak@pluribusdigital.com], [Jared Cooke] [jared@mostudio.com]
+[Nadya Primak](nprimak@pluribusdigital.com)
 
-[Research Report PDF] (link here)
+[Jared Cooke](jared@mostudio.com)
+
+Research Report PDF (coming soon)
 
 <br>
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
-
-[Key findings](insert link to section)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/tech-discovery-summary.md#key-findings)
 
 [Recommendations](insert link to section)
 
@@ -27,204 +27,176 @@ Date: 10/14/2021
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+The Health Apartment Team was created to help modernize, unify, and streamline the Veteran health experience. For additional context and information regarding all the previous work done leading up to this point, check out the [Health Apartment Team Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/onboarding.md#what-success-might-look-like). The Health Apartment Team is working on a concept that will unify all health things from My HealtheVet, eBenefits, and VA.gov into a distinct section of VA.gov branded as "My HealtheVet." As a result, Veterans will be able to manage all of their benefits, including health care, from VA.gov. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+The purpose of this Technical Discovery research is to: 
+* Validate the feasibility of the Health Apartment Concept
+* Deepen our understanding of the tecnhical landscape
+* Identify the technical capabilities required to deliver the Proof of Concept
+* Capture key insights that will support and shape the development of the Proof of Concept
 
-
-Figuring out what we need to know from a technical perspective to validate that it is feasible to build the health apartment MVP. 
-
+<br>
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
 * How familiar are you with the health apartment concept? (Show POC Mural here)
 * Background on [organization/system]
-* Any resources (diagrams, anything that simplifies the process of explaining this to the non technical folks on our team)
+  * Frontend
+  * Backend
+  * APIs
+* Can you provide any resources or diagrams that will help simplify the process of explaining this to the non technical folks on our team?
 * What are the major challenges that you think we may run into when moving MHV functionality into VA.gov?
 * Are there any repos or relevant systems that are important for us to be familiar with?
-* People we need to talk with?
+* Do you have any recommendations on people we should talk with?
 * Considerations regarding technical capabilities needed to deliver the health apartment?
 * Is there anything I should have asked you that I did not ask you?
 
+<br>
+
 # Methodology 
 
-_Brief description of method chosen_
+### October 1st, 2021 - present day
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+We are actively conducting 30 minutes to 1 hour-long remote moderated research discussions via Zoom with numerous different technical stakeholders. Particpants are asked a series of questions and engage in discussion using two different Mural boards:
 
-30 min to 1 hour zoom meetings with individuals who have deep subject matter knowledge of VA.gov and MHV architecture as well as front end/ back end integration. 
+1. Mural One: [POC Technical Discovery Tool](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1632428592685/ffaecacbe4dbed4518a918630fc15c282e8d9403?sender=jared8752)
+2. Mural Two: [POC Discovery Tool](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1632862591639/3675fa0918da565edcbc794b57b2d9c4d97a8fb2?sender=jared8752)
 
-Conducted planning sessions prior to each meeting as well as debrief sessions for synthesis of notes and compiling key takeaways and action items. 
-
+<br>
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+**1. The majority of our work will be done in vets-api and vets-website and most of the business logic and intensive processing is handled by MHV’s APIs.**
 
+**2. We identified the need for a deep understanding of MHV APIs, specifically around integration, scope, endpoints, standards and specifications, and access.**
 
-We will be a consumer vs producer in Drupal - it will act like a database 
+**3. VA.gov frontend teams primarily use React and Redux by leveraging vets-website—the front end repository for VA.gov that contains application code used across the site.**
 
+**4. It is important to engage security early and often.**
 
+**5. Clearly communicate with other teams keeping them informed on what we’re doing, our projected start dates, and when we expect to need analysis and technical support.**
 
-Need more clarification on Cerner piece
-
-Most of our work in vets api and vets website
-
-Need to figure out how to fetch MHV data and integrate with their API
-
-Frontend primarily uses React and Redux
-
-Important to engage security early and often 
-
-Ruby on Rails is an important capability to add to the team.
-
-May need to make multiple API requests to get the required data 
-
-May run into issues getting access to MHV APIs, red tape may cause delays.
-
-Stick to what is already supported on the platform code-wise (Rails, React / Redux)
-
-MHV profile and VA.gov profile may pull from different sources.
-
-More discovery needed for MHV APIs (integration, scope, access, endpoints)
-
-Must proactively communicate our projected start dates and when we will need analysis and tech support from MHV so we can be made a priority (and not make people grumpy)
-
-Most of the business logic and intensive processing is handled by MHV’s APIs.
-
-Concerned with the transition from MHV to VA.gov: “How do we get from the appointments experience in MHV to something that's being exposed through VA.gov?”
-
-
+<br>
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+### 1. The majority of our work will be done in vets-api and vets-website and most of the business logic and intensive processing is handled by MHV’s APIs.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#details-of-findings)_
+Mike Chelen gave us an overview of the frontend and backend architecture of VA.gov:
+> _"VFS teams can only write backend code inside vets-api"_
+> _"All VA.gov backend teams use vets-api"_
+> _"All VA.gov frontend teams use vets-website"_
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+Barry Egbert on MHV architecture philosophy:
+> _"Heavy lifting is done in the service tiers. Business process intensive or processing intensive tasks belong in the service tier."_
+>> _"Thought was that someday we may have a mobile app, or an API client that is not MHV national portal that needs this information. We tried to keep the UI layer very thin that sits on top of APIs that are the real key workers in the system. There are some instances where we have strayed from this."_
 
-Barry Eggbert: 
+### 2. We identified the need for a deep understanding of MHV APIs, specifically around integration, scope, endpoints, standards and specifications, and access.
 
-"Key aspect / thing I want to communicate is as we’re contemplating transition — I just don’t want duplicated effort, duplicated code. If we can leverage MHV’s existing APIs, it will make things faster for the health apartment team."
+Mike Chelen provides important questions to ask MHV:
+> _“If MHV has a prescription page that somebody goes to –is  there a backend component to that? Is that backend component a RESTFUL API that we can integrate with directly or can they make it a RESTFUL API? What are the standards/specs for any of those API’s?“_
+>> _“What does it take to actually get connected to that system? Is it easy, is it difficult –do we need to ask MHV to make changes? Do they have a sandbox version of that API?“_
+>> _“If an MHV service doesn’t have an API, who’s responsible for making that api? Who’s responsible for addressing those issues?"_
 
-Mike Chelen: 
+### 3. VA.gov frontend teams primarily use React and Redux by leveraging vets-website—the front end repository for VA.gov that contains application code used across the site.
 
-“If MHV has a prescription page that somebody goes to –is  there a backend component to that? Is that backend component a RESTFUL API that we can integrate with directly or can they make it a RESTFUL API? What are the standards/specs for any of those API’s? “
+Mike Chelen gave us an overview of VA.gov frontend architecture:
+> _"Code lives in vets-website monorepo, uses React"_
 
-“What does it take to actually get connected to that system? Is it easy, is it difficult – do we need to ask MHV to make changes? Do they have a sandbox version of that API? “
+> _"VA.gov has its own design system which consists of reusable react components"_
 
-“If an MHV service doesn’t have an API, who’s responsible for making that api? Who’s responsible for addressing those issues?”
+### 4. It is important to engage security early and often.
 
+Mike Chelen's recommendations when asked about what challenges he forsees regarding the implementation of the Health Apartment concept:
+> _"Because we’re working with health data + PII we want to get security reviews early and often and keep it in the front of our mind"_
 
+### 5. Clearly communicate with other teams keeping them informed on what we’re doing, our projected start dates, and when we expect to need analysis and technical support.
 
-**Finding 1**
+Barry Egbert's recommendations when asked about what challenges he forsees regarding the implementation of the Health Apartment concept:
+> _"Good to provide us projected start times for analysis and tech support; the sooner we get that info to them, the better, then they can plan for it instead of adding it in late."_
+>> _"For example: If we know we are going to work on pharmacy Q1 of next year, it will be good to get that info to OCC, MHV, and anyone else, so that we can start adding stuff to our plans.”_
 
-Labels: label 1, label 2 
+Mike Chelen's recommendations when asked about what challenges he forsees regarding the implementation of the Health Apartment concept:
+> _"Get it in front of eyes for VFS review earlier rather than later"_
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> _"Understanding the collaboration cycle and VFS approval process will reduce friction"_
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
+<br>
 
 # Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
-Public website team has limited bandwidth - need to go through PM’s
+* Ruby on Rails is an important capability to add to the team.
+* Public website team has limited bandwidth - need to go through PM’s
 
-Possibility we might need React widget(s)
+* **Concerns about duplication.** Does not want duplicated effort or code and suggested we leverage MHV’s existing APIs to make things easier and quicker.
 
-Clearly communicate expected dates with other teams
+* The Developer Portal should be available by the end of 2021 and will affect the process of how we interface with MHV regarding APIs.
 
-Concerns about duplication. Does not want duplicated effort or code and suggested we leverage MHV’s existing APIs to make things easier and quicker.
+* Porting from a portlet to a mobile app or to a new tech stack (health apartment) on top of React should be a fairly light lift migration.
 
-The Developer Portal should be available by the end of 2021 and will affect the process of how we interface with MHV regarding APIs.
+* MHV currently uses a postman project to provide API “documentation” and guidance regarding the operations that we intend to use. (This will change once the Developer Portal is available)
 
-Porting from a portlet to a mobile app or to a new tech stack (health apartment) on top of React should be a fairly light lift migration.
-
-MHV currently uses a postman project to provide API “documentation” and guidance regarding the operations that we intend to use. (This will change once the Developer Portal is available)
-
+<br>
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+_In no particular order_
 
-Follow-up with Barry regarding MHV Github access for Jared and Nadya (Jared)
+* Meet with the Flagship Mobile App team to gather their insights and lessons learned when leveraging MHV existing APIs.
 
-Meet with the Flagship Mobile App team to gather their insights and lessons learned when leveraging MHV existing APIs.
+* Follow-up on the progress / availability of the Developer Portal (Jared)
 
-Follow-up on the progress / availability of the Developer Portal (Jared)
+* Collaborate with the Identity Working Group around Identity UX to stay in the loop.
 
-Collaborate with the Identity Working Group around Identity UX to stay in the loop.
+* Follow-up with Barry regarding the 100 page system design document (Jared) 
 
-Follow-up with Barry regarding the 100 page system design document (Jared) 
+* Get introduced to Patrick Vinograd (massive amount of knowledge on how systems integrate)
 
-Patrick Vinograd (massive amount of knowledge on how systems integrate)
+* Allister Dawson, staff software engineer for mobile team, Ad Hoc
 
-Allister Dawson, staff software engineer for mobile team, Ad Hoc
+* Meet with Identity Team PM (Nick S) to get documentation and links around identity.
 
-Meet with Identity Team PM (Nick S) to get documentation and links around identity.
+* Meet with Damian Ginther to learn about DevOps and determine if we want individual pieces to have their own build and deploy pipeline and what that would look like (should contact PM Jesse House first) 
 
-Meet with Damian Ginther to learn about DevOps and determine if we want individual pieces to have their own build and deploy pipeline and what that would look like (should contact PM Jesse House first) 
+* Communicate with Drink and Jeff about rails skillset, and systems integration
 
-Communicate with Drink and Jeff about rails skillset, and systems integration
+* Determine if we need to meet with FE and BE teams in addition to the platform orientations.
 
-Determine if we need to meet with FE and BE teams in addition to the platform orientations.
-
-Figure out if MHV APIs are integrated 
-
-Add key questions to discovery mural(s)
-
-Create discovery folder structure in Box and upload all materials
-
-
+<br>
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-Should all the people we still want to meet with get added to this section? Or maybe delete this section
+* Conduct extensive research into MHV APIs
+* CERNER
 
 
 
 # Appendix
+[Health Apartment Team Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/onboarding.md#what-success-might-look-like)
 
-[Note-taking template](link here)
+[POC Technical Discovery Tool](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1632428592685/ffaecacbe4dbed4518a918630fc15c282e8d9403?sender=jared8752)
 
-[Zenhub Tech Discovery Board](link here)
+[POC Discovery Tool](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1632862591639/3675fa0918da565edcbc794b57b2d9c4d97a8fb2?sender=jared8752)
+
+[vets-website](https://github.com/department-of-veterans-affairs/vets-website)
+
+[Frontend Tools Technical Onboarding](https://vfs.atlassian.net/wiki/spaces/FTT/pages/1872691219/Frontend+Tools+Technical+Onboarding)
 
 
 
 ## Tools used for Synthesis
 
-Mural Board: 
-https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1632428592685/ffaecacbe4dbed4518a918630fc15c282e8d9403?sender=cc0958d7-589b-4e75-8e6c-a0c34e0f0198
-
-
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+* Discussion guide
+* Debrief document
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
-
 
 Barry Eggbert, MHV Application Architect
 
