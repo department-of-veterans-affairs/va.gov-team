@@ -18,11 +18,11 @@ Research Report PDF (coming soon)
 
 [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/tech-discovery-summary.md#key-findings)
 
-[Recommendations](insert link to section)
+[Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/tech-discovery-summary.md#research-questions)
 
-[Who we talked to](insert link to section)
+[Details of Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/tech-discovery-summary.md#details-of-findings)
 
-[Further research needed](insert link to section)
+[Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/tech-discovery-summary.md#next-steps)
 
 <br>
 
