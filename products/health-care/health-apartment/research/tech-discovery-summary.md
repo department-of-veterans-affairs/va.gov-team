@@ -126,8 +126,6 @@ Mike Chelen's recommendations when asked about what challenges he forsees regard
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 * Ruby on Rails is an important capability to add to the team.
 * Public website team has limited bandwidth - need to go through PM’s
 
@@ -172,7 +170,7 @@ _In no particular order_
 * Conduct extensive research into MHV APIs
 * CERNER
 
-
+<br>
 
 # Appendix
 [Health Apartment Team Onboarding Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/onboarding.md#what-success-might-look-like)
@@ -185,25 +183,19 @@ _In no particular order_
 
 [Frontend Tools Technical Onboarding](https://vfs.atlassian.net/wiki/spaces/FTT/pages/1872691219/Frontend+Tools+Technical+Onboarding)
 
-
-
-## Tools used for Synthesis
-
-
 ## Other supporting documents created
 
 * Discussion guide
 * Debrief document
 
+## Who we talked to (so far)
 
-## Who we talked to 
+* Barry Eggbert, MHV Application Architect
 
-Barry Eggbert, MHV Application Architect
+* Mike Chelen, VA.gov Architect
 
-Mike Chelen, VA.gov Architect
+* David Conlon, Public Websites Crew Chief
 
-David Conlon, Public Websites Crew Chief
-
-Cory Trimm, VA.gov Engineering Practice Lead
+* Cory Trimm, VA.gov Engineering Practice Lead
 
 
