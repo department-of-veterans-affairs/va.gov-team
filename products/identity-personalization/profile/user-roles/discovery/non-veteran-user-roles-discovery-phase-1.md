@@ -4,7 +4,7 @@
 
 Liz Lantz, VSA, Authenticated Experience
 
-**Last updated:** October 15, 2021
+**Last updated:** October 17, 2021
 
 ## Background
 
@@ -45,13 +45,17 @@ The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNox
   - Spouses
   - Children
   - Parents
+  - Designated family members (NCA)
 - Caregivers
 - People who do work on behalf of Veterans 
   - VSOs
   - Fiduciaries
   - Clinicians and health professionals (it is unlikely they'd need to login to VA.gov)
+  - Executors (NCA)
 
 We learned the supplemental claim form asks for the person's relationship to the Veteran. "Other" is an option; one example of this is where "other" is a non-Veteran sibling of a Veteran who is a dependent of the sibling (Veteran can't claim himself as an individual tax purposes).
+
+It appears that [the definitions and eligibility criteria for surviving spouses, children, and parents on va.gov](https://www.va.gov/disability/dependency-indemnity-compensation/) are clear.
 
 1.3 The [people who worked on the persona documents](https://app.mural.co/t/vsa8243/m/vsa8243/1633525573365/eeb43d10e07a7754128e175176c43bc00b43a883?wid=1-1634084927441) could be SMEs that can help us understand how roles are defined within each administration
 
@@ -120,6 +124,17 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 
 #### Findings
 
+4.1 A high level list of user roles could be:
+
+- Beneficiaries 
+  - anyone who is not a Veteran that is eligible to receive benefits from VA 
+  - Includes children, spouses, and parents
+- Caregivers
+- Veteran advocate
+  - Anyone doing work on behalf of a Veteran
+  - Includes VSOs, Fiduciaries, Claim Agents
+  - Would likely need to be further defined to give appropriate access to the features they need to use on VA.gov
+
 ### 5. Start identifying SMEs at each administration that can help us understand how these roles are defined at the administration level
 
 #### Goals
@@ -131,11 +146,11 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 
 5.1 VBA SMEs
 
-- 
+- Laurie Baker (VBA/VEO/works with Melissa)
 
 5.2 VHA SMEs
 
-- 
+- Kurt Ruark, Deputy Director, VHA/Office of Health Informatics
 
 5.3 NCA SMEs
 
@@ -163,8 +178,12 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 - [Lighthouse VSO appeals research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2019-10-VSOs-Appeals-Higher-Level-Review-Discovery-Research-with-VSOs)
 - [eBenefits Adding or Removing Dependents associated with Disability Compensation Basic Product Evaluation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/declare-dependent/discovery/basic-product-evaluation.md)
 - [eBenefits current UI dependent types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/disability/declare-dependent/discovery/basic-product-evaluation.md)
+- [SEP Design Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/SEP), October 2021
 
 #### NCA
+
+- [Eligibility criteria for DIC benefits for children, parents, and spouses](https://www.va.gov/disability/dependency-indemnity-compensation/)
+- 
 
 #### **Not specific to an administration **
 
