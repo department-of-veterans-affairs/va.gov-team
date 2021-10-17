@@ -40,6 +40,8 @@ None
 - [ ] Redirect Request: Disability & BDD related pages [#12825](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12825)
 - [ ] [Discovery] 404 page content, accessibility and design [#31208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31208) 
 - [ ] GA Event Tracking Request from IA [#31338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31338) 
+- [ ] Footer Changers from IA - Remove the "Veterans portrait project" link from the sub-footer
+[#29605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29605)
 
 ### Future Work Grooming: 
 Status of VA.gov Mobile Header tickets (Unauth) 
