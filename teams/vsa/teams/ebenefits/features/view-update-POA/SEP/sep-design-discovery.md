@@ -203,7 +203,7 @@ While veterans can submit these forms directly to the VA without a representativ
 ## References
 
 - [SEP](https://www.sep.va.gov/sep/web/guest/sep)
-- [VSO Discovery Interview Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-discovery-research-findings.mdd)
+- [VSO Discovery Interview Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/vso-discovery-interviews/vso-discovery-research-findings.md)
 - [VA Form 21-22 (Veteran tool)](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf)
 - [VA Form 21-22a (Veteran tool)](https://www.vba.va.gov/pubs/forms/VBA-21-22a-ARE.pdf)
 - [Proposed Workflow for Search and Appoint Rep (Veteran tool)](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/a/dlG4Y22)
