@@ -30,11 +30,7 @@ Track down any existing research and personas about non-Veterans that can inform
 
 #### Findings
 
-1.1 There are some existing persona documents that include non-Veteran roles, primarily for Caregivers and Survivors (see resources below).  
-
-The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNoxXB3SvtFz8B1Nvz6pG/view?usp=sharing) document identified "Knowledgable Buddy" and "Family Member" as personas, and specifically called out that a Family Member needs "role based access to data and records that may need to be shared."
-
-1.2 The high-level understanding of non-Veteran user roles we discussed in planning is generally correct. These are the roles identified in the documents we found:
+1.1The high-level understanding of non-Veteran user roles we discussed in planning is generally correct. These are the roles identified in the documents we found:
 
 - Dependents  
   - can include children, parents, parent in-law, siblings, etc. 
@@ -57,6 +53,10 @@ We learned the supplemental claim form asks for the person's relationship to the
 
 It appears that [the definitions and eligibility criteria for surviving spouses, children, and parents on va.gov](https://www.va.gov/disability/dependency-indemnity-compensation/) are clear.
 
+1.2  There are some existing persona documents that include non-Veteran roles, primarily for Caregivers and Survivors (see resources below).  
+
+The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNoxXB3SvtFz8B1Nvz6pG/view?usp=sharing) document identified "Knowledgable Buddy" and "Family Member" as personas, and specifically called out that a Family Member needs "role based access to data and records that may need to be shared."
+
 1.3 The [people who worked on the persona documents](https://app.mural.co/t/vsa8243/m/vsa8243/1633525573365/eeb43d10e07a7754128e175176c43bc00b43a883?wid=1-1634084927441) could be SMEs that can help us understand how roles are defined within each administration
 
 1.4 The Digital Health Modernization team [conducted research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/research-findings.md#insight-3-veterans-and-caregivers-dont-go-to-vagov-to-do-health-tasks) that identified the need to make user delegation simple. Their research shows that caregivers currently have challenges completing health tasks on VA.gov, and experience friction trying to complete them on MHV. 
@@ -70,6 +70,8 @@ It appears that [the definitions and eligibility criteria for surviving spouses,
   - Doctors won't talk to caregivers via Secure Messaging
 
   - >“If there is a way to create a separate login with the same permissions without making you feel like you’re the parent logging into the kid’s computer. That’s sometimes how I feel.” – Caregiver (P1-C)
+
+1.5 The eBenefits migration team has recently done [discovery work related to Stakeholder Enterprise System (SEP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/SEP), which could be valuable in understanding existing tasks and painpoints for VSOs, private attorneys, and VA accredited agents.
 
 ### 2. Learn what roles exist for eBenefits
 
@@ -154,13 +156,14 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 
 5.3 NCA SMEs
 
-- 
+- Started outreach to find someone
 
 
 
 ## Next Steps
 
-
+- Align on list of user roles with team
+- Conduct discovery with SMEs to understand unique definitions/nuances of each user role within each administration
 
 ## Resources
 
