@@ -8,7 +8,10 @@
 
 * Appointments notifications service map. - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map)
 
+* Clarify requests usability test - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification)
+
 ## 2021 Studies
+
 
 July/August - [Facility selection A/B test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-august-facilities-ab-test/README.md)
 
