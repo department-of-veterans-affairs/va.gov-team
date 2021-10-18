@@ -8,6 +8,16 @@
 ### Users
 This document will consider VA.gov end-user funtionality--specifically relating to Veterans, service members, caregivers and dependents. 
 
+All Outreach & Events pages are public so users so any visitor to VA .gov can view their content. A quick review of Google analytics for all Outreach pages form the last six months (April to Octber 2021) gives some insights:
+
+[Outreach Dashboard in GA](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/nJHHfkWCR3S4ti7gjyDrtw/a50123418w177519031p176188361/_u.date00=20210418&_u.date01=20211017/)
+- A lot of traffic to Outreach pages is from email links
+- Google is a top referral source
+- Most vists are from desktop computers (65%), mobile vists are significant (32%)
+- Visitors who view the Events page do use the stepper and typically go just a few pages deep
+- Visit follow a cycle with traffic peaking Wednesday/Thursday, and dropping-off significanly over the weekend
+- Visits have increased noticibly beginning in July 2021 
+
 ### Current feature flows
 
 ### Current functionality
