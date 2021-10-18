@@ -393,6 +393,8 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 **Frontend**
 - Updates from security/privacy review, if needed
 - Assist with UAT as needed
+- Feature flag for UAT
+- GA implementation
 - Respond to UAT findings
 
 **BE**
@@ -417,8 +419,8 @@ Design discovery
 
 **PM**
 
-- Schedule collab cycle kickoff
-- Schedule collab cycle design intent
+- Schedule collab cycle kickoff (make sure product outline is updated for this)
+- Schedule collab cycle design intent 
 - Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
 
 **Design**
@@ -434,7 +436,7 @@ Design discovery
 **BE**
 
 - Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
-- Start build
+- Start build (API that will pull from CMS and parameters that trigger when we pull)
 
 ### User roles research
 
