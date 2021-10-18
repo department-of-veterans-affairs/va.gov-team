@@ -28,7 +28,7 @@ The Outreach & Events hub contains several pages:
 The Outreach & Events section has several types of pages:
 
 - [Outreach and events](https://www.va.gov/outreach-and-events/) is the sections's "hub" page
-- [Outreach materials](https://www.va.gov/outreach-and-events/outreach-materials/) has cards with videos and downloadable PDFs
+- [Outreach materials](https://www.va.gov/outreach-and-events/outreach-materials/) has cards with videos and downloadable PDFs, videos and other filetypes
 - [Outreach events](https://www.va.gov/outreach-and-events/events/) serves as a calendar of events with push-button filtering for upcoming and past events
 - [Email updates](https://public.govdelivery.com/accounts/USVA/subscriber/new?topic_id=USVA_46) allows users to sign-up for updates
 
