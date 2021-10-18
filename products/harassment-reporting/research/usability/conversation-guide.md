@@ -174,7 +174,7 @@ What would you do here?
 
 *(Step 2 happen to you? tap "Me" then Continue)*
 
-*(Who committed the harassment? enter a description then Continue)*
+*(Who filing this report against? enter something then Continue)*
 - What are your thoughts on providing this information?
 - Do you have any concerns? 
 - *RECORD any concerns--e.g., whether whether VA will tell them that there's been a report filing against them, VA will share your name with them*
