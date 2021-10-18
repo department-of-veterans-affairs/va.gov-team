@@ -160,7 +160,7 @@ What would you do here? *(Sign in to start your report)*
 
 ### Task 4: [Log in] - 2 minutes
 
-*(click thru modal dialog to log in)*
+*(on modal dialog, tap ID.me to log in, then tap through screens to the intro page)*
 
 What would you do here? *(if they're confused, say "Pretend that you just logged in")*
 
@@ -181,7 +181,7 @@ What would you do here?
 
 *(anyone else see or hear? tap "Yes" then Continue)* There was someone sitting nearby when the harassment happened to you.
 
-*(enter a description then Continue)*
+*(enter something then Continue)*
 
 *(Step 3 include sexual comments, images, or gestures? tap "Yes" then Continue)*
 
