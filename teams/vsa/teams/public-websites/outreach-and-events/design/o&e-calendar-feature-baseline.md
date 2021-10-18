@@ -22,7 +22,7 @@ All Outreach & Events pages are public so users so any visitor to VA .gov can vi
 ### Current feature flows
 The Outreach & Events hub contains several pages:
 
-![Outreach & Events current users flow]()
+![Outreach & Events current users flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O%26E_User_Paths_1.png)
 
 ### Current functionality
 The Outreach & Events section has several types of pages:
