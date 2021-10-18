@@ -61,12 +61,14 @@
 
 **PM**
 
-- Collab cycle IA review
-- If design work is completed, create frontend documentation 
+- When design work is completed, create frontend documentation 
+  - [Example of frontend documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend)
 
 **Design**
 
+- Design updates that came out of the design intent meeting
 - Meet with content
+- [Sitewide content/IA review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Information-architecture-(IA)-request.1782120468.html)
 - Finalize designs with updated copy
 
 **FE**
