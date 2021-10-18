@@ -17,10 +17,20 @@ All Outreach & Events pages are public so users so any visitor to VA .gov can vi
 - Visitors who view the Events page do use the stepper and typically go just a few pages deep
 - Visit follow a cycle with traffic peaking Wednesday/Thursday, and dropping-off significanly over the weekend
 - Visits have increased noticibly beginning in July 2021 
+- Users often return to Outreach pages
 
 ### Current feature flows
+The Outreach & Events hub contains several pages:
+
+![Outreach & Events current users flow]()
 
 ### Current functionality
+The Outreach & Events section has several types of pages:
+
+- [Outreach and events](https://www.va.gov/outreach-and-events/) is the sections's "hub" page
+- [Outreach materials](https://www.va.gov/outreach-and-events/outreach-materials/) has cards with videos and downloadable PDFs
+- [Outreach events](https://www.va.gov/outreach-and-events/events/) serves as a calendar of events with push-button filtering for upcoming and past events
+- [Email updates](https://public.govdelivery.com/accounts/USVA/subscriber/new?topic_id=USVA_46) allows users to sign-up for updates
 
 ### User stories
 
@@ -33,6 +43,8 @@ All Outreach & Events pages are public so users so any visitor to VA .gov can vi
 - I want to find events based on my status (Veteran, beneficiary, caregiver, etc.) so that I can find events relevant to my role.
 
 ### Proposed use cases
+
+- User wants to view
 
 ### Proposed feature flows
 
