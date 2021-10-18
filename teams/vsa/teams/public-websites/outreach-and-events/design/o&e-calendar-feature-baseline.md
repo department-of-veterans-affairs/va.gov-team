@@ -47,10 +47,12 @@ The focus of this document is the **Outreach events** page.
 ### Proposed use cases
 
 - User wants to find relevant upcoming events by most recent
-- User wants to find relevant events by date/time range (and type and/or keyword)
-- User wants to find relevant event by type  (and date and/or keyword)
-- User wants to find event by keyword (and type and/or date)
-- User wants to fin event by their status/role (and other criteria)
+- User wants to find relevant events by date/time range
+- User wants to find relevant event by type
+- User wants to find event by keyword
+- User wants to find event by their status/role
+- User wants to find event by multiple criteria
+- User wants to know if an eveny in singular or recurring
 
 ## Recommendations
 
