@@ -33,7 +33,8 @@
 
 -  What military information would be helpful to have on VA.gov that would support veterans' abilities to receive and manage benefits?
 -  What military data would it be helpful to have on VA.gov to support predictive benefit eligibility? 
--  Since it is unclear whether we'd ever support the whole DD214 on VA.gov, are there certain pieces of information from the DD214 it would be especially helpful to reflect on VA.gov that we don't support now (eg. discharge status)?
+-  How do people use/when do people need their DD214 when interacting with the VA?
+-  Are there certain pieces of information from the DD214 it would be especially helpful to reflect on VA.gov that we don't support now (eg. discharge status)?
 
 ### Small improvements we could do now
 
