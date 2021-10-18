@@ -23,7 +23,7 @@
 
 [Outreach & Events Calendar product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md)
 
-[Outreach & Events Calendar discovery doc]()
+[Outreach & Events Calendar discovery doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/o%26e-calendar-feature-baseline.md)
 
 
 #### Existing web pages
