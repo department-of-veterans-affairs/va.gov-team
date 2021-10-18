@@ -123,7 +123,7 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 - Click "Add Guests" and enter the VFS meeting attendees email addresses. 
 - Click Schedule Event
 <!-- 
-Please note: You are responsible for adding the VFS atteendees. Platform will add the Platform reviewers. You will receive an email and the meeting will be automatically added to your calendar
+Please note: You are responsible for adding the VFS attendees. If you have more than 10 VFS attendees, you can forward the invite after it is scheduled. Platform will add the Platform reviewers. You will receive an email and the meeting will be automatically added to your calendar
 -->
 
 
