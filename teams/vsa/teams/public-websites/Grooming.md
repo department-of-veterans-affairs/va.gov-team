@@ -50,8 +50,9 @@ Status of VA.gov Mobile Header tickets (Unauth)
   - Remaining Effort?  Carry over to S59?
   - PM working Analytics request and tracking (ticket - Office Hours to discuss how we track 5% production roll-out plan)
   - PM working mid-point review (async review) as well
-HRT Research Efforts -->  Pilot run Oct 21 with follow on research sessions Oct 25-29.
-Outreach & Events --> Use Cases and Flows (Schedule a review with Dave C.) 
+
+Outreach & Events --> Use Cases and Flows / Questions Check:  (Schedule a review with Dave C.) 
+- [ ] [Discovery] Design Refactoring for Outreach & Events Hub (Filtering and Recurring Events) [#30381](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30381)
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
