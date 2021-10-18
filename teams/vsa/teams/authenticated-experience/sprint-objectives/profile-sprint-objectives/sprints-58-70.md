@@ -49,13 +49,17 @@
 
 ## Sprint 59 (10/20 - 11/2)
 
-### General onboarding & team management
+### General 
 
 **PM**
 
 - Product review of contact information and address validation
 - Product review of direct deposit
 - Review profile backlog
+
+**FE**
+
+- Profile improvements in backlog
 
 ### Personal information updates
 
