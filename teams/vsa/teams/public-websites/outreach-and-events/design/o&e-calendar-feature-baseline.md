@@ -32,7 +32,7 @@ The Outreach & Events section has several types of pages:
 - [Outreach events](https://www.va.gov/outreach-and-events/events/) serves as a calendar of events with push-button filtering for upcoming and past events
 - [Email updates](https://public.govdelivery.com/accounts/USVA/subscriber/new?topic_id=USVA_46) allows users to sign-up for updates
 
-The focus of this document is the **Outreach events** page. 
+The focus of this document is the **Outreach & Events calendar** page. 
 - Page initially shows 10 events sorted by most immediate current event
 - Event listing is paginated
 - Push-button filering will toggle between future and past events
