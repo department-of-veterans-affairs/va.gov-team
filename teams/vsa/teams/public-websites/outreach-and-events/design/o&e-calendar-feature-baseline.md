@@ -60,7 +60,7 @@ The focus of this document is the **Outreach & Events calendar** page.
 ## Recommendations
 
 ### Proposed functionality
-To address the uses cases above, new functionalityl will need to be implemented.
+To address the uses cases above, new functionality will need to be implemented.
 - Filter events by date or date range (Map to start and end dates)
 - Filter events by event type (Map to "country" or "none" in address for on-site or online)
 - Filter events by keyword (Map to teaser description)
