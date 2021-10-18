@@ -30,6 +30,7 @@
 
 ## Monday, October 18, 2021
 * Duplicate facilities from VAST
+* Updating guidelines / KB
 
 ## Monday, October 4, 2021
 * Lovell coordination
