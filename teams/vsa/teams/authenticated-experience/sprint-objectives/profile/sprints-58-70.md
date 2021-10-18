@@ -55,7 +55,6 @@
 
 - Product review of contact information and address validation
 - Product review of direct deposit
-- Review profile backlog
 
 **FE**
 
