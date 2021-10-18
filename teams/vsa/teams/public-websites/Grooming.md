@@ -37,6 +37,7 @@ None
 ### Backlog Tickets:
 
 - [ ] Update "Ask a question online" on the right rail of the benefit hub landing pages. [#31350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31350) 
+- [ ] [508-defect-2, SCREENREADER] HTML should use meaningful landmarks [#31556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31556) 
 - [ ] June Home Page Link Requests from VA [#26276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26276)
 - [ ] Redirect Request: Disability & BDD related pages [#12825](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12825)
 - [ ] [Discovery] 404 page content, accessibility and design [#31208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31208) 
