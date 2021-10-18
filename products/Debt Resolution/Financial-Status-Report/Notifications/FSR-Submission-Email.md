@@ -6,9 +6,9 @@ Dear ((name)),
 
 Thank you for submitting a Financial Status Report (VA Form 5655) to request help with your VA debt. Your request is being reviewed. 
 
-**Please continue making payments until we make a decision on your request to avoid interest or administrative charges.**
+**To avoid interest charges or other fees, please continue making payments until we make a decision on your request.**
 
-To check the status of your debt or request, go to https://va.gov/manage-va-debt/ and sign in. Please allow ((some time)) for your debt’s status to update there.
+To check the status of your debt or request, go to https://va.gov/manage-va-debt/ and sign in. Please allow ((time)) for your debt’s status to update there.
 
 If your financial situation changes or you want to make changes to your request, you can resubmit your request with changes. Go to https://va.gov/manage-va-debt/request-debt-help-form-5655 to submit another request online. 
 
