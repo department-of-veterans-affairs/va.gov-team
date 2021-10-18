@@ -32,7 +32,7 @@
 
 ## Potential future projects & feature requests from other teams
 
-### General profile 
+### General profile requests
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
@@ -41,9 +41,9 @@
 |Virtual hearing opt-in| Caseflow/Lighthouse | September 2020 | Caseflow/Lighthouse needs to do some research to determine how virtual hearing opt-in might work before coming back to VA.gov. Currently, there is no evidence that the profile is the right place for people to indicate they are willing to do a virtual appeals hearing.|
 |Integrate MHV profile data points into VA.gov profile | MHV | 2.10.21 | MHV would like to point all of their users to VA.gov instead of maintaining their own profile. Active converstions with VA.gov and VA Profile are beginning Feb 2021. |
 
-### Personal information
+### Personal information requests
 
-### Contact information
+### Contact information requests
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
@@ -53,8 +53,7 @@
 |Remove extension for non-work phone numbers | VA Profile |September 2020| We had some initial conversations about this with VA Profile, but it still hasn't gone anywhere|
 |ZIP+4 – Updating zip code in the VA.gov profile to elevate the additional 4 digits | N/A | September 2020 | Steve K mentioned that a stakeholder had asked about this, but there's been no formal request. This already supported by VA Profile. |
 
-
-### Military information
+### Military information requests
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
@@ -62,6 +61,6 @@
 |Integrate "Military information" section of the profile through VA Profile backend| VA Profile | September 2020 | Update from 4.30.21 meeting — Military data — VA Profile is still working on this, but nothing ready for us to work with yet. Working on roadmap for this. Erin or Rebecca could provide further information. Integrating service periods will be considered for their next PI planning (starting mid May 2021).|
 |Enhanced statement of service | George Chewning | Summer 2021 | George and Samara agree that we need more research to determine what updates to military information on VA.gov would be the most useful. We are currently trying to determine how to get funding for this work.|
 
-### Direct deposit
+### Direct deposit requests
 
-### Notification preferences
+### Notification preferences requests
