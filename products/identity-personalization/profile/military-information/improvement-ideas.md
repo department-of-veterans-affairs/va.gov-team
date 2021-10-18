@@ -16,7 +16,6 @@
 
 - On the [personal information page](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fpersonal-information~2F/) which is the landing page for the profile, DD214 was searched for **768 times**.
 - On the [military information page](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fmilitary-information~2F/), it was searched for **665 times**.
-- People potentially want to find the DD214 in their profile, which we don't have. We could potentially link to it from the profile, but supporting the DD214 on VA.gov would likely be a much larger effort, if it's even possible at all. Since the DD214 is a DoD document, it is unclear whether we could have a version supported on VA.gov.
 
 ## Requests
 
@@ -27,3 +26,15 @@
   -  What military information would be helpful to have on VA.gov that would support veterans' abilities to receive and manage benefits?
   -  What military data would it be helpful to have on VA.gov to support predictive benefit eligibility? 
 - We also discussed a possible research engagement to talk about what military information veterans need most on VA.gov
+
+## Potential efforts
+
+### Research engagements
+
+-  What military information would be helpful to have on VA.gov that would support veterans' abilities to receive and manage benefits?
+-  What military data would it be helpful to have on VA.gov to support predictive benefit eligibility? 
+-  Since it is ubclear whether we'd ever support the whole DD214 on VA.gov, are there certain pieces of information from the DD214 it would be especially helpful to reflect on VA.gov that we don't support now (eg. discharge status)?
+
+### Small improvements we could do now
+
+- Link to the site where veterans can access their DD214 from the profile.
