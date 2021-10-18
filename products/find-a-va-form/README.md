@@ -53,10 +53,10 @@ As of 12/31/2020:
 ### Lighthouse API Team
 |Name|Role|
 |----|----|
-|Lee DeBoom	|Vets API|
+|Nichole Harris	|Product Manager - Team-Matsumoto|
 |Mark Viterna	|Team-Matsumoto - Benefits Intake/Forms API|
 |Ryan Link	|Customer Success Manager, Lighthouse APIs [Oddball]|
-|Nichole Harris	|Product Manager - Team-Matsumoto|
+|Lee DeBoom	|Vets API|
 
 ### Other Subject Matter Experts
 |Name|Role|
@@ -64,13 +64,13 @@ As of 12/31/2020:
 |Marci McGuire	| Former Product Manager, iterations on Find a Form|
 |Zachary Morel	|Form FE Engineer, iterations on Find a Form|
 |Cassandra Allen| Design|
-|Brian Lloyd	| Former Product Manager|
-|Mickin Sahni	| Former Product Manager|
-|Mark Greenburg	|VA APIs|
-|Kelson Adams	| FE Engineer, MVP|
 |Steve Wirt	| CMS: Drupal|
 |Ryan Thurlwell	| Design Lead, MVP|
+|Mark Greenburg	|VA APIs|
+|Kelson Adams	| FE Engineer, MVP|
 |Charley Stran	| Formerly supported Forms on Lighthouse API team|
+|Brian Lloyd	| Former Product Manager|
+|Mickin Sahni	| Former Product Manager|
 
 __VA forms stakeholder working group includes:__
 - Huber, Diane <Diane.Huber@va.gov>; 
