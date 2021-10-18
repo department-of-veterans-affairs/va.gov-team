@@ -407,12 +407,12 @@ Goal: By the end of this sprint, I would love to be able to define what needs to
 
 Design discovery
 
-- **Ticket**: Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline. For reference, [here is the education section of the website](https://www.va.gov/education/) to give you an idea of what people might need to do.
-- **Ticket**: Look through My VA research to see what edu-related info people have mentioned as important.
-- **Ticket**: Look at analytics for top edu tasks. Here are some helpful reports:
+- **Ticket**: (31604) Talk to edu team about what they know to be important to edu users. We may show very little of it in MVP, but it'll be helpful in determining what's a useful baseline. For reference, [here is the education section of the website](https://www.va.gov/education/) to give you an idea of what people might need to do.
+- **Ticket**:(31607) Look through My VA research to see what edu-related info people have mentioned as important.
+- **Ticket**: (31608) Look at analytics for top edu tasks. Here are some helpful reports:
   - [Top 50 pages in the last year](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20201012&_u.date01=20211011&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)   
   - [Top 50 education pages in the last year](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20201012&_u.date01=20211011&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.filter=~2Feducation&_r.tabId=explorer/)
-- **Ticket**: Determine what triggers the education section. If we can only tee off of the education direct deposit, that means we can only show this section to people who already receive edu benefits, which means we only want to elevate the edu tasks that matter to that group. Talk to edu team about if they are aware of APIs we can tap into besides the one that tells us if someone receives edu payments.
+- **Ticket**: (31609) Determine what triggers the education section. If we can only tee off of the education direct deposit, that means we can only show this section to people who already receive edu benefits, which means we only want to elevate the edu tasks that matter to that group. Talk to edu team about if they are aware of APIs we can tap into besides the one that tells us if someone receives edu payments.
 - **Not a ticket, just a note**: If we determine that the only thing that is useful to show/the only thing we have data for is payment info, we may want to consider creating a payment/financial section before an edu section. That way, we could show all payment info, not just for edu benefits. 
 
 ### Alerts
@@ -421,7 +421,7 @@ Design discovery
 
 - Schedule collab cycle kickoff (make sure product outline is updated for this)
 - Schedule collab cycle design intent 
-- Regroup with VANotify to discuss data/API needs; implementation of on-site alert support in their CMS
+- User ; implementation of on-site alert support in their CMS
 
 **Design**
 
