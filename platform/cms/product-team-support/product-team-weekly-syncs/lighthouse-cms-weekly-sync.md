@@ -34,6 +34,8 @@
   * Ought to pull down old site instead and set to not active
   * Some of this may be from LH, not VAST
 * Updating guidelines / KB
+* VBA sites missing after data update
+* Possibility of unifying VBA and VHA sites
 
 ## Monday, October 4, 2021
 * Lovell coordination
