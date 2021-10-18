@@ -30,6 +30,9 @@
 
 ## Monday, October 18, 2021
 * Duplicate facilities from VAST
+* Will VAST create new facilities each time one moves?
+  * Ought to pull down old site instead and set to not active
+  * Some of this may be from LH, not VAST
 * Updating guidelines / KB
 
 ## Monday, October 4, 2021
