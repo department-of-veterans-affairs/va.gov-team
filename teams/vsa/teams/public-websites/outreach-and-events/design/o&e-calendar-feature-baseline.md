@@ -55,7 +55,7 @@ The focus of this document is the **Outreach & Events calendar** page.
 - User wants to find event by keyword
 - User wants to find event by their status/role
 - User wants to find event by multiple criteria
-- User wants to know if an eveny in singular or recurring
+- User wants to know if an event in singular or recurring
 
 ## Recommendations
 
