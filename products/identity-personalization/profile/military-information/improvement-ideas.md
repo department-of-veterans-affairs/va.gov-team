@@ -4,12 +4,17 @@
 
 ### [Top searched terms overall on VA.gov related to military history between 10.11.2020 and 10.17.21](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50/)
 
-- DD214 (52,833 unique searches)
+**DD214 (52,833 unique searches)**
+
 - On the modernized site, this is [largely searched from the main search bar](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20201011&_u.date01=20211017&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchKeyword:dd214/). Not sure if there is anything we can do to help with this since it's already featured on the homepage in the Records box.
 - This is also a popular search in the find forms tool, where DD214 is not explicility called out.
 - [On all VA.gov properties](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.searchKeyword:dd214/), this seems to also be popular on MHV, so people must need their DD214 for health care business. 
 
-### Top searched terms from the profile related to military history
+### [Top searched terms from the profile related to military history between 10.11.2020 and 10.17.21](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fpersonal-information~2F/)
+
+**DD214 (768 unique searches**
+
+- People potentially want to find the DD214 in their profile, which we don't have. We could potentially link to it from the profile, but supporting the DD214 on VA.gov would likely be a much larger effort, if it's even possible at all. Since the DD214 is a DoD document, it is unclear whether we could have a version supported on VA.gov.
 
 ## Requests
 
