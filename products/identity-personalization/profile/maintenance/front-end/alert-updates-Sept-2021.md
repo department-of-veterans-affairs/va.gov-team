@@ -1,6 +1,6 @@
 # Profile alert improvements
 
-**Last updated:** 10/11/21
+**Last updated:** 10/18/21
 
 **Status:** pending content review in [#30265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30265)
 
@@ -211,7 +211,25 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
   >
   > [button] Cancel
 
+### 10. User has been flagged as incompetent, so they can't access their financial information
 
+- **Impacted sections:** profile wide
+
+- **What's changing**: alert state, copy
+
+- **Placement:** Don't change current placement
+
+- **Alert (pattern, state):** Full width, warning state
+
+- **Include heading:** Yes
+
+- **Copy:** 
+
+  - Please link phone numbers
+
+  >  [heading] We don’t include your financial information in your VA.gov profile
+  >
+  >  [body] If you think financial information should be here, or if you need to make updates, call us at 800-698-2411[link] (TTY: 711[link] ). We're here 24/7.
 
 ## No changes
 
@@ -223,13 +241,6 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 ​		No changes, keep [current state](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631669409313)
 
-### 3. User has been flagged as incompetent, so they can't access their financial information
-
-​		Going to address with [#30460](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30460)
-
 ### 4. User removes contact information
 
 ​		No changes, keep [current state](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/8acd03935adaad54b1fae3483d057fcd3b044985?wid=0-1631670449009)
-
-### 
-
