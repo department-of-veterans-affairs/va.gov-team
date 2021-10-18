@@ -71,21 +71,21 @@ Ask Perigean to recruit **16** Veterans in order to get **8** completed sessions
 
 
 ## Timeline
-#### Desired Timeline: Oct 25-29, 2021 
+#### Desired Timeline: TBD 2021 
 **60-minute** sessions with at least **60-minute breaks** in between 
 
 Team Availability | Time (EST)
 ------------------|--------------
-Oct 25, 2021 | Noon - 3 pm, 5 - 8 pm
-Oct 26, 2021 | Noon - 3 pm, 4 - 8 pm
-Oct 27, 2021 | Noon - 3 pm, 5 - 8 pm
-Oct 28, 2021 | Noon - 3 pm, 4 - 8 pm
-Oct 29, 2021 | Noon - 3 pm, 4 - 8 pm
+TBD 2021 | Noon - 3 pm, 4 - 8 pm
+TBD 2021 | Noon - 3 pm, 4 - 8 pm
+TBD 2021 | Noon - 3 pm, 4 - 8 pm
+TBD 2021 | Noon - 3 pm, 4 - 8 pm
+TBD 2021 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (EST)
 ---------------|----------
-Oct 21, 2021  |  TBD 
-Oct 22, 2021  |  TBD 
+TBD 2021 | TBD 
+TBD 2021 | TBD 
 
 
 ## Team Roles	
@@ -94,7 +94,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill (cindy.merrill@adhocteam.us)
-- Participants for pilot test:	candy.clark@gcio.com
+- Participants for pilot test:	TBD
 - **Notetaker:	Perigean**
 - Observers:	Will be invited directly by the Moderator because we need to limit the number of observers per session. 
  
