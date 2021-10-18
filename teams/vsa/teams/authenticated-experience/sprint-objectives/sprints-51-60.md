@@ -451,11 +451,11 @@ Design discovery
 
 ### Notification Preferences
 **PM**
-- Assist with UAT as needed
+- ...
 
 **Design/Research**
-- Recruit for & conduct UAT
+- ...
 
 **Frontend**
-- Assist with UAT as needed
-- Respond to UAT findings
+- ...
+- ...
