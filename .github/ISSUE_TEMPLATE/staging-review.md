@@ -13,7 +13,7 @@ assignees: Shiragoodman
 
 **VFS Product Manager**
 - [ ] Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
-- [ ] Schedule meeting with VFS team attendees listed in ticket.
+- [ ] Schedule meeting via Calendly with VFS team attendees listed in ticket.
 - [ ]  Add artifacts listed below to the ticket at least 4 days before scheduled meeting.
 - [ ]  Ensure you've provided staging access information for the tool or feature. (Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
 
@@ -117,7 +117,7 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 
 ## Scheduling
 
-- Open the [staging review calendar](https://calendly.com/collaboration-cycle/staging-review)
+- Open the [Calendly staging review calendar](https://calendly.com/collaboration-cycle/staging-review)
 - Select a date and time and click “Confirm”
 - Add your name and email
 - Click "Add Guests" and enter the VFS meeting attendees email addresses. 
