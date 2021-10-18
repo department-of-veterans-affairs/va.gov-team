@@ -33,6 +33,9 @@ The Outreach & Events section has several types of pages:
 - [Email updates](https://public.govdelivery.com/accounts/USVA/subscriber/new?topic_id=USVA_46) allows users to sign-up for updates
 
 The focus of this document is the **Outreach events** page. 
+- Page initially shows 10 events sorted by most immediate current event
+- Event listing is paginated
+- Push-button filering will toggle between future and past events
 
 ### User stories
 
