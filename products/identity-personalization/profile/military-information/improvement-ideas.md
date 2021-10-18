@@ -14,8 +14,8 @@
 
 **DD214**
 
-- On the [personal information page](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fpersonal-information~2F/) which is the landing page for the profile, DD214 was searched for **768 times**.
-- On the [military information page](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fmilitary-information~2F/), it was searched for **665 times**.
+- On the [personal information page](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fpersonal-information~2F/) which is the landing page for the profile, DD214 was searched for **768 times**, which is the #7 search from this page.
+- On the [military information page](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20201011&_u.date01=20211017&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2Fmilitary-information~2F/), it was searched for **665 times**, which is the top search from this page.
 
 ## Requests
 
