@@ -4,7 +4,7 @@
 
 Liz Lantz, VSA, Authenticated Experience
 
-**Last updated:** October 17, 2021
+**Last updated:** October 19, 2021
 
 ## Background
 
@@ -84,7 +84,9 @@ The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNox
 
 2.1 Spouses and dependents can have a basic eBenefits account as long as they are registered in the Defense Enrollment Eligibility Reporting System (DEERS) that also has a DS Logon account.
 
-The DS Logon credential embeds information to tell eBenefits if the user is a dependent, and if so, which Veteran they are linked to.
+- The DS Logon credential embeds information to tell eBenefits if the user is a dependent, and if so, which Veteran they are linked to.
+- Caregiver is not a supported role in eBenefits.
+- eBenefits does not differentiate between different types of dependents such as child, spouse, etc. It only differentiates between Veterans and Dependents.
 
 2.2 Dependents have read-only access to most features in eBenefits, except the ability to file a disability claim, dependent claim, or the documents feature.
 
@@ -118,6 +120,12 @@ The DS Logon credential embeds information to tell eBenefits if the user is a de
 - Caregiver
 - Other (no further explanation required)
 
+3.2 MHV functionality changes depending on the user roles in the following ways:
+
+*meeting with Carnetta on 11/1 to learn more about this*
+
+3.3 Coordinators and help desk staff use the role values in the profile to better understand the person they're trying to help.
+
 ### 4. Scope the list of user roles to a manageable list we would actually build on VA.gov
 
 #### Goals
@@ -146,24 +154,24 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 
 #### Findings
 
-5.1 VBA SMEs
+**10/17 update:** Waiting to hear back from VEO folks about who we might reach out to at each administration
 
-- Laurie Baker (VBA/VEO/works with Melissa)
+SMEs to reach out to:
 
-5.2 VHA SMEs
+- Laurie Baker (VBA/VEO/works with Melissa Rebstock)
 
 - Kurt Ruark, Deputy Director, VHA/Office of Health Informatics
+- John Brown, task lead for Human Factors Engineering personas - may have some clues given all the research he's done.
 
-5.3 NCA SMEs
+- Started outreach to find someone at NCA
 
-- Started outreach to find someone
-
-
+- Erin Siminerio, leads HCD for VEO
 
 ## Next Steps
 
 - Align on list of user roles with team
-- Conduct discovery with SMEs to understand unique definitions/nuances of each user role within each administration
+- Define research questions to answer with SMEs
+- Conduct discovery with SMEs
 
 ## Resources
 
