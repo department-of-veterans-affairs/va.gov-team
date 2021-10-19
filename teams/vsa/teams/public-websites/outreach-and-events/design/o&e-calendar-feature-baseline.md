@@ -72,10 +72,16 @@ To address the uses cases above, new functionality will need to be implemented.
 
 #### A note on calendars/datepickers
 We recommend avaiding a calendar or datepicker feature for several reasons:
-- While a datepicker is more specifically functional, it represents a lot of additioanl functional "overhead" for the user
+- While a datepicker is more specific in choosing a date, it represents a lot of additioanl functional "overhead" for the user
 - Calendars and datepickers are notorious for introducing accessibility features
 - Our hypothesis is user will often be considering general timeframes vs. specific dates when finding events
 - An optionlist that filters on timeframe is easier to implement for an MVP
+
+### Other recommendations
+- Conduct discovery interviews or early usability studies to uncover how users want to find particular events and by what criteria
+- Refine and better organize event lists and content to address accessibility needs
+- Design all new features togeher; implement new functionality iteratively
+- Refine/revise content on all "Outreach" pages to align with tone, voice and language mandates 
 
 ### Proposed feature flows
 
