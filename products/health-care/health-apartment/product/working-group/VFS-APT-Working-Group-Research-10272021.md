@@ -1,4 +1,4 @@
-# WORKSHOP OBJECTIVES:
+# Working Group Objectives:
 
 * Introduce our team and partners 
 * Describe what collaboration with us will look and feel like
@@ -8,7 +8,7 @@
 * Identify areas where we need help
 * Identify what follow up meetings are needed
 
-
+# Agenda:
 **Welcome & Introductions** [1] ………………………………………………   2:00 pm |  Speaker?
 
 First, introduce our core team. Next acknowledge our other partners including, Pluribus, Frog, and other partners and recognize that they bring a wealth of technology and change expertise to the team. We look forward to co-creating with you and utilizing these extended teams as a resource throughout the engagement. Avoid specific name dropping. 
@@ -37,19 +37,17 @@ Acknowledge your appreciation for their investment and emphasize again our commi
 
 **Initial Thoughts & Feedback**  [10] continued …….….……………………… 2:40 pm |  Speaker?
 
+**Closing Remarks**  [11] ………………….……………………...……………… 2:55 pm |  Speaker?
+
+Thank the audience for their attention and encourage them to complete the digital survey.
+
+
 # Survey Questions:
 
 * What questions do you have?
 * Is this a good time slot for this session? 
 * What changes would you like to see to this format? 
 * Since this session will be a regular series, please recommend ways to bring people into the discussion at relevant touch points (alignment, technical challenges, etc.)?
-
-**Closing Remarks**  [11] ………………….……………………...……………… 2:55 pm |  Speaker?
-
-Thank the audience for their attention and encourage them to complete the digital survey.
-
-
-
 
 -------------------------------------------------------------------------------------------------------------------------------
 
