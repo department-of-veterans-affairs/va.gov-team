@@ -115,20 +115,7 @@ If necessary November 1, 2021 | 8:00am - 2:00pm EST
 - Note-takers:Perigeon
 - Observers: George Chewning (george.chewning@va.gov)
 
-## Past iteration reference
+## Resources
+- Design iteration [overreview presentation](https://docs.google.com/presentation/d/1--9sY2qcPrxxmkSvJDUH5uShFyMgxCi3/edit?usp=sharing&ouid=106781647419399937562&rtpof=true&sd=true)
 
-**Iteration 1**: "Are you filling out this application as a Veteran's legal representative?"
-
- ![Screen Shot 2021-10-14 at 1 55 40 PM](https://user-images.githubusercontent.com/80857940/137954535-3da8e738-719b-45f2-97d6-9ec2fd64bb61.png)
-
-**Problem:** Caused some participants to quit application because they thought legal representation was a requirement for the CG program
-
-**Iteration 2**: "Do you have a legal representative document you’d like to share with us?"
-![Screen Shot 2021-10-14 at 2 01 11 PM](https://user-images.githubusercontent.com/80857940/137954890-8ac33fda-2787-4adf-bdf9-c82df6706380.png)
-
-**Problem:** Many unacceptable documents are being uploaded
-
-**Iteration 2.2**: Content updated
-![Screen Shot 2021-10-14 at 2 03 42 PM](https://user-images.githubusercontent.com/80857940/137955028-ed5bfe34-8879-4da9-bc95-7025c66a27cd.png)
-Many unacceptable documents are still being uploaded. Only ~35% are acceptable
 
