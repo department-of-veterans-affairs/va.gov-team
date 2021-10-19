@@ -1,4 +1,4 @@
-# Feature Request Prioritization Product Outline [Draft]
+# Feature Request Prioritization Product Outline 
 
 ## Overview
 
@@ -21,7 +21,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
   - Can view all submitted feature requests and their status in a single place.
   
 ## Desired Business Outcomes 
-- Platform Crew teams prioritize feature requests against other initiatives on their roadmap and backlog
+- Platform Crew teams prioritize feature requests against other initiatives on their roadmap and backlog.
 - The Platform delivers enhancements that increase customer satisfaction.
 
 ## Measuring Success
@@ -30,7 +30,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 - % of feature requests scored using the Value Matrix each month.
 - Increase in customer satisfaction.
-- Volume of feature requests submissions.
+- Volume of feature request submissions.
 - Number of upvotes feature requests receive.
 
 #### Baseline KPI Values
