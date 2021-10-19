@@ -18,7 +18,9 @@ body:
       description: Your Contracting Officer's Representative (COR) name.
       options:
         - Cecila Lee
+        - Courtney Bethea 
         - Crystal Moultrie
+        - Doris Lin
         - Mary O’Toole
         - Other
     validations:
