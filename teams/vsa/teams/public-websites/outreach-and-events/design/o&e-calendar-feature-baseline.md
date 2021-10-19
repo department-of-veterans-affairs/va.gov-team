@@ -79,6 +79,8 @@ We recommend avaiding a calendar or datepicker feature for several reasons:
 
 ### Proposed feature flows
 
+![Outreach & Events Use cases/flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/COE_Usecase_Workflows_1.png)
+
 ### Wireframing
 
 ---
