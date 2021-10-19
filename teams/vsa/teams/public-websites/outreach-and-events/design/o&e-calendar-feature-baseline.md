@@ -62,13 +62,13 @@ A user of the VA.gov Outreach events page wants to:
 
 ### Proposed functionality
 To address the uses cases above, new functionality will need to be implemented.
-- Filter events by date or date range (Map to start and end dates)
+- Filter events by specified timeframe (Map to start and end dates)
 - Filter events by event type (Map to "country" or "none" in address for on-site or online)
 - Filter events by multiple criteria (Impliment multiple filters)
 - Identify serial events as recurring (Map to "Make recurring")
 
 #### Needs investigation
-- Filter events by keyword (Map to teaser description?)
+- Filter events by keyword--refine to "category" (Map to teaser description?)
 - Filter events by their status/role (Unknown criteria)
 
 #### A note on calendars/datepickers
