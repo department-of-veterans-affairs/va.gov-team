@@ -217,15 +217,17 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 
 
 # Troubleshooting
-- Compare versions in CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000
-
-
+- If VA forms manager reports users are emailing to report trouble accessing forms, ask them to forward an example.  
+   - Their support mailbox receives messages from internal and external users, and an example will allow you to confirm that they are referring to the *public* web site form search (va.gov/find-forms) vs. the *internal* VBA forms search on vba.va.gov.  
+   - If it turns out to be an internal site issue, they will need to work with Kevin Reid <Kevin.Reid@va.gov>.
+- Reports of broken PDF links
+   - Compare versions of the form pages in CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000 - broken PDF links can occur when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).  
+   - Form managers have been instructed not to make name changes unless absolutely necessary because it causes the form to lose ranking on search engines and can also break links on other parts of VA.gov.
 - Time lag between VA Form changes & when updated on Find a VA Form:
-   - Find a Form search page PDF link will update immediately.  
-   - Detail page updates only after the merge runs over night, AND after the next day's 9 AM CMS publish
+   - Find a Form search page PDF link will update immediately once a change is made in the VA's forms database because the search page does not use CMS content.  
+   - Detail pages update only after the Forms API merge runs over night, AND after the next day's 9 AM CMS publish.  
    - Also see this Slack thread for more details on timing: https://dsva.slack.com/archives/CUB5X5MGF/p1623794210193400
 ![image](https://user-images.githubusercontent.com/73354907/125852399-af89f562-4ea3-4fe4-80fe-2d524eff2e45.png)
-
 
 ------
 ## Status and decisions:
