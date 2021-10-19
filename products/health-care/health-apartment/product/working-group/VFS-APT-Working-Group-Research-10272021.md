@@ -27,7 +27,7 @@ Highlight roadmap with epics and an overlap with other teams’s roadmap. Identi
 
 Where We’re At [3-5]: Incorporate existing assets, slides from monthly report, etc. | Working team?
 * Highlighting introductions we’ve made
-* Original (not wireframe) envisioned visual bridge between this and next section
+* Original (not wireframe) envisioned visual - can be bridge between this and next section
 
         
 Where We’re Headed [6-8]: Incorporate existing assets, wireframes, roadmap | Working team?
