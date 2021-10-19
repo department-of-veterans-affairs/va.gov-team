@@ -48,14 +48,15 @@ The focus of this document is the **Outreach & Events calendar** page.
 - I want to find events based on my status (Veteran, beneficiary, caregiver, etc.) so that I can find events relevant to my role.
 
 ### Proposed use cases
+A user of the VA.gov Outreach events page wants to:
 
-- User wants to find relevant upcoming events by most recent
-- User wants to find relevant events by date/time range
-- User wants to find relevant event by type
-- User wants to find event by keyword
-- User wants to find event by their status/role
-- User wants to find event by multiple criteria
-- User wants to know if an event in singular or recurring
+- Find relevant upcoming events by most immediate date
+- Find relevant events within a date range or timeframe
+- Find online or on-site events
+- Find events by a specific keyword
+- Find events relevant to their status/role (g.g. Veteran, dependent, active duty, etc.)
+- Find events defined by multiple criteria
+- Know if a given event in singular or recurring
 
 ## Recommendations
 
