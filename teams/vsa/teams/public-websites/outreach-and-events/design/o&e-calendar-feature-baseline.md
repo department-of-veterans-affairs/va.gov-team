@@ -1,4 +1,4 @@
-# Outreach and events calendar baseline
+# Outreach and events calendar baseline/design discovery
 **VSA Public Websites team | October 2021**
 
 `Cassandra Allen & James Adams, designers`
