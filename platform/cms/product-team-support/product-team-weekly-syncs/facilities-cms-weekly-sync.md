@@ -27,7 +27,7 @@
 
 Metatags for Vet Center and VAMC facilities 
 
-When a Vet Cener has no spotlight
+When a Vet Cener has no spotlight (ie [Reno Vet Center](https://www.va.gov/reno-vet-center/))
 
 ## October 13
 
