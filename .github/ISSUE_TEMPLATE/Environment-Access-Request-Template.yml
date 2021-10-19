@@ -20,6 +20,8 @@ body:
         - Cecila Lee
         - Crystal Moultrie
         - Mary O’Toole
+        - Courtney Bethea 
+        - Doris Lin
         - Other
     validations:
       required: true
