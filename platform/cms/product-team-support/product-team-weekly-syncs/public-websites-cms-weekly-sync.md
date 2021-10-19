@@ -41,6 +41,9 @@ CMS Product support roadmap for Q4
 
 CLP - Review of current request fulfillment and editor support 
 
+Refactor of react widgets to make them reusable and simplified 
+* Review [audit](https://airtable.com/appxszQvxnpwBPq4Q/tbl5SHVnZJHJ2PLjm/viwRC7wjHYHyKnT6D?blocks=hide)
+* Next step: FE architecture - what fields does CMS really need to support? 
 
 
 
