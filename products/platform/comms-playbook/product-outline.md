@@ -22,8 +22,9 @@ Platform teams, VFS teams, OCTO-DE
 
 ### Key Performance Indicators (KPIs)
 
-- Increase in awareness of product releases and updates.
-- Decrease in support requests about product releases and updates.
+- Number of times people view communications about Platform changes.
+- % of people who click on links in communications about Platform changes.
+- Decrease in Slack support requests (excluding Collab cycle and PR reviews).
 
 #### Baseline KPI Values
 
@@ -33,23 +34,23 @@ Platform teams, VFS teams, OCTO-DE
 
 ## Assumptions
 
-- Improved product communications will increase adoption of Platform products and decrease support requests.
+- Pivoting from the newsletter will bettter ensure VFS teams have the info they need so they can effectively do their jobs.
 
 ## Solution Approach
 
-MVP:
+MVP Framework:
 
 - Communications Guiding Principles: https://vfs.atlassian.net/l/c/vsnjvTm2 
 
 Phase 1: 
 
-- Pivot from Newsletter 
+- User research to see if SME pair-writing is added value to newsletter communications.
 
 ------
 
 ## Launch Dates
 
-- *Launch Date*: TBD
+- *Launch Date*: Q4
 
 ------
 
