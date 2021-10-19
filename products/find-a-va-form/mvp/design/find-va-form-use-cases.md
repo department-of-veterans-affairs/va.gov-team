@@ -107,7 +107,8 @@ Added 2021-10-19 - Note that searching for a valid form that is associated with 
 #### Search for valid form associated with a downloadable PDF
 
 * **Description:** 
-  - When a user searches for a VA form that is valid, and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that some PDFs do not work correctly in the browser and provides three option:     - Learn more about how to download and open a PDF
+  - When a user searches for a VA form that is valid, and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that some PDFs do not work correctly in the browser and provides three option: 
+    - Learn more about how to download and open a PDF
     - Get Adobe Acrobat Reader DC
     - Download VA Form 10-10EZ
 
@@ -117,7 +118,7 @@ Added 2021-10-19 - Note that searching for a valid form that is associated with 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
 
-* 
+* **Link to TestRail Test Case**
   
 
 
@@ -224,6 +225,23 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 * \[No TestRail test-case]
   - This will be in the Search experience; out-of-scope for Details-Page QA.
 
+### Use Case D-F
+#### Downloading PDF Form
+
+* **Description:** 
+  - When a user accesses the detail page for a VA form and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that some PDFs do not work correctly in the browser and provides three option: 
+    - Learn more about how to download and open a PDF
+    - Get Adobe Acrobat Reader DC
+    - Download VA Form 10-10EZ
+
+* **Link to designs:** 
+  - Prototype (PNG FILE): **NEED TO ADD*
+
+* **Instructions to access in Staging**
+  - https://www.va.gov/find-forms/?q=10-10ez
+  - Unauth; no login credentials needed.
+
+* **Link to TestRail Test Case**
 
 ## Batch 1 - top 40 forms for QA
 1.	https://staging.va.gov/find-forms/about-form-21-4138 (Use Case D-A)
@@ -235,8 +253,8 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 7.	https://staging.va.gov/find-forms/about-form-21-22 (D-B)
 8.	https://staging.va.gov/find-forms/about-form-10-5345 (D-A)
 9.	https://staging.va.gov/find-forms/about-form-20-0995 (D-A)
-10.	https://staging.va.gov/find-forms/about-form-21-686c (D-A): __Online tool not live yet__
-11.	https://staging.va.gov/find-forms/about-form-10-0137 (D-B): __Spanish form is still 404ing. Form owner has been notified. If form is still erroring during QA, we will pull it out and not publish node.__
+10.	https://staging.va.gov/find-forms/about-form-21-686c (D-A): _
+11.	https://staging.va.gov/find-forms/about-form-10-0137 (D-B): 
 12.	https://staging.va.gov/find-forms/about-form-21-0781 (D-B)
 13.	https://staging.va.gov/find-forms/about-form-21-0966 (D-A)
 14.	https://staging.va.gov/find-forms/about-form-21-0845 (D-A)
