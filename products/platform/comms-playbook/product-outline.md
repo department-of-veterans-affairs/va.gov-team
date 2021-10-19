@@ -12,6 +12,18 @@ The Platform does not have a clear customer communications strategy defining how
 
 Platform teams
 
+## Desired User Outcomes 
+- **VFS Teams:** VFS feel that their voices are being heard and that the Platform is deliberately iterating based on their needs. 
+- **Platform Crew Teams and Leadership:** 
+  - Can find all submitted feature requests in a single place.
+  - Receive feature requests with sufficient information to be quickly assessed and prioritized
+- **OCTO-DE:**
+  - Can view all submitted feature requests and their status in a single place.
+  
+## Desired Business Outcomes 
+- Platform Crew teams prioritize feature requests against other initiatives on their roadmap and backlog.
+- The Platform delivers enhancements that increase customer satisfaction.
+ 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
