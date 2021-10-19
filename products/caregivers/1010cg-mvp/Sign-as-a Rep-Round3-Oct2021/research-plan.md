@@ -116,6 +116,6 @@ If necessary November 1, 2021 | 8:00am - 2:00pm EST
 - Observers: George Chewning (george.chewning@va.gov)
 
 ## Resources
-- Design iteration [overreview presentation](https://docs.google.com/presentation/d/1--9sY2qcPrxxmkSvJDUH5uShFyMgxCi3/edit?usp=sharing&ouid=106781647419399937562&rtpof=true&sd=true)
+- Design iteration [overview presentation](https://docs.google.com/presentation/d/1--9sY2qcPrxxmkSvJDUH5uShFyMgxCi3/edit?usp=sharing&ouid=106781647419399937562&rtpof=true&sd=true)
 
 
