@@ -70,6 +70,13 @@ To address the uses cases above, new functionality will need to be implemented.
 - Filter events by keyword (Map to teaser description?)
 - Filter events by their status/role (Unknown criteria)
 
+#### A note on calendars/datepickers
+We recommend avaiding a calendar or datepicker feature for several reasons:
+- While a datepicker is more specifically functional, it represents a lot of additioanl functional "overhead" for the user
+- Calendars and datepickers are notorious for introducing accessibility features
+- Our hypothesis is user will often be considering general timeframes vs. specific dates when finding events
+- An optionlist that filters on timeframe is easier to implement for an MVP
+
 ### Proposed feature flows
 
 ### Wireframing
