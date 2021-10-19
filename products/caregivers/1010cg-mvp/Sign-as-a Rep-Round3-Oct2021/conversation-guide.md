@@ -20,7 +20,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 - To protect your privacy, we are not going to use your real name or Social Security Number today. Feel free to make-up a name, birthday, SSN...I can always provide that information if you want
 - If for any reason and at any time you want to stop the session, please let me know.
 
-**Talk them through Zoom screen sharing and chat features.
+**Talk them through Zoom screen sharing and chat features.**
 
 
 **I'm going to send you a link in the chat.**
@@ -107,7 +107,7 @@ If they need a SSN, use 548-79-5555
 **On review/signature page**
 - Would you mind walking me through this page
   - Pay attention to who they think should sign in each signature box
-- Does anything stand our to you on this page? Anything you like? Find confusing? or just catches your eye?
+- Does anything stand out to you on this page? Anything you like? Find confusing? or just catches your eye?
 
 
 ## Post task questions - 10 minutes
