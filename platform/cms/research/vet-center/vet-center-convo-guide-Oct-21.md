@@ -12,14 +12,20 @@ When the participant is ready, begin the session with the following intro*
 ##Intro - 5 minutes
 Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the dashboard you use to update your Vet Center content. 
 Before we start, a few things I want to mention:
-	- This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. 
-	- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to make it easier for site editors to update their content. I will not be offended by any opinions you express, and I welcome your feedback. 
-	- You'll be interacting with the content management system in a training environment, so the content on your site may appear out of date. Don’t worry about that! None  of your actions today will affect your actual VA website. 
-	- We can stop the session at any time. If you want to stop, just let me know.  
-	- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. 
-		- If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more. 
+- This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. 
+- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to make it easier for site editors to update their content. I will not be offended by any opinions you express, and I welcome your feedback. 
+- You'll be interacting with the content management system in a training environment, so the content on your site may appear out of date. Don’t worry about that! None  of your actions today will affect your actual VA website. 
+- We can stop the session at any time. If you want to stop, just let me know.  
+- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. 
+	- If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more. 
+
+
 Start recording.
-##Warm-up Questions - 5 minutes
+
+
+## Warm-up Questions - 5 minutes
+
+
 Before we look at the website, let’s start with a few warm-up questions.
 	- How long have you worked at the VA? 
 	- What do you enjoy most about your job? 
@@ -92,12 +98,12 @@ Now I’ll ask you to do a task here. As a reminder, this is the training enviro
 	- [If they have a mobile vet center] - How often do you expect to update information about this? 
 	- Can you show us how you would do that? 
 ### Post-Task Interview - 5 minutes
-	- If you could wave a magic wand and change anything about this page, what would you do?  
-	- Do you have any ideas or feedback about the cms/the website we might want to consider? 
-	- Is there anything else you’d like to share before we wrap up?  
-	- Any questions for me? 
-	- Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. 
+- If you could wave a magic wand and change anything about this page, what would you do?  
+- Do you have any ideas or feedback about the cms/the website we might want to consider? 
+- Is there anything else you’d like to share before we wrap up?  
+- Any questions for me? 
+- Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. 
  
 ## Back pocket questions
-	- Why do you think these cards are in this order? If you could reorder the cards, what order would make the most sense to you? 
+- Why do you think these cards are in this order? If you could reorder the cards, what order would make the most sense to you? 
 
