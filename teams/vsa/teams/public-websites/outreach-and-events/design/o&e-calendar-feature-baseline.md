@@ -63,10 +63,12 @@ The focus of this document is the **Outreach & Events calendar** page.
 To address the uses cases above, new functionality will need to be implemented.
 - Filter events by date or date range (Map to start and end dates)
 - Filter events by event type (Map to "country" or "none" in address for on-site or online)
-- Filter events by keyword (Map to teaser description)
-- Filter events by their status/role (Unknown criteria)
 - Filter events by multiple criteria (Impliment multiple filters)
 - Identify serial events as recurring (Map to "Make recurring")
+
+#### Needs investigation
+- Filter events by keyword (Map to teaser description?)
+- Filter events by their status/role (Unknown criteria)
 
 ### Proposed feature flows
 
