@@ -27,6 +27,8 @@
 
 Metatags for Vet Center and VAMC facilities 
 
+When a Vet Cener has no spotlight
+
 ## October 13
 
 ### Vet Center 
