@@ -18,7 +18,7 @@
 
 ## Do during facilitation:
 - [ ] **Mirror the participant's word choice on their disability**. If unsure, **default to people first language** in the United States. Avoid phrases like “physically challenged,” “differently abled,” or “people with impairments.” For example:
-    - “People with disabilities” instead of “disabled people.”
+    - “People with disabilities” instead of “handicapped people.”
     - “People with a physical disability” instead of “physically challenged.”
     - “People with cognitive disabilities” instead of “cognitively impaired.”
 - [ ] **Respect the participant's privacy.** Allow them to discuss their situation if and when they feel comfortable doing so. 
