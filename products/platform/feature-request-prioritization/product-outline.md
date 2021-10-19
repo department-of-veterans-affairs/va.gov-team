@@ -35,7 +35,7 @@ VFS teams, Platform Crew teams, OCTO-DE leads, Platform Leadership.
 
 #### Baseline KPI Values
 
-- TBD
+- Q3 customer satisfaction.
 
 ------
 
