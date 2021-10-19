@@ -41,8 +41,9 @@ CMS Product support roadmap for Q4
 
 CLP - Review of current request fulfillment and editor support 
 
-Refactor of react widgets to make them reusable and simplified 
+[Refactor of react widgets to make them reusable and simplified](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919)
 * Review [audit](https://airtable.com/appxszQvxnpwBPq4Q/tbl5SHVnZJHJ2PLjm/viwRC7wjHYHyKnT6D?blocks=hide)
+* Possible roadmap (github issue #2919)
 * Next step: FE architecture - what fields does CMS really need to support? 
 
 
