@@ -79,7 +79,7 @@ __VA forms stakeholder working group includes:__
 - Reid, Kevin <Kevin.Reid@va.gov>
 - McCarthy, Brian <Brian.McCarthy4@va.gov>; 
 - Smith, Jeremy <Jeremy.Smith@va.gov>; 
-- Tuscher, Joshua (joshua.tuscher@va.gov); 
+- Tuscher, Joshua <joshua.tuscher@va.gov>; 
 - VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
 - Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
 - Smith, Gail T. (VACO) <gail.smith@va.gov>; 
