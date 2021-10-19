@@ -9,11 +9,11 @@
 * Identify what follow up meetings are needed
 
 # Agenda:
-**Welcome & Introductions** [1] ………………………………………………   2:00 pm |  Speaker?
+**Welcome & Introductions** [1] ………………………………………………   2:00 pm |  Jeff Scheire? 
 
 First, introduce our core team. Next acknowledge our other partners including, Pluribus, Frog, and other partners and recognize that they bring a wealth of technology and change expertise to the team. We look forward to co-creating with you and utilizing these extended teams as a resource throughout the engagement. Avoid specific name dropping. 
 
-**What We’ll Cover Today** [2] .…………………………………………………   2:05 pm |  Speaker?
+**What We’ll Cover Today** [2] .…………………………………………………   2:05 pm |  Meg Peters?
 
 Express your excitement, recognize and celebrate our commitment to the project. Next, describe what collaboration with us will look and feel like.  Emphasize our purpose: Collectively, we’re embarking on a journey to drastically improve healthcare for millions of Veterans. Clearly it’s not only the right time for this project but we most certainly have the right people. Thank you for your curiosity, courage and commitment. Finally, review the agenda: what we’re currently working on, where we’re headed, how we think our work builds off and impacts your work, areas where we need help, and finally, what follow up meetings are needed.  
 
@@ -22,22 +22,19 @@ Express your excitement, recognize and celebrate our commitment to the project. 
 Highlight roadmap with epics and an overlap with other teams’s roadmap. Identify dependencies and intersections of work and where we need help. 
 
 
-Where We’re At [3-5]: Incorporate existing assets, slides from monthly report, etc. 
+Where We’re At [3-5]: Incorporate existing assets, slides from monthly report, etc. | Working team?
         
+Where We’re Headed [6-8]: Incorporate existing assets, wireframes, roadmap | Working team?
 
-Where We’re Headed [6-8]: Incorporate existing assets, wireframes, roadmap 
-
-Where We Need Help [9]: Specific slide with call outs or integrate into where we’re headed? 
+Where We Need Help [9]: Specific slide with call outs or integrate into where we’re headed? | Meg, Lauren?
 
 
-**Initial Thoughts & Feedback**  [10] ………………….……………………… 2:40 pm |  Speaker?
+**Initial Thoughts & Feedback**  [10] ………………….……………………… 2:40 pm |  Paula?
 
 Acknowledge your appreciation for their investment and emphasize again our commitment to collaboration and continuing the conversation. Share the link for the digital survey, acknowledge the time remaining, and open the floor to comments and feedback. See survey questions below:
 
 
-**Initial Thoughts & Feedback**  [10] continued …….….……………………… 2:40 pm |  Speaker?
-
-**Closing Remarks**  [11] ………………….……………………...……………… 2:55 pm |  Speaker?
+**Closing Remarks**  [11] ………………….……………………...……………… 2:55 pm |  Meg or Lauren?
 
 Thank the audience for their attention and encourage them to complete the digital survey.
 
@@ -50,6 +47,11 @@ Thank the audience for their attention and encourage them to complete the digita
 * Since this session will be a regular series, please recommend ways to bring people into the discussion at relevant touch points (alignment, technical challenges, etc.)?
 
 -------------------------------------------------------------------------------------------------------------------------------
+# NOTES
+
+# Open Items:
+1. Should we create a slack channel for the working group or add them to our cedar-health-apartment channel?
+2. Should we create the survey in slack or one in another format (if another format, what's accessible for VA employees?)?
 
 NOTES: 10.14 Last Mtg. w/ Paula, Lara, & Lauren
 What we’ve heard:
