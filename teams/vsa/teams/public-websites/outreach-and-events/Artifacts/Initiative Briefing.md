@@ -1,30 +1,53 @@
 # Intiative Briefing: Outreach & Events MVP (Filtering / Recurring Events)
 
 ## Outcome Summary
-Since the launch of VA.gov in late 2018, the site has featured one responsive Global header element that was **not optimized for Mobile view.**  
-As a result, for our growing base of Mobile users, issues with the current header include:
-
-- Consumes too much space, pushing down the most important element on the page (based on usage): the top tasks links (Proven during Veteran Research Study)
-- Some of the exposed navigational elements cause user confusion -- e.g. the Crisis Line logo was mistaken for a hamburger menu on mobile per user research
-- Too many chevrons in the top right corner with all acting differently, causing confusion
-- Top spacing and inconsistent search engagement. 
+The VA.gov [Outreach Events calendar](https://www.va.gov/outreach-and-events/events/) was quickly built and released as an "at parity" MVP more product -- with very basic funcitonality -- more than <two> years ago.  Since that time, the popularity of the product has grown (to more than 200,000 page views on average per month [Google Analytics report](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190701&_u.date01=20210722&explorer-table.filter=outreach-and-events~2Fevents~2F&explorer-table.plotKeys=%5B%5D&explorer-graphOptions.selected=analytics.nthMonth)) and so have the needs and expectations of the VA business stakeholders.   Indeed, as of the spring of 2021, the Veterans Experience Office has broaded the [user base for the national events calendar to digital comms teams at VHA, VBA, OPIA and NCA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/business-users.md).
+  
+For this initiative, we will implement a series of functional, UX and CMS-based authoring enhancements that will more fully mature the Outreach Hub events calendar product, making it more personalized and useful for VA.gov users and easier to curate-manage by VA business stakeholders.
 
 ## The Problem to be Solved
 
-* Problem Defined: How might we make the Mobile version of VA.gov easier to scan and use, while preserving important links in an intuitive way?
+* Problem Defined: How might we make the [Outreach Hub events calendar](https://www.va.gov/outreach-and-events/events/) more personalized for users (e.g. find events by date, time, event type, etc.) and easier to manage/curate for VA business users.
 
-* Evidence to support Prolem: Mobile usage is up, however site navigation via mobile is low to include mobile search, during a recent wayfinding research study it was idenfied that certain pain points existed on Mobile that could be enhanced to improve the UX.  A full comparison of Desktop Vs. Mobile is valuable in determining common tasks across each device, along with what top tasks lend themselves more to desktop (e.g. form completion) and those on mobile (e.g. navigation). 
+* Evidence to support Prolem: All Outreach & Events pages are public so users so any visitor to VA .gov can view their content. A quick review of Google analytics for all Outreach pages form the last six months (April to Octber 2021) gives some insights:
 
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-     * The header consumes too much space and makes it more of bulky, clunky user experience for mobile users.    
-     * [Baseline analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28225) 
-     * Veterans were asked in a recent research wayfinding session what they didn't like about VA.gov, almost half of the participants said that it was difficult to find what you need, especially when "using a mobile device". "A lot of things I can't find on mobile".  
-      
- 
+[Outreach Dashboard in GA](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/nJHHfkWCR3S4ti7gjyDrtw/a50123418w177519031p176188361/_u.date00=20210418&_u.date01=20211017/)
+- A lot of traffic to Outreach pages is from email links
+- Google is a top referral source
+- Most vists are from desktop computers (65%), mobile vists are significant (32%)
+- Visitors who view the Events page do use the stepper and typically go just a few pages deep
+- Visit follow a cycle with traffic peaking Wednesday/Thursday, and dropping-off significanly over the weekend
+- Visits have increased noticibly beginning in July 2021 
+- Users often return to Outreach pages
+
 * How does this initiative help further OCTO-DE's mission and goals?
      * VA North Star: Increase the usage and throughput of VA services 
      * VA North Star: Increase the quality and reliability of VA services 
+    
+   
+#### User stories
 
+**As a user:**
+  
+- I want to search for events by date (month, day) and time so that I know what's happening based on my schedule/availability. 
+- I want to search for events by location so that I know what's happening in my area (e.g. at my VAMC).
+- I want to search for events by type so that I know what's happening in-person vs. online/virtual
+- I want to search for events by interest/need so that I know if there events of special interest to me (e.g. about VA benefits, about VA education, about VA Community Care etc.)
+- I want to search for events based on my status (Veteran, beneficiary, care-giver, etc.) so that I can find events of special interest to me.
+
+**As a national VACO digital comms content editor:**
+
+- I want the capability to provide additional categorical data about events (e.g.,event category -- health, education, etc.) to help power "filtering" features for users.
+- I want an [improved CMS authoring experience](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/1605) so that I can be more efficient when updating/managing the events hub.
+  - I want the capability for [auto-archiving past events](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/4214) so that the event hub does not display old, non-relevant content.
+  - I want the capability to edit/resize images more easily so that I can use photos more confidently and efficiently.
+  - I want the removal of the "Cost" field for events as all VA events are no-cost.
+- I (may) want the ability to review and approve local events generated by the field (VAMCs) so that those events can be featured on the national event calendar and I don't have to duplicate-create them.  
+
+**As the Outreach Events product owner:**
+
+- I want an intuitive UX which allows users to narrow their search for events in an intutive way -- on desktop and mobile -- so their experience is efficient and more personalizable.  
+    
 <!--
 ## Desired User Outcomes
 - *Why would a user want to use this?*
@@ -44,9 +67,9 @@ As a result, for our growing base of Mobile users, issues with the current heade
 
 ### Key Performance Indicators (KPIs)
 
-- **Findability:** Increase top task link clicks by 10% that lend to mobile usage (See Bet for details) (Currently 2.3% of all unique clicks from top tasks) with an overal top task stretch goal of 15% increase over a six month usage benchmark. 
+- (NEEDS UPDATE) **Findability:** Increase top task link clicks by 10% that lend to mobile usage (See Bet for details) (Currently 2.3% of all unique clicks from top tasks) with an overal top task stretch goal of 15% increase over a six month usage benchmark. 
     - BET: Elevating VA.gov Mobile header through cleaner interface will decrease confusion and allow for a greater view and usage of top tasks links on mobile. Some tasks present more of a mobile friendly experience (i.e. Menu, Sign-in, search, find a VA location) and others more to Desktop experience (I.e. form completion, direct deposit, dependent change, footer elements). We anticipate that by increasing visiability on "mobile" freindly tasks could result in an increase in both usage and confidence for mobile users. 
-- **Service Completion:** Increase mobile sign-ins by 10% (Currently 4.3% of all sign-ins are mobile) with an overal top task stretch goal of 15% increase over a six month usage benchmark.
+- (NEEDS UPDATE) **Service Completion:** Increase mobile sign-ins by 10% (Currently 4.3% of all sign-ins are mobile) with an overal top task stretch goal of 15% increase over a six month usage benchmark.
     - BET: Improving UX via bringing the sign-in element to a more visible location for mobile users functionality and findability should increase sign-ins on mobile making a more efficient funnel to Tier 1 benefit actions for mobile users.
  
  
@@ -56,50 +79,27 @@ As a result, for our growing base of Mobile users, issues with the current heade
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - There is measurable value to Veterans through an optimized mobile experience.  With an enhacnced VA.gov mobile header user experience could increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.  Essentially changing design aspects that have been proven through user research to be confusion and low value user experiences would give mobile users a shorter path to the benefits they deserve.   
-  - The biggest technical risk is in breaking functionality, especially anything tied to the redux state when we break out the components in the [SearchHelpSignIn component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx), but we can mitigate this risk with E2E testing
+  - (NEEDS UPDATE) There is measurable value to Veterans through an optimized mobile experience.  With an enhacnced VA.gov mobile header user experience could increase usage of Top Task links on the Home Page without significantly impacting discoverability/usage of Search from that navigational component.  Essentially changing design aspects that have been proven through user research to be confusion and low value user experiences would give mobile users a shorter path to the benefits they deserve.   
+  - (NEEDS UPDATE)The biggest technical risk is in breaking functionality, especially anything tied to the redux state when we break out the components in the [SearchHelpSignIn component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx), but we can mitigate this risk with E2E testing
 - **Usability Risks** (can people figure out how to use it):
-  -  A snapshot of VA.gov click-through analytics and user research conducted in May 2021 indicates there is relatively modest engagement of the navigational elements in the global header by mobile users, with the exception of the VA Benefits and Health Care menu item and to a lesser extent Search.
-  -  Scoping mobile navigational paths to be "three-click rule" compliant could help user find itended supporting content that would lead to an informed benefit action providing a clear conversion paths from the benefit hubs to the benefit action spoke. 
-  -  Some of the exposed navigational elements cause user confusion -- e.g. the Crisis Line logo was mistaken for a hamburger menu on mobile per user research
-  -  Too many chevrons in the top right corner with all acting differently, user causing confusion and degrading user experience.
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  -  (NEEDS UPDATE) A snapshot of VA.gov click-through analytics and user research conducted in May 2021 indicates there is relatively modest engagement of the navigational elements in the global header by mobile users, with the exception of the VA Benefits and Health Care menu item and to a lesser extent Search.
+  -  (NEEDS UPDATE) Scoping mobile navigational paths to be "three-click rule" compliant could help user find itended supporting content that would lead to an informed benefit action providing a clear conversion paths from the benefit hubs to the benefit action spoke. 
+- (NEEDS UPDATE) **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - This page will be easy to refactor, All of suggested design changes can be done by removing/updating assets and elements with minimal risk.  [Refer to Technical analysis for additional details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md#technical-analysis)  
-- **Viability Risks/Constraints** (will there be a positive organizational impact):
+- (NEEDS UPDATE) **Viability Risks/Constraints** (will there be a positive organizational impact):
   - This optimization will apply some much needed streamlining for navigational strategies along with user flow and conversion paths for mobile users that are currently struggling to complete critical tasks via mobile platform. Risk/constraint to consideer will be ensuring no disruptions to the current veteran expereince in VA.gov home page via mobile while we optimize (servicability needs to remain stead and active).  A secondary contraint will be to ensure user flow and mobile enhancmenets are fully tested with Veterans through a slow production release to 5% of users and test and measure effectiveness against defined KPIs to ensure success criteria is being achieved and intended user experience is achieved before increasing phased roll-out.   
 
 ### Technical Analysis 
-- Review product outline and provide a technical analysis on implementation
-  - Many of the changes in the product outline are cosmetic including:
-    - Updating the "Official..." banner to consume less space
-    - Removing the "crisis line" logo
-    - Use a simplified version of the VA logo
-    - Add th hamburger icon to the Menu button
-    - Remove the Home page item in the menu"
-    - "Contact us" moves to the bottom spot on the expanded menu
-    - Wrap "Close menu" with the expanded menu
-    - Authenticated user drop down menu moves to the top
-  - All of these changes can be done by removing/updating assets and elements with minimal risk
-  - Some changes will involve relocating existing components 
-    - Sign in stays persistent in the header
-    - Search is now usable in the expanded menu
-    - Currently these are part of the [SearchHelpSignIn component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx), but would need to be broken up into individual components so we can relocate the individual UI pieces
-- Provide best recommendations for optimized UX/UI
-  - Earlier comments mentioned building out 2-4 components 1 for each combination of Unauth/Auth + Desktop/Mobile, but it looks as though the distinction between unauth and auth at the component level is already done for us [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx#L36-L66), so we can mostly copy the [MegaMenu](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/mega-menu/components/MegaMenu.jsx) to a `MobileMegaMenu` component that can be combined with the [MobileMenuButton](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/mobile-menu-button/containers/Main.jsx)
-  - We should consider moving the mobile mega menu out of `content-build` entirely and having it render by react so it can sit below the menu button within the dom, making it easier to have connect the background/border of the menu and button
-- Include risks and ideas to mitigate risks for implementation
-  - The biggest risk is in breaking functionality, especially anything tied to the redux state when we break out the components in the [SearchHelpSignIn component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/site-wide/user-nav/components/SearchHelpSignIn.jsx), but we can mitigate this risk with E2E testing
-- Add questions for PO/PM/Lead Designer for follow up and determination during future planning and grooming sessions
-  - None at this time
+- TBD 
 
-### Solution Scope
+### Solution Scope for MVP
 **In Scope**
-- Mobile enhancements only (Not affecting Desktop experience)
-- Auth and Unauth elements as outlined in Deisgn specs
-- Defined roll out plan to 5% prod, test & measure before increasing roll out percentage/scope 
+- Filtering Date/Time (User/Editorial Experience)
+- Recurring Events (User/Editorial Experience)
+- User Testing to guage Veteran prospective on filtering and recurring event UX 
 
 **Not In Scope**
-- No Desktop enhancements (Mobile only)
+- Larger efforts outside of listed Scope items. Limmited scope for this effort.
 --- 
 
 ## Launch Planning
@@ -107,6 +107,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
+- 
 
 ### Go-to-market 
 
@@ -131,7 +132,7 @@ As a result, for our growing base of Mobile users, issues with the current heade
 ---
    
 ## Screenshots
-- [Sketch Designs](https://www.sketch.com/s/63193c20-04fc-4d4f-8b54-abf698c48636/a/Vr8Zzrw) 
+- [Designs Artifcats](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design) 
 
 ---
 
@@ -150,8 +151,8 @@ Primary communication for this initiative will be via #VSA-Public-Websites slack
 
 
 #### Stakeholders
-Design - Ryan T.
 PO - Dave Conlon 
+Veteran Experience Office (VA)
 
 <details>
   
