@@ -80,8 +80,15 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handing Trauma-Triggering
-*OBSERVE the participant's body language, tone of voice, and the environment. SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness. Prolonged silences? Shifts in tone or attitude or interactivity? New background noises? Staring into space?* 
-*- If notice a change, SAY one of these:*
+*OBSERVE the participant's body language, tone of voice, and the environment* 
+
+*SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness. Some signs may include:*
+- *Prolonged silences*
+- *Shifts in tone or attitude or interactivity*
+- *New background noises*
+- *Staring into space* 
+
+*If notice a change, SAY one of these:*
   - I realize this is hard. Would you like to take a break or stop?
   - I can see that you're upset. This is important to talk about, but we don't need to go there.
   - Would you like me to stop recording?
