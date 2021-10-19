@@ -8,6 +8,9 @@
 * Identify areas where we need help
 * Identify what follow up meetings are needed
 
+**Overarching Theme**
+We are heavily guided by the Veteran experience. We want to create the best Veteran experience for healthcare 
+
 # Agenda:
 **Welcome & Introductions** [1] ………………………………………………   2:00 pm |  Jeff Scheire? 
 
@@ -17,16 +20,29 @@ First, introduce our core team. Next acknowledge our other partners including, P
 
 Express your excitement, recognize and celebrate our commitment to the project. Next, describe what collaboration with us will look and feel like.  Emphasize our purpose: Collectively, we’re embarking on a journey to drastically improve healthcare for millions of Veterans. Clearly it’s not only the right time for this project but we most certainly have the right people. Thank you for your curiosity, courage and commitment. Finally, review the agenda: what we’re currently working on, where we’re headed, how we think our work builds off and impacts your work, areas where we need help, and finally, what follow up meetings are needed.  
 
-**Where We’re At & Where We’re Headed** [3-9] …………………………… 2:10 pm |  Speaker?
+**Where We’re At & Where We’re Headed** [3-9] …………………………… 2:10 pm |  Working team + Meg/Lauren?
 
 Highlight roadmap with epics and an overlap with other teams’s roadmap. Identify dependencies and intersections of work and where we need help. 
 
 
 Where We’re At [3-5]: Incorporate existing assets, slides from monthly report, etc. | Working team?
+* Highlighting introductions we’ve made
+* Original (not wireframe) envisioned visual bridge between this and next section
+
         
 Where We’re Headed [6-8]: Incorporate existing assets, wireframes, roadmap | Working team?
+* POC approach
+* Proposed information architecture
+* Testing with tree test with diverse populations including Veterans and caregivers
+* Continue to do technical discovery
+* Building the team
 
 Where We Need Help [9]: Specific slide with call outs or integrate into where we’re headed? | Meg, Lauren?
+* Continue to collaborate across silos
+* Engagement in working group
+* Sharing of roadmaps
+* Visibility to things like prototyping, authentication experience
+* Not duplication efforts, visibility into organization 
 
 
 **Initial Thoughts & Feedback**  [10] ………………….……………………… 2:40 pm |  Paula?
@@ -36,7 +52,7 @@ Acknowledge your appreciation for their investment and emphasize again our commi
 
 **Closing Remarks**  [11] ………………….……………………...……………… 2:55 pm |  Meg or Lauren?
 
-Thank the audience for their attention and encourage them to complete the digital survey.
+Thank the audience for their attention and encourage them to complete the digital survey (create a slack channel and invite everyone in attendee list - would allow to run survey in slack).
 
 
 # Survey Questions:
