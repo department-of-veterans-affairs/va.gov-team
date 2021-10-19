@@ -30,6 +30,9 @@ Metatags for Vet Center and VAMC facilities
 When a Vet Center has no spotlight (ie [Reno Vet Center](https://www.va.gov/reno-vet-center/))
 - [#31682](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31682)
 
+Sort order logic for Locations
+- [#30774 DISCOVERY] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
+
 ## October 13
 
 ### Vet Center 
