@@ -2,7 +2,6 @@
 
 ## Find VA Forms - Search Landing Page Use Cases
 
-
 ### Use Case S-A
 UI updated 2021-06-14
 #### Search for form with Form Detail page link
@@ -29,7 +28,7 @@ UI updated 2021-06-14
 #### Search for VA Form with Online Tool link 
 
 * **Description:** 
-  - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online-form.
+  - When a user searches for a valid VA form that also has an Online Tool equivalent, the form-specific search-result has a clickable link to the online form.
 
 * **Link to designs:** 
   - Desktop prototype: https://user-images.githubusercontent.com/68560244/121958273-7f6eee00-cd31-11eb-94dc-9d434c521b37.png
@@ -85,7 +84,7 @@ Closest match option added 2021-06-14
 **Note** the relevance option was added to the existing sorting use case on 5/7/2021.
 
 * **Description:** 
-  - When a user is presented with a list of search results, they can use the **Sort By feature** to change the order of results. Options presented include:
+  - When a user is presented with a list of search results, they can use the **Sort By** option to change the order of results. Options presented include:
        - Closest match (Note: this should be the default sort order)
        - Ascending (A-Z)
        - Descending (Z-A)
@@ -100,6 +99,27 @@ Closest match option added 2021-06-14
 
 * **Link to TestRail Test Case**
   -   [C4179](https://dsvavsp.testrail.io/index.php?/cases/view/4179)
+
+
+### Use Case S-F
+Added 2021-10-19 - Note that searching for a valid form that is associated with a downloadable PDF is not a new use case, but one appears to be have been inadvertendly omitted.  The user flow for that scenario has now has changed with the addition of a modal.
+
+#### Search for valid form associated with a downloadable PDF
+
+* **Description:** 
+  - When a user searches for a VA form that is valid, and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that some PDFs do not work correctly in the browser and provides three option:     - Learn more about how to download and open a PDF
+    - Get Adobe Acrobat Reader DC
+    - Download VA Form 10-10EZ
+
+* **Link to designs:** 
+  - Prototype (PNG FILE): **NEED TO ADD*
+
+* **Instructions to access in Staging
+  - https://staging.va.gov/find-forms/
+
+* 
+  
+
 
 ----
 
