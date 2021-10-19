@@ -77,8 +77,8 @@ We have already completed design discovery, which will inform our technical disc
 
 - [Action items discovery outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#readme)
 - [Action items discovery research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md)
-- Design documentation
-- Technical documnentation
+- [Design documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/vagov-notifications/design/design-documentation)
+- Technical documentation
 - How to access and test
 - Release plan
 
