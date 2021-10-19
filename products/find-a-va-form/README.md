@@ -115,6 +115,7 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 **Metrics**:
 - Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
 - Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
+- Custom Google Analytics Reports (open Google Analytics, make sure you're on the 
 
 *Find VA Forms - Search*
 Search Relevancy
@@ -219,9 +220,9 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 # Troubleshooting
 - If VA forms manager reports users are emailing to report trouble accessing forms, ask them to forward an example.  
    - Their support mailbox receives messages from internal and external users, and an example will allow you to confirm that they are referring to the *public* web site form search (va.gov/find-forms) vs. the *internal* VBA forms search on vba.va.gov.  
-   - If it turns out to be an internal site issue, they will need to work with Kevin Reid <Kevin.Reid@va.gov>.
+   - If it turns out to be an internal site issue, they will need to contact Kevin Reid <Kevin.Reid@va.gov>.
 - Reports of broken PDF links
-   - Compare versions of the form pages in CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000 - broken PDF links can occur when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).  
+   - Compare versions of the form pages in Drupal CMS (to see if/when form names were changed in VA DB): https://dsva.slack.com/archives/CUB5X5MGF/p1626366090043000 - broken PDF links can occur when a VA forms manager changes the name of a PDF while making an update and the CMS data hasn't been merged and re-published yet (see next item).  
    - Form managers have been instructed not to make name changes unless absolutely necessary because it causes the form to lose ranking on search engines and can also break links on other parts of VA.gov.
 - Time lag between VA Form changes & when updated on Find a VA Form:
    - Find a Form search page PDF link will update immediately once a change is made in the VA's forms database because the search page does not use CMS content.  
@@ -232,10 +233,19 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 ------
 ## Status and decisions:
 ### 9/8/2021 Marci McGuire
-The PDF user study revealed that almost every test user overlooked three different types of download/Adobe Reader information, regardless of where it was positioned (top of page or next to each PDF link) or how it was styled. The recommendation from the study was to use a modal that would have to be viewed.  After discussing these findings with Ryan Thurwell (DEPO Design Lead) and Angela Fowler (Accessibility Specialist), we all agreed this was a good use case for a modal.  The modal would be invoked when attempting to download a PDF.  It would provide brief info about downloading & using Adobe Reader, a link to download Adobe Reader, a link to a Resources & Support page about PDFs, and a link to the PDF form itself.
+The PDF user study revealed that almost every test user overlooked three PDF download/Adobe Reader information, regardless of where it was positioned (top of page or next to each PDF link) or how it was styled. The recommendation from the study was to use a modal that would have to be viewed.  After discussing the research findings with Ryan Thurwell (DEPO Design Lead) and Angela Fowler (Accessibility Specialist), we all agreed this was a good use case for a modal.  The modal would be invoked when attempting to download a PDF.  It would provide brief info about downloading & using Adobe Reader, a link to download Adobe Reader, a link to a Resources & Support page about PDFs, and a link to the PDF form itself.
 
 ### 8/1/2021 Marci McGuire
-The PDF user study uncovered a wide variety of expected and unexpected issues with users downloading, saving, and opening PDF forms on various operating systems and browsers.  Because we only tested four forms during the hour-long sessions, John Hashimoto and Marci McGuire agreed it made sense to audit all of the forms available via Find a VA Form to determine how many forms exhibit the issues observed during user testing.  Upon taking over as Product Owner, Dave Conlon agreed having a sense of how many forms were impacted, as well as how often they were downloaded, would be useful to the VA. 
+The PDF user study uncovered a wide variety of previously-observed and completely unexpected challenges with users downloading, saving, and opening PDF forms on various operating systems and browsers.  Because we only tested four forms (less than 1%) during the hour-long sessions, John Hashimoto and Marci McGuire agreed it made sense to audit all of the forms available via Find a VA Form to determine how many exhibit the issues observed during user testing.  Upon taking over as Product Owner, Dave Conlon agreed having a sense of how many forms were impacted, as well as how often they were downloaded, would be useful to the VA.  
+   - The detail results of this in-depth audit is located here (open in Excel for full functionality): 
+[PDF_Audit_Sept_2021.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/files/7374196/PDF_Audit_Sept_2021.xlsx)
+   - A high-level overview of the audit findings are located on the first tab.  
+   - The second tab contains all the elements evaluated and the findings.
+   - The third tab gives a brief history of PDF for context to show how far behind the current version some of the forms are.
+   - Below is a graph showing the most significant findings.  
+
+![image](https://user-images.githubusercontent.com/73354907/137933538-8111891b-a457-4845-bbb3-99aea2bf9a02.png)
+
 
 ### 6/1/2021 Marci McGuire
 After receiving several anectodal reports and experiencing first-hand issues with some PDF forms, John Hashimoto and Marci McGuire agreed it made sense to do a new user research session in which we would ask users to open several different PDF forms.  This session would not only allow us to confirm that users are experiencing issues, but also support exploring other options for electronic forms.
