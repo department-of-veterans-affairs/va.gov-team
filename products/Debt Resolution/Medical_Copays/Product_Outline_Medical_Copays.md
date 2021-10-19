@@ -198,6 +198,9 @@ DSVA Slack channel #vsa-debt
   contact: Logan Smith(Logan.Smith1@va.gov), PM of VSB Liberty team 
 - MPI
 - va_notify
+ 
+ [Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/medical-copays-portal/mcp-architecture.pdf)
+[Architecture document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/medical-copays-portal/mcp-architecture-doc.md)
 </details>
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
