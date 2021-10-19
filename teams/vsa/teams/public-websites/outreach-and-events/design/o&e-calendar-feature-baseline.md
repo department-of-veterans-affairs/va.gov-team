@@ -80,6 +80,7 @@ We recommend avaiding a calendar or datepicker feature for several reasons:
 ### Other recommendations
 - Conduct discovery interviews or early usability studies to uncover how users want to find particular events and by what criteria
 - Refine and better organize event lists and content to address accessibility needs
+- Remove the Upcoming/Past events toggle; place "past" option in the timframe selector
 - Design all new features togeher; implement new functionality iteratively
 - Refine/revise content on all "Outreach" pages to align with tone, voice and language mandates 
 
