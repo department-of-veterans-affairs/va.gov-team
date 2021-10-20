@@ -102,7 +102,7 @@ We recommend avoiding a calendar or datepicker feature for several reasons:
 ---
 
 <details>
-  <summary><strong>Outreach & Events current users flow</strong> (Click to show diagram)</summary>
+  <summary><strong>Outreach & Events initial wireframing of filtering feature</strong> (Click to show diagram)</summary>
   
   ![Outreach & Events Use cases/flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Usecase_Workflows_1.png)
 </details>
