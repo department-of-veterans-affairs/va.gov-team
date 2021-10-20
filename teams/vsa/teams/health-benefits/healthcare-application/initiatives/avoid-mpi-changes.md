@@ -33,22 +33,26 @@ Potential data at risk include: name, ssn, dob.
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - Are other forms dealing with this potential risk? Unclear. May be happening on other forms. 
   - What's the history of why these fields are editable? 
   - Is the data accurate to begin with? In research, we've found e.g. new Veterans have inaccurate data and they may use the opportunity to fix. 
+  - What's the volume of changes to these fields? Unclear. MPI team found 2 instances. 
   
 - **Usability Risks** (can people figure out how to use it):
-  - What fields must, should, won't be editable? 
+  - What fields must/should/won't be editable? 
   
-  
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Does MPI have a check for changes to it's data? No
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: VA stakeholder testing, marketing, compliance requirements 
+  - Are other forms dealing with this potential risk? Unclear. May be happening on other forms. 
+  - What downstream impacts are there to e.g. Medical Centers having to deal with data changes? 
+ 
 
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
+
+Hypotheses: 
+* 
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
