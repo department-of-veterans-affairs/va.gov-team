@@ -27,7 +27,8 @@ We'll use what we learn to inform our approach to a consistent UX we can offer V
    - Checking in for an appointment at a VAMC
    - When scheduling an appointment
 
-   There may be more use cases, but these should provide a sufficient variety to inform the next phase of work.
+   There may be more use cases, but these should provide a sufficient variety to inform the next phase of work. Another consideration is one advantage of using the profile components is that they'll have built-in address validation and correction. A basic inline form would not have this.
+
 
 2. Two teams are already using the existing modal solution, and one has created concepts ([flow 1](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/grid) and [flow 2](https://xd.adobe.com/view/81354811-0259-4aa6-9fd0-bd4f3d28d982-d466/grid)) using an in-line editing solution. No one has done any validation of the modal solution, or concepts.
 
