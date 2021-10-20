@@ -25,17 +25,19 @@
 
 ## October 20
 
-Metatags for Vet Center and VAMC facilities 
+### Vet Center
 
 When a Vet Center has no spotlight (ie [Reno Vet Center](https://www.va.gov/reno-vet-center/))
 - [#31682](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31682)
 
+
+### VAMC
 Sort order logic for Locations
-- [#30774 DISCOVERY] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
+* [#30774 DISCOVERY] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
 
-ETA for related links data
-
-Location data for content hardening work
+Top tasks
+* Location data for content hardening work
+* ETA for related links data
 
 Side Nav PR review reminder
 
