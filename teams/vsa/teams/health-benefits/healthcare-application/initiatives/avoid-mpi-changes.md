@@ -4,7 +4,7 @@
 Prevent unintended/inappropriate modifications to MPI when filling out the 10-10ez.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [Health care Application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
