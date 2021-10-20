@@ -10,7 +10,7 @@ There was a lot of confusion about what *should* be included and what *could* be
 - [What should be included in MVP based on user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/MyVA%20Updates%20(2).xlsx)
 - **[My VA User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/My%20VA%20User%20Stories.pdf)**
 
-From start to finish, we ran a lot of different research - including a comparative analysis, 
+From start to finish, we ran a lot of different research - including a comparative analysis, interactive card sort and design session with veterans, and multiple internal and external usability tests. 
 - [Preference test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
 - **[Usability testing findings example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)**
 - [Usability testing readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/My%20VA%20User%20Stories.pdf)
