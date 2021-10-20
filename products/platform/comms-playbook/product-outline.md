@@ -22,7 +22,7 @@ Platform teams, VFS teams, OCTO-DE
 
 ### Key Performance Indicators (KPIs)
 
-- Number of times people view communications about Platform changes.
+- Number of pageviews for communications about Platform changes.
 - % of people who click on links in communications about Platform changes.
 - Decrease in Slack support requests (excluding Collab cycle and PR reviews).
 
