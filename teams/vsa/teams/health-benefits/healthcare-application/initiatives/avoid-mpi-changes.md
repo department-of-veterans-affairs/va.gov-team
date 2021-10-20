@@ -39,6 +39,7 @@ Potential data at risk include: name, ssn, dob.
   - Are there other detours for someone to bypass "locked" fields? No, they can't use e.g. the unauthenticated route. 
   - What happens to submission numbers if we prevent editing? 
   - What is the recourse for incorrect data (assuming turning off editing)? 
+    - https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/
   
 - **Usability Risks** (can people figure out how to use it):
   - What fields must/should/won't be editable? 
