@@ -58,7 +58,7 @@
 | 56 | [Choosing a decision review option](https://www.va.gov/resources/choosing-a-decision-review-option/) | Decision reviews | 7/14/21 | | 
 | 57 | [Non-compensable disability](https://www.va.gov/resources/non-compensable-disability/) | Disability | 7/27/21 | | 
 | 58 | [Can I get a loan through my VA life insurance policy?](https://www.va.gov/resources/can-i-get-a-loan-through-my-va-life-insurance-policy/) | Life insurance | 8/3/21 |  | 
-| 59 | [Ask VA replaces IRIS and the GI Bill Help Portal](https://www.va.gov/resources/ask-va-replaces-iris-and-the-gi-bill-help-portal/) | Education | 9/17/21 |
+| 59 | [Ask VA replaces IRIS and the GI Bill Help Portal](https://www.va.gov/resources/ask-va-replaces-iris-and-the-gi-bill-help-portal/) | Education | 9/17/21 | Ticket [31651](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=sitewide%20content&repos=133843125) created to remove "new" from description in intro and first Q&A after a month |
 | 60 | [Your intent to file a VA claim](https://www.va.gov/resources/your-intent-to-file-a-va-claim/) | Disability | 9/17/21 |
 | 61 | [How your reason for withdrawing from a class affects your VA debt](https://www.va.gov/resources/how-your-reason-for-withdrawing-from-a-class-affects-your-va-debt/) | Education | 9/17/21 |
 | 62 | [How we determine your percentage of Post-9/11 GI Bill benefits](https://www.va.gov/resources/how-we-determine-your-percentage-of-post-911-gi-bill-beneits/) | Education | 9/23/21 |
