@@ -33,6 +33,10 @@ When a Vet Center has no spotlight (ie [Reno Vet Center](https://www.va.gov/reno
 Sort order logic for Locations
 - [#30774 DISCOVERY] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
 
+ETA for related links data
+
+Side Nav PR review reminder
+
 ## October 13
 
 ### Vet Center 
