@@ -27,7 +27,7 @@ Phase 2: VFS team members
 
 - Increase in support requests referencing documentation
 - Decrease of users required additional support after receiving documentation
-- Decrease in time to respond to support requests
+- Decrease in Slack support requests (excluding Collab Cycle and PR reviews)
 
 #### Baseline KPI Values
 
