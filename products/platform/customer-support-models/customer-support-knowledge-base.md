@@ -14,6 +14,13 @@ Phase 1: Platform SREs
 
 Phase 2: VFS team members
 
+## Desired User Outcomes 
+- Platform SREs are able to create knowledge base articles documentating how to resolve support requests.
+- Platform SREs can easily reference knowledge base articles to quickly resolve support requests.
+  
+## Desired Business Outcomes 
+- VFS teams are able to use the knowledge base to solve issues on their own.
+
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -36,14 +43,7 @@ Phase 2: VFS team members
 
 ## Solution Approach
 
-*Describe, in a few sentences and/or bullet points, what you plan to build, and how it will solve the problem. Some questions to think about:*
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-*For non-trivial technical solutions, an [engineering design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) should be written to deeply explain **How** this product will be built.*
+Platform Support Workflow: https://lucid.app/lucidchart/99957e75-93cf-4882-a7a4-9c950664d44c/edit?invitationId=inv_0037abb9-e117-4a8b-afaf-4872de77ad07
 
 ------
 
