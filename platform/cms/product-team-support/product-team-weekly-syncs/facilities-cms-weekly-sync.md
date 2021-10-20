@@ -35,6 +35,8 @@ Sort order logic for Locations
 
 ETA for related links data
 
+Location data for content hardening work
+
 Side Nav PR review reminder
 
 ## October 13
