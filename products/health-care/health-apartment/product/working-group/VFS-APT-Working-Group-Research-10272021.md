@@ -7,10 +7,11 @@ Hi all,
 We’re excited to kick off our first Apartment Working Group on Wed, 10/27 at 2-3pm ET. If you haven’t already RSVP’d to the invite, please do so. The session’s objectives and agenda are below. Slides for a pre-read will be sent closer to the date. 
 
 Objectives:
-- Introduce our team and partners, and how collaboration with us will look and feel like
+- Introduce our team and partners
 - Share how we got here, work to date, and what’s ahead 
-- Align on POC and MVP expectations 
 - Continue to learn how our work builds off and impacts other teams’ work 
+- Our vision of collaboration
+
 
 Agenda:
 - Welcome and agenda (5 min)
