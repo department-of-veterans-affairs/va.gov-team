@@ -55,7 +55,7 @@ Potential data at risk include: name, ssn, dob.
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
-It matters more that we close off a potential vulnerability over deferring Veterans to another route e.g. Medical Centers. 
+It matters more that we close off a potential vulnerability over deferring Veterans to another route e.g. Medical Centers to edit their data. 
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
