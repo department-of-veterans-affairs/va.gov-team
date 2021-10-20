@@ -52,7 +52,6 @@ Potential data at risk include: name, ssn, dob.
   - Are other forms dealing with this potential risk? Unclear. May be happening on other forms. 
   - What downstream impacts are there to e.g. Medical Centers having to deal with data changes? 
  
-
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
