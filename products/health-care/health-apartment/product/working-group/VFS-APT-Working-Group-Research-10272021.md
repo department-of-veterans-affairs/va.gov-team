@@ -2,30 +2,28 @@
 
 _@Meg, please see below for a draft of the email to send to the Working Group invite list as seen in calendar invite. Edit as you see fit!_
 
-Hi all,
+Hi, all,
 
-We’re excited to kick off our first Apartment Working Group on Wed, 10/27 at 2-3pm ET. If you haven’t already RSVP’d to the invite, please do so. The session’s objectives and agenda are below. Slides for a pre-read will be sent closer to the date. 
+We’re excited to kick off our first Health Apartment Working Group on Wednesday, October 27 at 2-3pm ET. If you haven’t already RSVP’d to the invite, please do so. The session’s objectives and agenda are below. Slides for a pre-read will be sent closer to the date. 
 
 Objectives:
 - Introduce our team and partners
 - Share how we got here, work to date, and what’s ahead 
 - Continue to learn how our work builds off and impacts other teams’ work 
-- Our vision of collaboration
-
+- Share our vision for collaborating with you
 
 Agenda:
 - Welcome and agenda (5 min)
 - Introductions (5 min)
 - How we got here (10 min)
-- Where we’re at (15 min)
+- Where we are (15 min)
 - Where we’re headed (15 min)
 - Where we need help (5 min)
 - Initial thoughts and feedback (3 min)
 - Closing remarks (2 min)
 
-Have a great rest of your week,
-
-Meg
+Have a great rest of your week!
+- Meg
 
 ------
 # Working Group Objectives:
