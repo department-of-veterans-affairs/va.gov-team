@@ -12,11 +12,12 @@ Platform teams receive customer support requests of varying nature and complexit
 
 Phase 1: Platform SREs
 
-Phase 2: VFS team members
+Phase 2: VFS teams
 
 ## Desired User Outcomes 
 - Platform SREs are able to create knowledge base articles documentating how to resolve support requests.
 - Platform SREs can easily reference knowledge base articles to quickly resolve support requests.
+- VFS teams go to the knowledge base to find answers to their questions before contacting Platform support.
   
 ## Desired Business Outcomes 
 - VFS teams are able to use the knowledge base to solve issues on their own.
