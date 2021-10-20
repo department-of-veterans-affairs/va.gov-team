@@ -6,17 +6,17 @@
 ---
 
 ### Users
-This document will consider VA.gov end-user funtionality--specifically relating to Veterans, service members, caregivers and dependents. 
+This document will consider VA.gov end-user functionality--specifically relating to Veterans, service members, caregivers and dependents. 
 
-All Outreach & Events pages are public so users so any visitor to VA .gov can view their content. A quick review of Google analytics for all Outreach pages form the last six months (April to Octber 2021) gives some insights:
+All Outreach & Events pages are public so users so any visitor to VA .gov can view their content. A quick review of Google analytics for all Outreach pages form the last six months (April to October 2021) gives some insights:
 
 [Outreach Dashboard in GA](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/nJHHfkWCR3S4ti7gjyDrtw/a50123418w177519031p176188361/_u.date00=20210418&_u.date01=20211017/)
 - A lot of traffic to Outreach pages is from email links
 - Google is a top referral source
-- Most vists are from desktop computers (65%), mobile vists are significant (32%)
+- Most visits are from desktop computers (65%), mobile visits are significant (32%)
 - Visitors who view the Events page do use the stepper and typically go just a few pages deep
-- Visit follow a cycle with traffic peaking Wednesday/Thursday, and dropping-off significanly over the weekend
-- Visits have increased noticibly beginning in July 2021 
+- Visit follow a cycle with traffic peaking Wednesday/Thursday, and dropping-off significantly over the weekend
+- Visits have increased noticeably beginning in July 2021 
 - Users often return to Outreach pages
 
 ### Current feature flows
@@ -43,7 +43,7 @@ The Outreach & Events section has several types of pages:
 The focus of this document is the **Outreach & Events calendar** page. 
 - Page initially shows 10 events sorted by most immediate current event
 - Event listing is paginated
-- Push-button filering will toggle between future and past events
+- Push-button filtering will toggle between future and past events
 
 ### User stories
 
@@ -72,7 +72,7 @@ A user of the VA.gov Outreach events page wants to:
 To address the uses cases above, new functionality will need to be implemented.
 - Filter events by specified timeframe (Map to start and end dates)
 - Filter events by event type (Map to "country" or "none" in address for on-site or online)
-- Filter events by multiple criteria (Impliment multiple filters)
+- Filter events by multiple criteria (Implement multiple filters)
 - Identify serial events as recurring (Map to "Make recurring")
 
 #### Functionality needing further investigation
@@ -81,7 +81,7 @@ To address the uses cases above, new functionality will need to be implemented.
 
 #### A note on calendars/datepickers
 We recommend avoiding a calendar or datepicker feature for several reasons:
-- While a datepicker is more specific in choosing a date, it represents a lot of additioanl functional "overhead" for the user
+- While a datepicker is more specific in choosing a date, it represents a lot of additional functional "overhead" for the user
 - Calendars and datepickers are notorious for introducing accessibility features
 - Our hypothesis is user will often be considering general timeframes vs. specific dates when finding events
 - An optionlist that filters on timeframe is easier to implement for an MVP
@@ -90,8 +90,10 @@ We recommend avoiding a calendar or datepicker feature for several reasons:
 - Conduct discovery interviews or early usability studies to uncover how users want to find particular events and by what criteria
 - Refine and better organize event lists and content to address accessibility needs
 - Remove the Upcoming/Past events toggle; place "past" option in the timframe selector
-- Design all new features togeher; implement new functionality iteratively
-- Refine/revise content on all "Outreach" pages to align with tone, voice and language mandates 
+- Design all new features together; implement new functionality iteratively
+- Rework the Outreach hub page to have more relevant content
+- Refine/revise content on all "Outreach" pages to align with tone, voice and language mandates
+- Consider making inbound links to the Outreach and event page more prominent
 
 ### Proposed feature flows
 
