@@ -33,13 +33,16 @@ Potential data at risk include: name, ssn, dob.
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Are other forms dealing with this potential risk? Unclear. May be happening on other forms. 
+  - What's the history of why these fields are editable? 
+  - Is the data accurate to begin with? In research, we've found e.g. new Veterans have inaccurate data and they may use the opportunity to fix. 
+  
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - What fields must, should, won't be editable? 
+  
+  
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - API availability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - Does MPI have a check for changes to it's data? No
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
