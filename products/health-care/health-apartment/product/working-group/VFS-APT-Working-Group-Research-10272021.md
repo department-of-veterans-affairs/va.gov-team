@@ -16,11 +16,12 @@ Objectives:
 Agenda:
 - Welcome and agenda (5 min)
 - Introductions (5 min)
+- How we got here (10 min)
 - Where we’re at (15 min)
 - Where we’re headed (10 min)
 - Where we need help (10 min)
-- Initial thoughts and feedback (5 min)
-- Closing remarks (5 min)
+- Initial thoughts and feedback (3 min)
+- Closing remarks (2 min)
 
 Have a great rest of your week,
 
