@@ -4,7 +4,7 @@ _@Meg, please see below for a draft of the email to send to the Working Group in
 
 Hi, all,
 
-We’re excited to kick off our first Health Apartment Working Group on Wednesday, October 27 at 2-3pm ET. If you haven’t already RSVP’d to the invite, please do so. The session’s objectives and agenda are below. Slides for a pre-read will be sent closer to the date. 
+We’re excited to kick off our first Health Apartment Working Group on Wednesday, October 27 at 2-3pm ET. If you haven’t already RSVP’ed to the invite, please do so. The session’s objectives and agenda are below. Slides for a pre-read will be sent closer to the date. 
 
 Objectives:
 - Introduce our new Health Apartment Team and partners
