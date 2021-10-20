@@ -35,16 +35,28 @@
 
 </details>
 
-## October 13
+
+## October 27 
 
 CMS Product support roadmap for Q4
 
+
+
+## October 20
+
 CLP - Review of current request fulfillment and editor support 
+* The content deck form can be improved, per VHA suggestions, by product team
+* Minimizing white glove treatment - Brian and David discussed. 
+* URL side (Mikki) needs content first
+
 
 [Refactor of react widgets to make them reusable and simplified](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2919)
 * Review [audit](https://airtable.com/appxszQvxnpwBPq4Q/tbl5SHVnZJHJ2PLjm/viwRC7wjHYHyKnT6D?blocks=hide)
 * Possible roadmap (github issue #2919)
-* Next step: FE architecture - what fields does CMS really need to support? 
+* Next step: FE architecture
+  * what fields does CMS really need to support? 
+  * Sync with a content editor like Randi
+  * Investigate whether certain fields are used 
 
 
 
