@@ -5,4 +5,5 @@ There was a lot of ambiguity in this project (shifting of timelines, expectation
 - [Project outline breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/MyVA%202.0-outline-and-timeline.md)
 
 From start to finish, we ran a lot of different research - including a comparative analysis, 
-- [Preference test](
+- [Preference test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)
+- [Usability testing example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md)
