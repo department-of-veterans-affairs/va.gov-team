@@ -33,7 +33,7 @@ When a Vet Center has no spotlight (ie [Reno Vet Center](https://www.va.gov/reno
 
 ### VAMC
 Sort order logic for Locations
-* [#30774 DISCOVERY] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
+* [#30774 DISCOVERY](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
 
 Top tasks
 * Location data for content hardening work
