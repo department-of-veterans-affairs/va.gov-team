@@ -20,9 +20,17 @@ All Outreach & Events pages are public so users so any visitor to VA .gov can vi
 - Users often return to Outreach pages
 
 ### Current feature flows
-The Outreach & Events hub contains several pages:
+The Outreach & Events hub contains several pages outlined in the diagram below.
 
-![Outreach & Events current users flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O%26E_User_Paths_1.png)
+---
+
+<details>
+  <summary><strong>Outreach & Events current users flow</strong> (Click to show diagram)</summary>
+  
+  ![Outreach & Events current users flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O%26E_User_Paths_1.png)
+</details>
+
+---
 
 ### Current functionality
 The Outreach & Events section has several types of pages:
@@ -87,13 +95,30 @@ We recommend avoiding a calendar or datepicker feature for several reasons:
 
 ### Proposed feature flows
 
-![Outreach & Events Use cases/flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Usecase_Workflows_1.png)
+[Outreach & events Mural board, including use cases and feature flows (External link)](https://app.mural.co/t/vsa8243/m/vsa8243/1634651992163/439beeb6c6f54295c81a2b62d2d4c766f6b23205?sender=u7ad68f2a3a694c00d8a38130)
 
-### Wireframing
-
-[Initial wireframing of filtering feature](https://xd.adobe.com/view/32a7ce8e-7df2-4a7e-ad3f-ef42fa09c753-67f4/screen/f1253770-f429-4ef3-86e0-8980e8c4b3a1)
-
-![Initial wireframes of filtering feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Wireframes_1.png)
+[Initial wireframing of filtering feature (External link)](https://xd.adobe.com/view/32a7ce8e-7df2-4a7e-ad3f-ef42fa09c753-67f4/)
 
 ---
 
+<details>
+  <summary><strong>Outreach & Events current users flow</strong> (Click to show diagram)</summary>
+  
+  ![Outreach & Events Use cases/flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Usecase_Workflows_1.png)
+</details>
+
+---
+
+### Wireframing
+
+[Initial wireframing of filtering feature (External link)](https://xd.adobe.com/view/32a7ce8e-7df2-4a7e-ad3f-ef42fa09c753-67f4/screen/f1253770-f429-4ef3-86e0-8980e8c4b3a1)
+
+---
+
+<details>
+  <summary><strong>Outreach & Events current users flow</strong> (Click to show diagram)</summary>
+  
+  ![Initial wireframes of filtering feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Wireframes_1.png)
+</details>
+
+---
