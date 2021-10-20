@@ -75,7 +75,7 @@ To address the uses cases above, new functionality will need to be implemented.
 - Filter events by multiple criteria (Impliment multiple filters)
 - Identify serial events as recurring (Map to "Make recurring")
 
-#### Needs investigation
+#### Functionality needing further investigation
 - Filter events by keyword--refine to "category" (Map to teaser description?)
 - Filter events by their status/role (Unknown criteria)
 
