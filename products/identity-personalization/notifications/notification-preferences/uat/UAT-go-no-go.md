@@ -1,4 +1,4 @@
-# Notification Preferences: UAT Go/No-Go | dd.mm.yyyy (target week of 10/18)
+# Notification Preferences: UAT Go/No-Go | 10.26.2021 
 
 ## Decision: ______
 ---
