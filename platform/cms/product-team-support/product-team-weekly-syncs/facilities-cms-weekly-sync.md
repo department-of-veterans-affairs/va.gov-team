@@ -23,23 +23,45 @@
 
 </details>
 
+## October 27 
+
+Metatags 
+
 ## October 20
 
 ### Vet Center
 
 When a Vet Center has no spotlight (ie [Reno Vet Center](https://www.va.gov/reno-vet-center/))
 - [#31682](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31682)
+- No actions for now, we can consider making this field required in the future. 
+- Other approaches
+  - Having national spotlights as backups to fill in gap. (could be added to the Centralized content) 
+  - Events in the future
+
+Dashboard usability tests
+* 4 editors scheduled for next week. 
+
+Office hours
+* not well-attended. 
 
 
 ### VAMC
+
 Sort order logic for Locations
 * [#30774 DISCOVERY](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774)
+* Ideally: Sort the same as the menu, because that can be controlled by an editor (can it accessed in graphql via the node?)
+* If not, standardize sort in all places... by Facility ID or Facility name.
+  * Then Update KB article about Locations pages to explain the sort. 
 
 Top tasks
 * Location data for content hardening work
-* ETA for related links data
+* ETA for related links data (URL vs URI)
+  * early next week. 
 
 Side Nav PR review reminder
+* Platform CMS team to test performance, hopefully Sprint 44. Kevin to follow up with them. 
+
+
 
 ## October 13
 
