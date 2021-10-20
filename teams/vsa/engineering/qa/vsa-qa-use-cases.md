@@ -31,7 +31,7 @@ Use Cases outline **general** User-personas and their distinct journeys toward U
 
 
 
-### But include details required for testing
+### Include just enough details for testing
 
 In order for your Use Cases to be testable on Staging, certain details must be provided to QA:
 
