@@ -2,10 +2,10 @@
 
 The notifications that will be included in MVP are:
 
-- Appointments
-- Prescriptions
-- Messages
-- In-progress applications
+- Appointments (?)
+- Prescriptions (?)
+- Messages (?)
+- In-progress applications (?)
 - Board of Veterans' Appeals hearing reminder
 - COVID-19 updates
 - Scheduled payment updates
