@@ -7,7 +7,6 @@ Prevent unintended/inappropriate modifications to MPI when filling out the 10-10
 - [Health care Application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/product-outline.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
 
 On the 10-10EZ, if the user is authenticated, we pre-populate some of the fields for them, based on the values in the Master Person Index (MPI). However, these fields are editable, and may be changed by the user. 
 
