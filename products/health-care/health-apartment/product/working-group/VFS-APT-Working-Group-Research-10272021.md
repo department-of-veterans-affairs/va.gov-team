@@ -1,3 +1,31 @@
+# 10/20/2021 WG Email Draft
+
+_@Meg, please see below for a draft of the email to send to the Working Group invite list as seen in calendar invite. Edit as you see fit!_
+
+Hi all,
+
+We’re excited to kick off our first Apartment Working Group on Wed, 10/27 at 2-3pm ET. If you haven’t already RSVP’d to the invite, please do so. The session’s objectives and agenda are below. Slides for a pre-read will be sent closer to the date. 
+
+Objectives:
+- Introduce our team and partners, and how collaboration with us will look and feel like
+- Share how we got here, work to date, and what’s ahead 
+- Align on POC and MVP expectations 
+- Continue to learn how our work builds off and impacts other teams’ work 
+
+Agenda:
+- Welcome and agenda (5 min)
+- Introductions (5 min)
+- Where we’re at (15 min)
+- Where we’re headed (10 min)
+- Where we need help (10 min)
+- Initial thoughts and feedback (5 min)
+- Closing remarks (5 min)
+
+Have a great rest of your week,
+
+Meg
+
+------
 # Working Group Objectives:
 
 * Introduce our team and partners 
@@ -13,11 +41,11 @@ We are heavily guided by the Veteran experience. We want to create the best Vete
 
 # Agenda:
 
-**What We’ll Cover Today** [2] .…………………………………………………   2:05 pm |  Meg Peters
+**What We’ll Cover Today** [2] .…………………………………………………   2:00 pm |  Meg Peters
 
 Express your excitement, recognize and celebrate our commitment to the project. Next, describe what collaboration with us will look and feel like.  Emphasize our purpose: Collectively, we’re embarking on a journey to drastically improve healthcare for millions of Veterans. Clearly it’s not only the right time for this project but we most certainly have the right people. Thank you for your curiosity, courage and commitment. Finally, review the agenda: what we’re currently working on, where we’re headed, how we think our work builds off and impacts your work, areas where we need help, and finally, what follow up meetings are needed.
 
-**Welcome & Introductions** [1] ………………………………………………   2:00 pm |  Jeff Scheire
+**Welcome & Introductions** [1] ………………………………………………   2:05 pm |  Jeff Scheire
 
 First, introduce our core team. Next acknowledge our other partners including, Pluribus, Frog, and other partners and recognize that they bring a wealth of technology and change expertise to the team. We look forward to co-creating with you and utilizing these extended teams as a resource throughout the engagement. Avoid specific name dropping. 
 
