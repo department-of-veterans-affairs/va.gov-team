@@ -36,6 +36,8 @@ Potential data at risk include: name, ssn, dob.
   - What's the history of why these fields are editable? 
   - Is the data accurate to begin with? In research, we've found e.g. new Veterans have inaccurate data and they may use the opportunity to fix. 
   - What's the volume of changes to these fields? Unclear. MPI team found 2 instances. 
+  - Are there other detours for someone to bypass "locked" fields? No, they can't use e.g. the unauthenticated route. 
+  - What happens to submission numbers if we prevent editing? 
   
 - **Usability Risks** (can people figure out how to use it):
   - What fields must/should/won't be editable? 
@@ -51,8 +53,7 @@ Potential data at risk include: name, ssn, dob.
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
-Hypotheses: 
-* 
+It matters more that we close off a potential vulnerability over deferring Veterans to another route e.g. Medical Centers. 
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
