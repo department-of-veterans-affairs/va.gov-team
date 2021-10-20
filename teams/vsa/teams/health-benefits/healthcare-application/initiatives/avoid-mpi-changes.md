@@ -38,12 +38,14 @@ Potential data at risk include: name, ssn, dob.
   - What's the volume of changes to these fields? Unclear. MPI team found 2 instances. 
   - Are there other detours for someone to bypass "locked" fields? No, they can't use e.g. the unauthenticated route. 
   - What happens to submission numbers if we prevent editing? 
+  - What is the recourse for incorrect data (assuming turning off editing)? 
   
 - **Usability Risks** (can people figure out how to use it):
   - What fields must/should/won't be editable? 
   
   - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Does MPI have a check for changes to it's data? No
+  - What is the difficulty in turning off editing? 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Are other forms dealing with this potential risk? Unclear. May be happening on other forms. 
