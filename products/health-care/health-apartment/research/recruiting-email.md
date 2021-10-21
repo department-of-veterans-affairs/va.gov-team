@@ -1,11 +1,12 @@
 ## Lauren —> Perigean
 Hi, 
 
-Hope you are well! I, on behalf of the Veteran-Facing Services Health Apartment Team, am reaching out with a recruiting request for our IA validation research.
+Hope you are well. I, on behalf of the Veteran-Facing Services Health Apartment Team, am reaching out with a recruiting request for our IA validation research.
 
-We have developed a full Research Plan, in which you can find the goals, method, and most relevantly, information on participants and recruitment. 
+We have developed a full Research Plan, in which you can find the goals of the study, methodology, and most relevantly, information on participants and recruitment. 
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021-10.research-plan-1.md
 
-Our ask from you is to recruit and schedule 60 qualified participants for each of the 6 groups outlined in the Research Plan (10 participants in each group). We ask that each of the groups be considered as a separate recruitment effort and have drafted screening questions in the attached attached Excel file.
+At a high level, our ask from you is to recruit and schedule 60 qualified participants for each of the 6 groups outlined in the Research Plan (10 participants in each group). We ask that each of the groups be considered as a separate recruitment effort and have drafted screening questions in an Excel file (embedded in the Research Plan, and also attached to this email).
 
 If you have any questions, please do not hesitate to reach out to me directly. Please confirm you have received this request and inform me of any next steps / additional information you need from me. 
 
