@@ -384,7 +384,6 @@ VA services are not always accessible across the digital divide and to those wit
 * Patient check in
 * Travel reimbursement
 
-# Short-term Roadmap - Milestones
+# Short-term Roadmap - Milestones for this quarter
 
-![image](https://user-images.githubusercontent.com/7320097/134221483-a7331550-aafc-452a-8774-9e543b9c2bee.png)
-
+See Zenhub Roadmap here: https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/roadmap
