@@ -49,7 +49,7 @@ Potential data at risk include: name, ssn, dob.
   - What is the difficulty in turning off editing? 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Are other forms dealing with this potential risk? Unclear. May be happening on other forms. 
+  - Are other forms dealing with this potential risk? It is **not** common for other VA forms to allow editing of Veteran (biographical) data via their forms. 
   - What downstream impacts are there to e.g. Medical Centers having to deal with data changes? 
  
 ### Prioritization
