@@ -6,6 +6,7 @@ As an unauthenicated experience, the Facility Locator cannot provide the most co
 
 **Related/Associated product(s)**
 - [Facility Locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+- [EPIC #27454](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27454)
 
 ## Problem
 * **What is the problem and who is affected? And, what evidence do we have of the problem?** 
