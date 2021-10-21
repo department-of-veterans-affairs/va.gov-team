@@ -29,4 +29,4 @@ Although earlier QA-involvment during Design & Build phases currently have to be
 
 VSA-QA will make all reasonable efforts to accommodate your requests, as Manual-testing commitments permit.
 
-\* Right now it's just @tlei123.  When/if VSA-QA receives more resources, a #vsa-qa slack-channel will be created on DSVA-Slack.
+\* Right now it's just Tze-chiu Lei (@tlei123).  When/if VSA-QA receives more resources, a #vsa-qa slack-channel will be created on DSVA-Slack.
