@@ -12,11 +12,12 @@ assignees: shiragoodman, allison0034
 ## Before meeting
 
 **VFS Product Manager or Designer**
-- [ ]  Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
+- [ ]  Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
+- [ ] Schedule meeting via Calendly with VFS team attendees listed in ticket.
 - [ ] Add artifacts listed below to the ticket at least 2 days before the scheduled meeting.
 
 **Platform**
-- [ ] Schedule meeting with Platform reviewers and VFS team attendees listed in ticket. 
+- [ ] Add the Platform reviewers to scheduled meeting
 
 ## After meeting
 
@@ -70,25 +71,19 @@ Provide links or documents for the following:
 
 ## Scheduling
 
+- Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
+- Select a date and time and click “Confirm”
+- Add your name and email
+- Click "Add Guests" and enter the VFS meeting attendees email addresses. 
+- Click Schedule Event
 <!-- 
-Please select your preferred time slot from the Platform Collaboration Meetings Calendar at
-https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York.
+Please note: You are responsible for adding the VFS attendees. If you have more than 10 VFS attendees, you can forward the invite after it is scheduled. Platform will add the Platform reviewers. You will receive an email and the meeting will be automatically added to your calendar
 -->
 
-**[Insert date here]** **[Insert time here]**
-
-<!-- 
-Please note:
-- Design Intents are scheduled on Monday, Tuesday, or Friday.
-- All times are shown in ET. 
-- Available time slots are indicated with [REVIEW BLOCK]. 
-- When you reserve a time slot, the reserved meeting will show up alongside the [REVIEW BLOCK]. 
-- Please select a time slot at least 2 business days from request date.
--->
 
 
 ## Additional information
-For the Design Intent, you'll receive feedback from design and IA only. You won't receive feedback from accessibility, content, or QA, as it's too early in the development process.
+For the Design Intent, you'll receive feedback from design, accessibility and IA only. You won't receive feedback from content, or QA, as it's too early in the development process.
 
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Design Intent Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Design-intent.1782153235.html) on Platform website for more information about the Collaboration Cycle.
 
