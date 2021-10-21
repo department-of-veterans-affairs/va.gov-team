@@ -138,7 +138,7 @@ Both prototypes,
 
 If edit prototype,
 - Updating your next of kin's information here affects what?
-- Pretend that your next of kin changed their phone number, how would you update that information?
+- Pretend that your next of kin changed their home phone number, how would you update that information?
   - What are your thoughts on having to fully sign into VA.gov if you previous hadn't, in order to update your next of kin?
   - Things to watch for:
     - Were they able to successfully complete the task?
