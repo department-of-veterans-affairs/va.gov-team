@@ -1,4 +1,8 @@
 ## Lauren —> Perigean
+
+_@Lauren, please edit as you see fit._
+
+
 Hi, 
 
 Hope you are well. I, on behalf of the Veteran-Facing Services Health Apartment Team, am reaching out with a recruiting request for our IA validation research.
@@ -16,9 +20,11 @@ Lauren
 
 ## Perigean —> Recruits
 
-Question: does Perigean send this email on behalf of our team (i.e., signed by us)? Or is this an email from them (i.e., signed by a Perigean representative)?
-Mobile vs. desktop
-—
+Questions:
+- Does Perigean send this email on behalf of our team (i.e., signed by us)? Or is this an email from them (i.e., signed by a Perigean representative)?*
+- Do we need to identify anything about taking this test on either desktop or mobile is allowed?
+
+
 Hello,
 
 Thank you for agreeing to participate in this study. This unmoderated activity shouldn’t take longer than 10 to 15 minutes to complete. There will be additional instructions before you begin.
@@ -28,4 +34,4 @@ Click this link to begin the study: https://adhoc.optimalworkshop.com/treejack/
 If you have any questions or run into any issues, please contact paula@themostudio.com [should this be Lauren and/or Meg?].
 
 Thank you,
-[TBD]
+TBD*
