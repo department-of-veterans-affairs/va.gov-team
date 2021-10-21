@@ -30,9 +30,9 @@
 |[VA Profile (formerly Vet360) initial integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1) | Launch completed Summer 2018 |
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
-## Potential future projects & feature requests from other teams
+# Backlog & feature requests
 
-### General profile requests
+### General profile requests & updates
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
@@ -40,6 +40,7 @@
 |Add dependent info to the profile | Auth exp/eBenefits migration team | January 2021 | [Slack convo](https://dsva.slack.com/archives/CLY6Q69RV/p1611687078020800)|
 |Virtual hearing opt-in| Caseflow/Lighthouse | September 2020 | Caseflow/Lighthouse needs to do some research to determine how virtual hearing opt-in might work before coming back to VA.gov. Currently, there is no evidence that the profile is the right place for people to indicate they are willing to do a virtual appeals hearing.|
 |Integrate MHV profile data points into VA.gov profile | MHV | 2.10.21 | MHV would like to point all of their users to VA.gov instead of maintaining their own profile. Active converstions with VA.gov and VA Profile are beginning Feb 2021. |
+| Design exploration: Should we move editing from in-line forms to forms on a different page? | Auth exp | Fall 2021 | [Additional context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31237#issuecomment-947856877)|
 
 ### Personal information requests
 
@@ -64,3 +65,7 @@
 ### Direct deposit requests
 
 ### Notification preferences requests
+
+|Project|Initiating team|Date of request| Status/Notes|
+|----|----|----|----|
+|Establish governance process for adding new preferences | Auth exp | - | We need to figure out a process to review planned updates for notification preferences so new preferences don't end up in our UI without having been reviewed and tested (if needed) by our team |
