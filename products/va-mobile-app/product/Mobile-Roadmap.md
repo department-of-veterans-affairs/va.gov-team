@@ -1,7 +1,7 @@
 ### Mobile App Roadmap
 
-1. [Long-term Outcomes Roadmap (updated quarterly)](#long-term-roadmap---objectives)
-2. [Short-term Roadmap (updated monthly)](#short-term-roadmap---milestones)
+1. [Long-term Outcomes Roadmap (updated quarterly)](#long-term-roadmap)
+2. [Short-term Roadmap (updated monthly)](#short-term-roadmap---milestones-for-this-quarter)
 
 # Long term Roadmap
 
@@ -333,17 +333,13 @@ VA services are not always accessible across the digital divide and to those wit
 
 **Continued/Repeated each quarter:**
 
-
-
 * UAT for new features
 * Codesign Sessions
 * Polish, Design & Tech debt (RN updates, iOS/Android updates, Design library, component refinement)
 * Analytics
 * Documentation sites
 
-**Starts Now (Q4c 2021):**
-
-
+**Starts Now (Q4 2021):**
 
 * Vaccine records
 * Rx Refill initial discovery
@@ -360,8 +356,6 @@ VA services are not always accessible across the digital divide and to those wit
 * Demo Mode
 
 **Starts Next (Q1 2022):**
-
-
 
 * Appointment Request & Direct Schedule
 * Health Records expansion
@@ -387,3 +381,5 @@ VA services are not always accessible across the digital divide and to those wit
 # Short-term Roadmap - Milestones for this quarter
 
 See Zenhub Roadmap here: https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/roadmap
+
+![image](https://user-images.githubusercontent.com/7320097/138319167-ea8da47e-e6a4-4f48-8160-cc43d8e86a1c.png)
