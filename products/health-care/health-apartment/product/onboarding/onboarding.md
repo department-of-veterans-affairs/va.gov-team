@@ -22,7 +22,7 @@ As you onboard to the program, we've collected a few resources for you to review
 5. **VFS Functional Meetings.** The VA Product Owner will invite you to other functional meetings, such as the Design + Research Sync, which provide collaboration opportunities across Veteran Facing Services teams.
 
 
-# Materials to review asynchronously: 
+# Materials to review asynchronously
 1. [Apartment Onboarding Guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/onboarding.md) The Digital Health Modernization team (Meg Peters, Emily Mann, Aryeh Jacobsohn) was the precursor to the Health Apartment team. This onboarding guide outlines their work that led to this program, the vision, and links to additional resources to review.
 2. [Health Apartment Team GitHub Repo.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment) We work in the open and share our materials in a GitHub repo. This is where you'll find our team's history of deliverables and our latest work. The broader VA GitHub includes additional great information across products, processes, and projects at the VA. Spend some time exploring the other folders to learn more. Note that the Apartment folder structure here follows the OCTO IA guidelines and is mirrored in our mural room. 
 3. [Health Apartment Team Mural Room.](https://app.mural.co/t/innovationboards1199/r/1631551671896) We're a collaborative team and use Mural to co-create and plan our work. You may find it useful to browse through the most recent murals. Note that there is a template for creating new murals which uses our standard heading. 
