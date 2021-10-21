@@ -23,7 +23,7 @@
 
 ## October 22
 * Broken links, menu enabling/disabling - CMS help desk may be able to pitch in as Upgrade Team focuses on go-live schedule
-
+* New audit tool for `<h3>Care we provide` in VAMC system service nodes.
 
 ## October 15
 
