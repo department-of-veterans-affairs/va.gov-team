@@ -1,4 +1,4 @@
-## Lauren —> Perigean
+## Email 1: Lauren —> Perigean
 
 _@Lauren, please edit as you see fit._
 
@@ -18,7 +18,7 @@ Thank you,
 Lauren
  
 
-## Perigean —> Recruits
+## Email 2: Perigean —> Recruits
 
 Questions:
 - Does Perigean send this email on behalf of our team (i.e., signed by us)? Or is this an email from them (i.e., signed by a Perigean representative)?*
