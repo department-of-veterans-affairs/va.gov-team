@@ -18,8 +18,8 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
 
 ## Use Case A
 
-* **Homeless Flagn**
-  - add "I am Homeless" flag
+* **Homeless Flag**
+  - User will be able to check the box indicating if they are experiencing homelessness
 
 * **Link to designs**
   - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
@@ -30,9 +30,9 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
 
 ## Use Case B
 
-* **Update Rep name format**
-  - Explicitly take in Rep phone# and email
-  - Change time window selection
+* **Representative Namet**
+  - User will be able to submit their representative's name, hone# and email
+  - 
 
 * **Link to designs**
   - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
@@ -43,7 +43,7 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
 ## Use Case C
 
 * **Date Field**
-  - Add SOC/SSOC Date field per Issue (only if opting in to AMA)
+  - User will be able to enter date/ time selection
 
 * **Link to designs**
   - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
@@ -54,7 +54,7 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
 ## Use Case D
 
 * **Add Contact Information**
-  - Start sending in Veteran Contact Info
+  - Veteran will be able to update their contact information
 
 * **Link to designs**
   - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
@@ -65,7 +65,7 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
 ## Use Case E
 
 * **Write-In Issuesd**
-  - Support write-in Issues - similar to NOD
+  - Veteran will have opportunity to use open text field to write in a condition or issue
 
 * **Link to designs**
   - https://www.sketch.com/s/96420652-15b7-45bb-80c5-5454dcd4b3c6
