@@ -8,7 +8,7 @@ The disability claim adjudication process is a lenghty one, averaging 120 days o
 Allow Veteran hypertension disability claims to be flagged and routed to another team for faster processing.  
 
 ### Business Goals
-  - Reduced time to process hypertension claims         .
+  - Reduced the time it takes to process single-issue claims. Piloting hypertension claims since they do not require additional evidence.
 
 ## Assumptions
 Our most basic assumptions around the direction of this product feature are:
@@ -34,6 +34,6 @@ The fast track team talked about making an API in aws lambda that got hypertensi
 - 
 
 ## OKRs and KPIs
-- # hypertension submissions received
+- number of hypertension submissions received
 - reduction in claims processing time
 
