@@ -6,7 +6,7 @@ As you onboard to the program, we've collected a few resources for you to review
 
 # Onboarding meetings
 1. **Program Introduction.** Meet with the MO Studio Program Manager to learn about the team, program, and current work. The Program Manager will share with you our Monthly Project Management deck which is the source of truth for the program and includes our sprint plans and demo materials.  
-2. **Product Introduction.** Meet with the MO Studio Product Manager and VA Product Owner to understand the product vision and ecosystem. During this session, you'll review the product outline and deep dive into the current development status. 
+2. **Product Introduction.** Meet with the MO Studio Product Manager and VA Product Owner to understand the product vision and ecosystem. During this session, you'll review the product outline and deep dive into the current development status and stakeholder ecosystem.
 3. **Team and VA Leadership Introductions.** The MO Studio Product Manager will schedule 1:1 meetings with you and team members to get to know each other and with VA leadership as appropriate. 
 4. **Charter.** The MO Studio Scrum Master will schedule team charter sessions as the team grows and evolves. We look forward to including your input as you join the team! 
 5. **Tools Onboarding and Q&A.** The program manager will provide access to the tools to get you started on the program, but we realize some of them may be new to you. In this session, you'll meet with a project team member for Q&A on any tools. 
