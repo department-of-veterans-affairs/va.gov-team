@@ -15,14 +15,13 @@ Our most basic assumptions around the direction of this product feature are:
 
 - Our first-layer API partners (EVSS, BGS) can accept the hypertension flash
 - VA will be able to provide resources to manage uptick in submissions
-- Veterans are used to using tracker and status tools with significantly more information than the current tool
-- The main issues for veterans will be detailed status and some sort of timeframe for their claim/appeal adjudication
+
 
 ## Questions
 1. Develop within VA.gov or separate implementation?      
 
 ## Solution Approach
-Our focus will be to incrememntally update the application (not just low hanging bug fixes) and essentially version the CST. This is more in line with true "agile" development and we believe it will solve a number of potential hurdles. First, we will be able to more easily abosrbe the NCC requests. Trying to work on a new version of the application while also making updates to the existing one is not a smooth overlap of work. Second, we believe this approach will avoid the large "waterfall" effect of design/research leading into the implementation (development) acitivies.
+TBD
 
 ### Expected Work
 Develop a Sidekiq (background job) that runs when a Veteran submits a single-issue claim for hypertension.
