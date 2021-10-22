@@ -1,6 +1,6 @@
 [IN PROGRESS]
 
-## Research Plan - Services Taxonomy
+## Research Plan - Non-Clinical Services Taxonomy
 
 ### Background
 
