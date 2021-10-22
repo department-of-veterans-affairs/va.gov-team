@@ -9,7 +9,7 @@ This is a first draft audit of non-clinical VHA services referenced on VAMC page
 ## Definition of a service
 For purposes of uncovering new and future services, this audit assumes that common Veteran tasks will need to become or be mapped to services in order to be found. Veteran tasks were identified in the “New Services” tab if there wasn’t an obvious, existing service taxon with which it could be associated but a corresponding person or process is offered or required by the VA in order to accomplish it. In other words, I need to do a thing and the VA offers a phone, feature, or person (service) to help me do that thing.
 
-# Findings & Recommendations
+## Findings & Recommendations
 
 1. “Specialty care” category is too long to be scannable or easily browsed. Consider sub-categorizing specialty services into more meaningful, human readable and plain language areas of care and then offer more specificity in a progressive manner instead of one long list of specialty services. e.g. eye care as a sub-specialty, which is a term already used on VA pages.
 
