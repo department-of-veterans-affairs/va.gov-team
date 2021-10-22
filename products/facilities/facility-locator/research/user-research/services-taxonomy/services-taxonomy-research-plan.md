@@ -12,8 +12,6 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ### Research Goals
 
-### Goals
-
 #### Research Questions
 
 ### Methodology
