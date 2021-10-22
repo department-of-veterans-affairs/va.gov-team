@@ -54,15 +54,15 @@ Alright, I want you to pretend that you have an upcoming appointment with your V
 | Participant   | SMS | Pre-check-in workflow | Prototype link (4 total different links) |
 | --------------- |------------ | ------------ | ------------ |
 | 1 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
-| 2 | Dependent upon confirmation | Task (editing contact information and next of kin) |   |
+| 2 | Dependent upon confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm  |
 | 3 | Same time as confirmation | Form (read only contact info and next of kin) |   |
 | 4 | Same time as confirmation | Task (editing contact information and next of kin) |  |
-| 5 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
+| 5 | Dependent upon confirmation | Form (read only contact info and next of kin) |  https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm |
 | 6 | Dependent upon confirmation | Task (editing contact information and next of kin) |   |
 | 7 | Same time as confirmation | Form (read only contact info and next of kin) |  |
 | 8 | Same time as confirmation | Task (editing contact information and next of kin) |  |
 | 9 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
-| 10 | Dependent upon confirmation | Task (editing contact information and next of kin) |  |
+| 10 | Dependent upon confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm |
 | 11 | Same time as confirmation | Form (read only contact info and next of kin) |   |
 | 12 | Same time as confirmation | Task (editing contact information and next of kin) |   |
 
