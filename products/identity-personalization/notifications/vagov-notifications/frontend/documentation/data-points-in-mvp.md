@@ -1,5 +1,7 @@
 # Data point in MVP for Notifications on VA.gov (WIP)
 
+**Including in onsite notifications:**
+
 The notifications that will be included in MVP are:
 
 - Appointments (?)
@@ -9,7 +11,9 @@ The notifications that will be included in MVP are:
 - Board of Veterans' Appeals hearing reminder
 - COVID-19 updates
 - Scheduled payment updates
-- Confirmations
+
+**Not including in onsite notifications:**
+- Confirmations 
   -  Direct deposit information changed confirmation
   -  Contact information changed confirmation
   -  526EZ submission confirmation (disability compensation)
