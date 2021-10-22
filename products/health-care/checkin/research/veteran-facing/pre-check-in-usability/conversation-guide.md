@@ -53,18 +53,18 @@ Alright, I want you to pretend that you have an upcoming appointment with your V
 **Send participant link in chat.**
 | Participant   | SMS | Pre-check-in workflow | Prototype link (4 total different links) |
 | --------------- |------------ | ------------ | ------------ |
-| 1 | Dependent upon confirmation | Form (read only contact info and next of kin) |  https://preview.uxpin.com/349cb3520e4ad95ebfb3e7b5dc0a40a2e582ac64#/pages/143334655?mode=cvhidm |
-| 2 | Dependent upon confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm  |
-| 3 | Same time as confirmation | Form (read only contact info and next of kin) |   |
-| 4 | Same time as confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm |
-| 5 | Dependent upon confirmation | Form (read only contact info and next of kin) |   https://preview.uxpin.com/349cb3520e4ad95ebfb3e7b5dc0a40a2e582ac64#/pages/143334655?mode=cvhidm |
-| 6 | Dependent upon confirmation | Task (editing contact information and next of kin) |  https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm |
-| 7 | Same time as confirmation | Form (read only contact info and next of kin) |  |
-| 8 | Same time as confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm |
-| 9 | Dependent upon confirmation | Form (read only contact info and next of kin) |  https://preview.uxpin.com/349cb3520e4ad95ebfb3e7b5dc0a40a2e582ac64#/pages/143334655?mode=cvhidm |
-| 10 | Dependent upon confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm |
-| 11 | Same time as confirmation | Form (read only contact info and next of kin) |   |
-| 12 | Same time as confirmation | Task (editing contact information and next of kin) |  https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm |
+| 1 | Dependent upon confirmation | Form (read only contact info and next of kin) | [Prototype](https://preview.uxpin.com/349cb3520e4ad95ebfb3e7b5dc0a40a2e582ac64#/pages/143334655?mode=cvhidm) |
+| 2 | Dependent upon confirmation | Task (editing contact information and next of kin) | [Prototype](https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm)  |
+| 3 | Same time as confirmation | Form (read only contact info and next of kin) | [Prototype](https://preview.uxpin.com/db0695958c8549aa6e0f042d1a9d65140917f126#/pages/143335185?mode=cvhidm)  |
+| 4 | Same time as confirmation | Task (editing contact information and next of kin) | [Prototype](https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm) |
+| 5 | Dependent upon confirmation | Form (read only contact info and next of kin) |  [Prototype](https://preview.uxpin.com/349cb3520e4ad95ebfb3e7b5dc0a40a2e582ac64#/pages/143334655?mode=cvhidm) |
+| 6 | Dependent upon confirmation | Task (editing contact information and next of kin) | [Prototype](https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm)  |
+| 7 | Same time as confirmation | Form (read only contact info and next of kin) | [Prototype](https://preview.uxpin.com/db0695958c8549aa6e0f042d1a9d65140917f126#/pages/143335185?mode=cvhidm)  |
+| 8 | Same time as confirmation | Task (editing contact information and next of kin) | [Prototype](https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm) |
+| 9 | Dependent upon confirmation | Form (read only contact info and next of kin) |  [Prototype](https://preview.uxpin.com/349cb3520e4ad95ebfb3e7b5dc0a40a2e582ac64#/pages/143334655?mode=cvhidm) |
+| 10 | Dependent upon confirmation | Task (editing contact information and next of kin) | [Prototype](https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm)  |
+| 11 | Same time as confirmation | Form (read only contact info and next of kin) | [Prototype](https://preview.uxpin.com/db0695958c8549aa6e0f042d1a9d65140917f126#/pages/143335185?mode=cvhidm)  |
+| 12 | Same time as confirmation | Task (editing contact information and next of kin) | [Prototype](https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm) |
 
 ### SMS and first pass through the first pre-check-in workflow
 At this point, I would like you to share your screen, so we can see the text too. Try to complete the task that the SMS is asking you about. I will just observe you as you try to complete it. I'll ask you questions later. Talk-aloud as you complete the task. Share your thoughts.
