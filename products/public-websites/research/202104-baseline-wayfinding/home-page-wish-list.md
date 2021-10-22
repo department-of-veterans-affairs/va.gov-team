@@ -2,7 +2,7 @@
 
 ### Cindy Merrill, VSA Public Websites team, Oct 25, 2021
 
-This is a quick wish list for the VA.gov home page derived from recent user research findings.
+This is a quick wish list for the VA.gov home page derived from recent user research findings.  
 
 ## Support Browsing
 Wish List Item | Usability Justification
