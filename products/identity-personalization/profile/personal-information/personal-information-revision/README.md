@@ -1,6 +1,7 @@
-# Project outline: Adding preferred name, pronouns, gender identity, and sexual orientation to the VA.gov profile
+# Project outline: Profile Personal Information Revision
 
-Last updated October 7, 2021
+
+Last updated October 22, 2021
 
 ### Communications
 
@@ -34,7 +35,7 @@ Last updated October 7, 2021
 
 ## Overview
 
-In June 2021, VEO came to VA.gov to talk about integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile. The LGBTQ Health Services office is trying to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information. 
+In June 2021, VEO came to VA.gov to talk about integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile. The LGBTQ Health Services office is trying to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information.  
 
 ## Problem Statement
 
