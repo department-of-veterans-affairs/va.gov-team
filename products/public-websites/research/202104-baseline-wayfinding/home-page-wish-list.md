@@ -7,10 +7,10 @@ This is a quick wish list for the VA.gov home page derived from recent user rese
 ## Support Browsing
 Wish List Item | Usability Justification
 ---------------|----------
-Content customized for me | Some links are always irrelevant for some Veterans (e.g., if I have VA health care, never need to see the "Apply for VA health care" link)
-Veteran-focused task-oriented links to content | Most Veterans look first at the links in the current "top 4" boxes), but some common tasks aren't there (e.g., Appoint representative, Travel pay reimbursement, Update direct deposit, Update dependents). Some tasks have low use per analytics and could maybe be removed.
-Visually prominent link to *more* task-oriented links | Users get stuck when their current task isn't listed 
-Visually prominent links to content by topic (e.g., Education, Disability, Health care, Records, Profile, Family members) | Users want to browse by topic and many don't notice the VA Benefits and Health Care megamenu or scroll down far enough to see the topics below the row of pictures
+Content customized for me | Some links are always irrelevant for some Veterans (e.g., someone who has VA health care never needs to see the "Apply for VA health care" link)
+Veteran-focused task-oriented links to content | Most Veterans look first at the links in the current "top 4" boxes, but some common tasks aren't there (e.g., Appoint representative, Travel pay reimbursement, Update direct deposit, Update dependents). Some tasks have low usage per analytics and could maybe be removed.
+Visually prominent link to *more* task-oriented links | Many Veterans get stuck when their current task isn't listed in the "top 4" boxes
+Visually prominent links to content by topic (e.g., Education, Disability, Health care, Records, Profile, Family members) | Many Veterans want to browse by topic and many don't notice the VA Benefits and Health Care megamenu or scroll down far enough to see the topics below the row of pictures
  
 ## Support Searching
 Wish List Item | Usability Justification
@@ -34,3 +34,4 @@ Increase font size of links to 19px | This is the current best practice for acco
 ## References
 - [Search Design Concepts Research (Sept 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) 
 - [Baseline Wayfinding Research (May 2021) Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/recommendations-summary-for-VA-sitewide-crew.pdf) and [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf)
+- [Top 4 boxes analytics visualization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/Top4-boxes-analytics-visualization.pdf)
