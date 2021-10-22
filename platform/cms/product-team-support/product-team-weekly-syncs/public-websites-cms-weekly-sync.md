@@ -39,7 +39,7 @@
 ## October 27 
 
 CMS Product support roadmap for Q4
-
+Virtual agent team support
 
 
 ## October 20
