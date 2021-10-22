@@ -4,6 +4,8 @@
 
 ### Background
 
+Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31626)
+
 ### Research Goals
 
 #### Previous Research
