@@ -22,27 +22,27 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
     - Workshops and classes
     - Veteran connections
 - *How do Veterans expect to find the following existing (non-clinical) services? (name and heading)*
-<details>
-<summary>List of non-clinical services</summary>
-    
-    - Social work (is this a service or a category of services?)
-    - Wheelchairs and mobility
-    - Pharmacy
-    - Medical records
-    - Laboratory and pathology
-    - Coordinators and advocates (i.e. My HealtheVet coordinator, Patient advocates)
-    - Telehealth
-    - Travel reimbursement
-    - Vocational rehabilitation and employment programs
-    - Women Veteran care
-    - Hearing aid batteries and accessories
-    - Billing and insurance
-    - Admissions/Patient registration
-    - Chaplain
-    - Advice nurse
-    - Grief and bereavement counseling
-    
-</details>
+    <details>
+    <summary>List of non-clinical services</summary>
+
+        - Social work (is this a service or a category of services?)
+        - Wheelchairs and mobility
+        - Pharmacy
+        - Medical records
+        - Laboratory and pathology
+        - Coordinators and advocates (i.e. My HealtheVet coordinator, Patient advocates)
+        - Telehealth
+        - Travel reimbursement
+        - Vocational rehabilitation and employment programs
+        - Women Veteran care
+        - Hearing aid batteries and accessories
+        - Billing and insurance
+        - Admissions/Patient registration
+        - Chaplain
+        - Advice nurse
+        - Grief and bereavement counseling
+
+    </details>
   
 ### Methodology
 
