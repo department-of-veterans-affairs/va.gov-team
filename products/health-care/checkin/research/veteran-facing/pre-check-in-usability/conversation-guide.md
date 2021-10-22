@@ -109,7 +109,7 @@ Now, I'm going to have you go back through pre-check-in again. This time I'll as
 
 If edit prototype,
 - Updating your information here affects what?
-- Pretend that you moved, so you need to update your Home address. How would you do that?
+- Pretend that you moved, so you need to update your Mailing address. How would you do that?
   - What are your thoughts on having to fully sign into VA.gov, in order to update your contact information?
   - On the modal page,
     - What are your thoughts about what this page is showing you?
