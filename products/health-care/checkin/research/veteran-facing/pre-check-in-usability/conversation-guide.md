@@ -56,15 +56,15 @@ Alright, I want you to pretend that you have an upcoming appointment with your V
 | 1 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
 | 2 | Dependent upon confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm  |
 | 3 | Same time as confirmation | Form (read only contact info and next of kin) |   |
-| 4 | Same time as confirmation | Task (editing contact information and next of kin) |  |
+| 4 | Same time as confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm |
 | 5 | Dependent upon confirmation | Form (read only contact info and next of kin) |  https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm |
 | 6 | Dependent upon confirmation | Task (editing contact information and next of kin) |   |
 | 7 | Same time as confirmation | Form (read only contact info and next of kin) |  |
-| 8 | Same time as confirmation | Task (editing contact information and next of kin) |  |
+| 8 | Same time as confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm |
 | 9 | Dependent upon confirmation | Form (read only contact info and next of kin) |   |
 | 10 | Dependent upon confirmation | Task (editing contact information and next of kin) | https://preview.uxpin.com/ddb0d29ef4fa383dc4f8573190751a051667dac8#/pages/143329137?mode=cvhidm |
 | 11 | Same time as confirmation | Form (read only contact info and next of kin) |   |
-| 12 | Same time as confirmation | Task (editing contact information and next of kin) |   |
+| 12 | Same time as confirmation | Task (editing contact information and next of kin) |  https://preview.uxpin.com/8237efbe0b21a0b548dc24db91883119f8a76f62#/pages/143334385?mode=cvhidm |
 
 ### SMS and first pass through the first pre-check-in workflow
 At this point, I would like you to share your screen, so we can see the text too. Try to complete the task that the SMS is asking you about. I will just observe you as you try to complete it. I'll ask you questions later. Talk-aloud as you complete the task. Share your thoughts.
