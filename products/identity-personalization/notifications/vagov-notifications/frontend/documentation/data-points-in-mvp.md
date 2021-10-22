@@ -1,6 +1,7 @@
 # Data point in MVP for Notifications on VA.gov (WIP)
 
 **Including in onsite notifications:**
+(?) - need to double check with VA notify
 
 The notifications that will be included in MVP are:
 
