@@ -5,12 +5,20 @@
 This is a quick wish list for the VA.gov home page derived from recent user research findings.
 
 ## Support Browsing
-1. Content customized for me (e.g., no "Apply for VA health care" link if I already have it)
-1. Veteran-focused task-oriented links to content (as in the current "top 4" boxes, which work well)
+Wish List Item | Usability Justification
+---------------|----------
+Content customized for me | Some links are always irrelevant for some Veterans (e.g., if I have VA health care, never need to see the "Apply for VA health care" link)
+Veteran-focused task-oriented links to content | Most Veterans look first at the links in the current "top 4" boxes), but some common tasks aren't there (e.g., Appoint representative, Travel pay reimbursement, Update direct deposit, Update dependents). Some tasks have low use per analytics and could maybe be removed.
+Visually prominent link to *more* task-oriented links | Users get stuck when their current task isn't listed 
+Visually prominent links to content by topic (e.g., Education, Disability, Health care, Records, Profile, Family members) | Users want to browse by topic and many don't notice the VA Benefits and Health Care megamenu or scroll down far enough to see the topics below the row of pictures
+ 
+## Support Browsing
+4. Content customized for me (e.g., no "Apply for VA health care" link if I already have it)
+5. Veteran-focused task-oriented links to content (as in the current "top 4" boxes, which work well)
     1. New links for common currently difficult tasks (e.g., Appoint representative, Travel pay reimbursement, Update direct deposit, Update dependents)
     1. Fewer low-use links (per analytics)  
-1. Visually prominent link to *more* task-oriented links
-1. Visually prominent links to content by topic (e.g., Education, Disability, Health care, Records, Profile, Family members)
+6. Visually prominent link to *more* task-oriented links
+7. Visually prominent links to content by topic (e.g., Education, Disability, Health care, Records, Profile, Family members)
 
 ## Support Searching
 5. Visually prominent Search box, preferably full width so can see entire search query 
