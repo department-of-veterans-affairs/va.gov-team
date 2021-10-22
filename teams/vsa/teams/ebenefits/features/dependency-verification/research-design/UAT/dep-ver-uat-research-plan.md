@@ -22,10 +22,10 @@ By allowing veterans to verify their dependents online, instead of submitting a 
 Veterans are likely to be impacted during the "Putting down roots" and "Aging" life journeys. While putting down roots, veterans are likely to have additional dependents that qualify for benefits, including a spouse or children. As they age, veterans may lose benefits for dependents through aging out, divorce, or death.
 
 ## Research Goals	
-This is a User Acceptance Test, so we are primarliy interested in ensuring the feature works as expected, including:
+This is a User Acceptance Test, so we are primarily interested in ensuring the feature works as expected, including:
 - Confirm the modal appears as expected
 - Confirm the user's dependents appear correctly within the modal
-- Confirm the confirmation message appears when the user verifies their depenendents.
+- Confirm the confirmation message appears when the user verifies their dependents.
 
 ### Outcome
 If UAT is successful, the product will proceed to launch. If not, the team will investigate why the features do not work as expected. 
@@ -33,7 +33,7 @@ If UAT is successful, the product will proceed to launch. If not, the team will 
 ### Research questions
 1. Does the "Verify Dependents" modal appear?
 2. Do the correct dependents appear in the modal?
-3. Does the confirmation message appear after the user verifies their depenedents?
+3. Does the confirmation message appear after the user verifies their dependents?
 
 ### Hypothesis
 
@@ -98,7 +98,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Moderator:	Candy Clark | [candy.clark@gcio.com](mailto:candy.clark@gcio.com] | 614-507-4270
 - Research guide writing and task development (usually but not always same as moderator):	Candy Clark | [candy.clark@gcio.com](mailto:candy.clark@gcio.com]
 - Participant recruiting & screening:	
-- Project point of contact:	jason.wolf@gcio.com -- eBenefits product manager
+- Project point of contact: jason.wolf@gcio.com -- eBenefits product manager
 - Note-takers:	
 - Observers:	
     - James Adams | james.adams@gcio.com -- eBenefits Researcher/Designer, UX manager
@@ -110,4 +110,3 @@ Please list the people who will be serving in each role. **Include the primary p
     - Sabrina Mohamed | sabrina.mohamed@va.gov -- Product Co-Owner
     - Matt Self | matt.self2@va.gov -- Product Co-Owner
     - Shawna Hein | shawna@adhocteam.us -- UX manager
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
