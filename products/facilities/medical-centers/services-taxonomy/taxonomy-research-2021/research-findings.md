@@ -34,6 +34,7 @@ For purposes of uncovering new and future services, this audit assumes that comm
    - “Social work” - research is needed to understand who is offering this service and what it is. Veterans who may be comfortable with the term "Social worker" may benefit from cross promotion with mental "health care".  Social work could become “social worker” to be grouped under a "people could can help me" type of category.
    - “Advice nurse”
    - “Community engagement”. Hypothesis is that it should morph or merge with “Events and outreach” as a more useful-to-Veterans service.
+   - "HIV/hepatitis care" is a current taxon. "Hepatitis C screening and treatment" is offered by Pittsburgh Health care system. Is this a separate service? Should HIV and Hepatitis be divided into distinct care services?
    - “Hospital Medicine” not self explanatory. 
    - "Whole health" seems more appropriate as a category than a service. See [previous taxonomy research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study/research-findings.md)
    - Women Veteran care - should this be a category instead of a service?
