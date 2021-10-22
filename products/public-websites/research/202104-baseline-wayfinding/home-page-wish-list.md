@@ -32,6 +32,6 @@ Increase font size of links to 19px | This is the current best practice to accom
 
 
 ## References
-- [Search Design Concepts Research (Sept 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) 
-- [Baseline Wayfinding Research (May 2021) Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/recommendations-summary-for-VA-sitewide-crew.pdf) and [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf)
+- [Search Design Concepts Research Report (Sept 2021)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md) 
+- [Baseline Wayfinding Research (May 2021) Recommendations Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/recommendations-summary-for-VA-sitewide-crew.pdf) and [Findings Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf)
 - [Top 4 boxes analytics visualization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/Top4-boxes-analytics-visualization.pdf)
