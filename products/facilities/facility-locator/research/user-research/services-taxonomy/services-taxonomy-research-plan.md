@@ -14,3 +14,6 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ### Methodology
 
+(Possible methods)
+- Card sort
+- Tree test 
