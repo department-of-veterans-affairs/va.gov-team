@@ -1,0 +1,440 @@
+openapi: '3.0.2'
+info:
+  title: VA.gov Content API
+  version: '1.0'
+servers:
+  - url: https://cms-tjbeixkzi81nzxfummlz5euagx3aazdk.ci.cms.va.gov/
+paths:
+  /banner-alerts:
+    get:
+      operationId: getBannersByPage
+      parameters:
+        - name: path
+          in: query
+          description: Get the banners for a page.
+          required: false
+          schema:
+            type: string
+        - $ref: '#/components/parameters/filter'
+        - $ref: '#/components/parameters/sort'
+        - $ref: '#/components/parameters/page'
+      responses:
+        '200':
+          description: Get Ganners for a Page.
+          content:
+            application/json:
+              schema:
+                type: object
+                required:
+                  - jsonapi
+                  - data
+                  - links
+                properties:
+                  jsonapi:
+                    $ref: '#/components/schemas/metadata'
+                  data:
+                    type: array
+                    items:
+                      oneOf:
+                      - $ref: '#/components/schemas/BannerAlert'
+                      - $ref: '#/components/schemas/FacilityBannerAlert'
+                  meta:
+                    $ref: '#/components/schemas/list_meta'
+                  links:
+                    $ref: '#/components/schemas/meta_links'
+
+  /resources:
+    get:
+      operationId: getResources
+      parameters:
+        - name: search
+          in: query
+          description: Search term.
+          schema:
+            type: string
+        - $ref: '#/components/parameters/filter'
+        - $ref: '#/components/parameters/sort'
+        - $ref: '#/components/parameters/page'
+
+      responses:
+        '200':
+          description: Get All Resources
+          content:
+            applicaion/json:
+              schema:
+                type: object
+                required:
+                  - jsonapi
+                  - data
+                  - links
+                properties:
+                  jsonapi:
+                    $ref: '#/components/schemas/metadata'
+                  data:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/QA'
+                  meta:
+                    $ref: '#/components/schemas/list_meta'
+                  links:
+                    $ref: '#/components/schemas/meta_links'
+
+  /resoruces/tag/{tag}:
+    get:
+      operationId: getResourcesByTag
+      parameters:
+        - name: tag
+          in: path
+          required: true
+          description: The tag to search by.
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Get All Resources
+          content:
+            applicaion/json:
+              schema:
+                type: object
+                required:
+                  - jsonapi
+                  - data
+                  - links
+                properties:
+                  jsonapi:
+                    $ref: '#/components/schemas/metadata'
+                  data:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/QA'
+                  meta:
+                    $ref: '#/components/schemas/list_meta'
+                  links:
+                    $ref: '#/components/schemas/meta_links'
+  /resources/qa:
+    get:
+      operationId: getQandA
+      parameters:
+        - name: path
+          in: query
+          description: URL for the Q&A page
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Get a signle Q&A Page
+          content:
+            application/json:
+              schema:
+                type: object
+                required:
+                  - jsonapi
+                  - data
+                  - links
+                properties:
+                  jsonapi:
+                    $ref: '#/components/schemas/metadata'
+                  data:
+                    $ref: '#/components/schemas/QA'
+                  links:
+                    $ref: '#/components/schemas/meta_links'
+
+components:
+  parameters:
+    filter:
+      name: filter
+      description: "The JSON:API module has some of the most robust and feature-rich filtering features around. All of that power comes with a bit of a learning curve though. <a href=\"https://www.drupal.org/docs/8/modules/jsonapi/filtering\">Learn more in the documentation</a>."
+      in: query
+      required: false
+      style: form
+      explode: false
+      schema:
+        type: array
+        items:
+          type: object
+    sort:
+      name: sort
+      description: "The JSON:API module allows you to sort collections based on properties in the resource or in nested resources. <a href=\"https://www.drupal.org/docs/8/modules/jsonapi/sorting\">Learn more in the documentation</a>."
+      in: query
+      required: false
+      style: form
+      explode: false
+      schema:
+        type: array
+        items:
+          type: object
+    page:
+      name: page
+      in: query
+      required: false
+      style: form
+      explode: false
+      description: "Pagination can be a deceptively complex topic. It's easy to fall into traps and not follow best-practices. <a href=\"https://www.drupal.org/docs/8/modules/jsonapi/pagination\">Learn more in the documentation</a>."
+      schema:
+        type: array
+        items:
+          type: object
+          properties:
+            offset:
+              type: integer
+              format: int32
+            limit:
+              type: integer
+              format: int32
+  schemas:
+    list_meta:
+      type: object
+      required:
+        - count
+      properties:
+        count:
+          type: integer
+          format: int64
+    metadata:
+      type: object
+      description: The metadata object in all requests
+      required:
+        - version
+        - meta
+      properties:
+        version:
+          type: string
+          description: The version of the JSON:API spec
+        meta:
+          type: object
+          properties:
+            links:
+              $ref: '#/components/schemas/meta_links'
+    meta_links:
+      type: object
+      required:
+        - self
+      properties:
+        self:
+          type: object
+          description: The Current path.
+          properties:
+            href:
+              type: string
+        next:
+          type: object
+          description: The next page.
+          properties:
+            href:
+              type: string
+        last:
+          type: object
+          description: The last page.
+          properties:
+            href:
+              type: string
+        prev:
+          type: object
+          description: The previous page.
+          properties:
+            href:
+              type: string
+        first:
+          type: object
+          description: The first page.
+          properties:
+            href:
+              type: string
+    QA:
+      type: object
+      required:
+      - nid
+      - uuid
+      - langcode
+      - status
+      - title
+      - moderation_state
+      - path
+      - bundle
+      properties:
+        nid:
+          type: integer
+          format: int64
+          description: Internal Drupal Node ID
+        uuid:
+          type: string
+          description: Universal Unique Identifier.
+        langcode:
+          type: string
+          description: Language Code of content
+        status:
+          type: boolean
+          description: Is the node Published
+        bundle:
+          type: string
+          description: The name of the Bundle.
+        title:
+          type: string
+        moderation_state:
+          type: string
+          enum:
+            - draft
+            - review
+            - approved
+            - published
+            - archived
+        path:
+          type: string
+          description: The path to the content
+        section_name:
+          type: string
+          description: The Section from the Section Vocabulary
+        answer_text:
+          type: string
+          description: The output from the WYSIWGY field
+        alert_heading:
+          type: string
+          description: The heading of the alert
+        alert_text:
+          type: string
+          description: The Text to use as the alert.
+        alert_expanded:
+          type: boolean
+          description: Is this alert expandable.
+        alert_expanded_title:
+          type: string
+          description: The title for the expandable alert
+        alert_type:
+          type: string
+          description: The type of alert
+          enum:
+            - "information"
+            - "warning"
+        links:
+          type: array
+          items:
+            $ref: '#/components/schemas/link'
+        tags:
+          type: array
+          description: Array of tag names
+          items:
+            type: string
+            description: Tag Name
+        related_links:
+          type: array
+          items:
+            $ref: '#/components/schemas/link'
+        benefit_hub_links:
+          type: array
+          items:
+            $ref: '#/components/schemas/link'
+        primary_category:
+          $ref: '#/components/schemas/link'
+        other_categoreis:
+          type: array
+          items:
+            $ref: '#/components/schemas/link'
+        banner_alerts:
+          description: Banner Alerts to show with the Q&A Page.
+          type: array
+          items:
+            $ref: '#/components/schemas/BannerAlert'
+
+    link:
+      type: object
+      required:
+        - text
+        - url
+      properties:
+        text:
+          type: string
+          description: The label of the link
+        url:
+          type: string
+          description: The url for the link
+        teaser:
+          type: string
+          description: The teaser for the link
+    BannerAlert:
+      type: object
+      required:
+      - nid
+      - uuid
+      - langcode
+      - status
+      - title
+      - moderation_state
+      - bundle
+      - paths
+      - alert_type
+      description: A Base object for banners.
+      properties:
+        nid:
+          type: integer
+          format: int64
+          description: Internal Drupal Node ID
+        uuid:
+          type: string
+          description: Universal Unique Identifier.
+        langcode:
+          type: string
+          description: Language Code of content
+        status:
+          type: boolean
+          description: Is the node Published
+        bundle:
+          type: string
+          description: The name of the Bundle.
+        heading:
+          type: string
+        moderation_state:
+          type: string
+          enum:
+            - draft
+            - review
+            - approved
+            - published
+            - archived
+        alert_type:
+          type: string
+          enum:
+            - information
+            - warning
+        text:
+          type: string
+          description: HTML output from WYSIWYG
+        dismissable:
+          type: boolean
+          description: Can users dismiss the alert.
+        section_name:
+          type: string
+          description: The section.
+        paths:
+          type: array
+          description: Paths to display the alert
+          items:
+            type: string
+    FacilityBannerAlert:
+      allOf:
+      - $ref: '#/components/schemas/BannerAlert'
+      - type: object
+        description: Facility Banner ALert
+        properties:
+          situational_info:
+            type: string
+            description: Any information that is additional to any time-sensitive situation updates.
+          show_find_facilities_cta:
+            type: boolean
+            description: Display "Find other VA facilities near you" link?
+          show_operating_status_cta:
+            type: boolean
+            description: Display "Get updates on affected services and facilities" link
+          show_email_update_button:
+            type: boolean
+            description: Display "Subscribe to email updates" link?
+          limit_subpages:
+            type: boolean
+            description: Limit banner display to the home and the Operating Status page(s)
+          send_email_updates:
+            type: boolean
+            description: Send email update on this situation
+          situation_updates:
+            type: array
+            items:
+              type: string
