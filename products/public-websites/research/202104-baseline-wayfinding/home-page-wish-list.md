@@ -2,21 +2,27 @@
 
 ### Cindy Merrill, VSA Public Websites team, Oct 22, 2021
 
-This is a quick wish list for the VA.gov home page.
+This is a quick wish list for the VA.gov home page derived from recent user research findings.
 
-1. Veteran task oriented links to content (as in the current "top 4" boxes)
+## Support Browsing
+1. Veteran-focused task-oriented links to content (as in the current "top 4" boxes, which work well)
     1. New links for difficult tasks (e.g., Appoint representative, Travel pay reimbursement, Update direct deposit, Update dependents)
-    2. Remove low-use links (per analytics)  
-3. Visually prominent link to more task-oriented links
-4. Visually prominent links to content by topic (e.g., Education, Disability, Health care, Records, Profile, Family members)
-5. Visually prominent Search box (full width so can see your entire search query) 
-6. Search box coded as a landmark role to make it easier to find while using a screen reader
-7. Search box searches ALL content on VA.gov (including VA forms and Resources & Support) with **most relevant results at the top**
-8. Row of photos is at the actual bottom of the page, where it's OK for Veterans stop scrolling
-9. Footer is designed with specific uses in mind (e.g., Contact us, Careers, etc.), rather than a catch-all for links that should go on the main part of the page but haven't been incorporated into the design yet (e.g., VA forms, Resources and support, VA outreach events, language assistance).
-10. Any banners at the top of the page take up minimal real estate so can always see what's below on the page without scrolling, even on mobile
-11. Any banners at the top of the page are relevant (not: "Natural disaster affecting your area" for everyone)
-12. Increase font size of links to 19px (current best practice for older users)
+    1. Fewer low-use links (per analytics)  
+1. Visually prominent link to *more* task-oriented links
+1. Visually prominent links to content by topic (e.g., Education, Disability, Health care, Records, Profile, Family members)
+
+## Support Searching
+4. Visually prominent Search box (full width so visually prominent and can see your entire search query) 
+1. Search box searches ALL content on VA.gov (including VA forms and Resources & Support) with **most relevant results at the top**
+1. Search box coded as a landmark role to make it easier to find while using a screen reader
+
+
+## Intuitive Layout and Usability
+7. Row of photos is at the actual bottom of the page, where you stop scrolling
+1. Footer is designed with specific uses in mind (e.g., Contact us, Careers, etc.), rather than a catch-all for links that should go on the main part of the page but haven't been incorporated into the design yet (e.g., VA forms, Resources and support, VA outreach events, language assistance).
+1. Any banners at the top of the page take up minimal real estate so can always see what's below on the page without scrolling, even on mobile
+1. Any banners at the top of the page are relevant (not: "Natural disaster affecting your area" for everyone)
+1. Increase font size of links to 19px (current best practice for older users)
 
 
 ## References
