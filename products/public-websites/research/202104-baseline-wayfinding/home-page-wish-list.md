@@ -28,7 +28,7 @@ Row of photos is at the actual bottom of the page, where you stop scrolling | Ma
 Footer is designed with specific uses in mind (e.g., Contact us, Careers, etc.) | Because many users never see the footer, they miss some useful links placed there perhaps because they haven't been incorporated into the main part of the page design yet (e.g., VA forms, Resources and support, VA outreach events, language assistance).
 Any banners at the top of the page take up minimal real estate so can always see what's below on the page without scrolling, even on mobile | Current banners take up the entire mobile screen and at least half of desktop screens
 Any banners at the top of the page are relevant to many Veterans| Current "Natural disaster affecting your area" that everyone sees doesn't apply to anyone most of the time)
-Increase font size of links to 19px | This is the current best practice for older users, of which we have many (including the research participant who couldn't read our 16px links)
+Increase font size of links to 19px | This is the current best practice for accommodating older users, of which we have many (including the research participant who couldn't read our 16px links)
 
 
 ## References
