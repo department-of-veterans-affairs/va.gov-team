@@ -57,7 +57,8 @@ For purposes of uncovering new and future services, this audit assumes that comm
 
 
 7. The following services have been flagged for further research for PLAIN LANGUAGE:
-   - “Pharmacy” needs to add plain language actions that have been co opted by MyHealtheVet such as those used on HP & VAMC: "Refill and track your prescriptions"
+   -  "Nephrology" - On VAMC pages some list a number for Kidney disease / dialysis, which is more patient friendly.
+   -  “Pharmacy” needs to add plain language actions that have been co opted by MyHealtheVet such as those used on HP & VAMC: "Refill and track your prescriptions"
 
 ## Appendix
 
