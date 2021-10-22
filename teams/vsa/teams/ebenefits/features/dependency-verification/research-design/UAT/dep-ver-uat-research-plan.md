@@ -95,7 +95,7 @@ Please request enough dates and time slots for the number of requested participa
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	Candy Clark | [candy.clark@gcio.com](mailto:candy.clark@gcio.com] | 614-507-4270
+- Moderator:	Candy Clark | candy.clark@gcio.com | 614-507-4270
 - Research guide writing and task development (usually but not always same as moderator):	Candy Clark | [candy.clark@gcio.com](mailto:candy.clark@gcio.com]
 - Participant recruiting & screening:	
 - Project point of contact: jason.wolf@gcio.com -- eBenefits product manager
