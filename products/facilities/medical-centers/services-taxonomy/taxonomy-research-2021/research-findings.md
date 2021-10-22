@@ -35,7 +35,7 @@ For purposes of uncovering new and future services, this audit assumes that comm
    - “Advice nurse”
    - “Community engagement”. Hypothesis is that it should morph or merge with “Events and outreach” as a more useful-to-Veterans service.
    - “Hospital Medicine” not self explanatory. 
-   - "Whole health" seems more appropriate as a category than a service. See previous taxonomy research. https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study/research-findings.md
+   - "Whole health" seems more appropriate as a category than a service. See [previous taxonomy research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study/research-findings.md)
    - Women Veteran care - should this be a category instead of a service?
    - COVID-19 vaccines - should this become a more generic “vaccines” under primary care?
 
