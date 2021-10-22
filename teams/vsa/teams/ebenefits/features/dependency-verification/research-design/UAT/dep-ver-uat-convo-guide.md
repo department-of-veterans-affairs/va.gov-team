@@ -44,7 +44,7 @@ OK, a question or two about your computer and browser.
 
 OK, please share your screen, and we'll get started.
 
-## UAT testing of direct deposit for EDU
+## UAT testing of dependency verification modal
 
 - Please open a new tab in your browser, go to [VA.gov]("https://www.va.gov/").
 - To view this feature, you'll need to log in. Click on the blue button at the top right (Sign in).
