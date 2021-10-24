@@ -6,9 +6,9 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
 <details>
 <summary></summary>
   
-- [Use Case A - Homeless](#use-case-a) 
-- [Use Case B - Representative contact-info](#use-case-b)
-- [Use Case C](#use-case-c) 
+- [Use Case A - Homeless](#use-case-a---homeless)
+- [Use Case B - Representative contact-info](#use-case-b---representative-contact-info)
+- [Use Case C](#use-case-c)
 
 </details>
 
