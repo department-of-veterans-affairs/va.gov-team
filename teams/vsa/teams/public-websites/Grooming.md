@@ -27,6 +27,28 @@ None
 
 </details>
 
+## Friday, October 27, 2021 
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+### Backlog Tickets:
+
+- [ ] [508-defect-2, SCREENREADER] HTML should use meaningful landmarks [#31556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31556)
+
+### Future Work Grooming: 
+Promo Banner Migration work: Starting thinking about this approach (Timing)
+
+
+### Clarity Requests: 
+- @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
+
+### Dad Joke: Why do you never see elephants hiding in trees? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+<details><summary>Past Grooming Sessions</summary>
+
 ## Friday, October 18, 2021 
 
 ### Key Grooming Factors:
@@ -57,11 +79,7 @@ Outreach & Events --> Use Cases and Flows / Questions Check:  (Schedule a review
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
-### Dad Joke: Why do you never see elephants hiding in trees? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
-
-<details><summary>Past Grooming Sessions</summary>
-
-
+### Dad Joke: Why do you never see elephants hiding in trees? 
 ## Friday, October 1, 2021 
 
 ### Key Grooming Factors:
