@@ -22,6 +22,7 @@ The DGIB team has approached our team with some ideas of what could be on the My
 - When should we surface the data we have access to?
 - What works currently?
 - What triggers this section on the dashboard?
+- What is the process like to check eligibiity?
 
 ## Analytics review
 
@@ -51,7 +52,10 @@ The rest of the links are for specific applications within the education benefit
 
 ### Takeaways from Analytics
 
+- Payment history 
+- Comparison tool
+- Chapter 33 benefits page/status
 
-How to apply is #1 - we already have this on My VA 
+## Research review
 
 
