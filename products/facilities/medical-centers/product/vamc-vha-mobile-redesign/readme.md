@@ -1,1 +1,25 @@
 
+# Mobile clinic / MMU 
+
+## [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/initiative-brief.md)
+
+## Discovery
+
+### Phase 1 
+
+To understand how mobile clinics are being used across the country, so that we accurately represent them on VA.gov facility web pages.
+ - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/research-findings.md)
+
+     - [Session notes](https://docs.google.com/document/d/1HmL0sVDIzFQ2pLO7yochHyLy2p1GKyS0nWGeJw0UlqY/edit?usp=sharing)
+     - [Discovery prep board in Mural](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/MMU-Discovery-Phase-1.pdf) - Choosing which facilities across VISNs to include in discovery
+     - [Notes on PAO outreach and communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/stakeholder-interview-plan.md)
+
+## Design
+
+### Phase 2
+
+#### [Final design in UXPin](https://preview.uxpin.com/20fd05cf8e86ce628f0c813166424d0a6ca38bfd#/pages/142019860/documentation/sitemap)
+ - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery-round-2/research-findings.md) The final design is the MVP solution, "smallest slice", that unblocks health systems to publish mobile clinic facility pages with multiple schedules but does not address all the use cases uncovered in discovery as detailed in this document.
+
+     - [Round 2 - Mural exploration of design solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/MMU-Discovery-Phase-3.pdf)
+     - [Synthesis board in Mural with MMU/Mobile uses cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/MMU-Discovery-Phase-2.pdf) - Collection of MMU use cases from interviews with PAOs, emergency management and clinical staff. On the right side of the Mural, is Round 1 - Mural exploration of design solutions
