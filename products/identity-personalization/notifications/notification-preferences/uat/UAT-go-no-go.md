@@ -7,16 +7,16 @@
 - Answer: 
 
 **Liz: Are the research plan and conversation guide for UAT complete?**
-- Answer: 
+- Answer: Yes
 
 **Liz: Are you prepared to run UAT sessions as early as two weeks from now?**
-- Answer: 
+- Answer: Yes
 
 **Erik and Liz: Are all launch-blocking accessibility issues fixed?**
-- Answer: 
+- Answer: Afaik, yes (Liz)
 
 **All: Have you all reviewed the tool in staging and confirmed that it works as expected?**
-- Answer: 
+- Answer: Yes (Liz)
 
 **Erik: Are you prepared to manage giving UAT participants access to the Notification Preferences feature in production?**
 - Answer: 
@@ -25,4 +25,4 @@
 - Answer: 
 
 **All: Does anyone have any concerns that would prevent us from moving forward with schedule UAT?**
-- Answer: 
+- Answer: No (Liz)
