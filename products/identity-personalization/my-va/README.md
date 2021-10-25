@@ -169,7 +169,7 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 |Search rank for "disability rating” from My VA| #4|#24|TBD|
 |Search rank for "rating” from My VA| #7|#25|TBD|
 |Search rank for "disability” from My VA| #8|#39|TBD|
-|Search rank for "claim” from My VA| #17|#88|TBD|
+|Search rank for "claim” or "claims" from My VA| #17|#32|TBD|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
