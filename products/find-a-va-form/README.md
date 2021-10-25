@@ -15,7 +15,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [Problem Statement](#problem-statement)
     - [KPIs](#kpis)
     - [Go To Market Strategy](#Go-to-market-Strategy)
-- [Launch Dates](#launch-dates)
+- [MVP and Enhancements](#mvp-and-enhancements)
     - [Find a VA Form PDF Download Instructions ](#find-a-va-form-pdf-download-instructions)
     - [PDF Download Research Study](#pdf-download-research-study)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
@@ -151,7 +151,39 @@ Engagement
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
-## Launch Dates
+## MVP and Enhancements
+
+### Content Catch Up & Clean Up
+- Go-live: TBD
+- GitHub Epic: 
+- Adding description, metadata, related forms content to forms that were not considered high-priority during the MVP, but receive >200 downloads per month
+- Started in March, 2021
+- John Hashimoto was working with Content team and VA stakeholders to get content approved and entered into CMS
+- Content updates were divided into three batches, each of which was reviewed and edited by the Content team.
+- Content was then sent to VA stakeholders to be reviewed and updated if needed
+- Final touches would be put on by Content
+- John Hashimoto would enter updates into Drupal content management system and publish
+- Most of the activity was tracked in the [Content request on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22726)
+- Status as of October 25, 2021:
+   - [Batch 1](https://github.com/department-of-veterans-affairs/va.gov-team/files/6400288/VA.gov_Find_a_Form_Content_Batch-1_VBA.docx)
+      - Batch 1 first draft was provided by Content on Jun 7
+      - Batch 1 was [reviewed by VA stakeholders and feedback received Jul 2, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24880#issuecomment-881525086)
+      - Content team made final adjustments and provided to John Hashimoto on Jul 13, 2021
+      - Batch 1 was sent to VBA for final review on Jul 13, 2021
+      - Tweaks were received from VBA on Jul 20, 2021
+      - Final Content touches were made on July 27, 2021
+      - Content was added to CMS on July 30, 2021
+      - [Changes were confirmed on Aug 3, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/24880#issuecomment-891982422)
+   - [Batch 2](https://github.com/department-of-veterans-affairs/va.gov-team/files/6400291/VA.gov_Find_a_Form_Content_Batch.2_VHA.docx)
+      - [Batch 2 draft ready for VA review was provided by Content on Jun 19, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22726#issuecomment-879354958)
+      - Batch 2 was sent to Janel Keyes at VA on July 19, 2021
+      - John Hashimoto's last day was Aug 6, 2021
+
+   - [Batch 3](https://github.com/department-of-veterans-affairs/va.gov-team/files/6400294/VA.gov_FaF_Content_Update_Batch-3_VBA.docx)
+     - Batch 3 was reveiwed and edited by Content - [copy was received on Oct 20, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22726#issuecomment-947757189)
+     - Batch 3 has not been sent to the VA Stakeholders for review & updates
+
+
 ### Find a VA Form PDF Download Instructions 
 - Go-live: Nov 2021
 - [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26816)
