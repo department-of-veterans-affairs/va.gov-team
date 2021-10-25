@@ -4,7 +4,7 @@
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/conversation-guide.md)
-- [Session notes]()
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/session-notes)
 - [Synthesis document]()
 - [Research report]()
 - [Participants](#participants)
