@@ -34,11 +34,15 @@ Please select where you’d like to have your appointment. (*Required)
 
 {Facility Name}
 {facility address}
-{distance}
+{distance} miles
 
 {Facility Name}
 {facility address}
-{distance}
+{distance} miles
+```
+
+```
++ {1-5} more locations
 ```
 
 **PROGRESS BUTTONS**
