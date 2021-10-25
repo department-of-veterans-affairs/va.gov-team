@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated May 19, 2021
+Last updated October 25, 2021
 
 ### Communications
 
@@ -171,13 +171,13 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 |Search rank for "disability” from My VA| #10|#39|TBD|
 |Search rank for "claim” or "claims" from My VA| #16|#32|TBD|
 
-This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
+This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
-|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Logged-in search rank for "disability rating” on all VA.gov| #9 & #15|#8 & #27|TBD|
-|Logged-in search rank for "rating” on all VA.gov| #11|#13 & #15|TBD|
-|Logged-in search rank for "disability” on all VA.gov| #21|#32 & #70|TBD|
+|Logged-in search rank for "disability rating” on all VA.gov| #7 & #12|#8 & #27|TBD|
+|Logged-in search rank for "rating” on all VA.gov| #6 & 10|#13 & #15|TBD|
+|Logged-in search rank for "disability” on all VA.gov| #19|#32 & #70|TBD|
 
 **Key result #4** — Satisfaction: Increased user satisfaction score for My VA from 3.2 to 3.7 in ForeSee.
 
