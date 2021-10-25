@@ -1,20 +1,18 @@
 # Research Plan for Identity / Authenticated Experience, non-Veteran user roles, November 2021
 
-`draft`
-
 ## Background
 
-As My HealtheVet and eBenefits move towards the VA.gov ecosystem, VA.gov will need to transition from exclusively serving Veterans to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
+As My HealtheVet and eBenefits move towards the VA.gov ecosystem, VA.gov will need to transition from serving exclusively Veterans, to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
 
 Currently, what defines a “non-Veteran” and their use cases are not well understood across the VA. Each administration—VHA, VBA, and NCA—has their own unique definitions and nuances, which significantly increase the complexity of solving for the “non-Veteran” use case. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/README.md).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/user-roles/project-outline-dependent-user-roles-research.md).
 
 ### OCTO Objectives 
 
-1. Consolidate pathways to sign on to Unified VA-wide Sign In Experience on VA.gov
-2. Provide Login.gov as a credential choice for users
-3. Ensure compliance with standards and legal requirements, including enforcement of multifactor authentication (MFA), document-based identity proofing, and accessibility
+1. Define all non-Veteran user roles for VHA, VBA, and NCA; identify the specific user types / roles, and what criteria a user needs to fit to qualify, according to each administration.
+2. Translate administration-specific user roles into a VA-wide set of unified definitions, which encompasses all user types / roles.
+3. Identify use cases and outcomes for each of the non-Veteran user roles across VHA, VBA, and NCA.
 
 ### Veteran Journey
 
