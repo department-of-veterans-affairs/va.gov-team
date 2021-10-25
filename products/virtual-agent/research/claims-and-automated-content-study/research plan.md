@@ -1,4 +1,4 @@
-# Virtual Agent Automated Content Study Research Plan, 10/25/2021
+# Virtual Agent Claims and Automated Content Study Research Plan, 10/25/2021
 
 As a researcher I want to create a research plan so Perigean can recruit the correct users for our research study.	
 
