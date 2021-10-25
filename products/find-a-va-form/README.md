@@ -11,6 +11,7 @@ This is the folder for all background, historical, discovery, and status documen
 ## Table of Contents
 - [Incident Response](#incident-response)
    - [Team](#team)
+- [VA Forms Contacts](#va-forms-contacts)
 - [Problem Statement](#problem-statement)
     - [KPIs](#kpis)
     - [Go To Market Strategy](#Go-to-market-Strategy)
@@ -73,6 +74,7 @@ As of 12/31/2020:
 |Brian Lloyd	| Former Product Manager|
 |Mickin Sahni	| Former Product Manager|
 
+## VA Forms Contacts
 __VA forms stakeholder working group includes:__
 - Huber, Diane <Diane.Huber@va.gov>; 
 - Walker, Stephen <Stephen.Walker4@va.gov>; 
@@ -83,9 +85,8 @@ __VA forms stakeholder working group includes:__
 - Tuscher, Joshua <joshua.tuscher@va.gov>; 
 - VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
 - Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
-- Smith, Gail T. (VACO) <gail.smith@va.gov>; 
 
-### VA Forms Contacts
+### Contacts by Business Line
 ![image](https://user-images.githubusercontent.com/73354907/137804971-27f2bfd3-17a9-4d98-9b1d-986a1d682046.png)
 
 ## Problem Statement 
@@ -116,7 +117,8 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 **Metrics**:
 - Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
 - Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
-- Custom Google Analytics Reports (open Google Analytics, make sure you're on the 
+- Custom Google Analytics Reports (open Google Analytics
+   - Ensure that you're in the All VA.gov Website Data [Production] view and then 
 
 *Find VA Forms - Search*
 Search Relevancy
@@ -151,7 +153,7 @@ Engagement
 
 ## Launch Dates
 ### PDF Modal
-- Go-live: Q3 2021
+- Go-live: Nov 2021
   - Introduces a modal which is invoked upon clicking a link to download a PDF on the Find a VA Form search page or any of the form detail pages.
   - Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows
   - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
@@ -265,7 +267,6 @@ We tentatively plan to launch Post-MVP enhancements on Jan 12, 2021, which will 
 John Hashimoto and Marci McGuire agreed that the features being implemented were low-risk and don't warrant conducting user research.
 
 ### 06/22/20 
-
 Redirect of the forms search pages set for Thursday 6/25 implementation. Stakeholders notified. Per Kevin Reid, the Viewer page is not "owned" by the forms managers, so we will exclude that page from the redirects. 
 
 [See ticket 5163 for reference](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5163)
