@@ -6,7 +6,7 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ## Background
 
-
+As part of the effort to align benefits across VAMC pages, we need to determine how Veterans expect benefits to be categorized.
 
 ### Related Research
 
