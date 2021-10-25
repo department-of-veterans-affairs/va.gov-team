@@ -27,6 +27,21 @@
   * From 7/12/21 - LH will need a list of name strings to be sent in order to map service name to internal service name; CMS will need to iron out naming convention in order to send** (also research what's the right path for the data)
  
 </details>
+## Monday, October 25, 2021
+* Duplicate facilities from VAST
+* Will VAST create new facilities each time one moves?
+  * SWirt to grab current instances of issue and send over
+  * Determine VAST business process
+  * Make VAST team aware of impacts of current method for transferring facilities from one center to another
+  * Ought to pull down old site instead and set to not active
+  * Some of this may be from LH, not VAST
+* Updating guidelines / KB
+  * Josh and Joe to look at and complete within next sprint
+* VBA sites missing after data update
+  * Caseflow is using "inaccurate" list of facilities 
+  * Facilities should not be hard-coded
+* Possibility of unifying VBA and VHA sites
+  * need to schedule a full one hour session on this
 
 ## Monday, October 18, 2021
 * Duplicate facilities from VAST
