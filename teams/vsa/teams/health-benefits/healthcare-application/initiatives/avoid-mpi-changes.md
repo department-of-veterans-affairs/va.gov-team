@@ -60,6 +60,15 @@ It matters more that we close off a potential vulnerability over deferring Veter
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
+- For authenticated users who fill out the 10-10EZ, the Name, DOB, and SSN fields will
+  - a/ show the current values from MPI
+  - b/ be grayed out so as to indicate they can't be updated
+  - c/ not be able to be updated
+- For authenticated users who submit the 10-10EZ, the Name, DOB, and SSN fields submitted will be those from MPI, not from the form
+- None of this applies for not-logged-in users
+
+For the second bullet, we need to make sure we use the attributes from our user object behind-the-scenes / in vets-api, not the submitted greyed out form fields. Even submitting the greyed out fields is a security risk. Cody Reinold is happy to chat further if we're not sure how to do this part.
+
 --- 
 
 ## Launch Planning
