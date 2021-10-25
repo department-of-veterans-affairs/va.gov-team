@@ -4,6 +4,7 @@
 - [Create mockups](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31103)
 - [Design Intent Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31237)
 - [Design Intent Feedback - Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31542)
+- [Content Request for Personal Information Update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31186)
 
 | New Field | Label              | Form Control                                        | Max Length | Data Type | Pre-Populated Options                                                                                                                                        | Comments                                                             |
 |-----------|--------------------|-----------------------------------------------------|------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
