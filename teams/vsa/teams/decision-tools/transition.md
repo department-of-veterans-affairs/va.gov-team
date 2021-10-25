@@ -12,7 +12,7 @@
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md)
 - Technical Documentation
 - [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms)
-- GitHub Label: dt-yellow-ribbon
+- GitHub Label: dt-find-a-form
 
 ## Find a Yellow Ribbon School Info
 - [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/State-of-the-Product.md)
