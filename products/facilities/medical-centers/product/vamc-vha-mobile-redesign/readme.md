@@ -12,7 +12,7 @@ To understand how mobile clinics are being used across the country, so that we a
 
      - [Session notes](https://docs.google.com/document/d/1HmL0sVDIzFQ2pLO7yochHyLy2p1GKyS0nWGeJw0UlqY/edit?usp=sharing)
      - [Discovery prep board in Mural](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/MMU-Discovery-Phase-1.pdf) - Choosing which facilities across VISNs to include in discovery
-     - [Notes on PAO outreach and communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/stakeholder-interview-plan.md)
+     - [Research plan, PAO outreach and communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/stakeholder-interview-plan.md)
 
 ## Design
 
