@@ -26,6 +26,10 @@
 
 ## October 29
 
+Audit drift for h1 titles for List pages
+* Go to /admin/content and filter by any of the List pages content types. 
+* See if there's been drift and fix
+
 Audit results for Care we provide h3s
 
 ## October 22
