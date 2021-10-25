@@ -1,7 +1,7 @@
 
 # Audit VAMC non-clinical service taxonomy
 
-This work [Audit spreadsheet](https://docs.google.com/spreadsheets/d/1HZt-rwbICniW6jMComBhW4DplcGx9Ooy/edit?usp=sharing&ouid=109024407558026969388&rtpof=true&sd=true) is for Github issue [#30839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30839#issuecomment-947816525)
+This work [Audit spreadsheet](products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/audit-spreadsheet-vha-health-services-Oct2021.xlsx) is for Github issue [#30839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30839#issuecomment-947816525)
 
 ## Scope of work
 This is a first draft audit of non-clinical VHA services referenced on VAMC pages. It also includes some top task/services referenced on the VA.gov homepage as well as some top call center call topics. The services identified should serve as hypotheses to be tested for plain language and in wayfinding user tests (e.g. a tree test, card sorts) to understand how Veterans might expect to find them. 
@@ -62,5 +62,5 @@ For purposes of uncovering new and future services, this audit assumes that comm
 
 ## Appendix
 
-[Audit spreadsheet](https://docs.google.com/spreadsheets/d/1HZt-rwbICniW6jMComBhW4DplcGx9Ooy/edit?usp=sharing&ouid=109024407558026969388&rtpof=true&sd=true)
+[Audit spreadsheet](products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/audit-spreadsheet-vha-health-services-Oct2021.xlsx)
 
