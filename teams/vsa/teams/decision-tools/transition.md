@@ -1,4 +1,4 @@
-# Transition of Decision Tools Products to Search & Discovery
+# Transition of Decision Tools Products to Search & Discovery Team
 ## October 2021
 
 ## Decision Tools Team Info
@@ -10,10 +10,13 @@
 
 ## Find a VA Form Info
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md)
-- 
+- Technical Documentation
 
 ## Find a Yellow Ribbon School Info
-- 
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school)
+- [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/State-of-the-Product.md)
+- Technical Documentation
 
 ## Discharge Upgrade Wizard Info
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/readme.md)
+- Technical Documentation
