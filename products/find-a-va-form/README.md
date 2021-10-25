@@ -2,7 +2,7 @@
 
 This is the folder for all background, historical, discovery, and status documentation for the Find a VA Form product redesign 
 
-**Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See  tab/sheet called "VA.gov tools mapped to VA forms."**
+**Mapping of VA.gov digital products/tools to VA forms are listed here (SharePoint). See tab/sheet called "VA.gov tools mapped to VA forms."**  Note that you must be logged into the VA network to access.
 
 [VA.gov Product Directory-SharePoint (See last tab in sheet)](https://dvagov.sharepoint.com/:x:/s/CTOTeam/EfFzSYBuL5pHqbGtTBpk7EkBXfw_f8r5QR2C8VJCzifbAg)
 
