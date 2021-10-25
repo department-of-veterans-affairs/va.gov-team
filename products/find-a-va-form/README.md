@@ -65,7 +65,7 @@ As of 12/31/2020:
 |Marci McGuire	| Former Product Manager, iterations on Find a Form|
 |Zachary Morel	|Form FE Engineer, iterations on Find a Form|
 |Cassandra Allen| Design|
-|Steve Wirt	| CMS: Drupal|
+|Steve Wirt	| CMS (Drupal)|
 |Ryan Thurlwell	| Design Lead, MVP|
 |Mark Greenburg	|VA APIs|
 |Kelson Adams	| FE Engineer, MVP|
