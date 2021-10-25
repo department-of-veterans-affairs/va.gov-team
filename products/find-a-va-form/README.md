@@ -211,6 +211,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 ### End-to-End Flow to Forms API
 Info provided by Srikanth Valluru in [Slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1633724003270500?thread_ts=1633718388.249000&cid=CBU0KDSB1)
+
 TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> nginx -> Kong ELB -> Kong -> vets-api ELB -> vets-api -> fwdproxy -> backend 
 
 ### Content Flow Diagram
