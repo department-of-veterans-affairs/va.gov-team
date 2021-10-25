@@ -39,7 +39,8 @@ As of 12/31/2020:
 ### Team
  - Team Name: Decision Tools
  - GitHub Label: [vsa-decision-tools](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
- - Slack channel: [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
+ - Team Slack channel: [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools)
+ - Forms Slack channel: [#va-forms](https://dsva.slack.com/channelss/va-forms)
  
 
 ### Decision Tools Team Members
