@@ -56,14 +56,11 @@ Outline team and member focus, goals for sprint:
 
 ### Retro
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:   
-- 2nd Tuesday of every sprint   
+- 1st Wednesday of every sprint, right before planning   
 - 30 min
 
 ### Grooming
-
-#### When
-
-Assess and update workload for remainder of sprint:  
+Assess and update workload for remainder of sprint and loosely discuss next/future sprint(s):  
 - 2nd Wednesday of every sprint for one-hour
 
 #### What
