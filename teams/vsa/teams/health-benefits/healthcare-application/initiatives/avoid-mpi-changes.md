@@ -47,6 +47,7 @@ Potential data at risk include: name, ssn, dob.
   - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Does MPI have a check for changes to it's data? No
   - What is the difficulty in turning off editing? 
+  - What sort of checks should we have to ensure the data is not modified based what's coming from MPI (and into the user object)?
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Are other forms dealing with this potential risk? It is **not** common for other VA forms to allow editing of Veteran (biographical) data via their forms. 
