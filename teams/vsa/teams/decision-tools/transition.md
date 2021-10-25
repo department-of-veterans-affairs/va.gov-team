@@ -12,6 +12,9 @@
 - [Product URL](https://va.gov/find-forms/)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md)
 - [FE Source Code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms)
+- [BE VETS API Proxy Source Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/forms_controller.rb#L6)
+- [BE Lighthouse API Source Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/va_forms/app/controllers/va_forms/v0/forms_controller.rb#L7)
+- [Modal of Flow](https://whimsical.com/va-forms-content-flow-UpSBvigLWBK72p8ajG8v3a)
 - GitHub Label: dt-find-a-form
 
 ## Find a Yellow Ribbon School Info
@@ -20,11 +23,10 @@
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school)
 - [FE Source Code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/yellow-ribbon)
 - [BE VETS API Proxy route Source Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/routes.rb#L206)
-- [BE VETS API Proxy class Source Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/gids
-/yellow_ribbon_programs_controller.rb)
+- [BE VETS API Proxy class Source Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/gids/yellow_ribbon_programs_controller.rb)
 - [BE GIBCT data service route Source Code](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/config/routes.rb#L62)
 - [BE GIBCT data service class Source Code](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/app/controllers/v0/yellow_ribbon_programs_controller.rb#L18)
-- [BE GIBCT data service model source Code](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/app/controllers/v0/yellow_ribbon_programs_controller.rb#L18)
+- [BE GIBCT data service model Source Code](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/app/controllers/v0/yellow_ribbon_programs_controller.rb#L18)
 - GitHub Label: dt-yellow-ribbon
 
 ## Discharge Upgrade Wizard Info
