@@ -76,18 +76,18 @@ As of 12/31/2020:
 
 ## VA Forms Contacts
 __VA forms stakeholder working group includes:__
-- Huber, Diane <Diane.Huber@va.gov>; 
-- Walker, Stephen <Stephen.Walker4@va.gov>; 
+- Huber, Diane <Diane.Huber@va.govv>
+- Walker, Stephen <Stephen.Walker4@va.gov>
 - Ranes, Michelle M. <michelle.ranes@va.gov>
 - Reid, Kevin <Kevin.Reid@va.gov>
-- McCarthy, Brian <Brian.McCarthy4@va.gov>; 
-- Smith, Jeremy <Jeremy.Smith@va.gov>; 
-- Tuscher, Joshua <joshua.tuscher@va.gov>; 
-- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
-- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
+- McCarthy, Brian <Brian.McCarthy4@va.gov>
+- Smith, Jeremy <Jeremy.Smith@va.gov>
+- Tuscher, Joshua <joshua.tuscher@va.gov>
+- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>
+- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>
 
-### Contacts by Business Line
-![image](https://user-images.githubusercontent.com/73354907/137804971-27f2bfd3-17a9-4d98-9b1d-986a1d682046.png)
+### Contacts by Business Line - last updated 10/25/2021 by Kayce White <Kayce.White@va.gov>
+![image](https://user-images.githubusercontent.com/73354907/138717356-491698da-1d70-49d8-8658-281125bf55c1.png)
 
 ## Problem Statement 
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
@@ -159,29 +159,32 @@ Engagement
   - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
   - Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
 
+### Research Study
+
 ### Transforming Search Terms Iteration 2
 - Go-live: Jul 6, 2021
-- Includes several enhancements:
-   - Forms API modifications to handle misspellings, disregard placement/omission of dashes, adds root word searching
-   - UI updates to make action links, buttons and text links consistent with other search tools
+- [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25954)
+- Forms API modifications to handle misspellings, disregard placement/omission of dashes, adds root word searching
+- UI updates to make action links, buttons and text links consistent with other search tools
 
 ### Use Administration Field for Related To Info
-- Go-live: Mar 24, 2021 #21366
+- Go-live: Mar 24, 2021
+- [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21366)
+- Added the Administration field to the fields included in search so that we could provide "Related To" information about each form to show if the form was related to Health, Education, etc.
 
 ### Transforming Search Terms Iteration 1
-- Go-live: Mar 17, 2021 #20651
+- Go-live: Mar 17, 2021
+- [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17244)
+- Updated the search algorithm 
 
 ### Sort By Date
-- Go-live: Feb 11, 2021 #19507
+- Go-live: Feb 11, 2021
+- [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17732)
 
 ### Post-MVP 
-This iteration connected the search page to the form details pages
-- *What is your target launch date of your MVP/iteration?*
-  - Jan 12, 2021 (Add CTA links from Find a VA Form landing page to form detail pages and online tools)
-- *What is your actual launch date of your MVP/iteration?*
-  - Jan 21, 2021
-- *What is your date for when you'll evaluate impact after launch?*
-  - Feb, 2021 (initial evaluation)
+- Go-Live: Jan 18, 2021
+- [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/16930)
+- This iteration connected the search page to the form details pages
 
 ### MVP
 - *What is your target launch date of your MVP/iteration?*
