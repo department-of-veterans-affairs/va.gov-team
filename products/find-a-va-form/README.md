@@ -97,9 +97,9 @@ Search research indicates that the VA forms page consistently gets high organic 
 - we want to add analytics tracking to all links and downloads.
 
 Search research attached as FYSA:
-Analytics Veterans Affairs Forms Page Organic Nov2018-May2019.pdf
+[Analytics Veterans Affairs Forms Page Organic Nov2018-May2019.pdf](https://github.com/department-of-veterans-affairs/vets.gov-team/files/3352350/Analytics.Veterans.Affairs.Forms.Page.Organic.Nov2018-May2019.pdf)
 
-vaforms-org-search-keywords-SEMRush.png
+[vaforms-org-search-keywords-SEMRush.png](https://user-images.githubusercontent.com/43381063/60547498-e08c8b00-9ced-11e9-8962-4c37d0e8e3cd.png)
 
 Legacy issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1482
 
@@ -154,12 +154,25 @@ Engagement
 ## Launch Dates
 ### PDF Modal
 - Go-live: Nov 2021
-  - Introduces a modal which is invoked upon clicking a link to download a PDF on the Find a VA Form search page or any of the form detail pages.
-  - Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows
-  - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
-  - Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
+- [GitHub Epic]()
+- Introduces a modal which is invoked upon clicking a link to download a PDF on the Find a VA Form search page or any of the form detail pages.
+- Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows
+- Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
+- Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
 
-### Research Study
+### Research Study: Find a VA Form PDF Download Info
+- Conducted July 27 - 30 2021 by Cindy Merrill
+- [GitHub Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27480)
+- [Complete research documentation in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-plan.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/topline-summary.md)
+- [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md)
+- [Team Sync Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-readout-full.pdf)
+- [Presentation for Sprint Demo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf)
+- [Findings Presentation for VA Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-readout-full-VA-sync-mtg_Aug30.pdf)
+   - Note: This presentation had not yet been held as of Oct 25, 2021 due to Product Owner change that occured just as the study wrapped up, and a subsequent team change in October 2021.
+
 
 ### Transforming Search Terms Iteration 2
 - Go-live: Jul 6, 2021
@@ -189,6 +202,7 @@ Engagement
 - This iteration connected the search page to the form details pages
 
 ### MVP
+- [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1632)
 - *What is your target launch date of your MVP/iteration?*
   - April 2020
 - *What is your actual launch date of your MVP/iteration?*
