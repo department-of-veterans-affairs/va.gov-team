@@ -19,7 +19,7 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ### Goals
 
-This research has two main goals
+This research has two main goals:
 - To determine how Veterans would categorize the available services
 - To determine how Veterans expect to find information about these services while navigating the VA.gov site
 
