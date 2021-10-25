@@ -32,18 +32,19 @@
 ## Monday, October 25, 2021
 * Duplicate facilities from VAST
 * Will VAST create new facilities each time one moves?
-  * SWirt to grab current instances of issue and send over
-  * Determine VAST business process
+  * SWirt to grab current instances of issue and send over - Done
+  * Determine VAST business process - James Shared via Slack
   * Make VAST team aware of impacts of current method for transferring facilities from one center to another
-  * Ought to pull down old site instead and set to not active
-  * Some of this may be from LH, not VAST
+  * Examine possible mitigation by LH
 * Updating guidelines / KB
   * Josh and Joe to look at and complete within next sprint
 * VBA sites missing after data update
   * Caseflow is using "inaccurate" list of facilities 
   * Facilities should not be hard-coded
+  * Dave Conlon spoke to Caseflow provided canonical list
 * Possibility of unifying VBA and VHA sites
-  * need to schedule a full one hour session on this
+  * need to schedule a full one hour session on this - scheduled for tomorrow (10/26/21)
+* Kevin to create issue on KB for facility deletion requests
 
 ## Monday, October 18, 2021
 * Duplicate facilities from VAST
