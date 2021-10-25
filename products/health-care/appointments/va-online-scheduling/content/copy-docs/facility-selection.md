@@ -6,12 +6,28 @@
 
 ### Multiple Facilities, Address on File
 
-(H1) Choose a location
+**FORM TITLE**
 
-Below is a list of VA locations where you’re registered that offer Nutrition and food appointments. Locations closest to you are at the top of the list.
+```
+NEW APPOINTMENT
+```
 
+**PAGE HEADER**
 
-(H2) Facilities based on your home address:
+```
+Choose a location
+```
+
+**PAGE DESCRIPTION**
+
+```
+Here’s a list of VA facilities where you’re registered that offer {type of care} appointments. Locations closest to you are listed first.
+```
+
+**PAGE CONTENT**
+
+```
+Facilities based on your home address:
 
 {User address}
 
@@ -19,31 +35,56 @@ Below is a list of VA locations where you’re registered that offer Nutrition a
 Or, use your current location
 
 Please select where you’d like to have your appointment. (*Required)
+```
 
-_non-Cerner location_
-
-{Facility name}<br>
-{City, ST}<br>
+#### non-Cerner location
+```
+{Facility name}
+{Facility City, ST}
 {Distance} miles
+```
 
-
-_Cerner location_
-
-{Facility name}<br>
-{City, ST}<br>
-{Distance} miles<br>
+#### Cerner location
+```
+{Facility name}
+{Facility City, ST}
+{Distance} miles
 Schedule online at My VA Health
+```
 
+```
++ {1-5} more locations
+```
 ---
 
 ### Multiple Facilities, No Address on File
 
-(H1) Choose a location
+**PAGE DESCRIPTION**
 
-Below is a list of VA locations where you’re registered that offer Nutrition and food appointments.
+```
+Here's a list of VA locations where you’re registered that offer {type of care} appointments.
+```
 
+**PAGE CONTENT**
+
+```
 Please select where you’d like to have your appointment. (*Required)
+```
 
-{Facility name}<br>
-{City, ST}
+#### non-Cerner location
+```
+{Facility name}
+{Facility City, ST}
+```
 
+#### Cerner location
+```
+{Facility name}
+{Facility City, ST}
+Schedule online at My VA Health
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+```CONTINUE```
