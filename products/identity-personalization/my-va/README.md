@@ -164,12 +164,12 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 [My VA Search Report: Jan – March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
-|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Search rank for "disability rating” from My VA| #4|#24|TBD|
-|Search rank for "rating” from My VA| #7|#25|TBD|
-|Search rank for "disability” from My VA| #8|#39|TBD|
-|Search rank for "claim” or "claims" from My VA| #17|#32|TBD|
+|Search rank for "disability rating” from My VA| #5|#24|TBD|
+|Search rank for "rating” from My VA| #6|#25|TBD|
+|Search rank for "disability” from My VA| #10|#39|TBD|
+|Search rank for "claim” or "claims" from My VA| #16|#32|TBD|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
