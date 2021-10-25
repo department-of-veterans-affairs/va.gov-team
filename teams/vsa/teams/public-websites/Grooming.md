@@ -45,7 +45,7 @@ Promo Banner Migration work: Starting thinking about this approach (Timing)
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
-### Dad Joke: Why do you never see elephants hiding in trees? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+### Dad Joke: How do you fix a broken pumpkin? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
 
 <details><summary>Past Grooming Sessions</summary>
 
@@ -809,6 +809,6 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-Becuase they're so good at it! :}.
+A pumpkin patch! :}.
 
 </details>
