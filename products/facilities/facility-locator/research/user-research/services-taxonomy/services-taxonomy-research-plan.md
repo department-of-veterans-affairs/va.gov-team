@@ -19,12 +19,12 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ### Research Questions
 
-- *How would Veterans categorize the services currently found under "Social programs and services"?*
-- *Where do Veterans expect to find the following new services?*
+1) *How would Veterans categorize the services currently found under "Social programs and services"?*
+2) *Where do Veterans expect to find the following new services?*
     - Support groups
     - Workshops and classes
     - Veteran connections
-- *How do Veterans expect to find the following existing (non-clinical) services? (name and heading)*
+3) *How do Veterans expect to find the following existing (non-clinical) services? (name and heading)*
     <details>
     <summary>List of non-clinical services</summary>
 
