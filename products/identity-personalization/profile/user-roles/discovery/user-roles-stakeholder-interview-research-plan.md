@@ -2,17 +2,17 @@
 
 ## Background
 
-As My HealtheVet and eBenefits move towards the VA.gov ecosystem, VA.gov will need to transition from serving exclusively Veterans, to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
+As My HealtheVet and eBenefits move towards the VA.gov ecosystem, VA.gov will need to transition from exclusively serving Veterans to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
 
 Currently, what defines a “non-Veteran” and their use cases are not well understood across the VA. Each administration—VHA, VBA, and NCA—has their own unique definitions and nuances, which significantly increase the complexity of solving for the “non-Veteran” use case. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/user-roles/project-outline-dependent-user-roles-research.md).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/README.md).
 
 ### OCTO Objectives 
 
-1. Consolidate pathways to sign on to Unified VA-wide Sign In Experience on VA.gov
-2. Provide Login.gov as a credential choice for users
-3. Ensure compliance with standards and legal requirements, including enforcement of multifactor authentication (MFA), document-based identity proofing, and accessibility
+1. Define all non-Veteran user roles for VHA, VBA, and NCA; identify the specific user types / roles, and what criteria a user needs to fit to qualify, according to each administration.
+2. Translate administration-specific user roles into a VA-wide set of unified definitions, which encompasses all user types / roles.Identify use cases and outcomes for each of the non-Veteran user roles across VHA, VBA, and NCA.
+3. Identify use cases and outcomes for each of the non-Veteran user roles across VHA, VBA, and NCA.
 
 ### Veteran Journey
 
@@ -34,21 +34,20 @@ This research will help us advance the authenticated experience in the following
 ### Research questions
 
 1. What non-Veteran user roles does each administration serve?
-2. What qualifies a person as a dependent?
-3. What qualifies someone as a beneficiary?
-4. How are those roles different, and the same?
-5. What is the difference between POAs, CVSOs, VSOs, and claim agents, according to each administration?
-6. What are the tasks that each user type may need to do?
-7. What is a caregiver and what are the things that person needs to do for that administration?
+2. What qualifies a person as a dependent or a beneficiary? How are those roles different?
+3. What is the difference between POAs, CVSOs, VSOs, and claim agents, according to each administration?
+4. What qualifies a person as a caregiver?
+5. What are the tasks that each user type may need to do?
 
 ### Hypothesis
 
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+1. The non-Veteran user role buckets we already know about are correct: beneficiaries, caregivers, and Veteran advocates.
+2. VA recognizes a person as a dependent based on how the Veteran claims the person on their taxes.
+3. The primary task for beneficiaries and dependents is accessing documents showing their status with VA.
+4. The primary tasks for caregivers will be health focused.
+5. The landscape for Veteran advocates is significantly more complex than that of the other non-Veteran roles we'll hear about.
 
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
 
 ## Method	
 
