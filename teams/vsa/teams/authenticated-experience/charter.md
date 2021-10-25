@@ -1,6 +1,6 @@
 # Authenticated experience team charter
 
-**Last updated March 9, 2021**
+**Last updated October 25, 2021**
 
 ## What we strive for
 
