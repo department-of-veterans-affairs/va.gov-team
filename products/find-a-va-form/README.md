@@ -17,6 +17,7 @@ This is the folder for all background, historical, discovery, and status documen
     - [Go To Market Strategy](#Go-to-market-Strategy)
 - [Launch Dates](#launch-dates)
     - [PDF Modal](#pdf-modal)
+    - [PDF Download Research Study](#pdf-download-research-study)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
     - [Use Administration Field for Related To Info](#use-administration-field-for-related-to-info)
     - [Transforming Search Terms Iteration 1](#transforming-search-terms-iteration-1)
@@ -160,7 +161,7 @@ Engagement
 - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
 - Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
 
-### Research Study: Find a VA Form PDF Download Info
+### PDF Download Research Study
 - Conducted July 27 - 30 2021 by Cindy Merrill
 - [GitHub Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27480)
 - [Complete research documentation in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research)
