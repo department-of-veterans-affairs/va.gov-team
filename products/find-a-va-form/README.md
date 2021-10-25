@@ -203,6 +203,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 [Relationship Between VA Forms DB/Lighthouse API/Drupal](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5702)
 
 ### End-to-End Flow to Forms API
+Info provided by Srikanth Valluru in [Slack thread](https://dsva.slack.com/archives/CBU0KDSB1/p1633724003270500?thread_ts=1633718388.249000&cid=CBU0KDSB1)
 TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> nginx -> Kong ELB -> Kong -> vets-api ELB -> vets-api -> fwdproxy -> backend 
 
 ### Content Flow Diagram
