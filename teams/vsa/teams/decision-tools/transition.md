@@ -12,14 +12,17 @@
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md)
 - Technical Documentation
 - [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms)
+- GitHub Label: dt-yellow-ribbon
 
 ## Find a Yellow Ribbon School Info
 - [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/State-of-the-Product.md)
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school)
 - Technical Documentation
 - [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/yellow-ribbon)
+- GitHub Label: dt-yellow-ribbon
 
 ## Discharge Upgrade Wizard Info
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/readme.md)
 - Technical Documentation
 - [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/discharge-wizard)
+- GitHub Label: dt-discharge-upgrade-wizard
