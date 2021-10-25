@@ -1,7 +1,67 @@
 # Personal Information Front-End Documentation
 
 
-## Personal Information Page
+## Personal Information Page - Default State
+
+### Page URL
+- TBD
+- 
+### Sketch Mockup
+- [Personal Information Page - Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)
+
+### Form Field Labels and Content
+
+In the Personal Information page's read-only state, the fieldset **should not** contain a gray header so as not to create duplicate headers for screen readers, and each field block with the set will contain:
+  - Field label
+  - Current value(s) or edit information (if editable)
+  - Edit button (if editable)
+
+---
+
+**Preferred name** <br>
+Edit your profile to add a preferred name <br> 
+{Edit button}
+
+---
+
+**Pronouns** <br>
+Edit your profile to add a pronoun <br> 
+{Edit button}
+
+---
+
+**Gender identity** <br>
+Edit your profile to add a pronoun <br> 
+{Edit button}
+
+---
+
+**Sexual orientation** <br>
+Edit your profile to add a sexual orientation <br> 
+{Edit button}
+
+---
+
+
+**Date of birth** 
+- _Note - this field is non-editable_
+
+---
+
+
+**Birth Sex**
+- _Note this is a change to the existing label that currently reads 'Gender'_
+- _Note - this field is non-editable_
+
+---
+
+
+### Example of default state: 
+![image](https://user-images.githubusercontent.com/73354907/138773566-cca96166-b4a9-451d-ab46-91ffd2c5d7ff.png)
+
+## Personal Information Page - Edit State
+  - Note that in the Edit state, only _one_ field may be edited at a time.
+
 ### Page URL
 - TBD
 ## Related GitHub Tickets
@@ -12,10 +72,9 @@
 
 
 ### Sketch Mock-Ups
-- [Personal Information Page - Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)
+
 - [Personal Information Page - Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
-  - Note that in the Edit state, only one field may be edited at a time
- 
+
 
 ### Form Field Labels and Selection Options
 Last Updated 10/25/2021
