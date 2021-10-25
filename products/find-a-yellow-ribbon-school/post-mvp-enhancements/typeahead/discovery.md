@@ -1,1 +1,0 @@
-# Typeahead Discovery Documentation
