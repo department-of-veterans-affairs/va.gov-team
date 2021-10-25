@@ -1,5 +1,5 @@
 
-# Mobile clinic / MMU 
+# VAMC VHA Mobile clinic / MMU: Research and Design
 
 ## [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/initiative-brief.md)
 
