@@ -16,7 +16,7 @@ This is the folder for all background, historical, discovery, and status documen
     - [KPIs](#kpis)
     - [Go To Market Strategy](#Go-to-market-Strategy)
 - [Launch Dates](#launch-dates)
-    - [PDF Modal](#pdf-modal)
+    - [Find a VA Form PDF Download Instructions ](#find-a-va-form-pdf-download-instructions)
     - [PDF Download Research Study](#pdf-download-research-study)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
     - [Use Administration Field for Related To Info](#use-administration-field-for-related-to-info)
@@ -111,15 +111,14 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
 ### KPIs
-**[Google Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
-
-**Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
-**Signal**: are people downloading form applications or starting a new benefit application\
 **Metrics**:
 - Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
 - Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
+**[Google Analytics Find a Form Dashboard 1.0](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
+**Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
+**Signal**: are people downloading form applications or starting a new benefit application\
 - Custom Google Analytics Reports (open Google Analytics
-   - Ensure that you're in the All VA.gov Website Data [Production] view and then 
+   - Ensure that you're in the All VA.gov Website Data [Production] view and then import the below files into your profile.
 
 *Find VA Forms - Search*
 Search Relevancy
@@ -153,9 +152,9 @@ Engagement
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
 ## Launch Dates
-### PDF Modal
+### Find a VA Form PDF Download Instructions 
 - Go-live: Nov 2021
-- [GitHub Epic]()
+- [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26816)
 - Introduces a modal which is invoked upon clicking a link to download a PDF on the Find a VA Form search page or any of the form detail pages.
 - Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows
 - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
