@@ -26,25 +26,37 @@ Here’s a list of VA facilities where you’re registered that offer {type of c
 
 **PAGE CONTENT**
 
+#### Sorted by home address
+
 ```
 Facilities based on your home address:
 
 {User address}
-
 
 Or, use your current location
 
 Please select where you’d like to have your appointment. (*Required)
 ```
 
-#### non-Cerner location
+#### Sorted by location
+
+```
+Facilities based on your location:
+
+Or, use your home address on file
+
+Please select where you’d like to have your appointment. (*Required)
+```
+
+
+##### non-Cerner location
 ```
 {Facility name}
 {Facility City, ST}
 {Distance} miles
 ```
 
-#### Cerner location
+##### Cerner location
 ```
 {Facility name}
 {Facility City, ST}
