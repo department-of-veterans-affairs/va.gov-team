@@ -18,6 +18,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [MVP and Enhancements](#mvp-and-enhancements)
     - [Content Catch Up and Clean Up](#content-catch-up-and-clean-up)
     - [Find a VA Form PDF Download Instructions ](#find-a-va-form-pdf-download-instructions)
+    - [Find A VA Form PDF Audit](#find-a-form-pdf-audit)
     - [PDF Download Research Study](#pdf-download-research-study)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
     - [Use Administration Field for Related To Info](#use-administration-field-for-related-to-info)
@@ -192,6 +193,11 @@ Engagement
 - Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows
 - Modal provides links to download Adobe Reader, a Resources & Support article with more details about using PDFs, and a link to download the PDF form.
 - Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
+
+### Find a VA Form PDF Audit
+- Conducted Septemeber 2021
+- Follow-up exercise after research study revealed issues that were not anticipated.  This audit was conducted for the purpose of determining how widespread the the issues observed were in PDF forms available from find Find a VA Form.
+- [Audit information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/pdf_audit_2021/pdf_audit_2021.md)
 
 ### PDF Download Research Study
 - Conducted July 27 - 30 2021 by Cindy Merrill
