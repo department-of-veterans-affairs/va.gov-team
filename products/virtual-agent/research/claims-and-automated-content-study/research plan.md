@@ -4,37 +4,51 @@ As a researcher I want to create a research plan so Perigean can recruit the cor
 
 ## Goals
 
-**1.** What product & team are you doing this research for?	
+**1. What product & team are you doing this research for?**
 
 This research is for the VA-Virtual Agent team for the Virtual Agent product. 	
 
-**2.** Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+**2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?** 	
 
 The virtual agent/chatbot will be accessible on Va.gov around June 2022. Veterans will be able to access the chatbot from a link on Contact Us page. The virtual agent’s goal is to respond to inquiries using Va.gov content as the source of information. It will also provide personalized answers to queries such as claim and appeals status. This project is part of the larger Omnichannel strategy (led by VEO) to give veterans seamless access to information, self-service tools, and time-saving outcomes. 
 
-**3.** Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+**3. Research questions: What question(s) do you hope to be able to answer after completing this research?** 	
 
 We hope to gather the following qualitative insights: 
 
 
-**1.** How did you feel about the login experience? 
+**1.** How did you feel about the login experience?
+
 **2.** How do you feel about the introduction? 
+
 **3.** How do you feel about the warnings and disclaimers you see here? 
+
 **4.** Are there any actions that the bot expects you to take? 
+
 **5.** What information did you wish to see about your claim? 
+
 **6.** Based on the information you have seen about your claim, what action will you take next? 
+
 **7.** How many choices is the bot offering you?
+
 **8.** When the bot tells you it does not have the answer, how does it make you feel? 
+
 **9.** After reading the response, did you have the information you needed to take the next step to complete your task?
+
 **10.** How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the correct link? Was your question answered? 
+
 **11.** How do you feel about the voice and tone of the response you received?
+
 **12.** If the chatbot couldn't answer your question but could connect you to a live agent chat, would you prefer that over speaking by phone with the VA help desk/contact center?
+
 **13.** Based on your experience today, are you willing to use the chatbot again?
+
 **14.** What additional feature to the chatbot would improve your experience?
+
 **15.** Do you have any other feedback you'd like to share?
 
 
-Hypothesis: What is your hypothesis for this research? 	
+**Hypothesis: What is your hypothesis for this research?** 	
 
 The focus of this study is to determine the following points:
 
@@ -46,7 +60,7 @@ The focus of this study is to determine the following points:
 
 
 ## Method
-1.	What method of research are you planning? 	
+**1.	What method of research are you planning?**	
 
 Remote Moderated
 
@@ -65,26 +79,26 @@ A couple of things to know:
 
 Thank you for participating!
 
-2.	Why this method? How does this methodology help you answer your research questions? 	
+**2.	Why this method? How does this methodology help you answer your research questions?** 	
 
 The prototype is still in development. A moderated study will allow us to get the feedback we need while mitigating possible technical frustrations for the Veteran in real-time. In addition, we can use mocks instead of the prototype if the prototype is unavailable or lack the required technical capabilities implemented in time for the session. 
 
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
+**3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	**
 
 Strictly Online
 
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
+**4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* **	
 
 We will be gathering feedback on the product at staging.va.gov/virtual-agent-study/, and for some cases, we may utilize a visual mock/wireframe. 
 
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+**5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)**	
 
 Zoom.
 
 ## Participants and Recruitment
-1.	Participant criteria: What are you looking for in a participant?	  
+**1.	Participant criteria: What are you looking for in a participant?**	  
 
-1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+**Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
 
 - We require 7 participants
 
@@ -93,11 +107,11 @@ For technology requirements:
 - Device: Has used computers and Internet; we will be having users test on their desktop/laptop where possible, and share their screens. 
 - Browser: Using a browser like Chrome, Firefox and Safari - no IE11 users
 
-2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+**Secondary criteria / Would like to have** - what other criteria would strengthen your results?
 
 n/a
 
-2.	What is your recruitment strategy? 	
+**2.	What is your recruitment strategy?** 	
 
 - Perigean
 
