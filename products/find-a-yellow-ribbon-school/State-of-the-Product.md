@@ -136,7 +136,7 @@ Provide a bulleted outline describing the required features of the product
 -----
 |Artifacts  | Description |
 |--|--|
-|[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)| Statement of purpose with goals, design intent, etc.| 
+|[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/README.md)| Statement of purpose with goals, design intent, etc.| 
 |[Product Super Epic]() | Product Development Master Epic for sub-epics|
 |[Design & Content Model]()| Design comps with annotated requirements |
 |[Product Documentation]()| Product Documentation for Contact Center |
