@@ -1,20 +1,23 @@
-# Personal Information Copy
+# Personal Information Front-End Documentation
 
-## Page URL
+
+## Personal Information Page
+### Page URL
 - TBD
-
 ## Related GitHub Tickets
 - [Create mockups](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31103)
 - [Design Intent Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31237)
 - [Design Intent Feedback - Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31542)
 - [Content Request for Personal Information Update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31186)
 
-## Personal Information Page
-### Sketch Mock-Up
-- [Personal Information Page](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)
-- Content Page
 
-### Form Field Labels and 
+### Sketch Mock-Ups
+- [Personal Information Page - Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)
+- [Personal Information Page - Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
+  - Note that in the Edit state, only one field may be edited at a time
+ 
+
+### Form Field Labels and Selection Options
 Last Updated 10/25/2021
 
 
@@ -31,7 +34,11 @@ Last Updated 10/25/2021
 -- 
 
 ## Contact Information Page
+### Sketch Mock-Up
+- [Contact Information Page](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/bg4kVKJ)
+
+### Before Update
+![image](https://user-images.githubusercontent.com/73354907/138769748-2be90faf-74ce-47fa-95dc-185ac5cd747a.png)
 
 
-### Form Field Labels and Selection Options
-Last Updated 10/25/2021
+### After Update
