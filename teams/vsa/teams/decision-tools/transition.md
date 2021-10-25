@@ -9,21 +9,21 @@
 - [Unauth Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/unauth-prioritries.md#decision-tools)
 
 ## Find a VA Form Info
+- [Product URL](https://va.gov/find-forms/)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md)
-- Technical Documentation
 - [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/find-forms)
 - GitHub Label: dt-find-a-form
 
 ## Find a Yellow Ribbon School Info
+- [Product URL](https://va.gov/education/yellow-ribbon-participating-schools/)
 - [State of the Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/State-of-the-Product.md)
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school)
-- Technical Documentation
 - [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/yellow-ribbon)
 - GitHub Label: dt-yellow-ribbon
 
 ## Discharge Upgrade Wizard Info
+- [Product URL](https://www.va.gov/discharge-upgrade-instructions/)
 - [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/readme.md)
-- Technical Documentation
 - GitHub Label: dt-discharge-upgrade-wizard
 - [Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/discharge-wizard)
 - [History behind the app, list of questions, documented logic to decision tree of algorithm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/dw-content.md)
