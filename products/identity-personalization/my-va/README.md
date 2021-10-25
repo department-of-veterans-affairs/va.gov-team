@@ -136,12 +136,12 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 
 **Key Result #1** — Usage: Increase % of logged-in users visiting My VA from 6% pre-My VA 2.0 to 8% post-My VA 2.0 by Q3.
 
-[My VA vs. Homepage Usage Report for Logged-in Users: Jan 2021 – March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20210101&_u.date01=20210331&_.useg=builtin1,useroZx0HcxxRpWtuNYX7IFkHA,userTBuj9_dPSF-sBQQO9Srv-g/)
+[My VA vs. Homepage Usage Report for Logged-in Users: Apr – June 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20210401&_u.date01=20210630&_.useg=builtin1,useroZx0HcxxRpWtuNYX7IFkHA,userTBuj9_dPSF-sBQQO9Srv-g/)
 
-|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|KPI/metric|Baseline: Q1 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|% of logged-in users who visit My VA| 6%|7%|TBD|
-|% of logged-in users interact with the homepage| 13% |15%|TBD|
+|% of logged-in users who visit My VA| 7%|7%|TBD|
+|% of logged-in users interact with the homepage| 16% |16%|TBD|
 
 Additionally, we want to see if adding a My VA link to the unauth nav impacts traffic to the page. So, as part of evaluating this KR, we want to add tracking to the new My VA link to the unauth nav.
 [Top Events - Unauthenticated Clicks to My VA](https://analytics.google.com/analytics/web/#/savedreport/KPirHWA4RQWqO5YBJmIwOw/a50123418w177519031p176188361/_r.dsa=1&_.useg=userXZpoGov_R4K1a1Biwj2YNg&_.advseg=&_.sectionId=&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.filter=Navigation%20-%20Header%20-%20My%20VA)
@@ -152,7 +152,7 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 [My VA Interactions Report: July - Sept 2021](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20210701&_u.date01=20210930/)
 
-|KPI/metric|Baseline: Q2 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
 |Clicks into individual claims ("view claim")| ~124K clicks|~205k|TBD|
 |Clicks to view all claims ("Manage all your claims and appeals")| ~78K|~192k|TBD|
