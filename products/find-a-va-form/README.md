@@ -16,6 +16,7 @@ This is the folder for all background, historical, discovery, and status documen
     - [KPIs](#kpis)
     - [Go To Market Strategy](#Go-to-market-Strategy)
 - [MVP and Enhancements](#mvp-and-enhancements)
+    - [Content Catch Up and Clean Up](#content-catch-up-and-clean-up)
     - [Find a VA Form PDF Download Instructions ](#find-a-va-form-pdf-download-instructions)
     - [PDF Download Research Study](#pdf-download-research-study)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
@@ -153,7 +154,7 @@ Engagement
 
 ## MVP and Enhancements
 
-### Content Catch Up & Clean Up
+### Content Catch Up and Clean Up
 - Go-live: TBD
 - GitHub Epic: 
 - Adding description, metadata, related forms content to forms that were not considered high-priority during the MVP, but receive >200 downloads per month
