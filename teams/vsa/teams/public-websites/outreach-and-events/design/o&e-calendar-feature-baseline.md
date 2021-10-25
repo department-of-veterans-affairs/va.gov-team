@@ -90,7 +90,7 @@ We recommend avoiding a calendar or datepicker feature for several reasons:
 - Conduct discovery interviews or early usability studies to uncover how users want to find particular events and by what criteria
 - Refine and better organize event lists and content to address accessibility needs
 - Remove the Upcoming/Past events toggle; place "past" option in the timframe selector
-- Design all new features together; implement new functionality iteratively
+- Design all new features together; implement new functionality iteratively--start with When and Where (online vs. on-site)
 - Rework the Outreach hub page to have more relevant content
 - Refine/revise content on all "Outreach" pages to align with tone, voice and language mandates
 - Consider making inbound links to the Outreach and event page more prominent
