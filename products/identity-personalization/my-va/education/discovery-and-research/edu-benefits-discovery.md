@@ -20,9 +20,38 @@ The DGIB team has approached our team with some ideas of what could be on the My
 - What information can we show around payments?
 - What data do we have access to?
 - When should we surface the data we have access to?
+- What works currently?
+- What triggers this section on the dashboard?
+
+## Analytics review
+
+### Top 50 on VA.gov in the past year
+
+- VA payment history is #16 & #48 in the top 50 tasks
+- Download VA letters shows up 4 times in the top 50 tasks, the earliest is #20 (is this part of education benefits at all?)
+- GI Comparison tool is # 30
+- Post-911 GI Bill Chapter 33 benefits page is #34
+
+### Top 50 education pages in the past year
+
+1. /education/how-to-apply/index.html
+2. /education/gi-bill/post-9-11/ch-33-benefit/index.html
+3. /education/gi-bill/post-9-11/ch-33-benefit/status/
+4. /education/survivor-dependent-benefits/index.html
+5. /education/about-gi-bill-benefits/post-9-11/index.html
+6. /education/yellow-ribbon-participating-schools/index.html
+7. /education/index.html
+8. /education/eligibility/index.html
+9. /education/about-gi-bill-benefits/index.html
+10. /education/apply-for-education-benefits/application/1990/introduction/
+11. /education/survivor-dependent-benefits/dependents-education-assistance/index.html
+12. /education/change-gi-bill-benefits/index.html
+
+The rest of the links are for specific applications within the education benefits realm. 
+
+### Takeaways from Analytics
 
 
-TALK to the EDU team 
-What works currently
-What triggers the section on the dashboard
-What is the process of EDU? 
+How to apply is #1 - we already have this on My VA 
+
+
