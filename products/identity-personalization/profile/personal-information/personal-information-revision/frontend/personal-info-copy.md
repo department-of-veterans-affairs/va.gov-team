@@ -1,7 +1,7 @@
 # Personal Information Front-End Documentation
 
 
-## Personal Information Page - Default State
+## Personal Information Page - Desktop Default State
 
 ### Page URL
 - TBD
@@ -73,7 +73,7 @@ Edit your profile to add a sexual orientation <br>
 
 ### Sketch Mock-Ups
 
-- [Personal Information Page - Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
+- [Personal Information Page - Desktop Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
 
 
 ### Form Field Labels and Selection Options
