@@ -118,7 +118,7 @@ We recommend avoiding a calendar or datepicker feature for several reasons:
 ---
 
 <details>
-  <summary><strong>Outreach & Events current users flow</strong> (Click to show diagram)</summary>
+  <summary><strong>Outreach & Events screen concepts</strong> (Click to show diagram)</summary>
   
   ![Wireframes of MVP filtering feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/design/O&E_Wireframes_2.png)
   
