@@ -148,21 +148,21 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 **Key result #2** — Interaction: Increase overall clicks into claims, messages, appointment, and prescription CTAs. 
 
-[My VA Interactions Report: Jan - March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
+[My VA Interactions Report: Apr - June 2021](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210401&_u.date01=20210630&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
-[My VA Interactions Report: July 15 - August 15 2021 (revised naming conventions, custom report)](https://analytics.google.com/analytics/web/?authuser=0#/savedreport/_qH7yauBREi4LUUwrzMGRg/a50123418w177519031p176188361/_u.date00=20210715&_u.date01=20210815&_r.dsa=1&_.advseg=&_.useg=&_.sectionId=&3426-table.plotKeys=%5B%5D/)
+[My VA Interactions Report: July - Sept 2021](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20210701&_u.date01=20210930/)
 
-|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
+|KPI/metric|Baseline: Q2 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Clicks into individual claims ("view claim")| ~102K clicks|~205k|TBD|
-|Clicks to view all claims ("Manage all your claims and appeals")| ~77K|~192k|TBD|
-|Clicks to view all appointments ("Schedule and view your appointments")| ~20K|~42k|TBD|
-|Clicks to view all messages ("You have n unread messages")| ~32K|~49k|TBD|
+|Clicks into individual claims ("view claim")| ~124K clicks|~205k|TBD|
+|Clicks to view all claims ("Manage all your claims and appeals")| ~78K|~192k|TBD|
+|Clicks to view all appointments ("Schedule and view your appointments")| ~17K|~42k|TBD|
+|Clicks to view all messages ("You have n unread messages")| ~28K|~49k|TBD|
 |Clicks to view all prescriptions ("Refill and track your prescriptions")|~20K|~40k|TBD|
 
 **Key result #3** — Findability: Reduce search incidents for features that exist on My VA. None of the features on the page should be in the top 20 search terms for searches generate from My VA.
 
-[My VA Search Report: Jan – March 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20210331&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
+[My VA Search Report: April – June 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210401&_u.date01=20210630&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
 |KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
