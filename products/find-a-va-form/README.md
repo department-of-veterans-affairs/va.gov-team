@@ -164,8 +164,10 @@ Engagement
 ### Transforming Search Terms Iteration 2
 - Go-live: Jul 6, 2021
 - [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25954)
-- Forms API modifications to handle misspellings, disregard placement/omission of dashes, adds root word searching
+- Front-end search algorithm changes from March update were incorporated into the Forms API and removed from the Front-End code so that all API users could benefit from the improvements.
+- Forms API modifications took advantage of PostGres features to handle minor misspellings, disregard placement/omission of dashes
 - UI updates to make action links, buttons and text links consistent with other search tools
+- Forms API team added a new keyword field to their PostGres database that allowed the VA to add additional keywords that were not already part of the form name, description, or how the form is used.
 
 ### Use Administration Field for Related To Info
 - Go-live: Mar 24, 2021
@@ -175,7 +177,7 @@ Engagement
 ### Transforming Search Terms Iteration 1
 - Go-live: Mar 17, 2021
 - [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17244)
-- Updated the search algorithm 
+- Updated the search algorithm on the front-end so that a valid search term could be passed to the Forms API to produce a better search result
 
 ### Sort By Date
 - Go-live: Feb 11, 2021
