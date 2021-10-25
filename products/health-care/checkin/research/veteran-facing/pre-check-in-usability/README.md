@@ -12,7 +12,7 @@
 ## Participants
 
 | Session Notes   | Session Day & Time (Eastern Time) | Session Status | Phone | Role | Gender | Ethnicity | Age      | Education                | Branch             | Location | Metropolitan or Rural Area | Community Care | Notes |
-| ------------------------------------------------------------ |------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | ------------------ | --------- |
+| ------------------------------------------------------------ |------------ |  ------------ | ------------ | ------------ | ------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | ------------------ | --------- |
 | P01 | Tuesday, October 26 11:30am -12:30am |  | Android | Veteran | Male | White or Caucasian | 65 - 74 | Master's degree | Coast Guard | OK | Rural or remote area | Some |  |
 | P02 | Tuesday, October 26 12:30pm -1:30pm |  | Android | Veteran, Veteran's family member | Female | Black or African American | 45 - 54 | Master's degree | Air Force | GA | Major metropolitan area | Some |  |
 | P03 | Tuesday, October 26 1:30pm -2:30pm |  | Android | Veteran, Veteran's family member, Veteran's caregiver | Male | Hispanic, Latino, or Spanish Origin | 35 - 44 | High school diploma or equivalent (for ex: GED) | Army | TX | Rural area | Some |  |
