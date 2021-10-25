@@ -53,6 +53,10 @@ This research has two main goals
 
     </details>
     
+### Hypotheses
+
+
+    
 ### Research materials
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/services-taxonomy-conversation-guide.md)
@@ -63,7 +67,7 @@ This research has two main goals
 - Card sort
 - Tree test 
 
-## Recruitment
+## Recruitment and participants
 
 ## Timeline and scheduling
 
