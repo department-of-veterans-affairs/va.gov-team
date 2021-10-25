@@ -114,13 +114,14 @@ Provide a bulleted outline describing the required features of the product
 
 - [Yellow Ribbon Exit Pages](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p184334251/_r.drilldown=analytics.pagePath:~2Feducation~2Fyellow-ribbon-participating-schools~2Findex.html&_r.tabId=navigationsummary)
 
--Consider Domo Dashboard
+- [Standard Domo Dashboard - Filter by Yellow Ribbon](https://va-gov.domo.com/page/1964748112)
 
+## Post-MVP Product Enhancements ##
 
-## Product Enhancements ##
-
-|Name | Description | Launch Date | GitHub Issue | GitHub Directory|
-|--|--|--|--|--|
+**Incorporate search tips message into Yellow Ribbon Search
+- GitHub Epic: https://github.com/department-of-veterans-affairs/va.gov-team/issues/#17938
+- While the team was focused on a higher-priority product, a minor change was added to notify users to use full school names rather than abbreviations. 
+- Long-term, the search algorithm needs to be changed so that it utilizes school abbreviation metadata. [Related discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26829)
 
 -----
 
@@ -133,20 +134,12 @@ Provide a bulleted outline describing the required features of the product
 |Decision Tools|[Laurel Lawrence](https://github.com/laurellawrence)|Research/Design-Front-End|Ad Hoc|
 
 ## Key Artifacts
------
-|Artifacts  | Description |
-|--|--|
-|[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/README.md)| Statement of purpose with goals, design intent, etc.| 
-|[Product Super Epic]() | Product Development Master Epic for sub-epics|
-|[Design & Content Model]()| Design comps with annotated requirements |
-|[Product Documentation]()| Product Documentation for Contact Center |
------
+- |[MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-yellow-ribbon-school/README.md)| Statement of purpose with goals, design intent, etc.| 
 
+-----
 
 ## Technical Artifacts
-
-|Artifacts  | Description | Relevant Team/Stakeholders
-|--|--|--|
-|[Front-end Code Repository](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/yellow-ribbon)| Yellow Ribbon front-end source repo| [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
-|GI Bill Comparison Tool Client Data Service (GIDS) Documentation|powers Yellow Ribbon and GI Bill Comparison Tool|https://github.com/department-of-veterans-affairs/gibct-data-service|
+- [Front-end Code Repository](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/yellow-ribbon)| 
+- [Decision Tools Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/decision-tools)
+- [GI Bill Comparison Tool Client Data Service (GIDS) Documentation|powers Yellow Ribbon and GI Bill Comparison Tool](https://github.com/department-of-veterans-affairs/gibct-data-service)
 
