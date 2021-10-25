@@ -27,6 +27,8 @@
   * From 7/12/21 - LH will need a list of name strings to be sent in order to map service name to internal service name; CMS will need to iron out naming convention in order to send** (also research what's the right path for the data)
  
 </details>
+
+
 ## Monday, October 25, 2021
 * Duplicate facilities from VAST
 * Will VAST create new facilities each time one moves?
