@@ -3,11 +3,28 @@
 
 ## Current
 
-(H1) Choose a location
+**FORM TITLE**
 
-Below is a list of VA locations where you’re registered that offer COVID-19 vaccine appointments. Locations closest to you are at the top of the list.
+```
+NEW APPOINTMENT
+```
 
-(H2) Facilities based on your home address:
+**PAGE HEADER**
+
+```
+Choose a location
+```
+
+**PAGE DESCRIPTION**
+
+```
+Here’s a list of VA facilities where you’re registered that offer COVID-19 vaccine appointments. Locations closest to you are listed first.
+```
+
+**PAGE CONTENT**
+
+```
+Facilities based on your home address:
 
 {home address}
 
@@ -15,34 +32,42 @@ Or, use your current location
 
 Please select where you’d like to have your appointment. (*Required)
 
-- {Facility Name}<br>
-{facility address}<br>
+{Facility Name}
+{facility address}
 {distance}
 
-(H2) Some COVID-19 vaccines require 2 doses
+{Facility Name}
+{facility address}
+{distance}
+```
 
-If you get a vaccine that requires 2 doses, you'll need to return to the same facility for your second dose.
+**PROGRESS BUTTONS**
+
+```BACK```
+```CONTINUE```
+
 
 ---
 
 ### Error Validation
 
+```
 Please select a location for your appointment
+```
 
 ---
 
-### Alerts
+### Alerts (Modals)
 
 #### No Slots
 
+```
 We’re sorry. We couldn’t find any available slots for your appointment.
 
 Please call your medical facility:
 
 {facility name}
-
 {facility address}
-
 Main phone: {phone number}
-
 TTY: 711
+```
