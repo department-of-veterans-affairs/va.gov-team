@@ -1,8 +1,3 @@
-```diff
-
-@@ WORK IN PROGRESS @@
-
-```
 
 # State of Product: Find a Yellow Ribbon School
 
