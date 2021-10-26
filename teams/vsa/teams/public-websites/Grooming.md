@@ -43,8 +43,12 @@ None
 
 ### Future Work Grooming: 
 - Outreach & Events: Review wireframes, complete technical analysis, discuss FE build timeline. 
+     - Initial Usability Testing (Functional Prototype to run user sessions?)
 
 - Promo Banner Migration work: Starting thinking about this approach (Timing)
+     - What is needed from the FE build prospective?
+     - What is the LOE?
+     - Timing - When is CMS ready to impliment and support?
 
 
 ### Clarity Requests: 
