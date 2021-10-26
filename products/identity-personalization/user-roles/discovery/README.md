@@ -1,14 +1,39 @@
-# Project Outline: User Roles and Permissions Research
+# Project outline: User roles and permissions discovery research
 
----
+Last updated October 26, 2021
+
+### Communications
+
+- **GitHub Label**: vsa-authenticated-exp
+- **Slack channel**: vsa-authd-exp
+
+### Roles
+
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
+|Liz Lantz | Designer/Researcher | liz.lantz@adhocteam.us |
+
+### Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
+- [Solution Approach](#solution-approach)
+- [Key deliverables](#key-deliverables)
+- [Key dates](#key-dates)
+- [Screenshots](#screenshots)
 
 ## Overview
-VA Office of the CTO Identity Team is working on the following initiatives:
-1.	Consolidate pathways to sign on to Unified VA-wide Sign In Experience on VA.gov
-2.	Provide Login.gov as a credential choice for users
-3.	Ensure compliance with standards and legal requirements, including enforcement of multifactor authentication (MFA), document-based identity proofing, and accessibility
 
-They need the Authenticated Experience team's assistance better defining what a "non-Veteran" role looks like and associated use cases.
+VA Office of the CTO Identity Team is working on the following initiatives:
+
+1. Define all non-Veteran user roles for VHA, VBA, and NCA; identify the specific user types / roles, and what criteria a user needs to fit to qualify, according to each administration.
+2. Translate administration-specific user roles into a VA-wide set of unified definitions, which encompasses all user types / roles.Identify use cases and outcomes for each of the non-Veteran user roles across VHA, VBA, and NCA.
+3. Identify use cases and outcomes for each of the non-Veteran user roles across VHA, VBA, and NCA.
 
 
 ## Problem Statement
