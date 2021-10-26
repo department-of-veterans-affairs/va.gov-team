@@ -23,6 +23,10 @@ This research has two main goals:
 - To determine how Veterans would categorize the available services
 - To determine how Veterans expect to find information about these services while navigating the VA.gov site
 
+### Hypotheses
+
+
+
 ### Research Questions
 
 1) **How would Veterans categorize the services currently found under "Social programs and services"?**
@@ -53,10 +57,6 @@ This research has two main goals:
 
     </details>
     
-### Hypotheses
-
-
-    
 ### Research materials
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/services-taxonomy-conversation-guide.md)
@@ -68,6 +68,14 @@ This research has two main goals:
 - Tree test 
 
 ## Recruitment and participants
+
+We will utilize the Perigean contract recruiting. We'd like to schedule [TBD] participants to reach our goal of observing [TBD] participants.
+
+Participant criteria:
+
+- ***Must* have**
+
+- ***Good* to have**
 
 ## Timeline and scheduling
 
