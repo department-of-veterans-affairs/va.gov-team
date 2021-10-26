@@ -6,7 +6,7 @@ It has long been recognized that the Facility Locator's facility-centric search 
 - [Facility Locator product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
 - [EPIC #13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/13801) 
 
-** Resources
+**Resources**
 Ideas from Hackathon, November 2020
 - [Leyda Hughes](https://preview.uxpin.com/c300973e45a11d90a87d54bc788f6461da080480#/pages/134295035/simulate/sitemap?mode=i)
 - [Michelle Middaugh](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/ba3ed474-79a2-4bad-bb21-a5f04cf89402-original.pdf) 
