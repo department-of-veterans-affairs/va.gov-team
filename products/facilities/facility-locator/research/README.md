@@ -11,10 +11,8 @@
 |	Facility Operating Status	|	June 2020	|	To learn how Veterans understand the current messaging/categorization of statuses	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/facility-status/research-findings.md)	|
 |	Urgent care mashup	|	July 2020	|	To validate the usability and design of new facility locator search result cards which combine VA urgent care and community urgent care service types.	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)	|
 |	Facility Locator Mobile experience	|	Feb 2021	|	Understand how Veterans expectations for Find a VA Location search results differ for mobile vs desktop users and evaluate new designs created for geolocation, map view, and clear fields	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)	|
-|	Facility Locator Assistive Technology	|	Jun 2021	|	establish foundational knowledge of Veterans' Facility Locator search experience while using assistive technology on desktop and mobile devices.	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)	|
+|	Facility Locator Assistive Technology	|	Jun 2021	|	To establish foundational knowledge of Veterans' Facility Locator search experience while using assistive technology on desktop and mobile devices.	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)	|
 
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md
 
 See also: 
 [How to be a good observer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
