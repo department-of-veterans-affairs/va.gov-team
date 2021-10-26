@@ -87,6 +87,16 @@ Date | Time
 -----|-----
 [tbd] | [tbd]
 
+## Team
+ 
+- Moderator:
+- Research guide writing and task development:
+- Participant recruiting & screening: Perigean
+- Project point of contact:
+- Participant(s) for pilot test:
+- Note-takers: 
+- Observers:
+
 ## Appendix documents
 
 [VAMC Non-clinical services audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/research-findings.md)
