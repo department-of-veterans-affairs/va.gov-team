@@ -23,7 +23,6 @@ Last updated October 26, 2021
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Key deliverables](#key-deliverables)
-- [Key dates](#key-dates)
 
 ## Overview
 
@@ -87,23 +86,4 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Key result: 
   - Key result: 
 
-
----
-
-## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
-
-## Solution Approach
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-  - 
----
-
-## Solution Narrative
-
-### Current Status
-
-- October 2021: Discovery Phase 1 underway ([findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/user-roles/discovery/non-veteran-user-roles-discovery-phase-1.md))
+## Key deliverables
