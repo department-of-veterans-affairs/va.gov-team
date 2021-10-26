@@ -79,6 +79,14 @@ Participant criteria:
 
 ## Timeline and scheduling
 
+Study dates: [TBD]
+
+Session length: [TBD]
+
+Date | Time
+-----|-----
+[tbd] | [tbd]
+
 ## Appendix documents
 
 [VAMC Non-clinical services audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/research-findings.md)
