@@ -1,5 +1,5 @@
 # Contact Information Front-End Documentation
-The Contact information page will follow the same patterns as is currently used in Production.  The only change is that the Gender (now Birth Sex) and 
+The Contact information page will follow the same patterns as is currently used in Production.  The only change is that the Date of birth and Gender (now "Birth sex") and 
 
 ## Contact Information Page - Default State
 
