@@ -15,9 +15,9 @@ Ideas from Hackathon, November 2020
 ### What is the problem and who is affected? And, what evidence do we have of the problem?
 
 The Facility Locator currently forces Veterans to choose the type of facility they wish to search for. This assumes the following
-    * Veterans understand the organizational structure at the VA
-    * Services are offered at only one type of facility
-    * Or that Veterans understand that they should perform more than one type of search to get a full list of options
+- Veterans understand the organizational structure at the VA
+- Services are offered at only one type of facility
+- Veterans understand that they should perform more than one type of search to get a full list of options
     
 Services are not fully or accurately mapped for all facility types. 
 - The VA health service list has a small subset of the health service taxonomy and is not mapped for all facilities. For example, searching for VA health facilities offering emergency services will not return a list of all facilities known to offer this type of care and may include facilities which do not. 
