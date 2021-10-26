@@ -5,7 +5,6 @@
 
 ![Retro_102621](https://user-images.githubusercontent.com/90797205/138962760-15c8e2ea-ddcf-45e7-b971-bfb950cea2a4.png)
 
-
 <details>
 <summary>October 12, 2021</summary>
 
