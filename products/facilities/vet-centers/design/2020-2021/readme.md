@@ -1,4 +1,5 @@
 # Vet Center Detail Page Design History
+
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
 
 Designer: Leyda Hughes
