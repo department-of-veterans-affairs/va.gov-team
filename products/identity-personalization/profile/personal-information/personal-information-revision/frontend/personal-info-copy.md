@@ -123,12 +123,3 @@ Last Updated 10/25/2021
 | 5 | Date of Birth              | N/A - non-editable                                       |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; no change       
 | 6 | Birth Sex              | N/A - non-editable                                       |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; only change is updating the label from "Gender" to "Birth Sex"        
 
-## Contact Information Page
-### Sketch Mock-Up
-- [Contact Information Page](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/bg4kVKJ)
-
-### Before Update
-![image](https://user-images.githubusercontent.com/73354907/138769748-2be90faf-74ce-47fa-95dc-185ac5cd747a.png)
-
-
-### After Update
