@@ -37,6 +37,9 @@ None
 ### Backlog Tickets:
 
 - [ ] [508-defect-2, SCREENREADER] HTML should use meaningful landmarks [#31556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31556)
+- [ ] [BUG] Menu items for draft pages [Benefit Hubs], without causing broken links in menus or breadcrumbs [#29004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29004) 
+- [ ] [Tech Discovery] Veteran Crisis Line (VCL) Feature Toggle Add [#31866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31866) 
+- [ ] [Technical Discovery] Investigate unused KV pairs for react widgets in Drupal [#31865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31865)
 
 ### Future Work Grooming: 
 Promo Banner Migration work: Starting thinking about this approach (Timing)
