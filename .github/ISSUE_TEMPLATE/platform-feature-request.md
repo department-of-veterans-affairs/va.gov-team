@@ -13,9 +13,6 @@ labels: feature-request
 
 If you have a request for a feature you believe the VA Platform should implement, complete the information below. The more information Platform has, the faster we can process the request.
 
-We realize there are a lot of questions we are asking you to complete, but we hope to gather all the information we need to quickly assess and prioritize the request. 
-
-
 
 ## Describe the problem 
 
@@ -33,6 +30,5 @@ We realize there are a lot of questions we are asking you to complete, but we ho
 - [ ] Keeps these products and services available, stable, and secure.
 - [ ] Ensures they are consistent and meet high standards of quality in Veteran-centered user experience and technical approach. 
 - [ ] Provides shared tools, software, support, and technical infrastructure to accelerate their development. 
-  Keeps these products and services available, stable, and secure.
 - [ ] N/A
 
