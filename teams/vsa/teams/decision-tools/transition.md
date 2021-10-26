@@ -27,6 +27,7 @@
 - [BE GIBCT data service route Source Code](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/config/routes.rb#L62)
 - [BE GIBCT data service class Source Code](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/app/controllers/v0/yellow_ribbon_programs_controller.rb#L18)
 - [BE GIBCT data service model Source Code](https://github.com/department-of-veterans-affairs/gibct-data-service/blob/master/app/controllers/v0/yellow_ribbon_programs_controller.rb#L18)
+- [VA upload GUI for GIBCT Service](https://www.va.gov/gids/user/sign_in)
 - GitHub Label: dt-yellow-ribbon
 
 ## Discharge Upgrade Wizard Info
