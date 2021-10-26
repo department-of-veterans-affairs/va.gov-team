@@ -12,4 +12,14 @@ This document is meant to provide a general walkthrough of the application as we
 
 ## How the form works for the Veteran
 
-If the Veteran does have a COE or is eligible for an automatically approved COE then we want to tell them that up front. When the Veteran starts out they are meant to start out in an "Eligibility App" of sorts that will tell them if they already have a COE or if they are automatically approved for a COE. This app currenty resides at `/housing-assistance/home-loans/apply-for-coe-form-26-1880/eligibility`. In the code the eligibility app resides [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/containers/EligibilityApp.jsx). When the Veteran arrives at this page we make a call in Redux to attempt to see if the Veteran has a COE or is eligible for an automatic COE. That code is contained [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/actions/index.js).
+If the Veteran does have a COE or is eligible for an automatically approved COE then we want to tell them that up front. When the Veteran starts out they are meant to start out in an "Eligibility App" of sorts that will tell them if they already have a COE or if they are automatically approved for a COE. This app currenty resides at `/housing-assistance/home-loans/apply-for-coe-form-26-1880/eligibility`. In the code the eligibility app resides [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/containers/EligibilityApp.jsx). When the Veteran arrives at this page we make a call in Redux to attempt to see if the Veteran has a COE or is eligible for an automatic COE. That code is contained [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/actions/index.js). Once we get a response from the endpoint to determine if the Veteran has a COE or is eligible for an automatic COE there are a few different possible states -
+
+1. `The Veteran has a COE already (available)`
+2. `The Veteran is eligible for an automatic COE (eligible)`
+3. `The Veteran is not eligible for an automatic COE but can fill out a form to manually apply for one (ineligible)`
+4. `The Veteran already manually applied for a COE but the application is still pending (pending)`
+5. `The Veteran already manually applied for a COE but the application is still pending AND the VA requires more documents or correspondance from the Veteran (pending-upload)`
+6. `We were unable to determine if the Veteran was eligible for an automatic COE (unable-to-determine-eligibility)`
+7. `The Veteran was denied for a COE (denied)`
+
+
