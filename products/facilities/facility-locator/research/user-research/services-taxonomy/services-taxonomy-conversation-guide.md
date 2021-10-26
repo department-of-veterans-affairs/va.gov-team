@@ -33,3 +33,24 @@ Before we start, a few things I want to mention:
 
 
 
+## Usability tasks
+
+### Task 1 - Card sort
+
+
+
+### Task 2 - Tree test
+
+
+
+## Closing
+
+### Post-research follow-up questions
+
+### Thank you and closing
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
+
+Great, well thank you so much again, and enjoy the rest of your day!
