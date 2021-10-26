@@ -98,4 +98,5 @@ Date | Time
 
 ## Appendix documents
 
-[VAMC Non-clinical services audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/research-findings.md)
+- [VAMC Non-clinical services audit findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/research-findings.md)
+- [Non-clinical services audit spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/audit-spreadsheet-vha-health-services-Oct2021.xlsx)
