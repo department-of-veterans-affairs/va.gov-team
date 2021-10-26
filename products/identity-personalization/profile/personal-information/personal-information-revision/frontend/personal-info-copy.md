@@ -10,9 +10,24 @@
 - [Personal Information Page - Desktop Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)
 - Personal Information Page - Mobile Read-only state
 
-### Form Field Labels and Content
+### H1
+- Personal information
 
-In the Personal Information page's read-only state, the fieldset **should not** contain a gray header so as not to create duplicate headers for screen readers, and each field block with the set will contain:
+
+### Left Nav
+- Personal information
+- Contact information
+- Military information
+- Direct deposit information
+- Account security
+- Connected apps
+
+### Field Set
+- Per a11y feedback in design intent review, the fieldset div **should not** contain a gray header with "Personal information" because it causes screen readers to "Personal information" twice, which may be confusing.
+
+### Field Labels and Content
+
+Each div within the form field set will contain:
   - Field label
   - Current value(s) or edit information (if editable)
   - Edit button (if editable)
@@ -77,6 +92,19 @@ Edit your profile to add a sexual orientation <br>
 - [Personal Information Page - Desktop Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
 - Personal Information Page - Mobile Edit state
 
+### H1
+- Personal information
+
+### Left Nav
+- Personal information
+- Contact information
+- Military information
+- Direct deposit information
+- Account security
+- Connected apps
+
+### Field Set
+- Per a11y feedback in design intent review, the fieldset div **should not** contain a gray header with "Personal information" because it causes screen readers to "Personal information" twice, which may be confusing.
 
 ### Form Field Labels and Selection Options
 Last Updated 10/25/2021
