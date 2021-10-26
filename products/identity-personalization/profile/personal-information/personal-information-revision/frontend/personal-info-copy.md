@@ -5,7 +5,7 @@
 
 ### Page URL
 - TBD
-- 
+
 ### Sketch Mockup
 - [Personal Information Page - Desktop Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)
 - Personal Information Page - Mobile Read-only state
