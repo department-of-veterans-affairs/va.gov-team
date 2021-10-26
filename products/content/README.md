@@ -1,55 +1,11 @@
 # VA.gov Content
 
 ## Communications
-- GitHub Label: 
-- Slack channel:
-- Product POCs: 
-- Stakeholders: 
+- GitHub label: sitewide-content
+- Slack channel: #va-sitewide-content
+- Product POCs:
+   - For benefits and burials and memorials: Beth Potts
+   - For health care, authenticated experience, mobile app, and debt: Danielle Thierry
+   - For overall content strategy, resources and support, content standards, and content style guide: Beth Potts, Danielle Thierry 
+- Stakeholders: Various across VA
 
-## The Problem
-
-
-### User Goals
-
-
-### Business Goals
-
-
-## Assumptions
-
-## Questions
-
-## Requirements
-#### In Scope 
-
-#### Out of Scope
-
-## Solution Approach
-
-## Value Propositions
-
-## KPIs
-
----
-
-# Implementation Info
-
-## Status
-
-## Technical Decisions
-
-## Product Decisions
-
-## Team
-
-- VA Digital Strategist(s): 
-- Product Manager:  
-- Design Lead: 
-- Eng Lead: 
-- Engineers:
-   
-## Screenshots
-
-### Before
-
-### After
