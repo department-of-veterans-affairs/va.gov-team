@@ -1,95 +1,108 @@
-# Project Outline (Initiative Brief): User roles & permissions - Dependents user roles research & discovery
-#### Overview
+# Project Outline: User Roles and Permissions Research
 
-## Outcome Summary
-Conduct usability testing/research to define the top priorities of a dependent user role. Initial thinking is that dependents need to be able to sign into VA.gov to retrieve benefit letters. Our research should help validate, or invalidate this need, and ideally, identify if there are other potentially higher priorities that dependents may have in accessing an authenticated experience on VA.gov. Ultimately this research will be used to scope what a dependent user role MVP looks like on VA.gov.
+---
 
-**Related/Associated product(s)**
-- Profile | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md) 
+## Overview
+VA Office of the CTO Identity Team is working on the following initiatives:
+1.	Consolidate pathways to sign on to Unified VA-wide Sign In Experience on VA.gov
+2.	Provide Login.gov as a credential choice for users
+3.	Ensure compliance with standards and legal requirements, including enforcement of multifactor authentication (MFA), document-based identity proofing, and accessibility
 
-## Problem
-* **What is the problem and who is affected? And, what evidence do we have of the problem?** The suspected problem is that dependents don't have an easy way to retrieve benefit letters. However, there are a lot of unknowns about this. There are only "rumors" that dependents access VA.gov for this purpose. We'll need to validate whether that is in fact true, and determine if there are other needs that are potentially more common or more important.
-
-* **How does this initiative help further OCTO-DE's mission and goals?**
-This research would be done in direct service of several of OCTO-DE's mission and goals. For example, If we determine that dependents are in fact using VA.gov to retrieve benefit letters, or there are other needs identified, the work would be done in direct service of providing a Veterans and their families a single source for information and resources. Additionally, depending on our research findings, this could point us in the direction of creating a more personalized experience on VA.gov not only for Veterans, but for their dependents, as well any other future user roles that come out of this work, i.e. caregivers, POA's etc. This work also supports the goals of providing Veterans and their families with service that they trust (security, accuracy and relevancy); providing Veterans and their families with a seamless experience to apply for benefits and track applications, claims and appeals online.
-
-### Hypotheses
-We should conduct usability testing/research on a prototype that allows dependents to retrieve benefit letters from VA.gov to validate whether retrieving benefit letters should be the functionality we build for dependents as part of our MVP - and to help identify if there are other functions that dependents would benefit from. 
+They need the Authenticated Experience team's assistance better defining what a "non-Veteran" role looks like and associated use cases.
 
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+## Problem Statement
+Currently, what defines a “non-Veteran” and their use cases are not well understood across the VA. Each administration—VHA, VBA, and NCA—has their own unique definitions and nuances, which significantly increase the complexity of solving for the “non-Veteran” use case. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
-## Undesired User Outcomes
+_How might we provide better definitions of non-Veteran user roles, and their use cases?_
+
+## Desired Outcomes
+
+- All non-Veteran user roles for VHA, VBA and NCA are defined as specific user types/roles
+- What criteria does each user role need to meet in order to qualify for each user role, according to each administration
+- The business definitions of the user roles (i.e. how VHA, VBA and NCA) are reconciled across eachother
+- All non-Veteran user roles are defined from a _user_ perspective
+- The business definitions of the various user roles are reconciled with the user-defined/understandings of user roles
+
+Answering these questions will allow the Identiy team to better scope the technical solution for user roles and permissions.
+
+## Undesired Outcomes
+- Assuming that the business definitions of user roles will translate to users
+
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
--->
+
 
 ---
 ## Measuring Success
 
+
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+* _What are the most important metrics that track with this product/initiative's success?_
+* _Include links to Domo or Google Analytics Dashboards/Reports_
+* _**Limit 5-6 KPIs per product**__
 
-Should we pursue benefit letters for dependents as our MVP...
+| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
+|----------|-------------|--------------------|--------------------|--------|
+| KPI      |             |                    |                    |        |
+| KPI      |             |                    |                    |        |
 
-|Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) |
-|------------|----------|--------|-------------------------------------|
-| Usage | _there may not be a way for us to accurately identify how many dependents are accessing VA.gov currently without an existing official dependent role_| Establish ability to identify different user role usage stats | TBD |
-| Enagegment | TBD - we'll need to determine current level of engagement by dependents with benefit letters | Increase by n% over quarterly basis | TBD |
+#### Baseline KPI Values
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
+### Objectives and Key results (OKRs)
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+- Objective:
+  - Key result: 
+  - Key result: 
+
 
 ---
 
-## Discovery
-### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
+## Assumptions
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
-- **Value Risks** (will people use it): 
-  - We assume dependents will use VA.gov
-  - We assume accessing benefit letters is the top priority for dependents on VA.gov
-  - We assume that dependents are not sharing roles/responsibilities with caregivers, POAs, or other user roles 
+## Solution Approach
 
-- **Usability Risks** (can people figure out how to use it):
-  - We assume dependents want the ability to access VA.gov independtly from their Veteran family member(s)
-  
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Dependency on Identity team - assumption that they are capable of building the backend for this and we would be providing the frontend
+- *What are you going to build now, and why have you decided to start there?*
+- *Why this solution / approach over other solutions / approaches?*
+- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Why does VA believe this user role needs to exist on VA.gov?
+### Initiatives
+*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
+- Initiative | [Link to Initiative Brief](#)
 
 --- 
 
-## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-NA - discovery only
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-NA - discovery only, but looking to conduct this research early in Q4
-
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-NA
-
-
-#### Initiative Launch Dates
-NA - discovery only
-
+## Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
   - tbd
+- *What date will you evaluate impact after launch?*
+  - 
+---
+
+## Solution Narrative
+
+### Current Status
+
+- October 2021: Discovery Phase 1 underway ([findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/user-roles/discovery/non-veteran-user-roles-discovery-phase-1.md))
+
+### Key Decisions
 
 ---
    
@@ -102,28 +115,34 @@ NA - discovery only
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
 
 <details>
 
 - Team Name: 
-- GitHub Label(s): 
+- GitHub Label: 
 - Slack channel: 
 - Product POCs:
+- Stakeholders: 
 
+</details>
+
+#### Team Members
+
+<details>
+ 
+ - DEPO Lead: 
+ - PM: 
+ - Engineering:
+ - Research/Design: Liz Lantz
+ 
 </details>
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
 <details>
-  
-- Office/Department:
-- Contact(s): 
+ 
+_What offices/departments are critical to make this initiative successful?_
  
 </details>
 
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
