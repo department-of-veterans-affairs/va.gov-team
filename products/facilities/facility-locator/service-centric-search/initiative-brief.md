@@ -20,7 +20,8 @@ The Facility Locator currently forces Veterans to choose the type of facility th
 - Veterans understand that they should perform more than one type of search to get a full list of options
     
 Services are not fully or accurately mapped for all facility types. 
-- The VA health service list has a small subset of the health service taxonomy and is not mapped for all facilities. For example, searching for VA health facilities offering emergency services will not return a list of all facilities known to offer this type of care and may include facilities which do not. 
+- The VA health service list has a small subset of the health service taxonomy. 
+- Services which are currently available for searching aren't necessarily mapped accurately for all facilities. Searching for VA health facilities offering emergency services may not return a list of all facilities known to offer this type of care and may include facilities which do not. 
 - Benefit services are not listed in plain language and may not be complete. 
 - Community care searches rely on a typeahead functionality powered by a clinical/billing taxonomy which is not at all Veteran facing and does not map to VA health services.
 
