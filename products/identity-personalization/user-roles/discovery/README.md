@@ -64,26 +64,22 @@ We hope to accomplish the following with our research:
 ---
 ## Measuring Success
 
+These are OKRs and KPIs for this research effort:
 
-### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+**Objective: Define all non-Veteran user roles for VHA, VBA, and NCA; identify the specific user types / roles, and what criteria a user needs to fit to qualify, according to each administration.**
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+- **Key result #1**: We have vetted a list of different user roles with each administration and received sign-off.
 
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+**Objective: Translate administration-specific user roles into a VA-wide set of unified definitions, which encompasses all user types / roles. Identify use cases and outcomes for each of the non-Veteran user roles across VHA, VBA, and NCA.**
 
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+- **Key result #1**: We have compiled a unified list of user roles that could be translated into user permissions on VA.gov.
 
-- Objective:
-  - Key result: 
-  - Key result: 
+**Objective: (Stretch goal) Identify use cases and outcomes for each of the non-Veteran user roles across VHA, VBA, and NCA.**
+
+- **Key result #1**: We have started to compile a list of use cases and outcomes that can be used to support future research and definition.
 
 ## Key deliverables
+
+- Deliverable 1
+- Deliverable 2
+- etc...
