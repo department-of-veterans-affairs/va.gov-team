@@ -5,7 +5,7 @@
 - Designer: Leyda Hughes
 
 ## Final MVP design 
-- [Final MVP design](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138920563) - UXPin prototype
+- [Final MVP design](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138920563) - UXPin prototype. If link doesn't work this is a link to the original [UXPin file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/design/2020-2021/Vet-Center-Product.uxp)
 - [Prototype used in user testing](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529) - includes working accordions
 
 ### Component Notes:
