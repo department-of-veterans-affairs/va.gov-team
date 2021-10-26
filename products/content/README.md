@@ -1,4 +1,4 @@
-# VA.gov Content
+# VA.gov content
 
 ## Communications
 - GitHub label: sitewide-content
