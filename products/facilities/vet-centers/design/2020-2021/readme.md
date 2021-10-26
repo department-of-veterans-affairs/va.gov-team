@@ -5,8 +5,8 @@
 - Designer: Leyda Hughes
 
 ## Final MVP design 
-- [Final MVP design](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138920563) - UXPin prototype. If link doesn't work this is a link to the original [UXPin file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/design/2020-2021/Vet-Center-Product.uxp)
-- [Prototype used in user testing](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529) - includes working accordions
+- [Final MVP design](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138920563) - UXPin mobile prototype of Main and Locations pages. If prototype link ceases to work, the following is a link to the [original UXPin file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/design/2020-2021/Vet-Center-Product.uxp). The accordions in this prototype are accurate for content (at the time of launch) but do not behave as intended as they do not move the content below it.
+- [Prototype used in user testing](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529) - includes working accordions and interactions.
 
 ### Component Notes:
 - **Operating status** - This project required making an update to the standard alert in the design system to accommodate a mobile friendly operating status that could give inline information since they would not be able to link to other pages for more information. 
