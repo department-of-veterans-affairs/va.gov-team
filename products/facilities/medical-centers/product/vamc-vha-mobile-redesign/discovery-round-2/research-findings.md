@@ -1,4 +1,4 @@
-# Mobile clinic design stakeholder feedback sessions - Research findings
+# Research findings - Design validation (Mobile clinic design stakeholder feedback sessions) 
 
 ## Office of the CTO - Digital Experience (OCTO-DE) and VSA, Search & Discovery
 
