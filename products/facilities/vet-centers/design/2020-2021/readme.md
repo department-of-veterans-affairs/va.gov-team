@@ -1,8 +1,21 @@
 # Vet Center Detail Page Design History
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
+- [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
 
-Designer: Leyda Hughes
+- Designer: Leyda Hughes
+
+## Final MVP design 
+- [Final MVP design](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138920563) - UXPin prototype
+- [Prototype used in user testing](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529) - includes working accordions
+
+### Component Notes:
+- **Operating status** - This project required making an update to the standard alert in the design system to accommodate a mobile friendly operating status that could give inline information since they would not be able to link to other pages for more information. 
+    - See the [Expandable Alert](https://design.va.gov/experimental-design/expandable-alert) in the experimental design section of the design system. 
+    - See the [expandable alert with design specs](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138515145) for background.
+- **Featured Content / Spotlight / blue box** - A unique version of the featured content component was created for this project. It is not in the experimental design system yet but should be in the future as the facilities learns from Vet Center editors what guardrails need to be put in place for an update to the official component to be proposed.  
+    - See the [Featured Content](https://design.va.gov/components/featured-content) component in the design system. 
+    - See the [custom featured content component with design specs](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/137069227) used on Vet Centers pages.
+    - See Kevin Walsh'es [audit of other permutations](https://www.notion.so/leyda/Work-Wiki-13ce566fc06449a185ede8a52d32f9e1#65fb7adc45354e37bb3c045953eb45d6) of this component.
 
 ## Iteration 6 - Sprint 36 (ending Dec 15, 2020)
 #### Designs
