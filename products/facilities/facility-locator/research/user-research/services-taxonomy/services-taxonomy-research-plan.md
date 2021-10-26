@@ -63,8 +63,9 @@ This research has two main goals:
   
 ## Methodology
 
-(Possible methods)
 - Card sort
+    - 
+
 - Tree test 
 
 ## Recruitment and participants
