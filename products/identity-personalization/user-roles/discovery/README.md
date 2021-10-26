@@ -80,6 +80,6 @@ These are OKRs and KPIs for this research effort:
 
 ## Key deliverables
 
-- Deliverable 1
-- Deliverable 2
+- [Ongoing research notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/ongoing-research-notes.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/user-roles-stakeholder-interview-research-plan.md)
 - etc...
