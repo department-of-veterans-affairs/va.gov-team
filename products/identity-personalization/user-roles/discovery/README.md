@@ -38,13 +38,19 @@ The identity team asked the authenticated experience team to help them with rese
 
 Currently, there is not a unified definition for each of the non-veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA.
 
-## Desired Outcomes
+## User Outcomes
 
-### User outcomes
+### Desired outcomes
 
 - This reseach continues to move us towards being able to support non-veteran customers on VA.gov.
 
-### Business outcomes
+### Undesired outcomes
+
+- This research should **not** be directly translated  to functionality on VA.gov without first conducting additional research to verify our assumptions with user research. This would put us at risk for building something that's not actually helpful to our non-veteran customers.
+
+## Business Outcomes
+
+### Desired outcomes
 
 We hope to accomplish the following with our research:
 
@@ -52,13 +58,7 @@ We hope to accomplish the following with our research:
 - We can define each administration's criteria for each user role.
 - We have unified definitions across administrations for each user role that can guide how we might define different user types on VA.gov.
 
-## Undesired Outcomes
-
-### User outcomes
-
-- This research should **not** be directly translated  to functionality on VA.gov without first conducting additional research to verify our assumptions with user research. This would put us at risk for building something that's not actually helpful to our non-veteran customers.
-
-### Business outcomes
+### Undesired outcomes
 
 - We are unable to figure out broad categories for each user role that we can apply to VA.gov.
 
