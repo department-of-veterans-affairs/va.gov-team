@@ -21,7 +21,7 @@ Before we start, a few things I want to mention:
 - **In this session, we want to hear your honest opinions**. 
   * We are not testing you, or your ability, instead, we are testing the website to better meet Veteran's needs. 
   * You cannot do anything wrong. I will not be offended by any opinions you express, and I welcome your feedback.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we complete analysis, and none of your comments will be attributed to you directly. 
   * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 - **If for any reason and at any time you want to stop the session, please let me know.**
 
@@ -29,5 +29,7 @@ Before we start, a few things I want to mention:
 
 * **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
 
-### Warm-up questions
+### Warm-up
+
+
 
