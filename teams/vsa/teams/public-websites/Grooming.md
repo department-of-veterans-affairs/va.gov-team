@@ -42,7 +42,9 @@ None
 - [ ] [Technical Discovery] Investigate unused KV pairs for react widgets in Drupal [#31865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31865)
 
 ### Future Work Grooming: 
-Promo Banner Migration work: Starting thinking about this approach (Timing)
+- Outreach & Events: Review wireframes, complete technical analysis, discuss FE build timeline. 
+
+- Promo Banner Migration work: Starting thinking about this approach (Timing)
 
 
 ### Clarity Requests: 
