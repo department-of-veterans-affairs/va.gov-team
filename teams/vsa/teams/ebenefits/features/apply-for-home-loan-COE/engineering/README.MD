@@ -19,7 +19,7 @@ Table of Contents
 _The intended audience for this document are software engineers, but it should make sense to anyone familiar with software development._
 
 ## Background
-Veterans need asssistance in getting a home loan, first step is to check for eligibility to get one through the VA. Ideally they should be able to get one online and find out quickly what their next steps are based on their specific information. This eligibility is provided through a Certificate of Eligibility, otherwise known as a COE.
+When Veterans need asssistance in getting a home loan the first step is to check for eligibility to get one through the VA. Ideally they should be able to get one online and find out quickly what their next steps are based on their specific information. This eligibility is provided through a Certificate of Eligibility, otherwise known as a COE.
 
 ### Where we come in
 Since the Veteran's process for viewing thier COE currently depends on the eBenefits platform, we need to build the functionality for the Veteran to view and download their COE on VA.gov. We intend to build this using the specs contained in this document.
