@@ -38,6 +38,7 @@
 
 ## October 27 
 
+* CLP status and next steps
 * CMS Product support roadmap for Q4
 * Virtual agent team support
 * Outreach & Events: In the outreach event description do the "teaser" and 'description" fields have set character limits?  If so, what are they for each field?
