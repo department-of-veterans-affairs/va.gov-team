@@ -40,6 +40,19 @@ Edit your profile to add a preferred name <br>
 
 ---
 
+**Date of birth** 
+- _Note - this field is non-editable_
+
+
+---
+
+**Birth Sex**
+- _Note this is a change to the existing label that currently reads 'Gender'_
+- _Note - this field is non-editable_
+
+---
+
+
 **Pronouns** <br>
 Edit your profile to add a pronoun <br> 
 {Edit button}
@@ -59,17 +72,6 @@ Edit your profile to add a sexual orientation <br>
 ---
 
 
-**Date of birth** 
-- _Note - this field is non-editable_
-
----
-
-
-**Birth Sex**
-- _Note this is a change to the existing label that currently reads 'Gender'_
-- _Note - this field is non-editable_
-
----
 
 
 ### Example of default state: 
@@ -113,13 +115,15 @@ Last Updated 10/25/2021
 
 | Field | Label              | Form Control                                        | Max Length | Data Type | Pre-Populated Options    | Comments                                                             |
 |-----------|--------------------|-----------------------------------------------------|------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1         | Preferred name     | Text input                                          | 25         | Char      | N/A                                                                                                                                                          |                            |
-| 2         | Pronouns           | Checkboxes + text input (2a) when "Other" selected  | Pre-filled | Char      | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Pronouns not listed here: [open text field]"  |  |
-| 2a        | N/A             | Text input                                          |25       | Char      | N/A                                                                                                                                                          | Captures custom value for Pronouns when "Pronouns not listed here" is selected            |
-| 3         | Gender identity    | Radio buttons + text input (3a) when "Prefer to self-describe" selected  | Pre-filled | Char      | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here: [open text field]"                       |                                                                      |
-| 3a        | N/A              | Text input                                          | 25        | Char      | N/A                                                                                                                                                          | Captures custom value for Gender Identity when "A Gender not listed here" is selected     |
-| 4         | Sexual orientation | Radio buttons + text input (4a) when "Other" selected  | Pre-filled | Char      | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here: [open text field]"|   |
-| 4a        | N/A            | Text input                                          |25        | Char      | N/A                                                                                                                                                          | Captures custom value for Sexual Orientation when "A sexual orientation not listed here: is selected  
-| 5 | Date of Birth              | N/A - non-editable                                       |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; no change       
-| 6 | Birth Sex              | N/A - non-editable                                       |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; only change is updating the label from "Gender" to "Birth Sex"        
+| 1         | Preferred name     | Text input                                          | 25         | Char      | N/A                                                           
+| 2 | Date of Birth              | N/A - non-editable                                       |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; no change   
+| 3 | Birth Sex              | N/A - non-editable                                       |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; only change is updating the label from "Gender" to "Birth Sex"      |                            |
+| 4         | Pronouns           | Checkboxes + text input (4a) when "Other" selected  | Pre-filled | Char      | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Pronouns not listed here: [open text field]"  |  |
+| 4a        | N/A             | Text input                                          |25       | Char      | N/A                                                                                                                                                          | Captures custom value for Pronouns when "Pronouns not listed here" is selected            |
+| 5         | Gender identity    | Radio buttons + text input (5a) when "Prefer to self-describe" selected  | Pre-filled | Char      | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here: [open text field]"                       |                                                                      |
+| 5a        | N/A              | Text input                                          | 25        | Char      | N/A                                                                                                                                                          | Captures custom value for Gender Identity when "A Gender not listed here" is selected     |
+| 6         | Sexual orientation | Radio buttons + text input (6a) when "Other" selected  | Pre-filled | Char      | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here: [open text field]"|   |
+| 6a        | N/A            | Text input                                          |25        | Char      | N/A                                                                                                                                                          | Captures custom value for Sexual Orientation when "A sexual orientation not listed here: is selected  
+
+  
 
