@@ -1,6 +1,6 @@
 ---
 name: Platform Feature Request
-about: If you have a request for a feature you believe the VA Platform should implement, complete the information below. The more information Platform has, the faster we can process the request.
+about: If you have a request for a feature you believe the VA Platform should implement, complete the information below.
 title: Feature Request [Team-Name, Feature-Name]
 labels: feature-request
 ---
