@@ -56,11 +56,11 @@
 - Addition per Slack:
 
 Steve Wirt  
-Thanks @Sharon Kasimow I think the one part that got recorded "Has any UX research been done?" but could use more emphasis.  It would be good to have a UX plan to build toward.  Otherwise we are throwing a variety of technical solutions at the wall and hoping one sticks.
+  - Thanks @Sharon Kasimow I think the one part that got recorded "Has any UX research been done?" but could use more emphasis.  It would be good to have a UX plan to build toward.  Otherwise we are throwing a variety of technical solutions at the wall and hoping one sticks.
 
 
 Sharon Kasimow  
-Hi @Steve Wirt!  To clarify, we currently have usability research underway. We’re not quite at the point where we’re asking for technical implementation but will lead with UX once we are ready. The goal for now is to gather technical input and figure out what limitations or obstacles we’ll need to work around and also, to be aware of technical inits like the public API that will have a big impact on our approach.
+  - Hi @Steve Wirt!  To clarify, we currently have usability research underway. We’re not quite at the point where we’re asking for technical implementation but will lead with UX once we are ready. The goal for now is to gather technical input and figure out what limitations or obstacles we’ll need to work around and also, to be aware of technical inits like the public API that will have a big impact on our approach.
 
 
 
