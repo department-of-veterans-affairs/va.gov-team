@@ -21,9 +21,9 @@ body:
       required: true
   - type: textarea
   - type: input
-    id: Describe
+    id: Widespread
     attributes:
-      label: Describe the problem
+      label: who do you believe would benefit
       description: How widespread is the problem, i.e. who do you believe would benefit from the Platform solving this problem?
       placeholder: 
     validations:
