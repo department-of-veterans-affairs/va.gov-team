@@ -27,5 +27,9 @@
 - MSA greeted him, asked the same check in questions then asked if he would also be willing to try checking in with the mobile app. Note: MSA mentioned that this patient already used the mobile app a few weeks ago. 
 - He held up his phone and scanned the QR code by the check in window
 - He very quickly received a text about getting some information to start the check in process...
-- Then about 30 seconds later he received a link, which he opened and stated that it said he didn't have an appointment today. The MSA confirmed that he indeed did have an appointment. He decided to refresh the screen. 
-- Then it displayed 
+- Then about 30 seconds later he received a link, which he opened and stated that **it said he didn't have an appointment today**. The MSA confirmed that he indeed did have an appointment. He decided to refresh the screen. 
+- Then it displayed his contact information, and his two appointments. He checked in for the first appointment with the nurse. The second appointment was 30 minutes later with the physician.
+- On a scale of 1-10 would you recommend it? Well it depends on the veteran, not my father-in-law, he doesn't have a smart phone. I don't know. I'd give it an 8. 
+
+### Veteran #5 
+
