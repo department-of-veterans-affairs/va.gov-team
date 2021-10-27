@@ -1,61 +1,21 @@
-body:
-- type: textarea
-  id: repro
-  attributes:
-    label: Reproduction steps
-    description: "How do you trigger this bug? Please walk us through it step by step."
-    value: |
-      1.
-      2.
-      3.
-      ...
-    render: bash
-  validations:
-    required: true
-    
-    
-    name: Environment Access Request
-description: To request access to dev tools
-title: Access for [individual]
-labels: ['external-request', 'operations', 'ops-access-request']
+labels:
+  - "platform-architecture-working-group"
+  - "Internal Request"
+assignees:
+  - f1337
+  - thepipster
+  - td-usds
+  - mchelen-gov
 body:
   - type: markdown
     attributes:
       value: |
-        1. Change the **Title** to include your name
-        2. Add the label used by your team (eg: `BAH-526`)
-        3. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        4. When the issue is closed you will be notified and can continue with on-boarding setup
+        Thanks for taking the time to fill out this request!
   - type: input
-    id: cor-name
+    id: topic
     attributes:
-      label: COR Name
-      description: Please provide your Contracting Officer's Representative (COR) name.
-      placeholder: ex. Janet Doe
+      label: Topic
+      description: What is the topic to discuss?
+      placeholder: AWS network architecture
     validations:
       required: true
-  - type: input
-    id: vendor
-    attributes:
-      label: Vendor Onboarding Representative Name
-      description: This is the person from the contracting company responsible for your onboarding process.
-      placeholder: ex. Janet Doe
-    validations:
-      required: true
-  - type: input
-    id: requestor-name
-    attributes:
-      label: Your Name
-      description: Please provide your name.
-      placeholder: ex. Jane Doe
-    validations:
-      required: true
-  - type: input
-    id: email
-    attributes:
-      label: Your Email
-      description: Please provide your name.
-      placeholder: ex. jane.doe@gmail.com
-    validations:
-      required: true
-  - type: input
