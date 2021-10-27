@@ -37,7 +37,7 @@ body:
   - type: textarea
     id: evidece
     attributes:
-      label: Provide the evidence
+      label: Provide evidence
       description: "Provide the evidence that you have on the need for this enhancement"
       placeholder: 
     validations:
