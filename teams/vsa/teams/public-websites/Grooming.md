@@ -37,8 +37,10 @@ None
 ### Backlog Tickets:
 
 - [ ] [BUG] Menu items for draft pages [Benefit Hubs], without causing broken links in menus or breadcrumbs [#29004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29004) 
+- [ ] Support more then one announcement [#30354](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30354) 
 - [ ] [Tech Discovery] Veteran Crisis Line (VCL) Feature Toggle Add [#31866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31866) 
 - [ ] [Technical Discovery] Investigate unused KV pairs for react widgets in Drupal [#31865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31865)
+- [ ] [Discovery] 404 page content, accessibility and design [#31208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31208) 
 
 ### Future Work Grooming: 
 - Outreach & Events: Review wireframes, complete technical analysis, discuss FE build timeline. 
