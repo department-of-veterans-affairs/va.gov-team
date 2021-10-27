@@ -27,10 +27,10 @@ body:
     validations:
       required: true
   - type: textarea
-    id: benefit
+    id: Describe 
     attributes:
-      label: Who will benefit 
-      description: "How widespread is the problem, i.e. who do you believe would benefit from the Platform solving this problem?"
+      label: Describe your idea
+      description: "Describe your Platform feature or service idea, in other words describe how you think the Platform should solve this"
       placeholder: 
     validations:
       required: true
