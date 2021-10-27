@@ -6,6 +6,7 @@
 - Phase 1: UAT 
 - Phase 2: Staged Rollout (Stage A: 25%, Stage B 50%)
 - Phase 3: Go Live!
+- Phase 4: UAT Round 2 (Capturing use cases for veterans with more than one statement)
 
 
 ## 🌀 Phase I:  User Acceptance Testing (UAT) - moderated production testing
@@ -41,7 +42,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 #### Planning
 
 - Length of time(_minimum 2 hours_): **24 hour period**
-- Percentage of Users (and roughly how many users do you expect this to be): **25% ( X users)** (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+- Percentage of Users (and roughly how many users do you expect this to be): **25% (Approx 25 users)** 
 
 #### Results:
 - Number of unique users: x
@@ -49,6 +50,8 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+
+_NOTE: Proceeding to Stage B will be dependent on the # of errors and UX changes required._
 
 ### Stage B: Moderate 50%
 
@@ -57,7 +60,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 #### Planning
 
 - Length of time: **48 hour period**
-- Percentage of Users (and roughly how many users do you expect this to be): **50% (x users)**
+- Percentage of Users (and roughly how many users do you expect this to be): **50% (Approx 50 users)**
 
 #### Results:
 - Number of unique users: x
@@ -66,7 +69,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
+_NOTE: Proceeding to 100% Go Live will be dependent on the # of errors and UX changes required._
 
 ## 🌀 Go Live!
 
