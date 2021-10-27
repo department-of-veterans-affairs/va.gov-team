@@ -13,8 +13,8 @@
 
 ### Planning:
 - Desired date range or test duration: **Between November 17- 31**
-- Desired number of users: **7 Veterans**
-- How you'll recruit the right production test users: **Veterans who meet the criteria will be recruited with the help of the DMC and Perigean**
+- Desired number of users: **12 Veterans**
+- How you'll recruit the right production test users: **Veterans who meet the criteria will be recruited through Perigean**
 - How you'll conduct the testing: **30 minute zoom sessions**
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: **The Medical Copay Tool will be live on production behind a feature flag**
 
