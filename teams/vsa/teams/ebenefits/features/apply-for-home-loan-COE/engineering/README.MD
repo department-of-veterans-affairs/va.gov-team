@@ -12,7 +12,7 @@ Table of Contents
 **Approvers:** 
 - Jason Wolf [ ]
 - Jesse Cohn [ ]
-- Micah Chiang [ ]
+- Jerek Shoemaker [ ]
 - Jim Adams [ ]
 - Kathleen Crawford [ ]
 
