@@ -52,8 +52,7 @@ body:
         - label: Ensures they are consistent and meet high standards of quality in Veteran-centered user experience and technical approach.
         - label: Provides shared tools, software, support, and technical infrastructure to accelerate their development.
         - label: Other
-     validations:
-      required: true
+
 
 
 
