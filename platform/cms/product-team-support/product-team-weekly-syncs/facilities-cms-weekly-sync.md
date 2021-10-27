@@ -23,20 +23,31 @@
 
 </details>
 
-## October 27 
+## November 3
 
 Metatags 
 
-Cerner implementation
+
+## October 27 
+
+### VAMC
+
+Cerner implementation 
 - Contact us page
 
-Operating status list
+Operating status facilities list (FE change)
+
+Events (FE change)
+
+Top tasks hardening ETA (content model)
+
+### Vet Center
 
 Vet Center names
 - North Bay
 - Kailua-Kona
 
-Hardening ETA
+
 
 ## October 20
 
