@@ -1,10 +1,10 @@
 # Background
-When a Veteran wants to get a VA backed home loan the VA can provide them with a Certificate of Eligibility, or COE for short. This certificate is does not guarantee approval for a loan or specify any details like loan amounts, it is simply a document that says that the VA says they are eligible for a VA backed home loan. There is a form at the VA designated the 26-1880 that the Veteran can use to apply for a COE however in many cases the VA already has all of the information they need to determine if a veteran is eligible for a COE. This means that our app has to server a few different purposes -
+When a Veteran wants to get a VA-backed home loan the VA can provide them with a Certificate of Eligibility, or COE for short. This certificate does not guarantee approval for a loan or specify any details like loan amounts, it is simply a document that says that the VA says they are eligible for a VA-backed home loan. There is a form at the VA designated the 26-1880 that the Veteran can use to apply for a COE, however in many cases the VA already has all of the information they need to determine if a veteran is eligible for a COE. This means that our app has to serve a few different purposes -
 
 1. If the Veteran is eligible for a COE and the VA already knows this we need to do everything in our power to make the Veteran aware of this and give them access to the COE document.
 2. If the Veteran is not eligible for an automatically approved COE then we need to provide them with a form to fill out so that they can manually apply for a COE.
 3. If the Veteran is not eligible for an automatically approved COE AND they already applied for a COE using the form we provide we then need to let them know some status details of the application as well as provide them with all of the documents that have corresponded between the Veteran and the VA.
-4. If the Veteran was denied for a a COE we need to provide them with some information about how to appeal this decision.
+4. If the Veteran was denied for a COE we need to provide them with some information about how to appeal this decision.
 
 This document is meant to provide a general walkthrough of the application as well as details about the code.
 
@@ -22,7 +22,7 @@ If the Veteran does have a COE or is eligible for an automatically approved COE 
 6. `We were unable to determine if the Veteran was eligible for an automatic COE (unable-to-determine-eligibility)`
 7. `The Veteran was denied for a COE (denied)`
 
-Once the Veteran has seen thier status in some of these instances they can then fill out the form and we provide them a link to the form inside the content.
+Once the Veteran has seen their status in some of these instances they can then fill out the form and we provide them a link to the form inside the content.
 
 ## The Front End code
 
@@ -43,7 +43,3 @@ If the Veteran wants to fill out the form 26-1880 they can either click one of t
 On the introduction page we first determine if the Veteran is logged in or not and if they are NOT then we show them some basic content stating that they need to log in to fill out the form. Then if they are logged in we show them the status of their COE and either allow them to continue with filling out the form or not based on that status (for instance if they were denied then the VA doesn't want them filling out the form again and instead wants them to appeal the original application). 
 
 As a best practice we tend to break up the front end code for our forms into small files. We have found that favoring smaller files makes things generally easier to maintain. Inside the folder structure for the form there is a `/config` folder that houses most of the form code. Inside that folder is a folder labeled `/chapters` which houses each chapter of the form, and inside each chapter folder is a file corresponding to each page within each chapter. All of these files are imported into an `index.js` file and then exported so that they can be imported into the main form config file called `form.js` in the `/config` folder. We also have a file in the `/comfig` folder called `schemaImports.js` which imports all of the schemas from the `vets-json-schema` repo to then be used in each individual page file for the form.
-
-
-
-
