@@ -41,8 +41,12 @@
 * CLP status and next steps
 * Virtual agent team support
 * Benefits Hub right sidebar support services with no phone number- Text to URL entity change on CMS + FE updates to the template. [Slack Thread](https://dsva.slack.com/archives/C52CL1PKQ/p1635260933122200?thread_ts=1635260135.116400&cid=C52CL1PKQ) for context.
-* CMS Product support roadmap for Q4
-* Upcoming vs past event filters 
+* CMS Product support roadmap for Q4.
+  * [Background with business goals (Mural)](https://app.mural.co/t/vagov6717/m/vagov6717/1632411814802/83ae1f501310581173d9799746c90898225a8a6b?sender=kevinwalsh8610)
+  * [Zenhub timelines for epics](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/roadmap) 
+* [Upcoming vs past events filters](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6800)
+  * Amandeep can take this one. 
+  * [See Slack thread](https://dsva.slack.com/archives/C01H29ERVJ7/p1635273694001100)
 * Outreach & Events: In the outreach event description do the "teaser" and 'description" fields have set character limits?  If so, what are they for each field?
 
 
