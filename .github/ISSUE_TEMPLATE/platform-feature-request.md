@@ -6,10 +6,6 @@ labels: platform-feature-request
 assignee: jchasia-adhoc
 ---
 
-# Feature request template
-
-
-
 ## Instructions 
 
 If you have a request for a feature you believe the VA Platform should implement, complete the information below. The more information Platform has, the faster we can process the request.
