@@ -8,16 +8,7 @@ assignees:
     
     
     
-         
-         Feature Request [Feature-Name]
-labels: 
-  - "platform-architecture-working-group"
-  - "Internal Request"
-assignees:
-  - f1337
-  - thepipster
-  - td-usds
-  - mchelen-gov
+      
 body:
   - type: markdown
     attributes:
