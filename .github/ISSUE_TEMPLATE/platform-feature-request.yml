@@ -5,6 +5,7 @@ labels:
   - "platform-feature-request"
 assignees:
   - jchasia-adhoc  
+
 body:
   - type: markdown
     attributes:
@@ -19,7 +20,8 @@ body:
     validations:
       required: true
   - type: textarea
-  - type: input
+ 
+ - type: input
     id: Widespread
     attributes:
       label: Who do you believe would benefit
