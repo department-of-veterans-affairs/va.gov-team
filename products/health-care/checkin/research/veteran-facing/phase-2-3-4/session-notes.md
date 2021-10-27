@@ -1,6 +1,9 @@
 # Martinsburg VA Trip - October 26, 2021
 8 appointments, 1 cancellation 
 
+## Clinic Space
+
+
 ## Veteran Intercept Interviews
 
 ### Veteran #1 
