@@ -43,3 +43,7 @@
 - He quickly came back up to the check in desk and **reported to the MSA that his mailing address was outdated**. The MSA captured the new address and he continued through the process by answering "yes". 
 - He described both of his appointments were listed, checked in for the first and sat down.
 - On the scale of 0-10, he gave it a 9. 
+
+
+### Conversation with MSA 
+- coming soon.... 
