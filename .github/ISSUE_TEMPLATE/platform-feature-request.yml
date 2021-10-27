@@ -34,6 +34,10 @@ body:
       placeholder: 
     validations:
       required: true
+  - type: textarea
+    id: evidece
+    attributes:
+      label: Provide the evidence
       description: "Provide the evidence that you have on the need for this enhancement"
       placeholder: 
     validations:
