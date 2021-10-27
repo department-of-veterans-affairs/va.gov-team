@@ -46,4 +46,5 @@
 
 
 ### Conversation with MSA 
+- She rated it a 9, but said she wouldn't give it her stamp of approval to pilot at another clinic until MSA's received some type of notification once the patient has checked in. 
 - coming soon.... 
