@@ -38,6 +38,7 @@ Cerner implementation
 Operating status facilities list (FE change)
 
 Events (FE change)
+ - logic and data change to featured - signoff?
 
 Top tasks hardening ETA (content model)
 
