@@ -22,4 +22,9 @@ If the Veteran does have a COE or is eligible for an automatically approved COE 
 6. `We were unable to determine if the Veteran was eligible for an automatic COE (unable-to-determine-eligibility)`
 7. `The Veteran was denied for a COE (denied)`
 
+Once the Veteran has seen thier status in some of these instances they can then fill out the form and we provide them a link to the form inside the content.
+
+## The Front End code
+
+In the code inside the eligibility app we have a switch statement that reads the `coe.status` and then renders one of the components [here](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/lgy/coe/components) based on the status. The Eligibility app
 
