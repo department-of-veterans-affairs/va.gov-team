@@ -6,9 +6,6 @@ labels:
 assignees:
   - jchasia-adhoc
     
-    
-    
-      
 body:
   - type: markdown
     attributes:
@@ -20,5 +17,13 @@ body:
       label: Topic
       description: What is the topic to discuss?
       placeholder: AWS network architecture
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: "Please summarize the topic in a few sentences:"
+      placeholder: Network path for public requests coming into VAEC AWS cloud environment and the systems and boundaries involved.
     validations:
       required: true
