@@ -4,7 +4,7 @@
 ## Veteran Intercept Interviews
 
 ### Veteran #1 
-- no smart phone
+- no smartphone
 - arrived 15 minutes early, checked in with MSA, answered screening questions, and found a seat taking less than 30 seconds total. 
 - She asked if there have been any changes to his information, such as name, email, phone number, hair color, eye color, laughs
 - There were no changes 
@@ -15,11 +15,11 @@
 - He looked at the poster, and pointed to the QR code and said that he wasn't sure if he had an app for that. He pulled out his phone and sent a text. He received a response text. He flashed the text screen towards us and the font was very large, so large that it would be hard to see the full message on the screen. It didn't seem like he read the text message. 
 - He mentioned that his cell phone connection wasn't very good. 
 - He looked at the poster again then checked his phone. About 1 minute later, he received another text which sent him a link. 
-- He opened the link, reviewed his contact informatin and said he could see his appointment.
-- At hat point he seemed a bit irritated and tired. 
+- He opened the link, reviewed his contact information and said he could see his appointment.
+- At that point he seemed a bit irritated and tired. It didn't seem like he was up for continuing so we stopped. 
 
 ### Veteran #3 
-- no smart phone
+- no smartphone
 - made a point of showing us she didn't have one in her hands. 
 - answered the same checkin questions without any updates.
 
@@ -33,14 +33,14 @@
 - On a scale of 1-10 would you recommend it? Well it depends on the veteran, not my father-in-law, he doesn't have a smart phone. I don't know. I'd give it an 8. 
 
 ### Veteran #5 
-- no smart phone
+- no smartphone
 
 ### Veteran #6 
-- no smart phone
+- no smartphone
 
 ### Veteran #7 
 - Greeted by MSA, she checked him in. Then asked if he would be willing to try our mobile check in process.
-- He pulled out his phone, and used the camra on the QR code. Described receiving a text about getting some information to start the check in process...
+- He pulled out his phone, and used the camera on the QR code. Described receiving a text about getting some information to start the check in process...
 - He received a weblink, which he opened, entered some information (assuming phone and last 4 of social)
 - He quickly came back up to the check in desk and **reported to the MSA that his mailing address was outdated**. The MSA captured the new address and he continued through the process by answering "yes". 
 - He described both of his appointments were listed, checked in for the first and sat down.
@@ -56,7 +56,7 @@ Need to be alerted
 
 How much does timing affect your process? Can you check patients in early? Can you check them in late? Is there much of an issue?
 - she doesn't have any restrictions on timing right now. They can be checked in at any point, however, if they are more than 30 minutes early they might choose to go do something else. With the app they can check in 30 minutes prior or 5 minutes after. 
-- they are short two MSAs right now. One moved, one has a sick kid, so she's doing extra-duties to cover the phones for them. 
+- they are short two MSAs right now. One moved, one has a sick kid, so she's doing extra duties to cover the phones for them. 
 
 Telehealth
 - I noticed that the MSA placed several phone calls to confirm video appointments the following day with patients.
