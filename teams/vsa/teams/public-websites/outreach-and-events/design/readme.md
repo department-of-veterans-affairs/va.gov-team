@@ -9,13 +9,13 @@
 
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
-| Feature wireframes | [Sketch]() | Not yet available | TBD | --- |
+| Feature wireframes | [XD](https://xd.adobe.com/view/32a7ce8e-7df2-4a7e-ad3f-ef42fa09c753-67f4/screen/efd3064b-5f32-419a-b67c-3d33202a5190) | Placeholder text | TBD | --- |
 | Concept Mockups | [Sketch]() | Not yet available | TBD | --- |
 | Prototype | [UXPin]() | Not yet available | TBD | --- |
 
 ### Feature flows
 
-[Whiteboard](https://app.mural.co/t/vsa8243/m/vsa8243/1634651992163/439beeb6c6f54295c81a2b62d2d4c766f6b23205?sender=u7ad68f2a3a694c00d8a38130)
+[Whiteboarding](https://app.mural.co/t/vsa8243/m/vsa8243/1634651992163/439beeb6c6f54295c81a2b62d2d4c766f6b23205?sender=u7ad68f2a3a694c00d8a38130)
 
 
 [O&E Calendar current user flows](https://xd.adobe.com/view/32a7ce8e-7df2-4a7e-ad3f-ef42fa09c753-67f4/)
@@ -40,7 +40,7 @@
 ### Design changelogs
 
 **Initial wireframes**
-- TBD
+- October 18, 2020 | Initial wireframe concepts
 
 **Initial mockups**
 - TBD
