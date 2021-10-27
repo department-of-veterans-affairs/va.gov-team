@@ -23,7 +23,7 @@ body:
   - type: input
     id: Widespread
     attributes:
-      label: who do you believe would benefit
+      label: Who do you believe would benefit
       description: How widespread is the problem, i.e. who do you believe would benefit from the Platform solving this problem?
       placeholder: 
     validations:
