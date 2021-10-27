@@ -27,6 +27,15 @@
 
 Metatags 
 
+Cerner implementation
+- Contact us page
+
+Operating status list
+
+Vet Center names
+- North Bay
+- Kailua-Kona
+
 ## October 20
 
 ### Vet Center
