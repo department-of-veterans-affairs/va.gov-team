@@ -26,5 +26,12 @@ Once the Veteran has seen thier status in some of these instances they can then 
 
 ## The Front End code
 
-In the code inside the eligibility app we have a switch statement that reads the `coe.status` and then renders one of the components [here](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/lgy/coe/components) based on the status. The Eligibility app
+### The Eligibility App
+
+In the code inside the eligibility app we have a switch statement that reads the `coe.status` and then renders one of the components [here](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/lgy/coe/components) based on the status. Most of the code for rendering the eligibility app and its statuses is pretty straightforward with just a few callouts -
+
+#### Pending
+If the Veteran has already filled out an application for a COE with the VA then they may need to upload documents and submit them to the VA. We provide an interface for doing this on the eligibility app when the API call returns a `pending-upload` status. The code for this document upload interface is inside the COE pending component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/components/CoePending.jsx) and is atually it's own component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/components/CoeDocumentUpload.jsx).
+
+
 
