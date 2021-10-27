@@ -53,7 +53,7 @@ None
 - Promo Banner Migration work: Starting thinking about this approach (Timing)
      - Fully blocked by CMS to make this change. FE would just need a template (similiar to sitewide banner component). 
      - Timing - When is CMS ready to impliment and support?  Would also need to update GraphQL, likely 5-8 point of work in a sprint. (Possibly 1x PR) 
-     - Optimal time to impliment Josh's design. [#31556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31556#issuecomment-949699776) 
+     - Optimal time to impliment Josh Kim's (a11y) design. [#31556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31556#issuecomment-949699776) 
 
 
 ### Clarity Requests: 
