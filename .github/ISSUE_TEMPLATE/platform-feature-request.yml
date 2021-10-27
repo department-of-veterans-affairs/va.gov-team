@@ -51,10 +51,16 @@ body:
         - label: Keeps these products and services available, stable, and secure.
         - label: Ensures they are consistent and meet high standards of quality in Veteran-centered user experience and technical approach.
         - label: Provides shared tools, software, support, and technical infrastructure to accelerate their development.
-        - label: N/A
+        - label: Other
     validations:
       required: true
-
+ - type: input
+    id: other-topics
+    attributes:
+      label: "Other:"
+      description: "If 'Other' is selected, please list the other topic(s) here:"
+    validations:
+      required: false
 
 
 
