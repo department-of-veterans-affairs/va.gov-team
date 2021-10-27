@@ -36,6 +36,8 @@ If the Veteran has already filled out an application for a COE with the VA then 
 
 ### The Form
 
+The form resides at /housing-assistance/home-loans/apply-for-coe-form-26-1880/eligibility
+
 If the Veteran wants to fill out the form 26-1880 they can either click one of the links in the content based on the status if the content contains the link OR they can visit the form URL directly. The stakeholders wanted to make sure that if the Veteran did come directly to the form and they DID have a COE already or were eligible for an automatic COE that we let them know and so on the Introduction page of the form we also call the same endpoint that we do in the eligibility app and display content based on the status that gets returned. Since this is the introduction page of the form and not the full eligibility app this is intended to be a limited version of the same functionality so in some cases rather than having lots of details we simply provide the user with a link to the eligibility app to view more information.
 
 On the introduction page we first determine if the Veteran is logged in or not and if they are NOT then we show them some basic content stating that they need to log in to fill out the form. Then if they are logged in we show them the status of their COE and either allow them to continue with filling out the form or not based on that status (for instance if they were denied then the VA doesn't want them filling out the fofm again and instead wants them to appeal the original application). Once the Veteran enters the form it is a straightforward form from there.
