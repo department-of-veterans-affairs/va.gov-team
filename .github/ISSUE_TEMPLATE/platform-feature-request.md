@@ -21,7 +21,7 @@ If you have a request for a feature you believe the VA Platform should implement
 ## Describe your idea 
 
 - *Describe your Platform feature or service idea, in other words describe how you think the Platform should solve this.*
-- *Provide the evidence that you have on the need for this enhancement.* 
+- *Provide the evidence that you have on the need for this enhancement.*
 
 - Indicate which of the parts of our Platform mission the enhancement would drive (select all that apply):
   - [ ] Keeps these products and services available, stable, and secure.
