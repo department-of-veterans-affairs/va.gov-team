@@ -21,7 +21,7 @@ body:
   - type: textarea
     id: benefit
     attributes:
-      label: who do you believe would benefit 
+      label: Who will benefit 
       description: "How widespread is the problem, i.e. who do you believe would benefit from the Platform solving this problem?"
       placeholder: 
     validations:
