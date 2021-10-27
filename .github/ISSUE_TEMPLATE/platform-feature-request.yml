@@ -34,6 +34,10 @@ body:
       placeholder: 
     validations:
       required: true
+      description: "Provide the evidence that you have on the need for this enhancement"
+      placeholder: 
+    validations:
+      required: true
 
 
 
