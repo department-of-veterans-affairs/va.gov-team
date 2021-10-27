@@ -1,5 +1,7 @@
-# VA Mobile team- Sprint Planning
-# Goals/Objectives-Sprint 10/13/21 - 10/26/21
+### VA Mobile team- Sprint Planning
+
+
+## Goals/Objectives-Sprint 10/13/21 - 10/26/21
 
 - ### Vaccine Records (Top Priority)
   - Refine content if necessary  on Vaccine records once feedback is received (pending content feedback)
@@ -89,7 +91,7 @@
 
 
 
-# Goals/Objectives-Sprint 10/13/21 - 10/26/21
+## Goals/Objectives-Sprint 10/13/21 - 10/26/21
 
 - Vaccine Records
   - Connect backend/front end wire frames 
