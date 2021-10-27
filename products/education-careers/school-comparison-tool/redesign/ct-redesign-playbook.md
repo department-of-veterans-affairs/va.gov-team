@@ -17,10 +17,10 @@ issue tickets (if they add value when describing known errors for your product)
 
 ### Team Members:
 - OCTO-DE product lead: Matt Self (Matthew.Self2@va.gov)
-- Product manager: TBD
-- Lead engineer: Dan Shawkey (Shawkey_Daniel@bah.com)
+- Product manager: Abe Blanco (Abelardo.Blanco@va.gov)
+- Lead engineer: Manish Shah (Manish.Shah@va.gov)
 
-#### Note: This project is in the process of going through a transition and the above contacts will be changing on or around 09/20/21.
+#### Note: This project has gone through a transition and the above contacts have been changed as of 10/26/2021.
 
 ### Outage Contacts:
 - _Additional Team Role_: TBD
