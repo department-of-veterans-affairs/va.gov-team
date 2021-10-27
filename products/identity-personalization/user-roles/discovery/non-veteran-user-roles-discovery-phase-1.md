@@ -4,7 +4,7 @@
 
 Liz Lantz, VSA, Authenticated Experience
 
-**Last updated:** October 19, 2021
+**Last updated:** October 27, 2021
 
 ## Background
 
@@ -120,11 +120,27 @@ The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNox
 - Caregiver
 - Other (no further explanation required)
 
-3.2 MHV functionality changes depending on the user roles in the following ways:
+3.2 Coordinators and help desk staff use the role values in the profile to better understand the person they're trying to help. 
+
+3.3 MHV functionality changes depending on the user roles in the following ways:
 
 *meeting with Carnetta on 11/1 to learn more about this*
 
-3.3 Coordinators and help desk staff use the role values in the profile to better understand the person they're trying to help.
+3.4 MHV is a participating website in the Veteran Online Delegate Tool (VAODT).  The VAODT allows the Veteran to assign a delegate one of two levels of access to MHV functionality on their behalf.  A delegate does not need to be a dependent, an official VA Caregiver, or have any other relationship with the VA.  
+
+With View/Print access, a delegate can view/print:
+
+- Pharmacy section information
+- Appointment and wellness reminders
+- Secure messages
+- Allergies and Chemistry/Hematology
+- Blue Button Medical reports
+
+With Full access, a delegate can do all of the above, as well as:
+
+- Refill prescriptions online
+- Manage self-reported Veteran information regarding medication, supplements, and health journals
+- Write and respond to Secure Messages
 
 ### 4. Scope the list of user roles to a manageable list we would actually build on VA.gov
 
