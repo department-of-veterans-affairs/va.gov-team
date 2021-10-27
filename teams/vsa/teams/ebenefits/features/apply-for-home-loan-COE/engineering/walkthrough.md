@@ -34,4 +34,12 @@ In the code inside the eligibility app we have a switch statement that reads the
 If the Veteran has already filled out an application for a COE with the VA then they may need to upload documents and submit them to the VA. We provide an interface for doing this on the eligibility app when the API call returns a `pending-upload` status. The code for this document upload interface is inside the COE pending component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/components/CoePending.jsx) and is atually it's own component located [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/lgy/coe/components/CoeDocumentUpload.jsx).
 
 
+### The Form
+
+If the Veteran wants to fill out the form 26-1880 they can either click one of the links in the content based on the status if the content contains the link OR they can visit the form URL directly. The stakeholders wanted to make sure that if the Veteran did come directly to the form and they DID have a COE already or were eligible for an automatic COE that we let them know and so on the Introduction page of the form we also call the same endpoint that we do in the eligibility app and display content based on the status that gets returned. Since this is the introduction page of the form and not the full eligibility app this is intended to be a limited version of the same functionality so in some cases rather than having lots of details we simply provide the user with a link to the eligibility app to view more information.
+
+On the introduction page we first determine if the Veteran is logged in or not and if they are NOT then we show them some basic content stating that they need to log in to fill out the form. 
+
+
+
 
