@@ -47,7 +47,7 @@
 - On the scale of 0-10, he gave it a 9. 
 
 
-### Conversation with MSA 
+## Conversation with MSA 
 
 Need to be alerted
 - She rated it a 9, but said she wouldn't give it her stamp of approval to pilot at another clinic until MSA's received some type of notification once the patient has checked in. 
