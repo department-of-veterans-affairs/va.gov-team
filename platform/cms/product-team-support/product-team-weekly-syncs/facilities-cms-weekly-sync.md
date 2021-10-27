@@ -27,24 +27,59 @@
 
 Metatags 
 
+Care we provide 
 
 ## October 27 
 
 ### VAMC
 
 Operating status facilities list (FE change)
+* Steve had a performance concern about recreating the Locations list query that already exists elsewhere. But this wouldn't support Preview. 
+* MPS: still a complex query to write, "reusing" the existing approach. 
+* The new Content API may allow us to put some of the responsibility on the backend, eg placing Drupal Views on pages and serving the whole page. 
 
-Events (FE change)
- - logic and data change to featured - signoff?
+Upcoming vs Past Events filtering (FE change)
+* PR incoming, will need Gaida/MPS and Kelson review. 
+
+Featured Events and Stories
+* Current state: Boolean AND position fields. Logic is not "complete"
+* Lots of ideas to improve this in the long term, to create a good editorial experience and less logic needed on the FE. 
+* Short term plan is to remove boolean, and have a position field with Not featured, Featured 1, or Featured 2.
+  * Adding Featured 1 to a new event will bump out any existing Featured 1
+  * Removing Featured 1 will bump any Featured 2 to the top. 
+  * Ethan has FE PR in place
+  * All PRs will be in draft, Tugboat can be used to see how it all works together. 
+* Change management plan: 
+  * An automated content update to be as least disruptive as possible. 
+  * An announcement "We've changed the way featured events and stories work. For more info, check out the [training/KB article]." 
+  * KB article / update to to training. 
+* Logic and data change to - signoff? (FE & CMS change)
+
+Locations sort
+* Steve looked into whether the menu weight could be used to allow CMS to control sorting (via the children of the Locations menu item)
+* MPS: if it's a field, it's easy, if it's an additional query, it's not. 
+* Discovery issue https://github.com/department-of-veterans-affairs/va.gov-team/issues/30774
 
 Top tasks hardening ETA (content model)
+* Stan and team are working on content intent, which will include suggestions on what to harden next. 
+* Dave: next content model hardening will need to look at balancing Veteran value vs potential for future content model refactoring. 
+* Steve working on Centralized Content for link path URI/URL
 
 ### Vet Center
 
 Vet Center names
-- North Bay
-- Kailua-Kona
+- North Bay - VAST has it as Northbay, but it's actually "North Bay". 
+  - We can't use Official Name because it would produce an experience like "North bay (Northbay) Vet Center"
+- "Kailua-Kona Vet Center"
+  - They are in the process of officially changing the name in VAST to "Kona Vet Center" in VAST
+  - Jessica S said "don't do anything yet".  
+  - Don't publish until the name is updated in VAST. 
+- Peoria
+  - Peoria Vet Center is Illinois
+  - West Valley is AZ, but they call themselves Peoria West Valley. They need to change the name in VAST. 
 
+Usability Research
+- 5 editors are scheduled / in progress.
 
 
 ## October 20
