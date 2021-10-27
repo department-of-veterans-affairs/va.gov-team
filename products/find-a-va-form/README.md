@@ -79,11 +79,12 @@ As of 12/31/2020:
 
 ## VA Forms Contacts
 __VA forms stakeholder working group includes:__
-- Huber, Diane <Diane.Huber@va.govv>
+- Huber, Diane <Diane.Huber@va.gov>
 - Walker, Stephen <Stephen.Walker4@va.gov>
 - Ranes, Michelle M. <michelle.ranes@va.gov>
 - Reid, Kevin <Kevin.Reid@va.gov>
-- McCarthy, Brian <Brian.McCarthy4@va.gov>
+- Keyes, Janel <Janel.Keyes@va.gov>
+- McCarthy, Brian <Brian.McCarthy4@va.gov> (former VA point of contact during Find a VA Form MVP)
 - Smith, Jeremy <Jeremy.Smith@va.gov>
 - Tuscher, Joshua <joshua.tuscher@va.gov>
 - VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>
