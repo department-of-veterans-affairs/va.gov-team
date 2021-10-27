@@ -27,8 +27,8 @@ Currently only the ‘trusted users’ can use this dashboard, hopefully will be
 
 - We need to coordinate all content across the type of notification. 
     - For MVP we can do something much simpler by tagging which notifications would be used on onsite notifications.  Maybe have a JSON blob, on the VA.gov we’d have our own template that would be populated by raw JSON data?? Need to discuss this more. 
-    - How many characters can we show on an onsite notification? 
-    - The VA.gov design will determine what content is included in the template. Maybe we just have a checkbox for each template, that could send the raw data to VA.gov. 
+- How many characters can we show on an onsite notification? 
+- The VA.gov design will determine what content is included in the template. Maybe we just have a checkbox for each template, that could send the raw data to VA.gov? Need to discuss more. 
 
 ### Action items:
 
