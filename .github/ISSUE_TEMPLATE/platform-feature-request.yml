@@ -20,6 +20,18 @@ body:
     validations:
       required: true
   - type: textarea
+  - type: input
+    id: Describe
+    attributes:
+      label: Describe the problem
+      description: How widespread is the problem, i.e. who do you believe would benefit from the Platform solving this problem?
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+  
+  
+  
     id: summary
     attributes:
       label: Summary
