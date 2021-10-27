@@ -32,9 +32,6 @@ Metatags
 
 ### VAMC
 
-Cerner implementation 
-- Contact us page
-
 Operating status facilities list (FE change)
 
 Events (FE change)
