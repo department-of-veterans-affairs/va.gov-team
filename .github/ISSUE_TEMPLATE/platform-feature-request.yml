@@ -4,8 +4,7 @@ title: "[Feature Request [Feature-Name]:"
 labels:
   - "platform-feature-request"
 assignees:
-  - jchasia-adhoc
-    
+  - jchasia-adhoc  
 body:
   - type: markdown
     attributes:
@@ -20,7 +19,6 @@ body:
     validations:
       required: true
   - type: textarea
-  
   - type: input
     id: Widespread
     attributes:
