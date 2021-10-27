@@ -13,8 +13,8 @@ If you have a request for a feature you believe the VA Platform should implement
 
 ## Describe the problem 
 
-- Describe the problem, and how solving this problem will make things better for VFS Teams, OCTO-DE, VA, or Content Editors.
-- How widespread is the problem, i.e. who do you believe would benefit from the Platform solving this problem?
+- *Describe the problem, and how solving this problem will make things better for VFS Teams, OCTO-DE, VA, or Content Editors.*
+- *How widespread is the problem, i.e. who do you believe would benefit from the Platform solving this problem?*
 
 
 
