@@ -1,5 +1,15 @@
-name: "Bug report"
-description: "Thank you for reporting a bug!"
+name: "Platform Feature Request"
+description: "If you have a request for a feature you believe the VA Platform should implement, complete the information below."
+title: "[Feature Request [Feature-Name]:"
+labels:
+  - "platform-feature-request"
+assignees:
+  - jchasia-adhoc
+    
+    
+    
+         
+         Feature Request [Feature-Name]
 labels: 
   - "platform-architecture-working-group"
   - "Internal Request"
