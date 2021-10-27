@@ -109,12 +109,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 **Robert Durkin** | VA OCTO | Software Developer 
 **Shane Elliott** | VA OCTO |Senior Information Technology Specialist
 **William “Andy” Mccarty** | VA OCTO | Software Developer 
-**Arnaud Tako** | Liberty IT (Ad Hoc) | Senior Software Engineer |
-**Carl Alquisola** | Liberty IT (Ad Hoc) | Senior Software Engineer |
 **Justin Wowk** | Government CIO (DocMe360) | Project Manager 
-**Julia Snyder** | Liberty IT (Ad Hoc) |  UX Designer |
-**Kennon Hulett** | LibertyAd Hoc | Senior Product Manager |
-**Kevin Duensing** | Liberty IT (Ad Hoc) | Staff Software Engineer |
 **Paras Shah** | Government CIO (DocMe360) | Advisor, VA Digital Notifications 
 
 
