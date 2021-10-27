@@ -42,8 +42,18 @@ body:
       placeholder: 
     validations:
       required: true
-
-
+  - type: checkboxes
+    id: Mission
+    attributes:
+      label: Platform Mission
+      description: Indicate which of the parts of our Platform mission the enhancement would drive (select all that apply)
+      options:
+        - label: Keeps these products and services available, stable, and secure.
+        - label: Ensures they are consistent and meet high standards of quality in Veteran-centered user experience and technical approach.
+        - label: Provides shared tools, software, support, and technical infrastructure to accelerate their development.
+        - label: N/A
+    validations:
+      required: true
 
 
 
