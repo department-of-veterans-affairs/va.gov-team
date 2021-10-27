@@ -28,16 +28,5 @@ body:
     validations:
       required: true
   - type: textarea
-  - type: markdown
-  attributes:
-    value:  "Please complete the information"
+ 
   
-  
-  
-    id: summary
-    attributes:
-      label: Summary
-      description: "Please summarize the topic in a few sentences:"
-      placeholder: Network path for public requests coming into VAEC AWS cloud environment and the systems and boundaries involved.
-    validations:
-      required: true
