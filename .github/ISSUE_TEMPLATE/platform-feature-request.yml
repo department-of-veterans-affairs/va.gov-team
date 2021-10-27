@@ -54,13 +54,6 @@ body:
         - label: Other
     validations:
       required: true
- - type: input
-    id: other-topics
-    attributes:
-      label: "Other:"
-      description: "If 'Other' is selected, please list the other topic(s) here:"
-    validations:
-      required: false
 
 
 
