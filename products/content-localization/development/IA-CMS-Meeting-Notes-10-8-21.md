@@ -43,12 +43,12 @@ Notes:
 •	Should sub-directories have their own menus?
 •	Do we set-up a sub-directory for hubs like the Health Care hub -- which has ~10 pages translated?
 •	Mike Chelen has recommended separating the CMS (static content) and the react (ie forms, authenticated experience) conversations. But at the end of the day, they’ve got to come together. We can set up some separate conversations, but both flows have to work.
-•	Has any UX research been done?
-•	Danielle advised that we have done some which is how we arrived at the menu toggle.
-•	We know the footer placement isn’t ideal; we’re running user survey to collect feedback
-•	Tim C suggested surveying users re intermingling English and Spanish nav 
-•	Steve: how much content do we plan to translate in next year or so? That can help determine when we move to an approach like sub-directories
-•	Danielle advised near-term scope is 100 -200 pages
+- Has any UX research been done?
+- Danielle advised that we have done some which is how we arrived at the menu toggle.
+- We know the footer placement isn’t ideal; we’re running user survey to collect feedback
+- Tim C suggested surveying users re intermingling English and Spanish nav 
+- Steve: how much content do we plan to translate in next year or so? That can help determine when we move to an approach like sub-directories
+- Danielle advised near-term scope is 100 -200 pages
 •	Danielle: we have 2 goals
 •	Long-term: We want to make it easy to translate and manage all content in the future should we or other teams progress to that state.
 •	Near-term: We will not be translating all content (or even most content) in the near-term, as we simply don't have the capacity for that, and we also want to continue to take an approach that bases content and language prioritization on need. But we do need to keep managing the pages we have and make it possible to translate some additional vital content in the near term. We want to make sure that we're doing that with the best practices that we can for now and while being mindful of the long-term goal so we can avoid as much tech debt as possible as we go.
