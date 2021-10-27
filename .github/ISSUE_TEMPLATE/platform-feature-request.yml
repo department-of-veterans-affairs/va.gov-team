@@ -14,7 +14,7 @@ body:
     id: topic
     attributes:
       label: Describe the problem
-      description: "Describe the problem, and how solving this problem will make things better for VFS Teams, OCTO-DE, VA, or Content Editors."
+      description: "Describe the problem, and how solving this problem will make things better for VFS Teams, OCTO-DE, VA, or Content Editors"
       placeholder: 
     validations:
       required: true
