@@ -36,6 +36,8 @@ Vet Center names
 - North Bay
 - Kailua-Kona
 
+Hardening ETA
+
 ## October 20
 
 ### Vet Center
