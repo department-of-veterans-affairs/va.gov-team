@@ -1,12 +1,12 @@
-Meeting: Technical Implementation for Translated Content (URLs) 
+**Meeting:** Technical Implementation for Translated Content (URLs) 
 
-Date: 10/8/21
+**Date: 10/8/21**
 
-Attendees: Danielle T, Mikki, Adam W, Sharon K, Tim C, Steve W
+**Attendees:** Danielle T, Mikki, Adam W, Sharon K, Tim C, Steve W
 
-Objective: Follow-up discussion and review of system impacts and best option for implementation of translated content and URL structure.
+**Objective:** Follow-up discussion and review of system impacts and best option for implementation of translated content and URL structure.
   
-Agenda:
+**Agenda:**
 - Are sub-directories the best path forward?
 - Understand any additional concerns with sub-directories and sub-domains 
 
