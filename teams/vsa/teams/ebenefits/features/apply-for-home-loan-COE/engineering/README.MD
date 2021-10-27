@@ -6,7 +6,7 @@ Table of Contents
 - [Detailed Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/engineering/README.MD#detailed-design)
 
 **Author(s):** Jesse Cohn 
-**Last Updated:** 5/24/21  
+**Last Updated:** 10/27/21 
 **Status:** Draft
 
 **Approvers:** 
