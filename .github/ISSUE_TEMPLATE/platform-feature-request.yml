@@ -1,4 +1,6 @@
-labels:
+name: "Bug report"
+description: "Thank you for reporting a bug!"
+labels: 
   - "platform-architecture-working-group"
   - "Internal Request"
 assignees:
