@@ -1,7 +1,7 @@
 ---
 name: Sitewide Content and IA Intake Form
 about: To request support with content or IA from Sitewide Content and IA team
-title: <Type of Request> from <Team>
+title: C&IA Request: <Team> - <Product/Feature>
 labels: sitewide content, sitewide content-product support
 assignees: Sitewide Content, RLHecht
 
@@ -15,7 +15,10 @@ assignees: Sitewide Content, RLHecht
 - [ ] Something else (please add details in the next question)
 
 ## What do you need help with?
-*Use this space to describe your content need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
+  - [ ] Content support
+  - [ ] IA support
+  
+*Please describe your need and provide any additional documents and/or links that will help us help you. If we need to add a react widget to a page, be sure to provide the code here.*
 
   
 ## Supporting Artifacts
