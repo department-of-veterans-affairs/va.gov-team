@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, November 2021
+# [DRAFT] Conversation Guide: VSA Caregiver, Content-specific comprehension study for the 10-10CG form, November 2021
 
 ## Moderator Logistics
 
@@ -11,16 +11,14 @@
 
 ## Project-Specific Setup and Intro - 5 minutes
 
-Thanks for joining us today! My name is Dené and I also have some colleagues on the line observing and taking notes. Today we're going to your experience being a legal representative of a Veteran.
+Thanks for joining us today! My name is Dené and I also have some colleagues on the line observing and taking notes. Today we'd like to get to know more about your experiences being a legal representative of a Veteran.
 
 - This entire session should take about 1 hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. 
 - I will not be offended by any opinions you express, and I welcome your feedback. We just want to improve these tools to better meet Veteran's needs. 
 - Please remember that this is not a test. We want to better understand your experiences, and there is no right or wrong answers.
 - If for any reason and at any time you want to stop the session, please let me know.
-- I will be sharing my screen. If at anytime you cannot see the screen or it is unclear, please let me know.
 
-**Start sharing screen (Mural board)**
 
 
 **Recording Instructions**
@@ -47,17 +45,28 @@ Great. Now we're really ready to begin!
 - How often are you asked to provide a document to show legal representation?
 
 
+- I will be sharing my screen. If at anytime you cannot see the screen or it is unclear, please let me know.
+**Start sharing screen (Mural board)**
+
+
 ## Situation-specific questions - 10 minutes
 - Can you list as many different types of circumstances/scenarios in which you were asked to provide the legal representative document? 
 _list responses on Mural_
 - Was it the same or different document that you needed to provide in each of these circumstances?
 _list different document types and draw arrow to each scenario_
+- Can you describe each of these documents in your own words?
+_write responses next to each document_
 - How do you know what document to use in different circumstances?
+
+
+<img width="888" alt="Screen Shot 2021-10-28 at 3 17 35 PM" src="https://user-images.githubusercontent.com/80857940/139321164-94e7126d-df6c-4e23-8773-49514612b07c.png">
 
 
 ## Confidence scale - 5 minutes
 - How confident or not confident were you that you were providing the correct document in each situation?
 _Show scale 1 (not confident) to 10 (completely confident) and for each of the scenarrios have the participant choose a number. Place the number next to the scenario_
+
+<img width="551" alt="Screen Shot 2021-10-28 at 3 20 00 PM" src="https://user-images.githubusercontent.com/80857940/139321502-324afffa-f4c0-44e3-88e3-c99a820f492b.png">
 
 
 ## Content-specific: Familiarity with health care-specific documents listed in multiple choice - 5 minutes
