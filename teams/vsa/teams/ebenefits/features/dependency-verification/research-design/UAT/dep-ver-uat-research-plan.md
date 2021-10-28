@@ -77,7 +77,7 @@ In order for this feature to occur, Veterans must:
 The feature is complete now.
 
 ### Research sessions
-November 1-5 
+November 5-12 
 
 ### Length of sessions
 Each session should last less than 30 minutes. Please schedule with 15 minutes of buffer time before and after sessions.
