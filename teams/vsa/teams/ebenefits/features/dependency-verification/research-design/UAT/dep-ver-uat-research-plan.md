@@ -87,11 +87,12 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
 | Date | Available Times (EASTERN) |
 | --- | --- |
-| Monday, November 1 | 10 AM - 6 PM |
-| Tuesday, November 2 | 10 AM - 1 PM, 5 PM - 6 PM|
-| Wednesday, November 3 | 10 AM - 1 PM, 4:30 PM - 6 PM|
-| Thursday, November 4 | 10 AM - 6 PM |
 | Friday, November 5 | 10 AM - 2 PM, 3:30 PM - 6 PM |
+| Monday, November 8 | 10 AM - 6 PM |
+| Tuesday, November 9 | 10 AM - 1 PM, 5 PM - 6 PM|
+| Wednesday, November 10 | 10 AM - 1 PM, 4:30 PM - 6 PM |
+| Thursday, November 11 | Federal Holiday |
+| Friday, November 12 | 10 AM - 6 PM |
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
