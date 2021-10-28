@@ -2,6 +2,10 @@
 8 appointments, 1 cancellation 
 
 ## Clinic Space
+- 6 chairs, evenly spaced around 3 walls, small waiting room. 
+- 3 check in posters hang: on the entrance door, on the check in window, and on the door entering into the exam rooms. 11 x 17 posters fit well, 24x36 was too large for the space. 
+- cell phone service is weak but working, 2 bars on Verizon. 
+- I sat at the desk behind the closed glass due to COVID protocol. 
 
 
 ## Veteran Intercept Interviews
@@ -9,8 +13,7 @@
 ### Veteran #1 
 - no smartphone
 - arrived 15 minutes early, checked in with MSA, answered screening questions, and found a seat taking less than 30 seconds total. 
-- She asked if there have been any changes to his information, such as name, email, phone number, hair color, eye color, laughs
-- There were no changes 
+- She asked if there have been any changes to his information, such as name, email, phone number, hair color, eye color, laughs. There were no changes. 
 
 
 ### Veteran #2 
@@ -28,7 +31,7 @@
 
 ### Veteran #4 
 - Walked in with phone in hand
-- MSA greeted him, asked the same check in questions then asked if he would also be willing to try checking in with the mobile app. Note: MSA mentioned that this patient already used the mobile app a few weeks ago. 
+- MSA greeted him, asked the same check in questions then asked if he would also be willing to try checking in with his mobile device. Note: MSA mentioned that this patient already used the mobile app a few weeks ago. 
 - He held up his phone and scanned the QR code by the check in window
 - He very quickly received a text about getting some information to start the check in process...
 - Then about 30 seconds later he received a link, which he opened and stated that **it said he didn't have an appointment today**. The MSA confirmed that he indeed did have an appointment. He decided to refresh the screen. 
