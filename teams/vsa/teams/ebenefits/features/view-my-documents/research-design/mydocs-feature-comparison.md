@@ -15,6 +15,8 @@
 
 ### Benefits Letters
 
+The Download VA Benefits Letters feature resides on VA.gov within the Records hub. This tool provides users with downloadable PDFs that document their VA benefits and service history.
+
 #### Users
 
 #### Flow
