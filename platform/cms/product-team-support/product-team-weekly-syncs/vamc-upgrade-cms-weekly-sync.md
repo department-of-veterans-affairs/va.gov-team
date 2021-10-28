@@ -26,11 +26,32 @@
 
 ## October 29
 
-Audit drift for h1 titles for List pages
-* Go to /admin/content and filter by any of the List pages content types. 
-* See if there's been drift and fix
+### Closing clincis
 
-Audit results for Care we provide h3s
+The Beeville VA Clinic
+
+### Launch support
+
+Data for Lovell
+
+Schedule for Sprint 60 launches
+
+Govdelivery settings
+
+### Help desk
+
+
+
+### VAMC system health services 
+
+* Audit
+  * Val and Denise are doing a qualitative audit on the 5800 existing nodes. Ths will lead to various recommendations, including some change management approaches for existing contetn that has drifted from the original content design. 
+  * Want to interview Lisa/Stan early in VAMC upgrade team Sprint 60 about insights on problems, pain points, and opportunities. 
+  * Recommendations will be presented week of November 8
+* Care we provide h3s
+  * CMS team is writing a script to blow these up
+
+
 
 ## October 22
 
