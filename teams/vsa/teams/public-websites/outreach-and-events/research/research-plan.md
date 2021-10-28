@@ -1,5 +1,4 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for [Public Websites, Outreach & Events, Nov 2021]
 
 ## Background
 Briefly describe the background of your product. Consider:
