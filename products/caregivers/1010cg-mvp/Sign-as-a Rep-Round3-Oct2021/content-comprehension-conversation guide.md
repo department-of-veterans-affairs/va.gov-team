@@ -15,7 +15,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 
 - This entire session should take about 1 hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. 
-- I will not be offended by any opinions you express, and I welcome your feedback. We just want to improve these tools to better meet Veteran's needs. 
+- I will not be offended by any opinions you express, and I welcome your feedback. We just want to improve these tools to better meet Veterans' needs. 
 - Please remember that this is not a test. We want to better understand your experiences, and there is no right or wrong answers.
 - If for any reason and at any time you want to stop the session, please let me know.
 
@@ -45,17 +45,24 @@ Great. Now we're really ready to begin!
 - How often are you asked to provide a document to show legal representation?
 
 
-- I will be sharing my screen. If at anytime you cannot see the screen or it is unclear, please let me know.
+- I will be sharing my screen. If at any time you cannot see the screen or it is unclear, please let me know.
+
 **Start sharing screen (Mural board)**
 
 
 ## Situation-specific questions - 10 minutes
-- Can you list as many different types of circumstances/scenarios in which you were asked to provide the legal representative document? 
+- List as many different types of circumstances/scenarios in which you have been asked to provide a legal representative document? 
+
 _list responses on Mural_
+
 - Was it the same or different document that you needed to provide in each of these circumstances?
+
 _list different document types and draw arrow to each scenario_
+
 - Can you describe each of these documents in your own words?
+
 _write responses next to each document_
+
 - How do you know what document to use in different circumstances?
 
 
@@ -64,12 +71,14 @@ _write responses next to each document_
 
 ## Confidence scale - 5 minutes
 - How confident or not confident were you that you were providing the correct document in each situation?
-_Show scale 1 (not confident) to 10 (completely confident) and for each of the scenarrios have the participant choose a number. Place the number next to the scenario_
+
+_Show scale 1 (not confident) to 10 (completely confident) and for each of the scenarios have the participant choose a number. Place the number next to the scenario_
 
 <img width="551" alt="Screen Shot 2021-10-28 at 3 20 00 PM" src="https://user-images.githubusercontent.com/80857940/139321502-324afffa-f4c0-44e3-88e3-c99a820f492b.png">
 
 
 ## Content-specific: Familiarity with health care-specific documents listed in multiple choice - 5 minutes
+
 _Show participant the 3 stickies: Veteran legal guardian, Veteran-related court order, and health care power of attorney_
 
 - Have you ever been asked to provide any of the documents on the list below? 
@@ -95,6 +104,7 @@ Now we're going to take a look at a few questions on the application for the Pro
 - Does anything stand out to you?
 - How would you answer this question?
 - Going back to our scale, how confident or not confident are you that you would be answering this question correctly?
+   - Tell me about the factors that made you select **(number)**
 
 **If the participant selects to sign as a legal representative show next screen "What type of document are you uploading for review?":**
 - Take a moment to read this screen (or if you prefer, I can read it aloud)
@@ -113,7 +123,8 @@ Now we're going to take a look at a few questions on the application for the Pro
 - Does anything stand out to you?
 - Is there anything you wished you knew more about?
 - What document would you upload?
-- - With our scale, how confident or not confident are you that you would upload the correct document?
+  - With our scale, how confident or not confident are you that you would upload the correct document?
+  - Tell me about the factors that made you select **(number)**
 - Does the document specifically say that it gives legal authority to make medical decisions?
 
 Ok, let's say you finished uploading the document and now see this screen
