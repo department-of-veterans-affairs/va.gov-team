@@ -23,6 +23,11 @@ The DGIB team has approached our team with some ideas of what could be on the My
 - What works currently?
 - What triggers this section on the dashboard?
 - What is the process like to check eligibiity?
+- What things can be 'in-progress' in relation to education?
+
+## Takeaways
+
+- We need to implement a task-based approach.
 
 ## Analytics review
 
@@ -52,10 +57,37 @@ The rest of the links are for specific applications within the education benefit
 
 ### Takeaways from Analytics
 
+Based on analytics it seems to me like the most important things for education are:
+
 - Payment history 
 - Comparison tool
-- Chapter 33 benefits page/status
+- Chapter 33 benefits page
+- Chapter 33 benefits status
+- Dependent information
+
+Potentially downloading the 9-11 GI Bill letter?
 
 ## Research review
 
+### Documents reviewed
+
+#### Logged-in Homepage Discovery Summary
+
+**[Logged-in Homepage Discovery Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)***
+
+- Users are very interested in seeing education benefits, specifically anything that is "in-flight" or "in-progress".
+- Downloading documents and records is important to users.
+- We need to focus on task based experience. 
+
+**[VA Mobile App:Card Sorting Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/card-sorting/VA%20Mobile%20App%20Discovery_%20Card%20sorting%20report.pdf)***
+
+- Users are not interested in seeing a comparison tool on the mobile app. I wonder if this is also true for My VA, maybe a link to the tool would be sufficient?
+
+#### Documents that didn't have anything related to education benefits
+
+[Notifications Research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
+
+[Preview.va.gov - Authenticated Users (October 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-8/Brand%20Consolidation%20Research%20Summary%2010-25-2018_Study%208%20only.pptx)
+
+[Personalization MVP readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
 
