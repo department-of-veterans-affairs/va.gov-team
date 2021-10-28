@@ -74,7 +74,7 @@ _write responses next to each document_
 
 _Show scale 1 (not confident) to 10 (completely confident) and for each of the scenarios have the participant choose a number. Place the number next to the scenario_
 
-<img width="551" alt="Screen Shot 2021-10-28 at 3 20 00 PM" src="https://user-images.githubusercontent.com/80857940/139321502-324afffa-f4c0-44e3-88e3-c99a820f492b.png">
+<img width="862" alt="Screen Shot 2021-10-28 at 3 34 42 PM" src="https://user-images.githubusercontent.com/80857940/139323459-828b6968-c29e-460b-8114-0ccf082153fa.png">
 
 
 ## Content-specific: Familiarity with health care-specific documents listed in multiple choice - 5 minutes
