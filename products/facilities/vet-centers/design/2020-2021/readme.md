@@ -1,10 +1,10 @@
-# Vet Center Detail Page Design History
+# Vet Center Detail Page - MVP Design 
 
 - [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/discovery-brief.md)
+- [Vet Center Design - root directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design) - Project summary
 
+## MVP design (final for 2021 launch) 
 - Designer: Leyda Hughes
-
-## Final MVP design 
 - [Final MVP design](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/138920563) - UXPin mobile prototype of Main and Locations pages. If prototype link ceases to work, the following is a link to the [original UXPin file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/design/2020-2021/Vet-Center-Product.uxp). The accordions in this prototype are accurate for content (at the time of launch) but do not behave as intended as they do not move the content below it.
 - [Prototype used in user testing](https://preview.uxpin.com/0a5eaacdf411fde0cb3abf4932010c29fbccb7de#/pages/136042529) - includes working accordions and interactions.
 
