@@ -451,11 +451,55 @@ Design discovery
 
 ### Notification Preferences
 **PM**
-- ...
-
-**Design/Research**
-- ...
+- Hold launch go/no-go
+- Monitor launch to 25%/50%
 
 **Frontend**
-- ...
-- ...
+- Launch to 25%/50%
+
+### On-site notifications MVP
+
+Whatever wasn't finished last sprint, plus...
+
+**PM**
+
+- Collab cycle design intent (if it didn't happen last sprint)
+- Work with team to define requirements for VANotify updates
+
+**Design**
+- Collab cycle design intent (if it didn't happen last sprint)
+- Work with team to define requirements for VANotify updates
+- Finalize designs, if not already done
+- Work with content, if not already done
+
+**FE**
+
+- Work with team to define requirements for VANotify updates
+- Support team as necessary
+
+**BE**
+
+- Work with team to define requirements for VANotify updates
+- Continue build
+
+### My VA updates
+
+**PM**
+- Collab cycle kickoff
+
+**Design**
+
+- Write-up discovery findings
+- Work with team to determine next steps
+- Collab kickoff
+- Start design if time and if work is well enough defined
+
+**FE**
+
+- Technical discovery, if needed
+
+### User roles research
+
+**Design**
+
+- Schedule Interviews; Hold as many interviews as possible
