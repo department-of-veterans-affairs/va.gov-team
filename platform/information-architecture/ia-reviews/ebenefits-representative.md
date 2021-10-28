@@ -7,48 +7,54 @@
 
 <hr>
 
-### IA Structure, URLs and Breadcrumbs <br>
+### IA Structure, URLs and breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-- Experience will require an unauthenticated landing page for users that will then provide access to 3 functions: 
-  - Find a representative - a search tool that allows users to find a representative
-  - Appoint a representative - an online form to submit a request for a specific representative
-  - View current representative - an tool that requires authentication and displays the user's currently appointed representative if they have one
+- Experience will require an unauthenticated landing page for users that will then provide access to 2 functions: 
+  - Find a representative - a search tool that allows users to find a representative; flow may also include submission of form 21-22/21-22a to request rep
+  - View current representative - a tool that requires authentication and displays the user's currently appointed representative(s) if one is on file; This information may be added to profile in future, but will exist as it's own separate page initially. 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/5a917967-1e2a-4f76-a66b-1db61db9fe19)
+**DRAFT STRUCTURE:**
+
+![image](https://user-images.githubusercontent.com/20994159/139327667-f4543160-3b46-4f00-a129-114b035f6780.png)
 
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Static landing page | www.va.gov/[static-page-name] |  Home > [Static page name] |
-Rep search tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name] |
-Appoint a rep form | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name]  |
-View current rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name]  |
+Static landing page | www.va.gov/[static-page-name] |  Home > [Static page name] |  
+Find rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name] |
+View current rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name]  | This page will require authentication
 
 
 <hr>
 
-### Navigation and Entry Points <br>
+### Primary navigation and entry points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-- Potential placement for entry points/links:
-  - Disability (hub, existing content page?), Decision Reviews, Claim and Appeal status tool, Records, Profile, My VA
-
-Priority | Placement | Link Destination | Description
+A/R/M | Placement | Link Destination | Description
 --- | --- | --- | ---
-
- 
-
-
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
+Add | Disability hub page | | Placement TBD
+Add | Disability left nav | | Placement TBD
+Remove | Disability hub page | | Remove the existing "Get help filing a claim link" and teaser text
+Remove | Disability left nav | | Remove the existing "Get help filing a claim link"
+Add | Decision reviews hub page | | Placement TBD
+Add | Decision reviews left nav | | Placement TBD
+Remove | Decision reviews hub page | | Remove the existing "Get help requesting a decision review" and teaser text
+Remove | Decision reviews left nav | | Remove the existing "Get help requesting a decision review"
+Add | Health care hub | | Placement TBD
+Add | Health care left nav | | Placement TBD
 
 <hr>
 
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- the eBenefits team will be responsible for retiring and redirecting the legacy tool(s) at ebenefits.va.gov
-- The existing "Get help filing a claim" content page in Disability?
+Page | URL | Notes
+--- | --- | ---
+Disability "Get help" page | https://www.va.gov/disability/get-help-filing-claim | Retire and redirect
+Decision reviews "Get help" page | | Retire and redirect 
+eBenefits VSO search | https://www.ebenefits.va.gov/ebenefits/vso-search | eBenefits.va.gov team will be responsible for retiring and redirecting
+
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
@@ -62,6 +68,16 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 
 ### Meetings Notes and Background Info
+
+**Regroup with product team - 10/27/2021**
+- Primary terminology to be used is "accredited representative" - this refers to all types of individuals/organizations that can be accredited reps (VSOs, attorneys, etc.)
+- Mikki to discuss placement of appointment rep within profile with Profile team
+  - 10/27 - discuss with Samara, agreed to keep this content on its own page outside of profile right now.  Profile does not have resources to assign to work, and there is no user feedback to drive placing it there.  This also follows how disability ratings were handled, where primary content/tool lives outside of profile, and profile just shows brief info.  Can loop back around in future for display of content in profile as we learn more. 
+- We have 2 legacy content pages around getting help from accredited reps that will need to be retired and redirected
+  - we will need to determine if content will go on new landing page or be moved to a R&S article
+  - will need to discuss with decisions review team, Beth to assist
+- VSOs/stakeholder discussions - feedback was that reps primarily help with disability and health care benefits; external articles and other legacy content refer to them being able to help with all types of benefits
+  - we will need to explore this a bit more to determine if there are other key entry points from benefits other than disability. 
 
 **Design intent - 12-23-2020**
 - Need to review terminology - POA versus representative - review SEO and user research; Per Peggy there are some forms that refer to this, so we should ensure we sync on terminology across the site.
