@@ -94,10 +94,11 @@
 
 **Design**
 
-*This is dependent on if Liz can start in this work*
+Onboard Liz to this work:
 
-- Make sure comps are finalized
-- Start research planning
+- Kevin to onboard Liz to the design work
+- If not already done, finalize all design comps 
+- Write the research plan
 
 **FE**
 
