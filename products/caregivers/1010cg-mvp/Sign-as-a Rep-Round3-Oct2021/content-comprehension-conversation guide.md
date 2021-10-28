@@ -9,13 +9,14 @@
 - _Check your [screensharing setup]. Make sure they are setup on Zoom app and ready to screenshare._
 - _When the participant is ready, begin the session with the following intro._
 
-## Project-Specific Setup and Intro - 10 minutes
+## Project-Specific Setup and Intro - 5 minutes
 
 Thanks for joining us today! My name is Dené and I also have some colleagues on the line observing and taking notes. Today we're going to your experience being a legal representative of a Veteran.
 
-- This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- Please remember that this is not a test. We want to better understand your experiences, so that we can improve our tools to for other Caregivers and Veterans.
+- This entire session should take about 1 hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- In this session, we want to hear your honest opinions. 
+- I will not be offended by any opinions you express, and I welcome your feedback. We just want to improve these tools to better meet Veteran's needs. 
+- Please remember that this is not a test. We want to better understand your experiences, and there is no right or wrong answers.
 - If for any reason and at any time you want to stop the session, please let me know.
 - I will be sharing my screen. If at anytime you cannot see the screen or it is unclear, please let me know.
 
@@ -59,7 +60,7 @@ _list different document types and draw arrow to each scenario_
 _Show scale 1 (not confident) to 10 (completely confident) and for each of the scenarrios have the participant choose a number. Place the number next to the scenario_
 
 
-## Content-specific: Familiarity with health care-specific documents listed in multiple choice - 10 minutes
+## Content-specific: Familiarity with health care-specific documents listed in multiple choice - 5 minutes
 _Show participant the 3 stickies: Veteran legal guardian, Veteran-related court order, and health care power of attorney_
 
 - Have you ever been asked to provide any of the documents on the list below? 
@@ -67,7 +68,7 @@ _Show participant the 3 stickies: Veteran legal guardian, Veteran-related court 
 - Can you imagine a circumstance in which each of these documents would be requested?
 
 
-## Document submission questions - 10 minutes
+## Document submission questions - 5 minutes
 
 - Have you ever been contacted because you submitted a legal representative document that wasn't accepted?
 
@@ -75,7 +76,7 @@ _Show participant the 3 stickies: Veteran legal guardian, Veteran-related court 
      - What could have been made more clear so that the correct document could have been submitted the first time?
 
 
-## Document upload screen walkthrough - 20 minutes
+## Document upload screen walkthrough - 15 minutes
 
 Now we're going to take a look at a few questions on the application for the Program of Comprehensive Assistance for Family Caregivers.
 
