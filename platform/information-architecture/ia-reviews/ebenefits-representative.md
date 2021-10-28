@@ -3,7 +3,7 @@
 
 **Team:**  eBenefits/VSA dBenefits migration <br>
 **Product/Featue:** View/select representative/POA <br>
-**IA Review Issue:** 
+**IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/23490
 
 <hr>
 
