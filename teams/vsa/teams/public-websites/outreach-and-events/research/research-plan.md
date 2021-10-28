@@ -1,4 +1,4 @@
-# Research Plan for [Public Websites, Outreach & Events, Nov 2021]
+# Research Plan for Public Websites, Outreach & Events, Nov 2021
 
 ## Background
 Briefly describe the background of your product. Consider:
