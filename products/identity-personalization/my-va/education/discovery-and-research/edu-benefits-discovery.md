@@ -67,6 +67,8 @@ Based on analytics it seems to me like the most important things for education a
 
 Potentially downloading the 9-11 GI Bill letter?
 
+I need to do a review of where these features currently live and how they work.
+
 ## Research review
 
 ### Documents reviewed
