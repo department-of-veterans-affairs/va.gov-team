@@ -92,7 +92,7 @@ Analytic Insights:
 - **Usability Risks** (can people figure out how to use it):
   -  A snapshot of VA.gov click-through analytics and user research conducted in September 2021 indicates there is relatively modest engagement of outreach hubs and specifically event listings, events did show a marketed increase in engagement starting in July 2021 likely due to a targeted marketing camapign to drive traffic to the hubs.  The proposed updates in this MVP will drastically improve users ability to navigate, find and register for desired events and would expect both page visits, engagements and event registration to increase as a result to the MVP roll out. 
 -  **Viability Risks/Constraints** (will there be a positive organizational impact):
-  - The proposed enhancements will apply some much needed streamlining for navigational strategies along with user flow and conversion paths for Veterans that are currently struggling to find and location desired events in the current layout of the event hubs. 
+   - The proposed enhancements will apply some much needed streamlining for navigational strategies along with user flow and conversion paths for Veterans that are currently struggling to find and location desired events in the current layout of the event hubs. 
   
 ### Current User Path
 ![Screen Shot 2021-10-28 at 10 55 42 AM](https://user-images.githubusercontent.com/70410912/139301132-8c3ddf53-ed54-47d6-aa6e-6f85da90e1ec.png)
