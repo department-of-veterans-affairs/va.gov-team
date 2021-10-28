@@ -3,7 +3,7 @@
 
 ## Clinic Space
 - 6 chairs, evenly spaced around 3 walls, small waiting room. 
-- 3 check in posters hang: on the entrance door, on the check in window, and on the door entering into the exam rooms. 11 x 17 posters fit well, 24x36 was too large for the space. 
+- 3 check in posters hang: on the entrance door, on the check in window, and on the door entering into the exam rooms. 11 x 17 posters fit well, 36x48 was too large for the space. 
 - cell phone service is weak but working, 2 bars on Verizon. 
 - I sat at the desk behind the closed glass due to COVID protocol. 
 
