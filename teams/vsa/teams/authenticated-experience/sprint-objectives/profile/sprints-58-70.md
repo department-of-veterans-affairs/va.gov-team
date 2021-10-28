@@ -80,6 +80,33 @@
 
 ## Sprint 60 (11/3 - 11/16)
 
+### General 
+
+**FE**
+
+- Profile improvements in backlog as schedule allows
+
+### Personal information updates
+
+**PM**
+
+- Sit in on MPI calls
+
+**Design**
+
+*This is dependent on if Liz can start in this work*
+
+- Make sure comps are finalized
+- Start research planning
+
+**FE**
+
+- Continue build
+
+**BE**
+
+- Sit in on MPI calls
+
 ## Sprint 61 (11/17 - 11/30) 
 
 ## Sprint 62 (12/1 - 12/14)
