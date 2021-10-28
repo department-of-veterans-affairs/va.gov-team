@@ -1,20 +1,24 @@
 # Research Plan for Public Websites, Outreach & Events, Nov 2021
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The Outreach & Events calendar provides a listing of upcoming national VA events that Veterans can browse and sign up to attend (without logging in). The current user experience is a flat listing of upcoming events, and we are adding the following two new capabilities:
+1. Filtering events by date range
+1. Viewing recurring events
 
-[Link to product brief](url goes here).
+[Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/Artifacts/Initiative%20Briefing.md)
+
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/product-outline.md)
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme): 
+- Increase the usage and throughput of VA services
+- Increase the quality and reliability of VA services
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Find VA events to attend throughout 
+- Living civilian life 
+- Retiring and aging 
 
 ## Research Goals	
 What are you trying to learn from this research? 
