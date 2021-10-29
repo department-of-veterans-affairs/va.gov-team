@@ -94,3 +94,44 @@ I need to do a review of where these features currently live and how they work.
 [Personalization MVP readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
 
 ## Meeting with the DGIB team
+
+### 10/29/21 Meeting (Tressa, Samara, Heather, Russell, Leelah)
+
+Why Veterans call ECC
+   - Seeking payment info: when is my next payment arriving
+   - How payments are calculated
+
+Downloading VA letters for edu benefits
+- Something DGIB team is aware of/familiar with?
+   - Nothing currently populated on edu benes now
+   - However as part of MVP they would like to surface letters of eligibility 
+   - Like to create statement of benefits page for COE (certificate of eligibility)
+   - Use? 
+      - What they're eligible for
+      - percent available
+      - how long the benefit is available for  
+
+- General note: Post 9/11 GI Bill = chapter 33; Montgomery GI BIll = chapter 30; DGIB team would like to be using program names not chapters which are just related to the sectio of law (US code) it pertains to
+
+- Analytics review
+  -   In regard to GI BIll status tool - who has access? _not sure_
+
+- Re payment information, high value?
+   - Remaining entitlement and/or what's been used exposed on My VA
+   - _In order to expose this on My VA _we_ need to know what data is available to them for statement of benefits_
+
+- Choose 3-5 things for Edu that would be most valuable to expose on My VA:
+   1. Next payment + link to all payments
+   2. Remaining entitlement and related info to that entitlement
+   3. Link to statement of benefits
+   4. Link to download COE
+   5. Secure messaging
+   6. Monthly verification of enrollments
+
+- Monthly verification of enrollments
+   - DGIB building a new tool for this
+
+- What are existing things on VA.gov that we could pull from?
+   - Statement of benefits (though doesn't include remaining allotment and doesn't cover post 9/11)
+   - GI Bill comp tool
+
