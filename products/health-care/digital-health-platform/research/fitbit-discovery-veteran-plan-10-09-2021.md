@@ -52,7 +52,7 @@ How will this research advance your product to the next phase in the design proc
 -   What are your expectations of VA if you share your data?
 -   Are you comfortable sharing your data?
 
-Reference [discussion guide](https://community.max.gov/display/VAExternal/Fitbit+-+Veteran+-+Discussion+Guide) for full list
+Reference [discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-platform/research/fitbit-discovery-veteran-guide-10-09-2021.md) for full list
 
 ### **Hypothesis**
 
