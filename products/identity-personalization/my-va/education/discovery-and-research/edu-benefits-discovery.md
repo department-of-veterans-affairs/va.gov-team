@@ -93,3 +93,4 @@ I need to do a review of where these features currently live and how they work.
 
 [Personalization MVP readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
 
+## Meeting with the DGIB team
