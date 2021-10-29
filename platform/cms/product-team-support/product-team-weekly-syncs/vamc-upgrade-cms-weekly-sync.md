@@ -2,26 +2,19 @@
 
 <details><summary>About this meeting</summary>
 
-- Wednesdays 10am ET 
+- Fridays 10:15amam ET 
 - Meeting owner: Clarence Maeng
 - Facilitator: Kevin Walsh
 - Standing agenda: 
   - Migration
   - VAMC Scaffolding
   - Training
-  - User administration
+  - Account administration
   - Dual state and product launches
   - How we work
   - etc.
 - [Previous agendas in Google Docs](https://docs.google.com/document/d/1Pchj-AHdET4URxAceIqSMvKOPluU3gZfZ6KIP7pCXqs/edit#)  
-  
-</details>
 
-
-<details><summary>Parking lot</summary>
-
-  
-  
 </details>
 
 ## October 29
@@ -32,24 +25,41 @@ Any discussion?
 
 ### Closing facilities - 5 min
 
-[The Beeville VA Clinic @ South Texas](https://www.va.gov/south-texas-health-care/locations/beeville-va-clinic/) - no health services, request is in to VAST to remove it. What next? 
+[The Beeville VA Clinic @ South Texas](https://www.va.gov/south-texas-health-care/locations/beeville-va-clinic/) - no health services, request is in to VAST to remove it. What next? Who?
 
-### Launch support - 5 min
+### Launch support - 2 min
 
 Data for Lovell
 
 Schedule for Sprint 60 launches
 
-Govdelivery settings
+### Govdelivery settings - 5 min 
+
+[Audit](https://master-1dmwlnxuv23pmihulgqf4omf2tyvmnfe.demo.cms.va.gov/admin/content/audit/vamc-govdelivery) shows a number of missing prefixes. 
+
+Steve confirmed that these are breaking some GovDelivery. 
+
+Who/when can address these? 
+
+Should this field be locked down to content admins? There's no indication that PAOs have edited these, but it's also unclear if they should ever need to. How often might they change? 
+
 
 ### VAMC system health services - 10min
 
-* Audit
-  * Val and Denise are doing a qualitative audit on the 5800 existing nodes. Ths will lead to various recommendations, including some change management approaches for existing content that has drifted from the original content design. 
-  * Want to interview Lisa/Stan early in VAMC upgrade team during their Sprint 60 (next Wednesday) about insights on problems, pain points, and opportunities. 
-  * Recommendations will be presented week of November 8
-* Care we provide h3s
-  * CMS team is writing a script to blow these up
+
+**Automated content updates**
+
+CMS team engineers are writing a scripts to 
+1. search and remove `<h3>Care we provide at [health care system]</h3>, and 
+2. Update fields to "Rich text limited" (no headings allowed), 
+
+But will not run these script until the change management approach is agreed to, and the new "Care we provide at [health care system]" has been added to the template. 
+
+**Audit**
+
+* CMS team is doing a qualitative/quantitative audit on the 5800 existing nodes. Ths will lead to various recommendations for how to proceed, short and long eterm
+* Want to interview Lisa/Stan early in VAMC upgrade team during their Sprint 60 (next Wednesday) about insights on problems, pain points, and opportunities for this field.
+* Recommendations will be presented around the week of November 8.
 
 
 
