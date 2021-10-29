@@ -61,7 +61,7 @@ But will not run these script until the change management approach is agreed to,
 * Want to interview Lisa/Stan early in VAMC upgrade team during their Sprint 60 (next Wednesday) about insights on problems, pain points, and opportunities for this field.
 * Recommendations will be presented around the week of November 8.
 
-
+**ISO Delegation of Authority**
 
 ## October 22
 
