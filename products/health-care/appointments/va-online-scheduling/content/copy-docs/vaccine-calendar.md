@@ -3,20 +3,42 @@
 
 ## Current
 
-(H1) Choose a date (*Required)
+**FORM TITLE**
 
-Appointment times are displayed in {time zone}.
+```
+NEW APPOINTMENT
+```
 
-When choosing a date, make sure:
+**PAGE HEADER**
 
-- You won’t have had a flu shot or any other vaccine in the past 2 weeks.
-- You can return to Cheyenne VA Medical Center for your second dose 3 to 4 weeks after the date you select.
+```
+Choose a date (*Required)
+```
+
+**PAGE DESCRIPTION**
+
+```
+Appointment times are in {time zone}.
+```
+
+**PAGE CONTENT**
+
+```
+Note: If your vaccine requires 2 doses, you’ll need to come back for your second dose 3 to 4 weeks after the date you select.
 
 {calendar}
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+```CONTINUE```
+
 
 ---
 
 ### Error Validation
 
+```
 Please choose your preferred date and time for your appointment
-
+```
