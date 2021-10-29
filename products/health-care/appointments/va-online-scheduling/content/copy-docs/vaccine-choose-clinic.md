@@ -26,7 +26,7 @@ Choose a clinic
 **PAGE CONTENT**
 
 ```
-Choose where you’d like to get your vaccine: *Required)
+Choose where you’d like to get your vaccine. *Required)
 
 - {Clinic name}
 - {Clinic name}
