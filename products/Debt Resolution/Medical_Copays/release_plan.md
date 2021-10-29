@@ -6,7 +6,7 @@
 - Phase 1: UAT 
 - Phase 2: Staged Rollout (Stage A: 25%, Stage B 50%)
 - Phase 3: Go Live!
-- Phase 4: UAT Round 2 (Capturing use cases for veterans with more than one statement)
+- Phase 4: UAT Round 2 (Capturing use cases for veterans with more than one statement) *(TBD)*
 
 
 ## 🌀 Phase I:  User Acceptance Testing (UAT) - moderated production testing
@@ -115,7 +115,7 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 
 
 ## Development Pre-Launch Checklist
-
+- Add redirect from access.va site
 
 
 
