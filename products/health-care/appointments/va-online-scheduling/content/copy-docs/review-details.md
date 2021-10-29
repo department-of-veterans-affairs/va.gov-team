@@ -6,80 +6,101 @@
 
 ### VA Direct
 
-(H1) Review your appointment details
+**FORM TITLE**
 
-(H2) You're scheduling a {type of care} appointment
+_in Page Content_
 
-Please review the information before confirming your appointment. If you need to update any details, click Edit to go back to the screen where you entered the information. After you update your information, you'll need to go through the tool again to schedule your appointment.
+**PAGE HEADER**
 
-(form label) VA APPOINTMENT
+```
+Review your appointment details
+```
 
-(H2) {type of care}
+**PAGE DESCRIPTION**
 
-(H3) {appointment date} at {appointment time}
+```
+You're scheduling a {type of care} appointment
 
-(H3) {clinic name}
+Make sure the information is correct. Then confirm your appointment. If you need to update any details, click Edit to go back to the screen where you entered the information. After you update your information, you'll need to go through the tool again to schedule your appointment.
+```
 
+**PAGE CONTENT**
+
+```
+VA APPOINTMENT
+
+{type of care}
+
+{appointment date} at {appointment time}
+
+{clinic name}
 {facility name}
-
 {city, ST}
 
-(H3) {reason for appointment}
-
+{reason for appointment}     Edit
 {booking note}
 
-(H3) Your contact details
-
+Your contact details         Edit
 {email address}
-
 {phone number}
-
 Call {morning, afternoon, evening}
+```
 
+**PROGRESS BUTTONS**
 
-(CTA) Confirm appointment
+```Confirm appointment```
 
 
 ---
 
 ### VA Request
 
-(H1) Review your appointment details
+**FORM TITLE**
 
-(H2) You're requesting a {type of care} appointment
+_in Page Content_
 
-Please review the information before submitting your request. If you need to update any details, click Edit to go back to the screen where you entered the information. After you update your information, you'll need to go through the tool again to schedule your appointment.
+**PAGE HEADER**
 
-(form label) VA APPOINTMENT
+```
+Review your appointment details
+```
 
-(H2) {type of care}
+**PAGE DESCRIPTION**
 
-(H3) Preferred date and time
+```
+You're requesting a {type of care} appointment
 
+Make sure the information is correct. Then submit your request. If you need to update any details, click Edit to go back to the screen where you entered the information. After you update your information, you'll need to go through the tool again to schedule your appointment.
+```
+
+**PAGE CONTENT**
+
+```
+VA APPOINTMENT
+
+{type of care}
+
+Preferred date and time      Edit
 {date} in the {time of day}
 
-(H3) {clinic name}
-
+{clinic name}
 {city, ST}
 
-(H3) {reason for appointment}
-
+{reason for appointment}     Edit
 {booking note}
 
-(H3) How to be seen
-
+How to be seen               Edit
 {preferred method}
 
-(H3) Your contact details
-
+Your contact details         Edit
 {email address}
-
 {phone number}
-
 Call {morning, afternoon, evening}
+```
 
+**PROGRESS BUTTONS**
 
-(CTA) Request appointment
+```Request appointment```
 
 ---
 
@@ -87,63 +108,58 @@ Call {morning, afternoon, evening}
 
 #### CC Request or VA Request Server Error
 
-(H3) We couldn't schedule this appointment
+```
+We couldn't schedule this appointment
 
 We're sorry. Something went wrong when we tried to submit your request. You can try again later, or call your VA medical center to help with your request.
 
-(link) {facility name}
-
+{facility name}
 {facility address}
-
 Main phone: {phone number}
-
 TTY: 711
+```
 
 ---
 
 #### VA Request Configuration Error
 
-(H3) We couldn't schedule this appointment
+```
+We couldn't schedule this appointment
 
 We're sorry. Something went wrong when we tried to submit your request. Call your VA medical center to schedule this appointment.
 
-(link) {facility name}
-
+{facility name}
 {facility address}
-
 Main phone: {phone number}
-
 TTY: 711
+```
 
 ---
 
 #### VA Direct Technical Error
 
-(H3) We couldn't schedule this appointment
+```
+We couldn't schedule this appointment
 
 We're sorry. Something went wrong when we tried to submit your appointment. You can try again later, or call your VA medical center to help with your appointment.
 
-(link) {facility name}
-
+{facility name}
 {facility address}
-
 Main phone: {phone number}
-
 TTY: 711
+```
 
 ---
 
 #### VA Direct Configuration Error
 
-(H3) We couldn't schedule this appointment
+```
+We couldn't schedule this appointment
 
 We're sorry. Something went wrong when we tried to submit your appointment. Call your VA medical center to schedule this appointment.
 
-(link) {facility name}
-
+{facility name}
 {facility address}
-
 Main phone: {phone number}
-
 TTY: 711
-
+```
