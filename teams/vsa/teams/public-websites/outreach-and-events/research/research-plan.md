@@ -38,15 +38,9 @@ We will consider findings and recommendations from this research to refine our d
 1. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
     1. For in-person events, is the city enough information (i.e., street address not needed)?
 
-### Hypothesis
+### Hypotheses
 1. Filtering events by date range will enable Veterans to find events that fit in their schedules
 2. Seeing which events are recurring will enable Veterans to register for all events they're interested in
-
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
 ## Method	
 We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experience with VA eents, and then they will use the new Outreach & Events design to browse the event listing of one-time and recurring events and register for some. 
