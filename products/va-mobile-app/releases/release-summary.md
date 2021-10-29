@@ -1,5 +1,23 @@
 # VA Mobile team - Release Highlights
 
+## Release: 11/9
+
+New + Improved
+ - Firebase distribution added to the QA builds and to the On-Demand builds, also adds functionality to add users to Firebase testing via their email
+ - Consistend display of Error State messages (above form field and check boxes)  
+ - Implemented Cerner messaging (only or some)
+ - Added autoscrool to the thread message.  When a user selects a message from any of the list pages, the message page loads with the message displayed in view. 
+ - Added Disability Rating Empty state messaging
+ - Implemented downtime messaging 
+ - Action sheet added for removing phone number
+
+Bug Fixes:
+- Receiver name no longer disappears when a file attachment is removed from a secure message 
+- Receiver name will now display instead of the sendername when saving draft in secure message edit draft flow
+- Change action sheet copy to read delete vs remove on the the delete home address flow 
+- Flag set for header test to not allow scaling (addresses issue of headers being cut off due to font size)
+
+
 ## Release: 10/26
 
 New + Improved
