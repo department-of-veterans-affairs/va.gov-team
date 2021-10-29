@@ -21,7 +21,7 @@
 - He looked at the poster, and pointed to the QR code and said that he wasn't sure if he had an app for that. He pulled out his phone and sent a text. He received a response text. He flashed the text screen towards us and the font was very large, so large that it would be hard to see the full message on the screen. It didn't seem like he read the text message. 
 - He mentioned that his cell phone connection wasn't very good. 
 - He looked at the poster again then checked his phone. About 1 minute later, he received another text which sent him a link. 
-- He opened the link, reviewed his contact information and said he could see his appointment.
+- He opened the link, entered last name and last 4 of social, reviewed his contact information and said he could see his appointment.
 - At that point he seemed a bit irritated and tired. It didn't seem like he was up for continuing so we stopped. 
 
 ### Veteran #3 
@@ -47,7 +47,7 @@
 ### Veteran #7 
 - Greeted by MSA, she checked him in. Then asked if he would be willing to try our mobile check in process.
 - He pulled out his phone, and used the camera on the QR code. Described receiving a text about getting some information to start the check in process...
-- He received a weblink, which he opened, entered some information (assuming phone and last 4 of social)
+- He received a weblink, which he opened, entered some information (last name and last 4 of social)
 - He quickly came back up to the check in desk and **reported to the MSA that his mailing address was outdated**. The MSA captured the new address and he continued through the process by answering "yes". 
 - He described both of his appointments were listed, checked in for the first and sat down.
 - On the scale of 0-10, he gave it a 9. 
