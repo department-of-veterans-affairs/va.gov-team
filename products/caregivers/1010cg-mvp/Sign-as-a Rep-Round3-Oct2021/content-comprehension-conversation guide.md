@@ -42,12 +42,15 @@ Great. Now we're really ready to begin!
 
 - Tell me about an experience in which you needed to sign a document on behalf of the Veteran.
   - Were you asked to provide a document to show that you are their legal representative?
+
+_**Pay special attention to if Veteran legal guardianship, Veteran-related court order, Health care power of attorney, or something similar is mentioned **_
+
 - How often are you asked to provide a document to show legal representation?
 
 
 - I will be sharing my screen. If at any time you cannot see the screen or it is unclear, please let me know.
 
-**Start sharing screen (Mural board)**
+**Start sharing screen [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)**
 
 
 ## Situation-specific questions - 10 minutes
@@ -55,7 +58,8 @@ Great. Now we're really ready to begin!
 
 _list responses on Mural_
 
-- Was it the same or different document that you needed to provide in each of these circumstances?
+- What document did you provide for each of these circumstances?
+     - Was it the same or different document that you needed to provide in each of these circumstances?
 
 _list different document types and draw arrow to each scenario_
 
@@ -83,7 +87,12 @@ _Show participant the 3 stickies: Veteran legal guardian, Veteran-related court 
 
 - Have you ever been asked to provide any of the documents on the list below? 
     - If yes: What was the circumstance?
+
+If it's ok with you, I'd like to explore each of these with you a little more, but please keep in mind that there is no right or wrong answer - this is not a test.
+_If participant shows signs of frustration or embarrasment move on from these three_
 - Can you imagine a circumstance in which each of these documents would be requested?
+- Describe each of these in your own words. It is ok to guess if you are unsure. 
+- Going back to our scale, how confident or not confident are you?
 
 
 ## Document submission questions - 5 minutes
@@ -99,7 +108,7 @@ _Show participant the 3 stickies: Veteran legal guardian, Veteran-related court 
 Now we're going to take a look at a few questions on the application for the Program of Comprehensive Assistance for Family Caregivers.
 
 **Who will sign screen**
-- Take a moment to read this screen (or if you prefer, I can read it aloud)
+- Take some time to read the screen 
 - Any questions?
 - Does anything stand out to you?
 - How would you answer this question?
@@ -107,7 +116,7 @@ Now we're going to take a look at a few questions on the application for the Pro
    - Tell me about the factors that made you select **(number)**
 
 **If the participant selects to sign as a legal representative show next screen "What type of document are you uploading for review?":**
-- Take a moment to read this screen (or if you prefer, I can read it aloud)
+- Take some time to read the screen 
 - Any questions?
 - Does anything stand out to you?
 - Would this be relevant to your situation?
@@ -117,7 +126,7 @@ Now we're going to take a look at a few questions on the application for the Pro
 - Is there anything you wished you knew more about?
 
 **Upload your legal representative document**
-- Take a moment to read this screen (or if you prefer, I can read it aloud)
+- Take some time to read the screen 
 - Can you talk aloud what you would do on this page?
 - Any questions?
 - Does anything stand out to you?
@@ -130,7 +139,7 @@ Now we're going to take a look at a few questions on the application for the Pro
 Ok, let's say you finished uploading the document and now see this screen
 
 **After upload screen**
-- Take a moment to read this screen
+- Take some time to read the screen 
 - Any questions?
 - Does anything stand out to you?
 - What would you do next?
