@@ -3,25 +3,44 @@
 
 ## Current
 
-(H1) Review your appointment details
+**FORM TITLE**
 
-Please review the information before confirming your appointment.
+```
+NEW APPOINTMENT
+```
 
-(H2) COVID-19 vaccine
+**PAGE HEADER**
 
-(H3) {appointment date} at {appointment time}
+```
+Review your appointment details
+```
 
-(H3) {facility name}
+**PAGE DESCRIPTION**
+
+```
+Make sure the information is correct. Then confirm your appointment.
+```
+
+**PAGE CONTENT**
+
+```
+COVID-19 vaccine
+
+{appointment date} at {appointment time}
+
+{facility name}
 
 {clinic name}
 
 {clinic address}
 
-(H3) Your contact details         [Edit](link)
+Your contact details         Edit
 
 {email address}
 
 (phone number} 
+```
 
+**PROGRESS BUTTONS**
 
-(CTA) Confirm appointment
+```Confirm appointment```
