@@ -92,7 +92,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#details-of-findings)_
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
