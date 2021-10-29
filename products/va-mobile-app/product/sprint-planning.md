@@ -1,6 +1,13 @@
 ### VA Mobile team- Sprint Planning
 
 
+| Sprint | Date | Sprint Goals/Accomplishments | 
+| --- | --- | --- |
+| 31| 10.27.21-11.9.21 |  [Mobile App Sprint Pre-Planning Review 10.26.21.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/7442377/Mobile.App.Sprint.Pre-Planning.Review.10.26.21.pdf) |
+
+
+
+
 ## Goals/Objectives-Sprint 10/13/21 - 10/26/21
 
 - ### Vaccine Records (Top Priority)
