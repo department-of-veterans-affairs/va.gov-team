@@ -40,7 +40,7 @@ What are you trying to learn from this research?
 
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-**This research is intended to expand on [a study done by the Lighthouse team](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Health%20Research/2020-08-Perception-of-Patient-Generated-Data-with-veterans/PGD%20discovery%20report.pdf) to focus specifically on PGD from activity trackers such at Fitbit. **
+**This research is intended to expand on [a study done by the Lighthouse team](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Health%20Research/2020-08-Perception-of-Patient-Generated-Data-with-veterans/PGD%20discovery%20report.pdf) to focus specifically on PGD from activity trackers such at Fitbit.**
 
 **This is discovery research that will help determine the value of bringing activity tracker data into VA and identify areas of opportunity for a proof of concept.**
 
@@ -138,7 +138,7 @@ Wednesday, November 10
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
--   Moderator: Todd Stanich (todd.stanich@[thoughtworks.com](http://thoughtworks.com/))
+-   Moderator: Todd Stanich todd.stanich@thoughtworks.com
 -   Research guide writing and task development (usually but not always same as moderator): Todd Stanich
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Kimberly McManus
