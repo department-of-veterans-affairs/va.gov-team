@@ -75,7 +75,7 @@ _NOTE: Proceeding to 100% Go Live will be dependent on the # of errors and UX ch
 
 ### Planning:
 - Desired date:  **December 1, 2021**
-- Post-launch KPI 1: xx lorem ipsum
+- Post-launch KPI 1: xx lorem ipsum (will be added soon, currently under discussion) 
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
 - etc
