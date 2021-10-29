@@ -98,10 +98,6 @@ Analytic Insights:
 ### Current User Path
 ![Screen Shot 2021-10-28 at 10 55 42 AM](https://user-images.githubusercontent.com/70410912/139301132-8c3ddf53-ed54-47d6-aa6e-6f85da90e1ec.png)
 
-### Proposed User Flow Enhancement
-![Screen Shot 2021-10-28 at 11 00 38 AM](https://user-images.githubusercontent.com/70410912/139301730-bff9b39f-aa75-4cd0-b4d9-36b56dd01c93.png)
-  
-
 ### Technical Analysis 
 - Everything looks very feasible + has good a11y baked into the design elements.  Low to no risks in implimenting the proposed udates.
 
