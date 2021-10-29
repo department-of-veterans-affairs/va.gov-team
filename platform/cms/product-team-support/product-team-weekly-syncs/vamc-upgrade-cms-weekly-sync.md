@@ -50,7 +50,7 @@ Should this field be locked down to content admins? There's no indication that P
 **Automated content updates**
 
 CMS team engineers are writing a scripts to 
-1. search and remove `<h3>Care we provide at [health care system]</h3>, and 
+1. search and remove `<h3>Care we provide at [health care system]</h3>`, and 
 2. Update fields to "Rich text limited" (no headings allowed), 
 
 But will not run these script until the change management approach is agreed to, and the new "Care we provide at [health care system]" has been added to the template. 
