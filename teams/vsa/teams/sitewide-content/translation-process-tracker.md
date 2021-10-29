@@ -35,3 +35,4 @@
 | Reworked main vaccine mini hub page | 9/24 | 9/24 | 9/28 | 10/5 | 10/5 |
 | Bulleted item added to booster page | 10/27 | 10/27 |
 | Booster content on booster and main vaccine page | 10/22 | 10/22 |
+| FAQs intro updates | 10/28 | 10/28 |
