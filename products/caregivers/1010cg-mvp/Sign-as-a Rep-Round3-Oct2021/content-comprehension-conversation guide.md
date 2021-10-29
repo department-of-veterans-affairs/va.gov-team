@@ -43,12 +43,12 @@ Great. Now we're really ready to begin!
 - Tell me about an experience in which you needed to sign a document on behalf of the Veteran.
   - Were you asked to provide a document to show that you are their legal representative?
 
-_**Pay special attention to if Veteran legal guardianship, Veteran-related court order, Health care power of attorney, or something similar is mentioned **_
+_**Pay special attention to if Veteran legal guardianship, Veteran-related court order, Health care power of attorney, or something similar is mentioned**_
 
 - How often are you asked to provide a document to show legal representation?
 
 
-- I will be sharing my screen. If at any time you cannot see the screen or it is unclear, please let me know.
+I will be sharing my screen. If at any time you cannot see the screen or it is unclear, please let me know.
 
 **Start sharing screen [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)**
 
