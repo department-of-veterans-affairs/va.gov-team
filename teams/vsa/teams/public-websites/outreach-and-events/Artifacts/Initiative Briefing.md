@@ -69,7 +69,7 @@ For this initiative, we will implement a series of functional, UX and CMS-based 
 *Which of your product's existing KPIs will you look at to understand if your solution is meeting your desired user and business outcomes, and not bringing about undesired outcomes?*
 
 - Reduced bounce rate for the Outreach & Events page 
-- Improve service completion through increased events registration (via Outreach hub) 
+- Improve service completion through increased event registration (via Outreach hub) 
 - Increase event engagement through added user experience through filtering events by DTG/Location.  
 
 Analytic Insights:
