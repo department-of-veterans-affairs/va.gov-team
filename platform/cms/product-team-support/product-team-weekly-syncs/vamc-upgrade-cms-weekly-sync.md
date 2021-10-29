@@ -26,11 +26,15 @@
 
 ## October 29
 
-### Closing clincis
+### Help desk - 5 min
 
-The Beeville VA Clinic
+Any discussion? 
 
-### Launch support
+### Closing facilities - 5 min
+
+[The Beeville VA Clinic @ South Texas](https://www.va.gov/south-texas-health-care/locations/beeville-va-clinic/) - no health services, request is in to VAST to remove it. What next? 
+
+### Launch support - 5 min
 
 Data for Lovell
 
@@ -38,15 +42,11 @@ Schedule for Sprint 60 launches
 
 Govdelivery settings
 
-### Help desk
-
-
-
-### VAMC system health services 
+### VAMC system health services - 10min
 
 * Audit
-  * Val and Denise are doing a qualitative audit on the 5800 existing nodes. Ths will lead to various recommendations, including some change management approaches for existing contetn that has drifted from the original content design. 
-  * Want to interview Lisa/Stan early in VAMC upgrade team Sprint 60 about insights on problems, pain points, and opportunities. 
+  * Val and Denise are doing a qualitative audit on the 5800 existing nodes. Ths will lead to various recommendations, including some change management approaches for existing content that has drifted from the original content design. 
+  * Want to interview Lisa/Stan early in VAMC upgrade team during their Sprint 60 (next Wednesday) about insights on problems, pain points, and opportunities. 
   * Recommendations will be presented week of November 8
 * Care we provide h3s
   * CMS team is writing a script to blow these up
