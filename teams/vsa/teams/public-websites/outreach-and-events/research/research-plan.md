@@ -31,19 +31,16 @@ We will consider findings and recommendations from this research to refine our d
 ### Research questions
 1. How intuitive is our design for filtering by date range?
     1. What do Veterans expect to see as options for date range? How different from our design?
+    2. How accessible to screen reader users is the date range filter dropdown?
 1. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
     2. Are Veterans able to register for the whole series of recurring events?
 1. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
-    1. For in-person events, is the city enough information (i.e., not street address)?
-
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+    1. For in-person events, is the city enough information (i.e., street address not needed)?
 
 ### Hypothesis
-1. Filtering events by date range would be helpful for Veterans
+1. Filtering events by date range will enable Veterans to find events that fit in their schedules
+2. Seeing which events are recurring will enable Veterans to register for all events they're interested in
 
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
@@ -52,52 +49,17 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experience with VA eents, and then they will use the new Outreach & Events design to browse the event listing of one-time and recurring events and register for some. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
-- If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Because we want to include some participants who use screen readers, all participants will access the new design on the Staging server. If this "working prototype" isn't possible to do within the desired timeframe, a UXPin prototype could be used instead, but at the expense of exclusing participants who use screen readers.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment	
 
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
