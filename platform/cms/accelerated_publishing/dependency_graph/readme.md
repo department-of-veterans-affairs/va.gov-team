@@ -19,3 +19,5 @@ Non-Drupal page:
 
 Data Relationships in the build
 * Operating status -> Locations (see https://github.com/department-of-veterans-affairs/content-build/pull/710)
+  - e.fieldRegionPage?.targetId === page.fieldOffice?.targetId
+  - e.fieldMainLocation === true
