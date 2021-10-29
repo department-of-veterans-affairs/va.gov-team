@@ -2,7 +2,7 @@
 
 ## Sprint: 10/13/21 - 10/26/21
 
-
+Future sprint summaries (goals and accomplishments) to be tracked [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/sprint-planning.md)
 
 
 
