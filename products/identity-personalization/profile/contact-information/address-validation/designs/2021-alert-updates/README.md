@@ -18,21 +18,7 @@ Specs for 2021 Q4 UX improvements to address validation
 
 Question: can we make `address` plural only if there are multiple suggestions?
 
-> [title] Confirm your address
->
-> [body] We can’t confirm the address you entered with the U.S. Postal Service. Tell us which of these addresses you’d like us to use.
->
-> **You entered:**
->
-> {user entered address}
->
-> **Suggested address(es**):
->
-> {suggested addresses}
->
-> [button] Use this address
->
-> [button] Cancel
+> copy
 
 **Mock-ups**
 
