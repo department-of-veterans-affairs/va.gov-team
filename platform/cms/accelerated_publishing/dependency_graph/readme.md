@@ -16,3 +16,6 @@ This page contains a list of different parts of the front end and how it could b
 
 Non-Drupal page:
 * Facility Locations page (ie: https://staging.va.gov/minneapolis-health-care/locations/)
+
+Data Relationships in the build
+* Operating status -> Locations (see https://github.com/department-of-veterans-affairs/content-build/pull/710)
