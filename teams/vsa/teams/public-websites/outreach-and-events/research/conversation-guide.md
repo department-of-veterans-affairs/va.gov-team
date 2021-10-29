@@ -134,9 +134,6 @@ Instructions
 - What would you like to *change* about what you've seen today?
 - Is there anything else that we haven't talked about that you think I should know? 
 
-- *RECORD assessment of technical expertise: expert / in between / not expert*
-
-
 ## Thank You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on improving the VA website.
