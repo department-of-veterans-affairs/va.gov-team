@@ -21,17 +21,20 @@
 
 ### Help desk - 5 min
 
-Any discussion? 
+Broken links and menu requests
+* Stan to write a transition plan for November for what can be enabled in menu, and broken links
+* CMS team developing notifications framework later in Q4 with which we can send broken link notifications to PAOs/CMS editors. 
 
 ### Closing facilities - 5 min
 
-[The Beeville VA Clinic @ South Texas](https://www.va.gov/south-texas-health-care/locations/beeville-va-clinic/) - no health services, request is in to VAST to remove it. What next? Who?
+* [The Beeville VA Clinic @ South Texas](https://www.va.gov/south-texas-health-care/locations/beeville-va-clinic/) - no health services, request is in to VAST to remove it. What next? Who?
+* [Draft KB article](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/how-to-archive-a-closed-facility) - Stan to review. 
 
 ### Launch support - 2 min
 
 Data for Lovell
 
-Schedule for Sprint 60 launches
+Schedule for Sprint 60 launches - November 3, 10, and 17 by EOD. 
 
 ### Govdelivery settings - 5 min 
 
@@ -40,8 +43,12 @@ Schedule for Sprint 60 launches
 Steve confirmed that these are breaking some GovDelivery. 
 
 Who/when can address these? 
+* VAMC upgrade team will update these
+* CMS team to fix help text "For each of these fields, the topic_id that’s found at the end of the URL used to subscribe to GovDelivery emails. For example, if the URL is https://public.govdelivery.com/accounts/USVHA/subscriber/new?topic_id=1234, enter “1234”."
+* CMS platform team to work on better alerting when there are errors. 
 
 Should this field be locked down to content admins? There's no indication that PAOs have edited these, but it's also unclear if they should ever need to. How often might they change? 
+* Decision: not for now, because then we inherit request fulfillment. 
 
 
 ### VAMC system health services - 10min
@@ -62,6 +69,14 @@ But will not run these script until the change management approach is agreed to,
 * Recommendations will be presented around the week of November 8.
 
 **ISO Delegation of Authority**
+
+Stan was pinged about a similar ISO request to the one from Palo Alto. It seems like a data call went out to all the ISOs at VAMCs. We may want to get ahead of this problem by communicating with PAOs, about what to expect if they are being asked. 
+
+* Clarence: Help desk is probably the best resource for this. Still trying to understand what will satisfy. One PAO was fine with a screenshot of list of access, no training certification. 
+* CMS help desk can support a list of users with access, but not training certs or other items. 
+* If necessary, Dave can put the weight of the Office of the CTO behind statements of what we can support. 
+
+
 
 ## October 22
 
