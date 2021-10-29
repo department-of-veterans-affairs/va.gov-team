@@ -62,7 +62,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 ### Planning
 
-- Desired date range: 09/21/21- 10/21/21
+- Desired date range: 11/30/21 - 01/04/22
 - How will you make the product available in production while limiting the number of users who can find/access it: 
   - The CT Redesign sandbox application is currently behind a prod flag. It will be placed behind a feature flag and the prod flag flipped to move to production. It will be active in parallel to the existing CT.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -117,7 +117,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: October 2021
+- Desired date: January 2022
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
