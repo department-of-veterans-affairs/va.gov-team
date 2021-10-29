@@ -97,24 +97,15 @@ Let’s start with a few questions...
 
 ### For all participants
 - What device are you using today? *(Phone / Tablet / Computer)*
-- What kind of a device is it? *(Windows / Mac / iPhone / Android)*
-- Have you ever looked online for VA forms? 
-  - If yes, can you describe the last time you did that? 
-    - what looking for?
-    - where went?
-    - how recently? 
-    - on what device(s)--computer, tablet, or smartphone? 
 
 ## Screen sharing
 I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your desktop. You should first close any other applications that you don't want me to see.
 *(refer to Screen sharing instructions above, if needed)*
 
 - *NOTE how to share URL: dictate / Zoom chat / email / text* 
-- *NOTE design version: Instructions once at top / repeated for every form in blue box / repeated for every form in help text above download link*
-- What web browser are you using? *(Chrome / Edge / Internet Explorer / Firefox / Safari / ___________)*
 
 ## Veteran Tasks
-Imagine that you just learned that you can complete VA forms electronically. I’m going to give you some forms to find, and I’d like you to fill them out to submit to the VA. I'll have you start from a website that I'm going to *(spell/put into the Zoom chat/email/text)* for you to click on (https://staging.va.gov/find-forms/).
+Imagine that... I'll have you start from a website that I'm going to *(spell/put into the Zoom chat/email/text)* for you to click on (https://staging.va.gov/XXX/).
 
 I would like you to **talk aloud** as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
