@@ -82,6 +82,10 @@
 
 ### General 
 
+**Design**
+
+- Onboard Christina to the team (Samara can create this ticket)
+
 **FE**
 
 - Profile improvements in backlog as schedule allows
@@ -94,11 +98,10 @@
 
 **Design**
 
-Onboard Liz to this work:
+Onboard Christina to this work:
 
-- Kevin to onboard Liz to the design work
+- Kevin to onboard Christina to the design work
 - If not already done, finalize all design comps 
-- Write the research plan
 
 **FE**
 
@@ -109,6 +112,14 @@ Onboard Liz to this work:
 - Sit in on MPI calls
 
 ## Sprint 61 (11/17 - 11/30) 
+
+### Personal information updates
+
+**Design**
+
+- Write the research plan
+- Write the conversation guide
+- Kick off recruiting?
 
 ## Sprint 62 (12/1 - 12/14)
 
