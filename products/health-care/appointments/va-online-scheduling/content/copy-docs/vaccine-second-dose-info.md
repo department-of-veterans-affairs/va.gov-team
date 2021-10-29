@@ -3,28 +3,48 @@
 
 ## Current
 
-(H1) When to expect a second dose
+**FORM TITLE**
 
-If you need a second dose, you may need to return to the {Facility Name} after the dates below, depending on which vaccine you receive:
+```
+NEW APPOINTMENT
+```
 
-If you receive your first dose on {date} and receive:
+**PAGE HEADER**
 
+```
+When to plan for a second dose
+```
 
-(H2) Moderna
+**PAGE DESCRIPTION**
+
+```
+If you get your first dose of a 2-dose vaccine on {date}, here’s when to plan to come back for your second dose.
+```
+
+**PAGE CONTENT**
+
+```
+Moderna
 
 Requires 2 doses
 
 Plan to return after {28 days after calendar date selection}
 
 
-(H2) Pfizer
+Pfizer
 
 Requires 2 doses
 
 Plan to return after {21 days after calendar date selection}
 
 
-(H2) Johnson & Johnson
+Johnson & Johnson
 
 1 dose only
+```
+
+**PROGRESS BUTTONS**
+
+```BACK```
+```CONTINUE```
 
