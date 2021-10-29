@@ -111,6 +111,6 @@ Nov XX, 2021 | Noon - 3 pm, 4 - 8 pm
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Participant(s) for pilot test:	TBD
+- Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), TBD
 - Note-takers:	Perigean
-- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com)
+- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com), Angela Fowler (angela.fowler@adhocteam.us)
