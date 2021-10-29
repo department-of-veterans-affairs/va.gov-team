@@ -35,6 +35,8 @@ We will consider findings and recommendations from this research to refine our d
 1. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
     2. Are Veterans able to register for a whole series of recurring events?
+    3. How accessible to screen reader users are recurring events?
+1. How do Veterans expect to look for VA events?
 1. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
     1. For in-person events, what specific information is expected? (i.e., is "city" enough information, or also want street address?)
 
