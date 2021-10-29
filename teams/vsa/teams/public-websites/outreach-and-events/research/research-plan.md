@@ -3,7 +3,7 @@
 ## Background
 The Outreach & Events calendar provides a listing of upcoming national VA events that Veterans can browse and sign up to attend (without logging in). The current user experience is a flat listing of upcoming events, and we are adding the following two new capabilities:
 1. Filtering events by date range
-1. Viewing recurring events
+1. Viewing recurring events together
 
 [Initiative Briefing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/Artifacts/Initiative%20Briefing.md)
 
@@ -23,7 +23,7 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 ## Research Goals	
 The goals of this research are to get user feedback on our designs for
 1. Filtering by date range
-2. Viewing recurring events
+2. Viewing recurring events together
 
 ### Outcome
 We will consider findings and recommendations from this research to refine our designs before launch.
@@ -36,14 +36,15 @@ We will consider findings and recommendations from this research to refine our d
     1. Are Veterans able to register for individual events in the series of recurring events?
     2. Are Veterans able to register for a whole series of recurring events?
 1. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
-    1. For in-person events, is the city enough information (i.e., street address not needed)?
+    1. For in-person events, what specific information is expected? (i.e., is "city" enough information, or also want street address?)
 
 ### Hypotheses
 1. Filtering events by date range will enable Veterans to find events that fit in their schedules
 2. Seeing which events are recurring will enable Veterans to register for all events they're interested in
+3. The designs will be accessible to Veterans who use screen readers
 
 ## Method	
-We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experiences attending VA events, and then they will use the new Outreach & Events design to browse the event listing of one-time and recurring events and register for some. 
+We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experiences attending VA events, and then they will use the new Outreach & Events design to peruse the event listing of one-time and recurring events and register for some. 
 
 Because we want to include some participants who use screen readers, all participants will access the new design on the Staging server. If this "working prototype" isn't possible to build within the desired timeframe, a UXPin prototype could be used instead, but at the expense of excluding participants who use screen readers.
 
@@ -64,10 +65,10 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 - At least 2 people with a cognitive disability (e.g., TBI)
 - At least 2 people who use a screen reader
 - All have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices 
-- At least 4 people plan to use their smartphone for the interview
-- During the session, all are willing to share a new web browser window on their device
-- All have a working microphone on their device 
-- All have Zoom downloaded to their device prior to the session and know how to share their screen
+  - At least 4 people plan to use their smartphone for the interview
+  - During the session, all are willing to share a new web browser window on their device
+  - All have a working microphone on their device 
+  - All have Zoom downloaded to their device prior to the session and know how to share their screen
 
 ### Secondary criteria (nice-to-haves)
 - At least 2 people of color
@@ -88,7 +89,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: Nov TBD
 
 ### Research sessions
-Nov TBD-TBD, 2021 -- **UNKNOWN at this time because don't yet know date when prototype will be ready**
+Nov TBD-TBD, 2021 -- **UNKNOWN at this time because don't yet know when the prototype will be ready**
 
 ### Length of sessions
 **60-minute sessions** with at least **30-minute breaks** in between
