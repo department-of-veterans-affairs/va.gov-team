@@ -10,9 +10,6 @@
 - *Post p# and "observer instructions" in [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/)*
   - *@mention team members*
 - *Share brief summary of participant demographic info*
-- **If screen reader user, slack Zach re version switching now and during test**
-  - For 1st user: First want to test message with every result (to see if irritating), then switch to only at top.
-  - For 2nd user: First test only at top, then switch to every result. 
 
 **5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
@@ -20,7 +17,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants*
 
-- *Open a standalone browser window to https://staging.va.gov/find-forms/*
+- *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
+
+- *Open a standalone browser window to prototype URL TBD*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -34,13 +33,13 @@
 
 ## Intro - 5 minutes
 
-Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about getting VA forms online.
+Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about events put on by the VA.
 
 Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veterans' needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
-- **If for any reason and at any time you want to stop the session, please let me know.** You will not lose your stipend or be penalized in any way if we need to stop.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
 
 - I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
   - I could dictate it to you, put it in the Zoom chat, email it to you, *(only if on a phone)* text it to you.
@@ -72,10 +71,13 @@ Before we start, I want to go over a few things:
 ## Instructions for finding Zoom chat (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
+    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
   - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
  
 ## Warm-up Questions - 5 minutes
+*NOTE how to share URL: dictate / Zoom chat / email / text* 
+
 Let’s start with a few questions... 
 
 - Have you ever attended an event (e.g., presentation, workshop/class, outreach event) put on by the VA or a Veteran Service Organization? 
@@ -102,12 +104,11 @@ Let’s start with a few questions...
 I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your desktop. You should first close any other applications that you don't want me to see.
 *(refer to Screen sharing instructions above, if needed)*
 
-- *NOTE how to share URL: dictate / Zoom chat / email / text* 
-
 ## Veteran Tasks
+I would like you to look at a website that I will share with you. While you're looking at it, I would like you to **talk aloud** as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. Before you click/tap anywhere on the screen, I would like you to *tell me what you want to do*, and I may ask you questions about that, before telling you to go ahead and try it.
+
 Imagine that... I'll have you start from a website that I'm going to *(spell/put into the Zoom chat/email/text)* for you to click on (https://staging.va.gov/XXX/).
 
-I would like you to **talk aloud** as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 ### Task 1: [ ] - 5 minutes
 Instructions
