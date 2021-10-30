@@ -80,7 +80,7 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 non-native English speaker
+- At least 1 non-native English speaker *(Please ask "What is the first language that you learned to speak as a child?" If not English, record as "non-native English speaker")*
 
 ## Timeline
 
