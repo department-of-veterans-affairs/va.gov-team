@@ -31,6 +31,27 @@
 
 
 ## Monday, November 1, 2021
+* Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
+  * going live 11/15
+  * url for this facility, will be processing a redirect
+    * will change the H1 and therefore the url
+    * CMS recommends to process redirects through Drupal
+    * CMS to manage urls for LH
+* LH request for [Calahan VA Clinic](https://www.va.gov/birmingham-health-care/locations/callahan-va-clinic/) that's permanently closed but still populating on VA.gov
+  * Still showing on Facility locator as closed
+  * CMS can archive it, nothing in the path to process automatically (Josh to create a helpdesk ticket to track)
+  * Probably exists in VAST as permanently closed but no longer in LH
+  * Request fulfillment process to unpublish a site questions
+    * Formal request is going to come to CMS
+    * If user goes to LH first, LH will process for the user through a JSD ticket
+  * [How to archive KB](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/how-to-archive-a-closed-facility) needs some love
+    * VAMC Upgrade team to break into what CMS will do vs. LH, etc
+* How critical is the timing of the upcoming changes?
+  * Facility API changes made morning of 11/15 won't reflect in the CMS until after 3am ET (Facility API migration - LH), VAST changes reflect in LH around 7:30am ET
+  * Ought to be part of the request:
+    * When do you want changes to reflect on va.gov?
+    * How can CMS/LH get notified as early as possible of these things, James to poke with VAST folks
+    * For this iteration we won't worry about it per Dave C
 * Duplicate facilities from VAST
 *  * Update?
 * Updating guidelines / KB
