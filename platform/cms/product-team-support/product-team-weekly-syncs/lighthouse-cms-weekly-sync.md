@@ -29,6 +29,16 @@
 </details>
 
 
+
+## Monday, November 1, 2021
+* Duplicate facilities from VAST
+*  * Update?
+* Updating guidelines / KB
+  * Josh and Joe to look at and complete within next sprint - update
+* Possibility of unifying VBA and VHA sites
+  * Update following 10/26 meeting
+* Kevin to create issue on KB for facility deletion requests - done?
+
 ## Monday, October 25, 2021
 * Duplicate facilities from VAST
 * Will VAST create new facilities each time one moves?
