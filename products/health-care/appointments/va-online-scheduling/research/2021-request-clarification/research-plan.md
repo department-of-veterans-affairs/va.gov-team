@@ -122,7 +122,7 @@ Team Roles
 -   Participant(s) for pilot test: Ciera Maddox
 -   Note-takers: TBD
 -   Observers: 
-    -   Lauren Earnest
+    -   Lauren Ernest
     -   Ciera Maddox
 
 
