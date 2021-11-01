@@ -30,7 +30,7 @@
 | P15 | Friday, October 29 9:00am -10:00am | No show | Android | Veteran | Female | White or Caucasian | 55 - 64 | Master's degree | Air Force | NM | Major metropolitan area | Most |   |
 | P16 | Friday, October 29 10:30am -11:30am | Attended | iOS | Veteran, Veteran's family member | Female | White or Caucasian | 65 - 74 | Some college (no degree) | Marine Corps | TX | Rural area | None | identified cognitive impairments and/or functional disabilities  |
 | P17 | Friday, October 29 12:00pm -1:00pm | Canceled | iOS | Veteran | Male | Hispanic, Latino, or Spanish Origin | 35 - 44 | Bachelor's degree | Army | NM | Rural area | Some |   |
-| P18 | Monday, November 1 9:00am – 10:00am |  | iOS | Veteran, Servicemember | Female | Black or African American | 35 - 44 | Bachelor's degree | Navy | MD | Rural area | None |  identified cognitive impairments and/or functional disabilities |
+| P18 | Monday, November 1 9:00am – 10:00am | Attended | iOS | Veteran, Servicemember | Female | Black or African American | 35 - 44 | Bachelor's degree | Navy | MD | Rural area | None |  identified cognitive impairments and/or functional disabilities |
 | P19 | Monday, November 1 3:00pm -4:00pm |  | iOS | Veteran | Male | Prefer not to answer | Unknown | High school diploma or equivalent (for ex: GED) | Unknown | OR | Major metropolitan area | Most | Sexual orientation: Gay |
 | P20 | Monday, November 1 4:30pm -5:30pm |  | Android | Veteran | Male | White or Caucasian | 45-54 | Bachelor's degree | Army | OH | Major metropolitan area | None |   |
 ## 
