@@ -1,4 +1,4 @@
-# Notification Preferences: Launch Go / No Go | dd.mm.yyyy
+# Notification Preferences: Launch Go / No Go | 11.02.2021
 
 ## Decision: __________________________________
 
@@ -16,7 +16,7 @@
 **Erik, Taylor and Lihan**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer: 
 
-**Erik and Taylor**: are you ready to flip on Notification Preferences to 25% of users?
+**Erik and/or Taylor**: are you ready to flip on Notification Preferences to 25% of users?
 - Answer: 
 
 **Samara/AJ**: is the Product Health Tool and/or Google Analytics updated to track this product data and are they working as expected?
@@ -25,7 +25,7 @@
 **Samara/AJ**: did you see KPI metrics populating from UAT?
 - Answer: 
 
-**Samara/AJ**: is call center ready to handle potential calls that may come in about My VA?
+**Samara/AJ**: is call center ready to handle potential calls that may come in about Notification settings?
 - Answer: 
 
 **Samara/AJ**: are you ready to monitor analytics data for trends and problems?
@@ -34,5 +34,5 @@
 **Samara/AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/release-plan.md) complete and ready to execute against?
 - Answer: 
 
-**Everyone**: does anyone have any concerns or reasons we should postpone a launch to 25% of users?
+**Everyone**: does anyone have any concerns or reasons we should postpone a launch of notification settings to 25% of users?
 - Answer: 
