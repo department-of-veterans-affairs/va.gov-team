@@ -119,11 +119,12 @@ MVP metrics (???): Define happy path or critical path tasks and measure daily ac
 ## Risks
 
 Thoughts so far: 
+-	MO Studio team has not staffed up. 
 -	Complexity could bog us down. 
 -	So many stakeholders, things in flight. 
--	Could further fragment the UX before simplifying it. 
+-	We could further fragment the UX before simplifying it. 
 -	Technical challenges, APIs. 
--	Cerner and Community Care. 
+-	Cerner and Community Care. Will we get the APIs? Without APIs, the experience in the health apartment will be as fragmented as the experience is now: "If you're a patient at X Cerner facility, go through this 'door' (in the health apartment) to manage your health experience at X Cerner facility."
 
 
 
