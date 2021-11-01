@@ -6,82 +6,87 @@
 
 ### No Facilities Online
 
-(H1) Contact a facility
+**FORM TITLE**
 
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Contact a facility
+```
+
+**PAGE DESCRIPTION**
+
+```
 Contact one of your registered VA facilities to schedule your vaccine appointment.
+```
 
-(H2) Your facilities
+**PAGE CONTENT**
 
+```
+Your facilities
 
 {Facility Name}
-
 {City, ST}
-
 {distance}
-
 Main phone: {phone number}
-
 TTY: 711
+```
 
-
-(H2) Find a vaccine walk-in clinic near you
+```
+Find a vaccine walk-in clinic near you
 
 You can go to a VA facility's vaccine clinic during walk-in hours to get the COVID-19 vaccine. You don't need an appointment, but be sure to check the facility's walk-in hours before you go.
 
-[Find VA facilities near you that offer COVID-19 vaccines](link)
+Find VA facilities near you that offer COVID-19 vaccines
+```
 
+**PROGRESS BUTTONS**
+
+```BACK```
 
 ---
 
 ### Dose Received
 
-(H1) We can't schedule your second dose online
+**FORM TITLE**
 
-(H2) If you got your first dose:
+```
+NEW APPOINTMENT
+```
 
-- At a VA health facility, call that facility to schedule your second dose.
-- Outside of VA, you'll need to go to the same location to get your second dose.
+**PAGE HEADER**
 
-(H2) Your facilities
+```
+We can't schedule your second dose online
+```
 
+**PAGE DESCRIPTION**
 
-{Facility Name}
+```
+Call to schedule your second dose
 
-{City, ST}
+Here's what to know:
+- You must receive the same vaccine for both doses. 
+- We encourage you to go to the same location for both doses. But even if you got your first dose outside of VA, you can go to any VA facility that offers the same type of vaccine.
+```
 
-{distance}
+**PAGE CONTENT**
 
-Main phone: {phone number}
-
-TTY: 711
-
-
----
-
-## Proposed
-
-### Dose Received
-
-(H1) We can't schedule your second dose online
-
-(H2) Find a vaccine walk-in clinic near you
-
-You can go to a VA facility's vaccine clinic during walk-in hours to get the COVID-19 vaccine. You don't need an appointment, but be sure to check the facility's walk-in hours before you go.
-
-[Find VA facilities near you that offer COVID-19 vaccines](link)
-
-(H2) Your facilities
+```
+Your facilities
 
 {Facility Name}
-
 {City, ST}
-
 {distance}
-
 Main phone: {phone number}
-
 TTY: 711
+```
 
+**PROGRESS BUTTONS**
 
-[Search for more facilities](link)
+```BACK```
 
