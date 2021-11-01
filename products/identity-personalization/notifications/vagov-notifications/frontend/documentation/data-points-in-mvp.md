@@ -73,7 +73,9 @@ The notifications that will be included in MVP are:
 
 
 
-## NOTES
+## NOTES/QUESTIONS 
 
 - For any piece of information we want to show, we need to check with VA Notify to see if they are already getting that information. (Example: prescription information may be masked, or may not exist)
+- Do the templates need to be in HTML? Or can we get raw JSON data? We need to follow up with VA Notify about this.
+  - Templates should be stored on the FE, as react components.
 
