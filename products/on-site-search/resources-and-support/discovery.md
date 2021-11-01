@@ -46,7 +46,7 @@ There are three types of content on VA.gov.
   - **Accordions** 
 
 
-Detailed analysis of each component on the R&S article page is [component spreadsheet](https://governmentcio-my.sharepoint.com/:x:/g/personal/megan_gayle_gcio_com/EWcGoy_v3P1DoDDxvGp9siYBqa-wN9Fh6iUkmHYRF2voyg?e=bHPWw6).
+Detailed analysis of each component on the R&S article page is available on the [component spreadsheet](https://governmentcio-my.sharepoint.com/:x:/g/personal/megan_gayle_gcio_com/EWcGoy_v3P1DoDDxvGp9siYBqa-wN9Fh6iUkmHYRF2voyg?e=bHPWw6).
 
 
 # Analytics
@@ -64,7 +64,7 @@ Google Analytics reports from Jan 1, 2021 – Oct 1, 2021
 (\*160,020 Unique Searches for **all** of Resources and Support)
 
 Of note, click through rate for CTAs fell significantly after CTA buttons were converted to links:
-- <a href="https://github.com/department-of-veterans-affairs/content-build/pull/503">PR: Remove button styling from links, ** merged on Sept 2** </a>
+- <a href="https://github.com/department-of-veterans-affairs/content-build/pull/503">PR: Remove button styling from links, **merged on Sept 2** </a>
 - <a href="https://github.com/department-of-veterans-affairs/content-build/pull/560">PR: Update links to action links, **merged on Sept 17**</a>
 
 <img width="338" alt="ctr-cta-sept" src="https://user-images.githubusercontent.com/5553542/138931290-b1d6cb62-dd83-4904-9038-2322049c4844.png">
