@@ -3,15 +3,16 @@
 
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-- Optimize the "Get benefits" spoke of the benefit hubs in an effort to:
-  - impact on conversion, user satisfaction, findabiity and navigation, consistency, etc
+- Benefit hubs were launched as part of the WBC effort in November of 2018.  
+- Over the the 3 years the benefit hubs have been live, we have continued to add and modify content.
+- Time to review and evaluate the performance of the structure and the content. 
+- Optimize the benefit hubs to support some larger upcoming efforts: translated content, R&S strategy, authenticated exp, health care apartment, CMS COPE content
 
 **Related/Associated product(s)**
 - Benefits hubs (no product outline available)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
+- How might we optimize the existing benefit hubs to best support our users and set us up for success for some upcoming strategic initiatives.
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
