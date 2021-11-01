@@ -4,7 +4,7 @@
 
 Liz Lantz, VSA, Authenticated Experience
 
-**Last updated:** October 27, 2021
+**Last updated:** November 1, 2021
 
 ## Background
 
