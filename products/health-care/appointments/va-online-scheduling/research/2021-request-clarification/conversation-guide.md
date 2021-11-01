@@ -14,12 +14,11 @@
 ## Intro - 5 minutes
 
 
-Thanks for joining us today! My name is Peter and I have some colleagues on the line observing and taking notes. We're looking to improve our tool that lets Veterans schedule appointments through VA.gov. Today, I'd like to go through a prototype of an online scheduling tool to get your thoughts on it.
+Thanks for joining us today! My name is Peter, and I have some colleagues on the line who are observing and taking notes. We're looking to improve our tool that lets Veterans schedule appointments through VA.gov. Today, I'd like to go through a prototype of an online scheduling tool to get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 40 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a demo tool**  Some areas of the demo will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -30,12 +29,19 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
+
+Warm up questions
+----------------
+
+How do you schedule health care appointments at VA? Over the phone, online, etc.?
+- Why do you use those methods?
+
 Usability test intro
 --------------------
 
-Thank you, that's very helpful!
+Thank you!
 
-Now I'd like to switch gears and get your thoughts on the demo tool I talked about earlier.
+Now I'd like to get your thoughts on the demo tool I talked about earlier.
 
 As I mentioned, some areas of the demo tool will be clickable, and some will not. Some things may not work as expected. If anything catches you by surprise, please let me know as we're going through the tool.
 
@@ -47,9 +53,9 @@ We'll walk through sharing your screen. Then I'll send you a link to the demo to
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* `Use chat to send user link to prototype. [TODO add prototype link]
+* Use chat to send user [link to prototype](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V). 
 
-* `Talk user through screen sharing so they can share their screen.`
+* Talk participant through screen sharing so they can share their screen.
 
 As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
 
@@ -66,15 +72,15 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 
 ## First Task: Complete an appointment request
 
-To start, I want you to use the demo to schedule an appointment. You'll be scheduling a primary care appointment at Evanston VA, and you'd like to get it as soon as possible. If you forget or get stuck in the process just let me know.
+To start, I want you to use the demo to schedule an appointment. You'll be scheduling a primary care appointment at Evanston VA, at the earliest available date. If you forget or get stuck in the process just let me know.
 
 ### Steps
 
 - HOME: Click "Start scheduling"
 - TOC: Choose "Primary care" and click "Continue"
 - FACILITY: Choose "Evanston VA Clinic and click "Continue"
-- OPTION: Choose the option you prefer [TODO make these all clickable]
-- OPTION: (If not on request) choose "Have the facility call me back..." and click "Continue"
+- OPTION: Choose the option you prefer
+    - OPTION: (If they did not choose the request option) choose "Have the facility call me back..." and click "Continue"
 - DATE: Choose the earliest available appointment date
 - REASON: Choose "This is a routine or follow-up visit."
 - REASON: Click anywhere in the box and a reason will be entered. Click "Continue"
@@ -83,27 +89,29 @@ To start, I want you to use the demo to schedule an appointment. You'll be sched
 - REVIEW: Review and click "Continue"
 - PENDING: Review 
 
-### Follow up questions
+### Follow-up questions
 
 - What do you expect the next steps to be, following what you just did here?
 
-*Ask participant to open the "Options" page*
-- Tell me what these options mean.
+*Ask participant to reopen the "Options" page if missed*
+- Tell me what these options mean to you.
 - Think about the option you chose first; why did you prefer that one?
-- Are there any other means for scheduling appointments that you'd like to see represented here.
+- What other means for scheduling appointments would you like to see represented here, if any?
 
 ### Things to watch for:
 
-- Does the participant understand what an appointment request is?
+- How does the participant describe the appointment request?
 - What scheduling modes do they prefer and why?
 
 ## Second Task: Find the requested appointment
+
+*Starting from confirmation page*
 
 How would you find your list of appointments from here?
 
 *Once on the home page;*
 
-How would you find the appointment you just created? 
+Can you find the primary care appointment you just submitted?
 
 How would you find out which facility this pending appointment is supposed to happen at?
 
@@ -113,22 +121,27 @@ How would you find out which facility this pending appointment is supposed to ha
 
 ### Things to watch for:
 
-- Where does the participant expect to find the appt request? Why?
-- Does the participant expect to click a card to find information about the facility?
+- Where does the participant expect to find the appointment request? Why?
+- Does the participant have trouble finding the appointment details?
 
 ## Third Task: Compare with a direct-scheduled appointment
 
+*From the requests detail or list*
+
 Find your scheduled appointments.
+
+*Once found* 
 
 Open the first one on the list.
 
-What's different between this appointment and the one you just scheduled (if anything)?
-
-(Might have to take them through DS flow for this to make sense)
-
+- What's different between this appointment and the one you just scheduled (if anything)?
+- What other information would be helpful here?
+- What are your thoughts on the Related appointments section? 
 
 ### Things to watch for:
-- Does "scheduled appointments" make sense?
+- Do they explain correctly the difference between a scheduled appointment and a request?
+- Any trouble navigating the statuses.
+- Any trouble navigating between the detail page and thumbnails.
 
 ## Post-Task Interview
 
