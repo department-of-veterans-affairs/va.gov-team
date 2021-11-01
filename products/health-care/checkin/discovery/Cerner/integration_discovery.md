@@ -6052,7 +6052,13 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 
 ## Data requirements
 
-List of data points that check-in currently requires.
+| Data point | Reason required |
+| ---------- | --------------- |
+| Patient ID | Retrieve patient record |
+| Patient Last name | Low-risk authentication |
+| Patient Last 4 of SSN | Low-risk authentication |
+| Current date | Filter appointments retrieved |
+| Facility ID | Filter appointments retrieved |
 
 #### Resources
 
