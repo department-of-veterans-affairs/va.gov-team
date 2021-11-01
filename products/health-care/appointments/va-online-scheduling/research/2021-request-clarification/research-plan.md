@@ -1,20 +1,25 @@
-VAOS Requests Discovery - Research Plan [WIP]
+VAOS Requests Discovery - Research Plan
 =============================================
 
 Background
 ----------
 
+### VA Online Scheduling
+
 VA Online Scheduling allows Veterans to request and schedule health care appointments if they are logged into VA.gov. It is one [channel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/design/scheduling-channels-touchpoints.md) Veterans can use to schedule appointments.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
 
+
 ### Problem
 
-Veterans are generally confused by requests:
+We've heard in previous research and user feedback that Veterans are generally confused by the concept of appointment requests in VAOS:
 
 [2019 Research](<https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md#findings>)
 
 [2021 appts list usability](<https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test/report-out.md#appointment-requests-continue-to-create-confusion>)
+
+### Assumptions
 
 We believe that:
 
@@ -25,16 +30,12 @@ We believe that:
 
 ### OCTO-DE Objectives
 
-[OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) this research supports.
-
+[OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) this research supports:
 -   Increase: Veteran satisfaction with VA.gov
 -   Decrease: 
--   Call center volume, wait time, time to resolution
--   Time to successfully complete and submit online transactions (?)
+    -   Call center volume, wait time, time to resolution
+    -   Time to successfully complete and submit online transactions
 
-### Veteran Journey
-
-[TODO] Where does your product fit into the Veteran journey? Are there moments that matter?
 
 Research Goals
 --------------
@@ -44,39 +45,34 @@ Research Goals
 
 ### Outcome
 
-We'll use these findings to make appointment requests easier to understand so Veterans can make better choices when they can't direct-schedule an appointment.
+We'll use these findings to make appointment requests easier to understand.
 
 ### Research questions
 
--   How are requests confusing Veterans during the scheduling process?
--   How are requests confusing Veterans when viewing their appointments on the VAOS home page? 
--   What value do appointment requests provide Veterans?
+-   How are requests confusing Veterans during the scheduling process? When viewing their appointments on the VAOS home page?
+-   What value do Veterans find in appointment requests?
 
 ### Hypotheses
 
-We believe that requests are confusing to Veterans because there is no indication at the point when an appointment becomes a request during the scheduling process. If we clearly show when this transition happens, Veterans will be able to make better choices about whether to continue with requesting the appointment, or choose another scheduling option outside of VAOS.
+We believe that requests are confusing _during scheduling_ because there is no indication when a self scheduled appointment becomes a request. If we clearly show when this transition happens, and offer alternative options to making a request, Veterans will be able to make choices about how to schedule their appointment that better fit their needs.
 
-We believe that, once an appointment is requested, Veterans expect to see them listed with their existing appointments. If we surface the number of outstanding requests on the VAOS home page, Veterans will be able to more easily understand what requests are, and how to find details about them.
+We believe that, once an appointment is requested, Veterans expect to see them listed with their existing appointments. If we call out their alongside other appointments, Veterans will be able to more easily understand what requests are, and how to find details about them.
 
 Method
 ------
 
-To get a better understanding of why Veterans are confused by the current state of requests, we'll run UAT with participants, focusing on:
--   Requesting an appointment, then canceling that request.
+To get a better understanding of why Veterans are confused by the current state of requests, we'll run a usability test with participants, focusing on:
+-   Requesting an appointment.
 -   Finding their appointment requests.
-
-Then, we'll run usability tests with a prototype of new features to help guide the eventual solution:
-
--   TBD, see <https://www.sketch.com/s/7ceea77b-e368-4ed1-af98-3b7c57cf3124/p/DF37CD39-F430-4050-B9B2-476680151130>
 
 ### Location
 
 Remote, via Zoom.
 
-### Research materials [TODO]
+### Research materials
 
 -   [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/conversation-guide.md)
--   [Link to prototype](url goes here)
+-   [Link to prototype](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V)
 
 Recruitment
 -----------
@@ -91,32 +87,30 @@ We will use Perigean to recruit Veterans for this research.
 
 **Primary criteria**
 
-- Has an active ID.me, MHV, or DS Logon account
-- Is able to log-in to VA.gov
-- Has established health care at a VA facility
-- Are you willing to log into your VA.gov account and show information about your health care appointments to our research team?
-- Which account do you use to log in to VA.gov - ID.me, MHV, or DS Logon?
+- Veteran has received VA health care.
+- Must be able to join via a desktop or laptop device. This test does not support mobile devices.
 
 Timeline
 --------
 
 ### Prepare
 
-Test materials will be finalised by TBD
+Test materials will be finalised by Friday, November 5, 2021
 
 Pilot Date/time is TBD
 
 ### Research sessions
 
-Date/time is TBD
+This study will start on or after Monday the 8th of November, 2021.
 
 ### Length of sessions
 
-Sessions will be scheduled for 1 hour to account for difficulties logging in.
+Sessions will be scheduled for 1 hour.
 
 ### Availability
 
-TBD
+Monday-Friday
+11 AM-10PM EST
 
 Team Roles
 ----------
@@ -125,10 +119,10 @@ Team Roles
 -   Research guide writing and task development: Peter Russo
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Peter Russo
--   Participant(s) for pilot test: TBD
+-   Participant(s) for pilot test: Ciera Maddox
 -   Note-takers: TBD
 -   Observers: 
--   Lauren Earnest
--   Jeff Balboni
--   [TBD]
+    -   Lauren Earnest
+    -   Ciera Maddox
+
 
