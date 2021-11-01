@@ -66,12 +66,16 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 
 ##### Challenges
 
-- May require ATO/other approvals for use.
+- May require ATO and/or other approvals for use.
+- A [system account](https://fhir.cerner.com/authorization/#registering-a-system-account) must be requested and approved
+- > Cerner must validate and register every SMART app. [...] Cerner will not validate the usage of FHIR resources for direct to consumer apps ([cf](https://fhir.cerner.com/smart/#authorization-model))
 
 ##### Resources
 
-[Api Docs](https://fhir.cerner.com/millennium/overview/)
-
+- [R4 API Docs](https://fhir.cerner.com/millennium/r4/)
+- [SMART on FHIR JavaScript Library](http://docs.smarthealthit.org/client-js/)
+- [SMART on FHIR Sandbox Test Patient Data](https://docs.google.com/document/d/10RnVyF1etl_17pyCyK96tyhUWRbrTyEcqpwzW-Z-Ybs/edit)
+- [Cerner System Account documentation](https://fhir.cerner.com/authorization/#registering-a-system-account)
 
 ## API cross-reference
 
