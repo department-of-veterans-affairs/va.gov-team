@@ -170,18 +170,7 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
 
 #### Findings
 
-**10/17 update:** Waiting to hear back from VEO folks about who we might reach out to at each administration
-
-SMEs to reach out to:
-
-- Laurie Baker (VBA/VEO/works with Melissa Rebstock)
-
-- Kurt Ruark, Deputy Director, VHA/Office of Health Informatics
-- John Brown, task lead for Human Factors Engineering personas - may have some clues given all the research he's done.
-
-- Started outreach to find someone at NCA
-
-- Erin Siminerio, leads HCD for VEO
+Identified SMEs for VBA and VHA and scheduled interviews ([documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/README.md)); still waiting for an NCA contact as of 11/1/2021
 
 ## Next Steps
 
