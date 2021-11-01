@@ -41,6 +41,7 @@ We will consider findings and recommendations from this research to refine our d
     1. For in-person events, what specific information is expected? (i.e., is "city" enough information, or also want street address?)
 
 ### Hypotheses
+1. Veterans will understand how to use filters to find events they are interested in
 1. Filtering events by date range will enable Veterans to find events that fit in their schedules
 2. Seeing which events are recurring will enable Veterans to register for all events they're interested in
 3. The designs will be accessible to Veterans who use screen readers
@@ -48,7 +49,7 @@ We will consider findings and recommendations from this research to refine our d
 ## Method	
 We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experiences attending VA events, and then they will use the new Outreach & Events design to peruse the event listing of one-time and recurring events and register for some. 
 
-Because we want to include some participants who use screen readers, all participants will access the new design on the Staging server. If this "working prototype" isn't possible to build within the desired timeframe, a UXPin prototype could be used instead, but at the expense of excluding participants who use screen readers.
+Because we want to include some participants who use screen readers, all participants will access the new design on the Staging server. If this "working prototype" isn't possible to build within the desired timeframe, a UXPin prototype could be used instead, but at the expense of excluding participants who use screen readers. If we aren't able to include screen reader users, we won't be able to address research questions #1.ii and #2.iii, and hypothesis #4.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -65,7 +66,7 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 - All are Veterans
 - At least 3 people 55 or older
 - At least 2 people with a cognitive disability (e.g., TBI)
-- At least 2 people who use a screen reader
+- At least 2 people who use a screen reader *(IF we are able to test on Staging)*
 - All have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices 
   - At least 4 people plan to use their smartphone for the interview
   - During the session, all are willing to share a new web browser window on their device
