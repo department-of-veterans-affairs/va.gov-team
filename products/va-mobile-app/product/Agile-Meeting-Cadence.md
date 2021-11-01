@@ -48,6 +48,8 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * QA:
     * Tag FE issues tagged to the next sprint with the Release that is 4 weeks away
 
+**Post this meeting, managers are expected to:**
+    * Update the Mobile App Sprint Pre-Planning Review deck with Sprint Objectives & Outcomes
 
 ## Sprint Pre-Planning and Product Sync between Managers and VA
 
@@ -55,7 +57,9 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Who:** VA Product Owners; representative subset of Ad Hoc Practice Management (Product/UX/Eng Managers)
 
-**Zenhub board used:** Product board
+**Mobile App Sprint Pre-Planning Review deck used**
+
+**Zenhub board used:** Product board (if needed)
 
 **Before the meeting:**
 
@@ -67,7 +71,8 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 
 
-* Review the  Product board filtered for issues are tagged for the next sprint (using ZH Milestones)
+* Review the previous sprint accomplishments
+* Review next sprint Objectives & Outcomes  
 * VA POs and team adjust if needed and align on issues for the next sprint
 * If needed, review issues in the Product Management columns of the Product board to answer any open questions
 * VA shares any updates, discussion on new priorities and stakeholder landscape
@@ -97,7 +102,10 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Who:** Full team; VA Product Owners are optional
 
-**Zenhub board used:** UX board + Eng board
+**Sprint Planning Review deck used:** Review Sprint Objectives
+
+**Zenhub board used:** UX board + Eng board 
+ 
 
 **Before the meeting:**
 
