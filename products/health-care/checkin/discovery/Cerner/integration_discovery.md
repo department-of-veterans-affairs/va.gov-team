@@ -81,12 +81,11 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 | Set appointment status | [`PUT /checkin-status-get-all/{stationNo}/{sdesApptIen}`](https://github.com/department-of-veterans-affairs/chip#multiple-appointments) | `stationNo`, `sdesApptIen` | [`PATCH /Appointment/:id`](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#example---update-status-to-booked) | `id` |
 | Retrieve patient demographics | [`GET /v1/sdes/demographics/${stationNo}/${patientDFN}`](https://github.com/department-of-veterans-affairs/chip/blob/3aa487837da7fa37b2620005f1371ed3f0f2acbe/layers/utilities/nodejs/vistaService.js#L65) | `stationNo`, `patientDFN` | [`GET /Patient/:id`](https://fhir.cerner.com/millennium/r4/base/individuals/patient/#retrieve-by-id) | `id` |
 
-## Cerner example API calls
-
+## Cerner Millenium r4 API calls with sample responses
 
 ### Retrieve patient demographics
 - Method: `GET`
-- Endpoint: `/Patient/12724066`
+- Endpoint: `/Patient/{id}`
 - Response:
 <details>
   <summary>Expand response</summary>
@@ -2652,12 +2651,26 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 ```
 </details>
 
+### Update a patient phone number
+- Method: `PATCH`
+- Endpoint: `/Patient/{id}`
+- Headers:
+  - `If-Match`: `W/"{patient.meta.versionId}"`
+- Body:
+```json
+[
+  { "op": "replace", "path": "/telecom/{index}/value", "value": "{phone-number}" }, 
+  { "op": "test", "path": "/telecom/{index}/id", "value": "{patient.telecom[{index}].id}" },
+]
+```
+- Response: `200 OK`
+
 ### Update an appointment status
 - Method: `PATCH`
 - Endpoint: `/Appointment/{id}`
 - Headers:
   - `If-Match`: `W/"{appointment.meta.versionId}"`
-- Body: `{ "op": "replace", "path": "/status", "value": {status} }`
+- Body: `[{ "op": "replace", "path": "/status", "value": {status} }]`
 - Response: `200 OK`
 
 ## Data requirements
