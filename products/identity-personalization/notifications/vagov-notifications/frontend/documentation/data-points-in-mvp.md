@@ -70,3 +70,10 @@ The notifications that will be included in MVP are:
 - Date payment will be recieved
 - Additional info??
 - [LINK]: Go to.... (can we do this?)
+
+
+
+## NOTES
+
+- For any piece of information we want to show, we need to check with VA Notify to see if they are already getting that information. (Example: prescription information may be masked, or may not exist)
+
