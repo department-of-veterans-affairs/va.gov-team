@@ -1180,6 +1180,45 @@ none
 
 ---
 
+### CC Booked-Canceled
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+{Canceler} canceled this appointment.
+```
+
+**PAGE CONTENT**
+
+```
+Community care
+{Provider name}
+{Provider address}
+Directions
+
+Main phone: {phone number}
+TTY: 711
+
+You shared these details about your concern
+{Booking note}
+```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
 #### Community Care Variations
 
 The copy below may be used in place of some copy above based on the data available.
