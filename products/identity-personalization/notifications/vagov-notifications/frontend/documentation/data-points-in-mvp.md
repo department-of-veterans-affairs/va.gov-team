@@ -76,6 +76,10 @@ The notifications that will be included in MVP are:
 ## NOTES/QUESTIONS 
 
 - For any piece of information we want to show, we need to check with VA Notify to see if they are already getting that information. (Example: prescription information may be masked, or may not exist)
+  - We need to double check with VA Notify about existing urls for links in the notifcations.
+  - How many notifications are people getting for each notification? (Example: Are they getting a notification for an appointment 1 month + 3 weeks + 1 week out, or is it just one notification?) 
+  - For a given appt is there a stable ID for that particular appointment? If there were 3 different reminders for the same appt would there be an easy way to know they were all for the same appt?
 - Do the templates need to be in HTML? Or can we get raw JSON data? We need to follow up with VA Notify about this.
   - Templates should be stored on the FE, as react components.
+
 
