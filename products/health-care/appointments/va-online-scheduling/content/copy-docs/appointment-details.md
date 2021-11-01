@@ -546,8 +546,6 @@ none
 
 ### VVC VA Booked-Past
 
-## Current
-
 **FORM TITLE**
 
 n/a
@@ -952,6 +950,7 @@ You shared these details about your concern
 
 {Reason}: {Booking note}
 ```
+
 **PROGRESS BUTTONS**
 
 none
@@ -1003,165 +1002,181 @@ none
 
 ---
 
-### Community Care
+### CC Request-Pending
 
-#### Request-Submitted (Confirmation state)
+**FORM TITLE**
 
-(H1) Pending {type of care} appointment
+n/a
 
-Your appointment has been submitted. The time and date of this appointment are still to be determined.
+**PAGE HEADER**
 
-(link) View your appointments
+```
+Pending {type of care} appointment
+```
 
-(link) New appointment
+**PAGE DESCRIPTION**
 
-Preferred community care provider
-
-{Provider name}
-
-Preferred date and time
-
-{Preferred date & time #1}
-
-{Preferred date & time #2}
-
-{Preferred date & time #3}
-
-You shared these details about your concern
-
-{Booking note}
-
-Your contact details
-
-Email: {Email address}
-
-Phone number: {phone number}
-
-Call {morning, afternoon, evening}
-
-(Link) Cancel request
-
----
-
-#### Request-Pending
-
-(H1) Pending {type of care} appointment
-
+```
 The time and date of this appointment are still to be determined.
+```
 
+**PAGE CONTENT**
+
+```
 Preferred community care provider
-
 {Provider name}
 
 Preferred date and time
-
 {Preferred date & time #1}
-
 {Preferred date & time #2}
-
 {Preferred date & time #3}
 
 You shared these details about your concern
-
 {Booking note}
 
 Your contact details
-
 Email: {Email address}
-
 Phone number: {phone number}
-
 Call {morning, afternoon, evening}
+```
 
-(Link) Cancel request
+```Cancel request```
+
+**PROGRESS BUTTONS**
+
+none
 
 ---
 
-#### Request-Canceled
+### CC Request-Canceled
 
-(H1) {Type of care} appointment request
+**FORM TITLE**
 
+n/a
+
+**PAGE HEADER**
+
+```
+{Type of care} appointment request
+```
+
+**PAGE DESCRIPTION**
+
+```
 {Canceler} canceled this request.
+```
 
+**PAGE CONTENT**
+
+```
 Preferred community care provider
-
 {Provider name}
 
 Preferred date and time
-
 {Preferred date & time #1}
-
 {Preferred date & time #2}
-
 {Preferred date & time #3}
 
 You shared these details about your concern
-
 {Booking note}
 
 Your contact details
-
 Email: {Email address}
-
 Phone number: {phone number}
-
 Call {morning, afternoon, evening}
+```
+
+**PROGRESS BUTTONS**
+
+none
 
 ---
 
-#### Confirmed-Future
+### CC Booked-Future
 
-(H1) {appointment date} at {appointment time}
+**FORM TITLE**
 
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+none
+
+**PAGE CONTENT**
+
+```
 Community care
-
 {Provider name}
-
 {Provider address}
-
-(link) Directions
+Directions
 
 Main phone: {phone number}
-
 TTY: 711
 
 You shared these details about your concern
-
 {Booking note}
+```
 
-(link) Add to calendar
+```Add to calendar```
 
-(link) Print
+```Print```
 
-(H2) Need to make changes?
+```
+Need to make changes?
 
 Contact this provider if you need to reschedule or cancel your appointment.
+```
+
+**PROGRESS BUTTONS**
+
+none
 
 ---
 
-#### Confirmed-Past
+### CC Booked-Past
 
-(H1) {appointment date} at {appointment time}
+**FORM TITLE**
 
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
 This appointment occurred in the past.
+```
 
+**PAGE CONTENT**
+
+```
 Community care
-
 {Provider name}
-
 {Provider address}
-
-(link) Directions
+Directions
 
 Main phone: {phone number}
-
 TTY: 711
 
 You shared these details about your concern
-
 {Booking note}
+```
 
-(link) Print
+```Print```
+
+**PROGRESS BUTTONS**
+
+none
 
 ---
 
@@ -1171,17 +1186,16 @@ The copy below may be used in place of some copy above based on the data availab
 
 ##### No Provider Preferences
 
+```
 Preferred community care provider
-
 No provider selected
+```
 
 ---
 
 ##### No Booking Note
 
-You shared these details about your concern
-
-_tbd copy_
+TBD
 
 ---
 
@@ -1291,7 +1305,7 @@ none
 
 ---
 
-### VA Request Confirmation State
+#### VA Request Confirmation State
 
 **FORM TITLE**
 
@@ -1311,7 +1325,7 @@ Your appointment request has been submitted. The time and date of this appointme
 
 ```Review your appointments```
 
-```Request a new appointment```
+```Schedule a new appointment```
 
 **PAGE CONTENT**
 
@@ -1335,6 +1349,58 @@ Preferred date and time
 
 You shared these details about your concern
 {Reason}: {Booking note}
+
+Your contact details
+Email: {Email address}
+Phone number: {phone number}
+Call {morning, afternoon, evening}
+```
+
+```Cancel request```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
+#### CC Request Confirmation State
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+Pending {type of care} appointment
+```
+
+**PAGE DESCRIPTION**
+
+```
+Your appointment has been submitted. The time and date of this appointment are still to be determined.
+```
+
+```Review your appointments```
+
+```Request a new appointment```
+
+**PAGE CONTENT**
+
+```
+Preferred community care provider
+{Provider name}
+
+Preferred date and time
+{Preferred date & time #1}
+{Preferred date & time #2}
+{Preferred date & time #3}
+
+You shared these details about your concern
+{Booking note}
 
 Your contact details
 Email: {Email address}
