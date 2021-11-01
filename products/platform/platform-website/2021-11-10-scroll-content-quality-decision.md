@@ -9,28 +9,33 @@ _Decision makers:_ Rachael Roueche, OCTO-DE Crew Chief
 ## Platform Documentation artifacts
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/platform-documentation/product-outline.md)
 - [Platform website](https://depo-platform-documentation.scrollhelp.site/)
+- [More in-depth pro/con list](https://vfs.atlassian.net/wiki/spaces/~832277940/pages/1944027159/Scroll+Content+Quality+plug-in#Pros-and-cons)
 
 ## Context
-```
-TBE -- In 2020 Q4, the Content/IA team piloted the documentation tool Confluence for backend developer documentation.  We tested a plugin called Scroll Viewport to customize the look and feel of the site.  Now that Scroll Viewport's free trial period is over, we have to evaluate if we want to continue using Scroll Viewport as a paid customer.
-```
+
+In 2021 Q2, Platforms teams began contributing their own content to the Platform website.  However, because writing was distributed, there were many approaches and teams did not necessarily follow the style guide.  There were a lot of inconsistencies in the content, in terms of terminology, style, grammar, etc - all which affect the impression of the Platform as a professional VA.gov offering.  It also makes the documentation less usable, less clear, and less helpful.
+
+We are proposing adding a linter so that teams can self-serve content maintenance and easily help ensure the overall quality of the Platform webste and the content we create for our customers. 
+
 ## Paths forward
-```
+
 ### Option 1 (recommended by the Content/IA team): Apply the linter
 
-Continue to use Scroll Viewport as a paid customer.  This allows us to:
+Add Scoll Content Quality plug-in to the six Platform website spaces.  This allows us to:
 
-- **Customize the look and feel of our Platform Documentation:** We hypothesize that customizing the look/feel will lead to increased trust in reliability and accuracy.
-  - _More detail:_ We are able to customize the site's theme, header and footer, and navigation elements -- all elements not available in "vanilla Confluence."  We are currently unable to customize the site's font, but we understand that the Scroll Viewport team will start adding that functionality in 2021 Q1.  (Kevin Hoffman, Rachael Roueche, and Liani Lye spoke to the Scroll Viewport team in Dec 2020.)
-- **Have greater control over the publishing workflow:** We hypothesize that increasing publishing workflow control will allow the Content/IA team to act as a layer of quality control.
-  - _More detail:_ With Scroll Viewport, there is an additional manual step between modifying Confluence pages and "publishing" them, ie making them publicly viewable.  Given the distributed nature of writing content for Platform Documentation -- multiple Platform Teams will be involved -- having the Content/IA team be in control of that manual publishing step adds a layer of quality control.
-  - _Risks:_ The Content/IA team might be setting ourselves up to be bottlenecks (an IC could write a document, but it doesn't reach its intended audience on time because we didn't press "publish".)  We started a publishing workflow process during the 2020 Q4 BE docs pilot, and will be refining it in 2021 Q1, as part of our initiative, [Documentation Site — Create Confluence migration plan for VFS-facing docs #17375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17375).
+- **Ensure terminology compliance:** We hypothsize... benefits: 1/ automated correction, instead of manual (things can fall thru gaps).  Saves time.  2/ Makes content clearer, less confusing.  3/ increases contributors' confidence in content creation.  (OCTO-DE instead of DEPO, Platform instead of VSP)
+
+  - _Risks:_ 
+  - key risks:
+  - 2/ People might not actually correct the violations even through the linter calls em out.  Ppl might publish anyway.  violations do not prevent publishing.
+  - 3/ does not check spelling, grammar, and sentence structure.  Would need a supplementary tool.  
+  - smaller risks:
+  - 5/ Divergence in rules across spaces - but rules should be the same across spaces.  Word list should be updated alongside linter.
+  - 1/ Security risks - we don't know how to determine. 
+  - 4/ Doesn't check casing in titles.  If we create a sentence case rule for headings, it corrects headings with numbered lists to all lowercase because it reads the number as the first character (e.g. corrects 1. Embed the image to 1. embed the image)
   
- _Cost considerations:_ Due to Scroll Viewport's pricing structure, increased cost may have implications on the number of editors.
-```
+ _Cost considerations:_ Content Scroll Quality is a beta plug-in.
+
 ## Decision
-```
-Decision made on 2021-01-29:
-- Platform Documentation will continue be hosted via Confluence Cloud with the Scroll Viewport plugin.
-- Confluence Data Center is an investigation that will be conducted in the future (no firm timeline), because the Content/IA team should focus on migrating The Home Page MVP per this initiative, [Migrate Homepage MVP documentation to Confluence #17060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17060).
-```
+
+
