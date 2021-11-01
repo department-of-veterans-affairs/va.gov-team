@@ -22,7 +22,7 @@ Link to product outline: [Higher Level Review v2: https://github.com/department-
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Product in staging: https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/
-  - User 237: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv
+  - vetsgov+test237@id.me (Leah): https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/c76afd7f6829f37a843294402a5ae85ae0a11a33/Administrative/vagov-users/staging-test-accounts-HLR.md
 
 ## Use Case B - Representative contact-info
 
