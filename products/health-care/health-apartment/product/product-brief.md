@@ -105,31 +105,25 @@ Potential metrics:
 -- Has the same or lower story cycle time
 
 
-Metrics notes: 
-Metrics harder for PoC than main product. 
+Notes: 
+Harder to figure out metrics for PoC (versus main product). 
 
-PoC: This is not quantitative, but if need to measure, do survey with concept test and assess preference at end. Would need large sample size. Show concept versus MHV+VA.gov
+PoC: This is not quantitative, but if need to measure, do survey with concept test and assess preference at end. Would need large sample size. Show concept versus MHV+VA.gov now.
 
-Findabililty: Test and prove this. If have empirical evidence to say X% of ppl go to MHV on VA.gov nav for health things. 
+Findabililty: Test and prove this. If have empirical evidence to say X% of people go to MHV on VA.gov nav for health things. What to compare this to? Maybe compare something like appointments on each site. 
 
-What to compare this to? Maybe compare something like appts on each site. 
+Example success criterion: Reduce the amount of time to send a secure message. 
 
-Short term focus is PoC. 
-
-Example success criteria: 
--	Reduce the amount of time to send a secure message. 
-
-MVP metrics (???): define happy path or critical path tasks: daily active users in each task. 
-
-Future (not defining this yet)…
+MVP metrics (???): Define happy path or critical path tasks and measure daily active users in each task. 
 
 ## Risks
+
 Thoughts so far: 
-•	Complexity could bog us down. 
-•	So many stakeholders, things in flight. 
-•	Could further fragment the UX before simplifying it. 
-•	Technical challenges, APIs. 
-•	Cerner and Community Care. 
+-	Complexity could bog us down. 
+-	So many stakeholders, things in flight. 
+-	Could further fragment the UX before simplifying it. 
+-	Technical challenges, APIs. 
+-	Cerner and Community Care. 
 
 
 
