@@ -64,4 +64,4 @@ Not all the elements you see in this design are necessary, for example, if you d
 
 ## Research
 
-Research for this tool was conducted via the [Debt Letters MVP Usability Test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/research/usability-july20/usability-readout.md) and proved favorable among veterans. 
+Research for this layout was conducted via the [Debt Letters MVP Usability Test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/research/usability-july20/usability-readout.md) and proved favorable among veterans. 
