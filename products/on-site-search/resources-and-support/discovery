@@ -1,0 +1,153 @@
+# Background
+Resources and Support (R&S) was originally called “Learning Center”. A link to R&S is available on the footer of VA.gov under "Get answers" with the intention of promoting R&S more heavily once it contained 225 articles (there are currently 67 articles).
+
+R&S was created to contain **Tier 2** content. This product focuses on creating an IA and content design for tier 2 content that includes benefit learning, knowledge, help, and support content categories.
+
+There are three types of content on VA.gov. 
+
+- **Tier 1 content**: benefit content and tools (applying for benefits, accessing benefit tools to manage your existing benefits) for beneficiaries (Veterans, family members, service members)  
+
+- **Tier 2 content**: benefit-adjacent content (for beneficiaries, and people who work with beneficiaries)  
+
+- **Tier 3 content**: organizational/administrative/office content 
+
+
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research">**Original Reseach Folder**</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md">Card sort</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">Moderated usability study</a>
+
+
+# Goals
+- Investigate the analytics of R&S article pages and make changes based on findings
+- Investigate styling of R&S article pages to ensure they are consistent with the design system
+- Update CMS to optimize UX for both end users and content editors
+- Guardrails to allow new editors to publish content and to reduce duplicate content
+
+# Current sections of R&S article pages
+
+- **CTA**
+
+- **Search feature** with radio buttons for R&S and global search
+
+- **Tags**
+
+- **Rate your experience**
+
+- **Related information**
+
+-   **VA benefits**
+
+-   **Need more help?**
+
+- Optional content sections:
+  - Step-by-step instructions
+  - 'On this page' jump ahead links
+  - Tables
+  - Accordions 
+
+
+Detailed analysis of each component on the R&S article page is [component spreadsheet](https://governmentcio-my.sharepoint.com/:x:/g/personal/megan_gayle_gcio_com/EWcGoy_v3P1DoDDxvGp9siYBqa-wN9Fh6iUkmHYRF2voyg?e=bHPWw6).
+
+
+# Analytics
+
+### Interactions on R&S article pages
+
+Google Analytics reports from Jan 1, 2021 – Oct 1, 2021
+
+
+| <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D&_r.drilldown=analytics.eventLabel:cta-button-click/">CTA</a>| <a href="160,020">Searches</a> |  <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Link%20List%20-%20Related%20information%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">Related Links</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Link%20List%20-%20VA%20benefits%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">VA Benefits</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Page%20Content%20Tag%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">Tags</a> |
+| --- | --- | --- | --- | --- |
+| 322,789 Unique Hits | 61,355 Unique Searches\* | 51,571 Unique Hits | 19,029 Unique Hits | 10,029 Unique Hits |
+| Percent of Total: 0.06% | -- | Percent of Total: 0.01% | Percent of Total: 0.00% | Percent of Total: 0.00% |
+
+(\*160,020 Unique Searches for **all** of Resources and Support)
+
+Of note, click through rate for CTAs fell significantly after CTA buttons were converted to links:
+- <a href="https://github.com/department-of-veterans-affairs/content-build/pull/503">**Sept 2** PR: Remove button styling from links</a>
+- <a href="https://github.com/department-of-veterans-affairs/content-build/pull/560">**Sept 17** PR: Update links to action links</a>
+
+<img width="338" alt="ctr-cta-sept" src="https://user-images.githubusercontent.com/5553542/138931290-b1d6cb62-dd83-4904-9038-2322049c4844.png">
+
+CTR on September 1: **2,732**
+
+CTR on September 4: **148**
+
+<br>
+
+### Sign ins
+
+Google Analytics reports from Jan 1, 2021 – Oct 24, 2021
+
+| <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22PT%22,%22Login%22,0%5D%5D/">Total Sign ins</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22%5Ewww.va.gov~2Fresources.*%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Login%22,0%5D%5D/">Sign ins from R&S</a> |
+| --- | --- |
+| 170,009,999 Unique Events | 223,096 Unique Events | 
+| Percent of Total: 30.81% | Percent of Total: 0.04% | 
+
+<br>
+
+### "Percent of Profile Events influenced by Resources and Support"
+
+DOMO Dashboard report from Jan 1, 2021 – Oct 24, 2021
+
+This report pulls in a count of all GA events for Profile navigation and changes that occurred after a user came from R&S compared to all users with those events.
+<img width="970" alt="domo-profile" src="https://user-images.githubusercontent.com/5553542/138745586-ba29a162-c614-4031-886b-6aec87a6914a.png">
+
+
+# Mockups
+
+
+# Issues and recommendations by section
+
+
+
+- **CTA**
+  - CMS requires that it always appear at the top of the page except for short text templates. 
+  - Action links that do something (example: sign in) should be converted to buttons. (See <a href="https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit#slide=id.ge89223ffe9_1_21">Josh Kim's buttons vs action links presentation</a>)
+  - CMS originally required that the CTA field was required but this will become an optional requirement. 
+  - [Audit of CTA issues](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/25521)
+    - CTAs are not needed on all R&S pages
+    - More flexibility is needed on CTA placement for all templates
+ 
+
+- **Search feature** with radio buttons for R&S and global search
+
+  - 38% of R&S searches are on an article page
+  - Begin tracking CTR on searches
+  - During research, half utilized search to navigate while on an article page. Half of users navigated back to the R&S landing page to utilize the 'Topics'  navigation section
+  - We should explore continuing the 'Topics' navigation section on article pages
+  - Consider removing the search feature from article pages. The search feature is not included on individual pages on Find a Form. The search feature on R&S pushes content down. Input field is not visible on mobile until expanded.
+
+- **Tags**
+  - During the usability study, most users <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">did not recognize tags as clickable</a>
+  - Tags are not heavily utilized by content editors, most pages only contain the tag, 'All Veterans'
+  - During usability testing, users did not recognize tags as clickable
+  - Explore continuing the 'Topics' section from the R&S landing page instead of Tags
+
+- **Rate your experience**
+  - Started tracking in June/July, there were 4,181 votes from July 1 – Oct 1, 2021
+  - Detracts from 'Related information' links, styling does not match the rest of modern VA.gov which uses Medallia
+  - Medallia feedback module is commonly used on modern VA.gov pages
+  - Medallia  alllows for additional questions to better understand what users were looking for (<a href="https://docs.google.com/spreadsheets/d/1gkjignCqZV8qTYentLHvh9sZLy_Cnjj1eGodT6-pPzY/edit#gid=782170026">List of Medallia questions</a>)
+    - What other kind of information or service were you looking for today?
+    - Did you find what you were looking for today? 
+    - How do you rate your experience on this page?
+ 
+- **Related information**
+  - Add descriptions, pulled from metadata descriptions to all 'Related Information' links
+  - Limit number of links to 3–5
+
+- **VA benefits**
+  - This link is usually redundant. Many 'Related Information' links are from benefit hubs. Consider consolidating this section and adding a benefit hub link to 'Related Information' section if needed.
+
+- **Need more help?**
+  - Grey background styling is inconsistent
+
+# Future exploration
+  - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
+  - Conduct usability study on proposed updates
+  - Plans for elevating R&S after reaching 225 articles? Participants stated they expected R&S to be in the header.
+  - Possibility of a name change? Participants were drawn to the description 'FAQs' 
+    - From <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Search Tool usability study from Sept 2021:</a>*"Three participants said that they didn't understand what Resources and Support meant and so didn't click on it. The word "FAQs" in the description in the Resources and Support tile is what led to some of them eventually try it."*
+
+
