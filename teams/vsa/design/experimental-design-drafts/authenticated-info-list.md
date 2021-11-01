@@ -41,7 +41,7 @@ The purpose of this pattern is:
 
 ### UX Behavior
 
-You shoould use this pattern if you're designing an experience where a Veteran is viewing a list of items relevant to them. For example, a list of the claims they have in process, a list of their disability ratings, or a list of the medical devices they have ordered.
+You should use this pattern if you're designing an experience where a Veteran is viewing a list of items relevant to them. For example, a list of the claims they have in process, a list of their disability ratings, or a list of the medical devices they have ordered.
 
 ### Additional Notes
 
