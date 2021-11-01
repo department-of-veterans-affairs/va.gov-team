@@ -119,7 +119,7 @@ MVP metrics (???): Define happy path or critical path tasks and measure daily ac
 ## Risks
 
 Thoughts so far: 
--	MO Studio team has not staffed up. 
+-	MO Studio team has not yet staffed up. 
 -	Complexity could bog us down. 
 -	So many stakeholders, things in flight. 
 -	We could further fragment the UX before simplifying it. 
