@@ -20,7 +20,13 @@ The notifications that will be included in MVP are:
   -  526EZ submission confirmation (disability compensation)
 - App connect/disconnect from VA profile
 
-## Health care
+## Time Sensitive Notifications (Priority Notifications)
+- Appt Reminders
+- New Messages
+- In-Progress Applications
+- Board of Veterans Appeals Hearing Reminders
+
+## HEALTH CARE
 
 ### Appointments
 - Date
@@ -70,6 +76,7 @@ The notifications that will be included in MVP are:
 - Date payment will be recieved
 - Additional info??
 - [LINK]: Go to.... (can we do this?)
+
 
 
 
