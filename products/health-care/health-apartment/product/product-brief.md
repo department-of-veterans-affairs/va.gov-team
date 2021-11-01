@@ -26,83 +26,83 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 ### Apartment Team
 
 **Federal employees** 
-•	Design: Meg Peters
-•	Product: Tracey Mulrooney
-•	Engineering: TBD
+-	Design: Meg Peters
+-	Product: Tracey Mulrooney
+-	Engineering: TBD
 
 **Contractors from MO Studio and its partners**
-•	Jeff Scheire (CEO of MO)
-•	Paula Mendoza (UX)
-•	Nadya Primak (FE engineering,  some BE)
-•	Jared Cooke (FE engineering)
-•	Product manager: TBD
-•	UX design lead: TBD
-•	UX designer: TBD - RE: the 2 UX designers - Need these skills: user research (priority), service design (priority). Visual design skills needed, too.
-•	Delivery manager: TBD - This person is a writer, communicator, organizer. Skilled in internal comms and product documentation. Not running the scrum.
-•	Content strategist + plain language writer: TBD - Supports Meg in working on IA and content strategy.
+- Jeff Scheire (CEO of MO)
+- Paula Mendoza (UX)
+- Nadya Primak (FE engineering, also some BE)
+- Jared Cooke (FE engineering)
+- Product manager: TBD
+- UX design lead: TBD
+- UX designer: TBD - RE: the 2 UX designers - Need these skills: user research (priority), service design (priority). Visual design skills needed, too.
+- Delivery manager: TBD - This person is a writer, communicator, organizer. Skilled in internal comms and product documentation. Not running the scrum.
+- Content strategist + plain language writer: TBD - Supports Meg in working on IA and content strategy.
 
 ## Stakeholders
 Most of the folks below are product people. Roles show next to names of non-product people (some items are not products). Everyone is a fed unless identified as a contractor. 
 
 ### Account Experience Crew (authenticated experience)
 Crew chief: TBD
-•	My VA (Samara Strauss)
-•	Profile (Samara Strauss)
-•	VA Notify (Shane Elliott, Beverly Nelson)
-•	VEText (Shane Elliott, Beverly Nelson)
-•	VSP Identity (John Rahaghi, Cody Reinold)
+-	My VA (Samara Strauss)
+-	Profile (Samara Strauss)
+-	VA Notify (Shane Elliott, Beverly Nelson)
+-	VEText (Shane Elliott, Beverly Nelson)
+-	VSP Identity (John Rahaghi, Cody Reinold)
 
 ### Mobile Experience
 Product: Leanna
 Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans).
 
 ### Health
-•	VAOS (Lauren Ernest, contractor)
-•	Check In (Stephen Barrs is backfilling Patrick Bateman, who returns soon. There was an earlier project called eScreener/Pre-Visit Questionnaire -- not sure if that was rolled into Check In. Angela Gant-Curtis was the PO.)
-•	Caregivers (? - George Chewning, PIF)
-•	10-10EZ application for health care (? - George Chewning, PIF)
-•	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
-•	After-visit summary (Shane Elliott)
-•	PGD (Kimberly McManus, PIF. Having PGD, or patient-generated data, on VA.gov seems a ways off, so we haven't been in touch with this stakeholder lately.)
+-	VAOS (Lauren Ernest, contractor)
+-	Check In (Stephen Barrs is backfilling Patrick Bateman, who returns soon. There was an earlier project called eScreener/Pre-Visit Questionnaire -- not sure if that was rolled into Check In. Angela Gant-Curtis was the PO.)
+-	Caregivers (? - George Chewning, PIF)
+-	10-10EZ application for health care (? - George Chewning, PIF)
+-	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
+-	After-visit summary (Shane Elliott)
+-	PGD (Kimberly McManus, PIF. Having PGD, or patient-generated data, on VA.gov seems a ways off, so we haven't been in touch with this stakeholder lately.)
 
 ### Benefits
 Debt Resolution (Matt Self)
 
 ### Sitewide Crew
 Crew chief: Dave Conlon
-•	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages HC hub content)
-•	Sitewide navigation and IA (Mikki Northuis, information architect - contractor)
-•	Facilities (Dave Conlon, Michelle Middaugh)
+-	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages HC hub content)
+-	Sitewide navigation and IA (Mikki Northuis, information architect - contractor)
+-	Facilities (Dave Conlon, Michelle Middaugh)
 
 ### OCC 
 **Contractors**
-•	Barry Egbert (engineer)
-•	Ken Graham (engineer)
+-	Barry Egbert (engineer)
+-	Ken Graham (engineer)
 
 **Federal employees**
-•	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
-•	Acting Head of OCC: Dr. Kathy Frisbee
-•	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
-•	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
-•	Management analyst: Carnetta Scruggs (Engineering background. Think she's VHA, outside of OCC/MHV.)
+-	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
+-	Acting Head of OCC: Dr. Kathy Frisbee
+-	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
+-	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
+-	Management analyst: Carnetta Scruggs (Engineering background. Think she's VHA, outside of OCC/MHV.)
 
 ### VBA 
 We need to include stakeholders from VBA but have not yet done so. 
-•	Disability
-•	Hearing aid batteries
-•	Prosthetic socks
-•	Travel pay
+- Disability
+- Hearing aid batteries
+- Prosthetic socks
+- Travel pay
 
 ## Measuring success 
 
 Potential metrics: 
-•	The proportion of Veterans using VA.gov OR MHV monthly does not decrease.
-•	The proportion of Veterans using VA.gov AND MHV monthly decreases.
-•	Within 6 months of moving into the apartment, each product that moved: 
--	Scores higher on [accessibility index]
--	Has the same or more monthly active users
--	Causes the same or less contact center support volume per user
--	Has the same or lower story cycle time
+-	The proportion of Veterans using VA.gov OR MHV monthly does not decrease.
+-	The proportion of Veterans using VA.gov AND MHV monthly decreases.
+-	Within 6 months of moving into the apartment, each product that moved: 
+-- Scores higher on [accessibility index]
+-- Has the same or more monthly active users
+-- Causes the same or less contact center support volume per user
+-- Has the same or lower story cycle time
 
 
 Metrics notes: 
