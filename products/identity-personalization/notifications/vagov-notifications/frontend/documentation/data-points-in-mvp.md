@@ -28,7 +28,7 @@ The notifications that will be included in MVP are:
 - Appt type
 - [LINK]: Schedule and view your appointments (**Add**)
 
-### Prescriptions
+### Prescriptions (limited data from VA Notify)
 - Date
 - Presciption name
 - [LINK]: View prescription details (**Add**)
