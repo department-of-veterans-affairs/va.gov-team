@@ -30,7 +30,7 @@ Track down any existing research and personas about non-Veterans that can inform
 
 #### Findings
 
-1.1The high-level understanding of non-Veteran user roles we discussed in planning is generally correct. These are the roles identified in the documents we found:
+1.1 The high-level understanding of non-Veteran user roles we discussed in planning is generally correct. These are the roles identified in the documents we found:
 
 - Dependents  
   - can include children, parents, parent in-law, siblings, etc. 
