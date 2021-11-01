@@ -23,3 +23,7 @@ Link: https://www.drupal.org/project/views_data_export
 The **Content Export CSV** module allows a specific content type's nodes to be exported to CSV format. This project is not covered by Drupal’s security advisory policy, so that may be a concern. The CSV exports would then need to be somehow converted into XLIFF files for sharing with translators.
 
 Link: https://www.drupal.org/project/content_export_csv
+
+The **Node Export** module is the only applicable module that actually allows exporting and importing. Nodes can be transmitted using JSON, Drupal var exports, CSV, PHP serialization, or XML. This may provide the greatest flexibility, but will need to be investigated further.
+
+Link: https://www.drupal.org/project/node_export
