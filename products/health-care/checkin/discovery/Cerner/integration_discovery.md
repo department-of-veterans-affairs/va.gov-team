@@ -90,6 +90,7 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 ### Retrieve patient demographics
 - Method: `GET`
 - Endpoint: `/Patient/{id}`
+- Sample `client-js` call: `client.request("Patient/12724066")`
 - Response:
 <details>
   <summary>Expand response</summary>
@@ -2515,6 +2516,7 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 ### Retrieve appointments for a given date
 - Method: `GET`
 - Endpoint: `/Appointment`
+- Sample `client-js` call: `client.request("Appointment?patient=12724066&date=ge2020-01-24T00:00:00.000Z&date=lt2020-01-25T00:00:00.000Z")`
 - Parameters:
   - `patient`: `12724066`
   - `date`: `ge2020-01-24T00:00:00.000Z`
@@ -2667,6 +2669,23 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
   { "op": "test", "path": "/telecom/{index}/id", "value": "{patient.telecom[{index}].id}" },
 ]
 ```
+- Sample `client-js` call:
+```js
+  const patientId = "12724066";
+  const telecomIdx = "5";
+  const phone = "505-123-4567";
+  const telecomId = "CI-PH-29844706-5";
+  const appointmentMetaVersion = "23";
+
+  this.client.patch(
+    `Patient/${patientId}`,
+    [
+      { "op": "replace", "path": `/telecom/${telecomIdx}/value`, "value": phone },
+      { "op": "test", "path": `/telecom/${telecomIdx}/id`, "value": telecomId },
+    ],
+    { headers: { "If-Match": `W/"${appointmentMetaVersion}"` } }
+  )
+```
 - Response: `200 OK`
 
 ### Update an appointment status
@@ -2675,11 +2694,24 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 - Headers:
   - `If-Match`: `W/"{appointment.meta.versionId}"`
 - Body: `[{ "op": "replace", "path": "/status", "value": {status} }]`
+- Sample `client-js` call:
+```js
+  const id = "4835953";
+  const appointmentMetaVersion = "3";
+  const status = "checked-in";
+
+  this.client.patch(
+    `Appointment/${id}`,
+    [{ "op": "replace", "path": "/status", "value": status }],
+    { headers: { "If-Match": `W/"${appointmentMetaVersion}"` } }
+  ).then(respond, respond);
+```
 - Response: `200 OK`
 
 ### Retrieve a questionnaire
 - Method: `GET`
 - Endpoint: `/Questionnaire/{id}` (`id` may be obtained from a `QuestionnaireResponse`)
+- Sample `client-js` call: `client.request("Questionnaire/SH-12724066");`
 - Response:
 <details>
   <summary>Expand response</summary>
@@ -5544,6 +5576,7 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 - Endpoint: `/QuestionnaireResponse`
 - Parameters:
   - `patient`: `12724066`
+- Sample `client-js` call: `client.request("QuestionnaireResponse?patient=12724066")`
 - Response:
 <details>
   <summary>Expand response</summary>
