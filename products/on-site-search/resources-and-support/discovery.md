@@ -103,8 +103,13 @@ This report pulls in a count of all GA events for Profile navigation and changes
 
 <details>
   <summary>Proposed designs (click to expand)</summary>
+  <br>
+  <p>Topics section from the landing page is continued on the article pages as a left navigation section</p>
 <img src="https://user-images.githubusercontent.com/5553542/139905973-3e748d18-4bed-40fd-999d-5a370e998b45.png" width="400">
 <br> <br> <br>  
+  
+<p>A minified version of the topics section from the landing page is continued on the article pages at the bottom of the page</p>
+
 <img src="https://user-images.githubusercontent.com/5553542/139906045-2ff3e2b7-77b4-4966-bf9c-e92d8f9e0cb7.png" width="400">
   </td>
 </details>
