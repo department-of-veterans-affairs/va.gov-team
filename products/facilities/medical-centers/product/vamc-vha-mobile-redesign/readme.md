@@ -35,3 +35,6 @@ Purpose: To understand how mobile clinics are being used across the country, so 
 #### Design Round 2
    - [Round 2 - Mural exploration of design solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery/files/MMU-Discovery-Phase-3.pdf)
 
+## Knowledge transfer
+[Knowledge transfer: VHA Mobile clinic design, recorded October 29, 2021](https://user-images.githubusercontent.com/55411834/139921388-36f62447-ec80-4524-88b9-bb1a47ef6e91.mp4)
+
