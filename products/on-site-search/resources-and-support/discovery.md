@@ -119,9 +119,9 @@ This report pulls in a count of all GA events for Profile navigation and changes
 
 
 - **CTA**
-  - CMS requires that it always appear at the top of the page except for short text templates. 
+  - CMS requires that CTAs always appear at the top of the page except for short text templates, CMS should allow editors to place CTA anywhere on the page
   - Action links that do something (example: sign in) should be converted to buttons. (See <a href="https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit#slide=id.ge89223ffe9_1_21">Josh Kim's buttons vs action links presentation</a>)
-  - CMS originally required that the CTA field was required but this will become an optional requirement. 
+  - CMS originally required that the CTA field was required but this will now be an optional requirement
   - [Audit of CTA issues](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/25521)
     - CTAs are not needed on all R&S pages
     - More flexibility is needed on CTA placement for all templates
@@ -160,6 +160,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
 
 - **Need more help?**
   - Remove grey background as styling is inconsistent with the rest of VA.gov
+
 
 # Future exploration
   - Conduct usability study on proposed updates
