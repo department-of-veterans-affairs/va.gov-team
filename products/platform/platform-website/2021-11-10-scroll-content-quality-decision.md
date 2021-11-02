@@ -1,3 +1,6 @@
+# Obsolete: See this page for the maintained version: https://vfs.atlassian.net/wiki/spaces/CIT/pages/1961394184/2021-11-10+Scroll+Content+Quality+decision
+----
+
 # Should we add the Scroll Content Quality linter to the Platform website?
 
 This doc provides context to make a decision around using k15t's Scroll Content Quality plug-in to augment our Confluence-based Platform website.
