@@ -1,0 +1,191 @@
+[
+  {
+    "nid": [
+      {
+        "value": "37718"
+      }
+    ],
+    "uuid": [
+      {
+        "value": "fdef1a0c-9fd6-44a0-bd39-9b366177e609"
+      }
+    ],
+    "vid": [
+      {
+        "value": "573430"
+      }
+    ],
+    "langcode": [
+      {
+        "value": "en"
+      }
+    ],
+    "type": [
+      {
+        "target_id": "page"
+      }
+    ],
+    "revision_timestamp": [
+      {
+        "value": "1635786257"
+      }
+    ],
+    "revision_uid": [
+      {
+        "target_id": "3303"
+      }
+    ],
+    "revision_log": [],
+    "status": [
+      {
+        "value": "0"
+      }
+    ],
+    "uid": [
+      {
+        "target_id": "1341"
+      }
+    ],
+    "title": [
+      {
+        "value": "COVID-19 vaccines at VA - Cloned NEW LANGUAGE"
+      }
+    ],
+    "created": [
+      {
+        "value": "1635786221"
+      }
+    ],
+    "changed": [
+      {
+        "value": "1635786257"
+      }
+    ],
+    "promote": [
+      {
+        "value": "0"
+      }
+    ],
+    "sticky": [
+      {
+        "value": "0"
+      }
+    ],
+    "default_langcode": [
+      {
+        "value": "1"
+      }
+    ],
+    "revision_default": [
+      {
+        "value": "1"
+      }
+    ],
+    "revision_translation_affected": [
+      {
+        "value": "1"
+      }
+    ],
+    "moderation_state": [
+      {
+        "value": "draft"
+      }
+    ],
+    "metatag": [],
+    "path": [
+      {
+        "alias": "/covid-19-vaccines-at-va-cloned-new-language",
+        "pid": "46554",
+        "langcode": "en"
+      }
+    ],
+    "menu_link": [],
+    "field_administration": [
+      {
+        "target_id": "10"
+      }
+    ],
+    "field_alert": [],
+    "field_content_block": [
+      {
+        "target_id": "89360",
+        "target_revision_id": "476584"
+      },
+      {
+        "target_id": "89361",
+        "target_revision_id": "476585"
+      },
+      {
+        "target_id": "89368",
+        "target_revision_id": "476586"
+      },
+      {
+        "target_id": "89375",
+        "target_revision_id": "476587"
+      },
+      {
+        "target_id": "89376",
+        "target_revision_id": "476588"
+      },
+      {
+        "target_id": "89377",
+        "target_revision_id": "476589"
+      },
+      {
+        "target_id": "89382",
+        "target_revision_id": "476590"
+      },
+      {
+        "target_id": "89387",
+        "target_revision_id": "476591"
+      },
+      {
+        "target_id": "89392",
+        "target_revision_id": "476592"
+      },
+      {
+        "target_id": "89397",
+        "target_revision_id": "476593"
+      },
+      {
+        "target_id": "89403",
+        "target_revision_id": "476594"
+      }
+    ],
+    "field_description": [
+      {
+        "value": "All Veterans, their spouses and caregivers, and CHAMPVA recipients can now get a COVID-19 vaccine at VA. Find out how to get your vaccine. And get the latest VA vaccine updates and answers to common questions."
+      }
+    ],
+    "field_featured_content": [
+      {
+        "target_id": "89409",
+        "target_revision_id": "476595"
+      }
+    ],
+    "field_intro_text_limited_html": [
+      {
+        "value": "<p>Read this page to find out how to get your COVID-19 vaccine at VA. And get the latest VA vaccine updates and answers to common questions.</p>\r\n",
+        "format": "rich_text_limited"
+      }
+    ],
+    "field_meta_tags": [],
+    "field_meta_title": [
+      {
+        "value": "COVID-19 vaccines at VA | Veterans Affairs"
+      }
+    ],
+    "field_page_last_built": [
+      {
+        "value": "2021-11-01T14:47:37"
+      }
+    ],
+    "field_plainlanguage_date": [],
+    "field_related_links": [],
+    "field_table_of_contents_boolean": [
+      {
+        "value": "1"
+      }
+    ]
+  }
+]
