@@ -57,7 +57,7 @@ Alright, let's get started!
 
    1. If yes: Thank you! Please share your screen, and we can get started.
 
-   1. If no: _Explain this is necessary for testing. If they are still unwilling, proceed to the closing statements and end the session._
+   1. If no: _Explain this is necessary for testing. If they are still unwilling, proceed to the [closing statements] and end the session._
 
 ## Navigating to the tool - 2 minutes
 
@@ -190,3 +190,5 @@ We really appreciate you taking the time to test these updates today! This helps
 Any questions before we sign off?
 
 Thank you so much again, and enjoy the rest of your day!
+
+[closing statements]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/uat-nov-2021/conversation-guide.md#post-task-interview---1-minute
