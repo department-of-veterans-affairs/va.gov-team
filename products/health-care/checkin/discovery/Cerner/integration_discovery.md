@@ -1,8 +1,30 @@
-# Cerner Millenium Integration
+# Cerner Integration Discovery
 
-## Problem Statement
+## Executive Summary
+
+### Problem Statement
 
 VA is [transitioning to a new electronic health record (EHR) system](https://www.ehrm.va.gov) ([Cerner Millenium](https://www.cerner.com/solutions/health-systems)) over a 10-year period scheduled to end in 2028. In order to support self-service patient check-in at all VA Medical Facilities, the check-in app must interoperate with Cerner to retrieve appointment records and update appointment statuses.
+
+### Key Conclusion
+
+Direct integration with Cerner's Millenium R4 API is the only route available for supporting self-service patient check-in at facilities using the Cerner EHR system in the near term. Lightweight proof of concept work done as part of this discovery proves that the approach is technically feasible and provides a practical route to support patient check-in. Additionally, most of the current pre check-in scope can be supported, including demographic updates and social history questionnaire responses.
+
+#### Alternatives
+
+- The Enterprise Appointment Service should provide a potential route for supporting check-in. However, the implementation timeline is unknown at this time.
+- The Lighthouse Clinical Health API can provide some of the required data, but does not support updating patient data or appointment status.
+- Third-party platforms such as Tonic may provide alternatives, but no publicly documented APIs were discovered, and would potentially incur additional licensing costs.
+
+### Recommendation
+
+The Healthcare Experience Team recommends that the VA pursue Cerner integration for the check-in experience via the Millenium R4 API with a system-authenticated application.
+
+#### Follow-up Items
+
+- Confirm that Cerner will grant system authentication access for the check-in application scope.
+- Confirm that a system-authenticated application may access VA's Cerner instance.
+- Seek additional information on the timeline for making additional Questionnaire types available via Millenium R4.
 
 ## Potential Integration Routes
 
@@ -10,72 +32,79 @@ VA is [transitioning to a new electronic health record (EHR) system](https://www
 
 Various efforts to provide unified access to data coming from VistA and Millenium are proposed, planned or in progress. If one or a combination of services can provide access to the required data, integration will be simplified.
 
-#### VAOS Service
+- ### VAOS Service
 
-The VAOS Service allows veteran and staff users to fetch and schedule appointments (and appointment requests) for 
-veterans. The request and data model is inspired by FHIR and aimed at helping consuming applications and services more
-easily transition to the FHIR model used by the 
-[Enterprise Appointment Service](https://coderepo.mobilehealth.va.gov/projects/CSS/repos/enterprise-appointment-service/browse).
+    The VAOS Service allows veteran and staff users to fetch and schedule appointments (and appointment requests) for 
+    veterans. The request and data model is inspired by FHIR and aimed at helping consuming applications and services more
+    easily transition to the FHIR model used by the 
+    [Enterprise Appointment Service](https://coderepo.mobilehealth.va.gov/projects/CSS/repos/enterprise-appointment-service/browse).
 
-The VAOS Service is a **_transitional service_**: it will be superseded in the near future by the [Enterprise Appointment
-Service](https://coderepo.mobilehealth.va.gov/projects/CSS/repos/enterprise-appointment-service/browse).
+    The VAOS Service is a **_transitional service_**: it will be superseded in the near future by the [Enterprise Appointment
+    Service](https://coderepo.mobilehealth.va.gov/projects/CSS/repos/enterprise-appointment-service/browse).
 
-##### Challenges
+  #### Challenges
+    - The VAOS service does not appear to currently support Cerner data.
 
-- The VAOS service does not appear to currently support Cerner data.
+- ### Enterprise Appointment Service
 
-#### Enterprise Appointment Service
+    From the facilities team: Another initiative is working on an enterprise appointment service which is intended to be the hub for all appointment related data. Will begin with VISTA and add Cerner later. Steve Eaton is POC. ([ref](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30209#issuecomment-936648507)) 
 
-From the facilities team: Another initiative is working on an enterprise appointment service which is intended to be the hub for all appointment related data. Will begin with VISTA and add Cerner later. Steve Eaton is POC. ([ref](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30209#issuecomment-936648507)) 
+  #### Resources
+    - [source repo](https://coderepo.mobilehealth.va.gov/projects/CSS/repos/enterprise-appointment-service/browse) (requires auth)
 
-##### Resources
+- ### VDIF
 
-- [source repo](https://coderepo.mobilehealth.va.gov/projects/CSS/repos/enterprise-appointment-service/browse) (requires auth)
+  VDIF is a single, common middleware platform to service and enable VistA, includes the ability to read, write, and share VistA data. ([ref](https://github.com/department-of-veterans-affairs/vdif-ep-devops))
 
-#### VDIF
+   #### Challenges
+    - No interoperability with Cerner is currently advertised in public materials. A brief review of [the source](https://github.com/department-of-veterans-affairs/Redacted-Public-Release-VDIF-EP-v2.34.0-May-2021) reveals some references, but it does not appear that full integration is available.
 
-VDIF is a single, common middleware platform to service and enable VistA, includes the ability to read, write, and share VistA data. ([ref](https://github.com/department-of-veterans-affairs/vdif-ep-devops))
+  ### Lighthouse: VA Clinical Health API (FHIR)
 
-##### Challenges
+    The [Clinical Health API](https://developer.va.gov/explore/health/docs/clinical_health?version=current) allows you to develop clinical-facing applications which pull patient demographic and health information for clinical settings.
 
-- No interoperability with Cerner is currently advertised in public materials. A brief review of [the source](https://github.com/department-of-veterans-affairs/Redacted-Public-Release-VDIF-EP-v2.34.0-May-2021) reveals some references, but it does not appear that full integration is available.
+  #### Opportunities
+    - This would likely be the lowest lift from a administrative/security perspective.
 
-#### Lighthouse: VA Clinical Health API (FHIR)
+  #### Challenges
+    - > Support from business owners may be needed to help on the timeline [ref](https://dsva.slack.com/archives/C01DGGY71T9/p1634592825245500?thread_ts=1627066655.430300&cid=C01DGGY71T9)
+    - The API currently only provides `GET` endpoints, with no ability to update appointment statues, write demographic updates, etc.
+    - Depending on the source, data may be available in real-time or up to 48 hours after entry 
 
-The [Clinical Health API](https://developer.va.gov/explore/health/docs/clinical_health?version=current) allows you to develop clinical-facing applications which pull patient demographic and health information for clinical settings.
+  #### References
+    - [Api Docs](https://developer.va.gov/explore/health/docs/clinical_health?version=current)
+    - [Clinic Status](https://github.com/department-of-veterans-affairs/health-apis-vista-fhir-query/wiki)
 
-##### Opportunities
+### Third-party Platforms
 
-- This would likely be the lowest lift from a administrative/security perspective.
+- ### Tonic
 
-##### Challenges
+  [Tonic](https://tonicforhealth.com) is a real-time mobile patient intake and contactless check-in platform that is partnered with Cerner.
 
-- Support from business owners may be needed to help on the timeline [ref](https://dsva.slack.com/archives/C01DGGY71T9/p1634592825245500?thread_ts=1627066655.430300&cid=C01DGGY71T9)
-- The API currently only provides `GET` endpoints, with no ability to update appointment statues, write demographic updates, etc.
-- Depending on the source, data may be available in real-time or up to 48 hours after entry 
+  #### Challenges
+    - No evidence of a public API for health data interactions has been found.
 
 ### Direct API access
 
-#### Millenium
+- ### Millenium
 
-Millenium is Cerner’s implementation of the HL7® FHIR® standard. An application for pulling real-time health records from VistA and returning them in a FHIR compliant format also exists: https://github.com/department-of-veterans-affairs/health-apis-vista-fhir-query
+    Millenium is Cerner’s implementation of the HL7® FHIR® standard. A VA application for pulling real-time health records from VistA and returning them in a FHIR compliant format also exists: https://github.com/department-of-veterans-affairs/health-apis-vista-fhir-query
 
-##### Opportunities
+  #### Opportunities
+    - This is likely to be the most direct path to Cerner data access.
 
-- This is likely to be the most direct path to Cerner data access.
+  #### Challenges
+    - May require ATO and/or other approvals for use.
+    - A [system account](https://fhir.cerner.com/authorization/#registering-a-system-account) must be requested and approved by Cerner.
+    - > Cerner must validate and register every SMART app. [...] Cerner will not validate the usage of FHIR resources for direct to consumer apps ([cf](https://fhir.cerner.com/smart/#authorization-model))
+    - > While an interaction may list system authentication, this is currently available only in sandbox for beta testing and is not available in production yet. ([cf](https://fhir.cerner.com/millennium/r4/#authorization))
 
-##### Challenges
-
-- May require ATO and/or other approvals for use.
-- A [system account](https://fhir.cerner.com/authorization/#registering-a-system-account) must be requested and approved
-- > Cerner must validate and register every SMART app. [...] Cerner will not validate the usage of FHIR resources for direct to consumer apps ([cf](https://fhir.cerner.com/smart/#authorization-model))
-
-##### Resources
-
-- [R4 API Docs](https://fhir.cerner.com/millennium/r4/)
-- [SMART on FHIR JavaScript Library](http://docs.smarthealthit.org/client-js/)
-- [SMART on FHIR Sandbox Test Patient Data](https://docs.google.com/document/d/10RnVyF1etl_17pyCyK96tyhUWRbrTyEcqpwzW-Z-Ybs/edit)
-- [Cerner System Account documentation](https://fhir.cerner.com/authorization/#registering-a-system-account)
+  #### Resources
+    - [R4 API Docs](https://fhir.cerner.com/millennium/r4/)
+    - [SMART on FHIR JavaScript Library](http://docs.smarthealthit.org/client-js/)
+    - [SMART on FHIR Sandbox Test Patient Data](https://docs.google.com/document/d/10RnVyF1etl_17pyCyK96tyhUWRbrTyEcqpwzW-Z-Ybs/edit)
+    - [Cerner System Account documentation](https://fhir.cerner.com/authorization/#registering-a-system-account)
+    - [PoC](https://github.com/acrollet/r4-provider-standalone)
 
 ## API cross-reference
 
@@ -85,7 +114,7 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 | Set appointment status | [`PUT /checkin-status-get-all/{stationNo}/{sdesApptIen}`](https://github.com/department-of-veterans-affairs/chip#multiple-appointments) | `stationNo`, `sdesApptIen` | [`PATCH /Appointment/:id`](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#example---update-status-to-booked) | `id` |
 | Retrieve patient demographics | [`GET /v1/sdes/demographics/${stationNo}/${patientDFN}`](https://github.com/department-of-veterans-affairs/chip/blob/3aa487837da7fa37b2620005f1371ed3f0f2acbe/layers/utilities/nodejs/vistaService.js#L65) | `stationNo`, `patientDFN` | [`GET /Patient/:id`](https://fhir.cerner.com/millennium/r4/base/individuals/patient/#retrieve-by-id) | `id` |
 
-## Cerner Millenium r4 API calls with sample responses
+## Cerner Millenium R4 API calls with sample responses
 
 ### Retrieve patient demographics
 - Method: `GET`
@@ -6092,8 +6121,3 @@ Millenium is Cerner’s implementation of the HL7® FHIR® standard. An applicat
 | Patient Last 4 of SSN | Low-risk authentication |
 | Current date | Filter appointments retrieved |
 | Facility ID | Filter appointments retrieved |
-
-#### Resources
-
-- [Api Docs](https://developer.va.gov/explore/health/docs/clinical_health?version=current)
-- [Clinic Status](https://github.com/department-of-veterans-affairs/health-apis-vista-fhir-query/wiki)
