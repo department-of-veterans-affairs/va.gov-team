@@ -45,10 +45,9 @@ Great. Now we're really ready to begin!
 
 _**Pay special attention to if Veteran legal guardianship, Veteran-related court order, Health care power of attorney, or something similar is mentioned**_
 
-- How often are you asked to provide proof of legal representation?
+- How often are you asked to provide proof that you're the Veteran's legal representative?
 
-
-I will be sharing my screen. If at any time you cannot see the screen or it is unclear, please let me know.
+Now, I'm going to share my screen. If at any time you cannot see the screen or it is unclear, please let me know.
 
 **Start sharing screen [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)**
 
@@ -58,8 +57,8 @@ I will be sharing my screen. If at any time you cannot see the screen or it is u
 
 _list responses on Mural_
 
-- What document did you provide for each of these situations?
-     - Was it the same or different document that you needed to provide in each of these situations?
+- What did you provide for each of these situations?
+     - Was different proof required for some situations?
 
 _list different document types and draw arrow to each scenario_
 
@@ -122,19 +121,21 @@ Now we're going to take a look at a few questions on the application for the Pro
 - Would this be relevant to your situation?
 - How would you answer this question?
 - With our scale, how confident or not confident are you that you would be answering this question correctly?
-  - Tell me about the factors that made you select **(number)**
+  - Tell me about the factors that made you select **(number)**  
 - Is there anything you wished you knew more about?
+- *If not very confident* What would you do now if you have questions?
 
 **Upload your legal representative document**
 - Take some time to read the screen 
-- Can you talk aloud what you would do on this page?
+- Can you tell me what you would do on this page?
 - Any questions?
 - Does anything stand out to you?
 - Is there anything you wished you knew more about?
 - What document would you upload?
   - With our scale, how confident or not confident are you that you would upload the correct document?
-  - Tell me about the factors that made you select **(number)**
+  - Tell me about the factors that made you select **(number)**  
 - Does the document specifically say that it gives legal authority to make medical decisions?
+- *If not very confident* What would you do now if you have questions?
 
 Ok, let's say you finished uploading the document and now see this screen
 
@@ -143,8 +144,9 @@ Ok, let's say you finished uploading the document and now see this screen
 - Any questions?
 - Does anything stand out to you?
 - What would you do next?
-
-
+- With our scale, how confident or not confident are you that your application will be accepted? 
+    - Tell me about the factors that made you select **(number)**  
+    
 ## Wrap-up questions - 5 minutes
 
 - As we start to wrap-up, any other thoughts?
@@ -153,4 +155,5 @@ Ok, let's say you finished uploading the document and now see this screen
 ## Thank you and Closing
 
 Well we really appreciate you taking the time to share your thoughts and experiences with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and Caregivers.
+
 Great, thank you so much again, and enjoy the rest of your day!
