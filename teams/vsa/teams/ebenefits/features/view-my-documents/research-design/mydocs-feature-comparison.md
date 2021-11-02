@@ -19,7 +19,7 @@ The Download VA Benefits Letters feature resides on VA.gov within the Records hu
 
 #### Users
 
-Judging from the documents themselves, users are primarily Veterans.
+Judging from the documents themselves, users are primarily Veterans. Users must authenticate to view the download page.
 
 #### Flow
 There is a direct link from the "Records" white quadrant on the VA.gov homepage. There is an intermediate landing page [(Download VA benefit letters)](https://staging.va.gov/records/download-va-letters/) providing info and instructions, and prompting users to sign-in. The next screen asks for an address correction/confirmation before allowing the user to continue to the downloadable documents. Once on the documents screen, the user sees a set of accordions containing links to the corresponding PDFs.
@@ -47,6 +47,8 @@ Links:
 As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/).
 
 #### Users
+
+Users of the Claim status tool are Veterans (dependents, service members) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
 
 #### Flow
 
