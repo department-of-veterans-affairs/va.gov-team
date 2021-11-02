@@ -10,20 +10,19 @@
 ### IA Structure, URLs and breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-- Experience will require an unauthenticated landing page for users that will then provide access to 2 functions: 
-  - Find a representative - a search tool that allows users to find a representative; flow may also include submission of form 21-22/21-22a to request rep
-  - View current representative - a tool that requires authentication and displays the user's currently appointed representative(s) if one is on file; This information may be added to profile in future, but will exist as it's own separate page initially. 
+Experience will include an unauthenticated landing page that will include CTAs for 2 tools/functions: 
+1. Find a representative - a search tool that allows users to find a representative; flow may also include submission of form 21-22/21-22a to request rep
+2. View current representative - a tool that requires authentication and displays the user's currently appointed representative(s) if one is on file; This information may be added to profile in future, but will exist as it's own separate page initially. 
 
-**DRAFT STRUCTURE:**
-
+ 
 ![image](https://user-images.githubusercontent.com/20994159/139327667-f4543160-3b46-4f00-a129-114b035f6780.png)
 
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Static landing page | www.va.gov/[static-page-name] |  Home > [Static page name] |  
-Find rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name] |
-View current rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Static page name] > [Tool name]  | This page will require authentication
+Static landing page | www.va.gov/find-manage-accredited-representative |  Home > [Static page H1] |  
+Find rep tool | www.va.gov/find-manage-accredited-representative/find-rep | Home > [Static page H1]  > [Tool H1] |
+View current rep tool |  www.va.gov/find-manage-accredited-representative/your-rep | Home > [Static page H1]  > [Tool H1]  | This page will require authentication
 
 
 <hr>
@@ -33,16 +32,14 @@ View current rep tool | www.va.gov/[static-page-name]/[tool-name]/ | Home > [Sta
 
 A/R/M | Placement | Link Destination | Description
 --- | --- | --- | ---
-Add | Disability hub page | | Placement TBD
-Add | Disability left nav | | Placement TBD
-Remove | Disability hub page | | Remove the existing "Get help filing a claim link" and teaser text
-Remove | Disability left nav | | Remove the existing "Get help filing a claim link"
-Add | Decision reviews hub page | | Placement TBD
-Add | Decision reviews left nav | | Placement TBD
-Remove | Decision reviews hub page | | Remove the existing "Get help requesting a decision review" and teaser text
-Remove | Decision reviews left nav | | Remove the existing "Get help requesting a decision review"
-Add | Health care hub | | Placement TBD
-Add | Health care left nav | | Placement TBD
+Remove | Disability hub page | --- | Remove the existing "Get help filing a claim link" and teaser text
+Add | Disability hub page | www.va.gov/find-manage-accredited-representative | Add link and teaser as last option under "More information and resources"
+Remove | Disability left nav | --- | Remove the existing "Get help filing a claim link"
+Remove | Decision reviews hub page | --- | Remove the existing "Get help requesting a decision review" and teaser text
+Add | Decision reviews hub page | www.va.gov/find-manage-accredited-representative | Add link and teaser as second option under "More information and resources"
+Remove | Decision reviews left nav | --- | Remove the existing "Get help requesting a decision review"
+
+
 
 <hr>
 
@@ -52,7 +49,7 @@ Add | Health care left nav | | Placement TBD
 Page | URL | Notes
 --- | --- | ---
 Disability "Get help" page | https://www.va.gov/disability/get-help-filing-claim | Retire and redirect
-Decision reviews "Get help" page | | Retire and redirect 
+Decision reviews "Get help" page | https://www.va.gov/decision-reviews/get-help-with-review-request | Retire and redirect 
 eBenefits VSO search | https://www.ebenefits.va.gov/ebenefits/vso-search | eBenefits.va.gov team will be responsible for retiring and redirecting
 
 
