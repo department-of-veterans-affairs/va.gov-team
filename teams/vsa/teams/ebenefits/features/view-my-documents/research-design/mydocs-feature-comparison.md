@@ -5,6 +5,10 @@
 
 ---
 
+The focus of this document is to outline the flow and functionality around users' documentation. We're looking for where various features complement or overlap each other in preparation for migrating the eBenefits My Documents feature.
+
+---
+
 ### My Documents
 
 #### Users
@@ -15,9 +19,12 @@
 
 ---
 
-### Benefits Letters
+### Benefits letters
 
-The Download VA Benefits Letters feature resides on VA.gov within the Records hub. This tool provides users with downloadable PDFs that document their VA benefits and service history.
+The Download VA benefits letters feature resides on VA.gov within the Records hub. This tool provides users with downloadable PDFs that document their VA benefits and service history.
+
+<details>
+  <summary><strong>Benefits letters feature details</strong> (Click to open accordion)</summary>
 
 #### Users
 
@@ -44,20 +51,24 @@ Links:
 - Post-9/11 GI Bill Statement of Benefits
 - Request for VA home loan Certificate of Eligibility (eBenefits)
 - Request for DD 214 (eBenefits)
+</details>
 
 ---
 
 ### Claim status tool
 The Claim status tool (CST) allows users to see status and review details of their VA benefits claims and appeals.
 
+<details>
+  <summary><strong>Claim status tool feature details</strong> (Click to open accordion)</summary>
+
 #### Users
 
 Users of the Claim status tool are Veterans (dependents, service members) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
 
 #### Flow
-As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/).
+As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. Each individual claim links to a detail page with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are not viewable or downloadable from the page.
 
-User flow: Home >> Check your VA claim or appeal status >> Sign-in >> 
+User flow: Home >> Check your VA claim or appeal status >> Sign-in >> Check your claim or appeal status
 
 #### Functionality
 
@@ -73,5 +84,6 @@ The list of what can be tracked using the CST includes (list is unverified):
 - VA home loan Certificate of Eligibility (COE)
 - Specially Adapted Housing (SAH) or Special Housing Adaptation (SHA) grants
 - Life insurance
+</details>
 
 ---
