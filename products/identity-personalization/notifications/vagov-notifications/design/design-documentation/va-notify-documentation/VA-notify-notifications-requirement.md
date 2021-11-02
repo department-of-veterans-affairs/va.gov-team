@@ -24,7 +24,35 @@ Last updated November 1, 2021
 
 ### Goals for MVP
 
-- Need to outline
+**Requirements for VA Notify CMS**
+
+Bare minimum for MVP:
+- We would need some sort of raw variable data dump and code on our end will parse through it.
+- We need to be able to see what notifications have onsite alerts in their CMS and which ones do not.
+- A way to recieve data from VA Notify (needs to be figured out)
+
+Ideal for MVP: 
+- The actual content for a given notification will live in VA Notify CMS.
+
+**Requirements from a code perspective**
+- We need VA Notify to be able to send our API JSON versions of notifications.
+
+### Questions for VA Notify
+
+- How can we recieve data from VA Notify? Where will the templates/data be stored?
+  - Do the templates need to be in HTML? Or can we get raw JSON data?
+- How is the information that VA Notify is sending generated?
+- How much of the VA.gov Notifications frontend information is managed in the VA Notify backend?
+- For any piece of information we want to show, we need to check with VA Notify to see if they are already getting that information. (Example: prescription information may be masked, or may not exist)
+- How many notifications are people getting for each specific notification? (Example: Are they getting a notification for an appointment 1 month + 3 weeks + 1 week out, or is it just one notification?)
+  - For a given appt is there a stable ID for that particular appointment? If there were 3 different reminders for the same appt would there be an easy way to know they were all for the same appt?
+- Are there other notifications that can be shown that aren't represented in our [Data Points for MVP doc?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/frontend/documentation/data-points-in-mvp.md)
+- How many notifications would be sent to our API? 
+
+### Action items
+
+
+
 
 
 ### Things we have figured out
@@ -34,19 +62,3 @@ Last updated November 1, 2021
 - We need to have a blank state for everything.
 - We can show time sensitive/priority notifications.
 - We want more personalization than what VA notify currently shows.
-
-
-### Things to figure out
-
-
-
-### Questions for VA Notify
-
-- For any piece of information we want to show, we need to check with VA Notify to see if they are already getting that information. (Example: prescription information may be masked, or may not exist)
-- How many notifications are people getting for each specific notification? (Example: Are they getting a notification for an appointment 1 month + 3 weeks + 1 week out, or is it just one notification?)
-  - For a given appt is there a stable ID for that particular appointment? If there were 3 different reminders for the same appt would there be an easy way to know they were all for the same appt?
-- Where will the templates be stored?
-  - Do the templates need to be in HTML? Or can we get raw JSON data? We need to follow up with VA Notify about this.
-- Are there other notifications that can be shown that aren't represented in our [Data Points for MVP doc?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/frontend/documentation/data-points-in-mvp.md)
-
-### Action items
