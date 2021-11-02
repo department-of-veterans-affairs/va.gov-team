@@ -12,7 +12,7 @@ Specs for Q4 2021 UX improvements to address validation
 
 **Accessibility note**
 
-We'll need to use `aria-describedby` to ensure screenreaders read the bold text. For example, the screenreader should read out "811 Vermont Ave NW Washington, DC 20571 Suggested address" when it reads the first radio option.
+We'll need to use `aria-describedby` to ensure screenreaders read the bold text. For example, the screenreader should read out "811 Vermont Ave NW Washington, DC 20571 Suggested address" when it reads the second radio option.
 
 **Copy**
 
