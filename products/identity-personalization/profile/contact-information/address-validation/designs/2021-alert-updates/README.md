@@ -1,36 +1,18 @@
 # Profile: address validation overrides
 
-Specs for 2021 Q4 UX improvements to address validation
+Specs for Q4 2021 UX improvements to address validation
 
 ## Summary of changes
 
-- Move UX from profile edit mode into [modal component](https://design.va.gov/storybook/?path=/docs/components-modal--default) from design system
+- Move address validation UX from profile edit mode into [modal component](https://design.va.gov/storybook/?path=/docs/components-modal--default) from design system
 - Remove warning alert component
 - Copy updates
 
-### Accessibility
+## Address override with suggestions
 
+**Accessibility note**
 
-
-## Add missing unit number with override
-
-**Copy**
-
-Question: can we make `address` plural only if there are multiple suggestions?
-
-> copy
-
-**Mock-ups**
-
-## Edit bad unit number with override
-
-**Copy**
-
-> 
-
-**Mock-ups**
-
-## Override with suggestions
+We'll need to use `aria-describedby` to ensure screenreaders read the bold text. For example, the screenreader should read out "811 Vermont Ave NW Washington, DC 20571 Suggested address" when it reads the first radio option.
 
 **Copy**
 
@@ -54,11 +36,11 @@ Question: can we make `address` plural only if there are multiple suggestions?
 
 **Mock-ups**
 
-## Override without suggestions
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/designs/2021-alert-updates/address-override-with-suggestions.png)
+
+## Address override without suggestions
 
 **Copy**
-
-
 
 > [title] Confirm your address
 >
@@ -69,4 +51,48 @@ Question: can we make `address` plural only if there are multiple suggestions?
 > {user entered address}
 
 **Mock-ups**
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/designs/2021-alert-updates/address-override-without-suggestions.png)
+
+## Bad unit number
+
+**Copy**
+
+> [title] Confirm your address
+>
+> [body] U.S. Postal Service records show that there may be a problem with the unit number for this address. Confirm that you want us to use this address as you entered it. Or, cancel to edit the address.
+>
+> **You entered:**
+>
+> {user entered address}
+>
+> [button] Use this address
+>
+> [button] Cancel
+
+**Mock-ups**
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/designs/2021-alert-updates/bad-unit-number.png)
+
+## Missing unit number
+
+**Copy**
+
+> [title] Confirm your address
+>
+> [body] U.S. Postal Service records show this address may need a unit number. Confirm that you want us to use this address as you entered it. Or, cancel to go back and add a unit number.
+>
+> **You entered:**
+>
+> {user entered address}
+>
+> [button] Use this address
+>
+> [button] Cancel
+
+**Mock-ups**
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/designs/2021-alert-updates/missing-unit-number.png)
+
+
 
