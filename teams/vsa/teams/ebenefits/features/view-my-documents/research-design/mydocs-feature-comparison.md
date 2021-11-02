@@ -24,7 +24,59 @@ The eBenefits My Documents feature is available to users after they log into the
 **User flow:** Home >> Sign-in >> Dashboard >> My Documents
 
 #### Functionality
-The tool presents a paginated list of user-uploaded (or representative-uploaded) documents that can be sorted or filtered, by document type and received date. Each document can be viewed/downloaded via a link. There is no upload functionality.
+The tool presents a paginated list of user-uploaded (or representative-uploaded) documents that can be sorted or filtered, by document type and received date. Each document can be viewed/downloaded via a link. There is no upload functionality. Only electronically uploaded documents will appear; no handcarried, mailed, or faxed documents will display (Verify this is still true).
+  
+Uploaded documents can include:
+- VA 21-686c Application Request To Add And/Or Remove Dependents
+- 5103 Notice Acknowledgement
+- Correspondence
+- VA 21-526EZ, Fully Developed Claim (Compensation)
+- VA 21-0781, Statement in Support of Claim for PTSD
+- Disability Benefits Questionnaire (DBQ) - Veteran Provided
+- Medical Treatment Records - Furnished by SSA
+- Military Personnel Record
+- Buddy / Lay Statement
+- STR - Dental - Photocopy
+- Medical Treatment Record - Government Facility
+- Certificate of Release or Discharge From Active Duty (e.g. DD 214, NOAA 56-16, PHS 1867)
+- Civilian Police Reports
+- VA 21-0781a, Statement in Support of Claim for PTSD Secondary to Personal Assault
+- VA 21-674 Report of School Attendance
+- Medical Treatment Record - Non-Government Facility
+- STR - Medical - Photocopy
+- VA Form 21-8940 - Veterans Application for Increased Compensation Based on Un-employability
+- VA 21-8940 Veterans Application for Increased Compensation Based on Unemployability
+- Disability Benefits Questionnaire (DBQ)
+- Appeal Substitution Review
+- VA 21-4502 Application for Automobile or Other Conveyance and Adaptive Equipment Under 38 U.S.C. 3901-3904
+- VA 21-2680 Examination for Housebound Status or Permanent Need for Regular Aid and Attendance
+- VA Form 21-686 - Declaration of Status of Dependents
+- VA Form 21-4142 - Authorization To Disclose Information
+- Copy of a DD214
+- VA Form 21-2680 - Examination for Housebound Status or Permanent Need for Regular Aid & Attendance
+- VA Form 21-4502 - Application for Automobile or Other Conveyance and Adaptive Equipment Under 38 U.S.C. 3901-3904
+- VA Form 21-0781a - Statement in Support of Claim for PTSD Secondary to Sexual Assault
+- VA 21-4142a General Release for Medical Provider Information
+- VA Form 21-4142a - General Release for Medical Provider Information
+- VA 21-4192 Request for Employment Information in Connection with Claim for Disability
+- VA 26-4555 Veterans Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant Under Title 38 U.S.C. 2101(a) or (b)
+- VA 21-0779 Request for Nursing Home Info In Connection with Claim for Aid and Attendance
+- VA Form 21-4142 Authorization for Release of Information
+- Signature page VDC submitted 21-526EZ
+- VA Form 21-4192 - Request for Employment Information in Connection with Claim for Disability
+- Outpatient treatment records from Personal Physician
+- Social Security Disability Documentation
+- Medical evidence from Personal Physician
+- VA Form 21-674 - Request for Approval of School Attendance
+- Goldmann Perimetry Chart/Field Of Vision Chart
+- VA Form 21-0781 - Statement in Support of Claim for PTSD
+- Photographs
+- Other Correspondence
+- VA Form 26-4555 - Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant
+- VA Form 21-0779 - Request for Nursing Home Information in Connection with Claim for Aid & Attendance
+- L533
+- L034
+- VA Form 21-2680 - Examination for Housebound Status or Permanent Need for Regular Aid & Attendance
   
 </details>  
 
@@ -41,12 +93,12 @@ The Download VA benefits letters feature resides on VA.gov within the Records hu
 Judging from the documents themselves, users are primarily Veterans. Users must authenticate to view the download page.
 
 #### Flow
-There is a direct link from the "Records" white quadrant on the VA.gov homepage. There is an intermediate landing page [(Download VA benefit letters)](https://staging.va.gov/records/download-va-letters/) providing info and instructions, and prompting users to sign-in. The next screen asks for an address correction/confirmation before allowing the user to continue to the downloadable documents. Once on the documents screen, the user sees a set of accordions containing links to the corresponding PDFs.
+There is a direct link from the "Records" white quadrant on the VA.gov homepage. There is an intermediate landing page [(Download VA benefit letters)](https://staging.va.gov/records/download-va-letters/) providing info and instructions, and prompting users to sign-in. The next screen asks for an address correction/confirmation before allowing the user to continue to the downloadable documents. 
 
 **User flow:** Home >> Download VA benefit letters >> Sign-in >> VA letters and documents (address check) >> VA letters and documents 
 
 #### Functionality
-On the Download Documents screen are several accordions that reveal a link to a downloadable PDF. There are also several links to other "document" resources.
+On the Download Documents are a set of accordions containing links to the view and/or download the corresponding PDFs. There are also several links to other "document" resources.
 
 Download accordions:
 - Proof of Service Card
@@ -76,11 +128,12 @@ The Claim status tool (CST) allows users to see status and review details of the
 Users of the Claim status tool are beneficiaries (Veterans, dependents, service members?) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
 
 #### Flow
-As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. Each individual claim links to a detail page with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are **not** viewable or downloadable from the page.
+As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. 
 
 **User flow:** Home >> Check your VA claim or appeal status >> Sign-in >> Check your claim or appeal status
 
 #### Functionality
+The Claim Status tool presents considerable detail for each individual claim with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are **not** viewable or downloadable from the page.Document upload is available to users who need to submit supporting evidence for their claims.
 
 The list of what can be tracked using the CST includes (list is unverified):
 - Disability compensation
