@@ -167,5 +167,24 @@ The list of what can be tracked using the CST includes (list is unverified):
 
 X = Yes
 
+### Use case comparison
+
+| The user wants to: | My Documents | Benefits Letters | Claim Status Tool |
+| :--- | :---: | :---: | :---: |
+| See a list/history of docs they uploaded | X | -- |  X  |
+| View docs they uploaded | X | -- |  --  |
+| Download docs they uploaded  | X | -- |  --  |
+| Search for an uploaded doc | -- | -- |  --  |
+| Find uploaded docs with sorting/filtering | X | -- |  -- |
+| Find uploaded docs by claim | -- | -- |  X  |
+| Upload new documentation | -- | -- |  X  |
+| View/download proof of VA benefits | -- | X |  --  |
+
+X = Yes
+
+### Initial findings
+The My Documents feature strongly complements the Claim Status Tool; so much that their functionality should be merged or at least co-located. Documents, documentation, submissions, letters, etc. could be easily conflated by users, so some consideration should be give to either strongly differentiating user-uploaded documentation from downloadable VA letters, or to creating a documentation "hub." Research is need to determine users' expectations.
+
+
 ---
 
