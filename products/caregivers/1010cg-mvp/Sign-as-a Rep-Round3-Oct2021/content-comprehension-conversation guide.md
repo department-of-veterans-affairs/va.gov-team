@@ -119,7 +119,12 @@ Now we're going to take a look at a few questions on the application for the Pro
 - Going back to our scale, how confident or not confident are you that you would be answering this question correctly?
    - Tell me about the factors that made you select **(number)**
    - *If not very confident* What would you do now if you had questions?
-
+- _If the participant selects to sign as a legal representative_: What do you expect to have to do next?
+   - What type of document do you plan to upload?
+   - With our scale, how confident or not confident are you that this is a document that can be accepted?
+   - Tell me about the factors that made you select **(number)**
+   - *If not very confident* What would you do now if you had questions?
+   
 **If the participant selects to sign as a legal representative show next screen "What type of document are you uploading for review?":**
 - Take some time to read the screen 
 - Any questions?
