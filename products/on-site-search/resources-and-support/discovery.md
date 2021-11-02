@@ -46,7 +46,7 @@ There are three types of content on VA.gov.
   - **Accordions** 
 
 
-Detailed analysis of each component on the R&S article page is available on the [component spreadsheet](https://governmentcio-my.sharepoint.com/:x:/g/personal/megan_gayle_gcio_com/EWcGoy_v3P1DoDDxvGp9siYBqa-wN9Fh6iUkmHYRF2voyg?e=bHPWw6).
+Detailed analysis of each component on the R&S article page is available on the [component spreadsheet](https://governmentcio-my.sharepoint.com/:x:/g/personal/megan_gayle_gcio_com/EWcGoy_v3P1DoDDxvGp9siYBqa-wN9Fh6iUkmHYRF2voyg?e=bHPWw6) (<a href="https://user-images.githubusercontent.com/5553542/139923047-9b623905-619d-4b59-bfe3-d8cd7566a897.png">screenshot</a>).
 
 
 # Analytics
