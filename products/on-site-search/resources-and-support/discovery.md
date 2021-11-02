@@ -95,7 +95,19 @@ This report pulls in a count of all GA events for Profile navigation and changes
 
 
 # Mockups
+<details>
+  <summary>Current design (click to expand)</summary>
+<img src="https://user-images.githubusercontent.com/5553542/139905911-6a5b51d4-cc5a-4af9-831e-9a7fa724ec19.png" width="400">
 
+</details>
+
+<details>
+  <summary>Proposed designs (click to expand)</summary>
+<img src="https://user-images.githubusercontent.com/5553542/139905973-3e748d18-4bed-40fd-999d-5a370e998b45.png" width="400">
+<br> <br> <br>  
+<img src="https://user-images.githubusercontent.com/5553542/139906045-2ff3e2b7-77b4-4966-bf9c-e92d8f9e0cb7.png" width="400">
+  </td>
+</details>
 
 # Issues and recommendations by section
 
@@ -145,9 +157,9 @@ This report pulls in a count of all GA events for Profile navigation and changes
   - Remove grey background as styling is inconsistent with the rest of VA.gov
 
 # Future exploration
-  - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
   - Conduct usability study on proposed updates
   - Plans for elevating R&S after reaching 225 articles? Participants stated they expected R&S to be in the header.
+  - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
   - Possibility of a name change? Participants were drawn to the inclusion of the term 'FAQs' 
     - From <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Search Tool usability study from Sept 2021:</a>*"Three participants said that they didn't understand what Resources and Support meant and so didn't click on it. The word "FAQs" in the description in the Resources and Support tile is what led to some of them eventually try it."*
 
