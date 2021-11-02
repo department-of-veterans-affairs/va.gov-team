@@ -14,16 +14,22 @@ Translation Management allows translation 'jobs' to be created and at that point
 
 
 
-### Other Avenues for Data Export
+## Other Avenues for Data Export
+Other modules that provide some sort of file export for content and other data
 
-The **Views Data Export** module allows "a way to export large amounts of data from views", but I think the issue we might have with the current Drupal setup is that we are not using the "views" feature of Drupal and instead are using the content-build process to generate html for rendering.
+### Views Data Export Module
+Provides "a way to export large amounts of data from views", but our content build process is not using the "views" feature of Drupal and instead we are generating html markup during the build via the GraphQL api for rendering, and therefore this modules does not export applicable data.
 
 Link: https://www.drupal.org/project/views_data_export
 
-The **Content Export CSV** module allows a specific content type's nodes to be exported to CSV format. This project is not covered by Drupal’s security advisory policy, so that may be a concern. The CSV exports would then need to be somehow converted into XLIFF files for sharing with translators.
+### Content Export CSV Module
+
+Module allows a specific content type's nodes to be exported to CSV format. This project is not covered by Drupal’s security advisory policy, so that may be a concern. The CSV exports would then need to be somehow converted into XLIFF files for sharing with translators. Unfortunately this module is not compatible with the current version of Drupal 9.2.7 at this time. I doubt it will be updated as the last code changes to the module were done June 6, 2020. 
 
 Link: https://www.drupal.org/project/content_export_csv
 
-The **Node Export** module is the only applicable module that actually allows exporting and importing. Nodes can be transmitted using JSON, Drupal var exports, CSV, PHP serialization, or XML. This may provide the greatest flexibility, but will need to be investigated further.
+
+### Node Export Module
+The only applicable module that actually allows exporting and importing. Nodes can be transmitted using JSON, Drupal var exports, CSV, PHP serialization, or XML. After installing this module and exporting a Covid 19 page the resulting JSON only contained the base metadata and all content blocks would need to be exported individually. An example can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/development/research/node_export_example.json   
 
 Link: https://www.drupal.org/project/node_export
