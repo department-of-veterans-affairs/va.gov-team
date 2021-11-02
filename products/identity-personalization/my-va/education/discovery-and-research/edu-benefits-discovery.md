@@ -116,7 +116,7 @@ Downloading VA letters for edu benefits
 - Analytics review
   -   In regard to GI BIll status tool - who has access? _not sure_
 
-- Re payment information, high value?
+- Re: payment information - what is high value?
    - Remaining entitlement and/or what's been used exposed on My VA
    - _In order to expose this on My VA _we_ need to know what data is available to them for statement of benefits_
 
@@ -124,14 +124,17 @@ Downloading VA letters for edu benefits
    1. Next payment + link to all payments
    2. Remaining entitlement and related info to that entitlement
    3. Link to statement of benefits
-   4. Link to download COE
-   5. Secure messaging
-   6. Monthly verification of enrollments
+   4. Link to download Certificate of Enrollment 
+   5. Secure messaging (doesn't exist yet)
+   6. Monthly verification of enrollments (doesn't exist yet)
 
-- Monthly verification of enrollments
-   - DGIB building a new tool for this
-
-- What are existing things on VA.gov that we could pull from?
+**- What are existing things on VA.gov that we could pull from?**
+   - Payment history
    - Statement of benefits (though doesn't include remaining allotment and doesn't cover post 9/11)
-   - GI Bill comp tool
+      - What does this include?
+   - GI Bill comparison tool
+
+**Things DGIB team is working on, that are not released yet.**
+   - Monthly verification of enrollments (doesn't exist yet)
+   - 
 
