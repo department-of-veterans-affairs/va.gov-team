@@ -13,6 +13,8 @@
 
 #### Functionality
 
+---
+
 ### Benefits Letters
 
 The Download VA Benefits Letters feature resides on VA.gov within the Records hub. This tool provides users with downloadable PDFs that document their VA benefits and service history.
@@ -42,6 +44,8 @@ Links:
 - Post-9/11 GI Bill Statement of Benefits
 - Request for VA home loan Certificate of Eligibility (eBenefits)
 - Request for DD 214 (eBenefits)
+
+---
 
 ### Claim Status Tool
 As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/).
