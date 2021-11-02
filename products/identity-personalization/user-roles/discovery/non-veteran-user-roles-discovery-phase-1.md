@@ -1,10 +1,10 @@
 # Non-Veteran User Roles Discovery, Phase 1
 
-`Work in progress`
+`DRAFT`
+
+November 2, 2021
 
 Liz Lantz, VSA, Authenticated Experience
-
-**Last updated:** November 1, 2021
 
 ## Background
 
@@ -110,23 +110,37 @@ The [Veteran Customer Personas](https://drive.google.com/file/d/1nsrA8pC0Q0AxNox
 
 #### Findings
 
-3.1 MHV asks  `What is your relationship to VA?` in the user profile. The following are non-Veteran role options:
+3.1 MHV asks  `What is your relationship to VA?` in the registration process, and has the same options available in the user profile:
 
 - VA Patient (selected by default, can't be unselected)
 - Health Care Provider
+  - Could be VA health care provider, or contractor
 - Veteran Advocate/Family Member/Friend
 - VA Employee
+  - This could also be a contractor
 - CHAMPVA Beneficiary
 - Caregiver
-- Other (no further explanation required)
+  - Could be a self-identified caregiver, or someone who is recognized by VA through the Caregiver Program
+- Other 
+  - No further explanation required
 
-3.2 Coordinators and help desk staff use the role values in the profile to better understand the person they're trying to help. 
+3.2 Once the MHV registration form is submitted, the self-selected roles are checked against two databases: Identity and Access Management (IAM), and Master Person Index (MPI).
 
-3.3 MHV functionality changes depending on the user roles in the following ways:
+- IAM returns known roles back to MHV and automatically selects any roles the user did not select for themselves. For example, if health records are returned and the user didn't select VA Patient, that box will be checked for them.
+- If MPI has a record of this person, this will link the MHV account to MPI.
+  - MPI added a `person type` data point around 2019. MPI does not have all the `person types` that MHV has, so it's not a 1:1 relationship.
 
-*meeting with Carnetta on 11/1 to learn more about this*
+3.3 MHV functionality changes depending on the profile user roles in the following ways:
 
-3.4 MHV is a participating website in the Veteran Online Delegate Tool (VAODT).  The VAODT allows the Veteran to assign a delegate one of two levels of access to MHV functionality on their behalf.  A delegate does not need to be a dependent, an official VA Caregiver, or have any other relationship with the VA.  
+- Non-Veteran roles have access to all the self-reporting tools, such as journals and health assessments.
+- If a non-Veteran user is enrolled with a medical center (MPI returns this data), the user will be prompted for health care functionality. An example of a non-Veteran user who is enrolled with a medical center could be a VA employee who had a physical exam completed at a VA Medical Center (VAMC).
+- CHAMPVA beneficiaries will have access only to prescription related health functionality.
+
+3.4 MHV also supports a `delegate` user role, which is independent of the user roles in the MHV profile. A delegate role is assigned to a user once they've completed a process initiated by the Veteran. The process can be completed in-person at a VAMC, or online via the Veteran Online Delegate Tool (VAODT).   A delegate does not need to be a dependent, an official VA Caregiver, or have any other relationship with the VA other than they've been identified by their Veteran to serve as a delegate.  
+
+One a person is designated as a delegate, that role is stored in MPI. 
+
+A delegate has a premium level MHV account, and one of two levels of access to MHV functionality on behalf of the Veteran.  If the delegate is also a Veteran, they're able to switch between their delegate and Veteran role with a single login. 
 
 With View/Print access, a delegate can view/print:
 
@@ -142,6 +156,8 @@ With Full access, a delegate can do all of the above, as well as:
 - Manage self-reported Veteran information regarding medication, supplements, and health journals
 - Write and respond to Secure Messages
 
+3.5 Coordinators and help desk staff use the role values in the MHV user profile to better understand the person they're trying to help. 
+
 ### 4. Scope the list of user roles to a manageable list we would actually build on VA.gov
 
 #### Goals
@@ -156,6 +172,9 @@ Establish a list of user roles that is manageable and feasible to build on VA.go
   - anyone who is not a Veteran that is eligible to receive benefits from VA 
   - Includes children, spouses, and parents
 - Caregivers
+  - VA recognized caregivers, participating in the Caregiver program
+  - Self-identified caregivers
+  - Professionals who care for Veterans, such has nursing homes
 - Veteran advocate
   - Anyone doing work on behalf of a Veteran
   - Includes VSOs, Fiduciaries, Claim Agents
@@ -204,10 +223,11 @@ Identified SMEs for VBA and VHA and scheduled interviews ([documented here](http
 #### **Not specific to an administration **
 
 - [Veteran Customer Personas pdf](https://drive.google.com/file/d/1nsrA8pC0Q0AxNoxXB3SvtFz8B1Nvz6pG/view?usp=sharing)
-
 - [Lighthouse user roles research](https://docs.google.com/presentation/d/1umk3xortI1ApN1Fd5VYOP57kY8xqB6lcQsDX2-bkVNE/edit#slide=id.ga4450717c4_1_0)
-
 - [Lighthouse user types](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/(Github%20Instructions)/changelog-instructions.md)
+- Resources to learn more about Caregivers
+  - [Elizabeth Dole Foundation Caregiver Experience Map](https://caregiverjourney.elizabethdolefoundation.org/)
+  - [Hidden Heroes Caregiver Research Study](https://www.rand.org/pubs/research_reports/RR499.html)
 
 ### Goals related to Non-Veterans
 
