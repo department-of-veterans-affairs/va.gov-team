@@ -32,13 +32,11 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 
 Great. Now we're really ready to begin!
 
-## Warm-up Questions - 5 minutes
+
+## Initial legal representative questions - 5 minutes
 - Tell me a little bit about yourself
 - Tell me a bit about the relationship you have with the Veteran.
 - Are you part of the Program of Comprehensive Assistance for Family Caregivers?
-
-
-## Initial legal representative questions - 5 minutes
 
 - Tell me about a time when you needed to sign a document on behalf of the Veteran.
   - Did you have to provide any proof that you were their legal representative to be able to sign for them? What did you offer as proof?
@@ -157,13 +155,12 @@ Ok, let's say you finished uploading the document and now see this screen
 - What would you do next?
 - With our scale, how confident or not confident are you that your application will be accepted? 
     - Tell me about the factors that made you select **(number)**  
-    
-## Wrap-up questions - 5 minutes
+
+ 
+## Thank you and Closing
 
 - As we start to wrap-up, any other thoughts?
 - Do you have any questions for me before we conclude?
- 
-## Thank you and Closing
 
 Well we really appreciate you taking the time to share your thoughts and experiences with us today. Your feedback is so helpful to us as we continue to improve our products and services for Veterans and Caregivers.
 
