@@ -113,6 +113,7 @@ Now we're going to take a look at a few questions on the application for the Pro
 - How would you answer this question?
 - Going back to our scale, how confident or not confident are you that you would be answering this question correctly?
    - Tell me about the factors that made you select **(number)**
+   - *If not very confident* What would you do now if you had questions?
 
 **If the participant selects to sign as a legal representative show next screen "What type of document are you uploading for review?":**
 - Take some time to read the screen 
@@ -133,7 +134,7 @@ Now we're going to take a look at a few questions on the application for the Pro
 - Is there anything you wished you knew more about?
 - What document would you upload?
   - With our scale, how confident or not confident are you that you would upload the correct document?
-  - Tell me about the factors that made you select **(number)**  
+  - Tell me about the factors that made you select **(number)** 
 - Does the document specifically say that it gives legal authority to make medical decisions?
 - *If not very confident* What would you do now if you have questions?
 
