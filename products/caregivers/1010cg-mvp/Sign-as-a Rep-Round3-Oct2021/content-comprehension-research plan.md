@@ -62,7 +62,7 @@ The research questions we want to address are:
 Mixed-method interview: open-ended questions, directed storytelling, provide ratings on a scale, and be asked to talk through mockups.
 
 
-Tools: Zoom, Mural
+Tools: Zoom, [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)
 
 Recruiting: Perigean contract
 
