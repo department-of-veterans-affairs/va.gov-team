@@ -36,9 +36,9 @@ Our hypothesis for this problem is:
 
 ## Goals
 
-The goals of this user research study are to: 
+The goals of this research study are to: 
 
-- Better understand how Caregivers decision process for what document to use in different situations
+- Better understand what proof of legal representation Caregivers are accustomed to providing.
 - Better understand how Caregivers think about the nomenclatures of different types of legal representative documents 
 - Better understand Caregivers' familiarity of a health care-specific legal documents
 - Validate content comprehension of the list of documents to select from
@@ -54,6 +54,7 @@ The research questions we want to address are:
   -  Is that the correct decision (acceptable document is uploaded when relevant)?
 
 ### Hypothesis: 
+- Participants might not be accustomed to a health care specific stipulation on a legal representative document
 - Users will be able to navigate through the form relatively easily, but still might have confusion about what type of document is acceptable in this situation. 
 
 
@@ -111,10 +112,10 @@ Notetaking: Please designate someone from Perigeon to take notes
 
 Team Availability | Time (EST)
 ------------------|--------------
-October 27, 2021 | 8:00am - 2:00pm EST
-October 28, 2021 | 8:00am - 11:45am EST and 2:00pm - 5:00pm EST
-October 29, 2021 | 8:00am - 9:00am EST and 2:00pm - 5:00pm EST
-If necessary November 1, 2021 | 8:00am - 2:00pm EST
+November 9, 2021 | 8:00am - 2:00pm EST
+November 10, 2021 | 8:00am - 9:00am EST and 11:00am - 1:00pm EST
+November 11, 2021 | 8:00am - noon EST and 2:00pm - 6:00pm EST
+November 12, 2021 | 10:30am - 5:00pm EST
 
 ## Team Roles	
 
@@ -123,9 +124,10 @@ If necessary November 1, 2021 | 8:00am - 2:00pm EST
 - Participant recruiting & screening: Perigean
 - Project point of contact: Same as moderator
 - Note-takers:Perigeon
-- Observers: George Chewning (george.chewning@va.gov)
+- Observers: George Chewning (george.chewning@va.gov), Jen Sorensen (jen.sorensen@adhocteam.us)
 
 ## Resources
+- [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027) for research
 - Design iteration [overview presentation](https://docs.google.com/presentation/d/1--9sY2qcPrxxmkSvJDUH5uShFyMgxCi3/edit?usp=sharing&ouid=106781647419399937562&rtpof=true&sd=true)
-- - Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
+- Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
 - Sign as a rep [usability test 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021)
