@@ -16,7 +16,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 - This entire session should take about 1 hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - In this session, we want to hear your honest opinions. 
 - I will not be offended by any opinions you express, and I welcome your feedback. We just want to improve these tools to better meet Veterans' needs. 
-- Please remember that this is not a test. We want to better understand your experiences, and there is no right or wrong answers.
+- Please remember that this is not a test. We want to better understand your experiences, and there are no right or wrong answers.
 - If for any reason and at any time you want to stop the session, please let me know.
 
 
@@ -40,12 +40,12 @@ Great. Now we're really ready to begin!
 
 ## Initial legal representative questions - 5 minutes
 
-- Tell me about an experience in which you needed to sign a document on behalf of the Veteran.
-  - Were you asked to provide a document to show that you are their legal representative?
+- Tell me about a time when you needed to sign a document on behalf of the Veteran.
+  - Did you have to provide any proof that you were their legal representative to be able to sign for them? What did you offer as proof?
 
 _**Pay special attention to if Veteran legal guardianship, Veteran-related court order, Health care power of attorney, or something similar is mentioned**_
 
-- How often are you asked to provide a document to show legal representation?
+- How often are you asked to provide proof of legal representation?
 
 
 I will be sharing my screen. If at any time you cannot see the screen or it is unclear, please let me know.
@@ -54,12 +54,12 @@ I will be sharing my screen. If at any time you cannot see the screen or it is u
 
 
 ## Situation-specific questions - 10 minutes
-- List as many different types of circumstances/scenarios in which you have been asked to provide a legal representative document? 
+- List as many different types of situations in which you have been asked to provide proof that you're the Veteran's legal representative? 
 
 _list responses on Mural_
 
-- What document did you provide for each of these circumstances?
-     - Was it the same or different document that you needed to provide in each of these circumstances?
+- What document did you provide for each of these situations?
+     - Was it the same or different document that you needed to provide in each of these situations?
 
 _list different document types and draw arrow to each scenario_
 
@@ -67,7 +67,7 @@ _list different document types and draw arrow to each scenario_
 
 _write responses next to each document_
 
-- How do you know what document to use in different circumstances?
+- How do you know what document to use in different situations?
 
 
 <img width="888" alt="Screen Shot 2021-10-28 at 3 17 35 PM" src="https://user-images.githubusercontent.com/80857940/139321164-94e7126d-df6c-4e23-8773-49514612b07c.png">
@@ -86,21 +86,21 @@ _Show scale 1 (not confident) to 10 (completely confident) and for each of the s
 _Show participant the 3 stickies: Veteran legal guardian, Veteran-related court order, and health care power of attorney_
 
 - Have you ever been asked to provide any of the documents on the list below? 
-    - If yes: What was the circumstance?
+    - If yes: What was the situation?
 
 If it's ok with you, I'd like to explore each of these with you a little more, but please keep in mind that there is no right or wrong answer - this is not a test.
 _If participant shows signs of frustration or embarrasment move on from these three_
-- Can you imagine a circumstance in which each of these documents would be requested?
-- Describe each of these in your own words. It is ok to guess if you are unsure. 
+- Can you imagine a situation where you might have to provide each of these documents?
+- Describe each of these situations in your own words. It is ok to guess if you are unsure. 
 - Going back to our scale, how confident or not confident are you?
 
 
 ## Document submission questions - 5 minutes
 
-- Have you ever been contacted because you submitted a legal representative document that wasn't accepted?
+- Have you ever been contacted because you submitted a document that wasn't accepted as proof that you were the Veteran's legal representative?
 
      - If yes: Can you tell me the story?
-     - What could have been made more clear so that the correct document could have been submitted the first time?
+     - What could have helped you submit the right document the first time?
 
 
 ## Document upload screen walkthrough - 15 minutes
@@ -108,7 +108,7 @@ _If participant shows signs of frustration or embarrasment move on from these th
 Now we're going to take a look at a few questions on the application for the Program of Comprehensive Assistance for Family Caregivers.
 
 **Who will sign screen**
-- Take some time to read the screen 
+- Take some time to read the screen. *We would ask them to read aloud if they're comfortable doing that, and listen for pauses as a sign of what's unclear.* 
 - Any questions?
 - Does anything stand out to you?
 - How would you answer this question?
