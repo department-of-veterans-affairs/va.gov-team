@@ -75,6 +75,8 @@ _write responses next to each document_
 
 - How do you know what document to use in different situations?
 
+![Screen Shot 2021-11-02 at 4 57 10 PM](https://user-images.githubusercontent.com/80857940/139950589-42beb064-76a2-4e0c-a266-4f9f2d650fca.png)
+
 
 <img width="888" alt="Screen Shot 2021-10-28 at 3 17 35 PM" src="https://user-images.githubusercontent.com/80857940/139321164-94e7126d-df6c-4e23-8773-49514612b07c.png">
 
