@@ -241,6 +241,7 @@ To assist with referrals, healthcare providers can copy/paste this text into the
 ## Other content
 
 Note: Newest content is listed first
+- [VAntage Point Blog: MVP study shows effectiveness of genetic screening tool for breast cancer risk](https://blogs.va.gov/VAntage/94078/mvp-study-shows-effectiveness-of-genetic-screening-tool-for-breast-cancer-risk/)
 - [VA News: Reconciling service, the Million Veteran Program, and the PAWS Act](https://www.youtube.com/watch?v=hgPWfr2POGU&ab_channel=VeteransHealthAdministration)
 - [VAntage Point Blog: VA women leaders join women Veterans in research](https://blogs.va.gov/VAntage/93254/va-women-leaders-join-women-veterans-in-research/)
 - [She Wears the Boots: A Podcast for Women Veterans: MVP interview with Jennifer Deen](https://www.spreaker.com/user/11014928/womenshealth-deen-mvp-052721-edits-06252)
