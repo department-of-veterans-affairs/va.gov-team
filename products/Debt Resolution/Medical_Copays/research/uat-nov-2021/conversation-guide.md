@@ -45,7 +45,7 @@ Alright, let's get started!
 
    1. If no: Are these readily accessible? Could you get them?
 
-   _If the participantcannot remember or retrieve their login credentials, let them know that this is necessary for the test and proceed to the closing statements._
+   _If the participantcannot remember or retrieve their login credentials, let them know that this is necessary for the test and proceed to the [closing statements]._
 
 **1. Can you tell me what type of computer you are using today?**
 
@@ -73,7 +73,7 @@ Under the alert that reads, "Sign in to view your VA copay balances", select the
 
 - [ ] UAT Task: The correct 'You're not enrolled in VA health care' empty state is shown 
 
-\[Proceed to post-task interview\]
+_Proceed to [post-task interview]_
 
 ----
 
@@ -85,7 +85,7 @@ In order to make sure your information is showing properly, we're going to compa
 
 - [ ] UAT Task: The 'You haven't received a copay bill in the past 24 months' empty state is shown
 
-\[Proceed to post-task interview\]
+_Proceed to [post-task interview]_
 
 ----
 
@@ -131,7 +131,7 @@ First, we're going to compare the information shown on this page with your recor
 
 - [ ] UAT Task: The correct contact information for the facility is shown 
 
-\[Proceed to downloading a statement\]
+_Proceed to [downloading a statement]
 
 ----
 
@@ -149,7 +149,7 @@ First, we're going to compare the information shown on this page with your recor
 
 - [ ] UAT Task: The correct contact information for the facility is shown
 
-\[Proceed to downloading a statement\]
+_Proceed to [downloading a statement]_
 
 ----
 
@@ -173,7 +173,7 @@ Please open the downloaded statement so we can make sure it matches the informat
 
 _If the participant has more than one facility with statements, repeat the copay details tasks for the next facility in the list._
 
-\[Proceed to post-task interview\]
+_Proceed to [post-task interview]_
 
 ## Post-Task Interview - 1 minute
 
@@ -191,4 +191,7 @@ Any questions before we sign off?
 
 Thank you so much again, and enjoy the rest of your day!
 
-[closing statements]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/uat-nov-2021/conversation-guide.md#post-task-interview---1-minute
+[downloading a statement]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/uat-nov-2021/conversation-guide.md#downloading-a-statement----4-minutes
+[post-task interview]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/uat-nov-2021/conversation-guide.md#post-task-interview---1-minute
+[closing statements]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/uat-nov-2021/conversation-guide.md#thank-you-and-closing---1-minute
+
