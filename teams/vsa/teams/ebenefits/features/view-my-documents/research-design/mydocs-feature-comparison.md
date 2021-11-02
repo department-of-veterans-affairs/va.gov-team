@@ -151,6 +151,8 @@ The list of what can be tracked using the CST includes (list is unverified):
 
 ---
 
+### Feature comparison
+
 | Functionality | My Documents | Benefits Letters | Claim Status Tool |
 | :--- | :---: | :---: | :---: |
 | What kind of documents | User-uploaded/submitted | VA Benefits proof/documentation |  User-uploaded/submitted  |
