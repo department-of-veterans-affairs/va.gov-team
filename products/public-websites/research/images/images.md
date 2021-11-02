@@ -1,1 +1,1 @@
-Folder of images for inclusion in the analytics findings document
+Folder of images for inclusion in the VCL analytics findings document
