@@ -47,14 +47,15 @@ Links:
 
 ---
 
-### Claim Status Tool
-As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/).
+### Claim status tool
+The Claim status tool (CST) allows users to see status and review details of their VA benefits claims and appeals.
 
 #### Users
 
 Users of the Claim status tool are Veterans (dependents, service members) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
 
 #### Flow
+As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/).
 
 User flow: Home >> Check your VA claim or appeal status >> Sign-in >> 
 
