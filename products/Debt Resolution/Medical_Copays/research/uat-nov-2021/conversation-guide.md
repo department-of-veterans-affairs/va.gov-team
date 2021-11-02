@@ -131,7 +131,7 @@ First, we're going to compare the information shown on this page with your recor
 
 - [ ] UAT Task: The correct contact information for the facility is shown 
 
-_Proceed to [downloading a statement]
+_Proceed to [downloading a statement]_
 
 ----
 
