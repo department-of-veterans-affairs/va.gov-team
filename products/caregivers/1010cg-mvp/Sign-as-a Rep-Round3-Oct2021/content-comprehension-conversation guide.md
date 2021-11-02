@@ -61,9 +61,15 @@ _list responses on Mural_
 
 _list different document types and draw arrow to each scenario_
 
+ - How often are you asked to provide this specific proof?
+ 
+_Write how often on white circle sticky and move it next to proof sticky_
+
 - Can you describe each of these documents in your own words?
-    - When you first got this document did receive any guidance around it? - when to use it, how often it has to be updated
-    - How often are you asked to provide this specific proof?
+
+_write responses next to each document_
+
+- When you first got this document did receive any guidance around it? - when to use it, how often it has to be updated
 
 _write responses next to each document_
 
