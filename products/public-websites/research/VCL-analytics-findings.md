@@ -1,4 +1,4 @@
-# VA.gov Veterans Crisis Line Analytics Findings
+# VA.gov Veterans Crisis Line Analytics
 
 ### Cindy Merrill, VSA Public Websites team, Nov 4, 2021
 
@@ -14,7 +14,7 @@ The Veterans Crisis Line (VCL) is a special link that's displayed at the top of 
 
 ## Methodology
 looked at Google Analytics reports (list links)
-also check analytics for veteranscrisisline.net
+also check analytics for links to veteranscrisisline.net directly (not via modal)
 
 ## Findings
 ### Clicks on VCL
@@ -23,3 +23,5 @@ show usage #'s on screenshot and summarize
 ### Clicks on options in modal 
 show usage #'s on screenshot and summarize
 
+## Recommendations
+or maybe skip this
