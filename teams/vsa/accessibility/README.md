@@ -47,7 +47,7 @@ Documentation coming soon!
 * Document gaps as potential risks to inform future research.
 
 
-### [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/design)
+### Design
 * Define how to help teams develop empathy for the diverse range of users, such as race, socio-economics, technology challenged, and people with disabilities.
 * Document interaction behavior, and ensure it is accessible.
 * Define criteria to evaluate the accessibility of designs, such as mobile-first, defining states, heading order, and focus management.
