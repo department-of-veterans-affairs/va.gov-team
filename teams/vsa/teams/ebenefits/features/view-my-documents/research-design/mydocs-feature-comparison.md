@@ -5,22 +5,32 @@
 
 ---
 
-The focus of this document is to outline the flow and functionality around users' documentation. We're looking for how three features--My Documents, Benefits Letters, and Claim Status Tool -- complement or overlap each other in preparation for migrating the eBenefits My Documents feature.
+The focus of this document is to outline the flow and functionality around users' documentation. We're looking for how three features--My Documents, Benefits Letters, and Claim Status Tool -- complement or overlap each other. We are documentingBenefits My Documents feature.
 
 ---
 
 ### My Documents
+The My Documents tool provides users a list of viewable, downloadable documents that they or their representative have submitted in association with a benefits claim.
+
+<details>
+  <summary><strong>eBenefits My Documents feature details</strong> (Click to open accordion)</summary>
 
 #### Users
+Users of the My Documents tool are beneficiaries (Veterans, dependents, service members?) who have a benefits claim history with VA. Users must authenticate to access their dashboard and view their uploaded documents.
 
 #### Flow
+The eBenefits My Documents feature is available to users after they log into their eBenefits dashboard. It is part of the "My Profile" options in the left-hand navigation. 
+
+**User flow:** Home >> Sign-in >> Dashboard >> My Documents
 
 #### Functionality
+The tool presents a paginated list of user-uploaded (or representative-uploaded) documents that can be sorted or filtered, by document type and received date. Each document can be viewed/downloaded via a link. There is no upload functionality.
+  
+</details>  
 
 ---
 
 ### Benefits letters
-
 The Download VA benefits letters feature resides on VA.gov within the Records hub. This tool provides users with downloadable PDFs that document their VA benefits and service history.
 
 <details>
@@ -33,7 +43,7 @@ Judging from the documents themselves, users are primarily Veterans. Users must 
 #### Flow
 There is a direct link from the "Records" white quadrant on the VA.gov homepage. There is an intermediate landing page [(Download VA benefit letters)](https://staging.va.gov/records/download-va-letters/) providing info and instructions, and prompting users to sign-in. The next screen asks for an address correction/confirmation before allowing the user to continue to the downloadable documents. Once on the documents screen, the user sees a set of accordions containing links to the corresponding PDFs.
 
-User flow: Home >> Download VA benefit letters >> Sign-in >> VA letters and documents (address check) >> VA letters and documents 
+**User flow:** Home >> Download VA benefit letters >> Sign-in >> VA letters and documents (address check) >> VA letters and documents 
 
 #### Functionality
 On the Download Documents screen are several accordions that reveal a link to a downloadable PDF. There are also several links to other "document" resources.
@@ -68,7 +78,7 @@ Users of the Claim status tool are beneficiaries (Veterans, dependents, service 
 #### Flow
 As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. Each individual claim links to a detail page with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are **not** viewable or downloadable from the page.
 
-User flow: Home >> Check your VA claim or appeal status >> Sign-in >> Check your claim or appeal status
+**User flow:** Home >> Check your VA claim or appeal status >> Sign-in >> Check your claim or appeal status
 
 #### Functionality
 
