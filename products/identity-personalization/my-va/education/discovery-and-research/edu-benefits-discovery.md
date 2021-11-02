@@ -75,15 +75,21 @@ I need to do a review of where these features currently live and how they work.
 
 #### Logged-in Homepage Discovery Summary
 
-**[Logged-in Homepage Discovery Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)***
+**[Logged-in Homepage Discovery Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)**
 
 - Users are very interested in seeing education benefits, specifically anything that is "in-flight" or "in-progress".
 - Downloading documents and records is important to users.
 - We need to focus on task based experience. 
 
-**[VA Mobile App:Card Sorting Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/card-sorting/VA%20Mobile%20App%20Discovery_%20Card%20sorting%20report.pdf)***
+**[VA Mobile App:Card Sorting Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/card-sorting/VA%20Mobile%20App%20Discovery_%20Card%20sorting%20report.pdf)**
 
 - Users are not interested in seeing a comparison tool on the mobile app. I wonder if this is also true for My VA, maybe a link to the tool would be sufficient?
+
+**[My VA research V1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md)**
+
+**[My VA research V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-topline%20summary.md)**
+
+- There wasn't any specific details about education benefits, but 'Payment history' was the most commonly mentioned feature that was missing on the My VA page. 'Education benefits' was the third most common. 
 
 #### Documents that didn't have anything related to education benefits
 
