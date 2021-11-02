@@ -112,14 +112,14 @@ This report pulls in a count of all GA events for Profile navigation and changes
 
 - **Search feature** with radio buttons for R&S and global search
 
+  - CTR on R&S search is currently not being tracked, tracking this will help determine its effectiveness 
   - 38% of R&S searches are on an article page
-  - Begin tracking CTR on searches
-  - During research, half utilized search to navigate while on an article page. Half of users navigated back to the R&S landing page to utilize the 'Topics'  navigation section
-  - We should explore continuing the 'Topics' navigation section on article pages
+  - During <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">moderated usability study</a>, only half utilized search to navigate while on an article page, the other half of users navigated back to the R&S landing page to utilize the 'Topics' navigation section
+    - We should explore continuing the 'Topics' navigation section on article pages
   - Consider removing the search feature from article pages. The search feature is not included on individual pages on Find a Form. The search feature on R&S pushes content down. Input field is not visible on mobile until expanded.
 
 - **Tags**
-  - During the usability study, most users <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">did not recognize tags as clickable</a>
+  - During the moderated usability study, most users <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">did not recognize tags as clickable</a>
   - Tags are not heavily utilized by content editors, most pages only contain the tag, 'All Veterans'
   - During usability testing, users did not recognize tags as clickable
   - Explore continuing the 'Topics' section from the R&S landing page instead of Tags
@@ -128,7 +128,8 @@ This report pulls in a count of all GA events for Profile navigation and changes
   - Started tracking in June/July, there were 4,181 votes from July 1 – Oct 1, 2021
   - Detracts from 'Related information' links, styling does not match the rest of modern VA.gov which uses Medallia
   - Medallia feedback module is commonly used on modern VA.gov pages
-  - Medallia  alllows for additional questions to better understand what users were looking for (<a href="https://docs.google.com/spreadsheets/d/1gkjignCqZV8qTYentLHvh9sZLy_Cnjj1eGodT6-pPzY/edit#gid=782170026">List of Medallia questions</a>)
+  - Medallia  alllows for additional questions to better understand what users were looking for 
+  - Examples of <a href="https://docs.google.com/spreadsheets/d/1gkjignCqZV8qTYentLHvh9sZLy_Cnjj1eGodT6-pPzY/edit#gid=782170026">Medallia questions</a>
     - What other kind of information or service were you looking for today?
     - Did you find what you were looking for today? 
     - How do you rate your experience on this page?
@@ -147,7 +148,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
   - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
   - Conduct usability study on proposed updates
   - Plans for elevating R&S after reaching 225 articles? Participants stated they expected R&S to be in the header.
-  - Possibility of a name change? Participants were drawn to the inclusion of the term'FAQs' 
+  - Possibility of a name change? Participants were drawn to the inclusion of the term 'FAQs' 
     - From <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Search Tool usability study from Sept 2021:</a>*"Three participants said that they didn't understand what Resources and Support meant and so didn't click on it. The word "FAQs" in the description in the Resources and Support tile is what led to some of them eventually try it."*
 
 
