@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: VSA Caregiver, Upload document and sign as a representative, for the 10-10CG form, November 2021
+# [DRAFT] Research Plan: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
 
 ## Background
 
@@ -38,17 +38,17 @@ Our hypothesis for this problem is:
 
 The goals of this research study are to: 
 
-- Better understand what proof of legal representation Caregivers are accustomed to providing.
+- Better understand Caregivers' mental model of the types of proof of legal representation they are accustomed to providing
 - Better understand how Caregivers think about the nomenclatures of different types of legal representative documents 
-- Better understand Caregivers' familiarity of a health care-specific legal documents
-- Validate content comprehension of the list of documents to select from
+- Better understand Caregivers' familiarity of health care-specific legal documents
+- Validate content comprehension of the list of documents to select from for document upload
 - Validate that the new copy and flow leads to more accepted documents uploaded
 
 ### Research questions
 
 The research questions we want to address are: 
 
-- How do Caregivers know what type of document to provide in any given situation that they will be signing on behalf of a Veteran?
+- How do Caregivers know what type of proof to provide in any given situation that they will be signing on behalf of a Veteran?
 - What is Caregivers' mental model of the different types of legal representative documents? (specifically those that have a health care stipulation) 
 - Does the updated copy and flow provide the information needed in order for the Caregiver to make a confident decision of how to answer the questions and what document to upload?
   -  Is that the correct decision (acceptable document is uploaded when relevant)?
@@ -59,7 +59,7 @@ The research questions we want to address are:
 
 
 ## Methodology 
-Mixed-method interview: open-ended questions, directed storytelling, provide ratings on a scale, and be asked to talk through mockups.
+Mixed-method interview and mental model: open-ended questions, directed storytelling, provide ratings on a scale, and be asked to talk through mockups.
 
 
 Tools: Zoom, [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)
@@ -104,7 +104,7 @@ All participants must answer yes to the following questions:
 
 **Desired Timeline: October 27 - 29th, 2021**
 
-Session length: 45 minutes 
+Session length: 1 hour
 
 Please leave 15 minutes in between each session.
 
