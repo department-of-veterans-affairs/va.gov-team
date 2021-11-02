@@ -1,7 +1,7 @@
 ---
 name: Sitewide Content and IA Intake Form
 about: To request support with content or IA from Sitewide Content and IA team
-title: C&IA Request: <Team> - <Product/Feature>
+title: C&IA Request - <Team> - <Product/Feature>
 labels: sitewide content, sitewide content-product support
 assignees: Sitewide Content, RLHecht
 
