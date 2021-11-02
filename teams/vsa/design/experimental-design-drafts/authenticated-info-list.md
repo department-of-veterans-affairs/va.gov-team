@@ -3,7 +3,7 @@ layout: default
 title: Authenticated info list pattern 
 ---
 
-Suggested by: Shawna H.
+Suggested by: Shawna H, Kevin S.
 
 # Authenticated info list pattern
 This pattern helps users quickly see a list of items related to their own personal information, as well as quickly navigate to answers to the questions they might have.
