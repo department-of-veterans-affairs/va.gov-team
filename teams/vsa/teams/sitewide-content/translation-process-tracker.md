@@ -33,6 +33,6 @@
 | Updates to vaccine page (reordering page and removing J&J info, etc.) | | 9/20 | 9/22 |
 | New About COVID-19 vaccines page | 9/24 | 9/24 | 9/28 | 10/5 | 10/5 |
 | Reworked main vaccine mini hub page | 9/24 | 9/24 | 9/28 | 10/5 | 10/5 |
-| Bulleted item added to booster page | 10/27 | 10/27 |
-| Booster content on booster and main vaccine page | 10/22 | 10/22 |
+| Bulleted item added to booster page | 10/27 | 10/27 | 10/29 | 10/29 | 11/1 | | 11/1 |
+| Booster content on booster and main vaccine page | 10/22 | 10/22 | 10/29 | 10/29 | 11/1 | | 11/1 |
 | FAQs intro updates | 10/28 | 10/28 |
