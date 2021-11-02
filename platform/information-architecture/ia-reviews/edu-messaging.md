@@ -1,11 +1,11 @@
 # IA Design and Recommendations
-**STATUS:**
+**STATUS: DRAFT**
 
-**Team:** 
+**Team:** Education benefits team
 
-**Product/Featue:** 
+**Product/Featue:** Messaging
 
-**IA Request:** 
+**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/30790
 
 **On this page:**
 - [User flows](#flows)
