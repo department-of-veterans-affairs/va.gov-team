@@ -8,7 +8,6 @@ New + Improved
  - Implemented Cerner messaging (only or some)
  - Added autoscrool to the thread message.  When a user selects a message from any of the list pages, the message page loads with the message displayed in view. 
  - Added Disability Rating Empty state messaging
- - Implemented downtime messaging 
  - Action sheet added for removing phone number
 
 Bug Fixes:
