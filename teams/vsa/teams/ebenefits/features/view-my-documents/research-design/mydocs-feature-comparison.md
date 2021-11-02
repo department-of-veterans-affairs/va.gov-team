@@ -22,7 +22,9 @@ The Download VA Benefits Letters feature resides on VA.gov within the Records hu
 Judging from the documents themselves, users are primarily Veterans.
 
 #### Flow
-There is a direct link from the white quadrants on the VA.gov homepage. There is an intermediate landing page [(Download VA benefit letters)](https://staging.va.gov/records/download-va-letters/) providing info and instructions, and prompting users to sign-in. The next screen asks for an address correction/confirmation before allowing the user to continue to the downloadable documents. Once on the documents screen, the user sees a set of accordions containing links to the corresponding PDFs.
+There is a direct link from the "Records" white quadrant on the VA.gov homepage. There is an intermediate landing page [(Download VA benefit letters)](https://staging.va.gov/records/download-va-letters/) providing info and instructions, and prompting users to sign-in. The next screen asks for an address correction/confirmation before allowing the user to continue to the downloadable documents. Once on the documents screen, the user sees a set of accordions containing links to the corresponding PDFs.
+
+User flow: Home >> Download VA benefit letters >> Sign-in >> VA letters and documents (address check) >> VA letters and documents 
 
 #### Functionality
 On the Download Documents screen are several accordions that reveal a link to a downloadable PDF. There are also several links to other "document" resources.
@@ -42,10 +44,13 @@ Links:
 - Request for DD 214 (eBenefits)
 
 ### Claim Status Tool
+As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/).
 
 #### Users
 
 #### Flow
+
+User flow: Home >> Check your VA claim or appeal status >> Sign-in >> 
 
 #### Functionality
 
