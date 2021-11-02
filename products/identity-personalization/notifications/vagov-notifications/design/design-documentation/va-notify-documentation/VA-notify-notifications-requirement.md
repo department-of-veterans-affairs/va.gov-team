@@ -1,8 +1,8 @@
-# Auth Experience + VA Notify Notifications MVP Requirements (WIP)
+# Auth Experience + VA Notify Notifications MVP Requirements
 
-Last updated November 1, 2021
+Last updated November 2, 2021
 
-### Roles
+## Roles
 
 |Name|Role|Email|
 |----|----|-----|
@@ -15,29 +15,29 @@ Last updated November 1, 2021
 |Taylor Mitchell| FE Engineer| tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
-### Links
+## Links
 
 - [Product Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/README.md)
 - [Data Points for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/frontend/documentation/data-points-in-mvp.md)
 - [Notifications Designs](https://app.mural.co/t/vsa8243/m/vsa8243/1634064448225/f9f3bb98da6eadf4a648fb30d17d15560950ceab?sender=tressafurner7646)
 - [Meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/design/design-documentation/va-notify-meeting-notes.md)
 
-### Goals for MVP
+## Goals for MVP
 
-**Requirements for VA Notify CMS**
+### Requirements for VA Notify CMS
 
-Bare minimum for MVP:
+**Bare minimum for MVP:**
 - We would need some sort of raw variable data dump and code on our end will parse through it.
 - We need to be able to see what notifications have onsite alerts in their CMS and which ones do not.
 - A way to recieve data from VA Notify (needs to be figured out)
 
-Ideal for MVP: 
+**Ideal for MVP:** 
 - The actual content for a given notification will live in VA Notify CMS.
 
-**Requirements from a code perspective**
+### Requirements from a code perspective
 - We need VA Notify to be able to send our API JSON versions of notifications.
 
-### Questions for VA Notify
+## Questions for VA Notify
 
 - How can we recieve data from VA Notify? Where will the templates/data be stored?
   - Do the templates need to be in HTML? Or can we get raw JSON data?
@@ -49,16 +49,8 @@ Ideal for MVP:
 - Are there other notifications that can be shown that aren't represented in our [Data Points for MVP doc?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/frontend/documentation/data-points-in-mvp.md)
 - How many notifications would be sent to our API? 
 
-### Action items
+## Action items
 
 
 
 
-
-### Things we have figured out
-
-- We need to cap the notifications archive at 6 months or a year (Tressa will figure this out).
-- When we first launch there will *not* be a historical backlog, so no need to implement filtering for MVP.
-- We need to have a blank state for everything.
-- We can show time sensitive/priority notifications.
-- We want more personalization than what VA notify currently shows.
