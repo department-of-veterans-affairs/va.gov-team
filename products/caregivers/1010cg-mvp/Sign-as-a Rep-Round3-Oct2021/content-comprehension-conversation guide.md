@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide: VSA Caregiver, Content-specific comprehension study for the 10-10CG form, November 2021
+# [DRAFT] Conversation Guide: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
 
 ## Moderator Logistics
 
@@ -51,8 +51,9 @@ Now, I'm going to share my screen. If at any time you cannot see the screen or i
 
 **Start sharing screen [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)**
 
+# Mental model
 
-## Situation-specific questions - 10 minutes
+## Situation-specific questions - 20 minutes
 - List as many different types of situations in which you have been asked to provide proof that you're the Veteran's legal representative? 
 
 _list responses on Mural_
@@ -63,6 +64,8 @@ _list responses on Mural_
 _list different document types and draw arrow to each scenario_
 
 - Can you describe each of these documents in your own words?
+    - When you first got this document did receive any guidance around it? - when to use it, how often it has to be updated
+    - How often are you asked to provide this specific proof?
 
 _write responses next to each document_
 
@@ -102,9 +105,11 @@ _If participant shows signs of frustration or embarrasment move on from these th
      - What could have helped you submit the right document the first time?
 
 
+# Content-specific comprehension
+
 ## Document upload screen walkthrough - 15 minutes
 
-Now we're going to take a look at a few questions on the application for the Program of Comprehensive Assistance for Family Caregivers.
+Now we're going to take a look at a few questions on the application for the Program of Comprehensive Assistance for Family Caregivers. I'll be driving the navigation and you can focus on the words.
 
 **Who will sign screen**
 - Take some time to read the screen. *We would ask them to read aloud if they're comfortable doing that, and listen for pauses as a sign of what's unclear.* 
