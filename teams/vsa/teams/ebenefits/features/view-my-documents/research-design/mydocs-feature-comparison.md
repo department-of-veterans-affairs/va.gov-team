@@ -63,10 +63,10 @@ The Claim status tool (CST) allows users to see status and review details of the
 
 #### Users
 
-Users of the Claim status tool are Veterans (dependents, service members) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
+Users of the Claim status tool are beneficiaries (Veterans, dependents, service members?) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
 
 #### Flow
-As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. Each individual claim links to a detail page with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are not viewable or downloadable from the page.
+As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. Each individual claim links to a detail page with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are **not** viewable or downloadable from the page.
 
 User flow: Home >> Check your VA claim or appeal status >> Sign-in >> Check your claim or appeal status
 
@@ -87,3 +87,11 @@ The list of what can be tracked using the CST includes (list is unverified):
 </details>
 
 ---
+
+| Column 1 | Col2 | Col3 | Col 4 |
+| :--- | :---: | :---: | :---: |
+| Lorem ipsum dolor  | 2 | 3 |  4  |
+| Lorem ipsum dolor  | 2 | 3 |  4  |
+
+---
+
