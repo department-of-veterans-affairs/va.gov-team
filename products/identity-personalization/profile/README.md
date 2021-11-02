@@ -1,6 +1,6 @@
 # Product Outline: VA.gov Profile
 
-Last Updated October 11, 2021
+Last Updated November 2, 2021
 
 ### Communications
 - GitHub Label: Profile
@@ -17,9 +17,15 @@ Last Updated October 11, 2021
   
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
-|Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Marci McGuire |Product Manager| marci.mcguire@gcio.com|
+|Christina Gesnalske| Designer | ? |
+|Zach Morel |FE Engineer| zach.morel@gcio.com |
+
+These folks have historically worked on the profile and may still do some work as needed:
+
+|Name|Role|Email|
+|----|----|-----|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Taylor Mitchell | FE Engineer| taylor.mitchell@gcio.com |
@@ -54,6 +60,7 @@ Currently, the VA.gov profile supports the following information:
 - Personal and contact information
 - Military information
 - Direct deposit information
+- Notification preferences
 - Account security
 - Connected apps (managed by the Lighthouse team)
 
@@ -166,12 +173,13 @@ We don’t want the profile to become such a de facto place for Veteran informat
 ### Timeline
 
 - 2016/17 — Prototypical "account" page on Vets.gov.
-- Spring 2018 - Original EMIS profile launched to Vets.gov.
+- Spring 2018 -- Original EMIS profile launched to Vets.gov.
 - Summer 2018 — Profile backend transitioned to VA Profile (then- Vet360).
 - 2019 — Direct deposit for comp & pen added to the profile.
 - 2019/2020 – Address validation added to the Mailing and Home address fields.
-- 2020 - Profile 2.0 redesign (launched Fall 2020).
+- 2020 -- Profile 2.0 redesign (launched Fall 2020).
 - 2021 — Direct deposit for edu added to the profile. Explored adding preferred facilities (did not move forward). Notification preferences set to launch in Nov 2021.
+- Nov 2021 -- Notification preferences (aka communications permissions) is launched.
 
 ## How to Access and Test
 
