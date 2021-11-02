@@ -151,10 +151,19 @@ The list of what can be tracked using the CST includes (list is unverified):
 
 ---
 
-| Column 1 | Col2 | Col3 | Col 4 |
+| Functionality | My Documents | Benefits Letters | Claim Status Tool |
 | :--- | :---: | :---: | :---: |
-| Lorem ipsum dolor  | 2 | 3 |  4  |
-| Lorem ipsum dolor  | 2 | 3 |  4  |
+| What kind of documents | User-uploaded/submitted | VA Benefits proof/documentation |  User-uploaded/submitted  |
+| Documents list  | X | X |  Within claim tab  |
+| Search | -- | -- |  --  |
+| Filtering | X | -- |  -- |
+| Sorting | X | -- |  --  |
+| Pagination | X | -- |  X  |
+| Viewable documents | X | X |  --  |
+| Document download | X | X |  --  |
+| Document upload | -- | -- |  X  |
+
+X = Yes
 
 ---
 
