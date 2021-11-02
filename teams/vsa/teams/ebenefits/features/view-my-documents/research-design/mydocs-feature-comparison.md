@@ -61,4 +61,17 @@ User flow: Home >> Check your VA claim or appeal status >> Sign-in >>
 
 #### Functionality
 
+The list of what can be tracked using the CST includes (list is unverified):
+- Disability compensation
+- Veterans or Survivors Pension benefits
+- Special monthly compensation
+- Dependency and Indemnity Compensation (DIC)
+- Burial allowance
+- VA health care
+- GI Bill or other education benefits
+- Veteran Readiness and Employment (VR&E)
+- VA home loan Certificate of Eligibility (COE)
+- Specially Adapted Housing (SAH) or Special Housing Adaptation (SHA) grants
+- Life insurance
+
 ---
