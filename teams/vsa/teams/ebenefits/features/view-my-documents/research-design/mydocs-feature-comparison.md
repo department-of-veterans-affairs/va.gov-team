@@ -5,7 +5,7 @@
 
 ---
 
-The focus of this document is to outline the flow and functionality around users' documentation. We're looking for where various features complement or overlap each other in preparation for migrating the eBenefits My Documents feature.
+The focus of this document is to outline the flow and functionality around users' documentation. We're looking for how three features--My Documents, Benefits Letters, and Claim Status Tool -- complement or overlap each other in preparation for migrating the eBenefits My Documents feature.
 
 ---
 
