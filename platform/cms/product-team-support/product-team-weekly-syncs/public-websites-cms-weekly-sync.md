@@ -35,6 +35,15 @@
 
 </details>
 
+## November 3 
+
+* CLP status
+
+Upcoming Q4 epics and timing
+* Promo 
+  * What are next steps
+* Connect with us content model refactor (CMS-driven)
+* Recurring events
 
 ## October 27 
 
