@@ -1,3 +1,13 @@
+---
+name: Collab Cycle Initiative Checklist
+about: Checklist and reference material for completing all steps of a Collaboration Cycle
+title: Collaboration Cycle Checklist for <Team>
+labels: vsa
+assignees: 
+
+---
+
+
 ## Instructions
 
 <details>
