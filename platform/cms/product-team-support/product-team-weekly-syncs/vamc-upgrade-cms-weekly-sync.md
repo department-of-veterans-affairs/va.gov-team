@@ -17,6 +17,9 @@
 
 </details>
 
+## November 5
+- training environment URL change management
+
 ## October 29
 
 ### Help desk - 5 min
