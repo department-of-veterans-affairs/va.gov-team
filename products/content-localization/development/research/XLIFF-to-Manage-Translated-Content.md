@@ -30,6 +30,12 @@ Link: https://www.drupal.org/project/content_export_csv
 
 
 ### Node Export Module
-The only applicable module that actually allows exporting and importing. Nodes can be transmitted using JSON, Drupal var exports, CSV, PHP serialization, or XML. After installing this module and exporting a Covid 19 page the resulting JSON only contained the base metadata and all content blocks would need to be exported individually. An example can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/development/research/node_export_example.json   
+The only applicable module that actually allows exporting and importing. Nodes can be transmitted using JSON, Drupal var exports, CSV, PHP serialization, or XML.
+
+This module seems like the best module to allow the desired beharviour, but at this time there are several limiting factors.
+
+After installing this module and exporting a Covid 19 page the resulting JSON only contained the base metadata and all content blocks would need to be exported individually. Exporting every indivudal content block node and then re-importing them with the translated content replaced would be a very messy task as there would be numerous files and no CAT tool is going to be able to manage them because they are a unique file structure that is different than a traditional XLIFF or JSON file for translated content.
+
+An example can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/development/research/node_export_example.json   
 
 Link: https://www.drupal.org/project/node_export
