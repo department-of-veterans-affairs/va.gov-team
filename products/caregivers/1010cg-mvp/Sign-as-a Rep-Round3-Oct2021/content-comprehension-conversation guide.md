@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
+# Conversation Guide: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
 
 ## Moderator Logistics
 
