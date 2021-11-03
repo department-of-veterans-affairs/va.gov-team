@@ -10,7 +10,7 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ## Background
 
-As part of the effort to align benefits and services across VAMC pages, we need to determine how Veterans expect services to be categorized.
+As part of the effort to align benefits and services across VAMC pages, we need to determine how Veterans expect services to be categorized. This study is seeking validation for existing services and their categories, as well as for potential new services identified in [previous services taxonomy audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021).
 
 ### Related Research
 
