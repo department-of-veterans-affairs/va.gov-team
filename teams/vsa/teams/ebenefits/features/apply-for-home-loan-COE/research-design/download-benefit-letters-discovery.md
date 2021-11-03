@@ -16,8 +16,6 @@ There may need to be a "Download your COE" accordion and link in-line with the o
 
 [COE usability research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/usability-testing-1/coe-usability-1-readout.md#details-of-findings)
 
----
-
 ### Users
 
 Judging from the documents themselves, Downloand Benefits Letters users are primarily Veterans. Users must authenticate to view the download page.
