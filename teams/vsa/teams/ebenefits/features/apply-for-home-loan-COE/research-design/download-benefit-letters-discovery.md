@@ -1,4 +1,4 @@
-# Download benefits letters feature COE impact
+# Impact of COE on Download benefits letters feature
 **VSA eBenefits team | November 2021**
 
 `James Adams, designer`
@@ -18,7 +18,7 @@ There may need to be a "Download your COE" accordion and link in-line with the o
 
 ### Users
 
-Judging from the documents themselves, Downloand Benefits Letters users are primarily Veterans. Users must authenticate to view the download page.
+Judging from the documents themselves, Download Benefits Letters users are primarily Veterans. Users must authenticate to view the download page.
 
 ### Flow
 There is a direct link from the "Records" white quadrant on the VA.gov homepage. There is an intermediate landing page [(Download VA benefit letters)](https://staging.va.gov/records/download-va-letters/) providing info and instructions, and prompting users to sign-in. The next screen asks for an address correction/confirmation before allowing the user to continue to the downloadable documents. 
