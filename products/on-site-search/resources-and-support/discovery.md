@@ -1,4 +1,10 @@
-# Background
+# Resources and Support Article Pages
+
+**Search & Discovery team | November 2021**
+
+Megan Gayle, Senior Designer and Researcher
+
+## Background
 Resources and Support (R&S) was originally called “Learning Center”. A link to R&S is available on the footer of VA.gov under "Get answers" with the intention of promoting R&S more heavily once it contained 225 articles (there are currently 67 articles).
 
 R&S was created to contain **Tier 2** content. This product focuses on creating an IA and content design for tier 2 content that includes benefit learning, knowledge, help, and support content categories.
@@ -17,13 +23,13 @@ There are three types of content on VA.gov.
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">Moderated usability study</a>
 
 
-# Goals
+## Goals
 - Investigate the analytics of R&S article pages and make changes based on findings
 - Investigate styling of R&S article pages to ensure they are consistent with the design system
 - Update CMS to optimize UX for both end users and content editors
 - Workflow and guardrails to allow new editors to publish content and to reduce duplicate content
 
-# Current sections of R&S article pages
+## Current sections of R&S article pages
 
 - **CTA**
 
@@ -49,7 +55,7 @@ There are three types of content on VA.gov.
 Detailed analysis of each component on the R&S article page is available on the [component spreadsheet](https://governmentcio-my.sharepoint.com/:x:/g/personal/megan_gayle_gcio_com/EWcGoy_v3P1DoDDxvGp9siYBqa-wN9Fh6iUkmHYRF2voyg?e=bHPWw6) (<a href="https://user-images.githubusercontent.com/5553542/139923047-9b623905-619d-4b59-bfe3-d8cd7566a897.png">screenshot</a>).
 
 
-# Analytics
+## Analytics
 
 ### Interactions on R&S article pages
 
@@ -94,7 +100,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
 <img width="970" alt="domo-profile" src="https://user-images.githubusercontent.com/5553542/138745586-ba29a162-c614-4031-886b-6aec87a6914a.png">
 
 
-# Mockups
+## Mockups
 <details>
   <summary>Current design (click to expand)</summary>
 <img src="https://user-images.githubusercontent.com/5553542/139905911-6a5b51d4-cc5a-4af9-831e-9a7fa724ec19.png" width="400">
@@ -114,7 +120,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
   </td>
 </details>
 
-# Issues and recommendations by section
+## Issues and recommendations by section
 
 
 
@@ -167,7 +173,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
     - Create a ticket template with guidance that allows SMEs to create a draft and submit it for approval from the Content Team
     - If possible, allow SMEs draft only access to CMS
 
-# Next steps and future exploration
+## Next steps and future exploration
   - Conduct usability study on proposed updates
   - Create workflow plan with Content Team and CMS Team
   - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
