@@ -46,10 +46,17 @@ In order to consider what might happen if we were take users directly to [Vetera
 
 ## Findings
 ### Usage of VCL links
-show usage #'s on screenshot and summarize
+1. **Most clicks to VCL (94%) are from the red link at the top of VA.gov pages**, and a majority of them (61%) are from mobile.
+2. Only 6% of clicks are from the link in the footer, and most of these are from desktop users (because mobile users don't usually scroll down that far on pages). 
+The analytics numbers are summarized in the table below.
+
+![clicks-to-VCL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-to-VCL.png)
 
 ### Usage of VCL modal 
 show usage #'s on screenshot and summarize
+
+![clicks-in-VCL-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-in-VCL-modal.png)
+
 
 ## Recommendations
 1. 
