@@ -66,4 +66,15 @@ Links:
 - Request for VA home loan Certificate of Eligibility (eBenefits)
 - Request for DD 214 (eBenefits)
 
+### Design considerations
+Minimally, the COE link at the bottom of the VA letters and documents tool. If we choose to provide a path to a user's COE, we should consider a new accordion with additional COE content.
+
+---
+
+<details>
+  <summary><strong>Initial design notes</strong> (Click to show diagram)</summary>
+  
+  ![Download VA Benefits Letters screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/Download_Letters_Notes_W2.png)
+</details>
+
 ---
