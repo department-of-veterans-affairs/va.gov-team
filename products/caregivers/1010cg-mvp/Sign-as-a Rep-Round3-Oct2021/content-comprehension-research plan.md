@@ -54,8 +54,10 @@ The research questions we want to address are:
   -  Is that the correct decision (acceptable document is uploaded when relevant)?
 
 ### Hypothesis: 
-- Participants might not be accustomed to a health care specific stipulation on a legal representative document
-- Users will be able to navigate through the form relatively easily, but still might have confusion about what type of document is acceptable in this situation. 
+- We will be able to gain insight to the Caregiver mental model for providing proof of legal representation
+- We will gain better understanding if the terms we use are recognizeable and understood
+- We will gain a better understanding of Caregivers' familiarity with health care-specific stipulations on a power of attorney (POA) document. 
+ 
 
 
 ## Methodology 
@@ -124,7 +126,7 @@ November 12, 2021 | 10:30am - 5:00pm EST
 - Research guide writing and task development: same as moderator
 - Participant recruiting & screening: Perigean
 - Project point of contact: Same as moderator
-- Note-takers:Perigeon
+- Note-takers: None necessary 
 - Observers: George Chewning (george.chewning@va.gov), Jen Sorensen (jen.sorensen@adhocteam.us)
 
 ## Resources
