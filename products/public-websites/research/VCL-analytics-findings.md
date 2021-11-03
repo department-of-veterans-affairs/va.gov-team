@@ -53,6 +53,8 @@ The analytics numbers are summarized in the table below.
 ![clicks-to-VCL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-to-VCL.png)
 
 ### Usage of VCL modal 
+1. The most frequently used links in the VCL modal are for chat (45% of all unique events) and phone call (37%). 
+
 show usage #'s on screenshot and summarize
 
 ![clicks-in-VCL-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-in-VCL-modal.png)
