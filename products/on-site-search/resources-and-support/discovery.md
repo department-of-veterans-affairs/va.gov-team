@@ -168,7 +168,8 @@ This report pulls in a count of all GA events for Profile navigation and changes
 
 # Next steps and future exploration
   - Conduct usability study on proposed updates
-  - Plans for elevating R&S after reaching 225 articles? Participants stated they expected R&S to be in the header.
+  - Create workflow plan with Content Team and CMS Team
   - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
-  - Possibility of a name change? Participants were drawn to the inclusion of the term 'FAQs' 
-    - From <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Search Tool usability study from Sept 2021:</a>*"Three participants said that they didn't understand what Resources and Support meant and so didn't click on it. The word "FAQs" in the description in the Resources and Support tile is what led to some of them eventually try it."*
+
+  - Plans for elevating R&S after reaching 225 articles. Participants in <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">the moderated Learning Center (R&S) usability study</a> stated they expected to see R&S *"prominently displayed on the homepage, or somewhere in the site header once it becomes available."*
+  - Possibility of a name change? Participants in the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Search Tool usability study</a> were drawn to the inclusion of the term 'FAQs'. *"Three participants said that they didn't understand what Resources and Support meant and so didn't click on it. The word "FAQs" in the description in the Resources and Support tile is what led to some of them eventually try it."*
