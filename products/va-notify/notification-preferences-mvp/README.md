@@ -1,6 +1,6 @@
 
 
-** Use Cases**
+** Use Cases **
 1. Rx Shipment
 	* Default Send
 	* Veteran types STOP to unsubscribe
