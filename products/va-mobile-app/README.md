@@ -13,7 +13,7 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Ambika Roos - Product Leadership
 - Meko Hong - Product
 - Ayush Chakravarty - Product
-- Ashley Matthews - Produc
+- Ashley Matthews - Product
 - Brenda Rocha - Product
 - Cat Greim - Program
 
