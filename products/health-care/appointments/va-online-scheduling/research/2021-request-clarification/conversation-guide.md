@@ -53,7 +53,7 @@ We'll walk through sharing your screen. Then I'll send you a link to the demo to
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* Use chat to send user [link to prototype](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V). 
+* Use chat to send user [link to prototype](https://va-scheduling.invisionapp.com/console/share/8B35XJ0ST3/823651604). 
 
 * Talk participant through screen sharing so they can share their screen.
 
@@ -72,31 +72,49 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 
 ## First Task: Complete an appointment request
 
-To start, I want you to use the demo to schedule an appointment. You'll be scheduling a primary care appointment at Evanston VA, at the earliest available date. If you forget or get stuck in the process just let me know.
+To start, talk me through this page. What do you see here?
+
+Now I want you to use the demo to schedule an appointment. You'll be scheduling a primary care appointment at Evanston VA, at the earliest available date. If you forget or get stuck in the process just let me know.
 
 ### Steps
+
+Prompts if participant is stuck: 
 
 - HOME: Click "Start scheduling"
 - TOC: Choose "Primary care" and click "Continue"
 - FACILITY: Choose "Evanston VA Clinic and click "Continue"
-- OPTION: Choose the option you prefer
-    - OPTION: (If they did not choose the request option) choose "Have the facility call me back..." and click "Continue"
+- OPTION: Choose the option you prefer and click "Continue"
+- OPTION: (If they did not choose the request option) click "Back"
+- OPTION: Choose "Have the facility call me back..." and click "Continue"
+
+**PAUSE**
+
+- Tell me what these options mean to you.
+- Think about the option you chose first; why did you prefer that one?
+- What other means for scheduling appointments would you like to see represented here, if any?
+
+**CONTINUE**
+
 - DATE: Choose the earliest available appointment date
-- REASON: Choose "This is a routine or follow-up visit."
+- DATE: Select either time option AM/PM and click "Continue"
+- REASON: Select any reason
 - REASON: Click anywhere in the box and a reason will be entered. Click "Continue"
-- TYPE: Choose "Office visit" and click "Continue"
-- CONTACT: Review and click "Continue"
+- TYPE: Choose any type and click "Continue"
+- BEST TIMES: Select any time and click "Continue"
+
+**PAUSE**
+
+How would you update your email address or phone number from here?
+
+- REVIEW: Click "Edit" in contact section
+- CONTACT: Click "Done
 - REVIEW: Review and click "Continue"
-- PENDING: Review 
+- CONFIRMATION: Review 
 
 ### Follow-up questions
 
 - What do you expect the next steps to be, following what you just did here?
-
-*Ask participant to reopen the "Options" page if missed*
-- Tell me what these options mean to you.
-- Think about the option you chose first; why did you prefer that one?
-- What other means for scheduling appointments would you like to see represented here, if any?
+    - *If needed* Either by you, or by the facility you scheduled at?
 
 ### Things to watch for:
 
@@ -107,13 +125,26 @@ To start, I want you to use the demo to schedule an appointment. You'll be sched
 
 *Starting from confirmation page*
 
-How would you find your list of appointments from here?
+- What would you do next?
+- Where would you expect to find all of your future appointments?
 
-*Once on the home page;*
+### Steps
+- CONFIRMATION: Click "View your appointments"
 
-Can you find the primary care appointment you just submitted?
+*Once on the home page*
 
-How would you find out which facility this pending appointment is supposed to happen at?
+Find the primary care appointment you just submitted.
+
+### Steps
+
+- HOME: Click "Show by status" and select "Requested"
+    - ALT: Click "View your requests
+
+**Pause**
+
+How would you find the address for the facility where this pending appointment is happening?
+
+- REQUESTED: Click "Primary care" card.
 
 ### Follow up questions
 
@@ -123,6 +154,7 @@ How would you find out which facility this pending appointment is supposed to ha
 
 - Where does the participant expect to find the appointment request? Why?
 - Does the participant have trouble finding the appointment details?
+- Did they notice the contact info section before prompting?
 
 ## Third Task: Compare with a direct-scheduled appointment
 
@@ -130,13 +162,18 @@ How would you find out which facility this pending appointment is supposed to ha
 
 Find your scheduled appointments.
 
-*Once found* 
+### Steps
+- REQ_DETAIL: Click "<< Requested appointments"
+- REQUESTED: Click "Show by status" and click "upcoming"
+
+**Pause**
 
 Open the first one on the list.
+- HOME: Click the first card
 
-- What's different between this appointment and the one you just scheduled (if anything)?
-- What other information would be helpful here?
-- What are your thoughts on the Related appointments section? 
+What's different between this appointment and the one you just scheduled?
+What other information would be helpful here?
+What are your thoughts on the "Related appointments" section? 
 
 ### Things to watch for:
 - Do they explain correctly the difference between a scheduled appointment and a request?
