@@ -33,18 +33,26 @@ Intros if needed.
 
 ### VAMCs
 
-Top task local content
+Top task
+* content model high level
+* FE dev for local content
+  * Ryan and Amandeep starting up now.
+  * Gaida is around for one week, off November 11 through Thanksgiving.
 
 Care we provide 
-- Is the PR for adding the h3 already in place? 
+- Is the PR for adding the h3 already in place? No, issue is here https://github.com/department-of-veterans-affairs/va.gov-team/issues/22115, will have a featured 
+- Should CMS create a feature flag for FE to develop against?
+  - CMS team to figure this out.
 
 ### Vet Centers
 
 Operating status for Vet Centers
-- Making details required for Limited services and hours, closed and notice
+- Making details required for Limited services and hours, closed and notice.
+  - Erika: usability study has some insight here, recommendations forthcoming
+  - https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6816
 - Possibility of making details easily accessible in CMS (KB article? Hardened content?)
   - Addition of "Available only by appointment" and "Services offered to [xyz]" (ie: students at this unversity, service members on this base, etc)
-
+  - Erika: usability study has insights into CAP operating status, synthesis and recommendations coming Nov 22nd.  
 
 ## October 27 
 
