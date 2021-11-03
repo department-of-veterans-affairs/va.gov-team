@@ -1,6 +1,6 @@
 # Notification Preferences MVP
 
-Default send - A veteran is automatically opted in to a particular notification without expressly signing up for it.
+Default send - A veteran is automatically opted in to a particular notification without expressly signing up for it. User will not see the "Notify me by text" radio button selected in VA.gov
 
 Veterans who chose to opt-in to health care appts on va.gov prior to notification preferences, will have the opt-in radio button selected.  Otherwise default send will show no radio buttons selected.
 
@@ -11,13 +11,23 @@ Null - no preference is set
 
 **Use Cases**
 1. Rx Shipment 
+	* Default send.
 	* When a shipment is ready, VEText checks internal opt out list
 	* VEText checks VA Profile for preferences. 
 	* If true or null, VEText makes a call to VA Notify API to send
 	* VANotify sends the notification.
 	* If false, VEText does not call the VA Notify API
 
-2. Rx Shipment - Unsubscribe/Re-subscribe
+2. Rx Shipment - Unsubscribe thru text
+	* Default Send
+	* Veteran types STOP to unsubscribe
+	* VANotify passes this back to VEText who places them on the opt out list
+	* When a shipment is ready, VEText checks VA Profile for preferences. 
+	* It's true or null, so VEText checks their opt out list
+	* Checking time stamps for authoritativeness, VEText updates the preference in VA Profile to "Do not send"
+	* VEText does not call the VA Notify API
+
+3. Rx Shipment - Unsubscribe/Re-subscribe
 	* Default Send
 	* Veteran types STOP to unsubscribe
 	* VANotify passes this back to VEText who places them on the opt out List
@@ -29,10 +39,8 @@ Null - no preference is set
 
 3. BVA Hearing Reminders
 	* Default Send
-	* Veteran types STOP to unsubscribe
-	* VANotify passes this back to VEText who places them on the opt out List
-	* Veteran logs into VA.gov preferences and selects to receive Rx shipment notifications
-	* When a shipment is ready, VEText checks VA Profile for preferences.  It's TRUE, so VEText sends although they are on the opt out list
-	* Checking time stamps for authoritativeness, then update.
-	* VEText makes a call to VANotify to send
+	* When a it's time for a hearing reminder, VEText checks internal opt out list
+	* VEText checks VA Profile for preferences. 
+	* If true or null, VEText makes a call to VA Notify API to send
 	* VANotify sends the notification.
+	* If false, VEText does not call the VA Notify API
