@@ -89,10 +89,14 @@ Please request enough dates and time slots for the number of requested participa
 | --- | --- |
 | Friday, November 5 | 10 AM - 2 PM, 3:30 PM - 6 PM |
 | Monday, November 8 | 10 AM - 6 PM |
-| Tuesday, November 9 | 10 AM - 1 PM, 5 PM - 6 PM|
+| Tuesday, November 9 | 10 AM - 1 PM, 5 PM - 6 PM |
 | Wednesday, November 10 | 10 AM - 1 PM, 4:30 PM - 6 PM |
 | Thursday, November 11 | Federal Holiday |
-| Friday, November 12 | 10 AM - 6 PM |
+| Friday, November 12 | OOO |
+| Monday, November 15 | OOO |
+| Tuesday, November 16 | OOO |
+| Wednesday, November 17 | 10 AM - 1 PM, 4:30 PM - 7 PM |
+| Thursday, November 18 | 10 AM - 6:30 PM |
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
