@@ -111,7 +111,6 @@ Session length: 1 hour
 
 Please leave 15 minutes in between each session.
 
-Notetaking: Please designate someone from Perigeon to take notes
 
 Team Availability | Time (EST)
 ------------------|--------------
