@@ -33,13 +33,13 @@ This research has two main goals:
 
 ### Research Questions
 
-1) **How would Veterans categorize the services currently found under "Social programs and services"?**
-2) **Where do Veterans expect to find the following new services?**
+1) How would Veterans categorize the services currently found under "Social programs and services"?
+2) Where do Veterans expect to find the following new services?
     - Support groups
     - Workshops and classes
     - Veteran connections
-3) **How do Veterans expect to find the following existing (non-clinical) services? (name and heading)**
-    
+3) How do Veterans expect to find the following existing (non-clinical) services? (name and heading)
+   
 ### Research materials
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/services-taxonomy-conversation-guide.md)
