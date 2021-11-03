@@ -40,7 +40,7 @@ Summarize findings from the following Google Analytics reports:
 5. [VCL modal > call TTY number (if hearing loss)](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22EQ%22,%22Outbound%20Link%20Clicked:%20tel:+18007994889%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory/)
 7. [VCL modal > veteranscrisisline.net](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22EQ%22,%22Outbound%20Link%20Clicked:%20https:~2F~2Fwww.veteranscrisisline.net~2F%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory&explorer-table.rowCount=250/)
 
-Note: There are currently no analytics available for the *VCL modal > text* link, but this could be added (pending ticket with the Analytics team). Also waiting for analytics for veteranscrisisline.net directly (not via modal).
+Note: There are currently no analytics available for the **VCL modal > text** link, but this could be added (pending ticket with the Analytics team). Also, analytics for veteranscrisisline.net would be helpful, especially for users getting there but not through our VCL modal, but we don't have access to it.
 
 ## Findings
 ### Usage of VCL links
