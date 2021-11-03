@@ -1,4 +1,4 @@
-# DHP clinician activity tracker (Fitbit) Research Findings
+# DHP Clinician Activity Tracker (Fitbit) Research Findings
 
 Digital Health Platform
 
