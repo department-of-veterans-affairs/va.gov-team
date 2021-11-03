@@ -33,6 +33,15 @@ How might we optimize the structure and content of the existing benefit hubs to 
 - Can the content of the benefit hubs be simplified, or, reduced? 
 - Can we determine if certain types of content should be moved over to Resources and support?
 
+- Get benefits
+  - Performance of core pages for the -pre-application process (about, eligibility and how to apply)
+  - Identify patterns/inconsistencies in existing structures and content
+  - Understand the conversion funnel
+  - High and low performing content - page level and component level
+- Manage benefits
+  - Identify key tasks
+- More resources
+
 ### Answer(s)
 _How will the problem be solved and what evidence do we have that it will._ 
 _How will you know the problem is solved? What data will you look for?_
