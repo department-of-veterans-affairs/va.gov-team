@@ -23,12 +23,20 @@
 
 </details>
 
+## November 7
+
+Metatags 
+
 ## November 3
+
+Intros if needed.
 
 Operating status for Vet Centers
 - Making details required for Limited services and hours, closed and notice
 - Possibility of making details easily accessible in CMS (KB article? Hardened content?)
   - Addition of "Available only by appointment" and "Services offered to [xyz]" (ie: students at this unversity, service members on this base, etc)
+
+Top task local content
 
 Care we provide 
 - Is the PR for adding the h3 already in place? 
