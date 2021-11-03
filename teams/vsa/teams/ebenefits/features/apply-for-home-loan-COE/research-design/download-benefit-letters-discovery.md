@@ -72,7 +72,7 @@ Minimally, the COE link at the bottom of the VA letters and documents tool. If w
 ---
 
 <details>
-  <summary><strong>Initial design notes</strong> (Click to show diagram)</summary>
+  <summary><strong>Initial design notes</strong> (Click to show screen shot)</summary>
   
   ![Download VA Benefits Letters screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/Download_Letters_Notes_W2.png)
 </details>
