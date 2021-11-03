@@ -44,7 +44,7 @@ Potential data at risk include: name, ssn, dob.
 - **Usability Risks** (can people figure out how to use it):
   - What fields must/should/won't be editable? 
   
-  - **[Technical] Feasibility Risks** (can we build it with available tech/data):
+- **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Does MPI have a check for changes to it's data? No
   - What is the difficulty in turning off editing? 
   - What sort of checks should we have to ensure the data is not modified based what's coming from MPI (and into the user object)?
