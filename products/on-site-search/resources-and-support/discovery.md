@@ -21,7 +21,7 @@ There are three types of content on VA.gov.
 - Investigate the analytics of R&S article pages and make changes based on findings
 - Investigate styling of R&S article pages to ensure they are consistent with the design system
 - Update CMS to optimize UX for both end users and content editors
-- Guardrails to allow new editors to publish content and to reduce duplicate content
+- Workflow and guardrails to allow new editors to publish content and to reduce duplicate content
 
 # Current sections of R&S article pages
 
@@ -160,7 +160,11 @@ This report pulls in a count of all GA events for Profile navigation and changes
 
 - **Need more help?**
   - Remove grey background as styling is inconsistent with the rest of VA.gov
-
+  
+### CMS
+ - Develop a workflow for adding new content
+    - Create a ticket template with guidance that allows SMEs to create a draft and submit it for approval from the Content Team
+    - If possible, allow SMEs draft only access to CMS
 
 # Future exploration
   - Conduct usability study on proposed updates
@@ -168,5 +172,3 @@ This report pulls in a count of all GA events for Profile navigation and changes
   - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
   - Possibility of a name change? Participants were drawn to the inclusion of the term 'FAQs' 
     - From <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Search Tool usability study from Sept 2021:</a>*"Three participants said that they didn't understand what Resources and Support meant and so didn't click on it. The word "FAQs" in the description in the Resources and Support tile is what led to some of them eventually try it."*
-
-
