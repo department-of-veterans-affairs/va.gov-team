@@ -4,9 +4,9 @@ Default send - A veteran is automatically opted in to a particular notification 
 
 Veterans who chose to opt-in to health care appts on va.gov prior to notification preferences, will have the opt-in radio button selected.  Otherwise default send will show no radio buttons selected.
 
-True - preference is set to "Send" 
-False - preference is set to "Do not send" 
-Null - no preference is set 
+True - preference is set to "Send"\
+False - preference is set to "Do not send"\
+Null - no preference is set\
 
 
 **Use Cases**
