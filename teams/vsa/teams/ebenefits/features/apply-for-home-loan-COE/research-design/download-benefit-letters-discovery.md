@@ -27,6 +27,16 @@ There is a direct link from the "Records" white quadrant on the VA.gov homepage.
 
 **User flow:** Home >> Download VA benefit letters >> Sign-in >> VA letters and documents (address check) >> VA letters and documents 
 
+---
+
+<details>
+  <summary><strong>Download VA Benefits Letters user flow</strong> (Click to show diagram)</summary>
+  
+  ![Download VA Benefits Letters flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE/research-design/Benefit_Letters_Flows_1.png)
+</details>
+
+---
+
 ### Functionality
 On the Download Documents are a set of accordions containing links to the view and/or download the corresponding PDFs. There are also several links to other "document" resources.
 
