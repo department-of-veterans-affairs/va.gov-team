@@ -1,6 +1,6 @@
-# VA.gov Veterans Crisis Line Analytics
+# VA.gov Veterans Crisis Line Analytics Findings
 
-### Cindy Merrill, VSA Public Websites team, Nov 4, 2021
+### Cindy Merrill, VSA Public Websites team, Nov 5, 2021
 
 
 ## Background
@@ -46,19 +46,27 @@ In order to consider what might happen if we were take users directly to [Vetera
 
 ## Findings
 ### Usage of VCL links
-1. **Most clicks to VCL (94%) are from the red link at the top of VA.gov pages**, and a majority of them (61%) are from mobile.
-2. Only 6% of clicks are from the link in the footer, and most of these are from desktop users (because mobile users don't usually scroll down that far on pages). 
-The analytics numbers are summarized in the table below.
+1. The VCL links on VA.gov pages are definitely getting used, as shown by 8,272 unique user sessions in the past month (Oct 2021).
+1. **Most clicks to VCL (94%) are from the red link at the top of VA.gov pages, and a majority of them (61%) are from mobile**.
+2. Only 6% of clicks are from the link in the footer, and most of these (86%) are from desktop users--presumably because mobile users don't usually scroll down that far on pages. 
+
+The analytics data are summarized in the table below.
 
 ![clicks-to-VCL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-to-VCL.png)
 
 ### Usage of VCL modal 
-1. The most frequently used links in the VCL modal are for chat (45% of all unique events) and phone call (37%). 
+1. **About half of all visits to the VCL modal result in a link being clicked**. The 50% dropoff rate may be due to desktop users picking up their phone to call or text using the number shown in the modal.  
+1. **The most frequently used link in the VCL modal is for chat** (45% of all unique events). Chat is clicked from both desktop and mobile, but more from desktop--maybe because it's easier to type on a physical keyboard than on a mobile screen.
+2. **The second most frequently used link is phone call (37%)**. 
+3. **Only about 14% of users click on VeteransCrisisLine.net** at the bottom of the modal, and it's about evenly split between mobile and desktop users.
+4. 5% of users click the TTY phone number.
+5. A majority of clicks on both phone number links are from mobile devices, which isn't surprising because most people don't make calls on their computer.
+6. Analytics weren't being tracked on the text link but will be soon.
 
-show usage #'s on screenshot and summarize
+The analytics data are summarized on a screenshot of the modal and in the table below. 
 
+![click-percents-in-VCL-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/VCL-modal-analytics.png)
 ![clicks-in-VCL-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-in-VCL-modal.png)
 
-
-## Recommendations
-1. 
+## The VCL modal vs. going to [VeteransCrisisLine.net] instead
+The possibility of replacing the VCL modal with a link directly to [VeteransCrisisLine.net] was proposed.
