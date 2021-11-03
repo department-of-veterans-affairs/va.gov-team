@@ -42,8 +42,15 @@
 Upcoming Q4 epics and timing
 * Promo 
   * What are next steps
+  * Lynn to pick up probably Q1 22, need some KT
+  * Josh has potential new design using banners - awaiting approval, Kelson to push to stakeholders
 * Connect with us content model refactor (CMS-driven)
+  * Public Websites team probably not able to hit until Q1, higher priorities. Unless incredibly small effort
 * Recurring events
+  * prparing to test timeline TBD
+  * Cassandra to build out prototype
+  * Cassandra to share design plans for tech review in Slack channel
+  * 
 
 ## October 27 
 
