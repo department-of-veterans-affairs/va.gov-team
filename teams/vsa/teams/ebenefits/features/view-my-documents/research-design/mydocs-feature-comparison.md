@@ -82,11 +82,11 @@ Uploaded documents can include:
 
 ---
 
-### Benefits letters
-The Download VA benefits letters feature resides on VA.gov within the Records hub. This tool provides users with downloadable PDFs that document their VA benefits and service history.
+### Benefits Letters
+The Download VA Benefits Letters feature resides on VA.gov within the Records hub. This tool provides users with downloadable PDFs that document their VA benefits and service history.
 
 <details>
-  <summary><strong>Benefits letters feature details</strong> (Click to open accordion)</summary>
+  <summary><strong>Benefits Letters feature details</strong> (Click to open accordion)</summary>
 
 #### Users
 
@@ -117,23 +117,23 @@ Links:
 
 ---
 
-### Claim status tool
-The Claim status tool (CST) allows users to see status and review details of their VA benefits claims and appeals.
+### Claim Status Tool
+The Claim Status Tool (CST) allows users to see status and review details of their VA benefits claims and appeals.
 
 <details>
-  <summary><strong>Claim status tool feature details</strong> (Click to open accordion)</summary>
+  <summary><strong>Claim Status Tool feature details</strong> (Click to open accordion)</summary>
 
 #### Users
 
-Users of the Claim status tool are beneficiaries (Veterans, dependents, service members?) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
+Users of the Claim Status Tool are beneficiaries (Veterans, dependents, service members?) who have a benefits claim history with VA. Users must authenticate (LOA3) to view the CST.
 
 #### Flow
-As with Benefits letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. 
+As with Benefits Letters, there is a direct link from the home page in the the "Disability" white quadrant. There is an intermediate landing page [(Check your VA claim or appeal status)](https://www.va.gov/claim-or-appeal-status/). once logged-in, the users is presented with a paginated list of their claims. 
 
 **User flow:** Home >> Check your VA claim or appeal status >> Sign-in >> Check your claim or appeal status
 
 #### Functionality
-The Claim Status tool presents considerable detail for each individual claim with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are **not** viewable or downloadable from the page.Document upload is available to users who need to submit supporting evidence for their claims.
+The Claim Status Tool presents considerable detail for each individual claim with tabs for Status, Files, and Details. The Files tab list the supporting documentation by name, type and date. These files are **not** viewable or downloadable from the page.Document upload is available to users who need to submit supporting evidence for their claims.
 
 The list of what can be tracked using the CST includes (list is unverified):
 - Disability compensation
