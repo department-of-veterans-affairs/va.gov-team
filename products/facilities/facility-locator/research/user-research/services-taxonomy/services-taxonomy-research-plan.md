@@ -1,7 +1,8 @@
 [IN PROGRESS]
 
 [WIP Notes]
--  Open/closed card sort?
+-  Open/closed/hybrid cart sort
+-  tree test
 
 # Research Plan - Non-Clinical Services Taxonomy
 
