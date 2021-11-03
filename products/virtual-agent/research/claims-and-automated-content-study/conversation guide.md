@@ -23,7 +23,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [Shane Strassberg] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about our VA Virtual Agent chatbot. 
+Thanks for joining us today! My name is [Shane Strassberg] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about and interact with our VA Virtual Agent chatbot currently in development. Last year we ran a proof of value study to gauge interest in a chatbot for Veterans, and your input today will directly impact the future development of this tool to help Vets better self-serve and get faster outcomes to their questions.
 
 Before we start, a few things I want to mention:
 
@@ -62,6 +62,8 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 - You should have just received a link to your provided email to access the chatbot. Can you please open it now? 
 - Can you take a moment to familiarize yourself with the webpage you just opened?
 - Next I'd like you to use the provided username and password from the same email to sign into to the chatbot.
+- Take a moment to read the intro text and let me know if it is clear or if there is anything confusing. 
+- What do you think about the crisis disclaimer?
 
 ### Things to watch for:
 
@@ -71,12 +73,15 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 ## Third Task: [Ask General Question] - 5 minutes
 
-- Now that you have read the intro text, I'd like you to ask the chatbot a general question about a VA service or benefit you're interested in learning more about.
+- Now that you have read the intro text, I'd like you to ask the chatbot a general question about benefits. Please type in "Am I eligible for health benefits"
+- Next copy and paste which response you would like to view for a link, preview or full chatbot response.
 - Please take a moment to read the chatbot response and click any links that may be relevant to your question. What do you think about the info provided? Is it helpful? Why or why not? If not, what would you expect to see as a response instead?
+- Please copy/paste the next view you want to read
+- And lastly please copy/paste the remaining view to read the response.
 
 ### Things to watch for:
 
-- Does the participant use a whole question or keywords?
+- Which view do they choose and in what order?
 - Do they automatically click provided links in the response?
 
 ## Fourth Task: [Ask 2nd General Question] - 5 minutes
@@ -104,6 +109,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 - When the bot tells you it does not have the answer, how does it make you feel?
 - How do you feel about the voice and tone of the response you received?
 - If the chatbot couldn't answer your question but could connect you to a live agent chat, would you prefer that over speaking by phone with the VA help desk/contact center?
+- Was it clear what all the buttons did (button labels) or where all the links went? Would you rephrase any of the buttons?
 - Based on your experience today, are you willing to use the chatbot again?
 - What additional feature to the chatbot would improve your experience?
 - Do you have any other feedback you'd like to share?
