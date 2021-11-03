@@ -1,20 +1,22 @@
+# Notification Preferences MVP
 
-
-Default send - 
+Default send - A veteran is automatically opted in to 
 Veterans who chose to opt-in to health care appts on va.gov prior to notification preferences, will have the opt-in radio button selected.  Otherwise default send will show no radio buttons selected.
 
+True - preference is set to "Send"
+False - preference is set to "Do not send"
+Null - no preference is set
 
-Default send - 
 
 **Use Cases**
 1. Rx Shipment 
 	* When a shipment is ready, VEText checks VA Profile for preferences. 
-	* 
+	* If true or null, 
 	* Checking time stamps for authoritativeness, then update.
 	* VEText makes a call to VANotify to send
 	* VANotify sends the notification.
 
-1. Rx Shipment - Unsubscribe
+2. Rx Shipment - Unsubscribe
 	* Default Send
 	* Veteran types STOP to unsubscribe
 	* VANotify passes this back to VEText who places them on the opt out List
@@ -24,7 +26,7 @@ Default send -
 	* VEText makes a call to VANotify to send
 	* VANotify sends the notification.
 
-1. BVA Hearing Reminders
+3. BVA Hearing Reminders
 	* Default Send
 	* Veteran types STOP to unsubscribe
 	* VANotify passes this back to VEText who places them on the opt out List
