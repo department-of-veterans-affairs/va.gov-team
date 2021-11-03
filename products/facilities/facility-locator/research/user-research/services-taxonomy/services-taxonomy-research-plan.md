@@ -46,8 +46,11 @@ This research has two main goals:
   
 ## Methodology
 
-- Card sort
-- Tree test 
+This study will involve a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
+
+- **Task 1: card sort**
+- **Task 2: card sort**
+- **Task 3: tree test**
 
 ## Recruitment and participants
 
