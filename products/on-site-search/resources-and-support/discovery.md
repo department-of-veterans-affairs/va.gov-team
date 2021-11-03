@@ -166,7 +166,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
     - Create a ticket template with guidance that allows SMEs to create a draft and submit it for approval from the Content Team
     - If possible, allow SMEs draft only access to CMS
 
-# Future exploration
+# Next steps and future exploration
   - Conduct usability study on proposed updates
   - Plans for elevating R&S after reaching 225 articles? Participants stated they expected R&S to be in the header.
   - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
