@@ -140,6 +140,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
   - Tags are not heavily utilized by content editors, most pages only contain the tag, 'All Veterans'
   - During usability testing, users did not recognize tags as clickable
   - Explore continuing the 'Topics' section from the R&S landing page instead of Tags
+     - Explore ordering 'Topics' by most popular 
 
 - **Rate your experience**
   - Started tracking in June/July, there were 4,181 votes from July 1 – Oct 1, 2021
@@ -172,4 +173,5 @@ This report pulls in a count of all GA events for Profile navigation and changes
   - Work has been done to ensure R&S articles are being indexed on global search but they are still not appearing on the first search results page even when searching for the title of the R&S article. What more can Search.gov do to surface these results?
 
   - Plans for elevating R&S after reaching 225 articles. Participants in <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">the moderated Learning Center (R&S) usability study</a> stated they expected to see R&S *"prominently displayed on the homepage, or somewhere in the site header once it becomes available."*
+    - Ensure all benefit hubs (tier 1 content) are linking to relevant R&S articles
   - Possibility of a name change? Participants in the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Search Tool usability study</a> were drawn to the inclusion of the term 'FAQs'. *"Three participants said that they didn't understand what Resources and Support meant and so didn't click on it. The word "FAQs" in the description in the Resources and Support tile is what led to some of them eventually try it."*
