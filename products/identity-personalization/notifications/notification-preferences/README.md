@@ -63,10 +63,10 @@ These are OKRs and KPIs for the initial MVP launch of the communications permiss
 - **Key result #1**: ~Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).~
 - **Key result #2**: Increase the number of profiles that have mobile phone numbers and email addresses by 15% each on a quarterly basis. [April 2021 baseline report from VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/data/VA%20Profile%20PowerBI%20Report%2011%20Current%20Contact%20Info%20Report.pptx)
 
-|KPI/metric|Baseline as of 4/30/21| Baseline immediately before launch (date TBD) |% of profiles with this info at the end of Q4 2021 (Oct - Dec) | % of profiles with this info at the end of Q1 2022 (Jan - Mar)|
+|KPI/metric|Baseline as of 4/30/21| Baseline immediately before launch (11.3.21; 15,739528 veterans) |% of profiles with this info at the end of Q4 2021 (Oct - Dec) | % of profiles with this info at the end of Q1 2022 (Jan - Mar)|
 |----------|-------------|---------------|--------------|--------------|
-|# of profiles with mobile phone saved in VA Profile backend|7,759,973/15,329,217 profiles (50.6%)|TBD|TBD|TBD|
-|# of profiles with email addresses saved in VA Profile backend|6,367,462/15,329,217 profiles (41.5%)|TBD|TBD|TBD|
+|# of profiles with mobile phone saved in VA Profile backend|7,759,973/15,329,217 profiles (50.6%)|8,121,902 (52%)|TBD|TBD|
+|# of profiles with email addresses saved in VA Profile backend|6,367,462/15,329,217 profiles (41.5%)|6,745,859 (43%)|TBD|TBD|
 
 - **Key result #3**: 60% of first time users of notification preferences have set at least one of the ~four~ three notification preferences available at launch within the first quarter of launch.
 
