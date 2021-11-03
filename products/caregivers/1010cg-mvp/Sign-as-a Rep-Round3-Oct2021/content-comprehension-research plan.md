@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
+# Research Plan: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
 
 ## Background
 
@@ -64,6 +64,8 @@ Mixed-method interview and mental model: open-ended questions, directed storytel
 
 Tools: Zoom, [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)
 
+For more details, please see: [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/content-comprehension-conversation%20guide.md)
+
 Recruiting: Perigean contract
 
 
@@ -73,10 +75,10 @@ We would like to work with Perigean to recruit for 5-6 **fulfilled sessions**. T
 
 **Must have for participants**
 
-- No college degree (50% of participants)
+- At least 2 participants who have no college degree 
 - At least 1 participant over 55
 - At least 1 participant 30 or under
-- At least one person who lives in a rural or remote area
+- At least 2 participants who lives in a rural or remote area
 
 All participants must answer yes to the following questions:
 
@@ -84,7 +86,6 @@ All participants must answer yes to the following questions:
 
 - Are you a Veteran’s legal representative? 
   - If confused, provide this explanation: A representative is a person who, under applicable law, has authority to act on behalf of the Veteran or who is legally vested with the responsibility or care of the Veteran. Being next of kin or being married to the veteran does not automatically constitute legal representation.
-
 
 
 **Strive to have for participants**
@@ -102,7 +103,7 @@ All participants must answer yes to the following questions:
 
 ## Timeline 
 
-**Desired Timeline: October 27 - 29th, 2021**
+**Desired Timeline: November 9-12, 2021**
 
 Session length: 1 hour
 
@@ -127,6 +128,7 @@ November 12, 2021 | 10:30am - 5:00pm EST
 - Observers: George Chewning (george.chewning@va.gov), Jen Sorensen (jen.sorensen@adhocteam.us)
 
 ## Resources
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/content-comprehension-conversation%20guide.md)
 - [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027) for research
 - Design iteration [overview presentation](https://docs.google.com/presentation/d/1--9sY2qcPrxxmkSvJDUH5uShFyMgxCi3/edit?usp=sharing&ouid=106781647419399937562&rtpof=true&sd=true)
 - Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
