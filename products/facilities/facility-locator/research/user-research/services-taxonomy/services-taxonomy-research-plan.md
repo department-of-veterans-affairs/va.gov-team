@@ -48,9 +48,9 @@ This research has two main goals:
 
 This study will involve a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
 
-- **Task 1: **
-- **Task 2: **
-- **Task 3: **
+- **Task 1:**
+- **Task 2:**
+- **Task 3:**
 
 ## Recruitment and participants
 
