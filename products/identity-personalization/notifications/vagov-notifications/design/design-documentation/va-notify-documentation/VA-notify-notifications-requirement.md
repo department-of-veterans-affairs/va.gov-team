@@ -27,7 +27,7 @@ Last updated November 2, 2021
 ### Requirements for VA Notify CMS
 
 **Bare minimum for MVP:**
-- We would need some sort of raw variable data dump and code on our end will parse through it.
+- We need some sort of raw variable data dump and code on our end will parse through it.
 - We need to be able to see what notifications have onsite alerts in their CMS and which ones do not.
 - A way to recieve data from VA Notify (needs to be figured out)
 
