@@ -65,8 +65,25 @@ The analytics data are summarized in the table below.
 
 The analytics data are summarized on a screenshot of the modal and in the table below. 
 
-![click-percents-in-VCL-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/VCL-modal-analytics.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/VCL-modal-analytics.png" width="55%" height="55%">
+
 ![clicks-in-VCL-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-in-VCL-modal.png)
 
-## The VCL modal vs. going to [VeteransCrisisLine.net] instead
-The possibility of replacing the VCL modal with a link directly to [VeteransCrisisLine.net] was proposed.
+## What if the VCL modal were replaced with a link to VeteransCrisisLine.net?
+<details>
+  <summary>VeteransCrisisLine page (Click to show screenshots)</summary>
+  
+  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/VeteransCrisisLine-top.png" width="55%" height="55%">
+  <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/VeteransCrisisLine-scrolled.png" width="55%" height="55%">
+</details>
+
+
+The possibility of replacing the VCL modal with a link directly to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) was proposed. Here are a few issues with this approach:
+1. [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) requires the user to scroll down to see all of the action buttons, which are completely hidden when the page opens due to its layout on both mobile and desktop. **The risk is that a Veteran in crisis won't scroll to see the action buttons and thus not get any help.**
+    1. In contrast, the VLC modal with its links displays on mobile and desktop screens without any need for scrolling.
+3. How well does the [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) work? Seeing analytics data for the 4 action buttons on the page would be helpful to compare with the data we have on the VCL modal usage; we would want to see a similar pattern of usage for the different ways of getting help. 
+4. The TTY phone number that you get to from [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) (711 then 1-800-273-8255) is different from the TTY phone number in the VCL modal (800-799-4889). Which one is correct?
+
+Accessibility Specialist Angela Fowler tested the VCL modal with a screen reader and found that it works smoothly. In contrast, the [Chat page](https://www.veteranscrisisline.net/get-help/chat) that opens from both the VCL modal and [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) has a few accessibility issues:
+1. Focus should be placed on the "Start your confidential chat" button so you don't miss it while scrolling down through the page.
+2. The headings on the page aren't nested properly.
