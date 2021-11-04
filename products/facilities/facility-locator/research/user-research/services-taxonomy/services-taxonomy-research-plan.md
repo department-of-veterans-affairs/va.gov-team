@@ -40,7 +40,10 @@ Our two main goals are:
 
 ### Hypotheses
 
+[NOT FINAL]
 
+- Veterans will create new categories for some of the existing services
+- Veterans will create new categories for some of the new services
    
 ### Research materials
 
