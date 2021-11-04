@@ -78,7 +78,7 @@ The analytics data are summarized on a screenshot of the modal and in the table 
 
 
 The possibility of replacing the VCL modal with a link directly to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) was proposed. Here are a few issues with this approach:
-1. [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) requires the user to scroll down to see all of the action buttons, which are completely hidden when the page opens due to its layout on both mobile and desktop. **The risk is that a Veteran in crisis won't scroll to see the action buttons and thus not get any help.**
+1. **[VeteransCrisisLine.net](https://www.veteranscrisisline.net/) requires the user to scroll** down to see all of the action buttons, which are completely hidden when the page opens due to its layout on both mobile and desktop. **The risk is that a Veteran in crisis won't scroll to see the action buttons and thus not get any help.**
     1. In contrast, the VLC modal with its links displays on mobile and desktop screens without any scrolling needed.
 3. How well does the [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) work? Seeing analytics data for the 4 action buttons on the page would be helpful to compare with the data we have on the VCL modal usage; we would want to see a similar pattern of usage for the different ways of getting help. 
 4. The TTY phone number that you get to from [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) (711 then 1-800-273-8255) is different from the TTY phone number in the VCL modal (800-799-4889). Which one is correct?
@@ -92,11 +92,11 @@ Accessibility Specialist Angela Fowler tested the VCL modal with a screen reader
 2. The headings on the page aren't nested properly--they go from *h1* to *h4* without *h2* or *h3* in between.
 
 ## Recommendations
-1. Keep the VCL modal as is because it's (1) being used, (2) accessible, and (3) requires no scrolling. 
-1. Don't replace the VCL modal with a link to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) because it (1) requires scrolling and (2) has accessibility issues. 
+1. **Keep the VCL modal as is** because it's (1) being used, (2) accessible, and (3) requires no scrolling. 
+1. **Don't replace the VCL modal with a link to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/)** because it (1) requires scrolling and (2) has accessibility issues. 
     1. If we still want to consider this replacement, learn more about what might happen by looking at analytics for [VeteransCrisisLine.net](https://www.veteranscrisisline.net/). We would want to know if the usage pattern of call/chat/text/TTY is similar to that of the VCL modal. [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) is instrumented for Google Analytics, but since the page isn't part of VA.gov, our Analytics & Insights team doesn't have access to the analytics. To pursue this, we would need to find someone who works on [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) and ask them for analytics.
-3. Fix the accessibility issues with the [VeteransCrisisLine Chat page](https://www.veteranscrisisline.net/get-help/chat):
+3. **Fix the accessibility issues with the [VeteransCrisisLine Chat page](https://www.veteranscrisisline.net/get-help/chat)**:
     1. Focus should be placed on the "Start your confidential chat" button so you don't miss it while scrolling down through the page.
     1. Fix the headings so they are sequential without skipping any (e.g., *h1*, *h2*, *h3*).
-1. Confirm that the TTY phone number in the VCL modal is correct.
+1. **Confirm that the TTY phone number in the VCL modal is correct**.
 
