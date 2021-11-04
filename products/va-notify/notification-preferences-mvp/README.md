@@ -1,7 +1,7 @@
 # Notification Preferences - Communication Items & Different Types of Consent 
 
 
-##Context:
+## Context:
 
 1- Explicit Consent: Setting preference on VA.gov, messaging start stop on some number - this will result in a specific setting being written back to VA Profile and reflecting in the radio button in VA.gov relative to that specific communication item
 
@@ -11,12 +11,12 @@ If a user expresses their preference, VANotify will always honor and prioritize 
 
 
 
-##Key Question:
+## Key Question:
 
 Do, and if so how do we surface communication items that have implicit consent in the VA.gov Preferences experience? 
  
 
-##Current State: 
+## Current State: 
 
 Veterans will receive some communication items via an implicit consent strategy and in that case will not see any indication of that on VA.gov preferences. 
 
@@ -28,7 +28,7 @@ Null - no preference is set
 
 --------------------------------- 
 
-#Proposed Future State
+# Proposed Future State
 
 Communication Item Implicit Permission Settings
 
