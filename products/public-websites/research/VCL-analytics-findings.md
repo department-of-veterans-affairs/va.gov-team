@@ -98,4 +98,5 @@ Accessibility Specialist Angela Fowler tested the VCL modal with a screen reader
 3. Fix the accessibility issues with the [VeteransCrisisLine Chat page](https://www.veteranscrisisline.net/get-help/chat):
     1. Focus should be placed on the "Start your confidential chat" button so you don't miss it while scrolling down through the page.
     1. Fix the headings so they are sequential without skipping any (e.g., *h1*, *h2*, *h3*).
+1. Confirm the TTY phone number in the VCL modal is correct.
 
