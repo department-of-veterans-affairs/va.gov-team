@@ -14,3 +14,11 @@ Comments and info from various sources.
 ## Appointments
 
 - 10/12/21: "Haha thanks. I found out I cancelled my doctor apt today with the app before my hour drive to the VA. Turns out my Doctor decided to cancel it without notifying me." [Reddit link](https://www.reddit.com/r/Veterans/comments/q6m6q4/new_va_health_and_benefits_app/)
+
+
+## Letters
+
+11/04/21: Multiple recent shares of the letter customization screen among Veterans celebrating their 100% status. 
+- [Reddit link 1](https://www.reddit.com/r/VeteransBenefits/comments/qm4tkk/thank_you_gentlemen/) 
+- [Reddit link 2](https://www.reddit.com/r/Veterans/comments/qlou79/breath_of_relief_thank_you_everyone_lurked_long/) "Congrats! But also, what app is this? I think I need it." 
+- [Reddit link 3](https://www.reddit.com/r/VeteransBenefits/comments/qlyk5r/great_way_to_start_the_day_100_pt/) "It’s in the letters section under benefits and service verification." “I like this nice concise view that you were able to see because it presents all the facts on a single screen.”
