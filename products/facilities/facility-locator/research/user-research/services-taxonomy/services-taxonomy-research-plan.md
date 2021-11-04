@@ -22,7 +22,7 @@ The list of services available on VAMC site pages ([Pittsburgh example](https://
 ### Goals
 
 This research has two main goals:
-- To determine how Veterans would categorize the available services
+- To determine how Veterans would categorize existing and newly identified services
 - To determine how Veterans expect to find information about these services while navigating the VA.gov site
 
 ### Research Questions
