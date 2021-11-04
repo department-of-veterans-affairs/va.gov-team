@@ -25,6 +25,7 @@ This research has two main goals:
 
 ### Research Questions
 
+[IN PROGRESS]
 1) How would Veterans categorize the services currently found under "Social programs and services"?
 2) Where do Veterans expect to find the following new services?
     - Support groups
@@ -43,9 +44,53 @@ This research has two main goals:
 
 This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
 
-- **Task 1:**
-- **Task 2:**
-- **Task 3:**
+- **Task 1:** hybrid card sort with existing services
+     - Participants will perform a card sort for a list of currently existing VHA services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), as well as new suggestions.
+        <details>
+        <summary>Task 1 services</summary>
+    
+            - Advice nurse
+            - Caregiver support
+            - Grief and bereavement counseling
+            - My HealtheVet coordinator
+            - Patient advocates
+            - Registry exams
+            - Returning service member care
+            - Social work
+            - Telehealth
+            - Travel reimbursement
+            - Veteran connections
+            - Vocational rehabilitation and employment programs
+            - Wheelchair and mobility
+            - Whole health
+            - Women Veteran care
+            - Workshops and classes
+
+        </details>
+- **Task 2:** hybrid card sort with new services
+    - Participants will perform a card sort with potential new services ("new" services will not necessarily become official VHA services, but can be thought of in the same way as the other custom accordions under the ["Prepare for your visit" heading"](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/), for example). Categories will include existing headings, and new suggestions.
+        <details>
+        <summary>Task 2 services</summary>
+    
+            - Applying for health care
+            - Billing and insurance
+            - Chaplain service
+            - Employment verification
+            - FOIA Requests
+            - Hearing aids
+            - Library services
+            - Mammograms
+            - Medial records
+            - Privacy office
+            - Special environmental health registry evaluation programs for Veterans
+            - Support groups
+            - Walk-in drug or alcohol evaluation and treatment
+
+        </details>
+        
+- **Task 3:** tree test with existing, and new, services
+    - Participants will perform a tree test with existing, and new, services.
+    - [Limit tree options to focus on known pain points?]
 
 ## Recruitment and participants
 
@@ -84,8 +129,12 @@ Date | Time
 - Note-takers: 
 - Observers:
 
-## Appendix documents
+## Appendix
+
+### Documents
 
 - [VAMC Non-clinical services audit findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/research-findings.md)
 - [Non-clinical services audit spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/audit-spreadsheet-vha-health-services-Oct2021.xlsx)
 - [Research groups spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/services-research-categorization-Oct2021.xlsx)
+
+### Future research
