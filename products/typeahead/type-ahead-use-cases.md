@@ -18,9 +18,10 @@ Links to product outlines:
 </details>
 
 ## Use Case A - Invalid search string
+Updated 2021-11-04
 
 * **Description**
-  - When typing into the search input field on the user nav bar, if a veteran inputs a "garbage" string, no type ahead results will be displayed in the drop down
+  - When typing an invalid keyword into search-field, User will not see type ahead dropdown. 
   - ![image.png](https://images.zenhubusercontent.com/5f13315978dd30105f60e53d/ab70a65b-7620-4839-9885-3e7c34167268)
 
 
@@ -34,12 +35,13 @@ Links to product outlines:
 * **TestRail test case**: [C3163](https://dsvavsp.testrail.io/index.php?/cases/view/3163)
 
 ## Use Case B - Valid search string
+Updated 2021-11-04
 
 * **Description**
-  - When a valid search input is input, a dropdown menu will appear with suggested search options.
+  - When a valid search keyword is input, a dropdown menu will appear with suggested search options.
       **NOTE**: Update keyword for latest search.gov search-suggestions-database -- queries not used in last 30 days are regularly deleted from that db.  For now, use keyword **ebenefits** instead of benefits.
 
-      ![type-ahead-suggestions-list](https://user-images.githubusercontent.com/587583/109373063-04f58d80-786a-11eb-9e50-59fed48c100c.png)
+      ![type-ahead-suggestions-list](https://user-images.githubusercontent.com/587583/109373063-04f58d80-786a-11eb-9e50-59fed48c100c.png) EXCEPT highlight's now primary-blue.
   - Flows after typing search string:
     - Pressing **Enter** or clicking **search** (magnifier-icon) button [w/o selecting a suggestion-option] bypasses type-ahead suggestions -- browser navigates to search-results page and displays results for exact string inputted.
     - Clicking a **suggested-option** in **suggestions** dropdown [or **Down-arrow**ing to highlight the option and pressing **Enter**] selects that option's search string for search -- browser navigates to search-results page and displays results for selected suggestion-option's search string.
@@ -51,6 +53,7 @@ Links to product outlines:
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Go to Staging homepage https://staging.va.gov/ -- no sign-in required.
   - In page-header, click **Search** button to display text-field & button.
+  - After results load, optionally use same typeahead functionality in on-page search-field.
 
 * **TestRail test case**: [C3164](https://dsvavsp.testrail.io/index.php?/cases/view/3164)
 
