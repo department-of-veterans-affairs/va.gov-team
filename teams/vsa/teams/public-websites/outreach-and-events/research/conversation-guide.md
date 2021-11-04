@@ -2,8 +2,6 @@
 
 ## Moderator logistics
 
-*For all SCREEN READER users, schedule Josh or Angela to attend to help resolve any technical difficulties. Note that set up and user tasks may take longer and so the participant might get through fewer tasks. Open [Screen Reader Facilitation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/assistive-tech/screenreaders.md)*
-
 *Review participant list for participant name and screener question responses*
 
 **10-15 min before session**: 
@@ -19,7 +17,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototype URL TBD*
+- *Open a standalone browser window to prototype URL TBD and save these links somewhere to paste*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -33,12 +31,13 @@
 
 ## Intro - 5 minutes
 
-Thank you for joining us today! My name is Cindy, and I have some colleagues on the line observing and taking notes. Today we're going to talk about events put on by the VA.
+Thank you for joining us today! My name is Cindy. How are you doing today?
+I have some colleagues on the line observing and taking notes. Today we're going to talk about events put on by the VA.
 
 Before we start, I want to go over a few things:
 
 - **This session should take about an hour.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or task.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We just want to improve these tools to better meet Veterans' needs. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it better for all Veterans. I welcome any and all of your feedback, and I won't be offended by any opinions you express. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
 - I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
@@ -54,7 +53,6 @@ Before we start, I want to go over a few things:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Screen sharing instructions (if needed)
-- For screen reader users, if already hearing their screen reader on Zoom, don't check "share computer audio"
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
@@ -79,6 +77,7 @@ Before we start, I want to go over a few things:
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
 Let’s start with a few questions... 
+- What device are you using today? *(Phone / Tablet / Computer)*
 
 - Have you ever attended an event (e.g., presentation, workshop/class, outreach event) put on by the VA or a Veteran Service Organization? 
 	- If so, can you tell me about that experience? 
@@ -86,29 +85,26 @@ Let’s start with a few questions...
 	- How did you sign up for it?
 - If you wanted to attend a VA sponsored event, how would you find it?
 - If you saw a list of events, how would you try to find the one you're looking for? 
-  - RECORD: how they want to search/filter 
-
-### If using a screen reader
-- What assistive technology are you using today?
-- How would you rate your level of experience with using a screen reader--beginner, intermediate, advanced, or expert?
-- How long have you been using a screen reader?
-- Are you wearing headphones today?
-  - *(if on desktop)* Could you please share your audio with me on Zoom?
-  - *(if on mobile)* Would it be possible for you to take them off and use your computer or mobile audio? 
-  - I'm asking so I will be able to hear your screen reader during the session.
-
-### For all participants
-- What device are you using today? *(Phone / Tablet / Computer)*
+  - *RECORD: how they want to search/filter*
 
 ## Screen sharing
-I would like you to share your screen with me so I can watch you use a specific website. I'll need to see your desktop. You should first close any other applications that you don't want me to see.
+I'm going to share with you a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
+
+Before you click/tap anywhere on the screen, I would like you to tell me what you want to do, and I may ask you questions about that, before telling you to go ahead and try it.
+
+While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
+
+I would like you to share your screen with me so I can watch you use the demo tool in your web browser. 
 *(refer to Screen sharing instructions above, if needed)*
 
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+
+Do you see the link? 
+
+
 ## Veteran Tasks
-I would like you to look at a website that I will share with you. While you're looking at it, I would like you to **talk aloud** as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. Before you click/tap anywhere on the screen, I would like you to *tell me what you want to do*, and I may ask you questions about that, before telling you to go ahead and try it.
 
-Imagine that... I'll have you start from a website that I'm going to *(spell/put into the Zoom chat/email/text)* for you to click on (https://staging.va.gov/XXX/).
-
+Imagine that...
 
 ### Task 1: [ ] - 5 minutes
 Instructions
