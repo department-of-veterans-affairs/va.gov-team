@@ -35,7 +35,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 * **I have started recording.** 
   - I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
 
-### Warm-up [5 minutes]
+## Warm-up [5 minutes]
 
 - **Today you're helping us out with two tasks: the first one is called a *tree test* (again, we're not testing *you*), and the second one is called a *card sort*.**
   - Have you ever heard of these before, or done one in the past?
@@ -44,13 +44,13 @@ Before we get to the tasks you are helping us with today, a few things I want to
   - Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
   - [Work out any technical difficulties - worst case, run tasks on my screen while explaining them]
 
-## Usability tasks
+## Usability tasks [~ 45 minutes]
 
-### Task 1: tree test [25 minutes]
+### Task 1: tree test [~ 20 minutes]
 
 
 
-### Task 2: card sort [25 minutes]
+### Task 2: card sort [~ 20 minutes]
 
 
 
