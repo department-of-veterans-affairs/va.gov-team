@@ -211,7 +211,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
   >
   > [button] Cancel
 
-### 10. User has been flagged as incompetent, so they can't access their financial information [(#32416)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32416)
+### 10. User has been flagged as incompetent, so they can't access their financial information ([#32416](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32416))
 
 - **Impacted sections:** profile wide
 
