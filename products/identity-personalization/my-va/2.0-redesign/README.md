@@ -1,6 +1,6 @@
 # Project Outline: My VA Dashboard 2.0 Redesign
 
-Last updated May 19, 2021
+Last updated July 2021
 
 ## Communications
 
