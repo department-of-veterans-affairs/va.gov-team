@@ -32,8 +32,8 @@ Null - no preference is set
 
 Communication Item Implicit Permission Settings
 
-True - notification is sent to anyone without explicit prefence set to false 
-False - notification requires explicit consent set by user in order to send 
+* True - notification is sent to anyone without explicit prefence set to false 
+* False - notification requires explicit consent set by user in order to send 
 
 
 **Example Communication Flows Currently In Prod**
