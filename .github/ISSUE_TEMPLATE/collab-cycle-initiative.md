@@ -111,7 +111,7 @@ _Link applicable artifacts here so you can quickly copy/paste into requests as y
   - Design
   - OCTO
   - IA
-  - QA
+  - QA | [Overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-(QA)-testing.1241579982.html)
 
 - [ ] Privacy and Security Review | [Overview](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) | [Request template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/new?assignees=td-usds%2C+troymosher&labels=security-review&template=privacy-and-security-review.md&title=Readiness+Review+%5BTeam-Name%2C+Feature-Name%5D) |  [#issuenum]
 
