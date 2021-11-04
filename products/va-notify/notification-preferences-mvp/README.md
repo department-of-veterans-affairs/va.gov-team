@@ -22,9 +22,9 @@ Veterans will receive some communication items via an implicit consent strategy 
 
 # User Explicit Permission Settings
 
-True - preference is set to "Send"\
-False - preference is set to "Do not send"\
-Null - no preference is set
+* True - preference is set to "Send"\
+* False - preference is set to "Do not send"\
+* Null - no preference is set
 
 --------------------------------- 
 
