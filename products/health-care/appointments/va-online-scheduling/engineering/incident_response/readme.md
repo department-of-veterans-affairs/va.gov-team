@@ -9,3 +9,5 @@ This is still a WIP but will provide instruction on standard operating protocol 
 [Open Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+is%3Aopen+label%3Avaos+label%3Abug)
 
 [Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+is%3Aclosed+label%3Avaos+label%3Abug)
+
+[Warning or maintenance banners](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/pager_duty.md)
