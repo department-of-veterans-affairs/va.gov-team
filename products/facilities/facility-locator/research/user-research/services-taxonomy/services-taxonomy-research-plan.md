@@ -62,7 +62,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
         - Specialty care
         - Social programs and services
         - Prepare for your visit
-        - ("A new category")
+        - ("Another category")
     
     </details>
     
