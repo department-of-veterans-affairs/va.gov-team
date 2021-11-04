@@ -23,10 +23,6 @@ This research has two main goals:
 - To determine how Veterans would categorize the available services
 - To determine how Veterans expect to find information about these services while navigating the VA.gov site
 
-### Hypotheses
-
-
-
 ### Research Questions
 
 1) How would Veterans categorize the services currently found under "Social programs and services"?
@@ -34,7 +30,10 @@ This research has two main goals:
     - Support groups
     - Workshops and classes
     - Veteran connections
-3) How do Veterans expect to find the following existing (non-clinical) services? (name and heading)
+3) How do Veterans expect to find the following existing (non-clinical) services?
+
+### Hypotheses
+
    
 ### Research materials
 
@@ -42,7 +41,7 @@ This research has two main goals:
   
 ## Methodology
 
-This study will involve a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
+This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
 
 - **Task 1:**
 - **Task 2:**
@@ -69,7 +68,7 @@ Participant Criteria:
 
 Study dates: [TBD]
 
-Session length: [TBD]
+Session length: 1 hour
 
 Date | Time
 -----|-----
@@ -77,11 +76,11 @@ Date | Time
 
 ## Team
  
-- Moderator:
-- Research guide writing and task development:
+- Moderator: Nick Osmanski (nick.osmanski@amida.com)
+- Research guide writing and task development: Nick Osmanski (nick.osmanski@amida.com)
 - Participant recruiting & screening: Perigean
-- Project point of contact:
-- Participant(s) for pilot test:
+- Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
+- Participant(s) for pilot test: 
 - Note-takers: 
 - Observers:
 
