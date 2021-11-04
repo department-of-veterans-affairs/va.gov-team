@@ -46,10 +46,20 @@ This research has two main goals:
 
 This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
 
-- **Task 1:** hybrid card sort with existing services
-     - Participants will perform a card sort for a list of currently existing VHA services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), as well as new suggestions.
+- **Task 1:** tree test with new and existing services
+    - Participants will perform a tree test with new and existing services, with the currently existing category headings.
         <details>
-        <summary>Existing services</summary>
+            <summary>Tree test services list</summary>
+    
+            - testing
+            - testing
+
+        </details>
+
+- **Task 2:** hybrid card sort with new and existing services
+     - Participants will perform a card sort for a list of currently existing VHA services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
+        <details>
+        <summary>Card sort services list</summary>
     
             - Advice nurse
             - Caregiver support
@@ -67,13 +77,6 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
             - Whole health
             - Women Veteran care
             - Workshops and classes
-
-        </details>
-- **Task 2:** hybrid card sort with new services
-    - Participants will perform a card sort with potential new services ("new" services will not necessarily become official VHA services, but can be thought of in the same way as the other custom accordions under the ["Prepare for your visit" heading"](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/), for example). Categories will include existing headings, and new suggestions.
-        <details>
-        <summary>New services</summary>
-    
             - Applying for health care
             - Billing and insurance
             - Chaplain service
@@ -89,10 +92,6 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
             - Walk-in drug or alcohol evaluation and treatment
 
         </details>
-        
-- **Task 3:** tree test with existing, and new, services
-    - Participants will perform a tree test with existing, and new, services.
-    - [Limit tree options to focus on known pain points?]
 
 ## Recruitment and participants
 
@@ -140,3 +139,5 @@ Date | Time
 - [Research groups spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021/services-research-categorization-Oct2021.xlsx)
 
 ### Future research
+
+- If participants create any new categories (headings), it could be beneficial to run another tree test that includes the newly defined categories (headings)
