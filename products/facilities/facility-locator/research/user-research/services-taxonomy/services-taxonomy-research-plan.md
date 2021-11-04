@@ -21,17 +21,16 @@ As part of the effort to align benefits and services across VAMC pages, we need 
 
 ## Research Goals
 
-The list of services available on VAMC site pages ([Pittsburgh example](https://www.va.gov/pittsburgh-health-care/health-services/)) needs to be updated and expanded.
-
 ### Goals
 
-This research has two main goals:
+Our two main goals are:
 - To determine how Veterans would categorize existing and newly identified services
-- To determine how Veterans expect to find information about these services while navigating the VA.gov site
+- To determine how Veterans expect to find information about these services while navigating VAMC pages
 
 ### Research Questions
 
-[IN PROGRESS]
+[NOT FINAL]
+
 1) How would Veterans categorize the services currently found under "Social programs and services"?
 2) Where do Veterans expect to find the following new services?
     - Support groups
@@ -49,7 +48,7 @@ This research has two main goals:
   
 ## Methodology
 
-This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
+This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools. The tree test allows us to see if Veterans want to create new service categories, and the card sort allows them to create those categories.
 
 - **TASK 1:** Participants will perform a tree test with new and existing services, with the currently existing category headings.
     <details>
@@ -60,7 +59,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
         - Specialty care
         - Social programs and services
         - Prepare for your visit
-        - (A new category)
+        - ("A new category")
     
     </details>
     
@@ -68,6 +67,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
     <details>
         <summary>Tree test services list</summary>
 
+        - testing
         - testing
         - testing
 
@@ -156,4 +156,4 @@ Date | Time
 
 ### Future research
 
-- If participants create any new categories (headings), it could be beneficial to run another tree test that includes the newly defined categories (headings)
+- If participants create any new categories (headings) during the card sort, it could be beneficial to run another tree test that includes the newly defined categories.
