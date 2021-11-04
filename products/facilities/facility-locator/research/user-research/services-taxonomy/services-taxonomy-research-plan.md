@@ -46,18 +46,21 @@ This research has two main goals:
 
 This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
 
-- **Task 1:** tree test with new and existing services
-    - Participants will perform a tree test with new and existing services, with the currently existing category headings.
-        <details>
-            <summary>Tree test services list</summary>
+- **Task 1:** Participants will perform a tree test with new and existing services, with the currently existing category headings.
+    - Tree test headings "tree":
+        - testing
+            - testing
+
     
-            - testing
-            - testing
+    <details>
+        <summary>Tree test services list</summary>
 
-        </details>
+        - testing
+        - testing
 
-- **Task 2:** hybrid card sort with new and existing services
-     - Participants will perform a card sort for a list of currently existing VHA services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
+    </details>
+
+- **Task 2:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
         <details>
         <summary>Card sort services list</summary>
     
