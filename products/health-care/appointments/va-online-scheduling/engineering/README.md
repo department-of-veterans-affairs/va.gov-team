@@ -32,3 +32,6 @@ VAOS is VA online scheduling, the veteran facing component of the VA's online sc
 - [Tool and system overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/tool_system_overview.md)
 - [Facility identifiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/VA_location_identifiers.md)
 - [VistA appointments, facilities, and clinics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vista_appointment.md)
+- [Business rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md)
+- [MASv1 appointment display](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/mas_appointment_display.md)
+- [VAOS service plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_service_plan.md)
