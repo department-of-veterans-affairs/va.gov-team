@@ -42,6 +42,7 @@ Last updated November 2, 2021
 - How can we recieve data from VA Notify? Where will the templates/data be stored?
   - Do the templates need to be in HTML? Or can we get raw JSON data?
 - How is the information that VA Notify is sending generated?
+   - See [How VANotify Works](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#how-vanotify-works)
 - How much of the VA.gov Notifications frontend information is managed in the VA Notify backend?
 - For any piece of information we want to show, we need to check with VA Notify to see if they are already getting that information. (Example: prescription information may be masked, or may not exist)
 - How many notifications are people getting for each specific notification? (Example: Are they getting a notification for an appointment 1 month + 3 weeks + 1 week out, or is it just one notification?)
