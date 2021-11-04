@@ -32,7 +32,7 @@ The DGIB team has approached our team with some ideas of what could be on the My
 4. The DGIB team is in the process of creating a better GI bill experience for Veterans, but because it's in the early stages it might limit what we can show on My VA. If the DGIB team could choose the top things (that currently exist) to show on My VA related to education they would be:
 
    1. Next payment + link to all payments
-   2. Remaining entitlement and related info to that entitlement
+   2. Remaining entitlement and related info to that entitlement (I'm unsure if this is still being worked on - I need to follow up with Russell)
    3. Link to statement of benefits
    4. Link to download Certificate of Enrollment 
 
