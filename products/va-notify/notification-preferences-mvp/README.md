@@ -36,8 +36,6 @@ True - notification is sent to anyone without explicit prefence set to false
 False - notification requires explicit consent set by user in order to send 
 
 
-
-
 **Example Communication Flows Currently In Prod**
 1. Rx Shipment - Consent via 1010EZ
 	* Implicit Consent
@@ -54,8 +52,8 @@ False - notification requires explicit consent set by user in order to send
 	
 	
 3. BVA Hearing Reminders
-	* Default Send
-	* When a it's time for a hearing reminder, VEText checks internal opt out list
+	* Implicit Consent
+	* When a it's time for a hearing reminder
 	* VEText checks VA Profile for preferences. 
 	* If true or null, VEText makes a call to VA Notify API to send
 	* VANotify sends the notification.
