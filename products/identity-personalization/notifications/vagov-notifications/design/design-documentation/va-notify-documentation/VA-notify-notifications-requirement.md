@@ -41,17 +41,29 @@ Last updated November 2, 2021
 
 - How can we recieve data from VA Notify? Where will the templates/data be stored?
   - Do the templates need to be in HTML? Or can we get raw JSON data?
+
+**VA Notify**: VA Notify stores all templates as MD. They could give it to usa as a MD file and we could render it however we wanted. The MD templates would be stored in the VA notify CMS. We need to follow up with Erik to see if the FE can handle MD and render it correctly.
+
+And example of an email template [can be seen here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#email-frame-and-template) 
+
 - How is the information that VA Notify is sending generated?
-   - See [How VANotify Works](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#how-vanotify-works)
-- How much of the VA.gov Notifications frontend information is managed in the VA Notify backend?
+    - How much of the VA.gov Notifications frontend information is managed in the VA Notify backend?- 
+
+**VA Notify**: [Here is a diagram](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#how-vanotify-works) of how VA Notify gets their data. 
+
 - For any piece of information we want to show, we need to check with VA Notify to see if they are already getting that information. (Example: prescription information may be masked, or may not exist)
+
+**VA Notify**: Any personalization comes straight from the triggering system - anything that VA Notify is showing is exactly what they recieved from the triggering system. If we want to add personalization to any variable data points we need to work with the triggering system to change what is being sent to VA Notify.
+
 - How many notifications are people getting for each specific notification? (Example: Are they getting a notification for an appointment 1 month + 3 weeks + 1 week out, or is it just one notification?)
   - For a given appt is there a stable ID for that particular appointment? If there were 3 different reminders for the same appt would there be an easy way to know they were all for the same appt?
+
+**VA Notify**: We ran out of time for this question.
+
 - Are there other notifications that can be shown that aren't represented in our [Data Points for MVP doc?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/frontend/documentation/data-points-in-mvp.md)
 - How many notifications would be sent to our API? 
 
+**VA Notify**: Both of these questions are answered [in this section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#see-who-we-are-working-with) of VA Notify's documentation. We will followup with VA Notify as needed.
+
 ## Action items
-
-
-
 
