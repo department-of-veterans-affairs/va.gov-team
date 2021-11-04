@@ -32,17 +32,16 @@ When a user clicks on one of these links, a modal dialog box opens with various 
 4. How useful is the modal *vs.* instead taking users to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/)?
 
 ## Methodology
-Analyze findings from the following Google Analytics reports:
+Analyzed findings from the following Google Analytics reports:
 1. [VCL in header clicks](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Jumplink%20Click%20-%20(.*)Veterans%20Crisis%20Line%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory/)
 2. [VCL in footer clicks](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22EQ%22,%22Navigation%20-%20Footer%20-%20Veterans%20Crisis%20Line%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory/)
 3. [VCL modal > call regular number](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22EQ%22,%22Outbound%20Link%20Clicked:%20tel:18002738255%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory/)
 6. [VCL modal > chat](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22EQ%22,%22Outbound%20Link%20Clicked:%20https:~2F~2Fwww.veteranscrisisline.net~2FChatTermsOfService.aspx%3Faccount=Veterans%252520Chat%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory/)
 5. [VCL modal > call TTY number (if hearing loss)](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22EQ%22,%22Outbound%20Link%20Clicked:%20tel:+18007994889%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory/)
 7. [VCL modal > veteranscrisisline.net](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211031&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22EQ%22,%22Outbound%20Link%20Clicked:%20https:~2F~2Fwww.veteranscrisisline.net~2F%22,0%5D%5D&explorer-table.secSegmentId=analytics.deviceCategory&explorer-table.rowCount=250/)
+8. [VCL modal > text](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20211001&_u.date01=20211104&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.filter=sms:&explorer-table.secSegmentId=analytics.deviceCategory&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22sms:%22,0%5D%5D/) -- Analytics instrumentation was just added on 11/3/2021, so not much data collected yet and thus not comparable with other analytics data for another month.
 
-Note: There are currently no analytics available for the **VCL modal > text** link, but this is being added by the Analytics team. It will be another month before we'll have collected enough data to compare with the other links in the modal.
-
-In order to consider what might happen if we were take users directly to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/), looking at analytics for this page would be helpful. We would like to see how users interact with [VeteransCrisisLine.net](https://www.veteranscrisisline.net/), especially users who get there in some way that's not our VCL modal. [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) is instrumented for Google Analytics, but since the page isn't part of VA.gov, our Analytics & Insights team doesn't have access to the analytics. Is there someone who works on [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) that we could contact for analytics? 
+Accessibility specialist Angela Fowler tested all the VCL links in the modal using a screen reader.
 
 ## Findings
 ### Usage of VCL links
@@ -69,7 +68,7 @@ The analytics data are summarized on a screenshot of the modal and in the table 
 
 ![clicks-in-VCL-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/clicks-in-VCL-modal.png)
 
-## What if the VCL modal were replaced with a link to VeteransCrisisLine.net?
+### What if the VCL modal were replaced with a link to VeteransCrisisLine.net?
 <details>
   <summary>VeteransCrisisLine page (Click to show screenshots)</summary>
   
@@ -83,7 +82,20 @@ The possibility of replacing the VCL modal with a link directly to [VeteransCris
     1. In contrast, the VLC modal with its links displays on mobile and desktop screens without any need for scrolling.
 3. How well does the [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) work? Seeing analytics data for the 4 action buttons on the page would be helpful to compare with the data we have on the VCL modal usage; we would want to see a similar pattern of usage for the different ways of getting help. 
 4. The TTY phone number that you get to from [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) (711 then 1-800-273-8255) is different from the TTY phone number in the VCL modal (800-799-4889). Which one is correct?
+5. Veterans may be concerned about going to a URL that ends in .net, especially considering the guidance at the top of all VA.gov pages:
 
+![Government URL guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/images/govt-URL-extensions.png)
+
+### Accessibility
 Accessibility Specialist Angela Fowler tested the VCL modal with a screen reader and found that it works smoothly. In contrast, the [Chat page](https://www.veteranscrisisline.net/get-help/chat) that opens from both the VCL modal and [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) has a few accessibility issues:
 1. Focus should be placed on the "Start your confidential chat" button so you don't miss it while scrolling down through the page.
 2. The headings on the page aren't nested properly.
+
+## Recommendations
+1. Keep the VCL modal as is because it's (1) being used, (2) accessible, and (3) requires no scrolling. 
+1. Don't replace the VCL modal with a link to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) because it (1) requires scrolling and (2) has accessibility issues. 
+    1. If we still want to consider this replacement, learn more about what might happen by looking at analytics for [VeteransCrisisLine.net](https://www.veteranscrisisline.net/), especially users who get there in some way that's not our VCL modal. [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) is instrumented for Google Analytics, but since the page isn't part of VA.gov, our Analytics & Insights team doesn't have access to the analytics. To pursue this, we would need to find someone who works on [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) and ask them for analytics.
+3. Fix the accessibility issues with the [VeteransCrisisLine Chat page](https://www.veteranscrisisline.net/get-help/chat):
+    1. Focus should be placed on the "Start your confidential chat" button so you don't miss it while scrolling down through the page.
+    1. The headings on the page aren't nested properly.
+
