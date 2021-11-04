@@ -98,7 +98,8 @@ I need to do a review of where these features currently live and how they work.
 - "VA is typically reactive when providing information to beneficiaries, starting with the initial process of applying for eligibility based off information that VA already has."
 - Veterans do not trust the VA or the information provided by the VA to be up-to-date or relevant.
 - Currently the GI Bill process doesn't have any single source of truth for all users.
-- 
+- The GI Bill team is still working through what MVP is on va.gov.
+
 #### Documents that didn't have anything related to education benefits
 
 [Notifications Research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
@@ -174,13 +175,37 @@ Downloading VA letters for edu benefits
 
 1. Based on analytics and research, payment history/financial information consistently ranked higher in importance than education benefits for Veterans.
 2. Information about education benefits are still important for Veterans to see - specifically understanding where they are in the process and if there are any outstanding action items. The education benefits process can be fairly complicated, and each different stop in the process might need a different user experience on My VA. Here is a [journey map for education benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/images/DGIB%20Journey%20Map.png). 
-4. The DGIB team is in the process of creating a better GI bill experience for Veterans, but because it's in the early stages it might limit what we can show on My VA. 
-   
-** Existing Features **
+4. The DGIB team is in the process of creating a better GI bill experience for Veterans, but because it's in the early stages it might limit what we can show on My VA. If the DGIB team could choose 5 things to show on My VA related to education they would be:
+
+   1. Next payment + link to all payments
+   2. Remaining entitlement and related info to that entitlement
+   3. Link to statement of benefits
+   4. Link to download Certificate of Enrollment 
+
+If we choose to pursue an education section on My VA right now, we need to figure out what we can/cannot show currently. Here is a breakdown of what we know so far.
+
+**Existing Features**
    - Payment history
-   - Statement of benefits (though doesn't include remaining allotment and doesn't cover post 9/11)
-      - What does this include?
+   - Statement of benefits ([Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/images/Statement%20of%20Benefits.png))
+      - Benefit program information
+      - Date benefits end
+      - % of benefit entitlement
+      - Eligibility for other programs (need more info about this)
+      - Enrollment information
+         - Start + End date and school
+         - Credit hours
+         - Student status (Full-time, part-time, 3/4 time)
+         - Housing $$
+         - Kicker $$ (what is this?)
    - GI Bill comparison tool
 
-**Things DGIB team is working on, that are not released yet.**
-   - Monthly verification of enrollments (doesn't exist yet)
+**Working on**
+   - Monthly verification of enrollments
+   - Statement of benefits
+       - Remaining allotment
+       - Post 9/11
+
+**Important links**
+- See your enrollment verifications
+- See past benefit payments
+- Download Certificate of Eligibility
