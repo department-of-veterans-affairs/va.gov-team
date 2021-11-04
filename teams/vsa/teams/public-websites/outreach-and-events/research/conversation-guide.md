@@ -106,6 +106,14 @@ Do you see the link?
 
 Imagine that...
 
+**DRAFT TASK IDEAS:**
+
+Find an event and sign up to attend when it's convenient for you
+- filter by date range
+- one-time event
+- recurring event
+  - sign up for 2 occurrences of it
+
 ### Task 1: [ ] - 5 minutes
 Instructions
 
