@@ -102,39 +102,37 @@ Closest match option added 2021-06-14
 
 
 ### Use Case S-F
-Added 2021-10-19 - Note that searching for a valid form that is associated with a downloadable PDF is not a new use case, but one appears to be have been inadvertendly omitted.  The user flow for that scenario has now has changed with the addition of a modal.
+Added 2021-10-19 - Note that searching for a valid form that is associated with a downloadable PDF is not a new use case, but one appears to be have been inadvertendly omitted.  The user flow for that scenario now includes a modal.
 
-#### Search for valid form associated with a downloadable PDF - Default Behavior
+#### Search for valid form associated with a downloadable PDF - Initial Behavior
 
 
 * **Description:** 
-  - When a user searches for a VA form that is valid, and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that some PDFs do not work correctly in the browser and provides three option: 
-    - Learn more about how to download and open a PDF
-    - Get Adobe Acrobat Reader DC
-    - Download VA Form 10-10EZ
+  - When a user searches for a valid VA form number that has a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that they need to download the PDF and open it in Acrobat Reader and provides two options:
+    - [Link] Get Adobe Acrobat Reader for free from Adobe
+    - [Button] Download VA Form [form number]
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): **NEED TO ADD*
+  - Prototype (PNG FILE): https://user-images.githubusercontent.com/68560244/140093362-5180a9d1-58ae-496f-b824-58c79655505c.png
 
 * **Instructions to access in Staging
-  - https://staging.va.gov/find-forms/
+  - https://staging.va.gov/find-forms/?q=10-10ez
 
 * **Link to TestRail Test Case**
 
 ### Use Case S-G
-Added 2021-10-19 
+Added 2021-11-04
 
 #### Search for valid form associated with a downloadable PDF within 24 hours of seeing the PDF modal
 
-
 * **Description:** 
-  - When a user searches for a VA form that is valid, and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, if the Search landing page modal has been presented to the user with the past 24 hours, and the user has not cleared their cookies, the PDF action link will link directly to the relevant PDF and will not display the PDF modal.
+  - When a user searches for a valid VA form number that has a downloadable PDF,a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, if the Search landing page modal has been presented to the user with the past 24 hours, and the user has not cleared their cookies, the PDF action link will link directly to the relevant PDF and will not display the PDF modal.
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): **NEED TO ADD*
+  - Prototype (PNG FILE): https://user-images.githubusercontent.com/68560244/140093362-5180a9d1-58ae-496f-b824-58c79655505c.png 
 
 * **Instructions to access in Staging
-  - https://staging.va.gov/find-forms/
+  - https://staging.va.gov/find-forms/?q=10-10ez
 
 * **Link to TestRail Test Case**
   
@@ -242,20 +240,21 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - This will be in the Search experience; out-of-scope for Details-Page QA.
 
 ### Use Case D-F
-#### Downloading PDF Form - Default behavior
+#### Downloading PDF Form - Initial behavior
 
 * **Description:** 
-  - When a user accesses the detail page for a VA form and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that some PDFs do not work correctly in the browser and provides three option: 
-    - Learn more about how to download and open a PDF
-    - Get Adobe Acrobat Reader DC
-    - Download VA Form 10-10EZ
+  - When a user accesses the detail page for a VA form that has a downloadable PDF, a form-specific PDF action link is displayed on the form's detail page.  Upon clicking the PDF action link, a dismissable modal is displayed.  The modal advises the user that they need to download the PDF and open it in Acrobat Reader and provides two options:
+    - [Link] Get Adobe Acrobat Reader for free from Adobe
+    - [Button] Download VA Form [form number]
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): **NEED TO ADD*
+  - Prototype (PNG FILE):
+  - Initial state: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
+  - After clicking on Downloadable PDF action link: https://user-images.githubusercontent.com/68560244/140093362-5180a9d1-58ae-496f-b824-58c79655505c.png - note - prototype is for the the modal itself only; disregard the background screen. 
 
 * **Instructions to access in Staging**
-  - https://www.va.gov/find-forms/?q=10-10ez
-  - Unauth; no login credentials needed.
+  - https://www.va.gov/find-forms/about-form-10-10ez/ 
+  - Unauth; no login credentials needed
 
 * **Link to TestRail Test Case**
 
@@ -263,18 +262,16 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 #### Downloading PDF Form within 24 hours of seeing the PDF modal
 
 * **Description:** 
-  - When a user accesses the detail page for a VA form and that form is associated with a downloadable PDF, a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, if the PDF modal on the detail page has been presented the user with the past 24 hours, and the user has not cleared their cookies, the PDF action link will link directly to the relevant PDF and will not display the PDF modal.
-
+  - When a user accesses the detail page for a VA form that has a downloadable PDF, a form-specific PDF on the form's detail page  Upon clicking the PDF action link, if the PDF modal on the detail page has been presented the user with the past 24 hours, and the user has not cleared their cookies, the PDF action link will link directly to the relevant PDF and will not display the PDF modal.
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): **NEED TO ADD*
+  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
 
 * **Instructions to access in Staging**
-  - https://www.va.gov/find-forms/?q=10-10ez
+  - https://www.va.gov/find-forms/about-form-10-10ez/
   - Unauth; no login credentials needed.
 
 * **Link to TestRail Test Case**
-
 
 <hr>
 
