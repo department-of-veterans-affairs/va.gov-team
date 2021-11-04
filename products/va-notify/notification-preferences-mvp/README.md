@@ -26,15 +26,16 @@ Veterans will receive some communication items via an implicit consent strategy 
 * False - preference is set to "Do not send"\
 * Null - no preference is set
 
---------------------------------- 
+___________________________________
 
 # Proposed Future State
 
-Communication Item Implicit Permission Settings
+**Communication Item Implicit Permission Settings**
 
 * True - notification is sent to anyone without explicit prefence set to false 
 * False - notification requires explicit consent set by user in order to send 
 
+_____________________________________
 
 **Example Communication Flows Currently In Prod**
 
