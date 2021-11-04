@@ -21,7 +21,7 @@ Where does your product fit into the [Veteran journey](https://github.com/depart
 - Retiring and aging 
 
 ## Research Goals	
-The goals of this research are to get user feedback on our designs for
+The goal of this research is to get user feedback on our designs for the following two new features:
 1. Filtering by date range
 2. Viewing recurring events together
 
@@ -29,27 +29,30 @@ The goals of this research are to get user feedback on our designs for
 We will consider findings and recommendations from this research to refine our designs before launch.
 
 ### Research questions
-1. How intuitive is our design for filtering by date range?
+1. How intuitive is our design for filtering by date range? 
     1. What do Veterans expect to see as options for date range? 
-    2. How accessible to screen reader users is the date range filter dropdown?
-1. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
+3. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
     2. Are Veterans able to register for a whole series of recurring events?
-    3. How accessible to screen reader users are recurring events?
-1. How do Veterans expect to look for VA events?
-1. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
+4. How do Veterans expect to look for VA events?
+5. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
     1. For in-person events, what specific information is expected? (i.e., is "city" enough information, or also want street address?)
 
 ### Hypotheses
 1. Veterans will understand how to use filters to find events they are interested in
 1. Filtering events by date range will enable Veterans to find events that fit in their schedules
 2. Seeing which events are recurring will enable Veterans to register for all events they're interested in
-3. The designs will be accessible to Veterans who use screen readers
 
 ## Method	
-We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experiences attending VA events, and then they will use the new Outreach & Events design to peruse the event listing of one-time and recurring events and register for some. 
+We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experiences attending VA events, and then they will use the new Outreach & Events design in a UXPin prototype to peruse the event listing of one-time and recurring events and register for some. 
 
-Because we want to include some participants who use screen readers, all participants will access the new design on the Staging server. If this "working prototype" isn't possible to build within the desired timeframe, a UXPin prototype could be used instead, but at the expense of excluding participants who use screen readers. If we aren't able to include screen reader users, we won't be able to address research questions #1.ii and #2.iii, and hypothesis #4.
+### Future research plans
+We want to include some participants who use screen readers, but we will have to wait until we can build a "working prototype" on the Staging server. At that time, we plan to iterate this research with the following additions:
+- Research question: How accessible to screen reader users is the date range filter dropdown?
+- Research question: How accessible to screen reader users are recurring events?
+- Hypothesis: The designs will be accessible to Veterans who use screen readers
+- Primary recruiting criterion: At least 2 people who use a screen reader 
+- Observer: Angela Fowler will observe sessions with participants using a screen reader 
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -65,8 +68,7 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 ### Primary criteria (must-haves)
 - All are Veterans
 - At least 3 people 55 or older
-- At least 2 people with a cognitive disability (e.g., TBI)
-- At least 2 people who use a screen reader *(IF we are able to test on Staging)*
+- At least 4 people with a cognitive disability (e.g., TBI)
 - All have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices 
   - At least 4 people plan to use their smartphone for the interview
   - During the session, all are willing to share a new web browser window on their device
@@ -112,6 +114,6 @@ Nov XX, 2021 | Noon - 3 pm, 4 - 8 pm
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Participant(s) for pilot test:	Angela Fowler (angela.fowler@adhocteam.us), TBD
+- Participant(s) for pilot test:	Dave Sukharan (dave.sukharan@adhocteam.us), TBD
 - Note-takers:	Perigean
-- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com), Angela Fowler (angela.fowler@adhocteam.us)
+- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com)
