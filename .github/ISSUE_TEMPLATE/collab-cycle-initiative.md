@@ -125,8 +125,6 @@ _Link applicable artifacts here so you can quickly copy/paste into requests as y
 
 <details>
 
-- [ ]  Update [VSA OKRs and KPIs workbook](https://docs.google.com/spreadsheets/d/1F96U1Z4X9h2i68CjSrNUhjCLbPsvzxBFD_0QAe5paYg/edit#gid=354276142)
-
 - [ ]  Update [Launch Tracker on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/vsa_launch_tracker.md)
 
 - [ ]  Post @here announcement in your Slack channel after launch
