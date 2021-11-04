@@ -1,4 +1,4 @@
-[IN PROGRESS]
+[PRE-REVIEW]
 
 # Research Plan - Non-Clinical Services Taxonomy
 
@@ -6,7 +6,7 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ## Background
 
-As part of the effort to align benefits and services across VAMC pages, we need to determine how Veterans expect services to be categorized. This study is seeking validation for existing services and their categories, as well as for potential new services (rather tasks, as opposed to officila VHA services) identified in [previous services taxonomy audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021).
+As part of the effort to align benefits and services across VAMC pages, we need to determine how Veterans expect services to be categorized. This study is seeking validation for existing services and their categories, as well as for potential new services (rather tasks, as opposed to official VHA services) identified in [previous services taxonomy audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021).
 
 ### Related Research
 
@@ -25,21 +25,18 @@ Our two main goals are:
 
 ### Research Questions
 
-[NOT FINAL]
-
-1) How would Veterans categorize the services currently found under "Social programs and services"?
-2) Where do Veterans expect to find the following new services?
-    - Support groups
-    - Workshops and classes
-    - Veteran connections
-3) How do Veterans expect to find the following existing (non-clinical) services?
+1) Do the existing categories accurately reflect Veteran expectations of where to find services on VAMC pages?
+2) Will Veterans create additional categories for existing services?
+3) Will Veterans create additional categories for new services?
+4) Are there services that are confusing, or need to be described using plainer language?
+5) Do existing category names cause confusion, or do they need to described using plainer language?
 
 ### Hypotheses
 
-[NOT FINAL]
-
-- Veterans will create new categories for some of the existing services
-- Veterans will create new categories for some of the new services
+- Veterans will associate most services with existing category headings.
+- Veterans will create new categories for some of the existing services.
+- Veterans will create new categories for some of the new services.
+- Some of the existing, and new, services will cause confusion, and may require plainer language.
    
 ### Research materials
 
@@ -58,7 +55,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
         - Specialty care
         - Social programs and services
         - Prepare for your visit
-        - ("Another category")
+        - ("Another category not in this list")
     
     </details>
     
@@ -66,9 +63,16 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
     <details>
         <summary>Tree test services list</summary>
 
-        - testing
-        - testing
-        - testing
+        - Applying for healthcare
+        - Chaplain service
+        - Hearing aids
+        - Medical records
+        - Support groups
+        - Advice nurse
+        - Telehealth
+        - Veteran connections
+        - Women veteran care
+        - Workshops and classes
 
     </details>
 
@@ -110,7 +114,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
 
 ## Recruitment and participants
 
-We will utilize the Perigean contract recruiting. We'd like to schedule [TBD] participants to reach our goal of observing [TBD] participants.
+We will utilize the Perigean contract recruiting. We'd like to schedule 17 participants to reach our goal of observing 10 participants.
 
 Participant Criteria:
 
@@ -124,16 +128,26 @@ Participant Criteria:
     - A mix of rural and urban
     - Veterans & Caregivers
     - At least 1 participant 35 or under and 1 participant over 55
+    - At least 1 partitipant with cognitive disabilities
 
 ## Timeline and scheduling
 
-Study dates: [TBD]
+Study dates: November 17th - 24th, and November 29th - December 2nd (break to accomdate holidays)
 
-Session length: 1 hour
+Session length: 1 hour, all times are EST
 
 Date | Time
 -----|-----
-[tbd] | [tbd]
+11/17/2021 | 9:30 AM - 10:30 AM & 2:00 PM - 3:00 PM
+11/18/2021 | 1:00 PM - 2:00 PM & 3:00 PM - 4:00 PM
+11/19/2021 | 11:00 AM - 12:00 PM & 2:00 PM - 3:00 PM
+11/22/2021 | 2:00 PM - 3:00 PM
+11/23/2021 | 11:00 AM - 12:00 PM & 3:00 PM - 4:00 PM
+11/24/2021 | 10:00 AM - 11:00 AM & 2:00 PM - 3:00 PM
+11/29/2021 | 2:00 PM - 3:00 PM
+11/30/2021 | 3:00 PM - 4:00 PM
+12/1/2021 | 1:00 PM - 2:00 PM & 3:00 PM - 4:00 PM
+12/2/2021 | 1:00 PM - 2:00 PM & 3:00 PM - 4:00 PM
 
 ## Team
  
