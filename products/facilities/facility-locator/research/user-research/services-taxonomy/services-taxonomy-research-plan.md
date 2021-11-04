@@ -47,7 +47,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
 - **Task 1:** hybrid card sort with existing services
      - Participants will perform a card sort for a list of currently existing VHA services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), as well as new suggestions.
         <details>
-        <summary>Task 1 services</summary>
+        <summary>Existing services</summary>
     
             - Advice nurse
             - Caregiver support
@@ -70,7 +70,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
 - **Task 2:** hybrid card sort with new services
     - Participants will perform a card sort with potential new services ("new" services will not necessarily become official VHA services, but can be thought of in the same way as the other custom accordions under the ["Prepare for your visit" heading"](https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/), for example). Categories will include existing headings, and new suggestions.
         <details>
-        <summary>Task 2 services</summary>
+        <summary>New services</summary>
     
             - Applying for health care
             - Billing and insurance
