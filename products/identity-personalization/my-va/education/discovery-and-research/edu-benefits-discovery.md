@@ -91,6 +91,14 @@ I need to do a review of where these features currently live and how they work.
 
 - There wasn't any specific details about education benefits, but 'Payment history' was the most commonly mentioned feature that was missing on the My VA page. 'Education benefits' was the third most common. 
 
+
+**[DGIB Usability test]()**
+
+- “If I could just login to something and pizza-tracker style, it says ‘you are here’ in the process. Then I wouldn’t feel like I’m in a blackhole at the mercy of the Government – something I felt every time I got a bill.”
+- "VA is typically reactive when providing information to beneficiaries, starting with the initial process of applying for eligibility based off information that VA already has."
+- Veterans do not trust the VA or the information provided by the VA to be up-to-date or relevant.
+- Currently the GI Bill process doesn't have any single source of truth for all users.
+- 
 #### Documents that didn't have anything related to education benefits
 
 [Notifications Research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
@@ -98,6 +106,25 @@ I need to do a review of where these features currently live and how they work.
 [Preview.va.gov - Authenticated Users (October 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-8/Brand%20Consolidation%20Research%20Summary%2010-25-2018_Study%208%20only.pptx)
 
 [Personalization MVP readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
+
+## User Journey
+
+![Education Benefits User Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/images/DGIB%20Journey%20Map.png)
+
+1. Introduction to benefits 
+   - Learning about eligibility 
+2. Making a decision (this can be different if a veteran is still in the service)
+   - I choose my education benefits 
+   - I understand how much I can afford
+   - I choose a program/school
+   - Get approval
+3. Getting an education
+   - I enroll at my school
+   - I enroll at my courses for the term
+   - School + Veteran recieve benefits
+   - I understand reamining entitlement
+   - I complete coursework
+
 
 ## Meeting with the DGIB team
 
@@ -142,5 +169,18 @@ Downloading VA letters for edu benefits
 
 **Things DGIB team is working on, that are not released yet.**
    - Monthly verification of enrollments (doesn't exist yet)
-   - 
+   
+## Takeaways
 
+1. Based on analytics and research, payment history/financial information consistently ranked higher in importance than education benefits for Veterans.
+2. Information about education benefits are still important for Veterans to see - specifically understanding where they are in the process and if there are any outstanding action items. The education benefits process can be fairly complicated, and each different stop in the process might need a different user experience on My VA. Here is a [journey map for education benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/images/DGIB%20Journey%20Map.png). 
+4. The DGIB team is in the process of creating a better GI bill experience for Veterans, but because it's in the early stages it might limit what we can show on My VA. 
+   
+** Existing Features **
+   - Payment history
+   - Statement of benefits (though doesn't include remaining allotment and doesn't cover post 9/11)
+      - What does this include?
+   - GI Bill comparison tool
+
+**Things DGIB team is working on, that are not released yet.**
+   - Monthly verification of enrollments (doesn't exist yet)
