@@ -52,11 +52,18 @@ This study will involve a moderated card sort and tree test, using [Optimal Work
 
 We will utilize the Perigean contract recruiting. We'd like to schedule [TBD] participants to reach our goal of observing [TBD] participants.
 
-Participant criteria:
+Participant Criteria:
 
-- ***Must* have**
+- **Must have:**
+    - Enrolled in VA healthcare
+    - Laptop or desktop computer
+    - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare.
 
-- ***Good* to have**
+- **Good to have:**
+    - All genders
+    - A mix of rural and urban
+    - Veterans & Caregivers
+    - At least 1 participant 35 or under and 1 participant over 55
 
 ## Timeline and scheduling
 
