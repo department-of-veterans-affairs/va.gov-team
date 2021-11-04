@@ -1,9 +1,5 @@
 [IN PROGRESS]
 
-[Questions for Michelle]
-- Focus more on existing services, or mix of "new" and existing? (I currently have a mix)
-- Does tree testing include side nav, or only concerned with headings on page?
-
 # Research Plan - Non-Clinical Services Taxonomy
 
 Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31626), and for non-clinical services taxonomy audit [#30839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30839).
