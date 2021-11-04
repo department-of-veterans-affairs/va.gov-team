@@ -41,7 +41,7 @@ Last updated November 3, 2021
 
 1. How can we recieve data from VA Notify? Where will the templates/data be stored? Do the templates need to be in HTML? Or can we get raw JSON data?
 
-**VA Notify**: VA Notify stores all templates as MD. They could give it to usa as a MD file and we could render it however we wanted. The MD templates would be stored in the VA notify CMS. We need to follow up with Erik to see if the FE can handle MD and render it correctly.
+**VA Notify**: VA Notify stores all templates as MD. They could give it to us as a MD file and we could render it however we wanted. The MD templates would be stored in the VA notify CMS. We need to follow up with Erik to see if the FE can handle MD and render it correctly.
 
 And example of an email template [can be seen here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#email-frame-and-template) 
 
