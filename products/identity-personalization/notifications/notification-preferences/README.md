@@ -58,6 +58,9 @@ The VA is ramping up their digital communications efforts, specifically through 
 
 These are OKRs and KPIs for the initial MVP launch of the communications permissions (notification preferences) feature:
 
+- [Notification Settings GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
+- [Top events: Notification Settings page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20211103&_u.date01=20211103&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22notifications%22,0%5D%5D&explorer-table.rowCount=50/)
+
 **Objective: Allow Veteran's to easily customize how they communicate with the VA.**
 
 - **Key result #1**: ~Launch notification preference settings MVP in the VA.gov profile in Q3 2021 (July – September).~
