@@ -145,7 +145,7 @@ _Track and maintain the various use cases that exist for a given product and is 
 
 _The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on.  Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc_
 
-Link to product outline: [Form Detail Landing Page product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/form-detail-product-outline.md)
+Link to product outline: [Form Detail Landing Page product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/form-detail-landing-pages/form-detail-product-outline.md)
 
 ### Use Case D-A 
 #### Search for form that has minimum custom form data
@@ -323,4 +323,4 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 ## Links to old mockups
   -  prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b0086df2-db66-42e9-b202-2f790435e7c3?hints=off
   -  mobile prototype: https://xd.adobe.com/view/d5e7301d-12f9-438f-b30e-3646e927ed70-80b4/screen/b5bcf931-4c82-42b3-9a11-cca84dfcedb8?hints=off
-  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/design/VA-Form-search-landing-results.pdf 
+  - PDF prototype: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/design/VA-Form-search-landing-results.pdf 
