@@ -109,7 +109,7 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
-Let’s start with some questions...
+Let’s start with a few questions...
 - Where do you typically go to get information about the VA?
 
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _______________)*
@@ -126,7 +126,7 @@ Before you click/tap anywhere on the screen, I would like you to tell me what yo
 
 While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-I would like you to share your screen with me so I can watch you use a website in your web browser. 
+I would like you to share your screen with me so I can watch you use the demo tool in your web browser. 
 *(refer to Screen sharing instructions above, if needed)*
 
 What kind of device are you using today? *(Phone / Computer)*
