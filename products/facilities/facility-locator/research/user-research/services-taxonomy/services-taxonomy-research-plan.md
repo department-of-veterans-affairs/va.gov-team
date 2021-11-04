@@ -17,6 +17,8 @@ As part of the effort to align benefits and services across VAMC pages, we need 
 
 ## Research Goals
 
+The list of services available on VAMC site pages ([Pittsburgh example](https://www.va.gov/pittsburgh-health-care/health-services/)) needs to be updated and expanded.
+
 ### Goals
 
 This research has two main goals:
