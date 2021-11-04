@@ -1,5 +1,9 @@
 [IN PROGRESS]
 
+[Questions for Michelle]
+- Focus more on existing services, or mix of "new" and existing? (I currently have a mix)
+- Does tree testing include side nav, or only concerned with headings on page?
+
 # Research Plan - Non-Clinical Services Taxonomy
 
 Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31626), and for non-clinical services taxonomy audit [#30839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30839).
@@ -37,6 +41,7 @@ This research has two main goals:
 
 ### Hypotheses
 
+
    
 ### Research materials
 
@@ -46,11 +51,19 @@ This research has two main goals:
 
 This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools.
 
-- **Task 1:** Participants will perform a tree test with new and existing services, with the currently existing category headings.
-    - Tree test headings "tree":
-        - testing
-            - testing
-
+- **TASK 1:** Participants will perform a tree test with new and existing services, with the currently existing category headings.
+    <details>
+    <summary>Tree test headings "tree"</summary>
+    
+        - Primary care
+        - Mental health care
+        - Specialty care
+        - Social programs and services
+        - Prepare for your visit
+        - (A new category)
+    
+    </details>
+    
     
     <details>
         <summary>Tree test services list</summary>
@@ -60,7 +73,7 @@ This study will utilize a moderated card sort and tree test, using [Optimal Work
 
     </details>
 
-- **Task 2:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
+- **TASK 2:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
         <details>
         <summary>Card sort services list</summary>
     
