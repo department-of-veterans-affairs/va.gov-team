@@ -52,11 +52,13 @@ The research questions we want to address are:
 - What is Caregivers' mental model of the different types of legal representative documents? (specifically those that have a health care stipulation) 
 - Does the updated copy and flow provide the information needed in order for the Caregiver to make a confident decision of how to answer the questions and what document to upload?
   -  Is that the correct decision (acceptable document is uploaded when relevant)?
+- Does the question "Who will sign this application for the Veteran?" create a blocker because the Caregiver thinks that being a legal representative is a requirement for the Caregiver program?
 
 ### Hypothesis: 
 - We will be able to gain insight to the Caregiver mental model for providing proof of legal representation
 - We will gain better understanding if the terms we use are recognizeable and understood
 - We will gain a better understanding of Caregivers' familiarity with health care-specific stipulations on a power of attorney (POA) document. 
+- We think that the Caregiver will be able to navigate through the form without thinking that being a legal representative is a requirement for the Caregiver program.
  
 
 
