@@ -44,7 +44,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+84@gmail.com`
+  - `vets.gov.user+84@gmail.com` (Gregory)
 
 ## Use Case B - No history
 
@@ -60,7 +60,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+86@gmail.com`
+  - `vets.gov.user+86@gmail.com` (Brian)
 
 ## Use Case C - Not Enrolled in Health Care
 
@@ -76,7 +76,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+87@gmail.com`
+  - `vets.gov.user+87@gmail.com` (Daryl)
 
 ## Use Case D - Deceased
 
@@ -92,7 +92,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+90@gmail.com`
+  - `vets.gov.user+90@gmail.com` (Ralph)
 
 [mcp-product-outline]:
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md
