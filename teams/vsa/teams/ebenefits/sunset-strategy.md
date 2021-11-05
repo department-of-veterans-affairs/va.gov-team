@@ -17,7 +17,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View Rated Disabilities                             | vsa-ebenefits | **(COMPELETE 05022020)**; redev to BGS FY2021        | Can probebly be redirected safely anytime        | --        | --        | --
 | BGS Platform Integration                            | vsa-ebenefits | **(COMPELETE)**         | --        | --        | --  | --
 | View Dependents on Award                            | vsa-ebenefits | Launch with Modify Dependents        | --        | --        | --  | --
-| Modify Dependents (686c/ 674)                       | vsa-ebenefits | In `prod`, 80%        | --        | --        | --  | (EBN using 2014 686c), BGS integration
+| Modify Dependents (686c/ 674)                       | vsa-ebenefits | **(COMPELETE)**        | --        | --        | --  | (EBN using 2014 686c), BGS integration
 | Dependency Verification                             | vsa-ebenefits | In staging, development        | --        | --  | -- | New CFO priority as of Q4 2020, depends on Modify Dependents
 | Pension Automation: Dependency Claims               | vsa-ebenefits | **(COMPELETE)**        | --        | -- | -- | New USB priority as of Q4, inflates scope of Modify Dependents
 | View My Payments                                    | vsa-ebenefits | **(COMPELETE 01082020)**        | Messaging with link to app on VA.gov        | --        | -- | No stakeholder POC
