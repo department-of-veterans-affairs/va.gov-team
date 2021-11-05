@@ -210,4 +210,14 @@ For education benefits on va.gov, the two main MVP features are: 1) the 1990 for
 
 **Things DGIB team is working on, that are not released yet.**
    - Monthly verification of enrollments (doesn't exist yet)
+
+### From Cesar (the developer on DGIB
+
+I'm not familiar with current functionality at VA.gov, but I'm familiar with the services being developed for the my education benefits application.
+In terms of eligibility we are developing an eligibility API that will return the chapters a veteran is eligible for (Chapter 33/Chapter30/Chapter 1606) In the future I know it will also provide more info like what percentage of the benefit you'll be eligible for. I am not familiar with what is available on VA.gov.
+
+Benefit status API: https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_status
+
+GI Bill Status API: https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_status/getPost911GiBillStatus
+
    
