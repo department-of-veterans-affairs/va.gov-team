@@ -14,7 +14,7 @@ Research shows that users want all payment information in one spot - whether it'
 - Pay bill (online through pay.gov, by phone, mail)
 - Request help with debt (online FSR form soon)
 
-**Payment history**
+**Payment history** ([Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/View%20Payment%20History.png))
 - Disability compensation
 - Pension benefits
 - Education benefits
@@ -24,3 +24,4 @@ Research shows that users want all payment information in one spot - whether it'
 - Compensation for surviving spouse and dependents (DIC)
 - VA Home loans (maybe this fits under debt)
 - Payments caregivers receive through the caregiver program
+
