@@ -1,0 +1,30 @@
+# My VA vs. Homepage comparison
+
+Since launching the redesigned My VA dashboard in July 2021, we are now in a position where we can start to consider redirecting people from the unauth homepage to My VA after login. Here are some things we might want to consider as part of that decision.
+
+## Which top links exist on both the homepage and My VA?
+
+These are pulled from the top tasks section of the VA.gov homepage.
+
+**Note**: Since the My VA dashboard surfaces information based on people's individual experiences, not all links will show for all users. Links will show for some users depending on whether that user meets certain criteria.
+
+|Link name on the homepage | Does this link/task exist on My VA when applicable?|
+|--------------------------|------------------------------------|
+|Refill and track your prescriptions | Yes |
+|Send a secure message to your health care team | Yes |
+|Schedule and manage health appointments | Yes |
+|View your lab and test results | Yes |
+|Apply now for VA health care| Yes |
+|Check your claim or appeal status| Yes |
+|View your payment history| No |
+|Upload evidence to support your claim| No |
+|File for a VA disability increase| Yes |
+|File a claim for compensation| Yes |
+|Change your current education benefits| No|
+|Compare GI Bill benefits by school| No|
+|Apply for education benefits| Yes|
+|Get Veteran ID cards| No|
+|Get your VA medical records| Yes|
+|Download your benefit letters| No|
+|Change your address| No|
+|Request your military records (DD214)| No|
