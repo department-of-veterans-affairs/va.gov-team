@@ -116,7 +116,9 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 - **June 2021**: Desktop usability study complete ([research artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/discovery-and-research))
 - **July 2021**: Development, design iterations
 - **August 2021**: Development, design iterations, testing with partners
-- **September 2021**: Development, Testing with partners, UAT planning
+- **September 2021**: Development, Testing with partners, 
+- **October 2021**: UAT planning and execution
+- **November 2021**: Began phased launch (25%, 50%, 100%) Nov 3
 
 ## Product Decisions
 
@@ -125,10 +127,22 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 ## Technical Details
 
 ### How to Access and Test
+- [Staging](https://staging.va.gov/profile/notifications)
+- Testing documentation
+     - [Notification settings test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-notification-preferences.md)
+     - [Notification settings a11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-notification-preferences-a11y.md)
+
+- [Production](https://va.gov/profile/notifications)
+
+
 ### Error Handling
+- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences/frontend#states)
+
 ## Screenshots
+
 ### Before
 This is a new feature, no **before** state.
 
 ### After
+<img width="628" alt="Screen Shot 2021-10-20 at 4 42 52 PM" src="https://user-images.githubusercontent.com/45603961/140571171-100fa36f-119e-4e53-83ee-116540ec3b08.png">
 
