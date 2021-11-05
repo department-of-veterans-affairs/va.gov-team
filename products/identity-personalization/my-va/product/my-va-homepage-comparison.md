@@ -18,7 +18,7 @@ These are pulled from the top tasks section of the VA.gov homepage.
 |Check your claim or appeal status| Yes |
 |View your payment history| No |
 |Upload evidence to support your claim| No (We do link to claims) |
-|File for a VA disability increase| Yes |
+|File for a VA disability increase| Yes (Same form as filing for compensation) |
 |File a claim for compensation| Yes |
 |Change your current education benefits| No|
 |Compare GI Bill benefits by school| No|
