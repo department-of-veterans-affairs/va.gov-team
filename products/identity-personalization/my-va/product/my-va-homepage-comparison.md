@@ -26,5 +26,14 @@ These are pulled from the top tasks section of the VA.gov homepage.
 |Get Veteran ID cards| No|
 |Get your VA medical records| Yes|
 |Download your benefit letters| No|
-|Change your address| No|
+|Change your address| No (however, we do link directly to the VA.gov profile where someone can change their address)|
 |Request your military records (DD214)| No|
+
+## What needs to be added to My VA before we can redirect here at log in?
+
+I think this answer depends on whether
+
+## If we redirect people from the logged out homepage to My VA when they log in, how can we measure whether this is improving the user experience?
+
+- **Next clicks**: If people are redirected to My VA, is their next click back to the homepage?
+- **Increased searches**: For information that does not exist on My VA that does exist on the homepage, are we seeing more searches for these terms?
