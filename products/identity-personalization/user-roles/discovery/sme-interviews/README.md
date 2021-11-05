@@ -2,6 +2,8 @@
 
 We're interviewing SMEs within VA administrations to learn more about administration-specific definitions of non-Veteran user roles.
 
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md)
+
 ## Interview schedule
 
 | Who                                                          | Administration | Topic / Area of expertise       | Interview Date | Completed? | Link to Notes |
