@@ -26,7 +26,7 @@ These are pulled from the top tasks section of the VA.gov homepage.
 |Get Veteran ID cards| No|
 |Get your VA medical records| Yes|
 |Download your benefit letters| No|
-|Change your address| No (however, we do link directly to the VA.gov profile where someone can change their address)|
+|Change your address| Yes (we link to the VA.gov profile)|
 |Request your military records (DD214)| No|
 
 ## What needs to be added to My VA before we can redirect here at log in?
