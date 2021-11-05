@@ -29,6 +29,8 @@ Besides seeing an overall increase in our target interactions for claims, disabi
 
 ### Searches
 
+[Top searches from My VA between 7.1.21 - 11.1.21](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210701&_u.date01=20211101&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
+
 Since 7.1.21, four of the top 10 searches are for finacial information:
 
 - (1) Payment
