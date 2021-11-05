@@ -19,14 +19,19 @@
 
 ## November 5
 - training environment URL change management
+  - cut-off to be thanksgiving weekend Friday, messaging to go out Monday 22 Nov
 - Help Desk ok to enable or disable Menus?
+  - Stan write-up which are OK to do
 - Print out of roles by VAMC system (Delegation of Authority) request from VHA
+  - Kevin provided
 - Contributor and publishing authority roll out?
 - VAMC migration for Nov 10th - Estimated: 15 total 3 on the fence (VA Connecticut health care, VA Manchester health care, VA Dayton health care, VA Northeast Ohio  health care, VA Tomah health care, VA Wichita health care, VA Central Texas health care, VA Southern Arizona health care, VA San Diego health care, VA Nebraska-Western Iowa health care, VA Clarksburg health care, VA Huntington health care, VA Washington DC health care, VA Memphis health care, VA Tennessee Valley health care)
 - Lovell csv file is ready.  Please prioritize migration in next sprint
 -- Does VAMC still publish with only VA sites?   What to do about DoD sites? 
+-- Dave and Stan to discuss offline
 - Transition with VHA DM starting, need to consider communications with Justin Warren, Steve Tokar, Jeff Grandon (Distro group?)
-
+-- need to change H1 on North Florida/South Georgia
+-- Kevin to create issue will stay a slash
 ## October 29
 
 ### Help desk - 5 min
