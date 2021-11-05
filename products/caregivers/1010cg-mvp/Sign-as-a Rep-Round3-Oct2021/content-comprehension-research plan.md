@@ -120,6 +120,8 @@ November 9, 2021 | 8:00am - 2:00pm EST
 November 10, 2021 | 8:00am - 9:00am EST and 11:00am - 1:00pm EST
 November 11, 2021 | 8:00am - noon EST and 2:00pm - 6:00pm EST
 November 12, 2021 | 10:30am - 5:00pm EST
+_If needed:_  November 15, 2021 | 8:00am - 2:00pm EST
+_If needed:_  November 16, 2021 | 8:00am - 5:00pm EST
 
 ## Team Roles	
 
