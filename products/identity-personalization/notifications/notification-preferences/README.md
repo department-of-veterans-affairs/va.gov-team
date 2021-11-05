@@ -10,6 +10,7 @@ Last Updated October 1, 2021
      - Communication permissions
      - Communication preferences
      - Notification preferences
+     - Notification settings (actual name of feature on FE)
    
 
 |Name|Role|Email|
