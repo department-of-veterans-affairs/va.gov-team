@@ -19,7 +19,7 @@
 
 ## November 5
 - training environment URL change management
-- Help Desk ok to enable disable Menus?
+- Help Desk ok to enable or disable Menus?
 - Print out of roles by VAMC system (Delegation of Authority) request from VHA
 - Contributor and publishing authority roll out?
 - VAMC migration for Nov 10th - Estimated: 15 total 3 on the fence (VA Connecticut health care, VA Manchester health care, VA Dayton health care, VA Northeast Ohio  health care, VA Tomah health care, VA Wichita health care, VA Central Texas health care, VA Southern Arizona health care, VA San Diego health care, VA Nebraska-Western Iowa health care, VA Clarksburg health care, VA Huntington health care, VA Washington DC health care, VA Memphis health care, VA Tennessee Valley health care)
