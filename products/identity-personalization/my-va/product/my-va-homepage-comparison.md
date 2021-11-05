@@ -6,7 +6,7 @@ Since launching the redesigned My VA dashboard in July 2021, we are now in a pos
 
 These are pulled from the top tasks section of the VA.gov homepage.
 
-**Note**: Since the My VA dashboard surfaces information based on people's individual experiences, not all links will show for all users. Links will show for some users depending on whether that user meets certain criteria.
+**Note**: Since the My VA dashboard surfaces information based on people's individual circumstances, not all links will show for all users. Links will show for some users depending on whether that user meets certain criteria.
 
 |Link name on the homepage | Does this link/task exist on My VA when applicable?|
 |--------------------------|------------------------------------|
