@@ -31,7 +31,9 @@ These are pulled from the top tasks section of the VA.gov homepage.
 
 ## What needs to be added to My VA before we can redirect here at log in?
 
-I think this answer depends on whether
+I think this answer depends on whether or not the current homepage design stays the same. Should it stay the same for some time, I don't think we need to move all of the top tasks to My VA. However, should the design change and most of the top 20 tasks go away, we should make sure we at least address all the major categories on My VA in some way.
+
+At this point, we may want to consider at least adding information around payment & financials to My VA before redirecting there, since [financial information is the most highly searched content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches) from My VA. We can also see from these results that education and records are important, which we don't have on My VA right now outside of a suggestion to apply for education.
 
 ## If we redirect people from the logged out homepage to My VA when they log in, how can we measure whether this is improving the user experience?
 
