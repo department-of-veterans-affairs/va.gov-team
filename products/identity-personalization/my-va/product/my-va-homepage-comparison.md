@@ -31,13 +31,13 @@ These are pulled from the top tasks section of the VA.gov homepage.
 
 ## What needs to be added to My VA before we can redirect here at log in?
 
-I think this answer depends on whether or not the current homepage design stays the same. Should it stay the same for some time, I don't think we need to move all of the top tasks to My VA. However, should the design change and most of the top 20 tasks go away, we should make sure we at least address all the major categories on My VA in some way.
+At this point, we may want to consider at least adding information around payments to My VA before redirecting there, since [financial information is the most highly searched content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches) from My VA. Additionally, viewing payment information is one of the [top task-based events on VA.gov overall in the last year (between 11.1.20 and 11.1.21)](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20201101&_u.date01=20211101&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_r.drilldown=analytics.eventCategory:Interactions/), so it would make sense to prioritize this over other updates to My VA.
 
-At this point, we may want to consider at least adding information around payments to My VA before redirecting there, since [financial information is the most highly searched content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches) from My VA. Additionally, viewing payment information is the #X event on VA.gov overall in the last year (between 11.1.20 and 11.1.21), so...
-
+In terms of other updates, we'll want to add education information and records information over time, based on what we've heard across user research engagements, what we see in top searches from My VA, and what exists as top tasks on the homepage. Whether we redirect to My VA from the homepage at login before we add education or record info is up for debate. This might depend on whether or not the current homepage design stays the same. Should it stay the same for some time, we could redirect from the unauth homepage to My VA upon login because the top edu/records links will still be accessible from the homepage.
 
 
 ## If we redirect people from the logged out homepage to My VA when they log in, how can we measure whether this is improving the user experience?
 
 - **Next clicks**: If people are redirected to My VA, is their next click back to the homepage?
+- **Increased clicks**: Do we see a significant increase in interactions quarter over quarter? 
 - **Increased searches**: For information that does not exist on My VA that does exist on the homepage, are we seeing more searches for these terms?
