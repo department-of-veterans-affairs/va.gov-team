@@ -192,6 +192,8 @@ Downloading VA letters for edu benefits
 - What is the difference between entitlement and allotment? Nothing! (We think)
 - Can we show entitlement? I've seen that some newer mock ups will show whether you are eligible and how much percent of eligibility you are qualified, but as far as I know, we have no immediate plans to show remaining entitlements in terms of months and days like the staff apps do. But we can get the information, yes.
 
+For education benefits on va.gov, the two main MVP features are: 1) the 1990 form updates to allow for the review of the application to be automated (for some applicants) and 2) the ability to download the certificate of eligibility from the download va letters page
+
 - Choose 3-5 things for Edu that would be most valuable to expose on My VA:
    1. Next payment + link to all payments
    2. Remaining entitlement and related info to that entitlement
