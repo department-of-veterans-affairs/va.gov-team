@@ -20,7 +20,7 @@ The DGIB team has approached our team with some ideas of what could be on the My
 4. The DGIB team is in the process of creating a better GI bill experience for Veterans, but because it's in the early stages it might limit what we can show on My VA. If the DGIB team could choose the top things (that currently exist) to show on My VA related to education they would be:
 
    1. Next payment + link to all payments
-   2. Remaining entitlement and related info to that entitlement *Note-this currently is available in the staff apps, so we could obtain this information)
+   2. Remaining entitlement and related info to that entitlement * *Note-this currently is available in the staff apps, so we should be able to obtain this information)*
    3. Link to statement of benefits
    4. Link to download Certificate of Enrollment 
 
@@ -54,13 +54,15 @@ If we choose to pursue an education section on My VA right now, we need to figur
 
 ## Recommendations
 
+We don't need to rebuild the entire payment history section on My VA, a link to the actual payment history section should work with the structure that we currently have set up. BUT surfacing if a payment is coming, was paid or if a payment is due would be important (time sensitive things!)- so maybe it would be better to focus on getting payment information into notifications??
+
 1. Payment history should be it's own section that will be iterated on and built out over time... depending on how we want to do it, it could be related to the education section in some way.
 2. The technical discovery will determine when we build an education section. Based on research, if we can show the following I believe it would be useful to Veterans.
-   - Payment history 
+   - Payment history (when the next payment is coming and for how much)
    - Benefit program information
    - Date benefits end
    - % of benefit entitlement
    - See your statement of benefits [link]
    - See your enrollment verifications [link]
-   - See past benefit payments [link] (this would likely be in the payment history section)
+   - See past benefit payments [link] (would this be in the payment history section?)
    - Download Certificate of Eligibility [link]
