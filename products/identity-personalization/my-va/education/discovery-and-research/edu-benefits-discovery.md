@@ -189,6 +189,9 @@ Downloading VA letters for edu benefits
    - Remaining entitlement and/or what's been used exposed on My VA
    - _In order to expose this on My VA _we_ need to know what data is available to them for statement of benefits_
 
+- What is the difference between entitlement and allotment? Nothing! (We think)
+- Can we show entitlement? I've seen that some newer mock ups will show whether you are eligible and how much percent of eligibility you are qualified, but as far as I know, we have no immediate plans to show remaining entitlements in terms of months and days like the staff apps do. But we can get the information, yes.
+
 - Choose 3-5 things for Edu that would be most valuable to expose on My VA:
    1. Next payment + link to all payments
    2. Remaining entitlement and related info to that entitlement
