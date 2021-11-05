@@ -14,7 +14,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | **(COMPELETE 07072020)**        | Messaging with link to VA.gov; redirect install on Jan 20, 2022        | --        | --        | --
 | Submit BDD Claim (526ez)                            | vsa-bam-1     | **(COMPELETE 15112020)**        | --        | --        | --        | --
-| View Rated Disabilities                             | vsa-ebenefits | **(COMPELETE 05022020)**; redev to BGS FY2021        | Ready for redirect        | --        | --        | --
+| View Rated Disabilities                             | vsa-ebenefits | **(COMPELETE 05022020)**; redev to BGS FY2021        | Ready for redirect        | --        | --        | Requested with MR
 | BGS Platform Integration                            | vsa-ebenefits | **(COMPELETE)**        | N/A        | --        | --  | --
 | View Dependents on Award                            | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | --        | --  | --
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | --        | --  | (EBN using 2014 686c), BGS integration
@@ -23,9 +23,9 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View My Payments                                    | vsa-ebenefits | **(COMPELETE 01082020)**        | Redirected        | --        | -- | No stakeholder POC
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | **(COMPELETE 01042020)**        | Redirected        | --        | -- | Jan 4 2021 launch via LoB request
 | Apply for VRE CH31 (1900)                           | vsa-ebenefits | **(COMPELETE 05172020)**        | Redirected        | --        | -- | New VRE (CMS) integration was required; CMS pilot May 12 (Cleveland)
-| Orientation for VRE CH31                            | vsa-ebenefits | **(COMPELETE)**         | --        | -- | -- | New VRE business requirement as of Q4
-| Update Direct Deposit (EDU)                         | vsa-authd-exp | **(COMPELETE)**  | -- | -- | -- | BGS Integration, new research
-| View My Documents                                   | vsa-bam-2     | --        | --        | --        | -- | Partially complete in Claim Status Tool, requires research on deltas
+| Orientation for VRE CH31                            | vsa-ebenefits | **(COMPELETE)**         | N/A        | -- | -- | New VRE business requirement as of Q4
+| Update Direct Deposit (EDU)                         | vsa-authd-exp | **(COMPELETE)**  | N/A | -- | -- | BGS Integration, new research
+| View My Documents                                   | vsa-bam-2     | In discovery        | --        | --        | -- | Partially complete in Claim Status Tool, requires research on deltas
 | View POA (Representative)                           | vsa-ebenefits | In dev        | --        | -- | -- | Lighthouse integration (BGS)
 | Search for POA                                      | vsa-ebenefits | In dev        | --        | -- | -- | Lighthouse integration (BGS)
 | Modify POA (22/ 22a)                                | vsa-ebenefits | In dev        | --        | -- | -- | Lighthouse integration (BGS)
@@ -35,7 +35,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Apply for Certificate of Eligibility (1880)         | vsa-ebenefits | In dev | -- | -- | -- | Requires Discovery, possible new LGY integration required
 | View Specially Adapted Housing Grant Status         | vsa-ebenefits | Not started | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for eneagement**
 | Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | Not started | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for eneagement**
-| View Dependent Benefits Letter                      | combination   | Q2 FY2021 | --        | --        | --        | [Confirm complete?](https://staging.va.gov/records/download-va-letters/)
+| View Dependent Benefits Letter                      | combination   | Check with MR | --        | --        | --        | [Confirm complete?](https://staging.va.gov/records/download-va-letters/)
 | _SEP Features Placeholder_                          | TBD           | --        | --        | --        | --        | --
 
 ## Complete: Applications and Features
