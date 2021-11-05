@@ -2,7 +2,9 @@
 Tressa Furner, Authenticated Experience, November 2,2021
 
 [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/education)
+
 [Education benefits discovery and research/analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/education/discovery-and-research/edu-benefits-discovery.md)
+
 [Payment information discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-history-discovery.md)(WIP)
 
 ## Background
