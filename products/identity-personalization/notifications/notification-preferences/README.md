@@ -23,6 +23,20 @@ Last Updated October 1, 2021
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
 |Terry Bazemore | VA Profile Engineer |Terry.Bazemore@va.gov |
 
+### Table of Contents
+- [Overview](#overview)
+- [Assumptions](#assumptions)
+- [Questions](#questions)
+- [Value Propositions](#value-propositions)
+- [Measuring Success](#measuring-success)
+- [Implementation Info](#implementation-info)
+- [MVP Approach](#mvp-approach)
+- [Status](#status)
+- [Product Decisions](#product-decisions)
+- [Technical Details](#technical-details)
+- [Screenshots](#screenshots)
+
+
 ## Overview
 
 The VA is ramping up their digital communications efforts, specifically through email and text. As a result, veterans need to be able to opt in or out of communications and customize through which channels they prefer to be contacted. To meet these organizational and user needs, the VA Profile team is building a communications permissions engine that will integrate with the VA.gov profile frontend and allow veteran-managed settings to be saved and shared across systems at the VA.  
