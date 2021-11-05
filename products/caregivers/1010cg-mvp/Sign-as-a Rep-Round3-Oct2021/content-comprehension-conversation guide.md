@@ -143,6 +143,9 @@ Now we're going to take a look at a few questions on the application for the Pro
   - Tell me about the factors that made you select **(number)**  
 - Is there anything you wished you knew more about?
 - *If not very confident* What would you do now if you have questions?
+  - _Pay special attention to participants that say they would still proceed and upload a different document_
+- If you didn't have one of these documents, would you upload a different one?
+- Do you think that a marriage license or driver's license would be a document that could be accepted?
 - What do you expect to see next?
 
 **Upload your legal representative document**
