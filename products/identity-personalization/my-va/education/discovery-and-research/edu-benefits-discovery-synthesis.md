@@ -77,7 +77,7 @@ If we choose to pursue an education section on My VA right now, we need to figur
 
 ### Education Benefits
 
-1. Make an education benefits section with the following:
+1. Make an education benefits section when (and only when!) we can show the following:
    - Payment info - how much they recieve each month 
    - Benefit program information
    - Date benefits end
