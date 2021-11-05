@@ -58,22 +58,14 @@ If we choose to pursue an education section on My VA right now, we need to figur
 
 ## Recommendations
 
-1. Payment history should be it's own section that will be iterated on and built out over time... depending on how we want to do it, it could be related to the education section in some way. Is having a link to the payment history section enough? How much information do we need to show for it to be valuable to users?
-2. The technical discovery will determine when we build an education section. Based on research, if we can show the following I believe it would be useful to Veterans.
-   - Payment history (when the next payment is coming and for how much)
-   - Benefit program information
-   - Date benefits end
-   - % of benefit entitlement
-   - See your statement of benefits [link]
-   - See your enrollment verifications [link]
-   - See past benefit payments [link] (would this be in the payment history section?)
-   - Download Certificate of Eligibility [link]
+1. I think we should pursue a payment history section before an education section. Payment history has consistently been identified as one of the most important things on VA.gov for authenticated users, including users who have education benefits. We also have a payment history tool that was recently launched, so we know that we will be able to have access to/show data. Launching a payment history section will be a win/win for our team and the education benefits team.
+2. We need to continue with a technical discovery for an education section. Right now it's difficult to determine what we can/cannot show, so we need to figure that out. 
 
 ## MVP Scope (WIP)
 
 ### Payment History
 
-1. Make a Payment history section with a link + next upcoming payment (do we need it for each category? and would these qualify as notifications?)
+1. Make a Payment history section.
 
 ### Education Benefits
 
@@ -87,9 +79,11 @@ If we choose to pursue an education section on My VA right now, we need to figur
    - Go to your past benefit payments [link] (would this be in the payment history section? Would this be confusing?)
    - Download Certificate of Eligibility [link]
 
-## Thoughts
+## Thoughts/questions
 
-We don't need to rebuild the entire payment history section on My VA, a link to the actual payment history section should work with the structure that we currently have set up. BUT surfacing if a payment is coming, was paid or if a payment is due would be important (time sensitive things!)- so maybe it would be better to focus on getting payment information into notifications?? 
+   - Surfacing if a payment is coming, was paid or if a payment is due would be important (time sensitive things!)- so maybe it'll be important to get payment information into notifications.
    - What other notifications specific to education would be helpful? 
    - When would a payment section show on the dashboard?
    - Are education payments exactly the same each month? If so, maybe just showing the amount paid each month would be enough in the education section, and any time it gets paid it shows up in the Payment History section.
+   - Is having a link to the payment history section enough? 
+   - How much information do we need to show for it to be valuable to users?
