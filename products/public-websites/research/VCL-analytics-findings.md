@@ -60,7 +60,7 @@ The analytics data are summarized in the table below.
 3. **Only about 14% of users click on VeteransCrisisLine.net** at the bottom of the modal, and it's about evenly split between mobile and desktop users.
 4. 5% of users click the TTY phone number.
 5. A majority of clicks on both phone number links are from mobile devices, which isn't surprising because most people don't make calls on their computer.
-6. Analytics weren't being tracked on the text link but will be soon.
+6. Analytics hadn't been tracked on the text link until 11/3/2021, so not enough analytics data has been collected yet to compare usage with the other links in the modal at this time. The VCL team is likely tracking directly how many contacts they receive through each method, which we don't currently have access to.
 
 The analytics data are summarized on a screenshot of the modal and in the table below. 
 
@@ -93,10 +93,11 @@ Accessibility Specialist Angela Fowler tested the VCL modal with a screen reader
 
 ## Recommendations
 1. **Keep the VCL modal as is** because it's (1) being used, (2) accessible, and (3) requires no scrolling. 
-1. **Don't replace the VCL modal with a link to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/)** because it (1) requires scrolling and (2) has accessibility issues. 
+1. **Don't replace the VCL modal with a link to [VeteransCrisisLine.net](https://www.veteranscrisisline.net/)** because it (1) requires scrolling, (2) has accessibility issues, and (3) doesn't have a *.gov* URL. 
     1. If we still want to consider this replacement, learn more about what might happen by looking at analytics for [VeteransCrisisLine.net](https://www.veteranscrisisline.net/). We would want to know if the usage pattern of call/chat/text/TTY is similar to that of the VCL modal. [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) is instrumented for Google Analytics, but since the page isn't part of VA.gov, our Analytics & Insights team doesn't have access to the analytics. To pursue this, we would need to find someone who works on [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) and ask them for analytics.
 3. **Fix the accessibility issues with the [VeteransCrisisLine Chat page](https://www.veteranscrisisline.net/get-help/chat)**:
     1. Focus should be placed on the "Start your confidential chat" button so you don't miss it while scrolling down through the page.
     1. Fix the headings so they are sequential without skipping any (e.g., *h1*, *h2*, *h3*).
+1. Recommend changing the URL for [VeteransCrisisLine.net](https://www.veteranscrisisline.net/) to a *.gov* extension in order to be compliant with our messaging and increase Veteran confidence in the VA handling of personal information.
 1. **Confirm that the TTY phone number in the VCL modal is correct**.
 
