@@ -112,7 +112,11 @@ Find an event and sign up to attend when it's convenient for you
 - filter by date range
 - one-time event
 - recurring event
-  - sign up for 2 occurrences of it
+  - look at all occurrences of it (need to click "view more occurrences")
+  - see if people click "view more"
+  - get reactions to the # of events shown on screen before click "view more" (how many events do people want to see at once?)
+- sign up for 2 occurrences of it
+- see if people want to click "Add to Calendar" (ask if there's anything else that they'd want to do on this page)
 
 ### Task 1: [ ] - 5 minutes
 Instructions
