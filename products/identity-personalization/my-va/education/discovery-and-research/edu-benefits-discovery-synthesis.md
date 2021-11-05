@@ -54,4 +54,13 @@ If we choose to pursue an education section on My VA right now, we need to figur
 
 ## Recommendations
 
-Pending technical discovery
+1. Payment history should be it's own section that will be iterated on and built out over time... depending on how we want to do it, it could be related to the education section in some way.
+2. The technical discovery will determine when we build an education section. Based on research, if we can show the following I believe it would be useful to Veterans.
+   - Payment history 
+   - Benefit program information
+   - Date benefits end
+   - % of benefit entitlement
+   - See your statement of benefits [link]
+   - See your enrollment verifications [link]
+   - See past benefit payments [link] (this would likely be in the payment history section)
+   - Download Certificate of Eligibility [link]
