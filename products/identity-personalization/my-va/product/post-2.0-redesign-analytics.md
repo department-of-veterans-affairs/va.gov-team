@@ -6,7 +6,7 @@
 
 ## How we did on KPIs after 2.0 launch
 
-[See the measuring success section of the product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#what-we-can-do-in-the-next--1--2-quarters-100-foot-view-q2--q3-2021)
+[See the Measuring Success section of the product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#what-we-can-do-in-the-next--1--2-quarters-100-foot-view-q2--q3-2021)
 
 - We did **not** see an increase in usage of My VA for logged in users. Usage rate still hovers around 7% for logged in users; 16% for logged-in homepage usage.
 - We **did** almost double clicks for all target interactions (clicks into claims and health care information) between Q2 (pre-launch) and Q3 (post-launch).
@@ -25,7 +25,7 @@ Besides seeing an overall increase in our target interactions for claims, disabi
 - "What benefits does VA offer" is #7 for top interactions. **This receives more clicks than a lot of our health care links**, which shows that people have a lot interest in getting more information on this. (Note: We know most health care users still go directly to MHV, so this likely plays a large factor in the rankings for health care links).
 - "Apply for Education" is #9 for top interactions, which could indicate that this suggestion is a driver for education applications. Additionally, Apply for Disability is #16 interaction, which also suggests its utility. 
 - However, the Apply for Health care interaction is #41, which suggests this particular link isn't helpful. This could be for a few reason. First, if most people who sign in have health care or have already applied, they won't see this suggestion (which is by design). Second, we should also make sure that we aren't hiding this suggestion too often. Because some people show as having VA health care without having it (eg. a veteran who went to a VAMC one time ever as a service member), it's possible that a lot of people aren't seeing this who could actually find this useful. **We should look into this.**
-- 
+
 
 ### Searches
 
