@@ -17,12 +17,12 @@ be behind a feature flag.
    - [Conversation Guide: Notification Prefs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/uat/notification-preferences-uat-convo-guide.md)
 
 ### Results/Issues:
-- **Number of users:** ____
-- **List of bugs/issues found:** _____
+- **Number of users:** 6
+- **List of bugs/issues found:** 0
 
 ## Phase II: Staged Rollout 
 ### Planning
-**Launch Go/No go:** Week of 11/1 (tentative), 
+**Launch Go/No go:** Week of 11/1 
 - Hold go/no-go ([#30806](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30806))
 - [Readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/notification-prefs-launch-go-no-go.md)
 
@@ -34,15 +34,16 @@ be behind a feature flag.
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
 [Notification Preferences - Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success)
 
-GA dashboard link - tk
+- [GA dashboard link](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/
+- [Top events: Notification Settings page](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20211103&_u.date01=20211103&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22notifications%22,0%5D%5D&explorer-table.rowCount=50/)
 
 ## Go Live!
 ### Planning:
 **Desired date:** 
 - _Desired: week of 11/1/21 for launch to 25%_
-- Actual: ______
+- Actual: started phased launch on 11/3/21, launched to 25%
 
-- [Launch go/no go results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/notification-prefs-launch-go-no-go.md)
+- [Launch go/no go results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/notification-prefs-launch-go-no-go.md) -- Good to proceed
  
 ### 1-week results:
 Dashboard results for week 1:
