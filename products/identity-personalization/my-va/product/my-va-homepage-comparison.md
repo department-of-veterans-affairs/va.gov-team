@@ -1,5 +1,7 @@
 # My VA vs. Homepage comparison
 
+November 2021
+
 Since launching the redesigned My VA dashboard in July 2021, we are now in a position where we can start to consider redirecting people from the unauth homepage to My VA after login. Here are some things we might want to consider as part of that decision.
 
 ## Which top links exist on both the homepage and My VA?
