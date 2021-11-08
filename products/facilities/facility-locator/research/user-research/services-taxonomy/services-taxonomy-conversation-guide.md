@@ -11,7 +11,7 @@
 - [ ] Turn off waiting room feature in Zoom
 - [ ] *[link to card sort / tree test]*
 
-## Intro [3 minutes]
+## Intro [5 minutes]
 
 Thank you for joining us today! My name is Nick, I'm a designer working on the VA.gov site, and I also have some colleagues on the line observing and taking notes. Today you are helping us simplify how Veterans find services on the VA.gov site. 
 
@@ -44,17 +44,13 @@ Before we get to the tasks you are helping us with today, a few things I want to
   - Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
   - [Work out any technical difficulties - worst case, run tasks on my screen while explaining them]
 
-## Usability tasks [~ 45 minutes]
+## Usability tasks [~ 35 minutes]
 
-### Task 1: tree test [~ 20 minutes]
-
-
-
-### Task 2: card sort [~ 20 minutes]
+### Task: card sort
 
 
 
-## Closing [3 minutes]
+## Closing [5 minutes]
 
 ### Post-research follow-up questions
 
