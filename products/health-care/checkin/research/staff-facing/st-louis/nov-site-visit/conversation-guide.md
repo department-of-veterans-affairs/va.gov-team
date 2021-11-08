@@ -1,7 +1,7 @@
 # Conversation Prompts for St. Louis Site Visit (11/10/2021)
 
 ## Target Roles:
-- Talked to MSA, MSA Supervisors, Nurse/Clinical Staff and Admins
+- Talk to MSA, MSA Supervisors, COVID Screener at front, Nurse/Clinical Staff and Admins
 - 
 ## MSA / Check-In Focus
 ### Environment
