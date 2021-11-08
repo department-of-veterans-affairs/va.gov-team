@@ -27,6 +27,38 @@ None
 
 </details>
 
+## Wednesday, November 10, 2021 
+
+### Key Grooming Factors:
+1. Breakdown User Stories into smaller tasks.
+2. Assign estimates and confirm team members are on the same page.
+3. Determine / Validate definition of DONE. 
+
+### Backlog Tickets:
+
+- [ ] [BUG] Google Analytics opt-out component #32587 (Update legacy code on all pages)
+- [ ] 
+
+### Future Work Grooming: 
+- Outreach & Events: Review wireframes, complete technical analysis, discuss FE build timeline. 
+     - Design --> Design Intent 10/29 
+     - Wireframes/Mockups 
+     - Usability Testing (Functional Prototype) screenreader testing as consideration for testing (Possible 2 rounds of testing depending on CMS dependency) 
+     - User research done in staging for screanreader 
+     - CMS model changes --> to support FE build and use in Staging 
+
+- Promo Banner Migration work: Starting thinking about this approach (Timing)
+     - Fully blocked by CMS to make this change. FE would just need a template (similiar to sitewide banner component). 
+     - Timing - When is CMS ready to impliment and support?  Would also need to update GraphQL, likely 5-8 point of work in a sprint. (Possibly 1x PR) 
+
+
+### Clarity Requests: 
+- @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
+
+### Dad Joke: What do you call a bee that lives in America? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+
+<details><summary>Past Grooming Sessions</summary>
+
 ## Friday, October 27, 2021 
 
 ### Key Grooming Factors:
@@ -59,10 +91,7 @@ None
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
-### Dad Joke: How do you fix a broken pumpkin? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
-
-<details><summary>Past Grooming Sessions</summary>
-
+  
 ## Friday, October 18, 2021 
 
 ### Key Grooming Factors:
@@ -823,6 +852,6 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-A pumpkin patch! :}.
+A USB :}.
 
 </details>
