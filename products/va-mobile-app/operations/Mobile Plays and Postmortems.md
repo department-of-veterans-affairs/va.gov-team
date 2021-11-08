@@ -8,11 +8,11 @@ There are a few overarching tips that are applicable across issues. Use your bes
 
 * When possible, work in the open.
 * When finished, contribute back to this list of plays.
-* It's often preferable to create a temporary Slack channel — instead of a direct message group — to address issues and maintain a historical record.
-* Check to see if the issue is impacting mobile, vets-api, or the wider VA. 
+* It's often preferable to create a temporary Slack channel – instead of a direct message group – to address issues and maintain a historical record. Use your best judgement on when to create a channel; when in doubt, work in the open.
+* Check to see if the issue is impacting mobile, vets-api, or the wider VA. If it's more than mobile, find the right people and inform them of the issue; never assume someone else will do the job.
 * Don't be afraid to escalate an issue.
 * Involve the Product Owner when working across teams.
-* Be a champion for your issue; squeaky wheels get fixed.
+* Be a champion for our issues; squeaky wheels get fixed.
 
 ## SSOe OAuth
 SSOe OAuth issues are a fairly common occurrence. They usually manifest themselves by one or more credential types not being able to sign in.
@@ -98,6 +98,6 @@ predict. But when it's DNS, you'll know it.
 
 # Postmortems
 The following table contains postmortems created by the mobile team.
-| Postmortem | About |
-| ---------- | ----- |
-| Name       | Text  |
+| Postmortem | Link |
+| :--------- | :--- |
+| Module Migrations | [Pull Request](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/334) (in progress) |
