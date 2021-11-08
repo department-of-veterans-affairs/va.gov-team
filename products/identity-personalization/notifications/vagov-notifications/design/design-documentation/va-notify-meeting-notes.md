@@ -48,82 +48,81 @@ Currently only the ‘trusted users’ can use this dashboard, hopefully will be
     - She has access to various services and will walk us through them
 
 - VA.gov
--   Profile info change
--   COVID-19 vaccine update confirmation
--       If you sign up on VA.gov for a vaccine, you get this conf email
--   Dir Dep update conf - compensation & pension
--   Dir Dep update conf - Education benefits
--   Expanded eligibility for COVID-19 - conf email for sigining up
--   Form 526ez email conf
--   Lighthouse On App connect
--   Lighhouse App Disconnect
+    - Profile info change
+    - COVID-19 vaccine update confirmation
+        - If you sign up on VA.gov for a vaccine, you get this conf email
+    - Dir Dep update conf - compensation & pension
+    - Dir Dep update conf - Education benefits
+    - Expanded eligibility for COVID-19 - conf email for sigining up
+    - Form 526ez email conf
+    - Lighthouse On App connect
+    - Lighhouse App Disconnect
 
 - VA Notify team 
--   Test items
+    - Test items
 
 - LightHouse
--   Moved On Application connect & disconnect to VA.gov
--   Higher-leverl Review email confirmation of receiginb the application
--   Submission for supplimentatal claim info (Coming soon, not yet available)
+    - Moved On Application connect & disconnect to VA.gov
+    - Higher-leverl Review email confirmation of receiginb the application
+    - Submission for supplimentatal claim info (Coming soon, not yet available)
 
 - DMC
--   Debt Notification
--       Email stating information is available from the debt mgmt center & person should go look at it online
--       Debt has gone to collections - triggers this email
+    - Debt Notification
+        - Email stating information is available from the debt mgmt center & person should go look at it online
+        - Debt has gone to collections - triggers this email
 
 - VeText
--   Alot of notifications here
--   BVA sends notifications through VeText
--       VA Notify is not yet source of choice for emails, still working on this
--   A bunch of COVID-19 updates, so there are quite a few notification templates here for each update needed
--       Team has asked re: Boosters, no word yet
--  SMS Prescription shipment tracking
--       Text message to Veteran with last 4 of Prescription Number, tracking link
--       Local VAMC, not (CBW?) - Not live at all facilities yet
--       This would be one item the team would need to go back to VeText for more details to send to us
--           Need to consider PHI limitations
--  Auto-responses
--       For users who text HELP, or STOP 
--   Board of Veteran appeals appointment reminders
--       Just started texting out responses for Physical and Virtual hearings
--           Confirm or cancel appt
--               includes Code for Veteran to respond with to Confirm or Cancel
--           Physical - Address of location of hearing, and link for More info
--           Virtual - date/time, reference to email that was sent, link for more info
--           
+    - Alot of notifications here
+    - BVA sends notifications through VeText
+        - VA Notify is not yet source of choice for emails, still working on this
+    - A bunch of COVID-19 updates, so there are quite a few notification templates here for each update needed
+        - Team has asked re: Boosters, no word yet
+    - SMS Prescription shipment tracking
+        - Text message to Veteran with last 4 of Prescription Number, tracking link
+        - Local VAMC, not (CBW?) - Not live at all facilities yet
+        - This would be one item the team would need to go back to VeText for more details to send to us
+            - Need to consider PHI limitations
+    - Auto-responses
+        - For users who text HELP, or STOP 
+    - Board of Veteran appeals appointment reminders
+        - Just started texting out responses for Physical and Virtual hearings
+            - Confirm or cancel appt
+                - includes Code for Veteran to respond with to Confirm or Cancel
+            - Physical - Address of location of hearing, and link for More info
+            - Virtual - date/time, reference to email that was sent, link for more info     
 
 
 - Maria shared their public [VA Notify GH board](https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/board?repos=133843125,261511794
 ) so we can see who they are talking to, requestors for services
--       Intake form with intake questions
--       SMS can be more challenging
--       Have to consider PII/PHI
--       There are 9 notifications they are working on now (in progress)
--       Working with Office of Connected Care and GI Bill
+    - Intake form with intake questions
+    - SMS can be more challenging
+    - Have to consider PII/PHI
+    - There are 9 notifications they are working on now (in progress)
+    - Working with Office of Connected Care and GI Bill
           
 - Maria shared spreadsheet with list of all forms on VA.gov
--   Talking with Jeff barnes and Chris at VA
--       All these products that exist on VA.gov
--       All of them have notification user journeys that need to occur
--       Imperitive to have a group of people that are going through these forms
--           Get confirmation emails
--           Status updates
--           Decision updates
--       May become a separate project for a separate team to work through this initiative    
-    -   
+    - Talking with Jeff barnes and Chris at VA
+        - All these products that exist on VA.gov
+        - All of them have notification user journeys that need to occur
+        - Imperitive to have a group of people that are going through these forms
+            - Get confirmation emails
+            - Status updates
+            - Decision updates
+        - May become a separate project for a separate team to work through this initiative    
+  
 - Tressa will sift through all info shared
--   MVP will be fairly light
--   Once MVP is determined, would look to VA Notify to share template
--       May be able to gain permissions in staging to view them
--       Variables can be infinite
--           VA Notify would need an agreement for no PII/PHI, otherwise unlimited
--           PII stored, PHI is not
--               example - First Name, email address, phone number = stored
--               Full content of notification stored for a week, then cleared
+    - MVP will be fairly light
+        - Once MVP is determined, would look to VA Notify to share template
+            - May be able to gain permissions in staging to view them
+            - Variables can be infinite
+                - VA Notify would need an agreement for no PII/PHI, otherwise unlimited
+                - PII stored, PHI is not
+                    - example - First Name, email address, phone number = stored
+                    - Full content of notification stored for a week, then cleared
 
 - MyVA would need to figure out how to display/store PHI
--       Does it make sense for VA Notify to get the PHI and send to MyVA?
--       Or should MYyA get it directly?
+    - Does it make sense for VA Notify to get the PHI and send to MyVA?
+    - Or should MYyA get it directly?
 
 
 ### Questions/Comments:
@@ -132,23 +131,23 @@ Currently only the ‘trusted users’ can use this dashboard, hopefully will be
 - MVP for My VA - confirmations not yet in scope, will be for future state
 
 - VeText sends reminders thru Trilio
--   Will send through VA Notify future state
--   VA Notify trying to get Trilio as vendor, which would be better for VeText
+    - Will send through VA Notify future state
+    - VA Notify trying to get Trilio as vendor, which would be better for VeText
 
 - Secure messages
--   Having convos with Mobile to develop channel for push notifications
--   Capability does not yet exist, not yet on Roadmap
--   Definitely a future scope
--   My VA may want these for On-Site
+    - Having convos with Mobile to develop channel for push notifications
+    - Capability does not yet exist, not yet on Roadmap
+    - Definitely a future scope
+    - My VA may want these for On-Site
 
 - Notification for Comp&Pen team
--   Finally have an intake with BIA team (creating query to pull data from Court DB tables about the payment)
--   Would be able to send info to Veteran on deposit amount, etc (about 6mo away at this time)
+    - Finally have an intake with BIA team (creating query to pull data from Court DB tables about the payment)
+    - Would be able to send info to Veteran on deposit amount, etc (about 6mo away at this time)
 
 - 2022 Year End - Status Updates
--   Challenging
+    - Challenging
 
 - Appointment reminders - email and messages (email and SMS)
--   VeText - Maria tagged us in a channel for intro 
+    - VeText - Maria tagged us in a channel for intro 
 
 
