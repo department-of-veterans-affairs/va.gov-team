@@ -14,7 +14,7 @@ Last updated October 22, 2021
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
-|Christina Gesnalske| Designer | ? |
+|Christina Gesnalske| Designer | christina.gednalske@adhocteam.us |
 |Zach Morel | FE Engineer | zach.morel@gcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
