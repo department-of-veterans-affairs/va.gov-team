@@ -44,7 +44,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 ### 2. Identity verification ([#31403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31403))
 
-- **Impacted sections:** personal and contact information (rest are hidden when this alert shows)
+- **Impacted sections:** account security (rest are hidden when this alert shows)
 
 - **What's changing:** alert state
 
