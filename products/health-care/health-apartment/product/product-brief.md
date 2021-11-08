@@ -103,20 +103,19 @@ Potential metrics:
 	- Has the same or more monthly active users
 	- Causes the same or less contact center support volume per user
 	- Has the same or lower story cycle time
-
+- Review MHV metrics and implement and track the same on va.gov in order to compare the flows and set benchmarks
+- Define happy and/or critical path tasks and measure:
+	- steps to get to path from va.gov
+	- daily active users
+	- drop off points
+	- started vs completed tasks
+	- time to complete task
+- Number of searches for content definied in the health space
 
 Notes: 
-Review MHV metrics to implement and track the same on va.gov in order to compare the flows and set benchmarks
-
-Harder to figure out metrics for PoC (versus main product). 
-
-PoC: This is not quantitative, but if need to measure, do survey with concept test and assess preference at end. Would need large sample size. Show concept versus MHV+VA.gov now.
-
-Findabililty: Test and prove this. If have empirical evidence to say X% of people go to MHV on VA.gov nav for health things. What to compare this to? Maybe compare something like appointments on each site. 
-
-Example success criterion: Reduce the amount of time to send a secure message. 
-
-MVP metrics: Define happy path or critical path tasks and measure daily active users in each task. Review MHV metrics to set benchmarks
+- Harder to figure out metrics for PoC (versus main product). 
+- PoC: This is not quantitative, but if need to measure, do survey with concept test and assess preference at end. Would need large sample size. Show concept versus MHV+VA.gov now.
+- Findabililty: Test and prove this. If have empirical evidence to say X% of people go to MHV on VA.gov nav for health things. What to compare this to? Maybe compare something like appointments on each site. 
 
 ## Risks
 
