@@ -89,7 +89,7 @@ Identity across the VA is complicated, and identity issues may manifest themslev
     <td>
       These issues will generally be one-off and specific to individual Veterans. However, if there is a larger identity 
       issue that we are the first to find, be sure to alert the Product Owner, post in #vsp-identity Slack, and follow up 
-      with a wider audience.
+      with a wider audience.<br/><br/>
       <ol>
         <li/>Isolate the problem. Is it specific to an individual, a group, or all Veterans? Is it specific to the mobile app, 
         or a va.gov-wide issue? Try to collect all the information you can.
