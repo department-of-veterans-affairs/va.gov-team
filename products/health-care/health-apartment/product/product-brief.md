@@ -99,13 +99,15 @@ Potential metrics:
 -	The proportion of Veterans using VA.gov OR MHV monthly does not decrease.
 -	The proportion of Veterans using VA.gov AND MHV monthly decreases.
 -	Within 6 months of moving into the apartment, each product that moved: 
--- Scores higher on [accessibility index]
--- Has the same or more monthly active users
--- Causes the same or less contact center support volume per user
--- Has the same or lower story cycle time
+  -	Scores higher on [accessibility index]
+  - Has the same or more monthly active users
+  - Causes the same or less contact center support volume per user
+  - Has the same or lower story cycle time
 
 
 Notes: 
+Review MHV metrics to implement and track the same on va.gov in order to compare the flows and set benchmarks
+
 Harder to figure out metrics for PoC (versus main product). 
 
 PoC: This is not quantitative, but if need to measure, do survey with concept test and assess preference at end. Would need large sample size. Show concept versus MHV+VA.gov now.
@@ -114,18 +116,17 @@ Findabililty: Test and prove this. If have empirical evidence to say X% of peopl
 
 Example success criterion: Reduce the amount of time to send a secure message. 
 
-MVP metrics (???): Define happy path or critical path tasks and measure daily active users in each task. 
+MVP metrics: Define happy path or critical path tasks and measure daily active users in each task. Review MHV metrics to set benchmarks
 
 ## Risks
 
-Thoughts so far: 
--	MO Studio team has not yet staffed up.
+-	Although MO Studio continues to hire and ramp up staff, a full team with required skillsets have not started on the project.
 -	Federal team needs an OCTO engineer + staff from OCC/My HealtheVet (skills needed from OCC are TBD). 
--	Complexity could bog us down. 
--	So many stakeholders, things in flight. 
--	We could further fragment the UX before simplifying it. 
--	Technical challenges, APIs. 
--	Cerner and Community Care. Will we get the APIs? Without APIs, the experience in the health apartment will be as fragmented as the experience is now: "If you're a patient at X Cerner facility, go through this 'door' (in the health apartment) to manage your health experience at X Cerner facility."
+-	Without clearly defining scope through a detailed roadmap, the complexity of the task could bog the team down.
+-	There are a lot of stakeholders within OCTO and OCC who require buy in, with a lot of things in flight, there is room for error if the checkins and sign offs aren't scheduled well in advance. 
+-	Without significant research and testing, the project could further fragment the UX before simplifying it.
+-	Without a tech lead and immense knowledge of VA's tech restraints and APIs, there are a lot of challenges and setbacks that could arise. 
+-	Outliers within Cerner and Community Care. If APIs aren't accessible for the MVP, the experience in the health apartment will be as fragmented as the experience is now: "If you're a patient at X Cerner facility, go through this 'door' (in the health apartment) to manage your health experience at X Cerner facility."
 
 
 
