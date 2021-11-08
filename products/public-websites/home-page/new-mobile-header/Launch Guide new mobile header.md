@@ -1,4 +1,4 @@
-# New Mobile Header Product Release Plan
+# New Mobile Header Product Launch Guide
 
 ## Pre-Release 
 
