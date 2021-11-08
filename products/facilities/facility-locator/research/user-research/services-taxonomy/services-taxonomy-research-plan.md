@@ -55,6 +55,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Caregiver support
     - COVID-19 vaccines
     - Grief and bereavement counseling
+    - Make an appointment
     - Military sexual trauma care
     - MOVE! weight management
     - My HealtheVet coordinator
@@ -86,6 +87,8 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Special environmental health registry evaluation programs for Veterans
     - Support groups
     - Walk-in drug or alcohol evaluation and treatment
+    - Report an issue
+    - Telephone care
 
 </details>
         
