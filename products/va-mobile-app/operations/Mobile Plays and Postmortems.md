@@ -1,7 +1,7 @@
 # Mobile Plays
-As we tackle issues and gain firefighting experience as team, we will undoubtably encounter repeats of similar issues. This section is an attempt to document plays containg steps or tips to fix those recurring issues.
+As a team, we must anticipate and prepare for major issues and common outages. And as we tackle issues and gain firefighting experience as team, we will undoubtably encounter common themes or repeats of similar issues. This section is an attempt to document plays containg steps or tips to fix those major issues, common outages, or recurring issues.
 
-Having an existing play does not abdicate you of your responsibility to follow the playbook and alert the proper people. But it should serve as a guide to help you more quickly resolve recurring problems.
+Having an existing play does not abdicate you of your responsibility to follow the playbook and alert the proper people. But it should serve as a guide to help you more quickly resolve problems.
 
 ## Overall Tips
 There are a few overarching tips that are applicable across issues. Use your best judgement on when to apply each.
@@ -13,6 +13,46 @@ There are a few overarching tips that are applicable across issues. Use your bes
 * Don't be afraid to escalate an issue.
 * Involve the Product Owner when working across teams.
 * Be a champion for our issues; squeaky wheels get fixed.
+
+
+## General Identity
+Identity across the VA is complicated, and identity issues may manifest themsleves in many ways. For example, problems may manifest as Veterans not being able to see their data once they're signed in, or as more complex scenarios where the wrong data is shown for a Veteran. This section addresses general identity issues; those specific to SSOe OAuth are covered in another play.
+
+<table>
+  <tr aligh="left">
+    <th>Manifestation</th>
+    <td>Problems usually manifest themselves as Veterans not being able to see their data once they're signed in, or as Veterans seeing the wrong data.</td>
+  </tr>
+  <tr align="left">
+    <th>Detection</th>
+    <td>
+      For these types of identity problems, we may be...
+      <ul>
+        <li/>alerted by the call center
+        <li/>informed of the issue in an app review
+        <li/>told of the issue through Slack
+      </ul>
+    </td>
+  </tr>
+  <tr align="left">
+    <th>Correction</th>
+    <td>
+      These issues will generally be one-off and specific to individual Veterans. However, if there is a larger identity 
+      issue that we are the first to find, be sure to alert the Product Owner, post in #vsp-identity Slack, and follow up 
+      with a wider audience.
+      <ol>
+        <li/>Isolate the problem. Is it specific to an individual, a group, or all Veterans? Is it specific to the mobile app, 
+        or a va.gov-wide issue? Try to collect all the information you can.
+        <li/>Alert the Product Owner and post the issue in #vsp-identity Slack. Be sure to add enough specifics that they 
+        can triage, but <i>do not</i> post PII in Slack. Only share PII through approved means.
+        <li/>If this issue happens outside of normal business hours and you deem it critical, you may post in the #oncall channel.
+        <li/>If the issue is widespread or could result in the exposure of Veterans data, alert a wider audience immediately. 
+        This should include the Product Owner and VA engineers (like Travis and Boris N or Thomas D).
+      </ol>
+    </td>
+  </tr>
+</table>
+
 
 ## SSOe OAuth
 SSOe OAuth issues are a fairly common occurrence. They usually manifest themselves by one or more credential types not being able to sign in.
