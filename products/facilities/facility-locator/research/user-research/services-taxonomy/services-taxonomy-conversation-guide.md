@@ -37,9 +37,9 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ## Warm-up [5 minutes]
 
-- **Today you're helping us out with two tasks: the first one is called a *tree test* (again, we're not testing *you*), and the second one is called a *card sort*.**
+- **Have you ever helped out a designer at the VA before, in any way?**
+- **Today you're helping us out with one main task; it's called a *card sort*.**
   - Have you ever heard of these before, or done one in the past?
-  - Have you ever helped out a designer at the VA before, in any way?
 - **In order to help us out today, you will need to share your screen - are you comfortable doing that today?**
   - Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
   - [Work out any technical difficulties - worst case, run tasks on my screen while explaining them]
@@ -48,7 +48,12 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ### Task: card sort
 
+- **First I'll explain how the card sort works**
+  - On the left side of your screen, there is a list of services that are offered at VAMC facilities.
+  - On the right side of your screen, are different ways to categorize those services.
+  - You can drag items from the list of services on the left, into any category you choose, on the right.
 
+***RUN CARD SORT***
 
 ## Closing [5 minutes]
 
