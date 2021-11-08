@@ -1,12 +1,22 @@
 # Incident Response and Operations
 
 ### Procedures
-In the event of an incident, please follow the relevant playbook or procedure outlined in the table below. All incidents that require the use of a playbook,  occur for a significant portion of the userbase, persist for a significant period of time, involve the security of a system or a Veteran's data, require out-of-team coordination to fix, or that require an out-of-band deployment shall be brought to the attention of the Product Owner and followed by a postmortem report.
+In the event of an incident, please follow the relevant playbook or procedure outlined in the table below. If any of the following conditions are met, notify the Product Owner and, once the incident is resolved, follow up with a postmortem report: 
+
+* Incident requires the use of a playbook
+* Occurs for a significant portion of the userbase
+* Persists for a significant period of time
+* Involves the security of a system or a Veteran's data
+* Requires out-of-team coordination to fix
+* Requires an out-of-band deployment
+
+For all other incidents, use your best judgement on who to notify and how to proceed. In addition to a postmortem report, if the incident is such that it may occur again in the future – or if it follows a theme common to incidents in the past – please add the incident and the steps to resolve it as a Mobile Incident Response Play.
+
 Procedure | Usage
 :-- | :--
 [Mobile Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/Mobile%20Incident%20Response%20Playbook.md) | Respond to mobile-specific incidents
 [Mobile Incident Response Plays](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/Mobile%20Plays%20and%20Postmortems.md) | Plays and postmortems for common incidents
-[VSP Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md) | Respond to VSP incidents impacting — but not limited to — mobile
+[VSP Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md) | Respond to VSP incidents impacting – but not limited to – mobile
 [Security Incident Procedure](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/Emergency%20Operating%20Procedures.md#SecurityIncident) | Respond to security incidents
 [VSP Out-of-band Deploy Process](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html#DeploymentPolicies-Requestingout-of-banddeploys) | Request out-of-band deploys for critical fixes
 [Postmortem Repository and Template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems) | File postmortems
