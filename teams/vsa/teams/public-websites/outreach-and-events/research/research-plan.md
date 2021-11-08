@@ -33,7 +33,6 @@ We will consider findings and recommendations from this research to refine our d
     1. What do Veterans expect to see as options for date range? 
 3. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
-    2. Are Veterans able to register for a whole series of recurring events?
 4. How do Veterans expect to look for VA events?
 5. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
     1. For in-person events, what specific information is expected? (i.e., is "city" enough information, or also want street address?)
@@ -44,7 +43,7 @@ We will consider findings and recommendations from this research to refine our d
 2. Seeing which events are recurring will enable Veterans to register for all events they're interested in
 
 ## Method	
-We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked some questions about their experiences attending VA events, and then they will use the new Outreach & Events design in a UXPin prototype to peruse the event listing of one-time and recurring events and register for some. 
+We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked about their experiences with VA events, and then they will be given tasks to do using a mobile design prototype in UXPin. 
 
 ### Future research plans
 We want to include some participants who use screen readers, but we will have to wait until we can build a "working prototype" on the Staging server. At that time, we plan to iterate this research with the following additions:
@@ -69,11 +68,12 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 - All are Veterans
 - At least 3 people 55 or older
 - At least 4 people with a cognitive disability (e.g., TBI)
-- All have a computer, tablet, or smartphone and are willing to be complete their interview on one of those devices 
-  - At least 4 people plan to use their smartphone for the interview
-  - During the session, all are willing to share a new web browser window on their device
-  - All have a working microphone on their device 
-  - All have Zoom downloaded to their device prior to the session and know how to share their screen
+- All have a smartphone and are willing to to join our Zoom call from their phone 
+  - All have a working microphone on their phone 
+  - All have the Zoom app downloaded to their phone prior to the session and know how to share their screen
+  - During the session, all are willing to share their browser window over Zoom
+
+*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone**, not a computer or tablet?*
 
 ### Secondary criteria (nice-to-haves)
 - At least 2 people of color
@@ -90,11 +90,11 @@ Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions
 ### Prepare
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: TBD
-* Date and time of pilot session: Nov TBD
+* Pilot participant email: Dave Sukharan (dave.sukharan@adhocteam.us)
+* Date and time of pilot session: Nov 19 and 22 at time TBD
 
 ### Research sessions
-Nov TBD-TBD, 2021 -- **UNKNOWN at this time because don't yet know when the prototype will be ready**
+Nov 29 - Dec 3, 2021 
 
 ### Length of sessions
 **60-minute sessions** with at least **30-minute breaks** in between
@@ -103,11 +103,11 @@ Nov TBD-TBD, 2021 -- **UNKNOWN at this time because don't yet know when the prot
 
 Team Availability | Time (EST)
 ------------------|--------------
-Nov XX, 2021 | Noon - 3 pm, 4 - 8 pm
-Nov XX, 2021 | Noon - 3 pm, 4 - 8 pm
-Nov XX, 2021 | Noon - 3 pm, 4 - 8 pm
-Nov XX, 2021 | Noon - 3 pm, 4 - 8 pm
-Nov XX, 2021 | Noon - 3 pm, 4 - 8 pm
+Nov 29, 2021 | 1:30 - 3 pm, 4 - 8 pm
+Nov 30, 2021 | Noon - 3 pm, 4 - 8 pm
+Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
+Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
+Dec 3, 2021 | Noon - 3 pm, 4 - 8 pm
 	
 ## Team Roles	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
