@@ -42,8 +42,9 @@ We spoke to SMEs in VHA and VBA; a specific list of individuals we spoke to is a
 
 2. Beneficiaries
 
-   - Anyone who is the direct recipient of a benefit or service from VA
-   - MPI knows whether or not someone is a VHA dependent **need to verify VBA**
+   - Anyone who is the direct recipient of a benefit or service from VA. This could be a Veteran, or a qualifying family member.
+   - Each benefit has specific qualifications to determine beneficiary eligibility. 
+   - MPI knows whether or not someone is a VHA beneficiary**need to verify VBA**
    - Beneficiary tasks are the same regardless of if they are a Veteran or a non-Veteran.
 
 3. Caregivers
@@ -61,6 +62,7 @@ We spoke to SMEs in VHA and VBA; a specific list of individuals we spoke to is a
    - This language is used in VHA to refer to people who have been assigned delegate authority per the request of a Veteran
    - This person has been vetted by VA
    - Delegates have access to their own account, and act on behalf of the Veteran, in MHV and some VA Mobile Apps
+   - Delegates are added to IAM and MPI
 
 5. Veteran Advocates
 
@@ -78,7 +80,3 @@ We spoke to SMEs in VHA and VBA; a specific list of individuals we spoke to is a
    - State cemeteries (one-time payments)
    - Possible use cases for these users would be to see payment history and status, as well as file claims for reimbursement.
    - Burial claims can already be submitted electronically through eBenefits.
-
-   
-
-   
