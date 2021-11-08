@@ -46,43 +46,58 @@ Our two main goals are:
 
 This study will utilize a moderated card sort, via [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools. The card sort allows participants to arrange services into the categories they think fit them best, or, to create new categories if the existing categories aren't a good fit.
 
-**[!!! THIS TREE TEST MAY NEED TO BE REMOVED FOR THIS STUDY & CARD SORT EXPANDED]**
-
 - **TASK:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
-        <details>
-        <summary>Card sort services list</summary>
-    
-            - Advice nurse
-            - Caregiver support
-            - Grief and bereavement counseling
-            - My HealtheVet coordinator
-            - Patient advocates
-            - Registry exams
-            - Returning service member care
-            - Social work
-            - Telehealth
-            - Travel reimbursement
-            - Veteran connections
-            - Vocational rehabilitation and employment programs
-            - Wheelchair and mobility
-            - Whole health
-            - Women Veteran care
-            - Workshops and classes
-            - Applying for health care
-            - Billing and insurance
-            - Chaplain service
-            - Employment verification
-            - FOIA Requests
-            - Hearing aids
-            - Library services
-            - Mammograms
-            - Medial records
-            - Privacy office
-            - Special environmental health registry evaluation programs for Veterans
-            - Support groups
-            - Walk-in drug or alcohol evaluation and treatment
+<details>
+<summary>Card sort services list</summary>
 
-        </details>
+    - Advice nurse
+    - Caregiver support
+    - Grief and bereavement counseling
+    - My HealtheVet coordinator
+    - Patient advocates
+    - Registry exams
+    - Returning service member care
+    - Social work
+    - Telehealth
+    - Travel reimbursement
+    - Veteran connections
+    - Vocational rehabilitation and employment programs
+    - Wheelchair and mobility
+    - Whole health
+    - Women Veteran care
+    - Workshops and classes
+    - Applying for health care
+    - Billing and insurance
+    - Chaplain service
+    - Employment verification
+    - FOIA Requests
+    - Hearing aids
+    - Library services
+    - Mammograms
+    - Medial records
+    - Privacy office
+    - Special environmental health registry evaluation programs for Veterans
+    - Support groups
+    - Walk-in drug or alcohol evaluation and treatment
+
+</details>
+        
+        
+<details>
+<summary>Card sort categories list</summary>
+
+    - Primary care
+    - Mental health care
+    - Specialty care
+    - Social programs and services
+    - Prepare for your visit
+    - Navigating the VA
+    - Manage your health care
+    - Ways to access health care
+    - People that can help me
+    - * Add a new category *
+
+</details>
 
 ## Recruitment and participants
 
