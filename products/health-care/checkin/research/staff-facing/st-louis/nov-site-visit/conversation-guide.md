@@ -2,7 +2,7 @@
 
 ## Target Roles:
 - Talk to MSA, MSA Supervisors, COVID Screener at front, Nurse/Clinical Staff and Admins
-- 
+
 ## MSA / Check-In Focus
 ### Environment
 - What signs/instructions are on display outside the building or in the parking area?
