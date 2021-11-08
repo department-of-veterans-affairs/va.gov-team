@@ -1,6 +1,6 @@
 # Profile alert improvements
 
-**Last updated:** 10/18/21
+**Last updated:** 11/08/21
 
 **Status:** pending content review in [#30265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30265)
 
