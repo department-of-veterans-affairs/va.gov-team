@@ -102,7 +102,7 @@ We need to include stakeholders from VBA but have not yet done so.
 	- Has the same or more monthly active users
 	- Causes the same or less contact center support volume per user
 	- Has the same or lower story cycle time
-- Review MHV metrics and implement and track the same on va.gov in order to compare the flows and set benchmarks
+- Review MHV metrics and implement and track the same on va.gov in order to compare the flows and set benchmarks.
 - Define happy and/or critical path tasks and measure:
 	- steps to get to path from va.gov
 	- daily active users
@@ -110,7 +110,7 @@ We need to include stakeholders from VBA but have not yet done so.
 	- started vs completed tasks
 	- time to complete task
 - Number of searches for content definied in the health space
-- Performance of the site. Number of timeouts, outages, down time.
+- Performance of the site (number of timeouts, outages, down time)
 - Authenticated vs Unauthentiated actions
 - Number of veterans who successfully sign up for health benefits on va.gov
 
@@ -122,7 +122,7 @@ Notes:
 ## Risks
 
 -	Although MO Studio continues to hire and ramp up staff, a full team with required skillsets have not started on the project.
--	Federal team needs an OCTO engineer + staff from OCC/My HealtheVet (skills needed from OCC are TBD). 
+-	Federal team needs an OCTO engineer + staff from OCC / My HealtheVet (skills needed from OCC are TBD). 
 -	Without clearly defining scope through a detailed roadmap, the complexity of the task could bog the team down.
 -	There are a lot of stakeholders within OCTO and OCC who require buy in, with a lot of things in flight, there is room for error if the checkins and sign offs aren't scheduled well in advance. 
 -	Without significant research and testing, the project could further fragment the UX before simplifying it.
