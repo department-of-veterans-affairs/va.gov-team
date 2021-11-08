@@ -53,7 +53,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
   - On the right side of your screen, are different ways to categorize those services.
   - You can drag items from the list of services on the left, into any category you choose, on the right.
 
-***RUN CARD SORT***
+** **RUN CARD SORT** **
 
 ## Closing [5 minutes]
 
