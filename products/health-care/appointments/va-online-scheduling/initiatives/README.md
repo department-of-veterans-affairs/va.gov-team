@@ -5,6 +5,9 @@ This folder contains documentation for larger-scale projects. Below is a timelin
 
 ### 2021
 
+**August**
+- August 9, 2021 - Direct scheduling re-enabled on Production for all users
+
 **July**
 - July 20, 2021 - Homepage Refresh launch
 
