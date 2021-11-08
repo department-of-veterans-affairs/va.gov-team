@@ -1,30 +1,48 @@
-## [NAME] | [ORGANIZATION / SYSTEM]
+# [NAME] | [ORGANIZATION / SYSTEM]
 
-Month d, yyyy
+_Month d, yyyy_
 
-ROLES
-● Moderator:
-● Note Taker / technical lens:
-● Note Taker / UX lens:
-● Screenshots:
+---
 
+**ROLES**
 
-AGENDA 
-● Intro
-● Health Apartment context
-● Background on [organization / system]
-  ○ Additional Questions
-● Available resources 
-● Challenges, recommendations, and considerations
+- Moderator:
+
+- Note Taker / technical lens:
+
+- Note Taker / UX lens:
+
+- Screenshots:
 
 
-PRESENT 
+---
+
+**AGENDA**
+
+- Intro
+
+- Health Apartment context
+
+- Background on [organization / system]
+
+    - Additional Questions
+  
+- Available resources 
+
+- Challenges, recommendations, and considerations
+
+---
+
+
+## PRESENT
 
 Introductions (Ask for consent to record)
 
 How familiar are you with the health apartment concept? 
 
-Background on [organization / system]?[Questions specific to this team (APIs, FE, BE)]
+Background on [organization / system]?
+
+[Questions specific to this team (APIs, FE, BE)]
 
 Any resources (diagrams, anything that simplifies the process of explaining this to the non technical folks on our team)
 
