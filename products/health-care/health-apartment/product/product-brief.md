@@ -95,7 +95,6 @@ We need to include stakeholders from VBA but have not yet done so.
 
 ## Measuring success 
 
-Potential metrics: 
 -	The proportion of Veterans using VA.gov OR MHV monthly does not decrease.
 -	The proportion of Veterans using VA.gov AND MHV monthly decreases.
 -	Within 6 months of moving into the apartment, each product that moved: 
@@ -111,6 +110,7 @@ Potential metrics:
 	- started vs completed tasks
 	- time to complete task
 - Number of searches for content definied in the health space
+- Performance of the site. Number of timeouts, outages, down time.
 
 Notes: 
 - Harder to figure out metrics for PoC (versus main product). 
