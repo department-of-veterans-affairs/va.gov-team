@@ -34,8 +34,8 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79)
 - Design & Research:
   - [Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9)
+  - [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9)
 - Engineering:
-  - [Jeff Balboni](https://dsva.slack.com/team/U1YQCT1V3)
   - [Corey Ferris](https://dsva.slack.com/team/U01F5F6V8QN)
   - [Brad Gross](https://dsva.slack.com/team/U0188D5JV71)
   - [AJ Magbud](https://dsva.slack.com/team/UUW4NUCM7)
