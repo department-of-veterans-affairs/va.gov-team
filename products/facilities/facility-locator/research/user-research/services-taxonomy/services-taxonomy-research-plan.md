@@ -48,37 +48,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 **[!!! THIS TREE TEST MAY NEED TO BE REMOVED FOR THIS STUDY & CARD SORT EXPANDED]**
 
-- **TASK 1:** Participants will perform a tree test with new and existing services, with the currently existing category headings.
-    <details>
-    <summary>Tree test headings "tree"</summary>
-    
-        - Primary care
-        - Mental health care
-        - Specialty care
-        - Social programs and services
-        - Prepare for your visit
-        - ("Another category not in this list")
-    
-    </details>
-    
-    
-    <details>
-        <summary>Tree test services list</summary>
-
-        - Applying for healthcare
-        - Chaplain service
-        - Hearing aids
-        - Medical records
-        - Support groups
-        - Advice nurse
-        - Telehealth
-        - Veteran connections
-        - Women veteran care
-        - Workshops and classes
-
-    </details>
-
-- **TASK 2:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
+- **TASK:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
         <details>
         <summary>Card sort services list</summary>
     
