@@ -44,7 +44,7 @@ Our two main goals are:
   
 ## Methodology
 
-This study will utilize a moderated card sort and tree test, using [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools. The tree test allows us to see if Veterans want to create new service categories, and the card sort allows them to create those categories.
+This study will utilize a moderated card sort, via [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools. The card sort allows participants to arrange services into the categories they think fit them best, or, to create new categories if the existing categories aren't a good fit.
 
 **[!!! THIS TREE TEST MAY NEED TO BE REMOVED FOR THIS STUDY & CARD SORT EXPANDED]**
 
