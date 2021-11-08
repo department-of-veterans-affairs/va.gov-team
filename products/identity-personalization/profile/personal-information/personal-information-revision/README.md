@@ -73,10 +73,8 @@ OKRs and KPIs TBD
 
 We will be incorporating the following metrics into the VA.gov profile: preferred name, pronouns, gender identity, and sexual oritentation. Additional details:
 
-- This will be supported by the **VA Profile backend**.
-- These data points currently exist in MPI but not in VA Profile, so VA Profile will need to implement these data points and establish a read/write relationship with MPI. 
-- VA Profile will be beginning this work along with us in Fall 2021, so our timeline for this work is dependent on completion of the integration of this data into the VA Profile backend.
-- As a result, the auth experience will begin and complete as much of the design and fronted aspects of this work as we can while the backend is being built. We'll then integrate with the backend and complete all necessary testing and collab cycle processes before launching this work into production.
+- This will be supported by MPI as these these data points currently exist in MPI.
+- We will begin the front-end work as soon as the designs are finalized, and the back-end work to connect with MPI will follow shortly thereafter, depending upon BE engineer availability since the Profile team does not have a dedicated BE engineer.
 
 ## Key deliverables
 
