@@ -185,7 +185,7 @@ _In no particular order_
 
 ## Other supporting documents created
 
-* Discussion guide
+* [Discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/discussion_guide.md)
 * Debrief document
 
 ## Who we talked to (so far)
