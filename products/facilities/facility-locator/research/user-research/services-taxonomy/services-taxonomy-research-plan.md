@@ -19,9 +19,9 @@ As part of the effort to align benefits and services across VAMC pages, we need 
 
 ### Goals
 
-Our two main goals are:
+Our main goal are:
 - To determine how Veterans would categorize existing and newly identified services
-- To determine how Veterans expect to find information about these services while navigating VAMC pages
+- To determine what new categories, if any, are needed
 
 ### Research Questions
 
