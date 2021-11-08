@@ -1,7 +1,7 @@
 # New Mobile Header Release Plan 
 ---
 
-## Phase I: UAT
+## Phase I: UAT (Not in scope for this initiative)
 
 ### Planning:
 No planned UAT.  Plan is to launch to 5% of users and compare and contrast (A/B Test) user behaviors in relation to new mobile header usage.  An [analtyics baseline](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28225) has been created in support. 
