@@ -107,6 +107,7 @@ Do you see the link?
 Imagine that...
 
 **DRAFT TASK IDEAS:**
+overall: peruse the event listing of one-time and recurring events and register for some 
 
 Find an event and sign up to attend when it's convenient for you
 - filter by date range
