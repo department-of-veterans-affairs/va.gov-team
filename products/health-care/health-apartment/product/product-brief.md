@@ -6,17 +6,17 @@ To get the health care they need, Veterans must find, register for, and learn to
 Consider booking a doctor’s appointment: One system locates nearby facilities. Another schedules appointments. Another handles follow-ups like messages and prescriptions. And another reimburses travel expenses. That’s a lot for Veterans to learn. It’s also difficult for VA staff to support so many siloed systems.
 
 ## Mission
-The Health Apartment Team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov, which we have nicknamed the “health apartment.” As we consolidate the health experience, we will work closely with My HealtheVet/Office of Connected Care (OCC) and with teams throughout OCTO.
+The Health Apartment Team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov, which we have nicknamed the “health apartment.” As we consolidate the health experience, we will work closely with My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
 Throughout our agile development cycles, we will validate and refine the health apartment to ensure that it meets the needs of Veterans and caregivers – and that it’s usable and accessible. This will take a lot of collaboration with the Health Apartment Working Group, the My HealtheVet Team, the Sitewide and Account Experience Crews, and other product teams in OCC and OCTO. 
 
 **In the short term,** we will build a proof of concept to test our assumptions about how to unify and streamline the health experience for Veterans. We will iterate on the proof of concept (and its findability) until we have a human-centered design as our starting point for integrating My HealtheVet into VA.gov.
 
-After iterating on the proof of concept, the health apartment will be “baked” enough to define an MVP for bringing My HealtheVet into VA.gov. Currently we envision the MVP to include the “big four” areas of functionality now on My HealtheVet: Appointments, Pharmacy, Secure Messaging, and Records. In thinking about the MVP, we will consider how to integrate the Health Care hub and My HealtheVet Profile into the health apartment and VA.gov. 
+After iterating on the proof of concept, the health apartment will be “baked” enough to define an MVP for bringing My HealtheVet into VA.gov. Currently, we envision the MVP to include the “big four” areas of functionality now on My HealtheVet: Appointments, Pharmacy, Secure Messaging, and Records. As we think about the MVP, we will consider how to integrate the Health Care hub and My HealtheVet Profile into the health apartment and VA.gov. 
 
 **In the middle term,** we will build and ship the MVP. It will be a beta site, separate from VA.gov. We will devise a strategy for sharing the health apartment beta with Veterans. For example, we could offer it to a small number of Veterans as opt-in, then open it to a larger number of Veterans as opt-out, expanding the number of users over time. A key aspect of designing and building the MVP will be devising a linking strategy between the health apartment, My HealtheVet, parts of VA.gov related to health, and the VA.gov flagship mobile app.
 
-**Over the long term,** we will expand the health apartment MVP beta, one section at a time. We’ll prioritize and sequence what will move into the apartment by leveraging analytics and user research. Working in quick cycles and across teams, as we build the apartment, section by section, we’ll determine when the beta site should move into VA.gov. Once all content and functionality we want in the health apartment has been moved into it, My HealtheVet will no longer exist as a separate website. And Veterans will have just one place to go for their health needs, a single health “home” on VA.gov.
+**Over the long term,** we will expand the health apartment MVP beta, one section at a time. We’ll prioritize and sequence what will move into the apartment by leveraging analytics and user research. Working in quick cycles and across teams, as we build the apartment section by section, we’ll determine when the beta site should move into VA.gov. Once all content and functionality we want in the health apartment has been moved into it, My HealtheVet will no longer exist as a separate website and Veterans will have just one place to go for their health needs: a single health “home” on VA.gov.
 
 ## Vision 
 We aim to reduce the number of websites, products, and interfaces Veterans must use in order to get health care and manage their health — and we aim to make those experiences easy and intuitive. In a single place on VA.gov, Veterans will be able to manage all interactions with VA related to health, plus learn about health conditions and health news. Interactions that cross VA.gov, the VA.gov flagship mobile app, email, text messages, and VA facilities will be seamless.
@@ -31,15 +31,15 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 -	Engineering: TBD
 
 **Contractors from MO Studio and its partners**
-- Jeff Scheire (CEO of MO)
+- Jeff Scheire (CEO, MO Studio)
 - Paula Mendoza (UX)
 - Nadya Primak (FE engineering, also some BE)
 - Jared Cooke (FE engineering)
-- Product manager: TBD
-- UX design lead: TBD
-- UX designer: TBD - RE: the 2 UX designers - Need these skills: user research (priority), service design (priority). Visual design skills needed, too.
-- Delivery manager: TBD - This person is a writer, communicator, organizer. Skilled in internal comms and product documentation. Not running the scrum.
-- Content strategist + plain language writer: TBD - Supports Meg in working on IA and content strategy.
+- TBD (product manager)
+- TBD (UX design lead)
+- TBD (UX designer) - Re: the 2 UX designers, need these skills: user research (priority), service design (priority). Visual design skills needed, too.
+- TBD (delivery manager) - This person is a writer, communicator, organizer. Skilled in internal comms and product documentation. Not running the scrum.
+- TBD (content strategist + plain language writer) - Supports Meg in working on IA and content strategy.
 
 ## Stakeholders
 Most of the folks below are product people. Roles show next to names of non-product people (some items are not products). Everyone is a fed unless identified as a contractor. 
@@ -84,7 +84,7 @@ Crew chief: Dave Conlon
 -	Acting Head of OCC: Dr. Kathy Frisbee
 -	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
 -	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
--	Management analyst: Carnetta Scruggs (Engineering background. Think she's VHA, outside of OCC/MHV.)
+-	Management analyst: Carnetta Scruggs (Engineering background. Think she's VHA, outside of OCC / MHV.)
 
 ### VBA 
 We need to include stakeholders from VBA but have not yet done so. 
