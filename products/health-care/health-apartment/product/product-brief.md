@@ -111,6 +111,8 @@ We need to include stakeholders from VBA but have not yet done so.
 	- time to complete task
 - Number of searches for content definied in the health space
 - Performance of the site. Number of timeouts, outages, down time.
+- Authenticated vs Unauthentiated actions
+- Number of veterans who successfully sign up for health benefits on va.gov
 
 Notes: 
 - Harder to figure out metrics for PoC (versus main product). 
