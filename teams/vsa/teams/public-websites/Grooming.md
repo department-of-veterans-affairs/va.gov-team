@@ -37,7 +37,7 @@ None
 ### Backlog Tickets:
 
 - [ ] [BUG] Google Analytics opt-out component #32587 (Update legacy code on all pages)
-- [ ] 
+- [ ] [BUG] VA Facility and Status Updates Banner Dismissible function misaligned (Safari) #32630
 
 ### Future Work Grooming: 
 - Outreach & Events: Review wireframes, complete technical analysis, discuss FE build timeline. 
