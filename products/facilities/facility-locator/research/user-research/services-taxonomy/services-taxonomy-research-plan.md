@@ -57,6 +57,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - MOVE! weight management
     - My HealtheVet coordinator
     - Patient advocates
+    - Recreation and creative arts therapy
     - Registry exams
     - Returning service member care
     - Social work
