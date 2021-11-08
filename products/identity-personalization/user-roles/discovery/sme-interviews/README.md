@@ -11,8 +11,8 @@ We're interviewing SMEs within VA administrations to learn more about administra
 | Tiffany Puckett, Matt Brown, Tammy Scott, Margaret Featherston, Rebecca Bixler, Hollie Speer | VHA            | Caregivers                      | 11/16          |            |               |
 | Meg Kabat                                                    | VHA            | Families, Caregivers, Survivors | 11/3           |  yes  |               |
 | Scott Fagan, Hope Coleman, Reginald Campbell                 | VBA            | Compensation Service            | 11/3           | yes |               |
-| Jennifer Feuer, Terrence Minyard, Jennifer Copeland, Thomas (Tommy) Lee, Michael (Mike) Hart | VBA            | Pension & Fiduciary             | 11/5           |            |               |
-| Camille Tello, Nick Braddock, Vivian Bogue                   | VBA            | Office of Business Integration  | 11/5           |            |               |
+| Jennifer Feuer, Terrence Minyard, Jennifer Copeland, Thomas (Tommy) Lee, Michael (Mike) Hart | VBA | Pension & Fiduciary | 11/5| yes |               |
+| Camille Tello, Nick Braddock, Vivian Bogue                   | VBA            | Office of Business Integration  | 11/5           | yes |               |
 | Carnetta Scruggs                                             | VHA            | My HealtheVet                   | 11/1           | yes  |               |
 |                                                              |                |                                 |                |            |               |
 |                                                              |                |                                 |                |            |               |
