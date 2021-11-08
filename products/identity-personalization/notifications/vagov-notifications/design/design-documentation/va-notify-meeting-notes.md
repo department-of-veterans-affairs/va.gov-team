@@ -37,3 +37,6 @@ Currently only the ‘trusted users’ can use this dashboard, hopefully will be
     - Templates should live in VA Notify. 
 - We want more personalization than what VA notify currently shows.
 - We need to set up a more regular cadence to figure out the right path moving forward. 
+
+
+## November 8, 2021
