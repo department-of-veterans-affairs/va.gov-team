@@ -88,7 +88,7 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 
 - June 2021: Request made to the VA.gov auth experience team
 - October 2021: New profile team onboarded and project kickoff
-- Fall 2021: Back end begins integration with MPI
+- Fall 2021: User testing on interface designs; back end begins integration with MPI
 
 ## Screenshots
 
