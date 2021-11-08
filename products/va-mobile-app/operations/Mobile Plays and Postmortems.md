@@ -14,7 +14,9 @@ There are a few overarching tips that are applicable across issues. Use your bes
 * Involve the Product Owner when working across teams, when the issue impacts a large number of Veterans, or when there is a security or information breach.
 * Be a champion for our issues; squeaky wheels get fixed.
 
-## App Crash
+## Plays
+
+### App Crash
 App crashes occur for a wide variety of reasons with a wide variety of consequences. Some must be immediately addressed, while others can wait to be fixed until the next on-cycle deploy.
 
 <table>
@@ -63,7 +65,7 @@ App crashes occur for a wide variety of reasons with a wide variety of consequen
   </tr>
 </table>
 
-## General Identity
+### General Identity
 Identity across the VA is complicated, and identity issues may manifest themsleves in many ways. For example, problems may manifest as Veterans not being able to see their data once they're signed in, or as more complex scenarios where the wrong data is shown for a Veteran. This section addresses general identity issues; those specific to SSOe OAuth are covered in another play.
 
 <table>
@@ -102,7 +104,7 @@ Identity across the VA is complicated, and identity issues may manifest themslev
 </table>
 
 
-## SSOe OAuth
+### SSOe OAuth
 SSOe OAuth issues are a fairly common occurrence. They usually manifest themselves by one or more credential types not being able to sign in.
 
 <table>
@@ -142,7 +144,7 @@ SSOe OAuth issues are a fairly common occurrence. They usually manifest themselv
   </tr>
 </table>
 
-## DNS
+### DNS
 Though rare, we do encounter DNS issues from time to time. They manifest in many different ways that are almost impossible to 
 predict. But when it's DNS, you'll know it.
 
@@ -184,7 +186,7 @@ predict. But when it's DNS, you'll know it.
   </tr>
 </table>
 
-# Postmortems
+## Postmortems
 The following table contains postmortems created by the mobile team.
 | Postmortem | Link |
 | :--------- | :--- |
