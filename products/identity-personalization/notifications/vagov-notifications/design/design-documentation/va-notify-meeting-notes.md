@@ -42,6 +42,8 @@ Currently only the ‘trusted users’ can use this dashboard, hopefully will be
 ## November 8, 2021 - Auth Exp <>VA Notify - Discuss available notifications and My VA needs
 - Maria, Beverly, Natasha, Tressa, Heather, AJ
 - Session is recorded
+    - https://us06web.zoom.us/rec/share/gT65R5N3nfLSU9D9xVC7718g0wIkBqEPHtaa-Qt2za5iwqK8mQ0apDLmB86R6dUJ.xvEmUQV9hmGVfM-j 
+    - Passcode: @J^HchG2
 
 ### What Notifications are available in CMS?
 - Maria is sharing the staging environment
