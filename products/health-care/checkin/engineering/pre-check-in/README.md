@@ -9,7 +9,7 @@
 1. Confirmation/Invalidate of users Demographics and Next of Kin
 2. Do not show the Demographics/NoK on the day of check in
 3. Show the Staff that there is a update needed.
-
+<!-- 
 --------RANDOM NOTES BELOW THIS LINE--------
 
 []: # Language: markdown
@@ -80,4 +80,4 @@ We are displaying demographics
   - Posting confirm/not confirm to CHIP
   - not showing confirm page for day of
 
-- Aoppointment cancelled
+- Aoppointment cancelled -->
