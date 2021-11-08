@@ -5,6 +5,7 @@
 - 
 ## MSA / Check-In Focus
 ### Environment
+- What signs/instructions are on display outside the building or in the parking area?
 - What does the space look like? How is it arranged (waiting area & check-in desk, etc)
 - What is the capacity of the waiting area, is it full?
 - Do people wait in line frequently?
