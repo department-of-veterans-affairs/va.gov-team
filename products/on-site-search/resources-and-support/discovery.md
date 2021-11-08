@@ -62,24 +62,18 @@ Detailed analysis of each component on the R&S article page is available on the 
 Google Analytics reports from Jan 1, 2021 – Oct 1, 2021
 
 
-| <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D&_r.drilldown=analytics.eventLabel:cta-button-click/">CTA</a>| <a href="160,020">Searches</a> |  <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Link%20List%20-%20Related%20information%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">Related Links</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Link%20List%20-%20VA%20benefits%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">VA Benefits</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Page%20Content%20Tag%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">Tags</a> |
+| <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D&_r.drilldown=analytics.eventLabel:cta-button-click/">CTA**</a>| <a href="160,020">Searches</a> |  <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Link%20List%20-%20Related%20information%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">Related Links</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Link%20List%20-%20VA%20benefits%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">VA Benefits</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Navigation%20-%20Page%20Content%20Tag%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22www.va.gov~2Fresources%22,0%5D%5D/">Tags</a> |
 | --- | --- | --- | --- | --- |
 | 322,789 Unique Hits | 61,355 Unique Searches\* | 51,571 Unique Hits | 19,029 Unique Hits | 10,029 Unique Hits |
 | Percent of Total: 0.06% | -- | Percent of Total: 0.01% | Percent of Total: 0.00% | Percent of Total: 0.00% |
 
 (\*160,020 Unique Searches for **all** of Resources and Support)
 
-Of note, click through rate for CTAs fell significantly after CTA buttons were converted to links:
+**Of note, all CTAs were converted to links on Sept 2 and later converted to action links on Sept 17. CTA tracking on buttons stops on Sept 1. CTA tracking on action links begins on Sept 17 using <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210917&_u.date01=20211101&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Action%20Link%20CTA%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22va.gov~2Fresources%22,0%5D%5D/">this GA tracking link</a>. 
 - <a href="https://github.com/department-of-veterans-affairs/content-build/pull/503">PR: Remove button styling from links, **merged on Sept 2** </a>
 - <a href="https://github.com/department-of-veterans-affairs/content-build/pull/560">PR: Update links to action links, **merged on Sept 17**</a>
-
-<img width="338" alt="ctr-cta-sept" src="https://user-images.githubusercontent.com/5553542/138931290-b1d6cb62-dd83-4904-9038-2322049c4844.png">
-
-CTR on September 1: **2,732**
-
-CTR on September 4: **148**
-
 <br>
+
 
 ### Sign ins
 
@@ -100,7 +94,7 @@ This report pulls in a count of all GA events for Profile navigation and changes
 <img width="970" alt="domo-profile" src="https://user-images.githubusercontent.com/5553542/138745586-ba29a162-c614-4031-886b-6aec87a6914a.png">
 
 
-## Mockups
+## Mockups - Potential improvements
 <details>
   <summary>Current design (click to expand)</summary>
 <img src="https://user-images.githubusercontent.com/5553542/139905911-6a5b51d4-cc5a-4af9-831e-9a7fa724ec19.png" width="400">
