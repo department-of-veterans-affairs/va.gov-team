@@ -2,7 +2,6 @@
 
 ## Target Roles:
 - Talk to MSA, MSA Supervisors, COVID Screener at front, Nurse/Clinical Staff and Admins
-- 
 ## MSA / Check-In Focus
 ### Environment
 - What signs/instructions are on display outside the building or in the parking area?
@@ -19,7 +18,7 @@
 	- If using multiple tools is possible for a single activity, why do staff use the tool they use? 
 	- How often do tools malfunction? What do staff do when that happens?
 - What order do activities happen in? 
-	- How does that change by appointment type? Primary, PT, etc. 
+	- How might it vary by appointment type? Primary, PT, etc. 
 - What makes a check-in interaction take longer? 
 - How do staff perform pre-registration (contact info, address, insurance, etc) ?
 	- What language do they use for this task? What program do they use to enter this information?
