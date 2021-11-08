@@ -99,10 +99,10 @@ Potential metrics:
 -	The proportion of Veterans using VA.gov OR MHV monthly does not decrease.
 -	The proportion of Veterans using VA.gov AND MHV monthly decreases.
 -	Within 6 months of moving into the apartment, each product that moved: 
-  -	Scores higher on [accessibility index]
-  - Has the same or more monthly active users
-  - Causes the same or less contact center support volume per user
-  - Has the same or lower story cycle time
+-	  Scores higher on [accessibility index]
+-	  Has the same or more monthly active users
+-	  Causes the same or less contact center support volume per user
+--Has the same or lower story cycle time
 
 
 Notes: 
