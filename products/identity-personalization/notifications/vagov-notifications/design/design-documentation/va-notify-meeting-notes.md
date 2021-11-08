@@ -65,8 +65,8 @@ Currently only the ‘trusted users’ can use this dashboard, hopefully will be
 
 - LightHouse
     - Moved On Application connect & disconnect to VA.gov
-    - Higher-leverl Review email confirmation of receiginb the application
-    - Submission for supplimentatal claim info (Coming soon, not yet available)
+    - Higher-lever Review email confirmation of receiving the application
+    - Submission for supplimental claim info (Coming soon, not yet available)
 
 - DMC
     - Debt Notification
