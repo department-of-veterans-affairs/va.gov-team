@@ -1,17 +1,8 @@
 # Conversation Prompts for St. Louis Site Visit (11/10/2021)
 
-## Target Clinics:
-- Check-in staff at at least 1 high volume scheduled appt clinic:
-	- Primary Care, Mental Health, Women's Health, Physical Medicine & Rehab (PM&R)
-- Nurse / LVN at at least 1 high volume scheduled appt clinic (can be different from check-in staff convo):
-	- Primary Care, Mental Health, Women's Health, Physical Medicine & Rehab (PM&R)
-- Lab 
-- Radiology
-- At least 1 clinic with unique check in process:
-	- Pharmacy, enrollment, or other unique process (or a clinic not under management of HAS/MAS)
-- At least 1 clinic providing care to Vets with accessibility needs:
-	- Audiology, ENT, Optometry, Ophthalmology, PM&R
-
+## Target Roles:
+- Talked to MSA, MSA Supervisors, Nurse/Clinical Staff and Admins
+- 
 ## MSA / Check-In Focus
 ### Environment
 - What does the space look like? How is it arranged (waiting area & check-in desk, etc)
