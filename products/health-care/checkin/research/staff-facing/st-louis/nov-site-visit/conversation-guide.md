@@ -81,5 +81,15 @@
 	- What would the benefits be to turning them back on?
 - Does the site have any known cell coverage issues? 
 - Who manages VetLink locations and clinic configurations? 
-
+### Pre-registration and Staff Indicators
+- How would you define pre-registration?
+- What problems (if any) are you experiencing around pre-registration?
+- Why is pre-registration important?
+- What information about pre-registration would you want to be notified about?
+	- Ask about hard stopping a Veteran after reviewing their information versus letting them complete check-in, then go to a staff member.	
+		- We could allow Veterans to mark that they needed to update their information. Then, we could have an indicator for you, so you knew to call them up. What are your thoughts about that?
+- What about pre-check-in (explain) and check-in (explain) would you want to be notified about?
+- How would you like to be notified?
+	- Ask about alerts.
+- What information do you need for pre-registration reporting? Ask about date and timestamp.
 
