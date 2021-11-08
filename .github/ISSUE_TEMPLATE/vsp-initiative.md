@@ -44,23 +44,17 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 
 ### ... documented?
 
-- [ ] New documentation is written pursuant to our [documentation style guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/documentation/style-guide)
+- [ ] New documentation is written pursuant to our [documentation style guide](https://vfs.atlassian.net/wiki/spaces/AP/pages/622264362/Style+guide)
 - [ ] Product is included in the [List of VSP Products](https://docs.google.com/spreadsheets/d/1Fn2lD419WE3sTZJtN2Ensrjqaz0jH3WvLaBtn812Wjo/edit#gid=0)
     * _List the existing product that this initiative fits within, or add a new product to this list._
-- [ ] Internal-facing: there's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-outline-template.md) checked into [`products/platform/PRODUCT_NAME/`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/)
-    * _Note: the Product Directory Name should match 1:1 with the List of VSP Products_
-- [ ] External-facing: a [VFS-facing README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-readme-template.md) exists for this product/feature tool
-    - [ ] ... and should be located at `platform/PRODUCT_NAME/README.md`
-- [ ] External-facing: a [User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/writing-user-guides.md) exists for this product/feature/tool, and is updated for changes from this initiative
-    - [ ] ... and should be linked from the VFS-facing README for your product
-    - [ ] ... and should be located within `platform/PRODUCT_NAME/`, unless you already have another location for it
-    - [ ] _(if applicable)_... and post to [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia) about whether this should be added to the [Documentation homepage](https://department-of-veterans-affairs.github.io/va.gov-team/)
+- [ ] Internal-facing: there's a [Product Outline](https://vfs.atlassian.net/wiki/spaces/PMCP/pages/1924628490/Product+Outline+Template)
+- [ ] External-facing: a [User Guide on Platform Website](https://vfs.atlassian.net/wiki/spaces/AP/pages/1477017691/Platform+website+guidelines) exists for this product/feature tool
 - [ ] _(if applicable)_ Post to [#vsp-service-design](https://dsva.slack.com/channels/vsp-service-design) for external communication about this change (e.g. VSP Newsletter, customer-facing meetings)
 
 ### ... measurable
 
 - [ ] _(if applicable)_ This change has clearly-defined success metrics, with instrumentation of those analytics where possible, or a reason documented for skipping it.
-    * For help, see: [Analytics team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics)
+    * For help, see: [Analytics team](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guide.1586823275.html)
 - [ ] This change has an accompanying [VSP Initiative Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose).
 
 ### When you're ready to launch...
@@ -71,7 +65,6 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 ### Documentation
 * **`PRODUCT_NAME`**: _directory name used for your product documentation_
 * **Product Outline**: _link to Product Outline_
-* **README**: _link to VFS-facing README for your product_
 * **User Guide**: _link to User Guide_
 
 ### Testing
