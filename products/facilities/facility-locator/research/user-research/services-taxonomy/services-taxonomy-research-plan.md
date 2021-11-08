@@ -53,13 +53,17 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
     - Advice nurse
     - Caregiver support
+    - COVID-19 vaccines
     - Grief and bereavement counseling
+    - Military sexual trauma care
     - MOVE! weight management
     - My HealtheVet coordinator
+    - Nutrition, food, and dietary care
     - Patient advocates
     - Recreation and creative arts therapy
     - Registry exams
     - Returning service member care
+    - Smoking and tobacco cessation
     - Social work
     - Telehealth
     - Travel reimbursement
