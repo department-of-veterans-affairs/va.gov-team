@@ -53,6 +53,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Advice nurse
     - Caregiver support
     - Grief and bereavement counseling
+    - MOVE! weight management
     - My HealtheVet coordinator
     - Patient advocates
     - Registry exams
