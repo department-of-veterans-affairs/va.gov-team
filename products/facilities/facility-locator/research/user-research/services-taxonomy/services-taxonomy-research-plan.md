@@ -82,7 +82,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Employment verification
     - Freedom of Information Act requests
     - Library services
-    - Mammograms
+    - Radiology
     - Medical records
     - Privacy office
 
