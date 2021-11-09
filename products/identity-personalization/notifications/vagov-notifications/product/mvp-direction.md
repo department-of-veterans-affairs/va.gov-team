@@ -89,7 +89,7 @@ There are additional privacy restrictions for email and text alerts that prevent
 
 ## TL;DR
 
-Essentially, for action items specifically, this information's relevancy is not dependent on email and text alerts and should be fed to us directly from the specific endpoints that power them, NOT VANotify (or VEText). A VANotify integration would likely work best for information that is not personalized, like COVID-19 keep me informed updates. But, for personalized veteran information, that information is not email/text alert dependent and should not be treated as such. The integration of action items and other non-action benefit-related information should be integrated into My VA on a case-by-case basis that considers veteran needs and priorities.
+Essentially, the approach we have been taking loses sight of the original problem -- how to elevate action items on VA.gov. We have been treating this project as if the problem to solve is how to create a system that can show on-site notifications in a way that is synced with email/text, and this ignores the actual content we want to show and focuses too much on the vehicle. While action items *could* show as on-site alerts, they do not have to, and this is not the only way to elevate this information. We can prioritize alert information without showing it or treating it as a notification.
 
 ## Next steps
 
