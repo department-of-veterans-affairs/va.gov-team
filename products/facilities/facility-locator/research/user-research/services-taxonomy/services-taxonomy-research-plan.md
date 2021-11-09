@@ -80,8 +80,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Billing and insurance
     - Chaplain service
     - Employment verification
-    - FOIA Requests
-    - Hearing aids
+    - Freedom of Information Act requests
     - Library services
     - Mammograms
     - Medical records
