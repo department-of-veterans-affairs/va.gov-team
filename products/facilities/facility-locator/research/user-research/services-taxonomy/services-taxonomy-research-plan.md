@@ -86,7 +86,6 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Mammograms
     - Medical records
     - Privacy office
-    - Support groups
 
 </details>
         
