@@ -123,9 +123,9 @@ Using Perigean recruiting, we would like to schedule **17 participants** to reac
     - *At least 3 participants of color*
 
 - **SECONDARY CRITERIA (should have)**
-    - Mix of Veterans and Caregivers (acting on behalf of Veterans)
-    - All genders
-    - A mix of rural and urban participants
+    - *Mix of Veterans and Caregivers (acting on behalf of Veterans)*
+    - *All genders*
+    - *A mix of rural and urban participants*
 
 ## Timeline and scheduling
 
