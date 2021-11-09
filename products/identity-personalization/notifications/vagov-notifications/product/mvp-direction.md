@@ -79,7 +79,7 @@ Cross-checking these lists, there are only two items of overlap if we're talking
 - Paying a debt
 - Board of Veteran Appeals hearing appointment reminders
 
-Furthermore, we already show unread messages and appointments by connecting directly to those endpoints. We don't need VANotify for this, as it isactually be much easier to support debt info and BVA appointment reminders with integrations directly to those backends.
+Furthermore, we already show unread messages and appointments on My VA by connecting directly to those endpoints. We don't need VANotify for this, as it would be much easier to support debt info and BVA appointment reminders with integrations directly to those backends.
 
 ## There are personalization issues that arise from working through VANotify because of privacy constraints around email/text
 
