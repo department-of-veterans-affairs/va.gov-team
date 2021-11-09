@@ -89,10 +89,10 @@ There are additional privacy restrictions for email and text alerts that prevent
 
 ## TL;DR
 
-Essentially, the approach we have been taking loses sight of the original problem -- how to elevate action items on VA.gov. We have been treating this project as if the problem to solve is how to create a system that can show on-site notifications in a way that is synced with email/text, and this ignores the actual content we want to show and focuses too much on the vehicle of how to show the content. While action items *could* show as on-site alerts, they do not have to, and this is not the only way to elevate this information. 
+Essentially, the approach we have been taking loses sight of the original problem -- how to elevate action items on VA.gov. We have been treating this project as if the problem to solve is how to create a system that can show on-site notifications in a way that is synced with email/text, and this ignores the actual content we want to show and focuses too much on the vehicle of how to show it. While action items *could* show as on-site alerts, they do not have to, and this is not the only way to elevate this information. 
 
 ## Next steps
 
 - Pause the current VANotify integration. We should pursue this later after we've developed a strategy to better elevate action items on My VA.
-- Discuss how we want to pursue a strategy for better elevating the six action items on My VA -- appointment reminders (medical and appeals hearings), unread messages, refill a prescription, pay a debt, upload evidence for a claim, and completing applications that are about to expire.
+- Discuss how we want to pursue a strategy for better elevating action items on My VA -- appointment reminders (medical and appeals hearings), unread messages, refill a prescription, pay a debt, upload evidence for a claim, and completing applications that are about to expire. We'll need to consider benefit recommendations later on.
 - Plan immediate next steps for work.
