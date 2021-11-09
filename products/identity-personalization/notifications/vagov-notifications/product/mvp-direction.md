@@ -6,7 +6,11 @@ November 2021
 
 I think we've lost sight of the original goal of this work, which is [how do we elevate action items on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#research-goals)? We've pivoted into how do we elevate ALL notifications. Additionally, while the initial strategy to tie on-site information to email/text is sound, this falls appart once we consider the content veterans want to see vs. what VANotify currently supports. As a result, it is apparent that the steps we'd need to take to show veterans what they want to see via VANotify is too complicated to be worth the level of effort, and it is not the simplest or best way to elevate action item information. So, I'd like us to revisit some of our thinking to determine if the current path we are on is the best path.
 
-## What are the time-sensitive actions we know Veterans need to take?
+## Thoughts on why we may want to pivot how we are thinking about this work
+
+### There are only seven time-sensitive actions Veterans need to take
+
+They are:
 
 - Complete an application that is about to expire
 - Go to an appointment
@@ -16,15 +20,25 @@ I think we've lost sight of the original goal of this work, which is [how do we 
 - Upload evidence for a claim or appeal
 - [Applying for benefits that have a time limit](https://www.military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html)
 
-So, there are only **seven** time-sensitive actions a veteran might need to take, all of which are relevant regardless of how they are treated in email/text alerts.
-
-## Thoughts on why we may want to pivot how we are thinking about this work
-
 If there are **seven** things a veteran might need to do, ie. action items, then **we do not need a whole notifications center to accommodate this**. We need to figure out how to better elevate this information on My VA, and we can revisit non-action notifications later.
+
+### Action items are not the same thing as email and text alerts, and should not be powered by email/text
+
+The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound if we think of action items the same as we think of email/text alerts. However, action items and other personal information is relevant based on **time** and **priority**, not on email/text alert status.
+
+Here are some examples that we already handle on My VA:
+
+- We already show people's next upcoming appointment if they have one in the next 30 days. This is not tied to any alerts VEText might send, and that is OK. This information is relevant up until the day of the appointment, not matter on what cadence VEText sends reminders.
+- We already show unread message counts. This is relevant until until a user reads the message, and it's relevancy does not depend on whether VEText sends them an alert that they have an unread messages.
+- While not an action item, we already show someone's most recently updated claim. This is relevant because it's something someone has in flight, not because of when a text or email alert goes out.
+
+**When email/text alerts should trigger something on the website**
+
+Email and text should trigger on-site infomration for anything that is not personalized. For example, if we wanted to elevate COVID-19 "Keep me informed" updates on the dashboard, this should be triggered at the same time as an email and text.
 
 ### There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
 
-The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound if we think of action items the same as we think of email/text alerts. However, when we consider action items as not 100% tied to email/text alerts, and when we consider available content in VANotify, user needs, and technical support for personalized data, things start to break down:
+However, when we consider action items as not 100% tied to email/text alerts, and when we consider available content in VANotify, user needs, and technical support for personalized data, things start to break down:
 
 **What VANotify supports**
 
@@ -70,15 +84,6 @@ Furthermore, we already show unread messages and appointments by connecting dire
 There are additional privacy restrictions for email and text alerts that prevent them from showing personally-relevant information that we would want to show on VA.gov. Were VANotify to support action items on My VA, this would mean we'd either have to show partial, incomplete data because we're bound to the same restrictions as text and email since we'd be working off the data they currently have, OR we'd have to do some weird logic to somehow get the additional information we can show to people when they are authenticated and identity verified.
 
 **Example**: VANotify can't show someone the name of a prescription or full tracking number in an email, so we wouldn't be able to show that on My VA even though people would expect to be able to see that if they were logged in.
-
-### Action items and email/text notifications are not fundamentally the same thing
-
-Finally, action items don't necessary need to be tied to email/text notificactions -- they just need to show on people's dashboards for as long as they are relevant.
-
-Examples: 
-
-- As part of the My VA 2.0 redesign, **we already show** people's next upcoming appointment if they have one in the next 30 days. This is not tied to any alerts VEText might send, and that is OK. This information is relevant up until the day of the appointment, not matter on what cadence VEText sends reminders.
-- Similarly, **we already show** unread message counts. This is relevant to a user until they read the message, and it's relevancy does not depend on whether VEText sends them an alert that they have an unread messages.
 
 ### TL;DR
 
