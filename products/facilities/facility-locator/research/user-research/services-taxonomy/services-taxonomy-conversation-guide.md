@@ -38,6 +38,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 ## Warm-up [5 minutes]
 
 - **Can you tell me about your service history?**
+- **Can you tell me what kinds of VA facilities you have visited (hospitals, Vet Centers, etc.) [ <- this needs work]
 - **Have you ever participated in a VA research study before?**
   - Are you familiar with what a card sort is?
   - [Yes]: Great, I'll just give you a brief overview since you're already familiar.
