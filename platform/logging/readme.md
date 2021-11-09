@@ -1,24 +1,29 @@
-# Logging (WIP)
+# Logging
 
-Logs on VSP are currently viewable in AWS Cloudwatch. For access, [file a ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) using "Environment Access Request Template".
+Logs for platform services are available in [Grafana](http://grafana.vfs.va.gov/) using Loki as a data source. 
 
-**Coming Soon**: 
+Logs are collected by Loki and available in Grafana for the following services: 
 
-Centralized Logging with Loki is currently live in DEV, and will be live in STAGING on or around May 3, 2021. 
+* Vets-API (server and worker)
+* CMS
+* Reverse Proxy aka "revproxy"
+* Forward Proxy aka "fwdproxy"
+* Platform utilities like Prometheus, Unbound, etc
+* Kubernetes services running in Amazon Elastic Kubernetes Service (EKS)
 
-Logs aggregated by Loki are accessible in [Grafana](http://grafana.vfs.va.gov/) _(requires SOCKS access)_.
+Logs for AWS services (RDS, ALB, ELB, etc) are still available in AWS Cloudwatch. For access to AWS, [file a ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) using "Environment Access Request Template".
 
-**NOTE:** This will include **logs from apps and services that use the Jenkins/BRD system**, as well as Kubernetes/EKS logs, _however not AWS logs like RDS, ALB, etc_. 
+_Note: Logs for AWS services will be migrated at a later date._
+
+Centralized Logging with Loki and Grafana is live in all environments.  
 
 
 ------
 
 ## Documentation
 
-* [Centralized Logging with Loki - User Guide](./centralized-logging-user-guide.md)
+* [Centralized Logging with Loki - User Guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/Centralized-Logging-with-Loki-and-Grafana.619119010.html)
 * [GitHub - grafana/loki: Like Prometheus, but for logs.](https://github.com/grafana/loki)
-* TODO: add user docs about logging from specific applications
-* TODO: add user docs about PII and logging restrictions
 
 ------
 
