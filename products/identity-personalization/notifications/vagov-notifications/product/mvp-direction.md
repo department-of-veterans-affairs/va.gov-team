@@ -62,6 +62,15 @@ Cross-checking these lists, there are only two items of overlap if we're talking
 - Paying a debt
 - Board of Veteran Appeals hearing appointment reminders
 
-While COVID-19 information ("Keep me informed") was mentioned in research, this notification does *not* require action and therefore should be treated differently according to veteran feedback that action items are more important than general alerts that do not require action.
+While COVID-19 information ("Keep me informed") was mentioned in research, this notification does *not* require action and therefore should be treated differently according to veteran feedback that action items are more important than general alerts that do not require action. 
 
-**
+**Personalization issues that arise from working through VANotify**
+
+Since VANotify handles email and text messages, there are additional privacy restrictions that prevent them from showing information that we would want to be able to show on VA.gov to give people proper context to a given action item. Were VANotify to support action items on My VA, this would mean we'd either have to show partial, incomplete data because we're bound to the same restrictions as text and email, OR we'd have to do some weird logic to somehow get the additional information we can show to people when they are authenticated and identity verified.
+
+**Example**: VANotify can't show someone the name of a prescription or full tracking number in an email, so we wouldn't be able to show that on My VA even though people would expect to be able to see that if they were logged in.
+
+**VANotify vs. VEText vs. Existing integrations**
+
+Furthermore, there are two action items that we know to be important to users -- eg. health care appointment information and unread messages -- **that we already surface** through an integration with those existing endpoints. This information is not currently supported in VANotify, either. It is supported by VEText, so if we wanted to tie this to email/text notification functionality, we'd then have to also have an integration with VEText, as they don't have a timeline for integrating with VANotify as far as I know.
+
