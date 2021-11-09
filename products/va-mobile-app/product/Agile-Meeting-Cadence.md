@@ -180,18 +180,32 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 **Process:**
 
-
-
-* AH team has 15 min internal meeting to review ticket and check boxes
-* AH team then follows up async on Slack with VA PO(s)
+* Release Sign off ticket is auto generated 13 days prior to the release and assigned to AH PM Delivery lead, UX lead, Engineering lead, and VA POs
+* All tasks on the ticket should be completed the Tuesday before the release (1 week prior) and before sending to the App store for review 
 * All boxes on Release ticket are checked ([sample here](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/department-of-veterans-affairs/va-mobile-app/1427)) 
-    * Define version number
-    * Create release branch
-    * What’s new content
-    * Other Content updates
-    * PR opened for review
-    * Bugs: sev-1 or sev-1 known issues that are not fixed, reporting for transparency
+    * Define version number - automation system defines the version
+    * Create release branch - completed by the engineering team 
+    * What’s new content - completed by PM delivery lead 
+      * The standard template for writing What's new content is as follows
+      * You can now [describe xyz new feature(s)]. We’ve also [enhanced or improved abc] and fixed a few bugs.
+      * If there aren't any new features, use standard messaging 'We added general improvements and fixed a few bugs' (if applicable)
+    * Other Content updates - UX team currently updates and then sends to engineering
+    * PR opened for review - completed by engineering team
+    * Severe Bugs: completed by PM delivery lead
+      * Add sev-1 and/or sev-2 bugs that have been fixed and will be part of the release  
+* QA Sign Off - QA will sign off once all tickets have passed and or identified issues have been addressed 
+* PM Sign Off - AH PM will perform high level validation of critical feature/bug tickets.  Coordinate with QA and review test results.  
+* VA POs Sign Off - PM will coordinate with VA POs once QA & PM sign off's are complete.  During this time we should also confirm that POs are ok with the What's new content text and make necessary changes as needed.  
+
+Add Release date to tickets
+* Tag all the tickets that will be part of the release with the release/date (ideally the Tuesday 2 weeks before the sprint) 
+    * Filter by sprint and tickets that have been merged to the develop branch by 10:30 PM pacific time the Tuesday 2 weeks before the release date
+       * Example Sprint = 10/27/21 - 11/9/21 (Release date 11/23/21)
+       * All stories that are closed or in the Ready for QA column and the merge date is on or before 10:30 PM pacific time
 * Note that all issues within the Release can be viewed by filtering the Product board with the Release tag, or by checking the Release Report
+* Update [Release Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/releases/release-summary.md)
+ GitHub page with overview of what is going in the sprint
+   
 
 
 ## UX to Eng Hand-off
