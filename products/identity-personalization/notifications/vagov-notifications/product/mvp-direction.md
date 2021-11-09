@@ -22,7 +22,7 @@ If there are **seven** time-sensitive things a veteran might need to do, then **
 
 ## Action items are not the same thing as on-site alerts/email and text alerts, and showing action items on VA.gov does not need to be tied to email/text notifications
 
-The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. This is sound with the exception of one major detail: it only considers the vehicles of showing content, not the actual content we want to elevate.
+The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. This is sound with the exception of one major detail: it only considers the vehicles for showing content, not the actual content we want to elevate.
 
 Again, the original goal for this work was to elevate action items, and **action items and on-site notifications are not the same thing**. An on-site notification is a **vehicle**, just like an email or text is a vehicle. The action item itself -- or any other personally relevant info -- is the **content**.
 
