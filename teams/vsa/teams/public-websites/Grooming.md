@@ -49,7 +49,6 @@ None
 - Outreach & Events: 
 
 - Promo Banner Migration work: Goal: Move content maintenance of the Promo Banners out of Hardcoded Vets-website and into CMS.  
-     - 
 
 
 ### Clarity Requests: 
