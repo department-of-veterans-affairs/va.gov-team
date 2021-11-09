@@ -112,6 +112,7 @@ Participant Criteria:
     - Enrolled in VA healthcare
     - Laptop or desktop computer only (*something explaining why*)
     - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare.
+    - **[check for educational requirements]**
 
 - **Good to have:**
     - All genders
