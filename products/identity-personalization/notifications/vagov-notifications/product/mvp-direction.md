@@ -21,7 +21,7 @@ So, there are only **six** time-sensitive actions a veteran might need to take, 
 
 If there are **six** things a veteran might need to do, ie. if there are six types of action items, then **we do not need a whole notifications center to accommodate this**. We need to figure out how to better elevate this information on My VA, and we can revisit non-action notifications later.
 
-### There are discrepancies between what VANotify currently supports and what people want to see on their dashboards**
+### There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
 
 The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound if we think of action items the same as we think of email/text alerts. However, when we consider action items as not 100% tied to email/text alerts, and when we consider available content in VANotify, user needs, and technical support for personalized data, things start to break down:
 
