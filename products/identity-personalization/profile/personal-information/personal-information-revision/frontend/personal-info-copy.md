@@ -1,10 +1,10 @@
 # Personal Information Front-End Documentation
 Last Updated 11/09/2021
 
-- [Personal Information Page - Read Only State]
-- [Personal Information Page - Blank State]
-- [Personal Information Page - Edit State]
-- Personal Information Page - Edit State - Required _Other_ Fields
+- [Personal Information Page - Read Only State](#personal-information-page---read-only-state)
+- [Personal Information Page - Blank State](#personal-information-page---blank-state)
+- [Personal Information Page - Edit State](#personal-information-page---edit-state)
+- [Personal Information Page - Edit State - Required _Other_ Fields](#edit-state---required-other-fields)
 
 ## Personal Information Page - Read-Only State
 
