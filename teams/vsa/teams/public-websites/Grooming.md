@@ -36,20 +36,18 @@ None
 
 ### Backlog Tickets:
 
-- [ ] [BUG] Google Analytics opt-out component #32587 (Update legacy code on all pages)
-- [ ] [BUG] VA Facility and Status Updates Banner Dismissible function misaligned (Safari) #32630
+- [ ] [BUG] Google Analytics opt-out component [#32587](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32587) (Update legacy code on all pages)
+- [ ] [BUG] VA Facility and Status Updates Banner Dismissible function misaligned (Safari) [#32630](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32630) 
+- [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606) 
+- [ ] [Tech Discovery] Veteran Crisis Line (VCL) Feature Toggle Add [#31866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31866) 
+- [ ] [508-defect-2:] The sticky footer alert is inaccessible to screen reader users and a negative experience for keyboard and mobile users [#32285](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32285)
+- [ ] [Tech Debt] Megamenu code refactor [#32443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32443) 
 
 ### Future Work Grooming: 
-- Outreach & Events: Review wireframes, complete technical analysis, discuss FE build timeline. 
-     - Design --> Design Intent 10/29 
-     - Wireframes/Mockups 
-     - Usability Testing (Functional Prototype) screenreader testing as consideration for testing (Possible 2 rounds of testing depending on CMS dependency) 
-     - User research done in staging for screanreader 
-     - CMS model changes --> to support FE build and use in Staging 
+- Outreach & Events: 
 
-- Promo Banner Migration work: Starting thinking about this approach (Timing)
-     - Fully blocked by CMS to make this change. FE would just need a template (similiar to sitewide banner component). 
-     - Timing - When is CMS ready to impliment and support?  Would also need to update GraphQL, likely 5-8 point of work in a sprint. (Possibly 1x PR) 
+- Promo Banner Migration work: Goal: Move content maintenance of the Promo Banners out of Hardcoded Vets-website and into CMS.  
+     - 
 
 
 ### Clarity Requests: 
