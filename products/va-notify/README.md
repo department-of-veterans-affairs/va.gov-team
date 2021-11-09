@@ -6,7 +6,7 @@ Improve the overall experience and quality of communications with veterans using
 
 ## Services We Offer
  
-- [What We Currently Offer](#current-offering)
+- [What We Currently Offer](#what-we-currently-offer)
 - [FAQs](#faqs)
 - [How VANotify Works](#how-vanotify-works)
 -  [Tech Stack](#tech-stack)
