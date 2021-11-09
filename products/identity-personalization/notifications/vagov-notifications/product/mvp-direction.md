@@ -40,7 +40,7 @@ Email and text should trigger on-site noticications for anything that is not per
 
 ## There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
 
-However, when we consider action items as not 100% tied to email/text alerts, and when we consider available content in VANotify, user needs, and technical support for personalized data, things start to break down:
+If we want VANotify to support on-site content, we are bound to the content VANotify supports now for our on-site notifications MVP. Again, in theory, this makes a lot of sense. However, it falls apart when we realize that VANotify does not support enough content veterans want to see as action items, we already have some of this information on My VA, and it's just a lot easier to connect directly to backend endpoints.
 
 **What VANotify supports**
 
