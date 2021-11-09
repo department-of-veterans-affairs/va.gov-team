@@ -1,6 +1,6 @@
 # VA Mobile team - Release Highlights
 
-## Release: 11/9
+## Release: 11/9/21
 
 New + Improved
  - Firebase distribution added to the QA builds and to the On-Demand builds, also adds functionality to add users to Firebase testing via their email
@@ -17,7 +17,7 @@ Bug Fixes:
 - Flag set for header test to not allow scaling (addresses issue of headers being cut off due to font size)
 
 
-## Release: 10/26
+## Release: 10/26/21
 
 New + Improved
 
@@ -42,7 +42,7 @@ Bug Fixes:
 - Punctuation fix on cancel COVID-19 appointment card description
 
 
-## Release: 10/12
+## Release: 10/12/21
 
 New + Improved
 
@@ -51,7 +51,7 @@ New + Improved
 - Optimized the app for Android 12 & iOS 15
 
 
-## Release: 9/28
+## Release: 9/28/21
 New & Improved
 
 - Users can now view if they or the facility canceled an appointment
@@ -63,7 +63,7 @@ Bug Fixes
 - User is able to take and attach photos with their built in camera without error. (Google Pixel 3 XL)
 - Fixed "Vah" issues on Samsung phones in Claims workflow
 
-## Release: 9/14
+## Release: 9/14/21
 New & Improved
 
 - Added disability rating to the app
