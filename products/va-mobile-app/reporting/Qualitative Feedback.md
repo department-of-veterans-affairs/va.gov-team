@@ -23,10 +23,11 @@ Comments and info from various sources.
 - 11/9/21: "Well done VA!!! This app saves so much time. Letters and documents can be requested. Claim status can be checked. It literally has everything I need and is so much faster than the website. Very pleased!!! Thank you!!!"
 
 
+- 11/9/21: "With this application that the United States Veterans Affairs has created, it allows the end-user almost seamless access to their rating, letters, claim status, and many more.I wish they had this five years ago. But better late than never. I am truly thankful and grateful for the VA. Family first, mission always. God bless America."
+
+## Rx Refill
 - 11/9/21: "Had trouble logging in and once I did kept getting error stating app wasn’t working. That was when I logged in with MyHealthvet. I then logged out and logged in using ID me and now the app is working great. Would like to see VA RX refill app consolidated with this. Then it would be worthy of a five star rating for me. Also, would like to see VHA travel claims added to this, now that would really nice because the BTSSS can be iffy logging in and using at times. Might also add advance directives in case needed in an urgent situation and they can’t always be obtained quickly by non va hospitals.
 
-
-- 11/9/21: "With this application that the United States Veterans Affairs has created, it allows the end-user almost seamless access to their rating, letters, claim status, and many more.I wish they had this five years ago. But better late than never. I am truly thankful and grateful for the VA. Family first, mission always. God bless America."
 
 ## Appointments
 
