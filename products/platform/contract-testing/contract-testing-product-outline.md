@@ -15,6 +15,14 @@ How might we enable VFS teams to test integrations with vets-api in a non-produc
 * Other teams that integrate with `vets-api`
   * Lighthouse team
 
+## Incident Response
+### Monitoring
+* [Grafana is setup to monitor](http://grafana.vfs.va.gov/d/t38DSUQGz/pact-broker?orgId=1) Memory, CPU, and Database utilization
+* Grafana is setup to alert vsp-testing-tools-team when the Pact broker experiences an issue
+
+### Response
+* Use the procedure described by the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
+
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -61,6 +69,7 @@ N/A
 
 ### After
 Pact Broker:
+
 ![image](https://user-images.githubusercontent.com/52456633/140995591-a12bc33d-76f2-40a9-9fea-f9444f54568c.png)
 
 ---
