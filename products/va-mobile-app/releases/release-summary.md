@@ -4,7 +4,7 @@
 
 New + Improved
  - Firebase distribution added to the QA builds and to the On-Demand builds, also adds functionality to add users to Firebase testing via their email
- - Consistenly display of Error State messages (above form field and check boxes)  
+ - Consistently display Error State messages (above form field and check boxes)  
  - Implemented Cerner messaging (only or some)
  - Added autoscrool to the thread message.  When a user selects a message from any of the list pages, the message page loads with the message displayed in view. 
  - Added Disability Rating Empty state messaging
