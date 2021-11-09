@@ -23,7 +23,8 @@ Potential data at risk include: name, ssn, dob.
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Submission rate
+- Application completion rate 
 
 ---
 
@@ -45,13 +46,18 @@ Potential data at risk include: name, ssn, dob.
   - What fields must/should/won't be editable? 
   
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Does MPI have a check for changes to it's data? No
+  - Does MPI have a check for changes to it's data? 
+    - No
   - What is the difficulty in turning off editing? 
+    - Known 
   - What sort of checks should we have to ensure the data is not modified based what's coming from MPI (and into the user object)?
+    - Initial assessment is that we're not sending anything off to MPI **directly.** That may still mean the entire HCA package that ES receives _is_ sent off to MPI, including potentially modified data.
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Are other forms dealing with this potential risk? It is **not** common for other VA forms to allow editing of Veteran (biographical) data via their forms. 
+  - Are other forms dealing with this potential risk? 
+    - It is **not** common for other VA forms to allow editing of Veteran (biographical) data via their forms. 
   - What downstream impacts are there to e.g. Medical Centers having to deal with data changes? 
+    - Unclear at the moment.  
  
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
@@ -76,10 +82,12 @@ For the second bullet, we need to make sure we use the attributes from our user 
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- n/a
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
+- We're modifying the existing HCA product, greying out fields that are previously editable. 
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -97,6 +105,13 @@ For the second bullet, we need to make sure we use the attributes from our user 
 ## Screenshots
 
 ### Before
+
+<details>
+  
+- ![image](https://user-images.githubusercontent.com/13204473/141007160-c9ee91a5-ff15-4391-b29b-5092eab47c79.png)
+- ![image](https://user-images.githubusercontent.com/13204473/141007323-913d5c06-66a0-40f2-b505-81c73aa903e4.png)
+
+</details>
 
 ### After
 
