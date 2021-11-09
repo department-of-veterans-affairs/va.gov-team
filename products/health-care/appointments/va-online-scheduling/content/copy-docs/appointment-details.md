@@ -885,6 +885,8 @@ none
 
 ```
 VA appointment over the phone
+Someone from your VA facility will call you at your phone number on file at the appointment time.
+
 {Facility name}
 {Facility address}
 Directions
