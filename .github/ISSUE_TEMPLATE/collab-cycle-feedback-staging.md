@@ -57,7 +57,7 @@ Include specific details about how the VFS team can resolve this issue.
 ### VFS Team Tasks to Complete
 
 - [ ] Comment on the ticket if there are questions or concerns
-- [ ] VFS team closes the ticket when the issue has been resolved
+- [ ] Close the ticket when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket. 
 
 ## Platform directions
 - Update "Issue Title"
