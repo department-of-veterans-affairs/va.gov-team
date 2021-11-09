@@ -29,7 +29,7 @@ Resources and Support (R&S), originally called “Learning Center”, was create
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-* - R&S article pages are not optimized for the best user experience for veterans, 
+   - R&S article pages are not optimized for the best user experience for veterans, 
 <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/resources-and-support/discovery.md">analytics and user research</a> confirms this problem. <br>
 The Content Team does not have enough bandwidth to continue adding additional R&S articles. There is currently not a workflow to allow for more editors to add additional articles to R&S.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
