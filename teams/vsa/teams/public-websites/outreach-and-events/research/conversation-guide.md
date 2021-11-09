@@ -95,22 +95,22 @@ Before you click/tap anywhere on the screen, I would like you to tell me what yo
 While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
 I would like you to share your screen with me so I can watch you use the demo tool in your web browser. 
-*(refer to Screen sharing instructions above, if needed)*
+- *(refer to Screen sharing instructions above, if needed)*
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'll have you start from a website that I'm going to *[spell/put into the Zoom chat/email/text]* for you to click on (URL TBD). 
+- *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
-
 ## Veteran Tasks
 
-Imagine that...
 
 **DRAFT TASK IDEAS:**
 overall: peruse the event listing of one-time and recurring events and register for some 
 
 Find an event and sign up to attend when it's convenient for you
 - filter by date range
+  - any feedback on options
 - one-time event
 - recurring event
   - look at all occurrences of it (need to click "view more occurrences")
@@ -118,9 +118,11 @@ Find an event and sign up to attend when it's convenient for you
   - get reactions to the # of events shown on screen before click "view more" (how many events do people want to see at once?)
 - sign up for 2 occurrences of it
 - see if people want to click "Add to Calendar" (ask if there's anything else that they'd want to do on this page)
+- record reactions to location info shown. ask what they want to see (i.e., is city enough?) 
 
 ### Task 1: [ ] - 5 minutes
-Instructions
+Imagine that you want to see what VA events are happening.
+
 
 - Please talk me through what you're doing. 
   
