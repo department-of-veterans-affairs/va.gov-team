@@ -1,4 +1,4 @@
-# Notifications MVP direction
+# On-site notifications MVP direction
 
 November 2021
 
