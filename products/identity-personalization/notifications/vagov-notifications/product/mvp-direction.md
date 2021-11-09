@@ -66,6 +66,10 @@ Cross-checking these lists, there are only two items of overlap if we're talking
 
 While COVID-19 information ("Keep me informed") was mentioned in research, this notification does *not* require action and therefore should be treated differently according to veteran feedback that action items are more important than general alerts that do not require action. 
 
+*Supporting this data through VANotify vs. direct backend integrations*
+
+It would actually be much easier to support debt info and BVA appointment reminders with integrations directly to those backends, just like we do currently for showing upcoming health appointments and unread messages. This information is also relevant regardless of when an email/text alert goes out, so we can show this information on My VA without needing to add the technical complexity of tying it to an email/text alert.
+
 **Personalization issues that arise from working through VANotify**
 
 Since VANotify handles email and text messages, there are additional privacy restrictions that prevent them from showing information that we would want to be able to show on VA.gov to give people proper context to a given action item. Were VANotify to support action items on My VA, this would mean we'd either have to show partial, incomplete data because we're bound to the same restrictions as text and email, OR we'd have to do some weird logic to somehow get the additional information we can show to people when they are authenticated and identity verified.
