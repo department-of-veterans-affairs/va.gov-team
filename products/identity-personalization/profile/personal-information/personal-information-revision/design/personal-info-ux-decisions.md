@@ -14,6 +14,8 @@ Last updated: 10/25/2021
 
 ## UX Decisions
 
+### Information Architecture Feedback & Decisions
+
 11/9/2021
 
 - Changed order of personal information fields based on [IA feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32031#issuecomment-958188340) from Mikki Northius.  [Front-end copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/personal-info-copy.md) is updated accordingly. 
