@@ -6,7 +6,7 @@ November 2021
 
 I think we've lost sight of the original goal of this work, which is [how do we elevate action items on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#research-goals)? We've pivoted into how do we elevate ALL notifications. Additionally, while the initial strategy to tie on-site information to email/text is sound, this falls appart once we consider the content veterans want to see vs. what VANotify currently supports. As a result, it is apparent that the steps we'd need to take to show veterans what they want to see via VANotify is too complicated to be worth the level of effort, and it is not the simplest or best way to elevate action item information. So, I'd like us to revisit some of our thinking to determine if the current path we are on is the best path.
 
-## What are actions we know Veterans need to take?
+## What are the time-sensitive actions we know Veterans need to take?
 
 - Complete an application that is about to expire
 - Go to an appointment
