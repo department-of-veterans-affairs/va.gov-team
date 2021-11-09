@@ -23,7 +23,7 @@ If there are **six** things a veteran might need to do, ie. if there are six typ
 
 ### VANotify should not support action items on VA.gov
 
-The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound. However, things start to break down when we consider actual content, user needs, and technical support for personalized data:
+The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound if we think of action items the same as we think of email/text alerts. However, when we consider action items as not 100% tied to email/text alerts, and when we consider available content in VANotify, user needs, and technical support for personalized data, things start to break down:
 
 **What VANotify currently supports vs. What people want to see on their dashboards**
 
