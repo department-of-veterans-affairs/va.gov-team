@@ -59,7 +59,7 @@ More specifically, users said the following were items they would like as alerts
 
 - Annual amount of disability compensation
 - Appointments **(Action: Show up to appointment)**
-- Benefits that Veterans are entitled to
+- Benefits that Veterans are entitled to **(Action: Apply for benefits if there is a time limit to apply)**
 - Claims and appeals information **(Action: Upload evidence if necessary)**
 - Covid-19 updates
 - Debt payments **(Action: Pay debt)**
