@@ -1,36 +1,30 @@
-# VAOS Reschedule Appointments - Initiative Brief
-
+# Initiative Brief - Reschedule Appointments
 ## Overview
-Currently on VAOS, a Veteran can cancel an open request or booked appointment (if facility configurations allow for it). If a Veteran wants to reschedule an appointment, they must cancel their appointment and go through the full flow to create a new appointment.
 
-In this two-step process, there's a risk that a Veteran cancels an appointment and can't reschedule the same kind of appointment due to facility configurations.
+Currently on VAOS, there isn't functionality to reschedule an appointment. A Veteran may be able to cancel a booked appointment if facility configurations allow for it.
+ 
+---
 
-### Desired Outcomes
-- A Veteran can book the same appointment at a different time.
+## Outcome Summary
 
-### Undesired Outcomes
-- A Veteran can't book the same appointment.
+A user can update a booked VA appointment and leave the interaction with a new booked appointment for a different date and/or time.
 
-## Implementation Information
+**Related/Associated product(s)**
+- Dependent on [Homepage Refresh](homepage-refresh-initiative-2021.md) rollout 
 
-### Solution Approach
-
-
-
-### Timeline
-
-
-
-Rollout: TBD
-
-### Important Context and Decisions
+## Problem
+* What is the problem and who is affected? And, what evidence do we have of the problem?
+  - To reschedule an appointment, a user must cancel their appointment and go through the full flow to create a new appointment.
+  - In many cases, the original appointment is not available for direct scheduling online.
+  - There's a risk that a user cancels an appointment and can't reschedule the same kind of appointment due.
+* Why do you think the problem is occurring? Other reasons why this might be occurring?
+  - Current functionality
+  - Anecdotal feedback from stakeholders
+  - Qualitative feedback from surveys
+* How does this initiative help further OCTO-DE's mission and goals?
 
 
-## Open Questions
-
-## Resources
-
-<details>
+ <details>
   <summary><b>User Feedback Quotes</b></summary>
   
   <q>
@@ -43,60 +37,20 @@ Rollout: TBD
 
 </details>
 
-
----
-
-# Initiative Brief Template
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
-
-## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
-
-**Related/Associated product(s)**
-- Product | Link to product outline 
-
-## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
-
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- A user can book the same appointment for a different time
 
 ## Undesired User Outcomes
+- A user cancels a booked appointment and can't schedule a new one (i.e. user leaves with 0 appointments)
+- A user reschedules an appointment and the original appointment is not canceled (i.e. user has 2 of the same appointment)
+
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
--->
+
 
 ---
 ## Measuring Success
