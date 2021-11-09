@@ -37,11 +37,14 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ## Warm-up [5 minutes]
 
-- **Have you ever helped out a designer at the VA before, in any way?**
-- **Today you're helping us out with one main task; it's called a *card sort*.**
-  - Have you ever heard of these before, or done one in the past?
+- **Can you tell me about your service history?**
+- **Have you ever participated in a VA research study before?**
+  - Are you familiar with what a card sort is?
+  - [Yes]: Great, I'll just give you a brief overview since you're already familiar.
+  - [No]: No problem, before we start I'll explain how it works.
 - **In order to help us out today, you will need to share your screen - are you comfortable doing that today?**
-  - Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
+  - [Yes]: Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
+  - [No]: Ok no problem, I can share my screen with you then, and walk you through our task myself.
   - [Work out any technical difficulties - worst case, run tasks on my screen while explaining them]
 
 ## Usability tasks [~ 35 minutes]
@@ -49,11 +52,15 @@ Before we get to the tasks you are helping us with today, a few things I want to
 ### Task: card sort
 
 - **First I'll explain how the card sort works**
-  - On the left side of your screen, there is a list of services that are offered at VAMC facilities.
+  - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
   - On the right side of your screen, are different ways to categorize those services.
   - You can drag items from the list of services on the left, into any category you choose, on the right.
 
 ** **RUN CARD SORT** **
+
+- **Questions to keep in mind**
+  - [Validate existing categories: "Do these make sense" etc.]
+  - [If explanation is necessary: does the explanation make sense?]
 
 ## Closing [5 minutes]
 
