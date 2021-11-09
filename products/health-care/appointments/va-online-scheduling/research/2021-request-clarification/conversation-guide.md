@@ -14,7 +14,7 @@
 ## Intro - 5 minutes
 
 
-Thanks for joining us today! My name is Peter, and I have some colleagues on the line who are observing and taking notes. We're looking to improve our tool that lets Veterans schedule appointments through VA.gov. Today, I'd like to go through a prototype of an online scheduling tool to get your thoughts on it.
+Thanks for joining us today! My name is Peter, and I have some colleagues on the line who are observing and taking notes. We're looking to improve our tool that lets Veterans schedule appointments through VA.gov. Today, I'd like to go through a prototype of that tool to get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
@@ -22,7 +22,7 @@ Before we start, a few things I want to mention:
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a demo tool**  Some areas of the demo will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+-  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. **Are you comfortable if I record my screen and audio as we talk today?**
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
@@ -72,7 +72,9 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 
 ## First Task: Complete an appointment request
 
-To start, talk me through this page. What do you see here?
+To start, this is what the scheduling tool might look like on VA.gov.
+
+Talk me through this page. What do you see here?
 
 Now I want you to use the demo to schedule an appointment. You'll be scheduling a primary care appointment at Evanston VA, at the earliest available date. If you forget or get stuck in the process just let me know.
 
