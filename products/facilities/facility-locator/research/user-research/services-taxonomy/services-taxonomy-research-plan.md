@@ -6,11 +6,11 @@ Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.
 
 ## Background
 
-As part of the effort to align benefits and services across VAMC pages, we need to determine how Veterans expect services to be categorized. This study is seeking validation for existing services and their categories, as well as for potential new services (rather tasks, as opposed to official VHA services) identified in [previous services taxonomy audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021).
+As part of the effort to align benefits and services across VAMC pages, we need to determine how Veterans expect services to be categorized. This study is seeking validation for existing services and their categories, as well as for potential new services (tasks, rather, as opposed to official VHA services) identified in [previous services taxonomy audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021).
 
 ### Related Research
 
-- [Previous user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research) done for the [VA.gov resources and support page](https://www.va.gov/resources/) determined the current categorization of the available benefits information. The study used a [card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md) (via [Optimal Workshop](https://www.optimalworkshop.com/)) to determine how Veterans and other SMEs would categorize benefits information by intended audience, and by topic.
+- [Previous user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research) done for the [VA.gov resources and support page](https://www.va.gov/resources/) determined the current categorization of the available benefits information. The study used a [card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md) (via [Optimal Workshop](https://www.optimalworkshop.com/)) to determine the categorization of benefits information by intended audience, and by topic.
     - The study used an unmoderated hybrid card sort, open to participants for 2 weeks
     - 39 Veterans, and 9 SME/content authors, for a total of 48 participants
     - The study compared participant categorization with hypothesized categories, and found they were mostly in alignment
@@ -51,40 +51,44 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 <details>
 <summary>Card sort services list</summary>
 
+    Higher priority:
+    
+    - Medical records
+    - Wheelchair and mobility
+    - Whole health
+    - Women Veteran care
+    - Workshops and classes
+    - Billing and insurance
+    - Chaplain service
+    - Library services
+    - Radiology
     - Advice nurse
-    - Caregiver support
-    - COVID-19 vaccines
-    - Grief and bereavement counseling
     - LGBTQ+ Veteran care
-    - Make an appointment
     - Military sexual trauma care
     - Minority Veteran care
+    - Social work
+    - Caregiver support
+    - Registry exams
+    - Returning service member care
+    - Smoking and tobacco cessation
+    - Substance abuse care
+    
+    Lower priority:
+    
+    - Grief and bereavement counseling
     - MOVE! weight management
     - My HealtheVet coordinator
     - Nutrition, food, and dietary care
     - Patient advocates
     - Recreation and creative arts therapy
-    - Registry exams
-    - Returning service member care
-    - Smoking and tobacco cessation
-    - Social work
-    - Telehealth
+    - Applying for health care
     - Travel reimbursement
     - Veteran connections
     - Vocational rehabilitation and employment programs
-    - Wheelchair and mobility
-    - Whole health
-    - Women Veteran care
-    - Workshops and classes
-    - Applying for health care
-    - Billing and insurance
-    - Chaplain service
     - Employment verification
     - Freedom of Information Act requests
-    - Library services
-    - Radiology
-    - Medical records
     - Privacy office
+    - Make an appointment
 
 </details>
         
@@ -104,22 +108,24 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 ## Recruitment and participants
 
-We will utilize the Perigean contract recruiting. We'd like to schedule 17 participants to reach our goal of observing 10 participants.
+Using Perigean recruiting, we would like to schedule **17 participants** to reach our goal of observing 10 participants. Participant criteria are as follows:
 
-Participant Criteria:
+- **PRIMARY CRITERIA (must have)**
+    - *Must be enrolled in VA healthcare*
+    - *Laptop or desktop computer only*
+        - *For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task*
+    - *Be able to screenshare via Zoom*
+        - *Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing*
+    - *At least 2 participants under 35 years old*
+    - *At least 2 participants over 55 years old*
+    - *At least 1 participant with cognitive disabilities*
+    - *At least 5 participants with no college degree or professional certificates*
+    - *At least 3 participants of color*
 
-- **Must have:**
-    - Enrolled in VA healthcare
-    - Laptop or desktop computer only (*something explaining why*)
-    - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare.
-    - **[check for educational requirements]**
-
-- **Good to have:**
+- **SECONDARY CRITERIA (should have)**
+    - Mix of Veterans and Caregivers (acting on behalf of Veterans)
     - All genders
-    - A mix of rural and urban
-    - Veterans & Caregivers
-    - At least 1 participant 35 or under and 1 participant over 55
-    - At least 1 partitipant with cognitive disabilities
+    - A mix of rural and urban participants
 
 ## Timeline and scheduling
 
@@ -146,9 +152,9 @@ Date | Time
 - Research guide writing and task development: Nick Osmanski (nick.osmanski@amida.com)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Nick Osmanski (nick.osmanski@amida.com)
-- Participant(s) for pilot test: 
-- Note-takers: 
-- Observers:
+- Participant(s) for pilot test: [TBD]
+- Note-takers: Perigean
+- Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (david.conlon@va.gov), Dave Sukharan (dave.sukharan@adhocteam.us)
 
 ## Appendix
 
