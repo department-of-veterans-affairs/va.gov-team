@@ -1,8 +1,8 @@
 # Personal Information Front-End Documentation
 Last Updated 11/09/2021
 
-- Personal Information Page - Read Only State
-- Personal Information Page - Edit State
+- [Personal Information Page - Read Only State / Blank State](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/personal-info-copy.md)
+- [Personal Information Page - Edit State]
 - Personal Information Page - Read Only State 
 
 ## Personal Information Page - Read-Only State
