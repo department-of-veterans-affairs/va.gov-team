@@ -78,7 +78,7 @@ Since VANotify handles email and text messages, there are additional privacy res
 
 Furthermore, there are two action items that we know to be important to users -- eg. health care appointment information and unread messages -- **that we already surface** through an integration with those existing endpoints. This information is not currently supported in VANotify, either. It is supported by VEText, so if we wanted to tie this to email/text notification functionality, we'd then have to also have an integration with VEText, as they don't have a timeline for integrating with VANotify as far as I know.
 
-**Action items don't necessarily need to be tied to email/text notifications**
+### Action items don't necessarily need to be tied to email/text notifications
 
 Finally, action items don't necessary need to be tied to email/text notificactions -- they just need to show on people's dashboards for as long as they are relevant.
 
@@ -87,7 +87,7 @@ Examples:
 - As part of the My VA 2.0 redesign, we already show people's next upcoming appointment if they have one in the next 30 days. This is not tied to any alerts VEText might send, and that is OK. This information is relevant up until the day of the appointment, not matter on what cadence VEText sends reminders.
 - similarly, we already show unread message counts. This is relevant to a user until they read the message, and it's relevancy does not depend on whether VEText sends them an alert that they have an unread messages.
 
-**TL;DR**
+### TL;DR
 
 Essentially, for action items specifically, this information's relevancy is not dependent on email and text alerts and should be fed to us directly from the specific endpoints that power them, NOT VANotify (or VEText). A VANotify integration would likely work best for information that is not personalized, like COVID-19 keep me informed updates. But, for personalized veteran information, that information is not email/text alert dependent and should not be treated as such. The integration of action items and other non-action benefit-related information should be integrated into My VA on a case-by-case basis that considers veteran needs and priorities.
 
