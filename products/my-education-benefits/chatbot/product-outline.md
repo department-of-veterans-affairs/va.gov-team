@@ -8,25 +8,13 @@ None of these provide real-time support and guidance.
 
 From August 2020 - August 2021 over 1 million calls were received by the call center; 70% of those calls were related to benefit/claim status or payment status.
 
-Having a real-time channel for answering simple questions around education benefits would likely result in a massive reducation of volume to the call center. This would improve customer satisfaction by reducing wait times and likely reduce operating costs as well.
-
-### Proposed solution
-The purpose of the Chatbot (for education benefits) is to provide a tool that is integrated within VA.gov for the user to get quick answers to simple questions about their benefits and eligibility. 
-
-Priority use cases:
-- Provide access to certificate of eligibility
-- Explain how to apply for education benefits 
-- Allow users to learn more about the next step in their journey of applying for or receiving benefits
-- Information about payments
-- Application status
-- Explore eligibility for different benefits
-- Allow users to see recent or upcoming actions for students
-
 ## Desired User Outcomes
 
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-- Veterans and their families should be able to: 1) Send secure asynchronus messages to VA staff and school officials about their education benefits 2) Send documents securely to VA staff or school officials within their VA.gov account 3) Increase transparency into the communications that are being sent from a school official to a student and from va staff to a student 4) Receive all of their documents for different VA benefits securely and in one location 
+
+- Having a real-time channel for answering simple questions around education benefits would get students answers to their questions faster
+- Students can be more efficient with their time used to research, apply for, and receive benefits
 
 ## Undesired User Outcomes
 
@@ -82,8 +70,19 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-- Our initial designs are targetted towards communication for education benefits and receving of documents for a variety of benefits
-- We are early in the solutioning and are open to flexing to support communication for other benefit types if there are clear needs
+- We are early in the solutioning and are open to iterating or collaborating with the virtual agent / chatbot team as appropriate
+
+The purpose of the Chatbot (for education benefits) is to provide a tool that is integrated within VA.gov for the user to get quick answers to simple questions about their benefits and eligibility. 
+
+Priority use cases:
+- Provide access to certificate of eligibility
+- Explain how to apply for education benefits 
+- Allow users to learn more about the next step in their journey of applying for or receiving benefits
+- Information about payments
+- Application status
+- Explore eligibility for different benefits
+- Allow users to see recent or upcoming actions for students
+
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
