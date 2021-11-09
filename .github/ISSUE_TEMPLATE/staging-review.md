@@ -25,6 +25,7 @@ assignees: Shiragoodman
 
 **VFS** 
 - [ ] Respond to Platform feedback tickets.
+- [ ] Close feedback tickets when the issue has been resolved or validated by your Product Owner. If a team has additional questions or needs Platform help validating the issue, please comment in the ticket.
 - [ ] Update ticket with the product’s launch date after it has gone live.
 - [ ] Close ticket when the review is complete and the product has launched.
 
