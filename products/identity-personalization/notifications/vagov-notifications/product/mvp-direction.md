@@ -20,7 +20,7 @@ If we want to revisit the original goal of this work -- elevating action items -
 
 If there are **seven** time-sensitive things a veteran might need to do, then **we do not need a whole notifications center to accommodate this**. We can plug directly into relevant backends to elevate this information, like we already do for appointments and unread messages.
 
-## Action items are not the same thing as on-site alerts/email and text alerts, and showing this information on VA.gov should not be dependent on email/text notifications
+## Action items are not the same thing as on-site alerts/email and text alerts, and showing action items on VA.gov does not need to be tied to email/text notifications
 
 The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. This is sound with the exception of one major detail: it doesn't consider specifics around what we would want to show as an on-site notification.
 
