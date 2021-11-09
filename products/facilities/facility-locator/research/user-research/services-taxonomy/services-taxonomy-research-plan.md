@@ -55,8 +55,10 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Caregiver support
     - COVID-19 vaccines
     - Grief and bereavement counseling
+    - LGBTQ+ Veteran care
     - Make an appointment
     - Military sexual trauma care
+    - Minority Veteran care
     - MOVE! weight management
     - My HealtheVet coordinator
     - Nutrition, food, and dietary care
@@ -82,13 +84,9 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Hearing aids
     - Library services
     - Mammograms
-    - Medial records
+    - Medical records
     - Privacy office
-    - Special environmental health registry evaluation programs for Veterans
     - Support groups
-    - Walk-in drug or alcohol evaluation and treatment
-    - Report an issue
-    - Telephone care
 
 </details>
         
@@ -101,10 +99,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - Specialty care
     - Social programs and services
     - Prepare for your visit
-    - Navigating the VA
-    - Manage your health care
-    - Ways to access health care
-    - People that can help me
+    - Administrative
     - * Add a new category *
 
 </details>
