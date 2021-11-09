@@ -129,9 +129,11 @@ Using Perigean recruiting, we would like to schedule **17 participants** to reac
 
 ## Timeline and scheduling
 
-Study dates: November 17th - 24th, and November 29th - December 2nd (break to accomdate holidays)
+**Pilot session:** Novemeber 16th, 4:00 PM EST
 
-Session length: 1 hour, all times are EST
+**Study dates:** November 17th - 24th, and November 29th - December 2nd (break to accomdate holidays)
+
+**Session length:** 1 hour, all times are EST
 
 Date | Time
 -----|-----
