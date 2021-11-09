@@ -70,7 +70,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-- We are early in the solutioning and are open to iterating or collaborating with the virtual agent / chatbot team as appropriate
+We are early in the solutioning and are open to iterating or collaborating with the virtual agent / chatbot team as appropriate
 
 The purpose of the Chatbot (for education benefits) is to provide a tool that is integrated within VA.gov for the user to get quick answers to simple questions about their benefits and eligibility. 
 
