@@ -2,6 +2,14 @@
 
 # Services Taxonomy Conversation Guide
 
+## For note takers
+
+Complete verbatim transcripts aren't necessarily needed for this study. Here's where note taking will benefit us most:
+
+- When a participant talks about their own experience with VA health care
+- When a participant asks a question about a card, or category
+- When a participant gives a suggestion about cards, categories, or a description of either
+
 ## Moderator setup
 
 - [ ] 10 mins before, mention test in #feedback-backchannel
