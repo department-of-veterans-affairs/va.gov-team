@@ -14,7 +14,7 @@ If we want to revisit the original goal of this work -- elevating action items -
 - Go to an appointment
 - Read/reply to a message from their medical team (future: read/reply to messages potentially for other benefits)
 - Pay a debt
-- Refill a prescription that is due (question: does this happen automatically, or does a Veteran need to do this manually?)
+- Refill a prescription
 - Upload evidence for a claim or appeal
 - [Applying for benefits that have a time limit](https://www.military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html)
 
