@@ -66,7 +66,8 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ### Post-research follow-up questions
 
-[TBD]
+- [Once categories have been chosen] Do these categories make sense to you?
+  - Are there any additional categories you can think of that may be helpful to you?
 
 ### Thank you and closing
 
