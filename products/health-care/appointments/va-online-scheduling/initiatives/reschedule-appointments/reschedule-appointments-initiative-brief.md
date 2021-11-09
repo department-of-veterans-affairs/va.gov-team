@@ -52,6 +52,9 @@ A user can update a booked VA appointment and leave the interaction with a new b
 ## Undesired Business Outcomes
 
 
+## Key Decisions
+- It is more preferable for a user to have 2 of the same appointments booked instead of 0 appointments (discussed with Dr. Murphy in PI Planning)
+
 ---
 ## Measuring Success
 
