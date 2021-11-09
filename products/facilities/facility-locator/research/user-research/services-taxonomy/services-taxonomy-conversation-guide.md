@@ -38,7 +38,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 ## Warm-up [5 minutes]
 
 - **Can you tell me about your service history?**
-- **Can you tell me what kinds of VA facilities you have visited (hospitals, Vet Centers, etc.) [ <- this needs work]
+- **Can you tell me a little about what kinds of VA facilities you have visited before?** [Hospitals, Vet Centers, etc.?]
 - **Have you ever participated in a VA research study before?**
   - Are you familiar with what a card sort is?
   - [Yes]: Great, I'll just give you a brief overview since you're already familiar.
@@ -46,29 +46,34 @@ Before we get to the tasks you are helping us with today, a few things I want to
 - **In order to help us out today, you will need to share your screen - are you comfortable doing that today?**
   - [Yes]: Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
   - [No]: Ok no problem, I can share my screen with you then, and walk you through our task myself.
-  - [Work out any technical difficulties - worst case, run tasks on my screen while explaining them]
+  - [Work out any technical difficulties - worst case, run tasks on my screen while explaining]
 
-## Usability tasks [~ 35 minutes]
+## Usability tasks [~ 40 minutes]
 
 ### Task: card sort
 
-- **First I'll explain how the card sort works**
+- **First, I'll explain how the card sort works**
   - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
   - On the right side of your screen, are different ways to categorize those services.
   - You can drag items from the list of services on the left, into any category you choose, on the right.
 
 ** **RUN CARD SORT** **
 
-- **Questions to keep in mind**
-  - [Validate existing categories: "Do these make sense" etc.]
-  - [If explanation is necessary: does the explanation make sense?]
+- **[Moderator questions to keep in mind]**
+  - Validate existing categories:
+    - Does this category make sense?
+    - How else might you describe it?
+  - If a service needs to be explained:
+    - Does that description make sense?
+    - Based on your experience, what is a better way to describe it?
 
 ## Closing [5 minutes]
 
 ### Post-research follow-up questions
 
-- **Do these categories make sense to you?**
-  - Are there any additional categories you can think of that may be helpful to you?
+- Do these categories make sense to you?
+- Are there any additional categories you can think of that may be helpful to you?
+- Could we describe any of these services or categories more clearly?
 
 ### Thank you and closing
 
