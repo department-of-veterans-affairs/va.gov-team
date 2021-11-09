@@ -22,17 +22,19 @@ If there are **seven** time-sensitive things a veteran might need to do, then **
 
 ## Action items are not the same thing as email and text alerts, and should not be powered by email/text
 
-The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound if we think of action items the same as we think of email/text alerts. However, action items and other personal information is relevant based on **time** and **priority**, not on email/text alert status.
+The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound if we think of action items an on-site notifications as the same thing. However, action items and on-site notifications **are not the same thing**. An on-site notification is a **vehicle**, just like an email or text is a vehicle. The action item itself -- or any other personally relevant info -- is the **content**.
 
-Here are some examples that we already handle on My VA:
+The approach we've taken with this work so far assumes that an on-site notification is the best way to show action items, but it is not necessarily the only way to show action items or to make sure they have priority on My VA. Here are some examples that we already handle on My VA:
 
 - We already show people's next upcoming appointment if they have one in the next 30 days. This is not tied to any alerts VEText might send, and that is OK. This information is relevant up until the day of the appointment, not matter on what cadence VEText sends reminders.
 - We already show unread message counts. This is relevant until until a user reads the message, and it's relevancy does not depend on whether VEText sends them an alert that they have an unread messages.
 - While not an action item, we already show someone's most recently updated claim. This is relevant because it's something someone has in flight, not because of when a text or email alert goes out.
 
+The problem we are trying to solve is to make sure action items are properly elevated and easy to find on My VA/VA.gov. We can do this -- and already do -- without tying this information to email and text alerts.
+
 **When email/text alerts should trigger something on the website**
 
-Email and text should trigger on-site infomration for anything that is not personalized. For example, if we wanted to elevate COVID-19 "Keep me informed" updates on the dashboard, this should be triggered at the same time as an email and text.
+Email and text should trigger on-site noticications for anything that is not personalized. For example, if we wanted to elevate COVID-19 "Keep me informed" updates on the dashboard, this should be triggered at the same time as an email and text.
 
 ## There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
 
