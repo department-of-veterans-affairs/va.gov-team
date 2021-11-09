@@ -14,7 +14,11 @@ Last updated: 10/25/2021
 
 ## UX Decisions
 
-***
+11/9/2021
+
+- Changed order of personal information fields based on [IA feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32031#issuecomment-958188340) from Mikki Northius.  [Front-end copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/personal-info-copy.md) is updated accordingly. 
+- IA feedback also recomended placing the FAQ text immediately under the fields for **Birth sex** and **Date of birth**, but as Samara pointed out, no pattern for this currently exists in Profile.  At this time we will not modify the original placement, but may do so later if Christina Gednalske and Liz Lantz come up with a different solution.
+- Confirmed that we will use the term "Birth sex" in place of "Gender" as is established by MPI's data and also recommended by Danielle Theierry.
 
 
 ### Use experimental design pattern on radio inputs
