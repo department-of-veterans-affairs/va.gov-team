@@ -8,7 +8,7 @@ I think we've lost sight of the original goal of the on-site notifications proje
 
 ## There are only seven time-sensitive actions Veterans need to take
 
-They are:
+If we want to revisit the original goal of this work -- elevating action items -- we first need to start by considering what time-sensitive action items exist. I could only think of seven. They are:
 
 - Complete an application that is about to expire
 - Go to an appointment
@@ -18,7 +18,7 @@ They are:
 - Upload evidence for a claim or appeal
 - [Applying for benefits that have a time limit](https://www.military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html)
 
-If there are **seven** things a veteran might need to do, ie. action items, then **we do not need a whole notifications center to accommodate this**. We need to figure out how to better elevate this information on My VA, and we can revisit non-action notifications later.
+If there are **seven** time-sensitive things a veteran might need to do, then **we do not need a whole notifications center to accommodate this**. We can plug direclty into relevant backends to elevate this information, like we already do for appointments and unread messages.
 
 ## Action items are not the same thing as email and text alerts, and should not be powered by email/text
 
