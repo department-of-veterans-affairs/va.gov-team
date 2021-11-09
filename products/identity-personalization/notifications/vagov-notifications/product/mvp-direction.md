@@ -26,7 +26,7 @@ The original thinking was that VANotify would back onsite notifications so that 
 
 Again, the original goal for this work was to elevate action items, and **action items and on-site notifications are not the same thing**. An on-site notification is a **vehicle**, just like an email or text is a vehicle. The action item itself -- or any other personally relevant info -- is the **content**.
 
-The approach we've taken with this work so far assumes that on-site notifications is the best way to show action items, but it is not necessarily the only way to show action items or to make sure they have priority on My VA. Here are some examples that we already handle on My VA:
+The approach we've taken with this work so far assumes that on-site notifications are the best way to show action items, but it is not necessarily the only way to show action items or to make sure they have priority on My VA. Here are some examples that we already handle on My VA:
 
 - We already show people's next upcoming appointment if they have one in the next 30 days. This is not tied to any alerts VEText might send, and that is OK. This information is relevant up until the day of the appointment, not matter on what cadence VEText sends reminders.
 - We already show unread message counts. This is relevant until until a user reads the message, and it's relevancy does not depend on whether VEText sends them an alert that they have an unread messages.
