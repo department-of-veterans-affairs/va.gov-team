@@ -182,11 +182,10 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 
 * Release Sign off ticket is auto generated 13 days prior to the release and assigned to AH PM Delivery lead, UX lead, Engineering lead, and VA POs
 * All tasks on the ticket should be completed the Tuesday before the release (1 week prior) and before sending to the App store for review 
-* All boxes on Release ticket are checked ([sample here](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/department-of-veterans-affairs/va-mobile-app/1427)) 
+* All boxes on Release ticket are checked ([sample here](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/department-of-veterans-affairs/va-mobile-app/1427)):
     * Define version number - automation system defines the version
     * Create release branch - completed by the engineering team 
-    * What’s new content - completed by PM delivery lead 
-      * The standard template for writing What's new content is as follows
+    * What’s new content - completed by PM delivery lead. The standard template for writing What's new content is as follows:
       * You can now [describe xyz new feature(s)]. We’ve also [enhanced or improved abc] and fixed a few bugs.
       * If there aren't any new features, use standard messaging 'We added general improvements and fixed a few bugs' (if applicable)
     * Other Content updates - UX team currently updates and then sends to engineering
