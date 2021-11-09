@@ -1,9 +1,10 @@
 # Personal Information Front-End Documentation
 Last Updated 11/09/2021
 
-- [Personal Information Page - Read Only State / Blank State](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/frontend/personal-info-copy.md)
+- [Personal Information Page - Read Only State]
+- [Personal Information Page - Blank State]
 - [Personal Information Page - Edit State]
-- Personal Information Page - Read Only State 
+- Personal Information Page - Edit State - Required _Other_ Fields
 
 ## Personal Information Page - Read-Only State
 
@@ -45,18 +46,73 @@ Please contact your nearest VA regional office to update your personal informati
 ### Field Set
 - Per a11y feedback in design intent review, the fieldset div **should not** contain a gray header with "Personal information" because it causes screen readers to "Personal information" twice, which may be confusing.
 
-### Field Labels and Content
+### Field Labels and Content 
 
 Each div within the form field set will contain:
   - Field label
-  - Current value(s) or edit information (if editable)
+  - Current value of the field retrieved from the MPI database.  Values shown below are samples that correspond with the mockups.
   - Edit button (if editable)
 
 ---
 
 **Date of birth** 
+July 16, 1957
 - _Note - this field is non-editable_
 
+---
+
+
+
+**Preferred name** <br>
+Kim <br> 
+{Edit button}
+
+---
+
+
+**Pronouns** <br>
+She/her/hers, They/them/theirs <br> 
+{Edit button}
+
+
+---
+
+
+**Birth sex** <br>
+Female <br>
+- _Note this is a change to the existing label that currently reads 'Gender'_
+- _Note - this field is non-editable_
+
+---
+
+**Gender identity** <br>
+Female <br>
+{Edit button}
+
+---
+
+**Sexual orientation** <br>
+Straight or heterosexual <br> 
+{Edit button}
+
+---
+
+## Personal Information Page - Blank State
+
+### Specification
+The Blank state is identical to the Read-Only state, except that the Veteran has not yet added a value for a given field.
+
+### Field Labels and Content
+
+Each div within the form field set will contain:
+  - Field label
+  - Instructions for adding a value for that field
+
+---
+
+**Date of birth** 
+July 16, 1957
+- _Note - this field is non-editable_
 ---
 
 
@@ -77,6 +133,7 @@ Edit your profile to add a pronoun <br>
 
 
 **Birth sex**
+Female
 - _Note this is a change to the existing label that currently reads 'Gender'_
 - _Note - this field is non-editable_
 
@@ -93,6 +150,7 @@ Edit your profile to add a sexual orientation <br>
 {Edit button}
 
 ---
+
 
 ## Personal Information Page - Edit State
   - Note that in the Edit state, only _one_ field is editable at a time.
