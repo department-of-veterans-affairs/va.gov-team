@@ -1,4 +1,4 @@
-# On-site notifications MVP direction
+# Thoughts on why we may want to pivot the direction of on-site notifications
 
 November 2021
 
@@ -6,9 +6,7 @@ November 2021
 
 I think we've lost sight of the original goal of this work, which is [how do we elevate action items on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#research-goals)? We've pivoted into how do we elevate ALL notifications. Additionally, while the initial strategy to tie on-site information to email/text is sound, this falls appart once we consider the content veterans want to see vs. what VANotify currently supports. As a result, it is apparent that the steps we'd need to take to show veterans what they want to see via VANotify is too complicated to be worth the level of effort, and it is not the simplest or best way to elevate action item information. So, I'd like us to revisit some of our thinking to determine if the current path we are on is the best path.
 
-## Thoughts on why we may want to pivot how we are thinking about this work
-
-### There are only seven time-sensitive actions Veterans need to take
+## There are only seven time-sensitive actions Veterans need to take
 
 They are:
 
@@ -22,7 +20,7 @@ They are:
 
 If there are **seven** things a veteran might need to do, ie. action items, then **we do not need a whole notifications center to accommodate this**. We need to figure out how to better elevate this information on My VA, and we can revisit non-action notifications later.
 
-### Action items are not the same thing as email and text alerts, and should not be powered by email/text
+## Action items are not the same thing as email and text alerts, and should not be powered by email/text
 
 The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. In theory, this is certainly sound if we think of action items the same as we think of email/text alerts. However, action items and other personal information is relevant based on **time** and **priority**, not on email/text alert status.
 
@@ -36,7 +34,7 @@ Here are some examples that we already handle on My VA:
 
 Email and text should trigger on-site infomration for anything that is not personalized. For example, if we wanted to elevate COVID-19 "Keep me informed" updates on the dashboard, this should be triggered at the same time as an email and text.
 
-### There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
+## There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
 
 However, when we consider action items as not 100% tied to email/text alerts, and when we consider available content in VANotify, user needs, and technical support for personalized data, things start to break down:
 
@@ -79,13 +77,13 @@ Cross-checking these lists, there are only two items of overlap if we're talking
 
 Furthermore, we already show unread messages and appointments by connecting directly to those endpoints. We don't need VANotify for this, as it isactually be much easier to support debt info and BVA appointment reminders with integrations directly to those backends.
 
-### There are personalization issues that arise from working through VANotify because of privacy constraints around email/text
+## There are personalization issues that arise from working through VANotify because of privacy constraints around email/text
 
 There are additional privacy restrictions for email and text alerts that prevent them from showing personally-relevant information that we would want to show on VA.gov. Were VANotify to support action items on My VA, this would mean we'd either have to show partial, incomplete data because we're bound to the same restrictions as text and email since we'd be working off the data they currently have, OR we'd have to do some weird logic to somehow get the additional information we can show to people when they are authenticated and identity verified.
 
 **Example**: VANotify can't show someone the name of a prescription or full tracking number in an email, so we wouldn't be able to show that on My VA even though people would expect to be able to see that if they were logged in.
 
-### TL;DR
+## TL;DR
 
 Essentially, for action items specifically, this information's relevancy is not dependent on email and text alerts and should be fed to us directly from the specific endpoints that power them, NOT VANotify (or VEText). A VANotify integration would likely work best for information that is not personalized, like COVID-19 keep me informed updates. But, for personalized veteran information, that information is not email/text alert dependent and should not be treated as such. The integration of action items and other non-action benefit-related information should be integrated into My VA on a case-by-case basis that considers veteran needs and priorities.
 
