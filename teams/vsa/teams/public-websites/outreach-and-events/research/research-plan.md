@@ -94,7 +94,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: Nov 19 and 22 at time TBD
 
 ### Research sessions
-Nov 29 - Dec 3, 2021 
+Nov 29 - Dec 2, 2021 
 
 ### Length of sessions
 **60-minute sessions** with at least **30-minute breaks** in between
@@ -107,7 +107,6 @@ Nov 29, 2021 | 1:30 - 3 pm, 4 - 8 pm
 Nov 30, 2021 | Noon - 3 pm, 4 - 8 pm
 Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
 Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
-Dec 3, 2021 | Noon - 3 pm, 4 - 8 pm
 	
 ## Team Roles	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
