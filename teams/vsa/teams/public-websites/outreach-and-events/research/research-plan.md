@@ -62,7 +62,7 @@ We want to include some participants who use screen readers, but we will have to
 
 ## Recruitment	
 
-Ask Perigean to recruit **15** Veterans in order to get **8** completed sessions using the criteria below.
+Ask Perigean to recruit **14** Veterans in order to get **7** completed sessions using the criteria below.
 
 ### Primary criteria (must-haves)
 - All are Veterans
