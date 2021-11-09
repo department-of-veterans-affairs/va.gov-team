@@ -14,12 +14,13 @@ I think we've lost sight of the original goal of this work, which is [how do we 
 - Pay a debt
 - Refill a prescription that is due (question: does this happen automatically, or does a Veteran need to do this manually?)
 - Upload evidence for a claim or appeal
+- [Applying for benefits that have a time limit](https://www.military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html)
 
-So, there are only **six** time-sensitive actions a veteran might need to take, all of which are relevant regardless of how they are treated in email/text alerts.
+So, there are only **seven** time-sensitive actions a veteran might need to take, all of which are relevant regardless of how they are treated in email/text alerts.
 
 ## Thoughts on why we may want to pivot how we are thinking about this work
 
-If there are **six** things a veteran might need to do, ie. if there are six types of action items, then **we do not need a whole notifications center to accommodate this**. We need to figure out how to better elevate this information on My VA, and we can revisit non-action notifications later.
+If there are **seven** things a veteran might need to do, ie. action items, then **we do not need a whole notifications center to accommodate this**. We need to figure out how to better elevate this information on My VA, and we can revisit non-action notifications later.
 
 ### There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
 
