@@ -35,6 +35,10 @@
 
 </details>
 
+## November 10
+* CLP status
+* 
+
 ## November 3 
 
 * CLP status
