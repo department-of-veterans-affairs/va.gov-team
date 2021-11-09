@@ -6,7 +6,7 @@ labels: tools-be, sidekiq-access-request
 assignees: ericboehs
 ---
 
-_Access to the Sidekiq Admin UI is managed through a GitHub team under the `department-of-veterans-affairs/vets.gov-write` org. Please provide your GitHub username to be added to that team, along with a reason access is required._
+_Access to the Sidekiq Admin UI is managed through a GitHub team under the [department-of-veterans-affairs/va.gov-sidekiq team](https://github.com/orgs/department-of-veterans-affairs/teams/va-gov-sidekiq/members). Please provide your GitHub username to be added to that team, along with a reason access is required._
 
 - GitHub username: 
 - Reason access is required: 
