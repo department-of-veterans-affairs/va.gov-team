@@ -75,10 +75,10 @@ _Link to the following materials as relevant._
 
 <details>
 
-- Team Name: FE Tools (primary) & BE Tools (secondary)
-- GitHub Label: `tools-fe` `tools-be`
-- Slack channel: `#temp-integration-testing` (private) & `vsp-tools-fe`
-- Product POCs: Megan K (primary Product Manager)
+- Team Name: Testing Tools Team (primary) & BE Tools (secondary)
+- GitHub Label: `vsp-testing-team` `tools-be`
+- Slack channel: `#vsp-testing-tools-team`
+- Product POCs: Joe Tice (primary Product Manager)
 
 </details>
 
