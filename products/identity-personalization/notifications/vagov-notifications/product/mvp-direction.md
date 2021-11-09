@@ -15,7 +15,7 @@ I think we've lost sight of the original goal of this work, which is [how do we 
 - Refill a prescription that is due (question: does this happen automatically, or does a Veteran need to do this manually?)
 - Upload evidence for a claim or appeal
 
-We should confirm that this is the entire list of time-sensitive actions.
+So, there are only **six** time-sensitive actions a veteran might need to take, all of which are relevant regardless of how they are treated in email/text alerts.
 
 ## Thoughts on why we may want to pivot how we are thinking about this work
 
