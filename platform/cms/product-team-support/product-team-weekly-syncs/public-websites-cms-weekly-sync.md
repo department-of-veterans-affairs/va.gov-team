@@ -35,9 +35,17 @@
 
 </details>
 
+## November 17
+
+Cancelled?
+
 ## November 10
 * CLP status
-* 
+* Recurring events
+  * Sequency / runbook
+  * Generating (and ability to regenerate?) sample content for FE dev and QA purposes
+* "Connect with us" block on hub landing apges
+* No meeting week of Nov 17?
 
 ## November 3 
 
