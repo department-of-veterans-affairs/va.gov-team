@@ -6,7 +6,7 @@ An easily searchable repository of articles created by Platform Crew members exp
 
 ## Problem Statement
 
-Platform teams receive customer support requests of varying nature and complexity which makes it challenging to provide a consistent and efficient support experience to VFS teams.
+Without a knowledge base, it is difficult for Platform Support team members to quickly resolve support requests by providing links to documentation - currently 12% of requests involve providing documentation and 61% of those still require additional support after the user receives documentation. This increases the time it takes Platform Support to provide VFS team members with what they need. It also increases the time new Platform Support team members need to onboard, as they cannot refer to documentation to learn how to respond to common support requests.
 
 ## Personas
 
@@ -26,9 +26,8 @@ Phase 2: VFS teams
 
 ### Key Performance Indicators (KPIs)
 
-- Increase in support requests referencing documentation
-- Decrease of users required additional support after receiving documentation
-- Decrease in Slack support requests (excluding Collab Cycle and PR reviews)
+- Pageviews for knowledge base articles.
+- % of support requests resolved by providing links to knowledge base articles.
 
 #### Baseline KPI Values
 
