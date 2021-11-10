@@ -15,6 +15,7 @@
 - [Sprint 70](#sprint-70-323---45)
 
 ## Sprint 58 (10/6 - 10/19)
+[Sprint 58 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30923)
 
 ### General onboarding & team management
 
@@ -48,6 +49,7 @@
 - Start build
 
 ## Sprint 59 (10/20 - 11/2)
+[Sprint 59 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31784)
 
 ### General 
 
@@ -79,6 +81,7 @@
 - Continue frontend build
 
 ## Sprint 60 (11/3 - 11/16)
+[Sprint 60 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32282)
 
 ### General 
 
@@ -112,6 +115,7 @@ Onboard Christina to this work:
 - Sit in on MPI calls
 
 ## Sprint 61 (11/17 - 11/30) 
+[Sprint 61 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32701)
 
 ### Personal information updates
 
