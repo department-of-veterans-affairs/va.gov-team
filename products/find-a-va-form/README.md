@@ -37,7 +37,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [Troubleshooting](#troubleshooting)
 - [Search Landing Page MVP Status and Decisions](#mvp-search-landing-page-status-and-decisions)
 - [Form Detail Page MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/form-detail-landing-pages/status-and-decisions.md)
-- [Post-MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/find-a-va-form/post-mvp-releases/post-mvp-status-and-decisions.md)
+- [Post-MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/post-mvp-status-and-decisions.md)
 
 ## Incident Response
 As of 12/31/2020:
