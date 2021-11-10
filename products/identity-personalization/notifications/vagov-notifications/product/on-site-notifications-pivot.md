@@ -93,6 +93,12 @@ Essentially, the approach we have been taking loses sight of the original proble
 
 ## Next steps
 
-- Pause the current VANotify integration. We should pursue this later after we've developed a strategy to better elevate action items on My VA.
-- Discuss how we want to pursue a strategy for better elevating action items on My VA -- appointment reminders (medical and appeals hearings), unread messages, refill a prescription, pay a debt, upload evidence for a claim, and completing applications that are about to expire. We'll need to consider benefit recommendations later on.
-- Plan immediate next steps for work.
+- Review with team.
+- Samara to review with leadership.
+
+If we're in alignment, we have some options for moving forward.
+
+- Pause VANotify integration all together, OR..
+- Continue to pursue this integration, but for non-personalized information only (eg. COVID-19 Keep Me Informed updates).
+- Discuss next steps for elevating action items.
+- Plan immediate next steps for this work.
