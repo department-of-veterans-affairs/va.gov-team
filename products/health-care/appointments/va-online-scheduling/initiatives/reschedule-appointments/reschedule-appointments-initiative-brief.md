@@ -22,6 +22,8 @@ A user can update a booked VA appointment and leave the interaction with a new b
   - Anecdotal feedback from stakeholders
   - Qualitative feedback from surveys
 * How does this initiative help further OCTO-DE's mission and goals?
+  - Improve user satisfaction
+  - Meet user expectations of available online transaction
 
 
  <details>
@@ -37,54 +39,52 @@ A user can update a booked VA appointment and leave the interaction with a new b
 
 </details>
 
-## Desired User Outcomes
+## Desired Outcomes
 - A user can book the same appointment for a different time
+- Patients attend their scheduled appointments
 
-## Undesired User Outcomes
-- A user cancels a booked appointment and can't schedule a new one (i.e. user leaves with 0 appointments)
+## Undesired Outcomes
+- A user can't reschedule their appointment by self-scheduling
+- A user reschedules an appointment and the new appointment is not booked (i.e. user leaves with 0 appointments)
 - A user reschedules an appointment and the original appointment is not canceled (i.e. user has 2 of the same appointment)
-
-## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
-
 
 ## Key Decisions
 - It is more preferable for a user to have 2 of the same appointments booked instead of 0 appointments (discussed with Dr. Murphy in PI Planning)
+  - Book updated appointment, Then cancel original
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+Key Result | Baseline | Target | Link to data source (e.g. GA, Domo)
+--- | --- | --- | ---
+Increase conversion rate | Baseline | Target | Link to data source (e.g. GA, Domo)
+Increase scheduling submission success rate | Baseline | Target | Link to data source (e.g. GA, Domo)
+Increase number of scheduling transactions | Baseline | Target | Link to data source (e.g. GA, Domo)
+Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA, Domo)
+Reduce no-shows to appointments | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - .
+  - The experience may vary based on facility configurations
+  - If user is unable to self schedule the new appointment, they may lose trust in the functionality and are less likely to return
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - We will have to balance the distinction between the cancel and reschedule functionality
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - API availability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - Must work with VAMF to set up rebook and cancel interactions
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
 
 ### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
+1. Reschedule through direct schedule flow in VAOS
+2. Reschedule through other channels
+3. TBD - "Reschedule" requests
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
