@@ -104,26 +104,12 @@ Do you see the link?
 
 ## Veteran Tasks
 
-
-**DRAFT TASK IDEAS:**
-overall: peruse the event listing of one-time and recurring events and register for some 
-
-Find an event and sign up to attend when it's convenient for you
-- filter by date range
-  - any feedback on options
-- one-time event
-- recurring event
-  - look at all occurrences of it (need to click "view more occurrences")
-  - see if people click "view more"
-  - get reactions to the # of events shown on screen before click "view more" (how many events do people want to see at once?)
-- sign up for 2 occurrences of it
-- see if people want to click "Add to Calendar" (ask if there's anything else that they'd want to do on this page)
-- record reactions to location info shown. ask what they want to see (i.e., is city enough?) 
-
 ### Task 1: [Impressions of Events List] - 5 minutes
 Please take a look at this page and tell me your impressions of what you see. Don't tap/click anywhere.
 
 What do you think you can do from this page?
+
+- *RECORD any reactions to location info shown*
 
   
 ### Task 2: [Filter by Date] - 5 minutes
@@ -137,14 +123,38 @@ I'd like you to see if there are any VA events coming up soon that could help yo
 
 If you wanted to go to this event, what would you do? *(Register button / ______________)*
 
+Can you please go back to the previous page? *[Event detail]* Is there anything else that you would do on this page?
+- *RECORD: Add to Calendar / Share on FB / Twitter / ______________*
 
 ### Task 3: [Recurring Events] - 5 minutes
 Let's say that you've decided that you want to try yoga in January. Can you find any yoga classes to sign up for?
-- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu
+- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
 - *RECORD any feedback on date filter options: Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
 
-- Did they 
+*(When see event detail page w/recurring event)* Can you tell me about what you see here?
+
+- *Understand that there are multiple occurrences of this event? Yes / No / Unknown*
+
+- *RECORD any feedback on "View 12 more occurrences accordion":* 
+
+I'd like you to sign up for 2 yoga classes in January.
+- *RECORD any feedback on "View more":* 
+
+- *RECORD any feedback on scrolling the growing list of occurrences:* 
+- How many do you want to see in this list?
+
+- *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
+
+Can you please go back to the previous page? *[Event detail]* Is there anything else that you would do on this page?
+- *RECORD: Add to Calendar / Share on FB / Twitter / ______________*
+
+Can you go please back to the previous page? *[Events list]*? 
+-*(If didn't talk about location info earlier)* How do you know where these events are taking place? 
+
+For in-person events, what location information would be useful for you? 
+- *RECORD city / state / street address / ____________*
+
 
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
