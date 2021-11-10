@@ -100,10 +100,11 @@ Since users might possibly want to be able to customize the kind of content that
 
 <img src="https://user-images.githubusercontent.com/72415933/141183013-95a217f4-8154-4f71-bf5b-9da7b4c59cab.png" alt="Screenshots of the GoodRx, Meetup, Headspace, Asana, and Apple Health apps showing favorited or saved content" width="750">
 
+
 2. The ability to add/remove/organize the content that’s displayed on a personalized screen was a less common pattern that we saw, but one that could potentially be useful.
     * This was done by allowing users to select an edit button on the personalized screen that takes them to a customization screen. The screen allowed users to add, remove, or organize the content that was displayed on the personalized screen. 
 
-<img src="https://user-images.githubusercontent.com/72415933/141183750-a98b4aa8-223e-4d17-9014-3f78de7fc87b.png" alt="Screenshot of the Evernote home screen customization screen" width="150">
+<img src="https://user-images.githubusercontent.com/72415933/141193760-d7eb7621-b16d-448c-887f-6604b18ac57b.png" alt="Screenshot of the Evernote and Twitter apps showing a customization screen" width="300">
 
 
 ## Takeaways
