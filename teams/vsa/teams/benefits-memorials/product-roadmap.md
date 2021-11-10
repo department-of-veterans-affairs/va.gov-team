@@ -4,11 +4,12 @@ Updated June 2021
 **Current Projects & Enhancements**
 | Project | Status  |
 |--|--|
-| 526 Enhancements |  Discovery|
+| 526 Enhancements |  Complete|
 |Benefits Delivery at Discharge| Launched  |
 | Higher Level Review | Launched |
-|Notice of Disagreement| Underway |
-| Claims Status Tool | Not started  |
+|Notice of Disagreement| Complete, Launch pending |
+| Claims Status Tool | Discovery  |
+| Higher Level Review v2 | Underway  |
 
 
 **Projected timelines**
@@ -30,7 +31,7 @@ Updated June 2021
 |----|----|
 |Benefits Delivery at Discharge | Complete |
 |Higher Level Review | Complete|
-|TBD | - |
+|526 | Complete |
 |TBD | - |
 |TBD | - |
 
@@ -40,12 +41,8 @@ Updated June 2021
 |----|----|
 |Claim Status Tool| Team priority | 
 |Launch forms 4192 and 8949 (this [issue])(https://github.com/department-of-veterans-affairs/va.gov-team/issues/3475) | Form 526 |
+|Form 10-867849 (https://www.va.gov/vaforms/medical/pdf/10-8678-fill.pdf) | Form 526 |
+|Form 21-4502 (https://www.vba.va.gov/pubs/forms/VBA-21-4502-ARE.pdf) |
+|Form 10-1394 (https://www.va.gov/vaforms/medical/pdf/10-1394-fill.pdf) |
 
 
-#### Other Projects & Enhancements 
-
-
-|Project|Initiating team|Date of request| Status/Notes|
-|----|----|----|----|
-|- |- | - | -|
-|-| - | - | -|
