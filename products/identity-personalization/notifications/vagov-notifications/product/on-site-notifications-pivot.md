@@ -38,7 +38,7 @@ The problem we are trying to solve is to make sure action items are properly ele
 
 Email and text should trigger on-site noticications for anything that is not personalized. For example, if we wanted to elevate COVID-19 "Keep me informed" updates on the dashboard, we may still want to consider an integration so that an on-site alert shows up at the same time as an email or text. 
 
-## There are discrepancies between what VANotify currently supports and what people want to see on their dashboards
+## There are discrepancies between what VANotify currently supports and what people want to see on their dashboards.
 
 If we want VANotify to support on-site content, we are bound to the content VANotify supports now for our on-site notifications MVP. Again, in theory, this makes a lot of sense. However, it falls apart when we realize that VANotify does not support enough content veterans want to see as action items, we already have some of this information on My VA, and it's just a lot easier to connect directly to backend endpoints.
 
