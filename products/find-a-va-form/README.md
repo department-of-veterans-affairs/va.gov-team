@@ -296,7 +296,7 @@ TIC -> revproxy ALB -> nginx -> vets-api ELB -> vets-api -> revproxy ALB -> ngin
 ![image](https://user-images.githubusercontent.com/73354907/125852399-af89f562-4ea3-4fe4-80fe-2d524eff2e45.png)
 
 ------
-
+## MVP Search Landing Page Status and Decisions
 
 ### 06/22/20 
 Redirect of the forms search pages set for Thursday 6/25 implementation. Stakeholders notified. Per Kevin Reid, the Viewer page is not "owned" by the forms managers, so we will exclude that page from the redirects. 
