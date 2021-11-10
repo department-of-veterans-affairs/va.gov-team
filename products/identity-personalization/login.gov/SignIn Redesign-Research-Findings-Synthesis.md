@@ -65,11 +65,7 @@ When presented with the changes to the VA.gov sign-in modal, participants will b
 
 1. 93.75% of Participants clicked on CSP buttons
     * 6.25% Failed to click on a CSP button
-2. Total Participants by Sign In Providers (regardless of segment groups)
-    * 43.75% MHV
-    * 31.25% DS Logon
-    * 15.625% ID.ME
-    * 3.125% Login.gov
+2. All credential providers were accounted for amongst participants
 3. Participants sometimes selected providers that were not within their recruited segment group. 
     * (Marked as successful although different provider was selected)
 4. Participants sometimes completed the study multiple times and used a different sign in provider from their previous attempt
@@ -88,43 +84,21 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+**All credential providers were accounted for amongst participants**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+Regardless of their segment groups participants varied in credential providers. There was at least one click for every CSP button.
+* 43.75% MHV
+* 31.25% DS Logon
+* 15.625% ID.ME
+* 3.125% Login.gov
 
 
-**Finding 2**
+**Most Participants clicked on or around credential provider logos**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+![Cluster Map_First Click.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a66bd7cf43504adf53655ff5ab970f07224f59b7/products/identity-personalization/login.gov/Cluster%20Map_First%20Click.png)
 
 
-**Finding 3**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
 
 
 
