@@ -120,14 +120,31 @@ Find an event and sign up to attend when it's convenient for you
 - see if people want to click "Add to Calendar" (ask if there's anything else that they'd want to do on this page)
 - record reactions to location info shown. ask what they want to see (i.e., is city enough?) 
 
-### Task 1: [ ] - 5 minutes
-Imagine that you want to see what VA events are happening.
+### Task 1: [Impressions of Events List] - 5 minutes
+Please take a look at this page and tell me your impressions of what you see. Don't tap/click anywhere.
 
+What do you think you can do from this page?
 
-- Please talk me through what you're doing. 
   
+### Task 2: [Filter by Date] - 5 minutes
+I'd like you to see if there are any VA events coming up soon that could help you look for a new job.
+
+*(When see dropdown date options)* What are your thoughts on those options?
+
+- *RECORD any feedback: Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+
+*(When see event detail page)* What are your impressions of what you see here?
+
+If you wanted to go to this event, what would you do? *(Register button / ______________)*
 
 
+### Task 3: [Recurring Events] - 5 minutes
+Let's say that you've decided that you want to try yoga in January. Can you find any yoga classes to sign up for?
+- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu
+
+- *RECORD any feedback on date filter options: Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+
+- Did they 
 
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
