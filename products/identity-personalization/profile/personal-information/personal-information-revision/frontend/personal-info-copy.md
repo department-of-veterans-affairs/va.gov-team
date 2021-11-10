@@ -140,7 +140,7 @@ Female
 ---
 
 **Gender identity** <br>
-Edit your profile to add a pronoun <br> 
+Edit your profile to add a gender identity<br> 
 {Edit button}
 
 ---
