@@ -153,7 +153,7 @@ Can you go please back to the previous page? *[Events list]*?
 -*(If didn't talk about location info earlier)* How do you know where these events are taking place? 
 
 For in-person events, what location information would be useful for you? 
-- *RECORD city / state / street address / ____________*
+- *RECORD city / state / street address / zip / name of VA facility / ____________*
 
 
 ## (if time) Post-Task Interview - 5 minutes
