@@ -37,7 +37,7 @@ CMS FE dev path forward sync
 - Relying on Gaida for code review
 - Joining Facilities team's Scrum on Thursdays for progress report, and possibly other ceremonies (TBD, ad hoc basis)
 
-Need for a facility name change runbook (example "The Callahan VA Clinic is permanently closed in VAST. It was removed from Lighthouse but is still lingering with a status = closed in the CMS")
+Need for a facility name change runbook
  - Helpdesk standardizes referring editors to KB article, not api@va.gov
  - Runbook to capture steps (Has the editor submitted the change request? Do we need to update the URL? Do we need to update the left navigation menu item? etc.)
  - things the runbook should account for
@@ -65,7 +65,7 @@ Other recent examples
 1. San Diego (VAMC facility)
 2. North Florida / South Georgia (VAMC sytem)
 3. Prescott / Dr Cameron (Vet Center)
-4. Sorry: Oxford VA Clinic to Anniston-Oxford VA Clinic (VAMC facility)
+4. Oxford VA Clinic to Anniston-Oxford VA Clinic (VAMC facility)
 
 Facility status & Facility Status more info interdependencies
 
