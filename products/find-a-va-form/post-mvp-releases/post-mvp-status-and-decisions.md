@@ -55,16 +55,16 @@ _Transforming Search Terms Iteration 1_ was launched.  This updated the search a
 ## 2/11/2021 Marci McGuire
 _Sort by Date_ was introduced to the search results. This fulfilled a request to enable external user of VA forms - such as a state Veterans benefit agency or a Veterans claims agent service - the ability to sort forms to see which were the most current.
 
-### 1/23/2021 Marci McGuire
+## 1/23/2021 Marci McGuire
 The post-MVP enhancements to link the Find a VA Form search page to form details pages and online tools was launched on 1/21/2021 and included the ability to sort forms by date.
 
-### 1/05/2021 Marci McGuire
+## 1/05/2021 Marci McGuire
 The decision was made to exclude the ability to sort forms by date in the post-MVP launch.  That will come in late Jan/early Feb.
 
-### 12/31/2020 Marci McGuire
+## 12/31/2020 Marci McGuire
 _Post-MVP enhancements_ were launched on Jan 18, 2021, which provide direct links from search results to form details page (where they exist) and the ability to sort results by **Form last updated** date.
 
-### 2020/12/21 Marci McGuire
+## 2020/12/21 Marci McGuire
 John Hashimoto and Marci McGuire agreed that the features being implemented to connect the search landing page to detail page are low-risk and don't warrant conducting user research.
 
 
