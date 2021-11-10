@@ -11,7 +11,7 @@ I think we've lost sight of the original goal of the on-site notifications proje
 If we want to revisit the original goal of this work -- elevating action items -- we first need to start by considering what time-sensitive action items exist. I could only think of seven. They are:
 
 - Complete an application that is about to expire
-- Go to an appointment
+- Go to an appointment (Medical or BVA hearing)
 - Read/reply to a message from their medical team (future: read/reply to messages potentially for other benefits)
 - Pay a debt
 - Refill a prescription
