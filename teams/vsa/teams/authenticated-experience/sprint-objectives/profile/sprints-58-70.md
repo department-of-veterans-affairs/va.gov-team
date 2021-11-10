@@ -3,7 +3,7 @@
 - [Sprint 58](#sprint-58-106---1019)
 - [Sprint 59](#sprint-59-1020---112)
 - [Sprint 60](#sprint-60-113---1116)
-- [Sprint 61](#sprint-61-1117--1130)
+- [Sprint 61](#sprint-61-1117---1130)
 - [Sprint 62](#sprint-62-121---1214)
 - [Sprint 63](#sprint-63-1215---1228)
 - [Sprint 64](#sprint-64-1229---111)
