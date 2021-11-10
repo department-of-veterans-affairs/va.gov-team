@@ -56,6 +56,7 @@ As of 12/31/2020:
 |Marci McGuire	| Search Product Manager|
 |Zachary Morel	|FE Engineer|
 |Cassandra Allen| Design|
+|Cindy Merrill| Research|
 
 ### Lighthouse API Team
 |Name|Role|
