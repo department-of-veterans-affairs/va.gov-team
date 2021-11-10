@@ -19,6 +19,10 @@ Sprint planning and goals are tracked in [here](https://docs.google.com/presenta
   - Completed Appt Push Notifications development (minor updates needed in order to merge) 
   - Extended survey from Appt 
 
+- Tech/Design Debt & Maintenance
+   - Completed DataDog Migration for alerts
+
+
 
 ## Sprint: 10/13/21 - 10/26/21
 
