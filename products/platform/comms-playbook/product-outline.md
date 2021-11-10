@@ -22,6 +22,7 @@ Platform teams, VFS teams, OCTO-DE
 
 ### Key Performance Indicators (KPIs)
 
+- Increase in customer satisfaction
 - Number of pageviews for communications about Platform changes.
 - % of people who click on links in communications about Platform changes.
 - Decrease in Slack support requests (excluding Collab cycle and PR reviews).
