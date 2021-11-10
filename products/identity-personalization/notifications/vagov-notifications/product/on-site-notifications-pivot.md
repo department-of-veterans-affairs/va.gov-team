@@ -101,4 +101,3 @@ If we're in alignment, we have some options for moving forward.
 - Pause VANotify integration altogether, OR...
 - Continue to pursue this integration, but for non-personalized information only (eg. COVID-19 Keep Me Informed updates).
 - Discuss next steps for elevating action items.
-- Plan immediate next steps for this work.
