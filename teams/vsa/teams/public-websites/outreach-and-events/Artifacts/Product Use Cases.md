@@ -23,11 +23,10 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
 ## Use Case A
 
 * **Description - broken link**
-  - A user clicks on the menu button and exspander menu doesn't render full memu to include accordions or "Va benefits and Health Care" and "About VA".  
-  - The new hamberger icon should act as an expander opener for deeper menu items.  
+  -   
 
 * **Link to designs**
-  - [Sketch Mockups](https://www.sketch.com/s/63193c20-04fc-4d4f-8b54-abf698c48636/a/Vr8Zzrw)
+  - 
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - 
@@ -35,12 +34,10 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
 ## Use Case B
 
 * **Description - no search results**
-  - User enters a search query on the new drop down search bar under the menu icon and doesn't get return results as desired. 
-  - User is taken to drop down menu search element and receives `null` results. 
-  - The user should receive legacy search results based on search logic applied to the new mobile header. 
+  -  
 
 * **Link to designs**
-  - [Sketch Mockups](https://www.sketch.com/s/63193c20-04fc-4d4f-8b54-abf698c48636/a/Vr8Zzrw)
+  - 
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - 
@@ -49,11 +46,10 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
 ## Use Case C
 
 * **Description - Dismissible Banners**
-  - User pulls up new mobile header and should have the ability to dismiss "Facility" Banner and "help" sticky banner from the mobile view.
-  - User should see blue "X" for dismissal and once clicked, screen should refresh with banners removed.   
+  -    
 
 * **Link to designs**
-  - [Sketch Mockups](https://www.sketch.com/s/63193c20-04fc-4d4f-8b54-abf698c48636/a/Vr8Zzrw)
+  - 
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - 
@@ -61,11 +57,10 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
 ## Use Case D
 
 * **Description - New VA Logo Redirect to VA.gov Homepage**
-  - New logo has been implimented as part of this initiative, its desired that users can click the "VA" logo on mobile and be redirected to VA.gov homepage. 
-  - User should be reset on homepage when clicking the VA.gov homepage.  
+  -   
 
 * **Link to designs**
-  - [Sketch Mockups](https://www.sketch.com/s/63193c20-04fc-4d4f-8b54-abf698c48636/a/Vr8Zzrw)
+  - 
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - 
