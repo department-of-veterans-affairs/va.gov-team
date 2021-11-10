@@ -43,9 +43,14 @@ Cancelled?
 * CLP status
 * Recurring events
   * Sequency / runbook
+    * Research ongoing
+    * Future convo on roadmap to prod
   * Generating (and ability to regenerate?) sample content for FE dev and QA purposes
-* "Connect with us" block on hub landing apges
-* No meeting week of Nov 17?
+    * Kelson to create some sample content
+    * How does FE pull location for events when available in BE - Kev and Kelson to discuss
+* "Connect with us" block on hub landing pages
+* No meeting week of Nov 17? 
+  * Move to Friday 18 Nov.
 
 ## November 3 
 
