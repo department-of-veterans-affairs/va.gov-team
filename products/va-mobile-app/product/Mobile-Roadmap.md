@@ -5,6 +5,7 @@
 
 # Long term Roadmap
 
+
 <table>
   <tr>
    <td colspan="6" >
@@ -114,6 +115,8 @@ VA services are not always accessible across the digital divide and to those wit
 <li>Vaccine records
 
 <li>Rx Refill initial discovery
+
+<li>Appointment refinements
 </li>
 </ul>
    </td>
@@ -181,9 +184,7 @@ VA services are not always accessible across the digital divide and to those wit
    <td>
 <ul>
 
-<li>View C&P payments
-
-<li>View Education payments
+<li>View payments
 
 <li>Debt
 
@@ -210,7 +211,9 @@ VA services are not always accessible across the digital divide and to those wit
    <td>
 <ul>
 
-<li>Rx Refill design + build 
+<li>Rx Refill design + build
+
+<li>Inter-health integrations 
 </li>
 </ul>
    </td>
@@ -329,9 +332,12 @@ VA services are not always accessible across the digital divide and to those wit
 </table>
 
 
-## Simplified:
+
+### Simplified:
 
 **Continued/Repeated each quarter:**
+
+
 
 * UAT for new features
 * Codesign Sessions
@@ -339,8 +345,11 @@ VA services are not always accessible across the digital divide and to those wit
 * Analytics
 * Documentation sites
 
-**Starts Now (Q4 2021):**
+**Starts Now (Q4c 2021):**
 
+
+
+* Appointment refinements (reason for appointment, phone vs video icon, covid vaccine)
 * Vaccine records
 * Rx Refill initial discovery
 * Push Notifications  for Appointments
@@ -357,13 +366,13 @@ VA services are not always accessible across the digital divide and to those wit
 
 **Starts Next (Q1 2022):**
 
+
+
 * Appointment Request & Direct Schedule
 * Health Records expansion
-* Direct Deposit (view and manage payment history for C&P)
 * Redesign activities
 * Debt (mirroring VA.gov)
-* View C&P Payments
-* View Education Payments
+* View Payments
 * Profile: View (and manage?) Dependents
 
 **Starts Later (Q2 2022 and beyond):**
@@ -371,12 +380,27 @@ VA services are not always accessible across the digital divide and to those wit
 
 
 * Rx Refill design + build
+* Inter-Health integrations (schedule an appointment from secure messaging, send a covid vaccine record seeker to schedule a vax appt)
 * Veteran ID card
 * Push Notifications for Claims
 * Retire MHV
 * Retire DS Logon
 * Patient check in
 * Travel reimbursement
+
+**Other ideas:**
+
+
+
+* Using app as an authenticator
+* Cerner APIs
+* Share appointments
+
+**Done**
+
+
+
+* To be updated each quarter
 
 # Short-term Roadmap - Milestones for this quarter
 
