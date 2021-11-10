@@ -1,6 +1,6 @@
 # Qualitative feedback on the mobile app
 
-Comments and info from various sources (newest comments towards the top).
+Comments and info from various sources (newest comments towards the top of each section).
 
 
 ## General
