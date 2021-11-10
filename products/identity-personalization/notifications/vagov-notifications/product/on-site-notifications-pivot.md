@@ -98,7 +98,7 @@ Essentially, the approach we have been taking loses sight of the original proble
 
 If we're in alignment, we have some options for moving forward.
 
-- Pause VANotify integration all together, OR..
+- Pause VANotify integration all together, OR...
 - Continue to pursue this integration, but for non-personalized information only (eg. COVID-19 Keep Me Informed updates).
 - Discuss next steps for elevating action items.
 - Plan immediate next steps for this work.
