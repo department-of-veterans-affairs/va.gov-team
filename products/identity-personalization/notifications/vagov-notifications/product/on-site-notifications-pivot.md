@@ -6,7 +6,7 @@ November 2021
 
 I think we've lost sight of the original goal of the on-site notifications project, which was [to explore how we could better elevate action items on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#research-goals). At some point, this work became more about how do we create on-site alerts based on email/text notifications, and as a result, we stopped considering specifics around action items and whether action items need to be tied to email and text alerts in the first place. We've also uncovered a lot of technical complexity and content constraints around VANotify powering information within VA.gov that has made me question whether VANotify should have anything to do with what we show on My VA. So, I'd like us to revisit some of our thinking to determine if the current path we are on is the best path.
 
-## There are only seven time-sensitive actions Veterans need to take
+## There are only seven time-sensitive actions Veterans need to take.
 
 If we want to revisit the original goal of this work -- elevating action items -- we first need to start by considering what time-sensitive action items exist. I could only think of seven. They are:
 
@@ -81,7 +81,7 @@ Cross-checking these lists, there are only two items of overlap if we're talking
 
 Furthermore, we already show unread messages and appointments on My VA by connecting directly to those endpoints. We don't need VANotify for this, as it would be much easier to support debt info and BVA appointment reminders with integrations directly to those backends.
 
-## There are personalization issues that arise from working through VANotify because of privacy constraints around email/text
+## There are personalization issues that arise from working through VANotify because of privacy constraints around email/text.
 
 There are additional privacy restrictions for email and text alerts that prevent them from showing personally-relevant information that we would want to show on VA.gov. Were VANotify to support action items on My VA, this would mean we'd either have to show partial, incomplete data because we're bound to the same restrictions as text and email since we'd be working off the data they currently have, OR we'd have to do some weird logic to somehow get the additional information we can show to people when they are authenticated and identity verified.
 
