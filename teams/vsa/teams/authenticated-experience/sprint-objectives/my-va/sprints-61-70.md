@@ -1,6 +1,6 @@
 # Authenticated Experience Sprint Objectives: Sprints 61 – 70
 
-- [Sprint 61](#sprint-61-1117--1130)
+- [Sprint 61](#sprint-61-1117---1130)
 - [Sprint 62](#sprint-62-121---1214)
 - [Sprint 63](#sprint-63-1215---1228)
 - [Sprint 64](#sprint-64-1229---111)
