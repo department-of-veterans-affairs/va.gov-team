@@ -27,7 +27,7 @@ Last Updated 11/09/2021
 - Connected apps
 
 ### Info Link
-"How do I update my name. date of birth or gender?" <br>
+"How do I update my name. date of birth, or gender?" <br>
 _On click, this info link will display the following, as currently seen on va.gov/profile/personal-information_
 
 **If you’re enrolled in the VA health care program**
