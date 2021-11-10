@@ -45,6 +45,7 @@ When conducting [a study to redesign the logged-in homepage for VA.gov](https://
 7. [Veterans expect notifications and updates about their items to surface at the top of their personalized page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-want-new-information-to-be-clear-to-them-when-they-log-in-and-expect-to-receive-new-information-through-multiple-channels). 
      * When conducting this study, the My VA team found that Veterans actually expect notifications and updates to “come via a phone call, email, or physical mail, either because that's what they're used to, or because it's the easiest way to reach them”. Only when prompted to envision notifications within the website did they provide the above expectation.
         * In light of this, we must take into consideration that users might have different expectations for a mobile app. 
+    
     * The My VA team also identified that [even though Veterans expect notifications and updates to surface at the top of the page, they did not have one consistent placement for them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#:~:text=Veterans%20placed%20updates%20and%20notifications%20near%20the%20top%2C%20but%20there%20wasn%27t%20one%20consistent%20placement%20across%20the%20sessions). This encouraged the My VA team to consider testing “different approaches to notification placement, including a dedicated Notification center, alert-style banners at the top of the page, and notifications in-line with the item in question”. 
         * When conducting a [research study on alerts and action items](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-summary.md#things-veterans-mentioned-theyd-want-to-see-as-an-alert), the My VA team found that for a centralized alerts or notifications page:
             * Users want their alerts in reverse chronological order (most recent at the top)
@@ -52,8 +53,10 @@ When conducting [a study to redesign the logged-in homepage for VA.gov](https://
                 * This was brought up as some Veterans were concerned about missing alerts if they do not go on VA.gov often. This may not be a concern since the Mobile App will incorporate push notifications. 
             * Most users want to be able to visually differentiate between read and unread alerts. 4 out of 8 participants expected anything that is time-sensitive and expired to 'disappear' altogether (e.g. an appointment that has passed).
             * 5 out of 8 users mentioned perceiving the categories of alerts would be helpful (like on the homepage of VA.gov or on My VA). 3 out of 8 mentioned wanting the ability to customize what alerts they see on their alerts page. This included the ability to filter alerts by category or date
+        
         * For an alerts section on My VA (personalized page), the team found that:
             * Users expect there to be information about their alerts on My VA, in addition to a separate alerts page.
+        
         * Things Veterans mentioned wanting as notifications:
             * Annual amount of disability compensation
             * Appointments
@@ -69,7 +72,8 @@ When conducting [a study to redesign the logged-in homepage for VA.gov](https://
             * Timeline on appeals
             * Updates from the VA
             * Veteran organizations available to join
-        * From this research, we should consider exploring different ways to present notifications and updates to users.
+       
+       * From this research, we should consider exploring different ways to present notifications and updates to users.
 
 
 ## Initial Designs
