@@ -25,11 +25,11 @@
 
 ## November 10
 
-- Metatags
 - Need for a facility name change runbook (example "The Callahan VA Clinic is permanently closed in VAST. It was removed from Lighthouse but is still lingering with a status = closed in the CMS")
   - Helpdesk standardizes referring editors to KB article, not api@va.gov
   - Runbook to capture steps (Has the editor submitted the change request? Do we need to update the URL? Do we need to update the left navigation menu item? etc.)
   - CMS FE dev path forward sync
+
 
 ## November 3
 
