@@ -23,12 +23,53 @@
 
 </details>
 
+## November 17 (or 19th)
+
+- Facility status more info
+- Top tasks 
+- Kona 
+
 ## November 10
 
-- Need for a facility name change runbook (example "The Callahan VA Clinic is permanently closed in VAST. It was removed from Lighthouse but is still lingering with a status = closed in the CMS")
-  - Helpdesk standardizes referring editors to KB article, not api@va.gov
-  - Runbook to capture steps (Has the editor submitted the change request? Do we need to update the URL? Do we need to update the left navigation menu item? etc.)
-- CMS FE dev path forward sync
+CMS FE dev path forward sync
+- Ryan and Aman looking at Top tasks, getting to know how Policie was done first. 
+- Will continue to function as part of CMS team
+- Relying on Gaida for code review
+- Joining Facilities team's Scrum on Thursdays for progress report, and possibly other ceremonies (TBD, ad hoc basis)
+
+Need for a facility name change runbook (example "The Callahan VA Clinic is permanently closed in VAST. It was removed from Lighthouse but is still lingering with a status = closed in the CMS")
+ - Helpdesk standardizes referring editors to KB article, not api@va.gov
+ - Runbook to capture steps (Has the editor submitted the change request? Do we need to update the URL? Do we need to update the left navigation menu item? etc.)
+ - things the runbook should account for
+   - Vet Center or VAMC facility (or Vet Center Outstation?)
+   - Published or not published (are redirects needed?)
+   - What URLs may be dependent on it, like the Locations List page on Vet Centers. 
+   - Timing for VAST change, if at all
+   - For Vet Centers: Is it an official name change? If so, is the new official name plain language? Eg Kona Vet Center.
+   - Is the change coming in from VAST / Facility API or from a human? 
+   - What feedback loops are needed for editors or other interested parties
+   - Jane will initiate a session to collaborate.   
+
+
+Example: 
+1. Kailua-Kona Vet Center renamed to Kona Vet Center in VAST. 
+2. Made its way to Prod Nov 10
+3. The new official name is plain language, so the common name should also be updated (but it can't be until [#6955](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6955) is handled)
+4. URLs for all content in that section should be updated to /kona-vet-center (by bulk operations), but only because it hasn't bee published yet and common name and page title are the same
+5. Node titles for services should be updated (by bulk operations)
+6. For Vet Centers - Sections may be need to be updated if any were created (pending some migration script udpating)
+7. Update Michelle that Kona is ready to publish. 
+
+
+Other recent examples
+1. San Diego (VAMC facility)
+2. North Florida / South Georgia (VAMC sytem)
+3. Prescott / Dr Cameron (Vet Center)
+4. Sorry: Oxford VA Clinic to Anniston-Oxford VA Clinic (VAMC facility)
+
+Facility status & Facility Status more info interdependencies
+
+
 
 
 ## November 3
