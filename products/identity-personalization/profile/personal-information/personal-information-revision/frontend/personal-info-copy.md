@@ -86,7 +86,7 @@ Female <br>
 ---
 
 **Gender identity** <br>
-Female <br>
+Woman <br>
 {Edit button}
 
 ---
