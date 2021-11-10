@@ -11,6 +11,7 @@
 - Navigation buttons
 - Form titles and other global display components
 - Submission logic (sending submission language)
+- Feature Toggle to support I18N on forms and specific forms only
 
 ## Caregivers Form
 Form Title: Application for Comprehensive Assistance for Family Caregivers Program (10-10CG)
