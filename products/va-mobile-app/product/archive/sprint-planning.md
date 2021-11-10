@@ -1,5 +1,6 @@
 ### VA Mobile team- Sprint Planning
 
+Tracked moving forward [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/sprint-summary.md)
 
 | Sprint | Date | Sprint Goals/Accomplishments | 
 | --- | --- | --- |
