@@ -117,6 +117,17 @@ Onboard Christina to this work:
 ## Sprint 61 (11/17 - 11/30) 
 [Sprint 61 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32701)
 
+### PTO
+
+- **Marci**: Nov 24 -26
+- **Samara**: Nov 24 -26
+- **Liz**: Nov 24 -26
+- **Christina**: ?
+- **Erik**: ?
+- **Taylor**: ?
+- **Zach**: ?
+- **Lihan**: ?
+
 ### Personal information updates
 
 **PM**
