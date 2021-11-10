@@ -41,7 +41,7 @@ The following are the [OCTO-DE ](https://github.com/department-of-veterans-affai
 * Secondary points: “Reinventing myself, “Putting down roots,” and “Retiring”
 
 
-## Research Goals
+### Research Goals
 
 
 
@@ -49,24 +49,20 @@ The following are the [OCTO-DE ](https://github.com/department-of-veterans-affai
 * To understand how Veterans would group items that are on our road map but not yet in the App to future proof the Information Architecture.
 * To understand where Veterans would expect to find vaccine records in an app within the current information architecture.
 
-Research questions
+**Research questions**
 
 To understand mental models of health and benefits services:
-
-
 
 * How do participants categorize items?
 * Why do they pick the categories for items?
 
 To test current information architecture as it relates to vaccines:
 
-
-
 * Where do Veterans expect to find vaccine records?
 * Why did they choose the path they did?
 
 
-## Method
+### Method
 
 
 
@@ -80,7 +76,7 @@ To test current information architecture as it relates to vaccines:
 
 1. Veterans will categorize items in a similar manner to how they are organized on VA.gov. In the current app information architecture.
 
-**False/ Not enough information: **
+**False/ Not enough information:**
 
 While Veterans grouped some items as expected, they also grouped items in a different way and also misinterpreted some of the key cards. The data we collected was less quantitative and more qualitative but overall did not give us a clear answer to purpose a solidified IA. 
 
@@ -105,7 +101,7 @@ Veterans clicked the COVID-19 Vaccine button and were taken to the va.gov COVID-
 6. Contact the VA was grouped in various locations. 
 7. Secure messaging was not grouped into one clear category
 
-Details of Findings
+**Details of Findings**
 
 
 
@@ -161,7 +157,7 @@ Supporting data: "Everything to do with money I'd like to keep in one place" P14
 
 
 
-6. **All cards in sort were not clear to the Veterans. **
+6. **All cards in sort were not clear to the Veterans.**
 
 Labels: rename, rewrite
 
@@ -202,11 +198,11 @@ Supporting data: "I use secure messaging with both prescriptions and appointment
 * Veterans need a focused way to complete relevant tasks in the app. 
 * Veterans primarily schedule over the phone or through secure messaging because they trust the process and know how to do it. 
 
-Recommendations
+### Recommendations
 
 
 
-1. **Consider a new information architecture that takes a layered approach for various use cases. **
+1. **Consider a new information architecture that takes a layered approach for various use cases.**
 * <span style="text-decoration:underline;">Here is the recommended IA based</span> on the findings and insights from this study. It is worth noting that there is not one solution for the IA and while this is a recommendation, it is a starting point and will need refining. 
 * Some items in the card sort are items on the road map but not yet in the app and require us to consider where they might live as we add them. 
 * Veterans find value in grouping features and information to support accomplishing tasks. However, these groups may not be mutually exclusive. 
@@ -233,7 +229,7 @@ Since Veterans found it confusing and misleading, we recommend changing the name
 
 
 
-2. **In order to add a level of clarity and understanding to some of the items, consider rewording/ redefining items. **
+2. **In order to add a level of clarity and understanding to some of the items, consider rewording/ redefining items.**
 
 The following items were unclear to participants: Biometrics, Contact the VA, patient check-in, Military Information, Join an video appointment, and Disability versus pension payments. 
 
@@ -251,17 +247,17 @@ Being able to check benefit balances and payment information was highly importan
 
 
 
-4. **Consider changing the name of “profile” to something that more accurately represents the section of all of the Veteran’s personal and military information along with VA letters. **
+4. **Consider changing the name of “profile” to something that more accurately represents the section of all of the Veteran’s personal and military information along with VA letters.**
 
 None of the participants created a category titled “Profile.” However, participants grouped most of the items that are currently in the profile together. Veterans expressed a need to have all of their personal information in one place.
 
-Next Steps
+### Next Steps
 
-**Test the recommended IA using a treejack test with 200 Veterans to validate the new IA. **
+**Test the recommended IA using a treejack test with 200 Veterans to validate the new IA.**
 
 While we have quality findings and have derived insights to inform decisions around the IA, we need to test this with a substantial number of participants in order to get truly quantitative results. To do this, we recommend using an optimal workshop tree test. 
 
-Appendix
+### Appendix
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md)
 
