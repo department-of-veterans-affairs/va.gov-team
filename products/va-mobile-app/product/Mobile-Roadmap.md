@@ -345,7 +345,7 @@ VA services are not always accessible across the digital divide and to those wit
 * Analytics
 * Documentation sites
 
-**Starts Now (Q4c 2021):**
+**Starts Now (Q4 2021):**
 
 
 
