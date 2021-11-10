@@ -66,6 +66,7 @@ In order for this feature to occur, Veterans must:
 1. Receive disability payments
 2. Have dependents
 3. Have not made changes to their dependents in the last 12 months
+4. Receive disability payments for their dependenets (added: November 10, 2021)
 
 **Secondary criteria (nice-to-haves)**
 - At least 2 desktop users
