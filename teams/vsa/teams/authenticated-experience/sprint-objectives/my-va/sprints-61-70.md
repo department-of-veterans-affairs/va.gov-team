@@ -30,10 +30,10 @@
 
 **Design**
 
-- Payment info discovery (if not done last sprint)
-- Debt tool discovery
-- Work with AJ/Heather/Samara to finalize scope for MVP
-- Start on design, if time
+- Payment info discovery (if not done last sprint) #32558
+- Debt tool discovery #32559
+- Work with AJ/Heather/Samara to finalize scope for MVP #32730
+- Start on design, if time #32289
 
 ### On-site alerts
 
