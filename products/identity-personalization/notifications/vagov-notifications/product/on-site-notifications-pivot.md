@@ -20,7 +20,7 @@ If we want to revisit the original goal of this work -- elevating action items -
 
 If there are **seven** time-sensitive things a veteran might need to do, then **we do not need a whole notifications center to accommodate this**. We can plug directly into relevant backends to elevate this information, like we already do for appointments and unread messages.
 
-## Action itema are a type of content; On-site alerts/email/text are vehicles for delivery. Action items don't necessarily need to be shown as on-site notifications. 
+## Action items are a type of content; On-site alerts/email/text are vehicles for delivery. Action items don't necessarily need to be shown as on-site notifications. 
 
 The original thinking was that VANotify would back onsite notifications so that we had a unified approach to showing information related to email/text alerts on the website. This is sound with the exception of one major detail: it only considers the vehicles for showing content, not the actual content we want to elevate.
 
