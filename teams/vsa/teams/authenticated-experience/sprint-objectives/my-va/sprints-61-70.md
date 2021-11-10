@@ -14,6 +14,46 @@
 ## Sprint 61 (11/17 - 11/30) 
 [Sprint 61 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30187)
 
+### PTO
+
+- **Tressa**: Nov 25 - 26
+- **Liz**: Nov 24 - 26
+- **Heather**: Nov 25
+- **Samara**: Nov 24 - 26
+
+
+### My VA updates: Adding payment information
+
+**PM**
+
+- Collab cycle kickoff #32291
+
+**Design**
+
+- Payment info discovery (if not done last sprint)
+- Debt tool discovery
+- Work with AJ/Heather/Samara to finalize scope for MVP
+- Start on design, if time
+
+### On-site alerts
+
+Note: This assumes we are pivoting this work, which we still need to discuss as a team and I need to discuss with leadership.
+
+**PM**
+
+- Work with Tressa/Samara to determine next steps
+
+**Design**
+
+- Work with AJ/Heather/Samara to determine next steps
+- Get started on next steps (Tickets TBD and might not be created before sprint)
+
+### User roles research
+
+**Design**
+
+- Finish research, if needed
+- Synthesis
 
 ## Sprint 62 (12/1 - 12/14)
 [Sprint 62 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30188)
