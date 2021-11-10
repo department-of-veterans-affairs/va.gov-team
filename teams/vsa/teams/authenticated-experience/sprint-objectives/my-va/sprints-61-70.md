@@ -42,11 +42,11 @@ Note: This assumes we are pivoting this work, which we still need to discuss as 
 **PM**
 
 - Work with Tressa/Samara to determine next steps
+- Let team know about pivot
 
 **Design**
 
 - Work with AJ/Heather/Samara to determine next steps
-- Get started on next steps (Tickets TBD and might not be created before sprint)
 
 ### User roles research
 
