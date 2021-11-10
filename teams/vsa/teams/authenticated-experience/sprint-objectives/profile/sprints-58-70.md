@@ -119,11 +119,35 @@ Onboard Christina to this work:
 
 ### Personal information updates
 
+**PM**
+
+- Start putting together list of test cases
+- Start prep for midpoint review
+
 **Design**
 
 - Write the research plan
 - Write the conversation guide
 - Kick off recruiting?
+
+**FE** 
+
+- Continue build
+
+**BE**
+
+- If possible, get started on backend integration (this is entirely dependent on MPI being ready to work with us, so if they are not, we will have to push this)
+
+### General profile backlog
+
+**Design**
+
+- As time allows, pull in tickets for both Liz and Christina from the backlog
+
+**FE**
+
+- Pull in work for Erik and Taylor from the backlog
+- If Zach as availability pending Find a Form work, pull in tickets from backlog for him, too
 
 ## Sprint 62 (12/1 - 12/14)
 
