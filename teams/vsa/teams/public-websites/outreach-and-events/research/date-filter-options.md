@@ -28,7 +28,7 @@ Without a way to select a date range in the future, showing all upcoming events 
 PROS  | CONS
 ------|------
 Usability issue resolved | Functionally similar to the toggle button on Production today
-Upgrades functionality on Production to match the design system for accessibility| Dave expects a new design for date filtering, which this isn't
+Upgrades functionality on Production to match the VA Design System for accessibility| Dave expects a new design for date filtering, which this isn't
 Easy to show distinct event lists in design prototype | Need Design Intent approval, or not because it's the current view options on Production?
 Will get user feedback on the 2-option design, which we don't have for the current O&E in Production
 Easy for Cassandra to make this change in the prototype
