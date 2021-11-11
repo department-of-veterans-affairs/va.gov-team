@@ -7,7 +7,7 @@ Currently on VAOS, there isn't functionality to reschedule an appointment. A Vet
 
 ## Outcome Summary
 
-A user can update a booked VA appointment and leave the interaction with a new booked appointment for a different date and/or time.
+A user can update a booked (upcoming or canceled) VA appointment and leave the interaction with a new booked appointment for a different date and/or time.
 
 **Related/Associated product(s)**
 - Dependent on [Homepage Refresh](homepage-refresh-initiative-2021.md) rollout 
@@ -23,7 +23,7 @@ A user can update a booked VA appointment and leave the interaction with a new b
   - Qualitative feedback from surveys
 * How does this initiative help further OCTO-DE's mission and goals?
   - Improve user satisfaction
-  - Meet user expectations of available online transaction
+  - Meet user expectations of available online transactions
 
 
  <details>
@@ -87,7 +87,8 @@ Reduce no-shows to appointments | Baseline | Target | Link to data source (e.g. 
 3. TBD - "Reschedule" requests
 
 ### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+- Date and time change only
+
 
 --- 
 
