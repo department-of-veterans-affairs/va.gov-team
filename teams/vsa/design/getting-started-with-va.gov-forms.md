@@ -152,7 +152,7 @@ This document will not attempt to rewrite those documents, however, we will prov
    * What are the stakeholder needs?
    * What fields are actually required? What is optional? Based on user research, are there any fields we can drop?
    * Do we already know of any potentially triggering / invasive / confusing questions that are required? Do we really need to have those fields? If so, what kind of things can we say to explain why they are there? 
-   * Start discussions on security & privacy with Andrew Gunsch
+   * Start discussions on security & privacy with the platform security team (POC effective 11/2021: Thomas Delrue)
    * Document these answers in a Product Outline.
 * If you'd like to think about analytics for your form, Platform Analytics also has [documentation for adding analytics for forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/data-dictionary-form-events.md).
 
