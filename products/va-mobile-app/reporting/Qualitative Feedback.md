@@ -67,3 +67,9 @@ Comments and info from various sources (newest comments towards the top of each 
 - [Reddit link 1](https://www.reddit.com/r/VeteransBenefits/comments/qm4tkk/thank_you_gentlemen/) 
 - [Reddit link 2](https://www.reddit.com/r/Veterans/comments/qlou79/breath_of_relief_thank_you_everyone_lurked_long/) "Congrats! But also, what app is this? I think I need it." 
 - [Reddit link 3](https://www.reddit.com/r/VeteransBenefits/comments/qlyk5r/great_way_to_start_the_day_100_pt/) "It’s in the letters section under benefits and service verification." “I like this nice concise view that you were able to see because it presents all the facts on a single screen.”
+
+## Internal/Stakeholder Feedback
+4/2/21: Accessibility Presentation to the VA's 508 Office
+-“the work is extraordinary”
+-“such a well thought out and executed 508 strategy”
+-“this group is 2 years ahead of us” 
