@@ -83,32 +83,41 @@ We spoke to subject matter experts (SMEs) at the Veteran's Health Administration
    - What is a difference between a caregiver and a delegate? Where are the areas of overlap and where are the areas of difference?
      - Does a caregiver automatically have delegate access? Why not?
 
-4. A **delegate** role exists in VHA to refer to people who have been assigned delegate authority per the request of a Veteran through a VA health delegation program.
+4. A **delegate** role exists in VHA to refer to people who have been assigned delegate authority per the request of a Veteran through the VA health delegation program.
 
-   Delegates are able to directly access some health information, such as upcoming appointments and prescription information,  about in MHV and some VA Mobile Apps.  They have their own login credential through ID.me and have been vetted by the VA. Two access levels and related tasks were defined in [finding 3.4 from the first phase of our research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/non-veteran-user-roles-discovery-phase-1.md#3-learn-what-roles-exist-for-my-healthevet-mhv).  From a data perspective, the VA knows a person is a delegate based on information from the Identity and Access Management (IAM) program office, and the Master Person Index (MPI).
+   Delegates are able to directly access some Veteran health information, such as upcoming appointments and prescription information, in MHV and participating VA Mobile Apps.  They have their own login credential through ID.me. Two access levels and related tasks were defined in [finding 3.4 from the first phase of our research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/non-veteran-user-roles-discovery-phase-1.md#3-learn-what-roles-exist-for-my-healthevet-mhv).  From a data perspective, the VA knows a person is a delegate based on information from the Identity and Access Management (IAM) program office, and the Master Person Index (MPI).
 
-   A VA recognized Caregiver and a Delegate would likely need to be two separate roles on VA.gov since a VA recognized Caregiver is also a beneficiary and would need to see information about their own benefits.
+   A VA recognized Caregiver and a Delegate would likely need to be two different types of access on VA.gov since a VA recognized Caregiver is also a beneficiary that would need to see information about their own benefits.
 
-5. Veteran Advocates
+5. VBA and VHA definitions of VSO representatives, claim agents, attorneys, and fiduciaries are consistent. 
 
-   - VSOs, Claim agents, Attorneys
-     - Would need to see Veteran data related to claims **look more into this**
-     - SEP and D2D would be worth looking to to better understand tasks for these users and get a sense of how their needs are being met today.
-   - Fiduciaries
-     - Would need to see Veteran data related to financial information
-     - There's a system called VBMS FID that was recently expanded; this would be worth looking to to better understand fiduciary tasks and get a sense of how their needs are being met today.
+   VSO representatives, claim agents and attorneys are vetted through a [VA accreditation process](https://benefits.va.gov/vso/index.asp), managed by the Office of General Counsel (OGC).
 
-6. 3rd-party organizations that receive payments from VA
+   - VSO representatives assist Veterans and their families with claims, as well as helping them understand and applying for benefits.
+   - VA-accredited attorneys and claims agents perform most of their representation after VA has issued an initial decision on a claimant’s claim.
 
-   - Funeral homes (one-time payments)
-   - Nursing homes (recurring, could be for multiple veterans)
-   - State cemeteries (one-time payments)
-   - Possible use cases for these users would be to see payment history and status, as well as file claims for reimbursement.
-   - Burial claims can already be submitted electronically through eBenefits.
-   - **We didn't talk about what system these payments are happening through - find out from Camille**
+   VBA has a Fiduciary Program that assigns a Veteran a fiduciary if they have been deemed unable to manage their financial affairs.  A Veteran can also select their own fiduciary, but they need to be approved by the VA.  The fiduciary would manage benefit related payments on behalf of the Veteran. 
 
-7. **A person can have multiple relationships with the VA.** As we start to think about non-Veteran user roles, it's important to recognize that there can be overlap between one or many relationships with the VA. Some examples are:
-   - A Veteran, who is also the caregiver for a friend who is a Veteran, and is a fiduciary for another Veteran.
+   Through the course of our conversations, it became clear that there are already systems in place for these user types to access relevant Veteran data and complete tasks to help the Veteran. For the purposes of this research, we can think of these users as Veteran advocates - people who are doing work on behalf of Veterans. 
+
+   Once we get into task definition, the existing systems (outlined below) can help us better understand tasks for these users and get a sense of how we might meet their needs on VA.gov.
+
+   - Stakeholder Enterprise Portal (SEP) is a VA system designed to serve VSOs, claim agents, and attorneys
+   - D2D is an external system that VSOs, claim agents, and attorneys use to access Veteran data. They prefer this to SEP
+
+   - VBMS FID is a VA system that was recently expanded to meet the needs of fiduciaries.
+
+6. There are also 3rd-party organizations that receive payments from VBA, such as funeral homes, state cemeteries and nursing homes. 
+
+   Possible use cases for these users would be to see payment history and status, as well as file claims for reimbursement. Burial claims can already be submitted electronically through eBenefits, so it would be worthwhile to look into how this is handled as we migrate functionality to VA.gov.
+
+   **Outstanding questions**
+
+   - What systems are these payments made through?
+   - How does a nursing home who has multiple Veteran residents receive payments? Are those payments recurring? What is the overlap with VHA and health benefits?
+
+7. **A person can have multiple relationships with the VA.** As we start to think about non-Veteran user roles, it's important to recognize that there can be overlap between one or many relationships with the VA. We'll need to consider how a person will be able to switch between roles with one login. Some examples are:
+   - A Veteran who is a caregiver for their Veteran spouse, and is a fiduciary for their Veteran sibling.
    - A delegate who is also a beneficiary because they're receiving surviving spouse benefits.
 
 8. We learned about high priority use cases by business line.
