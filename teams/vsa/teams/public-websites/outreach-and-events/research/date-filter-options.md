@@ -16,6 +16,7 @@ PROS  | CONS
 Design approved by Dave, Collab Cycle | Usability issue: **5 of 7 options will show the same filtered events lists** with all of today's events at the top (Today, Next 7 days, Next 30 days, Next 60 days, All times)
 Filters by date (though have to paginate to see it) | **Hard to show the difference in design prototype screens** w/o requiring a LOT of scrolling/pagination by participants, or showing only a few events in the list
 "This weekend" shows a different filtered list (though not many weekend VA events) | Missing opportunity for user feedback by showing a design we already know is problematic
+. | Prototype has to be more complex with more screens to implement pagination (multiple screens of results for each dropdown option). If skip this, will be showing an unrealistically small number of events.
 
 
 
