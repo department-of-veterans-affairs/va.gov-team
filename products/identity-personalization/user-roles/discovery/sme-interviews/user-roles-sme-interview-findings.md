@@ -6,7 +6,7 @@
 
 Liz Lantz (liz.lantz@adhocteam.us), 11/12/2021
 
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md).
+View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md).
 
 ## Research Goals
 
@@ -20,7 +20,9 @@ We conducted 30 minute semi-structured interviews over Zoom.
 
 ### Who we talked to
 
-We spoke to subject matter experts (SMEs) at the Veteran's Health Administration (VHA) and VeteranBA; a specific list of individuals we spoke to is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/README.md).  We initially planned to learn about NCA user roles as well, but decided to hold off for now since NCA does not have digital products that intersect with VA.gov.
+We spoke to subject matter experts (SMEs) at the Veteran's Health Administration (VHA) and Veterans Benefits Administration; a specific list of individuals and areas of expertise is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/README.md).  
+
+We initially planned to learn about NCA user roles as well, but decided to hold off for now since NCA does not have digital products that intersect with VA.gov.
 
 ### Research Questions
 
@@ -36,15 +38,16 @@ We spoke to subject matter experts (SMEs) at the Veteran's Health Administration
 
 ## Finding Details
 
-1. **Dependents** are a spouse, child (minor or helpless adult), or parent who is financially dependent on the Veteran. 
+1. **Dependents** are people who have a legal relationship with the Veteran, and are financially dependent on the Veteran. 
 
+   - VHA and VBA recognize spouses, minor children, and helpless adult children as dependents.
+   - VBA also recognizes parents as dependents; VHA does not.
    - Dependents can also be the direct recipient of a benefit or service, such as an education benefit, and/or they could be a Veteran's caregiver. 
-   - For VHA, MPI knows whether or not someone is a dependent via the `person type` attribute.
-   - When a dependent's **only connection** to the VA is their dependent status, they wouldn't have a need to see information related to their Veteran (since the Veteran is the recipient of any benefits where the dependent is claimed), and they wouldn't have any benefits of their own to manage. Therefore, they wouldn't need to have their own login to VA.gov.
+   - For VHA, MPI identifies someone as a dependent with the `PERSON_TYPE: DEP` attribute.
+   - When a dependent's **only connection** to the VA is their dependent status, they wouldn't have a need to see information related to their Veteran (since the Veteran is the recipient of any benefits where the dependent is claimed), and they wouldn't have any benefits of their own to manage. 
 
    **Outstanding questions**
 
-   - Confirm this is true for VHA
    - Confirm VBA dependents will be known in MPI
    - Confirm dependent info is stored in MPI under the `person type` attribute.
 
@@ -53,12 +56,12 @@ We spoke to subject matter experts (SMEs) at the Veteran's Health Administration
    - This could be a Veteran, or a qualifying family member.
    - Each benefit has specific qualifications to determine beneficiary eligibility. 
    - Once a person is actively receiving a benefit, the tasks they would need to do on VA.gov are the same regardless of if they are a Veteran or a non-Veteran. For example, a non-Veteran beneficiary receiving education benefits should be able to update their direct deposit information or view payment history the same way a Veteran would.
-
-   **Outstanding questions**
+   - **Outstanding questions**
 
    - Confirm this is true for VHA
    - Confirm VBA beneficiaries will be known in MPI
-   - Confirm beneficiary info is stored in MPI under the `person type` attribute.
+   - If MPI has `person type` attributes already for VHA why can't VBA tap into that?
+   - What is the `person_type` for a non-Veteran beneficiary?
 
 3. The **caregiver** role has different definitions between VHA and VBA; in both cases, the caregiver's goal is to reduce the burden on the Veteran and help them receive and manage the benefits they've earned from VA.
 
@@ -69,7 +72,7 @@ We spoke to subject matter experts (SMEs) at the Veteran's Health Administration
    - The VA Online Health Delegate program (see finding 4) would give a caregiver access to some Veteran health tasks.
    - A caregiver could apply to be a Veteran's fiduciary to manage financial tasks.
 
-   A Veteran would likely benefit from their caregiver - VA recognized or not - being able to do things on VA.gov on their behalf in the same way the Veteran would they were able to care for themselves. Examples include:
+   A Veteran would benefit from their caregiver - VA recognized or not - being able to do things on VA.gov on their behalf in the same way the Veteran would they were able to care for themselves. Examples include:
 
    - Managing financial information
    - Claims-related tasks, such as checking the status of a claim, or uploading any requested documentation.
@@ -89,44 +92,54 @@ We spoke to subject matter experts (SMEs) at the Veteran's Health Administration
 
    A VA recognized Caregiver and a Delegate would likely need to be two different types of access on VA.gov since a VA recognized Caregiver is also a beneficiary that would need to see information about their own benefits.
 
-5. VBA and VHA definitions of VSO representatives, claim agents, attorneys, and fiduciaries are consistent. 
+5. VBA and VHA definitions of **VSO representatives, claim agents, attorneys, and fiduciaries** are consistent. 
 
-   VSO representatives, claim agents and attorneys are vetted through a [VA accreditation process](https://benefits.va.gov/vso/index.asp), managed by the Office of General Counsel (OGC).
+   VSO representatives, claim agents and attorneys are accredited individuals who assist Veterans and their families with claims.
 
-   - VSO representatives assist Veterans and their families with claims, as well as helping them understand and applying for benefits.
-   - VA-accredited attorneys and claims agents perform most of their representation after VA has issued an initial decision on a claimant’s claim.
+   -  They're vetted through a [VA accreditation process](https://benefits.va.gov/vso/index.asp), managed by the Office of General Counsel (OGC). 
+   -  VSO representatives also help Veterans and their families understand and apply for non-claim related benefits.
 
-   VBA has a Fiduciary Program that assigns a Veteran a fiduciary if they have been deemed unable to manage their financial affairs.  A Veteran can also select their own fiduciary, but they need to be approved by the VA.  The fiduciary would manage benefit related payments on behalf of the Veteran. 
+   -  VA-accredited attorneys and claims agents perform most of their representation after VA has issued an initial decision on a claimant’s claim.
+
+   VBA has a Fiduciary Program that assigns a Veteran a fiduciary if they have been deemed unable to manage their financial affairs.  A Veteran can also select their own fiduciary, but they need to be approved by the VA.  The fiduciary would manage benefit related payments on behalf of the Veteran. It is possible that a fiduciary would be assigned to a non-Veteran beneficiary who is receiving payments from the VA.
 
    Through the course of our conversations, it became clear that there are already systems in place for these user types to access relevant Veteran data and complete tasks to help the Veteran. For the purposes of this research, we can think of these users as Veteran advocates - people who are doing work on behalf of Veterans. 
 
    Once we get into task definition, the existing systems (outlined below) can help us better understand tasks for these users and get a sense of how we might meet their needs on VA.gov.
 
-   - Stakeholder Enterprise Portal (SEP) is a VA system designed to serve VSOs, claim agents, and attorneys
-   - D2D is an external system that VSOs, claim agents, and attorneys use to access Veteran data. They prefer this to SEP
+   - **Stakeholder Enterprise Portal (SEP)** is a VA system designed to serve VSOs, claim agents, and attorneys
+   - **Digits to Digits (D2D)** is an external electronic claims transmission service between certain partners and VA. VSOs, claim agents, and attorneys can use this to access Veteran data. The SMEs we spoke to have heard they prefer this system to SEP.
 
-   - VBMS FID is a VA system that was recently expanded to meet the needs of fiduciaries.
+   - **VBMS FID** is a VA system that was recently expanded to meet the needs of fiduciaries.
 
 6. There are also 3rd-party organizations that receive payments from VBA, such as funeral homes, state cemeteries and nursing homes. 
 
    Possible use cases for these users would be to see payment history and status, as well as file claims for reimbursement. Burial claims can already be submitted electronically through eBenefits, so it would be worthwhile to look into how this is handled as we migrate functionality to VA.gov.
 
-   **Outstanding questions**
+   **Outstanding questions for VBA**
 
    - What systems are these payments made through?
    - How does a nursing home who has multiple Veteran residents receive payments? Are those payments recurring? What is the overlap with VHA and health benefits?
 
-7. **A person can have multiple relationships with the VA.** As we start to think about non-Veteran user roles, it's important to recognize that there can be overlap between one or many relationships with the VA. We'll need to consider how a person will be able to switch between roles with one login. Some examples are:
+7. **A person can have multiple connections to the VA.** As we start to think about non-Veteran roles, it's important to recognize that there can be overlap between any of the aforementioned roles. We'll need to consider how a person will be able to switch between roles with one login. Some examples are:
+
    - A Veteran who is a caregiver for their Veteran spouse, and is a fiduciary for their Veteran sibling.
    - A delegate who is also a beneficiary because they're receiving surviving spouse benefits.
 
-8. We learned about high priority use cases by business line.
+8. We learned about high priority non-Veteran use cases by business line. Each business line had a specific use case, but all fall under the broader beneficiary category:
+
+   - MHV prioritizes the VA patient needs above all else, whether that patient is a Veteran or non-Veteran (non-Veteran VA patients are uncommon, but do exist). 
+   - VBA Pension and OBI stated that providing survivors access to their benefit information
+   - VBA Compensation - Chapter 35 beneficiaries
+   - From the Caregiver perspective, 2
 
 
 
 ## Recommendations
 
-Provide high level recommendations for categories - was our hypothesis correct?
+1. We should explore 3 primary non-Veteran user roles for VA.gov: dependents, beneficiaries (people who are direct recipients of VA benefits or services), and Veteran advocates (people who do work on behalf of the veterans - caregivers, VSO representatives, claim agents, attorneys, and fiduciaries)
+
+    
 
 - More research
 
