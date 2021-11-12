@@ -63,6 +63,13 @@ Not all the elements you see in this design are necessary, for example, if you d
 
 ## Accessibility considerations
 
+Always be sure to include an a11y specialist in any authenticated info list pattern you're developing.
+
+#### Action Links
+The designs provided above leverage action links as an example for the list cards. Consider whether an action link or a default link is more appropriate for your use case. Please follow the guidance provided on the [action link page](https://design.va.gov/experimental-design/action_links) of the design system. 
+
+Still not sure which is best for your use case? Our accessibility team held a [presentation on Buttons vs. Links](https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit#slide=id.ge8045de9aa_0_0), which is a great reference to help you decide.
+
 
 ## Research
 
