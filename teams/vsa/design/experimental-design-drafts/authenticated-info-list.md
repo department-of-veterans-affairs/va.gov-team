@@ -29,15 +29,15 @@ The purpose of this pattern is:
 
 ### Typical layout
 
-<img src="authenticated-info-list-images/apple-tool-first-mock.jpg" width="500" />
+<img src="authenticated-info-list-images/apple-tool-first-mock-2.jpg" width="500" />
 
 ### Layout with consolidated additional information (FAQs section)
 
-<img src="authenticated-info-list-images/apple-tool-consolidated-faq.jpg" width="500" />
+<img src="authenticated-info-list-images/apple-tool-consolidated-faq-2.jpg" width="500" />
 
 ## Mobile Designs
 
-<img src="authenticated-info-list-images/apple-tool-mobile.jpg" />
+<img src="authenticated-info-list-images/apple-tool-mobile-2.jpg" />
 
 ### UX Behavior
 
