@@ -25,7 +25,7 @@ The purpose of this pattern is:
 2. **User's list of items.** A group of related (and relevant) content items for the user to review.
 3. **Additional information.** Relevant but potentially tertiary information for the user. Not part of the user's list of items. The 'on this page' component will link to these items. 
 
-## Desktop Designs
+## Desktop designs
 
 ### Typical layout
 
@@ -35,15 +35,15 @@ The purpose of this pattern is:
 
 <img src="authenticated-info-list-images/apple-tool-consolidated-faq-2.jpg" width="500" />
 
-## Mobile Designs
+## Mobile designs
 
 <img src="authenticated-info-list-images/apple-tool-mobile-2.jpg" />
 
-### UX Behavior
+### UX behavior
 
 You should use this pattern if you're designing an experience where a Veteran is viewing a list of items relevant to them. For example, a list of the claims they have in process, a list of their disability ratings, or a list of the medical devices they have ordered.
 
-### Additional Notes
+### Additional notes
 
 #### When to consider something else
 - If you're designing a list of things embedded in a form, this may not be the best pattern. 
@@ -65,7 +65,7 @@ Not all the elements you see in this design are necessary, for example, if you d
 
 Always be sure to include an a11y specialist in any authenticated info list pattern you're developing.
 
-#### Action Links
+#### Action links
 The designs provided above leverage action links as an example for the list cards. Consider whether an action link or a default link is more appropriate for your use case. Please follow the guidance provided on the [action link page](https://design.va.gov/experimental-design/action_links) of the design system. 
 
 Still not sure which is best for your use case? Our accessibility team held a [presentation on Buttons vs. Links](https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit#slide=id.ge8045de9aa_0_0), which is a great reference to help you decide.
