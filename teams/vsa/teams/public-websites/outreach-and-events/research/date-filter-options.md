@@ -35,10 +35,39 @@ Will get user feedback on the 2-option design, which we don't have for the curre
 Easy for Cassandra to make this change in the prototype
 Could easily add "This weekend" as a third option, if desired
 
-## Other Ideas??
-If we can come up with any more mutually-exclusive options for the dropdown, we could usability test those instead...
+## Input from Dave
+- Use cases for "Filter by date" or "Filter by date range" (to provide an alternative to paging through a list of ALL events):
+  - As a Veteran I'd like to know what events are happening on Memorial Day (and that's not today) *[events on a specific date]*
+  - I have some free time this weekend and I want to know if VA is offering any events of interest to me *[events this weekend]*
+  - I'm planning a trip between Christmas and New Years and I want to know if there are any events that I would be interested in attending and plan my trip around that *[events in a date range]*
+  - *(future)* What events are happening around Veterans Day in Washington DC? *[filter by date and location]*
+    
+### Heuristics
+- Avoid numbers in dropdown options (e.g., 1-10 days from now, 11-30 days from now) because too much cognitive load for users 
+- Want dropdown options to show different-looking event lists (i.e., not all starting with today's events, like All, Today, Next Week, Next Month) 
 
-I did some more brainstorming with Josh Kim, and he shared a few ideas, which I've included below. Some have the same usability issue as above, and others seem too confusing/overwhelming for users with so many numbers.
+## NEW DESIGN PROPOSAL
+![image](https://user-images.githubusercontent.com/69914583/141520026-f387c05d-d029-4715-8051-3b4fae5de3a8.png)
+
+![image](https://user-images.githubusercontent.com/69914583/141523494-9a4608a4-435a-4ce7-b76d-9bf08033c66b.png)
+
+![image](https://user-images.githubusercontent.com/69914583/141523813-9d0a3b30-0dbe-4d09-9556-8d28804e0fa5.png)
+
+[CLICK HERE to see the interactions](https://www.sketch.com/s/25f54f74-b1c5-400f-8869-e75633071149/a/Gmeq1PO/play)
+
+
+PROS  | CONS
+------|------
+Simple non-numeric options | 3 of 6 options (All, Today, This week) still show the same filtered event list
+Provides ability to enter a custom date (day/month/year or month/year or year), per Dave's use case |
+Disambiguates "next week" and "next month" with specific dates | 
+
+
+
+## Previous Ideas Generated
+![image](https://user-images.githubusercontent.com/69914583/141516048-8c602c8a-1993-4b44-b112-8e1e3dc72d9f.png)
+
+Below is some previous brainstorming with Josh Kim. Some designs have the same usability issue as above, and others seem too confusing/overwhelming for users with so many numbers.
 
 ![image](https://user-images.githubusercontent.com/69914583/141500204-f97baabf-5c2b-47af-8881-a39c39484244.png)
 
