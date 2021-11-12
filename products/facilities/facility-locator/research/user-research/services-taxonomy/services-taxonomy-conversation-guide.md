@@ -67,6 +67,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ** **RUN CARD SORT** **
 
+- **[Be ready with VHA services descriptions, and descriptions of "new" services]
 - **[Moderator questions to keep in mind]**
   - Validate existing categories:
     - Does this category make sense?
