@@ -53,7 +53,7 @@ Could easily add "This weekend" as a third option, if desired
 
 ![image](https://user-images.githubusercontent.com/69914583/141523813-9d0a3b30-0dbe-4d09-9556-8d28804e0fa5.png)
 
-[CLICK HERE to see the interactions](https://www.sketch.com/s/25f54f74-b1c5-400f-8869-e75633071149/a/Gmeq1PO/play)
+[See a draft of the interactions on sketch](https://www.sketch.com/s/25f54f74-b1c5-400f-8869-e75633071149/a/dl7rO9L/play)
 
 
 PROS  | CONS
