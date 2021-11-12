@@ -37,3 +37,13 @@ Could easily add "This weekend" as a third option, if desired
 
 ## Other Ideas??
 If we can come up with any more mutually-exclusive options for the dropdown, we could usability test those instead...
+
+I did some more brainstorming with Josh Kim, and he shared a few ideas, which I've included below. Some have the same usability issue as above, and others seem too confusing/overwhelming for users with so many numbers.
+
+![image](https://user-images.githubusercontent.com/69914583/141500204-f97baabf-5c2b-47af-8881-a39c39484244.png)
+
+![image](https://user-images.githubusercontent.com/69914583/141500559-8605a112-ec55-4234-8e76-ca217d3c4842.png)
+
+![image](https://user-images.githubusercontent.com/69914583/141500710-e1c91633-4b1a-4e90-8f28-d6095c7692ad.png)
+
+
