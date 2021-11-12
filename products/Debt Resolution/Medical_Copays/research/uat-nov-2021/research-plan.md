@@ -72,7 +72,7 @@ The MVP will display a list of the Veteran's balance(s) at each of their VA heal
 
 ### Participants and Recruitment
 
-#### Participant criteria: What are you looking for in a participant?
+#### Primary criteria / Must have: 
 
 We would like **12** total participants.
 
@@ -87,6 +87,10 @@ We would like **12** total participants.
 * **All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the tool in production.**
 * Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 
+#### Secondary criteria / Nice to have:
+
+* At least one person who uses assistive technology (AT) such as specialized keyboards
+
 #### What is your recruitment strategy?
 
 We will work with Perigean to recruit for this study.
@@ -95,11 +99,11 @@ We will work with Perigean to recruit for this study.
 
 #### Timeline: What dates do you plan to do research?
 
-We are looking to start sessions TBD.
+December 6th-9th 
 
 #### Prepare: When will the thing you are testing be ready?
 
-The Medical Copay Tool will be live on production behind a feature flag on TBD.
+The Medical Copay Tool will be live on production behind a feature flag late November.
 
 #### Length of Sessions: How long do you estimate each session will be?
 
@@ -107,11 +111,14 @@ We expect sessions to only be 15-30 minutes. Please schedule sessions for 30 min
 
 #### Availability: If applicable, when would you like sessions scheduled?
 
-* November xx: 10:00am -- 5:00 pm EST
+* December 6: 9:00 a.m. -- 4:00 p.m. EST
+* December 7: 9:00 a.m. -- 4:00 p.m. EST
+* December 8: 9:00 a.m. -- 4:00 p.m. EST
+* December 9: 9:00 a.m. -- 4:00 p.m. EST
 
 #### Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
-* Craig Wheeler, November xx, 3:00pm - 3:30pm EST
+* Craig Wheeler, November 19, 11:00 a.m. - 11:30 a.m. EST
 
 ### Team Roles
 
@@ -143,5 +150,5 @@ List email addresses for those who should attend and observe the sessions: VA St
 ### Resources
 
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)
-* Conversation Guide(TBD)
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/uat-nov-2021/conversation-guide.md)
 * Notes (TBD)
