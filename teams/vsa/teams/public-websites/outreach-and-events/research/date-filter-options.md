@@ -42,7 +42,7 @@ Could easily add "This weekend" as a third option, if desired
   - I'm planning a trip between Christmas and New Years and I want to know if there are any events that I would be interested in attending and plan my trip around that *[events in a date range]*
   - *(future)* What events are happening around Veterans Day in Washington DC? *[filter by date and location]*
     
-### Heuristics
+## Design Heuristics
 - Avoid numbers in dropdown options (e.g., 1-10 days from now, 11-30 days from now) because too much cognitive load for users 
 - Want dropdown options to show different-looking event lists (i.e., not all starting with today's events, like All, Today, Next Week, Next Month) 
 
