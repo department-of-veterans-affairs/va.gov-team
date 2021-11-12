@@ -60,10 +60,13 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ### Task: card sort
 
+** **Share high priority services card sort first, then lower priority services** **
+
 - **First, I'll explain how the card sort works**
   - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
   - On the right side of your screen, are different ways to categorize those services.
   - You can drag items from the list of services on the left, into any category you choose, on the right.
+  - You can create new categories by dragging a service into an empty space.
 
 ** **RUN CARD SORT** **
 
