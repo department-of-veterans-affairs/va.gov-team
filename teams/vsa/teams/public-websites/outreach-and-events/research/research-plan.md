@@ -38,9 +38,11 @@ We will consider findings and recommendations from this research to refine our d
     1. For in-person events, what specific information is expected? (i.e., is "city" enough information, or also want street address?)
 
 ### Hypotheses
-1. Veterans will understand how to use filters to find events they are interested in
-1. Filtering events by date range will enable Veterans to find events that fit in their schedules
-2. Seeing which events are recurring will enable Veterans to register for all events they're interested in
+1. Veterans will understand how to use date filters to find events they are interested in
+    1. Veterans will be confused by similar looking event lists (i.e., with all of today's events) for multiple date filter dropdown options
+    1. Veterans won't expect to have to click a button to make their date filter dropdown selection take effect
+1. Filtering events by date will enable Veterans to find events that fit in their schedules
+1. Seeing which events are recurring will enable Veterans to register for all events they're interested in
 
 ## Method	
 We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked about their experiences with VA events, and then they will be given tasks to do using a mobile design prototype in UXPin. 
