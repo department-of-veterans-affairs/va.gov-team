@@ -25,9 +25,10 @@
 
 ## November 17 (or 19th)
 
-- Facility status more info
+- Facility status more info (should be required for all but "normal")
 - Top tasks 
 - Kona 
+- Training to edit national content for Jessica and Barb
 
 ## November 10
 
