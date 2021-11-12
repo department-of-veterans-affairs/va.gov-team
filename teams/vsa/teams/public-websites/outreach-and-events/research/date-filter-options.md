@@ -58,7 +58,7 @@ Could easily add "This weekend" as a third option, if desired
 
 PROS  | CONS
 ------|------
-Simple non-numeric options | 3 of 6 options (All, Today, This week) still show the same filtered event list
+Simple non-numeric options | 3 of 6 options (All, Today, This week) still show the same filtered event list at the top (i.e., today's events)
 Provides ability to enter a custom date (day/month/year or month/year or year), per Dave's use case |
 Disambiguates "next week" and "next month" with specific dates | 
 
