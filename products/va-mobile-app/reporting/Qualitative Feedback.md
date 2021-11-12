@@ -70,6 +70,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## Internal/Stakeholder Feedback
 4/2/21: Accessibility Presentation to the VA's 508 Office
--“the work is extraordinary”
--“such a well thought out and executed 508 strategy”
--“this group is 2 years ahead of us” 
+* “the work is extraordinary”
+
+* “such a well thought out and executed 508 strategy”
+
+* “this group is 2 years ahead of us” 
