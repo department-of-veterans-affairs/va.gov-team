@@ -40,7 +40,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > We're sorry. We can't access your [data] at this time. We're working to fix this problem. Please check back later.
+  > We're sorry. We can't access your [data] right now. We're working to fix this problem. Please check back later.
 
 ### 2. Identity verification ([#31403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31403))
 
@@ -56,9 +56,9 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > [heading] **Verify your identity to view your complete profile**. 
+  > [heading] **Verify your identity to access your complete profile**. 
   >
-  > [body] We need to make sure you’re you - and not someone pretending to be you - before we can give you access to your personal and health-related information.  This helps to keep your information safe, and to prevent fraud and identity theft.  
+  > [body] First, we need to make sure you’re you—and not someone pretending to be you. Then, we can give you access to your personal and health information. We do this to help keep your information safe from fraud and identity theft. 
   >
   > **This one-time process takes about 5-10 minutes**.
   >
@@ -94,7 +94,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > We're sorry. We can't update your [data] at this time. We're working to fix this problem. Please check back later.
+  > We're sorry. We can't update your information right now. We're working to fix this problem. Please check back later.
 
 ### 5. Successfully disconnected an app ([#31406](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31406))
 
@@ -110,7 +110,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > We've disconnected [app name] from your VA.gov profile. To delete stored information in the app, contact the app's support.
+  > We disconnected this app from your VA.gov profile: [app name]. To delete information stored in the app, contact the app's support center.
 
 ### 6. Failure to disconnect an app ([#31407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31407))
 
@@ -126,7 +126,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > We're sorry. We can't disconnect [app name] from your VA.gov profile at this time. We're working to fix this problem. Please check back later.
+  > We're sorry. We can't disconnect this app from your VA.gov profile right now: [app name]. We're working to fix this problem. Please check back later.
 
 ### 7. User hits cancel button while editing data ([#31408](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31408))
 
@@ -149,7 +149,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   > [heading] Are you sure?
   >
-  > [body] You haven't finished editing your [data]. If you cancel, your in-progress work won't be saved.
+  > [body] You haven't finished editing and saving the changes to your [data]. If you cancel now, we won't save your changes.
   >
   > [button] Continue editing 
   >
@@ -176,11 +176,11 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   > [heading] Are you sure?
   >
-  > [body] You haven't finished editing your [data]. You can continue editing, or cancel your work. If you cancel, your in-progress work won't be saved.
+  > [body] You haven't finished editing and saving the changes to your [data]. If you cancel now, we won't save your changes.
   >
   > [button] Continue editing 
   >
-  > [button] Cancel edits
+  > [button] Cancel
 
 ### 9. Confirmation user wants to disconnect app ([#31411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31411))
 
@@ -203,9 +203,9 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
   >  [heading] Are you sure?
   >
-  > [body] Once you disconnect this app, it won’t have access to new information from your VA.gov profile. This may affect how useful the app is to you.
+  > [body] After you disconnect this app, the app won’t have access to new information from your VA.gov profile. This may affect how useful the app is to you.
   >
-  > Some apps might store information you’ve already shared after you disconnect. You can Contact the app’s support if you want stored information to be deleted from the app.
+  > **Note:** Some apps might continue to store information you've already shared. If you want to delete any stored information from the app, contact the app's support center.
   >
   > [button] Disconnect
   >
