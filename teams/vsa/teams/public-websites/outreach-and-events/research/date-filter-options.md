@@ -63,7 +63,7 @@ Past events
 
 PROS  | CONS
 ------|------
-All options show different filtered events lists (resolves usability issue)
+All options show different filtered event lists (resolves usability issue) | None?
 Simple non-numeric options 
 Provides ability to enter a custom date (day/month/year or month/year or year), per Dave's use case |
 Disambiguates "next week" and "next month" with specific start dates | 
@@ -74,7 +74,7 @@ Disambiguates "next week" and "next month" with specific start dates |
 
 ![image](https://user-images.githubusercontent.com/69914583/141523494-9a4608a4-435a-4ce7-b76d-9bf08033c66b.png)
 
-![image](https://user-images.githubusercontent.com/69914583/141523813-9d0a3b30-0dbe-4d09-9556-8d28804e0fa5.png)
+![image](https://user-images.githubusercontent.com/69914583/141596571-fb0ab512-233b-4c85-aa25-1d6ab6971099.png)
 
 [See a draft of the interactions in Sketch](https://www.sketch.com/s/25f54f74-b1c5-400f-8869-e75633071149/a/dl7rO9L/play)
 
