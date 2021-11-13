@@ -49,7 +49,7 @@ Could easily add "This weekend" as a third option, if desired
 
 ## NEW DESIGN PROPOSAL
 
-All events (default) |
+All upcoming (default) |
 --- |
 Next week (from Dec 5)
 Next month (from Jan 1)
