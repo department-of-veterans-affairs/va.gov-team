@@ -117,7 +117,9 @@ I'd like you to see if there are any VA events coming up soon that could help yo
 
 *(When see dropdown date options)* What are your thoughts on those options?
 
-- *RECORD any feedback: Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+Can you tell me what you think each of them would do?
+
+- *RECORD any feedback: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
 
 *(When see event detail page)* What are your impressions of what you see here?
 
@@ -130,7 +132,7 @@ Can you please go back to the previous page? *[Event detail]* Is there anything 
 Let's say that you've decided that you want to try yoga in January. Can you find any yoga classes to sign up for?
 - *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
-- *RECORD any feedback on date filter options: Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+- *RECORD any feedback on date filter options: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
 
 *(When see event detail page w/recurring event)* Can you tell me about what you see here?
 
@@ -138,7 +140,7 @@ Let's say that you've decided that you want to try yoga in January. Can you find
 
 - *RECORD any feedback on "View 12 more occurrences accordion":* 
 
-I'd like you to sign up for 2 yoga classes in January.
+I'd like you to sign up for 2 yoga classes in 2022.
 - *RECORD any feedback on "View more":* 
 
 - *RECORD any feedback on scrolling the growing list of occurrences:* 
