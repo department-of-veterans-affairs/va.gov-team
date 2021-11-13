@@ -121,6 +121,10 @@ Can you tell me what you think each of them would do?
 
 - *RECORD any feedback: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
 
+- *RECORD which option they selected: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+
+- *RECORD did they click the "filter events" button?
+
 *(When see event detail page)* What are your impressions of what you see here?
 
 If you wanted to go to this event, what would you do? *(Register button / ______________)*
@@ -133,6 +137,10 @@ Let's say that you've decided that you want to try yoga in January. Can you find
 - *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
 - *RECORD any feedback on date filter options: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+
+- *RECORD which option they selected: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+
+- *RECORD did they click the "filter events" button?
 
 *(When see event detail page w/recurring event)* Can you tell me about what you see here?
 
