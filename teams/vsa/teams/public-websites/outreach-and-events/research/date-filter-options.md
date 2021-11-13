@@ -48,6 +48,28 @@ Could easily add "This weekend" as a third option, if desired
 - Want dropdown options to show different-looking event lists (i.e., not all starting with today's events, like All, Today, Next Week, Next Month) 
 
 ## NEW DESIGN PROPOSAL
+
+All events (default) |
+--- |
+Next week (from Dec 5)
+Next month (from Jan 1)
+Custom
+Past events
+
+![image](https://user-images.githubusercontent.com/69914583/141523494-9a4608a4-435a-4ce7-b76d-9bf08033c66b.png)
+
+![image](https://user-images.githubusercontent.com/69914583/141596571-fb0ab512-233b-4c85-aa25-1d6ab6971099.png)
+
+
+PROS  | CONS
+------|------
+All options show different filtered events lists (resolves usability issue)
+Simple non-numeric options 
+Provides ability to enter a custom date (day/month/year or month/year or year), per Dave's use case |
+Disambiguates "next week" and "next month" with specific start dates | 
+
+## Previous Ideas Generated
+
 ![image](https://user-images.githubusercontent.com/69914583/141520026-f387c05d-d029-4715-8051-3b4fae5de3a8.png)
 
 ![image](https://user-images.githubusercontent.com/69914583/141523494-9a4608a4-435a-4ce7-b76d-9bf08033c66b.png)
@@ -56,7 +78,6 @@ Could easily add "This weekend" as a third option, if desired
 
 [See a draft of the interactions in Sketch](https://www.sketch.com/s/25f54f74-b1c5-400f-8869-e75633071149/a/dl7rO9L/play)
 
-
 PROS  | CONS
 ------|------
 Simple non-numeric options | 3 of 6 options (All, Today, This week) still show the same filtered event list at the top (i.e., today's events)
@@ -64,8 +85,6 @@ Provides ability to enter a custom date (day/month/year or month/year or year), 
 Disambiguates "next week" and "next month" with specific start dates | 
 
 
-
-## Previous Ideas Generated
 ![image](https://user-images.githubusercontent.com/69914583/141516048-8c602c8a-1993-4b44-b112-8e1e3dc72d9f.png)
 
 Below is some previous brainstorming with Josh Kim. Some designs have the same usability issue as above, and others seem too confusing/overwhelming for users with so many numbers.
