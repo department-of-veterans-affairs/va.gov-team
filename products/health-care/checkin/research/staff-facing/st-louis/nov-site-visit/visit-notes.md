@@ -1,5 +1,6 @@
 # St. Louis Site Visit 
 ## November 10, 2021
+### Written by Kristen McConnell
 
 ## Franklin County VA Clinic in Washington, Missouri
 
