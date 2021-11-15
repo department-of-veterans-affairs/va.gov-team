@@ -74,12 +74,12 @@ The MVP will display a list of the Veteran's balance(s) at each of their VA heal
 
 #### Primary criteria / Must have: 
 
-We would like **12** total participants.
+We would like **10** total participants.
 
-* 3 participants who are not enrolled in VA health care 
-* 9 participants who are enrolled in VA health care: 
+* 2 participants who are not enrolled in VA health care 
+* 8 participants who are enrolled in VA health care: 
    * 3 participants who haven't received a VA copay statement within the past 2 years
-   * 6 participants who have received a VA copay statement since October 1st, 2021
+   * 5 participants who have received a VA copay statement since October 1st, 2021
       * 3 participants who have been to more than one VA health care facility within the past 2 years
 
 * **All participants must be LOA3 (identity verified) on VA.gov.** Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
