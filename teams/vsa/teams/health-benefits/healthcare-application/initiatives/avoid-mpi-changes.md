@@ -76,6 +76,8 @@ It matters more that we close off a potential vulnerability over deferring Veter
 
 For the second bullet, we need to make sure we use the attributes from our user object behind-the-scenes / in vets-api, not the submitted greyed out form fields. Even submitting the greyed out fields is a security risk. Cody Reinold is happy to chat further if we're not sure how to do this part.
 
+Not electing for addtional backend validation; relying on frontend validation to prevent passing along changes to MPI "trait" data.
+
 --- 
 
 ## Launch Planning
