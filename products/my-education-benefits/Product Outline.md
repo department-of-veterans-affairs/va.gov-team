@@ -10,7 +10,12 @@ How might we create a more transparent and timely process to apply for and recei
  
 ## Desired User Outcomes
 
-- Veterans and their families should be able to: 1) Apply for education benefits by reviewing data VA has on file for them and adjusting it, instead of providing new data that needs to be manually reviewed 2) Obtain an immediate decision about their benefit eligibility (at least for a percetnage of user base) 3) Receive digital communications with status updates and documentation regarding their elgibility 4) Seemlessly notify desired school(s) about their eligibility 5) Stay informed of pertinent information being communicated from the school they are attending to VA
+Veterans and their families should be able to: 
+- Apply for education benefits by reviewing data VA has on file for them and adjusting it, instead of providing new data that needs to be manually reviewed 
+- Obtain an immediate decision about their benefit eligibility (at least for a percetnage of user base)
+- Receive digital communications with status updates and documentation regarding their elgibility
+- Seemlessly notify desired school(s) about their eligibility
+- Stay informed of pertinent information being communicated from the school they are attending to VA
 
 ## Undesired User Outcomes
 
