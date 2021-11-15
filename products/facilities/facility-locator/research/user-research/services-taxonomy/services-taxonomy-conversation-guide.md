@@ -83,6 +83,8 @@ Before we get to the tasks you are helping us with today, a few things I want to
     - Does that description make sense?
     - Based on your experience, what is a better way to describe it?
 
+** **MAKE SURE PARTICIPANS CLICK "FINISH" TO CAPTURE DATA** **
+
 ## Closing [5 minutes]
 
 ### Post-research follow-up questions
