@@ -4,7 +4,7 @@ The Contact information page will follow the same patterns as is currently used 
 ## Contact Information Page - Default State
 
 ### Page URL
-- TBD
+- https://www.va.gov/profile/contact-information/
 
 ### Sketch Mockup
 - [Personal Information Page - Desktop Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/bg4kVKJ)
