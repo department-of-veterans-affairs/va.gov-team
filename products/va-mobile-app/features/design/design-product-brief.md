@@ -1,56 +1,52 @@
 # Mobile Design Product Brief
-10/6/2021 / Updated 11/8/2021
 
-## Vision for redesign (visual, interactions(may come later), and reorg improvements)
+Created 10/6/2021 • Updated 11/15/2021
 
-### Vision: Personalized, accessible, and future proof app design using modern native design language 
+**Product Vision for Redesign**
+- A personalized, accessible, and future proof app design, using modern native design language 
+  - The term redesign is intended to be inclusive of visual design and IA improvements. Interaction design may come later
 
-- Two exceptions - don’t need separate tablet/phone designs and we don’t need to differentiate between two platforms. We will tackle these two parts, if necessary, when we transition to native.
-- Iterative - start with what we can build to test our riskiest assumption
-- Setting an example that other teams can aspire to or adopt
+**Process Goals**
+- We work iteratively, starting with what we can build to test our riskiest assumption, and setting an example that other teams can aspire to or adopt
 
+**Assumptions/Hypotheses**
+- Personalization: A revisit of the IA will likely result in a more personalized homepage to minimize taps and accommodate the fact that Veterans’ experience changes over time.
+    - Our design language will need to evolve to accommodate a more personalized homepage/IA/search functionality 
+    - **Riskiest Assumption: Personalizing our design, modernizing our design language, and updating our IA will improve adoption and trust **
+- Information Architecture: We need IA or a hierarchical/grouping as the way to display information 
+- Search: Veterans have a lot of appointments/messages/payments and it would be useful to them to be able to search the app generally
+- Accessibility: Updating design language must take into account accessibility requirements
+- Scope: We don’t need separate tablet/phone designs and we don’t need to differentiate between two platforms. We will tackle these two parts, if necessary, when we transition to native.
 
-## Assumptions/Hypotheses 
-1. A revisit of the IA will likely result in a more personalized homepage to minimize taps
-- How would we know? Lots of variation in groupings from user research
-- Users asking for more personalized experience 
-- Veterans’ experience change over time, from Veteran to Veteran 
-- Many many tools 
-- Temporal actions and information 
-- Best practices? Expect an app to act in a certain way
-2. That we need IA or a hierarchical/grouping way to display information 
-- Benefits to adjacency 
-- Some hybrid with maybe recents, some groupings, maybe favorites 
-3. Our design language will need to evolve to accommodate a more personalized homepage/IA/search functionality 
-4. Riskiest Assumption: Personalizing our design, modernizing our design language, and updating our IA will improve adoption and trust 
-5. Search - Veterans have a lot of appointments/messages/payments and it would be useful to them to be able to search the app generally 
-6. Smarter notifications? Not in this project but definitely revisit 
+**Risks**
+- VA.gov team and deviations from the design system/IA
+- Screw up something that’s already working
+- Our egos 
 
-## Risks
-1. VA.gov team and deviations from the design system/IA
-2. Accessibility incompatible with modern native design language 
-3. Screw up something that’s already working
-4. Our egos 
+**Redesign Process**
+- Phase 0: Dark Mode Implementation & Iteration
+- Phase 1: Determining Direction for Personalization, IA, Search
+    - Personalization, Search: Initial brainstorming with team
+    - Personalization: Create low-fi UX options and feasibility/scope recommendation
+    - IA: Unmoderated tree-structure research and feasibility/scope recommendation
+    - Search: options analysis and feasibility/scope recommendation
+    - Determine direction for Personalization, IA, and Search
+- Phase 2+: Validation, Design, and Build
+    - User testing for Personalization, Search & IA
+    - Initial Design & Build
+    - Refine, Build, Test
+    - Usability testing
 
-## Redesign Process 
-1. Redesign and IA: Full readout, structured plan for design 
-- Milestones, dates, time boxes etc. 
-- Align on approach options
-- Iterate and plan research/submit research request (Tree Jack Testing on IA?)
-2. Brainstorm session with entire group + synthesis 
-- Approaches to wireframes with specific hypotheses 
-3. Get complexity estimates from engineering
-4. Iterate and align on wireframes
-5. Conduct user research 
-6. Synthesis and decision on “MVP”
-
-## Measures of Success
-### Primary: Veteran adoption, trust 
-- Qualitative - hear more enthusiasm in user research, Veterans would easily find the features they’re searching for
-- Number of taps to key tools go down 
-### Secondary: Reputational and Stakeholder Benefits
-- How to measure? Improve VA’s reputation and ability to design first class apps - we want this thing to win awards
-- People continue to be proud of the work and want to show it off - demo to new stakeholders, they’d be like how can we help, this looks great, want to be champions for the app 
-- MHV coordinator or clinician enthusiasm
-
-
+**Measures of Success**
+- Primary: Veteran adoption, trust 
+    - Quantitative
+        - Number of taps to key tools go down
+        - Increased downloads and repeat usage
+        - Maintain high app ratings
+    - Qualitative - hear more enthusiasm in user research, Veterans would easily find the features they’re searching for
+- Secondary: Reputational and Stakeholder Benefits 
+    - Goal: Improve VA’s reputation and ability to design first class apps
+        - Winning awards
+    - Goal: People continue to be proud of the work and want to show it off
+        - Demo to new stakeholders who then want to be champions for the app (they share it with their networks via newsletters or blog posts, etc)
+    - MHV coordinator or clinician enthusiasm
