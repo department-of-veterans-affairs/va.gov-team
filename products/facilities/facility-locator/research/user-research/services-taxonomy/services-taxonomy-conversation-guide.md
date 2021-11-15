@@ -70,6 +70,9 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ** **RUN CARD SORT** **
 
+[High priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5)
+[Low priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5-0)
+
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
 - **[Moderator questions to keep in mind]**
   - Validate existing categories:
