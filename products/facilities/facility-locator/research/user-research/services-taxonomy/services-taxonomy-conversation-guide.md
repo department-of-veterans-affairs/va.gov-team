@@ -59,21 +59,24 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ### Task: card sort
 
-[Share your screen - open the first card sort to demonstrate the actions on your screen]
-
-- **First, I'll explain how the card sort works**
-  - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
-  - On the right side of your screen, are different ways to categorize those services.
-  - You can drag items from the list of services on the left, into any category you choose, on the right.
-  - You can create new categories by dragging a service into an empty space.
-
-** **RUN CARD SORT** **
-
 ** **Send high priority services card sort first, then lower priority services** **
 
 [High priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5)
 
 [Low priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5-0)
+
+[Share your screen - open the first card sort to demonstrate the actions on your screen]
+
+- **Before I send this to you, I'll give you brief demonstration of how the card sort works**
+  - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
+  - On the right side of your screen, are different ways to categorize those services.
+  - You can drag items from the list of services on the left, into any category you choose, on the right.
+  - You can create new categories by dragging a service into an empty space.
+- **Are you comfortable performing these actions?**
+  - [Yes]: Alright, I'm going to send you a link, and ask you to share your screen.
+  - [No]: Alright, we can continue using my screen, while I explain it to you.
+
+** **RUN CARD SORTS** **
 
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
   - [Link to VHA services list](https://docs.google.com/spreadsheets/d/1rd7ms6umKBq71SaLH2wdaofEZLoA3F-U2wRBUgj6QNg/edit#gid=1899971175)
