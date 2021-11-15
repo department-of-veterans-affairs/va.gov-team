@@ -1,1 +1,0 @@
-# Research session notes
