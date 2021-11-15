@@ -56,6 +56,9 @@ Next month (from Jan 1)
 Custom
 Past events
 
+*Need an "update filter" button to make the dropdown selection take effect*
+- *For the custom option, shouldn't need to click "update filter" twice--Josh should clarify*
+
 ![image](https://user-images.githubusercontent.com/69914583/141523494-9a4608a4-435a-4ce7-b76d-9bf08033c66b.png)
 
 *Should add instruction text: "Select the month and (optionally) the day for which you want to see events."*
