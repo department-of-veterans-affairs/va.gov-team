@@ -5,7 +5,11 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
-- 11/9/21: "Well done VA!!! This app saves so much time. Letters and documents can be requested. Claim status can be checked. It literally has everything I need and is so much faster than the website. Very pleased!!! Thank you!!!"
+- 11/12/21: "The app is great. I hope it continues to grow to give us access to more things but we are off to a great start." (Apple store review)
+
+- 11/12/21: "...You really appreciate the speed of this app at least on iPhone..." (Apple store review)
+
+- 11/9/21: "Well done VA!!! This app saves so much time. Letters and documents can be requested. Claim status can be checked. It literally has everything I need and is so much faster than the website. Very pleased!!! Thank you!!!" (Apple store review)
 
 - 11/9/21: "With this application that the United States Veterans Affairs has created, it allows the end-user almost seamless access to their rating, letters, claim status, and many more.I wish they had this five years ago. But better late than never. I am truly thankful and grateful for the VA. Family first, mission always. God bless America."
 
@@ -35,7 +39,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 
 ## Rx Refill
-- 11/9/21: "Had trouble logging in and once I did kept getting error stating app wasn’t working. That was when I logged in with MyHealthvet. I then logged out and logged in using ID me and now the app is working great. Would like to see VA RX refill app consolidated with this. Then it would be worthy of a five star rating for me. Also, would like to see VHA travel claims added to this, now that would really nice because the BTSSS can be iffy logging in and using at times. Might also add advance directives in case needed in an urgent situation and they can’t always be obtained quickly by non va hospitals.
+
+- 11/9/21: "Had trouble logging in and once I did kept getting error stating app wasn’t working. That was when I logged in with MyHealthvet. I then logged out and logged in using ID me and now the app is working great. Would like to see VA RX refill app consolidated with this. Then it would be worthy of a five star rating for me. Also, would like to see VHA travel claims added to this, now that would really nice because the BTSSS can be iffy logging in and using at times. Might also add advance directives in case needed in an urgent situation and they can’t always be obtained quickly by non va hospitals."
 
 - 11/7/21: "This is an awesome app, would be awesome if they could add the RX Refill on this app too." (Apple store review)
 
@@ -43,6 +48,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 
 ## Appointments
+
+- 11/12/21: "This is a great app to access info quickly and manage your appointments." (Apple store review)
+
+- 11/11/21: "As someone who frequently uses the VA website for disability claims and healthcare, this is a huge timesaver. I read in another review that there might soon be notifications of medical appointment changes. This would be huge since I'm usually not told when an appointment changes or gets cancelled..." (Apple store review)
 
 - 11/5/21: "This helps save alot of time signing in on pc and assists me in keeping up to date aswell as informed on when appointments are upcoming and hte schedule aswell as I can see my doctors note and labs great application" (Apple store review)
 
@@ -68,7 +77,14 @@ Comments and info from various sources (newest comments towards the top of each 
 - [Reddit link 2](https://www.reddit.com/r/Veterans/comments/qlou79/breath_of_relief_thank_you_everyone_lurked_long/) "Congrats! But also, what app is this? I think I need it." 
 - [Reddit link 3](https://www.reddit.com/r/VeteransBenefits/comments/qlyk5r/great_way_to_start_the_day_100_pt/) "It’s in the letters section under benefits and service verification." “I like this nice concise view that you were able to see because it presents all the facts on a single screen.”
 
+
+## Disability claim status
+
+11/11/21: "...The only improvement I would like to see is an ability to reresh the status of a disability claim. For instance it its 4:30 in the afternoon now but it is showing my most recent status from when I checked it at 10pm yesterday. It seems you can only check it once per 24 hours with the app. This is fine most of the time but when they are getting close to publishing a final decision, I'd like to refresh more often. As it stands, this is now pushing me back to the website daily." (Apple store review)
+
+
 ## Internal/Stakeholder Feedback
+
 4/2/21: Accessibility Presentation to the VA's 508 Office
 * “the work is extraordinary"
 * “such a well thought out and executed 508 strategy”
