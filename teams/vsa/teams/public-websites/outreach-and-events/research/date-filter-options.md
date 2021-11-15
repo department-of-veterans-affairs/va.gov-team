@@ -28,8 +28,8 @@ Design notes:
 Design notes:
 - *The "filtered by" line should be below the dropdown*
 - *How to specify which date filter has been selected after the text "filtered by":*
-  - May 11, 2022 *(custom date)*
-  - May 11, 2022 - June 2, 2022 *(custom date range)*
+  - May 30, 2022 *(custom date)*
+  - July 1-5, 2022 - June 2, 2022 *(custom date range)*
   - All upcoming
   - Next week from Dec 5
   - Next month from Jan 1
