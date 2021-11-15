@@ -119,14 +119,14 @@ Onboard Christina to this work:
 
 ### PTO
 
-- **Marci**: Nov 24 -26
-- **Samara**: Nov 24 -26
-- **Liz**: Nov 24 -26
-- **Christina**: ?
+- **Marci**: Nov 24 - 26
+- **Samara**: Nov 24 - 26
+- **Liz**: Nov 24 - 26
+- **Christina**: Nov 25 - 26
 - **Erik**: ?
-- **Taylor**: ?
+- **Taylor**: Nov 24 - 26
 - **Zach**: ?
-- **Lihan**: ?
+- **Lihan**: Nov 25
 
 ### Personal information updates
 
