@@ -3,18 +3,13 @@
 The My Education Benefits application will allow applicants to submit a claim for GI Bill benefits, leveraging service data already available on VA systems to automatically determine veteran eligiblity and automatically process claims.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
 There are several challenges with the current education benefit application and enrollment processes. This service offering involves a number of stakeholders: Veteran Claim Examiners (VCEs), School Certifying Officials (SCOs), State Approving Agencies (SAAs), Education Liason Representatives (ELRs), additional VA staff, and of course Veterans and their families. The service involves a lot of manual data entry by all parties, a lack of clear cut guidance on the current status and next step(s) in the process, and legacy IT systems. 
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
 
 How might we create a more transparent and timely process to apply for and receive education benefits for veterans and their families?
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 - Veterans and their families should be able to: 1) Apply for education benefits by reviewing data VA has on file for them and adjusting it, instead of providing new data that needs to be manually reviewed 2) Obtain an immediate decision about their benefit eligibility (at least for a percetnage of user base) 3) Receive digital communications with status updates and documentation regarding their elgibility 4) Seemlessly notify desired school(s) about their eligibility 5) Stay informed of pertinent information being communicated from the school they are attending to VA
 
 ## Undesired User Outcomes
@@ -87,11 +82,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch?*
-  - 
+  - March 2022
 ---
 
 ## Solution Narrative
