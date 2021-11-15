@@ -114,25 +114,34 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: My Education Benefits
+- GitHub Label:  @department-of-veterans-affairs/my-education-benefits
+- Slack channel: education-benefits
+- Product POCs: Cesar Santiago (tech lead), Shamik Desai (PM)
+- Stakeholders: Tammy Hurley, Robert Holbrook
 
 </details>
 
 #### Team Members
-
 <details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
+|Name|Role|
+|----|----|
+|Shamik Desai | Product Manager|
+|Cesar Santiago | Tech Lead|
+|Bradley Bergeron | BE Engineer|
+|Khansa Ayari Hammmami | BE Engineer|
+|Sebastian Caso | BE Engineer|
+|Parwiz Rezai | BE Engineer|
+|Nathaniel Buck | FE Engineer|
+|Fernando Boza | FE Engineer|
+|Ewaz Farang | QA Engineer|
+|Branden Bartlett | QA Engineer|
+|Zeki Yaren | QA Engineer|
+|Liam McCormick | QA Engineer|
+|Audra Ayotte | HCD Lead|
+|Russell Lyons | HCD designer|
 
+</details>
 
 #### Stakeholders
 
