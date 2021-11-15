@@ -1,6 +1,6 @@
-[PRE-REVIEW]
-
 # Research Plan - Non-Clinical Services Taxonomy
+
+[Reviewed by Lauren Alexanderson on 11/12/21]
 
 Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31626), and for non-clinical services taxonomy audit [#30839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30839).
 
