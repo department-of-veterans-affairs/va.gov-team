@@ -32,15 +32,15 @@
 ## Monday, November 15, 2021
 * Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
   * Updates?  Group went offline to discuss.
-  * * How critical is the timing of the upcoming changes?
-  * Facility API changes made morning of 11/15 won't reflect in the CMS until after 3am ET (Facility API migration - LH), VAST changes reflect in LH around 7:30am ET
-  * Ought to be part of the request:
-    * When do you want changes to reflect on va.gov?
-    * How can CMS/LH get notified as early as possible of these things, James to poke with VAST folks
+  * San Diego cut over to prod last wednesday 11/10
+  * Dave Conlon to follow up with Stan on URL updating process.
+  * Potentially looking for update on regular cadence.
+  * How can CMS/LH get notified as early as possible of these things, James to poke with VAST folks
     * For this iteration we won't worry about it per Dave C
     * James talked to VAST awaiting response
 * Updating guidelines / KB
-
+  * Joe and Josh reviewed and updated the two tables
+  * Will talk to Michelle about creating ticket for Facilities backlog to create templates for e-mail links for making update to vet center info
 
 ## Monday, November 8, 2021
 * Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
