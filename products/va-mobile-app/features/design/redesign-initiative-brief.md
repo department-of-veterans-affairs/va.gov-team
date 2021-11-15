@@ -1,4 +1,4 @@
-# Mobile Design Product Brief
+# Mobile Redesign - Initiative Brief
 
 Created 10/6/2021 • Updated 11/15/2021
 
