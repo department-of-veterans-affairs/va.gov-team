@@ -12,7 +12,7 @@
             * St. Charles is closed for new patients.
     * 1 pharmacist
     * 1 dietician
-    * lab testing (only area taking walk-ins since COVID)
+    * lab tech (only area taking walk-ins since COVID)
     * 1 psychologist
     * 1 Telehealth tech
     * 1 chiropractor (2 days a week)
@@ -34,7 +34,7 @@
         * If all systems go down they will revert to writing everything down on paper, then enter it when the systems come back up.
         * They have gone back to VistA, but MSAs aren’t really taught VistA anymore. Multiple MSAs discussed learning VistA on the job when necessary.
 * Providers have access to VetLink, but not VSE.
-* A lot of their walls have a lot of art or posters on them. There isn’t a lot of wall space.
+* A lot of their walls have art or posters on them. There isn’t a lot of wall space.
 * They don’t really have long lines of Veterans waiting (according to MSAs)
 
 ### General quote from staff about our visit
@@ -62,7 +62,7 @@
 ### Patient Tracking
 * For patient tracking, multiple of the staff members mentioned previous use of the Bingo Board in CPRS
 * Clinical manager and MSA mention the VeText? (might be VetLink) capability of a notification that flashes at the top and says there is a new patient. It flashed at the top, so it doesn’t matter what clinic you are viewing.
-* There is a screener at the front door. The door is closed, so everyone interacting must talk to the screener. The screener asks COVID questions and takes everyone’s temperature. They are ask for the Veterans name, then send out a Teams message to their clinic channel that the Veteran has entered the building. 
+* There is a screener at the front door. The door is closed, so everyone interacting must talk to the screener. The screener asks COVID questions and takes everyone’s temperature. They ask for the Veteran's name, then send out a Teams message to their clinic channel that the Veteran has entered the building. 
 * Nurses do look at VetLink, but the MSAs also send a Teams message to the clinic channel as a back-up, when a Veteran checks in.
     * They didn’t really send Teams messages prior to COVID. They only relied on VetLink.
 * Upon a successful check-in, a routing sheet and medication list automatically print outs. 
@@ -100,8 +100,8 @@
             * **Lost 1.5 million due to lost medications.** 
                 * I think they said this number is for the last year. I don’t know what VA area this number applies to.
             * They receive approximately 40 - 50 phone calls a week on lost medications.
-                * When this occurs, they send a note to the R or transfer the information to the Pharmacy, because they have the ability to track the medication package. Medications are sent through UPS now, but used to be through the post office.
-        * VBA was having travel fraud. They tried to get VHA away from that and focus on healthcare.d
+                * When this occurs, they send a note to the RN or transfer the information to the Pharmacy, because they have the ability to track the medication package. Medications are sent through UPS now, but used to be through the post office.
+        * VBA was having travel fraud. They tried to get VHA away from that and focus on healthcare.
     * They only have the ability to change it for 30 days
         * During that time Veterans need to show proof of the change to the eligibility office. The eligibility office send a letter via the mail to the Veteran requesting proof.
 * However, the kiosk has the capability to change it permanently, so MSAs try to direct Veterans to make the updates on the kiosk.
