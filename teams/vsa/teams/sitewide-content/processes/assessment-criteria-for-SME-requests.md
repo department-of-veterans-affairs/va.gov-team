@@ -23,7 +23,7 @@ These are the types of requests we get:
 -	It’s an addition that simply repackages (in the form of an administration webpage or PDF) info that we already have on our site.
 -	It’s promotional content that’s associated with a campaign.
 
-## Steps to moving forward with a request
+## How to move forward with a request
 
 If you determine that sitewide content should fulfill this request, you’ll need to determine the best way to go about it and document it in the ticket. Put this information in the ticket:
 
