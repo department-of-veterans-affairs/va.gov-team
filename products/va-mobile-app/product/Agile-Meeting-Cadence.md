@@ -45,8 +45,6 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
     * Review issues in Eng Current sprint and tag to next sprint if needed
     * Review of issues in Eng Backlog and tag to next sprint
     * Ensure all issues for next sprint are estimated and labeled (Eng team self-assigns once they begin work)
-* QA:
-    * Tag FE issues tagged to the next sprint with the Release that is 4 weeks away
 
 **Post this meeting, managers are expected to:**
     * Update the Mobile App Sprint Pre-Planning Review deck with Sprint Objectives & Outcomes
@@ -114,6 +112,7 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * Team will have conducted Sprint Pre-Planning with VA POs to gain alignment on priorities
 * Issues labeled with the new Sprint will be moved from the UX and Eng Backlogs into the UX and Eng Current Sprint columns on each board
 * Any issue labeled with the new Sprint is fully estimated, labeled, and assigned (*note that Eng tickets get assigned during the sprint as the team picks them up)
+* Tag FE issues that will be part of the new sprint with Target Release Date that is 4 weeks away
 
 **Agenda:**
 
