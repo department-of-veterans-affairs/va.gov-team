@@ -123,21 +123,23 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 </details>
 
 #### Team Members
+
 <details>
+
 - Shamik Desai: Product Manager
 - Cesar Santiago: Tech Lead
-Bradley Bergeron: BE Engineer
-Khansa Ayari Hammmami: BE Engineer
-Sebastian Caso: BE Engineer
-Parwiz Rezai: BE Engineer
-Nathaniel Buck: FE Engineer
-Fernando Boza: FE Engineer
-Ewaz Farang: QA Engineer
-Branden Bartlett: QA Engineer
-Zeki Yaren: QA Engineer
-Liam McCormick: QA Engineer
-Audra Ayotte: HCD Lead
-Russell Lyons: HCD designer
+- Bradley Bergeron: BE Engineer
+- Khansa Ayari Hammmami: BE Engineer
+- Sebastian Caso: BE Engineer
+- Parwiz Rezai: BE Engineer
+- Nathaniel Buck: FE Engineer
+- Fernando Boza: FE Engineer
+- Ewaz Farang: QA Engineer
+- Branden Bartlett: QA Engineer
+- Zeki Yaren: QA Engineer
+- Liam McCormick: QA Engineer
+- Audra Ayotte: HCD Lead
+- Russell Lyons: HCD designer
 
 </details>
 
