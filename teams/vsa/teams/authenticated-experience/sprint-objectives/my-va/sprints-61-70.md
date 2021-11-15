@@ -41,12 +41,12 @@ Note: This assumes we are pivoting this work, which we still need to discuss as 
 
 **PM**
 
-- Work with Tressa/Samara to determine next steps
-- Let team know about pivot
+- Work with Tressa/Samara to determine next steps #32836
+- Let team know about pivot #32836
 
 **Design**
 
-- Work with AJ/Heather/Samara to determine next steps
+- Work with AJ/Heather/Samara to determine next steps #32836
 
 ### User roles research
 
