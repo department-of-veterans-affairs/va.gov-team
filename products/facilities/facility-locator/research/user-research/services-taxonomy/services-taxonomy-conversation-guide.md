@@ -50,9 +50,9 @@ Before we get to the tasks you are helping us with today, a few things I want to
   - Are you familiar with what a card sort is?
   - [Yes]: Great, I'll just give you a brief overview since you're already familiar.
   - [No]: No problem, before we start I'll explain how it works.
-- **In order to help us out today, you will need to share your screen - are you comfortable doing that today?**
+- **During this session, you may need to share your screen - are you comfortable doing that today?**
   - [Yes]: Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
-  - [No]: Ok no problem, I can share my screen with you then, and walk you through our task myself.
+  - [No]: Ok no problem, I can share my screen with you then, and you can tell me what to do.
   - [Work out any technical difficulties - worst case, run card sorts on my screen while explaining]
 
 ## Usability tasks [~ 40 minutes]
