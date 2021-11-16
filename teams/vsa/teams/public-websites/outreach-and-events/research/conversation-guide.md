@@ -112,18 +112,18 @@ What do you think you can do from this page?
 - *RECORD any reactions to location info shown*
 
   
-### Task 2: [Filter by Date] - 5 minutes
+### Task 2: [Filter by Date--One-time event] - 5 minutes
 I'd like you to see if there are any VA events coming up soon that could help you look for a new job.
 
 *(When see dropdown date options)* What are your thoughts on those options?
 
 Can you tell me what you think each of them would do?
 
-- *RECORD any feedback: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+- *RECORD any feedback on date filter options: **All upcoming** / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
-- *RECORD which option they selected: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+- *RECORD which option they selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
-- *RECORD did they click the "filter events" button?
+- *RECORD did they click the "filter events" button? Y / N*
 
 *(When see event detail page)* What are your impressions of what you see here?
 
@@ -132,15 +132,16 @@ If you wanted to go to this event, what would you do? *(Register button / ______
 Can you please go back to the previous page? *[Event detail]* Is there anything else that you would do on this page?
 - *RECORD: Add to Calendar / Share on FB / Twitter / ______________*
 
-### Task 3: [Recurring Events] - 5 minutes
+### Task 3: [Filter by Date--Recurring event] - 5 minutes
 Let's say that you've decided that you want to try yoga in January. Can you find any yoga classes to sign up for?
+
 - *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
-- *RECORD any feedback on date filter options: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+- *RECORD any feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
-- *RECORD which option they selected: **REVISE** Today / This weekend / Next 7 days / Next 30 days / Next 60 days / All times / Past events*
+- *RECORD which option they selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
-- *RECORD did they click the "filter events" button?
+- *RECORD did they click the "filter events" button? Y / N*
 
 *(When see event detail page w/recurring event)* Can you tell me about what you see here?
 
@@ -149,12 +150,43 @@ Let's say that you've decided that you want to try yoga in January. Can you find
 - *RECORD any feedback on "View 12 more occurrences accordion":* 
 
 I'd like you to sign up for 2 yoga classes in 2022.
+
 - *RECORD any feedback on "View more":* 
 
 - *RECORD any feedback on scrolling the growing list of occurrences:* 
 - How many do you want to see in this list?
 
 - *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
+
+### Task 4: [Filter by Date--Custom date] - 5 minutes
+
+Now I'd like you to see if there are any VA activities on Memorial Day next year, which is May 30. 
+
+- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+
+- *RECORD which option they selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
+
+Before you do anything, what do you think you can do on this page?
+
+- *RECORD did they click the "filter events" button? Y / N*
+
+- *RECORD did they find the 2 Memorial Day evengs? Y / N*
+
+### Task 5: [Filter by Date--Custom date range] - 5 minutes
+
+I'd like you to imagine that you're planning a trip to New Orleans next summer, and you want to see if there are any Independence Day events that you could attend while you're there. You'll be there July 1-5.
+
+- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+
+- *RECORD which option they selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
+
+Before you do anything, what do you think you can do on this page?
+
+- *RECORD did they click the "filter events" button? Y / N*
+
+- *RECORD did they find the 2 Memorial Day evengs? Y / N*
+
+### Task 6: [Events list & location] - 5 minutes
 
 Can you please go back to the previous page? *[Event detail]* Is there anything else that you would do on this page?
 - *RECORD: Add to Calendar / Share on FB / Twitter / ______________*
