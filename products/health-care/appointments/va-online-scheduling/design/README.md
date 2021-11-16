@@ -31,6 +31,21 @@ Current state documentation of the appointments list:
 * [Direct schedule flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/design/direct-schedule-flow.md)
 * [Appt request flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/design/request_flow.md)
 
+## User flows
+
+
+![Flows](VAOS-User-Flows.png)
+
+
+<details>
+<summary>Previous flow diagrams</summary>
+  
+- [Updated VAOS Flow - Flowmapp](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
+- [VAOS Flow - Figma](https://www.figma.com/file/KGChcQHMrTReo7T7cML418/VAOS-Flow)
+
+</details>
+
+
 ## Background
 
 At the end of 2019, the VAOSR initiative, a re-design project, launched with UAT testing with Veterans on the new application flow. By May 2020, VAOSR was at 100% availability on VA.gov. Around the same time, due to Covid-19, all facilities turned off direct scheduling (the ability to choose a date and time in VAOS).
@@ -44,5 +59,3 @@ Because other teams also display appointments, the VAOS team kicked off a cross-
 Additional dev work on the homepage was put on hold as the team pivoted to COVID-19 vaccine scheduling in VAOS. This functionality is currently in pilot with limited facilities as of April 2021.
 
 
-## [Updated VAOS Flow - Flowmapp](https://app.flowmapp.com/share/0fdcf2559a4c55625591f89c2e5d7649/userflow/83089/)
-## [VAOS Flow - Figma](https://www.figma.com/file/KGChcQHMrTReo7T7cML418/VAOS-Flow)
