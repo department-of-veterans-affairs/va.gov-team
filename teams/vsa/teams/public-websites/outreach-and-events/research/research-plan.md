@@ -103,7 +103,7 @@ Nov 29 - Dec 2, 2021
 Team Availability | Time (EST)
 ------------------|--------------
 Nov 29, 2021 | 1:30 - 3 pm, 4 - 8 pm
-Nov 30, 2021 | Noon - 3 pm, 6 - 8 pm
+Nov 30, 2021 | Noon - 3 pm, 4 - 8 pm
 Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
 Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
 	
