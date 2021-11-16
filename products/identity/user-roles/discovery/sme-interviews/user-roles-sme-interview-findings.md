@@ -45,22 +45,22 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
    - Dependents can also be the direct recipient of a benefit or service, such as an education benefit, and/or they could be a Veteran's caregiver. 
    - When a dependent's **only connection** to the VA is their dependent status, they wouldn't have a need to see information related to their Veteran (since the Veteran is the recipient of any benefits where the dependent is claimed), and they wouldn't have any benefits of their own to manage. It's unlikely they would need to 
 
-2. According to VHA and VBA, **beneficiaries** are anyone who is the direct recipient of a benefit or service from VA.
+2.  A **beneficiary** can be anyone who is the direct recipient of a benefit or service from VA. In VBA, the term is also used to refer to a person the Veteran has named to receive their benefit in the future.
 
-   - This could be a Veteran, or a qualifying family member.
+   - A beneficiary could be a Veteran, or a qualifying family member.
    - Each benefit has specific qualifications to determine beneficiary eligibility. 
    - Once a person is actively receiving a benefit, the tasks they would need to do on VA.gov are the same regardless of if they are a Veteran or a non-Veteran. For example, a non-Veteran beneficiary receiving education benefits should be able to update their direct deposit information or view payment history the same way a Veteran would.
    - A beneficiary isn't always a dependent. For example, a caregiver can be a beneficiary but wouldn't necessarily be a dependent of the Veteran.
 
-3. A Veteran's **caregiver** is a person who provides support to the Veteran; they could be individuals who are officially recognized by the VA, self-identified individuals, or professional caregivers.
+3. A Veteran's **caregiver** is a person who provides support to the Veteran. Caregivers could be individuals who are officially recognized by the VA, self-identified individuals, or professional caregivers.
 
-   3.1 VHA officially recognizes caregivers through the VA Comprehensive Assistance for Family Caregivers Program. There is [specific criteria for this program clearly defined on VA.gov](https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/), which includes the fact that the Veteran must be enrolled in VA healthcare, and have a service-connected illness, injury, or disability. 
+   3.1 VHA officially recognizes caregivers through the VA Comprehensive Assistance for Family Caregivers Program (PCAFC) and the Program of General Caregiver support services (PGC). Each program has specific eligibility criteria, which includes the fact that the Veteran must be enrolled in VA healthcare. 
 
-   - There isn't a VBA equivalent for this program. 
-   - Caregivers in this program would also be considered VA beneficiaries since they receive benefits and services from the VA, so they would have a need to access information about themselves **and their Veteran**. 
-   - Caregivers in this program can help Veterans with offline health tasks. They have to go through a separate process for to be authorized to help with online health tasks (see finding 4).
+   - There isn't a VBA equivalent for these programs. 
+   - Caregivers in the PCAFC program could also be considered VA beneficiaries since they receive benefits and services from the VA. They could have a need to access information about themselves **and their Veteran**, depending on the level of care the Veteran needs. 
+   - Participation in these programs doesn't automatically authorize the caregiver to access Veteran information.
 
-   3.2 A Veteran may need a caregiver even if they don't have a service-connected illness, injury, or disability. For example, a Veteran living with Alzheimer's disease needs full-time care. This type of caregiver would be a self-identified caregiver. Currently, a self-identified caregiver could act on behalf of a Veteran though existing VA processes:
+   3.2 A Veteran may have a caregiver who doesn't participate in either program. This type of caregiver would be considered a self-identified caregiver. Currently, a self-identified caregiver could act on behalf of a Veteran though existing VA processes:
 
    - The VA Online Health Delegate program (see finding 4) would give a caregiver access to some Veteran health tasks.
    - A caregiver could apply to be a Veteran's fiduciary to manage financial tasks.
@@ -71,7 +71,7 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
    Examples include:
 
-   - Managing financial information
+   - Managing financial information.
    - Claims-related tasks, such as checking the status of a claim, or uploading any requested documentation.
    - Health-care related tasks such as communicating with a provider or refilling prescriptions. This can currently be done online through the health delegate program, but it appears this is not widely known among caregivers.
 
