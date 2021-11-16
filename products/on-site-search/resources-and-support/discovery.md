@@ -1,4 +1,4 @@
-# Resources and Support Article Pages
+# Discovery: Resources and Support Article Pages
 
 **Search & Discovery team | November 2021**
 
@@ -52,7 +52,7 @@ There are three types of content on VA.gov.
   - **Accordions** 
 
 
-Detailed analysis of each component on the R&S article page is available on the [component spreadsheet](https://governmentcio-my.sharepoint.com/:x:/g/personal/megan_gayle_gcio_com/EWcGoy_v3P1DoDDxvGp9siYBqa-wN9Fh6iUkmHYRF2voyg?e=bHPWw6) (<a href="https://user-images.githubusercontent.com/5553542/139923047-9b623905-619d-4b59-bfe3-d8cd7566a897.png">screenshot</a>).
+Detailed analysis of each component on the R&S article page is available on the [component spreadsheet](https://governmentcio.sharepoint.com/:x:/s/SearchDiscoveryTeam/EZ-iNcv0Ed5IpFwH-nXPPBABWYkKEtDodapIwhXzFSq9hw?e=e4YegI) (<a href="https://user-images.githubusercontent.com/5553542/139923047-9b623905-619d-4b59-bfe3-d8cd7566a897.png">screenshot</a>).
 
 
 ## Analytics
@@ -76,21 +76,21 @@ Google Analytics reports from Jan 1, 2021 – Sept 1, 2021
 
 ### Sign ins
 
-Google Analytics reports from Jan 1, 2021 – Oct 24, 2021
+Google Analytics reports from Jan 1, 2021 – Nov 1, 2021
 
-| <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22PT%22,%22Login%22,0%5D%5D/">Total Sign ins</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211001&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22%5Ewww.va.gov~2Fresources.*%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Login%22,0%5D%5D/">Sign ins from R&S</a> |
+| <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211101&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22PT%22,%22Login%22,0%5D%5D/">Total Sign ins</a> | <a href="https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20210101&_u.date01=20211101&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.secSegmentId=analytics.pagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22%5Ewww.va.gov~2Fresources.*%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Login%22,0%5D%5D/">Sign ins from R&S</a> |
 | --- | --- |
-| 170,009,999 Unique Events | 223,096 Unique Events | 
-| Percent of Total: 30.81% | Percent of Total: 0.04% | 
+| 191,168,688 Unique Events | 270,737 Unique Events | 
+| Percent of Total: 31.12% | Percent of Total: 0.04% | 
 
 <br>
 
 ### "Percent of Profile Events influenced by Resources and Support"
 
-DOMO Dashboard report from Jan 1, 2021 – Oct 24, 2021
+DOMO Dashboard report from Jan 1, 2021 – Nov 1, 2021
 
 This report pulls in a count of all GA events for Profile navigation and changes that occurred after a user came from R&S compared to all users with those events.
-<img width="970" alt="domo-profile" src="https://user-images.githubusercontent.com/5553542/138745586-ba29a162-c614-4031-886b-6aec87a6914a.png">
+<img width="1194" alt="Domo Dashboard screenshot" src="https://user-images.githubusercontent.com/5553542/142003453-aa21a340-1aaf-4f1c-8aa1-32059ebbcb3d.png">
 
 
 ## Mockups - Potential improvements
