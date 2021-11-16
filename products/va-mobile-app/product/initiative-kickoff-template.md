@@ -16,7 +16,7 @@ _Which of our [mobile objectives](https://github.com/department-of-veterans-affa
 
 ## What do we know about the feature already?
 - What are users saying about this feature on web?
-  - Check user research notes from VSA/VAOS teams
+  - Check user research notes from VFS teams
 - What does initial comparative analysis tell us?
 - What do the analytics tell us about current feature usage?
 - More about what problem we’re solving
