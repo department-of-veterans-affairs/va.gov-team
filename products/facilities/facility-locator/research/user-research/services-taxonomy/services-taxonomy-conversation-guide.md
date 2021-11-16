@@ -59,13 +59,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ### Task: card sort
 
-** **Send high priority services card sort first, then lower priority services** **
-
-[High priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5)
-
-[Low priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5-0)
-
-[Share your screen - open the first card sort to demonstrate the actions on your screen]
+[Share your screen - open the [demo card sort](https://bananacom.optimalworkshop.com/optimalsort/bananacom-demo-survey-open) to demonstrate the actions on your screen]
 
 - **Before I send this to you, I'll give you brief demonstration of how the card sort works**
   - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
@@ -75,6 +69,12 @@ Before we get to the tasks you are helping us with today, a few things I want to
 - **Are you comfortable performing these actions?**
   - [Yes]: Alright, I'm going to send you a link, and ask you to share your screen.
   - [No]: Alright, we can continue using my screen, while I explain it to you.
+
+** **Send high priority services card sort first, then lower priority services** **
+
+[High priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5)
+
+[Low priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5-0)
 
 ** **RUN CARD SORTS** **
 
