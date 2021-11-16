@@ -1,6 +1,6 @@
 # Product Outline: VA.gov Profile
 
-Last Updated November 2, 2021
+Last Updated November 16, 2021
 
 ### Communications
 - GitHub Label: Profile
@@ -203,6 +203,14 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 - [2018 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1/design)
 - [2020 Profile 2.0 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design)
+- Designs as of November 2021 (added Notification settings, separated Personal info + Contact info)
+  - Personal information (link coming soon)
+  - [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+  - [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+  - Direct deposit (link coming soon)
+  - [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
+  - [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
+  - [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
 
 ## Screenshots
 
