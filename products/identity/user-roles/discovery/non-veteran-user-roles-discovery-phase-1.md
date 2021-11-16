@@ -1,7 +1,5 @@
 # Non-Veteran User Roles Discovery, Phase 1
 
-`DRAFT`
-
 November 2, 2021
 
 Liz Lantz, VSA, Authenticated Experience

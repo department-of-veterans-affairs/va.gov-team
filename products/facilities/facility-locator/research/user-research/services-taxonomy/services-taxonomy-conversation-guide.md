@@ -1,6 +1,6 @@
-[PRE-REVIEW]
-
 # Services Taxonomy Conversation Guide
+
+[Reviewed by Lauren Alexanderson on 11/12/21]
 
 ## For note takers
 
@@ -17,7 +17,6 @@ Complete verbatim transcripts aren't necessarily needed for this study. Here's w
 - [ ] Notifications off
 - [ ] Turn off "Entry/Exit Chimes" (if applicable)
 - [ ] Turn off waiting room feature in Zoom
-- [ ] *[link to card sort / tree test]*
 
 ## Intro [5 minutes]
 
@@ -54,27 +53,33 @@ Before we get to the tasks you are helping us with today, a few things I want to
 - **In order to help us out today, you will need to share your screen - are you comfortable doing that today?**
   - [Yes]: Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
   - [No]: Ok no problem, I can share my screen with you then, and walk you through our task myself.
-  - [Work out any technical difficulties - worst case, run tasks on my screen while explaining]
+  - [Work out any technical difficulties - worst case, run card sorts on my screen while explaining]
 
 ## Usability tasks [~ 40 minutes]
 
 ### Task: card sort
 
-** **Share high priority services card sort first, then lower priority services** **
-
-- **First, I'll explain how the card sort works**
-  - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
-  - On the right side of your screen, are different ways to categorize those services.
-  - You can drag items from the list of services on the left, into any category you choose, on the right.
-  - You can create new categories by dragging a service into an empty space.
-
-** **RUN CARD SORT** **
+** **Send high priority services card sort first, then lower priority services** **
 
 [High priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5)
 
 [Low priority services card sort](https://adhoc.optimalworkshop.com/optimalsort/fq1733b5-0)
 
+[Share your screen - open the first card sort to demonstrate the actions on your screen]
+
+- **Before I send this to you, I'll give you brief demonstration of how the card sort works**
+  - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
+  - On the right side of your screen, are different ways to categorize those services.
+  - You can drag items from the list of services on the left, into any category you choose, on the right.
+  - You can create new categories by dragging a service into an empty space.
+- **Are you comfortable performing these actions?**
+  - [Yes]: Alright, I'm going to send you a link, and ask you to share your screen.
+  - [No]: Alright, we can continue using my screen, while I explain it to you.
+
+** **RUN CARD SORTS** **
+
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
+  - [Link to VHA services list](https://docs.google.com/spreadsheets/d/1rd7ms6umKBq71SaLH2wdaofEZLoA3F-U2wRBUgj6QNg/edit#gid=1899971175)
 - **[Moderator questions to keep in mind]**
   - Validate existing categories:
     - Does this category make sense?
@@ -82,6 +87,8 @@ Before we get to the tasks you are helping us with today, a few things I want to
   - If a service needs to be explained:
     - Does that description make sense?
     - Based on your experience, what is a better way to describe it?
+
+** **MAKE SURE PARTICIPANS CLICK "FINISH" TO CAPTURE DATA** **
 
 ## Closing [5 minutes]
 

@@ -2,8 +2,51 @@
 
 ### Cindy Merrill, VSA Public Websites team, Nov 12, 2021
 
+## CURRENT DESIGN PROPOSAL
 
-## Current Design
+All upcoming (default) |
+--- |
+Next week (from Dec 5)
+Next month (from Jan 1)
+Custom
+Past events
+
+Design notes:
+- *Need an "update filter" button to make the dropdown selection take effect*
+- *For the custom option, shouldn't need to click "update filter" twice--Josh should clarify*
+
+![image](https://user-images.githubusercontent.com/69914583/141523494-9a4608a4-435a-4ce7-b76d-9bf08033c66b.png)
+
+Design notes:
+- *Add instruction text: "Select the month and day when you want to see events"*
+- *The year isn't editable but displayed in static text based on the month selection*
+- *There will be a second set of optional month and date selectors; add labels for "Start date" and "End date"*
+- *Month and Day are required for Start date but optional for End date*
+
+![image](https://user-images.githubusercontent.com/69914583/141596571-fb0ab512-233b-4c85-aa25-1d6ab6971099.png)
+
+Design notes:
+- *The "filtered by" line should be below the dropdown*
+- *How to specify which date filter has been selected after the text "filtered by":*
+  - May 30, 2022 *(custom date)*
+  - July 1-5, 2022 *(custom date range)*
+  - All upcoming
+  - Next week from Dec 5
+  - Next month from Jan 1
+  - Past events
+
+
+PROS  | CONS
+------|------
+All options show different filtered event lists (resolves usability issue) | None?
+Simple non-numeric options 
+Provides ability to enter a custom date and date range per Dave's use cases |
+Disambiguates "next week" and "next month" with specific start dates | 
+
+<details>
+<summary>Previous design work on the date filter dropdown (Click to show)</summary> 
+
+## Previous Design
 We planned to usability test the following new dropdown for date filtering in Outreach & Events. 
 
 ![image](https://user-images.githubusercontent.com/69914583/141374307-5076a41d-8aca-46a2-822e-f6a742d12b91.png)
@@ -47,28 +90,9 @@ Could easily add "This weekend" as a third option, if desired
 - Avoid numbers in dropdown options (e.g., 1-10 days from now, 11-30 days from now) because too much cognitive load for users 
 - Want dropdown options to show different-looking event lists (i.e., not all starting with today's events, like All, Today, Next Week, Next Month) 
 
-## NEW DESIGN PROPOSAL
-
-All upcoming (default) |
---- |
-Next week (from Dec 5)
-Next month (from Jan 1)
-Custom
-Past events
-
-![image](https://user-images.githubusercontent.com/69914583/141523494-9a4608a4-435a-4ce7-b76d-9bf08033c66b.png)
-
-![image](https://user-images.githubusercontent.com/69914583/141596571-fb0ab512-233b-4c85-aa25-1d6ab6971099.png)
 
 
-PROS  | CONS
-------|------
-All options show different filtered event lists (resolves usability issue) | None?
-Simple non-numeric options 
-Provides ability to enter a custom date (day/month/year or month/year or year), per Dave's use case |
-Disambiguates "next week" and "next month" with specific start dates | 
-
-## Previous Ideas Generated
+## More Ideas Generated
 
 ![image](https://user-images.githubusercontent.com/69914583/141520026-f387c05d-d029-4715-8051-3b4fae5de3a8.png)
 
@@ -95,4 +119,4 @@ Below is some previous brainstorming with Josh Kim. Some designs have the same u
 
 ![image](https://user-images.githubusercontent.com/69914583/141500710-e1c91633-4b1a-4e90-8f28-d6095c7692ad.png)
 
-
+</details>

@@ -45,10 +45,10 @@ be behind a feature flag.
 
 - [Launch go/no go results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/product/notification-prefs-launch-go-no-go.md) -- Good to proceed
  
-### 1-week results:
+### 1-week results (at 100%):
 Dashboard results for week 1:
 
-### 1-month results:
+### 1-month results (at 100%):
 Dashboard results for month 1:
 
 ## Post-launch Questions 

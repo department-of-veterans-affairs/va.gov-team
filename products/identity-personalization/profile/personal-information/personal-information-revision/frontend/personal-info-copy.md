@@ -9,7 +9,7 @@ Last Updated 11/09/2021
 ## Personal Information Page - Read-Only State
 
 ### Page URL
-- http://www.va.gov/profile/contact-information/
+- https://www.va.gov/profile/personal-information
 
 ### Sketch Mockups
 - [Personal Information Page - Desktop Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)

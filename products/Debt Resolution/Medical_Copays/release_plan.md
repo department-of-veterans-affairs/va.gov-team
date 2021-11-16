@@ -6,7 +6,7 @@
 - Phase 1: UAT 
 - Phase 2: Staged Rollout (Stage A: 25%, Stage B 50%)
 - Phase 3: Go Live!
-- Phase 4: UAT Round 2 (Capturing use cases for veterans with more than one statement) *(TBD)*
+
 
 
 ## 🌀 Phase I:  User Acceptance Testing (UAT) - moderated production testing

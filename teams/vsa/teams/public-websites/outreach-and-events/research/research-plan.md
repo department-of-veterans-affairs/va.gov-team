@@ -16,7 +16,7 @@ This research supports the following [OCTO objectives](https://github.com/depart
 - Increase the quality and reliability of VA services
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Find VA events to attend throughout 
+Outreach & Events fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when Veterans find VA events to attend throughout 
 - Living civilian life 
 - Retiring and aging 
 
@@ -30,7 +30,7 @@ We will consider findings and recommendations from this research to refine our d
 
 ### Research questions
 1. How intuitive is our design for filtering by date range? 
-    1. What do Veterans expect to see as options for date range? 
+    1. What do Veterans think about the options for date range? 
 3. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
 4. How do Veterans expect to look for VA events?
@@ -39,8 +39,6 @@ We will consider findings and recommendations from this research to refine our d
 
 ### Hypotheses
 1. Veterans will understand how to use date filters to find events they are interested in
-    1. Veterans will be confused by similar looking event lists (i.e., with all of today's events) for multiple date filter dropdown options
-    1. Veterans won't expect to have to click a button to make their date filter dropdown selection take effect
 1. Filtering events by date will enable Veterans to find events that fit in their schedules
 1. Seeing which events are recurring will enable Veterans to register for all events they're interested in
 
@@ -48,28 +46,28 @@ We will consider findings and recommendations from this research to refine our d
 We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked about their experiences with VA events, and then they will be given tasks to do using a mobile design prototype in UXPin. 
 
 ### Future research plans
-We want to include some participants who use screen readers, but we will have to wait until we can build a "working prototype" on the Staging server. At that time, we plan to iterate this research with the following additions:
-- Research question: How accessible to screen reader users is the date range filter dropdown?
-- Research question: How accessible to screen reader users are recurring events?
-- Hypothesis: The designs will be accessible to Veterans who use screen readers
-- Primary recruiting criterion: At least 2 people who use a screen reader 
-- Observer: Angela Fowler will observe sessions with participants using a screen reader 
+*We want to include some participants who use screen readers, but we will have to wait until we can build a "working prototype" on the Staging server. At that time, we plan to iterate this research with the following additions:*
+- *Research question: How accessible to screen reader users is the date range filter dropdown?*
+- *Research question: How accessible to screen reader users are recurring events?*
+- *Hypothesis: The designs will be accessible to Veterans who use screen readers*
+- *Primary recruiting criterion: At least 2 people who use a screen reader*
+- *Observer: Angela Fowler will observe sessions with participants using a screen reader*
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
 - [Link to prototype](url goes here)
 
 
 ## Recruitment	
 
-Ask Perigean to recruit **14** Veterans in order to get **7** completed sessions using the criteria below.
+Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions using the criteria below.
 
 ### Primary criteria (must-haves)
 - All are Veterans
-- At least 3 people 55 or older
-- At least 4 people with a cognitive disability (e.g., TBI)
+- At least 2 people 55 or older
+- At least 3 people with a cognitive disability (e.g., TBI)
 - All have a smartphone and are willing to to join our Zoom call from their phone 
   - All have a working microphone on their phone 
   - All have the Zoom app downloaded to their phone prior to the session and know how to share their screen
@@ -78,7 +76,7 @@ Ask Perigean to recruit **14** Veterans in order to get **7** completed sessions
 *PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone**, not a computer or tablet?*
 
 ### Secondary criteria (nice-to-haves)
-- At least 2 people of color
+- At least 1 people of color
 - At least 1 woman
 - At least 1 person 35 or under
 - At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
@@ -91,9 +89,8 @@ Ask Perigean to recruit **14** Veterans in order to get **7** completed sessions
 
 ### Prepare
 
-Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Dave Sukharan (dave.sukharan@adhocteam.us)
-* Date and time of pilot session: Nov 19 and 22 at time TBD
+* Date and time of pilot session: Nov 19 or 22 at time TBD
 
 ### Research sessions
 Nov 29 - Dec 2, 2021 
@@ -106,7 +103,7 @@ Nov 29 - Dec 2, 2021
 Team Availability | Time (EST)
 ------------------|--------------
 Nov 29, 2021 | 1:30 - 3 pm, 4 - 8 pm
-Nov 30, 2021 | Noon - 3 pm, 4 - 8 pm
+Nov 30, 2021 | Noon - 3 pm, 6 - 8 pm
 Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
 Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
 	
@@ -115,6 +112,6 @@ Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Participant(s) for pilot test:	Dave Sukharan (dave.sukharan@adhocteam.us), TBD
+- Participant for pilot test:	Dave Sukharan (dave.sukharan@adhocteam.us)
 - Note-takers:	Perigean
 - Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com)

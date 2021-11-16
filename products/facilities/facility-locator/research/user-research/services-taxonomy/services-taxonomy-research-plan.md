@@ -1,6 +1,6 @@
-[PRE-REVIEW]
-
 # Research Plan - Non-Clinical Services Taxonomy
+
+[Reviewed by Lauren Alexanderson on 11/12/21]
 
 Research plan for [#31626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31626), and for non-clinical services taxonomy audit [#30839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30839).
 
@@ -142,9 +142,9 @@ Date | Time
 11/19/2021 | 11:00 AM - 12:00 PM & 2:00 PM - 3:00 PM
 11/22/2021 | 2:00 PM - 3:00 PM
 11/23/2021 | 11:00 AM - 12:00 PM & 3:00 PM - 4:00 PM
-11/24/2021 | 10:00 AM - 11:00 AM & 2:00 PM - 3:00 PM
-11/29/2021 | 2:00 PM - 3:00 PM
-11/30/2021 | 3:00 PM - 4:00 PM
+11/24/2021 | (CANCELLING) 10:00 AM - 11:00 AM & 2:00 PM - 3:00 PM
+11/29/2021 | 10:00 AM - 11:00 AM (PENDING) & 2:00 PM - 3:00 PM
+11/30/2021 | 0:00 AM - 11:00 AM (PENDING) & 3:00 PM - 4:00 PM
 12/1/2021 | 1:00 PM - 2:00 PM & 3:00 PM - 4:00 PM
 12/2/2021 | 1:00 PM - 2:00 PM & 3:00 PM - 4:00 PM
 
