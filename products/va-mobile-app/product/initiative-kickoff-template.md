@@ -7,7 +7,7 @@
 _What are we aiming to build?_
 
 ## Objective
-_Which of our mobile objectives will building this new feature help us achieve?_
+_Which of our [mobile objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Mobile-Roadmap.md) will building this new feature help us achieve?_
 - [ ]  Create a centralized experience that crosses organizational silos
 - [ ]  Facilitate more transparent and reliable updates and communications between VA and Veterans
 - [ ]  Allow Veterans to access their authenticated experience quickly and easily
