@@ -14,7 +14,7 @@
   - Synthesis
   - Readout 
   - Examples:
-    - [Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research)
+    - [Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research)
     - [VIC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/research) 
   
 2. The **designer** should create a research plan: Create a new .md research plan file. Answer questions on [new research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md). This will become the doc you use to track everything, but also the documentation that project teams, research and UX lead, leadership, et al, can use to find your research in the future. Add anything you need to add to make this document work for you. If your team creates research issues and/or epics, you can cross-reference your xxxresearchplan.md file in that as well. 
