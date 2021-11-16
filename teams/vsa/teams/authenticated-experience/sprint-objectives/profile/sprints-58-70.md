@@ -160,10 +160,6 @@ Onboard Christina to this work:
 - Pull in work for Erik and Taylor from the backlog
 - If Zach as availability pending Find a Form work, pull in tickets from backlog for him, too
 
-**BE**
-
-- Is there work for Lihan?
-
 ## Sprint 62 (12/1 - 12/14)
 
 ## Sprint 63 (12/15 - 12/28)
