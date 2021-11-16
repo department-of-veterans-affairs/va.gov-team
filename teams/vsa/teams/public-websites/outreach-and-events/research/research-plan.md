@@ -39,7 +39,6 @@ We will consider findings and recommendations from this research to refine our d
 
 ### Hypotheses
 1. Veterans will understand how to use date filters to find events they are interested in
-1. Veterans won't expect to have to click a button to make their date filter dropdown selection take effect
 1. Filtering events by date will enable Veterans to find events that fit in their schedules
 1. Seeing which events are recurring will enable Veterans to register for all events they're interested in
 
@@ -47,12 +46,12 @@ We will consider findings and recommendations from this research to refine our d
 We will conduct remote moderated usability research sessions via Zoom. Research participants will be asked about their experiences with VA events, and then they will be given tasks to do using a mobile design prototype in UXPin. 
 
 ### Future research plans
-We want to include some participants who use screen readers, but we will have to wait until we can build a "working prototype" on the Staging server. At that time, we plan to iterate this research with the following additions:
-- Research question: How accessible to screen reader users is the date range filter dropdown?
-- Research question: How accessible to screen reader users are recurring events?
-- Hypothesis: The designs will be accessible to Veterans who use screen readers
-- Primary recruiting criterion: At least 2 people who use a screen reader 
-- Observer: Angela Fowler will observe sessions with participants using a screen reader 
+*We want to include some participants who use screen readers, but we will have to wait until we can build a "working prototype" on the Staging server. At that time, we plan to iterate this research with the following additions:*
+- *Research question: How accessible to screen reader users is the date range filter dropdown?*
+- *Research question: How accessible to screen reader users are recurring events?*
+- *Hypothesis: The designs will be accessible to Veterans who use screen readers*
+- *Primary recruiting criterion: At least 2 people who use a screen reader*
+- *Observer: Angela Fowler will observe sessions with participants using a screen reader*
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
