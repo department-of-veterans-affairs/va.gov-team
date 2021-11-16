@@ -18,9 +18,9 @@ We conducted 30 minute semi-structured interviews over Zoom.
 
 ### Who we talked to
 
-We spoke to subject matter experts (SMEs) at the Veteran's Health Administration (VHA) and Veterans Benefits Administration; a specific list of individuals and areas of expertise is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/README.md).  
+We spoke to subject matter experts (SMEs) at the Veteran's Health Administration (VHA) and Veterans Benefits Administration; a specific list of individuals and areas of expertise is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/README.md).  
 
-We initially planned to learn about NCA user roles as well, but decided to hold off for now since NCA does not have digital products that intersect with VA.gov.
+We initially planned to learn about NCA user roles as well, but decided to hold off for the time being since NCA does not have digital products that intersect with VA.gov.
 
 ### Research Questions
 
