@@ -59,7 +59,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ### Task: card sort
 
-[Share your screen - open the [demo card sort](https://bananacom.optimalworkshop.com/optimalsort/bananacom-demo-survey-open) to demonstrate the actions on your screen]
+[Share your screen - open the [demo card sort](https://bananacom.optimalworkshop.com/optimalsort/bananacom-demo-survey-open/sort) to demonstrate the actions on your screen]
 
 - **Before I send this to you, I'll give you brief demonstration of how the card sort works**
   - On the left side of your screen, there is a list of some of the services that are offered at VAMC facilities.
