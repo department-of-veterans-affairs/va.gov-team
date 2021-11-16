@@ -2,6 +2,8 @@
 
 ## InVision Mockups
 
+**Note**: these mock-ups are out of date as of November 2021
+
 - [Desktop](https://vsateams.invisionapp.com/share/SH10HT8JCKYM#/screens)
 - [Mobile](https://vsateams.invisionapp.com/share/GC10HT8RSMQN#/screens)
 
