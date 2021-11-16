@@ -66,9 +66,9 @@ Before we get to the tasks you are helping us with today, a few things I want to
   - On the right side of your screen, are different ways to categorize those services.
   - You can drag items from the list of services on the left, into any category you choose, on the right.
   - You can create new categories by dragging a service into an empty space.
-- **Are you comfortable performing these actions?**
-  - [Yes]: Alright, I'm going to send you a link, and ask you to share your screen.
-  - [No]: Alright, we can continue using my screen, while I explain it to you.
+- **Would you prefer to sort these yourself, or would you prefer me to perform the sort, while you tell me what to do?**
+  - [Participant wants to perform the actions]: Alright, I'm going to send you a link, and ask you to share your screen.
+  - [Host should perform the actions]: Alright, we can continue using my screen, while I explain it to you.
 
 ** **Send high priority services card sort first, then lower priority services** **
 
@@ -78,6 +78,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ** **RUN CARD SORTS** **
 
+- **If you need an explanation for any services, or categories, please let me know**
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
   - [Link to VHA services list](https://docs.google.com/spreadsheets/d/1rd7ms6umKBq71SaLH2wdaofEZLoA3F-U2wRBUgj6QNg/edit#gid=1899971175)
 - **[Moderator questions to keep in mind]**
