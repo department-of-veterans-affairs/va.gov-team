@@ -109,7 +109,7 @@ Please take a look at this page and tell me your impressions of what you see. Do
 
 What do you think you can do from this page?
 
-- *RECORD any reactions to location info shown*
+- *Record any reactions to location info shown*
 
   
 ### Task 2: [Filter by Date--One-time event] - 5 minutes
@@ -118,7 +118,7 @@ I'd like you to see if there are any VA events coming up soon that could help yo
 *(When see dropdown date options)* What are your thoughts on those options?
 
 Can you tell me what you think each of them would do? 
-- *RECORD any feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
+- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
 - What does *Custom* mean to you? 
 - How would you expect to use it?
@@ -126,42 +126,42 @@ Can you tell me what you think each of them would do?
 
 Now you can go ahead and look for events that could help you find a new job.
 
-- *RECORD which option they selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Custom / Past events*
+- *Which option they selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Custom / Past events*
 
-- *RECORD did they click the "filter events" button? Y / N*
+- *Did they click the "filter events" button? Y / N*
 
 *(When see event detail page)* What are your impressions of what you see here?
 
-- *RECORD did they find the Virtual Career Expo? Y / N*
+- *Did they find the Virtual Career Expo? Y / N*
 
 If you wanted to go to this event, what would you do? *(Register button / ______________)*
 
 Can you please go back to the previous page? *[Event detail]* Is there anything else that you would do on this page?
 
-- *RECORD: Add to Calendar / Share on FB / Twitter / ______________*
+- *Add to Calendar / Share on FB / Twitter / ______________*
 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
 Let's say that you've decided that you want to try yoga in January. Can you find any yoga classes to sign up for?
 
-- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
-- *RECORD any feedback on date filter options: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1)** / Custom / Past events*
+- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1)** / Custom / Past events*
 
-- *RECORD which option they selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
+- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
-- *RECORD did they click the "filter events" button? Y / N*
+- *Did they click the "filter events" button? Y / N*
 
 *(When see event detail page w/recurring event)* Can you tell me about what you see here?
 
 - *Understand that there are multiple occurrences of this event? Yes / No / Unknown*
 
-- *RECORD any feedback on "View 12 more occurrences accordion":* 
+- *Feedback on "View 12 more occurrences accordion":* 
 
 I'd like you to sign up for 2 yoga classes in 2022.
 
-- *RECORD any feedback on "View more":* 
+- *Feedback on "View more" button:* 
 
-- *RECORD any feedback on scrolling the growing list of occurrences:* 
+- *Feedback on scrolling the growing list of occurrences:* 
 - How many do you want to see in this list?
 
 - *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
@@ -170,43 +170,43 @@ I'd like you to sign up for 2 yoga classes in 2022.
 
 Now I'd like you to see if there are any VA activities on Memorial Day next year, which is May 30. 
 
-- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
-- *RECORD which option they selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
+- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
 
 Before you do anything, what do you think you can do on this page?
 
 Now you can go ahead and do it. *(select month and day)*
 
-- *RECORD did they click the "filter events" button? Y / N*
+- *Did they click the "filter events" button? Y / N*
 
-- *RECORD did they find the 2 Memorial Day events? Y / N*
+- *Did they find the 2 Memorial Day events? Y / N*
 
 ### Task 5: [Filter by Date--Custom date range] - 5 minutes
 
 I'd like you to imagine that you're planning a trip to New Orleans next summer, and you want to see if there are any Independence Day events that you could attend while you're there. You'll be there July 1-5.
 
-- *RECORD how got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
-- *RECORD which option they selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
+- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
 
 - *(select month and day for both July 1 start date and July 5 end date)*
 
-- *RECORD did they click the "filter events" button? Y / N*
+- *Clicked the "filter events" button? Y / N*
 
-- *RECORD did they find the 3 Independence Day events? Y / N*
+- *Found the 3 Independence Day events? Y / N*
 
 ### Task 6: [Events list & location] - 5 minutes
 
 Can you please go back to the page that shows a list of events? *[Event detail]* Is there anything else that you would do on this page?
-- *RECORD: Add to Calendar / Share on FB / Twitter / ______________*
+- *Add to Calendar / Share on FB / Twitter / ______________*
 
 Can you go please back to the previous page? *[Events list]*? 
 
 *(If didn't talk about location info earlier)* How do you know *where* these events are taking place? 
 
 For in-person events, what location information would be useful for you? 
-- *RECORD city / state / street address / zip / name of VA facility / ____________*
+- *city / state / street address / zip / name of VA facility / ____________*
 
 
 ## (if time) Post-Task Interview - 5 minutes
