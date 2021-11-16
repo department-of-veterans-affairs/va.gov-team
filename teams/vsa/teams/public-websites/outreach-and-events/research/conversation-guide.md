@@ -85,7 +85,7 @@ Let’s start with a few questions...
 	- How did you sign up for it?
 - If you wanted to attend a VA sponsored event, how would you find it?
 - If you saw a list of events, how would you try to find the one you're looking for? 
-  - *RECORD: how they want to search/filter*
+  - *How do they want to search/filter?*
 
 ## Screen sharing
 I'm going to share with you a demo tool that may not function the way you expect. Some parts of the screen will work, and some will not. 
@@ -109,24 +109,25 @@ Please take a look at this page and tell me your impressions of what you see. Do
 
 What do you think you can do from this page?
 
-- *Record any reactions to location info shown*
+- *Note any reactions to location info shown*
 
   
 ### Task 2: [Filter by Date--One-time event] - 5 minutes
 I'd like you to see if there are any VA events coming up soon that could help you look for a new job.
 
-*(When see dropdown date options)* What are your thoughts on those options?
+*(When see dropdown date filter options)* Could you stop for a minute? What are your thoughts on those options?
 
-Can you tell me what you think each of them would do? 
+Without trying any of them, could you tell me what you think each of them would do? 
+
 - *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
 - What does *Custom* mean to you? 
-- How would you expect to use it?
-  - *(when might they use it? record specific use cases with context)*
+  - How would you expect to use it?
+  - *(probe: when might they use it? record specific use cases with context)*
 
 Now you can go ahead and look for events that could help you find a new job.
 
-- *Which option they selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Custom / Past events*
+- *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Custom / Past events*
 
 - *Did they click the "filter events" button? Y / N*
 
@@ -134,20 +135,20 @@ Now you can go ahead and look for events that could help you find a new job.
 
 - *Did they find the Virtual Career Expo? Y / N*
 
-If you wanted to go to this event, what would you do? *(Register button / ______________)*
+If you wanted to attend this event, what would you do? *(Register button / ______________)*
 
-Can you please go back to the previous page? *[Event detail]* Is there anything else that you would do on this page?
+Can you please go back to the previous page? *[Event detail]* 
+
+Is there anything else that you would do on this page?
 
 - *Add to Calendar / Share on FB / Twitter / ______________*
 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
-Let's say that you've decided that you want to try yoga in January. Can you find any yoga classes to sign up for?
+Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up for in January?
 
 - *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
-- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1)** / Custom / Past events*
-
-- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
+- *Option selected: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1**) / Custom / Past events*
 
 - *Did they click the "filter events" button? Y / N*
 
@@ -176,11 +177,13 @@ Now I'd like you to see if there are any VA activities on Memorial Day next year
 
 Before you do anything, what do you think you can do on this page?
 
-Now you can go ahead and do it. *(select month and day)*
+Now you can go ahead and do it. 
 
-- *Did they click the "filter events" button? Y / N*
+- *(select month and day)*
 
-- *Did they find the 2 Memorial Day events? Y / N*
+- *Clicked the "filter events" button? Y / N*
+
+- *Found the 2 Memorial Day events? Y / N*
 
 ### Task 5: [Filter by Date--Custom date range] - 5 minutes
 
@@ -190,18 +193,15 @@ I'd like you to imagine that you're planning a trip to New Orleans next summer, 
 
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
 
-- *(select month and day for both July 1 start date and July 5 end date)*
+- *(select month and day for July 1 start date and July 5 end date)*
 
 - *Clicked the "filter events" button? Y / N*
 
-- *Found the 3 Independence Day events? Y / N*
+- *Found the 3 Independence Day events, including 1 in New Orleans? Y / N*
 
-### Task 6: [Events list & location] - 5 minutes
+### Task 6: [Event list & location] - 5 minutes
 
-Can you please go back to the page that shows a list of events? *[Event detail]* Is there anything else that you would do on this page?
-- *Add to Calendar / Share on FB / Twitter / ______________*
-
-Can you go please back to the previous page? *[Events list]*? 
+Can you please go back to the page that shows a list of events?  
 
 *(If didn't talk about location info earlier)* How do you know *where* these events are taking place? 
 
