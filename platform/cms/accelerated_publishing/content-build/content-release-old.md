@@ -1,3 +1,5 @@
+**_This page documented the content releaes process for Jenkins and is deprecated as the build as moved to GitHubActions._**
+
 # Content Release
 A _Content Release_ describes the entire process behind refreshing content on the website to reflect the content as stored in the CMS. The process begins after a CMS editor manually initiates it through a control in the CMS, when an engineer initiates it through a specific Jenkins job, or after being initiated automatically by a scheduled job. The process is complete once content on the website is visibly up-to-date with that in the CMS.
 
