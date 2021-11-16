@@ -34,8 +34,7 @@ _Which of our [mobile objectives](https://github.com/department-of-veterans-affa
 - Do we need to implement new events or metrics?
 
 ## Launch Planning
-- Timeline and targeted launch dates
-  - any drop dead dates from VA?
+- Any drop dead dates from VA?
 - Which stakeholders will need to be kept in the loop?
 - Will contact center documentation need to be updated?
 
@@ -58,3 +57,5 @@ _Which of our [mobile objectives](https://github.com/department-of-veterans-affa
 ## Project Plan - Phases of work
 - What sequence and pace of work will this initiative take (epic level)?
 - Add epics and user stories to the backlog
+- What release(s) are we targeting?
+
