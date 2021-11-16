@@ -16,7 +16,7 @@ This research supports the following [OCTO objectives](https://github.com/depart
 - Increase the quality and reliability of VA services
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Find VA events to attend throughout 
+Outreach & Events fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when Veterans find VA events to attend throughout 
 - Living civilian life 
 - Retiring and aging 
 
@@ -30,7 +30,7 @@ We will consider findings and recommendations from this research to refine our d
 
 ### Research questions
 1. How intuitive is our design for filtering by date range? 
-    1. What do Veterans expect to see as options for date range? 
+    1. What do Veterans think about the options for date range? 
 3. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
 4. How do Veterans expect to look for VA events?
@@ -89,7 +89,6 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 
 ### Prepare
 
-Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Dave Sukharan (dave.sukharan@adhocteam.us)
 * Date and time of pilot session: Nov 19 or 22 at time TBD
 
