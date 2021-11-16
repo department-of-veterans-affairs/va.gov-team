@@ -46,11 +46,7 @@ _Which of our mobile objectives will building this new feature help us achieve?_
 
 -------
 
-# Requirements & Scope
-
-
-## Project Plan - Phases of work
-- What sequence and pace of work will this initiative take (epic level)?
+# Next Steps - Determine Requirements & Scope
 
 ## Determine MVP feature set
 - What are the product requirements (ready to hand off to UX)
@@ -58,3 +54,7 @@ _Which of our mobile objectives will building this new feature help us achieve?_
   - BE discovery
   - Review of existing state and user research
 
+
+## Project Plan - Phases of work
+- What sequence and pace of work will this initiative take (epic level)?
+- Add epics and user stories to the backlog
