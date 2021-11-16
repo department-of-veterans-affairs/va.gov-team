@@ -84,7 +84,8 @@ Let’s start with a few questions...
 	- How did you hear about it? 
 	- How did you sign up for it?
 - If you wanted to attend a VA sponsored event, how would you find it?
-- If you saw a list of events, how would you try to find the one you're looking for? 
+- What would you want to know about an event in order to decide if you're interested in going? 
+  - *(if they're not sure what I mean, say:)* For example, the time of the event, the location, etc.
   - *How do they want to search/filter?*
 
 ## Screen sharing
