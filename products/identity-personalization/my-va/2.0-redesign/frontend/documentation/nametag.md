@@ -28,7 +28,7 @@
 
 [Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
-![Name tag with disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Name%20tag%20with%20disability%20rating.jpg)
+![Name tag with disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/name-tag-disability-rating.png)
 
 **State 2: User does not have a disability rating**
 
@@ -36,7 +36,7 @@
 
 [Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
-![Name tag without disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Name%20tag%20without%20disability%20rating.jpg)
+![Name tag without disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/name-tag-no-disability-rating.png)
 
 **Error state: We can not connect to the disability endpoint**
 
@@ -46,4 +46,4 @@ In the event the disability endpoint is down, we can degrade gracefully and show
 
 [Copy documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/my-va-copy.md)
 
-![Name tag with disability rating_error state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Name%20tag%20with%20disability%20rating_error%20state.jpg)
+![Name tag with disability rating_error state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/name-tag-error-state.png)
