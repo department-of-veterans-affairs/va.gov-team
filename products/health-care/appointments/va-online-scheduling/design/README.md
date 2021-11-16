@@ -34,7 +34,7 @@ Current state documentation of the appointments list:
 ## User flows
 
 
-![Flows](VAOS-User-Flows.png)
+![Flows](images/VAOS-User-Flows.png)
 
 
 <details>
