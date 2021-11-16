@@ -78,7 +78,6 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ** **RUN CARD SORTS** **
 
-- 
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
   - [Link to VHA services list](https://docs.google.com/spreadsheets/d/1rd7ms6umKBq71SaLH2wdaofEZLoA3F-U2wRBUgj6QNg/edit#gid=1899971175)
 - **[Moderator questions to keep in mind]**
@@ -95,8 +94,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ### Post-research follow-up questions
 
-- Do these categories make sense to you?
-- Are there any additional categories you can think of that may be helpful to you?
+- Is there anything else that you would like to point out, having gone through these exercises?
 - Could we describe any of these services or categories more clearly?
 
 ### Thank you and closing
