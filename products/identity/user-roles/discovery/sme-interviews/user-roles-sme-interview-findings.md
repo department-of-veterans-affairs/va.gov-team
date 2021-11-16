@@ -6,8 +6,6 @@
 
 Liz Lantz (liz.lantz@adhocteam.us), 11/16/2021
 
-View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md).
-
 ## Research Goals
 
 1. Understand the unique definitions and nuances each administration has for non-Veterans.
@@ -159,7 +157,7 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
 ## Resources
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md)
-- [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/user-roles/discovery/sme-interviews/conversation-guides)
-- [Notes from sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/user-roles/discovery/sme-interviews/session-notes)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md)
+- [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/conversation-guides)
+- [Notes from sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/session-notes)
 
