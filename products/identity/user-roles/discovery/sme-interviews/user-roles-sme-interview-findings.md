@@ -4,7 +4,7 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**
 
-Liz Lantz (liz.lantz@adhocteam.us), 11/15/2021
+Liz Lantz (liz.lantz@adhocteam.us), 11/16/2021
 
 View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md).
 
@@ -20,7 +20,7 @@ We conducted 30 minute semi-structured interviews over Zoom.
 
 ### Who we talked to
 
-We spoke to subject matter experts (SMEs) at the Veterans Health Administration (VHA) and Veterans Benefits Administration; a specific list of individuals and areas of expertise is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/README.md).  
+We spoke to subject matter experts (SMEs) at the Veteran's Health Administration (VHA) and Veterans Benefits Administration; a specific list of individuals and areas of expertise is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/README.md).  
 
 We initially planned to learn about NCA user roles as well, but decided to hold off for now since NCA does not have digital products that intersect with VA.gov.
 
@@ -28,7 +28,7 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
 1. What non-Veteran user roles does each administration serve?
 2. What qualifies a person as a dependent or a beneficiary? How are those roles different?
-3. What is the difference between CVSOs, VSOs, and claim agents, according to each administration?
+3. What is the difference between POAs, CVSOs, VSOs, and claim agents, according to each administration?
 4. What qualifies a person as a caregiver?
 5. What are the tasks that each user type may need to do?
 
@@ -52,7 +52,7 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
    - Once a person is actively receiving a benefit, the tasks they would need to do on VA.gov are the same regardless of if they are a Veteran or a non-Veteran. For example, a non-Veteran beneficiary receiving education benefits should be able to update their direct deposit information or view payment history the same way a Veteran would.
    - A beneficiary isn't always a dependent. For example, a caregiver can be a beneficiary but wouldn't necessarily be a dependent of the Veteran.
 
-3. The **caregiver** role has different definitions between VHA and VBA; in both cases, the caregiver's goal is to reduce the burden on the Veteran and help them receive and manage the benefits they've earned from VA.
+3. A Veteran's **caregiver** is a person who provides support to the Veteran; they could be individuals who are officially recognized by the VA, self-identified individuals, or professional caregivers.
 
    3.1 VHA officially recognizes caregivers through the VA Comprehensive Assistance for Family Caregivers Program. There is [specific criteria for this program clearly defined on VA.gov](https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/), which includes the fact that the Veteran must be enrolled in VA healthcare, and have a service-connected illness, injury, or disability. 
 
@@ -65,19 +65,17 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
    - The VA Online Health Delegate program (see finding 4) would give a caregiver access to some Veteran health tasks.
    - A caregiver could apply to be a Veteran's fiduciary to manage financial tasks.
 
-   3.3 A Veteran would benefit from their caregiver - VA recognized or not - being able to do things on VA.gov on their behalf in the same way the Veteran would they were able to care for themselves. Examples include:
+   3.3 Veterans may have professional caregivers who provide a level of service ranging from a weekly home visit to live-in care at a nursing home. When these caregivers are provided by the VA, they can have varying levels of access to the Veteran's information based on the Veteran's need and type of care provided.
+
+   3.4 Depending on the level of care they need, a Veteran could benefit from their caregiver - VA recognized or not - being able to do things on VA.gov on their behalf in the same way the Veteran would they were able to care for themselves. Some Veterans only need physical care for specific tasks (e.g. bathing) while other Veterans are not able to manage daily life.
+
+   Examples include:
 
    - Managing financial information
    - Claims-related tasks, such as checking the status of a claim, or uploading any requested documentation.
    - Health-care related tasks such as communicating with a provider or refilling prescriptions. This can currently be done online through the health delegate program, but it appears this is not widely known among caregivers.
 
-   3.4 Secure messaging is currently one of the biggest painpoints for caregivers, since the caregiver can't communicate as themselves (unless they are an official delegate), and can't easily communicate without necessarily including the Veteran. 
-
-   **Outstanding questions**
-
-   - How about nursing homes and other professional caregivers?
-   - How would a self-identified caregiver help a Veteran with non-Health care tasks (filing an appeal) 
-   - Is a Veteran ever managing things for themselves when they have a caregiver?
+   3.5 Secure messaging is currently one of the biggest painpoints for caregivers, since the caregiver can't communicate as themselves (unless they are an official delegate), and can't easily communicate without necessarily including the Veteran. 
 
 4. A **delegate** role exists in VHA to refer to people who have been assigned delegate authority per the request of a Veteran through the VA online health delegation program.
 
@@ -164,3 +162,4 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md)
 - [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/user-roles/discovery/sme-interviews/conversation-guides)
 - [Notes from sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/user-roles/discovery/sme-interviews/session-notes)
+
