@@ -118,7 +118,7 @@ I'd like you to see if there are any VA events coming up soon that could help yo
 *(When see dropdown date options)* What are your thoughts on those options?
 
 Can you tell me what you think each of them would do? 
-- *RECORD any feedback on date filter options: All upcoming** / **Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
+- *RECORD any feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
 
 - What does *Custom* mean to you? 
 - How would you expect to use it?
@@ -126,7 +126,7 @@ Can you tell me what you think each of them would do?
 
 Now you can go ahead and look for events that could help you find a new job.
 
-- *RECORD which option they selected: **All upcoming / Next week (from Dec 5) **/ Next month (from Jan 1) / Custom / Past events*
+- *RECORD which option they selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Custom / Past events*
 
 - *RECORD did they click the "filter events" button? Y / N*
 
