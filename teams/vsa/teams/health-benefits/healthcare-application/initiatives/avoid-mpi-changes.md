@@ -35,9 +35,12 @@ Potential data at risk include: name, ssn, dob.
 
 - **Value Risks** (will people use it): 
   - What's the history of why these fields are editable? 
-  - Is the data accurate to begin with? In research, we've found e.g. new Veterans have inaccurate data and they may use the opportunity to fix. 
-  - What's the volume of changes to these fields? Unclear. MPI team found 2 instances. 
-  - Are there other detours for someone to bypass "locked" fields? No, they can't use e.g. the unauthenticated route. 
+  - Is the data accurate to begin with? 
+    - In research, we've found e.g. new Veterans have inaccurate data and they may use the opportunity to fix. 
+  - What's the volume of changes to these fields? 
+    - Unclear. MPI team found 2 instances. 
+  - Are there other detours for someone to bypass "locked" fields? 
+    - No, they can't use e.g. the unauthenticated route. 
   - What happens to submission numbers if we prevent editing? 
   - What is the recourse for incorrect data (assuming turning off editing)? 
     - https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/
