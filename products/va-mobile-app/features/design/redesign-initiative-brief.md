@@ -25,17 +25,20 @@ Created 10/6/2021 • Updated 11/15/2021
 
 ## Redesign Process
 - Phase 0: Dark Mode Implementation & Iteration
-- Phase 1: Determining Direction for Personalization, IA, Search
+- Phase 1: Developing Options for Personalization, IA, Search
     - Personalization, Search: Initial brainstorming with team
     - Personalization: Create low-fi UX options and feasibility/scope recommendation
     - IA: Unmoderated tree-structure research and feasibility/scope recommendation
     - Search: options analysis and feasibility/scope recommendation
     - Determine direction(s) to test for Personalization, IA, and Search
-- Phase 2+: Validation, Design, and Build
+- Phase 2: Determining DirectionValidation, Design, and Build
     - User testing for Personalization, Search & IA
+    - Select best option for new personalized pages, search, and iA
+- Phase 3: High-fi design & build
     - Initial Design & Build
     - Refine, Build, Test
     - Usability testing
+    - Release
 
 ## Measures of Success
 - Primary: Veteran adoption, trust 
