@@ -52,6 +52,7 @@ Process:
    - Other Content updates - UX team in partnership with PM will be responsible for completing this task
       - App Store Images added to repo if applicable (Product obtain details from UX and upload to the repo)
       - App Store content update details added to repo if applicable (Product obtain details from UX and upload to the repo)
+      - Update images for the VA app store (where is this done? and when should it be done by?)
    - PR opened for review - completed by engineering team
    - Severe Bugs: added automatically by BOT; Includes open sev 1/sev 2 bugs.  
        - PM should coordinate with QA & engineering to update the notes with the current status of the bug (what's blocking, when will the issue be prioritized,              etc)
