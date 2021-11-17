@@ -6,8 +6,8 @@
 
 |Project|Status|
 |----|----|
-|Alerts MVP| Post-design discovery planning; Technical discovery |
-|Add education section to My VA | Initial discussions & planning |
+|Alerts MVP| On pause |
+|Add payments & financials section to My VA | Initial discussions & planning |
 
 ### Projected timelines for current projects
 
@@ -24,7 +24,12 @@
 |[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
-## Potential future projects & feature requests from other teams
+## Priorities
+
+1. Elevate action items on My VA (Note: An action item is something a veteran needs to do while on VA.gov to apply for/track/manage benefits)
+2. Show benefit status by continuing to integrate health/benefit information into My VA in a curated way
+
+## Requests from other teams
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
@@ -32,3 +37,5 @@
 |Debt notifications| Leah Keeler/Benefits & Memorials team|3.1.21| The debt team would like to elevate debt-related notifications on the My VA dashboard. However, the My VA notification is not a dependency for this team's launch. They are able to continue develoment on their tool while we finish the My VA 2.0 design. [Slack convo](https://dsva.slack.com/archives/C909ZG2BB/p1614612187092100)|
 |My VA 2.0 — Next round of features | Auth exp | N/A | Based on [discovery work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#veterans-care-about-anything-they-have-in-flight-whether-that-is-education-or-other-benefits), [initial usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md#features-users-expected-to-see-that-were-missing), and Tressa's recent ["mini usability" study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/MyVA-mini-usability/My%20VA-mini-usability-findings.md), we know that people expect to see information on all of their benefits on the My VA dashboard, not just disability and health care. This is especially true for people who don't have disability or health care, making the new My VA 2.0 pretty useless. We should do some discovery into what other benefit information we can add to the My VA dashboard that would more holistically reflect people's VA status. Top contenders that people keep mentioning are education and payment history |
 |Check-in Experience| Ming Ligh | 5.24.21 | Ming said the following via DM in Slack: "When you are ready to include any pre-appointment task on MyVA, the Check In Experience team would probably like to talk you about it. We have not done any discovery in this areas so would be great to combine efforts. Patrick Bateman is working on Check In Experience. Thanks for reaching out. I don't think there has been any duplicate efforts yet." It sounds like we first need to confirm the assumptions that VA.gov/My VA is the place for pre-appointment tasks or would be involved in the check-in experience in the first place. We'll likely be able to assess this better once the check-in experience team is further along with their work.|
+|Updates related to unauth homepage updates | Dave Conlon | Nov 2021 | We know this work is coming down the pipeline, we just don't know exactly when or what will be needed from us. |
+|Updates related to health apartment | Tracey Mulrooney | Nov 2021 |  We know this work is coming down the pipeline, we just don't know exactly when or what will be needed from us. |
