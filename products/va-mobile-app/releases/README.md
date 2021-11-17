@@ -21,13 +21,21 @@
 
 **Check In Meeting:**
 
-When: 2 weeks prior to the release
+When: 2 weeks prior to the release (timing when BOT auto generates release sign off ticket)
 
-Attendees:  TBD
+Objective: 
+ - Identify any open risks
+ - Remove blockers
+ - Confirm all artifacts needed are in place
+ - Are we on track to sign off
+
+Attendees:  QA, PM, Engineering, tbd
 
 **Complete Sign Off Ticket:**  
 
 When: Monday or Tuesday, the week before the next release is submitted to stores
+
+
 
 Who: 1 Delivery PM, 1 designated UX person, 1 QA, VA PO
 
