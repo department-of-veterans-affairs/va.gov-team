@@ -49,7 +49,7 @@ In this phase, our research team will be doing usability and UAT the phase 1 MVP
 If you disagree with VA’s decision, you can request to have a senior reviewer take a new look at your case. The reviewer will determine whether the decision can be changed based on a difference of opinion or an error.
 
 1. Can I request a Notice of Disagreement?
-  - You can request a Notice of Disagreement of an initial claim, Higher Level Review, legacy appeal [Luke check this 100%], or a Supplemental Claim decision. 
+  - You can request a Notice of Disagreement of an initial claim, Higher Level Review, legacy appeal, or a Supplemental Claim decision. 
   - This option isn’t available after a previous Notice of Disagreement or Board Appeal on the same claim. It’s also not available if you have a contested claim (this is rare).
 2. Note:
   - You can’t submit any evidence.
