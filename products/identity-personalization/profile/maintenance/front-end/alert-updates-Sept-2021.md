@@ -56,11 +56,11 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > [heading] **Verify your identity to access your complete profile**. 
+  > [heading] **Verify your identity to access your complete profile** 
   >
   > [body] First, we need to make sure you’re you—and not someone pretending to be you. Then, we can give you access to your personal and health information. We do this to help keep your information safe from fraud and identity theft. 
   >
-  > **This one-time process takes about 5-10 minutes**.
+  > **This one-time process takes about 5 to 10 minutes**.
   >
   > [action link] Verify your identity
 
