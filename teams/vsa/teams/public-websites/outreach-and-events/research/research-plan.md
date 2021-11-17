@@ -67,7 +67,7 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ### Primary criteria (must-haves)
 - All are Veterans
 - At least 2 people 55 or older
-- At least 3 people with a cognitive disability (e.g., TBI)
+- At least 2 people with a cognitive disability (e.g., TBI)
 - All have a smartphone and are willing to to join our Zoom call from their phone 
   - All have a working microphone on their phone 
   - All have the Zoom app downloaded to their phone prior to the session and know how to share their screen
@@ -90,10 +90,10 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ### Prepare
 
 * Pilot participant email: Dave Sukharan (dave.sukharan@adhocteam.us)
-* Date and time of pilot session: Nov 19 or 22 at time TBD
+* Date and time of pilot session: Nov 29 or 30 at time TBD
 
 ### Research sessions
-Nov 29 - Dec 2, 2021 
+Dec 1 - Dec 6, 2021 
 
 ### Length of sessions
 **60-minute sessions** with at least **30-minute breaks** in between
@@ -102,10 +102,9 @@ Nov 29 - Dec 2, 2021
 
 Team Availability | Time (EST)
 ------------------|--------------
-Nov 29, 2021 | 1:30 - 3 pm, 4 - 8 pm
-Nov 30, 2021 | Noon - 3 pm, 4 - 8 pm
 Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
 Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
+Dec 6, 2021 | Noon - 3 pm, 4 - 8 pm
 	
 ## Team Roles	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
