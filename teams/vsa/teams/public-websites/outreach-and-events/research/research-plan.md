@@ -31,6 +31,7 @@ We will consider findings and recommendations from this research to refine our d
 ### Research questions
 1. How intuitive is our design for filtering by date range? 
     1. What do Veterans think about the options for date range? 
+    2. What do Veterans think about filtering by a specific date and a date range?
 3. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
 4. How do Veterans expect to look for VA events?
