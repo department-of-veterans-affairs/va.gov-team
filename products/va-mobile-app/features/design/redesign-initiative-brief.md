@@ -32,10 +32,10 @@ Created 10/6/2021 • Updated 11/15/2021
     - IA: Unmoderated tree-structure research and feasibility/scope recommendation
     - Search: options analysis and feasibility/scope recommendation
     - Determine direction(s) to test for Personalization, IA, and Search
-- Phase 2: Determining DirectionValidation, Design, and Build
+- Phase 2: Validation & Determining Direction
     - User testing for Personalization, Search & IA
     - Select best option for new personalized pages, search, and iA
-- Phase 3: High-fi design & build
+- Phase 3: Design & Build
     - Initial Design & Build
     - Refine, Build, Test
     - Usability testing
