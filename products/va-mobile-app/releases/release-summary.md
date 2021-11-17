@@ -5,7 +5,7 @@
 New + Improved
  - VA vaccine record history can now be viewed on the app
  - Customers can now receive push notification reminders for upcoming appointments
- - COVID IA updates made to help users distinquish between passive COVID content and personal COVID vaccine details
+ - COVID IA updates made to help users distinguish between passive COVID content and personal COVID vaccine details
  - Added confirmation messaging when removing attachments from secure messages
 
 Bug Fixes:
