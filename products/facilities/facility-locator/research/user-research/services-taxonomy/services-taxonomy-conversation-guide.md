@@ -10,9 +10,9 @@ Complete verbatim transcripts aren't necessarily needed for this study. Here's w
 - When a participant asks a question about a card, or category
 - When a participant gives a suggestion about cards, categories, or a description of either
 
-Here's a note-taking template for the two card sorts, which list the cards, the categories, and has space to write notes next to each:
+Here's a note-taking template for the two card sorts, which lists the cards, the categories, and has space to write notes next to each:
 
-[Card sort list notes template]()
+(IN PROGRESS) [Card sort list notes template]() (Word doc)
 
 ## Moderator setup
 
