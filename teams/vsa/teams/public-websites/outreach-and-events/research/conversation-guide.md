@@ -111,6 +111,7 @@ Please take a look at this page and tell me your impressions of what you see. Do
 What do you think you can do from this page?
 
 - *Note any reactions to location info shown*
+- *Note any reactions to recurring events*
 
   
 ### Task 2: [Filter by Date--One-time event] - 5 minutes
