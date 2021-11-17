@@ -23,6 +23,7 @@ Created 10/6/2021 • Updated 11/15/2021
 - VA.gov team and deviations from the design system/IA
 - Screw up something that’s already working
 - Our egos 
+- may undermine our ability to track some metrics over time, ie if appts are now on the homepage a user may not need to tap into the appointments feature 
 
 ## Redesign Process
 - Phase 0: Dark Mode Implementation & Iteration
@@ -45,9 +46,13 @@ Created 10/6/2021 • Updated 11/15/2021
 ## Measures of Success
 - Primary: Veteran adoption, trust 
     - Quantitative
-        - Number of taps to key tools go down
-        - Increased downloads and repeat usage
-        - Maintain high app ratings
+        - Number of taps to key tools go down (what accessibility implications might this have? positive and negative)
+        -   easy and simple paths in and out and among key/relevant tools 
+        -   avoiding loops and dead ends 
+        - Increased downloads, sign in, and repeat usage 
+        - Maintain / increase app ratings
+        - how do we want to consider session durations, avg sessions per user, and other engagement measures? 
+        - accessibility measures? ie flags from 508 office, 
     - Qualitative - hear more enthusiasm in user research, Veterans would easily find the features they’re searching for
 - Secondary: Reputational and Stakeholder Benefits 
     - Goal: Improve VA’s reputation and ability to design first class apps
