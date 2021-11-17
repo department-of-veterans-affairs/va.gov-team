@@ -17,14 +17,12 @@ Veterans and their families should be able to:
 - Seemlessly notify desired school(s) about their eligibility
 - Stay informed of pertinent information being communicated from the school they are attending to VA
 
-## Undesired User Outcomes
-
 
 ## Desired Business Outcomes
 
 - Automation of education benefits application processing, without manual review, which should yield:
- - Shorter education application processing times for veterans so they can use their benefits promptly.
- - Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks.
+  - Shorter education application processing times for veterans so they can use their benefits promptly.
+  - Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks.
 
 ---
 ## Measuring Success
@@ -59,11 +57,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
-
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 - We are starting with improving the initial eligibility application/claim processing for education benefits. There are clear improvements that can be made for veterans and their families while back end processes and systems remain largely unchanged.
 - We are not including integration between the school officials application and the veteran or VCE applications with our initial build. This will be a later phase of our solution to streamline and bring additional transaparency to all stakeholders during the application and enrollment process.
