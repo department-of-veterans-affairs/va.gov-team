@@ -13,7 +13,7 @@ Last Updated 11/17/2021
 
 ### Sketch Mockups
 - [Personal Information Page - Desktop Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/Myd9jnw)
-- Personal Information Page - Mobile Read-only state
+- [Personal Information Page - Mobile Read-only state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/3OadG3G)
 
 ### H1
 - Personal information
@@ -102,6 +102,10 @@ Straight or heterosexual <br>
 ### Specification
 The Blank state is identical to the Read-Only state, except that the Veteran has not yet added a value for a given field.
 
+### Sketch Mockups
+- [Personal Information Page - Desktop Blank state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/EL4yDV2)
+
+
 ### Field Labels and Content
 
 Each div within the form field set will contain:
@@ -160,7 +164,6 @@ The Edit state is structured the same as the read-only state, except that the fi
 
 ### Sketch Mockups
 - [Personal Information Page - Desktop Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
-- Personal Information Page - Mobile Edit state
 
 
 ### Form Field Edit State Labels and Selection Options
@@ -184,7 +187,7 @@ The Pronouns (3), Gender identity (5), and Sexual orientation (6) fields each pr
 
 ### Sketch Mockups
 - [Personal Information Page - Desktop Required Other Fields state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/MyzeRwb)
-- Personal Information Page - Mobile Required Other Fields state
+- [Personal Information Page - Mobile Required Other Fields state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/v8W437Q)
 
 
 ### Form Field Edit State Required _Other_ Fields Labels and Selection Options
