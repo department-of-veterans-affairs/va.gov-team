@@ -1,4 +1,4 @@
-# Notification Settings & Default Sends
+# Notification Settings & Default Sends (implicit opt-ins)
 
 ## Problem
 Earlier in the summer the team learned that the database (VA Profile) does not differentiate between explcit and implicit opt ins. For example, when Veterans sign up for healthcare through the VA, they are automatically opted in to receive appointment reminders via text. These individuals are not marked in the database as having been opted in by default (hence the name "default sends") as opposed to users who explcitily checked a box that used to exist on VA.gov for opting into appointment reminders via text. 
