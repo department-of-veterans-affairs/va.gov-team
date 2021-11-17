@@ -46,7 +46,7 @@ If we want VANotify to support on-site content, we are bound to the content VANo
 
 - Rx Pharmacy Shipment Update Pilot Text Message
 - Debt Management Center
-- Covid Vaccine Updates
+- Covid "Keep Me Informed" emails (note: these have not gone out in the last 6 months)
 - Board of Veteran appeals hearing reminders (in person + virtual)
 
 They also support a lot of email confirmations, but this isn't information we want to elevate for on-site alerts since people already see confirmation screens when making updates to VA.gov.
