@@ -82,12 +82,11 @@ Before we get to the tasks you are helping us with today, a few things I want to
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
   - [Link to VHA services list](https://docs.google.com/spreadsheets/d/1rd7ms6umKBq71SaLH2wdaofEZLoA3F-U2wRBUgj6QNg/edit#gid=1899971175)
 - **[Moderator questions to keep in mind]**
-  - Validate existing categories:
-    - Does this category make sense?
-    - How else might you describe it?
-  - If a service needs to be explained:
-    - Does that description make sense?
-    - Based on your experience, what is a better way to describe it?
+  - What does [service] mean to you? [Services that aren't clear:]
+    - Registry exams
+    - Veteran connections
+  - Does this service/cateogry need to be explained more clearly?
+  - How else might you describe it the service/category?
 
 ** **MAKE SURE PARTICIPANTS CLICK "FINISH" TO CAPTURE DATA** **
 
