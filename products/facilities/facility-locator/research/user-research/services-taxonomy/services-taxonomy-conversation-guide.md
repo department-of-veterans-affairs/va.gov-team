@@ -12,7 +12,7 @@ Complete verbatim transcripts aren't necessarily needed for this study. Here's w
 
 Here's a note-taking template for the two card sorts, which lists the cards, the categories, and has space to write notes next to each:
 
-(IN PROGRESS) [Card sort list notes template]() (Word doc)
+[Card sort list notes template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Card%20sort%20notes%20template.docx) (Word docx)
 
 ## Moderator setup
 
