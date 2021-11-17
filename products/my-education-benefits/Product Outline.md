@@ -29,27 +29,13 @@ Veterans and their families should be able to:
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |% of automated apps |                    |        |
-| KPI      |             |Processing time     |                    |        |
-| KPI      |Abandon Rate |Processing time     |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
+To measure the effectiveness of the application in accomplishing its objectives, we will track:
+- Traffic to the website
+- Time spent completing each page and identify any sections that may be making veterans spend a sizeable amount of time completing.
+- Abandon rate by page
+- Percentage of users that complete a submission after starting an application.
+- Percentage of users getting an automated approval/denial letter as opposed to requiring a manual review to identify automation improvements.
 
 ---
 
@@ -60,11 +46,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - We are starting with improving the initial eligibility application/claim processing for education benefits. There are clear improvements that can be made for veterans and their families while back end processes and systems remain largely unchanged.
 - We are not including integration between the school officials application and the veteran or VCE applications with our initial build. This will be a later phase of our solution to streamline and bring additional transaparency to all stakeholders during the application and enrollment process.
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
 
 --- 
 
