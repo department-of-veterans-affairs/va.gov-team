@@ -36,7 +36,7 @@ The problem we are trying to solve is to make sure action items are properly ele
 
 **When email/text alerts should trigger something on the website**
 
-Email and text should trigger on-site noticications for anything that is not personalized. For example, if we wanted to elevate COVID-19 "Keep me informed" updates on the dashboard, we may still want to consider an integration so that an on-site alert shows up at the same time as an email or text. 
+We need better thinking around when it makes sense for an email and text alert to trigger something on the website. A safer place to start would be with information that is not personalized, though I think the only notification that falls into that category right now is the COVID-19 "Keep me informed" email, but that apparently hasn't gone out in six months. 
 
 ## There are discrepancies between what VANotify currently supports and what people want to see on their dashboards.
 
