@@ -1,5 +1,17 @@
 # VA Mobile team - Release Highlights
 
+## Release: 11/23/21
+
+New + Improved
+ - VA vaccine record history can now be viewed on the app
+ - Customers can now receive push notification reminders for upcoming appointments
+ - COVID IA updates made to help users distinquish between passive COVID content and personal COVID vaccine details
+ - Added confirmation messaging when removing attachments from secure messages
+
+Bug Fixes:
+ - Minor content punctionuation update made on the Access your VA health care onboarding screen
+
+
 ## Release: 11/9/21
 
 New + Improved
