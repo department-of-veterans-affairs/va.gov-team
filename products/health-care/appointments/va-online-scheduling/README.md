@@ -40,6 +40,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
   - [Brad Gross](https://dsva.slack.com/team/U0188D5JV71)
   - [AJ Magbud](https://dsva.slack.com/team/UUW4NUCM7)
   - [Jennie McGibney](https://dsva.slack.com/team/UMLH49T7G)
+  - [Paul Touchton](https://dsva.slack.com/team/U02M8F08MK6)
   - [Tony Williams](https://dsva.slack.com/team/UMBGJ37EK)
 
 ## What We're Working On
