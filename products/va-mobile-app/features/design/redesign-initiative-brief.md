@@ -12,7 +12,7 @@ Created 10/6/2021 • Updated 11/15/2021
 ## Assumptions/Hypotheses
 - Personalization: A revisit of the IA will likely result in a more personalized homepage to minimize taps and accommodate the fact that Veterans’ experience changes over time.
     - Our design language will need to evolve to accommodate a more personalized homepage/IA/search functionality 
-    - **Riskiest Assumption: Personalizing our design, modernizing our design language, and updating our IA will improve adoption and trust **
+    - Riskiest Assumption: Personalizing our design, modernizing our design language, and updating our IA will improve adoption and trust
 - Information Architecture: We need IA or a hierarchical/grouping as the way to display information 
 - Search: Veterans have a lot of appointments/messages/payments and it would be useful to them to be able to search the app generally
 - Accessibility: Updating design language must take into account accessibility requirements
