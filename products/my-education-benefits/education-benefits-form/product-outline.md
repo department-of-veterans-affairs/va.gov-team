@@ -71,7 +71,18 @@ To measure the effectiveness of the application in accomplishing its objectives,
   - March 2022
 
 ---
-   
+
+## Solution Narrative
+
+### Current Status
+Application is under development slated for March 2023 release.
+
+### Key Decisions
+- Backend services will live on DGIB environment. The application will use Local vets-api endpoints that will serve proxies that generate jwt tokens to communicate with DGIB services. 
+- Support only for Post 9/11 (Chapter 33) GI Bill on first release. Other chapters will be added on future releases.
+- Leverage existing Download VA Letters application on VA.gov to give users permanent access to Certificate of Eligibility and Disallowance letters.
+---
+
 ## Screenshots
 <img alt="Personal Information Page" src="./screenshots/Personal-information.png" height="400"> <img alt="Contact Information Page" src="./screenshots/contact-info.png" height="400"> <img alt="Address Page" src="./screenshots/address.png" height="400"> <img alt="Contact Preference Page" src="./screenshots/contact-preferences.png" height="400"> <img alt="Service History Page" src="./screenshots/service-history.png" height="400"> <img alt="Relinquishments Page" src="./screenshots/relinguishments.png" height="400"> <img alt="Final Review Page" src="./screenshots/final-review.png" height="400">
 
