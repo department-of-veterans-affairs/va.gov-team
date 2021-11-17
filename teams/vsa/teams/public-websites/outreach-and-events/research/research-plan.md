@@ -1,4 +1,4 @@
-# Research Plan for Public Websites, Outreach & Events, Nov 2021
+# Research Plan for Public Websites, Outreach & Events, Dec 2021
 
 ## Background
 The Outreach & Events calendar provides a listing of upcoming national VA events that Veterans can browse and sign up to attend (without logging in). The current user experience is a flat listing of upcoming events, and we are adding the following two new capabilities:
