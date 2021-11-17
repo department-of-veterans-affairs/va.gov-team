@@ -95,9 +95,4 @@ Essentially, the approach we have been taking loses sight of the original proble
 
 - Review with team.
 - Samara to review with leadership.
-
-If we're in alignment, we have some options for moving forward.
-
-- Pause VANotify integration altogether, OR...
-- Continue to pursue this integration, but for non-personalized information only (eg. COVID-19 Keep Me Informed updates).
-- Discuss next steps for elevating action items.
+- Discuss next steps, recognizing that elevating action items on My VA is likely a separate effort from a larger notifications strategy.
