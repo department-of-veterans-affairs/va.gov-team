@@ -9,7 +9,7 @@ New + Improved
  - Added confirmation messaging when removing attachments from secure messages
 
 Bug Fixes:
- - Minor content punctionuation update made on the Access your VA health care onboarding screen
+ - Minor content punctuation update made on the Access your VA health care onboarding screen
 
 
 ## Release: 11/9/21
