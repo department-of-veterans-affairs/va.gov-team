@@ -3,7 +3,7 @@
 The VA mobile app team is committed to measuring success and using analytics to proactively generate insights that inform our roadmap. We track both quantitative and qualitative measures to understand the user experience of the app.
 
 ## Quantitative
-The team reports weekly on the following measures. The metrics are reported for each 7-day period, and are compared to the prior period as well as to lifetime values since the July 2021 launch.
+The team reports weekly on the following measures as a pulse check to track overall usage and behavior. The metrics are reported for each 7-day period, and are compared to the prior period as well as to lifetime values since the July 2021 launch.
 
 ### App-wide metrics
 **Trust & Satisfaction**
