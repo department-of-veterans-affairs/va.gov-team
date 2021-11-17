@@ -45,8 +45,8 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ## Solution Approach
 
 - We are starting with improving the initial eligibility application/claim processing for education benefits. There are clear improvements that can be made for veterans and their families while back end processes and systems remain largely unchanged.
- - Initially, it will support only applying for the Post 9/11 (Chapter 33) GI Bill
- - Other chapters (Chapter 30, Chapter 1606) will be phased in on future versions.
+  - Initially, it will support only applying for the Post 9/11 (Chapter 33) GI Bill
+  - Other chapters (Chapter 30, Chapter 1606) will be phased in on future versions.
 - We are not including integration between the school officials application and the veteran or VCE applications with our initial build. This will be a later phase of our solution to streamline and bring additional transaparency to all stakeholders during the application and enrollment process.
 
 --- 
