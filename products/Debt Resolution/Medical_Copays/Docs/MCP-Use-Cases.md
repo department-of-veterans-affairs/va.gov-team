@@ -1,6 +1,6 @@
 # [DRAFT] Medical Copays - Use Cases
 
-Last updated 2021-09-10
+Last updated 2021-11-17
 
 _Track and maintain the various use cases that exist for a given product and is
 best maintained alongside the product outline._
@@ -80,7 +80,7 @@ Last updated 2021-08-27
 
 ## Use Case D - Deceased
 
-Last updated 2021-08-27
+Last updated 2021-11-17
 
 - **Description**
 
@@ -92,7 +92,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+90@gmail.com` (Ralph)
+  - `vets.gov.user+228@gmail.com` (Ralph)
 
 [mcp-product-outline]:
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md
