@@ -17,6 +17,7 @@ Created 10/6/2021 • Updated 11/15/2021
 - Search: Veterans have a lot of appointments/messages/payments and it would be useful to them to be able to search the app generally
 - Accessibility: Updating design language must take into account accessibility requirements
 - Scope: We don’t need separate tablet/phone designs and we don’t need to differentiate between two platforms. We will tackle these two parts, if necessary, when we transition to native.
+  - Out of scope for now, but considering for the future: smarter notifications
 
 ## Risks
 - VA.gov team and deviations from the design system/IA
