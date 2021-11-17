@@ -1,6 +1,9 @@
 
 ## Release Checklist
 ### List of activities that need to be completed or discussed for each release
+- Communications
+    - Internal- Who at the VA needs to be aware of the release? 
+    - External- Are there any external communications needed? 
 - App store images and content
     - Do the app store images and content need to be updated?
     - What order should the images be in? 
