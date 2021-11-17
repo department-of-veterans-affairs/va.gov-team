@@ -11,9 +11,9 @@ How might we create a more transparent and timely process to apply for and recei
 ## Desired User Outcomes
 
 Veterans and their families should be able to: 
-- Apply for education benefits by reviewing data VA has on file for them and adjusting it, instead of providing new data that needs to be manually reviewed 
+- Apply for education benefits by reviewing data VA has on file for them and adjusting it, instead of providing new data that needs to be manually reviewed
 - Obtain an immediate decision about their benefit eligibility (at least for a percetnage of user base)
-- Receive digital communications with status updates and documentation regarding their elgibility
+- Receive digital communications with status updates and documentation regarding their elgibility\
 - Seemlessly notify desired school(s) about their eligibility
 - Stay informed of pertinent information being communicated from the school they are attending to VA
 
@@ -21,8 +21,8 @@ Veterans and their families should be able to:
 ## Desired Business Outcomes
 
 - Automation of education benefits application processing, without manual review, which should yield:
-  - Shorter education application processing times for veterans so they can use their benefits promptly.
-  - Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks.
+  - Shorter education application processing times for veterans so they can use their benefits promptly
+  - Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks
 
 ---
 ## Measuring Success
@@ -32,10 +32,10 @@ Veterans and their families should be able to:
 
 To measure the effectiveness of the application in accomplishing its objectives, we will track:
 - Visitor traffic to the website
-- Time spent completing each page and identify any sections that may be making veterans spend a sizeable amount of time completing.
+- Time spent completing each page and identify any sections that may be making veterans spend a sizeable amount of time completing
 - Abandon rate by page
-- Percentage of users that complete a submission after starting an application.
-- Percentage of users getting an automated approval/denial letter as opposed to requiring a manual review to identify automation improvements.
+- Percentage of users that complete a submission after starting an application
+- Percentage of users getting an automated approval/denial letter as opposed to requiring a manual review to identify automation improvements
 
 ---
 
@@ -46,7 +46,7 @@ To measure the effectiveness of the application in accomplishing its objectives,
 
 - We are starting with improving the initial eligibility application/claim processing for education benefits. There are clear improvements that can be made for veterans and their families while back end processes and systems remain largely unchanged.
   - Initially we will support only applying for the Post 9/11 (Chapter 33) GI Bill
-  - Other chapters (Chapter 30, Chapter 1606) will be phased in on future versions.
+  - Other chapters (Chapter 30, Chapter 1606) will be phased in on future versions
 - We are not including integration between the school officials application and the veteran or VCE applications with our initial build. This will be a later phase of our solution to streamline and bring additional transaparency to all stakeholders during the application and enrollment process.
 
 --- 
@@ -69,13 +69,6 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ## Launch Dates
 - *Target Launch Date*
   - March 2022
----
-
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
 
 ---
    
@@ -121,6 +114,6 @@ To measure the effectiveness of the application in accomplishing its objectives,
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+Education Service | Veterans Benefits Administration
  
 </details>
