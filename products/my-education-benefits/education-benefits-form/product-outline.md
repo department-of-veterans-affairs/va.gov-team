@@ -40,7 +40,8 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, letters, and submit applications.
+- 
 
 ## Solution Approach
 
