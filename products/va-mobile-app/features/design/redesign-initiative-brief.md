@@ -30,7 +30,7 @@ Created 10/6/2021 • Updated 11/15/2021
     - Personalization: Create low-fi UX options and feasibility/scope recommendation
     - IA: Unmoderated tree-structure research and feasibility/scope recommendation
     - Search: options analysis and feasibility/scope recommendation
-    - Determine direction for Personalization, IA, and Search
+    - Determine direction(s) to test for Personalization, IA, and Search
 - Phase 2+: Validation, Design, and Build
     - User testing for Personalization, Search & IA
     - Initial Design & Build
