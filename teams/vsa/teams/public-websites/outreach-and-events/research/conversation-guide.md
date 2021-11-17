@@ -186,6 +186,8 @@ Now you can go ahead and do it.
 
 - *(select month and day)*
 
+- *Understand the 12-month limitation? Y / N*
+
 - *Clicked the "filter events" button? Y / N*
 
 - *Found the 2 Memorial Day events? Y / N*
@@ -199,6 +201,8 @@ I'd like you to imagine that you're planning a trip to New Orleans next summer, 
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / **Custom date range** / Past events*
 
 - *(select month and day for July 1 start date and July 5 end date)*
+
+- *Understand the 12-month limitation? Y / N*
 
 - *Clicked the "filter events" button? Y / N*
 
