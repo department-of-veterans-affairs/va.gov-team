@@ -40,8 +40,7 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ---
 
 ## Assumptions
-- VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, letters, and submit applications.
-- 
+- VA.gov environment will be able to communicate with the Digital GI Bill (DGIB) services environment. DGIB environment will contain services to obtain veteran personal information, contact information, service history, letters, and submit applications. 
 
 ## Solution Approach
 
