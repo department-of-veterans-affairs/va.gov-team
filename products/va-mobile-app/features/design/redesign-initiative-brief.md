@@ -36,8 +36,9 @@ Created 10/6/2021 • Updated 11/15/2021
     - User testing for Personalization, Search & IA
     - Select best option for new personalized pages, search, and iA
 - Phase 3: Design & Build
-    - Initial Design & Build
-    - Refine, Build, Test
+    - Higher fidelity designs
+    - FE & BE build
+    - QA
     - Usability testing
     - Release
 
