@@ -22,14 +22,9 @@ Veterans and their families should be able to:
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-- Shorter application processing times
-- Automation of application processing, without manual review
-
-## Undesired Business Outcomes
-
+- Automation of education benefits application processing, without manual review, which should yield:
+ - Shorter education application processing times for veterans so they can use their benefits promptly.
+ - Lower workload on VCE's thanks to automation of common education benefit applications, allowing them to put resources on higher value tasks.
 
 ---
 ## Measuring Success
