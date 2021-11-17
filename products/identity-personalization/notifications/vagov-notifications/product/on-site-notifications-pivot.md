@@ -17,7 +17,7 @@ If we want to revisit the original goal of this work -- elevating action items -
 - Refill a prescription
 - Upload evidence for a claim or appeal
 - [Applying for benefits that have a time limit](https://www.military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html)
-- [Future: Fill out check-ing forms online for doctor's appointments]
+- [Future: Fill out check-in forms online for doctor's appointments]
 
 If there are **seven** time-sensitive things a veteran might need to do, then **we do not need a whole notifications center to accommodate this**. We can plug directly into relevant backends to elevate this information, like we already do for appointments and unread messages.
 
