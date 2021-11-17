@@ -78,10 +78,7 @@ To measure the effectiveness of the application in accomplishing its objectives,
 ---
    
 ## Screenshots
-
-### Before
-
-### After
+<img alt="Personal Information Page" src="./screenshots/Personal-information.png" height="400"> <img alt="Contact Information Page" src="./screenshots/contact-info.png" height="400"> <img alt="Address Page" src="./screenshots/address.png" height="400"> <img alt="Contact Preference Page" src="./screenshots/contact-preferences.png" height="400"> <img alt="Service History Page" src="./screenshots/service-history.png" height="400"> <img alt="Relinquishments Page" src="./screenshots/relinguishments.png" height="400"> <img alt="Final Review Page" src="./screenshots/final-review.png" height="400">
 
 ---
 
