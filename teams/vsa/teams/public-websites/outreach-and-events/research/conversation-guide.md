@@ -114,7 +114,7 @@ What do you think you can do from this page?
 
   
 ### Task 2: [Filter by Date--One-time event] - 5 minutes
-I'd like you to see if there are any VA events coming up soon that could help you look for a new job.
+Imagine that you're looking for a new job, and you heard that your local VA might soon be having an event for job seekers. How would you find out if that's the case?
 
 *(When see dropdown date filter options)* Could you stop for a minute? What are your thoughts on those options?
 
