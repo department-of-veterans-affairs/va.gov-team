@@ -28,9 +28,9 @@ Created 10/6/2021 • Updated 11/15/2021
 - Phase 0: Dark Mode Implementation & Iteration
 - Phase 1: Developing Options for Personalization, IA, Search
     - Personalization, Search: Initial brainstorming with team
-    - Personalization: Create low-fi UX options and feasibility/scope recommendation
-    - IA: Unmoderated tree-structure research and feasibility/scope recommendation
-    - Search: options analysis and feasibility/scope recommendation
+    - Personalization: Create low-fi UX options and feasibility/scope assessment
+    - IA: Unmoderated tree-structure research and feasibility/scope assessment
+    - Search: options analysis and feasibility/scope assessment
     - Determine direction(s) to test for Personalization, IA, and Search
 - Phase 2: Validation & Determining Direction
     - User testing for Personalization, Search & IA
