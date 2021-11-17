@@ -170,36 +170,6 @@ In August, 2021, the mobile team is poised to grow substantially. The following 
 * Bubble up generalized feedback from Retro
 * VA shares any updates, discussion on new priorities and stakeholder landscape
 
-
-## Release Sign off
-
-**When:** Monday or Tuesday, the week before the next release is submitted to stores
-
-**Who:** 1 Delivery PM, 1 designated UX person, 1 QA, VA PO
-
-**Process:**
-
-* Release Sign off ticket is auto generated 13 days prior to the release and assigned to AH PM Delivery lead, UX lead, Engineering lead, and VA POs
-* All tasks on the ticket should be completed the Tuesday before the release (1 week prior) and before sending to the App store for review 
-* All boxes on Release ticket are checked ([sample here](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/department-of-veterans-affairs/va-mobile-app/1427)):
-    * Define version number - automation system defines the version
-    * Create release branch - completed by the engineering team 
-    * What’s new content - completed by PM delivery lead. The standard template for writing What's new content is as follows:
-      * You can now [describe xyz new feature(s)]. We’ve also [enhanced or improved abc] and fixed a few bugs.
-      * If there aren't any new features, use standard messaging 'We added general improvements and fixed a few bugs' (if applicable)
-    * Other Content updates - UX team currently updates and then sends to engineering
-    * PR opened for review - completed by engineering team
-    * Severe Bugs: added automatically by BOT
-      * Includes open sev-1 and/or sev-2 bugs
-      * PM should coordinate with QA & engineering to update the notes with the current status of the bug (what's blocking, when will the issue be prioritized,             etc)   
-* QA Sign Off - QA will sign off once all tickets have passed and or identified issues have been addressed 
-* PM Sign Off - AH PM will perform high level validation of critical feature/bug tickets.  Coordinate with QA and review test results  
-* VA POs Sign Off - PM will coordinate with VA POs once QA & PM sign off's are complete.  During this time we should also confirm that POs are ok with the What's new content text and make necessary changes as needed.  
-
-
-   
-
-
 ## UX to Eng Hand-off
 
 **When:** Thursday (?)
