@@ -118,6 +118,16 @@ Reduce no-shows to appointments | Baseline | Target | Link to data source (e.g. 
 
 ### Before
 
+**Cancel CTA**
+
+![staging va gov_health-care_schedule-view-va-appointments_appointments_va_202201032100983000030800000000000000 copy](https://user-images.githubusercontent.com/72046525/142261083-d2f5d501-2da9-4026-9475-a1dcaa18a287.png)
+
+**Cancel Confirmation Modal**
+
+![staging va gov_health-care_schedule-view-va-appointments_appointments_va_202201032100983000030800000000000000 (2)](https://user-images.githubusercontent.com/72046525/142261188-1de1a7be-2bf5-4b28-87fd-0931d9a09f15.png)
+
+
+
 ### After
 
 ---
