@@ -42,6 +42,8 @@
     * Next closest clinics are: 
         * St. Charles about 30 min away 
         * Jefferson City and St. James about an hour away
+* Posters for VeText's "I am here" product in the parking lot are covered, so as not to be used
+    * Vets have sat in car for an hour plus, because of no alert to MSAs when using VeText.
 
 ### General quote from staff about our visit
 - “So glad you came.”
