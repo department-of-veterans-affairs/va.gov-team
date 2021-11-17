@@ -50,9 +50,19 @@ To measure the effectiveness of the application in accomplishing its objectives,
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+*How are Veterans and others using this product going to know it exists?* 
+- Veterans will be informed about My Education Benefits through a multi-tiered strategy. From focus groups, we've learned that many Veterans get their updates from the website so information will be posted there, as well as through other means including social media, blogs, media outreach, and more.
+
+*What marketing, outreach, or communications are necessary for this product to be successful?*
+ - GI Bill Student Newsletter and SCO Newsletter blog posts
+ - VAntage Point blog
+ - Social media posts
+ - benefits.VA.gov website updates (including a potential DGIB campaign landing page)
+ - Email comms
+ - Product Features video walking users through the new My Education Benefits experience
+ - A video on how to complete your GI Bill application with the new enhancements
+ - Media Outreach
+ - Mentions at the GI Bill School Tour
 
 ## Launch Dates
 - *Target Launch Date*
