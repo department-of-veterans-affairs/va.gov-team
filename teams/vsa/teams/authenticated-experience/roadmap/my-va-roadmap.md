@@ -15,7 +15,7 @@
 |----|----|----|----|----|
 |**Alerts MVP**| Planning; Start research | Complete research and make recommendations |Technical discovery & build | Launch |
 |**User roles & permissions**| - | - | Research discovery to support Identity team | TBD |
-|**Add education section to My VA** |  - | - | Scoping and planning | TBD |
+|**Add payments & financials section to My VA** |  - | - | Scoping and planning; Design | Design/Research/Build/Pre-launch |
 
 ## Completed projects
 
