@@ -634,5 +634,7 @@ Anyone on the team may add a new issue to the board. You may use an Issue templa
 * **Bugs should be added to the Bug Backlog column**
 * Please be sure to include at a minimum:
 * Title: Clear headline of what this piece of work is about
-* Labels: UX, Eng, or Bug (at a minimum(
+* User Story: Who are we building this for, intent, overall benefit, problem/issue to be solved
+* Acceptance Criteria: Should be clear and concise, have measurable results, allows the delivery team know they have completed the story...what defines "done"?
+* Labels: UX, Eng, feature or Bug (at a minimum(
 * Epic: If you know what epic this issue should go in, add it, otherwise it can be filled out later
