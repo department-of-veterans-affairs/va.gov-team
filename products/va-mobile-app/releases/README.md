@@ -12,7 +12,7 @@
 - Call center documentation
     - What call center documentation should be updated? Does the release warrant a demo to the call centers?
     - Advance notification should be given to VEO or HRC for larger feature releases 
-    - See Request [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) for directions on how to interact with VEO on product guide updates
+    - See Request [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) for directions on how to interact with VEO on product guide updates (see [#32766](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32766) as an example_)
 - First time onboarding screens
      - Confirm if there are updates needed to the onboarding screens users see the first time they sign into the app  
 
