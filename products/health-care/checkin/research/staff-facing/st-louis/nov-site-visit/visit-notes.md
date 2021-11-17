@@ -1,6 +1,5 @@
 # St. Louis Site Visit 
 ## November 10, 2021
-### Written by Kristen McConnell
 
 ## Franklin County VA Clinic in Washington, Missouri
 
@@ -37,6 +36,12 @@
 * Providers have access to VetLink, but not VSE.
 * A lot of their walls have art or posters on them. There isn’t a lot of wall space.
 * They don’t really have long lines of Veterans waiting (according to MSAs)
+* Location compared to other St. Louis VA facilities
+    * It is about a 1 hour drive from John Cochran (main VA hospital)
+        * There are two main hospital campuses for St. Louis – John Cochran, which is the main facility and Jefferson Barracks which is mostly rehab and mental health
+    * Next closest clinics are: 
+        * St. Charles about 30 min away 
+        * Jefferson City and St. James about an hour away
 
 ### General quote from staff about our visit
 - “So glad you came.”
