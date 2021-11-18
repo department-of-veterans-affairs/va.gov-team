@@ -25,9 +25,9 @@ All VEText initiatives aim to improve the experience for these groups
 
 VEText is a platform for sending SMS messages built upon a complex rules engine.
 
-# Team
+## Team
 
-## VEText Team
+### VEText Team
 
 **Federal Employees**
 **Name** | **Role** 
@@ -35,7 +35,6 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 **Shane Elliott** | VA Product Owner
 **Robert Durkin** | VA Lead Engineer
 **William “Andy” Mccarty** | VA Engineer
-
 
 
 **Product Operations & Support Team (POST)**
@@ -51,7 +50,7 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 **Chance Cusack** | Help Desk Lead
 **Misti Carpenter** | Help Desk Support 
 
-# Projects
+## Projects
 
 ### Current Uses
 |**Use Case**|**Description**|**Metrics**|
@@ -63,28 +62,32 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 |[**I Am Here (IMH) for VHA Facilities**](TBD)|Allows Veterans to notify VA staff that they have arrived at the VAMC (or CBOC) and check-in to their VHA health care appointment (via SMS).  Using the VEText portal, VA staff can keep track of Veterans and trigger a notification (via SMS) to let them know it is time to come into the clinic for their VHA health care appointment.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 |[**Clinic Cancellation Tool**](TBD)|Allows VA staff (with appropriate VistA menu option) to cancel appointments in a clinic and automatcially notify Veterans of the cancellations (via SMS).|[**Metrics**](TBD)|
 |[**Board of Veteran's Appeal (BVA) Hearing Reminder**](TBD)|Sends appointment reminder (via SMS) to Veterans for their upcoming BVA hearing.|[**Metrics**](TBD)|
+|[**Community Care (CC) - Self-Scheduling Retrieval**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends a text message to Veterans - who have opted-in for self-scheduling - to collect their community care appointment information.  VA staff can review the responses in the VEText portal.  |[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/918e5fbe-5011-46df-8494-036f23d01500/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**Community Care (CC) - Appointment Reminders**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends appointment reminder (via SMS) to Veterans for their upcoming community care health care appointment.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/5c0859e0-fffa-4c9d-8df1-dfa50b179685/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**Community Care (CC) - Post Appointment Notifications**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends a SMS one-day after the Veteran's scheduled community care appointment to confirm whether (or not) they attended their appointment.  VA staff can review the responses in the VEText portal.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/56dcdd09-ecf3-4bf3-8c0a-914d70d59313/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+
+### Backlog
+To view our backlog, visit our [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false).
 
 
-
-|[**Community Care Appointment Communication**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)| Texts Veterans in a variety of scenarios around Community Care appointments
 |[**Inactive Veterans**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/21356)| Sends text messages to Veterans who have not seen their Primary Care provider (PCP) in the last 18-24 months.
 |[**Vaccine Outreach**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20658)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
 
 
-# Stakeholders & VA Business Lines/Partners
+## Stakeholders & VA Business Lines/Partners
 
-## Stakeholders
+### Stakeholders
 - Office of the VA CTO (OCTO) - Charles Worthington, Lauren Alexanderson, and Chris Johnston
 
-## VA Business Lines/Parnters
+### VA Business Lines/Parnters
 - Office of Veterans Access to Care - Jeff Lowe and Erica Williams
 - Office of Community Care - Dr. Mary Beckett
 - VANotify - Beverly Nelson
 - Pharmacy SMEs - Dr. Ronald Major, Dr. Anne Bailey, and Dr. Susan Rising
 
-# Integrations and VA Security & Compliance 
+## Integrations and VA Security & Compliance 
 
-## Integrations
+### Integrations
 - VistA
 - Coporate Data Warehouse (CDW)
 - BVA Caseflow
@@ -95,13 +98,13 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 - VA Notify
 - Cerner API (Sandbox API)
 
-## VA Security & Compliance
+### VA Security & Compliance
 - 3-year Authority to Operate (ATO) - renewed in OCT 2021
 - VA Office of General Counsel (OGC) Approved PHI Workflow and Messages
 - VA OI&T Supported
 - Single Sign-On Internal (SSOi)
 
-# Additional Documentation
+## Additional Documentation
 - [Sharepoint](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx)
 - [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false)
 - [Metrics](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
