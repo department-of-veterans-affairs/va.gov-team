@@ -71,47 +71,47 @@ Key Findings
 
 This theme was first observed during research with clinicians and further validated through conversations with Veterans. Participants shared how seeing data from their activity trackers helped motivate them and make them more aware of certain aspects of their health. This awareness led to behavior changes such as adding extra activity throughout their day. ***Validate with recordings - topics for discussion with clinician***
 
-"Usually when I get my weekly report, I try and go back to see what activities I did that day that made me more successful" - P1
+>"Usually when I get my weekly report, I try and go back to see what activities I did that day that made me more successful" - P1
 
-"It [Fitbit] made a big difference for me along with the [VA] trainings. It helped improve my bloodwork." - P2
+>"It [Fitbit] made a big difference for me along with the [VA] trainings. It helped improve my bloodwork." - P2
 
-"I didn't realize how much it would help me keep track of things and keep me motivated." - P2
+>"I didn't realize how much it would help me keep track of things and keep me motivated." - P2
 
-"I wanted to keep track of how much I walk, accent my workout, and overall be healthier." - P4
+>"I wanted to keep track of how much I walk, accent my workout, and overall be healthier." - P4
 
-"If there is a day I'm feeling bad and I don't really get out of bed, it [Fitbit] will send me a notification and I'll make sure to get up and move around." - PP6
+>"If there is a day I'm feeling bad and I don't really get out of bed, it [Fitbit] will send me a notification and I'll make sure to get up and move around." - PP6
 
 ### Some Veterans are already sharing their activity tracker data with their care team through manual processes
 
 Some participants already share some data with their care team. However, the process of sharing their data is not consistent. The most common way data is shared is through conversations with clinicians. Additionally, some participants email their weekly Fitbit summary report.
 
-"I would show the app if I could sign in or pull up the weekly email and show that" - P1
+>"I would show the app if I could sign in or pull up the weekly email and show that" - P1
 
-"Every time we have a class, we submit the Fitbit data along with our weight through email. The instructor said eventually they will be able to pull the information by logging in and linking our accounts with VA. I'm not sure if they were able to finally get it done prior to me leaving." - P2
+>"Every time we have a class, we submit the Fitbit data along with our weight through email. The instructor said eventually they will be able to pull the information by logging in and linking our accounts with VA. I'm not sure if they were able to finally get it done prior to me leaving." - P2
 
-"I talk every week with my health coach and we talk about how many miles I'm walking" - P6
+>"I talk every week with my health coach and we talk about how many miles I'm walking" - P6
 
 ### All participants are willing to share their data with VA with the expectation it would improve their care
 
 All participants in this study were willing to share their activity tracker data with VA with little hesitation. In general, the activity tracker data was not considered especially sensitive data by the participants. The expectation for sharing data was that it would better inform their clinician about their situation leading to improved care and decisions by the clinician.  
 
-"If it was something that would help me, I absolutely would share my [Fitbit] data." - P1
+>"If it was something that would help me, I absolutely would share my [Fitbit] data." - P1
 
-"I would have no problem what so ever [connecting Fitbit to share data with VA], I thought that was the purpose when I got it [Fitbit]." - P1
+>"I would have no problem what so ever [connecting Fitbit to share data with VA], I thought that was the purpose when I got it [Fitbit]." - P1
 
-"I would want to know if what I'm transmitting is meeting the expectations within the MOVE program." - P4
+>"I would want to know if what I'm transmitting is meeting the expectations within the MOVE program." - P4
 
-"I was led to believe initially I would be discussing the data with my doctor when I have an appointment. But so far that hasn't happened." - P5
+>"I was led to believe initially I would be discussing the data with my doctor when I have an appointment. But so far that hasn't happened." - P5
 
-"That would be fine with me [linking Fitbit data to VA]. When you see your VA provider and talk to them about your lifestyle and sometimes they don't really understand unless they can actually see it." - P6
+>"That would be fine with me [linking Fitbit data to VA]. When you see your VA provider and talk to them about your lifestyle and sometimes they don't really understand unless they can actually see it." - P6
 
 ### Participants expect to be able to stop sharing data, but not necessarily delete any data already shared
 
 All participants expected to be able to stop sharing data with VA if they decided to. Most expected that any data already shared with VA would remain with VA and not be deleted.
 
-"I would like to think I could [delete all my shared data], in all honestly I wouldn't expect that to be possible." - P4
+>"I would like to think I could [delete all my shared data], in all honestly I wouldn't expect that to be possible." - P4
 
-"I'd like to have the option to stop sharing data. Depending on the reason, I'd want to delete" - P5
+>"I'd like to have the option to stop sharing data. Depending on the reason, I'd want to delete" - P5
 
 Additional Insights
 -------------------
