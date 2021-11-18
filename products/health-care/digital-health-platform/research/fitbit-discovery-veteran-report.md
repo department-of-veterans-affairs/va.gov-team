@@ -129,7 +129,7 @@ Recommendations
 
 Participants were willing to share their data, and would like to know how it is used if they do share data. While knowing exactly how their data would be used was not a requirement for some participants to share data, it increased their understanding of how they could benefit from sharing the data. Some participants who received Fitbits through VA thought they were already sharing data with VA and assumed it was not being used.
 
-"The more transparent the better. Clear and concise about what the data is being used for, how it might benefit myself, how it might benefit others, how it might make my care better or easier, what security measures are in place." - P5
+>"The more transparent the better. Clear and concise about what the data is being used for, how it might benefit myself, how it might benefit others, how it might make my care better or easier, what security measures are in place." - P5
 
 ### Provide a clear way for Veterans to connect and manage their shared data
 
