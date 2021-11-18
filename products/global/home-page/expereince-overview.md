@@ -73,6 +73,11 @@ Current Va.gov users are:
 - Improve quality and quantity of media content on the homepage
 - Increased user task completion (e.g. Veteran receives a notification to complete task X, and is able to do so)
 
+- Task completion rates for top 20 tasks
+- User satisfaction with VA.gov
+- Number of accounts created per month
+
+
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics, if possible._
 
