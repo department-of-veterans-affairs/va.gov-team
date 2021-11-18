@@ -50,7 +50,7 @@ We should focus on incorporating the remaining action items with available endpo
 
 ### Immediate next steps
 
-- We are currently exploring adding debt notifications as part of a new payment & financials section we are going to add per user request/need, analytics, and business need (request from the edu team to start adding edu info, of which viewing payments is the most important in terms of user need). We are still determining whether we will address debts as part of the payment section MVP or not, but if not, we should definitely move to incorporate this functionality right after launch. This would give us an important additional action item on My VA.
+- We are currently exploring adding debt notifications as we add payment info per user request/need, analytics, and business need (request from the edu team to start adding edu info, of which viewing payments is the most important in terms of user need). Payment & debts might be one section. However, if we determine the payment section should be separate from a debts section, we can divide and conquer, having Tressa work on payments and Liz work on debts. 
 - Potentially explore methods for elevating tasks like paying a debt while this data gets integrated into VA.gov.
 
 ### Future next steps
