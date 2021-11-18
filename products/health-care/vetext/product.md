@@ -37,6 +37,7 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 **William “Andy” Mccarty** | VA Engineer
 
 
+
 **Product Operations & Support Team (POST)**
 **Name** | **Role** 
 ---|---
@@ -50,9 +51,61 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 **Chance Cusack** | Help Desk Lead
 **Misti Carpenter** | Help Desk Support 
 
-# Stakeholders
-- VA Profile - Barbara Flowers (VEO)
-- 
+# Projects
+
+### Current Uses
+|**Use Case**|**Description**|**Metrics**|
+--|--|--
+|[**VHA Health Care Appointment Reminders (non-PHI and PHI)**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20657)|Sends appointment reminder (via SMS) to Veterans for their upcoming VHA health care appointment.  Veterans can confirm or cancel appointment.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/bf6248a7-ae15-49f3-893b-73b65f38a7fd/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**Open Slot Management (OSM)**](TBD)|Allows Veterans meeting certain criteria (e.g. Veterans waiting for an appointment greater than 30 days, service-connected, new patient, etc.) to reschedule their VA health care appointment (via SMS) for an earlier slot.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/79ef30b9-53d5-4463-b7d3-df086fdf64b9/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**Pharmacy Shipment Notifications**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20661)|Sends shipment notification (via SMS) regarding their mail-order prescription - with a tracking link - from their local facility.|[**Metrics**](TBD)|
+|[**OR Surgery Notifications**](TBD)|Allows VA staff to send updates (via SMS) to a Veteran's family members (or identified recipients).|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/93b7c5a4-ea6f-4e43-aa96-0334fe0ceb28/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**I Am Here (IMH) for VHA Facilities**](TBD)|Allows Veterans to notify VA staff that they have arrived at the VAMC (or CBOC) and check-in to their VHA health care appointment (via SMS).  Using the VEText portal, VA staff can keep track of Veterans and trigger a notification (via SMS) to let them know it is time to come into the clinic for their VHA health care appointment.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**Clinic Cancellation Tool**](TBD)|Allows VA staff (with appropriate VistA menu option) to cancel appointments in a clinic and automatcially notify Veterans of the cancellations (via SMS).|[**Metrics**](TBD)|
+|[**Board of Veteran's Appeal (BVA) Hearing Reminder**](TBD)|Sends appointment reminder (via SMS) to Veterans for their upcoming BVA hearing.|[**Metrics**](TBD)|
+
+
+
+|[**Community Care Appointment Communication**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)| Texts Veterans in a variety of scenarios around Community Care appointments
+|[**Inactive Veterans**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/21356)| Sends text messages to Veterans who have not seen their Primary Care provider (PCP) in the last 18-24 months.
+|[**Vaccine Outreach**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20658)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
+
+
+# Stakeholders & VA Business Lines/Partners
+
+## Stakeholders
+- Office of the VA CTO (OCTO) - Charles Worthington, Lauren Alexanderson, and Chris Johnston
+
+## VA Business Lines/Parnters
+- Office of Veterans Access to Care - Jeff Lowe and Erica Williams
+- Office of Community Care - Dr. Mary Beckett
+- VANotify - Beverly Nelson
+- Pharmacy SMEs - Dr. Ronald Major, Dr. Anne Bailey, and Dr. Susan Rising
+
+# Integrations and VA Security & Compliance 
+
+## Integrations
+- VistA
+- Coporate Data Warehouse (CDW)
+- BVA Caseflow
+- Master Patient Index (MPI)
+- VA Profile (includes end-to-end integration with VA.gov for preferences)
+- VETS API
+- Twilio SMS API
+- VA Notify
+- Cerner API (Sandbox API)
+
+## VA Security & Compliance
+- 3-year Authority to Operate (ATO) - renewed in OCT 2021
+- VA Office of General Counsel (OGC) Approved PHI Workflow and Messages
+- VA OI&T Supported
+- Single Sign-On Internal (SSOi)
+
+# Additional Documentation
+- [Sharepoint](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx)
+- [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false)
+- [Metrics](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
+ - Slack: #notifications-vetext
 
 
 
