@@ -39,6 +39,13 @@ Pay debts
 - How much information do we need to show for a financial section to be valuable to users?
 
 
+## Payment History Review
+
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/View%20Payment%20History.png)
+
+[Spreadsheet of data points](need to link)
+
+
 ## Meeting with Debt Management team
 
 ### Current IA
