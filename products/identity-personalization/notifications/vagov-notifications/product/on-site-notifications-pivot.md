@@ -10,14 +10,19 @@ I think we've lost sight of the original goal of the on-site notifications proje
 
 If we want to revisit the original goal of this work -- elevating action items -- we first need to start by considering what time-sensitive action items exist. I could only think of seven. They are:
 
+**Veterans can do online**
+
 - Complete an application that is about to expire
-- Go to an appointment (Medical or BVA hearing)
 - Read/reply to a message from their medical team (future: read/reply to messages potentially for other benefits)
 - Pay a debt
 - Refill a prescription
 - Upload evidence for a claim or appeal
 - [Applying for benefits that have a time limit](https://www.military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html)
 - [Potential future functionality: Fill out check-in forms online for doctor's appointments]
+
+**Veterans do IRL**
+
+- Go to an appointment (Medical or BVA hearing)
 
 If there are **seven** time-sensitive things a veteran might need to do, then **we do not need a whole notifications center to accommodate this**. We can plug directly into relevant backends to elevate this information, like we already do for appointments and unread messages.
 
