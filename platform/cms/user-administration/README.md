@@ -6,27 +6,26 @@
    - Make sure there's an existing JIRA ticket for the request, or create a new one.
 3. **Acknowledge** request
 4. **Evaluate** request if any of the below is missing or unclear:
-   -  VA digital product and/or section
-   -  Role: Editor, reviewer, publisher
-   -  Do they have network access? (Folks who are remote/ or contractors will need CAG or some other means of accessing the network first).
-   -  If they are requesting for themselves, need name of person who can verify the users's permissions and what training or other criteria must be met before the account is approved. If they don't have a verifier, see next section for verifiers by product.
+   -  What is the VA email for the new user?
+   -  VA product (VA Medical Centers, Vet Centers, Outreach Hub, Benefits Hubs, Campaign Landing Pages, Resources and Support, etc.)
+   -  If VA Medical Centers or Vet Centers, which Section? (VA Medical Center health care system or VISN, Vet Center or District)
+   -  If they are new staff, do they have VA network access? Do they have a PIV card?
+   -  If they are requesting for themselves, see next section for verifiers by product.
    -  If they are requesting for others and they have a Drupal account, the new user may get an account with the same role(s) or section(s) only.
    -  If they are requesting for others and they don't have a Drupal account, see next section for verifiers by product.
 5. **Investigate** by following up with the requester if any information is missing.
-6. **Verify** request 
-   - Contact verifier to approve the sections and roles.
-   - Confirm the training or other criteria necessary to approve the account.
+6. **Verify** request, see next section
 7. **Set up** verified account
-   - If training is required: add user in prod but set account to *blocked*. The account permissions you create in prod will show up in the training environment, but they will be automatically set to active in that environment. 
-   - VAMC accounts: create as blocked in prod with Content creator - VAMC and Content editor roles.
+   - Accounts generally need two roles: creator (for their specific product) and content (editor or reviewer or publisher,in order of least to most permissions). Currently, most new accounts get a creator role and content publisher (except Vet Center editors start with the creator role and content editor). 
+   - Training is required for VAMC, Outreach Hub events, Campaign Landing Pages. Add to both training environment and prod. All accounts start as blocked in prod by default.
+   - Training is not required for Benefits Hubs and Resources and Support (they do their own onboarding). Add these accounts to prod and change the status from blocked to active.
+   - Training is recommended but not required for Vet Centers. Add these accounts to training and prod and change the status in prod from blocked to active. Vet Center editors start with the creator role and content editor.
 8. **Confirm** (or reject) CMS account request
-  - Send confirmation that account was verified
-  - Include next steps and training assignment (if applicable)
-9. **Approve** the account. 
-   - Once the user has completed training and passed any additional criteria, their account is considered approved.
-   - Set the account to *active* in prod to complete
-   - VAMC: Wait until Stan has given the OK (this usually occurs when the VAMC or VISN goes into dual-state or live), then add the publisher role and set to active in prod.
-     
+  - For verified users, confirm account creation and include next steps and training assignment (if applicable)
+  - For unverified users (e.g., VA offices that aren't on Drupal yet), send information about why they aren't eligible for an account yet.
+9. **Training completion** if required
+   - Verify with instructional designer that required training is completed
+   - If completed, set the account to *active* in prod and send prod login instructions
   
 ## CMS account verification
 
@@ -34,48 +33,21 @@
 - Person to contact for verification: Stan Gardner or Lisa Trombley
 - How to reach them: Slack channel vamc-editor-support
 - Training required for prod account activation? Yes.
-- Reference: See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
 
 **Vet Center**
-- Person to contact for verification: Michelle Middaugh or Dave Conlon
+- Person to contact for verification: Michelle Middaugh
 - How to reach them: Slack channel facility-support
-- Training required for prod account activation? no, but instructions for training are sent along with prod instructions
-- Reference: See Slack https://dsva.slack.com/archives/CPQFCQKEH/p1617304591199400
+- Training required for prod account activation? no, but have Michelle send kick-off email with attachments
 
 **Benefits hubs**
 - Person to contact for verification: Randi Hecht and Danielle Thierry
 - How to reach them: Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.
 - Training required for prod account activation? No. (Public Websites team typically does their own training).
-- Reference: See Slack https://dsva.slack.com/archives/C01K37HRUAH/p1617213202088200
 
 **Other products**
 - Slack delivery manager or product manager in CMS Team channel
 
 ----
-
-## Onboarding - Training Needed
-
-1. Request comes in via email, Slack or Jira.
-2. We create a ticket if it hasn't been created.
-3. Acknowledge the request and ask for any missing account info.
-4. If they need training, pass this information to training by assigning the ticket to training in Jira.
-    - If they don’t have VA network access, training can send them youtube video links but we can’t give them training site access
-    - If they do have VA network access, create their account in prod following instructions below (defaults to blocked status), create their account in training environment (because prod account won't update training environment until the next training environment refresh).
-5. Send training instructions.
-   
-
-## Onboarding - No Training Needed/Training Completed
-
-1. Request comes in via email, Slack or Jira.
-2. We create a ticket if it hasn't been created.
-3. Acknowledge the request and ask for any missing account info.
-    - If no training is needed per the product owner/approver, go to the next step. Note: Public Websites handles their own trainings so just create their account. 
-    - If training is needed, assign the ticket to training. This will follow the Training Needed process. The user will be instructed to follow up with their product owner/approver when training is completed.
-4. Activate prod account.
-5. Send prod login instructions.
-
-
-
 ## Prerequisites
 
 
@@ -84,11 +56,7 @@
 Ideally, the user would have requested their account following the instructions at [https://prod.cms.va.gov/help/support/request-a-cms-account](https://prod.cms.va.gov/help/support/request-a-cms-account) except for VAMC users who are sent by Stan.
 
 *   Verify the user’s role. VAMC editors all get VACM content creator and content publisher
-*   Verify their request with product owner (DEPO POC)?
-*   Verify the user’s need (what do they need to do in the CMS so we can assign the appropriate permissions)
-    *   Reviewer - need to review and approve, but not edit content
-    *   Editor - need to be able to make edits, but won’t be publishing content
-    *   Publisher - need to be able to edit, review, and publish content 
+*   Verify their request with product owner (DEPO POC)? 
 *   Verify the user’s Section (see [https://prod.cms.va.gov/help/cms-basics/sections](https://prod.cms.va.gov/help/cms-basics/sections))
 *   Verify VA email address
 *   Verify VA network access or SOCKS proxy
@@ -127,7 +95,7 @@ Follow the Bulk User Import Procedure at https://github.com/department-of-vetera
 
 OR
 
-### Method 3 PIV login to prod (they sign in with PIV, then we edit their roles and sections) - Not currently recommended
+### Method 3 PIV login to prod (they sign in with PIV, then we edit their roles and sections) - Not recommended
 
 1. Once prod account is requested and the request verified with product owner/approver, email them:
     1. Link to prod [https://prod.cms.va.gov/](https://prod.cms.va.gov/)
@@ -167,5 +135,5 @@ Follow the Bulk User Import Procedure at https://github.com/department-of-vetera
 * Process workflow on Mural
 https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc
 
-* Current spreadsheet of user list in training
+* Current spreadsheet of user list in training runbook
 https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097
