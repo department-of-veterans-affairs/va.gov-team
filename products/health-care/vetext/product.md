@@ -11,20 +11,48 @@ In 2020, the VEText Program became a part of the Office of the VA Chief Technolo
 - [Objectives](#objectives)
 - [Team](#team)
 - [Projects](#projects)
+- [Additional Documentation](#additional-documentation)
+
+## User Groups
+
+All VEText initiatives aim to improve the experience for these groups
+
+-   **Veterans & their caregivers** 
+    
+-   **VA Facilities Staff**
+
+## Solution Approach
+
+VEText is a platform for sending SMS messages built upon a complex rules engine.
 
 # Team
 
 ## VEText Team
 
 **Federal Employees**
-- Product Owner:  Shane Elliott 
-- Engineering:  Robert Durkin and William (Andy) McCarthy 
+**Name** | **Role** 
+---|---
+**Shane Elliott** | VA Product Owner
+**Robert Durkin** | VA Lead Engineer
+**William “Andy” Mccarty** | VA Engineer
+
 
 **Product Operations & Support Team (POST)**
-- Product Strategist:  Paras Shah
-- Product Support Lead:  Lindsay Insco
-- Customer Success Manager:  Justin Wowk
-- Training Lead:  David Benson
-- Data Analyst:  Crystal Jones
-- Technical Writer:  Vera Livshin
-- Help Desk Support:  Chance Cusack and Misti Carpenter
+**Name** | **Role** 
+---|---
+**Paras Shah** | Product Strategist
+**Lindsay Insco** | Product Support Lead
+**Justin Wowk** | Customer Success Manager
+**David Benson** | Training Lead
+**Crystal Jones** | Data Analyst
+**David Benson** | Training Lead
+**Vera Livshin** | Technical Writer
+**Chance Cusack** | Help Desk Lead
+**Misti Carpenter** | Help Desk Support 
+
+# Stakeholders
+- VA Profile - Barbara Flowers (VEO)
+- 
+
+
+
