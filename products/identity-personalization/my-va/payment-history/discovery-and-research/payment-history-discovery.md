@@ -32,7 +32,11 @@ Pay debts
 
 
 **Thoughts/Question** 
-- We need to reach out to the mobile app team about their card sort and what they found about finances
+- We need to reach out to the mobile app team about their card sort and what they found about finances.
+- When would a payment section show on the dashboard?
+- Are education payments exactly the same each month? If so, maybe just showing the amount paid each month would be enough in the education section, and any time it gets paid it shows up in the Payment History section.
+- Is having a link to the payment history section enough?
+- How much information do we need to show for a financial section to be valuable to users?
 
 
 ## Meeting with Debt Management team
