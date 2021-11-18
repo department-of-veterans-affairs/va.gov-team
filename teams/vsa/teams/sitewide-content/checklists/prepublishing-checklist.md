@@ -24,3 +24,4 @@ Before publishing a Resources and Support article make sure these steps are also
 - [ ] **Once published:** If the article is the sixth one in a hub to be published, add the "Go to all articles" link at the bottom of the hub section on the landing page.
 - [ ] **Once published:** Add the new article and its CTA button wording to our [Github file of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/rs-cta-button-audit.md).
 - [ ] **Once published:** Add the new article to our [Github file of R&S articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support-article-list.md).
+- [ ] **Once published:** Notify the Content Center Support team in their Slack channel (#vsp-contact-center-support) that we've published a new article. It may be helpful to them for either communicating with Veterans or researching questions. 
