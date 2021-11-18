@@ -66,6 +66,13 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 |[**Community Care (CC) - Appointment Reminders**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends appointment reminder (via SMS) to Veterans for their upcoming community care health care appointment.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/5c0859e0-fffa-4c9d-8df1-dfa50b179685/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 |[**Community Care (CC) - Post Appointment Notifications**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends a SMS one-day after the Veteran's scheduled community care appointment to confirm whether (or not) they attended their appointment.  VA staff can review the responses in the VEText portal.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/56dcdd09-ecf3-4bf3-8c0a-914d70d59313/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 
+### Other Initiatives
+- VEText + VA National Rideshare for COVID-19 Vaccine Appointments
+- Artificial Intelligence (AI)/Machine Learning (ML) Autoresponder 
+- Ad Hoc Mass Messaging Solution
+    - COVID-19 Informational Messages
+
+- 
 ### Backlog
 To view our backlog, visit our [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false).
 
@@ -104,11 +111,15 @@ To view our backlog, visit our [Zenhub Board](https://app.zenhub.com/workspaces/
 - VA OI&T Supported
 - Single Sign-On Internal (SSOi)
 
-## Additional Documentation
+## Additional Documentation and Information
 - [Sharepoint](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx)
 - [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false)
 - [Metrics](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
  - Slack: #notifications-vetext
+ - VEText Email Group:  VEText@va.gov
+ - ServiceNow Assignment Group:  VA VEText Admin
+ - [VASI](https://vac21appvem200.va.gov/SAXT/ip/getpage_common.aspx?ReportFile=System_and_Application_Domain_Defs&ReportName=System&DDID=24491&StyleSheet=%5CStylesheets%5CSystem.xsl&url=stype%253d1%2526sname%253dVAC21DBSVEM200.va.gov%2526encyn%253dVEAR_SA%2526wrkID%253d0)
+ - [Monitoring Service Registry](https://vaww.msr.va.gov/DashboardItem?ID=838)
 
 
 
