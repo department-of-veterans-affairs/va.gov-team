@@ -121,6 +121,17 @@ Potential solution for the unauthenticated experience, would involve a redesign 
 
 ### Before
 
+Global Navigation
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/401a163a248ed18f8c5e79cb0a2810aefde94219/products/global/home-page/Main-nav.png
+
+My VA (Auth Home)
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/401a163a248ed18f8c5e79cb0a2810aefde94219/products/global/home-page/MyVA-current.jpeg
+
+VA.gov Homepage
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/401a163a248ed18f8c5e79cb0a2810aefde94219/products/global/home-page/VA-home-current.png
 
 
 ### After
