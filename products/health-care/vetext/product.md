@@ -69,17 +69,33 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 ### Other Initiatives
 - VEText + VA National Rideshare for COVID-19 Vaccine Appointments
 - Artificial Intelligence (AI)/Machine Learning (ML) Autoresponder 
-- Ad Hoc Mass Messaging Solution
+- Ad Hoc Mass Messaging Solution [on-hold; pending VA Privacy guidance]
     - COVID-19 Informational Messages
+    - Flu Shot Reminders
+    - Women’s Health Messages
+    - Veteran Retention Messages (for PC & MH)
+    - Telehealth Check-In
+    - Mental Health/High-Risk Check-In
+    - Blood Pressure Check
+    - Emergency Notifications (i.e. adverse weather)
+- COVID-19 Keep Me Informed (KMI) Emails
+- Mobile Push Notification Service
+    - VA Flagship Mobile App - VA Healthcare Appointment Reminders
+- VEText API Service
 
-- 
-### Backlog
+### Upcoming Features / Backlog
+- Check-in/Pre-Regristration Integration
+- BVA Appointment Reminders - 2-way Notifications
+- Community Care (CC) - Follow-up with RTC/Community Care Department
+- Pharmacy - Refill (via SMS)
+- I Am Here (IMH) for BVA Facilities
+- Emergency/Adverse Weather Alerts
+- Community Care (CC) - Post-Appointment Survey
+- Direct Scheduling for VHA Health Care Appointments
+- VA Consult/Return to Clinic (RTC) Follow-Up Message
+- I Am Here (IMH) for VBA Facilities
+
 To view our backlog, visit our [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false).
-
-
-|[**Inactive Veterans**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/21356)| Sends text messages to Veterans who have not seen their Primary Care provider (PCP) in the last 18-24 months.
-|[**Vaccine Outreach**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20658)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
-
 
 ## Stakeholders & VA Business Lines/Partners
 
