@@ -35,40 +35,55 @@ Pay debts
 - We need to reach out to the mobile app team about their card sort and what they found about finances
 
 
-**Meeting with Debt Management team**
+## Meeting with Debt Management team
 
-Mikki: Currently working on a content page to bring all of these tools together, it's broken up into what VA owes you + What You owe the VA. This is not currently launched, but it's being worked on. 
+### Current IA
 
-[ADD SCREENSHOT] (from Mikki)
+The current IA is two separate tools doing two separate things.
 
-Current IA:
+- Payment History tool
+- Manage Debt Portal
 
-Payment History tool
-Manage Debt Portal
+They are currently working on a content page to bring all of these tools (financial tools) together, it's broken up into what VA owes you + What You owe the VA. This is not currently launched, but it's being worked on. 
 
-(The team has worked on a static content page to bring all of these pages together, but it maybe isn't the right approach)
+- When will this be launched? (asked mikki via slack, waiting on reply)
+
+![Content page wireframe (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Financial%20Wireframe.png)
+
+The team is concerned that the static content page maybe isn't the right approach.
+
+### From debt team:
+
+**What research can be shared about debt?**
+
+This hasn't been research specifically, it's come from several different studies. 
+
+**What would be the most imporant thing to show from a debt perspective?** 
 
 Knowing the balance and then clicking into the tool directly would satisfy user needs
 - The Balance (currently exists)
 - When it is due (currently exists)
-- Status is a potential thing that could change, and maybe would be included... does this need to live on My VA? Yes, some of them need an action that is not make a payment. (they are the blue boxes)
+- Status is a potential thing that could change, and maybe would be included... does this need to live on My VA? Yes, some of them need an action that is not make a payment. (they are the blue boxes, will add screenshots)
 
-What currently exists on Debt Management Tool:
+**What currently exists on Debt Management Tool:**
 - Balance
-- When it's due
+- When payment due
 
-What is being worked on (will be worked on soon, likely will be done in the early new year/maybe Q1) 
+**What is being worked on (will be worked on soon, likely will be done in the early new year/maybe Q1)** 
 - Status
 - Next Steps
 
-Users will only have 1-3 of the debt cards. Where can they get debt from? 
+Users will only have 1-3 of the debt cards at a time. Where can they get debt from? 
 - Comp & pen 
 - Education (Post-911 Bill, Chap 33, Chap 35)
 
 [ADD SCREENSHOTS] from becca/riley
 
-This hasn't been research specifically, it's come from several different studies. 
+### Thoughts/Questions
 
-Co-pays for health care things, we need to figure that out.
+- Where do users get debt from?
+- How do we handle co-pays for health care things? (that's a separate thing from debt)
+
+
 
 
