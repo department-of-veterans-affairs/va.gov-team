@@ -147,7 +147,7 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
    The following diagram provides some examples of how relationships may overlap between dependents, beneficiaries, and caregivers.
 
-   ![](/Users/elizabethlantz/Desktop/screenshots/dependent-beneficary-caregiver-examples.png)
+   ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/dependent-beneficary-caregiver-examples.png)
 
 10. Beneficiary and caregiver use cases are highest priority for the VA business lines we spoke with.
 
