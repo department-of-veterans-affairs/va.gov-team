@@ -85,8 +85,8 @@ Users will only have 1-3 of the debt cards at a time. Where can they get debt fr
 
 ### Thoughts/Questions
 
-- Where do users get debt from?
 - How do we handle co-pays for health care things? (that's a separate thing from debt)
+- Where would we pull debt information from? 
 
 
 
