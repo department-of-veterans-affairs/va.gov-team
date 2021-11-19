@@ -138,6 +138,23 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/401a163a248ed
 
 ### After
 
+Unauth home page
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/home-page/Unauth-home.png
+
+Auth home page
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/home-page/Auth-home.png
+
+Top tasks
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/home-page/AH-top-tasks.png
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/home-page/AH-top-tasks-apartment.png
+
+Alerts
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/home-page/AH-alerts.png
+
 ---
 
 ## Reference Material
