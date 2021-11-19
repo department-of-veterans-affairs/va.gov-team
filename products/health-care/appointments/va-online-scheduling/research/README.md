@@ -2,7 +2,7 @@
 
 ## Upcoming
 
-* Home page UAT
+* Rescheduling + home page discovery
 
 ## In progress
 
