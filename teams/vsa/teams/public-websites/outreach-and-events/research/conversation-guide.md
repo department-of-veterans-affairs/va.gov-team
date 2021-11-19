@@ -162,11 +162,11 @@ Let's say that you want to try yoga in the new year. Can you find any yoga class
 
 - *Understand that there are multiple occurrences of this event? Yes / No / Unknown*
 
-- *Feedback on "View 12 more occurrences accordion":* 
+- *Feedback on "Find other times for this event":* 
 
 I'd like you to sign up for 2 yoga classes in 2022.
 
-- *Feedback on "View more" button:* 
+- *Feedback on "Check other times" button:* 
 
 - *Feedback on scrolling the growing list of occurrences:* 
 - How many do you want to see in this list?
@@ -239,3 +239,6 @@ Thank you so much again, and enjoy the rest of your day!
 - Download notes
 - Debrief to my spreadsheet
 
+
+
+_Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021._
