@@ -25,7 +25,7 @@
 - The diagram below does not represent all pages within this section, only the general hierarchy and key pages impacted. 
 
 
-![image](https://user-images.githubusercontent.com/20994159/142695006-08793e8f-76e0-4351-8a5f-aa5a2e8911aa.png)
+![image](https://user-images.githubusercontent.com/20994159/142696534-47bc6697-e8ff-4159-995f-a16b035a192d.png)
 
 **Page** | **URL** | **Full Breadcrumb*** | **Notes**
 --- | --- | --- | ---
