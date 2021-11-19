@@ -130,7 +130,7 @@ Added 2021-11-04
   - When a user searches for a valid VA form number that has a downloadable PDF,a form-specific PDF action link is displayed in the search result.  Upon clicking the PDF action link, if the Search landing page modal has been presented to the user with the past 24 hours, and the user has not cleared their cookies, the PDF action link will link directly to the relevant PDF and will not display the PDF modal.
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): https://user-images.githubusercontent.com/68560244/140093362-5180a9d1-58ae-496f-b824-58c79655505c.png 
+  - Prototype (PNG FILE): N/A - depending on the operating system and browser, the PDF for form 10-10EZ will either open in the existing window, open in a new tab, OR start to download.  OS/Browser-specific behavior of the PDF link is not in the scope of this test.
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/?q=10-10ez
