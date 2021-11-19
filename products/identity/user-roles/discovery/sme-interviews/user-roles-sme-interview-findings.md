@@ -1,10 +1,8 @@
 # Non-Veteran User Roles Research Findings
 
-`DRAFT`
-
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**
 
-Liz Lantz (liz.lantz@adhocteam.us), 11/18/2021
+Liz Lantz (liz.lantz@adhocteam.us), 11/19/2021
 
 ## Research Goals
 
@@ -20,7 +18,7 @@ We conducted 30 minute semi-structured interviews over Zoom.
 
 We spoke to subject matter experts (SMEs) at the Veteran's Health Administration (VHA) and Veterans Benefits Administration; a specific list of individuals and areas of expertise is available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/README.md).  
 
-We initially planned to learn about NCA user roles as well, but decided to hold off for the time being since NCA does not have digital products that intersect with VA.gov.
+We initially planned to learn about NCA user roles as well. Per OCTO leadership, we decided to hold off for the time being since we don't have tools relevant to NCA on VA.gov.
 
 ### Research Questions
 
@@ -32,24 +30,23 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
 ## Key Findings
 
-1. A **dependent** is someone who has a legal relationship with the Veteran, and is financially dependent on the Veteran. 
+1. A **dependent** is someone who has a legal relationship with the Veteran, and is financially dependent on the Veteran. Dependents may or may not also be beneficiaries.
 2. A **beneficiary** can be anyone who is the direct recipient of a benefit or service from VA. In VBA, the term is also used to refer to a person the Veteran has named to receive their benefit in the future.
 3. A Veteran's **caregiver** is a person who provides support to the Veteran. Caregivers could be individuals who are officially recognized by the VA, self-identified individuals, or professional caregivers.
-4. A **delegate** role exists in VHA to refer to people who have been assigned delegate authority per the request of a Veteran through the VA online health delegation program.
+4. A **delegate** role exists in VHA to refer to people who have been assigned delegate authority per the request of a Veteran through the VA online health delegation program. VBA does not have a specific delegate role.
 5. **VSO representatives, claim agents and attorneys** are accredited individuals who assist Veterans and their families with claims. VBA and VHA definitions of these roles are consistent.
 6. A **fiduciary** is a person who manages financial affairs for a Veteran. VBA and VHA definitions of this role are consistent.
 7. **Power of Attorney (POA)** refers to a person who the Veteran has given power of attorney to act on their behalf at the VA. 
 8. There are also 3rd-party organizations that receive payments from VBA, such as funeral homes, state cemeteries and nursing homes. 
-9. A person can have multiple connections to the VA. 
+9. A person can have one or more of user roles defined in the previous findings.
 10. Beneficiary and caregiver use cases are highest priority for the VA business lines we spoke with.
 
 ## Finding Details
 
-1. A **dependent** is someone who has a legal relationship with the Veteran, and is financially dependent on the Veteran. 
+1. A **dependent** is someone who has a legal relationship with the Veteran, and is financially dependent on the Veteran. Dependents may or may not also be beneficiaries.
 
    - VHA and VBA recognize spouses, minor children, and adult children who are unable to live independently as dependents.
    - VBA also recognizes parents as dependents; VHA does not.
-   - Dependents can also be a beneficiary (see finding 2), but are not always beneficiaries. 
    - When a dependent's **only connection** to the VA is their dependent status, they wouldn't have a need to see information related to their Veteran (since the Veteran is the recipient of any benefits where the dependent is claimed), and they wouldn't have any benefits of their own to manage. Therefore, it's unlikely they would need their own login for VA.gov when this is the case.
 
 2. A **beneficiary** is anyone who is the direct recipient of a benefit or service from VA. In VBA, the term is also used to refer to a person the Veteran has named to receive their benefit in the future.
@@ -83,18 +80,20 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
    - Claims-related tasks, such as checking the status of a claim, or uploading any requested documentation.
    - Health-care related tasks such as communicating with a provider or refilling prescriptions. This can currently be done online through the health delegate program, but it appears this is not widely known among caregivers.
 
+   There aren't any clear rules about whether a caregiver should be allowed access to a Veteran's information; it's generally determined on a case-by-case basis.
+
    3.5 Secure messaging is currently one of the biggest painpoints for caregivers, since the caregiver can't communicate as themselves (unless they are an official delegate), and can't easily communicate without necessarily including the Veteran. 
 
-4. A **delegate** role exists in VHA to refer to people who have been assigned delegate authority per the request of a Veteran through the VA online health delegation program.
+4. A **delegate** role exists in VHA to refer to people who have been assigned delegate authority per the request of a Veteran through the VA online health delegation program. VBA does not have a specific delegate role.
 
    - A delegate does not have to be a dependent or a beneficiary.
    - Delegates are able to directly access some Veteran health information online, such as upcoming appointments and prescription information, in MHV and participating VA Mobile Apps.  They have their own login credential through ID.me. Two access levels and related tasks were defined in [finding 3.4 from the first phase of our research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/user-roles/discovery/non-veteran-user-roles-discovery-phase-1.md#3-learn-what-roles-exist-for-my-healthevet-mhv).  From a data perspective, the VA knows a person is a delegate based on information from the Identity and Access Management (IAM) program office, and the Master Person Index (MPI).
 
    - A delegate cannot help a Veteran with offline health tasks, such as getting information over the phone.
 
-   A VA recognized Caregiver and a Delegate would likely need to be two different types of access on VA.gov since a VA recognized Caregiver is also a beneficiary that would need to see information about their own benefits.
+   4.1 A VA recognized Caregiver and a Delegate would likely need to be two different types of access on VA.gov since a VA recognized Caregiver is also a beneficiary that would need to see information about their own benefits.
 
-   VHA doesn't use the term "delegate", but [VA Form 21-0845](https://www.va.gov/find-forms/about-form-21-0845/) gives a 3rd party access to information for a Veteran. 
+   4.2 VBA doesn't use the term "delegate", but [VA Form 21-0845](https://www.va.gov/find-forms/about-form-21-0845/) gives a 3rd party access to information for a Veteran. 
 
    - There isn't a special term for a person who is approved through this form.
    - This person is noted in the Veteran record in VBMS as a person VA can talk to regarding specific tasks:
@@ -130,7 +129,7 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
 7. **Power of Attorney (POA)** refers to a person who the Veteran has given power of attorney to act on their behalf at the VA. 
 
-   - This is separate from a healthcare power of attorney, which gives a person authority to make decisions about a Veteran's medical care.
+   - This is separate from a healthcare power of attorney, which gives a person authority to make decisions about a Veteran's medical care. 
 
    - This could be a private attorney or a VSO representative.
    - Typically private attorneys only get involved during a claims appeal and a Veteran is seeking retroactive pay.
@@ -140,14 +139,14 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
    Possible use cases for these users would be to see payment history and status, as well as file claims for reimbursement. However, the SMEs we spoke with all stated they couldn't see any need for these users to log into VA.gov. Burial claims can already be submitted electronically through eBenefits, so it would be worthwhile to look into how this is handled as we migrate functionality to VA.gov.
 
-9. **A person can have multiple connections to the VA.** As we start to think about non-Veteran roles, it's important to recognize that there can be overlap between any of the aforementioned roles. We'll need to consider how a person will be able to switch between roles with one login. Some examples are:
+9. **A person can have one or more of user roles defined in the previous findings.** As we start to think about non-Veteran roles, it's important to recognize that there can be overlap between any of the aforementioned roles. We'll need to consider how a person will be able to switch between roles with one login. Some examples are:
 
    - A Veteran who is a caregiver for their Veteran spouse, and is a fiduciary for their Veteran sibling.
    - A delegate who is also a beneficiary because they're receiving surviving spouse benefits.
 
    The following diagram provides some examples of how relationships may overlap between dependents, beneficiaries, and caregivers.
 
-   ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/dependent-beneficary-caregiver-examples.png)
+   ![](/Users/elizabethlantz/Desktop/screenshots/dependent-beneficary-caregiver-examples.png)
 
 10. Beneficiary and caregiver use cases are highest priority for the VA business lines we spoke with.
 
@@ -168,11 +167,14 @@ We initially planned to learn about NCA user roles as well, but decided to hold 
 
    There is a currently a service request in progress to add a Beneficiary user type to MPI. Once that's in place, it's likely that already have enough data about beneficiaries to provide them with an MVP experience on VA.gov. 
 
+   - We'll need to further explore the beneficiary <> Veteran relationship as it relates to online interaction. This researched focused on a person who already has benefits, and didn't explore the initial application process or the process of applying for new benefits.
    - Since non-Veteran beneficiaries are only eligible for certain benefits, it would be beneficial to provide guardrails to help prevent them from submitting applications for benefits they could never receive. For example, a non-Veteran spouse beneficiary should not be able to submit a claim for disability compensation, but they should be able to file a claim for VA Dependency and Indemnity Compensation.
 
-   The Veteran advocate group would require a more specific breakdown, since different roles within that group would need access to different things. For example, some caregivers would have need broader access to Veteran information than a claim agent. Additional research will be necessary to define user tasks and identify exactly how to break this group down.
+The Veteran advocate group would require a more specific breakdown, since different roles within that group would need access to different things. We recommend prioritizing the caregiver role above other roles in this group, since those other roles currently have systems in place to meet their needs.
 
-   We recommend conducting additional research to identify use cases and outcomes for each of the non-Veteran user groups.
+   Since aren't any clear rules about whether a caregiver should be allowed access to a Veteran's information, there will likely need to be a few different caregiver roles, or a combination of caregiver and access type. Some possibilities could be `Caregiver - Full access` (all benefits and actions), `Caregiver - Health only` (only health tasks), `Caregiver - Other benefits`.
+
+   We recommend conducting additional research to identify use cases, tasks, and outcomes for each of these non-Veteran user groups.
 
 2. Learn more about how we can leverage the existing delegate role and process to give Veteran advocates access to VA.gov.
 
