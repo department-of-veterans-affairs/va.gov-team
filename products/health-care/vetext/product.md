@@ -8,7 +8,7 @@ In early 2018, VEText was selected by the Office of Veterans’ Access to Care (
 
 In 2020, the VEText Program became a part of the Office of the VA Chief Technology Officer’s (OCTO) portfolio.  In addition to appointment reminders, VEText powers digital notifications for several health care (and a few non-healthcare) use cases.      
 
-- [Objectives](#objectives)
+- [User Groups](#user-groups)
 - [Team](#team)
 - [Projects](#projects)
 - [Additional Documentation](#additional-documentation)
@@ -77,7 +77,7 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
     - Telehealth Check-In
     - Mental Health/High-Risk Check-In
     - Blood Pressure Check
-    - Emergency Notifications (i.e. adverse weather)
+    - Emergency/Vulnerable Patient Follow-UpNotifications (i.e. adverse weather)
 - COVID-19 Keep Me Informed (KMI) Emails
 - Mobile Push Notification Service
     - VA Flagship Mobile App - VA Healthcare Appointment Reminders
@@ -89,7 +89,7 @@ VEText is a platform for sending SMS messages built upon a complex rules engine.
 - Community Care (CC) - Follow-up with RTC/Community Care Department
 - Pharmacy - Refill (via SMS)
 - I Am Here (IMH) for BVA Facilities
-- Emergency/Adverse Weather Alerts
+- Emergency/Vulnerable Veterans Follow-Up (i.e. adverse weather/fire, etc.)
 - Community Care (CC) - Post-Appointment Survey
 - Direct Scheduling for VHA Health Care Appointments
 - VA Consult/Return to Clinic (RTC) Follow-Up Message
