@@ -117,5 +117,5 @@ Dec 6, 2021 | Noon - 3 pm, 4 - 8 pm
 - Note-takers:	Perigean
 - Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com)
 
-
-_Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021._
+## Approvals
+Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
