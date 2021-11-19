@@ -168,8 +168,9 @@ I'd like you to sign up for 2 yoga classes in 2022.
 
 - *Feedback on "Check other times" button:* 
 
-- *Feedback on scrolling the growing list of occurrences:* 
-- How many do you want to see in this list?
+- *Feedback on scrolling the growing list of times:* 
+
+- How many do you want to see at a time?
 
 - *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
 
