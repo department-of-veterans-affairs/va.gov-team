@@ -146,7 +146,7 @@ We initially planned to learn about NCA user roles as well. Per OCTO leadership,
 
    The following diagram provides some examples of how relationships may overlap between dependents, beneficiaries, and caregivers.
 
-   ![](/Users/elizabethlantz/Desktop/screenshots/dependent-beneficary-caregiver-examples.png)
+   ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/dependent-beneficary-caregiver-examples.png)
 
 10. Beneficiary and caregiver use cases are highest priority for the VA business lines we spoke with.
 
@@ -170,7 +170,7 @@ We initially planned to learn about NCA user roles as well. Per OCTO leadership,
    - We'll need to further explore the beneficiary <> Veteran relationship as it relates to online interaction. This researched focused on a person who already has benefits, and didn't explore the initial application process or the process of applying for new benefits.
    - Since non-Veteran beneficiaries are only eligible for certain benefits, it would be beneficial to provide guardrails to help prevent them from submitting applications for benefits they could never receive. For example, a non-Veteran spouse beneficiary should not be able to submit a claim for disability compensation, but they should be able to file a claim for VA Dependency and Indemnity Compensation.
 
-The Veteran advocate group would require a more specific breakdown, since different roles within that group would need access to different things. We recommend prioritizing the caregiver role above other roles in this group, since those other roles currently have systems in place to meet their needs.
+   The Veteran advocate group would require a more specific breakdown, since different roles within that group would need access to different things. We recommend prioritizing the caregiver role above other roles in this group, since those other roles currently have systems in place to meet their needs.
 
    Since aren't any clear rules about whether a caregiver should be allowed access to a Veteran's information, there will likely need to be a few different caregiver roles, or a combination of caregiver and access type. Some possibilities could be `Caregiver - Full access` (all benefits and actions), `Caregiver - Health only` (only health tasks), `Caregiver - Other benefits`.
 
@@ -189,4 +189,3 @@ The Veteran advocate group would require a more specific breakdown, since differ
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md)
 - [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/conversation-guides)
 - [Notes from sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/session-notes)
-
