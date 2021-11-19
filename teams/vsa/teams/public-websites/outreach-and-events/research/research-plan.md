@@ -17,6 +17,7 @@ This research supports the following [OCTO objectives](https://github.com/depart
 
 ### Veteran Journey
 Outreach & Events fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when Veterans find VA events to attend throughout 
+- Serving in and separating from the military
 - Living civilian life 
 - Retiring and aging 
 
