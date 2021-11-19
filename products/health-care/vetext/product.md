@@ -12,8 +12,8 @@ In 2020, the VEText Program became a part of the Office of the VA Chief Technolo
 - [Solution Approach](#solution-approach)
 - [Team](#team)
 - [Projects](#projects)
-- [Stakeholders & VA Business Lines/Partners](#stakeholders & VA-Business Lines/Partners)
-- [Integrations and VA Security & Compliance](#Integrations and VA Security & Compliance) 
+- [Stakeholders & VA Business Lines/Partners](#stakeholders-&-VA-Business-Lines/Partners)
+- [Integrations and VA Security & Compliance](#Integrations-and-VA-Security-&-Compliance) 
 - [Additional Documentation](#Additional-Documentation-and-Information)
 
 ## User Groups
@@ -27,6 +27,56 @@ All VEText initiatives aim to improve the experience for these groups
 ## Solution Approach
 
 VEText is a platform for sending SMS messages built upon a complex rules engine.
+
+## Objectives
+
+----
+#### 1: How might we reduce missed or no-show healthcare appointments?
+**Objective**:
+Optimize use of VHA appointment slots.
+
+**Key Results**:
+Enable veterans to take an active role in scheduling their healthcare
+ - Decrease number of appointments missed
+ - Increase utiliztion of appointment slots
+----
+
+#### 2: How might we better track veterans’ appointments outside of the VA ecosystem?
+
+**Objective**:
+Increase accuracy of “Community Care” reporting
+
+**Key Results**:
+Giving veterans a simple way to provide updates about their status.
+ - Increase number of community care appointments captured
+-----
+#### 3: How might we help veterans retain their VHA benefits?
+
+**Objective**:
+Reduce the number of Veterans who lose their benefits after 24 months of inactivity
+
+**Key Results**:
+Allow easy scheduling of primary care appointments
+ - Increase number of veterans who retain benefits
+---
+#### 4: How might we increase transparency into prescription tracking & renewals?
+
+**Objective**:
+Improve visibility into prescription shipping
+
+**Key Results**:
+Help veterans receive their medications.
+ - Reduce support volume (i.e. inbound phone calls, etc.) for VHA pharmacies
+---
+#### 5: How might we give veterans access to available vaccine appointments?
+
+**Objective**:
+Get veterans vaccinated (both flu & COVID-19) 
+
+**Key Results**:
+More veterans receiving vaccinations 
+ - Increase percentage of veterans receiving recurring vaccinations YOY
+ - Increase percentage of veterans receiving non-recurring vaccinations
 
 ## Team
 
