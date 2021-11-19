@@ -8,7 +8,6 @@
 - Standing agenda: 
   - Migration
   - VAMC Scaffolding
-  - Training
   - Account administration
   - Dual state and product launches
   - How we work
