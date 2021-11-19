@@ -87,11 +87,10 @@ Before we get to the tasks you are helping us with today, a few things I want to
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
   - [Link to VHA services list](https://docs.google.com/spreadsheets/d/1rd7ms6umKBq71SaLH2wdaofEZLoA3F-U2wRBUgj6QNg/edit#gid=1899971175)
 - **[Moderator questions to keep in mind]**
-  - What does [service] mean to you? [Services that aren't clear:]
-    - Registry exams
-    - Veteran connections
+  - What does [service] mean to you?
   - Does this service/cateogry need to be explained more clearly?
   - How else might you describe it the service/category?
+  - [Has Veteran used their facility's website? ie. Pittsburgh has been out for a while, which means people may be more familiar with it]
 
 ** **MAKE SURE PARTICIPANTS CLICK "FINISH" TO CAPTURE DATA** **
 
