@@ -5,19 +5,21 @@
 OCTODE will develop a vision for cross product, end-to-end Veteran task successes which are supported by VA.gov and integrate with the existing VA ecosystem or products.
 
 Content that needs to live on an unauthenticated experience:
+- Sign up/Sign in
 - Browse/Manage Benefits
 - Announcements
 - Alerts
 
 Content that needs to live on an authenticated experience:
 - Overview/Benefit Summary
-- Browse/Manage Benefits*
-- My VAMC
-- Announcements*
 - Notifications
 - Profile/My Profile
-- Alerts*
-*Indicates content that could live in either experience
+- My VAMC
+- Browse/Manage Benefits*
+- Announcements*
+- Alerts  
+
+   *Indicates content that would live in both auth and unauth
 
 ## Problem Statement
 Today, our team builds product on VA.gov with narrow and deep focus on specific user outcomes. We need to take the opportunity to step-back and view the ecosystem holistically from a user experience perspective. 
