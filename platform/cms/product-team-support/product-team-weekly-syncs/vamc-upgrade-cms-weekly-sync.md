@@ -18,10 +18,10 @@
 </details>
 
 ## November 19
-- Traning status
+- Training status
 - Help desk
 - Url alias for "lgbt" vs "lgbtq"
-- VAMC migrations 
+- VAMC migrations (Lovell!)
 - System health service "Care we provide" update
 
 
