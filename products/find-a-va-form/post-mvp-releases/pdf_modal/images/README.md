@@ -1,6 +1,6 @@
 Use case images for modal test cases
 
-S-F Step 1 ![image](https://user-images.githubusercontent.com/73354907/142690914-a514510b-3070-4a38-ad76-06187307407a.png)
+S-F Step 1 ![image](https://user-images.githubusercontent.com/73354907/142691689-83604643-9476-4947-970f-8d822a84d479.png)
 
 S-F Step 2 ![image](https://user-images.githubusercontent.com/73354907/142691094-d11d0eb2-3670-4acb-a847-642c8ed3f12c.png)
 
