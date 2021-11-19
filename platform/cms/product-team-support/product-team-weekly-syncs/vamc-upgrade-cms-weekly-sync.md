@@ -17,6 +17,15 @@
 
 </details>
 
+## November 19
+- Traning status
+- Help desk
+- Url alias for "lgbt" vs "lgbtq"
+- VAMC migrations 
+- System health service "Care we provide" update
+
+
+
 ## November 5
 - training environment URL change management
   - cut-off to be thanksgiving weekend Friday, messaging to go out Monday 22 Nov
