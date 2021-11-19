@@ -10,6 +10,7 @@ In 2020, the VEText Program became a part of the Office of the VA Chief Technolo
 
 - [User Groups](#user-groups)
 - [Solution Approach](#solution-approach)
+- [Objectives and Key Results](#Objectives-and-Key-Results)
 - [Team](#team)
 - [Projects](#projects)
 - [Stakeholders & VA Business Lines/Partners](#stakeholders-&-VA-Business-Lines/Partners)
@@ -28,7 +29,7 @@ All VEText initiatives aim to improve the experience for these groups
 
 VEText is a platform for sending SMS messages built upon a complex rules engine.
 
-## Objectives
+## Objectives and Key Results
 
 ----
 #### 1: How might we reduce missed or no-show healthcare appointments?
@@ -118,6 +119,8 @@ More veterans receiving vaccinations
 |[**Community Care (CC) - Self-Scheduling Retrieval**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends a text message to Veterans - who have opted-in for self-scheduling - to collect their community care appointment information.  VA staff can review the responses in the VEText portal.  |[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/918e5fbe-5011-46df-8494-036f23d01500/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 |[**Community Care (CC) - Appointment Reminders**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends appointment reminder (via SMS) to Veterans for their upcoming community care health care appointment.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/5c0859e0-fffa-4c9d-8df1-dfa50b179685/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 |[**Community Care (CC) - Post Appointment Notifications**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/department-of-veterans-affairs/va.gov-team/20663)|Sends a SMS one-day after the Veteran's scheduled community care appointment to confirm whether (or not) they attended their appointment.  VA staff can review the responses in the VEText portal.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/56dcdd09-ecf3-4bf3-8c0a-914d70d59313/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**COVID-19 Vaccine - Outreach**](TBD)|Allows VA staff to notify Veterans of vaccine availablity with instructions to call for a COVID-19 vaccine appointment.  This is a one-way message.|[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/1b02cd5d-5c54-4b1e-8d7c-bcc3979c82f3/ReportSection3396dfaf1a91579302ca?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
+|[**COVID-19 Vaccine - Direct Scheduling**](TBD)|Allows Veterans to schedule their COVID-19 vaccine appointment via SMS.  This is a two-way text messaging solution, which requires VA staff to configure their COVID-19 vaccine clinics in the VEText portal. |[**Metrics**](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/abb7a88d-2f43-4877-b0a3-d754840b4765/ReportSection?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)|
 
 ### Other Initiatives
 - VEText + VA National Rideshare for COVID-19 Vaccine Appointments
