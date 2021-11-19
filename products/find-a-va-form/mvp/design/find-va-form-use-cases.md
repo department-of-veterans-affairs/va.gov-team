@@ -258,6 +258,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - Unauth; no login credentials needed
 
 * **Link to TestRail Test Case**
+   -  [C12403](https://dsvavsp.testrail.io/index.php?/cases/view/12403)
 
 ### Use Case D-G
 #### Downloading PDF Form within 24 hours of seeing the PDF modal
@@ -273,6 +274,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - Unauth; no login credentials needed.
 
 * **Link to TestRail Test Case**
+  - [C12404](https://dsvavsp.testrail.io/index.php?/cases/view/12404)
 
 <hr>
 
