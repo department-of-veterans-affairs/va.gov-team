@@ -90,6 +90,7 @@ Before we get to the tasks you are helping us with today, a few things I want to
   - What does [service] mean to you?
   - Does this service/cateogry need to be explained more clearly?
   - How else might you describe it the service/category?
+  - [Don't necessarily point out something that a participant didn't point out themselves]
   - [Has Veteran used their facility's website? ie. Pittsburgh has been out for a while, which means people may be more familiar with it]
 
 ** **MAKE SURE PARTICIPANTS CLICK "FINISH" TO CAPTURE DATA** **
