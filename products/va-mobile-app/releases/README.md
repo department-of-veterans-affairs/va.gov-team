@@ -6,7 +6,6 @@ Working backwards from when users see a new version of the app on their phones, 
 - Tickets tagged to a release on ZH (PM)
 - Release ticket created (automatic)
 - Updates to app store images, descriptive text, and What's New content (UX and PM)
-    - 
     - Changed in repo [here](link)
 - Sign offs from PM, PO, and QA (more on what goes into this sign off [here](link to other doc))
 - Release branch created (Eng)
