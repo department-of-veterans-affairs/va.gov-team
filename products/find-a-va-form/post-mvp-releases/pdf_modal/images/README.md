@@ -1,4 +1,4 @@
-Use case images
+Use case images for modal test cases
 
 S-F Step 1 ![image](https://user-images.githubusercontent.com/73354907/142690914-a514510b-3070-4a38-ad76-06187307407a.png)
 
