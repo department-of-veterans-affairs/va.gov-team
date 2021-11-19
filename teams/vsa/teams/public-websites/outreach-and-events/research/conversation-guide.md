@@ -241,5 +241,5 @@ Thank you so much again, and enjoy the rest of your day!
 - Debrief to my spreadsheet
 
 
-
-_Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021._
+## Approvals
+Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
