@@ -12,8 +12,9 @@ In 2020, the VEText Program became a part of the Office of the VA Chief Technolo
 - [Solution Approach](#solution-approach)
 - [Team](#team)
 - [Projects](#projects)
-- [Stakeholders & VA Business Lines/Partners](#stakeholders-&-va-business-lines/partners) 
-- [Additional Documentation](#additional-documentation)
+- [Stakeholders & VA Business Lines/Partners](#stakeholders-&-VA-Business-Lines/Partners)
+- [Integrations and VA Security & Compliance](#Integrations and VA Security & Compliance) 
+- [Additional Documentation](#Additional-Documentation-and-Information)
 
 ## User Groups
 
