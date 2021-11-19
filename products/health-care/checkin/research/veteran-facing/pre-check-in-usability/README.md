@@ -24,7 +24,7 @@
 | P09 | Wednesday, October 27 3:00pm - 4:00pm |  | Android | Veteran | Male | White or Caucasian | 55 - 64 | Some college (no degree) | Army | NC | Rural area | None |  |
 | P10 (no show) | Wednesday, October 27 4:00pm - 5:00pm |  | Android | Veteran | Female | Black or African American | 35 - 44 | Some college (no degree) | Navy | GA | Major metropolitan area | None |  |
 | P11  (no show)| Monday, November 1 10:30am -11:30am | No show | iOS | Veteran | Male | White or Caucasian | Unknown | High school diploma or equivalent (for ex: GED) | Marines | CA | Major metropolitan area | Some | identified cognitive impairments and/or functional disabilities |
-| P12 | Thursday, October 28 11:00am -12:00pm |  | iOS | Veteran | Female | White or Caucasian | 45 - 54 | Master's degree | Army, Marine Corps | IN | Rural area | None |   |
+| P12 (no show) | Thursday, October 28 11:00am -12:00pm |  | iOS | Veteran | Female | White or Caucasian | 45 - 54 | Master's degree | Army, Marine Corps | IN | Rural area | None |   |
 | P13 | Thursday, October 28 3:00pm -4:00pm |  | Android | Veteran, Veteran's family member | Female | Black or African American | 25 - 34 | Bachelor's degree | Army | GA | Rural area | Some |   |
 | P14 (no show) | Thursday, October 28 4:00pm – 5:00pm |  | iOS | Veteran | Male | Black or African American | 25 - 34 | Some college (no degree) | Army | MD | Rural area | None |  identified cognitive impairments and/or functional disabilities |
 | P15 (no show) | Friday, October 29 9:00am -10:00am | No show | Android | Veteran | Female | White or Caucasian | 55 - 64 | Master's degree | Air Force | NM | Major metropolitan area | Most |   |
