@@ -9,8 +9,10 @@ In early 2018, VEText was selected by the Office of Veterans’ Access to Care (
 In 2020, the VEText Program became a part of the Office of the VA Chief Technology Officer’s (OCTO) portfolio.  In addition to appointment reminders, VEText powers digital notifications for several health care (and a few non-healthcare) use cases.      
 
 - [User Groups](#user-groups)
+- [Solution Approach](#solution-approach)
 - [Team](#team)
 - [Projects](#projects)
+- [Stakeholders & VA Business Lines/Partners](#stakeholders-&-va-business-lines/partners) 
 - [Additional Documentation](#additional-documentation)
 
 ## User Groups
@@ -133,6 +135,7 @@ To view our backlog, visit our [Zenhub Board](https://app.zenhub.com/workspaces/
 - [Metrics](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
  - Slack: #notifications-vetext
  - VEText Email Group:  VEText@va.gov
+ - [VEText Feature Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/vetext/VEText%20Features%20V.1.2.2.docx)
  - ServiceNow Assignment Group:  VA VEText Admin
  - [VASI](https://vac21appvem200.va.gov/SAXT/ip/getpage_common.aspx?ReportFile=System_and_Application_Domain_Defs&ReportName=System&DDID=24491&StyleSheet=%5CStylesheets%5CSystem.xsl&url=stype%253d1%2526sname%253dVAC21DBSVEM200.va.gov%2526encyn%253dVEAR_SA%2526wrkID%253d0)
  - [Monitoring Service Registry](https://vaww.msr.va.gov/DashboardItem?ID=838)
