@@ -115,7 +115,7 @@ What do you think you can do from this page?
 
   
 ### Task 2: [Filter by Date--One-time event] - 5 minutes
-Imagine that you're looking for a new job, and you heard that your local VA might soon be having an event for job seekers. How would you find out if that's the case?
+Imagine that you're looking for a new job, and you heard that your local VA might soon be having an event to help Veterans looking to change careers. How would you find out if that's the case?
 
 *(When see dropdown date filter options)* Could you stop for a minute? What are your thoughts on those options?
 
@@ -145,9 +145,9 @@ If you wanted to attend this event, what would you do? *(Register button / _____
 
 Can you please go back to the previous page? *[Event detail]* 
 
-Is there anything else that you would do on this page?
+Once you've registered for this event, is there anything else you would like to do or expect to do?
 
-- *Add to Calendar / Share on FB / Twitter / ______________*
+- *No / Add to Calendar / Share on FB / Twitter / ______________*
 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
 Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up for in January?
@@ -195,7 +195,7 @@ Now you can go ahead and do it.
 
 ### Task 5: [Filter by Date--Custom date range] - 5 minutes
 
-I'd like you to imagine that you're planning a trip to New Orleans next summer, and you want to see if there are any Independence Day events that you could attend while you're there. You'll be there July 1-5.
+Let's assume that you live in New Orleans, and you have friends from the service joining you for Independence Day next summer. I'd like you to see if there are any Independence Day events that you could attend together while they're here July 1st through 5th.
 
 - *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
 
