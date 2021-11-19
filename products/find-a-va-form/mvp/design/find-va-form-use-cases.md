@@ -119,6 +119,7 @@ Added 2021-10-19 - Note that searching for a valid form that is associated with 
   - https://staging.va.gov/find-forms/?q=10-10ez
 
 * **Link to TestRail Test Case**
+   - [C12402](https://dsvavsp.testrail.io/index.php?/cases/view/12402)
 
 ### Use Case S-G
 Added 2021-11-04
@@ -135,7 +136,7 @@ Added 2021-11-04
   - https://staging.va.gov/find-forms/?q=10-10ez
 
 * **Link to TestRail Test Case**
-  
+     - [C12403](https://dsvavsp.testrail.io/index.php?/cases/view/12403)
 ----
 
 
