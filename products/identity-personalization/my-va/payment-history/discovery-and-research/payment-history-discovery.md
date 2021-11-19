@@ -63,7 +63,7 @@ They are currently working on a content page to bring all of these tools (financ
 
 The team is concerned that the static content page maybe isn't the right approach.
 
-### From debt team:
+### From the Debt Team:
 
 **What research can be shared about debt?**
 
@@ -97,4 +97,7 @@ Users will only have 1-3 of the debt cards at a time. Where can they get debt fr
 
 
 
+### From the Mobile Team:
+
+Participants split up education and health care payments naturally, people expected to see GI bill balance/payments in an education section and anything related to health care in a health care section. 
 
