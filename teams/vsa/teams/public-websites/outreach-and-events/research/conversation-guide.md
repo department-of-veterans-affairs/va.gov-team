@@ -172,6 +172,8 @@ I'd like you to sign up for 2 yoga classes in 2022.
 
 - How many do you want to see at a time?
 
+- *Clicked Register button? (doesn't work)*
+
 - *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
 
 ### Task 4: [Filter by Date--Custom date] - 5 minutes
