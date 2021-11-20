@@ -152,7 +152,7 @@ Once you've registered for this event, is there anything else you would like to 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
 Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up for in January?
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
 
 - *Option selected: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1**) / Specific date / Custom date range / Past events*
 
@@ -178,7 +178,7 @@ I'd like you to sign up for 2 yoga classes in 2022.
 
 Now I'd like you to see if there are any VA activities on Memorial Day next year, which is May 30. 
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
 
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Specific date** / Custom date range / Past events*
 
@@ -198,7 +198,7 @@ Now you can go ahead and do it.
 
 Let's assume that you live in New Orleans, and you have friends from the service joining you for Independence Day next summer. I'd like you to see if there are any Independence Day events that you could attend together while they're here July 1st through 5th.
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
 
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / **Custom date range** / Past events*
 
