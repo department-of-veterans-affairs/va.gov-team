@@ -69,6 +69,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## Letters
 
+- 11/17/21: "I did not have high expectations of this app. I'm going to be honest. However, I have found it to be extremely helpful!! Every letter you could need is here at your fingertips. Pleasantly surprised." (Apple store review)
+
 11/9/21: Users who share screenshots of disability rating on Reddit:
 - [Reddit link 4](https://www.reddit.com/r/VeteransBenefits/comments/qm4tkk/thank_you_gentlemen/)
 - [Reddit link 5](https://www.reddit.com/r/Veterans/comments/qlou79/breath_of_relief_thank_you_everyone_lurked_long/)
@@ -82,7 +84,9 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## Disability claim status
 
-11/11/21: "...The only improvement I would like to see is an ability to reresh the status of a disability claim. For instance it its 4:30 in the afternoon now but it is showing my most recent status from when I checked it at 10pm yesterday. It seems you can only check it once per 24 hours with the app. This is fine most of the time but when they are getting close to publishing a final decision, I'd like to refresh more often. As it stands, this is now pushing me back to the website daily." (Apple store review)
+- 11/20/21: "100 p&t from BDD claim with no VSO, thanks to this Sub...I got out in October of this year and got the correspondence yesterday through the VA phone app..." [Reddit link](https://www.reddit.com/r/VeteransBenefits/comments/qybpst/100_pt_from_bdd_claim_with_no_vso_thanks_to_this/)
+
+- 11/11/21: "...The only improvement I would like to see is an ability to reresh the status of a disability claim. For instance it its 4:30 in the afternoon now but it is showing my most recent status from when I checked it at 10pm yesterday. It seems you can only check it once per 24 hours with the app. This is fine most of the time but when they are getting close to publishing a final decision, I'd like to refresh more often. As it stands, this is now pushing me back to the website daily." (Apple store review)
 
 
 ## Internal/Stakeholder Feedback
