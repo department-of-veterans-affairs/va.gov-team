@@ -47,11 +47,11 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 ### Desired User Outcomes
 
-- Users will more easily be able to find the alert for the MVP use case and to act on it more quickly than if we did not build this initial on-site notification functionality.
+- Users will more easily be able to find the alert for the MVP use case and to act on it more quickly than if we did not have on-site notification functionality.
 
 ### Undesired User Outcomes
 
-- Users are confused as to why there is only a notification for one type of information, and wonder why they don't see notifications for other action items.
+- Users are confused as to why they don't see notifications for other circumstances.
 
 ## Business outcomes
 
@@ -66,7 +66,10 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 ## Measuring success
 
-OKRs and KPIs TBD
+Specific OKRs and KPIs TBD
+
+- % of users that see this notification who click it
+- Increase in task completion based on baseline metrics
 
 ## Solution approach
 
