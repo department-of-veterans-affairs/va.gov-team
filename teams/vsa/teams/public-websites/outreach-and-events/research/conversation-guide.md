@@ -172,7 +172,7 @@ I'd like you to sign up for 2 yoga classes in 2022.
 
 - How many do you want to see at a time?
 
-- *Clicked Register button for Jan & Feb yoga class? (doesn't work)*
+- *Clicked Register button for both Jan & Feb yoga classes? (doesn't work)*
 
 - *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
 
