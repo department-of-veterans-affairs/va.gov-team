@@ -1,4 +1,4 @@
-# Resources and Support product outline (WIP draft)
+# Resources and Support product outline 
 
 This is the folder for all background, historical, discovery, and status documentation for this product.
 
