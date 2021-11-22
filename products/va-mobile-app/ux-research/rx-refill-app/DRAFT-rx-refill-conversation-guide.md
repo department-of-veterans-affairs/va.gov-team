@@ -19,10 +19,12 @@
 ### Project-specific setup
 
 - [ ] Please make sure to have the VA Rx Refill app downloaded to your device.
-  - Apple App Store link to the app
-  - Google Play Store link to the app
-- [ ] Please sign in with your MyHealtheVet username and password
-- [ ] Please download the Zoom application to your phone
+  - [Apple App Store link to Rx Refill app](https://apps.apple.com/us/app/rxrefill/id1227459679)
+  - [Google Play Store link to Rx Refill app](https://play.google.com/store/apps/details?id=com.rxr.production)
+- [ ] We're going to ask you to sign in with your MyHealtheVet account, please make sure you have your MyHealtheVet username and password handy.
+- [ ] Please download the Zoom application to your phone.
+  - [Apple App Store link to Zoom app](https://itunes.apple.com/us/app/id546505307)
+  - [Google Play store link to the Zoom app](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
 ## Intro - 5 minutes
 
@@ -50,8 +52,9 @@ Before we get into prescription refills, I'd like to ask a few questions about y
 
 1. Sign in
 2. Find out how many refills remain?
-3. Get your medication list to bring to a doctor's appointment
-4.
+3. Get your medication list to bring to an appointment
+4. Contact your doctor about your medications
+5.
 
 
 ## First Task: Sign in to the app - 5-10 minutes
@@ -91,7 +94,7 @@ Before we get into prescription refills, I'd like to ask a few questions about y
 
 1. What are the things that were difficult or annoying about the things we asked you to help us test today?
 2. What are the things that work well or that we should be careful about changing?
-3. 
+3.
 99. Any questions for me?
 
 ## Thank-You and Closing - X minutes
