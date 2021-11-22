@@ -54,8 +54,8 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 ### Desired Business Outcomes
 
-- We'll create a unified experience through the VANotify platform. 
-- It will be easier for VA business lines to get necessary action items in front of users.
+- To create a unified experience through the VANotify platform. 
+- Once the notification infrastructure is in place, it will be easy for VA business lines to get necessary action items in front of users with little lift.
 - We'll be able to build more nuanced logic to get messages in front of certain audiences (eg. show a notification to all people who have a BVS hearing within the next 30 days). 
 - We'll be able to show notifications on more than one page, or in a central location (eg. a notification center) that is accessible from all pages.
 
