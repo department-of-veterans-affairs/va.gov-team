@@ -165,25 +165,61 @@ State _(dropdown)_
 
 ## Step 1 of 6: Veteran Information
 
-Gender (*Required) _(dropdown)_ Female, Male
+What sex were you assigned at birth? (*Required) 
+
+Why we ask for this information _(more info)_
+
+Population data shows that a person’s sex can affect things like their health risks and the way their body responds to medications. Knowing your sex assigned at birth, along with other factors, helps your health care team use data to:
+
+- Interpret your lab results
+- Prescribe the right dose of medications
+- Recommend health prevention screenings
+
+We also collect this information to better understand our Veteran community. This helps us make sure that we’re serving the needs of all Veterans.
+
+_(end more info)_
+
+Female 
+
+Male
+
+[<< Back] [Continue >>]
+
+## Step 1 of 6: Veteran Information
 
 Marital status (*Required) _(dropdown)_ Married, Never Married, Separated, Widowed, Divorced
 
-**Which categories best describe you?**
+Why we ask for this information _(more info)_
 
-You may check more than one. _(checkboxes)_
+We want to make sure we understand your household’s financial situation.
 
-Spanish, Hispanic, or Latino
+We’ll ask about your income. If you’re married, we also need to understand your spouse’s financial situation. This allows us to make a more informed decision about your application.
+
+_(end more info)_
+
+[<< Back] [Continue >>]
+
+## Step 1 of 6: Veteran Information
+
+What is your race, ethnicity, or origin? (Please check all that apply.) 
+
+_hint text_ Information is gathered for statistical purposes only.
+
+_(checkboxes)_
 
 American Indian or Alaskan Native
 
+Asian
+
 Black or African American
+
+Hispanic, Latino, or Spanish
 
 Native Hawaiian or Other Pacific Islander
 
-Asian
-
 White
+
+Prefer not to answer
 
 [<< Back] [Continue >>]
 
@@ -309,19 +345,60 @@ You don’t have to upload these documents. But it can help us verify your milit
 
 ## Step 3 of 6: VA Benefits
 
-**Current compensation**
+**Current compensation from VA**
 
-Which type of VA compensation do you currently receive?(*Required) _(radio buttons)_
+A disability compensation (pay) provides monthly payments to Veterans with service-connected disabilities. You may get this benefit if you got sick or injured, or had a condition that got worse, because of your active-duty service. We assign a disability rating based on the severity of your disability.
 
+Do you receive VA disability compensation? (*Required)
 
-Service-connected disability pay for a 10%, 20%, 30%, or 40% disability rating
+Why we ask for this information _(more info)_
 
+We use this information to help us decide these 4 things:
 
-Service-connected disability pay for a 50% or higher disability rating
+- If you can fill out a shorter application, **and**
+- What types of VA health care benefits you’re eligible for,**and**
+- How soon we enroll you in VA health care, **and**
+- How much (if anything) you’ll have to pay toward the cost of your care
 
-VA pension
+We give veterans with service-connected disabilities the highest priority.
 
-I don't receive any VA pay
+_(end more info)_
+
+ _(radio buttons)_
+
+Yes, for a service-connected disability rating of up to 40%
+
+Yes, for a service-connected disability rating of 50% or higher
+
+No
+
+[<< Back] [Continue >>]
+
+## _(If "no" to previous question)_ Step 3 of 6: VA Benefits 
+
+**Current compensation from VA**
+
+Our Veterans Pension program provides monthly payments to certain wartime Veterans. To get a Veterans Pension, you must meet certain age or disability requirements and have income and net worth certain limits.
+
+Do you receive a Veterans pension from the VA? (*Required)
+
+Why we ask for this information _(more info)_
+
+We use this information to help us decide these 3 things:
+
+- What types of VA health care benefits you’re eligible for,and
+- How soon we enroll you in a VA health care, and
+- How much (if anything) you’ll have to pay toward the cost of your care
+
+If you have a Veterans Pension, you may pay a lower copay, or no copay, for certain types of care and services.
+
+_(end more info)_
+
+ _(radio buttons)_
+
+Yes
+
+No
 
 [<< Back] [Continue >>]
 
