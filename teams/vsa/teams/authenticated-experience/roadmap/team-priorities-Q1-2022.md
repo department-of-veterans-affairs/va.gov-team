@@ -2,7 +2,7 @@
 
 ## My VA 
 
-[Add payment information to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/README.md)
+### [Add payment information to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/README.md)
 
 (Overview & why we are doing this work)
 
@@ -17,7 +17,7 @@ We are aware there may need to be updates to My VA as a result of the following 
 
 ## On-site notifications
 
-[MVP build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md)
+### [MVP build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md)
 
 (Overview & why we are doing this work)
 
@@ -25,7 +25,7 @@ We are aware there may need to be updates to My VA as a result of the following 
 
 ## Profile
 
-[Update personal information section of the profile: Add LGBTQ data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
+### [Update personal information section of the profile: Add LGBTQ data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
 
 (Overview & why we are doing this work)
 
