@@ -1,11 +1,11 @@
 
-# Research Plan for VA Mobile Team, Rx Refill, 10/13/21
+# Research Plan for VA Mobile Team, Rx Refill, 11/22/21
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.*
 
 ## Background
 The VA Health & Benefits App was released in July and has been slowly rolling out to the Veteran population on the Apple and Google app stores. A common request in pre-release research, and post launch Veteran feedback has been for Rx Refill functionality. We're doing some research to better understand the existing stand alone Rx Refill app and explore how we might expose Rx Refill functionality to Veterans using authenticated mobile apps.
 
-[Link to product brief](url goes here).
+[VA: Health and Benefits Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md).
 
 ### OCTO Objectives
 
@@ -23,35 +23,36 @@ Are there moments that matter?
 ## Research Goals
 What are you trying to learn from this research?
 
-1. What are the usability wins and challenges of the existing Rx Refill mobile app?
+1. Understand the Veteran experience using the Rx Refill app as it exists today.
+2. Better understand the whole picture of how Veterans and caretakers manage prescriptions across online and offline touch points?
+
+
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-This study is one of three research efforts to build a complete picture of the trade-offs with different approaches to making Rx Refill avaialble to Veterans on mobile devices. This study will give us a clear picture of how Veterans can navigate Rx Refill today.
+This study is one of two research efforts to build a complete picture of the trade-offs with different approaches to making Rx Refill available to Veterans on mobile devices. This study will give us a clear picture of how Veterans can navigate Rx Refill today.
+- **Usability of VA Rx Refill app**
+- Accessibility of VA Rx Refill app (separate study)
 
 ### Research questions
+- What native app opportunities are there to improve the experience of managing prescriptions?
 - What is helpful about using the existing Rx Refill mobile app?
-
-- What is challenging about using the existing Rx Refill mobile app?
-- Is it helpful for this to continue to be a distinct application or should this feature be bundled with other related tools?
+- What is challenging about using the existing Rx Refill mobile app? How does this compare to using MHV?
 - What short and medium term steps can we take to improve on the status quo?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study.
-- Remember to constrain the hypothesis to the goals of your study!
-
+- We think that we may be able to address Veteran needs with seamless handoff from the Flagship app to the Rx Refill.
+- We think that there are significant improvements that will need to be made to the Rx Refill app to support this path.
 
 
 We suspect that the Veterans will have requests to improve the app along a few lines.
 
 - Authentication
-- Key features that require tranfer to the MHV website (and authenticating again)
+- Key features that require transfer to the MHV website (and authenticating again)
 - Accessibility considerations
 - General fit and finish (typography, alert and warning presentation, etc.)
 
@@ -61,7 +62,6 @@ We suspect that the Veterans will have requests to improve the app along a few l
 We plan to conduct moderated usability testing with 5–8 Veterans.
 
 We will ask a mix of experienced and (Rx) novice Veterans to walk us through some specific tasks and then follow up with any other ways that they use the app in their lives.
-
 
 
 ### Location
@@ -81,7 +81,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-We plan to recruit a range of Veterans with mobile devices who have VA medications that they need to manage prescription refills for. We would like to have both experienced and novice users of the VA Rx Refill app. We plan an inclusive recruitment, but we plan to address users of assistive technology in a separate study.
+We plan to recruit a range of Veterans with mobile devices who have VA medications that they need to manage prescription refills for. We would like to have both experienced and novice users of the VA Rx Refill app. We plan an inclusive recruitment, but intend to address users of assistive technology in a separate study.
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
 
@@ -97,7 +97,7 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 - Are you able to log into MyHealtheVet to manage those prescriptions?
   - Yes qualifies
 - Do you use the VA Rx Refill mobile app?
-  - Would like a mix of yes and no answers to theis question
+  - Would like a mix of yes and no answers to this question
 
 **Secondary criteria (nice-to-haves)**
 
@@ -108,16 +108,21 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 
 ## Timeline
 We'd like to start sessions in a week
-
 ### Prepare
-We are testing a prioduction app that is already available through the app stores
+We are testing a production app that is already available through the app stores
 
 Please indicate the date and name of a mock participant for a pilot session.
-* Pilot participant email: ambika.roos@adhoc.team
-* Date and time of pilot session: TBD
+* Pilot participant email:
+* Date and time of pilot session: 11/29/2021
 
 ### Research sessions
 What dates do you plan to do research?
+Tuesday 11/30/2021
+Thursday 12/2/2021
+Friday 12/3/2021
+
+Tuesday 12/7/2021 (if needed)
+Thursday 12/8/2021 (if needed)
 
 ### Length of sessions
 We think these sessions will take less than an hour
@@ -129,10 +134,9 @@ Please request enough dates and time slots for the number of requested participa
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Alex Taylor
-- Research guide writing and task development (usually but not always same as moderator):	alex@adhoc.team
-- Participant recruiting & screening:
-- Project point of contact:	leanna.miller@va.gov
-- Participant(s) for pilot test:	ambika.roos@adhoc.team
+- Research guide writing and task development (usually but not always same as moderator):	Alex Taylor
+- Participant recruiting & screening: Perigean
+- Project point of contact:	Leanna Miller
+- Participant(s) for pilot test:
 - Note-takers:
 - Observers:
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
