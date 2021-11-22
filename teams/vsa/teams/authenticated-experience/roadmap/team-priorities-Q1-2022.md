@@ -1,4 +1,4 @@
-# Authenticated experience team priorities through Q1 2022 (January - March) 
+# Auth. experience team priorities through Q1 2022 (January - March) 
 
 ## My VA 
 
