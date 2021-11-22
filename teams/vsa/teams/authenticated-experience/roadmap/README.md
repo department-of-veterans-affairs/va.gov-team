@@ -1,6 +1,6 @@
 # Autheneticated experience roadmap
 
-**Last updated February 21, 2021**
+**Last updated November 21, 2021**
 
 The authenticated experience team works on two sections of the website:
 
@@ -14,6 +14,8 @@ The VA.gov profile is a section of the website that allows veterans to view and 
 - Contact information
 - Military information
 - Direct deposit information
+- Notification preferences
+- Account security
 - Connected apps (**Note**: This integration is managed by the lighthouse team. Our team only manages minor updates to the UI as needed.)
 
 ## My VA dashboard
