@@ -1,6 +1,6 @@
 # Project outline: Add payment/financial info to the My VA dashboard
 
-Last updated October 8, 2021
+Last updated November 22, 2021
 
 ### Communications
 
@@ -12,7 +12,7 @@ Last updated October 8, 2021
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
+|Heather Justice|Product Manager| heather.justice@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
