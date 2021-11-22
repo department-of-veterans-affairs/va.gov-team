@@ -2,7 +2,7 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**
 
-Liz Lantz (liz.lantz@adhocteam.us), 11/19/2021
+Liz Lantz (liz.lantz@adhocteam.us), 11/22/2021
 
 ## Research Goals
 
@@ -160,32 +160,38 @@ We initially planned to learn about NCA user roles as well. Per OCTO leadership,
 
 ## Recommendations
 
-1. As a starting point, explore two primary non-Veteran user groups for VA.gov:
+### As a starting point, explore three primary non-Veteran user groups for VA.gov:
 
-   - Beneficiaries
-   - Veteran advocates (people who do work on behalf of the veterans - caregivers, VSO representatives, claim agents, attorneys, and fiduciaries).
+- Beneficiaries
+- Caregivers
+- Delegates
 
-   There is a currently a service request in progress to add a Beneficiary user type to MPI. Once that's in place, it's likely that already have enough data about beneficiaries to provide them with an MVP experience on VA.gov. 
+We recommend conducting additional research to identify use cases, tasks, and outcomes for each of these non-Veteran user groups. Since there are currently systems in place to meet the needs of VSOs, claims agents, attorneys, and fiduciaries, we don't recommend prioritizing those roles immediately.
 
-   - We'll need to further explore the beneficiary <> Veteran relationship as it relates to online interaction. This researched focused on a person who already has benefits, and didn't explore the initial application process or the process of applying for new benefits.
-   - Since non-Veteran beneficiaries are only eligible for certain benefits, it would be beneficial to provide guardrails to help prevent them from submitting applications for benefits they could never receive. For example, a non-Veteran spouse beneficiary should not be able to submit a claim for disability compensation, but they should be able to file a claim for VA Dependency and Indemnity Compensation.
+#### Beneficiaries
 
-   The Veteran advocate group would require a more specific breakdown, since different roles within that group would need access to different things. We recommend prioritizing the caregiver role above other roles in this group, since those other roles currently have systems in place to meet their needs.
+There is a currently a service request in progress to add a Beneficiary user type to MPI. Once that's in place, it's likely that already have enough data about beneficiaries to provide them with an MVP experience on VA.gov. 
 
-   Since aren't any clear rules about whether a caregiver should be allowed access to a Veteran's information, there will likely need to be a few different caregiver roles, or a combination of caregiver and access type. Some possibilities could be `Caregiver - Full access` (all benefits and actions), `Caregiver - Health only` (only health tasks), `Caregiver - Other benefits`.
+- We'll need to further explore the beneficiary <> Veteran relationship as it relates to online interaction. This researched focused on a person who already has benefits, and didn't explore the initial application process or the process of applying for new benefits.
+- Since non-Veteran beneficiaries are only eligible for certain benefits, it would be beneficial to provide guardrails to help prevent them from submitting applications for benefits they could never receive. For example, a non-Veteran spouse beneficiary should not be able to submit a claim for disability compensation, but they should be able to file a claim for VA Dependency and Indemnity Compensation.
 
-   We recommend conducting additional research to identify use cases, tasks, and outcomes for each of these non-Veteran user groups.
+### Caregivers
 
-2. Learn more about how we can leverage the existing delegate role and process to give Veteran advocates access to VA.gov.
+There aren't any clear rules about whether a caregiver should be allowed access to a Veteran's information, so there will likely need to be a few different caregiver roles, or a combination of caregiver and access type. Some possibilities could be `Caregiver - Full access` (all benefits and actions), `Caregiver - Health only` (only health tasks), `Caregiver - Other benefits`.
 
-   A Veteran can already name an individual to have online access to their MHV health information through the delegation process.  With more research, we can understand what this delegate experience is like today on VA.gov (if a delegate logs in with their MHV credential), and how it may be extended to non-health tasks such as managing compensation claims and appeals. 
+### Delegates
 
-   The existing delegation process is managed at the higher VA level (not VHA or VBA), and our understanding is that it will require significant effort to expand it. Carnetta Scruggs has significant background information on this and is eager to work with our team on efforts to increase delegation tools. 
+A Veteran can already name an individual to have online access to their MHV health information through the delegation process.  With more research, we can understand what this delegate experience is like today on VA.gov (if a delegate logs in with their MHV credential), and how it may be extended to non-health tasks such as managing compensation claims and appeals. 
 
-3. Conduct research to understand existing needs and applications for VSO representatives, claim agents, attorneys and fiduciaries. From what we've heard so far, there are gaps in the current applications that cause these users to develop workarounds or just not use them at all. Interviews will be critical in understanding the current UX for these user roles and how we might be able to support them on VA.gov.  It'll also be helpful to look into the existing applications to better understand the tasks users are expected to complete versus what they're actually doing.
+The existing delegation process is managed at the higher VA level (not VHA or VBA), and our understanding is that it will require significant effort to expand it. Carnetta Scruggs has significant background information on this and is eager to work with our team on efforts to increase delegation tools. 
+
+### Conduct additional research to understand existing needs and applications for VSO representatives, claim agents, attorneys and fiduciaries. 
+
+From what we've heard so far, there are gaps in the current applications that cause these users to develop workarounds or just not use them at all. Interviews will be critical in understanding the current UX for these user roles and how we might be able to support them on VA.gov.  It'll also be helpful to look into the existing applications to better understand the tasks users are expected to complete versus what they're actually doing.
 
 ## Resources
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md)
 - [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/conversation-guides)
 - [Notes from sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/session-notes)
+
