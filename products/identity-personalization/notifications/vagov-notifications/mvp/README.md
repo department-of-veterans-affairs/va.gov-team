@@ -1,4 +1,6 @@
-# Alerts & notifications on VA.gov ("On-site Notifications")
+# Project outline: On-site notifications MVP
+
+**Update**
 
 Last updated October 1, 2021
 
