@@ -47,28 +47,22 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 ### Desired User Outcomes
 
-- VA.gov users will be able to find and complete necessary tasks more quickly.
-- As a result, VA.gov users may receive benefits or other outcomes more quickly.
-- VA.gov users may also more easily avoid unideal outcomes if we can get information in front of them more quickly (eg. updating the number of dependents they have so their compensation payments are correct).
+- Users will more easily be able to find the alert for the MVP use case and to act on it more quickly than if we did not build this initial on-site notification functionality.
 
 ### Undesired User Outcomes
 
-- Confusion or lack of syncing between on-site notifications/action items and email, text, or mail communications (data integrity). We can avoid this by building on the VANotify platform to ensure a synchronous experience between email, text, and notifications on VA.gov.
-- An overwhelming amount of notifications makes it so that this update feels more like noise than a helpful tool.
+- Users are confused as to why there is only a notification for one type of information, and wonder why they don't see notifications for other action items.
 
 ## Business outcomes
 
 ### Desired Business Outcomes
 
-- We'll create a unified experience through the VANotify platform. 
-- It will be easier for VA business lines to get necessary action items in front of users.
-- We'll be able to build more nuanced logic to get messages in front of certain audiences (eg. show a notification to all people who have a BVS hearing within the next 30 days). 
-- We'll be able to show notifications on more than one page, or in a central location (eg. a notification center) that is accessible from all pages.
+- Create a unified experience through the VANotify platform. 
+- Build the infrastructure for on-site notifications so that we can easily leverage this infrastructure in the future.
 
 ### Undesired Business Outcomes
 
-- This tool becomes a bandaid for bad information architecture and navigation.
-- This tool is over-utilized and results in more noise than guidance.
+- The MVP for some reason is not scalable to future use cases.
 
 ## Measuring success
 
