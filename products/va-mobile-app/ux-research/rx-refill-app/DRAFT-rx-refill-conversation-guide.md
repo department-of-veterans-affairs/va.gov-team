@@ -51,53 +51,73 @@ Before we get into prescription refills, I'd like to ask a few questions about y
 - Are there any things that make this more difficult than you would like?
 
 1. Sign in
-2. Find out how many refills remain?
+2. Find out how many refills remain
 3. Get your medication list to bring to an appointment
 4. Contact your doctor about your medications
-5.
+5. Do you have any refills that you need to order?
 
 
 ## First Task: Sign in to the app - 5-10 minutes
 
-- Step 1
-- Step 2
+- Please open the Rx Refill app on your device
+  - If already signed in: Does that always go so quickly? Do you ever have any difficulty with signing in?
+
+## Bonus Task: Refill a prescription – 5–10 minutes
+
+- Do you have any prescriptions that you need to order a refill for?
+  - **If so**, would you mind letting us watch while you do that?
+
+### Things to look out for:
+
+- Needing external reference
+- Any points of friction or frustration
+
+
+## Second Task: Find out how many refills you have left on for a medication - 5-10 minutes
+
+- Please pick one of your medications and check to see how many refills you have left.
+  - What would you do if the answer was zero?
+  - How often do you do need to check on refill status?
+    - How do you usually do that?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- What kind of switching around between tools or modes do they need to do?
 
-## Second Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
+## Third Task: Get a list of your medications - 5–10 minutes
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Please show me how you would get a list of your medications if you needed it.
+  - What kind of situations do you need to do this in?
+  - What do you do next to use this list?
+  - Do you have medications from outside the VA? How do you manage them all?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Things about the list that are confusing
+  - Things missing from the list
+  - Duplication
+  - Hard to understand language or labels
 
-## Post-Task Interview - X minutes
+
+
+## Fourth Task: Contact your doctor with a question about medications - 5–10 minutes
+
+- If you had any questions or needed help about a medication, what would you do?
+  - Are there any things the app could do to make this easier for you?
+  - Anything **VA** could do to make this easier?
+
+
+## Post-Task Interview - 5–10 minutes
 
 1. What are the things that were difficult or annoying about the things we asked you to help us test today?
 2. What are the things that work well or that we should be careful about changing?
-3.
+3. Are there any things that you wish the app did that you have to do some other way?
+
+
 99. Any questions for me?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing – 3 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to improve tools like this one.
 
