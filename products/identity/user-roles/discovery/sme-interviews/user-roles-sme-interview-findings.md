@@ -123,7 +123,7 @@ We initially planned to learn about NCA user roles as well. Per OCTO leadership,
 6. A **fiduciary** is a person who manages financial affairs for a Veteran. VBA and VHA definitions of this role are consistent.
 
    - A Veteran can select their own fiduciary, but they need to be approved by the VA.  The fiduciary would manage benefit related payments on behalf of the Veteran. It is possible that a fiduciary would be assigned to a non-Veteran beneficiary who is receiving payments from the VA.
-   - VBA has a Fiduciary Program that assigns a Veteran a fiduciary if they have been deemed unable to manage their financial affairs and don't have a family member who can serve as a fiduciary. These fiduciaries are referred to as "Professional fiduciaries" in VBA documentations . 
+   - VBA has a Fiduciary Program that assigns a Veteran a fiduciary if they have been deemed unable to manage their financial affairs and don't have a family member who can serve as a fiduciary. These fiduciaries are referred to as "Professional fiduciaries" in VBA documentation. 
    - Along with VSO representatives, claim agents and attorneys, this user type can be considered a Veteran advocate - someone who is doing work on behalf of a Veteran. 
    - **VBMS FID** is a VA system that was recently expanded to meet the needs of fiduciaries, and would likely be a good starting point to understand tasks for these users.
 
@@ -152,7 +152,7 @@ We initially planned to learn about NCA user roles as well. Per OCTO leadership,
 
     - MHV prioritizes the VA patient needs above all else, whether that patient is a Veteran or non-Veteran. Non-Veteran VA patients are uncommon, but do exist. One example could be a Veteran with PTSD has a spouse who is receiving mental health services at the VA because of a condition brought on by coping with the Veteran's PTSD.
     - VBA Pension and Office of Business Integration stated that providing survivors access to their benefit information was most important to their business lines.
-    - VBA Compensation stated the ability to mangage VA education benefits for survivors and dependents (also called Chapter 35).
+    - VBA Compensation stated the ability to manage VA education benefits for survivors and dependents (also called Chapter 35).
     - From the Caregiver perspective, giving caregivers the ability to complete health tasks is most important:
       - Accessing the Veteran's health records
       - Managing appointments
@@ -194,4 +194,5 @@ From what we've heard so far, there are gaps in the current applications that ca
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/user-roles-sme-research-plan.md)
 - [Conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/conversation-guides)
 - [Notes from sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/session-notes)
+- [Findings powerpoint deck](https://governmentcio.sharepoint.com/:p:/r/sites/VSATeam/Shared%20Documents/Design%20%26%20Research/Authenticated%20Experience/user-roles-research-findings.pptx?d=wba2461d7c6af4e5d9cd8efd94f94bb5d&csf=1&web=1&e=JiwdFt)
 
