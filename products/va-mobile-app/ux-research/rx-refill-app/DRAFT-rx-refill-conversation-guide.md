@@ -115,7 +115,7 @@ Before we get into prescription refills, I'd like to ask a few questions about y
 1. What are the things that were difficult or annoying about the things we asked you to help us test today?
 2. What are the things that work well or that we should be careful about changing?
 3. Are there any things that you wish the app did that you have to do some other way?
-
+4. What, if any, other VA apps do you use?
 
 99. Any questions for me?
 
