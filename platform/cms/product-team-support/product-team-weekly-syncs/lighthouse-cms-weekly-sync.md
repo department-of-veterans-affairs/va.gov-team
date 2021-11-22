@@ -29,6 +29,19 @@
 </details>
 
 
+## Monday, November 22, 2021
+* Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
+  * Dave Conlon to follow up with Stan on URL updating process.
+  * Potentially looking for update on regular cadence.
+  * How can CMS/LH get notified as early as possible of these things, James to poke with VAST folks
+    * James talked to VAST awaiting response - Update?
+* Updating guidelines / KB
+  * Joe and Josh reviewed and updated the two tables
+  * Will talk to Michelle about creating ticket for Facilities backlog to create templates for e-mail links for making update to vet center info - Did we?
+* Discuss Ethans changes
+* Operational Hours Special Instructions
+
+
 ## Monday, November 15, 2021
 * Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
   * Updates?  Group went offline to discuss.
