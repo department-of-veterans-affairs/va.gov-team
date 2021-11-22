@@ -1,3 +1,6 @@
+**Update to reflect overall on-site notifications goals/strategy**
+
+
 # Alerts & notifications on VA.gov ("On-site Notifications")
 
 Last updated October 1, 2021
