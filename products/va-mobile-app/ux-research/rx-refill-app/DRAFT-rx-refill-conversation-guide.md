@@ -34,6 +34,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take less than an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **We are going to be talking about your experience with VA prescriptions** If you are uncomfortable sharing your screen with your medications on it we can talk through that part. Please don't feel any pressure to share any personal information you are not comfortable with us viewing.
 - **If for any reason and at any time you want to stop the session, please let me know.**
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
@@ -66,6 +67,7 @@ Before we get into prescription refills, I'd like to ask a few questions about y
 
 - Do you have any prescriptions that you need to order a refill for?
   - **If so**, would you mind letting us watch while you do that?
+    - How do you keep track of when to do this?
 
 ### Things to look out for:
 

@@ -24,18 +24,18 @@ Are there moments that matter?
 What are you trying to learn from this research?
 
 1. Understand the Veteran experience using the Rx Refill app as it exists today.
-2. Better understand the whole picture of how Veterans and caretakers manage prescriptions across online and offline touch points?
+2. Better understand the whole picture of how Veterans and caretakers manage prescriptions across online and offline touch points.
 
 
 
 *Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.*
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-This study is one of two research efforts to build a complete picture of the trade-offs with different approaches to making Rx Refill available to Veterans on mobile devices. This study will give us a clear picture of how Veterans can navigate Rx Refill today.
+This study is one of three research efforts to build a complete picture of the trade-offs with different approaches to making Rx Refill available to Veterans on mobile devices. This study will give us a clear picture of how Veterans can navigate Rx Refill today.
 - **Usability of VA Rx Refill app**
 - Accessibility of VA Rx Refill app (separate study)
+- Mechanics of handoff from app to app
 
 ### Research questions
 - What native app opportunities are there to improve the experience of managing prescriptions?
@@ -44,8 +44,8 @@ This study is one of two research efforts to build a complete picture of the tra
 - What short and medium term steps can we take to improve on the status quo?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- We think that we may be able to address Veteran needs with seamless handoff from the Flagship app to the Rx Refill.
+
+- We think that we may be able to address Veteran Rx needs with seamless handoff from the Flagship app to the existing Rx Refill app.
 - We think that there are significant improvements that will need to be made to the Rx Refill app to support this path.
 
 
