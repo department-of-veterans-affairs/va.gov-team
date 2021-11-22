@@ -1,7 +1,5 @@
 # Project outline: On-site notifications MVP
 
-**Update**
-
 Last updated November 22, 2021
 
 ### Communications
