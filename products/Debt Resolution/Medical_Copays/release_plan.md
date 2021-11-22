@@ -12,8 +12,8 @@
 ## 🌀 Phase I:  User Acceptance Testing (UAT) - moderated production testing
 
 ### Planning:
-- Desired date range or test duration: **Between November 17- 31**
-- Desired number of users: **12 Veterans**
+- Desired date range or test duration: **Between December 6-9**
+- Desired number of users: **10 Veterans**
 - How you'll recruit the right production test users: **Veterans who meet the criteria will be recruited through Perigean**
 - How you'll conduct the testing: **30 minute zoom sessions**
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: **The Medical Copay Tool will be live on production behind a feature flag**
@@ -29,7 +29,7 @@
 ## 🌀 Phase II: Staged Rollout - unmoderated production testing
 
 ### Planning
-- Desired date range: **[12/01/2021 - 12/04/2021]**
+- Desired date range: **[12/15/2021 - 12/17/2021]**
 - How will you make the product available in production while limiting the number of users who can find/access it: **The Medical Copay Tool will be live on production behind a feature flag**
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
@@ -74,7 +74,7 @@ _NOTE: Proceeding to 100% Go Live will be dependent on the # of errors and UX ch
 ## 🌀 Go Live!
 
 ### Planning:
-- Desired date:  **December 1, 2021**
+- Desired date:  **December 15, 2021**
 - Post-launch KPI 1: xx lorem ipsum (will be added soon, currently under discussion) 
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
