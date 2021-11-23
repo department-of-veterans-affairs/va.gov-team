@@ -139,6 +139,8 @@ Now you can go ahead and look for events that could help you find a new job.
 
 - *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Specific date / Custom date range / Past events*
 
+- *Any comments on scrolling events in All upcoming w/o any pagination? Y / N*
+
 - *Did they click the "filter events" button? Y / N*
 
 *(When see event detail page)* What are your impressions of what you see here?
