@@ -28,7 +28,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
   - 1 MSA Lead
   - 1 MSA Supervisor (same person as St. Charles County)
   - 1 Clinic Manager
-- We also observed a few Veterans checking in on a kiosk as staff assisted them. We did not engage Veterans or ask them questions.
+  - We also observed a few Veterans checking in on a kiosk as staff assisted them. We did not engage Veterans or ask them questions.
 
 - At St. Charles County VA Clinic, we conducted interviews with and observed the following staff:
   - 3 MSAs
