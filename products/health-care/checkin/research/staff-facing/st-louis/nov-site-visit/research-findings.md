@@ -127,7 +127,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 - Staff believe some no shows or Veterans coming onsite at incorrect times or days is partially due to ignoring current appointment notifications.
   - Staff mentioned that it might be better to review demographic information every so often and not at every appointment.
 - LPNs call about a week prior to an appointment and ask a lot of the same questions that are planned for pre-check-in.
-- One clinic manager stated that they would not stop their LPNS from making certain pre-visit phone calls without medication reconciliation and clinical reminders being a part of pre-check-in.
+- One clinic manager stated that they would not stop their LPNs from making certain pre-visit phone calls without medication reconciliation and clinical reminders being a part of pre-check-in.
 
 **All staff found it valuable to know when a Veteran completed pre-check-in, started check-in, and completed check-in via mobile check-in. They also wanted to know if they needed to review demographic or insurance information with the Veteran.**
 - Pre-check-in started was the only status that some staff thought wouldn’t be valuable to them.
