@@ -1,57 +1,75 @@
-# [DRAFT] Caregiver, Sign as a Representative Research Findings
+# Research Findings: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021s
 **Digital Services Veterans Affairs (DSVA), VSA, Caregiver Team**<br>
 
-Shawna Hein (shawna@adhocteam.us), Dené Gabaldón (dene.gabaldon@adhocteam.us), 04/20/2021
+Dené Gabaldón (dene.gabaldon@adhocteam.us), 11/23/2021
 
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research-plan.md).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-research%20plan.md)
 ## Research Goals 
 
 The goals of this user research study are to: 
 
-- Validate the usability of the updated representative workflow.
-- Test the usability of the "upload a document" content and understand what types of documents the user would upload.
-- Determine if the cognitive understanding of Primary Family Caregiver versus Secondary Family Caregivers is improved.
+- Better understand Caregivers' mental model of the types of proof of legal representation they are accustomed to providing
+- Better understand how Caregivers think about the nomenclatures of different types of legal representative documents
+- Better understand Caregivers' familiarity of health care-specific legal documents
+- Validate content comprehension of the list of documents to select from for document upload
+- Validate that the new copy and flow leads to more accepted documents uploaded
 
 ## Research Methodology 
 
-We conducted 5 remote moderated usability sessions via Zoom using the Perigean contract. This method allowed us to conduct a task-based usability test in staging to assess if Caregivers and Veterans can easily navigate through the sign as a representative workflow.
+Mixed-method interview and mental model: open-ended questions, directed storytelling, provide ratings on a scale, and be asked to talk through mockups.
+
+
+Tools: Zoom, [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)
+
+For more details, please see: [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/content-comprehension-conversation%20guide.md)
+
+Recruiting: Perigean contract
 
 ### Who we talked to
 
-- 1 Veteran who has a Primary Caregiver
-- 1 Veteran who is also a Primary Caregiver (assists husband who is a Veteran) 
-- 3 Primary Caregivers 
+- 7 Primary Caregivers 
 
 - Gender:
-  - Female: 5
+  - Female: 7
 
-- Device used during study:
-  - Mobile: 1
-  - Desktop: 4
+- Part of the Program of Comprehensive Assistance for Family Caregivers
+  - Yes: 2
+  - No, denied: 2
+  - No, unaware of the program: 1
+  - No, no reason given: 2
 
 - Age:
-  - 25-34: 2
-  - 35-44: 1
-  - Unknown: 2 
+  - 35-44: 2
+  - 45-54: 1
+  - 55-64: 1
+  - Unknown: 3 
 
 - Education:
   - Some college (no degree): 1
-  - Master's degree: 3
-  - Unknown: 1
+  - Bachelor's degree: 1
+  - Master's degree: 2
+  - Unknown: 3
 
 - Geographic locations:
-  - Urban: 3
+  - Urban: 5
   - Rural: 2
+
+- Race, ethnicity
+  - Black or African American: 2
+  - White or Caucasian: 2
+  - Mixed (Asian and White or Caucasian): 1
+  - Unknown: 2
 
 
 ### Research Questions
 
 The research questions we sought to address: 
 
-- Are users confused by any particular aspect of the representative workflow?
-- Does the current representative workflow stop users from completing the form?
-- Do the changes to the Primary Family Caregiver versus Secondary Family Caregivers display improve or hinder understanding?
-- What types of documents does the user plan to upload?
+- How do Caregivers know what type of proof to provide in any given situation that they will be signing on behalf of a Veteran?
+- What is Caregivers' mental model of the different types of legal representative documents? (specifically those that have a health care stipulation)
+- Does the updated copy and flow provide the information needed in order for the Caregiver to make a confident decision of how to answer the questions and what document to upload?
+- Is that the correct decision (acceptable document is uploaded when relevant)?
+- Does the question "Who will sign this application for the Veteran?" create a blocker because the Caregiver thinks that being a legal representative is a requirement for the Caregiver program?
 
 ## Key Findings
 
@@ -130,14 +148,14 @@ In the future
 
 ## Appendix
 ### Conversation guide
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-conversation%20guide.md)
 
 ### Interview transcripts
-[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/session-notes) 
+[Mural board session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/session-notes) 
 
 ### Pages and applications used
-[Staging](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
+[Mural board template](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)
 
 ### Other supporting documents created
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research-plan.md)
-- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/Research%20readout.pdf)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-research%20plan.md)
+- [Research Findings Presentation PDF](
