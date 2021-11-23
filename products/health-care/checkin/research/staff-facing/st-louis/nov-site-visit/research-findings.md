@@ -37,11 +37,11 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
   - 1 Clinic Manager
 
 ### About Franklin County VA Clinic
-![IMG_2220](https://user-images.githubusercontent.com/66287082/143082411-c792a2e3-8ad9-4dde-a4de-e7d76aa1b2db.jpg)
+![Waitingroom](https://user-images.githubusercontent.com/66287082/143084408-59a454b0-9b42-4e90-9088-c62de7ead72e.jpg)
 *Waiting room with COVID screener*
 
-![IMG_2223](https://user-images.githubusercontent.com/66287082/143082447-21cbfd5a-d0fc-469c-937f-e10f3251d941.jpg)
-*Check-in counter with 2 MSAs - UX researcher shown in photo*
+![Counter](https://user-images.githubusercontent.com/66287082/143084453-3e673bb4-3578-4a4e-b3cb-96c12af122fc.jpg)
+*Check-in counter with 2 MSAs*
 
 ![IMG_2224](https://user-images.githubusercontent.com/66287082/143082525-15f1a0fd-b127-4eb0-ae27-5a108493ac54.jpg)
 *1 kiosk currently in use*
