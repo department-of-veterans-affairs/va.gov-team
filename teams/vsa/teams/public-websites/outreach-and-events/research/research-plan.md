@@ -56,8 +56,6 @@ We will conduct remote moderated usability research sessions via Zoom. Research 
 - *Observer: Angela Fowler will observe sessions with participants using a screen reader*
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
 - [Link to prototype](url goes here)
 
