@@ -53,6 +53,18 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 - An hour away from the main St. Louis VAMC, not super close to other VA locations, and in a more rural location.
 
 ### About St. Charles County VA Clinic
+![IMG_6670](https://user-images.githubusercontent.com/66287082/143084723-f628c076-4816-488f-b5df-602baa1a5364.jpg)
+*Waiting room with 1 kiosk currently in use*
+
+![IMG_6681](https://user-images.githubusercontent.com/66287082/143084814-7984d53c-1619-4245-93b7-f443fa752ff9.jpg)
+*Check-in counter with 2 MSAs*
+
+![IMG_6674](https://user-images.githubusercontent.com/66287082/143084867-b4411bd7-6971-46c4-a5a6-805cd630df76.jpg)
+*Not a lot of wall space for the check-in poster*
+
+![IMG_2237](https://user-images.githubusercontent.com/66287082/143084944-bfcdc970-4809-43bb-a3b7-efd0b9a488b8.jpg)
+*In building with other businesses*
+
 - One waiting room for 4 primary care providers and 9 other specialties, such as physical therapy and labs.
 - A larger, younger and more tech-savvy patient population than Franklin with better cell reception and closer to St. Louis.
 
@@ -135,6 +147,10 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
   - A summary of the Veteran’s diagnosis and what was discussed at the appointment are handwritten by providers on this sheet of paper. 
     - A list of referrals for additional appointments are also listed on this sheet.
   - At the end of the appointment, the Veteran leaves with this paper.
+
+![IMG_6725](https://user-images.githubusercontent.com/66287082/143085061-d4682c3a-c4ca-49a4-ba86-925339f4f22f.jpg)
+![IMG_2236](https://user-images.githubusercontent.com/66287082/143085121-57a1178d-3072-4898-b11d-9f2f5387972e.jpg)
+*Images of Franklin’s routing sheet and the folders where MSAs place the printouts. The clinical staff pull the paperwork out of the folders when they come to get the Veteran.*
 
 ### Pilot Site Location Feedback
 **The MSA Supervisor and Clinic Manager suggested that St. Charles might be a better pilot site due to better cell reception and a younger/more tech-savvy patient population.**
