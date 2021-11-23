@@ -31,6 +31,12 @@
 - Training to edit national content for Jessica and Barb
 - Routing process for name change requests ("official")
 - operational special instructions - implementation in CMS and FE
+- Process for requesting whitelisting of valid urls causing broken link alerts
+- NCA facility status 
+ - what does it take to make this happen?
+ - user credentials
+ - request fulfillment 
+ 
 
 ## November 10
 
