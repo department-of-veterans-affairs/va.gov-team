@@ -90,9 +90,8 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ## Timeline
 
 ### Prepare
-
-* Pilot participant email: Dave Sukharan (dave.sukharan@adhocteam.us)
-* Date and time of pilot session: Nov 29 or 30 at time TBD
+* Pilot #1: Nov 29 3:30-4:30 pm ET with Keith Adkins (keith.adkins@adhocteam.us)
+* Pilot #2: Nov 30 2:30-3:30 pm ET with Dave Sukharan (dave.sukharan@adhocteam.us)
 
 ### Research sessions
 Dec 1 - Dec 6, 2021 
@@ -102,7 +101,7 @@ Dec 1 - Dec 6, 2021
 
 ### Availability
 
-Team Availability | Time (EST)
+Team Availability | Time (ET)
 ------------------|--------------
 Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
 Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
@@ -113,9 +112,9 @@ Dec 6, 2021 | Noon - 3 pm, 4 - 8 pm
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Participant for pilot test:	Dave Sukharan (dave.sukharan@adhocteam.us)
+- Participants for pilot test:	(noted above)
 - Note-takers:	Perigean
-- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com)
+- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com), Jim Adams (james.adams@gcio.com)
 
 ## Approvals
 Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
