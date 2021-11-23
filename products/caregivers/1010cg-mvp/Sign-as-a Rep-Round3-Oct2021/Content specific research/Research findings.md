@@ -73,7 +73,13 @@ The research questions we sought to address:
 
 ## Key Findings
 
-1. The re
+1. Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
+2. Participants think about what the legal representative documentation can do more (eg. make medical decisions) more than the form name itself
+3. Often the ability for the Veteran to sign for themself/ meke medical decisions or not depends on the day
+4. Participants feel like there is too much information given
+     - Participants do like that "VA cannot accept these documents" list is provided
+5. Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork
+6. Participants feel like the alert that if the wrong paperwork is provided there will be a delay/rejection is very negative
 
 
 ## Details of Findings
