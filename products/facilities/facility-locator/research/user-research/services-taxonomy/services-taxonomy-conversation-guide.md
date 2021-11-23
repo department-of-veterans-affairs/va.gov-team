@@ -48,16 +48,15 @@ Before we get to the tasks you are helping us with today, a few things I want to
 
 ## Warm-up [5 minutes]
 
-- **Can you tell me about your service history?**
+- [No longer asking about "service history"]
+- **Can I ask, how long have you been part of the VA health care system?** // or // [Question about how long it's been since they left active duty service]
 - **Can you tell me a little about what kinds of VA facilities you have visited before?** [Hospitals, Vet Centers, etc.?]
 - **Have you ever participated in a VA research study before?**
   - Are you familiar with what a card sort is?
   - [Yes]: Great, I'll just give you a brief overview since you're already familiar.
   - [No]: No problem, before we start I'll explain how it works.
-- **During this session, you may need to share your screen - are you comfortable doing that today?**
-  - [Yes]: Before you do so, please make sure there is no personal information visible on your sreen, like email, Facebook, etc.
-  - [No]: Ok no problem, I can share my screen with you then, and you can tell me what to do.
-  - [Work out any technical difficulties - worst case, run card sorts on my screen while explaining]
+
+[Removing option for participant to share screen - moderator will run sort on their screen]
 
 ## Usability tasks [~ 40 minutes]
 
