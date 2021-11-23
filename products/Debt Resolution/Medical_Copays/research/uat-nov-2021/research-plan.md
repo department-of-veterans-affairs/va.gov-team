@@ -99,11 +99,11 @@ We will work with Perigean to recruit for this study.
 
 #### Timeline: What dates do you plan to do research?
 
-December 6th-9th 
+December 7th-10th 
 
 #### Prepare: When will the thing you are testing be ready?
 
-The Medical Copay Tool will be live on production behind a feature flag late November.
+The Medical Copay Tool will be live on production behind a feature flag December 3rd.
 
 #### Length of Sessions: How long do you estimate each session will be?
 
@@ -111,14 +111,14 @@ We expect sessions to only be 15-30 minutes. Please schedule sessions for 30 min
 
 #### Availability: If applicable, when would you like sessions scheduled?
 
-* December 6: 9:00 a.m. -- 4:00 p.m. EST
-* December 7: 9:00 a.m. -- 4:00 p.m. EST
-* December 8: 9:00 a.m. -- 4:00 p.m. EST
-* December 9: 9:00 a.m. -- 4:00 p.m. EST
+* December 7: 10:00 a.m. -- 4:00 p.m. EST
+* December 8: 10:00 a.m. -- 4:00 p.m. EST
+* December 9: 10:00 a.m. -- 4:00 p.m. EST
+* December 10: 10:00 a.m. -- 4:00 p.m. EST
 
 #### Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
-* Craig Wheeler, November 19, 11:00 a.m. - 11:30 a.m. EST
+* Craig Wheeler, December 3rd, 11:00 a.m. - 11:30 a.m. EST
 
 ### Team Roles
 
