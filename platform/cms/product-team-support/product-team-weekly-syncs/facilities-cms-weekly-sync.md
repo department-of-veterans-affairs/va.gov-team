@@ -23,12 +23,14 @@
 
 </details>
 
-## November 17 (or 19th)
+## November 24
 
 - Facility status more info (should be required for all but "normal")
 - Top tasks 
 - Kona 
 - Training to edit national content for Jessica and Barb
+- Routing process for name change requests ("official")
+- operational special instructions - implementation in CMS and FE
 
 ## November 10
 
