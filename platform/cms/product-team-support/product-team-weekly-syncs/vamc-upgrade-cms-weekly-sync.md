@@ -16,6 +16,14 @@
 
 </details>
 
+## November 26
+- VAMC-health service pages (LGBTQ+ as example) reports looking for similar URL drift problems  (QA) review
+- Training status (Wrap up)
+  * Next steps
+- Help Desk
+- VAMC migration list for Dec 1st
+  * (18) systems:  central western massachusetts, central ohio, columbia missouri, northern arizona, mountain home, st louis, marion, north texas, amarillo, el paso, texas valley, greater los angelos, phoenix, beckley, and louisville 
+
 ## November 19
 - Training status
   * last group to be trained next 
