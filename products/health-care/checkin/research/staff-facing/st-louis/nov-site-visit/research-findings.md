@@ -6,12 +6,12 @@
 - [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/research-findings.pdf)
 
 - Jump to:
-  - <a href="background">Background and Methodology</a> 
-  - <a href="key">Key Findings</a> 
-  - <a href="detailed">Detailed Research Findings</a>
-  - <a href="next">Recommendations and Next Steps</a>
+  - [Background and Methodology](#background)
+  - [Key Findings](#key)
+  - [Detailed Research Findings](#detailed)
+  - [Recommendations and Next Steps](#next)
 
-## <a name="background">Background and Methodology</a>
+## <a id="background"></a>Background and Methodology
 ### Background
 This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. One portion of the ecosystem enables Veterans to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via va.gov. Another portion, called pre-check-in, allows the Veteran to complete a series of tasks, in order to prepare for their appointment, a few days before the appointment.
 
@@ -65,7 +65,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 - One waiting room for 4 primary care providers and 9 other specialties, such as physical therapy and labs.
 - A larger, younger and more tech-savvy patient population than Franklin with better cell reception and closer to St. Louis.
 
-##  <a name="key">Key Findings</a>
+##  <a id="key"></a>Key Findings
 ### Patient Tracking
 - Franklin utilizes VetLink and Teams messages to notify clinical staff that Veterans have arrived. St. Charles mostly used VetLink for these notifications and sent Teams messages as an extreme back-up.
 - St. Charles utilizes VetLink statuses throughout the entire appointment.
@@ -84,7 +84,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 ### Pilot Site Location Feedback
 - The MSA Supervisor and Clinic Manager suggested that St. Charles might be a better pilot site due to better cell reception and a younger/more tech-savvy patient population.
 
-##  <a name="detailed">Detailed Research Findings</a>
+##  <a id="detailed"></a>Detailed Research Findings
 ### Patient Tracking
 **Franklin utilizes VetLink and Teams messages to notify clinical staff that Veterans have arrived. St. Charles mostly used VetLink for these notifications and sent Teams messages as an extreme back-up.**
 - Most specialists and LPNs monitor VetLink; clinical staff do not have access to VSE GUI.
@@ -154,7 +154,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 - St. Charles also has a higher volume of patients. 
 - However, St. Charles is going to move locations.
 
-## <a name="next">Recommendations and Next Steps</a>
+## <a id="next"></a>Recommendations and Next Steps
 ### Patient Tracking
 - Implement visual alerts for MSAs that require acknowledgement, so the messages aren’t missed due to complex and busy environments.
 - Implement alerting for clinical staff, so they know a Veteran has checked in.
