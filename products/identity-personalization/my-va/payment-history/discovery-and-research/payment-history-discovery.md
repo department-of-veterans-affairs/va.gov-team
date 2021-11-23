@@ -39,11 +39,14 @@ Pay debts
 - How much information do we need to show for a financial section to be valuable to users?
 
 
-## Payment History Review
+## Payment History Review (Chat with ebenefits team)
 
-![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/View%20Payment%20History.png)
+The ebenefits team launched a new payment history page recently. Here is a [screenshot of the current payment history page.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/View%20Payment%20History.png)
+
+All of the data points are pulled a single API call from BGS (Benefits Gateway Services). 
 
 [Spreadsheet of data points](need to link)
+
 
 
 ## Meeting with Debt Management team
@@ -99,5 +102,38 @@ Users will only have 1-3 of the debt cards at a time. Where can they get debt fr
 
 ### From the Mobile Team:
 
-Participants split up education and health care payments naturally, people expected to see GI bill balance/payments in an education section and anything related to health care in a health care section. 
+The mobile team ran a cardsort to determine how users group features together. There is a lot of overlap between AE and what the mobile app team is doing, so they shared some interesting insights with us. 
+
+- [Cards included in the card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-sort-card-list.md)  
+- [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-sort-research-report.md)
+
+Overall, payments were seen as of high importance and are expected to be in one place. However, participants naturally split up education and health care payments naturally, people expected to see GI bill balance/payments in an education section and anything related to health care in a health care section. Since we can't elevate 
+
+> ""Everything to do with money I'd like to keep in one place."
+
+> "I'd put all payment items together."
+
+The mobile team put together a [draft of how the IA could work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Screen%20Shot%202021-11-22%20at%204.02.11%20PM.png) for the mobile app, and I think a lot of the groupings for financial information could help us shape My VA. The groupings related to payment information are as follows.
+
+**Health care**:
+- Pay your health care copay
+- Travel expense reimbursement
+
+**GI Bill**:
+- GI Bill balance
+- Education payments
+- GI bill payments
+- Payback your overpayments
+
+**$$$**:
+- Bills
+    - Payback your overpayments
+    - Pay your health care copay
+- Compensation
+    - Manage direct deposit
+    - Pension Payments
+    - Disability Compensation
+    - Travel expense reimbursement
+    - View direct deposit payment history
+
 
