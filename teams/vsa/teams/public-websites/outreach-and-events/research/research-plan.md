@@ -90,8 +90,8 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ## Timeline
 
 ### Prepare
-* Pilot #1: Nov 29 3:30-4:30 pm ET with Keith Adkins (keith.adkins@adhocteam.us)
-* Pilot #2: Nov 30 2:30-3:30 pm ET with Dave Sukharan (dave.sukharan@adhocteam.us)
+* Pilot #1: **Nov 29 3:30-4:30 pm** ET with Keith Adkins (keith.adkins@adhocteam.us)
+* Pilot #2: **Nov 30 2:30-3:30 pm** ET with Dave Sukharan (dave.sukharan@adhocteam.us)
 
 ### Research sessions
 Dec 1 - Dec 6, 2021 
