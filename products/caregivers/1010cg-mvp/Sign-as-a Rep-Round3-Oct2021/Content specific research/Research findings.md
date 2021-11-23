@@ -1,4 +1,4 @@
-# Research Findings: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021s
+# [DRAFT] Research Findings: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
 **Digital Services Veterans Affairs (DSVA), VSA, Caregiver Team**<br>
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 11/23/2021
@@ -57,7 +57,7 @@ Recruiting: Perigean contract
 - Race, ethnicity
   - Black or African American: 2
   - White or Caucasian: 2
-  - Mixed (Asian and White or Caucasian): 1
+  - Mixed (Asian, White or Caucasian): 1
   - Unknown: 2
 
 
@@ -73,12 +73,7 @@ The research questions we sought to address:
 
 ## Key Findings
 
-1. The redesigned "question page" where participants answer if they want to upload documentation overall worked well, participants were much more comfortable moving through it [than in the previous round of testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)
-2. On the document "question page, participants wanted more guidance about what "counted" as a representative document, and would have liked more details and examples.
-3. The upload document page was fairly self-explanatory to most users. Participants who said they were representatives said they would have their documentation readily available.
-4. The redesigned signature page caused confusion and wrong information (name) input.
-5. The questions to add a primary or secondary caregiver still caused confusion with participants - the new language did seem to help a little bit ([no one confused the question with primary care physician, as in the past test, for example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md)), but it wasn’t perfect.
-6. The medical facility page continues to cause confusion for participants, [as discovered in other usability studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021/research-findings.md). Specifically, the first question asking where the veteran most recently received medical care caused issues. 
+1. The re
 
 
 ## Details of Findings
