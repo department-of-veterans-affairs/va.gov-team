@@ -1,5 +1,5 @@
 # St. Louis Research Visit Findings Nov. 2021
-Office of the CTO- Digital Experience (OCTO-DE), Check-in Experience
+**Office of the CTO- Digital Experience (OCTO-DE), Check-in Experience**
 
 November 23, 2021
 
