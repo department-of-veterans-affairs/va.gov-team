@@ -121,7 +121,7 @@ Imagine that you're looking for a new job, and you heard that your local VA migh
 
 Without trying any of them, could you tell me what you think each of them would do? 
 
-- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / Custom date range / Past events*
+- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / Custom date range / Past events (doesn't work)*
 
 - What does *Specific date* mean to you? 
   - How would you expect to use it?
@@ -139,7 +139,7 @@ Now you can go ahead and look for events that could help you find a new job.
 
 - *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Specific date / Custom date range / Past events*
 
-- *Any comments on scrolling events in All upcoming w/o any pagination? Y / N*
+- *Any comments on scrolling events and pagination in All upcoming? Y / N*
 
 - *Did they click the "filter events" button? Y / N*
 
