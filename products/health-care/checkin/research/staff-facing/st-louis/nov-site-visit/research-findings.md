@@ -1,15 +1,17 @@
 # St. Louis Research Visit Findings Nov. 2021
+Office of the CTO- Digital Experience (OCTO-DE), Check-in Experience
 
-- Office of the CTO- Digital Experience (OCTO-DE), Check-in Experience
-- November 23, 2021
-- Researchers: Kristen McConnell (kristen.mcconnell@adhocteam.us) and Julie Adair (julie.adair@agile6.com)
-- [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/research-findings.pdf)
+November 23, 2021
 
-- Jump to:
-  - [Background and Methodology](#background)
-  - [Key Findings](#key)
-  - [Detailed Research Findings](#detailed)
-  - [Recommendations and Next Steps](#next)
+Researchers: Kristen McConnell (kristen.mcconnell@adhocteam.us) and Julie Adair (julie.adair@agile6.com)
+
+[Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/research-findings.pdf)
+
+**Jump to:**
+- [Background and Methodology](#background)
+- [Key Findings](#key)
+- [Detailed Research Findings](#detailed)
+- [Recommendations and Next Steps](#next)
 
 ## <a id="background"></a>Background and Methodology
 ### Background
