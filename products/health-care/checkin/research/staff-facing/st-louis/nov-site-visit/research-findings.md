@@ -36,7 +36,19 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
   - 1 MSA Supervisor (same person as Franklin County)
   - 1 Clinic Manager
 
-### About Frankline County VA Clinic
+### About Franklin County VA Clinic
+![IMG_2220](https://user-images.githubusercontent.com/66287082/143082411-c792a2e3-8ad9-4dde-a4de-e7d76aa1b2db.jpg)
+*Waiting room with COVID screener*
+
+![IMG_2223](https://user-images.githubusercontent.com/66287082/143082447-21cbfd5a-d0fc-469c-937f-e10f3251d941.jpg)
+*Check-in counter with 2 MSAs - UX researcher shown in photo*
+
+![IMG_2224](https://user-images.githubusercontent.com/66287082/143082525-15f1a0fd-b127-4eb0-ae27-5a108493ac54.jpg)
+*1 kiosk currently in use*
+
+![IMG_2230](https://user-images.githubusercontent.com/66287082/143082567-cfeb9c97-9ab7-4761-b13c-e3723beef268.jpg)
+*Not a lot of wall space for the check-in poster*
+
 - One waiting room for 3 primary care providers and 9 other specialties, such as physical therapy and labs.
 - An hour away from the main St. Louis VAMC, not super close to other VA locations, and in a more rural location.
 
