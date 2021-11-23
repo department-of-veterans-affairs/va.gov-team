@@ -1,21 +1,17 @@
-# St. Louis Research Visit Nov. 2021
+# St. Louis Research Visit Findings Nov. 2021
 
+- Office of the CTO- Digital Experience (OCTO-DE), Check-in Experience
+- November 23, 2021
 - Researchers: Kristen McConnell (kristen.mcconnell@adhocteam.us) and Julie Adair (julie.adair@agile6.com)
 - [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/research-findings.pdf)
 
-## How this research maps to the Veteran journey
-- It is part of "Living civilian life" and  "Taking care of myself," specifically this product allows Veterans to check in for a VA medical appointment with their mobile phone.
+- Jump to:
+  - <a href="background">Background and Methodology</a> 
+  - <a href="key">Key Findings</a> 
+  - <a href="detailed">Detailed Research Findings</a>
+  - <a href="next">Recommendations and Next Steps</a>
 
-## OCTO-DE goals that this research supports
-- Veterans can manage their health services online
-- Logged-in users have a personalized experience, with relevant and time-saving features
-- Measures to increase
-  - Completion rate of online transactions
-  - Usage of digital, self-service tools
-- Measures to decrease
-  - Time to successful complete and submit online transactions
-
-## Background and Methodology
+## <a name="background">Background and Methodology</a>
 ### Background
 This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. One portion of the ecosystem enables Veterans to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via va.gov. Another portion, called pre-check-in, allows the Veteran to complete a series of tasks, in order to prepare for their appointment, a few days before the appointment.
 
@@ -69,7 +65,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 - One waiting room for 4 primary care providers and 9 other specialties, such as physical therapy and labs.
 - A larger, younger and more tech-savvy patient population than Franklin with better cell reception and closer to St. Louis.
 
-## Key Findings
+##  <a name="key">Key Findings</a>
 ### Patient Tracking
 - Franklin utilizes VetLink and Teams messages to notify clinical staff that Veterans have arrived. St. Charles mostly used VetLink for these notifications and sent Teams messages as an extreme back-up.
 - St. Charles utilizes VetLink statuses throughout the entire appointment.
@@ -88,7 +84,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 ### Pilot Site Location Feedback
 - The MSA Supervisor and Clinic Manager suggested that St. Charles might be a better pilot site due to better cell reception and a younger/more tech-savvy patient population.
 
-## Detailed Research Findings
+##  <a name="detailed">Detailed Research Findings</a>
 ### Patient Tracking
 **Franklin utilizes VetLink and Teams messages to notify clinical staff that Veterans have arrived. St. Charles mostly used VetLink for these notifications and sent Teams messages as an extreme back-up.**
 - Most specialists and LPNs monitor VetLink; clinical staff do not have access to VSE GUI.
@@ -158,7 +154,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 - St. Charles also has a higher volume of patients. 
 - However, St. Charles is going to move locations.
 
-## Recommendations and Next Steps
+## <a name="next">Recommendations and Next Steps</a>
 ### Patient Tracking
 - Implement visual alerts for MSAs that require acknowledgement, so the messages aren’t missed due to complex and busy environments.
 - Implement alerting for clinical staff, so they know a Veteran has checked in.
