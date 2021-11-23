@@ -11,7 +11,7 @@
 ### Projected timelines for current projects
 
 |Project|Q2 2021|Q3 2021|Q4 2021|Q1 2022|Q2 2022|
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |**Add payments & financials section to My VA** |  - | - | Scoping and planning; Design | Design/Research/Build/Pre-launch | Launch|
 
 ## Completed projects
