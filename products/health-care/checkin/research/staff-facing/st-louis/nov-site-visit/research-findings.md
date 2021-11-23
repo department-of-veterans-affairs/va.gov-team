@@ -178,3 +178,8 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 
 ### Pilot Site Location Feedback
 - After visiting both locations, we agree that St. Charles might be the better pilot site. However, an alternative solution to printing and staff alerts are needed before either can become a pilot site.
+
+## Appendix
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/conversation-guide.md)
+
+[Visit notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/visit-notes.md)
