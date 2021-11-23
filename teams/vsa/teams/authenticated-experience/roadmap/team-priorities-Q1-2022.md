@@ -27,6 +27,10 @@ In addition to emails and text messages, on-site notifications are part of a cro
 
 ### [Update personal information section of the profile: Add LGBTQ data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
 
-(Overview & why we are doing this work)
+We are integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile as part of a request from VEO and the LGBTQ Health Services office. This effort will allow veterans to more accurately define themselves within the VA, and it will help mitigate issues around veterans showing up to health appointments and being addressed improperly.
 
 **Targeted launch**: End of Q1 2022
+
+### Additional work
+
+We are currently talking to VA Profile, VANotify, and VEText to figure out what is next for the notification preferences feature that just launched, but we are not sure what those are at this point. We'll work with these teams as necessary to figure out process for incorporating new preferences.
