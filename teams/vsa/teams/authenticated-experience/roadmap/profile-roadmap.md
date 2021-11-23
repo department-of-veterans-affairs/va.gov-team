@@ -1,12 +1,11 @@
 # VA.gov profile roadmap
 
-**Updated November 3, 2021**
+**Updated November 23, 2021**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-| [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Launced to 25% of users |
 |Add SIGI, preferred name & pronouns, and sexual orientation | Design and FE build |
 
 ### Projected timelines for current projects & enhancements
@@ -20,6 +19,7 @@
 
 |Project or enhancement|Status|
 |----|----|
+[VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Launched November 2021 |
 |[Updated layout and button styles for better screen reader experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23665) | Launched July 2021 | 
 |[Add confirmation email for contact info updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8383) | Launched June 2021 |
 |[Add contact info FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)| Launched April 2021|
