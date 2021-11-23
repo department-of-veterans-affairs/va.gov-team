@@ -5,9 +5,14 @@ _Describe the current-state of your problem and the environment in which it exis
 
 - The C+L team would like to create a spanish version of the 1010CG form.
 - Form applications call the forms library for components such as the "submit" button or the "continue" button.
-- These componenets are shared and used across forms on VA.gov
+- These are shared components and used across VA.gov forms.
+- All (some?) of these shared components will need to be internationalized (why? so that a button can be dynamically sized to fit translated content as an example?)
 - 
-- 
+
+
+
+
+- (note:  i18n means abstracting all localizable elements ((user-visible strings, locale-specific data like date, time, and currency formats, keyboard usage, etc.)) out of your application source code and into external files that can be made available for translations.
 
 
 
