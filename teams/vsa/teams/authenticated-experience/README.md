@@ -30,6 +30,6 @@
 ## Roadmaps
 
 - [My VA roadmap & project status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/my-va-roadmap.md)
-- [VA.gov profile roadmap & project status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 - [On-site notifications roadmap & project status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/on-site-notifications-roadmap.md)
+- [VA.gov profile roadmap & project status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap/profile-roadmap.md)
 
