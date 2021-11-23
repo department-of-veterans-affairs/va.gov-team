@@ -10,13 +10,19 @@ I think we've lost sight of the original goal of the on-site notifications proje
 
 If we want to revisit the original goal of this work -- elevating action items -- we first need to start by considering what time-sensitive action items exist. I could only think of seven. They are:
 
+**Can be done online**
+
 - Complete an application that is about to expire
-- Go to an appointment (Medical or BVA hearing)
 - Read/reply to a message from their medical team (future: read/reply to messages potentially for other benefits)
 - Pay a debt
 - Refill a prescription
 - Upload evidence for a claim or appeal
 - [Applying for benefits that have a time limit](https://www.military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html)
+- [Potential future functionality: Fill out check-in forms online for doctor's appointments]
+
+**Done IRL**
+
+- Go to an appointment (Medical or BVA hearing)
 
 If there are **seven** time-sensitive things a veteran might need to do, then **we do not need a whole notifications center to accommodate this**. We can plug directly into relevant backends to elevate this information, like we already do for appointments and unread messages.
 
@@ -36,7 +42,7 @@ The problem we are trying to solve is to make sure action items are properly ele
 
 **When email/text alerts should trigger something on the website**
 
-Email and text should trigger on-site noticications for anything that is not personalized. For example, if we wanted to elevate COVID-19 "Keep me informed" updates on the dashboard, we may still want to consider an integration so that an on-site alert shows up at the same time as an email or text. 
+We need better thinking around when it makes sense for an email and text alert to trigger something on the website. A safer place to start would be with information that is not personalized, though I think the only notification that falls into that category right now is the COVID-19 "Keep me informed" email, but that apparently hasn't gone out in six months. 
 
 ## There are discrepancies between what VANotify currently supports and what people want to see on their dashboards.
 
@@ -46,7 +52,7 @@ If we want VANotify to support on-site content, we are bound to the content VANo
 
 - Rx Pharmacy Shipment Update Pilot Text Message
 - Debt Management Center
-- Covid Vaccine Updates
+- Covid "Keep Me Informed" emails (note: these have not gone out in the last 6 months)
 - Board of Veteran appeals hearing reminders (in person + virtual)
 
 They also support a lot of email confirmations, but this isn't information we want to elevate for on-site alerts since people already see confirmation screens when making updates to VA.gov.
@@ -95,9 +101,4 @@ Essentially, the approach we have been taking loses sight of the original proble
 
 - Review with team.
 - Samara to review with leadership.
-
-If we're in alignment, we have some options for moving forward.
-
-- Pause VANotify integration altogether, OR...
-- Continue to pursue this integration, but for non-personalized information only (eg. COVID-19 Keep Me Informed updates).
-- Discuss next steps for elevating action items.
+- Discuss next steps, recognizing that elevating action items on My VA is likely a separate effort from a larger notifications strategy.

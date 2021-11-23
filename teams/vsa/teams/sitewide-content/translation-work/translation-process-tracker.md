@@ -36,3 +36,4 @@
 | Bulleted item added to booster page | 10/27 | 10/27 | 10/29 | 10/29 | 11/1 | | 11/1 |
 | Booster content on booster and main vaccine page | 10/22 | 10/22 | 10/29 | 10/29 | 11/1 | | 11/1 |
 | FAQs intro updates | 10/28 | 10/28 | 11/17 | 11/17 | 11/17 |
+| New booster content on mini-hub and booster pages | 11/19 | 11/22 |

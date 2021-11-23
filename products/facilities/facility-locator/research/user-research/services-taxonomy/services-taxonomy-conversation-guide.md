@@ -10,6 +10,10 @@ Complete verbatim transcripts aren't necessarily needed for this study. Here's w
 - When a participant asks a question about a card, or category
 - When a participant gives a suggestion about cards, categories, or a description of either
 
+Here's a note-taking template for the two card sorts, which lists the cards, the categories, and has space to write notes next to each:
+
+[Card sort list notes template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Card%20sort%20notes%20template.docx) (Word docx)
+
 ## Moderator setup
 
 - [ ] 10 mins before, mention test in #feedback-backchannel
@@ -79,14 +83,15 @@ Before we get to the tasks you are helping us with today, a few things I want to
 ** **RUN CARD SORTS** **
 
 - **If you need an explanation for any services, or categories, please let me know**
+  - [Ask them to explain why they think each service goes where]
 - **[Be ready with VHA services descriptions, and descriptions of "new" services]**
   - [Link to VHA services list](https://docs.google.com/spreadsheets/d/1rd7ms6umKBq71SaLH2wdaofEZLoA3F-U2wRBUgj6QNg/edit#gid=1899971175)
 - **[Moderator questions to keep in mind]**
-  - What does [service] mean to you? [Services that aren't clear:]
-    - Registry exams
-    - Veteran connections
+  - What does [service] mean to you?
   - Does this service/cateogry need to be explained more clearly?
   - How else might you describe it the service/category?
+  - [Don't necessarily point out something that a participant didn't point out themselves]
+  - [Has Veteran used their facility's website? ie. Pittsburgh has been out for a while, which means people may be more familiar with it]
 
 ** **MAKE SURE PARTICIPANTS CLICK "FINISH" TO CAPTURE DATA** **
 

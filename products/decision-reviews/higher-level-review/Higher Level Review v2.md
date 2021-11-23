@@ -128,7 +128,7 @@ Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob
 - Product Manager: Ronnie Henry
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers: Robin Garrison, Asha Gross, Michel McDonald
+- Engineers: Robin Garrison, Michel McDonald, Csaba Németh
 
 ## Incident Response
 - Primary POCs (Ronnie Henry, Matt Self)

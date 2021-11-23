@@ -14,7 +14,7 @@ This document details what tools are available behind our SOCKS proxy and how to
 
 ## What Can I Access?
 
-Here are some of the tools you may need access to that are behind the SCOKS proxy:
+Here are some of the tools you may need access to that are behind the SOCKS proxy:
 
 - **[Jenkins](http://jenkins.vfs.va.gov)** for build logs and details (linked to from GitHub PRs for each project).
 - **[Sentry](http://sentry.vfs.va.gov)** for exception reports and tracebacks.

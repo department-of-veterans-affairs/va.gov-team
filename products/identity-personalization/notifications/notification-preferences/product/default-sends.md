@@ -9,4 +9,4 @@ Because default sends are not indicated in the database, we have no way of displ
 ## Proposed Solutions
 We've had many discussions with VA Notify and VA Profile as to how we should resolve this issue. The first step is for VA Profile to enhance their database to include a flag or indicator of some kind to denote implied opt-ins (default sends) vs explicit opt-ins.
 
-There have also been discussions as to whether there should be some kind of design element on the frontend to indicate that a user may be have been opted in impliciltly vs explicitly. The major question from our perspectice is if this is coming from a personal preference on VA Notify's side, or if this is some broader legal or business reason that they are proposing this.
+There have also been discussions as to whether there should be some kind of design element on the frontend to indicate that a user may be have been opted in impliciltly vs explicitly. The major question from our perspective is if this is coming from a personal preference on VA Notify's side, or if this is some broader legal or business reason that they are proposing this.

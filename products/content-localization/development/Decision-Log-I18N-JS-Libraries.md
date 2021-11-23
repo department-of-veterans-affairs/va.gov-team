@@ -89,3 +89,8 @@ Various modules are provided for the specific functionality that is needed
 | globalize/unit.js          |                   0.9KB |                           0.6KB | [Unit module](#unit-module) provides unit formatting support |
 
 The library is primarily on using locale data and formatting dates, currencies, and other locale specific data. String interpolation and loading translations for each language does not appear to be within it's feature set. There is also no built in support for using React.
+
+
+## Conclusion
+
+The `i18next` library is by far the most feature rich and adaptable choice. It has various React integrations, a backend client, content negotiation, and other modules that are useful for translation. Extending the library can be done through a [plugin system that is documented](https://www.i18next.com/misc/creating-own-plugins) well.

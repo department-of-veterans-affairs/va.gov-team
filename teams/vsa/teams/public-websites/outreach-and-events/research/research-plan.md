@@ -1,4 +1,4 @@
-# Research Plan for Public Websites, Outreach & Events, Nov 2021
+# Research Plan for Public Websites, Outreach & Events, Dec 2021
 
 ## Background
 The Outreach & Events calendar provides a listing of upcoming national VA events that Veterans can browse and sign up to attend (without logging in). The current user experience is a flat listing of upcoming events, and we are adding the following two new capabilities:
@@ -17,6 +17,7 @@ This research supports the following [OCTO objectives](https://github.com/depart
 
 ### Veteran Journey
 Outreach & Events fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when Veterans find VA events to attend throughout 
+- Starting up (Serving in and separating from the military)
 - Living civilian life 
 - Retiring and aging 
 
@@ -31,6 +32,7 @@ We will consider findings and recommendations from this research to refine our d
 ### Research questions
 1. How intuitive is our design for filtering by date range? 
     1. What do Veterans think about the options for date range? 
+    2. What do Veterans think about filtering by a specific date and a date range?
 3. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
     1. Are Veterans able to register for individual events in the series of recurring events?
 4. How do Veterans expect to look for VA events?
@@ -67,7 +69,7 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ### Primary criteria (must-haves)
 - All are Veterans
 - At least 2 people 55 or older
-- At least 3 people with a cognitive disability (e.g., TBI)
+- At least 2 people with a cognitive disability (e.g., TBI)
 - All have a smartphone and are willing to to join our Zoom call from their phone 
   - All have a working microphone on their phone 
   - All have the Zoom app downloaded to their phone prior to the session and know how to share their screen
@@ -90,10 +92,10 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ### Prepare
 
 * Pilot participant email: Dave Sukharan (dave.sukharan@adhocteam.us)
-* Date and time of pilot session: Nov 19 or 22 at time TBD
+* Date and time of pilot session: Nov 29 or 30 at time TBD
 
 ### Research sessions
-Nov 29 - Dec 2, 2021 
+Dec 1 - Dec 6, 2021 
 
 ### Length of sessions
 **60-minute sessions** with at least **30-minute breaks** in between
@@ -102,10 +104,9 @@ Nov 29 - Dec 2, 2021
 
 Team Availability | Time (EST)
 ------------------|--------------
-Nov 29, 2021 | 1:30 - 3 pm, 4 - 8 pm
-Nov 30, 2021 | Noon - 3 pm, 4 - 8 pm
 Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
 Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
+Dec 6, 2021 | Noon - 3 pm, 4 - 8 pm
 	
 ## Team Roles	
 - Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
@@ -115,3 +116,6 @@ Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
 - Participant for pilot test:	Dave Sukharan (dave.sukharan@adhocteam.us)
 - Note-takers:	Perigean
 - Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com)
+
+## Approvals
+Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.

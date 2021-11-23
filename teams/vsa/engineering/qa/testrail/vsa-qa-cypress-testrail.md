@@ -94,19 +94,39 @@ The TR Group ID corresponds to your Cypress spec-file.  Because of how our TestR
 
 #### TestRail Case IDs
 
-Each TR Case IDs correspond to the tests (`it('...', () => { ... })` blocks) within your Cypress spec-file.
+##### Specs with `it(...)` tests
 
-In TR Test Cases tab, add test-cases &mdash; one for test in your Cypress spec-file:
+Each TR Test Case will correspond to a test (`it('...', () => { ... })` block) within your spec.  Disregard any nested `describe`s or `context`s.
+
+**In TestRail, add test-cases &mdash; one for each test in your spec**:
 
 1. In the left panel (test-cases list), under the Section you selected, click **Add Case**.
-1. Enter a case-title that identifies your Cypress test (make it the same as or similar to your Cypress test-description).  Once created TR displays a Case ID (Cxxxx) next to it.
+1. Enter a case-title that identifies your Cypress test (make it the same as or similar to your Cypress test-description).  Once created, TR displays a Case ID (Cxxxx) next to it.
 
-In your Cypress spec-file, append the TR Case ID to test description:
+**In your Cypress spec-file, append the TR Case IDs to test descriptions**:
 
-1. In your code-editor, open your .cypress.spec.js file.
+1. In your code-editor, open your spec-file.
 2. At the end of each test-title (`it('my-test-title', () => {})`), type ** - Cxxx**.  E.g., your Cypress test title `it('renders Learn More link', () => {...})` has a corresponding TestRail test case with ID C1059, so append " - C1059 " to your Cypress test title -- `it('renders Learn More link - C1059'), () => {...})`
 
-Once you have TR test-cases created, and TR Case Ids appended to your Cypress spec-file's tests, you're ready to set TR variables in your shell and run your Cypress spec with the custom-reporter.
+Once you have TR test-cases created, and TR Case IDs appended to your Cypress spec-file's tests, you're ready to set TR variables in your shell and run your Cypress spec with the custom-reporter.
+
+##### Specs with `testForm(...)` tests
+
+Each TR Case will correspond to a `dataSet` in your form-tester spec.
+
+**In TestRail, add test-cases &mdash; one for each dataSet in your spec**:
+
+1. In the left panel (test-cases list), under the Section you selected, click **Add Case**.
+1. Enter a case-title that identifies your dataSet.  Once created, TR displays a Case ID (Cxxxx) next to its title.
+
+**In your Cypress spec-file, append the TR Case IDs to dataSet identifiers**:
+
+1. In your code-editor, open your spec-file.
+2. In your **dataSets** array, at the end of each dataseet-string, append the corresponding TR Case IDs, separated with a dash.  For example:
+`['maximal-test-C12345', 'minimal-test-C12346']`
+3. Rename your data files to reflect your dataSet-changes above.  For example, `maximal-test.json` should now be `maximal-test-C1234.json`.
+
+Once you have TR test-cases created, TR Case IDs appended to your Cypress spec-file's datasets, and your data-files renamed, you're ready to set TR variables in your shell and run your Cypress spec with the custom-reporter.
 
 #### TR Environment Variables & Custom-Reporter Script-call
 

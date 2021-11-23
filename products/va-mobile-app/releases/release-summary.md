@@ -1,5 +1,21 @@
 # VA Mobile team - Release Highlights
 
+## Release: 12/7/21 (Draft)
+
+New + Improved
+
+Design Updates
+- Change profile screen to sentence case
+- Updated the vaccine details view to move series and reaction value below the header 
+- Updated copy for TTY text
+
+Bug Fixes
+
+- Fixed app crashing issue related to add appt to calendar feature
+- Fixed app crashing issue on the claims ‘upload or add photos’ feature 
+- Fixed pagination issue for past appointments (back-end) 
+
+
 ## Release: 11/23/21
 
 New + Improved

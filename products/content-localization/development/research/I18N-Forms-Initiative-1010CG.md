@@ -1,4 +1,4 @@
-# I18N Forms Initiative - 1010CG
+# I18N of form 1010CG
 
 ## Global components for forms system (blocking dependency)
 - Language switcher
@@ -61,3 +61,33 @@ Data is transformed for submission via `submitTransform` from `applications/care
 `README.md` - docs
 
 `routes.jsx` - React Router definitions
+
+
+### Concerns for Translating 1010CG - app specific challenges
+
+**Components**
+
+- AdditionalInfo
+	- Document uploading
+	- Selecting a VA medical center or clinic where the Veteran receives care
+- NeedHelpFooter
+	- Online Caregiver Support Coordinator search tool (links to english based caregiver.va.gov subdomain)
+- PreSubmitInfo - SignatureCheckbox, SignatureInput, SubmitLoadingIndicator
+- SubmitError - DownloadLink (downloads english form with filled out fields?)
+
+**Config**
+- Complex config is coming from definitions folder
+- signAsRepresentative
+	- legal representative document upload / POA
+- veteran
+	- vetMedicalCenter (previous treatment fac, preferred facility view
+
+**Definitions**
+- UiDefinitions: sharedUI, veteranUI, caregiverUI
+- constants
+- content: links to english content, arrays of text for multiline static content
+
+**Helpers**
+- ValidateSSNIsUnique, facilityNameMaxLength
+- arrayToSentenceString uses conjunctions to combine array of strings
+	- example: https://github.com/department-of-veterans-affairs/vets-website/blob/c84a8ccee9fa2260b14d51fd1e1f665d97c8e258/src/applications/caregivers/components/AdditionalInfo/index.jsx#L290

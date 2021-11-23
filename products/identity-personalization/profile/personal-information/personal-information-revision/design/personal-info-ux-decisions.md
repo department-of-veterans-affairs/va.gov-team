@@ -2,7 +2,7 @@
 
 Initial Designer: Kevin Hoffman, VA/OCTO-DE | Head of Design Operations, Account Experience Crew Lead
 
-Last updated: 10/25/2021
+Last updated: 11/17/2021
 
 ## Background and goals
 
@@ -13,6 +13,13 @@ Last updated: 10/25/2021
 ***
 
 ## UX Decisions
+
+### Use label "Sex assigned at birth" instead of "Birth sex" 
+
+11/17/2021
+
+- Danielle Theirry in an email 11/17 clarified that we should use "Sex assigned at birth" vs. "Birth sex" as the label for the field previously called Gender.
+- Samara advised to update all mockups accordingly and use that verbiage for testing.
 
 ### Information Architecture Feedback & Decisions
 
@@ -26,10 +33,6 @@ Last updated: 10/25/2021
 ### Use experimental design pattern on radio inputs
 
 ***
-
-
-
-
 
 ### Design intent review
 

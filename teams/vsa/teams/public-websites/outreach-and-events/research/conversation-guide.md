@@ -79,11 +79,11 @@ Before we start, I want to go over a few things:
 Let’s start with a few questions... 
 - What device are you using today? *(Phone / Tablet / Computer)*
 
-- Have you ever attended an event (e.g., presentation, workshop/class, outreach event) put on by the VA or a Veteran Service Organization? 
+- Have you ever attended an event (e.g., presentation, workshop/class, outreach event) put on by the VA or a Veterans Service Organization? 
 	- If so, can you tell me about that experience? 
 	- How did you hear about it? 
 	- How did you sign up for it?
-- If you wanted to attend a VA sponsored event, how would you find it?
+- If you wanted to attend a VA-sponsored event, how would you find it?
 - What would you want to know about an event in order to decide if you're interested in going? 
   - *(if they're not sure what I mean, say:)* For example, the time of the event, the location, etc.
   - *How do they want to search/filter?*
@@ -111,24 +111,29 @@ Please take a look at this page and tell me your impressions of what you see. Do
 What do you think you can do from this page?
 
 - *Note any reactions to location info shown*
+- *Note any reactions to recurring events*
 
   
 ### Task 2: [Filter by Date--One-time event] - 5 minutes
-Imagine that you're looking for a new job, and you heard that your local VA might soon be having an event for job seekers. How would you find out if that's the case?
+Imagine that you're looking for a new job, and you heard that your local VA might soon be having an event to help Veterans looking to change careers. How would you find out if that's the case?
 
 *(When see dropdown date filter options)* Could you stop for a minute? What are your thoughts on those options?
 
 Without trying any of them, could you tell me what you think each of them would do? 
 
-- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Custom / Past events*
+- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / Custom date range / Past events*
 
-- What does *Custom* mean to you? 
+- What does *Specific date* mean to you? 
+  - How would you expect to use it?
+  - *(probe: when might they use it? record specific use cases with context)*
+
+- What does *Custom date range* mean to you? 
   - How would you expect to use it?
   - *(probe: when might they use it? record specific use cases with context)*
 
 Now you can go ahead and look for events that could help you find a new job.
 
-- *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Custom / Past events*
+- *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Specific date / Custom date range / Past events*
 
 - *Did they click the "filter events" button? Y / N*
 
@@ -140,16 +145,16 @@ If you wanted to attend this event, what would you do? *(Register button / _____
 
 Can you please go back to the previous page? *[Event detail]* 
 
-Is there anything else that you would do on this page?
+Once you've registered for this event, is there anything else you would like to do or expect to do?
 
-- *Add to Calendar / Share on FB / Twitter / ______________*
+- *No / Add to Calendar / Share on FB / Twitter / ______________*
 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
 Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up for in January?
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
 
-- *Option selected: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1**) / Custom / Past events*
+- *Option selected: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1**) / Specific date / Custom date range / Past events*
 
 - *Did they click the "filter events" button? Y / N*
 
@@ -157,14 +162,17 @@ Let's say that you want to try yoga in the new year. Can you find any yoga class
 
 - *Understand that there are multiple occurrences of this event? Yes / No / Unknown*
 
-- *Feedback on "View 12 more occurrences accordion":* 
+- *Feedback on "Find other times for this event":* 
 
 I'd like you to sign up for 2 yoga classes in 2022.
 
-- *Feedback on "View more" button:* 
+- *Feedback on "Check other times" button:* 
 
-- *Feedback on scrolling the growing list of occurrences:* 
-- How many do you want to see in this list?
+- *Feedback on scrolling the growing list of times:* 
+
+- How many do you want to see at a time?
+
+- *Clicked Register button for both Jan & Feb yoga classes? (doesn't work)*
 
 - *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
 
@@ -172,9 +180,9 @@ I'd like you to sign up for 2 yoga classes in 2022.
 
 Now I'd like you to see if there are any VA activities on Memorial Day next year, which is May 30. 
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
 
-- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
+- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Specific date** / Custom date range / Past events*
 
 Before you do anything, what do you think you can do on this page?
 
@@ -182,19 +190,23 @@ Now you can go ahead and do it.
 
 - *(select month and day)*
 
+- *Understand the 12-month limitation? Y / N*
+
 - *Clicked the "filter events" button? Y / N*
 
 - *Found the 2 Memorial Day events? Y / N*
 
 ### Task 5: [Filter by Date--Custom date range] - 5 minutes
 
-I'd like you to imagine that you're planning a trip to New Orleans next summer, and you want to see if there are any Independence Day events that you could attend while you're there. You'll be there July 1-5.
+Let's assume that you live in New Orleans, and you have friends from the service joining you for Independence Day next summer. I'd like you to see if there are any Independence Day events that you could attend together while they're here July 1st through 5th.
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "See more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
 
-- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Custom** / Past events*
+- *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / **Custom date range** / Past events*
 
 - *(select month and day for July 1 start date and July 5 end date)*
+
+- *Understand the 12-month limitation? Y / N*
 
 - *Clicked the "filter events" button? Y / N*
 
@@ -230,3 +242,6 @@ Thank you so much again, and enjoy the rest of your day!
 - Download notes
 - Debrief to my spreadsheet
 
+
+## Approvals
+Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.

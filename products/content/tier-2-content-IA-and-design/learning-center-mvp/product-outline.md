@@ -1,4 +1,4 @@
-# Learning center product outline (WIP draft)
+# Resources and Support product outline 
 
 This is the folder for all background, historical, discovery, and status documentation for this product.
 
@@ -30,7 +30,7 @@ It's critical that we don't migrate all content into the benefit hubs because th
 
 __What this product is__
 
-This product focuses on creating an IA and content design for tier 2 content that's benefit learning, knowledge, help, and support content categories. 
+This product focuses on creating a knowledge library for tier 2 content that help to direct Veterans to benefits information they are interested in. 
 
 __What this product is not__
 
@@ -58,8 +58,10 @@ Non-beneficiary audiences who support Veterans, family members and other benefic
 
 
 ## Business Goals
-- Provide a way of incorporating the many benefit-adjacent tier 2 content (from the legacy TeamSite VA.gov) into the new VA.gov 
+- Provide a way of incorporating the many benefit-adjacent tier 2 content (from the legacy TeamSite VA.gov) into the new VA.gov
 - Maintain prioritization of Veteran-focused tier 1 benefit content, so benefit hubs continue to provide essential benefit info and access to digital tools
+- Direct Veterans to the right place with the information they are looking for
+- Single sources of Truth for all Tier 2 and Tier 3 content
 
 ---
 ## Measuring Success

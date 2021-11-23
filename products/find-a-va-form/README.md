@@ -191,7 +191,7 @@ Engagement
 
 
 ### Find a VA Form PDF Download Instructions 
-- Go-live: Nov 2021
+- Go-live: Dec 2021
 - [GitHub Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26816)
 - Introduces a modal which is invoked upon clicking a link to download a PDF on the Find a VA Form search page or any of the form detail pages.
 - Modal provides a warning that some PDFs will not work correctly unless downloaded and opened in Adobe Acrobat Reader DC for Mac or Windows

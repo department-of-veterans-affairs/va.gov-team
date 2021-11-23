@@ -36,7 +36,7 @@ devops/utilities/issue_mfa.sh User.Name ######
 devops/utilities/ssm.sh vets-api-worker prod auto
 sudo su
 docker exec -it vets-api bash
-rails c
+rails console --sandbox
 ````
 
 starting with `Application ID number`

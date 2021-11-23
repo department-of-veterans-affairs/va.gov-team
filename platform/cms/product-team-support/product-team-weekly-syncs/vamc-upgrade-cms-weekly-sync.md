@@ -8,7 +8,6 @@
 - Standing agenda: 
   - Migration
   - VAMC Scaffolding
-  - Training
   - Account administration
   - Dual state and product launches
   - How we work
@@ -16,6 +15,30 @@
 - [Previous agendas in Google Docs](https://docs.google.com/document/d/1Pchj-AHdET4URxAceIqSMvKOPluU3gZfZ6KIP7pCXqs/edit#)  
 
 </details>
+
+## November 19
+- Training status
+  * last group to be trained next 
+  * Anyone with access to VAMC has to complete all of training to get access to know what they should not do.
+  * Need to move towards categories of editors to better govern who can do what
+  * Portland, Houston and Palo Alto to be used as resources for process of content editors who need approval 
+- Help desk
+  * Jane to follow up with these contributors will complete full thaining but only get content editor privilages: Portland, Houston and Palo Alto to be used as resources
+  * Jane to add "Link to File" to training due to large volume of questions
+  * Several people had issues with loading videos and the title defaults to "Video": Kev to create issue to take a look
+  * Stan and Lisa to talk to San Diego VAMC on using Banners for marketing
+  * Does VHA Dig Media need our level of access to Jira?
+    * gather data on use cases and determine best path forward to ensure VHA Dig Media is staying informed
+- Url alias for "lgbt" vs "lgbtq"
+  * We need to go back and find the old LGBT-veteran-care and update to LBTQ-veteran-care
+    * Stan has submitted ticket, Swirt has been working, Swirt to provide list of pages mis-titled
+- VAMC migrations (Lovell!)
+  * Dec 1st remaining 18 systems going out except Lovell (last 18 redirects)
+    * problem is AD and Vets use system
+    * Manilla is also a drastically different system 
+- System health service "Care we provide" update
+* Cancel next weeks meeting 
+
 
 ## November 5
 - training environment URL change management
