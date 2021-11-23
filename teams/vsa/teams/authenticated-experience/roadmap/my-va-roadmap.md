@@ -6,15 +6,12 @@
 
 |Project|Status|
 |----|----|
-|Alerts MVP| On pause |
 |Add payments & financials section to My VA | Initial discussions & planning |
 
 ### Projected timelines for current projects
 
 |Project|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
 |----|----|----|----|----|
-|**Alerts MVP**| Planning; Start research | Complete research and make recommendations |Technical discovery & build | Launch |
-|**User roles & permissions**| - | - | Research discovery to support Identity team | TBD |
 |**Add payments & financials section to My VA** |  - | - | Scoping and planning; Design | Design/Research/Build/Pre-launch |
 
 ## Completed projects
@@ -33,7 +30,6 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
-|Debt notifications| Leah Keeler/Benefits & Memorials team|3.1.21| The debt team would like to elevate debt-related notifications on the My VA dashboard. However, the My VA notification is not a dependency for this team's launch. They are able to continue develoment on their tool while we finish the My VA 2.0 design. [Slack convo](https://dsva.slack.com/archives/C909ZG2BB/p1614612187092100)|
 |Check-in Experience| Ming Ligh/Patrick Bateman | Original request: 5.24.21 Update from Patrick: 11.17.21 | Ming said the following via DM in Slack: "When you are ready to include any pre-appointment task on MyVA, the Check In Experience team would probably like to talk you about it. We have not done any discovery in this areas so would be great to combine efforts. Patrick Bateman is working on Check In Experience. Update from Patrick makes it sounds like they aren't sure if My VA will need to be involved, but that's TBD: "we want the veteran to encounter that health form during the larger check in transaction and don't believe they will just happen across an alert that takes them there [to My VA]." He also mentioned they are still far from delivering online form experiences. |
 |Updates related to unauth homepage updates | Dave Conlon | Nov 2021 | We know this work is coming down the pipeline, we just don't know exactly when or what will be needed from us. |
 |Updates related to health apartment | Tracey Mulrooney | Nov 2021 |  We know this work is coming down the pipeline, we just don't know exactly when or what will be needed from us. |
