@@ -57,6 +57,7 @@ The third and final pillar -- notifications that show to logged-in users on VA.g
 
 - Create a unified experience through the VANotify platform. 
 - Build the infrastructure for on-site notifications so that we can easily leverage this infrastructure in the future.
+- There is no way to turn off on-site notifications on VA.gov. This feature is seen as a backup in case all email and text notifications are turned off.
 
 ### Undesired Business Outcomes
 
