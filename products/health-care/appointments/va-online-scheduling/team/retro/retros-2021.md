@@ -1,10 +1,16 @@
 # VAOS Retros
 
 <details>
+<summary>November 23, 2021</summary>
+
+<img width="1429" alt="Screen Shot 2021-11-23 at 1 45 12 PM" src="https://user-images.githubusercontent.com/90797205/143139670-01c77168-019f-46ce-a7ab-2004bec2ba04.png">
+
+</details>
+  
+<details>
 <summary>November 09, 2021</summary>
 
 <img width="1261" alt="Screen Shot 2021-11-09 at 4 43 39 PM" src="https://user-images.githubusercontent.com/90797205/141009966-0e501878-eaa6-4b5f-9f9e-4b62c9b610b6.png">
-
 
 </details>
 
