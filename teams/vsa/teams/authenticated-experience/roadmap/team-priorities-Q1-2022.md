@@ -10,7 +10,7 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 ### Additional work
 
-We are aware there may need to be updates to My VA as a result of the following work, but we do not have definite timelines or scope at this time:
+We are aware there may need to be updates to My VA as a result of the following projects, but we do not have definite timelines or scope at this time:
 
 - Updates to My VA based on health care apartment needs
 - Updates to My VA based on the homepage redesign 
@@ -19,7 +19,7 @@ We are aware there may need to be updates to My VA as a result of the following 
 
 ### [MVP build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/vagov-notifications/mvp/README.md)
 
-(Overview & why we are doing this work)
+In addition to emails and text messages, on-site notifications are part of a cross-platform strategy to get important action items & alerts in front of VA.gov users. This effort aims to create the first on-site notification powered by the VANotify platform.
 
 **Targeted launch**: End of Q1/beginning of Q2 2022
 
