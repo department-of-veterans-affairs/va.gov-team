@@ -1,6 +1,7 @@
 # St. Louis Research Visit Nov. 2021
 
-Researchers: Kristen McConnell (kristen.mcconnell@adhocteam.us) and Julie Adair (julie.adair@agile6.com)
+- Researchers: Kristen McConnell (kristen.mcconnell@adhocteam.us) and Julie Adair (julie.adair@agile6.com)
+- [Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/research-findings.pdf)
 
 ## How this research maps to the Veteran journey
 - It is part of "Living civilian life" and  "Taking care of myself," specifically this product allows Veterans to check in for a VA medical appointment with their mobile phone.
