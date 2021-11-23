@@ -131,6 +131,10 @@ Without trying any of them, could you tell me what you think each of them would 
   - How would you expect to use it?
   - *(probe: when might they use it? record specific use cases with context)*
 
+*If they try the filter options by clicking on the arrow and it doesn't work, say:* Can you tell me what you're trying to do? 
+
+- *Advise to tap to the left of the arrows instead of on the arrows*
+
 Now you can go ahead and look for events that could help you find a new job.
 
 - *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Specific date / Custom date range / Past events*
@@ -154,7 +158,7 @@ Let's say that you want to try yoga in the new year. Can you find any yoga class
 
 - *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
 
-- *Option selected: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1**) / Specific date / Custom date range / Past events*
+- *Option selected: **All upcoming** / Next week (from Dec 5) / **Next month (from Jan 1**) / Specific date / Custom date range / Past events*
 
 - *Did they click the "filter events" button? Y / N*
 
