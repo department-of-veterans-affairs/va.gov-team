@@ -23,7 +23,7 @@ _Leverage techniques like 5 Why’s_
 ### Question(s)
 _What’s the fundamental question you are going  to answer?_ 
 
-**Note:** We are making a decision to focus first on the content that Veterans and family members use to learn about and apply for benefits. We're avoiding the "manage" spoke at this time, as tasks are a specific and different type of content.
+**Note:** We are making a decision to focus first on the content that Veterans and family members use to learn about and apply for benefits. We're avoiding the "manage" spoke at this time, as tasks are a different type of content and tied specifically to the authenticated space.
 
 #### Get benefits and more resources content
 
