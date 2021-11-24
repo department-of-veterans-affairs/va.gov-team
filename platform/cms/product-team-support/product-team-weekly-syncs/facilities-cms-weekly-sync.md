@@ -25,17 +25,25 @@
 
 ## November 24
 
+### All facilities
+
+- operational special instructions - implementation in CMS and FE
+- Process for requesting whitelisting of valid urls causing broken link alerts
+
+
+### Vet Center
+
 - Facility status more info (should be required for all but "normal")
 - Top tasks 
 - Kona 
 - Training to edit national content for Jessica and Barb
 - Routing process for name change requests ("official")
-- operational special instructions - implementation in CMS and FE
-- Process for requesting whitelisting of valid urls causing broken link alerts
-- NCA facility status 
- - what does it take to make this happen?
- - user credentials
- - request fulfillment 
+
+
+### NCA facility status 
+- what does it take to make this happen?
+- user credentials
+- request fulfillment 
  
 
 ## November 10
