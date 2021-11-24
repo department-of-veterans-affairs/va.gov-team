@@ -3,11 +3,6 @@ Tressa Furner, Authenticated Experience, November 3, 2021
 
 Research shows that users want all payment information in one spot - whether it's 'money in' or 'money out'
 
-View payment history
-(another one?)
-Travel re-imbursement
-Pay debts
-
 **Benefit debt ('Manage your VA debt' tool)** 
 - Check balance / status of debt(s) (they'll see statuses like 'we're reviewing your request' and 'your compromise offer was accepted'
 - Pay debt (online through pay.va.gov, by phone, by mail)
@@ -29,6 +24,7 @@ Pay debts
 - Compensation for surviving spouse and dependents (DIC)
 - VA Home loans (maybe this fits under debt)
 - Payments caregivers receive through the caregiver program
+- Travel re-imbursement
 
 
 **Thoughts/Question** 
