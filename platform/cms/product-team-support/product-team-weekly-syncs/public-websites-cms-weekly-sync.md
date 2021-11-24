@@ -37,15 +37,13 @@
 
 
 ## November 24
-* CLP status
-* Recurring events
-  * Sequency / runbook
-    * Research ongoing
-    * Future convo on roadmap to prod
-  * Generating (and ability to regenerate?) sample content for FE dev and QA purposes
-    * Kelson to create some sample content - Update
-    * How does FE pull location for events when available in BE - Kev and Kelson to discuss - Did this happen?
 
+* Promo Banners:
+  * 
+* Recurring events
+  * Need a seperate and longer meeting for recurring events; include Ethan, Kelson, Brian, Kev, Dave, SWirt, Ericka, Michelle
+    * next weeks session will start 30 minutes early
+  
 
 
 ## November 17
