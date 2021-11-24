@@ -8,7 +8,7 @@ We launched the VA.gov benefit hubs as part of the brand consolitation effort in
 
 In the 3 years since the benefit hubs launched, we have continued to add and modify content and make small, iterative changes. Most of this work is reactive, driven by stakeholder requests for updates, changing laws or policies, and additional products. However, we have not reviewed the overall structure and organization of the content to find ways to continually improve how we meet the needs of Veterans and family members. At the same time, we've built a new section for content (Resources and Support), started building products beyond VA.gov that need to draw from VA.gov content (chatbot, mobile app), and started introducing multilingual content in targeted areas.
 
-We need to revisit our overall content and information architecture to optimize the content for Veterans and family members now and in the future. 
+We need to revisit our overall content and information architecture to optimize the content for Veterans and family members now and make sure our content has the flexibility to work across channels and languages in the future.
 
 ### Complication(s)
 _Describe what’s changed and how it impacts your team._\
