@@ -14,14 +14,11 @@ We need to revisit our overall content and information architecture to optimize 
 _Describe what’s changed and how it impacts your team._\
 _Leverage techniques like 5 Why’s_ 
 
-- There is still legacy content that is marked for migration to the benefit hubs. 
-- We have a number of larger strategic efforts coming up that rely on having established content types and templates, and a stable content structure:
-  - Content translation - any large structural or reorganizational changes should be complete prior to major translation efforts
-  - R&S strategy - we need clear guidelines on what types of content should move into R&S
-  - Authenticated exp IA - 
-  - Health care apartment - 
-  - COPE content - 
-
+- **Resources and Support:** We have a Resources and Support section for supporting content, but not a clear vision for what content belongs in the main benefits hubs, what content belongs in Resources and Support, and how the 2 sections work together to support Veterans', service members', and family members' needs.
+- We have more Veteran-facing content to migrate into the modernized experience. We want to have a holistic strategy in place that informs how we migrate that content. 
+- New initiatives such as "My VA" and the "health apartment" will impact benefit hubs, and we need to make sure our work is aligned with these initiatives.
+- OCTO is creating more channels for content (such as the mobile app and the chatbot). We need to work toward structuring content in a way that it can be stored centrally and used modularly across channels. 
+- VA will soon be creating more multilingual content. Increasing the consistency and reusability of content will  
 
 ### Question(s)
 _What’s the fundamental question you are going  to answer?_ 
