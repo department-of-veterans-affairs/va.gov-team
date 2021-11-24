@@ -52,11 +52,14 @@ Are there opportunities to optimize the structure and content of the existing be
 _How will the problem be solved and what evidence do we have that it will._ 
 _How will you know the problem is solved? What data will you look for?_
 
-#### Near-term questions
-
+#### Near-term:
 - Evaluate the current structure of each benefit hub and identify inconsistencies
 - Review analytics and SEO data to evaluate how pages in the hubs are performing
 - Explore and test improvements to the structure and content organization to optimize
+- We will have a strategy for delivering content across the main benefit hubs and resources and support section
+
+#### Long-term:
+- We will provide initial reusable structure recommendations that will help enable product teams to reuse content from the benefit hubs in the future
 
 
 
