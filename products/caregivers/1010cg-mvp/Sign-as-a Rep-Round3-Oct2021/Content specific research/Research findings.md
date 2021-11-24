@@ -119,11 +119,12 @@ About half of the participants expressed that there was too much information giv
 ### Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
 Participants don't feel like this copy would stop them from completing the application, but do feel like it leaves a negative impression. One participant thought that this language is the VA's way of keeping people out of the program. 
 - "This is the VA's out." _when asked to explain more_ "This is the VA's way to not accept people or discourage people who won't submit an application again."
-
+- "Oof that is pretty nagative."
 
 ## Additional Insights
-* Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
-- "Why doesn't the VA look at our patient profile and proactively recommend paperwork and programs that might benefit us now or in the future?" _when asked how they would like to receive this_ "The VA sends out an ungodly amount of notifications... include it in these."
+- Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
+     - "Why doesn't the VA look at our patient profile and proactively recommend paperwork and programs that might benefit us now or in the future?" _when asked how they would like to receive this_ "The VA sends out an ungodly amount of notifications... include it in these."
+
 
 ## Recommendations
 * Rewrite the question and titles to make it more clear that we are requesting for legal representation for **medical decisions** specifically
