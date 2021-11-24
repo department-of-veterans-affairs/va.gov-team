@@ -21,6 +21,7 @@
 - Training status (Wrap up)
   * Next steps
 - Help Desk
+  - What will be the expectation on timeline for VHA Digital Media to respond when things get escalated to them
   - capacity for screen sharing sessions
 - VAMC migration list for Dec 1st
   * (18) systems:  central western massachusetts, central ohio, columbia missouri, northern arizona, mountain home, st louis, marion, north texas, amarillo, el paso, texas valley, greater los angelos, phoenix, beckley, and louisville 
