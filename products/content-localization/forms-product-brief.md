@@ -5,12 +5,9 @@ _Describe the current-state of your problem and the environment in which it exis
 
 - The C+L team would like to create a spanish version of the 1010CG form.
 - Form applications call the forms library for components such as the "submit" button or the "continue" button.
-- These are shared components and used across VA.gov forms.
-- All (some?) of these shared components will need to be internationalized (why? so that a button can be dynamically sized to fit translated content as an example?)
-
-- (note:  i18n means abstracting all localizable elements ((user-visible strings, locale-specific data like date, time, and currency formats, keyboard usage, etc.)) out of your application source code and into external files that can be made available for translations.
-
-
+- These components are shared across VA.gov forms.
+- The shared components will need to be internationalized to support translated content.
+- There may also be some UI work to ensure the form fields can support translated content that may have more characters than english version.
 
 
 ### Complication(s)
@@ -26,6 +23,7 @@ _Leverage techniques like 5 Why’s_
 _What’s the fundamental question you are going  to answer?_ 
 
 - Which team owns the form library code?
+- Will all shared components need to be i18n or just the ones needed for 1010cg?
 - Will changes to the shared components be transparent or will teams need to change the way they call the forms today?
 - Can our team undertake the internationalize work with the owning team's oversight? Or is the owning team able to do the work?
 - Will it be "throw-away" work when migration to the new Form Library happens? And what is timing for this?
