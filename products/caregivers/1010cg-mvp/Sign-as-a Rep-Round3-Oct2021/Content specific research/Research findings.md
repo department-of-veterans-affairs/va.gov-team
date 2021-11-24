@@ -152,7 +152,7 @@ Future:
 
 ## Next Steps
 
-* Work with Caregiver program team to determine if we can provide a link/form number and/or explanation of what each document type gives the righs to do
+* Work with Caregiver program team to determine if we can provide a link/form number and/or explanation of what each document type gives the rights to do
 
 * Work with copywriter 
      * To clarify that we need a legal document that gives medical decision-making authority
