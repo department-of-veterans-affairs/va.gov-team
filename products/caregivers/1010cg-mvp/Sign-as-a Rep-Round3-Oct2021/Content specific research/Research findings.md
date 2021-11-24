@@ -100,7 +100,7 @@ The majority of participants who have had to provide legal representative docume
 
 
 ### Often the ability for the Veteran to sign for themself/ make medical decisions/or not depends on the day.
-A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if the Veteran was having a day that they are unable to then the caregiver would sign on their behalf. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privileges to sign and make decisions in the future. They want more ex planationof what each response means. 
+A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if the Veteran was having a day that they are unable to then the caregiver would sign on their behalf. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privileges to sign and make decisions in the future. They want more explanation of what each response means. 
 
 
 - “I wou
@@ -109,16 +109,17 @@ A few participants were unsure of who would sign the application in their circum
 About half of the participants expressed that there was too much information given on each page, and would prefer if the language was more direct. 
 
 - “It should say 1. Can the Veteran sign for themself? 2. If no, who is the legal representative? 3. Do you have legal proof? 4. What type of legal proof do you have?"
-- 
+- "This is VA mumbo jumo." - _referring to the "Who will sign this application page"_
+
 
 ### Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
 Participants don't feel like this copy would stop them from completing the application, but do feel like it leaves a negative impression. One participant thought that this language is the VA's way of keeping people out of the program. 
 
-- "This is too much VA mumbo jumo." - _referring to the "Who will sign this application page"_
+
 
 ## Additional Insights
 * Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
-
+- "Why doesn't the VA look at our patient profile and proactively recommend paperwork and programs that might benefit us now or in the future?" _when asked how they would like to receive this_ "The VA sends out an ungodly amount of notifications... include it in these."
 
 ## Recommendations
 * Rewrite the question and titles to make it more clear that we are requesting for legal representation for **medical decisions** specifically
@@ -134,6 +135,8 @@ Participants don't feel like this copy would stop them from completing the appli
 
 Future:
 * Look into ways of integrating these questions into the signature page
+* For those who do submit a document that can not be accepted, provide a recourse to just "edit" the application rather than having to complete a whole new one
+* Look into the possibility of tying a legal representative document that is already on file with VA to the application
 
 
 ## Next Steps
@@ -144,7 +147,7 @@ Future:
      * To clarify that we need a legal document that gives medical decision-making authority
      * To make the questions more direct and concise
      * To make the language around not being able to accept a document causing delay or application rejection less harsh
-     * Provide directions for next steps for those who need to obtain legal documentation
+     * Provide directions for next steps for those who need to obtain the legal representative documentation
 
 
 
