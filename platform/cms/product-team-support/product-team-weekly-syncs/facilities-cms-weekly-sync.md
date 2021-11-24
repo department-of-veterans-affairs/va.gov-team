@@ -31,26 +31,48 @@
   - CMS epic [#7021](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7027), Q1 candidate 
 - Process for requesting whitelisting of valid urls causing broken link alerts
   - [See this mural](https://app.mural.co/t/vagov6717/m/vagov6717/1625083889225/3d7c221ff154a425e200569f93d40c54e5cce9ad?sender=kevinwalsh8610)
+  - Iteration potentially coming in 2022 on the UI. 
 - Facility status more info (should be required for all but "normal")
   - Didn't make it into CMS sprint 46, candidate for 47
+  - In the meantime, [audit can be done manually](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7027)
 
 ### Vet Center
 
-- Kona 
+- Kona (done!)
 - Training to edit national content for Jessica and Barb
-- Routing process for name change requests ("official")
-
+  - CMS sprint 47 training and/or KB - Kev/Steve and Jane to connect
+- Routing process for name change requests ("official") 
+- District 4 kickoffs are scheduled for Dec 8 and 9 
+  - Final list incoming 
 
 ### VAMC
 
 - Top tasks 
-
+  - Ryan and Aman are cautiously optimistic about completing pages this sprint
+  - ACs are a bit unclear about how things should look and a content design iteration can be prioritized, or not, once real content is in there.
 
 ### NCA facility status 
-- what does it take to make this happen?
-- user credentials
-- request fulfillment 
+- what does it take to make this happen, along the lines of what we did for Vet Centers
+  - user credentials - who? 
+    - Dave C has meeting Mond Dec 6 with NCA, who wants to take this over
+  - NCA's existing content is not plain language or concise (see https://www.cem.va.gov/alerts.asp)
+    - Training may need to highlight the character limits and language
+  - CMS training issue candidate for Sprint 47: develop training NCA users, adapting the Vet Center training. 
+  - Separate issue for onboarding and delivering training, in 2nd half of Sprint 47 or possibly later.
+  - Existing functionality will be one by one 
+- Request fulfillment for bulk updates
  
+### GovDelivery delays
+
+- Content build switch to Github Actions from Jenkins broke the last step in content build that communicated to CMS that the content was ready to link to in a GovDelivery email.
+- Still an issue, Platform CMS has raised this with FE tools team that has been driving the Github Actions adoption.
+
+### Escalating help desk issues 
+
+- When should CMS communicate the escalation of issues, such as the GovDelivery defect that drew the attention of leadership at a VAMC? 
+- This will require some further conversation, Clarence taking lead. 
+
+
 
 ## November 10
 
