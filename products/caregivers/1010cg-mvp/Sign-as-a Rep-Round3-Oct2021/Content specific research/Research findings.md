@@ -73,54 +73,64 @@ The research questions we sought to address:
 
 ## Key Findings
 
-1. Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
-2. Participants think about legal representative documentation based on what it enables them to do (eg. make medical decisions) rather than the form name itself.
-3. Often the ability for the Veteran to sign for themself/ make medical decisions or not depends on the day.
-4. Participants wish that the text could be shorter and more precise.
+1. Participants think about legal representative documentation based on what it enables them to do (eg. make medical decisions) rather than the form name itself.
+2. Participants used words: Medical proxy, medical POA, and Caregiver letter to describe legal representative proof that they have provided as proof to make medical decision on behalf of the Veteran
+3. Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order"
+4. Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
+5. Often the ability for the Veteran to sign for themself/ make medical decisions/or not depends on the day.
+6. Participants wish that the text could be shorter and more precise.
      - Participants do like that "VA cannot accept these documents" list is provided
-5. Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
+7. Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
 
 
 ## Details of Findings
-
-### Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
-The majority of participants who have had to provide legal representative documentation obtained the forms through the VA. Some participants also went through a lawyer, but believe that VA paperwork is needed for the VA. Because participants think that in this section of the application the VA is requesting a VA form, they believe that there should be a form number or link to the form provided. Additionally, participants think that there should be directions on how to obtain the form for those that do not currently have it.
 
 ###  Participants think about legal representative documentation based on what it enables them to do (eg. make medical decisions) rather than the form name itself.
 Many participants didn't know the exact name of their legal representative documents, but rather understood the different types of scenarios and what type of paperwork would be useful in a given situation. People think in the categories of: legal, financial, and medical. For some the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
 
 - “P
 
-### Often the ability for the Veteran to sign for themself/ make medical decisions or not depends on the day.
-A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if they are having a day that they are unable to then the caregiver would sign on their behalf. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privledges to sign and make decisions in the future. They want more details of what each response entails. 
+### Participants used words: Medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran. 
+Participants with this named proof felt fairly confident in selecting "Health care power of attorney with legal authoruty to make health care decisions for the Veteran." One participant thought "POA" usually refers to financial duties, but didn't think it would stop her from moving through the form.
+
+### Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order"
+
+### Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
+The majority of participants who have had to provide legal representative documentation obtained the forms through the VA. Some participants also went through a lawyer, but believe that VA paperwork is needed for the VA. Because participants think that in this section of the application the VA is requesting a VA form, they believe that there should be a form number or link to the form provided. Additionally, participants think that there should be directions on how to obtain the form for those that do not currently have it.
+
+
+### Often the ability for the Veteran to sign for themself/ make medical decisions/or not depends on the day.
+A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if the Veteran was having a day that they are unable to then the caregiver would sign on their behalf. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privileges to sign and make decisions in the future. They want more ex planationof what each response means. 
 
 
 - “I wou
 
 ### Participants wish that the text could be shorter and more precise.
-About half of the participants expressed that there was two much information given on each page, and would prefer is the language was more direct. 
+About half of the participants expressed that there was too much information given on each page, and would prefer if the language was more direct. 
 
 - “It should say 1. Can the Veteran sign for themself? 2. If no, who is the legal representative? 3. Do you have legal proof? 4. What type of legal proof do you have?"
+- 
 
 ### Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
 Participants don't feel like this copy would stop them from completing the application, but do feel like it leaves a negative impression. One participant thought that this language is the VA's way of keeping people out of the program. 
 
-- "Whi
+- "This is too much VA mumbo jumo." - _referring to the "Who will sign this application page"_
 
 ## Additional Insights
 * Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
+
 
 ## Recommendations
 * Rewrite the question and titles to make it more clear that we are requesting for legal representation for **medical decisions** specifically
 
 * Rewrite questions to be more direct
 
-* Explore the possibility of including a link, form number, and/or explanation for each document type
+* Explore the possibility of including a link, form number, and/or explanation of the use for each document type
 
 * Provide a path for those who don't have the paperwork, but need to obtain it
 
 * Explore the possibility of making this section of the form visually distinct from the rest of the form so that it feels more cohesive with the signature page rather than the application pages
-     * Also explore the possibility of breaking up the review section and signature section and having the document upload option between them
+     * Explore the possibility of breaking up the review section and signature section and having the document upload option between them
 
 Future:
 * Look into ways of integrating these questions into the signature page
