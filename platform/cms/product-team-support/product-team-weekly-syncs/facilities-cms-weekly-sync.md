@@ -31,14 +31,19 @@
   - CMS epic [#7021](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7027), Q1 candidate 
 - Process for requesting whitelisting of valid urls causing broken link alerts
   - [See this mural](https://app.mural.co/t/vagov6717/m/vagov6717/1625083889225/3d7c221ff154a425e200569f93d40c54e5cce9ad?sender=kevinwalsh8610)
+- Facility status more info (should be required for all but "normal")
+  - Didn't make it into CMS sprint 46, candidate for 47
 
 ### Vet Center
 
-- Facility status more info (should be required for all but "normal")
-- Top tasks 
 - Kona 
 - Training to edit national content for Jessica and Barb
 - Routing process for name change requests ("official")
+  - CMS issue 
+
+### VAMC
+
+- Top tasks 
 
 
 ### NCA facility status 
