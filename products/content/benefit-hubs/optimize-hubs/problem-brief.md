@@ -14,7 +14,7 @@ We need to revisit our overall content and information architecture to optimize 
 _Describe what’s changed and how it impacts your team._\
 _Leverage techniques like 5 Why’s_ 
 
-- **Resources and Support:** We have a Resources and Support section for supporting content, but not a clear vision for what content belongs in the main benefits hubs, what content belongs in Resources and Support, and how the 2 sections work together to support Veterans', service members', and family members' needs.
+- **Resources and Support:** We have a Resources and Support section for supporting content, but not a clear vision for what content belongs in the main benefits hubs, what content belongs in Resources and Support, what should be reusable across both (and beyond), and how the 2 sections work together to support Veterans', service members', and family members' needs.
 - We have more Veteran-facing content to migrate into the modernized experience. We want to have a holistic strategy in place that informs how we migrate that content. 
 - New initiatives such as "My VA" and the "health apartment" will impact benefit hubs, and we need to make sure our work is aligned with these initiatives.
 - OCTO is creating more channels for content (such as the mobile app and the chatbot). We need to work toward structuring content in a way that it can be stored centrally and used modularly across channels. 
