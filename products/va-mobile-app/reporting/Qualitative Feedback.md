@@ -84,6 +84,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## Disability claim status
 
+- 11/22/21: "App is decent but can be much better. Like actually giving some information on where EXACTLY claim is. More than just we received your claim. How bout claim was received on June 20 by Jane smith. Jane smith is doing or is waiting for x y and z. Your claim has moved to John Doe and he is working on x, y, and z. Telling the vet that his claim is up to date as of the current date is misleading because they may think that there was an update when the app is just giving him the date and time they first logged in for that day. The name of the person working on your claim and/or the office where the calim is located would be beneficial as well." (Apple store review)
+
 - 11/20/21: "100 p&t from BDD claim with no VSO, thanks to this Sub...I got out in October of this year and got the correspondence yesterday through the VA phone app..." [Reddit link](https://www.reddit.com/r/VeteransBenefits/comments/qybpst/100_pt_from_bdd_claim_with_no_vso_thanks_to_this/)
 
 - 11/11/21: "...The only improvement I would like to see is an ability to reresh the status of a disability claim. For instance it its 4:30 in the afternoon now but it is showing my most recent status from when I checked it at 10pm yesterday. It seems you can only check it once per 24 hours with the app. This is fine most of the time but when they are getting close to publishing a final decision, I'd like to refresh more often. As it stands, this is now pushing me back to the website daily." (Apple store review)
