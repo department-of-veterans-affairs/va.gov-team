@@ -86,11 +86,15 @@ The research questions we sought to address:
 
 ###  Participants think about legal representative documentation based on what it enables them to do (eg. make medical decisions) rather than the form name itself.
 Many participants didn't know the exact name of their legal representative documents, but rather understood the different types of scenarios and what type of paperwork would be useful in a given situation. People think in the categories of: legal, financial, and medical. 
+
 a. Participants used words: Medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran. 
-     - Participants with this named proof felt fairly confident in selecting "Health care power of attorney with legal authoruty to make health care decisions for the Veteran." 
-     - One participant thought "POA" usually refers to financial duties, but didn't think it would stop her from moving through the form.
+- Participants with this named proof felt fairly confident in selecting "Health care power of attorney with legal authoruty to make health care decisions for the Veteran." 
+- One participant thought "POA" usually refers to financial duties, but didn't think it would stop her from moving through the form.
+
 b. For some the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
+
 c. Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
+
 d. All participants did guess that they needed to provide proof that specifies medical (level of confidence varied widely)
 
 ### Some participants have paperwork on file with the VA that allows them to speak on behalf of the Veteran, their expectation is that they only need to provide proof of who they are (Eg. ID/ Driver's license), they referred to this as a "Caregiver letter."
@@ -101,7 +105,9 @@ Three of the participants said that they have a VA form referred to as "Caregive
 
 ### Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
 The majority of participants who have had to provide legal representative documentation obtained the forms through the VA. Some participants also went through a lawyer, but believe that VA paperwork is needed for the VA. Because participants think that in this section of the application the VA is requesting a VA form, they believe that there should be a form number or link to the form provided. Additionally, participants think that there should be directions on how to obtain the form for those that do not currently have it.
-
+- "It should have the form number or a link to where to download the form."
+- "It would be great if there was a glossary to explain what each one is, because they are called different things in different states, and the VA is federal, so just explain what they [document type choices] give the power to do."
+- "What if the person doesn't have these documents, but needs them? You should tell them how to get them. Also explain that sometimes you can add on to an existing one like a general POA- since you say you can't accept that."
 
 
 ### Often the ability for the Veteran to sign for themself/ make medical decisions/or not depends on the day.
@@ -123,7 +129,7 @@ Participants don't feel like this copy would stop them from completing the appli
 
 ## Additional Insights
 - Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
-     - "Why doesn't the VA look at our patient profile and proactively recommend paperwork and programs that might benefit us now or in the future?" _when asked how they would like to receive this_ "The VA sends out an ungodly amount of notifications... include it in these."
+     - "Why doesn't the VA look at the patient medical record and proactively recommend paperwork and programs that might benefit us now or in the future?" _when asked how they would like to receive this_ "The VA sends out an ungodly amount of notifications... include it in these."
 
 
 ## Recommendations
