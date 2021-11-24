@@ -28,8 +28,9 @@
 ### All facilities
 
 - operational special instructions - implementation in CMS and FE
+  - CMS epic [#7021](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7027), Q1 candidate 
 - Process for requesting whitelisting of valid urls causing broken link alerts
-
+  - [See this mural](https://app.mural.co/t/vagov6717/m/vagov6717/1625083889225/3d7c221ff154a425e200569f93d40c54e5cce9ad?sender=kevinwalsh8610)
 
 ### Vet Center
 
