@@ -43,9 +43,99 @@ Pay debts
 
 The ebenefits team launched a new payment history page recently. Here is a [screenshot of the current payment history page.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/View%20Payment%20History.png)
 
-All of the data points are pulled a single API call from BGS (Benefits Gateway Services). 
+All of the data points are pulled a single API call from BGS (Benefits Gateway Services). There may be other data that we are not getting and might need to add it (like deductions for VA insurance or VA debt) - that investigation is recent and on-going. The current data that is being pulled is:
 
-[Spreadsheet of data points](need to link)
+      <payment>
+
+                  <beneficiaryParticipantID>123456</beneficiaryParticipantID>
+
+                  <fileNumber>123456</fileNumber>
+
+                  <payeeType>Veteran</payeeType>
+
+                  <paymentAmount>17024.2</paymentAmount>
+
+                  <paymentDate>2020-08-06T00:00:00-05:00</paymentDate>
+
+                  <paymentStatus>Scheduled</paymentStatus>
+
+                  <paymentType>Compensation &amp; Pension - Retroactive</paymentType>
+
+                  <paymentTypeCode>3</paymentTypeCode>
+
+                  <programType>Compensation</programType>
+
+                  <recipientName>DARDANTESTY</recipientName>
+
+                  <recipientParticipantID>600338895</recipientParticipantID>
+
+                  <scheduledDate>2020-08-03T00:00:00-05:00</scheduledDate>
+
+                  <veteranName>DARDANTESTY</veteranName>
+
+                  <veteranParticipantID>600338895</veteranParticipantID>
+
+                  <addressEFT>
+
+                     <accountNumber/>
+
+                     <accountType/>
+
+                     <bankName/>
+
+                     <routingNumber/>
+
+                  </addressEFT>
+
+                  <checkAddress>
+
+                     <addressLine1>DARDAN TESTY</addressLine1>
+
+                     <addressLine2>105 WENSE AVE</addressLine2>
+
+                     <addressLine3>SEFFER FL 33584</addressLine3>
+
+                     <addressLine4/>
+
+                     <addressLine5/>
+
+                     <addressLine6/>
+
+                     <addressLine7/>
+
+                     <zipCode>33584</zipCode>
+
+                  </checkAddress>
+
+                  <paymentRecordIdentifier>
+
+                     <paymentID>12532661</paymentID>
+
+                  </paymentRecordIdentifier>
+
+                  <returnPayment>
+
+                     <checkTraceNumber/>
+
+                     <returnReason/>
+
+                  </returnPayment>
+
+               </payment>
+
+
+
+**If you’re a Veteran, you’ll see a history of your past VA payments for:**
+
+- Disability compensation
+- Pension benefits
+- Education benefits
+
+**If you’re the survivor of a Veteran or service member, you’ll see a history of your past VA payments for:**
+
+- Survivors pension benefits
+- Survivors' and Dependents' Educational Assistance (Chapter 35 benefits)
+- Dependency and Indemnity Compensation (DIC)
 
 
 
@@ -60,7 +150,7 @@ The current IA is two separate tools doing two separate things.
 
 They are currently working on a content page to bring all of these tools (financial tools) together, it's broken up into what VA owes you + What You owe the VA. This is not currently launched, but it's being worked on. 
 
-- When will this be launched? (asked mikki via slack, waiting on reply)
+- When will this be launched? Timeline is pending.
 
 ![Content page wireframe (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Financial%20Wireframe.png)
 
@@ -68,16 +158,31 @@ The team is concerned that the static content page maybe isn't the right approac
 
 ### From the Debt Team:
 
+- [Debt letters UXPin](https://preview.uxpin.com/b52fd08cb24226745f9d97041910a46c984ddc57#/pages/140629615/comment/sitemap?mode=i)
+- [Manage VA Debt Staging](https://staging.va.gov/manage-va-debt/) - User 1 should work
+
+**What currently exists on staging with debt letters**
+
+- Current debts
+- Download debt letters
+- How do I pay VA debt? (online, phone, by mail)
+- How do I get financial help?
+- How do I dispute a debt?
+
+![Current debt cards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Debt%20Letters%201%20(current).png)
+
+![Debt Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Debt%20Details.png)
+
 **What research can be shared about debt?**
 
-This hasn't been research specifically, it's come from several different studies. 
+This hasn't been researched specifically, it's come from several different studies. 
 
 **What would be the most imporant thing to show from a debt perspective?** 
 
 Knowing the balance and then clicking into the tool directly would satisfy user needs
 - The Balance (currently exists)
 - When it is due (currently exists)
-- Status is a potential thing that could change, and maybe would be included... does this need to live on My VA? Yes, some of them need an action that is not make a payment. (they are the blue boxes, will add screenshots)
+- Status (WIP) (Some of them need an action that is not make a payment.)
 
 **What currently exists on Debt Management Tool:**
 - Balance
@@ -87,17 +192,27 @@ Knowing the balance and then clicking into the tool directly would satisfy user 
 - Status
 - Next Steps
 
-Users will only have 1-3 of the debt cards at a time. Where can they get debt from? 
+**Users will only have 1-3 of the debt cards at a time. Where can they get debt from?** 
 - Comp & pen 
 - Education (Post-911 Bill, Chap 33, Chap 35)
 
-[ADD SCREENSHOTS] from becca/riley
+**Potential Errors** 
+- Deceased Veteran
+- Cannot connect to Copays
+
+#### Health care copay
+
+The debt team is also working on a tool that shows medical copays, it is set to launch before EOY. Here are the screenshots of what is in staging. 
+
+![Health care copay](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Medical%20Copays.png)
+
+![No health care copays](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Medical%20Copays.png)
+
 
 ### Thoughts/Questions
 
 - How do we handle co-pays for health care things? (that's a separate thing from debt)
 - Where would we pull debt information from? 
-
 
 
 ### From the Mobile Team:
