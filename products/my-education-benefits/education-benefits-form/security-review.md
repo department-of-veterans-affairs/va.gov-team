@@ -1,9 +1,6 @@
 # Security Review
 
-- Link to product outline 
-- Ensure Product Outline contains Incident Response info, including:
-- Points of contact for your system and dependent VA backends 
-- Links to dashboards that help identify and debug application issues 
+- [Product Outline](product-outline.md)
 - Links to technical diagrams (checked into GitHub alongside your product documentation), including:
 - An architecture diagram, showing involved systems and how they connect. 
 - For non-trivial flows (i.e. more than a single round-trip call from frontend → vets-api → VA Backend), a sequence diagram showing the ordered flow of data and operations between systems. 
