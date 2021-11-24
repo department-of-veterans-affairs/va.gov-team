@@ -93,9 +93,10 @@ Many participants didn't know the exact name of their legal representative docum
 - Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
 - All participants did guess that they needed to provide proof that specifies medical (level of confidence varied widely)
 
-### Three of the participants said that they have a VA form referred to as "Caregiver letter" on file so that they expect to only have to provide ID or identifying information in order to speak on the Veteran's behalf.**
-     - "I have a VA form on file that allows me to talk to the representative when I call in to VA or make appointments."
-     - "The VA has this, I just need to provide my name and last 4 of Social [security number]. Sometimes when I go into a a doctor's appointment with my husband I have to remind them of this. They have such a high turnover rate, I usually have to educate them myself."
+### Some participants have paperwork on file with the VA that allows them to speak on behalf of the Veteran, their expectation is that they only need to provide proof of who they are (Eg. ID/ Driver's license), they referred to this as a "Caregiver letter."
+Three of the participants said that they have a VA form referred to as "Caregiver letter" on file so that they expect to only have to provide ID or identifying information in order to speak on the Veteran's behalf.
+- "I have a VA form on file that allows me to talk to the representative when I call in to the VA or make appointments."
+- "The VA has this, I just need to provide my name and last 4 of Social [security number]. Sometimes when I go into a a doctor's appointment with my husband I have to remind them of this. They have such a high turnover rate, I usually have to educate them myself."
 
 
 ### Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
