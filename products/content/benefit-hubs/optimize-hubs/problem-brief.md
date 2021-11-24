@@ -18,27 +18,27 @@ _Leverage techniques like 5 Why’s_
 - We have more Veteran-facing content to migrate into the modernized experience. We want to have a holistic strategy in place that informs how we migrate that content. 
 - New initiatives such as "My VA" and the "health apartment" will impact benefit hubs, and we need to make sure our work is aligned with these initiatives.
 - OCTO is creating more channels for content (such as the mobile app and the chatbot). We need to work toward structuring content in a way that it can be stored centrally and used modularly across channels. 
-- VA will soon be creating more multilingual content. Increasing the consistency and reusability of content will  
+- VA will soon be creating more multilingual content. Increasing the consistency and reusability of content will help VA ensure accuracy, consistency, and sustainability in translation.  
 
 ### Question(s)
 _What’s the fundamental question you are going  to answer?_ 
 
 **Note:** We are making a decision to focus first on the content that Veterans and family members use to learn about and apply for benefits. We're avoiding the "manage" spoke at this time, as tasks are a different type of content and tied specifically to the authenticated space.
 
-#### Get benefits and more resources content
+#### Near-term questions
 
 Are there opportunities to optimize the structure and content of the existing benefit hubs to better help Veterans and their family members get and manage their benefits?  
 - Can Veterans and family members find the most important content easily?
 - Is there any content within the Get benefits section that Veterans and family members aren't using (and if so, why)?
 - Are there opportunities to reduce the cognitive load on benefit hub pages? 
 
+#### Longer-term questions
 
+- How can we further break down and structure content within the benefit hubs to support modular reuse across VA channels?
+- How can we better deliver content at the right time and the right place for Veterans and family members (benefit hubs, resources and support, facility websites, auth vs. unauth)?
 
-- Can we determine if certain types of content should be moved over to Resources and support?
+#### What we're reviewing for:
 
-
-- Can the structure of the benefit hubs be templatized?
-- 
 - Get benefits
   - Performance of core pages for the -pre-application process (about, eligibility and how to apply)
   - Identify patterns/inconsistencies in existing structures and content
@@ -51,6 +51,8 @@ Are there opportunities to optimize the structure and content of the existing be
 ### Answer(s)
 _How will the problem be solved and what evidence do we have that it will._ 
 _How will you know the problem is solved? What data will you look for?_
+
+#### Near-term questions
 
 - Evaluate the current structure of each benefit hub and identify inconsistencies
 - Review analytics and SEO data to evaluate how pages in the hubs are performing
