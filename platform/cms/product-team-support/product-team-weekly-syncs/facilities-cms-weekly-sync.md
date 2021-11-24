@@ -39,7 +39,7 @@
 - Kona 
 - Training to edit national content for Jessica and Barb
 - Routing process for name change requests ("official")
-  - CMS issue 
+
 
 ### VAMC
 
