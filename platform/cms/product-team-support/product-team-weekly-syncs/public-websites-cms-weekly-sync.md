@@ -35,6 +35,19 @@
 
 </details>
 
+
+## November 24
+* CLP status
+* Recurring events
+  * Sequency / runbook
+    * Research ongoing
+    * Future convo on roadmap to prod
+  * Generating (and ability to regenerate?) sample content for FE dev and QA purposes
+    * Kelson to create some sample content - Update
+    * How does FE pull location for events when available in BE - Kev and Kelson to discuss - Did this happen?
+
+
+
 ## November 17
 
 Cancelled?
