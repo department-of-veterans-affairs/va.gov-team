@@ -23,13 +23,22 @@ _Leverage techniques like 5 Why’s_
 ### Question(s)
 _What’s the fundamental question you are going  to answer?_ 
 
-How might we optimize the structure and content of the existing benefit hubs to set us up for success for upcoming strategic initiatives while continuing to support our users in easily getting and managing their benefits?  
-- Is the most important content easily found by users?
-- What content is not performing and why?
-- Can the structure of the benefit hubs be templatized?
-- Can the content of the benefit hubs be simplified, or, reduced? 
+**Note:** We are making a decision to focus first on the content that Veterans and family members use to learn about and apply for benefits. We're avoiding the "manage" spoke at this time, as tasks are a specific and different type of content.
+
+#### Get benefits and more resources content
+
+Are there opportunities to optimize the structure and content of the existing benefit hubs to better help Veterans and their family members get and manage their benefits?  
+- Can Veterans and family members find the most important content easily?
+- Is there any content within the Get benefits section that Veterans and family members aren't using (and if so, why)?
+- Are there opportunities to reduce the cognitive load on benefit hub pages? 
+
+
+
 - Can we determine if certain types of content should be moved over to Resources and support?
 
+
+- Can the structure of the benefit hubs be templatized?
+- 
 - Get benefits
   - Performance of core pages for the -pre-application process (about, eligibility and how to apply)
   - Identify patterns/inconsistencies in existing structures and content
