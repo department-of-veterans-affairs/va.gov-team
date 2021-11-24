@@ -4,11 +4,11 @@
 ### Situation
 _Describe the current-state of your problem and the environment in which it exists._
 
-- The benefit hubs were launched as part of the WBC effort in November of 2018. 
-- The structure and majority of the content was largely ported over from Vets.gov and augmented by additional content pages migrated from legacy Team site pages. 
-- Over the 3 years the benefit hubs have been live, we have continued to add and modify content. 
-- The structure and organization of the content has not been reviewed to ensure it still meets the needs of our users. 
- 
+We launched the VA.gov benefit hubs as part of the brand consolitation effort in November of 2018. We structured the content in a hub-and-spoke model, with 3 main categories of content in each benefit hub (Get benefits, Manage benefits, More information and resources). We brought the majority of the content over from Vets.gov and then augmented it with content migrated from legacy TeamSite pages.
+
+In the 3 years since the benefit hubs launched, we have continued to add and modify content and make small, iterative changes. Most of this work is reactive, driven by stakeholder requests for updates, changing laws or policies, and additional products. However, we have not reviewed the overall structure and organization of the content to find ways to continually improve how we meet the needs of Veterans and family members. At the same time, we've built a new section for content (Resources and Support), started building products beyond VA.gov that need to draw from VA.gov content (chatbot, mobile app), and started introducing multilingual content in targeted areas.
+
+We need to revisit our overall content and information architecture to optimize the content for Veterans and family members now and in the future. 
 
 ### Complication(s)
 _Describe what’s changed and how it impacts your team._\
