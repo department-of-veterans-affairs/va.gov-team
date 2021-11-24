@@ -86,12 +86,12 @@ The research questions we sought to address:
 
 ###  Participants think about legal representative documentation based on what it enables them to do (eg. make medical decisions) rather than the form name itself.
 Many participants didn't know the exact name of their legal representative documents, but rather understood the different types of scenarios and what type of paperwork would be useful in a given situation. People think in the categories of: legal, financial, and medical. 
-- Participants used words: Medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran. 
+a. Participants used words: Medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran. 
      - Participants with this named proof felt fairly confident in selecting "Health care power of attorney with legal authoruty to make health care decisions for the Veteran." 
      - One participant thought "POA" usually refers to financial duties, but didn't think it would stop her from moving through the form.
-- For some the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
-- Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
-- All participants did guess that they needed to provide proof that specifies medical (level of confidence varied widely)
+b. For some the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
+c. Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
+d. All participants did guess that they needed to provide proof that specifies medical (level of confidence varied widely)
 
 ### Some participants have paperwork on file with the VA that allows them to speak on behalf of the Veteran, their expectation is that they only need to provide proof of who they are (Eg. ID/ Driver's license), they referred to this as a "Caregiver letter."
 Three of the participants said that they have a VA form referred to as "Caregiver letter" on file so that they expect to only have to provide ID or identifying information in order to speak on the Veteran's behalf.
