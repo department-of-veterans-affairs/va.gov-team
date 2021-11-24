@@ -37,7 +37,9 @@ Research shows that users want all payment information in one spot - whether it'
 
 ## Payment History Review (Chat with ebenefits team)
 
-The ebenefits team launched a new payment history page recently. Here is a [screenshot of the current payment history page.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/View%20Payment%20History.png)
+The ebenefits team launched a new payment history page recently. 
+
+![screenshot of the current payment history page.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/View%20Payment%20History.png)
 
 All of the data points are pulled a single API call from BGS (Benefits Gateway Services). There may be other data that we are not getting and might need to add it (like deductions for VA insurance or VA debt) - that investigation is recent and on-going. The current data that is being pulled is:
 
@@ -224,7 +226,11 @@ Overall, payments were seen as of high importance and are expected to be in one 
 
 > "I'd put all payment items together."
 
-The mobile team put together a [draft of how the IA could work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Screen%20Shot%202021-11-22%20at%204.02.11%20PM.png) for the mobile app, and I think a lot of the groupings for financial information could help us shape My VA. The groupings related to payment information are as follows.
+The mobile team put together a draft of how the IA could work for the mobile app, and I think a lot of the groupings for financial information could help us shape My VA. 
+
+![Draft of how the IA could work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/Screen%20Shot%202021-11-22%20at%204.02.11%20PM.png)
+
+The groupings related to payment information are as follows.
 
 **Health care**:
 - Pay your health care copay
