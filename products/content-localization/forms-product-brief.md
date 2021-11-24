@@ -22,6 +22,7 @@
 - Will this be "throw-away" work when migration to the new Form Library happens? And what is timing for this?
 - Alternatively, is it possible to do a MVP stand-along version of 1010cg in spanish to understand and document the dev work and quantify user impact?
 - Would there be sufficient value in just creating a form in sandbox/staging? 
+- Is there a better form to start with than the 1010CG in terms of impact and simplicity of internationalization?
 
 ### Answer(s)
 _How will the problem be solved and what evidence do we have that it will._ 
