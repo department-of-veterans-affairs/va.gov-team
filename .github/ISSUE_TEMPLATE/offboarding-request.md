@@ -25,7 +25,7 @@ Fill out name of individual and *Description* section below.
  - [ ] Remove global/config.yml / SOCKS Access removed (if applicable) 
    > That file (global/config.yml) has a list of email addresses in groups. The email address in those groups is used to lookup their key. Keys are stored in files named with the user’s email address. So, you need to remove the file and their entry in that list to be finished.
  - [ ] AWS Access removed  (if applicable) 
-   > Since there are multible accounts please ensure all are check ie test access.
+   > Since there are multiple accounts please ensure all are check ie test access.
  - [ ] DSVA Slack (if applicable) 
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
  - [ ] User removed from the VA GitHub Org
