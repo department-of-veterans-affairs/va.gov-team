@@ -78,8 +78,7 @@ The research questions we sought to address:
 3. Often the ability for the Veteran to sign for themself/ make medical decisions or not depends on the day.
 4. Participants wish that the text could be shorter and more precise.
      - Participants do like that "VA cannot accept these documents" list is provided
-5. Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
-6. Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
+5. Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
 
 
 ## Details of Findings
@@ -93,7 +92,7 @@ Many participants didn't know the exact name of their legal representative docum
 - “P
 
 ### Often the ability for the Veteran to sign for themself/ make medical decisions or not depends on the day.
-A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if they were having a day that they were unable to then the caregiver would sign on their behalf. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privledges to sign and make decisions in the future. 
+A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if they are having a day that they are unable to then the caregiver would sign on their behalf. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privledges to sign and make decisions in the future. They want more details of what each response entails. 
 
 
 - “I wou
@@ -103,47 +102,41 @@ About half of the participants expressed that there was two much information giv
 
 - “It should say 1. Can the Veteran sign for themself? 2. If no, who is the legal representative? 3. Do you have legal proof? 4. What type of legal proof do you have?"
 
-###  Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
-Participants feel like they 
-
-- "Seems like this is repetitive, as I already clicked the link to apply."
-- *In regards to Primary Caregiver question:* "If you're having someone apply for caregiver, of course you are applying for the benefits. Why else apply or be recognized? *In regards to Secondary Family Caregiver:* "Maybe if there is a way to have Primary and Secondary together to explain the differences so I know right off the bat what I'm applying for. I don't know if everyone gets a Secondary Caregiver."
-- *In regards to Secondary Family Caregiver:* "Is this for an additional Caregiver or am I called a Secondary Caregiver?" *Opened the more info accordion and seemed to understand the difference, but confused as to why this question is on the Primary Caregiver application:* "Maybe should have a second application for Secondary Caregiver."
-
 ### Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
 Participants don't feel like this copy would stop them from completing the application, but do feel like it leaves a negative impression. One participant thought that this language is the VA's way of keeping people out of the program. 
 
 - "Whi
 
 ## Additional Insights
-* Many Caregivers live with the Veteran and/or use their contact information in place of the Veteran's, in the future it might be nice to consider having a checkbox to select the same address, phone, and email to avoid writing the same thing twice.
-
-* Learn more about who qualifies as a Primary/Secondary Caregiver (additional info component)
-
-    * The same people (relations) are listed for both Primary and Secondary, thus this does not help people understand the difference.
-
-    * The list does not match the dropdown list that the user must use to select the relationship of Caregiver to Veteran.
-
-* One participant expressed concern about the Social Security number showing fully on the Review page as she often uses public computers.
-    * "I would close it (review accordion) immediately if I saw my Social Security number and address appear on the screen."
+* Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
 
 ## Recommendations
-* Implement upload documentation question into the workflow
+* Rewrite the question and titles to make it more clear that we are requesting for legal representation for **medical decisions** specifically
 
-* Add additional content/example to help users understand what qualifies as a legal representative document
+* Rewrite questions to be more direct
 
-* Explore more options for the signature page
+* Explore the possibility of including a link, form number, and/or explanation for each document type
 
-In the future
-* Keep the new language for Primary/Secondary Caregiver, but improve the user experience by rethinking both the structure and copy of the question pages, potentially combining them and adding additional information about what each role entails and what the benefits are for each.
-* Consider putting medical facilities question on their own page or clarifying language about what is required or optional.
+* Provide a path for those who don't have the paperwork, but need to obtain it
+
+* Explore the possibility of making this section of the form visually distinct from the rest of the form so that it feels more cohesive with the signature page rather than the application pages
+     * Also explore the possibility of breaking up the review section and signature section and having the document upload option between them
+
+Future:
+* Look into ways of integrating these questions into the signature page
+
 
 ## Next Steps
 
-* Upload page
-  - Implement copy tweaks
+* Work with Caregiver program team to determine if we can provide a link/form number and/or explanation of what each document type gives the righs to do
 
-* Explore options for the representative signature box
+* Work with copywriter 
+     * To clarify that we need a legal document that gives medical decision-making authority
+     * To make the questions more direct and concise
+     * To make the language around not being able to accept a document causing delay or application rejection less harsh
+     * Provide directions for next steps for those who need to obtain legal documentation
+
+
 
 ## Appendix
 ### Conversation guide
