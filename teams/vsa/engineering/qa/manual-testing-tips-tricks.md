@@ -6,7 +6,7 @@
 
 Occasionally, restoring a certain app state requires deleting a specific browser cookie.  For example, Find a VA Form has a PDF-download modal that only opens if the findForms cookie is absent, and you must delete that cookie to restore the modal on next test run.
 
-__NOTE__: Deleting specific cookies is __only possible on desktop__.  Most mobile browsers hide the developer-tools feature that's required.
+__NOTE__: For mobile devices, it's best to test using BrowserStack, where browser dev-tools are available on the live-session window's left panel.  It's generally much more difficult to access browser dev-tools on the actual, physical devices.
 
 Check these online articles showing how to delete a cookie in different popular browsers:
 
