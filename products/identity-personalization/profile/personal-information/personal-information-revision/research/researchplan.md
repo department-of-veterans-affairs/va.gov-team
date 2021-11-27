@@ -168,9 +168,9 @@ Please list the people who will be serving in each role. Include the primary pho
 
 ### Resources
 
-MVP definition
-Conversation Guide
-Prototype
-Synthesis: Notes and affinity map
-Findings report
-Findings Decks - to come
+- MVP definition
+- Conversation Guide
+- Prototype
+- Synthesis: Notes and affinity map - to come
+- Findings report - to come
+- Findings Decks - to come
