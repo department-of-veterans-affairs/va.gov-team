@@ -1,146 +1,194 @@
 # Conversation Guide
-==================
 
 ## Moderator logistics
 -------------------
 
--   Send out the observer instructions to your observers by typing "observer instructions" into #feedback-backchannel
--   Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting
--   Mute your Slack notifications / Do Not Disturb ON so no notifications
--   Have prototype link available
--   Link for participants 1-4: 
--   Update the Zoom sharing settings so participants can share
--   In the Zoom Attendees section, make sure everyone except the participant is on mute
--   In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
--   Check your [screen sharing setup] and share permissions for participants.
--   ADMIT any observers from the waiting room
--   When the participant is ready, begin the session with the following intro:
+- *Send out the observer instructions to your observers by typing "observer instructions" into #feedback-backchannel*
 
-Intro - 3 minutes
+- *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
+
+- *Mute your Slack notifications / Do Not Disturb ON so no notifications*
+
+- *Have prototype link available*
+
+- *Link for participants:* 
+
+- *Update the Zoom sharing settings so participants can share*
+
+- *In the Zoom Attendees section, make sure everyone except the participant is on mute*
+
+- *In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
+
+- *Check your [screen sharing setup] and share permissions for participants.*
+	- *ADMIT any observers from the waiting room*
+	
+- *When the participant is ready, begin the session with the following intro:*to 
+
+
+## Intro - 3 minutes
 -----------------
 
 Thanks for joining us today! My name is Christina and I also have some colleagues on the line observing and taking notes. Today we're going to talk about and look at a section of the Profile the VA.gov website that helps Veterans update their personal information. We'd like to hear your thoughts and get your feedback on this section of the site.
 
 Before we start, a few things I want to mention:
 
--   This entire session should take about 45 to an hour  (We have about 1 hour for this session, but it may be shorter than that). I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
--   In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
--   You'll be interacting with a prototype and a demo tool. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. Do you have any questions about that?
--   If for any reason and at any time you want to stop the session, please let me know.
--   Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-  -   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+- **This entire session should take about 45 to an hour (We have about 1 hour for this session, but it may be shorter than that).** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-Start recording.
+- **In this session, we want to hear your honest opinions. We are not testing your ability.** We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
--   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+- **You'll be interacting with a prototype and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. Do you have any questions about that?
+
+- **If for any reason and at any time you want to stop the session, please let me know.**
+
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+	- If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.**
+
+*Start recording.*
+
+- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+
 
 Warm-up Questions (Optional) - 2 minutes
 ----------------------------------------
 
 Before we look at the prototype, let's start with a few warm-up questions.
 
--   Could you tell me about your experience using VA.gov? 
--   Could you tell me about your experience updating your information on the site?
+- Could you tell me about your experience using VA.gov?
+ 
+- Could you tell me about your experience updating your information on the site?
+
 
 Receiving the Prototype Link and Sharing Screen - 3-5 minutes
 -------------------------------------------------------------
 
 Now we'll move on to the prototype. I'm going to send you a link in the chat and then have you share your screen.
 
-Send a link to the prototype, which starts on the Personal Information page.
+*Send a link to the prototype, which starts on the Personal Information page.*
 
-Instructions for finding Zoom chat (if needed)
+**Instructions for finding Zoom chat (if needed)**
 
--   In the Zoom application on your computer, you'll see a row of buttons at the bottom.
-  -   Computer: Just to the left of center is a conversation bubble that says Chat.
-    -   If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
-  -   If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom.
+
+	- Computer: Just to the left of center is a conversation bubble that says Chat.
+		- If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+		
+	- If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 Were you able to open the link and view it in the browser? Great. Now would you be able to go ahead and share your screen with me?
 
-Screen sharing instructions (if needed)
+**Screen sharing instructions (if needed)**
 
--   In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer).
-  -   If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
--   Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or your web browser.
-  -   Great, now I can see your screen! Thank you for your patience in figuring this out.
--   Backup plan if they cannot figure out how to share screen:
-  -   Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control] Can you click and see if you can move your mouse around on my screen?
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer).
+	- If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+	
+- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or your web browser.
+	- Great, now I can see your screen! Thank you for your patience in figuring this out.
+	
+- Backup plan if they cannot figure out how to share screen:
+	- Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
 Great! Now that we are all set up, I will have you move on to a few tasks.
 
-TASKS:
+
+## TASKS:
 ------
 
 As I mentioned, we will be looking at a section of the Profile on the VA.gov website that helps Veterans update their personal information - in order to determine if the information makes sense and is presented in a way that is helpful for Veterans. I will have you complete a few tasks that will help us understand if changes or improvements need to be made.
 
+
 Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 ----------------------------------------------------------------
 
-Participant is on the Personal Information section page - fields say "edit your personal information to add your [info]."
+*Participant is on the Personal Information section page - fields say "edit your personal information to add your [info]"*
 
--   Now, if you could take a look at this page, but please don't click anything quite yet. 
--   Could you tell me your thoughts on what you see here? What can you do on this page?
--   Is there anything else you would expect to see on this page? Is there anything you did not expect to see on this page?
+- Now, if you could take a look at this page, but please don't click anything quite yet. 
 
-Things to watch for:
---------------------
+- Could you tell me your thoughts on what you see here? What can you do on this page?
 
--   Does the participant understand the meaning of the fields provided?
--   Does the participant have any questions about the information presented?
--   Does the participant mention anything about the order of the fields?
--   Does the participant notice that some fields cannot be edited?
--   Does the participant notice the FAQs pertaining to the information?
+- Is there anything else you would expect to see on this page? Is there anything you did not expect to see on this page?
+
+**Things to watch for:**
+
+- Does the participant understand the meaning of the fields provided?
+
+- Does the participant have any questions about the information presented?
+
+- Does the participant mention anything about the order of the fields?
+
+- Does the participant notice that some fields cannot be edited?
+
+- Does the participant notice the FAQs pertaining to the information?
+
 
 Task 2: Initial Navigation / Edit State - 2 minutes
 ---------------------------------------------------
 
--   Now let's consider how you would update your own information on this page. Could you show me where you would go first to begin updating your preferences?
-  -   If a field other than Preferred name -- And why did you choose to update that field first?
--   (When Edit State appears) And could you tell me your thoughts on what you see here?
--   Are there any answers you would want to select that you don't see listed here?
--   Now, could you show me how you would complete this update?
+*Participant is on the Personal Information section page - fields say "edit your personal information to add your [info]"*
 
-Things to watch for:
---------------------
+- Now let's consider how you would update your own information on this page. Could you show me where you would go first to begin updating your preferences?
+	- If a field other than Preferred name -- And why did you choose to update that field first?
+	
+- (When Edit State appears) And could you tell me your thoughts on what you see here?
 
--   Does the participant navigate to a section other than the Preferred name (listed first)?
--   Does the participant have any questions regarding the order of the fields?
--   Does the participant express any confusion with the name of the selected field?
--   Does the participant have any questions about why certain fields cannot be edited?
+- Are there any answers you would want to select that you don't see listed here?
+
+- Now, could you show me how you would complete this update?
+
+**Things to watch for:**
+
+- Does the participant navigate to a section other than the Preferred name (listed first)?
+
+- Does the participant have any questions regarding the order of the fields?
+
+- Does the participant express any confusion with the name of the selected field?
+
+- Does the participant have any questions about why certain fields cannot be edited?
+
 
 Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
 -------------------------------------------------------------------------
 
-Participant should be on Edit State for any field
+*Participant should be on Edit State for any field*
 
--   Now if you could return to your overall personal information to continue to update your preferences. 
--   Could you show me what you would click on next to continue filling out your preferences?
-  -   If different than the field that is next on the page -- And why did you choose to update that field next?
--   And could you tell me your thoughts on the options you see here?
+- Now if you could return to your overall personal information to continue to update your preferences. 
 
--   Now once again, let's consider if you wanted to add an answer you do not see listed here. Could you show me what you would click on?
--   And could you tell me your thoughts on what you see here? 
--   Are there any answers you'd want to use that you don't see listed here?
--   Now, could you show me how you would complete this update?
+- Could you show me what you would click on next to continue filling out your preferences?
+	- If different than the field that is next on the page -- And why did you choose to update that field next?
+	
+- And could you tell me your thoughts on the options you see here?
 
-Things to watch for:
---------------------
+- Now once again, let's consider if you wanted to add an answer you do not see listed here. Could you show me what you would click on?
 
--   Does the participant navigate to a section other than what appears next in the order? 
--   Does the participant understand the selection terminology?
--   Does the participant have any questions regarding the input field for an answer not listed?
+- And could you tell me your thoughts on what you see here? 
+
+- Are there any answers you'd want to use that you don't see listed here?
+
+- Now, could you show me how you would complete this update?
+
+**Things to watch for:**
+
+- Does the participant navigate to a section other than what appears next in the order? 
+
+- Does the participant understand the selection terminology?
+
+- Does the participant have any questions regarding the input field for an answer not listed?
+
 
 Post-Task Interview - 5 minutes
 -------------------------------
 
--   Overall, how did you feel about this experience and what you saw today?
--   Was there anything that you found confusing? Or that you particularly liked? 
--   Did you notice that some fields could not be edited? What were your thoughts on that?
--   Did you notice the FAQs pertaining to the information? What were your thoughts on that?
--   Any questions for me?
+- Overall, how did you feel about this experience and what you saw today?
 
-Thank-You and Closing - 5 minutes
+- Was there anything that you found confusing? Or that you particularly liked? 
+
+- Did you notice that some fields could not be edited? What were your thoughts on that?
+
+- Did you notice the FAQs pertaining to the information? What were your thoughts on that?
+
+- Any questions for me?
+
+
+## Thank-You and Closing - 5 minutes
 ---------------------------------
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
