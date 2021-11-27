@@ -1,7 +1,7 @@
-Conversation Guide
+# Conversation Guide
 ==================
 
-Moderator logistics
+## Moderator logistics
 -------------------
 
 -   Send out the observer instructions to your observers by typing "observer instructions" into #feedback-backchannel
