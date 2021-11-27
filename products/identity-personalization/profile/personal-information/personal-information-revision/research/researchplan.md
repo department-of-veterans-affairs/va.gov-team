@@ -13,11 +13,9 @@ We recently expanded the personal information section to include preferred name,
 OCTO Objectives
 ---------------
 
--   Increase the quality and reliability of VA services
-
--   Logged-in users can update their personal information easily and instantly
-
--   Logged-in users have a personalized experience, with relevant and time-saving features
+- Increase the quality and reliability of VA services
+- Logged-in users can update their personal information easily and instantly
+- Logged-in users have a personalized experience, with relevant and time-saving features
 
 Veteran Journey
 ---------------
@@ -34,13 +32,9 @@ Research Goals
 --------------
 
 -   Veterans understand the terminology used in the Personal Information section as it pertains to updating or changing their preferences.
-
 -   Veterans can easily find the information needed to specify how they wish to be addressed when visiting VA facilities or communicating with a VA representative.
-
 -   Veterans understand and are not misdirected by the order of the information fields presented.
-
 -   Veterans can navigate through changing or updating their personal information to reflect their preferences
-
 -   Veterans expect to find this information in this section of the profile and website
 
 ### Outcome
@@ -52,17 +46,11 @@ We will use these learnings from this research to determine if any content or IA
 Content/IA:
 
 -   Do the fields/information presented in the Personal Information section match Veterans' expectations?
-
 -   Does the wording of options presented in the Personal Information section match Veterans' expectations?
-
 -   Do Veterans understand the terminology used in the Personal Information section?
-
 -   What terms do Veterans use to describe themselves pertaining to gender, sexual identity pronouns, and names? 
-
 -   Do veterans feel they can find the information they need to accurately describe their personal information preferences?
-
 -   How do Veterans expect to see this information organized on the page? Does anything about the placement of these fields cause confusion?
-
 -   Do veterans find that there are any fields or options missing?
 
 Relevance/Privacy/FAQ:
@@ -72,21 +60,15 @@ Relevance/Privacy/FAQ:
 Adding or Changing Information:
 
 -   Do Veterans understand how to edit and update their personal information?
-
 -   Can Veterans navigate through the process of editing their personal information without encountering any usability hurdles?
 
 ### Hypothesis
 
 -   Veterans will understand how to update their personal information preferences
-
 -   Veterans will be pleased to have more control over how they are addressed when interacting with VA representatives 
-
 -   Veterans will understand the overall fields and options but may have different expectations regarding specific terminology
-
 -   Veterans will show confusion regarding specific terminology. We expect that some of the wording may be different than what they are used to.
-
 -   Veterans will have questions about why we are asking for this information and where/how the information will be used.
-
 -   Veterans will have questions as to whether or not this information is required.
 
 ### Method
@@ -96,7 +78,6 @@ We will be conducting remote, moderated usability testing sessions using Zoom. T
 ### Research materials
 
 -   [Link to conversation guide]
-
 -   [Link to prototype]
 
 Recruitment
@@ -111,9 +92,7 @@ Please schedule 10 participants for 5 fulfilled sessions using the below criteri
 All participants must:
 
 -   be Veterans
-
 -   have a VA.gov account
-
 -   be able to participate from a laptop/desktop device
 
 Additional questions to ask in the screener:
@@ -123,37 +102,25 @@ Additional questions to ask in the screener:
 Recruitment requirements
 
 -   All must have a laptop/desktop device and be willing to be complete their interview on said device
-
 -   The participants have Zoom downloaded prior to the session
-
 -   The participants know how to screen share
-
 -   Note that our prototype isn't compatible with assistive technology
 
 Must haves for participants
 
 -   At least 2 people who identify as other than straight or heterosexual
-
 -   At least 3 people who identifies as other than cis-gender
 
 Good to have for participants
 
 -   At least 3 women
-
 -   At least half of the participants identify as a person of color
-
 -   At least 2 participants under 30 and 2 participants over 55
-
 -   At least one person who does not have a college degree (to include enlisted Vets)
-
 -   At least one person who has a college degree (to include officer Vets)
-
 -   At least one person who lives in a rural or remote area
-
 -   At least one person who lives in a major metropolitan area
-
 -   At least one person with a disability rating of 70% or greater
-
 -   At least one person with an identified cognitive consideration of PTSD or TBI
 
 ### What is your recruitment strategy?
@@ -174,21 +141,15 @@ Schedule at least 30 minute breaks in-between sessions.
 Team Availability
 
 December 13 - 11am - 7pm EST 
-
 December 14 - 11am - 7pm EST 
-
-December 15 - 11am - 7pm EST 
-
-December 16 - 11am - 7pm EST 
+December 15 - 11am - 7pm EST  
 
 ### Pilot Session
 
 Team Availability
-
 TBD
 
 Pilot participant name and email: TBD
-
 Date and time of pilot session: TBD
 
 Team Roles
@@ -197,31 +158,19 @@ Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
 -   Moderator: Christina Gednalske
-
 -   Research guide writing and task development: Christina Gednalske
-
 -   Participant recruiting & screening: Perigean
-
 -   Project point of contact: Christina Gednalske
-
 -   Participant(s) for pilot test: TBD
-
 -   Note-takers: TBD
-
 -   Observers: Marci, Samara, TBD - (open question for Samara)
-
 -   List email addresses for those who should attend and observe the sessions: TBD
 
 ### Resources
 
 MVP definition
-
 Conversation Guide
-
 Prototype
-
 Synthesis: Notes and affinity map
-
 Findings report
-
 Findings Decks - to come
