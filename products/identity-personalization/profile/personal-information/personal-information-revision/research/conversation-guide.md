@@ -28,7 +28,7 @@ Before we start, a few things I want to mention:
 -   You'll be interacting with a prototype and a demo tool. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. Do you have any questions about that?
 -   If for any reason and at any time you want to stop the session, please let me know.
 -   Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
--   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+  -   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 Start recording.
 
@@ -52,20 +52,20 @@ Send a link to the prototype, which starts on the Personal Information page.
 Instructions for finding Zoom chat (if needed)
 
 -   In the Zoom application on your computer, you'll see a row of buttons at the bottom.
--   Computer: Just to the left of center is a conversation bubble that says Chat.
--   If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
--   If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  -   Computer: Just to the left of center is a conversation bubble that says Chat.
+    -   If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+  -   If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 Were you able to open the link and view it in the browser? Great. Now would you be able to go ahead and share your screen with me?
 
 Screen sharing instructions (if needed)
 
 -   In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer).
--   If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  -   If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 -   Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or your web browser.
--   Great, now I can see your screen! Thank you for your patience in figuring this out.
+  -   Great, now I can see your screen! Thank you for your patience in figuring this out.
 -   Backup plan if they cannot figure out how to share screen:
--   Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control] Can you click and see if you can move your mouse around on my screen?
+  -   Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control] Can you click and see if you can move your mouse around on my screen?
 
 Great! Now that we are all set up, I will have you move on to a few tasks.
 
@@ -96,8 +96,7 @@ Task 2: Initial Navigation / Edit State - 2 minutes
 ---------------------------------------------------
 
 -   Now let's consider how you would update your own information on this page. Could you show me where you would go first to begin updating your preferences?
-
--   If a field other than Preferred name -- And why did you choose to update that field first?
+  -   If a field other than Preferred name -- And why did you choose to update that field first?
 -   (When Edit State appears) And could you tell me your thoughts on what you see here?
 -   Are there any answers you would want to select that you don't see listed here?
 -   Now, could you show me how you would complete this update?
@@ -117,7 +116,7 @@ Participant should be on Edit State for any field
 
 -   Now if you could return to your overall personal information to continue to update your preferences. 
 -   Could you show me what you would click on next to continue filling out your preferences?
--   If different than the field that is next on the page -- And why did you choose to update that field next?
+  -   If different than the field that is next on the page -- And why did you choose to update that field next?
 -   And could you tell me your thoughts on the options you see here?
 
 -   Now once again, let's consider if you wanted to add an answer you do not see listed here. Could you show me what you would click on?
