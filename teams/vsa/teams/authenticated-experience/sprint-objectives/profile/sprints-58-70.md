@@ -162,6 +162,29 @@ Onboard Christina to this work:
 
 ## Sprint 62 (12/1 - 12/14)
 
+### Communication preferences
+
+- Submit for 508 accessibility review (might need to check in with platform on how exactly to do this)
+
+### Personal information updates
+
+**PM**
+
+- Midpoint review 
+
+**Design**
+
+- Recruit for user testing
+- Start testing, if time 
+
+**FE**
+
+- Continue FE build
+
+**BE**
+
+- Start BE build (tickets TBD after we talk to MPI on Wednesday)
+
 ## Sprint 63 (12/15 - 12/28)
 
 ## Sprint 64 (12/29 - 1/11)
