@@ -32,6 +32,8 @@
 ## Monday, November 29, 2021
 * Integrating/being informed of changes in VAST - both Lighthouse and CMS teams
    * Potentially looking for update on regular cadence. - VAST admins to meet and discuss way to notify us.
+   * CMS has backlog item to discover changes to VAST data
+   * VAST to huddle and get back to LH to notify of any upcoming changes
 * Updating guidelines / KB
   * Will talk to Michelle about creating ticket for Facilities backlog to create templates for e-mail links for making update to vet center info - Dave to update Michelle 
   * Adding michelle to this meeting (starting next week?)
@@ -40,7 +42,12 @@
   * do we have the special insctruictions belong in CMS?
   * CMS to determine best way to get to front end
 * Basic Location Data Questions: Facility type/classification, Phone numbers confusion/conflicts, and "additional inquiries"
+  * need to seperate out phone numbers
+  * What will be source of truth for services phone numbers?  VAST or CMS?
+  * LH to remove "Additional Inquiries" potentially
 * Update on FAPI bug not displaying all CMS overlays.
+  * CMS to create a backlog item to look at updating facility and service URLS 
+  * CMS folks to Async and come up with timeline to fix (SWirt and Kev)
 
 ## Monday, November 22, 2021
 * Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
