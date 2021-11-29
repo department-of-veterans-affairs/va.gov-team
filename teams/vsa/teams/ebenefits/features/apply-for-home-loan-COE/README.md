@@ -4,6 +4,7 @@
 ```
 ## Locations
 - Staging: http://staging.va.gov/housing-assistance/home-loans/apply-for-coe-form-26-1880/introduction
+- - IA Notes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-home-loan-coe.md
 
 #### Communications
 - Team Name: eBenefits
