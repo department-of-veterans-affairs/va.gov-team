@@ -17,7 +17,7 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototype URL TBD and save these links somewhere to paste*
+- *Open a standalone browser window to prototype https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555?mode=cvhidfm*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -98,7 +98,7 @@ While you're looking at this demo tool, I would like you to *talk aloud* as much
 I would like you to share your screen with me so I can watch you use the demo tool in your web browser. 
 - *(refer to Screen sharing instructions above, if needed)*
 
-I'll have you start from a website that I'm going to *[spell/put into the Zoom chat/email/text]* for you to click on (URL TBD). 
+I'll have you start from a website that I'm going to *[spell/put into the Zoom chat/email/text]* for you to click on (https://bit.ly/3FYjFsE). 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
@@ -121,7 +121,7 @@ Imagine that you're looking for a new job, and you heard that your local VA migh
 
 Without trying any of them, could you tell me what you think each of them would do? 
 
-- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / Custom date range / Past events (doesn't work)*
+- *Feedback on date filter options: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / Custom date range / Past events*
 
 - What does *Specific date* mean to you? 
   - How would you expect to use it?
@@ -141,13 +141,13 @@ Now you can go ahead and look for events that could help you find a new job.
 
 - *Any comments on scrolling events and pagination in All upcoming? Y / N*
 
-- *Did they click the "filter events" button? Y / N*
+- *Did they click the "Apply filter" button? Y / N*
 
 *(When see event detail page)* What are your impressions of what you see here?
 
 - *Did they find the Virtual Career Expo? Y / N*
 
-If you wanted to attend this event, what would you do? *(Register button / ______________)*
+If you wanted to attend this event, what would you do? *(Register for this event button / ______________)*
 
 Can you please go back to the previous page? *[Event detail]* 
 
@@ -158,11 +158,11 @@ Once you've registered for this event, is there anything else you would like to 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
 Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up for in January?
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumb / "See other outreach events" at bottom of detail pg / "In this section" menu > Outreach events*
 
 - *Option selected: **All upcoming** / Next week (from Dec 5) / **Next month (from Jan 1**) / Specific date / Custom date range / Past events*
 
-- *Did they click the "filter events" button? Y / N*
+- *Did they click the "Apply filter" button? Y / N*
 
 *(When see event detail page w/recurring event)* Before clicking anywhere, can you tell me about what you see here?
 
@@ -172,21 +172,21 @@ Let's say that you want to try yoga in the new year. Can you find any yoga class
 
 I'd like you to sign up for 2 yoga classes in 2022.
 
-- *Feedback on "Check other times" button:* 
+- *Feedback on "Show more times" button:* 
 
 - *Feedback on scrolling the growing list of times:* 
 
 - How many do you want to see at a time?
 
-- *Clicked Register button for both Jan & Feb yoga classes? (doesn't work)*
+- *Clicked "Register for this event" button for both Jan & Feb yoga classes? (doesn't work)*
 
-- *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
+- *Understand that "Register for this event" is only for the current occurrence? Yes / No / Unknown*
 
 ### Task 4: [Filter by Date--Custom date] - 5 minutes
 
 Now I'd like you to see if there are any VA activities on Memorial Day next year, which is May 30. 
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumb / "See other outreach events" at bottom of detail pg / "In this section" menu > Outreach events*
 
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Specific date** / Custom date range / Past events*
 
@@ -198,7 +198,7 @@ Now you can go ahead and do it.
 
 - *Understand the 12-month limitation? Y / N*
 
-- *Clicked the "filter events" button? Y / N*
+- *Clicked the "Apply filter" button? Y / N*
 
 - *Found the 2 Memorial Day events? Y / N*
 
@@ -206,7 +206,7 @@ Now you can go ahead and do it.
 
 Let's assume that you live in New Orleans, and you have friends from the service joining you for Independence Day next summer. I'd like you to see if there are any Independence Day events that you could attend together while they're here July 1st through 5th.
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumb / "See other outreach events" at bottom of detail pg / "In this section" menu > Outreach events*
 
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / **Custom date range** / Past events*
 
@@ -214,15 +214,16 @@ Let's assume that you live in New Orleans, and you have friends from the service
 
 - *Understand the 12-month limitation? Y / N*
 
-- *Clicked the "filter events" button? Y / N*
+- *Clicked the "Apply filter" button? Y / N*
 
 - *Found the 3 Independence Day events, including 1 in New Orleans? Y / N*
 
 ### Task 6: [Event list & location] - 5 minutes
 
-Can you please go back to the page that shows a list of events?  
+Can you please show a longer list of events? 
+- *(change date filter to All upcoming)*
 
-*(If didn't talk about location info earlier)* How do you know *where* these events are taking place? 
+*(If didn't talk about location info earlier)* How do you know **where** these events are taking place? 
 
 For in-person events, what location information would be useful for you? 
 - *city / state / street address / zip / name of VA facility / ____________*
