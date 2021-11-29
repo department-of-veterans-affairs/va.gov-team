@@ -20,11 +20,11 @@ We know that users really want to see elevated action items + anything that is a
 I've broken things out into 'What the VA owes you' + 'What you owe the VA' for clarity purposes - we need to decide if we actually want to visually break it out on the dashboard. Here is a breakdown of how payments/finances should be handled on My VA.
 
 **What the VA owes you**
-- Payment recieved 
+- Payment recieved (Should this show actual numbers, or should this just be a link?)
     - Disability compensation
     - Pension compensation
     - Education 
-- Request travel reimbursement [link]
+- Request travel reimbursement [https://www.va.gov/health-care/get-reimbursed-for-travel-pay/]
 
 **What you owe the VA**
 - Payment due (debt)
@@ -35,7 +35,7 @@ I've broken things out into 'What the VA owes you' + 'What you owe the VA' for c
 **Related links**
 - Manage Direct deposit [link]
 - View Payment History [link]
-- View Education Information [link]
+- View your GI Bill Statement of Benefits. [link] (?? Do we need this??)
 
 We need to figure out how much information we show for each of these data points. Based on how My VA is set up currently, we should probably only show the 'most important' thing and then link to everything else. As of right now, the only 'most important thing' would be an upcoming payment that is due. 
 
@@ -80,3 +80,4 @@ All of the data points are pulled from a single API call from BGS (Benefits Gate
 1. We need to keep IA in mind as we're designing this section. If this is meant to be the 'all inclusive financial section' for VA.gov then that might change how we approach it.
 2. Down the line we may want to call out specific payments recieved, e.g. education payments.
 3. If we show healthcare copays, should there be anythiing that shows up in the health care section about copays?
+4. We need to test this feature to make sure we are showing the appropriate amount of information. 
