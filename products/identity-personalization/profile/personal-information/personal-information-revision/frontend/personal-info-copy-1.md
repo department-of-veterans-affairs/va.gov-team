@@ -1,5 +1,6 @@
 # Personal Information Front-End Documentation
-Last Updated 11/17/2021
+## Note: This version will be used ONLY if we determine that the text fields should not be visible UNTIL the user selects "other" 
+Last Updated 11/29/2021
 
 - [Personal Information Page - Read Only State](#personal-information-page---read-only-state)
 - [Personal Information Page - Blank State](#personal-information-page---blank-state)
