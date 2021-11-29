@@ -196,6 +196,7 @@ Anything unfinished from last sprint, plus...
 **Design**
 
 - Recruit for user testing
+- Mock session for user testing
 - Start testing, if time 
 
 **FE**
