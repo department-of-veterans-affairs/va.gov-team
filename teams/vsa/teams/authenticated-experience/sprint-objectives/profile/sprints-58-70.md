@@ -162,6 +162,9 @@ Onboard Christina to this work:
 
 ## Sprint 62 (12/1 - 12/14)
 
+### PTO
+- Lihan: December 10 - 23
+
 ### Communication preferences
 
 - Submit for 508 accessibility review (might need to check in with platform on how exactly to do this)
