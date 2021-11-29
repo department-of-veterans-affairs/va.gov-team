@@ -116,3 +116,4 @@ Dec 6, 2021 | Noon - 3 pm, 4 - 8 pm
 
 ## Approvals
 Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
+Reviewed and approved by Lauren Alexanderson on Nov 24, 2021.
