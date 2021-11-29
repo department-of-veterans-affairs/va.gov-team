@@ -137,7 +137,7 @@ Edit your profile to add a pronoun <br>
 ---
 
 
-**Birth sex**
+**Sex assigned at birth** 
 Female
 - _Note this is a change to the existing label that currently reads 'Gender'_
 - _Note - this field is non-editable_
