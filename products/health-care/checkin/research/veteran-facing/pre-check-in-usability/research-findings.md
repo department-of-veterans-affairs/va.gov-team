@@ -383,5 +383,5 @@ _List all groups in red from the spreadsheet_
 * Identify as Latinx, Biracial, Asian, +  Native
 * Use of assistive technology (AT)
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+Screenshot of completed recruitment checker
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/Screen%20Shot%202021-11-29%20at%2010.53.27%20AM.png)
