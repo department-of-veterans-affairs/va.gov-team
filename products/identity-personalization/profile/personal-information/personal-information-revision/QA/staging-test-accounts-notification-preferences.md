@@ -1,1 +1,1 @@
-Test and use case info is in the sensitive repo.
+Test and use case info is stored in the [sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile-personal-info.md).
