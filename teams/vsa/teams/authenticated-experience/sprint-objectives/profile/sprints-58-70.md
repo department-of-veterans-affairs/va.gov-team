@@ -162,12 +162,24 @@ Onboard Christina to this work:
 
 ## Sprint 62 (12/1 - 12/14)
 
+Anything unfinished from last sprint, plus...
+
 ### PTO
 - Lihan: December 10 - 23
 
-### Communication preferences
+### General updates
+
+- Scope/prioritize reminder for address updates to remind Veterans they have two addresses on file they may need to update #30112
+
+### Notification preferences
+
+**PM**
 
 - Submit for 508 accessibility review (might need to check in with platform on how exactly to do this)
+
+**Design**
+
+- Update content to reflect notification settings #29582
 
 ### Personal information updates
 
