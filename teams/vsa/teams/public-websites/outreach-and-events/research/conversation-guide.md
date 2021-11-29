@@ -170,7 +170,7 @@ Let's say that you want to try yoga in the new year. Can you find any yoga class
 
 - *Feedback on "Find other times for this event":* 
 
-I'd like you to sign up for 2 yoga classes in 2022.
+I'd like you to sign up for the first 2 yoga classes in 2022.
 
 - *Feedback on "Show more times" button:* 
 
