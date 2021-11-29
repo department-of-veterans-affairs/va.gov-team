@@ -4,7 +4,8 @@
 
 Running in a Github Codespace CMS instance, the Multilingual and Translation Management modules were installed. After modules installation, the configuration was updated to add Spanish as a translated language for all content. In addition to the core page content, the 'paragraph' types were also configured to allow Spanish language translation, otherwise the custom blocks of contents would  not be exported when XLF files were generated.
 
-IMAGE OF CONTENT TRANSLATION CHECKBOXES
+![Screen Shot 2021-11-29 at 2 21 35 PM](https://user-images.githubusercontent.com/8332986/143944822-846a5352-7979-40d3-94be-a3171947a491.png)
+
 
 ### Exporting XLIFF files
 
