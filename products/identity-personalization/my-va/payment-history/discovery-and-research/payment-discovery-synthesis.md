@@ -37,6 +37,8 @@ I've broken things out into 'What the VA owes you' + 'What you owe the VA' for c
 - View Payment History [link]
 - View Education Information [link]
 
+We need to figure out how much information we show for each of these data points. Based on how My VA is set up currently, we should probably only show the 'most important' thing and then link to everything else. As of right now, the only 'most important thing' would be an upcoming payment that is due. 
+
 ### Information we have access to
 
 #### Payment History breakdown
@@ -48,7 +50,7 @@ I've broken things out into 'What the VA owes you' + 'What you owe the VA' for c
 - Bank
 - Account number
 
-All of the data points are pulled a single API call from BGS (Benefits Gateway Services). *There may be other data that we are not getting and might need to add it (like deductions for VA insurance or VA debt) - that investigation is recent and on-going.* 
+All of the data points are pulled from a single API call from BGS (Benefits Gateway Services). *There may be other data that we are not getting and might need to add it (like deductions for VA insurance or VA debt) - that investigation is recent and on-going.* 
 
 #### Debt + Copay breakdown
 
@@ -65,3 +67,16 @@ All of the data points are pulled a single API call from BGS (Benefits Gateway S
 - Balance
 - When payment is due
 - Link to details
+
+### Things that should not be in MVP
+
+- Survivors pension
+- Surviviors comp (DIC)
+- Caregiver program
+- VA Homeloans information
+
+### Thoughts/Questions
+
+1. We need to keep IA in mind as we're designing this section. If this is meant to be the 'all inclusive financial section' for VA.gov then that might change how we approach it.
+2. Down the line we may want to call out specific payments recieved, e.g. education payments.
+3. If we show healthcare copays, should there be anythiing that shows up in the health care section about copays?
