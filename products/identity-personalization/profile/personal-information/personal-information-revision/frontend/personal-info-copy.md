@@ -183,7 +183,7 @@ The Edit state is structured the same as the read-only state, except that the fi
 ## Edit State - Required _Other_ Fields
 
 ### Specification
-The Pronouns (3), Gender identity (5), and Sexual orientation (6) fields each provide an "other" option.  When this option is selected, a text box is displayed, and is denoted as being required as shown in 3a, 5a, and 6a in the table below.  
+The Pronouns (3), Gender identity (5), and Sexual orientation (6) fields each provide an "other" option.  When this option is selected, its accompanying text box (3a, 5a, and 6a in the table below) become required.  No error message is displayed unless the user attempts to save without entering a value into the now-required field.
 
 ### Sketch Mockups
 - [Personal Information Page - Desktop Required Other Fields state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/MyzeRwb)
