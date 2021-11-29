@@ -115,5 +115,5 @@ Dec 6, 2021 | Noon - 3 pm, 4 - 8 pm
 - Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com), Jim Adams (james.adams@gcio.com)
 
 ## Approvals
-Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
-Reviewed and approved by Lauren Alexanderson on Nov 24, 2021.
+- Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
+- Reviewed and approved by Lauren Alexanderson on Nov 24, 2021.
