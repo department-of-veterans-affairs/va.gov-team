@@ -57,7 +57,7 @@ Note: This assumes we are pivoting this work, which we still need to discuss as 
 ## Sprint 62 (12/1 - 12/14)
 [Sprint 62 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30188)
 
-Anything unfinished from last sprint, plus..
+Anything unfinished from last sprint, plus...
 
 ### PTO
 
