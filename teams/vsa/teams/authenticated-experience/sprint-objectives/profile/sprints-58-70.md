@@ -171,6 +171,11 @@ Anything unfinished from last sprint, plus...
 
 - Scope/prioritize reminder for address updates to remind Veterans they have two addresses on file they may need to update #30112
 
+### Direct deposit
+
+- All direct deposit updates should be done by Friday
+- Make sure direct deposit works for Login.gov staging users (PM, Design, FE, BE should all do their own validation)
+
 ### Notification preferences
 
 **PM**
