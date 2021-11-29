@@ -29,7 +29,7 @@ Shane Strassberg [shane.strassberg@va.gov], Luciana Morais [luciana.morais@va.go
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
+The virtual agent/chatbot will be accessible on Va.gov in an unauthenticated version Feb 2022, and then in Aprill 2022, an authenticated version will be launced. Veterans will be able to access the chatbot from a link on Contact Us page. The virtual agent’s goal is to respond to inquiries using Va.gov content as the source of information. It will also provide personalized answers to queries such as claim and appeals status. This project is part of the larger Omnichannel strategy (led by VEO) to give veterans seamless access to information, self-service tools, and time-saving outcomes.
 _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
 _Then, describe your goals for this research_
@@ -40,31 +40,55 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Research Questions
 
-_Research questions here_
+We hope to gather the following qualitative insights:
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
+1. How did you feel about the login experience?
 
+2. How do you feel about the introduction?
 
-* Question 
-* Question
-* Question
+3. How do you feel about the warnings and disclaimers you see here?
+
+4. Are there any actions that the bot expects you to take?
+
+5. What information did you wish to see about your claim?
+
+6. Based on the information you have seen about your claim, what action will you take next?
+
+7. How many choices is the bot offering you?
+
+8. When the bot tells you it does not have the answer, how does it make you feel?
+
+9. After reading the response, did you have the information you needed to take the next step to complete your task?
+
+10. How do you feel about the quality of the response you received? Quality refers to your satisfaction with the accuracy of responses. Were you given the correct link? Was your question answered?
+
+11. How do you feel about the voice and tone of the response you received?
+
+12. If the chatbot couldn't answer your question but could connect you to a live agent chat, would you prefer that over speaking by phone with the VA help desk/contact center?
+
+13. Based on your experience today, are you willing to use the chatbot again?
+
+14. What additional feature to the chatbot would improve your experience?
+
+15. Do you have any other feedback you'd like to share?
 
 # Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+We want to conduct a moderated study utilizing a prototype hosted on staging environments. A moderated study will allow us to get the feedback we need while mitigating possible technical frustrations for the Veteran in real-time. 
 
 # Hypotheses and Conclusions
 
+- If the structure of automated content (Drupal) from VA.gov helps or complicates a Veterans ability to answer a question or solve a problem
+   i. Likely True: When testing whether Vets would prefer the full Drupal response, a preview with short descriptor, or simple link to webpage for the question, “Am I eligible for health benefits?“, they consistently preferred the preview because it provided just enough context to make them confident that the webpage link would set them down the right path. They appreciated the full response, but overall felt it was too much info in a small space. The info was more digestible after they followed the link.
+- If there is critical information missing from the claims/appeals chatbot experience
+   i. Likely False: The Claims feature was viewed very impressively. Vets felt that they understood the information provided, really liked that the representative was included, and really appreciated the loading text when the bot was making its API call. A few things that would improve the use of the claims feature would be to change the language around which claim is displayed first because it is actually the most recent claim--not their first claim. Vets also thought including the type of claim in the response, such as “back, PTSD, etc”  would make it faster to know if it was the claim they were looking for an update on. Similarly, rather than just having a “See Next Claim” button, simply presenting each claim as a button with either date, type or claim number would be faster than having to cycle thru multiple claims. We also anticipate some users will ask about a specific claim number, so this capability needs to be added to the existing claims feature.
+- If the visual display of buttons, conversation rules (e.g., non-deviation from topic), and other interaction points cause friction for the Veteran
+   i. Likely False: Vets weren't necessarily confused when presented witha stack of buttons, but as mentioned above, the descriptor needs to be very specific to avoid confusion.
+- How the Veteran feels about chatbot disclaimers such as records retention and crisis management
+   i. True: Vets consistently read the disclaimer before clicking the accept button to enter the chat interface.
+- How important is it for the Veteran to be able to surface a human agent
+   i. Definitely True: Vets consistently explained the desire to be connected to a live agent if they hit enough blockers, but were also content to keep finding their own outcome through the bot first.
 _Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
 # Key Findings
@@ -199,17 +223,17 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **7 participants.**
 
 Audience segment:
-* Veterans: x 
+* Veterans: 7 
 * Caregivers: x 
 * Family members of a Veteran: x  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 5 
+* Female: 2 
 
 
 LGBTQ+:
@@ -219,7 +243,7 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
+* Desktop: 7 
 * Tablet: x 
 * Smart phone: x 
 * Assistive Technology: x
@@ -227,19 +251,19 @@ Devices used during study:
 
 Age:
 * 25-34: x
-* 35-44: x
-* 45-54: x
+* 35-44: 1
+* 45-54: 2
 * 55-64: x
-* 65+: x
+* 65+: 4
 * Unknown: x
 
 
 Education:
 * High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 2
 * Bachelor's degree: x
-* Master's degree: x
+* Master's degree: 4
 * Doctorate degree: x
 * Unknown: x
 
@@ -251,8 +275,8 @@ Geographic location:
 
 
 Race:
-* White: x
-* Black: x
+* White: 6
+* Black: 1
 * Hispanic: x
 * Biracial: x
 * Asian: x
@@ -266,8 +290,8 @@ Disability and Assistive Technology (AT):
 * Desktop screen reader: x
 * Mobile screen reader: x
 * Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 1
+* Hearing aids: 1
 * Sighted keyboard: x
 * Captions: x
 
