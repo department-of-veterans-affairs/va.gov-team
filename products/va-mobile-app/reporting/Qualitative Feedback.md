@@ -5,6 +5,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 11/24/21: "I say thank you..Finally a simple way to handle a one stop shop application! Glad that it got done the right way.. Thank you.." (Apple store review)
+
+- 11/23/21: "Everything you need is at your fingertips. Great job VA!" (Apple store review)
+
 - 11/16/21: "I'm very impressed with this App! It is intuitive, easy to navigate and contains information I never noticed in Safari with MHV. The 'Letters' feature is spot on. I immediately downloaded a couple letters for my records. I sincerely thank whoever thought of the Proof of Service card. It will make checkout at the hardware store, so much easier! I give this App and The VA App Development team a big thumbs up for Ease of use and Content! Keep up the good work!" (Apple store review)
 
 - 11/12/21: "The app is great. I hope it continues to grow to give us access to more things but we are off to a great start." (Apple store review)
@@ -50,6 +54,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 
 ## Appointments
+
+- 11/23/21: "I love this app. Is getting better with each update. For not he only issues is the add the calendar the apple app will trash. Also, hopefully Dark Mode will be added sometime soon. Great job to whoever is working on this app." (Apple store review)
 
 - 11/12/21: "This is a great app to access info quickly and manage your appointments." (Apple store review)
 
