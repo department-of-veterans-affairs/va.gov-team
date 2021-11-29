@@ -30,14 +30,17 @@
 
 
 ## Monday, November 29, 2021
-* Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
+* Integrating/being informed of changes in VAST - both Lighthouse and CMS teams
    * Potentially looking for update on regular cadence. - VAST admins to meet and discuss way to notify us.
 * Updating guidelines / KB
   * Will talk to Michelle about creating ticket for Facilities backlog to create templates for e-mail links for making update to vet center info - Dave to update Michelle 
+  * Adding michelle to this meeting (starting next week?)
 * Operational Hours Special Instructions
   * currently one blob of content with 4 possible options from VAST
   * do we have the special insctruictions belong in CMS?
   * CMS to determine best way to get to front end
+* Basic Location Data Questions: Facility type/classification, Phone numbers confusion/conflicts, and "additional inquiries"
+* Update on FAPI bug not displaying all CMS overlays.
 
 ## Monday, November 22, 2021
 * Mission Valley VA Clinic (664BY) is moving and becoming Kearny Mesa VA Clinic (664BY)
