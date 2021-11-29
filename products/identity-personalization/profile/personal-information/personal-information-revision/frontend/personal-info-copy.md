@@ -191,6 +191,7 @@ The Pronouns (3), Gender identity (5), and Sexual orientation (6) fields each pr
 
 
 ### Form Field Edit State Required _Other_ Fields Labels and Selection Options
+Please note that the red error state is not displayed on the text field unless the user attempts to save without entering a value in the text field.
 
 | Field | Label                  | Form Control                                                                                                                                | Max Length           | Data Type             | Pre-Populated Options                                                                                                                                                    | Comments                                                                                                                                                                                             |
 |-----------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
