@@ -1,6 +1,6 @@
-# Auth. experience team priorities through Q1 2022 (January - March) 
+# Benefits Crew Priorities 2022
 
-## My VA 
+## New benefits workflows 
 
 ### [Add payment information to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/README.md)
 
