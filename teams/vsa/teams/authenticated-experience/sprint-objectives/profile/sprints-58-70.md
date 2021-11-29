@@ -185,6 +185,7 @@ Anything unfinished from last sprint, plus...
 **Design**
 
 - Update content to reflect notification settings #29582
+- Update content for how to update birth name/birth date/birth sex (Update content for health info first if we haven't heard back from VBA)
 
 ### Personal information updates
 
