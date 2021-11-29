@@ -1,11 +1,12 @@
 # Translation Management and XLIFF Export Via Drupal
 
-Process:
+### Setup Process
+
 Running in a Github Codespace CMS instance, the Multilingual and Translation Management modules were installed. After modules installation, the configuration was updated to add Spanish as a translated language for all content. In addition to the core page content, the 'paragraph' types were also configured to allow Spanish language translation, otherwise the custom blocks of contents would  not be exported when XLF files were generated.
 
 IMAGE OF CONTENT TRANSLATION CHECKBOXES
 
-Exporting XLIFF files
+### Exporting XLIFF files
 
 - Open a page in Drupal and navigate to the 'Translate" of the page. Check the box next to the desired language, and click the "Request Translation" button.
 
@@ -21,7 +22,7 @@ Exporting XLIFF files
 
 
 
-Importing XLIFF files
+### Importing XLIFF files
 
 - Open the translation job list by navigating to `/admin/tmgmt/jobs/` and selecting the translation job that you would like to import an XLIFF file for by clicking the 'Manage' button for the job.
 
