@@ -1,6 +1,6 @@
 ---
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: Typeahead POC Release
 
 ### Planning:
 - Desired date range or test duration: December 1, 2021 - January 31, 2022
@@ -12,7 +12,7 @@
 ### Results:
 Findings are inconclusive due to Search.gov defect, [see details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896#issuecomment-795647840). As a result we have created a hardcoded list of typeahead suggestions and established POC2 to evaluate the feature. 
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
+## Phase II: Typeahead POC 2
 
 ### Planning
 
