@@ -134,7 +134,7 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Finding 1**
 
-Labels: label 1, label 2 
+Labels: PRDT: health-care-check-in
 
 Quotes
 
@@ -146,7 +146,7 @@ Quotes
 
 **Finding 2**
 
-Labels: label 1, label 2 
+Labels: PRDT: health-care-check-in
 
 Quotes
 
@@ -157,7 +157,7 @@ Quotes
 
 **Finding 3**
 
-Labels: label 1, label 2 
+Labels: PRDT: health-care-check-in, DSP Form Templates
 
 There weren’t any major usability issues that interfered with the Veteran’s ability to complete the task. Specifically, we tested two different design layouts: task and form. Neither presented any friction. 
 
@@ -170,7 +170,7 @@ Quotes
 
 **Finding 4**
 
-Labels: label 1, label 2 
+Labels: PRDT: health-care-check-in
 
 Other parts of the flow seemed to be familiar for Veterans because it is consistent with previous experience with the VA. For example, after viewing the NOK or contact info page, one veteran said“ This is pretty standard”. Another veteran reviewed the SSN log in page and said “That’s normally what you do when you check-in”. 
 Quotes
@@ -182,7 +182,7 @@ Quotes
 
 **Finding 5**
 
-Labels: label 1, label 2 
+Labels: PRDT: health-care-check-in, HWD: Desktop
 
 
 Quotes
@@ -194,7 +194,7 @@ Quotes
 
 **Finding 6**
 
-Labels: label 1, label 2 
+Labels: PRDT: health-care-check-in
 
 Many veterans valued the statement “ your information will update across VA” that appeared on the contact info page. Some mentioned that this would be great if it really was a “one stop shop” to update all info. But there was an undertone of mistrust. We heard a lot about Veterans referencing poor past experience.  For example, one veteran described his medications being delivered to the wrong address.
 
@@ -208,7 +208,7 @@ Quotes
 
 **Finding 7**
 
-Labels: label 1, label 2 
+Labels: PRDT: health-care-check-in, PRDT: login
 
 The response to fully log in was polarizing among veterans. Some mentioned they thought they were already logged in because they signed in using their SSN at the beginning of the flow.  
 
