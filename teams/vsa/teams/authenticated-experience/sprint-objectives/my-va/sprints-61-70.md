@@ -21,7 +21,6 @@
 - **Heather**: Nov 25
 - **Samara**: Nov 24 - 26
 
-
 ### My VA updates: Adding payment information
 
 **PM**
@@ -58,7 +57,48 @@ Note: This assumes we are pivoting this work, which we still need to discuss as 
 ## Sprint 62 (12/1 - 12/14)
 [Sprint 62 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30188)
 
+### PTO
 
+- **Lihan**: December 10 - 23
+
+### My VA updates: Adding payment information
+
+**PM**
+
+- Schedule design intent (work with Tressa to figure out timing)
+
+**Design**
+
+- Design; Design intent
+
+**FE**
+
+- Technical discovery, if needed
+
+### On-site alerts
+
+Resume project
+
+**PM**
+
+-  Work with team to define needs for VANotify
+-  By the end of the sprint, it should be clear what VANotify needs to do, if anything, and on what timeline they can implement any potential changes 
+
+**Design**
+
+- Work with team to define needs for VANotify
+- Figure out what design needs to be updated; Update design
+- Determine if we need additional user testing or not based on updates
+- Follow-up with collab cycle design intent issues/tickets and let them know about our pivot.
+
+**FE**
+
+-  Work with team to define needs for VANotify
+
+**BE**
+
+- Work with team to define needs for VANotify
+- Determine next steps for backend build; work on build if possible
 
 ## Sprint 63 (12/15 - 12/28)
 [Sprint 63 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30189)
