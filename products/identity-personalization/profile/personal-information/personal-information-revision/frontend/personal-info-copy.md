@@ -28,7 +28,19 @@ Last Updated 11/29/2021
 - Connected apps
 
 ### Info Link
-"How do I update my name. date of birth, or gender?" <br>
+"Why do we ask for this?"
+_On click, this info link will display the following_ see [this Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/kavvLel) for reference
+
+Why we ask for this information
+
+Some of the information in this section tells us how you want to be addressed as a person. For example, our staff will know your pronouns and the name you'd like us to use when you call or come in to VA.
+
+If you get health care through VA, information in this section helps your care team better assess your health needs and risks. For example, gender identity and sexual orientation are some of the factors that can affect a person’s health, well-being, and quality of life. We call these factors “social determinants of health.”
+
+We also collect this information to better understand our Veteran community. This helps us make sure that we’re serving the needs of all Veterans.
+
+### Info Link
+"How do I update my name. date of birth, or sex assigned at birth?" <br>
 _On click, this info link will display the following, as currently seen on va.gov/profile/personal-information_
 
 **If you’re enrolled in the VA health care program**
