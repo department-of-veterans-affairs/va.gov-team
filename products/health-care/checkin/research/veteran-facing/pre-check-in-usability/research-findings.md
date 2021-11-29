@@ -12,15 +12,15 @@ Date: November 24, 2021
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](#hypothesis)
 
-[Key findings](insert link to section)
+[Key findings](#key)
 
-[Recommendations](insert link to section)
+[Recommendations](#recommendations)
 
-[Who we talked to](insert link to section)
+[Who we talked to](#who)
 
-[Further research needed](insert link to section)
+[Further research needed](#further)
 
 <br>
 
