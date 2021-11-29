@@ -5,7 +5,7 @@ Last Updated 11/29/2021
 - [Personal Information Page - Read Only State](#personal-information-page---read-only-state)
 - [Personal Information Page - Blank State](#personal-information-page---blank-state)
 - [Personal Information Page - Edit State](#personal-information-page---edit-state)
-- [Personal Information Page - Edit State - Required _Other_ Fields](#edit-state---required-other-fields)
+- [Personal Information Page - Edit State - Required _Other_ Fields (Error State)](#edit-state---required-other-fields-error-state)
 
 ## Personal Information Page - Read-Only State
 
