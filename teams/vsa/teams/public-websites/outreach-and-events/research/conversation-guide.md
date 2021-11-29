@@ -164,7 +164,7 @@ Let's say that you want to try yoga in the new year. Can you find any yoga class
 
 - *Did they click the "filter events" button? Y / N*
 
-*(When see event detail page w/recurring event)* Can you tell me about what you see here?
+*(When see event detail page w/recurring event)* Before clicking anywhere, can you tell me about what you see here?
 
 - *Understand that there are multiple occurrences of this event? Yes / No / Unknown*
 
