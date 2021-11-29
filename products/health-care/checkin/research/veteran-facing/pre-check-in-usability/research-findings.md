@@ -32,77 +32,84 @@ Managing my declining health during their “Aging” stage
 
 
 The goal is to understand how the pre-check-in experience can lead to the following outcomes:
-Veteran-facing / Caregiver-facing
-Increase usage of mobile check-in on day of appointment
-Ensuring day of check-in is seamless
-Increase in accuracy and/or quantity of pre check-in data, specifically pre registration information
+- Veteran-facing / Caregiver-facing
+- Increase usage of mobile check-in on day of appointment
+- Ensuring day of check-in is seamless
+- Increase in accuracy and/or quantity of pre check-in data, specifically pre registration information
+
 Staff facing
-Administrative and clinical staff are more prepared for appointments
-Minimize the number of no shows, or confusion on the day of the appointment
-MSAs can spend more time on other critical tasks
-Increased accuracy in veteran profile information
+- Administrative and clinical staff are more prepared for appointments
+- Minimize the number of no shows, or confusion on the day of the appointment
+- MSAs can spend more time on other critical tasks
+- Increased accuracy in veteran profile information
 
 Research Goals
-Identify the type of information and how to deliver that information in the pre-check-in user flow to better meet Veterans and Caregivers expectations
-Identify how to improve the content and user flow to make it easier for Veterans and Caregivers to complete pre-check-in
+- Identify the type of information and how to deliver that information in the pre-check-in user flow to better meet Veterans and Caregivers expectations
+- Identify how to improve the content and user flow to make it easier for Veterans and Caregivers to complete pre-check-in
 
 # Research Questions
 
 Identify the type of pre-check-in information and how to deliver that information in the user flow to better meet Veteran and Caregiver expectations
-When and how does pre-check-in start?
-Does an SMS message align with how Veterans expect pre-check-in to be initiated? If not, what other touchpoints are preferred?
-How many days prior to the day of appointment should pre-check-in be initiated?
-What are Veterans expectations on the frequency of receiving reminders? E.g. 2 weeks, 1 week, 3 days
-Should pre-check-in be contingent on a Veteran confirming their appointment?
-Do Veterans have a preferred device (mobile or desktop) to complete these pre-check-in tasks?
-How do Veterans respond to the need to complete a health questionnaire during pre-check-in?
-Does the need to authenticate in the middle of the pre check-in user flow interfere with a Veteran’s ability to complete the task?
-What are Veterans expectations on when and how to cancel an appointment?
-How do the needs of the Caregiver overlap or diverge from that of a Veteran completing pre check-in?
-Identify how to improve the content and interaction experience to make it easier for Veterans and Caregivers to complete pre-check-in
-How do Veterans distinguish between the following terms: Mailing Address, Home Address, Permanent Address, Temporary Address, Next of Kin, and Emergency Contact
-Are Veterans expecting to be able to update their next of kin information or prefer emergency contact information instead?
-Do Veterans understand that updating their contact and next of kin information here will update it across VA?
-Are Veterans able to utilize the modal to update their address information?
-Does providing a read only version of the contact information page meet Veterans expectations?
-Do Veterans have a preference (if at all) for a form list or task list of the pre-check-in activities?
-What do Veterans expect to see on the confirmation page?
-Do Veterans know what to do after completing pre-check-in?
-Does a Caregiver have unique needs that are not being met by the content and design?
+- When and how does pre-check-in start?
+- Does an SMS message align with how Veterans expect pre-check-in to be initiated? If not, what other touchpoints are preferred?
+- How many days prior to the day of appointment should pre-check-in be initiated?
+- What are Veterans expectations on the frequency of receiving reminders? E.g. 2 weeks, 1 week, 3 days
+- Should pre-check-in be contingent on a Veteran confirming their appointment?
+- Do Veterans have a preferred device (mobile or desktop) to complete these pre-check-in tasks?
+- How do Veterans respond to the need to complete a health questionnaire during pre-check-in?
+- Does the need to authenticate in the middle of the pre check-in user flow interfere with a Veteran’s ability to complete the task?
+- What are Veterans expectations on when and how to cancel an appointment?
+- How do the needs of the Caregiver overlap or diverge from that of a Veteran completing pre check-in?
+- Identify how to improve the content and interaction experience to make it easier for Veterans and Caregivers to complete pre-check-in
+- How do Veterans distinguish between the following terms: Mailing Address, Home Address, Permanent Address, Temporary Address, Next of Kin, and Emergency Contact
+- Are Veterans expecting to be able to update their next of kin information or prefer emergency contact information instead?
+- Do Veterans understand that updating their contact and next of kin information here will update it across VA?
+- Are Veterans able to utilize the modal to update their address information?
+- Does providing a read only version of the contact information page meet Veterans expectations?
+- Do Veterans have a preference (if at all) for a form list or task list of the pre-check-in activities?
+- What do Veterans expect to see on the confirmation page?
+- Do Veterans know what to do after completing pre-check-in?
+- Does a Caregiver have unique needs that are not being met by the content and design?
 
 
 # Methodology 
 
-Observational and task-based usability studies using prototypes in UXPin. 
-Conducted in 1 hour sessions over Zoom
-
-
+- Observational and task-based usability studies using prototypes in UXPin. 
+- Conducted in 1 hour sessions over Zoom
 
 # Hypotheses and Conclusions
 
 Veterans will continue to find value in completing pre-check-in tasks based upon previous research.
- “Likely True” IF  they will not like to complete for every appointment, ensure information is updated across VA, and the staff/providers will refer to this information
+ - “Likely True” IF  they will not like to complete for every appointment, ensure information is updated across VA, and the staff/providers will refer to this information
+
 Veterans prefer to receive pre-check-in tasks via SMS texts.
-“Likely True”, as some Veterans expressed desire for email notification in addition to SMS; physical cards are also preferred by a minority 
+- “Likely True”, as some Veterans expressed desire for email notification in addition to SMS; physical cards are also preferred by a minority 
+
 Veterans will have a slight preference to complete these tasks on a desktop according to past research.
-“Likely True”, completing pre checkin seemed to be the preference for those Veterans who may have a disability or prefer larger screens
+- “Likely True”, completing pre checkin seemed to be the preference for those Veterans who may have a disability or prefer larger screens
+
 Completing all pre-appointment tasks together, including health questionnaires, will be preferred by Veterans.
-“Likely True”, if veterans feel confident that the staff and providers will use the information on the day of appointment
+- “Likely True”, if veterans feel confident that the staff and providers will use the information on the day of appointment
+
 Veterans will understand the difference between the address types.
-“Likely True,” Home address was preferred over Permanent address; Varied responses on the definition of temporary address, some speculated to be valuable to snowbirds or those in precarious living situations
+- “Likely True,” Home address was preferred over Permanent address; Varied responses on the definition of temporary address, some speculated to be valuable to snowbirds or those in precarious living situations
+
 Veterans will verbalize their preference or concerns regarding updating next of kin and emergency contacts within this workflow.
-“Likely True,” veterans expressed that a lot of it was “as expected” due to previous experience at the VA; a couple experienced negative reaction to reviewing Next of Kin
+- “Likely True,” veterans expressed that a lot of it was “as expected” due to previous experience at the VA; a couple experienced negative reaction to reviewing Next of Kin
+
 Veterans will notice the informational banner at the top of the contact and next of kin pages, so they will understand changes made here will update their information across VA.
-“Likey True,” While all understood that meant to update across VA, many expressed mistrust as to whether that will actually happen, due to previous poor experience
+- “Likey True,” While all understood that meant to update across VA, many expressed mistrust as to whether that will actually happen, due to previous poor experience
+
 The edit modal will impose no problems on the Veteran's ability to update their information; therefore, this pattern can be submitted to the design system for consideration.
-“Definitely True”, as validated with task based observation, all Veterans selected Edit and was able to return to the previous page
+- “Definitely True”, as validated with task based observation, all Veterans selected Edit and was able to return to the previous page
+
 The need to authenticate in order to edit will introduce some friction, but not enough to deter Veterans from completing the task.
-“Likely True”, all Veterans were surprised to see the authentication prompt after selected edit; few speculated this would be a blocker to complete the task; others speculated it wouldn’t be a blocker
+- “Likely True”, all Veterans were surprised to see the authentication prompt after selected edit; few speculated this would be a blocker to complete the task; others speculated it wouldn’t be a blocker
+
 The confirmation page provides enough information that the Veteran knows what to do after completing pre-check-in.
-“Likely True”, many Veterans seemed to find the confirmation page generally clear, with desire to be able to add the appointment to their digital calendars
+- “Likely True”, many Veterans seemed to find the confirmation page generally clear, with desire to be able to add the appointment to their digital calendars
 
 # Key Findings
-
 
 1. Majority of Veterans seem to value the ability to complete pre-checkin, if they don’t have to complete it for every appointment
 
@@ -188,8 +195,8 @@ Quotes
 **Finding 6**
 
 Labels: label 1, label 2 
-Many veterans valued the statement “ your information will update across VA” that appeared on the contact info page. Some mentioned that this would be great if it really was a “one stop shop” to update all info. But there was an undertone of mistrust. We heard a lot about Veterans referencing poor past experience.  For example, one veteran described his medications being delivered to the wrong address.
 
+Many veterans valued the statement “ your information will update across VA” that appeared on the contact info page. Some mentioned that this would be great if it really was a “one stop shop” to update all info. But there was an undertone of mistrust. We heard a lot about Veterans referencing poor past experience.  For example, one veteran described his medications being delivered to the wrong address.
 
 
 Quotes
@@ -202,6 +209,7 @@ Quotes
 **Finding 7**
 
 Labels: label 1, label 2 
+
 The response to fully log in was polarizing among veterans. Some mentioned they thought they were already logged in because they signed in using their SSN at the beginning of the flow.  
 
 Quotes
@@ -213,11 +221,11 @@ Quotes
 
 # Additional Insights
 
-Notification method depends on veteran device and usage habits (for instance, SMS and email were preferred by veterans)
+- Notification method depends on veteran device and usage habits (for instance, SMS and email were preferred by veterans)
 
- Preference for design patterns used in the industry ( for example, the ability to indicate the home and mailing address are identical)
+- Preference for design patterns used in the industry ( for example, the ability to indicate the home and mailing address are identical)
 
-Home address is clearer than permanent address; More label testing with target user groups will be helpful
+- Home address is clearer than permanent address; More label testing with target user groups will be helpful
 
 
 # Recommendations
@@ -236,8 +244,6 @@ Home address is clearer than permanent address; More label testing with target u
     * Re-evaluate pre checkin being dependent upon confirmation and where it fits within the holistic appointment flow
 * Recommendation 7
     * Better understand the authenticated experience and use cases to identify how best to set up expectations to fully authenticate when editing info. 
-
-
 
 
 # Next Steps
