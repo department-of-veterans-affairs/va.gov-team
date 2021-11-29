@@ -33,8 +33,8 @@ ________________________________________________________________________________
 ## FAQs
 * Do you have any guidelines on when to send a notification and/or what kind to send? We do!  Look [here](notification-guide.md#vanotify-notification-guide)
 * Does VANotify support variables in emails?  Yes - There is an an example [below](#successes)
-* What about hyperlinks? Yes, VANotify supports hyperlinks.  See an example [below](#successes)
-* What's not supported? Currently VANotify does not support: cc, bcc, images or attachments for email
+* What about hyperlinks and attachements? Yes, VANotify supports hyperlinks and attachments.  See an example [below](#successes) Attachment example coming soon.....
+* What's not supported? Currently VANotify does not support: cc, bcc, or images for email
 * Should I run my email content by a Privacy Officer? Yes.  This will avoid sending Personally Identifiable Information inadvertantly
 
 
