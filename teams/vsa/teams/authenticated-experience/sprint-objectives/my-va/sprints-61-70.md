@@ -72,7 +72,8 @@ Anything unfinished from last sprint, plus...
 
 **Design**
 
-- Design; Design intent
+- Design
+- Design intent
 
 **FE**
 
