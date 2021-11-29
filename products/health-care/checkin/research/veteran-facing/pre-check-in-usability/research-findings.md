@@ -231,7 +231,7 @@ Quotes
 # Recommendations
 
 * Recommendation 1
-    * _Clarify content to better set up expectations related to next of kin, authentication, and that they are completing ‘pre checkin’.  
+    * Clarify content to better set up expectations related to next of kin, authentication, and that they are completing ‘pre checkin’.  
 * Recommendation 2
     * Add emergency contact (review and eventually edit) into the pre-checkin experience
 * Recommendation 3
@@ -278,10 +278,10 @@ Miro and Mural Board
 ## Pages and applications used
 
 We tested 4 prototype variations of pre-checkin flow: 
-Dependent upon confirmation & form
-Dependent upon confirmation & task
-Same time as confirmation & form
-Same time as confirmation & task
+- Dependent upon confirmation & form
+- Dependent upon confirmation & task
+- Same time as confirmation & form
+- Same time as confirmation & task
 
 
 ## Other supporting documents created
