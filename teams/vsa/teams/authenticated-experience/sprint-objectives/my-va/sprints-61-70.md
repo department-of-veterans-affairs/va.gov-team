@@ -62,6 +62,7 @@ Anything unfinished from last sprint, plus...
 ### PTO
 
 - **Lihan**: December 10 - 23
+- **Liz**: December 8 - 13
 
 ### My VA updates: Adding payment information
 
