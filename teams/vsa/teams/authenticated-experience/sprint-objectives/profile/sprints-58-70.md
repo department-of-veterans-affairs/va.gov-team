@@ -169,7 +169,12 @@ Anything unfinished from last sprint, plus...
 
 ### General updates
 
+**PM**
 - Scope/prioritize reminder for address updates to remind Veterans they have two addresses on file they may need to update #30112
+
+**Design**
+
+- Update content for how to update name/birth date/birth sex (Update content for health info first if we haven't heard back from VBA)
 
 ### Direct deposit
 
@@ -185,7 +190,6 @@ Anything unfinished from last sprint, plus...
 **Design**
 
 - Update content to reflect notification settings #29582
-- Update content for how to update birth name/birth date/birth sex (Update content for health info first if we haven't heard back from VBA)
 
 ### Personal information updates
 
