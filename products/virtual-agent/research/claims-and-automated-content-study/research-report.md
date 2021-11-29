@@ -1,14 +1,14 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+
 
 ---
 
-# [Study] Research Findings 
+# Virtual Agent Claims and Automated Contnet Study Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Virtual Agent Team**
 
-Date: MM/DD/YYYY
+Date: 11/08/2021
 
-[Designer 1] [email], [Designer 2] [email]
+Shane Strassberg [shane.strassberg@va.gov], Luciana Morais [luciana.morais@va.gov]
 
 [Research Report PDF] (link here)
 
@@ -18,7 +18,7 @@ Date: MM/DD/YYYY
 
 [Hypotheses and conclusions](insert link to section)
 
-[Key findings](insert link to section)
+[Key findings](#key-findings)
 
 [Recommendations](insert link to section)
 
