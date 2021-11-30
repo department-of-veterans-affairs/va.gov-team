@@ -6,7 +6,7 @@ Date: November 24, 2021
 
 [Nira Datta] [nira.datta@civicactions.com], [Ya-ching Tsao] [yaching.tsao@gmail.com]
 
-[Research Report PDF] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/Pre-check-In%20Usability%20Research.pdf)
+Research Report (downloadable PDF) (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/pre-check-in-usability/Pre-check-In%20Usability%20Research.pdf)
 
 <br>
 
