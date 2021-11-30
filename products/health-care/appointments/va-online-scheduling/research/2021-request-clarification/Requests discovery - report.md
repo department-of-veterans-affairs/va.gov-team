@@ -64,8 +64,8 @@ It generally took participants longer to read this page than other pages in the 
 
 ##### Recommendations
 
-* Add the new page at points in the flow when an appointment can only be requested.
-* Remove the "doesn't allow self-scheduling online" content. It's confusing, too much information, and doesn't help Veterans the decision posed by this page.
+* Add the new page asking Veterans to choose scheduling options at points in the flow when an appointment can only be requested.
+* Remove the "doesn't allow self-scheduling online" content from that page. It's confusing, too much information, and doesn't help Veterans the decision posed by this page.
 * Consider clarifying the content of the phone option to indicate what's coming next, i.e. "I'll call this facility, show me their contact information."
 
 #### Most participants chose "have the facility call me back" as their preferred option
@@ -92,12 +92,14 @@ No other participant indicated a preference for calling the facility to schedule
 
 ##### Recommendations
 
-* A clunky experience navigating to Secure Messaging will add frustration if it is encountered after reaching a dead end in online scheduling. Include only the appointment request and phone call options to start, but consider integrating Secure Messaging at a less critical point in the process, such as on the VAOS home page, before adding it to the scheduling flows.
+* A clunky experience navigating to Secure Messaging will add frustration if it is encountered after reaching a dead end in online scheduling. The transition from VAOS to Secure Messaging needs to be smooth to keep frustration with the process at a minimum. Consider ways to work out potential kinks in this transition, for example
 
-* Consider adding data to the the "call" page. Participants suggested:
+   * Including only the options to request an appointment or call, and working out the flow to Secure Messaging at a less critical point in the process (such as adding it as an option to the VAOS home page. 
+   * Testing the scheduling options page with and without the SM option and tracking clicks on the separate options.
+
+* Consider adding helpful information about the facility to the the "call" page. Participants suggested:
 
   * Hours of operation, so they know if someone will be there when they call. 
-
   * Direct clinic extension based on their chosen type of care.
 
 * Continue to explore ways to call out that an appointment can only be requested, vs. self-scheduled, earlier in the scheduling flow.
@@ -126,7 +128,7 @@ P3 (who said earlier he would not use VAOS again if he didn't receive a prompt r
 
 ##### Recommendations
 
-* Requests currently represent the vast majority of appointments scheduled through VAOS. The inconsistency in responses to requests is one of the biggest impediments to a positive experience with VAOS. Other than offering self-scheduling universally, the most impactful way to improve the online scheduling experience is for VA to ensure requests are responded to quickly and accurately.
+* Requests currently represent the vast majority of appointments scheduled through VAOS. We believe that the lack of consistency in response time to requests is one of the biggest impediments to a positive experience with VAOS. Other than offering self-scheduling universally, we believe that one of the most impactful ways improve Veterans' experience with VAOS is for VA to ensure requests are responded to quickly and accurately.
 
 * The VAOS team should review the content and cadence of email notifications sent out after a request for clarity and accuracy.
 
@@ -150,9 +152,9 @@ This may have been biased by the beginning of the test, where most participants 
 
 ##### Recommendations
 
-* Consider moving back to tabs, or a similar UI solution that will expose all statuses at once, without an additional click. We removed these during the VAOS home page refresh project due to a lack of an existing tab solution that was able to display more than two options on mobile devices. 
+* Consider a solution that will expose all statuses at once, without an additional click. For example, we removed tabs during the VAOS home page refresh project due to a lack of an existing tab solution that was able to display more than two options on mobile devices. 
 
-* If Veterans still struggle to find their requested appointments after returing to tabs, add the CTA directing them to their requested appointments. This should be stronger than what was presented in the prototype, on the same visual hierarchy as a regular appointment card.
+* Make the CTA for opening requests stronger than what was presented in the prototype, by putting it on the same visual hierarchy as a regular appointment card.
 
 ## Appendix: additional findings
 
@@ -196,8 +198,7 @@ We did not remove the breadcrumb from the confirmation page. While most particip
 
 #### Recommendation
 
-* Revisit the content and hierarchy of the status alert.
-* Consider removing the breadcrumb from this and the other detail pages and replace with a single link, to reduce noise/distraction.
+Consider removing the breadcrumb from this and the other detail pages and replace with a single link, to reduce noise/distraction.
 
 ### Related appointments section
 
@@ -223,9 +224,9 @@ While reviewing data around how Veterans update their communication preferences 
 
 #### Recommendations
 
-* Separate best times to call and contact pages.
-* Make contact info editable from the review page if we have contact info on file.
-* Clarify the contact info page content.
+* Separate best times to call and contact info into new pages.
+* Consider making contact info editable from the review page if we have contact info on file.
+* Update the contact info page content to clarify the difference between updating this information just for VAOS vs. in the profile.
 
 ### Review and submit page
 
