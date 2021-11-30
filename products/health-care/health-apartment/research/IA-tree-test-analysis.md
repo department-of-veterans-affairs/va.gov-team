@@ -3,7 +3,7 @@
 
 This is a content-focused analysis of tasks with less than 50% success (also analyzed one task with high success). 
 
-1. *You need to see a podiatrist, but live 110 miles away from the closest VA podiatrist. You want to find out whether you’re eligible to see a non-VA podiatrist.*
+**Task 1: You need to see a podiatrist, but live 110 miles away from the closest VA podiatrist. You want to find out whether you’re eligible to see a non-VA podiatrist.**
 12% success, 55% directness
 
 Besides answers we defined as success:
@@ -22,7 +22,7 @@ Thoughts on recommendations:
 * Label “Community Care” in the navigation as “Seeing non-VA providers” (or something else that’s plain language).
 * Use calls to action on the homepage to communicate what Community Care (CC) is. “Mission Act” is a term associated with CC b/c that’s the law behind CC.
 
-2. *You want to make an appointment with this podiatrist.* 
+**Task 2: You want to make an appointment with this podiatrist.** 
 88% success, 88% directness
 
 Insights: 
@@ -34,7 +34,7 @@ Recommendations:
 * Tie secure messaging to “Make an appointment.”
 
 
-3. *You have a 30% disability rating. You want to learn what health benefits your disability rating qualifies you for.*
+**Task 3: You have a 30% disability rating. You want to learn what health benefits your disability rating qualifies you for.**
 39% success, 73% directness
 
 Besides answers we defined as success:
@@ -53,14 +53,7 @@ Recommendations:
 * Leverage Help and resources for important topics like this.
 * Consider tying eligibility to VA health summary. 
 
-
-7. *Find out how much you owe for a VA appt.*
-91% success, 82% directness
-
-/Come back to this one if possible./ 
-
-
-8. *You need to go to the dentist. How would you find out what coverage you qualify for?*
+**Task 8: You need to go to the dentist. How would you find out what coverage you qualify for?**
 24% success, 73% directness
 
 Besides answers we defined as success:
@@ -77,7 +70,7 @@ Recommendations:
 * Leverage Help and resources for important topics like this.
 
 
-9. *A Veteran you care for was just diagnosed with PTSD. You want to learn more about this condition.*
+**Task 9: A Veteran you care for was just diagnosed with PTSD. You want to learn more about this condition.**
 45% success, 73% directness
 
 Besides answers we defined as success:
@@ -98,7 +91,7 @@ Thoughts on recommendations:
 * Tie MHV articles about health topics to those topics.  
 * Cross-link between VA mobile apps and health topics. 
 
-10. *Your doctor told you that you have high blood pressure and asked you to enter those numbers online between visits.*
+**Task 10: Your doctor told you that you have high blood pressure and asked you to enter those numbers online between visits.**
 48% success, 76% directness
 
 Besides answers we defined as success:
@@ -117,7 +110,7 @@ Recommendations:
 * Cross-reference Update health care info with self-entering health stats like blood pressure. 
 * Make sending a message easy, no matter the task.
 
-13. *You got married and you want to add your spouse as a dependent.*
+**Task 13: You got married and you want to add your spouse as a dependent.**
 15% success, 36% directness
 
 Besides answers we defined as success:
@@ -140,7 +133,7 @@ Recommendations:
 * Cross-reference Family and caregiver benefits with adding a dependent.
 * Include how to add dependent in Help topics. 
 
-14. *Where would you expect to find information about COVID-19 vaccines?*
+**Task 14: Where would you expect to find information about COVID-19 vaccines?**
 27% success, 48% directness
 
 Besides answers we defined as success:
