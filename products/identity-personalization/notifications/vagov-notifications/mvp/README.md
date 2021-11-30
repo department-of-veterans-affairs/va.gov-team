@@ -77,7 +77,7 @@ The following is needed for the MVP build:
 ### Product
 
 - We will be building **one** notification out first as a proof of concept. We will then assess metrics for this MVP and determine next steps for the overall on-site notifications strategy.
-- That MVP use case is [TBD].
+- That MVP use case is debt notifications.
 
 ### Design
 
@@ -93,23 +93,24 @@ Some of this will be determined by the MVP use case.
 
 ### Frontend
 
-- The frontend will receive the user ID from the backend, plus whatever information it needs to determine the notification type.
+- The frontend will receive information from the backend that determines which notification to show and to which user.
 - The frontend code will be where we store content for a given alert at this point in time.
 
 ### Backend
 
-- The backend will receive a user ID from VANotify to communicate to the frontend that we should show a given alert to a particular user.
+- The backend will receive information from VANotify that will allow us to determine what notification to show and to which user.
 
 ### VANotify requirements
 
 **Needs**
 
-- VANotify needs to send us a user ID so that we know for whom we should be showing a notification.
-- VANotify should have a way in their interface to indicate the a given notification also shows a corresponding message on VA.gov.
+- VANotify needs to send us information so that we know which notification to show and to which user.
+- VANotify needs a way in their platform to show that we've enabled an on-site notification for a given notification.
+- VANotify should have a way to easily turn on/off an on-site notification from their platform.
 
 **Out of scope**
 
-- VANotify does not need to be a CMS. We will handle content in the code.
+- VANotify does not need to be a CMS and does not need to store any content for us.
 - VANotify does not need to send us personalized data.
 
 ## Key deliverables
