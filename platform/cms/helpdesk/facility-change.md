@@ -24,6 +24,7 @@ assignees: ''
 ## Acceptance criteria (delete all instructions except the set that applies to the change requested)
   
 <details><summary>VAMC – new facility</summary>
+  
 - [ ] CMS team becomes aware that the new facility is now on the Facility API.
 - [ ] CMS engineer updates the Section.
 - [ ] CMS engineer updates the facility service nodes.
@@ -32,6 +33,7 @@ assignees: ''
 </details>
  
 <details><summary>VAMCs - facility closure</summary>
+  
 - [ ] CMS team becomes aware that the facility is no longer on the Facility API.
 - [ ] CMS engineer bulk archives the facility service nodes. (https://prod.cms.va.gov/admin/content/bulk?type=health_care_local_health_service)
 - [ ] CMS engineer edits the facility node, add a revision log to cover who requested the change and change moderation state to archive.
@@ -42,6 +44,7 @@ assignees: ''
 </details>
 
   <details><summary>VAMC – name change</summary>
+    
 - [ ] The H1 title change comes from Lighthouse to Drupal.
 - [ ] CMS engineer makes bulk alias changes to facility service nodes. (https://prod.cms.va.gov/admin/content/bulk?type=health_care_local_health_service)
 - [ ] CMS engineer bulk saves fixed titles to facility service nodes. (https://prod.cms.va.gov/admin/content/bulk?type=health_care_local_health_service)
@@ -51,6 +54,7 @@ assignees: ''
 </details>
  
 <details><summary>VAMC – system name change</summary>
+  
 - [ ] CMS team becomes aware of the new system name.
 - [ ] FE redirects are set up.
 - [ ] CMS engineer updates the Section.
@@ -61,6 +65,7 @@ assignees: ''
 </details>
 
 <details><summary>Vet Center – new facility</summary>
+  
 - [ ] CMS team becomes aware that the new facility is now on the Facility API.
 - [ ] CMS engineer creates the Section.
 - [ ] CMS engineer creates the nodes.
@@ -69,6 +74,7 @@ assignees: ''
 </details>
 
 <details><summary>Vet Center – facility closure</summary>
+  
 - [ ] CMS team becomes aware that the facility is no longer on the Facility API.
 - [ ] CMS engineer bulk unpublishes the nodes.
 - [ ] FE redirects are set up.
@@ -76,6 +82,7 @@ assignees: ''
 </details>
 
 <details><summary>Vet Center – facility name change</summary>
+  
 - [ ] The H1 title change comes from Lighthouse to Drupal.
 - Is the new official name plain language? 
   - If yes, go to next step. 
