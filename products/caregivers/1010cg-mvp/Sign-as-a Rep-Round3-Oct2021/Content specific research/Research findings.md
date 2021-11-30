@@ -85,33 +85,55 @@ The research questions we sought to address:
 ## Details of Findings
 
 ###  Participants think about legal representative documentation based on what it enables them to do (eg. make medical decisions) rather than the form name itself.
-Many participants didn't know the exact name of their legal representative documents, but rather understood the different types of scenarios and what type of paperwork would be useful in a given situation. People think in the categories of: legal, financial, and medical. 
+Many participants didn't know the exact name of their legal representative documents, but rather understood the different types of scenarios and what type of paperwork would be useful in a given situation. 
 
-a. Participants used words: Medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran. 
-- Participants with this named proof felt fairly confident in selecting "Health care power of attorney with legal authoruty to make health care decisions for the Veteran." 
-- One participant thought "POA" usually refers to financial duties, but didn't think it would stop her from moving through the form.
+a. Participants recognize that the name varies from state-to-state and federally. 
 
-b. For some the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
+b. Participants think in the categories of: legal, financial, and medical.
 
-c. Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
+c. All participants did guess that they needed to provide proof that specifies medical (level of confidence varied widely)
 
-d. All participants did guess that they needed to provide proof that specifies medical (level of confidence varied widely)
+![Screen Shot 2021-11-30 at 2 57 19 PM](https://user-images.githubusercontent.com/80857940/144118659-3d623a49-4479-4e78-ba31-c1201bd23f06.png)
 
-### Some participants have paperwork on file with the VA that allows them to speak on behalf of the Veteran, their expectation is that they only need to provide proof of who they are (Eg. ID/ Driver's license), they referred to this as a "Caregiver letter."
+d. Participants who named; medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran felt fairly confident in selecting the "Health care power of attorney with legal authority to make health care decisions for the Veteran" choice._ Note: Caregiver letter AKA Release of information form is not accepted proof in this case._
+![Screen Shot 2021-11-30 at 2 21 19 PM](https://user-images.githubusercontent.com/80857940/144118753-a68a845f-88b8-40bd-8252-a1a6481b8ec8.png)
+
+e. For some participants, the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
+
+f. Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
+One participant thought "POA" usually refers to financial duties, but didn't think it would stop her from moving through the form.
+
+<img width="705" alt="Screen Shot 2021-11-30 at 2 59 23 PM" src="https://user-images.githubusercontent.com/80857940/144118935-51077c4a-ace6-44dc-ba91-5e251ef2ce69.png">
+
+
+### Some participants have paperwork on file with the VA that allows them to speak on behalf of the Veteran, their expectation is that they only need to provide proof of who they are (Eg. ID/ Driver's license), they referred to this as a "Caregiver letter." 
+
+_Note: We think that Caregiver letter is referring to a Release of information form which is not accepted proof in this case._
+
 Three of the participants said that they have a VA form referred to as "Caregiver letter" on file so that they expect to only have to provide ID or identifying information in order to speak on the Veteran's behalf.
 - "I have a VA form on file that allows me to talk to the representative when I call in to the VA or make appointments."
 - "The VA has this, I just need to provide my name and last 4 of Social [security number]. Sometimes when I go into a a doctor's appointment with my husband I have to remind them of this. They have such a high turnover rate, I usually have to educate them myself."
 
 
 ### Participants believe that the legal representative documentation comes from the VA and thus a form number or link to the form or how to get it and/or example should be provided.
-The majority of participants who have had to provide legal representative documentation obtained the forms through the VA. Some participants also went through a lawyer, but believe that VA paperwork is needed for the VA. Because participants think that in this section of the application the VA is requesting a VA form, they believe that there should be a form number or link to the form provided. Additionally, participants think that there should be directions on how to obtain the form for those that do not currently have it.
+The majority of participants who have had to provide legal representative documentation obtained the forms through the VA. Some participants also went through a lawyer, but believe that VA paperwork is needed for the VA. 
+
+a. Participants believe that there should be a form number or link to the form provided. 
+
+b. Participants think that there should be directions on how to obtain the form for those that do not currently have it.
+
 - "It should have the form number or a link to where to download the form."
 - "It would be great if there was a glossary to explain what each one is, because they are called different things in different states, and the VA is federal, so just explain what they [document type choices] give the power to do."
 - "What if the person doesn't have these documents, but needs them? You should tell them how to get them. Also explain that sometimes you can add on to an existing one like a general POA- since you say you can't accept that."
 
 
-### Often the ability for the Veteran to sign for themself/ make medical decisions/or not depends on the day.
-A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if the Veteran was having a day that they are unable to then the caregiver would sign on their behalf. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privileges to sign and make decisions in the future. They want more explanation of what each response means. 
+### Often the ability for the Veteran to sign for themself and make medical decisions/or not depends on the day.
+A few participants were unsure of who would sign the application in their circumstance. They said that they usually try to involve the Veteran, but if the Veteran was having a day that they are unable to, then the caregiver would sign on their behalf. 
+
+a. These participants wanted assurance that if they signed this application, that it wouldn't take away the Veteran's privileges to sign and make decisions in the future. 
+
+b. Participants would like more explanation of what each response means.
+
 - “Part of my job as a Caregiver is to plan ahead ways to include my husband (the Veteran). If he is having a good day, I would have him sign, if he is having a bad day, I will."
 - "Will this take away my husband's ability to make decisions in the future?" _when asked what they would do if faced with this question_ "I would be on the phone to the Caregiver program."
 
@@ -133,24 +155,30 @@ Participants don't feel like this copy would stop them from completing the appli
 
 
 ## Recommendations
+
+**Update content**
 * Rewrite the question and titles to make it more clear that we are requesting for legal representation for **medical decisions** specifically
 
 * Rewrite questions to be more direct
 
+**Provide more context**
 * Explore the possibility of including a link, form number, and/or explanation of the use for each document type
 
 * Provide a path for those who don't have the paperwork, but need to obtain it
 
+**Design**
+* Update flow/UX of current to an adjusted tested version
 * Explore the possibility of making this section of the form visually distinct from the rest of the form so that it feels more cohesive with the signature page rather than the application pages
      * Explore the possibility of breaking up the review section and signature section and having the document upload option between them
 
 Future:
 * Look into ways of integrating these questions into the signature page
+* Implement a “wizard” like flow
 * For those who do submit a document that can not be accepted, provide a recourse to just "edit" the application rather than having to complete a whole new one
 * Look into the possibility of tying a legal representative document that is already on file with VA to the application
 
 
-## Next Steps
+## Next Steps (TBD)
 
 * Work with Caregiver program team to determine if we can provide a link/form number and/or explanation of what each document type gives the rights to do
 
@@ -160,6 +188,7 @@ Future:
      * To make the language around not being able to accept a document causing delay or application rejection less harsh
      * Provide directions for next steps for those who need to obtain the legal representative documentation
 
+* Update design/ UX in iterations 
 
 
 ## Appendix
