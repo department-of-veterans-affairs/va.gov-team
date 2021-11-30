@@ -106,7 +106,7 @@ Do you see the link?
 ## Veteran Tasks
 
 ### Task 1: [Impressions of Events List] - 5 minutes
-Please take a look at this page and tell me your impressions of what you see. Don't tap/click anywhere.
+Please take a look at this page and tell me your impressions of what you see. While you look around, please don't tap anywhere, but feel free to scroll.
 
 What do you think you can do from this page?
 
@@ -131,11 +131,11 @@ Without trying any of them, could you tell me what you think each of them would 
   - How would you expect to use it?
   - *(probe: when might they use it? record specific use cases with context)*
 
+Now you can go ahead and look for events that could help you find a new job. **Please tell me what you you tap on** because I can't see that over Zoom.
+
 *If they try the filter options by clicking on the arrow and it doesn't work, say:* Can you tell me what you're trying to do? 
 
-- *Advise to tap to the left of the arrows instead of on the arrows*
-
-Now you can go ahead and look for events that could help you find a new job.
+- *If needed, advise to tap to the left of the arrows instead of on the arrows*
 
 - *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Specific date / Custom date range / Past events*
 
@@ -143,9 +143,9 @@ Now you can go ahead and look for events that could help you find a new job.
 
 - *Did they click the "Apply filter" button? Y / N*
 
-*(When see event detail page)* What are your impressions of what you see here?
-
 - *Did they find the Virtual Career Expo? Y / N*
+
+*(When see event detail page)* What are your impressions of what you see here?
 
 If you wanted to attend this event, what would you do? *(Register for this event button / ______________)*
 
@@ -206,8 +206,6 @@ Now you can go ahead and do it.
 
 Let's assume that you live in New Orleans, and you have friends from the service joining you for Independence Day next summer. I'd like you to see if there are any Independence Day events that you could attend together while they're here July 1st through 5th.
 
-- *How got back to Events List page: Back in browser / breadcrumb / "See other outreach events" at bottom of detail pg / "In this section" menu > Outreach events*
-
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / **Custom date range** / Past events*
 
 - *(select month and day for July 1 start date and July 5 end date)*
@@ -251,5 +249,5 @@ Thank you so much again, and enjoy the rest of your day!
 
 
 ## Approvals
-Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
-Reviewed and approved by Lauren Alexanderson on Nov 24, 2021.
+- Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
+- Reviewed and approved by Lauren Alexanderson on Nov 24, 2021.
