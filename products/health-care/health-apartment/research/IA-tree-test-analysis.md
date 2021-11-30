@@ -22,7 +22,7 @@ Thoughts on recommendations:
 * Label “Community Care” in the navigation as “Seeing non-VA providers” (or something else that’s plain language).
 * Use calls to action on the homepage to communicate what Community Care (CC) is. “Mission Act” is a term associated with CC b/c that’s the law behind CC.
 
-**Task 2: You want to make an appointment with this podiatrist.** 
+**Task 2: You want to make an appointment with this podiatrist.**<br> 
 88% success, 88% directness
 
 Insights: 
@@ -34,7 +34,7 @@ Thoughts on recommendations:
 * Tie secure messaging to “Make an appointment.”
 
 
-**Task 3: You have a 30% disability rating. You want to learn what health benefits your disability rating qualifies you for.**
+**Task 3: You have a 30% disability rating. You want to learn what health benefits your disability rating qualifies you for.**<br>
 39% success, 73% directness
 
 Besides answers we defined as success:
@@ -53,7 +53,7 @@ Thoughts on recommendations:
 * Leverage Help and resources for important topics like this.
 * Consider tying eligibility to VA health summary. 
 
-**Task 8: You need to go to the dentist. How would you find out what coverage you qualify for?**
+**Task 8: You need to go to the dentist. How would you find out what coverage you qualify for?**<br>
 24% success, 73% directness
 
 Besides answers we defined as success:
@@ -70,7 +70,7 @@ Thoughts on recommendations:
 * Leverage Help and resources for important topics like this.
 
 
-**Task 9: A Veteran you care for was just diagnosed with PTSD. You want to learn more about this condition.**
+**Task 9: A Veteran you care for was just diagnosed with PTSD. You want to learn more about this condition.**<br>
 45% success, 73% directness
 
 Besides answers we defined as success:
@@ -91,7 +91,7 @@ Thoughts on recommendations:
 * Tie MHV articles about health topics to those topics.  
 * Cross-link between VA mobile apps and health topics. 
 
-**Task 10: Your doctor told you that you have high blood pressure and asked you to enter those numbers online between visits.**
+**Task 10: Your doctor told you that you have high blood pressure and asked you to enter those numbers online between visits.**<br>
 48% success, 76% directness
 
 Besides answers we defined as success:
@@ -110,7 +110,7 @@ Thoughts on recommendations:
 * Cross-reference Update health care info with self-entering health stats like blood pressure. 
 * Make sending a message easy, no matter the task.
 
-**Task 13: You got married and you want to add your spouse as a dependent.**
+**Task 13: You got married and you want to add your spouse as a dependent.**<br>
 15% success, 36% directness
 
 Besides answers we defined as success:
@@ -133,7 +133,7 @@ Thoughts on recommendations:
 * Cross-reference Family and caregiver benefits with adding a dependent.
 * Include how to add dependent in Help topics. 
 
-**Task 14: Where would you expect to find information about COVID-19 vaccines?**
+**Task 14: Where would you expect to find information about COVID-19 vaccines?**<br>
 27% success, 48% directness
 
 Besides answers we defined as success:
