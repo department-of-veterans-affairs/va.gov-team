@@ -63,7 +63,7 @@ We're recruiting stakeholders at each administration through our VEO and OCTO co
 
 ## Timeline
 
-We'll conduct interviews the first two weeks of November, 2021.  A schedule of sessions can be found [here[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/README.md).
+We'll conduct interviews the first two weeks of November, 2021.  A schedule of sessions can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/README.md).
 
 
 ### Length of sessions
