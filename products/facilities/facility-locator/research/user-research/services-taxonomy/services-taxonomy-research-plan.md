@@ -108,7 +108,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 ## Recruitment and participants
 
-Using Perigean recruiting, we would like to schedule **17 participants** to reach our goal of observing 10 participants. Participant criteria are as follows:
+Using Perigean recruiting, we would like to schedule **17 participants** [updated to 19 after first week of research] to reach our goal of observing 10 participants. Participant criteria are as follows:
 
 - **PRIMARY CRITERIA (must have)**
     - *Must be enrolled in VA healthcare*
