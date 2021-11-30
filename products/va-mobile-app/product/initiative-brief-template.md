@@ -1,4 +1,4 @@
-# Feature Kickoff/Initiative Brief - Template
+# Feature/Initiative Kickoff/Brief - Template
 -------
 
 # Kickoff:
