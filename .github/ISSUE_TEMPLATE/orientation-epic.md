@@ -16,7 +16,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 ## Onboarding Checklist
 
 - [ ] PM: Attend intro meeting with product support PM
-- [ ] Attend General Orientation meeting (contact @ Shira Goodman on Slack to schedule)
+- [ ] Attend General Orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/general-orientation-for-va-gov-platform?month=2021-11))
 - [ ] Review [Orientation materials](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) on Platform Website
 - [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
