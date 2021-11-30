@@ -105,7 +105,9 @@ Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 
 - Could you tell me your thoughts on what you see here? What can you do on this page?
 
-- Is there anything else you would expect to see on this page? Is there anything you did not expect to see on this page?
+- How does this page meet your expectations? How does this page not meet your expectations?
+
+- (if not mentioned) You can see that some of the fields can be edited, and some can not. Why do you think that is?
 
 **Things to watch for:**
 
@@ -125,18 +127,15 @@ Task 2: Initial Navigation / Edit State - 2 minutes
 
 *Participant is on the Personal Information section page - fields say "edit your personal information to add your [info]"*
 
-- Now let's consider how you would update your own information on this page. Could you show me where you would go first to begin updating your preferences?
-	- If a field other than Preferred name -- And why did you choose to update that field first?
+- Now let's consider how you would update your own information on this page. Could you show me how you would first update your Preferred name?
 	
-- (When Edit State appears) And could you tell me your thoughts on what you see here?
+- (When Edit State appears) How does this information meet your expectations? How does it not meet your expectations?
 
-- Are there any answers you would want to select that you don't see listed here?
+- So I do want to mention that all of these answers have been pre-selected, so though you can make different choices, what you see later will not reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
 
 - Now, could you show me how you would complete this update?
 
 **Things to watch for:**
-
-- Does the participant navigate to a section other than the Preferred name (listed first)?
 
 - Does the participant have any questions regarding the order of the fields?
 
@@ -152,16 +151,17 @@ Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
 
 - Now if you could return to your overall personal information to continue to update your preferences. 
 
-- Could you show me what you would click on next to continue filling out your preferences?
-	- If different than the field that is next on the page -- And why did you choose to update that field next?
+- Next, could you show me what you would click on next to update your Pronouns?
 	
-- And could you tell me your thoughts on the options you see here?
+- (When Edit State appears) How does this information meet your expectations? How does it not meet your expectations?
 
-- Now once again, let's consider if you wanted to add an answer you do not see listed here. Could you show me what you would click on?
-
-- And could you tell me your thoughts on what you see here? 
+- Once again I want to mention that all of the eventual answers have been pre-selected, so though you can make different choices, what you see later will possibly something different that has already been filled in.
 
 - Are there any answers you'd want to use that you don't see listed here?
+
+- Now, let's consider if you wanted to add an answer you do not see listed here. Could you show me what you would click on?
+
+- And how does this information meet your expectations? How does it not meet your expectations?
 
 - Now, could you show me how you would complete this update?
 
