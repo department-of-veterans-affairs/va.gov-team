@@ -48,20 +48,10 @@ Before we start, a few things I want to mention:
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 
-Warm-up Questions (Optional) - 2 minutes
-----------------------------------------
-
-Before we look at the prototype, let's start with a few warm-up questions.
-
-- Could you tell me about your experience using VA.gov?
- 
-- Could you tell me about your experience updating your information on the site?
-
-
 Receiving the Prototype Link and Sharing Screen - 3-5 minutes
 -------------------------------------------------------------
 
-Now we'll move on to the prototype. I'm going to send you a link in the chat and then have you share your screen.
+Ok, so we'll move on to the prototype. I'm going to send you a link in the chat and then have you share your screen.
 
 *Send a link to the prototype, which starts on the Personal Information page.*
 
@@ -93,7 +83,7 @@ Great! Now that we are all set up, I will have you move on to a few tasks.
 ## TASKS:
 ------
 
-As I mentioned, we will be looking at a section of the Profile on the VA.gov website that helps Veterans update their personal information - in order to determine if the information makes sense and is presented in a way that is helpful for Veterans. I will have you complete a few tasks that will help us understand if changes or improvements need to be made.
+As I mentioned, we will be looking at a section of the Profile on the VA.gov website that helps Veterans update their personal information - in order to determine if the information makes sense and is presented in a way that is helpful for Veterans. I will have you complete a few tasks that will help us understand if changes or improvements need to be made. As we go through these tasks, I'd like to remind you to think outloud and talk through what you are seeing and doing. This helps us understand more about about your experience using this prototype.
 
 
 Task 1: General Page Impression (Layout/Terminology) - 3 minutes
@@ -105,13 +95,13 @@ Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 
 - Could you tell me your thoughts on what you see here? What can you do on this page?
 
-- How does this page meet your expectations? How does this page not meet your expectations?
+- How does this page meet your expectations? How does it not meet your expectations?
 
 - (if not mentioned) What are your thoughts on the order of the information on this page?
 
 - (if not mentioned) Did you notice that some of the fields can be edited? What are your thoughts on that?
 
-- (if not mentioned) Did you notice the FAQs pertaining to what can be edited? Could you please go ahead and select this FAQ? How does this information help clarify what can be edited - or fall short in clarifying this?"
+- (if not mentioned) Did you notice the FAQ pertaining to what can be edited? Could you please go ahead and select this FAQ? How does this information help clarify what can be edited - or how does it fall short in clarifying this?"
 
 **Things to watch for:**
 
@@ -131,15 +121,15 @@ Task 2: Initial Navigation / Edit State - 2 minutes
 
 *Participant is on the Personal Information section page - fields say "edit your personal information to add your [info]"*
 
-- Now let's consider how you would update your own information on this page. When looking at this information, what would you choose to edit first?
+- Now let's consider how you would update your own information on this page. Please don't click anything yet, but when looking at this information, what would you choose to edit first?
 
-- Great, thank you. Well, for the purposes for this testing, we will go in a specific order. Could you show me how you would first update your Preferred name?
+- Great, thank you. Well, for the purposes for this testing, we will go in a specific order, but that is very helpful information for us know. Next, could you show me how you would first update your Preferred name?
 	
 - (When Edit State appears) How does this information that you see here meet your expectations? How does it not meet your expectations?
 
-- So before we move forward, I do want to mention that the answers you will see have been pre-selected, so though you can make different choices, what you see later will not reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
+- So before we move forward, I do want to mention that the answers you will see during these tasks have been pre-selected, so though you can make different choices, what you see later will not necessarily reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
 
-- Now, could you show me how you would complete this update?
+- Now, could you show me how you would complete this update to choose your Preferred Name?
 
 **Things to watch for:**
 
@@ -153,11 +143,11 @@ Task 2: Initial Navigation / Edit State - 2 minutes
 Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
 -------------------------------------------------------------------------
 
-*Participant should be on Edit State for any field*
+*Participant should be on the Personal Information section page*
 
-- (If not already on the main page) Now if you could return to your overall personal information to continue to update your preferences. 
+- Now we're going to continue to update your preferences. 
 
-- Next, could you show me what you would click on next to update your [Pronouns/name of field]?
+- Next, could you show me what you would click on to update your [Pronouns/name of field]?
 	
 - (When Edit State appears) How does the information you see here meet your expectations? How does it not meet your expectations?
 
