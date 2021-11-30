@@ -1,4 +1,4 @@
-# [DRAFT] Research Findings: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
+# Research Findings: VSA Caregiver, Mental model and Content-specific comprehension study for the 10-10CG document upload, November 2021
 **Digital Services Veterans Affairs (DSVA), VSA, Caregiver Team**<br>
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 11/23/2021
@@ -89,19 +89,23 @@ Many participants didn't know the exact name of their legal representative docum
 
 a. Participants recognize that the name varies from state-to-state and federally. 
 
-b. Participants think in the categories of: legal, financial, and medical.
+b. **Participants think in the categories of: legal, financial, and medical.**
 
 c. All participants did guess that they needed to provide proof that specifies medical (level of confidence varied widely)
 
 ![Screen Shot 2021-11-30 at 2 57 19 PM](https://user-images.githubusercontent.com/80857940/144118659-3d623a49-4479-4e78-ba31-c1201bd23f06.png)
+_See [Mural board workshop](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1637631091433/3ccb1ca716bea560e41ca2f0c292792b88f10592?sender=u6ad375c1c8425e5bfec67027) for more details._
 
-d. Participants who named; medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran felt fairly confident in selecting the "Health care power of attorney with legal authority to make health care decisions for the Veteran" choice._ Note: Caregiver letter AKA Release of information form is not accepted proof in this case._
+d. Participants who named; medical proxy, medical power of attorney (POA), and Caregiver letter to describe legal representative proof that they have provided in circumstances that require them to make medical decision on behalf of the Veteran felt fairly confident in selecting the "Health care power of attorney with legal authority to make health care decisions for the Veteran" choice. 
+
+_Note: Caregiver letter AKA Release of information form is not accepted proof in this case._
+
 ![Screen Shot 2021-11-30 at 2 21 19 PM](https://user-images.githubusercontent.com/80857940/144118753-a68a845f-88b8-40bd-8252-a1a6481b8ec8.png)
 
-e. For some participants, the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
-
-f. Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
+e. Participants were less familiar with the terms "Veteran legal guardianship" and "Veteran-related court order" than Health care POA.
 One participant thought "POA" usually refers to financial duties, but didn't think it would stop her from moving through the form.
+
+f. For some participants, the title "Proof of legal authority to make decisions" was confusing because they were unsure if this is referring to legal or medical.
 
 <img width="705" alt="Screen Shot 2021-11-30 at 2 59 23 PM" src="https://user-images.githubusercontent.com/80857940/144118935-51077c4a-ace6-44dc-ba91-5e251ef2ce69.png">
 
@@ -141,17 +145,17 @@ b. Participants would like more explanation of what each response means.
 About half of the participants expressed that there was too much information given on each page, and would prefer if the language was more direct. 
 
 - “If I could rewrite it, I'd say: 1. Can the Veteran sign for themself? 2. If no, who is the legal representative? 3. What is your relationship to the Veteran? 4. Do you have legal proof? 5. What type of legal proof do you have?"
-- "This is VA mumbo jumo" - _referring to the "Who will sign this application page"_
+- "This is VA mumbo jumbo" - _referring to the "Who will sign this application page"_
 
 
 ### Participants feel like the copy that states that there could be a delay/rejection due to wrong document upload is very negative.
 Participants don't feel like this copy would stop them from completing the application, but do feel like it leaves a negative impression. One participant thought that this language is the VA's way of keeping people out of the program. 
 - "This is the VA's out." _when asked to explain more_ "This is the VA's way to not accept people or discourage people who won't submit an application again."
-- "Oof that is pretty nagative."
+- "Oof that is pretty negative."
 
 ## Additional Insights
 - Participants believe that VA should be more proactive in patient planning in regards to programs and paperwork that should be considered in their future based on their current needs. 
-     - "Why doesn't the VA look at the patient medical record and proactively recommend paperwork and programs that might benefit us now or in the future?" _when asked how they would like to receive this_ "The VA sends out an ungodly amount of notifications... include it in these."
+     - "Why doesn't the VA look at the patient's medical record and proactively recommend paperwork and programs that might benefit us now or in the future?" _when asked how they would like to receive this_ "The VA sends out an ungodly amount of notifications... include it in these."
 
 
 ## Recommendations
@@ -203,4 +207,4 @@ Future:
 
 ### Other supporting documents created
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-research%20plan.md)
-- [Research Findings Presentation PDF](
+- [Research Findings Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20Readout_%20Content-specific%20comprehension%20study%20for%20the%2010-10CG%20document.pdf)
