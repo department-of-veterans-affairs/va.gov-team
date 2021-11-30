@@ -1,7 +1,7 @@
-# IA tree test 
+# Tree test of the health apartment IA
 ## November 2021
 
-This is a content-focused analysis of tasks with less than 50% success (also analyzed one task with high success). 
+This is a content-focused analysis of tasks with less than 50% success (plus one task with high success). 
 
 **Task 1: You need to see a podiatrist, but live 110 miles away from the closest VA podiatrist. You want to find out whether you’re eligible to see a non-VA podiatrist.**<br>
 12% success, 55% directness
