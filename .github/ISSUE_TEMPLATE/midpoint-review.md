@@ -94,6 +94,7 @@ Please refer to the [Midpoint Review guidance](https://depo-platform-documentati
 - [ ] No
 
 ## Scheduling
+- You will need to use Calendly to schedule both synchronous and asynchronous reviews (asynchronous reviews will not have a Zoom link).
 - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
 - Select a date and time and click “Confirm”
 - Add your name and email
