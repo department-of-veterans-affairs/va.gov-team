@@ -16,26 +16,26 @@ Shane Strassberg [shane.strassberg@va.gov], Luciana Morais [luciana.morais@va.go
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
 
 [Key findings](#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](#recommendations)
 
-[Who we talked to](insert link to section)
+[Who we talked to](#who-we-talked-to)
 
-[Further research needed](insert link to section)
+[Further research needed](#further-research-needed)
 
 <br>
 
 # Research Goals
 The virtual agent/chatbot will be accessible on Va.gov in an unauthenticated version Feb 2022, and then in Aprill 2022, an authenticated version will be launced. Veterans will be able to access the chatbot from a link on Contact Us page. The virtual agent’s goal is to respond to inquiries using Va.gov content as the source of information. It will also provide personalized answers to queries such as claim and appeals status. This project is part of the larger Omnichannel strategy (led by VEO) to give veterans seamless access to information, self-service tools, and time-saving outcomes.
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+The purpose of this research was for:
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
+1. Veteran preference for drupal content responses
+2. Claims feature feedback
+3. Learn other topics Vets would be interested to engage with the chatbot
 
 
 # Research Questions
@@ -88,28 +88,18 @@ We want to conduct a moderated study utilizing a prototype hosted on staging env
    i. True: Vets consistently read the disclaimer before clicking the accept button to enter the chat interface.
 - How important is it for the Veteran to be able to surface a human agent
    i. Definitely True: Vets consistently explained the desire to be connected to a live agent if they hit enough blockers, but were also content to keep finding their own outcome through the bot first.
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
 
+Satisfaction for, and subsequently, adoption of the virtual agent remains very high after the latest round of user testing. Vets appreciated that the chatbot allowed them to work at their own pace, was very quick to provide a response, really liked the claims feature, and that they will be able to connect to a live agent in the future.
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+1.  Vets consistently preferred the preview response for Drupal content because it provided just enough context to make them confident that the webpage link would set them down the right path. They appreciated the full response, but overall felt it was too much info in a small space. The info was more digestible after they followed the link.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+2. When Vets were allowed to ask any general topic question, the results for a correct response were mixed. 
 
-1. Finding one
+3. The Claims feature was viewed very impressively. Vets felt that they understood the information provided, really liked that the representative was included, and really appreciated the loading text when the bot was making its API call. 
 
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+4. There was some confusion for the “Speak to Agent” button. Some thought it would provide contact info or connect them to their claim representative, others thought it would make a phone call to the VA, while only a couple thought it would connect them to a live agent chat in the same chatbox.
 
 
 # Details of Findings 
@@ -122,102 +112,113 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 **Finding 1**
 
-Labels: label 1, label 2 
+Labels: PRDT: Virtual Agent, SFTW: Chatbot, VETJNY: Taking care of themselves, RESRCH: Usability
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+When testing whether Vets would prefer the full Drupal response, a preview with short descriptor, or simple link to webpage for the question, “Am I eligible for health benefits?“, they consistently preferred the preview because it provided just enough context to make them confident that the webpage link would set them down the right path. They appreciated the full response, but overall felt it was too much info in a small space. The info was more digestible after they followed the link.
 
-Brief description
+> _Supporting data: Helpful? Yes. Short and sweet. Here's the article link. likes the layout of the page more than the full response in chat window. "font is kind of smaller in chatbox." full page layout seems more organized, less cramped
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
 
 
 **Finding 2**
 
-Labels: label 1, label 2 
+Labels: PRDT: Virtual Agent, SFTW: Chatbot, VETJNY: Taking care of themselves, RESRCH: Usability
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+When Vets were allowed to ask any general topic question, the results for a correct response were mixed. If they asked about a high-traffic topic like “prescriptions,” the bot provided an accurate response to send them to the right webpage, or a facility location would also provide an accurate response to the locator tool. However, the bot could get confused when asked, “Can my spouse get VA benefits?“, and provided a response with a link to the Education and Training Benefits webpage, or when asked more obscure topics like if VA conducting studies on CLL (Chronic Lymphomatic leukemia). These mixed responses, however, did not deter Vets from continuing to try to use the bot to get to the right info.
 
-Brief description
+> _Supporting data: "Is VA covering CLL studies?" (No answer from bot) CLL = chronic lymphomatic leukemia
 
-> _Supporting data: Quote here_
+• Not dissatisfied with answer. next step might be "Can i speak to an agent?"
+• might retype CLL to expand acronym.
+• (does that) Same response, "...doesn't have the answer right now"
+• speak with agent; ask bot to give him agent's contact info.
+• ”can i speak with an agent?" ... "ah. good!" / appropriate response
+• Would like to have the bot understand departments for his condition, rather than here's a number to start your search.
 
-> _Supporting data: Quote here_
+
+> _Supporting data: "Can my spouse get VA benefits?" to encompass a myriad of benefits (education, health, burial etc.)
+
+"No, it's off track." Response is not specific enough to spouse -- response provides link to general Education & Training Benefits page. Also not comprehensive of the diversity of benefits a spouse could receive
+	
+Upon visit to linked page, noticed a reference to benefits for 'qualifying family members' and noted that is still not specific enough to answer question about spouse
+
 
 
 **Finding 3**
 
-Labels: label 1, label 2 
+Labels: PRDT: Virtual Agent, SFTW: Chatbot, VETJNY: Taking care of themselves, RESRCH: Usability
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+The Claims feature was viewed very impressively. Vets felt that they understood the information provided, really liked that the representative was included, and really appreciated the loading text when the bot was making its API call. A few things that would improve the use of the claims feature would be to change the language around which claim is displayed first because it is actually the most recent claim--not their first claim. Vets also thought including the type of claim in the response, such as “back, PTSD, etc”  would make it faster to know if it was the claim they were looking for an update on. Similarly, rather than just having a “See Next Claim” button, simply presenting each claim as a button with either date, type or claim number would be faster than having to cycle thru multiple claims. We also anticipate some users will ask about a specific claim number, so this capability needs to be added to the existing claims feature.
 
-Brief description
+> _Supporting data: Response was good because it was simple, concise, and had links for more info.
+	
+- They like this feature overall a lot because it removes being put on hold and passed around on the phone.
+	
+- They would most likely try to speak to a live agent if they wanted more information.
+	
+- The user said that they would like an other way to verify once connected with a live agent for security.
 
-> _Supporting data: Quote here_
 
-> _Supporting data: Quote here_
+> _Supporting data: "I think it's impressive." 
 
+- Feels that he would understand the information there, likes the link for more information and likes the agent access. 
+- Knows that he has to go through a series of Next Claims, would have liked buttons for each one of his claims so he can directly to the one he is acquiring about. 
+
+**Finding 4**
+
+Labels: PRDT: Virtual Agent, SFTW: Chatbot, VETJNY: Taking care of themselves, RESRCH: Usability
+
+There was some confusion for the “Speak to Agent” button. Some thought it would provide contact info or connect them to their claim representative, others thought it would make a phone call to the VA, while only a couple thought it would connect them to a live agent chat in the same chatbox. If we change the button text to, “Connect to Live Agent” or “Chat with Live Agent,” that should minimize the confusion.
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+All participating Vets concluded that they would definitely use this product when it is launched.
+
+> "Yes! In future, may trust it enough to get information I need. This shows potential for getting information I need quickly, simply and reliably. I would definitely use chatbot as first resource in info-finding after chatbot goes through a few more rounds of development."
+>  "I would 100% use the chatbot again because it allows him to work at his own pace and not be pressured for questions." 
 
 
 # Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Deploy preview drupal responses to minimize cognitive load and potential 508 issues with links in chatbox
+   
+* Deploy LUIS to replace QNAmaker as the foundation for natural language processing
+
+* Include type of claim in response for easier recognition of each claim
+
+* Display multiple claims as buttons to allow Vets to choose the claim they are looking for, rather than hitting "See Next Claim" button
+
+* Change button descriptor for "Speak with Agent" to "Chat with Live Agent" or "Connect to Live Agent" to minimize any confusion of what this button will do
+   
 
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-
-# Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+Getting ready for unauthenticated launch in Feb 2022, followed by the authenticated launch in Apr 2022.
 
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/claims-and-automated-content-study/research%20plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/claims-and-automated-content-study/conversation%20guide.md)
 
 [Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Excel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/claims-and-automated-content-study/Virtual%20Agent%20Automated%20Content%20and%20Claims%20Research%20Table.xlsx)  
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+[Virtual Agent Study](https://staging.va.gov/virtual-agent-study/)
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
