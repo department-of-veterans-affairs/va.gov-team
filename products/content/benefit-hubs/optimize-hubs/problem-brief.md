@@ -61,5 +61,10 @@ _How will you know the problem is solved? What data will you look for?_
 #### Long-term:
 - We will provide initial reusable structure recommendations that will help enable product teams to reuse content from the benefit hubs in the future
 
+## Estimated timing and steps
 
+1. **Discovery around benefit content performance:** Identify opportunities to inform further solidifying patterns, reusable content, and strategic relationship between hubs and R&S. 
+2. **Define the strategic relationship between benefits hubs and R&S:**
+3. **Define information types of modular content:**
+4. **Testing:**  
 
