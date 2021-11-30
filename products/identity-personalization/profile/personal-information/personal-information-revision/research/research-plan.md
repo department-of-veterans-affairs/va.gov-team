@@ -8,7 +8,7 @@ The Personal Information section of the VA.gov Profile, previously part of the P
 
 We recently expanded the personal information section to include preferred name, pronouns, gender identity, and sexual orientation. These additions work to ensure that the VA has updated information that accurately reflects how Veterans wish to be addressed.
 
-[Link to product brief].
+[Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision)
 
 OCTO Objectives
 ---------------
@@ -77,8 +77,8 @@ We will be conducting remote, moderated usability testing sessions using Zoom. T
 
 ### Research materials
 
--   [Link to conversation guide]
--   [Link to prototype]
+-   [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/conversation-guide.md)
+-   [Prototype](https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i)
 
 Recruitment
 -----------
@@ -89,33 +89,30 @@ Please schedule 10 participants for 5 fulfilled sessions using the below criteri
 
 ### Recruitment criteria
 
-All participants must:
-
--   be Veterans
--   have a VA.gov account
--   be able to participate from a laptop/desktop device
-
-Additional questions to ask in the screener:
-
--   Do you have a VA.gov account? Answer should be yes.
-
-Recruitment requirements
-
--   All must have a laptop/desktop device and be willing to be complete their interview on said device
--   The participants have Zoom downloaded prior to the session
--   The participants know how to screen share
--   Note that our prototype isn't compatible with assistive technology
-
-Must haves for participants
-
+Primary recruitment requirements:
+- All participants must:
+	-   be Veterans
+	-   have an identity-verified, LOA3 account on VA.gov
+	-   be able to participate from a laptop/desktop device
+	-   have Zoom downloaded prior to the session
+	-   know how to screen share
+	-   Note that our prototype isn't compatible with assistive technology
 -   At least 2 people who identify as other than straight or heterosexual
 -   At least 3 people who identifies as other than cis-gender
+-   At least 1 person younger than 30
+-   At least 1 person older than 55
+-   All particpants must have a laptop/desktop device and be willing to be complete their interview on said device
 
-Good to have for participants
+Questions to ask in the screener:
+
+-   Do you have an *identity-verified, LOA3 account on VA.gov*? Answer should be yes.
+-   Do you identify as *other than straight or heterosexual*? Answer should be yes for at least 2 participants.
+-   Do you identify as *other than cis-gender*? Answer should be yes for at least 3 participants.
+
+Secondary recruitment requirements:
 
 -   At least 3 women
 -   At least half of the participants identify as a person of color
--   At least 2 participants under 30 and 2 participants over 55
 -   At least one person who does not have a college degree (to include enlisted Vets)
 -   At least one person who has a college degree (to include officer Vets)
 -   At least one person who lives in a rural or remote area
@@ -130,27 +127,22 @@ Good to have for participants
 Timeline
 --------
 
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person.
+- Desired Timeline: December 13-15, 2021 
 
-Desired Timeline: December 13-15, 2021 
+- 1 hour sessions
 
-1 hour sessions
+- Schedule at least 30 minute breaks in-between sessions.
 
-Schedule at least 30 minute breaks in-between sessions.
-
-Team Availability
-
-December 13 - 11am - 7pm EST 
-December 14 - 11am - 7pm EST 
-December 15 - 11am - 7pm EST  
+- Team Availability
+	- December 13 - 11am - 7pm EST 
+	- December 14 - 11am - 7pm EST 
+	- December 15 - 11am - 7pm EST
 
 ### Pilot Session
 
-Team Availability
-TBD
-
-Pilot participant name and email: TBD
-Date and time of pilot session: TBD
+- Team Availability: TBD
+- Pilot participant name and email: TBD
+- Date and time of pilot session: TBD
 
 Team Roles
 ----------
@@ -165,12 +157,3 @@ Please list the people who will be serving in each role. Include the primary pho
 -   Note-takers: TBD
 -   Observers: Marci, Samara, TBD - (open question for Samara)
 -   List email addresses for those who should attend and observe the sessions: TBD
-
-### Resources
-
-- MVP definition
-- Conversation Guide
-- Prototype
-- Synthesis: Notes and affinity map - to come
-- Findings report - to come
-- Findings Decks - to come
