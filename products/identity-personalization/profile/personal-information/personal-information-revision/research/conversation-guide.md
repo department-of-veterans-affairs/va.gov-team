@@ -107,7 +107,11 @@ Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 
 - How does this page meet your expectations? How does this page not meet your expectations?
 
-- (if not mentioned) You can see that some of the fields can be edited, and some can not. Why do you think that is?
+- (if not mentioned) What are your thoughts on the order of the information on this page?
+
+- (if not mentioned) Did you notice that some of the fields can be edited? What are your thoughts on that?
+
+- (if not mentioned) Did you notice the FAQs pertaining to what can be edited? Could you please go ahead and select this FAQ? How does this information help clarify what can be edited - or fall short in clarifying this?"
 
 **Things to watch for:**
 
@@ -127,11 +131,13 @@ Task 2: Initial Navigation / Edit State - 2 minutes
 
 *Participant is on the Personal Information section page - fields say "edit your personal information to add your [info]"*
 
-- Now let's consider how you would update your own information on this page. Could you show me how you would first update your Preferred name?
-	
-- (When Edit State appears) How does this information meet your expectations? How does it not meet your expectations?
+- Now let's consider how you would update your own information on this page. When looking at this information, what would you choose to edit first?
 
-- So I do want to mention that all of these answers have been pre-selected, so though you can make different choices, what you see later will not reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
+- Great, thank you. Well, for the purposes for this testing, we will go in a specific order. Could you show me how you would first update your Preferred name?
+	
+- (When Edit State appears) How does this information that you see here meet your expectations? How does it not meet your expectations?
+
+- So before we move forward, I do want to mention that the answers you will see have been pre-selected, so though you can make different choices, what you see later will not reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
 
 - Now, could you show me how you would complete this update?
 
@@ -149,27 +155,23 @@ Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
 
 *Participant should be on Edit State for any field*
 
-- Now if you could return to your overall personal information to continue to update your preferences. 
+- (If not already on the main page) Now if you could return to your overall personal information to continue to update your preferences. 
 
-- Next, could you show me what you would click on next to update your Pronouns?
+- Next, could you show me what you would click on next to update your [Pronouns/name of field]?
 	
-- (When Edit State appears) How does this information meet your expectations? How does it not meet your expectations?
-
-- Once again I want to mention that all of the eventual answers have been pre-selected, so though you can make different choices, what you see later will possibly something different that has already been filled in.
+- (When Edit State appears) How does the information you see here meet your expectations? How does it not meet your expectations?
 
 - Are there any answers you'd want to use that you don't see listed here?
 
-- Now, let's consider if you wanted to add an answer you do not see listed here. Could you show me what you would click on?
-
-- And how does this information meet your expectations? How does it not meet your expectations?
+- Once again I want to mention that all of the answers have been pre-selected, so though you can make different choices, what you see later will possibly be something different that what you have chosen.
 
 - Now, could you show me how you would complete this update?
 
 **Things to watch for:**
 
-- Does the participant navigate to a section other than what appears next in the order? 
-
 - Does the participant understand the selection terminology?
+
+- Does the participant note any options that are not listed?
 
 - Does the participant have any questions regarding the input field for an answer not listed?
 
@@ -177,15 +179,9 @@ Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
 Post-Task Interview - 5 minutes
 -------------------------------
 
-- Overall, how did you feel about this experience and what you saw today?
+And that concludes the tasks we have for today. 
 
-- Was there anything that you found confusing? Or that you particularly liked? 
-
-- Did you notice that some fields could not be edited? What were your thoughts on that?
-
-- Did you notice the FAQs pertaining to the information? What were your thoughts on that?
-
-- Any questions for me?
+- Do you have any questions for me?
 
 
 ## Thank-You and Closing - 5 minutes
