@@ -11,7 +11,7 @@
 
 - *Have prototype link available*
 
-- *Link for participants:* 
+- *Link for participants:* [Prototype](https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i) 
 
 - *Update the Zoom sharing settings so participants can share*
 
