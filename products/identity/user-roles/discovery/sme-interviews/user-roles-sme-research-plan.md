@@ -55,7 +55,7 @@ We'll conduct semi-structured interviews with VA stakeholders over Zoom.
 
 ### Research materials
 
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/user-roles/discovery/sme-interviews/conversation-guides) 
 
 ## Recruitment	
 
@@ -63,11 +63,8 @@ We're recruiting stakeholders at each administration through our VEO and OCTO co
 
 ## Timeline
 
-TBD
+We'll conduct interviews the first two weeks of November, 2021.  A schedule of sessions can be found [here[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/user-roles/discovery/sme-interviews/README.md).
 
-### Research sessions
-
-TBD
 
 ### Length of sessions
 
@@ -77,8 +74,5 @@ Interviews will be 30-45 minutes.
 
 - Moderator:	Liz Lantz
 - Research guide writing and task development (usually but not always same as moderator):	Liz Lantz
-- Participant recruiting & screening:	N/A
 - Project point of contact:	Liz Lantz
-- Participant(s) for pilot test:	N/A
-- Note-takers:	TBD
-- Observers: N/A
+- Observers: Samara Strauss, Heather Justice, AJ Jackabcin, Cody Reinhold, John Rahaghi
