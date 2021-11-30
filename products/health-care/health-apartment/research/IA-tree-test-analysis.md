@@ -3,7 +3,7 @@
 
 This is a content-focused analysis of tasks with less than 50% success (also analyzed one task with high success). 
 
-**Task 1: You need to see a podiatrist, but live 110 miles away from the closest VA podiatrist. You want to find out whether you’re eligible to see a non-VA podiatrist.**
+**Task 1: You need to see a podiatrist, but live 110 miles away from the closest VA podiatrist. You want to find out whether you’re eligible to see a non-VA podiatrist.** <br></br>
 12% success, 55% directness
 
 Besides answers we defined as success:
@@ -29,7 +29,7 @@ Insights:
 * Some users use secure messaging to make appts.
 * The users who knew what Community Care was thought they could make an appointment there. 
 
-Recommendations: 
+Thoughts on recommendations: 
 * Tie Community Care section of the site with “Make an appointment.”
 * Tie secure messaging to “Make an appointment.”
 
@@ -48,7 +48,7 @@ Insights:
 * Users relied on Help and resources and Contact us.
 * Some users thought their VA health summary would be helpful. 
 
-Recommendations:
+Thoughts on recommendations: 
 * Tie health care eligibility and coverage to disability rating. 
 * Leverage Help and resources for important topics like this.
 * Consider tying eligibility to VA health summary. 
@@ -66,7 +66,7 @@ Insights:
 * The largest number of users associated dental with eligibility under health care.  `<< This is actually a correct answer.` 
 * Users relied on Help and resources > Help pages on many topics.  
 
-Recommendations:
+Thoughts on recommendations: 
 * Leverage Help and resources for important topics like this.
 
 
@@ -105,7 +105,7 @@ Insights:
 * Users might send a secure message to their provider to either ask how to enter blood pressure numbers — or to report numbers to providers. 
 * The highest number of users associated entering blood pressure numbers with Records. 
 
-Recommendations:
+Thoughts on recommendations: 
 * Cross-reference Records with entering your health data.
 * Cross-reference Update health care info with self-entering health stats like blood pressure. 
 * Make sending a message easy, no matter the task.
@@ -127,7 +127,7 @@ Insights:
 * Users relied on Help and resources, especially Contact form.
 * No one chose Messages as an answer.  
 
-Recommendations:
+Thoughts on recommendations: 
 * As this is an important task, make it prominent on the homepage and Health care page. The context is managing your health care. Consider the flip side of this task: Removing a dependent from your VA health care. This is also important, as you may owe VA money if your dependent is no longer eligible and stays on your plan.
 * Cross-reference Records and add a dependent.  
 * Cross-reference Family and caregiver benefits with adding a dependent.
@@ -151,7 +151,7 @@ Insights:
 * Users probably went to MHV newsletter because they saw articles on COVID-19 vaccines in the newsletter, which has published articles on COVID (making this a correct answer).   
 * Hypothesis: By later in the tree test, users knew there were topic pages in Help and resources, so they went there.
 
-Recommendations:
+Thoughts on recommendations: 
 * Cross-reference Health care and Pharmacy with COVID vaccine info.
 * During the pandemic, highlight COVID-19 info on the homepage and in related areas such as Health care and Pharmacy. 
 * Consider whether Research health should be combined with topics in Help and resources. 
