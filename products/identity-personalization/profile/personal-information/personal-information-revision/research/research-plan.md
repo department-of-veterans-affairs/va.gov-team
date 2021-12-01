@@ -22,11 +22,11 @@ Veteran Journey
 
 Vision: 
 
-The Personal Information section affects the Veteran journey at any point during which the Veteran is interacting with a VA representative or at a VA facility. The vision for this improvement is for every Veteran to be addressed properly when in contact with the VA by allowing them to specify how they wish to be addressed.
+Allow veterans to see and update their personal information so they have agency over how they're addressed by VA staff.
 
 Mission: 
 
-Continue to offer and improve upon a personalized experience for Veterans that helps them feel safe, heard, understood, and cared for by the VA.
+Add preferred name, pronouns, gender identity, and sexual orientation to help veterans accuately describe themselves within the VA.
 
 Research Goals
 --------------
