@@ -54,6 +54,7 @@ Receiving the Prototype Link and Sharing Screen - 3-5 minutes
 Ok, so we'll move on to the prototype. I'm going to send you a link in the chat and then have you share your screen.
 
 *Send a link to the prototype, which starts on the Personal Information page.*
+https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i
 
 **Instructions for finding Zoom chat (if needed)**
 
