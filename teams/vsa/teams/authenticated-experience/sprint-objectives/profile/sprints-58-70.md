@@ -213,6 +213,8 @@ Anything unfinished from last sprint, plus...
 
 ## Sprint 63 (12/15 - 12/28)
 
+- QA contact information after 12/17 on staging re: VA Profile migrating to new API
+
 ## Sprint 64 (12/29 - 1/11)
 
 ## Sprint 65 (1/12 - 1/25)
