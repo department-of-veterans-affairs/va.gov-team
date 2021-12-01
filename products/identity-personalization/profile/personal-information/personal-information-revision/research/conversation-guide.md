@@ -77,13 +77,13 @@ Were you able to open the link and view it in the browser? Great. Now would you 
 - Backup plan if they cannot figure out how to share screen:
 	- Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 
-Great! Now that we are all set up, I will have you move on to a few tasks.
+Great! Now that we are all set up, I will have you try a few things in the prototype.
 
 
 ## TASKS:
 ------
 
-As I mentioned, we will be looking at a section of the Profile on the VA.gov website that helps Veterans update their personal information - in order to determine if the information makes sense and is presented in a way that is helpful for Veterans. I will have you complete a few tasks that will help us understand if changes or improvements need to be made. As we go through these tasks, I'd like to remind you to think outloud and talk through what you are seeing and doing. This helps us understand more about about your experience using this prototype.
+As I mentioned, we will be looking at a section of the Profile on the VA.gov website that helps Veterans update their personal information - in order to determine if the information makes sense and is presented in a way that is helpful for Veterans. I will have you go through a few parts of the prototype that will help us understand if changes or improvements need to be made. As we go through the session, I'd like to remind you to think outloud and talk through what you are seeing and doing. This helps us understand more about your experience using this prototype.
 
 
 Task 1: General Page Impression (Layout/Terminology) - 3 minutes
@@ -97,11 +97,14 @@ Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 
 - How does this page meet your expectations? How does it not meet your expectations?
 
+- (if not mentioned) What questions do you have about what you see here?
+
 - (if not mentioned) What are your thoughts on the order of the information on this page?
 
 - (if not mentioned) Did you notice that some of the fields can be edited? What are your thoughts on that?
 
-- (if not mentioned) Did you notice the FAQ pertaining to what can be edited? Could you please go ahead and select this FAQ? How does this information help clarify what can be edited - or how does it fall short in clarifying this?"
+- (if not mentioned) What questions do you have about this page? Do you see anything here that might help you answer those questions? 
+- (if needed) Did you notice the question under the "Personal Information" heading? Did you think it was clickable? Please go ahead and click on the question. How does this information help you understand what can be edited?"
 
 **Things to watch for:**
 
@@ -123,13 +126,15 @@ Task 2: Initial Navigation / Edit State - 2 minutes
 
 - Now let's consider how you would update your own information on this page. Please don't click anything yet, but when looking at this information, what would you choose to edit first?
 
-- Great, thank you. Well, for the purposes for this testing, we will go in a specific order, but that is very helpful information for us know. Next, could you show me how you would first update your Preferred name?
+- Great, thank you. Well, for the purposes for this testing, we will go in a specific order, but that is very helpful information for us know. So before we move forward, I do want to mention that after you edit and save the information, you will see pre-populdated information. So, though you can make different choices, what you see later will not necessarily reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
+
+- Okay. Please keep thinking out loud, you're doing a great job with that.
+
+- Could you show me how you would first update your Preferred name?
 	
-- (When Edit State appears) How does this information that you see here meet your expectations? How does it not meet your expectations?
+- (When Edit State appears, just before clicking save) How does this information that you see here meet your expectations? How does it not meet your expectations?
 
-- So before we move forward, I do want to mention that the answers you will see during these tasks have been pre-selected, so though you can make different choices, what you see later will not necessarily reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
-
-- Now, could you show me how you would complete this update to choose your Preferred Name?
+- Now, go ahead and complete this update.
 
 **Things to watch for:**
 
@@ -155,7 +160,7 @@ Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
 
 - Once again I want to mention that all of the answers have been pre-selected, so though you can make different choices, what you see later will possibly be something different that what you have chosen.
 
-- Now, could you show me how you would complete this update?
+- Now, go ahead and complete this update.
 
 **Things to watch for:**
 
@@ -169,7 +174,11 @@ Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
 Post-Task Interview - 5 minutes
 -------------------------------
 
-And that concludes the tasks we have for today. 
+And that concludes everything we wanted to get your feedback on today. 
+
+- Have you ever made these kinds of changes anywhere else on line?
+
+- How would the ability to save this information about yourself be useful to you, if at all?
 
 - Do you have any questions for me?
 
