@@ -17,7 +17,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototype https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555?mode=cvhidfm*
+- *Open a standalone browser window to prototype https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555?mode=cvhidfm and REFRESH*
+
+- *Have bitly link ready to paste into Zoom chat (or wherever): https://bit.ly/3FYjFsE*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -58,7 +60,7 @@ Before we start, I want to go over a few things:
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
 - Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or  your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
+  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help *(give permission > accessibility settings > find Zoom > check box)*.
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
@@ -77,7 +79,7 @@ Before we start, I want to go over a few things:
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
 Let’s start with a few questions... 
-- What device are you using today? *(Phone / Tablet / Computer)*
+- What device are you using today? *(iPhone / Android / Tablet / Computer)*
 
 - Have you ever attended an event (e.g., presentation, workshop/class, outreach event) put on by the VA or a Veterans Service Organization? 
 	- If so, can you tell me about that experience? 
@@ -95,7 +97,7 @@ Before you click/tap anywhere on the screen, I would like you to tell me what yo
 
 While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-I would like you to share your screen with me so I can watch you use the demo tool in your web browser. 
+I would like you to share your screen with me so I can watch you use the demo tool in your web browser. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
 I'll have you start from a website that I'm going to *[spell/put into the Zoom chat/email/text]* for you to click on (https://bit.ly/3FYjFsE). 
@@ -156,7 +158,7 @@ Once you've registered for this event, is there anything else you would like to 
 - *No / Add to Calendar / Share on FB / Twitter / ______________*
 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
-Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up for in January?
+Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up in 2022?
 
 - *How got back to Events List page: Back in browser / breadcrumb / "See other outreach events" at bottom of detail pg / "In this section" menu > Outreach events*
 
