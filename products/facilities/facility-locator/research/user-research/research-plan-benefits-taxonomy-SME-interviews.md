@@ -3,18 +3,18 @@
 ## **Background**
 
 
-## The Facility Locator currently allows veterans and caregivers to search for many types of healthcare locations, cemeteries, and benefits locations. Each benefit location administers different services that can allow veterans access to vital services. In addition, Veteran Benefit Administration (VBA) representatives may have satellite offices or pop-up locations at non-Benefits facilities such as healthcare facilities.
+The Facility Locator currently allows veterans and caregivers to search for many types of healthcare locations, cemeteries, and benefits locations. Each benefit location administers different services that can allow veterans access to vital services. In addition, Veteran Benefit Administration (VBA) representatives may have satellite offices or pop-up locations at non-Benefits facilities such as healthcare facilities.
 
 We need to evaluate the naming conventions of the current services to see how they match the mental models of veterans and caregivers (users) themselves. This study is a generative research endeavor with Benefits Subject Matter Experts (SME’s) to better understand the context of each of the services before doing direct research with users.
 
 
-### 
+##
 **OCTO Objectives**
 
 Objective 1: Increase the usage and throughput of VA services
 
 
-### 
+## 
 **Veteran Journey**
 
 The Benefits interactions should follow a Veteran during many instances of their Journey beginning from “Starting Up” through “Retirement” and into “Dying”. The different benefits may become relevant to Veterans or caretakers during different chapters.
@@ -32,14 +32,14 @@ Arguably, the most important moment will be the Veterans first “Applying for B
 3. Detect missing services or context that will allow for better follow-up questions with users.
 4. Understand the major pain points around accessing benefits to better be able to prepare for users’ stories.
 
-### 
+##
 **Outcome**
 
 
 The findings from this research with SME’s will feed into the Research Plan for another study directed at users themselves. The overall findings about the benefits landscape will change the way the Facilities Locator lists and classifies benefits on both the map and individual facility pages.
 
 
-### 
+##
 **Research questions**
 
 Evaluate the current VBA taxonomy against the mental models of users: names, scope, and categorization of services
@@ -72,16 +72,16 @@ Understand the major pain points around accessing benefits to better be able to 
 * What are common pain points for users in the benefits process?
 * When users are most upset about benefits interactions, what is the cause?
 
-### 
+##
 **Hypothesis**
 
 1. I hypothesize that some service categories sound specific but actually encompass many different types of services that users will not expect.
-    1. Disability_Claim_assistance
-2. I hypothesize that some service labels sound too vague for users to imply what is contained
-    2. Transition_Assistance
-3. I hypothesize that some labels utilize VBA jargon that is unfamiliar to users.
-    3. IDES
-    4. eBenefits_Registration
+* Disability_Claim_assistance
+3. I hypothesize that some service labels sound too vague for users to imply what is contained
+* Transition_Assistance
+4. I hypothesize that some labels utilize VBA jargon that is unfamiliar to users.
+* IDES
+* eBenefits_Registration
 
 ## 
 **Method**
@@ -91,7 +91,7 @@ Understand the major pain points around accessing benefits to better be able to 
     This research is exploratory, generative and an initial run of a future research plan. The method should be flexible and broad in order to follow new threads that the SME’s might bring up.
 
 
-### 
+## 
 **Location**
 
 
@@ -100,7 +100,7 @@ Remote research - Zoom
 Between December 7th and 17th
 
 
-### 
+## 
 **Research materials**
 
 _Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request._
