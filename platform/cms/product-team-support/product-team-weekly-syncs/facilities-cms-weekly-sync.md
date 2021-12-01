@@ -25,7 +25,49 @@
 
 ## December 1
 
+Top tasks update
+- Take VISN 19 data on tugboat (Wyoming/Nevada etc) and develop with that. 
+- Check with Stan and Lisa on Friday
+- Plan the training and KB articles
+- Week of December 6 check back on content design and templating issues for clinical vs non-clinical service locations
+
+Common links on VAMC system pages
+- FE can harden the h2 now 
+- CMS will take #7096 when it can, which has a small FE aspect 
+
+Vet Center Required services
+- New Vet Centers will get required services when they are created
+- If a Vet Center service becomes required, it will queue creation of those services across all Vet Centers if they don't already have it.
+- For existing Vet Centers (eg District 4 next week)
+  - After the code is merged, CMS team will unrequire then require all required Vet Center services, spawning these for all Vet Centers. 
+  - This automated content creation will wait for 6640 to be merged so it's less confusing for existing editors. 
+
+Iterate on the help text for the Vet Center services
+- CMS issue for 1st half of sprint 47: Improved help text  Clarify the need to not repeat the national description 
+
+Vet Center District 4 
+- 8th and 9th kickoffs
+- Email with workbook and instructions Dec 10
+- "Deadline" February 1
+- Changes before editors get in 
+  - Vet Center required services (defect with duplicate services, 6640, 6639, and KB article)
+  - Improved help text for general / vet center description (nice to have)
+
+Operating status more info field requirements
+
+Dashboard usability study readout this Friday 
+- Michelle out, will be recorded
+
+Events
 - Recurring events PW work
+- Audience field?
+  - Eg Flu shot clinic. Audience would be veterans (or veterans who are registered for care?)
+  - We have an audience vocabulary from Resource and support that could be used, but it may be worth looking at that vocabulary for its ability to be extensible for this case, and others.  See for example the Audience and Beneficiaries fields at the bottom of https://prod.cms.va.gov/node/add/checklist
+  - Default "open to everyone" but allow editors to specify to a certain audience?
+  - Could be used for filters
+- Cost of events
+  - Now Defaulted to "Free" and hidden from form (in PR)
+
 
 ## November 24
 
