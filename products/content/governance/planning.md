@@ -41,9 +41,7 @@
     - Determining when we need to update existing content rather than create new content
     - Making sure that articles are optimized for the most strategic SEO keywords and that we avoid keyword cannabilization
     - Providing guidance on templates, CTAs, etc.
-  - 
+  - Reviewing analytics and content on a regular basis to update and optimize 
  
 3. Establish a content QA process that uses the content checklist to make sure all R&S content adheres to critical content standards. At the very least, a copy editor must review all articles prior to publishing.
  
-
-We could pilot this with 1 or 2 groups (such as VHA digital media).
