@@ -19,7 +19,7 @@
 
 - *Open a standalone browser window to prototype https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555?mode=cvhidfm and REFRESH*
 
-- *Have bitly link ready to paste into Zoom chat (or wherever): https://bit.ly/3FYjFsE*
+- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): https://bit.ly/3FYjFsE*
 
 - *Do Not Disturb ON so no notifications*
 
