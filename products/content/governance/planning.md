@@ -29,21 +29,22 @@
 - How do we balance content author automony and overall content production sustainability with quality standards?
 - What guidance and/or links to the VA.gov style guide can we include in the Drupal R&S templates to help ensure quality? 
 
-## Proposed solutions
+## Potential solutions
 
 1. Solidify strategy for what content specifically belongs in R&S and document this to provide clear guidance and standards for content authors and reviewers.
 
 2. Create a Resources & Support content planning group that consists of representatives from the OCTO content team + each business line (i.e., health, disability, education, careers, life insurance, pension, burials and memorials) + others as needed (potentially OPIA). Group's responsibilities include:
   - Maintaining a log of all R&S content 
+  - Establishing levels of review and processes for different content initiatives (i.e. new article vs. updates to existing articles)
   - Identifying critical legacy content for migration (like the recent debt management content migration and the upcoming community care content) that OCTO + each business line should partner closely on, and establishing a timeline for migration of each
-  - Meeting regularly (potentially biweekly) to review proposals for new articles and provide guidance on these points:
+  - Collaboratively reviewing proposed new articles and providing guidance on these points:
     - Making sure that we aren't creating duplicative/slight variations of the same topic
     - Determining when we need to update existing content rather than create new content
     - Determining who should write and review the article
     - Making sure that articles are optimized for the most strategic SEO keywords and that we avoid keyword cannabilization
     - Providing guidance on templates, CTAs, etc.
-  - Reviewing analytics and content on a regular basis to update and optimize 
+  - Reviewing analytics and content on a regular basis to update and optimize content
  
-3. Establish a content QA process that uses the content checklist to make sure all R&S content adheres to critical content standards. At the very least, a copy editor must review all articles prior to publishing.
- 
-4. Create a robust training and peer support model for content.
+3. Establish a content QA process that uses the content checklist to make sure all R&S content adheres to critical content standards and goes through appropriate SME reviews. 
+
+4. Create a robust training and peer support model for content (broader initiative beyond R&S, but related so including here).
