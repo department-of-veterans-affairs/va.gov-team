@@ -98,10 +98,10 @@ Primary recruitment requirements:
 	-   know how to screen share
 	-   Note that our prototype isn't compatible with assistive technology
 -   At least 2 people who identify as other than straight or heterosexual
--   At least 3 people who identifies as other than cis-gender
+-   At least 3 people who identify as other than cis-gender
 -   At least 1 person younger than 30
 -   At least 1 person older than 55
--   All particpants must have a laptop/desktop device and be willing to be complete their interview on said device
+-   All particpants must have a laptop/desktop device and be willing to be complete their interview from that device
 
 Questions to ask in the screener:
 
