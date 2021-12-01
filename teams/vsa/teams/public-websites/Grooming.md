@@ -27,7 +27,7 @@ None
 
 </details>
 
-## Wednesday, November 10, 2021 
+## Wednesday, December 8, 2021 
 
 ### Key Grooming Factors:
 1. Breakdown User Stories into smaller tasks.
@@ -36,8 +36,7 @@ None
 
 ### Backlog Tickets:
 
-- [ ] [BUG] Google Analytics opt-out component [#32587](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32587) (Update legacy code on all pages)
-- [ ] [BUG] VA Facility and Status Updates Banner Dismissible function misaligned (Safari) [#32630](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32630) 
+- [ ] [Markup and meta data] HTML markup isn't valid. (09.01.1) [#31441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31441) 
 - [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606) 
 - [ ] [Tech Discovery] Veteran Crisis Line (VCL) Feature Toggle Add [#31866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31866) 
 - [ ] [508-defect-2:] The sticky footer alert is inaccessible to screen reader users and a negative experience for keyboard and mobile users [#32285](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32285)
