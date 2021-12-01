@@ -65,6 +65,6 @@ _How will you know the problem is solved? What data will you look for?_
 
 1. Discovery around benefit content performance: Wrap up early January
 2. Define the strategic relationship between benefits hubs and R&S: Ready mid-January
-3. Testing: Mid-January to early February
+3. Testing: Mid-January to mid-February
 4. Define information types of modular content: Mid-February
 5. Begin content migration project following new strategy and information types for reusable content (recognizing that technical capabilities will likely not be in place at this time): Start end of February
