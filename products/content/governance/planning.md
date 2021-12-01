@@ -11,6 +11,7 @@
 - How do we avoid duplicative/slight variations on content?
 - How do we determine if a topic should be addressed at a specific program/benefit level or at a broader level?
 - How do we make sure we keep our SEO effective and avoid keyword cannabilization?
+- How do we make sure that content stays timely and relevant?
 
 ### Content design and display
 - How do we make sure we're using the best template for a specific article? Do we want any enforcement around template type, or simply offer guidance? Are there any new templates or template changes we want to offer? 
@@ -24,12 +25,19 @@
 ### Quality assurance
 - How do we make sure that content meets VA.gov standards for plain language and accessibility?
 - How do we make sure that content that needs to be translated meets translation-ready standards?
-- 
+- How do we balance content author automony and overall content production sustainability with quality standards?
 
+## Proposed solutions
 
-### Proposal
+1. Solidify strategy for what content specifically belongs in R&S and clearly document this as well as for the R&S planning group.
 
-Can we create a content planning group that consisting of representatives from the OCTO content team + each business line (i.e., health, disability, education, careers, life insurance, pension, burials and memorials)? The group could potentially create an initial editorial calendar of articles and then regularly review proposed articles to make sure:
+2. Create a Resources & Support content planning group that consists of representatives from the OCTO content team + each business line (i.e., health, disability, education, careers, life insurance, pension, burials and memorials). Group's responsibilities include:
+  - Maintaining a log of all R&S content 
+  - Identifying critical legacy content for migration that OCTO + business line SMEs should partner closely on, and establishing a timeline for migration
+  - 
+
+2. Establish a content QA process that uses the content checklist to make sure all R&S content adheres to critical content standards.
+ meeting weekly to review article requests and in-progress articles
   - We aren't creating duplicative/slight variations of the same topic
   - When we need to update existing content rather than create new content
   - Articles are optimized for SEO and we avoid keyword cannabilization
