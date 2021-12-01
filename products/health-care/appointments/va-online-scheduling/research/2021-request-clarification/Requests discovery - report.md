@@ -92,10 +92,10 @@ No other participant indicated a preference for calling the facility to schedule
 
 ##### Recommendations
 
-* A clunky experience navigating to Secure Messaging will add frustration if it is encountered after reaching a dead end in online scheduling. The transition from VAOS to Secure Messaging needs to be smooth to keep frustration with the process at a minimum. Consider ways to work out potential kinks in this transition, for example
+* A clunky experience navigating to Secure Messaging will add frustration if it is encountered after reaching a dead end in online scheduling. The transition from VAOS to Secure Messaging needs to be smooth to keep frustration with the process at a minimum. Consider ways to work out potential kinks in this transition:
 
-   * Including only the options to request an appointment or call, and working out the flow to Secure Messaging at a less critical point in the process (such as adding it as an option to the VAOS home page. 
-   * Testing the scheduling options page with and without the SM option and tracking clicks on the separate options.
+   * Testing the scheduling options page with and without the SM option and comparing abandonment rate, time on page, and next steps OR,
+   * Working out the flow to Secure Messaging at a less critical point in the process (such as adding it as an option to the VAOS home page) before adding it to the request flow. 
 
 * Consider adding helpful information about the facility to the the "call" page. Participants suggested:
 
