@@ -37,7 +37,7 @@
   - Maintaining a log of all R&S content 
   - Establishing levels of review and processes for different content initiatives (i.e. new article vs. updates to existing articles)
   - Identifying critical legacy content for migration (like the recent debt management content migration and the upcoming community care content) that OCTO + each business line should partner closely on, and establishing a timeline for migration of each
-  - Collaboratively reviewing proposed new articles and providing guidance on these points:
+  - Collaboratively (specific roles tbd) reviewing proposed new articles and providing guidance on these points:
     - Making sure that we aren't creating duplicative/slight variations of the same topic
     - Determining when we need to update existing content rather than create new content
     - Determining who should write and review the article
