@@ -37,12 +37,11 @@ None
 ### Backlog Tickets:
 
 - [ ] [Markup and meta data] HTML markup isn't valid. (09.01.1) [#31441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31441) 
-- [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606) 
-- [ ] [Tech Discovery] Veteran Crisis Line (VCL) Feature Toggle Add [#31866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31866) 
+- [ ] [BUG] Google Analytics opt-out component [#32587](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32587) 
 - [ ] [508-defect-2:] The sticky footer alert is inaccessible to screen reader users and a negative experience for keyboard and mobile users [#32285](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32285)
 - [ ] [Tech Debt] Megamenu code refactor [#32443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32443) 
 - [ ] Migrate VA.gov megamenu items to Drupal [#32681](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32681)
-- [ ] Changing H3s to H2s in featured content blocks from Sitewide Content [#32673](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32673) 
+
 
 ### Future Work Grooming: 
 - Outreach & Events: 
