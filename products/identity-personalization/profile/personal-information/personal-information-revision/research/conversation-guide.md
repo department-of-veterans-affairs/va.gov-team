@@ -127,7 +127,7 @@ Task 2: Initial Navigation / Edit State - 2 minutes
 
 - Now let's consider how you would update your own information on this page. Please don't click anything yet, but when looking at this information, what would you choose to edit first?
 
-- Great, thank you. Well, for the purposes for this testing, we will go in a specific order, but that is very helpful information for us know. So before we move forward, I do want to mention that after you edit and save the information, you will see pre-populdated information. So, though you can make different choices, what you see later will not necessarily reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
+- Great, thank you. Well, for the purposes for this testing, we will go in a specific order, but that is very helpful information for us know. So before we move forward, I do want to mention that after you edit and save the information, you will see pre-populated information. So, though you can make different choices, what you see later will not necessarily reflect your choices and will instead show what has already been filled in. Do you have any questions about this?
 
 - Okay. Please keep thinking out loud, you're doing a great job with that.
 
