@@ -36,9 +36,8 @@
 </details>
 
 ## December 1, 2021
-* Promo Banners:
-  * [Notes in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md)
-
+* Recurring events
+* 
 ## November 24
 
 * Promo Banners:
