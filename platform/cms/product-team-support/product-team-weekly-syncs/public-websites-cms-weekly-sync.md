@@ -35,6 +35,9 @@
 
 </details>
 
+## December 1, 2021
+* Promo Banners:
+  * [Notes in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/promobanners/CMS-PW-notes-2021-11-24.md)
 
 ## November 24
 
@@ -43,8 +46,6 @@
 * Recurring events
   * Need a seperate and longer meeting for recurring events; include Ethan, Kelson, Brian, Kev, Dave, SWirt, Ericka, Michelle
     * next weeks session will start 30 minutes early
-  
-
 
 ## November 17
 
