@@ -23,6 +23,10 @@
 
 </details>
 
+## December 1
+
+- Recurring events PW work
+
 ## November 24
 
 ### All facilities
