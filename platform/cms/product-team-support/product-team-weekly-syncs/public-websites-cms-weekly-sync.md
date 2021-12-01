@@ -36,8 +36,59 @@
 </details>
 
 ## December 1, 2021
+* Promo banners (any questions?)
 * Recurring events
-* 
+  * CMS: nothing has changed since the slide deck was presented in Aug, except a feature flag on prod
+    * waiting on design iterations from PW and confirmed set of features
+    * any docs on how to implement a CMS feature flag? (will async) everything Kelson has seen is for FE feature toggles
+  * PW: usability testing happening today
+    * Can filter by:
+      * All upcoming
+      * Next week
+      * Next month
+      * Specific date
+      * Custom date range
+      * Past events
+  * Questions:
+    * Are there things that can be worked on now?
+    * What needs to wait for usability testing to complete?
+    * Are there any data concerns from a CMS standpoint?
+    * url structure TBD
+    * Repeats monthly may be an issue
+      * Currently in the CMS if repeats monthly is chosen, it saves as an actual date
+        * may need an additional field to help capture
+        * can't definitively say monthly at this time with the out of the box implementation
+        * unless the FE can parse and find a pattern which is not preferred
+        * Dave is good with having it say just "Repeats" so "monthly" is not neccessary
+          * if the list of events for an event is of length 2 or more, show "Repeats"
+          * last event shouldn't show "Find other times for this event" bc there aren't any more future events
+          * "when:" should show next upcoming event (the most upcoming)
+          * MVP = will cut off 365 from the current edit
+            * post MVP = maybe some sort of notification for editors to validate if this event is still recurring
+    * FE not concerned with perfomance with data for all of these recurring events until we hit 3-5k
+    * "Find other times for this event" should only show future instances
+    * "Filter by" does it search for all events including past?
+    * FE is capped at 500 events currently
+    * CMS to check how many events there actually are to determine if there are any missing (1,500)
+      * how many are only Outreach Hub (993 published including past) vs. VAMC
+      * need to come back later to content lifecycle for these
+      * do we need to purge, archive, else?
+      * currently are showing some past events
+      * archived up to last month before
+      * Dave: let's archive quarterly
+    * What are the user stories around past events? (SEO, as a Veteran i want to know what happened last Veterans Day)
+      * possibly: as an editor I want to keep past events so I can reuse them for future events because I don’t currently have recurring events.
+    * url structure
+      * CMS: there aren't distinct urls for each instance, url is for the node itself
+    * "Add to calendar" functionality will remain fairly basic per Dave
+    * timezone: CMS editor can select
+        * decision to show on FE timezone on which it was created
+    * "Where" nothing with map links yet
+      * when it says online event, could be a url
+    * Currently no field for "audience" in the CMS
+    * 5492: Disable or hide the cost field on events to be put in next CMS sprint (47)
+    * Is CMS team unblocked to start work? looks like yes
+    * 
 ## November 24
 
 * Promo Banners:
