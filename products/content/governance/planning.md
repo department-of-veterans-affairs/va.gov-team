@@ -39,9 +39,11 @@
   - Meeting regularly (potentially biweekly) to review proposals for new articles and provide guidance on these points:
     - Making sure that we aren't creating duplicative/slight variations of the same topic
     - Determining when we need to update existing content rather than create new content
+    - Determining who should write and review the article
     - Making sure that articles are optimized for the most strategic SEO keywords and that we avoid keyword cannabilization
     - Providing guidance on templates, CTAs, etc.
   - Reviewing analytics and content on a regular basis to update and optimize 
  
 3. Establish a content QA process that uses the content checklist to make sure all R&S content adheres to critical content standards. At the very least, a copy editor must review all articles prior to publishing.
  
+4. Create a robust training and peer support model for content.
