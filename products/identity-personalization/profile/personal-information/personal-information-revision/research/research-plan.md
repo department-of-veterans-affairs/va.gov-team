@@ -18,24 +18,20 @@ OCTO Objectives
 Veteran Journey
 ---------------
 
-Vision: 
+Vision: 
 
 Allow veterans to see and update their personal information so they have agency over how they're addressed by VA staff.
 
-Mission: 
+Mission: 
 
 Add preferred name, pronouns, gender identity, and sexual orientation to help veterans accuately describe themselves within the VA.
 
 Research Goals
 --------------
 
--   Veterans understand the terminology used in the Personal Information section as it pertains to updating or changing their preferences.
--   Veterans can easily find the information needed to specify how they wish to be addressed when visiting VA facilities or communicating with a VA representative.
--   Veterans understand and are not misdirected by the order of the information fields presented.
--   Veterans can navigate through changing or updating their personal information to reflect their preferences
--   Veterans expect to find this information in this section of the profile and website
-
-### Outcome
+-   Evaluate whether Veterans understand the terminology used in the Personal Information section as it pertains to updating or changing their preferences.
+-   Validate that the order of information makes sense to Veterans.
+-   Evaluate whether or not Veterans understand what this information is and why we are asking for it.
 
 We will use these learnings from this research to determine if any content or IA changes are needed and refine our designs accordingly before they go into production.
 
@@ -46,8 +42,7 @@ Content/IA:
 -   Do the fields/information presented in the Personal Information section match Veterans' expectations?
 -   Does the wording of options presented in the Personal Information section match Veterans' expectations?
 -   Do Veterans understand the terminology used in the Personal Information section?
--   What terms do Veterans use to describe themselves pertaining to gender, sexual identity pronouns, and names? 
--   Do veterans feel they can find the information they need to accurately describe their personal information preferences?
+-   What terms do Veterans use to describe themselves pertaining to gender, sexual identity pronouns, and names? 
 -   How do Veterans expect to see this information organized on the page? Does anything about the placement of these fields cause confusion?
 -   Do veterans find that there are any fields or options missing?
 
@@ -55,15 +50,10 @@ Relevance/Privacy/FAQ:
 
 -   Do Veterans understand what this information is and why we are asking for it? (FAQ)
 
-Adding or Changing Information:
-
--   Do Veterans understand how to edit and update their personal information?
--   Can Veterans navigate through the process of editing their personal information without encountering any usability hurdles?
-
 ### Hypothesis
 
 -   Veterans will understand how to update their personal information preferences
--   Veterans will be pleased to have more control over how they are addressed when interacting with VA representatives 
+-   Veterans will be pleased to have more control over how they are addressed when interacting with VA representatives 
 -   Veterans will understand the overall fields and options but may have different expectations regarding specific terminology
 -   Veterans will show confusion regarding specific terminology. We expect that some of the wording may be different than what they are used to.
 -   Veterans will have questions about why we are asking for this information and where/how the information will be used.
@@ -71,7 +61,7 @@ Adding or Changing Information:
 
 ### Method
 
-We will be conducting remote, moderated usability testing sessions using Zoom. The sessions will be moderated using a high-fidelity prototype showing different edit states, in which the fields are prefilled and cannot be selected. We are most interested in feedback regarding content and IA; ability to move through and edit the forms on Profile has already been tested in previous research.
+We will be conducting remote, moderated interviews using Zoom. The sessions will be moderated using a high-fidelity prototype showing different edit states to allow participants to respond to the options for each state. We are most interested in feedback regarding content and IA; ability to move through and edit the forms on Profile has already been tested in previous research.
 
 ### Research materials
 
@@ -88,23 +78,24 @@ Please schedule 10 participants for 5 fulfilled sessions using the below criteri
 ### Recruitment criteria
 
 Primary recruitment requirements:
+
 - All participants must:
-	-   be Veterans
-	-   have an identity-verified, LOA3 account on VA.gov
-	-   be able to participate from a laptop/desktop device
-	-   have Zoom downloaded prior to the session
-	-   know how to screen share
-	-   Note that our prototype isn't compatible with assistive technology
--   At least 2 people who identify as other than straight or heterosexual
--   At least 3 people who identify as other than cis-gender
--   At least 1 person younger than 30
--   At least 1 person older than 55
--   All particpants must have a laptop/desktop device and be willing to be complete their interview from that device
+  -   be Veterans
+  -   have an identity-verified, LOA3 account on VA.gov
+  -   be able to participate from a laptop/desktop device
+  -   have Zoom downloaded prior to the session
+  -   know how to screen share
+  -   Note that our prototype isn't compatible with assistive technology
+- At least 3 people who identify as other than straight or heterosexual
+- At least 3 people who identify as other than cis-gender
+- At least 1 person younger than 30
+- At least 1 person older than 55
+- All particpants must have a laptop/desktop device and be willing to be complete their interview from that device
 
 Questions to ask in the screener:
 
 -   Do you have an *identity-verified, LOA3 account on VA.gov*? Answer should be yes.
--   Do you identify as *other than straight or heterosexual*? Answer should be yes for at least 2 participants.
+-   Do you identify as *other than straight or heterosexual*? Answer should be yes for at least 3 participants.
 -   Do you identify as *other than cis-gender*? Answer should be yes for at least 3 participants.
 
 Nice to haves:
@@ -125,16 +116,16 @@ Nice to haves:
 Timeline
 --------
 
-- Desired Timeline: December 13-15, 2021 
+- Desired Timeline: December 13-15, 2021 
 
 - 1 hour sessions
 
 - Schedule at least 30 minute breaks in-between sessions.
 
 - Team Availability
-	- December 13 - 11am - 7pm EST 
-	- December 14 - 11am - 7pm EST 
-	- December 15 - 11am - 7pm EST
+  - December 13 - 11am - 7pm EST 
+  - December 14 - 11am - 7pm EST 
+  - December 15 - 11am - 7pm EST
 
 ### Pilot Session
 
@@ -152,6 +143,6 @@ Please list the people who will be serving in each role. Include the primary pho
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Christina Gednalske
 -   Participant(s) for pilot test: TBD
--   Note-takers: TBD
+-   Note-takers: Perigean
 -   Observers: Marci, Samara, TBD - (open question for Samara)
 -   List email addresses for those who should attend and observe the sessions: TBD
