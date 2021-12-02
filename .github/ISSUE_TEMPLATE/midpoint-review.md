@@ -12,8 +12,8 @@ assignees: shiragoodman
 ## Before meeting
 
 **VFS Product Manager**
-- [ ]  Create this issue and notify the Collaboration Cycle team of this ticket with scheduled date/time in the in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
-- [ ] Schedule meeting via Calendly (you are responsible for adding the VFS attendees). 
+- [ ]  Create this issue and schedule meeting via Calendly (you are responsible for adding the VFS attendees). 
+- [ ] Notify the Collaboration Cycle team of this ticket with scheduled date/time in the in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
 - [ ]  Add artifacts listed below to the ticket at least 2 days before scheduled meeting. 
 
 **Platform**
