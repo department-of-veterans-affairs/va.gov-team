@@ -13,6 +13,7 @@
 - The 1010cg doesn't own the form's components, rather it is a shared componenet used across other VA/gov forms.
 
 ### Question(s)
+- ### Key Question: can the C+L team internationalize the shared components in the Forms library used by the 1010cg form?
 
 - Which team owns the form library code?
 - Do all 50+ components in the Forms library need to be i18n or just a subset for 1010cg?
