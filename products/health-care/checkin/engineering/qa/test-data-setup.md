@@ -116,6 +116,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 151 | Thirtyeight,Patient | Patrick (OVAC) |
 | 347 | Thirtynine,Patient | Patrick (OVAC) |
 | 520 | Forty,Patient | Patrick (OVAC) | 
+| 41  | Fortyone,Patient | Zach |
 #
 
 <a name="endpoints-section"></a>
