@@ -1,12 +1,12 @@
-# Requests discovery - report [DRAFT]
+# Requests discovery - report
 
 ## Background
 
 * [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
 * [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/research-plan.md)
-* [Prototype tested](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V)
-* [Synthesis doc](https://docs.google.com/spreadsheets/d/1PnL77G17g22EvAAoOU6eOBwMgwmjHS4W66WaqB918Kk/edit#gid=0)
-* [Synthesis affinity map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1637004452079/1c449131972536f20e8f5344b5f08acc0c11352f?sender=ub08ff1d80ee7bd38d6c02354)
+* [Prototype](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V)
+* [Synthesis doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Participant%20notes%20-%20requests%20clarification.xlsx)
+* [Synthesis affinity map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Synthesis%20-%20requests%20clarification.pdf)
 
 ### OCTO-DE Objectives
 
@@ -43,6 +43,10 @@ We asked participants to run through tasks in a prototype of the scheduling flow
 * Clarified "request" language on the request calendar, best times to call, confirmation, and review pages
 * A separate "best times to call" page with no contact information fields or instructions
   * Contact information editable from the review page
+
+![RC-request](https://user-images.githubusercontent.com/2536801/144463414-7d069828-ae37-4fc6-857b-2ff133f71de7.png)
+
+*Scheduling options screen that indicates the transition to a request flow*
 
 ### Findings
 
@@ -139,6 +143,10 @@ We believe that, once an appointment is requested, Veterans expect to see them l
 ### How we tested this
 
 We added a CTA on the home page to view requests. This showed after participants had requested an appointment.
+
+![RC-home-plus-req](https://user-images.githubusercontent.com/2536801/144464076-1ae473be-d990-4105-b892-eb3dd2bd3770.png)
+
+*Home page with requests CTA*
 
 ### Findings
 
