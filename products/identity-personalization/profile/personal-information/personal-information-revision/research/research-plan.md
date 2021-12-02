@@ -92,7 +92,7 @@ Primary recruitment requirements:
 - At least 1 person older than 55
 - All particpants must have a laptop/desktop device and be willing to be complete their interview from that device
 
-*the PERIGEAN: In your reminder calls/emails, could you please mention that they need to join from their computer or laptop, not a phone or tablet?*
+*Note to PERIGEAN: In your reminder calls/emails, could you please mention that they need to join from their computer or laptop, not a phone or tablet?*
 
 Questions to ask in the screener:
 
@@ -126,9 +126,9 @@ Timeline
 - Schedule at least 30 minute breaks in-between sessions.
 
 - Team Availability
-  - December 13 - 9am - 5pm EST 
   - December 14 - 9am - 5pm EST 
-  - December 15 - 10am - 7pm EST
+  - December 15 - 9am - 5pm EST 
+  - December 16 - 11am - 5pm EST
 
 ### Pilot Session
 
