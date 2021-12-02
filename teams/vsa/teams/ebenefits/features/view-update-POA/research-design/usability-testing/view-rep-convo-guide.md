@@ -30,7 +30,7 @@
 
 ### Project-specific setup 
 
-- [ ] Verify staging users are available and states are correct  
+- [ ] Verify staging users are available and states are correct  OR prototype states are reset
 
   
 
@@ -78,7 +78,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 `NOTE: TASKS ARE TBD AFTER RESEARCH SCOPE IS FINALIZED` 
 
-## First Task: Wayfinding - 5 minutes 
+## First Task: Wayfinding - < 5 minutes 
 
 - Please share your screen with us. 
 
@@ -98,47 +98,53 @@ Before we look at the website, let’s start with a few warm-up questions.
 
     - Do they look under myVA? 
 
-  
 
-## Second Task: Find current representative’s contact information - 5 minutes 
+## Second Task: Contact current representative - 5-10 minutes 
 
-- Okay now we’re going to move to our prototype. `If using staging, add log in here. If prototype, add prototype link.` 
-
-- Continuing our earlier task, imagine some time has gone by and now you have already appointed a representative, but you need to find their phone number.  
-
+- Okay now we’re going to move to our prototype. 
+- `If using staging, add link and log in here. If prototype, add prototype link.` 
+- Continuing our earlier task, imagine some time has gone by and now you have already appointed a representative, but you need to contact your representative.  
 - You’ve come to this page, what do you do now? 
+- Follow up questions:
+    - Is there another way you would expect to be able to contact your representative?
+    - What contact information do you expect to be available?
+    - Where would you go if you needed more information?
 
-  
 
 ### Things to watch for: 
 
 - `start page tbd` 
-
-- Does the user correctly identify their current representative? 
+- Does the user correctly identify their current representative?
+- How would the user contact their representative?
+- Does the user expect an email address?
+- Does the user feel they have sufficent information to move forward?
+ 
 
   
 
-## Third Task: Change representative - 5 minutes 
+## Third Task: Change representative - <5 minutes 
 
 - Okay, great. Let’s move on to our next task.  
 
 - Some more time has gone by and now you want to change your representative. 
 
 - What do you do now? 
+- `If testing View functionality only` Follow up questions:
+    - We are not going to log into eBenefits right now, but what would you expect to see when you click that link?
+    - How would you know who you wanted to appoint?
+    - Where would you expect to find their contact information?
 
-  
 
 ### Things to watch for: 
 
 - Does the user find the link to [eBenefits OR Search Rep]? 
-
- 
+- Does the user expect to be able to search for a rep or that they would already know what the contact information would be for the new rep?
 
 `If testing View functionality only, end here. If testing combined functionality, add search and appoint tasks` 
 
   
 
-## Post-Task Interview - 5 minutes 
+## Post-Task Interview - <5 minutes 
 
 - TBD based on test scope 
 
