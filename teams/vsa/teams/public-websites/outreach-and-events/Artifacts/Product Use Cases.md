@@ -69,3 +69,6 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
   - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
+
+## Related Tickets:
+  - Linking to [QA Test Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33513) 
