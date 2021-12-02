@@ -12,11 +12,12 @@ assignees: shiragoodman
 ## Before meeting
 
 **VFS Product Manager**
-- [ ]  Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
+- [ ]  Create this issue and notify the Collaboration Cycle team of this ticket with scheduled date/time in the in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
+- [ ] Schedule meeting via Calendly (you are responsible for adding the VFS attendees). 
 - [ ]  Add artifacts listed below to the ticket at least 2 days before scheduled meeting. 
 
 **Platform**
-- [ ] Schedule meeting with Collaboration Cycle reviewers and VFS team attendees listed in the ticket. 
+- [ ] Add the Platform reviewers to scheduled meeting
 - [ ] Create feedback tickets and link to the Midpoint Review epic (if no feedback, please comment stating that). 
 
 ## After meeting
@@ -84,42 +85,24 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 - OCTO-DE Product lead: [Insert name here]
 - OCTO-DE Design lead: Ryan Thurlwell
 
-### Team Members
-<!-- Add anyone from your team who significantly contributed to the artifacts provided, otherwise, delete list -->
-- [Insert name here]
-- [Insert name here]
 
-### VFS Attendees
-<!-- Delete any of the below if they are not applicable for your meeting -->
-- Content and IA: 
-- Accessibility: 
-- QA specialists: 
-
-
-## Scheduling
+## Asynchronous review option
 Would you like this review to be asynchronous? 
 
 Please refer to the [Midpoint Review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) for the difference between a synchronous meeting and an asynchronous review.
 - [ ] Yes
 - [ ] No
 
+## Scheduling
+- You will need to use Calendly to schedule both synchronous and asynchronous reviews (asynchronous reviews will not have a Zoom link).
+- Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
+- Select a date and time and click “Confirm”
+- Add your name and email
+- Click "Add Guests" and enter the VFS meeting attendees email addresses. 
+- Click Schedule Event
 <!-- 
-Please select your preferred time slot from the Platform Collaboration Meetings Calendar at
-https://calendar.google.com/calendar/u/0/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0@group.calendar.google.com&ctz=America/New_York.
+Please note: You are responsible for adding the VFS attendees. If you have more than 10 VFS attendees, you can forward the invite after it is scheduled. Platform will add the Platform reviewers. You will receive an email and the meeting will be automatically added to your calendar
 -->
-
-**[Insert date here]** **[Insert time here]**
-
-<!-- 
-Please note:
-- Midpoint Reviews are scheduled on Monday, Tuesday, or Friday
-- Time slots are required for both synchronous meetings and asynchronous reviews.
-- All times are shown in ET. 
-- Available time slots are indicated with [REVIEW BLOCK]. 
-- When you reserve a time slot, the reserved meeting will show up alongside the [REVIEW BLOCK]. 
-- Please select a time slot at least 2 business days from request date.
--->
-
 
 
 ## Additional information
