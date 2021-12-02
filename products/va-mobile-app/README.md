@@ -36,8 +36,9 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Jayson Perkins - Engineer
 - Teesh Shahi - Engineer
 - Kris Pethtel - Engineer
-- Ken Harrison - QA Support
-- Tom Gammons, Engineer, QA
+- Ken Harrison - QA
+- Tom Gammons - QA
+- Therese Dickson - QA
 - Raf Arroyo, Engineer
 - John Marchi, Engineer
 - Ken Li, Engineer
