@@ -4,9 +4,7 @@ Research Plan for Profile Team, Personal Information, November 2021
 Background
 ----------
 
-The Personal Information section of the VA.gov Profile, previously part of the Personal and Contact Information section, was created to mitigate issues around Veterans showing up to health appointments and being addressed improperly, causing distress to both patients and staff who are working with inaccurate and outdated information.
-
-We recently expanded the personal information section to include preferred name, pronouns, gender identity, and sexual orientation. These additions work to ensure that the VA has updated information that accurately reflects how Veterans wish to be addressed.
+The addition of preferred name/pronouns/gender identity/sexual orientation fields within the Personal Information section of the VA.gov Profile aims to to mitigate issues around Veterans showing up to health appointments and being addressed improperly. These changes also allow veterans to more accurately describe themselves within the VA.
 
 [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/personal-information-revision)
 
@@ -109,7 +107,7 @@ Questions to ask in the screener:
 -   Do you identify as *other than straight or heterosexual*? Answer should be yes for at least 2 participants.
 -   Do you identify as *other than cis-gender*? Answer should be yes for at least 3 participants.
 
-Secondary recruitment requirements:
+Nice to haves:
 
 -   At least 3 women
 -   At least half of the participants identify as a person of color
