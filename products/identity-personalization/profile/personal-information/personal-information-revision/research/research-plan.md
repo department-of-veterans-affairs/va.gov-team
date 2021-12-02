@@ -92,11 +92,14 @@ Primary recruitment requirements:
 - At least 1 person older than 55
 - All particpants must have a laptop/desktop device and be willing to be complete their interview from that device
 
+*the PERIGEAN: In your reminder calls/emails, could you please mention that they need to join from their computer or laptop, not a phone or tablet?*
+
 Questions to ask in the screener:
 
 -   Do you have an *identity-verified, LOA3 account on VA.gov*? Answer should be yes.
 -   Do you identify as *other than straight or heterosexual*? Answer should be yes for at least 3 participants.
 -   Do you identify as *other than cis-gender*? Answer should be yes for at least 3 participants.
+-   What device will you use to join the research session? Must be a computer or laptop, NOT iPad/tablet or phone.
 
 Nice to haves:
 
@@ -116,22 +119,22 @@ Nice to haves:
 Timeline
 --------
 
-- Desired Timeline: December 13-15, 2021 
+- Desired Timeline: December 14-16, 2021 
 
 - 1 hour sessions
 
 - Schedule at least 30 minute breaks in-between sessions.
 
 - Team Availability
-  - December 13 - 11am - 7pm EST 
-  - December 14 - 11am - 7pm EST 
-  - December 15 - 11am - 7pm EST
+  - December 13 - 9am - 5pm EST 
+  - December 14 - 9am - 5pm EST 
+  - December 15 - 10am - 7pm EST
 
 ### Pilot Session
 
 - Team Availability: TBD
 - Pilot participant name and email: TBD
-- Date and time of pilot session: TBD
+- Date and time of pilot session: December 9 or 10/TBD
 
 Team Roles
 ----------
@@ -149,4 +152,3 @@ Please list the people who will be serving in each role. Include the primary pho
 	- Marci McGuire - marci.mcguire@gcio.com
 	- Liz Lantz - liz.lantz@adhocteam.us
 	- Taylor Mitchell - tmitchell@governmentcio.com
--   List email addresses for those who should attend and observe the sessions: TBD
