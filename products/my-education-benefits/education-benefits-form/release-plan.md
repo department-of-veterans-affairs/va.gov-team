@@ -5,7 +5,7 @@
 - Desired date range or test duration: 1/24/2022 - 2/18/2022
 - Desired number of users: 5
 - How you'll recruit the right production test users: The selection of UAT users will be done in close collaboration with the VA Education team along with the My Education Benefits Product Owners assisting with testing.
-- How you'll conduct the testing: For UAT, we'll be standing up a production like instance of the Digital Gi Bill (DGIB) environment. This environment is the one responsible for providing veteran data (personal info, demographics, service history) and also for processing Chapter 33 education claims. We will create user accounts on this production like environment and our testers will conduct their testing against these accounts. The testers will execute prepared test scripts to try the different possible scenarios for veterans submitting a claim.
+- How you'll conduct the testing: For UAT, we'll be standing up a production like instance of the Digital Gi Bill (DGIB) environment. This environment is the one responsible for providing veteran data (personal info, demographics, service history) and also for processing Chapter 33 education claims. We will create user accounts on the DGIB UAT environment and our testers will conduct their testing against these accounts. The testers will execute prepared test scripts to try the different possible scenarios for veterans submitting a claim.
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: The UAT testing will be done only on staging.va.gov with our MeB vets-api endpoints pointing to the production like DGIB UAT instance. We will use feature flags to limit the use of MeB on staging only by designated UAT testing/development accounts. The app will not be in production as its vagovprod flag will be set to false on the registry. 
 
 ### Results:
@@ -27,10 +27,10 @@ This capability is either too granular or too blunt for the MeB application. For
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date range: N/A
+- How will you make the product available in production while limiting the number of users who can find/access it: N/A
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: N/A
+- Links to dashboard(s) showing "success criteria" metrics: N/A
 
 
 ## Go Live!
