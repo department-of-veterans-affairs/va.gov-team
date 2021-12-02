@@ -82,7 +82,7 @@ Research will be conducted through moderated, remote usability sessions.
 Sessions will be conducted remotely through Zoom.  
 
 ### Research materials 
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/usability-testing/view-rep-convo-guide.md) 
 - [Link to prototype](https://xd.adobe.com/view/e27b7e71-d920-4bcd-9e81-dc62a9665d5e-b728/) 
 
 ## Recruitment	 
