@@ -15,7 +15,7 @@
 - Types of errors logged: TBD
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? TBD
 - If yes, what: TBD
-- 
+
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
 The plan is ask for an exception and not go through a staged rollout and go for a complete release in late March.
