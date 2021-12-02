@@ -39,7 +39,7 @@ When the Search and Appoint components are added, they will also support:
 
 ### Veteran Journey 
 
-Veterans are likely to be impacted through the “getting out”, “starting up”, “taking care of myself”, and “aging” parts of their journey. 
+Veterans are likely to be impacted through the “getting out”, “starting up”, “taking care of myself”, and “aging” parts of their journey. This tool will matter most when Veterans need help applying for VA benefits, or when they need to appeal VA decisions.
 
   
 
