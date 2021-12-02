@@ -6,7 +6,7 @@
 
 When a Veteran, Service Member, or one of their dependents needs help filing a claim, they can choose to appoint a Veteran Service Organization (VSO), attorney, or claims agent to act on their behalf. There are three basic functions a user needs to be able to complete: searching for an accredited representative, appointing a representative through filing a VA Form 21-22 (to appoint an organization) or VA Form 21-22a (to appoint an individual attorney or claims agent), and viewing their current representative.  
 
-Currently, searching is done through the [Office of General Counsel](https://www.va.gov/ogc/apps/accreditation/index.asp). Veterans can then submit their VA Form 21-22 through eBenefits or through a VSO, or their VA Form 21-22a through their selected Attorney or Claims Agent. Once the form has been signed by both parties and accepted by VA, veterans can view their representation in eBenefits.  
+Currently, searching is done through the [Office of General Counsel](https://www.va.gov/ogc/apps/accreditation/index.asp). Veterans can then submit their VA Form 21-22 through eBenefits or through a VSO, or their VA Form 21-22a through their selected Attorney or Claims Agent. Once the form has been signed by both parties and accepted by VA, the appointed representative has (limited) access to the Veteran's benefits and appeals records, and the Veteran can view their representation in eBenefits.  
 
 The purpose of this project is to streamline access to accredited representative information and migrate features from eBenefits to va.gov. The first piece of the functionality ready to move is the “View Accredited Representative” tool, which will allow a user authenticated on va.gov to view their current accredited representative through a standard design view tool. 
 
@@ -97,7 +97,7 @@ If we test the combined functionality, we request 12 participants for 9 fulfille
 
 **Primary criteria (must-haves)** 
 Participants must: 
-- Be veterans 
+- Be Veterans 
 - Have a service-connected disability 
 
 **Secondary criteria (nice-to-haves)** 
