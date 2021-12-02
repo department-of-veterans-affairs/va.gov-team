@@ -1,9 +1,4 @@
----
-name: VHA facility change
-about: changing facility information in the CMS for VHA facilities
-title: 'Facility change: <insert_name>'
-labels: Facility
-assignees: ''
+Moved to [Issue Template](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/.github/ISSUE_TEMPLATE/facility-data-change-request.md)
 
 ---
 
