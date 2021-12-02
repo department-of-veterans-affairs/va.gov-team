@@ -50,7 +50,7 @@ Before we start, a few things I want to mention:
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 
-Receiving the Prototype Link and Sharing Screen - 3-5 minutes
+Receiving the Prototype Link and Sharing Screen - 1-3 minutes
 -------------------------------------------------------------
 
 Ok, so we'll move on to the prototype. I'm going to send you a link in the chat and then have you share your screen.
