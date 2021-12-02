@@ -23,6 +23,7 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Jen Ecker - UX Design Leadership
 - Meli Manak - UX Design
 - Melissa Lefevre - UX Design
+- Lauren Russell - UX Design
 - Esther Kitavi - UX Design
 - Alex Taylor - Principal UX Designer
 
@@ -33,7 +34,8 @@ On VA.gov today, nearly 40% of all traffic comes from users on their mobile devi
 - Chika Adibemma - Engineer
 - Narin Ratana - Engineer
 - Jayson Perkins - Engineer
-- Teesh Shahi, Engineer
+- Teesh Shahi - Engineer
+- Kris Pethtel - Engineer
 - Ken Harrison - QA Support
 - Tom Gammons, Engineer, QA
 - Raf Arroyo, Engineer
