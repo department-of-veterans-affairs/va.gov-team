@@ -8,13 +8,12 @@ When a Veteran, Service Member, or one of their dependents needs help filing a c
 
 Currently, searching is done through the [Office of General Counsel](https://www.va.gov/ogc/apps/accreditation/index.asp). Veterans can then submit their VA Form 21-22 through eBenefits or through a VSO, or their VA Form 21-22a through their selected Attorney or Claims Agent. Once the form has been signed by both parties and accepted by VA, the appointed representative has (limited) access to the Veteran's benefits and appeals records, and the Veteran can view their representation in eBenefits.  
 
-The purpose of this project is to streamline access to accredited representative information and migrate features from eBenefits to va.gov. The first piece of the functionality ready to move is the “View Accredited Representative” tool, which will allow a user authenticated on va.gov to view their current accredited representative through a standard design view tool. 
+The View Representative "tool" is primarily informational. The Veteran can see who the VA has as their current representative, along with location and contact info for that representative. The purpose of this project is to streamline access to accredited representative information and migrate features from eBenefits to va.gov. The first piece of the functionality ready to move is the “View Accredited Representative” tool, which will allow a user authenticated on va.gov to view their current accredited representative through a standard design view tool. 
 
 While this research plan is written for the View Accredited Representative functionality, we propose testing these features together when the Search and Appoint functions are ready for testing. 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md). 
 
-  
 
 ### OCTO Objectives  
 
