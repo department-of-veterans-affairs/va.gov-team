@@ -69,7 +69,7 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 
 # VistA Configuration Data
 
-### Available Clinics
+### Available Clinics (station 500)
 
 | `clinicIen` | `clinicName` | Usual Availability (ET) | 
 | --- | ---------------- | ------ |
@@ -81,6 +81,14 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 | 429 | Pulmonary | M-F 12PM - 8PM |
 | 430 | Sleep Lab | M-F 4PM - 11PM |
 | 431 | Nurse Triage | M-F 8AM - 345PM |
+
+### Available Clinics (station 442)
+
+| `clinicIen` | `clinicName` | Usual Availability (ET) | 
+| --- | ---------------- | ------ |
+| 5085 | OCTO-Cardiology | M-Su 7AM - 4PM |
+| 5086 | OCTO-Sleep Lab | M-Su 4PM - 10PM |
+
 
 
 ### Assigned DFNs
