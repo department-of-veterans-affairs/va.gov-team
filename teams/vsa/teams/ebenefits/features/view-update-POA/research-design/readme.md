@@ -36,6 +36,18 @@
 
 ### Mockups Changelog
 
+**December 1, 2021**
+- View Rep only
+- Remove primary button from card
+- Added rep type to card (VSO, attorney, etc.)
+- Set H3's to H2's
+- Revised copy for all H2's for consistency
+- Revised paragraph copy for consistency
+- Added "How can I change..." section
+- Removed "What does it cost..." section
+- Added lead-in paragrach to more info section
+- Took "Need help?" out of jumplinks
+
 **November 25, 2020**
 - Initial (new) View Rep mockup
 - Aligns with new "tool page" layout
