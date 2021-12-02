@@ -37,7 +37,7 @@ Alright, let's get started!
 
       1. Do you know what priority group you're in?
 
-**1. Have you received a letter in the mail from VAcontaining health care or prescription charges after October 1st, 2021?**
+**1. Have you received a letter in the mail from VA containing health care or prescription charges after October 1st, 2021?**
 
 **1. Can you confirm for me that you have aDS Logon, MyHealtheVet, or ID.me account?**
 
