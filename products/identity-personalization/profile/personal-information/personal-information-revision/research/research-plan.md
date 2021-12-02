@@ -121,14 +121,14 @@ Timeline
 
 - Desired Timeline: December 14-16, 2021 
 
-- 1 hour sessions
+- 30 minute sessions
 
 - Schedule at least 30 minute breaks in-between sessions.
 
 - Team Availability
   - December 14 - 9am - 5pm EST 
   - December 15 - 9am - 5pm EST 
-  - December 16 - 11am - 5pm EST
+  - December 16 - 8am - 1pm, 3pm - 7pm EST
 
 ### Pilot Session
 
