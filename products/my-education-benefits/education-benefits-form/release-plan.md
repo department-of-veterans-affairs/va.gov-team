@@ -6,7 +6,7 @@
 - Desired number of users: 5
 - How you'll recruit the right production test users: The selection of UAT users will be done in close collaboration with the VA Education team along with the My Education Benefits Product Owners assisting with testing.
 - How you'll conduct the testing: For UAT, we'll be standing up a production like instance of the Digital Gi Bill (DGIB) environment. This environment is the one responsible for providing veteran data (personal info, demographics, service history) and also for processing Chapter 33 education claims. We will create user accounts on this production like environment and our testers will conduct their testing against these accounts. The testers will execute prepared test scripts to try the different possible scenarios for veterans submitting a claim.
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: The UAT testing will be done only on staging.va.gov with our MeB vets-api endpoints pointing to the production like DGIB UAT instance. We will use feature flags to limit the use of MeB on staging only by UAT testers and developers. The app will not be in production as its vagovprod flag will be set to false on the registry. 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: The UAT testing will be done only on staging.va.gov with our MeB vets-api endpoints pointing to the production like DGIB UAT instance. We will use feature flags to limit the use of MeB on staging only by designated UAT testing/development accounts. The app will not be in production as its vagovprod flag will be set to false on the registry. 
 
 ### Results:
 - Number of users: TBD
