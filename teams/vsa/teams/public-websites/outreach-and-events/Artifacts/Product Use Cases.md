@@ -23,44 +23,49 @@ Demo environment - Still working FE build and CMS collaboration (Update when ava
 ## Use Case A
 
 * **Description - broken link**
-  -   
+  -   User clicks on filtering drop down and is unable to click on selection
+  -   User clicks on CTA button on event listings and is no rerouted to registration process
 
 * **Link to designs**
-  - 
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - 
+  - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
 
 ## Use Case B
 
-* **Description - no search results**
-  -  
+* **Description - Filter Option not working**
+  -  User clicks on drop down filter option but is unable to click on selections
+  -  User click on selection but is not applied to filter
+  -  User clicks on selection but is taken to different selection (not intended selection)
 
 * **Link to designs**
-  - 
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - 
+  - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
 
 
 ## Use Case C
 
-* **Description - Dismissible Banners**
-  -    
+* **Description - Recurring events on event listing not expanding**
+  -   User clicks on recurring event, and use the expander to "view more" doesn't expand
+  -   User has "veiw more" expanded and attempts to expand to "all" but is unable to expand
+  -   User is able to click on selected links in event listing from recurring events expander 
 
 * **Link to designs**
-  - 
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design) 
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - 
+  - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
 
 ## Use Case D
 
-* **Description - New VA Logo Redirect to VA.gov Homepage**
-  -   
+* **Description - Outreach & Events Breadcrumb not working**
+  -   User clicks on header breadcrumb to navigate back to Outreach & Events main page and is not routed 
 
 * **Link to designs**
-  - 
+  - [Design Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/design)
 
 * **Instructions to access in demo environment (for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
-  - 
+  - Note: credentials should be stored in sensitive repos only) http://staging.va.gov [no login required]
