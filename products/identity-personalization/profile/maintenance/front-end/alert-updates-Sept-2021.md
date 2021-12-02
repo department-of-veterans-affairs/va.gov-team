@@ -110,7 +110,8 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > We disconnected this app from your VA.gov profile: [app name]. To delete information stored in the app, contact the app's support center.
+> We disconnected [app name] from your VA.gov profile. If you have questions about data the app has already collected, review the app's privacy policy or contact customer support.  
+> [Review the [app name] privacy policy] (link to privacy policy) 
 
 ### 6. Failure to disconnect an app ([#31407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31407))
 
@@ -205,7 +206,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
   >
   > [body] After you disconnect this app, the app won’t have access to new information from your VA.gov profile. This may affect how useful the app is to you.
   >
-  > **Note:** Some apps might continue to store information you've already shared. If you want to delete any stored information from the app, contact the app's support center.
+  > Some apps might store information you’ve already shared after you disconnect. If you want your stored information deleted from the app, contact the app’s customer support. 
   >
   > [button] Disconnect
   >
