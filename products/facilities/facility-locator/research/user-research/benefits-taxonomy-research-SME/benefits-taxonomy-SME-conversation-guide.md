@@ -22,11 +22,11 @@ This information can be captured in short-form during the interviews, expanded u
 
 ## Intro [5 minutes]
 
-Thank you for joining us today! My name is Nick, I'm a designer working on the VA.gov site, and I also have some colleagues on the line observing and taking notes. Today you are helping us simplify how Veterans find services on the VA.gov site. 
+Hello, my name is Dave Sukharan and I'm a researcher with the VSA. Right now, we're working on evaluating the way that Benefits services are categorized and named. We're hoping to make it easier for veterans and caregivers to find what they need and better understand the universe of services offered to them.  
 
-- **Do you have any questions before we get started?**
+I have a list of questions to walk-through with you today while recording the session. But, you should feel free to treat this more as a conversation and take things "off the rails" if you think something is relevant.
 
-Before we get to the tasks you are helping us with today, a few things I want to mention:
+We're especially interested in understanding the context around some of these service categories before we begin interviews with users themselves.
 
 - **This entire session is scheduled for 1 hour, but it may not take that long**.
 - **There is no need to turn on your camera - if you perfer, audio only is fine**
@@ -44,27 +44,41 @@ Before we get to the tasks you are helping us with today, a few things I want to
 * **I have started recording.** 
   - I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
 
-## Warm-up [5 minutes]
--
--
--
+# Interview
 
+## Warm-Up
 
-## Main Interview [~ 40 minutes]
+1. Tell me a little bit about your role.
+  1. In particular, how do you interact with veterans or caregivers looking for services?
 
+## Main Interview
 
+### Category Labels
 
-## Closing [5 minutes]
+1. What are the common services that veterans and caregivers ask you about?
+2. In your opinion, which service categories are the largest or most confounding?
+3. Are all of these service categories equal "sizes"? In particular, do any of the categories contain significantly more or less sub-services than others?
+4. What are some of the lesser known benefits available to users?
+5. Compare and contrast the benefits listed to those available in reality.
 
-### Post-research follow-up questions
+### Context Around Services
 
-- Is there anything else that you would like to point out, having gone through these exercises?
-- Could we describe any of these services or categories more clearly?
+* Do users primarily access their services via in-person, phone, or web interactions?
+* Do the services that users need assistance with differ by any patterns: age, time out of service, gender, caregiver vs veteran status, etc.
+  * In particular, do veterans experience with services have demographic patterns?
+* Are there any changes or trends on the horizon (or recently) in the benefits that are being offered or how they are being offered?
 
-### Thank you and closing
+### Pain Points for Users
 
-Thank you! Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+1. What are common pain points for users in the benefits process?
+2. When users are most upset about benefits interactions, what is the cause?  
 
-Lastly, if you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session, our team can send you an email with a little description that you can pass along.
+# Closing
 
-Thank you again, and enjoy the rest of your day.
+Thank you so much for your time and for your help today! We're excited to take this information into developing research with veterans themselves.  
+
+* Did you have any resources or other contacts that you believe we should talk with?
+
+STOP Recording
+
+* Was there anything you wanted to tell us about Benefits and services that we didn't get to cover today?
