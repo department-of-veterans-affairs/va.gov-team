@@ -39,7 +39,7 @@ Alright, let's get started!
 
 **1. Have you received a letter in the mail from VA containing health care or prescription charges after October 1st, 2021?**
 
-**1. Can you confirm for me that you have aDS Logon, MyHealtheVet, or ID.me account?**
+**1. Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account?**
 
 **1. Do you know your username and password?**
 
