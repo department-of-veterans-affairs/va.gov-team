@@ -51,13 +51,38 @@ The process of working through the checklist helps uncover any remaining concern
      - Call center documentation
         - What call center documentation should be updated? Does the release warrant a demo to the call centers?
         - Advance notification should be given to VEO or HRC for larger feature releases
-        - See Request Contact Center Review for directions on how to interact with VEO on product guide updates (see #32766 as an example)                                                                              |
+        - See Request Contact Center Review for directions on how to interact with VEO on product guide updates (see #32766 as an example)  
+  - QA/UAT review has been completed                                                                            |
+
+*Design/Development*   
+
+- All development work has been completed and meets acceptance criteria
+- All defects assigned to the release has been fixed
+- All development & design documentation has been updated
+- All unit test code has been updated
+- All reviews have been completed
+
+*Quality Assurance* 
+
+- QA plan and test cases have been updated
+- Testing completed and features/issues that are part of the release have passed validation
+   - What has been developed, meets acceptance criteria
+   - Issues that have been identified are addressed with dev
+   - New issues that are found outside of acceptance criteria a ‘new’ ticket is created
+   - Full Regression
+      - In depth testing to ensure the existing functionalities haven’t been adversely affected. 
+- Document findings in TestRail
+
+**Release Sign Off** 
+
+Who:  Product Management, Design, Dev, QA, and VA POs
+
+Purpose: Formal way of declaring the completion of development & testing and now the app is ready for release.  
+
+Due: Release sign off is due 1 week prior to the release 
+
+Release Sign off Ticket:  The release sign off ticket is generated 13 days prior to the release.  The following items are expected to be completed for the release sign-off milestone:
 
 
-
-
-
-
-
-
+ 
 
