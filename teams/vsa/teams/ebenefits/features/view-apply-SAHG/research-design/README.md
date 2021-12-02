@@ -1,5 +1,6 @@
 # Research and Design
 **VSA eBenefits Team | December 2021**
+
 `Candy Clark and James Adams, designers`
 
 ### Design
