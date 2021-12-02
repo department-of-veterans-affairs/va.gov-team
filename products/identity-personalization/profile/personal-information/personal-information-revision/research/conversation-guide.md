@@ -50,7 +50,7 @@ Before we start, a few things I want to mention:
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 
-Receiving the Prototype Link and Sharing Screen - 1-3 minutes
+Receiving the Prototype Link and Sharing Screen - 1-5 minutes
 -------------------------------------------------------------
 
 Ok, so we'll move on to the prototype. I'm going to send you a link in the chat and then have you share your screen.
@@ -105,13 +105,9 @@ Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 **Things to watch for:**
 
 - Does the participant understand the meaning of the fields provided?
-
 - Does the participant have any questions about the information presented?
-
 - Does the participant mention anything about the order of the fields?
-
 - Does the participant notice that some fields cannot be edited?
-
 - Does the participant notice the FAQs pertaining to the information?
 
 
@@ -137,7 +133,7 @@ Task 2: Review Profile Sections - 10 minutes
 
 ### Gender Identity
 
-- Let's move onto the next section - pronouns. Go ahead and click into that.
+- Let's move onto the next section - gender identity. Go ahead and click into that.
 - Talk to me about these options - what is your understanding of them?
 - Is there anything that's missing?
 - Is there anything that's confusing?
@@ -172,7 +168,7 @@ Post-Task Interview - 5 minutes
 - Do you have any questions for me?
 
 
-## Thank-You and Closing - 5 minutes
+## Thank-You and Closing - 3 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
