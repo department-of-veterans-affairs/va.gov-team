@@ -30,7 +30,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Review the [Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) documentation
 - [ ] Review the [Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1d219oL1zCvCvnv1Bx-dI-GMzwgbarLv9_bzMSa3ULjA/edit#gid=1341642809)
 - [ ] Sign up for the [Platform Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/platform-newsletter/README.md)
-- [ ] Watch VA.gov overview video
+- [ ] Watch [VA.gov overview video](https://youtu.be/0cc-VdfI4Q8)
 - [ ] [Process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
 - [ ] Designers: Review [Design & Research Onboarding Documentation](https://design.va.gov/documentation/designers)
 - [ ] Engineers: [Set Up Local Dev Environment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/getting-started.md)
