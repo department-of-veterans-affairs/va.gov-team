@@ -4,12 +4,13 @@
 
 ### Design
 
-| Screens | Links | Last Rev | |
-| :--- | :--- | :--- | :--- | :--- |
-| SAHG Initial Wireframes | [Sketch](https://www.sketch.com/s/f0ac7ad9-03cf-49c4-b2a8-9fb85a88b31a/a/qeWPW75) | Get text from mock | December 2, 2021 | 
+| Screens | Links | Last Rev | 
+| :--- | :--- | :--- |
+| SAHG Initial Wireframes | [Sketch](https://www.sketch.com/s/f0ac7ad9-03cf-49c4-b2a8-9fb85a88b31a/a/qeWPW75) | December 2, 2021 | 
 
 #### Information architecture & naming
 `TBD`
+
 ---
 
 ### Discovery
