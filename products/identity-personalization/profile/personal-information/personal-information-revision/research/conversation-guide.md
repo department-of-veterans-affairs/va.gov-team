@@ -83,7 +83,7 @@ Were you able to open the link and view it in the browser? Great. Now would you 
 Great! Now that we are all set up, I will have you try a few things in the prototype.
 
 
-## TASKS
+## 
 
 ------
 
@@ -97,9 +97,10 @@ Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 
 - Now, if you could take a look at this page, but please don't click anything quite yet. 
 - Could you tell me your thoughts on what you see here? What can you do on this page?
+- Which of these sections, if any, are important to you?
+  - (If needed) Which one is the highest priority?
 - (if not mentioned) What questions do you have about what you see here?
   - (If questions are relevant to anything in the FAQ) Do you see anything here that might help you answer those questions? 
-- (If needed) I'm interested to know your thoughts on the order of these sections. 
 
 **Things to watch for:**
 
@@ -114,66 +115,64 @@ Task 1: General Page Impression (Layout/Terminology) - 3 minutes
 - Does the participant notice the FAQs pertaining to the information?
 
 
-Task 2: Initial Navigation / Edit State - 2 minutes
+Task 2: Review Profile Sections - 10 minutes
 ---------------------------------------------------
 
 *Participant is on the Personal Information section page - fields say "edit your personal information to add your [info]"*
 
-- Now let's consider how you would update your own information on this page. Please don't click anything yet, but when looking at this information, what would you choose to edit first?
-- Great, thank you. Well, for the purposes for this testing, we will go in a specific order, but that is very helpful information for us know. 
-- Could you show me how you would first update your Preferred name?
-- (When Edit State appears, just before clicking save) How does this information that you see here meet your expectations? How does it not meet your expectations?
-- Now, go ahead and complete this update.
-- **Once participant notices what they entered isn't reflected after saving:** I'm glad you noticed that - since this is a prototype, it can't save your actual responses, so each section is going to display a default once you save it, regardless of what you enter. Do you have any questions about that?
+### Preferred Name
+
+- Next I want to get your thoughts on the different sections of this page and how you understand the terminology we're using. Go ahead and click edit on the Preferred name section.
+- Talk to me about what this means to you.
+- What would you enter into this field?
+- Ok, thanks. Go ahead and click cancel.
+
+### Pronouns
+
+- Let's move onto the next section - pronouns. Go ahead and click into that.
+- Talk to me about these options - what is your understanding of them?
+- Is there anything that's missing?
+- Is there anything that's confusing?
+- Ok, thanks. Go ahead and click cancel.
+
+### Gender Identity
+
+- Let's move onto the next section - pronouns. Go ahead and click into that.
+- Talk to me about these options - what is your understanding of them?
+- Is there anything that's missing?
+- Is there anything that's confusing?
+- Ok, thanks. Go ahead and click cancel.
+
+### Sexual Orientation
+
+- Ok, last section - sexual orientation. Go ahead and click that.
+- Talk to me about these options - what is your understanding of them?
+- Is there anything that's missing?
+- Is there anything that's confusing?
+- Ok, thanks. That's everything I wanted you to take a look at.
 
 **Things to watch for:**
 
-- Does the participant encounter any usability hurdles completing this task?
-- Does the participant have any questions regarding the order of the fields?
-- Does the participant express any confusion with the name of the selected field?
-- Does the participant have any questions about why certain fields cannot be edited?
-
-
-Task 3: Remaining Edit States (repeat for remaining states) - 15 minutes 
--------------------------------------------------------------------------
-
-*Participant should be on the Personal Information section page*
-
-- Now we're going to continue to update your preferences. 
-- Next, could you show me what you would click on to update your [Pronouns/name of field]?
-- (When Edit State appears, just before clicking save) How does the information you see here meet your expectations? How does it not meet your expectations?
-- Are there any answers you'd want to use that you don't see listed here?
-- Now, go ahead and complete this update.
-- (If needed): This isn't reflecting your selection because all of the answers have been pre-selected. Since this is a prototype, it can't save your actual responses, so each section has a saved default.
-
-**Things to watch for:**
-
-- Does the participant encounter any usability hurdles completing these tasks?
-- Does the participant understand the selection terminology?
-- Does the participant note any options that are not listed?
-- Does the participant have any questions regarding the input field for an answer not listed?
+- What questions do participants have about the terminology?
+- Was anything confusing to them?
+- Did they list anything missing?
+- How did they think the VA would use this information?
 
 
 Post-Task Interview - 5 minutes
 -------------------------------
 
+- How do you think the VA would use this information about you?
+
 - (if needed) Did you notice the question under the "Personal Information" heading? 
-  - Did you think it was clickable? Please go ahead and click on the question. 
-  - How does this information help you understand what can be edited?
 - (if needed) Did you notice that some of the fields can't be edited? What are your thoughts on that?
 
-Great! Thanks for that feedback. And that concludes everything we wanted to get your feedback on today. 
-
-- Have you ever made these kinds of changes anywhere else on line?
-- How would the ability to save this information about yourself be useful to you, if at all?
 - (if not mentioned) What are your thoughts on the order of the information on this page?
 - How did this page line up with your expectations?
 - Do you have any questions for me?
 
 
 ## Thank-You and Closing - 5 minutes
-
----------------------------------
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
