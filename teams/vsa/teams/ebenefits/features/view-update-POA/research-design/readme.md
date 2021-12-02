@@ -47,6 +47,8 @@
 - Removed "What does it cost..." section
 - Added lead-in paragrach to more info section
 - Took "Need help?" out of jumplinks
+- Revised second paragraph in "no rep" box
+- **IF** we can dynamically change the last H3 section, there are slight copy changes to H2 and first paragraph.
 
 **November 25, 2020**
 - Initial (new) View Rep mockup
