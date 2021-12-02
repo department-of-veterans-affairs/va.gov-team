@@ -1,3 +1,17 @@
+## Introduction
+The My Education Benefits (MEB) application is an application intended to let veterans submit an education benefits claim for Chapter 33. The application has the following components.
+
+- A UI accessible from VA.gov
+- A Vets-api layer used to communicate with the Digital Gi Bill (DGIB) managed service.
+- DGIB Managed Service: A series of services hosted externally that drive the functionality of the MEB application, including
+  - Loading veteran personal information
+  - Loading demographics data
+  - Loading contact information
+  - Loading service history
+  - Receiving and education benefits submission and automatically process the claim.
+  - Generating letters approval or denial of clam. 
+
+The release plan will address how to test and release this application hosted on VA.gov with its backend hosted on the DGIB Managed Service.
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
