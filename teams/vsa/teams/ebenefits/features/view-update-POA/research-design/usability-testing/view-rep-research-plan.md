@@ -45,7 +45,7 @@ Veterans are likely to be impacted through the “getting out”, “starting up
 
 ## Research Goals	 
 
-If we test the view component independent of the search and appoint components, the primary research goal will be to ensure users can view their appointed representative.  
+If we test the view component independent of the search and appoint components, the primary research goal will be to ensure users can view their appointed representative. We'll want to know if users are satisfied with the info presented--is it sufficient? Do they understand any next step in contacting or changing their representative.
 
 If these features are tested together, we also seek to understand: 
 - How users search for accredited representatives 
@@ -55,9 +55,10 @@ If these features are tested together, we also seek to understand:
 
 This research will allow us to understand where there are problems in the search and appoint forms and allows us the opportunity to refine steps and content. 
 
-
 ### Research questions 
-- Where do users expect to find their current representative? 
+- Where do users expect to find their current representative?
+- Can users quickly and easily identify their representative?
+- How would users reach out to their representative? Is there sufficient information to do that? 
 - How do users expect to change their current representative? 
 - Do users understand the search options? 
 - Can users refine their search if they don’t find the representative they are looking for? 
@@ -67,7 +68,8 @@ This research will allow us to understand where there are problems in the search
 
 ### Hypothesis 
 - Users will initially look for information about accredited representatives in the white quadrants 
-- Users will expect to find their current representative in their profile. 
+- Users will expect to find their current representative in their profile.
+- Users  will find the presentation satifactory, but may want additional contact info.
 - Users will be able to find a link to eBenefits to update their representative but may not understand the process to do so. (For View functionality only) 
 
 After search and appoint functionality is added:  
@@ -96,8 +98,7 @@ If we test the combined functionality, we request 12 participants for 9 fulfille
 
 **Primary criteria (must-haves)** 
 Participants must: 
-- Be Veterans 
-- Have a service-connected disability 
+- Be Veterans or transitioning service members   
 
 **Secondary criteria (nice-to-haves)** 
 To maximize variation in our sampling, we would like to have: 
