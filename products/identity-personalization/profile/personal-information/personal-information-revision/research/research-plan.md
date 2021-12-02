@@ -144,5 +144,9 @@ Please list the people who will be serving in each role. Include the primary pho
 -   Project point of contact: Christina Gednalske
 -   Participant(s) for pilot test: TBD
 -   Note-takers: Perigean
--   Observers: Marci, Samara
+-   Observers:
+	- Samara Strauss - samara.strauss@va.gov
+	- Marci McGuire - marci.mcguire@gcio.com
+	- Liz Lantz - liz.lantz@adhocteam.us
+	- Taylor Mitchell - tmitchell@governmentcio.com
 -   List email addresses for those who should attend and observe the sessions: TBD
