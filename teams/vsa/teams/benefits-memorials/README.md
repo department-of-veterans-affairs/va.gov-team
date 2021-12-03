@@ -172,7 +172,21 @@ Assess and update workload for remainder of sprint:
 
 - 1-hour
 
+### Issue - Story Point Estimates 
 
+In an effort to standardize Claims & Appeals team estimates the below can act as a reference guide during team planning sessions and Github Issue tracking.  The below chart will be updated as we review the sprint pipeline reflected burndown and velocity estimations of previous sprint performance.   
+
+| Scale  | Days/Weeks (Estimated)  | Story/Feature/Capability/Epic  | Description                                                            |
+|--------|-------------------------|--------------------------------|------------------------------------------------------------------------|
+| 1      | Partial Day             | Quick Fix / Very Small Story   | Trivial work, minor fixes                                              |
+| 2      | 1 Day                   | Small Story                    | Easy task, work is known, can be executed quickly                      |
+| 3      | 2-3 Days                | Story                          | Mostly known, doable                                                   |
+| 5      | ~1 Week                 | Mid-Sized Story                | Becoming complex                                                       |
+| 8      | 1.5 Weeks               | Large Story                    | complex task that will take a few days or longer                       |
+| 13     | 2 Weeks / 1 Sprint      | Very Large Story / Feature     | Very complex / not all facets known, may take a full sprint or longer  |
+| 21     | More than a sprint      | Feature / Capability (EPIC)    | Needs to be split                                                      |
+
+Reminder:  Story points are unitless scales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability forward. 
 ---
 
 ## Solution Narrative
