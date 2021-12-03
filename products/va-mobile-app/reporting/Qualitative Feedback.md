@@ -5,7 +5,9 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
-- 11/28/21: " Hello military friends, the @DeptVetAffairs has a mobile app now. You can do your claims on it as well. It seems extremely easy. Also your appts can be checked through here easy af." "I downloaded it fully expecting a dumpster fire of an app...but I'm pretty impressed with it so far. All my info, appts, everything is correct." "It’s seriously good stuff." [Twitter thread](https://twitter.com/poke_m0m/status/1465086436366069772)
+- 11/30/21: "Really I was thinking oh great another .gov app! But this one is different! Easy to use and works well! I'm impressed!!" (Apple store review)
+
+- 11/28/21: "Hello military friends, the @DeptVetAffairs has a mobile app now. You can do your claims on it as well. It seems extremely easy. Also your appts can be checked through here easy af." "I downloaded it fully expecting a dumpster fire of an app...but I'm pretty impressed with it so far. All my info, appts, everything is correct." "It’s seriously good stuff." [Twitter thread](https://twitter.com/poke_m0m/status/1465086436366069772)
 
 - 11/24/21: "I say thank you..Finally a simple way to handle a one stop shop application! Glad that it got done the right way.. Thank you.." (Apple store review)
 
