@@ -32,7 +32,7 @@ Risks | Tradeoff: Would be a trade off from O&E research topline summary but cou
 
 Value: Would allow for quick prospective from Veterans (contractors) but wouldn't be a random sampling of Veterans as they might have prior knowledge and understanding of the HRT problem space. 
 
-## Research Options 2 (Heuristic Research Study)
+## Research Options 3 (Heuristic Research Study)
 Scope: Posibility to conduct a heuristic research study internally with Cindy and Brian L. (Veteran) to provide prospective based on timeline and needs of timely research requirements.
 
 Risks | Tradeoff: Would be a trade off from O&E research topline summary but could be dones prior to leaving on PTO. 
