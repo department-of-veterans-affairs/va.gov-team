@@ -61,7 +61,11 @@ Alright, let's get started!
 
 ## Navigating to the tool - 2 minutes
 
-Go ahead and navigate to va.gov and sign in with your DS Logon, My HeatheVet, or ID.me account. 
+Go ahead and open a browser and navigate to VA.gov.
+
+_Once the participant is on VA.gov_
+
+Please sign in with your DS Logon, My HeatheVet, or ID.me account. 
 
 I'm going to paste a link in the Zoom chat. This link will be the way we access the tool today. Please open the link in a new tab in your browser.
 
