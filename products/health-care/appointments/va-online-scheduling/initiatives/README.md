@@ -15,6 +15,9 @@ This folder contains documentation for larger-scale projects. Below is a timelin
 - June 30, 2021 - Homepage Refresh staged rollout starts
 - June 9, 2021 - COVID-19 vaccine scheduling expanded rollout (available to all sites)
 
+**May**
+- May 5, 2021 - COVID-19 vaccine scheduling "go" for national rollout
+
 **April**
 - April 26, 2021 - Community Care provider selection MVP launch
 
