@@ -41,6 +41,6 @@ Value: Would allow for quick prospective from internal prospectives and provide 
 
 ## Options Not-Feasible 
 - Bringing in other Researchers.  Both available researchers are actively working research projects and both have programmed leave. 
-- Design Research Substitute- not feasible based on level and challenges of the research needed for this type of study. 
+- Design Research Substitute- not recommended based on level (would need spin up time for problem set baselining) and challenges of the research needed for this type of study. 
 
 
