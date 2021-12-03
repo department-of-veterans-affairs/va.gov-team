@@ -16,6 +16,14 @@
 
 </details>
 
+## December 3
+* Naming issue on Lovell landing page?
+- Training status
+  * Next steps
+- Help Desk
+  - What will be the expectation on timeline for VHA Digital Media to respond when things get escalated to them
+  - capacity for screen sharing sessions
+
 ## November 26
 - VAMC-health service pages (LGBTQ+ as example) reports looking for similar URL drift problems  (QA) review
 - Training status (Wrap up)
