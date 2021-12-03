@@ -1,7 +1,9 @@
+
 ### Mobile App Roadmap
 
-1. [Outcomes Roadmap (updated quarterly)](#long-term-roadmap)
-2. [Milestones Roadmap (updated monthly)](#short-term-roadmap---milestones-for-this-quarter)
+1. [Outcomes Roadmap (updated quarterly)](#outcomes-roadmap)
+
+2. [Milestones Roadmap (updated monthly)](#milestones-roadmap)
 
 # Outcomes Roadmap
 
@@ -105,59 +107,6 @@ VA services are not always accessible across the digital divide and to those wit
 <li>Documentation sites
 
 <li>Scale activities
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="5" >
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <strong>Q4 2021</strong>
-   </td>
-   <td>
-<ul>
-
-<li>Vaccine records
-
-<li>Rx Refill initial discovery
-
-<li>Appointment refinements
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>PN for Appts
-
-<li>PN for SM
-
-<li>SM refinements 
-
-<li>PN architecture
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>Follow along with VSP identity team
-
-<li>Add Login.gov credential*
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>IA research
-
-<li>Dark Mode
-
-<li>Demo Mode
 </li>
 </ul>
    </td>
@@ -338,6 +287,58 @@ VA services are not always accessible across the digital divide and to those wit
    <td>
    </td>
    <td>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="5" ><em>ARCHIVE - Q4 2021 (* indicates carrying over to 2022)</em>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+<ul>
+
+<li>Vaccine records
+
+<li>Rx Refill initial discovery
+
+<li>Appointment refinements
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>PN for Appts
+
+<li>PN for SM*
+
+<li>SM refinements 
+
+<li>PN architecture*
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>Follow along with VSP identity team
+
+<li>Add Login.gov credential
+</li>
+</ul>
+   </td>
+   <td>
+<ul>
+
+<li>IA research
+
+<li>Dark Mode 
+
+<li>Demo Mode 
+</li>
+</ul>
    </td>
   </tr>
 </table>
