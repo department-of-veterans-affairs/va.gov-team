@@ -32,8 +32,8 @@ Risks: Would be a trade off from O&E research topline summary but could be dones
 
 Value: Would allow for quick prospective from Veterans (contractors) but wouldn't be a random sampling of Veterans as they might have prior knowledge and understanding of the HRT problem space. 
 
-## Research Options 2 (Huristic Research Study)
-Scope: Posibility to conduct a huristic research study internally with Cindy and Brian L. (Veteran) to provide prospective based on timeline and needs of timely research requirements.
+## Research Options 2 (Heuristic Research Study)
+Scope: Posibility to conduct a heuristic research study internally with Cindy and Brian L. (Veteran) to provide prospective based on timeline and needs of timely research requirements.
 
 Risks: Would be a trade off from O&E research topline summary but could be dones prior to leaving on PTO. 
 
