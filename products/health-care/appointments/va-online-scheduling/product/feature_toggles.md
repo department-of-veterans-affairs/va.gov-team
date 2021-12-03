@@ -18,6 +18,8 @@
 | va_online_scheduling_vaos_service_requests | Toggle for new vaos service requests.
 | va_online_scheduling_vaos_service_va_appointments | Toggle for new vaos service va appointments.
 | va_online_scheduling_variant_testing | Toggle for VAOS variant testing. | [#24277](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/24277), [#24278](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/24278) | [#24319](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/24319) | Shared toggle for ongoing variant tests. Only one test should be conducted at a time. |
+| va_online_scheduling_cc_iterations | Toggle for VAOS community care flow iterations
+| va_online_scheduling_poc_health_apt | Toggle for health apartment proof of concept
 
 ## Removed
 
