@@ -61,13 +61,13 @@ Alright, let's get started!
 
 ## Navigating to the tool - 2 minutes
 
+Go ahead and navigate to va.gov and sign in with your DS Logon, My HeatheVet, or ID.me account. 
+
 I'm going to paste a link in the Zoom chat. This link will be the way we access the tool today. Please open the link in a new tab in your browser.
 
 https://va.gov/health-care/pay-copay-bill/your-current-balances/
 
 Under the alert that reads, "Sign in to view your VA copay balances", select the button "Sign in or create an account"
-
-   * Please sign in with your DS Logon, MyHealtheVet, or ID.me account.
 
 ### If the participant isn't enrolled in VA health care -- 1 minute
 
