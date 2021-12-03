@@ -8,12 +8,15 @@ Design Updates
 - Change profile screen to sentence case
 - Updated the vaccine details view to move series and reaction value below the header 
 - Updated copy for TTY text
+- Updated spinner text to match action sheet text (update from delete to remove)
 
 Bug Fixes
 
 - Fixed app crashing issue related to add appt to calendar feature
 - Fixed app crashing issue on the claims ‘upload or add photos’ feature 
 - Fixed pagination issue for past appointments (back-end) 
+- Fixed white on white text input when OS set to Dark or night mode
+- Fixed AccessibilityHint or VA vaccine record card on Health Care to read accurately
 
 
 ## Release: 11/23/21
