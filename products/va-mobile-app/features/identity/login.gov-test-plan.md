@@ -14,7 +14,7 @@ We will test this using the following scenarios:
 
 
 1. Users with an existing LOA3 login.gov account should be able to successfully log in to our app using the login.gov credential
-2. Users who register a new account for login.gov via the app should be:
+2. Users who do not already have a login.gov account, and register a new account for login.gov via the app should be:
     1. Directed to the verify stage (like id.me already does). 
     2. Able to successfully log in via login.gov on the app after being verified
 3. Users that created an LOA1/IAL1 login.gov account on the web and then try to log in on the app should be:
