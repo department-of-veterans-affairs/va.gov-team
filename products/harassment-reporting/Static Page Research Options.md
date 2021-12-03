@@ -26,7 +26,7 @@ Risks | Tradeoff: Would be a trade off from O&E research topline summary but cou
 Value: Would allow for review of research plan during "code freeze" times, and would be the most logical and optimal time to conduct research based on availability of required attendees such as clinicians/social workers, etc. 
 
 ## Research Options 2 (Hall-Way Research Study)
-Scope: Possible hall-way study could be conducted with program Veterans (Internal to contract team) during the week of 12/13-17 but is dependent on desired outcomes of the study and goals.  Would allow for review with 4-5 Veterans to gain prosective on HRT Static Landing Page. 
+Scope: Possible hall-way study could be conducted with program Veterans (Internal to contract team) during the week of 12/13-17 but is dependent on desired outcomes of the study and goals.  Would allow for review with 4-5 Veterans to gain prosective on HRT Static Landing Page. Note: Cindy could likely complete a research plan the week of 12/13-17 prior to heading OOO on leave and have available for presentations/convos in support.
 
 Risks | Tradeoff: Would be a trade off from O&E research topline summary but could be dones prior to leaving on PTO. 
 
