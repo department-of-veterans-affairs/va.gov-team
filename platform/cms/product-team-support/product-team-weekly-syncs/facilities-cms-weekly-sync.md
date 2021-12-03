@@ -22,6 +22,8 @@
 
 
 </details>
+## December 8
+- Vet Center analytic request fulfillment
 
 ## December 1
 
