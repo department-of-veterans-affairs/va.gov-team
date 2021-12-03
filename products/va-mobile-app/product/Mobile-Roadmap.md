@@ -34,7 +34,7 @@
   <tr>
    <td>
    </td>
-   <td>Fragmentation & Persistence: There are touchpoints across multiple services a Veteran needs to interact with to complete a task
+   <td>Fragmentation: There are touchpoints across multiple services a Veteran needs to interact with to complete a task
    </td>
    <td>Lack of transparency: It can be frustrating to not know if something is moving forward or not.
    </td>
@@ -52,9 +52,9 @@ VA services are not always accessible across the digital divide and to those wit
   <tr>
    <td>
    </td>
-   <td colspan="3" >OCTO Objective 2: Reduce the time it takes for Veterans to find, use, and receive VA services.
+   <td colspan="3" >Reduce the time it takes for Veterans to find, use, and receive VA services.
    </td>
-   <td>OCTO Objective 1: Increase the accessibility, reliability, and security of Veteran’s digital services. 
+   <td>Increase the accessibility, reliability, and security of Veteran’s digital services. 
    </td>
   </tr>
   <tr>
@@ -179,11 +179,9 @@ VA services are not always accessible across the digital divide and to those wit
 
 <li>Debt
 
-<li>Med mgmt/Rx Refill cont’d discovery
+<li>Med mgmt/Rx Refill discovery
 
 <li>Discovery- enhancements to docs/records
-
-<li>Profile: view (and manage?) dependents
 </li>
 </ul>
    </td>
@@ -235,6 +233,8 @@ VA services are not always accessible across the digital divide and to those wit
 <li>Veteran ID card
 
 <li>Travel reimbursement
+
+<li>Profile: view (and manage?) dependents
 </li>
 </ul>
    </td>
@@ -277,9 +277,9 @@ VA services are not always accessible across the digital divide and to those wit
 
 <li>Claims file upload refinements
 
-<li>Profile refinements
-
 <li>Digital signature
+
+<li>Share appointments
 </li>
 </ul>
    </td>
@@ -289,6 +289,8 @@ VA services are not always accessible across the digital divide and to those wit
 <li>Deep Links
 
 <li>VCL chat
+
+<li>Cerner APIs?
 </li>
 </ul>
    </td>
@@ -296,6 +298,8 @@ VA services are not always accessible across the digital divide and to those wit
 <ul>
 
 <li>Caregiver login
+
+<li>Use the app as an authenticator
 </li>
 </ul>
    </td>
@@ -361,7 +365,6 @@ VA services are not always accessible across the digital divide and to those wit
 * Debt
 * Medication management/Rx Refill continued discovery
 * Discovery: enhancements to military records
-* Profile: view (and manage?) dependents
 * Push Notifications architecture
 * Push notifications for SM
 * Login experience discovery (login screen)
@@ -374,6 +377,7 @@ VA services are not always accessible across the digital divide and to those wit
 
 * Rx Refill design + build
 * Health Records expansion
+* Profile: view (and manage?) dependents
 * Inter-health integrations 
 * Patient check in
 * Veteran ID card
@@ -390,6 +394,11 @@ VA services are not always accessible across the digital divide and to those wit
 * Cerner APIs
 * Share appointments
 * Enable veterans to digitally sign something on the app
+* Appts: native join session
+* efolder access
+* Digital DD214
+* Claims file upload refinements
+* Digital signature
 
 **Completed:**
 
