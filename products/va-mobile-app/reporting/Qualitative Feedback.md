@@ -5,6 +5,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/1/21: "The app is a great first step! I mean, it's ten year overdue, but it's the VA after all. I didn't have high expectations, but the app is clean, easy to navigate and offers veterans quick access to their information. It can only get better (I hope) and offer more information. Ideally, it can be a one-stop shop for all VA-related info, so no need to bounce between the VA site, eBenefits and other sites searching for info. Please don't stop updating!" (Apple store review)
+
 - 11/30/21: "Really I was thinking oh great another .gov app! But this one is different! Easy to use and works well! I'm impressed!!" (Apple store review)
 
 - 11/28/21: "Hello military friends, the @DeptVetAffairs has a mobile app now. You can do your claims on it as well. It seems extremely easy. Also your appts can be checked through here easy af." "I downloaded it fully expecting a dumpster fire of an app...but I'm pretty impressed with it so far. All my info, appts, everything is correct." "It’s seriously good stuff." [Twitter thread](https://twitter.com/poke_m0m/status/1465086436366069772)
