@@ -18,11 +18,20 @@
 
 ## December 3
 * Naming issue on Lovell landing page?
+  * Lisa trying as fix, if it doesnt work will async with CMS
+- Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
+  * existing redirects need to be updated
+- Final 4 to be transisitioned Dec 8th
 - Training status
-  * Next steps
+  * Few stragglers but bulk is completed
 - Help Desk
   - What will be the expectation on timeline for VHA Digital Media to respond when things get escalated to them
+    - Dave Conlon working with Jenny to establish SLA between Help Desk and VHS Dig Med staff conversations ongoing
+    - Meetings coming up to discuss issues resolution process and timing
   - capacity for screen sharing sessions
+  - check training requests against PA list as they come in to see if they are PA officers if not check with VHA Digital to verify authority
+- CMS will run report for VHA Digital Media showing URLS of all required services pages within all the VAMC's
+  - Kevin to create ticket
 
 ## November 26
 - VAMC-health service pages (LGBTQ+ as example) reports looking for similar URL drift problems  (QA) review
