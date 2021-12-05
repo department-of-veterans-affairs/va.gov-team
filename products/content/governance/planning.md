@@ -5,7 +5,7 @@
 *Note: "We" below refers to the collective VA, not to OCTO specifically.*
 
 ### Content planning
-- How do OCTO and business lines work together to migrate legacy content to the modernized experience across benefit hubs and R&S? 
+- How do OCTO and business lines work together to migrate legacy content to the modernized experience across benefit hubs, R&S, program content sections, and potentially other content sections and/or channels (i.e. mobile app, chatbot)? 
 - How do we make sure that we're adding articles strategically and not just creating volume? 
 - How do we determine if a topic needs a new article vs. additions/updates to an existing article?
 - How do we avoid duplicative/slight variations on content?
@@ -48,3 +48,7 @@
 3. Establish a content QA process that uses the content checklist to make sure all R&S content adheres to critical content standards and goes through appropriate SME reviews. 
 
 4. Create a robust training and peer support model for content (broader initiative beyond R&S, but related so including here).
+
+## Success metrics
+
+How 
