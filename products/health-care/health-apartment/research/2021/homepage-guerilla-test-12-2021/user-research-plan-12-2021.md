@@ -53,7 +53,7 @@ Ideally get at least 1 participant from each:
 ## When?
 Conduct research: December 6-9, 2021
 
-Length of session: 45 minute sessions with 30 minutes between sessions
+Length of session: 30 minute sessions with 15 minutes between sessions
 
 Moderator availability: 7AM - 9PM ET December 6-9, 2021.
 
