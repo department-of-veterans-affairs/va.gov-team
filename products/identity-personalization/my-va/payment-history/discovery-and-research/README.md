@@ -51,7 +51,8 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 - It will provide quick access to payment and debt information, without having to perform a search
 
 ## Questions
-- 
+- What do veterans want to see highlighted on the dashboard?
+- What kind of actions to veterans want to take on their financial information?
 
 ## Value Propositions
 - This additional section will further support My VA dashboard as a "one-stop-shop" for information that is a priority to veterans
