@@ -19,13 +19,13 @@ Before we start, a few things I want to mention:
 
 * Are you comfortable if I record my screen and audio as we talk today? For this session, I will have you share your screen and ask you to show us how you manage benefits online, so this means that the information in your account would be part of the recording. Just so you know, these recordings are not shared outside of the people on this call. We use them only to confirm that we have captured what you have said accurately, and then we delete them a few weeks after the session. Do you have any questions about this? Are you ok if we record today?
 
-    *If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+    * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 Start recording.
 
     *I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-***Prior to showing concept (5-10 minutes)
+## Prior to showing concept (5-10 minutes)
 
 To get started, I’d like to get a little background information about you, and your experience accessing healthcare through the VA website.
 
@@ -34,9 +34,9 @@ To get started, I’d like to get a little background information about you, and
 * What do you wish this website did that it doesn’t do right now?
 * Are there other patient portals you use? What do you like about them?
 
-While showing concept (15-20 minutes)
+## While showing concept (15-20 minutes)
 Now I'm going to show you a new concept for the homepage, and when I do, I'd like you to give me your first impression of the design. 
-*Things to watch and listen for: xxx
+*Things to watch and listen for: Where they point their mouse to first, what they want to click on, how they interact with the "shortcuts" box.
 
 * To you, what are the most important items on this page?
 * What items do you use most? (For each:) How often?
@@ -49,7 +49,7 @@ Now I'm going to show you a new concept for the homepage, and when I do, I'd lik
 
     
 
-Thank you and closing (2 minutes)
+## Thank you and closing (2 minutes)
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
