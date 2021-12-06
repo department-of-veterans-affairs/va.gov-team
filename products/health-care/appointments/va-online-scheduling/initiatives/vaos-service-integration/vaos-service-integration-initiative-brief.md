@@ -32,6 +32,22 @@ Rollout: TBD
 - PI 3 commited objective: The capability for Veteran CC requests to be received and processed in HSRM by Request managers will be in Staging for testing/debugging (requires FE & BE changes; Dependency: HSRM, back-end)
 
 ## Open Questions
+- What actions does the business need to take before rollout?
 
 ## Resources
 - Additional information can be found in [VAMF's service design document](https://coderepo.mobilehealth.va.gov/projects/VAR/repos/vaos-service/browse/docs/SRVDD.md) for the project.
+
+---
+
+## Release Plan
+
+- [ ] Feature parity between vaos service and previous VAMF/MAP services is available in Production for VAOS frontend to utilize
+- [ ] Launch-blocking defects in vaos service are resolved
+- [ ] Launch-blocking defects in VAOS frontend are resolved
+
+### Rollout Checklist
+  - Community Care appointments (`va_online_scheduling_vaos_service_cc_appointments`)
+  - Facilities (`va_online_scheduling_facilities_service_v2`)
+  - Request-related services (`va_online_scheduling_vaos_service_requests`)
+  - VA VistA-based appointments (`va_online_scheduling_vaos_service_va_appointments`)
+
