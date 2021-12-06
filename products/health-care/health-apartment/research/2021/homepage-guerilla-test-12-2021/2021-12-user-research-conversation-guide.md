@@ -11,7 +11,7 @@ Before we start, a few things I want to mention:
 
 * This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-* We want hear your honest opinions. We're technologists focusing on making the user experience the best it can be. Understanding your thoughts will help us create better digital products for Veterans like you, and we will not be offended by any opinions you express.
+* We want hear your honest opinions. We're technologists focusing on making your experience the best it can be. Understanding your thoughts will help us create better digital products for Veterans like you, and we will not be offended by any opinions you express.
 
 
 * If for any reason and at any time you want to stop the session, please let me know. This is a voluntary session, and you will not be penalized in any way if we need to stop.
