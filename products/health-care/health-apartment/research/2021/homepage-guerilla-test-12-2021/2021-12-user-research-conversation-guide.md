@@ -1,7 +1,7 @@
 
 ## Session setup
 
-For this session, we may ask participants to share their screen in order to show us how they would interact with our homepage concept. The moderator should also be prepared to share her screen and show an authenticated My HealtheVet account for reference and participant feedback.
+For this session, we may ask participants to share their screen in order to show us how they would interact with our homepage concept. The moderator should also be prepared to share her screen and show an authenticated My HealtheVet account for reference and participant feedback. **<< Ideally we'll send partcipants a URL, and they will share their screen. Don't think we'll be showing MHV in the authenticated state.**
 
 ### Introduction (2 minutes)
 
