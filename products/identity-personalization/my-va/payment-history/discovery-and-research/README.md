@@ -37,37 +37,62 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 
 ### User Goals
-- As a person who receives payments from the VA, I want to see the most recent payment made to me when I log into VA.gov.
+- As a person who receives compensation from the VA, I want to see the most recent payment made to me when I log into VA.gov.
 - As a person who owes a debt to the VA, I want to see that there are outstanding payments needed when I log into VA.gov.
-- As a person who does not receive payments from the VA or owe a debt to the VA, I want to see links to other financial management tools when I log into VA.gov.
+- As a person who does not receive compensation from the VA or owe a debt to the VA, I want to see links to other financial management tools when I log into VA.gov.
 
 
 ### Business Goals
-- Provide veterans with payment and debt information, specific to them.
-- Provide veterans with links to related action items, such as viewing debts, payment history or travel reimbursement
+- Provide veterans with compensation and debt information, specific to them.
+- Provide veterans with links to related action items, such as viewing debts, payment history, direct deposit or travel reimbursement
 - Reduce the number of payment or debt related searches
 
 
 ## Assumptions
+- Veterans expect that financial information should be available on their My VA dashboard
+- It will provide quick access to payment and debt information, without having to perform a search
 
 ## Questions
+- 
 
 ## Value Propositions
+- This additional section will further support My VA dashboard as a "one-stop-shop" for information that is a priority to veterans
+- Actionalble links will allow the veteran to access more financial details and perform appropriate actions as needed
 
 ## Measuring success
 
+These are OKRs and KPIs for the initial MVP launch of the My VA Enhancements - Payment Information feature:
+
 OKRs and KPIs TBD
+
+**Objective: Allow Veteran's to easily customize how they communicate with the VA.**
+
+- **Key result #1**: 
+
+
+
+- **Key result #2**: 
+
+
+
+- **Key result #3**: 
+
+
+
+- **Key result #4**: 
+
+
 
 # Implementation Info
 
 ## MVP approach
-
+Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
 
 ## Key deliverables
 
-- Discovery
-- Design documentation
-- Technical documnentation
+- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
+- [Design documentation](https://app.mural.co/t/vsa8243/m/vsa8243/1638553268085/b0514c6d027e35eb98f636fa3c614872dd14b8a2?sender=u5ad49c107baa41137f271007) 
+- Technical documentation
 - How to access and test
 - Release plan
 
