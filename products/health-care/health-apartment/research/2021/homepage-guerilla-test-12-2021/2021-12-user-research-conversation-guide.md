@@ -5,7 +5,7 @@ For this session, the moderator will send the participant a URL, and they will s
 
 ### Introduction (2 minutes)
 
-Thanks for joining us today! My name is XXX and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your your experience with VA healthcare and show you a concept for a redesigned health care page.
+Thanks for joining us today! My name is XXX and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience accessing VA healthcare online and show you a concept for a redesigned health care page.
 
 Before we start, a few things I want to mention:
 
@@ -22,9 +22,9 @@ Before we start, a few things I want to mention:
 
 Start recording.
 
-    * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+* I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Prior to showing concept (5-10 minutes)
+## Prior to showing concept (5-7 minutes)
 
 To get started, I’d like to get a little background information about you, and your experience accessing healthcare through both VA.gov and MyHealtheVet. 
 
