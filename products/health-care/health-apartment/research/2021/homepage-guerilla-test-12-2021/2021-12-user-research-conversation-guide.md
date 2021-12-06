@@ -17,9 +17,7 @@ Before we start, a few things I want to mention:
 
 * If for any reason and at any time you want to stop the session, please let me know. This is a voluntary session, and you will not be penalized in any way if we need to stop.
 
-* Are you comfortable if I record my screen and audio as we talk today? For this session, I will have you share your screen and ask you to show us how you manage benefits online, so this means that the information in your account would be part of the recording. Just so you know, these recordings are not shared outside of the people on this call. We use them only to confirm that we have captured what you have said accurately, and then we delete them a few weeks after the session. Do you have any questions about this? Are you ok if we record today?
-
-## It does not seem necessary to have them sign in and show their account info ^^.
+* Are you comfortable if I record my screen and audio as we talk today? Just so you know, these recordings are not shared outside of the people on this call. We use them only to confirm that we have captured what you have said accurately, and then we delete them 2 weeks after the session. Do you have any questions about this? Are you ok if we record today?
 
     * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
