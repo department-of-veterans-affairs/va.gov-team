@@ -29,9 +29,9 @@ I have a list of questions to walk-through with you today while recording the se
 We're especially interested in understanding the context around some of these service categories before we begin interviews with users themselves.
 
 - **This entire session is scheduled for 1 hour, but it may not take that long**.
-- **There is no need to turn on your camera - if you perfer, audio only is fine**
+- **There is no need to turn on your camera - if you prefer, audio only is fine**
 - **In this session, we want to hear your honest opinions**. 
-  - We are not testing you, or your ability, instead, we are finding out if the website meets your needs. 
+  - We are not testing you, or your ability, instead, we are finding out if the website meets user needs. 
   - You cannot do anything wrong. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** 
   - We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -55,11 +55,11 @@ We're especially interested in understanding the context around some of these se
 
 ### Category Labels
 
-1. What are the common services that veterans and caregivers ask you about?
+1. What are the common services that veterans and caregivers ask you about for clarification?
 2. In your opinion, which service categories are the largest or most confounding?
 3. Are all of these service categories equal "sizes"? In particular, do any of the categories contain significantly more or less sub-services than others?
 4. What are some of the lesser known benefits available to users?
-5. Compare and contrast the benefits listed to those available in reality.
+5. Are there any labels that Veterans find particularly confusing or obscuring?
 
 ### Context Around Services
 
