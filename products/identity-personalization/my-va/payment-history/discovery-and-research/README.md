@@ -65,7 +65,7 @@ These are OKRs and KPIs for the initial MVP launch of the My VA Enhancements - P
 
 OKRs and KPIs TBD
 
-**Objective: Allow Veteran's to easily customize how they communicate with the VA.**
+**Objective: **
 
 - **Key result #1**: 
 
