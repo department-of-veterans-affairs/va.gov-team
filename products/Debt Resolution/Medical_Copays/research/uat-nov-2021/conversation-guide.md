@@ -7,13 +7,13 @@ Sign in to Zoom.
 
 We will be having users share their screens and testing the new VHA copay tool. When the participant is ready, have them share their screen.
 
-When their screen is shared, send the link https://va.gov/health-care/pay-copay-bill/ or have them go to www.va.gov.
+When their screen is shared, send the link to www.va.gov.
 
 **Note:** We will not be recording these sessions.
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is \_\_\_ and I also have some colleagues on the line observing and taking notes. Today we're going to talk about a tool that allows Veterans to access their VA health care copay statements online. We've just built this tool and want to make sure that it is all working properly in your account and that all of your information is showing up correctly.
+Thanks for joining us today! My name is Riley and I also have some colleagues on the line observing and taking notes for me. Today we're going to talk about a tool that allows Veterans to access their VA health care copay statements online. We've just built this tool and want to make sure that it's properly working in your account and that all of your information is showing up correctly.
 
 Before we start, I want to mention a few things:
 
@@ -25,7 +25,7 @@ If for any reason and at any time you want to stop the session, please let me kn
 
 ## Warm-up/Screener Questions - 3 minutes
 
-Alright, let's get started!
+Alright, let's get started! I'm going to ask a few warm-up questions about your experience with health care copays. 
 
 **1. Are you currently enrolled in VA health care?**
 
@@ -45,7 +45,7 @@ Alright, let's get started!
 
    1. If no: Are these readily accessible? Could you get them?
 
-   _If the participantcannot remember or retrieve their login credentials, let them know that this is necessary for the test and proceed to the [closing statements]._
+   _If the participant cannot remember or retrieve their login credentials, let them know that this is necessary for the test and proceed to the [closing statements]._
 
 **1. Can you tell me what type of computer you are using today?**
 
@@ -71,11 +71,15 @@ I'm going to paste a link in the Zoom chat. This link will be the way we access 
 
 https://va.gov/health-care/pay-copay-bill/your-current-balances/
 
-Under the alert that reads, "Sign in to view your VA copay balances", select the button "Sign in or create an account"
+Please right click anywhere on the page and select 'inspect'. This will open a new window on the page. Towards the top of, click on 'Network'. If something we see in the tool doesn't look correct, a developer on my team may chime in to get more information from this window so they can fix the issue. 
+
+Under the alert that reads, "Review your VA copay balances", select the button "Review your VA copay balances"
 
 ### If the participant isn't enrolled in VA health care -- 1 minute
 
 - [ ] UAT Task: The correct 'You're not enrolled in VA health care' empty state is shown 
+
+That's the correct information we should be seeing. 
 
 _Proceed to [post-task interview]_
 
@@ -88,6 +92,8 @@ In order to make sure your information is showing properly, we're going to compa
 #### If the participant hasn't received statement(s) since Oct 1st - 1 minute
 
 - [ ] UAT Task: The 'You haven't received a copay bill in the past 24 months' empty state is shown
+
+That's the correct information we should be seeing.
 
 _Proceed to [post-task interview]_
 
