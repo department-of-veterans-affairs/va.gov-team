@@ -133,9 +133,9 @@ Timeline
 
 ### Pilot Session
 
-- Team Availability: TBD
-- Pilot participant name and email: TBD
-- Date and time of pilot session: December 9 or 10/TBD
+Team Availability:
+- Pilot participant name and email: Taylor Mitchell tmitchell@governmentcio.com
+- Date and time of pilot session: December 7
 
 Team Roles
 ----------
