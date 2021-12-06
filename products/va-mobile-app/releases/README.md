@@ -313,7 +313,7 @@ Owner:  Engineering, the release version update is automated.  No action needed 
   <tr>
    <td>What’s New Content
    </td>
-   <td>Purpose: Notes that let new and existing users know about any changes on the app. The updates should be made on the release sign off ticket and added to the repo here
+   <td>Purpose: Notes that let new and existing users know about any changes on the app. The updates should be made on the release sign off ticket and added to the repo 
 <p>
 Owner: Product Management
 <p>
@@ -321,7 +321,7 @@ Template 1:  You can now [describe xyz new feature(s)]. We’ve also [enhanced o
 <p>
 Template 2 (general messaging): We added general improvements and fixed a few bugs.
 <p>
-Procedures for adding What’s New Content to the repo here
+Procedures for adding What’s New Content to the repo <a href="https://docs.google.com/document/d/1luRRb94AJZpqs5pp7pxWbuHakHXT9FZHe8QNihzDtog/edit?usp=sharing">here</a>
    </td>
   </tr>
   <tr>
