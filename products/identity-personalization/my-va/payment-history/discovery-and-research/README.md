@@ -37,9 +37,7 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 
 ### User Goals
-- As a person who receives compensation from the VA, I want to see the most recent payment made to me when I log into VA.gov.
-- As a person who owes a debt to the VA, I want to see that there are outstanding payments needed when I log into VA.gov.
-- As a person who does not receive compensation from the VA or owe a debt to the VA, I want to see links to other financial management tools when I log into VA.gov.
+- As a person who receives compensation from the VA or owes a debt to the VA, I want to see all my financial information in one place.
 
 
 ### Business Goals
