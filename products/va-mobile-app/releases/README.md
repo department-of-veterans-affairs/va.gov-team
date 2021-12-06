@@ -189,6 +189,7 @@ Date
   </tr>
 </table>
 
+See full release calander <a href="https://docs.google.com/spreadsheets/d/14jYcB3zhib3T9jyQjNpsfPLkAAqhLdAhXBPUQtsodgI/edit?usp=sharing">here</a> 
 
 # Release Readiness Checklist
 
