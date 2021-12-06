@@ -1,6 +1,6 @@
 # VA Mobile team - Release Highlights
 
-## Release: 12/7/21 (Draft)
+## Release: 12/7/21 
 
 New + Improved
 
