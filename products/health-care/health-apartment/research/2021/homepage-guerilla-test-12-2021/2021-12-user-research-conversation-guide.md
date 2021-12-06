@@ -27,7 +27,7 @@ Start recording.
 
 ## Prior to showing concept (5-10 minutes)
 
-To get started, I’d like to get a little background information about you, and your experience accessing healthcare through the VA website.
+To get started, I’d like to get a little background information about you, and your experience accessing healthcare through the VA website. **<< Need to specify MHV or VA.gov. Should ask about both.**
 
 * What do you use this website for the most?
 * What do you find the most valuable on this website?
