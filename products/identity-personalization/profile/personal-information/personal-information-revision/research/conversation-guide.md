@@ -30,11 +30,11 @@
 
 -----------------
 
-Thanks for joining us today! My name is Christina and I also have some colleagues on the line observing and taking notes. Today we're going to talk about and look at a section of the Profile the VA.gov website that helps Veterans update their personal information. We'd like to hear your thoughts and get your feedback on this section of the site.
+Thanks for joining us today! My name is Christina and I also have some colleagues on the line observing and taking notes. Today we're going to talk about and look at a section of the Profile on the VA.gov website that helps Veterans update their personal information. We'd like to hear your thoughts and get your feedback on this section of the site.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45 to an hour (We have about 1 hour for this session, but it may be shorter than that).** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 - **In this session, we want to hear your honest opinions. We are not testing your ability.** We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
