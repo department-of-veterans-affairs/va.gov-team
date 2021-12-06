@@ -21,7 +21,7 @@ We'll use semi-structured interviews and observations for this study. This allow
 
 ### Primary recruitment criteria: 
 
-**Familiarity with My HealtheVet**
+**Familiarity with My HealtheVet** <br>
 Ideally get at least 2 participants from each: 
 * Signed in to MHV in the past 6 months
 * Signed in to VA.gov in the past 6 months
