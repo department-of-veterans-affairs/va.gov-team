@@ -85,7 +85,7 @@ Primary recruitment requirements:
   -   be able to participate from a laptop/desktop device
   -   have Zoom downloaded prior to the session
   -   know how to screen share
-  -   Note that our prototype isn't compatible with assistive technology
+  -   be able to access and use the prototype without assistive technology (prototype is not compatible)
 - At least 3 people who identify as other than straight or heterosexual
 - At least 3 people who identify as other than cis-gender
 - At least 1 person younger than 30
@@ -97,8 +97,9 @@ Primary recruitment requirements:
 Questions to ask in the screener:
 
 -   Do you have an *identity-verified, LOA3 account on VA.gov*? Answer should be yes.
--   Do you identify as *other than straight or heterosexual*? Answer should be yes for at least 3 participants.
--   Do you identify as *other than cis-gender*? Answer should be yes for at least 3 participants.
+-   It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations.
+	-   Do you identify as *other than straight or heterosexual*? Yes, No, or Decline to Answer. Answer should be yes for at least 3 participants.
+	-   Do you identify as *other than cis-gender*? Yes, No, or Decline to Answer. Answer should be yes for at least 3 participants.
 -   What device will you use to join the research session? Must be a computer or laptop, NOT iPad/tablet or phone.
 
 Nice to haves:
