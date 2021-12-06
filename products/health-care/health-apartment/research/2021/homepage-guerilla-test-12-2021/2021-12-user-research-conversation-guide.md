@@ -39,10 +39,10 @@ To get started, I’d like to get a little background information about you, and
 
 ## While showing concept (15 minutes)
 Now I'm going to show you a new concept for the homepage, and when I do, I'd like you to give me your first impression of the design. 
-*Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing.
+(Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
 
 * What item or action would you go to first?
-* Is there anything missing on the page?
+* Is there anything missing on the page? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
 * What items would you use the most? For each: How often?
 * What information or actions would you like to see in (Medical, Finance, Information)?
 * What information do you expect to see after clicking on (Health Supplies, Pharmacy, Medical Records) 
