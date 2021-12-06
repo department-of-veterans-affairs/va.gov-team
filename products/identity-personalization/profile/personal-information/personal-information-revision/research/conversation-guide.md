@@ -63,7 +63,7 @@ https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom.
 
   - Computer: Just to the left of center is a conversation bubble that says Chat.
-    - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+  	- If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
