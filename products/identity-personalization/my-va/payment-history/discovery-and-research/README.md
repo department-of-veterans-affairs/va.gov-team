@@ -57,7 +57,7 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 ## Value Propositions
 - This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans
-- Actionalble links will allow the veteran to access more financial details and perform appropriate actions as needed
+- Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
 
 ## Measuring success
 
@@ -77,7 +77,7 @@ OKRs and KPIs TBD
 
 
 
-- **Key result #3**: (potential OKR, not yet vetted with debt team) Increase the number of debt payments made by veterans, by clicking on the debt link in My VA 
+- **Key result #3**: (potential OKR, not yet vetted with debt team) Increase the number of debt payments made by veterans, using the debt information link in My VA 
 
 
 
