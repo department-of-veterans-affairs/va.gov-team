@@ -35,29 +35,30 @@ Last updated November 22, 2021
 
 People have mentioned that seeing payment info on their My VA dashboard is a high priority since our [initial dashboard discovery in 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important), and again in later research sessions, including during [December 2020 exploration research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md#additional-insights), [March 2021 usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md#features-users-expected-to-see-that-were-missing), and [July 2021 notifications discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important). The importance of payment information also bears out in analytics. Viewing payments is [a top interaction on VA.gov overall](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20201122&_u.date01=20211121&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.eventCategory:Interactions/), and "Payments" is  [a top search from the My VA dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches). This effort aims to add payment information to the My VA dashboard and to determine if any other financial information should be elevated as part of the MVP.
 
-## Problem Statement
 
+### User Goals
 - As a person who receives payments from the VA, I want to see the most recent payment made to me when I log into VA.gov.
 - As a person who owes a debt to the VA, I want to see that there are outstanding payments needed when I log into VA.gov.
 - As a person who does not receive payments from the VA or owe a debt to the VA, I want to see links to other financial management tools when I log into VA.gov.
 
-## User outcomes
 
-### Desired User Outcomes
-
-### Undesired User Outcomes
-
-## Business outcomes
+### Business Goals
 
 ### Desired Business Outcomes
 
-### Undesired Business Outcomes
+## Assumptions
+
+## Questions
+
+## Value Propositions
 
 ## Measuring success
 
 OKRs and KPIs TBD
 
-## Solution approach
+# Implementation Info
+
+## MVP approach
 
 
 ## Key deliverables
