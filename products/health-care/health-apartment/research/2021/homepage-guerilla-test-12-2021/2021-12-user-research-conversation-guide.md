@@ -1,7 +1,7 @@
 
 ## Session setup
 
-For this session, the moderator will send the participant a URL, and they will share their screen to show how they interact with our homepage design. 
+For this session, the moderator will share their screen, so the participant can view the redesigned homepage without having to click a link or open a file. 
 
 ### Introduction (2 minutes)
 
@@ -28,24 +28,29 @@ Start recording.
 
 To get started, I’d like to get a little background information about you, and your experience accessing healthcare through both VA.gov and MyHealtheVet. 
 
-* What do you use this website for the most?
+* What do you use My HealtheVet for the most?
+* What do you find the most valuable on this website?
+* What do you wish this website did that it doesn’t do right now? 
+* What do you use VA.gov for the most?
 * What do you find the most valuable on this website?
 * What do you wish this website did that it doesn’t do right now?
+* How did you hear about MyHealtheVet and VA.gov?
 * Are there other patient portals you use? What do you like about them?
 
 ## While showing concept (15 minutes)
 Now I'm going to show you a new concept for the homepage, and when I do, I'd like you to give me your first impression of the design. 
 *Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing.
 
-* To you, what are the most important items on this page? Why?
-* What items do you use most? For each: How often?
+* What item or action would you go to first?
+* Is there anything missing on the page?
+* What items would you use the most? For each: How often?
 * What information or actions would you like to see in (Medical, Finance, Information)?
 * What information do you expect to see after clicking on (Health Supplies, Pharmacy, Medical Records) 
 * What does the word Health Supplies mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
-* Is there anything missing on the page?
 
 ## End questions
-* If you had a magic wand, what would you put on this page? How would it work for you? 
+* If you had a magic wand, what would you put on this page? What would you do to the VA health care system overall? How would it work for you?
+
 * I'm going to open the floor to my colleagues to ask any follow up questions they might have.
 
     
