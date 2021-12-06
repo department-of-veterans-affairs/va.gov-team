@@ -38,6 +38,7 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 ### User Goals
 - As a person who receives compensation from the VA or owes a debt to the VA, I want to see all my financial information in one place.
+- As a veteran, I want to see information and tasks that are personally relevant to my benefits when I log in to VA.gov
 
 
 ### Business Goals
@@ -62,19 +63,21 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 These are OKRs and KPIs for the initial MVP launch of the My VA Enhancements - Payment Information feature:
 
+As a future initiative identified during the My VA redesign, we are continuously moving My VA towards the one-stop shop for elevating action items by adding a new Payment Information section, so that veterans can quickly and easily view financial information and take desired actions. 
+
 OKRs and KPIs TBD
 
-**Objective: **
+**Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
 
-- **Key result #1**: 
-
-
-
-- **Key result #2**: 
+- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, travel reimbursement, direct deposit
 
 
 
-- **Key result #3**: 
+- **Key result #2**: Findability: Reduce search incidents for payment, debt or travel reimbursement.  These terms should not be in the top 20 search terms for searches generate from My VA.
+
+
+
+- **Key result #3**: Increase the number of debt payments made by veterans, by clicking on the debt link in My VA (potential OKR, not yet clarified/vetted with debt team)
 
 
 
