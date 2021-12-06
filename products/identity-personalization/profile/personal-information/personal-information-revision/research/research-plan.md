@@ -139,8 +139,6 @@ Timeline
 Team Roles
 ----------
 
-Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
-
 -   Moderator: Christina Gednalske, Liz Lantz
 -   Research guide writing and task development: Christina Gednalske, Liz Lantz
 -   Participant recruiting & screening: Perigean
