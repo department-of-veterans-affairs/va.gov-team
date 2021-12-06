@@ -46,10 +46,7 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 - Provide veterans with payment and debt information, specific to them.
 - Provide veterans with links to related action items, such as viewing debts, payment history or travel reimbursement
 - Reduce the number of payment or debt related searches
-- As a person who receives payments from the VA, I want to see the most recent payment made to me when I log into VA.gov.
-- As a person who owes a debt to the VA, I want to see that there are outstanding payments needed when I log into VA.gov.
 
-### Desired Business Outcomes
 
 ## Assumptions
 
