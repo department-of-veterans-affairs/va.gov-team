@@ -32,10 +32,14 @@
 ## Monday, December 6, 2021
 * Integrating/being informed of changes in VAST - both Lighthouse and CMS teams
    * CMS has backlog item to discover changes to VAST data - update?
+   * Meeting later this week may shine light on path forward
 * Basic Location Data Questions: Facility type/classification, Phone numbers confusion/conflicts, and "additional inquiries"
   * What will be source of truth for services phone numbers?  VAST or CMS?
+  * Dave to talk to Jenny.
 * Update on FAPI bug not displaying all CMS overlays.
   * CMS folks to Async and come up with timeline to fix (SWirt and Kev) - Update?
+* Order of operations
+  * Worked out in meeting
 
 ## Monday, November 29, 2021
 * Integrating/being informed of changes in VAST - both Lighthouse and CMS teams
