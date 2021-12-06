@@ -1,9 +1,12 @@
 # Informal user research on health home page concepts
 
 ## Goals
-The VA Health Apartment team is conducting user tesing of its homepage and sitemap concept to understand how a variety of veterans currently use MyHealtheVet, how our concept solves painpoints, and what information they care about the most. The feedback from this research will inform future iterations of both the homepage and sitemap, as well as the overall design of the apartment concept.
+The VA Health Apartment team is conducting user testing of its homepage and sitemap concept to understand: 
+* How a variety of Veterans currently use MyHealtheVet,
+* How our concept solves pain points, and 
+* What information Veterans care about most. 
 
-
+The feedback from this research will inform future iterations of both the homepage and sitemap, as well as the overall design of the health apartment concept.
 
 ## Research questions
 This study focuses on three main areas:
