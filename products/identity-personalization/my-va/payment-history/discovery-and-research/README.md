@@ -87,6 +87,11 @@ OKRs and KPIs TBD
 
 ## MVP approach
 Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
+- Most recent payment
+- Manage Direct deposit [link]
+- View Payment History [link]
+- Request travel reimbursement [https://www.va.gov/health-care/get-reimbursed-for-travel-pay/]
+- Dynamic debt link ('You've got 2 outstanding debt payments)
 
 ## Key deliverables
 
