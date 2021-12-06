@@ -37,7 +37,9 @@ People have mentioned that seeing payment info on their My VA dashboard is a hig
 
 ## Problem Statement
 
-- As a person who receives education benefits, I want to see the status of my benefits when I log into VA.gov.
+- As a person who receives payments from the VA, I want to see the most recent payment made to me when I log into VA.gov.
+- As a person who owes a debt to the VA, I want to see that there are outstanding payments needed when I log into VA.gov.
+- As a person who does not receive payments from the VA or owe a debt to the VA, I want to see links to other financial management tools when I log into VA.gov.
 
 ## User outcomes
 
