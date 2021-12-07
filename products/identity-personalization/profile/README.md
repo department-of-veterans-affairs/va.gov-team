@@ -3,15 +3,8 @@
 Last Updated November 16, 2021
 
 ### Communications
-- GitHub Label: Profile
-- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-- Keywords
-     - Profile
-     - Profile 2.0
-     - Contact information
-     - Direct deposit
-     - VA Profile (formerly Vet360)
-     - Notification settings, communication permissions
+
+Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles  
   
@@ -19,7 +12,7 @@ Last Updated November 16, 2021
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
-|Christina Gesnalske| Designer | ? |
+|Christina Gesnalske| Designer |christina.gednalske@adhocteam.us |
 |Zach Morel |FE Engineer| zach.morel@gcio.com |
 
 These folks have historically worked on the profile and may still do some work as needed:
