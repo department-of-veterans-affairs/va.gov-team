@@ -24,12 +24,12 @@ LINK FOR CONVERSATION GUIDE
 We will test the homepage and sitemap concepts with people who are Veterans. 
 
 ## When?
-Conduct research: December 6-9, 2021
+Conduct research: December 16-22, 2021
 
 Length of session: 30 minute sessions with 15 minutes between sessions
 
-Moderator availability: 7AM - 9PM ET December 6-9, 2021.
+Moderator availability: 7AM - 9PM ET December 16-22, 2021.
 
-Draft of conversation guide complete: December 3rd
+Draft of conversation guide complete: December 15th
 
 Mock interview complete: TBD
