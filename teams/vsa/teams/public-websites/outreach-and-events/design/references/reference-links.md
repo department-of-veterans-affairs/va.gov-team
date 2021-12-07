@@ -68,11 +68,11 @@
 
 ### Team members
 
-- Brian Lloyd (MT) | brian.lloyd@gcio.com -- eBenefits product manager
+- Brian Lloyd (MT) | brian.lloyd@gcio.com -- Public Websites Product Manager
 - Cassandra Allen (PT) | cassandra.allen@gcio.com -- UX Designer
 - Cindy Merrill (PT) | cindy.merrill@adhocteam.us -- UX Researcher
 - Mimi Taylor (CT) | lametria.taylor@gcio.com -- UX Designer
-- Dave Conlan (ET) | david.conlon@va.gov -- Product owner
+- Dave Conlan (ET) | david.conlon@va.gov -- Product Owner
 
 ### Resources
 - [Zenhub board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-public-websites&repos=133843125,66304117)
