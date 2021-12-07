@@ -1,15 +1,14 @@
-# Direct Deposit for Edu: Project Outline
+# Project outline: Direct deposit for edu
 
-Last Updated March 16, 2021
+Last Updated December 7, 2021
 
 ## POCs
 
-- GitHub Label: Direct Deposit; Education
-- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
-- Keywords
-     - Direct deposit for edu
-     - Profile 
-     - DD
+Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
+
+[See profile product outline for current team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles)
+
+These are the folks that were responsible for the original work in 2019/2020:
 
 |Name|Role|Email|
 |----|----|-----|
