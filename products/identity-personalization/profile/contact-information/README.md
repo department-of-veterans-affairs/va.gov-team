@@ -74,4 +74,4 @@ As a user, I want to be able to:
 
 ## Design 
 
-- [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+[Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
