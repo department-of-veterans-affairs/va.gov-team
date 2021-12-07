@@ -6,7 +6,7 @@
 
 |Project|Status|
 |----|----|
-|Add SIGI, preferred name & pronouns, and sexual orientation | Design and FE build |
+|[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | Design and FE build |
 
 ### Projected timelines for current projects & enhancements
 
