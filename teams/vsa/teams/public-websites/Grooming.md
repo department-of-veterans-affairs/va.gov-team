@@ -42,6 +42,7 @@ None
 - [ ] [Tech Debt] Megamenu code refactor [#32443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32443) 
 - [ ] Migrate VA.gov megamenu items to Drupal [#32681](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32681)
 - [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606)
+- [ ] Redirect Request - Vet Center MVP pages Batch 2 [#28651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28651) 
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
