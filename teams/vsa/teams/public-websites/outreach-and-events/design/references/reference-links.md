@@ -42,6 +42,7 @@
 
 ### Collaboration cycle
 - [VA Platform collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
+- [VA Public Websites Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites)
 
 ## Team
 
