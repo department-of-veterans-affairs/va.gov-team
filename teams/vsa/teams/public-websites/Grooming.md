@@ -44,12 +44,6 @@ None
 - [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606)
 
 
-### Future Work Grooming: 
-- Outreach & Events: 
-
-- Promo Banner Migration work: Goal: Move content maintenance of the Promo Banners out of Hardcoded Vets-website and into CMS.  
-
-
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
