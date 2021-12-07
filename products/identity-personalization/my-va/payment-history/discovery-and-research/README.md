@@ -82,17 +82,26 @@ OKRs and KPIs TBD
 
 - **Key result #2**: Findability: Reduce search incidents for payment, debt, direct deposit or travel reimbursement.  These terms should not be in the top 20 search terms for searches generate from My VA.
 
+[My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
+
 |KPI/metric|Baseline: Qx 2022|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Search rank for "payment” or "payment history" from My VA| #2, #4|TBD|TBD|
-|Search rank for "debt” or "debt management" from My VA| #1, #7|TBD|TBD|
-|Search rank for "direct deposit” from My VA| #3|TBD|TBD|
-|Search rank for "travel” from My VA| #8|TBD|TBD|
+|Search rank for "payment” or "payment history" from My VA| #1, #10, #11|TBD|TBD|
+|Search rank for "debt” or "debt management" from My VA| #3, #20|TBD|TBD|
+|Search rank for "direct deposit” from My VA| #2, #6|TBD|TBD|
+|Search rank for "travel pay” or "travel reimbursement" from My VA| #8, #17, #18|TBD|TBD|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
 
-- **Key result #3**: 
+- **Key result #3**: Usage: Increase % of logged-in users visiting My VA from 8% in Q4 to n% post-launch by end of Q1.
+
+[My VA Usage Report for Logged-in Users: Aug – Nov 2021](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&_.useg=builtin1,uservhdeJJNEQr6TNXxgFLMPGQ/)
+
+|KPI/metric|Baseline: Pre-launch: Q4 October - December 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|----------|-------------|---------------|-------------------|
+|% of logged-in users who visit My VA| TBD%|TBD%|TBD|
+|% of logged-in users interact with the Payments Information| TBD% |TBD%|TBD|
 
 
 
