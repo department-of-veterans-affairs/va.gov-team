@@ -1,6 +1,6 @@
 # Product Outline: VA.gov Profile
 
-Last Updated November 16, 2021
+Last Updated: December 7, 2021
 
 ### Communications
 
