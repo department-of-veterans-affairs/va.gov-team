@@ -20,6 +20,23 @@
 
 ## Disciplines
 
+### Top VSA documents to reference
+- [The VSA Onboarding Doc](https://docs.google.com/document/d/1I3BJT2L49xT2WgufLDO1wqW84zLSPs8G/edit#heading=h.gy18d16an0za)
+- [VSA org chart](https://docs.google.com/drawings/d/1_OmxooPQXRwUjb08DoaMoEvw1-2Gq9e_wYLunMzEsxE/edit)
+- [VSA Product Approach and Workflow](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit#)
+- [VSA Research Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-research-process.md)
+- [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)
+- [Getting started with forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
+- [Screencaps of form pages from many forms currently in production](https://drive.google.com/drive/folders/1lMM5wDhO-urFX5-4nG3iaA6YGlMBu49T)
+- [Product use case template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)
+- [Design spec template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md)
+- [Design "history" template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/design-history-template.md)
+- [Staging test accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+- [Veteran personas and journey maps](https://drive.google.com/drive/folders/1f5935fkqM4CeuQqzRk2ifi_ThKQSYFki)
+- [VSA Design/Research Google Folder](https://drive.google.com/drive/folders/1XzLl2tmSg1GVRq7LwdA4yTYm9kwn0Y6y)
+- [Slack guidelines document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/vsa-slack-guidance.md) (edited) 
+
+
 ### Research
 - [Research overview](https://depo-platform-documentation.scrollhelp.site/research-design/VFS-Research-Overview.1898741820.html)
 - [Research checklist](https://depo-platform-documentation.scrollhelp.site/research-design/VFS-Research-Checklist.1904902203.html)
@@ -79,19 +96,3 @@
 - [VSA Product Approach (Google Doc)](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
 - [Review Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
 -->
-
-### General feature migration approach
-
-1. Analyze existing feature
-2. Conduct discovery research on existing feature
-3. Synthesize analysis and research into lo-fi screens and flows
-4. Present synthesis/lo-fi visuals at design review
-5. Improve fidelity of screens and flows
-6. Provide content for sitewide review
-7. Present refined mockups at mid-point review
-8. Conduct usability testing
-9. Refine/finalize screens and flows
-10. Review feature in staging
-11. Second usability testing round
-12. Review feature in production (if possible)
-13. Conduct user acceptance testing
