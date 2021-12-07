@@ -22,8 +22,9 @@
 
 
 </details>
+
 ## December 8
-- Vet Center analytic request fulfillment
+- Vet Center analytic request fulfillment/KB article
 
 ## December 1
 
