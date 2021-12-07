@@ -72,7 +72,7 @@ We migrated direct deposit for compensation & pension over to VA.gov from eBenef
 
 Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
-For all other details, please view the main [product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#design).
+For all other details, please view the main [product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#feature-overview).
 
 ## Design 
 
