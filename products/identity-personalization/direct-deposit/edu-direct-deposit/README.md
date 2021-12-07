@@ -8,11 +8,11 @@ Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
 
 [See profile product outline for current team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles)
 
-These are the folks that were responsible for the original work in 2019/2020:
+These are the folks that were responsible for the original work in 2020/2021:
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
+|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Anastasia Jakabcin (AJ) |Product Manager| ana@adhocteam.us |
 |Jason Wolf|Product Manager| jwolf@governmentcio.com |
 |Jim Adams | Designer | jadams@governmentcio.com |
@@ -23,11 +23,9 @@ These are the folks that were responsible for the original work in 2019/2020:
 |Tammy Hurley| VBA Edu team | tammy.hurley1@va.gov | 
 |Hope Coleman| VBA Edu team | Hope.Coleman@va.gov |
 
-## The Problem
+## Overview
 
-- Direct deposit for edu functionality still lives on eBenefits. Since we moved direct deposit for comp & pen to VA.gov last year, this means that veterans now need to update their direct deposit info in two different places.
-- Historically, eBenefits has had issues around fraud + direct deposit. This is one of the major reasons we moved over direct deposit for comp & pen to VA.gov last year — VA.gov has greater security and requires 2FA for all users. With direct deposit for edu still on eBenefits, we're leaving that feature vulnerable.
-- EBenefits is eventually going away, so we need to migrate all functionality over to VA.gov. Direct deposit for edu is still an outstanding project.
+We migrated direct deposit for education over to VA.gov from eBenefits in 2020/2021.
 
 ### User Goals
 
@@ -83,22 +81,20 @@ These are the folks that were responsible for the original work in 2019/2020:
 - **March 2021**: Projected launch to 10%
 - **April 2021**: Projected launch to 100%
 
-## Value Propositions
+## Measuring success
 
-- Direct deposit for edu will be more secure on VA.gov.
-- Migrating this feature to VA.gov moves us one step closer to being able to retire eBenefits.
+[See direct deposit product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#measuring-success)
 
-## KPIs
+## Feature overview
 
-WIP here: https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=995745327
+[See direct deposit product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#feature-overview).
 
-# Implementation Info
+## Design
 
-Please go to the overall [product outline for direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#implementation-info).
-
-## Screenshots
 ### Before
 
 ![Direct deposit section of the profile without direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/direct-deposit-before.jpg)
 
 ### After
+
+[See direct deposit product outline for latest design](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#design)
