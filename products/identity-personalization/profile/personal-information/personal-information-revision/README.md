@@ -88,3 +88,5 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 ![image](https://user-images.githubusercontent.com/73354907/138468318-01facf5a-71a8-4ae3-956e-3daf2cc7ddd4.png)
 
 ### After
+
+- [Personal information design files](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
