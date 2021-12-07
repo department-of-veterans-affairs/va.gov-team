@@ -1,4 +1,4 @@
-# Informal user research on health home page concepts
+# Formal user reseach on homepage concept
 
 ## Goals
 The VA Health Apartment team is conducting user testing of its homepage and high-level sitemap concept to understand: 
