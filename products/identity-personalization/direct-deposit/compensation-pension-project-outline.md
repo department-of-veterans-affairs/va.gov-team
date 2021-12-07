@@ -46,7 +46,7 @@ We migrated direct deposit for compensation & pension over to VA.gov from eBenef
 
 ## Measuring success
 
-[Direct deposit for comp & pen GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
+[See direct deposit product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#measuring-success)
 
 ## Solution narrative
 
