@@ -77,7 +77,7 @@ OKRs and KPIs TBD
 
 
 
-- **Key result #3**: (potential OKR, not yet vetted with debt team) Increase the number of debt payments made by veterans, using the debt information link in My VA 
+- **Key result #3**: 
 
 
 
