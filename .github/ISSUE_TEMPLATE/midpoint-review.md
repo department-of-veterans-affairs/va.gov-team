@@ -18,6 +18,7 @@ assignees: shiragoodman
 
 **Platform**
 - [ ] Add the Platform reviewers to scheduled meeting
+- [ ] Add Zoom information to scheduled meeting (if synchronous)
 - [ ] Create feedback tickets and link to the Midpoint Review epic (if no feedback, please comment stating that). 
 
 ## After meeting
@@ -75,16 +76,6 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 
 - [ ] Regression test plans (if there isn't already a regression test plan for this feature in TestRaiProduct)
 - [ ] Link to test cases/test plan in TestRail (draft OK) 
-
-
-## VFS Meeting Attendees
-
-### Required* 
-\*Only required for synchronous meetings.
-- Product Manager: [Insert name here]
-- OCTO-DE Product lead: [Insert name here]
-- OCTO-DE Design lead: Ryan Thurlwell
-
 
 ## Asynchronous review option
 Would you like this review to be asynchronous? 
