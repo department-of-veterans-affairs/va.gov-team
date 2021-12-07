@@ -10,8 +10,8 @@
 | Screens | Links | Text Sources | Last Rev | |
 | :--- | :--- | :--- | :--- | :--- |
 | View Rep mockups | [Adobe XD](https://xd.adobe.com/view/e27b7e71-d920-4bcd-9e81-dc62a9665d5e-b728/) | Get text from mock | November 25, 2020 | [Changelog](#mockups-changelog) |
-| Search Rep concept mocks | [XD / 2 screens](https://xd.adobe.com/view/fe3c02e8-a803-4a02-7a76-14c7dcad4a48-880d/screen/25f19aea-7630-473e-811e-3cb995869ff1/) ([latest version](https://xd.adobe.com/view/b80b0931-826b-413a-9b07-1efff71cae16-ed58/screen/b416b28c-7153-4d67-ae7c-a2150008af3a) - [Oct 29, 2021 Update](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/p/47673127-1304-4E6D-8CBE-C8A160E00A55)) | All text FPO | Oct 29, 2021 | --- |
-| Appoint Rep concept mocks | [XD / Form w/ no intro](https://xd.adobe.com/view/fe3c02e8-a803-4a02-7a76-14c7dcad4a48-880d/screen/f26735da-60d4-4c6b-a91b-e7772932f61c) | All text FPO | April 21, 2020 | --- |
+| Search Rep concept mocks | [VSA - Search for Rep (Download Filled PDF) v2](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/p/47673127-1304-4E6D-8CBE-C8A160E00A55) | All text FPO | Oct 29, 2021 | --- |
+| Appoint Rep concept mocks | [Search-to-Appoint Rep transition](https://www.sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2/a/09O8Gr2) | All text FPO | April 21, 2020 | --- |
 
 
 #### Information architecture & naming
@@ -54,6 +54,11 @@
 - Initial (new) View Rep mockup
 - Aligns with new "tool page" layout
 - Supercedes previous design direction
+
+** Older versions **
+- [Search - XD / 2 screens](https://xd.adobe.com/view/fe3c02e8-a803-4a02-7a76-14c7dcad4a48-880d/screen/25f19aea-7630-473e-811e-3cb995869ff1/) 
+- [Search - later XD version](https://xd.adobe.com/view/b80b0931-826b-413a-9b07-1efff71cae16-ed58/screen/b416b28c-7153-4d67-ae7c-a2150008af3a)  
+- [Appoint - XD / Form w/ no intro](https://xd.adobe.com/view/fe3c02e8-a803-4a02-7a76-14c7dcad4a48-880d/screen/f26735da-60d4-4c6b-a91b-e7772932f61c)
 
 ### Prototype Changelog
 
