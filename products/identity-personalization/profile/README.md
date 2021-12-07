@@ -166,17 +166,6 @@ We don’t want the profile to become such a de facto place for Veteran informat
 |[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 
-### Timeline
-
-- 2016/17 — Prototypical "account" page on Vets.gov.
-- Spring 2018 -- Original EMIS profile launched to Vets.gov.
-- Summer 2018 — Profile backend transitioned to VA Profile (then- Vet360).
-- 2019 — Direct deposit for comp & pen added to the profile.
-- 2019/2020 – Address validation added to the Mailing and Home address fields.
-- 2020 -- Profile 2.0 redesign (launched Fall 2020).
-- 2021 — Direct deposit for edu added to the profile. Explored adding preferred facilities (did not move forward). Notification preferences set to launch in Nov 2021.
-- Nov 2021 -- Notification preferences (aka communications permissions) is launched.
-
 ## How to Access and Test
 
 - Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
@@ -197,29 +186,10 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## Design 
 
-- [2018 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1/design)
-- [2020 Profile 2.0 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design)
-- Designs as of November 2021 (added Notification settings, separated Personal info + Contact info)
-  - Personal information (link coming soon)
-  - [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
-  - [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
-  - Direct deposit (link coming soon)
-  - [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
-  - [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
-  - [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
-
-## Screenshots
-
-![Personal and contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-text%20checked.png)
-
-![Military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/military-information/Military%20Information.jpg)
-
-![Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit.jpg)
-
-![Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20-%20Identity%20Verified.jpg)
-
-![Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-connected.jpg)
-
-## Release Notes
-
-[Published quarterly in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Profile-release-notes.md)
+- Personal information (link coming soon)
+- [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- Direct deposit (link coming soon)
+- [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
+- [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
+- [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
