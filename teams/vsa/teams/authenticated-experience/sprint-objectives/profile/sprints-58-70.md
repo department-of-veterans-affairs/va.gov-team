@@ -160,7 +160,8 @@ Onboard Christina to this work:
 - Pull in work for Erik and Taylor from the backlog
 - If Zach as availability pending Find a Form work, pull in tickets from backlog for him, too
 
-## Sprint 62 (12/1 - 12/14)
+## Sprint 62 (12/1 - 12/14) 
+[Sprint 62 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33435)
 
 Anything unfinished from last sprint, plus...
 
