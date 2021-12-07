@@ -88,24 +88,8 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 
 ## Error Handling
 
-Information regarding "error codes" can be found at this [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/%20ErrorCodesForOverride_DRAFT-WithExamples.xlsx)
+[List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
-### Address suggestions
-
-**Endpoint**: POST profile/address_validation
-
-If a user's address does not return any suggested addresses we show the following error. If the user is sure the address is correct they can override the error and save the address as-is.  
-
-![Address not found error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/profile/contact-information/address-validation/error%20messages/address%20not%20found.png)
-
-If the API detects that the entered address is an apartment building but does not include an apartment number we show the following error:  
-<br>
-![Missing unit number error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/profile/contact-information/address-validation/error%20messages/missing%20unit%20number.png)
-
-If the API does not recognize the entered apartment number the following error is shown:
-<br>
-<br>
-![Bad unit number error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/designs/Edit%20bad%20unit%20number%20with%20override.png)
 
 ## Service Level Objective
 
