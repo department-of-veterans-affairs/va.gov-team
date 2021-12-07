@@ -69,7 +69,7 @@ OKRs and KPIs TBD
 
 **Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
 
-- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, travel reimbursement, and direct deposit.
+- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, travel reimbursement, and direct deposit CTAs.
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
@@ -93,14 +93,20 @@ OKRs and KPIs TBD
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
+|KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|----------|-------------|---------------|-------------------|
+|Search rank for "payment” or "payment history" from My VA| #6|TBD|TBD|
+|Search rank for "debt” or "debt management" from My VA| N/A (#23)|TBD|TBD|
+|Search rank for "direct deposit” from My VA| #7, #17|TBD|TBD|
+|Search rank for "travel pay” or "travel reimbursement" from My VA| #9|TBD|TBD|
 
 - **Key result #3**: Usage: Increase % of logged-in users visiting My VA from 8% in Q4 to n% post-launch by end of Q1.
 
 [My VA Usage Report for Logged-in Users: Aug – Nov 2021](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&_.useg=builtin1,uservhdeJJNEQr6TNXxgFLMPGQ/)
 
-|KPI/metric|Baseline: Pre-launch: Q4 October - December 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|KPI/metric|Baseline: Aug - Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|% of logged-in users who visit My VA| TBD%|TBD%|TBD|
+|% of logged-in users who visit My VA| 7%|TBD%|TBD|
 |% of logged-in users interact with the Payments Information| TBD% |TBD%|TBD|
 
 
