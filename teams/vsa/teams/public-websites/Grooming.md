@@ -41,6 +41,7 @@ None
 - [ ] [508-defect-2:] The sticky footer alert is inaccessible to screen reader users and a negative experience for keyboard and mobile users [#32285](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32285)
 - [ ] [Tech Debt] Megamenu code refactor [#32443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32443) 
 - [ ] Migrate VA.gov megamenu items to Drupal [#32681](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32681)
+- [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606)
 
 
 ### Future Work Grooming: 
