@@ -1,7 +1,5 @@
 # Project outline: Direct deposit for compensation & pension
 
-**[Public repo folder & documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit).**
-
 Last Updated December 7, 2021
 
 ## POCs
