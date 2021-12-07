@@ -146,10 +146,10 @@ Current metrics we're tracking:
 
 ## Design 
 
-- Personal information (link coming soon)
+- [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
 - [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
 - [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
-- Direct deposit (link coming soon)
+- [Direct deposit](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131)
 - [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
 - [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
 - [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
