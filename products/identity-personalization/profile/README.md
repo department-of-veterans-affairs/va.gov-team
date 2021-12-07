@@ -34,7 +34,7 @@ These folks have historically worked on the profile and may still do some work a
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
-- [Solution Narrative](#solution-narrative)
+- [Projects](#projects)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
 - [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
@@ -142,15 +142,15 @@ We don’t want the profile to become such a de facto place for Veteran informat
 - **Key result**: Launch notification preference settings MVP in the VA.gov profile in **Q3 2021 (July – September)**.
      See [success metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success)for Notification Preferences 
 
-## Solution Narrative
+## Projects
 
-## Current projects & enhancements
+### Current projects & enhancements
 
 |Project|Status|
 |----|----|
 |[Personal information updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | Design and Build |
 
-## Completed projects & enhancements
+### Completed projects & enhancements
 
 |Project or enhancement|Status|
 |----|----|
