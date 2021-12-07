@@ -1,27 +1,12 @@
 # Contact Information Product Outline
 
-Last Updated July 6, 2020
+Last Updated December 7, 2021
 
-## POCs
-- GitHub Label: Profile
-- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-- Keywords
-     - Contact information
-     - VA Profile (formerly Vet360)
+Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
      
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
-|Matt Shea |Product Manager| matt.shea@adhocteam.us |
-|Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Sandra Hallie | FE Engineer| shallie@governmentcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-|Jen Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
-|Mike Richard | VA Profile contact | michael.richard2@va.gov |
-|Barry Wilbanks|  VA Profile contact | bwilbanks@meetveracity.com |
-|Christine Donovan| VA Profile contact/ OIT PM |  Christine.Donovan@va.gov |
+## Roles
+
+[See profile product outline for current team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles)
 
 ---
 
