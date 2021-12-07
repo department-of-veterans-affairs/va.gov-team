@@ -13,14 +13,8 @@ Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); 
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
 |Christina Gesnalske| Designer |christina.gednalske@adhocteam.us |
-|Zach Morel |FE Engineer| zach.morel@gcio.com |
-
-These folks have historically worked on the profile and may still do some work as needed:
-
-|Name|Role|Email|
-|----|----|-----|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Zach Morel |FE Engineer| zach.morel@gcio.com |
 |Taylor Mitchell | FE Engineer| taylor.mitchell@gcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
@@ -48,10 +42,11 @@ The [VA.gov profile](https://staging.va.gov/profile) provides a centralized plac
 
 Currently, the VA.gov profile supports the following information:
 
-- Personal and contact information
-- Military information
-- Direct deposit information
-- Notification preferences
+- [Personal information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)
+- [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
+- [Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
+- [Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
+- [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences)
 - Account security
 - Connected apps (managed by the Lighthouse team)
 
@@ -102,43 +97,9 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## Measuring Success
 
-*What are the measurable targets you're aiming for that delivers value for Veterans?*
+Current metrics we're tracking:
 
-**Objective #1: To be the place where Veterans and other users can review all the information the VA knows about them, and reliably update (or learn how to update) outdated or incorrect information.**
-
-- **Key result #1**: Finish integrating direct deposit for edu information into the VA.gov profile in **Q2 2021 (April – June)**.
-- ~**Key result #2**: Add preferred medical facilities information to the VA.gov profile **Q3 2021 (July – September)**.~
-- **Key result #3**: Maintain a 97%+ success rate on all user-generated updates/form submissions that happen from the VA.gov profile.
-- **Key result #4**: Maintain a 97%+ success rate on retrieval of all information that is pulled into the profile.
-
-**Address update KPIs**
-
-[Address validation report](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
-
-|KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
-|----------|-------------|---------------|----------------|----------------|
-|Mailing address: % of successful saves | 95.9%| 94.9% |TBD|TBD|
-|Home address: % of successful saves | 98.3% | 98.1% |TBD|TBD|
-
-**Direct deposit KPIs**
-
-- [Direct deposit for comp & pen report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
-- [Direct deposit for edu report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/UJwvqguWQMqJaGySJWq1VQ/a50123418w177519031p176188361/)
-
-
-|KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
-|----------|-------------|---------------|----------------|----------------|
-| Comp & pen: % successful retrievals | 97.6%| 97.4% | | |
-| Comp & pen: % successful saves | 87.7%*| 93.3% | | |
-| Edu: % successful retrievals |N/A| 90.9% | | |
-| Edu: % successful saves |N/A| 97.9% | | |
-
-*This percentage is due to an error state in BGS that they don't want to get rid of around certain routing numbers having been flagged for fraud in a 2015 fraud ring. While these routing numbers are no longer an issue and the fraud team has recommended removing the error, it still exists and causes a significant amount of failures on VA.gov.
-
-**Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.**
-
-- **Key result**: Launch notification preference settings MVP in the VA.gov profile in **Q3 2021 (July – September)**.
-     See [success metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success)for Notification Preferences 
+- [Notification preferences MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences#measuring-success)
 
 ## Projects
 
