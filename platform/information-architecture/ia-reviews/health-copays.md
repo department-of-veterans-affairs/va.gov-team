@@ -41,7 +41,7 @@ Page flow illustrates proposed H1s, link labels and URLs:
 Pay copay bills static page | https://www.va.gov/health-care/pay-copay-bill/ | Home > Health care > Pay your VA copay bill |  This is an existing page, no changes to URL or breadcrumb.
 Auth tool: Copay balance overview |  www.va.gov/health-care/pay-copay-bill/your-current-balances/  |  Home > Health care > Pay your VA copay bill > [H1 of copay balance overview page]  | New tool to view copay bills.
 Auth tool: Copay balance detail |  www.va.gov/health-care/pay-copay-bill/your-current-balances/balance-details/  |  Home > Health care > Pay your VA copay bill > [H1 of copay balance overview page] > [H1 of balance detail page]   | Detail level of the copay balance.
-Auth tool: Online statement | www.va.gov/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ | Home > Health care > Pay your VA copay bill > [H1 of copay balance overview page] > [H1 of balance detail page] > [H1 of online statement page]
+Auth tool: Online statement | www.va.gov/health-care/pay-copay-bill/your-current-balances/balance-details/statement/ | Home > Health care > Pay your VA copay bill > [H1 of copay balance overview page] > [H1 of balance detail page] > [H1 of online statement page] | Online/HTML statement
 Financial hub static landing page   | www.va.gov/xxxxxx   | Home > [H1 of page]   | ***Details for this page are TBD*** <br>New static landing page provides links to all financial-related tools and forms 
 
 ## <a name="nav"></a>Navigation and Entry Points <br>
