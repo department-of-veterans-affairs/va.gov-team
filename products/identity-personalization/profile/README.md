@@ -39,8 +39,6 @@ These folks have historically worked on the profile and may still do some work a
 - [Error Handling](#error-handling)
 - [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
 - [Design](#design)
-- [Screenshots](#screenshots)
-- [Release notes](#release-notes)
 
 ---
 
