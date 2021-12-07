@@ -1,4 +1,9 @@
 # VAOS Retros
+<details>
+<summary>December 07, 2021</summary>
+
+<img width="1359" alt="Retro" src="https://user-images.githubusercontent.com/90797205/145095428-063a7d97-174b-4247-9ce2-384d7f4b9b51.png">
+</details>
 
 <details>
 <summary>November 23, 2021</summary>
