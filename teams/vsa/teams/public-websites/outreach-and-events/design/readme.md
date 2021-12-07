@@ -11,7 +11,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Feature wireframes | [XD](https://xd.adobe.com/view/32a7ce8e-7df2-4a7e-ad3f-ef42fa09c753-67f4/screen/efd3064b-5f32-419a-b67c-3d33202a5190) | Placeholder text | TBD | --- |
 | Concept Mockups | [Sketch]() | Not yet available | TBD | --- |
-| Prototype | [UXPin]() | Not yet available | TBD | --- |
+| Prototype | [UXPin](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555) | Initial text | TBD | --- |
 
 ### Feature flows
 
