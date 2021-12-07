@@ -59,7 +59,8 @@ We're especially interested in understanding the context around some of these se
 2. In your opinion, which service categories are the largest or most confounding?
 3. Are all of these service categories equal "sizes"? In particular, do any of the categories contain significantly more or less sub-services than others?
 4. What are some of the lesser known benefits available to users?
-5. Are there any labels that Veterans find particularly confusing or obscuring?
+5. Some benefits only appear to have a few offices that offer them. Is that the case? Is this by design?
+6. Are there any labels that Veterans find particularly confusing or obscuring?
 
 ### Context Around Services
 
@@ -67,10 +68,15 @@ We're especially interested in understanding the context around some of these se
 * Do the services that users need assistance with differ by any patterns: age, time out of service, gender, caregiver vs veteran status, etc.
   * In particular, do veterans experience with services have demographic patterns?
 * Are there any changes or trends on the horizon (or recently) in the benefits that are being offered or how they are being offered?
+*   Are the eligibility of veterans changing over time?
+*   Are the names that folks are used to seeing changing over time?
+*  Are there any geographic patterns or Office Location patterns that we should know about?
+*   E.G. Northern benefits offices are less likely to offer X service.
+*   There are satellite/pop-up offices in campuses, health facilities, or bases. Do these differ in the services offered?
 
 ### Pain Points for Users
 
-1. What are common pain points for users in the benefits process?
+1. What are common frustrations for users in the benefits process?
 2. When users are most upset about benefits interactions, what is the cause?  
 
 # Closing
