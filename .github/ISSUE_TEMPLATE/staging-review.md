@@ -13,13 +13,14 @@ assignees: Shiragoodman
 
 **VFS Product Manager**
 - [ ]   Create this issue and schedule meeting via Calendly (you are responsible for adding the VFS attendees).
-- [ ]   Notify the Collaboration Cycle team of this ticket and scheduled date/time in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)).
+- [ ]   Notify the Collaboration Cycle team of this ticket and scheduled date/time in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)).
 - [ ]  Add artifacts listed below to the ticket at least 4 days before scheduled meeting.
 - [ ]  Ensure you've provided staging access information for the tool or feature. (Don't put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository.)
 
  **Platform**
  
 - [ ] Add the Platform reviewers to scheduled meeting
+- [ ] Add Zoom information to scheduled meeting
 - [ ] Create feedback tickets and link them to the Staging Review epic (if no feedback, please comment stating that). 
 
 ## After meeting
@@ -95,14 +96,6 @@ This may include mockups, prototypes, Github files, Word document or outline, st
 •	Issue 2
 
 •	Issue 3
-
-
-## VFS Meeting Attendees
-
-### Required
-- Product Manager: [Insert name here]
-- OCTO-DE Product lead: [Insert name here]
-- OCTO-DE Design lead: Ryan Thurlwell
 
 
 ## Scheduling
