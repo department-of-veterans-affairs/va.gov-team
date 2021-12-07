@@ -74,7 +74,7 @@ OKRs and KPIs TBD
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("View all payments"))| 2.3mil|TBD|TBD|
-|Clicks to view all debts ("You have n oustanding debts")| 179k|TBD|TBD|
+|Clicks to view all debts ("You have n oustanding debt payments")| 179k|TBD|TBD|
 |Clicks to view travel reimbursement ("Request travel reimbursement")| 249k|TBD|TBD|
 |Clicks to view direct deposit settings ("Manage direct deposit")| 464k|TBD|TBD|
 
