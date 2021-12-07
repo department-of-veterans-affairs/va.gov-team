@@ -73,6 +73,17 @@ Last Updated March 16, 2021
 - This will be a cross team effort between the eBenefits team and the authenticated experience team. Jim Adams will be doing design, and Jason Wolf will be PM. Lihan will be working on the backend, and Sandra or Erik will be working on the frontend.
 - Jim will conduct discovery and confirm functionality and outstanding questions. We'll review those with the eBenefits team before moving into design. Beyond that, this project *should* be pretty traditional in terms of approach.
 
+### Timeline
+
+- **September 2020**: Discovery begins
+- **October 2020**: Initial designs and VSP kickoff
+- **November 2020**: Usability test prep and VSP usability test review
+- **December 2020**: Usability testing; Build
+- **January 2021**: QA
+- **February 2021**: VSP reviews; UAT
+- **March 2021**: Projected launch to 10%
+- **April 2021**: Projected launch to 100%
+
 ## Value Propositions
 
 - Direct deposit for edu will be more secure on VA.gov.
