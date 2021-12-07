@@ -29,7 +29,7 @@ Last updated December 7, 2021
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Solution Approach](#solution-approach)
-- [Screenshots](#screenshots)
+- [Design](#design)
 
 ## Overview
 
@@ -81,7 +81,7 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 - Fall 2021: Design; Frontend build; Backend on hold as we wait for MPI to be ready to start integration
 - December 2021: User testing on interface designs; back end begins integration with MPI
 
-## Screenshots
+## Design
 
 ### Before
 
