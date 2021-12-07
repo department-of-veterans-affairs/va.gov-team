@@ -74,7 +74,31 @@ We migrated direct deposit for compensation & pension over to VA.gov from eBenef
 
 Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
-Direct deposit for compensation & pension currently lives within [the VA.gov profile](staging.va.gov/profile/direct-deposit) and connects to the **EVSS** backend.
+
+### Direct deposit for compensation & pension 
+
+- Direct deposit for compensation & pension currently lives within [the VA.gov profile](staging.va.gov/profile/direct-deposit).
+- This integration takes place through **EVSS**.
+- Users can **edit** their existing direct deposit information, and they can **add** direct deposit information if they do not already have it but are eligible to receive payments. This includes routing number, account number, and account type.
+- People who currently receive paper checks but want to switch to digital payments can do so by adding direct deposit information for the first time. However, people can **not** delete direct deposit information or switch back to paper checks.
+- Only the following people can access direct deposit:
+  - People eligible for compensation and pension benefits.
+  - Users logged into VA.gov.
+  - LOA3 users.
+  - Users with 2FA.
+- When direct deposit information is changed, a confirmation email is sent to the user. These confirmation emails have information on how to report fraud.
+
+**Security and fraud management**
+
+Given that direct deposit for compensation & pension is a huge target of fraudsters, we have taken the following security precautions in order to protect people's information:
+
+- Users have to be LOA3 **and** have 2FA set up to access direct deposit information in the VA.gov profile. If people do not have 2FA set up, they can not access direct deposit information.
+- When direct deposit information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case a fraudster has changed the contact email address. These confirmation emails have information on how to report fraud.
+- We have worked with Adam Kinder and the VBA fraud incident team as needed to track down apparent incidents of fraud and help resolve them. 
+
+**Routing number flagged for fraud errors**
+
+[Documentation here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/fraud-handling/routing-number-flagged-for-fraud-error.md)
 
 For all other details, please view the main [product outline](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md#design).
 
