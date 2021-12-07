@@ -34,7 +34,7 @@ Top tasks update
 - Week of December 6 check back on content design and templating issues for clinical vs non-clinical service locations
 
 Common links on VAMC system pages
-- FE can harden the h2 now 
+- FE can harden the h2 now [#33727](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33727)
 - CMS will take #7096 when it can, which has a small FE aspect 
 
 Vet Center Required services
