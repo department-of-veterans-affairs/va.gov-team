@@ -1,7 +1,7 @@
 # Project outline: Profile Personal Information Revision
 
 
-Last updated October 22, 2021
+Last updated December 7, 2021
 
 ### Communications
 
@@ -29,8 +29,6 @@ Last updated October 22, 2021
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Solution Approach](#solution-approach)
-- [Key deliverables](#key-deliverables)
-- [Key dates](#key-dates)
 - [Screenshots](#screenshots)
 
 ## Overview
@@ -76,19 +74,12 @@ We will be incorporating the following metrics into the VA.gov profile: preferre
 - This will be supported by MPI as these these data points currently exist in MPI.
 - We will begin the front-end work as soon as the designs are finalized, and the back-end work to connect with MPI will follow shortly thereafter, depending upon BE engineer availability since the Profile team does not have a dedicated BE engineer.
 
-## Key deliverables
-
-- Discovery
-- Design documentation
-- Technical documnentation
-- How to access and test
-- Release plan
-
-## Key dates
+### Key dates
 
 - June 2021: Request made to the VA.gov auth experience team
 - October 2021: New profile team onboarded and project kickoff
-- Fall 2021: User testing on interface designs; back end begins integration with MPI
+- Fall 2021: Design; Frontend build; Backend on hold as we wait for MPI to be ready to start integration
+- December 2021: User testing on interface designs; back end begins integration with MPI
 
 ## Screenshots
 
