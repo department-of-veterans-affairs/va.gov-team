@@ -13,11 +13,12 @@ assignees: shiragoodman, allison0034
 
 **VFS Product Manager or Designer**
 - [ ]  Create this issue and schedule meeting via Calendly (you are responsible for adding the VFS attendees). 
-- [ ] Notify the Collaboration Cycle team of this ticket with scheduled date/time in the in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
+- [ ] Notify the Collaboration Cycle team of this ticket with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)). 
 - [ ] Add artifacts listed below to the ticket at least 2 days before the scheduled meeting.
 
 **Platform**
 - [ ] Add the Platform reviewers to scheduled meeting
+- [ ] Add Zoom information to scheduled meeting
 
 ## After meeting
 
@@ -48,16 +49,6 @@ Provide links or documents for the following:
 - [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
 - [ ] User flow
 - [ ] Any other artifacts you have so far
-
-
-## VFS Meeting Attendees
-
-### Required
-- Product Manager: [Insert name here]
-- OCTO-DE Product lead: [Insert name here]
-- OCTO-DE Design lead: Ryan Thurlwell
-
-
 
 ## Scheduling
 
