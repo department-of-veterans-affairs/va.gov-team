@@ -94,6 +94,8 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 ### Assigned DFNs
 You will be assigned a specific test user in VistA that will have an identifier associated with it referred to as the `DFN`, or Data File Number. The `DFN` will be used when making calls to many of the endpoints. The `DFN` represents the Internal Entry Number (`IEN`) of the VistA record associated with this test Patient. For our use, `patientDfn` and `patientIen` can be used interchangeably. 
 
+**Station 500**
+
 | `patientDFN`  | Name | Assigned To |
 | --- | ------------ | ----- |
 | 237 | One, Patient | Shane |
@@ -126,6 +128,13 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 520 | Forty,Patient | Patrick (OVAC) | 
 | 41  | Fortyone,Patient | Zach |
 | 42  | Fortytwo,Patient | Eva |
+
+**Station 442**
+
+| `patientDFN`  | Name | Assigned To |
+| --- | ------------ | ----- |
+| 7242569 | One, Patient |  |
+| 7242570 | Two, Patient |   |
 #
 
 <a name="endpoints-section"></a>
