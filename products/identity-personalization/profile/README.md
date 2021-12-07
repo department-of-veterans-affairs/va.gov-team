@@ -129,6 +129,7 @@ Current metrics we're tracking:
 
 - Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
 - Visit https://staging.va.gov/profile/
+- [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
 
 ## Error Handling
 
