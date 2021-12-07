@@ -127,7 +127,7 @@ Visit [this mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1631668096417/
 
 - **Copy:** 
 
-  > We're sorry. We can't disconnect this app from your VA.gov profile right now: [app name]. We're working to fix this problem. Please check back later.
+  > We're sorry. We can't disconnect [app name] from your VA.gov profile right now. We're working to fix this problem. Please check back later.
 
 ### 7. User hits cancel button while editing data ([#31408](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31408))
 
