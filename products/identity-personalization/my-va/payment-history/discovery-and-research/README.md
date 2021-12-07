@@ -69,14 +69,14 @@ OKRs and KPIs TBD
 
 **Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
 
-- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, travel reimbursement, direct deposit
+- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, travel reimbursement, and direct deposit.
 
-|KPI/metric|Baseline: Qx 2022|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|KPI/metric|Baseline: Aug-Nov 2022|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("View all payments"))| TBD clicks|TBD|TBD|
-|Clicks to view all active debts ("You have n oustanding debts")| TBD|TBD|TBD|
-|Clicks to view travel reimbursement ("Request travel reimbursement")| TBD|TBD|TBD|
-|Clicks to view direct deposit settings ("Manage direct deposit")| TBD|TBD|TBD|
+|Clicks to view all payments ("View all payments"))| 2.3mil|TBD|TBD|
+|Clicks to view all debts ("You have n oustanding debts")| 179k|TBD|TBD|
+|Clicks to view travel reimbursement ("Request travel reimbursement")| 249k|TBD|TBD|
+|Clicks to view direct deposit settings ("Manage direct deposit")| 464k|TBD|TBD|
 
 
 
@@ -84,7 +84,7 @@ OKRs and KPIs TBD
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
-|KPI/metric|Baseline: Qx 2022|Post-launch: Qx 2022| Post-launch: Qx 2022|
+|KPI/metric|Baseline: Aug-Nov 2022|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |Search rank for "payment” or "payment history" from My VA| #1, #10, #11|TBD|TBD|
 |Search rank for "debt” or "debt management" from My VA| #3, #20|TBD|TBD|
