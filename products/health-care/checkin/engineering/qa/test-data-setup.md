@@ -73,7 +73,7 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 
 | `clinicIen` | `clinicName` | Patient Friendly Name | Usual Availability (ET) | 
 | --- | ---------------- | ------ |------|
-| 64 | Audiology | |M-F 7AM - 230PM |
+| 64 | Audiology | Hearing |M-F 7AM - 230PM |
 | 195 | Cardiology | | M-F 7AM - 230PM |
 | 62 | Dermatology | | None |
 | 23 | General Medicine| | M-Th 7AM - 245PM, F 7AM - 1145AM |
