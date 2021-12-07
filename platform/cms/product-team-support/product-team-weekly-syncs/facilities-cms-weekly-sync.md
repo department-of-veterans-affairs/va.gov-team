@@ -25,6 +25,7 @@
 
 ## December 8
 - Vet Center analytic request fulfillment/KB article
+- Potential collaborative quarterly planning
 
 ## December 1
 
