@@ -127,24 +127,27 @@ Task 2: Review Profile Sections - 10 minutes
 
 - Let's move onto the next section - pronouns. Go ahead and click into that.
 - Talk to me about these options - what is your understanding of them?
-- Is there anything that's missing?
 - Is there anything that's confusing?
+- Is there anything that's missing?
+- What would you select for this field?
 - Ok, thanks. Go ahead and click cancel.
 
 ### Gender Identity
 
 - Let's move onto the next section - gender identity. Go ahead and click into that.
 - Talk to me about these options - what is your understanding of them?
-- Is there anything that's missing?
 - Is there anything that's confusing?
+- Is there anything that's missing?
+- What would you select for this field?
 - Ok, thanks. Go ahead and click cancel.
 
 ### Sexual Orientation
 
 - Ok, last section - sexual orientation. Go ahead and click that.
 - Talk to me about these options - what is your understanding of them?
-- Is there anything that's missing?
 - Is there anything that's confusing?
+- Is there anything that's missing?
+- What would you select for this field?
 - Ok, thanks. That's everything I wanted you to take a look at.
 
 **Things to watch for:**
