@@ -1,14 +1,12 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# Non-Clinical Services Taxonomy - Research Findings 
 
----
+[IN PROGRESS]
 
-# [Study] Research Findings 
-
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Facilities Team**
 
 Date: MM/DD/YYYY
 
-[Designer 1] [email], [Designer 2] [email]
+**Designer / Researcher:** Nick Osmanski (nick.osmanski@amida.com)
 
 [Research Report PDF] (link here)
 
