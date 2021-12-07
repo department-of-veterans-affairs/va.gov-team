@@ -96,7 +96,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |Search rank for "payment” or "payment history" from My VA| #6|TBD|TBD|
-|Search rank for "debt” or "debt management" from My VA| N/A (#23)|TBD|TBD|
+|Search rank for "debt” or "debt management" from My VA| #23|TBD|TBD|
 |Search rank for "direct deposit” from My VA| #7, #17|TBD|TBD|
 |Search rank for "travel pay” or "travel reimbursement" from My VA| #9|TBD|TBD|
 
@@ -107,7 +107,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |KPI/metric|Baseline: Aug - Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |% of logged-in users who visit My VA| 7%|TBD%|TBD|
-|% of logged-in users interact with the Payments Information| TBD% |TBD%|TBD|
+|% of logged-in users interact with the Payments Information| 0% (new)|TBD%|TBD|
 
 
 
