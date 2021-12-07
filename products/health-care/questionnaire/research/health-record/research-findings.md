@@ -115,7 +115,7 @@ We conducted 7 remote moderated tests via Zoom using the Perigean contract. To s
 - The top three prioritized pieces of data or features for medications are medication name and dose refills remaining, and directions (take with food). Medications also have four main mental model grouping for data/features: “when and what,” “things to pay attention to,” “providers,” and “tracking information.”
 - The top three prioritized pieces of data or features for allergies are allergy name (Peanuts, Lactose intolerance), reactions (Rash, Anaphylaxis), and severity level (High risk, Low risk). Allergies also have three main mental model groupings for data/features: “what,” “actions,” and “when and where.”
 - How often Veterans want to review and update this information varied from every appointment to annually.
-- Some Veterans were surprised that they would be empowered to propose  health record changes to their VA providers via a questionnaire or patient portal page. 
+- Some Veterans were pleasantly surprised that they would be empowered to propose  health record changes to their VA providers via a questionnaire or patient portal page. 
 - Health questionnaires can expand the current ecosystem of Veteran-provider communications.
 
 ## Detailed Research Findings
