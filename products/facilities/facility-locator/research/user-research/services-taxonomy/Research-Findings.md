@@ -250,15 +250,11 @@ _If you had specific criteria that you recruited for, use this space to explain 
 We talked to **14 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 14
 
 Gender:
-* Male: x 
-* Female: x 
-
+* Male: 10 
+* Female: 4
 
 LGBTQ+:
 * Transgender: x 
