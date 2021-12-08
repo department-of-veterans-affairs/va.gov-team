@@ -8,7 +8,10 @@ The VA Health Apartment team is conducting user testing of its homepage and high
 
 The feedback from this research will inform future iterations of both the homepage and sitemap, as well as the overall design of the health apartment concept.
 
-## Research questions
+### Background **<< Added this section**
+The Health Apartment Team is designing a proof of concept for the health "apartment." This concept consolidates and streamlines the health experience by moving My HealtheVet and other VA health content into VA.gov. This project maintains the vision of the Digital Modernization Strategy set in 2017: to provide a single, high-quality digital version of every health product or tool, plus the ability for a Veteran to see all of their VA benefits - health, disabililty, education, and other - in one place, on VA.gov.
+
+### Research questions
 This study focuses on 3 main areas:
 * **Critical tasks:** What are the critical actions a Veteran wants to see right away on the homepage?
 * **Vital information:** What information do veterans need to see on the homepage prior to signing in (unauthenticated homepage)? After signing in (authenticated homepage)?
