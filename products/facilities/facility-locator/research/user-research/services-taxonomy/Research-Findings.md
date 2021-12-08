@@ -207,19 +207,21 @@ _Next steps here. Include owners if appropriate._
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
+- LGBTQ+ Vets may categorize that service differently; more participants
+- Minority Vets may categorize that service differently; more participants
 
 # Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/services-taxonomy-research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/services-taxonomy-conversation-guide.md)
 
 [Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Synthesis Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1637341823231/41fe6212a7720bc245fb5fb8abe2b140a618a420?sender=u8a90be72499ecb4354e14700)
 
 
 ## Pages and applications used
@@ -247,45 +249,37 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **14 participants.**
+We talked to **14 participants**:
 
-Audience segment:
-* Veterans: 14
-
-Gender:
-* Male: 10 
-* Female: 4
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
+- All participants were Veterans
+- Devices:
+    - Desktop/laptop:
+    - Mobile devices:
+- Genders:
+    - Male:
+    - Female:
+    - It is unknown if any participants identified as LGBTQ+
+- Age groups:
+    - 25-34: x
+    - 35-44: x
+    - 45-54: x
+    - 55-64: x
+    - 65+: x
+    - Unknown: x
+- Educational background:
+    - High school or equivalent:
+    - Some college (no degree):
+    - Associate's degree, trade certificate or vocational training:
+    - Bachelor's degree:
+    - Master's degree:
+    - Doctorate degree:
+    - Unknown:
 
 Devices used during study: 
 * Desktop: x 
 * Tablet: x 
 * Smart phone: x 
 * Assistive Technology: x
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
 
 
 Geographic location:
