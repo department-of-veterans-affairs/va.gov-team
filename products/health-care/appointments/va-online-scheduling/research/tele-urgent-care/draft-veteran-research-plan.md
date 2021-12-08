@@ -1,34 +1,22 @@
 ## Research Plan: Tele-Urgent Care Veteran Study
 
-
 ## Background
 
 The PTEMS Tele-Urgent Care experience is focused on the Veteran experience of getting access to care, specifically remotely. Can Veterans get non-emergency care from home, and do they know their options when it comes to telemedicine? 
-
 
 ## **High Level Objectives**
 
 This effort supports these Office of Connected Care’s Goals: 
 
+1. Increase the usage of Tele-Urgent care, reducing ED visits
 
+2. Decrease the wait times for Veterans seeking Tele-Urgent Care services
 
-1. 
-Increase the usage of Tele-Urgent care, reducing ED visits
-
-
-2. 
-Decrease the wait times for Veterans seeking Tele-Urgent Care services
-
-
-3. 
-Improve Veteran awareness and clarity of access to Tele-Urgent Care services
+3. Improve Veteran awareness and clarity of access to Tele-Urgent Care services
 
 ## **Research Goals**
 
 The goal of this study is to understand the Veteran’s end to end experience of receiving urgent care remotely and discover unmet Veteran needs that might inform Tele-Urgent Care and related CRM implementations.  \
-
-
-
 
 1. Develop a thorough understanding of the Veteran’s end-to-end experience of accessing immediate care at the VA. \
 
@@ -37,46 +25,26 @@ the CRM solution.
 3. What new opportunities might we uncover to improve the Veteran  \
 experience of Tele-Urgent Care? 
 
-
 ## Hypotheses
 
 Uncovering opportunities to optimize the Veteran’s experience of Tele-Urgent Care will inform the development of an integrated, modern VAHC, and an optimized workflow will improve the overall Veteran Tele-Urgent care experience, reduce wait times, reduce call abandons, and reduce emergency department visits. 
 
 We hypothesize that Veterans who utilize Tele-Urgent Care will reduce their need to visit the Emergency Room, and will increase the quality and efficiency of care they receive at the VA.
 
-
 ## Research questions
 
+* What do Veterans need/want when seeking care that is defined as not emergent, but urgent and fits the recommended follow up interval of 0-2 or 2-8 hours for   diagnosis and treatment?
 
+* Do Veterans have any awareness of such offerings currently and can Veterans easily distinguish between types of care?
 
-* 
-What do Veterans need/want when seeking care that is defined as not emergent,  \
-	but urgent and fits the recommended follow up interval of 0-2 or 2-8 hours for  \
-	diagnosis and treatment?
+* Do Veterans understand the technology needs for virtual visits?
 
+* Is the technology and the communication of requirements accessible to Veterans and/or their caregivers? 
 
-* 
-Do Veterans have any awareness of such offerings currently and can Veterans  \
-	easily distinguish between types of care?
+* Do Veterans feel secure in virtual visit environments?
 
-
-* 
-Do Veterans understand the technology needs for virtual visits?
-
-
-* 
-Is the technology and the communication of requirements accessible to Veterans  \
-	and/or their caregivers? 
-
-
-* 
-Do Veterans feel secure in virtual visit environments?
-
-
-* 
-What information does a Veteran find helpful in preparing for a Tele-Urgent visit?
+* What information does a Veteran find helpful in preparing for a Tele-Urgent visit?
 **[Link to conversation guide](https://docs.google.com/document/d/1MVtGspB3b8bxkxv7o9sJZmiWS-9OzD8CC-ly-yswX00/edit?usp=sharing)**
-
 
 ## Method
 
@@ -88,13 +56,7 @@ Remote, contextual inquiry and observation will be used to gain a broader unders
 We will utilize the Perigean contract recruiting. We'd like to schedule 10 participants to reach our goal of observing 5 participants.
 
 Participant Criteria:
-
-
-
-* 
-Must have:
-
-
+* Must have:
     * Have accessed Veteran healthcare before
     * All genders
     * Age 65+
@@ -117,21 +79,14 @@ Must have:
         * Voice recognition
     * Be able to screen share via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screen share.
 
-
-
-* 
-Good to have: 
-
-
+* Good to have: 
     * At least 1 participant 35 or under and 1 participant over 65
     * Two participants with different accessibility needs
     * At least one participant with mobility restrictions
 
 
 ## Timeline
-
 Study dates: Tuesday January 4, 2022 - Tuesday, January 11, 2022
-
 Session length: 1 hour
 
 <table>
@@ -178,7 +133,6 @@ Session length: 1 hour
    </td>
   </tr>
 </table>
-
 
 A pilot session will be held TBD at TBD AM.
 
