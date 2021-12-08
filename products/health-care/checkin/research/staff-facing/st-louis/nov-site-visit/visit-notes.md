@@ -18,6 +18,7 @@
     * 1 chiropractor (2 days a week)
     * 1 occupational therapist, physical therapist, and acupuncturist (1 day a week)
     * Will be starting again soon…cardiologist once a month
+* First patient appoint of the day is 9 AM for primary care and 8 AM for PT.
 * Patient population: 1,800
 * There is one waiting room for all of the above providers with ~20 seats; however, most of the seats are covered to promote social distancing
 * 2 of the MSA sit at the front counter that is visible to the waiting room; however, they are planning a redesign, so all three MSAs can be out front.
@@ -31,8 +32,10 @@
     * Teams
     * VSE GUI
     * ICB (Insurance Capture Buffer)
+    * CPRS
         * If all systems go down they will revert to writing everything down on paper, then enter it when the systems come back up.
         * They have gone back to VistA, but MSAs aren’t really taught VistA anymore. Multiple MSAs discussed learning VistA on the job when necessary.
+* When asked, staff did not know about the After Visit Summary/Pre-visit Summary product. 
 * Providers have access to VetLink, but not VSE.
 * A lot of their walls have art or posters on them. There isn’t a lot of wall space.
 * They don’t really have long lines of Veterans waiting (according to MSAs)
@@ -42,8 +45,13 @@
     * Next closest clinics are: 
         * St. Charles about 30 min away 
         * Jefferson City and St. James about an hour away
+    * It is about a 1 hour drive to John Cochran (main VA hospital)
+        * There are two main hospital campuses in St Louis: John Cochran, which is the main facility and Jefferson Barracks which is mostly rehab and mental health
+* Labs are walk-in except for PTT/INR appts. From Coumadin clinc.
+     * Pharmacy has scheduled appointment, no walk-ins.
 * Posters for VeText's "I am here" product in the parking lot are covered, so as not to be used
     * Vets have sat in car for an hour plus, because of no alert to MSAs when using VeText.
+    * Often doesn't show that they've checked in. Sometimes the VeText email comes 2 hours later. Also, if the cell number is not linked to the vet's account, then the message never shows up. For example the Veteran uses a wife's phone or caregiver's phone that isn't in the system.
 
 ### General quote from staff about our visit
 - “So glad you came.”
@@ -70,15 +78,16 @@
 ### Patient Tracking
 * For patient tracking, multiple of the staff members mentioned previous use of the Bingo Board in CPRS
 * Clinical manager and MSA mention the VeText? (might be VetLink) capability of a notification that flashes at the top and says there is a new patient. It flashed at the top, so it doesn’t matter what clinic you are viewing.
-* There is a screener at the front door. The door is closed, so everyone interacting must talk to the screener. The screener asks COVID questions and takes everyone’s temperature. They ask for the Veteran's name, then send out a Teams message to their clinic channel that the Veteran has entered the building. 
+* There is a screener at the front door. The door is closed, so everyone interacting must talk to the screener. The screener asks COVID questions and takes everyone’s temperature. They ask for the Veteran's name, then send out a Teams message (with patient name, temp and provider team) to their clinic channel that the Veteran has entered the building. 
 * Nurses do look at VetLink, but the MSAs also send a Teams message to the clinic channel as a back-up, when a Veteran checks in.
     * They didn’t really send Teams messages prior to COVID. They only relied on VetLink.
+    * They ike that the Teams icon changes colors when there is a new message.
 * Upon a successful check-in, a routing sheet and medication list automatically print outs. 
     * The MSAs take these sheets and place them in the appropriate provider’s folder.
     * The med list has future appointments on it.
-        * It is a JCO? Requirement.
+        * It is a JCAHO compliance requirement.
         * They tell patients to bring their medications into their appointment with them, so they can review if the patient is taking them correctly.
-    * This cover sheet is really all that a patient goes home with. Providers may write notes on this cover sheet.
+    * This cover sheet is really all that a patient goes home with. Providers may write notes on this cover sheet. It serves as an After Visit Summary.
 * When a Veteran check-in at this clinic, they check them in for all of their appointments for the day (even if they have multiple and it isn’t just a triage appointment)
     * As a result, the routing sheet is important to know where all the patient has to go that day.
     * The provider either walks them to their next appointment or sends a Teams message (Channel called “Franklin screening”) to the clinic channel that the Vet is back in the waiting room.
@@ -94,10 +103,11 @@
 * For some reason, all their PT, chiropractic, acupuncture, and OT appointments tell the patient that they are in the wrong are when checking in via the kiosk. This causes confusion, because the patients aren’t in the wrong spot.
 * MSA find having to help Veterans with the kiosk as often as they do to be a big frustrations.
     * If they don’t have their card, then the MSAs often have to talk Veterans through how to check-in with their SSN.
+* VetLink shows the most recent patient at the top. It will flash "new patient" if you are in another screen.
 
 ### VSE Feedback
 * It doesn’t automatically refresh, so you can’t see the colors change for the patient statuses on the calendar until you force a refresh.
-    * When you click the refresh button on the screen, it clears out the clinical view (calendar and bottom part of the screen). When you are trying to observe the patient’s status, this is a problem.
+    * When you click the refresh button on the screen, it clears out the clinical view (calendar and bottom part of the screen). When you are trying to observe the patient’s status, this is a problem. You have to leave the screen and come back to see patients populate. There is also a lag when refreshing.
 * There is a lag time when looking at VSE GUI.
 * Access to correct clinics need to be easier. Currently, they have to manually pull them up often. - Mentioned by MSA and MSA lead. 
 
@@ -117,7 +127,7 @@
 * For Power of Attorney, the MSEs send the paperwork to the social worker.
 * If a Veteran needs to update their next of kin or emergency contact, the MSAs tell them to…
     * Go to the kiosk
-    * Go to eligibility (which is at a different location, which takes some time to get to). This can be done over the phone with the eligibility office as well.
+    * Go to eligibility (which is at a different location, John Cochran, which takes some time to get to). This can be done over the phone with the eligibility office as well.
     * Send the information to the eligibility office via interoffice mail.
 * If a Veteran needs their insurance reviewed (they are listed in ICB), the MSAs call the patient up to the desk.
     * They print out the list from ICB first thing in the morning.
@@ -126,7 +136,8 @@
 
 ### Pre-check-in
 * Currently they call all of their patients 7 days prior to their appointment
-    * LPNs spend a lot of time on these calls
+    * LPNs spend a lot of time on these calls.
+    * They are a reminder to the vet about the appointment as wel as instructions to bring any outsides records, bring in their meds, answer questions about why they're being seen, and confirm any needed updates to their informaiton.
 * They worry about appointment notification overload. Patients get so many reminders that they start to ignore them. 
     * Even with this overload, a few Veterans a week will show up for an appointment at the wrong time or the wrong day.
         * Some providers will still try to squeeze them in if possible.
@@ -155,7 +166,8 @@
 * Goes over the clinic schedule in a clinic huddle each morning
     * Reviews any changes
     * Normally pulls the schedule mid-day to the end of the day for the next day
-* Review ICB list every morning
+* Review ICB list every morning of who needs to have their insurance reviewed. They must cross reference the ICB list with their patient list (scheduled appts).
+    * The ICB list shows check-in status, but sometimes this gets missed.
 * Mail lab results letters
 * Handles a lot of faxes about medical records
     * Adding outside VA records, so VA providers can review 
@@ -235,9 +247,17 @@
 ### Concerns about mobile check-in
 * Worked about their older patient population
     * Some don’t have cell phones
-* Cell reception is a concern
+* Cell reception is a concern 
+    * The big providers (AT&T, TMobile, and Verizon) usually have service in the waiting room but the smaller providers have no service. 
 * Being notified that the Veteran checked in within a timely manner is a concern.
     * This didn’t happen with VeText. Veterans would be sitting in their car for an hour and they never received a notification. Other times, the notification came 20 minutes after the Veteran sent the text.
+
+### Quotes:
+* “We rely very heavily on vetlink to tell us when someone is here”
+* “The functionality of vetlink is quite robust”
+* “We need something to blink on something” (when a patient checks in)
+* “what I like about vet link is it flashes”
+* “They could never get rid of VistA”
 
 ## St. Charles County VA Clinic in O’Fallon, Missouri
 
