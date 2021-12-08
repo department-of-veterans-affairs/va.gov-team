@@ -9,7 +9,7 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 - [My VA 2.0 Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va)
 
 ## Problem
-> *The pain point to resolve is that veterans expect to have their financial information available on the My VA dashboard, without having to search VA.gov for it.* 
+> *The pain point to resolve is that veterans expect to have their personalized financial information available on the My VA dashboard, without having to search VA.gov for it.* 
 * What is the problem and who is affected?*
      * Logged-in veterans have to perform a search or access the homepage to find links to their compensation and/or debt information
 * And, what evidence do we have of the problem? 
