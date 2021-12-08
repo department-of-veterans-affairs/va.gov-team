@@ -35,6 +35,17 @@
 
 </details>
 
+## December 8, 2021
+* Promo banners (any questions?)
+* Recurring events
+  * Open questions from last week?
+  * Are there things that can be worked on now?
+  * What needs to wait for usability testing to complete?
+  * Are there any data concerns from a CMS standpoint?
+  * url structure TBD
+  * Repeats monthly may be an issue
+  
+
 ## December 1, 2021
 * Promo banners (any questions?)
 * Recurring events
