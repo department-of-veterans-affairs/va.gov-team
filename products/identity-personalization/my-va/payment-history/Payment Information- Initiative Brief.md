@@ -23,7 +23,6 @@ This effort aims to add payment information to the My VA dashboard to be elevate
     * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status
     * Become a place where users can complete quick tasks related to their benefits
 
---
 ## Desired User Outcomes
 - *Why would a user want to use this?*
     * This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans
