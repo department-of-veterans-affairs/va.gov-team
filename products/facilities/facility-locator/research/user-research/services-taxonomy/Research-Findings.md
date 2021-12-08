@@ -18,7 +18,7 @@ Date: MM/DD/YYYY
 
 [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#recommendations)
 
 [Who we talked to](insert link to section)
 
