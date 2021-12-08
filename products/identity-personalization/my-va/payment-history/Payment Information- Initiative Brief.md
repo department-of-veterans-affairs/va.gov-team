@@ -146,6 +146,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
   - Survivors comp (DIC)
   - Caregiver program
   - VA Homeloans information
+  - Co-pay details (future enhancement as data comes available)
 
 --- 
 
