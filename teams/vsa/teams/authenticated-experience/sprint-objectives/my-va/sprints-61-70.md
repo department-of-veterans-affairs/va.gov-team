@@ -134,7 +134,11 @@ Research planning/midpoint review planning
 
 **FE**
 
-- Technical discovery
+- Technical discovery. Based on this, Taylor should be able to define how the following will work:
+  - Whether Tressa's proposal for when this section will show (or not) works
+  - How he will retrieve the payment information we tend to show
+  - How he will show the debt information we need to show
+  - Any other technical details that we should define before moving into implementation 
 
 
 ## Sprint 64 (12/29 - 1/11)
