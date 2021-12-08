@@ -24,8 +24,28 @@
 </details>
 
 ## December 8
-- Vet Center analytic request fulfillment/KB article
-- Potential collaborative quarterly planning
+
+### Vet Center
+
+Vet Center analytic request fulfillment/KB article
+
+Improved help text to reduce duplicate 
+- just a quick update, this is in progress, hopefully on prod by the end of the week
+
+District 4 onboarding
+
+
+
+### VAMC
+
+Top tasks update from Ryan and Aman
+
+
+
+### General
+
+Potential collaborative quarterly planning
+
 
 ## December 1
 
