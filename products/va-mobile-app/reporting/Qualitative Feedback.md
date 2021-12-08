@@ -5,6 +5,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/6/21: "I love how this app makes it easier to navigate than the VA website. It's real quick to check the status of my C&P exam, and the list of upcoming medical appointments I have. I was even able to upload needed paperwork for my compensation and pension exam right from this app. I can track the status of my C&P exam, and update to any personal information for my VA account right from this app." (Apple store review)
+
 - 12/1/21: "The app is a great first step! I mean, it's ten years overdue, but it's the VA after all. I didn't have high expectations, but the app is clean, easy to navigate and offers veterans quick access to their information. It can only get better (I hope) and offer more information. Ideally, it can be a one-stop shop for all VA-related info, so no need to bounce between the VA site, eBenefits and other sites searching for info. Please don't stop updating!" (Apple store review)
 
 - 11/30/21: "Really I was thinking oh great another .gov app! But this one is different! Easy to use and works well! I'm impressed!!" (Apple store review)
