@@ -1,4 +1,4 @@
-#### Overview
+# My VA - Payment Information section - Initiative Brief 
 
 ## Outcome Summary
 >Throughout My VA 2.0 research and discovery in 2020 - 2021, the recurring theme mentioned by veterans is that seeing payment info on their My VA dashboard is a high priority.  The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.  
