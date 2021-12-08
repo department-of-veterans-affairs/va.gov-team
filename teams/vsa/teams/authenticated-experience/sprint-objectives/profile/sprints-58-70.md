@@ -240,11 +240,17 @@ Anything unfinished from last sprint, plus...
 
 ### Personal information updates
 
-Recruit for testing if possible
+This depends on whether the Perigean contract is back up and running.
+
+**Design**
 
 - Recruit for testing if contract is back
-- Start BE if possible
+
+**FE**
+
 - Continue whatever is left of the frontend build
+
+**Will need to find more work for Christina and Liz**
 
 ## Sprint 64 (12/29 - 1/11)
 
