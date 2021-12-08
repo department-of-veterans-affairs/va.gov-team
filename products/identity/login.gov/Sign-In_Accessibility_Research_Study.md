@@ -109,7 +109,7 @@ Remote, semi-moderated sessions
 > Provide a link to any materials you need to run your study, including any materials needed for setup and recruitment.  
 
 For moderated usability tests:
-- [Link to conversation guide](url goes here)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Sign-In_Accessibility_Conversation_Guide.md)
 - [Zoom](https://zoom.us/) or [www.webex.com](https://www.webex.com/)
 - [www.va.gov](https://www.va.gov/)
 
