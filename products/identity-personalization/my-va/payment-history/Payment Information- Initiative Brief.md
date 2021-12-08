@@ -23,7 +23,9 @@ This effort aims to add payment information to the My VA dashboard to be elevate
     * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status
     * Become a place where users can complete quick tasks related to their benefits
 
-## Desired User Outcomes
+## User Outcomes
+
+### Desired User Outcomes
 - *Why would a user want to use this?*
     * This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans
     * Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
@@ -32,12 +34,13 @@ This effort aims to add payment information to the My VA dashboard to be elevate
     * With this problem solved, Veterans will more easily be able to access payment history or view outstanding debts, which may result in quicker task completion
     * With this problem solved, Veterans may be able to more fully engage with the VA
 
-## Undesired User Outcomes
+### Undesired User Outcomes
 - We do not want this section to cause confusion or add to their cognitive load.  It should be informative and usable
 - We do not want the My VA page to become too cluttered or cumbersome, slowing down veterans, instead of expediting their experience
  
+## Business Outcomes
 
-## Desired Business Outcomes
+### Desired Business Outcomes
 
 - *Why would your business want this to exist?*
     * The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status,so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
@@ -48,7 +51,7 @@ This effort aims to add payment information to the My VA dashboard to be elevate
     * Reduce the number of payment or debt related searches
 
 
-## Undesired Business Outcomes
+### Undesired Business Outcomes
 - We do not want the My VA page to become cumbersome and unusable
 - We do not want the payment information section to display irrelevant or incorrect information
 
@@ -56,7 +59,7 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 ---
 ## Measuring Success
 
-### Looking ahead to Q1 2022
+### Looking ahead to Q1 2022 - These OKR/KPIs are potential suggestions only, and not yet finalized.
 
 - **Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
 
