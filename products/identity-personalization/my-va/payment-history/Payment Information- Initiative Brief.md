@@ -20,7 +20,7 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 * Other reasons why this might be occurring? 
      * Veterans may have difficulty finding the appropriate links to access their financial information
 * How does this initiative help further OCTO-DE's mission and goals?
-     * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status
+    * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status
     * Become a place where users can complete quick tasks related to their benefits
 
 --
@@ -29,13 +29,13 @@ This effort aims to add payment information to the My VA dashboard to be elevate
     * This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans
     * Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-    * With this problem solved, Veterans will more easily be able to view their payment and debt information, instead of having to perform searches on the site
+    * With this problem solved, Veterans will more quickly view their payment and debt information, instead of having to perform searches on the site
     * With this problem solved, Veterans will more easily be able to access payment history or view outstanding debts, which may result in quicker task completion
     * With this problem solved, Veterans may be able to more fully engage with the VA
 
 ## Undesired User Outcomes
-- We do not want Veterans to feel that this page is another place they have to check or another place that may have duplicative information to other parts of the VA.gov site. We want this page to be informative, not cause confusion or add to their cognitive load
-- Additionally, if the page becomes too cluttered or cumbersome, it may slow down veterans, instead of expediting their experience
+- We do not want this section to cause confusion or add to their cognitive load.  It should be informative and usable
+- We do not want the My VA page to become too cluttered or cumbersome, slowing down veterans, instead of expediting their experience
  
 
 ## Desired Business Outcomes
@@ -50,8 +50,8 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 
 
 ## Undesired Business Outcomes
-- We do not want the My VA dashboard page to become cumbersome and unusable
-- We do not want the payment information section to display irrelevant information
+- We do not want the My VA page to become cumbersome and unusable
+- We do not want the payment information section to display irrelevant or incorrect information
 
 
 ---
@@ -124,7 +124,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
   - There is a question on whether we should display the last payment amount made to the veteran, and a link to outstanding debts OR a debt amount due, with a link to the payment history.  We will be conducting usability testing to determine the most effective and useful information to display to veterans.
-  - At this time, our research states that direct deposit management and travel reimbursement are the other top financial related searches, and we intend to include a link to manage each of them.  
+  - Our research shows that direct deposit management and travel reimbursement are other top financial related searches, and we intend to include a link to manage each of them.  
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
@@ -132,10 +132,11 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 **In Scope - MVP**
   - Most recent payment
-  - Manage Direct deposit [link]
-  - View Payment History [link]
-  - Request travel reimbursement [link]
   - Dynamic debt link ('You've got 2 outstanding debt payments)
+  - Manage Direct deposit [link]
+  - View all payments [link]
+  - Request travel reimbursement [link]
+
 
 
 **Not In Scope** 
@@ -150,7 +151,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket #33468
+- Kickoff ticket [#33468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33468)
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
