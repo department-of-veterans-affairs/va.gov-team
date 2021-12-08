@@ -32,7 +32,9 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 ### Usability Issues
 1. 7 of 8 participants had strong negative reactions to finding events with only a date filter, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. They instead wanted to filter by location (i.e., their state) or type of event (i.e., XXXX), or do a keyword search (i.e., for "yoga" or "Veteran jobs" or "Memorial Day"). 
 > "I wouldn’t filter by date because I don’t know when it is" (p10).
+
 > "Too much of everything with random events--like a classified section" (p2).
+
 > "I wouldn't have a clue on this site how to look that up. I would probably end up looking under 1, 2, 3, and Next. You'd probably end up having to go through every cotton-pickin' one and press page 2, look, look, page 3, look, look because there's no way to break it down. You'd have to look at every single page and read every one to see if you could find it" (p1).
 
 ### Other Observations
