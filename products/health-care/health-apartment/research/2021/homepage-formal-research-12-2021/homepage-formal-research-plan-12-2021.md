@@ -21,6 +21,8 @@ LINK FOR CONVERSATION GUIDE
 
 ## Recruitment criteria
 
+Determine how many participants...
+
 ### Primary recruitment criteria: 
 
 **Familiarity with My HealtheVet** <br>
