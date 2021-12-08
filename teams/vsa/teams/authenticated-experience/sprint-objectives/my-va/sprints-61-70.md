@@ -125,12 +125,14 @@ Research planning/midpoint review planning
 
 **PM**
 
-- Midpoint review planning, including starting to put together list of test cases
+- Schedule midpoint review for next sprint
+- Put together list of test cases
 
 **Design**
 
 - Finish design if not already done
 - Research planning/convo guide
+- Work with PM on list of test cases
 
 **FE**
 
