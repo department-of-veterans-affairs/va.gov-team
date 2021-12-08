@@ -146,6 +146,8 @@ VA services are not always accessible across the digital divide and to those wit
    <td>
 <ul>
 
+<li>Login.gov credential
+
 <li>Login experience discovery (login screen)
 </li>
 </ul>
@@ -368,6 +370,7 @@ VA services are not always accessible across the digital divide and to those wit
 * Discovery: enhancements to military records
 * Push Notifications architecture
 * Push notifications for SM
+* Login.gov credential (carry over testing)
 * Login experience discovery (login screen)
 * Redesign (personalization, search, IA, design refinements exploration)
 * Content Audit
@@ -413,6 +416,7 @@ VA services are not always accessible across the digital divide and to those wit
 * Information Architecture research
 * Dark Mode (almost)
 * Demo Mode (almost)
+* Login.gov credential (almost)
 
 # Milestones Roadmap
 
