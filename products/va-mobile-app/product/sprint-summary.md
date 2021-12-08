@@ -5,6 +5,37 @@ Sprint planning and goals are tracked in [here](https://docs.google.com/presenta
 ## Sprint: 11/10/21 - 11/23/21
 
 - View Vaccine Records
+  - Vaccine manufacturer design, BE development complete
+  - Completed another round of vaccine incomplete state design work (implementation to be deprioritized and put in the backlog)
+
+- Identity
+  - Validated Login.gov implementation, attributes are returning as expected
+  - Direct Deposit:  Backend dev complete added direct deposit mfa flags
+
+- Enhanced Demo Mode
+  - Completed Enhanced Demo Mode by adding data for Vaccine & Community Care appts, and Legacy Appeal
+
+- Tech/Design Debt & Maintenance
+  - Fixed date time zone issue display for benefits & summary letter (Sev 2)
+  - Documentation site - continuing to build our pages and draft content
+
+- Dark Mode
+  - Completed v.1 implementation, reviewed and listed styling changes, began implementing changes 
+
+- Redesign 
+  - Personalization wireframes ready for UX meeting and tree-testing materials drafted for future
+
+- Secure Messaging Refinements
+
+  - Added ability to Move messages into folders, updated “Trash” with folder capabilities to match VA.gov functionality 
+
+- RX Refill
+   - Alex held user research sessions for RX Refill
+
+
+## Sprint: 11/10/21 - 11/23/21
+
+- View Vaccine Records
   - Vaccine Records MVP released to production on 11/23 
   - Began work on vaccine 2.0
 
