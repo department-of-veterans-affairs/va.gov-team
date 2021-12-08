@@ -96,9 +96,13 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 # Hypotheses and Conclusions
 
 1. Veterans will associate most services with existing category headings.
+    - **Definitely true:**
 2. Veterans will create new categories for some of the existing services.
+    - **Maybe true:**
 3. Veterans will create new categories for some of the new services.
+    - **Likely false:**
 4. Some of the existing, and new, services will cause confusion, and may require plainer language.
+    - **Likely true:**
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
@@ -108,6 +112,14 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+
+[Potential findings]
+- Most participants felt the existing categories were adequate
+- Most participants did not create new categories
+- A few participants did create new categories, most commonly related to Veterans leaving active service and entering the VA system ("Onboarding", "Transition", "Incoming Veterans", "I'm out now what", ...) 
+- All participants utilized the new "Administrative" category
+- Most participants needed explanations for the same services (Registry exams, Veteran connections, ...)
+- 
 
 1. Finding one
 
