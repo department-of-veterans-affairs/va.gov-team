@@ -2,7 +2,7 @@
 
 [IN PROGRESS]
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Facilities Team**
+**Office of the CTO - Digital Experience (OCTO-DE), Facility Locator, Facilities Team**
 
 Date: MM/DD/YYYY
 
@@ -38,20 +38,74 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+1. Do the existing categories accurately reflect Veteran expectations of where to find services on VAMC pages?
+2. Will Veterans create additional categories for existing services?
+3. Will Veterans create additional categories for new services?
+4. Are there services that are confusing, or need to be described using plainer language?
+5. Do existing category names cause confusion, or do they need to described using plainer language?
 
 # Methodology 
 
-_Brief description of method chosen_
+This study will utilize a moderated card sort, via [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools. The card sort allows participants to arrange services into the categories they think fit them best, or, to create new categories if the existing categories aren't a good fit.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
+- **TASK:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
+<details>
+<summary>Card sort services list</summary>
+
+    Higher priority:
+    
+    - Medical records
+    - Wheelchair and mobility
+    - Whole health
+    - Women Veteran care
+    - Workshops and classes
+    - Billing and insurance
+    - Chaplain service
+    - Library services
+    - Radiology
+    - Advice nurse
+    - LGBTQ+ Veteran care
+    - Military sexual trauma care
+    - Minority Veteran care
+    - Social work
+    - Caregiver support
+    - Registry exams
+    - Returning service member care
+    - Smoking and tobacco cessation
+    - Substance abuse care
+    
+    Lower priority:
+    
+    - Grief and bereavement counseling
+    - MOVE! weight management
+    - My HealtheVet coordinator
+    - Nutrition, food, and dietary care
+    - Patient advocates
+    - Recreation and creative arts therapy
+    - Applying for health care
+    - Travel reimbursement
+    - Veteran connections
+    - Vocational rehabilitation and employment programs
+    - Employment verification
+    - Freedom of Information Act requests
+    - Privacy office
+    - Make an appointment
+
+</details>
+        
+        
+<details>
+<summary>Card sort categories list</summary>
+
+    - Primary care
+    - Mental health care
+    - Specialty care
+    - Social programs and services
+    - Prepare for your visit
+    - Administrative
+    - * Add a new category *
+
+</details>
 
 
 # Hypotheses and Conclusions
