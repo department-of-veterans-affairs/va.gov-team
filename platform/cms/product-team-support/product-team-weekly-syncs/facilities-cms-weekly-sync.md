@@ -29,18 +29,17 @@
 
 Vet Center analytic request fulfillment/KB article
 
-Improved help text to reduce duplicate 
+Improved help text to reduce duplicate service content
 - just a quick update, this is in progress, hopefully on prod by the end of the week
 
 District 4 onboarding
 
 
-
 ### VAMC
 
-Top tasks update from Ryan and Aman
+CMS update on Care we provide (2 min)
 
-
+Top tasks update from Ryan and Aman 
 
 ### General
 
