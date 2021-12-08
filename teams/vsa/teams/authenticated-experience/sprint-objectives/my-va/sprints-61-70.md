@@ -112,7 +112,7 @@ Resume project
 - Samara: 12/23-24; 12/29-31
 - Heather: 12/23-24; 12/31
 - Marci: 12/23-27; 12/30-31
-- Tressa:
+- Tressa: 12/24; 12/29-31
 - Liz: 12/24-31
 - Christina: 12/23-31
 - Taylor: 12/24; 12/31
