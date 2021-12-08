@@ -110,11 +110,10 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
+1. Veterans will associate most services with existing category headings.
+2. Veterans will create new categories for some of the existing services.
+3. Veterans will create new categories for some of the new services.
+4. Some of the existing, and new, services will cause confusion, and may require plainer language.
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
