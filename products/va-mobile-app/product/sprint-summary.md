@@ -2,7 +2,7 @@
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 
-## Sprint: 11/10/21 - 11/23/21
+## Sprint: 11/24/21 - 12/7/21
 
 - View Vaccine Records
   - Vaccine manufacturer design, BE development complete
