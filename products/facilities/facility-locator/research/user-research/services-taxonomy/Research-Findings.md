@@ -48,7 +48,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 This study will utilize a moderated card sort, via [Optimal Workshop's](https://www.optimalworkshop.com/) UX research tools. The card sort allows participants to arrange services into the categories they think fit them best, or, to create new categories if the existing categories aren't a good fit.
 
-- **TASK:** Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
+- Participants will perform a hybrid card sort for a list of new and currently existing services. The categories will include existing health services headings ("Primary care", "Mental health care", etc.), new suggestions, as well as the option to add additional categories.
 <details>
 <summary>Card sort services list</summary>
 
