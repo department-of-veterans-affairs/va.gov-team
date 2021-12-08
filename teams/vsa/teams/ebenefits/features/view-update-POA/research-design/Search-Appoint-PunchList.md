@@ -5,7 +5,10 @@
 
 ---
 
-See [Reference mockups - Search for Rep (Download Filled PDF) v2](https://sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2) and [Content ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31230#issuecomment-971753694).
+See:
+- [Reference mockups - Search for Rep (Download Filled PDF) v2](https://sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2)
+- [Content ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31230#issuecomment-971753694)
+- [IA ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23490#issuecomment-954209791)
 
 ### Find Rep - intro (25/62)
 - [ ] ADD: breadcrumb and padding
