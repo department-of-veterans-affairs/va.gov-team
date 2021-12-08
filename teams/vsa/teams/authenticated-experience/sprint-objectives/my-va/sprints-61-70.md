@@ -107,7 +107,16 @@ Resume project
 ## Sprint 63 (12/15 - 12/28)
 [Sprint 63 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30189)
 
+### PTO
 
+- Samara: 12/23-24; 12/29-31
+- Heather: 12/23-24; 12/31
+- Marci: 12/23-27; 12/30-31
+- Tressa:
+- Liz: 12/24-31
+- Christina: 12/23-31
+- Taylor: 12/24; 12/31
+- Lihan: 12/10-24
 
 ## Sprint 64 (12/29 - 1/11)
 [Sprint 64 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30269)
