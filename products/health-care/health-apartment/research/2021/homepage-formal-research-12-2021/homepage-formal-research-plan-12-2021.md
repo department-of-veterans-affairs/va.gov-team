@@ -21,7 +21,7 @@ LINK FOR CONVERSATION GUIDE
 
 ## Recruitment criteria
 
-We will test the homepage and sitemap concepts with people who are Veterans. 
+TKTKTK 
 
 ## When?
 Conduct research: December 16-22, 2021
