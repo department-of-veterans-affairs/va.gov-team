@@ -23,7 +23,7 @@ LINK FOR CONVERSATION GUIDE
 
 ### Primary recruitment criteria: 
 
-**Familiarity with My HealtheVet**
+**Familiarity with My HealtheVet** <br>
 Ideally get at least 2 participants from each: 
 * Signed in to MHV in the past 6 months
 * Signed in to VA.gov in the past 6 months
@@ -33,14 +33,14 @@ Note:
 * Some Veterans don’t differentiate between MHV and VA.gov. Some call MHV “the VA’s website” and don’t know about VA.gov.
 * Veterans with VA health care typically go straight to MHV; however, they don’t always realize they are on VA.gov after following a link for something like “schedule an appointment.” 
 
-**Age/era of service**
+**Age/era of service** <br>
 Ideally get at least 1 participant from each: 
 * Left the military within the last 3 years
 * Served in Operation Enduring Freedom or the Iraq War
 * Served in the Gulf War
 * Served in the Vietnam War
 
-**Use of VA benefits**
+**Use of VA benefits** <br>
 Ideally get at least 1 participant from each: 
 * Uses VA health care only, or health care + disability compensation — but no other benefit types (e.g., housing, education)
 * Uses health care + other VA benefit type(s)
