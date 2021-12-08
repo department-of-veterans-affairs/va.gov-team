@@ -27,14 +27,8 @@ Date: MM/DD/YYYY
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+As part of the effort to align benefits and services across VAMC pages, we need to determine how Veterans expect services to be categorized. This study is seeking validation for existing services and their categories, as well as for potential new services (tasks, rather, as opposed to official VHA services) identified in [previous services taxonomy audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/services-taxonomy/taxonomy-research-2021).
 
 # Research Questions
 
