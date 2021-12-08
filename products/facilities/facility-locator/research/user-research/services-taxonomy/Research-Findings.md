@@ -4,27 +4,18 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Facility Locator, Facilities Team**
 
-Date: MM/DD/YYYY
-
 **Designer / Researcher:** Nick Osmanski (nick.osmanski@amida.com)
+
+Date: MM/DD/YYYY
 
 [Research Report PDF] (link here)
 
-<br>
-
-**Jump to:**
-
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#hypotheses-and-conclusions)
-
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#key-findings)
-
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#recommendations)
-
-[Who we talked to](insert link to section)
-
-[Further research needed](insert link to section)
-
-<br>
+- **Jump to:**
+    - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#hypotheses-and-conclusions)
+    - [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#key-findings)
+    - [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#recommendations)
+    - [Who we talked to](insert link to section)
+    - [Further research needed](insert link to section)
 
 # Research Goals
 
