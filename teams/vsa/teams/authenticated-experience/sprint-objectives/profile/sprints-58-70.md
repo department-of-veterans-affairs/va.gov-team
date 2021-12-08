@@ -214,7 +214,37 @@ Anything unfinished from last sprint, plus...
 
 ## Sprint 63 (12/15 - 12/28)
 
-- QA contact information after 12/17 on staging re: VA Profile migrating to new API
+### PTO
+
+- Samara: 12/23-24; 12/29-31
+- Heather: 12/23-24; 12/31
+- Marci: 12/23-27; 12/30-31
+- Tressa: 12/24; 12/29-31
+- Liz: 12/24-31
+- Christina: 12/23-31
+- Taylor: 12/24; 12/31
+- Lihan: 12/10-24
+
+
+### General profile needs
+
+**PM**
+
+- QA contact information after 12/17 on staging re: VA Profile migrating to new API to make sure all our functionality works
+
+**FE**
+
+- If time, I'd like Taylor to look into whether our direct deposit numbers are tracking correctly. I'm seeing far fewer loads of comp & pen information than edu information even though far more people receive comp & pen payments. This might involve pulling in an analytics person to help out.
+  - [Comp & pen report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/_u.date00=20211201&_u.date01=20211207/)
+  - [Edu report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/qEpkRFroTOSTpgaBDHXK4A/a50123418w177519031p176188361/_u.date00=20211201&_u.date01=20211207/)
+
+### Personal information updates
+
+Recruit for testing if possible
+
+- Recruit for testing if contract is back
+- Start BE if possible
+- Continue whatever is left of the frontend build
 
 ## Sprint 64 (12/29 - 1/11)
 
