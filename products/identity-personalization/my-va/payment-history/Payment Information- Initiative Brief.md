@@ -1,9 +1,9 @@
 #### Overview
 
 ## Outcome Summary
-> *Throughout My VA 2.0 research and discovery in 2020 - 2021, the recurring theme mentioned by veterans is that seeing payment info on their My VA dashboard is a high priority.  The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.  
+>Throughout My VA 2.0 research and discovery in 2020 - 2021, the recurring theme mentioned by veterans is that seeing payment info on their My VA dashboard is a high priority.  The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.  
 This effort aims to add payment information to the My VA dashboard to be elevated as part of the MVP.
-* .
+
 
 **Related/Associated product(s)**
 - [My VA 2.0 Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va)
@@ -11,48 +11,47 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 ## Problem
 > *The pain point to resolve is that veterans expect to have their financial information available on the My VA dashboard, without having to search VA.gov for it.* 
 * What is the problem and who is affected?*
-     * Logged-in veterans have to perform a search or access the homepage to find links to their compensation and/or debt information. 
+     * Logged-in veterans have to perform a search or access the homepage to find links to their compensation and/or debt information
 * And, what evidence do we have of the problem? 
-     * The terms “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA.  
-     * The same terms make up 4 of the top 20 search terms on VA.gov overall.
+     * The terms “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA 
+     * The same terms make up 4 of the top 20 search terms on VA.gov overall
 * Why do you think the problem is occurring? 
-     * There is no quick, intuitive access for logged-in veterans to easily view their payments, debts and perform financial actions.  
+     * Once veterans log in to My VA, there is no quick, intuitive way to easily view their payments, debts and perform financial actions 
 * Other reasons why this might be occurring? 
-     * Veterans may have difficulty finding the appropriate links to access their financial information.
+     * Veterans may have difficulty finding the appropriate links to access their financial information
 * How does this initiative help further OCTO-DE's mission and goals?
-     * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status.
-    * Become a place where users can complete quick tasks related to their benefits.
+     * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status
+    * Become a place where users can complete quick tasks related to their benefits
 
-
-<!--
+--
 ## Desired User Outcomes
 - *Why would a user want to use this?*
     * This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans
     * Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-    * With this problem solved, Veterans will more easily be able to view their payment and debt information, instead of having to perform searches on the site.
-    * With this problem solved, Veterans will more easily be able to access payment history or view outstanding debts, which may result in quicker task completion.
-    * With this problem solved, Veterans may be able to more fully engage with the VA.
+    * With this problem solved, Veterans will more easily be able to view their payment and debt information, instead of having to perform searches on the site
+    * With this problem solved, Veterans will more easily be able to access payment history or view outstanding debts, which may result in quicker task completion
+    * With this problem solved, Veterans may be able to more fully engage with the VA
 
 ## Undesired User Outcomes
-    * We do not want Veterans to feel that this page is another place they have to check or another place that may have duplicative information to other parts of the VA.gov site. We want this page to be informative, not cause confusion or add to their cognitive load.
-    * Additionally, if the page becomes too cluttered or cumbersome, it may slow down veterans, instead of expediting their experience.
+- We do not want Veterans to feel that this page is another place they have to check or another place that may have duplicative information to other parts of the VA.gov site. We want this page to be informative, not cause confusion or add to their cognitive load
+- Additionally, if the page becomes too cluttered or cumbersome, it may slow down veterans, instead of expediting their experience
  
 
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
-    * The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status,so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.
+    * The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status,so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
 
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-    * Provide veterans with a personalized go-to source for payment and debt information.
+    * Provide veterans with a personalized go-to source for payment and debt information
     * Provide veterans with links to related action items, such as viewing outstanding debts, payment history, direct deposit or travel reimbursement
     * Reduce the number of payment or debt related searches
 
 
 ## Undesired Business Outcomes
--*We do not want the My VA dashboard page to become cumbersome and unusable.*
--*We do not want the payment information section to display irrelevant information.*
+- We do not want the My VA dashboard page to become cumbersome and unusable
+- We do not want the payment information section to display irrelevant information
 
 
 ---
@@ -63,6 +62,7 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 - **Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
 
 - **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, travel reimbursement, and direct deposit CTAs.
+
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("View all payments"))| 2.3mil|TBD|TBD|
@@ -123,26 +123,26 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
-    * There is a question on whether we should display the last payment amount made to the veteran, and a link to outstanding debts OR a debt amount due, with a link to the payment history.  We will be conducting usability testing to determine the most effective and useful information to display to veterans.
-    * At this time, our research states that direct deposit management and travel reimbursement are the other top financial related searches, and we intend to include a link to manage each of them.  
+  - There is a question on whether we should display the last payment amount made to the veteran, and a link to outstanding debts OR a debt amount due, with a link to the payment history.  We will be conducting usability testing to determine the most effective and useful information to display to veterans.
+  - At this time, our research states that direct deposit management and travel reimbursement are the other top financial related searches, and we intend to include a link to manage each of them.  
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
 
 **In Scope - MVP**
-    * Most recent payment
-    * Manage Direct deposit [link]
-    * View Payment History [link]
-    * Request travel reimbursement [link]
-    * Dynamic debt link ('You've got 2 outstanding debt payments)
+  - Most recent payment
+  - Manage Direct deposit [link]
+  - View Payment History [link]
+  - Request travel reimbursement [link]
+  - Dynamic debt link ('You've got 2 outstanding debt payments)
 
 
 **Not In Scope** 
-    * Survivors pension
-    * Survivors comp (DIC)
-    * Caregiver program
-    * VA Homeloans information
+  - Survivors pension
+  - Survivors comp (DIC)
+  - Caregiver program
+  - VA Homeloans information
 
 --- 
 
@@ -154,7 +154,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-    * No marketing or communications are needed.
+  - No marketing or communications are needed.
 
 |Date| Decision |
 |--|--|
