@@ -225,6 +225,9 @@ Anything unfinished from last sprint, plus...
 - Taylor: 12/24; 12/31
 - Lihan: 12/10-24
 
+### Onboarding
+
+- Onboard Tom
 
 ### General profile needs
 
