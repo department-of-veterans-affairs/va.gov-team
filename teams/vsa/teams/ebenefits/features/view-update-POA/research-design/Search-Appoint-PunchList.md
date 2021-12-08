@@ -8,30 +8,59 @@
 See [Reference mockups - Search for Rep (Download Filled PDF) v2](https://sketch.com/s/6fcfb0c5-8c2d-4231-8b1b-c423e75bf5e2) and [Content ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31230#issuecomment-971753694).
 
 ### Find Rep - intro (25/62)
+- [ ] ADD: breadcrumb and padding
+- [ ] UPDATE H1 text: Find and appoint an accredited representative
+- [ ] UPDATE intro text: A Veterans Service Officer (VSO), accredited attorney, or claims agent can help you file your VA claim or appeal.
+- [ ] UPDATE H2 text: Follow these steps to find and appoint a representative
+- [ ] ADD subway map:  (see wireframes for full text)
+- [ ] UPDATE action link text: Find an accredited representative
+- [ ] UPDATE: text under Learn more header: 
+    - Find out how an accredited representative can help you with your VA claim or appeal. 
+    - [Get help filing your claim or appeal]()
+- [ ] ADD: need help component
 
 ### Find Rep - type of rep (26/62)
+- [ ] ADD: breadcrumb and padding
+- [ ] UPDATE step numbers and text: Step 1 of 8: What kind of accredited representative do you need?
+- [ ] ADD: need help component
 
 ### Find Rep - location (27/62)
+- [ ] ADD: breadcrumb and padding
+- [ ] UPDATE step numbers and text: Step 1 of 8: Where would you like to search for an accredited reprsentative?
 - [ ] EDIT Section question: Where would you like to search for an accredited representative?
+- [ ] ADD: need help component
 
 ### Find Rep - person name (28/62)
+- [ ] ADD: breadcrumb and padding
+- [ ] UPDATE step numbers and text: Step 1 of 8: Do you already have the name of an accredited representative you want to find?
 - [ ] EDIT Section question: Do you already have the name of an accredited representative you want to find?
 - [ ] ADD pragraph: If you know who you're searching for, enter their name here.
 - [ ] EDIT paragraph: This isn't required.
+- [ ] ADD: need help component
 
 ### Find Rep - organization name (29/62)
+- [ ] ADD: breadcrumb and padding
+- [ ] UPDATE step numbers and text: Step 1 of 8: Do you already have the name of a Veterans Service Organization you want to find?
 - [ ] EDIT Section question: Do you already have the name of a Veterans Service Organization you want to find?
 - [ ] ADD pragraph: If you know the organization you're searching for, enter that name here.
 - [ ] EDIT paragraph: This isn't required.
+- [ ] ADD: need help component
 
 ### Find Rep - no results (24/62)
+- [ ] ADD: breadcrumb and padding
+- [ ] UPDATE step numbers and text: Step 2 of 8: Select an accredited representative 
 - [ ] EDIT H1: We didn't find a match
+- [ ] ADD: need help component
 
 ### Select - unauthenticated (30/62)
+- [ ] ADD: breadcrumb and padding
+- [ ] UPDATE step numbers and text: Step 2 of 8: Select an accredited representative 
 - [ ] EDIT Section question: Select an accredited representative
 - [ ] ADD info alert 
     - Header: Select an accredited representative
     - Text: Before you select a representative listed here, make sure you've contacted them and they're available.
+- [ ] ADD: need help component
+
 ---
 
 ### Select-to-Appoint Transition (31/62)
