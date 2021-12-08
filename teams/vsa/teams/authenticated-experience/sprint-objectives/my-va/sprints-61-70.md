@@ -118,6 +118,25 @@ Resume project
 - Taylor: 12/24; 12/31
 - Lihan: 12/10-24
 
+
+### My VA updates: Adding payment information
+
+Research planning/midpoint review planning
+
+**PM**
+
+- Midpoint review planning, including starting to put together list of test cases
+
+**Design**
+
+- Finish design if not already done
+- Research planning/convo guide
+
+**FE**
+
+- Technical discovery
+
+
 ## Sprint 64 (12/29 - 1/11)
 [Sprint 64 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30269)
 
