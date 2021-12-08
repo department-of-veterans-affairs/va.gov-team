@@ -8,7 +8,7 @@
 - How do OCTO and business lines work together to migrate legacy content to the modernized experience across benefit hubs, R&S, program content sections, and potentially other content sections and/or channels (i.e. mobile app, chatbot)? 
 - How do we make sure that we're adding articles strategically and not just creating volume? 
 - How do we determine if a topic needs a new article vs. additions/updates to an existing article?
-- How do we avoid duplicative/slight variations on content?
+- How do we avoid duplicative/slight variations/conflicting content?
 - How do we determine if a topic should be addressed at a specific program/benefit level or at a broader level?
 - How do we make sure we keep our SEO effective and avoid keyword cannabilization?
 - How do we make sure that content stays timely and relevant?
