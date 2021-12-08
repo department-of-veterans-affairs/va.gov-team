@@ -44,7 +44,7 @@ We hypothesize that Veterans who utilize Tele-Urgent Care will reduce their need
 * Do Veterans feel secure in virtual visit environments?
 
 * What information does a Veteran find helpful in preparing for a Tele-Urgent visit?
-**[Link to conversation guide](https://docs.google.com/document/d/1MVtGspB3b8bxkxv7o9sJZmiWS-9OzD8CC-ly-yswX00/edit?usp=sharing)**
+**[Link to conversation guide](https://github.com/thehastingsp/va.gov-team/blob/patch-1/products/health-care/appointments/va-online-scheduling/research/tele-urgent-care/draft-veteran-conversation-guide.md)**
 
 ## Method
 
