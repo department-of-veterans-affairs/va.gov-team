@@ -40,11 +40,18 @@
 * Recurring events
   * Open questions from last week?
   * Are there things that can be worked on now?
+    * CMS working on serving up recurring events n format needed by Kelson 
+    * CMS to try to complete this Sprint (Dec 17th)
   * What needs to wait for usability testing to complete?
+    * usabilty completed summary expected next week, may introduce potential changes 
   * Are there any data concerns from a CMS standpoint?
+    * Not currently
   * url structure TBD
+    * Brian to discuss with Micky on good URL pattern for repeating events
   * Repeats monthly may be an issue
-  
+  * Did "Connect with us" stuff get merged? Maybe? Lynn to check and Async with Kelson
+  * 
+ 
 
 ## December 1, 2021
 * Promo banners (any questions?)
