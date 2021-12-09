@@ -20,7 +20,7 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 - *Other reasons why this might be occurring?* 
      * Veterans may have difficulty finding the appropriate links to access their financial information
 - *How does this initiative help further OCTO-DE's mission and goals?*
-    * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status
+    * Increase the usage of My VA to become a one-stop shop for users’ benefit-related action items and status
     * Become a place where users can complete quick tasks related to their benefits
 
 ## User Outcomes
