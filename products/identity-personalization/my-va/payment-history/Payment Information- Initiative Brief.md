@@ -43,7 +43,7 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 ### Desired Business Outcomes
 
 - *Why would your business want this to exist?*
-    * The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status,so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
+    * The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to veterans’ most critical updates and tasks
 
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
     * Provide veterans with a personalized go-to source for payment and debt information
