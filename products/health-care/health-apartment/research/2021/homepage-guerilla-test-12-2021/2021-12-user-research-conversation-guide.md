@@ -26,27 +26,41 @@ Start recording.
 
 ## Prior to showing concept (5-7 minutes)
 
-To get started, I’d like to get a little background information about you, and your experience accessing healthcare through both VA.gov and MyHealtheVet. 
-
-* What do you use My HealtheVet for the most?
-* What do you find the most valuable on this website?
-* What do you wish this website did that it doesn’t do right now? 
-* What do you use VA.gov for the most?
-* What do you find the most valuable on this website?
-* What do you wish this website did that it doesn’t do right now?
-* How did you hear about MyHealtheVet and VA.gov?
+### Understand what they use 
+* Tell me how you take care of your health care online
+* (listen for: their process to get to MHV or VA.gov, which site they use, what they do on the site, what "health care" means to them)
 * Are there other patient portals you use? What do you like about them?
+* Do you cancel or adjust your appointments online?
+* How do you refill your prescriptions?
+
+
+### Understand what's important
+* What do you mainly use MyHealtheVet for? 
+* How often do you use it? 
+* Is something on MyHealtheVet missing?
+
 
 ## While showing concept (15 minutes)
+
+### First Impression
 Now I'm going to show you a new concept for the homepage, and when I do, I'd like you to give me your first impression of the design. 
 (Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
+* Where is your attention drawn?
+* Where would you spend most of your time?
+* Is everything you do related to health care on this page?
 
-* What item or action would you go to first?
+### Digging Deeper
+
+
 * Is there anything missing on the page? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
-* What items would you use the most? For each: How often?
+* Let's look at appointments. If you wanted to see all of your appointments, where would you click?
+* Now let's look at pharmacy. If you wanted to see all of your prescriptions, where would you click?
+* Looking at messaging, what types of messages would you expect to be able to send?
+* What records would you want to access in the Medical Records box?
+* For each of the four big features, ask: what do you care most about?
 * What information or actions would you like to see in (Medical, Finance, Information)?
-* What information do you expect to see after clicking on (Health Supplies, Pharmacy, Medical Records) 
-* What does the word Health Supplies mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
+
+* If time allows: What does the word Health Supplies mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
 
 ## End questions
 * If you had a magic wand, what would you put on this page? What would you do to the VA health care system overall? How would it work for you?
