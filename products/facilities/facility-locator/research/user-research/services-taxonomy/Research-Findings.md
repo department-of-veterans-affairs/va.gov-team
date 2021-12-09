@@ -118,7 +118,7 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 4. **Some participants suggested new categories for new services.**
 
-5. **There were services that need plainer description, and/or additional explanation.**
+5. **There were services that needed plainer description, and/or additional explanation.**
 
 
 # Details of Findings 
