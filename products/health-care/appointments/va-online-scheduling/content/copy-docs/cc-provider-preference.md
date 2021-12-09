@@ -180,7 +180,7 @@ Note: To show providers near your home, you need to add your home address to you
 ### Provider Selected
 
 ```
-Selected Provider
+Selected provider
 {provider name}
 {provider address}
 ```
