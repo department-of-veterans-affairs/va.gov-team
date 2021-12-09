@@ -12,14 +12,14 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 > *The pain point to resolve is that veterans expect to have their personalized financial information available on the My VA dashboard, without having to search VA.gov for it.* 
 - *What is the problem and who is affected?*
      * Logged-in veterans have to perform a search or access the homepage to find links to their compensation and/or debt information
-- *And, what evidence do we have of the problem? 
+- *And, what evidence do we have of the problem?* 
      * The terms “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA 
      * The same terms make up 4 of the top 20 search terms on VA.gov overall
-- *Why do you think the problem is occurring? 
+- *Why do you think the problem is occurring?*
      * Once veterans log in to My VA, there is no quick, intuitive way to easily view their payments, debts and perform financial actions 
-- *Other reasons why this might be occurring? 
+- *Other reasons why this might be occurring?* 
      * Veterans may have difficulty finding the appropriate links to access their financial information
-- *How does this initiative help further OCTO-DE's mission and goals?
+- *How does this initiative help further OCTO-DE's mission and goals?*
     * Increase the usage of My VA, to become a one-stop shop for users’ benefit-related action items and status
     * Become a place where users can complete quick tasks related to their benefits
 
