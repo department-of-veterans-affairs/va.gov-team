@@ -120,13 +120,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 4. Are there services that are confusing, or need to be described using plainer language?
 5. Do existing category names cause confusion, or do they need to described using plainer language?
 
-[Hypotheses]
-1. Veterans will associate most services with existing category headings.
-2. Veterans will create new categories for some of the existing services.
-3. Veterans will create new categories for some of the new services.
-4. Some of the existing, and new, services will cause confusion, and may require plainer language.
-
-[Potential findings]
+[Potential findings re: research Qs]
 - Most participants found the existing categories adequate
 - All participants utilized the new "Administrative" category
 - Some particpants suggested new categories for existing services
