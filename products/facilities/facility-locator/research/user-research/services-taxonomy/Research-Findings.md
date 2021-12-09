@@ -100,7 +100,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 2. Veterans will create new categories for some of the existing services.
     - **Maybe true:**
 3. Veterans will create new categories for some of the new services.
-    - **Likely false:**
+    - **Maybe true:**
 4. Some of the existing, and new, services will cause confusion, and may require plainer language.
     - **Likely true:**
 
@@ -113,13 +113,25 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
+[Research questions]
+1. Do the existing categories accurately reflect Veteran expectations of where to find services on VAMC pages?
+2. Will Veterans create additional categories for existing services?
+3. Will Veterans create additional categories for new services?
+4. Are there services that are confusing, or need to be described using plainer language?
+5. Do existing category names cause confusion, or do they need to described using plainer language?
+
+[Hypotheses]
+1. Veterans will associate most services with existing category headings.
+2. Veterans will create new categories for some of the existing services.
+3. Veterans will create new categories for some of the new services.
+4. Some of the existing, and new, services will cause confusion, and may require plainer language.
+
 [Potential findings]
-- Most participants felt the existing categories were adequate
-- Most participants did not create new categories
-- A few participants did create new categories, most commonly related to Veterans leaving active service and entering the VA system ("Onboarding", "Transition", "Incoming Veterans", "I'm out now what", ...) 
+- Most participants found the existing categories adequate
 - All participants utilized the new "Administrative" category
-- Most participants needed explanations for the same services (Registry exams, Veteran connections, ...)
-- 
+- Some particpants suggested new categories for existing services
+- Some participants suggested new categories for new services
+- There were services that need plainer description, or additional explanation
 
 1. Finding one
 
@@ -130,10 +142,6 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 4. Finding four
 
 5. Finding five
-
-6. Finding six
-
-7. Finding seven
 
 
 # Details of Findings 
