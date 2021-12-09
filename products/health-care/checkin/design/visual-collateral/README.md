@@ -5,7 +5,7 @@
 - [11" X 17"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/11x17-checkin-poster.pdf)
 - 24" X 36"
 
-### Original Sketch file
+### Sketch file
 - Graphic designers: Here is [the original Sketch file](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e) to make changes, if you don't see what you need above. 
 
 ### Original poster - now out of date - do not use
