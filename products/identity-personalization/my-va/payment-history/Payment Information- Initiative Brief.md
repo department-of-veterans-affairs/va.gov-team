@@ -113,20 +113,22 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 > Indicate how you'll validate/test against these risks.*
 
 - **Value Risks** (will people use it): 
-  - The risk is in the accuracy of the financial information displayed. This can be mitigated by connecting directly to the payment/debt backend DBs to pull the correct data.
+  - Risk: Accuracy of the financial information displayed.  If incorrect information is displayed, it can damage the trust between the veteran and VA.gov. 
+    - This can be mitigated by connecting directly to the payment/debt backend DBs to pull the correct data
 - **Usability Risks** (can people figure out how to use it):
-  - Potential confusion on where the links may direct the veteran
-  - Potential confusion or degrading user experience when links direct to a page outside of My VA
+  - Risk: Potential confusion on where the links may direct the veteran
+  - Risk: Potential confusion or degrading user experience when links direct to a page outside of My VA
+    - This section will function the same as other sections already existing on My VA for a consistent experience.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Payment and debt information is readily available within VA.gov, and can easily be accessed by My VA.
-    - Dependency on payment and debt database availability
-  
+  - Risk: Dependency on payment and debt database availability
+    - Payment and debt information is currently available within VA.gov, and can easily be accessed by My VA for display 
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - This additional payment information section will provide a desired source of information for veterans logging in to My VA dashboard. A constraint to consider is to complete full testing of the new section, with a phased production release while measuring against KPIs. Only successful results will trigger the next roll-out phase.
+  - A constraint to consider is to complete full testing of the new section, with a phased production release while measuring against OKR/KPIs. Only successful results will trigger the next roll-out phase.
 
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
-  - There is a question on whether we should display the last payment amount made to the veteran, and a link to outstanding debts OR a debt amount due, with a link to the payment history.  We will be conducting usability testing to determine the most effective and useful information to display to veterans.
+  - There is a question on whether we should display specific details on the last payment amount made to the veteran OR specific details on the outstanding debt.  
+    - We will be conducting usability testing to determine the most effective and useful information to display to veterans.
   - Our research shows that direct deposit management and travel reimbursement are other top financial related searches, and we intend to include a link to manage each of them.  
 
 ### Solution Summary
@@ -160,13 +162,6 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
   - No marketing or communications are needed.
-
-|Date| Decision |
-|--|--|
-| TBD |  Samara Strauss to review initiatives briefing and validate |
-| TBD |  Determine KPIs and Success Measures and validate |
-| TBD |  Complete VSP Collaboration Cycle events  |
-| TBD |  Complete Release Plan per action items |
 
 
 ### Timeline 
