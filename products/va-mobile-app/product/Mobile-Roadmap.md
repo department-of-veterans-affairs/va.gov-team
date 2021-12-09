@@ -1,3 +1,5 @@
+<!-- Copy and paste the converted output. -->
+
 
 ### Mobile App Roadmap
 
@@ -44,7 +46,7 @@
    </td>
    <td>Inequitable Access: 
 <p>
-VA services are not always accessible across the digital divide and to those with impairments.
+VA services are not always accessible across the digital divide and to those with disabilities.
    </td>
   </tr>
   <tr>
@@ -66,7 +68,7 @@ VA services are not always accessible across the digital divide and to those wit
   <tr>
    <td>
    </td>
-   <td><strong>Enable Veterans to complete simple transactions for the VA health and benefits quickly</strong>
+   <td><strong>Enable Veterans to complete simple transactions for their VA health and benefits quickly</strong>
    </td>
    <td><strong>Enable Veterans to view transparent status updates and information from VA</strong>
    </td>
@@ -122,9 +124,9 @@ VA services are not always accessible across the digital divide and to those wit
    <td>
 <ul>
 
-<li>Appt Request
+<li>Appt Schedule
 
-<li>View Payments
+<li>Payment History
 
 <li>Debt
 
@@ -363,8 +365,8 @@ VA services are not always accessible across the digital divide and to those wit
 
 
 
-* Appointment Request
-* View Payments
+* Appointment Scheduling
+* Payment History
 * Debt
 * Medication management/Rx Refill continued discovery
 * Discovery: enhancements to military records
