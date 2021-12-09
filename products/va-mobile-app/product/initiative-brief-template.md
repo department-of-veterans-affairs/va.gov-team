@@ -1,61 +1,50 @@
-# Feature/Initiative Kickoff/Brief - Template
+# Feature/Initiative Brief - Template
 -------
 
-# Kickoff:
+## Value
 
-## Goal
-_What are we aiming to build?_
+### Problem Statement
+_What is the issue for Veterans?_
 
-## Objective
-_Which of our [mobile objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Mobile-Roadmap.md) will building this new feature help us achieve?_
-- [ ]  Create a centralized experience that crosses organizational silos
-- [ ]  Facilitate more transparent and reliable updates and communications between VA and Veterans
-- [ ]  Allow Veterans to access their authenticated experience quickly and easily
-- [ ]  Enable Veterans to complete transactions – especially frequent transactions – quickly to save time
-- [ ]  Create a reliable, accessible, consistent experience within the app
-
-## What do we know about the feature already?
-- What are users saying about this feature on web?
-  - Check user research notes from VFS teams
-- What does initial comparative analysis tell us?
-- What do the analytics tell us about current feature usage?
-- More about what problem we’re solving
-
-## Risks & Dependencies
-- What external teams do we rely on (for APIs, accessing data, etc)
-- What external stakeholders do we need to keep in the loop?
-  - Who are the points of contact
-
-## Test Accounts
-- What test accounts exist that provide access to staging data?
-
-## Measuring Success
-- What KPIs will we use?
-- Do we need to implement new events or metrics?
-
-## Launch Planning
-- Any drop dead dates from VA?
-- Which stakeholders will need to be kept in the loop?
-- Will contact center documentation need to be updated?
-
-## Open questions
+### Assumptions & Levels of confidence
 - a
 - b
 - c
 
--------
+### User goals
+_Why is this important to users?_
 
-# Next Steps - Determine Requirements & Scope
+### Organizational goals
+_Why is it valuable to VA to build this feature?_
 
-## Determine MVP feature set
-- What are the product requirements (ready to hand off to UX)
-  - Comparative analysis
-  - BE discovery
-  - Review of existing state and user research
+### Mobile Objective
+_Which of our [mobile objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Mobile-Roadmap.md) will building this new feature help us achieve? Why should this feature be on the mobile app?_
 
+## Planning
 
-## Project Plan - Phases of work
-- What sequence and pace of work will this initiative take (epic level)?
-- Add epics and user stories to the backlog
-- What release(s) are we targeting?
+### Recommended scope and feature set
+_What is the smallest piece of work we can start with to validate assumptions and add value to Veterans?_
+
+### Measuring Success
+_How will we know if this feature is useful? How can we test our assumptions with data?_
+
+### Risks & Dependencies
+- What external teams do we rely on (for APIs, accessing data, etc)
+
+### Test Accounts
+- What test accounts exist that provide access to staging data?
+
+### Timeline
+- Any deadlines?
+
+### Stakeholders
+- Who is our lead PO?
+- Who needs to be involved?
+- Who needs to be informed?
+
+### Open questions
+- a
+- b
+- c
+
 
