@@ -217,6 +217,8 @@ _Next steps here. Include owners if appropriate._
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
+- **More participants needed in general**
+    - Certain statistical analysis methods (such as the "Actual agreement dendrogram") provided by Optimal Workshop and used to analyze the card sort data, work best with at least 30 participants. With card sorts, the more participants, the more accurate the data, and I believe this study would benefit from a larger number of participants.
 - **LGBTQ+ participants needed**
     - We did not have any identified LGBTQ+ participants, and multiple participants stated that they did not feel qualified to categorize the "LGBTQ+ Veteran care" service. In order to better understand where LGBTQ+ Veterans would categorize services designed for their health care needs, it would be beneficial to to speak with LGBTQ+ Veterans to hear their suggestions.
 - **More participants who identify as minority Veterans and/or people of color**
