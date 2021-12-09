@@ -1,3 +1,5 @@
+
+**FAQ Migration Overview as of 12/09/2021**
 |                          | FAQS COVERED BY R&S ARTICLES | FAQS COVERED BY TIER 1 CONTENT | FAQSNOTMIGRATED | FAQS TO BE COVERED BY FUTURE R&S ARTICLES |
 |--------------------------|------------------------------|--------------------------------|-----------------|-------------------------------------------|
 | ACCOUNT & PROFILE        | 9                            | 2                              | 1               | 0                                         |
