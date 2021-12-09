@@ -1,9 +1,9 @@
 # Team Outline: Claims and Appeals
-- GitHub Label: vsa-benefits
-- Slack channel: [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial), vsa-benefits-nod (dedicated channel for LightHouse and BAM for Notice of Disagreement discussions)
+- GitHub Label: vsa, vsa-claims-appeals, benefits-crew
+- Slack channel: [#vsa-claims-appeals](https://dsva.slack.com/channels/vsa-benefits-memorial), vsa-benefits-nod (dedicated channel for LightHouse and Claims & Appeals for Notice of Disagreement discussions)
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Matt Self (matthewself.dvsa@gmail.com and Veronica Henry (vhenry@governmentcio.com)
+- Product POCs: Matt Self (matthewself.dvsa@gmail.com and Veronica Henry (ronnie.henry@gcio.com)
 - [Team Charter and Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/charter.md)
 ---
 
@@ -32,15 +32,15 @@
 - [Keywords](#Keywords)
 - [Team](#team)
 
-# Priorities (Updated 8/12/2021)
+# Priorities (Updated 12/09/2021)
 
 ## Higher Level Review
 Launched. This product had been under development for almost a year and delayed significantly due to 526 errors that are consistently impacting existing users. Also, BDD has recently launched and has been at 100%.  We are managing the errors/flow through BDD and have not seen any major issues.  Finally, NOD is on the horizon. 
   
 ## 526 Health and Technical Debt
-This is our flagship product.  We have seen that our error rate drop from 20% to 8% but we still have some critical fixes to get us to 100%. The team agrees that focusing on 526 before new work is brought on is the ideal scenario.  However, we have Notice of Disagreement.
+This is our flagship product.  We have seen that our error rate drop to 8% but we still have some critical fixes to get us to 100%. The team After delay due to Notice of Disagreement development, the team was able to focus on resolving the majority of 526 errors. PIF in use (first identified in 2020) continues to be the single largest cause of submission failures.
   - This will never be zero and we need to find time for at least two engagements a week
-  - Continued major issue with 526 being fixed
+  - We have engaged the team that owns PIF issue for help with clearing PIFs (we still hope for a more automated solution as for now, they need to be cleared manually)
   - Two types of errors - submission and presubmission
   - BDD support falls under 526 now.
   
@@ -54,20 +54,20 @@ As a Disability Compensation claimant, I need the online application to decipher
 As a veteran I need to use the online claims tool to share information about my unemployability so that VA can have everything needed to review my claim.
 
 ## Veteran (Call Center) Support
-Related to 526 health (and in some ways Claims Status Tool) the traffic from Call Center has died down.  This is likely not due to less calls from veterans (although we do hope there has been a reduction) and most likely due no longer receiving them from call center.
-  - Has not been prioritized for a while, likely time to have another look at customer support calls
-  - Suggest getting a weekly meeting set up (action for Luke and Ronnie)
-  - We need this data in order to bring prioritization recommendations to our customer
+Though there are still periods where we don't receive as many support requests, tickets for 526, Claim Status Tool, and Letters have resurfaced. This is likely due to the new process established this year. 
+  - Earlier this year, we had a series of calls with the Contact Center to re-engage
+  - Agreed that Contact Center would open GitHub tickets for support issues. We will dedicate 10% of every sprint to support. 
+  - We need to figure out how to get useful data in order to triage 
   
 ## Notice of Disagreement
-Began development Q2 2021
-  - Release pending
+Completed development Q3 2021
+  - Release pending Board of Appeals (stakeholder) approval
   
 ## Claims and Appeals Status
-  - Scheduled for Q4 2021
+  - Intial discovery began Q4 2021
   
 ## Supplemental Claims
-Not even on our radar at the moment.  NOD 100% if we are doing new work.
+Not even on our radar at the moment. 
 
 ## Blue Water Navy Veterans Identifiers
 Legislation was recently passed to help Blue Water Navy veterans who served in Vietnam with potential exposure to Agent Orange, under very limiting parameters. This will require further discussion with Paul to properly scope, and might need to get further broken down if we'll need to ask a lot of stuff.
@@ -85,13 +85,13 @@ First line is always Matt and Ronnie. However, our channel #vsa-claims-appeals i
 |**Roles**              |**Assigned**                        |**Contact Information**         |
 |-----------------------|------------------------------------|--------------------------------|
 |DSVA Product Manager   |Matt Self                           |matt.self@va.gov                |
-|Team Product Manager   |Veronica Henry                      |vhenry@governmentcio.com        |
-|Back-End Engineer      |Anna Carey                          |anna@adhocteam.us               |
+|Team Product Manager   |Veronica Henry                      |ronnie.henry@gcio.com           |
+|Back-End Engineer      |Csaba Nemeth                        |csaba.nemeth@gcio.com           |
 |Back-End Engineer      |Michel McDonald                     |michel.mcdonald@adhocteam.us    |
 |Front-End Engineer     |Robin Garrison                      |robin.garrison@adhocteam.us     |
-|Front-End Engineer     |Asha Gross.                         |asha.gross@adhocteam.us.        |
+|Front-End Engineer     |Devon Hills                         |asha.gross@adhocteam.us.        |
 |Design Researcher      |Christian Valla                     |cvalla@governmentcio.com        |
-|Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com  
+|Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com      |
 |
 
 # Executive Summary
@@ -135,17 +135,17 @@ Money spent on programs at the VA will be better utilized.  Increased usage of d
 ## Sprint Ceremony Schedule
 
 - *Stand-up: people & product check-ins*
-Monday and Wednesday - 11:00am ET 15 min
+Monday - 11:00am ET 15 min
 
 Format:
 
 - General Discussion
 
-- What I did yesterday?
+- What did I do yesterday?
 
 - What will I do today?
 
-- Any impediments?
+- Any blockers?
 
 
 *Sprint Planning*
@@ -202,4 +202,4 @@ Reminder:  Story points are unitless scales of measurement which are sized in re
 - **June 2021**: 526 usability enhancements.
 
 ## Keywords
-vsa-benefits, HLR, 526, vsa-decision-review, NOD, Supplemental Claim, BDD, Original Claim, PTSD
+vsa, vsa-claims-appeals, HLR, 526, vsa-decision-review, NOD, Supplemental Claim, BDD, Original Claim, PTSD
