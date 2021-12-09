@@ -71,16 +71,17 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 
 ### Available Clinics (station 500)
 
-| `clinicIen` | `clinicName` | Patient Friendly Name | Usual Availability (ET) | 
-| --- | ---------------- | ------ |------|
-| 64 | Audiology | Hearing |M-F 7AM - 230PM |
-| 195 | Cardiology | | M-F 7AM - 230PM |
-| 62 | Dermatology | | None |
-| 23 | General Medicine| | M-Th 7AM - 245PM, F 7AM - 1145AM |
-| 427 | Opthamology | |None |
-| 429 | Pulmonary | |M-F 12PM - 8PM |
-| 430 | Sleep Lab | Nap Time|M-F 4PM - 11PM |
-| 431 | Nurse Triage | Nurse Triage Clinic |M-F 8AM - 345PM |
+| `clinicIen` | `clinicName` | Patient Friendly Name | Usual Availability (ET) | E-Checkin Allowed |
+| --- | ---------------- | ------ |------| ------|
+| 64 | Audiology | Hearing |M-F 7AM - 230PM | Yes |
+| 195 | Cardiology | | M-F 7AM - 230PM | Yes |
+| 62 | Dermatology | | None | Yes |
+| 23 | General Medicine| | M-Th 7AM - 245PM, F 7AM - 1145AM | Yes |
+| 427 | Opthamology | |None | Yes |
+| 429 | Pulmonary | |M-F 12PM - 8PM | Yes |
+| 430 | Sleep Lab | Nap Time|M-F 4PM - 11PM | Yes |
+| 431 | Nurse Triage | Nurse Triage Clinic |M-F 8AM - 345PM | Yes |
+| 428 | Anticoagulation | | M-Su    8AM - 4PM| No |
 
 ### Available Clinics (station 442)
 
