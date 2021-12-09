@@ -128,21 +128,7 @@ _For each finding, list details with supporting quotes and images when possible.
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
-
-**Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
+**1: Most participants found the pre-determined categories adequate.**
 
 Labels: label 1, label 2 
 
@@ -155,7 +141,46 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 3**
+**2: All participants utilized the new "Administrative" category.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+> **3: Some particpants suggested new categories for existing services.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+> **4: Some participants suggested new categories for new services.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+> **5: There were services that needed plainer description, and/or additional explanation.**
 
 Labels: label 1, label 2 
 
@@ -192,8 +217,10 @@ _Next steps here. Include owners if appropriate._
 
 _If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
-- LGBTQ+ Vets may categorize that service differently; more participants
-- Minority Vets may categorize that service differently; more participants
+- **LGBTQ+ participants needed**
+    - We did not have any identified LGBTQ+ participants, and multiple participants stated that they did not feel qualified to categorize the "LGBTQ+ Veteran care" service. In order to better understand where LGBTQ+ Veterans would categorize services designed for their health care needs, it would be beneficial to to speak with LGBTQ+ Veterans to hear their suggestions.
+- **More participants who identify as minority Veterans and/or people of color**
+    - While this study had a few participants that identifed as people of color, it was mostly made up of white/caucasian participants. It would be beneficial to speak to more minority Veterans in order to hear more suggestions on how to categorize the "Minority Veteran care" service.
 
 # Appendix
 
