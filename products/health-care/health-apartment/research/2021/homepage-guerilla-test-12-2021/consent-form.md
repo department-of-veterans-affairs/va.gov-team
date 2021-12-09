@@ -3,7 +3,7 @@
 ## Session Description
 You are being asked to participate in a feedback session to give your opinion on a website created by the Department of Veterans Affairs. By participating in this feedback session, you will help the VA improve this website. 
 
-This feedback session will take about 1 hour. We'll ask you some questions and watch how you use the website. We'll also record your comments and actions using written notes, audio recording, and screen recording. If you don’t want us to record one of these things, you can say no. We won't use your name when we're presenting the results of this feedback session. We may use the recording in the future to help show others how to improve websites.
+This feedback session will take about 30 minutes. We'll ask you questions about your experience and watch how you use the website. We'll also record your comments and actions using written notes, audio recording, and screen recording. If you don’t want us to record one of these things, you can say no. We may use the recordings in the future to help show others how to improve websites, but it will be deleted within 2 weeks of the recording. Also, when presenting the results of this feedback session, your name will not be used because we present all findings anonymously. 
 
 You may quit the session at any time. If you need a break, just tell the moderator. If you have questions, go ahead and ask them whenever you like. 
 
