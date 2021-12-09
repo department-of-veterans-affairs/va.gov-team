@@ -253,34 +253,26 @@ We talked to **14 participants**:
 
 - All participants were Veterans
 - Devices:
-    - Desktop/laptop:
-    - Mobile devices:
+    - Desktop/laptop: 12
+    - Mobile devices: 2
+    - No assistive technology was used in this study
 - Genders:
-    - Male:
-    - Female:
+    - Male: 10
+    - Female: 4
     - It is unknown if any participants identified as LGBTQ+
 - Age groups:
-    - 25-34: x
-    - 35-44: x
-    - 45-54: x
-    - 55-64: x
-    - 65+: x
-    - Unknown: x
+    - 25-34: 1
+    - 35-44: 2
+    - 45-54: 1
+    - 55-64: 2
+    - 65+: 4
+    - Unknown: 4
 - Educational background:
-    - High school or equivalent:
-    - Some college (no degree):
-    - Associate's degree, trade certificate or vocational training:
-    - Bachelor's degree:
-    - Master's degree:
-    - Doctorate degree:
-    - Unknown:
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
+    - High school or equivalent: 1
+    - Some college (no degree): 3
+    - Bachelor's degree: 4
+    - Master's degree: 2
+    - Unknown: 4
 
 Geographic location:
 * Urban: x
