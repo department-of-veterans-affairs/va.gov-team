@@ -120,6 +120,8 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 5. **There were services that needed plainer description, and/or additional explanation.**
 
+6. **How service categorization was distrbuted across participants:**
+
 
 # Details of Findings 
 
@@ -181,6 +183,19 @@ Brief description
 
 
 **5: There were services that needed plainer description, and/or additional explanation.**
+
+Labels: label 1, label 2 
+
+_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+
+Brief description
+
+> _Supporting data: Quote here_
+
+> _Supporting data: Quote here_
+
+
+**6: How service categorization was distrbuted across participants:**
 
 Labels: label 1, label 2 
 
