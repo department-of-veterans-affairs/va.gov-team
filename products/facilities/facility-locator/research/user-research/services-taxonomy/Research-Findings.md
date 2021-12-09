@@ -96,46 +96,29 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 # Hypotheses and Conclusions
 
 1. Veterans will associate most services with existing category headings.
-    - **Definitely true:**
+    - **Definitely true:** While some participants created additional categories, most participants sorted new and existing services into the pre-determined categories provided.
 2. Veterans will create new categories for some of the existing services.
-    - **Maybe true:**
+    - **Maybe true:** Some participants did create new categories for existing services, and gave their reasoning for why those categories were a better fit.
 3. Veterans will create new categories for some of the new services.
-    - **Maybe true:**
+    - **Maybe true:** Some participants did create new categories for the new services, and gave their reasoning for why they were a better fit.
 4. Some of the existing, and new, services will cause confusion, and may require plainer language.
-    - **Likely true:**
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+    - **Likely true:** Most participants asked for at least one service to be explained to them, and most participants asked about the same few services.
 
 # Key Findings
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
 
-[Research questions]
-1. Do the existing categories accurately reflect Veteran expectations of where to find services on VAMC pages?
-2. Will Veterans create additional categories for existing services?
-3. Will Veterans create additional categories for new services?
-4. Are there services that are confusing, or need to be described using plainer language?
-5. Do existing category names cause confusion, or do they need to described using plainer language?
+1. Most participants found the existing categories adequate.
 
-[Potential findings re: research Qs]
-- Most participants found the existing categories adequate
-- All participants utilized the new "Administrative" category
-- Some particpants suggested new categories for existing services
-- Some participants suggested new categories for new services
-- There were services that need plainer description, or additional explanation
+2. All participants utilized the new "Administrative" category.
 
-1. Finding one
+3. Some particpants suggested new categories for existing services.
 
-2. Finding two
+4. Some participants suggested new categories for new services.
 
-3. Finding three
-
-4. Finding four
-
-5. Finding five
+5. There were services that need plainer description, and/or additional explanation.
 
 
 # Details of Findings 
