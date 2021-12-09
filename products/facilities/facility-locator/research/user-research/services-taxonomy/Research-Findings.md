@@ -15,7 +15,7 @@ Date: MM/DD/YYYY
     - [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#key-findings)
     - [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#recommendations)
     - [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#who-we-talked-to)
-    - [Further research needed](insert link to section)
+    - [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#further-research-needed)
 
 # Research Goals
 
