@@ -96,7 +96,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 # Hypotheses and Conclusions
 
 1. Veterans will associate most services with existing category headings.
-    - **Definitely true:** While some participants created additional categories, most participants sorted new and existing services into the pre-determined categories provided.
+    - **Definitely true:** Only some participants created additional categories - most participants sorted new and existing services into the pre-determined categories provided.
 2. Veterans will create new categories for some of the existing services.
     - **Maybe true:** Some participants did create new categories for existing services, and gave their reasoning for why those categories were a better fit.
 3. Veterans will create new categories for some of the new services.
