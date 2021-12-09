@@ -186,7 +186,8 @@ In an effort to standardize Claims & Appeals team estimates the below can act as
 | 13     | 2 Weeks / 1 Sprint      | Very Large Story / Feature     | Very complex / not all facets known, may take a full sprint or longer  |
 | 21     | More than a sprint      | Feature / Capability (EPIC)    | Needs to be split                                                      |
 
-Reminder:  Story points are unitless scales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability forward. 
+Reminder: Story points are unitless cales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability going forward. 
+
 ---
 
 ## Solution Narrative
