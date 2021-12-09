@@ -260,6 +260,10 @@ We talked to **14 participants**:
     - Male: 10
     - Female: 4
     - It is unknown if any participants identified as LGBTQ+
+- Race:
+    - White: 11
+    - Black: 2
+    - Native, Black or African American: 1
 - Age groups:
     - 25-34: 1
     - 35-44: 2
@@ -273,34 +277,10 @@ We talked to **14 participants**:
     - Bachelor's degree: 4
     - Master's degree: 2
     - Unknown: 4
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
+- Geographic location:
+    - Urban: 7
+    - Rural: 5
+    - Unknown: 2
 
 ## Underserved groups we haven’t talked to 
 
