@@ -110,7 +110,7 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 [See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
 
-1. **Most participants found the existing categories adequate.**
+1. **Most participants found the pre-determined categories adequate.**
 
 2. **All participants utilized the new "Administrative" category.**
 
