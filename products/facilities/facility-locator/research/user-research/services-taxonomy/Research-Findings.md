@@ -224,11 +224,6 @@ _If there are demographics that were not included in this study or you discovere
 [Synthesis Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1637341823231/41fe6212a7720bc245fb5fb8abe2b140a618a420?sender=u8a90be72499ecb4354e14700)
 
 
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
 ## Other supporting documents created
 
 e.g. user flows, personas, etc.
@@ -242,8 +237,6 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
