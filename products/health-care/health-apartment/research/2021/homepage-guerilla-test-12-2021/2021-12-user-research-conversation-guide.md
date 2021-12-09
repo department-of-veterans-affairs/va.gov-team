@@ -26,6 +26,8 @@ Start recording.
 
 ## Prior to showing concept (5-7 minutes)
 
+* Please use these questions as a guide, not necessarily a script. The goal is to find out what's important to the user and if it's reflected in the design. If you see an opportunity for an important follow up question, take it. 
+
 ### Understand what they use 
 * Tell me how you take care of your health care online
 * (listen for: their process to get to MHV or VA.gov, which site they use, what they do on the site, what "health care" means to them)
