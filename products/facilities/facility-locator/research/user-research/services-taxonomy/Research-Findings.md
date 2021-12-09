@@ -154,7 +154,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-> **3: Some particpants suggested new categories for existing services.**
+**3: Some particpants suggested new categories for existing services.**
 
 Labels: label 1, label 2 
 
@@ -167,7 +167,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-> **4: Some participants suggested new categories for new services.**
+**4: Some participants suggested new categories for new services.**
 
 Labels: label 1, label 2 
 
@@ -180,7 +180,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-> **5: There were services that needed plainer description, and/or additional explanation.**
+**5: There were services that needed plainer description, and/or additional explanation.**
 
 Labels: label 1, label 2 
 
