@@ -108,17 +108,17 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
+[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Most participants found the existing categories adequate.
+1. **Most participants found the existing categories adequate.**
 
-2. All participants utilized the new "Administrative" category.
+2. **All participants utilized the new "Administrative" category.**
 
-3. Some particpants suggested new categories for existing services.
+3. **Some particpants suggested new categories for existing services.**
 
-4. Some participants suggested new categories for new services.
+4. **Some participants suggested new categories for new services.**
 
-5. There were services that need plainer description, and/or additional explanation.
+5. **There were services that need plainer description, and/or additional explanation.**
 
 
 # Details of Findings 
