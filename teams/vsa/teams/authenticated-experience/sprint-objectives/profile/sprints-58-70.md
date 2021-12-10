@@ -235,7 +235,7 @@ Anything unfinished from last sprint, plus...
 
 - QA contact information after 12/17 on staging re: VA Profile migrating to new API to make sure all our functionality works
 
-**FE**
+**FE/BE**
 
 - Update how we handle loading direct deposit for edu information so it doesn't stall loading the rest of the profile
   - Note: This might involve a design update as well, but let's talk strategy first before determining whether we need design or not 
