@@ -2,7 +2,7 @@
 For this session, the moderator will share their screen so the participant can view the health homepage without having to click a link or open a file. 
 
 ### Introduction (2 minutes)
-Thanks for joining us today! My name is (insert name) and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience with VA health care and show you a concept for a health homepage.
+Thanks for joining us today! My name is *(insert name)* and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience with VA health care and show you a concept for a health homepage.
 
 Before we start, a few things I want to mention:
 
@@ -26,34 +26,57 @@ Start recording.
 
 ### Understand what they use 
 * Tell me how you take care of your health care online.
-> Listen for: 
-> * their process to get to My HealtheVet or VA.gov
+> *Listen for: 
 > * which site they use
+> * their process to get to My HealtheVet, VA.gov, or another website
 > * what they do on the site
-> * what "health care" means to them
+> * what "health care" means to them*
 
 * Do you cancel or adjust your appointments online?
 * How do you refill your prescriptions?
 * How do you communicate with your providers/doctors?
 * Are there other patient portals/online systems you use to manage your health care? 
-   * (if yes): What do you like about them?
+   * *(If yes:)* What do you like about them?
 
-### Understand what's important
-* What do you mainly use My HealtheVet for? 
-* How often do you use it? 
+### Understand what's important to Veterans who use My HealtheVet or VA.gov
+Do not ask these questions to Veterans who don't use My HealtheVet or VA.gov.
+
+When necessary, ask follow-up questions to get a deeper understanding or to clarify what the Veteran is saying.
+
+*If they use My HealtheVet:*
+* What do you use My HealtheVet for? 
+* How often do you use My HealtheVet? 
 * Is there anything you would like to do on My HealtheVet but currently cannot? 
-(Make sure to probe and ask follow-up questions). 
+   * *(If yes:)* Why would you like to do that?
+   * *(If yes:)* Is there anything else you would like to do on My HealtheVet but currently cannot?
+   * *(If yes to another thing:)* Why would you like to do that?
+
+*If they use VA.gov:*
+* What health care things do you use VA.gov for? 
+* How often do you use VA.gov? 
+* Is there anything you would like to do on VA.gov but currently cannot? 
+   * *(If yes:)* Why would you like to do that?
+   * *(If yes:)* Is there anything else you would like to do on VA.gov but currently cannot?
+   * *(If yes to another thing:)* Why would you like to do that?
 
 ## While showing concept (15 minutes)
+Ahead of the session, adjust the Mural in your browser window so that the design shows somewhat realistically. 
 
-* For moderator: 
+For moderator: 
 * If you are showing the mobile concept, use [this Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639160563089/325634c12ce02ca10c9cacffeac91f20f3d8d7c4?sender=u48d33d296832e946a47f4507).
 * If you are showing the desktop concept, use [this Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639156727421/3e2edbbd94392a4c441f4e813d08c259193ca5be?sender=u48d33d296832e946a47f4507).
-* Then, share your screen with the participant
+
+Next:
+1. Share your screen with the participant. Share ONLY the browser window. 
+2. Confirm that they can see the page.
 
 ### First Impression
-Now I'm going to show you a new concept for the My HealtheVet homepage, and when I do, I'd like you to give me your first impression. 
-(Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
+Now I'm going to show you a new concept for the My HealtheVet homepage. When I do, I'd like you to give me your first impression. 
+> *Things to watch and listen for: 
+> * *Where they point their mouse first
+> * What they want to click on
+> * If they remark on something missing)*
+
 * Tell me about your first impressions. 
 * Where is your attention drawn?
 * What other observations do you have about this page?  
