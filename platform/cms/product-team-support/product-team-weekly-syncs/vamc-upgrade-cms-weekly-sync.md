@@ -16,6 +16,18 @@
 
 </details>
 
+## December 10
+- Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
+  * were existing redirects need to be updated - status?
+- Final 4 transisitioned Dec 8th!!!!!
+- Help Desk
+  - Any update on talks with VHA Digital Media?
+- CMS will run report for VHA Digital Media showing URLS of all required services pages within all the VAMC's
+  - Kevin to create ticket - status?
+- Status of this meeting going forward?
+  - Sync with VHA Digital Media?
+
+
 ## December 3
 * Naming issue on Lovell landing page?
   * Lisa trying as fix, if it doesnt work will async with CMS
