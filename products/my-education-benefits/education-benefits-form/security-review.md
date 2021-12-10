@@ -9,12 +9,10 @@ My Education Benefits release plan available [here](release-plan.md).
 
 ## Technical diagrams:
   - Architecture diagram: this can be provided by request on private channel.
-  - 
-  - For non-trivial flows (i.e. more than a single round-trip call from frontend → vets-api → VA Backend), a sequence diagram showing the ordered flow of data and operations between systems. 
 
 ## New publicly exposed endpoints at vets-api
 
-For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status and letters. Each one of these endpoints will use the logged in user information to generate the appropriate REST call to the DGIB services, which will be the providers of data. Secure communication between these vets-api endpoints and DGIB will be implemented using JWT tokens. The implemented endpoints are:
+For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status and letters. Each one of these endpoints will use the logged in user information to generate the appropriate REST call to the DGIB Managed Environment API. The DGIB Managed Environment provides services supporting the automated processing of claim benefits, including claimant information, claim status and claim processing automation.. Secure communication between tge vets-api endpoints and DGIB will be implemented using https and JWT tokens. The implemented endpoints are:
 
 - meb_api/v0/claimant_info: This endpoint communicates with the DGIB services and returns claimant information to be displayed and used on My Education Benefits. A sample return object would look like:
 ```
@@ -138,11 +136,11 @@ For My Education Benefits we have created a series of endpoints to get a claiman
 ```
 
 ## Interactions with dependent VA backends
-- Describe any new interactions with dependent VA backends 
+There is no direct interaction with VA backends. All interactions will be with the DGIB Managed Environment. The DGIB Managed Environment is responsible of all interactions with any VA backends and not hosted on VA.gov
 
 
-## Security hot
-- Describe any other security hotspots you're concerned about / want extra attention on 
+## Security hotspots
+N/A
 
 ## Prep Material For Security Review
 
