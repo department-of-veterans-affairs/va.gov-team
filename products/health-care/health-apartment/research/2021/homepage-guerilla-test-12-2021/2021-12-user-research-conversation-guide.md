@@ -41,6 +41,11 @@ Start recording.
 
 ## While showing concept (15 minutes)
 
+* For moderator: 
+* If you are showing the mobile concept, use [this Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639160563089/325634c12ce02ca10c9cacffeac91f20f3d8d7c4?sender=u48d33d296832e946a47f4507).
+* If you are showing the desktop concept, use [this Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639156727421/3e2edbbd94392a4c441f4e813d08c259193ca5be?sender=u48d33d296832e946a47f4507).
+* Then, share your screen with the participant
+
 ### First Impression
 Now I'm going to show you a new concept for the My HealtheVet homepage, and when I do, I'd like you to give me your first impression. 
 (Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
@@ -50,12 +55,18 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 
 ### Digging Deeper
 * Is there anything missing on the page that you would expect to be there, that would help you with your health care? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
-* Let's look at appointments, what would you expect to see here and what information or actions do you care about most?
+* Let's look at appointments, what would you expect to see here?
+* What information or actions do you care about most?
    * If you wanted to see all of your appointments, what would you do?
-* Now let's look at pharmacy, what would you expect to see here and what information or actions do you care about most?
+* Now let's look at pharmacy, what would you expect to see here?
+* What information or actions do you care about most?
    * If you wanted to see all of your prescriptions, what would you do?
-* Looking at messaging, what sort of messages would you expect to see here? Would you expect to send and receive messages?  What messages would be sent to you?  What messages and to whom would you send messages?
-* For Medical Records, what would you expect to see here and what information or actions do you care about most?
+* Looking at messaging, what sort of messages would you expect to see here? 
+* Would you expect to send and receive messages?  
+* What messages would be sent to you?  
+* What messages would you send, and to whom?
+* For Medical Records, what would you expect to see here
+* What information or actions do you care about most?
 * What information or actions would you like to see in "Health Care"?
    * If you wanted to see more details than shown here about your Health Care, what would you do?
 * What information or actions would you like to see in "Disability"?
@@ -65,9 +76,9 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 * If time allows: What does the term "Health Supplies" mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
 
 ## End questions
-* If you had a magic wand, what would you put on this page? What would you do to the VA health care system overall? How would it work for you?
+* If you had a magic wand, what would you put on this page?  How would it work for you?
 
-* I'm going to open the floor to my colleagues to ask any follow up questions they might have.
+* For moderator: see if any follow up questions were surfaced in Slack from other observers
 
 * Do you have any questions for us? 
 
