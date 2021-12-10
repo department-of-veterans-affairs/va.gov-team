@@ -1,4 +1,3 @@
-
 ## Session setup
 For this session, the moderator will share their screen, so the participant can view the redesigned homepage without having to click a link or open a file. 
 
@@ -31,13 +30,14 @@ Start recording.
 * Do you cancel or adjust your appointments online?
 * How do you refill your prescriptions?
 * How do you communicate with your providers/doctors?
-* Are there other patient portals/online systems you use to manage your health care? What do you like about them?
+* Are there other patient portals/online systems you use to manage your health care? 
+   * (if yes): What do you like about them?
 
 ### Understand what's important
-* What do you mainly use MyHealtheVet for? 
+* What do you mainly use My HealtheVet for? 
 * How often do you use it? 
-* Is something on MyHealtheVet missing?
-
+* Is there anything you would like to do on My HealtheVet but currently cannot? 
+(Make sure to probe and ask follow-up questions). 
 
 ## While showing concept (15 minutes)
 
@@ -49,24 +49,26 @@ Start recording.
 ### First Impression
 Now I'm going to show you a new concept for the My HealtheVet homepage, and when I do, I'd like you to give me your first impression. 
 (Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
+* Tell me about your first impressions. 
 * Where is your attention drawn?
-* Where would you spend most of your time?
-* Does this page have everything you do that's related to health care?
+* What other observations do you have about this page?  
+ 
 
-### Digging Deeper
-* Is there anything missing on the page that you would expect to be there, that would help you with your health care? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
-* Let's look at appointments, what would you expect to see here?
-* What information or actions do you care about most?
+### Digging Deeper 
+
+* Is there anything missing on the page that you would expect to be there, that would help you manage your health care online? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
+* Let's look at appointments, what would you expect to see here? 
+   * What information or actions do you care about most?
    * If you wanted to see all of your appointments, what would you do?
-* Now let's look at pharmacy, what would you expect to see here?
-* What information or actions do you care about most?
+* Now let's look at pharmacy, what would you expect to see here? 
+   * What information or actions do you care about most?
    * If you wanted to see all of your prescriptions, what would you do?
-* Looking at messaging, what sort of messages would you expect to see here? 
-* Would you expect to send and receive messages?  
-* What messages would be sent to you?  
-* What messages would you send, and to whom?
-* For Medical Records, what would you expect to see here
-* What information or actions do you care about most?
+*  Looking at messaging, what sort of messages would you expect to see here? 
+   * Would you expect to send and receive messages?  
+   * What messages would be sent to you?
+   * Whom would you message?
+* For Medical Records, what would you expect to see here? What information or actions do you care about most?
+
 * What information or actions would you like to see in "Health Care"?
    * If you wanted to see more details than shown here about your Health Care, what would you do?
 * What information or actions would you like to see in "Disability"?
@@ -76,6 +78,7 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 * If time allows: What does the term "Health Supplies" mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
 
 ## End questions
+
 * If you had a magic wand, what would you put on this page?  How would it work for you?
 
 * For moderator: see if any follow up questions were surfaced in Slack from other observers
@@ -85,6 +88,6 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 ## Thank you and closing (2 minutes)
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
+Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
 
 Great, well thank you so much again, and enjoy the rest of your day!
