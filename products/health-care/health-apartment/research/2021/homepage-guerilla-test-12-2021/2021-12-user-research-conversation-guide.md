@@ -1,8 +1,8 @@
 ## Session setup
-For this session, the moderator will share their screen, so the participant can view the redesigned homepage without having to click a link or open a file. 
+For this session, the moderator will share their screen so the participant can view the health homepage without having to click a link or open a file. 
 
 ### Introduction (2 minutes)
-Thanks for joining us today! My name is XXX and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience accessing VA healthcare online and show you a concept for a redesigned health care page.
+Thanks for joining us today! My name is (insert name) and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience with VA health care and show you a concept for a health homepage.
 
 Before we start, a few things I want to mention:
 
@@ -25,8 +25,13 @@ Start recording.
 * Please use these questions as a guide, not necessarily a script. The goal is to find out what's important to the user and if it's reflected in the design. If you see an opportunity for an important follow up question, take it. 
 
 ### Understand what they use 
-* Tell me how you take care of your health care online
-   * (listen for: their process to get to MHV or VA.gov, which site they use, what they do on the site, what "health care" means to them)
+* Tell me how you take care of your health care online.
+> Listen for: 
+> * their process to get to My HealtheVet or VA.gov
+> * which site they use
+> * what they do on the site
+> * what "health care" means to them
+
 * Do you cancel or adjust your appointments online?
 * How do you refill your prescriptions?
 * How do you communicate with your providers/doctors?
