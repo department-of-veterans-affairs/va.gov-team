@@ -102,7 +102,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 2. Veterans will create new categories for some of the existing services.
     - **Likely true:** Some participants did create new categories for existing services, and gave their reasoning for why those categories were a better fit. There was alignment across participants related to why new categories were created - that said it is likely that more information is needed before making a determination about adding specific new categories.
 3. Veterans will create new categories for some of the new services.
-    - **Maybe true:** Some participants did create new categories for the new services, and gave their reasoning for why they were a better fit. It is likely that more information is needed before making a determination about new categories.
+    - **Likely false:** Only one participant created new categories for new services, and gave their reasoning for why they were a better fit. It is likely that more information is needed before making a determination about new categories for new services.
 4. Some of the existing, and new, services will cause confusion, and may require plainer language.
     - **Maybe true:** Almost all participants asked for at least one service to be explained to them, and most participants asked about the same few services.
 
@@ -118,8 +118,8 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
         - "Onboarding", "Incoming Veterans", "Transition", and "Post-service (aka I'm out - what now?)"
     - **Other new categories for existing services:**
         - "Financial", "Dietary Improvement", "Substance abuse", and "Vocation Rehabilitation & Employment"
-4. **A small number of participants suggested new categories for new services.**
-    - **2 of 14 participants** chose to add new services to new categories.
+4. **Almost no participants suggested new categories for new services.**
+    - **1 of 14 participants** chose to add new services to two new categories.
     - **New categories for new services:**
         - "Substance abuse," and "Post-service (aka I'm out - what now?)"
 5. **There were services that needed plainer description, and/or additional explanation.**
@@ -151,9 +151,15 @@ Labels: label 1, label 2
 
 Brief description
 
-> _Supporting data: Quote here_
+> P3: I think the categories are pretty good you know...[they] are self-explanatory and represent a good group of where I would look for information for specific things.
 
-> _Supporting data: Quote here_
+> P7: I think it all makes sense. I think prepare for your visit would have more, like directions and a phone list - how to contact people sort of thing.
+
+> P8: Those [categories] are fine for the moment.
+
+> P13: I think it works that way.
+
+> P16: They look fine to me.
 
 
 **2: All participants utilized the new "Administrative" category.**
@@ -162,10 +168,11 @@ Labels: label 1, label 2
 
 Brief description
 
-> _Supporting data: Quote here_
+> P2: [Referencing "Registry exams"] It is registration paperwork, so it belongs in administrative...The distinction between that [the "Onboarding" category the participant created] and the admin group is that the admin group is paperwork.
 
-> _Supporting data: Quote here_
+> P12: Administrative is the starting point then start zeroing in on what you are looking for.
 
+> P13: [Reference to "Employmenet verification"] Administrative because admin people will take care of that.
 
 **3: Some particpants suggested new categories for existing services.**
 
@@ -173,21 +180,23 @@ Labels: label 1, label 2
 
 Brief description
 
-> _Supporting data: Quote here_
+> P2: I would put it ["Returning service member care"] in a different group. Every Veteran has to go through it. [Created "Onboarding" category]
 
-> _Supporting data: Quote here_
+> P7: I don’t know where else you would put it ["Registry exams"] unless you have a category for incoming veterans. That’s what I would do, have a category for incoming veterans so I would move it there...I look at it ["Returning service member care"] from returning from overseas...so I would move it there. [Created "Incoming Veterans" category]
 
+> P12: That could be one for a different category ["Travel reimbursement"], you might have a category that is financial. I would create a financial section. [Created "Financical" category]
 
-**4: Some participants suggested new categories for new services.**
+> P17: I might call that transition because that’s ["Returning service member care"] coming form the military to veteran side. I want to call that transition. [Created "Transition" category"]...I want to create a new category and put that ["Nutrition, food, and dietary care"] and move in the same category. I think I would call it dietary improvement but it might change [Created "Dietary improvement"]...Lets leave it at post service because I cant think of a label. It’s a place for a new veteran to go to answer the question they have. They could start there. If I saw that I would know exactly which one to tap on [Created "Post-service" category for card sort 2].
+
+> P18: I love VR&E I just finished mine. I wouldn’t put that in social programs, its more administrative. Actually I would personally put it in its own category. It would be called VR&E [Created "VR&E" category].
+
+**4: Almost no participants suggested new categories for new services.**
 
 Labels: label 1, label 2 
 
 Brief description
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
+> P17: I am starting to think about developing another category with substance abuse and smoking in the same spot. Let’s just call it substance abuse for now [Created "Substance abuse" category]...Actually let’s put that ["Applying for health care"] in post service because it’s another one I might change the title later [Created the "Post-service" category].
 
 **5: There were services that needed plainer description, and/or additional explanation.**
 
@@ -218,12 +227,12 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+- **Recommendation 1: Add the "Administrative" category to system-level and facility-level pages**
+    - [Evidence]
+- **Recommendation 2: Adding relevant sub-headings to services requiring explanation**
+    - [Evidence]
+- **Recommendation 3: Consider creating a category heading that notifies returning Veterans**
+    - [Evidence]
 
 
 # Next Steps
