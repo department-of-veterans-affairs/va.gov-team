@@ -27,8 +27,9 @@ Last updated December 10, 2021
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Discovery](#discovery)
+- [Launch Planning](#launch-planning)
 - [Key deliverables](#key-deliverables)
-- [Key dates](#key-dates)
+- [Timeline](#timeline)
 - [Screenshots](#screenshots)
 
 
