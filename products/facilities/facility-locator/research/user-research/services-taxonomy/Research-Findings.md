@@ -92,7 +92,6 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 </details>
 
-
 # Hypotheses and Conclusions
 
 *("Maybe True", “Likely True”, “Definitely True”; “Likely False”, “Definitely False” or “Not enough information”)*
@@ -161,7 +160,6 @@ Brief description
 
 > P16: They look fine to me.
 
-
 **2: All participants utilized the new "Administrative" category.**
 
 Labels: label 1, label 2 
@@ -204,10 +202,13 @@ Labels: label 1, label 2
 
 Brief description
 
-> _Supporting data: Quote here_
+> P3: I am not sure about what this ["Returning service member care"] is, is it returning to the va or going back to the military?
 
-> _Supporting data: Quote here_
+> P6: Beats the heck out of me. maybe those are exams to register claims or something like that. ["Registry exams"]
 
+> P7: As in coming home from combat? I look at it from returning from overseas. I know this is a va thing but it could be rephrases as "new veteran". ["Returning service member care"]
+
+> P15: I guess I am not familiar with what the library services entail. Social programs and services because in my mind that’s where it fits.
 
 **6: How service categorization was distrbuted across participants:**
 
@@ -219,11 +220,9 @@ Brief description
 
 > _Supporting data: Quote here_
 
-
 # Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 
 # Recommendations
 
@@ -237,7 +236,6 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 # Next Steps
 
 _Next steps here. Include owners if appropriate._
-
 
 # Further research needed
 
@@ -258,23 +256,19 @@ _If there are demographics that were not included in this study or you discovere
 
 [Interview transcripts](link here)
 
-
 ## Tools used for Synthesis
 
 [Synthesis Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1637341823231/41fe6212a7720bc245fb5fb8abe2b140a618a420?sender=u8a90be72499ecb4354e14700)
 
-
 ## Other supporting documents created
 
 e.g. user flows, personas, etc.
-
 
 ## Secondary research
 
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
 
 ## Who we talked to 
 
