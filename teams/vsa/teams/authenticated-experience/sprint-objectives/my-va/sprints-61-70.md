@@ -123,8 +123,14 @@ Resume project
 
 **FE**
 
-- Update how we handle the Education block in the "Benefits you might be interested in" section
-  - This has to do with this endpoint frequently failing; we might want to update to show this prompt no matter what. 
+- Update/reframe how we handle the the "Benefits you might be interested in" section
+  - Show the "education" block persistently. Do not check to see if someone has the benefit. This has to do with this endpoint frequently failing.
+  - We can also show the "health care" block persistently, since I suspect that might not be showing to some people who should see it.
+
+**Design**
+
+- Update/reframe how we handle the the "Benefits you might be interested in" section
+  - We might want to reframe this as something like "Popular VA benefits" or something since we are no longer personalizing this info. Design should check in with content about this.
 
 ### My VA updates: Adding payment information
 
