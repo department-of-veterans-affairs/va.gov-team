@@ -57,11 +57,11 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 * Is there anything missing on the page? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
 * Let's look at appointments. If you wanted to see all of your appointments, where would you click? **<< We need questions below that probe on whether they know to click on the other headers like "Disability."**
 * Now let's look at pharmacy. If you wanted to see all of your prescriptions, where would you click?
-* Looking at messaging, what types of messages would you expect to be able to send? **<< Let's clarify "types of messages." Are we asking who they would expect to interact with? And about reasons they would send a message? If so, I recommend: Looking at messaging, why might you send a message? Who would you send it to? What would you expect to happen after that?
+* Looking at messaging, what types of messages would you expect to be able to send? **<< Let's clarify "types of messages." Are we asking who they would expect to interact with? And about reasons they would send a message? If so, I recommend: Looking at messaging, why might you send a message? Who would you send it to? What would you expect to happen after that?**
 * What records would you want to access in the Medical Records box?
 * For each of the four big features, ask: what do you care most about? **<< Let's break this info 4 questions: "For Appointments, what information or actions do you care about most?" and so on.
 * What information or actions would you like to see in (Medical, Finance, Information)? **<< Let's break this into 3 questions and update it per the sections in the latest design.**
-* **Let's add question(s) about help and resources. Exs: If you had trouble with something you're trying to do through this website, what would you do? (Pointing to the resources area:) What types of "resources" would you expect to see on this website? How would you get to more resources?**
+* >> **Let's add question(s) about help and resources. Exs: If you had trouble with something you're trying to do through this website, what would you do? (Pointing to the resources area:) What types of "resources" would you expect to see on this website? How would you get to more resources?**
 
 * If time allows: What does the term "Health Supplies" mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
 
