@@ -10,9 +10,40 @@ My Education Benefits release plan available [here](release-plan.md).
 ## Technical diagrams:
   - Architecture diagram: this can be provided by request on private channel.
 
-## New publicly exposed endpoints at vets-api
+## Common Questions
 
-For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status and letters. Each one of these endpoints will use the logged in user information to generate the appropriate REST call to the DGIB Managed Environment API. The DGIB Managed Environment provides services supporting the automated processing of claim benefits, including claimant information, claim status and claim processing automation.. Secure communication between the vets-api endpoints and DGIB will be implemented using https and JWT tokens. The implemented endpoints are:
+This list of questions is _not_ intended to be comprehensive. It _is_ intended to be comprehensively covered in a review.
+
+### Privacy
+
+#### Logs
+
+* Are there any new logging statements? No new logging statements outside of regular VA.gov analytics on Front End. Vets-Api backend will have minimal logging, as majority of logging will happen on the separate DGIB Managed Service.
+
+#### User tracking / identity
+
+* Are there any new cookies? No
+* Are there any new uses of existing cookies? No
+
+### Security
+
+* How are systems authenticating with one another? - The My Education Benefits application requires that a user is logged in via ID.ME to let you use it. Once logged in, the vets-api endpoints uses the logged in user information to contruct the appropriate REST calls to fetch information from the DGIB Managed Environment API. Communications with the DGIB environment are secured via https and using JWT tokens.
+ 
+* Is anyone bypassing any obvious built-in protections? (CSRF protection in form submissions, auto-escaping in FE template rendering systems, use of `innerHTML` - No.
+
+#### Frontend
+
+* Is anyone using `innerHTML`, or otherwise bypassing template rendering system protections like auto-escaping? - No
+* Are there any new cookies? - No
+* Are there any new uses of existing cookies? - No
+
+#### Backend
+
+* Are there any new REST endpoints exposed by `vets-api`, or new behavior change on existing endpoints?
+
+For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status and letters from the DGIB Managed Environment. The DGIB Managed Environment is an external service that provides an API supporting education claim benefit functions including fetching claimant/claim status information and also claim processing automation.
+
+The logged in user information is never sent from the FE, to avoid query manipulation. Instead, each one of these endpoints will use the logged in user information available on vets-api to generate the appropriate REST queries for the logged in user to the DGIB Managed Environment API. Secure communication between the vets-api endpoints and DGIB will be implemented using https and JWT tokens. The implemented endpoints are:
 
 - meb_api/v0/claimant_info: This endpoint communicates with the DGIB services and returns claimant information to be displayed and used on My Education Benefits. A sample return object would look like:
 ```
@@ -87,7 +118,7 @@ For My Education Benefits we have created a series of endpoints to get a claiman
 
 - meb_api/v0/claim_letter: This endpoint communicates with the DGIB services and returns a pdf letter which will either be a Certificate of Eligibility or a Dissallowance letter.
 
-- meb_api/v0/submit_claim: This endpoint submits the completed My Education Benefits form to DGIB services and returns a 200OK upon succesful submission. A sample post request would be:
+- meb_api/v0/submit_claim: This endpoint submits the completed My Education Benefits form to DGIB services and returns a 200 OK upon succesful submission. A sample post request would be:
 
 ```
 {
@@ -134,6 +165,31 @@ For My Education Benefits we have created a series of endpoints to get a claiman
   }
 }
 ```
+
+* Are there new integrations with VA backends?
+    * What data are we sending to this backend?
+    * How could this backend integration be misused?
+
+### Infrastructure readiness
+
+#### Traffic
+
+* How much new traffic are you expecting to send to `vets-api`?
+    * Consider both average (typical weekday traffic) and burst (e.g. an email blast to Veterans)
+
+#### Rollout
+
+* What's your rollout plan? Specifically:
+    * What % of users are you rolling out to at each phase?
+    * What metrics are you looking at before deciding to continue rollout?
+
+#### Incident response
+
+* Is there a playbook for investigating and handling likely failure modes?
+* Are there new integrations with VA backends?
+    * What is this backend's latency/availability profile?
+    * Do we have points of contact for each new backend, in case of outages or security incidents? (TODO: link to where these should be stored/documented)
+
 
 ## Interactions with dependent VA backends
 There is no direct interaction with VA backends. All interactions will be with the DGIB Managed Environment. The DGIB Managed Environment is responsible of all interactions with any VA backends and not hosted on VA.gov
