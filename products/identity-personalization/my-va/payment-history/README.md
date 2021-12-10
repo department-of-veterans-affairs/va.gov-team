@@ -58,9 +58,9 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 
 
 ---
-## Measuring Success
+## Measuring Success - NOT YET FINALIZED
 
-### Looking ahead to Q1 2022 - These OKR/KPIs are potential suggestions only, and not yet finalized.
+### Looking ahead to Q1 2022 - These OKR/KPIs are potential suggestions only
 
 - **Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
 
