@@ -250,6 +250,8 @@ This depends on whether the Perigean contract is back up and running.
 
 - Update research plan with new dates (assuming this will be after the holiday)
 - Recruit for research (contract should be back up and running on December 13)
+- Confirm with Josh & Angela whether they reviewed our designs for the midpoint review. If not, please set up some time to talk through the designs with them to determine if there are any accessibility concerns.
+
 
 **FE**
 
