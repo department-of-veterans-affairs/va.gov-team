@@ -26,7 +26,7 @@ Last updated December 10, 2021
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
-- [Solution Approach](#solution-summary)
+- [Discovery](#discovery)
 - [Key deliverables](#key-deliverables)
 - [Key dates](#key-dates)
 - [Screenshots](#screenshots)
