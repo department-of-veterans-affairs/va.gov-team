@@ -12,7 +12,7 @@ My Education Benefits release plan available [here](release-plan.md).
 
 ## New publicly exposed endpoints at vets-api
 
-For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status and letters. Each one of these endpoints will use the logged in user information to generate the appropriate REST call to the DGIB Managed Environment API. The DGIB Managed Environment provides services supporting the automated processing of claim benefits, including claimant information, claim status and claim processing automation.. Secure communication between tge vets-api endpoints and DGIB will be implemented using https and JWT tokens. The implemented endpoints are:
+For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status and letters. Each one of these endpoints will use the logged in user information to generate the appropriate REST call to the DGIB Managed Environment API. The DGIB Managed Environment provides services supporting the automated processing of claim benefits, including claimant information, claim status and claim processing automation.. Secure communication between the vets-api endpoints and DGIB will be implemented using https and JWT tokens. The implemented endpoints are:
 
 - meb_api/v0/claimant_info: This endpoint communicates with the DGIB services and returns claimant information to be displayed and used on My Education Benefits. A sample return object would look like:
 ```
