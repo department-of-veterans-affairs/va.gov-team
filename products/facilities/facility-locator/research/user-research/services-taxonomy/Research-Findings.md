@@ -228,12 +228,11 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 # Recommendations
 
 - **Recommendation 1: Add the "Administrative" category to system-level and facility-level pages**
-    - [Evidence]
+    - Every participant utilized the "Administrative" category, making it one of the most popular categories for new and existing services. The general sentiment was that some services seemed obviously administrative because they involed registration, paperwork, and requiring employee help for same.
 - **Recommendation 2: Adding relevant sub-headings to services requiring explanation**
-    - [Evidence]
+    - Similar services required explanation across participants, so utilizing the service sub-heading design pattern for new and existing services where appropriate, should help Veterans more quickly understand why a service belongs in a particular category.
 - **Recommendation 3: Consider creating a category heading that notifies returning Veterans**
     - [Evidence]
-
 
 # Next Steps
 
