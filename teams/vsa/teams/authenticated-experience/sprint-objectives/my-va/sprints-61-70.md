@@ -117,6 +117,7 @@ Resume project
 - Christina: 12/23-31
 - Taylor: 12/24; 12/31
 - Lihan: 12/10-24
+- Tom: 12/27-31
 
 ### General My VA improvement
 
