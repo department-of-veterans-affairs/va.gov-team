@@ -29,7 +29,7 @@ Last updated December 10, 2021
 - [Discovery](#discovery)
 - [Launch Planning](#launch-planning)
 - [Key deliverables](#key-deliverables)
-- [Timeline](#timeline)
+- [Key Dates](#key-dates)
 - [Screenshots](#screenshots)
 
 
@@ -221,7 +221,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - [Production env](https://www.va.gov/my-va/)
 
 
-### Timeline 
+### Key Dates
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
 - Nov 2021: Kickoff with MVP outlined & begin design
