@@ -1,10 +1,8 @@
 
 ## Session setup
-
 For this session, the moderator will share their screen, so the participant can view the redesigned homepage without having to click a link or open a file. 
 
 ### Introduction (2 minutes)
-
 Thanks for joining us today! My name is XXX and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience accessing VA healthcare online and show you a concept for a redesigned health care page.
 
 Before we start, a few things I want to mention:
@@ -25,7 +23,6 @@ Start recording.
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Prior to showing concept (5-7 minutes)
-
 * Please use these questions as a guide, not necessarily a script. The goal is to find out what's important to the user and if it's reflected in the design. If you see an opportunity for an important follow up question, take it. 
 
 ### Understand what they use 
@@ -52,7 +49,6 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 * Does this page have everything you do that's related to health care?
 
 ### Digging Deeper
-
 * Is there anything missing on the page that you would expect to be there, that would help you with your health care? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
 * Let's look at appointments, what would you expect to see here and what information or actions do you care about most?
    * If you wanted to see all of your appointments, what would you do?
@@ -73,11 +69,9 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 
 * I'm going to open the floor to my colleagues to ask any follow up questions they might have.
 
-    
+* Do you have any questions for us? 
 
 ## Thank you and closing (2 minutes)
-
-
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
