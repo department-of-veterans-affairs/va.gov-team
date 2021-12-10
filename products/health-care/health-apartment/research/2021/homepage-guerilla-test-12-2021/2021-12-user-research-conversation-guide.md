@@ -30,10 +30,10 @@ Start recording.
 
 ### Understand what they use 
 * Tell me how you take care of your health care online
-* (listen for: their process to get to MHV or VA.gov, which site they use, what they do on the site, what "health care" means to them)
+   * (listen for: their process to get to MHV or VA.gov, which site they use, what they do on the site, what "health care" means to them)
 * Do you cancel or adjust your appointments online?
 * How do you refill your prescriptions?
-* **Suggest this >>** Have you ever sent a message or email to help manage your health care?
+* How do you communicate with your providers/doctors?
 * Are there other patient portals/online systems you use to manage your health care? What do you like about them?
 
 ### Understand what's important
@@ -55,16 +55,16 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 
 * Is there anything missing on the page that you would expect to be there, that would help you with your health care? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
 * Let's look at appointments, what would you expect to see here and what information or actions do you care about most?
-** If you wanted to see all of your appointments, what would you do?
+   * If you wanted to see all of your appointments, what would you do?
 * Now let's look at pharmacy, what would you expect to see here and what information or actions do you care about most?
-** If you wanted to see all of your prescriptions, what would you do?
+   * If you wanted to see all of your prescriptions, what would you do?
 * Looking at messaging, what sort of messages would you expect to see here? Would you expect to send and receive messages?  What messages would be sent to you?  What messages and to whom would you send messages?
 * For Medical Records, what would you expect to see here and what information or actions do you care about most?
 * What information or actions would you like to see in "Health Care"?
-** If you wanted to see more details than shown here about your Health Care, what would you do?
+   * If you wanted to see more details than shown here about your Health Care, what would you do?
 * What information or actions would you like to see in "Disability"?
 * If you had trouble with something you're trying to do through this website, what would you do?  Listen to answer and then point to "Help and Resources" if this is not one of their answers
-** What information or actions would you like to see in "Help and Resources"?
+   * What information or actions would you like to see in "Help and Resources"?
 
 * If time allows: What does the term "Health Supplies" mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
 
