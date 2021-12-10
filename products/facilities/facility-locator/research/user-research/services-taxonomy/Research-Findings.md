@@ -96,13 +96,13 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 # Hypotheses and Conclusions
 
 1. Veterans will associate most services with existing category headings.
-    - **Definitely true:** Only some participants created additional categories - most participants sorted new and existing services into the pre-determined categories provided.
+    - **Definitely true:** Only some participants created new categories, and even then, they sorted the large majority of services into the predetermined categories. Most participants did not create new categories, and they sorted new and existing services into the predetermined categories.
 2. Veterans will create new categories for some of the existing services.
-    - **Maybe true:** Some participants did create new categories for existing services, and gave their reasoning for why those categories were a better fit.
+    - **Maybe true:** Some participants did create new categories for existing services, and gave their reasoning for why those categories were a better fit. It is likely that more information is needed before making a determination about new categories.
 3. Veterans will create new categories for some of the new services.
-    - **Maybe true:** Some participants did create new categories for the new services, and gave their reasoning for why they were a better fit.
+    - **Maybe true:** Some participants did create new categories for the new services, and gave their reasoning for why they were a better fit. It is likely that more information is needed before making a determination about new categories.
 4. Some of the existing, and new, services will cause confusion, and may require plainer language.
-    - **Likely true:** Most participants asked for at least one service to be explained to them, and most participants asked about the same few services.
+    - **Maybe true:** Most participants asked for at least one service to be explained to them, and most participants asked about the same few services. It is more likely that descriptive sub-headings associated with services will be adequate.
 
 # Key Findings
 
