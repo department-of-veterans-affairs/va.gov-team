@@ -31,10 +31,9 @@ Start recording.
 ### Understand what they use 
 * Tell me how you take care of your health care online
 * (listen for: their process to get to MHV or VA.gov, which site they use, what they do on the site, what "health care" means to them)
-* Are there other patient portals you use? What do you like about them?
 * Do you cancel or adjust your appointments online?
 * How do you refill your prescriptions?
-
+* Are there other patient portals/online systems you use to manage your health care? What do you like about them?
 
 ### Understand what's important
 * What do you mainly use MyHealtheVet for? 
