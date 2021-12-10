@@ -95,14 +95,16 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 # Hypotheses and Conclusions
 
+*("Maybe True", “Likely True”, “Definitely True”; “Likely False”, “Definitely False” or “Not enough information”)*
+
 1. Veterans will associate most services with existing category headings.
-    - **Definitely true:** Only some participants created new categories, and even then, they sorted the large majority of services into the predetermined categories. Most participants did not create new categories, and they sorted new and existing services into the predetermined categories.
+    - **Definitely true:** Some participants created new categories, but even they sorted the large majority of services into the predetermined categories. Most participants did not create new categories, and they sorted new and existing services into the predetermined categories.
 2. Veterans will create new categories for some of the existing services.
-    - **Maybe true:** Some participants did create new categories for existing services, and gave their reasoning for why those categories were a better fit. It is likely that more information is needed before making a determination about new categories.
+    - **Likely true:** Some participants did create new categories for existing services, and gave their reasoning for why those categories were a better fit. There was alignment across participants related to why new categories were created - that said it is likely that more information is needed before making a determination about adding specific new categories.
 3. Veterans will create new categories for some of the new services.
     - **Maybe true:** Some participants did create new categories for the new services, and gave their reasoning for why they were a better fit. It is likely that more information is needed before making a determination about new categories.
 4. Some of the existing, and new, services will cause confusion, and may require plainer language.
-    - **Maybe true:** Most participants asked for at least one service to be explained to them, and most participants asked about the same few services. It is more likely that descriptive sub-headings associated with services will be adequate.
+    - **Maybe true:** Almost all participants asked for at least one service to be explained to them, and most participants asked about the same few services.
 
 # Key Findings
 
@@ -111,17 +113,29 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 [See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
 
 1. **Most participants found the pre-determined categories adequate.**
-    - **8 of 14 participants** sorted all of their services into the pre-determined categories.
+    - **8 of 14 participants** sorted all of their services into the pre-determined categories. Of this group, the general sentiment was that the predetermined categories were sufficient for organizing the available services, and that they did not need to be changed (described differently, or re-worded) in any way.
 2. **All participants utilized the new "Administrative" category.**
-    - **14 of 14 participants** added services to the "Administrative" category.
+    - **14 of 14 participants** added services to the "Administrative" category. For the most part, participants were in the greatest alignment for the servies they added to this category. Participants seemed to have the easiest time identifying which services belonged in this category; this is the only category were there was total alignment for one service in particular, and it seemd like the overall sentiment was that administrative services were obviously and intuitively "administrative".
 3. **Some particpants suggested new categories for existing services.**
-    - **6 of 14 participants** chose to add some existing services to new categories.
-4. **Some participants suggested new categories for new services.**
-    - **2 of 14 participants** chose to add some potential new services to new categories.
+    - **6 of 14 participants** chose to add existing services to new categories. There was definite similarity to the newly created categories: most involved the process of leaving active service, and entering civilian life and/or the VA health care system. Other new categories were more varied.
+    - **New categories for existing services, related to leaving active service:**
+        - "Onboarding", "Incoming Veterans", "Transition", and "Post-service (aka I'm out - what now?)"
+    - **Other new categories for existing services:**
+        - "Financial", "Dietary Improvement", "Substance abuse", and "Vocation Rehabilitation & Employment"
+4. **A small number of participants suggested new categories for new services.**
+    - **2 of 14 participants** chose to add new services to new categories.
+    - **New categories for new services:**
+        - "Substance abuse," and "Post-service (aka I'm out - what now?)"
 5. **There were services that needed plainer description, and/or additional explanation.**
-    
+    - **13 of 14 participants** had questions about services, and most of the questions asked were about the same few services. By far, the most confusing/asked about service was "Registry exams", with **13 of 14** requiring a definition.
+    - **Services requiring more than one explanation, across participants:**
+        - "Registry exams", "Veteran connections", "Returning service member care", "Whole health", "Library services", "Advice nurse", "My HealtheVet Coordinator", and "Privacy office"
 6. **How service categorization was distrbuted across participants:**
-    
+    - The "Administrative" category had the most consistent alignment across participants.
+    - Some services were much more likely to grouped together in the same category.
+    - The most popular categories included:
+    - The least popular categories included:
+    - Participants created these new categories:
 
 # Details of Findings 
 
@@ -134,8 +148,6 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Brief description
 
 > _Supporting data: Quote here_
@@ -146,8 +158,6 @@ Brief description
 **2: All participants utilized the new "Administrative" category.**
 
 Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -160,8 +170,6 @@ Brief description
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Brief description
 
 > _Supporting data: Quote here_
@@ -172,8 +180,6 @@ Brief description
 **4: Some participants suggested new categories for new services.**
 
 Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -186,8 +192,6 @@ Brief description
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Brief description
 
 > _Supporting data: Quote here_
@@ -198,8 +202,6 @@ Brief description
 **6: How service categorization was distrbuted across participants:**
 
 Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
