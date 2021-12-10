@@ -237,8 +237,9 @@ Anything unfinished from last sprint, plus...
 
 **FE/BE**
 
-- Update how we handle loading direct deposit for edu information so it doesn't stall loading the rest of the profile
-  - Note: This might involve a design update as well, but let's talk strategy first before determining whether we need design or not 
+- Update how we handle loading direct deposit for edu information so it doesn't stall loading the rest of the profile. A couple of things on this:
+  - This might involve a design update as well, but let's talk strategy first before determining whether we need design or not 
+  - I don't know if this is entirely a frontend task or if it will involve backend work as well. Jason's team seems to be handling this by [putting things into background jobs](https://dsva.slack.com/archives/CE4304QPK/p1639150268268300?thread_ts=1639061573.262200&cid=CE4304QPK) to not stall out the rest of the functionality. Should we consider something similar?
 
 ### Personal information updates
 
