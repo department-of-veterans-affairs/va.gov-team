@@ -44,11 +44,11 @@ Start recording.
 ## While showing concept (15 minutes)
 
 ### First Impression
-Now I'm going to show you a new concept for the homepage, and when I do, I'd like you to give me your first impression of the design. 
+Now I'm going to show you a new concept for the My HealtheVet homepage, and when I do, I'd like you to give me your first impression. 
 (Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
 * Where is your attention drawn?
 * Where would you spend most of your time?
-* Is everything you do related to health care on this page?
+* Does this page have everything you do that's related to health care?
 
 ### Digging Deeper
 
