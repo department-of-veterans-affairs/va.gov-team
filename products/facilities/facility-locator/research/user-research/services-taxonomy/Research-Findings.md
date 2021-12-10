@@ -137,18 +137,11 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - **The least popular categories were:**
         - "Prepare for your visit" and "Mental health care"
 
-# Details of Findings 
+# Details of Findings
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+**1. Most participants found the pre-determined categories adequate.**
 
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-**1: Most participants found the pre-determined categories adequate.**
-
-Labels: label 1, label 2 
-
-Brief description
+[DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
 > P3: I think the categories are pretty good you know...[they] are self-explanatory and represent a good group of where I would look for information for specific things.
 
@@ -160,11 +153,9 @@ Brief description
 
 > P16: They look fine to me.
 
-**2: All participants utilized the new "Administrative" category.**
+**2. All participants utilized the new "Administrative" category.**
 
-Labels: label 1, label 2 
-
-Brief description
+[DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
 > P2: [Referencing "Registry exams"] It is registration paperwork, so it belongs in administrative...The distinction between that [the "Onboarding" category the participant created] and the admin group is that the admin group is paperwork.
 
@@ -172,11 +163,9 @@ Brief description
 
 > P13: [Reference to "Employmenet verification"] Administrative because admin people will take care of that.
 
-**3: Some particpants suggested new categories for existing services.**
+**3. Some particpants suggested new categories for existing services.**
 
-Labels: label 1, label 2 
-
-Brief description
+[DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
 > P2: I would put it ["Returning service member care"] in a different group. Every Veteran has to go through it. [Created "Onboarding" category]
 
@@ -188,19 +177,15 @@ Brief description
 
 > P18: I love VR&E I just finished mine. I wouldn’t put that in social programs, its more administrative. Actually I would personally put it in its own category. It would be called VR&E [Created "VR&E" category].
 
-**4: Almost no participants suggested new categories for new services.**
+**4. Almost no participants suggested new categories for new services.**
 
-Labels: label 1, label 2 
-
-Brief description
+[DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
 > P17: I am starting to think about developing another category with substance abuse and smoking in the same spot. Let’s just call it substance abuse for now [Created "Substance abuse" category]...Actually let’s put that ["Applying for health care"] in post service because it’s another one I might change the title later [Created the "Post-service" category].
 
-**5: There were services that needed plainer description, and/or additional explanation.**
+**5. There were services that needed plainer description, and/or additional explanation.**
 
-Labels: label 1, label 2 
-
-Brief description
+[DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
 > P3: I am not sure about what this ["Returning service member care"] is, is it returning to the va or going back to the military?
 
@@ -210,15 +195,33 @@ Brief description
 
 > P15: I guess I am not familiar with what the library services entail. Social programs and services because in my mind that’s where it fits.
 
-**6: How service categorization was distrbuted across participants:**
+**6. How service categorization was distrbuted across participants:**
 
-Labels: label 1, label 2 
+[DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
-Brief description
+**Card sort 1**
 
-> _Supporting data: Quote here_
+The standardization grid measures how many participans placed the same sevices into the same categories. 
 
-> _Supporting data: Quote here_
+![Card sort 1 - Standardization grid](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/images/Card%20sort%201%20-%20Standardization%20grid%20results.png)
+
+**Card sort 2**
+
+The standardization grid measures how many participans placed the same sevices into the same categories. 
+
+![Card sort 2 - Standardization grid](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/images/Card%20sort%202%20-%20Standardization%20Grid.png)
+
+**Card sort 1**
+
+The similarity matrix measures how often services were grouped in similar categories.
+
+![Card sort 1 - Similarity matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/images/Card%20sort%201%20-%20Similarity%20Matrix%20results.png)
+
+**Card sort 2**
+
+The similarity matrix measures how often services were grouped in similar categories.
+
+![Card sort 2 - Similarity matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/images/Card%20sort%202%20-%20Similarity%20matrix.png)
 
 # Additional Insights
 
@@ -231,7 +234,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 - **Recommendation 2: Adding relevant sub-headings to services requiring explanation**
     - Similar services required explanation across participants, so utilizing the service sub-heading design pattern for new and existing services where appropriate, should help Veterans more quickly understand why a service belongs in a particular category.
 - **Recommendation 3: Consider creating a category heading that notifies returning Veterans**
-    - [Evidence]
+    - Of the new categories that were created, the majority were related to leaving active duty service, and returning to civilian life and/or entering the VA health care system. Even though the sample size for this study was relatively small, since multiple participants pointed out the utility this category would have for them, it makes me believe that it is worth considering exploring this additional to facility pages.
 
 # Next Steps
 
