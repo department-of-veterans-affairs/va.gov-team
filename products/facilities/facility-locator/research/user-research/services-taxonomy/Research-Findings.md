@@ -131,11 +131,16 @@ _The 5-10 top findings from your study should be listed here. Write your finding
     - **Services requiring more than one explanation, across participants:**
         - "Registry exams", "Veteran connections", "Returning service member care", "Whole health", "Library services", "Advice nurse", "My HealtheVet Coordinator", and "Privacy office"
 6. **How service categorization was distrbuted across participants:**
-    - The "Administrative" category had the most consistent alignment across participants.
-    - Some services were much more likely to grouped together in the same category.
-    - The most popular categories included:
-    - The least popular categories included:
-    - Participants created these new categories:
+    - **The "Administrative" category had the most consistent alignment** across participants: participants agreed the most about which services belonged in this cateory.
+    - **Some services were much more likely to grouped together** in the same category. For example:
+        - "Billing insurance" and "Medical records"
+        - "Freedom of Inforation Act requests" and "Privacy office"
+        - "Minority Veteran care" and "LGBTQ+ Veteran care"
+        - "MOVE! weight management" and "Nutrition, food, and dietary care"
+    - **The most popular categories were:**
+        - "Administrative", "Social program and services", and "Specialty care"
+    - **The least popular categories were:**
+        - "Prepare for your visit" and "Mental health care"
 
 # Details of Findings 
 
