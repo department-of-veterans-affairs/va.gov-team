@@ -19,13 +19,24 @@
 ## December 10
 - Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
   * were existing redirects need to be updated - status?
+  * VAMC part completed
 - Final 4 transisitioned Dec 8th!!!!!
 - Help Desk
   - Any update on talks with VHA Digital Media?
+    - Transition will go into February
+  - Ambiguious requests for outlook calendars enhancements coming to help desk
+    - volume of requests may change priorities?
 - CMS will run report for VHA Digital Media showing URLS of all required services pages within all the VAMC's
   - Kevin to create ticket - status?
+  - Access granted and Lisa was happy
 - Status of this meeting going forward?
   - Sync with VHA Digital Media?
+- Page depth, customers are allowed to create new detail pages under programs
+  - Dave wants to establish parameters about how far
+  - is 5 deep the max depth? Programs are under 3 deep.
+  - currently can keep going but past 5 wont appear on left menu, we want to stop them from even creating
+  - CMS to pull into next sprint, Stan and Lis to write KB article
+
 
 
 ## December 3
