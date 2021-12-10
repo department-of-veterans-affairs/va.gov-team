@@ -131,11 +131,17 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - [Design documentation](https://app.mural.co/t/vsa8243/m/vsa8243/1638553268085/b0514c6d027e35eb98f636fa3c614872dd14b8a2?sender=u5ad49c107baa41137f271007) 
 - Technical documentation
 - How to access and test
+    - Staging env
+    - Testing documentation
+    - Payments Information test/use cases & users
+    - Payments Information a11y test case documentation
 - Release plan
+- Production env
 
 ## Key dates
 
-- Nov 2021: Kickoff
+- Nov 2021: Kickoff with MVP outlined & begin design
+- Dec 2021: Design work finalized
 
 ## Screenshots
 
