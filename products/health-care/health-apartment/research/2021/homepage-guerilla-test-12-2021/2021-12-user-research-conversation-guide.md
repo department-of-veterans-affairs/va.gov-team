@@ -59,8 +59,8 @@ When necessary, ask follow-up questions to get a deeper understanding or to clar
 Ahead of the session, adjust the Mural in your browser window so that the design shows somewhat realistically. 
 
 For moderator: 
-* For mobile: [**Use the mobile Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639160563089/325634c12ce02ca10c9cacffeac91f20f3d8d7c4?sender=u48d33d296832e946a47f4507).**
-* For desktop: [**Use the desktop Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639156727421/3e2edbbd94392a4c441f4e813d08c259193ca5be?sender=u48d33d296832e946a47f4507).**
+* For mobile: [Use the mobile Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639160563089/325634c12ce02ca10c9cacffeac91f20f3d8d7c4?sender=u48d33d296832e946a47f4507).
+* For desktop: [Use the desktop Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1639156727421/3e2edbbd94392a4c441f4e813d08c259193ca5be?sender=u48d33d296832e946a47f4507).
 
 Next:
 1. Share your screen with the participant. Share ONLY the browser window. 
