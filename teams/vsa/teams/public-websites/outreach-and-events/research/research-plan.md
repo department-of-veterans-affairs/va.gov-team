@@ -57,7 +57,7 @@ We will conduct remote moderated usability research sessions via Zoom. Research 
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555/simulate/no-panels?mode=cvhidmf)
 
 
 ## Recruitment	
