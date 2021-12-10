@@ -179,16 +179,14 @@ The logged in user information is never sent from the FE, to avoid query manipul
 
 #### Rollout
 
-* What's your rollout plan? Specifically:
-    * What % of users are you rolling out to at each phase?
-    * What metrics are you looking at before deciding to continue rollout?
+* What's your rollout plan? Please refer to the [Release Plan](release-plan.md).
 
 #### Incident response
 
 * Is there a playbook for investigating and handling likely failure modes?
-* Are there new integrations with VA backends?
-    * What is this backend's latency/availability profile?
-    * Do we have points of contact for each new backend, in case of outages or security incidents? (TODO: link to where these should be stored/documented)
+* Are there new integrations with VA backends? - There is no direct interaction with VA backends. All interactions will be with the DGIB Managed Environment. The DGIB Managed Environment is responsible of all interactions with any VA backends and not hosted on VA.gov
+* What is this backend's latency/availability profile? - 99.9% availability, REST calls are taking typically one to two seconds to respond.
+* Do we have points of contact for each new backend, in case of outages or security incidents? - Yes, we have direct access to the DGIB operations team.
 
 
 ## Interactions with dependent VA backends
