@@ -111,17 +111,17 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 [See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
 
 1. **Most participants found the pre-determined categories adequate.**
-
+    - **8 of 14 participants** sorted all of their services into the pre-determined categories.
 2. **All participants utilized the new "Administrative" category.**
-
+    - **14 of 14 participants** added services to the "Administrative" category.
 3. **Some particpants suggested new categories for existing services.**
-
+    - **6 of 14 participants** chose to add some existing services to new categories.
 4. **Some participants suggested new categories for new services.**
-
+    - **2 of 14 participants** chose to add some potential new services to new categories.
 5. **There were services that needed plainer description, and/or additional explanation.**
-
+    
 6. **How service categorization was distrbuted across participants:**
-
+    
 
 # Details of Findings 
 
