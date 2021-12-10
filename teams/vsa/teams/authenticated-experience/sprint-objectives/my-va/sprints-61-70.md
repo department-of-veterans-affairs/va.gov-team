@@ -123,14 +123,15 @@ Resume project
 
 **FE**
 
-- Update/reframe how we handle the the "Benefits you might be interested in" section
+- Update how we handle the education block in the "Benefits you might be interested in" section
   - Show the "education" block persistently. Do not check to see if someone has the benefit. This has to do with this endpoint frequently failing.
-  - We can also show the "health care" block persistently, since I suspect that might not be showing to some people who should see it.
 
 **Design**
 
-- Update/reframe how we handle the the "Benefits you might be interested in" section
-  - We might want to reframe this as something like "Popular VA benefits" or something since we are no longer personalizing this info. Design should check in with content about this.
+- Rethink the "Benefits you might be interested in" section
+  - The endpoint we are using to determine whether we show education benefits or not has been acting unreliably and affecting loading of this whole section.
+  - I also think some people who could apply for health care aren't seeing the prompt.
+  - How can we update this section? Show all three blocks? Remove this section altogether and add prompts to healthcare/disability/education elsewhere?
 
 ### My VA updates: Adding payment information
 
