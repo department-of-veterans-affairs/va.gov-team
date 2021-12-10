@@ -41,7 +41,7 @@ We will test the authenticated mobile and desktop homepage concepts with at leas
 
 ### Secondary criteria
 * At least 4 Veterans who use the My HealtheVet website to manage their VA health care, and
-* At least 2 Veterans who do not use My HealtheVet to manage their VA health care.
+* At least 2 Veterans who use a different website than My HealtheVet to manage their VA health care.
 
 **What we expect to learn:**
 * Veterans who use the My HealtheVet website will help us understand if we're going in the right direction with the concept for the health apartment homepage, given their experience with using My HealtheVet. 
