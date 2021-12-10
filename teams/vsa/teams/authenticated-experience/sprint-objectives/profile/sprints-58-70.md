@@ -237,9 +237,8 @@ Anything unfinished from last sprint, plus...
 
 **FE**
 
-- If time, I'd like Taylor to look into whether our direct deposit numbers are tracking correctly. I'm seeing far fewer loads of comp & pen information than edu information even though far more people receive comp & pen payments. This might involve pulling in an analytics person to help out.
-  - [Comp & pen report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/_u.date00=20211201&_u.date01=20211207/)
-  - [Edu report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/qEpkRFroTOSTpgaBDHXK4A/a50123418w177519031p176188361/_u.date00=20211201&_u.date01=20211207/)
+- Update how we handle loading direct deposit for edu information so it doesn't stall loading the rest of the profile
+  - Note: This might involve a design update as well, but let's talk strategy first before determining whether we need design or not 
 
 ### Personal information updates
 
@@ -247,13 +246,12 @@ This depends on whether the Perigean contract is back up and running.
 
 **Design**
 
-- Recruit for testing if contract is back
+- Update research plan with new dates (assuming this will be after the holiday)
+- Recruit for research (contract should be back up and running on December 13)
 
 **FE**
 
 - Continue whatever is left of the frontend build
-
-**Will need to find more work for Christina and Liz**
 
 ## Sprint 64 (12/29 - 1/11)
 
