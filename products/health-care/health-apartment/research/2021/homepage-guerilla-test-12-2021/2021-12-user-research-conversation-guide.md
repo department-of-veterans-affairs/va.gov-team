@@ -26,16 +26,16 @@ Start recording.
 
 ### Understand what they use 
 * Tell me how you take care of your health care online.
-> *Listen for: 
+> Listen for: 
 > * which site they use
 > * their process to get to My HealtheVet, VA.gov, or another website
 > * what they do on the site
-> * what "health care" means to them*
+> * what "health care" means to them
 
 * Do you cancel or adjust your appointments online?
 * How do you refill your prescriptions?
 * How do you communicate with your providers/doctors?
-* Are there other patient portals/online systems you use to manage your health care? 
+* Are there other patient portals, online systems, or apps you use to manage your health care? 
    * *(If yes:)* What do you like about them?
 
 ### Understand what's important to Veterans who use My HealtheVet or VA.gov
@@ -46,18 +46,14 @@ When necessary, ask follow-up questions to get a deeper understanding or to clar
 *If they use My HealtheVet:*
 * What do you use My HealtheVet for? 
 * How often do you use My HealtheVet? 
-* Is there anything you would like to do on My HealtheVet but currently cannot? 
-   * *(If yes:)* Why would you like to do that?
-   * *(If yes:)* Is there anything else you would like to do on My HealtheVet but currently cannot?
-   * *(If yes to another thing:)* Why would you like to do that?
+* Are there things you would like to do on My HealtheVet but currently cannot? 
+   * *(If yes, ask this for each thing:)* Why would you like to do that? 
 
 *If they use VA.gov:*
 * What health care things do you use VA.gov for? 
 * How often do you use VA.gov? 
-* Is there anything you would like to do on VA.gov but currently cannot? 
-   * *(If yes:)* Why would you like to do that?
-   * *(If yes:)* Is there anything else you would like to do on VA.gov but currently cannot?
-   * *(If yes to another thing:)* Why would you like to do that?
+* Are there things you would like to do on VA.gov but currently cannot? 
+   * *(If yes, ask this for each thing:)* Why would you like to do that? 
 
 ## While showing concept (15 minutes)
 Ahead of the session, adjust the Mural in your browser window so that the design shows somewhat realistically. 
@@ -71,7 +67,7 @@ Next:
 2. Confirm that they can see the page.
 
 ### First Impression
-Now I'm going to show you a new concept for the My HealtheVet homepage. When I do, I'd like you to give me your first impression. Talk out loud. Say anything that comes to mind. 
+Now I'm going to show you a new concept for the My HealtheVet homepage. I'd like you to give me your first impression. Talk out loud. Say anything that comes to mind. 
 >*Things to watch and listen for: 
 > * *Where they point their mouse first
 > * What they want to click on
@@ -82,41 +78,40 @@ Ask the participant:
 * Where is your attention drawn?
 * What other observations do you have about this page?  
  
-
 ### Digging Deeper 
-
-* Is there anything missing on the page that you would expect to be there, that would help you manage your health care online? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
-* Let's look at appointments, what would you expect to see here? 
+* Is there anything missing that you would expect to be here, that would help you manage your health care online? *(Potential follow ups: How would you use this? Where would you like to see it on the page?)*
+* Let's look at appointments: What would you expect to see here? 
    * What information or actions do you care about most?
    * If you wanted to see all of your appointments, what would you do?
-* Now let's look at pharmacy, what would you expect to see here? 
+* Now let's look at pharmacy: What would you expect to see here? 
    * What information or actions do you care about most?
    * If you wanted to see all of your prescriptions, what would you do?
-*  Looking at messaging, what sort of messages would you expect to see here? 
+* Now let's look at messaging: What kinds of messages would you expect to see here? *(e.g., "What would the messages be about?"*
    * Would you expect to send and receive messages?  
    * What messages would be sent to you?
    * Whom would you message?
-* For Medical Records, what would you expect to see here? What information or actions do you care about most?
+* For Medical Records, what would you expect to see here? 
+   * What information or actions do you care about most?
 
 * What information or actions would you like to see in "Health Care"?
-   * If you wanted to see more details than shown here about your Health Care, what would you do?
+   * If you wanted to see more information than shown here about your health care, what would you do?
 * What information or actions would you like to see in "Disability"?
-* If you had trouble with something you're trying to do through this website, what would you do?  Listen to answer and then point to "Help and Resources" if this is not one of their answers
-   * What information or actions would you like to see in "Help and Resources"?
+* If you had trouble with something you're trying to do through this website, what would you do? *(Listen to answer and point to "Help and Resources" if this is not one of their answers.)*
+   * What information or actions would you expect to see in "Help and Resources"?
 
-* If time allows: What does the term "Health Supplies" mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
+* If time allows: What does the term "Health Supplies" mean to you? *(After participant answers, tell them what it is, then ask if there is a better name for "health supplies.")*
 
 ## End questions
 
-* If you had a magic wand, what would you put on this page?  How would it work for you?
+* If you had a magic wand, what would you add to this page or change about it?
 
-* For moderator: see if any follow up questions were surfaced in Slack from other observers
+* For moderator: Check Slack for follow-up questions from other observers.
 
 * Do you have any questions for us? 
 
 ## Thank you and closing (2 minutes)
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful as we continue to work on the VA website and make sure it really works for Veterans.
 
 Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
 
-Great, well thank you so much again, and enjoy the rest of your day!
+Great, thank you so much again, and enjoy the rest of your day!
