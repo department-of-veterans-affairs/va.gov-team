@@ -34,28 +34,38 @@ Start recording.
 * Are there other patient portals/online systems you use to manage your health care? What do you like about them?
 
 ### Understand what's important
-* What do you mainly use MyHealtheVet for? 
+* What do you mainly use My HealtheVet for? 
 * How often do you use it? 
-* Is something on MyHealtheVet missing?
-
+* Is there anything you would like to do on My HealtheVet but currently cannot? 
+(Make sure to probe and ask follow-up questions). 
 
 ## While showing concept (15 minutes)
 
 ### First Impression
 Now I'm going to show you a new concept for the My HealtheVet homepage, and when I do, I'd like you to give me your first impression. 
-(Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
-* Where is your attention drawn?
-* Where would you spend most of your time?
-* Does this page have everything you do that's related to health care?
 
-### Digging Deeper
-* Is there anything missing on the page that you would expect to be there, that would help you with your health care? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
-* Let's look at appointments, what would you expect to see here and what information or actions do you care about most?
+**LA comment: recommend putting instructions for yourself of what link to bring up, or clarify which version you are showing them.**
+
+(Things to watch and listen for: Where they point their mouse to first, what they want to click on, if they remark on something missing).
+* Tell me about your first impressions. 
+* Where is your attention drawn?
+* What other observations do you have about this page?  
+ 
+
+### Digging Deeper (ASK ONE QUESTION AT A TIME)
+
+
+* Is there anything missing on the page that you would expect to be there, that would help you manage your health care online? (Potential follow ups: How would you use the missing element? Where would you like to see it placed on the page?)
+* Let's look at appointments, what would you expect to see here? 
+   * What information or actions do you care about most?
    * If you wanted to see all of your appointments, what would you do?
-* Now let's look at pharmacy, what would you expect to see here and what information or actions do you care about most?
+* Now let's look at pharmacy, what would you expect to see here? 
+   * What information or actions do you care about most?
    * If you wanted to see all of your prescriptions, what would you do?
-* Looking at messaging, what sort of messages would you expect to see here? Would you expect to send and receive messages?  What messages would be sent to you?  What messages and to whom would you send messages?
-* For Medical Records, what would you expect to see here and what information or actions do you care about most?
+* Looking at messaging, what sort of messages would you expect to see here? Would you expect to send and receive messages?  What messages would be sent to you?  To whom would you send messages? **This phrasing may be awkward. Try saying this aloud.**
+
+
+* For Medical Records, what would you expect to see here? What information or actions do you care about most?
 * What information or actions would you like to see in "Health Care"?
    * If you wanted to see more details than shown here about your Health Care, what would you do?
 * What information or actions would you like to see in "Disability"?
@@ -65,15 +75,16 @@ Now I'm going to show you a new concept for the My HealtheVet homepage, and when
 * If time allows: What does the term "Health Supplies" mean to you? After participant answers, tell them what it is, then ask if there is a better name for "health supplies."
 
 ## End questions
-* If you had a magic wand, what would you put on this page? What would you do to the VA health care system overall? How would it work for you?
+* If you had a magic wand, what else would you put on this page? 
 
-* I'm going to open the floor to my colleagues to ask any follow up questions they might have.
+**Don't ask what they would do to improve the health care system overall. Keep your questions scoped to things you can change.**
 
+**Do not open the floor to your colleagues. You have 1 moderator for this study, and that is the ONLY person who should interact with your participant. Your colleagues can feed you comments via slack.**
 * Do you have any questions for us? 
 
 ## Thank you and closing (2 minutes)
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
+Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
 
 Great, well thank you so much again, and enjoy the rest of your day!
