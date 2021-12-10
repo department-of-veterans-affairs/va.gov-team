@@ -96,7 +96,8 @@ Last updated December 10, 2021
 
 
 ---
-## Measuring Success - NOT YET FINALIZED
+## Measuring Success
+- NOT YET FINALIZED
 
 ### Looking ahead to Q1 2022 - These OKR/KPIs are potential suggestions only
 
