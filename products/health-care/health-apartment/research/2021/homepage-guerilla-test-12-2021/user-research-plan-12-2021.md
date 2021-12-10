@@ -18,7 +18,7 @@ This study focuses on 3 main areas:
 * **Content balance:** What's the right balance of content/information on the homepage, such that it doesn't overwhelm the user? How would they like that content and information presented?
 
 ### Hypotheses
-For each question, respectively, we believe the following:
+For each question above, respectively, we believe the following:
 * Veterans want to see specific tasks on the homepage. They want to see tasks and information relevant to them. This fits with a recurring theme in previous research, that Veterans are task-oriented.
 * When Veterans sign in, they expect the website to show them: 1) current health information and tasks (exs: appointments, secure messages, and refills due), and 2) whether they must take action to move a process forward (ex: finish health care application).
 * Veterans are overwhelmed by too much text. They want well-organized content that guides them to a task or resource quickly, simply, and clearly using plain language. 
