@@ -158,6 +158,7 @@ The team is concerned that the static content page maybe isn't the right approac
 
 - [Debt letters UXPin](https://preview.uxpin.com/b52fd08cb24226745f9d97041910a46c984ddc57#/pages/140629615/comment/sitemap?mode=i)
 - [Manage VA Debt Staging](https://staging.va.gov/manage-va-debt/) - User 1 should work
+- [Copay Prototype](https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/142712285/simulate/sitemap?mode=i)
 
 **What currently exists on staging with debt letters**
 
