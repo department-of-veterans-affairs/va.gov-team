@@ -108,10 +108,6 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
-
 1. **Most participants found the pre-determined categories adequate.**
     - **8 of 14 participants** sorted all of their services into the pre-determined categories. Of this group, the general sentiment was that the predetermined categories were sufficient for organizing the available services, and that they did not need to be changed (described differently, or re-worded) in any way.
 2. **All participants utilized the new "Administrative" category.**
