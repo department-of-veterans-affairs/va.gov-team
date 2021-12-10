@@ -107,7 +107,8 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 
 
 
-- **Key result #2**: Findability: Reduce search incidents for payment, debt, direct deposit or travel reimbursement.  These terms should not be in the top 20 search terms for searches generate from My VA.
+- **Key result #2**: Findability: Reduce search incidents for payment, debt, direct deposit or travel reimbursement.  These terms should not be in the top 20 search terms for searches generate from My VA. 
+- *SUGGESTION: Consider a metric that is optimized by this change, rather than not.  Look for something that has no ceiling, rather than this that has a definite floor (zero).
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
