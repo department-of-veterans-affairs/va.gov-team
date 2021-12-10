@@ -1,5 +1,7 @@
 # Security Review
-The Security Review materials for My Education Benefits are provided below.
+
+## Introduction
+The My Education Benefits application is an application hosted on VA.gov for submitting education benefit claims. It will require the user to be logged in on ID.me to be used. The vets-api endpoints developed for it will ultimately communicate with the DGIB Managed Environment. The DGIB Managed Environment is an externally hosted managed service that provides the API to support claim submissions and secures communications with vets-api throught https and JWT tokens included on the vets-api request header.
 
 ## Product Outline
 My Education Benefits product outline available [here](product-outline.md).
@@ -11,8 +13,6 @@ My Education Benefits release plan available [here](release-plan.md).
   - Architecture diagram: this can be provided by request on private channel.
 
 ## Common Questions
-
-This list of questions is _not_ intended to be comprehensive. It _is_ intended to be comprehensively covered in a review.
 
 ### Privacy
 
