@@ -68,10 +68,10 @@ Next:
 
 ### First Impression
 Now I'm going to show you a new concept for the My HealtheVet homepage. I'd like you to give me your first impression. Talk out loud. Say anything that comes to mind. 
->*Things to watch and listen for: 
+>Things to watch and listen for: 
 > * *Where they point their mouse first
 > * What they want to click on
-> * If they remark on something missing)*
+> * If they remark on something missing)
 
 Ask the participant:
 * Tell me about your first impressions. 
