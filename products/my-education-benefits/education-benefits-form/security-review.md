@@ -41,9 +41,11 @@ This list of questions is _not_ intended to be comprehensive. It _is_ intended t
 
 * Are there any new REST endpoints exposed by `vets-api`, or new behavior change on existing endpoints?
 
-For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status and letters from the DGIB Managed Environment. The DGIB Managed Environment is an external service that provides an API supporting education claim benefit functions including fetching claimant/claim status information and also claim processing automation.
+For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status, and get letters from the DGIB Managed Environment. The DGIB Managed Environment is an external managed service that provides an API supporting education claim benefit functions including fetching claimant/claim status information and also claim processing automation.
 
-The logged in user information is never sent from the FE, to avoid query manipulation. Instead, each one of these endpoints will use the logged in user information available on vets-api to generate the appropriate REST queries for the logged in user to the DGIB Managed Environment API. Secure communication between the vets-api endpoints and DGIB will be implemented using https and JWT tokens. The implemented endpoints are:
+The logged in user information is never sent from the FE, to avoid query manipulation. Instead, each one of these endpoints will use the logged in user information available on vets-api to generate the appropriate REST queries for the logged in user to the DGIB Managed Environment API. Secure communication between the vets-api endpoints and DGIB will be implemented using https and JWT tokens. DGIB expects vets-api endpoints to send JWT tokens on the request header and will validate them before sending or processing any information. 
+
+The implemented endpoints are:
 
 - meb_api/v0/claimant_info: This endpoint communicates with the DGIB services and returns claimant information to be displayed and used on My Education Benefits. A sample return object would look like:
 ```
@@ -165,10 +167,6 @@ The logged in user information is never sent from the FE, to avoid query manipul
   }
 }
 ```
-
-* Are there new integrations with VA backends?
-    * What data are we sending to this backend?
-    * How could this backend integration be misused?
 
 ### Infrastructure readiness
 
