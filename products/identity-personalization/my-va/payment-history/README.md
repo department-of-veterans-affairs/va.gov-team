@@ -1,6 +1,38 @@
-# My VA - Payment Information section - Initiative Brief 
+# Project outline: Add payment/financial info to the My VA dashboard
 
-## Outcome Summary
+Last updated December 10, 2021
+
+### Communications
+
+- **GitHub Label**: vsa-authenticated-exp; profile
+- **Slack channel**: vsa-authd-exp
+
+### Roles
+
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
+|Heather Justice|Product Manager| heather.justice@adhocteam.us |
+|Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
+|Lihan Li | BE Engineer | lihan@adhocteam.us |
+
+### Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
+- [Solution Approach](#solution-summary)
+- [Key deliverables](#key-deliverables)
+- [Key dates](#key-dates)
+- [Screenshots](#screenshots)
+
+
+## Overview
 >Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research)
  in 2020 - 2021, the recurring theme mentioned by veterans is that seeing payment info on their My VA dashboard is a high priority.  The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.  
 This effort aims to add payment information to the My VA dashboard to be elevated for logged-in veteran's awareness and attention.
