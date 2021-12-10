@@ -71,12 +71,13 @@ Next:
 2. Confirm that they can see the page.
 
 ### First Impression
-Now I'm going to show you a new concept for the My HealtheVet homepage. When I do, I'd like you to give me your first impression. 
-> *Things to watch and listen for: 
+Now I'm going to show you a new concept for the My HealtheVet homepage. When I do, I'd like you to give me your first impression. Talk out loud. Say anything that comes to mind. 
+>*Things to watch and listen for: 
 > * *Where they point their mouse first
 > * What they want to click on
 > * If they remark on something missing)*
 
+Ask the participant:
 * Tell me about your first impressions. 
 * Where is your attention drawn?
 * What other observations do you have about this page?  
