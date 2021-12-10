@@ -74,6 +74,8 @@ All of the data points are pulled from a single API call from BGS (Benefits Gate
 - Surviviors comp (DIC)
 - Caregiver program
 - VA Homeloans information
+- Copays (until launched in 2022)
+- A link to the debt portal even if a user has no debt. A user may want to be able to see past debts because of loan applications etc. This feature currently does not exist, but will soon-ish. 
 
 ### Thoughts/Questions
 
