@@ -136,6 +136,8 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 
 **In Scope - MVP**
+Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
+
   - Most recent payment
   - Dynamic debt link ('You've got 2 outstanding debt payments)
   - Manage Direct deposit [link]
@@ -158,16 +160,32 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket [#33468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33468)
+- Design Intent ticket [#33477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33477)
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
   - No marketing or communications are needed.
 
+## Key deliverables
+
+- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
+- [Design documentation](https://app.mural.co/t/vsa8243/m/vsa8243/1638553268085/b0514c6d027e35eb98f636fa3c614872dd14b8a2?sender=u5ad49c107baa41137f271007) 
+- Technical documentation
+- How to access and test
+    - [Staging env](https://staging.va.gov/my-va/)
+    - Testing documentation
+    - Payments Information test/use cases & users
+    - Payments Information a11y test case documentation
+- Release plan
+- [Production env](https://www.va.gov/my-va/)
+
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative] - TBD
+- Nov 2021: Kickoff with MVP outlined & begin design
+- Dec 2021: Design work finalized
+
 
 #### Initiative Launch Dates
 - *Target Launch Date*
