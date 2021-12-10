@@ -131,12 +131,12 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - [Design documentation](https://app.mural.co/t/vsa8243/m/vsa8243/1638553268085/b0514c6d027e35eb98f636fa3c614872dd14b8a2?sender=u5ad49c107baa41137f271007) 
 - Technical documentation
 - How to access and test
-    - Staging env
+    - [Staging env](https://staging.va.gov/my-va/)
     - Testing documentation
     - Payments Information test/use cases & users
     - Payments Information a11y test case documentation
 - Release plan
-- Production env
+- [Production env](https://www.va.gov/my-va/)
 
 ## Key dates
 
