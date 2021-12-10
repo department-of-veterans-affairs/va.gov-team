@@ -118,6 +118,12 @@ Resume project
 - Taylor: 12/24; 12/31
 - Lihan: 12/10-24
 
+### General My VA improvement
+
+**FE**
+
+- Update how we handle the Education block in the "Benefits you might be interested in" section
+  - This has to do with this endpoint frequently failing; we might want to update to show this prompt no matter what. 
 
 ### My VA updates: Adding payment information
 
@@ -132,6 +138,7 @@ Research planning/midpoint review planning
 
 - Finish design if not already done
 - Research planning/convo guide
+- Recruit if possible (nice to have, not a requirement)
 - Work with PM on list of test cases
 
 **FE**
@@ -142,6 +149,22 @@ Research planning/midpoint review planning
   - How he will show the debt information we need to show
   - Any other technical details that we should define before moving into implementation 
 
+### On-site alerts MVP
+
+Resume project!!
+
+**PM**
+
+-  Work with team to define needs for VANotify, determine what they need to do, and determine timeline for any work they need to do.
+
+**Design**
+
+- Now that this project is back on, do we want to update how where/how we plan to show alerts on My VA?
+  - If not, that's fine. If so, we'll need to update designs accordingly. 
+
+**BE**
+
+- Determine next steps for backend build; If possible, Tom can start to implement build if possible
 
 ## Sprint 64 (12/29 - 1/11)
 [Sprint 64 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30269)
