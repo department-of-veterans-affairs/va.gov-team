@@ -55,5 +55,5 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 Because implementation is underway, a few preliminary recommendations are listed here. These should be considered tentative because they may change as a result of further data synthesis and discussions with the team.
 1. Remove the _Next week_ and _Next month_ options from the date filter because they were confusing for some and the functionality can be supported more clearly using the _Custom date range_ option instead.
 2. Consider making the event list more delightful to browse by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
-3. Consider removing "Up to 12 months in advance" on the date entry screens.
+3. Consider removing the "Up to 12 months in advance" text on the date entry screens.
 4. Provide filtering by location and event type, plus a search capability to better support how participants wanted to look for events.
