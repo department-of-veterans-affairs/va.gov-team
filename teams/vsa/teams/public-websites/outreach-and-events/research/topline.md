@@ -36,8 +36,8 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 
 ### Usability Issues
 1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options.
-1. All participants readily used the _Register for this event_ button to sign up for events they wanted to attend, but there was some confusion about what would happen next. Some participants understood they were registering for only one event, some weren't sure which occurrence they were registering for, and others expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend.
-1. Most participants had little patience for scrolling through a flat list of events. 
+1. All participants readily used the **_Register for this event_ button to sign up for events they wanted to attend, but there was some confusion about what would happen** next. Some participants understood they were registering for only one event, some weren't sure which occurrence they were registering for, and others expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend.
+1. Most participants had **little patience for scrolling through a flat list of events**. 
      1. Several participants said that the list was too plain and boring-looking.
      1. Seven of 8 participants had strong negative reactions to finding events with only the date filter we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. They instead wanted to filter by location (i.e., their state) or type of event (i.e., career, health/exercise, social, Veteran _vs._ Caregiver), or do a keyword search (i.e., for "yoga" or "Veteran jobs" or "Memorial Day"). 
 
@@ -49,7 +49,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 
 > "I wouldn't have a clue on this site how to look that up. I would probably end up looking under 1, 2, 3, and Next. You'd probably end up having to go through every cotton-pickin' one and press page 2, look, look, page 3, look, look because there's no way to break it down. You'd have to look at every single page and read every one to see if you could find it" (p1).
 
-4. No one mentioned the "Up to 12 months in advance" limitation on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant.
+4. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant.
 
 ## Recommendations (*Preliminary*)
 Because implementation is underway, a few preliminary recommendations are listed here. These should be considered tentative because they may change as a result of further data synthesis and discussions with the team.
