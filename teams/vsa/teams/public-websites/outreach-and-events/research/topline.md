@@ -18,7 +18,7 @@ The purpose of this research was to get user feedback on the following **2 new d
 2. Viewing recurring events together
 
 ## Participants
-We talked to **7 Veterans plus 1 Caregiver** and asked them to interact with a mobile prototype on their smartphones. 
+We talked to **7 Veterans and 1 Caregiver** and asked them each to interact with a mobile prototype on their smartphone. 
 
 None of them had ever seen the Outreach Events page on VA.gov before, and only 4 had ever attended a VA event before. Of those 4, one signed up in person at the VA, one was signed up by their therapist, one signed up through Facebook, and one doesn't remember because it was years ago.
 
@@ -27,16 +27,16 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 1. Seven of 8 participants understood the idea of recurring events in the prototype.
 3. All participants appreciated the location information provided in the event list--city and state or "online event".
     1. When asked about what location information should be displayed in the event list, all 8 participants wanted the city and state (as shown in the prototype). A few people had additional suggestions, which should be in the event detail page but possibly also in the event list (space-permitting): street address, name of facility or building (if applicable), phone number or email address, contact name.
-5. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the *Apply filter* button. 1 person didn't use it at first but then did when they saw that the list didn't change.
-6. Date entry via dropdowns in the _Specific date_ and _Custom date range_ options
+5. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the *Apply filter* button. 1 person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
+6. Date entry via dropdowns in the _Specific date_ and _Custom date range_ options worked well for everyone. When asked what the dropdown options would do, one participant said they expected a calendar to open so they could pick a date, but they didn't mention it later when they selected dates with the dropdowns provided.
 7. Participants found it easy to navigte from an event detail page to the event list by using the browser back button (6 participants), the breadcrumbs (1 participant), or *In this section menu > Outreach events* (1 participant). 
 
 7. Six of 8 participants said that they would use the _Add to calendar_ link after they registered for the event.
-    1. On the same event detail page, 3 participants said they would share on Facebook, and no one said they would share on Twitter.
+    1. On the same event detail page, 3 of 8 participants said they would share on Facebook, and no one said they would share on Twitter.
 
 ### Usability Issues
 1. Participants generally understood how to use the date filter and its options, except there was some confusion about the meaning of the _Next week_ and _Next month_ options.
-1. All participants readily used the _Register for this event_ button to sign up for events they wanted to attend, but there was some confusion about what would happen next. Some participants understood they were registering for only one event, and others expected to register for multiple occurrences at once by checking off which dates/times they wanted to attend.
+1. All participants readily used the _Register for this event_ button to sign up for events they wanted to attend, but there was some confusion about what would happen next. Some participants understood they were registering for only one event, some weren't sure which occurrence they were registering for, and others expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend.
 1. Most participants had little patience for scrolling through a flat list of events. 
      1. Several participants said that the list was too plain and boring-looking.
      1. Seven of 8 participants had strong negative reactions to finding events with only the date filter we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. They instead wanted to filter by location (i.e., their state) or type of event (i.e., career, health/exercise, social, Veteran _vs._ Caregiver), or do a keyword search (i.e., for "yoga" or "Veteran jobs" or "Memorial Day"). 
@@ -54,6 +54,6 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 ## Recommendations (*Preliminary*)
 Because implementation is underway, a few preliminary recommendations are listed here. These should be considered tentative because they may change as a result of further data synthesis and discussions with the team.
 1. Remove the _Next week_ and _Next month_ options from the date filter because they were confusing for some and the functionality can be supported more clearly using the _Custom date range_ option instead.
-2. Consider making the event list more delightful to browse by incorporating more engaging visual elements (e.g., colored text, shaded alternate rows, meaningful symbols/icons). 
+2. Consider making the event list more delightful to browse by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
 3. Consider removing "Up to 12 months in advance" on the date entry screens.
 4. Provide more useful filters and a search capability to better support how participants wanted to look for events.
