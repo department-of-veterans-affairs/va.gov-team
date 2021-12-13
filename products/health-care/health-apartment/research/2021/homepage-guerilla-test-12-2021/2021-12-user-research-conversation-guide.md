@@ -13,7 +13,6 @@ Before we start, a few things I want to mention:
 
 * We want hear your honest opinions. We're technologists focusing on making your experience the best it can be. Understanding your thoughts will help us create better digital products for Veterans like you, and we will not be offended by any opinions you express.
 
-
 * If for any reason and at any time you want to stop the session, please let me know. This is a voluntary session, and you will not be penalized in any way if we need to stop.
 
 * Are you comfortable if I record my screen and audio as we talk today? Just so you know, these recordings are not shared outside of the people on this call. We use them only to confirm that we have captured what you have said accurately, and then we delete them 2 weeks after the session. Do you have any questions about this? Are you ok if we record today?
@@ -28,7 +27,8 @@ Start recording.
 * Please use these questions as a guide, not necessarily a script. The goal is to find out what's important to the user and if it's reflected in the design. If you see an opportunity for an important follow up question, take it. 
 
 ### Understand what they use 
-* Tell me how you take care of your health care online.
+* Do you use My HealtheVet?
+* Do you use VA.gov for your health care?
 > Listen for: 
 > * which site they use
 > * their process to get to My HealtheVet, VA.gov, or another website
@@ -36,10 +36,7 @@ Start recording.
 > * what "health care" means to them
 
 * Do you cancel or adjust your appointments online?
-* How do you refill your prescriptions?
 * How do you communicate with your providers/doctors?
-* Are there other patient portals, online systems, or apps you use to manage your health care? 
-   * *(If yes:)* What do you like about them?
 
 ### Understand what's important to Veterans who use My HealtheVet or VA.gov
 Do not ask these questions to Veterans who don't use My HealtheVet or VA.gov.
