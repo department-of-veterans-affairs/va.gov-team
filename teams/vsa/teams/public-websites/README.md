@@ -51,7 +51,7 @@ Unauthenticated Experience for VA.gov
 
 |**Roles**              |**Assigned**                        | **Photo**|
 |-----------------------|------------------------------------|-----------------|
-|DSVA Product Owner     |John Hashimoto                      |<img width="200" alt="John Hashimoto" src="https://user-images.githubusercontent.com/70410912/122793443-74a7e200-d278-11eb-8404-7685852ff08a.png">|
+|DSVA Product Owner     |David Conlon                     |<img width="200" alt="David Conlon" src="https://user-images.githubusercontent.com/70410912/145876050-563e130f-d963-4c0c-a234-4c42a3e00356.jpg">|
 |Sr Product Manager     |Brian Lloyd                         |<img width="200" alt="Brian Lloyd" src="https://user-images.githubusercontent.com/70410912/122794199-39f27980-d279-11eb-90c7-e3d2520474b3.png">| 
 |Front End Engineer     |Kelson Adams                       |<img width="200" alt="Kelson Adams" src="https://user-images.githubusercontent.com/70410912/122794450-8342c900-d279-11eb-9de4-37ecdd866cfe.png">|
 |Front End Engineer     |Trent McDole                       |<img width="200" alt="Kelson Adams" src=https://user-images.githubusercontent.com/70410912/137388756-2d4585df-4922-4f7a-a70d-2ff176b64fce.jpg>|
