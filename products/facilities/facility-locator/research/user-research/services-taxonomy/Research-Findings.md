@@ -124,7 +124,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - **Services requiring more than one explanation, across participants:**
         - "Registry exams", "Veteran connections", "Returning service member care", "Whole health", "Library services", "Advice nurse", "My HealtheVet Coordinator", and "Privacy office"
 6. **How service categorization was distrbuted across participants:**
-    - **Per-service breakdown of categories based on confidence level** [see detailed findings]()
+    - **Per-service breakdown of categories based on confidence level** [see detailed findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#details-of-findings)
     - **The "Administrative" category had the most consistent alignment** across participants: participants agreed the most about which services belonged in this cateory.
     - **Some services were much more likely to grouped together** in the same category. For example:
         - "Billing insurance" and "Medical records"
@@ -197,6 +197,10 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 **6. How service categorization was distrbuted across participants:**
 
 [DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
+
+**Per-service breakdown of recommended categories for services**
+
+Based on the Optimal Workshop statistical reports, here are my recommendations on which cateogory to put each service, and my confidence level for each one. I also list any services that the data is not clear on, and what some next step for these services could be [see next steps section]()
 
 **Card sort 1**
 
