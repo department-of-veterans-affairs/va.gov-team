@@ -123,8 +123,7 @@ Resume project
 
 **FE**
 
-- Update how we handle the education block in the "Benefits you might be interested in" section
-  - Show the "education" block persistently. Do not check to see if someone has the benefit. This has to do with this endpoint frequently failing.
+- Update how we handle the education block in the "Benefits you might be interested in" section [#33976](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33976)
 
 **Design**
 
