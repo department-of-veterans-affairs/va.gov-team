@@ -1,4 +1,5 @@
 # Conversation guide for guerrilla user research on health apartment homepage concept
+Conducted mid December 2021.
 
 ## Session setup
 For this session, the moderator will share their screen so the participant can view the health homepage without having to click a link or open a file. 
