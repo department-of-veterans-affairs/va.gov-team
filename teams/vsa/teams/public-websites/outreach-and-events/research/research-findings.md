@@ -69,7 +69,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 ### Usability Issues
 1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options. 6 people understood the options as is, but 2 people found them confusing because they didn't include the current week/month, which isn't standard usage. Some people tried using the _Custom date range_ option to specify exactly the timeframe they wanted, but the prototype with its limited functionality didn't support that use case.
     1. One participant didn't use the date filter at all because they thought it didn't work. They just scrolled through the _All upcoming_ event list to complete all tasks. 
-    2. There were 3 other participants stayed with the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
+    2. There were 3 other participants who left the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
     3. Two participants forgot about _Custom date range_ and tried to use _Specific date_ to enter a date range but found it didn't work. Then they found _Custom date range_ and used that instead--one participant figured this out on their own, and the other first needed a hint from the moderator.
     4. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
 > "No one cares about past events" (p2).
