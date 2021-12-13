@@ -38,7 +38,6 @@ VA appointment
 {Facility address}
 Directions
 
-Clinic: {Clinic name}
 Main phone: {phone number}
 TTY: 711
 
@@ -93,7 +92,6 @@ VA appointment
 {Facility address}
 Directions
 
-Clinic: {Clinic name}
 Main phone: {phone number}
 TTY: 711
 
