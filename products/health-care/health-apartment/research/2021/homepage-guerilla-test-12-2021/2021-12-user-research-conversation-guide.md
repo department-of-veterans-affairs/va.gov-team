@@ -5,23 +5,24 @@ Conducted mid December 2021.
 For this session, the moderator will share their screen so the participant can view the health homepage without having to click a link or open a file. 
 
 ### Introduction (2 minutes)
-Thanks for joining us today! My name is *(insert name)* and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience with VA health care and show you a concept for a health homepage.
+Thanks for joining us today! My name is *(insert name).* I also have some colleagues on the line observing and taking notes. Today we're going to show you a concept for putting all your health care needs in one place. We'll show you the homepage.
 
-Before we start, a few things I want to mention:
+Before we start, a few things:
 
-* This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+* This session should take about 30 minutes. I don't want to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-* We want hear your honest opinions. We're technologists focusing on making your experience the best it can be. Understanding your thoughts will help us create better digital products for Veterans like you, and we will not be offended by any opinions you express.
+* We want your honest opinions. We are focusing on making your experience the best it can be. Understanding your thoughts will help us create better digital products for Veterans like you, and we will not be offended by any opinions.
 
-* If for any reason and at any time you want to stop the session, please let me know. This is a voluntary session, and you will not be penalized in any way if we need to stop.
+* If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 
-* Are you comfortable if I record my screen and audio as we talk today? Just so you know, these recordings are not shared outside of the people on this call. We use them only to confirm that we have captured what you have said accurately, and then we delete them 2 weeks after the session. Do you have any questions about this? Are you ok if we record today?
+* Are you comfortable if I record my screen and audio as we talk today? 
+    * Just so you know, these recordings are not shared outside of our team. We use them only to confirm that we've captured what you have said accurately, and then we delete them after 2 weeks. Do you have any questions about this? Are you ok if we record today?
 
-    * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+    * If yes: Once I start recording, I am going to confirm that you are OK with me recording this session once more.
 
 Start recording.
 
-* I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+* I've started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## Prior to showing concept (5-7 minutes)
 * Please use these questions as a guide, not necessarily a script. The goal is to find out what's important to the user and if it's reflected in the design. If you see an opportunity for an important follow up question, take it. 
@@ -69,7 +70,7 @@ Next:
 2. Confirm that they can see the page.
 
 ### First Impression
-I'd like you to give me your first impression. Talk out loud. Say anything that comes to mind. And let me know when you would like me to scroll.
+I'd like your first impression. Talk out loud. Say anything that comes to mind. And let me know when you would like me to scroll.
 > Watch and listen for: 
 > * If they remark on something missing.
 
