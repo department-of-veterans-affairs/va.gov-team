@@ -5,6 +5,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/13/21: "lovely format very user friendly and updated regularly. recommend using this app instead of the actual site. keep up the good work developers :)" (Google play review)
+
+- 12/13/21: "This has to be one of the best things I have seen the VA do. This app is easier for me to use than the web pages, which are all disjointed between VA.gov, my health e vet, and e-benefits. I can see my claims info, health care messages/appointments and locator for VA clinics, community urgent care and pharmacists. Well done on that front. The only thing I wish would be the Rx refill being added to it so I don't have to use more than one app." (Google play review)
+
 - 12/7/21: "VA has really stepped up their game with this app. Easy to use and navigate. Thank you to the person or persons who developed it!!!" (Apple store review)
 
 - 12/6/21: "I love how this app makes it easier to navigate than the VA website. It's real quick to check the status of my C&P exam, and the list of upcoming medical appointments I have. I was even able to upload needed paperwork for my compensation and pension exam right from this app. I can track the status of my C&P exam, and update to any personal information for my VA account right from this app." (Apple store review)
