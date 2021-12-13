@@ -1,5 +1,25 @@
 # VA Mobile team - Release Highlights
 
+## Release: 12/21/21
+
+New + Improved
+
+- Manufaturer label added to the details screen for Covid vaccines
+- Action sheet added when removing email.  Alert for Android
+- Implementation of persistent snack bar when a user has successfully moved a message into a folder
+- Implemented the ability to move messages into folders
+- Updated 'Trash' with folder capabilities to match VA. gov functionality
+
+Bug Fixes
+
+- Updated LargeNavButton to read subtext properly
+- Removed a11yHint for LargeNavButton on Homescreen as the text was a duplicate of the subtext
+- Addressed timezone/date display for Benefit Summary letter 
+- Fixed issues of downtime message persisting when the maintenance window is past
+
+
+
+
 ## Release: 12/7/21 
 
 New + Improved
