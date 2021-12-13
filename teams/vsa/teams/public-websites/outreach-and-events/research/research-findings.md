@@ -56,7 +56,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 ### Usability Successes
 1. All participants understood the concept of **recurring events** in the prototype.
 3. All participants appreciated the **location information** provided in the event list--city and state or "online event".
-    1. When asked about what location information should be displayed in the event list, all 8 participants wanted the city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address, name of facility or building (if applicable), phone number or email address, contact name.
+    1. When asked about what location information should be displayed in the event list, all 8 participants wanted the city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address (3 participants), phone number or email address (2 participants), name of facility or building if applicable (1 participant).
 5. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button**. One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
 6. **Date entry via dropdowns** in the _Specific date_ and _Custom date range_ options worked well for everyone. When asked what the dropdown options would do, one participant said they expected a calendar to open so they could pick a date, but they didn't mention it later when they selected dates with the dropdowns provided.
 > "You can search for specific dates and customize it" (p1).
@@ -71,29 +71,49 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     2. There were 3 other participants stayed with the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
 3. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. Some participants understood they were registering for only one event, some weren't sure which occurrence they were registering for, and others expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend.
 4. Most participants had **little patience for scrolling through a flat list of events**. 
-     1. Several participants said that the list was **too plain and boring-looking**.
-     1. Seven of 8 participants had strong negative reactions to finding events with only the date filter we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. They instead **wanted to filter by location (i.e., their state) or type of event** (i.e., career, health/exercise, social, Veteran _vs._ Caregiver), **or do a keyword search** (i.e., for "yoga" or "Veteran jobs" or "Memorial Day"). 
 
-> "Just black and white...scroll scroll scroll. Kind of like all other pages. There's nothing that draws your attention to it. Just blue, black, white...page after page after page of just words and information...it just gets boring" (p1)
+> "Too much of everything with random events--like a classified section" (p2).
+    
+1. Two participants said that the event list was not welcoming because it's **too plain and boring-looking** with bland colors. Two participants said that it was too much undifferentiated white on the events list, and one of them suggested making it easier to read by shading alternate events in the list (like the default table formatting in Powerpoint).
+
+> "Just black and white...scroll scroll scroll. Kind of like all other pages. There's nothing that draws your attention to it. Just blue, black, white...page after page after page of just words and information...it just gets boring" (p1).
+
+
+1. Seven of 8 participants had strong negative reactions to finding events with only the date filter we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. They instead **wanted to filter by location (i.e., their state) or type of event** (i.e., career, health/exercise, social, Veteran _vs._ Caregiver), **or do a keyword search** (i.e., for "yoga" or "Veteran jobs" or "Memorial Day"). 
 
 > "I wouldn’t filter by date because I don’t know when it is" (p10).
 
-> "Too much of everything with random events--like a classified section" (p2).
-
 > "I wouldn't have a clue on this site how to look that up. I would probably end up looking under 1, 2, 3, and Next. You'd probably end up having to go through every cotton-pickin' one and press page 2, look, look, page 3, look, look because there's no way to break it down. You'd have to look at every single page and read every one to see if you could find it" (p1).
 
+
 4. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation.
+5. On event detail pages, the navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information. 
 
 
-# Additional Feedback: 
+### Feedback for other teams
 
-xxx
+1. Two participants said that the descriptions of events on the event detail page read like ads but were missing important logistical details needed to help decide whether to register. Examples:
+    1. For yoga: What type of yoga? What props do I need?
+    2. For the career event: Where do you create your profile and what information is needed to do that? What companies will be there? What type of jobs are these companies looking to fill? Where are these jobs located? Should you show up with your resume, or will the event help you put one together? 
+    3. How many people are expected to be there, especially if it's a support group? One participant, who's a caregiver for her Veteran husband, said that it makes a big different for him with his PTSD. Similarly, people with anxiety might want to know how many people to expect and decide whether to attend based on this information.
+1. Some events in the event list didn't have a description, or what was there duplicated the event title or was too vague to understand anything about the event ("Presented by American Red Cross"). 
+2. One participant said they didn't like the American flag shown in the top left corner next to "An official website of the United States government" because it's not accurate because the stars aren't lined up the way they are in the real American flag. [Show picture of each to compare]
 
 # Recommendations
+## Near term
 1. Remove the _Next week_ and _Next month_ options from the date filter because they were confusing for some participants, and the functionality can be supported more clearly using the _Custom date range_ option instead.
 2. Consider making the event list more delightful to browse by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
 3. Consider removing the "Up to 12 months in advance" text on the date entry screens.
-4. (For the future) Provide filtering by location and event type, plus a search capability to better support how participants wanted to look for events.
+4. Visually differentiate the navigation link _See other outreach events_ (_See all events_ on Production) from the event description on the event detail page.
+1. Content editors should include more information about each event, including the following:
+    2. For the event list, include a meaningful short description that is a concise descriptive overview of the event. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
+    5. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event, rough estimate of how many people might be there (e.g. 8-12, 20-50, over 100). 
+    6. For the event detail page, provide the name of the building or facility if applicable (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
+
+## For the future
+6. Provide filtering by location and event type, plus a search capability to better support how participants wanted to look for events.
+7. Consider including a location filter to see events "near me", per the user's home address (if they're logged in) or current location (via smartphone).
+8. Consider including a "get directions" link on event detail pages that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
 
 ## For MVP
 1. 
