@@ -31,9 +31,10 @@
 ## Monday, December 13, 2021
 * Integrating/being informed of changes in VAST - both Lighthouse and CMS teams
       * Meeting last week may shine light on path forward - update?
-* Basic Location Data Questions: Facility type/classification, Phone numbers confusion/conflicts, and "additional inquiries"
-  * What will be source of truth for services phone numbers?  VAST or CMS?
-  * Dave to talk to Jenny.
+        * Communication path has been opened
+      * Service phone number source of truth?
+* Removing Facility status migration?
+  * Keep until Dave talks to Jenny
 
 ## Monday, December 6, 2021
 * Integrating/being informed of changes in VAST - both Lighthouse and CMS teams
