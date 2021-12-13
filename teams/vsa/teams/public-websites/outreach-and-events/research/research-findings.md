@@ -101,7 +101,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 4. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation.
 5. On event detail pages, the navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information.
 6. There were several confusions with terminology used in the interface, each of which was mentioned by only one participant:
-    7. The "Outreach" heading--it sounds like charity (i.e., handing out food, clothes to those who need them)
+    1. The "Outreach" heading--it sounds like charity (i.e., handing out food, clothes to those who need them)
     1. Didn't recognize "G.I." in the event list because they were looking for the most commonly used word "Veteran" instead
     2. Didn't think to look for "career" when looking for an event about jobs
 8. To find VA events, 2 participants said they would use Google instead of this Outreach Events page on VA.gov.
@@ -121,16 +121,15 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 # Recommendations
 ## For MVP (near term)
 1. Remove the _Next week_ and _Next month_ options from the date filter because they were confusing for some participants, and the functionality can be supported more clearly using the _Custom date range_ option instead.
-
 3. Consider removing the "Up to 12 months in advance" text on the date entry screens.
-4. Visually differentiate the navigation link _See other outreach events_ (_See all events_ on Production) from the event description on the event detail page.
+4. Visually differentiate the navigation link _See other outreach events_ (_See all events_ on Production) from the event description on the event detail page so it's easier to see as navigation rather than part of the event description.
 1. Content editors should include more information about each event, including the following:
-    2. For the event list, include a meaningful short description that is a concise descriptive overview of the event. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
-    5. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event, rough estimate of how many people might be there (e.g. 8-12, 20-50, over 100). 
-    6. For the event detail page, provide the name of the building or facility if applicable (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
+    1. For the event list, include a meaningful short description that is a concise descriptive overview of the event. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
+    1. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event, rough estimate of how many people might be there (e.g. 8-12, 20-50, over 100). 
+    1. For the event detail page, provide the name of the building or facility if applicable (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
 
 ## For future iterations
-5. Provide filtering by location (i.e., state) and event type, plus a search capability to better support how participants wanted to look for events.
+5. Provide filtering by location (i.e., state), event type, and search to better support how participants wanted to look for events.
 7. Consider making the event list more delightful to browse by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
 8. Consider including a location filter to see events "near me", per the user's home address (if they're logged in) or current location (via smartphone).
 9. Consider including a "get directions" link on event detail pages that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
