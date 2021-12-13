@@ -1,4 +1,4 @@
-[IN PROGRESS]
+[PRE-APPROVAL]
 
 # Non-Clinical Services Taxonomy - Research Findings 
 
@@ -7,8 +7,6 @@
 **Designer / Researcher:** Nick Osmanski (nick.osmanski@amida.com)
 
 Date: MM/DD/YYYY
-
-[Research Report PDF] (link here)
 
 - **Jump to:**
     - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#hypotheses-and-conclusions)
@@ -233,7 +231,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
     - Every participant utilized the "Administrative" category, making it one of the most popular categories for new and existing services. The general sentiment was that some services seemed obviously administrative because they involed registration, paperwork, and requiring employee help for same.
 - **Recommendation 2: Adding relevant sub-headings to services requiring explanation**
     - Similar services required explanation across participants, so utilizing the service sub-heading design pattern for new and existing services where appropriate, should help Veterans more quickly understand why a service belongs in a particular category.
-- **Recommendation 3: Consider creating a category heading that notifies returning Veterans**
+- **Recommendation 3: Consider creating a category heading that calls out returning Veterans**
     - Of the new categories that were created, the majority were related to leaving active duty service, and returning to civilian life and/or entering the VA health care system. Even though the sample size for this study was relatively small, since multiple participants pointed out the utility this category would have for them, it makes me believe that it is worth considering exploring this additional to facility pages.
 
 # Next Steps
@@ -250,6 +248,8 @@ _If there are demographics that were not included in this study or you discovere
     - We did not have any identified LGBTQ+ participants, and multiple participants stated that they did not feel qualified to categorize the "LGBTQ+ Veteran care" service. In order to better understand where LGBTQ+ Veterans would categorize services designed for their health care needs, it would be beneficial to to speak with LGBTQ+ Veterans to hear their suggestions.
 - **More participants who identify as minority Veterans and/or people of color**
     - While this study had a few participants that identifed as people of color, it was mostly made up of white/caucasian participants. It would be beneficial to speak to more minority Veterans in order to hear more suggestions on how to categorize the "Minority Veteran care" service.
+- **Additionl tree testing**
+    - Based on the results of this study, a tree test may help validate any categories that are added/created to facility pages.
 
 # Appendix
 
@@ -262,16 +262,6 @@ _If there are demographics that were not included in this study or you discovere
 ## Tools used for Synthesis
 
 [Synthesis Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1637341823231/41fe6212a7720bc245fb5fb8abe2b140a618a420?sender=u8a90be72499ecb4354e14700)
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 ## Who we talked to 
 
