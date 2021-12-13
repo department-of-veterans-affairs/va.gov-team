@@ -5,7 +5,7 @@ Conducted mid December 2021.
 For this session, the moderator will share their screen so the participant can view the health homepage without having to click a link or open a file. 
 
 ### Introduction (2 minutes)
-Thanks for joining us today! My name is *(insert name).* I also have some colleagues on the line observing and taking notes. Today we're going to show you a concept for putting all your health care needs in one place. We'll show you the homepage.
+Thanks for joining us today! My name is *(insert name).* I also have some colleagues on the line observing and taking notes. Today we're going to show you a concept for putting all your health care needs online in one place. We'll show you the homepage.
 
 Before we start, a few things:
 
