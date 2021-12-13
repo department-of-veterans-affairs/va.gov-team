@@ -16,6 +16,56 @@
 
 </details>
 
+## December 10
+- Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
+  * were existing redirects need to be updated - status?
+  * VAMC part completed
+- Final 4 transisitioned Dec 8th!!!!!
+- Help Desk
+  - Any update on talks with VHA Digital Media?
+    - Transition will go into February
+  - Ambiguious requests for outlook calendars enhancements coming to help desk
+    - volume of requests may change priorities?
+- CMS will run report for VHA Digital Media showing URLS of all required services pages within all the VAMC's
+  - Kevin to create ticket - status?
+  - Access granted and Lisa was happy
+- Status of this meeting going forward?
+  - Sync with VHA Digital Media?
+- Page depth, customers are allowed to create new detail pages under programs
+  - Dave wants to establish parameters about how far
+  - is 5 deep the max depth? Programs are under 3 deep.
+  - currently can keep going but past 5 wont appear on left menu, we want to stop them from even creating
+  - CMS to pull into next sprint, Stan and Lis to write KB article
+
+
+
+## December 3
+* Naming issue on Lovell landing page?
+  * Lisa trying as fix, if it doesnt work will async with CMS
+- Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
+  * existing redirects need to be updated
+- Final 4 to be transisitioned Dec 8th
+- Training status
+  * Few stragglers but bulk is completed
+- Help Desk
+  - What will be the expectation on timeline for VHA Digital Media to respond when things get escalated to them
+    - Dave Conlon working with Jenny to establish SLA between Help Desk and VHS Dig Med staff conversations ongoing
+    - Meetings coming up to discuss issues resolution process and timing
+  - capacity for screen sharing sessions
+  - check training requests against PA list as they come in to see if they are PA officers if not check with VHA Digital to verify authority
+- CMS will run report for VHA Digital Media showing URLS of all required services pages within all the VAMC's
+  - Kevin to create ticket
+
+## November 26
+- VAMC-health service pages (LGBTQ+ as example) reports looking for similar URL drift problems  (QA) review
+- Training status (Wrap up)
+  * Next steps
+- Help Desk
+  - What will be the expectation on timeline for VHA Digital Media to respond when things get escalated to them
+  - capacity for screen sharing sessions
+- VAMC migration list for Dec 1st
+  * (18) systems:  central western massachusetts, central ohio, columbia missouri, northern arizona, mountain home, st louis, marion, north texas, amarillo, el paso, texas valley, greater los angelos, phoenix, beckley, and louisville 
+
 ## November 19
 - Training status
   * last group to be trained next 

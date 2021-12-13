@@ -1,5 +1,7 @@
 # Mobile App Measures of Success
 
+[To be updated]
+
 ## Overall Bet
 
 What value does the app provide to Veterans? Our big bet is that:

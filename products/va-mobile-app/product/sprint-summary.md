@@ -2,6 +2,77 @@
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 
+## Sprint: 11/24/21 - 12/7/21
+
+- View Vaccine Records
+  - Vaccine manufacturer design, BE development complete
+  - Completed another round of vaccine incomplete state design work (implementation to be deprioritized and put in the backlog)
+
+- Identity
+  - Validated Login.gov implementation, attributes are returning as expected
+  - Direct Deposit:  Backend dev complete added direct deposit mfa flags
+
+- Enhanced Demo Mode
+  - Completed Enhanced Demo Mode by adding data for Vaccine & Community Care appts, and Legacy Appeal
+
+- Tech/Design Debt & Maintenance
+  - Fixed date time zone issue display for benefits & summary letter (Sev 2)
+  - Documentation site - continuing to build our pages and draft content
+
+- Dark Mode
+  - Completed v.1 implementation, reviewed and listed styling changes, began implementing changes 
+
+- Redesign 
+  - Personalization wireframes ready for UX meeting and tree-testing materials drafted for future
+
+- Secure Messaging Refinements
+
+  - Added ability to Move messages into folders, updated “Trash” with folder capabilities to match VA.gov functionality 
+
+- RX Refill
+   - Alex held user research sessions for RX Refill
+
+
+## Sprint: 11/10/21 - 11/23/21
+
+- View Vaccine Records
+  - Vaccine Records MVP released to production on 11/23 
+  - Began work on vaccine 2.0
+
+- Co-Design & Redesign
+  - Implemented v.1 of Dark Mode 
+  - IA readout session held on 11/18
+  - Draft of IA structure for user testing
+  - Team held brainstorming session for personalization
+  - Started personalization wireframes
+
+- Secure Messaging Refinements
+  - Completed designs for delete single secure message draft and hand off to engineering
+  
+- Push Notifications - Appointments
+  - Released to production on 11/23 
+
+- Analytics
+  - Claims file upload utilization event created to track ….
+  - Implemented tracking of accessibility features large text and screen reader
+
+- Tech/Design Debt & Maintenance
+  - Implemented ability to log into Demo Mode on Android, revise login on iOS 
+  - Completed Demo Mode P1 tickets (secure messaging inbox, claims stage 4)
+  - Fixed immunization prod nile note field bug
+  - Progress made towards documenting on-call procedures 
+  - Fixed crashing issues when adding appointments to a calendar & uploading or adding photos in claims 
+
+- Documentation Sites
+  - Initial setup completed
+  - Back-end - Identified and created site map for information that will be included in the initial structure
+
+- Rx Refill
+  - Met with Kathy & Nancy to review the research plan
+  - Usability testing plan submitted
+
+
+
 ## Sprint: 10/27/21 - 11/9/21
 - View Vaccine Records
   - Development for MVP complete (scheduled for 11/23 release!)

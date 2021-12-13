@@ -27,7 +27,7 @@ None
 
 </details>
 
-## Wednesday, November 10, 2021 
+## Wednesday, December 8, 2021 
 
 ### Key Grooming Factors:
 1. Breakdown User Stories into smaller tasks.
@@ -36,20 +36,13 @@ None
 
 ### Backlog Tickets:
 
-- [ ] [BUG] Google Analytics opt-out component [#32587](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32587) (Update legacy code on all pages)
-- [ ] [BUG] VA Facility and Status Updates Banner Dismissible function misaligned (Safari) [#32630](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32630) 
-- [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606) 
-- [ ] [Tech Discovery] Veteran Crisis Line (VCL) Feature Toggle Add [#31866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31866) 
+- [ ] [Markup and meta data] HTML markup isn't valid. (09.01.1) [#31441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31441) 
+- [ ] [BUG] Google Analytics opt-out component [#32587](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32587) 
 - [ ] [508-defect-2:] The sticky footer alert is inaccessible to screen reader users and a negative experience for keyboard and mobile users [#32285](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32285)
 - [ ] [Tech Debt] Megamenu code refactor [#32443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32443) 
 - [ ] Migrate VA.gov megamenu items to Drupal [#32681](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32681)
-- [ ] Changing H3s to H2s in featured content blocks from Sitewide Content [#32673](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32673) 
-
-### Future Work Grooming: 
-- Outreach & Events: 
-
-- Promo Banner Migration work: Goal: Move content maintenance of the Promo Banners out of Hardcoded Vets-website and into CMS.  
-
+- [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606)
+- [ ] Redirect Request - Vet Center MVP pages Batch 2 [#28651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28651) 
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  

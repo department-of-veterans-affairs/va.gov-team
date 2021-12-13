@@ -5,6 +5,26 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/13/21: "lovely format very user friendly and updated regularly. recommend using this app instead of the actual site. keep up the good work developers :)" (Google play review)
+
+- 12/13/21: "This has to be one of the best things I have seen the VA do. This app is easier for me to use than the web pages, which are all disjointed between VA.gov, my health e vet, and e-benefits. I can see my claims info, health care messages/appointments and locator for VA clinics, community urgent care and pharmacists. Well done on that front. The only thing I wish would be the Rx refill being added to it so I don't have to use more than one app." (Google play review)
+
+- 12/10/21: "With eBenefits going away, would be nice to see more details transferred from there and/or easily accessible in one place verses split between App and the main VA Website. Would also be a huge benefit to have access (all in one place) a segmented view of "some" of the myhealthevet info, e.g., appts, meds, a quick-link of phone numbers associated to that individuals PCM, CBOC, VA Hospital they are tied - along with their VA card for ID purposes. Safeguard it - But use the technology! Stop issuing if you can - place on your hand-held for free. Good start, applaud the efforts to making things easily accessible! In light of our ever-aging elderly veterans, I have mentioned much of this for "their" User Experience/Friendliness!" (Apple store review)
+
+- 12/7/21: "VA has really stepped up their game with this app. Easy to use and navigate. Thank you to the person or persons who developed it!!!" (Apple store review)
+
+- 12/6/21: "I love how this app makes it easier to navigate than the VA website. It's real quick to check the status of my C&P exam, and the list of upcoming medical appointments I have. I was even able to upload needed paperwork for my compensation and pension exam right from this app. I can track the status of my C&P exam, and update to any personal information for my VA account right from this app." (Apple store review)
+
+- 12/1/21: "The app is a great first step! I mean, it's ten years overdue, but it's the VA after all. I didn't have high expectations, but the app is clean, easy to navigate and offers veterans quick access to their information. It can only get better (I hope) and offer more information. Ideally, it can be a one-stop shop for all VA-related info, so no need to bounce between the VA site, eBenefits and other sites searching for info. Please don't stop updating!" (Apple store review)
+
+- 11/30/21: "Really I was thinking oh great another .gov app! But this one is different! Easy to use and works well! I'm impressed!!" (Apple store review)
+
+- 11/28/21: "Hello military friends, the @DeptVetAffairs has a mobile app now. You can do your claims on it as well. It seems extremely easy. Also your appts can be checked through here easy af." "I downloaded it fully expecting a dumpster fire of an app...but I'm pretty impressed with it so far. All my info, appts, everything is correct." "It’s seriously good stuff." [Twitter thread](https://twitter.com/poke_m0m/status/1465086436366069772)
+
+- 11/24/21: "I say thank you..Finally a simple way to handle a one stop shop application! Glad that it got done the right way.. Thank you.." (Apple store review)
+
+- 11/23/21: "Everything you need is at your fingertips. Great job VA!" (Apple store review)
+
 - 11/16/21: "I'm very impressed with this App! It is intuitive, easy to navigate and contains information I never noticed in Safari with MHV. The 'Letters' feature is spot on. I immediately downloaded a couple letters for my records. I sincerely thank whoever thought of the Proof of Service card. It will make checkout at the hardware store, so much easier! I give this App and The VA App Development team a big thumbs up for Ease of use and Content! Keep up the good work!" (Apple store review)
 
 - 11/12/21: "The app is great. I hope it continues to grow to give us access to more things but we are off to a great start." (Apple store review)
@@ -51,6 +71,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## Appointments
 
+- 11/23/21: "I love this app. Is getting better with each update. For not he only issues is the add the calendar the apple app will trash. Also, hopefully Dark Mode will be added sometime soon. Great job to whoever is working on this app." (Apple store review)
+
 - 11/12/21: "This is a great app to access info quickly and manage your appointments." (Apple store review)
 
 - 11/11/21: "As someone who frequently uses the VA website for disability claims and healthcare, this is a huge timesaver. I read in another review that there might soon be notifications of medical appointment changes. This would be huge since I'm usually not told when an appointment changes or gets cancelled..." (Apple store review)
@@ -69,6 +91,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## Letters
 
+- 11/2/21: Sharing screenshot of the letters screen to show 100% disability rating [Reddit link](https://www.reddit.com/r/VeteransBenefits/comments/r133pz/a_year_and_a_half_later_and_we_made_it_boys_and/)
+
 - 11/17/21: "I did not have high expectations of this app. I'm going to be honest. However, I have found it to be extremely helpful!! Every letter you could need is here at your fingertips. Pleasantly surprised." (Apple store review)
 
 11/9/21: Users who share screenshots of disability rating on Reddit:
@@ -84,9 +108,17 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## Disability claim status
 
+- 11/28/21: "I would like to see more detailed information about my claim status on the website. My status has been showing the same number for 3 months now and it would help a lot to have more detail on where exactly the claim is in the process. Evidence gathering, review, and decision is a really broad and unspecific description of the claim status." (Apple store review)
+
+- 11/22/21: "App is decent but can be much better. Like actually giving some information on where EXACTLY claim is. More than just we received your claim. How bout claim was received on June 20 by Jane smith. Jane smith is doing or is waiting for x y and z. Your claim has moved to John Doe and he is working on x, y, and z. Telling the vet that his claim is up to date as of the current date is misleading because they may think that there was an update when the app is just giving him the date and time they first logged in for that day. The name of the person working on your claim and/or the office where the calim is located would be beneficial as well." (Apple store review)
+
 - 11/20/21: "100 p&t from BDD claim with no VSO, thanks to this Sub...I got out in October of this year and got the correspondence yesterday through the VA phone app..." [Reddit link](https://www.reddit.com/r/VeteransBenefits/comments/qybpst/100_pt_from_bdd_claim_with_no_vso_thanks_to_this/)
 
 - 11/11/21: "...The only improvement I would like to see is an ability to reresh the status of a disability claim. For instance it its 4:30 in the afternoon now but it is showing my most recent status from when I checked it at 10pm yesterday. It seems you can only check it once per 24 hours with the app. This is fine most of the time but when they are getting close to publishing a final decision, I'd like to refresh more often. As it stands, this is now pushing me back to the website daily." (Apple store review)
+
+## Vaccine card
+
+- 11/24/21: "This is awesome. It even shows my vax card." [Reddit link](https://www.reddit.com/r/VeteransBenefits/comments/r1iuib/va_app_i_use_someone_asked/)
 
 
 ## Internal/Stakeholder Feedback

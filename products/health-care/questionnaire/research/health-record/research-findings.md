@@ -115,7 +115,7 @@ We conducted 7 remote moderated tests via Zoom using the Perigean contract. To s
 - The top three prioritized pieces of data or features for medications are medication name and dose refills remaining, and directions (take with food). Medications also have four main mental model grouping for data/features: “when and what,” “things to pay attention to,” “providers,” and “tracking information.”
 - The top three prioritized pieces of data or features for allergies are allergy name (Peanuts, Lactose intolerance), reactions (Rash, Anaphylaxis), and severity level (High risk, Low risk). Allergies also have three main mental model groupings for data/features: “what,” “actions,” and “when and where.”
 - How often Veterans want to review and update this information varied from every appointment to annually.
-- Some Veterans were surprised that they would be empowered to propose  health record changes to their VA providers via a questionnaire or patient portal page. 
+- Some Veterans were pleasantly surprised that they would be empowered to propose  health record changes to their VA providers via a questionnaire or patient portal page. 
 - Health questionnaires can expand the current ecosystem of Veteran-provider communications.
 
 ## Detailed Research Findings
@@ -327,7 +327,7 @@ _Activity completed by 6 participants._
   - before each appointment
   - based on appointment types and what could impact that appointment, so definitely before all physicals and procedures (like colonoscopies).
 
-### Some Veterans were surprised that they would be empowered to propose health record changes to their VA providers via a questionnaire or patient portal page.
+### Some Veterans were pleasantly surprised that they would be empowered to propose health record changes to their VA providers via a questionnaire or patient portal page.
 - Veterans’ surprise really centered around this empowerment. While some Veterans immediately accepted this ability, others needed reassurance that they were allowed to submit these changes. A few participants wondered if they would/should be required to send supporting documentation when submitting changes to their health record. The research team reassured some participants that providers would be reviewing all submissions sent via questionnaire or patient portal page before actually changing their health record. 
 - Interestingly, Veterans currently have this ability via My HealtheVet, phone, secure messaging, and in-person communications. Out of all the current methods, many participants discussed their comfort with utilizing secure messaging as the digital solution to share this information. Secure messaging was mentioned multiple times throughout this study. It is definitely seen as a current way to communicate changes with their provider.
 - We aren’t completely sure why participant reactions varied by method of communication (secure messaging versus questionnaire/patient portal page). Ultimately, patient reactions were really more of a pleasant awe compared to concern when discussing questionnaires and patient portal pages. They saw it as a good thing that they would be able to take this much control of their health.

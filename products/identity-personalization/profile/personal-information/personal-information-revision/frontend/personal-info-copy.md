@@ -1,10 +1,11 @@
 # Personal Information Front-End Documentation
-Last Updated 11/17/2021
+## Note: This copy assumes the "other" text entry fields are visible by default, even before the user selects "other" option for a given field.
+Last Updated 11/29/2021
 
 - [Personal Information Page - Read Only State](#personal-information-page---read-only-state)
 - [Personal Information Page - Blank State](#personal-information-page---blank-state)
 - [Personal Information Page - Edit State](#personal-information-page---edit-state)
-- [Personal Information Page - Edit State - Required _Other_ Fields](#edit-state---required-other-fields)
+- [Personal Information Page - Edit State - Required _Other_ Fields (Error State)](#edit-state---required-other-fields-error-state)
 
 ## Personal Information Page - Read-Only State
 
@@ -27,7 +28,19 @@ Last Updated 11/17/2021
 - Connected apps
 
 ### Info Link
-"How do I update my name. date of birth, or gender?" <br>
+"Why do we ask for this?"
+_On click, this info link will display the following_ see [this Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/kavvLel) for reference
+
+Why we ask for this information
+
+Some of the information in this section tells us how you want to be addressed as a person. For example, our staff will know your pronouns and the name you'd like us to use when you call or come in to VA.
+
+If you get health care through VA, information in this section helps your care team better assess your health needs and risks. For example, gender identity and sexual orientation are some of the factors that can affect a person’s health, well-being, and quality of life. We call these factors “social determinants of health.”
+
+We also collect this information to better understand our Veteran community. This helps us make sure that we’re serving the needs of all Veterans.
+
+### Info Link
+"How do I update my name. date of birth, or sex assigned at birth?" <br>
 _On click, this info link will display the following, as currently seen on va.gov/profile/personal-information_
 
 **If you’re enrolled in the VA health care program**
@@ -44,7 +57,7 @@ Please contact your nearest VA regional office to update your personal informati
 
 
 ### Field Set
-- Per a11y feedback in design intent review, the fieldset div **should not** contain a gray header with "Personal information" because it causes screen readers to "Personal information" twice, which may be confusing.
+- Per a11y feedback in design intent review, the fieldset div **should not** contain a gray header with "Personal information" because it causes screen readers to read aloud "Personal information" twice, which may be confusing.
 
 ### Field Labels and Content 
 
@@ -136,7 +149,7 @@ Edit your profile to add a pronoun <br>
 ---
 
 
-**Birth sex**
+**Sex assigned at birth** 
 Female
 - _Note this is a change to the existing label that currently reads 'Gender'_
 - _Note - this field is non-editable_
@@ -160,8 +173,7 @@ Edit your profile to add a sexual orientation <br>
   - Note that in the Edit state, only _one_ field is editable at a time.
 
 ### Specification
-The Edit state is structured the same as the read-only state, except that the field selected for editing will display a form control as listed in the table below.  
-
+The Edit state is structured the same as the read-only state, except that the field selected for editing will display form controls listed in the table below.  The Pronouns (3), Gender identity (5), and Sexual orientation (6) fields each provide an "other" option.  When this option is selected, its accompanying text box (3a, 5a, and 6a in the table below) become required.  
 ### Sketch Mockups
 - [Personal Information Page - Desktop Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
 
@@ -169,40 +181,42 @@ The Edit state is structured the same as the read-only state, except that the fi
 ### Form Field Edit State Labels and Selection Options
 
 
-| Field | Label              | Form Control                                            | Max Length | Data Type | Pre-Populated Options    | Comments                                                             |
-|-----------|--------------------|-----------------------------------------------------|------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1         | Date of Birth      | N/A - non-editable                                  |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; no change   
-| 2         | Preferred name     | Text input                                          | 25         | Char        | N/A                                                           
-| 3         | Pronouns           | Checkboxes                                          | Pre-filled | Char        | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Prefer not to answer"<br>"Pronouns not listed here"  |  |
-| 4         | Sex assigned at birth          | N/A - non-editable                                  |  N/A - non-editable      |  N/A - non-editable      |  N/A - non-editable         | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
-| 5         | Gender identity    | Radio buttons                                       | Pre-filled | Char      | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here"                       |                                                                      |
-| 6         | Sexual orientation | Radio buttons                                       | Pre-filled | Char      | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here" |   |
+| Field     | Label                                                                             | Form Control                | Max Length           | Data Type             | Pre-Populated Options                                                                                                                                                            | Comments                                                                                                                                                                                             |
+|-----------|-----------------------------------------------------------------------------------|-----------------------------|----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1         | Date of Birth                                                                     | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; no change   
+| 2         | Preferred name                                                                    | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | 25 char limited to be confirmed by MPI
+| 3         | Pronouns                                                                          | Checkboxes                  | Pre-filled           | Char                  | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Prefer not to answer"<br>"Pronouns not listed here"                     |                                             |
+| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
+| 4         | Sex assigned at birth                                                             | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
+| 5         | Gender identity                                                                   | Radio buttons               | Pre-filled           | Char                  | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here"                                         |                                                                      |
+| 5a        | If not listed, please provide your gender identity (25 characters maximum)        | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Gender Identity when "Please provided a gender identity in the field provided" is selected<br /><br />25 char limited to be confirmed by MPI   |
+| 6         | Sexual orientation                                                                | Radio buttons               | Pre-filled           | Char                  | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here"   |                                          |
+| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
 
-  
 
-## Edit State - Required _Other_ Fields
+## Edit State - Required _Other_ Fields (Error State)
 
 ### Specification
-The Pronouns (3), Gender identity (5), and Sexual orientation (6) fields each provide an "other" option.  When this option is selected, a text box is displayed, and is denoted as being required as shown in 3a, 5a, and 6a in the table below.  
+The error state displayed on the "other" text fields only occurs if the user selects the "other" option for a given field, then attempts to save without entering a value into the accompanying text field. 
 
 ### Sketch Mockups
 - [Personal Information Page - Desktop Required Other Fields state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/MyzeRwb)
 - [Personal Information Page - Mobile Required Other Fields state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/v8W437Q)
 
-
 ### Form Field Edit State Required _Other_ Fields Labels and Selection Options
 
-| Field | Label                  | Form Control                                                                                                                                | Max Length           | Data Type             | Pre-Populated Options                                                                                                                                                    | Comments                                                                                                                                                                                             |
-|-----------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1         | Date of Birth      | N/A - non-editable                                                                                                                      | N/A - non-editable   | N/A - non-editable    | N/A - non-editable         | Field already exists; no change   
-| 2         | Preferred name     | Text input                                                                                                                              | 25                   | Char                   | N/A                                                           
-| 3         | Pronouns           | Checkboxes <br> "Please provide a prounoun in the field provided" <br> text input (4a) when "Pronouns not listed here" selected         | Pre-filled           | Char                  | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Prefer not to answer"<br>"Pronouns not listed here<br> Please provide a pronoun in the field provided [open text field]"  |  |
-| 3a        | N/A                | Text input                                                                                                                              | 25                   | Char                  | N/A                                                                                                                                                          | Captures custom value for Pronouns when "Pronouns not listed here" is selected            |
-| 4         | Sex assigned at birth          | N/A - non-editable                                                                                                                      | N/A - non-editable   | N/A - non-editable    | N/A - non-editable         | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
-| 5         | Gender identity    | Radio buttons <br> "Please provide a gender identity in the field provided" <br> text input (5a) when "A gender not listed here" selected                                                                | Pre-filled           | Char                  | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here<br> Please provided a gender identity in the field provided<br>[open text field]"                       |                                                                      |
-| 5a        | N/A                | Text input                                                                                                                              | 25                   | Char                  | N/A                                                                                                                                                          | Captures custom value for Gender Identity when "Please provided a gender identity in the field provided" is selected     |
-| 6         | Sexual orientation | Radio buttons <br> "Please provide a gender identity in the field provided" <br> text input (6a) when "A sexual orientation not listed here" selected                                                    | Pre-filled           | Char                  | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here"<br> [open text field]"|   |
-| 6a        | N/A                | Text input                                                                                                                              |25                    | Char                  | N/A                                                                                                                                                          | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected  
+
+| Field     | Label                                                                             | Form Control                | Max Length           | Data Type             | Pre-Populated Options                                                                                                                                                            | Comments                                                                                                                                                                                             |
+|-----------|-----------------------------------------------------------------------------------|-----------------------------|----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1         | Date of Birth                                                                     | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; no change   
+| 2         | Preferred name                                                                    | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | 25 char limited to be confirmed by MPI
+| 3         | Pronouns                                                                          | Checkboxes                  | Pre-filled           | Char                  | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Prefer not to answer"<br>"Pronouns not listed here"                     |                                             |
+| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
+| 4         | Sex assigned at birth                                                             | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
+| 5         | Gender identity                                                                   | Radio buttons               | Pre-filled           | Char                  | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here"                                         |                                                                      |
+| 5a        | If not listed, please provide your gender identity (25 characters maximum)        | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Gender Identity when "Please provided a gender identity in the field provided" is selected<br /><br />25 char limited to be confirmed by MPI   |
+| 6         | Sexual orientation                                                                | Radio buttons               | Pre-filled           | Char                  | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here"   |                                          |
+| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
 
 
 ## Related GitHub Tickets

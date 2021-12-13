@@ -1,20 +1,19 @@
-# St. Louis Research Visit Nov. 2021
+# St. Louis Research Visit Findings Nov. 2021
+**Office of the CTO- Digital Experience (OCTO-DE), Check-in Experience**
+
+November 23, 2021
 
 Researchers: Kristen McConnell (kristen.mcconnell@adhocteam.us) and Julie Adair (julie.adair@agile6.com)
 
-## How this research maps to the Veteran journey
-- It is part of "Living civilian life" and  "Taking care of myself," specifically this product allows Veterans to check in for a VA medical appointment with their mobile phone.
+[Downloadable PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/research-findings.pdf)
 
-## OCTO-DE goals that this research supports
-- Veterans can manage their health services online
-- Logged-in users have a personalized experience, with relevant and time-saving features
-- Measures to increase
-  - Completion rate of online transactions
-  - Usage of digital, self-service tools
-- Measures to decrease
-  - Time to successful complete and submit online transactions
+**Jump to:**
+- [Background and Methodology](#background)
+- [Key Findings](#key)
+- [Detailed Research Findings](#detailed)
+- [Recommendations and Next Steps](#next)
 
-## Background and Methodology
+## <a id="background"></a>Background and Methodology
 ### Background
 This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. One portion of the ecosystem enables Veterans to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via va.gov. Another portion, called pre-check-in, allows the Veteran to complete a series of tasks, in order to prepare for their appointment, a few days before the appointment.
 
@@ -28,7 +27,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
   - 1 MSA Lead
   - 1 MSA Supervisor (same person as St. Charles County)
   - 1 Clinic Manager
-- We also observed a few Veterans checking in on a kiosk as staff assisted them. We did not engage Veterans or ask them questions.
+  - We also observed a few Veterans checking in on a kiosk as staff assisted them. We did not engage Veterans or ask them questions.
 
 - At St. Charles County VA Clinic, we conducted interviews with and observed the following staff:
   - 3 MSAs
@@ -36,15 +35,39 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
   - 1 MSA Supervisor (same person as Franklin County)
   - 1 Clinic Manager
 
-### About Frankline County VA Clinic
+### About Franklin County VA Clinic
+![Waitingroom](https://user-images.githubusercontent.com/66287082/143084408-59a454b0-9b42-4e90-9088-c62de7ead72e.jpg)
+*Waiting room with COVID screener*
+
+![Counter](https://user-images.githubusercontent.com/66287082/143084453-3e673bb4-3578-4a4e-b3cb-96c12af122fc.jpg)
+*Check-in counter with 2 MSAs*
+
+![IMG_2224](https://user-images.githubusercontent.com/66287082/143082525-15f1a0fd-b127-4eb0-ae27-5a108493ac54.jpg)
+*1 kiosk currently in use*
+
+![IMG_2230](https://user-images.githubusercontent.com/66287082/143082567-cfeb9c97-9ab7-4761-b13c-e3723beef268.jpg)
+*Not a lot of wall space for the check-in poster*
+
 - One waiting room for 3 primary care providers and 9 other specialties, such as physical therapy and labs.
 - An hour away from the main St. Louis VAMC, not super close to other VA locations, and in a more rural location.
 
 ### About St. Charles County VA Clinic
+![IMG_6670](https://user-images.githubusercontent.com/66287082/143084723-f628c076-4816-488f-b5df-602baa1a5364.jpg)
+*Waiting room with 1 kiosk currently in use*
+
+![IMG_6681](https://user-images.githubusercontent.com/66287082/143084814-7984d53c-1619-4245-93b7-f443fa752ff9.jpg)
+*Check-in counter with 2 MSAs*
+
+![IMG_6674](https://user-images.githubusercontent.com/66287082/143084867-b4411bd7-6971-46c4-a5a6-805cd630df76.jpg)
+*Not a lot of wall space for the check-in poster*
+
+![IMG_2237](https://user-images.githubusercontent.com/66287082/143084944-bfcdc970-4809-43bb-a3b7-efd0b9a488b8.jpg)
+*In building with other businesses*
+
 - One waiting room for 4 primary care providers and 9 other specialties, such as physical therapy and labs.
 - A larger, younger and more tech-savvy patient population than Franklin with better cell reception and closer to St. Louis.
 
-## Key Findings
+##  <a id="key"></a>Key Findings
 ### Patient Tracking
 - Franklin utilizes VetLink and Teams messages to notify clinical staff that Veterans have arrived. St. Charles mostly used VetLink for these notifications and sent Teams messages as an extreme back-up.
 - St. Charles utilizes VetLink statuses throughout the entire appointment.
@@ -63,7 +86,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 ### Pilot Site Location Feedback
 - The MSA Supervisor and Clinic Manager suggested that St. Charles might be a better pilot site due to better cell reception and a younger/more tech-savvy patient population.
 
-## Detailed Research Findings
+##  <a id="detailed"></a>Detailed Research Findings
 ### Patient Tracking
 **Franklin utilizes VetLink and Teams messages to notify clinical staff that Veterans have arrived. St. Charles mostly used VetLink for these notifications and sent Teams messages as an extreme back-up.**
 - Most specialists and LPNs monitor VetLink; clinical staff do not have access to VSE GUI.
@@ -104,7 +127,7 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 - Staff believe some no shows or Veterans coming onsite at incorrect times or days is partially due to ignoring current appointment notifications.
   - Staff mentioned that it might be better to review demographic information every so often and not at every appointment.
 - LPNs call about a week prior to an appointment and ask a lot of the same questions that are planned for pre-check-in.
-- One clinic manager stated that they would not stop their LPNS from making certain pre-visit phone calls without medication reconciliation and clinical reminders being a part of pre-check-in.
+- One clinic manager stated that they would not stop their LPNs from making certain pre-visit phone calls without medication reconciliation and clinical reminders being a part of pre-check-in.
 
 **All staff found it valuable to know when a Veteran completed pre-check-in, started check-in, and completed check-in via mobile check-in. They also wanted to know if they needed to review demographic or insurance information with the Veteran.**
 - Pre-check-in started was the only status that some staff thought wouldn’t be valuable to them.
@@ -124,12 +147,16 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
     - A list of referrals for additional appointments are also listed on this sheet.
   - At the end of the appointment, the Veteran leaves with this paper.
 
+![IMG_6725](https://user-images.githubusercontent.com/66287082/143085061-d4682c3a-c4ca-49a4-ba86-925339f4f22f.jpg)
+![IMG_2236](https://user-images.githubusercontent.com/66287082/143085121-57a1178d-3072-4898-b11d-9f2f5387972e.jpg)
+*Images of Franklin’s routing sheet and the folders where MSAs place the printouts. The clinical staff pull the paperwork out of the folders when they come to get the Veteran.*
+
 ### Pilot Site Location Feedback
 **The MSA Supervisor and Clinic Manager suggested that St. Charles might be a better pilot site due to better cell reception and a younger/more tech-savvy patient population.**
 - St. Charles also has a higher volume of patients. 
 - However, St. Charles is going to move locations.
 
-## Recommendations and Next Steps
+## <a id="next"></a>Recommendations and Next Steps
 ### Patient Tracking
 - Implement visual alerts for MSAs that require acknowledgement, so the messages aren’t missed due to complex and busy environments.
 - Implement alerting for clinical staff, so they know a Veteran has checked in.
@@ -151,3 +178,8 @@ The complete [conversation guide](https://github.com/department-of-veterans-affa
 
 ### Pilot Site Location Feedback
 - After visiting both locations, we agree that St. Charles might be the better pilot site. However, an alternative solution to printing and staff alerts are needed before either can become a pilot site.
+
+## Appendix
+- [Research plan and conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/conversation-guide.md)
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/st-louis/nov-site-visit/visit-notes.md)
+- [Synthesis document](https://app.mural.co/t/vfscie8528/m/vfscie8528/1636988669152/a67708f12dcd56035eb5cf12f0e32e414467c399?sender=uc940f53ad96ac0203d6d3631)

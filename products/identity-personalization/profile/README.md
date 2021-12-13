@@ -1,17 +1,10 @@
 # Product Outline: VA.gov Profile
 
-Last Updated November 16, 2021
+Last Updated: December 7, 2021
 
 ### Communications
-- GitHub Label: Profile
-- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-- Keywords
-     - Profile
-     - Profile 2.0
-     - Contact information
-     - Direct deposit
-     - VA Profile (formerly Vet360)
-     - Notification settings, communication permissions
+
+Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 
 ### Roles  
   
@@ -19,15 +12,9 @@ Last Updated November 16, 2021
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
-|Christina Gesnalske| Designer | ? |
-|Zach Morel |FE Engineer| zach.morel@gcio.com |
-
-These folks have historically worked on the profile and may still do some work as needed:
-
-|Name|Role|Email|
-|----|----|-----|
+|Christina Gesnalske| Designer |christina.gednalske@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Zach Morel |FE Engineer| zach.morel@gcio.com |
 |Taylor Mitchell | FE Engineer| taylor.mitchell@gcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
@@ -41,13 +28,11 @@ These folks have historically worked on the profile and may still do some work a
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
-- [Solution Narrative](#solution-narrative)
+- [Projects](#projects)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
 - [Backend Systems that Support the Profile](#backend-systems-that-support-the-profile)
 - [Design](#design)
-- [Screenshots](#screenshots)
-- [Release notes](#release-notes)
 
 ---
 
@@ -57,10 +42,11 @@ The [VA.gov profile](https://staging.va.gov/profile) provides a centralized plac
 
 Currently, the VA.gov profile supports the following information:
 
-- Personal and contact information
-- Military information
-- Direct deposit information
-- Notification preferences
+- [Personal information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information)
+- [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
+- [Military information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information)
+- [Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
+- [Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences)
 - Account security
 - Connected apps (managed by the Lighthouse team)
 
@@ -111,80 +97,39 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## Measuring Success
 
-*What are the measurable targets you're aiming for that delivers value for Veterans?*
+Current metrics we're tracking:
 
-**Objective #1: To be the place where Veterans and other users can review all the information the VA knows about them, and reliably update (or learn how to update) outdated or incorrect information.**
+- [Notification preferences MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-preferences#measuring-success)
 
-- **Key result #1**: Finish integrating direct deposit for edu information into the VA.gov profile in **Q2 2021 (April – June)**.
-- ~**Key result #2**: Add preferred medical facilities information to the VA.gov profile **Q3 2021 (July – September)**.~
-- **Key result #3**: Maintain a 97%+ success rate on all user-generated updates/form submissions that happen from the VA.gov profile.
-- **Key result #4**: Maintain a 97%+ success rate on retrieval of all information that is pulled into the profile.
+## Projects
 
-**Address update KPIs**
+### Current projects & enhancements
 
-[Address validation report](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
-
-|KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
-|----------|-------------|---------------|----------------|----------------|
-|Mailing address: % of successful saves | 95.9%| 94.9% |TBD|TBD|
-|Home address: % of successful saves | 98.3% | 98.1% |TBD|TBD|
-
-**Direct deposit KPIs**
-
-- [Direct deposit for comp & pen report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
-- [Direct deposit for edu report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/UJwvqguWQMqJaGySJWq1VQ/a50123418w177519031p176188361/)
-
-
-|KPI/metric|Q1 Jan - March 2021|Q2 April - June |Q3 July - September 2021| Q4 October - December 2021|
-|----------|-------------|---------------|----------------|----------------|
-| Comp & pen: % successful retrievals | 97.6%| 97.4% | | |
-| Comp & pen: % successful saves | 87.7%*| 93.3% | | |
-| Edu: % successful retrievals |N/A| 90.9% | | |
-| Edu: % successful saves |N/A| 97.9% | | |
-
-*This percentage is due to an error state in BGS that they don't want to get rid of around certain routing numbers having been flagged for fraud in a 2015 fraud ring. While these routing numbers are no longer an issue and the fraud team has recommended removing the error, it still exists and causes a significant amount of failures on VA.gov.
-
-**Objective #2: To be the place where Veterans and other users can configure settings that allow them to customize their VA.gov experience.**
-
-- **Key result**: Launch notification preference settings MVP in the VA.gov profile in **Q3 2021 (July – September)**.
-     See [success metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md#measuring-success)for Notification Preferences 
-
-## Solution Narrative
-
-### Current projects
-
-|Product/Project| Outline|
+|Project|Status|
 |----|----|
-| Commmunications permissions/notifications preferences | [Notification preferences outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) |
+|[Personal information updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | Design and Build |
 
-### Past projects
+### Completed projects & enhancements
 
-|Product/Project| Outline|
+|Project or enhancement|Status|
 |----|----|
-|Combine profile and account (Profile 2.0)| [Profile 2.0 outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md)|
-|Connected apps | [Connected apps outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps-data/README.md)
-|Address validation| [Address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)|
-|Direct deposit for comp & pen | [Direct deposit for comp & pen outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)|
-|Contact information| [Contact information outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)|
-|2018 MVP| [2018 MVP outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Readme.md)|
-|Direct deposit for edu| [Direct deposit for edu outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md)|
-|Preferred medical facility| [Preferred facility outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md) |
+[VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Launched November 2021 |
+|[Updated layout and button styles for better screen reader experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23665) | Launched July 2021 | 
+|[Add confirmation email for contact info updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8383) | Launched June 2021 |
+|[Add contact info FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23376)| Launched April 2021|
+|[Direct deposit for edu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/edu-direct-deposit/README.md) | Launch completed April 2021 |
+|[Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Launch completed October 2020|
+|[Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md) | Launch completed March 2020||
+|[Direct deposit for comp & pen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md) | Launch completed Jan 2020|
+|[VA Profile (formerly Vet360) initial integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1) | Launch completed Summer 2018 |
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
-### Timeline
-
-- 2016/17 — Prototypical "account" page on Vets.gov.
-- Spring 2018 -- Original EMIS profile launched to Vets.gov.
-- Summer 2018 — Profile backend transitioned to VA Profile (then- Vet360).
-- 2019 — Direct deposit for comp & pen added to the profile.
-- 2019/2020 – Address validation added to the Mailing and Home address fields.
-- 2020 -- Profile 2.0 redesign (launched Fall 2020).
-- 2021 — Direct deposit for edu added to the profile. Explored adding preferred facilities (did not move forward). Notification preferences set to launch in Nov 2021.
-- Nov 2021 -- Notification preferences (aka communications permissions) is launched.
 
 ## How to Access and Test
 
 - Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
 - Visit https://staging.va.gov/profile/
+- [Additional staging user information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Administrative/vagov-users)
 
 ## Error Handling
 
@@ -201,29 +146,10 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 ## Design 
 
-- [2018 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1/design)
-- [2020 Profile 2.0 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design)
-- Designs as of November 2021 (added Notification settings, separated Personal info + Contact info)
-  - Personal information (link coming soon)
-  - [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
-  - [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
-  - Direct deposit (link coming soon)
-  - [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
-  - [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
-  - [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
-
-## Screenshots
-
-![Personal and contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-text%20checked.png)
-
-![Military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/military-information/Military%20Information.jpg)
-
-![Direct deposit information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit.jpg)
-
-![Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20-%20Identity%20Verified.jpg)
-
-![Connected apps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-connected.jpg)
-
-## Release Notes
-
-[Published quarterly in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Profile-release-notes.md)
+- [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
+- [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [Direct deposit](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131)
+- [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
+- [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
+- [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)

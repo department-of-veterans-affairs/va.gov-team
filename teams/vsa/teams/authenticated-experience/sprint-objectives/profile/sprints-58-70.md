@@ -160,9 +160,103 @@ Onboard Christina to this work:
 - Pull in work for Erik and Taylor from the backlog
 - If Zach as availability pending Find a Form work, pull in tickets from backlog for him, too
 
-## Sprint 62 (12/1 - 12/14)
+## Sprint 62 (12/1 - 12/14) 
+[Sprint 62 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33435)
+
+Anything unfinished from last sprint, plus...
+
+### PTO
+- Lihan: December 10 - 23
+
+### General updates
+
+**PM**
+- Scope/prioritize reminder for address updates to remind Veterans they have two addresses on file they may need to update #30112
+
+**Design**
+
+- Update content for how to update name/birth date/birth sex (Update content for health info first if we haven't heard back from VBA)
+
+### Direct deposit
+
+- All direct deposit updates should be done by Friday
+- Make sure direct deposit works for Login.gov staging users (PM, Design, FE, BE should all do their own validation)
+
+### Notification preferences
+
+**PM**
+
+- Submit for 508 accessibility review (might need to check in with platform on how exactly to do this)
+
+**Design**
+
+- Update content to reflect notification settings #29582
+
+### Personal information updates
+
+**PM**
+
+- Midpoint review 
+
+**Design**
+
+- Recruit for user testing
+- Mock session for user testing
+- Start testing, if time 
+
+**FE**
+
+- Continue FE build
+
+**BE**
+
+- Start BE build (tickets TBD after we talk to MPI on Wednesday)
 
 ## Sprint 63 (12/15 - 12/28)
+
+### PTO
+
+- Samara: 12/23-24; 12/29-31
+- Heather: 12/23-24; 12/31
+- Marci: 12/23-27; 12/30-31
+- Tressa: 12/24; 12/29-31
+- Liz: 12/24-31
+- Christina: 12/23-31
+- Taylor: 12/24; 12/31
+- Lihan: 12/10-24
+- Tom: 12/27-31
+- Adam: 12/27-28
+
+### Onboarding
+
+- Onboard Tom
+
+### General profile needs
+
+**PM**
+
+- QA contact information after 12/17 on staging re: VA Profile migrating to new API to make sure all our functionality works
+
+**FE/BE**
+
+- Update how we handle loading direct deposit for edu information so it doesn't stall loading the rest of the profile. A couple of things on this:
+  - This might involve a design update as well, but let's talk strategy first before determining whether we need design or not 
+  - I don't know if this is entirely a frontend task or if it will involve backend work as well. Jason's team seems to be handling this by [putting things into background jobs](https://dsva.slack.com/archives/CE4304QPK/p1639150268268300?thread_ts=1639061573.262200&cid=CE4304QPK) to not stall out the rest of the functionality. Should we consider something similar?
+
+### Personal information updates
+
+This depends on whether the Perigean contract is back up and running.
+
+**Design**
+
+- Update research plan with new dates (assuming this will be after the holiday)
+- Recruit for research (contract should be back up and running on December 13)
+- Confirm with Josh & Angela whether they reviewed our designs for the midpoint review. If not, please set up some time to talk through the designs with them to determine if there are any accessibility concerns.
+
+
+**FE**
+
+- Continue whatever is left of the frontend build
 
 ## Sprint 64 (12/29 - 1/11)
 

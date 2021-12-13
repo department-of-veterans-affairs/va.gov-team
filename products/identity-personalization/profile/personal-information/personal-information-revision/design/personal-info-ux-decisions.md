@@ -2,7 +2,7 @@
 
 Initial Designer: Kevin Hoffman, VA/OCTO-DE | Head of Design Operations, Account Experience Crew Lead
 
-Last updated: 11/17/2021
+Last updated: 12/08/2021
 
 ## Background and goals
 
@@ -29,8 +29,14 @@ Last updated: 11/17/2021
 - IA feedback also recomended placing the FAQ text immediately under the fields for **Birth sex** and **Date of birth**, but as Samara pointed out, no pattern for this currently exists in Profile.  At this time we will not modify the original placement, but may do so later if Christina Gednalske and Liz Lantz come up with a different solution.
 - Confirmed that we will use the term "Birth sex" in place of "Gender" as is established by MPI's data and also recommended by Danielle Theierry.
 
-
 ### Use experimental design pattern on radio inputs
+
+### Radio buttons - input field, error state, and interactivity specifics
+
+12/8/2021
+
+- Checked in with Kevin and determined input text fields are already present in edit state - no hidden elements
+- (tentative) When typing into input field, automatically check matching radio button for "An answer not listed here"
 
 ***
 

@@ -6,7 +6,7 @@
 ---
 
 ## User acceptance testing
-Five UAt sessions were conducted from June X to June Y, 2021. X of Y users participated.
+Five UAT sessions were conducted from June 7 to June 16, 2021. 2 of 6 users participated.
 
 ## UAT testing of direct deposit for EDU
 

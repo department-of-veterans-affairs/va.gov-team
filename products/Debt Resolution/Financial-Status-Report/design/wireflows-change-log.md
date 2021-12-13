@@ -1,5 +1,14 @@
 # FSR Wireflows Change Log
 
+## Wireflow V2
+**Date:** November 30, 2021
+![V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/assets/FSR%20List%20Loop%20Redesign%20-%20Ideation%20v1.jpg?raw=true)
+
+**Feedback/Notes:**
+- This major redesign was done to eliminate the current list loops as they performed poorly during usability testing, and the global move toward asking one question per page. This outline represents each of the list loops that will be gutted and replaced, while leaving untouched pages alone.
+
+
+
 ## Wireflow V1.1
 **Date:** October 22, 2020
 ![V1.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/assets/fsr-wireflow-1-1.jpg)

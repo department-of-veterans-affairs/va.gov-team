@@ -53,7 +53,7 @@ Welcome! This issue will be used to track your onboarding to the VSA Program.
 
 *Month 1*
 - [ ] Request SOCKS Access, after SAC Adjudication
-- [ ] Complete VSP Orientation (Invite sent by VSP team)
+- [ ] Self assign [Platform Orientation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=orientation-epic.md&title=Platform+Orientation+Template) for getting onboarded with VA.gov Platform
 
 **Operation Lead Tasks**
 

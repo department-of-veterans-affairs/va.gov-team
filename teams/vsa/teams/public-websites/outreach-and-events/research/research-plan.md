@@ -56,10 +56,8 @@ We will conduct remote moderated usability research sessions via Zoom. Research 
 - *Observer: Angela Fowler will observe sessions with participants using a screen reader*
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555/simulate/no-panels?mode=cvhidmf)
 
 
 ## Recruitment	
@@ -90,9 +88,8 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ## Timeline
 
 ### Prepare
-
-* Pilot participant email: Dave Sukharan (dave.sukharan@adhocteam.us)
-* Date and time of pilot session: Nov 29 or 30 at time TBD
+* Pilot #1: **Nov 29 3:30-4:30 pm** ET with Keith Adkins (keith.adkins@adhocteam.us)
+* Pilot #2: **Nov 30 2:30-3:30 pm** ET with Dave Sukharan (dave.sukharan@adhocteam.us)
 
 ### Research sessions
 Dec 1 - Dec 6, 2021 
@@ -102,7 +99,7 @@ Dec 1 - Dec 6, 2021
 
 ### Availability
 
-Team Availability | Time (EST)
+Team Availability | Time (ET)
 ------------------|--------------
 Dec 1, 2021 | Noon - 3 pm, 5 - 8 pm
 Dec 2, 2021 | Noon - 3 pm, 4 - 8 pm
@@ -113,9 +110,10 @@ Dec 6, 2021 | Noon - 3 pm, 4 - 8 pm
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Participant for pilot test:	Dave Sukharan (dave.sukharan@adhocteam.us)
+- Participants for pilot test:	(noted above)
 - Note-takers:	Perigean
-- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com)
+- Observers:	Brian Lloyd (Brian.Lloyd@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Dave Conlon (david.conlon@va.gov), Kelson Adams (kelson.adams@gcio.com), Jim Adams (james.adams@gcio.com)
 
 ## Approvals
-Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
+- Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
+- Reviewed and approved by Lauren Alexanderson on Nov 24, 2021.

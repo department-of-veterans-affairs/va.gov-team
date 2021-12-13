@@ -3,6 +3,7 @@ This is a decision register to capture decisions the team feels need to be docum
 | Decision  | Owner | Date | Notes | Link |
 | --------- | ----- | ---- | ----- | ---- |
 | The Pre-Checkin token validity will be for 24 hours and the veteran will need to re-authenticate after that period. | Patrick | 11/10/2021 | | [slack](https://dsva.slack.com/archives/C022AC2STBM/p1636566903374900?thread_ts=1636564483.369900&cid=C022AC2STBM) |
+| Appointments at multiple facilities on the same day will not be supported until post-MVP at the soonest | Stephen + Patrick | 11/16/2021 | | [slack](https://dsva.slack.com/archives/C022AC2STBM/p1637078951426300?thread_ts=1636550509.363200&cid=C022AC2STBM) |
 
 
 

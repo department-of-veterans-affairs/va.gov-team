@@ -1,0 +1,210 @@
+# 21-526EZ Application for Disability Compensation and Related Compensation Benefits - Form Reduction/Simplification
+
+## Table of Contents
+
+### Executive Summary
+- [User Problem Statement](#user-problem-statement)
+- [Solution Goals](#solution-goals)
+- [Assumptions](#assumptions)
+- [Requirements and Constraints](#requirements-and-constraints)
+- [Discovery Takeaways](#discovery-takeaways)
+- [Solution Approach / History](#solution-approach--history)
+- [Value Proposition](#value-proposition)
+- [KPIs](#kpis)
+
+### Implementation Information
+- [Status](#status)
+- [Roadmap](#roadmap)
+- [Errors](#errors)
+- [Relevant Endpoints](#relevant-endpoints)
+- [Service Level Objectives](#service-level-objectives)
+- [Bugs](#bugs)
+- [Team](#team)
+- [Resources and Documentation](#resources-and-documentation)
+
+---
+
+## User Problem Statement
+
+It's confusing and stressful for Veterans to complete what is a very lengthy form. Best practices suggest the form be broken down into segments, along with a progress bar/tracker.
+
+## Solution Goals
+
+### User goals
+- Successfully reduce the complexity of the form 
+- Understand progress toward form completion 
+- K
+
+### Business goals
+- Increase customer satisfacton
+- Reduce time to completion for simpler submissions
+- Build trust with customers (Veterans)
+
+## Assumptions
+- The new form submission proceess will be speedier for the majority of Veterans
+- Veterans are dissatisfied with the current claims process (including the need to get help from VSOs) and want a better, easier-to-use tool for submission of claims that they can use on their own
+
+## Requirements and Constraints
+- The complexity of the disability claims process requires a considerable amount of resources if redesigned and improved upon from scratch
+- Each claim is a uniquely individualized process that cannot be standardized or predicted as it is dependent upon the user's data and VA regulations; we're limited with regard to how streamlined we can make the process
+- User data will be pulled, at least in part, from partner services
+
+## Discovery Takeaways
+
+- Knowing what evidence to attach to a claim, and actually obtaining those records, is really opaque and frustrating for Veterans (and even for VA too). "VA should already know this about me."
+- Knowing how to fill out the form is also pretty opaque and frustrating, it results in folks entering conditions and/or evidence incorrectly, and thus makes the submissions difficult to rate - requires more back-and-forth during development
+- The evidence evaluation process is pretty subjective, so there’s variance in the quality of processing claims, and often a lot of rework. This part of the process takes the longest
+- A complete online submission option exists and works, but people aren't using it - they say it's because of downtime (likely logon related), information overload, and perceived dead ends
+- VA has already begun mapping out several initiatives focused on getting the processing average to 60 days
+
+## Solution Approach / History
+Redesign the online form so that Veterans may select the areas that apply to them and forego other unnecessary steps. 
+
+### MVP
+**Last updated:** July 24, 2018
+As Minimum Viable Product (MVP), launch a modernized end-to-end tool on VA.gov for a Veteran to submit a specific type of claim: Claims for Increased Disability. This addresses about 10% of the overall claims traffic, but the process for submitting claims for increase is less complex than other claim types. Starting with this subset of claims will allow us to build a small, high-quality product quickly and test it in production with real users. We'll then have the foundation for a tool that can handle all claim types, and it’ll be on a modern platform with a rapid deployment cycle, so as we learn from user interactions and as VA business requirements for new features get solidified, we can adjust to true user needs and scale quickly.
+
+Based on our discovery work, we've identified guideposts for the solution design:
+- Build help into the process where it matters most
+- We already know the answers to many of the questions we ask Veterans, let's reduce the burden of making them answer again
+- When we do have to collect evidence, make it easier
+- Try to head off scheduling problems that lead to denials
+- Understand when we can’t help, and provide a graceful off-ramp
+
+A new 526EZ form will be released in summer 2018. As we are steadily moving toward UAT at that time, our approach is to move forward with the current design and implementation that we've established. We will work with VA POC Kayce White to understand the impact of the impending form changes so that following soft launch, we can iterate on the tool to adjust to the changes if needed.
+
+### V2
+In March, 2019, we released V2, dubbed "all claims," (technically a misnomer) which allows Veterans to apply for new conditions as well as increase their rated disabilities. Veterans which have no rated disabilities may not have the necessary information on file to successfully submit an application, so we're directing them to eBenefits in the "disability benefits wizard" if they're trying to submit an Original Claim.
+
+![Disability wizard screenshot](/Products/Disability/Disability%20526EZ/screenshots/disability-compensation-wizard-original-claim.png)
+
+In V2, there are a number of ancillary forms a Veteran can fill out based on the conditions and other statuses they're claiming. For more information, see the [Ancillary Forms](/Products/Disability/Disability%20526EZ/Ancillary%20Forms) documentation.
+
+### V3
+In March 2021, we received documenttion from EVSS that outlined required form enhancements. In addition, we conducted additonal PTSD-focused research and categorized Contact Center, Foresee, Analytics, and other support requests to devlop roadmap of next product iteration updates. 
+
+- 526 new form enhancements
+- [PTSD research enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/Summary526PTSDResearch2021.pdf)
+- [Bug Fix & Error deep dive](https://docs.google.com/document/d/1Fjp4zNOp34xFpXwv436cSn_3Ct9ZVwZ7GsdCTIjmnPw/edit)
+
+#### Eligibility
+
+How do we know if someone is/was on active duty as part of the National Guard? 
+
+During application process on VA.gov:  answering “Yes” to initial gating question of “Are you on active duty right now”, selecting one of the “Guard” entities, and saying “Yes” to the “Are you currently activated on federal orders in the Reserves or the National Guard” question with dates.  A claims processor could also go into Veterans Information Solution to ascertain status.  Anyone can go to the SCRA website & check if SM is on “Active Duty Status” (see side two of sample attached):
+
+![image](https://user-images.githubusercontent.com/77287545/128018791-2b493440-1f6c-45d2-9603-d73c4ccc65c9.png)
+
+
+Are there any circumstances under which someone should be allowed to submit form 526 if they have Guard/Reserve obligations more than 180 days in the future?
+No
+
+Does what EVSS requires in terms of service history and separation location align what is needed to process a claim? (is sep. locaton really needed to process a claim?)
+
+The separation location is not required by VBMS, but it is part of claim data in the corporate database. Barry talked to the BDD team and they would like to keep the separation location requirement.
+
+Do we only need to provide a separation location if they are currently on active duty?
+
+No, separation location is only required if EVSS determines the claim qualifies for BDD (title10/anticipatedSeparationDate or furthest activeDutyEndDate is between 90-180 days).
+
+What if the veteran has a past active duty history and future guard/reserve obligations? Is the veteran able to submit the form?
+
+Yes, NG/Reserve can submit a 526 with any future RAD date (activeDutyEndDate or title10/anticipatedSeparationDate) if there is another period of service that ended in the past. If there is no past period of service, the future RAD date must be within 180 days. The obligationTermOfServiceToDate element is required for reservesNationalGuardService but is only appears on the 526 PDF and is not used to determine eligibility.
+
+
+#### Data flow
+When a veteran starts the form, their information on file is pre-filled. After completing the form, the data is sent to `vets-api`, which in turn sends it to EVSS. From there, the data is written to a PDF file and sent to BGS.
+
+**TODO:** Verify it's BGS that gets the PDF
+**TODO:** Verify that the above path is even correct
+
+For information on how ancillary form data is handled, see each forms' documentation.
+
+**TODO:** Talk about file uploads
+
+## Value Proposition
+
+**Increase the use of VA’s self-service tools**
+- Good VA.gov discovery avenues will help funnel users to the online version (nav, content, SEO, redirects, cross-linking)
+- Focus on good experience in this narrowly scoped flow will keep users engaged through to submission, instead of dropping out and seeking help partway through (which is what currently happens in eBenefits.)
+- Narrowly scoped flow *might* enable us to work in reminders/alerts, which would also serve to keep users engaged and submit online on their own
+
+**Enable faster access to care and more timely delivery of services**
+- Narrowly scoped flow enables us to spend time making the content and guidance truly useful, so Veterans are submitting the right form with the right evidence - thus making it less likely to encounter errors in processing.
+
+**Improve the experience our users have when interacting with the VA**
+- Everything mentioned above will also contribute to this - same refrain: keeping the scope narrow allows us to build a truly good experience for this specific flow, improving users' interaction with VA.
+
+### Alignment with other VA Initiatives
+
+**Incremental Claims Tracking** Once VA business process and back-end systems are ready for asynchronous EPs to be submitted and processed, when users submit claims via VA.gov interface, their EPs can be auto-established and tagged with appropriate structured data necessary for new tracking rules (like unique identifiers linking EPs and/or issues to an umbrella claim).
+
+**Automated Exam Ordering** With knowledge of the business rules necessary to automate exam ordering, VA.gov interface can collect and expose the necessary structured data, allowing claims submitted through VA.gov to be eligible for automated exam ordering.
+
+**Rules Augmentation on Claims for Increase** Similar to automated exam ordering, with knowledge of the business rules necessary to automate decisions, VA.gov interface can collect and expose the necessary structured data to VA’s back-end, allowing claims submitted through VA.gov to be eligible for automated processing/decisions.
+
+**Digital Outbound Communications** User notifications will be a part of the Claims for Increase tool on VA.gov, so knowing VA’s long term notifications goals will allow us to use the Claims for Increase tool as a pilot of a subset of that full feature, upon which we can iterate as VA business process and back-end systems are ready to handle the full-fledged functionality.
+
+**Expanded Veteran access to eFolder (includes Debt letters)** Improved access to docs from eFolder is a feature we’re considering for the early phases of the Claims tool on VA.gov, so there’ll be a foundation for implementing more robust doc access, once VBMS has updates in place to prevent restricted docs from  being exposed.
+
+**Decision Ready Claim** The Claims tool on VA.gov will already be set up to handle Claims for Increase as a discrete path, so self-service DRC and/or (longer term) 3rd party login access could be added once VA’s business processes and vendors necessary for self-service are in place.
+
+## KPIs
+
+- Reduced percentage of claims submitted on paper
+- Increase in veteran use of self-service tools for disability claims
+- Reduced number of average days for Evidence Gathering within the Claims Cycle for VA.gov claims compared to eBenefits
+- Increased conversion rate (percentage of claims started and submitted) compared to eBenefits
+- Reduced number of tracked items requiring information from the Veteran
+- Increased use of digital self-service tools by period of service across age demographics
+- Reduced average processing time of VA.gov claims
+
+# Implementation Information
+
+## Status
+- Initial discovery complete
+- Next: research deeper dive
+
+## Errors
+
+
+## Relevant Endpoints
+### `vets-api` provides
+See the [swagger docs for `form-526`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/form_526).
+
+### `vets-api` consumes
+
+See the [swagger docs for EVSS's `ppiu` services](https://pint.ebenefits.va.gov/wss-ppiu-services-web/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-ppiu-services-web/rest/swagger.yaml#)  (must be on VA network) -or- [copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/disability/526ez/engineering/evss-docs/wss-ppiu-services-web.yml)
+
+See the [swagger docs for EVSS's `itf` services](https://pint.ebenefits.va.gov/wss-intenttofile-services-web/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-intenttofile-services-web/rest/swagger.yaml#/) -or- [copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/disability/526ez/engineering/evss-docs/wss-intenttofile-services-web.yaml)
+
+See the [swagger docs for EVSS's `form526` services ](https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml#/) (must be on VA network) -or- [copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/disability/526ez/engineering/evss-docs/wss-form526-services-web-v2.yaml)
+
+See the [swagger docs for EVSS's `wss-referencedata-services-web` services](https://pint.ebenefits.va.gov/wss-ppiu-services-web/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-referencedata-services-web/rest/swagger.yaml#)  (must be on VA network) -or- [copy](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/index.html?url=https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/evss-integration/reference-documents/api-docs/wss-referencedata-services-web.yml)
+
+## Service Level Objectives
+The general site-wide availability and latency objectives that are monitored in Prometheus apply to 526 as well. See [here](https://github.com/department-of-veterans-affairs/devops/blob/55354cd6cc325bb4a9672576006cbda14c0a7488/ansible/deployment/config/prometheus/rules/site.rules) for details. 
+
+Additionally, there are a few monitored SLOs specifically applicable to the 526 app:
+
+**Availability:**
+- 5xx responses should not exceed 5% of total responses for more than 5 consecutive minutes
+[Link](https://github.com/department-of-veterans-affairs/devops/blob/55354cd6cc325bb4a9672576006cbda14c0a7488/ansible/deployment/config/prometheus/rules/application.rules#L6)
+- Form submit failure rate should not exceed 30% for more than 5 consecutive minutes 
+[Link](https://github.com/department-of-veterans-affairs/devops/blob/55354cd6cc325bb4a9672576006cbda14c0a7488/ansible/deployment/config/prometheus/rules/application.rules#L93)
+
+**Latency:**
+Percent of requests served in under 2 seconds should not drop to or below 95% of total requests for more than 5 consecutive minutes
+[Link](https://github.com/department-of-veterans-affairs/devops/blob/55354cd6cc325bb4a9672576006cbda14c0a7488/ansible/deployment/config/prometheus/rules/application.rules#L15)
+
+**Incident Response:**
+Any availability / latency incident should be acknowledged within 15 minutes of initial alert.
+[Link](https://github.com/department-of-veterans-affairs/devops/blob/2913da3512a65a8cb988ad189235794ed1067299/terraform/modules/pagerduty_team/main.tf#L21)
+
+## Bugs
+Bugs can be found in the `vets.gov-team` repo issues with the labels `526 v1` `bug`.
+
+## Team
+Please see [team overview](/Products/Disability/Disability%20526EZ#team)
+
+## Resources and Documentation

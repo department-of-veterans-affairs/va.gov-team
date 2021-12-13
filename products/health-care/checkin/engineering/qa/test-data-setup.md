@@ -69,22 +69,33 @@ Click on the link returned in the SMS to access the va.gov Health Care Experienc
 
 # VistA Configuration Data
 
-### Available Clinics
+### Available Clinics (station 500)
+
+| `clinicIen` | `clinicName` | Patient Friendly Name | Usual Availability (ET) | E-Checkin Allowed |
+| --- | ---------------- | ------ |------| ------|
+| 64 | Audiology | Hearing |M-F 7AM - 230PM | Yes |
+| 195 | Cardiology | | M-F 7AM - 230PM | Yes |
+| 62 | Dermatology | | None | Yes |
+| 23 | General Medicine| | M-Th 7AM - 245PM, F 7AM - 1145AM | Yes |
+| 427 | Opthamology | |None | Yes |
+| 429 | Pulmonary | |M-F 12PM - 8PM | Yes |
+| 430 | Sleep Lab | Nap Time|M-F 4PM - 11PM | Yes |
+| 431 | Nurse Triage | Nurse Triage Clinic |M-F 8AM - 345PM | Yes |
+| 428 | Anticoagulation | | M-Su    8AM - 4PM| No |
+
+### Available Clinics (station 442)
 
 | `clinicIen` | `clinicName` | Usual Availability (ET) | 
 | --- | ---------------- | ------ |
-| 64 | Audiology | M-F 7AM - 230PM |
-| 195 | Cardiology | M-F 7AM - 230PM |
-| 62 | Dermatology | None |
-| 23 | General Medicine | M-Th 7AM - 245PM, F 7AM - 1145AM |
-| 427 | Opthamology | None |
-| 429 | Pulmonary | M-F 12PM - 8PM |
-| 430 | Sleep Lab | M-F 4PM - 11PM |
-| 431 | Nurse Triage | M-F 8AM - 345PM |
+| 5085 | OCTO-Cardiology | M-Su 7AM - 4PM |
+| 5086 | OCTO-Sleep Lab | M-Su 4PM - 10PM |
+
 
 
 ### Assigned DFNs
 You will be assigned a specific test user in VistA that will have an identifier associated with it referred to as the `DFN`, or Data File Number. The `DFN` will be used when making calls to many of the endpoints. The `DFN` represents the Internal Entry Number (`IEN`) of the VistA record associated with this test Patient. For our use, `patientDfn` and `patientIen` can be used interchangeably. 
+
+**Station 500**
 
 | `patientDFN`  | Name | Assigned To |
 | --- | ------------ | ----- |
@@ -116,6 +127,15 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 151 | Thirtyeight,Patient | Patrick (OVAC) |
 | 347 | Thirtynine,Patient | Patrick (OVAC) |
 | 520 | Forty,Patient | Patrick (OVAC) | 
+| 41  | Fortyone,Patient | Zach |
+| 42  | Fortytwo,Patient | Eva |
+
+**Station 442**
+
+| `patientDFN`  | Name | Assigned To |
+| --- | ------------ | ----- |
+| 7242569 | One, Patient |  |
+| 7242570 | Two, Patient |   |
 #
 
 <a name="endpoints-section"></a>

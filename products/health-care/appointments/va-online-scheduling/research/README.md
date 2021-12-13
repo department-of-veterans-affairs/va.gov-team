@@ -6,7 +6,7 @@
 
 ## In progress
 
-* Appointments notifications service map. - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/appt-notifications-service-map)
+* Appointments notifications service map. - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop)
 
 * Clarify requests usability test - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification)
 

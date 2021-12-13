@@ -71,5 +71,11 @@ NOTE: Depending on Staging Review urgency and VSA-QA staffing/capacity, Product-
     - Once test runs are completed, QA generates TestRail reports.
     - QA adds QA-artifact links to Test-Plan and Staging-Review tickets.
 
+-----
 
+### See also
+
+- [Manual-UI Testing: Tips & Tricks][manual-tips-tricks]
+
+[manual-tips-tricks]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/manual-testing-tips-tricks.md
 [vsp-stg-rvw]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/touchpoint-staging-review.md

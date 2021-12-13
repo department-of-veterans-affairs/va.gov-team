@@ -1,6 +1,26 @@
 # VA Mobile team - Release Highlights
 
-## Release: 12/7/21 (Draft)
+## Release: 12/21/21
+
+New + Improved
+
+- Manufaturer label added to the details screen for Covid vaccines
+- Action sheet added when removing email.  Alert for Android
+- Implementation of persistent snack bar when a user has successfully moved a message into a folder
+- Implemented the ability to move messages into folders
+- Updated 'Trash' with folder capabilities to match VA. gov functionality
+
+Bug Fixes
+
+- Updated LargeNavButton to read subtext properly
+- Removed a11yHint for LargeNavButton on Homescreen as the text was a duplicate of the subtext
+- Addressed timezone/date display for Benefit Summary letter 
+- Fixed issues of downtime message persisting when the maintenance window is past
+
+
+
+
+## Release: 12/7/21 
 
 New + Improved
 
@@ -8,12 +28,15 @@ Design Updates
 - Change profile screen to sentence case
 - Updated the vaccine details view to move series and reaction value below the header 
 - Updated copy for TTY text
+- Updated spinner text to match action sheet text (update from delete to remove)
 
 Bug Fixes
 
 - Fixed app crashing issue related to add appt to calendar feature
 - Fixed app crashing issue on the claims ‘upload or add photos’ feature 
 - Fixed pagination issue for past appointments (back-end) 
+- Fixed white on white text input when OS set to Dark or night mode
+- Fixed AccessibilityHint or VA vaccine record card on Health Care to read accurately
 
 
 ## Release: 11/23/21

@@ -38,7 +38,7 @@
 - Product Owner: Matt Self (
 - Product manager: Veronica Henry (vhenry@governmentcio.com)
 - Design and Research: Kevin Stachura (kstachura@governmentcio.com), Christian Valla (cvalla@governmentcio.com)
-- Engineering: Michel McDonald (), Csaba Nmeth (), Asha Gross (), Robin Garrison (robin.garrison@adhocteam.us), 
+- Engineering: Michel McDonald (), Csaba Nmeth (), Devon Hills (), Robin Garrison (robin.garrison@adhocteam.us), Amanda Leaders
 - Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a

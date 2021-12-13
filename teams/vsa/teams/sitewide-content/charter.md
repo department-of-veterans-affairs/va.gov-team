@@ -16,6 +16,7 @@ We ensure that the content and voice of VA.gov is:
 - Equitable
 - Authoritative
 - Accessible
+- Findable
 
 ### Product portfolio
 Global unauthenticated content (including homepage, tool pages, benefit hubs, resources & support, and other unauthenticated content) 

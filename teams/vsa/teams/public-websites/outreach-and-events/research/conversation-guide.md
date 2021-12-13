@@ -17,7 +17,9 @@
 
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open a standalone browser window to prototype URL TBD and save these links somewhere to paste*
+- *Open a standalone browser window to prototype https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555?mode=cvhidfm and REFRESH*
+
+- *Have bitly link in Slack ready to paste into Zoom chat (or wherever): https://bit.ly/3FYjFsE*
 
 - *Do Not Disturb ON so no notifications*
 
@@ -58,7 +60,7 @@ Before we start, I want to go over a few things:
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
 - Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or  your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
+  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help *(give permission > accessibility settings > find Zoom > check box)*.
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
@@ -77,7 +79,7 @@ Before we start, I want to go over a few things:
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
 Let’s start with a few questions... 
-- What device are you using today? *(Phone / Tablet / Computer)*
+- What device are you using today? *(iPhone / Android / Tablet / Computer)*
 
 - Have you ever attended an event (e.g., presentation, workshop/class, outreach event) put on by the VA or a Veterans Service Organization? 
 	- If so, can you tell me about that experience? 
@@ -95,10 +97,10 @@ Before you click/tap anywhere on the screen, I would like you to tell me what yo
 
 While you're looking at this demo tool, I would like you to *talk aloud* as much as possible so that you share what you're thinking, what you're doing, what you like, what you dislike, and what you're unsure about. 
 
-I would like you to share your screen with me so I can watch you use the demo tool in your web browser. 
+I would like you to share your screen with me so I can watch you use the demo tool in your web browser. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-I'll have you start from a website that I'm going to *[spell/put into the Zoom chat/email/text]* for you to click on (URL TBD). 
+I'll have you start from a website that I'm going to *[spell/put into the Zoom chat/email/text]* for you to click on (https://bit.ly/3FYjFsE). 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
@@ -106,7 +108,7 @@ Do you see the link?
 ## Veteran Tasks
 
 ### Task 1: [Impressions of Events List] - 5 minutes
-Please take a look at this page and tell me your impressions of what you see. Don't tap/click anywhere.
+Please take a look at this page and tell me your impressions of what you see. While you look around, please don't tap anywhere, but feel free to scroll.
 
 What do you think you can do from this page?
 
@@ -131,17 +133,23 @@ Without trying any of them, could you tell me what you think each of them would 
   - How would you expect to use it?
   - *(probe: when might they use it? record specific use cases with context)*
 
-Now you can go ahead and look for events that could help you find a new job.
+Now you can go ahead and look for events that could help you find a new job. **Please tell me what you you tap on** because I can't see that over Zoom.
+
+*If they try the filter options by clicking on the arrow and it doesn't work, say:* Can you tell me what you're trying to do? 
+
+- *If needed, advise to tap to the left of the arrows instead of on the arrows*
 
 - *Option selected: **All upcoming / Next week (from Dec 5)**/ Next month (from Jan 1) / Specific date / Custom date range / Past events*
 
-- *Did they click the "filter events" button? Y / N*
+- *Any comments on scrolling events and pagination in All upcoming? Y / N*
 
-*(When see event detail page)* What are your impressions of what you see here?
+- *Did they click the "Apply filter" button? Y / N*
 
 - *Did they find the Virtual Career Expo? Y / N*
 
-If you wanted to attend this event, what would you do? *(Register button / ______________)*
+*(When see event detail page)* What are your impressions of what you see here?
+
+If you wanted to attend this event, what would you do? *(Register for this event button / ______________)*
 
 Can you please go back to the previous page? *[Event detail]* 
 
@@ -150,37 +158,37 @@ Once you've registered for this event, is there anything else you would like to 
 - *No / Add to Calendar / Share on FB / Twitter / ______________*
 
 ### Task 3: [Filter by Date--Recurring event] - 5 minutes
-Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up for in January?
+Let's say that you want to try yoga in the new year. Can you find any yoga classes to sign up in 2022?
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumb / "See other outreach events" at bottom of detail pg / "In this section" menu > Outreach events*
 
-- *Option selected: All upcoming / Next week (from Dec 5) / **Next month (from Jan 1**) / Specific date / Custom date range / Past events*
+- *Option selected: **All upcoming** / Next week (from Dec 5) / **Next month (from Jan 1**) / Specific date / Custom date range / Past events*
 
-- *Did they click the "filter events" button? Y / N*
+- *Did they click the "Apply filter" button? Y / N*
 
-*(When see event detail page w/recurring event)* Can you tell me about what you see here?
+*(When see event detail page w/recurring event)* Before clicking anywhere, can you tell me about what you see here?
 
 - *Understand that there are multiple occurrences of this event? Yes / No / Unknown*
 
 - *Feedback on "Find other times for this event":* 
 
-I'd like you to sign up for 2 yoga classes in 2022.
+I'd like you to sign up for the first 2 yoga classes in 2022.
 
-- *Feedback on "Check other times" button:* 
+- *Feedback on "Show more times" button:* 
 
 - *Feedback on scrolling the growing list of times:* 
 
 - How many do you want to see at a time?
 
-- *Clicked Register button for both Jan & Feb yoga classes? (doesn't work)*
+- *Clicked "Register for this event" button for both Jan & Feb yoga classes? (doesn't work)*
 
-- *Understand that "Register" is only for the current occurrence? Yes / No / Unknown*
+- *Understand that "Register for this event" is only for the current occurrence? Yes / No / Unknown*
 
 ### Task 4: [Filter by Date--Custom date] - 5 minutes
 
 Now I'd like you to see if there are any VA activities on Memorial Day next year, which is May 30. 
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
+- *How got back to Events List page: Back in browser / breadcrumb / "See other outreach events" at bottom of detail pg / "In this section" menu > Outreach events*
 
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / **Specific date** / Custom date range / Past events*
 
@@ -192,7 +200,7 @@ Now you can go ahead and do it.
 
 - *Understand the 12-month limitation? Y / N*
 
-- *Clicked the "filter events" button? Y / N*
+- *Clicked the "Apply filter" button? Y / N*
 
 - *Found the 2 Memorial Day events? Y / N*
 
@@ -200,23 +208,22 @@ Now you can go ahead and do it.
 
 Let's assume that you live in New Orleans, and you have friends from the service joining you for Independence Day next summer. I'd like you to see if there are any Independence Day events that you could attend together while they're here July 1st through 5th.
 
-- *How got back to Events List page: Back in browser / breadcrumbs / "Find more events" at bottom of detail pg / "In this section" menu*
-
 - *Option selected: All upcoming / Next week (from Dec 5) / Next month (from Jan 1) / Specific date / **Custom date range** / Past events*
 
 - *(select month and day for July 1 start date and July 5 end date)*
 
 - *Understand the 12-month limitation? Y / N*
 
-- *Clicked the "filter events" button? Y / N*
+- *Clicked the "Apply filter" button? Y / N*
 
 - *Found the 3 Independence Day events, including 1 in New Orleans? Y / N*
 
 ### Task 6: [Event list & location] - 5 minutes
 
-Can you please go back to the page that shows a list of events?  
+Can you please show a longer list of events? 
+- *(change date filter to All upcoming)*
 
-*(If didn't talk about location info earlier)* How do you know *where* these events are taking place? 
+*(If didn't talk about location info earlier)* How do you know **where** these events are taking place? 
 
 For in-person events, what location information would be useful for you? 
 - *city / state / street address / zip / name of VA facility / ____________*
@@ -244,4 +251,5 @@ Thank you so much again, and enjoy the rest of your day!
 
 
 ## Approvals
-Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
+- Reviewed and approved by Dave Conlon (PO) on Nov 19, 2021.
+- Reviewed and approved by Lauren Alexanderson on Nov 24, 2021.
