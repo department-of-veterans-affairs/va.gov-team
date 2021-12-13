@@ -74,7 +74,7 @@ Next:
 ### First Impression
 I'd like you to give me your first impression. Talk out loud. Say anything that comes to mind. And let me know when you would like me to scroll.
 >Things to watch and listen for: 
-> * *Where they point their mouse first
+> * Where they point their mouse first
 > * What they want to click on
 > * If they remark on something missing)
 
