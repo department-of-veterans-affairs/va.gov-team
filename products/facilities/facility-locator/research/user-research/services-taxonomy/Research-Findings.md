@@ -124,6 +124,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - **Services requiring more than one explanation, across participants:**
         - "Registry exams", "Veteran connections", "Returning service member care", "Whole health", "Library services", "Advice nurse", "My HealtheVet Coordinator", and "Privacy office"
 6. **How service categorization was distrbuted across participants:**
+    - **Per-service breakdown of categories based on confidence level** [see detailed findings]()
     - **The "Administrative" category had the most consistent alignment** across participants: participants agreed the most about which services belonged in this cateory.
     - **Some services were much more likely to grouped together** in the same category. For example:
         - "Billing insurance" and "Medical records"
