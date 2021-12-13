@@ -103,7 +103,9 @@ Ask the participant:
 * If you had trouble with something you're trying to do through this website, what would you do? *(Listen to answer and point to "Help and Resources" if this is not one of their answers.)*
    * What information or actions would you expect to see in "Help and Resources"?
 
-* If time allows: What does the term "Health Supplies" mean to you? *(After participant answers, tell them what it is, then ask if there is a better name for "health supplies.")*
+* If time allows: What does the term "Health Supplies" mean to you? 
+   * *(After participant answers, tell them you can order hearing aid and prosthetic socks here.)*
+   * Is there a better name for "health supplies"?
 
 ## End questions
 
