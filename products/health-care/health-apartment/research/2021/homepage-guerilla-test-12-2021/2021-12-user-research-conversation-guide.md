@@ -70,10 +70,8 @@ Next:
 
 ### First Impression
 I'd like you to give me your first impression. Talk out loud. Say anything that comes to mind. And let me know when you would like me to scroll.
->Things to watch and listen for: 
-> * Where they point their mouse first
-> * What they want to click on
-> * If they remark on something missing)
+> Watch and listen for: 
+> * If they remark on something missing.
 
 Ask the participant:
 * Tell me about your first impressions. 
@@ -82,17 +80,21 @@ Ask the participant:
  
 ### Digging Deeper 
 * Is there anything missing that you would expect to be here, that would help you manage your health care online? *(Potential follow ups: How would you use this? Where would you like to see it on the page?)*
-* Let's look at appointments: What would you expect to see here? 
+* Let's look at appointments: 
+   * What would you expect to see here?
    * What information or actions do you care about most?
    * If you wanted to see all of your appointments, what would you do?
-* Now let's look at pharmacy: What would you expect to see here? 
+* Now let's look at pharmacy: 
+   * What would you expect to see here? 
    * What information or actions do you care about most?
    * If you wanted to see all of your prescriptions, what would you do?
-* Now let's look at messaging: What kinds of messages would you expect to see here? *(e.g., "What would the messages be about?"*
+* Now let's look at messaging: 
+   * What kinds of messages would you expect to see here? *(e.g., "What would the messages be about?"*
    * Would you expect to send and receive messages?  
    * What messages would be sent to you?
    * Whom would you message?
-* For Medical Records, what would you expect to see here? 
+* For Medical Records:  
+   * What would you expect to see here?
    * What information or actions do you care about most?
 
 * What information or actions would you like to see in "Health Care"?
