@@ -200,7 +200,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 **Per-service breakdown of recommended categories for services**
 
-Based on the Optimal Workshop statistical reports, here are my recommendations on which cateogory to put each service, and my confidence level for each one. I also list any services that the data is not clear on, and what some next step for these services could be [see next steps section]()
+Based on the Optimal Workshop statistical reports, here are my recommendations on which cateogory to put each service, and my confidence level for each one. I also list any services that the data is not clear on, and what some next step for these services could be [see next steps section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#next-steps).
 
 **Card sort 1**
 
@@ -242,6 +242,10 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 # Next Steps
 
 _Next steps here. Include owners if appropriate._
+
+[add what to do with services that aren't clear]
+[slide deck for VA stakeholders]
+[who to talk to for unclear services, and for plain language(er) stuff]
 
 # Further research needed
 
