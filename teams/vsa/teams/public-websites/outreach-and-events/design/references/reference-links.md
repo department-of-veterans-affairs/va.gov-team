@@ -23,6 +23,9 @@
 
 ## Disciplines
 
+### VA.goc VFS team
+- [VA Platform documentation site](https://depo-platform-documentation.scrollhelp.site/index.html)
+
 ### Top VSA documents to reference
 - [The VSA Onboarding Doc](https://docs.google.com/document/d/1I3BJT2L49xT2WgufLDO1wqW84zLSPs8G/edit#heading=h.gy18d16an0za)
 - [VSA org chart](https://docs.google.com/drawings/d/1_OmxooPQXRwUjb08DoaMoEvw1-2Gq9e_wYLunMzEsxE/edit)
