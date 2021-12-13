@@ -59,15 +59,18 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     1. When asked about what location information should be displayed in the event list, all 8 participants wanted the city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address, name of facility or building (if applicable), phone number or email address, contact name.
 5. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button**. One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
 6. **Date entry via dropdowns** in the _Specific date_ and _Custom date range_ options worked well for everyone. When asked what the dropdown options would do, one participant said they expected a calendar to open so they could pick a date, but they didn't mention it later when they selected dates with the dropdowns provided.
-7. Participants found it easy to **navigate from an event detail page to the event list** by using the browser back button (6 participants), the breadcrumbs (1 participant), or *In this section menu > Outreach events* (1 participant). 
+> "You can search for specific dates and customize it" (p1).
+8. Participants found it easy to **navigate from an event detail page to the event list** by using the browser back button (6 participants), the breadcrumbs (1 participant), or *In this section menu > Outreach events* (1 participant). 
 
 7. Six of 8 participants said that they would use the **_Add to calendar_ link** after they registered for the event.
     1. On the same event detail page, 3 of 8 participants said they would share on Facebook, and no one said they would share on Twitter.
 
 ### Usability Issues
 1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options.
-1. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. Some participants understood they were registering for only one event, some weren't sure which occurrence they were registering for, and others expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend.
-1. Most participants had **little patience for scrolling through a flat list of events**. 
+    1. One participant didn't use the date filter at all because they thought it didn't work. They just scrolled through the _All upcoming_ event list to complete all tasks. 
+    2. There were 3 other participants stayed with the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
+3. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. Some participants understood they were registering for only one event, some weren't sure which occurrence they were registering for, and others expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend.
+4. Most participants had **little patience for scrolling through a flat list of events**. 
      1. Several participants said that the list was **too plain and boring-looking**.
      1. Seven of 8 participants had strong negative reactions to finding events with only the date filter we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. They instead **wanted to filter by location (i.e., their state) or type of event** (i.e., career, health/exercise, social, Veteran _vs._ Caregiver), **or do a keyword search** (i.e., for "yoga" or "Veteran jobs" or "Memorial Day"). 
 
@@ -79,10 +82,10 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 
 > "I wouldn't have a clue on this site how to look that up. I would probably end up looking under 1, 2, 3, and Next. You'd probably end up having to go through every cotton-pickin' one and press page 2, look, look, page 3, look, look because there's no way to break it down. You'd have to look at every single page and read every one to see if you could find it" (p1).
 
-4. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant.
+4. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation.
 
 
-# Additional Insights: 
+# Additional Feedback: 
 
 xxx
 
