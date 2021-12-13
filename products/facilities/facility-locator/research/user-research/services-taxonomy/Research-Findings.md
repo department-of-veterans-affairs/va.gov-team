@@ -255,7 +255,7 @@ _Next steps here. Include owners if appropriate._
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/services-taxonomy-conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/services-taxonomy/interview-transcripts)
 
 ## Tools used for Synthesis
 
