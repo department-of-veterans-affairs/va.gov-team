@@ -38,3 +38,4 @@
 | FAQs intro updates | 10/28 | 10/28 | 11/17 | 11/17 | 11/17 |
 | New booster content on mini-hub and booster pages | 11/19 | 11/22 |
 | Omicron/booster updates | 12/7 | 12/7 |
+| Teen boosters | 12/13 | 12/13 |
