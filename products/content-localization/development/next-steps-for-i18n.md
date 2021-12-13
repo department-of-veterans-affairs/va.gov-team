@@ -19,7 +19,7 @@ Long term work once public API is available to some extent. Most of these items 
 	- Include guidelines and procedures for auditing content prior to publishing
 - Consider moving away from WYSIWYG paragraph types in content when possible to minimize potential translation importing errors
 
-FRONTEND WORK:
+### FRONTEND WORK:
 - Collaborate with public websites and content-release-engineering to adapt a public API based approach that uses AJAX/Fetch calls to access content.
 - Produce templates, React components, State management logic, testing protocols, and helpers for accessing translated content via API
 - Create a language switching functionality that will be easy for users to understand
@@ -28,7 +28,7 @@ FRONTEND WORK:
 - Create analytics specific to Spanish content
 - Provide feedback components to allow further analytics into content that people would like in Spanish
 
-IF PUBLIC API IS NOT READY, BUT TRANSLATION MODULES ARE NEEDED
+### IF PUBLIC API IS NOT READY, BUT TRANSLATION MODULES ARE NEEDED
 
 - Plan and execute a content-build code update to request foreign language data from GraphQL api
 - Update metalsmith to use an 'ES' folder to be created within the content build process
