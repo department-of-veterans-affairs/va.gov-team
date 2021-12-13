@@ -240,8 +240,6 @@ _Next steps here. Include owners if appropriate._
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
 - **More participants needed in general**
     - Certain statistical analysis methods (such as the "Actual agreement dendrogram") provided by Optimal Workshop and used to analyze the card sort data, work best with at least 30 participants. With card sorts, the more participants, the more accurate the data, and I believe this study would benefit from a larger number of participants.
 - **LGBTQ+ participants needed**
