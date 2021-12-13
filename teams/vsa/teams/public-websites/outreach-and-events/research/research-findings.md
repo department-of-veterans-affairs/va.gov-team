@@ -66,7 +66,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     1. On the same event detail page, 3 of 8 participants said they would share on Facebook, and no one said they would share on Twitter.
 
 ### Usability Issues
-1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options.
+1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options. 6 people understood the options as is, but 2 people found them confusing because they didn't include the current week/month, which isn't standard usage. Some people tried using the _Custom date range_ option to specify exactly the timeframe they wanted, but the prototype with its limited functionality didn't support that use case.
     1. One participant didn't use the date filter at all because they thought it didn't work. They just scrolled through the _All upcoming_ event list to complete all tasks. 
     2. There were 3 other participants stayed with the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
 3. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. Some participants understood they were registering for only one event, some weren't sure which occurrence they were registering for, and others expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend.
