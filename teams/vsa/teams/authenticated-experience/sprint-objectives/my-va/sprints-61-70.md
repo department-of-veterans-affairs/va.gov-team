@@ -171,7 +171,7 @@ Resume project!!
 
 **BE**
 
-- Determine next steps for backend build; If possible, Tom can start to implement build if possible
+- Determine next steps for backend build; If possible, Lihan can start to implement build if possible
 
 ## Sprint 64 (12/29 - 1/11)
 [Sprint 64 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30269)
