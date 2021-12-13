@@ -71,7 +71,9 @@ xxx
 # Appendix
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/research)
+
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/conversation-guide.md)
+
 [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/outreach-and-events/research/notes)
 
 
