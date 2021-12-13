@@ -23,7 +23,16 @@
 
 </details>
 ## December 8
+
+### Vet Center
 - Vet Center analytic request fulfillment
+
+
+### VAMC
+- Top task
+  - facility address
+
+
 
 ## December 1
 
