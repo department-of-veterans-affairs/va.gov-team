@@ -71,11 +71,11 @@ We conducted and recorded half-hour moderated remote sessions on Zoom. During th
 
 1. All participants wanted more specific actions in the "Big Four" cards
 
-2. Most (3) participants expected some sort form of personalization
+2. Most (4) participants expected some sort form of personalization
 
 3. All participants gave a different answer for what they expected in "Messages"
 
-4. Most (3) participants wanted more resources and definition in the "Non-VA Provider" section
+4. Most (4) participants wanted more resources and definition in the "Non-VA Provider" section
 
 
 
@@ -99,7 +99,7 @@ While the participants appreciated the task-oriented nature of the "Big Four," t
 * "I live an hour and a half from the nearest VA hospital, so sometimes they send me to (another hospital) that's 45 minutes away, so I need to see there where exactly I'm being sent."
 
 
-**Most (3) participants expected some sort form of personalization**
+**Most (4) participants expected some sort form of personalization**
 
 Labels: identity-personalization 
 
@@ -121,7 +121,7 @@ The expectation of capabilities in messaging provided per haps the widest rangin
 * "I'd expect to see a message about my next appointment, or 'make sure to get my fasting labs.' As a patient, I would probably message the nurse on call or the medical assistant that works with the physician."
 * "I'd expect to see messages about results, like a blood test or an x-ray, or any kind of information about the center."
 
-**Most (3) particpants wanted more resources and definition in the "Non-VA Resources" section**
+**Most (4) particpants wanted more resources and definition in the "Non-VA Resources" section**
 
 
 This section was not an area of great focus during previous design and iteration phases, but most participants called it out during the testing phase as an area that needed more definition. Some expected to see a list of in-area providers and eligibility, while others were wondering if it was the same as community care.
@@ -178,17 +178,17 @@ Github and Mural
 
 This was an informal user test, so our participants were veterans within our social networks.  
 
-We talked to **5 participants.**
+We talked to **6 participants.**
 
 Audience segment:
-* Veterans: 5 
+* Veterans: 6 
 * Caregivers: 0
 * Family members of a Veteran: 0 
 
 
 Gender:
 * Male: 4  
-* Female: 1 
+* Female: 2 
 
 
 LGBTQ+:
@@ -198,7 +198,7 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: 5
+* Desktop: 6
 * Tablet: 0 
 * Smart phone: 0 
 * Assistive Technology: 0
@@ -207,7 +207,7 @@ Devices used during study:
 Age:
 * 25-34: 2
 * 35-44: 1
-* 45-54: 0
+* 45-54: 1
 * 55-64: 1
 * 65+: 1
 * Unknown: 0
@@ -220,7 +220,7 @@ Education:
 * Bachelor's degree: x
 * Master's degree: 2
 * Doctorate degree: x
-* Unknown: 3
+* Unknown: 4
 
 
 Geographic location:
@@ -230,7 +230,7 @@ Geographic location:
 
 
 Race:
-* White: 4
+* White: 5
 * Black: 0
 * Hispanic: 0
 * Biracial: 0
