@@ -201,13 +201,15 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 [DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
-**Per-service breakdown of recommended categories for services**
-
 Based on the Optimal Workshop statistical reports, here are my recommendations on which cateogory to put each service, and my confidence level for each one. I also list any services that the data is not clear on, and what some next step for these services could be [(see next steps section)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#next-steps).
 
-- **High confidence**
-- **Medium confidence**
-- **Unsure / need more information**
+**High confidence**
+
+
+
+**Medium confidence**
+
+**Unsure / need more information**
 
 **Card sort 1**
 
