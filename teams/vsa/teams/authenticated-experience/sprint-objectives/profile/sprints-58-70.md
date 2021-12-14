@@ -260,6 +260,8 @@ This depends on whether the Perigean contract is back up and running.
 
 ## Sprint 64 (12/29 - 1/11)
 
+- Is there a better way for us to learn about issues (eg. direct deposit for edu issue) than relying on veterans to tell us there's a problem?
+
 ## Sprint 65 (1/12 - 1/25)
 
 ## Sprint 66 (1/26 - 2/8)
