@@ -8,7 +8,7 @@ We launched the VA.gov benefit hubs as part of the brand consolitation effort in
 
 In the 3 years since the benefit hubs launched, we have continued to add and modify content and make small, iterative changes. Most of this work is reactive, driven by business line requests for updates, changing laws or policies, and additional products. However, we have not reviewed the overall structure and organization of the content to find ways to continually improve how we meet the needs of Veterans and family members. At the same time, we've built a new section for content (Resources and Support), started building products beyond VA.gov that need to draw from VA.gov content (chatbot, mobile app), and started introducing multilingual content in targeted areas.
 
-We need to revisit our overall content and information architecture to optimize the content for Veterans and family members now and make sure our content has the flexibility to work across channels and languages in the future.
+We need to revisit our overall content and information architecture to optimize the content for Veterans and family members now and make sure our content has the flexibility to work across channels and languages in the future. 
 
 ### Complication(s)
 _Describe what’s changed and how it impacts your team._\
@@ -29,7 +29,7 @@ _What’s the fundamental question you are going  to answer?_
 
 Are there opportunities to optimize the structure and content of the existing benefit hubs to better help Veterans and their family members get and manage their benefits?  
 - Can Veterans and family members find the most important content easily?
-- Is there any content within the Get benefits section that Veterans and family members aren't using (and if so, why)?
+- Is there any content within the Get benefits section that Veterans and family members aren't using (and if so, why)? Can this content move into R&S?
 - Are there opportunities to reduce the cognitive load on benefit hub pages? 
 
 #### Longer-term questions
