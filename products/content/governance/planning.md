@@ -53,7 +53,7 @@
 
 How will we measure success within R&S specifically?
 
-- # of legacy pages deprecated and consolidated into R&S articles
+- Number of legacy pages/IRIS FAQs deprecated and consolidated into R&S articles
 - Reduced call center calls related to top Veteran concerns
 - Increased % of articles with 55% or better satisfaction ratings
-...
+[add more]
