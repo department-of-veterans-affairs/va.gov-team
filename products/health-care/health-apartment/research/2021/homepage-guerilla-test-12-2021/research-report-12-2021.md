@@ -97,6 +97,7 @@ While the participants appreciated the task-oriented nature of the "Big Four," t
 * "I see "labs" in the Medical Records box, but I don't see where I can get access to an ultra sound or an x-ray if I've had those done."
 * "I think the ability to cancel or modify appointment from here might be helpful as well. If you’re putting this upfront and center, then maybe adding the ability to cancel or modify here, to save a step, might be helpful."
 * "I live an hour and a half from the nearest VA hospital, so sometimes they send me to (another hospital) that's 45 minutes away, so I need to see there where exactly I'm being sent."
+* "If you show refills remaining, I’d like to click on that med and refill here. I guess this would be asking for a lot, but if you click on that med and there are no refills left, a way to contact your provider."
 
 
 **Most (4) participants expected some sort form of personalization**
