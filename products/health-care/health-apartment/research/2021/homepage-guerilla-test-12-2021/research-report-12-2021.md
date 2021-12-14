@@ -48,7 +48,7 @@ The purpose of this research was to:
 * What information and actions would they need and like to see in "Health Care" and "Disability"?
 * How would they get help if lost on this page?
 
-Here is the [conversation guide]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-user-research-conversation-guide.md.
+Here is the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-user-research-conversation-guide.md).
 
 # Methodology 
 
