@@ -48,6 +48,8 @@ The purpose of this research was to:
 * What information and actions would they need and like to see in "Health Care" and "Disability"?
 * How would they get help if lost on this page?
 
+Here is the [conversation guide]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-user-research-conversation-guide.md.
+
 # Methodology 
 
 We conducted and recorded half-hour moderated remote sessions on Zoom. During the session, we asked participants about their process for managing their health on VA.gov or MyHealtheVet, after which the moderator showed the apartment's homepage concept via screenshare and asked for feedback. The participants were asked about each of the sections and what information they expected to find there. Participants were shown either the mobile homepage concept or the desktop homepage concept, but never both. 
