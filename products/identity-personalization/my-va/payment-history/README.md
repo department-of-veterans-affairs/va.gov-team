@@ -87,7 +87,7 @@ Last updated December 10, 2021
 
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
     * Provide veterans with a personalized go-to source for payment and debt information
-    * Provide veterans with links to related action items, such as viewing outstanding debts, payment history, direct deposit or travel reimbursement
+    * Provide veterans with links to related action items, such as viewing outstanding debts, payment history, or direct deposit
     * Reduce the number of payment or debt related searches
 
 
@@ -104,18 +104,17 @@ Last updated December 10, 2021
 
 - **Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
 
-- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, travel reimbursement, and direct deposit CTAs.
+- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, and direct deposit CTAs.
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("View all payments"))| 2.3mil|TBD|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments")| 179k|TBD|TBD|
-|Clicks to view travel reimbursement ("Request travel reimbursement")| 249k|TBD|TBD|
 |Clicks to view direct deposit settings ("Manage direct deposit")| 464k|TBD|TBD|
 
 
 
-- **Key result #2**: Findability: Reduce search incidents for payment, debt, direct deposit or travel reimbursement.  These terms should not be in the top 20 search terms for searches generate from My VA. 
+- **Key result #2**: Findability: Reduce search incidents for payment, debt, or direct deposit.  These terms should not be in the top 20 search terms for searches generate from My VA. 
 - *SUGGESTION: Consider a metric that is optimized by this change, rather than not.  Look for something that has no ceiling, rather than this that has a definite floor (zero).*
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
@@ -125,7 +124,6 @@ Last updated December 10, 2021
 |Search rank for "payment” or "payment history" from My VA| #1, #10, #11|TBD|TBD|
 |Search rank for "debt” or "debt management" from My VA| #3, #20|TBD|TBD|
 |Search rank for "direct deposit” from My VA| #2, #6|TBD|TBD|
-|Search rank for "travel pay” or "travel reimbursement" from My VA| #8, #17, #18|TBD|TBD|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
@@ -134,7 +132,6 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |Search rank for "payment” or "payment history" from My VA| #6|TBD|TBD|
 |Search rank for "debt” or "debt management" from My VA| #23|TBD|TBD|
 |Search rank for "direct deposit” from My VA| #7, #17|TBD|TBD|
-|Search rank for "travel pay” or "travel reimbursement" from My VA| #9|TBD|TBD|
 
 - **Key result #3**: Usage: Increase % of logged-in users visiting My VA from 8% in Q4 to n% post-launch by end of Q1.
 
@@ -183,8 +180,6 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
   - Dynamic debt link ('You've got 2 outstanding debt payments)
   - Manage Direct deposit [link]
   - View all payments [link]
-  - Request travel reimbursement [link]
-
 
 
 **Not In Scope** 
