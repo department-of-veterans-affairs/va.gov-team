@@ -27,136 +27,131 @@ Date: 12/13/2021
 <br>
 
 # Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The Health Apartment concept lives in between the "Starting Up" and "Taking Care of Myself" moments in the veteran's journey -- they've likely set up health care through VA.gov, and actively manage it there too (or have assistance in doing so). The veteran might have experience with using some MyHealtheVet tools, but since the apartment is an entirely new site and experience, we designed the research assuming no prior familiarity with the tool. 
 
-_Then, describe your goals for this research_
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+The purpose of this research was to:
+1. Discover the critical information and actions a veteran needs to manage their health care
+2. Get feedback on the apartment's homepage concept. Specifically, did our "Big Four" boxes adequately address the veterans' needs, was it intuitive, and could they find the information they needed? 
 
 
 
 # Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+* Does the user access and manage their healthcare through VA.gov or MyHealtheVet?
+* What are their first impressions of the homepage concept?
+   - Is there anything missing that they would require to manage their health?
+* What information and actions would they need in each of the "Big Four" boxes and cards?
+   - What functionality would they expect out of the cards?
+* What information and actions would they need and like to see in "Health Care" and "Disability"?
+* How would they get help if lost on this page?
 
 # Methodology 
 
-_Brief description of method chosen_
+We conducted and recorded half-hour moderated remote sessions on Zoom. During the session, we asked participants about their process for managing their health on VA.gov or MyHealtheVet, after which the moderator showed the apartment's homepage concept via screenshare and asked for feedback. The participants were asked about each of the sections and what information they expected to find there. Participants were shown either the mobile homepage concept or the desktop homepage concept, but never both. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
 
 
 # Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+* Veterans want to see specific tasks on the homepage. They want to see tasks and information relevant to them. This fits with a recurring theme in previous research, that Veterans are task-oriented.
+   * MOSTLY TRUE: Participants responded positively to the task-oriented nature of the homepage, though they either wanted more information to help them complete those tasks, or clarity on how to complete the task. 
+* When Veterans sign in, they expect the website to show them: 1) current health information and tasks (exs: appointments, secure messages, and refills due), and 2) whether they must take action to move a process forward (ex: finish health care application).
+   * TRUE: Participants liked the simplicity of the design, as it highlighted the tasks they could accomplish right away. 
+* Veterans are overwhelmed by too much text. They want well-organized content that guides them to a task or resource quickly, simply, and clearly using plain language.
+   * MOSTLY TRUE: While the participants didn't ask for more text, they did express confusion and a lack of clarity towards some links, especially in the "Health Care" section. 
+* Veterans with health care want to see "about" information because either: 1) they need to understand general info on VA health care (i.e., what they get), or 2) they want to share "about" info with other Veterans.
+   * NOT ENOUGH INFORMATION: There was no mention of sharing information with other Veterans, but participants did express both interest and confusion towards the "Health Care" section, in terms of the included content and why some items were present and others weren't. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 
 # Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. All participants wanted more specific actions in the "Big Four" cards
 
-2. Finding two
+2. Most (3) participants expected some sort form of personalization
 
-3. Finding three
+3. All participants gave a different answer for what they expected in "Messages"
 
-4. Finding four
+4. Most (3) participants wanted more resources and definition in the "Non-VA Provider" section
 
-5. Finding five
 
-6. Finding six
 
-7. Finding seven
 
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
-**Finding 1**
+**All participants wanted more specific actions in the "Big Four" cards**
 
 Labels: label 1, label 2 
 
 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+While the participants appreciated the task-oriented nature of the "Big Four," they wanted more specific information within the cards themselves. For example, in "appointments," every participant said they'd like to see the name of the doctor. Participants also said they'd like more action links to help them complete the task on the card, such as "refill" for a due prescription or "cancel" for an appointment.
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+* "I'd like to see a Google or Apple Maps link that takes me to the directions to the appointment."
+* "In the appointment section, it should say the specialty and name of the doctor so I know what the appointment is about."
+* "I see "labs" in the Medical Records box, but I don't see where I can get access to an ultra sound or an x-ray if I've had those done."
+* "I think the ability to cancel or modify appointment from here might be helpful as well. If you’re putting this upfront and center, then maybe adding the ability to cancel or modify here, to save a step, might be helpful."
+* "I live an hour and a half from the nearest VA hospital, so sometimes they send me to (another hospital) that's 45 minutes away, so I need to see there where exactly I'm being sent."
 
 
-**Finding 3**
+**Most (3) participants expected some sort form of personalization**
 
-Labels: label 1, label 2 
+Labels: identity-personalization 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
-Brief description
+Personalization seems to be an opportunity for easy wins when it comes to delighting users. Three of the four participants specifically called out the USMC badge on the homepage concept as a nice personal touch. All participants mentioned personalization in some form or another, whether it was an element that showed their default hospital location, their primary care provider or social worker, or nearest non-VA provider.
 
-> _Supporting data: Quote here_
+* "I'd like to see which social worker I've been assigned to."
+* "Say that my disability rating is 30 percent, and I think it needs to be higher because of X, what steps do I need to do to get it higher?"
+* "I have two VA hospitals near me, so I'd like to see which one I go to the most listed as my 'default' location."
 
-> _Supporting data: Quote here_
+
+**All participants gave a different answer for what they expected in "Messages"**
+
+Labels: secure-messaging
+
+The expectation of capabilities in messaging provided per haps the widest ranging answers. One participant didn't expect to be able to message at all from this box, another described it as more of a notifications center, while one accurately described it as a place for secure messaging. 
+
+* "Messages that I've sent have usually been a question to the provider. Do you want me to make an appointment? Do you want me to go to the acute care through the VA benefits? Are you going to give me a course of action? I've found it very helpful.
+* "I'd expect to see a message about my next appointment, or 'make sure to get my fasting labs.' As a patient, I would probably message the nurse on call or the medical assistant that works with the physician."
+* "I'd expect to see messages about results, like a blood test or an x-ray, or any kind of information about the center."
+
+**Most (3) particpants wanted more resources and definition in the "Non-VA Resources" section**
+
+
+This section was not an area of great focus during previous design and iteration phases, but most participants called it out during the testing phase as an area that needed more definition. Some expected to see a list of in-area providers and eligibility, while others were wondering if it was the same as community care.
+
+* "I would think that link would be the steps needed to access community care."
+* "I would like to see who the providers are in my area, what the co-pay is, and what I'm eligible for. Like the name, address, and what my coverage would be."
 
 
 # Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+* There were two interesting comments made about the design of the site. One participant said that the shift in orientation from the Big Four to the rest of the page -- going from reading left to right to up and down -- was distracting, while another suggested the Big Four, in the desktop concept, might be better served by being stacked on top of each other, rathr than a two-by-two grid. 
+* The term "health supplies"  continues to be a tricky one. There was no consistency or consensus between participants for what that link should lead to, and when asked for a better term, answers ranged from a detailed list of ailment-specific supplies (diabetes, sleep apnea, and so forth) to "medical" supplies.
 
 
 # Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+* Recommendations to come as the research is reviewed further
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+
 
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+* Translate feedback into action items and prioritize them for further design iterations and testing. 
 
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+* We need to test for accessibility and with those who use DAT
 
 # Appendix
 
@@ -169,110 +164,97 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+Github and Mural 
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Homepage Desktop Auth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Homepage%20Desktop.png)
 
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+[Homepage Mobile Auth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Homepage%20Mobile.png)
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+This was an informal user test, so our participants were veterans within our social networks.  
 
-We talked to **x participants.**
+We talked to **5 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 5 
+* Caregivers: 0
+* Family members of a Veteran: 0 
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 4  
+* Female: 1 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5
+* Tablet: 0 
+* Smart phone: 0 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 2
+* 35-44: 1
+* 45-54: 0
+* 55-64: 1
+* 65+: 1
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
+* High school degree or equivalent: 0
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 0
 * Bachelor's degree: x
-* Master's degree: x
+* Master's degree: 2
 * Doctorate degree: x
-* Unknown: x
+* Unknown: 3
 
 
 Geographic location:
 * Urban: x
 * Rural: x
-* Unknown: x
+* Unknown: 5
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 4
+* Black: 0
+* Hispanic: 0
+* Biracial: 0
+* Asian: 1
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 0
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
@@ -280,6 +262,6 @@ _List all groups in red from the spreadsheet_
 * Group 2
 * Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Screen%20Shot%202021-12-13%20at%208.48.50%20PM.png)
 
