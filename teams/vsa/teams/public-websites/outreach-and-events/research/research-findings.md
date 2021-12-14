@@ -118,17 +118,20 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 3. One participant said they didn't like the **American flag shown in the top left corner** next to "An official website of the United States government" because it's not accurate with the stars not lined up the way they are in the real American flag. [Show picture of each to compare]
 
 # Recommendations
+Some of the recommendations below have been discussed with the Public Websites team, and decisions made are included in CAPS.
 ## For MVP (near term)
-1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead.
-3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed.
-4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to see as navigation rather than part of the event description.
+1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead. (DO THIS)
+3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed. (DO THIS)
+4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to see as navigation rather than part of the event description. (TRY TO DO THIS)
 1. Content editors should be encouraged to **include more information about each event**, including the following:
     1. For the event list, include a meaningful short description that is a concise descriptive overview of the event. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
     1. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event or do at during the event, and rough estimate of how many people might be there. 
     1. For the event detail page, if applicable, consider providing the name of the building or facility (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
+    1. (ADVISE CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING)
 
 ## For future iterations
-5. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events.
+5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event").
+6. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events.
 7. Consider **making the event list more delightful to browse** by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
 8. Consider including a location filter to **see events "near me"**, per the user's home address (if they're logged in) or current location (via smartphone).
 9. Consider including a **"get directions" link** on event detail pages that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
