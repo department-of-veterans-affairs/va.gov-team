@@ -24,34 +24,46 @@
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
-**I** am redirected to the main va.gov login page  
-**And when** I login using my va.gov credentials  
-**And when** I'm successfully redirected back to my Pre-checkin demographics page  
-**I** now have the ability to edit all of my demographics information  
-**And when** I edit any or all of my demographics info and submit the changes  
-**And I** can see that my changes have been validated  
-**And I** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
-
+**Then** I am redirected to the main va.gov login page  
+**when** I login using my va.gov credentials  
+**Then** I am successfully redirected back to my Pre-checkin demographics page  
+**And** I have the ability to edit all of my demographics information  
+**When** I edit any or all of my demographics info and submit the changes  
+**Then** I can see that my changes have been validated  
+**And** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
 **Scenario:** _User **HAS** fully authenticated with their va.gov credentials prior to clicking on the URL_  
-**Given** I have **fully authenticated** prior using my va.gov credentials
-**And** my minimal authentication was automatically handled using information from my profile  
+**Given** I have **fully authenticated** prior using my va.gov credentials  
+**Then** my minimal authentication was automatically handled using the information from my profile  
 **And** I'm not shown the minimal authentication page
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
-**I** am NOT redirected to the main va.gov login page  
-**And I** remain on the Pre-checkin flows demographics page  
-**And I** now have the ability to edit all of my demographics information  
-**And when** I edit any or all of my demographics info and submit the changes  
-**And I** can see that my changes have been validated  
-**And I** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
+**Then** I am NOT redirected to the main va.gov login page  
+**And** I remain on the Pre-checkin flows demographics page  
+**And** I now have the ability to edit all of my demographics information  
+**When** I edit any or all of my demographics info and submit the changes  
+**Then** I can see that my changes have been validated  
+**And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 
 *---End User Scenarios---*  
 
 ### User story 2
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
-**I want** the ability to securely edit and save my demographics information to the va systems ON the **day of Check-in** provided that I had not done so already during my **pre-checkin** flow  
+**I want** the ability to securely edit and save my demographics information to the va systems ON the **day of Check-in**  
+
+
+*---Begin User Scenarios---* 
+
+**Scenario:** _User has **NOT** not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated_  
+**Given** That the user has not completed their Pre-check-in flow for an appointment
+**And** That it is currently the day of the appointment at the facility/clinic
+**And** That the user initiates the **Check-in** in flow on their mobile device
+**And** That the user has not fully authenticated on va.gov prior to initiating the Check-in flow
+**When** The user clicks on the Check-in URL in the SMS they received
+**
+
+*---End User Scenarios---* 
 
 ## Exploring Workflows
 ### Workflow one
