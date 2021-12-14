@@ -63,8 +63,15 @@ _How will you know the problem is solved? What data will you look for?_
 
 ## Estimated timing and steps
 
-1. Discovery around benefit content performance: Wrap up early January
-2. Define the strategic relationship between benefits hubs and R&S: Ready mid-January
-3. Testing: Mid-January to mid-February
-4. Define information types of modular content: Mid-February
-5. Begin content migration project following new strategy and information types for reusable content (recognizing that technical capabilities will likely not be in place at this time): Start end of February
+### Near-term:
+
+1. Share initial findings for benefit content performance: Mid January
+2. Define the initial strategic relationship between benefits hubs/R&S/other content areas and initial governance structure + document risks and constraints: Mid-to-late January
+3. Start content planning group pilot to migrate targeted health content: Late January (official kickoff; discussions started already) 
+
+### Long-term
+
+1. Create backlog of content/IA improvements for benefit hubs
+2. Define information types of modular content
+
+
