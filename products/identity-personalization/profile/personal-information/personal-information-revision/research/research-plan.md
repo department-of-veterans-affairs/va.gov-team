@@ -140,7 +140,7 @@ Team Availability:
 Team Roles
 ----------
 
--   Moderators: Christina Gednalske (christina.gednalske.adhocteam.us), Liz Lantz (liz.lantz@adhocteam.us, 843-898-4463)
+-   Moderators: Christina Gednalske (christina.gednalske@adhocteam.us), Liz Lantz (liz.lantz@adhocteam.us, 843-898-4463)
 -   Research guide writing and task development: Christina Gednalske, Liz Lantz
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Christina Gednalske
