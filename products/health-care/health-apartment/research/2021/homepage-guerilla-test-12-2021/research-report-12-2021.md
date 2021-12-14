@@ -158,7 +158,7 @@ This section was not an area of great focus during previous design and iteration
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-user-research-conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview notes and transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Observation%20notes)
 
 
 ## Tools used for Synthesis
