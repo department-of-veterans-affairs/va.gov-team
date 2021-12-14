@@ -1,6 +1,6 @@
 
 
-# [Study] Research Findings 
+# [Informal research on health homepage concepts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/user-research-plan-12-2021.md) Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Health Apartment, MO Studio
 
@@ -14,15 +14,15 @@ Date: 12/13/2021
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/research-synthesis-12-2021.md#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/research-synthesis-12-2021.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/research-synthesis-12-2021.md#recommendations)
 
-[Who we talked to](insert link to section)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/research-synthesis-12-2021.md#who-we-talked-to)
 
-[Further research needed](insert link to section)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/research-synthesis-12-2021.md#further-research-needed)
 
 <br>
 
@@ -87,9 +87,8 @@ We conducted and recorded half-hour moderated remote sessions on Zoom. During th
 
 **All participants wanted more specific actions in the "Big Four" cards**
 
-Labels: label 1, label 2 
+Labels: action-items
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 While the participants appreciated the task-oriented nature of the "Big Four," they wanted more specific information within the cards themselves. For example, in "appointments," every participant said they'd like to see the name of the doctor. Participants also said they'd like more action links to help them complete the task on the card, such as "refill" for a due prescription or "cancel" for an appointment.
 
@@ -257,10 +256,11 @@ Disability and Assistive Technology (AT):
 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+
+* Veterans
+* Race
+* LGBTQ+
+* AT
 
 
 ![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Screen%20Shot%202021-12-13%20at%208.48.50%20PM.png)
