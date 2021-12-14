@@ -15,7 +15,7 @@
 
 ## Questions that must be answered
 
-## Existing Systems
+## Existing Applications and APIs
 ### Vets-API
 ### CHIP
 ### LoROTA
@@ -54,3 +54,7 @@
 - #### References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
+
+## Systems Monitoring and Error reporting
+
+## Testing
