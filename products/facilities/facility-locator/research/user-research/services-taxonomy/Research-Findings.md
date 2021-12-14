@@ -197,7 +197,7 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 > P15: I guess I am not familiar with what the library services entail. Social programs and services because in my mind that’s where it fits.
 
-**6. How service categorization was distrbuted across participants:**
+#### 6. How service categorization was distrbuted across participants:
 
 [DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
 
@@ -205,11 +205,56 @@ Based on the Optimal Workshop statistical reports, here are my recommendations o
 
 **High confidence**
 
-
+| Service                          | Category                     | Confidence level                                                            |
+| ----------------------------------- | ---------------------------- | --------------------------------------------------------------------------- |
+| Medical records                     | Adminstrative                | High - 12/14 in Adminstrative                                               |
+| Wheelchair and mobility             | Specialty care               | High - 12/14 in Specialty care                                              |
+| Workshops and classes               | Social programs and services | High - 10/14 in Social programs and services                                |
+| Billing and insurance               | Administrative               | High - 14/14 in Administrative                                              |
+| Chaplain service                    | Social programs and services | High - 10/14 in Social programs and services, split across other categories |
+| Radiology                           | Specialty care               | High - 10/14 in Specialty care, 4/10 in Primary care                        |
+| Advice nurse                        | Primary care                 | High - 10/14 in Primary care, 4/10 in Prepare for your visit                |
+| Patient advocates                   | Administrative               | High - 10/14 in Administrative, split across other categories               |
+| Travel reimbursement                | Adminstrative                | High - 12/14 in Adminstrative                                               |
+| Veteran connections                 | Social programs and services | High - 11/14 in Social programs and services                                |
+| Employment verification             | Adminstrative                | High - 12/14 in Adminstrative                                               |
+| Freedom of Information Act requests | Administrative               | High - 13/14 in Administrative                                              |
+| Privacy office                      | Administrative               | High - 14/14 in Administrative                                              |
 
 **Medium confidence**
 
+| Service                                        | Category                     | Confidence level                                                                                  |
+| ------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| Whole health                                      | Primary care                 | Medium - 8/14 in Primary care, split acros serval categories                                      |
+| Women Veteran care                                | Primary care                 | Medium - 8/14 in Primary care, split acros serval categories                                      |
+| Military sexual trauma care                       | Mental health care           | Medium - 8/14 in Mental health care, split across a few other categories                          |
+| Social work                                       | Social programs and services | Medium - 9/14 in Social programs and services, 5/14 in Mental health care                         |
+| Caregiver support                                 | Social programs and services | Medium - 9/14 in Social programs and services, split across a few categories                      |
+| Substance abuse care                              | Specialty care               | Medium - 8/14 in Specialty care, split across other categories                                    |
+| Grief and bereavement counseling                  | Mental health care           | Medium - 9/14 in Mental health care, split across Social programs and services and Specialty care |
+| MOVE! weight management                           | Specialty care               | Medium - 8/14 in Specialty care, 4/14 in Social programs and services, other categories           |
+| Nutrition, food, and dietary care                 | Specialty care               | Medium - 9/14 in Specialty care, split across Primary care and Social programs and services       |
+| Applying for health care                          | Administrative               | Medium - 8/14 in Administrative, 5/14 in Prepare for your visit                                   |
+| Vocational rehabilitation and employment programs | Social programs and services | Medium - 9/14 in Social programs and services                                                     |
+
+**Low confidence**
+
+| Services                  | Category               | Confidence level                                                                   |
+| ------------------------- | ---------------------- | ---------------------------------------------------------------------------------- |
+| My HealtheVet coordinator | Administrative         | Low - 7/14 in Administrative, split across other categories                        |
+| Make an appointment       | Prepare for your visit | Low - 8/14 in Prepare for your visit, 5/15 in Primary care, 1/14 in Administrative |
+
 **Unsure / need more information**
+
+| Services                             | Category                | Confidence level                                                                                                      |
+| ------------------------------------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Library services                     | Unsure / need more info | Unsure / need more info - split between Social programs and services, and Administrative                              |
+| LGBTQ+ Veteran care                  | Unsure / need more info | Unsure / need more info - split several categories                                                                    |
+| Minority Veteran care                | Unsure / need more info | Unsure / need more info - 7/10 in Primary care, split across a few other categories                                   |
+| Registry exams                       | Unsure / need more info | Unsure / need more info - sllit across several categories                                                             |
+| Returning service member care        | Unsure / need more info | Unsure / need more info - split across several categories                                                             |
+| Smoking and tobacco cessation        | Unsure / need more info | Unsure / need more info - 6/14 in Social programs and services, 5/14 in Specialty care, split across other categories |
+| Recreation and creative arts therapy | Unsure / need more info | Unsure / need more info - split across Mental health care, Social programs and services, and Specialty care           |
 
 **Card sort 1**
 
