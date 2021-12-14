@@ -6,19 +6,20 @@
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## End goals:
+### User story 1
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
 **I want** the ability to securely edit and save my demographics information to the va systems during my **Pre-checkin** work flow  
 
 *---Begin User Scenarios---*  
 
-**Setup**    
+**Setup:**    
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
 **And** I have received a SMS notification with a shortened URL to the Pre-checkin flow for the appointment  
 **And** I have clicked on the shortened URL  
 **And** I have been successfully redirected to Pre-checkin starting page on the va.gov site  
 
-**Scenario:** _User has not fully authenticated with their va.gov credentials prior to clicking on the URL_  
+**Scenario:** _User has **NOT** fully authenticated with their va.gov credentials prior to clicking on the URL_  
 **Given** I have **not fully authenticated** prior using my va.gov credentials
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
@@ -31,8 +32,23 @@
 **And I** can see that my changes have been validated  
 **And I** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
+
+**Scenario:** _User **HAS** fully authenticated with their va.gov credentials prior to clicking on the URL_  
+**Given** I have **fully authenticated** prior using my va.gov credentials
+**And** my minimal authentication was automatically handled using information from my profile  
+**And** I'm not shown the minimal authentication page
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
+**I** am NOT redirected to the main va.gov login page  
+**And I** remain on the Pre-checkin flows demographics page  
+**And I** now have the ability to edit all of my demographics information  
+**And when** I edit any or all of my demographics info and submit the changes  
+**And I** can see that my changes have been validated  
+**And I** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
+
 *---End User Scenarios---*  
 
+### User story 2
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
 **I want** the ability to securely edit and save my demographics information to the va systems ON the **day of Check-in** provided that I had not done so already during my **pre-checkin** flow  
