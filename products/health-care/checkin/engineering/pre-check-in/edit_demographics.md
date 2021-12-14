@@ -10,6 +10,9 @@
 **As a** Veteran  
 **I want** the ability to edit and save my demographics information during my **Pre-checkin** work flow  
 
+*---Begin User Scenarios---*  
+*---End User Scenarios---*  
+
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
 **I want** the ability to edit and save my demographics information ON the **day of Check-in** provided that I had not done so already during my **pre-checkin** flow  
