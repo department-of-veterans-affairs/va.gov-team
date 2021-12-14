@@ -77,6 +77,8 @@ We conducted and recorded half-hour moderated remote sessions on Zoom. During th
 
 4. Most (4) participants wanted more resources and definition in the "Non-VA Provider" section
 
+5. All Participants were confused about the disability section
+
 
 
 
@@ -108,7 +110,6 @@ Labels: identity-personalization
 Personalization seems to be an opportunity for easy wins when it comes to delighting users. Three of the four participants specifically called out the USMC badge on the homepage concept as a nice personal touch. All participants mentioned personalization in some form or another, whether it was an element that showed their default hospital location, their primary care provider or social worker, or nearest non-VA provider.
 
 * "I'd like to see which social worker I've been assigned to."
-* "Say that my disability rating is 30 percent, and I think it needs to be higher because of X, what steps do I need to do to get it higher?"
 * "I have two VA hospitals near me, so I'd like to see which one I go to the most listed as my 'default' location."
 
 
@@ -129,6 +130,13 @@ This section was not an area of great focus during previous design and iteration
 
 * "I would think that link would be the steps needed to access community care."
 * "I would like to see who the providers are in my area, what the co-pay is, and what I'm eligible for. Like the name, address, and what my coverage would be."
+
+**All participants were confused by the "Disability" section**
+
+By confusion, we mean that participants weren't sure why some elements of the disability section was present, and others weren't. Further, relating to the point on personalization above, participants wanted to see information on disability specific to them. 
+
+* "Say that my disability rating is 30 percent, and I think it needs to be higher because of X, what steps do I need to do to get it higher?"
+* "How does disability relate to healthcare? That question is a little bit… what does that mean? With my disability, how that relates to my healthcare or what’s covered? That’s a little, not very intuitive of what that means."
 
 
 # Additional Insights
