@@ -12,11 +12,14 @@
 
 *---Begin User Scenarios---*  
 
+**Setup**    
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
 **And** I have received a SMS notification with a shortened URL to the Pre-checkin flow for the appointment  
 **And** I have clicked on the shortened URL  
 **And** I have been successfully redirected to Pre-checkin starting page on the va.gov site  
-**And** I have **not fully authenticated** prior using my va.gov credentials
+
+**Scenario:** _User has not fully authenticated with their va.gov credentials prior to clicking on the URL_  
+**Given** I have **not fully authenticated** prior using my va.gov credentials
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
