@@ -8,14 +8,24 @@
 ## End goals:
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
-**I want** the ability to edit and save my demographics information during my **Pre-checkin** work flow  
+**I want** the ability to securely edit and save my demographics information during my **Pre-checkin** work flow  
 
 *---Begin User Scenarios---*  
+
+**Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
+**And** I have received a SMS notification with a shortened URL to the Pre-checkin flow for the appointment  
+**And** I have clicked on the shortened URL  
+**And** I have been successfully redirected to Pre-checkin starting page on the va.gov site  
+**And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
+**I** am redirected to the main va.gov login page  
+
 *---End User Scenarios---*  
 
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
-**I want** the ability to edit and save my demographics information ON the **day of Check-in** provided that I had not done so already during my **pre-checkin** flow  
+**I want** the ability to securely edit and save my demographics information ON the **day of Check-in** provided that I had not done so already during my **pre-checkin** flow  
 
 ## Exploring Workflows
 ### Workflow one
