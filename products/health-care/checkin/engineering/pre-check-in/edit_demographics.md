@@ -26,7 +26,7 @@
 **I** now have the ability to edit all of my demographics information  
 **And when** I edit any or all of my demographics info and submit the changes  
 **And I** can see that my changes have been validated  
-**And I** can see that my validated changes have been successfully saved in the system so that all relevant parties can view it  
+**And I** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
 *---End User Scenarios---*  
 
