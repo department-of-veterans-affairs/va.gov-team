@@ -1,7 +1,7 @@
 ## Items of note:
 * Design consistency: Participant pointed out several times that the shift from the orientation of the Big Four to the orientation of the cards below was jarring. 
 
-* Messages: The participant referred to secure messages prior to being shown the designs, but when he was specifically discussing the designs, he thought the messages that would be shown would concern lab tests and other subjects outside of secure messaging (which they would not). 
+* Messages: The participant referred to secure messages prior to being shown the designs, but when he was specifically discussing the designs, he thought the messages that would be shown would concern lab tests and other subjects outside of secure messaging (which they would not). **>> VA could send messages about lab results. Messages could be about any interactions with providers.**
 
 * Critical Information: For several items, including refills, messages and appointments, the participant said they would like to see necessary associated actions. 
 
