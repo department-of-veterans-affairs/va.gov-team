@@ -5,7 +5,14 @@
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
-## End goal:
+## End goals:
+In order to provide all concerned parties my latest demographics changes before a scheduled appointment  
+As a Veteran  
+I want the ability to edit and save my demographics information during my pre-checkin work flow  
+
+In order to provide all concerned parties my latest demographics changes before a scheduled appointment  
+As a Veteran  
+I want the ability to edit and save my demographics information ON the day of check-in given that I had not done so already during my pre-checkin flow  
 
 ## Exploring Workflows
 ### Workflow one
