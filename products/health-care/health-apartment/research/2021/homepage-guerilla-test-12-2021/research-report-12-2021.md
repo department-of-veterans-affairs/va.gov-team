@@ -1,12 +1,14 @@
 
 
-# [Informal research on health homepage concepts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/user-research-plan-12-2021.md) Research Findings 
+# Informal research on health homepage concepts: Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Health Apartment, MO Studio
 
 Date: 12/13/2021
 
 [Jordan White] [Jordan@themostudio.com], [Meg Peters] [meg.peters@va.gov]
+
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/user-research-plan-12-2021.md) 
 
 [Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf) 
 
