@@ -1,4 +1,5 @@
 ### ITEMS OF NOTE:  
+* Used mobile concept
 * content around messages - should lab test results, appointment confirms 
 and pharmacy notices be addresses in that section.  
 * Clicking “view” would give a user an idea to view all info pertaining to 
