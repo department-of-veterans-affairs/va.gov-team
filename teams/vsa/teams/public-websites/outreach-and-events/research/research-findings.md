@@ -56,12 +56,12 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 ### Usability Successes
 1. All participants understood the concept of **recurring events** in the prototype. One participant specifically called out how much they liked seeing all the occurrences on the event detail page.
 > "It was good to have all of the classes listed there [on event detail page] and hyperlinked so that I could click through them instead of going back and forth [to event list]." (p4).
-3. All participants appreciated the **location information** provided in the event list--city and state or "online event".
+2. All participants appreciated the **location information** provided in the event list--city and state or "online event".
     1. When asked about what location information should be displayed in the event list, all 8 participants wanted the city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address (3 participants), phone number or email address (2 participants), name of facility or building if applicable (1 participant).
-5. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button**. One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
+3. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button**. One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
 6. **Date entry via dropdowns** in the _Specific date_ and _Custom date range_ options worked well for everyone. When asked what the dropdown options would do, one participant said they expected a calendar to open so they could pick a date, but they didn't mention it later when they selected dates with the dropdowns provided.
 > "You can search for specific dates and customize it" (p1).
-8. Participants found it easy to **navigate from an event detail page to the event list** by using the browser back button (6 participants), the breadcrumbs (1 participant), or *In this section menu > Outreach events* (1 participant). 
+5. Participants found it easy to **navigate from an event detail page to the event list** by using the browser back button (6 participants), the breadcrumbs (1 participant), or *In this section menu > Outreach events* (1 participant). 
 
 7. Six of 8 participants said that they would use the **_Add to calendar_ link** after they registered for the event.
     1. On the same event detail page, 3 of 8 participants said they would share on Facebook, and no one said they would share on Twitter.
@@ -74,21 +74,21 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     4. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
 > "No one cares about past events" (p2).
 
-3. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. 
+2. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. 
     1. Half of the participants understood they were registering for only one event. 
     2. Two others weren't sure which occurrence they were registering for but guessed correctly that it was the one at the top of the page.
     3. Two participants expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend. They both expected the Register button to open a list of all occurrences, and they could check the ones they wanted to register for.
 
-4. Most participants had **little patience for scrolling through a flat list of events**. 
+3. Most participants had **little patience for scrolling through a flat list of events**. 
 
 > "Too much of everything with random events--like a classified section" (p2).
     
-1. Two participants said that the event list was not welcoming because it's **too plain and boring-looking** with bland colors. Two participants said that it was too much undifferentiated white on the events list, and one of them suggested making it easier to read by shading alternate events in the list (like the default table formatting in Powerpoint).
+4. Two participants said that the event list was not welcoming because it's **too plain and boring-looking** with bland colors. Two participants said that it was too much undifferentiated white on the events list, and one of them suggested making it easier to read by shading alternate events in the list (like the default table formatting in Powerpoint).
 
 > "Just black and white...scroll scroll scroll. Kind of like all other pages. There's nothing that draws your attention to it. Just blue, black, white...page after page after page of just words and information...it just gets boring" (p1).
 
 
-1. Seven of 8 participants had strong negative reactions to finding events with only the date filter we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. 
+5. Seven of 8 participants had strong negative reactions to finding events with only the date filter we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. 
     1. Seven participants instead **wanted to filter by location** (i.e., their state). Two participants wanted an option (i.e., checkbox) to filter online events, too. One participant expected all online events to show for all locations.
     1. Four participants **wanted to search** (i.e., for "yoga" or "Veteran jobs" or "Memorial Day") 
     1. Three participants **wanted to filter by type of event** (i.e., career, health/exercise, social, Veteran _vs._ Caregiver)
@@ -98,7 +98,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 > "I wouldn't have a clue on this site how to look that up. I would probably end up looking under 1, 2, 3, and Next. You'd probably end up having to go through every cotton-pickin' one and press page 2, look, look, page 3, look, look because there's no way to break it down. You'd have to look at every single page and read every one to see if you could find it" (p1).
 
 
-4. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation.
+6. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants probably ignored it (or possibly understood it). One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation.
 5. On event detail pages, the navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information.
 6. There were several confusions with terminology used in the interface, each of which was mentioned by only one participant:
     1. The "Outreach" heading--it sounds like charity (i.e., handing out food, clothes to those who need them)
