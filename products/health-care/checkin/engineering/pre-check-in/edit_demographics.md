@@ -21,11 +21,12 @@
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **I** am redirected to the main va.gov login page  
-**And when** I login using my va.gov credentials
-**And when** I'm successfully redirected back to my Pre-checkin demographics page
-**I** now have the ability to edit all of my demographics information
-**And I** can see that my changes have been validated
-**And I** can see that my validated changes have been successfully saved in the system so that all relevant parties can view it.
+**And when** I login using my va.gov credentials  
+**And when** I'm successfully redirected back to my Pre-checkin demographics page  
+**I** now have the ability to edit all of my demographics information  
+**And when** I edit any or all of my demographics info and submit the changes  
+**And I** can see that my changes have been validated  
+**And I** can see that my validated changes have been successfully saved in the system so that all relevant parties can view it  
 
 *---End User Scenarios---*  
 
