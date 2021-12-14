@@ -1,15 +1,21 @@
 
-# Pre Check-in, Demographics Editing: Systems Design and Architecture exploration.
+# Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
 
-## Related documents, wire-frames, and flow diagrams:
+## Related documents, wire-frames, and flow diagrams
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## End goal:
 
-## Proposed Workflows:
+## Exploring Workflows
+### Workflow one
+#### Outstanding problems:
+* one
+* two  
 
-## Existing Systems:
+## Questions that must be answered
+
+## Existing Systems
 ### Vets-API
 ### CHIP
 ### LoROTA
@@ -35,7 +41,7 @@
 > * Account security
 > * Connected apps (managed by the Lighthouse team)
 
-- #### References
+- #### References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ### VA Profile
@@ -45,7 +51,6 @@
 > The VA Profile team is not part of the OCTO/DEPO contracts.
 > They are an entirely separate team that we work with, and they work with a lot of other teams.
 
-- #### References
+- #### References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
-## Questions to be answered:
