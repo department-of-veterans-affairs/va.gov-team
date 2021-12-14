@@ -20,7 +20,7 @@
 **And** I have been successfully redirected to Pre-checkin starting page on the va.gov site  
 
 **Scenario:** _User has **NOT** fully authenticated with their va.gov credentials prior to clicking on the URL_  
-**Given** I have **not fully authenticated** prior using my va.gov credentials
+**Given** I have **not fully authenticated** prior using my va.gov credentials  
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
@@ -35,7 +35,7 @@
 **Scenario:** _User **HAS** fully authenticated with their va.gov credentials prior to clicking on the URL_  
 **Given** I have **fully authenticated** prior using my va.gov credentials  
 **Then** my minimal authentication was automatically handled using the information from my profile  
-**And** I'm not shown the minimal authentication page
+**And** I'm not shown the minimal authentication page  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **Then** I am NOT redirected to the main va.gov login page  
@@ -56,12 +56,11 @@
 *---Begin User Scenarios---* 
 
 **Scenario:** _User has **NOT** not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated_  
-**Given** That the user has not completed their Pre-check-in flow for an appointment
-**And** That it is currently the day of the appointment at the facility/clinic
-**And** That the user initiates the **Check-in** in flow on their mobile device
-**And** That the user has not fully authenticated on va.gov prior to initiating the Check-in flow
-**When** The user clicks on the Check-in URL in the SMS they received
-**
+**Given** That the user has not completed their Pre-check-in flow for an appointment  
+**And** That it is currently the day of the appointment at the facility/clinic  
+**And** That the user initiates the **Check-in** in flow on their mobile device  
+**And** That the user has not fully authenticated on va.gov prior to initiating the Check-in flow  
+**When** The user clicks on the Check-in URL in the SMS they received  
 
 *---End User Scenarios---* 
 
