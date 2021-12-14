@@ -280,10 +280,6 @@ The similarity matrix measures how often services were grouped in similar catego
 
 ![Card sort 2 - Similarity matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/images/Card%20sort%202%20-%20Similarity%20matrix.png)
 
-# Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 # Recommendations
 
 - **Recommendation 1: Add the "Administrative" category to system-level and facility-level pages**
