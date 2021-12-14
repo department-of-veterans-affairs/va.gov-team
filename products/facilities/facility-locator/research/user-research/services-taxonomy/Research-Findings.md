@@ -1,4 +1,4 @@
-[PRE-APPROVAL]
+[Pre-Approval]
 
 # Non-Clinical Services Taxonomy - Research Findings 
 
@@ -6,7 +6,7 @@
 
 **Designer / Researcher:** Nick Osmanski (nick.osmanski@amida.com)
 
-Date: MM/DD/YYYY
+Date: 12/14/2021
 
 - **Jump to:**
     - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#hypotheses-and-conclusions)
@@ -295,11 +295,8 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-[add what to do with services that aren't clear]
-[slide deck for VA stakeholders]
-[who to talk to for unclear services, and for plain language(er) stuff]
+- Presentation decks for design team and VA stakeholders.
+- Likely a need for Content team input for any changes to "patient-friendly" language that may describe services differently. 
 
 # Further research needed
 
