@@ -98,7 +98,7 @@ We conducted and recorded half-hour moderated remote sessions on Zoom. During th
 Labels: action-items
 
 
-While the participants appreciated the task-oriented nature of the "Big Four," they wanted more specific information within the cards themselves. For example, in "appointments," every participant said they'd like to see the name of the doctor. Participants also said they'd like more action links to help them complete the task on the card, such as "refill" for a due prescription or "cancel" for an appointment.
+While the participants appreciated the task-oriented nature of the "Big Four" (Appointments, Messages, Pharmacy, and Medical Records), they wanted more specific information within the cards themselves. For example, in "appointments," every participant said they'd like to see the name of the doctor. Participants also said they'd like more action links to help them complete the task on the card, such as "refill" for a due prescription or "cancel" for an appointment.
 
 * "I'd like to see a Google or Apple Maps link that takes me to the directions to the appointment."
 * "In the appointment section, it should say the specialty and name of the doctor so I know what the appointment is about."
