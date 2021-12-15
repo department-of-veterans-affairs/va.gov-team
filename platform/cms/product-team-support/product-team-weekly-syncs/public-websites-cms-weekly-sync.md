@@ -38,7 +38,25 @@
 ## December 15, 2021
 
 * Shared tech debt: removing dependencies on `field_administration` from queries and templates (Connect with us)
+  * Lynn's PR to deprecate of field_administration on `landing_page` (For use in the Connect With Us block) is still failing during the content build
+    * [current tugboat errors](https://tugboat.vfs.va.gov/log/61ae8b90690c6828eb8b95d7)
+    * Steve and Lynn to connect first
+  * nodePage entity still has fieldAdministration on it to figure out when menu to place (tech debt in FE)
+    * less of a priority but Kelson is looking into new ways of figuring out what menu to place
 * Events v2 status updates
+  * Brian: Cindy wrapped up research Veterans. Research report coming this week.
+    * No impact for CMS, some new design components. Removing items from dropdowns
+  * Kelson and Steve and Ethan have set us up for a non-breaking change in the rollout 
+  * Time zones
+    * Product decision: keep the timezone display in whatever the editor chose (same as current state). 
+    * Kelson having fun with unix times and timezones
+    * [CMS issue #7285](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7285) to make timezonedata more rigid (default New York vs _selected_ NY)
+* Holidays
+  * Steve, Kelson, Brian out a couple days
+  * Ethan and Lynn is out week between xmas and NY
+  * Kev is in and out
+  * ping CMS-support
+  * Sync 22nd, 29th TBD. 
 
 ## December 8, 2021
 * Promo banners (any questions?)
