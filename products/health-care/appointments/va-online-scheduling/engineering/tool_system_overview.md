@@ -16,7 +16,7 @@ VATS is a tool that allows users at VA locations to configure what types of care
 
 ### Scheduling Manager
 
-SM is a tool that schedulers are VA sites use to process appointment requests. It also contains a list of booked community care appointments, though this list is not in sync with the systems of record for community care.
+SM is a tool that schedulers at VA sites use to process appointment requests. It also contains a list of booked community care appointments, though this list is not in sync with the systems of record for community care.
 
 SM is intended to be deprecated soon, and replaced with a combination of VSE GUI and access to HSRM.
 
