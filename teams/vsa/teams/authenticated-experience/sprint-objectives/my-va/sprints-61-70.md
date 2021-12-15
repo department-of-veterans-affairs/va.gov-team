@@ -181,6 +181,9 @@ Resume project!!
 **Design**
 
 - Frontend design documentation
+- Research plan
+- Convo guide
+- Recruit?
 
 ## Sprint 65 (1/12 - 1/25)
 [Sprint 65 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30270)
