@@ -11,24 +11,27 @@
  </details>
 
 ## December 14, 2021
-## Priorities for VA team
+### Content priorities for VA team
 - Establish baseline metrics (Danielle)
-- **Hubs** -- How are the hubs performing? How we are going to base success? I’ve been looking at Hubs: digging into funnels, paths, etc. Ongoing comprehension testing.Structured content: talking about chatbot where content is scraped from Drupal. Don’t want to have to rewrite content.
+- **Hubs**
+- How are the hubs performing? How we are going to base success? I’ve been looking at Hubs: digging into funnels, paths, etc. Ongoing comprehension testing.
+- Structured content: talking about chatbot where content is scraped from Drupal. Don’t want to have to rewrite content.
 - What belongs where: where does content belong (benefits vs Resources & Support)
 ...Beth: why was CMS team brought on? Strategy sat with us before. We’ve been in react mode up to now. 
 ...Kevin: same here, chasing products and not finding common foundations in content strategy. Ex: health services taxonomy that has things other than services. Taxonomy is a foundational organizing principle for all the products.
-Quality: once we have more authors, how do we retain quality? Some have content backgrounds, others don’t. We use checklists of basics before articles get published. There’s room for collaboration on templates for types of articles. Example: “squishy template”. Is it guidance or planning or review?**
+- **Quality:** once we have more authors, how do we retain quality? Some have content backgrounds, others don’t. We use checklists of basics before articles get published. There’s room for collaboration on templates for types of articles. Example: “squishy template”. Is it guidance or planning or review?**
 ...Suzanne: measuring good content? Beth: no but use the checklist. Next step is to quantify the quality of the product (used internally by content team).We haven’t used these lists with the Vet Centers.
-Beth: we were guinea pigs for CMS and ran into constraints like character counts so we have experience of creating articles using the templates. Tried to use multiple FAQ but there were character count. Would there be a review process to help author use correct template? Learn the challenges faced by new authors.
+- **Templates** 
+...Beth: we were guinea pigs for CMS and ran into constraints like character counts so we have experience of creating articles using the templates. Tried to use multiple FAQ but there were character count. Would there be a review process to help author use correct template? Learn the challenges faced by new authors.
 Governance - doing a pilot with VHA to start working through what a planning group would look like
-Kevin: need to figure out governance structure
-- Translation: new law passed. Danielle represents this team.
-- Training for authors
-- Community of practice for authors (MFA style model): to get ready for Resources
+...Kevin: need to figure out governance structure
+- **Translation:** new law passed. Danielle represents this team.
+- **Training for authors**
+...Community of practice for authors (MFA style model): to get ready for Resources
 - **Workflow:** Beth: we may need an override for authors who are not content designers
-**FAQs** - Danielle: we were not involved in R&S that uses FAQs. 
-Danielle: sounds like we’re in same place, with thinking about foundational issues. Bring Mickey into this conversation.
-...Denise to add Mikki Northuis (IA) to invite)
+- **FAQs** - Danielle: we were not involved in R&S that uses FAQs. 
+Danielle: Bring Mickey into this conversation. Denise to add Mikki Northuis (IA) to invite
+...sounds like we’re in same place, with thinking about foundational issues. 
 
 ## November 30, 2021
 * Resources and Support
