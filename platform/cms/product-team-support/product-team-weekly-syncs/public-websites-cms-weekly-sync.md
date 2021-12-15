@@ -38,7 +38,7 @@
 ## December 15, 2021
 
 * Shared tech debt: removing dependencies on `field_administration` from queries and templates (Connect with us)
-* Events v2
+* Events v2 status updates
 
 ## December 8, 2021
 * Promo banners (any questions?)
