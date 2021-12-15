@@ -27,9 +27,17 @@
 
 ### VAMC
 
-VAMC menu defects 
+VAMC menu
 * [VAMC top level menu links based on nodes should not be output on VAMC menus #7287](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7287)
-* CMS defect 
+* Menu depth constraints?
+  * [Slack thread with Mikki](https://dsva.slack.com/archives/C0FQSS30V/p1638913938489900)
+  * View of data at level 4, 5, and 6
+  * 1889 are at menu depth 2 (eg Top task pages)
+  * 2839 are at menu depth 3 (eg required health services pages)
+  * 408 are at menu depth 4 (example)
+  * 107 are at menu depth 5, visible in the menu (example) unless their menu item has been disabled via request fulfillment (example)
+  * 4 are at menu items at menu depth 6, not visible in the menu (example).
+
 
 "Get your records online" VA blue button/Cerner
 * [mural](https://app.mural.co/t/vagov6717/m/vagov6717/1639530168395/b114bb336a1db8c0a571272b10a230e1360d2775?sender=kevinwalsh8610)
@@ -39,6 +47,8 @@ Massena VA Clinic became Potsdam VA Clinic ([slack thread](https://dsva.slack.co
 * Once redirects are merged, CMS team will update URLs for the content
 * <insert comment about a future in which CMS owns redirects here>
 
+Top task update
+	
 
 ### Vet Center
 
