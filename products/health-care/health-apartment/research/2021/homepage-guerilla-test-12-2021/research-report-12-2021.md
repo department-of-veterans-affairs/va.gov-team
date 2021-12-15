@@ -67,7 +67,7 @@ We conducted and recorded half-hour moderated remote sessions on Zoom. During th
 * Veterans are overwhelmed by too much text. They want well-organized content that guides them to a task or resource quickly, simply, and clearly using plain language.
    * MOSTLY TRUE: While the participants didn't ask for more text, they did express confusion and a lack of clarity towards some links, especially in the "Health Care" section. 
 * Veterans with health care want to see "about" information because either: 1) they need to understand general info on VA health care (i.e., what they get), or 2) they want to share "about" info with other Veterans.
-   * NOT ENOUGH INFORMATION: There was no mention of sharing information with other Veterans, but participants did express both interest and confusion towards the "Health Care" section, in terms of the included content and why some items were present and others weren't. 
+   * NOT ENOUGH INFORMATION: There was no mention of sharing information with other Veterans, though one Veteran said if he was having trouble finding information on the site, he would ask another Veteran. Participants did express both interest and confusion towards the "Health Care" section, in terms of the included content and why some items were present and others weren't. 
 
 
 
