@@ -3,9 +3,9 @@
 ## Communications
 - Project Board: [#vsa-caregiver](https://app.zenhub.com/workspaces/vsa---caregiver-5fff0cfd1462b6000e320fc7)
 - Slack channel: [#vsa-caregiver](https://dsva.slack.com/archives/CMJ2V70UV)
-- DEPO Product Lead: [Ming Ligh](https://github.com/mlighdc)
+- DEPO Product Lead:George Chewning
 - DEPO Engineering Lead: [Mike Chelen](https://github.com/mchelen-gov)
-- Product Manager: [Chris Dyer](https://github.com/tchrisdyer)
+- Product Manager: Sharon Kasimow
 - Stakeholders: Pam Wright, Cari Malcolm
 
 ## The Problem
