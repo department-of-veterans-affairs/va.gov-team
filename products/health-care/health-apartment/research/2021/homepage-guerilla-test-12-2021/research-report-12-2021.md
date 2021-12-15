@@ -113,7 +113,7 @@ While the participants appreciated the task-oriented nature of the "Big Four" (A
 Labels: identity-personalization 
 
 
-Personalization seems to be an opportunity for easy wins when it comes to delighting users. Three of the four participants specifically called out the USMC badge on the homepage concept as a nice personal touch. All participants mentioned personalization in some form or another, whether it was an element that showed their default hospital location, their primary care provider or social worker, or nearest non-VA provider.
+Personalization seems to be an opportunity for easy wins when it comes to delighting users. Three of the four participants specifically called out the US Marine Corps logoe on the homepage concept as a nice personal touch. All participants mentioned personalization in some form or another, whether it was an element that showed their default hospital location, their primary care provider or social worker, or nearest non-VA provider.
 
 * "I'd like to see which social worker I've been assigned to."
 * "I have two VA hospitals near me, so I'd like to see which one I go to the most listed as my 'default' location."
@@ -123,23 +123,22 @@ Personalization seems to be an opportunity for easy wins when it comes to deligh
 
 Labels: secure-messaging
 
-The expectation of capabilities in messaging provided per haps the widest ranging answers. One participant didn't expect to be able to message at all from this box, another described it as more of a notifications center, while one accurately described it as a place for secure messaging. 
+The expectation of capabilities in messaging provided perhaps the widest ranging answers. One participant didn't expect to be able to send a message from this box, another described it as more of a notifications center, while one accurately described it as a place for secure messaging.
 
-* "Messages that I've sent have usually been a question to the provider. Do you want me to make an appointment? Do you want me to go to the acute care through the VA benefits? Are you going to give me a course of action? I've found it very helpful.
+* "Messages that I've sent have usually been a question to the provider. Do you want me to make an appointment? Do you want me to go to the acute care through the VA benefits? Are you going to give me a course of action? I've found it very helpful."
 * "I'd expect to see a message about my next appointment, or 'make sure to get my fasting labs.' As a patient, I would probably message the nurse on call or the medical assistant that works with the physician."
-* "I'd expect to see messages about results, like a blood test or an x-ray, or any kind of information about the center."
+* "I'd expect to see messages about results, like a blood test or an x-ray, or any kind of information about the center." ("Center" refers to the patient's preferred facility or VA Medical Center.)
 
-**Most (4) particpants wanted more resources and definition in the "Non-VA Resources" section**
+**Most (4) particpants wanted more resources and definition in the "Seeing non-VA providers" section**
 
-
-This section was not an area of great focus during previous design and iteration phases, but most participants called it out during the testing phase as an area that needed more definition. Some expected to see a list of in-area providers and eligibility, while others were wondering if it was the same as community care.
+This section was not an area of great focus during previous design and iteration phases, but most participants called it out during the testing phase as an area that needed more definition. Some expected to see a list of in-area providers and eligibility, while one wondered if it was the same as community care.
 
 * "I would think that link would be the steps needed to access community care."
-* "I would like to see who the providers are in my area, what the co-pay is, and what I'm eligible for. Like the name, address, and what my coverage would be."
+* "I would like to see who the providers are in my area, what the copay is, and what I'm eligible for. Like the name, address, and what my coverage would be."
 
 **All participants were confused by the "Disability" section**
 
-By confusion, we mean that participants weren't sure why some elements of the disability section was present, and others weren't. Further, relating to the point on personalization above, participants wanted to see information on disability specific to them. 
+By confusion, we mean that participants weren't sure why some things related to disability were present and others weren't. Further, relating to the point on personalization above, participants wanted to see information on disability specific to them. 
 
 * "Say that my disability rating is 30 percent, and I think it needs to be higher because of X, what steps do I need to do to get it higher?"
 * "How does disability relate to healthcare? That question is a little bit… what does that mean? With my disability, how that relates to my healthcare or what’s covered? That’s a little, not very intuitive of what that means."
@@ -147,13 +146,13 @@ By confusion, we mean that participants weren't sure why some elements of the di
 
 # Additional Insights
 
-* There were two interesting comments made about the design of the site. One participant said that the shift in orientation from the Big Four to the rest of the page -- going from reading left to right to up and down -- was distracting, while another suggested the Big Four, in the desktop concept, might be better served by being stacked on top of each other, rathr than a two-by-two grid. 
+* There were two interesting comments made about the design of the site. One participant said that the shift in orientation from the Big Four to the rest of the page -- going from reading left-to-right to up-and-down and again left-to-right -- was distracting, while another suggested the Big Four, in the desktop concept, might be better served by being stacked on top of each other, rather than a two-by-two grid. 
 * The term "health supplies"  continues to be a tricky one. There was no consistency or consensus between participants for what that link should lead to, and when asked for a better term, answers ranged from a detailed list of ailment-specific supplies (diabetes, sleep apnea, and so forth) to "medical" supplies.
 
 
 # Recommendations
 
-* Recommendations to come as the research is reviewed further
+* Recommendations to come as the research is reviewed further.
 
 
 
@@ -165,7 +164,7 @@ By confusion, we mean that participants weren't sure why some elements of the di
 
 # Further research needed
 
-* We need to test for accessibility and with those who use DAT
+* We need to test for accessibility and with those who use DAT.
 
 # Appendix
 
@@ -268,14 +267,12 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 
 * Veterans
 * Race
 * LGBTQ+
-* AT
+* People who use assistive technology
 
 
 ![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/Screen%20Shot%202021-12-13%20at%208.48.50%20PM.png)
