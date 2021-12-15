@@ -62,7 +62,7 @@ We conducted and recorded half-hour moderated remote sessions on Zoom. During th
 
 * Veterans want to see specific tasks on the homepage. They want to see tasks and information relevant to them. This fits with a recurring theme in previous research, that Veterans are task-oriented.
    * MOSTLY TRUE: Participants responded positively to the task-oriented nature of the homepage, though they either wanted more information to help them complete those tasks, or clarity on how to complete the task. 
-* When Veterans sign in, they expect the website to show them: 1) current health information and tasks (exs: appointments, secure messages, and refills due), and 2) whether they must take action to move a process forward (ex: finish health care application).
+* When Veterans sign in, they expect the website to show them: 1) current health information and tasks (exs: appointments, secure messages, and refills due), and 2) whether they must take action to move a process forward (ex: prescription refill due).
    * TRUE: Participants liked the simplicity of the design, as it highlighted the tasks they could accomplish right away. 
 * Veterans are overwhelmed by too much text. They want well-organized content that guides them to a task or resource quickly, simply, and clearly using plain language.
    * MOSTLY TRUE: While the participants didn't ask for more text, they did express confusion and a lack of clarity towards some links, especially in the "Health Care" section. 
