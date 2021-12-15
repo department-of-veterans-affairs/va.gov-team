@@ -1,6 +1,6 @@
 # Personal Information Front-End Documentation
 ## Note: This copy assumes the "other" text entry fields are visible by default, even before the user selects "other" option for a given field.
-Last Updated 11/29/2021
+Last Updated 12/15/2021
 
 - [Personal Information Page - Read Only State](#personal-information-page---read-only-state)
 - [Personal Information Page - Blank State](#personal-information-page---blank-state)
@@ -177,7 +177,8 @@ Edit your profile to add a gender identity<br>
 **Sexual orientation** <br>
 Edit your profile to add a sexual orientation <br> 
 {Edit button}
-- _Notes 
+
+- Notes 
    - When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required.
    - If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required.
    - If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward.
@@ -189,7 +190,7 @@ Edit your profile to add a sexual orientation <br>
   - Note that in the Edit state, only _one_ section is editable at a time.
 
 ### Specification
-The Edit state is structured the same as the read-only state, except that the field selected for editing will display form controls listed in the table below.  The Pronouns (3), Gender identity (5), and Sexual Orientation (6) fields each provide an "other" option.  When this option is selected, its accompanying text box (3a and 6a in the table below) become required if the user attempts to save.  
+The Edit state is structured the same as the read-only state, except that the field selected for editing will display form controls listed in the table below.  The Pronouns (3), Gender identity (5), and Sexual Orientation (6) fields each provide an "other" option.  When this option is selected for Prounous or Sexual Orientation, the accompanying text field (3a and 6a in the table below) become required if the user attempts to save.  
 ### Sketch Mockups
 - [Personal Information Page - Desktop Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
 
