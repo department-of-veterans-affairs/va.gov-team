@@ -6,6 +6,7 @@ Last Updated 12/15/2021
 - [Personal Information Page - Blank State](#personal-information-page---blank-state)
 - [Personal Information Page - Edit State](#personal-information-page---edit-state)
 - [Personal Information Page - Edit State - Required _Other_ Fields (Error State)](#edit-state---required-other-fields-error-state)
+- [Personal Information Revision - UXPin prototype](https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i)
 
 ## Personal Information Page - Read-Only State
 
