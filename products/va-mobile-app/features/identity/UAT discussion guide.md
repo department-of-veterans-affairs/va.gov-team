@@ -1,7 +1,6 @@
 ## **Login.gov Mobile App UAT Plan and Discussion Guide**
 
-## 
-Objective/Summary
+## Objective/Summary
 
 
 **What to test**
