@@ -35,6 +35,11 @@
 
 </details>
 
+## December 15, 2021
+
+* Shared tech debt: removing dependencies on `field_administration` from queries and templates (Connect with us)
+* Events v2
+
 ## December 8, 2021
 * Promo banners (any questions?)
 * Recurring events
@@ -50,7 +55,6 @@
     * Brian to discuss with Micky on good URL pattern for repeating events
   * Repeats monthly may be an issue
   * Did "Connect with us" stuff get merged? Maybe? Lynn to check and Async with Kelson
-  * 
  
 
 ## December 1, 2021
