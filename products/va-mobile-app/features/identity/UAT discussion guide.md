@@ -1,5 +1,4 @@
-## 
-**Login.gov Mobile App Integration Test Plan**
+## **Login.gov Mobile App UAT Plan and Discussion Guide**
 
 ## 
 Objective/Summary
