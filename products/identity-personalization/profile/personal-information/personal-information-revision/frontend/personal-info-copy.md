@@ -148,10 +148,10 @@ Edit your profile to add a preferred name <br>
 **Pronouns** <br>
 Edit your profile to add a pronoun <br> 
 {Edit button}
-- _Notes 
-   - When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required.
-   - If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required.
-   - If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward.
+- _Dev Notes _
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 
 ---
@@ -159,18 +159,18 @@ Edit your profile to add a pronoun <br>
 
 **Sex assigned at birth** 
 Female
-- _Note this is a change to the existing label that currently reads 'Gender'_
-- _Note - this field is non-editable_
+- _Dev Note - this is a change to the existing label that currently reads 'Gender'_
+- _Dev Note - this field is non-editable_
 
 ---
 
 **Gender identity** <br>
 Edit your profile to add a gender identity<br> 
 {Edit button}
-- _Notes 
-   - When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required.
-   - If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required.
-   - If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward.
+- _Dev Notes_
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 ---
 
@@ -178,16 +178,16 @@ Edit your profile to add a gender identity<br>
 Edit your profile to add a sexual orientation <br> 
 {Edit button}
 
-- Notes 
-   - When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required.
-   - If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required.
-   - If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward.
+- _Dev Notes_
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 ---
 
 
 ## Personal Information Page - Edit State
-  - Note that in the Edit state, only _one_ section is editable at a time.
+  - _Dev Note - in the Edit state, only _one_ section may be edited at a time._
 
 ### Specification
 The Edit state is structured the same as the read-only state, except that the field selected for editing will display form controls listed in the table below.  The Pronouns (3), Gender identity (5), and Sexual Orientation (6) fields each provide an "other" option.  When this option is selected for Prounous or Sexual Orientation, the accompanying text field (3a and 6a in the table below) become required if the user attempts to save.  
