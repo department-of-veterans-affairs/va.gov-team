@@ -36,7 +36,7 @@ The Health Apartment concept lives in between the "Starting Up" and "Taking Care
 
 The purpose of this research was to:
 1. Discover the critical information and actions a veteran needs to manage their health care
-2. Get feedback on the apartment's homepage concept. Specifically, did our "Big Four" boxes adequately address the veterans' needs, was it intuitive, and could they find the information they needed? 
+2. Get feedback on the apartment's homepage concept. Specifically, did our "Big Four" boxes adequately address the veterans' needs, was it intuitive, and could they find the information they needed? (The "Big Four" are the areas currently most prominent on the My HealtheVet website: Appointments, Messages, Pharmacy, and Medical Records.)
 
 
 
