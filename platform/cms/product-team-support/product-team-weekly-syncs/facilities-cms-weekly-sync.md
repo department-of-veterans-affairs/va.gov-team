@@ -25,8 +25,14 @@
 
 ## December 15
 
+### VAMC
+
+VAMC menu defects 
+* [VAMC top level menu links based on nodes should not be output on VAMC menus #7287](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7287)
+* CMS defect 
+
 "Get your records online" VA blue button/Cerner
-* mural
+* [mural](https://app.mural.co/t/vagov6717/m/vagov6717/1639530168395/b114bb336a1db8c0a571272b10a230e1360d2775?sender=kevinwalsh8610)
 
 Massena VA Clinic became Potsdam VA Clinic ([slack thread](https://dsva.slack.com/archives/CT4GZBM8F/p1639510100361300) [#7290](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7290)
 * Redirects are needed
@@ -34,12 +40,10 @@ Massena VA Clinic became Potsdam VA Clinic ([slack thread](https://dsva.slack.co
 * <insert comment about a future in which CMS owns redirects here>
 
 
-
 ### Vet Center
 
 Vet Center analytics request fulfillment/KB article
 - see notes from last week... anything more to discuss?
-
 
 ## December 8
 
