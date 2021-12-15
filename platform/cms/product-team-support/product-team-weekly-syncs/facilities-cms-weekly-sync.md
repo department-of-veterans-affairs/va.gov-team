@@ -25,26 +25,20 @@
 
 ## December 15
 
-Discuss "Get your record online" VA blue button/Cerner
+"Get your records online" VA blue button/Cerner
+* mural
+
+Massena VA Clinic became Potsdam VA Clinic ([slack thread](https://dsva.slack.com/archives/CT4GZBM8F/p1639510100361300) [#7290](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7290)
+* Redirects are needed
+* Once redirects are merged, CMS team will update URLs for the content
+* <insert comment about a future in which CMS owns redirects here>
+
+
 
 ### Vet Center
 
 Vet Center analytics request fulfillment/KB article
-- KB article will need to be created for how to request
-- Should we have a standardized intake process? 
-- Does CMS team get involved for non-OCTODE folks (like VAMCs and Vet Centers)
-- What do folks need per product? Domo? GA? 
-- Do folks want easy-to-use Domo dashboards? or raw data? 
-- Research into what problems are editors trying to solve?
-  - eg provide reports to leadership, based on past expectations
-  - others may be more demanding about digging into data, like District 1
-
-Improved help text to reduce duplicate service content
-- just a quick update, this is in progress, hopefully on prod by the end of the week
-
-District 4 onboarding
-- Deputy directors will get access to all Vet Centers in the district
-
+- see notes from last week... anything more to discuss?
 
 
 ## December 8
