@@ -19,14 +19,14 @@ For this launch, the staged rollout of each toggle will happen consecutively (no
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
 ### Stage A: Canary
 
+#### Planning
+
+- Percentage of users: 5%
 - Length of time: 1 hr
 
 #### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -35,22 +35,10 @@ _The stages and number of users below are provided as example values recommended
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
+- Percentage of users: 
+- Length of time: 
 
 #### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-
-### Stage C: live
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-
-#### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -64,14 +52,12 @@ _The stages and number of users below are provided as example values recommended
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
 ### Stage A: Canary
 
-- Length of time: 1 hr
+- Percentage of users: 5%
+- Length of time: 2 hrs
 
 #### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -80,22 +66,10 @@ _The stages and number of users below are provided as example values recommended
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
+- Percentage of users: 
+- Length of time: 
 
 #### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-
-### Stage C: live
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-
-#### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -109,14 +83,12 @@ _The stages and number of users below are provided as example values recommended
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
 ### Stage A: Canary
 
-- Length of time: 1 hr
+- Percentage of users: 10%
+- Length of time: 
 
 #### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -125,22 +97,10 @@ _The stages and number of users below are provided as example values recommended
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
+- Percentage of users: 
+- Length of time: 
 
 #### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-
-### Stage C: live
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-
-#### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -154,14 +114,12 @@ _The stages and number of users below are provided as example values recommended
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
 ### Stage A: Canary
 
+- Percentage of users: 5%
 - Length of time: 1 hr
 
 #### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -170,25 +128,14 @@ _The stages and number of users below are provided as example values recommended
 
 #### Planning
 
-- Length of time: x (_minimum 1 day_)
+- Percentage of users: 
+- Length of time: 
 
 #### Results:
-- Number of unique users: x
 - Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 
-### Stage C: live
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
 
 ---
 
