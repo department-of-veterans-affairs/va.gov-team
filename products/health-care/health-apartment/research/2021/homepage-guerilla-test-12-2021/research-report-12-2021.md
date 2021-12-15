@@ -83,7 +83,7 @@ We conducted and recorded half-hour moderated remote sessions on Zoom. During th
 
 4. Most (4) participants wanted more resources and definition in the "Non-VA Provider" section
 
-5. All Participants were confused about the disability section
+5. All participants were confused about the disability section
 
 
 
