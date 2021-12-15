@@ -58,6 +58,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 > _"It was good to have all of the classes listed there [on event detail page] and hyperlinked so that I could click through them instead of going back and forth [to event list]" (p4)._
 2. All participants appreciated the **location information** provided in the event list--city and state or "online event".
     1. When asked about what location information should be displayed in the event list, all 8 participants wanted the city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address (3 participants), phone number or email address (2 participants), name of facility or building if applicable (1 participant).
+    2. One pilot participant suggested adding a "get directions" link that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
 3. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button**. One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
 6. **Date entry via dropdowns** in the _Specific date_ and _Custom date range_ options worked well for everyone. When asked what the dropdown options would do, one participant said they expected a calendar to open so they could pick a date, but they didn't mention it later when they selected dates with the dropdowns provided.
 > _"You can search for specific dates and customize it" (p1)._
@@ -88,9 +89,9 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 
 
 5. Seven of 8 participants had **strong negative reactions to finding events with only the date filter** we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. 
-    1. Seven participants instead **wanted to filter by location** (i.e., their state). Two participants wanted an option (i.e., checkbox) to filter online events, too. One participant expected all online events to show for all locations.
-    1. Four participants **wanted to search** (i.e., for "yoga" or "Veteran jobs" or "Memorial Day") 
-    1. Three participants **wanted to filter by type of event** (i.e., career, health/exercise, social, Veteran _vs._ Caregiver)
+    1. Seven participants instead **wanted to filter by location** (i.e., their state). Two participants wanted an option (i.e., checkbox) to filter online events, too. One participant expected all online events to show for all locations. One pilot participant wanted to see events "near me", from their current location or their home address (if logged in).
+    1. Four participants **wanted to search** (i.e., for "yoga" or "Veteran jobs" or "Memorial Day").
+    1. Three participants **wanted to filter by type of event** (i.e., career, health/exercise, social, Veteran _vs._ Caregiver).
     
 > _"I wouldn’t filter by date because I don’t know when it is" (p10)._
 
@@ -98,13 +99,13 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 
 
 6. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants ignored it or understood it. One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation. Everyone was able to enter dates correctly without difficulty.
-5. On event detail pages, the **navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information**.
+5. On event detail pages, the **navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information**. This was pointed out by one of our pilot participants.
 6. There were several **confusions with terminology** used in the interface, each of which was mentioned by only one participant:
     1. The **Outreach** heading--it sounds like charity (i.e., handing out food, clothes to those who need them)
     1. Didn't recognize **G.I.** in the event list because they were looking for the most commonly used word "Veteran" instead
     2. Didn't think to look for **career** when looking for an event about jobs
 8. To find VA events, 2 participants said they would **use Google instead of this Outreach Events page** on VA.gov.
-9. One pilot participant expected that all event times would **show in their own time zone**, which would be more intuitive.
+9. One pilot participant expected that all event times would **show in their own time zone**, which would be more intuitive for them than seeing event times in all different time zones.
 
 
 ### Feedback for other teams
@@ -131,9 +132,9 @@ Some of the recommendations below have been discussed with the Public Websites t
 
 ## For future iterations
 5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event").
-6. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events.
-7. Consider **making the event list more delightful to browse** by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
-8. Consider including a location filter to **see events "near me"**, per the user's home address (if they're logged in) or current location (via smartphone).
+6. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events. 
+    1. Consider adding the ability to **see events "near me"**, per the user's home address (if they're logged in) or current location (via smartphone).
+8. Consider **making the event list more delightful to browse** by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
 9. Consider including a **"get directions" link** on event detail pages that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
 10. Consider **displaying all event times in the user's time zone**.
 
