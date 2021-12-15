@@ -137,10 +137,10 @@ July 16, 1957
 **Preferred name** <br>
 Edit your profile to add a preferred name <br> 
 {Edit button}
-- _Notes 
-   - When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required.
-   - If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required.
-   - If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward.
+- _Dev Notes_
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 ---
 
@@ -148,7 +148,7 @@ Edit your profile to add a preferred name <br>
 **Pronouns** <br>
 Edit your profile to add a pronoun <br> 
 {Edit button}
-- _Dev Notes _
+- _Dev Notes_
    - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
    - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
    - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
@@ -207,7 +207,7 @@ The Edit state is structured the same as the read-only state, except that the fi
 | 4         | Sex assigned at birth                                                             | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
 | 5         | Gender identity                                                                   | Radio buttons               | Pre-filled           | Char                  | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here"                                         |                                                                      |
 | 6         | Sexual orientation                                                                | Radio buttons               | Pre-filled           | Char                  | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here"   |                                          |
-| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
+| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 255                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
 
 
 ## Edit State - Required _Other_ Fields (Error State)
@@ -225,13 +225,13 @@ The error state displayed on the "other" text fields only occurs if the user sel
 | Field     | Label                                                                             | Form Control                | Max Length           | Data Type             | Pre-Populated Options                                                                                                                                                            | Comments                                                                                                                                                                                             |
 |-----------|-----------------------------------------------------------------------------------|-----------------------------|----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | 1         | Date of Birth                                                                     | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; no change   
-| 2         | Preferred name                                                                    | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | 25 char limited to be confirmed by MPI
+| 2         | Preferred name                                                                    | Text input                  | 100                   | Char                  | N/A                                                                                                                                                                              | 25 char limited to be confirmed by MPI
 | 3         | Pronouns                                                                          | Checkboxes                  | Pre-filled           | Char                  | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Prefer not to answer"<br>"Pronouns not listed here"                     |                                             |
-| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
+| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 255                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
 | 4         | Sex assigned at birth                                                             | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
 | 5         | Gender identity                                                                   | Radio buttons               | Pre-filled           | Char                  | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here"                                         |                                                                      |
 | 6         | Sexual orientation                                                                | Radio buttons               | Pre-filled           | Char                  | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here"   |                                          |
-| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
+| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 255                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
 
 
 ## Related GitHub Tickets
@@ -243,6 +243,6 @@ The error state displayed on the "other" text fields only occurs if the user sel
 
 
 ## Related Slack Threads
-- [12/15/2021 Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1639587317423200) advising that an email exchange from MPI clarifies that Preferred Name is required if a value previously exists, length of open text fields and the fact that there is no support for an open text entry option for Gender Identity.
+- [12/15/2021 Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1639587317423200) advising that an email exchange from MPI clarifies that Preferred Name is required if a value previously exists, max length of open text fields and the fact that there is no support for an open text entry option for Gender Identity.
 
 
