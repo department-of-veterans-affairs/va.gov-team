@@ -186,6 +186,7 @@ In an effort to standardize Claims & Appeals team estimates the below can act as
 
 
 Reminder: Story points are unitless cales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability going forward. 
+Reminder: Use appropriate tags (frontend, backend, research, design, discovery, documentation, etc.), epics, and milestones/sprint
 
 ---
 
