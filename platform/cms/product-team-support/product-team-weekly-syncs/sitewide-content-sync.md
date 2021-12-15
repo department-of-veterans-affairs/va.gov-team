@@ -11,7 +11,7 @@
 <details><summary>Parking lot</summary>
  </details>
 
-**## December 14, 2021**
+**## December 14, 2021
 ## Priorities for VA team
 - Establish baseline metrics (Danielle)
 - **Hubs** -- How are the hubs performing? How we are going to base success? I’ve been looking at Hubs: digging into funnels, paths, etc. Ongoing comprehension testing.Structured content: talking about chatbot where content is scraped from Drupal. Don’t want to have to rewrite content.
