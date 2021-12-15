@@ -15,7 +15,6 @@ Last updated November 22, 2021
 |Heather Justice|Product Manager| heather.justice@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Taylor Mitchell| FE Engineer| tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
