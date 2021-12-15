@@ -176,7 +176,11 @@ Resume project!!
 ## Sprint 64 (12/29 - 1/11)
 [Sprint 64 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30269)
 
+### Payment information
 
+**Design**
+
+- Frontend design documentation
 
 ## Sprint 65 (1/12 - 1/25)
 [Sprint 65 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30270)
