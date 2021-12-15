@@ -23,8 +23,8 @@
 ...Suzanne: are you measuring good content? Beth: no but use the checklist. Next step is to quantify the quality of the product (used internally by content team).We haven’t used these lists with the Vet Centers.
 - **Templates** 
 ...Beth: we were guinea pigs for CMS and ran into constraints like character counts so we have experience of creating articles using the templates. Tried to use multiple FAQ but there were character count. Would there be a review process to help author use correct template? Learn the challenges faced by new authors.
-Governance - doing a pilot with VHA to start working through what a planning group would look like
-...Kevin: need to figure out governance structure
+- **Governance** - doing a pilot with VHA to start working through what a planning group would look like (Beth)
+...Kevin: we do need to figure out governance structure
 - **Translation:** new law passed. Danielle represents this team.
 - **Training for authors**
 ...Community of practice for authors (MFA style model): to get ready for Resources
