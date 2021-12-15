@@ -53,6 +53,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
+- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
 ## Second Task: [TASK NAME] - X minutes
