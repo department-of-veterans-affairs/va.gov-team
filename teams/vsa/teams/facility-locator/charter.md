@@ -38,21 +38,22 @@ Provide a single, consolidated place across VA where a veteran can easily find h
    - Michelle Middaugh (September 2019 - present) 
 - VA UI Design Lead: Ryan Thurlwell
 - UX/Design
-  - Leyda Hughes (June 2020 - present)
   - Nick Osmanski (April 2021 - present)
+  - Dave Sukharan (November 2021 to present)
 - Back End Engineer
    - Lance Sanchez (October 2019-present)
 - Front End Engineer
-  - Michael Pelz-Sherman (June 2020- present)
-  - Gilbran Rodriguez (October 2019 - present)
-  - Gaida Escobar (May 2021 - present)
+  - Napoleon Kersnessant (December 2021 - present)
 
 ### Past
 - UX/Design
   - Chris Logan (October 2020 - February 2021)
   - Aricka Lewis (September 2019 - June 2020) 
+  - Leyda Hughes (June 2020 - November 2021)
 - Front End Engineer
   - Gilbran Rodriguez (October 2019 - July 2021)
+  - Michael Pelz-Sherman (June 2020- November 2021)
+  - Gaida Escobar (May 2021 - December 2021)
 
 ## Workflow + Cadence
 
