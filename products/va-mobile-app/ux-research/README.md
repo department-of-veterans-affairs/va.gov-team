@@ -14,6 +14,8 @@ The goals of our UX research January 2021 and forward have been:
 | **April-May 2021** |  User Acceptance Testing | Find issues and bugs in live code app with users signed in with their own credentials | [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)|
 | **Summer 2021** |  Usability Testing | Test usability of the app with users who are blind or low vision | In progress soon |
 | **November 2021** |  IA Research | Understand how Veterans categorize features and items| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat)|
+| **December 2021** |  Rx Refill Research | Understand how Veterans interact with the Rx Refill app| [Findings summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/rx-refill-app)|
+
 
 
 # UX Research: March-December 2020
