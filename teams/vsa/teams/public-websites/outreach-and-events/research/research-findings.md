@@ -67,7 +67,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 1. All participants understood the concept of **recurring events** in the prototype. One participant specifically called out how much they liked seeing all the occurrences on the event detail page.
 > _"It was good to have all of the classes listed there [on event detail page] and hyperlinked so that I could click through them instead of going back and forth [to event list]" (p4)._
 2. All participants appreciated the **location information** provided in the event list--city and state or "online event".
-    1. When asked about what location information should be displayed in the event list, all 8 participants wanted the city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address (3 participants), phone number or email address (2 participants), name of facility or building if applicable (1 participant).
+    1. When asked about what location information should be displayed in the event list, all 8 participants said they wanted city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address (3 participants), phone number or email address (2 participants), name of facility or building if applicable (1 participant).
     2. One pilot participant suggested adding a "get directions" link that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
 3. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button**. One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
 6. **Date entry via dropdowns** in the _Specific date_ and _Custom date range_ options worked well for everyone. When asked what the dropdown options would do, one participant said they expected a calendar to open so they could pick a date, but they didn't mention it later when they selected dates with the dropdowns provided.
@@ -81,21 +81,20 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options. 6 people understood the options as is, but 2 people found them confusing because they didn't include the current week/month, which isn't standard usage. Some people tried using the _Custom date range_ option to specify exactly the timeframe they wanted, but the prototype with its limited functionality didn't support that use case.
     1. One participant didn't use the date filter at all because they thought it didn't work. They just scrolled through the _All upcoming_ event list to complete all tasks. 
     4. There were 3 other participants who left the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
-    2. Everyone who opened the date filter dropdown readily understood the _Specific date_ and _Custom date range_ options and had use cases for each:
-        1. Specific date: 
-        - Find an event on Halloween
-        - Find a Veterans Day event
-        - See what's going on in Washington when I'll be there on January 5
-        - What's happening next Wednesday on my day off?
-        - Schedule something else on the day of an existing appointment
-        - I heard about an event happening tomorrow
-        - Wednesday the 12th is open on my calendar
-        1. Custom date range: 
-        - Find an event on Memorial Day, but I'm not sure what date that is, so try May 22-30
-        - Take a course between Mar 1 and Apr 30
-        - look for a class on resume building before I start a new job search
-        - I'm going to be in Washington on some dates. Is there a blood drive going on while I'm there?
-        - Find events during my vacation time during the week of Christmas
+    2. Everyone who opened the date filter dropdown readily understood the _Specific date_ and _Custom date range_ options and shared use cases for each:
+        1. _Specific date:_
+            1. Find an event on Halloween
+            1. Find a Veterans Day event
+            1. See what's going on in Washington when I'll be there on January 5
+            1. What's happening next Wednesday on my day off?
+            1. Schedule something else on the day of an existing appointment
+            1. I heard about an event happening tomorrow
+            1. Wednesday the 12th is open on my calendar
+        1. _Custom date range:_
+            1. Find an event on Memorial Day, but I'm not sure what date that is, so try May 22-30
+            1. Take a course between Mar 1 and Apr 30
+            1. I'm going to be in Washington for a trip. Is there a blood drive going on while I'm there?
+            1. Find events during my vacation time on the week of Christmas
     6. Two participants forgot about _Custom date range_ and tried to use _Specific date_ to enter a date range but found it didn't work. Then they found _Custom date range_ and used that instead--one participant figured this out on their own, and the other first needed a hint from the moderator.
     7. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
 > _"No one cares about past events" (p2)._
@@ -104,31 +103,27 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     2. Two others weren't sure which occurrence they were registering for but guessed correctly that it was the one at the top of the page.
     3. Two participants expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend. They both expected the _Register_ button to open a list of all occurrences, and they could check the ones they wanted to register for.
 
-3. Most participants had **little patience for scrolling through a flat list of events**. 
+3. Most participants had **little patience for scrolling through a flat list of events**. Two participants said that the event list was not welcoming because it's **too plain and boring-looking** with bland colors. Two participants said that it was too much undifferentiated white on the events list, and one of them suggested making it easier to read by shading alternate events in the list (like the default table formatting in Powerpoint).
 
 > _"Too much of everything with random events--like a classified section" (p2)._
     
-4. Two participants said that the event list was not welcoming because it's **too plain and boring-looking** with bland colors. Two participants said that it was too much undifferentiated white on the events list, and one of them suggested making it easier to read by shading alternate events in the list (like the default table formatting in Powerpoint).
-
 > _"Just black and white...scroll scroll scroll. Kind of like all other pages. There's nothing that draws your attention to it. Just blue, black, white...page after page after page of just words and information...it just gets boring" (p1)._
 
+> _"I wouldn't have a clue on this site how to look that up. I would probably end up looking under 1, 2, 3, and Next. You'd probably end up having to go through every cotton-pickin' one and press page 2, look, look, page 3, look, look because there's no way to break it down. You'd have to look at every single page and read every one to see if you could find it" (p1)._
 
-5. Seven of 8 participants had **strong negative reactions to finding events with only the date filter** we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. 
+4. Seven of 8 participants had **strong negative reactions to finding events with only the date filter** we provided, which is not how they wanted to look for events, particularly when they didn't know when specific events might be. They didn't want to scan down multiple pages of events in the default _All upcoming_ date filter. 
     1. Seven participants instead **wanted to filter by location** (i.e., their state). Two participants wanted an option (i.e., checkbox) to filter online events, too. One participant expected all online events to show for all locations. One pilot participant wanted to see events "near me", from their current location or their home address (if logged in).
     1. Four participants **wanted to search** (i.e., for "yoga" or "Veteran jobs" or "Memorial Day").
     1. Three participants **wanted to filter by type of event** (i.e., career, health/exercise, social, Veteran _vs._ Caregiver).
     
 > _"I wouldn’t filter by date because I don’t know when it is" (p10)._
 
-> _"I wouldn't have a clue on this site how to look that up. I would probably end up looking under 1, 2, 3, and Next. You'd probably end up having to go through every cotton-pickin' one and press page 2, look, look, page 3, look, look because there's no way to break it down. You'd have to look at every single page and read every one to see if you could find it" (p1)._
-
-
 6. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants ignored it or understood it. One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation. Everyone was able to enter dates correctly without difficulty.
 5. On event detail pages, the **navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information**. This was pointed out by one of our pilot participants.
 6. There were several **confusions with terminology** used in the interface, each of which was mentioned by only one participant:
-    1. The **Outreach** heading--it sounds like charity (i.e., handing out food, clothes to those who need them)
-    1. Didn't recognize **G.I.** in the event list because they were looking for the most commonly used word "Veteran" instead
-    2. Didn't think to look for **career** when looking for an event about jobs
+    1. The **Outreach** heading sounds like charity (i.e., handing out food, clothes to those who need them).
+    1. Didn't recognize **G.I.** in the event list because they were looking for the most commonly used word "Veteran" instead.
+    2. Didn't think to look for **career** when looking for an event about jobs.
 8. To find VA events, 2 participants said they would **use Google instead of this Outreach Events page** on VA.gov. Other responses were VA.gov (3 people), Facebook (2 people), and email from the VA, MyHealtheVet, or another organization (2 people).
 9. One pilot participant expected that all event times would **show in their own time zone**, which would be more intuitive for them than seeing event times in all different time zones.
 
