@@ -86,10 +86,6 @@ Last updated 2021-12-16
 
 This is no longer being tracked due to [VSP findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31472#issuecomment-995863655) a deceases users should not be able to login
 
-- **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
-  doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+228@gmail.com` (Ralph)
-
 [mcp-product-outline]:
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md
 [designs]:
