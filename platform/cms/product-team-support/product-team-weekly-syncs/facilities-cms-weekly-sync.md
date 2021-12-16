@@ -23,12 +23,10 @@
 
 </details>
 
-## December 15
+## December 22
 
-### VAMC
+Vet Center operating status
 
-VAMC menu
-* [VAMC top level menu links based on nodes should not be output on VAMC menus #7287](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7287)
 * Menu depth constraints?
   * [Slack thread with Mikki](https://dsva.slack.com/archives/C0FQSS30V/p1638913938489900)
   * View of data at level 4, 5, and 6
@@ -38,22 +36,57 @@ VAMC menu
   * 107 are at menu depth 5, visible in the menu (example) unless their menu item has been disabled via request fulfillment (example)
   * 4 are at menu items at menu depth 6, not visible in the menu (example).
 
+## December 15
+
+### VAMC
+
+Massena VA Clinic became Potsdam VA Clinic ([slack thread](https://dsva.slack.com/archives/CT4GZBM8F/p1639510100361300) [#7290](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7290)
+* <insert comment about a future in which CMS owns redirects here>
+* URL and other content changes are needed. 
+* We want to keep the time between redirect launching and content changes as low as possible.
+* Updates to runbook (need approval/clarification from Mikki and Kelson)
+  * CMS puts in redirect request
+  * CMS cc's facilities team, Mikki, but assigns to PW
+Next steps
+  * CMS to clarify with Kelson how to handle timing of content changes.
+  * CMS to clarify this process with Mikki and update internal runbook accordingly.
+  * No SLA, no timeline for making these changes. Let's aim for single sprint. 
+* Once redirects are merged, CMS team will update URLs for the content.
+* For Massena, CMS will create redirect request and assign to Mikki, but follow that with the process improvement/runbook ideas
+* Jane to followup with Potsdam folks: “We’re working on getting this resolved and we’ll follow-up when the changes are completed."
 
 "Get your records online" VA blue button/Cerner
 * [mural](https://app.mural.co/t/vagov6717/m/vagov6717/1639530168395/b114bb336a1db8c0a571272b10a230e1360d2775?sender=kevinwalsh8610)
-
-Massena VA Clinic became Potsdam VA Clinic ([slack thread](https://dsva.slack.com/archives/CT4GZBM8F/p1639510100361300) [#7290](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7290)
-* Redirects are needed
-* Once redirects are merged, CMS team will update URLs for the content
-* <insert comment about a future in which CMS owns redirects here>
+* CMS work for Sprint 49
+* FE work for January
 
 Top task update
-	
+* Lovell edge case (tabled)
+* FE for nonclincial services
+* CMS editorial experience work in progress
+* VISN 19 content 
+  * 15 top tasks built, with associated nonclinical services, for 5 VAMC systems
+* FE code review for Ryan and Aman's PR?  
+  * TBD, Facilities will get back to CMS.
 
+Operating status
+* Lovell 
+  * Lovell's asp files are not working (John Edwards), not scraping the facility status properly. 
+  * Steve mentioned this to John 6 weeks ago
+	* Steve will write again and keep Michelle in the loop.
+  * We have no timeline on cutover for Lovell so can't instruct them to update status in two places as of yet. 
+
+Repeating events change management
+* This Friday's CMS demo will provide a timeline, but this depends somewhat on PW, which has "staging" review (on Tugboat?) 2nd week of January. 
+
+VAMC menu
+* [VAMC top level menu links based on nodes should not be output on VAMC menus #7287](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7287)
+  * 
+	
 ### Vet Center
 
-Vet Center analytics request fulfillment/KB article
-- see notes from last week... anything more to discuss?
+District 4 rollouts in progress
+
 
 ## December 8
 
