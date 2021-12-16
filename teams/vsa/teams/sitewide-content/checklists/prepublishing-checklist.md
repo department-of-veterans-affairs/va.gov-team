@@ -1,14 +1,14 @@
-**Before publishing any page on VA.gov confirm the following:**</br>
-- [ ] All links work and point to the intended page
-- [ ] Phone numbers are in [aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
-- [ ] Heirarchy of headings is correct (H1 to H2 to H3--levels shouldn't be skipped)
-- [ ] We use Node IDs to create links within Drupal instead of pasting the URL
-- [ ] We aren't using sighted language ("view," "see," "look"). These should be replaced with a word that's inclusive of our screen reader users ("check," "go to")
+**Before publishing any page on VA.gov complete these tasks:**</br>
+- [ ] Check all links to confirm they work and point to the intended page
+- [ ] Confirm all phone numbers are in [aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
+- [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3--levels shouldn't be skipped)
+- [ ] Check that we used Node IDs to create links within Drupal instead of pasting the URL
+- [ ] Replace any sighted language ("view," "see," "look") with a word that's inclusive of our screen reader users ("check," "go to," "review")
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correctly (if the page is a child page, the section needs to be the same as the parent page in order for the left nav to show)
-- [ ] All apostrophes and quotation marks are curly not straight
-- [ ] There are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made previous edits that the page is ready to publish
+- [ ] Make sure all apostrophes and quotation marks are curly not straight
+- [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish
 
-**Before publishing a Resources and Support article, make sure to also complete these steps:**</br>
+**Before publishing a Resources and Support article, make sure to also complete these tasks:**</br>
 - [ ] Confirm H2s, H3s, and H4s are within the 70-character limit
 - [ ] Confirm related links have been added to the file and make sense for the topic of the page (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing) 
 - [ ] Determine if this new article should be added as a related link on any live articles 
