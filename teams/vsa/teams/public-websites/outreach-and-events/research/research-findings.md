@@ -128,11 +128,11 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 > _"I wouldn’t filter by date because I don’t know when it is" (p10)._
 
 5. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants ignored it or understood it. One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation. Everyone was able to enter dates correctly without difficulty.
-5. On event detail pages, the **navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information**. This was pointed out by one of our pilot participants.
+5. On event detail pages, the **navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information** and so is difficult to see. This was pointed out by one of our pilot participants.
 6. There were several **confusions with terminology** used in the interface, each of which was mentioned by only one participant:
     1. The **Outreach** heading sounds like charity (i.e., handing out food, clothes to those who need them).
-    1. Didn't recognize **G.I.** in the event list because they were looking for the most commonly used word "Veteran" instead.
-    2. Didn't think to look for **career** when looking for an event about jobs.
+    1. Didn't recognize **G.I.** in the event list because they were looking for the more commonly used word "Veteran" instead.
+    2. Didn't think to scan for **career** when looking for an event about jobs.
 8. To find VA events, 2 participants said they would **use Google instead of this Outreach Events page** on VA.gov. Other responses were VA.gov (3 people), Facebook (2 people), and email from the VA, MyHealtheVet, or another organization (2 people).
 9. One pilot participant expected that all event times would **show in their own time zone**, which would be more intuitive for them than seeing event times in all different time zones.
 
@@ -140,28 +140,29 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 ## Feedback for other teams
 
 1. Two participants said that the **descriptions of events on the event detail page read like ads but were missing important logistical details** needed to help decide whether to register. Examples:
-    1. For yoga: What type of yoga? What props do I need?
+    1. For the yoga event: What type of yoga? What props do I need?
     2. For the career event: Where do you create your profile and what information is needed to do that? What companies will be there? What type of jobs are these companies looking to fill? Where are these jobs located? Should you show up with your resume, or will the event help you put one together? 
     3. How many people are expected to be there, especially if it's a support group? One participant, who's a caregiver for her Veteran husband, said that it makes a big difference for him with his PTSD. Similarly, people with anxiety might want to know how many people to expect and decide whether to attend based on this information.
 1. **Some events in the event list didn't have a description**, or what was there duplicated the event title or was too vague to understand anything about the event ("Presented by American Red Cross"). 
-2. One participant was concerned about the ease of coming back to register for additional occurrences of a given event and **hoped that their information would be saved so they wouldn't have to enter it in every time**. Can we save the information entered previously? Or can we pre-populate the user's contact information if they're currently logged into VA.gov?
-3. One participant said they didn't like the **American flag shown in the top left corner** next to "An official website of the United States government" because it's not accurate with the stars not lined up the way they are in the real American flag. [Show picture of each to compare]
+2. One participant was concerned about the ease of coming back to register for additional occurrences of a given event and **hoped that their information would be saved so they wouldn't have to enter it every time**. Can we save the information entered previously? Or can we pre-populate the user's contact information if they're currently logged into VA.gov?
+3. One participant said they didn't like the **American flag shown in the top left corner** next to "An official website of the United States government" because it's not accurate with the stars not lined up the way they are in the real American flag.
 
 # Recommendations
-The recommendations for MVP have been discussed with the Public Websites team, and decisions made are documented in CAPS.
+The recommendations for MVP have been discussed with the Public Websites team, and the decisions made are documented in CAPS.
 ## For MVP (near term)
 1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead. (DO THIS)
 3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed. (DO THIS)
-4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to see as navigation rather than part of the event description. (TRY TO DO THIS)
+4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to recognize as navigation rather than part of the event description. (TRY TO DO THIS)
 1. Content editors should be encouraged to **include more information about each event**, including the following:
     1. For the event list, include a meaningful short description that is a concise descriptive overview of the event. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
-    1. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event or do at during the event, and rough estimate of how many people might be there. 
+    1. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event or do at during the event, and a rough estimate of how many people might be there. 
     1. For the event detail page, if applicable, consider providing the name of the building or facility (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
     1. (ADVISE CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING)
 
 ## For future iterations
 5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event").
 6. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events. 
+    1. In location filtering, show the option of whether to include online/virtual events.
     1. Consider adding the ability to **see events "near me"**, per the user's home address (if they're logged in) or current location (via smartphone).
 8. Consider **making the event list more delightful to browse** by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
 9. Consider including a **"get directions" link** on event detail pages that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
@@ -174,7 +175,7 @@ With the above recommendations, support the ongoing MVP implementation effort as
 
 # Further research needed
 
-We would like to test these design features with participants who use screen readers, which will have to wait until we can build a "working prototype" on the  Staging server or launch to Production. 
+We would like to test these design features with participants who use screen readers, which will have to wait until we have a "working prototype" on the Staging server or have launched to Production. 
 
 # Appendix
 
