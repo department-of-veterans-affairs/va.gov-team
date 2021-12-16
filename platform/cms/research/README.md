@@ -2,7 +2,7 @@ This lists all formal research with CMS users. Feature-specific research should 
 
 #### November 2021: Vet Center dashboard usability study 
 
-_VA.gov CMS Product Support team: Erika Washburn, Suzanne Gray
+_VA.gov CMS Product Support team: Erika Washburn, Suzanne Gray_
 
 * 5 participants
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/vet-center/Vet%20Center%20Dashboard%20Usability%20Study%20Read%20Out.pptx)
