@@ -70,11 +70,11 @@
 * one
 * two  
 
+## Staff facing dependencies
+
 ## Engineering questions that must be answered
 
 ## Engineering outcomes and proposed plan for implementation
-
-## Staff facing dependencies
 
 ## Existing Applications and APIs
 ### Vets-API
