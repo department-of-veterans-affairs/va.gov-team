@@ -48,12 +48,13 @@ We talked to **7 Veterans and 1 Caregiver** and asked them each to interact with
 None of them had ever seen the Outreach Events page on VA.gov before, and only 4 had ever attended a VA event. Of those 4, one signed up in person at the VA, one was signed up by their therapist, one signed up through Facebook, and one doesn't remember because it was years ago.
 
 # Hypotheses and Conclusions
-1. Veterans will understand how to use date filters to find events they are interested in
-1. Filtering events by date will enable Veterans to find events that fit in their schedules
-1. Seeing which events are recurring will enable Veterans to register for all events they're interested in
+1. Veterans will understand how to use date filters to find events they are interested in.
+    1. MOSTLY TRUE: Participants understood how to the use the date filters, though there was some confusion about the meaning of the _Next week_ and _Next month_ options.
+1. Filtering events by date will enable Veterans to find events that fit in their schedules.
+    1. MAYBE TRUE: Participants were comfortable using the date filter, but that's not how they wanted to look for events, especially when they didn't know when specific events might be. They preferred to filter first by location, type of event, and/or keyword (search).
+3. Seeing which events are recurring will enable Veterans to register for all events they're interested in.
+    1. PARTLY TRUE: Participants found the button to register, but there was some confusion about _which one_ of the occurrences they were registering for. Two participants expected to register for multiple occurrences at the same time by checking off which one(s) they wanted, which wasn't supported by the prototype.
 
-1. 
-    1. TRUE: 
 
 # Key Findings
 
@@ -99,7 +100,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     7. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
 > _"No one cares about past events" (p2)._
 2. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. 
-    1. Half of the participants understood they were registering for only one event. 
+    1. Half of the participants understood they were registering for only one occurrence. 
     2. Two others weren't sure which occurrence they were registering for but guessed correctly that it was the one at the top of the page.
     3. Two participants expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend. They both expected the _Register_ button to open a list of all occurrences, and they could check the ones they wanted to register for.
 
@@ -188,59 +189,62 @@ xxx
 
 ### Prototype in UXPin
 
-[Mobile](xxx)
+[Mobile prototype](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555/simulate/no-panels?mode=cvhidmf)
 
 
 # Who we talked to 
-We talked to ** participants.**
+We talked to **8 participants.**
 
 Audience segment:
-* Veterans:  
+* Veterans:   7
+* Caregivers: 1
 
 Gender:
-* Male:  
-* Female:  
+* Male:   3
+* Female: 5
 
 Devices used during study: 
-* Desktop:  
-* Tablet: 
+* Mobile phone: 8
 
 Age:
-* 18-24: 
-* 25-34: 
-* 35-44: 
-* 45-54: 
-* 55-64: 
-* 65-74: 
+* 18-24: 0
+* 25-34: 1
+* 35-44: 2
+* 45-54: 2
+* 55-64: 1
+* 65-74: 1
+* Unknown: 1
 
 Education:
-* High school degree or equivalent: 
-* Some college (no degree): 
-* Associate's degree, trade certificate, or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
+* High school degree or equivalent: 2
+* Some college (no degree): 1
+* Associate's degree, trade certificate, or vocational training: 1
+* Bachelor's degree: 1
+* Master's degree: 1
+* Unknown: 2
 
 Geographic location:
-* Urban: 
-* Rural: 
+* Urban: 5
+* Rural: 3
 
 Race:
-* White: 
-* Black: 0
+* White: 4
+* Black: 3
 * Hispanic: 0
 * Biracial: 0 
 * Asian: 0
 * Native: 0
+* Unknown: 1
 
 Disability and Assistive Technology:
-* Cognitive disability: 
+* Cognitive disability: 2
 * Screen reader: 0
 
 
 ## Underserved groups we haven’t talked to 
 
 This research may not include the perspectives of the following underserved Veteran groups:
-* Identify as Black, Hispanic, Biracial, Asian, Native, or LGBTQ+
+* Identify as Hispanic, Biracial, Asian, Native, or LGBTQ+
 * Other than honorable discharge
 * Immigrant origin
 * Expat (living abroad)
