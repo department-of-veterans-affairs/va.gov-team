@@ -31,17 +31,26 @@ The purpose of this research was to get user feedback on the following **2 new d
 2. Viewing recurring events together 
 
 # Research Questions
-1. 
+1. How intuitive is our design for filtering by date range? 
+    1. What do Veterans think about the options for date range? 
+    2. What do Veterans think about filtering by a specific date and a date range?
+3. How intuitive is our design for recurring events? Do Veterans understand that the event is repeating?
+    1. Are Veterans able to register for individual events in the series of recurring events?
+4. How do Veterans expect to look for VA events?
+5. What kind of location information for events do Veterans want to see in the list of events? (e.g., virtual/in-person, city, address)
+    1. For in-person events, what specific information is expected? (i.e., is "city" enough information, or also want street address?)
 
 # Methodology 
+We conducted hour-long remote moderated research sessions via Zoom on **December 1-6, 2021**. Research participants were asked about their experiences with VA events, and then they were given tasks to do using a mobile design prototype in UXPin. 
 
-We conducted hour-long remote moderated research sessions via Zoom on **December 1-6, 2021**. 
-
-We talked to **7 Veterans and 1 Caregiver** and asked them each to interact with a mobile prototype on their smartphone. 
+We talked to **7 Veterans and 1 Caregiver** and asked them each to interact with the mobile prototype on their smartphone. 
 
 None of them had ever seen the Outreach Events page on VA.gov before, and only 4 had ever attended a VA event. Of those 4, one signed up in person at the VA, one was signed up by their therapist, one signed up through Facebook, and one doesn't remember because it was years ago.
 
 # Hypotheses and Conclusions
+1. Veterans will understand how to use date filters to find events they are interested in
+1. Filtering events by date will enable Veterans to find events that fit in their schedules
+1. Seeing which events are recurring will enable Veterans to register for all events they're interested in
 
 1. 
     1. TRUE: 
@@ -70,9 +79,24 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 ### Usability Issues
 1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options. 6 people understood the options as is, but 2 people found them confusing because they didn't include the current week/month, which isn't standard usage. Some people tried using the _Custom date range_ option to specify exactly the timeframe they wanted, but the prototype with its limited functionality didn't support that use case.
     1. One participant didn't use the date filter at all because they thought it didn't work. They just scrolled through the _All upcoming_ event list to complete all tasks. 
-    2. There were 3 other participants who left the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
-    3. Two participants forgot about _Custom date range_ and tried to use _Specific date_ to enter a date range but found it didn't work. Then they found _Custom date range_ and used that instead--one participant figured this out on their own, and the other first needed a hint from the moderator.
-    4. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
+    4. There were 3 other participants who left the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
+    2. Everyone who opened the date filter dropdown readily understood the _Specific date_ and _Custom date range_ options and had use cases for each:
+        1. Specific date: 
+        - Find an event on Halloween
+        - Find a Veterans Day event
+        - See what's going on in Washington when I'll be there on January 5
+        - What's happening next Wednesday on my day off?
+        - Schedule something else on the day of an existing appointment
+        - I heard about an event happening tomorrow
+        - Wednesday the 12th is open on my calendar
+        1. Custom date range: 
+        - Find an event on Memorial Day, but I'm not sure what date that is, so try May 22-30
+        - Take a course between Mar 1 and Apr 30
+        - look for a class on resume building before I start a new job search
+        - I'm going to be in Washington on some dates. Is there a blood drive going on while I'm there?
+        - Find events during my vacation time during the week of Christmas
+    6. Two participants forgot about _Custom date range_ and tried to use _Specific date_ to enter a date range but found it didn't work. Then they found _Custom date range_ and used that instead--one participant figured this out on their own, and the other first needed a hint from the moderator.
+    7. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
 > _"No one cares about past events" (p2)._
 2. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. 
     1. Half of the participants understood they were registering for only one event. 
@@ -104,7 +128,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     1. The **Outreach** heading--it sounds like charity (i.e., handing out food, clothes to those who need them)
     1. Didn't recognize **G.I.** in the event list because they were looking for the most commonly used word "Veteran" instead
     2. Didn't think to look for **career** when looking for an event about jobs
-8. To find VA events, 2 participants said they would **use Google instead of this Outreach Events page** on VA.gov.
+8. To find VA events, 2 participants said they would **use Google instead of this Outreach Events page** on VA.gov. Other responses were VA.gov (3 people), Facebook (2 people), and email from the VA, MyHealtheVet, or another organization (2 people).
 9. One pilot participant expected that all event times would **show in their own time zone**, which would be more intuitive for them than seeing event times in all different time zones.
 
 
