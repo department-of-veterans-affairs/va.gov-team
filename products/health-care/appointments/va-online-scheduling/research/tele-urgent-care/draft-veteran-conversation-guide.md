@@ -10,7 +10,7 @@ _When the participant is ready, begin the session with the following intro_
 
 ### **Intro - 5 minutes**
 
-Thank you for joining us today! My name is Pam, and I also have my colleague Bryan on the line taking notes. We are here today to talk about VA Tele-Urgent Care. I am going to ask you a series of questions to help my team understand how to make the telehealth process easier for Veterans.
+Thank you for joining us today! My name is _, and I also have my colleague _ on the line taking notes. We are here today to talk about VA Tele-Urgent Care. I am going to ask you a series of questions to help my team understand how to make the telehealth process easier for Veterans.
 
 Before we start, there are a few things I'd like to mention:
 
