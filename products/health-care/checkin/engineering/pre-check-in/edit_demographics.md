@@ -6,7 +6,7 @@
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## End goals:
-### User story 1
+### User story 1 - Happy Path
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
 **I want** the ability to securely edit and save my demographics information to the va systems during my **Pre-checkin** work flow  
@@ -19,8 +19,8 @@
 **And** I have clicked on the shortened URL  
 **And** I have been successfully redirected to Pre-checkin starting page on the va.gov site  
 
-**Scenario:** _User has **NOT** fully authenticated with their va.gov credentials prior to clicking on the URL_  
-**Given** I have **not fully authenticated** prior using my va.gov credentials  
+**Scenario:** _User has NOT fully authenticated with their va.gov credentials prior to clicking on the URL_  
+**Given** I have _not fully authenticated_ prior using my va.gov credentials  
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
@@ -32,8 +32,8 @@
 **Then** I can see that my changes have been validated  
 **And** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
-**Scenario:** _User **HAS** fully authenticated with their va.gov credentials prior to clicking on the URL_  
-**Given** I have **fully authenticated** prior using my va.gov credentials  
+**Scenario:** _User HAS fully authenticated with their va.gov credentials prior to clicking on the URL_  
+**Given** I have _fully authenticated_ prior using my va.gov credentials  
 **Then** my minimal authentication was automatically handled using the information from my profile  
 **And** I'm not shown the minimal authentication page  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
@@ -47,18 +47,18 @@
 
 *---End User Scenarios---*  
 
-### User story 2
+### User story 2 - Happy Path
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
-**I want** the ability to securely edit and save my demographics information to the va systems ON the **day of Check-in**  
+**I want** the ability to securely edit and save my demographics information to the va systems ON the day of Check-in  
 
 
 *---Begin User Scenarios---* 
 
-**Scenario:** _User has **NOT** not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated_  
+**Scenario:** _User has NOT not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated_  
 **Given** That the user has not completed their Pre-check-in flow for an appointment  
 **And** That it is currently the day of the appointment at the facility/clinic  
-**And** That the user initiates the **Check-in** in flow on their mobile device  
+**And** That the user initiates the Check-in in flow on their mobile device  
 **And** That the user has not fully authenticated on va.gov prior to initiating the Check-in flow  
 **When** The user clicks on the Check-in URL in the SMS they received  
 
