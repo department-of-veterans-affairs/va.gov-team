@@ -7,12 +7,11 @@
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## End goals:
-### User story 1 - Happy Path
+### Happy Path Stories
+
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
 **I want** the ability to securely edit and save my demographics information to the va systems during my **Pre-checkin** work flow  
-
-*---Begin User Scenarios---*  
 
 **Setup:**    
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
@@ -46,15 +45,9 @@
 **Then** I can see that my changes have been validated  
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 
-*---End User Scenarios---*  
-
-### User story 2 - Happy Path
 **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 **As a** Veteran  
 **I want** the ability to securely edit and save my demographics information to the va systems ON the day of Check-in  
-
-
-*---Begin User Scenarios---* 
 
 **Scenario:** _User has NOT not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated_  
 **Given** That the user has not completed their Pre-check-in flow for an appointment  
@@ -62,8 +55,6 @@
 **And** That the user initiates the Check-in in flow on their mobile device  
 **And** That the user has not fully authenticated on va.gov prior to initiating the Check-in flow  
 **When** The user clicks on the Check-in URL in the SMS they received  
-
-*---End User Scenarios---* 
 
 ## Exploring Workflows
 ### Workflow one
