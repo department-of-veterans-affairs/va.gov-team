@@ -45,8 +45,6 @@ We conducted hour-long remote moderated research sessions via Zoom on **December
 
 We talked to **7 Veterans and 1 Caregiver** and asked them each to interact with the mobile prototype on their smartphone. 
 
-None of them had ever seen the Outreach Events page on VA.gov before, and only 4 had ever attended a VA event. Of those 4, one signed up in person at the VA, one was signed up by their therapist, one signed up through Facebook, and one doesn't remember because it was years ago.
-
 # Hypotheses and Conclusions
 1. Veterans will understand how to use date filters to find events they are interested in.
     1. MOSTLY TRUE: Participants understood how to the use the date filters, though there was some confusion about the meaning of the _Next week_ and _Next month_ options.
@@ -54,7 +52,6 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     1. MAYBE TRUE: Participants were comfortable using the date filter, but that's not how they wanted to look for events, especially when they didn't know when specific events might be. They preferred to filter first by location, type of event, and/or keyword (search).
 3. Seeing which events are recurring will enable Veterans to register for all events they're interested in.
     1. PARTLY TRUE: Participants found the button to register, but there was some confusion about _which one_ of the occurrences they were registering for. Two participants expected to register for multiple occurrences at the same time by checking off which one(s) they wanted, which wasn't supported by the prototype.
-
 
 # Key Findings
 
@@ -71,6 +68,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 4. Date filter wasn't enough because wanted to filter by location, type of event, and keyword search
 
 # Details of Findings 
+Note: None of the research participants had ever seen the Outreach Events page on VA.gov before, and only 4 of them had ever attended a VA event. Of those 4, one signed up in person at the VA, one was signed up by their therapist, one signed up through Facebook, and one doesn't remember because it was years ago.
 
 ## Usability Successes
 1. All participants understood the concept of **recurring events** in the prototype. One participant specifically called out how much they liked seeing all the occurrences on the event detail page.
@@ -159,7 +157,7 @@ The recommendations for MVP have been discussed with the Public Websites team, a
     1. For the event list, include a meaningful short description that is a concise descriptive overview of the event. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
     1. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event or do at during the event, and a rough estimate of how many people might be there. 
     1. For the event detail page, if applicable, consider providing the name of the building or facility (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
-    1. (ADVISE CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING)
+  - (ADVISE CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING)
 
 ## For future iterations
 5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event").
