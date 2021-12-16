@@ -2,7 +2,7 @@
 
 ## We’ve received your request
 
-Dear ((name)),
+Dear ((First name)),
 
 Thank you for submitting a Financial Status Report (VA Form 5655) to request help with your VA debt. We're reviewing your request. 
 
