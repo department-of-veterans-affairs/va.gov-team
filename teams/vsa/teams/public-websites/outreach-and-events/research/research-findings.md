@@ -85,7 +85,8 @@ Note: None of the research participants had ever seen the Outreach Events page o
     1. On the same event detail page, 3 of 8 participants said they would share on Facebook, and no one said they would share on Twitter.
 
 ## Usability Issues
-1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options. 6 people understood the options as is, but 2 people found them confusing because they didn't include the current week/month, which isn't standard usage. Some people tried using the _Custom date range_ option to specify exactly the timeframe they wanted, but the prototype with its limited functionality didn't support that use case.
+1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options. These two options were intended to help filter the events displayed from _All upcoming_ to smaller timeframes and thus shorter lists of events, but there were design challenges. If _Next week_ showed events from today through the next 7 days, and _Next month_ showed from today through the next 30 days, then the event lists resulting from selecting _All upcoming_, _Next week_, and _Next month_ would all be exactly the same at the top--today through the next week--which might suggest that the filter isn't working. In order to differentiate the options more, we chose to make _Next week_ begin with the following Sunday and go through Saturday, and _Next month_ to be the entire next calendar month, and that's what the prototype showed.
+    1. 6 people understood the options as is, but 2 people found them confusing because they didn't include the current week/month, which isn't standard usage. Some people tried using the _Custom date range_ option to specify exactly the timeframe they wanted, but the prototype with its limited functionality didn't support that use case.
     1. One participant didn't use the date filter at all because they thought it didn't work. They just scrolled through the _All upcoming_ event list to complete all tasks. 
     4. There were 3 other participants who left the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
     2. Everyone who opened the date filter dropdown readily understood the _Specific date_ and _Custom date range_ options and shared use cases for each:
@@ -105,7 +106,8 @@ Note: None of the research participants had ever seen the Outreach Events page o
     6. Two participants forgot about _Custom date range_ and tried to use _Specific date_ to enter a date range but found it didn't work. Then they found _Custom date range_ and used that instead--one participant figured this out on their own, and the other first needed a hint from the moderator.
     7. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
 > _"No one cares about past events" (p2)._
-2. All participants readily used the **_Register for this event_ button** to sign up for recurring events they wanted to attend, but there was some **confusion about what would happen** next. 
+
+2. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but for recurring events, there was some **confusion about which occurrence(s) they were registering for**. 
     1. Half of the participants understood they were registering for only one occurrence. 
     2. Two others weren't sure which occurrence they were registering for but guessed correctly that it was the one at the top of the page.
     3. Two participants expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend. They both expected the _Register_ button to open a list of all occurrences, and they could check the ones they wanted to register for.
@@ -157,16 +159,17 @@ The recommendations for MVP have been discussed with the Public Websites team, a
     1. For the event list, include a meaningful short description that is a concise descriptive overview of the event. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
     1. For the event detail page, provide logistical details about the event that enable Veterans to decide whether to register, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event or do at during the event, and a rough estimate of how many people might be there. 
     1. For the event detail page, if applicable, consider providing the name of the building or facility (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
-  - (ADVISE CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING)
+    - (ADVISE CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING)
 
 ## For future iterations
+5. Consider enabling users to **register for multiple occurrences of an event at once**.
 5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event").
 6. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events. 
     1. In location filtering, show the option of whether to include online/virtual events.
     1. Consider adding the ability to **see events "near me"**, per the user's home address (if they're logged in) or current location (via smartphone).
 8. Consider **making the event list more delightful to browse** by incorporating more engaging visual elements; for example, colored text, shaded alternate rows, meaningful symbols/icons. 
-9. Consider including a **"get directions" link** on event detail pages that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
-10. Consider **displaying all event times in the user's time zone**.
+10. Consider including a **"get directions" link** on event detail pages that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
+11. Consider **displaying all event times in the user's time zone**.
 
 
 # Next Steps
