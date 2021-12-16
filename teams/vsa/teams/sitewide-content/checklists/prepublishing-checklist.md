@@ -1,6 +1,6 @@
 Before publishing any page on VA.gov confirm the following:</br>
-- [ ] All links are working
-- [ ] Phone numbers are in aria labels
+- [ ] All links are working and pointing to the intended page
+- [ ] Phone numbers are in [aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 - [ ] Heirarchy of headings is correct (H1 to H2 to H3--levels shouldn't be skipped)
 - [ ] Node IDs are used for links within Drupal
 - [ ] We aren't using sighted language ("view," "see," "look"). These should be replaced with a word that's inclusive of our users with screen readers ("check," "go to")
