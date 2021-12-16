@@ -14,24 +14,8 @@ If you have questions or need help to make a payment, call us at <a href="tel:+1
 
 If your financial situation changes or you want to make changes to your request, you can submit another request online. Go to https://va.gov/manage-va-debt/request-debt-help-form-5655. 
 
-------
-
-**Your request details**
-
-- Debt forgiveness (waiver) for your Compensation and Pension debt
-
-- Debt forgiveness (write-off) for your copay bill to James A. Haley Veterans Hospital
-
-- Extended payment plan for your Chapter 33 Education Debt
-
-**Date you submitted your request**
-
-- ((date))
-
-------
-
-If we have questions or need more information, we may contact you. We’ll notify you by mail once we’ve made a decision on your request.
+We’ll notify you by mail once we’ve made a decision on your request.
 
 —
 
-You are receiving this email because you submitted a request on VA.gov. Please do not reply to this email. If you need to contact us, please visit VA.gov. 
+You're receiving this email because you submitted a request on VA.gov. Please do not reply to this email. If you need to contact us, please visit VA.gov. 
