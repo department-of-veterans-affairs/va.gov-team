@@ -30,7 +30,7 @@ searches and gets no results.", etc._
 
 ## Use Case A - Active + Resolved, multiple facilities
 
-Last updated 2021-08-27
+Last updated 2021-12-16
 
 - **Description**
 
@@ -44,7 +44,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+84@gmail.com` (Gregory)
+  - `vets.gov.user+81@gmail.com` (Travis)
 
 ## Use Case B - No history
 
