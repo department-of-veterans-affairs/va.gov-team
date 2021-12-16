@@ -74,6 +74,8 @@
 
 ## Engineering outcomes and proposed plan for implementation
 
+## Staff facing dependencies
+
 ## Existing Applications and APIs
 ### Vets-API
 ### CHIP
