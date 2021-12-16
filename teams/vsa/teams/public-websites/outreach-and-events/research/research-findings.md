@@ -58,7 +58,17 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 
 # Key Findings
 
-1. 
+## Usability Successes
+1. Recurring events
+2. Location information in the event list
+3. Use of the _Apply filter_ button (for accessibility)
+4. Date entry via dropdowns
+
+## Usability Issues
+1. _Next week_ and _Next month_ options for the date filter
+2. Registration for recurring events--which occurrence(s)?
+3. Scrolling through the flat list of events
+4. Date filter wasn't enough because wanted to filter by location, type of event, and keyword search
 
 # Details of Findings 
 
@@ -69,7 +79,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 2. All participants appreciated the **location information** provided in the event list--city and state or "online event".
     1. When asked about what location information should be displayed in the event list, all 8 participants said they wanted city and state (as shown in the prototype). A few people had additional suggestions, which could be in the event detail page and possibly also in the event list (space-permitting): street address (3 participants), phone number or email address (2 participants), name of facility or building if applicable (1 participant).
     2. One pilot participant suggested adding a "get directions" link that calculates the travel time and distance to the event from the user's current location (like Google Maps does).
-3. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button**. One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
+3. All participants who used the date filter (which was 7 of 8 participants) had no difficulty using the ***Apply filter* button** (recommended for accessibility). One person didn't use it at first but then did when they saw that the event list didn't change after they selected a dropdown option.
 6. **Date entry via dropdowns** in the _Specific date_ and _Custom date range_ options worked well for everyone. When asked what the dropdown options would do, one participant said they expected a calendar to open so they could pick a date, but they didn't mention it later when they selected dates with the dropdowns provided.
 > _"You can search for specific dates and customize it" (p1)._
 5. Participants found it easy to **navigate from an event detail page to the event list** by using the browser back button (6 participants), the breadcrumbs (1 participant), or *In this section menu > Outreach events* (1 participant). 
@@ -98,7 +108,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     6. Two participants forgot about _Custom date range_ and tried to use _Specific date_ to enter a date range but found it didn't work. Then they found _Custom date range_ and used that instead--one participant figured this out on their own, and the other first needed a hint from the moderator.
     7. There were mixed reactions to _Past events_. Two participants said it would be useful to see what you missed so you can catch it next time it happens, but two other participants said they'd never look at them.
 > _"No one cares about past events" (p2)._
-2. All participants readily used the **_Register for this event_ button** to sign up for events they wanted to attend, but there was some **confusion about what would happen** next. 
+2. All participants readily used the **_Register for this event_ button** to sign up for recurring events they wanted to attend, but there was some **confusion about what would happen** next. 
     1. Half of the participants understood they were registering for only one occurrence. 
     2. Two others weren't sure which occurrence they were registering for but guessed correctly that it was the one at the top of the page.
     3. Two participants expected to register for multiple occurrences at the same time by checking off which dates/times they planned to attend. They both expected the _Register_ button to open a list of all occurrences, and they could check the ones they wanted to register for.
@@ -139,7 +149,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 3. One participant said they didn't like the **American flag shown in the top left corner** next to "An official website of the United States government" because it's not accurate with the stars not lined up the way they are in the real American flag. [Show picture of each to compare]
 
 # Recommendations
-Some of the recommendations below have been discussed with the Public Websites team, and decisions made are included in CAPS.
+The recommendations for MVP have been discussed with the Public Websites team, and decisions made are documented in CAPS.
 ## For MVP (near term)
 1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead. (DO THIS)
 3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed. (DO THIS)
@@ -161,11 +171,11 @@ Some of the recommendations below have been discussed with the Public Websites t
 
 # Next Steps
 
-xxx
+With the above recommendations, support the ongoing MVP implementation effort as well as future design iterations.
 
 # Further research needed
 
-xxx
+We would like to test these design features with participants who use screen readers, which will have to wait until we can build a "working prototype" on the  Staging server or launch to Production. 
 
 # Appendix
 
@@ -178,7 +188,7 @@ xxx
 
 ## Tools used for Synthesis
 
-- [Synthesis spreadsheet](xxx)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/analysis/Outreach%20%26%20Events%20notes%20%26%20data%20analysis.xlsx)
 
 ## Pages and applications used
 
@@ -186,6 +196,18 @@ xxx
 
 [Mobile prototype](https://preview.uxpin.com/18c7e081f0105ed7f34e1b597567279bf74ffc2d#/pages/144514555/simulate/no-panels?mode=cvhidmf)
 
+### Screenshot of Event List
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/event-list.png" width="30%" height="30%">
+
+### Screenshot of the Date Filter options
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/date-filter.png" width="30%" height="30%">
+
+### Screenshot of Date Entry via dropdowns
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/date-entry.png" width="30%" height="30%">
+
+### Screenshot of Event Detail for a recurring event
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/event-detail-top.png" width="30%" height="30%">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/event-detail-bottom.png" width="30%" height="30%">
 
 # Who we talked to 
 We talked to **8 participants.**
@@ -247,4 +269,4 @@ This research may not include the perspectives of the following underserved Vete
 
 <br>
 
-![recruitment-checker](xxx/images/recruitment-checker.png)
+![recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/recruitment-checker.png)
