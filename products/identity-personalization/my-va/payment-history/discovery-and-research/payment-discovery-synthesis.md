@@ -102,6 +102,7 @@ All of the data points are pulled from a single API call from BGS (Benefits Gate
 - Are we missing any additional links?
 - Where do users expect to see payment information on the site?
 - Do users expect to see debt information in the payment section or as an onsite notification?
+- What is the most important information for users to see related to finances?
 - 
 
 **Onsite Notifications**
