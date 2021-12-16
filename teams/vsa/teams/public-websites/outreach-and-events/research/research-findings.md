@@ -72,8 +72,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 
 # Details of Findings 
 
-## 1. 
-### Usability Successes
+## Usability Successes
 1. All participants understood the concept of **recurring events** in the prototype. One participant specifically called out how much they liked seeing all the occurrences on the event detail page.
 > _"It was good to have all of the classes listed there [on event detail page] and hyperlinked so that I could click through them instead of going back and forth [to event list]" (p4)._
 2. All participants appreciated the **location information** provided in the event list--city and state or "online event".
@@ -87,7 +86,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 7. Six of 8 participants said that they would use the **_Add to calendar_ link** after they registered for the event.
     1. On the same event detail page, 3 of 8 participants said they would share on Facebook, and no one said they would share on Twitter.
 
-### Usability Issues
+## Usability Issues
 1. Participants generally understood how to use the date filter and its options, except there was some **confusion about the meaning of the _Next week_ and _Next month_** options. 6 people understood the options as is, but 2 people found them confusing because they didn't include the current week/month, which isn't standard usage. Some people tried using the _Custom date range_ option to specify exactly the timeframe they wanted, but the prototype with its limited functionality didn't support that use case.
     1. One participant didn't use the date filter at all because they thought it didn't work. They just scrolled through the _All upcoming_ event list to complete all tasks. 
     4. There were 3 other participants who left the default _All upcoming_ filter for the task that required looking for an event coming up soon, which is a reasonable approach.
@@ -128,7 +127,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
     
 > _"I wouldn’t filter by date because I don’t know when it is" (p10)._
 
-6. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants ignored it or understood it. One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation. Everyone was able to enter dates correctly without difficulty.
+5. No one mentioned the **"Up to 12 months in advance" limitation** on the two date entry screens, so participants ignored it or understood it. One pilot participant was confused by what it meant. One participant expected to enter a year, which isn't needed because of the 12 month limitation. Everyone was able to enter dates correctly without difficulty.
 5. On event detail pages, the **navigation link _See other outreach events_ (_See all events_ on Production) blends into the event information**. This was pointed out by one of our pilot participants.
 6. There were several **confusions with terminology** used in the interface, each of which was mentioned by only one participant:
     1. The **Outreach** heading sounds like charity (i.e., handing out food, clothes to those who need them).
@@ -138,7 +137,7 @@ None of them had ever seen the Outreach Events page on VA.gov before, and only 4
 9. One pilot participant expected that all event times would **show in their own time zone**, which would be more intuitive for them than seeing event times in all different time zones.
 
 
-### Feedback for other teams
+## Feedback for other teams
 
 1. Two participants said that the **descriptions of events on the event detail page read like ads but were missing important logistical details** needed to help decide whether to register. Examples:
     1. For yoga: What type of yoga? What props do I need?
