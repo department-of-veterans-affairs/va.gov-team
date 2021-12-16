@@ -74,7 +74,7 @@
 
 ## Engineering questions that must be answered
 
-## Engineering outcomes and proposed plan for implementation
+## Engineering outcomes and proposed implementation plan
 
 ## Existing Applications and APIs
 ### Vets-API
