@@ -20,7 +20,8 @@
 - Cancel the next two weeks
 - CMS report for URLs
 - Digital Media requested report of all active CMS VAMC and VC users on a monthly basis
-- 
+- Prevent editors from publishing facilities that don't have associated health services
+- This one is very minor:  Add reminder to Operating status - Facility notices when they are out of date.  
 
 ## December 10
 - Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
