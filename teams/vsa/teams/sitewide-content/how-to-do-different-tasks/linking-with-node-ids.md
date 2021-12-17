@@ -1,4 +1,4 @@
-# How to link to other pages within Drupal
+# How to use node IDs to link to other pages within Drupal
 
 When a content author needs to link to another page within Drupal, they must use a Node ID instead of the page's url. This ensures that if the url ever changes, it won't affect the link.
 
