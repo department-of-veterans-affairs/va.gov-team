@@ -1,6 +1,8 @@
 
 # Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
 
+---
+
 ## Sections
 1. [Documents](#related-documents-wire-frames-and-flow-diagrams)
 2. [End Goals](#end-goals)
@@ -18,10 +20,14 @@
 11. [Testing](#testing)
 12. [Footnotes](#footnotes)
 
+---
+
 ## Related documents, wire-frames, and flow diagrams
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
 * [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
+
+---
 
 ## End goals
 ### Happy Path Stories
@@ -111,8 +117,15 @@
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 **And** I can see that I have the ability to Check-In to my appointment without any further types of authentication  
 
+---
+
 ### Error Path Stories
+
+---
+
 ### Clever Case Stories
+
+---
 
 ## Exploring Workflows
 ### Workflow one
@@ -120,13 +133,23 @@
 * one
 * two  
 
+---
+
 ## Staff Facing Dependencies
+
+---
 
 ## Engineering Questions and Answers
 
+---
+
 ## External Teams Collaboration
 
+---
+
 ## Engineering Proposals
+
+---
 
 ## Applications and Services
 ### Vets-API
@@ -167,9 +190,15 @@
 - #### References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
+---
+
 ## Application Performance Management
 
+---
+
 ## Testing
+
+---
 
 ## Footnotes
 [^1]: User has authenticated on va.gov using their ID.me account or another identity provider.
