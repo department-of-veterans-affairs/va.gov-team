@@ -1,8 +1,6 @@
 
 # Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
 
----
-
 ## Sections
 1. [Documents](#related-documents-wire-frames-and-flow-diagrams)
 2. [End Goals](#end-goals)
@@ -20,16 +18,15 @@
 11. [Testing](#testing)
 12. [Footnotes](#footnotes)
 
----
-
 ## Related documents, wire-frames, and flow diagrams
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
 * [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
+## End goals
+
 ---
 
-## End goals
 ### Happy Path Stories
 
 #### Case A:
@@ -128,28 +125,19 @@
 ---
 
 ## Exploring Workflows
+
 ### Workflow one
 #### Outstanding problems:
 * one
 * two  
 
----
-
 ## Staff Facing Dependencies
-
----
 
 ## Engineering Questions and Answers
 
----
-
 ## External Teams Collaboration
 
----
-
 ## Engineering Proposals
-
----
 
 ## Applications and Services
 ### Vets-API
@@ -188,17 +176,11 @@
 > They are an entirely separate team that we work with, and they work with a lot of other teams.
 
 - #### References:
-  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
-
----
+  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md
 
 ## Application Performance Management
 
----
-
 ## Testing
-
----
 
 ## Footnotes
 [^1]: User has authenticated on va.gov using their ID.me account or another identity provider.
