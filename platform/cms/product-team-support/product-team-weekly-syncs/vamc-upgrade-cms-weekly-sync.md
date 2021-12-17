@@ -32,6 +32,7 @@
   - Impact: facilities exist physically but web site isn't fully set up (details aren't accurate)
   - May need to parse out the runbook to detail steps and how we might help prevent, specifically when facilities get associated
   - Report of facilities that don't have services linked (CMS issue)
+    - [7325](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7325)
 - After first of year going to start linking CMS to VHA Digital Media (adding to some existing meetings - currently 3:30-4pm ET Thurs, open to shift)
   - Training and helpdesk to join in
   - Stand up community of practice
