@@ -49,32 +49,32 @@
 #### Case A:
 > **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 > **As a** Veteran  
-> **I want** the ability to securely edit and save my demographics information to the va systems during my **Pre-checkin** work flow  
+> **I want** the ability to securely edit and save my demographics information to the va systems during my Pre-Check-In work flow  
 
 #### Scenario Setup:    
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
 **And** currently it's before the day of the appointment  
-**And** I have received a SMS notification with a shortened URL to the Pre-checkin flow for the appointment  
+**And** I have received a SMS notification with a shortened URL to the Pre-Check-In flow for the appointment  
 **And** I have clicked on the shortened URL  
 **And** I have been successfully redirected to Pre-Check-In starting page on the va.gov site  
 
 **Scenario:** User has NOT _fully authenticated_[^1] with their va.gov credentials prior to clicking on the URL  
 
-**Given** I have not fully authenticated prior using my va.gov credentials  
+**Given** I have not _fully authenticated_[^1] prior using my va.gov credentials  
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **Then** I am redirected to the main va.gov login page  
 **when** I login using my va.gov credentials  
-**Then** I am successfully redirected back to my Pre-checkin demographics page  
+**Then** I am successfully redirected back to my Pre-Check-In demographics page  
 **And** I have the ability to edit all of my demographics information  
 **When** I edit any or all of my demographics info and submit the changes  
 **Then** I can see that my changes have been validated  
 **And** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
-**Scenario:** User HAS fully authenticated with their va.gov credentials prior to clicking on the URL  
+**Scenario:** User HAS _fully authenticated_[^1] with their va.gov credentials prior to clicking on the URL  
 
-**Given** I have fully authenticated prior using my va.gov credentials  
+**Given** I have _fully authenticated_[^1] prior using my va.gov credentials  
 **Then** my minimal authentication was automatically handled using the information from my profile  
 **And** I'm not shown the minimal authentication page  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
@@ -105,7 +105,7 @@
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **Then** I am redirected to the main va.gov login page  
 **when** I login using my va.gov credentials  
-**Then** I am successfully redirected back to my Pre-checkin demographics page  
+**Then** I am successfully redirected back to my Pre-Check-In demographics page  
 **And** I have the ability to edit all of my demographics information  
 **When** I edit any or all of my demographics info and submit the changes  
 **Then** I can see that my changes have been validated  
