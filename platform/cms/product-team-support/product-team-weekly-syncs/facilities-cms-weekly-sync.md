@@ -58,7 +58,7 @@ Next steps
 "Get your records online" VA blue button/Cerner
 * [mural](https://app.mural.co/t/vagov6717/m/vagov6717/1639530168395/b114bb336a1db8c0a571272b10a230e1360d2775?sender=kevinwalsh8610)
 * CMS work for Sprint 49
-* FE work for January
+* FE work for January [#33741]((https://github.com/department-of-veterans-affairs/va.gov-team/issues/33741)
 
 Top task update
 * Lovell edge case (tabled)
