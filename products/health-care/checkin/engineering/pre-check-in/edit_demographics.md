@@ -33,6 +33,7 @@
 
 #### Scenario Setup:    
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
+**And** currently it's before the day of the appointment  
 **And** I have received a SMS notification with a shortened URL to the Pre-checkin flow for the appointment  
 **And** I have clicked on the shortened URL  
 **And** I have been successfully redirected to Pre-Check-In starting page on the va.gov site  
