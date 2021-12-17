@@ -8,7 +8,7 @@ The purpose of this research is to get user feedback on the new static landing p
 - _OTHER GOALS?_
 
 ## Background
-If a Veteran experiences an incident of harassment or other inappropriate behavior while at a VA Site, they can report it by calling a phone number at the VA. A recent Congressional act mandated the creation of harassment information online, which will be available from the VA.gov website. We would like to get user feedback on this new static information page before it launches. _[WHAT IS THE CONGRESSIONAL ACT MANDATING THAT WE DO? NOT SURE WHAT I WROTE IS ACCURATE]
+If a Veteran experiences an incident of harassment or other inappropriate behavior while at a VA Site, they can report it by calling a phone number at the VA. A recent Congressional act mandated providing harassment information online, which will be available from the VA.gov website. We would like to get user feedback on a new static information page before it launches. _[IS THIS DESCRIPTION OF WHAT THE CONGRESSIONAL ACT IS MANDATING ACCURATE?]
 
 ## Research questions
 1. What do Veterans do today to report harassment at the VA? (e.g., talk with someone/police at VA, call 911, google)
