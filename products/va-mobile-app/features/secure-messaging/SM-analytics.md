@@ -28,6 +28,7 @@ Conversion notes:
 
 * Timeframe for all analytics are within the last 30 and 365 days as of 2/9/21
 * Unless otherwise noted, questions pertain to the MHV user, and not providers or administrators. 
+* The MHV team provided answers for all of the following questions.
 
 **How frequently do users access secure messaging?**
 
