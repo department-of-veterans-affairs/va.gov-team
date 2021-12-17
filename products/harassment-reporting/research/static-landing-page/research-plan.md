@@ -8,7 +8,7 @@ The purpose of this research is to get user feedback on the new static landing p
 - _OTHER GOALS? DO WE WANT TO SHOW THE LINK TO THE REPORTING FORM INTRO PAGE?_
 
 ## Background
-If a Veteran experiences harassment or other inappropriate behavior while at a VA Site, they can report it by calling a phone number at the VA. A recent Congressional act mandated providing harassment information online, which will be available from the VA.gov website. We would like to get user feedback on a new static information page before it launches. _[IS THIS DESCRIPTION OF WHAT THE CONGRESSIONAL ACT IS MANDATING ACCURATE?]_
+If a Veteran experiences harassment or other inappropriate behavior while at a VA Site, they can report it by calling a phone number at the VA. A recent Congressional act _(H.R.2452 - Deborah Sampson Act)_ mandated providing harassment information online, which will be available from the VA.gov website. We would like to get user feedback on a new static information page before it launches. _[IS THIS DESCRIPTION OF WHAT THE CONGRESSIONAL ACT IS MANDATING ACCURATE?]_
 
 ## Research questions
 1. What do Veterans do today to report harassment at the VA? (e.g., talk with someone/police at the VA, call 911, google)
@@ -31,7 +31,7 @@ We will conduct remote moderated research sessions via Zoom. Participants will b
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
 - Work with VA contacts to find social workers or clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
-- Limit the number of observers in the session.
+- Limit the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant).
 
 ### Participants to recruit
 
