@@ -16,7 +16,7 @@ The application can be found at https://staging.va.gov/education/apply-for-benef
 
 ### QA Test plan
 - [QA Test plan and test results](./MebDraftTestPlan12-17.docx) (Word Document download)
-- Axe tool [results](Axe-Report-MEB-All-Pages.html) (Html download)
+- Axe tool [results](Axe-Report-MEB-All-Pages.html) (Html file download)
 
 ### Test Reports
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail for QA practice area review
