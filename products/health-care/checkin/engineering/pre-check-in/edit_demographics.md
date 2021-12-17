@@ -9,6 +9,14 @@
     3. [Clever Path Stories](#clever-case-stories)
 4. [Exploring Workflows](#exploring-workflows)
     1. [Workflow One](#workflow-one)
+5. [Staff Facing Dependencies](#staff-facing-dependencies)
+6. [Engineering Questions and Answers](#engineering-questions-that-must-be-answered)
+7. [External Teams Collaboration](#external-teams-collaboration)
+8. [Engineering Proposals](#engineering-proposals)
+9. [Applications and Services](#application-and-services)
+10. [Applications Performance Management](#applications-performance-management)
+11. [Testing](#testing)
+12. [Footnotes](#footnotes)
 
 ## Related documents, wire-frames, and flow diagrams
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
@@ -111,15 +119,15 @@
 * one
 * two  
 
-## Staff facing dependencies
+## Staff Facing Dependencies
 
-## Engineering questions that must be answered
+## Engineering Questions and Answers
 
-## External teams collaboration
+## External Teams Collaboration
 
-## Engineering outcomes and proposed implementation plan
+## Engineering Proposals
 
-## Existing Applications and APIs
+## Applications and Services
 ### Vets-API
 ### CHIP
 ### LoROTA
@@ -158,7 +166,7 @@
 - #### References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
-## Systems Monitoring and Error reporting
+## Application Performance Management
 
 ## Testing
 
