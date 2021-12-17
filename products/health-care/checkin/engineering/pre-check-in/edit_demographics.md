@@ -2,6 +2,9 @@
 # Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
 
 ## Sections
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
 - [Related Documents](#related-documents)
 - [User Scenarios](#user-scenarios)
     - [Happy Path Stories](#happy-path-stories)
@@ -17,6 +20,18 @@
     - [Application Performance Management](#application-performance-management)
     - [Testing](#testing)
     - [Footnotes](#footnotes)
+
+## User Outcomes
+
+### Positive Outcomes
+### Negative Outcomes
+
+## Business Outcomes
+
+### Positive Outcomes
+### Negative Outcomes
+
+## Measuring Success
 
 ## Related Documents
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
