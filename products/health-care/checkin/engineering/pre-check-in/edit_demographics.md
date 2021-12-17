@@ -14,7 +14,7 @@
 7. [External Teams Collaboration](#external-teams-collaboration)
 8. [Engineering Proposals](#engineering-proposals)
 9. [Applications and Services](#applications-and-services)
-10. [Applications Performance Management](#applications-performance-management)
+10. [Application Performance Management](#application-performance-management)
 11. [Testing](#testing)
 12. [Footnotes](#footnotes)
 
