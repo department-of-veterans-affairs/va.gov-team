@@ -183,12 +183,12 @@ The website is ready and live. [https://www.va.gov](https://www.va.gov/).
 
 >Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: Angela Fowler angela.fowler@adhocteam.us
-* Date and time of pilot session: Dec 13, 2021no earlier than noon
+* Date and time of pilot session: Dec 21, 2021 no earlier than noon
 
 ### Research sessions
 >What dates do you plan to do research? 
 
-- December 15th to 23rd 11:00am - 3:00pm, 5:00-8pm EST
+- December 28th-30th and January 3rd-4th 11:00am - 3:00pm, 5:00-8pm EST
 
 - We will stop scheduling when 10 to 12 participants are recruited
 
@@ -203,12 +203,12 @@ _Specify if you want Perigean to schedule the sessions with buffer time (15 minu
 >When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
 
+- Tuesday - 11:00am - 3:00pm, 5:00-8pm EST
 - Wednesday - 11:00am - 3:00pm, 5:00-8pm EST
-- Thursday - 11:00am - 3:00pm, 5:00-8pm EST
-- Friday - 11:00am - 3:00pm, 5:00-8pm EST
+- Thrusday - 11:00am - 3:00pm, 5:00-8pm EST
 - Monday - 11:00am - 3:00pm, 5:00-8pm EST
 - Tuesday - 11:00am - 3:00pm, 5:00-8pm EST 
-- Wednesday - 11:00am - 3:00pm, 5:00-8pm EST
+
 	
 ## Team Roles	
 >Please list the people who will be serving in each role. **Include the primary phone number for the moderator and the emails for the moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
