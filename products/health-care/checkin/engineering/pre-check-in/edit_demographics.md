@@ -25,13 +25,13 @@
 ## Problem Statement
 ## User Outcomes
 
-### Positive Outcomes
-### Negative Outcomes
+### Positive
+### Negative
 
 ## Business Outcomes
 
-### Positive Outcomes
-### Negative Outcomes
+### Positive
+### Negative
 
 ## Measuring Success
 
