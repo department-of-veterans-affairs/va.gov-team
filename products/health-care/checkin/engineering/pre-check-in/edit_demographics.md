@@ -22,7 +22,7 @@
 **And** I have clicked on the shortened URL  
 **And** I have been successfully redirected to Pre-Check-In starting page on the va.gov site  
 
-**Scenario:** User has NOT fully authenticated with their va.gov credentials prior to clicking on the URL  
+**Scenario:** User has NOT _fully authenticated_[^1] with their va.gov credentials prior to clicking on the URL  
 
 **Given** I have not fully authenticated prior using my va.gov credentials  
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
@@ -132,3 +132,7 @@
 ## Systems Monitoring and Error reporting
 
 ## Testing
+
+## Footnotes
+
+[^1]: Fully authenticated
