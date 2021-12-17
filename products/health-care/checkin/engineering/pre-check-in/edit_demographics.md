@@ -2,28 +2,28 @@
 # Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
 
 ## Sections
-1. [Documents](#related-documents-wire-frames-and-flow-diagrams)
-2. [End Goals](#end-goals)
-    1. [Happy Path Stories](#happy-path-stories)
-    2. [Error Path Stories](#error-path-stories)
-    3. [Clever Path Stories](#clever-case-stories)
-4. [Exploring Workflows](#exploring-workflows)
-    1. [Workflow One](#workflow-one)
-5. [Staff Facing Dependencies](#staff-facing-dependencies)
-6. [Engineering Questions and Answers](#engineering-questions-and-answers)
-7. [External Teams Collaboration](#external-teams-collaboration)
-8. [Engineering Proposals](#engineering-proposals)
-9. [Applications and Services](#applications-and-services)
-10. [Application Performance Management](#application-performance-management)
-11. [Testing](#testing)
-12. [Footnotes](#footnotes)
+- [Related Documents](#related-documents)
+- [User Scenarios](#user-scenarios)
+    - [Happy Path Stories](#happy-path-stories)
+    - [Error Path Stories](#error-path-stories)
+    - [Clever Path Stories](#clever-case-stories)
+- [Exploring Workflows](#exploring-workflows)
+    - [Workflow One](#workflow-one)
+- [Staff Facing Dependencies](#staff-facing-dependencies)
+- [Engineering Questions and Answers](#engineering-questions-and-answers)
+- [External Teams Collaboration](#external-teams-collaboration)
+- [Engineering Proposals](#engineering-proposals)
+- [Applications and Services](#applications-and-services)
+    - [Application Performance Management](#application-performance-management)
+    - [Testing](#testing)
+    - [Footnotes](#footnotes)
 
-## Related documents, wire-frames, and flow diagrams
+## Related Documents
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
 * [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
-## End goals
+## User Scenarios
 
 ---
 
