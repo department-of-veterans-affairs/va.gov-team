@@ -18,11 +18,11 @@
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
 **And** I have received a SMS notification with a shortened URL to the Pre-checkin flow for the appointment  
 **And** I have clicked on the shortened URL  
-**And** I have been successfully redirected to Pre-checkin starting page on the va.gov site  
+**And** I have been successfully redirected to Pre-Check-In starting page on the va.gov site  
 
 **Scenario:** User has NOT fully authenticated with their va.gov credentials prior to clicking on the URL  
 
-**Given** I have _not fully authenticated_ prior using my va.gov credentials  
+**Given** I have not fully authenticated prior using my va.gov credentials  
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
@@ -36,13 +36,13 @@
 
 **Scenario:** User HAS fully authenticated with their va.gov credentials prior to clicking on the URL  
 
-**Given** I have _fully authenticated_ prior using my va.gov credentials  
+**Given** I have fully authenticated prior using my va.gov credentials  
 **Then** my minimal authentication was automatically handled using the information from my profile  
 **And** I'm not shown the minimal authentication page  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **Then** I am NOT redirected to the main va.gov login page  
-**And** I remain on the Pre-checkin flows demographics page  
+**And** I remain on the Pre-Check-In flow demographics page  
 **And** I now have the ability to edit all of my demographics information  
 **When** I edit any or all of my demographics info and submit the changes  
 **Then** I can see that my changes have been validated  
@@ -55,7 +55,7 @@
 
 **Scenario:** User has NOT not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated  
 
-**Given** I have not completed my Pre-check-in flow for an appointment  
+**Given** I have not completed my Pre-Check-In flow for an appointment  
 **And** I am at the facility/location on the day of the appointment  
 **And** I have arrived before the appointment is set to begin  
 **And** I have initiated the Check-in in flow on my mobile device 
@@ -126,7 +126,6 @@
 
 - #### References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
-
 
 ## Systems Monitoring and Error reporting
 
