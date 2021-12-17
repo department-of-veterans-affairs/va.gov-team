@@ -2,7 +2,7 @@
 name: Design Intent
 about: Request to Schedule a Design intent
 title: Design intent [Team Name - Feature Name]
-labels: vsp-product-support, collaboration-cycle, collab-cycle-review
+labels: vsp-product-support, collaboration-cycle, collab-cycle-review, design-intent
 assignees: shiragoodman, allison0034
 
 ---
