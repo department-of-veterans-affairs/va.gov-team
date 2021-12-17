@@ -15,7 +15,7 @@
     - [Workflow One](#workflow-one)
 - [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Questions](#engineering-questions)
-- [External Teams Collaboration](#external-teams-collaboration)
+- [Engineering Collaboration](#engineering-collaboration)
 - [Engineering Proposals](#engineering-proposals)
 - [Applications and Services](#applications-and-services)
     - [Application Performance Management](#application-performance-management)
@@ -152,7 +152,7 @@
 
 ## Engineering Questions
 
-## External Teams Collaboration
+## Engineering Collaboration
 
 ## Engineering Proposals
 
