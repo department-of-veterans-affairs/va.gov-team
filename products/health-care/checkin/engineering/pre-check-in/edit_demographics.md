@@ -171,5 +171,4 @@
 ## Testing
 
 ## Footnotes
-
-[^1]: Fully authenticated
+[^1]: User has authenticated on va.gov using their ID.me account or another identity provider.
