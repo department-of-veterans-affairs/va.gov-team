@@ -2,6 +2,13 @@
 # Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
 
 ## Sections
+1. [Documents](#overview-section)
+2. [End Goals](#end-to-end-testing-workflow-section)
+    1. [Happy Path Stories](#happy-path-stories)
+    2. [Error Path Stories](#error-path-stories)
+    3. [Clever Path Stories](#clever-path-stories)
+4. [Exploring Workflows](#exploring-work-flows)
+    1. [Workflow One](#workflow-one)
 
 ## Related documents, wire-frames, and flow diagrams
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
