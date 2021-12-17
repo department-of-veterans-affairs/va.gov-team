@@ -6,15 +6,15 @@
 * [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
-## End goals:
+## End goals
 ### Happy Path Stories
 
+#### Case A:
 > **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 > **As a** Veteran  
 > **I want** the ability to securely edit and save my demographics information to the va systems during my **Pre-checkin** work flow  
 
-**Setup:**    
-
+#### Scenario Setup:    
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
 **And** I have received a SMS notification with a shortened URL to the Pre-checkin flow for the appointment  
 **And** I have clicked on the shortened URL  
@@ -48,9 +48,10 @@
 **Then** I can see that my changes have been validated  
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 
-**In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
-**As a** Veteran  
-**I want** the ability to securely edit and save my demographics information to the va systems ON the day of Check-in  
+#### Case B:
+> **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
+> **As a** Veteran  
+> **I want** the ability to securely edit and save my demographics information to the va systems ON the day of Check-in  
 
 **Scenario:** User has NOT not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated  
 
