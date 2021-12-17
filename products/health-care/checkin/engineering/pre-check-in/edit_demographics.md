@@ -108,6 +108,8 @@
 
 ## Engineering questions that must be answered
 
+## External teams collaboration
+
 ## Engineering outcomes and proposed implementation plan
 
 ## Existing Applications and APIs
