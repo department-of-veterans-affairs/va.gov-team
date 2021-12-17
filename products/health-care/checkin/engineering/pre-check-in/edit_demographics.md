@@ -2,6 +2,7 @@
 # Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
 
 ## Sections
+- [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
@@ -21,6 +22,7 @@
     - [Testing](#testing)
     - [Footnotes](#footnotes)
 
+## Problem Statement
 ## User Outcomes
 
 ### Positive Outcomes
