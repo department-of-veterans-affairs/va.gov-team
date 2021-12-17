@@ -14,7 +14,7 @@
 - *Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants*
 - *Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON*
 
-- *Open standalone browser tab to prototype (URL TBD) and save these links somewhere to paste*
+- *Open standalone browser tab to prototype (URL TBD) and save link in slack so ready to paste*
 - *Do Not Disturb ON so no notifications*
 
 - *Make sure everyone is muted except me and the participant*
@@ -59,12 +59,12 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says **Share** (phone) or **Share Screen** (computer). 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or  your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help.
+- Now I'd like you to share your screen with me. Tap on the green button that says **Share**. You will then see options for what to share. Please choose "Screen" or your web browser.
+  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help _(give permission > accessibility settings > find Zoom > check box)_.
   - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
@@ -74,9 +74,9 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 ## Instructions for finding Zoom chat (if needed)
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
-  - Computer: Just to the left of center is a conversation bubble that says Chat. 
-    - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
-  - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
+  - Computer: Just to the left of center is a conversation bubble that says **Chat**. 
+    - *If don't see chat, ASK:* Do you see the red **Stop Share** button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the **Chat** button in the center of the Zoom controls.
+  - Phone: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
 ## Protocol for Recognizing & Handing Trauma-Triggering
