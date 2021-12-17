@@ -13,7 +13,7 @@
 6. [Engineering Questions and Answers](#engineering-questions-and-answers)
 7. [External Teams Collaboration](#external-teams-collaboration)
 8. [Engineering Proposals](#engineering-proposals)
-9. [Applications and Services](#application-and-services)
+9. [Applications and Services](#applications-and-services)
 10. [Applications Performance Management](#applications-performance-management)
 11. [Testing](#testing)
 12. [Footnotes](#footnotes)
