@@ -55,11 +55,23 @@
 
 **Scenario:** User has NOT not completed their Pre-check-in flow prior to the day of Check-in and user is not fully authenticated  
 
-**Given** That the user has not completed their Pre-check-in flow for an appointment  
-**And** That it is currently the day of the appointment at the facility/clinic  
-**And** That the user initiates the Check-in in flow on their mobile device  
-**And** That the user has not fully authenticated on va.gov prior to initiating the Check-in flow  
-**When** The user clicks on the Check-in URL in the SMS they received  
+**Given** I have not completed my Pre-check-in flow for an appointment  
+**And** I am at the facility/location on the day of the appointment  
+**And** I have arrived before the appointment is set to begin  
+**And** I have initiated the Check-in in flow on my mobile device 
+**And** I have not fully authenticated on va.gov prior to initiating the Check-in flow  
+**When** I click on the Check-in URL  
+**And** I successfully, and minimally, authenticate using my last name and the last four digits of my SSN  
+**Then** I have started my Check-in flow  
+**And** I can see my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
+**Then** I am redirected to the main va.gov login page  
+**when** I login using my va.gov credentials  
+**Then** I am successfully redirected back to my Pre-checkin demographics page  
+**And** I have the ability to edit all of my demographics information  
+**When** I edit any or all of my demographics info and submit the changes  
+**Then** I can see that my changes have been validated  
+**And** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
 ## Exploring Workflows
 ### Workflow one
