@@ -60,7 +60,7 @@
 **Given** I have not completed my Pre-Check-In flow for an appointment  
 **And** I am at the facility/location on the day of the appointment  
 **And** I have arrived before the appointment is set to begin  
-**And** I have not _fully authenticated_[^1] on va.gov prior to initiating the Check-in flow 
+**And** I have not _fully authenticated_[^1] on va.gov prior to initiating the Check-in flow  
 **And** I have initiated the Check-in in flow on my mobile device  
 **When** I click on the Check-in URL  
 **And** I successfully, and minimally, authenticate using my last name and the last four digits of my SSN  
