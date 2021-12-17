@@ -42,9 +42,9 @@
 
 ## User Scenarios
 
----
-
 ### Happy Path Stories
+
+---
 
 #### Case A:
 > **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
@@ -135,11 +135,7 @@
 
 ### Error Path Stories
 
----
-
 ### Clever Case Stories
-
----
 
 ## Exploring Workflows
 
