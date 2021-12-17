@@ -14,7 +14,7 @@
 - [Exploring Workflows](#exploring-workflows)
     - [Workflow One](#workflow-one)
 - [Staff Facing Dependencies](#staff-facing-dependencies)
-- [Engineering Questions and Answers](#engineering-questions-and-answers)
+- [Engineering Questions](#engineering-questions)
 - [External Teams Collaboration](#external-teams-collaboration)
 - [Engineering Proposals](#engineering-proposals)
 - [Applications and Services](#applications-and-services)
@@ -150,7 +150,7 @@
 
 ## Staff Facing Dependencies
 
-## Engineering Questions and Answers
+## Engineering Questions
 
 ## External Teams Collaboration
 
