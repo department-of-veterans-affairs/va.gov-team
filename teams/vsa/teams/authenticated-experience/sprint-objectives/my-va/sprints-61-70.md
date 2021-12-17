@@ -185,6 +185,17 @@ Resume project!!
 - Convo guide
 - Recruit?
 
+### On-site notifications
+
+**PM**
+
+- Regroup with VANotify to determine what their LOE is for this work
+  - This can likely happen in the same convo where BE discusses/determines how they'd like to receive data from VANotify 
+
+**BE**
+
+- Regroup with VANotify to discuss how we want to receive data (notification type; user) from them
+
 ## Sprint 65 (1/12 - 1/25)
 [Sprint 65 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30270)
 
