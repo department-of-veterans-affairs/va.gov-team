@@ -9,7 +9,7 @@
   - *@mention team members*
 - *Share brief summary of participant demographic info*
 
-**5-10 min before session:** Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
+**5-10 min before session:** *Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting*
 
 - *Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF*
 
