@@ -3,11 +3,11 @@
 
 ## Sections
 1. [Documents](#related-documents-wire-frames-and-flow-diagrams)
-2. [End Goals](#end-to-end-testing-workflow-section)
+2. [End Goals](#end-goals)
     1. [Happy Path Stories](#happy-path-stories)
     2. [Error Path Stories](#error-path-stories)
     3. [Clever Path Stories](#clever-case-stories)
-4. [Exploring Workflows](#exploring-work-flows)
+4. [Exploring Workflows](#exploring-workflows)
     1. [Workflow One](#workflow-one)
 
 ## Related documents, wire-frames, and flow diagrams
