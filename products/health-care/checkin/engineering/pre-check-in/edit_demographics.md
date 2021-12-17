@@ -73,6 +73,9 @@
 **Then** I can see that my changes have been validated  
 **And** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
+### Error Path Stories
+### Clever Case Stories
+
 ## Exploring Workflows
 ### Workflow one
 #### Outstanding problems:
