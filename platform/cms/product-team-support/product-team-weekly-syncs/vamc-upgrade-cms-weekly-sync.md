@@ -16,6 +16,12 @@
 
 </details>
 
+## December 17
+- Cancel the next two weeks
+- CMS report for URLs
+- Digital Media requested report of all active CMS VAMC and VC users on a monthly basis
+- 
+
 ## December 10
 - Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
   * were existing redirects need to be updated - status?
