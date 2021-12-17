@@ -4,7 +4,7 @@
 
 New + Improved
 
-- Manufaturer label added to the details screen for Covid vaccines
+- Manufacturer label added to the details screen for Covid vaccines
 - Action sheet added when removing email.  Alert for Android
 - Implementation of persistent snack bar when a user has successfully moved a message into a folder
 - Implemented the ability to move messages into folders

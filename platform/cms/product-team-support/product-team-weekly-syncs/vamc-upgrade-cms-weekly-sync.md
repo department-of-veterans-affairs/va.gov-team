@@ -16,6 +16,37 @@
 
 </details>
 
+## December 17
+- Cancel the next two weeks
+  - async check-in on Thursdays just in case
+- CMS report for URLs
+  - CMS to demo today
+- VHA Digital Media requested report of all active CMS VAMC and VC users on a monthly basis
+  - Follow up on what problem they're trying to solve
+  - Fulfill Blake's request as needed
+- Prevent editors from publishing facilities that don't have associated health services
+  - Ultimately folks shouldn't be able to publish facilities
+  - We need them to be able to publish services but not when a facility has not been published or is archived, because communications with LH get muddy
+  - Need to think through this: permissions when a facility is published vs. not and how that would affect a user's ability to edit/publish services
+  - Especially in reference to new facilities, when folks may be publishing prematurely
+  - Impact: facilities exist physically but web site isn't fully set up (details aren't accurate)
+  - May need to parse out the runbook to detail steps and how we might help prevent, specifically when facilities get associated
+  - Report of facilities that don't have services linked (CMS issue)
+    - [7325](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7325)
+- After first of year going to start linking CMS to VHA Digital Media (adding to some existing meetings - currently 3:30-4pm ET Thurs, open to shift)
+  - Training and helpdesk to join in
+  - Stand up community of practice
+  - Split purpose of the meeting: helping editors maintain their sites vs. product iterations / how to communicate changes
+  - CMS to still meet with VAMC Upgrade to do an initial audit
+  - Upgrade is setting up something with Digital Media after new year
+- Add reminder to Operating status - expired Facility notices aren't getting removed
+  - Possible CMS enhancement request (possibly adding: how long do you want this notice to be active? possibly leverage notifications to remind)
+  - Lisa to bring up with VHA Digital Media to possibly get in their newsletter
+- User management runbook revisit/review (VAMC, VC, Outreach Hub, etc)
+  - Request fulfillment processes for things like reports
+  - Mapping out what's under VHA's vs. CMS vs. OCTO-DE's purview
+  - CMS to circulate the urls for these
+
 ## December 10
 - Topeka and Levenworth consolidated to eastern Kansas URLS need to be cleaned up and incident reports need to be fixed
   * were existing redirects need to be updated - status?

@@ -213,6 +213,7 @@ Anything unfinished from last sprint, plus...
 - Start BE build (tickets TBD after we talk to MPI on Wednesday)
 
 ## Sprint 63 (12/15 - 12/28)
+[Sprint 63 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33860)
 
 ### PTO
 
@@ -259,6 +260,9 @@ This depends on whether the Perigean contract is back up and running.
 - Continue whatever is left of the frontend build
 
 ## Sprint 64 (12/29 - 1/11)
+
+- Is there a better way for us to learn about issues (eg. direct deposit for edu issue) than relying on veterans to tell us there's a problem?
+- Update "Add a mobile phone" link [#34241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34241)
 
 ## Sprint 65 (1/12 - 1/25)
 

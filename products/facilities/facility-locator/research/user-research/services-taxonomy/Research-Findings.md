@@ -1,12 +1,10 @@
-[PRE-APPROVAL]
-
 # Non-Clinical Services Taxonomy - Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Facility Locator, Facilities Team**
 
 **Designer / Researcher:** Nick Osmanski (nick.osmanski@amida.com)
 
-Date: MM/DD/YYYY
+Date: 12/14/2021
 
 - **Jump to:**
     - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#hypotheses-and-conclusions)
@@ -124,6 +122,10 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
     - **Services requiring more than one explanation, across participants:**
         - "Registry exams", "Veteran connections", "Returning service member care", "Whole health", "Library services", "Advice nurse", "My HealtheVet Coordinator", and "Privacy office"
 6. **How service categorization was distrbuted across participants:**
+    - **Per-service breakdown of categories based on confidence level** [(see detailed findings for list)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#details-of-findings)
+        - **High confidence:** the large majority of participants put this service in the same category
+        - **Medium confidence:** most participants put this service in the same category
+        - **Unsure / need more information:** participants were split and/or we simply need a larger sample size to make a determination
     - **The "Administrative" category had the most consistent alignment** across participants: participants agreed the most about which services belonged in this cateory.
     - **Some services were much more likely to grouped together** in the same category. For example:
         - "Billing insurance" and "Medical records"
@@ -193,9 +195,64 @@ This study will utilize a moderated card sort, via [Optimal Workshop's](https://
 
 > P15: I guess I am not familiar with what the library services entail. Social programs and services because in my mind that’s where it fits.
 
-**6. How service categorization was distrbuted across participants:**
+#### 6. How service categorization was distrbuted across participants:
 
 [DSP: Pages](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels/DSP%3A%20Pages)
+
+Based on the Optimal Workshop statistical reports, here are my recommendations on which cateogory to put each service, and my confidence level for each one. I also list any services that the data is not clear on, and what some next step for these services could be [(see further research)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/Research-Findings.md#further-research-needed).
+
+**High confidence**
+
+| Service                          | Category                     | Confidence level                                                            |
+| ----------------------------------- | ---------------------------- | --------------------------------------------------------------------------- |
+| Medical records                     | Adminstrative                | High - 12/14 in Adminstrative                                               |
+| Wheelchair and mobility             | Specialty care               | High - 12/14 in Specialty care                                              |
+| Workshops and classes               | Social programs and services | High - 10/14 in Social programs and services                                |
+| Billing and insurance               | Administrative               | High - 14/14 in Administrative                                              |
+| Chaplain service                    | Social programs and services | High - 10/14 in Social programs and services, split across other categories |
+| Radiology                           | Specialty care               | High - 10/14 in Specialty care, 4/10 in Primary care                        |
+| Advice nurse                        | Primary care                 | High - 10/14 in Primary care, 4/10 in Prepare for your visit                |
+| Patient advocates                   | Administrative               | High - 10/14 in Administrative, split across other categories               |
+| Travel reimbursement                | Adminstrative                | High - 12/14 in Adminstrative                                               |
+| Veteran connections                 | Social programs and services | High - 11/14 in Social programs and services                                |
+| Employment verification             | Adminstrative                | High - 12/14 in Adminstrative                                               |
+| Freedom of Information Act requests | Administrative               | High - 13/14 in Administrative                                              |
+| Privacy office                      | Administrative               | High - 14/14 in Administrative                                              |
+
+**Medium confidence**
+
+| Service                                        | Category                     | Confidence level                                                                                  |
+| ------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| Whole health                                      | Primary care                 | Medium - 8/14 in Primary care, split acros serval categories                                      |
+| Women Veteran care                                | Primary care                 | Medium - 8/14 in Primary care, split acros serval categories                                      |
+| Military sexual trauma care                       | Mental health care           | Medium - 8/14 in Mental health care, split across a few other categories                          |
+| Social work                                       | Social programs and services | Medium - 9/14 in Social programs and services, 5/14 in Mental health care                         |
+| Caregiver support                                 | Social programs and services | Medium - 9/14 in Social programs and services, split across a few categories                      |
+| Substance abuse care                              | Specialty care               | Medium - 8/14 in Specialty care, split across other categories                                    |
+| Grief and bereavement counseling                  | Mental health care           | Medium - 9/14 in Mental health care, split across Social programs and services and Specialty care |
+| MOVE! weight management                           | Specialty care               | Medium - 8/14 in Specialty care, 4/14 in Social programs and services, other categories           |
+| Nutrition, food, and dietary care                 | Specialty care               | Medium - 9/14 in Specialty care, split across Primary care and Social programs and services       |
+| Applying for health care                          | Administrative               | Medium - 8/14 in Administrative, 5/14 in Prepare for your visit                                   |
+| Vocational rehabilitation and employment programs | Social programs and services | Medium - 9/14 in Social programs and services                                                     |
+
+**Low confidence**
+
+| Services                  | Category               | Confidence level                                                                   |
+| ------------------------- | ---------------------- | ---------------------------------------------------------------------------------- |
+| My HealtheVet coordinator | Administrative         | Low - 7/14 in Administrative, split across other categories                        |
+| Make an appointment       | Prepare for your visit | Low - 8/14 in Prepare for your visit, 5/15 in Primary care, 1/14 in Administrative |
+
+**Unsure / need more information**
+
+| Services                             | Category                | Confidence level                                                                                                      |
+| ------------------------------------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Library services                     | Unsure / need more info | Unsure / need more info - split between Social programs and services, and Administrative                              |
+| LGBTQ+ Veteran care                  | Unsure / need more info | Unsure / need more info - split several categories                                                                    |
+| Minority Veteran care                | Unsure / need more info | Unsure / need more info - 7/10 in Primary care, split across a few other categories                                   |
+| Registry exams                       | Unsure / need more info | Unsure / need more info - sllit across several categories                                                             |
+| Returning service member care        | Unsure / need more info | Unsure / need more info - split across several categories                                                             |
+| Smoking and tobacco cessation        | Unsure / need more info | Unsure / need more info - 6/14 in Social programs and services, 5/14 in Specialty care, split across other categories |
+| Recreation and creative arts therapy | Unsure / need more info | Unsure / need more info - split across Mental health care, Social programs and services, and Specialty care           |
 
 **Card sort 1**
 
@@ -221,10 +278,6 @@ The similarity matrix measures how often services were grouped in similar catego
 
 ![Card sort 2 - Similarity matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-taxonomy/images/Card%20sort%202%20-%20Similarity%20matrix.png)
 
-# Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
 # Recommendations
 
 - **Recommendation 1: Add the "Administrative" category to system-level and facility-level pages**
@@ -236,7 +289,8 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Presentation decks for design team and VA stakeholders.
+- Likely a need for Content team input for any changes to "patient-friendly" language that may describe services differently. 
 
 # Further research needed
 
@@ -298,17 +352,3 @@ We talked to **14 participants**:
 - Geographic location:
     - Urban: 7
     - Rural: 5
-    - Unknown: 2
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)

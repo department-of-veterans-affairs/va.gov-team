@@ -34,9 +34,9 @@ Health Products
 ### Team Members:
 - DEPO Product Lead: George Chewning
 - DEPO Engineering Lead: Mike Chelen
-- Team Product Manager: Chris Dyer
+- Team Product Manager: Sharon Kasimow
 - UX/Research: Dené Gabaldón
-- Front-End Engineering: Patrick Ryll
+- Front-End Engineering: Lisa Zapson
 - Back-End Engineering: James Childers
 
 ---

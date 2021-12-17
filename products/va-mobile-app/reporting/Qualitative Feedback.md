@@ -5,6 +5,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/14/21: "This is a great app! You can see all your medical appointments, download your benefits letters, and see you vaccinations. I wish we could request travel pay though." (Apple store review)
+
+- 12/13/21: "I really like this app! It's so much easier to get online to this VA app on my smartphone then trying to connect to the VA on my pc! Good job VA for coming up with a quicker way for us disabled veterans to keep in better contact with you!" (Apple store review)
+
 - 12/13/21: "lovely format very user friendly and updated regularly. recommend using this app instead of the actual site. keep up the good work developers :)" (Google play review)
 
 - 12/13/21: "This has to be one of the best things I have seen the VA do. This app is easier for me to use than the web pages, which are all disjointed between VA.gov, my health e vet, and e-benefits. I can see my claims info, health care messages/appointments and locator for VA clinics, community urgent care and pharmacists. Well done on that front. The only thing I wish would be the Rx refill being added to it so I don't have to use more than one app." (Google play review)

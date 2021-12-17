@@ -1,11 +1,12 @@
 # Personal Information Front-End Documentation
 ## Note: This copy assumes the "other" text entry fields are visible by default, even before the user selects "other" option for a given field.
-Last Updated 11/29/2021
+Last Updated 12/15/2021
 
 - [Personal Information Page - Read Only State](#personal-information-page---read-only-state)
 - [Personal Information Page - Blank State](#personal-information-page---blank-state)
 - [Personal Information Page - Edit State](#personal-information-page---edit-state)
 - [Personal Information Page - Edit State - Required _Other_ Fields (Error State)](#edit-state---required-other-fields-error-state)
+- [Personal Information Revision - UXPin prototype](https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i)
 
 ## Personal Information Page - Read-Only State
 
@@ -137,6 +138,10 @@ July 16, 1957
 **Preferred name** <br>
 Edit your profile to add a preferred name <br> 
 {Edit button}
+- _Dev Notes_
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 ---
 
@@ -144,6 +149,10 @@ Edit your profile to add a preferred name <br>
 **Pronouns** <br>
 Edit your profile to add a pronoun <br> 
 {Edit button}
+- _Dev Notes_
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 
 ---
@@ -151,14 +160,18 @@ Edit your profile to add a pronoun <br>
 
 **Sex assigned at birth** 
 Female
-- _Note this is a change to the existing label that currently reads 'Gender'_
-- _Note - this field is non-editable_
+- _Dev Note - this is a change to the existing label that currently reads 'Gender'_
+- _Dev Note - this field is non-editable_
 
 ---
 
 **Gender identity** <br>
 Edit your profile to add a gender identity<br> 
 {Edit button}
+- _Dev Notes_
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
 
 ---
 
@@ -166,14 +179,19 @@ Edit your profile to add a gender identity<br>
 Edit your profile to add a sexual orientation <br> 
 {Edit button}
 
+- _Dev Notes_
+   - _When retrieving data from MPI to display in this field, if the value is not NULL/blank, then this field shall be flagged as required._
+   - _If the initial MPI-derived value is NULL/blank, then the field shall not be flagged as required._
+   - _If the user chooses to add a value to a field that initially contained a NULL/blank value, upon saving that new value, the field shall be flagged as required from that point forward._
+
 ---
 
 
 ## Personal Information Page - Edit State
-  - Note that in the Edit state, only _one_ field is editable at a time.
+  - _Dev Note - in the Edit state, only _one_ section may be edited at a time._
 
 ### Specification
-The Edit state is structured the same as the read-only state, except that the field selected for editing will display form controls listed in the table below.  The Pronouns (3), Gender identity (5), and Sexual orientation (6) fields each provide an "other" option.  When this option is selected, its accompanying text box (3a, 5a, and 6a in the table below) become required.  
+The Edit state is structured the same as the read-only state, except that the field selected for editing will display form controls listed in the table below.  The Pronouns (3), Gender identity (5), and Sexual Orientation (6) fields each provide an "other" option.  When this option is selected for Prounous or Sexual Orientation, the accompanying text field (3a and 6a in the table below) become required if the user attempts to save.  
 ### Sketch Mockups
 - [Personal Information Page - Desktop Edit state](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/52OvGWw)
 
@@ -184,14 +202,13 @@ The Edit state is structured the same as the read-only state, except that the fi
 | Field     | Label                                                                             | Form Control                | Max Length           | Data Type             | Pre-Populated Options                                                                                                                                                            | Comments                                                                                                                                                                                             |
 |-----------|-----------------------------------------------------------------------------------|-----------------------------|----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | 1         | Date of Birth                                                                     | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; no change   
-| 2         | Preferred name                                                                    | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | 25 char limited to be confirmed by MPI
+| 2         | Preferred name                                                                    | Text input                  | 100                   | Char                  | N/A                                                                                                                                                                             | 25 char limited to be confirmed by MPI
 | 3         | Pronouns                                                                          | Checkboxes                  | Pre-filled           | Char                  | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Prefer not to answer"<br>"Pronouns not listed here"                     |                                             |
-| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
+| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 255                 | Char                  | N/A                                                                                                                                                                               | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
 | 4         | Sex assigned at birth                                                             | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
 | 5         | Gender identity                                                                   | Radio buttons               | Pre-filled           | Char                  | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here"                                         |                                                                      |
-| 5a        | If not listed, please provide your gender identity (25 characters maximum)        | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Gender Identity when "Please provided a gender identity in the field provided" is selected<br /><br />25 char limited to be confirmed by MPI   |
 | 6         | Sexual orientation                                                                | Radio buttons               | Pre-filled           | Char                  | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here"   |                                          |
-| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
+| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 255                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
 
 
 ## Edit State - Required _Other_ Fields (Error State)
@@ -209,14 +226,13 @@ The error state displayed on the "other" text fields only occurs if the user sel
 | Field     | Label                                                                             | Form Control                | Max Length           | Data Type             | Pre-Populated Options                                                                                                                                                            | Comments                                                                                                                                                                                             |
 |-----------|-----------------------------------------------------------------------------------|-----------------------------|----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | 1         | Date of Birth                                                                     | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; no change   
-| 2         | Preferred name                                                                    | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | 25 char limited to be confirmed by MPI
+| 2         | Preferred name                                                                    | Text input                  | 100                   | Char                  | N/A                                                                                                                                                                              | 25 char limited to be confirmed by MPI
 | 3         | Pronouns                                                                          | Checkboxes                  | Pre-filled           | Char                  | "He/him/his" <br> "She/her/hers"<br> "They/them/theirs"<br>"Ze/zir/zirs"<br>"Use my preferred name"<br> "Prefer not to answer"<br>"Pronouns not listed here"                     |                                             |
-| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
+| 3a        | If not listed, please provide your preferred pronouns (25 characters maximum)     | Text input                  | 255                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Pronouns when "Pronouns not listed here" is selected<br /><br />25 char limited to be confirmed by MPI            |
 | 4         | Sex assigned at birth                                                             | N/A - non-editable          | N/A - non-editable   | N/A - non-editable    | N/A - non-editable                                                                                                                                                               | Field already exists; only change is updating the label from "Gender" to "Sex assigned at birth"      |                            |
 | 5         | Gender identity                                                                   | Radio buttons               | Pre-filled           | Char                  | “Woman"<br> "Man"<br>"Transgender woman"<br> "Transgender man"<br> "Non-binary"<br>"Prefer not to answer"<br> "A gender not listed here"                                         |                                                                      |
-| 5a        | If not listed, please provide your gender identity (25 characters maximum)        | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Gender Identity when "Please provided a gender identity in the field provided" is selected<br /><br />25 char limited to be confirmed by MPI   |
 | 6         | Sexual orientation                                                                | Radio buttons               | Pre-filled           | Char                  | "Lesbian, gay, or homosexual"<br> "Straight or heterosexual" <br>"Bisexual"<br> "Queer"<br> "Don’t know"<br> "Prefer not to answer"<br> "A sexual orientation not listed here"   |                                          |
-| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 25                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
+| 6a        | If not listed, please provide your sexual orientation (25 characters maximum)     | Text input                  | 255                   | Char                  | N/A                                                                                                                                                                              | Captures custom value for Sexual Orientation when "A sexual orientation not listed here" is selected<br /><br />25 char limited to be confirmed by MPI
 
 
 ## Related GitHub Tickets
@@ -225,5 +241,9 @@ The error state displayed on the "other" text fields only occurs if the user sel
 - [Design Intent Feedback - Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31542)
 - [Content Request for Personal Information Update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31186)
 - [IA Request from Profile team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32031)
+
+
+## Related Slack Threads
+- [12/15/2021 Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1639587317423200) advising that an email exchange from MPI clarifies that Preferred Name is required if a value previously exists, max length of open text fields and the fact that there is no support for an open text entry option for Gender Identity.
 
 

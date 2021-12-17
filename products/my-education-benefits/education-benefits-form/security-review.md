@@ -172,8 +172,9 @@ The implemented endpoints are:
 
 #### Traffic
 
-* How much new traffic are you expecting to send to `vets-api`?
-    * Consider both average (typical weekday traffic) and burst (e.g. an email blast to Veterans)
+* How much new traffic are you expecting to send to `vets-api`? 
+
+The application relies on 4 endpoints to complete a submission. Based on typical education submissions of around 42K a month, we could expect at least 168K additional hits to vets-api. Based on historical peaks of 75K submissions in a month could expect at least 300K hits on such month.
 
 #### Rollout
 
@@ -181,7 +182,6 @@ The implemented endpoints are:
 
 #### Incident response
 
-* Is there a playbook for investigating and handling likely failure modes?
 * Are there new integrations with VA backends? - There is no direct interaction with VA backends. All interactions will be with the DGIB Managed Environment. The DGIB Managed Environment is responsible of all interactions with any VA backends and not hosted on VA.gov
 * What is this backend's latency/availability profile? - 99.9% availability, REST calls are taking typically one to two seconds to respond.
 * Do we have points of contact for each new backend, in case of outages or security incidents? - Yes, we have direct access to the DGIB operations team.

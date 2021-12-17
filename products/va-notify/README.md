@@ -24,6 +24,7 @@ Improve the overall experience and quality of communications with veterans using
 - [Recent Successes](#recent-successes)
 - [Find Out More &amp; Get In Touch With Us](#find-out-more--get-in-touch-with-us)
 - [Incident Response](#incident-response)
+- [Terms and Conditions](#terms-and-conditions)
 _____________________________________________________________________________________________________________________________________________________________
 
 ## What We Currently Offer
@@ -153,3 +154,6 @@ Points of contact:
 * Co-Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
 * Co-Tech Lead: [Philip.Herbert](mailto://philip.herbert@va.gov)
 * Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
+
+## Terms and Conditions
+Please refer to the VA's [Digital Notification Terms and Conditions](https://www.va.gov/privacy-policy/digital-notifications-terms-and-conditions/) page to read about the VA's frequency, guidelines and policies around email, text, and online notifications to Veterans.

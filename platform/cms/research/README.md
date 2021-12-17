@@ -1,5 +1,13 @@
 This lists all formal research with CMS users. Feature-specific research should reside in the cross-disciplinary directory (such as [Editorial Workflow and Assignements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments/)), but should be linked to from here. 
 
+#### November 2021: Vet Center dashboard usability study 
+
+_VA.gov CMS Product Support team: Erika Washburn, Suzanne Gray_
+
+* 5 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/research/vet-center/Vet%20Center%20Dashboard%20Usability%20Study%20Read%20Out.pptx)
+
+
 #### March, 2021: Vet Centers MVP usability study 
 
 _VA.gov CMS team: Jordana Mello, Rachel Kauff, Natalie Dunbar_

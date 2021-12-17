@@ -120,31 +120,31 @@ Nice to haves:
 Timeline
 --------
 
-- Desired Timeline: December 14-16, 2021 
+- Desired Timeline: January 3-5, 2021 
 
 - 30 minute sessions
 
 - Schedule at least 30 minute breaks in-between sessions.
 
 - Team Availability
-  - December 14 - 9am - 5pm EST 
-  - December 15 - 9am - 5pm EST 
-  - December 16 - 8am - 1pm, 3pm - 7pm EST
+  - January 3, 8:30am - 5pm EST 
+  - January 4, 9:30am - 4pm EST 
+  - January 5, 8:30am - 5pm EST 
 
 ### Pilot Session
 
 Team Availability:
 - Pilot participant name and email: Taylor Mitchell tmitchell@governmentcio.com
-- Date and time of pilot session: December 7
+- Date and time of pilot session: 12/22, 3pm EST 
 
 Team Roles
 ----------
 
--   Moderator: Christina Gednalske, Liz Lantz
+-   Moderators: Christina Gednalske (christina.gednalske@adhocteam.us), Liz Lantz (liz.lantz@adhocteam.us, 843-898-4463)
 -   Research guide writing and task development: Christina Gednalske, Liz Lantz
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Christina Gednalske
--   Participant(s) for pilot test: TBD
+-   Participant(s) for pilot test: Taylor Mitchell - tmitchell@governmentcio.com
 -   Note-takers: Perigean
 -   Observers:
 	- Samara Strauss - samara.strauss@va.gov

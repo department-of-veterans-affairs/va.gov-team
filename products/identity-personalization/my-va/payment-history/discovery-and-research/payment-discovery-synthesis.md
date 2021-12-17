@@ -91,3 +91,18 @@ All of the data points are pulled from a single API call from BGS (Benefits Gate
 - View Payment History [link]
 - Request travel reimbursement [https://www.va.gov/health-care/get-reimbursed-for-travel-pay/]
 - Dynamic debt link ('You've got 2 outstanding debt payments)
+
+### Research Questions
+
+**Payment Information**
+
+- Should the 'Travel Reimbursement' link live in the health care section or in the payment information section?
+- How should the sections be ordered on My VA?
+- What information are users looking to see about their most recent deposit?
+- Are we missing any additional links?
+- Where do users expect to see payment information on the site?
+- Do users expect to see debt information in the payment section or as an onsite notification?
+- What is the most important information for users to see related to finances?
+- 
+
+**Onsite Notifications**

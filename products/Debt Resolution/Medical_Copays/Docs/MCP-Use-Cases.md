@@ -30,7 +30,7 @@ searches and gets no results.", etc._
 
 ## Use Case A - Active + Resolved, multiple facilities
 
-Last updated 2021-08-27
+Last updated 2021-12-16
 
 - **Description**
 
@@ -44,7 +44,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+84@gmail.com` (Gregory)
+  - `vets.gov.user+81@gmail.com` (Travis)
 
 ## Use Case B - No history
 
@@ -78,21 +78,13 @@ Last updated 2021-08-27
   doc][mvi-staging-users] \(private repo\)]
   - `vets.gov.user+87@gmail.com` (Daryl)
 
-## Use Case D - Deceased
+## ~~Use Case D - Deceased~~
 
-Last updated 2021-11-17
+Last updated 2021-12-16
 
 - **Description**
 
-  - Veteran's deceased
-
-- **Link to designs**
-
-  - [Copay overview - Veteran is deceased][copay-overview-veteran-deceased]
-
-- **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
-  doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+228@gmail.com` (Ralph)
+This is no longer being tracked due to [VSP findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31472#issuecomment-995863655) a deceases users should not be able to login
 
 [mcp-product-outline]:
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md

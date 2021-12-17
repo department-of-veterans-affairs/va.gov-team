@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## User Story
-As a new VA.gov team member, I need to complete onboarding activities so I can successfully work on my project.
+As a new VA.gov team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov platform.
 
 ## Acceptance Criteria
 - [ ] Each team member has completed each item in the orientation checklist below.

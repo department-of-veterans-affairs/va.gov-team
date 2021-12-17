@@ -8,13 +8,13 @@ We launched the VA.gov benefit hubs as part of the brand consolitation effort in
 
 In the 3 years since the benefit hubs launched, we have continued to add and modify content and make small, iterative changes. Most of this work is reactive, driven by business line requests for updates, changing laws or policies, and additional products. However, we have not reviewed the overall structure and organization of the content to find ways to continually improve how we meet the needs of Veterans and family members. At the same time, we've built a new section for content (Resources and Support), started building products beyond VA.gov that need to draw from VA.gov content (chatbot, mobile app), and started introducing multilingual content in targeted areas.
 
-We need to revisit our overall content and information architecture to optimize the content for Veterans and family members now and make sure our content has the flexibility to work across channels and languages in the future.
+We need to revisit our overall content and information architecture to optimize the content for Veterans and family members now and make sure our content has the flexibility to work across channels and languages in the future. 
 
 ### Complication(s)
 _Describe what’s changed and how it impacts your team._\
 _Leverage techniques like 5 Why’s_ 
 
-- **Resources and Support:** We have a Resources and Support section for supporting content, but not a clear vision for what content belongs in the main benefits hubs, what content belongs in Resources and Support, what should be reusable across both (and beyond), and how the 2 sections work together to support Veterans', service members', and family members' needs.
+- **Resources and Support:** We have a Resources and Support section for supporting content, but not a clear vision for what content belongs in the main benefits hubs, what content belongs in Resources and Support, what content doesn't fit in either and may need new potential homes, what should be reusable across benefit hubs, R&S, and beyond, and how the sections work together to support Veterans', service members', and family members' needs.
 - **Content migration:** We have more Veteran-facing content to migrate into the modernized experience. We want to have a holistic strategy in place that informs how we migrate that content. 
 - **New initiatives:** New initiatives such as "My VA" and the "health apartment" will impact benefit hubs, and we need to make sure our work is aligned with these initiatives.
 - **More content channels:** OCTO is creating more channels for content (such as the mobile app and the chatbot). We need to work toward structuring content in a way that it can be stored centrally and used modularly across channels. 
@@ -29,7 +29,7 @@ _What’s the fundamental question you are going  to answer?_
 
 Are there opportunities to optimize the structure and content of the existing benefit hubs to better help Veterans and their family members get and manage their benefits?  
 - Can Veterans and family members find the most important content easily?
-- Is there any content within the Get benefits section that Veterans and family members aren't using (and if so, why)?
+- Is there any content within the Get benefits section that Veterans and family members aren't using (and if so, why)? Can this content move into R&S?
 - Are there opportunities to reduce the cognitive load on benefit hub pages? 
 
 #### Longer-term questions
@@ -63,8 +63,15 @@ _How will you know the problem is solved? What data will you look for?_
 
 ## Estimated timing and steps
 
-1. Discovery around benefit content performance: Wrap up early January
-2. Define the strategic relationship between benefits hubs and R&S: Ready mid-January
-3. Testing: Mid-January to mid-February
-4. Define information types of modular content: Mid-February
-5. Begin content migration project following new strategy and information types for reusable content (recognizing that technical capabilities will likely not be in place at this time): Start end of February
+### Near-term:
+
+1. Share initial findings for benefit content performance: Mid January
+2. Define the initial strategic relationship between benefits hubs/R&S/other content areas and initial governance structure + document risks and constraints: Mid-to-late January
+3. Start content planning group pilot to migrate targeted health content: Late January (official kickoff; discussions started already) 
+
+### Long-term
+
+1. Create backlog of content/IA improvements for benefit hubs
+2. Define information types of modular content
+
+
