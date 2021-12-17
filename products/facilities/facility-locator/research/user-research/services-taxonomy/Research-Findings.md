@@ -1,5 +1,3 @@
-[Pre-Approval]
-
 # Non-Clinical Services Taxonomy - Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Facility Locator, Facilities Team**
