@@ -1,15 +1,16 @@
-!!!! Marian please update the text below. 
+
 
 # Long COVID Initiative
-```One sentence definition of the project.```
+```To better understand Veterans' experience across the COVID continuum and in particular with long-COVID/PASC.```
 
 # About the Product
 ## North Star Goal 
-```Describe the goal of the project.```
+```To have a comprehensive understanding of long-COVID symptoms and current treatments as well as digital toolsets to enable clinicians to best care for impacted Veterans.```
 
 
 ## User Problem Statement
-```Create a user problem statement```
+```Veteran: Care is potentially uncoordinated and fragmented in nature leading to Veteran confusion and sub-optimal service and health.
+Clinician: Standardized clinical practice guidelines and associated toolsets to enable coordinated care are limited in capability for a novel infectious agent causing persistent multi-system health challenges.```
 
 ## About the Team
 ### GitHub/ZenHub
@@ -33,7 +34,7 @@ Engineering:
 - 
 
 ### What We're Working On
-- Name the core initiatives that you're building or working on
+- Name the core initiatives that you're building or working on: CDSP, Arches, Rockies, etc.
 
 
 ### Product Documentation
@@ -43,9 +44,10 @@ Engineering:
 
 ### Who We Work With
 VA Business Owners:
-- 
-- 
+- OHIL: Ryan Vega, MD & Amanda Purnell, PhD
+- CIDMO: Paul Veregge, MD, Jonathan Nebecker, MD, etc.
+- ORD: David Atkins, MD, etc.
 VA Stakeholders & their roles: 
 - 
 - 
-!!! Marian please replace this text. 
+
