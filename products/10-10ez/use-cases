@@ -1,5 +1,4 @@
-
-## A. Authenticated Use Cases and Scenarios: without pre-populated data
+** A. Authenticated Use Cases and Scenarios: without pre-populated data**
 * Description** Check for correct text display and button functionality:   
        - Does the American Indian question appear on the 10-10EZ on-line application form as per design mock (after after the race, ethnicity, origin question)?
        - Does clicking the drop-down button next to "What it means to be recognized..." display appropriate additional text?
