@@ -261,7 +261,6 @@ This depends on whether the Perigean contract is back up and running.
 
 ## Sprint 64 (12/29 - 1/11)
 
-- Is there a better way for us to learn about issues (eg. direct deposit for edu issue) than relying on veterans to tell us there's a problem?
 - Update "Add a mobile phone" link [#34241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34241)
 
 ### Direct deposit latency issue
@@ -273,6 +272,7 @@ For Lihan:
 - Catch up on converstion in #bgs-direct-deposit-payment-info-debugging
 - Determine if we need to make any changes to logging to prevent additional latentcy ([See this Slack convo](https://dsva.slack.com/archives/C02Q9FL124F/p1639786132335600))
   -  If changes are needed, make those changes 
+- Is there a better way for us to learn about issues (eg. direct deposit for edu issue) than relying on veterans to tell us there's a problem?
 
 ## Sprint 65 (1/12 - 1/25)
 
