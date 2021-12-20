@@ -32,6 +32,11 @@
 - [Footnotes](#footnotes)
 
 ## Problem Statement
+### Ideal situation
+### Reality 
+### Consequences
+### Proposal
+
 ## User Outcomes
 
 ### Positive
