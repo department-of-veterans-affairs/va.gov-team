@@ -174,6 +174,17 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **Then** I should be shown a message which requires me to make a change to my information before submitting  
 **And** my browser should not initiate a request to any APIs inorder to update my information  
 
+**Scenario:** User attempts to submit demographics information after browser session has timed out   
+
+**Given** I have _fully authenticated_[^1] using my va.gov credentials  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I have entered into edit mode on the form  
+**And** I have made changes to my current demographics information on the form    
+**And** I wait on the edit page until my va.gov session times out  
+**When** I submit the form to update and save my information to the VA systems  
+**Then** I should be shown a message which informs me that my va.gov session has timed out and that I need to re-autheticate fully again before editing    
+**And** I should continue to remain on the demographics page    
+
 ### Clever Case Stories
 
 ---
