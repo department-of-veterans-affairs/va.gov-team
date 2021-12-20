@@ -33,8 +33,12 @@
 
 ## Problem Statement
 ### Ideal situation
-### Reality 
+Veterans can update their _demographics data_[^2] for upcoming appointments during their Pre-Check-In or their day of Check-In workflows through the va.gov website.
+
+### Reality
+
 ### Consequences
+
 ### Proposal
 
 ## User Outcomes
@@ -250,4 +254,5 @@
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## Footnotes
-[^1]: User has authenticated on va.gov using their ID.me account or another identity provider.
+[^1]: Fully authenticated: User has authenticated on va.gov using their ID.me account or another identity provider.  
+[^2]: Demographics data: Includes veteran contact information, next of kin information, and emergency contact information.  
