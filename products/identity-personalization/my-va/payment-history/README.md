@@ -167,7 +167,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
   - There is a question on whether we should display specific details on the last payment amount made to the veteran OR specific details on the outstanding debt.  
     - We will be conducting usability testing to determine the most effective and useful information to display to veterans.
-  - Our research shows that direct deposit management and travel reimbursement are other top financial related searches, and we intend to include a link to manage each of them.  
+  - Our research shows that direct deposit management is another other top financial related search, and we intend to include a link to manage it.  
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
@@ -211,7 +211,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - How to access and test
     - [Staging env](https://staging.va.gov/my-va/)
     - Testing documentation
-    - Payments Information test/use cases & users
+    - [Payments Information test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-PaymentInfo.md)
     - Payments Information a11y test case documentation
 - Release plan
 - [Production env](https://www.va.gov/my-va/)
