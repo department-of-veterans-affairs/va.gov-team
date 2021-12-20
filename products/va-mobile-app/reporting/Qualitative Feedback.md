@@ -5,6 +5,9 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/17/21: "Cool experience of the week: today SecVA cold-called me via Teams chat en route to the airport. He wanted to tell me he had just finished up an event in a Texas VetCenter where a Veteran had, unprompted, spoken about the new VA mobile app, and how much he liked it. The Veteran pulled up the app on his phone and proceeded to encourage all the other Veterans in attendance to download it. He also offered some ideas for what he wished it could do. SecVA asked us to follow up with the Veteran and hear his feedback directly, which is in progress now.
+Definitely a great feeling to have users sing the praises of your products to the Secretary - and more importantly to other Veterans! Let's keep it up!" (Charles Worthington via Slack)
+
 - 12/14/21: "This is a great app! You can see all your medical appointments, download your benefits letters, and see you vaccinations. I wish we could request travel pay though." (Apple store review)
 
 - 12/13/21: "I really like this app! It's so much easier to get online to this VA app on my smartphone then trying to connect to the VA on my pc! Good job VA for coming up with a quicker way for us disabled veterans to keep in better contact with you!" (Apple store review)
