@@ -30,7 +30,7 @@
 
 ## Monday, January 3, 2021
 
-Cancelled?
+* TBD
 
 ## Monday, December 27, 2021
 
