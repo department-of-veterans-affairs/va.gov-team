@@ -15,12 +15,12 @@
     - [Workflow One](#workflow-one)
 - [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Questions](#engineering-questions)
+- [Application Performance Management](#application-performance-management)
+- [Testing](#testing)
 - [Engineering Collaboration](#engineering-collaboration)
 - [Engineering Proposals](#engineering-proposals)
 - [Applications and Services](#applications-and-services)
-    - [Application Performance Management](#application-performance-management)
-    - [Testing](#testing)
-    - [Footnotes](#footnotes)
+- [Footnotes](#footnotes)
 
 ## Problem Statement
 ## User Outcomes
@@ -148,6 +148,10 @@
 
 ## Engineering Questions
 
+## Application Performance Management
+
+## Testing
+
 ## Engineering Collaboration
 
 ## Engineering Proposals
@@ -190,10 +194,6 @@
 
 - #### References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
-
-## Application Performance Management
-
-## Testing
 
 ## Footnotes
 [^1]: User has authenticated on va.gov using their ID.me account or another identity provider.
