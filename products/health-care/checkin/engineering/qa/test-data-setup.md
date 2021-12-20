@@ -31,6 +31,32 @@ These endpoints require entering the `patientDfn` (this is the patient Identifie
 
 <a name="end-to-end-testing-workflow-section"></a>
 
+# Pre check-in Testing Workflow
+
+## Network access
+
+You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
+
+## Test harness
+
+You will need the CHIP Insomnia collection, ask a CHIP team member for it.
+
+## Create Appointment
+
+Create an appointment for any time between tomorrow and 14 days from now.
+
+## Call the pre-checkin endpoint
+
+Using the CHIP/Test Harness Insomnia collection:
+
+- Select the "CHIP Preprod" environment at the top left
+- Select "Pre Check In" Under the CHIP collection on the left
+- Ensure that the station number, patient ien and patient details match those used for the appointment you created
+- You will need the `appointmentIEN` for the appointment you created. Since it is not returned by the appointment creation endpoint, the easiest way to get it is to send the request with an incorrect `appointmentIEN` and look at the CloudWatch logs for the `initiatePrecheckin` function. There will be a log starting with "Appointment IENs found" - the highest number should be correct.
+- After re-sending the request with the correction `appointmentIEN`, you should receive a UUID back - to test pre-checkin, go to:
+
+http://staging.va.gov/health-care/appointment-pre-check-in/?id={uuid}
+
 # End to End Testing Workflow
 
 ## Network access
