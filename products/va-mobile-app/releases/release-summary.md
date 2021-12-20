@@ -1,5 +1,22 @@
 # VA Mobile team - Release Highlights
 
+## Release: 1/04/22
+
+New + Improved
+
+- Vaccine Records added to Demo Mode
+- Add analytics for clicks on COVID buttons from respective Home or Health screens
+
+Bug Fixes
+
+- Address screen reader accessibility issues
+   - Secure Messages screen
+   - Profile & Letters screen
+   - Vaccine list screen to fix saying minus for dates
+
+
+
+
 ## Release: 12/21/21
 
 New + Improved
