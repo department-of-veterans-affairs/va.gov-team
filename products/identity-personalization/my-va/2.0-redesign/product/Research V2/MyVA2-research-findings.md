@@ -287,11 +287,4 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 
 ### Pages and applications used
 
-[Mobile Prototype](https://vsateams.invisionapp.com/share/XNZWCYAYD45#/444774121_Home_Screen)
-
-
-
-
-
-
-
+[Mobile Prototype](https://vsateams.invisionapp.com/console/share/XNZWCYAYD45/600538454)
