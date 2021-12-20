@@ -32,14 +32,13 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 **Contractors from MO Studio and its partners**
 - Jeff Scheire (CEO, MO Studio)
-- Paula Mendoza (UX)
 - Nadya Primak (FE engineering, also some BE)
 - Jared Cooke (FE engineering)
-- TBD (product manager)
-- TBD (UX design lead)
+- Jordan White (product manager)
+- Jasvir (Jesse) Singh (UX design lead)
 - TBD (UX designer) - Re: the 2 UX designers, need these skills: user research (priority), service design (priority). Visual design skills needed, too.
 - TBD (delivery manager) - This person is a writer, communicator, organizer. Skilled in internal comms and product documentation. Not running the scrum.
-- TBD (content strategist + plain language writer) - Supports Meg in working on IA and content strategy.
+- Carl Dickerson (content strategist + plain language writer) - Supports Meg in working on IA and content strategy.
 
 ## Stakeholders
 Most of the folks below are product people. Roles show next to names of non-product people (some items are not products). Everyone is a fed unless identified as a contractor. 
@@ -123,7 +122,6 @@ Notes:
 
 -	Although MO Studio continues to hire and ramp up staff, a full team with required skillsets have not started on the project.
 -	Federal team needs an OCTO engineer + staff from OCC / My HealtheVet (skills needed from OCC are TBD). 
--	Without clearly defining scope through a detailed roadmap, the complexity of the task could bog the team down.
 -	There are a lot of stakeholders within OCTO and OCC who require buy in, with a lot of things in flight, there is room for error if the checkins and sign offs aren't scheduled well in advance. 
 -	Without significant research and testing, the project could further fragment the UX before simplifying it.
 -	Without a tech lead and immense knowledge of VA's tech restraints and APIs, there are a lot of challenges and setbacks that could arise. 
