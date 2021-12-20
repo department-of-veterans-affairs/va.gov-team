@@ -173,8 +173,11 @@
 > The CheckIn module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API. 
 
 ### CHIP
+
 ### LoROTA
+
 ### VISTA
+
 ### Vetext
 
 ### VA.gov Profile
