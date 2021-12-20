@@ -4,7 +4,7 @@
 
 New + Improved
 
-- Vaccine Records added to Demo Mode
+- Vaccine Records added to Demo Mode (Internal)
 - Add analytics for clicks on COVID buttons from respective Home or Health screens
 
 Bug Fixes
