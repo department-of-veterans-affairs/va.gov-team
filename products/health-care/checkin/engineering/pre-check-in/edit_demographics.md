@@ -151,7 +151,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **And** I now have the ability to edit all of my demographics information  
 **When** I edit any or all of my demographics info and submit the changes  
 **Then** I can see that my changes have been validated  
-**And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
+**And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 **And** I can see that I have the ability to Check-In to my appointment without any further types of authentication  
 
 
