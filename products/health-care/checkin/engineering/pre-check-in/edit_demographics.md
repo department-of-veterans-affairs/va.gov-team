@@ -44,6 +44,8 @@ Not having the ability to update _demographics_data_[^2] is a loss of value to t
 
 ### Proposal
 
+The Check-In-Experience team seeks to resolve this issue iteratively by leveraging existing engineering pipelines and systems, and additionally, identifying and implementing new systems and services which will facilitate the desired workflow.
+
 ## User Outcomes
 
 ### Positive
