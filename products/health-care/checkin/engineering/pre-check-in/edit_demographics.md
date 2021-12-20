@@ -40,6 +40,8 @@ Veterans **cannot** update their _demographics data_[^2] for upcoming appointmen
 
 ### Consequences
 
+Not having the ability to update _demographics_data_[^2] is a loss of value to the Check-In and Pre-Check-In features.
+
 ### Proposal
 
 ## User Outcomes
