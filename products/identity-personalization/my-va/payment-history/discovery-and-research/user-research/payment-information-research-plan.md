@@ -1,4 +1,4 @@
-Research Plan for Authenticated Experience team, Logged-in homepage, May 2020
+Research Plan for Authenticated Experience team, Payment information, January 2022
 ===============================================================================
 
 Goals
@@ -18,31 +18,18 @@ As time has gone on, My VA has grown but scaled poorly due to the structure set 
 
 **Payment Information**
 
-Should the 'Travel Reimbursement' link live in the health care section or in the payment information section?
-How should the sections be ordered on My VA?
-What information are users looking to see about their most recent deposit?
-Are we missing any additional links?
-Where do users expect to see payment information on the site?
-Do users expect to see debt information in the payment section or as an onsite notification?
-What is the most important information for users to see related to finances?
-How long do you expect to see that you've been paid the most recent payment?
+- Should the 'Travel Reimbursement' link live in the health care section or in the payment information section?
+- How should the sections be ordered on My VA?
+- What information are users looking to see about their most recent deposit?
+- Are we missing any additional links?
+- Where do users expect to see payment information on the site?
+- Do users expect to see debt information in the payment section or as an onsite notification?
+- What is the most important information for users to see related to finances?
+- How long do you expect to see that you've been paid the most recent payment?
 
 **Onsite Notifications**
 
-**3. Research questions: What question(s) do you hope to be able to answer after completing this research?**
 
-  - Why do participants log in to VA.gov?
-    - Currently
-    - Expectations for the future
-  - What do people think the difference should be between the profile and dashboard/logged-in homepage? 
-  - Should there be a meaningful difference? 
-  - What content do people expect to see in either section?
-  - What types of notifications do people expect to see?
-  - Where do people expect to see/receive notifications? 
-  - How do we balance
-    - notification info (status update/action items), 
-    - widgets (showing upcoming appointments, their local VAMC, maybe delivery updates for prescriptions, etc), and 
-    - links into tools (eg. top tasks)?
 
 **4. What is your hypothesis for this research?**
 
