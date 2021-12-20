@@ -173,6 +173,18 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **When** I submit the form to update and save my information to the VA systems  
 **Then** I should be shown a message which requires me to make a change to my information before submitting  
 **And** my browser should not initiate a request to any APIs inorder to update my information  
+**And** I should continue to remain on the demographics page  
+
+**Scenario:** User attempts to submit blank demographics information 
+
+**Given** I have _fully authenticated_[^1] using my va.gov credentials  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I have entered into edit mode on the form  
+**And** I have cleared the form of all my demographics information  
+**When** I submit the form to update and save my information to the VA systems  
+**Then** I should be shown a message which requires me to enter valid demographics information in all required fields  
+**And** my browser should not initiate a request to any APIs inorder to update my information  
+**And** I should continue to remain on the demographics page  
 
 **Scenario:** User attempts to submit demographics information after browser session has timed out   
 
@@ -191,6 +203,17 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 > **In order** to not have a bad user experience when I use the demographics update feature in a way that it's not meant to be  
 > **As a** Veteran  
 > **I want** the website to catch my actions and show me meaningful messages   
+
+**Scenario:** User attempts to submit invalid demographics 
+
+**Given** I have _fully authenticated_[^1] using my va.gov credentials  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I have entered into edit mode on the form  
+**And** I have entered meaningless information(random words or strings) into the form   
+**When** I submit the form to update and save my information to the VA systems  
+**Then** the backend services should be smart enough to recognize that something is not right with the submitted information
+**And** I should be shown a message to talk to a staff member first
+**And** I should continue to remain on the demographics page  
 
 ## Exploring Workflows
 
