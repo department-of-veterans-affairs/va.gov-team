@@ -34,11 +34,11 @@
 
 ## Monday, December 27, 2021
 
-Cancelled?
+Cancelled
 
 ## Monday, December 20, 2021
 
-Cancelled?
+Cancelled
 
 ## Monday, December 13, 2021
 * Integrating/being informed of changes in VAST - both Lighthouse and CMS teams
