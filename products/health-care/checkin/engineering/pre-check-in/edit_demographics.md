@@ -177,6 +177,10 @@
 
 ### CHIP
 
+> Check-In Integration Point API.
+
+[CHIP Readme](https://github.com/department-of-veterans-affairs/chip#readme)  
+
 ### LoROTA
 
 > Low Risk One Time Authentication, or LoROTA, is a simple service that uses a unique key (UUID)passed between a user and various services to authenticate that user for certain low risk activities, like form submission.
