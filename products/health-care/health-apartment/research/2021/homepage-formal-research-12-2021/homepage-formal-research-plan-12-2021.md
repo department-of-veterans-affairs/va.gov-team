@@ -20,9 +20,9 @@ This study focuses on 3 main areas:
 ### Hypotheses
 For each question above, respectively, we believe the following:
 * Veterans want to see specific tasks on the homepage. They want to see tasks and information relevant to them. This fits with a recurring theme in previous research, that Veterans are task-oriented.
-* When Veterans sign in, they expect the website to show them: 1) current health information and tasks (exs: appointments, secure messages, and refills due), and 2) whether they must take action to move a process forward (ex: finish health care application).
+* When Veterans sign in, they expect the website to show them: 1) current health information and tasks (exs: appointments, secure messages, and refills due), and 2) whether they must take action to move a process forward (ex: progress a disability claim).
 * Veterans are overwhelmed by too much text. They want well-organized content that guides them to a task or resource quickly, simply, and clearly using plain language. 
-* Veterans with health care want to see "about" information because either: 1) they need to understand general info on VA health care (i.e., what they get), or 2) they want to share "about" info with other Veterans. 
+* Veterans with health care want to see a balance of personalized and general resources. 
 
 ## Method
 We'll use semi-structured interviews and observations for this study. This allows us to ask prepared questions and document Veterans' behavior as they explore the homepage design, also giving us the flexibility to pivot and ask follow-up questions should an interesting thread reveal itself. The in-depth qualitative information we'll glean from this study will help us iterate on our design concept. 
@@ -33,12 +33,11 @@ Here is the [conversation guide](https://github.com/department-of-veterans-affai
 We'll conduct user research remotely online using MO Studio's Zoom account.
 
 ## Recruitment approach
-We are planning to conduct guerrilla research. We will identify Veterans in our social networks and coordinate with them to set up research sessions on Zoom. We will do this on a rolling basis, talking to at least 6 participants (3 on mobile, 3 on desktop) from December 10 to December 13. 
-
+We are planning to recruit through Perigean. 
 ## Recruitment criteria
 
 ### Primary criteria
-We will test the authenticated mobile and desktop homepage concepts with at least 6 Veterans who have VA health care.
+We will test the authenticated mobile and desktop homepage concepts with at least 12 Veterans
 
 ### Secondary criteria
 * At least 4 Veterans who use the My HealtheVet website to manage their VA health care, and
