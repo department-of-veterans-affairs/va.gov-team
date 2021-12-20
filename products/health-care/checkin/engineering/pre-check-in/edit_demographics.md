@@ -174,6 +174,7 @@
 > This is the application that powers the main va.gov website.  
 > **Day of Check-In**  
 > This application is for veterans to check into their health appointments on the day of care. 
+> 
 > **Pre-Check-In**  
 > This application is going to be filled out by veterans days before the appointment. The veteran will be able to confirm various aspects of their appointment and information.
 
