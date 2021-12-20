@@ -21,6 +21,7 @@
 - [Testing Solution](#testing-solution)
 - [Application Performance Management](#application-performance-management)
 - [Applications and Services](#applications-and-services)
+    - [Vets Website](#vets-website)
     - [Vets-API](#vets-api)
     - [CHIP](#chip)
     - [LoROTA](#lorota)
@@ -167,6 +168,18 @@
 ## Application Performance Management
 
 ## Applications and Services
+
+### Vets Website
+
+> This is the application that powers the main va.gov website.  
+> **Day of Check-In**  
+> This application is for veterans to check into their health appointments on the day of care. 
+> **Pre-Check-In**  
+> This application is going to be filled out by veterans days before the appointment. The veteran will be able to confirm various aspects of their appointment and information.
+
+[Day of Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/day-of#readme)  
+[Pre-Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/pre-check-in#readme)  
+
 ### Vets-API
 
 > This project provides common APIs for applications that live on VA.gov (formerly vets.gov APIs). 
