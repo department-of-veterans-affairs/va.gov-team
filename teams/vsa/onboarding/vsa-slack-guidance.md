@@ -77,7 +77,7 @@ All of you (except shared resources) have been assigned a team when you first jo
 
 * Benefits & Memorials 2 - [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)
 
-* Caregiver - [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
+* 10-10 (formally Caregiver) - [#vsa-1010](https://dsva.slack.com/channels/vsa-1010)
 
 * Decision Tools - [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools) 
 
