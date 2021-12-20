@@ -25,6 +25,7 @@
     - [Vets-API](#vets-api)
     - [CHIP](#chip)
     - [LoROTA](#lorota)
+    - [Profile Service](#profile-service)
     - [Vista](#vista)
     - [VEText](#vetext)
     - [VA.gov Profile](#vagov-profile)
@@ -224,6 +225,10 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 > Low Risk One Time Authentication, or LoROTA, is a simple service that uses a unique key (UUID)passed between a user and various services to authenticate that user for certain low risk activities, like form submission.
 
 [LoROTA Readme](https://github.com/department-of-veterans-affairs/lorota#readme)  
+
+### Profile Service
+
+> Provides functionality related to grouping of clinics  
 
 ### VISTA
 
