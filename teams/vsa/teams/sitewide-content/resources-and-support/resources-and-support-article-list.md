@@ -68,3 +68,4 @@
 | 66 | [What’s a Veteran Health ID Card (VHIC) and how do I get one?](https://www.va.gov/resources/whats-a-veteran-health-id-card-vhic-and-how-do-i-get-one/) | Health care | 10/18/21 |
 | 67 | [How we determine your Post-9/11 GI Bill coverage](https://www.va.gov/resources/how-we-determine-your-post-911-gi-bill-coverage/) | Education | 10/18/21 |
 | 68 | [How are pension benefits and disability compensation different?](https://www.va.gov/resources/how-are-pension-benefits-and-disability-compensation-different/) | Disability | 11/5/21 |
+| 69 | [Will I have to pay back the GI Bill benefits I used if I fail a class?](https://www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) | Education | 12/17/21 |
