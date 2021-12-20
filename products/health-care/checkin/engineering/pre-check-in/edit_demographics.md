@@ -33,9 +33,10 @@
 
 ## Problem Statement
 ### Ideal situation
-Veterans can update their _demographics data_[^2] for upcoming appointments during their Pre-Check-In or their day of Check-In workflows through the va.gov website.
+Veterans can update their _demographics data_[^2] for upcoming care(appointemnts) during their Pre-Check-In or their day of Check-In workflows through the va.gov website and updated _demographics data_[^2] is saved instantly to all of the internal systems which require and rely on that data for business needs.
 
 ### Reality
+Veterans **cannot** update their _demographics data_[^2] for upcoming appointments during their Pre-Check-In or their day of Check-In workflows through the va.gov website.
 
 ### Consequences
 
