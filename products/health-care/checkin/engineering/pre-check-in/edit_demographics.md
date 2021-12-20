@@ -1,5 +1,5 @@
 
-# Pre Check-in, Demographics Editing: Systems Design and Architecture exploration
+# Pre Check-in and day of Check-In, Demographics Editing: Technical Discovery and Systems Architecture exploration
 
 ## Sections
 - [Problem Statement](#problem-statement)
