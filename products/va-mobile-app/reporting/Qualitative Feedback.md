@@ -115,6 +115,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 ## Disability claim status
 
+- 12/17/21: "Is it just me or is my compensation claim moving really fast. Anyone else have a claim go through pretty quick? BTW the new VA app is awesome!" [Reddit link](https://www.reddit.com/r/Veterans/comments/rimr75/is_it_just_me_or_is_my_compensation_claim_moving/)
+
 - 11/28/21: "I would like to see more detailed information about my claim status on the website. My status has been showing the same number for 3 months now and it would help a lot to have more detail on where exactly the claim is in the process. Evidence gathering, review, and decision is a really broad and unspecific description of the claim status." (Apple store review)
 
 - 11/22/21: "App is decent but can be much better. Like actually giving some information on where EXACTLY claim is. More than just we received your claim. How bout claim was received on June 20 by Jane smith. Jane smith is doing or is waiting for x y and z. Your claim has moved to John Doe and he is working on x, y, and z. Telling the vet that his claim is up to date as of the current date is misleading because they may think that there was an update when the app is just giving him the date and time they first logged in for that day. The name of the person working on your claim and/or the office where the calim is located would be beneficial as well." (Apple store review)
