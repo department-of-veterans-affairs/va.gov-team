@@ -26,7 +26,7 @@
     - [LoROTA](#lorota)
     - [Vista](#vista)
     - [Vetext](#vetext)
-    - [VA.gov Profile](#va.gov-profile)
+    - [VA.gov Profile](#vagov-profile)
     - [VA Profile](#va-profile)
 - [Footnotes](#footnotes)
 
