@@ -10,7 +10,7 @@
 
 *In the Attendees section, make sure everyone except the participant is on mute.*
 
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
+*In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
 
 *Check your [screensharing setup] and share permissions for participants.*
 
