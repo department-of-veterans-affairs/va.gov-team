@@ -19,6 +19,7 @@
 - [Testing](#testing)
 - [Engineering Collaboration](#engineering-collaboration)
 - [Engineering Proposals](#engineering-proposals)
+- [Engineering Solution](#engineering-solution)
 - [Applications and Services](#applications-and-services)
 - [Footnotes](#footnotes)
 
@@ -155,6 +156,8 @@
 ## Engineering Collaboration
 
 ## Engineering Proposals
+
+## Engineering Solution
 
 ## Applications and Services
 ### Vets-API
