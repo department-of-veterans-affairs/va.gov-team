@@ -272,6 +272,7 @@ For Lihan:
 
 - Catch up on converstion in #bgs-direct-deposit-payment-info-debugging
 - Determine if we need to make any changes to logging to prevent additional latentcy ([See this Slack convo](https://dsva.slack.com/archives/C02Q9FL124F/p1639786132335600))
+  -  If changes are needed, make those changes 
 
 ## Sprint 65 (1/12 - 1/25)
 
