@@ -189,6 +189,8 @@
 
 ### VISTA
 
+> Stands for Veterans Health Information Systems and Technology Architecture, and it's one of the VA's systems for managing veterans electronic health records.
+
 ### Vetext
 
 ### VA.gov Profile
