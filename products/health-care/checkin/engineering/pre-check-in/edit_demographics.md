@@ -197,6 +197,18 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **Then** I should be shown a message which informs me that my va.gov session has timed out and that I need to re-autheticate fully again before editing    
 **And** I should continue to remain on the demographics page    
 
+**Scenario:** User submits valid demographics information changes and their is an error downstream in the services layer  
+
+**Given** I have _fully authenticated_[^1] using my va.gov credentials  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I have entered into edit mode on the form  
+**And** I have made valid changes to my current demographics information  
+**When** I submit the form to update and save my information to the VA systems  
+**And** there is an error processing the data downstream or the service is simply unavailable  
+**Then** I should be shown a message which apologizes to me and asks me to retry again or see a staff member 
+**And** I should continue to remain on the demographics page  
+**And** the edits I made prior to the error should still be available in the form    
+
 ### Clever Case Stories
 
 ---
