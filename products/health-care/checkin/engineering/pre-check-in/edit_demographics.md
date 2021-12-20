@@ -10,7 +10,7 @@
 - [User Scenarios](#user-scenarios)
     - [Happy Path Stories](#happy-path-stories)
     - [Error Path Stories](#error-path-stories)
-    - [Clever Path Stories](#clever-case-stories)
+    - [Clever Case Stories](#clever-case-stories)
 - [Exploring Workflows](#exploring-workflows)
     - [Workflow One](#workflow-one)
 - [Staff Facing Dependencies](#staff-facing-dependencies)
