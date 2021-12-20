@@ -211,8 +211,8 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **And** I have entered into edit mode on the form  
 **And** I have entered meaningless information(random words or strings) into the form   
 **When** I submit the form to update and save my information to the VA systems  
-**Then** the backend services should be smart enough to recognize that something is not right with the submitted information
-**And** I should be shown a message to talk to a staff member first
+**Then** the backend services should be smart enough to recognize that something is not right with the submitted information  
+**And** I should be shown a message asking me to talk with a staff member first  
 **And** I should continue to remain on the demographics page  
 
 ## Exploring Workflows
