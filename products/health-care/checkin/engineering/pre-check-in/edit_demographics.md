@@ -189,7 +189,7 @@
 > They are an entirely separate team that we work with, and they work with a lot of other teams.
 
 - #### References:
-  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md
+  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## Application Performance Management
 
