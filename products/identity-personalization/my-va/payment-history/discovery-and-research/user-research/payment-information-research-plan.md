@@ -10,9 +10,7 @@ Payment infrormation section on My VA for the Authenticated Experience team
 
 **2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
-Prior to the launch of the redesigned VA.gov in November 2018, the logged in homepage on Vets.gov was a personalized dashboard that allowed veterans to view their in-progress applications, claims, messages, and prescriptions. When the new VA.gov launched, this dashboard was renamed My VA and moved to a different location; users' logged in homepage remained the same as the logged out homepage.
 
-As time has gone on, My VA has grown but scaled poorly due to the structure set by the MVP. Additionally, the logged in homepage and My VA compete for Veteran attention and focus. 
 
 **3. Research questions: What question(s) do you hope to be able to answer after completing this research?**
 
