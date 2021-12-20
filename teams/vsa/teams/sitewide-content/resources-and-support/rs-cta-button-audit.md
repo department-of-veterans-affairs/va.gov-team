@@ -22,6 +22,7 @@
 | Education and training | [GI Bill WAVE FAQs](https://www.va.gov/resources/gi-bill-wave-faqs/) | Log in to WAVE | |
 | Education and training | [How we determine your percentage of Post-9/11 GI Bill benefits](https://www.va.gov/resources/how-we-determine-your-percentage-of-post-911-gi-bill-benefits/) | Check your Statement of Benefits | |
 | Education and training | [How your reason for withdrawing from a class affects your VA debt](https://www.va.gov/resources/how-your-reason-for-withdrawing-from-a-class-affects-your-va-debt/) | Learn about VA debt management | |
+| Education and training | [ Will I have to pay back the GI Bill benefits I used if I fail a class? ](https://www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) | Check your Statement of Benefits | |
 | Health care | [How to set up direct deposit for VA travel pay reimbursement](https://www.va.gov/resources/how-to-set-up-direct-deposit-for-va-travel-pay-reimbursement/) | Go to the AccessVA travel claim portal | Get VA Form 10091 |
 | Health care | [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/) | Go to the AccessVA travel claim portal | |
 | Health care | [Can I get free health care and prescriptions as a Veteran?](https://www.va.gov/resources/can-i-get-free-health-care-and-prescriptions-as-a-veteran/) | Learn about your VA health care costs |  |
