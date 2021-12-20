@@ -74,12 +74,12 @@ Ideally get at least 1 participant from each:
 * Veterans who do not use the My HealtheVet website will help us understand if the health apartment homepage is easy to use for people who do not use My HealtheVet.
 
 ## When?
-Conduct research: December 10-13, 2021
+Conduct research: TBD, Late January-Early February
 
 Length of session: 30 minute sessions with 15 minutes between sessions
 
-Moderator availability: 7AM - 9PM ET December 10-13, 2021.
+Moderator availability: TBD
 
-Draft of conversation guide complete: December 3
+Draft of conversation guide complete: TBD
 
 Mock interview complete: TBD
