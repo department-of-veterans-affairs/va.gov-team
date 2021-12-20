@@ -177,7 +177,7 @@
 
 ### CHIP
 
-> Check-In Integration Point API.
+> Check-In Integration Point API. Provides Veterans with a unified front door experience for preparing for and checking into their clinical appointments. Including, changing the process for outpatient clinical workflow that improves efficiency and decrease devices requiring publicly accessible shared surfaces that may increase the transmissions of communicable diseases like COVID-19.
 
 [CHIP Readme](https://github.com/department-of-veterans-affairs/chip#readme)  
 
