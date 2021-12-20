@@ -196,20 +196,23 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 ### Vets Website
 
-> This is the application that powers the main va.gov website.  
-> **Day of Check-In**  
-> This application is for veterans to check into their health appointments on the day of care. 
-> 
-> **Pre-Check-In**  
-> This application is going to be filled out by veterans days before the appointment. The veteran will be able to confirm various aspects of their appointment and information.
+* This is the application that powers the main va.gov website.  
+* Day of Check-In: This application is for veterans to check into their health appointments on the day of care. 
+* 
+* Pre-Check-In: This application is going to be filled out by veterans days before the appointment. The veteran will be able to confirm various aspects of their appointment and information.
+* Built with reactJS
+* Uses Vets-API as the main backend API and service bus
 
 [Day of Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/day-of#readme)  
 [Pre-Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/pre-check-in#readme)  
 
 ### Vets-API
 
-> This project provides common APIs for applications that live on VA.gov (formerly vets.gov APIs). 
-> The Check-In module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API. 
+* This project provides common APIs for applications that live on VA.gov (formerly vets.gov APIs). 
+* The Check-In module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API. 
+* Built with Ruby on Rails
+* Is the main backend service for the Vets-Website
+* Calls the LoROTA and CHIP services for Check-In and Pre-Check-In
 
 [Vets-API Readme](https://github.com/department-of-veterans-affairs/vets-api/#readme)  
 [Check-In Engine Readme](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/check_in#readme)  
