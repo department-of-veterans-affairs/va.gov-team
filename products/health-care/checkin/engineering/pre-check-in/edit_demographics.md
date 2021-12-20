@@ -154,9 +154,14 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 **And** I can see that I have the ability to Check-In to my appointment without any further types of authentication  
 
----
 
 ### Error Path Stories
+
+---
+#### Case A:
+> **In order** to understand why my demographics update failed and what actions I need to take next  
+> **As a** Veteran  
+> **I want** to be shown clear and easy to understand failure notifications  
 
 ### Clever Case Stories
 
