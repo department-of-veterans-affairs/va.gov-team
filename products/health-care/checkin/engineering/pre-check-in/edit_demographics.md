@@ -25,7 +25,7 @@
     - [CHIP](#chip)
     - [LoROTA](#lorota)
     - [Vista](#vista)
-    - [Vetext](#vetext)
+    - [VEText](#vetext)
     - [VA.gov Profile](#vagov-profile)
     - [VA Profile](#va-profile)
 - [Footnotes](#footnotes)
@@ -191,7 +191,7 @@
 
 > Stands for Veterans Health Information Systems and Technology Architecture, and it's one of the VA's systems for managing veterans electronic health records.
 
-### Vetext
+### VEText
 
 ### VA.gov Profile
 
