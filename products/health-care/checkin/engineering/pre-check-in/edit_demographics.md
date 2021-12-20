@@ -164,6 +164,16 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 > **As a** Veteran  
 > **I want** to be shown clear and easy to understand failure notifications  
 
+**Scenario:** User attempts to submit demographics information without any edits 
+
+**Given** I have _fully authenticated_[^1] using my va.gov credentials  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I have entered into edit mode on the form  
+**And** I have not made any changes to my current demographics information  
+**When** I submit the form to update and save my information to the VA systems  
+**Then** I should be shown a message which requires me to make a change to my information before submitting  
+**And** my browser should not initiate a request to any APIs inorder to update my information  
+
 ### Clever Case Stories
 
 ---
