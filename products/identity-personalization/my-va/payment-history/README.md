@@ -176,7 +176,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 **In Scope - MVP**
 Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
 
-  - Most recent payment
+  - Most recent payment (30-31 days out (actual number TO BE CONFIRMED), anything older will result in the payment section not showing on My VA. 
   - Dynamic debt link ('You've got 2 outstanding debt payments)
   - Manage Direct deposit [link]
   - View all payments [link]
