@@ -158,12 +158,16 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ### Error Path Stories
 
 ---
-#### Case A:
 > **In order** to understand why my demographics update failed and what actions I need to take next  
 > **As a** Veteran  
 > **I want** to be shown clear and easy to understand failure notifications  
 
 ### Clever Case Stories
+
+---
+> **In order** to not have a bad user experience when I use the demographics update feature in a way that it's not meant to be  
+> **As a** Veteran  
+> **I want** the website to catch my actions and show me meaningful messages   
 
 ## Exploring Workflows
 
