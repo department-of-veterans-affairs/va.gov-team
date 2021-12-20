@@ -21,6 +21,13 @@
 - [Testing Solution](#testing-solution)
 - [Application Performance Management](#application-performance-management)
 - [Applications and Services](#applications-and-services)
+    - [Vets-API](#vets-api)
+    - [CHIP](#chip)
+    - [LoROTA](#lorota)
+    - [Vista](#vista)
+    - [Vetext](#vetext)
+    - [VA.gov Profile](#va.gov-profile)
+    - [VA Profile](#va-profile)
 - [Footnotes](#footnotes)
 
 ## Problem Statement
@@ -168,6 +175,7 @@
 ### CHIP
 ### LoROTA
 ### VISTA
+### Vetext
 
 ### VA.gov Profile
 
