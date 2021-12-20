@@ -161,6 +161,10 @@
 
 ## Applications and Services
 ### Vets-API
+
+> This project provides common APIs for applications that live on VA.gov (formerly vets.gov APIs). 
+> The CheckIn module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API. 
+
 ### CHIP
 ### LoROTA
 ### VISTA
