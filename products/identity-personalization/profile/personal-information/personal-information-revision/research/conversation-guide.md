@@ -18,7 +18,7 @@
 
 - *In the Zoom Attendees section, make sure everyone except the participant is on mute*
 
-- *In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
+- *At the bottom of the Zoom Participant panel, click "more" and make sure "Play Join and Leave Sound" is unchecked*
 
 - *Check your [screen sharing setup] and share permissions for participants.*
   - *ADMIT any observers from the waiting room*
@@ -63,7 +63,7 @@ https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom.
 
   - Computer: Just to the left of center is a conversation bubble that says Chat.
-  	- If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+    - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
@@ -158,20 +158,36 @@ Task 2: Review Profile Sections - 10 minutes
 - How did they think the VA would use this information?
 
 
-Post-Task Interview - 5 minutes
+Interview - 5 minutes
 -------------------------------
 
 - How do you think the VA would use this information about you?
-
 - (if needed) Did you notice the question under the "Personal Information" heading? 
 - (if needed) Did you notice that some of the fields can't be edited? What are your thoughts on that?
-
 - (if not mentioned) What are your thoughts on the order of the information on this page?
 - How did this page line up with your expectations?
-- Do you have any questions for me?
+
+## Task 3: Address reminder modal - 3 minutes
+
+I have one last thing I'd like to get your input on today, in the contact information section of profile. I'll send you a new link in the chat:
+
+https://preview.uxpin.com/e21218c405e4475d518bc209ffd66405a9633080#/pages/145359491/simulate/no-panels?mode=i
+
+For this, I'm going to ask you to imagine you recently moved to Washington DC and realized there is a typo in the zip code of your new your home address. Go ahead and show me how you fix that typo.
+
+- (If needed) What would you expect to happen if you checked that first checkbox? (It isn't wired up)
+- (Once finished with flow) Can you describe for me what just happened?
+
+**Things to watch for:**
+
+- Was anything confusing for the participant?
+- What did they think the checkbox would do?
+- Any comments on whether or not this would be useful to them?
 
 
-## Thank-You and Closing - 3 minutes
+## Closing - 3 minutes
+
+That's everything we wanted to get your input on - thank you so much! Do you have any questions for me?
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
