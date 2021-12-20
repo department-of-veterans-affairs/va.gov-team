@@ -193,6 +193,8 @@
 
 ### VEText
 
+> VEText is an interactive mobile solution to send notifications through text messages to veterans about and around their upcoming and scheduled appointements. 
+
 ### VA.gov Profile
 
 > The VA.gov profile provides a centralized place where users can see what information the VA knows about them, 
