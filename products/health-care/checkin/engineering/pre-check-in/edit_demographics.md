@@ -170,11 +170,18 @@
 ### Vets-API
 
 > This project provides common APIs for applications that live on VA.gov (formerly vets.gov APIs). 
-> The CheckIn module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API. 
+> The Check-In module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API. 
+
+[Vets-API Readme](https://github.com/department-of-veterans-affairs/vets-api/#readme)
+[Check-In Engine Readme](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/check_in#readme)
 
 ### CHIP
 
 ### LoROTA
+
+> Low Risk One Time Authentication, or LoROTA, is a simple service that uses a unique key (UUID)passed between a user and various services to authenticate that user for certain low risk activities, like form submission.
+
+[LoROTA Readme](https://github.com/department-of-veterans-affairs/lorota#readme)
 
 ### VISTA
 
