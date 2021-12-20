@@ -180,7 +180,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **Given** I have _fully authenticated_[^1] using my va.gov credentials  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **And** I have entered into edit mode on the form  
-**And** I have cleared the form of all my demographics information  
+**And** I have cleared the form of all or some of my demographics information  
 **When** I submit the form to update and save my information to the VA systems  
 **Then** I should be shown a message which requires me to enter valid demographics information in all required fields  
 **And** my browser should not initiate a request to any APIs inorder to update my information  
