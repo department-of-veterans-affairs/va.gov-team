@@ -11,11 +11,13 @@ The feedback from this research will inform future iterations of both the homepa
 ### Background
 This project maintains the vision of the Digital Modernization Strategy set in 2017: to provide a single, high-quality digital version of every health product or tool, plus the ability for a Veteran to see all of their health-related VA benefits in one place on VA.gov.
 
+This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
+
 ### Research questions
 This study focuses on 3 main areas:
 * **Critical tasks:** What are the critical actions a Veteran wants to see right away on the homepage?
 * **Vital information:** What information do veterans need to see on the homepage after signing in (authenticated homepage)?
-* **Content balance:** What's the right balance of content/information on the homepage, such that it doesn't overwhelm the user? How would they like that content and information presented?
+* **Content balance:** What's the right balance of informational content and content that veterans can action? 
 
 ### Hypotheses
 For each question above, respectively, we believe the following:
@@ -68,6 +70,7 @@ Ideally get at least 1 participant from each:
 * Gender: At least 1/4 women
 * Inclusion: At least 1/4 people of color
 * Geography: Participants from East Coast, West Coast, and the Midwest
+* Disability: At least three participants who use DAT
 
 **What we expect to learn:**
 * Veterans who use the My HealtheVet website will help us understand if we're going in the right direction with the concept for the health apartment homepage, given their experience with using My HealtheVet. 
