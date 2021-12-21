@@ -189,8 +189,6 @@ Ask the participant:
 
    * What would you expect to see here?
 
-   * What information or actions do you care about most?
-
    * If you wanted to see all of your appointments, what would you do?
    * If you wanted to schedule a new appointment, what would you do?
    * If you wanted to look back at previous appointments, what would you do?
@@ -199,28 +197,20 @@ Ask the participant:
 
    * What information would you expect to see here? 
 
-   * What information or actions do you care about most?
 * If you wanted to refill a prescription, what would you do?
-
 
    * If you wanted to see all of your prescriptions, what would you do?
 
 * Now let's look at messaging: 
-
-   * What kinds of messages would you expect to see here? *(e.g., "What would the messages be about?"*
-
-   * Would you expect to send and receive messages?  
+  
    * If you wanted to check the status of a message you sent, what would you do?
+   * If you wanted to send a message, what would you do?
 
-   * What messages would be sent to you?
-
-   * Whom would you message?
 
 * For Medical Records:  
 
    * What would you expect to see here?
 
-   * What information or actions do you care about most?
    * If you wanted to check on recent lab results, what would you do?
    
 
@@ -228,8 +218,6 @@ Ask the participant:
 
 
 * Let’s look at Health Care Benefits.
-   * What information or actions would you like to find under "Health Care Benefits?”
-   * What information or actions are most important to you? Anything missing?
    * If you wanted to see a detailed breakdown of your benefits and coverage, what would you do?
    * If you needed to order more diabetic socks or hearing aid batteries, what would you do?
 
