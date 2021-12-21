@@ -82,13 +82,6 @@ Start recording.
 
 * what they do on the site
 
-* what "health care" means to them
-
-
-
-* Do you cancel or adjust your appointments online?
-
-* How do you communicate with your providers/doctors?
 
 
 
@@ -169,71 +162,30 @@ I'd like your first impression. Talk out loud. Say anything that comes to mind. 
 
 * If they remark on something missing.
 
-
-
 Ask the participant:
 
 * Tell me about your first impressions. 
 
 * Where is your attention drawn?
 
-* What other observations do you have about this page?  
-
  
 
-### Digging Deeper 
+### Task Questions 
+ *Now I'm going to ask you how you think you would perform certain tasks on the site. Remember, there's no wrong or right answer.* 
 
-* Is there anything missing that you would expect to be here, that would help you manage your health care online? *(Potential follow ups: How would you use this? Where would you like to see it on the page?)*
 
-* Let's look at Appointments: 
-
-   * What would you expect to see here?
-
-   * If you wanted to see all of your appointments, what would you do?
-   * If you wanted to schedule a new appointment, what would you do?
-   * If you wanted to look back at previous appointments, what would you do?
-
-* Now let's look at pharmacy: 
-
-   * What information would you expect to see here? 
-
+* If you wanted to see all of your appointments, what would you do?
+* If you wanted to schedule a new appointment, what would you do?
+* If you wanted to cancel an appointment, what would you do?
 * If you wanted to refill a prescription, what would you do?
-
-   * If you wanted to see all of your prescriptions, what would you do?
-
-* Now let's look at messaging: 
-  
-   * If you wanted to check the status of a message you sent, what would you do?
-   * If you wanted to send a message, what would you do?
-
-
-* For Medical Records:  
-
-   * What would you expect to see here?
-
-   * If you wanted to check on recent lab results, what would you do?
-   
-
-
-
-
-* Let’s look at Health Care Benefits.
-   * If you wanted to see a detailed breakdown of your benefits and coverage, what would you do?
-   * If you needed to order more diabetic socks or hearing aid batteries, what would you do?
-
-   
-
-* Now let’s have a look at Disability Benefits. 
-   * What information or actions would you expect to be able to do in "Disability benefits?”
-
-   * What information or actions are most important to you? Anything missing?
-   * If you needed additional information on disability not shown on this page, what would you do?
-
-* Lastly, If you had trouble with something you're trying to do on the website, what would you do? 
-  * If you were trying to find help with something VA related not listed on this page. *(Listen to answer and point to "Help and Resources" if this is not one of their answers.)*
-
-   * What information or actions would you expect to see in "Help and Resources"?
-   * If you had questions about how to do something on this site, what would you do?
+* If you wanted to see all of your prescriptions, what would you do?
+* If you wanted to check the status of a message you sent, what would you do?
+* If you wanted to send a message, what would you do?
+* If you wanted to check on recent lab results, what would you do?
+* If you wanted to see a detailed breakdown of your benefits and coverage, what would you do?
+* If you needed to order more diabetic socks or hearing aid batteries, what would you do?
+* If you needed additional information on disability not shown on this page, what would you do?
+* If you had questions about how to do something on this site, what would you do?
 
 
 
