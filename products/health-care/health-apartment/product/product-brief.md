@@ -33,7 +33,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 **Contractors from MO Studio and its partners**
 - Jeff Scheire (CEO, MO Studio)
 - Nadya Primak (FE engineering, also some BE)
-- Jared Cooke (FE engineering)
+- Jared Cooke (FE engineering and interaction designer)
 - Jordan White (product manager)
 - Jasvir (Jesse) Singh (UX design lead)
 - TBD (UX designer) - Re: the 2 UX designers, need these skills: user research (priority), service design (priority). Visual design skills needed, too.
