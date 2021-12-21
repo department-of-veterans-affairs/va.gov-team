@@ -18,26 +18,25 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 
 ## Research Goals	
 
-What are you trying to learn from this research? 
+### 1. Validate that our proposed IA matches the Veteran mental model
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
-
-**Payment Information**
-
+- Where do users expect to see payment information on the site?
 - Should the 'Travel Reimbursement' link live in the health care section or in the payment information section?
 - How should the sections be ordered on My VA?
+- Do users expect to see debt information in the payment section or as an onsite notification?
+
+### 2. Understand the financial information that is most important to Veterans.
+
+- What is the most important information for users to see related to finances?
 - What information are users looking to see about their most recent deposit?
 - Are we missing any additional links?
-- Where do users expect to see payment information on the site?
-- Do users expect to see debt information in the payment section or as an onsite notification?
-- What is the most important information for users to see related to finances?
 - How long do you expect to see that you've been paid the most recent payment?
 
-**Onsite Notifications**
+### **3. Onsite Notifications**
 
 ### Outcome
 
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+We'll use the findings from this research to update our page IA and inform our MVP designs.
 
 ### Research questions
 
