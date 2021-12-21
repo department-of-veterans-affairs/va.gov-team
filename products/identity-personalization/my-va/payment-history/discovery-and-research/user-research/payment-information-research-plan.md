@@ -22,19 +22,34 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 
 ### 1. Validate that our proposed IA matches the Veteran mental model
 
-- Where do users expect to see payment information on the site?
-- Should the 'Travel Reimbursement' link live in the health care section or in the payment information section?
-- How should the sections be ordered on My VA?
-- Do users expect to see debt information in the payment section or as an onsite notification?
+- How do users expect to see that they've recieved a new payment on VA.gov?
+- Where do users expect to see that they have a new debt on VA.gov?
+- Where do users expect to see a link to 'Request travel reimbursement'?
+- What is the order of importance of the existing sections on My VA + payment information?
+- How does a user take action on an existing debt? 
+- Can users find the information that they're looking for?
+- Can users take action on their financial information? 
+- How do users expect their action items to be structured in relation to non-action item information? (in sections or all at the top together or something else?)
 
 ### 2. Understand the financial information that is most important to Veterans.
 
-- What is the most important information for users to see related to finances?
+- What is the most important information for users to see related to their payments from the VA?
 - What information are users looking to see about their most recent deposit?
 - Are we missing any additional links?
-- How long do you expect to see that you've been paid the most recent payment?
+- How long does a user expect to see information about their payments recieved on My VA?
+- How long does a user expect to see information about their debts on My VA?
 
 ### **3. Onsite Notifications**
+- Where would users expect to see action items from the VA?
+- Is it helpful to know that a new debt has been added?
+- If a user has recieved a text or email about a new debt, does it make sense to also see it on My VA?
+- When does a user expect to see an alert about new debt?
+- What information do users want to know about a new debt?
+- When would a user want to dismiss this alert?
+- Why would a user want to dismiss this alert?
+- What do users expect to happen after an alert has been dismissed?
+- What other notifications do users expect to see on VA.gov?
+- If a user has a new notification on VA.gov, how would they know?
 
 ### Outcome
 
