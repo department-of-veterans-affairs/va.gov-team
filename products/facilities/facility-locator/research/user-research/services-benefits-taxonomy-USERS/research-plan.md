@@ -16,14 +16,16 @@ In order to align the way services are presented to veterans across multiple pag
 ### Goals
 
 Our main goals are:
-- To determine how Veterans would categorize existing services
+- To determine how the current categories are used by Veterans searching for services
+- To evaluate the usage of the service categories in the Filters list and Location Details pages
 - Note any services that could benefit from updated plain language titles
 
 ### Research Questions
 
-1) Do the existing categories accurately reflect Veteran expectations of where to find services on VBA Location pages?
-2) Do Veterans commonly misunderstand any of the current labels?
-3) Do existing category names cause confusion, or do they need to described using plainer language?
+1) Do the existing categories affect Veterans' ability to search for services?
+2) Do existing category names cause confusion, or do they need to described using plainer language?
+3) How can the benefits services be best presented to Veterans?
+4) What common knowledge or other strategies due Veterans utilize when searching for services?
 
 ### Hypotheses
 
