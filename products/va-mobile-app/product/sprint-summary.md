@@ -2,6 +2,31 @@
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 
+## Sprint: 12/8/21 - 12/21/21
+
+- View Vaccine Records
+  - Vaccine manufacturer work complete and added Vaccine Records to Demo Mode
+
+- Redesign
+  - Held UX personalization wireframe meeting
+  - Synthesized round one feedback for picking back up in Jan
+  - UX team started EOY design exploration exercise
+  - Overflow menu a11y investigation 
+  - Dark Mode changes 
+
+- Design & Tech Debt/Maint
+  - Updated research in VA Platform repo 
+  - Started updating all symbols in Sketch for dark mode system
+
+- Documentation site
+  - UX: finished first draft of site pages
+  - Backend:  Documentation added for Grafna, Alerts, & Datadog dashboards
+
+- Bugs
+  - Addressed screen reader accessibility issues 
+
+
+
 ## Sprint: 11/24/21 - 12/7/21
 
 - View Vaccine Records
