@@ -27,6 +27,9 @@
 
 Vet Center operating status
 
+Vet Center CAP hours
+- Will be pulling hours through to FE - need editorial iteration (require hours if "specify hours" selection is made)
+
 * Menu depth constraints?
   * [Slack thread with Mikki](https://dsva.slack.com/archives/C0FQSS30V/p1638913938489900)
   * View of data at level 4, 5, and 6
