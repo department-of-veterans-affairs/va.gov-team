@@ -1,6 +1,6 @@
 # [Draft] Digital Experience (DE) Product Strategy
 
-## Ofiice of the CTO (OCTO) North Stars
+## Office of the CTO (OCTO) North Stars
 1. Increase the usage and throughput of VA services 
 2. Decrease the time Veterans spend waiting for an outcome 
 3. Increase the quality and reliability of VA services
