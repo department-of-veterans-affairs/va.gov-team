@@ -40,7 +40,7 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 - How long does a user expect to see information about their debts on My VA?
 
 ### **3. Onsite Notifications**
-- Where would users expect to see action items from the VA?
+- Is our MVP structure helpful to Veterans?
 - Is it helpful to know that a new debt has been added?
 - If a user has recieved a text or email about a new debt, does it make sense to also see it on My VA?
 - When does a user expect to see an alert about new debt?
