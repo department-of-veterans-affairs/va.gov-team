@@ -17,7 +17,7 @@ This study will build off of the results of our [informal user testing](https://
 This study focuses on 3 main areas:
 * **Critical tasks:** What are the critical actions a Veteran wants to see right away on the homepage?
 * **Vital information:** What information do veterans need to see on the homepage after signing in (authenticated homepage)?
-* **Content balance:** What's the right balance of informational content and content that veterans can action? 
+* **Content balance:** What's the right balance and structure of informational content and content that veterans can action? 
 
 ### Hypotheses
 For each question above, respectively, we believe the following:
