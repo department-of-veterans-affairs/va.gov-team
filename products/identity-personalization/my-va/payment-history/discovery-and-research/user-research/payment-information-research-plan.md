@@ -20,36 +20,29 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 
 ## Research Goals	
 
-### 1. Validate that our proposed IA matches the Veteran mental model
+### 1. Validate that our proposed payment information IA matches the Veteran mental model.
 
-- How do users expect to see that they've recieved a new payment on VA.gov?
-- Where do users expect to see that they have a new debt on VA.gov?
-- Where do users expect to see a link to 'Request travel reimbursement'?
+- Where do users expect to see new information about their payments and debts on [VA.gov](http://va.gov/)?
+- Do users expect to see a travel reimbursement link under health care or payment information?
 - What is the order of importance of the existing sections on My VA + payment information?
-- How does a user take action on an existing debt? 
-- Can users find the information that they're looking for?
-- Can users take action on their financial information? 
-- How do users expect their action items to be structured in relation to non-action item information? (in sections or all at the top together or something else?)
+- Can users find the payment information that they're looking for?
+- How do users expect their action items to be structured in relation to non-action item information? (in sections, or all at the top together, or something else?)
 
 ### 2. Understand the financial information that is most important to Veterans.
 
-- What is the most important information for users to see related to their payments from the VA?
-- What information are users looking to see about their most recent deposit?
+- What information do users want to know about new debts, existing debts, and payments from the VA?
 - Are we missing any additional links?
-- How long does a user expect to see information about their payments recieved on My VA?
-- How long does a user expect to see information about their debts on My VA?
+- How long do users expect to have access to historical financial information (debts + payments) on My VA?
+- Does providing a link allow users take sufficiently take action on their payments and debts, and manage direct deposit?
 
-### **3. Onsite Notifications**
-- Is our MVP structure helpful to Veterans?
-- Is it helpful to know that a new debt has been added?
-- If a user has recieved a text or email about a new debt, does it make sense to also see it on My VA?
+### **3. Validate that our onsite notification MVP meets Veterans' needs.**
+
+- Is the proposed MVP solution helpful to Veterans?
 - When does a user expect to see an alert about new debt?
-- What information do users want to know about a new debt?
-- When would a user want to dismiss this alert?
+- If a user has a new notification on VA.gov, how would they know?
 - Why would a user want to dismiss this alert?
 - What do users expect to happen after an alert has been dismissed?
 - What other notifications do users expect to see on VA.gov?
-- If a user has a new notification on VA.gov, how would they know?
 
 ### Outcome
 
@@ -57,16 +50,14 @@ We'll use the findings from this research to update our page IA and inform our M
 
 ### Hypothesis
 
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+- We believe Veterans will find it useful to see information about recent payments and outstanding debts surfaced on My VA.
+- We believe Veterans will want to see more details about the financial information, and that providing a link from My VA will be a sufficient way for them to get those details.
+- We believe the design for action items and alerts will be effective at drawing attention to important information.
+- We believe there may be some confusion about why some alerts are at the top of the page, and others are within distinct sections of My VA.
 
 ## Method	
 
-We'll conduct remote usability testing over Zoom.
+We'll conduct remote usability testing over Zoom using a desktop prototype.
 
 ### Research materials
 
@@ -78,27 +69,19 @@ We'll conduct remote usability testing over Zoom.
 
 ### Recruitment approach
 
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
+We will recruit Veteran participants using a lean maximum variation strategy.  We'll leverage Perigean's recruiting services to find our participants.
 
 ### Recruitment criteria
 
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Schedule 10 Veterans for a minimum of 5 successfully completed sessions.
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+- All participants should have previously been notified about payments received from the VA OR been notified about a VA-related debt (both are OK too). 
+  - Example: Have you ever been notified about a payment you received from the VA?
+  - Example: Have you ever been notified about a VA-related debt?
+  - Answering yes to either or both questions would qualify the participant for the study.
+- Please confirm participants have Zoom downloaded prior to the session and they know how to screen share.
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
