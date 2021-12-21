@@ -11,10 +11,9 @@
 
 **Show**
 
-- If a user is currently recieving any of the following:
-  - Disability compensation
-  - Pension compensation
-  - Education payments
+- If we recieve any information from the Payment information API, then we will show this section. 
+
+NOTE: For the notification component we will need a descriptive 'aria describe by' that links the 'dismiss' button to the notification.
 
 ## States
   
