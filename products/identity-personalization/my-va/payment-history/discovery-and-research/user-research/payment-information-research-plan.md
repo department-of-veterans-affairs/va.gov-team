@@ -1,5 +1,7 @@
 # Research Plan for Authenticated Experience team, Payment information, January 2022
 
+`Draft`
+
 ## Background
 
 Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.
@@ -37,14 +39,6 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 ### Outcome
 
 We'll use the findings from this research to update our page IA and inform our MVP designs.
-
-### Research questions
-
-Consider bucketing research questions under research goals. For each question, think about:
-
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
 ### Hypothesis
 
