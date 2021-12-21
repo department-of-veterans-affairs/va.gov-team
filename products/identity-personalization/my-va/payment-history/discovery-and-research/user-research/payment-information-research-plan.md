@@ -62,7 +62,7 @@ We'll conduct remote usability testing over Zoom.
 
 ### Research materials
 
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-conversation-guide.md) 
 
 - [Link to prototype](url goes here)
 
@@ -128,13 +128,23 @@ Please request enough dates and time slots for the number of requested participa
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
 - Moderator: Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
+
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz and Tressa Furner
+
 - Participant recruiting & screening: Perigean
+
 - Project point of contact:	Liz Lantz
+
 - Participant(s) for pilot test:	
+
 - Note-takers: Perigean
+
 - Observers:	
+
   - samara.strauss@va.gov
+
   - heather.justice@adhocteam.us
+
   - taylor.mitchell@gcio.com
-  - 
+
+    
