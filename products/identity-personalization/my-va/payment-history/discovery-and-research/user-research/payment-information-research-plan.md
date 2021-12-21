@@ -1,18 +1,26 @@
-Research Plan for Authenticated Experience team, Payment information, January 2022
-===============================================================================
+# Research Plan for Authenticated Experience team, Payment information, January 2022
 
-Goals
------
+## Background
 
-**1. What product & team are you doing this research for?**
+Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.
 
-Payment infrormation section on My VA for the Authenticated Experience team
+This effort aims to add payment information to the My VA dashboard to be elevated for logged-in Veteran's awareness and attention, as the MVP.
 
-**2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history).
 
+### OCTO Objectives 
 
+The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
 
-**3. Research questions: What question(s) do you hope to be able to answer after completing this research?**
+### Veteran Journey
+
+Since Veterans can incur debt any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
+
+## Research Goals	
+
+What are you trying to learn from this research? 
+
+*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
 **Payment Information**
 
@@ -27,119 +35,106 @@ Payment infrormation section on My VA for the Authenticated Experience team
 
 **Onsite Notifications**
 
+### Outcome
 
+How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-**4. What is your hypothesis for this research?**
+### Research questions
 
-   - Veterans will see their logged-in homepage as a "dashboard" where they see personal information that is influenced by the VA.
-     - Content expectations for the logged-in homepage would be status updates, benefits they currently receive, historical info like past claims, information related to their healthcare provider, etc.
-- Veterans will see their profile as a place to see personal information about them that is in their control.
-  - Content expectations for the profile would reflect information they provided through a registration process. Personal things like contact information, dependents, branch of service, etc.
-   - There will be some content items whose ideal location will not be clear cut in our study, e.g. rated disabilities might belong in profile for some folks and the logged in homepage for others.
-   - The content Veterans expect to see on their logged-in homepage will mostly be items they can take action on, and they'll expect a way to take a next step.
-   - Veterans will expect to see notifications in some kind of notification specific area, probably accessible through the navigation.
+Consider bucketing research questions under research goals. For each question, think about:
 
-Method
-------
+- What will I do with what I learn from this question?
+- Does this question serve the goals of my study?
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
-**1. What method of research are you planning and why?**
+### Hypothesis
 
-  - We will conduct an initial short qualitative interview to gain insight into the "why" questions we have.
-  - This will be followed by a moderated co-design exercise. We will use Mural to help the Veteran "create" their own personalized homepage by sharing our screen and conducting an interview in which we build a personalized homepage with their input. The interviewer (Liz) will manage all of the interactions in Mural since we think Veterans would have trouble navigating this tool themselves. We think this is the most helpful method to gain insights into what people need on their homepage because it doesn't overly prime/influence them by showing them existing designs or a canned list of tools we think they might want on the homepage.
-  - Given that we have not run a co-design study before, we are going to run two pilot tests before we run the full research study to make sure this method works. If the co-design method doesn't seem like it will be as successful as we hope, we are going to have a card sort as a backup method. This card sort will present the Veteran with a list of about 25 tools and it will ask them to organize those tools into two buckets: a homepage and a blank category the Veteran can label if needed. While we think the card sort is a perfectly valid method regardless of the co-design exercise, we have chosen it as the backup method since it presents veterans with a canned list of options and doesn't allow them to start from a truly blank slate.  The card sort can also serve as an option if for some reason Mural fails in a particular session.
+What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
-**2. Where are you planning to do your research?**
+- What do you already know about this problem space?
+- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+- Write a generalized statement that combines what you know + what you think will happen during the study. 
+- Remember to constrain the hypothesis to the goals of your study!
 
-  - Sessions will be remote moderated sessions.
-  - We will use Zoom and Mural. Optimal Workshop will be used for the back-up card sort.
+## Method	
 
-**3. What will you be testing?**
+We'll conduct remote usability testing over Zoom.
 
-  - We'll have a [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1588287883697/58994facc18f9750768a0992b9a6bafb2aacd9fe) set up for each session, and use the [card sort](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) as a back up.
+### Research materials
 
-Participants and Recruitment
-----------------------------
+- [Link to conversation guide](url goes here) 
 
-**1. Participant criteria**
+- [Link to prototype](url goes here)
 
-  - We'd like to interview 10-12 Veterans who log into VA.gov.
-  - Participants must be able to participate via a desktop device.
-  - We request the participant pool be diverse in:
-      - Gender (at least 3 women)
-      - Ethnicity/Race (at least 3 non-Caucasian)
-      - Age 
-          - at least 2 people from 18-34
-          - at least 2 people from 35-54
-          - at least 2 people who are 55 or older.
-      - Education level (at least 3 falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form)
-      - Geography
-      - Experience with VA benefits and services (at least 3 people who have 3 or more benefits)
-  - To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+## Recruitment	
 
-**2. What is your recruitment strategy?**
+### Recruitment approach
 
-- We will leverage Perigan's recruitment capabilities.
-- In order to get 10-12 participants, we'd like Perigean to recruit 15, with the expectation that there be a max of 5 no shows.
+Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-When?
------
+Pro tip:
 
-**1. Timeline: What dates do you plan to do research?** 
+- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
+- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
+- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
- May 11-May 15, 2020, depending on recruitment.
+Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
 
-**2. Prepare: When will the thing you are testing be ready?** 
+### Recruitment criteria
 
-Co-design exercise and card sort will be finalized by May 6.
+List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
-**3. Length of Sessions: How long do you estimate each session will be?**
+**Primary criteria (must-haves)**
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-45-60 minutes
+Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
+  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-**4. Availability: If applicable, when would you like sessions scheduled?**
+> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
-  - May 11: available from 9:30-11am, and 2pm - 8pm (Please only schedule 1 participant on this day)
-  - May 13 and 15: available from 9-11am and 2-8pm (Please allow 15 minutes between sessions)
-  - May 14: available from 7am-9am, 11am-3pm or 6-8pm (Please allow 15 minutes between sessions)
+**Secondary criteria (nice-to-haves)**
+What criteria would strengthen your results? 
 
-**5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
+## Timeline
 
-We're going to run 2 pilot session for this study.  One with a member of our team, and one with an actual Veteran. We'd like to do two pilots to verify the co-design method works, and will get us the insights we want.
+If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
 
-1. The first pilot session will be with Selina Cooper (scooper@governmentcio.com). We've been in touch with her and confirmed that May 7 works for her from 1:30-2:30pm
-2. The second pilot session will be with a Veteran, and we'd like to do this on May 11.
+### Prepare
 
-Team Roles
-----------
+When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
 
-Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
+Please indicate the date and name of a mock participant for a pilot session. 
 
-  -  Moderator: Liz Lantz, liz.lantz@adhoc.team, 843-898-4463
-  -  Research guide writing and task development (usually but not always same as moderator): Liz Lantz
-  -  Participant recruiting & screening: Perigian
-  -  Project point of contact: Liz Lantz
-  -  Participant(s) for pilot test: TBD
-  -  Note-takers: TBD
-  -  Observers: 
-     - samara.strauss@va.gov
-     - shawna.hein@adhocteam.us
-     - matt.shea@adhocteam.us
-     - tressa.furner@adhocteam.us
-     - erik@adhocteam.us
-     - lihan@adhocteam.us
-     - clarice.chan@va.gov
+* Pilot participant email:
+* Date and time of pilot session: 
 
-Resources
----------
+### Research sessions
 
--   [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md)
--   [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/conversation-guide.md)
--   [Mural board mapping research goals to research methods](https://app.mural.co/t/vsa8243/m/vsa8243/1584898521775/64383bc2873e8c81bdd84190e16726e20855818e)
--   Example of [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1588287883697/58994facc18f9750768a0992b9a6bafb2aacd9fe) we'll use for each session
--   [Preview of card sort](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) we'll use if needed
--   [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1588961163704/d3fd97dc5a533761bc9bc216e8a320d5c16c79ce) for observer notes during sessions
--   [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes)
--   [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/topline-summary.md)
--   Synthesis Coming soon
--   Lessons Learned Coming soon
--   Read-Out/Results Coming soon
+What dates do you plan to do research? 
+
+### Length of sessions
+
+How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
+Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+
+### Availability
+
+When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+	
+
+## Team Roles	
+
+Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+
+- Moderator: Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
+- Research guide writing and task development (usually but not always same as moderator): Liz Lantz and Tressa Furner
+- Participant recruiting & screening: Perigean
+- Project point of contact:	Liz Lantz
+- Participant(s) for pilot test:	
+- Note-takers: Perigean
+- Observers:	
+  - samara.strauss@va.gov
+  - heather.justice@adhocteam.us
+  - taylor.mitchell@gcio.com
+  - 
