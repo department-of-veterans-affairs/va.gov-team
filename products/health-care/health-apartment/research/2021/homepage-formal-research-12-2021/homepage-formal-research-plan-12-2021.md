@@ -2,9 +2,9 @@
 
 ## Goals
 The VA Health Apartment team is conducting user testing of its authenticated homepage and high-level sitemap concept to understand: 
-* How a variety of Veterans currently use MyHealtheVet,
-* How our concept solves pain points, and 
-* What information Veterans care about most. 
+* If Veterans understand how to use our concept,
+* If our concept solves pain points and,
+* If our concept reduces complexity
 
 The feedback from this research will inform future iterations of both the homepage and sitemap, as well as the overall design of the health apartment concept.
 
@@ -14,17 +14,14 @@ This project maintains the vision of the Digital Modernization Strategy set in 2
 This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
 
 ### Research questions
-This study focuses on 3 main areas:
-* **Critical tasks:** What are the critical actions a Veteran wants to see right away on the homepage?
-* **Vital information:** What information do veterans need to see on the homepage after signing in (authenticated homepage)?
-* **Content balance:** What's the right balance and structure of informational content and content that veterans can action? 
+This study focuses on 2 main areas:
+* **Critical tasks:** Are the tasks on the homepage easy for a Veteran to action?
+* **Content balance:** Do Veterans understand the difference between informational and actionable links?
 
 ### Hypotheses
 For each question above, respectively, we believe the following:
-* Veterans want to see specific tasks on the homepage. They want to see tasks and information relevant to them. This fits with a recurring theme in previous research, that Veterans are task-oriented.
-* When Veterans sign in, they expect the website to show them: 1) current health information and tasks (exs: appointments, secure messages, and refills due), and 2) whether they must take action to move a process forward (ex: progress a disability claim).
-* Veterans are overwhelmed by too much text. They want well-organized content that guides them to a task or resource quickly, simply, and clearly using plain language. 
-* Veterans with health care want to see a balance of personalized and general resources. 
+* When given a task, Veterans will be able to find and complete the tasks given to them with little confusion.
+* Veterans will know the difference between a link that takes them to an action and one that takes them to a resource or content page. 
 
 ## Method
 We'll use semi-structured interviews and observations for this study. This allows us to ask prepared questions and document Veterans' behavior as they explore the homepage design, also giving us the flexibility to pivot and ask follow-up questions should an interesting thread reveal itself. The in-depth qualitative information we'll glean from this study will help us iterate on our design concept. 
@@ -73,7 +70,7 @@ Ideally get at least 1 participant from each:
 * Disability: At least three participants who use DAT
 
 **What we expect to learn:**
-* Veterans who use the My HealtheVet website will help us understand if we're going in the right direction with the concept for the health apartment homepage, given their experience with using My HealtheVet. 
+* Veterans who use My HealtheVet will help us understand if the new layout of the tasks they're accustomed to doing in MHV are as easy as they're used to, if not easier.
 * Veterans who do not use the My HealtheVet website will help us understand if the health apartment homepage is easy to use for people who do not use My HealtheVet.
 
 ## When?
