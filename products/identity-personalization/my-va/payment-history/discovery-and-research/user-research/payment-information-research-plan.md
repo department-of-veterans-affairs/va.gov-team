@@ -1,6 +1,4 @@
-# Research Plan for Authenticated Experience team, Payment information, January 2022
-
-`Draft`
+# Research Plan for Authenticated Experience team, Payment information and onsite notifcations, January 2022
 
 ## Background
 
@@ -32,6 +30,7 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 
 - What information do users want to know about new debts, existing debts, and payments from the VA?
   - Is it important for them to know how many new debts have been added, or only that they have new debt?
+
 - Are we missing any additional links?
 - How long do users expect to have access to historical financial information (debts + payments) on My VA?
 - Does providing a link allow users take sufficiently take action on their payments and debts, and manage direct deposit?
