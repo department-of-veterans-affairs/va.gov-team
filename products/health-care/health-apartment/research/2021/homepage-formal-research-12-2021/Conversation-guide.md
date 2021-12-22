@@ -86,41 +86,6 @@ Start recording.
 
 
 
-### Understand what's important to Veterans who use My HealtheVet or VA.gov
-
-Do not ask these questions to Veterans who don't use My HealtheVet or VA.gov.
-
-
-
-
-When necessary, ask follow-up questions to get a deeper understanding or to clarify what the Veteran is saying.
-
-
-
-
-*If they use My HealtheVet:*
-
-* What do you use My HealtheVet for? 
-
-* How often do you use My HealtheVet? 
-
-* Are there things you would like to do on My HealtheVet but currently cannot? 
-
-   * *(If yes, ask this for each thing:)* Why would you like to do that? 
-
-
-
-
-*If they use VA.gov:*
-
-* What health care things do you use VA.gov for? 
-
-* How often do you use VA.gov? 
-
-* Are there things you would like to do on VA.gov but currently cannot? 
-
-   * *(If yes, ask this for each thing:)* Why would you like to do that? 
-
 
 
 
