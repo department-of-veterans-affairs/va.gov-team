@@ -35,6 +35,11 @@
 
 </details>
 
+## December 22, 2021
+
+* Promo banner training (early January): who needs to be invited?
+
+
 ## December 15, 2021
 
 * Shared tech debt: removing dependencies on `field_administration` from queries and templates (Connect with us)
