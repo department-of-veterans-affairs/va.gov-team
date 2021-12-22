@@ -7,7 +7,7 @@
 
 ## Session setup
 
-For this session, the moderator will share their screen so the participant can view the health homepage without having to click a link or open a file. 
+For this session, the moderator will H 
 
 
 
@@ -139,7 +139,6 @@ Ask the participant:
  *Now I'm going to ask you how you think you would perform certain tasks on the site. Remember, there's no wrong or right answer.* 
 
 ### Appointments:
-* If you wanted to see all of your appointments, what would you do?
 * If you wanted to schedule a new appointment, what would you do?
 * If you wanted to cancel an appointment, what would you do?
 
@@ -157,12 +156,14 @@ Ask the participant:
 ### Health Care Benefits:
 * If you wanted to request travel pay, what would you do?
 * If you needed to order more diabetic socks or hearing aid batteries, what would you do?
+   * Watch for: does the user call out that there isn't a specific link for the described items? 
 
 ### Disability:
-* If you wanted to check on the status of a disability clai, what would you do? 
+* If you wanted to check on the status of a disability claim, what would you do?
+   * Watch for: Does the user go to the top of the page? Do they go to the Disability section? 
 
 ### Health and Resources:
-* 
+* TBD
 
 
 
