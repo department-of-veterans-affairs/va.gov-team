@@ -25,12 +25,27 @@
 
 ## December 22
 
-Vet Center operating status
+- Vet Center operating status
+  - Has not been prioritized by CMS yet: possible candidate for sprint 50 ([6816](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6816), [6438](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/6438))
+  - Comms with Jessica on messaging, possible KB article to link to
+  - Restricting which messages VC can select for "More Info"
 
-Vet Center CAP hours
-- Will be pulling hours through to FE - need editorial iteration (require hours if "specify hours" selection is made)
+- Vet Center CAP hours
+  - Will be pulling hours through to FE - need editorial iteration (require hours if "specify hours" selection is made)
+  - Facility will be running by VSP
+  - A row for every day, should have to specificy for each day
+  - Info should be required by the CMS (hours or comment)
+  - VBA hours has multiple versions
+  - Default of closed if empty = not a good idea, CMS will need some customer validation
+  - Prioritization TBD
+  - Benefits facilities may be in the vacinity
 
-Revisit Mobile health locations (table to 2022?)
+- Revisit Mobile health locations (table to 2022?)
+- Aligning quarterly planning
+  - Facilities #1 priority = Lovell, followed by Manilla
+  - CMS to do Q1 planning first two weeks of January then will regroup with Product teams on roadmap syncing
+  - Name changing run book/pain points to be explored
+    - when shortening names things break
 
 * Menu depth constraints?
   * [Slack thread with Mikki](https://dsva.slack.com/archives/C0FQSS30V/p1638913938489900)
@@ -40,6 +55,13 @@ Revisit Mobile health locations (table to 2022?)
   * 408 are at menu depth 4 (example)
   * 107 are at menu depth 5, visible in the menu (example) unless their menu item has been disabled via request fulfillment (example)
   * 4 are at menu items at menu depth 6, not visible in the menu (example).
+  * Programs menu children are going down rabbit holes
+  * Farthest down we should be going is 5
+    * Prevent anything below 5 for VAMCs only for now (CMS for Sprint 50ish)
+      * Will most likely require custom code
+      * Identify who owns anything past depth 5 (CMS: url and who owns it)
+      * Dave will coordinate with other teams on change management / clean up
+      * Mikki to determine if it should apply beyond VAMCs
 
 ## December 15
 
