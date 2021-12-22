@@ -37,7 +37,7 @@
 
 ## December 22, 2021
 
-* Promo banner training (early January): who needs to be invited?
+* Promo banner training (early January): who needs to be invited? - will async, Dave to get names
 
 
 ## December 15, 2021
