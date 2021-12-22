@@ -77,10 +77,17 @@ Schedule 10 Veterans for a minimum of 5 successfully completed sessions.
 
 #### **Primary criteria (must-haves)**
 
-- All participants should have received education benefit or compensation/pension payments from the VA OR incurred education (CH 33, CH 34, CH 35) or compensation/pension debts.
-  - Example: Have you ever received an education, compensation or pension payment from the VA?
-  - Example: Do you have education, compensation, or pension debt with VA?
-  - Answering yes to **either or both** questions would qualify the participant for the study.
+- All participants should have received education benefit or compensation/pension payments from the VA OR incurred education (CH 33, CH 34, CH 35) or compensation/pension debts. Screener questions:
+
+  1. Have you ever received an education, compensation or pension payment from the VA?
+
+  2. Do you have education, compensation, or pension debt with VA? 
+
+  3. Do you have health care related debt with VA?
+
+  - Answering yes to question **1 OR 2** would qualify the participant for the study.
+  - Answering yes **only to question 3** would disqualify the participant from the study.
+
 - Please confirm participants have Zoom downloaded prior to the session and they know how to screen share.
 
 #### **Secondary criteria (nice-to-haves)**
@@ -114,8 +121,8 @@ January 7
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: TBD
-* Date and time of pilot session: January 10, time TBD
+* Pilot participant email: tom.harrison@adhocteam.us
+* Date and time of pilot session: January 10, 11am Eastern (schedule 1 hour please)
 
 ### Research sessions
 
@@ -153,7 +160,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Project point of contact:	Liz Lantz
 
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test: Tom Harrison, tom.harrison@adhocteam.us
 
 - Note-takers: Perigean
 
