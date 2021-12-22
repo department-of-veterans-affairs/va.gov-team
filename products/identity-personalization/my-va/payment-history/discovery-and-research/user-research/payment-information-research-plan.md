@@ -37,11 +37,11 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 
 ### **3. Validate that our onsite notification MVP meets Veterans' needs.**
 
-- Is the proposed MVP solution helpful to Veterans?
+- Is the proposed MVP solution (a single dismissible debt notification displayed at the top of the page) helpful to Veterans?
+  - Why would a user want to dismiss this alert?
+  - What do users expect to happen after an alert has been dismissed?
 - When does a user expect to see an alert about new debt?
 - If a user has a new notification on VA.gov, how would they know?
-- Why would a user want to dismiss this alert?
-- What do users expect to happen after an alert has been dismissed?
 - What other notifications do users expect to see on VA.gov?
 
 ### Outcome
@@ -57,13 +57,13 @@ We'll use the findings from this research to update our page IA and inform our M
 
 ## Method	
 
-We'll conduct remote usability testing over Zoom using a desktop prototype.
+We'll conduct remote usability testing over Zoom using a prototype.
 
 ### Research materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-conversation-guide.md) 
 
-- [Link to prototype](url goes here)
+- Link to prototype - coming soon
 
 ## Recruitment	
 
@@ -75,7 +75,7 @@ We will recruit Veteran participants using a lean maximum variation strategy.  W
 
 Schedule 10 Veterans for a minimum of 5 successfully completed sessions.
 
-**Primary criteria (must-haves)**
+#### **Primary criteria (must-haves)**
 
 - All participants should have previously been notified about payments received from the VA OR been notified about a VA-related debt (both are OK too). 
   - Example: Have you ever been notified about a payment you received from the VA?
@@ -83,36 +83,60 @@ Schedule 10 Veterans for a minimum of 5 successfully completed sessions.
   - Answering yes to either or both questions would qualify the participant for the study.
 - Please confirm participants have Zoom downloaded prior to the session and they know how to screen share.
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+#### **Secondary criteria (nice-to-haves)**
+
+##### Gender
+
+- 5 women, 5 men
+
+##### Inclusion
+
+- 7 participants who identify as other than white
+- 3 participants who identify as other than straight/heterosexual and cisgender
+- 5 participants age 55+
+- 5 participants who identify as having a cognitive disability
+- 3 participants who do not have a college degree
+- 3 participants who live in a rural area
+
+##### Geography
+
+- 4 participants from the east coast
+- 3 participants from the mid-west
+- 3 participants from the west coast
 
 ## Timeline
 
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
-
 ### Prepare
 
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
+When will the thing you are testing be finalized?
+
+January 7 
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: January 10, time TBD
 
 ### Research sessions
 
 What dates do you plan to do research? 
 
+January 12-14
+
 ### Length of sessions
 
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+- Sessions will be 30 minutes
+- Schedule minimum of 30 minutes between sessions
 
 ### Availability
 
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
-	
+| Date       | Time (all Eastern)                                      |
+| ---------- | ------------------------------------------------------- |
+| January 12 | 6:30-7am<br />9:30am-4pm<br />8-8:30pm                  |
+| January 13 | 6:30-8am<br />11am-5pm<br />8-8:30pm                    |
+| January 14 | 6:30-7am<br />9:30am-1:30pm<br />2:30-3pm<br />4-4:30pm |
+
+​	
 
 ## Team Roles	
 
