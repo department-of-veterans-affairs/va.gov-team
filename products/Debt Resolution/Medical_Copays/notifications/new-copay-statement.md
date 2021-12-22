@@ -16,4 +16,4 @@ VA.gov
 
 ------  
 
-You're receiving this email because you submitted a request on VA.gov. Please don't reply to this email. If you need to contact us, please visit VA.gov. 
+Please don't reply to this email. If you need to contact us, please visit VA.gov. 
