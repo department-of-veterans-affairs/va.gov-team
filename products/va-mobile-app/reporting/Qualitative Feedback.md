@@ -5,6 +5,8 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/20/21: "This app saves a LOT of time. MUCH more convenient and quicker than using a laptop. if you enable biometrics it is really FAST. EXCELLENT app!" (Google play store review)
+
 - 12/17/21: "Cool experience of the week: today SecVA cold-called me via Teams chat en route to the airport. He wanted to tell me he had just finished up an event in a Texas VetCenter where a Veteran had, unprompted, spoken about the new VA mobile app, and how much he liked it. The Veteran pulled up the app on his phone and proceeded to encourage all the other Veterans in attendance to download it. He also offered some ideas for what he wished it could do. SecVA asked us to follow up with the Veteran and hear his feedback directly, which is in progress now.
 Definitely a great feeling to have users sing the praises of your products to the Secretary - and more importantly to other Veterans! Let's keep it up!" (Charles Worthington via Slack)
 
@@ -69,6 +71,10 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 ## Rx Refill
 
+- 12/19/21: "Overall the app looks nice and navigates well. I agree with some of the other feedback about moving the log out button to the home page and having the integration of the Rx refill app that already exists. Another good upgrade would be have the ability to do travel pay claims in the app." (Google play store review)
+
+- 12/10/21: "This has to be one of the best things I have seen the VA do. This app is easier for me to use than the web pages, which are all disjointed between VA.gov, my health e vet, and e-benefits. I can see my claims info, health care messages/appointments and locator for VA clinics, community urgent care and pharmacists. Well done on that front. The only thing I wish would be the Rx refill being added to it so I don't have to use more than one app." (Google play store review)
+
 - 11/9/21: "Had trouble logging in and once I did kept getting error stating app wasn’t working. That was when I logged in with MyHealthvet. I then logged out and logged in using ID me and now the app is working great. Would like to see VA RX refill app consolidated with this. Then it would be worthy of a five star rating for me. Also, would like to see VHA travel claims added to this, now that would really nice because the BTSSS can be iffy logging in and using at times. Might also add advance directives in case needed in an urgent situation and they can’t always be obtained quickly by non va hospitals."
 
 - 11/7/21: "This is an awesome app, would be awesome if they could add the RX Refill on this app too." (Apple store review)
@@ -97,6 +103,9 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 
 ## Letters
+
+
+- 12/20/21: "I've had the app literally for 10 minutes and I already think it's great. Got to download a couple of documents I didn't have on my file. Let's hope this app keeps working correctly :)" (Google play store review)
 
 - 11/2/21: Sharing screenshot of the letters screen to show 100% disability rating [Reddit link](https://www.reddit.com/r/VeteransBenefits/comments/r133pz/a_year_and_a_half_later_and_we_made_it_boys_and/)
 
