@@ -14,4 +14,4 @@ We’ll notify you by mail once we’ve made a decision on your request.
 
 —
 
-You're receiving this email because you submitted a request on VA.gov. Please do not reply to this email. If you need to contact us, please visit VA.gov. 
+Please do not reply to this email. If you need to contact us, please visit VA.gov. 
