@@ -25,11 +25,14 @@ Thanks for joining us today! My name is [Amanda or Samuel], and I also have some
 * There are no right or wrong answers. We just want to hear your opinions, so that we can improve the application and meet Veterans' needs.
 * I won’t be offended by any opinions you express.
 * This entire session should take about 90 minutes. I want to be sure not to keep you much longer, so I may occasionally interrupt you to move on to the next question.
-* If for any reason and at any time you want to stop the session, please let me know.
+* If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 * In this session, I'll be having you share your Zoom screen so that I can follow along and we'll help you through that.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly.
     * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-* If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+
+Start recording.
+
+* I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 
 ## **Warm-up Questions- 10 minutes**
