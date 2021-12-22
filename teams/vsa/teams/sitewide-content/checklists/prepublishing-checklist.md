@@ -1,5 +1,6 @@
 **Before publishing any page on VA.gov, complete these tasks:**</br>
 - [ ] Check all links to confirm they work and point to the intended page.
+- [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. 
 - [ ] Confirm all phone numbers are in [aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers).
 - [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped).
 - [ ] Check that we use [Node IDs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) instead of urls to link to other pages within Drupal.
