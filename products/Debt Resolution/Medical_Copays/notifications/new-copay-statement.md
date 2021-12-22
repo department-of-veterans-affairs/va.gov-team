@@ -1,6 +1,6 @@
 # Copay statement notification email
 
-## You have a new health care copay statement available 
+## You have new health care information available 
 
 Dear ((First name)), 
 
