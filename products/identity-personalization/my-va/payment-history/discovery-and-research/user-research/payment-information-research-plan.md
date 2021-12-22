@@ -150,7 +150,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Project point of contact:	Liz Lantz
 
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test: TBD
 
 - Note-takers: Perigean
 
@@ -162,4 +162,8 @@ Please list the people who will be serving in each role. **Include the primary p
 
   - taylor.mitchell@gcio.com
 
-    
+  - lihan@adhocteam.us
+
+  - tom.harrison@adhocteam.us
+
+  - should we include folks from the Debt resolution team, in case they're interested?
