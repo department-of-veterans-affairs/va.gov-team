@@ -1,7 +1,7 @@
 # Formal user reseach on homepage concept
 
 ## Goals
-The VA Health Apartment team is conducting user testing of its authenticated homepage and high-level sitemap concept to understand: 
+The VA Health Apartment team is conducting user testing of its authenticated homepage concept to understand: 
 * If Veterans understand how to use our concept,
 * If our concept solves pain points and,
 * If our concept reduces complexity
@@ -24,15 +24,17 @@ For each question above, respectively, we believe the following:
 * Veterans will know the difference between a link that takes them to an action and one that takes them to a resource or content page. 
 
 ## Method
-We'll use semi-structured interviews and observations for this study. This allows us to ask prepared questions and document Veterans' behavior as they explore the homepage design, also giving us the flexibility to pivot and ask follow-up questions should an interesting thread reveal itself. The in-depth qualitative information we'll glean from this study will help us iterate on our design concept. 
+We'll use a mix of open-ended and task-specific questions for this research. The open-ended questions will primarily gauge how the Veteran currently uses 
 
-Here is the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-user-research-conversation-guide.md).
+For testing the mobile concept, we'll use Zoom and staging on VA.gov
+
+Here is the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-formal-research-12-2021/Conversation-guide.md).
 
 ## Location
 We'll conduct user research remotely online using MO Studio's Zoom account.
 
 ## Recruitment approach
-We are planning to recruit through Perigean. 
+Our intended audience for this research is Veterans. We are planning to recruit through Perigean. 
 
 ## Recruitment criteria
 
@@ -76,7 +78,7 @@ Ideally get at least 1 participant from each:
 ## When?
 Conduct research: TBD, Late January-Early February
 
-Length of session: 30 minute sessions with 15 minutes between sessions
+Length of session: 45 minute sessions with 15 minutes between sessions
 
 Moderator availability: TBD
 
