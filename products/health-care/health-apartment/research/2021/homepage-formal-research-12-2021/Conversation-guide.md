@@ -7,14 +7,14 @@
 
 ## Session setup
 
-For this session, the moderator will H 
+For this study, we'll send the participant a link to the design, and have them share their screen as they're interacting with it. 
 
 
 
 
 ### Introduction (2 minutes)
 
-Thanks for joining us today! My name is *(insert name).* I also have some colleagues on the line observing and taking notes. Today we're going to show you a concept for putting all your VA health care needs online in one place. We'll show you the homepage.
+Thanks for joining us today! My name is *(insert name).* I also have some colleagues on the line observing and taking notes. Today we're going to show you a concept for putting all your VA health care needs online in one place. We'll show you the homepage, and ask you to complete a set of tasks. 
 
 
 
@@ -89,54 +89,11 @@ Start recording.
 
 
 
-## While showing concept (15 minutes)
+## Homepage(20)
 
-Ahead of the session, adjust the Mural in your browser window so that the design shows somewhat realistically. 
-
-
-
-
-Now I'm going to show you a new concept for the My HealtheVet homepage. 
-
-
-
-
-For moderator: 
-
-* For mobile: [Use the mobile Mural](https://app.mural.co/xxxxx).
-
-* For desktop: [Use the desktop Mural](https://app.mural.co/xxxxx).
-
-
-
-
-Next:
-
-1. Share your screen with the participant. Share ONLY the browser window. 
-
-2. Confirm that they can see the page.
-
-
-
-
-### First Impression
-
-I'd like your first impression. Talk out loud. Say anything that comes to mind. And let me know when you would like me to scroll.
-
- Watch and listen for: 
-
-* If they remark on something missing.
-
-Ask the participant:
-
-* Tell me about your first impressions. 
-
-* Where is your attention drawn?
-
- 
 
 ### Task Questions 
- *Now I'm going to ask you how you think you would perform certain tasks on the site. Remember, there's no wrong or right answer.* 
+Alright, I want you to pretend like you've just logged on to this page. I'm now going to ask you about a series of tasks, and how you would go about completing them. 
 
 ### Appointments:
 * If you wanted to schedule a new appointment, what would you do?
