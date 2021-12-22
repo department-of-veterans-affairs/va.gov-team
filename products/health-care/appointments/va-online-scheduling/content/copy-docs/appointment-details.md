@@ -1453,6 +1453,7 @@ Call {morning, afternoon, evening}
 none
 
 ---
+---
 
 ## #32593
 
@@ -1815,4 +1816,200 @@ You shared these details about your concern
 
 none
 
+---
+---
+
+## #34392
+
+### VA Booked-Future (#34392)
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+none
+
+**PAGE CONTENT**
+
+```
+Type of care: {type of care}
+
+VA appointment
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Location: {Physical location}
+Main phone: {phone number}
+TTY: 711
+
+You shared these details about your concern
+{Reason}: {Booking note}
+```
+
+```Add to calendar```
+
+```Print```
+
+```Cancel appointment```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
+### VA Booked-Past (#34392)
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+This appointment occurred in the past.
+```
+
+**PAGE CONTENT**
+
+```
+Type of care: {type of care}
+
+VA appointment
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Location: {Physical location}
+Main phone: {phone number}
+TTY: 711
+
+You shared these details about your concern
+{Reason}: {Booking note}
+```
+
+```Print```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
+### VA Booked-Canceled (#34392)
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+{Canceler} canceled this appointment.
+```
+
+**PAGE CONTENT**
+
+```
+Type of care: {type of care}
+
+VA appointment
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Location: {Physical location}
+Main phone: {phone number}
+TTY: 711
+
+You shared these details about your concern
+{Reason}: {Booking note}
+```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
+### Confirmation States (#34392)
+
+#### VA Direct Confirmation State (#34392)
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+We've scheduled and confirmed your appointment.
+```
+
+```Review your appointments```
+
+```Schedule a new appointment```
+
+**PAGE CONTENT**
+
+```
+Type of care: {type of care}
+
+VA appointment
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Location: {Physical location}
+Main phone: {phone number}
+TTY: 711
+
+You shared these details about your concern
+{Reason}: {Booking note}
+```
+
+```Add to calendar```
+
+```Print```
+
+```Cancel appointment```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
 ---
