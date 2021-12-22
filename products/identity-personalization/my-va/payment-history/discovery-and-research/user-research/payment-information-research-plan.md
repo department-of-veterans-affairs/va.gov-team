@@ -39,7 +39,7 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 
 - Does the proposed MVP solution (a single dismissible debt notification displayed at the top of the page) help Veterans to more easily take action on their payments or debts?
   - Why would a user want to dismiss this alert?
-  - What do users expect to happen after an alert has been dismissed?
+  - What do users expect to happen after an alert has been dismissed? How and when would they see that information again?
   - Are there any areas where the design does not meet Veteran needs?
 - When does a user expect to see an alert about new debt?
 - If a user has a new notification on VA.gov, how would they know?
@@ -130,11 +130,11 @@ January 12-14
 
 ### Availability
 
-| Date       | Time (all Eastern)                                      |
-| ---------- | ------------------------------------------------------- |
-| January 12 | 6:30-7am<br />9:30am-4pm<br />8-8:30pm                  |
-| January 13 | 6:30-8am<br />11am-5pm<br />8-8:30pm                    |
-| January 14 | 6:30-7am<br />9:30am-1:30pm<br />2:30-3pm<br />4-4:30pm |
+| Date       | Time (all Eastern)           |
+| ---------- | ---------------------------- |
+| January 12 | 9:30am-6pm<br />             |
+| January 13 | 7:30-8am<br />11am-6pm<br /> |
+| January 14 | 9:30am-4:30pm                |
 
 ​	
 
@@ -142,7 +142,10 @@ January 12-14
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 
-- Moderator: Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
+- Moderator: 
+
+  - Liz Lantz, 843-898-4463, liz.lantz@adhocteam.us
+  - Tressa Furner (tressa.furner@adhocteam.us) will facilitate sessions that begin after 4pm on the 12th and 13th, and a few afternoon sessions on the 14th.
 
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz and Tressa Furner
 
