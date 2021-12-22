@@ -23,7 +23,7 @@ For each question above, respectively, we believe the following:
 * Veterans will know the difference between a link that takes them to an action and one that takes them to a resource or content page. 
 
 ## Method
-We'll use a mix of open-ended and task-specific questions for this research. The open-ended questions will primarily gauge how the Veteran currently uses 
+We'll use a mix of open-ended and task-specific questions for this research. The open-ended questions will primarily gauge how the Veteran currently uses MyHealtheVet (and serve as a warm-up), while the task-specific questions will give us insight as to whether our layout and content makes tasks discoverable and easily actioned. 
 
 For testing the mobile concept, we'll use Zoom and staging on VA.gov
 
