@@ -1,5 +1,5 @@
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
+
 
 ---
 
@@ -23,15 +23,10 @@ As a Veteran, I:
 - Know when an item needs action, and  can take said action with minimal steps
 
 
-## Undesired User Outcomes
-
 
 ## Desired Business Outcomes
 - Increased satisfaction with VA digital experience
 - Increased quality and consistency of care
-
-
-## Undesired Business Outcomes
 
 
 ---
