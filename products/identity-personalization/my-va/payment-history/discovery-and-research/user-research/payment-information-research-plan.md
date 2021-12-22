@@ -31,18 +31,19 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 ### 2. Understand the financial information that is most important to Veterans.
 
 - What information do users want to know about new debts, existing debts, and payments from the VA?
+  - Is it important for them to know how many new debts have been added, or only that they have new debt?
 - Are we missing any additional links?
 - How long do users expect to have access to historical financial information (debts + payments) on My VA?
 - Does providing a link allow users take sufficiently take action on their payments and debts, and manage direct deposit?
 
 ### **3. Validate that our onsite notification MVP meets Veterans' needs.**
 
-- Is the proposed MVP solution (a single dismissible debt notification displayed at the top of the page) helpful to Veterans?
+- Does the proposed MVP solution (a single dismissible debt notification displayed at the top of the page) help Veterans to more easily take action on their payments or debts?
   - Why would a user want to dismiss this alert?
   - What do users expect to happen after an alert has been dismissed?
+  - Are there any areas where the design does not meet Veteran needs?
 - When does a user expect to see an alert about new debt?
 - If a user has a new notification on VA.gov, how would they know?
-- What other notifications do users expect to see on VA.gov?
 
 ### Outcome
 
@@ -77,10 +78,10 @@ Schedule 10 Veterans for a minimum of 5 successfully completed sessions.
 
 #### **Primary criteria (must-haves)**
 
-- All participants should have previously been notified about payments received from the VA OR been notified about a VA-related debt (both are OK too). 
-  - Example: Have you ever been notified about a payment you received from the VA?
-  - Example: Have you ever been notified about a VA-related debt?
-  - Answering yes to either or both questions would qualify the participant for the study.
+- All participants should have received education benefit or compensation/pension payments from the VA OR incurred education (CH 33, CH 34, CH 35) or compensation/pension debts.
+  - Example: Have you ever received an education, compensation or pension payment from the VA?
+  - Example: Do you have education, compensation, or pension debt with VA?
+  - Answering yes to **either or both** questions would qualify the participant for the study.
 - Please confirm participants have Zoom downloaded prior to the session and they know how to screen share.
 
 #### **Secondary criteria (nice-to-haves)**
@@ -150,7 +151,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Project point of contact:	Liz Lantz
 
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test:	
 
 - Note-takers: Perigean
 
@@ -164,6 +165,6 @@ Please list the people who will be serving in each role. **Include the primary p
 
   - lihan@adhocteam.us
 
-  - tom.harrison@adhocteam.us
+    
 
-  - should we include folks from the Debt resolution team, in case they're interested?
+    
