@@ -129,7 +129,7 @@ Task 2: Review Profile Sections - 10 minutes
 - Talk to me about these options - what is your understanding of them?
 - Is there anything that's confusing?
 - Is there anything that's missing?
-- What would you select for this field?
+- Do you see an option here that represents what you would choose if you were filling this out for yourself?
 - Ok, thanks. Go ahead and click cancel.
 
 ### Gender Identity
@@ -138,7 +138,7 @@ Task 2: Review Profile Sections - 10 minutes
 - Talk to me about these options - what is your understanding of them?
 - Is there anything that's confusing?
 - Is there anything that's missing?
-- What would you select for this field?
+- Do you see an option here that represents what you would choose if you were filling this out for yourself?
 - Ok, thanks. Go ahead and click cancel.
 
 ### Sexual Orientation
@@ -147,7 +147,7 @@ Task 2: Review Profile Sections - 10 minutes
 - Talk to me about these options - what is your understanding of them?
 - Is there anything that's confusing?
 - Is there anything that's missing?
-- What would you select for this field?
+- Do you see an option here that represents what you would choose if you were filling this out for yourself?
 - Ok, thanks. That's everything I wanted you to take a look at.
 
 **Things to watch for:**
