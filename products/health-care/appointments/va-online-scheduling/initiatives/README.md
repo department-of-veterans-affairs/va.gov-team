@@ -19,6 +19,7 @@ This folder contains documentation for larger-scale projects. Below is a timelin
 
 **April**
 - April 26, 2021 - Community Care provider selection MVP launch
+- April 22, 2021 - Express Care sunset (toggle turned off)
 
 **March**
 - March 31, 2021 - VAOS COVID-19 vaccine scheduling ("Cheetah"/VAOS for Distribution) pilot starts
@@ -28,6 +29,9 @@ This folder contains documentation for larger-scale projects. Below is a timelin
 
 
 ### 2020
+
+**August**
+- August 20, 2020 - Express Care launch
 
 **March**
 - March 11, 2020 - VAOS redesign soft launches on VA.gov
