@@ -29,6 +29,5 @@
 - Does the "Back" button take user back to previous screen?
 - Can user opt to “Finish this application later” and see confirmation that the app was saved along with button to “Continue your application” 
 
-Unauthenticated User: 
 
-Addition: test that link in more info component directs users to https://www.ihs.gov/ihcia/
+Addition: test that link in "more info" component directs users to https://www.ihs.gov/ihcia/
