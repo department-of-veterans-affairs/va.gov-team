@@ -2,9 +2,8 @@
 
 ## Goals
 The VA Health Apartment team is conducting user testing of its authenticated homepage concept to understand: 
-* If Veterans understand how to use our concept,
-* If our concept solves pain points and,
-* If our concept reduces complexity
+* If action links on the homepage are easily discovered and executed by Veterans
+* How we might improve content and user flows to make it easier for Veterans to manage their health care
 
 The feedback from this research will inform future iterations of both the homepage and sitemap, as well as the overall design of the health apartment concept.
 
