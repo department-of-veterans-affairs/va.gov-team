@@ -162,7 +162,8 @@ Interview - 5 minutes
 -------------------------------
 
 - How do you think the VA would use this information about you?
-- (if needed) Did you notice the question under the "Personal Information" heading? 
+- (if the participant can't find FAQ) Did you notice the question under the "Personal Information" heading? 
+- - (if the participant can find FAQ, but not without prompting) Had you seen the questions under the "Personal Information" heading when you first landed on the page? 
 - (if needed) Did you notice that some of the fields can't be edited? What are your thoughts on that?
 - (if not mentioned) What are your thoughts on the order of the information on this page?
 - How did this page line up with your expectations?
