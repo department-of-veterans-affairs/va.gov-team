@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience team, Payment information and onsite notifcations, January 2022
+# Research Plan for Authenticated Experience team, Payment information and onsite notifications, January 2022
 
 ## Background
 
