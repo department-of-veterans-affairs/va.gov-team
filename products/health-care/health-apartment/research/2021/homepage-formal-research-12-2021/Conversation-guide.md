@@ -173,19 +173,31 @@ Ask the participant:
 ### Task Questions 
  *Now I'm going to ask you how you think you would perform certain tasks on the site. Remember, there's no wrong or right answer.* 
 
-
+### Appointments:
 * If you wanted to see all of your appointments, what would you do?
 * If you wanted to schedule a new appointment, what would you do?
 * If you wanted to cancel an appointment, what would you do?
+
+### Pharmacy:
 * If you wanted to refill a prescription, what would you do?
 * If you wanted to see all of your prescriptions, what would you do?
+
+### Messages:
 * If you wanted to check the status of a message you sent, what would you do?
 * If you wanted to send a message, what would you do?
+
+### Medical Records:
 * If you wanted to check on recent lab results, what would you do?
-* If you wanted to see a detailed breakdown of your benefits and coverage, what would you do?
+
+### Health Care Benefits:
+* If you wanted to request travel pay, what would you do?
 * If you needed to order more diabetic socks or hearing aid batteries, what would you do?
-* If you needed additional information on disability not shown on this page, what would you do?
-* If you had questions about how to do something on this site, what would you do?
+
+### Disability:
+* If you wanted to check on the status of a disability clai, what would you do? 
+
+### Health and Resources:
+* 
 
 
 
