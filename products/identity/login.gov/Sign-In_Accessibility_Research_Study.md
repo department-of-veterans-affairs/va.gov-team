@@ -157,7 +157,9 @@ Have you logged into VA.gov at least twice in the last 30 days?
 - At least half of the participants are Advanced level users of Assistive technology
 - At least three participants that use screen readers
 - At least three participants that are keyboard users
+
 **Secondary criteria (nice-to-haves)**
+
 >What criteria would strengthen your results?
 
 - At three participants using speech input
