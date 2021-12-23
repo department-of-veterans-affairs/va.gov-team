@@ -25,13 +25,15 @@ Every year, the Sitewide Content team needs to update various rates pages with n
   - Update calendar year in page title, page intro and meta tags
   - Update dates, rate amounts, and calculations throughout the rates page.
     - **Tip:** For more complicated/rates heavy pages such as the VA DIC rates for parents page, save as you go! You can also coordinate with a team member to get on a call to tackle the updates together. One of you can recite the rate amount, while the other enters the new rate amount in Drupal.
-  - In the **Past rates** section, add the newly created past rates page link to the top of list and delete the last.
+  - In the **Past rates** section, add the newly created past rates page link to the top of list and delete the last. There should be a total of 3 past years of rates listed.
   - Click **Save as draft**.
 5. Review and publish the updated current page and the newly created past rates page. This is done by the final reviewer.
   - Confirm that the rate amounts, dates, and calculations are correct. Make sure the links work.
+  - Update the url and menu item for the past rates page that was just created. You can open another past rates page to see what should be written.
   - **Publish** the page.
 6. Update left nav to show the rates pages for the last 3 years.
-
+- Order the past rates pages from newest to oldest in the left nav menu.
+- If there are more than 3 years of past rates, unclick "enabled" in the menu so that it no longer shows in the left nav.
 
 ## Resources
 [Rate pages update table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/rate-page-update-audit.md_
