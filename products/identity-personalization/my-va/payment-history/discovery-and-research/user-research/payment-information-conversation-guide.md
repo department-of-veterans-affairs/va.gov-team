@@ -1,6 +1,6 @@
 # Conversation Guide for My VA Payment Information and Onsite Notifications
 
-`draft`
+`DRAFT`
 
 ## Moderator logistics
 
@@ -79,7 +79,7 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 - What kind of information does the participant look for?
 - What's most important for them to know?
 
-## Second Task: Review My VA and financial info- X minutes
+## Second Task: Review My VA and financial info - 8 minutes
 
 **Task goal: Validate we have included the right content and links, the structure of the page makes sense, and users can take sufficient action on their financial updates from My VA. We also want to learn about how the participant thinks about timing of finance related notifications**
 
@@ -116,7 +116,7 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 - What does the participant think about timing for fiancial information?
 - Where does the participant expect to see travel reimbursement info?
 
-## Third Task: Review onsite notifications - X minutes
+## Third Task: Review onsite notifications - 5 minutes
 
 **Task goal: Validate that the design of the onsite notification is effective and does not present any usability hurdles, learn how participants would want to interact with the alert, and understand user expectations around onsite notifications.**
 
@@ -149,7 +149,7 @@ In general, if you have a new notification on VA.gov, how would you know about i
 - At what point does the participant expect to see new debt information?
 - How does the participant expect to find out about new notifications on VA.gov?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 3 minutes
 
 That's everything I wanted to get your feedback on, thank you so much! This has been really helpful for our team. Do you have any questions for me before we end the session?
 
