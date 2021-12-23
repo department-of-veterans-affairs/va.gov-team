@@ -39,7 +39,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 **Task goal: Confirm they qualify for the study, learn how they receive information from VA about financial things, and how that's meeting their needs.**
 
