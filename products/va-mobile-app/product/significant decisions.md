@@ -333,7 +333,7 @@ We considered several other options, briefly listed here, from most to least pra
 4. build a mobile API separately from vets-api, re-building all the backend integrations
 
 ### What was the deciding factor for your decision?
-Availability of backend intwgrations, as well as support from the VSP team to build inside of vets-api
+Availability of backend integrations, as well as support from the VSP team to build inside of vets-api
 
 ### Document the people who agreed to the design decision (and their roles on the project).
 ([design doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-08-17-mobile-api-design-doc.md) is still in Draft phase)
