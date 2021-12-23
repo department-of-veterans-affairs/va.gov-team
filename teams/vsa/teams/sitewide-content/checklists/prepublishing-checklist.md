@@ -1,8 +1,9 @@
 **Before publishing any page on VA.gov, complete these tasks:**</br>
 - [ ] Check all links to confirm they work and point to the intended page.
-- [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. 
+- [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible](https://www.accessibilityoz.com/2014/02/links-and-accessibility/)
+- [ ] Confirm all links are 100 characters or less.
 - [ ] Confirm all phone numbers are in [aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers).
-- [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped).
+- [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 - [ ] Check that we use [Node IDs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) instead of urls to link to other pages within Drupal.
 - [ ] Replace any sighted language ("view," "see," "look") with a word that's inclusive of our screen reader users ("check," "go to," "review").
 - [ ] If publishing a brand-new page, [confirm the left nav and url are set up correctly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md). (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.)
@@ -15,6 +16,7 @@
 - [ ] Determine if this new article should be added as a related link on any live articles. 
 - [ ] Make sure the wording for the action link (call to action link text) matches other pages that use the same link.
 - [ ] If linking off of VA.gov, make sure the words in the label or button indicate to the user that they're leaving VA.gov.
+- [ ] Check that any screenshots contain alt text that contain context.
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
 **Before publishing a Resources and Support article, confirm these components are checked in the Drupal file:**</br>
