@@ -52,10 +52,10 @@ resources that the VA offers. So, if you are confused, happy, surprised, or even
 ## Main Interview
 
 ### Scenario 1 - General Wayfinding
-Description
-You are a veteran living in Washington D.C., you have a complicated question regarding your [college, house buying, diabetes care, career] needs. You've already done some research online, but still feel that you need help.
+Scenario Description: You are a veteran living in Washington D.C., you have a complicated question regarding your [college, house buying, diabetes care, career] needs. You've already done some research online, but still feel that you need help.
 
 1. What are the next steps for you to find help? What first occured to you?
+2. Have you taken similar steps in the past?
 
 --- Redirect User if Necessary
 Those are great solutions. For the purposes of this excercise, we are going to try and use the Facility Locator Tool to find a VBA location that would help with this service.
@@ -66,12 +66,26 @@ Can you see the screen I have shared clearly?
 The "Correct" Path:
 1. Enter Zip Code or City (20001, Washington D.C., prompt the user if necessary)
 2. Choose Facility Type: VA Benefits
-3. Choose Service Type: Education and Career counseling, or VA Home Loan Help
+3. Choose Service Type: Education and Career counseling, or VA Home Loan Help, or IDES
 4. View Locations
 5. Stop the user there for Reflection Questions:
   1. What are you thinking as you go through these services?
-  2. I saw you hesitate on ___, what does the service ____ mean to you?
-  3. Were there any other categories that you were tempted to choose?
+  2. I saw you hesitate on XXXX, what does this service mean to you?
+  3. Are there any categories that you wanted more clarity on?
+  4. Were there any other categories that you were tempted to choose?
+
+### Scenario 2 - Location Specific Page
+Scenario Description: You are a veteran living in Washington D.C., you have a complicated question regarding your [college, house buying, diabetes care, career] needs. You've found a VBA location that seems like it can help with these questions and are now viewing their web page.
+
+*Share Screen and display a specific facility details page*
+Can you see the screen I have shared clearly?
+
+**Can this location help with your request?**
+
+1. On this page, are there any services that you find confusing or that require clarification?
+2. You mentioned the XYZ service category, what does that label mean to you?
+3. How confident would you be in the information provided on this page?
+4. What other steps would you take to answer your questions after viewing this page?
 
 
 # Closing
