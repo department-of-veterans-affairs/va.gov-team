@@ -104,7 +104,7 @@ Alright, I want you to pretend like you've just logged on to this page. I'm now 
 * If you wanted to see all of your prescriptions, what would you do?
 
 ### Messages:
-* If you wanted to check the status of a message you sent, what would you do?
+* If you wanted to see past messages, what would you do?
 * If you wanted to send a message, what would you do?
 
 ### Medical Records:
