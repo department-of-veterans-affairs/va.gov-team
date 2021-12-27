@@ -108,9 +108,9 @@ Last updated December 10, 2021
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("View all payments"))| 2.3mil|TBD|TBD|
-|Clicks to view all debts ("You have n oustanding debt payments")| 179k|TBD|TBD|
-|Clicks to view direct deposit settings ("Manage direct deposit")| 464k|TBD|TBD|
+|Clicks to view all payments ("View your payment history"))| 2.3mil|TBD|TBD|
+|Clicks to view all debts ("You have n oustanding debt payments. Manage your VA debt")| 179k|TBD|TBD|
+|Clicks to view direct deposit settings ("Manage your direct deposit")| 464k|TBD|TBD|
 
 
 
@@ -140,7 +140,7 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |KPI/metric|Baseline: Aug - Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |% of logged-in users who visit My VA| 7%|TBD%|TBD|
-|% of logged-in users interact with the Payments Information| 0% (new)|TBD%|TBD|
+|% of logged-in users interact with the Benefit payments and debts section| 0% (new)|TBD%|TBD|
 
 
 ---
@@ -176,10 +176,10 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 **In Scope - MVP**
 Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
 
-  - Most recent payment (31 days out - Confirmed via [this Slack message](https://dsva.slack.com/archives/C909ZG2BB/p1640031990019000), anything older will result in the payment section not showing on My VA.) 
-  - Dynamic debt link ('You've got 2 outstanding debt payments)
-  - Manage Direct deposit [link]
-  - View all payments [link]
+  - Most recent payment (31 days out - Confirmed via [this Slack message](https://dsva.slack.com/archives/C909ZG2BB/p1640031990019000), anything older will result in the payment card/block not showing (links for debt and direct deposit will remain.) 
+  - Dynamic debt text (You have 2 outstanding debt. "Manage your VA debt" is the link on the same line)
+  - Manage your direct deposit [link]
+  - View your payment history [link]
 
 
 **Not In Scope** 
