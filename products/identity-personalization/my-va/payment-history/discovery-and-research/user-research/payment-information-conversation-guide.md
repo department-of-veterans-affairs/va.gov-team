@@ -93,8 +93,9 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 
 - Take a look at this page, and before you click on anything, tell me about what you see here. 
 - *If needed:* 
-  - What do you think is this page for?
+  - What do you think this page for?
   - What stands out to you on this page?
+  - What is confusing about this page?
 - Imagining that this was your personalized page, talk to me about how this lines up with information that is important to you. 
   - *If needed:* 
     - How would you rank the sections you see here, in order of importance to you?
