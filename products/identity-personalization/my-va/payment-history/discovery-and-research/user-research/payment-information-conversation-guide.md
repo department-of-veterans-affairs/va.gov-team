@@ -61,7 +61,9 @@ Before we look at the website, I'd like to get a little background information f
 
 **Task goal: Make sure payment and debt information is findable, and learn about what kind of information participants would look for.**
 
-Now I'm going to send you a link to the website, and have you share your screen. I'd like for you to show me how you'd go about finding new information about your payments and debts. 
+Now I'm going to send you a link to the website, and have you share your screen. We will be looking at a prototype as the logged-in user 'Kim Smith' (who is completely fictional) today, and if you could pretend to be her for these exercises that would be great. 
+
+I'd like for you to show me how you'd go about finding new information about your payments and debts. 
 
 As I mentioned earlier, it'll be very helpful for you to think out loud and share what's on your mind as much as possible.
 
@@ -71,6 +73,7 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 *If needed, ask:* 
 
 - What kind of information are you looking for?
+- Based on this prototype, how do you know what information is important? 
 - What is most important information for you to know about this?
 
 ### Things to watch for:
@@ -101,12 +104,16 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
     - How would you rank the sections you see here, in order of importance to you?
     - Let's focus on the payment section. Talk to me about the information you see there.
     - What would you do from here?
-    - Is anything missing?
+    - What would you say is missing from the payment section?
+    - What do you find confusing? 
+    - What works about this section?
+    - What doesn't work about this section?
 - I'm interested in your thoughts about timing for financial information. 
-  - How long after a payment is made to you or a debt is added do you need to see that information?
+  - After a payment is made to you or a debt is added, how long do you expect to see that information on this page?
   - Let me give you an example - say you used your education benefits ago and the last payment you received was in January 2021. Would you still want to see that?
 - One more specific thing I want your feedback on - do you have any experience with VA travel reimbursement? Show me where you'd look for that on this page. 
   - What are your thoughts on it being there?
+- Based on what your experience with this prototype, what would you say is the most important information on the page?
 
 ### Things to watch for:
 
@@ -126,18 +133,19 @@ Now let's look specifically at the call-outs (yellow notifications) on the page.
 *If needed*:
 
 - What are your thoughts on how they're placed within the page?
-- Is that information important enough to you that it should be highlighted like that?
+- What are your thoughts on the information shown in those call-outs?
+- What would you change about these call-outs? 
 
-Let's talk about any interactivity you notice related to these alerts. What can you do with them?
+Okay great, let's talk about any interactivity you notice related to these alerts. What can you do with them?
 
 *If needed:*
 
 - Why would you want to dismiss the alert?
-- What do you expect happen after you dismiss it? 
-- How would you find that information again?
+- What do you expect to happen after you dismiss it? 
+- After dismissing an alert, how would you find that information again?
 - Why do you think some are dismissible and some are not?
 
-And for this specific notification - a new debt has been added - at what point would you expect to see that information?
+And for this specific notification - a new debt has been added - after you log-in, when would you expect to see that information?
 
 In general, if you have a new notification on VA.gov, how would you know about it? 
 
