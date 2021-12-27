@@ -16,13 +16,15 @@
 
 ## <a name="flows"></a>User/Page Flows <br>
 *Description of how users will flow through the experience*
-- User flows were completed by the product team and included in the original IA request.
-- Users will only access this new page flow from an email, no entry points will be provided on the site.  
-  - Profile may eventually include the ability to manage email communications, but that experience is not yet defined. 
+
+![image](https://user-images.githubusercontent.com/20994159/147513631-b4dac409-ccf6-4f48-ac40-a2f230078af5.png)
 
 User flow recommendations:  
+- Users will only access this new page flow from an email, no entry points will be provided on the site.  
+  - Profile may eventually include the ability to manage email communications, but that experience is not yet defined and likely will not utilize this page. 
 - It is highly recommended that your flows acknowledge and acommodate users that do not have a VA.gov account. This can be handled through content, button labelings, etc.  The goal is to ensure users understand that in order to "manage their communication preferences" they will need to log into VA.gov. 
-- It is highly recommended that you surface the link to My HealtheVet to manage health care related communications, since those cannot be managed on VA.gov.  Without this, logging into Va.gov is extra unnecssary steps, and if the user doesn't have an account, it is even more work to then be sent to another site. 
+- It is highly recommended that you surface the link to My HealtheVet to manage health care related communications, since those cannot be managed on VA.gov.  Without this, logging into Va.gov is extra unnecssary steps, and if the user doesn't have an account, it is even more work to then be sent over to another site. 
+  - CTA labels will be critical to ensure users understand what they can do on each site for.
 
 ## <a name="ia"></a>IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
