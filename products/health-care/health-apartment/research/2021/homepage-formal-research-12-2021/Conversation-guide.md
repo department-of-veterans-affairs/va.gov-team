@@ -119,8 +119,9 @@ Alright, I want you to pretend like you've just logged on to this page. I'm now 
 * If you wanted to check on the status of a disability claim, what would you do?
    * Watch for: Does the user go to the top of the page? Do they go to the Disability section? 
 
-### Health and Resources:
-* TBD
+### Contact Us
+* If you wanted to speak to someone for help with the MyHealtheVet page, what would you do?
+
 
 
 
