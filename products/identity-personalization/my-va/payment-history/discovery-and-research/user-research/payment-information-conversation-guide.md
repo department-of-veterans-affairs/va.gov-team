@@ -99,21 +99,34 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
   - What do you think this page for?
   - What stands out to you on this page?
   - What is confusing about this page?
+
 - Imagining that this was your personalized page, talk to me about how this lines up with information that is important to you. 
   - *If needed:* 
     - How would you rank the sections you see here, in order of importance to you?
-    - Let's focus on the payment section. Talk to me about the information you see there.
-    - What would you do from here?
-    - What would you say is missing from the payment section?
-    - What do you find confusing? 
-    - What works about this section?
+
+- Say you came to this page looking to see if your most recent Compensation and Pension deposit from the VA had been made. How would you do that?
+
+- Say you wanted to see all of the payments that the VA had made to you, how would you do that?
+
+- Imagine you wanted to update your bank information that the VA has on file. How would you do that?
+   
+- Okay great, lets talk throught this payment information section. What information is the most important for you to see here? 
+   
+   - What works for you about this section?
     - What doesn't work about this section?
+    - What would you say is missing?
+    - What did you find confusing?
+
 - I'm interested in your thoughts about timing for financial information. 
   - After a payment is made to you or a debt is added, how long do you expect to see that information on this page?
   - Let me give you an example - say you used your education benefits ago and the last payment you received was in January 2021. Would you still want to see that?
+
 - One more specific thing I want your feedback on - do you have any experience with VA travel reimbursement? Show me where you'd look for that on this page. 
   - What are your thoughts on it being there?
+
 - Based on what your experience with this prototype, what would you say is the most important information on the page?
+
+### Content
 
 ### Things to watch for:
 
@@ -128,26 +141,36 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 
 **Task goal: Validate that the design of the onsite notification is effective and does not present any usability hurdles, learn how participants would want to interact with the alert, and understand user expectations around onsite notifications.**
 
-Now let's look specifically at the call-outs (yellow notifications) on the page. Tell me your thoughts on those.
+- Let's imagine that you recently incurred a new debt with the VA. How would you know about it based on what you're looking at here?
 
-*If needed*:
+- Now let's look specifically at the call-outs (yellow notifications) on the page. Tell me your thoughts on those.
 
-- What are your thoughts on how they're placed within the page?
-- What are your thoughts on the information shown in those call-outs?
-- What would you change about these call-outs? 
+  *If needed*:
 
-Okay great, let's talk about any interactivity you notice related to these alerts. What can you do with them?
+  - What are your thoughts on how they're placed within the page?
+  - What are your thoughts on the information shown in those call-outs?
+  - What would you change about these call-outs? 
 
-*If needed:*
+- If you were to click on 'Manage your VA debt', what would you expect to happen? 
 
-- Why would you want to dismiss the alert?
-- What do you expect to happen after you dismiss it? 
-- After dismissing an alert, how would you find that information again?
-- Why do you think some are dismissible and some are not?
+- Say you clicked on 'Manage your VA debt', viewed your debt, and then came back to this page, what would happen to this notification? 
 
-And for this specific notification - a new debt has been added - after you log-in, when would you expect to see that information?
+- Say you paid your VA debt, what would you expect to happen to this notification?
 
-In general, if you have a new notification on VA.gov, how would you know about it? 
+- Can you scroll down to the 'Benefit payments and debts' section. What would happen if you were to click on 'Manage your VA debt' here?
+
+- Okay great, let's talk about any interactivity you notice related to these alerts. What can you do with them?
+
+  *If needed:*
+
+  - Why would you want to dismiss the alert?
+  - What do you expect to happen after you dismiss it? 
+  - After dismissing an alert, how would you find that information again?
+   - Why do you think some are dismissible and some are not?
+
+- And for this specific notification - a new debt has been added - after you log-in, when would you expect to see that information?
+
+- In general, if you have a new notification on VA.gov, how would you know about it? 
 
 ### Things to watch for:
 
@@ -160,7 +183,7 @@ In general, if you have a new notification on VA.gov, how would you know about i
 
 ## Thank-You and Closing - 3 minutes
 
-That's everything I wanted to get your feedback on, thank you so much! This has been really helpful for our team. Do you have any questions for me before we end the session?
+That's everything I wanted to get your feedback on, thank you so much! This has been really helpful for our team. Do you have any questions or last thoughts for me before we end the session?
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
