@@ -61,9 +61,7 @@ Before we look at the website, I'd like to get a little background information f
 
 **Task goal: Make sure payment and debt information is findable, and learn about what kind of information participants would look for.**
 
-Now I'm going to send you a link to the website, and have you share your screen. We will be looking at a prototype as the logged-in user 'Kim Smith' (who is completely fictional) today, and if you could pretend to be her for these exercises that would be great. 
-
-I'd like for you to show me how you'd go about finding new information about your payments and debts. 
+Now I'm going to send you a link to the website, and have you share your screen. I'd like for you to show me how you'd go about finding new information about your payments and debts. 
 
 As I mentioned earlier, it'll be very helpful for you to think out loud and share what's on your mind as much as possible.
 
@@ -73,8 +71,9 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 *If needed, ask:* 
 
 - What kind of information are you looking for?
-- Based on this prototype, how do you know what information is important? 
-- What is most important information for you to know about this?
+- Why did you expect it to be there?
+
+- Imagine that new debt has been added to your account- after you log-in, when would you expect to see that information?
 
 ### Things to watch for:
 
@@ -88,7 +87,7 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 
 *If not already on My VA:* 
 
-- Thanks for showing that to me. Now I'm going to send you a different link, to a prototype of My VA.  
+- Thanks for showing that to me. Now I'm going to send you a different link, to a prototype of My VA.  We will be looking at a prototype as the logged-in user 'Kim Smith' (who is completely fictional) today, and if you could pretend to be her for these exercises that would be great. 
 
   **Note: may have the login to staging instead of we can test in code, and walk them through that if needed.**
 
@@ -111,8 +110,8 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 - Imagine you wanted to update your bank information that the VA has on file. How would you do that?
    
 - Okay great, lets talk throught this payment information section. What information is the most important for you to see here? 
-   
-   - What works for you about this section?
+- *If needed:*    
+    - What works for you about this section?
     - What doesn't work about this section?
     - What would you say is missing?
     - What did you find confusing?
@@ -124,7 +123,7 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 - One more specific thing I want your feedback on - do you have any experience with VA travel reimbursement? Show me where you'd look for that on this page. 
   - What are your thoughts on it being there?
 
-- Based on what your experience with this prototype, what would you say is the most important information on the page?
+- Based on what your experience with this prototype, what would you say is the most important information on the page? Why?
 
 ### Content
 
@@ -158,19 +157,22 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 - Say you paid your VA debt, what would you expect to happen to this notification?
 
 - Can you scroll down to the 'Benefit payments and debts' section. What would happen if you were to click on 'Manage your VA debt' here?
+ *If needed*:
 
-- Okay great, let's talk about any interactivity you notice related to these alerts. What can you do with them?
+  - What are your thoughts on having two similar notifications on the same page?
+
+- Okay great, let's talk about any interactivity with these alerts. What can you do with them?
 
   *If needed:*
 
-  - Why would you want to dismiss the alert?
+  - Why would you want to dismiss this alert?
   - What do you expect to happen after you dismiss it? 
   - After dismissing an alert, how would you find that information again?
    - Why do you think some are dismissible and some are not?
 
-- And for this specific notification - a new debt has been added - after you log-in, when would you expect to see that information?
-
 - In general, if you have a new notification on VA.gov, how would you know about it? 
+
+- And for this specific notification - a new debt has been added - after you log-in, when would you expect to see that information? **If this question was already asked at the beginning, you can skip this**
 
 ### Things to watch for:
 
