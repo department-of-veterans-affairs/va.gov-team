@@ -68,12 +68,14 @@ As I mentioned earlier, it'll be very helpful for you to think out loud and shar
 - Send link to va.gov via chat
 - Ask participant to share their screen
 
-*If needed, ask:* 
+From here, how would you go about finding new information about your payments and debts?
 
-- What kind of information are you looking for?
-- Why did you expect it to be there?
+  *If needed, ask:* 
 
-- Imagine that new debt has been added to your account- after you log-in, when would you expect to see that information?
+  - What kind of information are you looking for?
+  - Why did you expect it to be there?
+
+I'd like you to imagine that new debt has been added to your account- after you log-in, when would you expect to see that information? **If this is confusing to users a this point, you can ask this questions in the third task.**
 
 ### Things to watch for:
 
