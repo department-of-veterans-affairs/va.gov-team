@@ -183,6 +183,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 
 
 **Not In Scope** 
+  - Veterans who have never received payments from VA (whole section will not appear on My VA)
   - Survivors pension
   - Survivors comp (DIC)
   - Caregiver program
