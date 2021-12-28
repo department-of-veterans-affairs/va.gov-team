@@ -34,8 +34,9 @@ Our hypothesis for this problem is:
 The goals of this user research study are to: 
 
 - Validate the usability of the updated representative workflow.
-- Validate if this new flow improves the percentage of acceptable documents. 
-- Validate that this question will not cause applicants to drop-off
+- Validate if the new design and copy improves the percentage of acceptable documents. 
+- Validate that this question will not cause applicants to drop-off.
+- Validate that the updated design/copy better connects the representative question to the signature.
 
 ### Research questions
 
@@ -44,14 +45,17 @@ The research questions we want to address are:
 - Are participants uploading a document that can be legally accepted to give them the authority to sign this application on behalf of the Veteran?
 - Are participants confused by any particular aspect of the representative workflow?
 - Does the current representative workflow stop users from completing the form?
+- Are participants clear that the reason for the document upload is to enable them to sign as a representative on behalf of the Veteran?
 
 ### Hypothesis: 
-- Users will be able to navigate through the form relatively easily, but still might have confusion about what type of document is acceptable in this situation. 
+- Participants will be able to navigate through the form relatively easily, but still might have confusion about what type of document is acceptable in this situation.
+- Participants will have a greater understanding that the document required is one that gives the representative the legal power to make medical decisions on behalf of the Veteran.
+- Participants will have an improved mental connection of the representative question and document upload to application signature.
 
 
 ## Methodology 
 
-A task-based usability study will be conducted with a UXPin prototype, remotely with Zoom using the Perigean contract. 
+A task-based usability study will be conducted in staging, remotely with Zoom using the Perigean contract. 
 
 
 ## Participants and Recruitment
@@ -68,30 +72,39 @@ or
 
 - Are you a Veteran who has a caregiver? (must recruit at least 2)
 
-Answer must be yes for 2 participants: 
+
+**Must have for at least 2 participants:** 
 
 - Are you a Veteran’s legal representative? 
   - If confused, provide this explanation: A representative is a person who, under applicable law, has authority to act on behalf of the Veteran or who is legally vested with the responsibility or care of the Veteran. Being next of kin or being married to the veteran does not automatically constitute legal representation.
 
-**Good to have for participants**
+- At least 2 participants should use a mobile device and at least 2 participants should use a desktop/laptop
 
-- At least 2 participants with a disability rating with a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities (please note that the prototype is not accessible for assistive tech)
+
+**Must have for at least 1 participant:** 
+- Have a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities
+- Would use assistive technology to fill out this application
+
+
+**Good to have for participants**
+ 
 - 50% women, 50% men
 - 50% people who identify as an ethnicity/race other Caucasian
-- At least 1 participant 35 or under and 1 participant over 55
-- At least one person that does not have a college degree (to include enlisted Vets)
-- At least one person who lives in a rural or remote area
+- At least 1 participant 35 or under and 1
+- At least 1 participant over 55
+- At least 1 participant that does not have a college degree (to include enlisted Vets)
+- At least 1 participant who lives in a rural or remote area
 
 
 **Recruitment requirements**
  
-- All must have a laptop/desktop and be willing to be complete the test on said laptop/desktop (the prototype is not accessible on mobile devices)
+- All must have a laptop/desktop or phone/tablet and be willing to be complete the test on the device
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
 
 
 ## Timeline 
 
-**Desired Timeline: October 27 - 29th, 2021**
+**Desired Timeline: TBD**
 
 Session length: 45 minutes 
 
@@ -113,11 +126,14 @@ If necessary November 1, 2021 | 8:00am - 2:00pm EST
 - Participant recruiting & screening: Perigean
 - Project point of contact: Same as moderator
 - Note-takers:Perigeon
-- Observers: George Chewning (george.chewning@va.gov)
+- Observers: George Chewning (george.chewning@va.gov), Sharon Kasimow (sharon.kasimow@gcio.com)
 
 ## Resources
-- Design iteration [overview presentation](https://docs.google.com/presentation/d/1--9sY2qcPrxxmkSvJDUH5uShFyMgxCi3/edit?usp=sharing&ouid=106781647419399937562&rtpof=true&sd=true)
+- Design iteration [Sketch mockup](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/6F53EA53-0D5E-46F7-B420-CF62EA0167CE)
 - - Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
 - Sign as a rep [usability test 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021)
+- Content specific research [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research)
+
+
 
 
