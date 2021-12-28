@@ -1,45 +1,115 @@
-# Payment History Documentation
+NOTE FROM ACCESSIBILITY: For the notification component we will need a descriptive 'aria describe by' that links the 'dismiss' button to the notification. Work with accessibility for the exact text. 
+
+# Benefit payments and debt documentation
+
+## Content
+
+[The most up to date content can be seen in this document](). ADD LINK
 
 ## Mockups
 
 **Will add after design intent**
 
-- [Desktop]()
-- [Mobile]()
+- [Desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i)
+- [Mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
 
-## When to show the Payment Information section
+## When to show the 'Benefit payments and debt' section
 
 **Show**
 
-- If we recieve any information from the Payment information API, then we will show this section. 
+- If we recieve any information from the payment information API, then we will show this section.  
 
-NOTE: For the notification component we will need a descriptive 'aria describe by' that links the 'dismiss' button to the notification.
+
+**Do NOT show**
+
+- If we don't receive any information from the payment history API.
+
+## UX Specs
+  
+### Outstanding debt notification
+
+[Content](ADD LINK)ADD LINK
+
+SCREENSHOT
+
+**Show**
+
+- If a user has any debts in the debt portal.  
+
+### Deposit-made card
+
+[Content](ADD LINK)ADD LINK
+
+SCREENSHOT
+
+**Show**
+
+- If a user has a payment made in the last 30 days. We will show all of the most recent payments in the month.
+
+**Do NOT Show**
+
+- If a user has no payments in the last 30 days. If a user does not have payments in the last 30 days, we will show messaging stating so in place of the grey card.
+
+SCREENSHOT
+
+
+### Manage direct deposit link
+
+[Content](ADD LINK)ADD LINK
+
+SCREENSHOT
+
+**Show**
+
+- If a user has direct deposit set up.
+
+**Do NOT Show**
+
+- If a user does not have direct deposit set up.
+
+SCREENSHOT
+
+### Request travel reimbursement link
+
+[Content](ADD LINK)ADD LINK
+
+SCREENSHOT
+
+**Show**
+
+- Always show if a user has health care and the health care section is on My VA
+
+SCREENSHOT
 
 ## States
   
-**State 1: A user who has never applied for and doesn’t have health care/disability/edu benefits; Also has no apps in flight**  
-
-*UX specs*
-
-Show the **health care block** if..:
-
-- Someone does NOT have VA health care 
-- Someone has NEVER applied for VA health care
-
-Show the **disability block** if…:
-
-- Always show this block in this section. We may iterate on this and change the approach in the future.
-
-Show the **education block** _unless_:
-
-- If we determine that the user is getting direct deposit payments for education benefits via [this API](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/profile/getCh33BankAccount), we will hide this block.
+**State 1: A user who has new messages + outstanding debt + an upcoming payment in the next 30 days.**  
 
 *Visual specs*
 
-Much of this is the same as the specs in the health care section:
+SCREENSHOT
 
-- The biggest challenge here may be the columns. We don't have many examples of handling information in columns like this on VA.gov, but we've reviewed this with some of the design leads and they agree that this treatment makes sense given that it improves scannability ove the existing single-column treatment. For an example of how we handle information in columns, please refer to the [Pittsburgh VA medical center site](https://www.va.gov/pittsburgh-health-care/).
+**State 2: A user who has NO new messages + NO outstanding debt + an upcoming payment in the next 30 days.**  
 
-![Apply for benefits_Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/images/Apply%20for%20benefits_Getting%20started.jpg)
+*Visual specs*
 
-*Copy specs*
+SCREENSHOT
+
+
+**State 3: A user has had NO deposits in the next 30 days + NO debt.**  
+
+*Visual specs*
+
+SCREENSHOT
+
+**State 4: If a user has had NO deposits in the next 30 days + HAS debt.**  
+
+*Visual specs*
+
+SCREENSHOT
+
+**State 5: If a user has multiple deposits in the same day.**  
+
+*Visual specs*
+
+SCREENSHOT
