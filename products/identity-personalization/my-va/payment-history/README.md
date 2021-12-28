@@ -197,6 +197,9 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 
 - Kickoff ticket [#33468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33468)
 - Design Intent ticket [#33477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33477)
+- Content ticket [#34015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
+- Experimental Design proposal ticket [#606](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/606)
+- Midpoint ticket [#34549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -205,9 +208,9 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 ## Key deliverables
 
 - [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
-- [Design documentation](https://app.mural.co/t/vsa8243/m/vsa8243/1638500075560/0e849f61e282ebe2d8e7119eea504e4c05b0bbe4?sender=u5ad49c107baa41137f271007) 
+- Design documentation[Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1638500075560/0e849f61e282ebe2d8e7119eea504e4c05b0bbe4?sender=u5ad49c107baa41137f271007) and [Sketch](https://www.sketch.com/s/418ca6f6-cc24-4496-82aa-9deda03b08f6)
 - [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research)
-- Technical documentation
+- [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/payment-history-frontend.md)
 - How to access and test
     - [Staging env](https://staging.va.gov/my-va/)
     - Testing documentation
@@ -222,6 +225,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 
 - Nov 2021: Kickoff with MVP outlined & begin design
 - Dec 2021: Design work finalized
+- Jan 2022: Usability testing kickoff
 
 
 #### Initiative Launch Dates
