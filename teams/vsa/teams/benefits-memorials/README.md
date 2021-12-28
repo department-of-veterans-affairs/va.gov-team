@@ -182,7 +182,7 @@ In an effort to standardize Claims & Appeals team estimates the below can act as
 | 2      | 1 Day                   | Small Story                    | Easy task, work is known, can be executed quickly                      |
 | 3      | 2-3 Days                | Story                          | Mostly known, doable                                                   |
 | 5      | ~1 Week                 | Mid-Sized Story                | Becoming complex                                                       |
-| 8      | 1.5 - entire spreint    | Large Story                    | complex task, best to split into multiple tickets                      |
+| 8      | 1.5 - entire sprint     | Large Story                    | complex task, best to split into multiple tickets                      |
 
 
 Reminder: Story points are unitless cales of measurement which are sized in relation to other tasks. This idea of relative sizing is the fundamental driver in Agile estimation and should help keep work effort streamlined and provide scalability going forward. 
