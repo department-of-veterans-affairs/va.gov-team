@@ -17,35 +17,43 @@
 
 ### The Plan
 
-**Desired date range:** 12/15/21 - 12/22/21 (VSP Code Freeze set for 12/23-1/2/22)
+**Desired date range:** 1/18/22 - 1/21/22 (Pending staging review on 1/14/22)  
 
 **How will you make the product available in production while limiting the number of users who can access it?** 
 
 We will launch the new Outreach and Event enhancements MVP to 100% (or) users  behind a feature flag and and control what % of users see it using Flipper. 
 
-- Launch behind a feature flag. Test with team. (1 day) 11/22
-- If things go well, we'll launch to 5% of traffic. (1 month) 11/23
-- If things go well, we'll launch to 25% of users. (1 week) 11/30
-- If things go well, we'll launch to 50% of users. (1 week) 12/7
+- Launch behind a feature flag. Test with team. (1 day) 1/17/22
+- Roll out content and training updates to content editors on 1/12-14, 2022. 
 - If everything looks good, we'll then launch to 100% of users. 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
 
 We will monitor the following metrics to ensure there are no issues:
 
-- Mobile users are able to complete tasks quicker through streamlined interaface.
-- Sign-ins increase via Mobile
-- Search usage increase via Mobile
+- Outreach & Event hub is working as intended with added filtering/recurring event features.
+- Ensure events are rendering and filter capability is working as intended. 
+- Ensure both desktop and mobile is rendering as indended.
 
 KPI "success criteria" BETs: 
-- BET: Elevating VA.gov Mobile header through cleaner interface will decrease confusion and allow for a greater view and usage of top tasks links on mobile. Some tasks present more of a mobile friendly experience (i.e. Menu, Sign-in, search, find a VA location) and others more to Desktop experience (I.e. form completion, direct deposit, dependent change, footer elements). We anticipate that by increasing visiability on "mobile" freindly tasks could result in an increase in both usage and confidence for mobile users.
-- BET: Improving UX via bringing the sign-in element to a more visible location for mobile users functionality and findability should increase sign-ins on mobile making a more efficient funnel to Tier 1 benefit actions for mobile users.
+- Reduced bounce rate for the Outreach & Events page
+- Improve service completion through increased event registration (via Outreach hub)
+- Increase event engagement through added user experience through filtering events by DTG/Location.
+
+Analytic Insights:
+- Majority of traffic to Outreach pages is from email links (Targeted email campaigns)
+- Google is a top referral source
+- Most visits are from desktop computers (65%), mobile visits are significant (32%)
+- Visitors who view the Events page do use the stepper and typically go just a few pages deep (Bad Experience, increasing bounce rate).
+- Visit follow a cycle with traffic peaking Wednesday/Thursday, and dropping-off significantly over the weekend
+- Visits have increased noticeably beginning in July 2021
+- Users often return to Outreach pages
 
 ## Go Live!
 
 ### Planning:
-- Desired date: Dec 20, 2021 (TBD)
-- Actual date: TBD
+- Desired date: 1/18/2022
+- Actual date: 1/18/2022
 - Go / No Go: [Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Profile%202.0%20Launch%20go%20no-go.md)
 
 ### 1-week results:
