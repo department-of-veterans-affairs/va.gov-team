@@ -1,4 +1,4 @@
-NOTE FROM ACCESSIBILITY: For the notification component we will need a descriptive 'aria describe by' that links the 'dismiss' button to the notification. Work with accessibility for the exact text. 
+NOTE FROM ACCESSIBILITY: For the notification component we will need a descriptive 'aria describe by' that links the 'dismiss' button to the notification. Work with accessibility for the exact text. - this needs to go in the onsite notifications documentation that doesn't exist yet.
 
 # Benefit payments and debt documentation
 
