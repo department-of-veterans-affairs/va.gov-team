@@ -52,7 +52,7 @@ Ideally get at least 2 participants from each:
 ### Number of years with the VA/eras of service
 Ideally get at least 1 participant from each:
 
-* Left the military within the last 3 years
+* Left the military within the last 3 years 
 * Served in Operation Enduring Freedom or the Iraq War
 * Served in the Gulf War
 * Served in the Vietnam War
