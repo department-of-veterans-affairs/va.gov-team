@@ -76,7 +76,7 @@ Last updated 2021-08-27
 
 - **Instructions to access in Staging** [Passwords stored in [MVI Staging Users
   doc][mvi-staging-users] \(private repo\)]
-  - `vets.gov.user+87@gmail.com` (Daryl)
+  - `vets.gov.user+3@gmail.com` (Kenneth)
 
 ## ~~Use Case D - Deceased~~
 
