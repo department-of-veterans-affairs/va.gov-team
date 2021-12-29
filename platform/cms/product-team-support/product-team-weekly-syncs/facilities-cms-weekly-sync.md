@@ -23,8 +23,11 @@
 
 </details>
 
-## December 22
+## December 29
+- Lat/long storage
+- VA health connect phone numbers
 
+## December 22
 - Vet Center operating status
   - Has not been prioritized by CMS yet: possible candidate for sprint 50 ([6816](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/6816), [6438](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/6438))
   - Comms with Jessica on messaging, possible KB article to link to
