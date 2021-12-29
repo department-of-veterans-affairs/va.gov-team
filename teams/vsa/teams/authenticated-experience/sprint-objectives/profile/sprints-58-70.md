@@ -267,12 +267,33 @@ This depends on whether the Perigean contract is back up and running.
 
 **BE**
 
-For Lihan:
+For Lihan/Tom. Lihan is ultimately on Heather's team, but since he did the direct deposit build, he should work with Tom on this so that Tom can help support this feature in the future.
 
 - Catch up on converstion in #bgs-direct-deposit-payment-info-debugging
 - Determine if we need to make any changes to logging to prevent additional latentcy ([See this Slack convo](https://dsva.slack.com/archives/C02Q9FL124F/p1639786132335600))
   -  If changes are needed, make those changes 
 - Is there a better way for us to learn about issues (eg. direct deposit for edu issue) than relying on veterans to tell us there's a problem?
+
+### Personal information updates
+
+Research
+
+**PM**
+
+- I don't think there are any specific PM tasks on this, but let me know if there's something you think is outstanding.
+
+**Design**
+
+- Conduct research
+- Synthesize & share research results
+
+**FE**
+
+- Continue FE Build
+
+**BE**
+
+- Start BE build after our next regroup with MPI
 
 ## Sprint 65 (1/12 - 1/25)
 
