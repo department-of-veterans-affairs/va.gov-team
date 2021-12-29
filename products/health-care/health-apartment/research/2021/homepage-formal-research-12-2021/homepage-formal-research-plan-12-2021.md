@@ -52,7 +52,7 @@ Ideally get at least 2 participants from each:
 ### Number of years with the VA/eras of service
 Ideally get at least 1 participant from each:
 
-* Left the military within the last 3 years
+* Left the military within the last 3 years 
 * Served in Operation Enduring Freedom or the Iraq War
 * Served in the Gulf War
 * Served in the Vietnam War
@@ -65,7 +65,7 @@ Ideally get at least 1 participant from each:
 
 ### Secondary recruitment criteria we will strive to meet:
 
-* Gender: At least 1/4 women
+* Gender: At least 1/4 women  
 * Inclusion: At least 1/4 people of color
 * Geography: Participants from East Coast, West Coast, and the Midwest
 * Disability: At least three participants who use DAT
