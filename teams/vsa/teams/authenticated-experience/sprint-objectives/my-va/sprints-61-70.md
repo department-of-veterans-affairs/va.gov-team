@@ -176,25 +176,54 @@ Resume project!!
 ## Sprint 64 (12/29 - 1/11)
 [Sprint 64 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30269)
 
+Any work that's outstanding from sprint 63, plus...
+
+### General
+
+**FE**
+
+- Build for "Benefits you might be interested in" updates
+
 ### Payment information
 
-**Design**
-
-- Frontend design documentation
-- Research plan
-- Convo guide
-- Recruit?
-
-### On-site notifications
+Midpoint review; Research planning
 
 **PM**
 
-- Regroup with VANotify to determine what their LOE is for this work
+- Hold midpoint review
+
+**Design**
+
+- Research convo guide
+- Research recruiting
+- If FE can not build a prototype by the end of this sprint, then we need a UXPin prototype so that research sessions can happen in sprint 65
+
+**FE**
+
+- Prototype build on payment info
+  - **Note**: Research needs to happen *in sprint 65*. If this prototype can not be done by then, then we need to do something in UXPin or figure out another strategy. 
+
+### On-site notifications
+
+**PM** 
+
+- Regroup with VANotify to determine what their LOE and timeline is for this work
   - This can likely happen in the same convo where BE discusses/determines how they'd like to receive data from VANotify 
+- Determine QA/testing strategy -- talk to Leah/Denise/Maria about this
+- Midpoint review prep (note: testing for this is going to happen as part of payment info testing
+
+**Design**
+
+- All the same research tasks for payment info
+
+**FE**
+
+- Same tasks as payment info
 
 **BE**
 
-- Regroup with VANotify to discuss how we want to receive data (notification type; user) from them
+- Regroup with VANotify to discuss how we want to receive data (notification type; user)
+- Start build, if possible
 
 ## Sprint 65 (1/12 - 1/25)
 [Sprint 65 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30270)
