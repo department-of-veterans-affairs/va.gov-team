@@ -156,11 +156,11 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 |KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Clicks into individual claims ("view claim")| ~124K clicks|~205k|TBD|
-|Clicks to view all claims ("Manage all your claims and appeals")| ~78K|~192k|TBD|
-|Clicks to view all appointments ("Schedule and view your appointments")| ~17K|~42k|TBD|
-|Clicks to view all messages ("You have n unread messages")| ~28K|~49k|TBD|
-|Clicks to view all prescriptions ("Refill and track your prescriptions")|~20K|~40k|TBD|
+|Clicks into individual claims ("view claim")| ~124K clicks|~205k|~241k|
+|Clicks to view all claims ("Manage all your claims and appeals")| ~78K|~192k|~180k|
+|Clicks to view all appointments ("Schedule and view your appointments")| ~17K|~42k|~38k|
+|Clicks to view all messages ("You have n unread messages")| ~28K|~49k|~48k|
+|Clicks to view all prescriptions ("Refill and track your prescriptions")|~20K|~40k|~33k|
 
 **Key result #3** — Findability: Reduce search incidents for features that exist on My VA. None of the features on the page should be in the top 20 search terms for searches generate from My VA.
 
@@ -168,18 +168,18 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 
 |KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Search rank for "disability rating” from My VA| #5|#24|TBD|
-|Search rank for "rating” from My VA| #6|#25|TBD|
-|Search rank for "disability” from My VA| #10|#39|TBD|
-|Search rank for "claim” or "claims" from My VA| #16|#32|TBD|
+|Search rank for "disability rating” from My VA| #5|#24|#36|
+|Search rank for "rating” from My VA| #6|#25|#37|
+|Search rank for "disability” from My VA| #10|#39|#88|
+|Search rank for "claim” or "claims" from My VA| #16|#32|#34|
 
 This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
 
 |KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|Logged-in search rank for "disability rating” on all VA.gov| #7 & #12|#8 & #27|TBD|
-|Logged-in search rank for "rating” on all VA.gov| #6 & 10|#13 & #15|TBD|
-|Logged-in search rank for "disability” on all VA.gov| #19|#32 & #70|TBD|
+|Logged-in search rank for "disability rating” on all VA.gov| #7 & #12|#8 & #27|#32 & 37|
+|Logged-in search rank for "rating” on all VA.gov| #6 & 10|#13 & #15|#17 & #38|
+|Logged-in search rank for "disability” on all VA.gov| #19|#32 & #70|#66|
 
 **Key result #4** — Satisfaction: Increased user satisfaction score for My VA from 3.2 to 3.7 in ForeSee.
 
