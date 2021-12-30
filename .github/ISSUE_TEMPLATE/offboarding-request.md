@@ -22,11 +22,11 @@ Fill out name of individual and *Description* section below.
 ## AC
 *Performed by Platform team*
  - [ ] Remove from [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0)
- - [ ] Remove global/config.yml / SOCKS Access removed (if applicable) 
-   > That file (global/config.yml) has a list of email addresses in groups. The email address in those groups is used to lookup their key. Keys are stored in files named with the user’s email address. So, you need to remove the file and their entry in that list to be finished.
- - [ ] AWS Access removed  (if applicable) 
-   > Since there are multiple accounts please ensure all are check ie test access.
- - [ ] DSVA Slack (if applicable) 
+ - [ ] Remove global/config.yml / SOCKS Access removed (if applicable)
+   > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to create a PR to update the `global/config.yml` file and remove the public SSH key. You'll need the user's email address associated with their public key.
+ - [ ] AWS Access removed  (if applicable)
+   > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to remove user's entry from DSVA AWS. You'll need the user's AWS user name (typically FIRST_NAME.LAST_NAME).
+ - [ ] DSVA Slack (if applicable)
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
  - [ ] User removed from the VA GitHub Org
    > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-support/issues/new?assignees=&labels=remove-user&template=user-remove.yml&title=Remove+User+from+Org%3A+%5Busername%5D). 
