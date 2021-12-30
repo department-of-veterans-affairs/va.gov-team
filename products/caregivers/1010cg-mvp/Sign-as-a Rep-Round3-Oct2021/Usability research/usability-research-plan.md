@@ -114,10 +114,8 @@ Notetaking: Please designate someone from Perigeon to take notes
 
 Team Availability | Time (EST)
 ------------------|--------------
-October 27, 2021 | 8:00am - 2:00pm EST
-October 28, 2021 | 8:00am - 11:45am EST and 2:00pm - 5:00pm EST
-October 29, 2021 | 8:00am - 9:00am EST and 2:00pm - 5:00pm EST
-If necessary November 1, 2021 | 8:00am - 2:00pm EST
+January | 8:00am - 2:00pm EST
+
 
 ## Team Roles	
 
