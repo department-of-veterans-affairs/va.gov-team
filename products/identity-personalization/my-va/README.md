@@ -140,7 +140,7 @@ However, we can make moves on moving My VA towards the one-stop shop for action 
 
 |KPI/metric|Baseline: Q1 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
-|% of logged-in users who visit My VA| 7%|7%|TBD|
+|% of logged-in users who visit My VA| 7%|7%|1118717|
 |% of logged-in users interact with the homepage| 16% |16%|TBD|
 
 Additionally, we want to see if adding a My VA link to the unauth nav impacts traffic to the page. So, as part of evaluating this KR, we want to add tracking to the new My VA link to the unauth nav.
@@ -151,6 +151,8 @@ Additionally, we want to see if adding a My VA link to the unauth nav impacts tr
 [My VA Interactions Report: Apr - June 2021](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210401&_u.date01=20210630&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
 [My VA Interactions Report: July - Sept 2021](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20210701&_u.date01=20210930/)
+
+[My VA Interactions Report: Oct - Dec 2021](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20211001&_u.date01=20211229/)
 
 |KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
 |----------|-------------|---------------|-------------------|
