@@ -30,7 +30,9 @@
 
 ## Monday, January 3, 2021
 
-* TBD
+* Timing of Lighthouse v1
+* Identifiers for dtailed service entries
+  * have discussed in the past adding a resource id or machine name field
 
 ## Monday, December 27, 2021
 
