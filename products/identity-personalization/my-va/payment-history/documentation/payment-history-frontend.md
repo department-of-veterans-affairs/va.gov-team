@@ -2,10 +2,6 @@ NOTE FROM ACCESSIBILITY: For the notification component we will need a descripti
 
 # Benefit payments and debt documentation
 
-## Content
-
-[The most up to date content can be seen in this document](). ADD LINK
-
 ## Mockups
 
 **Will add after design intent**
@@ -25,10 +21,8 @@ NOTE FROM ACCESSIBILITY: For the notification component we will need a descripti
 - If we don't receive any information from the payment history API.
 
 ## UX Specs
-  
-### Outstanding debt notification
 
-[Content](ADD LINK)ADD LINK
+### Outstanding debt notification
 
 SCREENSHOT
 
@@ -36,9 +30,17 @@ SCREENSHOT
 
 - If a user has any debts in the debt portal.  
 
-### Deposit-made card
+#### **Content**
 
-[Content](ADD LINK)ADD LINK
+**When we have a count of debts**
+
+You have [count] outstanding debts. [Manage your VA debt] *link to debt page*
+
+**When we do not have a count of debts**
+
+You have outstanding debt. [Manage your VA debt] *link to debt page*
+
+### Deposit-made card
 
 SCREENSHOT
 
@@ -52,10 +54,21 @@ SCREENSHOT
 
 SCREENSHOT
 
+#### Content
+
+**H3**
+
+ We deposited [$$] in your account ending in [acct] on [date].
+
+**Body** 
+
+Type: [type]
+
+[View your payment history](/va-payment-history/)
+
+
 
 ### Manage direct deposit link
-
-[Content](ADD LINK)ADD LINK
 
 SCREENSHOT
 
@@ -69,9 +82,11 @@ SCREENSHOT
 
 SCREENSHOT
 
-### Request travel reimbursement link
+#### Content
 
-[Content](ADD LINK)ADD LINK
+[Manage your direct deposit](/profile/direct-deposit-information)
+
+### Request travel reimbursement link
 
 SCREENSHOT
 
@@ -81,8 +96,12 @@ SCREENSHOT
 
 SCREENSHOT
 
+#### Content
+
+[Request travel reimbursement] *link to travel reimbursement page*
+
 ## States
-  
+
 **State 1: A user who has new messages + outstanding debt + an upcoming payment in the next 30 days.**  
 
 *Visual specs*
