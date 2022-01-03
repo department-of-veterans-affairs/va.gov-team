@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+## Welcome and Introduction
+Welcome to the Veteran's Administration (VA) Veteran Facing Services (VFS) team! 
+As a new VFS team member, you will be working in the web ecosystem we call the VA.gov Platform (or "**The Platform,**" for short).  The tasks on this list are designed to get you up to speed on the parts of the Platform you will be using to do your job.
+
+Because the VA is a huge organization that serves millions, the Platform it runs on is equally big, complex and multilayered. Most people find that even learning the basics for their own practice area entails a significant learning curve.  The tasks on this checklist will help you acquire those basics as quickly and efficiently as possible. 
+
 ## User Story
 As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov platform.
 
