@@ -33,34 +33,14 @@ Last updated January 3, 2022
 
 
 ## Overview
->Throughout [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research) in 2020 - 2021, the recurring theme mentioned by veterans is that seeing payment info on their My VA dashboard is a high priority.  The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard. 
->- People have mentioned that seeing payment info on their My VA dashboard is a high priority since our [initial dashboard discovery in 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important)
->- Again in later research sessions, including during [December 2020 exploration research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md#additional-insights)
->- [March 2021 usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md#features-users-expected-to-see-that-were-missing)
->- [July 2021 notifications discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important)
->- The importance of payment information also bears out in analytics. Viewing payments is [a top interaction on VA.gov overall](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20201122&_u.date01=20211121&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.eventCategory:Interactions/)
->- "Payments" is  [a top search from the My VA dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches)
-> 
->This effort aims to add payment information to the My VA dashboard to be elevated for logged-in veteran's awareness and attention, as the MVP.
 
+People have mentioned that seeing payment info on their My VA dashboard is a high priority since our [initial dashboard discovery in 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important), and again in later research sessions, including during [December 2020 exploration research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-research-findings.md#additional-insights), [March 2021 usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/product/Research%20V2/MyVA2-research-findings.md#features-users-expected-to-see-that-were-missing), and [July 2021 notifications discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#for-those-interested-in-education-benefits-gi-bill-balance-and-payment-information-was-most-important). The importance of payment information also bears out in analytics. Viewing payments is [a top interaction on VA.gov overall](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20201122&_u.date01=20211121&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.eventCategory:Interactions/), and "Payments" is  [a top search from the My VA dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/post-2.0-redesign-analytics.md#searches). This effort aims to add payment information to the My VA dashboard and to determine if any other financial information should be elevated as well.
 
-**Related/Associated product(s)**
-- [My VA 2.0 Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va)
+## Problems
 
-## Problem
-> *The pain point to resolve is that veterans expect to have their personalized financial information available on the My VA dashboard, without having to search VA.gov for it.* 
-- *What is the problem and who is affected?*
-     * Logged-in veterans have to perform a search or access the homepage to find links to their compensation and/or debt information
-- *And, what evidence do we have of the problem?* 
-     * The terms “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA 
-     * The same terms make up 4 of the top 20 search terms on VA.gov overall
-- *Why do you think the problem is occurring?*
-     * Once veterans log in to My VA, there is no quick, intuitive way to easily view their payments, debts and perform financial actions 
-- *Other reasons why this might be occurring?* 
-     * Veterans may have difficulty finding the appropriate links to access their financial information
-- *How does this initiative help further OCTO-DE's mission and goals?*
-    * Increase the usage of My VA to become a one-stop shop for users’ benefit-related action items and status
-    * Become a place where users can complete quick tasks related to their benefits
+- Users expect to see their payment information on My VA, but currently do not.
+- Users have trouble finding this information, with terms like “payment”, “debt”, “travel pay” and “direct deposit” (and variations of those terms) make up half of the top 20 search terms generated from My VA.
+- When My VA eventually becomes the authenticated homepage, it needs to accomodate all of the top tasks on VA.gov, of which viewing payment history is one.
 
 ## User Outcomes
 
