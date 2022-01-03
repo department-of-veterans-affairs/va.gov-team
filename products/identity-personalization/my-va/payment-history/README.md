@@ -15,7 +15,6 @@ Last updated December 10, 2021
 |Heather Justice|Product Manager| heather.justice@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
@@ -94,7 +93,6 @@ Last updated December 10, 2021
 ### Undesired Business Outcomes
 - We do not want the My VA page to become cumbersome and unusable
 - We do not want the payment information section to display irrelevant or incorrect information
-
 
 ---
 ## Measuring Success
@@ -201,10 +199,6 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Content ticket [#34015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34015)
 - Experimental Design proposal ticket [#606](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/606)
 - Midpoint ticket [#34549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34549)
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-  - No marketing or communications are needed.
 
 ## Key deliverables
 
