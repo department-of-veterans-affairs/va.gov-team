@@ -8,20 +8,19 @@
 
 - Who are the key people who worked on the Log4J issue ?  What is their roles and what are they responsible for leading/changing with an issue like Log4J Open Source CVE ?
 
-Answer from @thomas - List of people 
-```
-@Thomas 
-@Troy Mosher
-@Boris Ning
-@Gary Fallon
-@Michael Fleet
-@Jesse House
-@Ryan Beckwith
-@Cory Trimm
+### Answer from @thomas - List of people 
+
+... @Thomas 
+... @Troy Mosher
+... @Boris Ning
+... @Gary Fallon
+... @Michael Fleet
+... @Jesse House
+... @Ryan Beckwith
+... @Cory Trimm
 
 There are other unnamed heroes as well that those on this list can add here too (do not take my non-mentioning of their name as reducing their importance or impact) 
 
-```
 
 - Did we track Log4j commits and changes with a tag or other reference to identify these issues in GitHub ?
 
