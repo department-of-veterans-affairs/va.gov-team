@@ -22,3 +22,4 @@ Attendees: Heather, Lihan, Liz, Taylor, Tressa
 ### Action Items
 - Review error models used for the Health Care section and whether that could be used for payment info section
 - Meet with Debt and Payment teams to discuss what kind of failures they see and what info could be available to us in such cases
+- Technical discovery [ticket #34704](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34704)
