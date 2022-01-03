@@ -64,11 +64,7 @@ Note: An attempt was made to tranfer the Google Doc table to a markdown table.  
 # Implementation Info
 
 ## Status
-Update July 16: We have deployed the low hanging fruit wording changing requested.  You can see those lower down in this product outline.
-
-Update 8/25: We are reviewing the prioritized NCC list of changes. Matt Self is helping drive some discussions with DEPO on whether we are ok just removing timing info entirely (again).
-
-Update 9/15: We have deployed a change to the Claims side to change the time estimate wording.
+January 2022...
 
 ## Product Decisions
 Why we did what we did...
