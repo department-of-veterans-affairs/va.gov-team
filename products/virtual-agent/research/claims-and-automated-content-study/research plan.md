@@ -6,7 +6,7 @@ As a researcher I want to create a research plan so Perigean can recruit the cor
 
 **1. What product & team are you doing this research for?**
 
-This research is for the VA-Virtual Agent team for the Virtual Agent product. 	
+This research is for the VA-Virtual Agent team for the Virtual Agent product. 	**Shane leaves test comment.**
 
 **2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?** 	
 
