@@ -5,6 +5,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 12/30/21: "Super tool for Veterans! In an age where everyone has there phone with them, the new VA app really helps veterans that may not have instant access to a desktop computer." (Apple store review)
+
+- 12/30/21: "This app is better than the online version. Thank y'all for this. Hooyah!!!" (Apple store review)
+
 - 12/20/21: "This app saves a LOT of time. MUCH more convenient and quicker than using a laptop. if you enable biometrics it is really FAST. EXCELLENT app!" (Google play store review)
 
 - 12/17/21: "Cool experience of the week: today SecVA cold-called me via Teams chat en route to the airport. He wanted to tell me he had just finished up an event in a Texas VetCenter where a Veteran had, unprompted, spoken about the new VA mobile app, and how much he liked it. The Veteran pulled up the app on his phone and proceeded to encourage all the other Veterans in attendance to download it. He also offered some ideas for what he wished it could do. SecVA asked us to follow up with the Veteran and hear his feedback directly, which is in progress now.
