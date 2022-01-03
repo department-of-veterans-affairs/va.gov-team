@@ -28,11 +28,30 @@
  
 </details>
 
-## Monday, January 3, 2021
+## Monday, January 3, 2022
 
 * Timing of Lighthouse v1
-* Identifiers for dtailed service entries
+  * Aiming for February, not locked down yet
+  * LH will confirm by mid-day tomorrow
+* Radius functionality for lat long being actively worked on by LH and will be availble before v1 (possibly end of current sprint)
+* Identifiers for detailed service entries
   * have discussed in the past adding a resource id or machine name field
+  * on hold for a UX decision on the LH side but no preference determined
+  * looking for consistency (e.g. diabetes vs. diabetic care)
+  * how do you connect when they get updated?
+  * don't want the list to change
+  * need somthing that's user facing and will not change (truncated text string or service ID-123)
+  * possibly using the term ID, but not very front facing so a translation to what this actually means would be needed
+    * where do we connect the meaningful text string to the one that doesn't?
+    * unless we agree on a set of text based terms
+  * either CMS needs to control a non-changing text string identifier for a service
+  * or send a text ID and LH maps
+  * or just use term ID throughout and publish a table through the portal that shows the mapping (easiest to keep in sync)
+    * lookup list to also be stored in the CMS
+    * LH consumes a possible name change registry
+    * if someone searches on a term that has changed the return wouldn't be exact
+  * current search UI is cumbersome
+  * will want Dave's input but LH would like to push forward as soon as possible
 
 ## Monday, December 27, 2021
 
