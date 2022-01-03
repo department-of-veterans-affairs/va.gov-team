@@ -1,6 +1,6 @@
 # Project outline: Add payment/financial info to the My VA dashboard
 
-Last updated December 10, 2021
+Last updated January 3, 2022
 
 ### Communications
 
@@ -65,13 +65,15 @@ Last updated December 10, 2021
 ## User Outcomes
 
 ### Desired User Outcomes
-- *Why would a user want to use this?*
-    * This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans
-    * Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-    * With this problem solved, Veterans will more quickly view their payment and debt information, instead of having to perform searches on the site
-    * With this problem solved, Veterans will more easily be able to access payment history or view outstanding debts, which may result in quicker task completion
-    * With this problem solved, Veterans may be able to more fully engage with the VA
+
+*Why would a user want to use this?*
+
+- This additional section will further support My VA dashboard as a "one-stop shop" for information that is a priority to veterans.
+- Actionable links will allow the veteran to access more financial details and perform appropriate actions as needed
+
+*With this problem solved, what should users be able to do/achieve that they couldn't before?*
+
+- Veterans will more quickly view and complete tasks related to their payment and debt information.
 
 ### Undesired User Outcomes
 - We do not want this section to cause confusion or add to their cognitive load.  It should be informative and usable
@@ -81,18 +83,18 @@ Last updated December 10, 2021
 
 ### Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-    * The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to veterans’ most critical updates and tasks
+*Why would your business want this to exist?*
 
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-    * Provide veterans with a personalized go-to source for payment and debt information
-    * Provide veterans with links to related action items, such as viewing outstanding debts, payment history, or direct deposit
-    * Reduce the number of payment or debt related searches
+The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to veterans’ most critical updates and tasks.
 
+*With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+
+- Provide veterans with a personalized go-to source for payment and debt information.
+- Provide veterans with links to related action items, such as viewing outstanding debts, payment history, or direct deposit.
+- Reduce the number of payment or debt-related searches.
 
 ### Undesired Business Outcomes
-- We do not want the My VA page to become cumbersome and unusable
-- We do not want the payment information section to display irrelevant or incorrect information
+- We do not want the My VA page to become cumbersome and unusable.
 
 ---
 ## Measuring Success
@@ -144,49 +146,24 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 ---
 
 ## Discovery
-### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks.*
-
-- **Value Risks** (will people use it): 
-  - Risk: Accuracy of the financial information displayed.  If incorrect information is displayed, it can damage the trust between the veteran and VA.gov. 
-    - This can be mitigated by connecting directly to the payment/debt backend DBs to pull the correct data
-- **Usability Risks** (can people figure out how to use it):
-  - Risk: Potential confusion on where the links may direct the veteran
-  - Risk: Potential confusion or degrading user experience when links direct to a page outside of My VA
-    - This section will function the same as other sections already existing on My VA for a consistent experience.
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Risk: Dependency on payment and debt database availability
-    - Payment and debt information is currently available within VA.gov, and can easily be accessed by My VA for display 
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - A constraint to consider is to complete full testing of the new section, with a phased production release while measuring against OKR/KPIs. Only successful results will trigger the next roll-out phase.
-
-### Prioritization
-> *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
-  - There is a question on whether we should display specific details on the last payment amount made to the veteran OR specific details on the outstanding debt.  
-    - We will be conducting usability testing to determine the most effective and useful information to display to veterans.
-  - Our research shows that direct deposit management is another other top financial related search, and we intend to include a link to manage it.  
 
 ### Solution Summary
 > *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
 
-
 **In Scope - MVP**
 Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
 
-  - Most recent payment (31 days out - Confirmed via [this Slack message](https://dsva.slack.com/archives/C909ZG2BB/p1640031990019000), anything older will result in the payment card/block not showing (links for debt and direct deposit will remain.) 
-  - Dynamic debt text (You have 2 outstanding debt. "Manage your VA debt" is the link on the same line)
-  - Manage your direct deposit [link]
-  - View your payment history [link]
-
+- Most recent payment (31 days out - Confirmed via [this Slack message](https://dsva.slack.com/archives/C909ZG2BB/p1640031990019000), anything older will result in the payment card/block not showing (links for debt and direct deposit will remain.) 
+- Dynamic debt text (You have 2 outstanding debt. "Manage your VA debt" is the link on the same line)
+- Manage your direct deposit [link]
+- View your payment history [link]
 
 **Not In Scope** 
-  - Veterans who have never received payments from VA (whole section will not appear on My VA)
-  - Survivors pension
-  - Survivors comp (DIC)
-  - Caregiver program
-  - VA Homeloans information
-  - Co-pay details (future enhancement as data comes available)
+- Survivors pension
+- Survivors comp (DIC)
+- Caregiver program
+- VA Homeloans information
+- Co-pay details (future enhancement as data comes available)
 
 --- 
 
@@ -222,13 +199,6 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - Dec 2021: Design work finalized
 - Jan 2022: Usability testing kickoff
 
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - TBD- Q1
-- *Actual Launch Date* 
-  - TBD
-
 ---
    
 ## Screenshots
@@ -240,31 +210,6 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 ![My VA 2.0 All Sections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/assets/My%20VA%202.0_Desktop_%20All%20sections.jpg)
 
 ### After
-
----
-
-#### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: Authenticated Experience
-- GitHub Label(s): my-va-dashboard
-- Slack channel: vsa-authd-exp
-- Product POCs: Samara Strauss (PO), Heather Justice (PM)
-
-</details>
-
-
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
 
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
