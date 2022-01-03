@@ -199,7 +199,7 @@ Engagement
 - Sets a cookie to prevent the modal from appearing to the same user again within 24 hours
 
 ### Find a VA Form PDF Audit
-- Conducted Septemeber 2021
+- Conducted September 2021
 - Follow-up exercise after research study revealed issues that were not anticipated.  This audit was conducted for the purpose of determining how widespread the the issues observed were in PDF forms available from find Find a VA Form.
 - [Audit information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/pdf_audit_2021/pdf_audit_2021.md)
 
