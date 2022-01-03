@@ -48,3 +48,35 @@ We’ve generated a list of action items our team members will take in order to 
 -	What do we already know about needs/wants from different stakeholders?
 -	Set up meetings with all relevant stakeholders.
 -	Conduct stakeholder interviews (set of questions)
+
+## Solution Approach
+Our focus will be to incrememntally address bugs and UX updates. Next we will focus on a complete redesign of the product.
+
+### Expected Work
+Based on our research:
+
+
+
+## OKRs and KPIs
+Note: An attempt was made to tranfer the Google Doc table to a markdown table.  However, you cannot have different columns density and it looked very bad in markdown.  Image with link seems to work better.
+![Image of OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/image.png)
+
+# Implementation Info
+
+## Status
+Update July 16: We have deployed the low hanging fruit wording changing requested.  You can see those lower down in this product outline.
+
+Update 8/25: We are reviewing the prioritized NCC list of changes. Matt Self is helping drive some discussions with DEPO on whether we are ok just removing timing info entirely (again).
+
+Update 9/15: We have deployed a change to the Claims side to change the time estimate wording.
+
+## Product Decisions
+Why we did what we did...
+
+Initial work:
+| Enhancement| Dependencies/Tech decisions:| Timeline |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Messaging enhancements to clarify common confusion•Provide a timeframe of how long it takes for faxed/mailed/uploaded evidence to processed by VBA before claim status changes •Provide information about how to get a copy of your Comp/Pen Exam •Provide information about how long it takes from the time a claim decision is made until decision is communicated and the first payment is sent/deposited | •N/A| Accomplish by end of next sprint (July 1) barring no technical complications|
+| Information on Time Estimate to Complete (for Appeals):NCC recommendation was to mask estimates longer than one year; upon further investigation, the data feed needs improvement, so initially going to remove estimate messaging until the data can be resolved| •Technical investigation on calculation of estimated time to complete | Accomplish by end of next sprint (July 1) barring no technical complications|
+| Clear indication on when the notification letter was mailed| •Mail date information available in VBMS •Determine how VA.gov can consume this information for display in the Claim Status Tool – current reliance on EVSS | Technical discovery to begin in mid-July|
+| Allow notification letter to be downloaded (or decision to be viewed) online, or provide statement that the notification letter is not available to be viewed online | •Policy decision from VBA about allowing this information to be downloaded from the Claim Status Tool •Determine appropriate method to retrieve and display the notification letter online| •Policy discussion can begin immediately •Also discuss if there is value in adding the overall disability rating for a Veteran to the Claim Status page •Technical discovery to begin in mid-July |
