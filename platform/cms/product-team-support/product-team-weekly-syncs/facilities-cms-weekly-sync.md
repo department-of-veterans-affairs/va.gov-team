@@ -23,9 +23,16 @@
 
 </details>
 
-## December 29
-- Lat/long storage
+
+
+## January 5
+
+VAMC
 - VA health connect phone numbers
+
+Vet Center
+- [Alexandria LA vs Alexandria VA Vet Center](https://prod.cms.va.gov/admin/content?title=alexandria&type=vet_center&moderation_state=All&owner=All) - [Slack thread](https://dsva.slack.com/archives/C02730UEZPS/p1640890979257700)
+- Lat/long storage
 
 ## December 22
 - Vet Center operating status
