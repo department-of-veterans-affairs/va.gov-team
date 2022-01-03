@@ -113,9 +113,11 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 |Search rank for "debt” or "debt management" from My VA| #23|TBD|TBD|
 |Search rank for "direct deposit” from My VA| #7, #17|TBD|TBD|
 
-- **Key result #3**: Usage: Increase % of logged-in users visiting My VA from 8% in Q4 to n% post-launch by end of Q1.
+~- **Key result #3**: Usage: Increase % of logged-in users visiting My VA from 8% in Q4 to n% post-launch by end of Q1.~
 
-[My VA Usage Report for Logged-in Users: Aug – Nov 2021](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&_.useg=builtin1,uservhdeJJNEQr6TNXxgFLMPGQ/)
+~[My VA Usage Report for Logged-in Users: Aug – Nov 2021](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&_.useg=builtin1,uservhdeJJNEQr6TNXxgFLMPGQ/)~
+
+**I think we can take this out, as I don't anticipate adding payment info itself will have any traceable impact back to page views.**
 
 |KPI/metric|Baseline: Aug - Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
