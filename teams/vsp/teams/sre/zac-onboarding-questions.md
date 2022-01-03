@@ -10,15 +10,16 @@
 
 ### Answer from @thomas - List of people 
 
-... @Thomas 
-... @Troy Mosher
-... @Boris Ning
-... @Gary Fallon
-... @Michael Fleet
-... @Jesse House
-... @Ryan Beckwith
-... @Cory Trimm
-
+<pre>
+- @Thomas 
+- @Troy Mosher
+- @Boris Ning
+- @Gary Fallon
+- @Michael Fleet
+- @Jesse House
+- @Ryan Beckwith
+- @Cory Trimm
+</pre>
 There are other unnamed heroes as well that those on this list can add here too (do not take my non-mentioning of their name as reducing their importance or impact) 
 
 
