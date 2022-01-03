@@ -1,5 +1,13 @@
 # Claim Status Tool V2 - Product Outline
 
+## Communications
+- GitHub Label: [cst](https://github.com/department-of-veterans-affairs/va.gov-team/labels/cst)
+- Slack channel: #vsa-claims-appeals (https://dsva.slack.com/archives/C5AGLBNRK)
+- Product POCs: Matt Self and Veronica Henry
+- va.gov link: https://www.va.gov/claim-or-appeal-status/
+- Stakeholders:Paul Shute (Paul.Shute@va.gov) is our main stakeholder/champion.
+- Link to v1 Product outline (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/README.md)  
+
 # Discovery
 ### Where we are currently
 In our pre-discovery of the claim status tool, we have conducted co-design sessions, have done a competitive analysis, have reviewed call center statistics, and have reviewed findings from past usability sessions.
