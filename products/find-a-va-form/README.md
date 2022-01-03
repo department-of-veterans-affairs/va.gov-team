@@ -18,7 +18,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [MVP and Enhancements](#mvp-and-enhancements)
     - [Content Catch Up and Clean Up](#content-catch-up-and-clean-up)
     - [Find a VA Form PDF Download Instructions ](#find-a-va-form-pdf-download-instructions)
-    - [Find A VA Form PDF Audit](#find-a-form-pdf-audit)
+    - [Find A VA Form PDF Audit](#find-a-va-form-pdf-audit)
     - [PDF Download Research Study](#pdf-download-research-study)
     - [Transforming Search Terms Iteration 2](#transforming-search-terms-iteration-2)
     - [Use Administration Field for Related To Info](#use-administration-field-for-related-to-info)
