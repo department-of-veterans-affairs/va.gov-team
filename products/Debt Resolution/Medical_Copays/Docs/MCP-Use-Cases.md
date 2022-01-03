@@ -1,6 +1,6 @@
 # [DRAFT] Medical Copays - Use Cases
 
-Last updated 2021-11-17
+Last updated 2021-12-29
 
 _Track and maintain the various use cases that exist for a given product and is
 best maintained alongside the product outline._
@@ -64,7 +64,7 @@ Last updated 2021-08-27
 
 ## Use Case C - Not Enrolled in Health Care
 
-Last updated 2021-08-27
+Last updated 2021-12-29
 
 - **Description**
 
