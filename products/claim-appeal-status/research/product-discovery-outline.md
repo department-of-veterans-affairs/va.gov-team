@@ -1,5 +1,6 @@
-# Claim Status Tool V2 - Product Discovery Outline
+# Claim Status Tool V2 - Product Outline
 
+# Discovery
 ### Where we are currently
 In our pre-discovery of the claim status tool, we have conducted co-design sessions, have done a competitive analysis, have reviewed call center statistics, and have reviewed findings from past usability sessions.
 
