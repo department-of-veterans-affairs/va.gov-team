@@ -24,3 +24,5 @@ Attendees: Heather, Lihan, Liz, Taylor, Tressa
      - Confirm what data and how we will receive from VA Notify
      - Confirm what kind of failures they see on their side and how that would transmit to My VA
      - Confirm how notification can be re-triggered for testing (Usability and QA)
+- Technical discovery [ticket #34708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34708)
+
