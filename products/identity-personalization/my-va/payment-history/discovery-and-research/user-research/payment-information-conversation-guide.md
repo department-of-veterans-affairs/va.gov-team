@@ -47,14 +47,11 @@ Before we look at the website, I'd like to get a little background information f
 
 1. As part of the scheduling for this session, we asked if you had either received payments from VA or incurred education, compensation or pension debt. Can you tell me how you got info from VA about updates on those payments or debts?
 
-2. What kind of information about your payments and debts did you get? Was that helpful? Was anything missing?
+2. You mentioned that you receive updates on your payments or debts via *insert what the participant said*. What information about your your payments and debts is included? Was that helpful? Was anything missing?
 
 3. How do you manage your VA finances? Online, by mail, etc?
 
 4. Let's talk about the website - how do you use VA.gov?
-
-5. Tell me what you know about My VA.
-
     
 
 ## First Task: Wayfinding for payment information -  3 minutes
@@ -91,15 +88,10 @@ I'd like you to imagine that new debt has been added to your account- after you 
 
 - Thanks for showing that to me. Now I'm going to send you a different link, to a prototype of My VA.  We will be looking at a prototype as the logged-in user 'Kim Smith' (who is completely fictional) today, and if you could pretend to be her for these exercises that would be great. 
 
-  **Note: may have the login to staging instead of we can test in code, and walk them through that if needed.**
+  **Note: may have the login to staging instead if we can test in code, and walk them through that if needed.**
 
 - Have link to prototype ready: [desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) and [mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
 
-- Take a look at this page, and before you click on anything, tell me about what you see here. 
-- *If needed:* 
-  - What do you think this page for?
-  - What stands out to you on this page?
-  - What is confusing about this page?
 
 - Imagining that this was your personalized page, talk to me about how this lines up with information that is important to you. 
   - *If needed:* 
@@ -172,8 +164,6 @@ I'd like you to imagine that new debt has been added to your account- after you 
   - After dismissing an alert, how would you find that information again?
    - Why do you think some are dismissible and some are not?
 
-- In general, if you have a new notification on VA.gov, how would you know about it? 
-
 - And for this specific notification - a new debt has been added - after you log-in, when would you expect to see that information? **If this question was already asked at the beginning, you can skip this**
 
 ### Things to watch for:
@@ -185,10 +175,20 @@ I'd like you to imagine that new debt has been added to your account- after you 
 - At what point does the participant expect to see new debt information?
 - How does the participant expect to find out about new notifications on VA.gov?
 
+## Post Task Interview - 5 minutes
+
+- Now that we've walked through this page a bit, let's talk about your thoughts on the overall page.
+
+1. Have you ever used this dashboard on VA.gov? 
+2. What do you think this page for?
+3. What stands out to you on this page?
+4. What is confusing about this page?
+5. What information is missing on this page?
+
 ## Thank-You and Closing - 3 minutes
 
 That's everything I wanted to get your feedback on, thank you so much! This has been really helpful for our team. Do you have any questions or last thoughts for me before we end the session?
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 I hope you enjoy the rest of your day and have a wonderful 2022!
