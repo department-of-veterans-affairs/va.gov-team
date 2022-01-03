@@ -34,11 +34,11 @@ There are other unnamed heroes as well that those on this list can add here too 
 
 ## Tasks
 
-- [] Task: Resolve ZenHub licensing for me and anyone on trial 14-day
+- [ ] Task: Resolve ZenHub licensing for me and anyone on trial 14-day
 
-- [] Tasks: Discuss current pain points.  I found this in my review of current docs on Ops:  https://vfs.atlassian.net/wiki/spaces/OT/pages/1771831337/Background+research+and+documentation
+- [ ] Tasks: Discuss current pain points.  I found this in my review of current docs on Ops:  https://vfs.atlassian.net/wiki/spaces/OT/pages/1771831337/Background+research+and+documentation
 Document: https://docs.google.com/spreadsheets/d/1RcUN1qCuuzfb73PmpiwttVEpc8Ts0LX7KtpKehHPX9g/edit#gid=946480136
 
-- [] Task:  Identify which monitors provide the best  insight out merges and deployments.  Are there new agents that are needed or planned?  How much coverage is currently available by Prod App ?
+- [ ] Task:  Identify which monitors provide the best  insight out merges and deployments.  Are there new agents that are needed or planned?  How much coverage is currently available by Prod App ?
 
-- [] Task: Setup a Chaos environment for Dev on one app.  How do we define a Chaos branch or system configuration to simulate bad or failures events?
+- [ ] Task: Setup a Chaos environment for Dev on one app.  How do we define a Chaos branch or system configuration to simulate bad or failures events?
