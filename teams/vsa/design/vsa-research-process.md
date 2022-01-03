@@ -141,7 +141,7 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
       *	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
 5. Create your final research results. This should be a Github page (markdown file). This should be done within 6 business days after your last session. 
    * You also may want to create a presentation deck if you are going to show your results to stakeholders or at a demo.
-   * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1). 
+   * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md) and the [presentation deck](https://salientcrgt.sharepoint.com/:p:/r/sites/VSATeam/Shared%20Documents/Design%20%26%20Research/Research%20Findings%20Template.pptx?d=w7e918f645ab4453887b6f0202da0c6c5&csf=1&web=1&e=14XnnR). 
    * Preferred format is to have your results and/or presentation list the “Top 10 findings” from the study, then dig into those findings in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page.   
       * These top findings should stand on their own. So if a stakeholder *only* reads your list of top findings, and no details, they should think "oh, this research was useful!" Not "Oh these are general statements that I could have just guessed myself."
    * Examples can be found here:  
@@ -153,12 +153,12 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
    * Keep findings separate from recommendations. A finding might be “Users didn’t seem to see the “Next” button on the page,” but discuss what to do about that in a separate, “Recommendations” section
 6. Share insights with your team, and brainstorm recommendations. Then add a “recommendations” section/s to your Github page and final presentation deck. Note, if you’d like to add recommendations prior to sharing with your team, that’s fine too but make sure to get their input and ideas as a part of the process.
    * E.g. a recommendation for the above insight might be “Move the button higher on the page” or “Make the button more prominent” or “Remove the button and make it a single page.”
-7. Add your research study to the [history of past research page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+7. Add your research study to the [research repo board](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1). [Here are instructions on how to post to the board.](https://github.com/department-of-veterans-affairs/va.gov-research-repository/wiki/Guidelines)
 
 ## <a id="resources"></a>Other Resources
 Resources are also pinned to the [#va-vsa-ux](https://dsva.slack.com/channels/va-vsa-ux) channel.
 * We have a research calendar where all research sessions w/ Perigean are posted. Message Lauren to get that calendar on yours.
 * We have the use of Optimal Workshop through DSVA if we want to do card sorting or IA tree testing or things of that nature. Message Lauren if you want access.
 * DSVA research folder https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research
-* History of past research https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md
+* Research conducted prior to fall 2021 is listed on github in the [research history doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md), and newer research should be on the [research repo board](https://github.com/department-of-veterans-affairs/va.gov-research-repository/wiki/Guidelines). 
 * Research plan template https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research_plan_template.md
