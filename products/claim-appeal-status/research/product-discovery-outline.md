@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: [cst](https://github.com/department-of-veterans-affairs/va.gov-team/labels/cst)
-- Slack channel: #vsa-claims-appeals (https://dsva.slack.com/archives/C5AGLBNRK)
+- Slack channel: #vsa-claims-appeals
 - Product POCs: Matt Self and Veronica Henry
 - va.gov link: https://www.va.gov/claim-or-appeal-status/
 - Stakeholders:Paul Shute (Paul.Shute@va.gov) is our main stakeholder/champion.
