@@ -18,3 +18,7 @@ Attendees: Heather, Lihan, Liz, Taylor, Tressa
      - We could utilize the same error models from the Health Care section
      - We can talk with Debt and Payment history team on how the failures might come through
           - What data would we receive?
+
+### Action Items
+- Review error models used for the Health Care section and whether that could be used for payment info section
+- Meet with Debt and Payment teams to discuss what kind of failures they see and what info could be available to us in such cases
