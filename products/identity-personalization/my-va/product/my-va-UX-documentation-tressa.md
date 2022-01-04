@@ -29,6 +29,7 @@ Hello! This is a rough outline of what exists on My VA and why we did what we di
 - Including doctor name and appt type in appt card
 - More specifics around prescriptions (e.g. when a prescription has been filled, what prescriptions are current vs expired)
 - Selecting a preferred healthcare facility
+- Benefit eligibility
 - A functioning and robust onsite notifications hub! 
 - An overall structure that truly only highlights time-sensitive action items
 
