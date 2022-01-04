@@ -56,13 +56,15 @@ We'll use the findings from this research to update our page IA and inform our M
 
 ## Method	
 
-We'll conduct remote usability testing over Zoom using a prototype on production. Testing on production allows us to use a code-based prototype and be more inclusive with our recruiting approach.
+We'll conduct remote usability testing over Zoom using a prototype on production. Testing on production allows us to use a code-based prototype and be more inclusive with our recruiting approach. We will pause the recording once we have users log in to avoid capturing PII.
+
+In the event that for some reason we can't test on production, we will use a prototype. We will also use the prototype to complete task 3 with participants who do not have debt.
 
 ### Research materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-conversation-guide.md) 
 
-- Link to prototype - coming soon
+- Links to prototypes: [desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) and [mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
 
 ## Recruitment	
 
@@ -86,7 +88,7 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 
   - Answering yes would qualify the participant for the study.
 
-- At least 50% of participants (more are welcome) should have incurred education (CH 33, CH 34, CH 35) or compensation/pension debts. Screener questions:
+- At least 50% of participants should have incurred education (CH 33, CH 34, CH 35) or compensation/pension debts. Screener questions:
 
   1. Do you have education, compensation, or pension debt with VA? 
   2. Do you have health care related debt with VA?
@@ -139,8 +141,7 @@ January 10
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
-* Pilot participant email: tom.harrison@adhocteam.us
-* Date and time of pilot session: January 10, 11am Eastern (schedule 1 hour please)
+* TBD
 
 ### Research sessions
 
@@ -176,11 +177,13 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Participant recruiting & screening: Perigean
 
-- Project point of contact:	Liz Lantz
+- Project point of contact: Liz Lantz
 
-- Participant(s) for pilot test: Tom Harrison, tom.harrison@adhocteam.us
+- Participant(s) for pilot test: TBD
 
 - Note-takers: Perigean
+
+  - Since we will need to pause the recording for the majority of the session, we will need verbatim notes.
 
 - Observers:	
 
@@ -191,3 +194,7 @@ Please list the people who will be serving in each role. **Include the primary p
   - taylor.mitchell@gcio.com
 
   - lihan@adhocteam.us
+
+    
+
+    
