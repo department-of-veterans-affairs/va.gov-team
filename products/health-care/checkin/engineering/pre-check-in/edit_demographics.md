@@ -271,7 +271,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
-#### Challenges:
+#### Challenges and Questions:
 - Currently, we can only submit a veteran's updated *contact* information to the VA.gov Profile
 - We cannot submit a veteran's updated *Next-of-Kin* or *Emergency Contact* information to the VA.gov Profile
 - VA.gov Profile team has no plans in their roadmap to support showing/updating *Next-of-Kin* or *Emergency Contact* information
@@ -295,7 +295,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
-#### Challenges:
+#### Challenges and Questions:
 - Establishing an integration with the VA Profile service from the Vets-API Check-In module
 - Who is responsible for initiating the conversation with the VA Profile team?
 - What is the engineering scope for establishing the integration between the Vets-API Check-In module and the VA Profile service?
