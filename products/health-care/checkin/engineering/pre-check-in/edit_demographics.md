@@ -55,6 +55,7 @@
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## Pilot Site
+- Clinic: Martinsburg, WV
 
 ## Problem Statement
 ### Ideal situation
