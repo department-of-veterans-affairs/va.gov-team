@@ -1,7 +1,5 @@
 # Conversation Guide for My VA Payment Information and Onsite Notifications
 
-`DRAFT`
-
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
@@ -30,9 +28,17 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+
+**If testing on production:**
+
+- I'm going to ask you to log into va.gov. This means we'll be able to see your personal information once you are logged in. We won't record it or ask you to make any changes that will impact your VA information or benefits.
+- As you go through the site, it'll be really helpful if you can think out loud as much as possible.
+
+**If using a prototype:**
+
 - **You'll be interacting with a prototype.** This may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. As you go through the prototype, it'll be really helpful if you can think out loud as much as possible.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** I will stop the recording once you are logged into the site so we don't record your personal information. We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
@@ -52,13 +58,12 @@ Before we look at the website, I'd like to get a little background information f
 3. How do you manage your VA finances? Online, by mail, etc?
 
 4. Let's talk about the website - how do you use VA.gov?
-    
 
 ## First Task: Wayfinding for payment information -  3 minutes
 
 **Task goal: Make sure payment and debt information is findable, and learn about what kind of information participants would look for.**
 
-Now I'm going to send you a link to the website, and have you share your screen. I'd like for you to show me how you'd go about finding new information about your payments and debts. 
+Now I'm going to ask you to go va.gov, and have you share your screen. I'd like for you to show me how you'd go about finding new information about your payments and debts. 
 
 As I mentioned earlier, it'll be very helpful for you to think out loud and share what's on your mind as much as possible.
 
@@ -72,7 +77,7 @@ From here, how would you go about finding new information about your payments an
   - What kind of information are you looking for?
   - Why did you expect it to be there?
 
-I'd like you to imagine that new debt has been added to your account- after you log-in, when would you expect to see that information? **If this is confusing to users a this point, you can ask this questions in the third task.**
+I'd like you to imagine that new debt has been added to your account- after you log-in, when would you expect to see that information? **If this is confusing to users at this point, you can ask this questions in the third task.**
 
 ### Things to watch for:
 
@@ -82,14 +87,28 @@ I'd like you to imagine that new debt has been added to your account- after you 
 
 ## Second Task: Review My VA and financial info - 8 minutes
 
-**Task goal: Validate we have included the right content and links, the structure of the page makes sense, and users can take sufficient action on their financial updates from My VA. We also want to learn about how the participant thinks about timing of finance related notifications**
+**Task goal: Validate we have included the right content and links, the structure of the page makes sense, and users can take sufficient action on their financial updates from My VA. We also want to learn about how the participant thinks about timing of finance related notifications**.
 
-*If not already on My VA:* 
+-----
 
-- Thanks for showing that to me. Now I'm going to send you a different link, to a prototype of My VA.  We will be looking at a prototype as the logged-in user 'Kim Smith' (who is completely fictional) today, and if you could pretend to be her for these exercises that would be great. 
+*If on production*
 
-  **Note: may have the login to staging instead if we can test in code, and walk them through that if needed.**
+- Thanks for showing that to me. Now I'm going to ask you to log in to the site. Before you do, I want to remind you that this means we'll see your personal information on the site. I'm going to pause the recording now:
 
+  **Pause recording, have user log in**
+
+- Thank you. Now I'll ask you to navigate to My VA.
+
+-  Talk to me about how this lines up with information that is important to you. 
+
+  - *If needed:* 
+    - How would you rank the sections you see here, in order of importance to you?
+
+------
+
+*If using a prototype*
+
+-  We will be looking at a prototype as the logged-in user 'Kim Smith' (who is completely fictional) today, and if you could pretend to be her for these exercises that would be great. 
 - Have link to prototype ready: [desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) and [mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
 
 
@@ -97,29 +116,26 @@ I'd like you to imagine that new debt has been added to your account- after you 
   - *If needed:* 
     - How would you rank the sections you see here, in order of importance to you?
 
+-----
+
+*Production OR prototype*
+
+
 - Say you came to this page looking to see if your most recent Compensation and Pension deposit from the VA had been made. How would you do that?
-
 - Say you wanted to see all of the payments that the VA had made to you, how would you do that?
-
-- Imagine you wanted to update your bank information that the VA has on file. How would you do that?
-   
+- If you wanted to update your bank information that the VA has on file. Talk me through how you would you do that.
 - Okay great, lets talk throught this payment information section. What information is the most important for you to see here? 
 - *If needed:*    
-    - What works for you about this section?
-    - What doesn't work about this section?
-    - What would you say is missing?
-    - What did you find confusing?
-
+  - What works for you about this section?
+  - What doesn't work about this section?
+  - What would you say is missing?
+  - What did you find confusing?
 - I'm interested in your thoughts about timing for financial information. 
   - After a payment is made to you or a debt is added, how long do you expect to see that information on this page?
-  - Let me give you an example - say you used your education benefits ago and the last payment you received was in January 2021. Would you still want to see that?
-
+  - Let me give you an example - say you used your education benefits ago and the last payment you received was a year ago. Would you still want to see that?
 - One more specific thing I want your feedback on - do you have any experience with VA travel reimbursement? Show me where you'd look for that on this page. 
   - What are your thoughts on it being there?
-
-- Based on what your experience with this prototype, what would you say is the most important information on the page? Why?
-
-### Content
+- Based on what you've seen, what would you say is the most important information on the page? Why?
 
 ### Things to watch for:
 
@@ -136,13 +152,24 @@ I'd like you to imagine that new debt has been added to your account- after you 
 
 - Let's imagine that you recently incurred a new debt with the VA. How would you know about it based on what you're looking at here?
 
-- Now let's look specifically at the call-outs (yellow notifications) on the page. Tell me your thoughts on those.
+----
 
-  *If needed*:
+***Skip this if participant has debt***
 
-  - What are your thoughts on how they're placed within the page?
-  - What are your thoughts on the information shown in those call-outs?
-  - What would you change about these call-outs? 
+I want to get your input on another new feature, but since you don't have any debt, I'll show you in a prototype instead of on the live site. Let me send you a link in the chat, and resume the recording.
+
+- Send link in chat.  [desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) and [mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
+- Resume recording
+
+---
+
+Now let's look specifically at the call-outs (yellow notifications) on the page. Tell me your thoughts on those.
+
+*If needed*:
+
+- What are your thoughts on how they're placed within the page?
+- What are your thoughts on the information shown in those call-outs?
+- What would you change about these call-outs? 
 
 - If you were to click on 'Manage your VA debt', what would you expect to happen? 
 
@@ -151,7 +178,7 @@ I'd like you to imagine that new debt has been added to your account- after you 
 - Say you paid your VA debt, what would you expect to happen to this notification?
 
 - Can you scroll down to the 'Benefit payments and debts' section. What would happen if you were to click on 'Manage your VA debt' here?
- *If needed*:
+  *If needed*:
 
   - What are your thoughts on having two similar notifications on the same page?
 
