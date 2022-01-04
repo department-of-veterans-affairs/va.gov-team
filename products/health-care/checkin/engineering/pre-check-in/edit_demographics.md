@@ -278,6 +278,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - How can we get the VA.gov Profile team to support the additional demographics feature requirements?
 - Who will be responsibile for initiating this conversation and overseeing this initiative?
 - How long will it take for this additional ability to be delivered by the VA.gov Profile team?
+- How will this addition affect other teams on va.gov
 
 ### Use the existing VA Profile service(different from VA.gov Profile) exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
@@ -302,8 +303,9 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - Currently, VA Profile only supports updating a veteran's contact information.
 - We cannot submit a veteran's updated *Next-of-Kin* or *Emergency Contact* information to the VA Profile service
 - Can we get the VA Profile team to support updating *Next-of-Kin* or *Emergency Contact* information?
-- Who is responsible for spear heading this initiative?
+- Who will be responsible for spear heading this initiative?
 - How long will it take the VA Profile team to provide this additional functionality if they agree to implement our request?
+- How will this affect other teams on va.gov?
 
 ### Build additional systems and services in-order to handle updated demographics information
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
@@ -313,15 +315,25 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * User edits ALL of their demographics information in the UI and submits the changes
 * Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
 * Vets-API submits the updated demographics data to a new service or a set of services
-* Hypothetical services update the user's demographics information, saving it to the appropriate VA systems
-* Hypothetical service returns a success message and status back to the Vets-API
+* Proposed new services update the user's demographics information, saving it to the appropriate VA systems
+* Proposed service returns a success message and status back to the Vets-API
 * Vets-API invokes the data refresh endpoint on the CHIP service
 * CHIP service pulls the user's latest demographics information and then updates LoROTA with that data
 * CHIP returns a success status and message back to Vets-API
 * Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
-#### Challenges:
+#### Challenges and Questions:
+- Who can give our team the authorization to build this new service or services?
+- Is it even possible to get the green light to do this from a business/legal/political standpoint?
+- Who will be responsible for building these services?
+- Will we get additional resources to accomplish this undertaking?
+- What will be the responsibilies of this service or set of services?
+- Where will these services be hosted?
+- What tech stack will the services utilize?
+- How long will it take to get these services up and running in all of our environments?
+- How will these services ultimately update a veteran's demographics information in the VA systems?
+- How long will it take to integrate Vets-API with the new services?
 
 ## Staff Facing Dependencies
 
