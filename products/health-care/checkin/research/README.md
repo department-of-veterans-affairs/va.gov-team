@@ -1,4 +1,4 @@
-# All Veteran-facing Research Studies
+# All Check-in Research Studies
 
 | Study | # of Participants | Date |
 |----- | ------- | -------- |
