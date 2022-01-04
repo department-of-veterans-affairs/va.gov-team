@@ -22,7 +22,7 @@
 - [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Questions](#engineering-questions)
 - [Engineering Proposals](#engineering-proposals)
-- [Engineering Solution](#engineering-solution)
+- [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
 - [Testing Solution](#testing-solution)
 - [Application Performance Management](#application-performance-management)
@@ -280,7 +280,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 ## Engineering Proposals
 
-## Engineering Solution
+## Engineering Solutions
 
 ## Testing Questions
 
