@@ -5,6 +5,7 @@
 - [Slack Channels](#slack-channels)
 - [Team Members](#team-members)
 - [Related Documents](#related-documents)
+- [Pilot Site](#pilot-site)
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
@@ -50,6 +51,8 @@
 * [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 * [Check-In Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
+
+## Pilot Site
 
 ## Problem Statement
 ### Ideal situation
