@@ -44,10 +44,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
     * If yes, Tele-health, how did it go? What went well? What didn’t?
     * If no, would you consider using it?
 * In what ways would having virtual care through the VA help or not help you personally? 
-* If you were in need of non-emergency care, and you knew VA could offer you a  \
-	virtual visit with a doctor, where would you go to find it?
-* Would you understand where to find care? 
-* Where would you go to find it?
+* If you were in need of non-emergency care, and you knew VA could offer you a virtual visit with a doctor, where would you go to find it?
 
 ### **Section 2: Tele-Urgent Triage**
 * Have you called your VA health care team with a health concern and received advice from a nurse?
@@ -55,7 +52,6 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
     * Can you tell me more about how long it took?
     * What went well? 
     * Did you encounter any obstacles? If yes, what did you do to recover?
-
 
 ### **Section 3: Tele-Urgent Video Connect**
 * Do you have any concerns related to conducting a virtual health care visit with your health care team?
