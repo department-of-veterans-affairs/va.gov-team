@@ -4,11 +4,11 @@
 ## Table of Contents
 - [Slack Channels](#slack-channels)
 - [Team Members](#team-members)
+- [Related Documents](#related-documents)
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
-- [Related Documents](#related-documents)
 - [User Scenarios](#user-scenarios)
     - [Happy Path Stories](#happy-path-stories)
     - [Error Path Stories](#error-path-stories)
@@ -45,6 +45,12 @@
 |Name|Role|Email|
 |----|----|-----|
 
+## Related Documents
+* [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
+* [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
+* [Check-In Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
+* [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
+
 ## Problem Statement
 ### Ideal situation
 Veterans can update their _demographics data_[^2] for upcoming care(appointemnts) during their Pre-Check-In or their day of Check-In workflows through the va.gov website and updated _demographics data_[^2] is saved instantly to all of the internal systems which require and rely on that data for business needs.
@@ -71,12 +77,6 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ### Negative
 
 ## Measuring Success
-
-## Related Documents
-* [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
-* [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
-* [Check-In Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
-* [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## User Scenarios
 
@@ -261,12 +261,12 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 ## Application Performance Management
 * APM tools
-    * Datadog
+    * [Datadog Check-In](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1638711177523&to_ts=1641303177523&live=true)
     * Cloudwatch
     * Grafana
-    * Sentry
+    * [Sentry Error Tracking](http://sentry.vfs.va.gov/organizations/vsp/issues/?project=3&project=4)
     * ELK
-    * Loki
+    * [Loki Logs](http://grafana.vfs.va.gov/explore?orgId=1&left=%5B%22now-24h%22,%22now%22,%22Loki%20(Prod)%22,%7B%7D%5D)
 
 ## Applications and Services
 
