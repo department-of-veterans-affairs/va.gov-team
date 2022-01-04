@@ -175,7 +175,6 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 **And** I can see that I have the ability to Check-In to my appointment without any further types of authentication  
 
-
 ### Error Path Stories
 
 ---
@@ -249,6 +248,13 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ## Exploring Workflows
 
 ### Use the existing VA.gov Profile exclusively
+* User clicks on SMS for the Pre-Check-In or Check-In workflows
+* FE pulls pre-stored demographics data from LoROTA through the Vets-API Check-In service
+* User edits ALL demographics information in the UI and submits the changes
+* FE POSTs the updated information to a Vets-API endpoint in the Check-In service
+* Vets-API then internally leverages the VA.gov Profile interface and directly submits the updated demographics data to the VA.gov Profile
+* VA.gov Profile, through it's set of down stream services, updates and saves the user's demographics information in the VA systems and returns a success response back to the Vets-API
+* The Vets-API invokes the data refresh endpoint on the CHIP service and the CHIP services inturn updates LoROTA with the latest demographics
 #### Challenges:
 
 ### Use the existing VA Profile service(different from VA.gov Profile) exclusively
