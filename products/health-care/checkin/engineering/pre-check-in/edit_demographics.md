@@ -245,10 +245,17 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 ## Exploring Workflows
 
-### Workflow one
-#### Outstanding problems:
-* one
-* two  
+### Use the existing VA.gov Profile exclusively
+#### Challenges:
+
+### Use the existing VA Profile service(different from VA.gov Profile) exclusively
+#### Challenges:
+
+### Use both the VA.gov Profile and the VA Profile service
+#### Challenges:
+
+### Build additional systems and services in-order to handle updated demographics information
+#### Challenges:
 
 ## Staff Facing Dependencies
 
