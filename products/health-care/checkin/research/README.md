@@ -1,7 +1,7 @@
 # All Veteran-facing Research Studies
 
 | Study | # of Participants | Date |
---------------------
+|----- | ------- | -------- |
 | [Discovery with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/remote-discovery) | 11 Veterans | April 2021 |
 | [Discovery with Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/staff-facing/Staff%20Facing%20Research%20Synthesis%20Report_092021.pdf) | 69 Staff Members | May - August 2021 |
 | [MVP Usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/mvp-usability/research-findings.md) | 10 Veterans | June 2021 |
