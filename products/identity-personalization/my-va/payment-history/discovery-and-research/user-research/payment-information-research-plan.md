@@ -42,7 +42,6 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
   - What do users expect to happen after an alert has been dismissed? How and when would they see that information again?
   - Are there any areas where the design does not meet Veteran needs?
 - When does a user expect to see an alert about new debt?
-- If a user has a new notification on VA.gov, how would they know?
 
 ### Outcome
 
