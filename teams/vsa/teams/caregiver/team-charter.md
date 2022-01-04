@@ -59,11 +59,11 @@ Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Monday of every sprint week @ 3pm ET
 - 1 hour
-- We'll use Github milestones to commit to what's in each sprint
+- We'll use labels for each sprint to commit to what's in each sprint
 
 
 #### Retro
-Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and generate action items.
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
 
 - 1st Wednesday of every sprint @ 11:30ET
 - 30 min
