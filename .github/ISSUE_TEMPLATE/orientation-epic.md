@@ -14,7 +14,7 @@ As a new VFS team member, you will be working in the web ecosystem we call the V
 Because the VA is a huge organization that serves millions, the Platform it runs on is equally big, complex and multilayered. Most people find that even learning the basics for their own practice area entails a significant learning curve.  The tasks on this checklist will help you acquire those basics as quickly and efficiently as possible. 
 
 ## User Story
-As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov platform.
+As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
 
 ## Acceptance Criteria
 - [ ] New VFS Team member has been added as the Assignee
@@ -83,9 +83,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Request 508 intro with @ Noah Gelman in Slack
 - [ ] Request QA intro with @ Peter Hill in Slack
 - [ ] Request ATO intro with @ Faith Owusu-Sekyere in Slack
-
-
-******************
 
 ### Learn how to manage off-boarding of teammates
 - [ ] Review [process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
