@@ -334,6 +334,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - How long will it take to get these services up and running in all of our environments?
 - How will these services ultimately update a veteran's demographics information in the VA systems?
 - How long will it take to integrate Vets-API with the new services?
+- Can we get another team to do the work on our behalf?
 
 ## Staff Facing Dependencies
 
