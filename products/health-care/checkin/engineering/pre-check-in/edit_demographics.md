@@ -1,19 +1,9 @@
 
 # Pre Check-in and day of Check-In: Demographics Editing - A Technical Discovery and Systems Architecture exploration document
 
-### Slack channels
-
-- [#check-in-experience](https://dsva.slack.com/archives/C022AC2STBM)
-- [#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS)
-- [#check-in-experience-ux](https://dsva.slack.com/archives/C02GXKL8WM6)
-
-### Team members  
-  
-|Name|Role|Email|
-|----|----|-----|
-
-
-## Sections
+## Table of Contents
+- [Slack Channels](#slack-channels)
+- [Team Members](#team-members)
 - [Problem Statement](#problem-statement)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
@@ -43,6 +33,17 @@
     - [VA.gov Profile](#vagov-profile)
     - [VA Profile](#va-profile)
 - [Footnotes](#footnotes)
+
+### Slack Channels
+
+- [#check-in-experience](https://dsva.slack.com/archives/C022AC2STBM)
+- [#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS)
+- [#check-in-experience-ux](https://dsva.slack.com/archives/C02GXKL8WM6)
+
+### Team Members  
+  
+|Name|Role|Email|
+|----|----|-----|
 
 ## Problem Statement
 ### Ideal situation
