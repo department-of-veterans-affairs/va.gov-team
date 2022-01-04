@@ -295,8 +295,9 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API returns the user data back to the Vets-Website(VA.gov FE)
 * User edits ALL of their demographics information in the UI and submits the changes
 * Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
-* Vets-API ...
-* ...
+* Vets-API submits the updated demographics data to a new service or a set of services
+* Hypothetical services update the user's demographics information, saving it to the appropriate VA systems
+* Hypothetical service returns a success message and status back to the Vets-API
 * Vets-API invokes the data refresh endpoint on the CHIP service
 * CHIP service pulls the user's latest demographics information and then updates LoROTA with that data
 * CHIP returns a success status and message back to Vets-API
