@@ -86,7 +86,7 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 
   - Answering yes would qualify the participant for the study.
 
-- 50% of participants should have incurred education (CH 33, CH 34, CH 35) or compensation/pension debts. Screener questions:
+- At least 50% of participants (more are welcome) should have incurred education (CH 33, CH 34, CH 35) or compensation/pension debts. Screener questions:
 
   1. Do you have education, compensation, or pension debt with VA? 
   2. Do you have health care related debt with VA?
