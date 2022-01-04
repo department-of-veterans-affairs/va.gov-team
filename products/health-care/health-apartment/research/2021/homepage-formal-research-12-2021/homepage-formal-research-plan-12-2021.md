@@ -14,7 +14,7 @@ This study will build off of the results of our [informal user testing](https://
 
 ### Research questions
 This study focuses on 2 main areas:
-* **Critical tasks:** Are the tasks on the homepage easy for a Veteran to action?
+* **Critical tasks:** Are the tasks on the homepage easy for a Veteran to act on?
 * **Content balance:** Do Veterans understand the difference between informational and actionable links?
 
 ### Hypotheses
