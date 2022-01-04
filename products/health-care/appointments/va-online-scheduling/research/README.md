@@ -3,22 +3,21 @@
 ## Upcoming
 
 * Rescheduling + home page discovery
+* Appointments notifications service map
 
 ## In progress
 
-* Appointments notifications service map. - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop)
-
-* Clarify requests usability test - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification)
+* MHV and VAOS appointments list discovery
 
 ## 2021 Studies
 
+December - [Clarify requests usability test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification)
+
+October - Appointments notifications service map [pilot study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/appointments/research/2021-10%20Notifications%20service%20map%20workshop)
 
 July/August - [Facility selection A/B test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-august-facilities-ab-test/README.md)
 
 May/June - [Facilities personalization research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/may-2021-facilities-personalization-research)
-
-* _Preferences when choosing a facility, Personalization/automation, Preferred scheduling and appt management tools, Calling VA, Wayfinding VAOS <-> Profile, Traveling veterans_
-
 
 February - [VAOS for vaccine distribution](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/covid-vaccine-distro/scheduling/research/feb-2021-vaos-vaccine-concept-test)
 
