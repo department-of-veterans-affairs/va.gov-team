@@ -272,6 +272,12 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 #### Challenges:
+- Currently, we can only submit a veteran's updated *contact* information to VA.gov Profile
+- We cannot submit a veteran's updated *Next-of-Kin* or *Emergency Contact* information to the VA.gov Profile
+- VA.gov Profile team has no plans in their roadmap to support showing/updating *Next-of-Kin* or *Emergency Contact* information
+- How can we get the VA.gov Profile team to support the additional demographics feature requirements?
+- Who will be responsibile for initiating this conversation and overseeing this initiative?
+- How long will it take for this additional ability to be delivered by the VA.gov Profile team?
 
 ### Use the existing VA Profile service(different from VA.gov Profile) exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
