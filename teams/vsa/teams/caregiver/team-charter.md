@@ -129,7 +129,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 | 3  | Routine addon/none new - 1 to 2 days (small work/high domain knowledge/1 or no moving parts)
 | 5  | Routine addon/none new - 2 to 3 days (medium work/1-2 moving parts)
 | 8  | New work/High Complexity - 3 to 5 days (over 2 moving parts)
-| 13 | Too big/Risky, should be brokwn down - 1 to 2 weeks
+| 13 | Too big/Risky, should be broken down - 1 to 2 weeks
 
 
 #### User story validation
