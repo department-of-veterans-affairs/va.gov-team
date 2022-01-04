@@ -272,7 +272,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 #### Challenges:
-- Currently, we can only submit a veteran's updated *contact* information to VA.gov Profile
+- Currently, we can only submit a veteran's updated *contact* information to the VA.gov Profile
 - We cannot submit a veteran's updated *Next-of-Kin* or *Emergency Contact* information to the VA.gov Profile
 - VA.gov Profile team has no plans in their roadmap to support showing/updating *Next-of-Kin* or *Emergency Contact* information
 - How can we get the VA.gov Profile team to support the additional demographics feature requirements?
@@ -296,6 +296,14 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 #### Challenges:
+- Establishing an integration with the VA Profile service from the Vets-API Check-In module
+- Who is responsible for initiating the conversation with the VA Profile team?
+- What is the engineering scope for establishing the integration between the Vets-API Check-In module and the VA Profile service?
+- Currently, VA Profile only supports updating a veteran's contact information.
+- We cannot submit a veteran's updated *Next-of-Kin* or *Emergency Contact* information to the VA Profile service
+- Can we get the VA Profile team to support updating *Next-of-Kin* or *Emergency Contact* information?
+- Who is responsible for spear heading this initiative?
+- How long will it take the VA Profile team to provide this additional functionality if they agree to implement our request?
 
 ### Build additional systems and services in-order to handle updated demographics information
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
