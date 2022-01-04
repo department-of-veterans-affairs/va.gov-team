@@ -228,7 +228,10 @@ Midpoint review; Research planning
 ## Sprint 65 (1/12 - 1/25)
 [Sprint 65 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30270)
 
+If not done last sprint:
 
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/34708
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/34704
 
 ## Sprint 66 (1/26 - 2/8)
 [Sprint 66 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30271)
