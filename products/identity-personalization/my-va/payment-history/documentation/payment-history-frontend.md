@@ -38,7 +38,7 @@ You have [count] outstanding debts. [Manage your VA debt] *link to debt page*
 
 **When we do not have a count of debts**
 
-You have outstanding debt. [Manage your VA debt] *link to debt page*
+You have outstanding debt. [Manage your VA debt](/manage-va-debt)
 
 ### Deposit-made card
 
@@ -98,7 +98,7 @@ SCREENSHOT
 
 #### Content
 
-[Request travel reimbursement] *link to travel reimbursement page*
+[Request travel reimbursement](/health-care/get-reimbursed-for-travel-pay/)
 
 ## States
 
