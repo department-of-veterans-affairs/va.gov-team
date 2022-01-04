@@ -259,7 +259,7 @@ Hello! This is a rough outline of what exists on My VA and why we did what we di
 - [VA Notify Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify#readme)
 
 
-### Benefits you might be interested in - MVP
+## Benefits you might be interested in - MVP
 
 ### Overview
 
