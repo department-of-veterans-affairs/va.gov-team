@@ -21,9 +21,9 @@ Since Veterans can incur debt any time after establishing benefits with VA, this
 ### 1. Validate that our proposed payment information IA matches the Veteran mental model.
 
 - Where do users expect to see new information about their payments and debts on [VA.gov](http://va.gov/)?
+- Can users find the payment information that they're looking for?
 - Do users expect to see a travel reimbursement link under health care or payment information?
 - What is the order of importance of the existing sections on My VA + payment information?
-- Can users find the payment information that they're looking for?
 - How do users expect their action items to be structured in relation to non-action item information? (in sections, or all at the top together, or something else?)
 
 ### 2. Understand the financial information that is most important to Veterans.
@@ -57,7 +57,7 @@ We'll use the findings from this research to update our page IA and inform our M
 
 ## Method	
 
-We'll conduct remote usability testing over Zoom using a prototype.
+We'll conduct remote usability testing over Zoom using a prototype on production. Testing on production allows us to use a code-based prototype and be more inclusive with our recruiting approach.
 
 ### Research materials
 
@@ -73,43 +73,62 @@ We will recruit Veteran participants using a lean maximum variation strategy.  W
 
 ### Recruitment criteria
 
-Schedule 10 Veterans for a minimum of 5 successfully completed sessions.
+Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 
 #### **Primary criteria (must-haves)**
 
-- All participants should have received education benefit or compensation/pension payments from the VA OR incurred education (CH 33, CH 34, CH 35) or compensation/pension debts. Screener questions:
+- All participants must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see any sections in profile **other than Account Security**, they are LOA3 and can participate in testing.
 
-  1. Have you ever received an education, compensation or pension payment from the VA?
+- All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
 
-  2. Do you have education, compensation, or pension debt with VA? 
+- All participants should have received education benefit or compensation/pension payments from the VA. Screener question:
 
-  3. Do you have health care related debt with VA?
+  - Have you ever received an education, compensation or pension payment from the VA?
 
-  - Answering yes to question **1 OR 2** would qualify the participant for the study.
-  - Answering yes **only to question 3** would disqualify the participant from the study.
+  - Answering yes would qualify the participant for the study.
 
-- Please confirm participants have Zoom downloaded prior to the session and they know how to screen share.
+- 50% of participants should have incurred education (CH 33, CH 34, CH 35) or compensation/pension debts. Screener questions:
+
+  1. Do you have education, compensation, or pension debt with VA? 
+  2. Do you have health care related debt with VA?
+
+  - Answering yes to question **1 AND 2** would qualify the participant for the study.
+  - Answering yes **only to question 2** would disqualify the participant from the study.
+
+- 50% participants should have health care with VA, either now or in the past. Screener question:
+
+  - Do you currently or have you ever received health care through VA?
+  - Answer should be yes to qualify for the study.
+
+- All participants must able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
+
+  - Participants should be understand that facilitators and observers will be able to see their VA account information, and be comfortable with this.
+
+- 50% of participants should be able to participant from a desktop device.
+
+- 50% of participants should be able to participate from a non-desktop device (tablet or mobile phone).
 
 #### **Secondary criteria (nice-to-haves)**
 
 ##### Gender
 
-- 5 women, 5 men
+- 8 women, 8 men
 
 ##### Inclusion
 
-- 7 participants who identify as other than white
-- 3 participants who identify as other than straight/heterosexual and cisgender
-- 5 participants age 55+
-- 5 participants who identify as having a cognitive disability
-- 3 participants who do not have a college degree
-- 3 participants who live in a rural area
+- 3 participants who use assistive technology (e.g. screen reader, magnification)
+- 10 participants who identify as other than white
+- 5 participants who identify as other than straight/heterosexual and cisgender
+- 8 participants age 55+
+- 8 participants who identify as having a cognitive disability
+- 5 participants who do not have a college degree
+- 5 participants who live in a rural area
 
 ##### Geography
 
-- 4 participants from the east coast
-- 3 participants from the mid-west
-- 3 participants from the west coast
+- 6 participants from the east coast
+- 5 participants from the mid-west
+- 5 participants from the west coast
 
 ## Timeline
 
@@ -117,7 +136,7 @@ Schedule 10 Veterans for a minimum of 5 successfully completed sessions.
 
 When will the thing you are testing be finalized?
 
-January 7 
+January 10 
 
 Please indicate the date and name of a mock participant for a pilot session. 
 
@@ -173,7 +192,3 @@ Please list the people who will be serving in each role. **Include the primary p
   - taylor.mitchell@gcio.com
 
   - lihan@adhocteam.us
-
-    
-
-    
