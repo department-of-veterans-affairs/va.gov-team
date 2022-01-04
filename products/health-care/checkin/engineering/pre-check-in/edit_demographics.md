@@ -17,7 +17,6 @@
 - [Exploring Workflows](#exploring-workflows)
     - [VA.gov Profile Exclusively](#use-the-existing-vagov-profile-exclusively)
     - [VA Profile Exclusively](#use-the-existing-va-profile-servicedifferent-from-vagov-profile-exclusively)
-    - [Both VA.gov Profile & VA Profile](#use-both-the-vagov-profile-and-the-va-profile-service)
     - [Build New Services](#build-additional-systems-and-services-in-order-to-handle-updated-demographics-information)
 - [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Questions](#engineering-questions)
@@ -281,9 +280,6 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
-#### Challenges:
-
-### Use both the VA.gov Profile and the VA Profile service
 #### Challenges:
 
 ### Build additional systems and services in-order to handle updated demographics information
