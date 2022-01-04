@@ -15,15 +15,15 @@
     - [Error Path Stories](#error-path-stories)
     - [Clever Case Stories](#clever-case-stories)
 - [Exploring Workflows](#exploring-workflows)
-    - [VA.gov Profile Exclusively](#use-the-existing-vagov-profile-exclusively)
-    - [VA Profile Exclusively](#use-the-existing-va-profile-servicedifferent-from-vagov-profile-exclusively)
+    - [Use VA.gov Profile Exclusively](#use-the-existing-vagov-profile-exclusively)
+    - [Use VA Profile Exclusively](#use-the-existing-va-profile-servicedifferent-from-vagov-profile-exclusively)
     - [Build New Services](#build-additional-systems-and-services-in-order-to-handle-updated-demographics-information)
 - [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Questions](#engineering-questions)
 - [Engineering Proposals](#engineering-proposals)
 - [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
-- [Testing Solution](#testing-solution)
+- [Testing Solutions](#testing-solutions)
 - [Application Performance Management](#application-performance-management)
 - [Applications and Services](#applications-and-services)
     - [Vets Website](#vets-website)
@@ -295,7 +295,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 ## Testing Questions
 
-## Testing Solution
+## Testing Solutions
 
 ## Application Performance Management
 * APM tools
