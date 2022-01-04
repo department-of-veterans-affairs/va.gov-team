@@ -88,6 +88,9 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ### Negative
 
 ## Measuring Success
+* Metrics that we want to track
+    - Metric one
+    - Metric two
 
 ## User Scenarios
 
