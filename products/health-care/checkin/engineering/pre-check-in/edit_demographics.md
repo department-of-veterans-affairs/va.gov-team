@@ -47,6 +47,9 @@
   
 |Name|Role|Email|
 |----|----|-----|
+|Patrick Bateman|Product Owner/Office of the CTO|patrick.bateman@va.gov|
+|Corey Parker|Sr. Product Manager|corey.parker@gcio.com|
+|Julie Adair|Product Manager|julie.adair@agile6.com|
 
 ## Related Documents
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
