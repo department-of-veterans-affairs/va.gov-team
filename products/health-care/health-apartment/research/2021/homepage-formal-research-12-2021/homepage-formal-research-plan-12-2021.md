@@ -1,11 +1,13 @@
-# Formal user reseach on homepage concept
+# Research Plan for the MyHealtheVet landing page, January 2022
 
 ## Goals
-The VA Health Apartment team is conducting user testing of its authenticated homepage concept to understand: 
-* If action links on the homepage are easily discovered and executed by Veterans
-* How we might improve content and user flows to make it easier for Veterans to manage their health care
+The intent of the homepage is to be a centralized hub for veterans to manage their healthcare.
 
-The feedback from this research will inform future iterations of both the homepage and sitemap, as well as the overall design of the health apartment concept.
+In terms of the Veteran, the goal of this research is this: “I can get what I need related to health.” 
+
+From our team’s perspective, we are testing the IA of the site. We want to ensure the landing page has clear paths to key information in the site since we are bringing My HealtheVet, the VA.gov Health care hub, and other health content under one “roof.”
+
+* At this point, we are not working on user flows. We are testing the findability of key health tasks and info from the My HealtheVet authenticated landing page. 
 
 ### Background
 This project maintains the vision of the Digital Modernization Strategy set in 2017: to provide a single, high-quality digital version of every health product or tool, plus the ability for a Veteran to see all of their health-related VA benefits in one place on VA.gov.
@@ -14,23 +16,27 @@ This study will build off of the results of our [informal user testing](https://
 
 ### Research questions
 This study focuses on 2 main areas:
-* **Critical tasks:** Are the tasks on the homepage easy for a Veteran to act on?
-* **Content balance:** Do Veterans understand the difference between informational and actionable links?
+* **Critical tasks:** Can veterans find key tasks and information when prompted?
+* **Content balance:** Do Veterans go to content pages (instructional, policies, etc.) expecting to be able to perform a task?
 
 ### Hypotheses
 For each question above, respectively, we believe the following:
-* When given a task, Veterans will be able to find and complete the tasks given to them with little confusion.
-* Veterans will know the difference between a link that takes them to an action and one that takes them to a resource or content page. 
+* When given a task, Veterans will be able to find the corresponding action link that enables them to initiate that task. 
+* When given a task, a Veteran won't click on a content page to initiate that task.
 
 ## Method
-We'll use a mix of open-ended and task-specific questions for this research. The open-ended questions will primarily gauge how the Veteran currently uses MyHealtheVet (and serve as a warm-up), while the task-specific questions will give us insight as to whether our layout and content makes tasks discoverable and easily acted on. 
+We will ask Veterans what health tasks they do and what health tasks they do online. When we do this we will:
+1. Write down their tasks
+2. Have them show us how they do the simplest task
+3. Ask them to do two of their tasks on the concept for the My HealtheVet authenticated landing page 
+4. Ask them to do several tasks to ensure that the landing page has clear paths to key information in the site.
 
 For testing the mobile concept, we'll use Zoom and staging on VA.gov
 
 Here is the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-formal-research-12-2021/Conversation-guide.md).
 
 ## Location
-We'll conduct user research remotely online using MO Studio's Zoom account.
+We'll conduct user research remotely online using the account associated with Perigean
 
 ## Recruitment approach
 Our intended audience for this research is Veterans. We are planning to recruit through Perigean. 
@@ -77,7 +83,7 @@ Ideally get at least 1 participant from each:
 ## When?
 Conduct research: TBD, Late January-Early February
 
-Length of session: 45 minute sessions with 15 minutes between sessions
+Length of session: 1 hour sessions with 15 minutes between sessions
 
 Moderator availability: TBD
 
