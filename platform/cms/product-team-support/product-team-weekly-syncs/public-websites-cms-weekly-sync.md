@@ -35,6 +35,17 @@
 
 </details>
 
+
+## January 5
+
+Some updates about CMS team
+
+Q1 planning timelines
+
+Recurring events 
+* CMS: wrapping up editorial experience, KB and training materials in January. 
+
+
 ## December 22, 2021
 
 * Promo banner training (early January): who needs to be invited? - will async, Dave to get names
