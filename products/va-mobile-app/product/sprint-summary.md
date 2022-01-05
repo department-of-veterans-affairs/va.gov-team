@@ -4,6 +4,23 @@ Sprint planning and goals are tracked in [here](https://docs.google.com/presenta
 
 ## Sprint: 12/22/21 - 1/4/22
 
+- Vaccine Records 2.0 
+  - Implemented metrics to track missing date/CVX codes  and CDC job success and failures
+  - Swagger documentation created for V1 immunization enpoint
+
+- Identity
+  - Completed IAM certification refresh
+  - Completed testing of IAMSessionManager
+  - Test Plan completed
+
+- Dark Mode
+  - Changes made for Secure Messages 
+  - Modified red error state text, field borders, action background buttons to be accessible
+
+- Tech/Design Debt Maintenance
+  - Fixed automation bug ‘Couldn’t find key P8 file at path ‘AppStoreConnectKey.P8’
+  - Fixed sort issue for vaccine records to sort by recency/chronologically
+  - Radio button removed on address confirm flow when a suggestion is not avail 
 
 
 
