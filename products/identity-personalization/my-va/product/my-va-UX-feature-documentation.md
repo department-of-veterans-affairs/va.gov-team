@@ -42,7 +42,7 @@ The digital health modernization team is working to create a 'health care apartm
 
 - Claims are really complicated and there are a ton of different statuses that are not documented *anywhere*. (Believe me, I asked everyone) There is some documentation around what statuses exist around appeals, [which you can see in this document.](https://docs.google.com/spreadsheets/d/15_KjIF68VmxzjJcBDOQUOMkrgj1UplkvFI6AwS-uU0M/edit#gid=871749236)
 - Worked mostly with Christian Valla and Kevin Stachura on CST
-- **Parent tool**: [Claim status]()
+- **Parent tool**: Claim status tool
 
 **Currently Showing**
 
@@ -95,9 +95,10 @@ The digital health modernization team is working to create a 'health care apartm
 
 ### Appointments
 
-- Everything is pulled through VAOS which also has a lot of technical limitations
-- There are a lot of different types of upcoming appointments [which are documented here.](https://docs.google.com/spreadsheets/d/1wOPhbYkBgI4h3cr06kRGmWyKquEai-JiEgPK4gT30qI/edit#gid=0)
-- Worked mostly with Peter Russo on VAOS
+- Everything is pulled through VAOS which also has a lot of technical limitations.
+- There are a lot of different types of upcoming appointments [which are documented here.](https://docs.google.com/spreadsheets/d/1wOPhbYkBgI4h3cr06kRGmWyKquEai-JiEgPK4gT30qI/edit#gid=0).
+- Worked mostly with Peter Russo on VAOS.
+- **Parent tool**: VAOS
 
 **Currently Showing**
 
@@ -119,6 +120,7 @@ The digital health modernization team is working to create a 'health care apartm
 - Everything is pulled through MHV
 - Users didn't really care to see all of the information about their messages, just that they had new messages. 
 - Didn't work with anyone directly here - Erik checked all of this in the code. I know Lauren Alexanderson works (or worked?) on this though. 
+- **Parent tool**: MHV secure messages
 
 **Currently Showing**
 
@@ -141,6 +143,7 @@ The digital health modernization team is working to create a 'health care apartm
 - The prescriptions tool in MHV is fairly outdated and doesn't updated often, so it often isn't acccurate for users. 
 - Users only want to know if there's an action item or a problem with their prescriptions (e.g. they need dr approval or a prescription refill is about to expire)
 - Can work with Lauren Alexanderson, she connected us to the prescriptions team but I can't remember the specific person we worked with.
+- - **Parent tool**: MHV prescriptions tool
 
 **Currently Showing**
 
@@ -176,6 +179,7 @@ These were taken directly from the homepage.
 - Contacts:
   - Ebn-migration: Jason Wolf (PM I think?) or Kathleen Crawford (FE developer), slack channel: #vsa-ebn-migration
   - Debt: Denise Coveyduc (PM) or Riley Orr (Designer), slack channel: #vsa-debt
+ - **Parent tools**: Payment history (BGS backend) and debt management tool
  
 **Currently Showing**
 
@@ -203,6 +207,7 @@ These were taken directly from the homepage.
 - Applications in progress, including links to continue applications
 - 'What benefits does the VA offer' more info dropdown 
 - VA benefits you might be interested in, including links to Disability Compensation, Education Benefits, and Health care benefits
+- **Parent tool**: ALl applications on VA.gov
 
 **Technical limitations**
 
