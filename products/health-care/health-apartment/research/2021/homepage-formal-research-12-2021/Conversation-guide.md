@@ -70,57 +70,44 @@ Start recording.
 
 ### Understand what they use 
 
-* Do you use My HealtheVet?
+* Do you use the web for your VA health care benefits?
 
-* Do you use VA.gov for your health care?
-
-> Listen for: 
-
-* which site they use
-
-* their process to get to My HealtheVet, VA.gov, or another website
-
-* what they do on the site
+* (if yes or no, ask:) When you manage your VA health care, what are examples of things you do regularly (*facilitator makes notes of these tasks*)
 
 
+* Do you do those things online?
 
-
+* (*facilitator asks about simplest task*) Show me where you go to do (task)
 
 
 
 
 ## Homepage(20)
 
+* Show the participant the authenticated landing page concept, and ask them to do two of the tasks they mentioned above. If the participant did not mention any tasks, then use the task list below. 
 
 ### Task Questions 
-Alright, I want you to pretend like you've just logged on to this page. I'm now going to ask you about a series of tasks, and how you would go about completing them. 
+
 
 ### Appointments:
-* If you wanted to schedule a new appointment, what would you do?
-* If you wanted to cancel an appointment, what would you do?
+* Your doctor said they wanted to see you back in three months. How would you schedule that appointment?
 
 ### Pharmacy:
-* If you wanted to refill a prescription, what would you do?
-* If you wanted to see all of your prescriptions, what would you do?
+* You noticed you only have a few days left of a medication. How would you go about ordering more?
 
 ### Messages:
-* If you wanted to see past messages, what would you do?
-* If you wanted to send a message, what would you do?
+* Your doctor wanted you
 
 ### Medical Records:
-* If you wanted to check on recent lab results, what would you do?
+* You had some blood tests done at the VA this week, and you want to see those results. How would you find them?
 
 ### Health Care Benefits:
-* If you wanted to request travel pay, what would you do?
-* If you needed to order more diabetic socks or hearing aid batteries, what would you do?
-   * Watch for: does the user call out that there isn't a specific link for the described items? 
+* If you drive to your primary care appointment at the VA, how would you go about getting reimbursed for gas?
 
-### Disability:
-* If you wanted to check on the status of a disability claim, what would you do?
-   * Watch for: Does the user go to the top of the page? Do they go to the Disability section? 
+### Miscellanious
+* You need to go to the dentist. How would you find out what coverage you qualify for?
 
-### Contact Us
-* If you wanted to speak to someone for help with the MyHealtheVet page, what would you do?
+
 
 
 
