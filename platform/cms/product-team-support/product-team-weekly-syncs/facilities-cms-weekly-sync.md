@@ -23,6 +23,9 @@
 
 </details>
 
+## January 12
+
+- [Alexandria LA vs Alexandria VA Vet Center](https://prod.cms.va.gov/admin/content?title=alexandria&type=vet_center&moderation_state=All&owner=All) - [Slack thread](https://dsva.slack.com/archives/C02730UEZPS/p1640890979257700)
 
 
 ## January 5
@@ -31,10 +34,22 @@ Facilities Q1 planning
 
 VAMC
 - VA health connect phone numbers
+  - We need to be able to store this number so that it can be used on www.va.gov and FL. 
+  - This has already been rolled out on VISN 8 with a FE hack
+  - CMS will be system of record for this phone number
+  - 12 numbers throughout the US, not 1:1 with VISNs or VAMCs. 
+  - Governance for phone numbers: the webmaster at each VAMC
+  - This parallels with the Mental Health number in that we want CMS to be the source of truth for this, which is currently a bit of a mess, but is stored for each facility, which Lighthouse consumes, which may be different than the number CMS stores in Mental health service content. 
+  - See also: pharmacy phone numbers, similar to mental health in some ways. 
 
 Vet Center
 - [Alexandria LA vs Alexandria VA Vet Center](https://prod.cms.va.gov/admin/content?title=alexandria&type=vet_center&moderation_state=All&owner=All) - [Slack thread](https://dsva.slack.com/archives/C02730UEZPS/p1640890979257700)
 - Lat/long storage
+  - Solution: mapbox api has been purchased
+  - Each facility type should have lat/lon fields
+  - Lighthouse will be system of record for NCA and VHA health facilities, including Vet Centers and Outstations
+  - CMS will be system of record for Vet Center - CAPs, which we will push to lighthouse, and possibly VBA facilities.
+  - CMS action: epic for lat/long for various content types. 
 
 ## December 22
 - Vet Center operating status
