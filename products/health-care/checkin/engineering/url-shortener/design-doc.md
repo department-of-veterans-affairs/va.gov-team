@@ -53,6 +53,7 @@ The system design centers around the ability to configure [redirect locations fo
 Shortened URLs are created by [invoking a Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html) via [API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html) with the URL to be shortened as the main parameter. The Lambda function generates a short unique identifier and creates an S3 object with a redirect to the provided URL. Finally, the Lambda function returns the shortened URL (e.g. `https://www.va.gov/u/abcdef`) to the API consumer.
 
 ![Short URL Creation](https://user-images.githubusercontent.com/101649/148139300-06bcbab8-d74c-4e07-a04b-1136c923b577.png)
+([UML Source](create_short_url.txt))
 
 #### URL Serving
 
@@ -67,6 +68,7 @@ https://va-url-shortener.s3-us-gov-west-1.amazonaws.com/abcdef
 The S3 service will then serve a 301 redirect to the full URL.
 
 ![Short URL Serving](https://user-images.githubusercontent.com/101649/148139319-86cdb2ea-59c0-4d40-a567-5dddfed52cbd.png)
+([UML Source](serve_short_url.txt))
 
 
 ## Specifics
@@ -302,3 +304,4 @@ TBD
 |------ | -------------- | ------ |
 | Jan 4, 2022 | Initial Draft | Adrian Rollett |
 | Jan 5, 2022 | Added requirements from [IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33449) | Adrian Rollett |
+| Jan 5, 2022 | Add links to diagram source files | Adrian Rollett |
