@@ -88,7 +88,7 @@ The addition of a payment information section should help fulfill our north star
 |Clicks to view all payments ("View your payment history"))| 2.3mil|TBD|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments. Manage your VA debt")| 179k|TBD|TBD|
 
-**Key result #2**: Findability: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
+**Key result**: Findability: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
