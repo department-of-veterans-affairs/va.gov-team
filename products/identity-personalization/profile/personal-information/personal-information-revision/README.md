@@ -79,12 +79,12 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 [Contact information report](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 
-|Field name| Average monthly updates (total events) between Oct - Dec 2021 | # of monthly updates (total events) 1 month post-launch |
-|----------|------------|------------|
-|Mailing address | ~28,500 updates | |
-|Home address | ~28,500 updates | |
-|Mobile phone | ~14,000 updates | |
-|Email address |~15,500 updates | |
+|Field name| Average monthly updates (total events) between Oct - Dec 2021 | # of monthly updates 1 month post-launch | 2 months post-launch | 3 months post-launch |
+|----------|------------|------------|------------|------------|
+|Mailing address | ~28,500 updates | | | |
+|Home address | ~28,500 updates | | | |
+|Mobile phone | ~14,000 updates | | | |
+|Email address |~15,500 updates | | | |
 
 ## Solution approach
 
