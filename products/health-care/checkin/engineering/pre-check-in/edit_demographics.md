@@ -53,7 +53,7 @@
 |Julie Adair|Product Manager|julie.adair@agile6.com|
 
 ## Related Documents
-* [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
+* [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e)
 * [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 * [Check-In Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 * [Research Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research)
@@ -115,11 +115,12 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 **Given** I have not _fully authenticated_[^1] prior using my va.gov credentials  
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
-**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information (Kristen - Contact, Next of Kin, and Emergency Contact will all be different pages.)
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **Then** I am redirected to the main va.gov login page  
 **when** I login using my va.gov credentials  
-**Then** I am successfully redirected back to my Pre-Check-In demographics page  
+**Then** I am successfully redirected to the edit page for a specific demographic (such as mailling address) and submit the changes
+**Then** I return to the main demographics page upon cancel, submission of chnages, or navigating via breadcrumbs  
 **And** I have the ability to edit all of my demographics information  
 **When** I edit any or all of my demographics info and submit the changes  
 **Then** I can see that my changes have been validated  
@@ -130,16 +131,18 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **Given** I have _fully authenticated_[^1] prior using my va.gov credentials  
 **Then** my minimal authentication was automatically handled using the information from my profile  
 **And** I'm not shown the minimal authentication page  
-**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information (Kristen - Contact, Next of Kin, and Emergency Contact will all be different pages.)
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **Then** I am NOT redirected to the main va.gov login page  
 **And** I remain on the Pre-Check-In flow demographics page  
 **And** I now have the ability to edit all of my demographics information  
+**Then** I am successfully redirected to the edit page for a specific demographic (such as mailling address) and submit the changes
+**Then** I return to the main demographics page upon cancel, submission of chnages, or navigating via breadcrumbs 
 **When** I edit any or all of my demographics info and submit the changes  
 **Then** I can see that my changes have been validated  
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 
-#### Case B:
+#### Case B: (Kristen - Are we allowing editing during day of? Thought we were prioritizing pre-check-in and still directing to staff on day of.)
 > **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 > **As a** Veteran  
 > **I want** the ability to securely edit and save my demographics information to the va systems ON the day of Check-in  
@@ -207,7 +210,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **Given** I have _fully authenticated_[^1] using my va.gov credentials  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **And** I have entered into edit mode on the form  
-**And** I have cleared the form of all or some of my demographics information  
+**And** I have cleared the form of all or some of my demographics information (Kristen - I think the components show the error as soon as they are blank and not upon submission...will have to check).
 **When** I submit the form to update and save my information to the VA systems  
 **Then** I should be shown a message which requires me to enter valid demographics information in all required fields  
 **And** my browser should not initiate a request to any APIs inorder to update my information  
@@ -253,6 +256,11 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **Then** the backend services should be smart enough to recognize that something is not right with the submitted information  
 **And** I should be shown a message asking me to talk with a staff member first  
 **And** I should continue to remain on the demographics page  
+
+
+**Scenario:**Address Validation with Postal Service
+
+Needs to be filled out. There are many use cases in the wireframes, which was copied from the profile team.
 
 ## Exploring Workflows
 
