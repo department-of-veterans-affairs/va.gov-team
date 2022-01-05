@@ -43,7 +43,7 @@ These are suggestions based on what we've heard in user research ([December 2020
 - Users are totally fine to click into the tool pages to get more information. On a dashboard they just wanted a summary of their benefits, elevation of any time-sensitive action items/problems and to be able to easily access the additional things that they want to see.
 
 
-## Health care - Overall MVP
+## Sections
 
 ### Overview
 
