@@ -3,13 +3,20 @@
 Staff at the MVP site(s) will ask Veterans a series of questions ideally towards the end of their appointment (maybe at checkout), so the Veteran can provide feedback on their mobile check-in experience. However, it is up to the MVP site to determine when in their workflow these questions can fit. If this needs to occur prior to an appointment or at some other point that is absolutely fine. _The site should just let the check-in team know what was decided._
 
 ### Recruitment
-- Staff should try to get feedback from:  
-  - 1 Veteran who completed check-in on their mobile phone per day
-  - 1 Veteran who did not check-in on their mobile phone per day
+Staff should try to get feedback from:  
+- 1 Veteran who completed check-in on their mobile phone per day
+- 1 Veteran who did not check-in on their mobile phone per day
 - _Staff should not worry about getting feedback from every patient during this evaluation._
 
+Expect to include the following Martingsburg Clinics:
+  - MWV MED HEM BM 4B112
+  - MWV MED HEM/ONC MD 1 4B112
+  - MWV MED HEM PA 1 4B112
+  - MWV MED CHEMO PROCE RN 4B112
+  - MWV MED HEM NURSING 4B112
+
 ### When? What dates do you plan to do research?
-- To be determined between MVP site and check-in team. Ideally less than two weeks after launch.
+To be determined between MVP site and check-in team. Ideally beginning less than two weeks after launch.
 
 ### How staff should document feedback
 Feedback should be anonymous. Do not collect names or other identifiable information.
