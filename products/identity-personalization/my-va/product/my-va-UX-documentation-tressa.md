@@ -54,11 +54,11 @@ Hello! This is a rough outline of what exists on My VA and why we did what we di
 ### Currently Showing
 
 - Disability rating
-- Onsite Notifications
+- Onsite Notifications (WIP)
 - Claims & appeals
 - Health care
 - Benefit payment and debts (WIP)
-- Benefits you might be interested in (WIP)
+- Benefits you might be interested in 
 
 ### Future goals
 
