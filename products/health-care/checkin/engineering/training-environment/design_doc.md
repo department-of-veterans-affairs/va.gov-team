@@ -5,6 +5,15 @@
 ## Team Members
 
 ## Table of Contents
+- [Problem Statement](#problem-statement)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
+- [User Scenarios](#user-scenarios)
+- [Exploring Workflows](#exploring-workflows)
+- [Questions](#questions)
+- [Solutions](#solutions)
+- [Existing Systems](#problem-statement)
 
 ## Problem Statement
 
