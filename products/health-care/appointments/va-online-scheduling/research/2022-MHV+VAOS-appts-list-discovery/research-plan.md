@@ -46,7 +46,10 @@ During this study we hope to learn:
 * What Veterans find confusing when transitioning from MHV to VAOS.
 
 ### Outcome
-The VAOS team will use this research to provide support to Veterans who are transitioning from viewing their appointments in MHV to VAOS. This may include adding help content, improving appointments list features, and/or improving the path/workflow from MHV to VAOS.
+The VAOS team will use this research to provide a better experience for Veterans who are transitioning from viewing their appointments in MHV to VAOS. This may include:
+* Adding as-needed help content
+* Improving appointments list features 
+* Improving the path/workflow from MHV to VAOS.
 
 ### Research questions
 What's not working about the information or tools available in either appointments list?
@@ -54,40 +57,18 @@ What's working well in either list?
 
 ### Hypothesis
 
-We believe that Veterans 
+Veterans largely use the MyHealtheVet appointments list to understand and manage their health care appointments. We believe, as more Veterans transition to VAOS to do the same tasks, they may be confused by content and interactions that are different between the two lists.
 
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+First we'll run a contextual inquiry, by asking participants to access the MHV appointments list and VAOS appointments list, and observing how they use those features.
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+[MAYBE] Then we'll run a concept study with those participants, showing them an updated version of the VAOS home page on desktop and asking them questions about how this might change their experience.
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
-- If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+This will be a moderated remote study, over Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -111,6 +92,12 @@ If recruiting outside of Perigean’s participant database:
 	
 ## Recruitment	
 
+* 8 Veteran participants (recruit 12)
+* Active users of MyHealtheVet
+* Willing to log into their account and share information about their health appointments with the research team
+
+Preferably with upcoming VA appointments
+
 OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
 Before writing your recruitment criteria, be sure to review the following resources. 
@@ -118,6 +105,9 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
+
+We'll work with Perigean to recruit participants
+
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
 Pro tip:
