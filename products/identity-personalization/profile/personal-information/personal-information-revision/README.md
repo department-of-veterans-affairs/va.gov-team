@@ -1,7 +1,6 @@
 # Project outline: Profile Personal Information Revision
 
-
-Last updated December 7, 2021
+Last updated: January 5, 2022 
 
 ### Communications
 
@@ -15,8 +14,8 @@ Last updated December 7, 2021
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
 |Christina Gesnalske| Designer | christina.gednalske@adhocteam.us |
-|Zach Morel | FE Engineer | zach.morel@gcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Adam Whitlock | FE Engineer | adam.whitlock@adhocteam.us |
+|Tom Harrison| BE Engineer | tom.harrison@adhocteam.us |
 |Melissa Rebstock | VBA/VEO lead | melissa.rebstock@va.gov |
 |Laurie Baker | VBA partner | laurie.baker@va.gov |
 |Lexi Matza | Deputy Director, LGBT Health Program | alexis.matza@va.gov |
@@ -65,7 +64,9 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 ## Measuring success
 
-OKRs and KPIs TBD
+### Objective: Allow people to more accurately define themselves within the VA.
+
+**KPI**: See X updates to each new personal information field in the first (month/quarter) after launch.
 
 ## Solution approach
 
