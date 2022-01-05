@@ -50,6 +50,9 @@ We'll use the findings from this research to update our page IA and inform our M
 ### Hypothesis
 
 - We believe Veterans will find it useful to see information about recent payments and outstanding debts surfaced on My VA.
+
+**Feedback: Suggest revising this hypothesis; we are not testing if Veterans "like" things, but if they actually use things. What behavior do you think a Veteran could exhibit that would mean it is useful to them? E.g. "We believe that Veterans will be able to resolve debts more easily by [completing a specific task provided in your prototype.]" What is the main behavior you are hoping to observe? - KH**
+
 - We believe Veterans will want to see more details about the financial information, and that providing a link from My VA will be a sufficient way for them to get those details.
 - We believe the design for action items and alerts will be effective at drawing attention to important information.
 - We believe there may be some confusion about why some alerts are at the top of the page, and others are within distinct sections of My VA.
@@ -84,7 +87,7 @@ Schedule 16 Veterans for a minimum of 8 successfully completed sessions.
 
 - All participants should have received education benefit or compensation/pension payments from the VA. Screener question:
 
-  - Have you ever received an education, compensation or pension payment from the VA?
+  - Have you ever received an education, compensation, or pension payment from the VA?
 
   - Answering yes would qualify the participant for the study.
 
