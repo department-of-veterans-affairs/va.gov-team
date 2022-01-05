@@ -48,8 +48,9 @@ Vet Center
   - Solution: mapbox api has been purchased
   - Each facility type should have lat/lon fields
   - Lighthouse will be system of record for NCA and VHA health facilities, including Vet Centers and Outstations
-  - CMS will be system of record for Vet Center - CAPs, which we will push to lighthouse, and possibly VBA facilities.
-  - CMS action: epic for lat/long for various content types. 
+  - CMS will be system of record for Vet Center - CAPs, which we will push to lighthouse, and possibly VBA facilities, Mobile VAMC clincis, possibly events. 
+  - CMS action: epic for lat/long for various content types.
+ 
 
 ## December 22
 - Vet Center operating status
