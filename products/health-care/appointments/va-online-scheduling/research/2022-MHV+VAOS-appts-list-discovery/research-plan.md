@@ -1,4 +1,4 @@
-# Research Plan for VAOS and MHV appointments list discovery
+# Research plan for VAOS and MHV appointments list discovery
 
 ## Background
 
@@ -22,11 +22,8 @@ During this study we hope to learn:
 The VAOS team will use this research to provide support to Veterans who are transitioning from viewing their appointments in MHV to VAOS. This may include adding help content, improving appointments list features, and/or improving the path/workflow from MHV to VAOS.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
-
+What's not working about the information or tools available in either appointments list?
+What's working well in either list?
 
 
 ### Hypothesis
