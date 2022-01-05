@@ -278,7 +278,8 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - How can we get the VA.gov Profile team to support the additional demographics feature requirements?
 - Who will be responsibile for initiating this conversation and overseeing this initiative?
 - How long will it take for this additional ability to be delivered by the VA.gov Profile team?
-- How will this addition affect other teams on va.gov
+- How will this addition affect other teams on va.gov?
+- If the VA.gov Profile team decides not to support showing or updating next-of-kin and emergency contact information, do we(Check-In) provide partial functionality for updating only the veterans contact information through them?
 
 ### Use the existing VA Profile service(different from VA.gov Profile) exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
@@ -335,6 +336,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - How will these services ultimately update a veteran's demographics information in the VA systems?
 - How long will it take to integrate Vets-API with the new services?
 - Can we get another team to do the work on our behalf?
+- Will we be duplicating functionality by not going with VA.gov Profile or VA Profile?
 
 ## Staff Facing Dependencies
 
