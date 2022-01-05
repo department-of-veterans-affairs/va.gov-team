@@ -81,7 +81,7 @@ The addition of a payment information section should help fulfill our north star
 
 ### Objective: Meet user need/expectation and elevate payment and debt informtion to user dashboard.
 
-**Key result**: Interaction: Increase overall clicks into payment history, debt information, and direct deposit CTAs.
+**Key result**: Interaction: Increase overall clicks into payment history and debt information.
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
