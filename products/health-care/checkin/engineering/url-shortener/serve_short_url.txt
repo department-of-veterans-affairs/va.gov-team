@@ -1,0 +1,13 @@
+title Serve Short URL
+
+actor Veteran
+boundary TIC
+participant www.va.gov
+participant RevProxy
+boundary VAEC-CMS
+database AWS S3
+
+Veteran->www.va.gov: Request for /u/abcdef
+www.va.gov->RevProxy: Request forwarded
+RevProxy->AWS S3: Forwards to https://va-url-shortener.s3-us-gov-west-1.amazonaws.com/u/abcdef
+AWS S3->Veteran: 301 OK Location: https://www.va.gov/health-care/appointment-check-in/?id=95688232-40be-423d-9a57-687445bc1c08

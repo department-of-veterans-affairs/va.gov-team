@@ -1,0 +1,11 @@
+title Short URL Creation
+
+participant VEText
+boundary AWS API Gateway
+participant AWS Lambda
+database AWS S3
+
+VEText->AWS Lambda: CreateShortURL(String URL, DateTime ValidBefore)
+AWS Lambda->AWS S3: PutObject(Bucket: "URL Bucket ID", x-amz-website-redirect-location: URL, x-amz-tagging: TBD)
+AWS S3->AWS Lambda: 200 OK
+AWS Lambda->VEText: { "shortUrl": "https://www.va.gov/u/abcdef" }
