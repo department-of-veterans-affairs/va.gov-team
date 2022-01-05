@@ -117,9 +117,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/payment-discovery-synthesis.md) for detailed documentation on the MVP requirements.
 
 - Most recent payment (31 days out - Confirmed via [this Slack message](https://dsva.slack.com/archives/C909ZG2BB/p1640031990019000), anything older will result in the payment card/block not showing, replaced with a text statement "You have not received any payments in the last 30 days." (links for debt (if appllicable) and direct deposit will remain.) 
-- Dynamic debt text (You have 2 outstanding debt. "Manage your VA debt" is the link on the same line)
-- Manage your direct deposit [link]
-- View your payment history [link]
+- Dynamic debt text (You have 2 outstanding debt. "Manage your VA debt" is the [link](va.gov/manage-va-debt/your-debt) on the same line)
+- Manage your direct deposit [link](va.gov/profile/direct-deposit)
+- View your payment history [link](va.gov/va-payment-history/payments)
 
 **Not In Scope** 
 - Survivors pension
