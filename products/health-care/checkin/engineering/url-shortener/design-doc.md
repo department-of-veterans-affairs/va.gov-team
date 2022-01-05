@@ -140,6 +140,10 @@ In order to limit object hosting costs and avoid storing irrelevant short URLs, 
 
 Objects without an assigned tag will be assumed to be permanent. Separately, an [S3 batch operation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops.html) may be created to be run periodically, check that objects redirect to valid URLs, and remove them if not.
 
+##### Indexing / Analytics
+
+* Shortened URLs should not be tagged or included in analytics
+* Shortened URLs should not be indexed
 
 ### Code Location
 
@@ -294,23 +298,7 @@ TBD
 
 ## Revision History
 
-
-<table>
-  <tr>
-   <td><strong>Date</strong>
-   </td>
-   <td><strong>Revisions Made</strong>
-   </td>
-   <td><strong>Author</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Jan 4, 2022
-   </td>
-   <td>Initial Draft
-   </td>
-   <td>Adrian Rollett
-   </td>
-  </tr>
-</table>
-
+| Date  | Revisions made | Author |
+|------ | -------------- | ------ |
+| Jan 4, 2022 | Initial Draft | Adrian Rollett |
+| Jan 5, 2022 | Added requirements from [IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33449) | Adrian Rollett |
