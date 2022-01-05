@@ -2,8 +2,6 @@
 
 Tressa Furner - January 3, 2022
 
-`WIP`
-
 Hello! This is a rough outline of what exists on My VA and why we did what we did for MVP. I haven't included links to research because you should be able to find those in GH. I'm happy to add any additional things in here if it's helpful! 
 
 
