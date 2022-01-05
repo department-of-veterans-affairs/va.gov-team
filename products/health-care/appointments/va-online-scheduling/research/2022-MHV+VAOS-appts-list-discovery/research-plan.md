@@ -7,11 +7,38 @@ VA Online Scheduling allows Veterans to request and schedule health care appoint
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
 
 ### OCTO Objectives 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+
+[TODO: Validate with LE]
+
+This work supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
+* Veterans and their families can find a single, authoritative source of information
+* Logged-in users have a personalized experience, with relevant and time-saving features
+* Veterans and their families trust the security accuracy and relevancy of VA.gov
+
+Increase 📈
+* Veteran satisfaction with VA.gov: by providing an appointments list that meets Veteran expectations and needs.
+
+Decrease 📉
+* Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it
+
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Veterans may interact with VAOS at different stages across the [veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+
+Starting up
+* MTM: Attending to health needs
+
+Taking care of myself
+* MTM: Recognizing and addressing mental health needs
+* MTM: Managing health issues
+
+Putting down roots
+* Maintaining my emotional health
+* Engaging VA to access benefits and services
+
+Retiring
+* MTM: Taking care of my health
+* MTM: Managing my declining health
 
 ## Research Goals	
 During this study we hope to learn: 
@@ -25,8 +52,10 @@ The VAOS team will use this research to provide support to Veterans who are tran
 What's not working about the information or tools available in either appointments list?
 What's working well in either list?
 
-
 ### Hypothesis
+
+We believe that Veterans 
+
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
