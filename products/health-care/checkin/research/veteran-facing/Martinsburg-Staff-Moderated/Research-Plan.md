@@ -1,19 +1,24 @@
 ## Method: MVP site staff help us gather feedback from Veterans
 ### Methodology
-- Staff at the MVP site(s) will ask Veterans a series of questions ideally towards the end of their appointment (maybe at checkout), so the Veteran can provide feedback on their mobile check-in experience. However, it is up to the MVP site to determine when in their workflow these questions can fit. if this needs to occur prior to an appointment or at some other point that is absolutely fine. _The site should just let the check-in team know what was decided._
+Staff at the MVP site(s) will ask Veterans a series of questions ideally towards the end of their appointment (maybe at checkout), so the Veteran can provide feedback on their mobile check-in experience. However, it is up to the MVP site to determine when in their workflow these questions can fit. If this needs to occur prior to an appointment or at some other point that is absolutely fine. _The site should just let the check-in team know what was decided._
 
 ### Recruitment
 - Staff should try to get feedback from:  
-  - 1 Veterans who completed check-in on their mobile phone per day
-  - 1 Veterans who did not check-in on their mobile phone per day
+  - 1 Veteran who completed check-in on their mobile phone per day
+  - 1 Veteran who did not check-in on their mobile phone per day
 - _Staff should not worry about getting feedback from every patient during this evaluation._
 
 ### When? What dates do you plan to do research?
 - To be determined between MVP site and check-in team. Ideally less than two weeks after launch.
 
 ### How staff should document feedback
-- Feedback should be anonymous. Do not collect names or other identifiable information.
-- The staff can utilize this [interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/6850668/MVP.PilotEvaluation-Feedback.pdf) to capture the feedback from the patient. Staff fills out the documentation.
+Feedback should be anonymous. Do not collect names or other identifiable information.
+
+Preferred Collection Method 
+- The staff can utilize an online form tool hosted through Optimal Workshop. 
+
+Backup Collection Method
+- If for some reason the form tool is not approved or unaccessible, the backup method would be an interactive PDF, such as this [interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/6850668/MVP.PilotEvaluation-Feedback.pdf) to capture the feedback from the patient. Staff fills out the documentation.
 - Corey Parker will periodically message the MVP site to gather the feedback documents.
 - If staff would prefer another document type or process to gather feedback, message Kristen.Mcconnell@va.gov with details.
 
