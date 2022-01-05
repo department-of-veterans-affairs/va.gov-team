@@ -233,6 +233,11 @@ If not done last sprint:
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/34708
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/34704
 
+If time for Liz:
+
+- Update payment history frontend documentation
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/payment-history-frontend.md
+
 ## Sprint 66 (1/26 - 2/8)
 [Sprint 66 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30271)
 
