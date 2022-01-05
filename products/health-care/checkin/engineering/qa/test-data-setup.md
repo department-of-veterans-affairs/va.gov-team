@@ -469,4 +469,16 @@ curl --request PUT \
   }
 }'
 ```
+# VistA Access 
+
+There may be a need to access VistA directly to schedult an appointment or checnge data for a test patient. 
+
+## ssh connectivity for dev. 
+
+To access Vista, ssh to the follwoing system using port 2222 instead of 22.  For example:
+
+ssh -p 2222 vista@oitdvrappclin03.r01.med.va.gov
+
+email shane.elliott@va.gov for Access and Verify Code. 
+
 
