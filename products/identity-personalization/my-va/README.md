@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated October 25, 2021
+Last updated January 5, 2022
 
 ### Communications
 
@@ -15,7 +15,6 @@ Last updated October 25, 2021
 |Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
