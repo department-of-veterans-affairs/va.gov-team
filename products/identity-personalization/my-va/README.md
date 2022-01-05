@@ -29,7 +29,7 @@ Last updated October 25, 2021
 - [Measuring Success](#measuring-success)
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
-- [My VA data](#my-va-data)
+- [My VA features](#my-va-features)
 - [Screenshots](#screenshots)
 
 ## Overview
@@ -204,34 +204,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 [Staging user info and test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva.md)
 
-## My VA data
+## My VA features
 
-The My VA 2.0 redesign reflects existing integrations on VA.gov. This is the list of what is included as part of the My VA 2.0 redesign and what systems we rely on to get that information:
-
-**Disability rating**
-
-- **We show**: Overall disability rating
-- **Parent tool**: [View your VA disability ratings](https://www.va.gov/disability/view-disability-rating/)
-
-**Claim status**
-
-- **We show**: Most recently updated claim; Overall number of open claims
-- **Parent tool**: [Claim status tool](https://www.va.gov/claim-or-appeal-status/)
-
-**Secure messages (health care)**
-
-- **We show**: Total unread messages
-- **Parent tool**: [MHV secure messaging tool](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight)
-
-**Appointments (health care)**
-
-- **We show**: Next appointment; Total upcoming appointments
-- **Parent tool**: [VA Online Scheduling (VAOS)](https://www.va.gov/health-care/schedule-view-va-appointments/)
-
-**Applications in progress**
-
-- **We show**: Benefit applications people have started on VA.gov but have not completed
-- **Parent tool**: All benefit applications on VA.gov
+[My VA feature documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/my-va-UX-feature-documentation.md)
  
 ## Screenshots
 
