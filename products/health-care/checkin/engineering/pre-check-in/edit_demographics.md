@@ -280,6 +280,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - How long will it take for this additional ability to be delivered by the VA.gov Profile team?
 - How will this addition affect other teams on va.gov?
 - If the VA.gov Profile team decides not to support showing or updating next-of-kin and emergency contact information, do we(Check-In) provide partial functionality for updating only the veterans contact information through them?
+- Will the user demographics changes be reflected instantaneously across the relevant VA systems?
 
 ### Use the existing VA Profile service(different from VA.gov Profile) exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
@@ -307,6 +308,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - Who will be responsible for spear heading this initiative?
 - How long will it take the VA Profile team to provide this additional functionality if they agree to implement our request?
 - How will this affect other teams on va.gov?
+- Will the user demographics changes be reflected instantaneously across the relevant VA systems?
 
 ### Build additional systems and services in-order to handle updated demographics information
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
@@ -341,6 +343,10 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ## Staff Facing Dependencies
 
 ## Engineering Questions
+- Where does user demographics information(contact, next-of-kin, emergency-contact) for a veteran live?
+- Where can we find contact information for the VA Profile team?
+- Can we update a user's demographics information if we create our own service(lambda or other)?
+- If we don't have permission to update a user's sensitive information, can we contest that decison in anyway?
 
 ## Engineering Proposals
 
