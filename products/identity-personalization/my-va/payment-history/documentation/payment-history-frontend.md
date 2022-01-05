@@ -38,7 +38,7 @@ You have [count] outstanding debts. [Manage your VA debt] *link to debt page*
 
 **When we do not have a count of debts**
 
-You have outstanding debt. [Manage your VA debt](/manage-va-debt)
+You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
 
 ### Deposit-made card
 
@@ -64,7 +64,7 @@ SCREENSHOT
 
 Type: [type]
 
-[View your payment history](/va-payment-history/)
+[View your payment history](/va-payment-history/payments)
 
 
 
