@@ -36,15 +36,18 @@
 </details>
 
 
-## January 5
+## January 12
 
 Some updates about CMS team
 
 Q1 planning timelines
 
+
+## January 5
+
 Recurring events 
 * CMS: wrapping up editorial experience, KB and training materials in January. 
-
+* Lots of discussion about registration and URL patterns and add to calendar.
 
 ## December 22, 2021
 
