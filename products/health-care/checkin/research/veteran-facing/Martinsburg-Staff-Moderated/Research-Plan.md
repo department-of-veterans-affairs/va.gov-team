@@ -1,4 +1,20 @@
-## Method: MVP site staff help us gather feedback from Veterans
+# Research Plan MVP site staff help us gather feedback from Veterans
+## Background
+This product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The healthcare experience team in particular is creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. 
+
+With this round of research, we are looking to validate the updated release of our MVP  with real users checking in and staff. Updated functionality includes additional identity verification steps, read-only contact information, checking in for multiple appointments, and the use of the revised poster throughout this process. 
+
+### OCTO Objectives
+This research supports the following objectives:
+- Veterans can manage their health services online
+- Logged-in users have a personalized experience, with relevant and time-saving features
+- Increase the completion rate of online transactions
+- Increase usage of digital, self-service tools 
+- Decrease time to successfully complete and submit online transactions
+
+### Veteran Journey
+The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+
 ### Methodology
 Staff at the MVP site(s) will ask Veterans a series of questions ideally towards the end of their appointment (maybe at checkout), so the Veteran can provide feedback on their mobile check-in experience. However, it is up to the MVP site to determine when in their workflow these questions can fit. If this needs to occur prior to an appointment or at some other point that is absolutely fine. _The site should just let the check-in team know what was decided._
 
