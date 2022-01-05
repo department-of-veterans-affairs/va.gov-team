@@ -66,14 +66,14 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 ### Objective: Allow people to more accurately define themselves within the VA.
 
-**KPI**: See 10,000 updates to each new personal information field in the first month after launch.
+**KPI**: See 10,000 updates to each new personal information field in the first 3 months after launch.
 
-|Field name| Number of updates in first month after launch (dates TBD)|
-|----------|------------|
-|Preferred name| |
-|Pronouns| |
-|Gender identity| |
-|Sexual orientation| |
+|Field name|Updates in first month after launch (dates TBD)| Second month after launch (dates TBD)| Third month after launch (dates TBD)|
+|----------|------------|------------|------------|
+|Preferred name| | | |
+|Pronouns| | | |
+|Gender identity| | | |
+|Sexual orientation| | | |
 
 **KPI**: We don't see a significant reduction in mailing/home address, mobile phone, or email address updates since those have been moved off of the landing page of the profile.
 
