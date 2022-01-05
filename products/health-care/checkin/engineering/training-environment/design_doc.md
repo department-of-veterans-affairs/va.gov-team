@@ -18,7 +18,15 @@
 
 ## User Outcomes
 
+### Positive
+
+### Negative
+
 ## Business Outcomes
+
+### Positive
+
+### Negative
 
 ## Measuring Success
 
