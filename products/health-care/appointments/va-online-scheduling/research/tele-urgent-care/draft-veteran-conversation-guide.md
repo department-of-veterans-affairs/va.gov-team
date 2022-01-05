@@ -33,38 +33,33 @@ Great! Any questions before we get started?
 I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? _Start audio and screen recording._
 
 
-### **Section 1: Access to Care Questions**
+### **Section 1: Intro and Access to Care Questions**
 
 * What branch of the military do you or did you serve in?
 * When did you retire or separate?
 * Do you access Veteran health care?
 
-### **Section 1: Finding Tele-Urgent Care**
-* Hypothetically, if you had _________ you were concerned about, how might you go about finding care for your concern at the VA?
-    * If yes, Tele-health, how did it go? What went well? What didn’t?
-    * If no, would you consider using it?
-* In what ways would having virtual care through the VA help or not help you personally? 
-* If you were in need of non-emergency care, and you knew VA could offer you a  \
-	virtual visit with a doctor, where would you go to find it?
-* Would you understand where to find care? 
-* Where would you go to find it?
+### **Section 2: Tele-Health Experience**
+* Have you had a tele-health care experience before? 
+	* If yes, can you tell me about your experience?
+		* Can you tell me more about how long it took?
+		* What went well?
+		* Did you encounter any obstacles? If yes, what did you do to recover?
+	* If no, how would you go about finding it?
 
-### **Section 2: Tele-Urgent Triage**
-* Have you called your VA health care team with a health concern and received advice from a nurse?
-* Can you tell me about your experience?
-    * Can you tell me more about how long it took?
-    * What went well? 
-    * Did you encounter any obstacles? If yes, what did you do to recover?
+### **Section 3: Finding Tele-Urgent at the VA**
+* Hypothetically, if you had a non-emergency health concern, how might you go about finding care for your concern at the VA?
+* In what ways would having virtual care through the VA help or not help you personally?
+* If you were in need of non-emergency care, and you knew VA could offer you a virtual visit with a doctor, would you understand where to find care?
+	* Where would you go to find it?
 
-
-### **Section 3: Tele-Urgent Video Connect**
+### **Section 4: Tele-Urgent Video Connect**
 * Do you have any concerns related to conducting a virtual health care visit with your health care team?
 * Have you tried connecting with the VA health care team via video?
 * Using a scale from 1-5 where 1 is very difficult and 5 is very easy, how hard was  \
 it for you?
     * (If they mention any assistive technology, follow up:) Can you tell me more about how you use that device you mentioned?
 * If you had to submit a photo of a health condition, how would you do so? Use a scale from 1-5 where 1 is very difficult and 5 is very easy.
-
 
 ### **Section 3: Tele-Urgent Care Resolution**
 * If you had a care visit, how did it go? 
