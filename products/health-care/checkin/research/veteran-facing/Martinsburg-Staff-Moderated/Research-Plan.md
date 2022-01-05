@@ -2,7 +2,7 @@
 ## Background
 This product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The healthcare experience team in particular is creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. 
 
-With this round of research, we are looking to validate the updated release of our MVP  with real users checking in and staff. Updated functionality includes additional identity verification steps, read-only contact information, checking in for multiple appointments, and the use of the revised poster throughout this process. 
+With this round of research, we are looking to validate the current release of our MVP with real users checking in and staff. Functionality includes additional identity verification steps, read-only contact information, checking in for multiple appointments, and the use of the revised poster throughout this process. 
 
 ### OCTO Objectives
 This research supports the following objectives:
@@ -15,6 +15,52 @@ This research supports the following objectives:
 ### Veteran Journey
 The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 
+## Research goals
+- Conduct user acceptance testing to evaluate if multiple steps in the check-in process are functioning as planned at the pilot location.
+- Understand if the new poster is easier to use, addresses pain points from the original poster, and identify improvements (if any).
+
+### Research questions
+- This research study should cover:
+- Are Veterans able to utilize the new mobile check-in solution without intervention from MSAs? 
+	- Are the additional verification steps clear to the Veteran?
+	- How is the read-only contact information review feature being used?
+	- How is the multiple check-in feature being used? 
+	  -  What are veteran’s expectations when they see the triage appointments?
+	- Are returning mobile patients experiencing check in issues?
+	- Are veterans able to complete the check in with guidance from the the new poster? 
+- After a Veteran utilizes the new mobile check-in solution, are they called back for their appointment without having to talk to a clerk/Medical Support Assistant (MSA)?
+- How do Veterans and staff feel about the mobile check-in solution?
+- Do Veterans need reassurance that the check in process has worked?
+- For those veterans who have completed pre-check in, are they needing to review the pages again on the day of the appointment? 
+
+### Hypothesis
+- The Veterans will successfully check-in via their mobile phone, and verify their identities without additional points of friction.
+- The updated poster successfully communicates the need to wait for a link to continue the check-in process and offers guidance on how to send a text to initiate check-in. 
+- The Veterans will be able to view and understand the display of multiple appointments for the day.
+- There should be minimal to no impact to clinical staff's workflow on how they know a Veteran has arrived for their appointment.
+- Veteran and staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
+- Veterans who confirm that their contact information is correct will minimize the number of questions that MSA need to ask a Veteran. 
+
+### Location
+Expect to include the following Martingsburg Clinics:
+  - MWV MED HEM BM 4B112
+  - MWV MED HEM/ONC MD 1 4B112
+  - MWV MED HEM PA 1 4B112
+  - MWV MED CHEMO PROCE RN 4B112
+  - MWV MED HEM NURSING 4B112
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Methodology
 Staff at the MVP site(s) will ask Veterans a series of questions ideally towards the end of their appointment (maybe at checkout), so the Veteran can provide feedback on their mobile check-in experience. However, it is up to the MVP site to determine when in their workflow these questions can fit. If this needs to occur prior to an appointment or at some other point that is absolutely fine. _The site should just let the check-in team know what was decided._
 
@@ -23,13 +69,6 @@ Staff should try to get feedback from:
 - 1 Veteran who completed check-in on their mobile phone per day
 - 1 Veteran who did not check-in on their mobile phone per day
 - _Staff should not worry about getting feedback from every patient during this evaluation._
-
-Expect to include the following Martingsburg Clinics:
-  - MWV MED HEM BM 4B112
-  - MWV MED HEM/ONC MD 1 4B112
-  - MWV MED HEM PA 1 4B112
-  - MWV MED CHEMO PROCE RN 4B112
-  - MWV MED HEM NURSING 4B112
 
 ### When? What dates do you plan to do research?
 To be determined between MVP site and check-in team. Ideally beginning less than two weeks after launch.
