@@ -61,7 +61,7 @@ Start recording.
 
 
 
-## Prior to showing concept (5-7 minutes)
+## Prior to showing concept (7 minutes)
 
 * Please use these questions as a guide, not necessarily a script. The goal is to find out what's important to the user and if it's reflected in the design. If you see an opportunity for an important follow up question, take it. 
 
@@ -82,7 +82,7 @@ Start recording.
 
 
 
-## Homepage(20)
+## Homepage(40 minutes)
 
 * Show the participant the authenticated landing page concept, and ask them to do two of the tasks they mentioned above. If the participant did not mention any tasks, then use the task list below. 
 
@@ -96,15 +96,14 @@ Start recording.
 * You noticed you only have a few days left of a medication. How would you go about ordering more?
 
 ### Messages:
-* Your doctor wanted you
+* Your doctor asked you last week to let them know how you were feeling on your new medication. How would you do that?
 
 ### Medical Records:
 * You had some blood tests done at the VA this week, and you want to see those results. How would you find them?
 
 ### Health Care Benefits:
 * If you drive to your primary care appointment at the VA, how would you go about getting reimbursed for gas?
-
-### Miscellanious
+* You need to see a podiatrist, but live 110 miles away from the closest VA podiatrist. You want to find out whether you're eligible to see a non-VA podiatrist.
 * You need to go to the dentist. How would you find out what coverage you qualify for?
 
 
@@ -117,12 +116,9 @@ Start recording.
 
 
 
+
+
 ## End questions
-
-
-
-
-* If you had a magic wand, what would you add to this page or change about it?
 
 
 
