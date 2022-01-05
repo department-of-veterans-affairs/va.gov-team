@@ -78,24 +78,17 @@ The addition of a payment information section should help fulfill our north star
 
 ---
 ## Measuring Success
-- NOT YET FINALIZED
 
-### Looking ahead to Q1 2022 - These OKR/KPIs are potential suggestions only
+### Objective: Meet user need/expectation and elevate payment and debt informtion to user dashboard.
 
-- **Objective: Add a Payments Information section, so that the veteran has access to view and take action on payments and/or debts**
-
-- **Key result #1**: Interaction: Increase overall clicks into payment history, debt information, and direct deposit CTAs.
+**Key result**: Interaction: Increase overall clicks into payment history, debt information, and direct deposit CTAs.
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
 |Clicks to view all payments ("View your payment history"))| 2.3mil|TBD|TBD|
 |Clicks to view all debts ("You have n oustanding debt payments. Manage your VA debt")| 179k|TBD|TBD|
-|Clicks to view direct deposit settings ("Manage your direct deposit")| 464k|TBD|TBD|
 
-
-
-- **Key result #2**: Findability: Reduce search incidents for payment, debt, or direct deposit.  These terms should not be in the top 20 search terms for searches generate from My VA. 
-- *SUGGESTION: Consider a metric that is optimized by this change, rather than not.  Look for something that has no ceiling, rather than this that has a definite floor (zero).*
+**Key result #2**: Findability: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
 [My VA Search Report: Aug – November 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
 
@@ -109,21 +102,9 @@ This may also have an impact on [overall searches on VA.gov for logged in users]
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Search rank for "payment” or "payment history" from My VA| #6|TBD|TBD|
-|Search rank for "debt” or "debt management" from My VA| #23|TBD|TBD|
-|Search rank for "direct deposit” from My VA| #7, #17|TBD|TBD|
-
-~- **Key result #3**: Usage: Increase % of logged-in users visiting My VA from 8% in Q4 to n% post-launch by end of Q1.~
-
-~[My VA Usage Report for Logged-in Users: Aug – Nov 2021](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20210801&_u.date01=20211130&_.useg=builtin1,uservhdeJJNEQr6TNXxgFLMPGQ/)~
-
-**I think we can take this out, as I don't anticipate adding payment info itself will have any traceable impact back to page views.**
-
-|KPI/metric|Baseline: Aug - Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
-|----------|-------------|---------------|-------------------|
-|% of logged-in users who visit My VA| 7%|TBD%|TBD|
-|% of logged-in users interact with the Benefit payments and debts section| 0% (new)|TBD%|TBD|
-
+|Search rank for "payment” or "payment history"| #6|TBD|TBD|
+|Search rank for "debt” or "debt management"| #23|TBD|TBD|
+|Search rank for "direct deposit”| #7, #17|TBD|TBD|
 
 ---
 
