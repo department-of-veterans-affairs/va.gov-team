@@ -85,8 +85,8 @@ The addition of a payment information section should help fulfill our north star
 
 |KPI/metric|Baseline: Aug-Nov 2021|Post-launch: Qx 2022| Post-launch: Qx 2022|
 |----------|-------------|---------------|-------------------|
-|Clicks to view all payments ("View your payment history"))| 2.3mil|TBD|TBD|
-|Clicks to view all debts ("You have n oustanding debt payments. Manage your VA debt")| 179k|TBD|TBD|
+|Clicks to view all payments ("View your payment history"))| 2.5mil|TBD|TBD|
+|Clicks to view all debts ("You have n oustanding debt payments. Manage your VA debt")| 158k|TBD|TBD|
 
 **Key result**: Reduce search incidents for payment, debt, or direct deposit from the My VA dashboard. These terms should not be in the top 20 search terms for searches generate from My VA. 
 
