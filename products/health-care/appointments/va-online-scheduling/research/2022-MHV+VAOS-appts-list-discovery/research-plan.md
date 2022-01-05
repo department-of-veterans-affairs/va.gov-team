@@ -8,12 +8,9 @@ VA Online Scheduling allows Veterans to request and schedule health care appoint
 
 ### OCTO Objectives 
 
-[TODO: Validate with LE]
-
-This work supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
+This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 * Veterans and their families can find a single, authoritative source of information
 * Logged-in users have a personalized experience, with relevant and time-saving features
-* Veterans and their families trust the security accuracy and relevancy of VA.gov
 
 Increase 📈
 * Veteran satisfaction with VA.gov: by providing an appointments list that meets Veteran expectations and needs.
