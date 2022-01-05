@@ -70,8 +70,8 @@ Documentation about the CMS lives in various places
 ## How to Reach Us
 
 ### Platform CMS Team
-- Jess Alexander, Product Manager - Slack `@Adrian Rollett`
-- Elizabeth Neal, Delivery Manager - Slack `@Jeff Brauer`
+- Jess Alexander, Product Manager - Slack `@Jess Alexander`
+- Elizabeth Neal, Delivery Manager - Slack `@Elizabeth Neal`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
 - Neil Hastings, Tech Lead - Slack `@Neil Hastings`
 
