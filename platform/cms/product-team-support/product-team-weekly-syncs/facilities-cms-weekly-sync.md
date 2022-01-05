@@ -27,6 +27,8 @@
 
 ## January 5
 
+Facilities Q1 planning
+
 VAMC
 - VA health connect phone numbers
 
