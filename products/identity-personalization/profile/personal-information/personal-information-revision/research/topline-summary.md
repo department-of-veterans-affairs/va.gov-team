@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
-Date: 1/5/2022
+Date: 1/10/2022
 
 Liz Lantz liz.lantz@adhocteam.us, Christina Gednalske christina.gednalske@adhocteam.us
 
