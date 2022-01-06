@@ -21,10 +21,9 @@ These services range from Homeless Assistance to Education Benefits (see the ful
 
 ## Goals
 
-
-● Determine how the current categories are used by Veterans searching for services
-● Evaluate the usage of the service categories in the Filters list and Location Details pages
-● note any services that could benefit from updated plain language titles
+*  Determine how the current categories are used by Veterans searching for services
+*  Evaluate the usage of the service categories in the Filters list and Location Details pages
+*  Note any services that could benefit from updated plain language titles
 
 ## Research Questions
 
@@ -37,11 +36,11 @@ These services range from Homeless Assistance to Education Benefits (see the ful
 
 ## Hypotheses
 
-● Veterans will be able to find a VBA location that can help them with their desired
+*  Veterans will be able to find a VBA location that can help them with their desired
 services.
-● Veterans will have trouble or lose confidence with the process
-● Veterans will ask for clarification on the details of some labels
-● Veterans will use satisficing (suitable alternative routes) to achieve their desired tasks.
+*  Veterans will have trouble or lose confidence with the process
+*  Veterans will ask for clarification on the details of some labels
+*  Veterans will use satisficing (suitable alternative routes) to achieve their desired tasks.
 
 ## Research materials
 
@@ -62,7 +61,7 @@ Using Perigean recruiting, we would like to schedule 18 participants to reach ou
 observing 10 participants. Participant criteria are as follows:
 
 
-● PRIMARY CRITERIA (must have)
+*  PRIMARY CRITERIA (must have)
 ○ Laptop or desktop computer only
 ■ For this study, mobile devices may introduce technical difficulties, or make
 it more difficult for participants to complete the task
@@ -77,7 +76,7 @@ familiar with screen sharing
 ○ At least 1 participant with cognitive disabilities
 ○ At least 5 participants with no college degree or professional certificates
 ○ At least 3 participants of color
-● SECONDARY CRITERIA (should have)
+*  SECONDARY CRITERIA (should have)
 ○ Mix of Veterans and Caregivers
 ○ All genders
 ○ A mix of rural and urban participants
@@ -99,14 +98,14 @@ Date Time
 ## Team
 
 
-● Moderator: Dave Sukharan (dave.sukharan@adhocteam.us)
-● Research guide writing and task development: Dave Sukharan
+*  Moderator: Dave Sukharan (dave.sukharan@adhocteam.us)
+*  Research guide writing and task development: Dave Sukharan
 (dave.sukharan@adhocteam.us)
-● Participant recruiting & screening: Perigean
-● Project point of contact: Dave Sukharan (dave.sukharan@adhocteam.us)
-● Participant(s) for pilot test: [TBD]
-● Note-takers: Perigean
-● Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon
+*  Participant recruiting & screening: Perigean
+*  Project point of contact: Dave Sukharan (dave.sukharan@adhocteam.us)
+*  Participant(s) for pilot test: [TBD]
+*  Note-takers: Perigean
+*  Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon
 (david.conlon@va.gov), Nick Osmanski (nick.osmanski@amida.com)
 
 ## Appendix
@@ -117,6 +116,6 @@ Date Time
 ## Future research
 
 
-● If participants struggle with any parts of the visual interfaces, we may want to dig into
+*  If participants struggle with any parts of the visual interfaces, we may want to dig into
 analytics to find similar patterns or follow-up with further usability studies.
 
