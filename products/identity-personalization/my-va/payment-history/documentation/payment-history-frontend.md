@@ -46,11 +46,11 @@ SCREENSHOT
 
 **Show**
 
-- If a user has a payment made in the last 30 days. We will show all of the most recent payments in the month.
+- If a user has a payment made in the last 30 days. We will show the most recent payment in the month.
 
 **Do NOT Show**
 
-- If a user has no payments in the last 30 days. If a user does not have payments in the last 30 days, we will show messaging stating so in place of the grey card.
+- If a user has no payments in the last 30 days. If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
 
 SCREENSHOT
 
