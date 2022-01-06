@@ -2,7 +2,7 @@
 ## Background
 This product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The healthcare experience team in particular is creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. 
 
-With this round of research, we are looking to validate the current release of our MVP with real users checking in and staff. Functionality includes additional identity verification steps, read-only contact information, checking in for multiple appointments, and the use of the revised poster throughout this process. 
+With this round of research, we are looking to validate the current release of our MVP with real users checking in. Functionality includes additional identity verification steps, read-only contact information, checking in for multiple appointments, and the use of the revised poster throughout this process. 
 
 ### OCTO Objectives
 This research supports the following objectives:
@@ -13,7 +13,7 @@ This research supports the following objectives:
 - Decrease time to successfully complete and submit online transactions
 
 ### Veteran Journey
-The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+The veteran check-in for a medical appointment fits within the "Taking Care of Myself" of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).
 
 ## Research goals
 - Conduct user acceptance testing to evaluate if multiple steps in the check-in process are functioning as planned at the pilot location.
