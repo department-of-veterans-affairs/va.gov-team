@@ -5,6 +5,10 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 01/04/22: "I am very pleased with this app. The information is thorough and to the point. Everything pertaining to my service record information is there for me to review at a click. Everything is explained well and the format is very user friendly. I am enjoying going over and over every little detail listed. Very proud to be a Veteran and to have a country that takes pride in our wellbeing. Thanks." (Apple store review)
+
+- 01/04/22: "Outstanding app for VA. Pleasantly surprised that this app is so functional. It has all you need. All the essential letters are available for printing. It is ebenefits in an app form. Outstanding job." (Apple store review)
+
 - 12/30/21: "Super tool for Veterans! In an age where everyone has there phone with them, the new VA app really helps veterans that may not have instant access to a desktop computer." (Apple store review)
 
 - 12/30/21: "This app is better than the online version. Thank y'all for this. Hooyah!!!" (Apple store review)
