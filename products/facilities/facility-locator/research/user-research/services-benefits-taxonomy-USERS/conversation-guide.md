@@ -89,9 +89,9 @@ Research Questions to Address
 2. What common knowledge or other strategies do Veterans utilize when searching for
     services?
 
-```
+
 Scenario Description
-```
+
 ```
 You are a veteran living in Washington D.C., you have a complicated question regarding your
 [college, house buying, diabetes care, career] needs. You've already done some research
@@ -100,10 +100,11 @@ online, but still feel that you need help.
 1. What are the next steps for you to find help? What first occurred to you?
 2. Have you taken similar steps in the past?
 
+
+_Give the user 3-5 minutes to walkthrough their thoughts
+Redirect User if Necessary_
+
 ```
-Give the user 3-5 minutes to walkthrough their thoughts
-Redirect User if Necessary
----
 Those are great solutions. For the purposes of this
 exercise, we are going to try and use the Facility Locator Tool to find a VBA location that
 would help with this service.
@@ -113,14 +114,12 @@ At this point, could you share your screen using Zoom? Please select the green i
 the bottom of this video call screen. Before you share, please make sure there is no
 sensitive information on your screen.
 ```
-- Give the participant 5 minutes to complete their screenshare.
-- If the participant cannot screenshare, share your screen instead and navigate to
-    the Facility Locator portal. Allow the participant to “pilot” by giving you
-    instructions on what they would do.
+_Give the participant 5 minutes to complete their screenshare.
+If the participant cannot screenshare, share your screen instead and navigate to the Facility Locator portal. Allow the participant to “pilot” by giving you instructions on what they would do._
 
 ```
 The "Correct" Path:
-```
+
 1. Enter Zip Code or City (20001, Washington D.C., prompt the user if necessary)
 2. Choose Facility Type: VA Benefits
 3. Choose Service Type: Education and Career counseling, or VA Home Loan Help,
@@ -131,31 +130,38 @@ The "Correct" Path:
 7. I saw you hesitate on XXXX, what does this service mean to you?
 8. Are there any categories that you wanted more clarity on?
 9. Were there any other categories that you were tempted to choose?
-
+```
 
 ## Scenario 2 - Location Specific Page Evaluation
 
+```
+Research Questions to Address
+```
+1. Do existing category names cause confusion, or do they need to be described with more
+    clear language?
+2. What common knowledge or other strategies do Veterans utilize when searching for
+    services?
 ```
 Scenario Description: You are a veteran living in Washington D.C., you have a
 complicated question regarding your [college, house buying, diabetes care, career]
 needs. You've found a VBA location that seems like it can help with these questions and
 are now viewing their web page.
 ```
-```
+
 Ask participant to share their screen again, if necessary. Navigate them to the [Baltimore
 VA Regional Benefits Office](https://www.va.gov/find-locations/facility/vba_313) page
-```
+
 ```
 Can this location help with your request?
 ```
-```
+
 ● On this page, are there any services that you find confusing or that require
 clarification?
 ● You mentioned the XYZ service name, what does that label mean to you?
 ● How confident would you be in the information provided on this page?
 ● What other steps would you take to answer your questions after viewing this
 page?
-```
+
 
 ## Scenario 3 - Category Name Evaluation
 
@@ -165,17 +171,15 @@ If time permits, take participants through a simple card sorting exercise.
 ```
 Research Questions to Address
 ```
-```
+
 ● Do existing category names cause confusion, or do they need to be described
 with more clear language?
 ● How can the benefits services be best presented to Veterans?
-```
-```
-Ask participants to end their screenshare, if necessary.
-```
-```
-Navigate to the [Card Sort Page](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1641416955140/49022b3f69f3e814bf3e33cf24cdc2f02273db60). Share your own screen.
-```
+
+
+1. Ask participants to end their screenshare, if necessary.
+2. Navigate to the [Card Sort Page](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1641416955140/49022b3f69f3e814bf3e33cf24cdc2f02273db60). Share your own screen.
+
 ```
 Can you see my screen alright? I’ll be walking us through a short activity to make sure
 we’ve captured all of your thoughts on the names of these services.
