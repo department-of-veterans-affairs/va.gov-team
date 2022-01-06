@@ -94,6 +94,6 @@ Backup Collection Method
     - Did you need to make any changes to your contact information? If yes, tell me about the process.
     - Do you have multiple appointments today? If yes, how were these displayed on your mobile device?
    - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
-    - Why? What are your impressions of the experience?
-    - What did you like and dislike about the experience?
-    - Do you have any other feedback on checking in via your mobile phone?
+    	- Why? What are your impressions of the experience?
+    	- What did you like and dislike about the experience?
+    	- Do you have any other feedback on checking in via your mobile phone?
