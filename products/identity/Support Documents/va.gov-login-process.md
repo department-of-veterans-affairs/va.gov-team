@@ -16,9 +16,9 @@ To register with Va.gov online, you only need an email address. Additional secur
 #### Why do I need to verify my identity for Va.gov?
 You need to verify your identity in order to protect your personal and health-related information. 
 
-With your Va.gov account you can use your mobile phone, tablet, laptop, or desktop to:  
-- Check the status of a disability or pension claim 
-- Refill VA prescriptions 
+With your Va.gov account you can use your mobile phone, tablet, laptop, or desktop to: 
+- Check the status of a disability or pension claim
+- Refill VA prescriptions
 - Send a secure message to members of your health care team
 
 Because this type of information is personal and private, we work with our partners to ensure Veterans are able to achieve the highest level of security assurance that meets current industry standards for protecting data. This keeps your private information private by confirming that you are you — and not someone pretending to be you. 
