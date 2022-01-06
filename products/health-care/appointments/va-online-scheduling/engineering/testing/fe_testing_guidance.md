@@ -88,3 +88,31 @@ Generally, we want to test components in the context a user is using them, which
 - We can remove certain unit tests as we get better integration test coverage for different functionality
    - Unit tests for components that are mostly organizational and used in one context are good candidates here. 
    - Components that were created because we need to use them in multiple contexts may still be candidates for unit tests
+
+## Gherkin style for unit test
+- Work toward following Gherkin best practices for structuring and describing tests
+- Limit ourselves to 1 or two levels of nesting above tests: a top "Feature" level and an optional "Background" level underneath it
+- Shorten our describe and test names to use clear language that is understandable by anyone involved in VAOS
+   - These names are summaries, to distinguish from other names in the same file, not full specs of the tests
+- Write tests that have a single clear behavior that is being tested
+   - It's fine to have multiple assertions, or multiple setup (Given) steps, but there should be a single clear action that is being tested (page is displayed, user goes to next page, form data is entered, etc)
+- Group our test bodies into Given/When/Then sections. See below for options on how to do this.
+
+
+   
+      describe('VAOS <ContactInfoPage>', () => {  
+         it('contact info is prepopulated', () => {
+
+         // Given phone and email is in VA Profile
+         const store = createStoreWithVAProfile();
+
+         // When the page is displayed
+         screen = renderPage(store);
+
+         // Then email is populated
+         expect(screen).to.equal('email');
+
+         // And phone is populated
+         expect(screen).to.equal('phone');
+         });
+      });
