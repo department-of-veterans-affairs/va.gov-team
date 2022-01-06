@@ -47,9 +47,7 @@ Upcoming pilot expansion clinics in St. Louis area. Specific clinics TBD.
 
 ### Recruitment approach
 Staff will observe/intercept Veterans during their visit.
-Staff should try to get feedback from:  
-- 1 Veteran who completed check-in on their mobile phone per day
-- 1 Veteran who did not check-in on their mobile phone per day
+Staff should try to get feedback from 15 Veterans who have attempted the check-in proces on their mobile phones. 
 - _Staff should not worry about getting feedback from every patient during this evaluation._
 
 ## Timeline
