@@ -228,24 +228,73 @@ Midpoint review; Research planning
 ## Sprint 65 (1/12 - 1/25)
 [Sprint 65 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30270)
 
-If not done last sprint:
 
-- https://github.com/department-of-veterans-affairs/va.gov-team/issues/34708
-- https://github.com/department-of-veterans-affairs/va.gov-team/issues/34704
 
-If time for Liz:
 
-- Update payment history frontend documentation #33993
+- Update documentation if time
+- Updates from user research (may go into the following sprint depending on updates)
+- Determine what, if anything, still needs to happen with FE build, and complete build
+
+
+### Payment history
+
+**PM**
+
+- Request QA for sprint 67 (starts 2/9). We should be ready for QA by then unless there are serious issues with user testing or getting error states implemented.
+
+**Design**
+
+- Conduct user research
+- Summarize user research
+- If time, update payment history frontend documentation #33993
+- Stretch goal: Error state design
+
+**FE**
+
+- Implement blank state updates (I think that is still outstanding per convo with Taylor in Slack)
+- Determine necessary error states
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/34704
+
+**BE**
+
+- Determine necessary error states
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/34704
+
+### On-site notifications
+
+**PM**
+
+- Make sure we have clear definition on what is needed from VANotify and their timelines
+
+**FE/BE**
+
+- Determine necessary error states
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/34708
+
+**BE**
+
+- Start build
+  - Also, I would love an estimate on how long build will take. Is it one sprint? Two? More? This likely depends on VANotify's timelines.
+- Determine necessary error states
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/34708
 
 ## Sprint 66 (1/26 - 2/8)
 [Sprint 66 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30271)
 
+Payment history
 
+- Design for error states
+- FE -- implement error states
+
+On-site notifications
+
+- FE: Connect BE to FE if BE build is done. 
 
 ## Sprint 67 (2/9 - 2/22)
 [Sprint 67 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30272)
 
-
+Payment history
+- QA
 
 ## Sprint 68 (2/23 - 3/8)
 [Sprint 68 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30273)
