@@ -26,6 +26,8 @@
 ## January 12
 
 - [Alexandria LA vs Alexandria VA Vet Center](https://prod.cms.va.gov/admin/content?title=alexandria&type=vet_center&moderation_state=All&owner=All) - [Slack thread](https://dsva.slack.com/archives/C02730UEZPS/p1640890979257700)
+- Update to default "Nearby Vet Center" default radius 
+- Service descriptions for grief/bereavements (change management/reporting)
 
 
 ## January 5
