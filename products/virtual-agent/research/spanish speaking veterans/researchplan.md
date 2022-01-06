@@ -1,71 +1,71 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
-
-test test
+# Research Plan for [Orchid, Virtual Agent, January 2021]
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+We are releasing an unauthenticated chatbot in Feb 2022 that will act as a new way to access information to the veterans, and an authenticated version in April 2022, that will provide personalization and features to access private information, such as claims and appeals status. 
+
+Our goal is to understand the needs of Spanish speaking veterans and beneficiaries regarding trying to access information in the VA, how the needs for a chatbot differ for this group, and if there are any specific needs for this group.
+
 
 [Link to product brief](url goes here).
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Decrease the time Veterans spend waiting for an outcome.
+Increase the quality and reliability of VA services.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
+This product's goal is to support the veteran to find and access information to be able to not only navigate one stage but also the transition between them, and to help the veteran move among the journey.
 
 ## Research Goals	
 What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+How do needs from Spanish speaking veterans differ from the English speaking veterans regarding self service through the chatbot.
+How to Spanish speaking veterans would interact with a chatbot.
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+With the learning we will be able to asess what this group needs and we would be able to evaluate what can we offer from our solution.
+
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+Main question: How do the needs for a chatbot differ for the Spanish speaking veterans?
+
+#Profile:
+
+Who needs content in Spanish (veterans, beneficiaries, dependents, caregivers)?
+Do they use Spanish as a preferred language?
+
+#Needs:
+
+What information are they looking for?
+What tasks are they trying to complete?
+In which situations do they look for content in Spanish or a different language than English
+Is there a language barrier? Are there enough resources in Spanish at the VA?
+What do they do when they cannot find the information they need in Spanish? 
+
+#Chatbot / Technology:
+
+How would they interact with the chatbot? Translation?
+How would they expect to interact via mobile? (SMS, App based)?
+How do they currently interact through the VA?
+Would they use the chatbot in Spanish?
+
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+Spanish speaking veterans, especially family members and caregivers would prefer a chatbot as a way of interacting with the VA, rather than via telephone.
+
+Spanish speaking veterans will have similar information needs than the English speaking onex: ex: Facilities, Claims and Appeals. Nevertheless, there can be expected challenges to access this information, as well as independent topics related to language related topics.
+
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+Direct interview with moderated usability testing.
+This method would be able to explote where the needs match and differ between English and Spanish speaking veterans, moderated would allow us to dive deeper into certain topics by asking follow-up questions to the interview or tasks we ask them to complete
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
-- If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote, using Perigean Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
@@ -73,82 +73,77 @@ If in person, include:
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](pending URL) 
 
 For moderated usability tests: 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+https://staging.va.gov/virtual-agent-study/
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
+6 Veterans caretakers or family members who are primarly Spanish spekaing and limited or non-English speaking.
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+3 veterans
+3 caretakers / family members
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+Do you speak Spanish as your preferred language? (Answer should be yes)
+Have you interacted or need information from the VA in the last 2 years? (Website, calling) (Answer should be yes)
+Do you consider your English limited or don't speak English? (Answer should be yes) #Added this one to exclude veterans that have fluent in English.
 
-> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
-TEST TEST
+Are you a family member or caretaker? (Would be interesting to get this perspective, as they are not required to a level of English language proficiency)
+Have you used chatbots before?
 
 ## Timeline
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+24 - 28 of January 2021
 
 ### Prepare
 When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
 
-Please indicate the date and name of a mock participant for a pilot session. 
+Please indicate the date and name of a mock participant for a pilot session. #Pending
 * Pilot participant email:
-* Date and time of pilot session: 
+* Date and time of pilot session: 17-19 January
 
 ### Research sessions
 What dates do you plan to do research? 
+24 - 28 of January 2021
 
 ### Length of sessions
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+1 hour plus 15 min buffer time
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+Monday - Friday 9:00 to 6:00 pm CEST, 15 min between sessions
+# To double check availability with Patrick and Eunice.
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Moderator:	Pilar Moreno
+- 		pilar.moreno@thoughtworks.com
+- 		+1 847 494 8243
+- Research guide writing and task development (usually but not always same as moderator): Pilar Moreno	
+- Participant recruiting & screening:	Perigean
+- Project point of contact: Pilar Moreno / Shane Strassberg
+- Participant(s) for pilot test: Pending
+- Note-takers:	Patrick Onesty TBC
+- Observers: 
+//Pending email of Danielle Thierry and Eunice Garcia
+Alina.murphy@thoughtworks.com
+ian.santarinala@thoughtworks.com
+Jacob.gacek@thoughtworks.com
+shane.strassberg@omb.eop.gov
+Aditya.Sharma@thoughtworks.com
+shane.strassberg@va.gov
+luciana.morais@va.gov
+Joe.hall@thoughtworks.com
+luciana.a.moraisusds@gmail.com
+Kha.Huynh@thoughtworks.com
+Tanya.Randstoft@thoughtworks.com
+Justin.trieu@thoughtworks.com
+
