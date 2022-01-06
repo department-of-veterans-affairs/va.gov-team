@@ -42,12 +42,8 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 - Veterans who confirm that their contact information is correct will minimize the number of questions that MSA need to ask a Veteran. 
 
 ### Location
-Expect to include the following Martingsburg Clinics:
-  - MWV MED HEM BM 4B112
-  - MWV MED HEM/ONC MD 1 4B112
-  - MWV MED HEM PA 1 4B112
-  - MWV MED CHEMO PROCE RN 4B112
-  - MWV MED HEM NURSING 4B112
+Upcoming pilot expansion clinics in St. Louis area. Specific clinics TBD. 
+  
 
 ### Recruitment approach
 Staff will observe/intercept Veterans during their visit.
@@ -94,6 +90,4 @@ Backup Collection Method
     - Did you need to make any changes to your contact information? If yes, tell me about the process.
     - Do you have multiple appointments today? If yes, how were these displayed on your mobile device?
    - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process to another Veteran?
-    	- Why? What are your impressions of the experience?
-    	- What did you like and dislike about the experience?
-    	- Do you have any other feedback on checking in via your mobile phone?
+    	- What did you like and dislike about the experience of checking in on your mobile phone?
