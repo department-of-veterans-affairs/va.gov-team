@@ -22,7 +22,7 @@ Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Static landing page | www.va.gov/find-manage-accredited-representative |  Home > [Static page H1] |  
 Find rep tool | www.va.gov/find-manage-accredited-representative/find-rep | Home > [Static page H1]  > [Tool H1] |
-View current rep tool |  www.va.gov/find-manage-accredited-representative/your-rep | Home > [Static page H1]  > [Tool H1]  | This page will require authentication
+View current rep tool |  www.va.gov/find-manage-accredited-representative/view-rep | Home > [Static page H1]  > [Tool H1]  | This page will require authentication
 
 
 <hr>
@@ -38,6 +38,9 @@ Remove | Disability left nav | --- | Remove the existing "Get help filing a clai
 Remove | Decision reviews hub page | --- | Remove the existing "Get help requesting a decision review" and teaser text
 Add | Decision reviews hub page | www.va.gov/find-manage-accredited-representative | Add link and teaser as second option under "More information and resources"
 Remove | Decision reviews left nav | --- | Remove the existing "Get help requesting a decision review"
+tbd | Health care | |
+tbd | Education | |
+
 
 
 
