@@ -4,8 +4,9 @@ Attendees: Heather, Lihan, Liz, Taylor, Tressa
 
 ## Notes
 - Payments
-     - Payments over 31 days old (last payment), do not show payment info block
-          - Show statement “You have had no payments in the last 30 days”
+     - Payments over 31 days old (last payment), do not show payment info card
+          - Show statement “You haven't received any payments in the past 30 days.”
+          - Confirmed by [Danielle Thierry in Ticket #33839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33839#issuecomment-1006718120)
 - Debt
      - Can still have debt if no longer receiving payments
      - Still show debt block (if applicable) even if no payments (older than 31 days)
