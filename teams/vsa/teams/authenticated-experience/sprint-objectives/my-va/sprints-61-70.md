@@ -273,6 +273,8 @@ Midpoint review; Research planning
 
 **BE**
 
+**Is VANotify going away again? If so, we might remain on hold with the backend build :(.**
+
 - Start build
   - Also, I would love an estimate on how long build will take. Is it one sprint? Two? More? This likely depends on VANotify's timelines.
 - Determine necessary error states
