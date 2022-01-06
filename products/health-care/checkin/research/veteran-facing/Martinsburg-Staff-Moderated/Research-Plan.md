@@ -81,7 +81,7 @@ Backup Collection Method
 - Corey Parker will periodically message the MVP site to gather the feedback documents.
 - If staff would prefer another document type or process to gather feedback, message Kristen.Mcconnell@va.gov with details.
 
-### Conversation Guide (Questions to ask Veterans)
+### Conversation Guide (Questions for Staff to ask Veterans)
 - Did you check-in for your appointment on your mobile phone today?
   - If the Veteran answer "no" or "I don't remember," ask the following questions:
     - Did you see a poster [name the location of the poster at MVP site letting you know that you could use your mobile phone to check-in?
