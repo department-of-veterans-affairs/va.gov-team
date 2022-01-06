@@ -13,9 +13,9 @@ be sharing a variety of unstructured information during the conversations that m
 useful. This includes:
 ```
 
-● Questions about the definitions of the benefits service categories
-● Concerns about the clarity of language or visual elements they see on the page
-● Alternative routes they would take to find the requested information (other than
+* Questions about the definitions of the benefits service categories
+* Concerns about the clarity of language or visual elements they see on the page
+* Alternative routes they would take to find the requested information (other than
 Facilities Locator pages)
 
 ```
