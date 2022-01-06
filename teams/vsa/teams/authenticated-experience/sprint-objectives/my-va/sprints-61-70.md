@@ -264,6 +264,8 @@ Midpoint review; Research planning
 
 **PM**
 
+**Is VANotify going away again? If so, we might remain on hold with the backend build :(.**
+
 - Make sure we have clear definition on what is needed from VANotify and their timelines
 
 **FE/BE**
