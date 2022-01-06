@@ -1,4 +1,4 @@
-# Conversation guide for user research on health apartment homepage concept
+# Conversation guide for user research on the MyHealtheVet landing page concept, January 2022
 
 
 
@@ -61,7 +61,7 @@ Start recording.
 
 
 
-## Prior to showing concept (7 minutes)
+## Prior to showing concept (10 minutes)
 
 * Please use these questions as a guide, not necessarily a script. The goal is to find out what's important to the user and if it's reflected in the design. If you see an opportunity for an important follow up question, take it. 
 
