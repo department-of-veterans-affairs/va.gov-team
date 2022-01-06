@@ -81,28 +81,23 @@ as we talk today?"
 
 ### Scenario 1 - Search Page Evaluation
 
-```
-Research Questions to Address
-```
+#### Research Questions to Address
+
 1. Do existing category names cause confusion, or do they need to be described with more
     clear language?
 2. What common knowledge or other strategies do Veterans utilize when searching for
     services?
 
-
-Scenario Description
-
 ```
-You are a veteran living in Washington D.C., you have a complicated question regarding your
+Scenario Description: You are a veteran living in Washington D.C., you have a complicated question regarding your
 [college, house buying, diabetes care, career] needs. You've already done some research
 online, but still feel that you need help.
 ```
 1. What are the next steps for you to find help? What first occurred to you?
 2. Have you taken similar steps in the past?
 
-
-_Give the user 3-5 minutes to walkthrough their thoughts
-Redirect User if Necessary_
+* Give the user 3-5 minutes to walkthrough their thoughts
+* Redirect User if Necessary
 
 ```
 Those are great solutions. For the purposes of this
@@ -114,8 +109,8 @@ At this point, could you share your screen using Zoom? Please select the green i
 the bottom of this video call screen. Before you share, please make sure there is no
 sensitive information on your screen.
 ```
-_Give the participant 5 minutes to complete their screenshare.
-If the participant cannot screenshare, share your screen instead and navigate to the Facility Locator portal. Allow the participant to “pilot” by giving you instructions on what they would do._
+* Give the participant 5 minutes to complete their screenshare.
+* If the participant cannot screenshare, share your screen instead and navigate to the Facility Locator portal. Allow the participant to “pilot” by giving you instructions on what they would do.
 
 ```
 The "Correct" Path:
@@ -132,15 +127,16 @@ The "Correct" Path:
 9. Were there any other categories that you were tempted to choose?
 ```
 
-## Scenario 2 - Location Specific Page Evaluation
+### Scenario 2 - Location Specific Page Evaluation
 
-```
-Research Questions to Address
-```
+
+#### Research Questions to Address
+
 1. Do existing category names cause confusion, or do they need to be described with more
     clear language?
 2. What common knowledge or other strategies do Veterans utilize when searching for
     services?
+
 ```
 Scenario Description: You are a veteran living in Washington D.C., you have a
 complicated question regarding your [college, house buying, diabetes care, career]
@@ -148,19 +144,17 @@ needs. You've found a VBA location that seems like it can help with these questi
 are now viewing their web page.
 ```
 
-Ask participant to share their screen again, if necessary. Navigate them to the [Baltimore
-VA Regional Benefits Office](https://www.va.gov/find-locations/facility/vba_313) page
+* Ask participant to share their screen again, if necessary.
+* Navigate them to the [Baltimore VA Regional Benefits Office](https://www.va.gov/find-locations/facility/vba_313) page
 
 ```
 Can this location help with your request?
 ```
 
-● On this page, are there any services that you find confusing or that require
-clarification?
-● You mentioned the XYZ service name, what does that label mean to you?
-● How confident would you be in the information provided on this page?
-● What other steps would you take to answer your questions after viewing this
-page?
+1. On this page, are there any services that you find confusing or that require clarification?
+2. You mentioned the XYZ service name, what does that label mean to you?
+3. How confident would you be in the information provided on this page?
+4. What other steps would you take to answer your questions after viewing this page?
 
 
 ## Scenario 3 - Category Name Evaluation
@@ -168,17 +162,13 @@ page?
 ```
 If time permits, take participants through a simple card sorting exercise.
 ```
-```
-Research Questions to Address
-```
+### Research Questions to Address
+1. Do existing category names cause confusion, or do they need to be described with more clear language?
+2. How can the benefits services be best presented to Veterans?
 
-● Do existing category names cause confusion, or do they need to be described
-with more clear language?
-● How can the benefits services be best presented to Veterans?
-
-
-1. Ask participants to end their screenshare, if necessary.
-2. Navigate to the [Card Sort Page](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1641416955140/49022b3f69f3e814bf3e33cf24cdc2f02273db60). Share your own screen.
+* Ask participants to end their screenshare, if necessary.
+* Navigate to the [Card Sort Page (https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1641416955140/49022b3f69f3e814bf3e33cf24cdc2f02273db60).
+* Share your own screen.
 
 ```
 Can you see my screen alright? I’ll be walking us through a short activity to make sure
@@ -195,13 +185,12 @@ understand.
 I will be doing the clicking and dragging, so please talk me through your decisions and
 whether or not you have any questions along the way.
 ```
-```
-Prodding Questions:
-```
-1. Why did you categorize this service name here?
-2. Tell me more about that.
-3. What other terms have you heard to describe that service?
-4. What does that name tell you about the services offered?
+
+#### Prodding Questions:
+* Why did you categorize this service name here?
+* Tell me more about that.
+* What other terms have you heard to describe that service?
+* What does that name tell you about the services offered?
 
 
 ## Closing
@@ -209,20 +198,20 @@ Prodding Questions:
 ```
 Thank you so much for your time and for your help today!
 ```
-1. Did you have any questions for the team?
+* Did you have any questions for the team?
 
 ```
 We're excited to take this information into developing easier to use systems for veterans
 everywhere.
 ```
-```
-● Did you have any resources or other contacts that you believe we should talk
+
+* Did you have any resources or other contacts that you believe we should talk
 with?
-```
+
 ```
 STOP Recording
 ```
-```
-● Was there anything you wanted to tell us about Benefits and services that we
+
+* Was there anything you wanted to tell us about Benefits and services that we
 didn't get to cover today?
-```
+
