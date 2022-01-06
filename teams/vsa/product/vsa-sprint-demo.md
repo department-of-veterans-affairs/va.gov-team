@@ -1,5 +1,5 @@
 # Sprint Demo 
-Each VSA product team has the opportunity to share things they’re most excited about from the past sprint with OCTO-DE, Platform, VSA Leads (Shawna, Yana, Andre, Jeff, Mickin), and other VSA teams. The goal—greater awareness of each other’s work to foster collaboration and shared learnings.  
+Each VSA product team has the opportunity to share things they’re most excited about from the past sprint with OCTO-DE, Platform, VSA Leads, and other VSA teams. The goal—greater awareness of each other’s work to foster collaboration and shared learnings.  
 
 _:open_file_folder:[Sprint Demos and Template](https://salientcrgt.sharepoint.com/sites/VSATeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVSATeam%2FShared%20Documents%2FSprint%20Review%20and%20Demo&viewid=5d571d10%2D43b8%2D4f5f%2D8c44%2D3d78e5892cca)_
 
@@ -17,7 +17,7 @@ _:information_source: the next PM on the schedule is backup if the facilitator c
 
 ### Pre-Demo
 - Make sure we have a new slide deck created
-- Check with Leads for any announcements they (or OCTO-DE) may have
+- Check with VSA Leads (Shawna, Yana, Andre, Jeff, Mickin) for any announcements they (or OCTO-DE) may have
 - Confirm the deck is updated by teams with items they’re demoing
   - If teams don’t have any items, _they_ should remove their slides/update the agenda
   - The Platform Design System team attends and occasionally shares at Demo. They’ll typically reach out with any topics. If not, remove their slide and name from the agenda. 
@@ -41,7 +41,7 @@ All set! Yana will post the recording in #vsa
 
 ### Pre-demo
 - Confirm with your team what you’d like to share and update your team’s slide accordingly 
-- If you don’t have anything to demo, remove your team’s slide and update the agenda 
+- If you don’t have anything to demo, remove your team’s slide and update the agenda **by end-of-day Monday** before Demo
 - Get ready for Demo with any artifacts, etc. you may want to share
 
 ### During Demo
