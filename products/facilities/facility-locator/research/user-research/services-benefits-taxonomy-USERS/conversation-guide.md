@@ -107,9 +107,13 @@ What are the next steps for you to find help?
 _Give the user 3-5 minutes to walkthrough their thoughts. Redirect them if necessary._
 
 ```
-Those are great solutions. For the purposes of this exercise, we are going to try and use the Facility Locator Tool to find a VBA location that would help with this service.
+Those are great solutions. For the purposes of this exercise, we are going 
+to try and use the Facility Locator Tool to find a VBA location that would 
+help with this service.
 
-At this point, could you share your screen using Zoom? Please select the green icon at the bottom of this video call screen. Before you share, please make sure there is no sensitive information on your screen.
+At this point, could you share your screen using Zoom? Please select the 
+green icon at the bottom of this video call screen. Before you share, please 
+make sure there is no sensitive information on your screen.
 ```
 
 _Give the participant 5 minutes to complete their screenshare. If the participant cannot screenshare, share your screen instead and navigate to the Facility Locator portal. Allow the participant to “pilot” by giving you instructions on what they would do._
