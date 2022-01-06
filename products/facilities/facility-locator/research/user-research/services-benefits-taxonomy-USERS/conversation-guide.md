@@ -12,13 +12,12 @@ Complete verbatim transcripts may not be necessary for this study. The participa
 be sharing a variety of unstructured information during the conversations that may be
 useful. This includes:
 ```
-```
+
 ● Questions about the definitions of the benefits service categories
 ● Concerns about the clarity of language or visual elements they see on the page
-● Confusion surrounding any navigation or wayfinding during the scenario
 ● Alternative routes they would take to find the requested information (other than
 Facilities Locator pages)
-```
+
 ```
 This information can be captured in short-form during the interviews and detailed from
 recordings during synthesis.
@@ -74,7 +73,7 @@ as we talk today?"
 2. Where, geographically, are you based right now?
 3. Can you tell me about a time you’ve utilized a VA service? (Example: applied for
     a home loan, received education or medical benefits, etc.)
-       a. Note: potentially use this experience for the scenario
+       a. Note: Potentially use this experience for the scenario
 4. Are you familiar with VA.gov, and if so, what do you typically use it for?
 
 
@@ -85,9 +84,9 @@ as we talk today?"
 ```
 Research Questions to Address
 ```
-5. Do existing category names cause confusion, or do they need to be described with more
+1. Do existing category names cause confusion, or do they need to be described with more
     clear language?
-6. What common knowledge or other strategies do Veterans utilize when searching for
+2. What common knowledge or other strategies do Veterans utilize when searching for
     services?
 
 ```
@@ -102,7 +101,10 @@ online, but still feel that you need help.
 2. Have you taken similar steps in the past?
 
 ```
---- Redirect User if Necessary Those are great solutions. For the purposes of this
+Give the user 3-5 minutes to walkthrough their thoughts
+Redirect User if Necessary
+---
+Those are great solutions. For the purposes of this
 exercise, we are going to try and use the Facility Locator Tool to find a VBA location that
 would help with this service.
 ```
@@ -126,8 +128,6 @@ The "Correct" Path:
 4. View Locations
 5. Stop the user there for Reflection Questions:
 6. What are you thinking as you go through these services?
-
-
 7. I saw you hesitate on XXXX, what does this service mean to you?
 8. Are there any categories that you wanted more clarity on?
 9. Were there any other categories that you were tempted to choose?
@@ -142,8 +142,8 @@ needs. You've found a VBA location that seems like it can help with these questi
 are now viewing their web page.
 ```
 ```
-Ask participant to share their screen again, if necessary. Navigate them to theBaltimore
-VA Regional Benefits Office page
+Ask participant to share their screen again, if necessary. Navigate them to the [Baltimore
+VA Regional Benefits Office](https://www.va.gov/find-locations/facility/vba_313) page
 ```
 ```
 Can this location help with your request?
@@ -151,7 +151,7 @@ Can this location help with your request?
 ```
 ● On this page, are there any services that you find confusing or that require
 clarification?
-● You mentioned the XYZ service category, what does that label mean to you?
+● You mentioned the XYZ service name, what does that label mean to you?
 ● How confident would you be in the information provided on this page?
 ● What other steps would you take to answer your questions after viewing this
 page?
@@ -171,10 +171,10 @@ with more clear language?
 ● How can the benefits services be best presented to Veterans?
 ```
 ```
-Ask participants to return to end their screenshare, if necessary.
+Ask participants to end their screenshare, if necessary.
 ```
 ```
-Navigate to theCard Sort Page. Share your own screen.
+Navigate to the [Card Sort Page](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1641416955140/49022b3f69f3e814bf3e33cf24cdc2f02273db60). Share your own screen.
 ```
 ```
 Can you see my screen alright? I’ll be walking us through a short activity to make sure
