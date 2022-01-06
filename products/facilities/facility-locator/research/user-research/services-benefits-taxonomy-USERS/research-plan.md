@@ -61,25 +61,21 @@ Using Perigean recruiting, we would like to schedule 18 participants to reach ou
 observing 10 participants. Participant criteria are as follows:
 
 
-*  PRIMARY CRITERIA (must have)
-○ Laptop or desktop computer only
-■ For this study, mobile devices may introduce technical difficulties, or make
-it more difficult for participants to complete the task
-○ Be able to screenshare via Zoom
-■ Please confirm beforehand that participant is able to use Zoom, and is
-familiar with screen sharing
-○ At least 2 participants under 35 years old
+### PRIMARY CRITERIA (must have)
+*  Laptop or desktop computer only
+*  For this study, mobile devices may introduce technical difficulties, or make it more difficult for participants to complete the task
+*  Be able to screenshare via Zoom
+*  Please confirm beforehand that participant is able to use Zoom, and is familiar with screen sharing
+*  At least 2 participants under 35 years old
+*  At least 2 participants over 55 years old
+*  At least 1 participant with cognitive disabilities
+*  At least 5 participants with no college degree or professional certificates
+*  At least 3 participants of color
 
-
-
-○ At least 2 participants over 55 years old
-○ At least 1 participant with cognitive disabilities
-○ At least 5 participants with no college degree or professional certificates
-○ At least 3 participants of color
-*  SECONDARY CRITERIA (should have)
-○ Mix of Veterans and Caregivers
-○ All genders
-○ A mix of rural and urban participants
+### SECONDARY CRITERIA (should have)
+* Mix of Veterans and Caregivers
+* All genders
+* A mix of rural and urban participants
 
 ## Timeline and scheduling
 
