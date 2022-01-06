@@ -8,6 +8,8 @@ Sprint Demo is scheduled for Tuesday, 1-2:30pm ET on the last day of each sprint
 
 ## Facilitator Guide
 
+Faciliators service as MC and should be mindful of keeping the pace of Demo moving. That does not mean rushing participants. It does mean keeping an eye on time and how belabored (or not) a particular share is and using judgment to prompt folks with questions and thoughts as appropriate.
+
 ### Rotations
 We rotate facilitators between VSA PMs each month. [Facilitation Schedule](https://docs.google.com/spreadsheets/d/1f4Ld-zXFrTyYv8o2mc1x7CNIc4VEmhCwNOUxoVFW6r4/edit#gid=0)
 
@@ -23,7 +25,7 @@ _:information_source: the next PM on the schedule is backup if the facilitator c
 
 _:information_source: The Sprint Demo is auto-recorded. You don’t need to do anything._
 
-#### Calculating time
+#### Demo Tempo
 Sprint Demo is scheduled for 1.5 hrs. With ~15 teams and ~10 min of opening/closing buffer, that leaves ~5 minutes per team if **every** team demos. Not every team demos each sprint. Regardless, ~6-7 minutes ends up being a reasonable allotment. 
 
 ### During Demo
