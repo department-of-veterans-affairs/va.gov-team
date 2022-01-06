@@ -66,6 +66,9 @@ To be determined between MVP site and check-in team. Ideally beginning less than
 
 ### Methodology
 Staff at the MVP site(s) will ask Veterans a series of questions ideally towards the end of their appointment (maybe at checkout), so the Veteran can provide feedback on their mobile check-in experience. However, it is up to the MVP site to determine when in their workflow these questions can fit. If this needs to occur prior to an appointment or at some other point that is absolutely fine. _The site should just let the check-in team know what was decided._
+- Watch the Veteran complete check-in on their mobile phone.
+- Ask follow-up questions.
+- Utilize Net Promoter Score (NPS) in conjunction with qualitative questions to evaluate Veteran and staff experiences. NPS can be used over time to see fluctuations in the experience, but will not be the only user experience metric evaluated.
 
 ### How staff should document feedback
 Feedback should be anonymous. Do not collect names or other identifiable information.
