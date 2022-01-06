@@ -302,6 +302,20 @@ Research
 
 ## Sprint 65 (1/12 - 1/25)
 
+### Personal informaton revisions
+
+**Design**
+- Summarize research
+
+**FE**
+
+- Is FE build done?
+
+**BE**
+
+- Start BE build if possible
+  -  This depends on whether things are held up again with the introduction of VA Profile.   
+
 ## Sprint 66 (1/26 - 2/8)
 
 ## Sprint 67 (2/9 - 2/22)
