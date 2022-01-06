@@ -17,7 +17,7 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 
 ## Research goals
 - Conduct user acceptance testing to evaluate if multiple steps in the check-in process are functioning as planned at the pilot location.
-- Understand if the new poster is easier to use, addresses pain points from the original poster, and identify improvements (if any).
+- Understand if the updated poster is easier to use, addresses pain points from the original poster, and identify improvements (if any).
 
 ### Research questions
 - This research study should cover:
@@ -29,7 +29,7 @@ The veteran check-in for a medical appointment fits within the "Taking Care of M
 	- Are returning mobile patients experiencing check in issues?
 	- Are veterans able to complete the check in with guidance from the the new poster? 
 - After a Veteran utilizes the new mobile check-in solution, are they called back for their appointment without having to talk to a clerk/Medical Support Assistant (MSA)?
-- How do Veterans and staff feel about the mobile check-in solution?
+- How do Veterans feel about the mobile check-in solution?
 - Do Veterans need reassurance that the check in process has worked?
 - For those veterans who have completed pre-check in, are they needing to review the pages again on the day of the appointment? 
 
@@ -71,7 +71,7 @@ Staff at the MVP site(s) will ask Veterans a series of questions ideally towards
 Feedback should be anonymous. Do not collect names or other identifiable information.
 
 Preferred Collection Method 
-- The staff can utilize an online form tool hosted through Optimal Workshop. 
+- The staff can utilize an online form tool hosted through Optimal Workshop (example link coming soon). 
 
 Backup Collection Method
 - If for some reason the form tool is not approved or unaccessible, the backup method would be an interactive PDF, such as this [interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/6850668/MVP.PilotEvaluation-Feedback.pdf) to capture the feedback from the patient. Staff fills out the documentation.
