@@ -17,7 +17,7 @@
   * An *unverified* user can still input data on the va.gov site, so we will use `user_accounts.uuid` to store the progress of forms they fill out, settings they set, etc
 * Once an *unverified* user becomes *verified*, we are able to determine the actual real_user, and we can start returning data that we know back to the user
   * This is signified by now storing `icn` in the `user_accounts` table
-  *This user is now*verified*, and they cannot become*unverified*, unless something like a security breach happens. We can come up with resource for this case, likely it will be deleting records or deprecating them
+  *This user is now* verified*, and they cannot become *unverified*, unless something like a security breach happens. We can come up with resource for this case, likely it will be deleting records or deprecating them
     * There is still a complication in the *unverified* to *verified* process
       * If the user was not previously *verified*, we can assume everything that real_user did as an *unverified* user was intentional, so we will bring all the forms and preferences over. This is signified by keeping the `user_accounts` record, just adding an `icn`
       * If the user was previously *verified* with a different credential, we now have a conflict
