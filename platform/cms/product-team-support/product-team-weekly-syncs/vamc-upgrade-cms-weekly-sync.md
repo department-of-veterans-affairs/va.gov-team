@@ -16,6 +16,16 @@
 
 </details>
 
+## January 7
+
+User support 
+
+Top tasks rollout timing and communications. 
+
+Facility name change updates
+- Potsdam
+- North Florida / South Georgia
+
 ## December 17
 - Cancel the next two weeks
   - async check-in on Thursdays just in case
