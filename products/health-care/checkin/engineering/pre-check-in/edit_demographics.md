@@ -5,11 +5,6 @@
 - [Slack Channels](#slack-channels)
 - [Team Members](#team-members---hce)
 - [Related Documents](#related-documents)
-- [Pilot Site](#pilot-site)
-- [Problem Statement](#problem-statement)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
-- [Measuring Success](#measuring-success)
 - [Applications and Services](#applications-and-services)
     - [Vets Website](#vets-website)
     - [Vets-API](#vets-api)
@@ -20,6 +15,11 @@
     - [VEText](#vetext)
     - [VA.gov Profile](#vagov-profile)
     - [VA Profile](#va-profile)
+- [Pilot Site](#pilot-site)
+- [Problem Statement](#problem-statement)
+- [User Outcomes](#user-outcomes)
+- [Business Outcomes](#business-outcomes)
+- [Measuring Success](#measuring-success)
 - [User Scenarios](#user-scenarios)
     - [Happy Path Stories](#happy-path-stories)
     - [Error Path Stories](#error-path-stories)
@@ -34,10 +34,10 @@
 - [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
 - [Testing Solutions](#testing-solutions)
+- [Application Performance Management](#application-performance-management)
 - [Goals and Milestones](#goals-and-milestones)
 - [Prioritization](#prioritization)
 - [Timeline](#timeline)
-- [Application Performance Management](#application-performance-management)
 - [Footnotes](#footnotes)
 
 ### Slack Channels
@@ -74,6 +74,75 @@
 * [Engineering Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering)
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
+## Applications and Services
+
+### Vets Website
+
+* This is the application that powers the main va.gov website.  
+* Day of Check-In: This application is for veterans to check into their health appointments on the day of care. 
+* Pre-Check-In: This application is going to be filled out by veterans days before the appointment. The veteran will be able to confirm various aspects of their appointment and information.
+* Built with reactJS
+* Uses Vets-API as the main backend API and service bus
+* [Day of Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/day-of#readme)  
+* [Pre-Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/pre-check-in#readme)  
+
+### Vets-API
+
+* This project provides common APIs for applications that live on VA.gov (formerly vets.gov APIs)
+* The Check-In module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API.
+* Built with Ruby on Rails
+* Is the main backend service for the Vets-Website
+* Calls the LoROTA and CHIP services for Check-In and Pre-Check-In
+* [Vets-API Readme](https://github.com/department-of-veterans-affairs/vets-api/#readme)  
+* [Check-In Engine Readme](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/check_in#readme)  
+
+### CHIP
+
+* Check-In Integration Point API. 
+* Provides Veterans with a unified front door experience for preparing for and checking into their clinical appointments. 
+* Includes, changing the process for outpatient clinical workflow that improves efficiency and decrease devices requiring publicly accessible shared surfaces that may increase the transmissions of communicable diseases like COVID-19.
+* [CHIP Readme](https://github.com/department-of-veterans-affairs/chip#readme)  
+
+### LoROTA
+
+* Low Risk One Time Authentication, or LoROTA, is a simple service that uses a unique key (UUID)passed between a user and various services to authenticate that user for certain low risk activities, like form submission.
+* [LoROTA Readme](https://github.com/department-of-veterans-affairs/lorota#readme)  
+
+### Profile Service
+
+* Provides functionality related to grouping of clinics  
+
+### VISTA
+
+* Stands for Veterans Health Information Systems and Technology Architecture, and it's one of the VA's systems for managing veterans electronic health records.
+
+### VEText
+
+* VEText is an interactive mobile solution to send notifications through text messages to veterans about and around their upcoming and scheduled appointements. 
+* [VEText Information](https://www.va.gov/health/VEText.asp)  
+
+### VA.gov Profile
+
+* The VA.gov profile provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
+* Currently, the VA.gov profile supports the following information:
+    * Personal information
+    * Contact information
+    * Military information
+    * Direct deposit information
+    * Notification preferences
+    * Account security
+    * Connected apps (managed by the Lighthouse team)
+* References:
+  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
+
+### VA Profile
+* This is a backend system that was formerly known as Vet360. 
+* It came about in 2018 to act as a connector between a bunch of VA backends and frontends, so that veterans could update their info in one place and it would save everywhere (or almost everywhere). 
+* The VA Profile team is not part of the OCTO/DEPO contracts. They are an entirely separate team that we work with, and they work with a lot of other teams.
+* References:
+  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
+
+
 ## Pilot Site
 - Clinic: Martinsburg, WV
 
@@ -106,15 +175,6 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Metrics that we want to track
     - Metric one
     - Metric two
-    - 
-## Application Performance Management
-* APM tools
-    * [Datadog Check-In](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1638711177523&to_ts=1641303177523&live=true)
-    * Cloudwatch
-    * Grafana
-    * [Sentry Error Tracking](http://sentry.vfs.va.gov/organizations/vsp/issues/?project=3&project=4)
-    * ELK
-    * [Loki Logs](http://grafana.vfs.va.gov/explore?orgId=1&left=%5B%22now-24h%22,%22now%22,%22Loki%20(Prod)%22,%7B%7D%5D)
 
 ## User Scenarios
 
@@ -386,79 +446,20 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 ## Testing Solutions
 
+## Application Performance Management
+* APM tools
+    * [Datadog Check-In](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1638711177523&to_ts=1641303177523&live=true)
+    * Cloudwatch
+    * Grafana
+    * [Sentry Error Tracking](http://sentry.vfs.va.gov/organizations/vsp/issues/?project=3&project=4)
+    * ELK
+    * [Loki Logs](http://grafana.vfs.va.gov/explore?orgId=1&left=%5B%22now-24h%22,%22now%22,%22Loki%20(Prod)%22,%7B%7D%5D)
+
 ## Goals and milestones
 
 ## Prioritization
 
 ## Timeline
-
-## Applications and Services
-
-### Vets Website
-
-* This is the application that powers the main va.gov website.  
-* Day of Check-In: This application is for veterans to check into their health appointments on the day of care. 
-* Pre-Check-In: This application is going to be filled out by veterans days before the appointment. The veteran will be able to confirm various aspects of their appointment and information.
-* Built with reactJS
-* Uses Vets-API as the main backend API and service bus
-* [Day of Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/day-of#readme)  
-* [Pre-Check-In Readme](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/check-in/pre-check-in#readme)  
-
-### Vets-API
-
-* This project provides common APIs for applications that live on VA.gov (formerly vets.gov APIs)
-* The Check-In module engine inside the Vets-API acts as general purpose service and as a service bus to the LoROTA service and the CHIP API.
-* Built with Ruby on Rails
-* Is the main backend service for the Vets-Website
-* Calls the LoROTA and CHIP services for Check-In and Pre-Check-In
-* [Vets-API Readme](https://github.com/department-of-veterans-affairs/vets-api/#readme)  
-* [Check-In Engine Readme](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/check_in#readme)  
-
-### CHIP
-
-* Check-In Integration Point API. 
-* Provides Veterans with a unified front door experience for preparing for and checking into their clinical appointments. 
-* Includes, changing the process for outpatient clinical workflow that improves efficiency and decrease devices requiring publicly accessible shared surfaces that may increase the transmissions of communicable diseases like COVID-19.
-* [CHIP Readme](https://github.com/department-of-veterans-affairs/chip#readme)  
-
-### LoROTA
-
-* Low Risk One Time Authentication, or LoROTA, is a simple service that uses a unique key (UUID)passed between a user and various services to authenticate that user for certain low risk activities, like form submission.
-* [LoROTA Readme](https://github.com/department-of-veterans-affairs/lorota#readme)  
-
-### Profile Service
-
-* Provides functionality related to grouping of clinics  
-
-### VISTA
-
-* Stands for Veterans Health Information Systems and Technology Architecture, and it's one of the VA's systems for managing veterans electronic health records.
-
-### VEText
-
-* VEText is an interactive mobile solution to send notifications through text messages to veterans about and around their upcoming and scheduled appointements. 
-* [VEText Information](https://www.va.gov/health/VEText.asp)  
-
-### VA.gov Profile
-
-* The VA.gov profile provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed.
-* Currently, the VA.gov profile supports the following information:
-    * Personal information
-    * Contact information
-    * Military information
-    * Direct deposit information
-    * Notification preferences
-    * Account security
-    * Connected apps (managed by the Lighthouse team)
-* References:
-  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
-
-### VA Profile
-* This is a backend system that was formerly known as Vet360. 
-* It came about in 2018 to act as a connector between a bunch of VA backends and frontends, so that veterans could update their info in one place and it would save everywhere (or almost everywhere). 
-* The VA Profile team is not part of the OCTO/DEPO contracts. They are an entirely separate team that we work with, and they work with a lot of other teams.
-* References:
-  - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
 ## Footnotes
 [^1]: Fully authenticated: User has authenticated on va.gov using their ID.me account or another identity provider.  
