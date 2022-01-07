@@ -36,7 +36,7 @@ Tressa explained what we want to do with the new design component (mainly on On-
 - What happens when there is a failure in a component?
      - [Tressa response] We have static message with link to manage elsewhere (mhv for example)
 - Concerned about sitewide alerts along with onsite, that is just more stuff being added.
-- Linked to see facilities page slimmed down, and alerts similar to the proposed design
+- [Linked to see facilities page](https://preview.uxpin.com/ad1daf77e161cbde903ca3cbe0b65177a7e7bdf2#/pages/144397776/simulate/no-panels?mode=i) slimmed down, and alerts similar to the proposed design
 - Any time you say something to a user, it could show up 5 different ways or some systems have one way (that is the only way you see alerts)
 - Tressa advocates for this being a first stab at this complex scenario and would like it to be usable on a global scale, evolving as needed
 - We may want to update the component after research feedback
