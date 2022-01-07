@@ -29,11 +29,11 @@
     - [Use VA Profile Exclusively](#use-the-existing-va-profile-servicedifferent-from-vagov-profile-exclusively)
     - [Build New Services](#build-additional-systems-and-services-in-order-to-handle-updated-demographics-information)
 - [Engineering Questions](#engineering-questions)
-- [Staff Facing Dependencies](#staff-facing-dependencies)
+- [Staff Facing Questions](#staff-facing-questions)
 - [Engineering Proposals](#engineering-proposals)
+- [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
 - [Testing Solutions](#testing-solutions)
-- [Engineering Solutions](#engineering-solutions)
 - [Goals and Milestones](#goals-and-milestones)
 - [Prioritization](#prioritization)
 - [Timeline](#timeline)
@@ -370,13 +370,9 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - Can we update a user's demographics information if we create our own service(lambda or other)?
 - If we don't have permission to update a user's sensitive information, can we contest that decison in anyway?
 
-## Staff Facing Dependencies
+## Staff Facing Questions
 
 ## Engineering Proposals
-
-## Testing Questions
-
-## Testing Solutions
 
 ## Engineering Solutions
 
@@ -385,6 +381,10 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ### CHIP BE
 ### LoROTA BE
 ### VA Profile Service BE
+
+## Testing Questions
+
+## Testing Solutions
 
 ## Goals and milestones
 
