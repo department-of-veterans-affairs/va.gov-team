@@ -18,8 +18,8 @@
     - [Use VA.gov Profile Exclusively](#use-the-existing-vagov-profile-exclusively)
     - [Use VA Profile Exclusively](#use-the-existing-va-profile-servicedifferent-from-vagov-profile-exclusively)
     - [Build New Services](#build-additional-systems-and-services-in-order-to-handle-updated-demographics-information)
-- [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Questions](#engineering-questions)
+- [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Proposals](#engineering-proposals)
 - [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
@@ -352,13 +352,13 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - Can we get another team to do the work on our behalf?
 - Will we be duplicating functionality by not going with VA.gov Profile or VA Profile?
 
-## Staff Facing Dependencies
-
 ## Engineering Questions
 - Where does user demographics information(contact, next-of-kin, emergency-contact) for a veteran live?
 - Where can we find contact information for the VA Profile team?
 - Can we update a user's demographics information if we create our own service(lambda or other)?
 - If we don't have permission to update a user's sensitive information, can we contest that decison in anyway?
+
+## Staff Facing Dependencies
 
 ## Engineering Proposals
 
