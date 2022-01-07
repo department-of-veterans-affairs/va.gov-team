@@ -426,6 +426,24 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - Will we be duplicating functionality by not going with VA.gov Profile or VA Profile?
 
 ## Engineering Proposals
+**Recommended Workflow**
+### Use the existing VA Profile service exclusively
+* User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
+* Vets-Website requests pre-stored demographics data for the user from Vets-API
+* Vets-API Check-In service requests for the latest user data from the LoROTA service
+* Vets-API returns the user data back to the Vets-Website(VA.gov FE)
+* User edits ALL of their demographics information in the UI and submits the changes
+* Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
+* Vets-API uses a new downstream integration with the VA Profile, yet to be established via the CHIP service, to submit the updated demographics data to the VA Profile service
+* VA Profile updates and saves the user's demographics information in the VA systems
+* VA Profile returns a success status and message back to the CHIP service
+* The CHIP service responds back with a success message and status to the Vets-API
+* Vets-API invokes the data refresh endpoint on the CHIP service
+* CHIP service pulls the user's latest demographics information(updated previously by VA Profile) and then updates LoROTA with that data
+* CHIP returns a success status and message back to Vets-API
+* Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
+* Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
+* User is able to view their updated demographics information in the UI on their modbile device or desktop
 
 ## Engineering Questions
 - Where does user demographics information(contact, next-of-kin, emergency-contact) for a veteran live?
