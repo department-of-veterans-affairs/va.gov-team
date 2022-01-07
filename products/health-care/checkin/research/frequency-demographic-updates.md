@@ -31,3 +31,6 @@ How often is too often to ask for data updates?
 - "Some patients really resent being interviewed over and over, even if it turns out something really needed to be changed," Kraus adds. "But if you let it slide, you have incorrect billing, wrong insurance, returned mail."
 "
 - "At Wake Forest University Baptist Medical Center in Winston-Salem, NC, previously collected patient data are brought forward if they are less than 90 days old, but registrars still verify the information with the patient if he or she is available"
+
+## Next Steps
+Consider conducting additional research to better understand how often this basic demographic information changes for veterans. It could be that anything more than weekly, or monthly, would be unlikely to lead to additional changes to their information. 
