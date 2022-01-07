@@ -21,7 +21,7 @@ This product's goal is to support the veteran to find and access information to 
 ## Research Goals	
 What are you trying to learn from this research? 
 How do needs from Spanish speaking veterans differ from the English speaking veterans regarding self service through the chatbot.
-How to Spanish speaking veterans would interact with a chatbot.
+How do Spanish speaking veterans would interact with a chatbot.
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
