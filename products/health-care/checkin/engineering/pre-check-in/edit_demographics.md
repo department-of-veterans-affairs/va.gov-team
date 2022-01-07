@@ -373,19 +373,20 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Vets-API returns the user data back to the Vets-Website(VA.gov FE)
 * User edits ALL of their demographics information in the UI and submits the changes
 * Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
-* Vets-API uses a new integration with the VA Profile, yet to be established via the Check-In module, to submit the the updated demographics data to the VA Profile service
+* Vets-API uses a new downstream integration with the VA Profile, yet to be established via the CHIP service, to submit the updated demographics data to the VA Profile service
 * VA Profile updates and saves the user's demographics information in the VA systems
-* VA Profile returns a success status and message back to the Vets-API
+* VA Profile returns a success status and message back to the CHIP service
+* The CHIP service responds back with a success message and status to the Vets-API
 * Vets-API invokes the data refresh endpoint on the CHIP service
-* CHIP service pulls the user's latest demographics information and then updates LoROTA with that data
+* CHIP service pulls the user's latest demographics information(updated previously by VA Profile) and then updates LoROTA with that data
 * CHIP returns a success status and message back to Vets-API
 * Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
 * Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 #### Challenges and Questions:
-- Establishing an integration with the VA Profile service from the Vets-API Check-In module
+- Establishing an integration with the VA Profile service from the CHIP service
 - Who is responsible for initiating the conversation with the VA Profile team?
-- What is the engineering scope for establishing the integration between the Vets-API Check-In module and the VA Profile service?
+- What is the engineering scope for establishing the integration between the CHIP service and the VA Profile service?
 - Currently, VA Profile only supports updating a veteran's contact information.
 - We cannot submit a veteran's updated *Next-of-Kin* or *Emergency Contact* information to the VA Profile service
 - Can we get the VA Profile team to support updating *Next-of-Kin* or *Emergency Contact* information?
