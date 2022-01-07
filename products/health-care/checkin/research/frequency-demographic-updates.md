@@ -15,6 +15,8 @@ As a veteran I only want to be asked to update my demographic information at cer
 Conduct a landscape/competitive analysis of Cerner, Epic, and Phressia to understand current guidelines. 
 
 ## Initial Findings/Sources
+Preliminary sources show that the current standard is to review patient demographic information at every encounter. This doesn't mean this practice leads to more accurate data necessarily, and some sources indicate it leads to increased patient frustrations. 
+
 Cerner
 - According to Lauren Alexanderson; VAs in Washington State requires updates at every patient encounter. "Spokane confirmed that they check demographics every time a veteran comes in"
 
