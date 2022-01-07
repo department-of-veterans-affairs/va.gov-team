@@ -1,5 +1,5 @@
 
-# Pre Check-in and day of Check-In: Demographics Editing - A Technical Discovery and Systems Architecture exploration document
+# Pre Check-in: Demographics Editing - A Technical Discovery and Systems Architecture exploration document
 
 ## Table of Contents
 - [Slack Channels](#slack-channels)
@@ -76,14 +76,14 @@
 
 ## Problem Statement
 ### Ideal situation
-Veterans can update their _demographics data_[^2] for upcoming care(appointemnts) during their Pre-Check-In or their day of Check-In workflows through the va.gov website and updated _demographics data_[^2] is saved instantly to all of the internal systems which require and rely on that data for business needs.
+Veterans can update their _demographics data_[^2] for upcoming care(appointemnts) during their Pre-Check-In workflow through the va.gov website and their updated _demographics data_[^2] is saved instantly to all of the internal systems which require and rely on that data for business needs.
 
 ### Reality
-Veterans **cannot** update their _demographics data_[^2] for upcoming appointments during their Pre-Check-In or their day of Check-In workflows through the va.gov website. Veterans can update the **contact** information portion of their total demographics set through their **VA.gov profile**, after they have _fully authenticated_[^1] on the va.gov website. However, currently, there are no workflows, business or engineering, which facilitate a veteran to update their next-of-kin or emergency contact information, and save that updated information to relevant internal VA systems through the va.gov website.
+Veterans **cannot** update their _demographics data_[^2] for upcoming appointments during their Pre-Check-In workflow through the va.gov website. Veterans can update the **contact** information portion of their total demographics set through their **VA.gov profile**, after they have _fully authenticated_[^1] on the va.gov website. However, currently, there are no workflows, business or engineering, which facilitate a veteran to update their next-of-kin or emergency contact information, and save that updated information to relevant internal VA systems through the va.gov website.
 
 ### Consequences
 
-Not having the ability to update _demographics_data_[^2] is a loss of value to the Check-In and Pre-Check-In features.
+Not having the ability to update _demographics_data_[^2] is a loss of business value to the Pre-Check-In feature.
 
 ### Proposal
 
