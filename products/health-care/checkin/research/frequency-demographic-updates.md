@@ -18,8 +18,16 @@ Cerner
 - According to Lauren Alexanderson; VAs in Washington State requires updates at every patient encounter. "Spokane confirmed that they check demographics every time a veteran comes in"
 
 Epic
+- While Epic can be customized to prompt review demographic at any frequency, numerious healthcare systems have reported the most common frequency is at every encounter because it is critical information when identifying and addressing healthcare disparities https://www.epicshare.org/share-and-learn/laying-the-groundwork-to-identify-and-address-healthcare-disparities  
+
+Phreesia Recommended Frequency
+- 
 
 VHA Directive 1604 
-Interpitation by Martinsburg, WV references this directive as the reason staff are required to review demographic information at every encounter. Corey Parker is following up for more detailed information as we've reviewed the directive at it wasn't evident. 
+- Interpitation by Martinsburg, WV references this directive as the reason staff are required to review demographic information at every encounter. Corey Parker is following up for more detailed information as we've reviewed the directive at it wasn't evident. 
 
-Considering Health Disparities
+How often is too often to ask for data updates? 
+- According to this article, patients resist providing demographic updates https://docs.google.com/spreadsheets/d/1HfAV1DjVy4klBfbFNk6q--3TOdXhpTL7BmnlzWkGzW8/edit#gid=0
+- "Some patients really resent being interviewed over and over, even if it turns out something really needed to be changed," Kraus adds. "But if you let it slide, you have incorrect billing, wrong insurance, returned mail."
+"
+- "At Wake Forest University Baptist Medical Center in Winston-Salem, NC, previously collected patient data are brought forward if they are less than 90 days old, but registrars still verify the information with the patient if he or she is available"
