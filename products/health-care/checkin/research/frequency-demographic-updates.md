@@ -26,6 +26,7 @@ Phreesia Recommended Frequency
 
 VHA Directive 1604 
 - Interpretation by Martinsburg, WV references this directive as the reason staff are required to review demographic information at every encounter. Corey Parker is following up for more detailed information as we've reviewed the directive at it wasn't evident. 
+- Note: See Corey Parker for a copy of the Directive if needed. 
 
 How often is too often to ask for data updates? 
 - According to this article, patients resist providing demographic updates https://docs.google.com/spreadsheets/d/1HfAV1DjVy4klBfbFNk6q--3TOdXhpTL7BmnlzWkGzW8/edit#gid=0
