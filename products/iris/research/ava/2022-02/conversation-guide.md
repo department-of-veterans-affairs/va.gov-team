@@ -1,4 +1,4 @@
-# Conversation Guide 
+# Conversation Guide Template for Moderated Research
 
 ## Moderator logistics
 
@@ -18,18 +18,20 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- Set up of Zoom call with participants, observer, and note-taker. 
+- Confirm sync in #feedback-backchannel 
+- Confirm ability to record sessions. 
+
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is [ Michael, from the Platform Contact Center team] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [new AVA Dashboard business and personal tabs]. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about [30-40 mins].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a current version of AVA with the new tab function.** 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -42,47 +44,39 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- What is your name and role at VA? 
+- How often do you use the AVA dashboard in your workflow? 
+- Can you describe, in a few sentences, your usual workflow using AVA? 
 
 ## First Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
+- Log into your AVA Dashboard
+- In your current queue, can you locate the Business and/or Personal Tabs? (Yes,No) 
+- Submit an inquiry in AVA. (Can be related to their described workflow, ie GI Bill)
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- [Does the participant easily find the new function?]
+- [Does the participant easily locate the Personal tab?]
+- [Does the business tab automatically populate once an inquiry is sent?]
+
 
 ## Second Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
+- With the either Business or Personal Tab, please walk through how you are using the new tabs in your workflow.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the preset sorting process assist in their process?]
+- [Does the participant understand the primary function of the new tab system?]
+- [Does the participant notice highlight any other gaps or missing functions]
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- What is your overall impression of this new feature?  
+- Does the new tab feature help reduce workload in filter and organizing cases in your dashboard? (Goal: Separate work vs personal inquiry?)
+- Is this new experience more streamlined for your overall needs? 
+- Do you have any questions for me or any other feedback you would like to share? 
 
 ## Thank-You and Closing - X minutes
 
@@ -92,9 +86,4 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
