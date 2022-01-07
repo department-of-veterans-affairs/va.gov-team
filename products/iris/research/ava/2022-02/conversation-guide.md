@@ -40,7 +40,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -48,7 +48,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - How often do you use the AVA dashboard in your workflow? 
 - Can you describe, in a few sentences, your usual workflow using AVA? 
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Locating (Business/Personal Tabs)] - 10 minutes
 
 - Log into your AVA Dashboard
 - In your current queue, can you locate the Business and/or Personal Tabs? (Yes,No) 
@@ -61,7 +61,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the business tab automatically populate once an inquiry is sent?]
 
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [Using the Tabs and Filtering] - 10 minutes
 
 - With the either Business or Personal Tab, please walk through how you are using the new tabs in your workflow.
 
@@ -71,14 +71,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant understand the primary function of the new tab system?]
 - [Does the participant notice highlight any other gaps or missing functions]
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 15 minutes
 
 - What is your overall impression of this new feature?  
 - Does the new tab feature help reduce workload in filter and organizing cases in your dashboard? (Goal: Separate work vs personal inquiry?)
 - Is this new experience more streamlined for your overall needs? 
 - Do you have any questions for me or any other feedback you would like to share? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
