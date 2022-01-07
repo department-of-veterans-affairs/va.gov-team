@@ -16,17 +16,65 @@
 
 </details>
 
+## January 14
+
+VAMC upgrade transition
+- VHA Digital media syncs
+
+
+Orphaned facilities 
+
+
 ## January 7
 
-VAMC transition
+VAMC upgrade transition
+* Mid-to-end of February
+* CMS User support is going to attend weekly sync with VHA Digital Media on Thursdays (Steve T, Jeff G, Justin W)
+* Gap analysis / division of labor and who will support those
+  * eg what goes to VHA Digital Media vs CMS User support
+* Develop a calendar about upcoming changes (Top tasks, services, Claro etc), with input from listening sessions
 
-User support 
+Health service taxonomy changes
+* Business process is evolving to deal with requests for changes
+
+VAMC KB
+* Has been updated with a lot more intent and why
+* Content type KB articles moved into the landing page
+
+3 Listening sessions on Teams
+* New website, Drupal, Upgrade process. Attendance from OCTO teams will be as observers. 
+* Session 1: January 13, 2022; 11:30AM-12:30PM EST 
+* Session 2: January 13, 2022; 3:00PM-4:00PM EST
+* Session 3: January 26, 2022; 12:00PM-1:00PM EST
+* Session 4: January 26, 2022; 3:30PM-4:30P EST
+
+Report requests
+* How may Services does each facility have
+* What services does each facility have
+* What services does each health care system have
+* How many services does each health care system have
+* What PDFs does each health care system have
+
+
 
 Top tasks rollout timing and communications. 
+* Agenda topic for Thursday VHA digital media sync, Jan 20th or 27th
+
+10 Orphaned facilities (including Manila)
+* If they are not in VAST, they should be archived (we can keep these to test the notifications dashboard)
+* If they are in VAST, then what?
+  * Stan and Lisa will explore where to put it and what to do with it. 
+
+
+Menu items in the wrong place
+* Lisa was able to identify menu items that were problematic (two VAMC systems in particular) using the audit XLS
+* Stan and Lisa will sync next week on next steps
+* Menu item depth 6 (Chillicothe and Loma Linda) - Lisa will work with Jeff and 
+
 
 Facility name change updates
-- Potsdam
-- North Florida / South Georgia
+- Potsdam (done)
+- North Florida / South Georgia (close to done)
 
 ## December 17
 - Cancel the next two weeks
