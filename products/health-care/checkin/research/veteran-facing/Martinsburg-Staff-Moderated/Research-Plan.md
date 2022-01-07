@@ -70,7 +70,7 @@ Feedback should be anonymous. Do not collect names or other identifiable informa
 Preferred Collection Method 
 - The staff can utilize an online form tool hosted through Optimal Workshop (example link coming soon). 
 
-Backup Collection Method
+Backup Collection Method 
 - If for some reason the form tool is not approved or unaccessible, the backup method would be an interactive PDF, such as this [interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/6850668/MVP.PilotEvaluation-Feedback.pdf) to capture the feedback from the patient. Staff fills out the documentation.
 - Corey Parker will periodically message the MVP site to gather the feedback documents.
 - If staff would prefer another document type or process to gather feedback, message Kristen.Mcconnell@va.gov with details.
