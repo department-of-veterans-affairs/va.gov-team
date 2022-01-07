@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research
+# Conversation Guide AVA Dashboard 
 
 ## Moderator logistics
 
