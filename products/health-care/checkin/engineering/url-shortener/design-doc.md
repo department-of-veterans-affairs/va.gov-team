@@ -103,7 +103,7 @@ POST /short-urls
 200 OK
 {
   id: "abcdef",
-  short-url: "https://www.va.gov/u/abcdef",
+  short-url: "https://www.va.gov/c/abcdef",
   url: "https://www.va.gov/health-care/appointment-check-in/?id=95688232-40be-423d-9a57-687445bc1c08"
 }
 ```
@@ -305,3 +305,4 @@ TBD
 | Jan 4, 2022 | Initial Draft | Adrian Rollett |
 | Jan 5, 2022 | Added requirements from [IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33449) | Adrian Rollett |
 | Jan 5, 2022 | Add links to diagram source files | Adrian Rollett |
+| Jan 7, 2022 | Update link prefix from `/u/` to `/c/` | Adrian Rollett |
