@@ -20,12 +20,12 @@ This product's goal is to support the veteran to find and access information to 
 
 ## Research Goals	
 What are you trying to learn from this research? 
-How do needs from Spanish speaking veterans differ from the English speaking veterans regarding self service through the chatbot.
-How do Spanish speaking veterans would interact with a chatbot.
+- How do needs from Spanish speaking veterans differ from the English speaking veterans regarding self service through the chatbot.
+- How do Spanish speaking veterans interact with a chatbot.
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
-With the learning we will be able to asess what this group needs and we would be able to evaluate what can we offer from our solution.
+- With the learning we will be able to assess what this group needs and we would be able to evaluate what we can offer from our solution.
 
 
 ### Research questions
@@ -38,29 +38,29 @@ Do they use Spanish as a preferred language?
 
 #Needs:
 
-What information are they looking for?
-What tasks are they trying to complete?
-In which situations do they look for content in Spanish or a different language than English
-Is there a language barrier? Are there enough resources in Spanish at the VA?
-What do they do when they cannot find the information they need in Spanish? 
+- What information are they looking for?
+- What tasks are they trying to complete?
+- In which situations do they look for content in Spanish or a different language than English
+- Is there a language barrier? Are there enough resources in Spanish at the VA?
+- What do they do when they cannot find the information they need in Spanish? 
 
 #Chatbot / Technology:
 
-How would they interact with the chatbot? Translation?
-How would they expect to interact via mobile? (SMS, App based)?
-How do they currently interact through the VA?
-Would they use the chatbot in Spanish?
+- How would they interact with the chatbot? Translation?
+- How would they expect to interact via mobile? (SMS, App based)?
+- How do they currently interact through the VA?
+- Would they use the chatbot in Spanish?
 
 
 ### Hypothesis
 Spanish speaking veterans, especially family members and caregivers would prefer a chatbot as a way of interacting with the VA, rather than via telephone.
 
-Spanish speaking veterans will have similar information needs than the English speaking onex: ex: Facilities, Claims and Appeals. Nevertheless, there can be expected challenges to access this information, as well as independent topics related to language related topics.
+Spanish speaking veterans will have similar information needs than the English speaking ones: ex: Facilities, Claims and Appeals. Nevertheless, there can be expected challenges to access this information, as well as independent topics related to language related topics.
 
 
 ## Method	
 Direct interview with moderated usability testing.
-This method would be able to explote where the needs match and differ between English and Spanish speaking veterans, moderated would allow us to dive deeper into certain topics by asking follow-up questions to the interview or tasks we ask them to complete
+- This method would be able to explore where the needs match and differ between English and Spanish speaking veterans, moderated would allow us to dive deeper into certain topics by asking follow-up questions to the interview or tasks we ask them to complete
 
 
 
@@ -92,14 +92,14 @@ https://staging.va.gov/virtual-agent-study/
 
 **Primary criteria (must-haves)**
 
-Do you speak Spanish as your preferred language? (Answer should be yes)
-Have you interacted or need information from the VA in the last 2 years? (Website, calling) (Answer should be yes)
-Do you consider your English limited or don't speak English? (Answer should be yes) #Added this one to exclude veterans that have fluent in English.
+- Do you speak Spanish as your preferred language? (Answer should be yes)
+- Have you interacted or need information from the VA in the last 2 years? (Website, calling) (Answer should be yes)
+- Do you consider your English limited or don't speak English? (Answer should be yes) #Added this one to exclude veterans that have fluent in English.
 
 
 **Secondary criteria (nice-to-haves)**
-Are you a family member or caretaker? (Would be interesting to get this perspective, as they are not required to a level of English language proficiency)
-Have you used chatbots before?
+- Are you a family member or caretaker? (Would be interesting to get this perspective, as they are not required to a level of English language proficiency)
+- Have you used chatbots before?
 
 ## Timeline
 24 - 28 of January 2021
