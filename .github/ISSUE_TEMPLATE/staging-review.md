@@ -21,7 +21,7 @@ assignees: Shiragoodman
  
 - [ ] Add the Platform reviewers to scheduled meeting
 - [ ] Add Zoom information to scheduled meeting
-- [ ] Create feedback tickets and link them to the Staging Review epic (if no feedback, please comment stating that). 
+- [ ] Create feedback tickets and link them to the Staging Review epic 
 
 ## After meeting
 
