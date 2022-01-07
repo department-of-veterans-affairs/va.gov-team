@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Slack Channels](#slack-channels)
-- [Team Members](#team-members-hce)
+- [Team Members](#team-members---hce)
 - [Related Documents](#related-documents)
 - [Pilot Site](#pilot-site)
 - [Problem Statement](#problem-statement)
