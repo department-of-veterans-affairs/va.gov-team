@@ -68,9 +68,9 @@ Staff at the MVP site(s) will ask Veterans a series of questions ideally towards
 Feedback should be anonymous. Do not collect names or other identifiable information.
 
 Preferred Collection Method 
-- The staff can utilize an online form tool hosted through Optimal Workshop (example link coming soon). **Shane comment: Will the staff be using an iPad/laptop or will the link be given to Vet to use on their mobile device? Please make this clear in the plan.**
+- The staff can utilize an online form tool hosted through Optimal Workshop (example link coming soon). 
 
-Backup Collection Method **Shane comment: PRA is not an issue, but would keep this as an option if technical issues come up using Optimal.**
+Backup Collection Method 
 - If for some reason the form tool is not approved or unaccessible, the backup method would be an interactive PDF, such as this [interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/6850668/MVP.PilotEvaluation-Feedback.pdf) to capture the feedback from the patient. Staff fills out the documentation.
 - Corey Parker will periodically message the MVP site to gather the feedback documents.
 - If staff would prefer another document type or process to gather feedback, message Kristen.Mcconnell@va.gov with details.
