@@ -51,6 +51,9 @@
 |Stephen Barrs|Architect/Lead|stephen.barrs@va.gov|
 |Corey Parker|Sr. Product Manager|corey.parker@gcio.com|
 |Julie Adair|Product Manager|julie.adair@agile6.com|
+|Adrian Rollett|Software Engineer HCE|adrian.rollett@agile6.com|
+|Mark Dewey|Senior Front End Engineer HCE|mark.dewey@gcio.com|
+|Dillo Raju|Senior Back End Engineer HCE|dillo.raju@gcio.com|
 
 ## Related Documents
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
