@@ -28,9 +28,9 @@
     - [Use VA.gov Profile Exclusively](#use-the-existing-vagov-profile-exclusively)
     - [Use VA Profile Exclusively](#use-the-existing-va-profile-servicedifferent-from-vagov-profile-exclusively)
     - [Build New Services](#build-additional-systems-and-services-in-order-to-handle-updated-demographics-information)
+- [Engineering Proposals](#engineering-proposals)
 - [Engineering Questions](#engineering-questions)
 - [Staff Facing Questions](#staff-facing-questions)
-- [Engineering Proposals](#engineering-proposals)
 - [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
 - [Testing Solutions](#testing-solutions)
@@ -424,15 +424,20 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - Can we get another team to do the work on our behalf?
 - Will we be duplicating functionality by not going with VA.gov Profile or VA Profile?
 
+## Engineering Proposals
+
 ## Engineering Questions
 - Where does user demographics information(contact, next-of-kin, emergency-contact) for a veteran live?
+    - The VA Profile team is responsible the veterans contact information.
+    - The VA Profile team will be responsible for the next-of-kin and emergency-contact data belonging to veterans
+    - We're not sure about the underlying databases or systems which house the veterans demographic data
 - Where can we find contact information for the VA Profile team?
-- Can we update a user's demographics information if we create our own service(lambda or other)?
-- If we don't have permission to update a user's sensitive information, can we contest that decison in anyway?
+    - Pending
+    - Stephen Barrs will serve as a potential point of contact while we explore the integration
+- How can we validate an address which a veteran might update or enter from the UI?
+    - VA Profile API provides it's clients an address validation endpoint which we can use to make sure that the provided address is valid
 
 ## Staff Facing Questions
-
-## Engineering Proposals
 
 ## Engineering Solutions
 
