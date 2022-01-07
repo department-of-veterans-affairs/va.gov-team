@@ -24,7 +24,7 @@ Provide a highly scalable & reliable URL shortening service under the [www.va.go
 
 
 * An API for creating shortened URLs is available to the CHIP & VEText teams
-* Shortened URLs are available under the www.va.gov/u/(TBD) path immediately after creation
+* Shortened URLs are available under the www.va.gov/c/ path immediately after creation
 
 This document is intended to facilitate review & approval of the shortening solution by VA technical staff & stakeholders & provide clear implementation guidance to project engineers.
 
@@ -50,14 +50,14 @@ The system design centers around the ability to configure [redirect locations fo
 
 #### URL Creation
 
-Shortened URLs are created by [invoking a Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html) via [API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html) with the URL to be shortened as the main parameter. The Lambda function generates a short unique identifier and creates an S3 object with a redirect to the provided URL. Finally, the Lambda function returns the shortened URL (e.g. `https://www.va.gov/u/abcdef`) to the API consumer.
+Shortened URLs are created by [invoking a Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html) via [API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html) with the URL to be shortened as the main parameter. The Lambda function generates a short unique identifier and creates an S3 object with a redirect to the provided URL. Finally, the Lambda function returns the shortened URL (e.g. `https://www.va.gov/c/abcdef`) to the API consumer.
 
 ![Short URL Creation](https://user-images.githubusercontent.com/101649/148139300-06bcbab8-d74c-4e07-a04b-1136c923b577.png)
 ([UML Source](create_short_url.txt))
 
 #### URL Serving
 
-When a veteran visits a shortened URL such as `https://www.va.gov/u/abcdef,` the [VA.gov reverse proxy](https://vfs.atlassian.net/wiki/spaces/OT/pages/1474594232/Reverse+Proxy) forwards the request to the [web-hosting enabled S3 bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) with the same object identifier, e.g.:
+When a veteran visits a shortened URL such as `https://www.va.gov/c/abcdef,` the [VA.gov reverse proxy](https://vfs.atlassian.net/wiki/spaces/OT/pages/1474594232/Reverse+Proxy) forwards the request to the [web-hosting enabled S3 bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) with the same object identifier, e.g.:
 
 
 ```
