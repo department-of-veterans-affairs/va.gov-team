@@ -86,10 +86,11 @@ Benefits:
 
 ## Sprint Review: 
 
-A ceremony facilitated by the PM where the Team provides a demonstration of completed functionality to the Product Owner and DSVA Lead for acceptance of the finished work.
-* Held at the end of each Sprint to inspect completed work 
+Each VSA product team has the opportunity to share things they’re most excited about from the past sprint with OCTO-DE, Platform, VSA Leads, and other VSA teams. The goal—greater awareness of each other’s work to foster collaboration and shared learnings.
 
-__*The outcome of a Sprint Review meeting is to provide wider visibility to the Product Owner and DSVA of work finished in the Sprint.*__
+[Additional guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/vsa-sprint-demo.md#sprint-demo)
+
+* Held at the end of each Sprint to inspect completed work 
 
 
 
