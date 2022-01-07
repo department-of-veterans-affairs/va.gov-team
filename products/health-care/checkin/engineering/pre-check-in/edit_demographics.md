@@ -21,9 +21,12 @@
 - [Engineering Questions](#engineering-questions)
 - [Staff Facing Dependencies](#staff-facing-dependencies)
 - [Engineering Proposals](#engineering-proposals)
-- [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
 - [Testing Solutions](#testing-solutions)
+- [Engineering Solutions](#engineering-solutions)
+- [Goals and Milestones](#goals-and-milestones)
+- [Prioritization](#prioritization)
+- [Timeline](#timeline)
 - [Application Performance Management](#application-performance-management)
 - [Applications and Services](#applications-and-services)
     - [Vets Website](#vets-website)
@@ -362,11 +365,23 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 
 ## Engineering Proposals
 
-## Engineering Solutions
-
 ## Testing Questions
 
 ## Testing Solutions
+
+## Engineering Solutions
+
+### Vets-Website FE
+### Vets-API BE
+### CHIP BE
+### LoROTA BE
+### VA Profile Service BE
+
+## Goals and milestones
+
+## Prioritization
+
+## Timeline
 
 ## Application Performance Management
 * APM tools
