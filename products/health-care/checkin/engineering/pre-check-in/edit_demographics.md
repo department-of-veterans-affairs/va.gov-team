@@ -53,13 +53,15 @@
 |Julie Adair|Product Manager|julie.adair@agile6.com|
 |Kristen McConnell|Managing Senior UX Designer HCE|Kristen.McConnell@adhocteam.us|
 |Nira Datta|UX/Content/Research|nira.datta@civicactions.com|
+|Ya-ching Tsao|Product Designer HCE|yaching.tsao@civicactions.com|
+|Zach Park|UX/UI Designer HCE|zach.park@agile6.com|
 |Adrian Rollett|Software Engineer HCE|adrian.rollett@agile6.com|
 |Mark Dewey|Senior Front End Engineer HCE|mark.dewey@gcio.com|
-|Dillo Raju|Senior Back End Engineer HCE|dillo.raju@gcio.com|
-|Gaurav Gupta|Senior Engineer HCE|ggupta@kindsys.us|
-|Dan Goodwin|Front End Engineer HCE|dan.goodwin@civicactions.com|
-|Kanchana Suriyamoorthy|Senior Engineer HCE|ksuriyamoorthy@kindsys.us|
 |Brian Seek|Front End Engineer HCE|brian.seek@civicactions.com|
+|Dan Goodwin|Front End Engineer HCE|dan.goodwin@civicactions.com|
+|Gaurav Gupta|Senior Engineer HCE|ggupta@kindsys.us|
+|Kanchana Suriyamoorthy|Senior Engineer HCE|ksuriyamoorthy@kindsys.us|
+|Dillo Raju|Senior Back End Engineer HCE|dillo.raju@gcio.com|
 
 ## Related Documents
 * [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
