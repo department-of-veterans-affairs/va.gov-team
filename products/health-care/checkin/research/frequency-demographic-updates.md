@@ -14,4 +14,10 @@ As a veteran I only want to be asked to update my demographic information at cer
 Conduct a landscape/competitive analysis of Cerner, Epic, and Phressia to understand current guidelines. 
 
 ## Initial Findings/Sources
-From 
+Cerner
+
+Epic
+
+Martinsburg Policy 
+
+Considering Health Disparities
