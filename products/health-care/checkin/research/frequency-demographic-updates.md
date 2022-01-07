@@ -15,9 +15,11 @@ Conduct a landscape/competitive analysis of Cerner, Epic, and Phressia to unders
 
 ## Initial Findings/Sources
 Cerner
+- According to Lauren Alexanderson; VAs in Washington State requires updates at every patient encounter. "Spokane confirmed that they check demographics every time a veteran comes in"
 
 Epic
 
-Martinsburg Policy 
+VHA Directive 1604 
+Interpitation by Martinsburg, WV references this directive as the reason staff are required to review demographic information at every encounter. Corey Parker is following up for more detailed information as we've reviewed the directive at it wasn't evident. 
 
 Considering Health Disparities
