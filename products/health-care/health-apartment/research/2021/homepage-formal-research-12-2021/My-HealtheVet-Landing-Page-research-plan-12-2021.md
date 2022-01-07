@@ -51,14 +51,17 @@ Our intended audience for this research is Veterans. We are planning to recruit 
 * Age: At least 4 people age 55+
 
 ### Secondary criteria
-* Gender: At least 2 women
-* Inclusion: At least 2 people of color
+* Gender: At least 4 women
+* Inclusion: 
+  * At least 2 people of color
+  * At least one person who identifies as LGBTQ+
 * Geography: Participants from East Coast, West Coast, and the Midwest
 * Disability: At least three participants who use DAT
 
 **What we expect to learn:**
-* Veterans who use My HealtheVet will help us understand if the new layout of the tasks they're accustomed to doing in MHV are as easy as they're used to, if not easier.
-* Veterans who do not use the My HealtheVet website will help us understand if the health apartment homepage is easy to use for people who do not use My HealtheVet.
+* Veterans who have "most common tasks" will show us whether those tasks are present and accessible on the new My HealtheVet landing page concept
+* Some of the tasks we'll ask Veterans to find and initiatiate ([see conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-formal-research-12-2021/MyHealtheVet-authenticated-landing-page-Conversation-guide.md)) are pulled directly from our [IA Tree Test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/IA-tree-test-11-2021/IA-tree-test-analysis.md), and had some of the lowest success rates from that test. This research should teach us whether the proposed homepage concept improves the success rate of those tasks.
+
 
 ## When?
 Conduct research: TBD, Late January-Early February
@@ -67,6 +70,6 @@ Length of session: 1 hour sessions with 15 minutes between sessions
 
 Moderator availability: TBD
 
-Draft of conversation guide complete: TBD
+Draft of conversation guide complete: January 7
 
 Mock interview complete: TBD
