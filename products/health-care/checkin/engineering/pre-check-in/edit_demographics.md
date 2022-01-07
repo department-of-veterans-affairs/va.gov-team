@@ -434,9 +434,14 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
     - We're not sure about the underlying databases or systems which house the veterans demographic data
 - Where can we find contact information for the VA Profile team?
     - Pending
+- Who is responsible for initiating the conversation with the VA Profile team?
     - Stephen Barrs will serve as a potential point of contact while we explore the integration
 - How can we validate an address which a veteran might update or enter from the UI?
     - VA Profile API provides it's clients an address validation endpoint which we can use to make sure that the provided address is valid
+- Can we get the VA Profile team to support updating *Next-of-Kin* or *Emergency Contact* information and who will be responsible for spear heading this initiative??
+- How long will it take the VA Profile team to provide this additional functionality if they agree to implement our request?
+- How will this affect other teams on va.gov?
+- Will the user demographics changes be reflected instantaneously across the relevant VA systems?
 
 ## Staff Facing Questions
 
