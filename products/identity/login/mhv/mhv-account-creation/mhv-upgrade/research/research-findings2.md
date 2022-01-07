@@ -13,7 +13,7 @@ Does the Veteran accept the terms and conditions? Does the Veteran understand wh
 
 We spoke with 5 Veterans.
 
-The conversation guide can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/mhv/mhv-account-creation/mhv-upgrade/research/conversationguide2.md
+The conversation guide can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/mhv/mhv-account-creation/mhv-upgrade/research/conversationguide2.md
 
 ## Key Takeaways
 - Users did not read the terms and conditions and tried to click the agree button/checkbox immediately without scrolling.

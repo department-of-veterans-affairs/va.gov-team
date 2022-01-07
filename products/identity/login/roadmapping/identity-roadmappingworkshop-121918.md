@@ -10,7 +10,7 @@ More veterans can access benefits and services that rely on personal information
 5. **Increase identity account usage:** More veterans have and use secure, identity verified accounts that give access to additional benefits and service.
 
 ## Goal-related problems:
-Problems are graphed based on Value - Cost - Controllability here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/roadmapping/identity-prioritizedproblems.md
+Problems are graphed based on Value - Cost - Controllability here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/roadmapping/identity-prioritizedproblems.md
 
 ### 1. Improve Login:
 - Login has errors that prevent successful completion. 5-4-2

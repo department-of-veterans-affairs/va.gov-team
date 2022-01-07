@@ -1,6 +1,6 @@
 # VA.gov Login
 #### Research conducted by Ad Hoc for the VA.gov project
-[Original research documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/ds-logon/research) 
+[Original research documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/ds-logon/research) 
 
 ## Takeaways to inform DS Logon Research
 - Multi-factor authentication can be difficult for communities that use accessibility tools

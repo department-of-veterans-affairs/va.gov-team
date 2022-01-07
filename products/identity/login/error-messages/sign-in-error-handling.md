@@ -27,11 +27,11 @@ This document outlines how login error handling works for va.gov, including the 
 ## 001 Authorization of VA.gov is denied
 
 #### Reason this error appears:
-* After the identity verification process is successfully completed, the [Authorize VA screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/alerts/01-authorize-va-screen.png) displays and the user clicks **Deny** instead of **Allow**. 
-* If the user denies authorization and signs in again later, the [Authorize VA  screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/alerts/01-authorize-va-sign-in-screen.png) displays again. If they choose **Deny**, they will see the error again.
+* After the identity verification process is successfully completed, the [Authorize VA screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/alerts/01-authorize-va-screen.png) displays and the user clicks **Deny** instead of **Allow**. 
+* If the user denies authorization and signs in again later, the [Authorize VA  screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/alerts/01-authorize-va-sign-in-screen.png) displays again. If they choose **Deny**, they will see the error again.
 
 #### How to resolve: 
-The user can sign in and click **Allow** on the [Authorize VA  screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/alerts/01-authorize-va-sign-in-screen.png).
+The user can sign in and click **Allow** on the [Authorize VA  screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/alerts/01-authorize-va-sign-in-screen.png).
 
 #### Front End Error Message
 

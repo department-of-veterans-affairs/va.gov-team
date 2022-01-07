@@ -7,7 +7,7 @@ Date: 08/24/2021
 
 [Research Report PDF] (link here)
 
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login.gov/Login.gov-research-plan.md).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Login.gov-research-plan.md).
 
 **Jump to:**
 

@@ -16,13 +16,13 @@ Users can sign in on VA.gov using one of three Identity Providers:
 
 Sign-in CTAs are found in upper-right hand corner of the header of every VA.gov page and should be made available in-page on any product that requires or benefits from adding sign-in. You can see an [in-page CTA example shown on one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/). If the user runs into issues, they can visit the [Login FAQ page here](https://staging.va.gov/sign-in-faq/) or submit a [login help request form here](https://www.accesstocare.va.gov/sign-in-help) which sends submitted information to the VA.gov Microsoft Dynamics instance.
 
-[This overview document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each login.
+[This overview document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each login.
 
-[The login product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/user-login/loginproductoutline.md) provides a fuller overview on login.
+[The login product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/loginproductoutline.md) provides a fuller overview on login.
 
 ## Connecting to MVI
 
-Each identity provider on VA.gov gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Veteran Index (MVI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/user-login/login-data-flow.md). In order for us to attempt a connection to MVI, the user's account level must be LOA3 ([see more on LOA below](#Understanding-LOA)).
+Each identity provider on VA.gov gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Veteran Index (MVI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md). In order for us to attempt a connection to MVI, the user's account level must be LOA3 ([see more on LOA below](#Understanding-LOA)).
 
 If we are able to succesfully connect a user to a record in MVI, we get back a [list of attributes]() that can be leveraged throughout VA.gov to provide access to additional digital services. This allows the user to access products such as the profile and dashboard, which display personal information and actions in flight with the VA, as well as pre-fill information on an application directly from their Veteran Record in MVI.
 
@@ -33,7 +33,7 @@ If we are able to succesfully connect a user to a record in MVI, we get back a [
 
 We can only connect a user to a Veteran Record in MVI if we are confident that they are who they say they are. Each identity provider has its own identity verification system used to assure VA.gov that the user's identity is trustworthy.
 
-A user may sign in with an LOA1 account, and have the option to upgrade their account to LOA3 on VA.gov through ID.me's identity verification process, even if they logged in with a DS Logon or MHV account ([more details here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/va.gov-id.me-user-flow-overview-06-05-2019.pdf))
+A user may sign in with an LOA1 account, and have the option to upgrade their account to LOA3 on VA.gov through ID.me's identity verification process, even if they logged in with a DS Logon or MHV account ([more details here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/va.gov-id.me-user-flow-overview-06-05-2019.pdf))
 
 Each identity provider has various account levels, which are mapped to VA.gov's concept of LOA as shown below:
 ```
@@ -67,4 +67,4 @@ LOA3 users are more trusted, and will often have more information and access to 
 
 LAO1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider. 
 
-Given the multi-tiered nature of identity on VA.gov, there error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/error-messages).
+Given the multi-tiered nature of identity on VA.gov, there error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages).

@@ -11,12 +11,12 @@ This directory contains a plethora of historical and current-state information a
 ## Quick Links
 
 ### Product Reference Documents
-* [Getting Started with Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/gettingstartedidentity.md)
+* [Getting Started with Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
 * [Authentication and Authorization Product Outline]()
-* [Login Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/user-login/loginproductoutline.md)
-* [SSO Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/sso)
-* [Login Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/analytics/readme.md)
-* [Identity & Login Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/readme.md)
+* [Login Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/loginproductoutline.md)
+* [SSO Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso)
+* [Login Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/analytics/readme.md)
+* [Identity & Login Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/readme.md)
 * [MVI Attributes & Services]()
 * [Understanding LOA]()
 * [Sign-in-FAQ page](https://www.va.gov/sign-in-faq)
@@ -24,17 +24,17 @@ This directory contains a plethora of historical and current-state information a
 
 
 ### Technical Reference Documents
-* [Front-End Login and Logout Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/login/fe-login-and-logout.md)
-* [Login Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/user-login/login-data-flow.md)
-* [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/authentication-and-authorization.md) (primarily technical)
-* [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/authentication-and-authorization-simplified.md) (less technical, more context)
-* [ID.me/VA.gov Integration Configuration reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/idme-config.md)
+* [Front-End Login and Logout Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/login/fe-login-and-logout.md)
+* [Login Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md)
+* [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) (primarily technical)
+* [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization-simplified.md) (less technical, more context)
+* [ID.me/VA.gov Integration Configuration reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/idme-config.md)
 * [User Data](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) (swagger documentation)
 * [User Serializer](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/serializers/user_serializer.rb#L97-L116)
 
 ### Design & User Research Reference Documents
-* [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/design/readme.md)
-* [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/research)
+* [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/design/readme.md)
+* [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/research)
 
 ## Additional Notes
 

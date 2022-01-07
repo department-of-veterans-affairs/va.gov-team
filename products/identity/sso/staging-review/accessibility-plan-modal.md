@@ -1,10 +1,10 @@
 # SSO Accessibility Test Cases - Modal
 
-* See the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/README.md) for specifics about this new feeature.
-* [Test Credentials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-test-credentials.md)
+* See the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/README.md) for specifics about this new feeature.
+* [Test Credentials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/accessibility-test-credentials.md)
 * Enter your unique product/feature data into the copied documents before requesting a [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) with VSP.
 * [Sign-in Page](https://staging.va.gov/sign-in/?application=myvahealth)
-* Manual tests including color comparisons, color blindness, zoom testing, keyboard, and screen reader testing for the stand-along sign-in page and the SSO comms modal can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/SSO-Login_Screen_Accessibility_Tests.pdf) 
+* Manual tests including color comparisons, color blindness, zoom testing, keyboard, and screen reader testing for the stand-along sign-in page and the SSO comms modal can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/assets/SSO-Login_Screen_Accessibility_Tests.pdf) 
 
 ## Automated testing (required)
 
@@ -14,7 +14,7 @@ This will be the automated tests teams must run before requesting a staging acce
 
 0 Violations - 21 Needs Review - 0 Rejected - 4 Best Practices
 
-![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/AXE_report_modal.png)
+![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/assets/AXE_report_modal.png)
 
 ---
 
@@ -32,7 +32,7 @@ N/A
 ### Scan with axe-coconut (recommended)
 0 Violations - 21 Needs Review - 0 Rejected - 4 Best Practices
 
-![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/AXE_coconut_modal.png)
+![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/assets/AXE_coconut_modal.png)
 
 ---
 
@@ -46,11 +46,11 @@ N/A
 
 1 Error - Request for waiver.
 
-![WAVE plugin summary pane](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/modal_wave.png)
+![WAVE plugin summary pane](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/assets/modal_wave.png)
 
-![WAVE Error Detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/WAVE_error_explanation.png)
+![WAVE Error Detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/assets/WAVE_error_explanation.png)
 
-![WAVE Error Image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/WAVE_error_image.png)
+![WAVE Error Image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/assets/WAVE_error_image.png)
 
 ---
 
@@ -77,7 +77,7 @@ TBD
 
 ## Manual testing (required)
 
-Manual test results can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/SSO-Login_Screen_Accessibility_Tests.pdf)
+Manual test results can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/assets/SSO-Login_Screen_Accessibility_Tests.pdf)
 
 ### Color comparisons (required)
 

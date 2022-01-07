@@ -71,92 +71,92 @@ Using the card sort participants were able to rank all the attribute cards from 
 
 # Details of Findings
 
-*The data from the Card sort are available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login.gov/Login.gov-Sign-In-Attributes-Card-Sort-Data.xlsx). Download to view.*
+*The data from the Card sort are available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Login.gov-Sign-In-Attributes-Card-Sort-Data.xlsx). Download to view.*
 
 <br>
 
 ### **Finding 1 - “The sign in option is free” data points are spread out**
 
-Labels: PRDT: Identity-personalization, RESRCH: Remote, RESRCH: Usability
+Labels: PRDT: identity, RESRCH: Remote, RESRCH: Usability
 
 “The sign in option is free” users are well spread. A new approach to this question should be taken. Maybe if the question is rephrased.
 
-> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-free.png)_
+> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-free.png)_
 
-> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-free.png)_
+> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-free.png)_
 
 
 <br>
 
 ### **Finding 2 - 56.6% of users prefer “The sign in option is free” as important or extremely important.**
 
-Labels: PRDT: Identity-personalization, RESRCH: Remote, RESRCH: Usability
+Labels: PRDT: identity, RESRCH: Remote, RESRCH: Usability
 
 About 56.6% of users prefer “The sign in option is free” as important or extremely important. This does not mean that 44.4% of users find it neutral or not important at all, but rather there was no indication of cost.
 
-> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-free.png)_
+> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-free.png)_
 
-> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-free.png)_
+> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is free](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-free.png)_
 
 <br>
 
 ### **Finding 3 - 56.7% of users okay with the process being created through a privately owned company.**
 
-Labels: PRDT: Identity-personalization, RESRCH: Remote, RESRCH: Usability
+Labels: PRDT: identity, RESRCH: Remote, RESRCH: Usability
 
 “The sign in option is created, maintained, and secured by a privately owned company.”  finds about 56.7% of users okay with the process being created through a privately owned company. It seems like only 20% of users would rather have the sign in option be created by a different owner. This should be explored.
 
-> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by a privately owned company.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-comapny.png)_
+> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by a privately owned company.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-comapny.png)_
 
-> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by a privately owned company.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-company.png)_
+> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by a privately owned company.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-company.png)_
 
 <br>
 
 ### **Finding 4 - Users want the sign in process to be secure and compliant to the latest federal guidelines.**
 
-Labels: PRDT: Identity-personalization, RESRCH: Remote, RESRCH: Usability
+Labels: PRDT: identity, RESRCH: Remote, RESRCH: Usability
 
 Users want the sign in process to be secure and compliant to latest federal guidelines. Do users know about this expectation or do they want more security? The data does not explain their behavior or decisions.
 
-> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is secure and compliant with the latest federal guidelines.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-guidelines.png)_
+> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is secure and compliant with the latest federal guidelines.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-guidelines.png)_
 
-> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is secure and compliant with the latest federal guidelines.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-guidelines.png)_
+> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is secure and compliant with the latest federal guidelines.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-guidelines.png)_
 
 <br>
 
 ### **Finding 5 - “The sign in option is created, maintained, and secured by the U.S. Government.” is quite sparse.**
 
-Labels: PRDT: Identity-personalization, RESRCH: Remote, RESRCH: Usability
+Labels: PRDT: identity, RESRCH: Remote, RESRCH: Usability
 
 “The sign in option is created, maintained, and secured by the U.S. Government.” is quite sparse. 53.3% would like the government to own the sign in option. 30% feel neutral.
 
-> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by the U.S. Government.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-gov.png)_
+> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by the U.S. Government.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-gov.png)_
 
-> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by the U.S. Government.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-gov.png)_
+> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option is created, maintained, and secured by the U.S. Government.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-gov.png)_
 
 <br>
 
 ### **Finding 6 - There is a 4.9% of users that find that “The sign in option protects my privacy” is not important at all.**
 
-Labels: PRDT: Identity-personalization, RESRCH: Remote, RESRCH: Usability
+Labels: PRDT: identity, RESRCH: Remote, RESRCH: Usability
 
 There is a 4.9% of users that find that “The sign in option protects my privacy” is not important at all. This is pretty concerning and should be explored. Is there a pain point or rather the question is unclear?
 
-> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option protects my privacy.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-privacy.png)_
+> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option protects my privacy.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-privacy.png)_
 
-> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option protects my privacy.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-privacy.png)_
+> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option protects my privacy.](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-privacy.png)_
 
 <br>
 
 ### **Finding 7 - “The sign in option gives me access to many government services with a  single account (eg: VA, Social Security, USA Jobs, etc.)” is important, or extremely important.**
 
-Labels: PRDT: Identity-personalization, RESRCH: Remote, RESRCH: Usability
+Labels: PRDT: identity, RESRCH: Remote, RESRCH: Usability
 
 76.7% or 46 participants feel that “The sign in option gives me access to many government services with a  single account (eg: VA, Social Security, USA Jobs, etc.)” is important, or extremely important. If users want a single sign in to access more government services, this might be a feature that should be looked into.
 
-> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option gives me access to many government services with a  single account (eg: VA, Social Security, USA Jobs, etc.)](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-etc.png)_
+> _Supporting data: ![Bar Chart of the Sign In Card Sort - The sign in option gives me access to many government services with a  single account (eg: VA, Social Security, USA Jobs, etc.)](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Bar%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-total-etc.png)_
 
-> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option gives me access to many government services with a  single account (eg: VA, Social Security, USA Jobs, etc.)](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity-personalization/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-etc.png)_
+> _Supporting data: ![Pie Chart of the Sign In Card Sort - The sign in option gives me access to many government services with a  single account (eg: VA, Social Security, USA Jobs, etc.)](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/identity/login.gov/Charts/Pie%20Charts/Login.gov-sign-in-attributes-card-sort-data-results-percentage-etc.png)_
 
 <br>
 
@@ -194,7 +194,7 @@ _None_
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login.gov/signin-provider-research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/signin-provider-research-plan.md)
 
 [Conversation guide]
 
@@ -206,5 +206,5 @@ _None_
 
 ## Other supporting documents created
 
-1. [Sign-In Card Sort Data Set](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login.gov/Login.gov-Sign-In-Attributes-Card-Sort-Data.xlsx)
+1. [Sign-In Card Sort Data Set](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/Login.gov-Sign-In-Attributes-Card-Sort-Data.xlsx)
 

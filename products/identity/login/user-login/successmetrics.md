@@ -88,7 +88,7 @@ Success rate for MFA (9/2018):
 - [Success funnels for login & registration](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/U_bnaGd1QdWQwS0e-J0pOQ/a50123418w177519031p184624291/_u.dateOption=last30days&_r.tabId=81/)
 - [Login usage dashboard](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.dateOption=last30days&_.useg=userlSoCJs-8RzS8ITs0kUtVPA,userm6kH3yFDRuS28OYZ55HxFA&overview-graphOptions.primaryConcept=analytics.totalVisitors/)
 - [Login errors (user-facing)](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.dateOption=last7days&_.useg=builtin1&explorer-segmentExplorer.segmentId=analytics.eventLabel&_r.drilldown=analytics.eventCategory:Sign-on&explorer-table.plotKeys=%5B%5B%22login-error-user-fetch%22%5D%5D&explorer-table.rowCount=10&explorer-table.filter=login-error&explorer-table-dataTable.sortColumnName=analytics.totalEvents&explorer-table-dataTable.sortDescending=true/)
-- [Login flow chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/analytics/logingaflowchart.md)
+- [Login flow chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/analytics/logingaflowchart.md)
 - [Login-specific GA events (total list)](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.dateOption=last30days&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventCategory:Sign-on,analytics.eventAction:Login%20-%20vagovprod/)
 
 

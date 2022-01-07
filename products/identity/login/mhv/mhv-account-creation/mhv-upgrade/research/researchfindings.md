@@ -11,7 +11,7 @@ Did they understand they can select one without the other? (re medical consent v
 
 We spoke with 3 Veterans. 
 
-The conversation guide can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/mhv/mhv-account-creation/mhv-upgrade/research/conversationguide-4-17-17.md
+The conversation guide can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/mhv/mhv-account-creation/mhv-upgrade/research/conversationguide-4-17-17.md
 
 Mockups: https://marvelapp.com/3687i59 and https://marvelapp.com/5995e2b/screen/26766158 
 

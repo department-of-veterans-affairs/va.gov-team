@@ -70,7 +70,7 @@ Sentry Error Links:
     - [Multiple MHV IDs not really being worthy of an error](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/17325)
 
 ## Notes
- - [Error notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/error-messages)
+ - [Error notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages)
  - V1 Outbound we NEVER expect a user to be missing an ID.me UUID because we are using ID.me as the broker
  - We care if ssn mismatch when its v1, dont care for v0.
  - Generally we agreed that Sentry as its setup today is supposed to provide the Identity team with the ability to be alerted of significant issues and troubleshooting. Many of the errors being written to Sentry cannot be resolved by the Identity team and it is also expected that an error page is displayed to the end user, or the responsible team also is made aware through other solutions of some of these issues. Therefore we agreed on a few key requirements for Sentry moving forward:

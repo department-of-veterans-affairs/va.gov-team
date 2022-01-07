@@ -8,7 +8,7 @@ is different and much has changed since then, a new document was created.
 
 What is [SSOe](https://github.com/department-of-veterans-affairs/va-sso/tree/master/SSOe)
 and what advantages does that have over the
-[original SSO implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/sso/design)
+[original SSO implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/sso/design)
 on VA.gov?
 
 Before the SSOe integration project, VA.gov used ID.me as both the [identity 
@@ -29,7 +29,7 @@ Thus VA.gov would no longer directly broker a SAML request to ID.me, instead it
 brokers the request to eauth.va.gov (SSOe), which then passes along the request to
 ID.me.
 
-[Sequencing diagram illustrating the difference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6c5480d3921f6fd1ac313089db82f9f2bfc5b000/products/identity-personalization/sso/security-review/SSOSecurityReview.md#sequence-diagrams)
+[Sequencing diagram illustrating the difference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6c5480d3921f6fd1ac313089db82f9f2bfc5b000/products/identity/sso/security-review/SSOSecurityReview.md#sequence-diagrams)
 
 
 #### A second broker
