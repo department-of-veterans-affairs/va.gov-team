@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Slack Channels](#slack-channels)
-- [Team Members](#team-members)
+- [Team Members](#team-members-hce)
 - [Related Documents](#related-documents)
 - [Pilot Site](#pilot-site)
 - [Problem Statement](#problem-statement)
@@ -43,7 +43,7 @@
 - [#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS)
 - [#check-in-experience-ux](https://dsva.slack.com/archives/C02GXKL8WM6)
 
-### Team Members  
+### Team Members - HCE  
   
 |Name|Role|Email|
 |----|----|-----|
