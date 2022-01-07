@@ -19,8 +19,8 @@ Tressa explained what we want to do with the new design component (mainly on On-
      - [Tressa response] Erred on the side of more priority
 - Rather than showing an embedded alert/notification, what about push/system notification?  Is there something about where users can decide how to receive this kind of notification?
      - [Tressa response] This is MVP, being pulled/triggered by va notify, while other notices are triggered in backend.
-     - [Tressa response] Want to move toward all notifications being at the top, together, possibly feeding to a hub
-     - [Tressa response] Want to have an indicator in navigation or something to show pending notifications, and other enhancements (future)
+     - [Tressa response] Eventually, may want to move toward all notifications being at the top, together, possibly feeding to a hub
+     - [Tressa response] Eventually, may want to have an indicator in navigation or something to show pending notifications, and other enhancements (future)
 - Kevin reframes: From a veteran experience, the larger goal is for them to be notified where they can take action. Already receiving emails, texts and push notifications.  Receiving an email saying new debt and going to va.gov My VA and seeing it too, consistency.  What can we learn from this MVP POC using a mod of background only alert (more content structure)?  Would this benefit that alert only? From experimental, how can we validate the benefit of this mod? 
 - Is this an alert or a text link with a background?  We dont feel this is an alert.  That is what led to coming to experimental design.
 - Is there potential for trauma experience/negative experience with these design changes?
