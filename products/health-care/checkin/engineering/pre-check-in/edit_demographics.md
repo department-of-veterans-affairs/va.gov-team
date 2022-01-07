@@ -463,6 +463,8 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
     - Pending
 - How will this affect other teams on va.gov? Will this have a negative effect on the VA.gov Profile system?
 - Will the user demographics edits/changes be reflected instantaneously across the relevant VA systems?
+- Will it be confusing for the user to navigate to their profile page after editing their next-of-kin or emergency-contact information and not see that information populated in the profile?
+- Does VA Profile have the ability to update the timestamp on file 41.41 if the veteran confirms that none of their demographics information has changed using their mobile device or desktop computer?
 
 ## Staff Facing Questions
 
