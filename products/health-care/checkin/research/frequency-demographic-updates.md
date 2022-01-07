@@ -3,6 +3,7 @@
 ## Background & Goals
 While we cannot make the decision on how often a veteran should be prompted to update his/her demographic information, we CAN provide a recommendation for best practice based on research. We need to determine the ideal frequency for programmatically determining when to ask the veteran for demographic updates.
 
+Note: our current scope for veteran demographics are all the different addresses, email, phone numbers, next of kin, and emergency contact information.
 
 ### Research Question
 - How often should Veterans be prompted to review their demographic information? What are the current industry standards?
