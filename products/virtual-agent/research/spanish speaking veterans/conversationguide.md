@@ -87,7 +87,6 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 ## Third Task: [Ask General Question] - 5 minutes
 
 - Now that you have read the intro text, I'd like you to ask the chatbot a general question about benefits **in Spanish(?)**.
-- Next copy and paste which response you would like to view for a link, preview or full chatbot response.
 - Please take a moment to read the chatbot response and click any links that may be relevant to your question. What do you think about the info provided? Is it helpful? Why or why not? If not, what would you expect to see as a response instead?
 - [If they can't understand the content] What would you do next to try to find this information? What action would you take?
 - Please copy/paste the next view you want to read
