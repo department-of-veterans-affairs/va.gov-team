@@ -10,6 +10,16 @@
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
+- [Applications and Services](#applications-and-services)
+    - [Vets Website](#vets-website)
+    - [Vets-API](#vets-api)
+    - [CHIP](#chip)
+    - [LoROTA](#lorota)
+    - [Profile Service](#profile-service)
+    - [Vista](#vista)
+    - [VEText](#vetext)
+    - [VA.gov Profile](#vagov-profile)
+    - [VA Profile](#va-profile)
 - [User Scenarios](#user-scenarios)
     - [Happy Path Stories](#happy-path-stories)
     - [Error Path Stories](#error-path-stories)
@@ -28,16 +38,6 @@
 - [Prioritization](#prioritization)
 - [Timeline](#timeline)
 - [Application Performance Management](#application-performance-management)
-- [Applications and Services](#applications-and-services)
-    - [Vets Website](#vets-website)
-    - [Vets-API](#vets-api)
-    - [CHIP](#chip)
-    - [LoROTA](#lorota)
-    - [Profile Service](#profile-service)
-    - [Vista](#vista)
-    - [VEText](#vetext)
-    - [VA.gov Profile](#vagov-profile)
-    - [VA Profile](#va-profile)
 - [Footnotes](#footnotes)
 
 ### Slack Channels
@@ -106,6 +106,15 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 * Metrics that we want to track
     - Metric one
     - Metric two
+    - 
+## Application Performance Management
+* APM tools
+    * [Datadog Check-In](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1638711177523&to_ts=1641303177523&live=true)
+    * Cloudwatch
+    * Grafana
+    * [Sentry Error Tracking](http://sentry.vfs.va.gov/organizations/vsp/issues/?project=3&project=4)
+    * ELK
+    * [Loki Logs](http://grafana.vfs.va.gov/explore?orgId=1&left=%5B%22now-24h%22,%22now%22,%22Loki%20(Prod)%22,%7B%7D%5D)
 
 ## User Scenarios
 
@@ -382,15 +391,6 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ## Prioritization
 
 ## Timeline
-
-## Application Performance Management
-* APM tools
-    * [Datadog Check-In](https://app.datadoghq.com/dashboard/tmn-f5f-e9r/check-in-vets-api?from_ts=1638711177523&to_ts=1641303177523&live=true)
-    * Cloudwatch
-    * Grafana
-    * [Sentry Error Tracking](http://sentry.vfs.va.gov/organizations/vsp/issues/?project=3&project=4)
-    * ELK
-    * [Loki Logs](http://grafana.vfs.va.gov/explore?orgId=1&left=%5B%22now-24h%22,%22now%22,%22Loki%20(Prod)%22,%7B%7D%5D)
 
 ## Applications and Services
 
