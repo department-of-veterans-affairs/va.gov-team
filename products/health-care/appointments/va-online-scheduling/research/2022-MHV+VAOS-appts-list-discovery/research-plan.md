@@ -58,9 +58,9 @@ Veterans largely use the MyHealtheVet appointments list to understand and manage
 
 
 ## Method	
-First we'll run a contextual inquiry, by asking participants to access the MHV appointments list and VAOS appointments list, and observing how they use those features.
+First we'll run a **contextual inquiry** by asking participants to access the MHV appointments list and VAOS appointments list, and observing how they use those features.
 
-[MAYBE] Then we'll run a concept study with those participants, showing them an updated version of the VAOS home page on desktop and asking them questions about how this might change their experience.
+Then we'll run a **concept test** by showing participants an updated version of the VAOS home page on desktop and asking them questions about how this might change their experience.
 
 
 ### Location
@@ -72,20 +72,9 @@ This will be a moderated remote study, over Zoom.
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/conversation-guide.md)
 - [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
@@ -103,21 +92,22 @@ Before writing your recruitment criteria, be sure to review the following resour
 
 ### Recruitment approach
 
-We'll work with Perigean to recruit participants
-
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+We'll work with Perigean to recruit Veterans for this study.
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+
+8-10 Veterans who are active users of MyHealtheVet.
 
 **Primary criteria (must-haves)**
+
+Participants must be:
+-  Active users of MyHealtheVet appointments.
+	- Screener question (yes/no): Have you logged in to MyHealtheVet to view your appointments in the last six months? 
+	- Screener question (yes/no): Are you willing to log in to MyHealtheVet during this study so our research team can learn how you use this tool? Any personally identifiable information shown during the study will be destroyed after the session.
+	- Participants must answer yes to both questions to qualify for the study.     
+
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
@@ -135,7 +125,7 @@ If you are using Perigean to recruit please submit 1 FULL week prior to the star
 When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
+* Pilot participant email: 
 * Date and time of pilot session: 
 
 ### Research sessions
@@ -151,11 +141,13 @@ Please request enough dates and time slots for the number of requested participa
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
+- Moderator: Peter Russo - peter.russo@adhocteam.us
+- Research guide writing and task development: Peter Russo
+- Participant recruiting & screening: Perigean
+- Project point of contact: Peter Russo
+- Participant(s) for pilot test: [TBD]	
+- Note-takers:
+	- Ciera Maddox - ciera.maddox@adhocteam.us 
+- Observers: 
+	- Andrea Perez - andrea.perez@bylight.com
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
