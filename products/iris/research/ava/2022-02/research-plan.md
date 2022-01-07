@@ -1,53 +1,59 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for VSP, Ask VA - Dashboard (Business, Personal), January 2021
+
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+This study is being conducted by the VSP Contact Center team. The study follows the Ask VA (AVA) tool, which enables veterans and VA.gov users to submit inquiries digitally. The AVA product team released a new tab function with labels (Business, Personal) in December 2021. The study will provide feedback for this new feature to AVA product team. 
 
 [Link to product brief](url goes here).
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This research supports the following:
+
+- Veterans and their families can find a single, authoritative source of information.
+- Logged-in users have a personalized experience, with relevant and time-saving features
+- Veterans and their families trust the security accuracy and relevancy of VA.gov
+- Platform users can build and deploy high-quality products for Veteran
+
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+AVA’s improved mobile experience fits within these stages of the Veteran Journey:
+  ·  Phase 1, Life Stage: Getting Out through Phase 3: Retiring and Aging 
+
 
 ## Research Goals	
-What are you trying to learn from this research? 
+We are trying to learn the following from this research:
+  · Document and prioritize any outstanding usability concerns with AVA, including both inquiry submission and the authenticated dashboard.
+  · Verify the implementation of new dashboard upgrades, and help SCOs and VA employees with handling caseloads in AVA. 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+  · This research will advance AskVA product and streamline more upgrades in the design process. We believe our learnings will solidify a more efficient workflow for SCOs and VA employees handling cases in AVA. 
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+  · Do the recent UI upgrades (Tabs: Personal, Business) in the Dashboard make a better overall experience? 
+  · Are the users (SCOs and VA employees) able to find and filter inquiries successfully and without hindrance?
+  · Are users able to navigate and access inquiries regarding benefits, GI Bill faster via the new dashboard tabs?
+  · Do users understand the new tabs and their functions? 
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+  · The new tab feature, released for the week Dec 10, 2021, will create much-needed views for AVA users (SCOs and VA employees) handling cases specific to GI Bill and VA Benefits. 
+  · There will be less burden for users handling cases in the AVA dashboard specific to the GI Bill and Benefits inquiries.  
+  · Though the business tab will create a specific view of inquiries, there is possibly a lack of understanding of how the tab appears for users. 
+  · Insights provided by the participants would provide guidance on needed onboarding of the new tabs and their functionality. 
+
 
 ## Method	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
 - Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+We will conduct remote moderated usability testing and directed interviews via Zoom with VA contacts. 
+
+Research Questions:
+  · [Conversation Guide] [link to draft]
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
