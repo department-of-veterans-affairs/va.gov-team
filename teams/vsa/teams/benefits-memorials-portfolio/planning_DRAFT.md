@@ -1,14 +1,5 @@
 # Benefits Crew Priorities 2022
-With VA.gov, we've built something that truly embodies VA's ongoing mission to fulfill President Lincoln’s promise to care for those ‘who shall have borne the battle’ and for their families, caregivers, and survivors. VA.gov has evolved to be not only the "front door" of the Veteran experience, but a robust set of shared tools, software, support, and technical infrastructure with integrations to many of the VA's most important Veteran data repositories. We have increased the accessibility, reliability, and security of Veteran’s digital services, while also delivering faster, more accurate benefits decisions. VA.gov offers Veterans the quickest pathway to find, use, and receive VA benefits and services.
-
-Unfortunately, while we do a good job of exposing new benefits to Veterans, we are failing to leverage our unique context and positioning as the focal point of many Veterans' interactions with the VA. The VA.gov platform is deeply integrated with VA systems across all three agencies and the Board of Veteran's Appeals. However, there is very little cross-cutting innovation or functionality available on the Platform. Veteran's benefits applications aren't updated with their health records; military service history isn't pre-populated in every form.
-
-Let's be honest; a large part of our job is buidling new forms for Veterans. That is valuable work, and we will always do it. But it behooves us to remember our Digital Service DNA: we're here to solve big problems. [PROBLEMS]
-
-Therefore, investing in Lighthouse as a platform and dedicating energy toward developing a comprehensive API strategy should be something we all work on. Lighthouse can be our legacy; the sum of the exercise of all our crafts. A launchpad for individuals and organizations to securely access the VA data they need to build helpful tools and services for Veterans at no cost. 
-
-## Header
-The VA's strategic position is pretty unique. Not only are we the market leader when it comes to Veteran data, we're kind of the only game in town. An uncle once told me, "With great power comes great responsibility"
+XXX
 
 ## New benefits workflows 
 
