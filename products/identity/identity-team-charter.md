@@ -32,8 +32,11 @@ We are responsible for identity-related work within the VSP ecosystem.  Broadly,
 ### Sprint Cadence
 We (generally) work on a 2-week sprint schedule.  Effective Sprint 70 (1/17/2022) our sprints will start and end on Wednesdays, in-line with the braoder VSP program.
 
+### Working Hours
+Team working hours are between 7AM EST and 9PM EST (Team members are expected to do the bulk of their work between these hours, as we are spread across multiple time zones.  Team members are **not** expected to work more than a normal 8-hour day)
+
 ### Meeting Schedule 
-**Planning/Status/Retro**: Every Monday at 3:30 EST
-**Standups**: Tuesday/Thursday at 3PM EST and Slackup on Friday
-**Scoping**: Wednesday at 4:00 EST
+**Planning/Status/Retro**: Every Monday at 3:30 EST  
+**Standups**: Tuesday/Thursday at 3PM EST and Slackup on Friday  
+**Scoping**: Wednesday at 4:00 EST  
 
