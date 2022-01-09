@@ -10,6 +10,7 @@ Welcome to the Identity folder. This directory contains information about user i
 - Researching migrating MHV users to Login.gov
 - Accessibility Research
 - Alerting Improvements
+- Being Awesome
 
 ---
 
