@@ -3,8 +3,13 @@ Welcome to the Identity folder. This directory contains information about user i
 
 **New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/gettingstartedidentity.md)
 
-## Background
 
+## What we're doing
+- Login.gov roll out (currently on hold)
+- OAuth Research
+- Researching migrating MHV users to Login.gov
+- Accessibility Research
+- Alerting Improvements
 
 ---
 
@@ -32,6 +37,7 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Josh Scanish - Backend Engineer
 - Alex Garcia - Frontend Engineer
 - Kyle Woolley - Frontend Engineer
+- Sylvester Lee - Security Engineer
 
 
 ## Communications
