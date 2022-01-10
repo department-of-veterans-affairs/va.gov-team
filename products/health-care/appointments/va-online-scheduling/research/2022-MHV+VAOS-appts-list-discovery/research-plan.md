@@ -18,7 +18,6 @@ Increase 📈
 Decrease 📉
 * Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it
 
-
 ### Veteran Journey
 Veterans may interact with VAOS at different stages across the [veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
 
@@ -56,91 +55,75 @@ What's working well in either list?
 
 Veterans largely use the MyHealtheVet appointments list to understand and manage their health care appointments. We believe, as more Veterans transition to VAOS to do the same tasks, they may be confused by content and interactions that are different between the two lists.
 
-
 ## Method	
 First we'll run a **contextual inquiry** by asking participants to access the MHV appointments list and VAOS appointments list, and observing how they use those features.
 
 Then we'll run a **concept test** by showing participants an updated version of the VAOS home page on desktop and asking them questions about how this might change their experience.
-
 
 ### Location
 
 This will be a moderated remote study, over Zoom.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/conversation-guide.md)
 - [Link to prototype](url goes here)
 	
 ## Recruitment	
 
-* 8 Veteran participants (recruit 12)
-* Active users of MyHealtheVet
-* Willing to log into their account and share information about their health appointments with the research team
-
-Preferably with upcoming VA appointments
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
 
-We'll work with Perigean to recruit Veterans for this study.
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
+Perigean to recruit Veterans for this study.
 
 ### Recruitment criteria
 
-8-10 Veterans who are active users of MyHealtheVet.
+12 Veterans who are active users of MyHealtheVet.
 
 **Primary criteria (must-haves)**
 
-Participants must be:
--  Active users of MyHealtheVet appointments.
-	- Screener question (yes/no): Have you logged in to MyHealtheVet to view your appointments in the last six months? 
-	- Screener question (yes/no): Are you willing to log in to MyHealtheVet during this study so our research team can learn how you use this tool? Any personally identifiable information shown during the study will be destroyed after the session.
-	- Participants must answer yes to both questions to qualify for the study.     
+Participants must be active users of MyHealtheVet appointments:
+- Screener question (yes/no): Have you logged in to MyHealtheVet to view and/or manage your appointments in the last 6 months? 
+- Screener question (yes/no): Are you willing to log in to MyHealtheVet during this study so our research team can learn how you use this tool? Any personally identifiable information shown during the study will be destroyed after the session.
 
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+Participants must answer yes to both questions to qualify for the study.     
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+
+Please aim for the targets below to recruit a representative sample of Veterans for this study. Each number represents the minimum number of Veterans to recruit for (based on 12 participants).
+
+- At least 6 Veterans age 55-64
+- At least 6 Veterans who have a cognitive disability
+- At least 3 people of color
+- At least 3 Veterans living in rural areas
+- At least 3 Veterans with no degree
+- At least 3 Veterans with an Other than honorable discharge
+- At least 3 Veterans of immigrant origin
+- At least 2 women
+- At least 1 Veteran who identifies as LGBTQ+
+
+[Recruitment checker for this study](https://docs.google.com/spreadsheets/d/1reptCqEkF4EYzNI0uLRuLhgLsnKN97-JyO1Z9m1WQ-M/edit?usp=sharing)
 
 ## Timeline
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+We'll kick off the recruiting for this study [TBD, around January 17th)
 
 ### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
+All materials will be complete by [TBD]
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: 
-* Date and time of pilot session: 
+* Pilot participant email: [TBD]
+* Date and time of pilot session: [TBD]
 
 ### Research sessions
-What dates do you plan to do research? 
+What dates do you plan to do research? [TBD]
 
 ### Length of sessions
-How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
-Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+* Each session will be 1 hour
+* Please leave at least a 15m buffer between sessions.
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+
+Monday-Friday 11 AM-10PM EST
 	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+## Team Roles		
 - Moderator: Peter Russo - peter.russo@adhocteam.us
 - Research guide writing and task development: Peter Russo
 - Participant recruiting & screening: Perigean
@@ -149,5 +132,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Note-takers:
 	- Ciera Maddox - ciera.maddox@adhocteam.us 
 - Observers: 
+	- Leah de la Costa
+	- Lauren Ernest
+	- Jeff Roof
 	- Andrea Perez - andrea.perez@bylight.com
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+	
