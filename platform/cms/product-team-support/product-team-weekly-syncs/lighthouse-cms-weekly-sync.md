@@ -30,9 +30,30 @@
 
 ## Monday, January 10, 2022
 * Timing of Lighthouse v1 confirmation
+  * preliminary date of late Feb but dependent on service identifier path forward
 * Identifiers for detailed service entries
   * looking for Dave's input on using a term ID and publishing a table through the portal that shows the mapping
-* Status in facility locator that doesn't match what's in the CMS
+  * service identifier per service type instead of term ID: recommended from LH
+  * CMS has a "health service API ID" that might suffice (comes from LH as opposed to access to care)
+  * because the terms are maleable, what happens when things get split (e.g. smoking cessation and addiction)
+    * LH recommendation: the old service gets spun down and replaced with two new services
+    * what is the promise we would be making when returning search queries? TBD
+      * bc if we wanted to return off of old service search after split, this recommendation wouldn't work
+  * where do we burden consumers vs. stakeholders vs. LH vs. CMS
+  * optics component (e.g. LGBT vs. LGBTQ+)
+  * LH: interested in impact on consumers, superfluous ID doesn't serve them without a lookup
+    * what other options would reduce the load on LH consumers?
+    * string matching (did you mean?) instead of maintaining history
+    * possibility of historical reference/lookup?
+  * as long as names are consumable enough for API users
+  * change management around when name of service changes
+    * e.g. Veteran connections and community engagement
+    * naming is highly volatile (anticipating VBA stuff)
+    * how do we notify folks when things change?
+  * is it worth starting to track synonyms?
+  * current state for when a service gets split out: it depends on what the impact is on data contributors (data call to clean)
+  * LH will huddle internally to discuss and we'll try to come to a firm decision at 1/17/22's sync
+* Status in facility locator that doesn't match what's in the CMS (didn't get to)
 
 ## Monday, January 3, 2022
 
