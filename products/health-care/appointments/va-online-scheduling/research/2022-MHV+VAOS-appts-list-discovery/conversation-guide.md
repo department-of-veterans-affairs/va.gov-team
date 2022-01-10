@@ -29,14 +29,14 @@ Thanks for joining us today! My name is Peter, from the VA Online Scheduling tea
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [30-40 mins].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a current version of AVA with the new tab function.** 
+- **We will ask you to log into MyHealtheVet and VA.gov for this study.** We will not use any of your medical information as a part of this study. And none of the information we do use will be attributed to you directly.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.The recordings are destroyed after we complete analysis.   
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
-*Start recording.*
+*Start recording.* [TODO - confirm we can record their screen]
 
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
@@ -44,24 +44,27 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- What tools do you use to manage your health appointments, VA or otherwise? Like checking on the status, changing or canceling?
-   - _Confirm they use MHV_
+- What tools do you use to manage your health appointments, VA or otherwise? Like changing or canceling?
 - How do you keep informed about changes to your appointments?
-- When do you check on the status of your appointments?
+- How do you check on the status of your appointments?
+- How do you keep track of your appointments?
 
 ## First Task: Review MHV appointments list - X minutes
 
-Next, I'd like you to share your screen so we can see how you manage your appointments in MyHealtheVet
+Next, I'd like you to share your screen so we can see how you manage your appointments in MyHealtheVet.
 
 _Once screen is shared_
 
 Could you show me how you access your appointments in MyHealtheVet?
 - If they're not sure, confirm they're a MHV user
+- If they don't use MHV, skip to second task.
 
 Steps
 - Go to https://www.myhealth.va.gov/
 - Sign in (this will be specific to the user)
 - Click [View my VA Appointments](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/appointments)
+
+**Questions**
 
 How do you use this list?
 - When do you access it? 
@@ -74,21 +77,14 @@ What works about this list?
 What isn't working?
 - What information is missing?
 
-If you had a magic wand, 
-
-### Things to watch for:
-
-- [Does the participant easily find the new function?]
-- [Does the participant easily locate the Personal tab?]
-- [Does the business tab automatically populate once an inquiry is sent?]
-
 
 ## Second Task: Review VAOS appointments list - X minutes
 
-Have you ever viewed your appointments elsewhere on VA.gov
-Have you ever scheduled an appointment online?
+Have you ever viewed your appointments elsewhere on VA.gov?
 
 We're going to open the VA.gov appontments list. 
+
+_If they can't find this, or log in, skip to final task_
 
 From MHV appointments list
 - Click "Schedule or cancel a VA appointment"
@@ -99,22 +95,20 @@ From va.gov:
 - Find the "Health care" box
 - Click "Schedule and manage health appointments"
 - Sign in (this will be specific to the user)
-- 
 
 Have you used this before?
 If so, how do you use this list?
 
-### Things to watch for:
 
-- []
-- 
 ## Third Task: Review VAOS appointments list concept - x minutes
 
-Switch to facilitator sharing screen [TODO: decide if we're going to have a clickable prototype for a concept]
+Switch to facilitator sharing screen [TODO: finish prototype]
 
 ## Post-Task Interview - X minutes
 
-- What is your overall impression of this new feature?  
+- What is your overall impression of the different appointment lists you saw today?
+  - What features stood out as being most helpful?
+   
 - Do you have any questions for me or any other feedback you would like to share? 
 
 ## Thank-You and Closing - X minutes
