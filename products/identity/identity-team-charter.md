@@ -33,7 +33,10 @@ We are responsible for identity-related work within the VSP ecosystem.  Broadly,
 We (generally) work on a 2-week sprint schedule.  Effective Sprint 70 (1/17/2022) our sprints will start and end on Wednesdays, in-line with the braoder VSP program.
 
 ### Working Hours
-Team working hours are between 7AM EST and 9PM EST (Team members are expected to do the bulk of their work between these hours, as we are spread across multiple time zones.  Team members are **not** expected to work more than a normal 8-hour day)
+Team working hours are between 7AM EST and 9PM EST (Team members are expected to do the bulk of their work between these hours, as we are spread across multiple time zones.  Team members are **not** expected to work more than a normal 8-hour day).
+
+### PTO
+Please let Nick know at least 2 weeks in advance of any planned PTO.  Generally there will be a Slack thread in the #VSP_Identity_Internal channel at the beginning of each sprint asking for planned PTO.  
 
 ### Meeting Schedule 
 **Planning/Status/Retro**: Every Monday at 3:30 EST  
