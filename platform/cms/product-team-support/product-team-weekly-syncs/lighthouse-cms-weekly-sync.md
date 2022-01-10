@@ -28,6 +28,12 @@
  
 </details>
 
+## Monday, January 10, 2022
+* Timing of Lighthouse v1 confirmation
+* Identifiers for detailed service entries
+  * looking for Dave's input on using a term ID and publishing a table through the portal that shows the mapping
+* Status in facility locator that doesn't match what's in the CMS
+
 ## Monday, January 3, 2022
 
 * Timing of Lighthouse v1
