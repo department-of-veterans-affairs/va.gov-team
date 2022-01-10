@@ -20,7 +20,7 @@
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
-- [User Scenarios](#user-scenarios)
+- [Exploring User Scenarios](#exploring-user-scenarios)
     - [Happy Path Stories](#happy-path-stories)
     - [Error Path Stories](#error-path-stories)
     - [Clever Case Stories](#clever-case-stories)
@@ -176,7 +176,7 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
     - Metric one
     - Metric two
 
-## User Scenarios
+## Exploring User Scenarios
 
 ### Happy Path Stories
 
