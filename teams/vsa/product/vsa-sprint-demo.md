@@ -59,9 +59,11 @@ _:bulb: Consider a slide deck for research shares, mockups/prototypes for design
 <details>
   <summary>Copying the Demo template</summary>
   
-  1. Select the template and choose "Copy to" from the menu bar. ![image](https://user-images.githubusercontent.com/13204473/148802313-64058f40-f6bc-43ac-9760-fa75b134c758.png)
-  1. Save the copy within the "Sprint Review and Demo" folder ![image](https://user-images.githubusercontent.com/13204473/148802488-1cb21acb-ea86-4066-a19e-039feda29c77.png)
-  1. Rename the copy with in "VSA Sprint xx Demo" format
+  1. Select the template and choose "Copy to" from the menu bar. 
+    - <details><summary>See screenshot</summary> ![image](https://user-images.githubusercontent.com/13204473/148802313-64058f40-f6bc-43ac-9760-fa75b134c758.png)</details>
+  1. Save the copy within the "Sprint Review and Demo" folder 
+    - <details><summary>See screenshot</summary> ![image](https://user-images.githubusercontent.com/13204473/148802488-1cb21acb-ea86-4066-a19e-039feda29c77.png)</details>
+  1. Rename the copy in "VSA Sprint xx Demo" format
   
 </details>
 
