@@ -464,9 +464,12 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 - How will this affect other teams on va.gov? Will this have a negative effect on the VA.gov Profile system?
 - Will the user demographics edits/changes be reflected instantaneously across the relevant VA systems?
 - Will it be confusing for the user to navigate to their profile page after editing their next-of-kin or emergency-contact information and not see that information populated in the profile?
-- Does VA Profile have the ability to update the timestamp on file 41.41 if the veteran confirms that none of their demographics information has changed using their mobile device or desktop computer?
+- **Does VA Profile have the ability to update the timestamp on file 41.41 if the veteran confirms that none of their demographics information has changed using their mobile device or desktop computer?**
+- **What happens when a veteran updates their contact information from the VA.gov Profile today? Are the staff members able to view that information immediately through the VSE application? If so, was the timestamp on file 41.41 updated?**
 
 ## Staff Facing Questions
+- VSE Clinical Staff will need access to the veterans updated demographics data. What additional work(integrations/endpoint-support) will CHIP need to complete in-order to facilitate this access for VSE?
+- Updating the timestamp on file 41.41 by a staff member after confirming a veterans information is an action that is a factor in that staff members performance evaluation/review. Will an external system(the pre-check-in flow) performing the same job cause an issue?
 
 ## Engineering Solutions
 
