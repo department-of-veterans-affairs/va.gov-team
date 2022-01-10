@@ -180,10 +180,6 @@ _What user and systems metrics do we want to track?_
 ## Exploring User Scenarios
 
 ### Happy Path Stories
-
----
-
-#### Case A:
 > **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 > **As a** Veteran  
 > **I want** the ability to securely edit and save my demographics information to the va systems during my Pre-Check-In work flow  
@@ -224,8 +220,6 @@ _What user and systems metrics do we want to track?_
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 
 ### Error Path Stories
-
----
 > **In order** to understand why my demographics update failed and what actions I need to take next  
 > **As a** Veteran  
 > **I want** to be shown clear and easy to understand failure notifications  
@@ -276,8 +270,6 @@ _What user and systems metrics do we want to track?_
 **And** the edits I made prior to the error should still be available in the form    
 
 ### Clever Case Stories
-
----
 > **In order** to not have a bad user experience when I use the demographics update feature in a way that it's not meant to be  
 > **As a** Veteran  
 > **I want** the website to catch my actions and show me meaningful messages   
