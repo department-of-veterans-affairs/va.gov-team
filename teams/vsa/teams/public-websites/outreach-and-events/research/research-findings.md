@@ -152,17 +152,17 @@ Note: None of the research participants had ever seen the Outreach Events page o
 # Recommendations
 The recommendations for MVP have been discussed with the Public Websites team, and the decisions made are documented in CAPS.
 ## For MVP (near term)
-1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead. (DO THIS)
-3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed. (DO THIS)
-4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to recognize as navigation rather than part of the event description. (TRY TO DO THIS)
+1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead. (DONE)
+3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed. (DONE)
+4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to recognize as navigation rather than part of the event description. (DONE)
 1. Content editors should be encouraged to **include more information about each event**, including the following:
     1. For the event list, include a **meaningful short description that is a concise descriptive overview of the event**. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
     1. For the event detail page, provide **logistical details about the event that enable Veterans to decide whether to register**, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event or do at during the event, and a rough estimate of how many people might be there. 
     1. For the event detail page, if applicable, consider providing the name of the building or facility (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
-    - (ADVISE CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING)
+    - (ADVISED CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING BUT DON'T THINK IT'S HAPPENED YET)
 
 ## For future iterations
-5. Consider enabling users to **register for multiple occurrences of an event at once**.
+5. Consider enabling users to **register for multiple occurrences of an event at once**. (WE HAVE NO CONTROL OVER REGISTRATION SO CAN'T DO THIS)
 5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event").
 6. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events. 
     1. In location filtering, show the option of whether to include online/virtual events.
