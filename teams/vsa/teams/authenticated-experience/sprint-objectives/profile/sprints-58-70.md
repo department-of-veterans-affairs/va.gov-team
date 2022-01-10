@@ -317,6 +317,25 @@ Research
 - Start BE build if possible
   -  This depends on whether things are held up again with the introduction of VA Profile.   
 
+### Bad address indicator
+
+Start discovery
+
+**PM**
+
+- Do initial research on bad address indicator to understand product scope. We need to figure out the following:
+  -  What is a "bad address"?
+  -  What triggers the bad address indicator?
+  -  What data do we get from VA Profile when we're told that someone has a bad address?
+  -  What happens if someone is determined to have a bad address?
+  -  Do we know how many people currently have bad addresses?
+  -  Does the bad address indicator indicate bad data for anything other than home or mailing address (eg. phone numbers or email address)?
+
+**BE**
+
+- Review bad address indicator docs
+  -  [Swagger docs](https://qa.vaprofile.va.gov:7005/contact-information-hub/swagger-ui/index.html?configUrl=/contact-information-hub/v3/api-docs/swagger-config#/)
+
 ## Sprint 66 (1/26 - 2/8)
 
 ## Sprint 67 (2/9 - 2/22)
