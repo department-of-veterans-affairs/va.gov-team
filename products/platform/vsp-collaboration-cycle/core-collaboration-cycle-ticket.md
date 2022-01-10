@@ -135,11 +135,44 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 
 ### Design Intent Details
 Meeting date/time:
+
 Zoom Recording:
+
 Zoom password:
 
 ## Contact Center Review
 [Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
+
 Link ticket here:
+
+## Research Plan Review
+[Research Plan Review request process](http://wwww.linkgoeshere.com)
+
+Link ticket here:
+
+## Midpoint Review
+### VFS Actions
+- [ ] Schedule your Midpoint Review when ready:
+   - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
+   - Select a date and time and click “Confirm”
+   - Add your name and email
+   - Click "Add Guests" and enter the VFS meeting attendees email addresses. 
+   - Click Schedule Event
+- [ ] Check this box if you'd like this review to be asynchronous
+- [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
+- [ ] Please confirm that all requested artifacts are provided, as well as current and complete
+### Platform Actions
+- [ ] Design feedback provided
+- [ ] Accessibility feedback provided
+- [ ] IA feedback provided
+- [ ] Content feedback provided
+- [ ] QA feedback provided
+
+### Midpoint Review Details
+Meeting date/time:
+
+Zoom Recording:
+
+Zoom password:
 
 
