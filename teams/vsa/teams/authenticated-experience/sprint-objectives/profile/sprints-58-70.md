@@ -306,6 +306,7 @@ Research
 
 **Design**
 - Summarize research
+- Share out research summary to the team
 
 **FE**
 
