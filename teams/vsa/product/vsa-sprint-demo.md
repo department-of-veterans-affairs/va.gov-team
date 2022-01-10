@@ -16,7 +16,7 @@ We rotate facilitators between VSA PMs each month. [Facilitation Schedule](https
 _:information_source: the next PM on the schedule is backup if the facilitator can’t make it to a particular Demo_
 
 ### Pre-Demo
-- Make sure we have a new slide deck created
+- Make sure we have a new slide deck created (see appendix for instructions)
 - Check with VSA Leads (Shawna, Yana, Andre, Jeff, Mickin) for any announcements they (or OCTO-DE) may have
 - Confirm the deck is updated by teams with items they’re demoing
   - If teams don’t have any items, _they_ should remove their slides/update the agenda
