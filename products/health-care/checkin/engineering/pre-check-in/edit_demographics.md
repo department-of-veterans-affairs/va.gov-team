@@ -142,7 +142,6 @@
 * References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
-
 ## Pilot Site
 - Clinic: Martinsburg, WV
 
@@ -164,17 +163,19 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 ## User Outcomes
 
 ### Positive
+_Why would a veteran want the ability to edit their demographics information during the Pre-Check-In process?_
+
 ### Negative
 
 ## Business Outcomes
 
 ### Positive
+_Why would the business wish to have a veterans updated demographics information during the Pre-Check-In process?_
+
 ### Negative
 
 ## Measuring Success
-* Metrics that we want to track
-    - Metric one
-    - Metric two
+_What user and systems metrics do we want to track?_
 
 ## Exploring User Scenarios
 
