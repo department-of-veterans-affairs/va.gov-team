@@ -1,12 +1,12 @@
 # VA.gov profile roadmap
 
-**Updated November 23, 2021**
+**Updated January, 10 2022**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | Design and FE build |
+|[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | Research and BE build |
 
 ### Projected timelines for current projects & enhancements
 
@@ -69,3 +69,4 @@
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |Establish governance process for adding new preferences | Auth exp | - | We need to figure out a process to review planned updates for notification preferences so new preferences don't end up in our UI without having been reviewed and tested (if needed) by our team |
+|Add default opt-in functionality | VA Profile | January 2022 | We need functionality that tells us if a person is receiving a notification by default without having explicitly opted in themselves so we can reflect this in the profile. This is currently being worked on by VA Profile.|
