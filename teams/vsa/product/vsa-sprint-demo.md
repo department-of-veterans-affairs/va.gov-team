@@ -1,7 +1,7 @@
 # Sprint Demo 
 Each VSA product team has the opportunity to share things they’re most excited about from the past sprint with OCTO-DE, Platform, VSA Leads, and other VSA teams. The goal—greater awareness of each other’s work to foster collaboration and shared learnings.  
 
-_:open_file_folder:[Sprint Demos and Template](https://salientcrgt.sharepoint.com/sites/VSATeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVSATeam%2FShared%20Documents%2FSprint%20Review%20and%20Demo&viewid=5d571d10%2D43b8%2D4f5f%2D8c44%2D3d78e5892cca)_
+_:open_file_folder:[Sprint Demos and Template](https://salientcrgt.sharepoint.com/sites/VSATeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVSATeam%2FShared%20Documents%2FSprint%20Review%20and%20Demo&viewid=5d571d10%2D43b8%2D4f5f%2D8c44%2D3d78e5892cca)_ (See [Appendix](#Appendix) below for tips on how to copy the template)
 
 ## Format
 Sprint Demo is scheduled for Tuesday, 1-2:30pm ET on the last day of each sprint. Teams have a few minutes depending on the agenda to share things they’re most excited about— less can be more!​ We wrap up with any announcements from VSA leadership or OCTO-DE. 
@@ -52,4 +52,16 @@ All set! Yana will post the recording in #vsa
   - Certain topics like research shares should focus on the objectives and top findings/recommendations whereas engineering shares should have machines prepped
 
 _:bulb: Consider a slide deck for research shares, mockups/prototypes for design shares, a video recording for engineering shares, analytics or documentation for product shares._
+
+
+## Appendix
+
+<details>
+  <summary>Copying the Demo template</summary>
+  
+  1. ![image](https://user-images.githubusercontent.com/13204473/148802313-64058f40-f6bc-43ac-9760-fa75b134c758.png)
+  1. ![image](https://user-images.githubusercontent.com/13204473/148802488-1cb21acb-ea86-4066-a19e-039feda29c77.png)
+  
+</details>
+
 
