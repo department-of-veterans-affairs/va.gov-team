@@ -21,7 +21,7 @@ _:information_source: the next PM on the schedule is backup if the facilitator c
 - Confirm the deck is updated by teams with items they’re demoing
   - If teams don’t have any items, _they_ should remove their slides/update the agenda
   - The Platform Design System team attends and occasionally shares at Demo. 
-    - They’ll typically reach out with any topic (via DM or #vsa, #vsa-product)
+    - They’ll typically reach out with any topic/presenter (via DM or #vsa, #vsa-product) which you can add to their slide.
     - If not, remove their slide and name from the agenda. 
 [Platform Design System Team](https://vfs.atlassian.net/wiki/spaces/DST/pages/1783005187/Design+System+Team+Charter#Who-we-are)
 
