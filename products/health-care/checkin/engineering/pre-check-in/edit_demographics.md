@@ -222,51 +222,6 @@ The Check-In-Experience team seeks to resolve this issue iteratively by leveragi
 **Then** I can see that my changes have been validated  
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
 
-#### Case B:
-> **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
-> **As a** Veteran  
-> **I want** the ability to securely edit and save my demographics information to the va systems ON the day of Check-in  
-
-**Scenario:** User has NOT not completed their Pre-check-in flow prior to the day of Check-in and user is not _fully authenticated_[^1]  
-
-**Given** I have not completed my Pre-Check-In flow for an appointment  
-**And** I am at the facility/location on the day of the appointment  
-**And** I have arrived before the appointment is set to begin  
-**And** I have not _fully authenticated_[^1] on va.gov prior to initiating the Check-in flow  
-**And** I have initiated the Check-in in flow on my mobile device  
-**When** I click on the Check-in URL  
-**And** I successfully, and minimally, authenticate using my last name and the last four digits of my SSN  
-**Then** I have started my Check-in flow  
-**And** I can see my demographics page with Contact, Next-of-kin, and Emergency Contact information  
-**When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
-**Then** I am redirected to the main va.gov login page  
-**when** I login using my va.gov credentials  
-**Then** I am successfully redirected back to my Pre-Check-In demographics page  
-**And** I have the ability to edit all of my demographics information  
-**When** I edit any or all of my demographics info and submit the changes  
-**Then** I can see that my changes have been validated  
-**And** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
-
-**Scenario:** User has NOT not completed their Pre-check-in flow prior to the day of Check-in and user is _fully authenticated_[^1]  
-
-**Given** I have not completed my Pre-Check-In flow for an appointment  
-**And** I am at the facility/location on the day of the appointment  
-**And** I have arrived before the appointment is set to begin  
-**And** I have _fully authenticated_[^1] on va.gov prior to initiating the Check-in flow 
-**And** I have initiated the Check-in in flow on my mobile device  
-**When** I click on the Check-in URL  
-**Then** my minimal authentication was automatically handled using the information from my profile  
-**And** I'm not shown the minimal authentication page  
-**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
-**When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
-**Then** I am NOT redirected to the main va.gov login page  
-**And** I remain on the Check-In flow demographics page  
-**And** I now have the ability to edit all of my demographics information  
-**When** I edit any or all of my demographics info and submit the changes  
-**Then** I can see that my changes have been validated  
-**And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
-**And** I can see that I have the ability to Check-In to my appointment without any further types of authentication  
-
 ### Error Path Stories
 
 ---
