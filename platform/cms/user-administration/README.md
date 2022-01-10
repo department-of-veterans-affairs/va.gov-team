@@ -30,13 +30,13 @@
 ## CMS account verification
 
 **VAMC**
-- Person to contact for verification: Stan Gardner or Lisa Trombley
+- Person to contact for verification: Stan Gardner or Lisa Trombley (who will check with VHA Digital Media)
 - How to reach them: Slack channel vamc-editor-support
 - Training required for prod account activation? Yes.
 
 **Vet Center**
-- Person to contact for verification: Michelle Middaugh
-- How to reach them: Slack channel facility-support
+- Person to contact for verification: email jessica.schiefer@va.gov
+- How to reach them: email
 - Training required for prod account activation? no, but have Michelle send kick-off email with attachments
 
 **Benefits hubs**
@@ -45,21 +45,19 @@
 - Training required for prod account activation? No. (Public Websites team typically does their own training).
 
 **Other products**
-- Slack delivery manager or product manager in CMS Team channel
+- Slack delivery manager or product manager in cms-team channel
 
 ----
-## Prerequisites
 
 
 ### Access requested
 
-Ideally, the user would have requested their account following the instructions at [https://prod.cms.va.gov/help/support/request-a-cms-account](https://prod.cms.va.gov/help/support/request-a-cms-account) except for VAMC users who are sent by Stan.
+Ideally, the user would have requested their account following the instructions at [https://prod.cms.va.gov/help/support/request-a-cms-account](https://prod.cms.va.gov/help/support/request-a-cms-account) except for Vet Center kick-offs, which are sent by Jessica Schiefer
 
-*   Verify the user’s role. VAMC editors all get VACM content creator and content publisher
-*   Verify their request with product owner (DEPO POC)? 
+*   Verify the user’s role. Vet Centers start with content editor until Michelle publishes their Vet Center and changes their role to content publisher. VAMCs may ask that a user only get content editor, otherwise most get content publisher.
+*   Verify their request with product owner (OCTO POC)? 
 *   Verify the user’s Section (see [https://prod.cms.va.gov/help/cms-basics/sections](https://prod.cms.va.gov/help/cms-basics/sections))
 *   Verify VA email address
-*   Verify VA network access or SOCKS proxy
 *   Verify what training is needed, if any.
 
 ## Instructions for adding one user at a time
@@ -74,9 +72,9 @@ Ideally, the user would have requested their account following the instructions 
 5. On the **Roles** page, click the checkbox(es) next to the appropriate role(s).
 6. After **Email address**, enter the user’s VA.gov email address. _Make sure this is the correct address, since if it differs, their PIV login will fail._
 7. After **Username**, enter the user’s VA.gov email address. _See step above._
-8. **Password** process: select a one-time password using three unrelated words, a number, a punctuation character. No one will need to be told this password, and the user will be prompted to create their own password immediately, but it’s good form not to use something that can be guessed in the meantime. 
-9. Leave the **Status** as **Blocked**.
-10. Check the box next to **Notify user of new account**. This will send the user an email and prompt the user to reset their password.
+8. **Password** process: select a one-time password using three unrelated words, a number, a punctuation character. Nearly all editors login with PIV so the password usually doesn't need to be shared.
+9. For new VAMC users, set **Status** as **Blocked**. They will be activated after training is completed.
+10. Check the box next to **Notify user of new account**.
 11. Leave the box checked next to **Enable this user to leverage SAML authentication**.
 12. Skip **Password Expiration** for now. Currently there is no expiration period.
 13. 14. Click **Create new account**. (Will see account creation confirmation in green at the top of the screen)
@@ -116,7 +114,7 @@ OR
 
 ### Method 4 To create a new user in a tugboat environment from the command line
 1. Go to https://tugboat.vfs.va.gov/5ffe2f4dfa1ca136135134f6
-2. Under Previews, find the environment with the title "Editor Training Environment" and click the title.
+2. Under Previews, find the environment and click the title.
 3. You will see a table titled ‘Services.’
 4. In the line starting with ‘php’, click the ‘Terminal’ link.
 5. A command line terminal will pop up.
@@ -135,5 +133,5 @@ Follow the Bulk User Import Procedure at https://github.com/department-of-vetera
 * Process workflow on Mural
 https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc
 
-* Current spreadsheet of user list in training runbook
+* Current spreadsheet of users who need training tracked in training runbook
 https://docs.google.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097
