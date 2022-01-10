@@ -302,11 +302,17 @@ Research
 
 ## Sprint 65 (1/12 - 1/25)
 
+### General profile
+
+- Will probably need to pull in some FE tickets from the backlog if there are any
+
 ### Personal informaton revisions
 
 **Design**
 - Summarize research
 - Share out research summary to the team
+- Any design updates that come out of user testing
+- If there are no design updates that come out of user testing and Christina has time, she can start on updating call center documentation
 
 **FE**
 
