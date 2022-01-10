@@ -30,7 +30,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 _Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Finding #1: Veterans are not confident their personal information will be used for their benefit.**
+**#1: Veterans are not confident their personal information will be used for their benefit.**
 
 - Privacy Concerns - Participants are worried that this information could fall into the wrong hands or that those with access would make judgements/use the information to someone’s disadvantage
 
@@ -43,7 +43,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “I’m just thinking about folks like my dad, who is a Vietnam Vet. And from discussions with him, I know that he would find these things at least mildly objectionable, simply because he’s from that generation.” - P1
 
 
-- Veterans' general perception was that the VA is gathering this information for demographic purposes and/or healthcare, but are not sure the information would be used correctly/for good.
+- Participants' general perception was that the VA is gathering this information for demographic purposes and/or healthcare, but are not sure the information would be used correctly/for good.
 
 	> “Younger veterans would think it was "cool" to provide this information, but without understanding the repercussions. - P8”
 
@@ -52,7 +52,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “If it is used on the medical side they can help but it’s a double edged sword. In data collection and who is serving who and to improve it for management, then it would be more beneficial.” - P8
 
 
-**Finding #2: Veterans understand the terminology used, with some suggestions for additions or changes.**
+**#2: Veterans understand the terminology used, with some suggestions for additions or changes.**
 
 - Trans instead of transgender
 - Missing gender fluid from gender identity list
@@ -65,7 +65,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “Asexual is one that’s not there, pansexual or omnisexual aren’t on there.” - P8
 
 
-**Finding #3: Veterans found that certain elements of the UI/Design created confusion around the information and fields presented**
+**#3: Veterans found that certain elements of the UI/Design created confusion around the information and fields presented**
 
 - Preferred name created confusion - participants were not sure what to enter.
 
@@ -80,7 +80,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “It says required in red. Unless it directly has an impact on my care or disability I don’t know why it needs to be shared, it should be an option.” - P13
 
 
-**Finding #4: Veterans conveyed mixed opinions on the information included in Personal information section**
+**#4: Veterans conveyed mixed opinions on the information included in Personal information section**
 
 - The participants who identified as other than straight or cisgender  found the sex assigned at birth and sexual orientation fields triggering.
 
@@ -116,13 +116,13 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 **Finding #6: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
 
-- Veterans did not always notice the FAQs or did not associated the FAQs with the fields in question.
+- Participants did not always notice the FAQs or did not associated the FAQs with the fields in question.
 
 	> “The only thing I would offer is if it were my page and my DOB is wrong and there's no information on how to fix it I would be calling to see what’s going on.” - P6
 	
 	> (Do you see anything on the page that can help answer your questions on why the VA asks for this information?) "No, there's nothing here." -P13 
 
-- Veterans do not feel that the FAQ content fully addresses their questions or concerns.
+- Participants did not feel that the FAQ content fully addresses their questions or concerns.
 
 	> “It doesn’t quite answer the question but I can figure it out. [...] I probably tend to say give me an example [...] Maybe a qualifier sentence like a link to learn more and that takes me somewhere with more depth about what I am bugged about if that makes sense. Just a learn more button would take me to more depth as to why something affects my quality of life.” - P6
 	
