@@ -114,5 +114,32 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
 
 - [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
-
 - [ ] List of known issues
+
+# Collaboration Cycle Touchpoints
+## Design Intent
+### VFS Actions
+- [ ] Has Ryan Thurlwell reviewed your proposed designs? Yes or No
+- [ ] Schedule your Design Intent when ready:
+   - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
+   - Select a date and time and click “Confirm”
+   - Add your name and email
+   - Click "Add Guests" and enter the VFS meeting attendees email addresses. 
+   - Click Schedule Event
+- [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
+- [ ] Please confirm that all requested artifacts are provided, as well as current and complete
+### Platform Actions
+- [ ] Design feedback provided
+- [ ] Accessibility feedback provided
+- [ ] IA feedback provided
+
+### Design Intent Details
+Meeting date/time:
+Zoom Recording:
+Zoom password:
+
+## Contact Center Review
+[Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
+Link ticket here:
+
+
