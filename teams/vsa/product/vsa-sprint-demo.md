@@ -20,7 +20,9 @@ _:information_source: the next PM on the schedule is backup if the facilitator c
 - Check with VSA Leads (Shawna, Yana, Andre, Jeff, Mickin) for any announcements they (or OCTO-DE) may have
 - Confirm the deck is updated by teams with items they’re demoing
   - If teams don’t have any items, _they_ should remove their slides/update the agenda
-  - The Platform Design System team attends and occasionally shares at Demo. They’ll typically reach out with any topics. If not, remove their slide and name from the agenda. 
+  - The Platform Design System team attends and occasionally shares at Demo. 
+    - They’ll typically reach out with any topic (via DM or #vsa, #vsa-product)
+    - If not, remove their slide and name from the agenda. 
 [Platform Design System Team](https://vfs.atlassian.net/wiki/spaces/DST/pages/1783005187/Design+System+Team+Charter#Who-we-are)
 
 _:information_source: The Sprint Demo is auto-recorded. You don’t need to do anything._
