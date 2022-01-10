@@ -73,8 +73,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Post-Task Interview - 15 minutes
 
-- What is your overall impression of this new feature?  
 - Does the new tab feature help reduce workload in filter and organizing cases in your dashboard? (Goal: Separate work vs personal inquiry?)
+- Does the new tab feature effective in searching and prioritizing your inquires on behalf of Veterans you are serving? 
 - Is this new experience more streamlined for your overall needs? 
 - Do you have any questions for me or any other feedback you would like to share? 
 
