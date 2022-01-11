@@ -221,13 +221,13 @@ _What user and systems metrics do we want to track?_
 **Given** I have _fully authenticated_[^1] using my va.gov credentials  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **And** I have entered into edit mode on the form 
-**And** I have entered partial updates into the form
-**And** I take no further action
-**And** I return to my demographics page again before my the time of my appointment
-**And** I fully authenticate
-**When** I get redirected to my demographics page
-**Then** I should see my demographics information from when I first got the pre-check-in flow SMS
-**And** I should see that my partial edits to my demographics were not saved
+**And** I have entered partial updates into the form  
+**And** I take no further action  
+**And** I return to my demographics page again before my the time of my appointment  
+**And** I fully authenticate  
+**When** I get redirected to my demographics page  
+**Then** I should see my demographics information from when I first got the pre-check-in flow SMS  
+**And** I should see that my partial edits to my demographics were not saved  
 
 ## Exploring Workflows
 
