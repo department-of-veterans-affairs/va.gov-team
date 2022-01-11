@@ -1,20 +1,22 @@
 # VA appointments list UX [WIP]
 
+The VAOS appointments list displays a summary of a Veteran's upcoming, past, and pending appointments.
+
 ## TOC
 
 1. Content model
-1. VAOS UX
-    * IA
-    * UI 
+2. VAOS UX
 3. Other appointment lists
     * Mobile app
     * My VA
     * Check in
     * VEText
-4. Terms
 
 
 ## Content model
+
+[Terms [WIP]](https://docs.google.com/spreadsheets/d/1zGfyAjwLgcU6KNpCQK09hQzKoN4ZmrM8u5Ejpitem1Q/edit#gid=520523114)
+[Content model](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1639677197374/28216c756bb7e2b70099470f2b84a30c2632035b?sender=ub08ff1d80ee7bd38d6c02354)
 
 ## VAOS UX
 
@@ -42,4 +44,4 @@ My VA shows a summary of many important events, including appointments. The link
 Veterans can access the check-in experience on the day of their appointments via their mobile phone. It shows a summary of their upcoming appointments for that day.
 https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/nRAMP7l
 
-## Terms
+
