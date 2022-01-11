@@ -676,14 +676,24 @@ _(if yes)_
 Name of insurance provider(*Required)
 
 Name of policyholder (the person whose name the policy is in) (*Required)
-**
-Provide either your insurance policy number or group code.** (*Required)
+
+**Provide either your insurance policy number or group code.** (*Required)
+
+I have TRICARE. What’s my policy number? _(more info)_
+
+You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
+
+Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
+
+_(end more info)_
 
 Policy number 
-_Hint text_ Either this or the group code is required
+
+_(hint text)_ Either this or the group code is required
 
 Group code
-_Hint text_ Either this or the group code is required
+
+_(hint text)_ Either this or the group code is required
 
 [Add another Insurance Policy] _(list loop insurance policy)_
 
