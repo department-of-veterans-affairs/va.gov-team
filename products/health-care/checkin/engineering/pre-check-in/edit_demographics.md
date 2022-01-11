@@ -87,7 +87,7 @@ Not having the ability to update _demographics_data_[^2] is a loss of value to v
 
 ### Proposal
 
-The Check-In-Experience team seeks to resolve this issue iteratively by leveraging existing engineering pipelines and systems, and additionally, identifying and implementing new systems and services which will facilitate the desired workflow.
+The Check-In-Experience team seeks to resolve this issue iteratively by collaborating with existing teams and leveraging the appropriate services, APIs and databases in-order to provide the demographics edit functionlity to veterans through the Pre-Check-In flow on va.gov.
 
 ## Measuring Success
 _What user and systems metrics do we want to track?_
