@@ -18,7 +18,7 @@
 - [ ] Make sure all apostrophes and quotation marks are curly not straight.
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correclty. (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.) [Learn how to set up a url and left nav in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md)
 - [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
-- [ ] Confirm that the content meets VA.gov's experience standards. [Go to Platform's list of experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html) 
+- [ ] Confirm that the content meets VA.gov's experience standards. 
 
 ### Additional checks for Resources and Support articles
 
@@ -44,3 +44,5 @@
 - [ ] [Add the action link wording to our Github file of action link labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md).
 - [ ] [Add the new article to our Github file of R&S articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md).
 - [ ] Notify the Content Center Support team in their Slack channel (#vsp-contact-center-support) that we've published a new article. Provide the link and a few details about the article. It may be helpful to them for either communicating with Veterans or researching questions themselves. 
+
+**Note:** All published pages must meet VA.gov's experience standards. [Review the list of experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html)  
