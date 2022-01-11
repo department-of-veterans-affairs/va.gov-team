@@ -38,7 +38,6 @@
     - [VEText](#vetext)
     - [VA.gov Profile](#vagov-profile)
     - [VA Profile](#va-profile)
-- [Footnotes](#footnotes)
 
 ### Slack Channels
 
@@ -446,6 +445,5 @@ _What user and systems metrics do we want to track?_
 * References:
   - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
 
-## Footnotes
 [^1]: Fully authenticated: User has authenticated on va.gov using their ID.me account or another identity provider.  
 [^2]: Demographics data: Includes veteran contact information, next of kin information, and emergency contact information.  
