@@ -1,1 +1,1 @@
-# <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/discovery/discovery-article-pages.md">Moved to products/resources-and-support/discovery</a>
+# <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/discovery/discovery-article-pages.md">Moved to products/resources-and-support/article-pages/discovery.md</a>
