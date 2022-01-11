@@ -155,7 +155,7 @@ I'd like you to imagine that new debt has been added to your account- after you 
 
 ---
 
-***Skip this if participant has debt***
+***Skip this if participant has debt and you are using production***
 
 I want to get your input on another new feature, but since you don't have any debt, I'll show you in a prototype instead of on the live site. Let me send you a link in the chat, and resume the recording.
 
