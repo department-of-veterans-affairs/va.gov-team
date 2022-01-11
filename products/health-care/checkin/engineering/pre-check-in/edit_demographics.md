@@ -216,6 +216,19 @@ _What user and systems metrics do we want to track?_
 **And** I should be shown a message asking me to talk with a staff member first  
 **And** I should continue to remain on the demographics page  
 
+**Scenario:** User performs partial edits but does not submit the changes
+
+**Given** I have _fully authenticated_[^1] using my va.gov credentials  
+**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I have entered into edit mode on the form 
+**And** I have entered partial updates into the form
+**And** I take no further action
+**And** I return to my demographics page again before my the time of my appointment
+**And** I fully authenticate
+**When** I get redirected to my demographics page
+**Then** I should see my demographics information from when I first got the pre-check-in flow SMS
+**And** I should see that my partial edits to my demographics were not saved
+
 ## Exploring Workflows
 
 ### Use the existing VA.gov Profile exclusively
