@@ -1,5 +1,8 @@
 This reference document shows where to access all things related to MO Studio's work on the Health Apartment that are not included in the "final documents" folder. 
 
+### Roadmap
+* The POC roadmap can be found [here](https://app.zenhub.com/workspaces/health---apartment-614de421e25eb20013d1ee70/roadmap)
+
 ### Research
 * 2021 research plans, conversations guides and results, including those from guerilla testing, tree testing and tech discovery, can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/research/2021)
 * The presentation of the guerilla research findings can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/design/design%20presentation)
