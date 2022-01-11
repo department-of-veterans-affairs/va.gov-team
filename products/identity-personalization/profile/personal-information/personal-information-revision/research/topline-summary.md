@@ -27,9 +27,6 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## Initial Findings
 
-_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
-
-
 **#1: Veterans are not confident their personal information will be used for their benefit.**
 
 - Privacy Concerns - Participants are worried that this information could fall into the wrong hands or that those with access would make judgements/use the information to someone’s disadvantage
@@ -130,6 +127,6 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 
 **#7: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.**
-	
-	> “I think it is great to update both at the same time and you can do one section at a time instead of the whole thing.” - P13
 
+> “I think it is great to update both at the same time and you can do one section at a time instead of the whole thing.” - P13
+	
