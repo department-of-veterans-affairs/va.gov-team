@@ -145,7 +145,7 @@ Note: None of the research participants had ever seen the Outreach Events page o
     3. How many people are expected to be there, especially if it's a support group? One participant, who's a caregiver for her Veteran husband, said that it makes a big difference for him with his PTSD. Similarly, people with anxiety might want to know how many people to expect and decide whether to attend based on this information.
 1. **Some events in the event list didn't have a description**, or what was there duplicated the event title or was too vague to understand anything about the event ("Presented by American Red Cross"). 
 2. One participant was concerned about the ease of coming back to register for additional occurrences of a given event and **hoped that their information would be saved so they wouldn't have to enter it every time**. Can we save the information entered previously? Or can we pre-populate the user's contact information if they're currently logged into VA.gov?
-3. One participant said they didn't like the **American flag shown in the top left corner** next to "An official website of the United States government" because it's not accurate with the stars not lined up the way they are in the real American flag. Below _(left)_ is the flag on VA.gov with 3 rows of stars that form a  different shape from the stars in the real American flag _(below right from Wikipedia)_ with 9 rows that form a rectangle.
+3. One participant said they didn't like the **American flag shown in the top left corner** next to "An official website of the United States government" because it's not accurate with the stars not lined up the way they are in the real American flag. Below _(left)_ is the flag on VA.gov with 3 rows of stars that form a  different shape from the stars in the real American flag _(below right from Wikipedia)_ with 9 rows that form a rectangle. (CURRENTLY BEING WORKED ON)
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/Amer-flag-VAgov.png"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/Amer-flag-wikipedia.png" width="10%" height="10%">
 
@@ -154,16 +154,16 @@ The recommendations for MVP have been discussed with the Public Websites team, a
 ## For MVP (near term)
 1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead. (DONE)
 3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed. (DONE)
-4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to recognize as navigation rather than part of the event description. (DONE)
+4. **Visually differentiate the navigation link _See other outreach events_** (_See all events_ on Production) from the event description on the event detail page so it's easier to recognize as navigation rather than part of the event description. (DONE. SHOULD MONITOR KPIs AND ANALYTICS TO SEE IF PEOPLE ARE USING THIS LINK TO GO BACK TO THE EVENT LIST OR BOUNCING ELSEWHERE.)
 1. Content editors should be encouraged to **include more information about each event**, including the following:
     1. For the event list, include a **meaningful short description that is a concise descriptive overview of the event**. Don't leave this blank, repeat words from the event title, or just say who's presenting the event. 
     1. For the event detail page, provide **logistical details about the event that enable Veterans to decide whether to register**, including an overview of the event, what (if any) preparation is required, what you need to bring/have to attend the event, what you'll learn from the event or do at during the event, and a rough estimate of how many people might be there. 
     1. For the event detail page, if applicable, consider providing the name of the building or facility (e.g., fairgrounds, airport, VA hospital), and a phone number or email for more information.
-    - (ADVISED CMS TO INCLUDE ALL OF THESE IN CONTENT EDITOR ONBOARDING BUT DON'T THINK IT'S HAPPENED YET)
+    - (THESE HAVE BEEN SHARED WITH CMS FOR EVENT EDITOR ONBOARDING. WE SHOULD WRITE AN ARTICLE ABOUT THESE SUGGESTIONS, AND CMS COULD POINT EVENT EDITORS TO IT.)
 
 ## For future iterations
-5. Consider enabling users to **register for multiple occurrences of an event at once**. (WE HAVE NO CONTROL OVER REGISTRATION SO CAN'T DO THIS)
-5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event").
+5. Consider enabling users to **register for multiple occurrences of an event at once**. (WE HAVE NO CONTROL OVER REGISTRATION SO CAN'T DO THIS NOW. COULD DO DISCOVERY RESEARCH AROUND REGISTRATION EXPERIENCES WE'VE PROVIDED TO VETERANS.)
+5. **Add location information to each event in the event list** (i.e., city and state for in-person events or "This is an online event"). (START BY REQUIRING EVENT EDITORS TO ENTER LOCATION FOR EVERY EVENT. COULD DO DISCOVERY RESEARCH AROUND END-USER EXPERIENCE AND EVENT EDITOR EXPERIENCE.)
 6. Provide **filtering by location (i.e., state), event type, and search** to better support how participants wanted to look for events. 
     1. In location filtering, show the option of whether to include online/virtual events.
     1. Consider adding the ability to **see events "near me"**, per the user's home address (if they're logged in) or current location (via smartphone).
