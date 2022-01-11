@@ -12,8 +12,30 @@
 
 ## January 11, 2022
 ### Agenda
-- Refocusing our Q1 priorities through ContentOps lens
-- Identify specific epics that reflect those priorities
+- Denise: Welcome: Mikki Northuis
+
+- Kevin: New teams
+  - CMS Product support
+    - We collaborate with VFS product teams to create tools and processes that support editors’ experiences with specific CMS products. By building and iterating on thoughtful, innovative, streamlined products we enhance the CMS as a whole.
+  - CMS Content ops
+    - Fortify the foundation of common tools, governance policies, and processes that help editors and product teams create and maintain Veteran-centered content across all CMS supported products.
+  - CMS Experience
+    - Establish design patterns, features, and branding that move the application towards a cohesive editorial experience that inspires editors.
+  - CMS User support (helpdesk, training)
+  - CMS Offices product (fka Tier 3)
+  - **QUESTION**: Roles for VAMC Upgrade Team?
+  - **QUESTION**: how will these teams need to work together on content strategy?
+
+- Refocusing our Q1 priorities through ContentOps lens (in progress) and map to VA content priorities set December 14. 
+
+- Denise: Sharing our candidate outcomes for Q1:
+  - iterate on a content library product (single source of truth, governance)
+  - explore how VA services might align with products in the future (structured content)
+  - improve CMS accessibility tools across all products (quality)
+  - align VACMS with VA design system and content style guide
+  - reduce bad and broken links (quality)
+  - support Customer Service team with Account administration (workflow)
+  - develop content auditing / sunsetting policies across products (quality, governance)
 
 
 ## December 14, 2021
