@@ -64,7 +64,8 @@
 |Dillo Raju|Senior Back End Engineer HCE|dillo.raju@gcio.com|
 
 ## Related Documents
-* [Sketch](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
+* [Sketch](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e)
+* [Sketch Two](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e)
 * [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 * [Check-In Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 * [Research Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research)
