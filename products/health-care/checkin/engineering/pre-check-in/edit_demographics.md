@@ -344,11 +344,12 @@ _What user and systems metrics do we want to track?_
 - Will the user demographics edits/changes be reflected instantaneously across the relevant VA systems?
 - Will it be confusing for the user to navigate to their profile page after editing their next-of-kin or emergency-contact information and not see that information populated in the profile?
 - **Does VA Profile have the ability to update the timestamp on file 41.41 if the veteran confirms that none of their demographics information has changed using their mobile device or desktop computer?**
-- **What happens when a veteran updates their contact information from the VA.gov Profile today? Are the staff members able to view that information immediately through the VSE application? If so, was the timestamp on file 41.41 updated?**
+- **What happens when a veteran updates their contact information from the VA.gov Profile today? Are the staff members able to view that information immediately through the VSE application? If so, was the timestamp on file 41.41 updated? Is the update associated with an external system?**
 
 ## Staff Facing Questions
-- VSE Clinical Staff will need access to the veterans updated _demographics data_[^2]. What additional work(integrations/endpoint-support) will CHIP need to complete in-order to facilitate this access for VSE?
-- Updating the timestamp on file 41.41 by a staff member after confirming a veterans information is an action that is a factor in that staff members performance evaluation/review. Will an external system(the pre-check-in flow) performing the same job cause an issue?
+- VSE Clinical Staff will need access to the veterans updated _demographics data_[^2]. What additional work(integrations/endpoint-support/components/lambdas) will CHIP need to provide in-order to facilitate this access for VSE?
+- When a staff member confirms a veterans information on site, the timestamp on file 41.41 is updated and the staff members ID is associated with the file and the updated timestamp. This action that a staff member takes on multiple occasions with several veterans on site is taken into consideration when the staff members receives a performance evaluation. Will an external system(the pre-check-in flow) performing the same job as a staff member cause an issue?
+- Will an external system(VA Profile for instance) be given permission to update file 41.41 without confirmation by a staff member?
 
 ## Engineering Solutions
 
