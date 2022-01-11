@@ -9,7 +9,6 @@ If a Veteran experiences harassment or other inappropriate behavior while at a V
 ## Research questions *(need to prioritize which to ask in this study)*
 1. How do Veterans today report harassment at the VA? *(e.g., talk with someone/police at the VA, call 911, google)*
 2. How would Veterans find out how to report harassment at the VA? *(e.g., ask someone, google it, VA.gov)* 
-DELETE 3. Where do Veterans look to find information on harassment on VA.gov? *(DO WE WANT TO KNOW THIS?)*
 4. What are users' reactions to the poster?
     1. What sentiments/feelings do they express? *(quotes about safety, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
 4. What are users' reactions to the static landing page? 
@@ -19,8 +18,6 @@ DELETE 3. Where do Veterans look to find information on harassment on VA.gov? *(
     6. What do they expect will happen after they report?
     
 5. How do Veterans prefer to report harassment? (ask at end) *(e.g., in person at the VA, via phone, via online form on phone/tablet/computer)*
-
-6. How do Veterans feel about the process of reporting harassment to the VA? *(SAVE FOR LATER when we test the online reporting form)
     
 ## Hypotheses
 1. Veterans will feel comfortable reporting harassment that occurs at the VA.
@@ -54,15 +51,15 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ### Must have for participants
 - ALL are Veterans
 - ALL are comfortable talking about harassment at the VA and sharing their opinions about it
-- ALL have a smartphone and are willing to join our Zoom call from their phone
-  - All have a working microphone on their phone
-  - All have the Zoom app downloaded to their phone prior to the session and know how to share their screen
-  - During the session, all are willing to share their web browser window over Zoom
-
-*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone**, not a computer or tablet?*
+- Have a computer, tablet, or smartphone and be willing to be complete their interview on one of those devices 
+  - During the session, be willing to share a web browser window on their device
+  - Have a working microphone on their device
+  - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
 ### Good to have for participants
 - At least 4 people have experienced harassment while applying for, using, or communicating about VA benefits
+- At least 3 people who use a screen reader
+- At least 3 people who plan to use their smartphone for the session
 - At least 4 women
 - At least 2 men
 - At least 3 people who identify as gay, lesbian, bisexual, or transgender
