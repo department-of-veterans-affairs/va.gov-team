@@ -1,6 +1,17 @@
 **Wireflows change log**
 ----
 
+## Wireflow V2.1
+
+![V2.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/design/Screen%20Shot%202022-01-11%20at%204.11.49%20PM.png)
+
+# Notes
+
+* Removed the transaction table due to data constraints 
+* Removed the wizard due to not having VHA-supported FSR at the time of the MVP's launch
+   * The content that would be found within the wizard was incorporated into the details page  
+* Incorporated status updates into the overview and details pages 
+
 ## Wireflow V1.2
 
 ![V1.2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/design/Screen%20Shot%202021-06-16%20at%204.41.41%20PM.png)
