@@ -1,4 +1,4 @@
-# Research Plan: VSA 10-10, Sign as a respresentative and upload legal document 10-10CG form, January 2022
+# Research Plan: VSA 10-10, Sign as a representative and upload legal document 10-10CG form, January 2022
 
 ## Background
 
