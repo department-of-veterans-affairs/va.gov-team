@@ -249,6 +249,7 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
 - How will this addition affect other teams on va.gov?
 - If the VA.gov Profile team decides not to support showing or updating next-of-kin and emergency contact information, do we(Check-In) provide partial functionality for updating only the veterans contact information through them?
 - Will the user demographics changes be reflected instantaneously across the relevant VA systems?
+    - What all systems are we updating? Are VBA databases impacted too? What does VA.gov Profile integrate with? We need to know, because Veterans want to know what is impacted when making a change within pre-check-in.(We will surface this information in the UI.)
 
 ### Use the existing VA Profile service(different from VA.gov Profile) exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
@@ -278,6 +279,8 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
 - How long will it take the VA Profile team to provide this additional functionality if they agree to implement our request?
 - How will this affect other teams on va.gov?
 - Will the user demographics changes be reflected instantaneously across the relevant VA systems?
+    - What all systems are we updating? Are VBA databases impacted too? What does VA Profile integrate with? We need to know, because Veterans want to know what is impacted when making a change within pre-check-in.(We will surface this information in the UI.)
+
 
 ### Build additional systems and services in-order to handle updated demographics information
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
@@ -341,12 +344,14 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
     - Product to Product communication to be established
 - How can we validate an address which a veteran might update or enter from the UI?
     - VA Profile API provides its clients an address validation endpoint which we can use to make sure that the provided address is valid
+    - Do we need to validate next of kin and emergency contact addresses in addition to Veteran addresses?
 - Can we get the VA Profile team to support updating *Next-of-Kin* or *Emergency Contact* information and who will be responsible for spear heading this initiative?
     - Pending
 - How long will it take the VA Profile team to provide this additional functionality if they agree to implement our request?
     - Pending
 - How will this affect other teams on va.gov? Will this have a negative effect on the VA.gov Profile system?
 - Will the user demographics edits/changes be reflected instantaneously across the relevant VA systems?
+  - What all systems are we updating? Are VBA databases impacted too? What does the system we are integrating with integrate with? We need to know, because Veterans want to know what is impacted when making a change within pre-check-in.(We will surface this information in the UI.)
 - Will it be confusing for the user to navigate to their profile page after editing their next-of-kin or emergency-contact information and not see that information populated in the profile?
 - Does VA Profile have the ability to update the timestamp on file 41.41 if the veteran confirms that none of their demographics information has changed using their mobile device or desktop computer?
 - What happens when a veteran updates their contact information from the VA.gov Profile today? Are the staff members able to view that information immediately through the VSE application? If so, was the timestamp on file 41.41 updated? Is the update associated with an external system?
