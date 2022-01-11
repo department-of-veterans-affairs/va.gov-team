@@ -10,6 +10,12 @@
 <details><summary>Parking lot</summary>
  </details>
 
+## January 11, 2022
+### Agenda
+- Refocusing our priorities through ContentOps lens
+- Identify specific epics that reflect priorities
+
+
 ## December 14, 2021
 ### Content priorities for VA team
 - Establish baseline metrics (Danielle)
