@@ -356,8 +356,9 @@ _What user and systems metrics do we want to track?_
 - How will this affect other teams on va.gov? Will this have a negative effect on the VA.gov Profile system?
 - Will the user demographics edits/changes be reflected instantaneously across the relevant VA systems?
 - Will it be confusing for the user to navigate to their profile page after editing their next-of-kin or emergency-contact information and not see that information populated in the profile?
-- **Does VA Profile have the ability to update the timestamp on file 41.41 if the veteran confirms that none of their demographics information has changed using their mobile device or desktop computer?**
-- **What happens when a veteran updates their contact information from the VA.gov Profile today? Are the staff members able to view that information immediately through the VSE application? If so, was the timestamp on file 41.41 updated? Is the update associated with an external system?**
+- Does VA Profile have the ability to update the timestamp on file 41.41 if the veteran confirms that none of their demographics information has changed using their mobile device or desktop computer?
+- What happens when a veteran updates their contact information from the VA.gov Profile today? Are the staff members able to view that information immediately through the VSE application? If so, was the timestamp on file 41.41 updated? Is the update associated with an external system?
+- Can we still provide this(demographics edit) functionality to the veteran through the Pre-Check-In flow if our ability to update file 41.41 is denied?
 
 ## Staff Facing Questions
 - VSE Clinical Staff will need access to the veterans updated _demographics data_[^2]. What additional work(integrations/endpoint-support/components/lambdas) will CHIP need to provide in-order to facilitate this access for VSE?
