@@ -1,7 +1,7 @@
 # SAHG Product Outline Template
 
 ## Overview
-The Specially Adapted Housing Grant feature is a transactional for mto submit a request for money to modify a home for special needs.
+The Specially Adapted Housing Grant feature is a transactional form (VA Form 26-4555) to submit a request for money to modify a home for special needs.
 
 
 ## Problem Statement
