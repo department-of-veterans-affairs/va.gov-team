@@ -34,6 +34,11 @@
   - reporting
 - Prescott Vet Center - need to change service names
 - Vet Center operating status - is there an easier way for editors? (saving as draft for unpublished, saving as published for published is challenging when making dozens of changes a day during this time when not all are published)
+- Lovell design - Nick
+- Health service design (next week?) - Nick
+- CMS toggle 
+  - Staging - how permanent/temporary? do these get blown away? 
+  - HMW work toward CMS as single source of truth for prod/staging? (Cerner)
 
 
 ## January 5
