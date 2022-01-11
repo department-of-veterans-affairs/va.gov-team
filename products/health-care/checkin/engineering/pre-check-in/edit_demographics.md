@@ -113,7 +113,7 @@ _What user and systems metrics do we want to track?_
 ### Happy Path Stories
 > **In order** to provide all concerned parties my latest demographics changes before a scheduled appointment  
 > **As a** Veteran  
-> **I want** the ability to securely edit and save my demographics information to the va systems during my Pre-Check-In work flow  
+> **I want** the ability to securely edit and save my _demographics data_[^2] to the va systems during my Pre-Check-In work flow  
 
 #### Scenario Setup:    
 **Given** I have an upcoming appointment in the system at a facility/clinic where I'm registered at  
@@ -131,8 +131,8 @@ _What user and systems metrics do we want to track?_
 **Then** I am redirected to the main va.gov login page  
 **when** I login using my va.gov credentials  
 **Then** I am successfully redirected back to my Pre-Check-In demographics page  
-**And** I have the ability to edit all of my demographics information  
-**When** I edit any or all of my demographics info and submit the changes  
+**And** I have the ability to edit all of my _demographics data_[^2]  
+**When** I edit any or all of my _demographics data_[^2] and submit the changes  
 **Then** I can see that my changes have been validated  
 **And** can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it  
 
@@ -160,7 +160,7 @@ _What user and systems metrics do we want to track?_
 **Given** I have _fully authenticated_[^1] using my va.gov credentials  
 **And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
 **And** I have entered into edit mode on the form  
-**And** I have not made any changes to my current demographics information  
+**And** I have not made any changes to my current _demographics data_[^2]  
 **When** I submit the form to update and save my information to the VA systems  
 **Then** I should be shown a message which requires me to make a change to my information before submitting  
 **And** my browser should not initiate a request to any APIs inorder to update my information  
@@ -220,19 +220,19 @@ _What user and systems metrics do we want to track?_
 
 ### Use the existing VA.gov Profile exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
-* Vets-Website requests pre-stored demographics data for the user from Vets-API
+* Vets-Website requests pre-stored _demographics data_[^2] for the user from Vets-API
 * Vets-API Check-In service requests for the latest user data from the LoROTA service
 * Vets-API returns the user data back to the Vets-Website(VA.gov FE)
 * User edits ALL of their demographics information in the UI and submits the changes
 * Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
-* Vets-API then internally leverages the VA.gov Profile interface and directly submits the updated demographics data to the VA.gov Profile
+* Vets-API then internally leverages the VA.gov Profile interface and directly submits the updated _demographics data_[^2] to the VA.gov Profile
 * VA.gov Profile, through it's set of down stream services, updates and saves the user's demographics information in the VA systems
 * VA.gov Profile returns a success status and message back to the Vets-API
 * Vets-API invokes the data refresh endpoint on the CHIP service
 * CHIP service pulls the user's latest demographics information and then updates LoROTA with that data
 * CHIP returns a success status and message back to Vets-API
-* Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
-* Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
+* Vets-API queries LoROTA for the user's latest _demographics data_[^2] with the appropriate UUID
+* Vets-API returns a success message as well as the newly updated _demographics data_[^2] back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 #### Challenges and Questions:
 - Currently, we can only submit a veteran's updated *contact* information to the VA.gov Profile
@@ -247,20 +247,20 @@ _What user and systems metrics do we want to track?_
 
 ### Use the existing VA Profile service(different from VA.gov Profile) exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
-* Vets-Website requests pre-stored demographics data for the user from Vets-API
+* Vets-Website requests pre-stored _demographics data_[^2] for the user from Vets-API
 * Vets-API Check-In service requests for the latest user data from the LoROTA service
 * Vets-API returns the user data back to the Vets-Website(VA.gov FE)
 * User edits ALL of their demographics information in the UI and submits the changes
 * Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
-* Vets-API uses a new downstream integration with the VA Profile, yet to be established via the CHIP service, to submit the updated demographics data to the VA Profile service
+* Vets-API uses a new downstream integration with the VA Profile, yet to be established via the CHIP service, to submit the updated _demographics data_[^2] to the VA Profile service
 * VA Profile updates and saves the user's demographics information in the VA systems
 * VA Profile returns a success status and message back to the CHIP service
 * The CHIP service responds back with a success message and status to the Vets-API
 * Vets-API invokes the data refresh endpoint on the CHIP service
 * CHIP service pulls the user's latest demographics information(updated previously by VA Profile) and then updates LoROTA with that data
 * CHIP returns a success status and message back to Vets-API
-* Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
-* Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
+* Vets-API queries LoROTA for the user's latest _demographics data_[^2] with the appropriate UUID
+* Vets-API returns a success message as well as the newly updated _demographics data_[^2] back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 #### Challenges and Questions:
 - Establishing an integration with the VA Profile service from the CHIP service
@@ -276,19 +276,19 @@ _What user and systems metrics do we want to track?_
 
 ### Build additional systems and services in-order to handle updated demographics information
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
-* Vets-Website requests pre-stored demographics data for the user from Vets-API
+* Vets-Website requests pre-stored _demographics data_[^2] for the user from Vets-API
 * Vets-API Check-In service requests for the latest user data from the LoROTA service
 * Vets-API returns the user data back to the Vets-Website(VA.gov FE)
 * User edits ALL of their demographics information in the UI and submits the changes
 * Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
-* Vets-API submits the updated demographics data to a new service or a set of services
+* Vets-API submits the updated _demographics data_[^2] to a new service or a set of services
 * Proposed new services update the user's demographics information, saving it to the appropriate VA systems
 * Proposed service returns a success message and status back to the Vets-API
 * Vets-API invokes the data refresh endpoint on the CHIP service
 * CHIP service pulls the user's latest demographics information and then updates LoROTA with that data
 * CHIP returns a success status and message back to Vets-API
-* Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
-* Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
+* Vets-API queries LoROTA for the user's latest _demographics data_[^2] with the appropriate UUID
+* Vets-API returns a success message as well as the newly updated _demographics data_[^2] back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 #### Challenges and Questions:
 - Who can give our team the authorization to build this new service or services?
@@ -308,27 +308,27 @@ _What user and systems metrics do we want to track?_
 **Recommended Workflow**
 ### Use the existing VA Profile service exclusively
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
-* Vets-Website requests pre-stored demographics data for the user from Vets-API
+* Vets-Website requests pre-stored _demographics data_[^2] for the user from Vets-API
 * Vets-API Check-In service requests for the latest user data from the LoROTA service
 * Vets-API returns the user data back to the Vets-Website(VA.gov FE)
 * User edits ALL of their demographics information in the UI and submits the changes
 * Vets-Website POSTs the updated information to a Vets-API endpoint in the Check-In module
-* Vets-API uses a new downstream integration with the VA Profile, yet to be established via the CHIP service, to submit the updated demographics data to the VA Profile service
+* Vets-API uses a new downstream integration with the VA Profile, yet to be established via the CHIP service, to submit the updated _demographics data_[^2] to the VA Profile service
 * VA Profile updates and saves the user's demographics information in the VA systems
 * VA Profile returns a success status and message back to the CHIP service
 * The CHIP service responds back with a success message and status to the Vets-API
 * Vets-API invokes the data refresh endpoint on the CHIP service
 * CHIP service pulls the user's latest demographics information(updated previously by VA Profile) and then updates LoROTA with that data
 * CHIP returns a success status and message back to Vets-API
-* Vets-API queries LoROTA for the user's latest demographics data with the appropriate UUID
-* Vets-API returns a success message as well as the newly updated demographics data back to the Vets-Website
+* Vets-API queries LoROTA for the user's latest _demographics data_[^2] with the appropriate UUID
+* Vets-API returns a success message as well as the newly updated _demographics data_[^2] back to the Vets-Website
 * User is able to view their updated demographics information in the UI on their modbile device or desktop
 
 ## Engineering Questions
 - Where does user demographics information(contact, next-of-kin, emergency-contact) belonging to a veteran live?
     - The VA Profile team is responsible for the veterans contact information.
     - The VA Profile team will be responsible for the next-of-kin and emergency-contact data belonging to veterans(once the team has agreed to support these)
-    - We're not certain at this point about what databases or systems house the veterans demographics data
+    - We're not certain at this point about what databases or systems house the veterans _demographics data_[^2]
 - Where can we find the contact information for the VA Profile team?
     - Corey to find out
 - Who is responsible for initiating the conversation with the VA Profile team?
@@ -347,7 +347,7 @@ _What user and systems metrics do we want to track?_
 - **What happens when a veteran updates their contact information from the VA.gov Profile today? Are the staff members able to view that information immediately through the VSE application? If so, was the timestamp on file 41.41 updated?**
 
 ## Staff Facing Questions
-- VSE Clinical Staff will need access to the veterans updated demographics data. What additional work(integrations/endpoint-support) will CHIP need to complete in-order to facilitate this access for VSE?
+- VSE Clinical Staff will need access to the veterans updated _demographics data_[^2]. What additional work(integrations/endpoint-support) will CHIP need to complete in-order to facilitate this access for VSE?
 - Updating the timestamp on file 41.41 by a staff member after confirming a veterans information is an action that is a factor in that staff members performance evaluation/review. Will an external system(the pre-check-in flow) performing the same job cause an issue?
 
 ## Engineering Solutions
