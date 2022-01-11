@@ -77,7 +77,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 	> “It says required in red. Unless it directly has an impact on my care or disability I don’t know why it needs to be shared, it should be an option.” - P13
 
 
-**#4: The participants who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.**
+**#4: Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.**
 
 	> “I would call someone at VA and complain [if I saw sexual orientation in my own profile].” - P3
 
@@ -86,7 +86,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 	> “Still keeping initial information on file and making you see it, then putting new stuff, almost like they aren’t accepting you. - P8”
 
 
-**5: The participants who did not identify as other than straight or cisgender expressed that they would not use fields themselves, but could see the usefulness for others.**
+**5: Veterans who did not identify as other than straight or cisgender expressed that they would not use fields themselves, but could see the usefulness for others.**
 
 	> "I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1
 
