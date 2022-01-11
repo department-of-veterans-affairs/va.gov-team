@@ -7,8 +7,6 @@
 - [Related Documents](#related-documents)
 - [Pilot Site](#pilot-site)
 - [Problem Statement](#problem-statement)
-- [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
 - [Measuring Success](#measuring-success)
 - [Exploring User Scenarios](#exploring-user-scenarios)
     - [Happy Path Stories](#happy-path-stories)
@@ -85,25 +83,11 @@ Veterans **cannot** update their _demographics data_[^2] for upcoming appointmen
 
 ### Consequences
 
-Not having the ability to update _demographics_data_[^2] is a loss of business value to the Pre-Check-In feature.
+Not having the ability to update _demographics_data_[^2] is a loss of value to veterans and the Pre-Check-In feature.
 
 ### Proposal
 
 The Check-In-Experience team seeks to resolve this issue iteratively by leveraging existing engineering pipelines and systems, and additionally, identifying and implementing new systems and services which will facilitate the desired workflow.
-
-## User Outcomes
-
-### Positive
-_Why would a veteran want the ability to edit their demographics information during the Pre-Check-In process?_
-
-### Negative
-
-## Business Outcomes
-
-### Positive
-_Why would the business wish to have a veterans updated demographics information during the Pre-Check-In process?_
-
-### Negative
 
 ## Measuring Success
 _What user and systems metrics do we want to track?_
