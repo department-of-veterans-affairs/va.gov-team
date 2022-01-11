@@ -1,4 +1,4 @@
-## Knowledge sharing session between Ryan Kock and Napoleon Kernessant
+## Knowledge sharing session between Ryan Koch and Napoleon Kernessant
 
 **January 6, 2022**
 Recording of and notes from a knowledge share regarding recent work to top tasks/non-clinical services.  
