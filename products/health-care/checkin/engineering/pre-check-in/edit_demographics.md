@@ -217,7 +217,7 @@ _What user and systems metrics do we want to track?_
 **Then** I should see my demographics information from when I first got the pre-check-in flow SMS  
 **And** I should see that my partial edits to my demographics were not saved  
 
-**Scenario:**Address Validation with Postal Service
+**Scenario:** Address Validation with Postal Service
 
 Needs to be filled out. There are many use cases in the wireframes, which was copied from the profile team.
 
