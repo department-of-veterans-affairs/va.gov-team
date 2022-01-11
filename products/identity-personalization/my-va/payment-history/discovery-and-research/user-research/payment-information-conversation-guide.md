@@ -96,7 +96,7 @@ I'd like you to imagine that new debt has been added to your account- after you 
 
 - Thanks for showing that to me. Now I'm going to ask you to log in to the site. Before you do, I want to remind you that this means we'll see your personal information on the site. I'm going to pause the recording now:
   
-  **Pause recording, have user log in.** **If there are login issues, go to the prototype.**
+  **Pause recording, have user log in.** **If there are login issues, go to the prototype in the next section.**
   
 - Thank you. Now I'll ask you to navigate to My VA.
   
@@ -109,7 +109,9 @@ I'd like you to imagine that new debt has been added to your account- after you 
 
 *If using a prototype:*
 
-- We will be looking at a prototype as the logged-in user 'Kim Smith' (who is completely fictional) today, and if you could pretend to be her for these exercises that would be great.
+- Since we had login issues, we have a prototype we can use.
+  
+- We will be looking at a prototype as a fictional logged in user, so if you could pretend to be that person for these exercises that would be great.
   
 - Have link to prototype ready: [desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) and [mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
   
