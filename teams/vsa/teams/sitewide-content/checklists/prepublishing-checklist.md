@@ -1,17 +1,22 @@
-# Prepublishing checklist
+# Pre-publishing checklist
 
 ## For all VA.gov pages
 
-- [ ] Check all links to confirm they work and point to the intended page.
+### Accessibility issues
+
 - [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible](https://www.accessibilityoz.com/2014/02/links-and-accessibility/)
-- [ ] Confirm all links are 100 characters or less.
 - [ ] Confirm all phone numbers are in [aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers).
 - [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/)
-- [ ] Check that we use [Node IDs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) instead of urls to link to other pages within Drupal.
 - [ ] Replace any sighted language ("view," "see," "look") with a word that's inclusive of our screen reader users ("check," "go to," "review").
 - [ ] Avoid using other ability-focused language. ("hear back from")
-- [ ] If publishing a brand-new page, [confirm the left nav and url are set up correctly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md). (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.)
+- [ ] Check all links to confirm they work and point to the intended page.
+
+### Style guide and Drupal issues
+
+- [ ] Confirm all links are 100 characters or less.
+- [ ] Check that we use [Node IDs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) instead of urls to link to other pages within Drupal.
 - [ ] Make sure all apostrophes and quotation marks are curly not straight.
+- [ ] If publishing a brand-new page, [confirm the left nav and url are set up correctly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md). (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.)
 - [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
 
 ## For Resources and Support articles
@@ -31,7 +36,7 @@
 - [ ] "Repeat CTA buttons" box if it's a long article. This will display the action link at both the top and bottom of the page.
 - [ ] **For a single Q&A:** "Enable standalone Resources and support page for this Q&A."
 
-# Post-publishing R&S checklist
+## Post-publishing R&S checklist
 
 - [ ] Add the article to the R&S landing page in the correct hub. If there are already more than 5 articles in that hub, you don't need to add it unless you want it to replace another article already on the page.
 - [ ] If the article is the sixth one in a hub to be published, add the "Go to all articles" link at the bottom of the hub section on the landing page.
