@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, October 2021
+# [DRAFT] Conversation Guide: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, January 2022
 
 ## Moderator Logistics
 
@@ -57,10 +57,6 @@ Great. Now we're really ready to begin!
 - Does your caregiver receive any benefits from the VA?
   -If yes, what sort of benefits?
   -Are you/they part of the Program of Comprehensive Assistance for Family Caregivers?
--Do you have more than one caregiver?
-  -If yes,  tell me a bit about that relationship?
-  -Are they a family member or friend?
-  -Do they live with you? 
 
 
 **For Caregivers:**
@@ -69,12 +65,9 @@ Great. Now we're really ready to begin!
 - Do you receive any benefits from the VA?
   -If yes, what sort of benefits?
   -Are you part of the Program of Comprehensive Assistance for Family Caregivers?
-- Does the Veteran have more than one caregiver?
-  -If yes, can you tell me a bit about that situation?
-  - Are they a family member or friend?
-  - Do they live with the Veteran?
 
-## Applying for benefits task with first representative option - 15 minutes
+
+## Applying for benefits task with first representative option - 20 minutes
 
 Now that I understand a little bit more about your background. 
 
@@ -96,18 +89,30 @@ If they need a SSN, use 548-79-5555
 - Any hiccups? Do they know all the information?
 - Any fields trip them up?
 - Anything particularly confusing for them?
-- Pay close attention to the representative and document upload sections 
-  - Do they have a fear that the documentation is a requirement for the program?
-  - What documents do they upload here?
-  - Do the upload instructions make sense to them?
-  - Do they already have a digital copy of the documents? (explain what this means if necessary)
-  - How do they usually create a digital copy of your paper documents? (prompt with personal scanner, photo, local office store, etc. if hesitation)
-- Make sure to ask what they are thinking when there's any hesitation 
 
-**On review/signature page**
-- Would you mind walking me through this page
-  - Pay attention to who they think should sign in each signature box
-- Does anything stand out to you on this page? Anything you like? Find confusing? or just catches your eye?
+**On the "Select who will sign for the Veteran today" page**
+- _Pay special attention to abandonment risk_
+- Anything stand out to you on this page?
+- How did you make your decision?
+- Do you have any questions about this page or is there anything you would like to know more about?
+- Can you explain what this page is asking in your own words?
+    - Why do you think the VA asks this? 
+- What do you think will happen next?
+
+
+**On document upload page**
+  _- Does the participant have fear that the documentation is a requirement for the program?_
+  - What documents do they upload here?
+    - _What are the participants' mental models of the document needed? Pay special attention to if they specify that the document should have a medical stipulation _
+    - What documents do they think won't be accepted?/ Do they notice the "note"?
+  - What would you do if you felt like you arrived on this page by accident?/ _Do participants notice the yellow box alert?_
+
+**_After participant completes document upload page_**
+- In your own words can you tell me what this page is asking you to do?
+- On a scale of 1-10 with 1 being not confident at all and 10 being completely confident, how confident or not were you that you were uploading the correct document?
+    - Can you tell me why you felt this level of confidence?
+    - _If applicable:_ What information would you need to feel fully confident? What would you do if you were uncertain?
+
 
 
 ## Post task questions - 10 minutes
@@ -118,24 +123,7 @@ Wonderful! I have a few questions about what you just saw in the prototype.
 
 - What did you think of the overall experience in completing this form?
 - What was the hardest part of completing the form? Were there any areas you felt were unclear? 
-- What worked well? 
-
-**Representative 
-
-- I'd like to talk about a specific page now. Can you please click back (twice) which brings us back to the Representative documentation page.
-  - Can you tell me how you decided/knew that you were/weren’t a representative?
-  - Can you elaborate on your reasoning for your selection?
-  - In your own words, what type of document do you think can be accepted?
-  - How confident would you feel that you have the right documentation. - Dig into _Dig into any uncertainty_
-  - In your own words, what is the difference between a general power of attorney (POA) and a health care power of attorney
-  - What could we do to improve the information around representatives? 
-
-  
-
-
-## Wrap-up questions - 5 minutes
-
-- Any other thoughts about the form?
+- What worked well?
 - Do you have any questions for me before we conclude?
  
 ## Thank you and Closing
