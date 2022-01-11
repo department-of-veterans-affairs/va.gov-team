@@ -63,8 +63,9 @@ Great. Now we're really ready to begin!
 - Tell me a little bit about yourself
 - Tell me a bit about the relationship you have with the Veteran.
 - Do you receive any benefits from the VA?
-  -If yes, what sort of benefits?
-  -Are you part of the Program of Comprehensive Assistance for Family Caregivers?
+  - If yes, what sort of benefits?
+  - Are you part of the Program of Comprehensive Assistance for Family Caregivers?
+
 
 
 ## Applying for benefits task with first representative option - 20 minutes
@@ -77,7 +78,10 @@ Let's say you heard about a way you and your caregiver could receive benefits fr
 
 **For Caregivers:**
 
-Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at **insert link**. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
+Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at **insert link**. Now let's imagine you've decided you'd like to apply for these benefits. 
+
+- In your circumstance who do you think would fill out this application? (you or the Veteran)
+- Go ahead and show us what you would do to apply. 
 
 **Things to watch for:**
 
