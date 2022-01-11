@@ -77,9 +77,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 	> “It says required in red. Unless it directly has an impact on my care or disability I don’t know why it needs to be shared, it should be an option.” - P13
 
 
-**#4: Veterans conveyed mixed opinions on the information included in Personal information section.**
-
-- The participants who identified as other than straight or cisgender  found the sex assigned at birth and sexual orientation fields triggering.
+**#4: The participants who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.**
 
 	> “I would call someone at VA and complain [if I saw sexual orientation in my own profile].” - P3
 
@@ -87,11 +85,13 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 	> “Still keeping initial information on file and making you see it, then putting new stuff, almost like they aren’t accepting you. - P8”
 
-- The participants who did not identify as other than straight or cisgender expressed that they would not use fields themselves, but could see the usefulness for others.
+
+**5: The participants who did not identify as other than straight or cisgender expressed that they would not use fields themselves, but could see the usefulness for others.**
 
 	> "I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1
 
-- 3 of 5 participants would like to add fields with additional information that is important to them - Title / Religious preferences / Military Information. 
+
+**6: 3 of 5 participants would like to add fields with additional information that is important to them - Title / Religious preferences / Military Information.** 
 
 	> “..if we are going with pronouns, I prefer title like Ms. Mr. Miss. LtCol, etc. – the means of addressing. If you ask the pronoun then I would expect the title to be called.” - P6
 	
@@ -100,7 +100,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 	> “I didn’t see the field for my SSN, or military id. EDIPI. The DoD number is different from the SSN. I question why it's not there.” - P6
 	
 
-**#5: Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.**
+**#7: Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.**
 
 - Suggested alphabetizing items to remove social hierarchy (this came up most for Sexual orientation field).
 	
@@ -111,7 +111,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 	> “If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1
 
 
-**#6: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
+**#8: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
 
 - Participants did not always notice the FAQs or did not associate the FAQs with the fields in question.
 
@@ -126,7 +126,7 @@ This topline summary is a high level, top of mind summary of trends found in the
 	> (Did the FAQ address your questions?) “It didn’t. I think it is more about collection of information and data points. I wouldn’t feel like it is about my care. It can just be a conversation with my provider.” - P13
 
 
-**#7: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.**
+**#9: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.**
 
 > “I think it is great to update both at the same time and you can do one section at a time instead of the whole thing.” - P13
 	
