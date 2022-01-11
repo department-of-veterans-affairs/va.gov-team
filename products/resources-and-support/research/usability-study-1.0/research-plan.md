@@ -12,13 +12,13 @@ We would like to make improvements to the layout of R&S article pages. Overall, 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research">Learning Center Original Reseach Folder</a>
 	- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">Learning Center Moderated Usability Study</a>
 
-[Link to product brief](url goes here).
+[Link to product brief coming soon]
 
 ### OCTO Objectives 
 Improving Resources and Support will allow Veterans and those in their support system to find information on utilizing their VA.gov account, gaining information on benefits, and easily find links to apply for benefits.
 
 ### Veteran Journey
-Resources and support impacts the Veteran journey from Starting up and all phases forward.
+Resources and support impacts the Veteran journey from Starting up and all phases thereafter.
 
 ## Research Goals and Questions	
 
@@ -64,7 +64,7 @@ We will confirm whether:
 - Users will be more likely to use a topics link section that search bar to look for another article
 - Users will understand how to report an issue after rating an article as 'bad'
 - Users will not find that the name "Resources and support" reflects the type of content on the tool
-- 
+
 
 ## Method	
 We'll conduct remote usability testing over Zoom using a prototype.
