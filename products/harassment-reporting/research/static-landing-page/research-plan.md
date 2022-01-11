@@ -89,15 +89,15 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 
 Team Availability | Time (ET)
 ------------------|--------------
-Feb X, 2021 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2021 | Noon - 3 pm, 4 - 8 pm
-Feb X, 2021 | Noon - 3 pm, 4 - 8 pm
-Feb X, 021 | Noon - 3 pm, 4 - 8 pm
+Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
+Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
+Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
+Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (ET)
 ---------------|----------
-Feb X, 2021 | TBD 
-Feb X, 2021 | TBD 
+Feb X, 2022 | TBD 
+Feb X, 2022 | TBD 
 
 
 ## Team Roles	
