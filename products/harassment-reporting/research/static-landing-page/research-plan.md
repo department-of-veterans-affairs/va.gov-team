@@ -11,10 +11,11 @@ If a Veteran experiences harassment or other inappropriate behavior while at a V
 2. How would Veterans find out how to report harassment at the VA? *(e.g., ask someone, google it, VA.gov)* 
 4. What are users' reactions to the poster?
     1. What sentiments/feelings do they express? *(quotes about safety, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
+    2. How would they report harassment? *(e.g., 911, other phone #, in person)*
 4. What are users' reactions to the static landing page? 
     1. What sentiments/feelings do they express? *(quotes about safety, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
     2. Feedback on content, organization, and/or length of page?  
-    1. How would they report harassment? *(i.e., scroll down on page vs. call the urgent phone number in the top alert box)*
+    1. How would they report harassment? *(e.g., 911 or phone # in top alert box, phone # farther down, in person)*
     6. What do they expect will happen after they report?
     
 5. How do Veterans prefer to report harassment? (ask at end) *(e.g., in person at the VA, via phone, via online form on phone/tablet/computer)*
@@ -84,7 +85,7 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 
 
 ## Timeline
-#### Desired Timeline: February XX, 2021 
+#### Desired Timeline: February XX, 2022 
 **60-minute** sessions with at least **60-minute breaks** in between 
 
 Team Availability | Time (ET)
