@@ -2,9 +2,9 @@
 
 ## Background
 
-This study is being conducted by the VSA Caregiver team.	
+This study is being conducted by the VSA 10-10 team (previously Caregiver team).	
 
-The Caregiver team launched the digitized 10-10CG form October 1, 2020. Early in 2021 the team added functionality that allows a Veteran’s legal representative to be identified and documentation (e.g. health care power of attorney) to be optionally uploaded. There have been 3 iterations of this design.
+The Caregiver team launched the digitized 10-10CG form October 1, 2020. Early in 2021 the team added functionality that allows a Veteran’s legal representative to be identified and documentation (e.g. health care power of attorney) to be optionally uploaded. 
 
 Currently only ~35% of uploaded documents can be accepted and provide the necessary legal proof for a representative to sign on behalf of the Veteran. This causes pain points for both the staff in the field and for applicants.
 - Pain point for CG team in the field that must process the applications, contact each applicant who uploads the wrong document, and possibly work through a new application with them
@@ -13,8 +13,8 @@ Currently only ~35% of uploaded documents can be accepted and provide the necess
 
 Our hypothesis for this problem is:
 - Applicants think that uploading (any) document will help support their application
-
 - There is currently a loss of connection that the purpose of uploading a document is to enable a legal representative to sign on behalf of the Veteran
+- Applicants are clear that it should be a legal document that says that the representative can make **medical decisions** on behalf of the Veteran.
 
 ### OCTO Objectives 
 
@@ -34,7 +34,7 @@ Our hypothesis for this problem is:
 The goals of this user research study are to: 
 
 - Validate the usability of the updated representative workflow.
-- Validate if the new design and copy improves the percentage of acceptable documents. 
+- Validate if the new design and copy is likely improve the percentage of accepted documents (Participants are aware that a medical stipulation is necessary).
 - Validate that this question will not cause applicants to drop-off.
 - Validate that the updated design/copy better connects the representative question to the signature.
 
@@ -55,18 +55,18 @@ The research questions we want to address are:
 
 ## Methodology 
 
-A task-based usability study will be conducted in staging, remotely with Zoom using the Perigean contract. 
+A task-based usability study will be conducted with UXPin, remotely with Zoom using the Perigean contract. 
 
 
 ## Participants and Recruitment
 
-We would like to work with Perigean to recruit for 6-7 **fulfilled sessions**. Therefore, we request that 10 sessions be scheduled.  
+We would like to work with Perigean to recruit for 5-6 **fulfilled sessions**. Therefore, we request that 9 sessions be scheduled.  
 
 **Must have for participants**
 
 All participants must be yes to one of the following questions:
 
-- Are you a caregiver to a Veteran?  (must recruit at least 4)
+- Are you a caregiver to a Veteran?  (must recruit at least 3)
 
 or
 
@@ -78,13 +78,6 @@ or
 - Are you a Veteran’s legal representative? 
   - If confused, provide this explanation: A representative is a person who, under applicable law, has authority to act on behalf of the Veteran or who is legally vested with the responsibility or care of the Veteran. Being next of kin or being married to the veteran does not automatically constitute legal representation.
 
-- At least 2 participants should use a mobile device and at least 2 participants should use a desktop/laptop
-
-
-**Must have for at least 1 participant:** 
-- Have a disability rating of 70% or greater and identified cognitive impairments and/or functional disabilities
-- Would use assistive technology to fill out this application
-
 
 **Good to have for participants**
  
@@ -92,13 +85,13 @@ or
 - 50% people who identify as an ethnicity/race other Caucasian
 - At least 1 participant 35 or under and 1
 - At least 1 participant over 55
-- At least 1 participant that does not have a college degree (to include enlisted Vets)
+- At least 1 participant that does not have a college degree 
 - At least 1 participant who lives in a rural or remote area
 
 
 **Recruitment requirements**
  
-- All must have a laptop/desktop or phone/tablet and be willing to be complete the test on the device
+- All must have a laptop/desktop and be willing to be complete the test on the device (prototype is not available for mobile)
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom.
 
 
@@ -114,7 +107,9 @@ Notetaking: Please designate someone from Perigeon to take notes
 
 Team Availability | Time (EST)
 ------------------|--------------
-January | 8:00am - 2:00pm EST
+January 18, 2022 | 10:00am - 7:00pm EST
+January 19, 2022 | 2:00pm - 7:00pm EST
+
 
 
 ## Team Roles	
@@ -124,11 +119,12 @@ January | 8:00am - 2:00pm EST
 - Participant recruiting & screening: Perigean
 - Project point of contact: Same as moderator
 - Note-takers:Perigeon
-- Observers: George Chewning (george.chewning@va.gov), Sharon Kasimow (sharon.kasimow@gcio.com)
+- Observers: George Chewning (george.chewning@va.gov), Sharon Kasimow (sharon.kasimow@gcio.com), Lisa Zapson (lisa.zapson@adhocteam.us), James Childers (james.childers@gcio.com)
 
 ## Resources
 - Design iteration [Sketch mockup](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/6F53EA53-0D5E-46F7-B420-CF62EA0167CE)
-- - Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
+- Prototype UX pin (TBD)
+- Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
 - Sign as a rep [usability test 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021)
 - Content specific research [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research)
 
