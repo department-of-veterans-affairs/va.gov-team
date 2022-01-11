@@ -60,7 +60,7 @@ A task-based usability study will be conducted with UXPin, remotely with Zoom us
 
 ## Participants and Recruitment
 
-We would like to work with Perigean to recruit for 5-6 **fulfilled sessions**. Therefore, we request that 9 sessions be scheduled.  
+We would like to work with Perigean to recruit for 5-6 **fulfilled sessions**. Therefore, we request that 8 sessions be scheduled.  
 
 **Must have for participants**
 
