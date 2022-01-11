@@ -13,4 +13,4 @@ Follow these steps to link to a page using a Node ID.
 
 **If the link is in its own component,** start typing the H1 of the page to be linked where you need to add the url. A list will pop up showing all pages with words in the H1. 
 
-**Note:** Link pages not built in Drupal or not on VA.gov using the full url.
+**Note:** Link any pages not built in Drupal or not on VA.gov using the full url.
