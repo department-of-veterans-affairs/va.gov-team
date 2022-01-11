@@ -1,8 +1,8 @@
 # Pre-publishing checklist
 
-## For all VA.gov pages
+## For all VA.gov pages (including those in Resources and Support)
 
-### Accessibility issues
+### Accessibility standards
 
 - [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible](https://www.accessibilityoz.com/2014/02/links-and-accessibility/)
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
@@ -10,7 +10,7 @@
 - [ ] Replace any sighted language ("view," "see," "look") with a word that's inclusive of our screen reader users ("check," "go to," "review").
 - [ ] Avoid using other ability-focused language. ("hear back from")
 
-### Style guide and Drupal issues
+### Style guide and Drupal standards
 
 - [ ] Check all links to confirm they work and point to the intended page.
 - [ ] Confirm all links are 100 characters or less.
@@ -20,7 +20,7 @@
 - [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
 - [ ] Confirm that the content meets VA.gov's experience standards. [Go to Platform's list of experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/VA.gov-experience-standards.1683980311.html) 
 
-## For Resources and Support articles
+### Additional checks for Resources and Support articles
 
 - [ ] Confirm H2s, H3s, and H4s are within the 70-character limit.
 - [ ] Confirm related links have been added to the file and make sense for the topic of the page (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing).
