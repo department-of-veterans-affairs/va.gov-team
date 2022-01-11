@@ -65,22 +65,22 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “Asexual is one that’s not there, pansexual or omnisexual aren’t on there.” - P8
 
 
-**#3: Veterans found that certain elements of the UI/Design created confusion around the information and fields presented**
+**#3: Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.**
 
 - Preferred name created confusion - participants were not sure what to enter.
 
 	> “I guess I am confused on what I am updating. [...] I would probably have given you my full name.” - P6
 
-- Gender identity - Would expect a text input field in Gender identity for addition options.
+- Gender identity - Would expect a text input field in Gender identity for additional options.
 
 	> “I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6
 
-- Optional vs required - A majority of participants interpretated the fields as required rather than optional.
+- Optional vs required - A majority of participants interpreted the fields as required rather than optional.
 
 	> “It says required in red. Unless it directly has an impact on my care or disability I don’t know why it needs to be shared, it should be an option.” - P13
 
 
-**#4: Veterans conveyed mixed opinions on the information included in Personal information section**
+**#4: Veterans conveyed mixed opinions on the information included in Personal information section.**
 
 - The participants who identified as other than straight or cisgender  found the sex assigned at birth and sexual orientation fields triggering.
 
@@ -116,7 +116,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 **#6: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
 
-- Participants did not always notice the FAQs or did not associated the FAQs with the fields in question.
+- Participants did not always notice the FAQs or did not associate the FAQs with the fields in question.
 
 	> “The only thing I would offer is if it were my page and my DOB is wrong and there's no information on how to fix it I would be calling to see what’s going on.” - P6
 	
@@ -127,3 +127,8 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “It doesn’t quite answer the question but I can figure it out. [...] I probably tend to say give me an example [...] Maybe a qualifier sentence like a link to learn more and that takes me somewhere with more depth about what I am bugged about if that makes sense. Just a learn more button would take me to more depth as to why something affects my quality of life.” - P6
 	
 	> (Did the FAQ address your questions?) “It didn’t. I think it is more about collection of information and data points. I wouldn’t feel like it is about my care. It can just be a conversation with my provider.” - P13
+
+
+**#7: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.**
+
+	> “I think it is great to update both at the same time and you can do one section at a time instead of the whole thing.” - P13
