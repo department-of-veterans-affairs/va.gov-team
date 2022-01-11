@@ -111,9 +111,10 @@ _What user and systems metrics do we want to track?_
 
 **Given** I have not _fully authenticated_[^1] prior using my va.gov credentials  
 **And** I have successfully, minimally authenticated using my last name and the last four digits of my SSN  
-**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I am looking at my pages with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
-**Then** I am redirected to the main va.gov login page  
+**Then** I am successfully redirected to the edit page for a specific demographic (such as mailling address) and submit the changes
+**Then** I return to the main demographics page upon cancel, submission of chnages, or navigating via breadcrumbs  
 **when** I login using my va.gov credentials  
 **Then** I am successfully redirected back to my Pre-Check-In demographics page  
 **And** I have the ability to edit all of my _demographics data_[^2]  
@@ -126,11 +127,13 @@ _What user and systems metrics do we want to track?_
 **Given** I have _fully authenticated_[^1] prior using my va.gov credentials  
 **Then** my minimal authentication was automatically handled using the information from my profile  
 **And** I'm not shown the minimal authentication page  
-**And** I am looking at my demographics page with Contact, Next-of-kin, and Emergency Contact information  
+**And** I am looking at my pages with Contact, Next-of-kin, and Emergency Contact information  
 **When** I attempt to edit Contact OR Next-of-kin OR Emergency Contact information  
 **Then** I am NOT redirected to the main va.gov login page  
 **And** I remain on the Pre-Check-In flow demographics page  
-**And** I now have the ability to edit all of my demographics information  
+**And** I now have the ability to edit all of my demographics information 
+**Then** I am successfully redirected to the edit page for a specific demographic (such as mailling address) and submit the changes
+**Then** I return to the main demographics page upon cancel, submission of chnages, or navigating via breadcrumbs 
 **When** I edit any or all of my demographics info and submit the changes  
 **Then** I can see that my changes have been validated  
 **And** I can see that my validated changes have been successfully saved in the va systems so that all relevant parties can view it 
@@ -213,6 +216,10 @@ _What user and systems metrics do we want to track?_
 **When** I get redirected to my demographics page  
 **Then** I should see my demographics information from when I first got the pre-check-in flow SMS  
 **And** I should see that my partial edits to my demographics were not saved  
+
+**Scenario:**Address Validation with Postal Service
+
+Needs to be filled out. There are many use cases in the wireframes, which was copied from the profile team.
 
 ## Exploring Workflows
 
