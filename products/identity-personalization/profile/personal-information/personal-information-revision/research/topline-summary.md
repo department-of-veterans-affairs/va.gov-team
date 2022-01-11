@@ -4,7 +4,7 @@
 
 Date: 1/10/2022
 
-Christina Gednalske christina.gednalske@adhocteam.us, Liz Lantz liz.lantz@adhocteam.us
+Liz Lantz liz.lantz@adhocteam.us, Christina Gednalske christina.gednalske@adhocteam.us
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/research-plan.md)
 
@@ -98,11 +98,11 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 > “Still keeping initial information on file and making you see it, then putting new stuff, almost like they aren’t accepting you. - P8”
 
-**5: Veterans who did not identify as other than straight or cisgender expressed that they would not use fields themselves, but could see the usefulness for others.**
+**#5: Veterans who did not identify as other than straight or cisgender expressed that they would not use fields themselves, but could see the usefulness for others.**
 
 > "I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1
 
-**#7: Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.**
+**#6: Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.**
 
 - Suggested alphabetizing items to remove social hierarchy (this came up most for Sexual orientation field).
   
@@ -113,7 +113,7 @@ This topline summary is a high level, top of mind summary of trends found in the
   > “If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1
   
 
-**#8: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
+**#7: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
 
 - Participants did not always notice the FAQs or did not associate the FAQs with the fields in question.
   
@@ -128,6 +128,6 @@ This topline summary is a high level, top of mind summary of trends found in the
   > (Did the FAQ address your questions?) “It didn’t. I think it is more about collection of information and data points. I wouldn’t feel like it is about my care. It can just be a conversation with my provider.” - P13
   
 
-**#9: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.**
+**#8: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.**
 
 > “I think it is great to update both at the same time and you can do one section at a time instead of the whole thing.” - P13
