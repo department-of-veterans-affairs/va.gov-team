@@ -113,6 +113,8 @@ If they need a SSN, use 548-79-5555
     - Can you tell me why you felt this level of confidence?
     - _If applicable:_ What information would you need to feel fully confident? What would you do if you were uncertain?
 
+- What do you think would happen if your document was not accepted? _Pay special attention to their reaction to the "warning" message_
+
 
 
 ## Post task questions - 10 minutes
