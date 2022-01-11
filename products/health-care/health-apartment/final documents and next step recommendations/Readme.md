@@ -11,5 +11,6 @@ This reference document shows where to access all things related to MO Studio's 
 ### Sprints
 * Sprint decks, which include reviews of work for each sprint and links to deliverables, can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/product/sprints)
 
-### Requirements
+### Requirements and Other Murals
 * The Apartment Requirements Mural can be found in pdf format [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/product/APT%20Features.pdf)
+* The Working Group Mural, which also has MO's proposed sitemap, can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/health-apartment/product/working-group/Jan%202022)
