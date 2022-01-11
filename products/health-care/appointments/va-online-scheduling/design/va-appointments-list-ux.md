@@ -11,6 +11,7 @@ The VAOS appointments list displays a summary of a Veteran's upcoming, past, and
     * My VA
     * Check in
     * VEText
+    * Health apartment (future)
 
 
 ## Content model
@@ -21,6 +22,14 @@ The VAOS appointments list displays a summary of a Veteran's upcoming, past, and
 ## VAOS UX
 
 ## Other appointment lists
+
+### MyHealtheVet
+
+**Appointments list**
+![image (1)](https://user-images.githubusercontent.com/2536801/149034028-8834d330-5b03-4a92-a673-0e3e56ba9579.png)
+
+**Details**
+![image](https://user-images.githubusercontent.com/2536801/149033969-50bde6f8-4d8c-4c00-b975-7d948abd5760.png)
 
 ### VA Mobile App
 
@@ -43,5 +52,7 @@ My VA shows a summary of many important events, including appointments. The link
 
 Veterans can access the check-in experience on the day of their appointments via their mobile phone. It shows a summary of their upcoming appointments for that day.
 https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/nRAMP7l
+
+A pre check-in experience that includes appointment information is also in the works: https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/p/847B453D-F19E-4D55-9EE6-C523E7408879
 
 
