@@ -1,4 +1,4 @@
-# Sprint Demo 
+# Sprint Demo Guide
 Each VSA product team has the opportunity to share things they’re most excited about from the past sprint with OCTO-DE, Platform, VSA Leads, and other VSA teams. The goal—greater awareness of each other’s work to foster collaboration and shared learnings.  
 
 _:open_file_folder:[Sprint Demos and Template](https://salientcrgt.sharepoint.com/sites/VSATeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVSATeam%2FShared%20Documents%2FSprint%20Review%20and%20Demo&viewid=5d571d10%2D43b8%2D4f5f%2D8c44%2D3d78e5892cca)_ (See [Appendix](#Appendix) below for tips on how to copy the template)
