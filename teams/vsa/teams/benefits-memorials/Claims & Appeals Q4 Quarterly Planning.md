@@ -55,7 +55,7 @@ Metrics
 -	For mature products, we do bi-weekly review, 1 product each time
 -	Backend engineers will walk us through the data, FE will do GA. And we’ll have discussion on what it means and what actions we need to take or new product iterations to develop
 
-# Quarter 4 Goals
+# Quarter 4 Accomplishments
 Vision – New Product release, Successful Iterations
 
 1.	526
@@ -67,19 +67,13 @@ Vision – New Product release, Successful Iterations
   -  Bank info page and Bank info review page is inconsistent. Staging needs to be updated to match Style guide
   -  526 Fast tracker
     1. Hypertension Pilot
- - Launch 8940 and 4192
- - PTSD for 526 (VA Profile team dependency)
+ 
 
-2. NOD - MVP release 
-- Iteration (vet board feedback)
-
-3.	HLR v2 - Iteration release
+2.	HLR v2 - Development complete (Staging review pending)
 
 4.	CST 
-  - Phase I (known error remediation, etc.)
-  - Phase II
-  - Phase II
-
+  - Phase I (technical discovery, etc.)
+  
 
 # Constraints/Risks
 1. Time
