@@ -13,6 +13,14 @@ _If this is for a new product, please input, 'N/A'_
 
 **Start date of enhancement:**
 
+**Feature launch date:**
+
+**VA 508 Office audit request ticket number:**
+
+**Production URL:**
+
+**Front-end information???**
+
 # Collaboration Cycle Kickoff questions:
 
 ### 1. Will your work result in visible changes to the user experience?
