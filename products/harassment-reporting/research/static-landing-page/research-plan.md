@@ -1,12 +1,12 @@
 # Research Plan: Harassment Reporting--Static Landing Page & Poster
  	
 ## Goals	
-The purpose of this research is to get user feedback on the new poster and static landing page about harassment reporting at the VA. From these resources, we would like Veterans to know how to report harassment at the VA.
+The purpose of this research is to get user feedback on the new static landing page and poster about harassment reporting at the VA. From these resources, we would like Veterans to know how to report harassment at the VA.
 
 ## Background
-If a Veteran experiences harassment or other inappropriate behavior while at a VA Site, they can report it by calling a phone number at the VA. A recent Congressional act _(H.R.2452 - Deborah Sampson Act)_ mandated providing harassment information online, which will be available from the VA.gov website. We would like to get user feedback on a new static information page before it launches.
+If a Veteran experiences harassment or other inappropriate behavior while at a VA Site, they can report it by calling a phone number at the VA. A recent Congressional act _(H.R.2452 - Deborah Sampson Act)_ mandated providing harassment information online, which will be available from the VA.gov website. We would like to get user feedback on a new static information page and poster before they launch.
 
-## Research questions *(need to prioritize which to ask in this study)*
+## Research questions
 1. How do Veterans today report harassment at the VA? *(e.g., talk with someone/police at the VA, call 911, google)*
 2. How would Veterans find out how to report harassment at the VA? *(e.g., ask someone, google it, VA.gov)* 
 4. What are users' reactions to the poster?
@@ -36,7 +36,7 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 ### Ideas for conversation guide
 - Potential user task for sighted participants: While you were at the VA for a doctor's appointment, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
   - Modification for screen reader users: "you *saw a poster* about reporting harassment" --> "you *heard* about reporting harassment"
-- Allow as much time as the research participant wants to read/process the landing page.
+- Allow as much time as the research participant wants to read/process the poster and the landing page.
 
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
@@ -51,7 +51,7 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 ### Must have for participants
 - ALL are Veterans
 - ALL are comfortable talking about harassment at the VA and sharing their opinions about it
-- Have a computer, tablet, or smartphone and be willing to be complete their interview on one of those devices 
+- ALL have a computer, tablet, or smartphone and be willing to be complete their interview on one of those devices 
   - During the session, be willing to share a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
@@ -78,7 +78,7 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 - VA is working to stop harassment and make our locations and services safer for all. As part of these efforts, we are exploring online resources to make it easier for Veterans to report harassment at VA. Feedback from Veterans like you will help us make sure that these resources meet your needs and are easy to use. Are you interested in trying out harassment resources and sharing your opinions about them? *(If they answer "no", don't recruit them. If "yes", ask the next question...)*
   - We’re contacting you because you’re a Veteran, not because we believe that you have been harassed. Have you ever experienced any kind of harassment while applying for, using, or communicating about your VA benefits? This can include harassment that happens at a VA location, during a phone or video call, or in written communications. Harassment might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. *(If they answer "no", OK to recruit them. If "yes", ask the next question...)*
   - If you participate in this feedback session, you might get reminded of your own experiences with harassment. Would you feel comfortable participating? *(If they answer "no", don't recruit them. If "yes", OK to recruit them and record "harassed at VA" in Participant Roster and Schedule)*
-- What device will you use to join the research session? *(Must be a smartphone and NOT iPad/tablet, computer, or laptop)*
+- What device will you use to join the research session? *(Please record in Participant Roster and Schedule)*
 - What is the first language that you learned to speak as a child? *(If not English, record as "non-native English speaker")*
 - It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as gay, lesbian, bisexual, or transgender? Yes, No, or Decline to Answer? *(Please record  response in Participant Roster and Schedule)*
 
