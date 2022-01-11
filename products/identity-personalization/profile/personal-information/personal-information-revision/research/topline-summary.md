@@ -130,6 +130,5 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 
 
 **#7: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.**
-	
 	> “I think it is great to update both at the same time and you can do one section at a time instead of the whole thing.” - P13
 
