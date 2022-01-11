@@ -1,8 +1,9 @@
 # Research Plan - Non-Clinical Services
 
 # Taxonomy
-[Reviewed by Dave Conlon on _____]
-[Reviewed by Lauren Alexanderson on _____]
+[Reviewed by Dave Conlon on Jan 7, 2022]
+
+[Submitted to Research Repository on Jan 11, 2022]
 
 Research plan for #32819
 
