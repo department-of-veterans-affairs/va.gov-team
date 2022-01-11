@@ -29,16 +29,16 @@ DELETE 3. Where do Veterans look to find information on harassment on VA.gov? *(
 3. Veterans will understand what will happen when they report harassment at VA.
 
 ## Method
-We will conduct remote moderated research sessions via Zoom. Participants will be shown a mobile design prototype in UXPin that shows TBD *[POSTER, VA.GOV, STATIC LANDING PAGE?]* Participants will be asked to use their smartphones to access the prototype.
+We will conduct remote moderated research sessions via Zoom with both sighted and visually impaired participants. *Sighted participants on desktop* will be shown a poster via the moderator's screenshare, with which they'll be able to view and scroll (participants on mobile and/or using a screen reader will skip this part). All participants will be directed to the static landing page on Staging, with which they'll be able to view and interact.
 
+*[ACTION ITEM: Need to get the static landing page put onto Staging with accordions and phone numbers on the static landing page clickable.]*
 
-*[If poster and page are on Staging (Brian Lloyd will ask Kelson about this), then we could test with screen reader users]*
-
-*[ACTION ITEM: Need to get the most recent poster and static landing page put into a new prototype in UXPin. Also need to remove QR code from poster because we won't be linking to online reporting form, and add a phone number. Accordions and phone numbers on the static landing page should be clickable.]*
+*[ACTION ITEM: Need to get the most recent version of the poster to Cindy, after removing the QR code and adding a phone number]*
 
 
 ### Ideas for conversation guide
-- Potential user task: While you were at the VA for a doctor's appointment, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
+- Potential user task for sighted participants: While you were at the VA for a doctor's appointment, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
+  - Modification for screen reader users: "you *saw a poster* about reporting harassment" --> "you *heard* about reporting harassment"
 - Allow as much time as the research participant wants to read/process the landing page.
 
 ## Participants and Recruitment	
