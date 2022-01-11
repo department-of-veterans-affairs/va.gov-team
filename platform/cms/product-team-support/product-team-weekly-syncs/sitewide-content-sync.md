@@ -12,8 +12,8 @@
 
 ## January 11, 2022
 ### Agenda
-- Refocusing our priorities through ContentOps lens
-- Identify specific epics that reflect priorities
+- Refocusing our Q1 priorities through ContentOps lens
+- Identify specific epics that reflect those priorities
 
 
 ## December 14, 2021
