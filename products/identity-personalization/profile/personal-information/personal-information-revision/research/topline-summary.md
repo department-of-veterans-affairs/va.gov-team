@@ -103,7 +103,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “I didn’t see the field for my SSN, or military id. EDIPI. The DoD number is different from the SSN. I question why it's not there.” - P6
 	
 
-**Finding #5: Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.**
+**#5: Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.**
 
 - Suggested alphabetizing items to remove social hierarchy (this came up most for Sexual orientation field).
 	
@@ -114,7 +114,7 @@ _Add ~5-10 top of mind findings. Include quotes if they are available or particu
 	> “If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1
 
 
-**Finding #6: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
+**#6: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.**
 
 - Participants did not always notice the FAQs or did not associated the FAQs with the fields in question.
 
