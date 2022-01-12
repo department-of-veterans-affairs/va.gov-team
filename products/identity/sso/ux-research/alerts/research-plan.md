@@ -72,9 +72,9 @@ Please list the people who will be serving in each role. **Include the primary p
 
 ## Resources
 
-- Project Brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso
-- Discussion Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/alerts/discussion-guide.md
+- Project Brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/sso
+- Discussion Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/ux-research/alerts/discussion-guide.md
 - Notes & Recordings:
 - Synthesis:
 - Lessons Learned:
-- Read-Out/Results: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Research-summary.md
+- Read-Out/Results: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/ux-research/Research-summary.md

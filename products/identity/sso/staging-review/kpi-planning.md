@@ -28,7 +28,7 @@ _Stating this will help ensure your strategy for what to build and pain points t
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
 
-- See [Pain Points](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso) in the SSOe product outline.
+- See [Pain Points](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/sso) in the SSOe product outline.
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_

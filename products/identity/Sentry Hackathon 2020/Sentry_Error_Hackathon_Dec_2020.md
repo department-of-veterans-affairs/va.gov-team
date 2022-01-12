@@ -11,7 +11,7 @@
 - Sentry Error reporting is an excellent solution to ensure the VSP Identity team is aware of all potential systemic issues regarding SSO. Over time the people who created the rules for the metrics, errors, and logs have rolled onto other projects. It is time for the error reporting to be reviewed again to ensure all new functions are reporting errors correctly and also to modify old error reporting to ensure any systemic issues are resolved as quickly as possible.
 
 **Participant Requirements Before Hackathon Kickoff:**
-- [Sentry Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#request-access) - [Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for how to obtain access to several internl solutions. Typically requires a few days lead time to gain access. 
+- [Sentry Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#request-access) - [Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for how to obtain access to several internal solutions. Typically requires a few days lead time to gain access. 
   - This facilitates the requirement of having SOCKS proxy access to internal VA tools, follow the instructions in the [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 - Zenhub Access - Request from PM, ensure you have access to the Identity Team board [here](https://app.zenhub.com/workspaces/vsp-identity-5f5bab705a94c9001ba33734/board?labels=sso-login&repos=133843125)
 - Github Repo access - Request from PM/Team Lead
@@ -70,7 +70,7 @@ Sentry Error Links:
     - [Multiple MHV IDs not really being worthy of an error](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/17325)
 
 ## Notes
- - [Error notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/error-messages)
+ - [Error notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages)
  - V1 Outbound we NEVER expect a user to be missing an ID.me UUID because we are using ID.me as the broker
  - We care if ssn mismatch when its v1, dont care for v0.
  - Generally we agreed that Sentry as its setup today is supposed to provide the Identity team with the ability to be alerted of significant issues and troubleshooting. Many of the errors being written to Sentry cannot be resolved by the Identity team and it is also expected that an error page is displayed to the end user, or the responsible team also is made aware through other solutions of some of these issues. Therefore we agreed on a few key requirements for Sentry moving forward:

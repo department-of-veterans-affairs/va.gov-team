@@ -38,7 +38,7 @@ DS Logon = 83.82%
 - Post-launch KPI 2: Number of successful logins via DSlogon on VA.gov remains consistent
 - Post-launch KPI 3: Number of successful logins via id.me on VA.gov remains consistent
 - [Metrics Dashboard](https://analytics.google.com/analytics/web/#/analysis/a50123418w177519031p176188361/edit/t0bC95-FRGCmCJJlES2edA)
-- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/go_nogo_plan.md)
+- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/go_nogo_plan.md)
 
 ### 1-week results:
 - Number of unique users: x

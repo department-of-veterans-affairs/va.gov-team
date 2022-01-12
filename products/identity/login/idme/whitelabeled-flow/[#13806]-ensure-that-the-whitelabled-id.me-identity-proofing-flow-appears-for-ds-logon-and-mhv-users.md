@@ -23,13 +23,13 @@ Essentially, if any user has logged in to VA.gov with a DS Logon or MHV credenti
 The following are the expected screens for the differnet scenarios:
 
 ## Non-Whitelabeled 2FA Setup Flow
-![2fa](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/whitelabeled-flow/non-whitelabeled-2fa-setup-flow.png)
+![2fa](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/whitelabeled-flow/non-whitelabeled-2fa-setup-flow.png)
 
 ## Non-Whitelabeled Email Confirmation Flow
-![email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/whitelabeled-flow/non-whitelabeled-email-confirmation-flow.png)
+![email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/whitelabeled-flow/non-whitelabeled-email-confirmation-flow.png)
 
 ## Non-Whitelabeled Identity Proofing Flow
-![idproofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/whitelabeled-flow/non-whitelabeled-identity-proofing-flow.png)
+![idproofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/whitelabeled-flow/non-whitelabeled-identity-proofing-flow.png)
 
 ## Whitelabeled 2FA Setup Flow
 TBD

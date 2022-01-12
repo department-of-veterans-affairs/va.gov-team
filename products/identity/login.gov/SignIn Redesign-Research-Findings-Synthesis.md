@@ -95,7 +95,7 @@ Regardless of their segment groups participants varied in credential providers. 
 
 **Most Participants clicked on or around credential provider logos**
 
-![Cluster Map_First Click.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a66bd7cf43504adf53655ff5ab970f07224f59b7/products/identity-personalization/login.gov/Cluster%20Map_First%20Click.png)
+![Cluster Map_First Click.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a66bd7cf43504adf53655ff5ab970f07224f59b7/products/identity/login.gov/Cluster%20Map_First%20Click.png)
 
 
 
@@ -128,7 +128,7 @@ Opportunity for UX research with users that we were not able to serve with this 
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login.gov/signin-provider-research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login.gov/signin-provider-research-plan.md)
 
 
 

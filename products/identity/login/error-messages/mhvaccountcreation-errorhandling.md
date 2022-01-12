@@ -50,7 +50,7 @@ export const ACCOUNT_STATES = {
 
 ## MVI or MHV is down
 
-![MVI or MHV is down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/health-tools/mvi-down.png)
+![MVI or MHV is down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/health-tools/mvi-down.png)
 
 #### Reason this error appears: 
 * MVI or MHV is not available due to a planned maintenance or unforeseen outage
@@ -70,7 +70,7 @@ The user can try again later.
 
 ## We couldn't verify your identity - Not Found in MVI
 
-![Verify identity fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/health-tools/verify-your-identity-error.png)
+![Verify identity fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/health-tools/verify-your-identity-error.png)
 
 #### Reason this error appears: 
 A DS Logon or ID.me account that has completed the identity proofing process and a matching account cannot be found in MVI.
@@ -90,7 +90,7 @@ The user can call the VA Benefits hotline or submit a support ticket through DEE
 
 ## Not a VA patient
 
-![Not a VA patient](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/health-tools/not-a-va-patient.png)
+![Not a VA patient](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/health-tools/not-a-va-patient.png)
 
 #### Reason this error appears: 
 * The user isn't listed as VA patient
@@ -110,7 +110,7 @@ The user can call their local VA medical facility or enroll VA healthcare.
 
 ## Multiple My HealtheVet Accounts
 
-![Multiple MHV Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/health-tools/multiple-mhv-accounts.png)
+![Multiple MHV Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/health-tools/multiple-mhv-accounts.png)
 
 #### Reason this error appears: 
 The user has multiple active accounts and we do not know which one to upgrade. 
@@ -128,7 +128,7 @@ The user can call the My HealtheVet Help Desk or submit a support ticket to My H
 
 ## Inactive MHV Account
 
-![MHV Account is inactive](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/health-tools/reactivate-your-account.png)
+![MHV Account is inactive](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/health-tools/reactivate-your-account.png)
 
 #### Reason this error appears: 
 The user is associated with a deactivated My HealtheVet account.
@@ -146,7 +146,7 @@ The user can call the My HealtheVet Help Desk or submit a support ticket to My H
 
 ## My HealtheVet Account Creation Failed
 
-![MHV Account Creation Fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/health-tools/mhv-account-creation-failed.png)
+![MHV Account Creation Fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/health-tools/mhv-account-creation-failed.png)
 
 #### Reason this error appears: 
 VA.gov failed to create a My HealtheVet account for the user because...
@@ -167,7 +167,7 @@ The user can call the My HealtheVet Help Desk or submit a support ticket to My H
 
 ## MHV account upgrade fails
 
-![Upgrade fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/error-messages/health-tools/upgrade-fails.png)
+![Upgrade fails](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/health-tools/upgrade-fails.png)
 
 #### Reason this error appears: 
 MHV upgrade fails for a MHV Basic, MHV Advanced, DS Logon or ID.me account that has completed the identity proofing process.

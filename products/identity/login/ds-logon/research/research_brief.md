@@ -7,7 +7,7 @@ Participant breakdown:
 * 5 veterans (various branches of service)
 * 4 caregivers
 
-Transcripts and notes are available in the DSVA GitHub Repo [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/ds-logon/research). 
+Transcripts and notes are available in the DSVA GitHub Repo [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/ds-logon/research). 
 
 ## Summary
 The research revealed six themes that impact the user experience of DS Logon. 

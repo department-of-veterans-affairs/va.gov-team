@@ -21,7 +21,7 @@ Slack: va-sso
 
 <!-- Tell us about your product. Add as much detail as you want, and be sure to call out key items like intended audience(s), the stated purpose, and anything else you feel is relevant to an accessibility review. -->
 
-This will impact all authenicated users of VA.gov. For more details please see our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/README.md)
+This will impact all authenicated users of VA.gov. For more details please see our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/README.md)
 
 ## Staging URL and Test User(s)
 
@@ -44,9 +44,9 @@ id.me Accounts: https://github.com/department-of-veterans-affairs/va.gov-team-se
 Use the TestRail or Markdown template to document your accessibility test cases. These must be completed before the VSP staging accessibility review can start.
 
 *Markdown: Github accessibility test results new UX components:*
-* [Sign-in Page: Cerner users only](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-plan-signin-page.md)
-* [Modal: all first time users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-plan-modal.md)
-* [Sign-Out Page: Cerner users only](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-plan-sign-out.md)
+* [Sign-in Page: Cerner users only](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/accessibility-plan-signin-page.md)
+* [Modal: all first time users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/accessibility-plan-modal.md)
+* [Sign-Out Page: Cerner users only](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sso/staging-review/accessibility-plan-sign-out.md)
 
 
 ## Known Issues

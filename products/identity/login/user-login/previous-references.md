@@ -13,7 +13,7 @@
 * [User stories]()
 * [UX sketches]()
 * [Testing]()
-* [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/research)
+* [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/research)
 * [Prototype](https://marvelapp.com/65gj0ab)
 * [Old flows](https://app.moqups.com/greg@adhocteam.us/1F6KiSM76p/view/page/ac9113dfb)
 

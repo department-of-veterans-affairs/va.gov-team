@@ -119,7 +119,7 @@ This is our main means of communication with each other. Keep as much conversati
 
 #### GitHub
 GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning. Our team folder:
-/va.gov-team/products/identity-personalization/sso
+/va.gov-team/products/identity/sso
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.

@@ -1,5 +1,5 @@
 ## Background
-The Griffins team held an identity roadmapping workshop to determine mission, outcome goals, and prioritze problems for ongoing product development. The full output of that workshop is [captured here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/roadmapping/identity-roadmappingworkshop-121918.md). 
+The Griffins team held an identity roadmapping workshop to determine mission, outcome goals, and prioritze problems for ongoing product development. The full output of that workshop is [captured here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/roadmapping/identity-roadmappingworkshop-121918.md). 
 
 The purpose of this document is to prioritize identified problems based on  perceived level of value, cost, and controllability. Problems are grouped by their related outcome goal and viewed in total.
 
