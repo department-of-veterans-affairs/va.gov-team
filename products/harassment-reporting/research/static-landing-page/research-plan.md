@@ -46,7 +46,8 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
 - Work with VA contacts to find social workers or clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
-- Limit the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant).
+- Limit the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). 
+  - For each session with a participant using a screen reader, also invite an accessibility specialist as an observer to help with any technical problems that arise with the screen reader.
 
 ### Participants to recruit
 
