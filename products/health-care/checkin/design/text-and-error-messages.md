@@ -1,7 +1,7 @@
 # Text messages and Error Messages 
 This document will serve as the source of truth for all check-in and pre-check-in text message and error message wording.
 
-Go to...
+Jump to...
 - <a href="checkin">Check-in</a>
 - <a href="precheckin">Pre-check-in</a>
 
