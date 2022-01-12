@@ -22,7 +22,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 #### KPIs
 
-Next clicks from My VA
+[Next clicks from My VA](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fmy-va~2Findex.html&navigationsummary-keySelector.searchTerm=~2Fmy-va~2F/)
 
 - Success: We see less than a X% increase or no increase in clicks back to the homepage from My VA.
 - Failure: We see greater than X% increase in clicks back to the homepage from My VA. 
