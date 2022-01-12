@@ -371,7 +371,7 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
 - Do we need address validation on emergency contact and next of kin?
 - Do we need error message wording if the Veterans hits "update" and the information isn't immediately seen on the review pages? Check with the profile team on how they handle this and if they have any wording already created.
 - Look into the zip code component. How does it handle the zip 4? There is a backlog ticket in platform to improve it. Do we need to do the work ourselves?
-- Should we reuse any of this information from VA.gov profile? [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]ile/contact-information/address-validation/qa-508/test-cases.md) and [Error messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/error%20messages/ErrorCodesForOverride_withExamples.xlsx)
+- Should we reuse any of this information from VA.gov profile? [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/qa-508/test-cases.md) and [Error messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/error%20messages/ErrorCodesForOverride_withExamples.xlsx)
 
 ## Engineering Solutions
 
