@@ -34,7 +34,7 @@ Our hypothesis for this problem is:
 The goals of this user research study are to: 
 
 - Validate the usability of the updated representative workflow.
-- Validate if the new design and copy is likely improve the percentage of accepted documents (Participants are aware that a medical stipulation is necessary).
+- Validate if the new design and copy is likely to improve the percentage of accepted documents (Participants are aware that a medical stipulation is necessary).
 - Validate that this question will not cause applicants to drop-off.
 - Validate that the updated design/copy better connects the representative question to the signature.
 
