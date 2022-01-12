@@ -32,9 +32,9 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 1. *ONLY participants on desktop and NOT using a screen reader:* **Show the poster** on the moderator's computer with mouse control given to the participant. Participants will be able to view the poster and scroll it.
 2. *ALL participants:* **Show the static landing page** on Staging by giving participants a URL to open in their browser. Participants will be able to view the page and interact with the content, opening and closing accordions.
 
-*[ACTION ITEM: Need to get the static landing page put onto Staging with accordions and phone numbers on the static landing page clickable. DANIELLE: Could you please confirm what should be interactive? All of the accordions and links?]*
+*[ACTION ITEM: Get the static landing page onto Staging with interactive accordions and phone numbers. DANIELLE: Could you please confirm what should be interactive? All of the accordions and links, or a subset?]*
 
-*[ACTION ITEM: Need to get the most recent version of the poster from MARTHA, after removing the QR code and adding a phone number]*
+*[ACTION ITEM: Get the most recent version of the poster from MARTHA, after removing the QR code and adding a phone number]*
 
 
 ### Ideas for conversation guide
