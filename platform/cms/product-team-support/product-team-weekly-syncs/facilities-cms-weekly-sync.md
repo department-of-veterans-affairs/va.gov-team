@@ -23,25 +23,63 @@
 
 </details>
 
+## January 19 (possibly breaking up these meetings)
+
+VAMC Health service design - Nick 
+
+
 ## January 12
+
+### This meeting
+
+Clarence: shifting towards epic-by-epic and product-by-product focus, away from Team to Team syncs. 
+
 
 ### Vet Center
 - [Alexandria LA vs Alexandria VA Vet Center](https://prod.cms.va.gov/admin/content?title=alexandria&type=vet_center&moderation_state=All&owner=All) - [Slack thread](https://dsva.slack.com/archives/C02730UEZPS/p1640890979257700) - _update: Jessica will request name change in VAST_
-- Update to default "Nearby Vet Center" default radius 
+- Update to default "Nearby Vet Center" default radius
+  - Will be increased from 80 to 120 miles
+    - CMS will update KB, help text, and possibly training (low priority) 
 - Vet Center grief/bereavement  
   - Service descriptions/eligibility
   - limited rich text?
   - change management
   - reporting
+  - it may be possible to link to "How we're different than a clinic" h2, but not to the h3 used for the accordion (unless the accordion web component can add that)  
 - Prescott Vet Center - need to change service names
+  - CMS to bulk update node titles based on common name.
 - Vet Center operating status - is there an easier way for editors? (saving as draft for unpublished, saving as published for published is challenging when making dozens of changes a day during this time when not all are published)
+  - this is a problem for the next 3 months, but we can provide some guidance (Jane/Kev to connect) 
 
 ### VAMC
-- Lovell design - Nick
-- Health service design (next week?) - Nick
-- CMS toggle 
-  - Staging - how permanent/temporary? do these get blown away? 
-  - HMW work toward CMS as single source of truth for prod/staging? (Cerner)
+Lovell 
+- Nick has been focused on Top task buttons and "manage your health online"
+- Design intent meeting with Platform this Thursday. 
+- How can we support two groups with the same tools
+  - eg "Make an appointment", "Register for care" will lead to two different paths depending on the audience
+  - Make an appointment could use a modal to split the two groups. 
+  - Kev: so far all of the examples on the lovell homepage are hardcoded in the FE, not CMS controlled links or labels. 
+  - Make an appointment detail page, on the other hand, is CMS content. Detail page right now, could become a hardened "Make an appointment" top task page, but Lovell could be an exception for that. 
+- User research
+  - TBD, but possibly a tree test or general usability test based on a story 
+  - OCTO has access to Veterans for recruitment, but possibly not service members. 
+- Before user research, this will be put in front of SMEs to make sure it's accurate
+- Steve: Should we create two VAMC systems to solve this? 
+  - Or should we use a lot of javascript
+- Can we identify all the places to switch the experience,(including in some cases allowing the end user to choose their own adventure, and get back to the right track, and allow for people who are on both tracks)
+  - Identify user stories that have forks in them
+
+Cerner toggle for Medical Records pages
+- Spokane now, Walla Walla next, Columbus delayed
+- Current state: VA blue button is everywhere, including Spokane
+- CMS developing top task pages with Centralized Content that will contain the appropriate content for Cerner vs VistA.  The EHRM field at the system level should determine which centralized content to pull into the front end for the hardened Medical Records pages. 
+- Nick is working on a design for the Cerner medical records experience ([rough draft](https://app.mural.co/t/vagov6717/m/vagov6717/1639530168395/b114bb336a1db8c0a571272b10a230e1360d2775?sender=kevinwalsh8610))
+
+
+CMS toggle 
+- Staging - how permanent/temporary? do these get blown away? 
+- HMW work toward CMS as single source of truth for prod/staging? (Cerner)
+
 
 
 ## January 5
