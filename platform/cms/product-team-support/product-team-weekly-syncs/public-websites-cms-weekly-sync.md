@@ -58,6 +58,7 @@ Broken links in Benefits Hubs that aren't being detected by broken link check in
   * Modernized https://www.va.gov/* links that are known to content-buid
   * Non-modernized VA links like https://www.vba.va.gov/  or https://www.va.gov/communitycare
   * Non-VA links
+* [Related issue for this](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28139)
 * Moving the bar on this would be QA standards team
   * Who are the right folks to  
 * Might the we 
