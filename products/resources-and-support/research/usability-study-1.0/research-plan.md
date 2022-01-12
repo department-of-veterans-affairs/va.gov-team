@@ -1,4 +1,4 @@
-# Research Plan for Search & Discovery Team, Resources and Support, Submit Feedback Tool 2.0
+# Draft: Research Plan for Search & Discovery Team, Resources and Support, Submit Feedback Tool 2.0
 
 ## Background
 Resources and support contains tier 2 content (benefit-adjacent content). The Submit Feedback Tool was introduced to the article pages last year with the option to rate articles as either good or bad. As a part of the Submit Feedback Tool 2.0 initative, once a user rates an article as 'bad', we would like to implement a way for users to report the reason why they rated the page poorly. We would also like these issues to be actionable and easily accessible for the content owners so that improvements can be easily made.
