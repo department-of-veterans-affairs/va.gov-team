@@ -336,6 +336,7 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
 
 ## Engineering Questions
 - **What all systems are we updating? Are VBA databases impacted too? What does VA Profile integrate with? We need to know, because Veterans want to know what is impacted when making a change within pre-check-in.(We will surface this information in the UI.)**  
+- Can we programatically access a user's last name and SSN, necessary for performing minimal auth against LoROTA, after the user has fully authenticated on va.gov?
 - Where does user demographics information(contact, next-of-kin, emergency-contact) belonging to a veteran live?
     - The VA Profile team is responsible for the veterans contact information.
     - The VA Profile team will be responsible for the next-of-kin and emergency-contact data belonging to veterans(once the team has agreed to support these)
