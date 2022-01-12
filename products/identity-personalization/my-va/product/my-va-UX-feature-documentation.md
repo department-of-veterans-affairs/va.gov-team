@@ -18,7 +18,7 @@ Last updated: January 12, 2022
 - Users have repeatedly said that they would like to see My VA first-thing after they log in.
 - People appreciate redundancy when it comes to important or time-sensitive information.
 - Users have mentioned wanting to be able to 'customize' their dashboard - this is not something that is technically feasible right now.
-- Users really want to see their drs. name and appointment type in relation to their upcoming appointment. Currently this doesn't exist in VAOS, but hopefully eventually will.
+- Users really want to see their drs. name and appointment type in relation to their upcoming appointment. Currently this doesn't exist in the VA Online Scheduling Tool (VAOS), but hopefully eventually will.
 - Users are totally fine to click into the tool pages to get more information. On a dashboard they just wanted a summary of their benefits, elevation of any time-sensitive action items/problems and to be able to easily access the additional things that they want to see.
 
 ## Sections
@@ -36,13 +36,13 @@ The digital health modernization team is working to create a 'health care apartm
 
 ## Disability rating
 
-- We currently show percentage of service connection.
+- We currently show percentage of service connected disability.
 - **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
 
 ## Claims and appeals
 
 - Claims are really complicated and there are a ton of different statuses that are not documented *anywhere*. (Believe me, I asked everyone) There is some documentation around what statuses exist around appeals, [which you can see in this document.](https://docs.google.com/spreadsheets/d/15_KjIF68VmxzjJcBDOQUOMkrgj1UplkvFI6AwS-uU0M/edit#gid=871749236)
-- Worked mostly with Christian Valla and Kevin Stachura on CST
+- Worked mostly with Christian Valla and Kevin Stachura on the Claim status tool team.
 - **Parent tool**: Claim status tool
 
 **Currently Showing**
