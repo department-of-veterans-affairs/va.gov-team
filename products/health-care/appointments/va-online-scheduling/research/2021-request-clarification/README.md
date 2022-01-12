@@ -7,5 +7,4 @@
 * [Prototype](https://va-scheduling.invisionapp.com/console/share/EW35S0RT8V)
 * [Synthesis doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Participant%20notes%20-%20requests%20clarification.xlsx)
 * [Synthesis affinity map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Synthesis%20-%20requests%20clarification.pdf)
-
-[Final report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Requests%20discovery%20-%20report.md)
+* [**Final report**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-request-clarification/Requests%20discovery%20-%20report.md)
