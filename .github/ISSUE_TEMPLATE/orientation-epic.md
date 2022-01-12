@@ -1,5 +1,5 @@
 ---
-name: Platform Orientation Template
+name: Platform Orientation Template [Your name here]
 about: For orienting new VFS teams/members to Platform policies/practices
 title: Platform Orientation Template
 labels: 'vsp-product-support'
@@ -19,6 +19,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 ## How to fill out this ticket
 - [ ] Add your github handle as the Assignee
 - [ ] Add your teams github label under Labels
+- [ ] Add your name to the ticket title
 - [ ] Complete the Onboarding Checklist below
 - [ ] Under **Get set up for your practice area,** you only need to complete the items for your role
 - [ ] You can close this ticket when all items are completed in the Onboarding Checklist and the Platform Checklist
