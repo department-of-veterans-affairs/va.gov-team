@@ -20,17 +20,37 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 1. Clicks from My VA to the homepage will increase if people can not find a link on My VA that they can find on the homepage.
 
-#### Metrics to monitor
+#### KPIs
 
-1. Metric 1...
+Next clicks from My VA
+
+- Success: We see less than a X% increase or no increase in clicks back to the homepage from My VA.
+- Failure: We see greater than X% increase in clicks back to the homepage from My VA. 
 
 ### Increased clicks
 
 ### Hypotheses
 
 1. If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
-2. If a link lives on te homepage and does *not* live on My VA (eg. link to get your DD214), clicks into those pages will decrease.
+2. If a link lives on the homepage and does *not* live on My VA (eg. link to get your DD214), clicks into those pages will decrease.
+
+#### KPIs
+
+Top interactions from My VA
+
+If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
+- Success: We see a 25% increase for clicks into the following links: Claims, payments, health care links, etc.
+- Failure: We see very little increase, no increase, or a decrease for clicks into the following links: ...
+
+If a link lives on the homepage and does *not* live on My VA (eg. link to get your DD214), clicks into those pages will decrease.
+- Success: No decrease into links that do not live on My VA.
+- Failure: A decrease of X% or more into links that do not live on My VA.
+
 
 ### Increased searches
 
-For information that does not exist on My VA that does exist on the homepage, are we seeing more searches for these terms?
+Searches initiated from My VA
+
+If a link lives on My VA, there will be no increase in searches for this information.
+
+If a link does not live on My VA, there will be an increase in searches.
