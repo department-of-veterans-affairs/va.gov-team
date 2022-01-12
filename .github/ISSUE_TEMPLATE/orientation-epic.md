@@ -42,7 +42,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
 - [ ] Review [Support Overview](https://depo-platform-documentation.scrollhelp.site/support/Support-overview.604012552.html) documentation
 - [ ] [Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
-- [ ] Sign up for the [Platform Newsletter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/platform-newsletter/README.md)
 ### Norms and standards
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/code-of-conduct.md)
 - [ ] Review the [Norms for Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md)
@@ -72,21 +71,18 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Request analytics intro with @ Michelle Dooley in Slack
 - [ ] Request 508 intro with @ Noah Gelman in Slack
 - [ ] Request QA intro with @ Peter Hill in Slack
-- [ ] Engineering Lead: Request ATO intro with @ Faith Owusu-Sekyere in Slack
 
 #### Back-end Engineers
 - [ ] Review [backend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Backend-developer-documentation.1886289964.html) on Platform Website
 - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
 - [ ] Request Back-end orientation with @ Nate Peterson in Slack
 - [ ] Request QA intro with @ Peter Hill in Slack
-- [ ] Engineering Lead: Request ATO intro with @ Faith Owusu-Sekyere in Slack
 
 #### Product Managers
 - [ ] Request PM intro with @ Shira Goodman in Slack
 - [ ] Request analytics intro with @ Michelle Dooley in Slack
 - [ ] Request 508 intro with @ Noah Gelman in Slack
 - [ ] Request QA intro with @ Peter Hill in Slack
-- [ ] Request ATO intro with @ Faith Owusu-Sekyere in Slack
 
 ### Off-boarding of teammates
 - [ ] Review [process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
