@@ -42,8 +42,30 @@ Q1
 ## January 12
 
 Recurring events
-* Sample content and web environment
-* Disable CORS for Tugboat evaluation?
+* [Sample content](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/7543) added Jan 12 to and released to this [tugboat web environment](https://web-43gdezdssgpjvowq7wez2c3k7wfhqgex.ci.cms.va.gov/albany-health-care/events/42838/)
+  * When that is all loaded in, CMS team will update the thread about this in Public Websites
+    * Link to event URLs
+    * CORs instructions for using Tugboat (stub of KB article)
+
+Redirect requests
+* Sam will maintain same workflow for things like Redirect request that Kelson had.
+* Some business process changes coming (future agenda item)
+
+Broken links in Benefits Hubs that aren't being detected by broken link check in content build
+* They are surfaced in Node link report
+* [Thread in #cms-support](https://dsva.slack.com/archives/CDHBKAL9W/p1641940149031800) 
+* Content build's link checker does not check URLs that contain https://. This means these three cases are ignored:
+  * Modernized https://www.va.gov links that are known to content-buid
+  * Non-modernized VA links like https://www.vba.va.gov/  or https://www.va.gov/communitycare
+  * Non-VA links
+* Moving the bar on this would be QA standards team
+  * Who are the right folks to  
+* Might the we 
+  * understand the breadth of bad links? 
+    * aggregate links caught by node link report? (CMS team)
+    * SiteImprove or other crawl tools? Dynomapper, Screaming Frog. 
+* [CMS Epic to make it easier to create the ideal form experience](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/3232)   
+
 
 
 ## January 5
