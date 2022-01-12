@@ -54,8 +54,8 @@ Redirect requests
 Broken links in Benefits Hubs that aren't being detected by broken link check in content build
 * They are surfaced in Node link report
 * [Thread in #cms-support](https://dsva.slack.com/archives/CDHBKAL9W/p1641940149031800) 
-* Content build's link checker does not check URLs that contain https://. This means these three cases are ignored:
-  * Modernized https://www.va.gov links that are known to content-buid
+* Content build's link checker does not check URLs that contain http*. This means these three cases are ignored:
+  * Modernized https://www.va.gov/* links that are known to content-buid
   * Non-modernized VA links like https://www.vba.va.gov/  or https://www.va.gov/communitycare
   * Non-VA links
 * Moving the bar on this would be QA standards team
