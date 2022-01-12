@@ -34,7 +34,7 @@ SCREENSHOT
 
 **When we have a count of debts**
 
-You have [count] outstanding debts. [Manage your VA debt] *link to debt page*
+You have [count] outstanding debts. [Manage your VA debt](/manage-va-debt/your-debt)
 
 **When we do not have a count of debts**
 
