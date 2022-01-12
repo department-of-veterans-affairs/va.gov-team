@@ -27,17 +27,20 @@ If a Veteran experiences harassment or other inappropriate behavior while at a V
 3. Veterans will understand what will happen when they report harassment at VA.
 
 ## Method
-We will conduct remote moderated research sessions via Zoom with both sighted and visually impaired participants. *Sighted participants on desktop* will be shown a poster via the moderator's screenshare, with which they'll be able to view and scroll (participants on mobile and/or using a screen reader will skip this part). All participants will be directed to the static landing page on Staging, with which they'll be able to view and interact.
+We will conduct remote moderated research sessions via Zoom with both sighted and visually impaired participants. 
 
-*[ACTION ITEM: Need to get the static landing page put onto Staging with accordions and phone numbers on the static landing page clickable.]*
+1. *ONLY participants on desktop and NOT using a screen reader:* **Show the poster** on the moderator's computer with mouse control given to the participant. Participants will be able to view the poster and scroll it.
+2. *ALL participants:* **Show the static landing page** on Staging by giving participants a URL to open in their browser. Participants will be able to view the page and interact with the content, opening and closing accordions.
 
-*[ACTION ITEM: Need to get the most recent version of the poster to Cindy, after removing the QR code and adding a phone number]*
+*[ACTION ITEM: Need to get the static landing page put onto Staging with accordions and phone numbers on the static landing page clickable. DANIELLE: Could you please confirm what should be interactive? All of the accordions and links?]*
+
+*[ACTION ITEM: Need to get the most recent version of the poster from MARTHA, after removing the QR code and adding a phone number]*
 
 
 ### Ideas for conversation guide
 - Potential user task for sighted participants: While you were at the VA for a doctor's appointment, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
   - Modification for screen reader users: "you *saw a poster* about reporting harassment" --> "you *heard* about reporting harassment"
-- Allow as much time as the research participant wants to read/process the poster and the landing page.
+- After asking about first impressions, allow as much time as the research participant wants to read/process the poster and the landing page before moving on.
 
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
