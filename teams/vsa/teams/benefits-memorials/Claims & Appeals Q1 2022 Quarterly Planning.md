@@ -4,11 +4,22 @@
 # Quarter 1 Goals
  -	NOD launch
  -	HLR v2 launch
- -	526 form reduction
- -	526 PTSD implementation
- -	Claim Status Tool bug fix
- -	Claim Status Tool UX enhancement
- -  Claim Status Tool migration to Lighthouse
+ -	526 
+   -	Form reduction
+   -	526 PTSD implementation (combat question)
+ -	Claim Status Tool 
+     -	We need test users
+     -	Bug fix
+       - PIF errors?
+       - Exactly what claims are missing? What is the Veteran expecting to see?
+       - Communicate to Contact Center - include what claim are missing? When was is submitted? Differentiate between claims & appeals (develop template for them)
+    -	UX enhancement (on hold)
+      - First: ensure that errors are addressed and that systems are communicating properly
+    - Process updates 
+      - Technical discovery determine if we can provide more detail about next steps so that we don't show the same status for months on end
+      - Can we provide time estimates?
+    - How do we advertise the Claim Status Tool?
+    - Migration to Lighthouse
 
 - Technical Debt
     1. 96% submission success rate 
@@ -18,9 +29,9 @@
 
 
 Metrics
--	For new products we’ll do a weekly review
--	For mature products, we do bi-weekly review, 1 product each time
--	Backend engineers will walk us through the data, FE will do GA. And we’ll have discussion on what it means and what actions we need to take or new product iterations to develop
+-	For new products track weekly until 100% release
+-	Implement Grafana alerts for all products (NOD, CST, maybe Letters & Burials)
+-	
 
 # Quarter 4 Outstanding Goals
 
@@ -42,22 +53,3 @@ Metrics
 1. Time
 2. Conflicting priorities
 3. Holidays
-
-
-
-
-
-# Quarter 4 Accomplishments
-Vision – New Product release, Successful Iterations
-
-1.	526
-  - Audit readout enhancements (comparison between staging and 526 style guide)
-  -  Contact information review page needs to be confirmed
-  -  Supporting evidence page needs to be changed. No pre-selection should be made. 
-  -  Drop-down links need to be moved to a separate page (accessibility requirement)
-  -  Fully developed claim page needs to be confirmed
-  -  Bank info page and Bank info review page is inconsistent. Staging needs to be updated to match Style guide
-  -  526 Fast tracker
-    1. Hypertension Pilot
- - Launch 8940 and 4192
- - PTSD for 526 (VA Profile team dependency)
