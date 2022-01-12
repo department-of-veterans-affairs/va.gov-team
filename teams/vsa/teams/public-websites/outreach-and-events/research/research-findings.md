@@ -150,7 +150,7 @@ Note: None of the research participants had ever seen the Outreach Events page o
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/Amer-flag-VAgov.png"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/outreach-and-events/research/images/Amer-flag-wikipedia.png" width="10%" height="10%">
 
 # Recommendations
-The recommendations for MVP have been discussed with the Public Websites team, and the decisions made are documented in CAPS.
+The recommendations for MVP have been discussed with the Public Websites team, and the status and next steps are documented in CAPS.
 ## For MVP (near term)
 1. **Remove the _Next week_ and _Next month_ options from the date filter** because they were confusing for some participants, and the functionality can be supported more clearly and directly using the _Custom date range_ option instead. (DONE)
 3. **Remove the "Up to 12 months in advance" text** on the date entry screens because it doesn't seem to be needed. (DONE)
