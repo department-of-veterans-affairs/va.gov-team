@@ -25,6 +25,7 @@
 
 ## January 12
 
+### Vet Center
 - [Alexandria LA vs Alexandria VA Vet Center](https://prod.cms.va.gov/admin/content?title=alexandria&type=vet_center&moderation_state=All&owner=All) - [Slack thread](https://dsva.slack.com/archives/C02730UEZPS/p1640890979257700) - _update: Jessica will request name change in VAST_
 - Update to default "Nearby Vet Center" default radius 
 - Vet Center grief/bereavement  
@@ -34,6 +35,8 @@
   - reporting
 - Prescott Vet Center - need to change service names
 - Vet Center operating status - is there an easier way for editors? (saving as draft for unpublished, saving as published for published is challenging when making dozens of changes a day during this time when not all are published)
+
+### VAMC
 - Lovell design - Nick
 - Health service design (next week?) - Nick
 - CMS toggle 
