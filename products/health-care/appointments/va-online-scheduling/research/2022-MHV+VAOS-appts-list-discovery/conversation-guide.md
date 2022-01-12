@@ -66,17 +66,20 @@ Steps
 
 **Questions**
 
-How do you use this list?
-- When do you access it? 
-    - How often?
-- What do you do the most here?
+- How do you use this list?
+    - When do you access it? 
+        - How often?
+    - What do you do the most here?
 
 What works about this list? 
-- What information is most helpful?
+- What information is helpful?
+- What tools or functionality are useful?
 
 What isn't working?
-- What information is missing?
+- What information is confusing or frustrating?
+- What tools or functionality are not useful?
 
+What would you change, if anything?
 
 ## Second Task: Review VAOS appointments list - X minutes
 
@@ -96,20 +99,37 @@ From va.gov:
 - Click "Schedule and manage health appointments"
 - Sign in (this will be specific to the user)
 
-Have you used this before?
-If so, how do you use this list?
+**Questions**
 
+- Tell me about this page
+    - Have you used this before?
+    - If so, how do you use this list?
 
-## Third Task: Review VAOS appointments list concept - x minutes
+- How does this compare to the MyHealtheVet appointments list you just looked at?
+    - What works better on this page, if anything?
+    - What's worse on this page, if anything? 
 
-Switch to facilitator sharing screen [TODO: finish prototype]
+## Third Task: Concept test for VAOS appointments list - x minutes
+
+Next, I'd like to get your feedback on a concept that includes some changes to this list. I'll start by sharing my screen.
+
+_Switch to facilitator sharing screen [TODO: finish prototype]_
+
+- Tell me about this page. I'm interested in your first impressions
+    - What do you think you can do here?
+
+- How does this compare to the MyHealtheVet appointments list you just looked at?
+    - What works better on this page, if anything?
+    - What's worse on this page, if anything? 
 
 ## Post-Task Interview - X minutes
 
 - What is your overall impression of the different appointment lists you saw today?
-  - What features stood out as being most helpful?
+  - What stood out as being most helpful?
+  - What stood out as being difficult or frustrating? 
+  - If you could change anything about viewing appointments, what would you do?
    
-- Do you have any questions for me or any other feedback you would like to share? 
+- That's it for my questions. Do you have any questions for me or any other feedback you would like to share? 
 
 ## Thank-You and Closing - X minutes
 
