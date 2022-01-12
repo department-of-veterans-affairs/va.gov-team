@@ -1,4 +1,4 @@
-# My VA Payment Info and Onsite Notifications Topline Summary
+# My VA Payment Info and Onsite Notifications Research Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
@@ -8,15 +8,15 @@ Liz Lantz [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us),
 
 **Jump to:**
 
-[Hypotheses and conclusions](insert link to section)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#hypotheses-and-conclusions)
 
-[Key findings](insert link to section)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#key-findings)
 
-[Recommendations](insert link to section)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#recommendations)
 
-[Who we talked to](insert link to section)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#who-we-talked-to)
 
-[Further research needed](insert link to section)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#further-research-needed)
 
 # Research Goals
 
