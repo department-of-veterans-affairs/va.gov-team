@@ -224,7 +224,7 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
 ## Exploring Workflows
 
 ### Use the existing VA.gov Profile exclusively
-**This workflow is not being considered at this time**
+**This workflow is not being considered at this time**  
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
 * Vets-Website requests pre-stored _demographics data_[^2] for the user from Vets-API
 * Vets-API Check-In service requests for the latest user data from the LoROTA service
@@ -284,7 +284,7 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
 
 
 ### Build additional systems and services in-order to handle updated demographics information
-**This workflow is not being considered at this time**
+**This workflow is not being considered at this time**  
 * User clicks on SMS for the Pre-Check-In workflow on their mobile device or desktop
 * Vets-Website requests pre-stored _demographics data_[^2] for the user from Vets-API
 * Vets-API Check-In service requests for the latest user data from the LoROTA service
