@@ -23,6 +23,8 @@
 - Is there an automatic approval?
 - What are the exceptions and edge cases?
 - There is one application for both SAH and SHA, but no way for the veteran to select one. Is that determined by the reviewer? If not, what do we need to know up front?
+- On the three conditional questions, we have free-form responses to enter dates and addresses - what does the back end need/accept here? Do users ever need to enter more than one previous address?
+- What is the timeline for approvals? (When should the Veteran return to check status or follow up?)
 - What is the approval artifact? Independent View page? Link in my VA?
 - There is an appeals check link that looks like it goes to the overall claim or appeals status tool.  What do we need to know about appeals on this benefit?
 - For the previous applications, do users typically have just one previous? Do we need to accomodate multiple?
