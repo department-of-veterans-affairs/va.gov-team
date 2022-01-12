@@ -205,7 +205,6 @@ Now let's look specifically at the call-outs (yellow notifications) on the page.
 - What are the participants reasons for wanting to dismiss at alert?
 - What are the participant's expectations around dismissing alerts and finding that information again?
 - At what point does the participant expect to see new debt information?
-- How does the participant expect to find out about new notifications on VA.gov?
 
 ## Post Task Interview - 5 minutes
 
