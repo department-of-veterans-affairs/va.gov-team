@@ -301,6 +301,11 @@ Research
 - Start BE build after our next regroup with MPI
 
 ## Sprint 65 (1/12 - 1/25)
+[Sprint 65 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35151)
+
+### PTO
+- MLK Holiday - Jan 15
+- Tom - OOO 1/19 for PIV card
 
 ### General profile
 
