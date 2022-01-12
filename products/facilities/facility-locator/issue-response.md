@@ -1,7 +1,7 @@
 # Facility Locator Technical Documentation
 
  
-## Incident Response
+## Incident Response - last updated January 12, 2022
 
 ### Points of contact for system and dependent VA backends
    - Lighthouse 
