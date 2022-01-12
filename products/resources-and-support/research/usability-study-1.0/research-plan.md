@@ -15,7 +15,7 @@ We would like to make improvements to the layout of R&S article pages. Overall, 
 [Link to product brief coming soon]
 
 ### OCTO Objectives 
-Improving Resources and Support will allow Veterans and those in their support system to find information on utilizing their VA.gov account, gaining information on benefits, and easily find links to apply for benefits.
+Improving Resources and Support will allow Veterans and those in their support system to find information on utilizing their VA.gov account, gaining supplemental information on benefits, and easily find links to apply for benefits or make changes to their account.
 
 ### Veteran Journey
 Resources and support impacts the Veteran journey from Starting up and all phases thereafter.
