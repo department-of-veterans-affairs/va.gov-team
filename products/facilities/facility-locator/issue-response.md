@@ -28,9 +28,14 @@
 ## Sequence diagrams 
 These diagrams show the ordered flow of data and operations between systems
 
-### PPMS Provider Locator Sequence, with round trip for Provider details (Deprecated 12/2020)
-![PPMS Provider Locator Sequence, with round trip for Provider details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/PPMS%20Provider%20Locator%20Sequence.png)
+### PPMS 
+<details>
+ <summary> PPMS Provider Locator Sequence, with round trip for Provider details (Deprecated 12/2020) </summary>
+  
+  ![PPMS Provider Locator Sequence, with round trip for Provider details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/PPMS%20Provider%20Locator%20Sequence.png)
 
+ </details>
+ 
 ### PPMS Provider Locator Sequence, optimized v1 query
 ![PPMS Provider Locator Sequence, optimized v1 query](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/v1%20ppms%20provider%20locator%20sequence.png)
 
@@ -39,7 +44,7 @@ These diagrams show the ordered flow of data and operations between systems
 
 ### Endpoint descriptions 
 
-**v1/facilities/va** 
+**/facilities_api/v1/va** 
 Used for searches in which Facility type =
 - VA health
 - VA benefits
@@ -47,13 +52,19 @@ Used for searches in which Facility type =
 - Vet Centers
 - Urgent care + Service type = VA urgent care
 
-**v1/facilities/ccp**
+**/facilities_api/v1/ccp/provider**
 Used for searches in which Facility type =
 - Community care providers (in VA’s network)
-- Community care pharmacies
-- Urgent care + Service type = Community urgent care (in VA’s network)
 
-**/v1/facilities/va_ccp/urgent_care** 
+**/facilities_api/v1/ccp/specialties**
+Used to populate the typeahead for searches in which Facility type =
+- Community care providers (in VA’s network)
+
+**/facilities_api/v1/ccp/pharmacy**
+Used for searches in which Facility type =
+- Community care pharmacies
+
+**/facilities_api/v1/ccp/urgent_care** 
 Used for searches in which Facility type =
 - Urgent care + Service type = Community urgent care (in VA’s network)
 
