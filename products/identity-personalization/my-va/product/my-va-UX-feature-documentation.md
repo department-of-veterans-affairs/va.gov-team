@@ -30,7 +30,9 @@ We currently show the following:
 - Claims & appeals
 - Health care
 - Benefit payment and debts (WIP)
-- Benefits you might be interested in 
+- Apply for VA Benefits
+    - Applications in progress
+    - Benefits you might be interested in
 
 The digital health modernization team is working to create a 'health care apartment' that lives on VA.gov.  This is part of a larger effort to retire MHV. This integration will definitely need to be taken into consideration when figuring out next steps for My VA and the overal IA of the logged-in experience.
 
