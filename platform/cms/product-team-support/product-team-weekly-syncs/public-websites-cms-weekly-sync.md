@@ -35,12 +35,15 @@
 
 </details>
 
+## January 19
+
+Q1 
 
 ## January 12
 
-Some updates about CMS team
-
-Q1 planning timelines
+Recurring events
+* Sample content and web environment
+* Disable CORS for Tugboat evaluation?
 
 
 ## January 5
