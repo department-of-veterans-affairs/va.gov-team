@@ -19,6 +19,7 @@
 - [Engineering Proposals](#engineering-proposals)
 - [Engineering Questions](#engineering-questions)
 - [Staff Facing Questions](#staff-facing-questions)
+- [UX Questions](#ux-questions)
 - [Engineering Solutions](#engineering-solutions)
 - [Testing Questions](#testing-questions)
 - [Testing Solutions](#testing-solutions)
@@ -365,6 +366,12 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
 - VSE Clinical Staff will need access to the veterans updated _demographics data_[^2]. What additional work(integrations/endpoint-support/components/lambdas) will CHIP need to provide in-order to facilitate this access for VSE?
 - When a staff member confirms a veterans information on site, the timestamp on file 41.41 is updated and the staff members ID is associated with the file and the updated timestamp. This action that a staff member takes on multiple occasions with several veterans on site is taken into consideration when the staff members receives a performance evaluation. Will an external system(the pre-check-in flow) performing the same job as a staff member cause an issue?
 - Will an external system(VA Profile for instance) be given permission to update file 41.41 without confirmation by a staff member?
+
+## UX Questions
+- Do we need address validation on emergency contact and next of kin?
+- Do we need error message wording if the Veterans hits "update" and the information isn't immediately seen on the review pages? Check with the profile team on how they handle this and if they have any wording already created.
+- Look into the zip code component. How does it handle the zip 4? There is a backlog ticket in platform to improve it. Do we need to do the work ourselves?
+- Should we reuse any of this information from VA.gov profile? [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products[…]ile/contact-information/address-validation/qa-508/test-cases.md) and [Error messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/error%20messages/ErrorCodesForOverride_withExamples.xlsx)
 
 ## Engineering Solutions
 
