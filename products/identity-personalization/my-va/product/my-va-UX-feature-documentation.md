@@ -1,10 +1,11 @@
 # My VA UX Documentation
 
-Last updated: January 3, 2022
+Last updated: January 12, 2022
 
 ### Related Links
 
 - [My VA GH folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md)
 - [Latest sketch file](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
 - [Pre-Redesign My VA Data Points outlined](https://docs.google.com/spreadsheets/d/1fO3VxUj8U2M268GnpmNmlL8Jdl8E1as33SzuwoTneV8/edit#gid=1721169854)
 - [My VA Updates spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/design-ia/MyVA%20Updates%20(2).xlsx) - this is documentation around what should be on the My VA 2.0 dashboard broken down by time sensitivity and if it was requested in research. We didn't end up using all of these for some technical restrictions, but it gives you an idea of thought process.
