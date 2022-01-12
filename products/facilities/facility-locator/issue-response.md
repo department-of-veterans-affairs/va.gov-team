@@ -20,11 +20,17 @@
  - [Facility Locator(PPMS)](http://grafana.vfs.va.gov/d/000000048/facility-locator-ppms?orgId=1)
 
 ## Technical diagrams 
-
-![Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL%20Arch%20diagram.jpg)
+![Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/facilities%20technical%20diagram%2001.12.22.PNG)
 
 [Lighthouse API diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Lighthouse%20arch%20diagram.png) for reference
 
+<details>
+ <summary> Previous technical diagram </summary> 
+ 
+ ![Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL%20Arch%20diagram.jpg)
+
+ </details>
+ 
 ## Sequence diagrams 
 These diagrams show the ordered flow of data and operations between systems
 
@@ -41,6 +47,10 @@ These diagrams show the ordered flow of data and operations between systems
 
 ### PPMS and Lighthouse Urgent Care
 ![PPMS and Lighthouse Urgent Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/PPMS%20and%20Lighthouse%20Urgent%20care.png)
+
+
+### PPMS and Lighthouse Emergency Care
+![PPMS and Lighthouse Emergency Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/emergency%20care%20technical%20diagram.PNG) 
 
 ### Endpoint descriptions 
 
@@ -72,7 +82,7 @@ Used for searches in which Facility type =
 
 **Query examples**
 ```
-https://sandbox-api.va.gov/services/va_facilities/v0/facilities?bbox%5B%5D=-122.440689&bbox%5B%5D=-122.786758&bbox%5B%5D=45.451913&bbox%5B%5D=45.64&type=benefits
+https://sandbox-api.va.gov/facilities_api/v1/va?bbox%5B%5D=-122.440689&bbox%5B%5D=-122.786758&bbox%5B%5D=45.451913&bbox%5B%5D=45.64&type=benefits
 ```
 
 ```
