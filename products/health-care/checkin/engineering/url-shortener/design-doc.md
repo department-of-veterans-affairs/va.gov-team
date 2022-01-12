@@ -225,7 +225,7 @@ TBD
    </td>
   </tr>
   <tr>
-   <td>DoS attacks against public URLs under https://www.va.gov/u/
+   <td>DoS attacks against public URLs under https://www.va.gov/c/
    </td>
    <td>Leverage existing DDOS protections for www.va.gov
    </td>
