@@ -1,13 +1,17 @@
 ---
 name: Authorized VA.gov Profile - New Issue Template
-about: Basic template for Authorized Profile team issues
+about: Basic template for Authorized Experience Profile team issues
 title: Auth Profile: [name of issue]
 labels: vsa, vsa-authenticated-exp, profile, needs-grooming
 assignees: MarciMcGuireGCIO
 
+
 ---
 
+# Authorized Experience Profile Standard Issue Template
+
 ## Background
+
 Describe the issue background and scope
 
 ## Tasks
