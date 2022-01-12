@@ -81,8 +81,8 @@ Perigean to recruit Veterans for this study.
 **Primary criteria (must-haves)**
 
 Participants must be active users of MyHealtheVet appointments:
-- Screener question (yes/no): Have you logged in to MyHealtheVet to view and/or manage your appointments in the last 6 months? 
-- Screener question (yes/no): Are you willing to log in to MyHealtheVet during this study so our research team can learn how you use this tool? Any personally identifiable information shown during the study will be destroyed after the session.
+- **Screener question (yes/no):** Have you logged in to MyHealtheVet to view and/or manage your appointments in the last 6 months? 
+- **Screener question (yes/no):** Are you willing to log in to MyHealtheVet during this study so our research team can learn how you use this tool? Any personally identifiable information shown during the study will be destroyed after the session.
 
 Participants must answer yes to both questions to qualify for the study.     
 
