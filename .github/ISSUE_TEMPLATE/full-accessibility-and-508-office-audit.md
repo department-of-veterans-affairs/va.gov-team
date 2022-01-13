@@ -3,7 +3,7 @@ name: Full Accessibility & 508 Office Audit
 about: Request a full accessibility review post launch
 title: Full Accessibility & 508 Office Audit [Team Name - Feature Name]
 labels: 508/Accessibility, vsp-product-support, collaboration-cycle, collab-cycle-review
-assignees: noahgelman, shiragoodman 
+assignees: 
 
 ---
 
@@ -57,4 +57,4 @@ VFS teams also need to send their product to VA's 508 office for approval (as ap
 
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Full Accessibility and 508 Office Audit Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Full-accessibility-and-508-office-audit.1774846068.html) on Platform website for more information about the Collaboration Cycle.
 
-
+FYI: @shiragoodman , @chaseakirby
