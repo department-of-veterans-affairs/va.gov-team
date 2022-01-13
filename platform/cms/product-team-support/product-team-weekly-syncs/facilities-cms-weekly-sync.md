@@ -25,7 +25,9 @@
 
 ## January 19 (possibly breaking up these meetings)
 
+### VAMC
 VAMC Health service design - Nick 
+Cerner toggle for Medical Records pages - Tugboat won't work for user testing because its web views require VA network access
 
 
 ## January 12
