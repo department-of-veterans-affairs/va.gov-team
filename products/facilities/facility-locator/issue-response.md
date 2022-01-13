@@ -45,12 +45,9 @@ These diagrams show the ordered flow of data and operations between systems
 ### PPMS Provider Locator Sequence, optimized v1 query
 ![PPMS Provider Locator Sequence, optimized v1 query](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/v1%20ppms%20provider%20locator%20sequence.png)
 
-### PPMS and Lighthouse Urgent Care
-![PPMS and Lighthouse Urgent Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/PPMS%20and%20Lighthouse%20Urgent%20care.png)
-
-
-### PPMS and Lighthouse Emergency Care
-![PPMS and Lighthouse Emergency Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/emergency%20care%20technical%20diagram.PNG) 
+### PPMS and Lighthouse Mashups
+- "Mash-up" searches for all urgent care locations (Community care/PPMS + VA) are performed on the front end.
+- "Mash-up" searches for all emergency care locations (Community care/PPMS + VA) are performed on the front end.
 
 ### Endpoint descriptions 
 
