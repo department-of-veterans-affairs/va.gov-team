@@ -3,7 +3,7 @@ name: Collaboration Cycle Kickoff
 about: Begin engaging with the Collaboration Cycle
 title: Collaboration Cycle Kickoff [Team Name, Feature Name]
 labels: vsp-product-support, collaboration-cycle, collab-cycle-review
-assignees: shiragoodman
+assignees: 
 
 ---
 
@@ -160,3 +160,4 @@ Examples of **changes to url, navigation, or entry points** include:
 
 ## Additional information
 Please refer to the [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) guidance on Platform website for more information about the Collaboration Cycle.
+FYI: @shiragoodman , @chaseakirby
