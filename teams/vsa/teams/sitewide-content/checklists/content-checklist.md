@@ -1,8 +1,8 @@
-# Pre-publishing checklist
+# Content standards checklist
 
 ## For all VA.gov pages (including those in Resources and Support)
 
-**Before you begin: **
+**Before you begin:**
 - [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
 
 ### Accessibility standards
