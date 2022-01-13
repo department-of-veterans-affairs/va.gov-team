@@ -3,7 +3,7 @@ name: Staging Review
 about: Request a Platform staging review
 title: Staging Review [Team Name - Feature Name]
 labels: vsp-product-support, collaboration-cycle, staging-review, collab-cycle-review
-assignees: Shiragoodman
+assignees: 
 
 ---
 
@@ -124,4 +124,4 @@ Please note:
 
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Staging Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html) on Platform website for more information about the Collaboration Cycle.
 
- 
+ FYI: @shiragoodman , @chaseakirby
