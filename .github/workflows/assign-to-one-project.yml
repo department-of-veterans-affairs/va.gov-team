@@ -39,3 +39,11 @@ jobs:
       with:
         project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/41'
         column_name: 'New'
+    - name: Add issues with `platform-feature-request` label to Platform Feature Requests project
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: |
+        github.event.action == 'opened' &&
+        contains(github.event.issue.labels.*.name, 'documentation-support')
+      with:
+        project: 'https://github.com/department-of-veterans-affairs/va.gov- team/projects/42'
+        column_name: 'New'
