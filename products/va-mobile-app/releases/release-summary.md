@@ -1,5 +1,13 @@
 # VA Mobile team - Release Highlights
 
+
+## Release: 1/18/22
+
+New + Improved
+
+- Implemented ability to delete draft(s) from the Messages draft messages folder
+
+
 ## Release: 1/04/22
 
 New + Improved
