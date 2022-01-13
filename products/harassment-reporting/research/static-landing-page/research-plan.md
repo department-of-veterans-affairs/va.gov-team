@@ -37,18 +37,19 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 *[ACTION ITEM: Get the most recent version of the poster from MARTHA, after removing the QR code and adding a phone number]*
 
 
-### Ideas for conversation guide
-- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What would you do?
-- *(for sighted participants:)* While you were at the VA for a doctor's appointment, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
+### Ideas for conversation guide *(will move to separate doc)*
+- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What would you do? *(report it? don't report it?)* Why? What would you do next?
+- *(for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
   - *(if on desktop)* Show poster
-    - Ask about impressions
-    - Allow as much time as the participant wants to read/process the poster before moving on
-- *(for participants using screen readers:)* While you were at the VA for a doctor's appointment, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*  
+    - What are your impressions?
+    - Allow as much time as the participant wants to read/process the poster 
+    - *(ask some questions TBD, including what they would do next)*
+- *(for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*  
 
-- Show landing page
-  - Ask about impressions
-  - Allow as much time as the research participant wants to read/process the landing page before moving on
-  - 
+- *(for everyone)* Let's say that you found this page on VA.gov *(give URL of landing page for participant to open on their device)*
+  - What are your impressions?
+  - Allow as much time as the participant wants to read/process the landing page 
+  - *(ask some questions TBD, including what they would do next)*
 
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
