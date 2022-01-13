@@ -48,14 +48,16 @@ The VAOS team will use this research to provide a better experience for Veterans
 * Improving the path/workflow from MHV to VAOS.
 
 ### Research questions
-What's not working about the information or tools available in either appointments list?
-What's working well in either list?
+
+What information do Veterans need in an appointments list to make it useful?
+What might be confusing when transitioning from the MHV appointments list to VAOS.
 
 ### Hypothesis
 
 Veterans largely use the MyHealtheVet appointments list to understand and manage their health care appointments. We believe, as more Veterans transition to VAOS to do the same tasks, they may be confused by content and interactions that are different between the two lists.
 
 ## Method	
+
 First we'll run a **contextual inquiry** by asking participants to access the MHV appointments list and VAOS appointments list, and observing how they use those features.
 
 Then we'll run a **concept test** by showing participants an updated version of the VAOS home page on desktop and asking them questions about how this might change their experience.
@@ -65,6 +67,7 @@ Then we'll run a **concept test** by showing participants an updated version of 
 This will be a moderated remote study, over Zoom.
 
 ### Research materials
+
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/conversation-guide.md)
 - [Link to prototype](url goes here)
 	
@@ -81,9 +84,8 @@ Perigean to recruit Veterans for this study.
 **Primary criteria (must-haves)**
 
 Participants must be active users of MyHealtheVet appointments:
-- **Screener question (yes/no):** Have you logged in to MyHealtheVet to view and/or manage your appointments in the last 6 months? 
-- **Screener question (yes/no):** Are you willing to log in to MyHealtheVet during this study so our research team can learn how you use this tool? Any personally identifiable information shown during the study will be destroyed after the session.
-
+- **Screener question (yes/no):** Have you logged in to MyHealtheVet to view your appointments in the last 6 months? 
+- **Screener question (yes/no):** Are you willing to sign into My HealtheVet during this study so our research team can learn how you use this tool? We will not record any of your personal health information; the focus of this study is to learn how you use this tool.
 Participants must answer yes to both questions to qualify for the study.     
 
 **Secondary criteria (nice-to-haves)**
@@ -109,15 +111,15 @@ We'll kick off the recruiting for this study [TBD, around January 17th)
 All materials will be complete by [TBD]
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email: [TBD]
-* Date and time of pilot session: [TBD]
+- Pilot participant email: [TBD]
+- Date and time of pilot session: [TBD]
 
 ### Research sessions
 What dates do you plan to do research? [TBD]
 
 ### Length of sessions
-* Each session will be 1 hour
-* Please leave at least a 15m buffer between sessions.
+- Each session will be 1 hour
+- Please leave at least a 15m buffer between sessions.
 
 ### Availability
 
@@ -130,6 +132,7 @@ Monday-Friday 11 AM-10PM EST
 - Project point of contact: Peter Russo
 - Participant(s) for pilot test: [TBD]	
 - Note-takers:
+	- Perigean - we're not recording these sessions so will need verbatim notes
 	- Ciera Maddox - ciera.maddox@adhocteam.us 
 - Observers: 
 	- Leah de la Costa
