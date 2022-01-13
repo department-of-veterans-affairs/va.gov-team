@@ -31,18 +31,13 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 1 hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **We will ask you to log into MyHealtheVet and VA.gov for this study.** We will not use any of your medical information as a part of this study. And none of the information we do use will be attributed to you directly.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.The recordings are destroyed after we complete analysis.   
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
-
-*Start recording.* [TODO - confirm we can record their screen]
-
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+- **I will ask you to log into MyHealtheVet during this session** We won't be recording this session. We will be taking notes to confirm that we have captured your opinions accurately, but we will not use any of your medical information as a part of this study. And none of the information we do use will be attributed to you directly. 
+- Do you have any questions for me before we start?
 
 ## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at MyHealtheVet, I have a few warm-up questions.
 
 - What tools do you use to manage your health appointments, VA or otherwise? Like changing or canceling?
 - How do you keep informed about changes to your appointments?
