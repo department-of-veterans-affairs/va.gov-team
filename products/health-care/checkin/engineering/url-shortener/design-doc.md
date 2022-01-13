@@ -4,7 +4,7 @@ Author(s): **Adrian Rollett**
 
 Last Updated: **January 3, 2022**
 
-Status: **Draft** | In Review | Approved
+Status: Draft | **In Review** | Approved
 
 Approvers:
 
