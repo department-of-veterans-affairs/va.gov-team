@@ -2,7 +2,7 @@
 
 ## Background
 
-VA Online Scheduling allows Veterans to request and schedule health care appointments if they are logged into VA.gov. It is one [channel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/design/scheduling-channels-touchpoints.md) Veterans can use to schedule appointments.
+VA Online Scheduling allows Veterans to request and schedule health care appointments if they are logged in to VA.gov. It is one [channel](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/design/scheduling-channels-touchpoints.md) Veterans can use to schedule appointments.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/vaos-product-guide.pdf)
 
@@ -58,7 +58,7 @@ Veterans largely use the MyHealtheVet appointments list to understand and manage
 
 ## Method	
 
-First we'll run a **contextual inquiry** by asking participants to access the MHV appointments list and VAOS appointments list, and observing how they use those features.
+First, we'll run a **contextual inquiry** by asking participants to access the MHV appointments list and VAOS appointments list, and observe how they use those features.
 
 Then we'll run a **concept test** by showing participants an updated version of the VAOS home page on desktop and asking them questions about how this might change their experience.
 
@@ -85,14 +85,14 @@ Perigean to recruit Veterans for this study.
 
 Participants must be active users of MyHealtheVet appointments:
 - **Screener question (yes/no):** Have you logged in to MyHealtheVet to view your appointments in the last 6 months? 
-- **Screener question (yes/no):** Are you willing to sign into My HealtheVet during this study so our research team can learn how you use this tool? We will not record any of your personal health information; the focus of this study is to learn how you use this tool.
+- **Screener question (yes/no):** Are you willing to sign in to My HealtheVet during this study so our research team can learn how you use this tool? We will not record any of your personal health information; the focus of this study is to learn how you use this tool.
 Participants must answer yes to both questions to qualify for the study.     
 
 **Secondary criteria (nice-to-haves)**
 
 Please aim for the targets below to recruit a representative sample of Veterans for this study. Each number represents the minimum number of Veterans to recruit for (based on 12 participants).
 
-- At least 6 Veterans age 55-64
+- At least 6 Veterans aged 55-64
 - At least 6 Veterans who have a cognitive disability
 - At least 3 people of color
 - At least 3 Veterans living in rural areas
@@ -118,12 +118,12 @@ Please indicate the date and name of a mock participant for a pilot session.
 What dates do you plan to do research? [TBD]
 
 ### Length of sessions
-- Each session will be 1 hour
+- Each session will be 1 hour.
 - Please leave at least a 15m buffer between sessions.
 
 ### Availability
 
-Monday-Friday 11 AM-10PM EST
+Monday-Friday 11 AM-10 PM EST
 	
 ## Team Roles		
 - Moderator: Peter Russo - peter.russo@adhocteam.us
@@ -135,9 +135,9 @@ Monday-Friday 11 AM-10PM EST
 	- Perigean - we're not recording these sessions so will need verbatim notes
 	- Ciera Maddox - ciera.maddox@adhocteam.us 
 - Observers: 
-	- Leah de la Costa
-	- Lauren Ernest
-	- Jeff Roof
+	- Leah de la Costa - leah.delacosta@adhocteam.us
+	- Lauren Ernest - lauren.ernest@adhocteam.us
+	- Jeff Roof - jeff.roof@adhocteam.us
 	- Andrea Perez - andrea.perez@bylight.com
-	- Natalie Hill
+	- Natalie Hill - natalie.hill@adhocteam.us
 	
