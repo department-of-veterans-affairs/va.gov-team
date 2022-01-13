@@ -99,6 +99,6 @@ Please note: You are responsible for adding the VFS attendees. If you have more 
 ## Additional information
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Midpoint Review Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) on Platform website for more information about the Collaboration Cycle.
 
-FYI: @department-of-veterans-affairs/shiragoodman , @department-of-veterans-affairs/chaseakirby
+FYI: @shiragoodman , @chaseakirby
 
 
