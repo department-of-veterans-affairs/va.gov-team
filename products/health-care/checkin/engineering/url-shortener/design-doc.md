@@ -4,7 +4,7 @@ Author(s): **Adrian Rollett**
 
 Last Updated: **January 3, 2022**
 
-Status: Draft | **In Review** | Approved
+Status: Draft | In Review | **Approved**
 
 Approvers:
 
@@ -302,7 +302,8 @@ TBD
 
 | Date  | Revisions made | Author |
 |------ | -------------- | ------ |
-| Jan 4, 2022 | Initial Draft | Adrian Rollett |
-| Jan 5, 2022 | Added requirements from [IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33449) | Adrian Rollett |
-| Jan 5, 2022 | Add links to diagram source files | Adrian Rollett |
-| Jan 7, 2022 | Update link prefix from `/u/` to `/c/` | Adrian Rollett |
+| Jan 4, 2022  | Initial Draft | Adrian Rollett |
+| Jan 5, 2022  | Added requirements from [IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33449) | Adrian Rollett |
+| Jan 5, 2022  | Add links to diagram source files | Adrian Rollett |
+| Jan 7, 2022  | Update link prefix from `/u/` to `/c/` | Adrian Rollett |
+| Jan 13, 2022 | Updated status to Approved (per Stephen Barrs & Shane Elliot) | Adrian Rollett |
