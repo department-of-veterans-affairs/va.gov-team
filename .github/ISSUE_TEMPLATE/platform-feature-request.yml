@@ -1,6 +1,6 @@
 name: "Platform Feature Requests"
 description: "If you have a request for a feature you believe the VA Platform should implement, complete the information below."
-title: "[Feature Request [Feature-Name]:"
+title: "[Feature request name]:"
 labels:
   - "platform-feature-request"
 assignees:
