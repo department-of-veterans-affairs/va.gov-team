@@ -46,4 +46,4 @@ jobs:
         contains(github.event.issue.labels.*.name, 'documentation-support')
       with:
         project: 'https://github.com/department-of-veterans-affairs/va.gov- team/projects/42'
-        column_name: 'New'
+        column_name: 'Submitted'
