@@ -68,6 +68,6 @@ For the Design Intent, you'll receive feedback from design, accessibility and IA
 
 Please refer to [Platform Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) or the [Design Intent Touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Design-intent.1782153235.html) on Platform website for more information about the Collaboration Cycle.
 
-FYI: @department-of-veterans-affairs/shiragoodman , @department-of-veterans-affairs/chaseakirby
+FYI: @shiragoodman , @chaseakirby
 
 
