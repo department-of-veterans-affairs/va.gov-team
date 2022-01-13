@@ -45,5 +45,5 @@ jobs:
         github.event.action == 'opened' &&
         contains(github.event.issue.labels.*.name, 'platform-feature-request')
       with:
-        project: 'https://github.com/department-of-veterans-affairs/va.gov- team/projects/42'
+        project: 'https://github.com/department-of-veterans-affairs/va.gov-team/projects/42'
         column_name: 'Submitted'
