@@ -168,7 +168,7 @@ I want to get your input on another new feature, but since you don't have any de
   
 - Is it important for you to know how many new debts have been added, or only that you have new debt?
   
-- Okay great, let's talk about any interactivity with these alerts. What can you do with them?
+- Okay great, let's talk about the things you can do with these alerts. Talk me through what you can do with them. (**Note: this is to begin to evaluate dismissable vs non-dismissable alerts.**)
   
   - Why would you want to dismiss this alert?
     
@@ -183,7 +183,6 @@ I want to get your input on another new feature, but since you don't have any de
 - One more specific thing I want your feedback on - do you have any experience with VA travel reimbursement? Show me where you'd look for that on this page.
   
   - Why would you expect to see that there?
-    
 
 ### Things to watch for:
 
