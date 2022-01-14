@@ -11,3 +11,10 @@ We are integrating preferred name, pronouns, gender identity, and sexual orienta
 Even with the addition of email and text communications at the VA, mail is still a primary form of communication for the organization. This makes it especially important that the VA has accurate and valid mailing addresses for all veterans. To further support accurate mailing addresses and reduce incidences of returned or unreceived mail, we would like to add a bad address indicator to the profile to let people know that they should check to make sure the VA has their most up-to-date address. This will work in tandem with the address validation functionality already supported in the VA.gov profile.
 
 **Targeted launch**: Q2 2022
+
+Other potential efforts
+
+- Integrate military information through VA Profile backend (currently integrates through eMIS)
+  - Samara attending an introductory meeting about this on 1/26
+- Research effort: research how to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
+- 
