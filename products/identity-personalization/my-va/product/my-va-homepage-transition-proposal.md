@@ -69,7 +69,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **Hypothesis**: If a link lives on My VA, there will be no increase in searches for this information from My VA or overall.
 
-**KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for searches overall on VA.gov.
+**KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for all VA.gov searches.
 
 |Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
@@ -82,7 +82,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
-**KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for searches these terms overall on VA.gov.
+**KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for all VA.gov searches.
 
 |Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
