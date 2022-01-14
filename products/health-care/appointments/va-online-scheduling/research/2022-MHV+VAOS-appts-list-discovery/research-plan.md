@@ -69,7 +69,7 @@ This will be a moderated remote study, over Zoom.
 ### Research materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype](https://www.figma.com/proto/MNanAQBGzQbRJeb89d1OVz/VAOS-IN-Reschedule-and-home?node-id=102%3A17230&scaling=min-zoom&page-id=0%3A5282&starting-point-node-id=109%3A18580)
 	
 ## Recruitment	
 
