@@ -1,12 +1,12 @@
 # On-site notifications roadmap
 
-**Updated November 23, 2021**
+**Updated January 14, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|On-site notifications MVP| Design & build |
+|On-site notifications MVP| User research & build |
 
 ### Projected timelines for current projects
 
@@ -20,7 +20,6 @@
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
 |Debt notifications| Leah Keeler/Benefits & Memorials team|3.1.21| The debt team would like to elevate debt-related notifications on the My VA dashboard. However, the My VA notification is not a dependency for this team's launch. They are able to continue develoment on their tool while we finish the My VA 2.0 design. [Slack convo](https://dsva.slack.com/archives/C909ZG2BB/p1614612187092100)|
-
 
 ## Ideas from our team
 
