@@ -2,7 +2,7 @@
 name: Platform Orientation Template [Your name here]
 about: For orienting new VFS teams/members to Platform policies/practices
 title: Platform Orientation Template
-labels: 'vsp-product-support'
+labels: 'governance-team'
 assignees: ''
 
 ---
