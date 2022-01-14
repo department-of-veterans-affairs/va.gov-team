@@ -182,7 +182,7 @@ Is there anything else that we haven't talked about that you think I should know
 
 ## Thank You and Closing - 2 minutes
 
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing another way to report harassment, we can make the VA safer for everyone.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing resources for reporting harassment, we can make the VA safer for everyone.
 
 In case you feel uncomfortable or stressed about your harassment experiences or anything else, I want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
 - Call 800-273-8255 and select 1, or text 838255
