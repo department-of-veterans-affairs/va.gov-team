@@ -115,7 +115,7 @@ Let’s start with a few questions...
 
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _______________)*
 
-- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in and also on your way out, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. If you wanted to talk with someone at the VA about it, where would you start?
+- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What would you do? *(report it? don't report it?)* Why? What would you do next?
 
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
@@ -137,6 +137,18 @@ I'll have you start from a website that I'm going to (spell/put into the Zoom ch
 Do you see the link? 
 
 ## Veteran Tasks
+- *(for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
+  - *(if on desktop)* Show poster
+    - What are your impressions?
+    - Allow as much time as the participant wants to read/process the poster 
+    - *(ask some questions TBD, including what they would do next)*
+   
+- *(for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*  
+
+- *(for everyone)* Let's say that you found this page on VA.gov *(give URL of landing page for participant to open on their device)*
+  - What are your impressions?
+  - Allow as much time as the participant wants to read/process the landing page 
+  - *(ask some questions TBD, including what they would do next)*
 
 
 ### Task 1: [Explore landing page] - 5 minutes
