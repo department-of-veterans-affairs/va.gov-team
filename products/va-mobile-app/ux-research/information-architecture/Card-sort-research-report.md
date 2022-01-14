@@ -253,7 +253,7 @@ None of the participants created a category titled “Profile.” However, parti
 
 ### Next Steps
 
-**Test the recommended IA using a treejack test with 200 Veterans to validate the new IA.**
+**Test the recommended IA using a treejack test with 30-50 Veterans to validate the new IA.**
 
 While we have quality findings and have derived insights to inform decisions around the IA, we need to test this with a substantial number of participants in order to get truly quantitative results. To do this, we recommend using an optimal workshop tree test. 
 
