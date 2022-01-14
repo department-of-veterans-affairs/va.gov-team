@@ -1,0 +1,41 @@
+# The diagarm can be regenerated/updated at http://sequencediagram.org/
+
+title Va-API LOA3 Authentication Flow with Valid LOA 1 Session Token
+actor User
+note right of User:Pre-requisite:\nUser has current session
+participant Browser
+participant www.va.gov #B4D8E7
+participant api.va.gov #B4D8E7
+database redis
+participant api.id.me #7cfc00
+autonumber
+
+
+User-> Browser: **Navigate to\na page that requires\nIdentity proofing**
+Browser -> www.va.gov:  **Get Page**\nGET https://www.va.gov/\nhealth-care/refill-track-prescriptions/
+Browser <-- www.va.gov: 200-OK : **VA Prescription Refill Page**
+Browser -> api.va.gov: **Request User Data**\nxmlhttprequest: https://api.va.gov/v0/user \n[cookie: token]**
+api.va.gov -> redis: **Find User Data with\nToken from Cookie
+api.va.gov <-- redis: **User Data**
+Browser <-- api.va.gov: 200: **Receive user info**\nit includes `{"verified":false}` if the user\nhas not verified their identity
+User <-- Browser: **User sees\n"Please verify your identity to..."**
+User -> Browser: **User Clicks\n" "Verify Your Identity"**
+Browser->api.va.gov: **Ask API to Create a SAML Request **\nxmlhttprequest: https://api.va.gov/sessions/idme/new
+Browser<--api.va.gov: **Return URL of Security Access Manager with a SAML Request**\n200-OK: {url: "https://eauth.va.gov/isam/sps/saml20idp/saml20/login", SAMLRequest=..., RelayState=...}
+Browser->eauth.va.gov: **Post SAML Request to Security Access Manager**\nPOST: https://eauth.va.gov/isam/sps/saml20idp/saml20/login, {SAMLRequest=...&RelayState=..}
+eauth.va.gov->api.id.me: **Redirect to Identity Provider**\nGET: https://api.id.me/saml/SingleSignOnService?SAMLRequest=...&RelayState=...&SigAlg=...&Signature=...
+==ID.me LOA3 flow:\nUser will be prompted to authenticate with something they have (SMS, id.me app, hardware token, etc)\nUser will be prompted to authenticate with additional information (credit history, photo id, passport)==
+eauth.va.gov<--api.id.me: **POST SAML Response to Security Access Manager**\nPOST: https://eauth.va.gov/isam/sps/saml20idp/saml20/login, {SAMLResponse=...&RelayState=...&authenticity_token=...}
+eauth.va.gov-> MPI: **Get Data from Master Person Index (MPI)**\nif user is LOA3/IAL2\n and inject in SAML Response
+eauth.va.gov<-- MPI: MPI Data
+Browser<--eauth.va.gov: **Return a Redirect that includes a SAML Response**\n302: https://api.va.gov/v1/sessions/callback, {SAMLResponse=...&RelayState=...}
+Browser->api.va.gov: **Post SAML Response**\nPOST: https://api.va.gov/v1/sessions/callback, {SAMLResponse=...&RelayState=...}
+api.va.gov<-api.va.gov: **Decrypt and Validate SAML Response**\nThe SAMLResponse contains descriptive user data\nfrom implicit Master Person Index\nlookup in eauth.va.gov response
+api.va.gov<-api.va.gov: **Update User\nand Session**
+api.va.gov->redis: **Save User\nand Session**
+Browser<--api.va.gov:**Redirect back to Front End and Set Session Cookie**\n302: https://www.va.gov/auth/login/callback\n **Set-Cookie**: vagov_saml_request_prod, api_session
+Browser->Browser: **Close popup window \n and return to previous page**
+Browser->api.va.gov: **Request User Data**\nxmlhttprequest https://api.va.gov/v0/user [cookie]
+Browser<--api.va.gov: **Receive User Data**\n{"data":{"id":"","type":"users","attributes":{...}}}
+Browser->Browser: **Refresh page with\n User data**
+User<--Browser: ** User Sees Call To Action (CTA)\navailable to LOA3 users
