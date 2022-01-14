@@ -43,7 +43,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **Hypothesis**: If a link lives on My VA, there will be no increase in searches for this information from My VA or overall.
 
-**KPI**: Searches for information found on both My VA and the homepage will stay the same or decrease for searches initiated from My VA.
+**KPI**: For searches initiated from My VA, searches for information found on both My VA and the homepage will stay the same or decrease.
 
 |Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
@@ -54,9 +54,9 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 |Payment|TBD|TBD|TBD|TBD|
 |Payment history|TBD|TBD|TBD|TBD|
 
-**Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA.
+**Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
-**KPI**: Searches for information found on the homepage but NOT My VA will increase for searches initiated from My VA.
+**KPI**: For searches initiated from My VA, searches for information found on the homepage but NOT My VA will increase.
 
 |Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
@@ -66,6 +66,8 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 |GI bill|TBD|TBD|TBD|TBD|
 
 ### [Logged-in searches overall](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
+
+**Hypothesis**: If a link lives on My VA, there will be no increase in searches for this information from My VA or overall.
 
 **KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for searches overall on VA.gov.
 
@@ -77,6 +79,8 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 |Claim(s)|TBD|TBD|TBD|TBD|
 |Payment|TBD|TBD|TBD|TBD|
 |Payment history|TBD|TBD|TBD|TBD|
+
+**Hypothesis**: If a link does not live on My VA that does live on the homepage, there will be an increase in searches for this information from My VA or overall.
 
 **KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for searches these terms overall on VA.gov.
 
