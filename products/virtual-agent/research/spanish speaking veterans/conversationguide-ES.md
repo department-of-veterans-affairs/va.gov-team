@@ -25,21 +25,24 @@
 
 
 
-Thanks for joining us today! My name is [Pilar Moreno], and with me are also some colleagues that are observing and taking notes.
-We are from a team that is currently building a chatbot for the VA site, and we want to learn more about veterans and their families 
-who use Spanish as their main language and how you are currently working with the VA, so we can provide a better service.
+¡Gracias por acompañarnos hoy! Mi nombre es [NOMBRE], y conmigo también están algunos compañeros que están observando y tomando notas.
+Somos de un equipo que actualmente está construyendo un chatbot para la pagina web de VA, y queremos saber más sobre los Veteranos y sus familias, quienes utilizan el español como su idioma principal y cómo está trabajando actualmente con el VA, para que podamos brindarle un mejor servicio.
 
-To do this we will have a session in two parts, first **I will be asking you some questions about you and your experience with the VA and chatbots**. 
-This will be very useful to help us better understand what you need. 
-The second part **I will show you a preview of the chatbot and I will ask you to do some tasks**. Here I will need to hear your honest opinion,
-we are here to evaluate the chatbot and not you, if you feel stuck for example, it will help us know what we can improve. 
+Para ello tendremos una sesión en dos partes, primero **Le haré algunas preguntas sobre usted y su experiencia con el VA y los chatbots**. 
+Esto será muy útil para ayudarnos a entender mejor lo que necesita. 
 
-- **This entire session should take about [30-45 min].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- [IF APPROPRIATE:] **You'll be interacting with a prototype chatbot.** This prototype chatbot may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. 
-- The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+En la segunda parte, **le mostraré un modelo del chatbot y le pediré que haga algunas actividades**. Necesitaré su opinión honesta,estamos aquí para evaluar al chatbot y no a su habilidad personal. Si se siente trancado(a), por ejemplo, nos ayudará a saber qué podemos mejorar.
+
+**Esta sesión, en su totalidad, debería tomar alrededor de [30-45 min].** Quiero asegurarme de no mantenerle más tiempo de lo necesario. Por lo tanto, repentinamente pasaremos a la próxima pregunta o tema.
+
+[SI ES APROPIADO:] **Usted estará interactuando con un prototipo de chatbot.** Es posible que este prototipo de chatbot no funcione exactamente de la manera que espera. Usted podrá hacer clic en algunas áreas del prototipo y en otras no. Dado que es un prototipo, ninguna de sus acciones en esta sesión afectará su información o beneficios del VA.
+
+ **Si por alguna razón, y en cualquier momento, desea parar la sesión, por favor dejemelo saber.** 
+**¿Se siente cómodo(a) si grabo mi pantalla y audio mientras hablamos hoy?** Se usarán las grabaciones para confirmar que hemos capturado sus opiniones con precisión. 
+
+Las grabaciones se destruyen después de que completemos el análisis, y ninguno de sus comentarios se le atribuirán directamente. 
+
+En caso afirmativo: **Una vez que comience la grabación, voy a confirmar de nuevo que usted está de acuerdo conmigo grabando esta sesión.** 
 
 *Start recording.*
 
