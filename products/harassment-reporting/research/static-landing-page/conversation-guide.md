@@ -173,7 +173,7 @@ Do you see the link?
   - If you didn't report it, what were the barriers to you reporting it?
   - How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
-*(If they share anything about a harassment experience, say:)"*
+*(If they share anything about a harassment experience, say...)*
 - I am sorry you had this experience. It is helpful for me to hear that so I can understand how we can provide resources to help.
 - If you want to report your experience with harassment, you can do that in person at the VA site or call XXX-XXX-XXXX.
 
