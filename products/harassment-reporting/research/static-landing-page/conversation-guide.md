@@ -110,14 +110,19 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
-Let’s start with a few questions...
-- Where do you typically go to get information about the VA?
-
-  - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / _______________)*
+Let’s start with a question...
 
 - I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What would you do? *(report it? don't report it?)* Why? What would you do next?
 
   - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
+
+- *(for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
+  - *(if on desktop)* Show poster *(share my screen and give mouse control to participant so they can move around)*
+    - What are your impressions?
+    - Allow as much time as the participant wants to read/process the poster 
+    - *(ask some questions TBD, including what they would do next)*
+   
+- *(for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*  
 
 
 ## Start screen sharing
@@ -137,30 +142,17 @@ I'll have you start from a website that I'm going to (spell/put into the Zoom ch
 Do you see the link? 
 
 ## Veteran Tasks
-- *(for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
-  - *(if on desktop)* Show poster
-    - What are your impressions?
-    - Allow as much time as the participant wants to read/process the poster 
-    - *(ask some questions TBD, including what they would do next)*
-   
-- *(for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*  
+
+### Task X: [Explore landing page] - 5 minutes
 
 - *(for everyone)* Let's say that you found this page on VA.gov *(give URL of landing page for participant to open on their device)*
-  - What are your impressions?
+  - What are your impressions of this page?
   - Allow as much time as the participant wants to read/process the landing page 
   - *(ask some questions TBD, including what they would do next)*
 
+- What would you do here? *(link TBD to reporting form)*
 
-### Task 1: [Explore landing page] - 5 minutes
-
-What are your impressions of this page?
-
-- *RECORD if read "What harassment is and when to report it" section, any feedback, getting lost in it?*
-
-What would you do here? *(link TBD to reporting form)*
-
-- *(If go to "What if I'm not comfortable giving my name" link, note any feedback on phrasing)*
-
+### *[MORE TASKS TBD...]*
 
 
 ## Post-Task Interview - 10 minutes
@@ -174,17 +166,16 @@ What would you do here? *(link TBD to reporting form)*
 
 - What would you like to *change* about what you've seen today?
 
-- We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask...
-  - Have you been harassed at the VA before--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, and you can stop at any time.
-  - If you were harassed, did you report it?
+- We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. What you share will be treated confidentially.
+  - Have you ever been made to feel uncomfortable by someone else at the VA while applying for, using, or communicating about your VA benefits--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, and you can stop at any time. *(yes / no / decline to answer)* 
+  - If you share anything about your experiences with me, what you say will remain confidential. If you were harassed, did you report it?
   - If so, *how* did you report it? 
   - If you didn't report it, what were the barriers to you reporting it?
   - How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
-*(If they share details of a harassment experience, say:)"*
-- I am sorry you had this experience with harassment. It is helpful for me to hear that so I can understand how we can provide resources to help.
+*(If they share anything about a harassment experience, say:)"*
+- I am sorry you had this experience. It is helpful for me to hear that so I can understand how we can provide resources to help.
 - If you want to report your experience with harassment, you can do that in person at the VA site or call XXX-XXX-XXXX.
-
 
 Is there anything else that we haven't talked about that you think I should know? 
 
