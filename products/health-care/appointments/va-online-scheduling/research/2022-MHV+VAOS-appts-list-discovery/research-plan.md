@@ -38,19 +38,21 @@ Retiring
 
 ## Research Goals	
 During this study we hope to learn: 
-* What works, and what's confusing in the current iteration of the appointments list in both MHV and VAOS.
-* What Veterans find confusing when transitioning from MHV to VAOS.
+* What Veterans find helpful and/or what's confusing in the current iteration of the appointments list in both MHV and VAOS.
+* What Veterans who are familiar with MHV find confusing when viewing their appointments in VAOS.
+
+We also hope to validate a design path for the VAOS appointments list.
 
 ### Outcome
-The VAOS team will use this research to provide a better experience for Veterans who are transitioning from viewing their appointments in MHV to VAOS. This may include:
-* Adding as-needed help content
-* Improving appointments list features 
-* Improving the path/workflow from MHV to VAOS.
+The VAOS team will use this research to identify anything lacking in the VAOS appointment list. Based on this we will develop designs to improve the content and interactions of the appointment list.
+
+We will also validate a concept for a more condensed desktop view of the VAOS appointment list. This early feedback will help us decide how to rework these designs.
 
 ### Research questions
 
-What information do Veterans need in an appointments list to make it useful?
-What might be confusing when transitioning from the MHV appointments list to VAOS.
+* What information do Veterans need in an appointments list to make it useful?
+* What will be confusing when transitioning from the MHV appointments list to VAOS?
+* 
 
 ### Hypothesis
 
@@ -60,7 +62,7 @@ Veterans largely use the MyHealtheVet appointments list to understand and manage
 
 First, we'll run a **contextual inquiry** by asking participants to access the MHV appointments list and VAOS appointments list, and observe how they use those features.
 
-Then we'll run a **concept test** by showing participants an updated version of the VAOS home page on desktop and asking them questions about how this might change their experience.
+Then we'll run a **concept test** by showing participants a concept of the VAOS home page on desktop and asking them questions about how this might change their experience.
 
 ### Location
 
@@ -69,7 +71,7 @@ This will be a moderated remote study, over Zoom.
 ### Research materials
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/conversation-guide.md)
-- [Link to prototype](https://www.figma.com/proto/MNanAQBGzQbRJeb89d1OVz/VAOS-IN-Reschedule-and-home?node-id=102%3A17230&scaling=min-zoom&page-id=0%3A5282&starting-point-node-id=109%3A18580)
+- [Link to home page concept](https://www.figma.com/proto/MNanAQBGzQbRJeb89d1OVz/VAOS-IN-Reschedule-and-home?node-id=102%3A17230&scaling=min-zoom&page-id=0%3A5282&starting-point-node-id=109%3A18580)
 	
 ## Recruitment	
 
