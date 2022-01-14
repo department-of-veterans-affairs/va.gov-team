@@ -19,7 +19,7 @@ These are pulled from the top tasks section of the VA.gov homepage.
 |Apply now for VA health care| Yes |
 |Check your claim or appeal status| Yes |
 |View your payment history| In development (early 2022) |
-|Upload evidence to support your claim| No (We do link to claims) |
+|Upload evidence to support your claim| Yes (We link to claims) |
 |File for a VA disability increase| Yes (Same form as filing for compensation) |
 |File a claim for compensation| Yes |
 |Change your current education benefits| No|
