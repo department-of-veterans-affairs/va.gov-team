@@ -28,7 +28,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **Hypothesis**: If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
 
-**KPI**: We see a 25% increase for clicks into the following links: Claims, payments, health care links, etc.
+**KPI**: We see a 25% increase for clicks into the following links:
 
 |Link name | # of clicks 1 month pre-launch | # of clicks 1 month post-launch to 25% |  # of clicks 1 month post-launch to 50%|  # of clicks 1 month post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
