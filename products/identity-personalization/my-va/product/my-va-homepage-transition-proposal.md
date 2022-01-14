@@ -16,38 +16,42 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 ### Next clicks
 
-#### Hypotheses
+**Hypothesis**: Clicks from My VA to the homepage will increase if people can not find a link on My VA that they can find on the homepage.
 
-1. Clicks from My VA to the homepage will increase if people can not find a link on My VA that they can find on the homepage.
-
-#### KPIs
+**KPI**: We see less than a 10% increase or no increase in clicks back to the homepage from My VA.
 
 [Next clicks from My VA](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fmy-va~2Findex.html&navigationsummary-keySelector.searchTerm=~2Fmy-va~2F/)
 
-- Success: We see less than a X% increase or no increase in clicks back to the homepage from My VA.
-- Failure: We see greater than X% increase in clicks back to the homepage from My VA. 
+**Clicks to the homepage from My VA**
 
-### Increased clicks
+|1 month pre-launch | 1 month post-launch to 25% | 1 month post-launch to 50%| 1 month post-launch to 100%|
+|-----------|-----------|-----------|-----------|
+|TBD|TBD|TBD|TBD|
 
-### Hypotheses
+### Page interactions
 
-1. If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
-2. If a link lives on the homepage and does *not* live on My VA (eg. link to get your DD214), clicks into those pages will decrease.
+**Hypothesis**: If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
 
-#### KPIs
+**KPI**: We see a 25% increase for clicks into the following links: Claims, payments, health care links, etc.
 
 [Top interactions from My VA](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
 
-If a link lives on the homepage and My VA, clicks into those links from My VA will increase.
-- Success: We see a 25% increase for clicks into the following links: Claims, payments, health care links, etc.
-- Failure: We see very little increase, no increase, or a decrease for clicks into the following links: ...
+|Link name | # of clicks 1 month pre-launch | # of clicks 1 month post-launch to 25% |  # of clicks 1 month post-launch to 50%|  # of clicks 1 month post-launch to 100%|
+|----|-----------|-----------|-----------|-----------|
+|View claim|TBD|TBD|TBD|TBD|
+|Manage all your claims and appeals|TBD|TBD|TBD|TBD|
+|View all appointments|TBD|TBD|TBD|TBD|
+|View all messages|TBD|TBD|TBD|TBD|
+|View all prescriptions|TBD|TBD|TBD|TBD|
+|View all prescriptions|TBD|TBD|TBD|TBD|
+
+**Hypothesis**: If a link lives on the homepage and does *not* live on My VA (eg. link to get your DD214), clicks into those pages will decrease.
 
 Pageviews for links that don't live on the homepage
 
 If a link lives on the homepage and does *not* live on My VA (eg. link to get your DD214), clicks into those pages will decrease.
 - Success: No decrease into links that do not live on My VA.
 - Failure: A decrease of X% or more into links that do not live on My VA.
-
 
 ### Increased searches
 
