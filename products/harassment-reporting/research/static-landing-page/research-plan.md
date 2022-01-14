@@ -10,10 +10,10 @@ If a Veteran experiences harassment or other inappropriate behavior while at a V
 1. How do Veterans today report harassment at the VA? *(e.g., talk with someone/police at the VA, call 911, google)*
 2. How would Veterans find out how to report harassment at the VA? *(e.g., ask someone, google it, VA.gov)* 
 4. What are users' reactions to the poster?
-    1. What sentiments/feelings do they express? *(quotes about safety, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
+    1. What sentiments/feelings do they express? *(quotes about safety, comfort, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
     2. How would they report harassment? *(e.g., 911, other phone #, in person)*
 4. What are users' reactions to the static landing page? 
-    1. What sentiments/feelings do they express? *(quotes about safety, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
+    1. What sentiments/feelings do they express? *(quotes about safety, comfort, being heard, treated with compassion, trust that they will be believed, confidentiality?)*
     2. Feedback on content, organization, and/or length of page?  
     1. How would they report harassment? *(e.g., 911 or phone # in top alert box, phone # farther down, in person)*
     6. What do they expect will happen after they report?
@@ -32,35 +32,20 @@ We will conduct remote moderated research sessions via Zoom with both sighted an
 1. *ONLY participants on desktop and NOT using a screen reader:* **Show the poster** on the moderator's computer with mouse control given to the participant. Participants will be able to view the poster and scroll it.
 2. *ALL participants:* **Show the static landing page** on Staging by giving participants a URL to open in their browser. Participants will be able to view the page and interact with the content, opening and closing accordions.
 
-*[ACTION ITEM: Get the static landing page onto Staging with interactive accordions and phone numbers. DANIELLE: Could you please confirm what should be interactive? All of the accordions and links, or a subset?]*
+*[ACTION ITEM: Get the static landing page onto Staging with all accordions/links interactive and real-looking phone numbers]*
 
-*[ACTION ITEM: Get the most recent version of the poster from MARTHA, after removing the QR code and adding a phone number]*
-
-
-### Ideas for conversation guide *(will move to separate doc)*
-- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What would you do? *(report it? don't report it?)* Why? What would you do next?
-- *(for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
-  - *(if on desktop)* Show poster
-    - What are your impressions?
-    - Allow as much time as the participant wants to read/process the poster 
-    - *(ask some questions TBD, including what they would do next)*
-- *(for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*  
-
-- *(for everyone)* Let's say that you found this page on VA.gov *(give URL of landing page for participant to open on their device)*
-  - What are your impressions?
-  - Allow as much time as the participant wants to read/process the landing page 
-  - *(ask some questions TBD, including what they would do next)*
+*[ACTION ITEM: Get the most recent version of the poster from MARTHA, after she removes the QR code and adds a phone number--same as on landing page]*
 
 ## Participants and Recruitment	
 Because harassment is a potentially triggering subject, we want to be careful about recruiting people to participate in this research. We would prefer to get Veterans who have experienced harassment at the VA and are able to participate in research sessions without re-triggering the trauma that have experienced. Our plans include the following:
 - Provide an overview of the session for Perigean personnel to read to potential participants and then ask if they are comfortable participating.
 - Work with VA contacts to find social workers or clinicians to observe the sessions with the Veterans and provide support if trauma-triggering occurs. 
 - Limit the number of observers in the session to **one** team member (plus the moderator, a social worker, and a Perigean notetaker for a total of 4 people in the Zoom room with the participant). 
-  - For each session with a participant using a screen reader, also invite an accessibility specialist as an observer to help with any technical problems that arise with the screen reader.
+  - For each session with a participant using a screen reader, also invite an accessibility specialist as an observer to help with any technical issues.
 
 ### Participants to recruit
 
-Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions using the following criteria:
+Ask Perigean to recruit **15** Veterans in order to get **8-10** completed sessions using the following criteria:
 
 ### Must have for participants
 - ALL are Veterans
@@ -69,11 +54,12 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
   - During the session, be willing to share a web browser window on their device
   - Have a working microphone on their device
   - Have Zoom downloaded to their device prior to the session and know how to share their screen
+- At least 1 person who uses a screen reader
+- At least 2 people who plan to use their desktop or laptop computer for the session
+- At least 2 people who plan to use their smartphone for the session
 
 ### Good to have for participants
-- At least 4 people have experienced harassment while applying for, using, or communicating about VA benefits
-- At least 3 people who use a screen reader
-- At least 3 people who plan to use their smartphone for the session
+- 2 or 3 people who use a screen reader
 - At least 4 women
 - At least 2 men
 - At least 3 people who identify as gay, lesbian, bisexual, or transgender
@@ -87,14 +73,16 @@ Ask Perigean to recruit **10** Veterans in order to get **5** completed sessions
 - At least 1 person who lives in a major metropolitan area
 - At least 1 non-native English speaker
 
-
 ### Additional questions to ask in the screener
-- VA is working to stop harassment and make our locations and services safer for all. As part of these efforts, we are exploring online resources to make it easier for Veterans to report harassment at VA. Feedback from Veterans like you will help us make sure that these resources meet your needs and are easy to use. Are you interested in trying out harassment resources and sharing your opinions about them? *(If they answer "no", don't recruit them. If "yes", ask the next question...)*
-  - We’re contacting you because you’re a Veteran, not because we believe that you have been harassed. Have you ever experienced any kind of harassment while applying for, using, or communicating about your VA benefits? This can include harassment that happens at a VA location, during a phone or video call, or in written communications. Harassment might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. *(If they answer "no", OK to recruit them. If "yes", ask the next question...)*
-  - If you participate in this feedback session, you might get reminded of your own experiences with harassment. Would you feel comfortable participating? *(If they answer "no", don't recruit them. If "yes", OK to recruit them and record "harassed at VA" in Participant Roster and Schedule)*
-- What device will you use to join the research session? *(Please record in Participant Roster and Schedule)*
-- What is the first language that you learned to speak as a child? *(If not English, record as "non-native English speaker")*
-- It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as gay, lesbian, bisexual, or transgender? Yes, No, or Decline to Answer? *(Please record  response in Participant Roster and Schedule)*
+1. VA is working to stop harassment and to help make our locations and services safer for all. As part of these efforts, we are exploring online resources to make it easier for Veterans to report harassment at VA. Feedback from Veterans like you will help us make sure that these resources meet your needs and are easy to use. Are you interested in trying out harassment resources and sharing your opinions about them? 
+    1. *If "no", don't recruit them*
+    2. *If "yes", ask the next question*
+3. We’re contacting you because you’re a Veteran, not because we believe that you have been harassed. If you participate in this feedback session, you might get reminded of your own harassment experiences, which we may ask you about at a high level, but you don't have to answer if you don't want to. Would you feel comfortable participating in this research session? 
+    1. *If "no", don't recruit them*
+    2. *If "yes", ask the next question*
+5. What device will you use to join the research session? *(record in Participant Roster and Schedule)*
+6. What is the first language that you learned to speak as a child? *(If not English, record as "non-native English speaker")*
+7. It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as gay, lesbian, bisexual, or transgender? Yes, No, or Decline to Answer? *(record in Participant Roster and Schedule)*
 
 
 ## Timeline
