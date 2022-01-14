@@ -18,7 +18,7 @@ These are pulled from the top tasks section of the VA.gov homepage.
 |View your lab and test results | Yes |
 |Apply now for VA health care| Yes |
 |Check your claim or appeal status| Yes |
-|View your payment history| No |
+|View your payment history| In development (early 2022) |
 |Upload evidence to support your claim| No (We do link to claims) |
 |File for a VA disability increase| Yes (Same form as filing for compensation) |
 |File a claim for compensation| Yes |
