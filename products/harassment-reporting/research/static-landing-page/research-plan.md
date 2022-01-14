@@ -75,10 +75,10 @@ Ask Perigean to recruit **15** Veterans in order to get **8-10** completed sessi
 
 ### Additional questions to ask in the screener
 1. VA is working to stop harassment and to help make our locations and services safer for all. As part of these efforts, we are exploring online resources to make it easier for Veterans to report harassment at VA. Feedback from Veterans like you will help us make sure that these resources meet your needs and are easy to use. Are you interested in trying out resources for reporting harassment and sharing your opinions about them? 
-    1. *If "no", don't recruit them*
+    1. *If "no", don't recruit*
     2. *If "yes", ask the next question*
 1. First, we want to stress that we’re contacting you because you’re a Veteran, not because we believe that you have been harassed. We also want to make sure everyone who participates in a feedback session knows exactly what to expect so you can decide if you’re comfortable participating. If you’ve experienced any type of harassment in the past, conversations in the feedback session might remind you of these past experiences. Our researcher may also ask you a few questions about whether you’ve experienced harassment at VA and how you reported it. She won’t ask you to share any details about the experience. And you can choose to answer only questions you’re comfortable answering or end the session at any time. We won’t share what you tell us in a feedback session with anyone, and we won’t link your name or other personal details with your answers in any of our records. Would you feel comfortable participating in this feedback session? 
-    1. *If "no", don't recruit them*
+    1. *If "no", don't recruit*
     2. *If "yes", ask the next question*
 1. What device will you use to join the feedback session? *(record in Participant Roster and Schedule)*
 1. What is the first language that you learned to speak as a child? *(If not English, record as "non-native English speaker")*
