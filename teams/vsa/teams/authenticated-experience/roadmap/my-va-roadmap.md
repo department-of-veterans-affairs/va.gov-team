@@ -1,12 +1,12 @@
 # My VA roadmap
 
-**Updated November 23, 2021**
+**Updated January 14, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|Add payments & financials section to My VA | Initial discussions & planning |
+|Add payments & financials section to My VA | User research |
 
 ### Projected timelines for current projects
 
@@ -38,4 +38,5 @@
 
 |Project|Initiating team|Date of request| Status/Notes|
 |----|----|----|----|
+|Add medical co-pays|Auth exp.|N/A| Medical co-pays just launched on VA.gov (Jan 2022). We should add this info to the Benefit payments and debts section after it launches|
 |Should we communicate health care application updates?| Auth exp | N/A | This would be an extension of the [duplicate health care application status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/181023hcachanges.md) work. On the old My VA, we showed people's health care application status. For reasons, we removed this from My VA 2.0, though the most important part of the project/info still lives in the health care application itself. However, this would be GREAT information to email to people and might be something the HCA team could work on with VANotify. Idk that auth experience would do this work, but tracking it here so I don't forget.|
