@@ -1,13 +1,12 @@
-This template is a WIP. Please do not use. *Delete this when the template is ready for use.
-
 ---
-name: Platform Orientation Template
+name: New VFS Team
 about: For orienting new VFS teams/members to Platform policies/practices
 title: Platform Orientation Template [Your name here]
 labels: 'governance-team'
 assignees: ''
 
 ---
+This template is a WIP. Please do not use. Delete this when the template is ready for use.
 
 ## Welcome and Introduction
 Welcome to the Veteran's Administration (VA) Veteran Facing Services (VFS) team! 
