@@ -28,8 +28,10 @@
 ### VAMC
 VAMC Health service design - Nick 
 Cerner toggle for Medical Records pages - Tugboat won't work for user testing because its web views require VA network access
+Taxonomy - requesting revision control/require revision log
 
-
+Vet Center
+Deep links to specific location on Locations page (use case - connect directly to location from Facility Locator search results)
 ## January 12
 
 ### This meeting
