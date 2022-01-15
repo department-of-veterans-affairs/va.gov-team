@@ -76,11 +76,11 @@ Now that I understand a little bit more about your background.
 
 **For Veterans:**
 
-Let's say you heard about a way you and your caregiver could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at **insert link**. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
+Let's say you heard about a way you and your caregiver could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at **[link](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/no-panels?mode=i)**. Now let's imagine you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply. 
 
 **For Caregivers:**
 
-Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at **insert link**. Now let's imagine you've decided you'd like to apply for these benefits. 
+Let's say you heard about a way you could receive benefits from the VA, and that you could apply online at VA.gov. You have navigated to the screen we are looking at **[link](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/no-panels?mode=i)**. Now let's imagine you've decided you'd like to apply for these benefits. 
 
 - In your circumstance who do you think would fill out this application? (you or the Veteran)
 - Go ahead and show us what you would do to apply. 
