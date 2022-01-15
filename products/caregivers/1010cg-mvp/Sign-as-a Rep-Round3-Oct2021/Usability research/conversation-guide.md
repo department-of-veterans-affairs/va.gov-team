@@ -107,18 +107,25 @@ If they need a SSN, use 548-79-5555
 - What do you think will happen next?
 
 
-**On document upload page**
+**On document upload page (if selects representative)**
   _- Does the participant have fear that the documentation is a requirement for the program?_
   - What documents do they upload here?
-    - _What is the participant's mental models of the document needed? Pay special attention to if they specify that the document should have a medical stipulation_
-    - What documents do they think won't be accepted?/ Do they notice the "note"?
-  - What would you do if you felt like you arrived on this page by accident?/ _Do participants notice the yellow box alert?_
+    - _What is the participant's mental models of the document needed?_ 
+    - _Pay special attention to if they specify that the document should have a medical stipulation_
+    - What documents do they think won't be accepted?
+  - What would you do if you felt like you arrived on this page by accident?
 
-**_After participant completes document upload page_**
+**On review page**
+- Pay special attention to what name they enter in signature box
+
+
+
+**_Ask participant do go back to document upload page_**
 - In your own words can you tell me what this page is asking you to do?
 - On a scale of 1-10 with 1 being not confident at all and 10 being completely confident, how confident or not were you that you were uploading the correct document?
     - Can you tell me why you felt this level of confidence?
-    - _If applicable:_ What information would you need to feel fully confident? What would you do if you were uncertain?
+    - _If applicable:_ What information would you need to feel fully confident? 
+     - What would you do if you were uncertain?
 
 - What do you think would happen if your document was not accepted? _Pay special attention to their reaction to the "warning" message_
 
@@ -128,7 +135,7 @@ If they need a SSN, use 548-79-5555
 
 Wonderful! I have a few questions about what you just saw in the prototype.
 
-**Overall 
+**Overall** 
 
 - What did you think of the overall experience in completing this form?
 - What was the hardest part of completing the form? Were there any areas you felt were unclear? 
