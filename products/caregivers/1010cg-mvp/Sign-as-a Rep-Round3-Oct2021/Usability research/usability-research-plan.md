@@ -123,7 +123,8 @@ January 19, 2022 | 2:00pm - 7:00pm EST
 
 ## Resources
 - Design iteration [Sketch mockup](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8/p/6F53EA53-0D5E-46F7-B420-CF62EA0167CE)
-- Prototype UX pin (TBD)
+- [Prototype UX Pin link]([Prototype link](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/no-panels?mode=i)
+)
 - Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
 - Sign as a rep [usability test 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021)
 - Content specific research [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research)
