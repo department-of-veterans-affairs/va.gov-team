@@ -110,7 +110,7 @@ If they need a SSN, use 548-79-5555
 **On document upload page**
   _- Does the participant have fear that the documentation is a requirement for the program?_
   - What documents do they upload here?
-    - _What are the participants' mental models of the document needed? Pay special attention to if they specify that the document should have a medical stipulation _
+    - _What is the participant's mental models of the document needed? Pay special attention to if they specify that the document should have a medical stipulation_
     - What documents do they think won't be accepted?/ Do they notice the "note"?
   - What would you do if you felt like you arrived on this page by accident?/ _Do participants notice the yellow box alert?_
 
