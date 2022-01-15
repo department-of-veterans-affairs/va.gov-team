@@ -26,7 +26,7 @@ Thanks for joining us today! My name is Dené and I also have some colleagues on
 **I'm going to send you a link in the chat.**
 _ I actually do this as I’m explaining to them where to find “Chat” and “Share,” so by the end I’m looking at their screen, then I move onto recording._
 
-PROTOTYPE LINK TBD
+[Prototype link](https://preview.uxpin.com/3bf6496017f55041a94c2cfc8009c35dad5a79f2#/pages/137666459/simulate/no-panels?mode=i)
 
 
 **Backup plan if they cannot figure out how to share screen:**
