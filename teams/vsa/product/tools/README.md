@@ -1,6 +1,6 @@
 # Product Team tools
 
-## Sprint Report tool
+## [Sprint Report tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/tools/sprint-report.rb)
 
   
 ### Common commands
