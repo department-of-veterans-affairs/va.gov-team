@@ -120,17 +120,18 @@ Let’s start with a question...
 
     - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
-- *(only for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(only for sighted participants:)* Say that while you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
 
 - *(only for sighted participants on desktop)* Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
     - What are your initial impressions?
     - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
-    - *(Allow as much time as the participant wants to read/process the poster)*
-    - What do you think you'd do next?
-      - *(call 911 / call other phone # / in person to whom? ____________ / ____________)
+    - *(Pause to allow as much time as the participant wants to read/process the poster)*
+    - What do you think you'd do next if you wanted to report the harassment I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
+      - *(call 911 / call other phone # / talk to patient advocate / police / building security / ____________)*
+    - What other thoughts do you have about this poster?
    
-- *(only for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(only for participants using screen readers:)* Say that while you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
 
 
@@ -152,14 +153,18 @@ Do you see the link?
 
 ## Veteran Tasks
 
-### Task X: [Explore landing page] - 5 minutes
+### Task 1: [Explore landing page] - 5 minutes
 
-- *(for everyone)* Let's say that you found this page on VA.gov *(give URL of landing page for participant to open on their device)*
+- *(for everyone)* Let's say that you found this page on VA.gov.
   - What are your initial impressions of this page?
-  - Allow as much time as the participant wants to read/process the landing page 
-  - *(ask some questions TBD, including what they would do next)*
+  - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
+  - *(Pause to allow as much time as the participant wants to read/process the page)*
+  - What do you think you'd do next if you wanted to report the harassment I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
+    - *(call 911 / call VA police / call phone # below blue box / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
 
-- What would you do here? *(link TBD to reporting form)*
+  - What would you think will happen next?
+  - What other thoughts do you have about this poster?
+  - Feedback on the information or how it's organized?
 
 ### *[MORE TASKS TBD...]*
 
