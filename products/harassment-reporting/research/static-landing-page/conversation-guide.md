@@ -120,7 +120,7 @@ Let’s start with a question...
 
     - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
-- *(only for sighted participants:)* Say that while you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(only for sighted participants)* Say that while you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
 
 - *(only for sighted participants on desktop)* Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
@@ -131,7 +131,7 @@ Let’s start with a question...
       - *(call 911 / call other phone # / talk to patient advocate / police / building security / ____________)*
     - What other thoughts do you have about this poster?
    
-- *(only for participants using screen readers:)* Say that while you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+- *(only for participants using screen readers)* Say that while you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
   - *(ask someone / google it? / VA.gov? / ____________________)*
 
 
