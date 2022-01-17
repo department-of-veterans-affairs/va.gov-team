@@ -15,28 +15,22 @@ As a new VFS team member, you will be working in the web ecosystem we call the V
 Because the VA is a huge organization that serves millions, the Platform it runs on is equally big, complex and multilayered. Most people find that even learning the basics for their own practice area entails a significant learning curve.  The tasks on this checklist will help you acquire those basics as quickly and efficiently as possible. 
 
 ## User Story
-As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
+As the leader of a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
 
 ## How to fill out this ticket
-- [ ] Team Name
-- [ ] OCTO-DE Product Owner
-- [ ] VA Business Owner
-- [ ] Crew
-- [ ] Github team label
-- [ ] Team launch date
-- [ ] Public slack channel
-- [ ] Other team names
 
-## Onboarding Checklist
+## New Team Info
 ### Share your info with Platform
 - [ ] Complete the fields below:
- - Name:
- - Preferred pronouns (e.g. she/her):
- - Role:
- - Email:
- - Github handle:
- - Start date:
- - VFS Team:
+- Team Name
+- OCTO-DE Product Owner
+- VA Business Owner
+- Crew
+- Github team label
+- Team launch date
+- Public slack channel
+- Other team names
+
 
 ### General
 
