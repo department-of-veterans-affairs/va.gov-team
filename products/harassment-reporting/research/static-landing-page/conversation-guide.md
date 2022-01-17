@@ -106,7 +106,7 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - You can reach out to the Veterans Crisis line via phone call, text, or chat anytime day or night. You can call 800-273-8255 or text 838255.
   - Would you like to stop this session now?
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 5-10 minutes (depending on whether show poster)
 
 *NOTE how to share URL: dictate / Zoom chat / email / text* 
 
@@ -153,7 +153,7 @@ Do you see the link?
 
 ## Veteran Tasks
 
-### Task 1: [Explore landing page] - 5 minutes
+### Task 1: [Explore landing page] - 15 minutes
 
 - *(for everyone)* Let's say that you found this page on VA.gov.
   - What are your initial impressions of this page?
@@ -167,10 +167,10 @@ Do you see the link?
   - Feedback on the information in it?
   - Feedback on how the information is organized?
 
-### *[MORE TASKS??]*
+### *[Any other ideas for tasks??]*
 
 
-## Post-Task Interview - 10 minutes
+## Post-Task Interview - 15 minutes
 - What thoughts do you have about what you've seen today?
 
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
@@ -195,7 +195,7 @@ Do you see the link?
 Is there anything else that we haven't talked about that you think I should know? 
 
 
-## Thank You and Closing - 2 minutes
+## Thank You and Closing - 5 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing resources for reporting harassment, we can make the VA safer for everyone.
 
