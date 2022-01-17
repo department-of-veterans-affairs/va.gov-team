@@ -163,10 +163,11 @@ Do you see the link?
     - *(call 911 / call VA police / call phone # below blue box / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
 
   - What would you think will happen next?
-  - What other thoughts do you have about this poster?
-  - Feedback on the information or how it's organized?
+  - What other thoughts do you have about this page?
+  - Feedback on the information in it?
+  - Feedback on how the information is organized?
 
-### *[MORE TASKS TBD...]*
+### *[MORE TASKS??]*
 
 
 ## Post-Task Interview - 10 minutes
@@ -181,7 +182,7 @@ Do you see the link?
 - What would you like to *change* about what you've seen today?
 
 - We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. What you share will be treated confidentially.
-  - Have you ever been made to feel uncomfortable by someone else at the VA while applying for, using, or communicating about your VA benefits--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, and you can stop at any time. *(yes / no / decline to answer)* 
+  - Have you ever been made to feel uncomfortable by someone else at the VA while applying for, using, or communicating about your VA benefits--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, you can stop at any time, or could skip this question. *(yes / no / decline to answer)* 
   - If you share anything about your experiences with me, what you say will remain confidential. If you were harassed, did you report it?
   - If so, *how* did you report it? 
   - If you didn't report it, what were the barriers to you reporting it?
@@ -189,7 +190,7 @@ Do you see the link?
   
 *(If they share anything about a harassment experience, say...)*
 - I am sorry you had this experience. It is helpful for me to hear that so I can understand how we can provide resources to help.
-- If you want to report your experience with harassment, you can do that in person at the VA site or call XXX-XXX-XXXX.
+- If you want to report your experience with harassment, you can do that in person at the VA site or call XXX-XXX-XXXX *(phone # TBD)*.
 
 Is there anything else that we haven't talked about that you think I should know? 
 
