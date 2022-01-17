@@ -112,17 +112,26 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 Let’s start with a question...
 
-- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What would you do? *(report it? don't report it?)* Why? What would you do next?
+- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What do you think you'd do? 
+  - *(don't / report it / talk with someone/police at the VA / call 911 / google)* 
+  
+  - Can you tell me more about why?
+  - What do you think you'd do next?
 
-  - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
+    - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
-- *(for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*
-  - *(if on desktop)* Show poster *(share my screen and give mouse control to participant so they can move around)*
-    - What are your impressions?
-    - Allow as much time as the participant wants to read/process the poster 
-    - *(ask some questions TBD, including what they would do next)*
+- *(only for sighted participants:)* While you were at the VA, you saw a poster about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+  - *(ask someone / google it? / VA.gov? / ____________________)*
+
+- *(only for sighted participants on desktop)* Now I'd like to show you a poster and get your feedback on it. *(share my screen with poster and give mouse control to participant so they can move around)*
+    - What are your initial impressions?
+    - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
+    - *(Allow as much time as the participant wants to read/process the poster)*
+    - What do you think you'd do next?
+      - *(call 911 / call other phone # / in person to whom? ____________ / ____________)
    
-- *(for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? *(google it? VA.gov?)*  
+- *(only for participants using screen readers:)* While you were at the VA, you heard about reporting harassment, but you're no longer there. How would you find information about reporting harassment now? 
+  - *(ask someone / google it? / VA.gov? / ____________________)*
 
 
 ## Start screen sharing
@@ -137,7 +146,7 @@ I would like you to share your screen with me so I can watch you use the demo to
 
 What kind of device are you using today? *(Phone / Computer)*
 
-I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (URL TBD; interim link: https://preview.uxpin.com/2421e73be8eba75acea37ad3fbdd09bfc147940f#/pages/141512978/simulate/sitemap?mode=vhid). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
+I'll have you start from a website that I'm going to (spell/put into the Zoom chat/email/text) for you to click on (**URL TBD**). *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
 
@@ -146,7 +155,7 @@ Do you see the link?
 ### Task X: [Explore landing page] - 5 minutes
 
 - *(for everyone)* Let's say that you found this page on VA.gov *(give URL of landing page for participant to open on their device)*
-  - What are your impressions of this page?
+  - What are your initial impressions of this page?
   - Allow as much time as the participant wants to read/process the landing page 
   - *(ask some questions TBD, including what they would do next)*
 
