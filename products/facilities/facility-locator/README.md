@@ -6,7 +6,7 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 ## What to know about the product
 
-- It is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
+- It is VA's single source of truth for Veterans and beneficiaries to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 - It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
 - It is powered by the non-public-facing Vets API
 - It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/> (which was changed to an annual license version, effective Oct 1, 2019, facilitated by Nancy Smith of Oddball)
