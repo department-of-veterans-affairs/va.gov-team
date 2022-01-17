@@ -20,7 +20,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - Veteran and staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
 
 ### Methodology and Recruitment
-- During a one hour Zoom call with the pilot clinics(s), we will interview staff members that are utilizing the new VA.gov check-in solution. Product is setting up recurring office hour meeting with the site(s), so we can utilize one or more of these meetings for this research. Ideally, we would like to talk to MSAs and MSA Supervisors at each site/clinic once.
+- During one hour Zoom call(s) with the pilot clinics(s), we will interview staff members that are utilizing the new VA.gov check-in solution. Product is setting up a recurring office hour meeting with the site(s), so we can utilize one or more of these meetings for this research. Ideally, we would like to talk to MSAs and MSA Supervisors at each site/clinic once.
 
 ### When? What dates do you plan to do research?
 - To be determined. Coordination with St. Louis location(s) needed. Try to run this staff feedback session 1 - 2 weeks after launching the pilot.
