@@ -1,4 +1,4 @@
-# Conversation Guide for Mobile Check-in Pilot Feedback from St. Louis Sites
+# Conversation Guide for Mobile Check-in Pilot Feedback from St. Louis Staff
 
 ## Moderator logistics
 - Mute your Slack notifications
