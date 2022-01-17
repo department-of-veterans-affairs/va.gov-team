@@ -18,12 +18,14 @@ Because the VA is a huge organization that serves millions, the Platform it runs
 As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
 
 ## How to fill out this ticket
-- [ ] Add your github handle as the Assignee
-- [ ] Add your teams github label under Labels
-- [ ] Add your name to the ticket title
-- [ ] Complete the Onboarding Checklist below
-- [ ] Under **Get set up for your practice area,** you only need to complete the items for your role
-- [ ] You can close this ticket when all items are completed in the Onboarding Checklist and the Platform Checklist
+- [ ] Team Name
+- [ ] OCTO-DE Product Owner
+- [ ] VA Business Owner
+- [ ] Crew
+- [ ] Github team label
+- [ ] Team launch date
+- [ ] Public slack channel
+- [ ] Other team names
 
 ## Onboarding Checklist
 ### Share your info with Platform
