@@ -1,4 +1,4 @@
-# Research Plan for Mobile Check-in Pilot Feedback from MSAs
+# Research Plan for Mobile Check-in Pilot Feedback from St. Louis Staff
 February 2022
 
 ## Goals
@@ -6,7 +6,7 @@ February 2022
 VSA Healthcare Experience: Check-in
 
 ### Background:
-This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov.With this round of research, we are looking to get feedback on the initial limited release of our MVP with real users checking in and staff.  Lastly, we are interested in understanding pre-registration more as well as  check-in indicators needed by staff.
+This product is reimagining the ecosystem that allows a Veteran to check-in for a medical appointment. The healthcare experience team in particular will be creating the portion of the ecosystem that enables a Veteran to utilize their mobile device to check-in (letting the VA know that they have arrived for their appointment) via VA.gov. With this round of research, we are looking to get feedback on the pilot release from staff.
 
 ### Research questions:
 - After a Veteran utilizes the new mobile check-in solution, are they called back for their appointment without having to talk to a clerk/Medical Support Assistant (MSA)?
@@ -20,7 +20,7 @@ This product is reimagining the ecosystem that allows a Veteran to check-in for 
 - Veteran and staff responses will indicate that the mobile phone check-in solution is useful and does not negatively impact experience or clinical workflow.
 
 ### Methodology and Recruitment
-- During an office hour Zoom call with the site, interview staff members in the clinics that are utilizing the new VA.gov check-in solution. Product is setting up recurring office hour meeting with the site, so we can gather feedback. UX will run this structured feedback session at 1 or more office hours, depending upon the composition of the staff expected on the call. Ideally, we want to talk to each clinic once.
+- During a one hour Zoom call with the pilot clinics(s), we will interview staff members that are utilizing the new VA.gov check-in solution. Product is setting up recurring office hour meeting with the site(s), so we can utilize one or more of these meetings for this research. Ideally, we would like to talk to MSAs and MSA Supervisors at each site/clinic once.
 
 ### When? What dates do you plan to do research?
 - To be determined. Coordination with St. Louis location(s) needed. Try to run this staff feedback session 1 - 2 weeks after launching the pilot.
