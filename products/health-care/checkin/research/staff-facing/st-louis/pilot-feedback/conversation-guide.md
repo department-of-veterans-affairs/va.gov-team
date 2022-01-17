@@ -16,7 +16,7 @@ Before we start, a few things I want to mention:
 
 _Start recording._
 
-- **I have started recording.** I'd like to confirm, Are you confortable if I record my screen and audio as we talk today?
+- **I have started recording.** I'd like to confirm, Are you comfortable if I record my screen and audio as we talk today?
 
 ## Questions
 - How has mobile check-in impacted your work?
@@ -31,11 +31,11 @@ _Start recording._
 - How has mobile check-in impacted the Veteran experience? 
   - Has it affected complaints about long waits/Veterans in the waiting room who have not actually been checked in?
   - Have Veterans reported any specific mobile check-in feedback to you? If so, what was their feedback?
-    - How quicky have Veterans received the check-in link after texting "checkin?"
+    - How quickly have Veterans been receiving the check-in link after texting "checkin?"
 - Overall, what do you like about mobile check-in? 
 - What do you dislike about it?
 - On a scale from 0 to 10 (0 = Not at all likely AND 10 = Extremely likely), how likely is it that you would recommend this mobile phone check-in process be utilized at another VA clinic?
 - What would you change about the new mobile check-in?
 
-## Thank you ad Closing
+## Thank you and Closing
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us, so we can continue to improve Veteran and your experience. I hope you enjoy the rest of your day!
