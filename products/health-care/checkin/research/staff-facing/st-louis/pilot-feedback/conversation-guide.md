@@ -30,7 +30,7 @@ _Start recording._
   - _For MSA Supervisors:_ How has this mobile check-in process affected your supervisory duties and how you balance your team?
 - How has mobile check-in impacted the Veteran experience? 
   - Has it affected complaints about long waits/Veterans in the waiting room who have not actually been checked in?
-  - Have Veterans reported any specific feedback on the system to you? If so, what was their feedback?
+  - Have Veterans reported any specific mobile check-in feedback to you? If so, what was their feedback?
     - How quicky have Veterans received the check-in link after texting "checkin?"
 - Overall, what do you like about mobile check-in? 
 - What do you dislike about it?
