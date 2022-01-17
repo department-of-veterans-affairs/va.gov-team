@@ -21,7 +21,7 @@ _Start recording._
 ## Questions
 - How has mobile check-in impacted your work?
   - Have you had to engage with or talk to Veterans who utilized mobile check-in before their appointment? If so, why?
-  - How would you describe the impact of the changes to VSE-GUI due to mobile check-in on your work?
+  - How would you describe the impact of the changes to VSE-GUI (due to mobile check-in) on your work?
     - How often do you review the different check-in statuses within VSE-GUI? 
       - Are there any check-in statuses that you find more valuable to review than others?
   - Did you have to change anything else about your workflow to accommodate this new process?
