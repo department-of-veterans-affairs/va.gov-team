@@ -6,7 +6,7 @@ labels: 'governance-team'
 assignees: ''
 
 ---
-This template is a WIP. Please do not use. Delete this when the template is ready for use.
+
 
 ## Welcome and Introduction
 We are excited to welcome your team to VFS (Veteran-Facing Services) platform. 
