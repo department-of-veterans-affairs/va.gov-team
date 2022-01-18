@@ -11,7 +11,7 @@
 <details>
  <Summary>Examples:</Summary>
  
- - *Product: On-site Search https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
+ - *Product: On-site Search Example https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
    - *Initiatives: Related information, VA Benefits, Need more help)*
  - *Product: VA.gov *
    - *Initiatives: *
