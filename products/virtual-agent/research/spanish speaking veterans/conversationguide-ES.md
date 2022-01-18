@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research
+# CONVERSATION GUIDE - SPANISH
 
 ## Moderator logistics
 
