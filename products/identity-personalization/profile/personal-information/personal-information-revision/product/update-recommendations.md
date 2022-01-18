@@ -26,3 +26,8 @@ TL;DR -- We should consider taking this out altogether unless it's absolutely ne
 
 - What is this used for? How is it helping?
 - If there is a valid reason, keep it. But if we do, there needs to be a super clear disclaimer to how this will be used and stored. Effectively, informed consent.
+
+### My thoughts
+
+- The VA.gov profile is not a 1:1 with health records, so what information is collected/presented on the health side of things is not necessarily what needs to be reflected in the VA.gov profile. We should not show any information here that is only necessary from a medical perspective.
+- We should know how and why all of this information is being collected, and be responsible in explaining why we are asking for this.
