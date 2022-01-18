@@ -38,6 +38,13 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 ### General
 
 - [ ] Attend General Orientation meeting ([schedule via Calendly](https://calendly.com/collaboration-cycle/general-orientation-for-va-gov-platform?month=2021-11))
+- [ ] Schedule Role-based Orientation meeting (schedule via Calendly)
+ - [Accessibility Orientation](https://calendly.com/collaboration-cycle/accessibility-orientation-for-va-gov-platform)
+ - [Design Orientation](https://calendly.com/collaboration-cycle/design-orientation-for-va-gov-platform)
+ - [Front-end Orientation](https://calendly.com/collaboration-cycle/front-end-orientation-for-va-gov-platform)
+ - [Back-end Orientation](https://calendly.com/collaboration-cycle/back-end-orientation-for-va-gov-platform)
+ - [Analytics Orientation](https://calendly.com/collaboration-cycle/analytics-orientation-for-va-gov-platform)
+ - [QA Orientation](https://calendly.com/collaboration-cycle/qa-orientation-for-va-gov-platform)
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Gettingstarted)
 - [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack) with Program, Team, Role and Company
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
