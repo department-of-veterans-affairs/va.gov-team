@@ -11,10 +11,9 @@
 <details>
  <Summary>Examples:</Summary>
  
- - *Product: R&S Atricle Page: https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
+ - *Product: VA.gov- R&S Atricle Page: https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
    - *Initiatives: Related information, VA Benefits, Need more help)*
- - *Product: VA.gov *
-   - *Initiatives: *
+
 
  
  </details>
@@ -31,10 +30,10 @@
 - Product | Link to product outline- N/A
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
+> *R&S Article page do not match the design system for va.gov.:* 
+* The problem is the discrepancies in the style and visuals for the pages. We have gone through and determined every R&S article page needs updated. 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Correcting these pages creates a more seamless experience for the Veterans. When any individual sees a visual appearence change on a site they may think they have been taken to a different site which can be frustrating and confusing.
 
 <!--
 ## Desired User Outcomes
@@ -82,7 +81,7 @@
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Summary
-> *Within this intiative the goal is to correct formatting, font, colorization, and links including regular and major links on all R&S atricle pages. Below I have attached two examples. The first example is the basic template and the second example is includes information from and existing R&S article in the basic template. 
+> *Within this intiative the goal is to correct formatting, font, style , and links including regular and major links on all R&S atricle pages. Below I have attached two examples. The first example is the basic template and the second example is includes information from and existing R&S article in the basic template. 
 > 
 > Example https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775
 > Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775*
