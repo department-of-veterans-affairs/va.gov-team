@@ -2,12 +2,12 @@
 
 ## Posters to be hung in clinic waiting rooms
 
-Low-vision poster
+Low-vision poster (PDF)
 - 8.5" X 11"
 - 11" X 17" 
 - [24" x 36"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7714194/24x36-lowvision-v1.2b.pdf)
 
-Poster
+Poster (PDF)
 - 8.5" X 11"
 - [11" X 17"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/11x17-checkin-poster.pdf)
 - [24" X 36"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/visual-collateral/24x36-checkin-poster.pdf)
@@ -19,7 +19,7 @@ Graphic designers: Here is the original Sketch files to make changes, if you don
 
 ## One-pager for clinic staff  
 
-One-pager
+One-pager (PDF)
 - [8.5" x 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7891007/Mobile.Checkin.Flyer.v1.2c.pdf)
 
 ### Sketch file
