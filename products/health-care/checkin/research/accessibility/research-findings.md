@@ -10,6 +10,7 @@ Ensure the same when a user submits information too.
 On specific pages where relevant, edit the line on the appointments and intro page so that “Your appointment is on” is one line, and then “date” is the second line. This helps reduce swiping. 
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/35472
 
+
 **Day of check-in**
 
 Multiple appointment use case: when a user is late for their appointment:
