@@ -82,7 +82,7 @@
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?
+> *Within this intiative the goal is to correct formatting, font, colorization, and links including regular and major links on all R&S atricle pages. Below I have attached two examples. The first example is the basic template and the second example is includes information from and existing R&S article in the basic template. 
 > 
 > Example https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775
 > Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775*
