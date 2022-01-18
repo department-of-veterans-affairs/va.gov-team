@@ -71,7 +71,7 @@ Beth Potts (Beth.Potts@va.gov) and Danielle Thierry (Danielle.Thierry@va.gov)
 ON HOLD WITH BRIEFS UNTIL PRODUCT WORK TRANSITIONS AWAY FROM OCTO PRODUCT OWNERS TO CONTENT TEAM
 **[Content Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-brief-template.md):** This is a support document that's specific to each product. It lives in github and is accessible to anyone who needs to reference it. The sitewide content team is responsible for creating it and keeping it updated as guidance evolves, requirements come out of stakeholder meetings, and research findings inform the content/messaging approach.
 
-**[Intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E):** Open a ticket to request specific content support. Use the Public Websites & Sitewide Content Intake Form template.
+**[Intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Sitewide+Content%2C+RLHecht&labels=sitewide+content%2C+sitewide+content-product+support&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E):** Open a ticket to request specific content support. Use the Sitewide Content and IA Intake Form template.
 
 #### Unauthenticated content processes  
 **New website pages:** writer creates new content/SEO considerations --> PO content strategy/substantive edit --> SME review --> incorporate feedback --> create page in drupal --> copyedit --> go live <br>
