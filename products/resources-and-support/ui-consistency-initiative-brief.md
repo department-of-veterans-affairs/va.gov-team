@@ -12,7 +12,7 @@
  <Summary>Examples:</Summary>
  
  - *Product: On-site Search https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/surfacing%20other%20search%20tools/initiative-%20brief.md)*
+   - *Initiatives: Related information, VA Benefits, Need more help)*
  - *Product: VA.gov *
    - *Initiatives: *
  - *Product: Disability Claims*
