@@ -3,7 +3,7 @@
 
 <details>
  
- *Create design comps for https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/ pages to align with the rest of VA.gov.
+ *Create design comps for R&S Article pages to align with the rest of VA.gov.
 'Related information', 'VA Benefits', 'Need more help?' section styling should align with the rest of VA.gov.* 
  
 </details>
