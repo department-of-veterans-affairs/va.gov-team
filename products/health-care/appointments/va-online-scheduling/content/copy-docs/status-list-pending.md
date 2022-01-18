@@ -19,7 +19,8 @@ n/a
 
 **PAGE CONTENT**
 
-#### APPOINTMENT LIST CARDS - Display pending appointments 
+#### APPOINTMENT LIST CARDS 
+#### Display pending appointments 
 
 ```
 {type of care}
