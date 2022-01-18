@@ -36,7 +36,7 @@
 ### Empty States
 Messaging when there are no appointments in the list.
 
-#### Upcoming (Confirmed)
+#### Your appointments (Confirmed)
 
 You don't have any upcoming appointments
 
