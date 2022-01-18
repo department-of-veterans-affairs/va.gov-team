@@ -2,6 +2,9 @@
 
 ## For all VA.gov pages (including those in Resources and Support)
 
+### Before you begin
+- [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
+
 ### Accessibility standards
 
 - [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible](https://www.accessibilityoz.com/2014/02/links-and-accessibility/)
@@ -10,14 +13,16 @@
 - [ ] Replace any sighted language ("view," "see," "look") with a word that's inclusive of our screen reader users ("check," "go to," "review").
 - [ ] Avoid using other ability-focused language. ("hear back from")
 
-### Style guide and Drupal standards
+### Link standards
 
 - [ ] Check all links to confirm they work and point to the intended page.
 - [ ] Confirm all links are 100 characters or less.
 - [ ] Check that we use node IDs instead of urls to link to other pages within Drupal. [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
-- [ ] Make sure all apostrophes and quotation marks are curly not straight.
+
+### CMS standards
+
+- [ ] Make sure all apostrophes and quotation marks are curly not straight. (Once this is automatic in Drupal, we can remove this item.)
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correclty. (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.) [Learn how to set up a url and left nav in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md)
-- [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
 
 ### Additional checks for Resources and Support articles
 
