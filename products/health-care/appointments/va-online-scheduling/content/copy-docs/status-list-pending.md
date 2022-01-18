@@ -4,7 +4,7 @@
 
 ## Current (#35450) 
 
-(H1) Pending
+(H1) Pending appointments
 
 Your appointment requests that haven't been scheduled yet. 
 
