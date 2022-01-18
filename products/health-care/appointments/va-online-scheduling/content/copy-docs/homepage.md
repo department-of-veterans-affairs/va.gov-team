@@ -1,46 +1,49 @@
-# Homepage Copy Doc
+# Homepage Copy Doc (35271) 
 
 ---
 
-## Current (#35271) 
+## Current
 
-(H1) Your appointments
+**FORM TITLE**
 
+```
+Your appointments
+```
+**PAGE HEADER**
+```
+n/a
+```
+**PAGE DESCRIPTION**
+
+```
+n/a
+```
+
+**PAGE CONTENT**
+
+```
 (CTA) Start scheduling
 
 (link) Pending (link) Past
-
----
-
-## Homepage Refresh Toggle
-
-(H1) Your appointments
-
-(CTA) Start scheduling
-
-(link) Pending (link) Past
-
----
-
-### Appointment List Cards
+```
+**APPOINTMENT LIST CARDS**
 
 #### Display confirmed VA booked appointments/canceled VA booked appointments
-
+```
 {appointment date}
 
 {appointment time}
 
 (facility/provider name, VA Video Connect, Phone call}
-
----
-### Empty States
+```
+**Empty State**
 Messaging when there are no appointments in the list.
 
 #### Your appointments (Confirmed)
-
+```
 You don't have any upcoming appointments
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
 (link) Schedule an appointment
-
+```
