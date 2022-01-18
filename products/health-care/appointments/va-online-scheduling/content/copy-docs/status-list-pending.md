@@ -25,7 +25,7 @@ Your appointment requests that haven't been scheduled yet.
 ### Empty States
 Messaging when there are no appointments in the list.
 
-#### Pending
+#### Pending appointments
 
 You don't have any appointment requests
 
