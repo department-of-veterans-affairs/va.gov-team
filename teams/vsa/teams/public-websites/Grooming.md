@@ -27,7 +27,7 @@ None
 
 </details>
 
-## Wednesday, December 8, 2021 
+## Wednesday, January 19, 2021 
 
 ### Key Grooming Factors:
 1. Breakdown User Stories into smaller tasks.
@@ -36,13 +36,10 @@ None
 
 ### Backlog Tickets:
 
-- [ ] [Markup and meta data] HTML markup isn't valid. (09.01.1) [#31441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31441) 
-- [ ] [BUG] Google Analytics opt-out component [#32587](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32587) 
-- [ ] [508-defect-2:] The sticky footer alert is inaccessible to screen reader users and a negative experience for keyboard and mobile users [#32285](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32285)
-- [ ] [Tech Debt] Megamenu code refactor [#32443](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32443) 
-- [ ] Migrate VA.gov megamenu items to Drupal [#32681](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32681)
-- [ ] [Discovery] Footer links with promo banners design [#31606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31606)
-- [ ] Redirect Request - Vet Center MVP pages Batch 2 [#28651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28651) 
+- [ ] Claim Status Tool React App Build (Sitewide Team) [#35382](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35382)
+- [ ] Staging Review [Public Websites - Outreach & Events MVP] [#34622](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34622) 
+- [ ] [FE Bug] O&E - Event-detail page - Content/styling/functional anomalies [#35392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35392) 
+- [ ] Error Message Index available in error message directory [#35506](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35506) 
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
