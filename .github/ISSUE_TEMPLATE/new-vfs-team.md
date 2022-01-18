@@ -23,7 +23,7 @@ As the leader of a new VFS team, I need to share basic info about my team with o
 2. Have each of your team members assign themselves the 
 [Platform Orientation Template](https://vfs.atlassian.net/wiki/spaces/GS/pages/1877344532/Platform+Orientation) 
 3. Confirm that they have completed all items on the Orientation Template
-4. Schedule ATO (Authorization to Operate)[https://docs.google.com/presentation/d/1Q4uUGiTpc5ozU9_DdNhQAoJMFYKaGiOV/edit#slide=id.p4] 
+4. Schedule ATO [Authorization to Operate](https://docs.google.com/presentation/d/1Q4uUGiTpc5ozU9_DdNhQAoJMFYKaGiOV/edit#slide=id.p4) 
 orientation with Faith Owusu-Sekyere *Faith@adhocteam.us*
 
 
