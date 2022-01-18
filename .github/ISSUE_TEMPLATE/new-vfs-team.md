@@ -23,7 +23,8 @@ As the leader of a new VFS team, I need to share basic info about my team with o
 2. Have each of your team members assign themselves the 
 [Platform Orientation Template](https://vfs.atlassian.net/wiki/spaces/GS/pages/1877344532/Platform+Orientation) 
 3. Confirm that they have completed all items on the Orientation Template
-4. Schedule ATO [Authorization to Operate](https://docs.google.com/presentation/d/1Q4uUGiTpc5ozU9_DdNhQAoJMFYKaGiOV/edit#slide=id.p4) 
+4. Review information about your team's products on the [VA.go Products page](https://vfs.atlassian.net/wiki/spaces/VAProducts/overview) and update if needed
+5. Schedule ATO [Authorization to Operate](https://docs.google.com/presentation/d/1Q4uUGiTpc5ozU9_DdNhQAoJMFYKaGiOV/edit#slide=id.p4) 
 orientation with Faith Owusu-Sekyere *Faith@adhocteam.us*
 
 
@@ -62,7 +63,12 @@ The [Platform Orientation Template](https://vfs.atlassian.net/wiki/spaces/GS/pag
 - [ ] Request and schedule an ATO team orientation
 - [ ] Confirm that the orientation has been completed
 
-
+## Review and update your team's product information 
+- [ ] Go to the [VA Product Directory](https://vfs.atlassian.net/wiki/spaces/VAProducts/overview)
+- [ ] Review to make sure that all of your team's products are listed and assigned correctly
+- [ ] Confirm that you have edit access for the page (you'll seee the pencil/edit icon on top right side of page) 
+- [ ] If you don't have edit access, reach out to the [#vfs-platform-support channel](https://join.slack.com/share/enQtMjk1NjI2OTUyMzI4Ny03NTJiYjkxZTljMWQwYjczNTI1ZjUyYmUzNTYxN2IyMjMzNWUzMDBjN2UyOGQyNzA5MmM2YWVlNGJjMGFkYzZi) in Slack.
+- [ ] If anything needs to be changed or added, edit the page in the Confluence CMS. 
 
 ## Platform Checklist
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
