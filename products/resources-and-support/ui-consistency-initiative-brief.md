@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# UI Consistency Initiative Brief Template
 #### Overview
 
 <details>
