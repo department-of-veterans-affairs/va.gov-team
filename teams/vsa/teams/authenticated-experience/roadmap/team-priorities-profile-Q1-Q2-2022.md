@@ -18,3 +18,4 @@ Other potential efforts
   - Samara attending an introductory meeting about this on 1/26
 - Research effort: research how to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
 - Research effort: Where does "sex assigned at birth" information come from, and what does it actually represent (eg. sex on birth certificate)?
+- Notification preferences: Default opt-in indicator. This will allow us to show that someone receives a certain notification in the VA.gov profile because they have been opted into it by default by the business line even if they have never come to the profile and explicitly opted in themselves. Timeline on this is TBD, as we are waiting on VA Profile to be finished with this.
