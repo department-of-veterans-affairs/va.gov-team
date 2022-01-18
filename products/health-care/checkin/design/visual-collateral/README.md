@@ -20,9 +20,8 @@ Graphic designers: Here is the original Sketch files to make changes, if you don
 ## One-pager for clinic staff  
 
 One-pager (PDF)
-- [8.5" x 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7891007/Mobile.Checkin.Flyer.v1.2c.pdf)
+- [8.5" x 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7891924/Mobile.Checkin.Flyer.v1.2c.pdf)
 
 ### Sketch file
 Graphic designers: Here is the original Sketch files to make changes, if you don't see what you need above:
 - [One-pager](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e/a/KvQxmjD) 
-
