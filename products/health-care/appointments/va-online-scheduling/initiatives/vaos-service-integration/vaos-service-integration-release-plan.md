@@ -10,6 +10,13 @@ For this launch, the staged rollout of each toggle will happen consecutively (no
 
 ---
 
+## Prerequisites
+All of the following are required before VAOS frontend enables the toggles for integration with the VAOS service:
+- [ ] HSRM is launched and live in Production, and ready to manage appointment requests
+- [ ] VAOS Service is launched and live in Production, and ready to accept scheduling and appointment transactions
+- [ ] Business Stakeholders approved Veteran-facing launch
+- [ ] VAOS Product Owner approved Veteran-facing launch
+
 ## Phase I: va_online_scheduling_facilities_service_v2
 
 ### Planning
