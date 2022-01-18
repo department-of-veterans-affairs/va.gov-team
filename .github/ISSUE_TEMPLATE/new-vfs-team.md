@@ -10,7 +10,7 @@ This template is a WIP. Please do not use. Delete this when the template is read
 
 ## Welcome and Introduction
 We are excited to welcome your team to VFS (Veteran-Facing Services) platform. 
-Please fill out this form to let us know who you are, what you do and how to contact you. Thanks!
+Please fill out this form to let us know who your team is, what it does, and how to contact your team members. Thanks!
 
 
 
@@ -18,21 +18,37 @@ Please fill out this form to let us know who you are, what you do and how to con
 As the leader of a new VFS team, I need to share basic info about my team with other teams so that I can successfully collaborate across the Platform. 
 
 ## How to fill out this ticket
+### To successfully onboard your team, you will need to:
+1. Add practice and contact information for your new team in the next section, and confirm that it's correct and complete
+2. Have each of your team members assign themselves the 
+[Platform Orientation Template](https://vfs.atlassian.net/wiki/spaces/GS/pages/1877344532/Platform+Orientation) 
+3. Schedule ATO orientation with Faith Owusu-Sekyere *Faith@adhocteam.us*
+
+
 
 ## New Team Info
-### Share your info with Platform
-- [ ] Complete the fields below:
-- Team Name
-- OCTO-DE Product Owner
-- VA Business Owner
-- Crew
-- Github team label
-- Team launch date
-- Public slack channel
- - Other team names
+### Add practice and contact information for your new team
 
+- **Team Name:**
 
-### General
+- **OCTO-DE Product Owner:**
+
+- **VA Business Owner:**
+
+- **Crew:**
+
+- **Github team label:**
+ 
+- **Team launch date:**
+ 
+- **Public slack channel**
+ 
+- **Other team names:**
+ 
+
+- [ ] All fields completed and correct
+
+## Platform Orientation for your team
 
 
 ## Platform Checklist
