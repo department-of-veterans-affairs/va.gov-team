@@ -25,7 +25,7 @@
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
+> *The current R&S Articles UI is not inline with the rest of va.gov. This project will allow us to update design and create a more seamless universal experience for the Veteran*
 * .
 
 **Related/Associated product(s)**
