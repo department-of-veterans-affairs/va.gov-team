@@ -128,7 +128,7 @@ Let’s start with a question...
     - What are your initial impressions?
     - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
     - *(Pause to allow as much time as the participant wants to read/process the poster)*
-    - What do you think you'd do next if you wanted to report the harassment I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
+    - What do you think you or your friend would do next if you wanted to report the interaction I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
       - *(call 911 / call other phone # / talk to patient advocate / police / building security / ____________)*
     - What other thoughts do you have about this poster?
    
@@ -160,7 +160,7 @@ Do you see the link?
   - What are your initial impressions of this page?
   - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
   - *(Pause to allow as much time as the participant wants to read/process the page)*
-  - What do you think you or your friend would do next if they wanted to report the harassment I described earlier--a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable?
+  - What do you think you or your friend would do next if they wanted to report the interaction I described earlier--a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable?
     - *(call 911 / call VA police / call phone # below blue box / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
 
   - What do you think will happen next?
@@ -199,6 +199,10 @@ Is there anything else that we haven't talked about that you think I should know
 ## Thank You and Closing - 5 minutes
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on providing resources for reporting harassment. We're hoping that by providing such resources, we can make the VA safer for everyone.
+
+I'm going to stop the recording now. *(STOP recording)*
+
+Before we close the meeting, are there any questions or concerns that you wanted to express? 
 
 In case you feel uncomfortable or stressed about your harassment experiences or your friend's, I want to remind you about the Veterans Crisis Line, which you or your friend can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
 - Call 800-273-8255 and select 1, or text 838255
