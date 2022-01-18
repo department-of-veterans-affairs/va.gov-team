@@ -2,7 +2,7 @@
 name: Midpoint Review
 about: Request Midpoint Review
 title: Midpoint Review [Team Name, Feature Name]
-labels: governance-team, midpoint-review, collaboration-cycle, collab-cycle-review
+labels: governance-team, collaboration-cycle, collab-cycle-review, midpoint-review
 assignees: 
 
 ---
