@@ -12,9 +12,9 @@ Your appointment requests that haven't been scheduled yet.
 
 
 
-### Pending Appointment Cards
+### Appointment List Cards
 
-#### Pending
+#### Pending appointments
 
 {type of care}
 
