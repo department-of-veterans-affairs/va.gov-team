@@ -15,7 +15,7 @@ Poster (PDF)
 ### Sketch file
 Graphic designers: Here is the original Sketch files to make changes, if you don't see what you need above:
 - [Low-vision poster](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e/a/ygAmqwK) 
-- [Normal poster](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e) - OLD
+- [Normal poster](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e)  
 
 ## One-pager for clinic staff  
 
