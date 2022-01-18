@@ -7,12 +7,9 @@ assignees: ''
 
 ---
 
-
 ## Welcome and Introduction
 We are excited to welcome your team to VFS (Veteran-Facing Services) platform. 
 Please complete the steps on this form to let us know who your team is, what it does, and how to contact your team members. Thanks!
-
-
 
 ## User Story
 As the leader of a new VFS team, I need to share basic info about my team with other teams so that I can successfully collaborate across the Platform. 
