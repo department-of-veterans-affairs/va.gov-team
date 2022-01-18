@@ -53,7 +53,7 @@ Beth Potts (Beth.Potts@va.gov) and Danielle Thierry (Danielle.Thierry@va.gov)
 #### Content team
 - Randi Hecht (Randi.Hecht@va.gov): Lead and content editor 
 - Selina Cooper (Selina.Cooper@va.gov): content writer
-- Patrick Sanders (psanders@governmentcio.com): content writer 
+- Patrick Sanders (patrick.sanders1@va.gov): content writer 
 
 ### How we work 
 **Slack channel:** va-sitewide-content-ia <br> 
