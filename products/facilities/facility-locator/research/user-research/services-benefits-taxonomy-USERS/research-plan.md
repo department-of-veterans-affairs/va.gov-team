@@ -81,10 +81,10 @@ observing 10 participants. Participant criteria are as follows:
 ## Timeline and scheduling
 
 
-Pilot session: January 13th, 3:00 PM EST
+Pilot session: January 20th, 3:00 PM EST
 
 
-Study dates: Monday, Tuesday, Wednesday the weeks of January 17th - 28th
+Study dates: Monday, Tuesday, Wednesday the weeks of January 24th - 31st
 
 
 Session length: 1 hour, all times are EST
