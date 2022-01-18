@@ -17,3 +17,12 @@ Graphic designers: Here is the original Sketch files to make changes, if you don
 - [Low-vision poster](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e/a/ygAmqwK) 
 - [Normal poster](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e) - OLD
 
+#### One-pager for clinic staff  
+
+One-pager
+- [8.5" x 11"](https://github.com/department-of-veterans-affairs/va.gov-team/files/7714194/24x36-lowvision-v1.2b.pdf)
+
+##### Sketch file
+Graphic designers: Here is the original Sketch files to make changes, if you don't see what you need above:
+- [One-pager](https://www.sketch.com/s/478fdefa-c340-45e3-a3ae-738046eab97e/a/ygAmqwK) 
+
