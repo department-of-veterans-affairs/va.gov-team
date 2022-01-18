@@ -31,7 +31,7 @@
 ## Problem
 > *R&S Article page do not match the design system for va.gov.:* 
 * The problem is the discrepancies in the style and visuals for the pages. We have gone through and determined every R&S article page needs updated. 
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
+* This issue is a result of previously used typefaces that were not the approved typefaces. 
 * Correcting these pages creates a more seamless experience for the Veterans. When any individual sees a visual appearence change on a site they may think they have been taken to a different site which can be frustrating and confusing.
 
 <!--
