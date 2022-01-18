@@ -27,4 +27,5 @@ Follow these steps to link to a specific part of a page using a Node ID.
 5. In Drupal, add a link following the steps above for linking in a rich text field.
 6. After the Node ID, enter /# and paste the H2 or H3 ID after it. Example: /node/3003/#how-do-i-request-a-higher-le
 7. Select **Save**.
+
 **Note:** Link any pages not built in Drupal or not on VA.gov using the full url.
