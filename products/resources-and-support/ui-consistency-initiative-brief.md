@@ -11,12 +11,11 @@
 <details>
  <Summary>Examples:</Summary>
  
- - *Product: On-site Search Example https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
+ - *Product: R&S Atricle Page: https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
    - *Initiatives: Related information, VA Benefits, Need more help)*
  - *Product: VA.gov *
    - *Initiatives: *
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
+
  
  </details>
  
@@ -25,11 +24,11 @@
 ---
 
 ## Outcome Summary
-> *The current R&S Articles UI is not inline with the rest of va.gov. This project will allow us to update design and create a more seamless universal experience for the Veteran*
+> *The current R&S Articles (UI) are not inline with the rest of va.gov. This project will allow us to update design and create a more seamless universal experience for the Veteran*
 * .
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | Link to product outline- N/A
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
@@ -83,7 +82,10 @@
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Summary
-> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?*
+> *What's in scope for you to build with this initiative? Describe key features/flows. What have you explicitly decided to **not** include and why?
+> 
+> Example https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775
+> Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775*
 
 --- 
 
