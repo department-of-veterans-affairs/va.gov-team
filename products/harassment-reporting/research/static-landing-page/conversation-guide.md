@@ -32,14 +32,15 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call, including a note taker and a social worker (or clinician), [name]. [Name] can jump in to provide support for you, if needed. 
 
 I can tell you a little more about who I am and what we’re doing before we go any further...
-I'm a user researcher and as a team we work on making improvements to VA's websites and other resources for Veterans. We reach out to Veterans from time to time to get their input to make sure we're on the right track with what we're providing. VA is working to stop harassment and make our locations and services safer for everyone. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, **not** your own harassment experience.
+I'm a user researcher and as a team we work on making improvements to VA's websites and other resources for Veterans. We reach out to Veterans from time to time to get their input to make sure we're on the right track with what we're providing. VA is working to stop harassment and make our locations and services safer for everyone. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, **not** your own experiences.
 
 **Are you comfortable proceeding with this session?**
-If no:
-- **Is there anything we can do to make you feel more comfortable?**
-#### [Get verbal confirmation or end session]
 
-If yes:
+*If no:*
+- **Is there anything we can do to make you feel more comfortable?**
+- *[Get verbal confirmation or end session]*
+
+*If yes:*
 
 Thank you! We’re excited to talk with you today. Before we start, I want to give you an idea of what this session will be like...
 
@@ -112,11 +113,11 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 
 Let’s start with a question...
 
-- I'd like you to imagine that you went to a VA medical clinic today for a doctor's appointment, and on your way in, a person said something rude to you and made a sexual gesture that made you feel uncomfortable. You're thinking about how it's bothering you, and you decide that you want to report it. You'd like to hopefully prevent it from happening to other people. What do you think you'd do? 
+- I'd like you to imagine that you or a friend went to a VA medical clinic today for a doctor's appointment, and on the way in, a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable. You or your friend are thinking about how it's bothering them, and that they want to report it to hopefully prevent it from happening to other people. What do you think you or your friend would do? 
   - *(don't / report it / talk with someone/police at the VA / call 911 / google)* 
   
   - Can you tell me more about why?
-  - What do you think you'd do next?
+  - What do you think you or your friend would do next?
 
     - *(Google / Facebook / MHV / eBenefits / Contact center call or email / VA.gov / In person / _______________)*
 
@@ -159,10 +160,10 @@ Do you see the link?
   - What are your initial impressions of this page?
   - *(Note especially any sentiments/feelings they express re safety, comfort, trust, confidentiality)*
   - *(Pause to allow as much time as the participant wants to read/process the page)*
-  - What do you think you'd do next if you wanted to report the harassment I described earlier--a person said something rude to you and made a sexual gesture that made you feel uncomfortable?
+  - What do you think you or your friend would do next if they wanted to report the harassment I described earlier--a person said something rude and made a sexual gesture that made you or your friend feel uncomfortable?
     - *(call 911 / call VA police / call phone # below blue box / in person / call at a VA health facility / Vet Center / regional office / national cemetery / ____________)*
 
-  - What would you think will happen next?
+  - What do you think will happen next?
   - What other thoughts do you have about this page?
   - Feedback on the information in it?
   - Feedback on how the information is organized?
@@ -181,25 +182,25 @@ Do you see the link?
 
 - What would you like to *change* about what you've seen today?
 
-- We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. What you share will be treated confidentially.
-  - Have you ever been made to feel uncomfortable by someone else at the VA while applying for, using, or communicating about your VA benefits--in person, over the phone, or in email or text? This might be catcalling, negative comments about your gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
-  - If you share anything about your experiences with me, what you say will remain confidential. If you were harassed, did you report it?
-  - If so, *how* did you report it? 
-  - If you didn't report it, what were the barriers to you reporting it?
+- We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. We would like to know a little more about your experiences with harassment, if you're willing to share. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
+  - Have you or anyone you know ever been made to feel uncomfortable by someone else at the VA while applying for, using, or communicating about your VA benefits--in person, over the phone, or in email or text? This might be catcalling, negative comments about gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
+  - If you or your friend was harassed, was it reported?
+  - If so, *how* was it reported? *(phone call / in person / ___________)*
+  - If it wasn't reported, what were the barriers to reporting it?
   - How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
 *(If they share anything about a harassment experience, say...)*
-- I am sorry you had this experience. It is helpful for me to hear that so I can understand how we can provide resources to help.
-- If you want to report your experience with harassment, you can do that in person at the VA site or call XXX-XXX-XXXX *(phone # TBD)*.
+- I am sorry you (or your friend) had this experience. It is helpful for me to hear that so I can understand how we can provide resources to help.
+- If you (or your friend) want to report your experience with harassment, that can be done in person at the VA site or by calling XXX-XXX-XXXX **(phone # TBD)**.
 
 Is there anything else that we haven't talked about that you think I should know? 
 
 
 ## Thank You and Closing - 5 minutes
 
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on exploring an online harassment reporting tool and making it easy to use. We're hoping that by providing resources for reporting harassment, we can make the VA safer for everyone.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on providing resources for reporting harassment. We're hoping that by providing such resources, we can make the VA safer for everyone.
 
-In case you feel uncomfortable or stressed about your harassment experiences or anything else, I want to remind you about the Veterans Crisis Line, which you can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
+In case you feel uncomfortable or stressed about your harassment experiences or your friend's, I want to remind you about the Veterans Crisis Line, which you or your friend can call, text, or chat anytime day or night. You can find the link in the red box at the top of the VA.gov website. 
 - Call 800-273-8255 and select 1, or text 838255
 
 Thank you so much again, and I hope you enjoy the rest of your day!
