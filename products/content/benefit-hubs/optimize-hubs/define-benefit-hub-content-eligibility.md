@@ -4,7 +4,7 @@
 
 - VA.gov researchers report that Veterans in usability testing often remark that the site has too much content
 - VA outreach partners have reported needing more streamlined benefit overview > eligibility > apply flows for new applicants
-- The initial WBC effort was a first step at consolidating content, with on the benefit hubs as a navigational experience in the modernized VA.gov. As such, the initial IA structure included content that may not directly serve the primary aims of the benefit hub.
+- The initial WBC effort was a first step at consolidating content, with only the benefit hubs as a navigational experience in the modernized VA.gov. As such, the initial IA structure included content that may not directly serve the primary aims of the benefit hubs.
 - Without strict eligibility criteria for what content belongs, page  content continues to become denser as requests for more information come in over time.
 - VA content needs to become more structured to support expanded create-once-publish-everywhere (COPE) capabilities. But we can't structure content in benefit hubs until we better define it.
 
