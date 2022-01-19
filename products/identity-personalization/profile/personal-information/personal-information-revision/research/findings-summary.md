@@ -503,5 +503,4 @@ _List all groups in red from the spreadsheet_
 * Asian
 * Native
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/recruitment-checker.png)
