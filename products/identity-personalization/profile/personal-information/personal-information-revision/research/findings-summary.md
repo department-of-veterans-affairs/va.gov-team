@@ -407,7 +407,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Our focus in this study was to speak with Veterans from the LGBTQ community. The study resulted in a 62% no-show/cancellation rate, particularly among Veterans in the underrepresented groups we were aiming to include: Veterans identifying as other than straight or heterosexual and Veterans identifying as other than cis-gender. This high rate is something to take note of and look into to improve the recruitment process. Why were these participants more likely to cancel and how can we better recruit participants from these groups?
 
 We talked to **5**
 
