@@ -26,10 +26,9 @@
 - Product | Link to product outline- N/A
 
 ## Problem
-> *R&S Article page do not match the design system for va.gov.:* 
 * The problem is the discrepancies in the style and visuals for the pages. We have gone through and determined every R&S article page needs updated. 
 * This issue is a result of design patterns not being documented on the Design System. 
-* Correcting these pages creates a more seamless experience for the Veterans. Inconsistent UI on pages can create confusion and can create distrust.
+* Correcting these pages creates a more seamless experience for the Veterans. Inconsistent UI on pages can create confusion and distrust.
 
 <!--
 ## Desired User Outcomes
