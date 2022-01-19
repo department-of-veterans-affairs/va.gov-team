@@ -42,15 +42,10 @@ To belong in a benefit hub  in any form, the content must meet both of these req
 
 ### Content eligibility criteria for a unique benefit hub page
 
-To be eligible for a unique benefit hub page, content must support a benefit that meets at least 1 of these requirements:
-- The benefit has a unique application, **or**
-- The benefit shares an application, but has unique eligibility criteria or a unique application process
-
-**And** the content must also meet at least 1 of these requirements:
+To be eligible for a unique benefit hub page, content must meet at least 1 of these requirements:
 - Content provides an overview of a tool needed to manage or use the benefit or service, **or**
 - Content  provides an overview of what the person will get with the benefit (including current compensation rates), its eligibility criteria, or instructions on how to apply
 
-
-
-
-
+**And** the content must support a benefit that meets at least 1 of these requirements: 
+- The benefit has a specific application (either a primary benefit application or an additional application), **or**
+- The benefit shares an application, but has unique eligibility criteria or a unique application process [NOT CLEAR]
