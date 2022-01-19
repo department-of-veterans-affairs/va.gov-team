@@ -1,4 +1,4 @@
-# UI Consistency for R&S Article Pages Initiative Brief Template
+# UI Consistency for R&S Article Pages Initiative Brief
 #### Overview
 
 
