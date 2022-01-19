@@ -28,6 +28,31 @@
  
 </details>
 
+## Wednesday, January 19, 2022
+* on CMS side: create management for existing field (not a new one, just admins can add, required) the healthseviceAPI field that will be leveraged as the unique identifier. the list of curated machine names will come from Lighthouse UX folks for ones that don't exist yet.
+  * audiology, cardiology, dermatology, gastroenterology, gynecology, mentalHealth, ophthalmology, optometry, orthopedics, primaryCare, specialtyCare, urology
+* the list currently has ~100 services
+* Lighthouse UX to provide list by 1/21/22
+* may need to flesh out edge cases (when a service breaks out into multiple)
+* when new services are spun up, what is the process? CMS to ping Lighthouse for now, or CMS to come up with a pattern
+  * concern around knowledge share and context for any possible staffing changes with Lighthouse UX
+  * CMS to ask LH, LH to recommend a name, CMS to approve
+  * how often are new services spun up? A: depends, intent is to do them in chunks (e.g. currently doing VBA services)
+  * what's the timeframe from "need a new service" to it getting spun up? A: probably once a quarter at most
+  * lift on LH should be manageable for new service requests
+* CMS recommending to also push the term ID to help debug (would only be passed between CMS/LH)
+* healthserviceAPI field probably won't get replaced (being leveraged for wait times by FE)
+  * if they're going to eventually match should they still exist in duplicate?
+  * ~15 will have wait time scores, the remaining ~85 won't
+  * ideally would crosswalk existing data with new service machine names (not touching existing)
+  * where did the original ATC ones originally come from? A: not sure, possibly LH UX (they blessed off the COVID one)
+  * if we populate for all services, will that break the FE widget? Dave: FE should account for this (no wait time data for some services) if it doesn't already. will need to test this
+* CMS can't make required until values are populated
+* LH has all the current service names, looking to populate list by end of this week
+* Ongoing governance meeting in regards to service strategy (Jessica - VC and JHL - VHA, looking to add VBA) - every Wednesday
+  * in an effort to standardize taxonomies
+  * want to lean into patient friendly names
+
 ## Monday, January 10, 2022
 * Timing of Lighthouse v1 confirmation
   * preliminary date of late Feb but dependent on service identifier path forward
