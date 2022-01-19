@@ -3,7 +3,7 @@
 
 <details>
  
- *The current R&S Article pages to not match the style of the rest of the va.gov pages. They do not match because the current design did not follow the approved designs. We have created design comps for R&S Article pages to align with the rest of VA.gov.'Related information', 'VA Benefits', 'Need more help?' section styling should align with the rest of VA.gov.* 
+ *The current R&S Article pages to not match the style of the rest of the va.gov pages. They do not match because the current design did not follow the approved designs. Megan has created design comps for R&S Article pages to align with the rest of VA.gov.'Related information', 'VA Benefits', 'Need more help?' section styling should align with the rest of VA.gov.* 
  
 </details>
 
@@ -11,13 +11,9 @@
  <Summary>Examples:</Summary>
  
  - *Product: VA.gov- R&S Atricle Page: https://www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/* 
-   - *Initiatives: Related information, VA Benefits, Need more help)*
+   - *Initiatives: The above page outlines the issues realted to the page and specifically these areas: Related information, VA Benefits, Need more help,links.*
 
 
- 
- </details>
- 
- > 💡 Helpful guidance/tips
  
 ---
 
