@@ -48,4 +48,4 @@ To be eligible for a unique benefit hub page, content must meet at least 1 of th
 
 **And** the content must support a benefit that meets at least 1 of these requirements: 
 - The benefit has a specific application (either a primary benefit application or an additional application), **or**
-- The benefit shares an application, but has unique eligibility criteria or a unique application process [NOT CLEAR]
+- The benefit shares an application, but has unique eligibility criteria or a unique application process [TESTING THIS OUT AGAINST CONTENT - NOT CLEAR YET]
