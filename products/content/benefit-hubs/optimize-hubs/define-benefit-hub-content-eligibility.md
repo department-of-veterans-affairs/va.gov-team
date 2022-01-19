@@ -23,7 +23,7 @@
 
 By carefully structuring and crosslinking content within benefit hubs and the new Resources and Support section of VA.gov, we can provide the critical information that Veterans, service members, and caregivers need to quickly and easily discover, apply for, track, and manage their VA benefits while also providing pathways to targeted, supplemental information that empowers them to fully understand and use their VA benefits, programs, and services.
 
-![image](https://user-images.githubusercontent.com/62957278/150140762-59172b0f-c27b-40a8-8e27-b4de97a02d03.png)
+![image](https://user-images.githubusercontent.com/62957278/150145667-ae39eb1e-b813-450b-b261-fc224dc0f69e.png)
 
 ### Team-focused goal
 - VA content and IA strategists, content authors, and program partners have clearly documented and specific guidance to empower them to make decisions about where to place benefit-related content and collaborate on the most appropriate solution
