@@ -77,10 +77,10 @@
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
 ### Solution Summary
-> *Within this intiative the goal is to correct formatting and styles including regular and major links on all R&S atricle pages. Below I have attached two examples. The first example is the style guide that appears on VA.gov's Sketch template and the second example is includes information from an existing R&S article utilizing the those templates. 
+> *Within this intiative the goal is to correct formatting and styles including regular and major links on all R&S atricle pages. Below I have attached two examples. The first example is the style guide that appears on VA.gov's Sketch template and the second example is includes information from an existing R&S article utilizing the those templates.* 
 > 
-> Example https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775
-> Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1002227146*
+> *Example https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1001621775*<br>
+> *Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/34256#issuecomment-1002227146*
 
 --- 
 
