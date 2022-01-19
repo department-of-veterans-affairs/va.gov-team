@@ -48,7 +48,7 @@ To be eligible for a unique benefit hub page, content must support a benefit tha
 
 **And** the content must also meet at least 1 of these requirements:
 - Content provides an overview of a tool needed to manage or use the benefit or service, **or**
-- Content  provides an overview of the benefit (including current compensation rates), its eligibility criteria, or instructions on how to apply
+- Content  provides an overview of what the person will get with the benefit (including current compensation rates), its eligibility criteria, or instructions on how to apply
 
 
 
