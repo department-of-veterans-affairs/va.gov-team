@@ -1,4 +1,4 @@
-# [DRAFT] Research Findings: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, January 2022**<br>
+# [DRAFT] Research Findings: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, January 2022
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 1/21/2022
 
