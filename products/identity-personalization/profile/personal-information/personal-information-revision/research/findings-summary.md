@@ -409,86 +409,86 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **5**
 
 Audience segment:
 
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 5 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
 
-* Male: x 
-* Female: x 
+* Male: 4 
+* Female: 1 
 
 
 LGBTQ+:
 
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 1 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+* Gay, lesbian, or bisexual: 2
 
 
 Devices used during study: 
 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5 
+* Tablet: 0 
+* Smart phone: 0 
+* Assistive Technology: 0
 
 
 Age:
 
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 2
+* 45-54: 1?
+* 55-64: 2
+* 65+: 0
+* Unknown: 0
 
 
 Education:
 
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 0
+* Bachelor's degree: 0
+* Master's degree: 4
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
 
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 3
+* Rural: 1
+* Unknown: 1
 
 
 Race:
 
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 4
+* Black: 1
+* Hispanic: 0
+* Biracial: 0
+* Asian: 0
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
 
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
+* Cognitive: 2
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
@@ -498,9 +498,10 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
 
-* Group 1
-* Group 2
-* Group 3
+* Hispanic
+* Biracial
+* Asian
+* Native
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
