@@ -81,7 +81,7 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
   - Phone: On the far right is a **More** button or **3 dots**. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
-## Protocol for Recognizing & Handing Trauma-Triggering
+## Protocol for Recognizing & Handling Trauma-Triggering
 *OBSERVE the participant's body language, tone of voice, and the environment* 
 
 *SENSE discomfort, anxiety, nervousness, anger, teary/crying, shakiness. Some signs may include:*
@@ -91,15 +91,16 @@ Thank you! We’re excited to talk with you today. Before we start, I want to gi
 - *Staring into space* 
 
 *If notice a change, SAY one of these:*
+  - Sometimes talking about these types of experiences can be difficult. Do you think you would be comfortable telling me if it starts to affect you negatively?
   - I realize this is hard. Would you like to take a break or stop?
-  - I can see that you're upset. This is important to talk about, but we don't need to go there.
+  - I can see that you're upset. We value what you’re sharing with us, but we don’t have to go there.
   - Would you like me to stop recording?
   - Do you want to just sit here quietly for a few minutes?
   - Would you like to pause, or are you OK with continuing?
   - Is this not a good time for this session?
 
 *Social worker/clinician on the session (or on standby) jumps in to provide support, if needed. Could SAY:* 
-- Could you perhaps help, [NAME of social worker/clinician]?
+- As a reminder, [name] is a professional here to support you.
 
 *If I feel teary or emotional, turn off my camera and/or say* "I need to step away for a moment".
 
@@ -190,7 +191,7 @@ Do you see the link?
   - How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
 *(If they share anything about a harassment experience, say...)*
-- I am sorry you (or your friend) had this experience. It is helpful for me to hear that so I can understand how we can provide resources to help.
+- I am sorry you (or your friend) had this experience. We appreciate you. Your story will inform how we provide resources to help Veterans in the future. 
 - If you (or your friend) want to report your experience with harassment, that can be done in person at the VA site or by calling XXX-XXX-XXXX **(phone # TBD)**.
 
 Is there anything else that we haven't talked about that you think I should know? 
