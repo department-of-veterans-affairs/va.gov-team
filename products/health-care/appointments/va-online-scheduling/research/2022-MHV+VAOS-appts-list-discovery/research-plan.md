@@ -107,17 +107,17 @@ Please aim for the targets below to recruit a representative sample of Veterans 
 [Recruitment checker for this study](https://docs.google.com/spreadsheets/d/1reptCqEkF4EYzNI0uLRuLhgLsnKN97-JyO1Z9m1WQ-M/edit?usp=sharing)
 
 ## Timeline
-We'll kick off the recruiting for this study [TBD, around January 17th)
+We'll kick off the recruiting for this study Wednesday, January 26, 2022
 
 ### Prepare
-All materials will be complete by [TBD]
+All materials will be complete by Tuesday, January 25, 2022
 
 Please indicate the date and name of a mock participant for a pilot session. 
-- Pilot participant email: [TBD]
-- Date and time of pilot session: [TBD]
+- Pilot participant: Brian Lloyd
+- Date and time of pilot session: Monday, January 24, 2022
 
 ### Research sessions
-What dates do you plan to do research? [TBD]
+What dates do you plan to do research? Within 2 weeks of January 26, 2022
 
 ### Length of sessions
 - Each session will be 1 hour.
@@ -132,7 +132,7 @@ Monday-Friday 11 AM-10 PM EST
 - Research guide writing and task development: Peter Russo
 - Participant recruiting & screening: Perigean
 - Project point of contact: Peter Russo
-- Participant(s) for pilot test: [TBD]	
+- Participant(s) for pilot test: Brian Lloyd	
 - Note-takers:
 	- Perigean - we're not recording these sessions so will need verbatim notes
 	- Ciera Maddox - ciera.maddox@adhocteam.us 
