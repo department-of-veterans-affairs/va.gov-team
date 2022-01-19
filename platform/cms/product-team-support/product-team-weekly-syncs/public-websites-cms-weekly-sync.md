@@ -37,11 +37,42 @@
 
 ## January 19
 
-Q1 
-
 Events
 - Results of QA
-- FE support for All day events?
+- Launch readiness 
+- PW: Sam is working on issues found in QA this week. 
+
+Facilities 
+- Featured event ... does it support recurring events? Eg flu clinic for the next 5 weeks
+- Steve: As of today, it would show the most upcoming event but no indication of repeating
+  - Next step: feature a VAMC event in a Tugboat, release the content and send link to Michelle and Dave for review (Event listing page and VAMC system homepage)
+
+Announcement / Change management
+- Announce recurring events with Claro (new theme)? 
+- VHA Digital Media can support communication for VAMC editors
+- VEO / Outreach Hub editors
+- To discuss again Jan 26 or Feb 2
+
+Later iteration for icebox backlog
+- Permissions, publishing workflows, including curation to other calendars. 
+- Content lifecycle 
+  - automating archiving
+  - reminders that event series is ending (notifications)
+- Iteration on recurring events
+- Support registration to individual and multiple event instances instead of the whole series (may depend on event registration engines)
+- Support for all day events
+- Frequency string (repeats weekly / monthly) 
+- Location 
+  - Filters 
+  - Allow in person AND online 
+- Events API
+- Free text search
+- Categories / taxonomy
+
+
+CMS account admin and notications story
+- reassigning content from deactivated accounts to new authors (or subscribing new users to their content) 
+
 
 ## January 12
 
