@@ -55,6 +55,7 @@ Pointing scale:
 
 ### Best practices:
 1. If an issue grows or decreases in scope during a sprint, don't change the original estimate as it was meant to reflect the estimate with the known acceptance criteria at the time.
+2. A user story is called a *spike* when the team doesn’t have enough knowledge to estimate the task or choose the best solution. Used infrequently, it’s better to make stories more focused so that any unknowns can be dealt with as information is found.
 
 ## Sprint Goals
 Sprint goals ought to be proposed to the team and OCTO-DE by the VFS-CMS Product Managers and confirmed at that sprint’s planning session. They are used by OCTO-DE to help measure our progress and success on the project. They should:
