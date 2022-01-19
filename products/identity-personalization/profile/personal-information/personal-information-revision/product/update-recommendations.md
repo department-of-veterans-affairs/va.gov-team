@@ -18,10 +18,11 @@ TL;DR -- We should consider taking this out altogether unless it's absolutely ne
 - That being said, what purpose is it serving?
 - Is this more accurately "Sex listed on birth certificate"?
 - We should also know where this comes from. Does this come from the DD214? If so, we should tell people to change it there as well. Where does this come from for non-veterans?
+- In the end, this is probably up to us whether we show this field or not given that VHA does not own the VA.gov profile and the profile is not a health record.
 
 **Danielle:** Previous research backs up that this question can be harmful to people who are transgender and people who are intersex (especially when required and when the only options are male/female). We've previously recommended not including (or at least not requiring) this field in other VA form contexts as well. Note that if we do keep this field as "Sex listed on birth certificate," we'll need to discuss whether the system can show options beyond "Male" and "Female," as some states now allow people to change their sex on their birth certificate to another option such as "X". So if a Veteran were to change their birth certificate to "X," we'd want them to be able to have that reflected in their VA.gov profile.
 
-For discussion: To balance not including a field that may cause harm with still giving people a pathway to update their sex on record with VA (whether that's being pulled from their DD214, etc.), I'd love to discuss whether we could potentially not include the field itself but include instead a link to an FAQ on how to check/update this information.  
+For discussion: To balance not including a field that may cause harm with still giving people a pathway to update their sex on record with VA (whether that's being pulled from their DD214, etc.), I'd love to discuss whether we could potentially not include the field itself but include instead a link to an FAQ on how to check/update this information.
 
 ### Gender identity
 
