@@ -4,7 +4,7 @@ These are per our conversation with Amy Paris, who works with the Interagency Po
 
 ### Pronouns
 
-- **Samara:**Ze/zir/zirs is optional but doesn't hurt. There are many variations of this set of pronouns, so we could take it out for clarity and trust that the open text field will capture all options, or leave as-is.
+- **Samara:** Ze/zir/zirs is optional but doesn't hurt. There are many variations of this set of pronouns, so we could take it out for clarity and trust that the open text field will capture all options, or leave as-is.
 
 - **Danielle**: In previous research, statisticians and nongovernmental partners also noted that considering a smaller number of broader, highly accepted options can be helpful. This helps keep the list from being overwhelming, especially for folks who may not be familiar with some terms or may have limited English proficiency or cognitive issues. 
 
