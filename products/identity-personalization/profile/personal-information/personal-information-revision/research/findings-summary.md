@@ -4,9 +4,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
-Date: 01/12/2022
+Date: 01/18/2022
 
-Liz Lantz liz.lantz@adhocteam.us, Christina Gednalske christina.gednalske@adhocteam.us
+Christina Gednalske christina.gednalske@adhocteam.us
 
 **Jump to:**
 
@@ -158,8 +158,6 @@ Participants' general perception was that the VA is gathering this information f
 
 ### 2. Veterans understand the terminology used, with some suggestions for additions or changes.
 
-Labels: label 1, label 2 - _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Suggestions for changes, additions, or removals included the following:
 
 * Trans instead of transgender
@@ -197,8 +195,6 @@ Suggestions for changes, additions, or removals included the following:
 
 ### 3. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
 
-Labels: label 1, label 2 _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Preferred name created confusion - 3 participants were unsure about what name to enter and how the entry would be used.
 
 > _“I guess I am confused on what I am updating. [...] I would probably have given you my full name.” - P6_
@@ -207,13 +203,13 @@ Preferred name created confusion - 3 participants were unsure about what name to
 
 > _“That'd be used to identify me in the files. They'd check the army files and they'd find my name, DOB, SSN, which is everything that identifies me in the VA system.” - P3_
 
-**IMAGE**
+![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/preferred-name.png)
 
 Gender identity - Would expect a text input field in Gender identity for additional options.
 
 > _“I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6_
 
-**IMAGE**
+![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png)
 
 Optional vs required - A majority of participants interpreted the fields as required rather than optional due to the Edit button or (Required) within the edit state, or they were not sure. Participants gave the impression that these fields seemingly being required also contributed to their apprehension about the fields overall - because they felt they were being forced to respond.
 
@@ -227,8 +223,6 @@ Optional vs required - A majority of participants interpreted the fields as requ
 
 
 ### 4. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
-
-Labels: label 1, label 2 - _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 The participants identifying as gay or transgender expressed concern for the inclusion of Sex assigned at birth and sexual orientation. 
 
@@ -249,8 +243,6 @@ Overall, both participants felt that these respective fields would have negative
 
 ### 5. Veterans who did not identify as other than straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
 
-Labels: label 1, label 2 - _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 > _"I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1_
 
 > _“I understand why it’s [pronouns] there and I think it should stay, but it’s a personal issue. I will not update it because I don’t need to.” -P6_
@@ -262,28 +254,22 @@ Labels: label 1, label 2 - _List all labels that apply to this finding from the 
 
 ### 6. Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.
 
-Labels: label 1, label 2 - _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 2 participants suggested alphabetizing items to remove social hierarchy. This came up most for Sexual orientation field, for which participants found the current order confusing or thought it might bring up concerns. 
 
 > _“Would rather the options be alphabetical, so one doesn’t seem more important than others.” - P1_
 
 > _“The order could be alphabetic or what the dominant is from most to least.” - P6_
 
-**IMAGE**
+![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/alphabetize-sexual-orientation.png)
 
 **Suggested grouping uneditable fields together separately from editable fields.** This also contributed to participants not associating the information in the two FAQs with the corresponding fields (see finding 7), as well as contributing to concerns with the sex assigned at birth field (see finding 4). For participants identifying as other than straight or cisgender, the placement of sex assigned at birth mixed with the editable fields without context was triggering - something they were forced to look at yet could not change. 
 
 > _“If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1_
 
-**IMAGE**
+![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/group-non-editable-fields.png)
 
 
 ### 7. 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Participants did not always notice the FAQs or did not associate the FAQs with the fields in question. 
 One participant looked up and down the page multiple times, searching within the fields themselves, to find this information when prompted. It is important to note that Veterans usually asked “Why would the VA ask for this information?” when looking at specific fields, rather than the page as a whole.
@@ -292,7 +278,7 @@ One participant looked up and down the page multiple times, searching within the
 
 > _(Do you see anything on the page that can help answer your questions on why the VA asks for this information?) "No, there's nothing here." -P13_
 
-**IMAGE**
+![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/FAQs-corresponding-fields.png)
 
 Participants did not feel that the FAQ content fully addresses their questions or concerns.
 Once they had located the FAQs, 4 of 5 participants continued to express concerns for how and by whom the information would be used, making it clear that the information included did not sufficiently alleviate their concerns or answer questions, whether due to needing more information, such as specifics or examples, or simply not trusting the information provided. 
@@ -309,10 +295,6 @@ Once they had located the FAQs, 4 of 5 participants continued to express concern
 
 
 ### 8. 4 of 5 participants were able to easily understand how to update their home address to match their mailing address. Participants expressed varied opinions on the modals presented and the checkbox’s purpose. 
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 4 participants had little trouble updating their information and were able to navigate through the reminder modals.
 
@@ -352,7 +334,7 @@ One participant noted that he would prefer a different page layout that did not 
 
 # Recommendations
 
-**Mockup of recommendations below (link)**
+*Mockup of recommendations below (link)*
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
@@ -372,9 +354,9 @@ _Put together initial recommendations here based on your findings along with sup
 9. Consider rewording section headings to reflect "preferences" rather than demographic info survey
 10. For Address Change - Explore ways to slow people down so they take more time to complete this task and understand the implications of having a different home and mailing address. Ex: Consider editing via “one thing per page”
 
-**Mockup - Overview of Proposed Recommendations/Changes for IA/Content:**
+**Overview of Proposed Recommendations/Changes for IA/Content:**
 
-**IMAGE**
+![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/Content%20and%20IA%20Overview%20Mockup.png)_
 
 
 # Next Steps
