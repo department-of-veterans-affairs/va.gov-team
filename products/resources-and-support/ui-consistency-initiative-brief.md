@@ -48,10 +48,10 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+> 💡 *All article pages on Va.gov have been updated.*
+> 💡 *All newly created artciles on VA.gov use the new template going forward.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) N/A
 
 ---
 
