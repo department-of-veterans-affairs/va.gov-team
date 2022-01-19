@@ -142,4 +142,5 @@ Monday-Friday 11 AM-10 PM EST
 	- Jeff Roof - jeff.roof@adhocteam.us
 	- Andrea Perez - andrea.perez@bylight.com
 	- Natalie Hill - natalie.hill@adhocteam.us
+	- Lauren Russell - lauren.russell@adhocteam.us
 	
