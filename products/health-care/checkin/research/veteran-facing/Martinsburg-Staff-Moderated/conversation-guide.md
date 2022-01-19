@@ -1,5 +1,6 @@
 # Conversation Guide: Questions for Staff to ask Veterans
-[Interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/7884227/StLouis-Veteran-Feedback.pdf) and [Optimal Sort survey](https://adhoc.optimalworkshop.com/questions/va0gv5g4)
+[Interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/7893244/StLouis-Veteran-Feedback.pdf) and [Optimal Sort survey](https://adhoc.optimalworkshop.com/questions/va0gv5g4)
+
 
 - Did you check-in for your appointment on your mobile phone today?
   - If the Veteran answer "no" or "I don't remember," ask the following questions:
