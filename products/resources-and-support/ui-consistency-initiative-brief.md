@@ -18,8 +18,8 @@
 ---
 
 ## Outcome Summary
-> *The current R&S Articles (UI) are not inline with the rest of va.gov. This project will allow us to update design and create a more seamless universal experience for the Veteran*
-* .
+> *Completing this project will align the style of the R&S Articles with the other pages/articls on va.gov*
+* 
 
 **Related/Associated product(s)**
 - Product | Link to product outline- N/A
@@ -32,14 +32,13 @@
 
 <!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- *With this problem solved, users will see the same layout across va.gov*
 
 ## Undesired User Outcomes
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- *Why would your business want this to exist? N/A *
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before? Style consistency on all pages/articles.*
 
 ## Undesired Business Outcomes
 -->
