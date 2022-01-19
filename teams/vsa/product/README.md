@@ -24,7 +24,9 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/3q-facilities-team-roadmap.md)
 
 
-### Product outline
+### Product Outline
+Product Outlines serve as the top-level description of the product a team owns. It's primary focus is on a product's metadata (e.g. contact info) and steady-state indicators of success for the given product.  
+
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples 
   - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
@@ -34,8 +36,18 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 - Resources:
   - [Great One-Pagers](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec)
   - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
+
+### Initiatie Briefs
+Initiative Briefs serve as a description of the project a team is pursuing to achieve a particular outcome. It's primary focus is around discovery, ensuring assumpitons re: a given hypothesis are sufficiently evaluated. 
+
+- [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)
+- Examples
+  - [Prevent unintended MPI updates via 10-10ez](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/initiatives/avoid-mpi-changes.md#prevent-unintended-mpi-updates-via-10-10ez)
+  - [Intiative Briefing: New VA.gov Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/Initiative%20Briefing.md)
   
-### Problem brief
+### Problem Brief
+Problem Briefs serve as low-barrier starting point for teams to begin tackling a given issue. These problems are typically process-related or decision-related (vs. product-related that may be better suited by a Product Outline or Initiative Brief).
+
 - [SCQA problem brief template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/problem-briefs/SCQA-problem-brief-template.md)
 
 Examples
