@@ -19,7 +19,8 @@
 
 ## Outcome Summary
 > *Completing this project will align the style of the R&S Articles with the other pages/articls on va.gov*
-* 
+* Approximately 70 articles will be updated with this effort*
+* Going forward this will be the standard style utilized for any new articles*
 
 **Related/Associated product(s)**
 - Product | Link to product outline- N/A
