@@ -15,7 +15,7 @@
 
   **D. For gender identity - we may want to leave that off also for the same reasons as sexual orientation and gender identity**
  
- **F. Although "queer" is going through a period of reclamation, there's value in having fewer options and/or having a write-in.**
+ **E. Although "queer" is going through a period of reclamation, there's value in having fewer options and/or having a write-in.**
 
 ##	4. Inconsistency between providing a write-in option for some option and not others 
 
