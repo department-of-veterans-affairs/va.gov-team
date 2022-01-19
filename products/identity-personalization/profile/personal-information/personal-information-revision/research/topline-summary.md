@@ -1,114 +1,122 @@
-# My VA Payment Info and Onsite Notifications Topline Summary
-*Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience*
-Date: 1/18/22
-Liz Lantz  [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us) 
- * [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-research-plan.md) 
- * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-conversation-guide.md) 
- * [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/session-notes) 
- * [Mural board](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/session-notes) 
+Profile Personal Information Topline Summary
+Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience
+
+Date: 1/10/2022
+
+Liz Lantz liz.lantz@adhocteam.us, Christina Gednalske christina.gednalske@adhocteam.us
+
+Research plan
+
+Conversation guide
+
+Interview transcripts
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
-*The goal of this document is:*
-* To make sure everyone who observed the study is in alignment with the perceived findings
-* To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
-* To jump start synthesis by quickly organizing high level themes
 
-## Initial Findings
-### Proposed payment information IA
-#### Participants intuitively found recent information about payments under View Payment History links on the homepage,  and on My VA. 
-* All participants went to the view payment history link under the relevant benefit from the homepage
-* X participants quickly verbalized noticing the payment information after landing on My VA.
-#### Participants weren’t confident about where to find debt information from the homepage, but easily understood where to find that information on My VA
-* Some participants guessed they might find debt information under payment history
-* Most had no expectation about where to find debt information.
-#### Participants easily found the payment information most important to them on My VA.
-All participants stated that payment amount and date were most important information, and easily found that information on My VA.
-#### Participant expectations about where to find the travel reimbursement information were varied.
-/need to confirm numbers for final report; did not have time to ask all participants/
-* 2 participants said benefit payments and debts
-* 2 participants said health care
-* 2 participants said claims & appeals (stating that you have to submit a claim to get reimbursed)
-* 1 participants would use search
-#### Participants preferred My VA sections to be ordered by on their VA benefits and services. 
-Each participant had different feedback about which section was most important to them and how they’d rank the My VA sections they saw. They each stated the section that contained information about the benefit they used most was the highest priority. Many commented that the most important section to them would change over time.
-> find quote from P14 about claims and appeals being important once upon a time.
-For some participants it was health care, others it was benefit payment and debts, and others stated claims and appeals. One participant said Applying for benefits would be the most important.
-#### Most users expected to see important information, such as an alert, at the top of the page, but were not bothered by having alerts in multiple places on the page.
-Having alerts in multiple places on the page served as an effective reminder for participants. No one stated it was bothersome to see information repeated, and actually stated it was preferred to be reminded about debt because it was such an important topic to them.
+The goal of this document is:
 
-> This is letting me know there are two sections that need my attention. I don’t think there’s a problem with that.
+To make sure everyone who observed the study is in alignment with the perceived findings
+To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
+To jump start synthesis by quickly organizing high level themes
+Initial Findings
+#1: Veterans are not confident their personal information will be used for their benefit.
 
-> It’s important information, so overdoing it isn’t going to hurt. 
+Privacy Concerns - Participants are worried that this information could fall into the wrong hands or that those with access would make judgements/use the information to someone’s disadvantage
 
-### Financial information
-#### Amount and date are the most important pieces of information for financial information.
-> The amount, and when it is going to be deposited, or when it’s due. Those are probably the most important pieces of information.
+“I don’t really understand why you would put sexual orientation other than data collection. When Trump came up with taking the surgeries away and health professionals can refuse rights. There has been a debate about medical care and if you put your sexual orientations you will have bias doctors. They may not provide the care needed.” - P8
 
-#### Reason for debt was cited as another important piece of information about debt, but participants would want more detailed information. 
-None of the participants had debt (confirm), and many weren’t aware you could go into debt with VA. They spoke from the perspective of “/if/ they had debt” and stated they’d want to know how much, what it was for, how to pay it back, and as well as who to contact for assistance or to answer questions.
-#### Participants had mixed feelings on whether or not they wanted to see the number of outstanding debts.
-> insert quote about it being upsetting to see the number in your face
+"Straight laced Christians who could use this to someone's disadvantage." - P3
 
-> insert quote about number being important; wanting to know exactly what was going on
+Concerns about Pushback/Alienating Veterans - Most participants believe more conservative Veterans would find some or all of the content objectionable.
 
-#### People wanted to be reassured that they have no debt with VA.
-4 participants mentioned wanting to see something on the page confirming their debt had been resolved, or simply that they did not have any outstanding debt.  One participant mentioned this as being important to them, even though they had never had debt with the VA.
-> Even if I have a zero balance owed, it would be cool to be able to confirm that.
+“I’m just thinking about folks like my dad, who is a Vietnam Vet. And from discussions with him, I know that he would find these things at least mildly objectionable, simply because he’s from that generation.” - P1
 
-#### Remaining education benefit amount is an important data point to Veterans who have education benefits.
-3 participants who had education benefits shared that it was not easy to figure out how much education benefit they had remaining, and that it would be useful to see that information on this page.
-> I know I will be trying to get a PhD, I just can’t remember how many months I have left. I will use the rest of my GI Bill. I can’t recall all of the details right now but that [My VA] would be the easiest way to find it. 
+Participants' general perception was that the VA is gathering this information for demographic purposes and/or healthcare, but are not sure the information would be used correctly/for good.
 
-#### Seeing the most recent payment on My VA was sufficient for participants, since the information is accompanied by the View Payment History link.
-Most participants rely on information from their bank to get payment information, but thought it was helpful to see the last payment history. In particular, they felt it would be helpful for tax or record-keeping purposes.
+“Younger veterans would think it was "cool" to provide this information, but without understanding the repercussions. - P8”
 
-Multiple people talked about wanting to see the last payment regardless of how far in the past it was.  The view payment history link was easy for them to notice and use, and would be sufficient to meet their needs for payment information.
+“Is someone really going to look at this before they address me to make sure they're using my correct pronoun?” - P13
 
-#### The majority of participants easily used the View payment history and Manage your direct deposit links; the exception was a participant using screen magnification software.
-Almost all participants easily found the links to take action on their payments, and had no trouble navigating back to My VA after viewing the information. 
-A participant using ZoomText, a screen enlargement software with a speech component, found the link but shared feedback about challenges navigating multi-column layouts. They stated that it was unlike they would have found it had they not been in a moderated session.
+“If it is used on the medical side they can help but it’s a double edged sword. In data collection and who is serving who and to improve it for management, then it would be more beneficial.” - P8
 
-> When I move it over to see manage your direct deposit [link], then I can’t see manage your benefit and payment debts [heading]. To make the screen large enough to read manage your direct deposit, I can’t see that other part [heading]. 
-> 
-> *Moderator: How does that impact the way you understand what you’re looking at?*
-> 
-> Well, it’s one of those things, once you get used to it, you know you got to do it, it’s ok. But I did one for a survey for something the other day, and they put the next button way down on the lower right corner. Well, so I gotta answer the question and you have to search for the next. Rather than having it right next to right next to it or right under the question or something. See, if you hadn’t mentioned changing that, I probably never would’ve moved over there and found that manage your direct deposit. 
+#2: Veterans understand the terminology used, with some suggestions for additions or changes.
 
-/insert screenshot/
-### Onsite notifications
-#### Participants could easily take action on a notification via a link.
-All participants clearly understood the hyperlink in our notification and understood that it would allow them to take action on the information they were being alerted about.
-#### Participants expected that if they dismissed an alert, it would re-appear in subsequent sessions until they had completed the action.  
-No participants dismissed the alert without prompting, which could be due to being warned they were viewing a prototype and not all items were clickable. Once prompted, they understood the `x` would dismiss the alert, but stated they expected it to return in their next session, until the debt had been paid.
+Trans instead of transgender
 
-Participants also stated they would not expect to see the alert on My VA if they had been notified about the debt another way, such as email, and paid the debt before coming to My VA.
+Missing gender fluid from gender identity list
 
-#### 2 participants wanted a heading above the alert section at the top of the page to provide additional context.
-The first participant who commented about this was using a screenreader, and had no context for the content in the alert. It was confusing for them to hear their screenreader read out “My VA, Go to profile [link], You have a new debt, Manage your VA debt [link]”.
+Missing asexual, pansexual, omnisexual from sexual orientation options
 
-Another participant wasn’t totally confident what the message about new debt was.
->I am guessing is a notification up here. It seems that way, but even then put “recent notifications” up here instead of going to profile (/mouses over link)/, debt (/mouses over alert)/ then health care (/mouses over health care heading/. Nothing says notification or messages here (/mouses in space between go to profile link, and alert)/
-Insert screenshot
+Remove heterosexual since we have straight, and homosexual since we have gay/lesbian
 
-#### Multiple participants commented that the light yellow color for the alert did not stand out to them, and one participant stated it made the text very difficult to read.
+A gay participant stated they felt the word “queer” is deragatory
 
-We initially referred to the alerts as “call outs” to avoid leading participants, and 2 participants first noticed the crisis line alert in the header.  Another participant focused immediately on the name tag and stated their eye went there immediately.
+"Homosexual is an old fashioned term. - P3"
 
-While other participants noticed the alerts right away, several commented that the light yellow did not communicate the appropriate level of urgency that should accompany a message about outstanding debt or unread health care messages.
+“Asexual is one that’s not there, pansexual or omnisexual aren’t on there.” - P8
 
-> find supporting quote
+Adding title could help amplify the selection made in pronoun
 
-A legally blind participant stated they could not read the text against that color background.
-.
-> That, yellow or brown, whatever that color is /mouses over alert/ it makes it hard for me to read in that color.
+“..if we are going with pronouns, I prefer title like Ms. Mr. Miss. LtCol, etc. – the means of addressing. If you ask the pronoun then I would expect the title to be called.” - P6
 
-## Additional findings
-### It was not particularly important to people who had been receiving consistent compensation payments to see payment information on My VA.
-* They weren’t bothered by seeing it, but it isn’t something they check on or look at regularly.
-* Multiple participants made comments that it would be important to them if they were living “day to day” or “check to check”
+One participant wanted to be able to identify their religious preference
 
-## Lessons about the recruiting process and participant pool
-* Recruiting criteria seems to have been confusing somewhere along the way - we didn’t get any participants who actually had debt despite having indicated that they did to participate in the study.
-* We got clarity 1/2 way through the study that we /can/ record PII, so some recordings have better notes/transcripts than others
-* Needed to allow more time for sessions (should’ve been 45 minutes)
-* Should’ve put max number of sessions
+“I would like to be able to make it clear with a very simple checkbox - which I was able to do on my military dog tags for 26 years - to just say 'hey I’m atheist.'... There’s a significant population in America who are atheist and for whom it is part of their identity.” - P1
+
+#3: Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
+
+Preferred name created confusion - participants were not sure what to enter.
+
+“I guess I am confused on what I am updating. [...] I would probably have given you my full name.” - P6
+
+Gender identity - Would expect a text input field in Gender identity for additional options.
+
+“I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6
+
+Optional vs required - A majority of participants interpreted the fields as required rather than optional.
+
+“It says required in red. Unless it directly has an impact on my care or disability I don’t know why it needs to be shared, it should be an option.” - P13
+
+Lack of SSN or military ID fields raised questions
+
+“I didn’t see the field for my SSN, or military id. EDIPI. The DoD number is different from the SSN. I question why it's not there.” - P6
+
+#4: Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
+
+“I would call someone at VA and complain [if I saw sexual orientation in my own profile].” - P3
+
+“Sex assigned at birth, I don't understand why that's there. That brings up a whole different bag of worms for people who are transgender. - P8"
+
+“Still keeping initial information on file and making you see it, then putting new stuff, almost like they aren’t accepting you. - P8”
+
+#5: Veterans who did not identify as other than straight or cisgender expressed that they would not use fields themselves, but could see the usefulness for others.
+
+"I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1
+
+#6: Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.
+
+Suggested alphabetizing items to remove social hierarchy (this came up most for Sexual orientation field).
+
+“Would rather the options be alphabetical, so one doesn’t seem more important than others.” - P1
+
+Suggested grouping uneditable fields together separately from editable fields.
+
+“If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1
+
+#7: 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.
+
+Participants did not always notice the FAQs or did not associate the FAQs with the fields in question.
+
+“The only thing I would offer is if it were my page and my DOB is wrong and there's no information on how to fix it I would be calling to see what’s going on.” - P6
+
+(Do you see anything on the page that can help answer your questions on why the VA asks for this information?) "No, there's nothing here." -P13
+
+Participants did not feel that the FAQ content fully addresses their questions or concerns.
+
+“It doesn’t quite answer the question but I can figure it out. [...] I probably tend to say give me an example [...] Maybe a qualifier sentence like a link to learn more and that takes me somewhere with more depth about what I am bugged about if that makes sense. Just a learn more button would take me to more depth as to why something affects my quality of life.” - P6
+
+(Did the FAQ address your questions?) “It didn’t. I think it is more about collection of information and data points. I wouldn’t feel like it is about my care. It can just be a conversation with my provider.” - P13
+
+#8: Participants were able to easily understand how to update their home address to match their mailing address, and how to update their mailing address to match their home address.
+
+“I think it is great to update both at the same time and you can do one section at a time instead of the whole thing.” - P13
