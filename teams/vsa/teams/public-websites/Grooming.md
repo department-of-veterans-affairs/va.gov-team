@@ -36,7 +36,6 @@ None
 
 ### Backlog Tickets:
 
-- [ ] Claim Status Tool React App Build (Sitewide Team) [#35382](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35382)
 - [ ] Staging Review [Public Websites - Outreach & Events MVP] [#34622](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34622) 
 - [ ] [FE Bug] O&E - Event-detail page - Content/styling/functional anomalies [#35392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35392) 
 - [ ] Error Message Index available in error message directory [#35506](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35506) 
