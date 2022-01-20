@@ -117,7 +117,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 - Date and time of pilot session: Monday, January 24, 2022
 
 ### Research sessions
-What dates do you plan to do research? Within 2 weeks of January 26, 2022
+We plan to run the research sessions between Wednesday, January 26, and Friday, February 4th.
 
 ### Length of sessions
 - Each session will be 1 hour.
