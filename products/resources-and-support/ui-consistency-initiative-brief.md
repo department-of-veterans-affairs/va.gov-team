@@ -76,11 +76,11 @@ https://github.com/department-of-veterans-affairs/content-build/blob/master/src/
 https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/faq_multiple_q_a.drupal.liquid
 https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/support_resources_detail_page.drupal.liquid
 
-- The templates themselves will not need to change. The design elements can be applied to each of the R&S Articles. We should however test a few before we change all forms. Proposal to test 5-10 articles of the 70 before the overall change is made. 
+- The templates themselves will not need to change. The design elements can be applied to each of the R&S Articles. We should however test a few before we change all forms. 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: VA stakeholder testing, marketing, compliance requirements 
-
+  - Proposal to test 5-10 articles of the 70 before the overall change is made. 
+  -
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
