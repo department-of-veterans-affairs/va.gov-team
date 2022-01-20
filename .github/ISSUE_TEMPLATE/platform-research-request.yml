@@ -1,0 +1,68 @@
+name: "Platform research request"
+description: "If you are a Platform team that needs research to validate your product before release, complete this request for a researcher to help."
+title: "[Product and type of research]:"
+labels:
+  - "platform-research-request"
+assignees:
+  - Khyatinp18 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you have a request for research to validate a Platform product, complete the information below. The more information the Service Design team has, the faster we can process the request.
+  - type: textarea
+    id: topic
+    attributes:
+      label: What are your goals for this research?
+      description: "What product [tool/service/document/process] & Platform team are you doing this research for? What are you trying to learn from this research?"
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: What outcomes are you looking for?
+      description: "How will this research advance your product to the next phase in the design process? What will you do with your learnings?"
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: Describe 
+    attributes:
+      label: Research questions
+      description: "What question(s) do you hope to be able to answer after completing this research?"
+      placeholder: 
+    validations:
+      required: true
+  - type: textarea
+    id: evidece
+    attributes:
+      label: What is your hypothesis for your study?
+      description: "What do you intend to learn and measure from this study?"
+      placeholder: 
+    validations:
+      required: true
+  - type: checkboxes
+    id: Participants
+    attributes:
+      label: Roles
+      description: Indicate which roles you'd like to include in this study (select all that apply)
+      options:
+        - label: VFS Product Manager
+        - label: VFS FE Engineer
+        - label: VFS BE Engineer
+        - label: VFS Researcher
+        - label: VFS Designer
+        - label: PO
+  - type: textarea
+    id: other-topics
+    attributes:
+      label: "Other:"
+      description: "If 'Other' is selected, please explain here:"
+    validations:
+      required: false
+
+
+
+
+  
