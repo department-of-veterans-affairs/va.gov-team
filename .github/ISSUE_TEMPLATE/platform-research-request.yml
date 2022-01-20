@@ -10,7 +10,15 @@ body:
     attributes:
       value: |
         If you have a request for research to validate a Platform product, complete the information below. The more information the Service Design team has, the faster we can process the request.
-  - type: textarea
+- type: textarea
+    id: topic
+    attributes:
+      label: Briefly describe the background of this product or service?
+      description: "What would a new person on the team need to know about this product? Link to the product outline."
+      placeholder: 
+    validations:
+      required: true
+- type: textarea
     id: topic
     attributes:
       label: What are your goals for this research?
