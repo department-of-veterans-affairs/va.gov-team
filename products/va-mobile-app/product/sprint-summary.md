@@ -2,6 +2,46 @@
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 
+## Sprint: 1/5/22 - 1/18/22
+
+- Dark Mode
+  - Design sign-off received for Dark Mode build 
+  - Completed regression testing on Dark Mode build, going to begin regression testing on full build next 
+
+- Identity
+  - Completed IAM beta integration testing in INT & SQA environments 
+
+- Redesign
+  - Designated a replacement for PM, started onboarding new folks on the project, and will have a second round of wireframes based on feedback.
+
+- RX Refill
+  - Wrapped up research report 
+
+- Appointments 
+  - Held feature overview & initial feasibility discussions for Pending Appointments with the team
+  - Completed BE investigation on VAOS v.2 endpoints, began BE discovery on appointment requests
+  - Continuing BE missing facility + error investigation
+
+- Payment History
+  - Held feature overview  & completed feasibility discussions for Payments with the team, moving forward with PO review and finalizing back-end infrastructure
+
+- Vaccine 2.0
+  - Implemented pagination (1/18 release)
+
+- Demo Mode Updates
+  - Updated user name, show unread message indicator for unread messages, and fixed log out issue
+  - Disability Ratings feature added
+
+- TLC & Maintenance (Keeping the app going)
+  - Fixed ‘Can’t find variable: snackbar’ issue
+  - Fixed accessibility bug in edit draft flow to announce save and delete buttons
+
+- Fixed biometrics analytics
+  - Migrated alerts to DataDog 
+  - Fixed appointment & push notification errors in Sentry reporting 
+  - Fixed incorrect display of mailing address in letters flow (Sev 2 bug) 
+  - Wireless keyboard known issues documentation
+
 ## Sprint: 12/22/21 - 1/4/22
 
 - Vaccine Records 2.0 
