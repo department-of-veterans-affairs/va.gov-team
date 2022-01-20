@@ -22,7 +22,7 @@ body:
     id: goals
     attributes:
       label: What are your goals for this research?
-      description: "What product [tool/service/document/process] & Platform team are you doing this research for? What are you trying to learn from this research?"
+      description: "What product [tool/service/document/process] & Platform team is this research for? What are you trying to learn?"
       placeholder: 
     validations:
       required: true
@@ -46,7 +46,7 @@ body:
     id: hypothesis
     attributes:
       label: What is your hypothesis for your study?
-      description: "What do you intend to learn and measure from this study?"
+      description: "What do you intend to learn and measure?"
       placeholder: 
     validations:
       required: true
@@ -54,7 +54,7 @@ body:
     id: participants
     attributes:
       label: Roles
-      description: Indicate which roles you'd like to include in this study (select all that apply)
+      description: Indicate which roles you'd like to recruit for this study (select all that apply)
       options:
         - label: VFS Product Manager
         - label: VFS FE Engineer
