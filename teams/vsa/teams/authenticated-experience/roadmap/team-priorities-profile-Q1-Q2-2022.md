@@ -14,6 +14,7 @@ Even with the addition of email and text communications at the VA, mail is still
 
 Other potential efforts
 
+- [Small update] Remove fax number field
 - Integrate military information through VA Profile backend (currently integrates through eMIS)
   - Samara attending an introductory meeting about this on 1/26
 - Research effort: research how to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
