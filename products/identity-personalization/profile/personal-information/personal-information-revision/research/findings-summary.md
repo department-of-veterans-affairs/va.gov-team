@@ -333,6 +333,7 @@ One participant noted that he would prefer a different page layout that did not 
 
 # Next Steps
 
+* Evaluate recommendations with product team.
 * Work with Danielle Thierry to determine direction for content and IA-related changes.
 
 
@@ -340,7 +341,7 @@ One participant noted that he would prefer a different page layout that did not 
 
 Findings do not include the perspectives from users of assistive technology other than initial accessibility feedback from designs/prototype.
 
-When changes are made, our team will complete UAT with screen readers and ask additional questions related to ensure we have addressed concerns from this study.
+Once design changes are made and on staging, our team will complete UAT with screen readers and ask additional questions related to ensure we have addressed concerns from this study.
 
 
 # Appendix
@@ -354,17 +355,12 @@ When changes are made, our team will complete UAT with screen readers and ask ad
 
 ## Tools used for Synthesis
 
-Mural Board
+![Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1641241600762/51d50aa06263b15093999964d0be54d9ff92c20d?sender=u28f508d646c449cc1afe4873)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
+![Personal information Prototype](https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i)
 
 
 ## Secondary research
@@ -381,7 +377,7 @@ Our team also consulted Amy Paris, who is our colleague through the United State
 
 Our focus in this study was to speak with Veterans from the LGBTQ community. The study resulted in a 62% no-show/cancellation rate, 71% among Veterans in the underrepresented groups we were aiming to include: Veterans identifying as other than straight or heterosexual and Veterans identifying as other than cis-gender. This rate is something to note and look into to improve the recruitment process. Why were these participants more likely to cancel and how can we better recruit participants from these groups?
 
-We talked to **5**
+We talked to **5** participants.
 
 Audience segment:
 
