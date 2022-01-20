@@ -312,19 +312,21 @@ One participant noted that he would prefer a different page layout that did not 
 
 1. Consider editing/updating FAQs to
 	* mention the connection to/partnership with the LGBTQ Health Services to build trust from Veterans who are part of the LGBTQ communty as far as why the VA is asking for the info
-	* include additional context/examples concerning how the VA will use this information
-	* point to privacy policies already in place for this information
+	* include additional context/examples concerning how the VA will use this information.
+	* point to privacy policies already in place for this information.
 2. Consider utilizing hint text to help Veterans understand the value of sharing this information with VA.  - (Ex: “How would you like to be addressed at appointments, etc.”). This is also better for accessibility.
 3.  Group together editable and non-editable fields and place relevant FAQ information within each section. This will benefit Veterans by removing confusion around the field types and providing important information for each section when it is most needed.
-4.  Consider removing Sex assigned at birth. If not possible, clearly convey where the information comes from, why it is included, and how to change it. (Ex: “This information comes from our ___ database. To edit this field…”)
-5.  Consider making changes that clarify editable fields are optional
+4.  Consider removing Sex assigned at birth field. If not possible, clearly convey where the information comes from, why it is included, and how to change it. (Ex: “This information comes from our ___ database. To edit this field…”)
+5.  Consider removing Sexual orientation field.
+6.  Consider removing transgender options from Gender identity field.
+7.  Consider making changes that clarify editable fields are optional.
 	* Add text clarifying fields are optional in hint text and section titles.
-	* Add a Remove button (included elsewhere in Profile) to allow selection removal
-6. Alphabetize Pronouns, Gender identity, and Sexual orientation options to minimize misinterpretation that options are in order of  “social hierarchy.”
-7. Add text input field in Gender identity section
-8. Consider additional fields: Title / Religious Preferences
-9. Consider rewording section headings to reflect "preferences" rather than demographic info survey
-10. For Address Change - Explore ways to slow people down so they take more time to complete this task and understand the implications of having a different home and mailing address. Ex: Consider editing via “one thing per page”
+	* Add a Remove button (included elsewhere in Profile) to allow selection removal.
+8. Alphabetize Pronouns, Gender identity, and Sexual orientation options to minimize misinterpretation that options are in order of  “social hierarchy.”
+9. Add text input field in Gender identity section.
+10. Consider additional fields: Title / Religious Preferences.
+11. Consider rewording section headings to reflect "preferences" rather than demographic info survey.
+12. For Address Change - Explore ways to slow people down so they take more time to complete this task and understand the implications of having a different home and mailing address. (Ex: Consider editing via “one thing per page”)
 
 **Overview of Proposed Recommendations/Changes for IA/Content:**
 
