@@ -1,13 +1,7 @@
 # Overview
-We will complete the table-sorting A/B test using a feature toggle on VA.gov to direct traffic and then use Google Analytics events on the control and variant A with differing labels so that we can track the events specific to each test variant.
+We will complete the table-sorting A/B test using Google Optimize. We will create code to allow table sorting on the page and then hide this part of the UI. We will then use Google Optimize to then show the sorting part of the UI to 50% of users and track events on the page.
 
-
-## Feature toggle details
-- **label** - `rated-disabilities--table-sorting-ab-test` (to make sure it is easily recongnizable as separate from the other feature toggles and is easily searchable)
-- **split** - 50 percent of logged in users
-
-
-## Google analytics details
+## Google analytics even details
 
 ### Control
 - **page load event** - `table-sorting-ab-test--control` - Fired to ensure roughly 50% of traffic is seeing this version
