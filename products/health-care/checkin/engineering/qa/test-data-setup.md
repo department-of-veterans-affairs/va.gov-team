@@ -43,7 +43,7 @@ You will need the CHIP Insomnia collection, ask a CHIP team member for it.
 
 ## Create Appointment
 
-Create an appointment for any time between tomorrow and 14 days from now.
+Using the 'Make Appointment' endpoint under the `VEText Appointments` heading, create an appointment for any time between tomorrow and 14 days from now. Note the `appointmentIEN` in the response, you'll need it for the next step.
 
 ## Call the pre-checkin endpoint
 
@@ -51,8 +51,7 @@ Using the CHIP/Test Harness Insomnia collection:
 
 - Select the "CHIP Preprod" environment at the top left
 - Select "Pre Check In" Under the CHIP collection on the left
-- Ensure that the station number, patient ien and patient details match those used for the appointment you created
-- You will need the `appointmentIEN` for the appointment you created. Since it is not returned by the appointment creation endpoint, the easiest way to get it is to send the request with an incorrect `appointmentIEN` and look at the CloudWatch logs for the `initiatePrecheckin` function. There will be a log starting with "Appointment IENs found" - the highest number should be correct.
+- Ensure that the station number, appointment IEN, patient IEN and patient details match those used for the appointment you created
 - After re-sending the request with the correction `appointmentIEN`, you should receive a UUID back - to test pre-checkin, go to:
 
 http://staging.va.gov/health-care/appointment-pre-check-in/?id={uuid}
