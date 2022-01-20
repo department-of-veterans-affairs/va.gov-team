@@ -196,7 +196,7 @@ Preferred name created confusion - 3 participants were unsure about what name to
 
 > _“That'd be used to identify me in the files. They'd check the army files and they'd find my name, DOB, SSN, which is everything that identifies me in the VA system.” - P3_
 
-![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/preferred-name.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/preferred-name.png" width="50%" />
 
 Gender identity - Would expect a text input field in Gender identity for additional options.
 
