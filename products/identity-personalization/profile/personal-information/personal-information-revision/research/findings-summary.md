@@ -101,7 +101,7 @@ Participants shared concerns that this information could be used to the Veteran�
 
 > _"If someone is non-binary, they're so far off the left or right, I mean, myself, I wouldn't take anything they said seriously." - P3_
 
-> _“Younger veterans would think it was "cool" to provide this information, but without understanding the repercussions. - P8”_
+> _“Younger veterans would think it was "cool" to provide this information, but without understanding the repercussions." - P8_
 
 > _“I'm gay. So, if someone sees that in my profile, they're automatically going to get a thought in their head and assume something.” - P3_
 
