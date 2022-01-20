@@ -114,7 +114,8 @@ All materials will be complete by Tuesday, January 25, 2022
 
 Please indicate the date and name of a mock participant for a pilot session. 
 - Pilot participant: Brian Lloyd
-- Date and time of pilot session: Monday, January 24, 2022
+- Date and time of pilot session: Monday, January 24, 2022 at 10AM PT
+- We will not need Perigean's support or attendance at the Pilot session.
 
 ### Research sessions
 We plan to run the research sessions between Wednesday, January 26, and Friday, February 4th.
