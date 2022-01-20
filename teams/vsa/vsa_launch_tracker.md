@@ -76,3 +76,4 @@ Debt Resolution	| 	Medical Copays	| 	MVP	| 	Jan 13, 2022	| 	No	| 	Medical Copays
 Health care Exp	| 	Demographic Confirmation Page	| 	Confrim basic demographics information	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm demographic information during mobile Check-in	| 
 Health care Exp	| 	Next-of-Kin Page | 	Confirm NOK information	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm NOK information  during mobile Check-in	| 
 Health care Exp	| 	Emergency Contact Page	| 	Confrim Emergency Contact information	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm Emergency Contact information during mobile Check-in	| 
+Health care Exp	| 	Pre-Check-in MVP	| 	Pre-Check-in 	| 	8/26/2021	| 	No	| 	Allows veterans the ability to review and confirm information from the check-in application prior to the day of appointment	| 
