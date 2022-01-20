@@ -42,70 +42,88 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 
 ## Warm-up Questions (Optional) - 5 minutes
 
-Before we look at the prototype, let’s start with a few warm-up questions.
+Let’s start with a few warm-up questions, 
+
+- Tell me just a little about yourself.
+- What has your experience with the VA been like?
+- [If needed] What was your favorite MRE meal?
+- [If needed] What about when you got out of the military? What was your favorite meal when you were back home?
+- Where do you live?
+- In which situations do you speak Spanish or English in your everyday life?
+- Do you have any beneficiaries, or family members who also receive benefits from the VA?
+- Do you also have a caretaker who manages benefits on your behalf?
+- Do you know if any of them use Spanish as their preferred language?
 
 
- - What kind of information do you usually need from the VA?
- - When you need general VA information, how do you find it?
- - When you need personal information from the VA, how do you find it?
- - In which situations do you look for information in Spanish rather than in English?
- - [If aplicable] What do you do when you can't find this information?
- - [If aplicable] Do you know of other family members of other veterans who depend solely on Spanish information? What information do they usually look for? How?
- - What's has your general experience with chatbots been like?
 
 
+## First Task: [Information Needs] - 5-10 minutes
 
-## First Task: [Screen Share] - 1-2 minutes
+- Think of the last times you needed to find out information about the VA, what information were you looking for?
+- What about personal information?
+- In which situations do you look for information in Spanish rather than in English?
+- Was there information or services you would like to find in Spanish?
+- Have there been services or information you or your family (conocidos) have needed that you consider related to being hispanic?
+- Have there been situations where you were unable to find the information you needed? Why?
+- How did you solve it?
 
-- I'd like you to share your screen with me. Can you click on the green share screen button, located at the bottom middle of the Zoom window.
-- Please select your desktop window to share so we can be sure to see the web browser you're using.
+
+###Things to watch for:
+
+The veteran feeling open and comfortable that what he is safe in all he says and information shared about immigration status etc.
+
+
+## Second Task: [Interacting with the VA] - 2-3 minutes
+
+- Thinking of the last times you needed to find information, how did you find it? Please describe the actions you took.
+- What did you find helpful and what challenges did you find during this process?
+- How would you prefer finding information about the VA? Why?
+- How do you find what you need when most information is in English?
+- Can you describe any pain points you’ve experienced when information is in English?
+- How do you share information with someone who needs it in Spanish?
+- Have you ever been able to get information from other Government agencies that offer information in Spanish? What was your experience like?
+
+
+## Third Task: [Interacting with chatbots] - 5 minutes
+
+- Have you ever used chatbots before? Why or why not?
+- In which cases have you used them?
+- What has your experience been like?
+- What would you expect from a Chatbot from the VA?
+- How do you (would you) use them if they were only in English?
+
+
+## Fourth Task: [Virtual Agent reaction and expectations] - 5 minutes
+
+- I’m going to share with you my screen. 
+- Can you take a moment to familiarize yourself with the webpage I just opened?
+ 
+- What would you imagine you can do on this page?
+- See the box on the right side, what does it do?
+- Think of one of the cases you mentioned before. How would you go on about trying to find this information?
+- How would you ask the chatbot for this information? In which language?
+
+[If applicable] Where would you switch to Spanish?
+[If chatbot is on] Type in the question in English.
+
+- What answer would you expect back?
+- What would be the most helpful thing for you if you used the chatbot?
+
+## Fifth Task: [Virtual Agent Response]
+
+Please take a moment to look at the chatbot response. What do you think about the info provided? Is it helpful? Why or why not? 
+What would you do next?
+[If applicable] Would you expect the next page to be in English or Spanish?
+If the answers were only available in English what would you do next?
+If the bot is not able to give you  your answer, what would you do?
+
 
 ### Things to watch for:
 
-- Are they able to find the share screen button?
+- What would they ask?
+- What response do they get?
+- Depending on how comfortable they are in English, to translate or support them?
 
-## Second Task: [Open Chatbot URL] - 2-3 minutes
-
-- You should have just received a link to your provided email to access the chatbot. Can you please open it now? 
-- Can you take a moment to familiarize yourself with the webpage you just opened?
-- Next I'd like you to use the provided username and password from the same email to sign into to the chatbot.
-- Take a moment to read the intro text and let me know if it is clear or if there is anything confusing. 
-- What do you think this text means? What would you do next?
-- --What do you think about the crisis disclaimer?
-
-
-### Things to watch for:
-
-- Are they able to find the provided link and open it. If not we can dictate the url or in worst case, share our screen and sign in to demo the tool.
-- Do they sign in using the button in the chatbot or the regular sign in button on the upper right corner of the webpage?
-- Do they read the intro text to the chatbot?
-- **Do they struggle with the lack of Spanish in the site? Can they start the conversation?**
-
-## Third Task: [Ask General Question] - 5 minutes
-
-- Now that you have read the intro text, I'd like you to ask the chatbot a general question about benefits **in Spanish(?)**.
-- Please take a moment to read the chatbot response and click any links that may be relevant to your question. What do you think about the info provided? Is it helpful? Why or why not? If not, what would you expect to see as a response instead?
-- [If they can't understand the content] What would you do next to try to find this information? What action would you take?
-- Please copy/paste the next view you want to read
-- And lastly please copy/paste the remaining view to read the response.
-
-### Things to watch for:
-
-- Which view do they choose and in what order?
-- Do they automatically click provided links in the response?
-- Do they find their answers?
-
-## Fourth Task: [Ask about Claims] - 5 minutes
-
-- Ok, now I'd like you to ask the chatbot about the status of your fake users disability claim.
-- Please take a moment to read the chatbot response. What do you think about the info provided? Is it helpful? Why or why not? If not, what would you expect to see as a response instead?
-- What step would you take next based on the buttons provided in the chat window? Why would you choose that button?
-
-### Things to watch for:
-
-- Does the participant click the Speak with agent button? What do they think of the response after they click it?
-- Does the participant understand the answer from the structure?
-- Can they ask the right question?
 
 ## Post-Task Interview - 5-10 minutes
 
@@ -113,6 +131,8 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 - [If aplicable] How do you feel about the voice and tone of the response you received?
 - If the chatbot couldn't answer your question but could connect you to a live agent chat, would you prefer that over speaking by phone with the VA help desk/contact center?
 - Was it clear what all the buttons did (button labels) or where all the links went? Would you rephrase any of the buttons?
+
+
 - Based on your experience today, are you willing to use the chatbot again?
 - What additional feature to the chatbot would improve your experience?
 - Do you have any other feedback you'd like to share?
