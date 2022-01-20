@@ -2,20 +2,20 @@
 
 ## Background
 
-There are multiple related content strategy and IA efforts in progress at this time. And there is a need to continue moving forward with implementation (i.e., office content migration, non-OCTO author pilot for R&S, etc.). However, there is also a need to continue to build and refine a foundational content and IA strategy for the overall VA content ecosystem that will allow VA to provide information to the right person in the right place at the right time—now and in the future.
+There are multiple related content strategy and IA efforts in progress at this time. And there is a need to continue moving forward with implementation (i.e., office content migration, non-OCTO author pilot for R&S, etc.). However, there is also a need to continue to build and refine a foundational content and IA strategy for the overall VA content ecosystem that will allow VA to effectively reuse content and provide information to the right person in the right place at the right time—now and in the future.
 
-Because we must keep moving forward with implementation, we aim to build and refine the overall strategy organically in parallel while testing hypotheses in small, achievable efforts. We also aim to contiually map these small, achievable efforts back to the growing overall strategy so that teams and partners can remain aligned and can collaborate effectively. We will continue to reevaluate the overall strategy, capture content and IA debt when direction changes, and provide a pathway for understanding the strategy as it evolves. 
+Because we must keep moving forward with implementation, we aim to build and refine the overall strategy organically and in parallel while testing hypotheses in small, achievable efforts. We also aim to contiually map these small, achievable efforts back to the growing overall strategy so that teams and partners can remain aligned and can collaborate effectively. We will continue to reevaluate the overall strategy, capture content and IA debt when direction changes, and provide a pathway for understanding the strategy as it evolves. 
 
 ## Contacts
 
-For questions about these content strategy and IA efforts, reach out to Danielle Thierry and Mikki Northuis:
+For questions about overall content strategy and IA efforts, reach out to Danielle Thierry and Mikki Northuis:
 #va-sitewide-content-ia slack
 
 ## Collaboration documents
 
 ### Discovery of all potential content types in the VA content ecosystem
 
-This is a working Mural board designed to capture potential content types in the VA content ecosystem. Are you working on a discovery effort related to VA content? We encourage you to actively participate in this Mural as you go, adding sticky notes based on what you find. We'll regularly review this board and reach out to talk more about discovery findings and progress.
+This is a working Mural board designed to capture potential content domains in the VA content ecosystem. Are you working on a discovery effort related to VA content? We encourage you to actively participate in this Mural as you go, adding sticky notes based on what you find. We'll regularly review this board and reach out to talk more about discovery findings and progress.
 
 [Content types mural board](https://app.mural.co/t/mikkiva8222/m/mikkiva8222/1642004034812/cf1c56cf22033fd7650baa22bcb60d9a6d0f88db?sender=mikki1741)
 
