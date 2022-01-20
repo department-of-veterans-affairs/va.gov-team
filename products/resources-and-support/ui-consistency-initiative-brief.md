@@ -68,7 +68,7 @@
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - We will need to work with the CMS team to pull in description text for linked articles within the  'Related information' section
+  - We will need to work with the CMS team to pull in description text for linked articles within the  'Related information' section 
   - There are currently 5-6 different templates being used. We need to migrate articles in an organized fashion. The templates that exist and that are in use today: 
   - https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/checklist.drupal.liquid
 https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/q_a.drupal.liquid
@@ -76,7 +76,7 @@ https://github.com/department-of-veterans-affairs/content-build/blob/master/src/
 https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/faq_multiple_q_a.drupal.liquid
 https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/layouts/support_resources_detail_page.drupal.liquid
 
-- Placeholder-Nicole meeting with Kevin Walsh to determine the best way to handle the migration of the old form templates to the new. My intial suggestion would be to do a test with each one to determine how smoothly the transition will go. 
+- The templates themselves will not need to change. The design elements can be applied to each of the R&S Articles. We should however test a few before we change all forms. Proposal to test 5-10 articles of the 70 before the overall change is made. 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
