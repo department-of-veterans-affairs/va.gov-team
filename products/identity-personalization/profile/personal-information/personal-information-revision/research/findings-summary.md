@@ -24,25 +24,19 @@ Christina Gednalske christina.gednalske@adhocteam.us
 
 # Research Goals
 
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The information in Personal information fits in all stages of the Veteran journey, as Veterans may need to update their information on the VA.gov Profile throughout their lives. The information Veterans share in this part of Profile is particularly relevant for healthcare and especially applies to the Taking Care of Myself phase. 
 
-Evaluate whether Veterans understand the terminology used in the Personal Information section as it pertains to updating or changing their preferences.
+Research focus:
+
+* Evaluate whether Veterans understand the terminology used in the Personal Information section as it pertains to updating or changing their preferences.
 Validate that the order of information makes sense to Veterans.
 Evaluate whether or not Veterans understand what this information is and why we are asking for it.
 
-We will use the learnings from this research to determine if any content or IA changes are needed and refine our designs accordingly before we release this feature to Veterans.
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
+* We will use the learnings from this research to determine if any content or IA changes are needed and refine our designs accordingly before we release this feature to Veterans.
 
 
 
 # Research Questions
-
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
 
 Content/IA:
 * Do the fields/information presented in the Personal Information section match Veterans' expectations?
@@ -60,18 +54,8 @@ Relevance/Privacy/FAQ:
 
 We conducted remote, moderated interviews using Zoom. The sessions were moderated using a high-fidelity prototype showing different edit states to allow participants to respond to the options for each state. We were most interested in feedback regarding content and IA; ability to move through and edit the forms on Profile has already been tested in previous research.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
 
 # Hypotheses and Conclusions
-
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 * Veterans will understand how to update their personal information preferences
 	* DEFINITELY TRUE
@@ -90,17 +74,15 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 # Key Findings
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
-
 1. Veterans are not confident their personal information will be used for their benefit.
 
-2. Veterans understand the terminology used, with some suggestions for additions or changes.
+2. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
 
-3. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
+3. Veterans understand the terminology used, with some suggestions for additions or changes.
 
-4. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
+4. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
 
-5. Veterans who did not identify as other than straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
+5. Veterans who identify as straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
 
 6. Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.
 
@@ -111,15 +93,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 # Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 ### 1. Veterans are not confident their personal information will be used for their benefit.
-
-Labels: label 1, label 2 - _List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Participants shared concerns that this information could be used to the Veteran’s disadvantage, including that the Veteran could be judged and treated differently by VA staff.
 
@@ -156,7 +130,26 @@ Participants' general perception was that the VA is gathering this information f
 >_“Again I don’t know why the VA needs that but there's probably a reason for it.” - P6_
 
 
-### 2. Veterans understand the terminology used, with some suggestions for additions or changes.
+### 2. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
+
+The participants identifying as gay or transgender expressed concern for the inclusion of Sex assigned at birth and sexual orientation. 
+
+> _“Sex assigned at birth, I don't understand why that's there. That brings up a whole different bag of worms for people who are transgender. - P8"_
+
+A transgender participant conveyed that forcing transgender folks to see sex assigned at birth is traumatic as it is information they do not consider their own and actively work to change or get rid of, as well as discrimination faced when revealing this information in medical setting. This participant also conveyed his own experiences facing medical discrimation due to this information. 
+
+> _“Still keeping initial information on file and making you see it, then putting new stuff, almost like they aren’t accepting you.” - P8_
+
+> _“I don’t know about other places but in NC they will not let transgenders donate blood. It is almost like being discriminated against.” - P8_
+
+A gay participant repeatedly expressed his or friends’ experiences of sexual orientation information being used in harmful ways, and conveyed that not only would he not filled out the information, he would also call the VA and complain if it were listed on his profile.
+
+> _“I would call someone at VA and complain [if I saw sexual orientation in my own profile].” - P3_
+
+Overall, both participants felt that these respective fields would have negative consequences. Neither participant saw any benefit in including these fields.
+
+
+### 3. Veterans understand the terminology used, with some suggestions for additions or changes.
 
 Suggestions for changes, additions, or removals included the following:
 
@@ -166,7 +159,7 @@ Suggestions for changes, additions, or removals included the following:
 
 * Missing gender fluid from gender identity list
 
-> _“Gender fluid because some don’t want a categorize, its just a different category of gender.” - P8_
+> _“Gender fluid because some don’t want a category, it's just a different category of gender.” - P8_
 
 * Missing asexual, pansexual, omnisexual from sexual orientation options
 
@@ -180,7 +173,7 @@ Suggestions for changes, additions, or removals included the following:
 
 > _“Queer. I hate that term. To me, queer means different, odd, not normal.” - P3_
 
-> _"Homosexual is an old fashioned term. - P3"
+> _"Homosexual is an old fashioned term. - P3"_
 
 * Adding a title field could help amplify the selection made in pronoun
 
@@ -193,7 +186,7 @@ Suggestions for changes, additions, or removals included the following:
 > _“I would like to be able to make it clear with a very simple checkbox - which I was able to do on my military dog tags for 26 years - to just say 'hey I’m atheist.'... There’s a significant population in America who are atheist and for whom it is part of their identity.” - P1_
 
 
-### 3. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
+### 4. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
 
 Preferred name created confusion - 3 participants were unsure about what name to enter and how the entry would be used.
 
@@ -222,26 +215,7 @@ Optional vs required - A majority of participants interpreted the fields as requ
 > _“Just looking here I don’t think it is required but since it has Edit I think it means I need to do something with it.” - P13_
 
 
-### 4. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
-
-The participants identifying as gay or transgender expressed concern for the inclusion of Sex assigned at birth and sexual orientation. 
-
-> _“Sex assigned at birth, I don't understand why that's there. That brings up a whole different bag of worms for people who are transgender. - P8"_
-
-A transgender participant conveyed that forcing transgender folks to see sex assigned at birth is traumatic as it is information they do not consider their own and actively work to change or get rid of, as well as discrimination faced when revealing this information in medical setting. This participant also conveyed his own experiences facing medical discrimation due to this information. 
-
-> _“Still keeping initial information on file and making you see it, then putting new stuff, almost like they aren’t accepting you.” - P8_
-
-> _“I don’t know about other places but in NC they will not let transgenders donate blood. It is almost like being discriminated against.” - P8_
-
-A gay participant repeatedly expressed his or friends’ experiences of sexual orientation information being used in harmful ways, and conveyed that not only would he not filled out the information, he would also call the VA and complain if it were listed on his profile.
-
-> _“I would call someone at VA and complain [if I saw sexual orientation in my own profile].” - P3_
-
-Overall, both participants felt that these respective fields would have negative consequences. Neither participant saw any benefit in including these fields.
-
-
-### 5. Veterans who did not identify as other than straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
+### 5. Veterans who identify as straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
 
 > _"I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1_
 
@@ -336,8 +310,6 @@ One participant noted that he would prefer a different page layout that did not 
 
 *Mockup of recommendations below (link)*
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
 1. Consider editing/updating FAQs to
 	* mention the connection to/partnership with the LGBTQ Health Services to build trust from Veterans who are part of the LGBTQ communty as far as why the VA is asking for the info
 	* include additional context/examples concerning how the VA will use this information
@@ -361,12 +333,14 @@ _Put together initial recommendations here based on your findings along with sup
 
 # Next Steps
 
-_Next steps here. Include owners if appropriate._
+* Work with Danielle Thierry to determine direction for content and IA-related changes.
 
 
 # Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+Findings do not include the perspectives from users of assistive technology other than initial accessibility feedback from designs/prototype.
+
+When changes are made, our team will complete UAT with screen readers and ask additional questions related to ensure we have addressed concerns from this study.
 
 
 # Appendix
@@ -380,7 +354,7 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+Mural Board
 
 
 ## Pages and applications used
@@ -395,19 +369,17 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+Our team also consulted Amy Paris, who is our colleague through the United States Digital Service and works on behalf of the following groups:
+* The USDS SOGI Data Discovery Sprint (Feb-Mar 2021) – Team Lead.
+* The White House Equitable Data Working Group (EDWG), Sub-Group on Demographic Data Collection in Administrative Forms and Benefits Applications (ongoing work) – Chairperson. 
+* The White House Interagency Policy Committee on Gender Markers – Co-Chairperson.
 
 
 ## Who we talked to 
 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
-
 **Recruitment criteria**
 
-Our focus in this study was to speak with Veterans from the LGBTQ community. The study resulted in a 62% no-show/cancellation rate, particularly among Veterans in the underrepresented groups we were aiming to include: Veterans identifying as other than straight or heterosexual and Veterans identifying as other than cis-gender. This high rate is something to take note of and look into to improve the recruitment process. Why were these participants more likely to cancel and how can we better recruit participants from these groups?
+Our focus in this study was to speak with Veterans from the LGBTQ community. The study resulted in a 62% no-show/cancellation rate, 71% among Veterans in the underrepresented groups we were aiming to include: Veterans identifying as other than straight or heterosexual and Veterans identifying as other than cis-gender. This rate is something to note and look into to improve the recruitment process. Why were these participants more likely to cancel and how can we better recruit participants from these groups?
 
 We talked to **5**
 
@@ -443,10 +415,10 @@ Age:
 
 * 25-34: 0
 * 35-44: 2
-* 45-54: 1?
+* 45-54: 0
 * 55-64: 2
 * 65+: 0
-* Unknown: 0
+* Unknown: 1
 
 
 Education:
@@ -496,7 +468,6 @@ Disability and Assistive Technology (AT):
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
 
 * Hispanic
 * Biracial
