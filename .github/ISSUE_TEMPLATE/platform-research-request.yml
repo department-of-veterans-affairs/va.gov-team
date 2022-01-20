@@ -10,16 +10,16 @@ body:
     attributes:
       value: |
         If you have a request for research to validate a Platform product, complete the information below. The more information the Service Design team has, the faster we can process the request.
-- type: textarea
-    id: topic
+  - type: textarea
+    id: background
     attributes:
       label: Briefly describe the background of this product or service?
       description: "What would a new person on the team need to know about this product? Link to the product outline."
       placeholder: 
     validations:
       required: true
-- type: textarea
-    id: topic
+  - type: textarea
+    id: goals
     attributes:
       label: What are your goals for this research?
       description: "What product [tool/service/document/process] & Platform team are you doing this research for? What are you trying to learn from this research?"
@@ -27,7 +27,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: benefit
+    id: outcomes
     attributes:
       label: What outcomes are you looking for?
       description: "How will this research advance your product to the next phase in the design process? What will you do with your learnings?"
@@ -35,7 +35,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: Describe 
+    id: questions 
     attributes:
       label: Research questions
       description: "What question(s) do you hope to be able to answer after completing this research?"
@@ -43,7 +43,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: evidece
+    id: hypothesis
     attributes:
       label: What is your hypothesis for your study?
       description: "What do you intend to learn and measure from this study?"
@@ -51,7 +51,7 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: Participants
+    id: participants
     attributes:
       label: Roles
       description: Indicate which roles you'd like to include in this study (select all that apply)
