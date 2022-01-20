@@ -357,12 +357,12 @@ Once design changes are made and on staging, our team will complete UAT with scr
 
 ## Tools used for Synthesis
 
-![Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1641241600762/51d50aa06263b15093999964d0be54d9ff92c20d?sender=u28f508d646c449cc1afe4873)
+[Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1641241600762/51d50aa06263b15093999964d0be54d9ff92c20d?sender=u28f508d646c449cc1afe4873)
 
 
 ## Pages and applications used
 
-![Personal information Prototype](https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i)
+[Personal information Prototype](https://preview.uxpin.com/82e734535b0ab60a1567348b1234e43b5318ad3a#/pages/144815586/simulate/no-panels?mode=i)
 
 
 ## Secondary research
