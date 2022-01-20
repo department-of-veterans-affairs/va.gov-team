@@ -22,7 +22,9 @@ _If this is for a new product, please input, 'N/A'_
 **Front-end information???**
 
 # Collaboration Cycle Kickoff questions:
-
+<details>
+  <summary>Click to see Collaboration Cycle Kickoff questions </summary>
+  
 ### 1. Will your work result in visible changes to the user experience?
 - [ ] Yes
 - [ ] No
@@ -78,7 +80,8 @@ Examples of **research with VA.gov users** include:
 - [ ] NCA (National Cemetery Administration)
 - [ ] VACO (Veterans Affairs Central Office)
 - [ ] Other. Please specify: ____________
-
+</details>
+ 
 # Artifacts
 ### Product Artifacts
 - [ ] Product outline
