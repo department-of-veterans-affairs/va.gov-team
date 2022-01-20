@@ -1,6 +1,20 @@
 # VA Mobile team - Release Highlights
 
 
+## Release: 2/1/22
+
+New + Improved
+
+- Pagination added to the vaccine detail screen 
+
+Bug Fixes
+
+- Address screen reader accessibility issues
+  - Announce save & delete draft buttons
+  - Limit the copy/paste functionality to only certain sections of the app which were causing accessibility issues
+- Fix display of correct mailing address within the letters overview flow
+- Display of direct deposit check sample image that was missing 
+
 ## Release: 1/18/22
 
 New + Improved
