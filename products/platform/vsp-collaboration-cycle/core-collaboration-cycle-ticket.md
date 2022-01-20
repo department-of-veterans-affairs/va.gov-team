@@ -183,4 +183,28 @@ Zoom Recording:
 
 Zoom password:
 
+## Staging Review
+### VFS Actions
+- [ ] Schedule your Staging Review when ready:
+   - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/staging-review)
+   - Select a date and time and click “Confirm”
+   - Add your name and email
+   - Click "Add Guests" and enter the VFS meeting attendees email addresses. 
+   - Click Schedule Event
+- [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
+- [ ] Please confirm that all requested artifacts are provided, as well as current and complete
+### Platform Actions
+- [ ] Design feedback provided
+- [ ] Accessibility feedback provided
+- [ ] IA feedback provided
+- [ ] Content feedback provided
+- [ ] QA feedback provided
 
+### Staging Review Details
+DraftingTemplate (for Platform use only): 
+
+Meeting date/time:
+
+Zoom Recording:
+
+Zoom password:
