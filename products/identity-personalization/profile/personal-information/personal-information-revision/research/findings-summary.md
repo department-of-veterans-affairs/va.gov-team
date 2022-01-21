@@ -202,7 +202,7 @@ Participants expected a text input field in the Gender identity section for addi
 
 > _“I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6_
 
-![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png" />
 
 2 participants interpreted the fields as being required rather than optional. This was due to the Edit button in the read state, and the (Required) label within the edit state. Other participants were not sure. 
 
@@ -234,14 +234,14 @@ Participants gave the impression that they were apprehensive about the fields ov
 
 > _“The order could be alphabetic or what the dominant is from most to least.” - P6_
 
-![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/alphabetize-sexual-orientation.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/alphabetize-sexual-orientation.png" width="50%" />
 
 **The mix of editable and uneditable fields created a dissociation with the FAQs and triggered some participants.** 
 This also contributed to participants not associating the information in the two FAQs with the corresponding fields (see finding 7), as well as contributing to concerns with the sex assigned at birth field (see finding 4). For participants identifying as other than straight or cisgender, the placement of sex assigned at birth mixed with the editable fields without context was triggering - something they were forced to look at yet could not change. 
 
 > _“If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1_
 
-![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/group-non-editable-fields.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/group-non-editable-fields.png" width="50% />
 
 
 ### 7. 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.
