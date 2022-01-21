@@ -1,4 +1,4 @@
-# VAOS Service Integration - Release Plan
+# DRAFT VAOS Service Integration - Release Plan
 
 Work for the vaos service integration is broken up into 4 toggles:
 - Community Care appointments (va_online_scheduling_vaos_service_cc_appointments)
