@@ -285,14 +285,33 @@ Midpoint review; Research planning
 ## Sprint 66 (1/26 - 2/8)
 [Sprint 66 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30271)
 
-Payment history
+### General
+
+- Onboard Angela
+
+### Payment history
+
+**PM**
+
+- Determine when we will be ready for QA & request QA for that sprint
+
+**Design**
 
 - Design for error states
-- FE -- implement error states
+- Any design updates that came out of testing
 
-On-site notifications
+**FE***
 
-- FE: Connect BE to FE if BE build is done. 
+- Implement error states if design tickets are available with enough time before the end of the sprint
+- Implement changes from user testing if design tickets are available with enough time before the end of the sprint
+
+### On-site notifications
+
+Are we on hold for this besides backend build?
+
+**BE**
+
+- Is there backend work to do? If so, continue BE build
 
 ## Sprint 67 (2/9 - 2/22)
 [Sprint 67 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30272)
