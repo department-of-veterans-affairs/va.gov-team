@@ -61,8 +61,8 @@ Facilities	| 	Vet Centers	| 	Vet Centers - Colorado Springs, Nashville	| 	7/14/2
 Claims & Appeals	| 	Disability Claims Tool-526	| 	526 wizard updates	| 	7/16/2021	| 	yes	| 	Moves the wizard to the intro page to reduce confusion	| 	11/19/2021
 Auth Experience	| 	My VA	| 	Launch of My VA re-design	| 	7/19/2021	| 	yes	| 	My VA provides Veterans with a direct route to their most critical tasks and updates based on their unique circumstances at the VA.	| 	8/27/2021
 eBenefits Migration	| 	Manage Dependents	| 	Launch ability to Manage Dependents (686) on VA.gov	| 	8/23/2021	| 	no	| 	Allow Veterans to manage their dependent information directly on VA.gov	| 	10/22/2021
-Health care Exp	| 	Check-in	| 	Launch Check-in @ first site (Martinsburg, WV)	| 	8/26/2021	| 	no	| 	Allow patients to check-in for appointments via mobile device	| 	11/19/2021
-Health care Exp	| 	Check-in Check-in Experience	| 	Last4LastName Additional Identity Validation	| 	8/26/2021	| 	Yes	| 	Implement Last Name and Last 4 of SSN for identity validation in the check-in process.	| 	
+Health care Exp	| 	Check-in Experience	| 	Launch Check-in @ first site (Martinsburg, WV)	| 	8/26/2021	| 	no	| 	Allow patients to check-in for appointments via mobile device	| 	11/19/2021
+Health care Exp	| 	Check-in Experience	| 	Last4LastName Additional Identity Validation	| 	8/26/2021	| 	Yes	| 	Implement Last Name and Last 4 of SSN for identity validation in the check-in process.	| 	
 Health care Exp	| 	Check-in Experience	| 	Multiple Appointment Capability	| 	8/26/2021	| 	Yes	| 	Implement ability for a Veteran to check in for multiple applointments in a single day using the mobile experience.	| 	
 Debt Resolution	| 	VA.gov Debt Portal	| 	Enhanced Landing Page Experience	| 	10/1/2021	| 	yes	| 	Retirement of Legacy Debtman Site and incorporation of veteran facing plain language. Coincides with VA Debt Restart which has been suspended since April 20,2020	| 	
 Debt Resolution	| 	Financial Status Report (FSR)	| 	MVP	| 	11/16/2021	| 	No	| 	Allow Veterans to submit the Financial Status Report. The initial launch on May 18, 2021 was rolled back and is now being relaunched.	| 	
