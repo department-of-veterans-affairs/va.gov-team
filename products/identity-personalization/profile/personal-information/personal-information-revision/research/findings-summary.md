@@ -30,10 +30,12 @@ Research focus:
 
 * Evaluate whether Veterans understand the terminology used in the Personal Information section as it pertains to updating or changing their preferences.
 Validate that the order of information makes sense to Veterans.
-Evaluate whether or not Veterans understand what this information is and why we are asking for it.
 
-* We will use the learnings from this research to determine if any content or IA changes are needed and refine our designs accordingly before we release this feature to Veterans.
+* Evaluate whether or not Veterans understand what this information is and why we are asking for it.
 
+We will use the learnings from this research to determine if any content or IA changes are needed and refine our designs accordingly before we release this feature to Veterans.
+
+We also made a recent change to the address update flow in contact information section of profile, and added a task to this study to evaluate how the new flow works for Veterans.
 
 
 # Research Questions
@@ -48,6 +50,11 @@ Content/IA:
 
 Relevance/Privacy/FAQ:
 * Do Veterans understand what this information is and why we are asking for it? (FAQ)
+
+Address Modal Update:
+* Do Veterans understand the modal prompts that appear after updating their home address?
+* Do Veterans have any trouble following the prompts to update mailing address?
+* What do Veterans expect to happen when the "Use my mailing address as my home address" checkbox is checked?
 
 
 # Methodology 
@@ -74,17 +81,17 @@ We conducted remote, moderated interviews using Zoom. The sessions were moderate
 
 # Key Findings
 
-1. Veterans are not confident their personal information will be used for their benefit.
+1. Participants are not confident their personal information will be used for their benefit.
 
-2. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
+2. Participants who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
 
-3. Veterans understand the terminology used, with some suggestions for additions or changes.
+3. Participants understand the terminology used, with some suggestions for additions or changes.
 
-4. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
+4. Participants found that certain elements of the UI/Design created confusion around the information and fields presented.
 
-5. Veterans who identify as straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
+5. Participants who identify as straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
 
-6. Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.
+6. Current IA (layout and order) contributes to participants' overall concerns and lack of acceptance of the Personal information section.
 
 7. 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.
 
@@ -115,19 +122,13 @@ Participants' general perception was that the VA is gathering this information f
 
 > _“Is someone really going to look at this before they address me to make sure they're using my correct pronoun?” - P13_
 
-> _“If it is used on the medical side they can help but it’s a double edged sword. In data collection and who is serving who and to improve it for management, then it would be more beneficial.” - P8_
-
 >_“So there’s two aspects of this, there’s the placement of the pronouns that offers the client the ability to identify the pronouns, and then there’s how comfortable they are with the concept that the healthcare provider is going to abide by those pronouns in a non-judgmental way. Because our healthcare providers are also bringing their prejudices with them.” - P1_
-
->_“the VA is looking at the overall demographics of their client and trying to have a good understanding of who it is they’re dealing with so they can either provide care and/or services outside of care in a much more efficient manner. If you have good demographic information on your clients then you’re able to reach them better.” - P1_
 
 >_“There's a very real possibility that someone in the VA system would see that and automatically take up arms against them. They could do something detrimental to that person without that person realizing it. But you know, it's caused a ripple effect down to where it does hurt that person.” - P3_
 
 >_“I don’t know about other places but in NC they will not let transgenders donate blood. It is almost like being discriminated against.” -P8_
 
 >_“I mean going back up here and it says the factors can affect a person’s health, staff will use them when there. I understand the theory but there's a difference, they will have it vs they will use the information. Unless it is implemented by a standard or regulation it doesn’t matter.” - P8_
-
->_“Again I don’t know why the VA needs that but there's probably a reason for it.” - P6_
 
 
 ### 2. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
@@ -136,13 +137,13 @@ The participants identifying as gay or transgender expressed concern for the inc
 
 > _“Sex assigned at birth, I don't understand why that's there. That brings up a whole different bag of worms for people who are transgender. - P8"_
 
-A transgender participant conveyed that forcing transgender folks to see sex assigned at birth is traumatic as it is information they do not consider their own and actively work to change or get rid of, as well as discrimination faced when revealing this information in medical setting. This participant also conveyed his own experiences facing medical discrimation due to this information. 
+A transgender participant conveyed that forcing transgender folks to see sex assigned at birth is traumatic, as they see it as inaccurate information that they have worked hard to change. It also brings up thoughts about discrimination faced when revealing this information in medical setting. This participant also conveyed their own experiences facing medical discrimation due to this information. 
 
 > _“Still keeping initial information on file and making you see it, then putting new stuff, almost like they aren’t accepting you.” - P8_
 
 > _“I don’t know about other places but in NC they will not let transgenders donate blood. It is almost like being discriminated against.” - P8_
 
-A gay participant repeatedly expressed his or friends’ experiences of sexual orientation information being used in harmful ways, and conveyed that not only would he not filled out the information, he would also call the VA and complain if it were listed on his profile.
+A gay participant repeatedly expressed his or friends’ experiences of sexual orientation information being used in harmful ways, and conveyed that not only would he not fill out the information, he would also call the VA and complain if it were listed on his profile.
 
 > _“I would call someone at VA and complain [if I saw sexual orientation in my own profile].” - P3_
 
@@ -188,9 +189,9 @@ Suggestions for changes, additions, or removals included the following:
 
 ### 4. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
 
-Preferred name created confusion - 3 participants were unsure about what name to enter and how the entry would be used.
+The label "preferred name" created confusion - 3 participants were unsure about what name to enter and how the entry would be used.
 
-> _“I guess I am confused on what I am updating. [...] I would probably have given you my full name.” - P6_
+> _“I guess I am confused on what I am updating ... I would probably have given you my full name.” - P6_
 
 > _“I would say [first name last name]. I don't use my middle name unless it's absolutely necessary for legal documents. That's all I would enter.” - P3_
 
@@ -198,13 +199,15 @@ Preferred name created confusion - 3 participants were unsure about what name to
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/preferred-name.png" width="50%" />
 
-Gender identity - Would expect a text input field in Gender identity for additional options.
+Participants expected a text input field in the Gender identity section for additional options.
 
 > _“I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6_
 
 ![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png)
 
-Optional vs required - A majority of participants interpreted the fields as required rather than optional due to the Edit button or (Required) within the edit state, or they were not sure. Participants gave the impression that these fields seemingly being required also contributed to their apprehension about the fields overall - because they felt they were being forced to respond.
+2 participants interpreted the fields as being required rather than optional. This was due to the Edit button in the read state, and the (Required) label within the edit state. Other participants were not sure. 
+
+Participants gave the impression that they were apprehensive about the fields overall, because they felt they were being forced to respond.
 
 > _“It says required in red. Unless it directly has an impact on my care or disability I don’t know why it needs to be shared, it should be an option.” - P13_
 
@@ -219,14 +222,12 @@ Optional vs required - A majority of participants interpreted the fields as requ
 
 > _"I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1_
 
-> _“I understand why it’s [pronouns] there and I think it should stay, but it’s a personal issue. I will not update it because I don’t need to.” -P6_
-
-> _“I wont get into that but it seems a bit much for me. I understand why though.” - P6_
+> _“I understand why it’s [pronouns] there and I think it should stay, but it’s a personal issue. I will not update it because I don’t need to.” - P6_
 
 > _“It is a lot of gender, assign birth sex and sexual orientation for just my personal information on the VA website. I understand why it may be useful, so I get it. It is okay, I just didn’t expect to see it.” - P13_
 
 
-### 6. Current IA (layout and order) contributes to Veterans' overall concerns and lack of acceptance of the Personal information section.
+### 6. Participants shared concerns caused by the order of options within each section, and how sections were grouped together.
 
 2 participants suggested alphabetizing items to remove social hierarchy. This came up most for Sexual orientation field, for which participants found the current order confusing or thought it might bring up concerns. 
 
@@ -236,7 +237,8 @@ Optional vs required - A majority of participants interpreted the fields as requ
 
 ![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/alphabetize-sexual-orientation.png)
 
-**Suggested grouping uneditable fields together separately from editable fields.** This also contributed to participants not associating the information in the two FAQs with the corresponding fields (see finding 7), as well as contributing to concerns with the sex assigned at birth field (see finding 4). For participants identifying as other than straight or cisgender, the placement of sex assigned at birth mixed with the editable fields without context was triggering - something they were forced to look at yet could not change. 
+**The mix of editable and uneditable fields created a dissociation with the FAQs and triggered some participants.** 
+This also contributed to participants not associating the information in the two FAQs with the corresponding fields (see finding 7), as well as contributing to concerns with the sex assigned at birth field (see finding 4). For participants identifying as other than straight or cisgender, the placement of sex assigned at birth mixed with the editable fields without context was triggering - something they were forced to look at yet could not change. 
 
 > _“If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1_
 
@@ -246,7 +248,7 @@ Optional vs required - A majority of participants interpreted the fields as requ
 ### 7. 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.
 
 Participants did not always notice the FAQs or did not associate the FAQs with the fields in question. 
-One participant looked up and down the page multiple times, searching within the fields themselves, to find this information when prompted. It is important to note that Veterans usually asked “Why would the VA ask for this information?” when looking at specific fields, rather than the page as a whole.
+One participant looked up and down the page multiple times, searching within the fields themselves, to find this information when prompted. It is important to note that participants consistently asked “Why would the VA ask for this information?” when looking at specific fields, rather than the page as a whole.
 
 > _“The only thing I would offer is if it were my page and my DOB is wrong and there's no information on how to fix it I would be calling to see what’s going on.” - P6_
 
@@ -257,18 +259,16 @@ One participant looked up and down the page multiple times, searching within the
 Participants did not feel that the FAQ content fully addresses their questions or concerns.
 Once they had located the FAQs, 4 of 5 participants continued to express concerns for how and by whom the information would be used, making it clear that the information included did not sufficiently alleviate their concerns or answer questions, whether due to needing more information, such as specifics or examples, or simply not trusting the information provided. 
 
-> _“It doesn’t quite answer the question but I can figure it out. [...] I probably tend to say give me an example [...] Maybe a qualifier sentence like a link to learn more and that takes me somewhere with more depth about what I am bugged about if that makes sense. Just a learn more button would take me to more depth as to why something affects my quality of life.” - P6_
+> _“It doesn’t quite answer the question but I can figure it out . . . I probably tend to say give me an example . . . Maybe a qualifier sentence like a link to learn more and that takes me somewhere with more depth about what I am bugged about if that makes sense. Just a learn more button would take me to more depth as to why something affects my quality of life.” - P6_
 
 > _(Did the FAQ address your questions?) “It didn’t. I think it is more about collection of information and data points. I wouldn’t feel like it is about my care. It can just be a conversation with my provider.” - P13_
 
-> _“Everyone knows to contact the VA, that’s not easy to do. It doesn’t tell you which office it just says closest medical center. It’s a run around and a headache.” - P13_
-
-> _“I understand what they say here but it doesn’t tell me why they ask why they ask what you were born as.” - P8_
+> _“I understand what they say here but it doesn’t tell me why they ask what you were born as.” - P8_
 
 > _“Well, the people at the office that handle this kind of information, there needs to be a strict confidentiality clause for everybody to sign. First of all, everyone at the VA should sign one. Then they should make stricter ones for people who can share personal information. And really make strict and harsh consequences if they're caught using that information for personal gain.” - P3_
 
 
-### 8. 4 of 5 participants were able to easily understand how to update their home address to match their mailing address. Participants expressed varied opinions on the modals presented and the checkbox’s purpose. 
+### 8. 4 of 5 participants were able to easily navigate the process to match their addresses. Participants expressed varied opinions on the modals presented and the checkbox’s purpose.  
 
 4 participants had little trouble updating their information and were able to navigate through the reminder modals.
 
@@ -315,7 +315,7 @@ One participant noted that he would prefer a different page layout that did not 
 	* include additional context/examples concerning how the VA will use this information.
 	* point to privacy policies already in place for this information.
 2. Consider utilizing hint text to help Veterans understand the value of sharing this information with VA.  - (Ex: “How would you like to be addressed at appointments, etc.”). This is also better for accessibility.
-3.  Group together editable and non-editable fields and place relevant FAQ information within each section. This will benefit Veterans by removing confusion around the field types and providing important information for each section when it is most needed.
+3.  Group editable and non-editable fields together and place related FAQ information within each section. This will benefit Veterans by removing confusion around the field types and providing important information for each section when it is most needed.
 4.  Consider removing Sex assigned at birth field. If not possible, clearly convey where the information comes from, why it is included, and how to change it. (Ex: “This information comes from our ___ database. To edit this field…”)
 5.  Consider removing Sexual orientation field.
 6.  Consider removing transgender options from Gender identity field.
@@ -324,9 +324,8 @@ One participant noted that he would prefer a different page layout that did not 
 	* Add a Remove button (included elsewhere in Profile) to allow selection removal.
 8. Alphabetize Pronouns, Gender identity, and Sexual orientation options to minimize misinterpretation that options are in order of  “social hierarchy.”
 9. Add text input field in Gender identity section.
-10. Consider additional fields: Title / Religious Preferences.
-11. Consider rewording section headings to reflect "preferences" rather than demographic info survey.
-12. For Address Change - Explore ways to slow people down so they take more time to complete this task and understand the implications of having a different home and mailing address. (Ex: Consider editing via “one thing per page”)
+10. Consider adding Title and Religious Preferences as additional fields in future versions of personal information. Additional rounds of research can help evaluate whether or not this would be helpful to the Veteran population and VA.
+11. For Address Change - Explore ways to slow people down so they take more time to complete this task and understand the implications of having a different home and mailing address. (Ex: Consider editing via “one thing per page”)
 
 **Overview of Proposed Recommendations/Changes for IA/Content:**
 
@@ -344,6 +343,8 @@ One participant noted that he would prefer a different page layout that did not 
 Findings do not include the perspectives from users of assistive technology other than initial accessibility feedback from designs/prototype.
 
 Once design changes are made and on staging, our team will complete UAT with screen readers and ask additional questions related to ensure we have addressed concerns from this study.
+
+This study was heavily weighted toward white male participants with master's degrees. In future studies, we would like to include more women, BIPOC, and folks who don't have a higher degree. 
 
 
 # Appendix
