@@ -19,6 +19,7 @@ assignees:
 
 #### Point of Contact/Reviewers (Practice area)
 
+*For more information on how to interpret this ticket, please refer to the [Anatomy of a Staging Review issue ticket](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Anatomy-of-a-Staging-Review-Issue-ticket.2060320997.html) on Platform Website.
 
 ---
 
