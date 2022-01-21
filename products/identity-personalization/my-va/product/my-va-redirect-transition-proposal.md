@@ -1,4 +1,4 @@
-# Proposal for evaluating the redirect from the logged-out homepage to My VA after login
+# Proposal for evaluating the redirect from the homepage to My VA after login
 
 ## Plan overview
 
