@@ -1,5 +1,7 @@
 # Profile team priorities through Q1 - Q2 2022 (January - June) 
 
+## Big projects
+
 ### [Update personal information section of the profile: Add LGBTQ data points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md)
 
 We are integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile as part of a request from VEO and the LGBTQ Health Services office. This effort will allow veterans to more accurately define themselves within the VA, and it will help mitigate issues around veterans showing up to health appointments and being addressed improperly.
@@ -12,9 +14,22 @@ Even with the addition of email and text communications at the VA, mail is still
 
 **Targeted launch**: Q2 2022
 
-Other potential efforts
+## Small, incremental improvements
 
-- [Small update] Remove fax number field
+### Remove "Gender" field from the profile
+
+Currently, we have a read-only "Gender" field in the profile, which is more accurately trying to communicate sex assigned at birth. We have determined through our own research and through talking to the LGBTQ health services team that this field is not only not necessary to display in our profile, but it may also be triggering to folks within the transgender community. Therefore, we are no longer going to support this field.
+
+**Targeted launch**: Q1 2022
+
+### Remove the fax number field from the profile
+
+The fax number field is barely used, and is not a meaningful source of communication with the VA. The VA Profile team is finally ready to retire this field on the backend, which means we can retire it on the frontend. We'll work with them in the coming weeks to get this done.
+
+**Targeted launch**: Q1 2022 if VA Profile is ready to move quickly; Q2 2022 if it takes time to coordinat this effort
+
+## Other potential efforts
+
 - Integrate military information through VA Profile backend (currently integrates through eMIS)
   - Samara attending an introductory meeting about this on 1/26
 - Research effort: research how to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
