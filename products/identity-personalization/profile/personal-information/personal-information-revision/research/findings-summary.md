@@ -297,18 +297,9 @@ There were mixed responses for the use of the modals themselves.
 * One participant mentioned that the information included in the first modal may be too much for one modal and recommended splitting it out. Similarly, a few participants went through the modals without carefully reading the information. 
 
 
-# Additional Insights
-
-One participant noted that he expected to find his SSN / Military ID information within his personal information. 
-
-> _“I didn’t see the field for my SSN, or military id. EDIPI. The DoD number is different from the SSN. I question why it's not there.” - P6_
-
-One participant noted that he would prefer a different page layout that did not require so much scrolling.
-
-
 # Recommendations
 
-*Mockup of recommendations below (link)*
+*Mockup of recommendations below*
 
 1. Consider editing/updating FAQs to
 	* mention the connection to/partnership with the LGBTQ Health Services to build trust from Veterans who are part of the LGBTQ communty as far as why the VA is asking for the info
@@ -327,7 +318,7 @@ One participant noted that he would prefer a different page layout that did not 
 10. Consider adding Title and Religious Preferences as additional fields in future versions of personal information. Additional rounds of research can help evaluate whether or not this would be helpful to the Veteran population and VA.
 11. For Address Change - Explore ways to slow people down so they take more time to complete this task and understand the implications of having a different home and mailing address. (Ex: Consider editing via “one thing per page”)
 
-**Overview of Proposed Recommendations/Changes for IA/Content:**
+**Overview of Proposed Changes for IA/Content:**
 
 ![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/Content%20and%20IA%20Overview%20Mockup.png)_
 
