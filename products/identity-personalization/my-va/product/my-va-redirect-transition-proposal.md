@@ -1,15 +1,15 @@
-# Proposal for My VA --> logged-in homepage transition
+# Proposal for evaluating the redirect from the logged-out homepage to My VA after login
 
 ## Plan overview
 
-This is the high level proposal for a plan to transition the My VA dashboard to become the logged-in homepage:
+This is the high level proposal for evaluating how well My VA performs once we start redirecting users to it who login from the homepage. **This is not a plan for My VA to entirely replace the existing homepage**. Conversations on how to handle the VA.gov homepage in a logged-out vs. logged-in state are still ongoing.
 
 - Start transition after the "Benefit payments & debts" module on My VA launches (target: late March/early April 2022).
-- For people who login **from the homepage**, redirect them to My VA instead of keeping them on the homepage. Launch this to 25% of users for ~1 month, then evaluate analytics.
+- For people who login **from the homepage**, redirect them to My VA instead of keeping them on the homepage. Launch this to 25% of users for ~1 week, then evaluate analytics. If we can not meaningfully glean insights from 1 week's worth of analytics, we'll monitor for an additional week.
 - Determine next steps/tweeks. If necessary, make updates and changes to My VA before next phase of launch.
-- Launch to 50% of users for ~1 month, then evaluate analytics.
+- Launch to 50% of users for ~1 week, then evaluate analytics. If we can not meaningfully glean insights from 1 week's worth of analytics, we'll monitor for an additional week.
 - Determine next steps/tweeks. If necessary, make updates and changes to My VA before next phase of launch.
-- Launch to 100% of users for ~1 month, then evaluate analytics.
+- Launch to 100% of users for ~1 month, then evaluate analytics. If we can not meaningfully glean insights from 1 week's worth of analytics, we'll monitor for an additional week.
 - Determine next steps/tweeks. If necessary, make updates and changes to My VA.
 
 ## Analytics to monitor
@@ -20,7 +20,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **KPI**: We see less than a 10% increase or no increase in clicks back to the homepage from My VA.
 
-|Metric|1 month pre-launch | 1 month post-launch to 25% | 1 month post-launch to 50%| 1 month post-launch to 100%|
+|Metric|1 week pre-launch | 1 week post-launch to 25% | 1 week post-launch to 50%| 1 week post-launch to 100%|
 |-------|-----------|-----------|-----------|-----------|
 |Clicks to the homepage from My VA|TBD|TBD|TBD|TBD|
 
@@ -30,7 +30,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **KPI**: We see a 25% increase or greater for clicks into the following links:
 
-|Link name | # of clicks 1 month pre-launch | # of clicks 1 month post-launch to 25% |  # of clicks 1 month post-launch to 50%|  # of clicks 1 month post-launch to 100%|
+|Link name | # of clicks 1 week pre-launch | # of clicks 1 week post-launch to 25% |  # of clicks 1 week post-launch to 50%|  # of clicks 1 week post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |View claim|TBD|TBD|TBD|TBD|
 |Manage all your claims and appeals|TBD|TBD|TBD|TBD|
@@ -45,7 +45,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **KPI**: For searches initiated from My VA, searches for information found on both My VA and the homepage will stay the same or decrease.
 
-|Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
+|Search term| Rank 1 month pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |Disability rating|TBD|TBD|TBD|TBD|
 |Rating|TBD|TBD|TBD|TBD|
@@ -58,7 +58,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **KPI**: For searches initiated from My VA, searches for information found on the homepage but NOT My VA will increase.
 
-|Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
+|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |DD214|TBD|TBD|TBD|TBD|
 |Letter|TBD|TBD|TBD|TBD|
@@ -71,7 +71,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **KPI**: For logged-in users, searches for information found on both My VA and the homepage will stay the same or decrease for all VA.gov searches.
 
-|Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
+|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |Disability rating|TBD|TBD|TBD|TBD|
 |Rating|TBD|TBD|TBD|TBD|
@@ -84,7 +84,7 @@ This is the high level proposal for a plan to transition the My VA dashboard to 
 
 **KPI**: For logged-in users, searches for information found on the homepage but NOT My VA will increase for all VA.gov searches.
 
-|Search term| Rank 1 month pre-launch |Rank 1 month post-launch to 25% | Rank 1 month post-launch to 50%| Rank 1 month post-launch to 100%|
+|Search term| Rank 1 week pre-launch |Rank 1 week post-launch to 25% | Rank 1 week post-launch to 50%| Rank 1 week post-launch to 100%|
 |----|-----------|-----------|-----------|-----------|
 |DD214|TBD|TBD|TBD|TBD|
 |Letter|TBD|TBD|TBD|TBD|
