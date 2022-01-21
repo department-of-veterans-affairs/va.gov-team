@@ -1,7 +1,7 @@
 ---
 name: New VFS Team
 about: For orienting new VFS teams/members to Platform policies/practices
-title: Platform Orientation Template [Your name here]
+title: New VFS Team Template [Your team name here]
 labels: 'governance-team'
 assignees: ''
 
