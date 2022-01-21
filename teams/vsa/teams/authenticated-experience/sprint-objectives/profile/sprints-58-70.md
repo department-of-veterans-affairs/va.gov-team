@@ -362,16 +362,20 @@ Start discovery
 
 **Design**
 
+- Remove "sex assigned at birth" from mockups
 - Determine final changes from research
 - Mock up changes from research
 
 **FE**
 
+- Remove existing "gender" field from the frontend (Note: this needs to work with backend removal)
+  - Does Adam need a mockup?
 - Work on changes from research, if changes are mocked up before the end of the sprint
 
 **BE**
 
--  Still on hold
+- Stop calling existing "gender" field from MPI (note: this needs to work with frontend removal)
+- Still on hold
 
 ### Bad address indicator
 
