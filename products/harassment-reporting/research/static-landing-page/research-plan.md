@@ -82,8 +82,7 @@ Ask Perigean to recruit **15** Veterans in order to get **8-10** completed sessi
     2. *If "yes", ask the next question*
 1. What device will you use to join the feedback session? *(record in Participant Roster and Schedule)*
 1. What is the first language that you learned to speak as a child? *(If not English, record as "non-native English speaker")*
-1. It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following questions to ensure that we conduct feedback sessions with representative populations. Do you identify as gay, lesbian, or bisexual? Yes, No, or Decline to Answer? *(record in Participant Roster and Schedule)*
-1. Do you identify as transgender? Yes, No, or Decline to Answer?  *(record in Participant Roster and Schedule)*
+1. It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as transgender or as any of these sexual orientations: gay, lesbian, or bisexual? Yes, No, or Decline to Answer? *(record in Participant Roster and Schedule)*
 
 ## Timeline
 #### Desired Timeline: February XX, 2022 
