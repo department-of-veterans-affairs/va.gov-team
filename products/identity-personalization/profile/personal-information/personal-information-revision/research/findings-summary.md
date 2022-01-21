@@ -253,7 +253,7 @@ One participant looked up and down the page multiple times, searching within the
 
 > _(Do you see anything on the page that can help answer your questions on why the VA asks for this information?) "No, there's nothing here." -P13_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/FAQs-corresponding-fields.png" width="50% alt="screenshot of the personal information page highlighting two FAQ links at the top of the page" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/FAQs-corresponding-fields.png" width="50%" alt="screenshot of the personal information page highlighting two FAQ links at the top of the page" />
 
 Participants did not feel that the FAQ content fully addresses their questions or concerns.
 Once they had located the FAQs, 4 of 5 participants continued to express concerns for how and by whom the information would be used, making it clear that the information included did not sufficiently alleviate their concerns or answer questions, whether due to needing more information, such as specifics or examples, or simply not trusting the information provided. 
