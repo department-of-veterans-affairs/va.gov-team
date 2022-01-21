@@ -202,7 +202,7 @@ Participants expected a text input field in the Gender identity section for addi
 
 > _“I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png" width="50%" alt="screenshot of radio button list with gender identity options, highglighting that the "gender not listed here" option has no accompanying text input"  />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png" width="50%" alt="screenshot of radio button list with gender identity options, highlighting that the gender not listed here option has no accompanying text input" />
 
 2 participants interpreted the fields as being required rather than optional. This was due to the Edit button in the read state, and the (Required) label within the edit state. Other participants were not sure. 
 
