@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS** 
+**STATUS: COMPLETE** 
 
 **Team:**  eBenefits/VSA dBenefits migration <br>
 **Product/Featue:** View/select representative/POA <br>
@@ -40,10 +40,6 @@ Add | Decision reviews [Contested claims page](https://www.va.gov/decision-revie
 --- | Health care | | Not adding to the More resources section of the hub page or left nav at this time.  Information and a link will exist on key pages where it does today (i.e. How to apply page)
 --- | Education | | Not adding to the More resources section of the hub page or left nav at this time.  Information and a link will exist on key pages where it does today (i.e. How to apply page)
 
-
-Add | Disability hub page | www.va.gov/find-manage-accredited-representative | Add link and teaser as last option under "More information and resources"
-Add | Decision reviews hub page | www.va.gov/find-manage-accredited-representative | Add link and teaser as second option under "More information and resources"
-
 <hr>
 
 ### Redirects <br>
@@ -51,9 +47,9 @@ Add | Decision reviews hub page | www.va.gov/find-manage-accredited-representati
 
 Page | URL | Notes
 --- | --- | ---
-Disability "Get help" page | https://www.va.gov/disability/get-help-filing-claim | Retire and redirect
-Decision reviews "Get help" page | https://www.va.gov/decision-reviews/get-help-with-review-request | Retire and redirect 
-eBenefits VSO search | https://www.ebenefits.va.gov/ebenefits/vso-search | eBenefits.va.gov team will be responsible for retiring and redirecting
+Disability "Get help" page | https://www.va.gov/disability/get-help-filing-claim | Retire and redirect to www.va.gov/find-manage-accredited-representative 
+Decision reviews "Get help" page | https://www.va.gov/decision-reviews/get-help-with-review-request | Retire and redirect to www.va.gov/find-manage-accredited-representative 
+eBenefits VSO search | https://www.ebenefits.va.gov/ebenefits/vso-search | eBenefits.va.gov team will be responsible for retiring and redirecting to www.va.gov/find-manage-accredited-representative 
 
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
