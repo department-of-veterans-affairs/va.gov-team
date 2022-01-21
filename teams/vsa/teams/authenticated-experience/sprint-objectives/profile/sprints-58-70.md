@@ -349,6 +349,40 @@ Start discovery
 
 ## Sprint 66 (1/26 - 2/8)
 
+### General
+
+- Review team plan for the next few months
+- Any tickets for the syncing home/mailing address issue that are still being worked on
+
+### Personal information revisions
+
+**PM**
+
+- Work with design to make sure we know what design changes are coming out of research
+
+**Design**
+
+- Determine final changes from research
+- Mock up changes from research
+
+**FE**
+
+- Work on changes from research, if changes are mocked up before the end of the sprint
+
+**BE**
+
+-  Still on hold
+
+### Bad address indicator
+
+**PM**
+
+Continue discovery
+
+- Meeting with Barry
+- Product outline (Samara can hopefully do this)
+- Project kickoff (schedule towards end of the sprint)
+
 ## Sprint 67 (2/9 - 2/22)
 
 ## Sprint 68 (2/23 - 3/8)
