@@ -2,7 +2,7 @@
 
 # Product list for 508 testing
 
-This list is the current record of 508 issues in the `va.gov-team` repo. It will be updated weekly for accuracy.
+This list is the current record of 508 issues in the `va.gov-team` repo. 
 
 Please refer to the deprecated list for [previously closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md).
 
