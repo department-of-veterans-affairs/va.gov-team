@@ -10,10 +10,9 @@
 
 ### Projected timelines for current projects & enhancements
 
-|Project|Q1 2021|Q2 2021|Q3 2021|Q4 2021|Q1 2022|
+|Project|Q3 2021|Q4 2021|Q1 2022|Q2 2022|Q3 2022|
 |----|----|----|----|----|----|
-|**VA Profile: Notification preferences**| Initial BE integration; begin design discussions | Design; testing; FE build; QA | Pre-launch/launch | - |
-|**Add SIGI, preferred name & pronouns, and sexual orientation** | - | - | Planning | Design, research, build, launch | TBD |
+|**Add SIGI, preferred name & pronouns, and sexual orientation** | - | - | Planning | Design | Research, build, pre-launch | Launch | - |
 
 ## Completed projects & enhancements
 
