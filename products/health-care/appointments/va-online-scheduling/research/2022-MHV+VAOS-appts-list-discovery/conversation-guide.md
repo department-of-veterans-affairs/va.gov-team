@@ -108,7 +108,8 @@ From va.gov:
 
 Next, I'd like to get your feedback on a concept that includes some changes to this list. I'll start by sharing my screen.
 
-_Switch to facilitator sharing screen [TODO: finish prototype]_
+_Switch to facilitator sharing screen_
+_Open [prototype link](https://www.figma.com/proto/MNanAQBGzQbRJeb89d1OVz/VAOS-IN-Reschedule-and-home?page-id=0%3A5282&node-id=109%3A18580&viewport=241%2C48%2C0.12&scaling=min-zoom&starting-point-node-id=109%3A18580)_
 
 - Tell me about this page. I'm interested in your first impressions
     - What do you think you can do here?
