@@ -1,4 +1,4 @@
-# IA Design and Recommendations
+# IA Design for [Product/Feature]
 **STATUS:**
 
 **Team:** 
@@ -23,7 +23,7 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
 
-**Page** | **URL** | **Breadcrumb** | **Description**
+**Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
    |   |   |  | 
 
@@ -31,11 +31,10 @@
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**Action** | **Placement** | **Destination** | **Description**
+**A/R/M** | **Page/component** | **Link destination** | **Placement/description of change**
 --- | --- | --- | ---
    |   |   |  | 
 
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 
 ## <a name="redirects"></a>Redirects <br>
