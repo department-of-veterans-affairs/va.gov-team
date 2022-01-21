@@ -12,7 +12,7 @@
 
 |Project|Q3 2021|Q4 2021|Q1 2022|Q2 2022|Q3 2022|
 |----|----|----|----|----|----|
-|**Add SIGI, preferred name & pronouns, and sexual orientation** | - | - | Planning | Design | Research, build, pre-launch | Launch | - |
+|**Add SIGI, preferred name & pronouns, and sexual orientation** | Planning | Discovery, design, FE build | Research, BE build, pre-launch | Launch | - | - | - | 
 
 ## Completed projects & enhancements
 
