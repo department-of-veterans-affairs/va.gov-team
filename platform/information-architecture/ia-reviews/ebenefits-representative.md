@@ -30,19 +30,19 @@ View current rep tool |  www.va.gov/find-manage-accredited-representative/view-r
 ### Primary navigation and entry points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-A/R/M | Placement | Link Destination | Description
+A/R/M | Page/Location | Link Destination | Description
 --- | --- | --- | ---
-Remove | Disability hub page | --- | Remove the existing "Get help filing a claim link" and teaser text
+Modify | Disability [hub page](https://www.va.gov/disability/) | www.va.gov/find-manage-accredited-representative  | Modify the existing "Get help filing a claim" link and teaser text.
+Modify | Disability left nav |  www.va.gov/find-manage-accredited-representative  | Remove the "Get help filing a claim" link. 
+Modify | Decision reviews [hub page](https://www.va.gov/decision-reviews/) | www.va.gov/find-manage-accredited-representative  | Modify the existing "Get help filing a claim" link and teaser text.
+Modify | Decision reviews left nav | www.va.gov/find-manage-accredited-representative  | Modify the existing "Get help filing a claim" link. 
+Add | Decision reviews [Contested claims page](https://www.va.gov/decision-reviews/contested-claims/) | www.va.gov/find-manage-accredited-representative  | Under the "What are my board appeal options" heading, the text references working with a rep, but doesn't include any additional content or link.  Suggest adding the same content and link as other placements. 
+--- | Health care | | Not adding to the More resources section of the hub page or left nav at this time.  Information and a link will exist on key pages where it does today (i.e. How to apply page)
+--- | Education | | Not adding to the More resources section of the hub page or left nav at this time.  Information and a link will exist on key pages where it does today (i.e. How to apply page)
+
+
 Add | Disability hub page | www.va.gov/find-manage-accredited-representative | Add link and teaser as last option under "More information and resources"
-Remove | Disability left nav | --- | Remove the existing "Get help filing a claim link"
-Remove | Decision reviews hub page | --- | Remove the existing "Get help requesting a decision review" and teaser text
 Add | Decision reviews hub page | www.va.gov/find-manage-accredited-representative | Add link and teaser as second option under "More information and resources"
-Remove | Decision reviews left nav | --- | Remove the existing "Get help requesting a decision review"
-tbd | Health care | |
-tbd | Education | |
-
-
-
 
 <hr>
 
