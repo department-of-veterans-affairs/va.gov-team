@@ -71,3 +71,4 @@
 | 69 | [Will I have to pay back the GI Bill benefits I used if I fail a class?](https://www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) | Education | 12/17/21 |
 | 70 | [Montgomery GI Bill refunds](https://www.va.gov/resources/montgomery-gi-bill-refunds/) | Education | 12/20/21 |
 | 71 | [Getting a GI Bill extension](https://www.va.gov/resources/getting-a-gi-bill-extension/) | Education | 12/20/21 |
+| 72 | [COVID-19 testing at VA](https://www.va.gov/resources/covid-19-testing-at-va/) | Health care | 1/21/22 |
