@@ -97,3 +97,8 @@ Slack channels:
 
 **How to Work with CMS team**
 - [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md) (work in progress)
+
+**Getting Started**
+- [Getting access to the CMS](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/access.md)
+- [Setting up your local environment](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/getting-started.md)
+- [Developer Workflow](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/workflow.md)
