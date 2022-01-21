@@ -1,6 +1,5 @@
 # Profile Personal Information Research Findings 
 
-`DRAFT`
 
 **Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience**
 
