@@ -102,7 +102,8 @@ The version we have is currently only in English, so I will be translating anyth
 - Can you take a moment to familiarize yourself with the webpage I just opened?
  
 - What would you imagine you can do on this page?
-- See the box on the right side, what does it do?
+- See the box on the right side, what do you asume it does?
+- What would you do next?
 
 _- Enter the chatbot_
 - Think of one of the cases you mentioned before. How would you go on about trying to ask the chatbot for this information?
