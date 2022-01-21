@@ -20,7 +20,7 @@ Now that medical co-pays have launched on VA.gov, we should add this information
 
 ### [Evaluate redirect from logged-out homepage to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/my-va-redirect-transition-proposal.md)
 
-It is an organizational priority to transition My VA to become the logged-in homepage over time. We should take an iterative approach to this and evaluate how well My VA performs when we redirect users signing in from the homepage to My VA. From there, we will determine what additional development might be required for My VA before it can serve as the logged-in homepage for all users and update the page accordingly.
+It is an organizational priority to transition My VA to become the logged-in homepage over time. We plan to take an iterative approach to this by first redirecting users who sign in from the homepage to My VA. After the launch of the "Benefits payments and debt section", we're going to start doing this with a small subset of users, evaluate avalytics, and determine next steps for development,
 
 **Run experiment**: Q2 2022 after "Benefit payments and debts" has launched
 
