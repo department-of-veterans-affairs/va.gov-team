@@ -45,16 +45,17 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 Let’s start with a few warm-up questions, 
 
 - Tell me just a little about yourself.
-- What has your experience with the VA been like?
 - [If needed] What was your favorite MRE meal?
 - [If needed] What about when you got out of the military? What was your favorite meal when you were back home?
+
 - Where do you live?
+- How is the hispanic community where you live? Can you find a lot of services in Spanish?
 - In which situations do you speak Spanish or English in your everyday life?
+
+- What has your experience with the VA been like?
 - Do you have any beneficiaries, or family members who also receive benefits from the VA?
 - Do you also have a caretaker who manages benefits on your behalf?
 - Do you know if any of them use Spanish as their preferred language?
-
-
 
 
 ## First Task: [Information Needs] - 5-10 minutes
@@ -95,15 +96,19 @@ The veteran feeling open and comfortable that what he is safe in all he says and
 
 ## Fourth Task: [Virtual Agent reaction and expectations] - 5 minutes
 
-- I’m going to share with you my screen. 
+The version we have is currently only in English, so I will be translating anything you'd need, I will be asking you what you would assume some things are, and ask you what you would expect.
+
+- I’m going to share with you my screen.
 - Can you take a moment to familiarize yourself with the webpage I just opened?
  
 - What would you imagine you can do on this page?
 - See the box on the right side, what does it do?
-- Think of one of the cases you mentioned before. How would you go on about trying to find this information?
+
+_- Enter the chatbot_
+- Think of one of the cases you mentioned before. How would you go on about trying to ask the chatbot for this information?
 - How would you ask the chatbot for this information? In which language?
 
-[If applicable] Where would you switch to Spanish?
+[If applicable] Where would you switch the language Spanish?
 [If chatbot is on] Type in the question in English.
 
 - What answer would you expect back?
