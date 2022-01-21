@@ -196,13 +196,13 @@ The label "preferred name" created confusion - 3 participants were unsure about 
 
 > _“That'd be used to identify me in the files. They'd check the army files and they'd find my name, DOB, SSN, which is everything that identifies me in the VA system.” - P3_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/preferred-name.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/preferred-name.png" width="50%" alt="screenshot of text intput with the label Preferred name" />
 
 Participants expected a text input field in the Gender identity section for additional options.
 
 > _“I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png" width="50%" alt="screenshot of radio button list with gender identity options, highglighting that the "gender not listed here" option has no accompanying text input"  />
 
 2 participants interpreted the fields as being required rather than optional. This was due to the Edit button in the read state, and the (Required) label within the edit state. Other participants were not sure. 
 
@@ -234,14 +234,14 @@ Participants gave the impression that they were apprehensive about the fields ov
 
 > _“The order could be alphabetic or what the dominant is from most to least.” - P6_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/alphabetize-sexual-orientation.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/alphabetize-sexual-orientation.png" width="50%" alt="screenshot highlighting sexual orientation field radio button options that participants suggested we alphabetize. The options are lesbian, gay, or homosexual, straight or heterosexual, bisexual, and queer" />
 
 **The mix of editable and uneditable fields created a dissociation with the FAQs and triggered some participants.** 
 This also contributed to participants not associating the information in the two FAQs with the corresponding fields (see finding 7), as well as contributing to concerns with the sex assigned at birth field (see finding 4). For participants identifying as other than straight or cisgender, the placement of sex assigned at birth mixed with the editable fields without context was triggering - something they were forced to look at yet could not change. 
 
 > _“If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/group-non-editable-fields.png" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/group-non-editable-fields.png" width="50%" alt="screenshot of the personal information page with editable and not editable fields mixed together" />
 
 
 ### 7. 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.
@@ -253,7 +253,7 @@ One participant looked up and down the page multiple times, searching within the
 
 > _(Do you see anything on the page that can help answer your questions on why the VA asks for this information?) "No, there's nothing here." -P13_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/FAQs-corresponding-fields.png" width="50% />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/FAQs-corresponding-fields.png" width="50% alt="screenshot of the personal information page highlighting two FAQ links at the top of the page" />
 
 Participants did not feel that the FAQ content fully addresses their questions or concerns.
 Once they had located the FAQs, 4 of 5 participants continued to express concerns for how and by whom the information would be used, making it clear that the information included did not sufficiently alleviate their concerns or answer questions, whether due to needing more information, such as specifics or examples, or simply not trusting the information provided. 
@@ -319,7 +319,7 @@ There were mixed responses for the use of the modals themselves.
 
 **Overview of Proposed Changes for IA/Content:**
 
-![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/overview-proposed-changes.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/overview-proposed-changes.png" alt="screenshot of the personal information page highlighting the recommendations listed above" />
 
 
 # Next Steps
@@ -463,4 +463,4 @@ This research does not include the perspectives of the following marginalized Ve
 * Asian
 * Native
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/recruitment-checker.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/recruitment-checker.png" width="70%" alt="screenshot of spreadsheet containing participant information listed above" />
