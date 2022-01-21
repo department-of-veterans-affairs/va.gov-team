@@ -319,7 +319,7 @@ There were mixed responses for the use of the modals themselves.
 
 **Overview of Proposed Changes for IA/Content:**
 
-![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/overview-proposed-changes.png)_
+![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/overview-proposed-changes.png)
 
 
 # Next Steps
