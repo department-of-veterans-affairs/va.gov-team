@@ -14,7 +14,7 @@ Even with the addition of email and text communications at the VA, mail is still
 
 **Targeted launch**: Q2 2022
 
-## Small, incremental improvements
+## Small improvements
 
 ### Remove "Gender" field from the profile
 
@@ -27,6 +27,12 @@ Currently, we have a read-only "Gender" field in the profile, which is more accu
 The fax number field is barely used, and is not a meaningful source of communication with the VA. The VA Profile team is finally ready to retire this field on the backend, which means we can retire it on the frontend. We'll work with them in the coming weeks to get this done.
 
 **Targeted launch**: Q1 2022 if VA Profile is ready to move quickly; Q2 2022 if it takes time to coordinat this effort
+
+### Allow people to update their mailing address when they save their home address
+
+Some people do not realize that they also need to change their mailing address in the profile if they update their home address. This is especially important since all VA correspondence is sent to the mailing address, in addition to any prescriptions and medical supplies. This update will allow people to make changes to their mailing addresses while editing their home addresses so fewer folks are missing important mail or packages.
+
+**Targeted launch**: Q1 2022
 
 ## Other potential efforts
 
