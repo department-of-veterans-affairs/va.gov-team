@@ -99,7 +99,7 @@ We conducted remote, moderated interviews using Zoom. The sessions were moderate
 
 # Details of Findings 
 
-### 1. Veterans are not confident their personal information will be used for their benefit.
+### 1. Participants are not confident their personal information will be used for their benefit.
 
 Participants shared concerns that this information could be used to the Veteran’s disadvantage, including that the Veteran could be judged and treated differently by VA staff.
 
@@ -130,7 +130,7 @@ Participants' general perception was that the VA is gathering this information f
 >_“I mean going back up here and it says the factors can affect a person’s health, staff will use them when there. I understand the theory but there's a difference, they will have it vs they will use the information. Unless it is implemented by a standard or regulation it doesn’t matter.” - P8_
 
 
-### 2. Veterans who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
+### 2. Participants who identify as other than straight or cisgender found the sex assigned at birth and sexual orientation fields triggering.
 
 The participants identifying as gay or transgender expressed concern for the inclusion of Sex assigned at birth and sexual orientation. 
 
@@ -149,7 +149,7 @@ A gay participant repeatedly expressed his or friends’ experiences of sexual o
 Overall, both participants felt that these respective fields would have negative consequences. Neither participant saw any benefit in including these fields.
 
 
-### 3. Veterans understand the terminology used, with some suggestions for additions or changes.
+### 3. Participants understand the terminology used, with some suggestions for additions or changes.
 
 Suggestions for changes, additions, or removals included the following:
 
@@ -186,7 +186,7 @@ Suggestions for changes, additions, or removals included the following:
 > _“I would like to be able to make it clear with a very simple checkbox - which I was able to do on my military dog tags for 26 years - to just say 'hey I’m atheist.'... There’s a significant population in America who are atheist and for whom it is part of their identity.” - P1_
 
 
-### 4. Veterans found that certain elements of the UI/Design created confusion around the information and fields presented.
+### 4. Participants found that certain elements of the UI/Design created confusion around the information and fields presented.
 
 The label "preferred name" created confusion - 3 participants were unsure about what name to enter and how the entry would be used.
 
@@ -217,7 +217,7 @@ Participants gave the impression that they were apprehensive about the fields ov
 > _“Just looking here I don’t think it is required but since it has Edit I think it means I need to do something with it.” - P13_
 
 
-### 5. Veterans who identify as straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
+### 5. Participants who identify as straight or cisgender expressed that they would not necessarily use the fields themselves, but could see the usefulness for others.
 
 > _"I’m big on inclusion. I think you’re going to get some pushback on this from folks who are more traditional but I’m atheist so don’t have any religious hangups and in fact I'm a strong proponent of that aspect of our society. - P1_
 
