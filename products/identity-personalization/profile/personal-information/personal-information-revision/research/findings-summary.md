@@ -202,7 +202,7 @@ Participants expected a text input field in the Gender identity section for addi
 
 > _“I would expect it to allow me to enter it if I don’t see it here so an option box would be good.” - P6_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/gender-identity-missing-text-field.png" width="50%" />
 
 2 participants interpreted the fields as being required rather than optional. This was due to the Edit button in the read state, and the (Required) label within the edit state. Other participants were not sure. 
 
@@ -241,7 +241,7 @@ This also contributed to participants not associating the information in the two
 
 > _“If I were going to lay this out, I would put it in such a way that the non-editable items were sectioned off together and the editable items were in one area. I would have sex assigned at birth along with date of birth.” - P1_
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/group-non-editable-fields.png" width="50% />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/group-non-editable-fields.png" width="50%" />
 
 
 ### 7. 4 of 5 participants missed the FAQs until pointed out by the moderator; once they read the content 5 of 5 participants felt the content didn’t fully address their questions or concerns.
@@ -253,7 +253,7 @@ One participant looked up and down the page multiple times, searching within the
 
 > _(Do you see anything on the page that can help answer your questions on why the VA asks for this information?) "No, there's nothing here." -P13_
 
-![text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/FAQs-corresponding-fields.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/research/images/FAQs-corresponding-fields.png" width="50% />
 
 Participants did not feel that the FAQ content fully addresses their questions or concerns.
 Once they had located the FAQs, 4 of 5 participants continued to express concerns for how and by whom the information would be used, making it clear that the information included did not sufficiently alleviate their concerns or answer questions, whether due to needing more information, such as specifics or examples, or simply not trusting the information provided. 
