@@ -79,7 +79,7 @@ evss: # ln# 285
 - `"#{Settings.evss.url}/wss-common-services-web-#{API_VERSION}/rest/vsoSearch/#{API_VERSION}/"` # base path
 - `POST 'getCurrentInfo'`                                                                        # get_current_info
 
-## Staging UI Claim Status URLs
+## UI Claim Status URLs
 
 - `"https://www.va.gov/track-claims/your-claims"`
 - `"https://www.va.gov/track-claims/your-claims/#{claim_id}/status"`
