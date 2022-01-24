@@ -31,7 +31,7 @@
 - [ ] Determine if this new article should be added as a related link on any live articles. 
 - [ ] Make sure the wording for the action link (call to action link text) matches other pages that use the same link. [Check the master list of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
 - [ ] If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov.
-- [ ] Check that any screenshots contain alt text that contain context.
+- [ ] Check that any screenshots contain alt text. The alt text should inform the user in a concise and descriptive way what the image is of. [Learn more about writing alt text](https://webaim.org/techniques/alttext/)
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
 **Also confirm these components are checked in the Drupal file:**</br>
