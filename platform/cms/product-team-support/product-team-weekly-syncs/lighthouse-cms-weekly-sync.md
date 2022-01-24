@@ -28,6 +28,31 @@
  
 </details>
 
+## Monday, January 31, 2022
+* CAPs (lat/long) next steps
+* VA Health Connect number "field_va_health_connect_phone"
+
+## Monday, January 24, 2022
+* healthserviceAPI field updates
+  * LH list received, CMS set to move forward
+  * CMS timeline: still need to scope out how to implement (whether phased or all at once), will be at least another sprint before LH is able to receive (2/8 = LH end of sprint)
+  * VCs have not been talked about yet, don't need to quite yet (CMS), LH should be good to support any future expansion
+  * would be it fair for whoever is owning the services taxonomy to use the pattern that LH has established when new services get added? what should be the process that new ones are derived? through LH UX?
+    * CMS to lead any recommendations with LH having first right of refusal
+    * need = governance doc describing process
+* CAPs
+  * LH planning to treat as its own type (VAMC CAP vs VC CAP)
+  * how facilities are structured = VC, Outstations, CAPs (can tell if the ID has OS at the end - outstation)
+  * should we break out Outstations? classification = null for all VCs, "outstation" is part of the name; there may be a value to breaking them out to help users understand hierarchy
+  * CAP hours are not being pushed to LH currently (CAPs in general, are waiting for lat/long)
+  * CMS/LH discussion needed on CAPs
+* VA Health Connect number "field_va_health_connect_phone"
+  * direction coming from Charles to include (Dec 2021)
+  * phone number will be rolled out for each health care system, getting put into CMS this sprint (by 1/28)
+  * would like to be pushed to LH so that it's available for applications like Facility locator to be pulled into the FE
+  * next set of facilities that will be going live with these = end of March
+  * LH will probably just append to existing facilities
+
 ## Wednesday, January 19, 2022
 * on CMS side: create management for existing field (not a new one, just admins can add, required) the healthseviceAPI field that will be leveraged as the unique identifier. the list of curated machine names will come from Lighthouse UX folks for ones that don't exist yet.
   * audiology, cardiology, dermatology, gastroenterology, gynecology, mentalHealth, ophthalmology, optometry, orthopedics, primaryCare, specialtyCare, urology
