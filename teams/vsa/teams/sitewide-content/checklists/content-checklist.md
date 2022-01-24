@@ -19,11 +19,11 @@
 
 ### Additional checks for Resources and Support articles
 
-- [ ] Confirm H2s, H3s, and H4s are within the 70-character limit.
-- [ ] Confirm that appropriate related links have been added to the file (they should truly be related to the article—rather than “something you may also be interested in”).
-- [ ] Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
-- [ ] Make sure the wording for the action link or button (the text for the call to action) matches other pages that use the same link. [Check the master list of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md) REWORD
-- [ ] If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov. LINK TO PURPOSE AND TARGET
+- [ ] Character limit for subheads: Confirm H2s, H3s, and H4s are within the 70-character limit.
+- [ ] Related links: Confirm that you've added appropriate related links to the file (they should truly be related to the article—rather than “something the reader may also be interested in”).
+- [ ] Cross linking: Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
+- [ ] Call to action (CTA): When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
+- [ ] Indicate purpose and target in your CTA text: If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov. LINK TO PURPOSE AND TARGET
 - [ ] Check that any screenshots contain alt text that contain context. REVISE
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
