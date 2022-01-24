@@ -20,7 +20,7 @@
 ### Additional checks for Resources and Support articles
 
 - [ ] Confirm H2s, H3s, and H4s are within the 70-character limit.
-- [ ] Confirm that appropriate related links have been added to the file (i.e., they’re actually related to the article—rather than “something you may also be interested in”).
+- [ ] Confirm that appropriate related links have been added to the file (they should truly be related to the article—rather than “something you may also be interested in”).
 - [ ] Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
 - [ ] Make sure the wording for the action link or button (the text for the call to action) matches other pages that use the same link. [Check the master list of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md) REWORD
 - [ ] If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov. LINK TO PURPOSE AND TARGET
