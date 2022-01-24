@@ -12,7 +12,7 @@
 
 *In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
 
-*Check your [screensharing setup] and share permissions for participants.*
+*Check your screensharing setup and share permissions for participants.*
 
 *When the participant is ready, begin the session with the following intro*
 
@@ -49,8 +49,8 @@ Next, I'd like you to share your screen so we can see how you manage your appoin
 _Once screen is shared_
 
 Great, I can see your screen. Now, could you show me how you access your appointments in MyHealtheVet?
-- If they're not sure, confirm they're a MHV user
-- If they don't use MHV, skip to second task.
+- If they're not sure, confirm they're a MHV user.
+- If they don't use MHV or don't know, ask them to follow the login steps.
 
 **Steps**
 - Go to https://www.myhealth.va.gov/
@@ -60,20 +60,23 @@ Great, I can see your screen. Now, could you show me how you access your appoint
 **Alternate**
 Since we couldn't look at MyHealtheVet, I'll show some screenshots of it just to have a reference point. I'll share my screen.
 
-_Open [Task 1 prototype link](https://www.figma.com/proto/xfwF9JdPCIRPko3IZ3OL6v/Prototype---MHV%2BVAOS-appointments-list-discovery?page-id=2%3A2&node-id=2%3A17&viewport=325%2C48%2C0.5&scaling=min-zoom&starting-point-node-id=2%3A17)
+_Open [Task 1 prototype link](https://www.figma.com/proto/xfwF9JdPCIRPko3IZ3OL6v/Prototype---MHV%2BVAOS-appointments-list-discovery?page-id=2%3A2&node-id=2%3A17&viewport=325%2C48%2C0.5&scaling=min-zoom&starting-point-node-id=2%3A17)_
 
 **Questions**
 
 - How often do you use this list?
 - What do you do the most here?
 
+
 - What's helpful about this list?
 - What's confusing or frustrating?
 - Is anything missing?
 
+
 - Do you ever print this list?
      - If yes, what do you use that printout for?
      - If yes, what information is missing from the printout? 
+
 
 - What would you change, if anything?
 
@@ -98,14 +101,16 @@ _If they can't find this, or log in, use alternate_
 **Alternate**
 Since we couldn't the open VA Online Scheduling appointment list, I'm going to show you some screenshots of it just to have a reference point. I'll share my screen.
 
-_[Open task 2 prototype link](Open [Task 2 prototype link](https://www.figma.com/proto/xfwF9JdPCIRPko3IZ3OL6v/Prototype---MHV%2BVAOS-appointments-list-discovery?page-id=2%3A3&node-id=6%3A151&viewport=325%2C48%2C0.25&scaling=min-zoom&starting-point-node-id=6%3A151)_
+_[Open task 2 prototype link](https://www.figma.com/proto/xfwF9JdPCIRPko3IZ3OL6v/Prototype---MHV%2BVAOS-appointments-list-discovery?page-id=2%3A3&node-id=6%3A151&viewport=325%2C48%2C0.25&scaling=min-zoom&starting-point-node-id=6%3A151)_
 
 **Questions**
 
 - Have you used this before?
     - If yes, how do you use this list?
 
+
 - Tell me what you see on this page.
+
 
 - How does this compare to the MyHealtheVet appointments list you just looked at?
     - What works better on this page, if anything?
@@ -115,10 +120,10 @@ _[Open task 2 prototype link](Open [Task 2 prototype link](https://www.figma.com
 
 Next, I'd like to get your feedback on a concept that includes some changes to this list. I'll start by sharing my screen.
 
-_Switch to facilitator sharing screen_
 _Open [prototype link](https://www.figma.com/proto/xfwF9JdPCIRPko3IZ3OL6v/Prototype---MHV%2BVAOS-appointments-list-discovery?page-id=2%3A4&node-id=12%3A551&viewport=325%2C48%2C0.32&scaling=min-zoom&starting-point-node-id=12%3A551)_
 
 - Tell me about this page. I'm interested in your first impressions
+  
   
 - How does this compare to the MyHealtheVet appointments list you just looked at?
     - What works better on this page, if anything?
@@ -131,9 +136,10 @@ _Open [prototype link](https://www.figma.com/proto/xfwF9JdPCIRPko3IZ3OL6v/Protot
   - What stood out as being difficult or frustrating? 
   - If you could change anything about viewing appointments, what would you do?
    
+   
 - That's it for my questions. Do you have any questions for me or any other feedback you would like to share? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
