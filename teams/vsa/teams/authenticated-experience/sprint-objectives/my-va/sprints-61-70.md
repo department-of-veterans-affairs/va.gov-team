@@ -287,23 +287,23 @@ Midpoint review; Research planning
 
 ### General
 
-- Onboard Angela
+- Onboard Angela #35751
 
 ### Payment history
 
 **PM**
 
-- Determine when we will be ready for QA & request QA for that sprint
+- Determine when we will be ready for QA & request QA for that sprint #35140, 35254 (QA Ticket #35149)
 
 **Design**
 
-- Design for error states
-- Any design updates that came out of testing
+- Design for error states #34809
+- Any design updates that came out of testing 
 
 **FE***
 
-- Implement error states if design tickets are available with enough time before the end of the sprint
-- Implement changes from user testing if design tickets are available with enough time before the end of the sprint
+- Implement error states if design tickets are available with enough time before the end of the sprint #34806
+- Implement changes from user testing if design tickets are available with enough time before the end of the sprint 35483, 35484, #34432 
 
 ### On-site notifications
 
