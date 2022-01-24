@@ -1,4 +1,4 @@
-# Vets API EVSS API Endpoints (`vets-api/lib/evss/)
+# Vets API EVSS API Endpoints (`vets-api/lib/evss/`)
 
 ## EVSS settings
 
