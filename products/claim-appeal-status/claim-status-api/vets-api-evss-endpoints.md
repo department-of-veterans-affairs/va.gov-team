@@ -81,7 +81,7 @@ evss: # ln# 285
 
 ## Staging UI Claim Status URLs
 
-`"https://www.va.gov/track-claims/your-claims"`
-`"https://www.va.gov/track-claims/your-claims/#{claim_id}/status"`
-`"https://www.va.gov/track-claims/your-claims/#{claim_id}/files"`
-`"https://www.va.gov/track-claims/your-claims/#{claim_id}/details"`
+- `"https://www.va.gov/track-claims/your-claims"`
+- `"https://www.va.gov/track-claims/your-claims/#{claim_id}/status"`
+- `"https://www.va.gov/track-claims/your-claims/#{claim_id}/files"`
+- `"https://www.va.gov/track-claims/your-claims/#{claim_id}/details"`
