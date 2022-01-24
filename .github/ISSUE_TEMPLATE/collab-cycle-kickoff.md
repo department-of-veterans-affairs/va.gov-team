@@ -1,7 +1,7 @@
 ---
 name: Collaboration Cycle Kickoff
 about: Begin engaging with the Collaboration Cycle
-title: Collaboration Cycle Kickoff [Team Name, Feature Name]
+title: Collaboration Cycle Kickoff [Team Name, Feature Name] test
 labels: governance-team, collaboration-cycle, collab-cycle-review
 assignees: 
 
