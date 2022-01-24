@@ -34,7 +34,9 @@ Some people do not realize that they also need to change their mailing address i
 
 **Targeted launch**: Q1 2022
 
-## Other potential efforts
+## Also coming up
+
+These are things we intend to do, but depend on other teams to have functionality ready for us or to be ready to collaborate with us.
 
 - Integrate military information through VA Profile backend (currently integrates through eMIS)
   - Samara attending an introductory meeting about this on 1/26
