@@ -16,15 +16,6 @@ evss: # ln# 285
 
 ### dependents
 
-| HTTP Verb | Path | Location | Method |
-| --- | --- | --- | --- |
-| n/a | `https://csraciapp6.evss.srarad.com/wss-686-services-web-2.6/rest/` | configuration.rb | base_path |
-| GET | `load/retrieve`                                   | service.rb | retrieve |
-| POST | `inflightform/cleanForm`                         | service.rb | clean_form(form) |
-| POST | `inflightform/validateForm`                      | service.rb | validate(form) |
-| POST | `inflightform/saveForm`                          | service.rb | save(form) |
-| POST | `form686submission/submit`                       | service.rb | submit(form, form_id) |
-
 - `"#{Settings.evss.url}/wss-686-services-web-2.6/rest/"` # base path
 - `GET 'load/retrieve'`                                   # retrieve
 - `POST 'inflightform/cleanForm'`                         # clean_form(form)
@@ -87,3 +78,10 @@ evss: # ln# 285
 
 - `"#{Settings.evss.url}/wss-common-services-web-#{API_VERSION}/rest/vsoSearch/#{API_VERSION}/"` # base path
 - `POST 'getCurrentInfo'`                                                                        # get_current_info
+
+## Staging UI Claim Status URLs
+
+`"https://www.va.gov/track-claims/your-claims"`
+`"https://www.va.gov/track-claims/your-claims/#{claim_id}/status"`
+`"https://www.va.gov/track-claims/your-claims/#{claim_id}/files"`
+`"https://www.va.gov/track-claims/your-claims/#{claim_id}/details"`
