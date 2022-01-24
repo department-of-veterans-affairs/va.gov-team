@@ -3,7 +3,7 @@
 ## EVSS settings
 
 ```yaml
-# /vets-api/config/settings.yml
+# vets-api/config/settings.yml
 # Settings for EVSS
 evss: # ln# 285
   prefill: true
@@ -20,7 +20,7 @@ evss: # ln# 285
 - `GET 'load/retrieve'`                                   # retrieve
 - `POST 'inflightform/cleanForm'`                         # clean_form(form)
 - `POST 'inflightform/validateForm'`                      # validate(form)
-- `POST inflightform/saveForm'`                           # save(form)
+- `POST 'inflightform/saveForm'`                           # save(form)
 - `POST 'form686submission/submit'`                       # submit(form, form_id)
 
 ### disability_compensation_form
