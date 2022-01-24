@@ -30,7 +30,7 @@
 - [ ] Confirm related links have been added to the file and make sense for the topic of the page (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing).
 - [ ] Determine if this new article should be added as a related link on any live articles. 
 - [ ] Make sure the wording for the action link (call to action link text) matches other pages that use the same link. [Check the master list of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
-- [ ] If linking off of VA.gov, make sure the words in the label or button indicate to the user that they're leaving VA.gov.
+- [ ] If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov.
 - [ ] Check that any screenshots contain alt text that contain context.
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
