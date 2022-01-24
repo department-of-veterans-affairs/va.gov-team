@@ -20,11 +20,11 @@
 ### Additional checks for Resources and Support articles
 
 - [ ] Confirm H2s, H3s, and H4s are within the 70-character limit.
-- [ ] Confirm related links have been added to the file and make sense for the topic of the page (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing).
-- [ ] Determine if this new article should be added as a related link on any live articles. 
-- [ ] Make sure the wording for the action link (call to action link text) matches other pages that use the same link. [Check the master list of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
-- [ ] If linking off of VA.gov, make sure the words in the label or button indicate to the user that they're leaving VA.gov.
-- [ ] Check that any screenshots contain alt text that contain context.
+- [ ] Confirm that appropriate related links have been added to the file (i.e., they’re actually related to the article—rather than “something you may also be interested in”).
+- [ ] Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
+- [ ] Make sure the wording for the action link or button (the text for the call to action) matches other pages that use the same link. [Check the master list of button labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md) REWORD
+- [ ] If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov. LINK TO PURPOSE AND TARGET
+- [ ] Check that any screenshots contain alt text that contain context. REVISE
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
 **Also confirm these components are checked in the Drupal file:**</br>
