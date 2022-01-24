@@ -13,9 +13,9 @@
 
 ### Link standards
 
-- [ ] Check all links to confirm they work and point to the intended page.
-- [ ] Confirm all links are 100 characters or less.
-- [ ] Check that we use node IDs instead of urls to link to other pages within Drupal. [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
+- [ ] Confirm that links work (aren't broken--no error message) and point to the intended page (you pasted in the correct URL or chose the correct node ID).
+- [ ] Confirm all link text is 100 characters or less.
+- [ ] Check that you've selected a node ID for all links pointing to VA.gov (internal) pages. Only paste in a URL if the page you're linking to does not live in our CMS (isn't one of our modernized pages). [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
 
 ### Additional checks for Resources and Support articles
 
@@ -24,7 +24,7 @@
 - [ ] Cross linking: Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
 - [ ] Call to action (CTA): When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
 - [ ] Indicate purpose and target in your CTA text: If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov. LINK TO PURPOSE AND TARGET
-- [ ] Check that any screenshots contain alt text that contain context. REVISE
+- [ ] Confirm that there's alt text for screen shots: Check that any screenshots contain alt text that contain context. REVISE
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
 **Also confirm these components are checked in the Drupal file:**</br>
