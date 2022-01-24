@@ -19,16 +19,18 @@
 - [Basic workflow](https://www.sketch.com/s/f0ac7ad9-03cf-49c4-b2a8-9fb85a88b31a/a/GmGW8y7)
 
 #### Open questions
-- Who are the SMEs for this process?
 - Is there an automatic approval?
 - What are the exceptions and edge cases?
 - There is one application for both SAH and SHA, but no way for the veteran to select one. Is that determined by the reviewer? If not, what do we need to know up front?
 - On the three conditional questions, we have free-form responses to enter dates and addresses - what does the back end need/accept here? Do users ever need to enter more than one previous address?
+    - Meeting on Jan 12, 2022 - We will include dates and address fields, but these will NOT be required. 
+- For the current condition question, what is expected?
+    - Meeting on Jan 12, 2022 - We can work on wording to lead veteran to provide medical information that would help with approval.
 - What is the timeline for approvals? (When should the Veteran return to check status or follow up?)
+    - Meeting on Jan 12, 2022 - possibly 90 days now, Oscar to follow up 
 - What is the approval artifact? Independent View page? Link in my VA?
 - There is an appeals check link that looks like it goes to the overall claim or appeals status tool.  What do we need to know about appeals on this benefit?
-- For the previous applications, do users typically have just one previous? Do we need to accomodate multiple?
-    - These are free-form in the application. What does the back end accept?
+
 
 ### Research
 `TBD`
