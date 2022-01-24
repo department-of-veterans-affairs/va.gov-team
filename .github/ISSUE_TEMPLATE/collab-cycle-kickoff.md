@@ -1,7 +1,7 @@
 ---
 name: Collaboration Cycle Kickoff
 about: Begin engaging with the Collaboration Cycle
-title: Collaboration Cycle Kickoff [Team Name, Feature Name] test
+title: Collaboration Cycle Kickoff [Team Name, Feature Name] 
 labels: governance-team, collaboration-cycle, collab-cycle-review
 assignees: 
 
@@ -141,7 +141,7 @@ Examples of **changes to url, navigation, or entry points** include:
 - [ ] Yes
 - [ ] No
 
-### 12. Does your team have a Github label for this product?
+### 12. Is there a GitHub label in the va.gov-team repo for this product?
 
 - [ ] No. 
 - [ ] Yes. Please specify: ____________
