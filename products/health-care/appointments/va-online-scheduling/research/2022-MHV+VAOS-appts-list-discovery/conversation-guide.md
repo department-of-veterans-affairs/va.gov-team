@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research
+# Conversation Guide for MHV+VAOS Appointments List Discovery
 
 ## Moderator logistics
 
