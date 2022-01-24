@@ -32,7 +32,7 @@ assignees: ''
 ## Platform directions
 - Update "Issue Title"
 - Link to collab cycle touchpoint meeting epic
-- Add to the Feedback pipeline on the Platform Product Support board
+- Add to the Feedback pipeline on the Platform Governance team board
 - Add your feedback
 - Add assignees based on collab cycle touchpoint
   - **Design Intent**: VFS designer, VFS PM (optional), yourself (optional)
