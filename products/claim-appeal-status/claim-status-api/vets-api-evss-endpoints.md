@@ -3,7 +3,7 @@
 ## EVSS settings
 
 ```yaml
-# `vets-api/config/settings.yml`
+# /vets-api/config/settings.yml
 # Settings for EVSS
 evss: # ln# 285
   prefill: true
