@@ -107,11 +107,11 @@ A couple of participants thought that there should be a link or explanation of w
 
 ### The updated copy that appears after the document upload is well-received. Participants didn't indicate any negative feelings, but rather appreciated the reminder.
 
-All participants who went through the upload a document simulation, received the reminder of "Check your upload before you continue" well. A couple of participants mentioned how easy it is to select the wrong file when uploading, and appreciated the reminder to check the file name. This rewritten message showed great improvement from the [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md)in which particpants felt like that the copy that stated that there could be a delay/rejection due to wrong document upload is very negative.
+All participants who went through the upload a document simulation, received the reminder of "Check your upload before you continue" well. A couple of participants mentioned how easy it is to select the wrong file when uploading, and appreciated the reminder to check the file name. This rewritten message showed great improvement from the [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) in which participants felt like the copy that stated that there could be a delay/rejection due to wrong document upload is very negative.
 
 ### The majority of participants demonstrated an awareness that the requirement of a "medical" stipulation specifically would be necessary to prove that a representative has legal authority to sign on behalf of the Veteran.
 
-The majority of participants when asked to explain in their own words the "who will sign" page, specifically mentioned that someone with "medical" authority could sign for the Veteran. 
+The majority of participants, when asked to explain in their own words the "who will sign" page, specifically mentioned that someone with "medical" authority could sign for the Veteran. 
 
 ### All participants recognized that the "who will sign" question has direct relationship to the signature of the application. 
 
@@ -121,7 +121,7 @@ This is likely to result in more Veteran signatures because participants didn't 
 
 ### Similar to the Mental model and Content-specific comprehension [study findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) some participants think that the proof documentation comes from the VA and would like further instruction on how to obtain this document if they don't have it and need to sign on behalf of the Veteran.
 
-Some participants felt that it would be useful to provide a link to a VA document that could be filled out to show proof of legal right to medical decisions on behalf of the Veteran. They thought that it's important to provide next steps for someone who doesn't have the paperwork, but needs to sign as a representative on the Veteran's behalf. As pointed out by the SMEs, this isn't a simple proces, and would require the applicant to abandon the application and start over. 
+Some participants felt that it would be useful to provide a link to a VA document that could be filled out to show proof of legal right to medical decisions on behalf of the Veteran. They thought that it's important to provide next steps for someone who doesn't have the paperwork, but needs to sign as a representative on the Veteran's behalf. As pointed out by the SMEs, this isn't a simple process, and would require the applicant to abandon the application and start over. 
 
 We need to look into how to better prepare the applicant before they start the application to avoid waste of time and resulting drop-offs. Additionally, we need to provide brief education/ next steps for a representative that does reach the document upload page. 
 
@@ -132,7 +132,7 @@ We need to look into how to better prepare the applicant before they start the a
 - The Primary/Secondary Caregiver selection continues to cause confusion to participants
 - Applicants could benefit from being able to select "same address" for Veteran and Caregiver
 - Participants are uncertain about why the Caregiver is asked if they have insurance and worry that it is a requirement to be in the program. Applicants could benefit if there was an explanation of why this question is asked how it will impact their application. 
-- 3 participants were confused by the "Download VA form 10-10CG(PDF)" link on the introduction page. Two participants thought it was the POA form (because of note immediately below the link). One participant thought this was the only way to fill out the 10-10CG and didn't notice the button to start the application (they filled out the PDF from the link when they applied for the program).
+- 3 participants were confused by the "Download VA form 10-10CG(PDF)" link on the introduction page. Two participants thought it was the POA form (because of the note immediately below the link). One participant thought this was the only way to fill out the 10-10CG and didn't notice the button to start the application (they filled out the PDF from the link when they applied for the program).
 - Participants would like the requirements for becoming a primary/secondary caregiver to be more prominent in the introduction, including:
      -  Difference and expectations for the role of primary and secondary caregivers
      -  That the Veteran is already enrolled in health care
@@ -182,4 +182,4 @@ We need to look into how to better prepare the applicant before they start the a
 
 ### Other supporting documents created
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/usability-research-plan.md)
-- [Research Findings Presentation PDF]()
+
