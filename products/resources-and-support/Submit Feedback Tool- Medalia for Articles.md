@@ -10,26 +10,31 @@ as well streamline operations internally. Additionally Medalia already has analy
 ## Problem Statement
 *Currently the Research and Article pages have the option for a veteran to submit whether their experienc on the page was good or bad. The S&D team have been
 discussing adding additional canned messages for selection so we can futher analyze the reason for the selection i.e why it was good or bad. 
-VA.gov also has a feedback survey selection on the right hand of the application. When we look to adding quetions for artcile experience it makes sense to
-explore combining our efforts with Jason Woodman's team and utilize Medalia.*
+VA.gov also has a feedback survey selection on the right hand of the application. When we look to adding quetions for artcile experience we have a couple options to explore. All options require working with Jason Woodman's team to maket the appropriate decisicion for the path forward.*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+*Some of the options that exist could include combining the survey experiences, displaying them individually on the correct pages/articles, working towards if this then that decision trees, etc...*
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- *Veterans may be confused why they are asked different questions on different pages on the website note- research to validate*
+- *Solving the issue of multiple surveys could provide less frustration, more efficiency, ability to submit issues, and just an overall improved 
+- experience for the Veterans*
 
 ## Undesired User Outcomes
+- *Creating a frustrating experience for the Veterans*
+- *Creating a more time consuming experience for the Veterans*
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
+- *Streamlined sensible process for Veterans to submit feedback*
+- *Utiliziation of Medalia since it is already implemented and provides analytics*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
-
+- *Additional/Secondary processes*
+- *Additional reporting tool creations*
+- 
 
 ---
 ## Measuring Success
