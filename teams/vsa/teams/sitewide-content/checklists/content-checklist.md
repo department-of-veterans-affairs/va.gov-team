@@ -8,6 +8,7 @@
 ### Accessibility standards
 
 - [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) NOTE: When we have a style guide entry for purpose and target, we'll link there instead. 
+- [ ] Tell users where they'll land if your link will take them off VA.gov: Make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov and where they're going.
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 - [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/) NOTE: After we add a link to this from our style guide entry for "Page titles and section titles", change this content checklist link to point to our style guide entry.
 
@@ -23,7 +24,6 @@
 - [ ] Related links: Confirm that you've added appropriate related links to the file (they should truly be related to the article—rather than “something the reader may also be interested in”).
 - [ ] Cross linking: Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
 - [ ] Call to action (CTA): When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
-- [ ] Indicate purpose and target in your CTA text: If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov. LINK TO PURPOSE AND TARGET
 - [ ] Confirm that there's alt text for screen shots: Check that any screenshots contain alt text that contain context. REVISE
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
