@@ -1,4 +1,4 @@
-# Submit Feedback Tool (Medallia for Articels) Product Outline Template
+# Submit Feedback Tool (Medalia for Articels) Product Outline Template
 
 
 ---
