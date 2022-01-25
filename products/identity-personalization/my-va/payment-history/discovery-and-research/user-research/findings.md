@@ -87,13 +87,14 @@ All but one participant in this group were unfamiliar with VA debt, so they had 
 Once they visited My VA, it was clear to them that they would see information about any debts under the “Benefit payments and debts section”.  6 participants also commented on the onsite debt notification at the top of the page as soon as they landed on My VA.
 
 #### Participant expectations about where to find the travel reimbursement information were varied.
-After reviewing the page, we asked 10 of 12 participants where they might find a link for travel pay on My VA:
-* 4 participants said benefit payments and debts
-* 3 participants said health care
-* 2 participants said claims & appeals (stating that you have to submit a claim to get reimbursed)
-* 1 participant didn’t think they’d find that information on My VA and wanted to use search
+After reviewing the page, we asked 10 of 12 participants where they might find a link for travel pay on My VA. Many of them quickly stated an answer, but then about it making sense in two places (usually Benefit payments and debts and Health care) Their initial responses were:
+* Benefit payments and debts - 4 participants
+* Health care - 3 participants
+* Claims & appeals - 2 participants
 
-We didn’t get to discuss this with each participant due to time constraints, but all of those we spoke to thought it would be helpful to have a link to request travel pay on My VA.
+1 participant didn’t think they’d find that information on My VA and wanted to use search. 
+
+We didn’t get to discuss this with each person due to time constraints, but all of those we spoke to thought it would be helpful to have a link to request travel pay on My VA, regardless of exactly where it was.
 
 #### Participants preferred My VA sections to be ordered by on their VA benefits and services. 
 Each participant had different feedback about which section of My VA mattered most to them. They each stated the highest priority section was the one containing information about the benefit they used most. A few commented that the most important section to them would change over time.
@@ -145,7 +146,6 @@ Not surprisingly, participants who had been long-time recipients of steady compe
 #### Some participants found it helpful to know the number of outstanding debts.
 
 Of the 6 participants we were able to ask about the specific number of outstanding debts, 5 stated it would be important for them to see the number.  Their comments suggest that including the number of debts in the alert would spur them into action more than simply knowing there was a new debt.
-
 > I think it’s important to know because up top, it just tells me I have a debt but you go down here and then see I have 3 debts. Oh man. 3 debts? Let me go in there and see what’s going on. - P13
 
 > I would want to see a number there. Especially, because if it didn’t, and it says you have an outstanding debt, and there was a new debt, I wouldn’t know. - P10, *did not seem to understand the difference in content between the two alerts*
@@ -154,7 +154,6 @@ Of the 6 participants we were able to ask about the specific number of outstandi
 
 #### Two pieces of information were repeatedly named as being missing from the Benefit payments and debts section: remaining education benefits, and debt status.
 All 4 participants who had education benefits shared that it was not easy to figure out how much education benefit they had remaining, and that it would be useful to see that information on this page.
-
 > I had to inquire about how much I have left available If I wanted to transfer my post 9/11 to one of my kids. If there was a link on here for those that are still eligible, that would go in with the whole idea of one stop shop. - P13
 
 > I know I will be trying to get a PhD, I just can’t remember how many months I have left. I will use the rest of my GI Bill. I can’t recall all of the details right now but that [My VA] would be the easiest way to find it. - P16
@@ -174,7 +173,6 @@ Multiple people talked about wanting to see the last payment regardless of how f
 #### The majority of participants intuitively used the View payment history and Manage your direct deposit links; the exception was a participant using screen magnification software.
 Almost all participants easily found the links to take action on their payments, and had no trouble navigating back to My VA after viewing the information. 
 A participant using ZoomText, a screen enlargement software with a speech component, eventually found the “Manage your direct deposit” link but shared feedback about challenges navigating multi-column layouts. They stated that it was unlikely they would have found it had they not been in a moderated research session.
-
 > When I move it over to see manage your direct deposit [link], then I can’t see manage your benefit and payment debts [heading]. To make the screen large enough to read manage your direct deposit, I can’t see that other part [heading]. 
 > 
 > *Moderator: How does that impact the way you understand what you’re looking at?*
@@ -192,24 +190,22 @@ All participants clearly understood the hyperlink in our notification design, an
 No participants dismissed the alert without prompting. This could be due to being previously warned they were viewing a prototype and not all items were clickable. Once prompted, they easily understood the `x` would dismiss the alert. 
 
 Only 2 participants thought that because the alert said “new debt” it would go away after they viewed, but not paid their debt. The remaining participants stated they expected the alert to be visible until the debt had been paid.
-
 > *Moderator: So now, if you came back here another time and your debt hadn’t been paid -*
 >  It would pop back up. - P13
+
+Toward the end of the sessions, we asked participants how they expected to see the onsite notification again once they dismissed it. All participants stated they could access similar information by going down to Benefit payment and debts. This makes sense, since they had already been exposed to the content. If they dismissed the alert without scrolling down first, it’s likely they would feel unsure about how to see that information again. That could cause a moment of panic if they had caught a glimpse of the debt related content just before dismissing it.
 
 #### Multiple participants commented that the light yellow color for the alert did not stand out to them, and one participant stated it made the text very difficult to read.
 
 While many participants noticed the alerts right away, several commented that the light yellow did not communicate the appropriate level of urgency that should accompany a message about outstanding debt or unread health care messages.
-
 > This is a soft soothing yellow, it’s kind of chill - it doesn’t strike urgency. - P15
 
 > Because they’re beige, they don’t hit you in the face like maybe they should. Like if it was red or a brighter orange. Like, hello hello you have two messages! - P7 
 
-A legally blind participant stated they could not read the text against that color background.
-.
+A legally blind participant stated they could not read the text against that color background..
 > That, yellow or brown, whatever that color is, it makes it hard for me to read in that color. - P17
 
-## Additional finding
-
+## Additional findings
 ### 2 participants wanted a heading above the alert section at the top of the page to provide additional context.
 We first heard this when an internal VA accessibility consultant tested our prototype with their screenreader, prior to kicking off our study. They had no context for the content in the alert. It was confusing for them to hear their screenreader read out “My VA, Go to profile [link], You have a new debt, Manage your VA debt [link]”.
 
@@ -224,29 +220,52 @@ We asked participants where they expected to find a link for travel reimbursemen
 
 They stated the onsite kiosk was significantly easier, because it automatically calculated mileage and knew they checked it for their appointments.
 
-## Lessons about the recruiting process and participant pool
-### Recruiting criteria seems to have been unclear.
-The recruiting roster indicated that almost all participants had some form of non-health debt with VA, but  only 1 participant actually had debt.
+## Recommendations
+1. **Put the travel reimbursement link under health care.** 
+- Participants related travel pay to health care.
+- This aligns with where travel pay information is found in other parts of VA.gov.
+2. **Keep onsite notifications at the top of the page, and within sections.**
+- The top of the page placement made alerts clearly noticeable.
+- Most participants didn’t have a problem with repeated information on the page. 
+- All participants felt alert content throughout the page was important and helpful.
+3. Create logic so that alerts can only be permanently dismissed once the action is addressed, rather than by a person’s action.
+- Participants expected alerts to display on My VA until they completed the action they were being alerted about.
+- Most participants felt that dismissing the debt alert would be OK since they had a back-up in the Benefit payment and debt section. They only knew this since they were participating in a moderated session and had been asked to review the page.
+4. Include specific information in debt alerts, including amount and number of debts.
+5. Display a “you have no debt” confirmation message in Benefit payments and debts.
+6. Include information about remaining education benefits to Benefit payment and debt section.
+- Most helpful would be remaining amount
+- for people who have received education payments, regardless of how long ago it was.
+- Even better if there could be information about what is eligible to transfer or use
+7. Iterate on the alert design to improve usability for people with low vision, and to better communicate a level of urgency.
+8. Add a heading for the onsite notification section.
+
+## Next Steps
+- Review findings and recommendations with team
+
+## Further research needed
+In our next round of research, we should recruit participants who:
+- Have debt with VA, so we can get information based on lived experience
+- Use magnification, so we can better understand any usability hurdles of My VA’s multi-column layout
+- 
+
+## Lessons about research logistics
+### Recruiting criteria could have been more clear.
+The recruiting roster indicated that almost all participants had some form of non-health debt with VA, but  only 1 participant actually had debt. This meant we had to resort to our UX Pin prototype, rather than allow people to explore their own My VA account as we had hoped.
 
 **Recommendation**:  Be more explicit in future studies, and ask recruiters to verify with participant prior to scheduling them for a session.
 
 ### We got clarity halfway through the study that it is permissible to record PII.
 As a result, we were able to create detailed transcripts for half the sessions.  Moving forward, we know now that we can record PII as long as we pause the recording during the actual login process. Of course, we need to follow our usual protocol of destroying recordings as soon as analysis is complete.
 
-* Needed to allow more time for sessions (should’ve been 45 minutes)
-* Should’ve put max number of sessions
+### Increase the session time to allow for late arrivals and participant set up.
+Our sessions were scheduled for 30 minutes, which was *exactly* enough time for our tasks.  We didn’t allow buffers for late arrivals, technical hurdles, or people requiring assistance during the session (2 participants had their spouse with them to help with Zoom).  This meant that we had to pick and choose some questions as we neared the end of our session time.
+**Recommendation:** Add 15 minutes to amount of time required to complete tasks in future studies.
 
-# Recommendations
-* Recommendation 1
-	* /Supporting evidence/
-* Recommendation 2
-	* /Supporting evidence/
+### Set a limit for the maximum number of sessions per day.
+We had 7 sessions scheduled for the last day of research. With the 50% cancellation/no-show rate, that seemed feasible - until all but one participant showed up! We were grateful for the sessions, but were fatigued by the end of the day. It was challenging to bring the same level of energy to each session as the day went one.
+**Recommendation:** Specify a maximum number (5) sessions per day in the research plan, and add an extra day of sessions tif needed. 
 
-# Next Steps
-/Next steps here. Include owners if appropriate./
-
-# Further research needed
-/If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here./
 
 # Appendix
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/payment-information-research-plan.md)
