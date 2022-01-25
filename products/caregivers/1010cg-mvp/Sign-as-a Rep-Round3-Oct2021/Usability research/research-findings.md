@@ -99,7 +99,7 @@ By clearly phrasing that this selection is used only for this application signat
 
 
 ### Some participants thought it would help them make a selection if the types of documents accepted/ not accepted were listed on the "who will sign" question page. 
-  ** a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.**
+  **a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.**
   
 Some participants looked for information about what type of document could be accepted/not accepted while they made the decision of who will sign the application. They seemed relieved that this information is given on the next page, but thought it would be useful to have it both in the introduction and on the "who will sign" page.
 
