@@ -277,6 +277,12 @@ We asked participants where they expected to find a link for travel reimbursemen
 
 They stated the onsite kiosk was significantly easier, because it automatically calculated mileage and knew they checked it for their appointments.
 
+### When asked where they would expect to find a link to co-pay information, participants were split between 2 sections.
+We added another question mid-study to get feedback from Veterans on where they expected to find a link to information about co-pays. 
+- 2 participants expected to find it under Health care
+- 2 participants expected to find it under Benefit payments and debts
+- 1 participant stated they wouldn’t expect to see that on My VA and would use site search to find it.
+- 
 ## Recommendations
 1. **Put the travel reimbursement link under health care.** 
 	- Participants associated travel pay with health care.
@@ -316,6 +322,8 @@ In our next round of research, we should include participants that:
 - Identify has having cognitive considerations, so we can validate that our alert pattern works for that population.
 
 We will also aim to recruit a majority BIWOC participant group, since this round of research included mostly white, male participants.
+
+We’ll need to conduct additional research to better understand Veteran expectations around co-pay information, since we didn’t get definitive conclusions on that in this study.
 
 ## Lessons about research logistics
 ### Recruiting criteria could have been more clear.
