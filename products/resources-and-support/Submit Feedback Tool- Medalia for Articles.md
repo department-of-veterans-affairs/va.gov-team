@@ -65,7 +65,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- *Medalia can be enabled/disabled on certain pages*
+- *S&D could have a separate set of questions or add questions to Medalia and have those presented on the appropriate article pages*
+- 
 
 ## Solution Approach
 
