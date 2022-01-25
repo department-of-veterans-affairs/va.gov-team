@@ -201,17 +201,14 @@ Only 2 participants thought that because the alert said “new debt” it would 
 While many participants noticed the alerts right away, several commented that the light yellow did not communicate the appropriate level of urgency that should accompany a message about outstanding debt or unread health care messages.
 
 > This is a soft soothing yellow, it’s kind of chill - it doesn’t strike urgency. - P15
->
 
+> Because they’re beige, they don’t hit you in the face like maybe they should. Like if it was red or a brighter orange. Like, hello hello you have two messages! - P7 
 
 A legally blind participant stated they could not read the text against that color background.
 .
-> That, yellow or brown, whatever that color is /mouses over alert/ it makes it hard for me to read in that color.
+> That, yellow or brown, whatever that color is, it makes it hard for me to read in that color. - P17
 
-## Additional findings
-### It was not particularly important to people who had been receiving consistent compensation payments to see payment information on My VA.
-* They weren’t bothered by seeing it, but it isn’t something they check on or look at regularly.
-* Multiple participants made comments that it would be important to them if they were living “day to day” or “check to check”
+## Additional finding
 
 ### 2 participants wanted a heading above the alert section at the top of the page to provide additional context.
 We first heard this when an internal VA accessibility consultant tested our prototype with their screenreader, prior to kicking off our study. They had no context for the content in the alert. It was confusing for them to hear their screenreader read out “My VA, Go to profile [link], You have a new debt, Manage your VA debt [link]”.
@@ -240,8 +237,6 @@ As a result, we were able to create detailed transcripts for half the sessions. 
 * Should’ve put max number of sessions
 
 # Recommendations
-/Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed./
-
 * Recommendation 1
 	* /Supporting evidence/
 * Recommendation 2
