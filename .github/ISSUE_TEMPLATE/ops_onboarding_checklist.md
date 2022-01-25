@@ -9,7 +9,7 @@ assignees: ''
 
 # Ops Onboarding
 ## Overview
-Welcome to the platform and more particularly the VSP Operations team.  This ticket is a checklist and guide to try and improve the onboarding process and get you up to speed.
+Welcome to the platform and more particularly the VSP Infrastructure team (formerly called Operations).  This ticket is a checklist and guide to help you onboard and get up to speed.
 
 If you have any questions/need access please reach out to Jesse House (@jhouse-solvd) or Demian Ginther (@dginther).
 
@@ -17,12 +17,12 @@ If you have any questions/need access please reach out to Jesse House (@jhouse-s
 
 ### Admin work
 - [ ] If new to VA, will need background check. Fill out forms from Amber, get fingerprinted, and fill out eQIP investigation request in order to get a PIV card
-- [ ] set up [TMS](https://www.tms.va.gov/secureauth35/SecureAuth.aspx) account and take required trainings
+- [ ] Set up [TMS](https://www.tms.va.gov/secureauth35/SecureAuth.aspx) account and take required trainings
 
 ### Access to what you need
 - [ ] [Getting setup](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
-- [ ] Share your calendar with VSP: va-vsp-team@gmail.com and  vsp-team.group@adhocteam.us
-- [ ] Ensure you're in Google Groups [va-vsp-team](https://groups.google.com/a/oddball.io/g/va-vsp-team) and [va-vsp-engineering](https://groups.google.com/a/oddball.io/g/va-vsp-engineering)
+- [ ] Share your calendar with VSP: va-vsp-team@oddball.io and  vsp-team.group@adhocteam.us
+- [ ] Ensure you're in Google Groups [va-vsp-team](https://groups.google.com/a/oddball.io/g/va-vsp-team) and [va-vsp-engineering](https://groups.google.com/a/oddball.io/g/va-vsp-engineering). Use `/support` in #vfs-platform-support to request access.
 - [ ] Ensure you have access to Google Drive folder ["VSP team"](https://drive.google.com/drive/u/0/folders/0AJ6yVhfytxhFUk9PVA)
 
 **Tools**
@@ -38,16 +38,16 @@ If you have any questions/need access please reach out to Jesse House (@jhouse-s
   - [ ] [Sentry](http://sentry.vfs.va.gov/)
   - [ ] [Grafana](http://grafana.vfs.va.gov/)
   - [ ] [Argo CD](http://argocd.vfs.va.gov/)
-- [ ] [Pagerduty](https://dsva.pagerduty.com/)
+- [ ] [Pagerduty](https://dsva.pagerduty.com/) (for access, ask a pd admin: @jbritt1 or @mleclerc00)
 - [ ] [Confluence](https://vfs.atlassian.net/wiki/home)
   - [ ] [Operations Team space](https://vfs.atlassian.net/wiki/spaces/OT/overview)
 - [ ] Keybase
-- [ ] Prometheus (not used directly)
-- [ ] [Datadog](https://app.datadoghq.com/) (ask for invite)
+- [ ] Prometheus (not used directly, but check to make sure you have access by going [here](http://prometheus-prod.vfs.va.gov:9090/prometheus/graph?g0.range_input=1h&g0.expr=&g0.tab=0))
+- [ ] [Datadog](https://app.datadoghq.com/) (ask for invite from whoever is on call, or someone else on your team.)
 - [ ]  AWS ([access request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=Environment-Access-Request-Template.yml&title=Access+for+%5Bindividual%5D))
 
 ### Understanding VSP and where we sit
-- [ ] [Overview of VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Welcome%20to%20VSP.md#welcome-to-the-veteran-facing-services-platform)
+- [ ] [Overview of VSP](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html)
 - [ ] [Getting to know VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/vsp-team-member-onboarding.md)
 - [ ] [Overview Presentation of VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/VSP%20Mission%2C%20Objectives%2C%20Roadmap%2C%20and%20OKRs%20-%207-23-19.pdf)
 
@@ -58,17 +58,13 @@ High level:
 - [ ] [Delivery Infrastructure Overview demo presentation](https://docs.google.com/presentation/d/1dXE3kkG56fXu7QvqH7qu5mGE3gfalD0FRf-gbnnjnHc/edit?usp=sharing)
 - Meet the members of the team
   - [ ] Jesse
-  - [ ] Demian
   - [ ] Jeremy
   - [ ] Matt
-  - [ ] Bill
-  - [ ] Faith
-  - [ ] Sri
-  - [ ] Ryan
-  - [ ] Robert
-  - [ ] Gary
-  - [ ] Troy
-  - [ ] Azeez
+  - [ ] John
+  - [ ] Oseas
+  - [ ] Rebecca
+
+
 
 More details on our work:
 - [ ] [Infra recommit work](https://docs.google.com/document/d/1cVFlFXuwjg_dbapwiCZ-iT01mywcZdHBhfzPjAq-7TI/edit)
