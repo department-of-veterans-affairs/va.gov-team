@@ -376,8 +376,6 @@ Disability and Assistive Technology (AT):
 * Captions: 1
 
 ## Underserved groups we haven’t talked to
-/[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)/
-
 This research does not include the perspectives of the following marginalized Veteran groups: /List all groups in red from the spreadsheet/
 
 * Veterans with cognitive disabilities
@@ -389,5 +387,4 @@ This research does not include the perspectives of the following marginalized Ve
 * Transgender Veterans
 * Beginning and experienced AT users 
 * Users of the following assistive technologies: mobile screen readers, keyboards attached to mobile devices or tablets, switch devices and braille readers.
-
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png” />
+[image:https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png]
