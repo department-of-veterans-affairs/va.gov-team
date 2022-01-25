@@ -13,8 +13,8 @@
 ## January 24, 2022
 ### Agenda
 - Denise: Change Management Framework
-- Content team: updates on R&S pilot for non-authors and discovery for Benefit Hubs
 - Kevin: R&S content type descriptions
+- Content team: updates on R&S pilot for non-authors and discovery for Benefit Hubs
 
 ## January 11, 2022
 ### Agenda
