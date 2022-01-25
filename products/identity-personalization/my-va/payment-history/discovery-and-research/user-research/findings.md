@@ -13,7 +13,7 @@ Researcher: Liz Lantz [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us)
 * [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#further-research-needed)
 
 ## Research Goals
-The MVP we tested in this research focused on surfacing payment and debt information to Veterans. Though this is relevant at all stages of the Veteran journey, it’s particularly important when Veterans are **Starting up, Putting down roots, and Retiring** and actively managing finances at those stages. 
+The MVP we tested in this research focused on surfacing payment and debt information to Veterans. Though this is relevant at all stages of the Veteran journey ([review complete journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)), it’s particularly important when Veterans are **Starting up, Putting down roots, and Retiring** and actively managing finances at those stages. 
 
 The purpose of this research was to:
 
