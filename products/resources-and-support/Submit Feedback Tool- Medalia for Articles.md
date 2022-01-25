@@ -8,7 +8,7 @@
 as well streamline operations internally. Additionally Medalia already has analytics capabilities that the S&D team can build off of.*
 
 ## Problem Statement
-*Currently the Research and Article pages have the option for a veteran to submit whether their experienc on the page was good or bad. The S&D team have been
+*Currently the Research and Article pages have the option for a veteran to submit whether their experience on the page was good or bad. The S&D team have been
 discussing adding additional canned messages for selection so we can futher analyze the reason for the selection i.e why it was good or bad. 
 VA.gov also has a feedback survey selection on the right hand of the application. When we look to adding quetions for artcile experience we have a couple options to explore. All options require working with Jason Woodman's team to maket the appropriate decisicion for the path forward.*
 
