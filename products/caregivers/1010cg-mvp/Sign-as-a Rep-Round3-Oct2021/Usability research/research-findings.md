@@ -1,4 +1,4 @@
-# [DRAFT] Research Findings: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, January 2022
+# Research Findings: VSA Caregiver, Representative and Primary Caregiver/Secondary for the 10-10CG form, January 2022
 
 Dené Gabaldón (dene.gabaldon@adhocteam.us), 1/21/2022
 
@@ -177,9 +177,9 @@ We need to look into how to better prepare the applicant before they start the a
      - Layout other requirements such as the Veteran must have health care through the VA
      - Caregiver must live with the Veteran (to be confirmed)
      - Requirements and expectations of a Primary vs. Secondary Caregiver
+* In the future further studies should be done on staging or prod to ensure usability for mobile users and those who use assistive tech.
 
-
-## Next Steps (TBD)
+## Next Steps 
 
 * Update the design and copy 
     * Add language to the "who will sign" selection page that says what documents can/cannot be accepted 
@@ -194,7 +194,7 @@ We need to look into how to better prepare the applicant before they start the a
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/conversation-guide.md)
 
 ### Interview transcripts
-[Session notes]() 
+[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-notes) 
 
 ### Pages and applications used
 [UXPin prototype](https://app.uxpin.com/edit/8992489#?id_page=146375940)
