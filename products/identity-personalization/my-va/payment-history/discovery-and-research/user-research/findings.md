@@ -1,21 +1,16 @@
 # My VA Payment Info and Onsite Notifications Research Findings
 *Office of the CTO - Digital Experience (OCTO-DE), Profile, Authenticated Experience*
 
-Date: `DRAFT`
+Date: 1/25/2022
 
-Liz Lantz [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us),
+Researcher: Liz Lantz [liz.lantz@adhocteam.us](mailto:liz.lantz@adhocteam.us)
 
 *Jump to:*
-
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#hypotheses-and-conclusions)
-
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#key-findings)
-
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#recommendations)
-
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#who-we-talked-to)
-
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#further-research-needed)
+* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#hypotheses-and-conclusions)
+* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#key-findings)
+* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#recommendations)
+* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#who-we-talked-to)
+* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md#further-research-needed)
 
 ## Research Goals
 The MVP we tested in this research focused on surfacing payment and debt information to Veterans. Though this is relevant at all stages of the Veteran journey, it’s particularly important when Veterans are **Starting up, Putting down roots, and Retiring** and actively managing finances at those stages. 
@@ -42,7 +37,7 @@ What information do users want to know about new debts, existing debts, and paym
 	* Is it important for them to know how many new debts have been added, or only that they have new debt?
 * Are we missing any additional links?
 * How long do users expect to have access to historical financial information (debts + payments) on My VA?
-* Does providing a link allow users take sufficiently take action on their payments and debts, and manage direct deposit?
+* Does providing a link allow users to sufficiently take action on their payments and debts, and manage direct deposit?
 
 ### Onsite notifications
 * Does the proposed MVP solution (a single dismissible debt notification displayed at the top of the page) help Veterans to more easily take action on their payments or debts?
@@ -52,9 +47,11 @@ What information do users want to know about new debts, existing debts, and paym
 * When does a user expect to see an alert about new debt?
 
 ## Methodology
-We conducted 30 minute remote moderated sessions via zoom on *January 12-14, 2022.* Participants were asked to log in to VA.gov and provide feedback on two parts of My VA: the Benefits payments and debts section, and onsite notifications.
+We conducted 30 minute remote moderated sessions via zoom on *January 12-14, 2022.* Participants were asked to log in to VA.gov and provide feedback on two parts of My VA: onsite notifications, and the Benefits payments and debts section.
 
-!TK insert screenshot of page with two sections tested highlighted.
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png" />
+
+*Caption: screenshot of My VA, with the two parts we tested called out.*
 
 ## Hypotheses and Conclusions
 * We believe Veterans will be able to more easily manage their debts and view payment history using the links in My VA.
@@ -82,7 +79,7 @@ All participants noticed the view payment history link on My VA as soon as they 
 > I am not sure if that’s me paying the VA for my debt or if that’s the VA paying me. That’s not clear to me. - P12
 
 #### Participants weren’t confident about where to find debt information from the homepage, but clearly understood where to find that information on My VA.
-All but one participant in this group were unfamiliar with VA debt, so they had no context around looking for such information. Some participants, including the one participant with debt, guessed they might find debt information under payment history. However, most had no expectation about where to find debt information.
+All but one participant in this group were unfamiliar with VA debt, so they had no context around looking for such information. Some participants, including the one participant with debt, guessed they might find debt information under payment history. This aligns with what other VA.gov team’s have noted in research. In both the [VBA debt portal usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/research/usability-july20/usability-readout.md#usability-key-takeaways-in-depth) and [VHA copayment discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#when-searching-vagov-for-information-about-money-owed-to-va-veterans-often-search-within-the-lens-of-the-hub-theyre-dealing-with), Veterans narrowed in on the “View your payment history” link on the homepage and expected all payments received from and owed to VA would live there.
 
 Once they visited My VA, it was clear to them that they would see information about any debts under the “Benefit payments and debts section”.  6 participants also commented on the onsite debt notification at the top of the page as soon as they landed on My VA.
 
@@ -120,7 +117,7 @@ The top of the page was a logical placement. This was especially true for time s
 
 > If you don’t bother to scroll down, and you’re on the phone, if you have a lot of stuff going on, you won’t see it.  - P16
 
-Our prototype had two similar debt-related alerts on in different locations on the page.
+Our prototype had two similar debt-related alerts in different locations on the page.
 
 !TK insert screenshot.
 
@@ -169,7 +166,7 @@ Participants wanted to see the status of their debt, even if they had no outstan
 - Some expected the new debt alert to be replaced with a confirmation of payment, once they had paid.
 > It should say no debt. Or give a confirmation that it your debt has been paid in full. - P3
 
--  Some wanted to My VA to reflect that they did not have any outstanding debt.  
+-  Some wanted My VA to reflect that they did not have any outstanding debt.  
 > Even if I have a zero balance owed, it would be cool to be able to confirm that. - Pilot
 
 #### Seeing the most recent payment on My VA was sufficient for participants, since the information is accompanied by the View Payment History link.
@@ -239,20 +236,21 @@ They stated the onsite kiosk was significantly easier, because it automatically 
 3. **Create logic so that alerts can only be permanently dismissed once the action is addressed, rather than by a person’s action.**
 	- Participants expected alerts to display on My VA until they completed the action they were being alerted about.
 	- Most participants felt that dismissing the debt alert would be OK since they had a back-up in the Benefit payment and debt section. They only knew this since they were participating in a moderated session and had been asked to review the page.
-4. **Include specific information in debt alerts, including amount and number of debts.**
+4. **Include specific information in debt alerts, including the total amount and number of debts.**
 	* Across all sessions, participant stated amount was the most important piece of information about a debt.
 	* Many participants stated the number of debts was helpful to know up front, especially if the number was more than 1.
-6. **Display a “you have no debt” confirmation message in Benefit payments and debts.**
+6. **Display a “you have no debt” confirmation message in Benefit payments and debts, and possibly also a link to debt management so Veterans can get more information.**
 	* Participants with and without debt expressed they would like confirmation that their debt had been resolved.
+	* At least 3 participants did not understand how a person could have debt with VA.
 	* Since the section heading is “Benefit payments and debts”, displaying a message stating there was no debt, rather than not displaying anything at all, would reduce any doubts the user had that something wasn’t displaying correctly.
 7. **Include amount of remaining education benefits and a link to information about how what’s left in the Benefit payment and debt section**.
 	- Participants who used their education benefits shared that it’s difficult to figure out how much education benefit they have left.  All wanted to see their most recent education payment, regardless of how long ago it was, because it would be a starting point to do the math of figuring out what remained.
-	- 2 participants weren’t if they were eligible to use any remaining benefits, or if they could transfer those benefits to their children.
+	- 2 participants weren’t sure if they were eligible to use any remaining benefits, or if they could transfer those benefits to their children.
 8. **Iterate on the alert design to improve usability for people with low vision. Also, consider changes that will more clearly communicate a sense of urgency.**
 	- Our legally blind participant struggled to read the text on the alert due to the yellow background color.
 	- Our accessibility review revealed that we have an opportunity to improve the design to more clearly communicate the significance of the alerts without relying so much on color.
 	- All but 1 participant noticed the alerts right away, so they certainly stand out from the page. However, the light yellow color caused 4 participants to not feel a sense of urgency to take action on the alerts.
-9. **Add a heading for the onsite notification section at the top of the page.**
+9. **Add a heading for the onsite notification section at the top of the page, when there is a notification to display.**
 	* A blind, screenreader user became confused when encountering the debt notification at the top of the page because they had no context for the alert.
 	* One participant in our study had to guess at what the alert meant because there was no heading.
 
@@ -277,11 +275,11 @@ As a result, we were able to create detailed transcripts for half the sessions. 
 
 ### Increase the session time to allow for late arrivals and participant set up.
 Our sessions were scheduled for 30 minutes, which was *exactly* enough time for our tasks.  We didn’t allow buffers for late arrivals, technical hurdles, or people requiring assistance during the session (2 participants had their spouse with them to help with Zoom).  This meant that we had to pick and choose some questions as we neared the end of our session time.
-**Recommendation:** Add 15 minutes to amount of time required to complete tasks in future studies.
+**Recommendation:** Add 15 minutes to the amount of time required to complete tasks in future studies.
 
 ### Set a limit for the maximum number of sessions per day.
-We had 7 sessions scheduled for the last day of research. With the 50% cancellation/no-show rate, that seemed feasible - until all but one participant showed up! We were grateful for the sessions, but were fatigued by the end of the day. It was challenging to bring the same level of energy to each session as the day went one.
-**Recommendation:** Specify a maximum number (5) sessions per day in the research plan, and add an extra day of sessions tif needed. 
+We had 7 sessions scheduled for the last day of research. With the 50% cancellation/no-show rate, that seemed feasible - until all but one participant showed up! We were grateful for the sessions, but were fatigued by the end of the day. It was challenging to bring the same level of energy to each session as the day went on.
+**Recommendation:** Specify a maximum number (5) sessions per day in the research plan, and add an extra day of sessions if needed. 
 
 
 ## Appendix
