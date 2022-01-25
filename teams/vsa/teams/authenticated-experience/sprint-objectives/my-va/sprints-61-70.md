@@ -316,8 +316,23 @@ Are we on hold for this besides backend build?
 ## Sprint 67 (2/9 - 2/22)
 [Sprint 67 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30272)
 
-Payment history
-- QA
+### Payment history
+
+**PM*
+
+- Meet to discuss approach for adding medical copay information
+  -  Are we adding this to Benefit payments & debts, or health care?
+  -  Does this need separate user research?
+  -  Is this more of an enhancement or small, separate project? 
+
+**Design**
+
+- Meet to discuss approach for adding medical copay information
+  -  Are we adding this to Benefit payments & debts, or health care?
+  -  Does this need separate user research?
+  -  Is this more of an enhancement or small, separate project? 
+-  Start design for adding medical copay information
+
 
 ## Sprint 68 (2/23 - 3/8)
 [Sprint 68 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30273)
