@@ -318,7 +318,7 @@ Are we on hold for this besides backend build?
 
 ### Payment history
 
-**PM*
+**PM**
 
 - Meet to discuss approach for adding medical copay information
   -  Are we adding this to Benefit payments & debts, or health care?
