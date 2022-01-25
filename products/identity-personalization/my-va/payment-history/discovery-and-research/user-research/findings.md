@@ -77,8 +77,8 @@ We conducted 30 minute remote moderated sessions via zoom on *January 12-14, 202
 When asked where they’d look for information about their payments on VA.gov, 11 of 12 participants went to the view payment history link under the relevant benefit from the homepage. One participant used the site wide navigation to look for payment information under Pension.
 
 All participants noticed the view payment history link on My VA as soon as they scrolled down to the Benefit payment and debt section of the page.  
-	* 11 of 12 participants expected to see detailed, historical information about payments from VA if they clicked it. 
-	* One participant wasn’t confident what they’d see if they clicked the link:
+* 11 of 12 participants expected to see detailed, historical information about payments from VA if they clicked it. 
+* One participant wasn’t confident what they’d see if they clicked the link:
 > I am not sure if that’s me paying the VA for my debt or if that’s the VA paying me. That’s not clear to me. - P12
 
 #### Participants weren’t confident about where to find debt information from the homepage, but clearly understood where to find that information on My VA.
@@ -88,9 +88,9 @@ Once they visited My VA, it was clear to them that they would see information ab
 
 #### Participant expectations about where to find the travel reimbursement information were varied.
 After reviewing the page, we asked 10 of 12 participants where they might find a link for travel pay on My VA. Many of them quickly stated an answer, but then about it making sense in two places (usually Benefit payments and debts and Health care) Their initial responses were:
-	* Benefit payments and debts - 4 participants
-	* Health care - 3 participants
-		* Claims & appeals - 2 participants
+* Benefit payments and debts - 4 participants
+* Health care - 3 participants
+* Claims & appeals - 2 participants
 
 1 participant didn’t think they’d find that information on My VA and wanted to use search. 
 
@@ -101,10 +101,10 @@ We didn’t get to discuss this with each person due to time constraints, but al
 Each participant had different feedback about which section of My VA mattered most to them. They each stated the highest priority section was the one containing information about the benefit they used most. A few commented that the most important section to them would change over time.
 > Claims and appeals, sooner or later that’s going to go away. So then it’d be health care. - P17
 
-	* For participants who used VA health care, that section was highest priority for them. 
-	* Others stated Benefit payment and debts.
-	* Others stated Claims and appeals. 
-	* One participant said the Applying for benefits section would be the most important.
+* For participants who used VA health care, that section was highest priority for them. 
+* Others stated Benefit payment and debts.
+* Others stated Claims and appeals. 
+* One participant said the Applying for benefits section would be the most important.
 
 #### Displaying important information at the top of the page was effective at getting participants’ attention. 
 *Labels:  DSP: Notifications, HDW: Smartphone*
