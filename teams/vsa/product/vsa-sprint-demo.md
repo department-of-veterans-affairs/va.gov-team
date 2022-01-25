@@ -3,6 +3,8 @@ Each VSA product team has the opportunity to share things they’re most excited
 
 _:open_file_folder:[Sprint Demos and Template](https://salientcrgt.sharepoint.com/sites/VSATeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FVSATeam%2FShared%20Documents%2FSprint%20Review%20and%20Demo&viewid=5d571d10%2D43b8%2D4f5f%2D8c44%2D3d78e5892cca)_ (See [Appendix](#Appendix) below for tips on how to copy the template)
 
+:earth_africa: _[VSA Org Chart](https://salientcrgt.sharepoint.com/sites/VSATeam/SitePages/VSA-Org-Chart.aspx)_ 
+
 ## Format
 Sprint Demo is scheduled for Tuesday, 1-2:30pm ET on the last day of each sprint. Teams have a few minutes depending on the agenda to share things they’re most excited about— less can be more!​ We wrap up with any announcements from VSA leadership or OCTO-DE. 
 
