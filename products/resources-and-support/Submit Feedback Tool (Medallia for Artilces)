@@ -1,14 +1,17 @@
 # Submit Feedback Tool (Medallia for Articels) Product Outline Template
 
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+*The Search and Discovery team would like to move away from having a separate feedback tool and use Medalia. Medalia will offer a conbmined experience for the Veterans
+as well streamline operations internally. Additionally Medalia already has analytics capabilities that the S&D team can build off of.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+*Currently the Research and Article pages have the option for a veteran to submit whether their experienc on the page was good or bad. The S&D team have been
+discussing adding additional canned messages for selection so we can futher analyze the reason for the selection i.e why it was good or bad. 
+VA.gov also has a feedback survey selection on the right hand of the application. When we look to adding quetions for artcile experience it makes sense to
+explore combining our efforts with Jason Woodman's team and utilize Medalia.*
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
