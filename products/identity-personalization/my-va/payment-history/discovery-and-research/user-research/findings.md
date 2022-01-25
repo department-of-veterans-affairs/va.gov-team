@@ -282,7 +282,17 @@ We added another question mid-study to get feedback from Veterans on where they 
 - 2 participants expected to find it under Health care
 - 2 participants expected to find it under Benefit payments and debts
 - 1 participant stated they wouldn’t expect to see that on My VA and would use site search to find it.
-- 
+
+### Participants shared a variety of information that would be helpful to have on My VA.
+At the end of the session, we asked participants if anything was missing from My VA. The clear trends are shared above in finding 2.3 (debt amount and remaining education benefit), but we thought it was worthwhile to share items named by single participants.
+- More prominent call outs to contact VA for help or with questions.
+- Additional crisis line call outs.
+- Specific floor and room number for upcoming appointment information.
+- A link to access their financial statement for tax purposes.
+- A link to download benefit payment letters.
+- Confirmation that their disability rating had not changed, especially in context with payment information.
+> “It can keep me updated as to if my rates are lowered. I would have to wait for a month to get a letter in the mail to be told I was reduced.”
+
 ## Recommendations
 1. **Put the travel reimbursement link under health care.** 
 	- Participants associated travel pay with health care.
