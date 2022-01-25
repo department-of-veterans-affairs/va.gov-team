@@ -348,6 +348,7 @@ Start discovery
   -  [Swagger docs](https://qa.vaprofile.va.gov:7005/contact-information-hub/swagger-ui/index.html?configUrl=/contact-information-hub/v3/api-docs/swagger-config#/)
 
 ## Sprint 66 (1/26 - 2/8)
+[Sprint 66 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35922)
 
 ### General
 
