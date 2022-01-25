@@ -1,7 +1,7 @@
 ----
 
 # We're moving this doc! 
-### Find [https://vfs.atlassian.net/wiki/spaces/PPS/pages/2064613465/Platform+website+product+outline](Platform website link) in the [Platform Products and Services](https://vfs.atlassian.net/wiki/spaces/PPS/overview) Confluence space.
+### Find [the latest version of this page](https://vfs.atlassian.net/wiki/spaces/PPS/pages/2064613465/Platform+website+product+outline) in the [https://vfs.atlassian.net/wiki/spaces/PPS/overview](Platform Products and Services) Confluence space.
 
 ----
 
