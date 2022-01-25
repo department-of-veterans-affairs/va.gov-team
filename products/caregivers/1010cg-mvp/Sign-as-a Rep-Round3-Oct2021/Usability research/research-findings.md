@@ -32,7 +32,7 @@ Recruiting: Perigean contract
 - Part of the Program of Comprehensive Assistance for Family Caregivers
   - Yes: 3
   - No; denied: 3
-  - No; not currently needed: 1
+  - No; not currently needed: 2
 
 - Gender:
   - Female: 5
@@ -61,7 +61,7 @@ Recruiting: Perigean contract
 
 Device used during study (prototype is not mobile-friendly):
 
-Desktop: 8 
+Desktop/laptop: 8 
 
 
 ### Research Questions
@@ -75,50 +75,55 @@ The research questions we sought to address:
 
 ## Key Findings
 
-1. All participants moved through the "who will sign" question without friction, and didn't indicate a likelihood of abandonment. 
-2. Some participants thought it would help them answer this question if the types of documents accepted/ not accepted were listed on the "who will sign" question page. 
+1. All participants moved through the "who will sign" selection without friction, and didn't indicate a likelihood of abandonment. 
+2. Some participants thought it would help them make a selection if the types of documents accepted/ not accepted were listed on the "who will sign" question page. 
    a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.
 3. Participants that did choose to sign as a representative moved through the document upload page without friction, and didn't indicate a likelihood of abandonment.
 4. The updated copy that appears after the document upload is well-received. Participants didn't indicate any negative feelings, but rather appreciated the reminder.
-5. The majority of participants mentioned a requirement of a "medical" stipulation specifically would be necessary to prove that a representative has legal authority to sign on behalf of the Veteran.
-6. All participants recognized that the "who will sign" question has direct relationship to the signature of the application. This is likely to result in more Veteran signatures because participants didn't think that adding supporting documents is a requirement for the program or otherwise support their application. Many caregivers that have a document (such as medical POA) still like to get the Veteran to sign when possible. We saw a much higher rate of selecting that the Veteran would sign compared to [previous research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md).
+5. The majority of participants demonstrated an awareness that the requirement of a "medical" stipulation specifically would be necessary to prove that a representative has legal authority to sign on behalf of the Veteran.
+6. All participants recognized that the "who will sign" question has direct relationship to the signature of the application.
   a. This also resulted in improved clarity once reaching the signature section 
 7. Similar to the Mental model and Content-specific comprehension [study findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) some participants think that the proof documentation comes from the VA and would like further instruction on how to obtain this document if they don't have it and need to sign on behalf of the Veteran.
 
 
 
-
 ## Details of Findings
 
-### All participants moved through the "who will sign" question without friction, and didn't indicate a likelihood of abandonment. 
+### All participants moved through the "who will sign" selection without friction, and didn't indicate a likelihood of abandonment. 
+By clearly phrasing that this selection is used only for this application signature, participants were easily able to identify who would be signing "today." This copy showed great improvement from the [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) on the same topic, in which that iteration caused concern that the right to make medical decisions in the future would be taken away from the Veteran if a representative was selected. 
 
+- 
 
-
-
-### Some participants thought it would help them answer this question if the types of documents accepted/ not accepted were listed on the "who will sign" question page. 
-   a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.
-   
+### Some participants thought it would help them make a selection if the types of documents accepted/ not accepted were listed on the "who will sign" question page. 
+  ** a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.**
+  
+Some participants looked for information about what type of document could be accepted/not accepted while they made the decision of who will sign the application. They seemed relieved that this information is given on the next page, but thought it would be useful to have it both in the introduction and on the "who will sign" page.
    
 ### Participants that did choose to sign as a representative moved through the document upload page without friction, and didn't indicate a likelihood of abandonment.
 
+All participants that selected that a representative would sign predicted that the next page would be to upload a document as proof. Once reaching that page, they expressed that this seemed self-explanatory, and they said that they would be able to upload a copy of their document without trouble. They appreciated that the types of documents accepted/not accpeted were listed. 
 
+A couple of participants thought that there should be a link or explanation of what to do if a representative did need to sign, but didn't yet have the medical representative documentation. 
 
 ### The updated copy that appears after the document upload is well-received. Participants didn't indicate any negative feelings, but rather appreciated the reminder.
 
+All participants who went through the upload a document simulation, received the reminder of "Check your upload before you continue" well. A couple of participants mentioned how easy it is to select the wrong file when uploading, and appreciated the reminder to check the file name. This rewritten message showed great improvement from the [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md)in which particpants felt like that the copy that stated that there could be a delay/rejection due to wrong document upload is very negative.
 
+### The majority of participants demonstrated an awareness that the requirement of a "medical" stipulation specifically would be necessary to prove that a representative has legal authority to sign on behalf of the Veteran.
 
-### The majority of participants mentioned a requirement of a "medical" stipulation specifically would be necessary to prove that a representative has legal authority to sign on behalf of the Veteran.
+The majority of participants when asked to explain in their own words the "who will sign" page, specifically mentioned that someone with "medical" authority could sign for the Veteran. 
 
+### All participants recognized that the "who will sign" question has direct relationship to the signature of the application. 
 
-
-### All participants recognized that the "who will sign" question has direct relationship to the signature of the application. This is likely to result in more Veteran signatures because participants didn't think that adding supporting documents is a requirement for the program or otherwise support their application. Many caregivers that have a document (such as medical POA) still like to get the Veteran to sign when possible. We saw a much higher rate of selecting that the Veteran would sign compared to [previous research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md).
+This is likely to result in more Veteran signatures because participants didn't think that adding supporting documents is a requirement for the program or could otherwise support their application. Many caregivers that have a document (such as medical POA) still like to get the Veteran to sign when possible. We saw a much higher rate of selecting that the Veteran would sign compared to [previous research studies.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)
   a. This also resulted in improved clarity once reaching the signature section 
-
 
 
 ### Similar to the Mental model and Content-specific comprehension [study findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) some participants think that the proof documentation comes from the VA and would like further instruction on how to obtain this document if they don't have it and need to sign on behalf of the Veteran.
 
+Some participants felt that it would be useful to provide a link to a VA document that could be filled out to show proof of legal right to medical decisions on behalf of the Veteran. They thought that it's important to provide next steps for someone who doesn't have the paperwork, but needs to sign as a representative on the Veteran's behalf. As pointed out by the SMEs, this isn't a simple proces, and would require the applicant to abandon the application and start over. 
 
+We need to look into how to better prepare the applicant before they start the application to avoid waste of time and resulting drop-offs. Additionally, we need to provide brief education/ next steps for a representative that does reach the document upload page. 
 
 
 ## Additional Insights
@@ -142,38 +147,27 @@ The research questions we sought to address:
 
 ## Recommendations
 
-**Update content**
-* Rewrite the question and titles to make it more clear that we are requesting for legal representation for **medical decisions** specifically
+**Add what documents can/can't be accepted on the "who will sign" selector page**
 
 
-**Provide more context**
-* Explore the possibility of including a link, form number, and/or explanation of the use for each document type
+**Explore ways to better prepare a representative with the knowledge of the requirements for showing proof of legal authority to make medical decisions on behalf of the Veteran before they start the application**
 
-* Provide a path for those who don't have the paperwork, but need to obtain it
-
-**Design**
-* Update flow/UX of current to an adjusted tested version
-* Explore the possibility of making this section of the form visually distinct from the rest of the form so that it feels more cohesive with the signature page rather than the application pages
-     * Explore the possibility of breaking up the review section and signature section and having the document upload option between them
-
-Future:
-* Look into ways of integrating these questions into the signature page
-* Implement a “wizard” like flow
-* For those who do submit a document that can not be accepted, provide a recourse to just "edit" the application rather than having to complete a whole new one
-* Look into the possibility of tying a legal representative document that is already on file with VA to the application
+* Provide a path for those who don't have the paperwork, but need to obtain it.
+* As a greater initiative to improve the introduction page, we need to make it more clear that:
+     - What document shows proof and a general overview of how it's obtained
+     - Layout other requirements such as the Veteran must have health care through the VA
+     - Caregiver must live with the Veteran (to be confirmed)
+     - Requirements and expectations of a Primary vs. Secondary Caregiver
 
 
 ## Next Steps (TBD)
 
-* Work with Caregiver program team to determine if we can provide a link/form number and/or explanation of what each document type gives the rights to do
+* Update the design and copy 
+    * Add language to the "who will sign" selection page that says what documents can/cannot be accepted 
 
-* Work with copywriter 
-     * To clarify that we need a legal document that gives medical decision-making authority
-     * To make the questions more direct and concise
-     * To make the language around not being able to accept a document causing delay or application rejection less harsh
-     * Provide directions for next steps for those who need to obtain the legal representative documentation
-
-* Update design/ UX in iterations 
+* Develop and release to 50% of applicants in prod.
+* Monitor analytics for and increase in drop-off rate
+* Gather data on acceptance rates of uploaded documents
 
 
 ## Appendix
