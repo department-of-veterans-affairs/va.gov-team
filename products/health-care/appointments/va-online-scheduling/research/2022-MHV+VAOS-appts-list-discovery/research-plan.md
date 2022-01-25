@@ -52,7 +52,6 @@ We will also validate a concept for a more condensed desktop view of the VAOS ap
 
 * What information do Veterans need in an appointments list to make it useful?
 * What will be confusing when transitioning from the MHV appointments list to VAOS?
-* 
 
 ### Hypothesis
 
