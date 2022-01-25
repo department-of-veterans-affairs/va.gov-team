@@ -50,7 +50,10 @@ _Once screen is shared_
 
 Great, I can see your screen. Now, could you show me how you access your appointments in MyHealtheVet?
 - If they're not sure, confirm they're a MHV user.
-- If they don't use MHV or don't know, ask them to follow the login steps.
+- If they don't use MHV or don't know:
+   - Do you ever check your Benefits on VA.gov?
+     - If no, switch to alternate
+     - If yes, switch to task 2  
 
 **Steps**
 - Go to https://www.myhealth.va.gov/
