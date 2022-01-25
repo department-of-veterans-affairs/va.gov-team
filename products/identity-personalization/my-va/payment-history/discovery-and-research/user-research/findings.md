@@ -49,7 +49,7 @@ What information do users want to know about new debts, existing debts, and paym
 ## Methodology
 We conducted 30 minute remote moderated sessions via zoom on *January 12-14, 2022.* Participants were asked to log in to VA.gov and provide feedback on two parts of My VA: onsite notifications, and the Benefits payments and debts section.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-my-va-call-outs.png" width="60%" />
 
 *Caption: screenshot of My VA, with the two parts we tested called out.*
 
@@ -66,11 +66,39 @@ We conducted 30 minute remote moderated sessions via zoom on *January 12-14, 202
 	* **Mostly false**
 
 ## Key Findings
-!TK - insert list of findings once wording is finalized
+### 1. Proposed payment information IA
+1.1 Participants intuitively found recent information about payments under “View payment history” links on the homepage, and My VA. 
+
+1.2 Participants weren’t confident about where to find debt information from the homepage, but clearly understood where to find that information on My VA.
+
+1.3 Participant expectations about where to find the travel reimbursement information were varied.
+
+1.4 Participants preferred My VA sections to be ordered by on their VA benefits and services. 
+
+1.5 Displaying important information at the top of the page was effective at getting participants’ attention. 
+
+### 2. Financial information
+
+2.1 Amount is the most critical piece of information to participants for both payment and debts.
+
+2.2 Some participants found it helpful to know the number of outstanding debts.
+
+2.3 Two pieces of information were repeatedly named as being missing from the Benefit payments and debts section: remaining education benefits, and debt status.
+
+2.4 Seeing the most recent payment on My VA was sufficient for participants, since the information is accompanied by the View Payment History link.
+
+2.5 The majority of participants intuitively used the View payment history and Manage your direct deposit links; the exception was a participant using screen magnification software.
+### 3. Onsite notifications
+
+3.1 Participants could intuitively take action on a notification via a link.
+
+3.2 Participants expected that if they dismissed an alert, it would display on My VA until they had completed the action they were being alerted about.
+
+3.3 Multiple participants commented that the light yellow color for the alert did not stand out to them, and one participant stated it made the text very difficult to read.
 
 ## Details of Findings
-### Proposed payment information IA
-#### Participants intuitively found recent information about payments under “View payment history” links on the homepage, and My VA. 
+### 1. Proposed payment information IA
+#### 1.1 Participants intuitively found recent information about payments under “View payment history” links on the homepage, and My VA. 
 When asked where they’d look for information about their payments on VA.gov, 11 of 12 participants went to the view payment history link under the relevant benefit from the homepage. One participant used the site wide navigation to look for payment information under Pension.
 
 All participants noticed the view payment history link on My VA as soon as they scrolled down to the Benefit payment and debt section of the page.  
@@ -78,12 +106,12 @@ All participants noticed the view payment history link on My VA as soon as they 
 * One participant wasn’t confident what they’d see if they clicked the link:
 > I am not sure if that’s me paying the VA for my debt or if that’s the VA paying me. That’s not clear to me. - P12
 
-#### Participants weren’t confident about where to find debt information from the homepage, but clearly understood where to find that information on My VA.
+#### 1.2 Participants weren’t confident about where to find debt information from the homepage, but clearly understood where to find that information on My VA.
 All but one participant in this group were unfamiliar with VA debt, so they had no context around looking for such information. Some participants, including the one participant with debt, guessed they might find debt information under payment history. This aligns with what other VA.gov team’s have noted in research. In both the [VBA debt portal usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/research/usability-july20/usability-readout.md#usability-key-takeaways-in-depth) and [VHA copayment discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#when-searching-vagov-for-information-about-money-owed-to-va-veterans-often-search-within-the-lens-of-the-hub-theyre-dealing-with), Veterans narrowed in on the “View your payment history” link on the homepage and expected all payments received from and owed to VA would live there.
 
 Once they visited My VA, it was clear to them that they would see information about any debts under the “Benefit payments and debts section”.  6 participants also commented on the onsite debt notification at the top of the page as soon as they landed on My VA.
 
-#### Participant expectations about where to find the travel reimbursement information were varied.
+#### 1.3 Participant expectations about where to find the travel reimbursement information were varied.
 After reviewing the page, we asked 10 of 12 participants where they might find a link for travel pay on My VA. Many of them quickly stated an answer, but then about it making sense in two places (usually Benefit payments and debts and Health care) Their initial responses were:
 * Benefit payments and debts - 4 participants
 * Health care - 3 participants
@@ -93,7 +121,7 @@ After reviewing the page, we asked 10 of 12 participants where they might find a
 
 We didn’t get to discuss this with each person due to time constraints, but all of those we spoke to thought it would be helpful to have a link to request travel pay on My VA, regardless of exactly where it was.
 
-#### Participants preferred My VA sections to be ordered by on their VA benefits and services. 
+#### 1.4 Participants preferred My VA sections to be ordered by on their VA benefits and services. 
 *Labels: PRDT: My VA*
 
 Each participant had different feedback about which section of My VA mattered most to them. They each stated the highest priority section was the one containing information about the benefit they used most. A few commented that the most important section to them would change over time.
@@ -104,7 +132,7 @@ Each participant had different feedback about which section of My VA mattered mo
 * Others stated Claims and appeals. 
 * One participant said the Applying for benefits section would be the most important.
 
-#### Displaying important information at the top of the page was effective at getting participants’ attention. 
+#### 1.5 Displaying important information at the top of the page was effective at getting participants’ attention. 
 *Labels:  DSP: Notifications, HDW: Smartphone*
 
 Many participants immediately commented on the onsite notification as soon as they landed on My VA. 
@@ -119,7 +147,7 @@ The top of the page was a logical placement. This was especially true for time s
 
 Our prototype had two similar debt-related alerts in different locations on the page.
 
-!TK insert screenshot.
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-my-va-two-similar-alerts.png" width="50%" />
 
 This served as an effective reminder, especially for something as important as debt.
 > I don’t see any problem with that at all . . . It’s stuff that people tend to overlook. And you’ve got to constantly remind them.  - P11
@@ -129,8 +157,8 @@ This served as an effective reminder, especially for something as important as d
 However, 3 participants thought the alerts were identical because they had the same link. 2 different participants explicitly stated they were confused by the repetition (they understood the difference in content), commenting that the alerts meant essentially the same thing.
 > ”They’re worded differently but they mean the same. For lack of a better term, it doesn’t look very professional and it’s just confusing.”  - P15
 
-### Financial information
-#### Amount is the most critical piece of information to participants for both payment and debts.
+### 2. Financial information
+#### 2.1 Amount is the most critical piece of information to participants for both payment and debts.
 *Labels:  PRDT: Payment-history*
 
 When it comes to financial information, amount was the most important piece of information for participants. This was true whether it was an amount being paid or an amount owed.
@@ -146,7 +174,7 @@ Participants mentioned secondary information as also being important, and talked
 
 Not surprisingly, participants who had been long-time recipients of steady compensation payments weren’t overly concerned about seeing deposit amounts, since it had been reliable for so many years.
 
-#### Some participants found it helpful to know the number of outstanding debts.
+#### 2.2 Some participants found it helpful to know the number of outstanding debts.
 Of the 6 participants we were able to ask about the specific number of outstanding debts, 5 stated it would be important for them to see the number.  Their comments suggest that including the number of debts in the alert would spur them into action more than simply knowing there was a new debt.
 > I think it’s important to know because up top, it just tells me I have a debt but you go down here and then see I have 3 debts. Oh man. 3 debts? Let me go in there and see what’s going on. - P13
 
@@ -154,7 +182,7 @@ Of the 6 participants we were able to ask about the specific number of outstandi
 
 > I like it where it’s straightforward, 3 outstanding debts with a hyperlink. Instead of [the page] kicks off with “you have new debt” and I’m assuming it’s alluding to those 3 [debts]. You have 3 outstanding debts, do that first. - P 15
 
-#### Two pieces of information were repeatedly named as being missing from the Benefit payments and debts section: remaining education benefits, and debt status.
+#### 2.3 Two pieces of information were repeatedly named as being missing from the Benefit payments and debts section: remaining education benefits, and debt status.
 *Label: BNFT: Education*
 
 All 4 participants who had education benefits shared that it was not easy to figure out how much education benefit they had remaining, and that it would be useful to see that information on this page.
@@ -169,12 +197,12 @@ Participants wanted to see the status of their debt, even if they had no outstan
 -  Some wanted My VA to reflect that they did not have any outstanding debt.  
 > Even if I have a zero balance owed, it would be cool to be able to confirm that. - Pilot
 
-#### Seeing the most recent payment on My VA was sufficient for participants, since the information is accompanied by the View Payment History link.
+#### 2.4 Seeing the most recent payment on My VA was sufficient for participants, since the information is accompanied by the View Payment History link.
 Most participants rely on information from their bank to get payment information. Still, they thought it was helpful to see the last payment history. In particular, they felt it would be useful for situations where they need to provide specific income information, such as taxes.
 
 Multiple people talked about wanting to see the last payment regardless of how far in the past it was, but expected to go to another page to view detailed payment information.
 
-#### The majority of participants intuitively used the View payment history and Manage your direct deposit links; the exception was a participant using screen magnification software.
+#### 2.5 The majority of participants intuitively used the View payment history and Manage your direct deposit links; the exception was a participant using screen magnification software.
 *Labels: Accessibility, SPG: Blind/Visually Impaired*
 Almost all participants easily found the links to take action on their payments, and had no trouble navigating back to My VA after viewing the information. 
 A participant using ZoomText, a screen enlargement software with a speech component, eventually found the “Manage your direct deposit” link but shared feedback about challenges navigating multi-column layouts. They stated that it was unlikely they would have found it had they not been in a moderated research session.
@@ -184,14 +212,16 @@ A participant using ZoomText, a screen enlargement software with a speech compon
 > 
 > Well, it’s one of those things, once you get used to it, you know you got to do it, it’s ok. But I did one for a survey for something the other day, and they put the next button way down on the lower right corner. Well, so I gotta answer the question and you have to search for the next. Rather than having it right next to right next to it or right under the question or something. See, if you hadn’t mentioned changing that, I probably never would’ve moved over there and found that manage your direct deposit. 
 
-!TK - insert screenshot
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-my-va-zoomed-in.png" width="40%" />
 
-### Onsite notifications
-#### Participants could intuitively take action on a notification via a link.
+*Caption: Screenshot of an approximation of a zoomed in view, which shows that links in the right column are difficult to find.
+
+### 3. Onsite notifications
+#### 3.1 Participants could intuitively take action on a notification via a link.
 All participants clearly understood the hyperlink in our notification design, and understood that it would allow them to take action on the information they were being alerted about. Participants expected to find more detailed financial information on subsequent pages.
 > It [a link] is sufficient. I don’t think it should be on the first screen. Some of it you will need the next page. You may need privacy in that particular area. - P7 
 
-#### Participants expected that if they dismissed an alert, it would display on My VA until they had completed the action they were being alerted about.  
+#### 3.2 Participants expected that if they dismissed an alert, it would display on My VA until they had completed the action they were being alerted about.  
 No participants dismissed the alert without prompting. This could be due to being previously warned they were viewing a prototype and not all items were clickable. Once prompted, they easily understood the `x` would dismiss the alert. 
 
 Only 2 participants thought that because the alert said “new debt” it would go away after they viewed, but not paid their debt. The remaining participants stated they expected the alert to be visible until the debt had been paid.
@@ -200,7 +230,7 @@ Only 2 participants thought that because the alert said “new debt” it would 
 
 Toward the end of the sessions, we asked participants how they expected to see the onsite notification again once they dismissed it. All participants stated they could access similar information by going down to Benefit payment and debts. This makes sense, since they had already been exposed to the content. If they dismissed the alert without scrolling down first, it’s likely they would feel unsure about how to see that information again. That could cause a moment of panic if they had caught a glimpse of the debt related content just before dismissing it.
 
-#### Multiple participants commented that the light yellow color for the alert did not stand out to them, and one participant stated it made the text very difficult to read.
+#### 3.3 Multiple participants commented that the light yellow color for the alert did not stand out to them, and one participant stated it made the text very difficult to read.
 *Labels: Accessibility, DSP Experimental, DSP: Notifications, SPG: Blind/Visually Impaired**
 While many participants noticed the alerts right away, several commented that the light yellow did not communicate the appropriate level of urgency that should accompany a message about outstanding debt or unread health care messages.
 > This is a soft soothing yellow, it’s kind of chill - it doesn’t strike urgency. - P15
@@ -218,7 +248,9 @@ We first heard this when an internal VA accessibility consultant tested our prot
 During the study, another participant wasn’t totally confident what the message about new debt was.
 > I am guessing is a notification up here. It seems that way, but even then put “recent notifications” up here instead of going to profile (*mouses over link*) debt (*mouses over alert*), then health care (*mouses over health care heading*). Nothing says notification or messages here (*mouses in space between go to profile link, and alert*)|
 
-!TK - Insert screenshot
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-my-va-no-heading.png" width="40%" />
+
+*Caption: Screenshot of top portion of My VA, with an arrow pointing to where a heading would appear above the onsite notification*
 
 ### 2 participants shared frustration with the new process to request travel reimbursement.
 We asked participants where they expected to find a link for travel reimbursement on My VA. After this question, 2 participants shared lengthy stories and significant frustration at the new, online process to submit travel pay.  
@@ -259,8 +291,9 @@ Review findings and recommendations with team
 
 ## Further research needed
 In our next round of research, we should include participants that:
-- Have debt with VA, so we can get information based on lived experience
-- Use magnification, so we can better understand any usability hurdles of My VA’s multi-column layout
+- Have debt with VA, so we can get information based on lived experience.
+- Use magnification, so we can better understand any usability hurdles of My VA’s multi-column layout.
+- Identify has having cognitive considerations, so we can validate that our alert pattern works for that population.
 
 We will also aim to recruit a majority BIWOC participant group, since this round of research included mostly white, male participants.
 
@@ -387,3 +420,5 @@ This research does not include the perspectives of the following marginalized Ve
 * Users of the following assistive technologies: mobile screen readers, keyboards attached to mobile devices or tablets, switch devices and braille readers.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png" />
+
+_Caption: Screenshot of VA Recruitment Checker, capturing the data above in spreadsheet form._
