@@ -222,26 +222,34 @@ They stated the onsite kiosk was significantly easier, because it automatically 
 
 ## Recommendations
 1. **Put the travel reimbursement link under health care.** 
-- Participants related travel pay to health care.
+- Participants associated travel pay with health care.
 - This aligns with where travel pay information is found in other parts of VA.gov.
 2. **Keep onsite notifications at the top of the page, and within sections.**
 - The top of the page placement made alerts clearly noticeable.
 - Most participants didn’t have a problem with repeated information on the page. 
 - All participants felt alert content throughout the page was important and helpful.
-3. Create logic so that alerts can only be permanently dismissed once the action is addressed, rather than by a person’s action.
+3. **Create logic so that alerts can only be permanently dismissed once the action is addressed, rather than by a person’s action.**
 - Participants expected alerts to display on My VA until they completed the action they were being alerted about.
 - Most participants felt that dismissing the debt alert would be OK since they had a back-up in the Benefit payment and debt section. They only knew this since they were participating in a moderated session and had been asked to review the page.
-4. Include specific information in debt alerts, including amount and number of debts.
-5. Display a “you have no debt” confirmation message in Benefit payments and debts.
-6. Include information about remaining education benefits to Benefit payment and debt section.
-- Most helpful would be remaining amount
-- for people who have received education payments, regardless of how long ago it was.
-- Even better if there could be information about what is eligible to transfer or use
-7. Iterate on the alert design to improve usability for people with low vision, and to better communicate a level of urgency.
-8. Add a heading for the onsite notification section.
+4. **Include specific information in debt alerts, including amount and number of debts.**
+* Across all sessions, participant stated amount was the most important piece of information about a debt.
+* Many participants stated the number of debts was helpful to know up front, especially if the number was more than 1.
+6. **Display a “you have no debt” confirmation message in Benefit payments and debts.**
+* Participants with and without debt expressed they would like confirmation that their debt had been resolved.
+* Since the section heading is “Benefit payments and debts”, displaying a message stating there was no debt, rather than not displaying anything at all, would reduce any doubts the user had that something wasn’t displaying correctly.
+7. **Include amount of remaining education benefits and a link to information about how what’s left in the Benefit payment and debt section**.
+- Participants who used their education benefits shared that it’s difficult to figure out how much education benefit they have left.  All wanted to see their most recent education payment, regardless of how long ago it was, because it would be a starting point to do the math of figuring out what remained.
+- 2 participants weren’t if they were eligible to use any remaining benefits, or if they could transfer those benefits to their children.
+8. **Iterate on the alert design to improve usability for people with low vision. Also, consider changes that will more clearly communicate a sense of urgency.**
+- Our legally blind participant struggled to read the text on the alert due to the yellow background color.
+- Our accessibility review revealed that we have an opportunity to improve the design to more clearly communicate the significance of the alerts without relying so much on color.
+- All but 1 participant noticed the alerts right away, so they certainly stand out from the page. However, the light yellow color caused 4 participants to not feel a sense of urgency to take action on the alerts.
+9. **Add a heading for the onsite notification section at the top of the page.**
+* A blind, screenreader user became confused when encountering the debt notification at the top of the page because they had no context for the alert.
+* One participant in our study had to guess at what the alert meant because there was no heading.
 
 ## Next Steps
-- Review findings and recommendations with team
+Review findings and recommendations with team
 
 ## Further research needed
 In our next round of research, we should recruit participants who:
