@@ -98,6 +98,7 @@ We didn’t get to discuss this with each person due to time constraints, but al
 
 #### Participants preferred My VA sections to be ordered by on their VA benefits and services. 
 *Labels: PRDT: My VA*
+
 Each participant had different feedback about which section of My VA mattered most to them. They each stated the highest priority section was the one containing information about the benefit they used most. A few commented that the most important section to them would change over time.
 > Claims and appeals, sooner or later that’s going to go away. So then it’d be health care. - P17
 
@@ -108,6 +109,7 @@ Each participant had different feedback about which section of My VA mattered mo
 
 #### Displaying important information at the top of the page was effective at getting participants’ attention. 
 *Labels:  DSP: Notifications, HDW: Smartphone*
+
 Many participants immediately commented on the onsite notification as soon as they landed on My VA. 
 > I'm instantly drawn to that. Yes, I like that. 
 > *Moderator: What do you like about that?*
@@ -133,14 +135,15 @@ However, 3 participants thought the alerts were identical because they had the s
 ### Financial information
 #### Amount is the most critical piece of information to participants for both payment and debts.
 *Labels:  PRDT: Payment-history*
+
 When it comes to financial information, amount was the most important piece of information for participants. This was true whether it was an amount being paid or an amount owed.
 
 Participants mentioned secondary information as also being important, and talked about hoping to find this information if they clicked on the “View payment history” or “Manage your VA debt links” from My VA:
-	- The date a payment was deposited into their account
-	- The due date for a debt
-	- The reason for a debt
-	- How to pay a debt
-	- Someone to contact if they had questions about their debt
+- The date a payment was deposited into their account
+- The due date for a debt
+- The reason for a debt
+- How to pay a debt
+- Someone to contact if they had questions about their debt
 
 > The amount, and when it is going to be deposited, or when it's due. Those are probably the most important pieces of information.  - Pilot
 
@@ -156,16 +159,17 @@ Of the 6 participants we were able to ask about the specific number of outstandi
 
 #### Two pieces of information were repeatedly named as being missing from the Benefit payments and debts section: remaining education benefits, and debt status.
 *Label: BNFT: Education*
+
 All 4 participants who had education benefits shared that it was not easy to figure out how much education benefit they had remaining, and that it would be useful to see that information on this page.
 > I had to inquire about how much I have left available If I wanted to transfer my post 9/11 to one of my kids. If there was a link on here for those that are still eligible, that would go in with the whole idea of one stop shop. - P13
 
 > I know I will be trying to get a PhD, I just can’t remember how many months I have left. I will use the rest of my GI Bill. I can’t recall all of the details right now but that [My VA] would be the easiest way to find it. - P16
 
 Participants wanted to see the status of their debt, even if they had no outstanding debt with VA.
- - Some expected the new debt alert to be replaced with a confirmation of payment, once they had paid.
+- Some expected the new debt alert to be replaced with a confirmation of payment, once they had paid.
 > It should say no debt. Or give a confirmation that it your debt has been paid in full. - P3
 
- -  Some wanted to My VA to reflect that they did not have any outstanding debt.  
+-  Some wanted to My VA to reflect that they did not have any outstanding debt.  
 > Even if I have a zero balance owed, it would be cool to be able to confirm that. - Pilot
 
 #### Seeing the most recent payment on My VA was sufficient for participants, since the information is accompanied by the View Payment History link.
@@ -256,10 +260,11 @@ They stated the onsite kiosk was significantly easier, because it automatically 
 Review findings and recommendations with team
 
 ## Further research needed
-In our next round of research, we should recruit participants who:
+In our next round of research, we should include participants that:
 - Have debt with VA, so we can get information based on lived experience
 - Use magnification, so we can better understand any usability hurdles of My VA’s multi-column layout
-- 
+
+We will also aim to recruit a majority BIWOC participant group, since this round of research included mostly white, male participants.
 
 ## Lessons about research logistics
 ### Recruiting criteria could have been more clear.
@@ -313,15 +318,15 @@ Gender:
 LGBTQ+:
 
 * Transgender: 0
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-* Gay, lesbian, or bisexual: 1
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 2
+* Gay, lesbian, or bisexual: 2
 
 Devices used during study:
 
 * Desktop: 10
 * Tablet: 0
 * Smart phone: 2
-* Assistive Technology: 4
+* Assistive Technology: 5
 
 Age:
 
@@ -359,15 +364,15 @@ Race:
 
 Disability and Assistive Technology (AT):
 
-* Cognitive: 1
-* AT beginner: 1
+* Cognitive: 3
+* AT beginner: 0
 * AT advanced user: 0
 * Desktop screen reader: 1
 * Mobile screen reader: 0
 * Magnification/Zoom: 1
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
-* Hearing aids: 4
-* Sighted keyboard: 10
+* Hearing aids: 5
+* Sighted keyboard: 0
 * Captions: 1
 
 ## Underserved groups we haven’t talked to
@@ -375,8 +380,14 @@ Disability and Assistive Technology (AT):
 
 This research does not include the perspectives of the following marginalized Veteran groups: /List all groups in red from the spreadsheet/
 
-* Group 1
-* Group 2
-* Group 3
+* Veterans with cognitive disabilities
+* Mobile users
+* Veterans with other than honorable discharge
+* Veterans who have an immigrant origin
+* Expat Veterans (living abroad)
+* Veterans who identify as Hispanic, Asian, or Native 
+* Transgender Veterans
+* Beginning and experienced AT users 
+* Users of the following assistive technologies: mobile screen readers, keyboards attached to mobile devices or tablets, switch devices and braille readers.
 
-/[insert screenshot of completed recruitment checker]/
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png” />
