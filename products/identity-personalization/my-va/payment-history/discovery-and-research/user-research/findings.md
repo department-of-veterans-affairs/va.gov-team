@@ -387,4 +387,5 @@ This research does not include the perspectives of the following marginalized Ve
 * Transgender Veterans
 * Beginning and experienced AT users 
 * Users of the following assistive technologies: mobile screen readers, keyboards attached to mobile devices or tablets, switch devices and braille readers.
-[image:https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png]
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-recruitment-checker.png" />
