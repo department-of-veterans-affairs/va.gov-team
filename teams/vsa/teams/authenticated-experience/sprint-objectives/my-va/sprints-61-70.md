@@ -324,6 +324,7 @@ Are we on hold for this besides backend build?
   -  Are we adding this to Benefit payments & debts, or health care?
   -  Does this need separate user research?
   -  Is this more of an enhancement or small, separate project? 
+  -  [Link to medical copay content page](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)
 
 **Design**
 
@@ -331,6 +332,7 @@ Are we on hold for this besides backend build?
   -  Are we adding this to Benefit payments & debts, or health care?
   -  Does this need separate user research?
   -  Is this more of an enhancement or small, separate project? 
+  -  [Link to medical copay content page](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)\
 -  Start design for adding medical copay information
 
 
