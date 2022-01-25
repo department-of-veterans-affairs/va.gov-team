@@ -32,7 +32,7 @@ VA.gov also has a feedback survey selection on the right hand of the application
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
-- *Additional/Secondary processes*
+- *Additional similar processes in different groups*
 - *Additional reporting tool creations*
 - 
 
