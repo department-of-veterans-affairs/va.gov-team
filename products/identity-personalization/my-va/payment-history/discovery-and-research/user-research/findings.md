@@ -307,23 +307,36 @@ At the end of the session, we asked participants if anything was missing from My
 4. **Include specific information in debt alerts, including the total amount and number of debts.**
 	* Across all sessions, participant stated amount was the most important piece of information about a debt.
 	* Many participants stated the number of debts was helpful to know up front, especially if the number was more than 1.
-6. **Display a “you have no debt” confirmation message in Benefit payments and debts, and possibly also a link to debt management so Veterans can get more information.**
+5. **Display a “you have no debt” confirmation message in Benefit payments and debts, and possibly also a link to debt management so Veterans can get more information.**
 	* Participants with and without debt expressed they would like confirmation that their debt had been resolved.
 	* At least 3 participants did not understand how a person could have debt with VA.
 	* Since the section heading is “Benefit payments and debts”, displaying a message stating there was no debt, rather than not displaying anything at all, would reduce any doubts the user had that something wasn’t displaying correctly.
-7. **Include amount of remaining education benefits and a link to information about how what’s left in the Benefit payment and debt section**.
+6. **Include amount of remaining education benefits and a link to information about how what’s left in the Benefit payment and debt section**.
 	- Participants who used their education benefits shared that it’s difficult to figure out how much education benefit they have left.  All wanted to see their most recent education payment, regardless of how long ago it was, because it would be a starting point to do the math of figuring out what remained.
 	- 2 participants weren’t sure if they were eligible to use any remaining benefits, or if they could transfer those benefits to their children.
-8. **Iterate on the alert design to improve usability for people with low vision. Also, consider changes that will more clearly communicate a sense of urgency.**
+7. **Iterate on the alert design to improve usability for people with low vision. Also, consider changes that will more clearly communicate a sense of urgency.**
 	- Our legally blind participant struggled to read the text on the alert due to the yellow background color.
 	- Our accessibility review revealed that we have an opportunity to improve the design to more clearly communicate the significance of the alerts without relying so much on color.
 	- All but 1 participant noticed the alerts right away, so they certainly stand out from the page. However, the light yellow color caused 4 participants to not feel a sense of urgency to take action on the alerts.
-9. **Add a heading for the onsite notification section at the top of the page, when there is a notification to display.**
+8. **Add a heading for the onsite notification section at the top of the page, when there is a notification to display.**
 	* A blind, screenreader user became confused when encountering the debt notification at the top of the page because they had no context for the alert.
 	* One participant in our study had to guess at what the alert meant because there was no heading.
 
 ## Next Steps
-Review findings and recommendations with team
+### Near term - MVP
+- Put the travel reimbursement link under health care
+- Keep onsite notifications at the top of the page, and within sections.
+* Update the number of debts in the onsite notification.
+* Display a “you have no debt” confirmation message in Benefit payments and debts, and possibly also a link to debt management so Veterans can get more information.
+* Add a heading for the onsite notification section at the top of the page, when there is a notification to display.
+* Iterate on the alert design to improve usability for people with low vision.
+* Validate changes with Veterans in a combined UAT/usability session
+
+### Long term - future versions
+- Explore additional, more specific, debt information we can include in alerts
+- Incorporate education specific information (remaining balance and  eligibility) into My VA.
+- Explore design iterations to the alert pattern that will more clearly communicate a sense of urgency, without triggering Veterans.
+- Validate changes with Veterans in a usability study
 
 ## Further research needed
 In our next round of research, we should include participants that:
