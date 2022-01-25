@@ -14,7 +14,11 @@
 ### Agenda
 - Denise: Change Management Framework
 - Kevin: R&S content type descriptions
+  - Suzanne to work with Danielle and Beth on creating missing descriptions and updating others as needed
 - Content team: updates on R&S pilot for non-authors and discovery for Benefit Hubs
+- Next meeting: 
+  - Danielle to walk through Pilot and content strategy for Benefit Hub (with definitions)
+  - CMS team's process for onboarding and what becomes a Knowledge Base article
 
 ## January 11, 2022
 ### Agenda
