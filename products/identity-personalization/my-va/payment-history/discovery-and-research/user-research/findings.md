@@ -225,7 +225,7 @@ A participant using ZoomText, a screen enlargement software with a speech compon
 > 
 > Well, it’s one of those things, once you get used to it, you know you got to do it, it’s ok. But I did one for a survey for something the other day, and they put the next button way down on the lower right corner. Well, so I gotta answer the question and you have to search for the next. Rather than having it right next to right next to it or right under the question or something. See, if you hadn’t mentioned changing that, I probably never would’ve moved over there and found that manage your direct deposit. 
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-my-va-zoomed-in.png" width="40%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/images/research-my-va-zoomed-in.png" width="70%" />
 
 *Caption: Screenshot of an approximation of a zoomed in view, which shows that links in the right column are difficult to find.*
 
