@@ -333,11 +333,6 @@ Are we on hold for this besides backend build?
   -  Is this more of an enhancement or small, separate project? 
 -  Start design for adding medical copay information
 
-**FE**
-
-- Add travel reimbursement link 
-  - Location depends on what people said in research
-
 
 ## Sprint 68 (2/23 - 3/8)
 [Sprint 68 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30273)
