@@ -333,6 +333,7 @@ At the end of the session, we asked participants if anything was missing from My
 * Validate changes with Veterans in a combined UAT/usability session
 
 ### Long term - future versions
+- Conduct additional research to better understand Veteran expectations and mental model around dismissal of alerts and onsite notifications that are part of a larger notification center.
 - Explore additional, more specific, debt information we can include in alerts
 - Incorporate education specific information (remaining balance and  eligibility) into My VA.
 - Explore design iterations to the alert pattern that will more clearly communicate a sense of urgency, without triggering Veterans.
