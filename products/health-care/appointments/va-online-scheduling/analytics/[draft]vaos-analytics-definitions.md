@@ -1,4 +1,4 @@
-## // DRAFT WIP //
+# VAOS Analytics // DRAFT WIP //
 
 ## Overview
 The documentation is to provide definition and clarity as to how we are tracking analytics for the new VA Online Scheduling tool (VAOS-R). Use this document as a guide when looking into the analytics and performance of the VAOS tool on VA.gov. 
@@ -35,9 +35,6 @@ The documentation is to provide definition and clarity as to how we are tracking
     - `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-number-of-preferred-providers: 0 }` (preferrred providers is a bug)
   - `vaos-covid19-submission-failed`
     - `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }`
-- 'return to legacy VAOS' link clicked
-	- `vaos-return-to-legacy-link-clicked`
-	    - `{ typeOfCare: ‘Primary Care’, flow: ‘direct’}`
 - 'Cancel' link clicked
   - `vaos-cancel-appointment-submission`
   - As additional data, capture confirmed vs pending & whether VA or CC
@@ -66,8 +63,8 @@ The documentation is to provide definition and clarity as to how we are tracking
   - Errored - Doesn't have active PACT members
   
 ## Full List  
-  | Event label (custom event name from data layer)| Definition
-| ------------- |:-------------:|
+| Event Label (custom event name from data layer)| Parameters | Definition |
+| ------------- | ------------- | ------------- |
 vaos-cancel-appointment-submission |
 vaos-cancel-appointment-submission-failed |
 vaos-cancel-appointment-submission-successful |
@@ -94,16 +91,6 @@ vaos-eligibility-request-past-visits-failed |
 vaos-eligibility-request-supported-failed |
 vaos-eligibility-supported-facilities-failed |
 vaos-error |
-vaos-express-care-facilities-link-clicked |
-vaos-express-care-path-cancelled |
-vaos-express-care-path-started |
-vaos-express-care-request-button-clicked |
-vaos-express-care-request-continue-flow |
-vaos-express-care-submission |
-vaos-express-care-submission-failed |
-vaos-express-care-submission-successful |
-vaos-express-care-switch-to-appointment-flow-clicked |
-vaos-express-care-view-your-appointments-button-clicked |
 vaos-get-future-appointments-failed |
 vaos-get-future-appointments-retrieved |
 vaos-get-future-appointments-started |
@@ -114,7 +101,6 @@ vaos-get-pending-appointments-failed |
 vaos-get-pending-appointments-retrieved |
 vaos-get-pending-appointments-started |
 vaos-number-of-items-retrieved |
-vaos-past-appointments-legacy-link-clicked |
 vaos-request-current-location-allowed |
 vaos-request-current-location-blocked |
 vaos-request-current-location-clicked |
@@ -122,10 +108,57 @@ vaos-request-path-started |
 vaos-request-submission |
 vaos-request-submission-failed |
 vaos-request-submission-successful |
-vaos-return-to-legacy-link-clicked |
 vaos-schedule-another-appointment-button-clicked |
 vaos-schedule-appointment-button-clicked |
 vaos-schedule-new-appointment-started |
 vaos-update-address-alert-displayed |
 vaos-view-your-appointments-button-clicked |
+
+### Custom Dimensions/Metrics in Google Analytics
+| Dimension/Metric Name | Associated Event | Description |
+| ------------- | ------------- | ------------- |
+Health Care VAOS - Appointment Type |
+Health Care VAOS - Facility Type | 
+Health Care VAOS - Flow | 
+Health Care VAOS - Number of Days from Preference | 
+Health Care VAOS - Number of Preferred Providers | 
+Health Care VAOS - Preferred Combination | 
+Health Care VAOS - Preferred Language | 
+Health Care VAOS - Reason for Appointment | 
+Health Care VAOS - Returned Item Type | 
+Health Care VAOS - Returned Number of Items | 
+Health Care VAOS - Type of Care | 
+Health Care VAOS - Upcoming Number of Cards | 
+Product - Health Care VAOS User | 
+VAOS Facility ID | 
+
+
+---
+
+
+## Deprecated/Removed
+
+| Event Label (custom event name from data layer)| Parameters | Definition |
+| ------------- | ------------- | ------------- |
+vaos-return-to-legacy-link-clicked | `{ typeOfCare: ‘Primary Care’, flow: ‘direct’}` | "Return to legacy VAOS" link clicked
+vaos-past-appointments-legacy-link-clicked |
+vaos-express-care-facilities-link-clicked |
+vaos-express-care-path-cancelled |
+vaos-express-care-path-started |
+vaos-express-care-request-button-clicked |
+vaos-express-care-request-continue-flow |
+vaos-express-care-submission |
+vaos-express-care-submission-failed |
+vaos-express-care-submission-successful |
+vaos-express-care-switch-to-appointment-flow-clicked |
+vaos-express-care-view-your-appointments-button-clicked |
+
+
+### Removed Custom Dimensions/Metrics in Google Analytics
+| Dimension/Metric Name | Associated Event | Description |
+| ------------- | ------------- | ------------- |
+Health Care VAOS - Express Care Reason | 
+Health Care VAOS - Express Care Number of Cards | 
+
+
 
