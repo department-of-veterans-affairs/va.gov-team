@@ -91,7 +91,7 @@ body:
     id: expiration-date
     attributes:
       label: Access Expiration
-      description: When can this access be revoked?
+      description: The requested access will be revoked at the start of this date.
       placeholder: Enter a date and/or time
     validations:
       required: false
