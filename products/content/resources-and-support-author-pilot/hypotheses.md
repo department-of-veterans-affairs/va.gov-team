@@ -13,11 +13,13 @@
 - How big of a burden is this work on the members of the content planning group?
 - What size group is most effective for a content planning group to offer needed guidance while keeping workflows moving?
 - What will be the best way to ensure appropriate crosslinking to new/updated R&S articles (for example, from the benefit hubs)?
-- What challenges does the group face as they 
+- What challenges does the group face as they do this work? 
 
 ## Hypothesis 2: As the volume of R&S articles grows, we’ll need to create an easier way for the content planning group to track and search the article library.
 
-## Hypothesis 3: A content checklist (and a final manual review by the VA.gov content team for now at least for now) will ensure that R&S articles meet at least the minimum VA.gov content and accessibility standards.
+### What we want to learn:
+
+## Hypothesis 3: A content checklist (and a final manual review by the VA.gov content team for now at least for now) will ensure that R&S articles meet the minimum VA.gov content and accessibility standards.
 
 ### What we want to learn: 
 - How much of this work needs to be done by the content team vs., for example, a SiteImprove or the CMS or another tool in the future?
