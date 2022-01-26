@@ -1,4 +1,4 @@
-# Hypotheses
+# Resources and Support non-OCTO author pilot hypotheses
 
 **Note:** We don’t have existing training materials or knowledge management articles specific to R&S. Therefore, the pilot is designed to be a very close collaboration between the OCTO content team and the pilot participants. The OCTO content team can help bridge the gap with training, as we plan on working with content authors hand in hand. For example, we plan to hold the following:
  - Content template and structure discussions as part of the content planning group process, where we discuss content strategy for articles.
