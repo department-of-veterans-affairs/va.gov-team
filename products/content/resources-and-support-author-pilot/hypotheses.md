@@ -50,7 +50,7 @@
 - As we streamline benefit hubs and rely more on crosslinking between hubs and R&S, how much do people use those crosslinks from the benefit hubs and at what points during the application flow?
 - What CTA guidance and/or "rules" can we create to ensure that crosslinks are as helpful and effective as possible? For example, does every R&S article that relates directly to a VA benefit have to have 2 CTAs (1 to the benefit application and 1 to the benefit hub "About" page)?
 
-## Hypothesis 7: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and creat-once-publish-everywhere (COPE) reuse.
+## Hypothesis 7: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and create-once-publish-everywhere (COPE) reuse.
 
 ### What we want to learn:
 - What can we do now with the content types/components we have to help restructure content for better reuse in the future?
