@@ -99,7 +99,21 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Severity:**</ins> `Critical`. This alert impacts Veterans.
 
   - ## Outbound
-  
+
+    - ### **Identity - Production Auth_too_late Login Callback Error Threshold Crossed**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55168108) specifically watches the number of auth_too_late error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings or latency anywhere within the authentication flow. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus in on the number of errors. If there are a large amount it may indicate a vets-api or Eauth issue. If this error count is very low it could be an end user issue, i.e a user stepped away during the auth process and attempted to complete it 30 minutes later.
+
+        <ins>**Threshold:**</ins> `above or equal to 50 total errors` over a `5 minute window` with a recovery of less than 30 errors. 
+
+        <ins>**Metrics used:**</ins> 
+
+        ```
+        sum:vets_api.statsd.api_auth_login_callback_failed{error:auth_too_late,deployment_env:vagov-prod}.as_count()
+        ```
+
+        <ins>**Severity:**</ins> `High`. This alert impacts Veterans however its not uncommon for a user to take too long during the auth process if they step away from their device and attempt to complete the authentication later.
+
     - ### **Identity - Production Auth_too_early Login Callback Error Threshold Crossed**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55167253) specifically watches the number of auth_too_early error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus in on the number of errors. If there are a large amount it may indicate a vets-api issue. If this error count is very low it could be an end user issue.
