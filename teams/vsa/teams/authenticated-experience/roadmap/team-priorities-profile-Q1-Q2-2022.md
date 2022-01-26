@@ -14,6 +14,12 @@ Even with the addition of email and text communications at the VA, mail is still
 
 **Targeted launch**: Q2 2022
 
+### Integrate military information through VA Profile
+
+Currently, we integrate the military information in the profile through a service called eMIS. VA Profile now supports military information, and I believe eMIS is going away. So, we need to hook up the military information section of our profile to the relevant VA Profile endpoints. Samara is still determing the scope of this project and whether it will involve design/frontend or solely be a backend effort, which will certainly affect timeline.
+
+**Targeted launch**: Q2 2022, but ok if it goes into Q3 just as long as it is launched and complete before **September 30, 2022**.
+
 ## Small improvements
 
 ### Remove "Gender" field from the profile
@@ -38,7 +44,5 @@ Some people do not realize that they also need to change their mailing address i
 
 These are things we intend to do, but depend on other teams to have functionality ready for us or to be ready to collaborate with us.
 
-- Integrate military information through VA Profile backend (currently integrates through eMIS)
-  - Samara attending an introductory meeting about this on 1/26
-- Research effort: research how to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
-- Notification preferences: Default opt-in indicator. This will allow us to show that someone receives a certain notification in the VA.gov profile because they have been opted into it by default by the business line even if they have never come to the profile and explicitly opted in themselves. Timeline on this is TBD, as we are waiting on VA Profile to be finished with this.
+- **Research effort**: research how to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
+- **Notification preference**s: Default opt-in indicator. This will allow us to show that someone receives a certain notification in the VA.gov profile because they have been opted into it by default by the business line even if they have never come to the profile and explicitly opted in themselves. Timeline on this is TBD, as we are waiting on VA Profile to be finished with this.
