@@ -1,6 +1,6 @@
 # Product Outline: VA.gov Profile
 
-Last Updated: December 7, 2021
+Last Updated: January 26, 2022
 
 ### Communications
 
@@ -14,9 +14,8 @@ Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); 
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
 |Christina Gesnalske| Designer |christina.gednalske@adhocteam.us |
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Zach Morel |FE Engineer| zach.morel@gcio.com |
-|Taylor Mitchell | FE Engineer| taylor.mitchell@gcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
+|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
 ---
 
