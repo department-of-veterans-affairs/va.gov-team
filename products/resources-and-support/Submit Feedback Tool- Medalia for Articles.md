@@ -114,7 +114,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 
 ### Current Status
-
+* Good/Bad exists*
+* Sam completed the dev for additional questions and it is sitting on the shelf if we want to roll to production*
+* We need to figure out the PRA process; Dave has provided the link. Jason and I agreed to work together on this but his team will own it.*
 ### Key Decisions
 
 ---
