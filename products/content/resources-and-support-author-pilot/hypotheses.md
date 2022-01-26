@@ -22,14 +22,20 @@
 ## Hypothesis 3: A content checklist (and a final manual review by the VA.gov content team for now at least for now) will ensure that R&S articles meet the minimum VA.gov content and accessibility standards.
 
 ### What we want to learn: 
-- How much of this work needs to be done by the content team vs., for example, a SiteImprove or the CMS or another tool in the future?
+- How much of this work needs to be done through manual review vs., for example, a SiteImprove or the CMS or another tool in the future?
 - What’s easy vs. confusing in the checklist?
 - How much of the checklist do/can content authors complete themselves vs. the OCTO copy editor needing to change and/or guide authors through? 
 
 ## Hypothesis 4: Feedback data and analytics will allow the VA.gov content team to determine which R&S articles aren’t performing well and engage in regular comprehension testing to make targeted improvements.
 
-## Hypothesis 5: We will need to add tags and will likely need to revisit the tagging structure to effectively support.
+## Hypothesis 5: We need to revisit the existing tag/category structure to better set up R&S for growth.  In addition, the tags will need to be continually evaluated as content is added (i.e., we may need to add new tags).
 
 ## Hypothesis 6: Veterans and other beneficiaries will face navigational challenges between the benefit hubs and R&S articles without an explicit "Go back to last page" path between the 2.
+- Do specific types of articles cause more navigational confusion than others?
+- As we streamline benefit hubs and rely more on crosslinking between hubs and R&S, how much do people use those crosslinks from the benefit hubs and at what points during the application flow?
+- What CTA guidance and/or "rules" can we create to ensure that crosslinks are as helpful and effective as possible? For example, does every R&S article that relates directly to a VA benefit have to have 2 CTAs (1 to the benefit application and 1 to the benefit hub "About" page)?
 
-## Hypothesis 7: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and reuse.
+## Hypothesis 7: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and creat-once-publish-everywhere (COPE) reuse.
+
+### What we want to learn:
+- What can we do now with the content types/components we have to help restructure content for better reuse in the future?
