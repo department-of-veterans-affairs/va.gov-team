@@ -18,7 +18,7 @@ body:
       description: Your Contracting Officer's Representative (COR) name.
       options:
         - Cecila Lee
-        - Courtney Bethea 
+        - Courtney Bethea
         - Crystal Moultrie
         - Doris Lin
         - Mary O’Toole
@@ -85,5 +85,13 @@ body:
     id: aws-access
     attributes:
       label: Desired AWS Services
-      description: What AWS services do you need access to and why? 
+      description: Which AWS services do you need access to and why?
       placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
+  - type: input
+    id: expiration-date
+    attributes:
+      label: Access Expiration
+      description: The requested access will be revoked at the start of this date.
+      placeholder: Enter a date and/or time
+    validations:
+      required: false
