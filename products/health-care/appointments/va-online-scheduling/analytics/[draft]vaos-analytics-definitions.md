@@ -74,16 +74,16 @@ vaos-eligibility-request-past-visits-failed |
 vaos-eligibility-request-supported-failed |
 vaos-eligibility-supported-facilities-failed |
 vaos-error |
-vaos-get-future-appointments-failed |
+vaos-get-future-appointments-failed | | If any of the upcoming appointments fetches fail: va or cc
 vaos-get-future-appointments-retrieved |
-vaos-get-future-appointments-started |
-vaos-get-past-appointments-failed |
+vaos-get-future-appointments-started | | When upcoming appointments are fetched on the homepage
+vaos-get-past-appointments-failed | | When either the va or cc appointment fetches fail
 vaos-get-past-appointments-retrieved |
-vaos-get-past-appointments-started |
-vaos-get-pending-appointments-failed |
+vaos-get-past-appointments-started | | When past appointments are fetched
+vaos-get-pending-appointments-failed | | If the request fetch fails
 vaos-get-pending-appointments-retrieved |
-vaos-get-pending-appointments-started |
-vaos-number-of-items-retrieved |
+vaos-get-pending-appointments-started | | When requests are fetched
+vaos-number-of-items-retrieved | types: `express_care`, `upcoming`, `video_home`, `video_va_facility`, `video_gfe`, `video_atlas`, `video_store_forward` | When a list of items are successfully fetched for the appt list
 vaos-request-current-location-allowed |
 vaos-request-current-location-blocked |
 vaos-request-current-location-clicked |
@@ -123,6 +123,7 @@ VAOS Facility ID |
 
 | Event Label (custom event name from data layer)| Parameters | Definition |
 | ------------- | ------------- | ------------- |
+nav-tab-clicked | | When a tab is clicked, would've occured on original tab design of appointments list
 vaos-return-to-legacy-link-clicked | `{ typeOfCare: ‘Primary Care’, flow: ‘direct’}` | "Return to legacy VAOS" link clicked
 vaos-past-appointments-legacy-link-clicked |
 vaos-express-care-facilities-link-clicked |
