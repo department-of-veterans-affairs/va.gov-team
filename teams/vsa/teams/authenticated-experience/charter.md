@@ -1,12 +1,12 @@
 # Authenticated experience team charter
 
-**Last updated October 25, 2021**
+**Last updated January 26, 2022**
 
 ## What we strive for
 
 ### Vision
 
-The authenticated experience team wants to work towards a concierge-like VA experience, one that sees, reflects, and guides veterans and their communities (families, caregivers, VSOs, etc.) through their interactions with the VA. We see a world in which:
+The authenticated experience team wants to work towards a concierge-like VA experience, one that clearly reflects the experiences of veterans and other VA customers and guides them through their interactions with the VA. We see a world in which:
 
 - The service member to veteran transition is seamless.
 - We never ask a veteran to provide a DD214 (proof of service).
@@ -19,11 +19,11 @@ The authenticated experience team wants to work towards a concierge-like VA expe
 
 To move us towards this vision, our current mission is to create a logged in experience on VA.gov that:
 
+- Elevates veteran action items and time-sensitive tasks.
+- Serves up status updates in a clear and scannable manner.
 - Differentiates itself from the logged out experience.
 - Elevates veteran data so that it tells a story.
-- Consolidates personal/benefit data so that it doesn't feel silo'd.
-- Guides veterans and their communities towards tasks and tools they need/want to complete.
-- Serves up status updates/alerts/action items in a way that makes it easy to act on this information.
+- Consolidates health & benefit data so that it doesn't feel silo'd.
 
 ### North star objectives
 
@@ -40,9 +40,10 @@ To move us towards this vision, our current mission is to create a logged in exp
 ## Workflow + Cadence
 
 ### Stand-up: people & product check-ins
-Daily @ 3pm ET (except Tuesdays) 
-15 min  
-Format:  
+
+* **My VA Team**: Daily @ 3pm ET (except Tuesdays) 
+* **Profile Team**: Daily @ 3:15pm ET (except Tuesdays) 
+  
 1. Team update
   - What I did yesterday? 
   -  What will I do today? 
