@@ -10,7 +10,7 @@ Sprint Demo is scheduled for Tuesday, 1-2:30pm ET on the last day of each sprint
 
 ## Facilitator Guide
 
-Faciliators service as MC and should be mindful of keeping the pace of Demo moving. That does not mean rushing participants. It does mean keeping an eye on time and how overelaborate (or not) a particular share is and using judgment to prompt folks with questions and thoughts as appropriate.
+Faciliators serve as MC and should be mindful of keeping the pace of Demo moving. That does not mean rushing participants. It does mean keeping an eye on time and how overelaborate (or not) a particular share is and using judgment to prompt folks with questions and thoughts as appropriate.
 
 ### Rotations
 We rotate facilitators between VSA PMs each month. [Facilitation Schedule](https://docs.google.com/spreadsheets/d/1f4Ld-zXFrTyYv8o2mc1x7CNIc4VEmhCwNOUxoVFW6r4/edit#gid=0)
