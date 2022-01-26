@@ -12,6 +12,11 @@ _What details are necessary for understanding the specific work or request track
 
 ---
 
+## Artifacts
+_What pages or templates do you anticpate requiring updates?_
+_Please note that other pages may need edits_
+
+---
 ## Tasks
 - [ ] This ticket includes updates to GitHub issue templates. Reference the [Updating existing GitHub issue templates guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#1.-Updating-existing-GitHub-issue-templates) in Governance Team Confluence for guidance on how to make the necessary changes.
 - [ ] This ticket includes creation of a new GitHub issue template. Reference the [Creating new GitHub issue templates guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#2.-Creating-new-GitHub-issue-templates) in Governance Team Confluence for guidance on how to make the necessary changes.
