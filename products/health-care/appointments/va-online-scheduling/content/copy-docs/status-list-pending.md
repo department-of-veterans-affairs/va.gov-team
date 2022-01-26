@@ -10,7 +10,7 @@ Pending appointments
 ```
 **PAGE HEADER**
 ```
-Your appointment requests that haven't been scheduled yet. 
+N/A
 ```
 **PAGE DESCRIPTION**
 ```
@@ -20,8 +20,13 @@ n/a
 **PAGE CONTENT**
 
 #### APPOINTMENT LIST CARDS 
-#### Display pending appointments 
 
+
+**Description for Pending appointments**
+```
+Your appointment requests that haven't been scheduled yet. 
+```
+#### Display pending appointments 
 ```
 {type of care}
 
@@ -29,6 +34,11 @@ n/a
 ```
 
 #### Display canceled pending appointments 
+**Description for Canceled appointments requests**
+```
+Your appointment requests that were canceled. 
+```
+
 
 ```
 {type of care}
