@@ -3,7 +3,7 @@
 
 
  
- *The current R&S Article pages to not match the style of the rest of the VA.gov pages. They do not match because the design patterns were not documented on the <a href="https://design.va.gov/">VA.gov Design System</a>.  We are proposing UI updates for R&S Article sections, 'Related information', 'VA Benefits', 'Need more help?', to align with the rest of VA.gov. We want to ensure that these changes are reviewed and approved by our Design, UI and Accessibility experts so that they inherently adhere to standards when implemented.*
+ *The current R&S Article pages to not match the style of the rest of the VA.gov pages. They do not currently align with the design patterns in the <a href="https://design.va.gov/">VA.gov Design System</a>.  We are proposing UI updates for R&S Article sections, 'Related information', 'VA Benefits', 'Need more help?', to align with the rest of VA.gov. We want to ensure that these changes are reviewed and approved by our Design, UI and Accessibility experts so that they inherently adhere to standards when implemented.*
  
 
  <Summary>Examples:</Summary>
