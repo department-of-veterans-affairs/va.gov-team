@@ -75,6 +75,7 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         ```
 
         <ins>**Severity:**</ins> severity here.
+        
 - ## Production
     The monitors in production currently are set up to look for cascading login issues, not specifically a single CSP. There is worked planned for Jan 2022 which will add more production monitoring. The inability to create production test accounts for the CSPs is what holds us back from monitoring the full login flows in the production environment.
 
@@ -95,9 +96,65 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         ```
         **Note:** `custom` is a label for inbound authentication.
 
-        <ins>**Severity:**</ins> `Critical`. This monitor will send a [pagerduty alert](https://dsva.pagerduty.com/service-directory/P8H4DC6) to the oncall person and send a notification in the [va-identity-alerts](https://dsva.slack.com/archives/C02SBFQ22RL) slack channel.
+        <ins>**Severity:**</ins> `Critical`. This alert impacts Veterans.
 
   - ## Outbound
+
+    - ### **Identity - Production Auth_too_late Login Callback Error Threshold Crossed**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55168108) specifically watches the number of auth_too_late error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings or latency anywhere within the authentication flow. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus in on the number of errors. If there are a large amount it may indicate a vets-api or Eauth issue. If this error count is very low it could be an end user issue, i.e a user stepped away during the auth process and attempted to complete it 30 minutes later.
+
+        <ins>**Threshold:**</ins> `above or equal to 50 total errors` over a `5 minute window` with a recovery of less than 30 errors. 
+
+        <ins>**Metrics used:**</ins> 
+
+        ```
+        sum:vets_api.statsd.api_auth_login_callback_failed{error:auth_too_late,deployment_env:vagov-prod}.as_count()
+        ```
+
+        <ins>**Severity:**</ins> `High`. This alert impacts Veterans however its not uncommon for a user to take too long during the auth process if they step away from their device and attempt to complete the authentication later.
+
+    - ### **Identity - Production Auth_too_early Login Callback Error Threshold Crossed**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/55167253) specifically watches the number of auth_too_early error codes returned from Eauth during the authentication process. If too many errors are recorded during the specified time window then this monitor will fire an alert. This alert can indicate a significant issue with vets-api servers local time settings. It is also possible the end user has their local time misconfigured or a bad actor is attempting to manipulate the response. You should follow the above response procedures but focus in on the number of errors. If there are a large amount it may indicate a vets-api issue. If this error count is very low it could be an end user issue.
+
+        <ins>**Threshold:**</ins> `above or equal to 3 total errors` over a `5 minute window` with a recovery of less than 2 errors. 
+
+        <ins>**Metrics used:**</ins> 
+
+        ```
+        sum:vets_api.statsd.api_auth_login_callback_failed{error:auth_too_early,deployment_env:vagov-prod}.as_count()
+        ```
+
+        <ins>**Severity:**</ins> `Critical`. This alert impacts Veterans.
+
+    - ### **Identity - Production Outbound SSOe Percent Error Threshold crossed**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/46767507) specifically looks for the percent of outbound SSOe authentication return percentage. This metric attempts to ensure that the combined response of a success and failure is above a certain percentage. If this metric drops below the threshold it typically indicates that either vets-api isn't able to process auth responses correctly from eauth or eauth is down and unable to respond. When this alert fires it indicates that va.gov and the sign in components are available because this alert states a new auth request was initiated but a specific threshold of those new authentications did not return with either success or failure. Follow the standard response procedures listed above and contant the Eauth team in the #VSP-Identity channel asap as this indicates an issue with production.
+
+        <ins>**Threshold:**</ins> `Less than 50 percent` return over a `15 minute window` with a recovery of greater than or equal to 56. 
+
+        <ins>**Metrics used:**</ins> 
+
+        ```
+        ((sum:vets_api.statsd.api_auth_login_success{context IN (mhv,idme,dslogon,logingov) AND deployment_env:vagov-prod}.as_rate() +
+        sum:vets_api.statsd.api_auth_login_failure{context IN (mhv,idme,dslogon,logingov) AND deployment_env:vagov-prod}.as_rate()) /
+        sum:vets_api.statsd.api_auth_new{context IN (mhv,idme,dslogon,logingov) AND deployment_env:vagov-prod}.as_rate()) * 100
+        ```
+
+        <ins>**Severity:**</ins> `Critical`. This alert impacts Veterans.
+
+    - ### **Identity - Production Auth Login Callback Failed Error=Unknown**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/monitors/47794259) specifically looks for the number of authentication login callback failure error code=unknown to reach a specific threshold. This alert typically indicates something is wrong with eauth or how eauth is recieving our saml requests. This alert would require investigating in the standard process described above, but also alerting the Eauth team to discover if they are aware of any issues that may be causing this. This error code (unknown) is a catch all and could be difficult to debug because we dont get any of the error details from eauth. The fact that its "unknown" is actually coming from the ISAM appliance itself not having a pre-designated error code for whatever is occuring in this transaction.
+
+        <ins>**Threshold:**</ins> `greater than or equal to 25 errors` in total over a `5 minute window` with a recovery of less than 5. 
+
+        <ins>**Metrics used:**</ins> 
+
+        ```
+        vets_api.statsd.api_auth_login_callback_failed as count
+        ```
 
     - ### **Identity Production Outbound ISAM SSOe Percent Error Threshold crossed**
 
@@ -112,6 +169,9 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         vets_api.statsd.api_auth_login_failure from context IN (mhv,idme,dslogon,logingov)) / 
         vets_api.statsd.api_auth_new from context IN (mhv,idme,dslogon,logingov)) * 100
         ```
+        
+        <ins>**Severity:**</ins> Critical. This is impacting Veterans and is a production level outage.
+        
 - ## Staging
     The monitors in staging currently are set up to monitor and alert on internal system availability, external system availability, and any changes to the Identity application stack that cause unexpected results during the authentication process.
     
@@ -136,6 +196,16 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
         <ins>**Severity:**</ins> severity here.
 
   - ## Outbound
+
+    - ### **Identity - SSOe Staging MHV Unified Sign-in Monitor - IDme**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/dq4-zra-xwc) monitors that the MHV unified page on staging with the IDme CSP has an issue. The steps in this test utilize a private datadog location because MHV staging is only available on the VA network (we normally use CAG for this). Review the screen captures within datadog for this alert to start the investigation process. The fault of this issue could be from vets-api, va.gov frontend, an MHV staging change, and in some cases a simple pop-up survey that triggered a missed step during the verification flow of this monitor.
+
+        <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
+
+        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+
+        <ins>**Severity:**</ins> `Medium`. This monitor covers a small subset of our services and in staging does not impact Veterans. This alert could be an indicator of an eventual production issue if the same code that caused this alert is then merged into production.
 
     - ### **example name of monitor**
 
@@ -182,9 +252,7 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
     - ### **Identity - Dev ISAM Metadata Changed**
 
-        <ins>**Description:**</ins> example description
-        
-        [This monitor](https://app.datadoghq.com/synthetics/details/2r7-e82-zzk) specifically looks for changes to the ISAM dev metedata file located [here](https://int.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_int_metadata_isam.xml).
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/2r7-e82-zzk) specifically looks for changes to the ISAM dev metedata file located [here](https://int.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_int_metadata_isam.xml).
 
         <ins>**Threshold:**</ins> N/A. If the MD5 sum doesnt match 3 times within 90 seconds, it will fire the alert. 
 
