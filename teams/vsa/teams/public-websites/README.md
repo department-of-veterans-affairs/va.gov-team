@@ -53,7 +53,7 @@ Unauthenticated Experience for VA.gov
 |-----------------------|------------------------------------|-----------------|
 |DSVA Product Owner     |David Conlon                     |<img width="200" alt="David Conlon" src="https://user-images.githubusercontent.com/70410912/145876050-563e130f-d963-4c0c-a234-4c42a3e00356.jpg">|
 |Sr Product Manager     |Brian Lloyd                         |<img width="200" alt="Brian Lloyd" src="https://user-images.githubusercontent.com/70410912/122794199-39f27980-d279-11eb-90c7-e3d2520474b3.png">| 
-|Front End Engineer     |Kelson Adams                       |<img width="200" alt="Kelson Adams" src="https://user-images.githubusercontent.com/70410912/122794450-8342c900-d279-11eb-9de4-37ecdd866cfe.png">|
+|Front End Engineer     |Sam Suddath                       |<img width="200" alt="Sam Suddath" src="https://user-images.githubusercontent.com/70410912/151250926-5a68b69e-0a8d-4561-8357-761145ef1329.jpg">|
 |Front End Engineer     |Trent McDole                       |<img width="200" alt="Kelson Adams" src=https://user-images.githubusercontent.com/70410912/137388756-2d4585df-4922-4f7a-a70d-2ff176b64fce.jpg>|
 |Design       |Cassandra Allen         |<img width="200" alt="Cassandra Allen" src="https://user-images.githubusercontent.com/70410912/122793681-b8025080-d278-11eb-8a9f-11f75e296e03.png">|
 |Research     |Cindy Merrill         |<img width="200" alt="Cindy Merrill" src="https://user-images.githubusercontent.com/70410912/122793757-cbadb700-d278-11eb-8ac8-ac0f521fd7fc.png">|
