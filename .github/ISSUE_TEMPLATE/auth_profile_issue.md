@@ -7,9 +7,6 @@ assignees:
 
 ---
 
-
-# Authorized Experience Profile Standard Issue Template
-
 ## Background
 
 Describe the issue background and scope
