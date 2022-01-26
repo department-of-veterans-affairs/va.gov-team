@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-*The Search and Discovery team would like to move away from having a separate feedback tool and use Medalia. Medalia will offer a combined experience for the Veterans as well streamline operations internally. Additionally Medalia already has analytics capabilities that the S&D team can build off of.*
+*The Search and Discovery team would like to move away from having a separate feedback tool and use Medalia. Medalia will offer a combined experience for the Veterans as well streamline operations internally. Additionally Medalia already has analytics capabilities that the S&D team can build off of. Medallia's Feedback Survey Tool that we are interested in utilizing will allow users to rate multiple article pages on R&S*
 
 ## Problem Statement
 *Currently the Research and Article pages have the option for a veteran to submit whether their experience on the page was good or bad. The S&D team have been
@@ -34,17 +34,23 @@ VA.gov also has a feedback survey selection on the right hand of the application
 ## Undesired Business Outcomes
 - *Additional similar processes in different groups*
 - *Additional reporting tool creations*
-- User feedback is hard to access and/or understand
-- The type of feedback collected is not helpful to the product/content owner
+- *User feedback is hard to access and/or understand*
+- *The type of feedback collected is not helpful to the product/content owner*
 
 ---
 ## Measuring Success
-
+- *Utilization of the solution implemented will determine the success of using Medalia vs. the existing good/bad feedback tool. 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+*Data that will be collected are:
+ *1. # of responses
+ *2. # of good vs bad responses
+ *3. highest and lowest selected additional reasons for the experiencem (we will disucss what these answers should be with the content team)*
+     *- xxx
+     *- xxx
+     *- xxx
+* _The most important metrics to collect are the responses from the Veterans_
+* _Nicole to check with Jason to ensure we can use the same dashboard they have in MVP and build off of it._
 * _**Limit 5-6 KPIs per product**__
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
@@ -68,7 +74,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - *Medalia can be enabled/disabled on certain pages*
 - *S&D could have a separate set of questions or add questions to Medalia and have those presented on the appropriate article pages*
-- 
+- Medallia's Intercept Tool allows users to submit feedback only once and will not reappear until 90 days later. We will not be utilizing this tool
 
 ## Solution Approach
 
@@ -100,6 +106,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Solution Narrative
+*What will users see after they click the blue feedback button near the footer? Currently a modal appears when a user clicks the blue button on the right side of the page, is anything changing after a user clicks the blue button? A modal with the three standard Feedback survey questions we currently serve; nothing in that regard is changing right now.
+*Can you share more details on the release/testing plan? And can R&S article pages be a part of testing?Yes, we do plan to test functionality on staging for each template and also run general 508 accessibility tests. This can be included in this. We need to make sure that Jason confirmed this*
+*Is this userflow possible with Medallia? If a user rates the page poorly a list of issues (such as "Typo") with checkboxes will appear to allow users to report problems with the pagex. I do believe this is possible, though will likely require a fair amount of customization (i.e. engineering) on our side. This type of scenario would also likely need to go through our experimental design process. This is supported but will be implemented towards Q1. 
+
+![image](https://user-images.githubusercontent.com/95870427/151209907-3ffdc676-accc-41f2-8c79-7eb5aef61e32.png)
+
 
 ### Current Status
 
