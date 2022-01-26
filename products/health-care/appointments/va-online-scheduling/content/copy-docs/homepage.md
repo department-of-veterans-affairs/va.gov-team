@@ -166,12 +166,9 @@ You can schedule an appointment online now, or call your VA medical center to sc
 
 **FORM TITLE**
 
-```
-Your appointments
-```
 **PAGE HEADER**
 ```
-n/a
+Your appointments
 ```
 **PAGE DESCRIPTION**
 
@@ -182,9 +179,9 @@ n/a
 **PAGE CONTENT**
 
 ```
-(CTA) Start scheduling
+<Start scheduling>
 
-(link) Pending (link) Past
+Pending    Past
 ```
 **APPOINTMENT LIST CARDS**
 
