@@ -12,7 +12,7 @@ Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); 
 |----|----|-----|
 |Samara Strauss |OCTO Lead| samara.strauss@va.gov |
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com|
-|Christina Gesnalske| Designer |christina.gednalske@adhocteam.us |
+|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
 |Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
 |Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
 
