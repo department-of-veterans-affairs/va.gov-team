@@ -16,9 +16,9 @@ This document is meant to serve as a technical outline for VSA developers, but o
     - [Backend](#backend)
   - [Slack](#slack)
   - [Zoom Meetings](#zoom-meetings)
-  - [Google Drive: VSA Team](#google-drive-vsa-team)
-  - [Google Calendar (Shared): PTO](#google-calendar-shared-pto)
-  - [Google Calendar: Work Account](#google-calendar-work-account)
+  - [SharePoint: VSA Team](#sharepoint-vsa-team)
+  - [SharePoint Calendar: PTO](#sharepoint-calendar-pto)
+  - [Outlook Calendar: Work Account](#outlook-calendar-work-account)
   - [GitHub Repositories](#github-repositories)
   - [GitHub Links](#github-links)
   - [Development System](#development-system)
@@ -114,7 +114,7 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
 
 ## Slack
 
-Slack is preferred over emails; however, you will get meeting requests via email that you’ll need to accept and add to your calendar, so you should still check your company email a few times a day. You are also required to check your VA email weekly via Citrix Access Gateway (CAG) to keep it active (daily if your job requires it). You are expected to have Slack running and constantly monitored during working hours. Use the installed (desktop) version of Slack on your development systsem rather than just running Slack from your browser (you may have limits on features such as video, sharing, and notifications if you don't.) We also recommend turning on the Google Calendar and Google Drive slack apps.
+Slack is preferred over emails; however, you will get meeting requests via email that you’ll need to accept and add to your calendar, so you should still check your company email a few times a day. You are also required to check your VA email weekly via Citrix Access Gateway (CAG) to keep it active (daily if your job requires it). You are expected to have Slack running and constantly monitored during working hours. Use the installed (desktop) version of Slack on your development system rather than just running Slack from your browser (you may have limits on features such as video, sharing, and notifications if you don't).
 
 - Federal DSVA Workspace URL: https://dsva.slack.com
 - Guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/vsa-slack-guidance.md
@@ -151,32 +151,32 @@ Slack is preferred over emails; however, you will get meeting requests via email
 
 
 - If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
-- **Bots**: **_/wtf_** On the DSVA slack, you can look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
-- **Apps**: Allow the “Google Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
-- **Status**: In addition to setting your vacation time in the shared Google Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.
+- **Bots**: Type: **_/wtf_** on any DSVA slack channel to look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
+- **Apps**: Allow the "Outlook Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
+- **Status**: In addition to setting your vacation time in the SharePoint Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.
 
 ## Zoom Meetings
-
+Note: The Zoom Basic plan has a 40-minute time limit on meetings with 3 or more participants.
 - [https://zoom.us/](https://zoom.us/)
 - Sign in using your company’s email account.
-- Using free for now (40 minute limit for meetings over 3 people).
 - Create a meeting in Zoom first, then export to email.
-- After the meeting is visible in Google email/calendar, add attendees (from Google, not Zoom).
+- After the meeting is visible in Outlook email/calendar, add attendees (from Outlook, not Zoom).
 
-## Google Drive: VSA Team
+## SharePoint: VSA Team
 
 We prefer most documents to be on GitHub, but sometimes they start off here.
-https://drive.google.com/drive/folders/0ACZ1e6Rs_6sDUk9PVA
+https://salientcrgt.sharepoint.com/sites/VSATeam/SitePages/Home.aspx
 
-## Google Calendar (Shared): PTO
+## SharePoint Calendar: PTO
 
-https://www.google.com/calendar/render?cid=governmentcio.com_rae2ref7gb5p67nmcuj2l7ege0@group.calendar.google.com \
-PTO Calendar: after approval from your PM and lead, put your days off (approved vacation, sick, etc.) on our shared Google PTO Calendar. Usage tips:
+https://salientcrgt.sharepoint.com/sites/VSATeam/Lists/PTO/calendar.aspx \
+PTO Calendar: after approval from your PM and lead, put your days off (approved vacation, sick, etc.) on our shared PTO Calendar. Usage tips:
 - Please do not send meeting invitations to let people know you will be out of office. Those clutter our calendars so most people will decline or delete/ignore. Just add your PTO/OOO to this calendar.
 - When creating meetings remember to check this calendar to see who is out, but don't send invitations to this calendar.
 
-## Google Calendar: Work Account
+## Outlook Calendar: Work Account
 
+https://outlook.office.com/calendar
 - Since we have contractors with different email domains, you’ll need to “Share with Specific People” so that at least your free vs busy times are available. This will help teammates schedule meetings.
 - In addition to putting time away on the PTO Calendar, you can also block off OOO times and appointments as events on your work calendar, but don’t send them off as meeting invites.
 - If you have recurring short events that may take you away from Slack (lunch break, driving, etc), communicate those with your team, but also put them on your work calendar.
