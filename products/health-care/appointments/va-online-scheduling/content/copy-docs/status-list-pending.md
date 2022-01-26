@@ -27,16 +27,26 @@ n/a
 
 {facility/provider name}
 ```
+
+#### Display canceled pending appointments 
+
+```
+{type of care}
+
+{facility/provider name}
+```
+
 **Empty State**
 Messaging when there are no appointments in the list.
 
-#### Your appointments (Confirmed)
+#### Pending appointments (Open requests)
 ```
-You don't have any past appointments
+You don't have any appointment requests
 
 You can schedule an appointment online now, or call your VA medical center to schedule an appointment.
 
 (link) Schedule an appointment
+
 ```
 
 
