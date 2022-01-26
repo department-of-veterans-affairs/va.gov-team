@@ -31,8 +31,8 @@ assignees:
 - [ ] Close this ticket when review is complete and feedback has been addressed. 
 
 
-### Has your product been reviewed by the OCTO-DE Design Lead?
-- [ ] Yes
+### Has your product been reviewed by the OCTO-DE?
+- [ ] Yes (please add the name of the OCTO_DE reviewer)
 - [ ] No
 
 
