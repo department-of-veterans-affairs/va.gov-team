@@ -21,7 +21,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has one or less IEN attributes with an `A` marker attached to it, the user `IS` permitted to login
  - Corp ID / Participant ID: uuid from VBA
     - If a user has more than one CORP ID attribute with an `A` marker attached to it, the user `IS NOT` permitted to login
-    - If a user has one or less COPR ID attributes with an `A` marker attached to it, the user `IS` permitted to login
+    - If a user has one or less CORP ID attributes with an `A` marker attached to it, the user `IS` permitted to login
  - SSN
     - If a user has more than one SSN, the user `IS NOT` permitted to login
     - If a user has one SSN, the user `IS` permitted to login
@@ -40,7 +40,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has more than one ICN, the user `IS NOT` permitted to login
     - If a user has one or less ICN, the user `IS` permitted to login
  - Sec_ID: Eauth uuid
-    - If a user has more than one Sec_ID, the user `IS` permitted to login. A [warning is published](https://github.com/department-of-veterans-affairs/vets-api/blob/c6bfa717cfe9532cbc29925587cb9c0106edd68a/lib/saml/user_attributes/ssoe.rb#L243) to sentry to alert vets-api of this occurance.
+    - If a user has more than one Sec_ID, the user `IS` permitted to login. A [warning is published](https://github.com/department-of-veterans-affairs/vets-api/blob/c6bfa717cfe9532cbc29925587cb9c0106edd68a/lib/saml/user_attributes/ssoe.rb#L243) to sentry to alert vets-api of this occurrence.
     - If a user has one or less Sec_ID, the user `IS` permitted to login
  
 This diagram depicts the current business requirements as described above:
