@@ -122,18 +122,18 @@ Slack is preferred over emails; however, you will get meeting requests via email
 
 | Channel                    | Description                                 |
 | :------------------------- | :------------------------------------------ |
-| #general                   |
+| [#general](https://dsva.slack.com/channels/general)                         | This channel is for team-wide communication and announcements. All team members are in this channel. |
 | [#va-onboarding-help](https://dsva.slack.com/channels/va-onboarding-help)   | VA-specific onboarding help for CAG, GFE, ePAS, and VA email |
 | [#forms-library](https://dsva.slack.com/channels/forms-library)             | A channel to chat about the VA Form library |
-| #random                    |
+| [#random](https://dsva.slack.com/channels/random)                           | A place to share random information |
 | [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             | Weekly Team of Teams slides are here |
 | [#vfs-backend](https://dsva.slack.com/channels/vfs-backend)               | Backend Developers, Technical               |
 | [#vfs-engineers](https://dsva.slack.com/channels/vfs-engineers)             | Jenkins deploy, VSP announcements           |
 | [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend)              | Frontend Developers, Technical              |
 | [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help). Developers spend a lot of time here.|
-| #vsa                       | VSA all teams and practice areas            |
+| [#vsa](https://dsva.slack.com/channels/vsa)                       | VSA all teams and practice areas            |
 | [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
-| [#vsa-bam-2 aka #vsa-debt](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
+| [#vsa-debt](https://dsva.slack.com/channels/vsa-debt)                 | Team: VSA Debt              |
 | [#vsa-benefits-memorial aka #vsa-claims-appeals](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
 | [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)             | Team: Caregiver                             |
 | [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering) | Team: Caregiver (just devs)                 |
@@ -158,8 +158,8 @@ Slack is preferred over emails; however, you will get meeting requests via email
 ## Zoom Meetings
 
 - [https://zoom.us/](https://zoom.us/)
-- Sign in using your company’s Google email account (e.g., [pshort@governmentcio.com](mailto:pshort@governmentcio.com)).
-- Using free for now (40 minute limit for meetings over 3 people):
+- Sign in using your company’s email account.
+- Using free for now (40 minute limit for meetings over 3 people).
 - Create a meeting in Zoom first, then export to email.
 - After the meeting is visible in Google email/calendar, add attendees (from Google, not Zoom).
 
