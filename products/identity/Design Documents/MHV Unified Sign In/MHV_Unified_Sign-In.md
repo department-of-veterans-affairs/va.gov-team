@@ -20,7 +20,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has one or less IEN attributes with an `A` marker attached to it, the user `IS` permitted to login
  - Corp ID / Participant ID: uuid from VBA
     - If a user has more than one CORP ID attribute with an `A` marker attached to it, the user `IS NOT` permitted to login
-    - If a user has one or less COPR ID attributes with an `A` marker attached to it, the user `IS` permitted to login
+    - If a user has one or less CORP ID attributes with an `A` marker attached to it, the user `IS` permitted to login
  - SSN
     - If a user has more than one SSN, the user `IS NOT` permitted to login
     - If a user has one SSN, the user `IS` permitted to login
@@ -39,8 +39,17 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has more than one ICN, the user `IS NOT` permitted to login
     - If a user has one or less ICN, the user `IS` permitted to login
  - Sec_ID: Eauth uuid
-    - If a user has more than one Sec_ID, the user `IS` permitted to login. A [warning is published](https://github.com/department-of-veterans-affairs/vets-api/blob/c6bfa717cfe9532cbc29925587cb9c0106edd68a/lib/saml/user_attributes/ssoe.rb#L243) to sentry to alert vets-api of this occurance.
+    - If a user has more than one Sec_ID, the user `IS` permitted to login. A [warning is published](https://github.com/department-of-veterans-affairs/vets-api/blob/c6bfa717cfe9532cbc29925587cb9c0106edd68a/lib/saml/user_attributes/ssoe.rb#L243) to sentry to alert vets-api of this occurrence.
     - If a user has one or less Sec_ID, the user `IS` permitted to login
  
 This diagram depicts the current business requirements as described above:
 ![userattribute_businessrules](https://user-images.githubusercontent.com/71290526/151221508-6f112516-3178-43d3-9411-75c6bb41cba2.png)
+
+## MHV Unified Sign In Exceptions
+MHV Unified Sign In inherits the rules from the standard user attribute processing in vets-api. Below is an exhaustive list of the exceptations made only to the application=mhv:
+
+[Vets-API inspects](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/saml/user_attributes/ssoe.rb) each of the user attributes and makes business logic decisions regarding if a user should be permitted to login to the application=mhv (myhealth.va.gov):
+
+- IEN: 
+    - If a user has more than one IEN attribute the user `IS` permitted to login
+    - If a user has one or less IEN attributes the user `IS` permitted to login
