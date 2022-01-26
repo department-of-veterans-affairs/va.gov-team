@@ -4,49 +4,32 @@
 The documentation is to provide definition and clarity as to how we are tracking analytics for the new VA Online Scheduling tool (VAOS-R). Use this document as a guide when looking into the analytics and performance of the VAOS tool on VA.gov. 
 
 ## Events Tracking
-- 'schedule appointment' button clicked on homepage
+- "Start scheduling" button clicked on homepage (top of the page or within the no appointments found alert)
   - `vaos-schedule-appointment-button-clicked`
-- 'New Appointment' on confirmation page
+- "New appointment" link clicked on confirmation page
   - `vaos-schedule-another-appointment-button-clicked`
-- 'submit request/appointment' button clicked
+- "Confirm appointment"/"Request appointment" button clicked on the review page
   - `vaos-community-care-submission`
-    - `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-community-care-preferred-language: "english", vaos-number-of-preferred-providers: 0 }`
   - `vaos-direct-submission`
-    - `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-number-of-preferred-providers: 0 }` (preferrred providers is a bug)
   - `vaos-request-submission`
-    - `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-community-care-preferred-language: undefined, vaos-number-of-preferred-providers: 0 }` (cc and preferred providers is a bug)
   - `vaos-covid19-submission`
-    - `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }`
 - Form submission succeeded
   - `vaos-community-care-submission-successful`
-    - `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-number-of-preferred-providers: 0 }`
   - `vaos-direct-submission-successful`
-    - `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-number-of-preferred-providers: 0 }` (preferred providers is a bug)
   - `vaos-request-submission-successful`
-    - `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-number-of-preferred-providers: 0 }` (preferred providers is a bug)
   - `vaos-covid19-submission-successful`
-    - `{ facility-id: "983", flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }`
 - Form submission failed
   - `vaos-community-care-submission-failed`
-    - `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-number-of-preferred-providers: 0 }`
   - `vaos-direct-submission-failed`
-    - `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-number-of-preferred-providers: 0 }` (preferrred providers is a bug)
   - `vaos-request-submission-failed`
-    - `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-number-of-preferred-providers: 0 }` (preferrred providers is a bug)
   - `vaos-covid19-submission-failed`
-    - `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }`
-- 'Cancel' link clicked
+- "Cancel appointment"/"Cancel request" link clicked on appointment details
   - `vaos-cancel-appointment-submission`
-  - As additional data, capture confirmed vs pending & whether VA or CC
-    - `{ appointmentType: ‘pending’, facilityType: ‘va’}`
-- 'Cancel' succeeded
+- Cancel succeeded
   - `vaos-cancel-appointment-submission-successful`
-  - As additional data, capture confirmed vs pending & whether VA or CC
-    - `{ appointmentType: ‘confirmed’, facilityType: ‘va’}`
-- 'Cancel' failed
+- Cancel failed
   - `vaos-cancel-appointment-submission-failed`
-  - As additional data, capture confirmed vs pending & whether VA or CC
-    - `{ appointmentType: ‘pending’, facilityType: ‘va’}`
+
  
 ## Events Tracking Errors
 - Failure - Exceeded outstanding requests limit
@@ -63,25 +46,25 @@ The documentation is to provide definition and clarity as to how we are tracking
   - Errored - Doesn't have active PACT members
   
 ## Full List  
-| Event Label (custom event name from data layer)| Parameters | Definition |
-| ------------- | ------------- | ------------- |
-vaos-cancel-appointment-submission |
-vaos-cancel-appointment-submission-failed |
-vaos-cancel-appointment-submission-successful |
+| Event Label (custom event name from data layer) | Parameters | Definition |
+|-----|----------|-----|
+vaos-cancel-appointment-submission | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation was attempted
+vaos-cancel-appointment-submission-failed | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission wasn't successful
+vaos-cancel-appointment-submission-successful | `{ appointmentType: ‘pending’, facilityType: ‘va’}`; appointmentType possible values: `confirmed`, `pending`; facilityType possible values:  `va`, `cc` | Cancellation submission was successful
 vaos-cc-eligible-yes |
 vaos-community-care-path-started |
-vaos-community-care-submission |
-vaos-community-care-submission-failed |
-vaos-community-care-submission-successful |
+vaos-community-care-submission | `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-community-care-preferred-language: "english", vaos-number-of-preferred-providers: 0 }` | User completed the form and a submission was attempted
+vaos-community-care-submission-failed | `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-number-of-preferred-providers: 0 }` | Submission wasn't successful
+vaos-community-care-submission-successful | `{ flow: "cc-request", health-ReasonForAppointment: undefined, health-TypeOfCare: "Podiatry", vaos-number-of-preferred-providers: 0 }` | Submission was successful
 vaos-covid19-path-started |
 vaos-covid19-start-scheduling-button-clicked |
-vaos-covid19-submission |
-vaos-covid19-submission-failed |
-vaos-covid19-submission-successful |
+vaos-covid19-submission | `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | User completed the form and a submission was attempted
+vaos-covid19-submission-failed | `{ flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | Submission wasn't successful
+vaos-covid19-submission-successful | `{ facility-id: "983", flow: "direct", health-TypeOfCare: "COVID-19 Vaccine" }` | Submission was successful
 vaos-direct-path-started |
-vaos-direct-submission |
-vaos-direct-submission-failed |
-vaos-direct-submission-successful |
+vaos-direct-submission | `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | User completed the form and a submission was attempted
+vaos-direct-submission-failed | { flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission wasn't successful
+vaos-direct-submission-successful | `{ flow: "direct", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care"}` | Submission was successful
 vaos-eligibility-direct-available-clinics-failed |
 vaos-eligibility-direct-check-past-visits-failed |
 vaos-eligibility-direct-no-matching-past-clinics-failed |
@@ -105,9 +88,9 @@ vaos-request-current-location-allowed |
 vaos-request-current-location-blocked |
 vaos-request-current-location-clicked |
 vaos-request-path-started |
-vaos-request-submission |
-vaos-request-submission-failed |
-vaos-request-submission-successful |
+vaos-request-submission | `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-community-care-preferred-language: undefined }` | User completed the form and a submission was attempted
+vaos-request-submission-failed | `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission wasn't successful
+vaos-request-submission-successful | { flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission was successful
 vaos-schedule-another-appointment-button-clicked |
 vaos-schedule-appointment-button-clicked |
 vaos-schedule-new-appointment-started |
