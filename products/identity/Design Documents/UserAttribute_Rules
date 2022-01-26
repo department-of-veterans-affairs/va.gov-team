@@ -44,6 +44,6 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
     - If a user has one or less Sec_ID, the user `IS` permitted to login
  
 This diagram depicts the current business requirements as described above:
-
+![userattribute_businessrules](https://user-images.githubusercontent.com/71290526/151221508-6f112516-3178-43d3-9411-75c6bb41cba2.png)
 
 
