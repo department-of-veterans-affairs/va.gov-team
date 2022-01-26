@@ -6,7 +6,7 @@
 
 ### Vision
 
-The authenticated experience team wants to work towards a concierge-like VA experience, one that clearly reflects the experiences of veterans and other VA customers and guides them through their interactions with the VA. We see a world in which:
+The authenticated experience team wants to work towards a concierge-like VA experience, one that puts veterans' and other customers at the center of the interaction. We see a world in which:
 
 - The service member to veteran transition is seamless.
 - We never ask a veteran to provide a DD214 (proof of service).
