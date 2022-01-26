@@ -1,11 +1,10 @@
-# Submit Feedback Tool (Medalia for Articels) Product Outline Template
+# Submit Feedback Tool (Medalia for Articles) Product Outline
 
 
 ---
 
 ## Overview
-*The Search and Discovery team would like to move away from having a separate feedback tool and use Medalia. Medalia will offer a conbmined experience for the Veterans
-as well streamline operations internally. Additionally Medalia already has analytics capabilities that the S&D team can build off of.*
+*The Search and Discovery team would like to move away from having a separate feedback tool and use Medalia. Medalia will offer a combined experience for the Veterans as well streamline operations internally. Additionally Medalia already has analytics capabilities that the S&D team can build off of.*
 
 ## Problem Statement
 *Currently the Research and Article pages have the option for a veteran to submit whether their experience on the page was good or bad. The S&D team have been
@@ -17,24 +16,26 @@ VA.gov also has a feedback survey selection on the right hand of the application
 ## Desired User Outcomes
 
 - *Veterans may be confused why they are asked different questions on different pages on the website note- research to validate*
-- *Solving the issue of multiple surveys could provide less frustration, more efficiency, ability to submit issues, and just an overall improved 
-- experience for the Veterans*
+- *Solving the issue of multiple surveys could provide less frustration, more efficiency, ability to submit issues, and just an overall improved experience for the Veterans*
 
 ## Undesired User Outcomes
 - *Creating a frustrating experience for the Veterans*
 - *Creating a more time consuming experience for the Veterans*
-
+- Inconsistent UI for submitting feedback
+- Users feel interrupted and/or frustrated by attempts to collect feedback
 
 ## Desired Business Outcomes
-
 - *Streamlined sensible process for Veterans to submit feedback*
+- Product/content owners are able to quickly and easily access user feedback
+- Product/content owners are able to understand user feedback in order to make improvements
 - *Utiliziation of Medalia since it is already implemented and provides analytics*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
 - *Additional similar processes in different groups*
 - *Additional reporting tool creations*
-- 
+- User feedback is hard to access and/or understand
+- The type of feedback collected is not helpful to the product/content owner
 
 ---
 ## Measuring Success
