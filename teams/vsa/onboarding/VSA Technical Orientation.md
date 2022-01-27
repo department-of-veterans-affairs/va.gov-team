@@ -1,6 +1,6 @@
 # VSA Technical Orientation
 
-This document is meant to serve as a technical outline for VSA developers, but other VSA team members may find some of the links here useful. There is a lot of decent documentation available; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding a new developer.
+This document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. There is a lot of decent documentation available; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
 
 ## Table of Contents
 
@@ -41,10 +41,10 @@ We are actively working on https://va.gov, the user-centered, public-facing webs
 - VSA: [Veteran-facing Services Applications (VSA)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa#veteran-facing-services-applications-vsa); our team (applications).
 - VSP: [Veteran-facing Services Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/README.md#veteran-facing-services-platform-vsp); the platform team, which includes framework and DevOps.
 - VFS: Veteran Facing Services (consumers of VSP, including VSA).
-
+- VA Performance Dashboard: https://www.va.gov/performance-dashboard
 ### Overview
 
-- Important public announcements and published articles, in reverse-chronological order (vets.gov now redirects to va.gov):
+Important public announcements and published articles, in reverse-chronological order (vets.gov now redirects to va.gov):
 
 | Date               | Topic                                                                           | Link                                                                                                                      |
 | :----------------- | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------ |
@@ -56,9 +56,6 @@ We are actively working on https://va.gov, the user-centered, public-facing webs
 | 2017&nbsp;Fall     | Simplifying Veteran-facing Services through Vets<span/>.gov                     | https://www.usds.gov/report-to-congress/2017/fall/vets-dot-gov                                                            |
 | 2017&nbsp;June     | Vets<span/>.gov: A Modern Software Development Environment in Government        | https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a  |
 | 2017&nbsp;June     | Building Forms Faster on Vets<span/>.gov                                        | https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db                                  |
-
-- Improvements: https://www.va.gov/scorecard
-- Playbook: https://www.va.gov/playbook
 
 ## Main Repositories
 
