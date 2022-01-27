@@ -2,98 +2,320 @@
 
 ## Moderator logistics
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+Mute other computer notifications 
 
-*Mute your Slack notifications*
+Send out the observer instructions to your observers 
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
+In the Attendees section, make sure everyone except the participant is on mute. 
 
-*In the Attendees section, make sure everyone except the participant is on mute.*
+Check your [screensharing setup] and share permissions for participants. 
 
-*In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
+Usability Testing Prep: 
 
-*Check your [screensharing setup] and share permissions for participants.*
+Confirm that the participant has consented to the study before starting the session 
 
-*When the participant is ready, begin the session with the following intro*
+Have prototype link ready for sharing in the meeting chat 
 
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
+Check that guests can access and navigate through the prototype  
 
 ## Intro - 5 minutes
+Good [morning/afternoon], may I ask what name you prefer to go by? Well, thank you for joining us today, [NAME]. My name is [NAME] and I also have some team members on the line to observe and take notes. We’re working with the U.S Department of Veterans Affairs Education Service to improve the GI Bill Student experience for all users. Today we're going to ask you to complete a series of tasks that will simulate verifying your monthly enrollments to keep getting paid through your VA (Veterans Affairs) account. 
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+ 
 
-Before we start, a few things I want to mention:
+Before we start, a few things I wanted to mention: 
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+This entire session should take about 45 minutes to one hour. I want to be sure not to keep you much longer, so I may occasionally move you along to the next question or topic. 
 
-*Start recording.*
+You'll be interacting with a prototype. This is a tool that may not function exactly the way you would expect a normal website to function. Some areas of the prototype will be clickable, and some will not. And, since it's a prototype, none of your actions will affect your actual VA information or benefits.  
 
-- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
+Remember, you are the expert, here. In this session, we want to hear your honest opinions. We are not testing your ability and there are no right or wrong answers. Your input will help us understand the communication preferences for all GI Bill Students, and we welcome your feedback. 
 
-## Warm-up Questions (Optional) - X minutes
+Please speak your thoughts aloud when going through the prototype. This helps us understand what you are thinking as you look at the designs. 
 
-Before we look at the website, let’s start with a few warm-up questions.
+On the consent form you acknowledged that you were comfortable with us recording this session. Are you still okay with this? The recording will be used for reference in case we miss any notes. It will be deleted once our analysis is complete.  
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+Start recording. 
 
-## First Task: [TASK NAME] - X minutes
+I have started recording. Can you confirm that you are okay with me recording this session? 
 
-- Step 1
-- Step 2
+If for any reason you want to stop the session or take a break at any point, please let me know. If there are no questions or comments at this time we can jump right in! 
 
-### Things to watch for:
+## Warm-up Questions (Optional) - 5 minutes
+If you feel comfortable, could you tell us where you are from? 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+Have you used education benefits before? What has been your experience so far? 
 
-## Second Task: [TASK NAME] - X minutes
+Can you share what education benefits you have right now? 
 
-- Step 1
-- Step 2
+Have you had to verify your enrollments to get paid before? What have you thought about that process? 
 
-### Things to watch for:
+ 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+So now let us click that [LINK] that you can find in the chat. It will take you to the prototype. The password is: [PASSWORD]. I am going to ask you to share your screen if possible, so please let me know if you need any assistance with that. …  
+(Backup Plan – HCD (Human Centered Design) facilitator may need to share their screen to scroll/click for the participant) 
 
-## Third Task: [TASK NAME] - X minutes
+ 
 
-- Step 1
-- Step 2
+1. Entry Point to Unauthenticated Page (2 Screens) 
 
-### Things to watch for:
+Impressions: Before we do anything here, I would like to ask what you think about the screen in front of you. Feel free to scroll around but please do not click the links, yet.  
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+Potential Probes (use these questions to guide the discussion, not mandatory every time) 
 
-## Post-Task Interview - X minutes
+What are your first impressions as you scroll through the page?  
 
-- Question 1
-- Question 2
-- Any questions for me? 
+Are there any other parts of this page that stand out to you?  
 
-## Thank-You and Closing - X minutes
+Is there anything missing or confusing on this page?  
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Now I am going to ask you to complete a task: So, from here, if you wanted to navigate to your monthly enrollments to verify on Va.Gov, how would you do that?  
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+Do you have any questions about that process? 
 
-Great, well thank you so much again, and enjoy the rest of your day!
+Task Succession Metrics 
 
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
+Completed Immediately; Completed with Hesitation (or Questions); Needed Moderator’s Assistance 
 
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+Does the participant understand the content of the email notification? 
+
+Does the participant understand the purpose of the email notification? 
+
+
+
+2.  Testing Non33 Link from Unauthenticated Page (2 Screens) 
+
+Impressions: Before we do anything here, I would like to ask what you think about the screen in front of you. Feel free to scroll around but please do not click the links, yet.  
+
+Potential Probes 
+
+What do you think about the side bar title? 
+
+What do you think about the title and helper text? 
+
+How do you understand this page? 
+
+Scenario: Let’s say you are a beneficiary of the Montgomery GI Bill – Active Duty – where would you go if you wanted to verify your monthly enrollments? [Once task is complete] 
+
+What would you expect to happen if you tried to login instead? [Have them do it and ask for impressions] 
+
+What do you think about the alert? 
+
+Do you have any questions about that process? 
+
+Task Succession Metrics 
+
+Completed Immediately; Completed with Hesitation (or Questions); Needed Moderator’s Assistance 
+
+Does the participant understand the content of the unauthenticated page? 
+
+Does the participant understand the purpose of the Non-33 verification section? 
+
+ 
+NOTE: Have them click the breadcrumb to return to the signed-out start page, then ask them to sign-in through ID.me 
+
+3.  Logging into the Enrollment Verification Feature from Unauthenticated Page (2 Screens) 
+
+Scenario: Let’s say that this time you are a Post-9/11 GI Bill student. Where would you go if you wanted to verify your monthly enrollments? [Once task is complete] 
+
+Potential Probes 
+
+What do you think about logging in? 
+
+What would you expect to happen after clicking the button? [Have them do it and ask for impressions] 
+
+Do you have any questions about that process? 
+
+Task Succession Metrics 
+
+Completed Immediately; Completed with Hesitation (or Questions); Needed Moderator’s Assistance 
+
+Does the participant understand the Post-9/11 GI Bill content of the unauthenticated page? 
+
+Does the participant understand how to access their monthly enrollment verifications? 
+
+
+
+ 
+
+4.  Verifying One Monthly Enrollment (3 Screens) 
+
+ Impressions: Before we do anything here, I would like to ask what you think about the screen in front of you. Feel free to scroll around but please do not click the links, yet.  
+
+Potential Probes 
+
+What stands out to you? 
+
+What questions do you have about this page? 
+
+What do you think about the dropdowns? 
+
+What do you think of the phrase enrollment verification? What do you think of the phrase attendance verification instead? 
+
+What do you think of the word payment? What do you think of the word award there instead? 
+
+Scenario: Let’s say that nothing has changed in the last month for your enrollments, and you want to verify your enrollment for October. Can you tell me how you would do that? 
+
+What would you expect to happen after clicking the verify enrollments button? [Have them do it and ask for impressions] 
+
+Probes along the path: 
+
+What do you think about the information displayed on this screen? 
+
+Term dates, total credit hours, school programs 
+
+What would make you want to say no, that your information isn’t correct? 
+
+What do you think of the progress bar? 
+
+What do you expect would happen if you clicked “Finish verifying your enrollment later” 
+
+Do you have any questions about this process? 
+
+Task Succession Metrics 
+
+Completed Immediately; Completed with Hesitation (or Questions); Needed Moderator’s Assistance 
+
+Does the participant understand how to verify for a given month? 
+
+Does the participant understand the purpose of verifying? 
+
+ 5.  Impressions of Verifications Up-To-Date Page (1 Screens) 
+
+Impressions: What do you think about this screen, now? 
+
+Potential Probes 
+
+What stands out to you? 
+
+What questions do you have about this page? 
+
+What has changed since the first time you saw it? 
+
+Did you have any questions about that process? 
+
+ 
+
+ 
+
+NOTE: Have them click the breadcrumb to return to the signed-out start page, then ask them to sign-in through ID.me (Scenario 2 if applicable) 
+
+ 
+
+ 
+
+6.  Verifying Three Months When Payments are Paused (4 Screens) 
+
+ Impressions: What do you think about this screen, now? 
+
+Potential Probes 
+
+What stands out to you? 
+
+What questions do you have about this page? 
+
+What has changed since the first time you saw it? 
+
+Scenario: Let’s say that nothing has changed in the months of August, September, and October to your enrollments BUT you forgot to come to the website the last few months to verify. If you wanted to start getting payments again, can you show me how you would do that? 
+
+Probes along the path: 
+
+What do you think of the application confirmation page? 
+
+Do you have any questions about this process? 
+
+Task Succession Metrics 
+
+Completed Immediately; Completed with Hesitation (or Questions); Needed Moderator’s Assistance 
+
+Does the participant understand how to verify multiple months? 
+
+Does the participant understand how payments are linked to multiple months missing verification? 
+
+Does the participant understand the purpose of verifying? 
+
+ 
+
+ 
+
+NOTE: Have them click the breadcrumb to return to the signed-out start page, then ask them to sign-in through ID.me (Scenario 3 if applicable) 
+
+ 
+
+ 
+
+7.  Noting Your Monthly Enrollment Information is Incorrect (4 Screens) 
+
+ Impressions: What do you think about this screen, now? 
+
+Potential Probes 
+
+What stands out to you? 
+
+What questions do you have about this page? 
+
+What has changed this time? What does that banner mean to you? 
+
+Scenario: Let’s say you DID have a change in your enrollments in the month of August. Can you please show us how you would do that? 
+
+Probes along the path: 
+
+Do you have questions about the alert at the top? 
+
+What do you think about this confirmation page? 
+
+Do you have any questions about this process? 
+
+Task Succession Metrics 
+
+Completed Immediately; Completed with Hesitation (or Questions); Needed Moderator’s Assistance 
+
+Does the participant understand how to mark an enrollment info is incorrect? 
+
+Does the participant understand how payments are linked to saying no? 
+
+ 
+
+ 
+
+8.  Impressions of Paused Payments Until Updated Page (1 Screens) 
+
+Impressions: What do you think about this screen, now? 
+
+Potential Probes 
+
+What stands out to you? 
+
+What questions do you have about this page? 
+
+What has changed since the first time you saw it? 
+
+Did you have any questions about that process? 
+
+ 
+
+## Post-Task Interview - 5 minutes
+
+How would you prefer to verify your monthly enrollments? Online, text, mobile app, email? 
+
+What did you think of the session today? 
+
+What worked well? 
+
+What could we improve on in future sessions? 
+
+Do you have additional questions? 
+
+## Thank-You and Closing - 5 minutes
+
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to develop the site and make sure it works for GI Bill Students. 
+
+Thanks! Lastly, would you be willing to participate in future user feedback sessions and/or do you know any other Veterans, caregivers, or service members who might be willing to participate?  
+
+ 
+
+If Yes: Thank you! I will have our team send you a follow-up email for you to send us their contact information.  
+
+ 
+
+Great, well thank you so much again, and enjoy the rest of your day 
