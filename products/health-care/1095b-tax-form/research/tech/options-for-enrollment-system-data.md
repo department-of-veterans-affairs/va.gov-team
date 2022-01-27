@@ -1,13 +1,12 @@
-# Data Discovery
+# Enrollment System Integration Options
 
-## Goals of this data discovery
-- Learn where we need to pull data from to be able to allow veterans to download the 1095-B tax form
-
+## Purpose
+- Propose various different options for accessing and serving data from the Enrollment System.
 
 ## Context
 To enable veterans to download for the 1095-B form, we need to serve data from vets.gov to an authenticated veteran user. The specific data we need to present comes from the Enrollment System. There is not an existing vets-api endpoint that provides this data [to be confirmed], so we need a way to make that data available to vets.gov via the vets-api.
 
-## Options for Enrollment System Data
+## Overview of Enrollment System Integration Options
 Below are our current potential options for accessing and serving enrollment system data to vets.gov via the vets-API. 
 
 - [Option 1: Live API](#option-1-live-api)
@@ -83,7 +82,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 - **Cons:**
   - Requires flat file quality to be adequate.
-  - **Parsing/fetching data will be slower without a database/API **
+  - **Parsing/fetching data will be slower without a database/API**
 
 - **Key Assumptions:**  
   - Data quality is adequate.
@@ -104,7 +103,7 @@ Below are our current potential options for accessing and serving enrollment sys
   - Infrequently updated data is acceptable from a functionality perspective.
   - Manual S3 upload access is feasible.
 
- - **Key Risks:**
+- **Key Risks:**
   - Relying on an individual to upload file to S3.
 
 
