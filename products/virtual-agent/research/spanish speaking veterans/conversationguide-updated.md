@@ -51,6 +51,15 @@ Let’s start with a few warm-up questions,
 - Where do you live?
 - How is the hispanic community where you live? Can you find a lot of services in Spanish?
 - In which situations do you speak Spanish or English in your everyday life?
+-How would you describe your ability in English?
+___0 – Barely to not at all
+___1 – Know a few common words.
+___2 – Able to carry on a basic conversation about everyday things, but need to
+search for certain words.
+___3 – Able to converse easily about everyday things and don’t need to search for
+words.
+___4 – Proficient at conversing about everyday things and at higher levels such as in
+the work place
 
 - What has your experience with the VA been like?
 - Do you have any beneficiaries, or family members who also receive benefits from the VA?
