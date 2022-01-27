@@ -12,11 +12,11 @@ Below are our current potential options for accessing and serving enrollment sys
 
 - [Option 1: Live API](#option-1-live-api)
 
-- Option 2A: Batch Data Export to DB (S3 -> Database)
+- [Option 2A: Batch Data Export to DB (S3 -> Database)](option-2a-batch-data-export-to-DB-(S3-->-Database))
 
-- Option 2B: Batch Data Export to Flat File (S3 only)
+- [Option 2B: Batch Data Export to Flat File (S3 only)](option-2b-batch-data-export-to-flat-file-(s3-only))
 
-- Option 3: Manual Export to S3
+- [Option 3: Manual Export to S3](option-3-manual-export-to-s3)
 
 
 ### Baseline Risks and Assumptions For All Options
@@ -50,7 +50,7 @@ Below are our current potential options for accessing and serving enrollment sys
   - Poor quality API or poor documentation 
   - Problems with or lack of testing or sandbox environment
 
-### Option 2A: Batch Data Export to DB (S3 -> Database) {#option-2A}
+## Option 2A: Batch Data Export to DB (S3 -> Database)
 - **Description:**
   - A batch job runs within the Enrollment System to put the needed enrollment data into a flat file in AWS S3, then a script inserts that data into a database table (i.e. AWS Aurora PGSQL). The VETS-API controller required can be built on a standard ‘CRUD’ model/controller in Rails.
 
@@ -70,8 +70,7 @@ Below are our current potential options for accessing and serving enrollment sys
   - Might need additional permissions for adding to vets-api repo.
   - Delaying timeline to build out all the moving parts.
 
-### Option 2B: Batch Data Export to Flat File (S3 only) {#option-2B}
-
+## Option 2B: Batch Data Export to Flat File (S3 only)
 - **Description:**
   - Same as 2A but store data in S3 flat file. VETS-API makes use of AWS S3 SQL query capability instead of traditional database.
 
@@ -87,8 +86,7 @@ Below are our current potential options for accessing and serving enrollment sys
 - **Key Assumptions:**  
   - Data quality is adequate.
 
-### Option 3: Manual Export to S3 {#option-3}
-
+## Option 3: Manual Export to S3
 - **Description:**
   - Same as Options 2A/B, but the export from Enrollment System is done as a manual export – i.e. an individual on the VA network uploading a file to S3 via web interface or equivalent.
 
