@@ -5,7 +5,15 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
-- 01/04/22: "I am very pleased with this app. The information is thorough and to the point. Everything pertaining to my service record information is there for me to review at a click. Everything is explained well and the format is very user friendly. I am enjoying going over and over every little detail listed. Very proud to be a Veteran and to have a country that takes pride in our wellbeing. Thanks." (Apple store review)
+- 01/21/22: "Very easy to use all your info is in one place. Highy recommend this app to all Veterans. Work smarter not harder. Why wait for results when you can just log in and see everything immediately. A++++" (Apple store review)
+
+- 01/16/22: "Don't get the other VA apps they are a waste! 4of5 because lacks notification option under settings for disability claims!! Must have app to monitor claims & upload your evidence but easy to miss your window due to lack of notifications & snail mail delays. Also you can revoke & designate new claims reps. Can manage your appointments & clinics but not your medications so do get the VA Rx Refill app. Needs the Rx management & bill pay feature added." (Apple store review)
+
+- 01/12/22: "This app is honestly wonderful, and so far pretty well built. Which, by government standards, is a god tier achievement." (Apple store review)
+
+- 01/11/22: "This app was a great way for the VA to enter the 21st century. This app is far from perfect where it does have its issue and is missing some things. As of right now the app does have great claim tracking. The app also has the letter generator which is very helpful." (Apple store review)
+
+- 01/04/22: "I am very pleased with this app. The information is thorough and to the point. Everything pertaining to my service record information is there for me to review at a click. Everything is explained well and the format is very user friendly. **I am enjoying going over and over every little detail listed.** Very proud to be a Veteran and to have a country that takes pride in our wellbeing. Thanks." (Apple store review)
 
 - 01/04/22: "Outstanding app for VA. Pleasantly surprised that this app is so functional. It has all you need. All the essential letters are available for printing. It is ebenefits in an app form. Outstanding job." (Apple store review)
 
@@ -92,6 +100,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 ## Appointments
 
+- 01/13/22: "The app is very handy and allows me to review my upcoming appointments and keeps me on track." (Apple store review)
+
 - 11/23/21: "I love this app. Is getting better with each update. For not he only issues is the add the calendar the apple app will trash. Also, hopefully Dark Mode will be added sometime soon. Great job to whoever is working on this app." (Apple store review)
 
 - 11/12/21: "This is a great app to access info quickly and manage your appointments." (Apple store review)
@@ -131,6 +141,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 
 ## Disability claim status
+
+- 01/20/22: "I frequently use this app to check the status of disability claims I filed. It's an outstanding way to get an update without waiting on letters in the mail." (Apple store review)
 
 - 12/17/21: "Is it just me or is my compensation claim moving really fast. Anyone else have a claim go through pretty quick? BTW the new VA app is awesome!" [Reddit link](https://www.reddit.com/r/Veterans/comments/rimr75/is_it_just_me_or_is_my_compensation_claim_moving/)
 
