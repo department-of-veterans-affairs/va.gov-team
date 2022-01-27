@@ -35,7 +35,7 @@ As a Veteran, I:
 
 -	The cost of sending the forms decreases
 -	The porportion of Veterans who search for and find the 1095-B form increases
--	The proportion of Veterans who report an error on the form decreases
+-	Timeline to accessing the form, fixing an error, and receiving an updated form is reduced
 
 
 
@@ -52,13 +52,14 @@ As a Veteran, I:
 
 
 ## Go-to-market Strategy
-- TBD
+- Announcements to be made in newsletters, emails, and social media to notify veterans of the form being available online
+- Call center to have updated materials on how to guide veterans to find the form
 
 ## Launch Dates
 - *Target Launch Date* 
   - April 1
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - May 1
 
 ---
    
