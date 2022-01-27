@@ -103,7 +103,7 @@ By clearly phrasing that this selection is used only for this application signat
 
 
 ### Some participants thought it would help them make a selection if the types of documents accepted/ not accepted were listed on the "who will sign" question page. 
-     **a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.**
+     #### a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.
   
 Some participants looked for information about what type of document could be accepted/not accepted while they made the decision of who will sign the application. They seemed relieved that this information is given on the next page, but thought it would be useful to have it both in the introduction and on the "who will sign" page.
 
@@ -133,7 +133,7 @@ The majority of participants, when asked to explain in their own words the "who 
 ### All participants recognized that the "who will sign" question has direct relationship to the signature of the application. 
 
 This is likely to result in more Veteran signatures because participants didn't think that adding supporting documents is a requirement for the program or could otherwise support their application. Many caregivers that have a document (such as medical POA) still like to get the Veteran to sign when possible. We saw a much higher rate of selecting that the Veteran would sign compared to [previous research studies.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-Rep-Round2-Usability-April%202021/research%20findings.md)
-     a. This also resulted in improved clarity once reaching the signature section 
+     **a. This also resulted in improved clarity once reaching the signature section 
 
 - Caregiver: "Normally I am with my husband when filling this out, but I also have medical POA, so I just picked this one." 
 - Caregiver: On signature page: "I would put my name in the box because I have the documents, but if I go back to when I first got into the program, I would have put [Veteran's] name. 
