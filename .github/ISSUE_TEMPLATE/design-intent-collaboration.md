@@ -31,10 +31,6 @@ assignees:
 - [ ] Close this ticket when review is complete and feedback has been addressed. 
 
 
-### Has your product been reviewed by the OCTO-DE Design Lead?
-- [ ] Yes
-- [ ] No
-
 
 ## Artifacts
 
