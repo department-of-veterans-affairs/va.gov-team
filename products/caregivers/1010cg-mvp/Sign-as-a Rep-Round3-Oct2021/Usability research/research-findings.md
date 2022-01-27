@@ -199,10 +199,10 @@ We need to look into how to better prepare the applicant before they start the a
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/conversation-guide.md)
 
 ### Interview transcripts
-[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-notes) 
+- [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/research-notes) 
 
 ### Pages and applications used
-[UXPin prototype](https://app.uxpin.com/edit/8992489#?id_page=146375940)
+- [UXPin prototype](https://app.uxpin.com/edit/8992489#?id_page=146375940)
 
 ### Other supporting documents created
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Usability%20research/usability-research-plan.md)
