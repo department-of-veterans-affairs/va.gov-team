@@ -77,12 +77,16 @@ The research questions we sought to address:
 
 1. All participants moved through the "who will sign" selection without friction, and didn't indicate a likelihood of abandonment. 
 2. Some participants thought it would help them make a selection if the types of documents accepted/ not accepted were listed on the "who will sign" question page. 
+   
    a. Participants were happy to see that the accepted/not accepted documents is included in the following "document upload" page.
+   
 3. Participants that did choose to sign as a representative moved through the document upload page without friction, and didn't indicate a likelihood of abandonment.
 4. The updated copy that appears after the document upload is well-received. Participants didn't indicate any negative feelings, but rather appreciated the reminder.
 5. The majority of participants demonstrated an awareness that the requirement of a "medical" stipulation specifically would be necessary to prove that a representative has legal authority to sign on behalf of the Veteran.
 6. All participants recognized that the "who will sign" question has direct relationship to the signature of the application.
+
   a. This also resulted in improved clarity once reaching the signature section 
+  
 7. Similar to the Mental model and Content-specific comprehension [study findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) some participants think that the proof documentation comes from the VA and would like further instruction on how to obtain this document if they don't have it and need to sign on behalf of the Veteran.
 
 
