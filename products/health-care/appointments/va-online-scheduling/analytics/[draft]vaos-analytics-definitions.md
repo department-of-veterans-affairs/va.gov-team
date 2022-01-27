@@ -90,7 +90,7 @@ vaos-request-current-location-clicked |
 vaos-request-path-started |
 vaos-request-submission | `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care", vaos-community-care-preferred-language: undefined }` | User completed the form and a submission was attempted
 vaos-request-submission-failed | `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission wasn't successful
-vaos-request-submission-successful | { flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission was successful
+vaos-request-submission-successful | `{ flow: "va-request", health-ReasonForAppointment: "routine-follow-up", health-TypeOfCare: "Primary care" }` | Submission was successful
 vaos-schedule-another-appointment-button-clicked |
 vaos-schedule-appointment-button-clicked |
 vaos-schedule-new-appointment-started |
