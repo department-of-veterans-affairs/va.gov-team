@@ -7,7 +7,7 @@
 Form 1095-B reports the months a person had qualifying minimum health coverage to the IRS. The VA sends this form to Veterans to show what months they were covered under the VA healthcare system. In most cases, it is simply a form for one's records. However, some states still have an individual coverage mandate, and in those states, the form is necessary for filing taxes. 
 
 ## Problem Statement
-Currently, form 1095-B is mailed to veterans. Sending it out costs the VA approximately $1.5 million, and an additional $400,000 if they have to re-send it due to an error on the form. What's more, the form isn't available online, so if a Veteran loses the form, they have no easy way to get a replacement. 
+Currently, form 1095-B is mailed to veterans. Sending it out costs the VA approximately $1.5 million, and an additional $400,000 if they have to re-send it due to an error on the form. What's more, the form isn't available online, so if a Veteran loses the form, they have no easy way to get an immediate replacement. 
 * How might we make the digital form easily accessible to Veterans?
 * How might we provide Veterans a clear escalation path if there's an error on the form?
 * How might we let Veterans choose whether to keep receiving a physical form?
@@ -48,7 +48,7 @@ As a Veteran, I:
 
 ## Solution Approach
 
-- We are currently in the data and design discovery phase. We hope to speak with users in February and March, and launch our MVP on April 1
+- We are currently in the data and design discovery phase. We plan to speak with users and test designs with them in February, build and test in March, and launch our MVP April 1.
 
 
 ## Go-to-market Strategy
