@@ -36,7 +36,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View Specially Adapted Housing Grant Status         | vsa-ebenefits | In discovery | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for engagement**
 | Apply for Specially Adapted Housing Grant (4555)    | vsa-ebenefits | In discovery | -- | -- | -- | ~~Requires Discovery, possible new LGY integration required~~ ~~(confirmed to be shelved, per Randy Cope at LGY)~~   **No longer to be shelved, available for engagement**
 | View Dependent Benefits Letter                      | combination   | Check with MR | --        | --        | --        | [Confirm complete?](https://staging.va.gov/records/download-va-letters/)
-| _SEP Features Placeholder_                          | vsa-ebenefits           | Discovery complete        | --        | --        | --        | --
+| _SEP Features Placeholder_                          | vsa-ebenefits           | Discovery complete        | --        | --        | --        | Hold for now
 
 ## Complete: Applications and Features
 
