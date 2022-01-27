@@ -29,10 +29,15 @@
 
 Thank you for joining us today! My name is Cindy. How are you doing today?
 
-Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurate represent your feedback. I'm also joined by my social work colleague, [Name]. If you need support at any time during this call, please feel free to ask [Name].
+Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information.
+
+I'm also joined by my social work colleague, [Name]. If you need support at any time during this call, please feel free to ask me to stop and for [Name] to help answer questions or provide support.
 
 Before we continue, I'd like to tell you a little more about who I am and what we’re doing...
-I'm a user researcher and as a team we work on making improvements to VA's websites and other resources for Veterans. We reach out to Veterans from time to time to get their input to make sure we're on the right track with what we're providing. VA is working to stop harassment and make our locations and services safer for everyone. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, **not** your own experiences.
+
+I'm a user researcher and I work as part of a team that is making improvements to VA's websites and other resources for Veterans. We reach out to Veterans from time to time to get their input to make sure we're on the right track with what we're providing. 
+
+For this feedback session, we're here because VA is working to stop harassment and make our locations and services safer for everyone. As part of these efforts, our team is exploring how to make it easier for Veterans to report harassment at VA. Your input could help us make the resources easier to use by Veterans like you. You'll try them out while thinking about a hypothetical harassment situation, **not** your own experiences.
 
 **Are you comfortable proceeding with this session?**
 
