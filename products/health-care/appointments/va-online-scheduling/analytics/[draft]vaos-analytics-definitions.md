@@ -100,10 +100,10 @@ vaos-view-your-appointments-button-clicked |
 ### Custom Dimensions/Metrics in Google Analytics
 | Dimension/Metric Name | Associated Event | Description |
 | ------------- | ------------- | ------------- |
-Health Care VAOS - Appointment Type |
-Health Care VAOS - Facility Type | 
-Health Care VAOS - Flow | 
-Health Care VAOS - Number of Days from Preference | 
+Health Care VAOS - Appointment Type | `vaos-cancel-appointment-submission`, `vaos-cancel-appointment-submission-successful`, `vaos-cancel-appointment-submission-failed` 
+Health Care VAOS - Facility Type | `vaos-cancel-appointment-submission`, `vaos-cancel-appointment-submission-successful`, `vaos-cancel-appointment-submission-failed` 
+Health Care VAOS - Flow | `vaos-community-care-submission`, `vaos-direct-submission`, `vaos-request-submission`, `vaos-covid19-submission`, `vaos-community-care-submission-successful`, `vaos-direct-submission-successful`, `vaos-request-submission-successful`, `vaos-covid19-submission-successful`, `vaos-community-care-submission-failed`, `vaos-direct-submission-failed`, `vaos-request-submission-failed`, `vaos-covid19-submission-failed` 
+Health Care VAOS - Number of Days from Preference | `vaos-community-care-submission`, `vaos-request-submission`, `vaos-community-care-submission-successful`, `vaos-request-submission-successful`, `vaos-community-care-submission-failed`, `vaos-request-submission-failed` | Numbers of days from date of submission the user is asking for an appointment
 Health Care VAOS - Number of Preferred Providers | 
 Health Care VAOS - Preferred Combination | 
 Health Care VAOS - Preferred Language | 
