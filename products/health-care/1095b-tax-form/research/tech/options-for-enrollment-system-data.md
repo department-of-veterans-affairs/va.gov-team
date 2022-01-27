@@ -12,11 +12,11 @@ Below are our current potential options for accessing and serving enrollment sys
 
 - [Option 1: Live API](#option-1-live-api)
 
-- [Option 2A: Batch Data Export to DB (S3 -> Database)](option-2a-batch-data-export-to-DB-(S3-->-Database))
+- [Option 2A: Batch Data Export to DB (S3 -> Database)](#option-2a-batch-data-export-to-DB-(S3-->-Database))
 
-- [Option 2B: Batch Data Export to Flat File (S3 only)](option-2b-batch-data-export-to-flat-file-(s3-only))
+- [Option 2B: Batch Data Export to Flat File (S3 only)](#option-2b-batch-data-export-to-flat-file-(s3-only))
 
-- [Option 3: Manual Export to S3](option-3-manual-export-to-s3)
+- [Option 3: Manual Export to S3](#option-3-manual-export-to-s3)
 
 
 ### Baseline Risks and Assumptions For All Options
