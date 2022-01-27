@@ -21,25 +21,11 @@ n/a
 
 #### APPOINTMENT LIST CARDS 
 
-
 **Description for Pending appointments**
 ```
 Your appointment requests that haven't been scheduled yet. 
 ```
-#### Display pending appointments 
-```
-{type of care}
-
-{facility/provider name}
-```
-
-#### Display canceled pending appointments 
-**Description for Canceled appointments requests**
-```
-Your appointment requests that were canceled. 
-```
-
-
+#### Display pending appointments appointment cards
 ```
 {type of care}
 
