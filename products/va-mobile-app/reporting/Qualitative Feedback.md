@@ -5,7 +5,12 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+
 - 01/21/22: "Very easy to use all your info is in one place. Highy recommend this app to all Veterans. Work smarter not harder. Why wait for results when you can just log in and see everything immediately. A++++" (Apple store review)
+
+- 01/19/22: "This is a very good app for a veteran to check on various VA information & claim status!!!" (Google play store review)
+
+- 01/19/22: "Finally the VA enters the digital age! A single source app to see my appointments, message VA doctor Compensation CLAIMS status! You can even see what your current disability percentage % and have an immediate letter created for Veteran Disability and Service verification. Update contact information all within several page clicks vs the rabbit hole navigation nightmare from the website. Great job VA! Now please process my 10 year old claims!: (Google play store review)
 
 - 01/16/22: "Don't get the other VA apps they are a waste! 4of5 because lacks notification option under settings for disability claims!! Must have app to monitor claims & upload your evidence but easy to miss your window due to lack of notifications & snail mail delays. Also you can revoke & designate new claims reps. Can manage your appointments & clinics but not your medications so do get the VA Rx Refill app. Needs the Rx management & bill pay feature added." (Apple store review)
 
@@ -20,6 +25,8 @@ Comments and info from various sources (newest comments towards the top of each 
 - 12/30/21: "Super tool for Veterans! In an age where everyone has there phone with them, the new VA app really helps veterans that may not have instant access to a desktop computer." (Apple store review)
 
 - 12/30/21: "This app is better than the online version. Thank y'all for this. Hooyah!!!" (Apple store review)
+
+- 12/29/21: "I love how seamlessly the VA slid into the digital age!!!! My providers are on the ''up and up'' too!! It's very very comforting and reassuring to have them only a mouse click away. Thank you all again for the work that you do!" (Google play store review)
 
 - 12/20/21: "This app saves a LOT of time. MUCH more convenient and quicker than using a laptop. if you enable biometrics it is really FAST. EXCELLENT app!" (Google play store review)
 
@@ -100,6 +107,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 ## Appointments
 
+- 01/19/22: "I can add VA events to my phone's calendar! Oh, joy!" (Google play store review)
+
 - 01/13/22: "The app is very handy and allows me to review my upcoming appointments and keeps me on track." (Apple store review)
 
 - 11/23/21: "I love this app. Is getting better with each update. For not he only issues is the add the calendar the apple app will trash. Also, hopefully Dark Mode will be added sometime soon. Great job to whoever is working on this app." (Apple store review)
@@ -142,6 +151,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 ## Disability claim status
 
+- 01/10/22: "Really needs medicine refill capabilities. Otherwise I love this app. It makes it easy to check my claims multiple times a day." (Google play store review)
+
 - 01/20/22: "I frequently use this app to check the status of disability claims I filed. It's an outstanding way to get an update without waiting on letters in the mail." (Apple store review)
 
 - 12/17/21: "Is it just me or is my compensation claim moving really fast. Anyone else have a claim go through pretty quick? BTW the new VA app is awesome!" [Reddit link](https://www.reddit.com/r/Veterans/comments/rimr75/is_it_just_me_or_is_my_compensation_claim_moving/)
@@ -155,6 +166,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 - 11/11/21: "...The only improvement I would like to see is an ability to reresh the status of a disability claim. For instance it its 4:30 in the afternoon now but it is showing my most recent status from when I checked it at 10pm yesterday. It seems you can only check it once per 24 hours with the app. This is fine most of the time but when they are getting close to publishing a final decision, I'd like to refresh more often. As it stands, this is now pushing me back to the website daily." (Apple store review)
 
 ## Vaccine card
+
+- 01/14/22: "Very nice app! Updated vaccines same day." (Google play store review)
 
 - 11/24/21: "This is awesome. It even shows my vax card." [Reddit link](https://www.reddit.com/r/VeteransBenefits/comments/r1iuib/va_app_i_use_someone_asked/)
 
