@@ -463,42 +463,46 @@ The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 85
 
 ## Onboarding FAQs
 
-> After I install everything, where do I start?
+<details>
+  <summary>After I install everything, where do I start?</summary>
 
-Answer:
+  If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md). I would try to get the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well.
 
-If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md). I would try to get the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well
+  If you are a back-end developer, clone this [API](https://github.com/department-of-veterans-affairs/vets-api) and get things set up without docker. You might also want to try to get the [website](https://github.com/department-of-veterans-affairs/vets-website) set up as well.
+  
+</details>
 
-If you are a back-end developer, clone this [API](https://github.com/department-of-veterans-affairs/vets-api) and get things set up without docker. You might also want to try to get the [website](https://github.com/department-of-veterans-affairs/vets-website) set up as well.
+<details>
+  <summary>I want create a new new pull request, where do I start?</summary>
 
-> I want to add a new \_\_\_\_, where do I start?
+  Checkout out the getting started [site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/). There are two sections on the left, `VA.gov workflow` and `Common tasks`. read through those two sections and try to implement some ideas in a branch.
 
-Checkout out the VA getting start [site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/). There are two sections on the left, `VA.gov workflow` and `Common tasks`. read through those two sections and try to implement some ideas in a branch.
+</details>
 
-> Where do I go with my initial technical questions about the site?
+<details>
+  <summary>Where do I go with my initial technical questions about the site?</summary>
 
-First, go to your onboarding buddies, then [slack channels](#slack) that seem appropriate. Ask questions, this the time to really see what is going on.
+  First, go to your onboarding buddies, then post your question to one of the appropriate [slack channels](#slack).
 
-> Do we have a style guide?
+</details>
 
-We use prettier and eslint to enforce the Airbnb style guide. We have customized it a little, but usually you editor should be configured to automatically apply those stylings.
+<details>
+  <summary>What does the development process look like from start to finish?</summary>
 
-> What does the development process look like from start to finish?
+  Refer to the [Frontend Workflow](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-workflow.1846083611.html) and the [VA.gov Continuous Integration Process](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA.gov-Continuous-Integration-Process.1887600641.html).
 
-Read this [guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/overview)
+</details>
 
-> In the website, where is a good place to start understanding the structure of the app?
+<details>
+  <summary>Where can find mock data?</summary>
 
-For a good start, look at he `src/applications/vaos` and the `src/applications/search` directories. But overall the app is pretty solidly done.
+  Refer to the [mock data for the API](https://github.com/department-of-veterans-affairs/vets-api-mockdata) and [staging test accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3a1b22e261185ef42f3f7f849024b759bcfa9dad/Administrative/vagov-users/staging-test-accounts.md) documentation.
 
-> Where can find mock data?
+</details>
 
-There are two repositories. There is there the [mock data for the API](https://github.com/department-of-veterans-affairs/vets-api-mockdata) and then there is the [fake log in information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3a1b22e261185ef42f3f7f849024b759bcfa9dad/Administrative/vagov-users/staging-test-accounts.md)
+<details>
+  <summary>Do we have a style guide?</summary>
 
-> What is the mission of this project?
+  We use prettier and eslint to enforce the Airbnb style guide. We have customized it a little, but your editor should be configured to automatically apply those stylings.
 
-Check out this repo and read through it: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content. This really defines the voice and mission of the project and how we as tech team are trying to approach it.
-
-> I found something in this guide that was wrong/missing/could use improvement?
-
-Awesome! Add it and send a pull request 🤓!
+</details>
