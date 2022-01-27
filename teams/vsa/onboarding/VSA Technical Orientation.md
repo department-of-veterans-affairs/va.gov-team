@@ -1,6 +1,6 @@
 # VSA Technical Orientation
 
-This document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. There is a lot of decent documentation available; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
+This document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/index.html) provides a lot of useful information and best practices; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
 
 ## Table of Contents
 
@@ -23,8 +23,8 @@ This document is meant to serve as a technical outline for VSA developers, but o
   - [GitHub Links](#github-links)
   - [Development System](#development-system)
     - [Software List](#software-list)
-    - [(optional) VS Code Extensions](#optional-vs-code-extensions)
-      - [Local Build Instructions](#local-build-instructions)
+    - [VS Code Extensions (optional)](#optional-vs-code-extensions)
+    - [Local Build Instructions](#local-build-instructions)
   - [Internal Sites (SOCKS access)](#internal-sites-socks-access)
     - [Tips](#tips)
   - [Citrix Access Gateway (CAG)](#citrix-access-gateway-cag)
@@ -41,7 +41,6 @@ We are actively working on https://va.gov, the user-centered, public-facing webs
 - VSA: [Veteran-facing Services Applications (VSA)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa#veteran-facing-services-applications-vsa); our team (applications).
 - VSP: [Veteran-facing Services Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/README.md#veteran-facing-services-platform-vsp); the platform team, which includes framework and DevOps.
 - VFS: Veteran Facing Services (consumers of VSP, including VSA).
-- VA Performance Dashboard: https://www.va.gov/performance-dashboard
 ### Overview
 
 Important public announcements and published articles, in reverse-chronological order (vets.gov now redirects to va.gov):
@@ -178,11 +177,11 @@ https://outlook.office.com/calendar
 
 ## GitHub Repositories
 
-- **GitHub: VA<span/>.gov | Public Repo | VETS-WEBSITE** \
+- **GitHub: VA<span/>.gov | Public Repo | vets-website** \
   https://github.com/department-of-veterans-affairs/vets-website \
   Frontend Source Code: React.js, HTML
 
-- **GitHub: VA<span/>.gov | Public Repo | VETS-API** \
+- **GitHub: VA<span/>.gov | Public Repo | vets-api** \
   https://github.com/department-of-veterans-affairs/vets-api \
   Backend Source Code: Ruby/Rails (mostly REST APIs)
 
@@ -217,7 +216,7 @@ https://outlook.office.com/calendar
 
 - **GitHub: VA<span/>.gov | Client App Doc | Set up Locally** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started \
-  Start here to learn how to set up your local VETS-WEBSITE and VETS-API development environments.
+  Start here to learn how to set up your local vets-website and vets-api development environments.
 
 - **GitHub: VA<span/>.gov | Client App Doc | Run Locally** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/run-build \
@@ -358,7 +357,7 @@ In order to dogfood VSP's install instructions, VSA developers are expected to h
 | Chrome&nbsp;Extension: _axe-coconut_             | [axe-coconut&nbsp;-&nbsp;Web&nbsp;Accessibility Testing](https://chrome.google.com/webstore/detail/axe-coconut-web-accessibi/iobddmbdndbbbfjopjdgadphaoihpojp) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): _required for new development_. Catch WCAG 2.1 accessibility issues during development _before_ they are flagged by the build.                                                       |
 | Chrome&nbsp;Extension: _Lighthouse_              | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)                                                            | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): _recommended_. Audits for web performance, accessibility, progressive web apps, SEO and more.                                                                                        |
 
-### (optional) VS Code Extensions
+### VS Code Extensions (optional)
 
 Every developer likes to have their environment set up a certain way, but these extensions will help with the development process.
 
@@ -503,6 +502,13 @@ The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 85
 <details>
   <summary>Do we have a style guide?</summary>
 
-  We use prettier and eslint to enforce the Airbnb style guide. We have customized it a little, but your editor should be configured to automatically apply those stylings.
+  We use prettier and eslint to enforce the Airbnb style guide. Your editor should be configured to automatically apply the correct stylings.
+
+</details>
+
+<details>
+  <summary>I found something in this guide that was wrong/missing/could use improvement?</summary>
+
+  Awesome! Add it and send a pull request 🤓!
 
 </details>
