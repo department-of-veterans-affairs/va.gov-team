@@ -27,9 +27,7 @@ Below are our current potential options for accessing and serving enrollment sys
 - **Risks:**
   - Poor data quality will result in slowdown due to needing extra data validation/cleanup process.
 
-## Option 1 Live API
-
-### Live API
+## Option 1: Live API
 
 - **Description:**
   - Vets-API gets enrollment data via live API calls to the Enrollment System.
