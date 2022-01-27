@@ -163,7 +163,7 @@ We need to look into how to better prepare the applicant before they start the a
      -  What document proves authority to make medical decisions for the Veteran and sign as a representative 
 
 ### Other mentions
-- ARequest for an additional section to upload records, including Caregiver daily tasks and ADL record
+- Request for an additional section to upload records, including Caregiver daily tasks and ADL record
 - Inclusivity of language for Veteran/Caregiver's sex
 - Inclusivity of language for significant other (suggested "partner")
 - Two participants mentioned that they preferred to fill out applications at the VA library, and it would be helpful if the Caregiver program provided resources to the librarians similar to how the health care application has. 
