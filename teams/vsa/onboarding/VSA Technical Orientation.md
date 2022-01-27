@@ -113,10 +113,15 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
 
 Slack is preferred over emails; however, you will get meeting requests via email that you’ll need to accept and add to your calendar, so you should still check your company email a few times a day. You are also required to check your VA email weekly via Citrix Access Gateway (CAG) to keep it active (daily if your job requires it). You are expected to have Slack running and constantly monitored during working hours. Use the installed (desktop) version of Slack on your development system rather than just running Slack from your browser (you may have limits on features such as video, sharing, and notifications if you don't).
 
+If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
+
 - Federal DSVA Workspace URL: https://dsva.slack.com
 - Guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/vsa-slack-guidance.md
-- DSVA Channels:
+- **Bots**: Type: **_/wtf_** on any DSVA slack channel to look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
+- **Apps**: Allow the "Outlook Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
+- **Status**: In addition to setting your vacation time in the SharePoint Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.
 
+DSVA Channels:
 | Channel                    | Description                                 |
 | :------------------------- | :------------------------------------------ |
 | [#general](https://dsva.slack.com/channels/general)                         | This channel is for team-wide communication and announcements. All team members are in this channel. |
@@ -145,13 +150,6 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#va-search](https://dsva.slack.com/channels/va-search) | Team: Search and Discovery |
 | [#vsa-content-localization](https://dsva.slack.com/channels/vsa-content-localization) | Team: Translation |
 | [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools) | Team: Decision Tools |
-
-
-- If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
-- **Bots**: Type: **_/wtf_** on any DSVA slack channel to look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
-- **Apps**: Allow the "Outlook Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
-- **Status**: In addition to setting your vacation time in the SharePoint Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.
-
 ## Zoom Meetings
 Note: The Zoom Basic plan has a 40-minute time limit on meetings with 3 or more participants.
 - [https://zoom.us/](https://zoom.us/)
