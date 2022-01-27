@@ -64,7 +64,18 @@ Our focus will be to incrememntally address bugs and UX updates. Next we will fo
 ### Expected Work
 Based on our research:
 
-
+     -	We need test users
+     -	Bug fix
+       - PIF errors?
+       - Exactly what claims are missing? What is the Veteran expecting to see?
+       - Communicate to Contact Center - include what claim are missing? When was is submitted? Differentiate between claims & appeals (develop template for them)
+    -	UX enhancement (on hold)
+      - First: ensure that errors are addressed and that systems are communicating properly
+    - Process updates 
+      - Technical discovery determine if we can provide more detail about next steps so that we don't show the same status for months on end
+      - Can we provide time estimates?
+    - How do we advertise the Claim Status Tool?
+    - Migration to Lighthouse
 
 ## OKRs and KPIs
 Note: An attempt was made to tranfer the Google Doc table to a markdown table.  However, you cannot have different columns density and it looked very bad in markdown.  Image with link seems to work better.
