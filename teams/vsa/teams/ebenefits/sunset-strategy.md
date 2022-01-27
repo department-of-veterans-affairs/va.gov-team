@@ -14,7 +14,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | **(COMPELETE 07072020)**        | Messaging with link to VA.gov; redirect install on Jan 20, 2022        | --        | --        | --
 | Submit BDD Claim (526ez)                            | vsa-bam-1     | **(COMPELETE 15112020)**        | --        | --        | --        | --
-| View Rated Disabilities                             | vsa-ebenefits | **(COMPELETE 05022020)**; redev to BGS FY2021        | Ready for redirect        | --        | --        | Requested with MR
+| View Rated Disabilities                             | vsa-ebenefits | **(COMPELETE 05022020)**; redev to BGS FY2022        | Redirected        | --        | --        | Requested with MR
 | BGS Platform Integration                            | vsa-ebenefits | **(COMPELETE)**        | N/A        | --        | --  | --
 | View Dependents on Award                            | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | --        | --  | --
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | **(COMPELETE)**        | Redirected on Nov 3, 2021        | --        | --  | (EBN using 2014 686c), BGS integration
