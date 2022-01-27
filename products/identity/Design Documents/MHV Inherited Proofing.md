@@ -5,7 +5,7 @@ The solution will enable veterans who have already completed the MHV in person v
 
 ## Decisions
  1. A person should not be able to assume the verified identity of a person simply by clicking on a link in an email.
-   a. This will be accomplished by login.gov ensuring there is a valid login.gov session after the user clicks on the email link. If the user does not ahve a valid sesion (by checking the cookies in the browser), they will be redirected back to va.gov to create/validate the current MHV session, then back to login.gov where the user will then be asked to login with their login.gov account. Once these two actions are completed successfully then the user can proceed with the inherited proofing process.
+    - This will be accomplished by login.gov ensuring there is a valid login.gov session after the user clicks on the email link. If the user does not ahve a valid sesion (by checking the cookies in the browser), they will be redirected back to va.gov to create/validate the current MHV session, then back to login.gov where the user will then be asked to login with their login.gov account. Once these two actions are completed successfully then the user can proceed with the inherited proofing process.
 
 
 
