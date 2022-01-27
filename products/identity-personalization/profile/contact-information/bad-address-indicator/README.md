@@ -81,6 +81,8 @@ Note: We will not have access to metrics on returned mail.
 
 ### Key dates
 
+- January 2022: PM/PO working on discovery for this project. 
+
 ## Design
 
 ### Before
