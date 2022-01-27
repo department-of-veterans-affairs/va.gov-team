@@ -1,6 +1,6 @@
 # VSA Technical Orientation
 
-The purpose of this document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. The [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/index.html) and the [DEPO Platform Documentation](https://vfs.atlassian.net/wiki/spaces/VP/overview) both provide a lot of useful information and best practices; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
+The purpose of this document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. The [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/index.html) and the [DEPO Platform Documentation](https://department-of-veterans-affairs.github.io/va.gov-team) both provide a lot of useful information and best practices; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
 
 ## Table of Contents
 
@@ -506,6 +506,6 @@ The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 85
   We use prettier and eslint to enforce the Airbnb style guide. Your editor should be configured to automatically apply the correct stylings.
 </details>
 
-&nbsp;
+---
 
 If you've found something in this guide that was wrong, missing or could use an improvement? Add it and send a pull request! 🤓
