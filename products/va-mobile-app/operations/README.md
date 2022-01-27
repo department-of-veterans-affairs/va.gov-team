@@ -51,7 +51,7 @@ The mobile app and backend takes advantage of a suite of tools for monitoring an
 Tool | Access | Purpose
 :-- | :-- | :--
 [Grafana](http://grafana.vfs.va.gov/d/cYh4m3UMz/mobile-api?orgId=1) | SOCKS | Operational and business metrics
-DataDog | SOCKS | Monitoring and Alerting
+[DataDog](https://app.datadoghq.com/dashboard/9nz-cn7-ws6/mobile-api-dashboard?from_ts=1640615800322&to_ts=1643294200322&live=true) | SaaS account | Monitoring and Alerting
 [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/) | SOCKS | Backend application exceptions and events
 [Firebase Analytics and Crashlytics](https://console.firebase.google.com/project/va-mobile/overview) | SaaS account | Frontend application exceptions and events, analytics
 [AWS Logs](https://console.amazonaws-us-gov.com/cloudwatch/home?region=us-gov-west-1#logsV2:log-groups/log-group/dsva-vagov-staging$252Fsrv$252Fvets-api$252Fsrc$252Flog$252Fvets-api-server.log) | AWS | Logs
