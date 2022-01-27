@@ -1,6 +1,6 @@
 # VSA Technical Orientation
 
-This document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/index.html) provides a lot of useful information and best practices; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
+The purpose of this document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. The [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/index.html) and the [DEPO Platform Documentation](https://vfs.atlassian.net/wiki/spaces/VP/overview) both provide a lot of useful information and best practices; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This document is meant to serve as a technical outline for VSA developers, but o
   - [GitHub Links](#github-links)
   - [Development System](#development-system)
     - [Software List](#software-list)
-    - [VS Code Extensions (optional)](#optional-vs-code-extensions)
+    - [VS Code Extensions (optional)](#vs-code-extensions-optional)
     - [Local Build Instructions](#local-build-instructions)
   - [Internal Sites (SOCKS access)](#internal-sites-socks-access)
     - [Tips](#tips)
