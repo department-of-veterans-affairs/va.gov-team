@@ -87,7 +87,7 @@ The research questions we sought to address:
 
      a. This also resulted in improved clarity once reaching the signature section 
   
-7. Similar to the Mental model and Content-specific comprehension [study findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) some participants think that the proof documentation comes from the VA and would like further instruction on how to obtain this document if they don't have it and need to sign on behalf of the Veteran.
+7. Similar to the [Mental model and Content-specific comprehension study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/Research%20findings.md) findings some participants think that the proof documentation comes from the VA and would like further instruction on how to obtain this document if they don't have it and need to sign on behalf of the Veteran.
 
 
 
