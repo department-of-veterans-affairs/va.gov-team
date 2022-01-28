@@ -19,7 +19,7 @@ End-to-end (e2e) testing on VA.gov specifically means automated browser testing.
 
 ### VSP basic documentation
 
-If you're brand-new to E2E testing, be sure to read [VSP's basic End-to-end testing docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/testing/end-to-end).  This VSA-specific documentation here _supplements_ that information.
+If you're brand-new to E2E testing, be sure to read [VSP's basic End-to-end testing docs][vsp-e2e-docs].  This VSA-specific documentation here _supplements_ that information.
 
 ### Regression testing
 
@@ -47,4 +47,11 @@ Much of the help offered here is intended to improve e2e test-coverage, and to t
   
 ## See also
 
-[Cypress-TestRail integration](testrail/vsa-qa-cypress-testrail.md)
+- [Cypress-TestRail integration][cy-tr-integration]
+- [Cypress Flaky Tests][cy-flaky-tests]
+
+[vsp-e2e-docs]: https://depo-platform-documentation.scrollhelp.site/developer-docs/End-to-end-testing.1738965071.html
+[cy-tr-integration]: testrail/vsa-qa-cypress-testrail.md
+[cy-flaky-tests]: vsa-qa-cy-flaky-tests.md
+
+
