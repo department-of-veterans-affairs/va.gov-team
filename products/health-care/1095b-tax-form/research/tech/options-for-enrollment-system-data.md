@@ -22,7 +22,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 ### Baseline Risks and Assumptions For All Options
 - **Assumptions**:
-  - Vets.gov React-based frontend apps will get data from vets-api via modern REST API endpoints.
+  - Vets.gov React-based frontend apps will get data from vets-api via modern [REST API](https://www.freelancinggig.com/blog/2018/11/02/what-is-the-difference-between-api-and-rest-api/) endpoints.
   - The app will be able to know the authentication status as well as core veteran profile information for the authenticated user.
 
 - **Risks:**
@@ -31,7 +31,7 @@ Below are our current potential options for accessing and serving enrollment sys
 ## Option 1: Live API
 
 - **Description:**
-  - Vets-API gets enrollment data via live API calls to the Enrollment System.
+  - Vets-API gets enrollment data via [live API calls](https://blog.axway.com/amplify-products/api-management/whats-api-call) to the Enrollment System.
 
 - **Pros:**
   - Data is current.
@@ -58,7 +58,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 ## Option 2A: Batch Data Export to DB
 - **Description:**
-  - A batch job runs within the Enrollment System to put the needed enrollment data into a flat file in AWS S3, then a script inserts that data into a database table (i.e. AWS Aurora PGSQL). The VETS-API controller required can be built on a standard ‘CRUD’ model/controller in Rails.
+  - A [batch job](https://www.techopedia.com/definition/28727/batch-job-sap) runs within the Enrollment System to put the needed enrollment data into a flat file in AWS S3, then a script inserts that data into a database table (i.e. [AWS Aurora PGSQL](https://aws.amazon.com/rds/aurora/?aurora-whats-new.sort-by=item.additionalFields.postDateTime&aurora-whats-new.sort-order=desc)). The VETS-API controller required can be built on a standard ‘CRUD’ model/controller in Rails.
   - S3 -> Database
 
 - **Pros:**
@@ -84,7 +84,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 ## Option 2B: Batch Data Export to Flat File
 - **Description:**
-  - Same as 2A but store data in S3 flat file. VETS-API makes use of AWS S3 SQL query capability instead of traditional database.
+  - Same as 2A but store data in S3 flat file. VETS-API makes use of [AWS S3 SQL](https://towardsdatascience.com/ditch-the-database-20a5a0a1fb72) query capability instead of traditional database.
   - S3 only
 
 - **Pros:**
