@@ -153,7 +153,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 
 ## Next Steps
-- Conduct research on VA's internal PDF generation process
+- Conduct research on VA's internal PDF generation process (link to research below) 
   -  [Breakdown of the current VA PDF generation process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/va-pdf-generation-process.md)
 - Conduct analogous research into possible PDF software solutions or services
 - Find out what the print vendor uses for PDF functionality and identify overlap
