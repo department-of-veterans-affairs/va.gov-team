@@ -4,13 +4,31 @@ Welcome to the Identity folder. This directory contains information about user i
 **New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
 
 
-## What we're doing
-- Login.gov roll out (currently on hold)
-- Sign-in Service
-- Inherited Proofing (migrating MyHealtheVet users to Login.gov)
-- Researching methods for in-person and online identity proofing
-- Alerting Improvements
-- Being Awesome
+## What we're doing:
+
+### Current Team Objectives
+
+**Login.gov Rollout**   
+_Current Status:_ On hold pending work by our partners  
+We are working to roll out Login.gov as an option for users within the VA.gov space.  This will allow Veterans and other users to utilize a modern, secure credential that is maintained by the US Government, and can be utilized throughout government services such as the SSA, IRS, and many others.  
+
+**Sign-in Service**  
+_Current Status:_ Actively working on this  
+We are planning to provide a sign-in service that can be utilized by non-SSO partners within the VA.gov space (such as the VA Mobile Application).  This will allow us to provide security and convenience to users of these services.
+
+**Inherited Proofing**  
+_Current Status:_ Preliminary Research and Design Work  
+We are working to provide a framework for users to migrate from legacy Credential Service Providers such as MyHealtheVet to more modern providers such as Login.gov.  This includes tools to help users select a new CSP that meets their needs, as well as validating that users are eligible to migrate to these CSPs.  The goal of this work is to provide users a more uniform, secure experience across government services.
+
+**In-Person and Online Identity Proofing**  
+_Current Status:_ Planning  
+We hope to provide guidance to users who need to perform Identity Proofing, either Online or In-Person, so that they are able to better utilize VA.gov services.
+
+**Alerting Improvements**  
+_Current Status:_ Actively working on this  
+We are working to streamline our alerting and monitoring systems to reduce alert noise and improve accuracy, allowing us to more accurately and efficiently track and resolve issues.
+
+
 
 ---
 
