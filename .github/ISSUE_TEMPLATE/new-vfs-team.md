@@ -1,7 +1,7 @@
 ---
 name: New VFS Team
 about: For orienting new VFS teams/members to Platform policies/practices
-title: Platform Orientation Template [Your name here]
+title: New VFS Team template [Insert team name here]
 labels: 'governance-team'
 assignees: ''
 
@@ -20,9 +20,8 @@ As the leader of a new VFS team, I need to share basic info about my team with o
 2. Have each of your team members assign themselves the 
 [Platform Orientation Template](https://vfs.atlassian.net/wiki/spaces/GS/pages/1877344532/Platform+Orientation) 
 3. Confirm that they have completed all items on the Orientation Template
-4. Review information about your team's products on the [VA.go Products page](https://vfs.atlassian.net/wiki/spaces/VAProducts/overview) and update if needed
-5. Schedule ATO [Authorization to Operate](https://docs.google.com/presentation/d/1Q4uUGiTpc5ozU9_DdNhQAoJMFYKaGiOV/edit#slide=id.p4) 
-orientation with Faith Owusu-Sekyere.
+4. Review information about your team's products on the [VA.gov Products page](https://vfs.atlassian.net/wiki/spaces/VAProducts/overview) and update if needed
+5. Schedule ATO (Authorization to Operate)orientation with Faith Owusu-Sekyere.
 
 
 
