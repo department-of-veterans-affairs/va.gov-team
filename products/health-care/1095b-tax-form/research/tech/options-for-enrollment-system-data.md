@@ -39,7 +39,7 @@ Below are our current potential options for accessing and serving enrollment sys
   - Could be brittle. Availability/connectivity to the Enrollment System will determine availability of the feature.
 
 - **Key Assumptions:**
-  - There is a reasonable process to gain API access to the Enrollment System.
+  - There is a **reasonable process to gain API access** to the Enrollment System.
   - There is a reasonable sandbox/testing environment.
   - **Access can be granted in the timeframe required.**
   - **We can quickly get access to the technical POCs to confirm the above.**
