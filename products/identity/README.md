@@ -6,9 +6,9 @@ Welcome to the Identity folder. This directory contains information about user i
 
 ## What we're doing
 - Login.gov roll out (currently on hold)
-- OAuth Research
-- Researching migrating MHV users to Login.gov
-- Accessibility Research
+- Sign-in Service
+- Inherited Proofing (migrating MyHealtheVet users to Login.gov)
+- Researching methods for in-person and online identity proofing
 - Alerting Improvements
 - Being Awesome
 
