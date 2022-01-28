@@ -6,7 +6,7 @@
 
 We are integrating preferred name, pronouns, gender identity, and sexual orientation into the VA.gov profile as part of a request from VEO and the LGBTQ Health Services office. This effort will allow veterans to more accurately define themselves within the VA, and it will help mitigate issues around veterans showing up to health appointments and being addressed improperly.
 
-**Targeted launch**: End of Q1 2022
+**Targeted launch**: End of Q1 2022 (more likely will be early Q2 2022 due to VA Profile now supporting the backend)
 
 ### Bad address indicator
 
@@ -32,7 +32,7 @@ Currently, we have a read-only "Gender" field in the profile, which is more accu
 
 The fax number field is barely used, and is not a meaningful source of communication with the VA. The VA Profile team is finally ready to retire this field on the backend, which means we can retire it on the frontend. We'll work with them in the coming weeks to get this done.
 
-**Targeted launch**: Q1 2022 if VA Profile is ready to move quickly; Q2 2022 if it takes time to coordinat this effort
+**Targeted launch**: Q1 2022 
 
 ### Allow people to update their mailing address when they save their home address
 
@@ -44,5 +44,5 @@ Some people do not realize that they also need to change their mailing address i
 
 These are things we intend to do, but depend on other teams to have functionality ready for us or to be ready to collaborate with us.
 
-- **Research effort**: research how to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
-- **Notification preference**s: Default opt-in indicator. This will allow us to show that someone receives a certain notification in the VA.gov profile because they have been opted into it by default by the business line even if they have never come to the profile and explicitly opted in themselves. Timeline on this is TBD, as we are waiting on VA Profile to be finished with this.
+- **Research effort**: How to reconcile MHV and VA.gov profiles for eventual move of MHV into VA.gov
+- **Notification preference**s: Default send indicator. This will allow us to show that someone receives a certain notification in the VA.gov profile because they have been opted into it by default by the business line even if they have never come to the profile and explicitly opted in themselves. VA Profile says this will be in their production environment in mid-March, so closer to that timeframe, we can start talking about how this might affect the current notification preference experience.
