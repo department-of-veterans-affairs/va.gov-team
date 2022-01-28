@@ -70,6 +70,11 @@ Below are our current potential options for accessing and serving enrollment sys
   - Might need additional permissions for adding to vets-api repo.
   - Delaying timeline to build out all the moving parts.
 
+- **Open Questions:**
+  - Is S3 a viable option? 
+     - If yes, are there security risks associated with using S3?
+     - Does the VA have any reservations or restrictions regarding using S3?
+
 ## Option 2B: Batch Data Export to Flat File
 - **Description:**
   - Same as 2A but store data in S3 flat file. VETS-API makes use of AWS S3 SQL query capability instead of traditional database.
@@ -86,6 +91,11 @@ Below are our current potential options for accessing and serving enrollment sys
 
 - **Key Assumptions:**  
   - Data quality is adequate.
+
+- **Open Questions:**
+  - Is using a flat file in S3 a viable option? 
+     - If yes, what are the security risks associated with this option?
+     - Does the VA have any reservations or restrictions regarding using flat files in S3?
 
 ## Option 3: Manual Export to S3
 - **Description:**
