@@ -91,7 +91,7 @@ body:
     id: expiration-date
     attributes:
       label: Access Expiration
-      description: The requested access will be revoked at the start of this date.
-      placeholder: Enter a date and/or time
+      description: The requested access will be revoked at the start of this date. Enter a date (and time if applicable) or 'ongoing' for non-expiring access.
+      placeholder: timestamp
     validations:
-      required: false
+      required: true
