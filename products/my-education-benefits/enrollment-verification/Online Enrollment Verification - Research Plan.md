@@ -65,43 +65,42 @@ Age: Diverse distribution preferred
 
 Accessibility Preferences:  Must have access to a computer or mobile phone to use the testing platform. Participant should indicate their preference before scheduling.  
 
-Note: VA has identified underrepresented demographic populations that should be prioritized for user engagement and feedback sessions.  We want to be sure to include the following Veteran groups below: 
+**Note:** VA has identified underrepresented demographic populations that should be prioritized for user engagement and feedback sessions.  We want to be sure to include the following Veteran groups below: 
 
-Live in rural or abroad 
+- Live in rural or abroad 
 
-Identify as Latinx, Biracial, Asian, Native, or LGBTQ+ 
+- Identify as Latinx, Biracial, Asian, Native, or LGBTQ+ 
 
-Geographical Diversity: Diverse distribution preferred 
+- Geographical Diversity: Diverse distribution preferred 
+- 
+- Login Requirements: Access Zoom (as a guest)  
 
-Login Requirements: Access Zoom (as a guest)  
+- VA Benefit Requirements: GI Bill Students Actively using their GI Bill Benefits 
 
-VA Benefit Requirements: GI Bill Students Actively using their GI Bill Benefits 
+- Familiarity with Technology: Diverse distribution preferred 
 
-Familiarity with Technology: Diverse distribution preferred 
+**Primary criteria / Must have –** 
 
- 
+- Participant must have access to a computer or mobile phone to use the testing platform 
 
-Primary criteria / Must have – 
+- Participant be actively using their GI Bill Benefits. An ideal spread would be: 60% Post-9/11 GI Bill Students, 40% Other education benefits (e.g. MGIB-SR) 
 
-Participant must have access to a computer or mobile phone to use the testing platform 
-
-Participant be actively using their GI Bill Benefits. An ideal spread would be: 60% Post-9/11 GI Bill Students, 40% Other education benefits (e.g. MGIB-SR) 
-
-Secondary criteria / Would like to have –  
+**Secondary criteria / Would like to have –**  
 
 Diverse Samples in the following characteristics: 
 
-Location of the participant and basic demographic qualifiers screening, including: age, race, sex, state of residence (country if outside the US); what GI Bill benefit they are using  
+- Location of the participant and basic demographic qualifiers screening, including: age, race, sex, state of residence (country if outside the US); 
+- what GI Bill benefit they are using  
 
-With respect to your GI Bill education, what degree are you working toward? (1. Associate Degree 2. Undergraduate Degree 3. Graduate Degree 3. Non-College Degree Program 4. Other. 5.None).  
+**Screener:**
 
-How many hours do you spend on a computer/week? (None, 1-5 hours, 5-10 hours, 10-20 hours, more than 20 hours/week).  
+- With respect to your GI Bill education, what degree are you working toward? (1. Associate Degree 2. Undergraduate Degree 3. Graduate Degree 3. Non-College Degree Program 4. Other. 5.None).  
 
-How would you describe your familiarity with technology? (very poor, poor, neutral, good, very good).  
+- How many hours do you spend on a computer/week? (None, 1-5 hours, 5-10 hours, 10-20 hours, more than 20 hours/week).  
+
+- How would you describe your familiarity with technology? (very poor, poor, neutral, good, very good).  
 
  
- 
-
 What is your recruitment strategy? 
 
 Recruitment will be conducted remotely from Perigean: 
@@ -109,7 +108,6 @@ Recruitment will be conducted remotely from Perigean:
  If approved for this research request, we would like assistance from Perigean to recruit additional students that fall under our primary participant criterion characteristics. We have conducted UT before- so we can work with them so that we don't double-dip with participant recruitment. 
 
  
-
 When? 
 
 We plan to begin usability testing in late February - March, 2022. We are open to hosting usability testing sessions from 9am – 7pm (Est.). We will have the complete prototype built and finalized a week prior to data collection. Each UT session will span 45 – 60 minutes. Exact dates and times for testing sessions are flexible and we will coordinate with Perigean once the research request is approved. Reaching our maximum goal of 10  participants will determine if we need to extend the data collection time window. There will be multiple pilot runs of our usability testing. We encourage VA collaboration teams to attend any of our pilot testing sessions. 
