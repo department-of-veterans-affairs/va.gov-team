@@ -1,6 +1,6 @@
 # VSA Technical Orientation
 
-Technical orientation from the VSA Technical Lead ([pshort@governmentcio.com](mailto:pshort@governmentcio.com)/[paul.short@va.gov](mailto:paul.short@va.gov)) as of 05/05/2020. Primary audience are VSA front end and back end developers, but other VSA team members may find some of the links here useful. There is a lot of decent documentation available; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for a new developer.
+The purpose of this document is meant to serve as a technical outline for VSA developers, but other VSA team members may find the links here useful. The [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/index.html) and the [DEPO Platform Documentation](https://department-of-veterans-affairs.github.io/va.gov-team) both provide a lot of useful information and best practices; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for onboarding new developers.
 
 ## Table of Contents
 
@@ -16,15 +16,15 @@ Technical orientation from the VSA Technical Lead ([pshort@governmentcio.com](ma
     - [Backend](#backend)
   - [Slack](#slack)
   - [Zoom Meetings](#zoom-meetings)
-  - [Google Drive: VSA Team](#google-drive-vsa-team)
-  - [Google Calendar (Shared): PTO](#google-calendar-shared-pto)
-  - [Google Calendar: Work Account](#google-calendar-work-account)
+  - [SharePoint: VSA Team](#sharepoint-vsa-team)
+  - [SharePoint Calendar: PTO](#sharepoint-calendar-pto)
+  - [Outlook Calendar: Work Account](#outlook-calendar-work-account)
   - [GitHub Repositories](#github-repositories)
   - [GitHub Links](#github-links)
   - [Development System](#development-system)
     - [Software List](#software-list)
-    - [(optional) VS Code Extensions](#optional-vs-code-extensions)
-      - [Local Build Instructions](#local-build-instructions)
+    - [VS Code Extensions (optional)](#vs-code-extensions-optional)
+    - [Local Build Instructions](#local-build-instructions)
   - [Internal Sites (SOCKS access)](#internal-sites-socks-access)
     - [Tips](#tips)
   - [Citrix Access Gateway (CAG)](#citrix-access-gateway-cag)
@@ -41,10 +41,9 @@ We are actively working on https://va.gov, the user-centered, public-facing webs
 - VSA: [Veteran-facing Services Applications (VSA)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa#veteran-facing-services-applications-vsa); our team (applications).
 - VSP: [Veteran-facing Services Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/README.md#veteran-facing-services-platform-vsp); the platform team, which includes framework and DevOps.
 - VFS: Veteran Facing Services (consumers of VSP, including VSA).
-
 ### Overview
 
-- Important public announcements and published articles, in reverse-chronological order (vets.gov now redirects to va.gov):
+Important public announcements and published articles, in reverse-chronological order (vets.gov now redirects to va.gov):
 
 | Date               | Topic                                                                           | Link                                                                                                                      |
 | :----------------- | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------ |
@@ -56,9 +55,6 @@ We are actively working on https://va.gov, the user-centered, public-facing webs
 | 2017&nbsp;Fall     | Simplifying Veteran-facing Services through Vets<span/>.gov                     | https://www.usds.gov/report-to-congress/2017/fall/vets-dot-gov                                                            |
 | 2017&nbsp;June     | Vets<span/>.gov: A Modern Software Development Environment in Government        | https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a  |
 | 2017&nbsp;June     | Building Forms Faster on Vets<span/>.gov                                        | https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db                                  |
-
-- Improvements: https://www.va.gov/scorecard
-- Playbook: https://www.va.gov/playbook
 
 ## Main Repositories
 
@@ -114,26 +110,31 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
 
 ## Slack
 
-Slack is preferred over emails; however, you will get meeting requests via email that you’ll need to accept and add to your calendar, so you should still check your company email a few times a day. You are also required to check your VA email weekly via Citrix Access Gateway (CAG) to keep it active (daily if your job requires it). You are expected to have Slack running and constantly monitored during working hours. Use the installed (desktop) version of Slack on your development systsem rather than just running Slack from your browser (you may have limits on features such as video, sharing, and notifications if you don't.) We also recommend turning on the Google Calendar and Google Drive slack apps.
+Slack is preferred over emails; however, you will get meeting requests via email that you’ll need to accept and add to your calendar, so you should still check your company email a few times a day. You are also required to check your VA email weekly via Citrix Access Gateway (CAG) to keep it active (daily if your job requires it). You are expected to have Slack running and constantly monitored during working hours. Use the installed (desktop) version of Slack on your development system rather than just running Slack from your browser (you may have limits on features such as video, sharing, and notifications if you don't).
+
+If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
 
 - Federal DSVA Workspace URL: https://dsva.slack.com
 - Guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/vsa-slack-guidance.md
-- DSVA Channels:
+- **Bots**: Type: **_/wtf_** on any DSVA slack channel to look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
+- **Apps**: Allow the "Outlook Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
+- **Status**: In addition to setting your vacation time in the SharePoint Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.
 
+DSVA Channels:
 | Channel                    | Description                                 |
 | :------------------------- | :------------------------------------------ |
-| #general                   |
+| [#general](https://dsva.slack.com/channels/general)                         | This channel is for team-wide communication and announcements. All team members are in this channel. |
 | [#va-onboarding-help](https://dsva.slack.com/channels/va-onboarding-help)   | VA-specific onboarding help for CAG, GFE, ePAS, and VA email |
 | [#forms-library](https://dsva.slack.com/channels/forms-library)             | A channel to chat about the VA Form library |
-| #random                    |
+| [#random](https://dsva.slack.com/channels/random)                           | A place to share random information |
 | [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             | Weekly Team of Teams slides are here |
 | [#vfs-backend](https://dsva.slack.com/channels/vfs-backend)               | Backend Developers, Technical               |
 | [#vfs-engineers](https://dsva.slack.com/channels/vfs-engineers)             | Jenkins deploy, VSP announcements           |
 | [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend)              | Frontend Developers, Technical              |
 | [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help). Developers spend a lot of time here.|
-| #vsa                       | VSA all teams and practice areas            |
+| [#vsa](https://dsva.slack.com/channels/vsa)                       | VSA all teams and practice areas            |
 | [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
-| [#vsa-bam-2 aka #vsa-debt](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
+| [#vsa-debt](https://dsva.slack.com/channels/vsa-debt)                 | Team: VSA Debt              |
 | [#vsa-benefits-memorial aka #vsa-claims-appeals](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
 | [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)             | Team: Caregiver                             |
 | [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering) | Team: Caregiver (just devs)                 |
@@ -148,46 +149,39 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#va-search](https://dsva.slack.com/channels/va-search) | Team: Search and Discovery |
 | [#vsa-content-localization](https://dsva.slack.com/channels/vsa-content-localization) | Team: Translation |
 | [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools) | Team: Decision Tools |
-
-
-- If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
-- **Bots**: **_/wtf_** On the DSVA slack, you can look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
-- **Apps**: Allow the “Google Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
-- **Status**: In addition to setting your vacation time in the shared Google Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.
-
 ## Zoom Meetings
-
+Note: The Zoom Basic plan has a 40-minute time limit on meetings with 3 or more participants.
 - [https://zoom.us/](https://zoom.us/)
-- Sign in using your company’s Google email account (e.g., [pshort@governmentcio.com](mailto:pshort@governmentcio.com)).
-- Using free for now (40 minute limit for meetings over 3 people):
+- Sign in using your company’s email account.
 - Create a meeting in Zoom first, then export to email.
-- After the meeting is visible in Google email/calendar, add attendees (from Google, not Zoom).
+- After the meeting is visible in Outlook email/calendar, add attendees (from Outlook, not Zoom).
 
-## Google Drive: VSA Team
+## SharePoint: VSA Team
 
 We prefer most documents to be on GitHub, but sometimes they start off here.
-https://drive.google.com/drive/folders/0ACZ1e6Rs_6sDUk9PVA
+https://salientcrgt.sharepoint.com/sites/VSATeam/SitePages/Home.aspx
 
-## Google Calendar (Shared): PTO
+## SharePoint Calendar: PTO
 
-https://www.google.com/calendar/render?cid=governmentcio.com_rae2ref7gb5p67nmcuj2l7ege0@group.calendar.google.com \
-PTO Calendar: after approval from your PM and lead, put your days off (approved vacation, sick, etc.) on our shared Google PTO Calendar. Usage tips:
+https://salientcrgt.sharepoint.com/sites/VSATeam/Lists/PTO/calendar.aspx \
+PTO Calendar: after approval from your PM and lead, put your days off (approved vacation, sick, etc.) on our shared PTO Calendar. Usage tips:
 - Please do not send meeting invitations to let people know you will be out of office. Those clutter our calendars so most people will decline or delete/ignore. Just add your PTO/OOO to this calendar.
 - When creating meetings remember to check this calendar to see who is out, but don't send invitations to this calendar.
 
-## Google Calendar: Work Account
+## Outlook Calendar: Work Account
 
+https://outlook.office.com/calendar
 - Since we have contractors with different email domains, you’ll need to “Share with Specific People” so that at least your free vs busy times are available. This will help teammates schedule meetings.
 - In addition to putting time away on the PTO Calendar, you can also block off OOO times and appointments as events on your work calendar, but don’t send them off as meeting invites.
 - If you have recurring short events that may take you away from Slack (lunch break, driving, etc), communicate those with your team, but also put them on your work calendar.
 
 ## GitHub Repositories
 
-- **GitHub: VA<span/>.gov | Public Repo | VETS-WEBSITE** \
+- **GitHub: VA<span/>.gov | Public Repo | vets-website** \
   https://github.com/department-of-veterans-affairs/vets-website \
   Frontend Source Code: React.js, HTML
 
-- **GitHub: VA<span/>.gov | Public Repo | VETS-API** \
+- **GitHub: VA<span/>.gov | Public Repo | vets-api** \
   https://github.com/department-of-veterans-affairs/vets-api \
   Backend Source Code: Ruby/Rails (mostly REST APIs)
 
@@ -222,7 +216,7 @@ PTO Calendar: after approval from your PM and lead, put your days off (approved 
 
 - **GitHub: VA<span/>.gov | Client App Doc | Set up Locally** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started \
-  Start here to learn how to set up your local VETS-WEBSITE and VETS-API development environments.
+  Start here to learn how to set up your local vets-website and vets-api development environments.
 
 - **GitHub: VA<span/>.gov | Client App Doc | Run Locally** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/run-build \
@@ -278,7 +272,7 @@ PTO Calendar: after approval from your PM and lead, put your days off (approved 
 
 - **GitHub: VA<span/>.gov | VSP | Quality Assurance** \
   https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance \
-  ["Unit" Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/unit-testing) ([Enzyme](https://enzymejs.github.io/enzyme/) integration tests for React components, runs on the unit testing stacks; [e2e Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing): Nightwatch API with some custom helpers, [Redux Dev Tools Chrome extension](https://github.com/zalmoxisus/redux-devtools-extension). [Load Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/load-testing): Locust and wrk2. [TestRail](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail) is the test managment software used for recording evidence of both manual and automated tests (mostly manual for now).
+  ["Unit" Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/unit-testing) ([Enzyme](https://enzymejs.github.io/enzyme/) integration tests for React components, runs on the unit testing stacks; [e2e Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing): [Cypress](https://depo-platform-documentation.scrollhelp.site/developer-docs/End-to-end-testing.1738965071.html) following [best practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/Cypress-Best-Practices-on-VA.gov-Platform.1870430211.html#CypressBestPracticesonVA.govPlatform-ExpandAccordions:cy.expandAccordions()), [Redux Dev Tools Chrome extension](https://github.com/zalmoxisus/redux-devtools-extension). [Load Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/load-testing): Locust and wrk2. [TestRail](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail) is the test managment software used for recording evidence of both manual and automated tests (mostly manual for now).
 
 - **GitHub: VA<span/>.gov | VSA | Main** \
   https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa
@@ -303,7 +297,7 @@ PTO Calendar: after approval from your PM and lead, put your days off (approved 
 
 - **GitHub: VA<span/>.gov | Accessibility** \
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#automated-accessibility508-testing \
-  The [Nightwatch e2e tests will run axe scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements) to enforce Section 508, WCAG2 A and WCAG2 AA compliance; however, to avoid unnecessary churn, developers are expected to procatively run [local scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation) using [axe](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) and [axe-coconut](https://chrome.google.com/webstore/detail/axe-coconut-web-accessibi/iobddmbdndbbbfjopjdgadphaoihpojp) Chrome extensions to identify and resolve [ruleset violations](https://dequeuniversity.com/rules/axe) early on, during coding. (Staging Review requests will be denied if axe scan detects any issues not already disclosed/waived/mitigated in the Known Issues section of the request ticket.) For further guidance, consult the [Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md), [Dev Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md), [Defect Severity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md), and [Post-Launch Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) accessibility pages.
+  The [Cypress e2e tests will run axe scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements) to enforce Section 508, WCAG2 A and WCAG2 AA compliance; however, to avoid unnecessary churn, developers are expected to procatively run [local scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation) using [axe](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) and [axe-coconut](https://chrome.google.com/webstore/detail/axe-coconut-web-accessibi/iobddmbdndbbbfjopjdgadphaoihpojp) Chrome extensions to identify and resolve [ruleset violations](https://dequeuniversity.com/rules/axe) early on, during coding. (Staging Review requests will be denied if axe scan detects any issues not already disclosed/waived/mitigated in the Known Issues section of the request ticket.) For further guidance, consult the [Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md), [Dev Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md), [Defect Severity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md), and [Post-Launch Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) accessibility pages.
 
 - **GitHub: VA<span/>.gov | CMS | Create Drupal Account** \
   https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/cms-login.md \
@@ -363,7 +357,7 @@ In order to dogfood VSP's install instructions, VSA developers are expected to h
 | Chrome&nbsp;Extension: _axe-coconut_             | [axe-coconut&nbsp;-&nbsp;Web&nbsp;Accessibility Testing](https://chrome.google.com/webstore/detail/axe-coconut-web-accessibi/iobddmbdndbbbfjopjdgadphaoihpojp) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): _required for new development_. Catch WCAG 2.1 accessibility issues during development _before_ they are flagged by the build.                                                       |
 | Chrome&nbsp;Extension: _Lighthouse_              | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)                                                            | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): _recommended_. Audits for web performance, accessibility, progressive web apps, SEO and more.                                                                                        |
 
-### (optional) VS Code Extensions
+### VS Code Extensions (optional)
 
 Every developer likes to have their environment set up a certain way, but these extensions will help with the development process.
 
@@ -468,42 +462,50 @@ The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 85
 
 ## Onboarding FAQs
 
-> After I install everything, where do I start?
+<details>
+  <summary>After I install everything, where do I start?</summary>
 
-Answer:
+  ## After I install everything, where do I start?
+  If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md). I would try to get the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well.
 
-If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md). I would try to get the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well
+  If you are a back-end developer, clone this [API](https://github.com/department-of-veterans-affairs/vets-api) and get things set up without docker. You might also want to try to get the [website](https://github.com/department-of-veterans-affairs/vets-website) set up as well.
+</details>
 
-If you are a back-end developer, clone this [API](https://github.com/department-of-veterans-affairs/vets-api) and get things set up without docker. You might also want to try to get the [website](https://github.com/department-of-veterans-affairs/vets-website) set up as well.
+<details>
+  <summary>I want create a new new pull request, where do I start?</summary>
 
-> I want to add a new \_\_\_\_, where do I start?
+  ## I want create a new new pull request, where do I start?
+  Checkout out the getting started [site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/). There are two sections on the left, `VA.gov workflow` and `Common tasks`. read through those two sections and try to implement some ideas in a branch.
+</details>
 
-Checkout out the VA getting start [site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/). There are two sections on the left, `VA.gov workflow` and `Common tasks`. read through those two sections and try to implement some ideas in a branch.
+<details>
+  <summary>Where do I go with my initial technical questions about the site?</summary>
 
-> Where do I go with my initial technical questions about the site?
+  ## Where do I go with my initial technical questions about the site?
+  First, go to your onboarding buddies, then post your question to one of the appropriate [slack channels](#slack).
+</details>
 
-First, go to your onboarding buddies, then [slack channels](#slack) that seem appropriate. Ask questions, this the time to really see what is going on.
+<details>
+  <summary>What does the development process look like from start to finish?</summary>
 
-> Do we have a style guide?
+  ## What does the development process look like from start to finish?
+  Refer to the [Frontend Workflow](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-workflow.1846083611.html) and the [VA.gov Continuous Integration Process](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA.gov-Continuous-Integration-Process.1887600641.html).
+</details>
 
-We use prettier and eslint to enforce the Airbnb style guide. We have customized it a little, but usually you editor should be configured to automatically apply those stylings.
+<details>
+  <summary>Where can find mock data?</summary>
 
-> What does the development process look like from start to finish?
+  ## Where can find mock data?
+  Refer to the [mock data for the API](https://github.com/department-of-veterans-affairs/vets-api-mockdata) and [staging test accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3a1b22e261185ef42f3f7f849024b759bcfa9dad/Administrative/vagov-users/staging-test-accounts.md) documentation.
+</details>
 
-Read this [guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/overview)
+<details>
+  <summary>Do we have a style guide?</summary>
 
-> In the website, where is a good place to start understanding the structure of the app?
+  ## Do we have a style guide?
+  We use prettier and eslint to enforce the Airbnb style guide. Your editor should be configured to automatically apply the correct stylings.
+</details>
 
-For a good start, look at he `src/applications/vaos` and the `src/applications/search` directories. But overall the app is pretty solidly done.
+---
 
-> Where can find mock data?
-
-There are two repositories. There is there the [mock data for the API](https://github.com/department-of-veterans-affairs/vets-api-mockdata) and then there is the [fake log in information](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3a1b22e261185ef42f3f7f849024b759bcfa9dad/Administrative/vagov-users/staging-test-accounts.md)
-
-> What is the mission of this project?
-
-Check out this repo and read through it: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content. This really defines the voice and mission of the project and how we as tech team are trying to approach it.
-
-> I found something in this guide that was wrong/missing/could use improvement?
-
-Awesome! Add it and send a pull request 🤓!
+If you've found something in this guide that was wrong, missing or could use an improvement? Add it and send a pull request! 🤓
