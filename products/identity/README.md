@@ -9,12 +9,12 @@ Welcome to the Identity folder. This directory contains information about user i
 ### Current Team Objectives
 
 **Login.gov Rollout**   
-_Current Status:_ On hold pending work by our partners  
+_Current Status:_ In Progress 
 We are working to roll out Login.gov as an option for users within the VA.gov space.  This will allow Veterans and other users to utilize a modern, secure credential that is maintained by the US Government, and can be utilized throughout government services such as the SSA, IRS, and many others.  
 
-**Sign-in Service**  
+**Sign-in Service Pilot**  
 _Current Status:_ Actively working on this  
-We are planning to provide a sign-in service that can be utilized by non-SSO partners within the VA.gov space (such as the VA Mobile Application).  This will allow us to provide security and convenience to users of these services.
+We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, rand modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
 
 **Inherited Proofing**  
 _Current Status:_ Preliminary Research and Design Work  
