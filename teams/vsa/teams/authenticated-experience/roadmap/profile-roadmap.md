@@ -1,12 +1,12 @@
 # VA.gov profile roadmap
 
-**Updated January, 21 2022**
+**Updated January, 29 2022**
 
 ## Current projects & enhancements
 
 |Project|Status|
 |----|----|
-|[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | Research and BE build |
+|[Personal information revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/README.md) | BE build |
 
 ### Projected timelines for current projects & enhancements
 
@@ -18,7 +18,8 @@
 
 |Project or enhancement|Status|
 |----|----|
-|Remove "Gender" (aka sex assigned at birth) from the profile | January 2022 |
+|[Remove Fax number field from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35975) | February 2022 |
+|[Remove "Gender" (aka sex assigned at birth) from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36009) | February 2022 |
 [VA Profile: Notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/README.md) | Launched November 2021 |
 |[Updated layout and button styles for better screen reader experience](https://github.com/department-of-veterans-affairs/va.gov-team/issues/23665) | Launched July 2021 | 
 |[Add confirmation email for contact info updates](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8383) | Launched June 2021 |
