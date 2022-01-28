@@ -14,7 +14,7 @@ We are working to roll out Login.gov as an option for users within the VA.gov sp
 
 **Sign-in Service Pilot**  
 _Current Status:_ Actively working on this  
-We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, rand modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
+We are developing a pilot sign-in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
 
 **Inherited Proofing**  
 _Current Status:_ Preliminary Research and Design Work  
