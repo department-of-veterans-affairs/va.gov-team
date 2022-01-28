@@ -50,7 +50,7 @@ As a Veteran, I:
 - We are currently in the data and design discovery phase. We plan to speak with users and test designs with them in February, build and test in March, and launch our MVP April 1.
 - Possible solutions include: A page for the Veteran to input information to find their form, or pulling the form from HEC to display in a Veteran's profile
  - A way to download the form
-- We'll also provide the Veteran an escalation path to fix an error on the form
+- We'll also provide the Veteran an escalation path to fix an error on the form, whether that's editing the form itself onVA.gov, or instructions for contacting the call center.
 
 
 ## Go-to-market Strategy
