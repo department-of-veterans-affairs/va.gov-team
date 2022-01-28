@@ -74,6 +74,23 @@ Based on our research:
   -  Do we need to do more to advertise the Claim Status Tool?
   -  Lighthouse migration
 
+Phase 1 - bug fix and minor visual changes 
+
+Visual: changing content to add/remove things not needed.  
+  - Implement apple tool pattern (not technical changes, just a reordering) 
+  - Potentially more work on claim detail pages 
+  - Identify further areas for deeper research (questions from Product Outline) 
+
+We will learn things during this phase that we can use for Phase 2 
+
+Phase 2 - More Status updates
+  – Research and add additional status updates, something more contextual 
+  - Document who is updating and when? And how can we segment these  
+
+Phase 3 – Full UX redesign (next quarter) 
+	- bring in more information 
+	- who is working, more interaction with adjudicators 
+
 ## OKRs and KPIs
 Note: An attempt was made to tranfer the Google Doc table to a markdown table.  However, you cannot have different columns density and it looked very bad in markdown.  Image with link seems to work better.
 ![Image of OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/readme/image.png)
