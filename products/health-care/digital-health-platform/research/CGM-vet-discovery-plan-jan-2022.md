@@ -55,7 +55,7 @@ This is discovery research that will help determine the value of bringing CGM da
 
 -   Are you comfortable sharing your data with VA?
 
-Reference [discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-platform/research/fitbit-discovery-veteran-guide-10-09-2021.md) for full list
+Reference [discussion guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-platform/research/CGM-vet-discovery-guide-jan-22.md) for full list
 
 ### Hypothesis
 
