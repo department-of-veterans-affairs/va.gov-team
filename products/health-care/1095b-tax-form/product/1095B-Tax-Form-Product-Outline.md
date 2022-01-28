@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-Form 1095-B reports the months a person had qualifying minimum health coverage to the IRS. The VA sends this form to Veterans to show what months they were covered under the VA healthcare system. In most cases, it is simply a form for one's records. However, some states still have an individual coverage mandate, and in those states, the form is necessary for filing taxes. 
+Form 1095-B reports the months a person had qualifying minimum health coverage to the IRS. The VA sends this form to Veterans to show what months they were covered under the VA healthcare system. In most cases, it is simply a form for one's records. However, some states still have an individual coverage mandate, and in those states, the form is necessary for filing taxes. The form is not required by the IRS, but it is required to be sent by health care providers as of 2019.
 
 ## Problem Statement
 Currently, form 1095-B is mailed to veterans. Sending it out costs the VA approximately $1.5 million, and an additional $400,000 if they have to re-send it due to an error on the form. What's more, the form isn't available online, so if a Veteran loses the form, they have no easy way to get an immediate replacement. 
@@ -33,9 +33,8 @@ As a Veteran, I:
 ---
 ## Measuring success 
 
--	The cost of sending the forms decreases
--	The porportion of Veterans who search for and find the 1095-B form increases
--	Timeline to accessing the form, fixing an error, and receiving an updated form is reduced
+-	The expense of sending the forms decreases
+-	The amount of calls to the call center about the form decreases 
 
 
 
@@ -49,11 +48,15 @@ As a Veteran, I:
 ## Solution Approach
 
 - We are currently in the data and design discovery phase. We plan to speak with users and test designs with them in February, build and test in March, and launch our MVP April 1.
+- Possible solutions include: A page for the Veteran to input information to find their form, or pulling the form from HEC to display in a Veteran's profile
+ - A way to download the form
+- We'll also provide the Veteran an escalation path to fix an error on the form
 
 
 ## Go-to-market Strategy
 - Announcements to be made in newsletters, emails, and social media to notify veterans of the form being available online
 - Call center to have updated materials on how to guide veterans to find the form
+- We'll inform the Veteran they have to actively switch to a digital copy if they want to stop receiving a physical form
 
 ## Launch Dates
 - *Target Launch Date* 
