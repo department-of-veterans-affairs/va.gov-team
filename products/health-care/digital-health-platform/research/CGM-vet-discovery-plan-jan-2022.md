@@ -6,13 +6,11 @@ Questions about how to set up your research study? Reach out in the #research-op
 Background
 ----------
 
-Briefly describe the background of your product. Consider:
-
-The Digital Health Platform team's mission is to evaluate emerging digital health technologies that clinicians and other stakeholders wish to assess. Continuous glucose monitors (CGMs) is one of these technologies we are looking to learn more about the use of.  
+The Digital Health Platform team's mission is to evaluate emerging digital health technologies that clinicians and other stakeholders wish to assess. Continuous glucose monitors (CGMs) are one of these technologies we are looking to learn more about the use of.  
 
 ### OCTO Objectives
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support?
 
 Not directly related to OCTO goals associated with [VA.gov](http://va.gov/), but aligns to these two North Star objectives:
 
