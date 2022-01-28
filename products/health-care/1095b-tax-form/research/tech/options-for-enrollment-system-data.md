@@ -51,6 +51,11 @@ Below are our current potential options for accessing and serving enrollment sys
   - Poor quality API or poor documentation 
   - Problems with or lack of testing or sandbox environment
 
+- **Open Questions:**
+  - Does an API or API endpoint exist for Enrollment System data?
+    - If yes, can we get access?
+    - What is the process and timeframe for gaining access?
+
 ## Option 2A: Batch Data Export to DB
 - **Description:**
   - A batch job runs within the Enrollment System to put the needed enrollment data into a flat file in AWS S3, then a script inserts that data into a database table (i.e. AWS Aurora PGSQL). The VETS-API controller required can be built on a standard ‘CRUD’ model/controller in Rails.
@@ -118,6 +123,9 @@ Below are our current potential options for accessing and serving enrollment sys
 - **Key Risks:**
   - Relying on an individual to upload file to S3.
 
+- **Open Questions:**
+  - Is there an individual or position outside of our team that can manually upload flat files to S3 on a regular or semi-regular basis?
+
 
 ## Option 4: Taking PDF's Directly from the Enrollment System
 - **Description:**
@@ -144,4 +152,14 @@ Below are our current potential options for accessing and serving enrollment sys
     - Is this length of time short enough that we can use those generated PDF's in time for tax season so Veterans can access the form in a timely manner?
 
 
-
+## Next Steps
+- Conduct research on VA's internal PDF generation process
+- Conduct analogous research into possible PDF software solutions or services
+- Find out what the print vendor uses for PDF functionality and identify overlap
+- Talk to the following POC's:
+  - Informatics Department
+    - POC: George Tidwell and Angela Brown
+    - Purpose: Learn about data quality and request samples of data (can be dummy data, just need to learn the structure)
+  - OI&T
+    - POC: Joshua Faulkner
+    - Purpose: Technical questions regarding enrollment data, API access, sending data, and batch processes (if any)
