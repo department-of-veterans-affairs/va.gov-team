@@ -8,7 +8,7 @@ We are integrating preferred name, pronouns, gender identity, and sexual orienta
 
 **Targeted launch**: End of Q1 2022 (more likely will be early Q2 2022 due to VA Profile now supporting the backend)
 
-### Bad address indicator
+### [Bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)
 
 Even with the addition of email and text communications at the VA, mail is still a primary form of communication for the organization. This makes it especially important that the VA has accurate and valid mailing addresses for all veterans. To further support accurate mailing addresses and reduce incidences of returned or unreceived mail, we would like to add a bad address indicator to the profile to let people know that they should check to make sure the VA has their most up-to-date address. This will work in tandem with the address validation functionality already supported in the VA.gov profile.
 
