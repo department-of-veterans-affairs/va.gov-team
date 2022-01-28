@@ -58,7 +58,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 ## Option 2A: Batch Data Export to DB
 - **Description:**
-  - A [batch job](https://www.techopedia.com/definition/28727/batch-job-sap) runs within the Enrollment System to put the needed enrollment data into a flat file in [AWS S3](https://aws.amazon.com/s3/), then a script inserts that data into a database table (i.e. [AWS Aurora PGSQL](https://aws.amazon.com/rds/aurora/?aurora-whats-new.sort-by=item.additionalFields.postDateTime&aurora-whats-new.sort-order=desc)). The VETS-API controller required can be built on a standard [‘CRUD’](https://www.sumologic.com/glossary/crud/) model/controller in [Rails](https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/).
+  - A [batch job](https://www.techopedia.com/definition/28727/batch-job-sap) runs within the Enrollment System to put the needed enrollment data into a flat file (csv or similar) in [AWS S3](https://aws.amazon.com/s3/), then a script inserts that data into a database table (i.e. [AWS Aurora PGSQL](https://aws.amazon.com/rds/aurora/?aurora-whats-new.sort-by=item.additionalFields.postDateTime&aurora-whats-new.sort-order=desc)). The VETS-API controller required can be built on a standard [‘CRUD’](https://www.sumologic.com/glossary/crud/) model/controller in [Rails](https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/).
   - S3 -> Database
 
 - **Pros:**
