@@ -17,6 +17,8 @@ Below are our current potential options for accessing and serving enrollment sys
 
 - [Option 3: Manual Export to S3](#option-3-manual-export-to-s3)
 
+- [Option 4: Taking PDF's Directly from the Enrollment System](#option-4-taking-pdfs-directly-from-the-enrollment-system)
+
 
 ### Baseline Risks and Assumptions For All Options
 - **Assumptions**:
@@ -115,6 +117,31 @@ Below are our current potential options for accessing and serving enrollment sys
 
 - **Key Risks:**
   - Relying on an individual to upload file to S3.
+
+
+## Option 4: Taking PDF's Directly from the Enrollment System
+- **Description:**
+  - If PDF's stored in Enrollment System already are suitable, we could simply display the correct PDF to the user on the front end and bypass dealing with the raw data altogether
+
+- **Pros:**
+  - Fastest way for the short time frame.
+  - No need to deal with filling PDF's or data
+
+- **Cons:**
+  - We cannot really change or validate data thats already merged into a PDF.
+
+- **Key Assumptions:**
+  - The PDF's that the print vendor sends back are sent back in a short enough timeframe to be suitable to show to Veterans.
+  - There is a way to query the Enrollment System to fetch the PDF's directly.
+
+- **Key Risks:**
+  - If the PDF's take a long time to send back or are sent back at unpredictable times, Veterans might not be able to see the PDF when they need it.
+  - If there is no way to directly query the Enrollment System for PDF's, we would still need a batch script to upload the PDF's to an S3 bucket or something of the sort.
+
+- **Open Questions:**
+  - Can we query the Enrollment System for a specific PDF based on a unique Veteran ID?
+  - How long does it take to receive PDF's from the print vendor and store in the Enrollment System?
+    - Is this length of time short enough that we can use those generated PDF's in time for tax season so Veterans can access the form in a timely manner?
 
 
 
