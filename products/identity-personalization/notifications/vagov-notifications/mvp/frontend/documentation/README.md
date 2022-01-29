@@ -9,6 +9,10 @@ All copy will be updated in this [Copy Documenation doc.](add link)
 
 ## Notifications section on My VA
 
+NOTE FROM ACCESSIBILITY: For the notification component we will need a descriptive 'aria describe by' that links the 'dismiss' button to the notification. Work with accessibility for the exact text. - this needs to go in the onsite notifications documentation that doesn't exist yet.
+
+
+
 ### When do show this section
 
 - We will show this section if a user has any notifications. We will not show this section if the user has no notifications and has never had notifications.
