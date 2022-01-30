@@ -7,7 +7,7 @@
 
 ### Accessibility standards
 
-- [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
+- [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
 - [ ] Tell users where they'll land if your link will take them off VA.gov: Make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov and where they're going.
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 - [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/) NOTE: After we add a link to this from our style guide entry for "Page titles and section titles", change this content checklist link to point to our style guide entry.
@@ -24,12 +24,12 @@
 - [ ] Related links: Confirm that you've added appropriate related links to the file (they should truly be related to the article—rather than “something the reader may also be interested in”).
 - [ ] Cross linking: Determine if this new article should be added as a related link on any live articles. (Do you want to drive users to this page from elsewhere on VA.gov?)
 - [ ] Call to action (CTA): When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
-- [ ] Confirm that there's alt text for screen shots: Check that any screenshots contain alt text that contain context. REVISE
-- [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
+- [ ] Alternative text ("alt text") for any screen shots on the page: Confirm that screen shots or other images have alt text that describes the image. Screen readers will read this text to the user, and search engines use it to assess the purpose of the page. [Learn how to write alt text on WebAIM](https://webaim.org/techniques/alttext/)
+- [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ. --ADD WHY HERE--
 
 **Also confirm these components are checked in the Drupal file:**</br>
-- [ ] The correct primary article category and additional article categories. 
-- [ ] The correct benefit hub contacts. 
-- [ ] The appropriate audience and topic tags. 
+- [ ] The correct primary article category and additional article categories.
+- [ ] The correct benefit hub contacts.
+- [ ] The appropriate audience and topic tags.
 - [ ] "Repeat CTA buttons" box if it's a long article. This will display the action link at both the top and bottom of the page.
-- [ ] **For a single Q&A:** "Enable standalone Resources and support page for this Q&A."
+- [ ] **For a single Q&A:** If you want a single Q&A to appear as a stand-alone article and not just as part of a multiple FAQ, click "Enable standalone Resources and support page for this Q&A."
