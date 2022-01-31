@@ -1,12 +1,12 @@
 # On-site notifications roadmap
 
-**Updated January 14, 2022**
+**Updated January 31, 2022**
 
 ## Current projects
 
 |Project|Status|
 |----|----|
-|On-site notifications MVP| User research & build |
+|On-site notifications MVP| On hold -- waiting for new VANotify team to ramp up |
 
 ### Projected timelines for current projects
 
