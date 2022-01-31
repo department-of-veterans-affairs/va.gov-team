@@ -128,6 +128,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 
 ## Option 4: Taking PDF's Directly from the Enrollment System
+*Source: E-mail from Tarsha 
 - **Description:**
   - If PDF's stored in Enrollment System already are suitable, we could simply display the correct PDF to the user on the front end and bypass dealing with the raw data altogether
 
