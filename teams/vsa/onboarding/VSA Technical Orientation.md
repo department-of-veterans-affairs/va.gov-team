@@ -201,45 +201,31 @@ https://outlook.office.com/calendar
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform \
   Overview of the platform: MetalSmith, React, Redux, Drupal CMS, TeamSite. Pay attention to the menu/links on the left panel, because it has things such as [content management integration](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA.gov-content-management-system-overview.1854832733.html), [front end standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/Best-practices.1824489781.html), [unit testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/Unit-tests.1836187655.html) (tools/conventions), [build/deploy flow](https://depo-platform-documentation.scrollhelp.site/developer-docs/Build-and-deploy-process-flows.1844346924.html), [Feature Flags](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles) (React, Drupal/Metalsmith, Node, Liquid; Release Toggles, Flipper UI) and a history of [documented platform decisions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/documented-decisions/summary) (why/when).
 
-- **GitHub: VA<span/>.gov | Client App Doc | Documentation Guide** \
-  https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/documentation-guide \
-  Meta: technical details on how to update content on the VA<span/>.gov Client Application Documentation site.
-
-- **GitHub: VA<span/>.gov | VSP | Main** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp
-
-- **GitHub: VA<span/>.gov | VSP | Orientation** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation
+- **Platform Orientation** \
+  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Welcome%20to%20VSP.md
 
 - **GitHub: VA<span/>.gov | VSP | How To Update Documentation** \
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/how-to-collaborate-on-documents.md \
   If you find issues with VSP documentation, propose corrections using the pull request (PR) process.
 
 - **GitHub: VA<span/>.gov | VSP | Request Access to Internal Tools** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md \
-  The "[additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-orientation-steps-for-developers)" section walks you though the request and setup for SOCKS access to Jenkins, Sentry, Prometheus, and Grafana. These DevOps services are hosted on private domains but can be accessed your web browser using an SSH script with the SwitchyOmega Chrome plugin to route web requests from your browser to the SOCKS5 proxy. If you have your PIV background check approved (eQIP adjudication), you may also request access to AWS Console for "troubleshooting, log file review, and to apply changes to the running instances and services" on AWS GovCloud.
-
-- **GitHub: VA<span/>.gov | VSP | Deployment Process** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/deployment.md
+  https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html \
+  The additional orientation steps for developers section walks you though the request and setup for SOCKS access to Jenkins, Sentry, Prometheus, and Grafana. These DevOps services are hosted on private domains but can be accessed your web browser using an SSH script with the SwitchyOmega Chrome plugin to route web requests from your browser to the SOCKS5 proxy. If you have your PIV background check approved (eQIP adjudication), you may also request access to AWS Console for "troubleshooting, log file review, and to apply changes to the running instances and services" on AWS GovCloud.
 
 - **GitHub: VA<span/>.gov | VSP | Review Instances** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md#full-application-reviews
+  https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-review-instances-to-preview-changes.590774288.html
 
 - **GitHub: VA<span/>.gov | VSP | Platform Code Review Guidelines** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md \
+  https://depo-platform-documentation.scrollhelp.site/developer-docs/Submitting-pull-requests-for-approval.655032351.html \
   Pull Request (PR) guidelines (required in order to merge to master).
 
 - **GitHub: VA<span/>.gov | VSP | Product Development Request Checklist** \
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md \
   "All items here must be completed and signed off on by VSP before a new application can launch, and you should start convos about each item early - so you can work on them incrementally and iterate from day one."
 
-- **GitHub: VA<span/>.gov | VSP | Request For Change (RFC)** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/request-for-change \
-  Many of the RFCs do a good job explaining why things are the way they are. How to propose changes: create a RFC, then submit a PR so that it the RFC can be commented on and discussed; after consensus, merge/close.
-
 - **GitHub: VA<span/>.gov | VSP | Quality Assurance** \
-  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance \
-  ["Unit" Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/unit-testing) ([Enzyme](https://enzymejs.github.io/enzyme/) integration tests for React components, runs on the unit testing stacks; [e2e Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing): [Cypress](https://depo-platform-documentation.scrollhelp.site/developer-docs/End-to-end-testing.1738965071.html) following [best practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/Cypress-Best-Practices-on-VA.gov-Platform.1870430211.html#CypressBestPracticesonVA.govPlatform-ExpandAccordions:cy.expandAccordions()), [Redux Dev Tools Chrome extension](https://github.com/zalmoxisus/redux-devtools-extension). [Load Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/load-testing): Locust and wrk2. [TestRail](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail) is the test managment software used for recording evidence of both manual and automated tests (mostly manual for now).
+  https://depo-platform-documentation.scrollhelp.site/developer-docs/Quality-assurance-(QA)-testing.1241579982.html \
+  ([Enzyme](https://enzymejs.github.io/enzyme/) integration tests for React components, runs on the unit testing stacks; [e2e Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing): [Cypress](https://depo-platform-documentation.scrollhelp.site/developer-docs/End-to-end-testing.1738965071.html) following [best practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/Cypress-Best-Practices-on-VA.gov-Platform.1870430211.html#CypressBestPracticesonVA.govPlatform-ExpandAccordions:cy.expandAccordions()), [Redux Dev Tools Chrome extension](https://github.com/zalmoxisus/redux-devtools-extension). [Load Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/load-testing): Locust and wrk2. [TestRail](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail) is the test managment software used for recording evidence of both manual and automated tests (mostly manual for now).
 
 - **GitHub: VA<span/>.gov | VSA | Main** \
   https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa
@@ -264,7 +250,7 @@ https://outlook.office.com/calendar
 
 - **GitHub: VA<span/>.gov | Accessibility** \
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#automated-accessibility508-testing \
-  The [Cypress e2e tests will run axe scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements) to enforce Section 508, WCAG2 A and WCAG2 AA compliance; however, to avoid unnecessary churn, developers are expected to procatively run [local scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation) using [axe](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) and [axe-coconut](https://chrome.google.com/webstore/detail/axe-coconut-web-accessibi/iobddmbdndbbbfjopjdgadphaoihpojp) Chrome extensions to identify and resolve [ruleset violations](https://dequeuniversity.com/rules/axe) early on, during coding. (Staging Review requests will be denied if axe scan detects any issues not already disclosed/waived/mitigated in the Known Issues section of the request ticket.) For further guidance, consult the [Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md), [Dev Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md), [Defect Severity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md), and [Post-Launch Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) accessibility pages.
+  The [Cypress e2e tests will run axe scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements) to enforce Section 508, WCAG2 A and WCAG2 AA compliance; however, to avoid unnecessary churn, developers are expected to procatively run [local scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation) using the [axe](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) Chrome extension to identify and resolve [ruleset violations](https://dequeuniversity.com/rules/axe) early on, during coding. (Staging Review requests will be denied if axe scan detects any issues not already disclosed/waived/mitigated in the Known Issues section of the request ticket.) For further guidance, consult the [Post-Launch Audit](https://depo-platform-documentation.scrollhelp.site/developer-docs/How-to-prepare-for-an-accessibility-post-launch-audit.1909063817.html) accessibility pages.
 
 - **GitHub: VA<span/>.gov | CMS | Create Drupal Account** \
   https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/cms-login.md \
