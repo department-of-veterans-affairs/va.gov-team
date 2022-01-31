@@ -30,8 +30,28 @@
 
 ## Monday, January 31, 2022
 * Status of healthserviceAPI
-* CAPs (lat/long) next steps
+  * LH wrapping up setting up numerated list
+  * CMS working on this sprint: list of service identifiers to be added in; handling for exceptions
+    * need to determine how it's going to look in the push (field prefix - key value pair)
+    * LH: it can go anywhere in the existing service structure, LH will be calling it serviceId (in CMS = healthserviceAPI but can rename to match): #7558 (not currently in sprint 51)
+    * can't push non-COVID services, but LH can accept new field
+    * LH doesn't need CMS changes in place to launch but will need it for work to key off of (testing and so forth)
+  * LH to ping CMS once first portion is in place
 * VA Health Connect number "field_va_health_connect_phone", timing for CMS and LH changes
+  * how will LH get this data?
+  * is it just the phone nubmer? A: yes
+  * would it be reasonable to host this with the other number? or are we anticipating other things that would point to a new object?
+    * A: unsure because discussions around branding still occuring; Conlon would like to flesh out the plan in order to determine
+    * LH would like to explore in order to help shape this data long-term
+  * what kind of timeline is desired to get live?
+    * A: will make it easier on some existing products (end of March for next VISN that will need, VISN 8 currently has a hack in place - FE to surface this number on correct facility, not like Orlando - which has it correctly stored)
+  * LH V1 go-live project = 2/25
+  * LH would prefer to nail down any additional data that may want to be pushed with this in the future (explore between now and end of March)
+  * do we want to be pushing CMS Cerner data to LH? (which EHRM a facility is connected to) A: not yet
+    * LH to explore if this may be useful
+    * easy for CMS to add at any time
+  * would LH want to know what system each facility is a part of? health teams currently requesting
+    * double counting facilities currently occuring between VBA and VHA
 
 ## Monday, January 24, 2022
 * healthserviceAPI field updates
