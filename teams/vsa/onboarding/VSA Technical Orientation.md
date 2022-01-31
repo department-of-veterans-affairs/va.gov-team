@@ -185,7 +185,7 @@ https://outlook.office.com/calendar
   https://depo-platform-documentation.scrollhelp.site/developer-docs/Setting-up-your-local-frontend-environment.1844215878.html
   Start here to learn how to set up your local vets-website and vets-api development environments.
 
-- **Running Va.gov locally** \
+- **Running VA.gov locally** \
   https://depo-platform-documentation.scrollhelp.site/developer-docs/Running-VA.gov-locally.1844248620.html
   Continue here to run them locally.
 
