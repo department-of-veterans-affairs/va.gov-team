@@ -3,12 +3,12 @@
 ## For all VA.gov pages (including those in Resources and Support)
 
 **Before you begin:**
-- [ ] Confirm that there are no updates in draft by other content authors that aren't ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
+- [ ] Confirm that there are no updates by other content authors that are in draft form and not yet ready to be published. Check the revision log and then confirm with the content author who made the previous edits that the page is ready to publish.
 
 ### Accessibility standards
 
-- [ ] Confirm all links contain a purpose and a target. A user will know from just the link text what the link does and where it is sending them. [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
-- [ ] Tell users where they'll land if your link will take them off VA.gov: Make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov and where they're going.
+- [ ] Confirm all links contain a purpose and a target. A user should be able to tell from just the link text what the link does and where it is sending them. [Read more about making links accessible on AccessibilityOz](https://www.accessibilityoz.com/2014/02/links-and-accessibility/) 
+- [ ] If your link will take the user off VA.gov, tell them where they'll land: Make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov and where they're going. The text link above is an example of this.
 - [ ] Confirm all phone numbers are in aria labels. [Learn how to code numbers with aria labels](https://design.va.gov/content-style-guide/dates-and-numbers#phone-numbers)
 - [ ] Confirm that the heirarchy of headings is correct (H1 to H2 to H3—levels shouldn't be skipped). [Read WCAG documentation](https://www.w3.org/WAI/tutorials/page-structure/headings/) NOTE: After we add a link to this from our style guide entry for "Page titles and section titles", change this content checklist link to point to our style guide entry.
 
