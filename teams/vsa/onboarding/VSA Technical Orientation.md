@@ -181,7 +181,7 @@ https://outlook.office.com/calendar
 - **GitHub: VA<span/>.gov | Client App Doc | Main** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools
 
-- ** Setting up your local env** \
+- **Setting up your local env** \
   https://depo-platform-documentation.scrollhelp.site/developer-docs/Setting-up-your-local-frontend-environment.1844215878.html
   Start here to learn how to set up your local vets-website and vets-api development environments.
 
