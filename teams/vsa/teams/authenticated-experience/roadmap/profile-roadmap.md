@@ -18,7 +18,7 @@
 
 ## Completed projects & enhancements
 
-|Project or enhancement|Status|
+|Project or enhancement|Launch/Completion date|
 |----|----|
 |[Remove Fax number field from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35975) | February 2022 |
 |[Remove "Gender" (aka sex assigned at birth) from the profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36009) | February 2022 |
