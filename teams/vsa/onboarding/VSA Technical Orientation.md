@@ -178,7 +178,7 @@ https://outlook.office.com/calendar
 
 ## Links
 
-- **GitHub: VA<span/>.gov | Client App Doc | Main** \
+- **GitHub: VA<span/>.gov | Documentation Directory** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools
 
 - **Setting up your local env** \
@@ -193,13 +193,13 @@ https://outlook.office.com/calendar
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms \
   VA<span/>.gov Forms System (VAFS). Uses RJSF (react-jsonschema-form).
 
-- **[GitHub: VA<span/>.gov | Client App Doc | Visual Design** \
-  https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/visual-design) \
+- **VA Design System** \
+  https://design.va.gov/
   VA<span/>.gov is built on top of VA's design system (VADS). VADS is based on the [US Web Design System](https://designsystem.digital.gov/). This site covers Formation Components and formation-react.
 
 - **GitHub: VA<span/>.gov | Client App Doc | Platform** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform \
-  Overview of the platform: MetalSmith, React, Redux, Drupal CMS, TeamSite. Pay attention to the menu/links on the left panel, because it has things such as [content management integration](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/architecture/cms), [front end standards](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/react), [unit testing](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/unit-testing) (tools/conventions), [build/deploy flow](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/architecture/build-deploy-flows), [Feature Flags](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles) (React, Drupal/Metalsmith, Node, Liquid; Release Toggles, Flipper UI) and a history of [documented platform decisions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/documented-decisions/summary) (why/when).
+  Overview of the platform: MetalSmith, React, Redux, Drupal CMS, TeamSite. Pay attention to the menu/links on the left panel, because it has things such as [content management integration](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA.gov-content-management-system-overview.1854832733.html), [front end standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/Best-practices.1824489781.html), [unit testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/Unit-tests.1836187655.html) (tools/conventions), [build/deploy flow](https://depo-platform-documentation.scrollhelp.site/developer-docs/Build-and-deploy-process-flows.1844346924.html), [Feature Flags](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles) (React, Drupal/Metalsmith, Node, Liquid; Release Toggles, Flipper UI) and a history of [documented platform decisions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/documented-decisions/summary) (why/when).
 
 - **GitHub: VA<span/>.gov | Client App Doc | Documentation Guide** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/documentation-guide \
