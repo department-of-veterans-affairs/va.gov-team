@@ -129,7 +129,7 @@ The VA.gov reverse proxy should be configured to pass through all requests for `
 
 ##### Object Expiration
 
-In order to limit object hosting costs and avoid storing irrelevant short URLs, DynamoDB Table Items should be removed once they are no longer necessary. This will be done automatically by using [DynamoDB's TTL functionality to automatically expire items](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html).
+In order to limit object hosting costs and avoid storing irrelevant short URLs, DynamoDB Table Items should be removed once they are no longer necessary. This will be done by using [DynamoDB's TTL functionality to automatically expire items](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html).
 
 ##### Indexing / Analytics
 
@@ -180,8 +180,8 @@ TBD
 ### Security Concerns
 
 
-| Concern  | Resolution |
-|------ | -------------- | ------ |
+| Concern | Resolution |
+|-------- | ---------- |
 | Redirecting users from trusted to untrusted URLs  | App will be architected to reject requests to shorten URLs not underneath www.va.gov |
 | | The DynamoDB table where redirection objects are stored will be accessible only on the private network |
 | Un-trusted/malicious users creating URL redirects | No UI will be provided to create URL redirects, only an access-controlled API on the private network |
