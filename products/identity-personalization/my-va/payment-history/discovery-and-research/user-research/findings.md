@@ -249,7 +249,9 @@ Toward the end of the sessions, we asked participants how they expected to see t
 
 #### 3.3 Multiple participants commented that the light yellow color for the alert did not stand out to them, and one participant stated it made the text very difficult to read.
 *Labels: AUD: Veterans, Accessibility, DSP Experimental, DSP: Notifications, PRDT: My VA, SPG: Blind/Visually Impaired**
+
 While many participants noticed the alerts right away, several commented that the light yellow did not communicate the appropriate level of urgency that should accompany a message about outstanding debt or unread health care messages.
+
 > This is a soft soothing yellow, it’s kind of chill - it doesn’t strike urgency. - P15
 
 > Because they’re beige, they don’t hit you in the face like maybe they should. Like if it was red or a brighter orange. Like, hello hello you have two messages! - P7 
