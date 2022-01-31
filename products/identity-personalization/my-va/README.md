@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-Last updated January 5, 2022
+Last updated January 31, 2022
 
 ### Communications
 
@@ -12,16 +12,16 @@ Last updated January 5, 2022
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DEPO Lead| samara.strauss@va.gov |
-|Anastasia Jakabcin (AJ)|Product Manager| ana@adhocteam.us |
+|Anastasia Jakabcin (AJ) -- On leave|Product Manager| ana@adhocteam.us |
+|Heather Justice| Product Manager| heather.justice@adhocteam.us|
 |Liz Lantz |Designer| liz.lantz@adhocteam.us |
-|Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Angela Agosto |Designer| angela.agosto@adhocteam.us |
 |Taylor Mitchell| FE Engineer|	tmitchell@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
 ### Table of Contents
 
 - [Overview](#overview)
-- [Problem Statement](#problem-statement)
 - [Opportunities & Priorities](#opportunities--priorities)
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
@@ -33,11 +33,7 @@ Last updated January 5, 2022
 
 ## Overview
 
-My VA provides Veterans with a direct route to their most critical tasks and updates based on their unique circumstances at the VA.  
-
-## Problem Statement
-
-When Veterans log into VA.gov, [they expect to be met with an experience that reflects their personal circumstances at the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). However, they currently see a generalized homepage with tasks that may or may not apply to them. There is no way for them to easily see a consolidated view of their benefit statuses or the tasks that need their attention or action.
+When Veterans log into VA.gov, [they expect to be met with an experience that reflects their personal circumstances at the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). My VA aims to meet this expectation by providing Veterans with a direct route to their most critical tasks and updates.  
 
 ## Opportunities & Priorities
 
@@ -75,13 +71,13 @@ The VA may have suggestions for Veterans on how they can maximize their benefits
 
 _Why would a user want to use this?_
 
--	Primarily, a Veteran would want to use the personalized landing page described above because it would save them time when interacting with the VA. The more we surface, consolidate, alert, and guide up front, the quicker Veterans can complete tasks, receive benefits, and get back to their lives. 
+-	Primarily, a Veteran would want to use My VA because it would save them time when interacting with the VA. The more we surface, consolidate, alert, and guide up front, the quicker Veterans can complete tasks, receive benefits, and get back to their lives. 
 
 _With this problem solved, what should users be able to do/achieve that they couldn't before?_
 
--	With this problem solved, Veterans will more easily be able to see if there is information that needs their attention at the VA, which may result in quicker task completion.
--	With this problem solved, Veterans will more easily be able to understand the current status of all their benefits at the VA at a glance instead of having to track this information down in different places.
--	With this problem solved, Veterans may be able to more fully engage with the VA.
+-	Veterans will more easily be able to see if there is information that needs their attention at the VA, which may result in quicker task completion.
+-	Veterans will more easily be able to understand the current status of all their benefits at the VA at a glance instead of having to track this information down in different places.
+-	Veterans may be able to more fully engage with the VA.
 
 ### User statements
 
@@ -101,9 +97,8 @@ _With this problem solved, what should users be able to do/achieve that they cou
 
 _Why would your business want this to exist?_
 
--	Done well, a personalized landing page should help fulfill our second and third north star objectives: reducing time to outcomes and maximizing user satisfaction. 
-With this problem solved, what should your business be able to do/achieve that they couldn't before?
--	Done well, a personalized landing page should help us more effectively guide Veterans to relevant tasks and benefit information that will help us maximize desired outcomes (eg. greater interactions and conversions). 
+-	My VA should help fulfill our second and third north star objectives: reducing time to outcomes and maximizing user satisfaction. 
+-	My VA should help us more effectively guide Veterans to relevant tasks and benefit information that will help us maximize desired outcomes (eg. greater interactions and conversions). 
 
 ### Undesired Business Outcomes
 
