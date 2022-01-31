@@ -30,7 +30,7 @@
 
 ## Monday, January 31, 2022
 * CAPs (lat/long) next steps
-* VA Health Connect number "field_va_health_connect_phone"
+* VA Health Connect number "field_va_health_connect_phone", timing for CMS and LH changes
 
 ## Monday, January 24, 2022
 * healthserviceAPI field updates
