@@ -94,7 +94,7 @@ Below are our current potential options for accessing and serving enrollment sys
 
 - **Cons:**
   - Requires flat file quality to be adequate.
-  - **Parsing/fetching data will be slower without a database/API**
+  - **Parsing/fetching data will be slower without a database**
 
 - **Key Assumptions:**  
   - Data quality is adequate.
