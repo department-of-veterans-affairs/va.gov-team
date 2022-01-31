@@ -3,9 +3,9 @@ title Short URL Creation
 participant VEText
 boundary AWS API Gateway
 participant AWS Lambda
-database AWS S3
+database AWS DynamoDB
 
-VEText->AWS Lambda: CreateShortURL(String URL, DateTime ValidBefore)
-AWS Lambda->AWS S3: PutObject(Bucket: "URL Bucket ID", x-amz-website-redirect-location: URL, x-amz-tagging: TBD)
-AWS S3->AWS Lambda: 200 OK
-AWS Lambda->VEText: { "shortUrl": "https://www.va.gov/u/abcdef" }
+VEText->AWS Lambda: POST /actions/short-urls({ url: "https://www.va.gov/some-url", expires: "2022-12-31T00:00:00Z"})
+AWS Lambda->AWS DynamoDB: PutItem(TableName: "short-url-db", Item: { id: "123-abc", longUrl: "https://www.va.gov/some-url", expires: "2022-12-31T00:00:00Z"} )
+AWS DynamoDB->AWS Lambda: 200 OK
+AWS Lambda->VEText: { id: "123-abc", shortUrl: "https://www.va.gov/u/123-abc", longUrl: "https://www.va.gov/some-url" }
