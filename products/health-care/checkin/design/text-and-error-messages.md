@@ -8,9 +8,6 @@ Jump to...
 ## Check-in <a name="checkin"></a> 
 To show the overall user flow and decision points, check-in UX created this [Sketch file](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm). However, the Sketch document is not to be a source of truth. It will be updated periodically, but may be out-of-date.
 
-![Messaging and Error States](https://user-images.githubusercontent.com/66287082/149059734-506f9efc-09f7-4fcd-8d3d-bd0e93b5cfeb.jpg)
-_Screenshot from Sketch_
-
 ### VeText 
 
 #### Text Message Scenarios and Wording
