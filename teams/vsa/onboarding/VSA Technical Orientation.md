@@ -42,19 +42,7 @@ We are actively working on https://va.gov, the user-centered, public-facing webs
 - VSP: [Veteran-facing Services Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/README.md#veteran-facing-services-platform-vsp); the platform team, which includes framework and DevOps.
 - VFS: Veteran Facing Services (consumers of VSP, including VSA).
 ### Overview
-
-Important public announcements and published articles, in reverse-chronological order (vets.gov now redirects to va.gov):
-
-| Date               | Topic                                                                           | Link                                                                                                                      |
-| :----------------- | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------ |
-| 2019&nbsp;November | More Vets Are Taking Advantage of Digital Services Through New VA<span/>.gov    | https://www.nextgov.com/it-modernization/2019/11/more-vets-are-taking-advantage-digital-services-through-new-vagov/161190 |
-| 2019&nbsp;February | VA celebrates early success metrics from the VA<span/>.gov relaunch             | https://www.fedscoop.com/va-celebrates-early-success-metrics-va-gov-relaunch                                              |
-| 2018&nbsp;November | YouTube Video: Secretary Robert Wilkie introduces the new VA<span/>.gov website | https://www.youtube.com/watch?v=DEfRlL63nCg                                                                               |
-| 2018&nbsp;October  | VA<span/>.gov relaunches as front door to benefits, services                    | https://fcw.com/articles/2018/10/02/redesigned-va-site-sammie.aspx                                                        |
-| 2018&nbsp;August   | The Importance of Product Management in Government                              | https://medium.com/the-u-s-digital-service/the-importance-of-product-management-in-government-b59933d01874                |
-| 2017&nbsp;Fall     | Simplifying Veteran-facing Services through Vets<span/>.gov                     | https://www.usds.gov/report-to-congress/2017/fall/vets-dot-gov                                                            |
-| 2017&nbsp;June     | Vets<span/>.gov: A Modern Software Development Environment in Government        | https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a  |
-| 2017&nbsp;June     | Building Forms Faster on Vets<span/>.gov                                        | https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db                                  |
+For a timeline of important VA decisions and changes, check out the following [document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/VSA_Timeline)
 
 ## Main Repositories
 
