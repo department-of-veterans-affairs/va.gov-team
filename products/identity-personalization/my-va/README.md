@@ -37,7 +37,7 @@ When Veterans log into VA.gov, [they expect to be met with an experience that re
 
 ## Opportunities & Priorities
 
-We can fix this by providing veterans with an action-focused personalized landing page when they are logged in to VA.gov. This landing page should do the following (in priority order):
+My VA prioritizes the following:
 
 ### Top priority: Elevate action items 
 
@@ -108,87 +108,19 @@ _Why would your business want this to exist?_
  
 ## Measuring Success
 
-### Really, really long term goals for My VA (10,000 foot view: Multi-year)
-
-To inform our more immediate objectives with My VA in 2021, including the 2.0 launch, we need to keep in mind where we hope My VA will go over time. In the longer term, we’d like My VA to:
-
--	Be in such great shape that it can replace the homepage as a logged-in user’s main starting point/anchor.
--	Become a one-stop shop for users’ benefit-related action items, benefit status, and suggestions on how to get more out of their benefits.
--	Become a place where users can complete quick tasks related their benefits.
-
-### What we can do in the next year to move towards the big, long term goals (1,000 foot view: All of 2021)
-
-This year, we are not going to get My VA to a place where it can replace the homepage for logged-in users, nor is our immediate goal to allow for task completion on My VA, which would require a more mature page than we’re starting with.
-
-However, we can make moves on moving My VA towards the one-stop shop for action items and benefit status by updating My VA so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.
-
-### What we can do in the next  1- 2 quarters (100 foot view: Q2 – Q3 2021)
-
-[My VA 2.0 Dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/)
-
-**Objective: Update My VA so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks.**
-
-**Key Result #1** — Usage: Increase % of logged-in users visiting My VA from 6% pre-My VA 2.0 to 8% post-My VA 2.0 by Q3.
-
-[My VA vs. Homepage Usage Report for Logged-in Users: Apr – June 2021](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20210401&_u.date01=20210630&_.useg=builtin1,useroZx0HcxxRpWtuNYX7IFkHA,userTBuj9_dPSF-sBQQO9Srv-g/)
-
-|KPI/metric|Baseline: Q1 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
-|----------|-------------|---------------|-------------------|
-|% of logged-in users who visit My VA| 7%|7%|7%|
-|% of logged-in users interact with the homepage| 16% |16%|13%|
-
-Additionally, we want to see if adding a My VA link to the unauth nav impacts traffic to the page. So, as part of evaluating this KR, we want to add tracking to the new My VA link to the unauth nav.
-[Top Events - Unauthenticated Clicks to My VA](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_.useg=builtin1,userBgZiUrK9Sieg7jBAnx44OQ&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.filter=Navigation%20-%20Header%20-%20My%20VA/)
-
-**Key result #2** — Interaction: Increase overall clicks into claims, messages, appointment, and prescription CTAs. 
-
-[My VA Interactions Report: Apr - June 2021](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20210401&_u.date01=20210630&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
-
-[My VA Interactions Report: July - Sept 2021](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20210701&_u.date01=20210930/)
-
-[My VA Interactions Report: Oct - Dec 2021](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/_u.date00=20211001&_u.date01=20211229/)
-
-|KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
-|----------|-------------|---------------|-------------------|
-|Clicks into individual claims ("view claim")| ~124K clicks|~205k|~241k|
-|Clicks to view all claims ("Manage all your claims and appeals")| ~78K|~192k|~180k|
-|Clicks to view all appointments ("Schedule and view your appointments")| ~17K|~42k|~38k|
-|Clicks to view all messages ("You have n unread messages")| ~28K|~49k|~48k|
-|Clicks to view all prescriptions ("Refill and track your prescriptions")|~20K|~40k|~33k|
-
-**Key result #3** — Findability: Reduce search incidents for features that exist on My VA. None of the features on the page should be in the top 20 search terms for searches generate from My VA.
-
-[My VA Search Report: April – June 2021](https://analytics.google.com/analytics/web/#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20210401&_u.date01=20210630&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fmy-va~2F/)
-
-|KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
-|----------|-------------|---------------|-------------------|
-|Search rank for "disability rating” from My VA| #5|#24|#36|
-|Search rank for "rating” from My VA| #6|#25|#37|
-|Search rank for "disability” from My VA| #10|#39|#88|
-|Search rank for "claim” or "claims" from My VA| #16|#32|#34|
-
-This may also have an impact on [overall searches on VA.gov for logged in users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=user8twPUpCZT8qMEc9RwdXoUg/).
-
-|KPI/metric|Baseline: Q2 Apr - June 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
-|----------|-------------|---------------|-------------------|
-|Logged-in search rank for "disability rating” on all VA.gov| #7 & #12|#8 & #27|#32 & 37|
-|Logged-in search rank for "rating” on all VA.gov| #6 & 10|#13 & #15|#17 & #38|
-|Logged-in search rank for "disability” on all VA.gov| #19|#32 & #70|#66|
-
-**Key result #4** — Satisfaction: Increased user satisfaction score for My VA from 3.2 to 3.7 in ForeSee.
-
-[My VA Foresee Report](https://cxsuite.foresee.com/client/projects/76647/analytics/respondents)
-
-|KPI/metric|Baseline: Q1 Jan - March 2021|Post-launch: Q3 July - September 2021| Post-launch: Q4 October - December 2021|
-|----------|-------------|---------------|-------------------|
-|My VA Average ForeSee score| 3.2| TBD | TBD|
+- [Metrics for My VA redesing, Q2 - Q4 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md#okrs--kpis)
+- [Metrics for adding payment and debt information, still TBD](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success)
 
 ## Solution Narrative
 
 ### Initiatives
 
--	[The My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md) is set to launch June 2021.
--	Discovery on [how to elevate action items](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#readme) is set to begin May 2021. 
+|Project|Status|
+|----|----|
+|[Adding payment & debt information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#readme)| QA/Pre-launch|
+|[Action items discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/action-items-discovery#project-outline-action-items-discovery)|Completed August 2021|
+|[My VA 2.0 redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Launch completed July 2021 |
+|[Dashboard/Profile/Account MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp) | Launch completed Spring 2018 |
 
 ### Key Decisions
 
