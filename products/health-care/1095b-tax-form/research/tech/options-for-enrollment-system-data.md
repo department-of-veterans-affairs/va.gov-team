@@ -55,7 +55,9 @@ Below are our current potential options for accessing and serving enrollment sys
   - Does an API or API endpoint exist for Enrollment System data?
     - If yes, can we get access?
     - What is the process and timeframe for gaining access?
-- How good is the connectivity to the API (if it does exist) 
+  - How good is the connectivity to the API (if it does exist) 
+  - Are there any existing teams/codebases/systems/repos that are integrating vets-api with the Enrollment System?* 
+  
 ## Option 2A: Batch Data Export to DB
 - **Description:**
   - A [batch job](https://www.techopedia.com/definition/28727/batch-job-sap) runs within the Enrollment System to put the needed enrollment data into a flat file (csv or similar) in [AWS S3](https://aws.amazon.com/s3/), then a script inserts that data into a database table (i.e. [AWS Aurora PGSQL](https://aws.amazon.com/rds/aurora/?aurora-whats-new.sort-by=item.additionalFields.postDateTime&aurora-whats-new.sort-order=desc)). The VETS-API controller required can be built on a standard [‘CRUD’](https://www.sumologic.com/glossary/crud/) model/controller in [Rails](https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/).
@@ -81,6 +83,7 @@ Below are our current potential options for accessing and serving enrollment sys
   - Is S3 a viable option? 
      - If yes, are there security risks associated with using S3?
      - Does the VA have any reservations or restrictions regarding using S3?
+   - Do we have a team working in the Enrollment System that can get the batch script imported?* 
 
 ## Option 2B: Batch Data Export to Flat File
 - **Description:**
@@ -103,6 +106,7 @@ Below are our current potential options for accessing and serving enrollment sys
   - Is using a flat file in S3 a viable option? 
      - If yes, what are the security risks associated with this option?
      - Does the VA have any reservations or restrictions regarding using flat files in S3?
+   -  What barriers are there to spinning up an S3 bucket or database?* 
 
 ## Option 3: Manual Export to S3
 - **Description:**
@@ -148,7 +152,9 @@ Below are our current potential options for accessing and serving enrollment sys
   - If there is no way to directly query the Enrollment System for PDF's, we would still need a batch script to upload the PDF's to an S3 bucket or something of the sort.
 
 - **Open Questions:**
-  - Can we query the Enrollment System for a specific PDF based on a unique Veteran ID?
+  - Can we query the Enrollment System for a specific PDF based on a unique Veteran ID?* 
+  - Alternatively, is there a naming convention we could use to identify the right PDF corresponding to veteran?*
+  - How difficult is it to get all the PDF's into an S3 bucket (if we cannot query the Enrollment System directly)* 
   - How long does it take to receive PDF's from the print vendor and store in the Enrollment System?
     - Is this length of time short enough that we can use those generated PDF's in time for tax season so Veterans can access the form in a timely manner?
 
