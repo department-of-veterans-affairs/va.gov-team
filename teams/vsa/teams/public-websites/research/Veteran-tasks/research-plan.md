@@ -10,25 +10,25 @@ This research supports the following [OCTO objectives](https://github.com/depart
 - Increase the usage and throughput of VA services
 
 ### Veteran Journey
-Outreach & Events fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) when Veterans find VA events to attend throughout 
+Veteran tasks fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) throughout 
 - Starting up (Serving in and separating from the military)
 - Living civilian life 
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify which Veteran top tasks are for use in future user research and product design on VA.gov. 
+The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of 40+ tasks.
 
 ### Outcome
-We will consider findings and recommendations from this research to refine our designs before launch.
+The Veteran top tasks that we identify can be used in future user research studies and design efforts on VA.gov. 
 
 ### Research questions
-1. 
+1. When Veterans visit VA.gov, what tasks are most important to them? 
 
 ### Hypotheses
 
 
 ## Method	
-We will conduct remote moderated usability research sessions via Zoom. 
+Starting from a list of about 40 tasks compiled from the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category. We would like to get sorting data from at least 30 Veterans, with about 20 unmoderated and about 10 moderated (in order to also get qualitative data about the activity) via Zoom.
 
 ### Research materials
 - [Link to conversation guide]
