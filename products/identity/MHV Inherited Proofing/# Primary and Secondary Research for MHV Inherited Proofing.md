@@ -158,10 +158,10 @@ ___
 
 ### Key Findings
 
-- _**there are no defined rules for the use of modal overlays, just a number of recommendations and guidelines**_
-- **Modals Help Us Not to Lose Context**
+1. _**there are no defined rules for the use of modal overlays, just a number of recommendations and guidelines**_
+2. **Modals Help Us Not to Lose Context**
     - Modal screens require to change focus, are self contained, and must be interacted with before moving to the next task
-- This is a template the article recommends: _I recommend using the following template to record your answers to each question as you progress through the flowchart:_
+3. This is a template the article recommends: _I recommend using the following template to record your answers to each question as you progress through the flowchart:_
     - [Template created as a google doc:](https://docs.google.com/spreadsheets/d1fZhXsV-IFWM0ZuMLLc8gG1BXqeQxFkCoYvSJt0gl2II/edit?usp=sharing)
         - A large flowchart with multiple sections comprised of multiple questions.
 ___
