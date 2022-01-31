@@ -113,30 +113,14 @@ DSVA Channels:
 | :------------------------- | :------------------------------------------ |
 | [#general](https://dsva.slack.com/channels/general)                         | This channel is for team-wide communication and announcements. All team members are in this channel. |
 | [#va-onboarding-help](https://dsva.slack.com/channels/va-onboarding-help)   | VA-specific onboarding help for CAG, GFE, ePAS, and VA email |
-| [#forms-library](https://dsva.slack.com/channels/forms-library)             | A channel to chat about the VA Form library |
-| [#random](https://dsva.slack.com/channels/random)                           | A place to share random information |
 | [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             | Weekly Team of Teams slides are here |
 | [#vfs-backend](https://dsva.slack.com/channels/vfs-backend)               | Backend Developers, Technical               |
 | [#vfs-engineers](https://dsva.slack.com/channels/vfs-engineers)             | Jenkins deploy, VSP announcements           |
 | [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend)              | Frontend Developers, Technical              |
 | [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help). Developers spend a lot of time here.|
 | [#vsa](https://dsva.slack.com/channels/vsa)                       | VSA all teams and practice areas            |
-| [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
-| [#vsa-debt](https://dsva.slack.com/channels/vsa-debt)                 | Team: VSA Debt              |
-| [#vsa-benefits-memorial aka #vsa-claims-appeals](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
-| [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)             | Team: Caregiver                             |
-| [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering) | Team: Caregiver (just devs)                 |
-| [#vsa-ebenefits aka #vsa-ebn-migration](https://dsva.slack.com/channels/vsa-ebenefits)             | Team: eBenefits                             |
 | [#vsa-engineering](https://dsva.slack.com/channels/vsa-engineering)           | VSA Frontend and Backend Engineers          |
-| [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)            | Team: Facilities                            |
-| [#vsa-product](https://dsva.slack.com/channels/vsa-product)               | VSA Product Collaboration (PMs, etc)        |
-| [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)       | Team: Public Websites                       |
-| [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)          | Team: Medical Center                        |
-| [#vsa-clipboard](https://dsva.slack.com/channels/vsa-clipboard)             | Team: Healthcare                            |
-| [#vsa-clipboard-tech-questions](https://dsva.slack.com/channels/vsa-clipboard-tech-questions) | Team: Healthcare (just devs/technical) |
-| [#va-search](https://dsva.slack.com/channels/va-search) | Team: Search and Discovery |
-| [#vsa-content-localization](https://dsva.slack.com/channels/vsa-content-localization) | Team: Translation |
-| [#vsa-decision-tools](https://dsva.slack.com/channels/vsa-decision-tools) | Team: Decision Tools |
+
 ## Zoom Meetings
 Note: The Zoom Basic plan has a 40-minute time limit on meetings with 3 or more participants.
 - [https://zoom.us/](https://zoom.us/)
