@@ -20,8 +20,11 @@
 
 #### Open questions
 - Is there an automatic approval?
+    - Meeting on Jan 24, 2022 - No, not really. Inferred issue cases are where VSE gives entitlement before an application is received, but they still need an application. No case where user would come to form and see that they've already been approved before filling out app.
 - What are the exceptions and edge cases?
+    - Meeting on Jan 24, 2022 - assumption is that all of our veterans own the property, might want to include language about home ownership. Can we incorporate that into an eligibility "wizard" (wizards are being retired, but something to check), maybe map to the "remarks" section.
 - There is one application for both SAH and SHA, but no way for the veteran to select one. Is that determined by the reviewer? If not, what do we need to know up front?
+    - Meeting on Jan 24, 2022 - Same application for both; team makes determination on which is approved based on medical diagnosis
 - On the three conditional questions, we have free-form responses to enter dates and addresses - what does the back end need/accept here? Do users ever need to enter more than one previous address?
     - Meeting on Jan 12, 2022 - We will include dates and address fields, but these will NOT be required. 
 - For the current condition question, what is expected?
@@ -29,6 +32,7 @@
 - What is the timeline for approvals? (When should the Veteran return to check status or follow up?)
     - Meeting on Jan 12, 2022 - possibly 90 days now, Oscar to follow up 
 - What is the approval artifact? Independent View page? Link in my VA?
+    - Meeting on Jan 24, 2022 - If they are entitled, team gets notification to proceed. Can we pick up a pending status to display to user?; have about a 15-20% approval rate, maybe 6000-7000 applications per year. Some people are not applying, they are being referred through hospital visits
 - There is an appeals check link that looks like it goes to the overall claim or appeals status tool.  What do we need to know about appeals on this benefit?
 
 
