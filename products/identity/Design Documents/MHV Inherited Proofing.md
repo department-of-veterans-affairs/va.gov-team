@@ -5,9 +5,20 @@ The solution will enable veterans who have already completed the MHV in person v
 
 ## Questions & Decisions
  1. A person should not be able to assume the verified identity of a person simply by clicking on a link in an email.
-    - This will be accomplished by login.gov ensuring there is a valid login.gov session after the user clicks on the email link. If the user does not ahve a valid sesion (by checking the cookies in the browser), they will be redirected back to va.gov to create/validate the current MHV session, then back to login.gov where the user will then be asked to login with their login.gov account. Once these two actions are completed successfully then the user can proceed with the inherited proofing process.
+    - An additional check is performed called `phone finder` which matches phone data to the data known about an individual from va.gov. Va.gov will store the data from the saml headers and MPI response and pass this along to login.gov through a JWT. Login.gov will then compare the information from the various sources to ensure they match. Thus ensuring the person who has clicked on the "verify email link" is the same person as the one that va.gov has sent to login.gov to complete the inherited proofing process.
 2. If a user opens a new browser window after clicking on the email link from login.gov, how does login.gov know its still the same person that initiated the process.
-   - 
+   - va.gov will send login.gov an auth code during the initial redirect from va.gov over to login.gov. Login.gov will store this auth code along with the users current session identifier. After the user has clicked on the "verify email link" login.gov will check the users session id and perform a lookup to see if there is a stored auth code. If there isn't it would infer that the user who clicked on the initial va.gov link isnt the same person as the one who clicked on the "verify email link".
+3. login.gov will not ask veteran for consent to ask va.gov for mhv user attributes.
+   - Va.gov will ask the Veteran for consent to send the attributes to login.gov before we forward the user along to login.gov. At this moment of consent being authorized by the Veteran, we will run an additional MHV eligible check as well as generate the auth code to be used in the redirect url to login.gov
+5. How will MHV tell us if an account that was eligible and is no longer eligible.
+   - we will re-check the eligibility upon the time of generating the auth code (that we send to login.gov). MHV cannot otherwise inform va.gov.
+6. If a user ends up on login.gov with an already verified account then they should send the user back to va.gov with a specific response code.
+   - not verified as being able to do this from login.gov as of 31JAN22
+
+
+Diagram as of 31JAN22:
+![MHV Account Transition Frontend - v2 (1)](https://user-images.githubusercontent.com/71290526/151864066-5788ae99-ff59-45c8-87eb-950caf41f09c.png)
+
 
 
 
