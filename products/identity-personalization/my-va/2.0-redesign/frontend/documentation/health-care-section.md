@@ -9,15 +9,15 @@
 
 ## When to show the health care section
 
-**Show**
+#### Show
 
 - Someone is enrolled in VA health care.
 
-**Do not show**
+#### Do not show
 
 - Someone is NOT enrolled in VA health care.
 
-**Error state: We can't connect to the health care endpoint**
+#### Error state: We can't connect to the health care endpoint
 
 If we can not detect whether someone has health care or not because we can't connect to the endpoint, we will show an error at the top of the page and not load th health care section.
 
