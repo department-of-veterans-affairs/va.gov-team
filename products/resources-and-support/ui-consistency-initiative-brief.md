@@ -17,7 +17,7 @@
 
 ## Outcome Summary
 > *Completing this project will align the style of the R&S Articles with the other pages/articles on VA.gov*
-* Approximately 70 articles on R&S will be updated with this effort*
+* Approximately 70 articles are published and 68 are unpublished on R&S will be updated with this effort*
 * Going forward this will be the standard style utilized for any new R&S articles*
 
 **Related/Associated product(s)**
@@ -79,8 +79,8 @@ https://github.com/department-of-veterans-affairs/content-build/blob/master/src/
 - The templates themselves will not need to change. The design elements can be applied to each of the R&S Articles. We should however test a few before we change all forms. 
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Proposal to test 5-10 articles of the 70 before the overall change is made. 
-  -
+  - Proposal to test 5-10 articles of the articles before the overall change is made. 
+  - Unpublished articles will also need updated
 ### Prioritization
 > *Describe how the team will consider competing solution hypotheses/ideas. Prioritize them accounting for reach, impact/value, effort, and confidence.*
 
