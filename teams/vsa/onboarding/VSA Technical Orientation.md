@@ -176,22 +176,17 @@ https://outlook.office.com/calendar
 - **GitHub: VA<span/>.gov | Private Repo | DEVOPS** \
   https://github.com/department-of-veterans-affairs/devops
 
-## GitHub Links
-
-- **GitHub: VA.gov Documentation** \
-  https://department-of-veterans-affairs.github.io/va.gov-team \
-  VSP's knowledge hub (quick links page) for building on VA.gov.
-  Go here first to navigate our documentation.
+## Links
 
 - **GitHub: VA<span/>.gov | Client App Doc | Main** \
   https://department-of-veterans-affairs.github.io/veteran-facing-services-tools
 
-- **GitHub: VA<span/>.gov | Client App Doc | Set up Locally** \
-  https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started \
+- ** Setting up your local env** 
+  \https://depo-platform-documentation.scrollhelp.site/developer-docs/Setting-up-your-local-frontend-environment.1844215878.html
   Start here to learn how to set up your local vets-website and vets-api development environments.
 
-- **GitHub: VA<span/>.gov | Client App Doc | Run Locally** \
-  https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/run-build \
+- **Running Va.gov locally** \
+  https://depo-platform-documentation.scrollhelp.site/developer-docs/Running-VA.gov-locally.1844248620.html
   Continue here to run them locally.
 
 - **GitHub: VA<span/>.gov | Client App Doc | Forms System** \
