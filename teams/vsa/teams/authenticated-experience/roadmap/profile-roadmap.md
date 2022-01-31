@@ -1,6 +1,6 @@
 # VA.gov profile roadmap
 
-**Updated January, 29 2022**
+**Updated January 29, 2022**
 
 ## Current projects & enhancements
 
