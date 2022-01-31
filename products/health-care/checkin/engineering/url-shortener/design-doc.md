@@ -50,24 +50,24 @@ The system design centers around the ability to configure [redirect locations fo
 
 #### URL Creation
 
-Shortened URLs are created by [invoking a Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html) via [API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html) with the URL to be shortened as the main parameter. The Lambda function generates a short unique identifier and creates an S3 object with a redirect to the provided URL. Finally, the Lambda function returns the shortened URL (e.g. `https://www.va.gov/c/abcdef`) to the API consumer.
+Shortened URLs are created by [invoking a Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html) via [API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html) with the URL to be shortened as the main parameter. The Lambda function generates a short unique identifier and creates a DynamoDB table item with the id, provided URL and creation & expiration dates. Finally, the Lambda function returns the shortened URL (e.g. `https://www.va.gov/c/abcdef`) to the API consumer.
 
-![Short URL Creation](https://user-images.githubusercontent.com/101649/148139300-06bcbab8-d74c-4e07-a04b-1136c923b577.png)
+![Short URL Creation](https://user-images.githubusercontent.com/101649/151886705-73118e74-64a2-4b67-9132-085e50398b1b.png)
 ([UML Source](create_short_url.txt))
 
 #### URL Serving
 
-When a veteran visits a shortened URL such as `https://www.va.gov/c/abcdef,` the [VA.gov reverse proxy](https://vfs.atlassian.net/wiki/spaces/OT/pages/1474594232/Reverse+Proxy) forwards the request to the [web-hosting enabled S3 bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) with the same object identifier, e.g.:
+When a veteran visits a shortened URL such as `https://www.va.gov/c/abcdef,` the [VA.gov reverse proxy](https://vfs.atlassian.net/wiki/spaces/OT/pages/1474594232/Reverse+Proxy) forwards the request to the Lambda endpoint with the same object identifier as a URL parameter, e.g.:
 
 
 ```
-https://va-url-shortener.s3-us-gov-west-1.amazonaws.com/abcdef
+https://vpce-{vpce-id}.execute-api.us-gov-west-1.vpce.amazonaws.com/{stage}/shorts-urls/abcdef
 ```
 
 
-The S3 service will then serve a 301 redirect to the full URL.
+The Lambda endpoint will then serve a 301 redirect to the full URL.
 
-![Short URL Serving](https://user-images.githubusercontent.com/101649/148139319-86cdb2ea-59c0-4d40-a567-5dddfed52cbd.png)
+![Short URL Serving](https://user-images.githubusercontent.com/101649/151888006-4ac21b84-ce0a-4907-9a55-c211ca3f1240.png)
 ([UML Source](serve_short_url.txt))
 
 
@@ -114,33 +114,22 @@ The hostname from the incoming URL should be checked against a configurable allo
 
 #### Short URL Serving
 
-The VA.gov reverse proxy should be configured to pass through all requests for `https://www.va.gov/u/{id}` to `https://{S3 bucket URL}/{id}.` 
+The VA.gov reverse proxy should be configured to pass through all requests for `https://www.va.gov/u/{id}` to `https://{vpce endpoint URL}/{stage}/short-urls/{id}.` 
 
 
-##### S3 Objects
+##### DynamoDB Table items
 
-* Path: will serve as the short URL ID and path
-* File: file content, will be left empty
-* `x-amz-website-redirect-location:` The long URL
-* `x-amz-meta-expires-after: `Requested expiration date (ISO8601 format)
-* `tagging:` Added by the Lambda function to implement expiration, see the Object Expiration section for more information.
+* id: will serve as the short URL ID and path
+* longUrl: The long URL
+* createdDt: The date of creation (ISO8601 format)
+* expiresDt: Requested expiration date (Unix timestamp, set as [DynamoDB TTL attribute](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html))
 
-([S3 Object creation documentation](https://docs.aws.amazon.com/AmazonS3/latest/API/RESTObjectPOST.html))
+([DynamoDB Item creation documentation](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html))
 
 
 ##### Object Expiration
 
-In order to limit object hosting costs and avoid storing irrelevant short URLs, S3 objects should be removed once they are no longer necessary. AWS does not directly support setting an expiration date on individual objects, but [LifecycleConfiguration rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/intro-lifecycle-rules.html) can be configured to enforce differing object lifetimes based on object tags. There will necessarily be limited granularity, since the number of rules that may be created is limited. (The current limit is 1000 rules) The lambda function will assign a `Expires-After-Days `object tag (which do not incur additional cost when added during object creation) with a value from the following list based on the requested expiration date. (Ensuring that the object will be expired only after the requested expiration date)
-
-
-
-* 30 (Object storage is billed for a minimum of 30 days)
-* 60
-* 180
-* 366
-* 1000
-
-Objects without an assigned tag will be assumed to be permanent. Separately, an [S3 batch operation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops.html) may be created to be run periodically, check that objects redirect to valid URLs, and remove them if not.
+In order to limit object hosting costs and avoid storing irrelevant short URLs, DynamoDB Table Items should be removed once they are no longer necessary. This will be done automatically by using [DynamoDB's TTL functionality to automatically expire items](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html).
 
 ##### Indexing / Analytics
 
@@ -149,7 +138,7 @@ Objects without an assigned tag will be assumed to be permanent. Separately, an 
 
 ### Code Location
 
-Infrastructure configuration, including S3 bucket & API Gateway configurations:
+Infrastructure configuration, including DynamoDB Table & API Gateway configurations:
 
 [https://github.com/department-of-veterans-affairs/chip/tree/master/infra](https://github.com/department-of-veterans-affairs/chip/tree/master/infra)
 
@@ -164,14 +153,12 @@ Shortener Lambda function:
 
 * Lambda function should have 90%+ unit test coverage
 * Load testing should be performed at 2X the expected combined usage rate for pre-checkin + check-in in order to ensure that [AWS Service Quotas](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html) do not need to increased and that no other performance issues are encountered.
-* A backlog issue should be created to confirm that objects are correctly expired after 30 days have passed.
+* A backlog issue should be created to confirm that objects are correctly expired after 48 hours have passed.
 
 
 ### Logging
 
 Logging should include at least the following:
-
-
 
 * URL for which a short URL has been requested
 * Expiration date requested
@@ -193,46 +180,13 @@ TBD
 ### Security Concerns
 
 
-<table>
-  <tr>
-   <td><strong>Concern</strong>
-   </td>
-   <td><strong>Resolution</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Redirecting users from trusted to untrusted URLs
-   </td>
-   <td>App will be architected to reject requests to shorten URLs not underneath www.va.gov
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>The S3 bucket where redirection objects are stored will be accessible only on the private network
-   </td>
-  </tr>
-  <tr>
-   <td>Un-trusted/malicious users creating URL redirects
-   </td>
-   <td>No UI will be provided to create URL redirects, only an access-controlled API on the private network
-   </td>
-  </tr>
-  <tr>
-   <td>DoS attacks against API endpoint
-   </td>
-   <td>API endpoint will only be accessible to trusted applications on the private network
-   </td>
-  </tr>
-  <tr>
-   <td>DoS attacks against public URLs under https://www.va.gov/c/
-   </td>
-   <td>Leverage existing DDOS protections for www.va.gov
-   </td>
-  </tr>
-</table>
-
-
+| Concern  | Resolution |
+|------ | -------------- | ------ |
+| Redirecting users from trusted to untrusted URLs  | App will be architected to reject requests to shorten URLs not underneath www.va.gov |
+| | The DynamoDB table where redirection objects are stored will be accessible only on the private network |
+| Un-trusted/malicious users creating URL redirects | No UI will be provided to create URL redirects, only an access-controlled API on the private network |
+| DoS attacks against API endpoint | API endpoint will only be accessible to trusted applications on the private network |
+| DoS attacks against public URLs under https://www.va.gov/c/ | Leverage existing DDOS protections for www.va.gov |
 
 ### Privacy Concerns
 
@@ -284,18 +238,13 @@ TBD
 
 ### Alternatives
 
-
-
-* Using DynamoDB or another database (NoSQL or otherwise) for a backing store was considered. S3 was selected due to its low cost, high reliability, high scalability and built-in ability to provide URL redirection functionality.
-
+* S3 was initially selected as a backing data store. DynamoDB was later selected due to its greater ease of item expiration, flexibility, and ability to easily avoid over-writing items.
 
 ### Future Work
 
-
-
 * Avoid using dictionary words in generated short URL IDs to prevent misleading or offensive URLs being sent to Veterans
 * Provide API to other VA.gov teams
-* Provide UI to allow manual creation of short URLs for  communication campaigns, etc.
+* Provide UI to allow manual creation of short URLs for communication campaigns, etc.
 
 
 ## Revision History
@@ -307,3 +256,4 @@ TBD
 | Jan 5, 2022  | Add links to diagram source files | Adrian Rollett |
 | Jan 7, 2022  | Update link prefix from `/u/` to `/c/` | Adrian Rollett |
 | Jan 13, 2022 | Updated status to Approved (per Stephen Barrs & Shane Elliot) | Adrian Rollett |
+| Jan 31, 2022 | Updated to reflect decision to use DynamoDB as a backing store | Adrian Rollett |
