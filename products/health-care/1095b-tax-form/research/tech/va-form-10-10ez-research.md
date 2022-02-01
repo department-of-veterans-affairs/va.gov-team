@@ -24,10 +24,10 @@ The form consists of the following sections:
 3. [Insurance Information](#iii-insurance-information)
 4. [Dependent Information](#iv-dependent-information)
 5. [Employment Information](#v-employment-information)
-6. [Previous Calendar Year Gross Annual Income of Veteran, Spouse and Dependent Children](#vi-previous-calendar-year-gross-annual-income-of-veteran,-spouse-and-dependent-children)
+6. [Previous Calendar Year Gross Annual Income of Veteran, Spouse and Dependent Children](#vi-previous-calendar-year-gross-annual-income-of-veteran-spouse-and-dependent-children)
 7. [Previous Calendar Year Deductible Expenses](#vii-previous-calendar-year-deductible-expenses)
 8. [Consent to Copays and to Receive Communications](#viii-consent-to-copays-and-to-receive-communications)
-9. [Signature](#xi-signature)
+9. [Signature](#ix-signature)
 
 ## Filling out the Form
 To complete a VA Form 10-10EZ, you will need to provide the following information:
