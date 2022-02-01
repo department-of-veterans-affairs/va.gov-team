@@ -2140,4 +2140,37 @@ TTY: 711
 none
 
 ---
+### VVC Home Booked-Canceled
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+{Canceler} canceled this appointment. If you would like to reschedule, call us or schedule a new appointment online. 
+```
+
+**PAGE CONTENT**
+
+```
+VA Video Connect at home
+
+Provider
+{Provider name}
+```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
 
