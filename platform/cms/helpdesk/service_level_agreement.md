@@ -32,7 +32,7 @@ P3 requests are reserved for issues that involve adding or altering a feature to
 
 # Help Desk Service Hours
 
-Per the contract, the Help Desk will be staffed from 0900 to 1700 EST (0600 to 1400 PST) Monday through Friday.
+Per the contract, the Help Desk will be staffed from 0800 to 2000 EST (0500 to 1700 PST) Monday through Friday.
 
 # Tracking Performance
 
@@ -56,18 +56,18 @@ For urgent and important issues that require immediate attention, the OnCall Sla
 ```
 For context, to mitigate potential issues automated deploys will be suspended.  Engineer-initiated deploys (e.g. to address a critical bug) are not suspended. 
 
-The Help Desk stand down will occur during the following dates for 2021:
+The Help Desk stand down will occur during the following dates for 2022:
 
 | Holiday                      | Observed Date |
 |------------------------------|---------------|
 | New Year's Day               | January 1     |
-| Martin Luther King Jr. Day   | January 18    |
+| Martin Luther King Jr. Day   | January 17    |
 | George Washington's Birthday | February 15   |
-| Memorial Day                 | May 31        |
-| Independence Day             | July 5        |
-| Labor Day                    | September 6   |
-| Columbus Day                 | October 11    |
+| Memorial Day                 | May 30        |
+| Independence Day             | July 4        |
+| Labor Day                    | September 5   |
+| Columbus Day                 | October 10    |
 | Veterans Day                 | November 11   |
-| Thanksgiving Day             | November 25   |
+| Thanksgiving Day             | November 24   |
 | Christmas Day                | December 25   |
 
