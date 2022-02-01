@@ -28,7 +28,11 @@ The Veteran top tasks that we identify can be used in future user research studi
 
 
 ## Method	
-Starting from a list of about 40 tasks compiled from the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category. We would like to get sorting data from at least 30 Veterans, with about 20 unmoderated and about 10 moderated. The moderated sessions are ... (in order to also get qualitative data about the activity) via Zoom.
+Starting from a list of about 40 tasks compiled from the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category. We would like to get sorting data from at least 30 Veterans, with about 20 unmoderated and about 10 moderated (via Zoom). The purpose of the moderated sessions is to hear feedback on the tasks and their importance--more qualitative data than the quantitative data from the card sort activity. 
+
+*Action item:* Review personas and maybe propose for each persona 10 unmoderated, 2-3 moderated.
+
+*Action item:* Need to get access to new VSA account for Optimal Workshop from Shawna.
 
 ### Research materials
 - [Link to conversation guide]
