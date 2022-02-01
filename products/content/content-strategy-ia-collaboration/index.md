@@ -55,7 +55,7 @@ This is an an effort to move us away from the more amporphous "tier 1, tier 2, t
 
 This is the folder for documentation related to the R&S non-OCTO author pilot.
 
-[Resources and Support non-OCTO author pilot foldder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot)
+[Resources and Support non-OCTO author pilot folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot)
 
 ## Other related efforts that we're aware of
 
