@@ -2119,7 +2119,7 @@ n/a
 **PAGE DESCRIPTION**
 
 ```
-{Canceler} canceled this appointment. If you would like to reschedule, call us or schedule a new appointment online. 
+{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online. 
 ```
 
 **PAGE CONTENT**
@@ -2155,7 +2155,7 @@ n/a
 **PAGE DESCRIPTION**
 
 ```
-{Canceler} canceled this appointment. If you would like to reschedule, call us or schedule a new appointment online. 
+{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online. 
 ```
 
 **PAGE CONTENT**
