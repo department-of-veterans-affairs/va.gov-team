@@ -132,8 +132,39 @@ _Why would your business want this to exist?_
 
 ## My VA features
 
-[My VA feature documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/my-va-UX-feature-documentation.md)
- 
+### "Nametag"
+
+- The nametag pulls in someone's full name as well as military branch and disability rating, if applicable.
+- **Backend system**: MPI for full name; eMIS for military information.
+
+### Disability rating
+
+- The disability rating is part of the nametag. We currently show percentage of service connected disability.
+- **Parent tool**: [View your VA disability ratings](https://staging.va.gov/disability/view-disability-rating/)
+
+### Claim status
+
+- This shows someone's most recent claim status update in the last 30 days and links off to the claim and the claim status tool.
+- If someone has never filed a claim or has zero open claims, this section does not show.
+- **Parent tool**: [Claim status](https://staging.va.gov/track-claims/your-claims)
+
+### Health care
+
+- This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
+- **Parent tools**: {VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; MyHealtheVet for everything else
+
+### Benefit payments and debts (staging only)
+
+- This section shows someone's most recent payment within the last 30 days if they have one. It also shows outstanding debt information if they have any debt.
+- There is also a link to update direct deposit information.
+- **Parent tools**: [View payment history](https://staging.va.gov/va-payment-history/payments/) for benefit payments; [Debt management tool](https://staging.va.gov/manage-va-debt/your-debt/) for debts
+
+### Apply for benefits
+
+- This section shows any benefit applications that have been started but not yet submitted on VA.gov.
+- This section also shows prompts to apply for VA health care, disability benefits, and education benefits to all users.
+- **Parent tools**: All benefit applications on VA.gov
+
 ## Screenshots
 
 ### Version 1.0
