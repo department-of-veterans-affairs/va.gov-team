@@ -390,6 +390,12 @@ Continue discovery
 
 ## Sprint 67 (2/9 - 2/22)
 
+### Personal information updates
+
+**Design**
+
+- Update interaction design for text box input ("A [field] not listed here" options)
+
 ## Sprint 68 (2/23 - 3/8)
 
 ## Sprint 69 (3/9 - 3/22)
