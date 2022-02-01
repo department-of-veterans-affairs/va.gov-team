@@ -19,7 +19,7 @@ _Note: This document is a work in progress_
 
 ## Components of a VA Form 10-10EZ
 The form consists of the following sections:
-1. [General information](#i.-general-information)
+1. [General information](#i-general-information)
 2. [Military Service Information](#ii.-military-service-information)
 3. [Insurance Information](#iii.-insurance-information)
 4. [Dependent Information](#iv.-dependent-information)
