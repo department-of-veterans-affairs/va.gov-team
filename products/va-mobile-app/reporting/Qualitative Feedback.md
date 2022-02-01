@@ -5,6 +5,9 @@ Comments and info from various sources (newest comments towards the top of each 
 
 ## General
 
+- 01/28/22: "To think of the many outdated programs used by the government, this app has been by far the BEST thing the VA could have created for veterans. Whatever team decided to come up with this app, in addition to the programming team that designed it needs more than a raise, praise and accolades!! I make it my duty to recommend this app to EVERY vet that I know!! Thank you!" (Apple store review)
+
+- 01/27/22: "So much better than the website and much easier to use!" (Apple store review)
 
 - 01/21/22: "Very easy to use all your info is in one place. Highy recommend this app to all Veterans. Work smarter not harder. Why wait for results when you can just log in and see everything immediately. A++++" (Apple store review)
 
@@ -93,6 +96,8 @@ Definitely a great feeling to have users sing the praises of your products to th
 
 
 ## Rx Refill
+
+- 01/26/22: "I have found this app to be easy to navigate, and it contains some of the most important information that a veteran needs at a moment's notice. Just wish it had the option of pharmacy refills." (Apple store review)
 
 - 12/19/21: "Overall the app looks nice and navigates well. I agree with some of the other feedback about moving the log out button to the home page and having the integration of the Rx refill app that already exists. Another good upgrade would be have the ability to do travel pay claims in the app." (Google play store review)
 
