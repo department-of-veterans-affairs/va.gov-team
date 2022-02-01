@@ -1,10 +1,11 @@
 # Conversation Guide: Harassment Reporting--Static Landing Page & Poster
 
 ## ACTION ITEMS: 
-- Reach out to the mental health group and Veteran Crisis Line (VCL) about how we're sharing VCL info because they're sensitive about their info and how it's used/presented (according to Danielle Thierry). 
-  - Brian/Dave can help with VCL contact. 
-  - Danielle can help with the Office of Mental Health and Suicide Prevention.
-- Get an appropriate phone number for reporting harassment for here and on the poster.
+- Reach out to the mental health group and Veteran Crisis Line (VCL) about how we're sharing VCL info because they're sensitive about their info and how it's used/presented (according to Danielle Thierry)
+  - Brian/Dave can help with VCL contact
+  - Danielle can help with the Office of Mental Health and Suicide Prevention
+- Get an appropriate phone number for reporting harassment for here (at the end of the session) and on the poster
+- Review landing page on Staging & get URL that works on desktop and mobile
 
 ## Moderator logistics
 
@@ -38,7 +39,7 @@ Thank you for joining us today! My name is Cindy. How are you doing today?
 
 Before we begin, I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information.
 
-I'm also joined by my social work colleague, [Name]. If you need support at any time during this call, please feel free to ask me to stop and for [Name] to help answer questions or provide support. I may also ask [Name] to help provide support if needed.
+I'm also joined by my social work colleague, *[Name]*. If you need support at any time during this call, please feel free to ask me to stop and for *[Name]* to help answer questions or provide support. I may also ask *[Name]* to help provide support if needed.
 
 Before we continue, I'd like to tell you a little more about who I am and what we’re doing...
 
@@ -65,7 +66,7 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
     - *(if text)* What is your mobile phone number?
     
 - **Are you comfortable if I record my screen and audio as we talk today?** I use the recording to confirm that we have captured your opinions accurately, and I will delete the recording after I complete analysis. We respect your need for confidentiality--we won’t link anything you choose to share in the session to your name or any information that could identify you.
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+    - *If yes:* **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording to the cloud.*
 
@@ -112,7 +113,7 @@ Thank you! We very much appreciate you talking with us today. Before we start, I
   - Is this not a good time for this session?
 
 *Social worker/clinician on the session (or on standby) jumps in to provide support, if needed. Could SAY:* 
-- As a reminder, [name] is a professional here to support you.
+- As a reminder, *[Name]* is a professional here to support you.
 
 *If I feel teary or emotional, turn off my camera and/or say* "I need to step away for a moment".
 
@@ -180,9 +181,6 @@ Do you see the link?
   - What other thoughts do you have about this page?
   - Feedback on the information in it?
   - Feedback on how the information is organized?
-
-### *[Any other ideas for tasks??]*
-
 
 ## Post-Task Interview - 15 minutes
 - What thoughts do you have about what you've reviewed today?
