@@ -27,7 +27,7 @@ None
 
 </details>
 
-## Wednesday, January 19, 2021 
+## Wednesday, February 2, 2021 
 
 ### Key Grooming Factors:
 1. Breakdown User Stories into smaller tasks.
@@ -35,17 +35,14 @@ None
 3. Determine / Validate definition of DONE. 
 
 ### Backlog Tickets:
-
-- [ ] Staging Review [Public Websites - Outreach & Events MVP] [#34622](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34622) 
-- [ ] [FE Bug] O&E - Event-detail page - Content/styling/functional anomalies [#35392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35392) 
-- [ ] Error Message Index available in error message directory [#35506](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35506) 
 - [ ] [SCREENREADER] Static templates shouldn't end main content container early [#33459](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33459)
-- [ ] [FE] Claim Status Tool React App Build (Sitewide Team) [#35382](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35382)
+- [ ] [Discovery] 404 page content, accessibility and design [#31208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31208) 
+- [ ] Fix all named exports from JSON modules [#32131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32131) 
 
 ### Clarity Requests: 
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
-### Dad Joke: How does the moon cut his hair? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
+### Dad Joke: Why did the Clydesdale give the pony a glass of water? [Answer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Grooming.md#dad-joke-answers)
 
 <details><summary>Past Grooming Sessions</summary>
 
@@ -842,6 +839,6 @@ Notes/Next Steps:
 - @team - None this session.  Please add these ahead of the grooming session in support, would like to review and discuss as a team while in session.  
 
 ### Dad Joke Answers: 
-Eclipse it :}.
+Becuase he was a little horse :}.
 
 </details>
