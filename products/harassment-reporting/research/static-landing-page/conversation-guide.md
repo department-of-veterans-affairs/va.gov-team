@@ -1,4 +1,11 @@
 # Conversation Guide: Harassment Reporting--Static Landing Page & Poster
+
+## ACTION ITEMS: 
+- Reach out to the mental health group and Veteran Crisis Line (VCL) about how we're sharing VCL info because they're sensitive about their info and how it's used/presented (according to Danielle Thierry). 
+  - Brian/Dave can help with VCL contact. 
+  - Danielle can help with the Office of Mental Health and Suicide Prevention.
+- Get an appropriate phone number for reporting harassment for here and on the poster.
+
 ## Moderator logistics
 
 *Review participant list for participant name and screener question responses*
@@ -188,15 +195,15 @@ Do you see the link?
 
 - What would you like to *change* about what you've reviewed today?
 
-- We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
-  - Have you or anyone you know ever been made to feel uncomfortable by someone else at the VA while applying for, using, or communicating about your VA benefits--in person, over the phone, or in email or text? This might be catcalling, negative comments about gender, race, ethnicity, or sexual orientation, or unwanted attention or gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
+- We would like the harassment reporting resources to meet the needs of ALL Veterans who may have been harassed at a VA site. If you've ever experienced any type of harassment at VA, and are willing to share, we would like to know a little more about your experiences. I'm not asking for details, and I don't want you to re-live these difficult experiences. Your feedback today has been valuable, even if you decide to not answer the questions I'm about to ask. If you share anything about your experiences or someone else's with me, what you say will remain confidential. 
+  - Have you or anyone you know ever been made to feel uncomfortable by someone else at VA while applying for, using, or communicating about your VA benefits or health care? This could be in person, over the phone, or in an email or text message. And it could be a range of things, like someone whistling or making sexual comments, making negative comments about gender, race, ethnicity, or sexual orientation, giving unwanted attention, or making inappropriate gestures. You don't need to share any details, you can stop at any time, or you could skip this question. *(yes / no / decline to answer)* 
   - If you or your friend was harassed, was it reported?
   - If so, *how* was it reported? *(phone call / in person / ___________)*
   - If it wasn't reported, what were the barriers to reporting it?
   - How would you prefer to report any future harassment? *(phone call / in person / online somehow / _______________)*
   
 *(If they share anything about a harassment experience, say...)*
-- I am sorry you (or your friend) had this experience. We appreciate you. Your story will inform how we provide resources to help Veterans in the future. 
+- I am sorry you (or your friend) had this experience. We appreciate you sharing this with us. Your story will inform how we provide resources to help Veterans in the future. 
 - If you (or your friend) want to report your experience with harassment, that can be done in person at the VA site or by calling XXX-XXX-XXXX **(phone # TBD)**.
 
 Is there anything else that we haven't talked about that you think I should know? 
@@ -204,7 +211,7 @@ Is there anything else that we haven't talked about that you think I should know
 
 ## Thank You and Closing - 5 minutes
 
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on providing resources for reporting harassment. We're hoping that by providing such resources, we can make the VA safer for everyone.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on providing resources for reporting harassment. We're hoping that by providing such resources, we can make VA safer for everyone.
 
 I'm going to stop the recording now. *(STOP recording)*
 
@@ -215,7 +222,8 @@ In case you feel uncomfortable or stressed about your harassment experiences or 
 
 Thank you so much again!
 
-*(if this session didn't appear to trigger a traumatic response)* I hope you enjoy the rest of your day!
+*(if this session didn't appear to trigger a traumatic response)* And I hope you enjoy the rest of your day!
+
 
 ## After Session 
 - Click "End" on zoom website
