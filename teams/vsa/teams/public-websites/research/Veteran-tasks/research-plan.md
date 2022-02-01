@@ -34,6 +34,7 @@ Starting from a list of about 40 tasks compiled from the VA.gov home page, user 
 
 *Action item:* Need to get access to new VSA account for Optimal Workshop from Shawna.
 
+
 ### Research materials
 - [Link to conversation guide]
 - [Link to prototype]()
