@@ -151,7 +151,7 @@ _Why would your business want this to exist?_
 ### Health care
 
 - This section shows upcoming appointments and unread messages, if people have them. Otherwise, it shows links to these tools in addition to non-personalized links to refill prescriptions, file for travel reimbursement, view labs results, or download medical records.
-- **Parent tools**: {VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; MyHealtheVet for everything else
+- **Parent tools**: [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) for scheduling; [MyHealtheVet](https://sqa.eauth.va.gov/mhv-portal-web/eauth) for everything else
 
 ### Benefit payments and debts (staging only)
 
