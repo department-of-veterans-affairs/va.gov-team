@@ -112,6 +112,18 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ![image](https://user-images.githubusercontent.com/95870427/151209907-3ffdc676-accc-41f2-8c79-7eb5aef61e32.png)
 
+Note- 
+From the content team. This type of feedback (see bullets below) about the content would help us improve pages. I'm not sure if these are similar to already approved language that we could use instead, but I didn't see them in the spreadsheet attached to this ticket. I'd like to change "Report a problem on this page" to a more conversational and PL "Tell us more so we can make this page better." Also, @joshkimux Could I get your input on how to phrase the last bullet? Thanks!
+
+Tell us more so we can make this page better
+
+There’s too much information on this page
+The text is hard to understand
+The text has errors
+There’s a broken link
+I couldn’t find the information I was looking for
+My screen reader had trouble with this page
+@mgleo There are 6 items here. I'd be interested to find out through research if 6 is too many!
 
 ### Current Status
 * Good/Bad exists*
