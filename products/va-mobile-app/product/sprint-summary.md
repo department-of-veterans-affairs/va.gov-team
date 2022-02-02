@@ -2,6 +2,28 @@
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 
+## Sprint: 1/19/22 - 2/1/22
+
+- Dark Mode
+  - Testing phase complete and ready for prod release 2/15
+
+- Appointment Scheduling
+  - Pending appointment flow finalized, designs reviewed by FE team, FE tickets written, BE discovery completed
+
+- Payment History
+  - Completed Payments designs, designs reviewed by FE team, BE implementation started
+
+- TLC & Maintenance
+  - Completed Redux Toolkit refactor & validation
+  - Defined an improved directory structure for the app (find files, stay organized, etc)
+  - Version dependency updates (patch, minor, major)
+  - Fixed update/time format for messages
+
+- Vaccine Records 2.0
+  - Implemented Metrics to track missing Date/CVX Code
+  - Dev complete in setting group name from Lighthouse 
+
+
 ## Sprint: 1/5/22 - 1/18/22
 
 - Dark Mode
