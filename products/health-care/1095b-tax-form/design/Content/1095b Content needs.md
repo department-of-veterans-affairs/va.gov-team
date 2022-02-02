@@ -1,5 +1,6 @@
 ***1095-B Content Needs***
 
+DRAFT - formatting/planning to continue to be evolved. 
 After assessment of project scope and current landscape, it has been determined that the following minimum content needs will have to be addressed.
 
 
