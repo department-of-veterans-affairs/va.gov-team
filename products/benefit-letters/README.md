@@ -17,11 +17,8 @@ Letters, Documents, Documents and Letters, VA Letters, VA Documents, VA Docs, VA
 Production: https://va.gov/records/download-va-letters/ Staging: https://staging.va.gov/records/download-va-letters/
 
 ## How To Test
-Log into the staging environment (https://staging.va.gov/records/download-va-letters/) using the following IDMe test account
+Log into the staging environment (https://staging.va.gov/records/download-va-letters/)
 
-email: vets.gov.user+299@gmail.com
-pw: Zm9ydHkgdHdv
-Points of Contact (POCs)
 
 ## Current features
 The first page of the application displays and allows veterans to change their address on file (technically, through the EVSS pciu_address service). This is so that the letters that can be downloaded on the second page of the application have the veteran's corrected address.
