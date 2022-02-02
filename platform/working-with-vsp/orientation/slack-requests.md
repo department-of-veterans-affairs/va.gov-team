@@ -2,7 +2,7 @@
 
 If you have a request to add new members or guests to DSVA Slack or need to add a guest to a particular channel, please follow the steps below.
 
-1) Create an Issue in the [va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team/) repo. Option: use the customized [Slack Request Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=KevinMHoffmanUSDS%2C+lizcallaghan%2C+LEHigley&labels=Slack+Request&template=slack-request-template.md&title=Adding+%5Bindividual%5D+to+DSVA+Slack)
+1) Create an Issue in the [va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team/) repo. Option: use the customized [Slack Request Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=KevinMHoffmanUSDS%2C+LEHigley&labels=Slack+Request&template=slack-request-template.md&title=Adding+%5Bindividual%5D+to+DSVA+Slack)
     - **Issue title:** Adding [individual] to DSVA Slack
 2) Assign `@LEHigley`, `@KevinMHoffmanUSDS`
 3) Label the issue `Slack Request`
