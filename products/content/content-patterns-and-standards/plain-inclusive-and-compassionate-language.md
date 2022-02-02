@@ -37,6 +37,8 @@ Ask questions for each piece of content you write:
 
 We generally avoid obvious idioms. But there are many more subtle idioms that we should document as we find/fix them for reference. Check style guide to make sure we explictly advise avoiding idioms.
 
+### Working list of subtle idioms to avoid
+
 ------
 
 ## Language nuances
