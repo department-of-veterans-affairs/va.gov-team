@@ -10,11 +10,7 @@ To show the overall user flow and decision points, check-in UX created this [Ske
 
 ### VeText 
 
-#### Text Message Scenarios and Wording
-TBD
-
-#### Error Message Scenarios and Wording
-TBD
+VeText's source of truth for all text and error message scenarios and wording is found [here](https://github.com/department-of-veterans-affairs/vetext-docs/blob/master/README.md).
 
 ### CHIP
 
