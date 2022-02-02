@@ -57,7 +57,7 @@ So now let us click that [LINK] that you can find in the chat. It will take you 
 
  
 
-1. Entry Point to Unauthenticated Page (2 Screens) 
+## 1. Entry Point to Unauthenticated Page (2 Screens) 
 
 Impressions: Before we do anything here, I would like to ask what you think about the screen in front of you. Feel free to scroll around but please do not click the links, yet.  
 
@@ -83,7 +83,7 @@ Does the participant understand the purpose of the email notification?
 
 
 
-2.  Testing Non33 Link from Unauthenticated Page (2 Screens) 
+## 2.  Testing Non33 Link from Unauthenticated Page (2 Screens) 
 
 Impressions: Before we do anything here, I would like to ask what you think about the screen in front of you. Feel free to scroll around but please do not click the links, yet.  
 
@@ -114,7 +114,7 @@ Does the participant understand the purpose of the Non-33 verification section?
  
 NOTE: Have them click the breadcrumb to return to the signed-out start page, then ask them to sign-in through ID.me 
 
-3.  Logging into the Enrollment Verification Feature from Unauthenticated Page (2 Screens) 
+## 3.  Logging into the Enrollment Verification Feature from Unauthenticated Page (2 Screens) 
 
 Scenario: Let’s say that this time you are a Post-9/11 GI Bill student. Where would you go if you wanted to verify your monthly enrollments? [Once task is complete] 
 
@@ -136,9 +136,7 @@ Does the participant understand how to access their monthly enrollment verificat
 
 
 
- 
-
-4.  Verifying One Monthly Enrollment (3 Screens) 
+ ## 4.  Verifying One Monthly Enrollment (3 Screens) 
 
  Impressions: Before we do anything here, I would like to ask what you think about the screen in front of you. Feel free to scroll around but please do not click the links, yet.  
 
@@ -180,7 +178,7 @@ Does the participant understand how to verify for a given month?
 
 Does the participant understand the purpose of verifying? 
 
- 5.  Impressions of Verifications Up-To-Date Page (1 Screens) 
+## 5.  Impressions of Verifications Up-To-Date Page (1 Screens) 
 
 Impressions: What do you think about this screen, now? 
 
@@ -195,16 +193,11 @@ What has changed since the first time you saw it?
 Did you have any questions about that process? 
 
  
-
- 
-
 NOTE: Have them click the breadcrumb to return to the signed-out start page, then ask them to sign-in through ID.me (Scenario 2 if applicable) 
 
  
 
- 
-
-6.  Verifying Three Months When Payments are Paused (4 Screens) 
+## 6.  Verifying Three Months When Payments are Paused (4 Screens) 
 
  Impressions: What do you think about this screen, now? 
 
@@ -244,7 +237,7 @@ NOTE: Have them click the breadcrumb to return to the signed-out start page, the
 
  
 
-7.  Noting Your Monthly Enrollment Information is Incorrect (4 Screens) 
+## 7.  Noting Your Monthly Enrollment Information is Incorrect (4 Screens) 
 
  Impressions: What do you think about this screen, now? 
 
@@ -278,7 +271,7 @@ Does the participant understand how payments are linked to saying no?
 
  
 
-8.  Impressions of Paused Payments Until Updated Page (1 Screens) 
+## 8.  Impressions of Paused Payments Until Updated Page (1 Screens) 
 
 Impressions: What do you think about this screen, now? 
 
