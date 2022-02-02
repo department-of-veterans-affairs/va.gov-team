@@ -72,6 +72,8 @@ Is there anything missing or confusing on this page?
 Now I am going to ask you to complete a task: So, from here, if you wanted to navigate to your monthly enrollments to verify on Va.Gov, how would you do that?  
 
 Do you have any questions about that process? 
+Does this access point make you confident you'd be able to verify your enrollments online?
+
 
 Task Succession Metrics 
 
@@ -102,6 +104,8 @@ What would you expect to happen if you tried to login instead? [Have them do it 
 What do you think about the alert? 
 
 Do you have any questions about that process? 
+Does the alert sufficiently warn you which EV method to use?
+
 
 Task Succession Metrics 
 
@@ -125,6 +129,8 @@ What do you think about logging in?
 What would you expect to happen after clicking the button? [Have them do it and ask for impressions] 
 
 Do you have any questions about that process? 
+Do you understand why you have to be logged in to verify your enrollments online?
+
 
 Task Succession Metrics 
 
@@ -170,6 +176,8 @@ What do you expect would happen if you clicked “Finish verifying your enrollme
 
 Do you have any questions about this process? 
 
+
+
 Task Succession Metrics 
 
 Completed Immediately; Completed with Hesitation (or Questions); Needed Moderator’s Assistance 
@@ -177,6 +185,8 @@ Completed Immediately; Completed with Hesitation (or Questions); Needed Moderato
 Does the participant understand how to verify for a given month? 
 
 Does the participant understand the purpose of verifying? 
+
+
 
 ## 5.  Impressions of Verifications Up-To-Date Page (1 Screens) 
 
@@ -191,6 +201,7 @@ What questions do you have about this page?
 What has changed since the first time you saw it? 
 
 Did you have any questions about that process? 
+Does this confirmation page make you confident you completed the process? Why or why not?
 
  
 NOTE: Have them click the breadcrumb to return to the signed-out start page, then ask them to sign-in through ID.me (Scenario 2 if applicable) 
@@ -216,6 +227,9 @@ Probes along the path:
 What do you think of the application confirmation page? 
 
 Do you have any questions about this process? 
+
+
+
 
 Task Succession Metrics 
 
