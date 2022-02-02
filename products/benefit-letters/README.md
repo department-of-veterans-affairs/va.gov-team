@@ -16,10 +16,6 @@ Letters, Documents, Documents and Letters, VA Letters, VA Documents, VA Docs, VA
 ## Links
 Production: https://va.gov/records/download-va-letters/ Staging: https://staging.va.gov/records/download-va-letters/
 
-## How To Test
-Log into the staging environment (https://staging.va.gov/records/download-va-letters/)
-
-
 ## Current features
 The first page of the application displays and allows veterans to change their address on file (technically, through the EVSS pciu_address service). This is so that the letters that can be downloaded on the second page of the application have the veteran's corrected address.
 The VA Letters information will be retrieved from the service provided by the EVSS team. In addition to the Veteran's address on file with eBenefits, the Veteran will be provided links all applicable letters. The business logic for determining which links to display will be determined by EVSS and only those letters for which the Veteran is authorized will be displayed (see Available Letters)
