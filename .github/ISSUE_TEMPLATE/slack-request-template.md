@@ -3,7 +3,7 @@ name: Slack Request template
 about: To request adjustments in dsva.slack.com
 title: Adding [individual] to DSVA Slack
 labels: Slack Request
-assignees: LEHigley, lizcallaghan, KevinMHoffmanUSDS
+assignees: LEHigley, KevinMHoffmanUSDS
 
 ---
 
