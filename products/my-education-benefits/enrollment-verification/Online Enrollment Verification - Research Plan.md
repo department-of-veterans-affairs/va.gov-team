@@ -1,7 +1,7 @@
 # Research Plan for [Digital GI Bill (DGIB) - Human Centered Design, DGIB Online Enrollment Verification, 02/2022]
 
 ## What product & team are you doing this research for? 
-This research request comes from the Digital GI Bill team for the Veterans Benefits Administration Education Service. Digital GI Bill looks to modernize the GI Bill experience in order to improve the user experience, improve claims processing, address the complexities of recent legislation, and integrate the legacy IT systems. This research plan comes from the Human Centered Design (HCD) agile team as we look to conduct usability testing for a new feature within VA education, Online Enrollment Verification, which supports implementation of a recent piece of legislation. Usability testing will inform us how stakeholders understand enrollment verification and how they feel about the ability to verify their enrollment online.  
+This research request comes from the Digital GI Bill team for the Veterans Benefits Administration Education Service. Digital GI Bill looks to modernize the GI Bill experience in order to improve the user experience, improve claims processing, address the complexities of recent legislation, and integrate the legacy IT systems. This research plan comes from the Human Centered Design (HCD) agile team as we look to conduct usability testing for a new feature within VA education, Online Enrollment Verification, which supports implementation of a recent piece of legislation. Usability testing will inform us how students understand enrollment verification and how they feel about the ability to verify their enrollment online.  
 
 ## Background
 Briefly, what is the background on this product? What would a new person on the team need to know about this product?
@@ -28,7 +28,7 @@ Understand how beneficial it is for users to verify enrollments online via Va.Go
 Check to see if users expect more information from the Online Enrollment Verification screen  
 
 ### Hypothesis
-Since monthly enrollment verification is a relatively new requirement for Post-9/11 GI Bill students, we hypothesize that some users might show initial confusion about the purpose of our prototype, but think that the product will be intuitive and straight-forward. We also believe that there will be further refinement necessary to meet the diverse needs of all users. 
+Since monthly enrollment verification is a relatively new requirement for Post-9/11 GI Bill students, we hypothesize that some users might show initial confusion about the purpose of our prototype, but think that the product will be intuitive and most will be able to successfully verify all their enrollments. We think the designs will be straight-forward and appreciated. We also believe that there will be further refinement necessary to meet the diverse needs of all users. 
 
 When comparing to the verification methods that they currently use, we hypothesize that users might be more comfortable and reassured using a website with VA branding to verify their enrollment information instead of other channels (like text).  
 
@@ -43,7 +43,7 @@ We will be using high fidelity prototypes to conduct usability testing. After jo
 
 Why this method? How does this methodology help you answer your research questions? 
 
-By inviting users to participate in qualitative usability testing, the HCD team will better understand the end-to-end experience. The research is designed to elucidate specific areas for improvement within the prototype. We will be taking notes throughout the test and incorporating the Optimal Workshop software to capture data points and highlight areas for improvement within the user interface. We will leverage the feedback from our stakeholders to inform more intuitive changes. 
+By inviting users to participate in qualitative usability testing, the HCD team will better understand the end-to-end experience. The research is designed to elucidate specific areas for improvement within the prototype. We will be taking notes throughout the test and incorporating the Optimal Workshop software to capture data points and highlight areas for improvement within the user interface. We will leverage the feedback from our students to inform more intuitive changes. 
 
 The quantitative measures collected during sessions will look to consider individual’s accessibility and inform us whether tasks are duplicative and time-consuming, or intuitive and simple. Online Enrollment Verification was created to make the experience of contacting VA easier for the Veteran – thus, we want to emphasize the importance of collecting both quantitative and qualitative data. 
 
@@ -158,7 +158,7 @@ Any Necessary Va.gov Personnel
 
 Note-takers:  
 
-HCD Team 
+Our HCD moderators will also alternate as notetakers for sessions. We do not need Perigean support. Thanks. 
 
 Observers:  
 
