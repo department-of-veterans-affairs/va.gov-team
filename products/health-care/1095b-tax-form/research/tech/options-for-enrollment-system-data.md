@@ -98,7 +98,7 @@ NO LONGER OPTIONS
 # Moving Forward
 
 ## Reccomendations 
-Given the expense and difficulty of storing 100 million PDF's in the cloud (Option 4), the tech teams reccomendation is to move forward with Option 2A. Josh confirmed that it should be relatively easy to get the flat files into an S3 bucket because there are existing scripts that do this. We know that vets-api has a library for filling out PDF's and there is existing code that we can build off of. 
+Given the expense and difficulty of storing 100 million PDF's in the cloud (Option 4), the tech teams reccomendation is to move forward with Option 2A. Josh confirmed that it should be relatively easy to get the flat files into an S3 bucket because there are existing scripts that do this. We know that vets-api has a library for filling out PDF's and there is existing code that we can build off of. We will need to figure out conventions for creating the S3 bucket and AWS database and dig into the nuances of building out the scripts. 
 
 ## Relevant Links
   -  [Breakdown of the current VA PDF generation process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/va-pdf-generation-process.md)
