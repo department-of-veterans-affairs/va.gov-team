@@ -22,7 +22,7 @@
 
 
 ### User's Health care is managed at a Cerner facility
-![image](https://user-images.githubusercontent.com/92328831/152361867-0506c998-c6d3-42d4-b50c-1ddfa42501b3.png)
+![image](https://user-images.githubusercontent.com/92328831/152362485-e6c0dd8b-e9dd-4f73-8775-b0371e7c62ff.png)
 
 
 ### TBD - Benefit Payments and debts (to be updated once the product has launched)
