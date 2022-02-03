@@ -38,7 +38,6 @@ Where we get the data from
 <strong>Questions</strong>
 </p>
 <p>
-
     How to validate that batch script is operational, deal with any potential downtime/etc?
 </p>
 <h2>S3 Bucket</h2>
@@ -108,12 +107,8 @@ Where all the data will be stored where its easy to sort/query/filter
 <h2>API (vets-api)</h2>
 
 
-<p>
-To get data from the database in a secure, reliable way 
-</p>
-<p>
-<strong>	</strong>
-</p>
+<p>To get data from the database in a secure, reliable way </p>
+
 <p>
 <strong>Steps </strong>
 </p>
@@ -132,19 +127,11 @@ To get data from the database in a secure, reliable way
 <strong>Requirements</strong>
 </p>
 <p>
-	Create the API for querying database
+Create the API for querying database</p>
+<p>Create the controller for making the call to generate a PDF
 </p>
-<p>
-	Create the controller for making the call to generate a PDF
-</p>
-<p>
-
-    Writing tests to validate API 
-</p>
-<p>
-
-    Error handling
-</p>
+<p>Writing tests to validate API </p>
+<p>Error handling</p>
 <p>
 <strong>Questions </strong>
 </p>
@@ -195,11 +182,10 @@ If the PDF ever changes, how will this code be updated?
 </p>
 <h2>React App</h2>
 
+What the user sees on the website and where the PDF will be ultimately shown 
 
-<h2>What the user sees on the website and where the PDF will be ultimately shown </h2>
 
-
-<h2><strong>Steps </strong> </h2>
+<strong>Steps </strong> 
 
 
 <ol>
@@ -211,21 +197,21 @@ If the PDF ever changes, how will this code be updated?
 <li>API returns PDF which is displayed to user
 </li>
 </ol>
-<p>
+
 <strong>Requirements  </strong>
-</p>
+
 <p>
 A page for authenticated users needs to be created in React on vets-website, following design team lead
 </p>
 <p>
-	Test the entire flow, confirming that PDF is rendered correctly
+Test the entire flow, confirming that PDF is rendered correctly
 </p>
 <p>
-	Make sure page is 508 accessible 
+Make sure page is 508 accessible 
 </p>
-<p>
+
 <strong>Questions </strong>
-</p>
+
 <p>
-<strong>	</strong>N/A
+<strong>N/A</strong>
 </p>
