@@ -108,11 +108,11 @@ NO LONGER OPTIONS
   -  [Breakdown of the current VA PDF generation process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/va-pdf-generation-process.md)
 - <strike>Conduct analogous research into possible PDF software solutions or services</strike>
 - Find out what the print vendor uses for PDF functionality and identify overlap
-- ~~Talk to the following POC's:
+- Talk to the following POC's:
   - Informatics Department
-    - POC: George Tidwell and Angela Brown
+    - POC: George Tidwell and Angela Brown (COMPLETED)
     - Purpose: Learn about data quality and request samples of data (can be dummy data, just need to learn the structure)
   - OI&T
-    - POC: Joshua Faulkner
+    - POC: Joshua Faulkner (COMPLETED) 
     - Purpose: Technical questions regarding enrollment data, API access, sending data, and batch processes (if any)
   
