@@ -7,35 +7,49 @@ assignees: ''
 
 ---
 ## Description of your application
-_Describe your application_
-_Name_:
-_Functionality_:
-_Language/Stack_:
-_Ports/Networking needed_:
-_Other infrastructure needed e.g. Database, redis, etc_:
-_Anything else we need to know?_:
+_Please provide a brief description of the application, ie What does it do? Who does it serve?_
 
+### Required info: 
+Team Name:  
+Application Name:  
+Functionality:  
+Language/Stack:  
+Ports/Networking needed:  
+Other infrastructure needed e.g. Database, Redis, etc:  
+Anything else we need to know?:  
+
+---
 ## Background/Context/Resources
-_Any addition information that can be provided, Slack conversations, tickets, design documents, epics, etc._
+_Please link to an initiative or other documentation that desribes the need and purpose of the application_
 
 ## Technical Notes
-_Any addition technical notes that can be provided_
+_Additional technical information that helps to explain the desired setup and configuration_
 
-## Checklist of Items needed for onboarding (Responsible parties in parentheses)
-[ ] Your application! (Your team)
-    Your application should conform to the 12 factor app methodology (https://12factor.net/)
-[ ] A Github Repository for your application (Operations or your team)
-[ ] A Dockerfile for your application (Your team, Operations can assist if needed)
-[ ] Elastic Container Registry Repository for your application (Operations, PRs are welcome: https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/ecr.tf)
-[ ] Automation to "Release" and "Tag" the application Github Repository with a semantic version number. (Your team, Operations can assist if needed)
-[ ] Automation to push the built Docker container to the ECR Repository and tag it with the semantic version number. (Your team, Operations can assist if needed)
-    Please do not use 'latest' tags
-[ ] Kubernetes Application Manifest in YAML, jsonnet, or Helm Chart (Operations and your team)
-    YAML and jsonnet are highly preferred, Helm charts are discouraged
-[ ] Automation to update the Kubernetes Application Manifest when a new version of your application container is pushed to ECR (Operations and your team)
-[ ] AWS Service account for your team or application (Operations)
-[ ] Path/s in AWS SSM Parameter Store created for your team or application (Operations)
-[ ] AWS IAM Permissions applied to your team members to allow read/write access to AWS SSM Parameter Store path/s for your application/team (Operations)
-[ ] AWS IAM Permissions applied to the service account to allow read access to AWS SSM Parameter Store path/s for your application/team (Operations)
-[ ] Secrets and Parameters needed for your application stored in AWS Systems Manager Parameter Store (Your team)
+---
+
+## Onboarding checklist 
+_*Responsible party listed below each item in the checklist_    
+- [ ] Team name     
+_Your team_  
+- [ ] Application name    
+_Your team_   
+_Note: the application should conform to the 12 factor app methodology (https://12factor.net/)_
+- [ ] GitHub repository: _<link here>_  
+_Your team; Infrastructure Team can assist if needed_  
+- [ ] Dockerfile:  
+_Your team; Infrastructure Team can assist if needed_  
+- [ ] AWS Elastic Container Registry (ECR) repository for the application  
+_Infrastructure Team; [PRs welcome](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/ecr.tf)_  
+- [ ] Automation to "release" and "tag" the application's GitHub repository with a semantic version number | [Example here](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.releaserc)  
+_Your team; Infrastructure Team can assist if needed_  
+- [ ] Automation to push the built Docker container to the ECR Repository and tag it with the semantic version number -- Note: Please do not use 'latest' tags. The release system uses the modified tag to synchronize CI/CD automation | [Example here](https://github.com/department-of-veterans-affairs/vsp-infra-calico/blob/main/.releaserc)  
+_Your team; Infrastructure Team can assist if needed_
+- [ ] Kubernetes manifest(s) in YAML, jsonnet, or Helm Chart  
+_Your team_  
+- [ ] Automation to update the Kubernetes Application Manifest when a new version of your application container is pushed to ECR | [Example here](https://github.com/department-of-veterans-affairs/vsp-infra-calico/tree/main/.github/workflows)  
+_Your team; Infrastructure Team can assist if needed_
+- [ ] AWS app service account and secrets management for your application | [Request Here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=)  
+_Infrastructure Team_
+- [ ] Secrets or parameters that the application needs to run  
+_Your team_
 
