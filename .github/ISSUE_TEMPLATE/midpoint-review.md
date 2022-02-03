@@ -61,11 +61,6 @@ Provide links or documents for the following:
 
 ### Content artifacts 
 
-- [ ] Content brief (if applicable) and your product’s content source of truth 
-<!-- 
-This may include mockups, prototypes, Github files, Word document or outline, staging link, or preview link. 
--->
-
 - [name of content of truth, for example, "Invision Prototypes"](link here)
 
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
