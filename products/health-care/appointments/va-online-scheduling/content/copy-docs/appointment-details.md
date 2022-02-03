@@ -2029,7 +2029,7 @@ n/a
 **PAGE DESCRIPTION**
 
 ```
-{Canceler} canceled this request. If you would like to reschedule, call us or schedule a new appointment online. 
+{Canceler} canceled this request. If you still need an appointment, call us or schedule a new appointment online. 
 ```
 
 **PAGE CONTENT**
@@ -2080,7 +2080,7 @@ n/a
 **PAGE DESCRIPTION**
 
 ```
-**{Canceler} canceled this appointment.** If you want to reschedule, call us or schedule a new appointment online. 
+{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online. 
 ```
 
 **PAGE CONTENT**
