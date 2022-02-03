@@ -4,7 +4,6 @@
 - Reach out to the mental health group and Veteran Crisis Line (VCL) about how we're sharing VCL info because they're sensitive about their info and how it's used/presented (according to Danielle Thierry)
   - Brian/Dave can help with VCL contact
   - Danielle can help with the Office of Mental Health and Suicide Prevention
-- Get an appropriate phone number for reporting harassment for here (at the end of the session) and on the poster
 - Review landing page on Staging & get URL that works on desktop and mobile
 
 ## Moderator logistics
@@ -202,7 +201,7 @@ Do you see the link?
   
 *(If they share anything about a harassment experience, say...)*
 - I am sorry you (or your friend) had this experience. We appreciate you sharing this with us. Your story will inform how we provide resources to help Veterans in the future. 
-- If you (or your friend) want to report your experience with harassment, that can be done in person at the VA site or by calling XXX-XXX-XXXX **(phone # TBD)**.
+- If you (or your friend) want to report your experience with harassment, that can be done in person at a VA site or by calling the VA Inspector General Hotline at 800-488-8244.
 
 Is there anything else that we haven't talked about that you think I should know? 
 
