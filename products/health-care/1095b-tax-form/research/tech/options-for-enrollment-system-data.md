@@ -52,14 +52,8 @@ NO LONGER OPTIONS
   - **Requires development of a few moving parts (batch script, ingest script, database table, API) on a short timeframe.**
   - Requires monitoring of jobs to validate success and operational support to deal with batch failures.
   - Batch job has to run every day
-
-- **Key Assumptions:**
-  - The Enrollment System team has the capacity to create the script on our timeline.
-  - The data quality is such that the ingest script won’t be error prone.
-
-- **Key Risks:**
-  - Might need additional permissions for adding to vets-api repo.
   - Delaying timeline to build out all the moving parts.
+
 
 
 
@@ -79,9 +73,7 @@ NO LONGER OPTIONS
 - **Cons:**
   - **Parsing/fetching data will be slower without a database**
 
-- **Key Assumptions:**  
-  - Data quality is adequate.
-  - 
+
 
 ## Option 4: Taking PDF's Directly from the Enrollment System
 
@@ -109,9 +101,6 @@ NO LONGER OPTIONS
 
 - **Description:**
   - Since there are already batch scripts to export to S3, manual export doesn't make sense plus we would not have a VA resource/individual. 
-
-
-
   
 
 ## Next Steps
