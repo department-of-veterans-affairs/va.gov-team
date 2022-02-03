@@ -6,15 +6,15 @@ Jump to...
 - [Pre-check-in](#precheckin)
 
 ## Check-in <a name="checkin"></a> 
-To show the overall user flow and decision points, check-in UX created this [Sketch file](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm). However, the Sketch document is not to be a source of truth. It will be updated periodically, but may be out-of-date.
+This [Sketch file](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e/a/3Op54Vm) shows the overall user flow and decision points. However, the Sketch document is not the source of truth. It will be updated periodically, but may be out-of-date.
 
 ### VeText 
 
-VeText's source of truth for all text and error message scenarios and wording is found [here](https://github.com/department-of-veterans-affairs/vetext-docs/blob/master/README.md).
+VeText's [source of truth](https://github.com/department-of-veterans-affairs/vetext-docs/blob/master/README.md).
 
 ### CHIP
 
-CHIP's source of truth for all text and error message scenarios and wording is found [here](https://github.com/department-of-veterans-affairs/chip/blob/develop/docs/chip-messaging.md).
+CHIP's [source of truth](https://github.com/department-of-veterans-affairs/chip/blob/develop/docs/chip-messaging.md).
 
 ### VA.gov
 
