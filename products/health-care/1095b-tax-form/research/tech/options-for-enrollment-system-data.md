@@ -51,7 +51,6 @@ NO LONGER OPTIONS
 - **Cons:**
   - **Requires development of a few moving parts (batch script, ingest script, database table, API) on a short timeframe.**
   - Requires monitoring of jobs to validate success and operational support to deal with batch failures.
-  - Batch job has to run every day
   - Delaying timeline to build out all the moving parts.
 
 
