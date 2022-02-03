@@ -33,6 +33,9 @@ NO LONGER OPTIONS
 - [Next Steps](#next-steps)
 
 
+
+# REMAINING OPTIONS
+
 ### Baseline Risks and Assumptions For All Options
 - **Assumptions**:
   - Vets.gov React-based frontend apps will get data from vets-api via modern [REST API](https://www.freelancinggig.com/blog/2018/11/02/what-is-the-difference-between-api-and-rest-api/) endpoints.
@@ -40,8 +43,6 @@ NO LONGER OPTIONS
 
 - **Risks:**
   - Poor data quality will result in slowdown due to needing extra data validation/cleanup process.
-
-# REMAINING OPTIONS
   
 
 ## Option 2A: Batch Data Export to DB
