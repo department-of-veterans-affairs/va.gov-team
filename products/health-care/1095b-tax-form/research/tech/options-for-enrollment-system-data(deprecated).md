@@ -28,7 +28,7 @@ Below are our current potential options for accessing and serving enrollment sys
 - **Risks:**
   - Poor data quality will result in slowdown due to needing extra data validation/cleanup process.
 
-## Option 1: Live API
+~~## Option 1: Live API
 
 - **Description:**
   - Vets-API gets enrollment data via [live API calls](https://blog.axway.com/amplify-products/api-management/whats-api-call) to the Enrollment System.
@@ -56,7 +56,7 @@ Below are our current potential options for accessing and serving enrollment sys
     - If yes, can we get access?
     - What is the process and timeframe for gaining access?
   - How good is the connectivity to the API (if it does exist) 
-  - Are there any existing teams/codebases/systems/repos that are integrating vets-api with the Enrollment System?* 
+  - Are there any existing teams/codebases/systems/repos that are integrating vets-api with the Enrollment System?* ~~
   
 ## Option 2A: Batch Data Export to DB
 - **Description:**
