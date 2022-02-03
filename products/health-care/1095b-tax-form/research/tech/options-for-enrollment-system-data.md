@@ -108,5 +108,5 @@ Given the expense and difficulty of storing 100 million PDF's in the cloud (Opti
 ## Next Steps
 - Create a document of requirements/support needed from Enrollment System team
 - Create a document of all known steps required to build architecture (including open questions)
-
+- Figure out conventions for creating an AWS database and S3 bucket 
   
