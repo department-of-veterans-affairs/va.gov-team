@@ -1,5 +1,5 @@
 # Text messages and Error Messages 
-This document will serve as the source of truth for all check-in and pre-check-in text message and error message wording.
+This document will serve as hub to all the source of truths documentation for all check-in and pre-check-in text message and error message wording.
 
 Jump to...
 - [Check-in](#checkin)
