@@ -1,6 +1,7 @@
 ## My VA: Error messages 
 - These are images of error messages that appear on My VA as of February 2022.
 - We need to evaluate the current styles and patterns being used, so that we can ensure we are using the most up-to-date formats and that they are all consistent on the My VA page.
+- May also reference the [**Product Guide**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/product/product-guides.md) for context of these errors.
 
 ### LOA1 Login - Logged-in User Identity not verified
 - ![image](https://user-images.githubusercontent.com/92328831/152364722-0606a64c-2cdd-48a0-ae8b-62b224aecfd8.png)
