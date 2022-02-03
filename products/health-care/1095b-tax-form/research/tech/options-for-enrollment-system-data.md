@@ -24,7 +24,7 @@ NO LONGER OPTIONS
 
 - [Option 2B: Batch Data Export to Flat File](#option-2b-batch-data-export-to-flat-file)
 
-NEXT STEPS
+## Moving Forward
 
 - [Reccomendations](#reccomendations)
 
