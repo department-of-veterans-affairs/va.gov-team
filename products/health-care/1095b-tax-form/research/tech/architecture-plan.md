@@ -13,10 +13,10 @@ This document provides detailed information on the architecture for generating t
 <strong>Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App </strong>
 </p>
 <p>
-&lt;embed visual here> 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Screen%20Shot%202022-02-03%20at%205.04.33%20PM.png"></img>
 </p>
 <p>
-&lt;embed link to mural here> 
+<a href="https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616">Link to Mural<a/>
 </p>
 <h2>Enrollment System</h2>
 
