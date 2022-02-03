@@ -18,10 +18,9 @@ CHIP's source of truth for all text and error message scenarios and wording is f
 
 ### VA.gov
 
-#### Text Message Scenarios and Wording
-TBD
+| Scenario | Message | Visual |
+| --- | --- | --- |
+| Identity Verification: last name and last 4 SSN do not match record AND the Veteran has attempted verification 3 or less times | Sorry, we couldn’t find an account that matches that last name or SSN. Please try again. | ![less than 3 retries](https://user-images.githubusercontent.com/66287082/152365205-135fd98a-3ae2-419d-8f80-530a82dc9adb.png) |
 
-#### Error Message Scenarios and Wording
-TBD
 
 ## Pre-check-in <a name="precheckin"></a> 
