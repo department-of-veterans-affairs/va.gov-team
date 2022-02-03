@@ -61,7 +61,6 @@ Provide links or documents for the following:
 
 ### Content artifacts 
 
-- [name of content of truth, for example, "Invision Prototypes"](link here)
 
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
  
