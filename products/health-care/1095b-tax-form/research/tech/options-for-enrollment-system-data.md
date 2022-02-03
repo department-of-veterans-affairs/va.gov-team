@@ -25,6 +25,7 @@ NO LONGER OPTIONS
 - [Option 2B: Batch Data Export to Flat File](#option-2b-batch-data-export-to-flat-file)
 
 ## Moving Forward
+Now that we've narrowed down our options after discovery, we have created a architecture diagram (see relevant links) and detailed our recomendations and some next steps. 
 
 - [Reccomendations](#reccomendations)
 
