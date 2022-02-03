@@ -1,8 +1,8 @@
 ---
 name: Kubernetes Onboarding Template
 about: For onboarding a new app to the VSP Kubernetes clusters
-title: ''
-labels: 'operations, kubernetes, devops'
+title: '[Insert your app name here] - Onboarding to Kubernetes (EKS)'
+labels: 'operations, kubernetes, devops, eks, infrastructure, infrastructure-request'
 assignees: ''
 
 ---
