@@ -46,12 +46,13 @@ NO LONGER OPTIONS
 - **Pros:**
   - Having a database will allow for faster and easier parsing/fetching of data 
   - There are existing batch scripts to transfer flat files to an S3 bucket, making that step trivial
-  - Data will be current because of frequency of batch job (receiving new flat files)
+
 
 - **Cons:**
   - **Requires development of a few moving parts (batch script, ingest script, database table, API) on a short timeframe.**
   - Requires monitoring of jobs to validate success and operational support to deal with batch failures.
   - Delaying timeline to build out all the moving parts.
+  - Data is updated twice per week (batch job schedule)
 
 
 
@@ -63,7 +64,6 @@ NO LONGER OPTIONS
 
 - **Pros:**
   - Fewer moving parts than 2A, simpler solution
-  - Data is current (batch scripts run every day) 
   - No need for a script to pass data to a database.
   - There are no barriers to using S3 and creating a batch script to export to S3 is trivial
   - Flat file quality appears to be adequate 
@@ -71,6 +71,7 @@ NO LONGER OPTIONS
 
 - **Cons:**
   - **Parsing/fetching data will be slower without a database**
+  - Data is updated twice per week (batch job schedule)
 
 
 
