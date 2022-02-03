@@ -10,7 +10,7 @@ This [Sketch file](https://www.sketch.com/s/e79a827e-42cf-4a82-b554-874c75b5c70e
 
 ### VeText 
 
-VeText's [source of truth](https://github.com/department-of-veterans-affairs/vetext-docs/blob/master/README.md).
+VeText's [source of truth](https://github.com/department-of-veterans-affairs/vetext-docs/blob/master/README.md). (As of Feb. 3, 2022, VeText is still working through their documentation on the linked page, but the above Sketch file includes VeText messaging.)
 
 ### CHIP
 
