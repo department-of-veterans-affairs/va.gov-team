@@ -65,8 +65,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platfo
 
 ### Content artifacts 
 
-- [name of content of truth, for example, "Invision Prototypes"](link here)
-
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
 
 ### QA artifacts
