@@ -1,4 +1,4 @@
-# [DRAFT] Medical Copays - Use Cases
+# Medical Copays - Use Cases
 
 Last updated 2021-12-29
 
