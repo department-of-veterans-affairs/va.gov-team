@@ -80,7 +80,7 @@ NO LONGER OPTIONS
   - PDF's are stored in a binary format in the enrollment system. We would have to take the binary format, convert it to PDF, store the converted PDFs (100M+) and setup a method to query for PDF based on ICN (we would have the ICN info). 
 
 - **Pros:**
-  - Removes having to deal with batch scripts
+  - Fewer scripts / batch jobs
   - No need to deal with filling out PDF's programatically
 
 - **Cons:**
