@@ -2,7 +2,7 @@
 
 
 ## Purpose
-- Propose various different options for accessing and serving data from the Enrollment System. This document has been updated in light of technical discovery. To see all original options, view Git history. 
+- Propose various different options for accessing and serving data from the Enrollment System. *This document has been updated in light of technical discovery. To see all original options, view Git history. *
 
 ## Context
 To enable veterans to download for the 1095-B form, we need to serve data from vets.gov to an authenticated veteran user. The specific data we need to present comes from the Enrollment System. 
@@ -14,8 +14,6 @@ REMAINING OPTIONS
 
 - [Option 2A: Batch Data Export to DB](#option-2a-batch-data-export-to-db)
 
-- [Option 2B: Batch Data Export to Flat File](#option-2b-batch-data-export-to-flat-file)
-
 - [Option 4: Taking PDF's Directly from the Enrollment System](#option-4-taking-pdfs-directly-from-the-enrollment-system)
 
 NO LONGER OPTIONS
@@ -24,7 +22,15 @@ NO LONGER OPTIONS
 
 - [Option 3: Manual Export to S3](#option-3-manual-export-to-s3)
 
+- [Option 2B: Batch Data Export to Flat File](#option-2b-batch-data-export-to-flat-file)
 
+NEXT STEPS
+
+- [Reccomendations](#reccomendations)
+
+- [Relevant Links](#relevant-links)
+
+- [Next Steps](#next-steps)
 
 
 ### Baseline Risks and Assumptions For All Options
@@ -56,25 +62,6 @@ NO LONGER OPTIONS
 
 
 
-
-## Option 2B: Batch Data Export to Flat File
-- **Description:**
-  - Same as 2A but store data in S3 flat file. VETS-API makes use of [AWS S3 SQL](https://towardsdatascience.com/ditch-the-database-20a5a0a1fb72) query capability instead of traditional database. 
-  - S3 only
-
-- **Pros:**
-  - Fewer moving parts than 2A, simpler solution
-  - No need for a script to pass data to a database.
-  - There are no barriers to using S3 and creating a batch script to export to S3 is trivial
-  - Flat file quality appears to be adequate 
-  - Data does not have to be converted to flat file (text delimited doc) 
-
-- **Cons:**
-  - **Parsing/fetching data will be slower without a database**
-  - Data is updated twice per week (batch job schedule)
-
-
-
 ## Option 4: Taking PDF's Directly from the Enrollment System
 
 - **Description:**
@@ -96,23 +83,28 @@ NO LONGER OPTIONS
 - **Description:**
   - While there is a live API that would fetch data from the Enrollment System, we need the data from a specific point in time (when it is sent to the print vendor) and if we were to use the live API there would be a discrepancy between the paper form and the digital form.
   
+  
+## Option 2B: Batch Data Export to Flat File
+- **Description:**
+  - We know that every time a veteran calls to update their information, a new flat file would be sent via the batch script. As a result we would have to merge the new flat file with the existing flat file, which creates enough added complexity that Option 2B becomes inferior to Option 2A. 
+
 
 ## Option 3: Manual Export to S3 
-
 - **Description:**
   - Since there are already batch scripts to export to S3, manual export doesn't make sense plus we would not have a VA resource/individual. 
-  
+
+
+# Moving Forward
+
+## Reccomendations 
+Given the expense and difficulty of storing 100 million PDF's in the cloud (Option 4), the tech teams reccomendation is to move forward with Option 2A. Josh confirmed that it should be relatively easy to get the flat files into an S3 bucket because there are existing scripts that do this. We know that vets-api has a library for filling out PDF's and there is existing code that we can build off of. 
+
+## Relevant Links
+  -  [Breakdown of the current VA PDF generation process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/va-pdf-generation-process.md)
+  -  [Architecture Diagram Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
 
 ## Next Steps
-- Conduct research on VA's internal PDF generation process (link to research below) 
-  -  [Breakdown of the current VA PDF generation process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/va-pdf-generation-process.md)
-- <strike>Conduct analogous research into possible PDF software solutions or services</strike>
-- Find out what the print vendor uses for PDF functionality and identify overlap
-- Talk to the following POC's:
-  - Informatics Department
-    - POC: George Tidwell and Angela Brown (COMPLETED)
-    - Purpose: Learn about data quality and request samples of data (can be dummy data, just need to learn the structure)
-  - OI&T
-    - POC: Joshua Faulkner (COMPLETED) 
-    - Purpose: Technical questions regarding enrollment data, API access, sending data, and batch processes (if any)
+- Create a document of requirements/support needed from Enrollment System team
+- Create a document of all known steps required to build architecture (including open questions)
+
   
