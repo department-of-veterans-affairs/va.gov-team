@@ -21,6 +21,7 @@ CHIP's source of truth for all text and error message scenarios and wording is f
 | Scenario | Message | Visual |
 | --- | --- | --- |
 | Identity Verification: last name and last 4 SSN do not match record AND the Veteran has attempted verification 3 or less times | Sorry, we couldn’t find an account that matches that last name or SSN. Please try again. | ![less than 3 retries](https://user-images.githubusercontent.com/66287082/152365205-135fd98a-3ae2-419d-8f80-530a82dc9adb.png) |
-
+| Identity Verification: last name and last 4 SSN do not match record AND the Veteran has attempted verification more than 3 times | (header) We couldn't check you in (body) We’re sorry. We couldn't match your information to our records. Please ask a staff member for help. | ![more than 3 retries](https://user-images.githubusercontent.com/66287082/152366348-aa16b649-c952-48ed-a3e8-30935d14b8ec.png) |
+| Is the system operational? (Any bad request from the server) | (header) We couldn't check you in (body) We're sorry. Something went wrong on our end. Check in with a staff member. | ![generic error](https://user-images.githubusercontent.com/66287082/152366754-44736746-4e6e-4753-9a3a-7c17c5383844.png) |
 
 ## Pre-check-in <a name="precheckin"></a> 
