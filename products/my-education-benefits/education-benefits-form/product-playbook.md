@@ -25,8 +25,17 @@ https://staging.va.gov/education/apply-for-benefits-form-22-1990
 ## Troubleshooting
 
 ### Errors and Metrics
-link to errors and logs your product produces
-brief explanation of errors/metrics (or link to them here)
+The UI for My Education Benefits will live on VA.gov, while the services it uses will live on the DGIB Managed Service.
+
+The DGIB Managed Service: A series of services hosted externally that drive the functionality of the MEB application, including
+Loading veteran personal information
+Loading demographics data
+Loading contact information
+Loading service history
+Receiving and education benefits submission and automatically process the claim.
+Generating letters approval or denial of clam.
+
+All error logs and metrics live on the DGIB Managed Environment and is managed by the DGIB team.
 
 ### Issue investigation steps
 - Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
