@@ -1,4 +1,4 @@
-# Project outline: MyHealtheVet/VA.gov profile transition research effort
+# Project outline: MyHealtheVet/VA.gov profile transition research
 
 Last updated February 4, 2022
 
