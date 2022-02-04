@@ -316,12 +316,12 @@ Are we on hold for this besides backend build?
 ## Sprint 67 (2/9 - 2/22)
 [Sprint 67 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30272)
 
-### Payment history
-
 A note on stuff from last sprint:
 
 - Always move over any unfinished project work to keep us on time with projects.
 - If there were general tickets we added to last sprint because we thought we had time but then ended up not having time, only move those over *if* (1) they are high priority, or (2) we clearly will have time this sprint. Otherwise, it's OK to deprioritize. Always feel free to ask if you have questions.
+
+### Payment history
 
 **Main goal for this sprint**: Be ready for QA. Prioritize tickets & work accordingly so that anything that is a QA dependency gets top priority.
 
