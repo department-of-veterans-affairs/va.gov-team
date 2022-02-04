@@ -17,8 +17,10 @@
 
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
 
-* Please describe what problem this product or feature solves.
+* Please describe what problem this product or feature solves
+
 The My Education Benefits application is an application hosted on VA.gov for submitting education benefit claims. It will require the user to be logged in on ID.me to be used. The vets-api endpoints developed for it will ultimately communicate with the DGIB Managed Environment. The DGIB Managed Environment is an externally hosted managed service that provides the API to support claim submissions and secures communications with vets-api throught https and JWT tokens included on the vets-api request header.
+
 * Please describe a plan to monitor this code base after deployment, including the following scenarios (_NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!_).
     * The code base is compromised at source- or run-time.
         * How does the code base get disabled in the product?
