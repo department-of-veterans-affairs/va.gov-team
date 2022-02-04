@@ -30,6 +30,11 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 5. Determine what MHV users need from the VA.gov profile in order to make it work for them.
 6. Determine in what ways we can make the transition from the MHV profile to VA.gov profile less painful for users.
 
+## Research deliverables
+
+1. A report on our findings
+2. High-level recommendations around how both MHV and VA.gov should handle the profile transition.
+
 ## Questions to answer
 
 1. What data do we already have in the VA.gov profile that is also part of the MHV profile?
