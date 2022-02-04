@@ -226,7 +226,7 @@ The error state displayed on the "other" text fields only occurs if the user sel
 - [IA Request from Profile team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32031)
 - [[Design] Personal information revisions: Update Gender identity and Sexual orientation in mocks so they are multiselect #36165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36165)
 - [[Design] Personal information revisions: Remove "prefer not to answer" from pronoun field in mockups #36173](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36173)
-- [[Design] Auth Profile: Personal Info Revision: Mock up hint text with placeholder copy #36361]
+- [[Design] Auth Profile: Personal Info Revision: Mock up hint text with placeholder copy #36361](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36361)
 - [[FE] Personal information revisions: Change character limit from 100 to 25 characters for preferred name #36078](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36078)
 - [[FE] Personal information revisions: Update Gender identity and Sexual orientation so they are multiselect #36168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36168)
 - [[FE] Personal information revisions: Remove "prefer not to answer" from pronoun field #36174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/36174)
