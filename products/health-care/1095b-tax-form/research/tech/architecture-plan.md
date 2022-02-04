@@ -48,6 +48,7 @@ Where the initial flat file is stored before it is converted
 
 - What are the VA conventions for setting up an S3 bucket?
 - Can we have a lambda function listening for new files to hit the bucket?
+- How long do we want to store files in the bucket? Do we want to keep both versions, pre and post conversion for database?
 
 
 
@@ -97,6 +98,7 @@ To get data from the database in a secure, reliable, fast way
 **Questions**
 
 - Where in vets-api should the new API live?
+- What are the testing/ QA requirements? 
 
 PDF Generation
 --------------
@@ -106,7 +108,7 @@ We need a script to fill the PDF form with data
 **Steps**
 
 1.  PDF generation function is called from vets-api
-2.  Uses pdf\_fill to run the mapping and filling functions
+2.  Uses pdf_fill to run the mapping and filling functions
 3.  PDF is generated and sent back via controller
 
 **Requirements**
