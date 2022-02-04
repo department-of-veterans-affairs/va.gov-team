@@ -2,7 +2,6 @@
 
 The VAOS appointments list displays a summary of a Veteran's upcoming, past, and pending appointments.
 
-
 ## Resources
 
 [**Terms [WIP]**](https://docs.google.com/spreadsheets/d/1zGfyAjwLgcU6KNpCQK09hQzKoN4ZmrM8u5Ejpitem1Q/edit#gid=520523114) (Google Sheets)
@@ -10,10 +9,9 @@ The terms used in the appointments lists and detail pages.
 
 [**Appointments list UI [WIP]**](https://www.figma.com/file/XEYv3OTKEs389H2aZ59zZ9/?node-id=0%3A1)(Figma)
 
-
 ### Upcoming, past, and canceled appointments
 
-The health appointments list answers these questions:
+The VAOS appointments list answers these questions:
 
 * When is my appointment?
 * What's it for?
@@ -36,7 +34,6 @@ A pending appointment is created when a Veteran requests an appointment through 
 * Are any of my requests canceled, and if so, by whom?
 
 The pending appointments list shows appointments that have been pending for 120 days. After that, these drop off the list, whether or not they've been resolved by the facility. Canceled pending appointments drop off this list after 30 days. 
-
 
 A Veteran may cancel any pending appointment.
 
