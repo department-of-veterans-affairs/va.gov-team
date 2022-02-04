@@ -2,57 +2,34 @@
 
 The VAOS appointments list displays a summary of a Veteran's upcoming, past, and pending appointments.
 
-## TOC
 
-1. Content model
-2. VAOS UX
-3. Other appointment lists
-    * Mobile app
-    * My VA
-    * Check in
-    * VEText
-    * Health apartment (future)
-
-
-## Content model
+## Resources
 
 [Terms [WIP]](https://docs.google.com/spreadsheets/d/1zGfyAjwLgcU6KNpCQK09hQzKoN4ZmrM8u5Ejpitem1Q/edit#gid=520523114)
 [Content model](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1639677197374/28216c756bb7e2b70099470f2b84a30c2632035b?sender=ub08ff1d80ee7bd38d6c02354)
 
 ### Upcoming, past, and canceled appointments
 
-The health appointments list answers these Veteran questions
+The health appointments list answers these questions:
 
-What appointments are coming up? Which already happened?
-
-When is my appointment?
-
-What's it for?
-
-Who's it with?
-
-How will I be attending it?
+* When is my appointment?
+* What's it for?
+* Who's it with?
+* How will I be attending it?
 
 A Veteran can complete some tasks on these appointments
 
-Print my list, or individual appointments
-
-Add an appointment to my calendar
-
-Cancel my appointment
+* Print my list, or individual appointments
+* Add an appointment to my calendar
+* Cancel my appointment
 
 # Pending appointments
 
 The pending appointments list answers these Veteran questions:
 
-What appointments have I requested that haven't been confirmed?
-
-What kind of care am I requesting?
-
-Who did I request it from?
-
-
-
+* What appointments have I requested that haven't been confirmed?
+* What kind of care am I requesting?
+* Who did I request it from?
 
 ## VA Online Scheduling appointments
 
