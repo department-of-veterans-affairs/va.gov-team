@@ -48,12 +48,15 @@ Where the initial flat file is stored before it is converted
 
 - Writing script/lambda function from #2
 
+
 **Questions**
 
 - What are the VA conventions for setting up an S3 bucket?
 - Can we have a lambda function listening for new files to hit the bucket?
 - How long do we want to store files in the bucket? Do we want to keep both versions, pre and post conversion for database?
 - Who do we need to talk to in order to get AWS access? Or do we run aterraform script to create a new bucket?
+- What if file is corrupt? How will we process QA? We know there are some QA steps on the Enrollment System side.
+
 
 
 
@@ -78,6 +81,7 @@ Where all the data will be stored where its easy to sort/query/filter
 
 - What are the VA conventions for setting up an Aurora PGSQL database?
 - Do we need an AWS account to create the database? If so, who can get us access? How long will getting access take? 
+- What if we fail to process a record? Need some QA steps for records to assert data is what we expect.
 
 API (vets-api)
 --------------
@@ -101,6 +105,9 @@ To get data from the database in a secure, reliable, fast way
 
 - Error handling
 
+**Relevant Links**
+- [download PDF controller example](https://github.com/department-of-veterans-affairs/vets-api/blob/18017483af797b77736fa61a572f6d08cbb9365b/app/controllers/v0/caregivers_assistance_claims_controller.rb#L29)
+
 **Questions**
 
 - Where in vets-api should the new API live?
@@ -119,13 +126,16 @@ We need a script to fill the PDF form with data
 
 **Requirements**
 
-- Creating a new ruby script for mapping the PDF
+- Creating a new ruby script for mapping the PDF using pdf_fill library in vets-api
 
 - Uploading 1095B PDF to appropriate pdf_fill folder
 
 - Testing to make sure PDF is filled and sends back to controller
 
 - Make sure PDF is deleted after generation
+
+**Relevant Links**
+- [pdf-fill library] (https://github.com/department-of-veterans-affairs/vets-api/tree/72f3dcb6f6096eb68be18a94416c9c8630a23382/lib/pdf_fill)
 
 **Questions**
 
@@ -147,6 +157,9 @@ What the user sees on the website and where the PDF will be ultimately shown **S
 - Test the entire flow, confirming that PDF is rendered correctly
 
 - Make sure page is 508 accessible
+
+**Relevant Links**
+- [Letters App - renders a list of PDF's veterans can download](https://github.com/department-of-veterans-affairs/vets-website/tree/21260300681f449c564f53596d0a8302dd684e7b/src/applications/letters)
 
 **Questions**
 
