@@ -13,10 +13,10 @@ There are four broad types of appointments that can come from MAS:
 
 This is the logic to detect those types:
 
-- If an appointment has an entry in `appointment.vvsAppointments`, then **it's a video appointment**
-- If `appointment.phoneOnly` is true, then it's a **phone appointment**
-- If `appointment.communityCare` is true, then it's a **community care appointment**
-- If none of the above are true, it's an **in person VA appointment**
+- If an appointment has an entry in `appointment.vvsAppointments`, then it's a [video appointment](#video-appointments)
+- If `appointment.phoneOnly` is true, then it's a [phone appointment](#phone-appointments)
+- If `appointment.communityCare` is true, then it's a [community care appointment](#community-care)
+- If none of the above are true, it's an [in person VA appointment](#in-person-va)
 
 General notes:
 - We always prefer using top level properties on `appointment` as opposed to properties on items in `vvsAppointments` or `vdsAppointments`. MAS does some work to pull up properties associated with patients, which is normally what we want to use.
