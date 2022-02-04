@@ -78,4 +78,4 @@ Health care Exp	| 	Check-in Experience | 	Confirm NOK information	| 	8/26/2021	|
 Health care Exp	| 	Check-in Experience	| 	Confirm Emergency Contact information	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm Emergency Contact information during mobile Check-in on the day of appointment| 
 Health care Exp	|  Check-in Experience	| 	Launch of Pre-Check-in MVP	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm information from the check-in application prior to the day of appointment	| 
 10-10 Form| HCA	| 	Update Insurance copy	| 	1/12/2022	| 	yes	| 	Clarify insurance info requested to alleviate confusuion.	|
-Claims & Appeals | Higher Level Reivew | 2/4/2022 | Yes | Form updates and enhancements
+Claims & Appeals | Higher Level Reivew | Form updates and enhancements | 2/4/2022 | Yes | Allows veterans the ability to submit a request for a decision review
