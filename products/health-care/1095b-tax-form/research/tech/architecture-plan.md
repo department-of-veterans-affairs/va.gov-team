@@ -135,7 +135,7 @@ We need a script to fill the PDF form with data
 - Make sure PDF is deleted after generation
 
 **Relevant Links**
-- [pdf-fill library] (https://github.com/department-of-veterans-affairs/vets-api/tree/72f3dcb6f6096eb68be18a94416c9c8630a23382/lib/pdf_fill)
+- [pdf-fill library](https://github.com/department-of-veterans-affairs/vets-api/tree/72f3dcb6f6096eb68be18a94416c9c8630a23382/lib/pdf_fill)
 
 **Questions**
 
