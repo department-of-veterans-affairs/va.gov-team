@@ -37,12 +37,6 @@ The pending appointments list shows appointments that have been pending for 120 
 
 A Veteran may cancel any pending appointment.
 
-## VA Online Scheduling appointments
-
-### Upcoming, past, and requested appointments
-
-### Pending appointments
-
 ## Other appointment lists
 
 ### MyHealtheVet
