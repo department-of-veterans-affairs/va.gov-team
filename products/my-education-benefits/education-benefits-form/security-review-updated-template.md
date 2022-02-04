@@ -17,25 +17,38 @@
 
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
 
-* Please describe what problem this product or feature solves
+### Please describe what problem this product or feature solves
 
 The My Education Benefits application is an application hosted on VA.gov for submitting education benefit claims. It will require the user to be logged in on ID.me to be used. The vets-api endpoints developed for it will ultimately communicate with the DGIB Managed Environment. The DGIB Managed Environment is an externally hosted managed service that provides the API to support claim submissions and secures communications with vets-api throught https and JWT tokens included in the vets-api request header.
 
-* Please describe a plan to monitor this code base after deployment, including the following scenarios (_NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!_).
-    * The code base is compromised at source- or run-time.
-         * How does the code base get disabled in the product? For VA.gov hosted UI and vets-api endpoints, we can use the documented vagovprod flag and feature flags to turn off the full application on producation. As for DGIB Managed Service APIs, processes can be discussed per request on private channel.
-        * How would you detect a compromise?
-            The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
-        * What process and privilege does the code base execute under?
-            We would like more details about this question, we can discuss individually.
-        * The code base is infiltrated or ex-filtrated.
-            We can go over security measures on the DGIB Managed Environment in private channel.
-    * Links to dashboards that help identify and debug application issues: 
-      The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
+### Please describe a plan to monitor this code base after deployment, including the following scenarios (_NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!_).
+   - The code base is compromised at source- or run-time.
+      - How does the code base get disabled in the product?
+
+       For VA.gov hosted UI and vets-api endpoints, we can use the documented vagovprod flag and feature flags to turn off the full application on producation. As for DGIB Managed Service APIs, processes can be discussed per request on private channel.
+
+      - How would you detect a compromise?
+
+        The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
+
+      - What process and privilege does the code base execute under?
+
+        We would like more details about this question, we can discuss individually.
+      - The code base is infiltrated or ex-filtrated.
+
+         We can go over security measures on the DGIB Managed Environment in private channel.
+
+- Links to dashboards that help identify and debug application issues: The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
       
 * Provide your [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 * Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
+
+There are new vets-api application endpoints that will be used to interface with APIs on the DGIB Managed Environment. The vets-api endpoints require that a user is logged in on VA.gov. The vets-api endpoints take care of the details to construct the the appropriate REST calls to the DGIB Managed Environment internally, using the logged in user's information.  Additionally, the communication between vets-api and DGIB is secured by JWT tokens.
+
 * Is there any new logging data being captured?  If so, what data is being captured, how, and where is it stored?
+
+The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
+
 * Is [Personal Health Information/PHI](https://www.hhs.gov/hipaa/index.html), [Personal Identifiable Information/PII](https://www.dol.gov/general/ppii), or any other [Personal Information/PI](https://www.oag.ca.gov/privacy/ccpa) being captured? If so, please answer the following questions:
     * Is the PHI strongly encrypted? There is no PHI
     * Is the PII encrypted? All PII is encrypted over transit. We can discuss over storage specifics on private channel.
@@ -44,10 +57,19 @@ The My Education Benefits application is an application hosted on VA.gov for sub
     * If so, are there any new Cookies?: N/A
         * If so, why can’t the existing Cookies be used?: N/A
     * If so, are there any modified Cookies?: No
-        * If so, how are the Cookies modified?: No
-    * If so, are there any existing Cookies?: No
-* Is this feature authenticated or unauthenticated? The MEB application can only be used when logged in on VA.gov
-* Are there any other specific subjects that you want to highlight or focus additional attention on? No
+        * If so, how are the Cookies modified?: 
+         
+         No
+    * If so, are there any existing Cookies?: 
+
+         No
+* Is this feature authenticated or unauthenticated? 
+
+The MEB application can only be used when logged in on VA.gov
+
+* Are there any other specific subjects that you want to highlight or focus additional attention on? 
+
+   No
 
 ## Artifacts
 
