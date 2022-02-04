@@ -44,3 +44,10 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 
 ## Solution approach
 
+In order for this research effort to be successful, we should do all of the following:
+
+- Involve MHV stakeholders as early as possible, Make sure they understand why we are engaging in this research and that they have buy-in to this effort.
+- Engage with the MHV profile team, and treat them as true partners in this research.
+- Perform our own evaluation of the profile, and make sure we understand why and how all of the data is used. Determine what is essential to move over, what is a nice to have, and what might not need to move over (if anything).
+- Understand MHV coordinators relationship to and usage of the profile.
+- Understand MHV users profile needs.
