@@ -23,19 +23,22 @@ The My Education Benefits application is an application hosted on VA.gov for sub
 
 * Please describe a plan to monitor this code base after deployment, including the following scenarios (_NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!_).
     * The code base is compromised at source- or run-time.
-        * How does the code base get disabled in the product?
+         * How does the code base get disabled in the product? We can disable the MEB UI application on VA.gov with vagovprod UI flag. We can disable vets-api with feature flag. As for DGIB Managed Service APIs, processes can be discussed per request on private channel.
         * How would you detect a compromise?
+            The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
         * What process and privilege does the code base execute under?
-            * If so, is that process isolated?
-            * If so, what additional credentials are available to that process?
+            We would like more details about this question, we can discuss individually.
         * The code base is infiltrated or ex-filtrated.
+            We can go over security measures on the DGIB Managed Environment in private channel.
     * Links to dashboards that help identify and debug application issues: 
+      The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
+      
 * Provide your [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 * Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
 * Is there any new logging data being captured?  If so, what data is being captured, how, and where is it stored?
 * Is [Personal Health Information/PHI](https://www.hhs.gov/hipaa/index.html), [Personal Identifiable Information/PII](https://www.dol.gov/general/ppii), or any other [Personal Information/PI](https://www.oag.ca.gov/privacy/ccpa) being captured? If so, please answer the following questions:
-    * Is the PHI strongly encrypted?
-    * Is the PII encrypted?
+    * Is the PHI strongly encrypted? There is no PHI
+    * Is the PII encrypted? All PII is encrypted over transit. We can discuss over storage specifics on private channel.
     * Can the sensitive information be scrubbed?
 * Are there any new, modified, or existing Cookies being used?: No
     * If so, are there any new Cookies?: N/A
@@ -50,21 +53,14 @@ The My Education Benefits application is an application hosted on VA.gov for sub
 
 Please provide the following documentation as attachments.
 * [X] Architecture Diagram:
-   The architecture diagram can be provided on a private channel.
-   
-* [ ] Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
-    * If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
-* [ ] Sequence Diagram:
-    This diagram must include any authentication steps if this is an authenticated experience.
-* [ ] Data Flow Diagram:
-    This diagram must illustrate the following specifics.
-    * What data is collected or used, and where, including information such as credentials used by this system?
-    * Where is the data is stored and how, including information such as any encryption used?
-    * How is the data transferred, including information such as any encryption used?
-    * Who accesses the data and in what capacity (read or read-write)?
-    * What is the audit trail of data access and manipulation?
-* [ ] API Endpoint Documentation:
-    For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status, and get letters from the DGIB Managed Environment. The DGIB Managed Environment is an external managed service that provides an API supporting education claim benefit functions including fetching claimant/claim status information and also claim processing automation.
+   The architecture diagram for DGIB can be provided on a private channel.
+* [X] Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
+    We can go over DGIB Managed Environment response plan on private channel.
+* [X] Sequence Diagram: We can provide authentication sequence diagram on private channel.
+* [X] Data Flow Diagram: We can provide an information flow diagram on private channel.
+* [X] API Endpoint Documentation:
+
+For My Education Benefits we have created a series of endpoints to get a claimant's information, eligibility status, submit a claim, get claim status, and get letters from the DGIB Managed Environment. The DGIB Managed Environment is an external managed service that provides an API supporting education claim benefit functions including fetching claimant/claim status information and also claim processing automation.
 
 The logged in user information is never sent from the FE, to avoid query manipulation. Instead, each one of these endpoints will use the logged in user information available on vets-api to generate the appropriate REST queries for the logged in user to the DGIB Managed Environment API. Secure communication between the vets-api endpoints and DGIB will be implemented using https and JWT tokens. DGIB expects vets-api endpoints to send JWT tokens on the request header and will validate them before sending or processing any information. 
 
@@ -192,12 +188,8 @@ The implemented endpoints are:
 ```
     
 * Product Specifics:
-    * [ ][**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/education-benefits-form/release-plan.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    * [ ] [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/education-benefits-form/product-outline.md)
-    - Ensure Product Outline contains **Incident Response** info, including:
-        - Points of contact for your system and dependent VA back-ends
-        - Links to dashboards that help identify and debug application issues
-    * [ ] Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Product_Playbook_Security.md)
+    * [X] [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/education-benefits-form/release-plan.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+    * [X] [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/education-benefits-form/product-outline.md)
 
 ## Additional information
 
