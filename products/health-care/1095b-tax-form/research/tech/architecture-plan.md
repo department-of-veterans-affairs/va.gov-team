@@ -1,217 +1,140 @@
+Architecture Plan
+=================
 
+Overview
+--------
 
-<h1>Architecture Plan</h1>
+This document provides detailed information on the architecture for generating the 1095B form via data from the Enrollment System.
 
+**Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App**
 
-<h2>Overview</h2>
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Screen%20Shot%202022-02-03%20at%205.04.33%20PM.png)
 
+[Link to Mural](https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616)
 
-<p>
-This document provides detailed information on the architecture for generating the 1095B form via data from the Enrollment System. 
-</p>
-<p>
-<strong>Enrollment System -> S3 Bucket -> Database -> API -> PDF Generation -> React App </strong>
-</p>
-<p>
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/1095b-tax-form/research/tech/Screen%20Shot%202022-02-03%20at%205.04.33%20PM.png"></img>
-</p>
-<p>
-<a href="https://app.mural.co/t/innovationboards1199/m/innovationboards1199/1643907581165/b80fb9dbbef9a6beb4af59cbcfba076830226051?sender=u257b57923703399236fc7616">Link to Mural<a/>
-</p>
-<h2>Enrollment System</h2>
+Enrollment System
+-----------------
 
+Where we get the data from
 
-<p>
-Where we get the data from 
-</p>
-<p>
-<strong>Steps</strong>
-</p>
-<ol>
+**Steps**
 
-<li>Batch job runs twice a week creating new flat file (text delimited ) listing all rows of veterans who called in to update their data 
+1.  Batch job runs twice a week creating new flat file (text delimited ) listing all rows of veterans who called in to update their data
+2.  Flat file is sent to print vendor and simultaneously can be sent to an S3 bucket via batch script
 
-<li>Flat file is sent to print vendor and simultaneously can be sent to an S3 bucket via batch script 
-</li>
-</ol>
-<p>
-<strong>Questions</strong>
-</p>
-<p>
-    How to validate that batch script is operational, deal with any potential downtime/etc?
-</p>
-<h2>S3 Bucket</h2>
+**Questions**
 
+How to validate that batch script is operational, deal with any potential downtime/etc?
 
-<p>
+S3 Bucket
+---------
+
 Where the initial flat file is stored before it is converted
-</p>
-<p>
-<strong>Steps</strong>
-</p>
-<ol>
 
-<li>Script listens for new files being added to the bucket
+**Steps**
 
-<li>If script finds a new file, triggers a process to read the file, identify new data points, send to database
-</li>
-</ol>
-<p>
-<strong>Requirements</strong>
-</p>
-<p>
+1.  Script listens for new files being added to the bucket
+2.  If script finds a new file, triggers a process to read the file, identify new data points, send to database
+
+**Requirements**
+
 Setting up S3 bucket
-</p>
-<p>
-Writing script  from #2
-</p>
-<p>
-<strong>Questions </strong>
-</p>
-<p>
-	What are the VA conventions for setting up an S3 bucket? 
-</p>
-<h2>Database (Aurora PGSQL)</h2>
 
+Writing script from #2
 
-<p>
-Where all the data will be stored where its easy to sort/query/filter 
-</p>
-<p>
-<strong>Steps</strong>
-</p>
-<ol>
+**Questions**
 
-<li>Initially populated with data sent to print vendor from S3 bucket
+What are the VA conventions for setting up an S3 bucket?
 
-<li>Process to update rows of data that have been changed per reading from S3 Bucket
+Database (Aurora PGSQL)
+-----------------------
 
-<li>Data queries passed through API 
-</li>
-</ol>
-<p>
-<strong>Requirements</strong>
-</p>
-<p>
-	Setting up database 
-</p>
-<p>
-	Write ingest script to populate + update data 
-</p>
-<p>
-<strong>Questions</strong> 
-</p>
-<p>
-	What are the VA conventions for setting up an Aurora PGSQL database? 
-</p>
-<h2>API (vets-api)</h2>
+Where all the data will be stored where its easy to sort/query/filter
 
+**Steps**
 
-<p>To get data from the database in a secure, reliable way </p>
+1.  Initially populated with data sent to print vendor from S3 bucket
+2.  Process to update rows of data that have been changed per reading from S3 Bucket
+3.  Data queries passed through API
 
-<p>
-<strong>Steps </strong>
-</p>
-<ol>
+**Requirements**
 
-<li>User makes call for their PDF
+Setting up database
 
-<li>Triggers an API call to query the database 
+Write ingest script to populate + update data
 
-<li>Data is received
+**Questions**
 
-<li>Controller makes call to generate the PDF with data
-</li>
-</ol>
-<p>
-<strong>Requirements</strong>
-</p>
-<p>
-Create the API for querying database</p>
-<p>Create the controller for making the call to generate a PDF
-</p>
-<p>Writing tests to validate API </p>
-<p>Error handling</p>
-<p>
-<strong>Questions </strong>
-</p>
-<p>
-Where in vets-api should the new API live? 
-</p>
-<h2>PDF Generation </h2>
+What are the VA conventions for setting up an Aurora PGSQL database?
 
+API (vets-api)
+--------------
 
-<p>
+To get data from the database in a secure, reliable way
+
+**Steps**
+
+1.  User makes call for their PDF
+2.  Triggers an API call to query the database
+3.  Data is received
+4.  Controller makes call to generate the PDF with data
+
+**Requirements**
+
+Create the API for querying database
+
+Create the controller for making the call to generate a PDF
+
+Writing tests to validate API
+
+Error handling
+
+**Questions**
+
+Where in vets-api should the new API live?
+
+PDF Generation
+--------------
+
 We need a script to fill the PDF form with data
-</p>
-<p>
-<strong>Steps </strong>
-</p>
-<ol>
 
-<li>PDF generation function is called from vets-api
+**Steps**
 
-<li>Uses pdf_fill to run the mapping and filling functions 
+1.  PDF generation function is called from vets-api
+2.  Uses pdf\_fill to run the mapping and filling functions
+3.  PDF is generated and sent back via controller
 
-<li>PDF is generated and sent back via controller
-</li>
-</ol>
-<p>
-<strong>Requirements </strong>
-</p>
-<p>
-	Creating a new ruby script for mapping the PDF
-</p>
-<p>
-	Uploading 1095B PDF to appropriate pdf_fill folder
-</p>
-<p>
-	Testing to make sure PDF is filled and sends back to controller
-</p>
-<p>
-	Make sure PDF is deleted after generation
-</p>
-<p>
-<strong>Questions</strong>
-</p>
-<p>
-If the PDF ever changes, how will this code be updated? 
-</p>
-<p>
-<strong> 	</strong>
-</p>
-<h2>React App</h2>
+**Requirements**
 
-What the user sees on the website and where the PDF will be ultimately shown 
+Creating a new ruby script for mapping the PDF
 
+Uploading 1095B PDF to appropriate pdf\_fill folder
 
-<strong>Steps </strong> 
+Testing to make sure PDF is filled and sends back to controller
 
+Make sure PDF is deleted after generation
 
-<ol>
+**Questions**
 
-<li>User visits the vets.gov 1095B page
+If the PDF ever changes, how will this code be updated?
 
-<li>React app makes the call to API 
+React App
+---------
 
-<li>API returns PDF which is displayed to user
-</li>
-</ol>
+What the user sees on the website and where the PDF will be ultimately shown **Steps**
 
-<strong>Requirements  </strong>
+1.  User visits the vets.gov 1095B page
+2.  React app makes the call to API
+3.  API returns PDF which is displayed to user
 
-<p>
+**Requirements**
+
 A page for authenticated users needs to be created in React on vets-website, following design team lead
-</p>
-<p>
+
 Test the entire flow, confirming that PDF is rendered correctly
-</p>
-<p>
-Make sure page is 508 accessible 
-</p>
 
-<strong>Questions </strong>
+Make sure page is 508 accessible
 
-<p>
-<strong>N/A</strong>
-</p>
+**Questions**
+
+**N/A**
