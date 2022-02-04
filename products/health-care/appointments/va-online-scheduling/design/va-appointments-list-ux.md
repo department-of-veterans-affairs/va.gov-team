@@ -28,6 +28,16 @@ A Veteran can complete some tasks on these appointments
 
 Confirmed appointments may be canceled, or occur in the past.
 
+### Appointment modalities (how a Veteran attends an appointment)
+
+Veterans most often attend confirmed appointments in person, but also have many telehealth options, and may attend over the phone. These are called out in the UI.
+
+#### VA Video Care
+[TODO]
+
+#### Phone
+[TODO]
+
 ## Pending appointments
 
 A pending appointment is created when a Veteran requests an appointment through VAOS - [more details can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md). Once requested, these show on the pending appointments list in VAOS. This list answers these Veteran questions:
