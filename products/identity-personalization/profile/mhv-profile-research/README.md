@@ -41,7 +41,8 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 2. Of data that is not already in the VA.gov profile, are there data points that should not or do not need to move over? How can we determine this?
 3. Given that all of the MHV profile is currently *not* supported by VA Profile or other backends, what work is the MHV profile team already doing to start to get their profile data into VA Profile or other backends?
 4. Are there data points that are used by MHV coordinators in the profile? If so, what are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
-5. What might a strategy for starting to integrate some of the MHV profile data into VA.gov look like?
+5. What user needs/expecations should we consider? What about stakeholder expectations?
+6. What might a strategy for starting to integrate some of the MHV profile data into VA.gov look like?
 
 ## Solution approach
 
