@@ -49,6 +49,7 @@ Where the initial flat file is stored before it is converted
 - What are the VA conventions for setting up an S3 bucket?
 - Can we have a lambda function listening for new files to hit the bucket?
 - How long do we want to store files in the bucket? Do we want to keep both versions, pre and post conversion for database?
+- Who do we need to talk to in order to get AWS access? Or do we run aterraform script to create a new bucket?
 
 
 
@@ -72,6 +73,7 @@ Where all the data will be stored where its easy to sort/query/filter
 **Questions**
 
 - What are the VA conventions for setting up an Aurora PGSQL database?
+- Do we need an AWS account to create the database? If so, who can get us access? How long will getting access take? 
 
 API (vets-api)
 --------------
