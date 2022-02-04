@@ -92,7 +92,7 @@ To get data from the database in a secure, reliable, fast way
 
 - Writing tests to validate API
 
-Error handling
+- Error handling
 
 **Questions**
 
@@ -113,7 +113,7 @@ We need a script to fill the PDF form with data
 
 - Creating a new ruby script for mapping the PDF
 
-- Uploading 1095B PDF to appropriate pdf\_fill folder
+- Uploading 1095B PDF to appropriate pdf_fill folder
 
 - Testing to make sure PDF is filled and sends back to controller
 
@@ -121,7 +121,7 @@ We need a script to fill the PDF form with data
 
 **Questions**
 
-If the PDF ever changes, how will this code be updated?
+- If the PDF ever changes, how will this code be updated?
 
 React App
 ---------
