@@ -15,7 +15,7 @@ This document provides detailed information on the architecture for generating t
 Enrollment System
 -----------------
 
-Where we get the data from
+Where we get the 1095B veteran data from
 
 **Steps**
 
