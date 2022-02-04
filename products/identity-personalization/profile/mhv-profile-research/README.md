@@ -15,10 +15,6 @@ Last updated February 4, 2022
 |Marci McGuire |Product Manager| marci.mcguire@gcio.com |
 |Liz Lantz |Researcher| liz.lantz@adhocteam.us |
 
-## Overview
-
-With the health "apartment" work on the horizon, we need to figure out how to reconcile the MyHealtheVet profile with the VA.gov profile. This isn't as simple as moving over everything from MyHealtheVet into VA.gov; we need to figure out what data should move over, what data is or is not already supported by the VA Profile backend, and a strategy for making the transition.
-
 ## Problem Statement
 
 Currently, MyHealtheVet has it's own profile while VA.gov also has it's own profile. With MyHealtheVet rolling into VA.gov as the health apartment, we have to figure out how to integrate the MyHealtheVet profile into the VA.gov profile so essential functionality is not lost.
