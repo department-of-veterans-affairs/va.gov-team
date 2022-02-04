@@ -22,6 +22,10 @@ Where we get the data from
 1.  Batch job runs twice a week creating new flat file (text delimited ) listing all rows of veterans who called in to update their data
 2.  Flat file is sent to print vendor and simultaneously can be sent to an S3 bucket via batch script
 
+**Requirements**
+- Follow up with Josh/POCs that they have everything they need from us to set up the script
+- Make sure what we need is communicated clearly and in writing for easy confirmation 
+
 **Questions**
 
 - How to validate that batch script is operational, deal with any potential downtime/etc?
