@@ -4,8 +4,8 @@ The VAOS appointments list displays a summary of a Veteran's upcoming, past, and
 
 ## Resources
 
-[**Terms [WIP]**](https://docs.google.com/spreadsheets/d/1zGfyAjwLgcU6KNpCQK09hQzKoN4ZmrM8u5Ejpitem1Q/edit#gid=520523114) (Google Sheets)
-The terms used in the appointments lists and detail pages.
+[**Appointment list content**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/copy-docs/homepage.md)
+All the copy displayed to Veterans in the appointments list. See also the definitions of [**terms [WIP]**](https://docs.google.com/spreadsheets/d/1zGfyAjwLgcU6KNpCQK09hQzKoN4ZmrM8u5Ejpitem1Q/edit#gid=520523114) (Google Sheets) used in the appointments lists and detail pages.
 
 [**Appointments list UI [WIP]**](https://www.figma.com/file/XEYv3OTKEs389H2aZ59zZ9/?node-id=0%3A1)(Figma)
 
