@@ -318,8 +318,12 @@ Are we on hold for this besides backend build?
 
 ### Payment history
 
+Main goal: Be ready for QA. Prioritize tickets & work accordingly so that anything that is a QA dependency gets top priority.
+
 **PM**
 
+- Review QA test cases and make sure they are accurate given any updates from user testing
+- Informal click through of the feature to make sure it is ready for QA
 - Meet to discuss approach for adding medical copay information
   -  Are we adding this to Benefit payments & debts, or health care?
   -  Does this need separate user research?
@@ -328,13 +332,31 @@ Are we on hold for this besides backend build?
 
 **Design**
 
+*Liz*
+
+- Update My VA contact center guide with Benefit payments & debts info
+  - May also need to update content on "Benefits you might be interested in" since that has also changed
+- Informal click through of the feature to make sure it is ready for QA
+- Support Angela: Meet to discuss approach for adding medical copay information
+
+*Angela*
+
 - Meet to discuss approach for adding medical copay information
   -  Are we adding this to Benefit payments & debts, or health care?
   -  Does this need separate user research?
   -  Is this more of an enhancement or small, separate project? 
   -  [Link to medical copay content page](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)\
--  Start design for adding medical copay information
+- My VA sketch file clean up
 
+**FE**
+
+- Build error states
+- Build for updates from user testing
+- Informal click through of the feature to make sure it is ready for QA
+
+**BE**
+
+- Ask Jeff for work for Lihan
 
 ## Sprint 68 (2/23 - 3/8)
 [Sprint 68 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30273)
@@ -342,6 +364,8 @@ Are we on hold for this besides backend build?
 ### PTO
 
 - Angela: 2/24 - 2/28
+
+-  Start design for adding medical copay information
 
 ## Sprint 69 (3/9 - 3/22)
 [Sprint 69 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30274)
