@@ -29,7 +29,7 @@ The My Education Benefits application is an application hosted on VA.gov for sub
             * If so, is that process isolated?
             * If so, what additional credentials are available to that process?
         * The code base is infiltrated or ex-filtrated.
-    * Links to dashboards that help identify and debug application issues
+    * Links to dashboards that help identify and debug application issues: 
 * Provide your [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 * Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
 * Is there any new logging data being captured?  If so, what data is being captured, how, and where is it stored?
@@ -49,11 +49,9 @@ The My Education Benefits application is an application hosted on VA.gov for sub
 ## Artifacts
 
 Please provide the following documentation as attachments.
-* [ ] Architecture Diagram:
-    This diagram must go beyond simple boxes and lines. It must clearly indicate which portions of the architecture are within the scope of the review, which portions are dependencies within the product, and which portions are external dependencies.
-    This diagram must also illustrate the following specifics.
-    * Which implementation of security approaches were considered along with the approach that was chosen and why?
-    * If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected?
+* [X] Architecture Diagram:
+   The architecture diagram can be provided on a private channel.
+   
 * [ ] Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
     * If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
 * [ ] Sequence Diagram:
