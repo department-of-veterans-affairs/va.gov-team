@@ -9,7 +9,9 @@ All the copy displayed to Veterans in the appointments list. See also the defini
 
 [**Appointments list UI [WIP]**](https://www.figma.com/file/XEYv3OTKEs389H2aZ59zZ9/?node-id=0%3A1)(Figma)
 
-## Upcoming, past, and canceled appointments
+## Confirmed appointments
+
+Confirmed appointments are created when a Veteran direct-schedules an appointment through VAOS, or when a scheduler at a facility creates the appointment it in one of a few systems.
 
 The VAOS appointments list answers these questions:
 
@@ -23,6 +25,8 @@ A Veteran can complete some tasks on these appointments
 * Print my list, or individual appointments
 * Add an appointment to my calendar
 * Cancel my appointment
+
+Confirmed appointments may be canceled, or occur in the past.
 
 ## Pending appointments
 
