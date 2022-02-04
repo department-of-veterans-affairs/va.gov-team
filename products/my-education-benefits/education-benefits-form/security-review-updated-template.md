@@ -23,7 +23,7 @@ The My Education Benefits application is an application hosted on VA.gov for sub
 
 * Please describe a plan to monitor this code base after deployment, including the following scenarios (_NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!_).
     * The code base is compromised at source- or run-time.
-         * How does the code base get disabled in the product? We can disable the MEB UI application on VA.gov with vagovprod UI flag. We can disable vets-api with feature flag. As for DGIB Managed Service APIs, processes can be discussed per request on private channel.
+         * How does the code base get disabled in the product? For VA.gov hosted UI and vets-api endpoints, we can use the documented vagovprod flag and feature flags to turn off the full application on producation. As for DGIB Managed Service APIs, processes can be discussed per request on private channel.
         * How would you detect a compromise?
             The DGIB Managed Environment uses COTS software for monitoring/auditing/logging. We can provide details on private channel/meeting.
         * What process and privilege does the code base execute under?
