@@ -24,8 +24,8 @@ Where we get the data from
 
 **Questions**
 
--How to validate that batch script is operational, deal with any potential downtime/etc?
--If no data has been updated since the last batch, will we receive an empty file? 
+- How to validate that batch script is operational, deal with any potential downtime/etc?
+- If no data has been updated since the last batch, will we receive an empty file? 
 
 
 S3 Bucket
@@ -40,14 +40,14 @@ Where the initial flat file is stored before it is converted
 
 **Requirements**
 
--Setting up S3 bucket
+- Setting up S3 bucket
 
--Writing script/lambda function from #2
+- Writing script/lambda function from #2
 
 **Questions**
 
--What are the VA conventions for setting up an S3 bucket?
--Can we have a lambda function listening for new files to hit the bucket?
+- What are the VA conventions for setting up an S3 bucket?
+- Can we have a lambda function listening for new files to hit the bucket?
 
 
 
@@ -64,13 +64,13 @@ Where all the data will be stored where its easy to sort/query/filter
 
 **Requirements**
 
--Setting up database
+- Setting up database
 
--Write ingest script to populate + update data
+- Write ingest script to populate + update data
 
 **Questions**
 
--What are the VA conventions for setting up an Aurora PGSQL database?
+- What are the VA conventions for setting up an Aurora PGSQL database?
 
 API (vets-api)
 --------------
@@ -86,17 +86,17 @@ To get data from the database in a secure, reliable, fast way
 
 **Requirements**
 
--Create the API for querying database
+- Create the API for querying database
 
--Create the controller for making the call to generate a PDF
+- Create the controller for making the call to generate a PDF
 
--Writing tests to validate API
+- Writing tests to validate API
 
 Error handling
 
 **Questions**
 
--Where in vets-api should the new API live?
+- Where in vets-api should the new API live?
 
 PDF Generation
 --------------
@@ -111,13 +111,13 @@ We need a script to fill the PDF form with data
 
 **Requirements**
 
--Creating a new ruby script for mapping the PDF
+- Creating a new ruby script for mapping the PDF
 
--Uploading 1095B PDF to appropriate pdf\_fill folder
+- Uploading 1095B PDF to appropriate pdf\_fill folder
 
--Testing to make sure PDF is filled and sends back to controller
+- Testing to make sure PDF is filled and sends back to controller
 
--Make sure PDF is deleted after generation
+- Make sure PDF is deleted after generation
 
 **Questions**
 
@@ -134,12 +134,12 @@ What the user sees on the website and where the PDF will be ultimately shown **S
 
 **Requirements**
 
--A page for authenticated users needs to be created in React on vets-website, following design team lead
+- A page for authenticated users needs to be created in React on vets-website, following design team lead
 
--Test the entire flow, confirming that PDF is rendered correctly
+- Test the entire flow, confirming that PDF is rendered correctly
 
--Make sure page is 508 accessible
+- Make sure page is 508 accessible
 
 **Questions**
 
--None currently
+- None currently
