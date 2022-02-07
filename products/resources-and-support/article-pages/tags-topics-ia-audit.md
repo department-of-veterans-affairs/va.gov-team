@@ -22,6 +22,7 @@ All articles can have multiple Tags, Topics, and links to VA benefits (up to 3 e
 
  - Many articles in "Other topics and questions" were also included within other articles. Should the "Other topics and questions" only be used when the article does not fit in to another topic section?
  - Should more topics be created that match VA benefit hubs?
+ - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort/card-sort-research-summary.md">Card Sort Summary</a> *Of note, inclusion of "Records"*
 
 **Links to VA Benefit hubs**
 
