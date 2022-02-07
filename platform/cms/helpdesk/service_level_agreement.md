@@ -42,7 +42,7 @@ SLA adherence will be tracked using the software’s built-in reporting.
 
 # Federal Holidays
 
-All federal government offices close on federal holidays.  Help Desk support support will not operate during Business Hours on Federal Holidays and will stand down.
+All federal government offices close on federal holidays.  Help Desk support will not operate during Business Hours on Federal Holidays and will stand down.
 
 As a collateral duty, some Tier 2 engineer staff will be assigned and made available "on call" as part of Pager Duty to address critical issues impacting Veterans access to information.  
 
