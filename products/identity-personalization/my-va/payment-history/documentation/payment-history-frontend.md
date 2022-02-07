@@ -1,27 +1,20 @@
-# Benefit payments and debt documentation
+# # Benefit payments and debt documentation
 
 ## Mockups
 
-**Will add after design intent**
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/p/3FB0D20D-D78F-4998-B2F0-1482780C34BB?search=payment)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/p/43720C90-8E38-4058-8213-B52543FFE8C7/?search=payment)
 
-- [Desktop](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i)
-- [Mobile](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483175/simulate/no-panels?mode=i)
-
-## When to show the 'Benefit payments and debt' section
-
+## When to show the ‘Benefit payments and debt’ section
 **Show**
 
-- If we recieve any information from the payment information API, then we will show this section.  
-
-
+- If we receive any information from the payment information API, then we will show this section.  
 **Do NOT show**
-
 - If we don't receive any information from the payment history API.
 
 ## UX Specs
 
 ### Outstanding debt notification
-
 SCREENSHOT
 
 **Show**
@@ -38,6 +31,16 @@ You have [count] outstanding debts. [Manage your VA debt](/manage-va-debt/your-d
 
 You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
 
+### Your total VA debt balance is $0.
+SCREENSHOT
+**Show**
+
+- If a user has no debts in the debt portal.  
+
+#### **Content**
+
+Your total VA debt balance is $0.
+
 ### Deposit-made card
 
 SCREENSHOT
@@ -48,7 +51,8 @@ SCREENSHOT
 
 **Do NOT Show**
 
-- If a user has no payments in the last 30 days. If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
+- If a user has no payments in the last 30 days. 
+- If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
 
 SCREENSHOT
 
@@ -64,11 +68,11 @@ Type: [type]
 
 [View your payment history](/va-payment-history/payments)
 
-
-
 ### Manage direct deposit link
 
 SCREENSHOT
+
+Use font awesome icon `dollar` for icon in link list
 
 **Show**
 
@@ -84,46 +88,91 @@ SCREENSHOT
 
 [Manage your direct deposit](/profile/direct-deposit-information)
 
-### Request travel reimbursement link
+### Learn more about VA debt link
 
 SCREENSHOT
+
+- Use font-awesome icon “file-invoice-dollar”
 
 **Show**
 
-- Always show if a user has health care and the health care section is on My VA
+- If a user has no debts
 
-SCREENSHOT
+**Do NOT Show**
+
+- If a user has outstanding debts (they’ll have the Manage your VA debt link in the alert instead)
 
 #### Content
 
-[Request travel reimbursement](/health-care/get-reimbursed-for-travel-pay/)
+[Learn more about VA debt](/resources/va-debt-management/)
+
+### View your payment history link
+
+- Use font awesome icon “user-check”
+
+**Show in payment card**
+
+SCREENSHOT
+- If a user has a payment in the last 30 days
+
+**Show in link list**
+SCREENSHOT
+- If a user has not had a payment in the last 30 days
+
+#### Content
+[View your payment history](/va-payment-history/payments)
 
 ## States
 
-**State 1: A user who has new messages + outstanding debt + an upcoming payment in the next 30 days.**  
+### State 1: A user who has outstanding debt + received a payment within the last 30 days.  
 
-*Visual specs*
+#### Visual specs
+- Use the [background color only warning alert component](https://design.va.gov/storybook/?path=/story/components-va-alert--background-only-with-icon&args=status:warning) for the outstanding debt message.
+- The payment card uses the following styles from the design system:
+	- `H3` element for heading
+	- `p` for payment type
+	- Default link style for view your payment history link
+	- Maintain  `20px` of space between the alert and the card
 
-SCREENSHOT
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/oYm25xY)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/wLRzMYw)
 
-**State 2: A user who has NO new messages + NO outstanding debt + an upcoming payment in the next 30 days.**  
+### State 2: A user who has NO outstanding debt + received a payment within the last 30 days.  
 
-*Visual specs*
+#### Visual specs
+- Use a plain `p` element for no outstanding debt message
+- Display payment card as described above
+- Display Learn more about VA debt link in link list
+	
 
-SCREENSHOT
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/1KnQlRO)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
 
+### State 3: A user has had NO payments in the last 30 days + NO debt.
 
-**State 3: A user has had NO deposits in the next 30 days + NO debt.**  
+#### Visual specs
+- Use a plain `p` element for no outstanding debt message
+> Your total VA debt balance is $0.
+- Use a plain `p` element for no recent payments message
+> You haven’t received any payments in the last 30 days.
+- Display the “view your payment history” link in the link list
+- Display “Learn about VA debt” in the link list
 
-*Visual specs*
+Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1JK3qy)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/qea25yM)
 
-SCREENSHOT
+### State 4: If a user has had NO payments in the last 30 days + HAS debt.  
 
-**State 4: If a user has had NO deposits in the next 30 days + HAS debt.**  
+- Use the [background color only warning alert component](https://design.va.gov/storybook/?path=/story/components-va-alert--background-only-with-icon&args=status:warning) for the outstanding debt message.
+- Use a plain `p` element for no recent payments message
+- Display the “view your payment history” link in the link list
 
-*Visual specs*
-
-SCREENSHOT
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/paD25yQ)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2QxrE)
 
 **State 5: If a user has multiple deposits in the same day.**  
 
