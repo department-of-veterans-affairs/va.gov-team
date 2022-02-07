@@ -1,4 +1,4 @@
-# # Benefit payments and debt documentation
+# Benefit payments and debt documentation
 
 ## Mockups
 
@@ -7,15 +7,15 @@
 
 ## When to show the ‘Benefit payments and debt’ section
 **Show**
-
 - If we receive any information from the payment information API, then we will show this section.  
+
 **Do NOT show**
 - If we don't receive any information from the payment history API.
 
 ## UX Specs
 
 ### Outstanding debt notification
-SCREENSHOT
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/outstanding-debt-notification.png” width=“50%" />
 
 **Show**
 
@@ -32,9 +32,9 @@ You have [count] outstanding debts. [Manage your VA debt](/manage-va-debt/your-d
 You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
 
 ### Your total VA debt balance is $0.
-SCREENSHOT
-**Show**
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
 
+**Show**
 - If a user has no debts in the debt portal.  
 
 #### **Content**
@@ -43,7 +43,7 @@ Your total VA debt balance is $0.
 
 ### Deposit-made card
 
-SCREENSHOT
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png” width=“50%" />
 
 **Show**
 
@@ -54,7 +54,7 @@ SCREENSHOT
 - If a user has no payments in the last 30 days. 
 - If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
 
-SCREENSHOT
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
 
 #### Content
 
@@ -70,19 +70,17 @@ Type: [type]
 
 ### Manage direct deposit link
 
-SCREENSHOT
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
 
 Use font awesome icon `dollar` for icon in link list
 
 **Show**
-
 - If a user has direct deposit set up.
 
 **Do NOT Show**
-
 - If a user does not have direct deposit set up.
 
-SCREENSHOT
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-direct-deposit.png” width=“50%" />
 
 #### Content
 
@@ -90,16 +88,14 @@ SCREENSHOT
 
 ### Learn more about VA debt link
 
-SCREENSHOT
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
 
 - Use font-awesome icon “file-invoice-dollar”
 
 **Show**
-
 - If a user has no debts
 
 **Do NOT Show**
-
 - If a user has outstanding debts (they’ll have the Manage your VA debt link in the alert instead)
 
 #### Content
@@ -111,13 +107,12 @@ SCREENSHOT
 - Use font awesome icon “user-check”
 
 **Show in payment card**
-
-SCREENSHOT
 - If a user has a payment in the last 30 days
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png” width=“50%" />
 
 **Show in link list**
-SCREENSHOT
 - If a user has not had a payment in the last 30 days
+<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50% />
 
 #### Content
 [View your payment history](/va-payment-history/payments)
