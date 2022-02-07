@@ -29,7 +29,9 @@ You have [count] outstanding debts. [Manage your VA debt](/manage-va-debt/your-d
 **When we do not have a count of debts**
 
 You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
+
 ----
+
 ### Your total VA debt balance is $0.
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
@@ -39,7 +41,9 @@ You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
 #### **Content**
 
 Your total VA debt balance is $0.
+
 ---
+
 ### Deposit-made card
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png" width="50%" />
@@ -66,7 +70,9 @@ Your total VA debt balance is $0.
 Type: [type]
 
 [View your payment history](/va-payment-history/payments)
+
 ---
+
 ### Manage direct deposit link
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
@@ -79,12 +85,14 @@ Use font awesome icon `dollar` for icon in link list
 **Do NOT Show**
 - If a user does not have direct deposit set up.
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-direct-deposit.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-direct-deposit.png" width="50%" />
 
 #### Content
 
 [Manage your direct deposit](/profile/direct-deposit-information)
+
 ---
+
 ### Learn more about VA debt link
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
@@ -100,7 +108,9 @@ Use font awesome icon `dollar` for icon in link list
 #### Content
 
 [Learn more about VA debt](/resources/va-debt-management/)
+
 ---
+
 ### View your payment history link
 
 - Use font awesome icon “user-check”
@@ -114,8 +124,10 @@ Use font awesome icon `dollar` for icon in link list
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
 #### Content
-[View your payment history](/va-payment-history/payments)
+[View your payment history](/va-payment-history/payments) 
+
 ---
+
 ## States
 
 ### State 1: A user who has outstanding debt + received a payment within the last 30 days.  
@@ -131,7 +143,9 @@ Use font awesome icon `dollar` for icon in link list
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/oYm25xY)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/wLRzMYw)
+-
 ---
+
 ### State 2: A user who has NO outstanding debt + received a payment within the last 30 days.  
 
 #### Visual specs
@@ -143,7 +157,9 @@ Use font awesome icon `dollar` for icon in link list
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/1KnQlRO)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
+
 ---
+
 ### State 3: A user has had NO payments in the last 30 days + NO debt.
 
 #### Visual specs
@@ -157,7 +173,9 @@ Use font awesome icon `dollar` for icon in link list
 Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1JK3qy)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/qea25yM)
+
 ---
+
 ### State 4: If a user has had NO payments in the last 30 days + HAS debt.  
 
 #### Visual Specs
