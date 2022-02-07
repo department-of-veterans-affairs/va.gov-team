@@ -11,7 +11,7 @@
 <br aria-hidden="true"/>
 
 ## 5 Participants Are Not Enough
-For most VA services, we recommend not referencing the Nielsen Norman article [“Why you only need to test with 5 users”](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) as a reason to test with only 5 users before launch.
+For most VA services, we recommend not referencing the Nielsen Norman article [“Why you only need to test with 5 users”](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) as a reason to test with only 5 users before launch. 
 
 ### 1. The NN group article recommends multiple, lean studies.
 One study with only 5 participants that introduces new design changes will not be able to validate the future performance of those changes. 
@@ -27,6 +27,18 @@ One study with only 5 participants that introduces new design changes will not b
 The article was written on March 18, 2000. That’s two decades before testing on multiple devices, AT, and for inclusion was the norm. An update was released on June 03, 2021, but it is still a decade old. For context, the concept of responsive web design was introduced in 2010 by Ethan Marcotte. We now know that behavior on mobile and desktop can significantly vary, so findings for one cannot be universally applicable for the other.
 
 > “If, however, you are simply attempting to expose as many usability problems as possible in the shortest amount of time, then **test at least four to five participants of each user or audience cell**.” - Handbook of Usability Testing
+
+## How many participants should I recruit then?
+How many users you recruit depends on a number of different factors including, but not limited to:
+
+- The degree of confidence in the results that you require
+- The number of available resources to set up and conduct the test
+- The availability of the type of participants you require
+- The duration of the test session
+
+That being said, **a good rule of thumb is to recruit 4-6 participants users per user group**, or until the point you stop hearing new responses (**reaching saturation**).
+
+For more, read page 125 of [Dana Chisnell's Handbook of Usability Testing](https://www.wiley.com/en-au/Handbook+of+Usability+Testing:+How+to+Plan,+Design,+and+Conduct+Effective+Tests,+2nd+Edition-p-9780470185483).
 
 <br aria-hidden="true"/>
 
@@ -53,7 +65,7 @@ If feasible, we also recommend recruiting at least one participant from the foll
 - Veterans living abroad
 - Non-english speakers
 
-If time and budget allows, we recommend testing with Veterans who use the following AT:
+If time and budget allows, we recommend testing with Veterans who use the following AT. Ideally aim to recruit 4-6 of each group across iterative studies:
 - Screen reader (mobile and desktop, beginner and advanced)
 - Keyboard 
 - Magnification 
