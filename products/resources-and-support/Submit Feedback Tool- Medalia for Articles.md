@@ -1,26 +1,26 @@
-# Submit Feedback Tool (Medalia for Articles) Product Outline
+# Submit Feedback Tool (Medallia for Articles) Product Outline
 
 
 ---
 
 ## Overview
-*The Search and Discovery team would like to move away from having a separate feedback tool and use Medalia. Medalia will offer a combined experience for the Veterans as well streamline operations internally. Additionally Medalia already has analytics capabilities that the S&D team can build off of. Medallia's Feedback Survey Tool that we are interested in utilizing will allow users to rate multiple article pages on R&S*
+*The Search and Discovery team would like to move away from having a separate feedback tool and use Medallia. Medallia will offer a combined experience for the Veterans as well streamline operations internally. Additionally, Medallia already has analytics capabilities that the S&D team can build off of. Medallia's Feedback Survey Tool that we are interested in utilizing will allow users to rate multiple article pages on R&S*
 
 ## Problem Statement
-*Currently the Research and Article pages have the option for a veteran to submit whether their experience on the page was good or bad. The S&D team have been
-discussing adding additional canned messages for selection so we can futher analyze the reason for the selection i.e why it was good or bad. 
+*Currently the Resources and support article pages have the option for a veteran to submit whether their experience on the page was good or bad. 
+The S&D team has been discussing adding additional canned messages for selection so we can futher analyze the reason for the selection i.e why it was good or bad. 
 VA.gov also has a feedback survey selection on the right hand of the application. When we look to adding quetions for artcile experience we have a couple options to explore. All options require working with Jason Woodman's team to maket the appropriate decisicion for the path forward.*
 
 *Some of the options that exist could include combining the survey experiences, displaying them individually on the correct pages/articles, working towards if this then that decision trees, etc...*
  
 ## Desired User Outcomes
-
-- *Veterans may be confused why they are asked different questions on different pages on the website note- research to validate*
+- Users will have a consistent experience and know where to look on a page in order to provide feedback
 - *Solving the issue of multiple surveys could provide less frustration, more efficiency, ability to submit issues, and just an overall improved experience for the Veterans*
 
 ## Undesired User Outcomes
 - *Creating a frustrating experience for the Veterans*
 - *Creating a more time consuming experience for the Veterans*
+- *Veterans may be confused why they are asked different questions on different pages on the website note- research to validate*
 - Inconsistent UI for submitting feedback
 - Users feel interrupted and/or frustrated by attempts to collect feedback
 
@@ -28,7 +28,7 @@ VA.gov also has a feedback survey selection on the right hand of the application
 - *Streamlined sensible process for Veterans to submit feedback*
 - Product/content owners are able to quickly and easily access user feedback
 - Product/content owners are able to understand user feedback in order to make improvements
-- *Utiliziation of Medalia since it is already implemented and provides analytics*
+- *Utiliziation of Medallia since it is already implemented and provides analytics*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
@@ -39,7 +39,7 @@ VA.gov also has a feedback survey selection on the right hand of the application
 
 ---
 ## Measuring Success
-- *Utilization of the solution implemented will determine the success of using Medalia vs. the existing good/bad feedback tool. 
+- *Utilization of the solution implemented will determine the success of using Medallia vs. the existing good/bad feedback tool. 
 
 ### Key Performance Indicators (KPIs)
 *Data that will be collected are:
@@ -72,8 +72,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Medalia can be enabled/disabled on certain pages*
-- *S&D could have a separate set of questions or add questions to Medalia and have those presented on the appropriate article pages*
+- *Medallia can be enabled/disabled on certain pages*
+- *S&D could have a separate set of questions or add questions to Medallia and have those presented on the appropriate article pages*
 - Medallia's Intercept Tool allows users to submit feedback only once and will not reappear until 90 days later. We will not be utilizing this tool
 
 ## Solution Approach
