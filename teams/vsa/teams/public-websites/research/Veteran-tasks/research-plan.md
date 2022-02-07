@@ -2,7 +2,7 @@
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do from the home page. 
-We would like to learn more about what tasks Veterans want to do on VA.gov.
+We would like to learn which tasks Veterans most want to do on VA.gov.
 
 ### OCTO Objectives 
 
@@ -16,10 +16,10 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of 40+ tasks.
+The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 40 tasks.
 
 ### Outcome
-The Veteran top tasks that we identify can be used in future user research studies and design efforts on VA.gov. 
+The Veteran top tasks that we identify could be used in future user research studies and design efforts on VA.gov. 
 
 ### Research questions
 1. When Veterans visit VA.gov, what tasks are most important to them? 
@@ -28,11 +28,12 @@ The Veteran top tasks that we identify can be used in future user research studi
 
 
 ## Method	
-Starting from a list of about 40 tasks compiled from the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category. We would like to get sorting data from at least 30 Veterans, with about 20 unmoderated and about 10 moderated (via Zoom). The purpose of the moderated sessions is to hear feedback on the tasks and their importance--more qualitative data than the quantitative data from the card sort activity. 
+Starting from a list of about 40 tasks compiled from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category. We would like to get sorting data from at least 30 Veterans, with about 20 unmoderated and about 10 moderated (via Zoom). The purpose of the moderated sessions is to gather qualitative feedback on the tasks and their importance. 
 
 *Action item:* Review personas and maybe propose for each persona 10 unmoderated, 2-3 moderated.
 
-*Action item:* Need to get access to new VSA account for Optimal Workshop from Shawna.
+*Action item:* Remove duplicates from tasks collected and get down to ~40 tasks.
+*Action item:* Get access to new VSA account for Optimal Workshop from Shawna/Yana.
 
 
 ### Research materials
@@ -63,7 +64,7 @@ Ask Perigean to recruit **X** Veterans in order to get **Y** completed sessions 
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 non-native English speaker *(Please ask "What is the first language that you learned to speak as a child?" If not English, record as "non-native English speaker")*
+- At least 1 non-native English speaker *(Please ask "What is the first language that you learned to speak as a child?" If not English, record as "non-native English speaker" OR get question from Danielle)*
 
 ## Timeline
 
