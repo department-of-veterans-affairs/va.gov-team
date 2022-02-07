@@ -41,14 +41,13 @@ _Please note that other pages may need edits_
 ---
 
 ## Governance Team Resources
-[Documentation Update Guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance)
-[Guidelines for Governance Team Confluence Space](https://vfs.atlassian.net/wiki/spaces/AP/pages/1127219219/Guidelines+for+Team+spaces)
-[Guidelines for Platform Products and Services Confluence Space](https://vfs.atlassian.net/wiki/spaces/AP/pages/1321140361/Guidelines+for+Platform+Products+and+Services+space)
-[Description of Platform Website spaces and content](https://vfs.atlassian.net/wiki/spaces/AP/pages/1241579796/Organization)
+[Documentation Update Guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance) <br />
+[Guidelines for Governance Team Confluence Space](https://vfs.atlassian.net/wiki/spaces/AP/pages/1127219219/Guidelines+for+Team+spaces) <br />
+[Guidelines for Platform Products and Services Confluence Space](https://vfs.atlassian.net/wiki/spaces/AP/pages/1321140361/Guidelines+for+Platform+Products+and+Services+space) <br />
+[Description of Platform Website spaces and content](https://vfs.atlassian.net/wiki/spaces/AP/pages/1241579796/Organization) <br />
 
 ---
 ## How to configure this issue
 - [ ] **Ticket Type is labeled** ('tech-debt', 'collaboration-cycle')
 - [ ] **Attached to an Epic** (what body of work is this a part of?)
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `service-design`, `tools-be`, `tools-fe`)
-- [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
