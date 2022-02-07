@@ -7,6 +7,11 @@ assignees: ''
 
 ---
 
+## User Story
+_"As a (persona), I (want to), (so that)."_
+
+---
+
 ## Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
