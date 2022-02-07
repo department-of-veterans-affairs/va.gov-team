@@ -62,7 +62,7 @@ The Help Desk stand down will occur during the following dates for 2022:
 |------------------------------|---------------|
 | New Year's Day               | January 1     |
 | Martin Luther King Jr. Day   | January 17    |
-| George Washington's Birthday | February 15   |
+| George Washington's Birthday | February 21   |
 | Memorial Day                 | May 30        |
 | Independence Day             | July 4        |
 | Labor Day                    | September 5   |
