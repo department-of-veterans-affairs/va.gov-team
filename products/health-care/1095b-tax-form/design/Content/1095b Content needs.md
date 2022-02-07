@@ -25,11 +25,12 @@ Consider updating content on homepage and “find forms” to reference 1095-B o
     - Craft alert messaging?
   - https://www.va.gov/find-forms
     - Add an entry for the 1095 B; informational & FAQ as well as direct download in authenticated.
+  - https://www.va.gov/health-care/about-affordable-care-act/
   - https://www.va.gov/health/aca/index.asp
   - https://www.va.gov/health/aca/EnrolledVeterans.asp
   - https://www.va.gov/health/aca/information-for-tax-season.asp
-  - Letters
     - Current content not updated since 2018
+  - Letters
 
  *Path forward*: 
     - Design team to make a comprehensive list of everywhere across va.gov that could link back to us
