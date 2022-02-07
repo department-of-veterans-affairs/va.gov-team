@@ -350,7 +350,7 @@ A note on stuff from last sprint:
   -  Are we adding this to Benefit payments & debts, or health care?
   -  Does this need separate user research?
   -  Is this more of an enhancement or small, separate project? 
-  -  [Link to medical copay content page](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)\
+  -  [Link to medical copay content page](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)
 - My VA sketch file clean up
 
 **FE**
