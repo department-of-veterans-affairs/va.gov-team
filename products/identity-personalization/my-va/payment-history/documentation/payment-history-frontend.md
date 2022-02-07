@@ -15,7 +15,7 @@
 ## UX Specs
 
 ### Outstanding debt notification
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/outstanding-debt-notification.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/outstanding-debt-notification.png" width="50%" />
 
 **Show**
 
@@ -32,7 +32,7 @@ You have [count] outstanding debts. [Manage your VA debt](/manage-va-debt/your-d
 You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
 
 ### Your total VA debt balance is $0.
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
 **Show**
 - If a user has no debts in the debt portal.  
@@ -43,7 +43,7 @@ Your total VA debt balance is $0.
 
 ### Deposit-made card
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png" width="50%" />
 
 **Show**
 
@@ -54,7 +54,7 @@ Your total VA debt balance is $0.
 - If a user has no payments in the last 30 days. 
 - If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
 #### Content
 
@@ -70,7 +70,7 @@ Type: [type]
 
 ### Manage direct deposit link
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
 Use font awesome icon `dollar` for icon in link list
 
@@ -88,7 +88,7 @@ Use font awesome icon `dollar` for icon in link list
 
 ### Learn more about VA debt link
 
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
 - Use font-awesome icon “file-invoice-dollar”
 
@@ -108,11 +108,11 @@ Use font awesome icon `dollar` for icon in link list
 
 **Show in payment card**
 - If a user has a payment in the last 30 days
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png” width=“50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png" width="50%" />
 
 **Show in link list**
 - If a user has not had a payment in the last 30 days
-<img src=“https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png” width=“50% />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/upload/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50% />
 
 #### Content
 [View your payment history](/va-payment-history/payments)
