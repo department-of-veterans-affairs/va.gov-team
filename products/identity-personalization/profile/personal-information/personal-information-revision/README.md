@@ -55,7 +55,6 @@ In June 2021, VEO came to VA.gov to talk about integrating preferred name, prono
 
 ### Desired Business Outcomes
 
-- The VA is in compliance with executive order mandating this work.
 - VA employees have peace of mind that they are accurately addressing Veterans.
 
 ### Undesired Business Outcomes
