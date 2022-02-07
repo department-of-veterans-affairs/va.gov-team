@@ -56,6 +56,13 @@ So now let us click that [LINK] that you can find in the chat. It will take you 
 (Backup Plan – HCD (Human Centered Design) facilitator may need to share their screen to scroll/click for the participant) 
 
  
+## 0.5 VA.Gov Homepage
+
+Ask participant how they think they could get to a page to verify their monthly enrollments
+Ask how they would like to navigate there
+
+Notes: Track what language they use when talking about the task as well as any search terms they may enter.
+
 
 ## 1. Entry Point to Unauthenticated Page (2 Screens) 
 
