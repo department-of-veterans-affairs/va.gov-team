@@ -111,7 +111,7 @@ Use font awesome icon `dollar` for icon in link list
 
 **Show in link list**
 - If a user has not had a payment in the last 30 days
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50% />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
 #### Content
 [View your payment history](/va-payment-history/payments)
