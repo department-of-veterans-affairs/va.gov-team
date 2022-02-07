@@ -62,7 +62,8 @@ This research will allow us to understand where there are problems in the search
 - Do users expect to talk with a representative before appointing them? 
 - Do users understand how to select a representative?
 - How do users respond to pagination when there are many search results?  
-- How do users expect to submit their completed form?  
+- How do users expect to submit their completed form?
+- When do users sign in?  
 
 ### Hypothesis 
 - Users will initially look for information about accredited representatives in the white quadrants 
