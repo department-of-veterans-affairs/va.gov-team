@@ -395,11 +395,17 @@ A note on stuff from last sprint:
 - Always move over any unfinished project work to keep us on time with projects.
 - If there were general tickets we added to last sprint because we thought we had time but then ended up not having time, only move those over *if* (1) they are high priority, or (2) we clearly will have time this sprint. Otherwise, it's OK to deprioritize. Always feel free to ask if you have questions.
 
+**Priorities**
+
+1. Personal information revisions
+2. Bad address indicator
+3. All other work
+
 ### Personal information updates
 
 **PM**
 
-- Determine when we will be ready for QA
+- Determine when we will be ready for QA (assuming BE development starts on time)
 
 **Design**
 
@@ -417,15 +423,15 @@ A note on stuff from last sprint:
 
 ### Bad address indicator
 
-**PM**
-
-- Collab cycle kickoff
-
 **Design**
 
 - Meet with Marci/Samara to go over work
-- If time allows with personal info work, start design brainstorming
-  -  If there's not time, we don't need to include in sprint objectives and can move ths to sprint 68 
+- Start design discovery (If there's not time, we don't need to include in sprint objectives and can move this to sprint 68)
+  - Understand the problem/background
+  - Figure out what questions you have. Some questions I have:
+    - When someone is on VA.gov, when can we detect that they have a bad address?
+    - Can we proactively email all people who have the bad address indicator to log into VA.gov and update their address? How would this work? 
+  - Get answers to those question 
 
 ## Sprint 68 (2/23 - 3/8)
 
