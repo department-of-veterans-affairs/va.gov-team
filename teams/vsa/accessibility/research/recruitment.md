@@ -36,7 +36,7 @@ How many users you recruit depends on a number of different factors including, b
 - The availability of the type of participants you require
 - The duration of the test session
 
-That being said, **a good rule of thumb is to recruit 4-6 participants users per user group**, or until the point you stop hearing new responses (**reaching saturation**).
+That being said, **a good rule of thumb is to recruit 4-6 participants users per user group**, or until the point you stop hearing new responses (**saturation**).
 
 For more, read page 125 of [Dana Chisnell's Handbook of Usability Testing](https://www.wiley.com/en-au/Handbook+of+Usability+Testing:+How+to+Plan,+Design,+and+Conduct+Effective+Tests,+2nd+Edition-p-9780470185483).
 
