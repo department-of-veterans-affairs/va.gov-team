@@ -96,7 +96,7 @@ Before we look at the website, let’s start with a few introduction questions.
 ## Second Task: Finding a representative - 5-10 minutes 
 
 - Okay now we’re going to move to our prototype. I'm going to put a link in our chat, click on that link.
-- (Find prototype)[https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145370991/simulate/no-panels ]
+- [Find prototype](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145370991/simulate/no-panels )
 - Imagine that you want to file a claim with VA and you want to find a representative to help you.
 - You've come to this page, what do you do now?
 - Follow up questions: 
@@ -133,7 +133,7 @@ Before we look at the website, let’s start with a few introduction questions.
 ## Fourth Task: Contact current representative - 5 minutes 
 
 - Okay let's move on to our next task. 
-- (Find prototype)[https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145522615/simulate/sitemap] 
+- [View prototype](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145522615/simulate/no-panels)
 - Continuing our earlier task, imagine some time has gone by and now you have already appointed a representative, but you need to contact your representative.  
 - You’ve come to this page, what do you do now? 
 - Follow up questions:
