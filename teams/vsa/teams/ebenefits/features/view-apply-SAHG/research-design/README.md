@@ -7,7 +7,7 @@
 
 | Screens | Links | Last Rev | 
 | :--- | :--- | :--- |
-| SAHG Initial Wireframes | [Sketch](https://www.sketch.com/s/f0ac7ad9-03cf-49c4-b2a8-9fb85a88b31a/a/qeWPW75) | December 9, 2021 | 
+| SAHG Initial Wireframes | [Sketch](https://www.sketch.com/s/f0ac7ad9-03cf-49c4-b2a8-9fb85a88b31a/a/qeWPW75) | February 2, 2022 | 
 
 #### Information architecture & naming
 `TBD`
@@ -34,6 +34,7 @@
 - What is the approval artifact? Independent View page? Link in my VA?
     - Meeting on Jan 24, 2022 - If they are entitled, team gets notification to proceed. Can we pick up a pending status to display to user?; have about a 15-20% approval rate, maybe 6000-7000 applications per year. Some people are not applying, they are being referred through hospital visits
 - There is an appeals check link that looks like it goes to the overall claim or appeals status tool.  What do we need to know about appeals on this benefit?
+    - Meeting on Jan 31, 2022 - Should follow other claims and appeals
 
 
 ### Research
@@ -41,23 +42,35 @@
 
 ---
 ### Mockup changelog
+#### February 2, 2022
+All Screens
+- Updated Need Help text to include email and option instructions for phone number
+
+26-4555 Pevious Application 1 - CONDITIONAL 1, CONDITIONAL 2; 26-4555 Pevious Application 2 - CONDITIONAL 1, CONDITIONAL 2; 26-4555 Current Condition 1 - CONDITIONAL 1, CONDITIONAL 2
+- removed required from fields
+
+26-4555 Current Conditon - PRIMARY, CONDITIONAL 1, CONDITIONAL 2
+- Updated question language to remove "confined" language
+
+26-4556 Confirmation
+- Updated days to complete
 
 #### December 15, 2021
 
-46-4555 previous Application 1, 45-4555 Previous Application 2, 46-4555 Current Condition 1
+26-4555 previous Application 1, 26-4555 Previous Application 2, 26-4555 Current Condition 1
 - Conditional questions moved to 2 new pages
 ![image](https://user-images.githubusercontent.com/84141672/146827415-5a67035b-b274-4067-af9c-b0cb4fe79843.png)
 For reference only: [old pages](https://www.sketch.com/s/f0ac7ad9-03cf-49c4-b2a8-9fb85a88b31a/p/3A1D0FEF-571D-4200-93F4-0A89358881B9)
 
 #### December 9, 2021
 
-46-4555 Intro (Unauthenticated)
+26-4555 Intro (Unauthenticated)
 - Update Action Link component (mini component > primary component)
 
-46-4555 Contact Information
+26-4555 Contact Information
 - Added checkbox for US military base
 - Added military base additional info link
 
-46-4555 Previous Application 1, 46-4555 Previous Application 1, 46-4555 Current Condition
+26-4555 Previous Application 1, 26-4555 Previous Application 1, 26-4555 Current Condition
 - Added conditional response bar
 ---
