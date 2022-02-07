@@ -46,6 +46,10 @@
 All Screens
 - Updated Need Help text to include email and option instructions for phone number
 
+26-4555 Intro
+- Updated sign in box and button color
+- Removed action link, added sign in button and continue without signing in links below subway map
+
 26-4555 Pevious Application 1 - CONDITIONAL 1, CONDITIONAL 2; 26-4555 Pevious Application 2 - CONDITIONAL 1, CONDITIONAL 2; 26-4555 Current Condition 1 - CONDITIONAL 1, CONDITIONAL 2
 - removed required from fields
 
