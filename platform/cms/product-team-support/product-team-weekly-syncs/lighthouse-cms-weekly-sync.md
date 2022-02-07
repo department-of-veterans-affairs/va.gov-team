@@ -28,6 +28,15 @@
  
 </details>
 
+## Monday, February 7, 2022
+* `servicelocations` fields in detailed service payload. LH looking for confirmation when to expect.
+* Status of healthserviceAPI
+  * CMS: once numerated list is received from LH, can add it
+  * naming it `serviceId`, CMS to rename `healthserviceAPI` to match
+* `field_va_health_connect_phone`
+  * looking to have in place by end of March to coincide with the next VISN that needs
+  * LH looking to nail down any additional data that may want to be pushed with this by end of March
+
 ## Monday, January 31, 2022
 * Status of healthserviceAPI
   * LH wrapping up setting up numerated list
