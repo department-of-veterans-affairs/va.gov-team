@@ -149,7 +149,7 @@ Please see the [Payment/Financial Discovery Synthesis and MVP doc](https://githu
 - How to access and test
     - [Staging env](https://staging.va.gov/my-va/)
     - Testing documentation
-    - [Payments Information test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-PaymentInfo.md)
+    - [Payments Information test/use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info.md)
     - Payments Information a11y test case documentation
 - Release plan
 - [Production env](https://www.va.gov/my-va/)
