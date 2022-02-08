@@ -13,6 +13,7 @@
 ## February 9, 2022
 ### Agenda
 - Erika: CMS support for R&S pilot
+- Group: any questions about content groups board (https://app.mural.co/t/mikkiva8222/m/mikkiva8222/1642004034812/cf1c56cf22033fd7650baa22bcb60d9a6d0f88db?sender=u31df4f199540466f5c2a0712)?
 
 
 ## January 24, 2022
