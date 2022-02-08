@@ -44,6 +44,7 @@ In order for this research effort to be successful, we should do all of the foll
   - MHV coordinators.
   - Other MHV stakeholders, if necessary.
   - MHV users.
+  - The VA.gov identity team (re: the MHV credential).
 
 ## Questions to answer
 
