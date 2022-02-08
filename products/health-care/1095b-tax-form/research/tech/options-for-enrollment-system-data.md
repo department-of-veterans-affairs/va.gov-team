@@ -5,7 +5,7 @@
 - Propose various different options for accessing and serving data from the Enrollment System. This document has been updated in light of technical discovery. To see all original options, view Git history.
 
 ## Context
-To enable veterans to download for the 1095-B form, we need to serve data from vets.gov to an authenticated veteran user. The specific data we need to present comes from the Enrollment System. 
+To enable Veterans to download for the 1095-B form, we need to serve data from vets.gov to an authenticated veteran user. The specific data we need to present comes from the Enrollment System. 
 
 ## Overview of Enrollment System Integration Options
 Below are our current potential options for accessing and serving enrollment system data to vets.gov via the vets-API.
