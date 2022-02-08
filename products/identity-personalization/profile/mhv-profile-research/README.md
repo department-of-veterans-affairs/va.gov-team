@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet/VA.gov profile transition research
 
-Last updated February 4, 2022
+Last updated February 8, 2022
 
 ### Communications
 
@@ -50,10 +50,10 @@ In order for this research effort to be successful, we should do all of the foll
 
 We are proposing the following rough timeline for the research effort:
 
-- Research planning, interview coordination, and profile evaluation: 1 sprint
-- MHV profile team/MHV coordinator/MHV stakeholder interviews: 1 sprint
-- MHV user interviews: 1 sprint
-- Research report write-up and presentation: 1 sprint
+- **Research planning, interview coordination, and profile evaluation**: 1 sprint
+- **MHV profile team/MHV coordinator/MHV stakeholder interviews**: 1 sprint
+- **MHV user interviews**: 1 - 2 sprints -- one for research planning and recruiting; additional time for conducting calls
+- **Research report write-up and presentation**: 1 sprint
 
 ## Questions to answer
 
