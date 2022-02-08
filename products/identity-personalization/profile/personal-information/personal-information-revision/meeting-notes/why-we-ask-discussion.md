@@ -1,4 +1,4 @@
-## 2-08-2022 Meeting to discuss why we are asking for personal information
+## Discussion related to why we are asking for personal information
 
 ## Attendees
 - Lexi Matza
