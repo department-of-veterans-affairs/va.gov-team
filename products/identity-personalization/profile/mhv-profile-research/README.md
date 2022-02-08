@@ -62,7 +62,7 @@ In order for this research effort to be successful, we should do all of the foll
 ### For MHV profile team
 
 - What work is the MHV profile team already doing to start to get their profile data into VA Profile or other backends?
-- What work has the MHV profile team already done to start planning for the eventual transition over to VA.gov? Have they started talking about sunsetting the MHV profile
+- What work has the MHV profile team already done to start planning for the eventual transition over to VA.gov? Have they started talking about sunsetting the MHV profile?
 - What does the MHV profile team know about how their users use the profile?
 - Do they have analytics that we can look at?
 
