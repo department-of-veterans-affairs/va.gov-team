@@ -1,5 +1,5 @@
 
-Notes from Technical 1095B Meeting
+## Technical 1095B Meeting
 
 February 2, 2022
 
@@ -85,7 +85,7 @@ Document service has other PDF&#39;s but not 1095B – repository for each appli
 
 There are no existing API&#39;s to grab the PDF (E&amp;E Service) Community Care API on VA.gov
 
-**Meeting with Tarsha Tremble, 1095B -- 01/24/2021**
+## Meeting with Tarsha Tremble, 1095B -- 01/24/2021
 
 **The Law**
 
@@ -151,7 +151,7 @@ They can give us a sample copies of the data
 
 No need for forms from previous years
 
-**Meeting with Matt Self:**
+## Meeting with Matt Self:
 
 Matt Self, Jason Wolf, Jesse Cohn
 
@@ -199,7 +199,7 @@ Matt Self, Jason Wolf, Jesse Cohn
 - What we want to do is to put it into the efolder for the Veteran
 - Most or All of our forms on [va.gov](http://va.gov/) have an OMB control number, which is issued by OMB. Matt works with OMB to get their review and gets those numbers, not a very formal set of artifacts for it in either case
 
-**Meeting with Jason Woodman**
+## Meeting with Jason Woodman
 
 - Steven is specialist, able to answer targeted questions we have
 - As part of collab cycle, one of the touchpoints is ensuring we have proper documentation so that we can hand off to the white house call center (VEO / Tier 1 Support). We need to arem them with info so that their agents can answer simple questions and know what is potentially solvable and what to escalate to Tier 2, which is our team
