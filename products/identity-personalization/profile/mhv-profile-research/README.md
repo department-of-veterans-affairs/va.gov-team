@@ -29,7 +29,7 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 4. Determine if we need to talk to other MHV stakeholders, and have discussions as necessary.
 5. Understand how MHV users use the profile, and what they need from the VA.gov profile in order to make it work for them.
 
-## Research deliverables
+## Research deliverable
 
 We plan to deliver a report on all of our findings, including high-level recommendations around how both MHV and VA.gov should handle the profile transition.
 
