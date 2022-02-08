@@ -1,3 +1,12 @@
+----
+
+# We're moving our docs! 
+### Find [the latest version of this page](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+----
+
 # Planning Unmoderated Studies
 ## Introduction
 Conducting research for a government project comes with constraints. We must adhere to the Paperwork Reduction Act (PRA), which regulates how the government can collect information from the public. In general, PRA requires that the government must accept and consider public comments and get formal approval from OMB in order to collect information from the public. This is a months-long process. 
