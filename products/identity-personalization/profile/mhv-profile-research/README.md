@@ -46,6 +46,15 @@ In order for this research effort to be successful, we should do all of the foll
   - MHV users.
   - The VA.gov identity team (re: the MHV credential).
 
+## Timeline
+
+We are proposing the following rough timeline for the research effort:
+
+- Research planning, interview coordination, and profile evaluation: 1 sprint
+- MHV profile team/MHV coordinator/MHV stakeholder interviews: 1 sprint
+- MHV user interviews: 1 sprint
+- Research report write-up and presentation: 1 sprint
+
 ## Questions to answer
 
 ### About the profile/Personal Information section
