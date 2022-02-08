@@ -48,7 +48,7 @@ In order for this research effort to be successful, we should do all of the foll
 
 ## Timeline
 
-We are proposing the following rough timeline for the research effort:
+Ideally, this research will start **in early March 2022**. We are proposing 4 - 5 sprints for this research, though this is subject to change depending on an initial planning sprint and early discussions. A potential timeline might be as follows:
 
 - **Research planning, interview coordination, and profile evaluation**: 1 sprint
 - **MHV profile team/MHV coordinator/MHV stakeholder interviews**: 1 sprint
