@@ -61,7 +61,7 @@ Ask Perigean to recruit **30** people in order to get **20** completed sessions 
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 non-native English speaker **(get screening question from Danielle)**
+- At least 1 non-native English speaker 
 
 ### For MODERATED interviews over Zoom
 
@@ -86,7 +86,14 @@ Ask Perigean to recruit **15** people in order to get **10** completed sessions 
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 non-native English speaker **(get screening question from Danielle)**
+- At least 1 non-native English speaker 
+
+### Additional question to ask in the screener
+1. How well do you speak English?
+    1. Not at all *(recruit and record as "non-native English speaker")*
+    1. Not well *(recruit and record as "non-native English speaker")*
+    1. Well *(don't recruit)*
+    1. Very well *(don't recruit)* 
 
 ## Timeline
 
