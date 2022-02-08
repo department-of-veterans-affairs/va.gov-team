@@ -110,7 +110,7 @@ Recruitment will be conducted remotely from Perigean:
  
 When? 
 
-We plan to begin usability testing in late February - March, 2022. We are open to hosting usability testing sessions from 9am – 7pm (Est.). We will have the complete prototype built and finalized a week prior to data collection. Each UT session will span 45 – 60 minutes. Exact dates and times for testing sessions are flexible and we will coordinate with Perigean once the research request is approved. Reaching our maximum goal of 10  participants will determine if we need to extend the data collection time window. There will be multiple pilot runs of our usability testing. We encourage VA collaboration teams to attend any of our pilot testing sessions. 
+We plan to begin usability testing from February 28 - March 11, 2022. We are open to hosting usability testing sessions from 9am – 7pm (Est.). We will have the complete prototype built and finalized a week prior to data collection. Each UT session will span 45 – 60 minutes. Exact dates and times for testing sessions are flexible and we will coordinate with Perigean once the research request is approved. Reaching our maximum goal of 10  participants will determine if we need to extend the data collection time window. There will be multiple pilot runs of our usability testing. We encourage VA collaboration teams to attend any of our pilot testing sessions. 
 
 	
 ## Team Roles	
