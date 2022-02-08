@@ -17,16 +17,16 @@ Last updated February 4, 2022
 
 ## Problem Statement
 
-Currently, MyHealtheVet has it's own profile while VA.gov also has it's own profile. With MyHealtheVet rolling into VA.gov as the health apartment, we have to figure out how to integrate the MyHealtheVet profile into the VA.gov profile so essential functionality is not lost.
+MyHealtheVet has it's own profile, which is part of a larger "Personal Information" section that includes various other functionality and settings. In support of the health apartment transition into VA.gov, we need to figure out what parts of the MHV Profile and Personal Information section might need to roll into VA.gov and set a strategy for how we might go about that work. 
 
 ## Research goals
 
 Our ultimate goal is to come up with a strategy for how we should move forward with rolling the MHV profile into the VA.gov profile. In order to do this, we need to:
 
-1. Determine areas of difference between the MVH and VA.gov profiles.
-2. Determine if all fields in the MHV profile that are not currently in the VA.gov profile need to move over.
-3. Determine the current status of work on the MHV profile, especially around backend support (note: all data is currently supported in MHV's backend, which is not accessible to us).
-4. Determine stakeholder expectations for the the rollover of the MHV profile into the VA.gov profile.
+1. Evaluate the MHV profile and personal information section, noting areas of similarity and difference with the VA.gov profile.
+2. Determine if all fields in the MHV profile/personal information section that are not currently in the VA.gov profile need to move over.
+3. Understand the current status of work on the MHV profile, especially around backend support (note: all data is currently supported in MHV's backend, which is not accessible to us).
+4. Understand stakeholder expectations for the the rollover of the MHV profile into the VA.gov profile.
 5. Determine what MHV users need from the VA.gov profile in order to make it work for them.
 6. Determine in what ways we can make the transition from the MHV profile to VA.gov profile less painful for users.
 
@@ -39,21 +39,44 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 
 In order for this research effort to be successful, we should do all of the following:
 
-- Involve MHV stakeholders as early as possible, Make sure they understand why we are engaging in this research and that they have buy-in to this effort.
-- Engage with the MHV profile team, and treat them as true partners in this research.
-- Perform our own evaluation of the profile, and make sure we understand why and how all of the data is used. Determine what is essential to move over, what is a nice to have, and what might not need to move over (if anything).
-- Understand MHV coordinators relationship to and usage of the profile.
-- Understand MHV users profile needs.
+1. A profile/Personal Information section evaluation
+2. Talk to MHV profile team to understand what work they are doing now, plans to integrate with VA Profile, and expectations around transitioning over to VA.gov
+3. If necessary, talk to MHV coordinators to understand how they use the profile
+4. Get analytics on MHV if we can
+5. Talk to users on how they use the MHV profile
 
 ## Questions to answer
 
-1. What data do we already have in the VA.gov profile that is also part of the MHV profile?
-2. Of data that is not already in the VA.gov profile, are there data points that should not or do not need to move over? How can we determine this?
-3. Given that all of the MHV profile is currently *not* supported by VA Profile or other backends, what work is the MHV profile team already doing to start to get their profile data into VA Profile or other backends?
-4. Are there data points that are used by MHV coordinators in the profile? If so, what are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
-5. What user needs/expecations should we consider? What about stakeholder expectations?
-6. What might a strategy for starting to integrate some of the MHV profile data into VA.gov look like?
-7. Will we need to support the MHV credential still? Will we need a place in our profile to support password changes?
-  - Talk to the identity team about long term strategy with this
-8. Are there other sections of the "Personal Information" section of MHV that we need to account for in the profile?
+### About the profile/Personal Information section
 
+- What data do we already have in the VA.gov profile that is also part of the MHV profile?
+- What data do we not already have in the VA.gov profile that should move over from MHV?
+- What data do we not already have in the VA.gov profile that should *not* move over from MHV?
+- Are there other sections of the "Personal Information" section of MHV that we need to account for in the profile?
+
+### For the VA.gov identity team
+
+- Will we need to support the MHV credential after the health apartment transition? 
+
+### For MHV profile team
+
+- What work is the MHV profile team already doing to start to get their profile data into VA Profile or other backends?
+- What work has the MHV profile team already done to start planning for the eventual transition over to VA.gov? Have they started talking about sunsetting the MHV profile
+- What does the MHV profile team know about how their users use the profile?
+- Do they have analytics that we can look at?
+
+### For MHV coordinators
+
+- Are there data points that are used by MHV coordinators in the profile?
+- What are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
+- How can we make this transition less painful for them?
+
+### For MHV stakeholders
+
+- What expectations do they have around the MHV --> VA.gov profile transition?
+- What are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
+
+### For MHV users
+
+- How do they use their profiles? Are there fields that are regularly used and others that are not?
+- How can we make this transition less painful for them?
