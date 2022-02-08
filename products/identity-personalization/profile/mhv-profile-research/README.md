@@ -75,7 +75,6 @@ In order for this research effort to be successful, we should do all of the foll
 ### For MHV stakeholders
 
 - What expectations do they have around the MHV --> VA.gov profile transition?
-- What are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
 
 ### For MHV users
 
