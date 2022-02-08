@@ -24,8 +24,8 @@ MyHealtheVet has its own profile, which is part of a larger Personal Information
 Our ultimate goal is to come up with a strategy for how we should move forward with rolling the MHV profile into the VA.gov profile. In order to do this, we need to:
 
 1. Evaluate the MHV profile and personal information section, noting similarities and differences with the VA.gov profile.
-2. Work closely with the MHV profile team to understand the current status of profile work.
-3. Understand MHV coordinator roles and how they use the MHV profile.
+2. Work closely with the MHV profile team to understand the current status of profile work and transition planning.
+3. Understand the MHV coordinator role and how they use the MHV profile.
 4. Determine if we need to talk to other MHV stakeholders, and have discussions as necessary.
 5. Understand how MHV users use the profile, and what they need from the VA.gov profile in order to make it work for them.
 
