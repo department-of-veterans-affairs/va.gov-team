@@ -17,23 +17,21 @@ Last updated February 4, 2022
 
 ## Problem Statement
 
-MyHealtheVet has it's own profile, which is part of a larger "Personal Information" section that includes various other functionality and settings. In support of the health apartment transition into VA.gov, we need to figure out what parts of the MHV Profile and Personal Information section might need to roll into VA.gov and set a strategy for how we might go about that work. 
+MyHealtheVet has its own profile, which is part of a larger Personal Information section. In support of the health apartment transition into VA.gov, we need to figure out which parts of the MHV Profile and Personal Information section need to roll into VA.gov and put together a strategy for how we might go about that work. 
 
 ## Research goals
 
 Our ultimate goal is to come up with a strategy for how we should move forward with rolling the MHV profile into the VA.gov profile. In order to do this, we need to:
 
-1. Evaluate the MHV profile and personal information section, noting areas of similarity and difference with the VA.gov profile.
-2. Determine if all fields in the MHV profile/personal information section that are not currently in the VA.gov profile need to move over.
-3. Understand the current status of work on the MHV profile, especially around backend support (note: all data is currently supported in MHV's backend, which is not accessible to us).
-4. Understand stakeholder expectations for the the rollover of the MHV profile into the VA.gov profile.
-5. Determine what MHV users need from the VA.gov profile in order to make it work for them.
-6. Determine in what ways we can make the transition from the MHV profile to VA.gov profile less painful for users.
+1. Evaluate the MHV profile and personal information section, noting similarities and differences with the VA.gov profile.
+2. Work closely with the MHV profile team to understand the current status of profile work.
+3. Understand MHV coordinator roles and how they use the MHV profile.
+4. Determine if we need to talk to other MHV stakeholders, and have discussions as necessary.
+5. Understand how MHV users use the profile, and what they need from the VA.gov profile in order to make it work for them.
 
 ## Research deliverables
 
-1. A report on our findings
-2. High-level recommendations around how both MHV and VA.gov should handle the profile transition.
+We plan to deliver a report on all of our findings, including high-level recommendations around how both MHV and VA.gov should handle the profile transition.
 
 ## Solution approach
 
@@ -44,7 +42,7 @@ In order for this research effort to be successful, we should do all of the foll
 - Talk to:
   - The MHV profile team.
   - MHV coordinators.
-  - Other MHV stakeholders, if applicable.
+  - Other MHV stakeholders, if necessary.
   - MHV users.
 
 ## Questions to answer
