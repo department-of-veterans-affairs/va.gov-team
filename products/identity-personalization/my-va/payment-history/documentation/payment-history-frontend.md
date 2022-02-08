@@ -195,7 +195,7 @@ For MVP, we will only show the most recent payment.
 #### Visual specs
 - Display only the most recent payment in the payment card
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
----
+
 
 ## Error States
 
@@ -233,4 +233,4 @@ For MVP, we will only show the most recent payment.
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Kv2kw8n)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/PGzVM2L)
----
+
