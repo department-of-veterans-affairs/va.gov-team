@@ -85,10 +85,10 @@ Ask Perigean to recruit **15** Veterans in order to get **8-10** completed sessi
     2. Phone
     3. Tablet
 3. How well do you speak English?
-    1. Not at all *(recruit and record as "non-native English speaker")*
-    1. Not well *(recruit and record as "non-native English speaker")*
-    1. Well *(don't recruit)*
-    1. Very well *(don't recruit)* 
+    1. Not at all *(record as "non-native English speaker")*
+    1. Not well *(record as "non-native English speaker")*
+    1. Well 
+    1. Very well  
 4. It is important to us that the services and applications we design meet the needs of all Veterans. We ask the following question to ensure that we conduct feedback sessions with representative populations. Do you identify as transgender or as any of these sexual orientations: gay, lesbian, or bisexual? *(record in Participant Roster and Schedule)*
     1. Yes
     2. No
