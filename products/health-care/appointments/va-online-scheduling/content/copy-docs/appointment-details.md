@@ -137,6 +137,8 @@ none
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of Care}
+
 VA appointment
 {Facility name}
 {Facility address}
@@ -183,6 +185,8 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care}
+
 VA appointment
 {Facility name}
 {Facility address}
@@ -225,6 +229,8 @@ n/a
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care}
+
 VA appointment
 {Facility name}
 {Facility address}
@@ -263,6 +269,8 @@ none
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care}
+
 COVID-19 vaccine
 {Facility name}
 {Facility address}
@@ -310,6 +318,8 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care}
+
 COVID-19 vaccine
 {Facility name}
 {Facility address}
@@ -349,6 +359,8 @@ n/a
 **PAGE CONTENT**
 
 ```
+Type of care: {Type of care}
+
 COVID-19 vaccine
 {Facility name}
 {Facility address}
