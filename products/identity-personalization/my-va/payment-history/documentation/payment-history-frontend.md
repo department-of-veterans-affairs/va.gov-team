@@ -195,3 +195,42 @@ For MVP, we will only show the most recent payment.
 #### Visual specs
 - Display only the most recent payment in the payment card
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+---
+
+## Error States
+
+### Error State 1: Both the Payment History and Debts API calls fail  
+
+#### Visual specs
+- Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the error message.
+>We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
+- Display the “view your payment history” link in the link list
+- Display “Learn about VA debt” in the link list
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/VrG78qo)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ygpJMYz)
+---
+
+### Error State 2: The Payment History API call fails
+
+#### Visual specs
+- Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the error message.
+>We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
+- Display the “view your payment history” link in the link list
+
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGD28qM)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/9PbQ0n0)
+---
+
+### Error State 3: The Debt API call fails
+
+#### Visual specs
+- Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the error message.
+>We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
+- Display “Learn about VA debt” in the link list
+
+#### Mock-ups
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Kv2kw8n)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/PGzVM2L)
+---
