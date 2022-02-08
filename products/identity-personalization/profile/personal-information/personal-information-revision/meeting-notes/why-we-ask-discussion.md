@@ -1,4 +1,4 @@
-## Discussion related to why we are asking for personal information
+# Discussion related to why we are asking for personal information
 - 2022-02-08 
 
 ## Attendees
