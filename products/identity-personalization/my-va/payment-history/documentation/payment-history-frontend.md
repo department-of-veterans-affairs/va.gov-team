@@ -167,7 +167,7 @@ Use font awesome icon `dollar` for icon in link list
 > Your total VA debt balance is $0.
 - Use a plain `p` element for no recent payments message
 > You haven’t received any payments in the last 30 days.
-- Display the “view your payment history” link in the link list
+- Display the “View your payment history” link in the link list
 - Display “Learn about VA debt” in the link list
 
 Mock-ups
@@ -181,7 +181,7 @@ Mock-ups
 #### Visual Specs
 - Use the [background color only warning alert component](https://design.va.gov/storybook/?path=/story/components-va-alert--background-only-with-icon&args=status:warning) for the outstanding debt message.
 - Use a plain `p` element for no recent payments message
-- Display the “view your payment history” link in the link list
+- Display the “View your payment history” link in the link list
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/paD25yQ)
@@ -204,8 +204,9 @@ For MVP, we will only show the most recent payment.
 #### Visual specs
 - Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the error message.
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
-- Display the “view your payment history” link in the link list
+- Display the “View your payment history” link in the link list
 - Display “Learn about VA debt” in the link list
+
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/VrG78qo)
 - [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ygpJMYz)
@@ -216,7 +217,7 @@ For MVP, we will only show the most recent payment.
 #### Visual specs
 - Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the error message.
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
-- Display the “view your payment history” link in the link list
+- Display the “View your payment history” link in the link list
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGD28qM)
