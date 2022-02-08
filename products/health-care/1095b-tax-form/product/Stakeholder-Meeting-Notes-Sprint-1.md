@@ -19,7 +19,7 @@ Getting the PDFs from the repository (print vendor has 10 days to submit) just r
 
 **PDF Data / fetching by Veteran ID**
 
-When they authenticate you can match the veteran by ICN
+When they authenticate you can match the Veteran by ICN
 
 The PDF&#39;s that generate don&#39;t put full SSN (just last 4)
 
@@ -29,7 +29,7 @@ He can put the PDFs data into S3 right now (super simple) plenty of scheduled sc
 
 **Data in Enrollment System**
 
-A whole separate project would have to be completed in order to store in the DB if veterans are opting out of receiving form in the mail (for now we would have to still mail the form regardless)
+A whole separate project would have to be completed in order to store in the DB if Veterans are opting out of receiving form in the mail (for now we would have to still mail the form regardless)
 
 The current data in the Enrollment System would not be representative of what was mailed to the IRS **BUT** you could use the data that is sent over to the print vendor)
 
@@ -43,11 +43,11 @@ IRS opens environment in middle of January, to get IRS&#39;s data it&#39;s going
 
 They log the XML of what&#39;s sent to the IRS but using that instead of the letter data it will still be delayed because of how long it takes for IRS to open their environment– data is identical of print vendor and data sent to IRS just in different formats
 
-Have to get the ICN and query based on that unique veteran ID
+Have to get the ICN and query based on that unique Veteran ID
 
 **Populating forms**
 
-Programmatically you can do it in Java ( populating the forms ) -getting a fillable version of 1095B – generating them on the fly versus storing them
+Programmatically you can do it in Java ( populating the forms ) -getting a fillable version of 1095-B – generating them on the fly versus storing them
 
 **Snapshotting PDFS (pulling data from date of IRS submission)**
 
@@ -67,13 +67,13 @@ Few S3 buckets for different environments – flat file if there is a version of
 
 Format of the file is unchanged ^
 
-ICN padded with 6 zeros, you can get ICN with that (for querying based on veteran ID)
+ICN padded with 6 zeros, you can get ICN with that (for querying based on Veteran ID)
 
 the data fields ( whatever is needed to populate the PDF)
 
 **Corrections**
 
-Checkbox on 1095B that says &quot;corrected&quot; – we would get a new data file if veterans make a correction
+Checkbox on 1095-B that says &quot;corrected&quot; – we would get a new data file if Veterans make a correction
 
 Seeing an ICN another time means you&#39;re overwriting an existing version (it would be another copy) – multiples instead of overwrite
 
@@ -81,17 +81,17 @@ User corrects coverage period, next batch script would run and send to vendor, t
 
 **Optimal Solution (future?)**
 
-Document service has other PDF&#39;s but not 1095B – repository for each application which you can share – makes it easier to hook up to API and pull the documents (would be a simple integration but 1095B&#39;s aren&#39;t there)
+Document service has other PDF&#39;s but not 1095-B – repository for each application which you can share – makes it easier to hook up to API and pull the documents (would be a simple integration but 1095-B&#39;s aren&#39;t there)
 
 There are no existing API&#39;s to grab the PDF (E&amp;E Service) Community Care API on VA.gov
 
-## Meeting with Tarsha Tremble, 1095B -- 01/24/2021
+## Meeting with Tarsha Tremble, 1095-B -- 01/24/2021
 
 **The Law**
 
-Health eligibility enrollment center to enroll veterans into VA healthcare
+Health eligibility enrollment center to enroll Veterans into VA healthcare
 
-We are required by law to provide them with a copy of 1095B
+We are required by law to provide them with a copy of 1095-B
 
 What recently changed in law was it Is mandatory that health eligibility center print out copy and mail it whether it was requested or not
 
@@ -99,7 +99,7 @@ Previously you were penalized if you did not have healthcare coverage
 
 More recently things have been more lax, in 2020 VA can provide them with online form
 
-We still have to have 1095B in the system
+We still have to have 1095-B in the system
 
 Instructions for form submission: [https://www.irs.gov/instructions/i109495b](https://www.irs.gov/instructions/i109495b)
 
@@ -107,7 +107,7 @@ Instructions for form submission: [https://www.irs.gov/instructions/i109495b](ht
 
 GPO vendor printed out millions of copies of the form
 
-Enrollment system is when veterans call the center and everything is put into the system
+Enrollment system is when Veterans call the center and everything is put into the system
 
 Informatics team can put that info from db and send to the print vendor
 
@@ -117,21 +117,21 @@ Print vendor has a return address, it goes to them ,then they have to mail it ba
 
 A cover letter is mailed out with the form, tells you what the form is and what it is for
 
-1095B some people moved, some people died, and those letters are returned
+1095-B some people moved, some people died, and those letters are returned
 
-If veteran physically needed 1095B, they can login to their healthcare account and access the form themselves
+If Veteran physically needed 1095-B, they can login to their healthcare account and access the form themselves
 
-VA has to contact veteran via phone number to send them a new physical form (if they get the form back because it was sent to the wrong address)
+VA has to contact Veteran via phone number to send them a new physical form (if they get the form back because it was sent to the wrong address)
 
-Some veterans call in and get annoyed that they receive the 1095B mail from the VA
+Some Veterans call in and get annoyed that they receive the 1095-B mail from the VA
 
 Numbers on address could be mistaken when getting address over the phone, or handwriting is misread
 
-Younger generation gets 1095B news through social media – could share option of downloading rather than printing via those outlets
+Younger generation gets 1095-B news through social media – could share option of downloading rather than printing via those outlets
 
 **Enrollment System Database**
 
-System triggers the 1095B – database in informatics division – they can pull out demographic information (name, dependents, only name listed is actual veteran)
+System triggers the 1095-B – database in informatics division – they can pull out demographic information (name, dependents, only name listed is actual Veteran)
 
 Forms need to be stored in a secure place because of PII
 
@@ -157,18 +157,18 @@ Matt Self, Jason Wolf, Jesse Cohn
 
 - Attendees: Tracey, Ashley, Carl, Jordan, Jesse, Kit
 - Have not interacted with a form that&#39;s come from a different agency
-- Does have forms that have similar workflow like it comes from a print vendor, has not impacted veteran experience
-- Wide spectrum of possibilities of what forms do on [va.gov](http://va.gov/) - ranges from simple PDF upload, sometimes we&#39;ll digitize the pdf, break it down to form field elements, take data submitted by veteran, turn it into a payload. Outcome for veteran is like if they had mailed in a pdf but much faster. Depends if the downstream system can accept the structured payload. If it&#39;s a matter of getting the form out of paper and onto a screen, also a great first step
+- Does have forms that have similar workflow like it comes from a print vendor, has not impacted Veteran experience
+- Wide spectrum of possibilities of what forms do on [va.gov](http://va.gov/) - ranges from simple PDF upload, sometimes we&#39;ll digitize the pdf, break it down to form field elements, take data submitted by Veteran, turn it into a payload. Outcome for Veteran is like if they had mailed in a pdf but much faster. Depends if the downstream system can accept the structured payload. If it&#39;s a matter of getting the form out of paper and onto a screen, also a great first step
 
 - For our form, there is no down stream system. More of an up stream.
 - This is more similar to letters than forms, it&#39;s more of a record that they download
 
 - Download a VA letter is feeling more like a fit. Form is more like it intakes data and you do something with it, whereas letters is something we give you
 
-- Only difference is if there is an error on the form, we need to provide an escalation form for the veteran to fix it and update the record
+- Only difference is if there is an error on the form, we need to provide an escalation form for the Veteran to fix it and update the record
 - They do have flows for things like contact information that are handled outside the form and escalation
 
-- It could be a veteran identifier which we use to pull back the form, which forms team uses anyways to pull it
+- It could be a Veteran identifier which we use to pull back the form, which forms team uses anyways to pull it
 
 - This is more like Letters, not forms
 
