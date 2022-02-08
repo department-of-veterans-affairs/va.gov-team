@@ -43,6 +43,9 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 4. Are there data points that are used by MHV coordinators in the profile? If so, what are the expectations around what access MHV coordinators will have to VA.gov profile data once we fully make this transition?
 5. What user needs/expecations should we consider? What about stakeholder expectations?
 6. What might a strategy for starting to integrate some of the MHV profile data into VA.gov look like?
+7. Will we need to support the MHV credential still? Will we need a place in our profile to support password changes?
+  - Talk to the identity team about long term strategy with this
+8. Are there other sections of the "Personal Information" section of MHV that we need to account for in the profile?
 
 ## Solution approach
 
