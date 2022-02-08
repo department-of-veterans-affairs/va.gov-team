@@ -218,6 +218,7 @@ For MVP, we will only show the most recent payment.
 - Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the error message.
 >We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
 - Display the “View your payment history” link in the link list
+- Display any debt message or alert below the alert component
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGD28qM)
@@ -230,6 +231,7 @@ For MVP, we will only show the most recent payment.
 - Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the error message.
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list
+- Display the payment card below the alert component
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Kv2kw8n)
