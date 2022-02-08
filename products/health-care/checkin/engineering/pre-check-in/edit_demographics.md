@@ -352,7 +352,8 @@ Needs to be filled out. There are many use cases in the wireframes, which was co
     - VA Profile API provides its clients an address validation endpoint which we can use to make sure that the provided address is valid
     - Do we need to validate next of kin and emergency contact addresses in addition to Veteran addresses?
 - Can we get the VA Profile team to support updating *Next-of-Kin* or *Emergency Contact* information and who will be responsible for spear heading this initiative?
-    - Pending
+    - Discussion held on 2/4/22 with VA Profile, *Next-of-Kin* is housed in the *Associated Party* payload and is already supported. Need to verify data structure. 
+    - *Emergency Contact* still to be determined. 
 - How long will it take the VA Profile team to provide this additional functionality if they agree to implement our request?
     - Pending
 - How will this affect other teams on va.gov? Will this have a negative effect on the VA.gov Profile system?
