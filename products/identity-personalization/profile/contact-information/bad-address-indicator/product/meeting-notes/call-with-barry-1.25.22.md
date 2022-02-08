@@ -62,7 +62,7 @@ In attendance: Samara, Marci, Adam, Tom, and Barry
 - Something else worth noting - if we build something looking for the bad address indicator and they move it to the dirty data repo, that only changes where we get it.
 - When will there be a decision about where the flag lives? 
 - If I go in and update my address, is that enough to turn my address off? Or do they have to have mail successfully delivered to that address? 
-- If it's not incumbent upon a successful mailing happening.  Barry gave example of a Veteran living with 
+- If it's not incumbent upon a successful mailing happening.  Barry gave example of a Veteran living with parents, moving out, then moving back in.
 - Auto-notify - the premise is if we have a good correspondence address, then we find out it's bad, VA Profile would automatically generate an email or some other communication to the Veteran saying "your contact information is no longer complete, (text TBD), please go to VA.gov or call this number to review and update your contact information
 - Longer-term - in their road map, part of their PI planning exercise in two weeks -- driving volume, understanding what that might mean to us.  How can we simplify the log in process, etc.
 
