@@ -12,5 +12,3 @@ assignees: michelle-dooley
 ## What this form is for
 
 Use this template to request an Updated KPI dashboard on Domo for your product. 
-
-We are currently only supporting standardized dashboards for Forms, Content, & Search products.
