@@ -1,7 +1,7 @@
 # Research Plan for Veteran Top Tasks, Public Websites, Feb X, 2022
 
 ## Background
-The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do from the home page. 
+The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
 We would like to learn which tasks Veterans most want to do on VA.gov.
 
 ### OCTO Objectives 
@@ -16,31 +16,35 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 40 tasks.
+The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 30 tasks.
 
 ### Outcome
 The top tasks that we identify could be used in future user research studies and design efforts on VA.gov. We could measure the success rate and time on task as metrics across research studies.
 
 ### Research questions
-1. When Veterans visit VA.gov, what tasks are most important to them? 
+1. When Veterans and others visit VA.gov, what tasks are most important to them? 
+2. What tasks are least important? 
+3. Are there any tasks that are unclear or confusing?
+4. Are there any important tasks missing?
 
 ### Hypotheses
-
+1. Veterans and caregivers of Veterans will generally agree on which tasks are the most important.
+2. Veterans and caregivers of Veterans will generally agree on which tasks are the least important.
 
 ## Method	
-Starting from a list of about 30 tasks compiled from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category (i.e., very important, somewhat important, not important, I don't understand this task). 
+Starting from a list of about 30 tasks synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together an online card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them, as well.
 
-We would like to get sorting responses from **at least 30 Veterans and Caregivers**, with  
+We would like to get complete sorting responses from **at least 30 Veterans and Caregivers**, with  
 - **20 unmoderated** in distinct cohorts of fewer than 10 participants per cohort (per PRA)
-- **10 moderated** via Zoom
+- **10 moderated** sessions via Zoom
 
-The purpose of the moderated sessions is to gather some qualitative feedback on the tasks and their relative importance. 
+The purpose of the moderated sessions is to gather qualitative feedback on the tasks and their relative importance. 
 
-*Action item:* Analyze and remove duplicates from tasks collected to get down to a list of ~30 tasks.
+*Action item:* Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.
 
 *Action item:* Get access to the new VSA account for Optimal Workshop from Yana or Shawna.
 
-*Action item:* Create card sort in Optimal Workshop with a question for participants to provide their unique code, and then generate separate links for each recruitment cohort.
+*Action item:* Create card sort in Optimal Workshop with a question for participants to provide their unique code, and then generate separate links for each recruitment cohort and add below.
 
 ### Research materials
 - [Link to conversation guide]
@@ -58,13 +62,19 @@ Ask Perigean to recruit **40** people using the following cohorts in order to ge
 - Cohort D: 9 Veterans who have experience with VA disability, housing, pension, life insurance, or burial benefits
 - Cohort E: 9 Caregivers or Family Members of Veterans who have no experience with VA benefits or services but are interested in some
 
+We will provide an [email template]() for Perigean to use when reaching out to potential participants. 
+
+We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
+
+We estimate it will take participants 15-20 minutes *(need to verify!)* to copmlete the card sort.
+
 #### Primary criteria (must-haves)
 - 14 are Veterans
 - 6 are Caregivers or Family Members
 - 10 have experience with one or more of the following VA benefits or services: health care, education or career services, disability, housing, pension, life insurance, or burial
 - 10 have no experience with VA benefits or services but are interested in some
 - ALL have a computer and are willing to use it to complete the activity
-- ALL are willing to do an activity that requires dragging and dropping items on the computer screen (no screen reader users)
+- ALL are willing to do an activity from their computer that requires dragging and dropping items on their computer screen (NO screen reader users)
  
 #### Secondary criteria (nice-to-haves)
 - At least 8 women
@@ -74,7 +84,7 @@ Ask Perigean to recruit **40** people using the following cohorts in order to ge
 - Diversity across rural and major metropolitan areas
 
 
-### For MODERATED interviews over Zoom
+### For MODERATED sessions over Zoom
 
 Ask Perigean to recruit **15** people in order to get **10** completed sessions using the criteria below.
 
@@ -97,28 +107,36 @@ Ask Perigean to recruit **15** people in order to get **10** completed sessions 
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 non-native English speaker 
+- At least 1 non-native English speaker (see question below)
 
 ### Additional question to ask in the screener
 1. How well do you speak English?
-    1. Not at all *(recruit and record as "non-native English speaker")*
-    1. Not well *(recruit and record as "non-native English speaker")*
-    1. Well *(don't recruit)*
-    1. Very well *(don't recruit)* 
+    1. Not at all *(record as "non-native English speaker")*
+    1. Not well *(record as "non-native English speaker")*
+    1. Well
+    1. Very well 
 
 ## Timeline
 
-### Prepare
-* Pilot #1: **Date time pm** ET with First Last (email address)
-* Pilot #2: 
+### For UNMODERATED online activity
+- The card sort will be open for at least 2 weeks starting on Feb XX.
 
-### Research sessions
-Feb X-Y, 2022
+#### Prepare
+- The card sort link will be tested by several people on DATE TBD.
 
-### Length of sessions
-**60-minute sessions** with at least **30-minute breaks** in between
+### For MODERATED sessions over Zoom
 
-### Availability
+#### Prepare
+- * Pilot #1: **Date time pm** ET with First Last (email address)
+- * Pilot #2: 
+
+#### Research sessions
+- Feb X-Y, 2022
+
+#### Length of sessions
+- **60-minute sessions** with at least **30-minute breaks** in between
+
+#### Availability
 
 Team Availability | Time (ET)
 ------------------|--------------
@@ -126,7 +144,7 @@ Feb X, 2022 | Noon - 3 pm, 4 - 8 pm
 
 	
 ## Team Roles	
-- Moderator:	Cindy Merrill (cindy.merrill@adhocteam.us)
+- Moderator (for moderated sessions):	Cindy Merrill (cindy.merrill@adhocteam.us)
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
