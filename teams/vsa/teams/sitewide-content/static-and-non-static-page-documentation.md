@@ -1,6 +1,6 @@
 # The difference between static and dynamic pages on VA.gov
 
-## What is a static page?
+## What's a static page?
 
 A static page displays the same information to all users on VA.gov. We also call this an unauthenticated page. A user doesn’t need to sign in to access any part of the page.
 
@@ -15,7 +15,7 @@ Types of static pages on VA.gov:
 - **Resources and support.** This section of content contains targeted, supplemental information to empower Veterans and other beneficiaries to fully understand their VA benefits and related tools or services. These pages can be found at va.gov/resources.
 - **Root-level pages that don’t require the user to sign in.** Some examples are /contact-us and /coronavirus-veteran-frequently-asked-questions.
 
-## What is a dynamic page?
+## What's a dynamic page?
 
 A dynamic page on VA.gov is customized to the user, who may need to sign in to access information or complete a task. Dynamic pages display information that's unique to each user. We also call this an authenticated page. 
 
