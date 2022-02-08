@@ -25,7 +25,7 @@
 
 **Page** | **URL** | **Breadcrumb** | **Notes**
 --- | --- | --- | ---
-Virtual agent chatbot page   |  TBD | Home > Contact us > TBD   | Page should be set as noindex and not included in xml sitemap during scaled roll-out to keep search engines from crawling and indexing.  Once tools is fully live, page can be indexed and added to xml sitemap.  
+Virtual agent chatbot page   | www.va.gov/contact-us/virtual-agent/ | Home > Contact us > [Virtual agent page H1]   | Page should be set as noindex and not included in xml sitemap during scaled roll-out to keep search engines from crawling and indexing.  Once tools is fully live, page can be indexed and added to xml sitemap.  
 
 
 ## <a name="nav"></a>Navigation and Primary Entry Points <br>
@@ -33,14 +33,14 @@ Virtual agent chatbot page   |  TBD | Home > Contact us > TBD   | Page should be
 
 **A/R/M** | **Page/component** | **Link destination** | **Placement/description of change**
 --- | --- | --- | ---
-Add   | [Contact us page](https://www.va.gov/contact-us/)  | TBD  |  
+Add   | [Contact us page](https://www.va.gov/contact-us/)  | www.va.gov/contact-us/virtual-agent/  |  
 
 
 
 ## <a name="redirects"></a>Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
--  
+-  The previous URL was only used in the staging environment, so no redirects are necessary.
 
 Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
