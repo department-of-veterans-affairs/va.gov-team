@@ -19,7 +19,7 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 40 tasks.
 
 ### Outcome
-The Veteran top tasks that we identify could be used in future user research studies and design efforts on VA.gov. 
+The top tasks that we identify could be used in future user research studies and design efforts on VA.gov. We could measure the success rate and time on task as metrics across research studies.
 
 ### Research questions
 1. When Veterans visit VA.gov, what tasks are most important to them? 
@@ -28,13 +28,10 @@ The Veteran top tasks that we identify could be used in future user research stu
 
 
 ## Method	
-Starting from a list of about 40 tasks compiled from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category. We would like to get sorting data from at least 30 Veterans, with about 20 unmoderated and about 10 moderated (via Zoom). The purpose of the moderated sessions is to gather qualitative feedback on the tasks and their importance. 
+Starting from a list of about 40 tasks compiled from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together a card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into a category (i.e., very important, somewhat important, not important, I don't understand this task). We would like to get sorting data from **at least 30 Veterans and Caregivers**, with about **20 unmoderated** and about **10 moderated** (via Zoom). The purpose of the moderated sessions is to gather some qualitative feedback on the tasks and their relative importance. 
 
-*Action item:* Review personas and maybe propose for each persona 10 unmoderated, 2-3 moderated.
-
-*Action item:* Remove duplicates from tasks collected and get down to ~40 tasks.
+*Action item:* Remove duplicates from tasks collected to get down to a list of ~40 tasks.
 *Action item:* Get access to new VSA account for Optimal Workshop from Shawna/Yana.
-
 
 ### Research materials
 - [Link to conversation guide]
@@ -43,28 +40,53 @@ Starting from a list of about 40 tasks compiled from colleagues, the VA.gov home
 
 ## Recruitment	
 
-Ask Perigean to recruit **X** Veterans in order to get **Y** completed sessions using the criteria below.
+### For UNMODERATED online activity
+Ask Perigean to recruit **30** people in order to get **20** completed sessions using the criteria below.
 
-### Primary criteria (must-haves)
-- All are Veterans
+*Action item:* Get clarification from Shane on how to get 20 unmoderated participants through Perigean. Who organizes inviting only 9 people at a time? 
+
+#### Primary criteria (must-haves)
+- 20 are Veterans
+- 10 are Caregivers or Family Members
+- 15 have experience with one or more of the following VA benefits or services: health care, education or career services, disability, housing, pension, life insurance, or burial
+- At least 4 people 55 or older
+- At least 4 people with a cognitive disability (e.g., TBI)
+- ALL have a computer and are willing to use it to complete the activity
+ 
+#### Secondary criteria (nice-to-haves)
+- At least 4 people of color
+- At least 6 women
+- At least 2 people 35 or under
+- At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 1 person that has a college degree (to include officer Veterans)
+- At least 2 people who live in a rural or remote area
+- At least 1 person who lives in a major metropolitan area
+- At least 1 non-native English speaker **(get screening question from Danielle)**
+
+### For MODERATED interviews over Zoom
+
+Ask Perigean to recruit **15** people in order to get **10** completed sessions using the criteria below.
+
+#### Primary criteria (must-haves)
+- 10 are Veterans
+- 5 are Caregivers or Family Members
+- 7 have experience with one or more of the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
 - At least 2 people 55 or older
 - At least 2 people with a cognitive disability (e.g., TBI)
-- All have a smartphone and are willing to to join our Zoom call from their phone 
-  - All have a working microphone on their phone 
-  - All have the Zoom app downloaded to their phone prior to the session and know how to share their screen
+- ALL have a computer and are willing to use it to join our Zoom call
+  - All have a working microphone on their computer, or are willing to also join from their phone for a microphone and speaker 
+  - All have the Zoom app downloaded to their computer prior to the session and know how to share their screen
   - During the session, all are willing to share their browser window over Zoom
 
-*PERIGEAN: In your reminder calls/emails, could you please mention that they need to **join from their smartphone**, not a computer or tablet?*
-
-### Secondary criteria (nice-to-haves)
-- At least 1 people of color
-- At least 1 woman
+#### Secondary criteria (nice-to-haves)
+- At least 2 people of color
+- At least 3 women
 - At least 1 person 35 or under
 - At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 1 person that has a college degree (to include officer Veterans)
 - At least 2 people who live in a rural or remote area
 - At least 1 person who lives in a major metropolitan area
-- At least 1 non-native English speaker *(Please ask "What is the first language that you learned to speak as a child?" If not English, record as "non-native English speaker" OR get question from Danielle)*
+- At least 1 non-native English speaker **(get screening question from Danielle)**
 
 ## Timeline
 
