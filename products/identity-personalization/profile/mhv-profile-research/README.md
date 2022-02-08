@@ -39,11 +39,13 @@ Our ultimate goal is to come up with a strategy for how we should move forward w
 
 In order for this research effort to be successful, we should do all of the following:
 
-1. A profile/Personal Information section evaluation
-2. Talk to MHV profile team to understand what work they are doing now, plans to integrate with VA Profile, and expectations around transitioning over to VA.gov
-3. If necessary, talk to MHV coordinators to understand how they use the profile
-4. Get analytics on MHV if we can
-5. Talk to users on how they use the MHV profile
+- An MHV profile/Personal Information section evaluation.
+- Get analytics on MHV if we can.
+- Talk to:
+  - The MHV profile team.
+  - MHV coordinators.
+  - Other MHV stakeholders, if applicable.
+  - MHV users.
 
 ## Questions to answer
 
