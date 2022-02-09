@@ -100,7 +100,7 @@ The cards Veterans were asked to group are on the left-hand side, while the axis
 
 Pictured here is the "Best merge" method dendrogram (often performs better than the actual agreement method when your study has fewer participants. It makes assumptions about larger clusters based on individual pair relationships.) For more detail (including the Similarity Matrix), see the [VA Mobile IA Research mural board.](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1634908357710/58074b53d4942298679622026490db78c1ee8806?wid=0-1643765588807)
 
-![Screen Shot 2022-02-09 at 1 24 00 PM](https://user-images.githubusercontent.com/79866060/153265492-cea3e11f-1573-46a1-95f9-58fd19769fb9.png)
+<img width="1720" alt="Screen Shot 2022-02-09 at 3 31 12 PM" src="https://user-images.githubusercontent.com/45246038/153293459-4b5170af-d087-4605-ac6c-1d936e681c7f.png">
 
 **Main groupings:**
 
