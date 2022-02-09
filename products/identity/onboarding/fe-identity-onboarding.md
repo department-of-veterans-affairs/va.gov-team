@@ -2,6 +2,7 @@
 __Current Team__ 
 - Kyle Wooley
 - Alex Garcia
+
 > Open links in a new tab to avoid frustration
 
 ## Getting Started
