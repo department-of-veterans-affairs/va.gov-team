@@ -92,7 +92,7 @@ Veterans clicked the COVID-19 Vaccine button and were taken to the va.gov COVID-
 
 ### Dendrogram 
 
-**"Best merege" method** 
+**"Best merge" method** 
 
 This dendrogram shows what proportion of Veterans agreed with particular card groupings.
 
