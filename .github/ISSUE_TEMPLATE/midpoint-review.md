@@ -61,7 +61,7 @@ Provide links or documents for the following:
 
 ### Content artifacts 
 
-
+- [ ] Your product’s content source of truth
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
  
 ### QA artifacts
