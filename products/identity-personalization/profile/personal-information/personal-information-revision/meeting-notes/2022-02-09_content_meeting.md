@@ -17,7 +17,7 @@ Work with Danielle on taking the VA Fact Sheets and additional info provided by 
 
 ## Notes
 - Shared notes from yesterday with Danielle
-- The gist is that preferred name and gender idenity are so we address people properly
+- The gist is that preferred name and pronouns are so we address people properly
 - Stuff we were hoping for better info & clarity was gender identity and sexual orientation, but they really just validated that it's medical info
 - We should probably just come out and say that if you're not part of the medical system and/or don't want the VA to know this, then don't answer this info
 - We should also make it clear that this info is not JUST accessible by VHA, but also by other areas of the VA like VBA and NCA
