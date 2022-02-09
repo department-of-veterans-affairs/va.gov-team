@@ -84,6 +84,12 @@ n/a
 {Canceler} canceled this request.
 ```
 
+```diff
+- {Canceler} canceled this request.
++ {Canceler} canceled this request. If you still need an appointment, call us or request a new appointment online.
+@@ GH36207 @@
+```
+
 **PAGE CONTENT**
 
 ```
