@@ -56,7 +56,7 @@ The purpose of the moderated sessions is to gather qualitative feedback on the t
 ### For UNMODERATED online activity
 Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes.
 
-For everyone:
+#### For everyone:
 - ALL have a computer and are willing to use it to complete the activity
 - ALL are willing to do an activity from their computer that requires dragging and dropping items on their computer screen (NO screen reader users)
 - At least 8 women
@@ -65,41 +65,29 @@ For everyone:
 - Diversity across education levels
 - Diversity across rural and major metropolitan areas
 
-For Cohort A (9 Veterans)
+#### For Cohort A (9 Veterans)
 - All must have experience with VA health care, education benefits, or career services
 
-For Cohort B (9 Caregivers or Family Members of Veterans)
+#### For Cohort B (9 Caregivers or Family Members of Veterans)
 - All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial
 
-For Cohort C (9 Veterans)
+#### For Cohort C (9 Veterans)
 - All have NO experience with VA benefits or services but are interested in some (will ask in recruitment email)
 
-Cohort D (9 Veterans)
+#### Cohort D (9 Veterans)
 - All have experience with VA disability, housing, pension, life insurance, or burial benefits
 
-Cohort E (9 Caregivers or Family Members of Veterans)
+#### Cohort E (9 Caregivers or Family Members of Veterans)
 - All have NO experience with VA benefits or services but are interested in some (will ask in recruitment email)
 
-We will provide an [email template]() for Perigean to use when reaching out to potential participants. 
+#### Communication with Perigean
+We will provide an [email template]() for Perigean to use when reaching out to each cohort of potential participants. 
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
 
 We estimate it will take participants 15-20 minutes *(need to verify!)* to copmlete the card sort.
 
-#### Primary criteria (must-haves)
-- 14 are Veterans
-- 6 are Caregivers or Family Members
-- 10 have experience with one or more of the following VA benefits or services: health care, education or career services, disability, housing, pension, life insurance, or burial
-- 10 have no experience with VA benefits or services but are interested in some
-- ALL have a computer and are willing to use it to complete the activity
-- ALL are willing to do an activity from their computer that requires dragging and dropping items on their computer screen (NO screen reader users)
- 
-#### Secondary criteria (nice-to-haves)
-- At least 8 women
-- Diversity across age groups
-- Diversity across racial identities
-- Diversity across education levels
-- Diversity across rural and major metropolitan areas
+*(SAVE somewhere else: would like ~14 Veterans and 6 Caregivers or Family Members, half with experience using VA benefits/services and half w/o)*
 
 
 ### For MODERATED sessions over Zoom
