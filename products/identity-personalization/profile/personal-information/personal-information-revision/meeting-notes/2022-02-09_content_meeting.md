@@ -25,8 +25,24 @@ Work with Danielle on taking the VA Fact Sheets and additional info provided by 
 - We can include information about people who have a need to access the information will access, but we need to verify
 - Some of the fact sheets have questions like "what if I don't want anyone except my doctor to know..."
 - USDS research showed that people with low literacy, low English proficiency, cognitive issues could mistakenly click on a transgender man/transgender woman
-- 
+- Yesterday Michael said we should put gender identity above pronouns, but we're not sure that's a good idea.  It makes sense that preferred name and pronouns are related to how we address people.
+- Could we put some kind of "if you have VA Health Care?"
+- Samara owns the profile; it's not like a 10-10EZ form
+- In the user research, we didn't get any feedback about how things should be ordered.  We will leave it as-is.
+- If we group it together by general and healthcare, that could create more confusion because people will wonder why, if we know they don't have healthcare, we even show that.
+- We could do a R&S article that kind of gets into the meat of this if it's too long
+- We want the most imporatant thing to be that this can be accessed across more than health care, but it's really for health care and you don't have to fill it out.
+- It's important to address "If I want my provider to know, but not in my record, what are my options?"
+- For preferred name and pronouns, we can explicity say it's optional. For gender identity and sexual orientation, we can also say that it's optional, here's more info, etc.
+
+## Timing
+- Timing - design mockups & on staging for QA - 
+- R&S for QA - mid-March
+- Launch - mid-April to May
+- We're not going to do anything until we have definitive answers around PRA
 
 ## Action Items
-
-
+- We'll provide a mockup and not a word doc
+- It's more about Lexi and Michael's awareness than approval
+- One ticket for the Personal Info exists.  We'll confirm it's still valid.
+- R&S Ticket - Marci will create
