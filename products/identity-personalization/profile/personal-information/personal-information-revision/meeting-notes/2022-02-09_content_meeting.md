@@ -21,7 +21,7 @@ Work with Danielle on taking the VA Fact Sheets and additional info provided by 
 - Stuff we were hoping for better info & clarity was gender identity and sexual orientation, but they really just validated that it's medical info
 - We should probably just come out and say that if you're not part of the medical system and/or don't want the VA to know this, then don't answer this info
 - We should also make it clear that this info is not JUST accessible by VHA, but also by other areas of the VA like VBA and NCA
-- We can and should say that people should only update this if they want to update their health care record; it's not fair to only tell users the benefits and now the drawbacks; especially sexual orientation
+- We can and should say that people should only update this if they want to update their health care record; it's not fair to only tell users the benefits and not the drawbacks; especially sexual orientation
 - We can include information about people who have a need to access the information will access, but we need to verify
 - Some of the fact sheets have questions like "what if I don't want anyone except my doctor to know..."
 - USDS research showed that people with low literacy, low English proficiency, cognitive issues could mistakenly click on a transgender man/transgender woman
