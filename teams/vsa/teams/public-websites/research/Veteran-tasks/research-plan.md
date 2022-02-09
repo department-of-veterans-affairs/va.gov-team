@@ -80,7 +80,7 @@ Ask Perigean to recruit **40** people using the cohorts below in order to get at
 #### Cohort E (9 Caregivers or Family Members of Veterans)
 - All have NO experience with VA benefits or services but are interested in some (will ask in recruitment email)
 
-#### Communication with Perigean
+#### Coordination with Perigean
 We will provide an [email template]() for Perigean to use when reaching out to each cohort of potential participants. 
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
