@@ -27,7 +27,6 @@ Work with Danielle on taking the VA Fact Sheets and additional info provided by 
 - USDS research showed that people with low literacy, low English proficiency, cognitive issues could mistakenly click on a transgender man/transgender woman
 - Yesterday Michael said we should put gender identity above pronouns, but we're not sure that's a good idea.  It makes sense that preferred name and pronouns are together since they are related to how we address people.
 - Could we put some kind of "if you have VA Health Care?"
-- Samara owns the profile; it's not like a 10-10EZ form
 - In the user research, we didn't get any feedback about how things should be ordered.  We will leave it as-is.
 - If we group it together by general and healthcare, that could create more confusion because people will wonder why, if we know they don't have healthcare, we even show that.
 - We could do a R&S article that kind of gets into the meat of this if it's too long
@@ -42,7 +41,5 @@ Work with Danielle on taking the VA Fact Sheets and additional info provided by 
 - We're not going to do anything until we have definitive answers around PRA
 
 ## Action Items
-- We'll provide a mockup and not a word doc
-- It's more about Lexi and Michael's awareness than approval
-- One ticket for the Personal Info exists.  We'll confirm it's still valid.
+- Update copy in the profile: One ticket for the Personal Info exists.  We'll confirm it's still valid.
 - R&S Ticket - Marci will create
