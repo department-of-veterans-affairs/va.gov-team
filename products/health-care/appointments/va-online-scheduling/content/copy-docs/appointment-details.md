@@ -1684,99 +1684,6 @@ none
 
 ---
 
-### Vaccine Booked-Canceled (#32593)
-
-**FORM TITLE**
-
-n/a
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-{Canceler} canceled this appointment.
-```
-
-**PAGE CONTENT**
-
-```
-COVID-19 vaccine
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
-### Confirmation States (#32593)
-
-#### Vaccine Confirmation State (#32593)
-
-**FORM TITLE**
-
-```
-NEW APPOINTMENT
-```
-
-**PAGE HEADER**
-
-```
-{appointment date} at {appointment time}
-```
-
-**PAGE DESCRIPTION**
-
-```
-We've scheduled and confirmed your appointment.
-```
-
-```Review your appointments```
-
-```Schedule a new appointment```
-
-**PAGE CONTENT**
-
-```
-COVID-19 vaccine
-{Facility name}
-{Facility address}
-Directions
-
-Clinic: {Clinic name}
-Location: {Physical location}
-Main phone: {phone number}
-TTY: 711
-```
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-Contact this provider if you need to reschedule or cancel your appointment.
-```
-
-**PROGRESS BUTTONS**
-
-none
-
----
-
 #### VA Direct Confirmation State (#32593)
 
 **FORM TITLE**
@@ -2109,6 +2016,224 @@ TTY: 711
 
 You shared these details about your concern
 {Reason}: {Booking note}
+```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+### Vaccine Booked-Canceled (#32593)
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+{Canceler} canceled this appointment.
+```
+
+**PAGE CONTENT**
+
+```
+COVID-19 vaccine
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Location: {Physical location}
+Main phone: {phone number}
+TTY: 711
+```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
+### Confirmation States (#32593)
+
+#### Vaccine Confirmation State (#32593)
+
+**FORM TITLE**
+
+```
+NEW APPOINTMENT
+```
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+We've scheduled and confirmed your appointment.
+```
+
+```Review your appointments```
+
+```Schedule a new appointment```
+
+**PAGE CONTENT**
+
+```
+COVID-19 vaccine
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Location: {Physical location}
+Main phone: {phone number}
+TTY: 711
+```
+
+```Add to calendar```
+
+```Print```
+
+```
+Need to make changes?
+Contact this provider if you need to reschedule or cancel your appointment.
+```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+### Vaccine Booked-Future (#36434)
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+none
+
+**PAGE CONTENT**
+
+```
+Type of care: {Type of care}
+
+COVID-19 vaccine
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Main phone: {phone number}
+TTY: 711
+```
+
+```Add to calendar```
+
+```Print```
+
+```
+Need to make changes?
+
+Contact this provider if you need to reschedule or cancel your appointment.
+```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
+### Vaccine Booked-Past (#36434)
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+This appointment occurred in the past.
+```
+
+**PAGE CONTENT**
+
+```
+Type of care: {Type of care}
+
+COVID-19 vaccine
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Main phone: {phone number}
+TTY: 711
+```
+
+```Print```
+
+**PROGRESS BUTTONS**
+
+none
+
+---
+
+### Vaccine Booked-Canceled (#36434)
+
+**FORM TITLE**
+
+n/a
+
+**PAGE HEADER**
+
+```
+{appointment date} at {appointment time}
+```
+
+**PAGE DESCRIPTION**
+
+```
+{Canceler} canceled this appointment.
+```
+
+**PAGE CONTENT**
+
+```
+Type of care: {Type of care}
+
+COVID-19 vaccine
+{Facility name}
+{Facility address}
+Directions
+
+Clinic: {Clinic name}
+Main phone: {phone number}
+TTY: 711
 ```
 
 **PROGRESS BUTTONS**
