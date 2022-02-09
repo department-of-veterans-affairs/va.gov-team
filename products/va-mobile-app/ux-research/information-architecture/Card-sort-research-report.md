@@ -88,6 +88,43 @@ While Veterans grouped some items as expected, they also grouped items in a diff
 
 Veterans clicked the COVID-19 Vaccine button and were taken to the va.gov COVID-19 information, not their vaccine record. 
 
+## Results
+
+### Similarity Matrix
+
+![similarity-matrix (1)](https://user-images.githubusercontent.com/79866060/153262536-c1bedc8e-f807-4ba6-b215-d506ba4cdb5d.svg)
+
+### Dendrogram 
+
+**"Best merege" method** 
+(often performs better than the actual agreement method when your study has fewer participants. It makes assumptions about larger clusters based on individual pair relationships.)
+
+![Screen Shot 2022-02-09 at 1 24 00 PM](https://user-images.githubusercontent.com/79866060/153265492-cea3e11f-1573-46a1-95f9-58fd19769fb9.png)
+
+Main groupings:
+
+Grouping 1: 
+GI/Education, Payment 78%
+
+Grouping 2: 
+Personal, ID, Military History/Identity/Records 78%
+
+Grouping 3:
+Payment, Personal, Disability 56%
+Disability Claims & Payments, HPPA 89%
+Payment, Direct Deposit 78%
+
+Grouping 4:
+Prescription, Health Care, Health Record 69%
+COVID, Healthcare  89%
+Appointments, Appoints & Messaging, Health Care 78%
+
+Grouping 5:
+Settings  89%
+
+Grouping 6:
+General  88%
+
 
 ## Key Findings
 
