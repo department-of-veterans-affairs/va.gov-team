@@ -1,7 +1,7 @@
 ---
 name: Authorized Experience Profile New Issue Template
 about: Basic template for creating Authorized Experience Profile team issues
-title: Auth Profile [Issue Name] 
+title: [Practice Area] Auth Profile - [Project] - [Issue Name] 
 labels: vsa, vsa-authenticated-exp, profile, needs-grooming
 assignees: 
 
@@ -19,6 +19,8 @@ Describe the issue background and scope
 
 ## How to configure this issue
 - Include practice area in title -- e.g., [Design], [FE], [BE]
+- Include project/initiative name
 - Add label for practice area (frontend, backend, design)
 - Assign to a Profile team member
 - Associate with an Epic if applicable
+- If creating for yourself: estimate work if enough info exists to do so
