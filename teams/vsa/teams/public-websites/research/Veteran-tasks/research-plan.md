@@ -54,7 +54,7 @@ The purpose of the moderated sessions is to gather qualitative feedback on the t
 ## Recruitment	
 
 ### For UNMODERATED online activity
-Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes.
+Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes. Ideally, I'd like to get about 2/3 (14 of 20) Veterans and 1/3 (6 of 20) Caregivers or Family Members, half with experience using some VA benefits/services and half without such experience.
 
 #### For everyone:
 - ALL have a computer and are willing to use it to complete the activity
@@ -86,8 +86,6 @@ We will provide an [email template]() for Perigean to use when reaching out to e
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
 
 We estimate it will take participants 15-20 minutes *(need to verify!)* to copmlete the card sort.
-
-*(SAVE somewhere else: would like ~14 Veterans and 6 Caregivers or Family Members, half with experience using VA benefits/services and half w/o)*
 
 
 ### For MODERATED sessions over Zoom
