@@ -12,8 +12,16 @@
 
 ## February 9, 2022
 ### Agenda
-- Erika: CMS support for R&S pilot
+- CMS support for R&S pilot
+  - Erika will arrange some time for further discussion with CMS Content
+  - Content type descriptions: Danielle and Beth will go through it together
+  - content planning participants won't need to be in Drupal
+  - we'll figure out content planner needs before deciding how they may use Drupal
 - Group: any questions about content groups board (https://app.mural.co/t/mikkiva8222/m/mikkiva8222/1642004034812/cf1c56cf22033fd7650baa22bcb60d9a6d0f88db?sender=u31df4f199540466f5c2a0712)?
+- Danielle: a few Community Care people interested in Drupal: send list to Kevin to begin onboarding process
+  - Dave: be aware of using branding, we're getting away from branding
+- Rachel: Claro theme demo
+  - cosmetic change but will allow for better experience with future updates
 
 
 ## January 24, 2022
