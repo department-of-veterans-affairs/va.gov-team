@@ -54,13 +54,31 @@ The purpose of the moderated sessions is to gather qualitative feedback on the t
 ## Recruitment	
 
 ### For UNMODERATED online activity
-Ask Perigean to recruit **40** people using the following cohorts in order to get at least **20** completes:
+Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes.
 
-- Cohort A: 9 Veterans who have experience with VA health care, education benefits, or career services
-- Cohort B: 9 Caregivers or Family Members of Veterans who have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial
-- Cohort C: 9 Veterans who have no experience with VA benefits or services but are interested in some
-- Cohort D: 9 Veterans who have experience with VA disability, housing, pension, life insurance, or burial benefits
-- Cohort E: 9 Caregivers or Family Members of Veterans who have no experience with VA benefits or services but are interested in some
+For everyone:
+- ALL have a computer and are willing to use it to complete the activity
+- ALL are willing to do an activity from their computer that requires dragging and dropping items on their computer screen (NO screen reader users)
+- At least 8 women
+- Diversity across age groups
+- Diversity across racial identities
+- Diversity across education levels
+- Diversity across rural and major metropolitan areas
+
+For Cohort A (9 Veterans)
+- All must have experience with VA health care, education benefits, or career services
+
+For Cohort B (9 Caregivers or Family Members of Veterans)
+- All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial
+
+For Cohort C (9 Veterans)
+- All have NO experience with VA benefits or services but are interested in some (will ask in recruitment email)
+
+Cohort D (9 Veterans)
+- All have experience with VA disability, housing, pension, life insurance, or burial benefits
+
+Cohort E (9 Caregivers or Family Members of Veterans)
+- All have NO experience with VA benefits or services but are interested in some (will ask in recruitment email)
 
 We will provide an [email template]() for Perigean to use when reaching out to potential participants. 
 
