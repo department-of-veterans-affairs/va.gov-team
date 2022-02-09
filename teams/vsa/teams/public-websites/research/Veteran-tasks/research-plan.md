@@ -54,7 +54,7 @@ The purpose of the moderated sessions is to gather qualitative feedback on the t
 ## Recruitment	
 
 ### For UNMODERATED online activity
-Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes. Ideally, I'd like to get about 2/3 (14 of 20) Veterans and 1/3 (6 of 20) Caregivers or Family Members, half with experience using some VA benefits/services and half without such experience.
+Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes. Ideally, we would like to get about 2/3 (14 of 20) Veterans and 1/3 (6 of 20) Caregivers or Family Members, half with experience using some VA benefits/services and half without such experience.
 
 #### For everyone:
 - ALL have a computer and are willing to use it to complete the activity
@@ -66,22 +66,26 @@ Ask Perigean to recruit **40** people using the cohorts below in order to get at
 - Diversity across rural and major metropolitan areas
 
 #### For Cohort A (9 Veterans)
-- All must have experience with VA health care, education benefits, or career services
+- All must have experience with VA health care, education benefits, or career services 
 
 #### For Cohort B (9 Caregivers or Family Members of Veterans)
-- All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial
+- All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
 
 #### For Cohort C (9 Veterans)
-- All have NO experience with VA benefits or services but are interested in some (will ask in recruitment email)
+- All have NO experience with VA benefits or services but are interested in some 
 
 #### Cohort D (9 Veterans)
 - All have experience with VA disability, housing, pension, life insurance, or burial benefits
 
 #### Cohort E (9 Caregivers or Family Members of Veterans)
-- All have NO experience with VA benefits or services but are interested in some (will ask in recruitment email)
+- All have NO experience with VA benefits or services but are interested in some 
 
 #### Coordination with Perigean
-We will provide an [email template]() for Perigean to use when reaching out to each cohort of potential participants. 
+To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*.
+
+For potential participants who don't have any experience with VA benefits or services, the recruitment emails we provide will ask for interest in VA benefits or services.
+
+We will provide an [email template]() and card sort activity link for Perigean to use when reaching out to each cohort of potential participants. 
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
 
