@@ -17,26 +17,30 @@ _What details are necessary for understanding the specific work or request track
 
 ---
 
-## Artifacts
+## Artifacts Needing Updates
 _What pages or templates do you anticpate requiring updates?_
+
 _Please note that other pages may need edits_
 
 ---
 ## Tasks
-- [ ] This ticket includes updates to GitHub issue templates. Reference the [Updating existing GitHub issue templates guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#1.-Updating-existing-GitHub-issue-templates) in Governance Team Confluence for guidance on how to make the necessary changes.
-- [ ] This ticket includes creation of a new GitHub issue template. Reference the [Creating new GitHub issue templates guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#2.-Creating-new-GitHub-issue-templates) in Governance Team Confluence for guidance on how to make the necessary changes.
-- [ ] This ticket includes updates to Confluence documentation. Reference the [Update existing Confluence documentation guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#3.-Updating-existing-Confluence-documentation) in Governance Team Confluence for guidance on how to make the necessary changes.
-- [ ] This ticket includes creation of a new Confluence document. Reference the [Creating new Confluence documentation guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#4.-Creating-new-Confluence-documentation) in Governance Team Confluence for guidance on how to make the necessary changes.
-- [ ] This ticket includes updates to Platform Website documentation. Reference the [Update existing Platform Website documentation guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#5.-Updating-existing-Platform-Website-documentation) in Governance Team Confluence for guidance on how to make the necessary changes.
-- [ ] This ticket includes creation of a Platform Website page. Reference the [Creating new Platform Website documentation guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#6.-Creating-new-Platform-Website-documentation) in Governance Team Confluence for guidance on how to make the necessary changes.
+_Other tasks may be required, please review ticket and add any additional tasks_
+- [ ] _Placeholder task_
+- [ ] _Placeholder task_
+- [ ] _Placeholder task_
 
 ---
 
 ## Acceptance Criteria
-- [ ] "Insert Page Name" Confluence document has been updated/created
-- [ ] "Insert GitHub template" GitHub template has been updated/created
-- [ ] "Insert Platform Website Page" on Platform Website has been updated
-- [ ] Updates have been Peer Reviewed by Governance Team member or OCTO (guidance to be created)
+_Additional AC may exist, add any additional AC as needed_
+- [ ] "Insert Page Name" Confluence document has been [updated per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#3.-Updating-existing-Confluence-documentation)
+- [ ] "Insert Page Name" Confluence document has been [created per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#4.-Creating-new-Confluence-documentation)
+- [ ] "Insert GitHub template" GitHub template has been [created per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#2.-Creating-new-GitHub-issue-templates)
+- [ ] "Insert GitHub template" GitHub template has been [updated per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#1.-Updating-existing-GitHub-issue-templates)
+- [ ] "Insert Platform Website Page" on Platform Website has been [updated per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#5.-Updating-existing-Platform-Website-documentation)
+- [ ] "Insert Platform Website Page" on Platform Website has been [created per guidance](https://vfs.atlassian.net/wiki/spaces/PPST/pages/2047868956/WIP+Documentation+Update+Guidance#6.-Creating-new-Platform-Website-documentation)
+- [ ] Updates have been Peer Reviewed by Governance Team member
+- [ ] User Story need has been fulfilled
 
 ---
 
@@ -48,6 +52,7 @@ _Please note that other pages may need edits_
 
 ---
 ## How to configure this issue
-- [ ] **Ticket Type is labeled** ('tech-debt', 'collaboration-cycle')
-- [ ] **Attached to an Epic** (what body of work is this a part of?)
-- [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `service-design`, `tools-be`, `tools-fe`)
+- [ ] **Ensure that story is attached to appropriate Iniative (if not tech debt)** (what body of work is this a part of?)
+- [ ] Ensure that any additional labels are added ('tech-debt', 'collaboration-cycle')
+- [ ] Ensure that story is in the correct pipeline (Backlog, Planned, In Progress, Review/QA, Closed)
+- [ ] Ensure that assignees are correct so you receive all updates/comments on the ticket
