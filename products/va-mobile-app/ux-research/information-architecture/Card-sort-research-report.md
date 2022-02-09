@@ -90,18 +90,21 @@ Veterans clicked the COVID-19 Vaccine button and were taken to the va.gov COVID-
 
 ## Results
 
-### Similarity Matrix
-
-![similarity-matrix (1)](https://user-images.githubusercontent.com/79866060/153262536-c1bedc8e-f807-4ba6-b215-d506ba4cdb5d.svg)
-
 ### Dendrogram 
 
 **"Best merege" method** 
-(often performs better than the actual agreement method when your study has fewer participants. It makes assumptions about larger clusters based on individual pair relationships.)
+
+This dendrogram shows what proportion of Veterans agreed with particular card groupings.
+
+The cards Veterans were asked to group are on the left-hand side, while the axis along the top measures the level of agreement across participants. Clusters closer to the left indicate that more participants agreed with this grouping.
+
+Pictured here is the "Best merge" method dendrogram (often performs better than the actual agreement method when your study has fewer participants. It makes assumptions about larger clusters based on individual pair relationships.) For more detail (including the Similarity Matrix), see the [VA Mobile IA Research mural board.](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1634908357710/58074b53d4942298679622026490db78c1ee8806?wid=0-1643765588807)
 
 ![Screen Shot 2022-02-09 at 1 24 00 PM](https://user-images.githubusercontent.com/79866060/153265492-cea3e11f-1573-46a1-95f9-58fd19769fb9.png)
 
-Main groupings:
+**Main groupings:**
+
+Below are the groupings from the dendrogram. The percentage is referring to how many paticipants agree that the set of cards belong in that particular grouping. 
 
 Grouping 1: 
 GI/Education, Payment 78%
