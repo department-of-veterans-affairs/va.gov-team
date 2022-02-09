@@ -106,27 +106,86 @@ Pictured here is the "Best merge" method dendrogram (often performs better than 
 
 Below are the groupings from the dendrogram. The percentage is referring to how many paticipants agree that the set of cards belong in that particular grouping. 
 
-Grouping 1: 
-GI/Education, Payment 78%
+<!-- Output copied to clipboard! -->
 
-Grouping 2: 
-Personal, ID, Military History/Identity/Records 78%
+<!-- Yay, no errors, warnings, or alerts! -->
 
-Grouping 3:
-Payment, Personal, Disability 56%
-Disability Claims & Payments, HPPA 89%
-Payment, Direct Deposit 78%
 
-Grouping 4:
-Prescription, Health Care, Health Record 69%
-COVID, Healthcare  89%
-Appointments, Appoints & Messaging, Health Care 78%
+<table>
+  <tr>
+   <td>Grouping 1
+   </td>
+   <td>GI/Education, Payment
+   </td>
+   <td>78%
+   </td>
+  </tr>
+  <tr>
+   <td>Grouping 2
+   </td>
+   <td>Personal, ID, Military History/Identity/Records
+   </td>
+   <td>78%
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3" >Grouping 3
+   </td>
+   <td>Payment, Personal, Disability 
+   </td>
+   <td>56%
+   </td>
+  </tr>
+  <tr>
+   <td>Disability Claims & Payments, HPPA 
+   </td>
+   <td>89%
+   </td>
+  </tr>
+  <tr>
+   <td>Payment, Direct Deposit 
+   </td>
+   <td>78%
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="3" >Grouping 4
+   </td>
+   <td>Prescription, Health Care, Health Record
+   </td>
+   <td>69%
+   </td>
+  </tr>
+  <tr>
+   <td>COVID, Healthcare 
+   </td>
+   <td>89%
+   </td>
+  </tr>
+  <tr>
+   <td>Appointments, Appoints & Messaging, Health Care 
+   </td>
+   <td>78%
+   </td>
+  </tr>
+  <tr>
+   <td>Grouping 5
+   </td>
+   <td>Settings
+   </td>
+   <td>89%
+   </td>
+  </tr>
+  <tr>
+   <td>Grouping 6
+   </td>
+   <td>General
+   </td>
+   <td>88%
+   </td>
+  </tr>
+</table>
 
-Grouping 5:
-Settings  89%
-
-Grouping 6:
-General  88%
 
 
 ## Key Findings
