@@ -35,6 +35,42 @@
 
 </details>
 
+## February 9 
+
+### Recurring events 
+
+Updates from CMS
+* Launch date for recurring events - March 2nd
+* Change management
+  * Add a communication around the new filters, and let editors know that this in prep for recurring events coming soon.  
+  * Screenshots (or just include the design specs)
+  * Tested with Veterans
+  * Brian will draft messaging and CMS team can 
+  * From Dave: "Changes to events are coming... based on feedback from Veterans and from you. First thing is changes the Veteran experience, including event location information [anything else?] on the event listing pages and the ability to filter by dates. These changes were necessary for repeating events, which are coming in March". 
+* Dave and Brian will communicate with Tim from VEO to let him know that recurring events are on their way
+* CMS will be sending announcement to all Outreach and Event editors and VAMC editors.
+
+Update from Public Websites
+* Sam cleared the QA issues
+  *  One zoom issue from QA, some metatag
+  *  Tugboat worked well 
+*  Production flag 
+  * If we want to do any testing we would need a separate branch
+  * Flag is for both V2 (filters to search by date) and recurring events
+  * Sam will look to see if it's releasable now.
+  * Trent would remove the production flag pending Sam's investigation, week of Feb 14.
+
+Spotlighted events
+* The most upcoming date will be shown if an event is featured.
+* Veterans won't see any difference.
+* Spotlight may show past events
+
+
+Support for full day events
+* Q2 candidate - relatively small lift for CMS, but some content design problems to work out
+
+
+
 ## January 19
 
 Events
