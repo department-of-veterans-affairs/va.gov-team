@@ -68,6 +68,11 @@ Ideally, this research will start **in early March 2022**. We are proposing 4 - 
 
 - Will we need to support the MHV credential after the health apartment transition? 
 
+### For the VA.gov health apartment team 
+
+- (Meg) What work have you already done on evaluating the MHV <> VA.gov profiles?
+- (Meg) Are there other things we should be considering as we think about how the VA.gov profile might change as it needs to support MHV users?
+
 ### For MHV profile team
 
 - What work is the MHV profile team already doing to start to get their profile data into VA Profile or other backends?
