@@ -13,7 +13,7 @@ We are excited to welcome your team to VA.gov. As a new VFS team, this template 
 ## User Stories
 As the leader of a new VFS team, I need to share basic info about my team with Platform so that Platform teams can have knowledge of my team for future collaboration.
 
-As the leader of a new VFS team, I need to ensure my team follow the instructions for new VFS team members so that they're aware of Platform policies and processes, and Platform is aware of who supports my team for future collaboration.
+As the leader of a new VFS team, I need to ensure my team follows the instructions for new VFS team members so that they're aware of Platform policies and processes, and Platform is aware of who supports my team for future collaboration.
 
 As the leader of a new VFS team, I need to ensure my teams product information is correct so that Platform can have an accurate list of VA.gov products.
 
