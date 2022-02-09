@@ -16,10 +16,10 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify Veteran top tasks. We hope to find a set of 5-10 tasks that are most important from an initial set of about 30 tasks.
+The goal of this research is to identify Veteran top tasks. We hope to find a set of 10-12 tasks that are most important from an initial set of about 30 tasks.
 
 ### Outcome
-The top tasks that we identify could be used in future user research studies and design efforts on VA.gov. We could measure the success rate and time on task as metrics across research studies.
+The top tasks that we identify could be used to measure the overall health of VA.gov. By running baseline usability tests and then regular tests at intervals, we can check whether Veterans can quickly and easily complete all top tasks.
 
 ### Research questions
 1. When Veterans and others visit VA.gov, what tasks are most important to them? 
