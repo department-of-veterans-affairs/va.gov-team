@@ -40,15 +40,15 @@ We would like to get complete sorting responses from **at least 30 Veterans and 
 
 The purpose of the moderated sessions is to gather qualitative feedback on the tasks and their relative importance. 
 
-*Action item:* Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.
+*Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.*
 
-*Action item:* Get access to the new VSA account for Optimal Workshop from Yana or Shawna.
+*Action item: Get access to the new VSA account for Optimal Workshop from Yana or Shawna.*
 
-*Action item:* Create card sort in Optimal Workshop with a question for participants to provide their unique code, and then generate separate links for each recruitment cohort and add below.
+*Action item: Create card sort in Optimal Workshop with a question for participants to provide their unique code, and then generate separate links for each recruitment cohort and add below.*
 
 ### Research materials
-- [Link to conversation guide]
-- [Link to prototype]()
+- [Link to conversation guide]()
+- [Link to online card sort]()
 
 
 ## Recruitment	
