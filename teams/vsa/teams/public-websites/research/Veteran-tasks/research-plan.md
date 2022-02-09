@@ -28,8 +28,8 @@ The top tasks that we identify could be used in future user research studies and
 4. Are there any important tasks missing?
 
 ### Hypotheses
-1. Veterans and caregivers of Veterans will generally agree on which tasks are the most important.
-2. Veterans and caregivers of Veterans will generally agree on which tasks are the least important.
+1. Veterans (and caregivers of Veterans) will generally agree on which tasks are the most important.
+2. Veterans (and caregivers of Veterans) will generally agree on which tasks are the least important.
 
 ## Method	
 Starting from a list of about 30 tasks synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together an online card sort activity on Optimal Workshop. Veterans will rate the importance of each task by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them, as well.
