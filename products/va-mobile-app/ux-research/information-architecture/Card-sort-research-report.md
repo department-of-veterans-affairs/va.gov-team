@@ -2,7 +2,7 @@
 
 
 
-# VA: Health and Benefits Information Architecture Research Findings
+# VA: Health and Benefits Information Architecture Research: Open Card Sort Findings
 
 Office of the CTO - Digital Experience (OCTO-DE), VA: Health and Benefits (Mobile App)
 
