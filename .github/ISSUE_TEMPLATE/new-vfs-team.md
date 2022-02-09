@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 ## Welcome and Introduction
-We are excited to welcome your team to VA.gov. As a new VFS team, this template should be completed by your teams Prodcut Owner and/or Product Manager.
+We are excited to welcome your team to VA.gov. As a new VFS team, this template should be completed by your teams Prodcut Owner and/or Product Manager. 
 
 ## User Stories
 As the leader of a new VFS team, I need to share basic info about my team with Platform so that Platform teams can have knowledge of my team for future collaboration.
 
-As a leader of a new VFS team, I need to ensure my team follow the instructions for new VFS team members so that they're aware of Platform policies and processes, and Platform is aware of who supports my team for future collaboration.
+As the leader of a new VFS team, I need to ensure my team follow the instructions for new VFS team members so that they're aware of Platform policies and processes, and Platform is aware of who supports my team for future collaboration.
 
-As a leader of a new VFS team, I need to ensure my teams product information is correct so that Platform can have an accurate list of VA.gov products.
+As the leader of a new VFS team, I need to ensure my teams product information is correct so that Platform can have an accurate list of VA.gov products.
 
-As a leader of a new VFS team, I need to complete ATO orientation so that VA.gov continues to be a secured and approved application within the VA. 
+As the leader of a new VFS team, I need to complete ATO orientation so that VA.gov continues to be a secured and approved application within the VA. 
 
 
 ## New Team Info
@@ -41,7 +41,7 @@ Add your team's practice and contact information below.
 
 - [ ] This information has been added.
 
-## Platform Orientation for your team
+## Platform Orientation for your team members
 In addition to providing information to Platform and completing necessary tasks at the team level, there are also tasks that need to be completed at the individual level. As a team leader, you will need to: 
 - [ ] Direct your team member to the [New VFS Team members section](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-NewVFSTeammembers) on the Platform Orientation page of Platform Website
 - [ ] Ask all of your team members to follow the instructions provided
@@ -53,7 +53,7 @@ In addition to providing information to Platform and completing necessary tasks 
 - [ ] If you don't have edit access, reach out to the [#vfs-platform-support channel](https://join.slack.com/share/enQtMjk1NjI2OTUyMzI4Ny03NTJiYjkxZTljMWQwYjczNTI1ZjUyYmUzNTYxN2IyMjMzNWUzMDBjN2UyOGQyNzA5MmM2YWVlNGJjMGFkYzZi) in Slack. Please note that access is given to Product Owners only.
 - [ ] If anything needs to be changed or added, edit the page in Confluence
 
-## Team schedules and attends ATO (Authorization to Operate) orientation
+## ATO (Authorization to Operate) orientation
 - [ ] Reach out to Faith Owusu-Sekyere on Slack
 - [ ] Request and schedule an ATO team orientation
 - [ ] Confirm that the orientation has been completed
@@ -61,6 +61,6 @@ In addition to providing information to Platform and completing necessary tasks 
 
 ## Platform Checklist
 The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
-- [ ] New VFS Team member has been added to the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0)
+- [ ] New VFS Team has been added to the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0)
 
 
