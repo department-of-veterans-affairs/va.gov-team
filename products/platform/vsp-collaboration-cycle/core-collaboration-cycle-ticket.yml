@@ -8,7 +8,7 @@ labels:
 assignees:
   - shiragoodman 
 body:
-  - type: text
+  - type: input
     id: product-name
     attributes:
       label: Product name
