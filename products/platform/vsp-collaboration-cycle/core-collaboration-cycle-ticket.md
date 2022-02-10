@@ -1,4 +1,15 @@
-# Collaboration Cycle
+# Collaboration Cycle for [Team Name, Product Name, Feature Name]
+
+**VFS Product Manager**
+
+- [ ] Create this issue and notify the Collaboration Cycle team of this ticket in the in #vfs-platform-support ([see Slack Workflow (User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)).  
+- [ ] Complete the **[VFS product information](#vfs-product-information)** and **[kickoff questions](#kickoff-questions)** sections, and attach any **[artifacts](#artifacts)** you have available.
+
+**Platform**
+
+- [ ] Review the responses and update the ticket with recommended touchpoints and practice area involvement.
+- [ ] Add project to the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+
 Skip to...
 - [VFS product information](#vfs-product-information)
 - [Kickoff questions](#kickoff-questions)
@@ -6,31 +17,22 @@ Skip to...
 - [Collaboration Cycle touchpoints](#collaboration-cycle-touchpoints)
 
 ## VFS product information
-**Product Name:**
+- **Product Name:**
+- **Feature Name:**             <!-- If this is for a new product, please input, 'N/A' -->
+- **VFS Team Name:**
+- **GitHub label for product:**     <!-- Label should be in the va.gov-team repo -->
+- **GitHub label for feature:**     <!-- Label should be in the va.gov-team repo -->
+- **Start date of enhancement:**
+- **Feature launch date:**
+- **VA 508 Office audit request ticket number:**
+- **Production URL:**
+- **Front-end information???**
 
-**Feature Name:**
-
-_If this is for a new product, please input, 'N/A'_
-
-**VFS Team Name:**
-
-**Github label for Product:**
-
-**Github label for feature:**
-
-**Start date of enhancement:**
-
-**Feature launch date:**
-
-**VA 508 Office audit request ticket number:**
-
-**Production URL:**
-
-**Front-end information???**
-
-## Kickoff questions:
+## Kickoff questions
 <details open>
   <summary>Toggle kickoff questions</summary>
+  
+Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
   
 **1. Will your work result in visible changes to the user experience?**
 - [ ] Yes
@@ -91,25 +93,12 @@ Examples of **research with VA.gov users** include:
 ## Artifacts
 
 ### Product artifacts
-<details>
+<details open>
   <summary>Toggle product artifacts</summary>
 
-- [ ] Product outline
-<!--
-[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
---> 
-- [ ] Release plan with the "Planning" sections completed 
-<!-- 
-Release plan template
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md
---> 
-- [ ] Staging URL and staging test-user information
-<!-- 
-Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. 
-
-Use this accessible staging account template to do so:
-https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md
--->
+- [ ] Product outline <!-- Product outline template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md --> 
+- [ ] Release plan with the "Planning" sections completed <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
+- [ ] Staging URL and staging test-user information <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
   
 </details>
  
@@ -170,7 +159,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 
 </details>
 
-## Collaboration Cycle Touchpoints
+## Collaboration Cycle touchpoints
 
 ### Design Intent
 <details>
@@ -199,26 +188,6 @@ Zoom information:
 Zoom Recording:
 
 Zoom password:
-
-</details>
-
-### Contact Center Review
-<details>
-  <summary>Toggle Contact Center Review</summary>
-  
-[Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
-
-Link ticket here:
-
-</details>
-  
-### Research Plan Review
-<details>
-  <summary>Toggle Research Plan Review</summary>
-  
-[Research Plan Review request process](http://wwww.linkgoeshere.com)
-
-Link ticket here:
 
 </details>
 
@@ -251,6 +220,47 @@ Zoom Recording:
 Zoom password:
 
 </details>
+
+### Sitewide Content and IA Intake Request
+<details>
+  <summary>Toggle Sitewide Content and IA Intake Request</summary>
+  
+[Research Plan Review request process](http://wwww.linkgoeshere.com)
+
+Link ticket here:
+
+</details>
+
+### Research Plan Review
+<details>
+  <summary>Toggle Research Plan Review</summary>
+  
+[Research Plan Review request process](http://wwww.linkgoeshere.com)
+
+Link ticket here:
+
+</details>
+
+### Analytics Request
+<details>
+  <summary>Toggle Analytics Request</summary>
+  
+[Analytics request process](http://wwww.linkgoeshere.com)
+
+Link ticket here:
+
+</details>
+  
+### Contact Center Review
+<details>
+  <summary>Toggle Contact Center Review</summary>
+  
+[Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
+
+Link ticket here:
+
+</details>
+
   
 ### Staging Review
 <details>
@@ -280,5 +290,15 @@ Meeting date/time:
 Zoom Recording:
 
 Zoom password:
+
+</details>
+
+### Privacy and Security Review
+<details>
+  <summary>Toggle Privacy and Security Review</summary>
+  
+[Analytics request process](http://wwww.linkgoeshere.com)
+
+Link ticket here:
 
 </details>
