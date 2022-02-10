@@ -29,8 +29,8 @@ _If this is for a new product, please input, 'N/A'_
 **Front-end information???**
 
 ## Kickoff questions:
-<details>
-  <summary>Click to see Collaboration Cycle Kickoff questions </summary>
+<details open>
+  <summary>Toggle kickoff questions</summary>
   
 **1. Will your work result in visible changes to the user experience?**
 - [ ] Yes
@@ -90,7 +90,10 @@ Examples of **research with VA.gov users** include:
  
 ## Artifacts
 
-### Product Artifacts
+### Product artifacts
+<details open>
+  <summary>Toggle product artifacts</summary>
+
 - [ ] Product outline
 <!--
 [Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
@@ -107,36 +110,72 @@ Do not put staging credentials in your va.gov-team ticket; store or reference th
 Use this accessible staging account template to do so:
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md
 -->
+  
+</details>
  
-### Design Artifacts
+### Design artifacts
+<details open>
+  <summary>Toggle design artifacts</summary>
+  
 - [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
 - [ ] User flow
 - [ ] Finalized design prototype or mockup
 
-### Research Artifacts
+</details>
+
+### Research artifacts
+<details open>
+  <summary>Toggle research artifacts</summary>
+  
 - [ ] Research plan 
 - [ ] Conversation guide
 
-### IA Artifacts
+</details>
+
+### IA artifacts
+<details open>
+  <summary>Toggle IA artifacts</summary>
+  
 - [ ] User flow
 - [ ] Github ticket for any relevant IA work 
 
-### Content Artifacts
+</details>
+
+### Content artifacts
+<details open>
+  <summary>Toggle content artifacts</summary>
+  
 - [ ] Name of content of truth, for example, "Invision Prototypes"
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
 
-### QA Artifacts
+</details>
+
+### QA artifacts
+<details open>
+  <summary>Toggle QA artifacts</summary>
+  
 - [ ] Product test cases/test plan in TestRail with test execution logs 
 - [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
 - [ ] [Summary(Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
 
-### Accessibility Artifacts
+</details>
+
+### Accessibility artifacts
+<details open>
+  <summary>Toggle accessibility artifacts</summary>
+  
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
 - [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
 - [ ] List of known issues
 
+</details>
+
 ## Collaboration Cycle Touchpoints
+
 ### Design Intent
+<details open>
+  <summary>Toggle Design Intent</summary>
+  
 #### VFS Actions
 - [ ] Has Ryan Thurlwell reviewed your proposed designs? Yes or No
 - [ ] Schedule your Design Intent when ready:
@@ -161,17 +200,32 @@ Zoom Recording:
 
 Zoom password:
 
+</details>
+
 ### Contact Center Review
+<details open>
+  <summary>Toggle Contact Center Review</summary>
+  
 [Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
 
 Link ticket here:
 
+</details>
+  
 ### Research Plan Review
+<details open>
+  <summary>Toggle Research Plan Review</summary>
+  
 [Research Plan Review request process](http://wwww.linkgoeshere.com)
 
 Link ticket here:
 
+</details>
+
 ### Midpoint Review
+<details open>
+  <summary>Toggle Midpoint Review</summary>
+  
 #### VFS Actions
 - [ ] Schedule your Midpoint Review when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
@@ -196,7 +250,12 @@ Zoom Recording:
 
 Zoom password:
 
+</details>
+  
 ### Staging Review
+<details open>
+  <summary>Toggle Staging Review</summary>
+  
 #### VFS Actions
 - [ ] Schedule your Staging Review when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/staging-review)
@@ -221,3 +280,5 @@ Meeting date/time:
 Zoom Recording:
 
 Zoom password:
+
+</details>
