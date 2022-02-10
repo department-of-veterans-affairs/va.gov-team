@@ -225,19 +225,15 @@ Zoom password:
 <details>
   <summary>Toggle Sitewide Content and IA Intake Request</summary>
   
-[Research Plan Review request process](http://wwww.linkgoeshere.com)
-
-Link ticket here:
+Placeholder text
 
 </details>
 
 ### Research Plan Review
 <details>
   <summary>Toggle Research Plan Review</summary>
-  
-[Research Plan Review request process](http://wwww.linkgoeshere.com)
 
-Link ticket here:
+Complete the [research plan review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-plan-review.1781891143.html).
 
 </details>
 
@@ -245,9 +241,9 @@ Link ticket here:
 <details>
   <summary>Toggle Analytics Request</summary>
   
-[Analytics request process](http://wwww.linkgoeshere.com)
+Complete the [analytics request process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Analytics-request.1782120453.html) and provide a link to your request ticket below.
 
-Link ticket here:
+[Analytics implementation and QA request ticket](#)
 
 </details>
   
@@ -255,9 +251,9 @@ Link ticket here:
 <details>
   <summary>Toggle Contact Center Review</summary>
   
-[Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
-
-Link ticket here:
+Complete the [Contact Center review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Contact-center-review.1782317061.html) and provide a link to your request ticket below.
+  
+[Contact Center review request ticket](#)
 
 </details>
 
@@ -297,8 +293,8 @@ Zoom password:
 <details>
   <summary>Toggle Privacy and Security Review</summary>
   
-[Analytics request process](http://wwww.linkgoeshere.com)
+Complete the [Privacy, security, infrastructure readiness review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) and provide a link to your request ticket below.
 
-Link ticket here:
+[Readiness review ticket](#)
 
 </details>
