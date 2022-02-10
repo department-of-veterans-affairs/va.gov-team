@@ -105,9 +105,7 @@ Preferred date and time
 {Preferred date & time #2}
 {Preferred date & time #3}
 
--You shared these details about your concern
-+You shared these details about your appointment
-@@ This is just a test. Do not make these changes @@
+You shared these details about your concern
 {Reason}: {Booking note}
 
 Your contact details
