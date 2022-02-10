@@ -58,7 +58,6 @@ Facilities	| 	Facility Locator	| 	Emergency care mash-up	| 	7/6/2021	| 	yes	| 	E
 Search & Discovery	| 	On-site Search	| 	UI Consistency Updates	| 	7/7/2021	| 	yes	| 		| 	
 VA Medical Center Sites	| 	VAMC	| 	First post-Pittsburgh VAMC go-live to prod (Altoona, Wilkes-Barre, Wilmington)	| 	7/9/2021	| 	yes	| 	First post-Pittsburgh VAMC go-live to prod (Altoona, Wilkes-Barre, Wilmington)	| 	
 Facilities	| 	Vet Centers	| 	Vet Centers - Colorado Springs, Nashville	| 	7/14/2021	| 	no	| 	Establishing a web presence for Vet Centers - Veterans can find out about nearby Vet Centers and the services they provide	| 	9/24/2021
-Facilities	| 	Vet Centers	| 	50% of Vet Centers launched	| 	7/14/2021	| 	no	| 	Establishing a web presence for Vet Centers - Veterans can find out about nearby Vet Centers and the services they provide	| 	2/9/2022
 Claims & Appeals	| 	Disability Claims Tool-526	| 	526 wizard updates	| 	7/16/2021	| 	yes	| 	Moves the wizard to the intro page to reduce confusion	| 	11/19/2021
 Auth Experience	| 	My VA	| 	Launch of My VA re-design	| 	7/19/2021	| 	yes	| 	My VA provides Veterans with a direct route to their most critical tasks and updates based on their unique circumstances at the VA.	| 	8/27/2021
 eBenefits Migration	| 	Manage Dependents	| 	Launch ability to Manage Dependents (686) on VA.gov	| 	8/23/2021	| 	no	| 	Allow Veterans to manage their dependent information directly on VA.gov	| 	10/22/2021
@@ -80,3 +79,4 @@ Health care Exp	| 	Check-in Experience	| 	Confirm Emergency Contact information	
 Health care Exp	|  Check-in Experience	| 	Launch of Pre-Check-in MVP	| 	8/26/2021	| 	Yes	| 	Allows veterans the ability to review and confirm information from the check-in application prior to the day of appointment	| 
 10-10 Form| HCA	| 	Update Insurance copy	| 	1/12/2022	| 	yes	| 	Clarify insurance info requested to alleviate confusuion.	|
 Claims & Appeals | Higher Level Reivew | Form updates and enhancements | 2/4/2022 | Yes | Allows veterans the ability to submit a request for a decision review
+Facilities	| 	Vet Centers	| 	50% of Vet Centers launched	| 	7/14/2021	| 	no	| 	Establishing a web presence for Vet Centers - Veterans can find out about nearby Vet Centers and the services they provide	| 	2/9/2022
