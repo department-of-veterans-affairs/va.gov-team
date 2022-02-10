@@ -224,7 +224,8 @@ Zoom password:
 ### Sitewide Content and IA Intake Request
 <details>
   <summary>Toggle Sitewide Content and IA Intake Request</summary>
-  
+
+#### VFS Actions
 Placeholder text
 
 </details>
@@ -233,6 +234,7 @@ Placeholder text
 <details>
   <summary>Toggle Research Plan Review</summary>
 
+#### VFS Actions
 Complete the [research plan review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-plan-review.1781891143.html).
 
 </details>
@@ -240,7 +242,8 @@ Complete the [research plan review process](https://depo-platform-documentation.
 ### Analytics Request
 <details>
   <summary>Toggle Analytics Request</summary>
-  
+
+#### VFS Actions
 Complete the [analytics request process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Analytics-request.1782120453.html) and provide a link to your request ticket below.
 
 [Analytics implementation and QA request ticket](#)
@@ -250,7 +253,8 @@ Complete the [analytics request process](https://depo-platform-documentation.scr
 ### Contact Center Review
 <details>
   <summary>Toggle Contact Center Review</summary>
-  
+
+#### VFS Actions
 Complete the [Contact Center review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Contact-center-review.1782317061.html) and provide a link to your request ticket below.
   
 [Contact Center review request ticket](#)
@@ -293,6 +297,7 @@ Zoom password:
 <details>
   <summary>Toggle Privacy and Security Review</summary>
   
+#### VFS Actions
 Complete the [Privacy, security, infrastructure readiness review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) and provide a link to your request ticket below.
 
 [Readiness review ticket](#)
