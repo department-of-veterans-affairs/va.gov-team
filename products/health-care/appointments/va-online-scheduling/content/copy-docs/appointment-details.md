@@ -270,8 +270,9 @@ none
 
 **PAGE CONTENT**
 
-```
-Type of care: {Type of care}
+```diff
++ Type of care: {Type of care}
+@@ #36434 @@
 
 COVID-19 vaccine
 {Facility name}
@@ -319,8 +320,9 @@ This appointment occurred in the past.
 
 **PAGE CONTENT**
 
-```
-Type of care: {Type of care}
+```diff
+++ Type of care: {Type of care}
+@@ #36434 @@
 
 COVID-19 vaccine
 {Facility name}
@@ -360,8 +362,9 @@ n/a
 
 **PAGE CONTENT**
 
-```
-Type of care: {Type of care}
+```diff
+++ Type of care: {Type of care}
+@@ #36434 @@
 
 COVID-19 vaccine
 {Facility name}
@@ -1466,7 +1469,6 @@ Call {morning, afternoon, evening}
 
 none
 
----
 ---
 
 ## #32593
