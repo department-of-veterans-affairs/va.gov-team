@@ -1,4 +1,11 @@
-# VFS Product Information
+# Collaboration Cycle
+Skip to...
+- [VFS product information](#vfs-product-information)
+- [Kickoff questions](#kickoff-questions)
+- [Artifacts](#artifacts)
+- [Collaboration Cycle touchpoints](#collaboration-cycle-touchpoints)
+
+## VFS product information
 **Product Name:**
 
 **Feature Name:**
@@ -21,11 +28,11 @@ _If this is for a new product, please input, 'N/A'_
 
 **Front-end information???**
 
-# Collaboration Cycle Kickoff questions:
+## Kickoff questions:
 <details>
   <summary>Click to see Collaboration Cycle Kickoff questions </summary>
   
-### 1. Will your work result in visible changes to the user experience?
+**1. Will your work result in visible changes to the user experience?**
 - [ ] Yes
 - [ ] No
 
@@ -44,7 +51,7 @@ Examples of **no visible changes** include:
 -->
 
 
-### 2. Are you doing research with VA.gov users?
+**2. Are you doing research with VA.gov users?**
 - [ ] Yes
 - [ ] No
 
@@ -55,26 +62,25 @@ Examples of **research with VA.gov users** include:
  - Card sorting
 -->
 
-### 3. Will your work involve changes to: (select all that apply)
-
+**3. Will your work involve changes to: (select all that apply)**
 - [ ] Tools and applications*
 - [ ] Static pages
 - [ ] Both
 
 *For tools and applications, take into account if any static page entry points will need updates.*
 
-
-### 4. Does your product or feature have Google Analytics tracking and a KPI dashboard in Domo?
+  
+**4. Does your product or feature have Google Analytics tracking and a KPI dashboard in Domo?**
 - [ ] Yes
 - [ ] No
 
-### 5. If yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?
-
+  
+**5. If yes, do you need to capture any other analytics or metrics in addition to what you're currently tracking?**
 - [ ] Yes
 - [ ] No
 
 
-### 6. Who is the VA business owner for this product?
+**6. Who is the VA business owner for this product?**
 - [ ] VHA (Veterans Health Administration)
 - [ ] VBA (Veterans Benefits Administration)
 - [ ] NCA (National Cemetery Administration)
@@ -82,7 +88,8 @@ Examples of **research with VA.gov users** include:
 - [ ] Other. Please specify: ____________
 </details>
  
-# Artifacts
+## Artifacts
+
 ### Product Artifacts
 - [ ] Product outline
 <!--
@@ -101,7 +108,7 @@ Use this accessible staging account template to do so:
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md
 -->
  
- ### Design Artifacts
+### Design Artifacts
 - [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
 - [ ] User flow
 - [ ] Finalized design prototype or mockup
@@ -117,19 +124,20 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 ### Content Artifacts
 - [ ] Name of content of truth, for example, "Invision Prototypes"
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
+
 ### QA Artifacts
 - [ ] Product test cases/test plan in TestRail with test execution logs 
 - [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
 - [ ] [Summary(Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
+
 ### Accessibility Artifacts
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
-
 - [ ] Document in your product folder that indicates all required checks from the [accessibility staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
 - [ ] List of known issues
 
-# Collaboration Cycle Touchpoints
-## Design Intent
-### VFS Actions
+## Collaboration Cycle Touchpoints
+### Design Intent
+#### VFS Actions
 - [ ] Has Ryan Thurlwell reviewed your proposed designs? Yes or No
 - [ ] Schedule your Design Intent when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
@@ -139,12 +147,12 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
 - [ ] Please confirm that all requested artifacts are provided, as well as current and complete
-### Platform Actions
+#### Platform Actions
 - [ ] Design feedback provided
 - [ ] Accessibility feedback provided
 - [ ] IA feedback provided
 
-### Design Intent Details
+#### Design Intent Details
 Meeting date/time:
 
 Zoom information:
@@ -153,18 +161,18 @@ Zoom Recording:
 
 Zoom password:
 
-## Contact Center Review
+### Contact Center Review
 [Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
 
 Link ticket here:
 
-## Research Plan Review
+### Research Plan Review
 [Research Plan Review request process](http://wwww.linkgoeshere.com)
 
 Link ticket here:
 
-## Midpoint Review
-### VFS Actions
+### Midpoint Review
+#### VFS Actions
 - [ ] Schedule your Midpoint Review when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
@@ -174,22 +182,22 @@ Link ticket here:
 - [ ] Check this box if you'd like this review to be asynchronous
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
 - [ ] Please confirm that all requested artifacts are provided, as well as current and complete
-### Platform Actions
+#### Platform Actions
 - [ ] Design feedback provided
 - [ ] Accessibility feedback provided
 - [ ] IA feedback provided
 - [ ] Content feedback provided
 - [ ] QA feedback provided
 
-### Midpoint Review Details
+#### Midpoint Review Details
 Meeting date/time:
 
 Zoom Recording:
 
 Zoom password:
 
-## Staging Review
-### VFS Actions
+### Staging Review
+#### VFS Actions
 - [ ] Schedule your Staging Review when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/staging-review)
    - Select a date and time and click “Confirm”
@@ -198,14 +206,14 @@ Zoom password:
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
 - [ ] Please confirm that all requested artifacts are provided, as well as current and complete
-### Platform Actions
+#### Platform Actions
 - [ ] Design feedback provided
 - [ ] Accessibility feedback provided
 - [ ] IA feedback provided
 - [ ] Content feedback provided
 - [ ] QA feedback provided
 
-### Staging Review Details
+#### Staging Review Details
 DraftingTemplate (for Platform use only): 
 
 Meeting date/time:
