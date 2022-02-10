@@ -1,1 +1,19 @@
+name: "Collaboration Cycle"
+description: "Core ticket for products and features going through the Collaboration Cycle."
+title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
+labels:
+  - "collab-cycle-review"
+  - "collaboration-cycle"
+  - "governance-team"
+assignees:
+  - shiragoodman 
+body:
+  - type: text
+    id: product-name
+    attributes:
+      label: Product name
+      description: 
+      placeholder: 
+    validations:
+      required: true
 
