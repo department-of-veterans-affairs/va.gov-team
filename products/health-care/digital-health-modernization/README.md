@@ -4,7 +4,10 @@
 
 ## Team
 ### Current
-- Emily Mann - user research
-- Meg Peters - information architecture
-- Aryeh Jacobsohn - product strategy
-- Lauren Alexanderson - sponsor
+- Meg Peters - Information Architecture
+- Ryan Thurlwell - Design
+- Tracey Mulrooney - Product
+- Christopher Froehlich - Engineering
+- Patrick Vinograd - Engineering
+- Lauryl Zenobi - Research
+- Lauren Alexanderson - Sponsor
