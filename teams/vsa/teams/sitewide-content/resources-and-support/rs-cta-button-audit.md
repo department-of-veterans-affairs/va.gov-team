@@ -27,6 +27,7 @@
 | Education and training | [ Will I have to pay back the GI Bill benefits I used if I fail a class? ](https://www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) | Check your Statement of Benefits | |
 | Education and training | [Getting a GI Bill extension](https://www.va.gov/resources/getting-a-gi-bill-extension-0/) | Check your Statement of Benefits | |
 | Education and training | [Montgomery GI Bill refunds](https://www.va.gov/resources/montgomery-gi-bill-refunds/) | Learn about MGIB Active Duty | Learn about MGIB Selected Reserve |
+| Education and training | [In-state tuition rates under the Veterans Choice Act](https://www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) | Learn about GI Bill benefits | |
 | Health care | [How to set up direct deposit for VA travel pay reimbursement](https://www.va.gov/resources/how-to-set-up-direct-deposit-for-va-travel-pay-reimbursement/) | Go to the AccessVA travel claim portal | Get VA Form 10091 |
 | Health care | [Reimbursed VA travel expenses and mileage rate](https://www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/) | Go to the AccessVA travel claim portal | |
 | Health care | [Can I get free health care and prescriptions as a Veteran?](https://www.va.gov/resources/can-i-get-free-health-care-and-prescriptions-as-a-veteran/) | Learn about your VA health care costs |  |
