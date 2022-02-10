@@ -80,10 +80,6 @@ n/a
 
 **PAGE DESCRIPTION**
 
-```
-{Canceler} canceled this request.
-```
-
 ```diff
 - {Canceler} canceled this request.
 + {Canceler} canceled this request. If you still need an appointment, call us or request a new appointment online.
@@ -92,7 +88,7 @@ n/a
 
 **PAGE CONTENT**
 
-```
+```diff
 VA appointment
 {Facility name}
 {Facility address}
@@ -109,7 +105,9 @@ Preferred date and time
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-You shared these details about your concern
+-You shared these details about your concern
++You shared these details about your appointment
+@@ This is just a test. Do not make these changes @@
 {Reason}: {Booking note}
 
 Your contact details
