@@ -54,7 +54,7 @@ The purpose of the moderated sessions is to gather qualitative feedback on the t
 ## Recruitment	
 
 ### For UNMODERATED online activity
-Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes. Ideally, we would like to get about 2/3 (14 of 20) Veterans and 1/3 (6 of 20) Caregivers or Family Members, half with experience using some VA benefits/services and half without such experience.
+Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes. Ideally, we would like to get about 2/3 (14 of 20) Veterans and 1/3 (6 of 20) Caregivers of Veterans, half with experience using some VA benefits/services and half without such experience.
 
 #### For everyone:
 - ALL have a computer and are willing to use it to complete the activity
@@ -68,7 +68,7 @@ Ask Perigean to recruit **40** people using the cohorts below in order to get at
 #### For Cohort A (9 Veterans)
 - All must have experience with VA health care, education benefits, or career services 
 
-#### For Cohort B (9 Caregivers or Family Members of Veterans)
+#### For Cohort B (9 Caregivers)
 - All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
 
 #### For Cohort C (9 Veterans)
@@ -77,7 +77,7 @@ Ask Perigean to recruit **40** people using the cohorts below in order to get at
 #### Cohort D (9 Veterans)
 - All have experience with VA disability, housing, pension, life insurance, or burial benefits
 
-#### Cohort E (9 Caregivers or Family Members of Veterans)
+#### Cohort E (9 Caregivers)
 - All have NO experience with VA benefits or services but are interested in some 
 
 #### Coordination with Perigean
