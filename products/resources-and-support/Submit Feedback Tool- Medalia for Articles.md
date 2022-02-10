@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-*The Search and Discovery team would like to move away from having a separate feedback tool and use Medallia. Medallia will offer a combined experience for the Veterans as well streamline operations internally. Additionally Medallia already has analytics capabilities that the S&D team can build off of. Medallia's Feedback Survey Tool that we are interested in utilizing will allow users to rate multiple article pages on R&S.*
+*The Search and Discovery team would like suggest moving away from having a separate feedback tool (Good/Bad Rating) and use Medallia. Medallia will offer a combined experience for the Veterans as well streamline operations internally. Additionally Medallia already has analytics capabilities that the S&D team can build off of. Medallia's Feedback Survey Tool that we are interested in utilizing will allow users to rate multiple article pages on R&S.*
 
 ## Problem Statement
 *Currently the Resources and support article pages have the option for a veteran to submit whether their experience on the page was good or bad. 
