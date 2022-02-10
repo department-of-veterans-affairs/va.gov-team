@@ -17,7 +17,7 @@ Last updated February 8, 2022
 
 ## Problem Statement
 
-MyHealtheVet has its own profile, which is part of a larger Personal Information section. In support of the health apartment transition into VA.gov, we need to figure out which parts of the MHV Profile and Personal Information section need to roll into VA.gov and put together a strategy for how we might go about that work. 
+MyHealtheVet has its own profile, which is part of a larger Personal Information section. In support of the health apartment transition, we need to figure out which parts of the MHV Profile and Personal Information section need to roll into VA.gov and put together a strategy for how we might go about that work. 
 
 ## Research goals
 
