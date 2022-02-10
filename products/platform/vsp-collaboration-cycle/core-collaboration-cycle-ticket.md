@@ -91,7 +91,7 @@ Examples of **research with VA.gov users** include:
 ## Artifacts
 
 ### Product artifacts
-<details open>
+<details>
   <summary>Toggle product artifacts</summary>
 
 - [ ] Product outline
@@ -114,7 +114,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 </details>
  
 ### Design artifacts
-<details open>
+<details>
   <summary>Toggle design artifacts</summary>
   
 - [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
@@ -124,7 +124,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 </details>
 
 ### Research artifacts
-<details open>
+<details>
   <summary>Toggle research artifacts</summary>
   
 - [ ] Research plan 
@@ -133,7 +133,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 </details>
 
 ### IA artifacts
-<details open>
+<details>
   <summary>Toggle IA artifacts</summary>
   
 - [ ] User flow
@@ -142,7 +142,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 </details>
 
 ### Content artifacts
-<details open>
+<details>
   <summary>Toggle content artifacts</summary>
   
 - [ ] Name of content of truth, for example, "Invision Prototypes"
@@ -151,7 +151,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 </details>
 
 ### QA artifacts
-<details open>
+<details>
   <summary>Toggle QA artifacts</summary>
   
 - [ ] Product test cases/test plan in TestRail with test execution logs 
@@ -161,7 +161,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 </details>
 
 ### Accessibility artifacts
-<details open>
+<details>
   <summary>Toggle accessibility artifacts</summary>
   
 - [ ] [Completed TestRail Platform accessibility test plan](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). **(Preferred)** OR, 
@@ -173,7 +173,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/mas
 ## Collaboration Cycle Touchpoints
 
 ### Design Intent
-<details open>
+<details>
   <summary>Toggle Design Intent</summary>
   
 #### VFS Actions
@@ -203,7 +203,7 @@ Zoom password:
 </details>
 
 ### Contact Center Review
-<details open>
+<details>
   <summary>Toggle Contact Center Review</summary>
   
 [Contact Center Review github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019%2C+starlow00&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D)
@@ -213,7 +213,7 @@ Link ticket here:
 </details>
   
 ### Research Plan Review
-<details open>
+<details>
   <summary>Toggle Research Plan Review</summary>
   
 [Research Plan Review request process](http://wwww.linkgoeshere.com)
@@ -223,7 +223,7 @@ Link ticket here:
 </details>
 
 ### Midpoint Review
-<details open>
+<details>
   <summary>Toggle Midpoint Review</summary>
   
 #### VFS Actions
@@ -253,7 +253,7 @@ Zoom password:
 </details>
   
 ### Staging Review
-<details open>
+<details>
   <summary>Toggle Staging Review</summary>
   
 #### VFS Actions
