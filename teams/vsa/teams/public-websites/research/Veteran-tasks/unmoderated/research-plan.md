@@ -102,8 +102,6 @@ We estimate it will take participants 15-20 minutes *(need to verify!)* to compl
 - Research guide writing and task development:	Cindy Merrill
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Cindy Merrill
-- Note-takers:	None
-- Observers:	None
 
 ## Approvals
 - Reviewed and approved by Dave Conlon (PO) on DATE TBD
