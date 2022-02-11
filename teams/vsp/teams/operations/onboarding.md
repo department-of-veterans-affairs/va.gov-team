@@ -1,4 +1,4 @@
-# Onboarding Operations Team Members
+# Onboarding Infrastructure Team Members
 
 This document is meant as a way to assist a member of the VSP Operations team to get started. It starts with higher level organization of both technology and people, provides some information on how the team communicates, and adds some jumping off points into more details of how the VSP works.
 
@@ -6,13 +6,15 @@ This document is meant as a way to assist a member of the VSP Operations team to
 
 A great introduction to start is the [TechnicalArchitectureOverview]() page.
 
-There's also some high level documentation about how the [VA Enterprise Cloud transit VPC is constructed](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/aws-dx-transit-spoke-architecture/architecture.md) and how the platform fits within that ecosystem. This document is from the initial implementation phase, but from a high level a lot of the main constructs are still there. We also have a video of an overview of the [VA network overall](https://dsva.slack.com/archives/C0S6H6BQU/p1569526014067200) that is super helpful.
+There's also some high level documentation about how the [VA Enterprise Cloud transit VPC is constructed](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/aws-dx-transit-spoke-architecture/architecture.md) and how the platform fits within that ecosystem. This document is from the initial implementation phase, but from a high level a lot of the main constructs are still there. We also have a video of an overview of the [VA network overall](https://dsva.slack.com/archives/C0S6H6BQU/p1569526014067200) (75 min.) that is super helpful.
 
 Speaking of VAEC and how things fit together, some introductions to the organization [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/VA-IT-Organization-and-Contacts.md).
 
-There are currently 3 environments for the applications we deploy: dev, staging, and prod. A fourth is coming called sandbox. We also deploy into a utility environment for tools that don't fit cleanly that we only have one of (Jenkins, Grafana, etc).
+There are currently four environments for the applications we deploy: dev, staging, prod and sandbox. We also deploy into a utility environment for tools that don't fit cleanly that we only have one of (Jenkins, Grafana, etc).
 
-On the application side there's a (somewhat older, but still relevant) video of [how endpoints get added to the API](https://www.youtube.com/watch?v=V_i8JLXk5rg&feature=youtu.be) and some details about how the app works at that level.
+Some additional readings:
+- [Adding a new External Service Integration](https://depo-platform-documentation.scrollhelp.site/developer-docs/Adding-a-new-External-Service-Integration.1884586162.html)
+- [Forward Proxy](https://vfs.atlassian.net/wiki/spaces/OT/pages/1474594279/Forward+Proxy)
 
 ## Getting Connected and Started
 
@@ -40,15 +42,15 @@ You should ensure you have:
 
 Ansible is broken down into three distinct phases for deployments. 
 
-We have an [introduction slide deck](https://docs.google.com/presentation/d/1LrnoFoa8-Y_ZiVXHCk65lVk0aq1QT6v4KiFvexnF7KI/edit#slide=id.p) for high level concepts and a jumping off point to start working, and a [video of the presentation](https://dsva.slack.com/archives/CJYRZK2HH/p1570562096120000). And a more technical introduction video is [here](https://drive.google.com/file/d/1XthRYrCBIVI6LMQzP4TfL0J2cOuOv2pL/view?ts=5d8feece)
+We have an [introduction slide deck](https://docs.google.com/presentation/d/1LrnoFoa8-Y_ZiVXHCk65lVk0aq1QT6v4KiFvexnF7KI/edit#slide=id.p) for high level concepts and a jumping off point to start working. And a more technical introduction video is [here](https://drive.google.com/file/d/1XthRYrCBIVI6LMQzP4TfL0J2cOuOv2pL/view?ts=5d8feece).
 
-Also see the README in the [ansible directory](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible#buildreleasedeploy).
+See the README in the [ansible directory](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible#buildreleasedeploy) for more details about Build/Release/Deploy.
 
 ### Jenkins
 
-VSP uses Jenkins to run automated testing on all of our repositories as well as executing deployments. Access to Jenkins is controlled via our SOCKS proxy and you can gain access by setting up the [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md).
+VSP uses Jenkins to run automated testing on all of our repositories as well as executing deployments. Access to Jenkins is controlled via our SOCKS proxy and you can gain access by setting up the [Internal Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html).
 
-While there is only one instance of Jenkins, you can stand up an instance locally with most of the same configuration. Instructions are [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Testing%20Jenkins%20Changes.md#run-jenkins-in-vagrant). Read through the above, setup the build locally, and use the playbooks to answer the questions below.
+While there is only one instance of Jenkins, you can stand up an instance locally with most of the same configuration. Instructions are [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Testing%20Jenkins%20Changes.md#run-jenkins-in-vagrant). Read through the above, set up the build locally, and use the playbooks to answer the questions below.
 
 ### Monitoring
 
@@ -93,5 +95,5 @@ Being oncall requires access beyond the initial item listed so far.  Here's a qu
 
 ## Is there anything else I should know?
 
-- docs in [DevOps documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/docs) a good next step
-- Docs in the entire `Work Practices` directory in the va.gov-team repo are good to peruse, but in particular [Engineering Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/engineeringonboarding.md) is really useful with links to more content around workflow
+- docs in [DevOps documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/docs) a good next step.
+- Docs in the entire `Work Practices` directory in the va.gov-team repo are good to peruse, but in particular [Engineering Onboarding](https://depo-platform-documentation.scrollhelp.site/developer-docs/Onboarding.1887240280.html) is really useful with links to more content around workflow.
