@@ -13,10 +13,11 @@ The Resources & Support section of VA.gov relies heavily on Q&As and multiple FA
 - Does the question address a question that people may need often or across several tasks (like making debt payments or signing in to VA.gov)? An FAQ may be appropriate if at least one of these is true:
   - The question addresses a common error or pain point related to a task 
   - People are asking this question in search engines
-  - Contact centers are receiving calls with this question  
-
+  - Contact centers are receiving calls with this question 
+ 
 ## When to publish a single Q&A, a multiple FAQ page, or both
 
+- First, check to make sure the question isn't already answered in VA.gov content. 
 - Does the question on its own have high search value (threshold?)? If yes, consider publishing this as a single Q&A.
 - Are there X (define threshold) or more questions that directly relate to the same topic? If yes, consider including these questions on a multiple FAQs page. (What's our threshold for too many total FAQs on a page?)
 
@@ -42,7 +43,6 @@ The Resources & Support section of VA.gov relies heavily on Q&As and multiple FA
 - [A List Apart article](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/)
 - [PlainLanguage,gov](https://www.plainlanguage.gov/guidelines/web/avoid-faqs/)
 - [Digital.gov](https://digital.gov/2015/09/04/faqs-done-right/) 
-    
 
 
 
