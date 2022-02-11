@@ -41,11 +41,12 @@ MODERATOR: So, part of what we&#39;ll be focusing on today is getting forms or p
   A. [FOLLOW UP IF NEEDED] Has there been a lot? Is it particularly helpful?
   B. [IF MENTIONS 1095-B by name: Go to 6B]
 6. Are you familiar with a form called the 1095-B? _PAUSE_
-  A. [NO MENTION OF FORM] Are you familiar with a form called the 1095-B? _PAUSE_ [IF NO] Its okay, I wasn&#39;t really either! It&#39;s a form that shows proof of health insurance that you might receive from the VA or an employer. In previous years you included it with your taxes to show the IRS you were covered with health insurance.
+  A. [IF NO] Its okay, I wasn&#39;t really either! It&#39;s a form that shows proof of health insurance that you might receive from the VA or an employer. In previous years you included it with your taxes to show the IRS you were covered with health insurance.
   B. [MENTION OF FORM / FAMILIAR]
 7. Do you recall ever getting something like that in the mail from the VA or maybe an employer? What do you usually do with something like that?
 8. What about other paperwork or forms you might need when submitting your taxes? How do you organize that?
 9. Do you do taxes yourself or with your spouse? Do you ever use tax filing software like turbo tax?
+10. In the past, do you remember when you might have looked for the 1095-B document? Maybe before, during or after doing your taxes?
 
 ## Transition to Prototype
 
