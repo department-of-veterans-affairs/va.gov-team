@@ -32,7 +32,7 @@ The top tasks that we identify could be used to measure the overall health of VA
 2. Veterans (and caregivers of Veterans) will generally agree on which tasks are the least important.
 
 ## Method: Unmoderated Card Sort	
-Starting from a list of about 30 tasks synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together an online card sort activity on Optimal Workshop. Veterans and caregivers will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
+We would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 30 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
 
 We would like to get complete sorting responses from **at least 30 Veterans and Caregivers**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
@@ -90,10 +90,10 @@ We will provide an [email template]() and a card sort activity link for Perigean
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
 
-We estimate it will take participants 15-20 minutes *(need to verify!)* to copmlete the card sort.
+We estimate it will take participants 15-20 minutes *(need to verify!)* to complete the card sort.
 
 ## Timeline
-- The card sort will be open for at least 2 weeks starting on Feb XX, and should stay open until there are 30 completes.
+- The card sort will be open for at least 2 weeks starting on Feb XX, and should remain open until there are 30 completes.
 
 ### Prepare
 - The card sort link will be tested by several people on DATE TBD.
