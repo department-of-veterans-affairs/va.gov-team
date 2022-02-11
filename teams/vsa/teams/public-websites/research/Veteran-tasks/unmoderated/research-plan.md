@@ -40,7 +40,7 @@ We would like to get complete sorting responses from **at least 30 Veterans and 
 
 *Action item: Add a question for participants to provide their unique code from Perigean.*
 
-*Action item: Create an identical card sort activity for each cohort, or create distinct links for each cohort. Add links below.*
+*Action item: Add tokens to differentiate the different cohorts in the card sort and create distinct links for each cohort. Add links below.*
 
 ### Research materials
 - [Link to moderated research findings]()
@@ -76,10 +76,10 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 - All have NO experience with VA benefits or services but are interested in some 
 
 ### For Cohort F (9 Veterans)
-- All have TBD
+- All are female
 
 ### For Cohort G (9 Veterans)
-- All have TBD
+- All are male
 
 ### Coordination with Perigean
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*.
