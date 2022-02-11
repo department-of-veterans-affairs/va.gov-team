@@ -1,8 +1,8 @@
-# Research Plan for Veteran Top Tasks Moderated (part 1 of 2), Public Websites, Feb X, 2022
+# Research Plan for Veteran Top Tasks MODERATED (part 1 of 2), Public Websites, Feb X, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
-We would like to learn which tasks Veterans most want to do on VA.gov.
+We would like to learn which tasks Veterans find most important.
 
 ### OCTO Objectives 
 
@@ -16,35 +16,30 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to identify Veteran top tasks. We hope to find a set of 10-12 tasks that are most important from an initial set of about 30 tasks.
+The goal of this research is to get feedback on the use of a card sort designed to identify Veteran top tasks. We want to get feedback on the cards, categories, and instructions before launching the unmoderated card sort to a large group of Veterans and Caregivers. 
 
 ### Outcome
-The top tasks that we identify could be used to measure the overall health of VA.gov. By running baseline usability tests and then regular tests at intervals, we can check whether Veterans can quickly and easily complete all top tasks.
+The feedback we get on the card sort will be used to refine it to better prepare for people to use it unmoderated.
 
 ### Research questions
-1. When Veterans and others visit VA.gov, what tasks are most important to them? 
+1. When Veterans contact the VA, what tasks are most important to them? 
 2. What tasks are least important? 
-3. Are there any tasks that are unclear or confusing?
+3. Are there any tasks in the card sort that are unclear or confusing?
 4. Are there any important tasks missing?
+5. Is there anything about the card sort that is unclear or confusing?
 
 ### Hypotheses
-1. Veterans (and caregivers of Veterans) will generally agree on which tasks are the most important.
-2. Veterans (and caregivers of Veterans) will generally agree on which tasks are the least important.
+1. Veterans and caregivers of Veterans will find the card sort intuitive to use.
+2. Veterans and caregivers of Veterans will be able to assess the importance of each of the VA-related tasks presented in the card sort.
 
-## Method	
-Starting from a list of about 30 tasks synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches, we will put together an online card sort activity on Optimal Workshop. Veterans will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them, as well.
+## Method: Moderated Sessions over Zoom	
+We will conduct remote moderated research sessions via Zoom. Research participants will be asked about their VA-related tasks, and then they will be given a card sort activity link to do while talking aloud.
 
-We would like to get complete sorting responses from **at least 30 Veterans and Caregivers**, with  
-- **20 unmoderated** in distinct cohorts of fewer than 10 participants per cohort (per PRA)
-- **10 moderated** sessions via Zoom
-
-The purpose of the moderated sessions is to gather qualitative feedback on the tasks and their relative importance. 
+The card sort will be built in Optimal Workshop and will contain a list of about 30 tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them, as well.
 
 *Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.*
 
-*Action item: Get access to the new VSA account for Optimal Workshop from Yana or Shawna.*
-
-*Action item: Create card sort in Optimal Workshop with a question for participants to provide their unique code, and then generate separate links for each recruitment cohort and add below.*
+*Action item: Get access to the new VSA account for Optimal Workshop from Yana or Shawna, and create a card sort.*
 
 ### Research materials
 - [Link to conversation guide]()
@@ -53,63 +48,23 @@ The purpose of the moderated sessions is to gather qualitative feedback on the t
 
 ## Recruitment	
 
-### For UNMODERATED online activity
-Ask Perigean to recruit **40** people using the cohorts below in order to get at least **20** completes. Ideally, we would like to get about 2/3 (14 of 20) Veterans and 1/3 (6 of 20) Caregivers of Veterans, half with experience using some VA benefits/services and half without such experience.
-
-#### For everyone:
-- ALL have a computer and are willing to use it to complete the activity
-- ALL are willing to do an activity from their computer that requires dragging and dropping items on their computer screen (NO screen reader users)
-- At least 8 women
-- Diversity across age groups
-- Diversity across racial identities
-- Diversity across education levels
-- Diversity across rural and major metropolitan areas
-
-#### For Cohort A (9 Veterans)
-- All must have experience with VA health care, education benefits, or career services 
-
-#### For Cohort B (9 Caregivers)
-- All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
-
-#### For Cohort C (9 Veterans)
-- All have NO experience with VA benefits or services but are interested in some 
-
-#### Cohort D (9 Veterans)
-- All have experience with VA disability, housing, pension, life insurance, or burial benefits
-
-#### Cohort E (9 Caregivers)
-- All have NO experience with VA benefits or services but are interested in some 
-
-#### Coordination with Perigean
-To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*.
-
-For potential participants who don't have any experience with VA benefits or services, the recruitment emails we provide will ask for interest in VA benefits or services.
-
-We will provide an [email template]() and card sort activity link for Perigean to use when reaching out to each cohort of potential participants. 
-
-We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
-
-We estimate it will take participants 15-20 minutes *(need to verify!)* to copmlete the card sort.
-
-
-### For MODERATED sessions over Zoom
-
-Ask Perigean to recruit **15** people in order to get **10** completed sessions using the criteria below.
+Ask Perigean to recruit **10** people in order to get **5** completed sessions using the criteria below.
 
 #### Primary criteria (must-haves)
-- 10 are Veterans
-- 5 are Caregivers or Family Members of Veterans
-- 7 have experience with one or more of the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
-- At least 2 people 55 or older
-- At least 2 people with a cognitive disability (e.g., TBI)
+- 5 are Veterans
+- 3 are Caregivers of Veterans
+- 5 have experience with one or more of the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
+- 3 have NO experience with the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
 - ALL have a computer and are willing to use it to join our Zoom call (not a phone)
   - All have a working microphone on their computer, or are willing to also join from their phone for a microphone and speaker 
   - All have the Zoom app downloaded to their computer prior to the session and know how to share their screen
   - During the session, all are willing to share their browser window over Zoom
 
 #### Secondary criteria (nice-to-haves)
+- At least 2 people 55 or older
+- At least 2 people with a cognitive disability (e.g., TBI)
 - At least 2 people of color
-- At least 3 women
+- At least 2 women
 - At least 1 person 35 or under
 - At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 1 person that has a college degree (to include officer Veterans)
@@ -126,25 +81,17 @@ Ask Perigean to recruit **15** people in order to get **10** completed sessions 
 
 ## Timeline
 
-### For UNMODERATED online activity
-- The card sort will be open for at least 2 weeks starting on Feb XX.
-
-#### Prepare
-- The card sort link will be tested by several people on DATE TBD.
-
-### For MODERATED sessions over Zoom
-
-#### Prepare
+### Prepare
 - * Pilot #1: **Date time pm** ET with First Last (email address)
 - * Pilot #2: 
 
-#### Research sessions
+### Research sessions
 - Feb X-Y, 2022
 
-#### Length of sessions
+### Length of sessions
 - **60-minute sessions** with at least **30-minute breaks** in between
 
-#### Availability
+### Availability
 
 Team Availability | Time (ET)
 ------------------|--------------
