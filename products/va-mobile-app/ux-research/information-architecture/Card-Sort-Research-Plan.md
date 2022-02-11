@@ -22,7 +22,7 @@ Conversion notes:
 
 
 
-# **Research Plan for VA Mobile App Information Architecture Research: Open Card Sort - October 2021 (part 1 of 3)**
+# **Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (part 1 of 3) - October 2021**
 
 
 ## Background
