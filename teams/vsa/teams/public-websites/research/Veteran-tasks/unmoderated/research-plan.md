@@ -86,7 +86,7 @@ To assess potential participants' experiences with VA benefits or services, plea
 
 For potential participants who don't have any experience with VA benefits or services, the recruitment emails we provide will ask for interest in VA benefits or services.
 
-We will provide an [email template]() and a card sort activity link for Perigean to use when reaching out to each cohort of potential participants. 
+We will provide an [outreach email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/outreach-emails.md) and a unique card sort activity link for Perigean to use when reaching out to each cohort of potential participants. 
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort. 
 
