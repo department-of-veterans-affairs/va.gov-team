@@ -69,17 +69,17 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 ### For Cohort C (9 Veterans)
 - All have NO experience with VA benefits or services but are interested in some 
 
-### Cohort D (9 Veterans)
+### For Cohort D (9 Veterans)
 - All have experience with VA disability, housing, pension, life insurance, or burial benefits
 
-### Cohort E (9 Caregivers)
+### For Cohort E (9 Caregivers)
 - All have NO experience with VA benefits or services but are interested in some 
 
-### Cohort F (9 Veterans)
-- All have  
+### For Cohort F (9 Veterans)
+- All have TBD
 
-### Cohort 6 (9 Veterans)
-- All have  
+### For Cohort G (9 Veterans)
+- All have TBD
 
 ### Coordination with Perigean
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*.
