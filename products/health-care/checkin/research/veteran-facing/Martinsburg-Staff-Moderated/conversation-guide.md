@@ -1,9 +1,9 @@
 # Conversation Guide: Questions for Staff to ask Veterans
 - [Interactive PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/7915326/StLouis-Veteran-Feedback.pdf) 
 - [Optimal Sort survey for St. Clair CBOC](https://ows.io/qs/6t86mt8w)
-_Do not click on the Optimal Sort link, because it will capture your findings as a participant entry. But, this is the link that we can send to staff._
+- _Do not click on the Optimal Sort link, because it will capture your findings as a participant entry. But, this is the link that we can send to staff._
 
-
+## Questions
 - Did you check-in for your appointment on your mobile phone today?
   - If the Veteran answer "no" or "I don't remember," ask the following questions:
     - Did you see a poster [name the location of the poster at MVP site letting you know that you could use your mobile phone to check-in?
