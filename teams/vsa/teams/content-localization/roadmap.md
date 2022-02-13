@@ -73,7 +73,7 @@ OCTO and broader VA have a better understanding of the engagement and needs of V
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
 | Deliver Q2 iteration of quarterly LEP needs report | None | MVP report delivered | Not started |
-| Conduct current Spanish foundational/usability research with 8-12 more Veterans or family members | Study completed |Bilingual researcher | Paused |
+| Conduct current Spanish foundational/usability research with 8-12 more Veterans or family members | Bilingual researcher | Study completed | Paused |
 
 #### Outcome 3
 
