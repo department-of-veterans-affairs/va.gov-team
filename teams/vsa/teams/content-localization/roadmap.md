@@ -8,11 +8,10 @@
 
 ## FY2022-2023 roadmap
 
-[Q1 roadmap](#q1)
-[Q2 roadmap](#q2)
-[Q3 roadmap](#q3)
+[Q1 roadmap](#q1) <br>
+[Q2 roadmap](#q2) <br>
+[Q3 roadmap](#q3) <br>
 [Q4 roadmap](#q4)
-[Previously completed work](#Previously completed work)
 
 ### Q1
 
