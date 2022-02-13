@@ -3,7 +3,7 @@
 ## High-level objectives and impact
 - **Team mission:** Create effective, sustainable solutions that enable OCTO to better understand the needs of Veterans and their family members with limited English proficiency and to provide relevant, quality, accessible, and sustainable multilingual content that serves these needs.
 - **OCTO OKR:** Reduce the time it takes for Veterans to find, use, and receive VA services.
-- **Sitewide crew OKR:** Increase translated content by 300% to 500% (stretch goal) in FY2022-2023.
+- **Sitewide crew OKR:** Increase translated words on VA.gov by 300% in FY2022-2023.
 - **How this maps to the Veteran impact:** By providing vital multilingual content, we help Veterans and their family members with LEP better understand their benefits and their rights at VA, and get access to the language assistance services they may need for more help.
 
 ## FY2022-2023 roadmap
