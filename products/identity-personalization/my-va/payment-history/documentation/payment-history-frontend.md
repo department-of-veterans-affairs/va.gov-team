@@ -157,8 +157,8 @@ Use font awesome icon `dollar` for icon in link list
 	
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/1KnQlRO)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
+- [Mobile]- TBD
 
 ---
 
@@ -174,7 +174,7 @@ Use font awesome icon `dollar` for icon in link list
 
 Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1JK3qy)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/qea25yM)
+- [Mobile]- TBD 
 
 ---
 
@@ -187,7 +187,7 @@ Mock-ups
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/paD25yQ)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2QxrE)
+- [Mobile] - TBD 
 ---
 
 ### State 5: If a user has multiple deposits in the same day.
