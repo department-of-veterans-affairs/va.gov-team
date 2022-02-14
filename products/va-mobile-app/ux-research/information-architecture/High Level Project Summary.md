@@ -108,7 +108,7 @@ The purpose of this work is to inform the information architecture, content and 
    </td>
   </tr>
   <tr>
-   <td>Understand how other apps in the market with similar information structures are treating their navigation  models and evaluate them.
+   <td>Understand how other apps in the market with similar information needs are treating their navigation models and evaluate them.
    </td>
    <td>Competitive Analysis, Heuristic Evaluation
    </td>
