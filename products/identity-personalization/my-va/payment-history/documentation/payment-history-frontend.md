@@ -57,11 +57,9 @@ Your total VA debt balance is $0.
 
 **Do NOT Show**
 
-- If a user has no payments in the last 30 days. 
+- If a user has no payments in the last 30 days (but has received payments from VA in the past). 
 - If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1JK3qy)
-- [Mobile](TBD)
 
 #### Content
 
