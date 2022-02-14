@@ -29,7 +29,7 @@ Skip to...
 - **Front-end information:**
 
 ## Kickoff questions
-<details>
+<details open>
   <summary>Toggle kickoff questions</summary>
   
 Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
@@ -95,7 +95,7 @@ Examples of **research with VA.gov users** include:
 ### Product artifacts
 Update this section with new artifacts as you progress through the Collaboration Cycle.
 
-<details>
+<details open>
   <summary>Toggle product artifacts</summary>
 
 #### Provide at kickoff
