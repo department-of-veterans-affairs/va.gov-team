@@ -112,7 +112,7 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 * Closed card sort - Optimal Workshop
 * [Card Conten (gDoc)] (https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=702138539)
 * [Category Names (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=567294791)
-* [Recruiting email]()
+* [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md)
 
 
 
@@ -165,7 +165,7 @@ Ask Perigean to recruit 60 people using the cohorts below in order to get at lea
 
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question _Which VA benefits or services do you have any experience with?"_.
 
-We will provide an [email template]() and a card sort activity link for Perigean to use when reaching out to each cohort of potential participants.
+We will provide an [email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md) and a card sort activity link for Perigean to use when reaching out to each cohort of potential participants.
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort.
 
