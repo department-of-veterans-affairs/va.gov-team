@@ -52,11 +52,11 @@ The purpose of this work is to inform the information architecture, content and 
 
 
 * **Phase I** of this work will give insight on the usability and comprehension of the proposed information architecture direction.
-    * See more information on Phase I in this document. It describes a 3-part study that uses the following methods: open card sort, closed card sort, and tree test.
+    * It describes a 3-part study that uses the following methods: [open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort), [closed card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort), and [tree test].
 * **Phase II** of this work is a competitive analysis. It will be done in parallel with Phase I.
-    * See more information about the competitive analysis in this document.
+    * [See more information about the competitive analysis in this document].
 * **Phase III** of this work will give insight on the <span style="text-decoration:underline;">usability and comprehension of the proposed UI direction</span>.
-    * See more information on Phase III in this document. (TBD) It describes an evaluative study using usertesting.com.
+    * [See more information on Phase III in this document. (TBD)] It describes an evaluative study using usertesting.com.
 
 
 
