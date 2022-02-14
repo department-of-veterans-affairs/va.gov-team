@@ -1346,9 +1346,8 @@ We've scheduled and confirmed your appointment.
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of care} 
-@@ Leah to review @@ 
+```
+Type of care: {Type of care} 
 
 VA appointment
 {Facility name}
