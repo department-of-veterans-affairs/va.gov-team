@@ -28,6 +28,12 @@
  
 </details>
 
+## Monday, February 14, 2022
+* `servicelocations` fields. CMS projecting to fill out in sprint 52 (ends 2/25)
+* `healthserviceAPI`
+* `field_va_ehalth_connect_phone` refinement
+* VBA service - was going to validate with VBA if "pension" should be in the data
+
 ## Monday, February 7, 2022
 
 * `servicelocations` fields in detailed service payload. LH looking for confirmation when to expect.
