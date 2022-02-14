@@ -1,6 +1,6 @@
 <!-- Output copied to clipboard! -->
 
-# **Information Architecture & Navigation - High Level Project Summary**
+# **VA Mobile App: Information Architecture & Navigation - High Level Project Summary**
 
 
 This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the IA & Navgation project (part of VA Mobile app Redesign).
