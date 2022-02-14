@@ -15,7 +15,7 @@
 ## UX Specs
 ### Outstanding debt notification
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
-- [Mobile](TBD)
+- [Mobile] - TBD
 
 **Show**
 
@@ -49,7 +49,7 @@ Your total VA debt balance is $0.
 ### Deposit-made card
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
-- [Mobile](TBD)
+- [Mobile] - TBD
 
 **Show**
 
@@ -143,8 +143,8 @@ Use font awesome icon `dollar` for icon in link list
 	- Maintain  `20px` of space between the alert and the card
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/oYm25xY)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/a/wLRzMYw)
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
+- [Mobile] - TBD
 -
 ---
 
