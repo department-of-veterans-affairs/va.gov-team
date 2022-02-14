@@ -198,7 +198,7 @@ Update this section with new artifacts as you progress through the Collaboration
 #### Before meeting
   
 ##### VFS actions
-- [ ] Have Ryan Thurlwell reviewed your proposed designs
+- [ ] Have Ryan Thurlwell review your proposed designs
 - [ ] Schedule your Design Intent when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
