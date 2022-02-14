@@ -1399,10 +1399,7 @@ Your appointment request has been submitted. The time and date of this appointme
 
 **PAGE CONTENT**
 
-```diff
-+ Type of care: {Type of care}
-@@ Leah will review @@ 
-
+```
 VA appointment
 {Facility name}
 {Facility address}
