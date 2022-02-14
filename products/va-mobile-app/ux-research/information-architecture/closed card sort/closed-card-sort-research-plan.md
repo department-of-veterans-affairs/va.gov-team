@@ -198,12 +198,13 @@ We estimate it will take participants 15 minutes _(need to verify!)_ to complete
 
 * **Instructions**
     * Take a look at the list of items on the left. 
-    * We'd like you to sort those items into the groups provided on the right, [thinking aloud as you go].  *pilot only 
+    * We'd like you to sort those items into groups that make sense to you, [thinking aloud as you go].  *pilot only 
+    * Use the groups provided or create your own by dragging and dropping an item from the left into the space on the right.
     * There is no right or wrong answer. Just do what comes naturally. If there are any cards that you feel uncertain about, please make note of those.
     * When you're done click "Finished" at the top right. Have fun, [and please remember to think aloud as you go!] *pilot only
 
 * **Thank You**
-    * You’re all done!  Thanks again for your participation. Your feedback is incredibly useful in helping to determine how our content should be organized, so we can make our mobile app easier to use.
+    * You’re all done!  Thanks again for your participation. Your feedback is incredibly useful in helping to determine how our content should be organized, so we can make the VA mobile app easier to use.
 
 * **Questionnaire**
     * Were there any categories that you didn’t understand? 
