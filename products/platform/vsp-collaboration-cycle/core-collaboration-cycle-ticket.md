@@ -26,10 +26,10 @@ Skip to...
 - **Feature launch date:**
 - **VA 508 Office audit request ticket number:**
 - **Production URL:**
-- **Front-end information???**
+- **Front-end information:**
 
 ## Kickoff questions
-<details open>
+<details>
   <summary>Toggle kickoff questions</summary>
   
 Please refer to the guidance in [Getting Started with the Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) for detailed information and examples for the below questions.
@@ -93,7 +93,9 @@ Examples of **research with VA.gov users** include:
 ## Artifacts
 
 ### Product artifacts
-<details open>
+Update this section with new artifacts as you progress through the Collaboration Cycle.
+
+<details>
   <summary>Toggle product artifacts</summary>
 
 - [ ] Product outline <!-- Product outline template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md --> 
@@ -162,7 +164,7 @@ Examples of **research with VA.gov users** include:
 ## Collaboration Cycle touchpoints
 
 ### Design Intent
-<details>
+<details open>
   <summary>Toggle Design Intent</summary>
   
 #### VFS Actions
