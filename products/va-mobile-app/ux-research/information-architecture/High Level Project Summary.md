@@ -1,16 +1,9 @@
-**VA Mobile App User Research - **
+<!-- Output copied to clipboard! -->
+
+# **Information Architecture & Navigation - High Level Project Summary**
 
 
-# **Information Architecture & Navigation  \
-High Level Summary**
-
-Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), Melissa Lefevre ([melissa.lefevre@adhocteam.us](mailto:melissa.lefevre@adhocteam.us)) \
-VA Mobile UX Team
-
- October 2021-Month 2022
-
-This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods. For detailed protocol on each part of the study, see [VA Mobile App User Research: Information Architecture & Navigation - Phase I - IA Research Overview](https://docs.google.com/document/d/1Hkv9YzDUkZLa0InzaPwJH-4HSgUng-I_brh5sYfR4RI/edit#), VA Mobile App Information Architecture - Phase II - Accounts Competitive Analysis, and VA Mobile App Information Architecture - Phase III - Evaluative Research.
-
+This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods. 
 
 ## Background & Motivation
 
@@ -28,8 +21,6 @@ As the app grows in its feature set, the VA Mobile App team needs a better under
 
 The following are the [OCTO-DE objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports.
 
-
-
 1. Increase the usage and throughput of VA services
 2. Decrease the time Veterans spend waiting for an outcome
 3. Increase the quality and reliability of VA services
@@ -39,16 +30,12 @@ The following are the [OCTO-DE objectives](https://github.com/department-of-vete
 
 The following are the [OCTO-DE goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports.
 
-
-
 1. Veterans can manage their health services online
 2. Logged-in users can easily track applications, claims, or appeals online
 3. Logged-in users have a personalized experience, with relevant and time-saving features
 
 
 #### Veteran Journey
-
-
 
 * Primary point in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf): “Taking care of myself”
 * Secondary points: “Reinventing myself, “Putting down roots,” and “Retiring”
@@ -61,27 +48,19 @@ No previous research exploring IA or veteran mental models are the content in th
 
 ## Project Purpose & Goals
 
-The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible, before we scale the app to a larger audience. This is important, as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows. We will conduct user research and design activities collaboratively to quickly explore the opportunity space and deliver a solution that is user-centered and achieves product goals. \
+The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible, before we scale the app to a larger audience. This is important, as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows. We will conduct user research and design activities collaboratively to quickly explore the opportunity space and deliver a solution that is user-centered and achieves product goals.
 
 
-
-
-* **Phase I** of this work will give insight on the usability and comprehension of the <span style="text-decoration:underline;">proposed information architecture</span> direction.
+* **Phase I** of this work will give insight on the usability and comprehension of the proposed information architecture direction.
     * See more information on Phase I in this document. It describes a 3-part study that uses the following methods: open card sort, closed card sort, and tree test.
-* **Phase II **of this work is a <span style="text-decoration:underline;">competitive analysis.</span> It will be done in parallel with Phase I.
+* **Phase II** of this work is a competitive analysis. It will be done in parallel with Phase I.
     * See more information about the competitive analysis in this document.
 * **Phase III** of this work will give insight on the <span style="text-decoration:underline;">usability and comprehension of the proposed UI direction</span>.
     * See more information on Phase III in this document. (TBD) It describes an evaluative study using usertesting.com.
 
 
 #### Research, IA and UI Design Process Mapped to Tools & Methods
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+<img width="2077" alt="Lean Research & IA Process diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/VA%20Mobile%20app%20-%20Lean%20Research%20%26%20IA%20Process.png">
 
 
 [VA Mobile app: Lean Research & IA Process diagram (mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1634908357710/58074b53d4942298679622026490db78c1ee8806?sender=u28718b63c8993f515e0b2240)
@@ -167,11 +146,14 @@ The purpose of this work is to inform the information architecture, content and 
 
 For detailed protocol on each part of the study, see: 
 
+* **VA Mobile App Information Architecture Research - Phase I - IA:**
+    * [Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (Part 1 of 3) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
+    * [Research Plan for VA Mobile App Information Architecture Research: Closed Card Sort (Part 2 of 3) - February 2022]()
+    * [Research Plan for VA Mobile App Information Architecture Research: Tree Test (Part 3 of 3)- February 2022]()
+* **VA Mobile App Information Architecture Research - Phase II - Accounts Competitive Analysis**
+* **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
 
 
-* VA Mobile App Information Architecture Research - Phase I - IA:
-    * [Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (Part 1 of 3) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md)
-    * [Research Plan for VA Mobile App Information Architecture Research: Closed Card Sort (Part 2 of 3) - February 2022](https://docs.google.com/document/d/1Hkv9YzDUkZLa0InzaPwJH-4HSgUng-I_brh5sYfR4RI/edit#)
-    * [Research Plan for VA Mobile App Information Architecture Research: Tree Test (Part 3 of 3)- February 2022](https://docs.google.com/document/d/1mEXu86XcAjG4ouzZvTUb6s85Btm95qt5IPAcrOjROEQ/edit#)
-* VA Mobile App Information Architecture Research - Phase II - Accounts Competitive Analysis
-* VA Mobile App Information Architecture Research - Phase III - Evaluative Research 
+## Team Roles
+
+* High Level Project plan: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) 
