@@ -9,7 +9,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 ### Throughout
 
-- [ ] Confirm tabs use text from H1
+- [ ] Confirm browser tabs use text from H1
 
 ### Public pages
 
