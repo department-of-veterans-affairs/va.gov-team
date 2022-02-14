@@ -13,7 +13,7 @@ Open Card Sort
 - [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md)
 
 Closed Card Sort
-- [Research plan]
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
 - [Analysis]
 - [Research report]
 
