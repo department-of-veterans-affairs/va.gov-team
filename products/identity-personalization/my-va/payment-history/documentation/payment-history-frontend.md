@@ -15,7 +15,7 @@
 ## UX Specs
 ### Outstanding debt notification
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/v/AKKO0Y/p/43720C90-8E38-4058-8213-B52543FFE8C7/?search=payment)
+- [Mobile](TBD)
 
 **Show**
 
@@ -34,7 +34,8 @@ You have outstanding debt. [Manage your VA debt](/manage-va-debt/your-debt)
 ----
 
 ### Your total VA debt balance is $0.
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/qea25yM)
 
 **Show**
 - If a user has no debts in the debt portal.  
@@ -47,7 +48,8 @@ Your total VA debt balance is $0.
 
 ### Deposit-made card
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png" width="50%" />
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
+- [Mobile](TBD)
 
 **Show**
 
@@ -58,7 +60,8 @@ Your total VA debt balance is $0.
 - If a user has no payments in the last 30 days. 
 - If a user does not have payments in the last 30 days, we will show messaging stating "You haven't received any payments in the past 30 days." in place of the grey card.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1JK3qy)
+- [Mobile](TBD)
 
 #### Content
 
