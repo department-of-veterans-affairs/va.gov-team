@@ -1,6 +1,6 @@
 
 **FAQ Migration Overview as of 12/16/2021**
-|                          | 2020/2021 R&S ARTICLES ON THIS TOPIC | IRIS FAQS COVERED BY R&S ARTICLES | IRIS FAQS COVERED BY TIER 1 CONTENT | IRIS FAQS NOT MIGRATED | IRIS FAQS TO BE COVERED BY FUTURE R&S ARTICLES |
+|                          |  R&S ARTICLES ON THIS TOPIC | IRIS FAQS COVERED BY R&S ARTICLES | IRIS FAQS COVERED BY TIER 1 CONTENT | IRIS FAQS NOT MIGRATED | IRIS FAQS TO BE COVERED BY FUTURE R&S ARTICLES |
 |--------------------------|-------------------------------------|------------------------------|--------------------------------|-----------------|-------------------------------------------|
 | ACCOUNT & PROFILE        | 17                                  | 9                            | 2                              | 1               | 0                                         |
 | BURIALS & MEMORIALS      | 5                                   | 3                            | 4                              | 0               | 2                                         |
