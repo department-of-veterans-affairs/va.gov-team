@@ -210,9 +210,9 @@ Update this section with new artifacts as you progress through the Collaboration
 #### Design Intent meeting details
   
 - Meeting date/time:
-- Zoom information:
-- Zoom Recording:
+- Zoom meeting URL:
 - Zoom password:
+- Zoom recording: 
   
 #### After meeting
   
@@ -222,6 +222,7 @@ Update this section with new artifacts as you progress through the Collaboration
   - [ ] Design feedback provided
   - [ ] Accessibility feedback provided
   - [ ] IA feedback provided
+- [ ] Update this ticket with the Zoom recording
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
@@ -254,9 +255,11 @@ Update this section with new artifacts as you progress through the Collaboration
 - [ ] Add Zoom information for the scheduled Midpoint Review meeting (if synchronous)
 
 #### Midpoint Review meeting details (if synchronous)
+
 - Meeting date/time:
-- Zoom Recording:
+- Zoom meeting URL:
 - Zoom password:
+- Zoom recording: 
 
 #### After meeting
   
@@ -268,6 +271,7 @@ Update this section with new artifacts as you progress through the Collaboration
   - [ ] IA feedback provided
   - [ ] Content feedback provided
   - [ ] QA feedback provided
+- [ ] Update this ticket with the Zoom recording
 - [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
