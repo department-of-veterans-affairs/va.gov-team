@@ -23,7 +23,7 @@ Tree Test
 
 
 
- **Phase II - Accounts Competitive Analysis**
- 
+ **Phase II - Mobile Navigation UI Competitive Analysis**
+ - [Competitive analysis (mural)]
  
  **Phase III - Evaluative Research**
