@@ -137,7 +137,7 @@ Use font awesome icon `dollar` for icon in link list
 ### State 1: A user who has outstanding debt + received a payment within the last 30 days.  
 
 #### Visual specs
-- Use the [background color only warning alert component](https://design.va.gov/storybook/?path=/story/components-va-alert--background-only-with-icon&args=status:warning) for the outstanding debt message.
+- Use the Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
 - The payment card uses the following styles from the design system:
 	- `H3` element for heading
 	- `p` for payment type
@@ -183,7 +183,7 @@ Mock-ups
 ### State 4: If a user has had NO payments in the last 30 days + HAS debt.  
 
 #### Visual Specs
-- Use the [background color only warning alert component](https://design.va.gov/storybook/?path=/story/components-va-alert--background-only-with-icon&args=status:warning) for the outstanding debt message.
+- Use the Use the [warning alert component](https://design.va.gov/components/alertboxes#warning-alert) for the outstanding debt message.
 - Use a plain `p` element for no recent payments message
 - Display the “View your payment history” link in the link list
 
@@ -198,7 +198,7 @@ For MVP, we will only show the most recent payment.
 
 #### Visual specs
 - Display only the most recent payment in the payment card
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+
 
 
 ## Error States
