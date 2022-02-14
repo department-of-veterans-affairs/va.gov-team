@@ -30,9 +30,19 @@
 
 ## Monday, February 14, 2022
 * `servicelocations` fields. CMS projecting to fill out in sprint 52 (ends 2/25)
+  * [8017](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8017) - identify sample data to use in order to validate with LH
+  * LH: not critical for V1
 * `healthserviceAPI`
-* `field_va_ehalth_connect_phone` refinement
+  * CMS keeping the name we're already sending the same; LH validated ok
+  * Service identifiers will be entered and sent from CMS to LH
+  * CMS to stop filtering on COVID and start sending everything
+  * LH to reach out once ready to recieve, CMS to implement full send
+  * [8019](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8019)
+* `field_va_health_connect_phone` refinement
+  * CMS ready to start writing the push for this (each facility will have this number attached)
+  * mid-March timeline for LH to be ready to address
 * VBA service - was going to validate with VBA if "pension" should be in the data
+  * reach out to office of field operations to see if it needs to be deprecated from LH or we need to add data
 
 ## Monday, February 7, 2022
 
