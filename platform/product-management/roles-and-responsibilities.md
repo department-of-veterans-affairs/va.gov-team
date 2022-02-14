@@ -2,9 +2,9 @@
 
 ### Roles 
 - Team Lead (OCTO-DE)
-- Team Product Manager 
+- Team Product Manager (VFS, Platform)
 
-- Program Product Lead (VFS, VSP)
+- Program Product Lead (VFS, Platform)
  
 
 ### Responsibilities
