@@ -148,8 +148,9 @@ For detailed protocol on each part of the study, see:
 
 * **VA Mobile App Information Architecture Research - Phase I - IA:**
     * [Research Plan for VA Mobile App IA Research: Open Card Sort (Part 1 of 3) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
-    * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 3) - February 2022]()
-    * [Research Plan for VA Mobile App IA Research: Tree Test (Part 3 of 3)- February 2022]()
+    * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 3) - planned February 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
+    * [Research Plan for VA Mobile App IA Research: Tree Test (Part 3 of 3)- TBD]()
+    
 * **VA Mobile App Information Architecture Research - Phase II - Accounts Competitive Analysis**
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
 
