@@ -59,7 +59,7 @@ The purpose of this work is to inform the information architecture, content and 
     * See more information on Phase III in this document. (TBD) It describes an evaluative study using usertesting.com.
 
 
-#### Research, IA and UI Design Process Mapped to Tools & Methods
+
 <img width="2077" alt="Lean Research & IA Process diagram" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/VA%20Mobile%20app%20-%20Lean%20Research%20%26%20IA%20Process.png">
 
 
