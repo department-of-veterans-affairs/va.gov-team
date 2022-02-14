@@ -3,7 +3,7 @@
 # **Information Architecture & Navigation - High Level Project Summary**
 
 
-This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods. 
+This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the IA & Navgation project (part of VA Mobile app Redesign).
 
 ## Background & Motivation
 
@@ -147,9 +147,9 @@ The purpose of this work is to inform the information architecture, content and 
 For detailed protocol on each part of the study, see: 
 
 * **VA Mobile App Information Architecture Research - Phase I - IA:**
-    * [Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (Part 1 of 3) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
-    * [Research Plan for VA Mobile App Information Architecture Research: Closed Card Sort (Part 2 of 3) - February 2022]()
-    * [Research Plan for VA Mobile App Information Architecture Research: Tree Test (Part 3 of 3)- February 2022]()
+    * [Research Plan for VA Mobile App IA Research: Open Card Sort (Part 1 of 3) - October 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md)
+    * [Research Plan for VA Mobile App IA Research: Closed Card Sort (Part 2 of 3) - February 2022]()
+    * [Research Plan for VA Mobile App IA Research: Tree Test (Part 3 of 3)- February 2022]()
 * **VA Mobile App Information Architecture Research - Phase II - Accounts Competitive Analysis**
 * **VA Mobile App Information Architecture Research - Phase III - Evaluative Research** 
 
