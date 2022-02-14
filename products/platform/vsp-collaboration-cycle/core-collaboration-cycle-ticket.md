@@ -166,30 +166,44 @@ Update this section with new artifacts as you progress through the Collaboration
 ### Design Intent
 <details open>
   <summary>Toggle Design Intent</summary>
+
+#### Before meeting
   
-#### VFS Actions
-- [ ] Has Ryan Thurlwell reviewed your proposed designs? Yes or No
+##### VFS actions
+- [ ] Have Ryan Thurlwell reviewed your proposed designs
 - [ ] Schedule your Design Intent when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
    - Add your name and email
-   - Click "Add Guests" and enter the VFS meeting attendees email addresses. 
+   - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Please confirm that all requested artifacts are provided, as well as current and complete
-#### Platform Actions
-- [ ] Design feedback provided
-- [ ] Accessibility feedback provided
-- [ ] IA feedback provided
+- [ ] Add design artifacts to the [Artifacts section](#design-artifacts) of this ticket at least two days before the scheduled Design Intent
+  
+##### Platform actions
+- [ ] Add Platform reviewers to the scheduled Design Intent meeting
+- [ ] Add Zoom information for the scheduled Design Intent meeting
+  
+#### Design Intent meeting details
+  
+- Meeting date/time:
+- Zoom information:
+- Zoom Recording:
+- Zoom password:
+  
+#### After meeting
+  
+##### Platform actions
 
-#### Design Intent Details
-Meeting date/time:
+- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that).
+  - [ ] Design feedback provided
+  - [ ] Accessibility feedback provided
+  - [ ] IA feedback provided
+- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+  
+##### VFS actions
 
-Zoom information:
-
-Zoom Recording:
-
-Zoom password:
+- [ ] Respond to feedback tickets
 
 </details>
 
