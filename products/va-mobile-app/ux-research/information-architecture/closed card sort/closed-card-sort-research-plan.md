@@ -110,7 +110,7 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 
 * Link to pilot findings
 * Closed card sort - Optimal Workshop
-* [Card Conten (gDoc)] (https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=702138539)
+* [Card Content (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=702138539)
 * [Category Names (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=567294791)
 * [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md)
 
