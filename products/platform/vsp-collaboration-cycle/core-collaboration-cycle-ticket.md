@@ -98,7 +98,12 @@ Update this section with new artifacts as you progress through the Collaboration
 <details>
   <summary>Toggle product artifacts</summary>
 
+#### Provide at kickoff
+  
 - [ ] Product outline <!-- Product outline template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md --> 
+  
+#### Provide before Staging Review
+  
 - [ ] Release plan with the "Planning" sections completed <!-- Release plan template: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md --> 
 - [ ] Staging URL and staging test-user information <!-- Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository. Use this accessible staging account template to do so: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-accessible-example.md -->
   
@@ -107,9 +112,14 @@ Update this section with new artifacts as you progress through the Collaboration
 ### Design artifacts
 <details>
   <summary>Toggle design artifacts</summary>
+
+#### Provide before Design Intent
   
 - [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
 - [ ] User flow
+  
+#### Provide before Midpoint Review
+  
 - [ ] Finalized design prototype or mockup
 
 </details>
@@ -117,6 +127,8 @@ Update this section with new artifacts as you progress through the Collaboration
 ### Research artifacts
 <details>
   <summary>Toggle research artifacts</summary>
+  
+#### Provide before Midpoint Review
   
 - [ ] Research plan 
 - [ ] Conversation guide
@@ -135,6 +147,8 @@ Update this section with new artifacts as you progress through the Collaboration
 ### Content artifacts
 <details>
   <summary>Toggle content artifacts</summary>
+
+#### Provide before Midpoint Review
   
 - [ ] Name of content of truth, for example, "Invision Prototypes"
 - [ ] Github ticket for any relevant static content page and entry point updates for tool or feature (if applicable)
@@ -145,9 +159,18 @@ Update this section with new artifacts as you progress through the Collaboration
 <details>
   <summary>Toggle QA artifacts</summary>
   
+[Learn more about QA artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)
+  
+#### Provide before Midpoint Review
+
+- [ ] Regression test plans (if there isn't already a regression test plan for this feature in TestRailProduct)
+- [ ] Link to test cases/test plan in TestRail (draft OK)
+
+#### Provide before Staging Review
+  
 - [ ] Product test cases/test plan in TestRail with test execution logs 
 - [ ] [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) 
-- [ ] [Summary(Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
+- [ ] [Summary (Defects) reports in TestRail](https://dsvavsp.testrail.io/index.php?/reports/view/14) 
 
 </details>
 
@@ -164,7 +187,7 @@ Update this section with new artifacts as you progress through the Collaboration
 ## Collaboration Cycle touchpoints
 
 ### Design Intent
-<details open>
+<details>
   <summary>Toggle Design Intent</summary>
 
 #### Before meeting
@@ -178,7 +201,7 @@ Update this section with new artifacts as you progress through the Collaboration
    - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
-- [ ] Add design artifacts to the [Artifacts section](#design-artifacts) of this ticket at least two days before the scheduled Design Intent
+- [ ] Add design artifacts to the [Artifacts section](#artifacts) of this ticket at least two days before the scheduled Design Intent
   
 ##### Platform actions
 - [ ] Add Platform reviewers to the scheduled Design Intent meeting
@@ -195,11 +218,11 @@ Update this section with new artifacts as you progress through the Collaboration
   
 ##### Platform actions
 
-- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that).
+- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
   - [ ] Design feedback provided
   - [ ] Accessibility feedback provided
   - [ ] IA feedback provided
-- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061).
+- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
   
 ##### VFS actions
 
@@ -208,33 +231,49 @@ Update this section with new artifacts as you progress through the Collaboration
 </details>
 
 ### Midpoint Review
-<details>
+<details open>
   <summary>Toggle Midpoint Review</summary>
   
-#### VFS Actions
+#### Before meeting
+  
+##### VFS actions
+  
 - [ ] Schedule your Midpoint Review when ready:
    - Open the [Calendly design intent calendar](https://calendly.com/collaboration-cycle/design-intent-or-midpoint-review)
    - Select a date and time and click “Confirm”
    - Add your name and email
-   - Click "Add Guests" and enter the VFS meeting attendees email addresses. 
+   - Click "Add Guests" and enter the VFS meeting attendees email addresses
    - Click Schedule Event
-- [ ] Check this box if you'd like this review to be asynchronous
+- [ ] Check this box if you'd like this review to be asynchronous (Please refer to the [Midpoint Review guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html) for the difference between a synchronous meeting and an asynchronous review)
 - [ ] Notify the Collaboration Cycle team of this event with scheduled date/time in #vfs-platform-support ([see Slack Workflow User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html))
 - [ ] Please confirm that all requested artifacts are provided, as well as current and complete
-#### Platform Actions
-- [ ] Design feedback provided
-- [ ] Accessibility feedback provided
-- [ ] IA feedback provided
-- [ ] Content feedback provided
-- [ ] QA feedback provided
+- [ ] Add or update all requested artifacts to the [Artifacts section](#artifacts) of this ticket at least two days before the scheduled Midpoint Review
+  
+##### Platform actions
+- [ ] Add Platform reviewers to the scheduled Midpoint Review meeting
+- [ ] Add Zoom information for the scheduled Midpoint Review meeting (if synchronous)
 
-#### Midpoint Review Details
-Meeting date/time:
+#### Midpoint Review meeting details (if synchronous)
+- Meeting date/time:
+- Zoom Recording:
+- Zoom password:
 
-Zoom Recording:
+#### After meeting
+  
+##### Platform actions
 
-Zoom password:
-
+- [ ] Create feedback tickets and link to this epic (if no feedback, please comment stating that)
+  - [ ] Design feedback provided
+  - [ ] Accessibility feedback provided
+  - [ ] IA feedback provided
+  - [ ] Content feedback provided
+  - [ ] QA feedback provided
+- [ ] Update [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=266151061)
+  
+##### VFS actions
+  
+- [ ] Respond to feedback tickets
+  
 </details>
 
 ### Sitewide Content and IA Intake Request
