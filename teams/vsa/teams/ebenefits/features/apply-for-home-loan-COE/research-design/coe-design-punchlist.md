@@ -32,7 +32,14 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 ### Your COE States
 
-- [ ] Lorem ipsum dolor sit amet
+- [ ] Change "minimum active-duty service requirements" to "minimum service requirement"
+- [ ] Available state: change link text to "Make changes to your COE online by filling out VA Form 26-1880"
+- [ ] Uploader: dropdown capital S on "Report of Separation and Record of Service (NGB Form 22)"
+- [ ] Uploader: make "upload document" button only as wide at the text plus padding
+- [ ] Uploader: hide Submit before upload
+- [ ] Check padding on blue border-left for hidden text field; check text field alignment shift
+- [ ] Change padding on <p> below "You have letters about your COE request" to 24px (or to match other paragraphs)
+
 
 **HP!** indicates "high priority."
 
