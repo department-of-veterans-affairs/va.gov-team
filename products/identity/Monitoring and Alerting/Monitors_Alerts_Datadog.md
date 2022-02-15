@@ -100,17 +100,27 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
   - ## Outbound
     
-    - ### **Identity - Production IDme MHV Unified VA Auto Sign-in Test Outbound **
+    - ### **Identity - Prod ISAM Metadata Changed**
 
-        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/erd-8q7-dna) checks that the idme credential can successfully login through the MHV unified sign in page on production. We call this outbound only because it uses the va.gov signin modal but its more like a hybrid of inbound and outbound. If this alert triggers it could be the idme credential iteself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/c6m-nyw-h6v) specifically looks for changes to the ISAM production metedata file located [here](https://eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_prod_metadata_isam.xml).
+
+        <ins>**Threshold:**</ins> If the MD5 sum doesnt match 3 times within 90 seconds, it will fire the alert. 
+
+        <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
+
+        <ins>**Severity:**</ins> Critical. This could impact Veterans abilty to login.
+    
+    - ### **Identity - Production Inbound [MHV Unified VA AUTO Signin] Test IDme **
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/erd-8q7-dna) checks that the idme credential can successfully login through the MHV unified sign in page on production and when going to va.gov the user is auto signed in. This is considered an inbound test for documentation purposes. If this alert triggers it could be the idme credential iteself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
 
         <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
 
-        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+        <ins>**Metrics used:**</ins> Synthetic Monitor.
 
         <ins>**Severity:**</ins> `Critical`. This alert indicates an impact Veterans ability to access MyHealth services.
         
-    - ### **Identity - Production IDme MHV Unified Sign-in Test Outbound **
+    - ### **Identity - Production Outbound [MHV Unified Sign-in] Test IDme **
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/g7i-zpf-3ca) checks that the idme credential can successfully login through the MHV unified sign in page on production. We call this outbound only because it uses the va.gov signin modal but its more like a hybrid of inbound and outbound. If this alert triggers it could be the idme credential iteself has an issue (all we can do is alert MHV to this fact), the page contents have changed in the sign in flow (likely just need to modify the test steps), or more importantly we made a change to our codebase that negatively impacted the functionality of the MHV unified sign in page.
 
@@ -217,13 +227,23 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
   - ## Outbound
 
-    - ### **Identity - SSOe Staging MHV Unified Sign-in Monitor - IDme**
+    - ### **Identity - Staging ISAM Metadata Changed**
+
+        <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/7tu-icm-hfr) specifically looks for changes to the ISAM staging metedata file located [here](https://sqa.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_sqa_metadata_isam.xml).
+
+        <ins>**Threshold:**</ins> If the MD5 sum doesnt match 3 times within 90 seconds, it will fire the alert. 
+
+        <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
+
+        <ins>**Severity:**</ins> High. This is a staging alert so it does not impact Veterans but will block engineers from developing in staging if they need authentication in their application.
+
+    - ### **Identity - Staging [MHV Unified Sign-in] Test IDme**
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/dq4-zra-xwc) monitors that the MHV unified page on staging with the IDme CSP has an issue. The steps in this test utilize a private datadog location because MHV staging is only available on the VA network (we normally use CAG for this). Review the screen captures within datadog for this alert to start the investigation process. The fault of this issue could be from vets-api, va.gov frontend, an MHV staging change, and in some cases a simple pop-up survey that triggered a missed step during the verification flow of this monitor.
 
         <ins>**Threshold:**</ins> This alert fires if the monitor flow fails three times within 90 seconds.
 
-        <ins>**Metrics used:**</ins> N/A. Synthetic Monitor.
+        <ins>**Metrics used:**</ins> Synthetic Monitor.
 
         <ins>**Severity:**</ins> `Medium`. This monitor covers a small subset of our services and in staging does not impact Veterans. This alert could be an indicator of an eventual production issue if the same code that caused this alert is then merged into production.
 
@@ -274,9 +294,9 @@ The document is broken down by Environment (Prod, Staging, etc.) → Type (Outbo
 
         <ins>**Description:**</ins> [This monitor](https://app.datadoghq.com/synthetics/details/2r7-e82-zzk) specifically looks for changes to the ISAM dev metedata file located [here](https://int.eauth.va.gov/isam/saml/metadata/saml20idp). The monitor downloads the file from the specified location, compares the MD5 sum of the downloaded file to known good MD5 of the last known metadata file from Eauth. If this file changes and vets-api doesn't have the correct latest version, then authentication will stop working between vets-api and eauth. If this alert triggers you should update this [metadata file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/ssoe_idp_int_metadata_isam.xml).
 
-        <ins>**Threshold:**</ins> N/A. If the MD5 sum doesnt match 3 times within 90 seconds, it will fire the alert. 
+        <ins>**Threshold:**</ins> If the MD5 sum doesnt match 3 times within 90 seconds, it will fire the alert. 
 
-        <ins>**Metrics used:**</ins> N/A. This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
+        <ins>**Metrics used:**</ins> This monitor compares the hash of a file it downloads from the specified location and compares it to a known good hash.
 
         <ins>**Severity:**</ins> High. This is a dev alert so it does not impact Veterans but will block engineers from developing in dev if they need authentication in their application.
 
