@@ -102,7 +102,7 @@ In a closed card sort, participants are asked to sort topics from content within
 
 Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 35 pieces of current & proposed content from the VA mobile app. Each participant sorts the content cards into one of several fixed categories (i.e., Health, Benefits, etc). They will also be able to add new categories.
 
-We would like to get complete sorting responses from **at least 30 Veterans**, in distinct cohorts of fewer than 10 participants per cohort (per PRA).
+We would like to get complete sorting responses from **at least 30 Veterans**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
 
 
 #### Research materials
@@ -169,7 +169,7 @@ We will provide an [email template](https://github.com/department-of-veterans-af
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort.
 
-We estimate it will take participants 15 minutes _(need to verify!)_ to complete the card sort.
+We estimate it will take participants 15 minutes to complete the card sort.
 
 
 ## Closed Card Sort Protocol
