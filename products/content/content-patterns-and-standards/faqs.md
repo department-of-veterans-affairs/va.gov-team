@@ -28,7 +28,7 @@ The Resources & Support section of VA.gov relies heavily on Q&As and multiple FA
 
 ## Multiple FAQ page
 - Always include a clear, relevant, SEO-optimized H1 that tells people exactly what the FAQs on the page will cover. Make sure all questions on the page map back to the title topic.
-- When creating a multiple FAQ page, create clearly labeled sections of relevant FAQs. Follow the same principle as bullet lists, including no more than 3 to 7 FAQs in any one FAQ section on the page. This will help to keep the list of FAQs from overwhelming readers.
+- When creating a multiple FAQ page, create clearly labeled sections of relevant FAQs. Follow the same principle as bullet lists, including no more than 7 FAQs in any one FAQ section on the page. This will help to keep the list of FAQs from overwhelming readers.
 - Provide just the information the person needs in each FAQ.
 
 ## When to pull down an FAQ
