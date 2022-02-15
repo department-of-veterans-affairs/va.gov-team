@@ -63,6 +63,8 @@ Here's how to determine your H1:
 
 _Need simple form + instructions_
 
+**Turnaround time:**
+
 ## Step 5: Create your content
 
 [Use the content checklist for guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/checklists/content-checklist.md)
@@ -73,6 +75,8 @@ Get a plain language review before you send content out for SME review.
 
 _Instructions_
 
+**Turnaround time:**
+
 ## Step 7: Send your draft content for SME review
 
 _Instructions_
@@ -80,6 +84,8 @@ _Instructions_
 ## Step 8: Submit your content for final pre-publication review
 
 _Instructions_
+
+**Turnaround time:**
 
 ## Step 9: Send a preview of the content to SMEs for awareness and final sign off
 
