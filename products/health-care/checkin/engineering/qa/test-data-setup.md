@@ -29,7 +29,7 @@ Endpoints are available to allow test users to view thier existing appointments,
 
 These endpoints require entering the `patientDfn` (this is the patient Identifier in a VistA system) and `ClinicIen` (this is the clinic identifier in a VistA system). The `patientDFN` and `clinicIen` values configured in the test VistA syteme are noted below.
 
-Make sure you have an assigned test user DFN before setting up appointment tests. Update the [assigned DFN table](#AssignedDFNs) after you are assigned a test user.
+Make sure you have an assigned test user DFN before setting up appointment tests. Update the [assigned DFN table](#assigned-dfns) after you are assigned a test user.
 
 <a name="end-to-end-testing-workflow-section"></a>
 
