@@ -16,21 +16,22 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to get feedback on the use of a card sort designed to identify Veteran top tasks. We want to get feedback on the cards, categories, and instructions before launching the unmoderated card sort to a large group of Veterans and Caregivers. 
+The goal of this research is to get feedback on the use of a card sort designed to identify Veteran top tasks. We want to get feedback on the cards, categories, and instructions before launching the unmoderated card sort to a large group of Veterans and caregivers. 
 
 ### Outcome
 The feedback we get on the card sort will be used to refine it to better prepare for people to use it unmoderated.
 
 ### Research questions
-1. When Veterans contact the VA, what tasks are most important to them? 
+1. When Veterans and caregivers contact the VA, what tasks are most important to them? 
 2. What tasks are least important? 
 3. Are there any tasks in the card sort that are unclear or confusing?
 4. Are there any important tasks missing?
 5. Is there anything about the card sort that is unclear or confusing?
 
 ### Hypotheses
-1. Veterans and caregivers of Veterans will find the card sort intuitive to use.
-2. Veterans and caregivers of Veterans will be able to assess the importance of each of the VA-related tasks presented in the card sort.
+1. Veterans and caregivers will find the card sort intuitive to use.
+2. Veterans and caregivers will be able to assess the importance of each of the VA-related tasks presented in the card sort.
+3. Veterans and caregivers won't find any important tasks missing from the card sort.
 
 ## Method: Moderated Sessions over Zoom	
 We will conduct remote moderated research sessions via Zoom. Research participants will be asked about VA-related tasks that they do, and then they will be given a card sort activity link to do independently while sharing their web browser screen and talking aloud.
@@ -52,7 +53,7 @@ Ask Perigean to recruit **10** people in order to get **5** completed sessions u
 
 #### Primary criteria (must-haves)
 - 5 are Veterans
-- 3 are Caregivers of Veterans
+- 3 are caregivers of Veterans
 - 5 have experience with one or more of the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
 - 3 have NO experience with the following VA benefits or services: health care, education or career services, disability benefits, housing benefits, pension, life insurance, or burial benefits
 - ALL have a computer and are willing to use it to join our Zoom call (not a phone)
