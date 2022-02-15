@@ -40,7 +40,7 @@ The card sort will be built in Optimal Workshop and will contain a list of about
 
 *Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.*
 
-*Action item: Get access to the new VSA account for Optimal Workshop from Yana or Shawna, and create a card sort.*
+*Action item: Get Optimal Workshop license, and create a card sort with different tokens for recruiting cohorts.*
 
 ### Research materials
 - [Link to conversation guide]()
