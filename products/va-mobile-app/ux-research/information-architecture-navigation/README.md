@@ -1,1 +1,16 @@
-test
+# VA Mobile App User Research - Information Architecture & Navigation
+
+## Quick links
+See [High Level Project Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/High%20Level%20Project%20Summary.md) for a description of this 3-phase design & research process.
+
+
+**Phase I - Information Architecture Research**
+- [Research folder]
+
+
+ **Phase II - Mobile Navigation UI Competitive Analysis**
+ - [Competitive analysis]
+ 
+ 
+ **Phase III - Evaluative Research**
+- [Research folder]
