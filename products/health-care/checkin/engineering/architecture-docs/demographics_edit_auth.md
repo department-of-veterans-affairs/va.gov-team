@@ -1,6 +1,18 @@
 # Demographics Authentication/Autherization Engineering Architecture
 ## Table of Contents
 - [Related Documents](#related-documents)
+- [Problem Statement](#problem-statement)
+- [Proposal](#proposal)
+- [Measuring Success](#measuring-success)
+- [Questions](#questions)
+  - [UX Questions](#ux-questions)
+  - [FE Questions](#fe-questions)
+  - [BE Questions](#be-questions)
+- [Solutions](#solutions)
+  - [UX Solutions](#ux-solutions)
+  - [FE Solutions](#fe-solutions)
+  - [BE Solutions](#be-solutions)
+- [Testing](#testing)
 
 ## Related Documents
 * [Demographics Edititing Main Eng Arch Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/pre-check-in/edit_demographics.md)
