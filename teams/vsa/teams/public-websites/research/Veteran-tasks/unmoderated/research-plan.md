@@ -61,7 +61,7 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 - Diversity across rural and major metropolitan areas
 
 ### For Cohort A (9 Veterans)
-- All must have experience with VA health care, education benefits, or career services 
+- All must have experience with VA health care 
 
 ### For Cohort B (9 Caregivers)
 - All must have experience with one or more of the following VA benefits or services: health care, education, career services, disability, housing, pension, life insurance, or burial 
@@ -70,16 +70,16 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 - All have NO experience with VA benefits or services but are interested in some 
 
 ### For Cohort D (9 Veterans)
-- All have experience with VA disability, housing, pension, life insurance, or burial benefits
+- All have experience with VA disability
 
 ### For Cohort E (9 Caregivers)
 - All have NO experience with VA benefits or services but are interested in some 
 
 ### For Cohort F (9 Veterans)
-- All are female
+- All must have experience with VA education benefits or career services
 
 ### For Cohort G (9 Veterans)
-- All are male
+- All must have experience with one or more of the following VA benefits or services: housing, pension, life insurance, or burial benefits
 
 ### Coordination with Perigean
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*.
