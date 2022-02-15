@@ -20,6 +20,8 @@
 - First thing Tom would like to do is understand where the API is and what the end points are
 - Josh - VA.gov is integrated with two other hubs already
 - This is a new hub (demographics)
+    - https://dev.vaprofile.va.gov:7005/demographics-hub
+    - (NOT READY) https://qa.vaprofile.va.gov:7005/demographics-hub
 - This is in the demo hub, but largely vaporware.  Can see the fields, but won't be fully functional until late next week
 - Lindsey's expectation is that Tom would retrieve all four SIGI fields at the same time.  Best pull is probably the demographics pull what will bring back the full bio
 - Display name is their model for Preferred Name
