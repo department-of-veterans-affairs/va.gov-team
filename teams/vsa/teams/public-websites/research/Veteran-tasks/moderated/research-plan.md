@@ -1,8 +1,7 @@
-# Research Plan for Veteran Top Tasks MODERATED (part 1 of 2), Public Websites, Feb X, 2022
+# Research Plan for Veteran Top Tasks MODERATED (part 1 of 2), Public Websites, Feb 15, 2022
 
 ## Background
-The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
-We would like to learn which tasks Veterans find most important.
+The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. We would like to learn which VA-related tasks are most important to Veterans and caregivers.
 
 ### OCTO Objectives 
 
@@ -16,13 +15,13 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 - Retiring and aging 
 
 ## Research Goals	
-The goal of this research is to get feedback on the use of a card sort designed to identify Veteran top tasks. We want to get feedback on the cards, categories, and instructions before launching the unmoderated card sort to a large group of Veterans and caregivers. 
+The goal of this research is to get feedback from Veterans and caregivers on a card sort designed to identify Veteran top tasks. We want to get feedback on the cards, categories, and instructions before launching the unmoderated card sort to a large group of Veterans and caregivers (on their own without a researcher present). 
 
 ### Outcome
-The feedback we get on the card sort will be used to refine it to better prepare for people to use it unmoderated.
+The feedback we get on the card sort will be used to refine it to better prepare for people to complete it unmoderated.
 
 ### Research questions
-1. When Veterans and caregivers contact the VA, what tasks are most important to them? 
+1. When Veterans or their caregivers contact the VA, what tasks are most important to them? 
 2. What tasks are least important? 
 3. Are there any tasks in the card sort that are unclear or confusing?
 4. Are there any important tasks missing?
@@ -36,7 +35,7 @@ The feedback we get on the card sort will be used to refine it to better prepare
 ## Method: Moderated Sessions over Zoom	
 We will conduct remote moderated research sessions via Zoom. Research participants will be asked about VA-related tasks that they do, and then they will be given a card sort activity link to do independently while sharing their web browser screen and talking aloud.
 
-The card sort will be built in Optimal Workshop and will contain a list of about 30 tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them, as well.
+The card sort will be built in Optimal Workshop and will contain a list of about 30 tasks that have been synthesized from colleagues, the VA.gov home page, user research studies, and top VA site searches. In the card sort, participants will rate the importance of each task for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
 
 *Action item: Synthesize and remove duplicates from tasks collected to get down to a list of ~30 tasks.*
 
