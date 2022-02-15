@@ -123,7 +123,7 @@ Ask Perigean to recruit 60 people using the cohorts below in order to get at lea
 
 ### Recruitment Criteria (for everyone)
 
-* Participants must be on a desktop computer & be willing to use it to complete the activity
+* Participants must be on a desktop computer & be willing to use it to complete the activity (NO tablets or phones - test will not work)
 * ALL are willing to do an activity from their computer that requires dragging and dropping items on their computer screen (NO screen reader users)
 * At least 10 women
 * Diversity across age groups
