@@ -1,5 +1,7 @@
 # Bad Address Indicator Discovery
 
+DRAFT
+
 ## Activities
 
 -   Review the product outline.
@@ -12,37 +14,37 @@
 
 -   Can we proactively email all people who have the bad address indicator to log into VA.gov and update their address? How would this work?
 
--   What's currently going on with on-site notifications / elsewhere on the site or in Profile?
+	-   Reached out to VA Notify team about this. Response indicates they have a "self service UI that we would like to give you access to." *Follow-up question: Who would create the content for this?* Christina added to GitHub self service for template if needed.
 
--   The Authenticated Experience MyVA team is currently working on on-site notifications and recently did research for similar alerts. Utilize the same pattern. 
+-   What's currently going on with on-site notifications / elsewhere on the site or in Profile? [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873)
+
+-   The Authenticated Experience MyVA team is currently working on on-site notifications and recently did research for similar alerts. Utilize the same pattern. [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873) 
 
 -   What is the guidance for current alert use on Profile?
 
-## Discussions with Liz on Guidance for Alerts within Profile:
+	- Discussions with Liz on Guidance for Alerts within Profile:
 
--   In-line alerts for different pages should be above Heading 1
+		-   In-line alerts for different pages should be above Heading 1
 
--   In-line alerts for the current page should be directly below Heading 1
+		-   In-line alerts for the current page should be directly below Heading 1
 
--   If after editing, in-line alerts in field should be directly above buttons
+		-   If after editing, in-line alerts in field should be directly above buttons
 
--   If before editing, in-line alerts should be directly above the field heading
+		-   If before editing, in-line alerts should be directly above the field heading
 
-Page alert
-
-Whole page alert already exists that is used for Direct Deposit for example - if something is not working and access to the page is not allowed.
+	- Page alert - Whole page alert already exists that is used for Direct Deposit for example - if something is not working and access to the page is not allowed.
 
 -   What patterns exist in the design system that might help us work towards a solution?
 
--   <https://design.va.gov/components/alertboxes>
+	-   <https://design.va.gov/components/alertboxes>
 
--   <https://design.va.gov/storybook/?path=/docs/components-va-alert--default>
+	-   <https://design.va.gov/storybook/?path=/docs/components-va-alert--default>
 
--   Where can we show people they have a bad address? (see below)
+-   Where can we show people they have a bad address? (see below / [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873))
 
--   When can we show people they have a bad address? (see below)
+-   When can we show people they have a bad address? (see below / [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873))
 
--   What form can this take? (see below)
+-   What form can this take? (see below / [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873))
 
 Photo - exploration of questions
 
