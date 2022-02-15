@@ -1,14 +1,14 @@
 ---
 name: Analytics Product KPI Dashboard - Update Request Template
-about: To request an Updated KPI dashboard on Domo for your product
-title: Updated Analytics KPI dashboard request for [Team]
-labels: analytics-insights, analytics-request, kpi-dashboard
+about: To request an KPI dashboard updates for your product
+title: Analytics KPI dashboard update request for [Team]
+labels: analytics-insights, analytics-request, kpi-dashboard, update-dashboard
 assignees: michelle-dooley
 
 ---
 
-# (WIP) Request an Updated Standard KPI Dashboard 
+# Request an Update to Standardardized KPI Dashboard 
 
 ## What this form is for
 
-Use this template to request an Updated KPI dashboard on Domo for your product. 
+Use this ticket template to request an update to your standardized KPI dashboard. 
