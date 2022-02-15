@@ -148,7 +148,7 @@ Ask Perigean to recruit 60 people using the cohorts below in order to get at lea
 
 ### Recruitment Criteria for Cohort D (9 veterans)
 
-* All have NO experience with VA benefits or services but are interested in some
+* All have NO experience with VA benefits or services
 
 
 ### Recruitment Criteria for Cohort E (9 veterans)
