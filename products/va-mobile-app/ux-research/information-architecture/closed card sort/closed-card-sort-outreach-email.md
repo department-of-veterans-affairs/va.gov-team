@@ -29,7 +29,7 @@ Hello,
 
 The VA mobile app team at the Department of Veterans Affairs is conducting research to learn how you think about services and benefits offered by the VA.
 
-We are looking for Veterans who are interested in VA benefits or services, and would like to participate in an online activity to help us understand your preferences.
+We are looking for Veterans who have no experience using services and benefits offered by the VA but would like to participate in an online activity to help us understand your point of view.
 
 **What will I be doing in this activity?**
 
