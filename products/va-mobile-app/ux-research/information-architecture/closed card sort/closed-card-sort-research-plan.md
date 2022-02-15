@@ -134,37 +134,43 @@ Ask Perigean to recruit 60 people using the cohorts below in order to get at lea
 ### Recruitment Criteria for Cohort A (9 veterans)
 
 * All must have experience with VA health care, disability AND education benefits
+* [Cohort A study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=A)
 
 ### Recruitment Criteria for Cohort B (9 veterans)
 
 * All must have experience with one or more of the following VA benefits or services: VA health care, disability, education benefits
+* [Cohort B study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=B)
 
 
 ### Recruitment Criteria for Cohort C (9 veterans)
 
 * All must have experience with VA benefits or services (any)
+* [Cohort C study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=C)
 
 
 ### Recruitment Criteria for Cohort D (9 veterans)
 
 * All have NO experience with VA benefits or services
+* [Cohort D study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=D)
 
 
 ### Recruitment Criteria for Cohort E (9 veterans)
 
 * All go online to access VA benefits and services
+* [Cohort E study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=E)
 
 
 ### Recruitment Criteria for Cohort F (9 veterans)
 
 * All are female
+* [Cohort F study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=F)
 
 
 ### Coordination with Perigean
 
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question _Which VA benefits or services do you have any experience with?"_.
 
-We will provide an [email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md) and a card sort activity link for Perigean to use when reaching out to each cohort of potential participants.
+We will provide an [email template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md) and a unique card sort activity link for Perigean to use when reaching out to each cohort of potential participants.
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort.
 
@@ -220,10 +226,7 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 
 ### Prepare
 
-* Date testing material will be finalized: 
-* Pilot participant email: 
-* Date and time of pilot session:  
-
+* The card sort link will be tested by several internal people on February 14 & 15, 2022.
 
 
 
