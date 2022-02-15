@@ -46,21 +46,21 @@ DRAFT
 
 -   What form can this take? (see below / [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873))
 
-Photo - exploration of questions
+*Photo - exploration of questions*
 
 ## Thoroughly assessing root cause:
 
-Photo - 5 Whys
+*Photo - 5 Whys*
 
 Finding: Important to consider that not only do Veterans not have an indicator that their address is bad and an update is needed, they also need to understand the importance of updating this address and the negative consequences of not doing so - else risk that Veterans continue ignoring the prompt. If urgent enough, another option here is to require this change before anything else can be done on Profile.
 
 ## Overall user flow to consider edge cases:
 
-Photo - user flow
+*Photo - user flow*
 
 ## Assessing Additional Risks in User Mistakes - Further Predicting User Mistakes
 
-Photo - Unhappy path
+*Photo - Unhappy path*
 
 Predicting all possible user mistakes to show pathways in which users may still not update their addresses, resulting in a few different ways to address this:
 
@@ -98,7 +98,7 @@ Predicting all possible user mistakes to show pathways in which users may still 
 
 Forced edit through entire page alert (one-per-page). Page that appears upon entering Profile and does not disappear until mailing address is updated. Using one-per-page editing - good opportunity to try out.
 
-Photos
+*Photos*
 
 ### Option 2:
 
@@ -110,13 +110,13 @@ In-line, profile-wide alert + 1 of the options for Contact Information page
 
 Either in-line alerts within page or only alert on page that prevents anything else from being done until edited (like notification settings)
 
-Photos
+*Photos*
 
 ### Additional:
 
 Outside of profile, alerts could be located in MyVA to alert Veterans that changes are needed on Profile:
 
-Photo / Photo
+*Photo / Photo*
 
 ## Remaining Overall Questions for Samara and Marci :
 
