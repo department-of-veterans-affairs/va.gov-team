@@ -54,7 +54,7 @@ The following are the [OCTO-DE goals](https://github.com/department-of-veterans-
 
 ### Information Architecture Research
 
-Fulfills issue ##
+Fulfills [issue #2552](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2552)
 
 The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible, before we scale the app to a larger audience. See [VA Mobile App User Research: Information Architecture & Navigation - High Level Summary](https://docs.google.com/document/d/1NIiJDk0_2RsgnwyjTTERp9bykURZ7CMhFZ-j1OXJg28/edit#) for a high level summary of the entire 3-phase process.
 
