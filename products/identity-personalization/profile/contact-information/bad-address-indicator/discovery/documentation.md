@@ -14,7 +14,7 @@ DRAFT
 
 -   Can we proactively email all people who have the bad address indicator to log into VA.gov and update their address? How would this work?
 
-	-   Reached out to VA Notify team about this. Response indicates they have a "self service UI that we would like to give you access to." *Follow-up question: Who would create the content for this?* Christina added to GitHub self service for template if needed.
+	-   Reached out to VA Notify team about this. Response indicates they have a "self service UI that we would like to give you access to." *Follow-up question: Who would create the content for this?* Christina added to GitHub self service for template if needed. *Is access needed for anyone else?* "Even if you don't move forward, you or someone else should have access to view your current notifications."
 
 -   What's currently going on with on-site notifications / elsewhere on the site or in Profile? [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873)
 
