@@ -83,9 +83,11 @@ Let’s start with a few questions...
 
 - Are you currently involved with the VA? If so, how? 
 - *want to get at what VA-related tasks they have done before, do regularly, plan to do. ask them to list some. ask what's most important* 
-- What 
+ 
 - Have you used any VA benefits or services before? If so, which ones?
-- Are there any VA benefits or services that you haven't used before but are interested in exploring?
+  - *RECORD: health care / education / career services / disability / housing / pension / life insurance / burial / ___________*
+ 
+- Are there any that you haven't used before but are interested in exploring?
 
 ## Screen sharing
 I have an activity that I'd like you to do on your computer while sharing your screen with me over Zoom.
@@ -107,10 +109,8 @@ I'd like you to do this activity and talk with me about it as you do it.
   
 ## (if time) Post-Task Interview - 5 minutes
 *Type into #feedback-backchannel: "Any questions you want me to ask?"*
+- SUMMATIVE/REFLECTIVE Qs TBD
 
-- What did you *like* about what you've seen today?
-- What did you *dislike* about what you've seen today?
-- What would you like to *change* about what you've seen today?
 - Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 1 minute
