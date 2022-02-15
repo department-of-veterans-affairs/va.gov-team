@@ -1,8 +1,8 @@
-# Research Plan for Veteran Top Tasks UNMODERATED (part 2 of 2), Public Websites, Feb X, 2022
+# Research Plan for Veteran Top Tasks UNMODERATED (part 2 of 2), Public Websites, Feb 15, 2022
 
 ## Background
 The current design of the VA.gov home page provides easy access to some Veteran tasks in four boxes near the top of the page. [User research on the home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/research/202104-baseline-wayfinding/research-readout-full-June8.pdf) has shown that other tasks are more challenging to do when starting from the home page. 
-We would like to learn which tasks Veterans find most important.
+We would like to learn which VA-related tasks are most important to Veterans and caregivers.
 
 ### OCTO Objectives 
 
@@ -22,7 +22,7 @@ The goal of this research is to identify Veteran top tasks. We hope to find a se
 The top tasks that we identify could be used to measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks.
 
 ### Research questions
-1. When Veterans and others contact the VA, what tasks are most important to them? 
+1. When Veterans or their caregivers contact the VA, what tasks are most important to them? 
 2. What tasks are least important? 
 3. Are there any tasks in the card sort that are unclear or confusing?
 4. Are there any important tasks missing?
@@ -32,9 +32,9 @@ The top tasks that we identify could be used to measure the overall health of VA
 2. Veterans and caregivers will generally agree on which tasks are the least important.
 
 ## Method: Unmoderated Card Sort	
-We would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 30 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
+We want to to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 30 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
 
-We would like to get complete sorting responses from **at least 30 Veterans and Caregivers**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
+We would like to get complete sorting responses from **at least 30 Veterans and caregivers**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). 
 
 *Action item: Revise card sort per moderated research (part 1 of 2).*
 
@@ -49,11 +49,13 @@ We would like to get complete sorting responses from **at least 30 Veterans and 
 
 ## Recruitment	
 
-Ask Perigean to recruit **60** people using the cohorts below in order to get at least **30** completes. Ideally, we would like to get about 2/3 (20 of 30) Veterans and 1/3 (10 of 30) Caregivers of Veterans, half with experience using some VA benefits/services and half without such experience but interest in some.
+Ask Perigean to recruit **60** people using the cohorts below in order to get at least **30** completes. Ideally, we would like to get about 
+- 2/3 (20 of 30) Veterans and 1/3 (10 of 30) caregivers of Veterans
+- 1/2 (15 of 30) with experience using some VA benefits/services and 1/2 without such experience but interest in some
 
 ### For everyone:
 - ALL have a computer and are willing to use it to complete the activity
-- ALL are willing to do an activity from their computer that requires dragging and dropping items on their computer screen (NO screen reader users)
+- ALL are willing to do an activity that requires dragging and dropping items on their computer screen (NO screen reader users)
 - At least 10 women
 - Diversity across age groups
 - Diversity across racial identities
@@ -70,7 +72,7 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 - All have NO experience with VA benefits or services but are interested in some 
 
 ### For Cohort D (9 Veterans)
-- All have experience with VA disability
+- All have experience with VA disability compensation
 
 ### For Cohort E (9 Caregivers)
 - All have NO experience with VA benefits or services but are interested in some 
@@ -82,7 +84,7 @@ Ask Perigean to recruit **60** people using the cohorts below in order to get at
 - All must have experience with one or more of the following VA benefits or services: housing, pension, life insurance, or burial benefits
 
 ### Coordination with Perigean
-To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*.
+To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question *Which VA benefits or services do you have any experience with?"*
 
 For potential participants who don't have any experience with VA benefits or services, the recruitment emails we provide will ask for interest in VA benefits or services.
 
