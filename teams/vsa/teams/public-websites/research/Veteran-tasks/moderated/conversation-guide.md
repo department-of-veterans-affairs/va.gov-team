@@ -43,9 +43,8 @@ Before we start, I want to go over a few things:
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
 - I will be sharing a web page link with you during the session. **How would you prefer to receive the URL?** 
-  - I could dictate it to you, put it in the Zoom chat, email it to you, *(only if on a phone)* text it to you.
+  - I could dictate it to you, put it in the Zoom chat or email it to you.
     - *(if email)* Is your current email XYX *(get from participant roster)* ?
-    - *(if text)* What is your mobile phone number?
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -55,13 +54,12 @@ Before we start, I want to go over a few things:
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today? 
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a green button that says Share (phone) or Share Screen (computer). 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
 - Now I'd like you to share your screen with me. Tap on the green button that says Share. You will then see options for what to share. Please choose "Screen" or  your web browser.
-  - *(on a phone)* You will be asked to select what you'd like to share. Please choose "Screen" and then "Start now". If you see any additional prompts please read them aloud and I will help *(give permission > accessibility settings > find Zoom > check box)*.
-  - Great, now I can see your screen! Thank you for your patience in figuring this out.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: Broadcast screen
 
@@ -72,14 +70,13 @@ Before we start, I want to go over a few things:
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom. 
   - Computer: Just to the left of center is a conversation bubble that says Chat. 
     - *If don't see chat, ASK:* Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
-  - Phone: On the far right is a More button or 3 dots. Tap that and then on Chat or the conversation bubble. 
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
  
 ## Warm-up Questions - 5 minutes
-*NOTE how to share URL: dictate / Zoom chat / email / text* 
+*NOTE how to share URL: dictate / Zoom chat / email* 
 
 Let’s start with a few questions... 
-- What device are you using today? *(iPhone / Android / Tablet / Computer)*
+- What device are you using today? *(iPhone / Android / Tablet / Computer--REQUIRED)*
 
 - Are you currently involved with the VA? If so, how? 
 - *want to get at what VA-related tasks they have done before, do regularly, plan to do. ask them to list some. ask what's most important* 
@@ -97,7 +94,7 @@ While you're looking doing this activity, I would like you to *talk aloud* as mu
 I would like you to share your screen with me--a web browser please. You might want to close any apps that you don’t want me to see.
 - *(refer to Screen sharing instructions above, if needed)*
 
-I'll have you start from a URL that I'm going to *[spell/put into the Zoom chat/email/text]* for you to click on (TBD). 
+I'll have you start from a URL that I'm going to *[spell/put into the Zoom chat/email]* for you to click on (TBD). 
 - *(If asked, reassure that this is a legitimate link to what I want you to test.)*
 
 Do you see the link? 
