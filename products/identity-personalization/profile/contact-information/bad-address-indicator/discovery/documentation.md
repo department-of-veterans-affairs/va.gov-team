@@ -4,7 +4,7 @@ DRAFT
 
 ## Activities
 
--   Review the product outline.
+-   Review the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator).
 
 -   Meeting with Samara and Marci for an intro to the work.
 
