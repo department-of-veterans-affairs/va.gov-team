@@ -83,7 +83,7 @@ This research will allow us to adjust the information architecture in the app to
 
 1. Veterans will be able to categorize cards and name groups of cards presented in the card sort.
 2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov.
-3. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Profile, Settings)
+3. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
 
 
 
@@ -109,8 +109,8 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 
 * [Closed card sort (preview) - Optimal Workshop](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed)
 * [Closed card sort - Optimal Workshop](https://app.optimalworkshop.com/a/adhoc/optimalsort/surveys/53516949-eb96-4b85-b493-bda8794844c4/edit#/t/setup/cards)
-* * [Card Content (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=702138539)
-* * [Category Names (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=567294791)
+    * [Card Content (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=702138539)
+    * [Category Names (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=567294791)
 * [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md)
 
 
@@ -228,7 +228,7 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 * Test card sort preview link with internal UX team members on February 14 & 15, 2022
 ### Pilot
 * Launch pilot using [OptimalWorkShop.com](optimalWorkShop.com) on TBD
-* Pilot participant: 
+* Pilot participant: TBD
 * Edit protocol after pilot
 ### Study
 * Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com)
@@ -238,12 +238,26 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 
 
 
+### Research sessions
+February 2022
+
+
+### Length of sessions
+Card sort will take 10-15 minutes, and (because it is remote & unmoderated) can be conducted at any time that is convenient for the participant.
+
+
+### Availability
+N/A
+
+
 ## Team Roles
 
 
+* Moderator: N/A
 * Research guide writing and task development: Holly Collier, Melissa Lefevre
 * Participant recruiting & screening: Perigean
 * Project point of contact: Holly Collier
+* Participant(s) for pilot test: TBD
 
 
 
@@ -255,10 +269,3 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 
 
 
-##  Card Sort Analysis & Findings
-
-
-* Full Analysis of Closed Card Sort data (Optimal Sort)
-    * [Analysis + Synthesis (gDoc) ](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=1846022770)
-    * [Questionnaire (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=1846022770)
-* VA Mobile app - Information Architecture User Research - Closed Card Sort Results
