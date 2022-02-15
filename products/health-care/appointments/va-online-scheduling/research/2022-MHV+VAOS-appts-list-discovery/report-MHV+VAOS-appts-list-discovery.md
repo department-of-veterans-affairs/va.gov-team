@@ -11,7 +11,7 @@ With research support from Ciera Maddox (VAOS) and Andrea Perez (MHV)
 
 <br>
 
-**Jump to:** [TODO]
+**Jump to:**
 
 [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#hypotheses-and-conclusions)
 
@@ -73,17 +73,17 @@ We'll cover the findings that led to these conclusions in detail next.
 
 **What information do Veterans need in an appointments list to make it useful?**
 
-4. Participants wanted to be able to easily differentiate appointments in VAOS
+4. [Participants wanted to be able to easily differentiate appointments in VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-differentiate-appointments-in-vaos)
 
-5. Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
+5. [Participants wanted to be able to easily understand how they will attend, and find their way to their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-to-be-able-to-easily-understand-how-they-will-attend-and-find-their-way-to-their-appointments)
 
-6. Participants wanted tools to help them contact their provider
+6. [Participants wanted tools to help them contact their provider](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#participants-wanted-tools-to-help-them-contact-their-provider)
 
 **Will the proposed concept address Veteran data needs, and address any potential gaps between VAOS and MHV?**
 
-7. Almost all participants responded positively to the proposed concept
+7. [Almost all participants responded positively to the proposed concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#almost-all-participants-responded-positively-to-the-proposed-concept)
 
-8. Some participants found the word "Pending" confusing in the concept
+8. [Some participants found the word "Pending" confusing in the concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#some-participants-found-the-word-pending-confusing-in-the-concept)
 
 # Details of Findings 
 
@@ -269,13 +269,6 @@ _Next steps here. Include owners if appropriate._
 ## Pages and applications used
 
 * [Prototype](https://www.figma.com/file/xfwF9JdPCIRPko3IZ3OL6v/Prototype---MHV%2BVAOS-appointments-list-discovery?node-id=0%3A1)
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-[TODO]
 
 ## Secondary research
 
