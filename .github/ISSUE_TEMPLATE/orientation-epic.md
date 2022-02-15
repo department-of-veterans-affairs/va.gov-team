@@ -43,12 +43,14 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
 - [ ] Review [Support Overview](https://depo-platform-documentation.scrollhelp.site/support/Support-overview.604012552.html) documentation
 - [ ] [Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+- [ ] Review the [Submitting a feature request](https://depo-platform-documentation.scrollhelp.site/support/Submitting-a-feature-request.1938915400.html)
 ### Norms and standards
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/code-of-conduct.md)
 - [ ] Review the [Norms for Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md)
 - [ ] Review [Orientation materials](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) on Platform Website
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 - [ ] Review the [Norms for Using Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-tools.md)
+
 ### Working on the platform
 - [ ] Review the [Platform Principles](https://vfs.atlassian.net/wiki/spaces/AP/pages/1391853669/Platform+Crew+Principles)
 - [ ] Review the [GitHub Markdown Cheatsheet](https://help.github.com/en/categories/writing-on-github) to learn the syntax for formatting documents in GitHub
