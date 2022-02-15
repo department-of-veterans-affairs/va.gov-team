@@ -226,7 +226,8 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 
 ### Prepare
 
-* The card sort link will be tested by several internal people on February 14 & 15, 2022.
+* The card sort preview link will be tested by several internal UX team members on February 14 & 15, 2022.
+* The card sort link will be piloted on TBD.
 
 
 
