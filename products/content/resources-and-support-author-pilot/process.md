@@ -31,7 +31,7 @@ Search the Resources and Support library to make sure there isn't already conten
 
 ## Step 3: Choose your template
 
-Before you write content for Resources and Support, you'll need to choose a template. Some Resources and Support templates offer more flexible, while others have a limited number of components to choose from and stricter character counts. Following the template from the start will help you avoid needing to go back and rewrite content to fit the template when you go into Drupal to build the content.
+Before you write content for Resources and Support, you'll need to choose a template. Some Resources and Support templates offer more flexibility, while others have a limited number of components to choose from and stricter character counts. Following the template from the start will help you avoid needing to go back and rewrite content to fit the template when you go into Drupal to build the content.
 
 Resources and Support offers these templates:
 
