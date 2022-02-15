@@ -65,23 +65,25 @@ We'll cover the findings that led to these conclusions in detail next.
 
 **What will be confusing when transitioning from the MHV appointments list to VAOS?**
 
+1. [Most participants were confused that there are two different sites that list their appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#most-participants-were-confused-that-there-are-two-different-sites-that-list-their-appointments)
 
-**What will be confusing when transitioning from the MHV appointments list to VAOS?**
+2. [3/9 participants were confused to see unfamiliar facilities when navigating from MHV to VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#39-participants-were-confused-to-see-unfamiliar-facilities-when-navigating-from-mhv-to-vaos)
 
-1. Finding one
+3. [Clinic patient-friendly names and name codes were confusing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-MHV%2BVAOS-appts-list-discovery/report-MHV%2BVAOS-appts-list-discovery.md#clinic-patient-friendly-names-and-name-codes-were-confusing)
 
-2. Finding two
+**What information do Veterans need in an appointments list to make it useful?**
 
-3. Finding three
+4. Participants wanted to be able to easily differentiate appointments in VAOS
 
-4. Finding four
+5. Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
 
-5. Finding five
+6. Participants wanted tools to help them contact their provider
 
-6. Finding six
+**Will the proposed concept address Veteran data needs, and address any potential gaps between VAOS and MHV?**
 
-7. Finding seven
+7. Almost all participants responded positively to the proposed concept
 
+8. Some participants found the word "Pending" confusing in the concept
 
 # Details of Findings 
 
@@ -132,7 +134,7 @@ These needs could also be met by providing "type of care" and better clinic loca
 
 ## What information do Veterans need in an appointments list to make it useful?
 
-**Participants wanted to be able to easily differentiate appointments in VAOS
+### Participants wanted to be able to easily differentiate appointments in VAOS
 
 Date and time was the first piece of information participants used to differentiate their appointments. After that, they reported that the following information would have been helpful:
 * 7/9 Type of care
@@ -149,7 +151,7 @@ Date and time was the first piece of information participants used to differenti
 
 See also: findings from the [2020 CC provider selection research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery#participants-need-specific-information-to-identify-and-prepare-for-their-appointments).
 
-**Participants wanted to be able to easily understand how they will attend, and find their way to their appointments**
+### Participants wanted to be able to easily understand how they will attend, and find their way to their appointments
 
 Participants first wanted to know *how* they would attend the appointment; 4/9 wanted clearer information about whether the appointment is in person, over the phone, or over video.
 
@@ -171,7 +173,7 @@ Additionally, 2/9 wanted to see instructions about how to check-in, or what to b
 
 > "There is a standardized naming process and there is also a patient friendly name, but on here it seems it is either the standardized name or it may have both names which is frustrating to patients who may not understand the name. It needs to be the patient friendly name so they know where they are going. Clinic Profile Team who lists the clinic names that are provided by the clinics. The way finding for Veterans is not the best when it came to this list. The fact you can not see where you are supposed to go is the problem." - P3, who is familiar with the scheduling process from the facility side
 
-**Participants wanted tools to help them contact their provider**
+### Participants wanted tools to help them contact their provider
 
 The top requests from participants included:
 * 5/9 Phone number and the direct extension to the clinic would be helpful, so they could avoid navigating the call center phone tree.
@@ -185,7 +187,7 @@ Some participants indicated that they would use this list in conjunction with se
 
 ## Will the proposed concept address Veteran data needs, and address any potential gaps between VAOS and MHV?
 
-**Almost all participants responded positively to the proposed concept**
+### Almost all participants responded positively to the proposed concept
 
 8/9 participants had a strong positive reaction when asked for their first impressions of the concept. They were especially happy to be able to clearly see the modality of the appointment.
 
@@ -197,7 +199,7 @@ Participants also had positive reactions to the information layout, and the mini
 
 > "Dates are easy to scan, like on the 21st we have potentially four appts"
 
-**Some participants found the word "Pending" confusing in the concept**
+### Some participants found the word "Pending" confusing in the concept
 
 4/9 mentioned some confusion, thinking it was indicating upcoming appointments, or not sure what it meant. 
 
@@ -213,7 +215,7 @@ See also: findings from the [2021 appointments list research](https://github.com
 
 # Additional Insights
 
-**Participants don't use the MHV appointments list often; when they do, it's generally to validate that the appointment is properly booked.**
+## Participants said they don't use the MHV appointments list often; when they do, it's generally to validate that the appointment is properly booked
 
 5/9 participants said they don't use the appointments list much. No participant indicated that they used the list on a daily or weekly basis.
 
@@ -227,7 +229,7 @@ Participants said they use their appointments list to:
 
 > _Supporting data: Quote here_
 
-**3/9 wanted to see a link to their lab results in their past appointments.**
+## 3/9 wanted to see a link to their lab results in their past appointments
 
 
 # Recommendations
