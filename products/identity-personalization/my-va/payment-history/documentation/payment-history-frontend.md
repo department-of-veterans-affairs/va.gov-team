@@ -15,7 +15,7 @@
 ## UX Specs
 ### Outstanding debt notification
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
-- [Mobile] - TBD
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1rWvEe)
 
 **Show**
 
@@ -49,7 +49,7 @@ Your total VA debt balance is $0.
 ### Deposit-made card
 
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
-- [Mobile] - TBD
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1rWvEe)
 
 **Show**
 
@@ -144,7 +144,7 @@ Use font awesome icon `dollar` for icon in link list
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/7y2Wq3Z)
-- [Mobile] - TBD
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1rWvEe)
 -
 ---
 
@@ -158,7 +158,7 @@ Use font awesome icon `dollar` for icon in link list
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/1KnQlRO)
-- [Mobile]- TBD
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/L02o1qW) (Ignore styling on the rest of the page)
 
 ---
 
@@ -174,7 +174,7 @@ Use font awesome icon `dollar` for icon in link list
 
 Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1JK3qy)
-- [Mobile]- TBD 
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/qea25yM)
 
 ---
 
