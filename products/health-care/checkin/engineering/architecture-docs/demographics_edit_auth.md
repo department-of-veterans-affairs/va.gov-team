@@ -16,9 +16,12 @@
 ## Problem Statement
 ## Proposal
 ## Measuring Success
-## UX Questions
-## FE Questions
-## BE Questions
-## UX Solutions
-## FE Solutions
-## BE Solutions
+## Questions
+### UX Questions
+### FE Questions
+### BE Questions
+## Solutions
+### UX Solutions
+### FE Solutions
+### BE Solutions
+## Testing
