@@ -14,10 +14,11 @@ Open Card Sort
 
 Closed Card Sort
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-research-plan.md)
-- [Analysis]
+- [Analysis - gdoc]
 - [Research report]
 
 Tree Test
+- [Analysis - gdoc]
 - [Research plan]
 - [Research report]
 
