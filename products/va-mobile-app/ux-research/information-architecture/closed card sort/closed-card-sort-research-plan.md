@@ -166,6 +166,12 @@ Ask Perigean to recruit 60 people using the cohorts below in order to get at lea
 * [Cohort F study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=F)
 
 
+### Recruitment Criteria for Cohort G (9 veterans)
+
+* All are male
+* [Cohort G study link](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed/?token=G)
+
+
 ### Coordination with Perigean
 
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question _Which VA benefits or services do you have any experience with?"_.
@@ -178,15 +184,6 @@ We estimate it will take participants 15 minutes to complete the card sort.
 
 
 ## Closed Card Sort Protocol
-
-
-#### UserTesting.com  (pilot only)
-
-
-* _Start with a blank page_
-* _Today you will be helping us organize the content in our app. Please read the instructions aloud._
-* _Launches [Closed card sort test link]_
-* _You have been taken to a new page. When you see the page, move on to the next step._
 
 #### OptimalWorkshop.com Test
 
@@ -203,10 +200,10 @@ We estimate it will take participants 15 minutes to complete the card sort.
 
 * **Instructions**
     * Take a look at the list of items on the left. 
-    * We'd like you to sort those items into groups that make sense to you, [thinking aloud as you go].  *pilot only 
+    * We'd like you to sort those items into groups that make sense to you.
     * Use the groups provided or create your own by dragging and dropping an item from the left into the space on the right.
     * There is no right or wrong answer. Just do what comes naturally. If there are any cards that you feel uncertain about, please make note of those.
-    * When you're done click "Finished" at the top right. Have fun, [and please remember to think aloud as you go!] *pilot only
+    * When you're done click "Finished" at the top right. Have fun!
 
 * **Thank You**
     * You’re all done!  Thanks again for your participation. Your feedback is incredibly useful in helping to determine how our content should be organized, so we can make the VA mobile app easier to use.
@@ -215,7 +212,7 @@ We estimate it will take participants 15 minutes to complete the card sort.
     * Were there any categories that you didn’t understand? 
     * Were there any cards where you felt uncertain about what category to place them in? 
     * Have you used the VA mobile app?
-    * You may now [stop the UserTesting.com recorder and] close this window. *pilot only
+    * You may now  close this window. 
 
 
 
@@ -225,9 +222,19 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 
 
 ### Prepare
-
-* The card sort preview link will be tested by several internal UX team members on February 14 & 15, 2022.
-* The card sort link will be piloted on TBD.
+* Revise card descrtiption text based on open card sort findings
+* Create set/s of category labels for closed card sort test/s based on open card sort findings (+ team POV)
+* Create closed card sort test/s on [OptimalWorkShop.com](optimalWorkShop.com)
+* Test card sort preview link with internal UX team members on February 14 & 15, 2022
+### Pilot
+* Launch pilot using [OptimalWorkShop.com](optimalWorkShop.com) on TBD
+* Pilot participant: 
+* Edit protocol after pilot
+### Study
+* Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com)
+* Analysis of Closed Card Sort
+* Review findings with TBD. Edit based on feedback
+* Repeat Closed Card Sort with alternate category label sets if needed
 
 
 
@@ -237,7 +244,6 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 * Research guide writing and task development: Holly Collier, Melissa Lefevre
 * Participant recruiting & screening: Perigean
 * Project point of contact: Holly Collier
-
 
 
 
