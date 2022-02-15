@@ -5,7 +5,7 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 
 
 **Phase I - Information Architecture Research**
-- [Research folder]
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture)
 
 
  **Phase II - Mobile Navigation UI Competitive Analysis**
