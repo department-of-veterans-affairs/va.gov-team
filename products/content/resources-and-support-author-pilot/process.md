@@ -15,15 +15,23 @@ Now, use our additional content placement criteria to determine if your content'
 Does your content meet this requirement?
 - [ ] Content supports a benefit that has a unique application or application process that results in the beneficiary receiving a core or supplemental benefit.
 
-**And** does your content provide an overview of one of these topics?
+**And** does your content provide an overview with basic, high-level information about one of these topics?
 - [ ] A tool needed to manage or use the benefit or service, **or**
 - [ ] What the person gets with the benefit (including current compensation rates), **or**
-- [ ] Eligibility, **or**
+- [ ] Top-level benefit eligibility, **or**
 - [ ] Instructions on how to apply
 
 If yes, your content's primary home should be in a VA.gov benefit hub. Contact the VA.gov content team...
 
 If no, your content's primary home should be in Resources and Support. Move to Step 2.
+
+Content in Resources and Support must meet at least one of these goals:
+ - [ ] Provides supplemental eligibility, evidence information, or application instructions for a benefit, **or**
+ - [ ] Explains ways to use a VA benefit,**or**
+ - [ ] Provides more information about a specific program, service, or sub-benefit that a person can use after they apply for a VA benefit, **or**
+- [ ] Provides a brief overview and link to more information about a Veteran benefit from another government agency (like DoD), **or**
+- [ ] Provides support for signing into and using VA’s digital tools, **or**
+- [ ] Answers a question that Veterans, service members, or family members have about VA benefits and services (based on contact center reports, search data, and user feedback)
 
 ## Step 2: Make sure your content is unique
 
