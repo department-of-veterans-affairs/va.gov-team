@@ -19,7 +19,7 @@ Veteran tasks fit into the [Veteran journey](https://github.com/department-of-ve
 The goal of this research is to identify Veteran top tasks. We hope to find a set of 10-12 tasks that are most important from an initial set of about 30 tasks.
 
 ### Outcome
-The top tasks that we identify could be used to measure the overall health of VA.gov. By running baseline usability tests and then regular tests at intervals, we can check whether Veterans can quickly and easily complete all top tasks.
+The top tasks that we identify could be used to measure the overall health of VA.gov. We can use the top tasks we identify to run baseline usability tests and then regular tests at intervals. Over time, these tests will tell us whether Veterans can quickly and easily complete all top tasks.
 
 ### Research questions
 1. When Veterans and others contact the VA, what tasks are most important to them? 
@@ -28,8 +28,8 @@ The top tasks that we identify could be used to measure the overall health of VA
 4. Are there any important tasks missing?
 
 ### Hypotheses
-1. Veterans (and caregivers of Veterans) will generally agree on which tasks are the most important.
-2. Veterans (and caregivers of Veterans) will generally agree on which tasks are the least important.
+1. Veterans and caregivers will generally agree on which tasks are the most important.
+2. Veterans and caregivers will generally agree on which tasks are the least important.
 
 ## Method: Unmoderated Card Sort	
 We would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 30 VA-related tasks. Each participant rates each of the tasks in terms of its importance for themselves only (not for all Veterans) by sorting it into one of several fixed categories (i.e., very important, somewhat important, not important, I don't understand this task). They will also be able to add new tasks and sort them.
