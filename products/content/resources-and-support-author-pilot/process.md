@@ -81,6 +81,8 @@ _Instructions_
 
 _Instructions_
 
+## Step 9: Send a preview of the content to SMEs for awareness and final sign off
+
 
 
 
