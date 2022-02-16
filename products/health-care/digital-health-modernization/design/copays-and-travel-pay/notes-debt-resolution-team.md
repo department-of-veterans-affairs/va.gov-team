@@ -31,7 +31,7 @@ Related Links:
 ### Please share insights from your research related to other key words (exs: “copayment,” “billing,” “bills,” “debt”) – or point us to this study.
 - During a study, we asked Veterans to search for a pathway to copayment information from the homepage, they primarily looked for a variation of “bill”:
   - “Billing” / “Pay my bill” / “Pay bill” / “Pay bill here”
-  - Words the Debt Resolution Team decided to use: “billing” “pay my bill” “balance.” In one study, 7 of 11 or 12 folks used these words. Across the board, “copay” meant “bill.” Wording they used: “Check details to resolve this bill” and “copay balance.”
+  - Words the Debt Resolution Team decided to use: “billing” “pay my bill” “balance.” In one study, 7 of 11 or 12 folks used these words. Across the board, “copay” meant “bill.” Wording they settled on for VA.gov: “Check details to resolve this bill” and “copay balance.”
 - They also overwhelmingly conceptualize a statement as a bill. [See related research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#veterans-looked-for-a-variety-of-keywords-when-searching-for-a-pathway-to-copayment-information-but-primarily-looked-for-bill)  
 - There's a disconnect with the payment history tool and where they access their copays (Medical Copay Tool).    
 
