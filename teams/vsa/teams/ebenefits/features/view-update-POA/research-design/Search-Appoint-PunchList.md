@@ -18,7 +18,7 @@ See:
 ##### To be updated in UXPin 
 - [x] fix TTY highlight 
 - [x] update H1s to be the same across all pages
-- [ ] update step and question text across form pages
+- [x] update step and question text across form pages
 - [x] move "finish this application later" above buttons
 
 ### Intro page
