@@ -23,7 +23,7 @@ Related Links:
   - There are admin fees on patient statements. Related to what statement is being sent. If the Veteran does not pay, there are admin and interest fees on later statements. (Not sure what the different types of charges are -- would need to talk to a SME.) 
 
 ### Do Veterans think of their medical expenses with VA as a part of their financial business with VA – or as separate? 
-Examples of other financial things with VA are GI Bill payments and disability compensation. Both are payments to Veterans from VA.
+(Examples of other financial things with VA are GI Bill payments and disability compensation. Both are payments to Veterans from VA.)
 - Yes. During our discovery research, Veterans overwhelmingly expect to find all money owed to VA together. It’s also Congressionally mandated that we provide a way for Veterans to find information about all their debts in one place online, so we are currently working towards combining the existing VBA Debt Portal (education, disability compensation + pension debts) with the Medical Copay Tool. [See related research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#overwhelmingly-veterans-conceptualize-the-veteran-patient-statements-as-bills)
 - If a Veteran overpays, VA will refund the debt if it's for VBA-related things (education, disability, and pension). For medical copays, VA puts that balance towards future copay charges. 
 - In summer of 2021, the Debt Resolution Team created concepts for combining all 3 tools: [VBA Debt Portal](https://www.va.gov/manage-va-debt/), [Medical Copay Tool](https://www.va.gov/health-care/pay-copay-bill/), and [Payment History](https://www.va.gov/va-payment-history/) 
