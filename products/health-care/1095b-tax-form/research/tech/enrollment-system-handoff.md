@@ -22,6 +22,7 @@
 * System in place to detect/fix batch script if anything goes wrong 
     * Who owns operations? IE. if enrollment system changes format 
 * How to communicate errors back to enrollment system (corrupted data during injestion, etc)
-* Is the Enrollment System keeping track of data from previous tax years? How does it keep track? 
+* Is the Enrollment System keeping track of data from previous tax years?
+	* How does it identify which year the data corresponds to? 
 
 	
