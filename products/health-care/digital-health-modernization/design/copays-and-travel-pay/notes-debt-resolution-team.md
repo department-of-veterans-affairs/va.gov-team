@@ -9,6 +9,7 @@ February 15, 2022
 - Prosthetic socks and hearing aid batteries and accessories: Veteran does not pay for them. The tool on VA.gov populates whatever the doctor prescribed.
 
 Related Links:
+- [Pay your VA copay bill](https://www.va.gov/health-care/pay-copay-bill/)
 - [Copay rates](https://staging.va.gov/health-care/copay-rates/) 
 - [Cost of care](https://staging.va.gov/health-care/about-va-health-benefits/cost-of-care/)
 
