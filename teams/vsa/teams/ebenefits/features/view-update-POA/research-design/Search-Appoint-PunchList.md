@@ -16,10 +16,10 @@ See:
 - [ ] add breadcrumb 
 - [ ] fix H1 spacing 
 ##### To be updated in UXPin 
-- [ ] fix TTY highlight 
-- [ ] update H1s to be the same across all pages
+- [x] fix TTY highlight 
+- [x] update H1s to be the same across all pages
 - [ ] update step and question text across form pages
-- [ ] move "finish this application later" above buttons
+- [x] move "finish this application later" above buttons
 
 ### Intro page
 ##### To be Updated in Code
@@ -34,8 +34,8 @@ See:
 - [ ] update Veterans Service Officer (VSO) to Representative in a Veterans Service Organization (VSO)
 - [ ] update (VS0) to be (VSO)
 ##### To be updated in UXPin 
-- [ ] on [signed in](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145744928/simulate/sitemap) page, update Veterans Service Officer (VSO) to be Veterans Service Organization (VSO) 
-- [ ] on [unauthenticated]() update Veterans Service Officer (VSO) to be "Representative in a Veterans Service Organization (VSO)"
+- [x] on [signed in](https://preview.uxpin.com/ff9dda3348ca1caa09500613a08dbe3fa512da5a#/pages/145744928/simulate/sitemap) page, update Veterans Service Officer (VSO) to be Veterans Service Organization (VSO) 
+- [x] on [unauthenticated]() update Veterans Service Officer (VSO) to be "Representative in a Veterans Service Organization (VSO)"
 
 ### Location
 ##### To be Updated in Code
@@ -73,13 +73,13 @@ See:
 
 ### File Info
 ##### To be Updated in UXPin
-- [ ] make SSN short field type
+- [x] make SSN short field type
 
 ### Mailing Address
 ##### To be Updated in Code
 - [ ] add [more info](https://design.va.gov/components/additional-info) for "Learn more about military base addresses"
 ##### To be Updated in UXPin
-- [ ] update [more info styling](https://design.va.gov/components/additional-info)
+- [x] update [more info styling](https://design.va.gov/components/additional-info)
 
 
 ---
