@@ -11,7 +11,8 @@
 [Q1 roadmap](#q1) <br>
 [Q2 roadmap](#q2) <br>
 [Q3 roadmap](#q3) <br>
-[Q4 roadmap](#q4)
+[Q4 roadmap](#q4) <br>
+[Previously completed relevant work](#previously-completed-relevant-work)
 
 ### Q1
 
@@ -51,6 +52,8 @@ OCTO has the UX, UI, and technical infrastructure in place to support a good use
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
 | Document initial findings in foundational report | None | Report delivered | Complete |
+| [Discovery: Vocational rehab form PoC](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/35055) | ---- | ---- | ---- |
+| [Research: Online apps candidates for translation](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/34444)---- | ---- | ---- | ---- |
 
 ------
 
@@ -174,10 +177,11 @@ OCTO has the UX, UI, and technical infrastructure in place to support a good use
 | ---- | ---- | ---- | ---- |
 | Implement Drupal multilingual features | - Public API available <br> - Collaboration with CMS team |  | Paused |
 
+## Previously completed relevant work
 
-
-
-
+| Initiatives | Dependencies | Measurements | Status |
+| [Documentation: Next steps for CMS localization plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/33629) | ---- | ---- | ---- |
+| [Discovery: "Fact Sheet" Database/Search functionality](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/34429) | ---- | ---- | ---- |
 
 
 
