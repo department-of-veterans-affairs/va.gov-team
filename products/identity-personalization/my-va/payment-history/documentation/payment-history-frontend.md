@@ -201,33 +201,19 @@ For MVP, we will only show the most recent payment.
 
 ## Error States
 
-### Error State 1: Both the Payment History and Debts API calls fail  
+### Error State 1: The Payment History API call fails
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/components/alertboxes#error-alert) for the error message.
->We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
-- Display the “View your payment history” link in the link list
-- Display “Learn about VA debt” in the link list
-
-#### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/VrG78qo)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ygpJMYz)
----
-
-### Error State 2: The Payment History API call fails
-
-#### Visual specs
-- Use the [error alert component](https://design.va.gov/components/alertboxes#error-alert) for the error message.
->We're sorry. We can't access your payment history right now.  We're working to fix this problem. Please check back later.
-- Display the “View your payment history” link in the link list
-- Display any debt message or alert below the alert component
+>We're sorry. We can't access some of your information right now.  We're working to fix this problem. Please check back later.
+- Do not display Benefit payment and debt section
 
 #### Mock-ups
 - [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGD28qM)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/9PbQ0n0)
+- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ygpJMYz)
 ---
 
-### Error State 3: The Debt API call fails
+### Error State 2: The Debt API call fails
 
 #### Visual specs
 - Use the [error alert component](https://design.va.gov/components/alertboxes#error-alert) for the error message.
