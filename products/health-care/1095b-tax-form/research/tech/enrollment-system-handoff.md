@@ -3,7 +3,7 @@
 
 *This document serves to document requirements and open questions for the MOVE tech team collaboration with the Enrollment System team so that the 1095-B tax forms can be served smoothly in a digital format to veterans and continue to function in the future.* 
 
-## Handoff Reqirements / Assumptions from Enrollment System (ES)
+## Handoff Requirements / Assumptions from Enrollment System (ES)
 
 * ES will send 1 new flat file approximately 2 times each week
 * Flat file will maintain format specified in PDF doc 
