@@ -26,7 +26,8 @@
 	* IE veteran vs beneficary, are they seperate files?
 	* Or are they in the same file? 
 	* Are multiple veterans/beneficiaries in 1 file? 
-	* We know there is a orrection indicator, veteran indicator, tax year
+	* We know there is a correction indicator, veteran indicator, tax year
 		* seperate files for original, corrections, replacements? 
+		* we want to grab corrected files and log that they are corrected in the DB with timestamp 
 
 	
