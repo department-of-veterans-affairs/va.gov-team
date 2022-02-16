@@ -1,13 +1,13 @@
-# Opportunity Brief Template
+# Opportunity Assessment Template
 #### Overview
 
 <details>
  
 *OCTO-DE pursues opportunities to improve the Veteran experience. These opportunities vary in size and scope and their alignment with DE's strategic goals.*
 
-*Because DE people and teams interact with many conversations, artifacts, etc., this template's job is to make it easier for the product org to surface, assess, and decide on whether to pursue a particular opportunity.* 
+*Because DE people and teams interact with many conversations, artifacts, etc., this template's job is to make it easier for the product org to surface, assess, and decide whether to pursue a particular opportunity.* 
 
-*For that reason, the Opportunity Brief is a useful communication tool and should be considered one of the first stops on the journey of an idea to improve Veteran lives.*
+*For that reason, the Opportunity Assessment is a useful communication tool and should be considered one of the first stops on the journey of an idea to improve Veteran lives.*
 
 </details>
 
@@ -25,5 +25,12 @@
 
 
 ### What does this look like
-- How do we test this idea and address assumptions we have?
+>Paint a picture
+- What might we build? 
+- And, how would people interact with what we build? 
+ 
+### Discovery
+- What do the first two sprints look like? 
+- What assumptions do we have about technology, usability/accessibility, value to people, or organizational dependencies? 
+- How should we validate those assumptions?
 - Who do we need to interact with to make this opportunity a reality?
