@@ -20,15 +20,15 @@
 - Samara - What were the accessibility questions related to address validation?
   - Christina spoke with Angela and her concern was to ensure we were emphasizing the right place and having it read out
   - Angela's bigger annoyance was the two alerts.  It wasn't a show-stopper (but it's also a necessary evil so the user knows it was updated successfully)
-- Military addresses - Liz had done a new design that hasn't been implemented
-- There is a scenario where someone could have a military address for their mailing address, but does NOT have the "I live on a United States military base
+- Liz had done a new modal design for address confirmation that hasn't been implemented. We will hold off on this to avoid the possibility of having so many modals back-to-back.
+- Military addresses - There is a scenario where someone could have a military address for their mailing address, but does NOT have the "I live on a United States military base
 - We don't need to change the FAQ content for contact information.
 
 ## Decisions
 - ADD TO THIS PROJECT - Hint text to help users distinguish between home & mailing address
 - Address validation changes are out of scope for this
 - Edit on a separate page is out of scope for this
-- We won't update the modal design at this time
+- We won't update the address confirmation modal design at this time
 - We won't tackle the military address senario at this time
 - We don't need to change the FAQ content for contact information.
 
