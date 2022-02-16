@@ -22,7 +22,11 @@
 * System in place to detect/fix batch script if anything goes wrong 
     * Who owns operations? IE. if enrollment system changes format 
 * How to communicate errors back to enrollment system (corrupted data during injestion, etc)
-* Is the Enrollment System keeping track of data from previous tax years?
-	* How does it identify which year the data corresponds to? 
+* How does Enrollment System split up the text files? 
+	* IE veteran vs beneficary, are they seperate files?
+	* Or are they in the same file? 
+	* Are multiple veterans/beneficiaries in 1 file? 
+	* We know there is a orrection indicator, veteran indicator, tax year
+		* seperate files for original, corrections, replacements? 
 
 	
