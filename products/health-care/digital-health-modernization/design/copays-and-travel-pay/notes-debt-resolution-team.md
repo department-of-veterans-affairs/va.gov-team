@@ -36,8 +36,14 @@ Related Links:
 - Payment history now includes: disability compensation, pension, and education/GI Bill (as well as payments to survivors of Veterans or service members. [See payment history.](https://www.va.gov/va-payment-history/)
 - The payment history tool shows Veterans money that VA sends them. We played around with bringing the payment history tool into the combined VBA/VHA debt portal but there aren’t plans in the immediate future to bring all 3 tools together: [VBA Debt Portal](https://www.va.gov/manage-va-debt/), [Medical Copay Tool](https://www.va.gov/health-care/pay-copay-bill/), and [Payment History](https://www.va.gov/va-payment-history/). 
 
+### Will/does payment history include debts owed to VA?
+- The payment history tool only shows Veterans money that VA sends them. The [VBA Debt Portal](https://staging.va.gov/manage-va-debt/) shows Veterans debts. (Sign in with test user 1.)
 
+### Are patient statements being moved from AccessVA to VA.gov? Will they be PDFs and/or accessible web pages?
+- Yes, they can [view patient statements here.](https://staging.va.gov/health-care/pay-copay-bill/) (Sign in with test user 80 or 81.) We are currently working on an HTML rendering of the statements.
 
-
+### Do you have examples of patient statements you can share?
+- [Sample patient statement on UX pin.](https://preview.uxpin.com/a0f7710002cf5f0d104c63ea77f2c7112f0853f0#/pages//simulate/no-panels?mode=i0
+- [Guide to understanding your VA patient statement.](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691-understanding_your_VA_patient_statement.pdf)
 
 
