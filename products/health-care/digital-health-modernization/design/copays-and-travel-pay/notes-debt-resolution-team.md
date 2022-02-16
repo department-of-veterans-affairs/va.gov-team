@@ -7,9 +7,9 @@ February 15, 2022
 - Examples of copays: Refilling a prescription, medical care at a community care facility 
 
 Related Links:
-- [Copay rates] (https://staging.va.gov/health-care/copay-rates/) 
-- [Cost of care] (https://staging.va.gov/health-care/about-va-health-benefits/cost-of-care/)
+- [Copay rates](https://staging.va.gov/health-care/copay-rates/) 
+- [Cost of care](https://staging.va.gov/health-care/about-va-health-benefits/cost-of-care/)
 
 ### What is Veterans’ mental model of copays?
-- Veterans conceptualize their copay statements as bills. During discovery research, most of our participants called a piece of mail detailing their VA medical charges as ‘VA bill’ or ‘Billing statement’. Several also stated their bill would be sent to collections if they didn’t pay. [See this research.] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#overwhelmingly-veterans-conceptualize-the-veteran-patient-statements-as-bills)
+- Veterans conceptualize their copay statements as bills. During discovery research, most of our participants called a piece of mail detailing their VA medical charges as ‘VA bill’ or ‘Billing statement’. Several also stated their bill would be sent to collections if they didn’t pay. [See this research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#overwhelmingly-veterans-conceptualize-the-veteran-patient-statements-as-bills)
 
