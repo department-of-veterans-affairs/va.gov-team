@@ -1,4 +1,4 @@
-# Notes captured from the Debt Resolution Team
+# Notes on medical financial things captured from the Debt Resolution Team
 Meeting notes from Riley Orr (designer working on medical copays and patient statements) and Meg Peters (designer for the health apartment)</br>
 Team met with Riley February 15, 2022
 
