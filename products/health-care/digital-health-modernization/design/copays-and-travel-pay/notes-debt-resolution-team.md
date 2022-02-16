@@ -20,7 +20,7 @@ Related Links:
 - Veterans conceptualize their copay statements as bills. During discovery research, most of our participants called a piece of mail detailing their VA medical charges as ‘VA bill’ or ‘Billing statement’. Several also stated their bill would be sent to collections if they didn’t pay. [See related research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#overwhelmingly-veterans-conceptualize-the-veteran-patient-statements-as-bills)
 - Research shows that some things are confusing to Veterans: 
   - The charges themselves on patient statements seemed dense. Veterans do not understand what they're being charged for. Example: 3 statements for prescription refill. If Veteran does not pay, then only 1st statement lists what they are being charged for. 
-  - There are admin fees on patient statements. Related to what statement is being sent. If the Veteran does not pay, there are admin and interest fees on later statements. (Not sure what the different types of charges are -- would need to talk to a SME.) 
+  - There are admin fees on patient statements. Related to what statement is being sent. If the Veteran does not pay, there are admin and interest fees on later statements. (Not sure what the different types of charges are -- would need to talk to a SME.) Ultimately the Veteran's debt can go to the IRS, which can withhold tax refunds, etc. At that point, the Veteran must resolve the debt with the IRS.
 
 ### Do Veterans think of their medical expenses with VA as a part of their financial business with VA – or as separate? 
 (Examples of other financial things with VA are GI Bill payments and disability compensation. Both are payments to Veterans from VA.)
@@ -36,8 +36,8 @@ Related Links:
 - There's a disconnect with the payment history tool and where they access their copays (Medical Copay Tool).    
 
 ### How do Veterans usually pay copays? Through pay.gov or by mail?
-- I need to dig deeper on this. I believe most people preferred paying online but they struggled with certain aspects of Pay.gov such as finding their statement’s account number. We display the account number in the Medical Copay Tool so Veterans don’t need to download their statement to find that information. 
-- I recall one participant during our discovery research study that stated they’d pay by check because they were more comfortable. 
+- Riley: I need to dig deeper on this. I believe most people preferred paying online but they struggled with certain aspects of Pay.gov such as finding their statement’s account number. We display the account number in the Medical Copay Tool so Veterans don’t need to download their statement to find that information. 
+- Riley: I recall one participant during our discovery research study that stated they’d pay by check because they were more comfortable. 
 - When VA.gov directed people to Pay.gov, they were confused. Needed account number and people not know where to find it. So we make it easy to find in our tool (medical copays). 
 
 ### What charges/information could a “patient statement” contain?
