@@ -180,6 +180,7 @@ OCTO has the UX, UI, and technical infrastructure in place to support a good use
 ## Previously completed relevant work
 
 | Initiatives | Dependencies | Measurements | Status |
+| ---- | ---- | ---- | ---- |
 | [Documentation: Next steps for CMS localization plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/33629) | ---- | ---- | ---- |
 | [Discovery: "Fact Sheet" Database/Search functionality](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/34429) | ---- | ---- | ---- |
 
