@@ -1,5 +1,5 @@
 # Notes captured from the Debt Resolution Team
-Meeting with meeting with Riley Orr, designer working on medical copays and patient statements
+Meeting with meeting with Riley Orr, designer working on medical copays and patient statements </br>
 February 15, 2022
 
 ## What exactly does “copay” mean? What are examples of things that are copays?
