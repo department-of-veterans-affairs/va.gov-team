@@ -62,7 +62,7 @@ Examples of other financial things with VA are GI Bill payments and disability c
 - Currently Veterans only receive medical bills by mail. We are setting up notifications with VANotify. Not sure what the trigger for the notification will be.
 
 ### Do you have examples of patient statements you can share?
-- [Sample patient statement on UX pin.](https://preview.uxpin.com/a0f7710002cf5f0d104c63ea77f2c7112f0853f0#/pages//simulate/no-panels?mode=i0)
+- [Sample patient statement on UX pin](https://preview.uxpin.com/a0f7710002cf5f0d104c63ea77f2c7112f0853f0#/pages//simulate/no-panels?mode=i0)
 - [Guide to understanding your VA patient statement](https://www.va.gov/HEALTHBENEFITS/resources/publications/IB10-691-understanding_your_VA_patient_statement.pdf)
 
 
