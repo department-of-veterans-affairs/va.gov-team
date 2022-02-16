@@ -2,7 +2,6 @@
 ## Table of Contents
 - [Related Documents](#related-documents)
 - [Problem Statement](#problem-statement)
-- [Proposal](#proposal)
 - [Measuring Success](#measuring-success)
 - [Questions](#questions)
   - [UX Questions](#ux-questions)
@@ -26,7 +25,6 @@
 * [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)  
 
 ## Problem Statement
-## Proposal
 ## Measuring Success
 ## Questions
 ### UX Questions
