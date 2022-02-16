@@ -109,8 +109,7 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 
 * [Closed card sort (preview) - Optimal Workshop](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed)
 * [Closed card sort - Optimal Workshop](https://app.optimalworkshop.com/a/adhoc/optimalsort/surveys/53516949-eb96-4b85-b493-bda8794844c4/edit#/t/setup/cards)
-    * [Card Content (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=702138539)
-    * [Category Names (gDoc)](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=567294791)
+* [Card Content& Category Names](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort#:~:text=.%E2%80%8A.-,closed%2Dcard%2Dsort%2Dcategories%2Dand%2Dcard%2Dlist.md,-Create%20closed%2Dcard)
 * [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md)
 
 
