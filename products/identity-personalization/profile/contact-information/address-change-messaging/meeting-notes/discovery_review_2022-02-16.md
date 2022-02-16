@@ -28,7 +28,7 @@
 - ADD TO THIS PROJECT - Hint text to help users distinguish between home & mailing address
 - Address validation changes are out of scope for this
 - Edit on a separate page is out of scope for this
-- We won't update the address confirmation modal design at this time
+- We won't implment the address confirmation modal design at this time
 - We won't tackle the military address senario at this time
 - We don't need to change the FAQ content for contact information.
 
