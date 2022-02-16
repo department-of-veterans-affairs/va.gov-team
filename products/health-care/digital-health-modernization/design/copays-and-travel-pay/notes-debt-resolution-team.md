@@ -45,7 +45,7 @@ Related Links:
 - Medical care
 
 ### Could a patient statement have non-medical things on it?
-- Not that I’ve seen.
+- Riley: Not that I’ve seen.
 
 ### Will medical expenses become part of your payment history? 
 - Payment history now includes: disability compensation, pension, and education/GI Bill (as well as payments to survivors of Veterans or service members. [See payment history.](https://www.va.gov/va-payment-history/)
