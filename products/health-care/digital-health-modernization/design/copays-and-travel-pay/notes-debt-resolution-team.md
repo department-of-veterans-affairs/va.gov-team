@@ -1,6 +1,6 @@
 # Notes captured from the Debt Resolution Team
 Meeting notes from Riley Orr (designer working on medical copays and patient statements) and Meg Peters (designer for the health apartment)</br>
-February 15, 2022
+Team met with Riley February 15, 2022
 
 ### What exactly does “copay” mean? What are examples of things that are copays?
 - A copay is the amount the Veteran pays for medical care and pharmacy services depending on their priority group and whether the treatment is connected to their service. Their priority group is determined through multiple factors including income and disability rating. 
