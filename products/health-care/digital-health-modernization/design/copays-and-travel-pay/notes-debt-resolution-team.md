@@ -5,6 +5,8 @@ February 15, 2022
 ### What exactly does “copay” mean? What are examples of things that are copays?
 - A copay is the amount the Veteran pays for medical care and pharmacy services depending on their priority group and whether the treatment is connected to their service. Their priority group is determined through multiple factors including income and disability rating. 
 - Examples of copays: Refilling a prescription, medical care at a community care facility 
+- Amount of copay depends on what [priority group](https://www.va.gov/health-care/eligibility/priority-groups/) the Veteran is in and whether the treatment is connected to their service. 
+- Prosthetic socks and hearing aid batteries and accessories: Veteran does not pay for them. The tool on VA.gov populates whatever the doctor prescribed.
 
 Related Links:
 - [Copay rates](https://staging.va.gov/health-care/copay-rates/) 
@@ -12,9 +14,14 @@ Related Links:
 
 ### What is Veterans’ mental model of copays?
 - Veterans conceptualize their copay statements as bills. During discovery research, most of our participants called a piece of mail detailing their VA medical charges as ‘VA bill’ or ‘Billing statement’. Several also stated their bill would be sent to collections if they didn’t pay. [See related research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#overwhelmingly-veterans-conceptualize-the-veteran-patient-statements-as-bills)
+- Research shows that some things are confusing to Veterans: 
+  - The charges themselves on patient statements seemed dense. Veterans do not understand what they're being charged for. Example: 3 statements for prescription refill. If Veteran does not pay, then only 1st statement lists what they are being charged for. 
+  - There are admin fees on patient statements. Related to what statement is being sent. If the Veteran does not pay, there are admin and interest fees on later statements. (Not sure what the different types of charges are -- would need to talk to a SME.) 
 
 ### Do Veterans think of their medical expenses with VA as a part of their financial business with VA – or as separate? (Examples of other financial things with VA are GI Bill payments and disability compensation. Both are payments to Veterans from VA.)
 - Yes. During our discovery research, Veterans overwhelmingly expect to find all money owed to VA together. It’s also Congressionally mandated that we provide a way for Veterans to find information about all their debts in one place online, so we are currently working towards combining the existing VBA Debt Portal (education, disability compensation + pension debts) with the Medical Copay Tool. [See related research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/research/apr-2021/readout.md#overwhelmingly-veterans-conceptualize-the-veteran-patient-statements-as-bills)
+- If a Veteran overpays, VA will refund the debt if it's for VBA-related things (education, disability, and pension). For medical copays, VA puts that balance towards future copay charges. 
+- In summer of 2021, the Debt Resolution Team created concepts for combining all 3 tools: [VBA Debt Portal](https://www.va.gov/manage-va-debt/), [Medical Copay Tool](https://www.va.gov/health-care/pay-copay-bill/), and [Payment History](https://www.va.gov/va-payment-history/) 
 
 ### Please share insights from your research related to other key words (exs: “copayment,” “billing,” “bills,” “debt”) – or point us to this study.
 - During a study, we asked Veterans to search for a pathway to copayment information from the homepage, they primarily looked for a variation of “bill”:
