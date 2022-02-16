@@ -30,6 +30,7 @@
 - Edit on a separate page is out of scope for this
 - We won't update the modal design at this time
 - We won't tackle the military address senario at this time
+- We don't need to change the FAQ content for contact information.
 
 ## Tickets to create
 - ADD TO THIS PROJECT 
