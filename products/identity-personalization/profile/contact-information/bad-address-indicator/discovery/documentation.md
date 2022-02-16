@@ -46,21 +46,14 @@ DRAFT
 
 -   What form can this take? (see below / [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873))
 
-*Photo - exploration of questions*
 
 ## Thoroughly assessing root cause:
-
-*Photo - 5 Whys*
 
 Finding: Important to consider that not only do Veterans not have an indicator that their address is bad and an update is needed, they also need to understand the importance of updating this address and the negative consequences of not doing so - else risk that Veterans continue ignoring the prompt. If urgent enough, another option here is to require this change before anything else can be done on Profile.
 
 ## Overall user flow to consider edge cases:
 
-*Photo - user flow*
-
 ## Assessing Additional Risks in User Mistakes - Further Predicting User Mistakes
-
-*Photo - Unhappy path*
 
 Predicting all possible user mistakes to show pathways in which users may still not update their addresses, resulting in a few different ways to address this:
 
@@ -74,54 +67,51 @@ Predicting all possible user mistakes to show pathways in which users may still 
 
 -   New model reminders for Address change can help if a user accidentally updates home address instead of mailing address
 
+
 ## Possible Solutions:
 
 **Primary Alert Requirements**
-
 -   Once logged in, Inform user that there is an update to be made
-
 -   Convey that this update is important (and why) so it not ignored
 
 **Secondary Alert Requirements**
-
 -   Can this be combined with email after a certain period of time?
 
 **+ Related**
-
 -   Related: Hint text to clearly convey what mailing address is
 
 
 
 ### Option 1:
 
-**On overall Profile:** 
-
-Forced edit through entire page alert (one-per-page). Page that appears upon entering Profile and does not disappear until mailing address is updated. Using one-per-page editing - good opportunity to try out.
+-   **On overall Profile:** Forced edit through entire page alert (one-per-page). Page that appears upon entering Profile and does not disappear until mailing address is updated. Using one-per-page editing - good opportunity to try out.
 
 *Photos*
 
-### Option 2:
+### Option 2: (Preferred)
 
-**On pages other than in Profile:**
+-   **On pages other than in Profile:** In-line, profile-wide alert + 1 of the options for Contact Information page
 
-In-line, profile-wide alert + 1 of the options for Contact Information page
-
-**On Contact Page:**
-
-Either in-line alerts within page or only alert on page that prevents anything else from being done until edited (like notification settings)
+-   **On Contact Page:** Either in-line alerts within page or only alert on page that prevents anything else from being done until edited (like notification settings)
 
 *Photos*
 
 ### Additional:
-
-Outside of profile, alerts could be located in MyVA to alert Veterans that changes are needed on Profile:
+-   Outside of profile, alerts could be located in MyVA to alert Veterans that changes are needed on Profile:
 
 *Photo / Photo*
 
-## Remaining Overall Questions for Samara and Marci :
+## Meeting with Tom to understand restraints on alert timing
+Met with Tom to discuss any limitations to when/how to display alerts. He established that there is nothing that would prevent alerts from being be displayed immediately as Veteran enters Profile. Once updated, alerts can also be removed immediately.
 
--   How critical is this? Is it urgent enough to warrant preventing Veterans from doing anything else on Profile until they have updated this address?
+## Feedback from Samara and Marci
 
--   Can email be sent out after a certain amount of time? So not as many are needed?
+-   Email blast will act as the primary notifier - with alerts directly on the page as a secondary method to prompt updates. 
 
--   Would we consider placing something in the healthcare-related section of MyVA due to this address being related to prescriptions?
+-   We will go the route that includes less forceful, in-line alerts. We want users to update this, but we do not want to block any part of Profile in the meantime.
+
+-   The inclusion of something in MyVA (healthcare section or near "Go to profile") could be possible for future work but will not be addressed in this work.
+
+## Other Considerations:
+
+-   It is possible that in some cases, an address flagged as wrong could be correct. In final design, we need to incorporate the ability to approve address and override flag - like the solution already built in to confirm an address that has been flagged as incorrect.
