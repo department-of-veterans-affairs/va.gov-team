@@ -3,9 +3,8 @@ Meeting notes from Riley Orr (Debt Resolution Team designer working on medical c
 Team met with Riley February 15, 2022
 
 ### What exactly does “copay” mean? What are examples of things that are copays?
-- A copay is the amount the Veteran pays for medical care and pharmacy services depending on their priority group and whether the treatment is connected to their service. Their priority group is determined through multiple factors including income and disability rating. 
+- A copay is the amount the Veteran pays for medical care and pharmacy services depending on their [priority group](https://www.va.gov/health-care/eligibility/priority-groups/) and whether the treatment is connected to their service. Their priority group is determined through multiple factors including income and disability rating. 
 - Examples of copays: Refilling a prescription, medical care at a community care facility 
-- Amount of copay depends on what [priority group](https://www.va.gov/health-care/eligibility/priority-groups/) the Veteran is in and whether the treatment is connected to their service. 
 - Prosthetic socks and hearing aid batteries and accessories: Veteran does not pay for them. The tool on VA.gov populates whatever the doctor prescribed.
 
 Related Links:
