@@ -32,8 +32,9 @@ Related Links:
 ### Could a patient statement have non-medical things on it?
 - Not that I’ve seen.
 
-### Will medical expenses become part of your payment history? (Payment history now includes: disability compensation, pension, and education/GI Bill (as well as payments to survivors of Veterans or service members). [See payment history.](https://www.va.gov/va-payment-history/)
-- The payment history tool shows Veterans money that VA sends them. We played around with bringing the payment history tool into the combined VBA/VHA debt portal but there aren’t plans in the immediate future to bring all 3 tools (VBA Debt Portal, Medical Copay Tool, and Payment History) together. 
+### Will medical expenses become part of your payment history? 
+- Payment history now includes: disability compensation, pension, and education/GI Bill (as well as payments to survivors of Veterans or service members. [See payment history.](https://www.va.gov/va-payment-history/)
+- The payment history tool shows Veterans money that VA sends them. We played around with bringing the payment history tool into the combined VBA/VHA debt portal but there aren’t plans in the immediate future to bring all 3 tools together: [VBA Debt Portal](https://www.va.gov/manage-va-debt/), [Medical Copay Tool](https://www.va.gov/health-care/pay-copay-bill/), and [Payment History](https://www.va.gov/va-payment-history/). 
 
 
 
