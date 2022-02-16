@@ -18,7 +18,7 @@
 - [ ] Confirm all link text is 100 characters or less.
 - [ ] Check that you've selected a node ID for all links pointing to VA.gov (internal) pages. Only paste in a URL if the page you're linking to does not live in our CMS (isn't one of our modernized pages). [Learn how to add node IDs in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/linking-with-node-ids.md) 
 
-### Additional checks for Resources and Support articles
+### Resources and Support article standards
 
 - [ ] Character limit for subheads: Confirm H2s, H3s, and H4s are within the 70-character limit.
 - [ ] Related links: Confirm that you've added appropriate related links to the file (they should truly be related to the article—rather than “something the reader may also be interested in”).
@@ -27,9 +27,9 @@
 - [ ] Alternative text ("alt text") for any screen shots on the page: Confirm that screen shots or other images have alt text that describes the image. Screen readers will read this text to the user, and search engines use it to assess the purpose of the page. [Learn how to write alt text on WebAIM](https://webaim.org/techniques/alttext/)
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ. --ADD WHY HERE--
 
-**Also confirm these components are checked in the Drupal file:**</br>
-- [ ] The correct primary article category and additional article categories.
-- [ ] The correct benefit hub contacts.
-- [ ] The appropriate audience and topic tags.
-- [ ] "Repeat CTA buttons" box if it's a long article. This will display the action link at both the top and bottom of the page.
-- [ ] **For a single Q&A:** If you want a single Q&A to appear as a stand-alone article and not just as part of a multiple FAQ, click "Enable standalone Resources and support page for this Q&A."
+#### Drupal checks
+- [ ] Correct primary article category and additional article categories
+- [ ] Correct benefit hub contacts
+- [ ] Appropriate audience and topic tags
+- [ ] "Repeat CTA buttons" box if it's a long article (to display the action link(s) at both the top and bottom of the page)
+- [ ] If you want a single Q&A to appear as a stand-alone article and not just as part of a multiple FAQ, click "Enable standalone Resources and support page for this Q&A."
