@@ -109,7 +109,7 @@ We would like to get complete sorting responses from **at least 30 Veterans**, i
 
 * [Closed card sort (preview) - Optimal Workshop](https://adhoc.optimalworkshop.com/optimalsort/vamobileclosed)
 * [Closed card sort - Optimal Workshop](https://app.optimalworkshop.com/a/adhoc/optimalsort/surveys/53516949-eb96-4b85-b493-bda8794844c4/edit#/t/setup/cards)
-* [Card Content& Category Names](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort#:~:text=.%E2%80%8A.-,closed%2Dcard%2Dsort%2Dcategories%2Dand%2Dcard%2Dlist.md,-Create%20closed%2Dcard)
+* [Card Content & Category Names](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort#:~:text=.%E2%80%8A.-,closed%2Dcard%2Dsort%2Dcategories%2Dand%2Dcard%2Dlist.md,-Create%20closed%2Dcard)
 * [Recruiting email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-outreach-email.md)
 
 
@@ -179,7 +179,7 @@ We will provide an [email template](https://github.com/department-of-veterans-af
 
 We will include a required field at the beginning of the card sort to collect a code from each participant. We expect Perigean to generate and provide a unique code to each participant for tracking completion and compensation. In order to minimize abandonment, please make very clear to participants that they need to use this code when they start the card sort.
 
-We estimate it will take participants 15 minutes to complete the card sort.
+We estimate it will take participants 15 minutes or less to complete the card sort.
 
 
 ## Closed Card Sort Protocol
@@ -189,26 +189,27 @@ We estimate it will take participants 15 minutes to complete the card sort.
 * **Welcome**
     * Welcome to this OptimalSort study, and thank you for agreeing to participate!
     * The activity shouldn't take longer than 10 to 15 minutes to complete.
-    * Your response will help us to organize the content in our mobile app. Find out how on the next page…
+    * Your response will help us to organize the content in the VA mobile app. Find out how on the next page
    
-* **Pre-Study intro **
-    * Today we’re going to ask you to think about VA benefits and services.
+* **Pre-Study intro**
+    * Before we begin... Today we’re going to ask you to think about VA benefits and services.
 
 * **Pre-Study Question**
-    * Please enter the unique code provided to you by Perigean during the recruitment process.
+    * First, please enter the unique code provided to you by Perigean during the recruitment process.
 
 * **Instructions**
-    * Take a look at the list of items on the left. 
-    * We'd like you to sort those items into groups that make sense to you.
-    * Use the groups provided or create your own by dragging and dropping an item from the left into the space on the right.
-    * There is no right or wrong answer. Just do what comes naturally. If there are any cards that you feel uncertain about, please make note of those.
-    * When you're done click "Finished" at the top right. Have fun!
+    * Take a look at the list of cards on the left.
+    * We'd like you to **sort those cards into groups** that make sense to you:
+     * **Use the groups provided**, or
+     * If a card doesn't fit the provided groups, **create your own groups** by dragging and dropping a card from the left into the empty space on the right (and then give it a name of your own).
+    * If there are any cards you find confusing, make note of them.
+    * There is no right or wrong answer. Just do what comes naturally. When you're done click "Finished" at the top right.
 
 * **Thank You**
     * You’re all done!  Thanks again for your participation. Your feedback is incredibly useful in helping to determine how our content should be organized, so we can make the VA mobile app easier to use.
 
 * **Questionnaire**
-    * Were there any categories that you didn’t understand? 
+    * Were there any categories that you didn’t understand? (Checkbox Options: Health, Benefits, Payments, Account, General VA Info)
     * Were there any cards where you felt uncertain about what category to place them in? 
     * Have you used the VA mobile app?
     * You may now  close this window. 
@@ -253,17 +254,17 @@ N/A
 
 
 * Moderator: N/A
-* Research guide writing and task development: Holly Collier, Melissa Lefevre
+* Research guide writing and task development: [Holly Collier](https://github.com/htcollier), [Melissa Lefevre](https://github.com/melissa-lefevre)
 * Participant recruiting & screening: Perigean
-* Project point of contact: Holly Collier
+* Project point of contact: [Holly Collier](https://github.com/htcollier)
 * Participant(s) for pilot test: TBD
 
 
 
 ## Approvals
 
-
-* Reviewed and approved by Shane or Kevin on DATE TBD
+* Review by PO [Leanna Miller](https://github.com/leanna-usds) & [Travis Newby](https://github.com/travis-newby) by Feb 18, 2022
+* Reviewed and approved by Shane Strassberg or Clayton Zook on DATE TBD
 
 
 
