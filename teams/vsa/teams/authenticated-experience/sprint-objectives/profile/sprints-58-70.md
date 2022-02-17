@@ -442,12 +442,12 @@ Continue build; What do we still need to finish design and FE?
 **PM** 
 
 - If content/design isn't done, assess when we think that will be done based on Danielle's availability 
-- If time/if designs are done, work on contact center guide updates
+- If time and if designs are done, work on contact center guide updates
 
 **Design** 
 
 - Pending content being done, finish all design updates
-- If time/if designs are done, work on contact center guide updates
+- If time and if designs are done, work on contact center guide updates
 
 **FE** 
 
@@ -465,8 +465,8 @@ Personal information work is higher priority, so only move on to bad address ind
 **Design**
 
 - Design profile updates
-- Figure out what we need in bad address indicator email
-- Design intent, if time (stretch goal)
+- Bad address indicator email
+  - This likely involves deciding what the email needs, understanding how VANotify will format things, and submitting a content request for actual copy
 
 ### MHV profile research (Liz)
 
