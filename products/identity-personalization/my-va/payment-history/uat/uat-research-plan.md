@@ -41,7 +41,7 @@ Based on the outcome of this research study, we will either release our MVP to p
 - Veterans will be able to easily take action on their payment and debt information from My VA.
 - Veterans will expect to access co-pay information through the health section of My VA.
 - Veterans will not encounter any bugs in the Benefit payment and debt section.
--
+
 ## Method	
 We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions.
 
@@ -75,10 +75,8 @@ Please recruit 12 participants for 6 completed sessions.
 - All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
   
 - All participants should have received education benefit or compensation/pension payments from the VA. Screener question:
-  
-	  - Have you ever received an education, compensation, or pension payment from the VA?
-    
-	  - Answering yes would qualify the participant for the study.
+   - Have you ever received an education, compensation, or pension payment from the VA?
+   - Answering yes would qualify the participant for the study.
     
 - At least 50% of participants should have at least one outstanding VBA debt. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts: Screener questions:
   
@@ -92,10 +90,11 @@ Please recruit 12 participants for 6 completed sessions.
 - At least 50% of participants should identify as having a cognitive disability
 - At least 50% of participants should be younger than 55
 - Please recruit 4 participants who regularly use zoom magnification and can participate on a desktop device. Screener questions:
-1. Do you need to use zoom magnification in order to navigate websites? 
-2. Are you able to participate in the study via a desktop computer or laptop?
+   
+   1. Do you need to use zoom magnification in order to navigate websites? 
+   2. Are you able to participate in the study via a desktop computer or laptop?
 
-- Answering yes to question **1 AND 2** would qualify the participant for the study.
+   - Answering yes to question **1 AND 2** would qualify the participant for the study.
 
 #### Secondary criteria (nice-to-haves)
 ##### Inclusion:
@@ -142,9 +141,7 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| TBD | TBD |
-
-​	
+| TBD | TBD |	
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
