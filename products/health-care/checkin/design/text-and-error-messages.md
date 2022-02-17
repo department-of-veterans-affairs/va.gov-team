@@ -18,7 +18,7 @@ CHIP's [source of truth](https://github.com/department-of-veterans-affairs/chip/
 
 ### VA.gov
 
-| Scenario | Message | Visual |
+| Scenario | Message | Visual (will update to Sketch link) |
 | --- | --- | --- |
 | Identity Verification: last name and last 4 SSN do not match record AND the Veteran has attempted verification 3 or less times | Sorry, we couldn’t find an account that matches that last name or SSN. Please try again. | ![less than 3 retries](https://user-images.githubusercontent.com/66287082/152365205-135fd98a-3ae2-419d-8f80-530a82dc9adb.png) |
 | Identity Verification: last name and last 4 SSN do not match record AND the Veteran has attempted verification more than 3 times | (header) We couldn't check you in (body) We’re sorry. We couldn't match your information to our records. Please ask a staff member for help. | ![more than 3 retries](https://user-images.githubusercontent.com/66287082/152366348-aa16b649-c952-48ed-a3e8-30935d14b8ec.png) |
