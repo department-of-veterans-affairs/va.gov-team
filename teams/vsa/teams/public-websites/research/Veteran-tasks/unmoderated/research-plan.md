@@ -43,8 +43,8 @@ We would like to get complete sorting responses from **at least 30 Veterans and 
 *Action item: Add tokens to differentiate the different cohorts in the card sort and create distinct links for each cohort. Add links below.*
 
 ### Research materials
-- [Link to moderated research findings]()
-- [Link to online card sort]()
+- [Link to moderated research findings]()--NOT READY YET
+- [Link to online card sort]()--NOT READY YET
 
 
 ## Recruitment	
