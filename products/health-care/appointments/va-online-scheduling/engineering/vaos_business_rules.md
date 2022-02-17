@@ -117,21 +117,19 @@ In order to open VAOS on va.gov, a user must:
 
 ### Community care preferences
 
-- There are two versions of the preferences page, depending on if the user has a residential address on file
-    - When they have an address, users can choose a provider from a list of providers near their current address
-        - Providers are fetched from PPMS, using specialty codes mapped to the type of care the user has chosen
-        - Providers are sorted by closest to the user's residential address
-        - Only one provider can be chosen
-        - Providers can also be sorted by distance from the user's current location (via their browsers's location information)
-    - When they do not have an address, users can enter provider name, phone, and address information
-        - They're also given an option to choose the preferred language of their provider
-- On both versions of the page, if a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
-- After the user has chosen their parent facility and provider, they're sent to the community care language page (if they have a residential address) or the reason for appointment page (if they didn't have an address)
+- If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
+- Providers are fetched from PPMS, using specialty codes mapped to the type of care the user has chosen
+- Users are given an option to choose from a list of providers sorted by:
+    - Residential address (if they have a residential address on file) 
+    - User's current location (via their browsers's location information) 
+    - User's registered VistA sites
+- Only one provider can be chosen (original VAOS app can choose up to 3)
+- Users are sent to the community care language page (if they have a residential address) or the reason for appointment page (if they didn't have an address)
 
 ### Community care language page
 
 - A user can choose the preferred language of their provider
-- This page is only shown in the community care request path and if the user does not have a residential address on file
+- This page is only shown in the community care request path and if the user does not have a residential address on file (:warning: need to check on this requirement)
 - After choosing a language, the user is sent to the reason for appointment page
 
 ### Reason for visit page
