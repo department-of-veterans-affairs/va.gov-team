@@ -370,7 +370,28 @@ A note on stuff from last sprint:
 
 - Angela: 2/24 - 2/28
 
--  Start design for adding medical copay information
+### Payment information
+
+Sprint goal: Complete QA
+
+**PM**
+
+- Make sure QA is ready to go. All features/updates should be finished, and each team member should have reviewed the feature on staging to make sure it's good to go.
+- Submit Analytics request. 
+  - We need tracking for all the new links -- View payment history, direct deposit, clicks into the debt tool, and clicks for the new travel reimbursement link we added to health care. Otherwise, we should be good to go, as we already track searches initiated from this page on [the My VA 2.0 GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/XOEdSZeVT9qyxQU5T29PNw/a50123418w177519031p176188361/).
+  - [OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history#measuring-success) 
+
+**Design**
+
+- If not already done, complete UAT planning
+
+**FE**
+
+- N/A
+
+**QA**
+
+- Complete QA
 
 ## Sprint 69 (3/9 - 3/22)
 [Sprint 69 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30274)
