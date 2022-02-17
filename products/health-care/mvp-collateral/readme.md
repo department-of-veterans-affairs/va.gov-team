@@ -68,7 +68,8 @@ This one-pager explains what MVP is, how participation in MVP can help Veteransâ
 
 Below is a Word document with 7 Facebook posts, 7 Instagram posts, and 7 tweets. Please use the below graphic sized by platform to accompany your post or tweet. VA social media managers can also post this content directly from VAâ€™s Social Studio.
 
-- [Social media toolkit (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/doc/MVP-1M-campaign-social-media-toolkit.docx)
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/doc/MVP-1M-campaign-social-media-toolkit.docx">Social media toolkit (Word doc)</a>
+
 
 ### Social media graphics
 
