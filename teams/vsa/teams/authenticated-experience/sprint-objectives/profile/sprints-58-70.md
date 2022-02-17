@@ -435,6 +435,45 @@ A note on stuff from last sprint:
 
 ## Sprint 68 (2/23 - 3/8)
 
+### Personal information revisions
+
+Continue build; What do we still need to finish design and FE?
+
+**PM** 
+
+- If content/design isn't done, assess when we think that will be done based on Danielle's availability 
+- If time/if designs are done, work on contact center guide updates
+
+**Design** 
+
+- Pending content being done, finish all design updates
+- If time/if designs are done, work on contact center guide updates
+
+**FE** 
+
+- Implement any design updates that are ready
+- Pending design/content being done, finish FE 
+
+**BE** 
+
+- Provide estimate of how long BE build will take; Continue BE build"
+
+### Bad address indicator
+
+Personal information work is higher priority, so only move on to bad address indicator tasks as time allows.
+
+**Design**
+
+- Design profile updates
+- Figure out what we need in bad address indicator email
+- Design intent, if time (stretch goal)
+
+### MHV profile research (Liz)
+
+- Samara to intro this work to Marci & Liz
+- Liz to start research prep & planning
+  - We can talk more about what this should entail since it will be different than research planning for user testing
+  
 ## Sprint 69 (3/9 - 3/22)
 
 ## Sprint 70 (3/23 - 4/5)
