@@ -16,7 +16,7 @@
 - Claro update
 - Recurring Events update
 - Top Tasks update
- -  current email list of VAMC editors: existing or a .csv from the CMS team
+  -  current email list of VAMC editors: existing or a .csv from the CMS team
  
 - For VHADM: 
  - Communities of Practice reboot timing?
