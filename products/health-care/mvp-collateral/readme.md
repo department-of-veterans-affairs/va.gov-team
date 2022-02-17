@@ -34,7 +34,7 @@ This can be used by any VAMC whether or not they have an MVP clinic (it directs 
 Customizable:
 - [1920x1080 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1920x1080-custom.png)
 - [1280x720 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1280x720-custom.png)
-- [1237x926 customizable ad (PNG](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1237x926-custom.png)
+- [1237x926 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1237x926-custom.png)
 
 Non-customizable:
 - [1920x1080 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1920x1080-not-custom.png)
