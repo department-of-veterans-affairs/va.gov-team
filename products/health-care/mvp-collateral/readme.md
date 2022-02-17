@@ -44,7 +44,7 @@ Non-customizable:
 
 #### Customizable ad for VAMCs with an MVP Clinic:
 
-If your facility has an MVP clinic (you can check here), please add the MVP clinic location directly to the PPT slide (i.e., floor and room number). It is not permissible to include local staff contact information (staff phone numbers/emails). Please be sure to resize the PPT to your display size requirements.
+If your facility has an MVP clinic ([you can check here](https://www.research.va.gov/mvp/all-clinics.cfm)), please add the MVP clinic location directly to the PPT slide (i.e., floor and room number). It is not permissible to include local staff contact information (staff phone numbers/emails). Please be sure to resize the PPT to your display size requirements.
 
 PPT customizable
 
