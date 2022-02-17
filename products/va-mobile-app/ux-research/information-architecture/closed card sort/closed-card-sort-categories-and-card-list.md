@@ -46,7 +46,7 @@ Based on the findings from our [Open Card Sort](https://github.com/department-of
 ## Categories for Closed Card Sort
 Our hypothesis for the proposed categories (and the cards within them) are based on the dendrogram findings from the Open Card Sort, a review of the VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts, and was proceded by a ["bucket" exploration activity in mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1634908357710/58074b53d4942298679622026490db78c1ee8806?wid=0-1643840124216)
 ). Cards are listed here by short label - will use longer description text for card sort activity.
-| Health | Benefits | Payments | Account | General Information |
+| Health | Benefits | Payments | Account | General VA Info |
 | --- | --- | --- | --- | --- |
 | COVID-19 updates & information | claim status | disability compensation | biometric sign on setting | Contact the VA |
 | vaccine records | VA letters and documents (called benefit letters on va.gov) | education payments | notification settings | Find a VA location |
