@@ -11,13 +11,24 @@ assignees: ''
 Fill out name of individual and *Description* section below.
 
 # Description
-- Please provide the name of the individual needing offboarded.
-   > Janet Doe
-- Please provide the name of their team, their role on that team, expected last day, and the name of the company they work for.
-   > this adds context
-- Please provide any type of access they may have and their GitHub username. 
+Please provide the following information about the individual being offboarded:
+- name:
+  > Janet Doe
+- team name:
+  > 
+- role on team:
+  > 
+- expected last day:
+  > 
+- company they work for:
+  > 
+- email:
+  > 
+- GitHub username:
+  > 
+- additional access they may have:
   > ex: SOCKS, Pagerduty, Google analytics, etc.
-  
+ 
  
 ## AC
 *Performed by Platform team*
