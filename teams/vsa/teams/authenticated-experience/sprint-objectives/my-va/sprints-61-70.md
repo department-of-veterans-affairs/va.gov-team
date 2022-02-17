@@ -393,6 +393,19 @@ Sprint goal: Complete QA
 
 - Complete QA
 
+### Medical copays
+
+**PM**
+
+- Fill out collab kickoff ticket
+  - You might want to clarify that this is a pretty small effort, but we'll likely want support for design and research, since this has a research component. Otherwise, we're happy to do whatever reviews they recommend, but they should all be brief and super easy. 
+
+**Design**
+
+- Discovery
+- Design exploration
+- Design intent, if we're ready for it. This can be moved to the following sprint if need be.
+
 ## Sprint 69 (3/9 - 3/22)
 [Sprint 69 Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30274)
 
