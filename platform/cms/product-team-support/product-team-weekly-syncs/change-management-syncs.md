@@ -34,18 +34,19 @@
 ### Meeting Notes
 
 #### Claro (Rachel Kauff)
-20 people have tried demo environment out of 800 as of Feb. 16
-Developer login was confusing people, which is good! The design intention to use PIV is working
-Backlog item to remove PIV on lower environments to remove confusion
-Site alert up on prod with link to KB article
-Survey up for several weeks after launch
+- Launch set for 3:30 pm ET, February 22
+- 20 people have tried demo environment out of 800 as of Feb. 16
+- Developer login was confusing people, which is good! The design intention to have editors use PIV is working
+- We have a backlog item to remove PIV on lower environments to remove confusion (no decision)
+- Site alert is up on prod with link to KB article
+- Will have survey up for several weeks after launch
 
 #### Recurring events (Rachel Kauff)
 - Email announcement as the feature is being launched with feedback survey and link to KB article
 - Can’t use login page alert because Vet Centers will see it
 
 #### Top tasks (Suzanne Gray)
-**Changing launch date to March 15** on the CMS Sitewide team timeline but actual launch could be later in March
+**DECISION: Changing launch date to March 15** on the CMS Sitewide team timeline but actual launch could be later in March
 - Facilities FE work may impact timeline and move us out a sprint
 - Suzanne will follow-up to get FE dependency details
 
