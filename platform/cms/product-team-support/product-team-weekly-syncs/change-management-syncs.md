@@ -24,3 +24,5 @@
   - Listening session analysis
 
 - Coming next 2 weeks: RACI and process mapping
+
+### Meeting Notes
