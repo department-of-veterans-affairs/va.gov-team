@@ -5,11 +5,11 @@
 
 ## Handoff Requirements / Assumptions from Enrollment System (ES)
 
-* ES will send 1 new flat file approximately 2 times each week
+* ES will send new flat file(s) approximately 2 times each week
 * Flat file will maintain format specified in PDF doc 
 * ES will provide dump of *all* 1095B data for initial population of database
 * ES is responsible for maintaining batch script that sends flat files
-* ES will provide any necessary security credentials needed for S3 bucket to receive flat files
+* ES and MOVE will share any security credentials needed for S3 bucket to receive flat file(s)
 
 ## Checklist of Items to Resolve
 
