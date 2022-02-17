@@ -1,6 +1,6 @@
 # Research Plan for VA Mobile App Information Architecture Research: Closed Card Sort (part 2 of 3)
 
-This work falls within the first phase of a three-phase project. For a summary of the entire project, see [VA Mobile App User Research: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture-navigation/High%20Level%20Project%20Summary.md). 
+This work falls within the first phase of a three-phase Mobile IA & Navigation project that will contribute to the [Redesign of the VA Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md). It is the second of a three part of IA research study, and was preceded by an [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md). For a summary of the entire project, see [VA Mobile App User Research: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture-navigation/High%20Level%20Project%20Summary.md).
 
 
 ## Background
@@ -45,7 +45,7 @@ The following are the [OCTO-DE goals](https://github.com/department-of-veterans-
 
 ### Previous User Research
 
-* An Open Card sort study [Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (part 1 of 3)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md) was conducted in October 2021.
+* An Open Card sort study [Research Plan for VA Mobile App Information Architecture Research: Open Card Sort (part 1 of 3)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md) was conducted in October 2021.  The cards in the open sort represented current app functionality + planned/proposed app functionality. Their selection was based on conversations with stakeholders.
 
 
 
@@ -58,14 +58,14 @@ Fulfills [issue #2552](https://github.com/department-of-veterans-affairs/va-mobi
 
 The purpose of this work is to inform the information architecture, content and design of the VA Mobile app in order to deliver a solution that is usable, useful, and extensible, before we scale the app to a larger audience. See [VA Mobile App User Research: Information Architecture & Navigation - High Level Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture-navigation/High%20Level%20Project%20Summary.md) for a high level summary of the entire 3-phase process.
 
-Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort**) is to understand how users think about the current and possible future content in the VA mobile app based on a group of 35 cards, including:
-
-* **Understanding how participants would group and name** the current and proposed VA Mobile App content.
+Our **goal** in this study **(**Phase I - IA Research - Pt 2 - Closed Card Sort**) is to:
+* **understand how users think about the current and possible future content** in the VA mobile app 
+* **confirm what the high-level information architecture categories** should be in the VA mobile app
 
 
 ### Outcome
 
-This research will allow us to adjust the information architecture in the app to accommodate future features before we scale the app to a larger audience. This is important as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows.
+This research will allow us to adjust the information architecture (and navigation model) in the app to accommodate future features before we scale the app to a larger audience. This is important as it will allow us to easily add those future features without having to make Veterans learn new navigation paths as the app grows.
 
 
 ### Research Questions
@@ -83,7 +83,8 @@ This research will allow us to adjust the information architecture in the app to
 
 1. Veterans will be able to categorize cards and name groups of cards presented in the card sort.
 2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov.
-3. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
+3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
+4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
 
 
 
@@ -103,6 +104,9 @@ In a closed card sort, participants are asked to sort topics from content within
 Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 35 pieces of current & proposed content from the VA mobile app. Each participant sorts the content cards into one of several fixed categories (i.e., Health, Benefits, etc). They will also be able to add new categories.
 
 We would like to get complete sorting responses from **at least 30 Veterans**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
+
+* The [cards for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#card-list-for-closed-card-sort) are (with a couple exceptions) the same cards that were included in the [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md), but with reworked descriptions for clarity).
+* The [categories for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#categories-for-closed-card-sort) were based on the[findings from the Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md), a review of the current VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts).
 
 
 #### Research materials
