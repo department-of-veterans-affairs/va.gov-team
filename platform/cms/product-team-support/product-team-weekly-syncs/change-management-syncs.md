@@ -19,8 +19,8 @@
   -  current email list of VAMC editors: existing or a .csv from the CMS team
  
 - For VHADM: 
- - Communities of Practice reboot timing?
- - Editor support (Blake and Robin): definition of roles
- - Listening session analysis
+  - Communities of Practice reboot timing?
+  - Editor support (Blake and Robin): definition of roles
+  - Listening session analysis
 
 - Coming next 2 weeks: RACI and process mapping
