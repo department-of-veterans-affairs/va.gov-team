@@ -42,6 +42,7 @@
 - Will have survey up for several weeks after launch
 
 #### Recurring events (Rachel Kauff)
+- Launch set for March 1
 - Email announcement as the feature is being launched with feedback survey and link to KB article
 - Can’t use login page alert because Vet Centers will see it
 
@@ -55,13 +56,13 @@ Deadline to complete the top task work: 30 days out from launch (agreed as an ex
 
 Dave: future work required of editors may require more effort and would have different timeframes
 
-**Communications options to be managed by VHA DM**
-- draft reminder email
+**Communications to be managed by VHA DM**
+- draft reminder emails to all VAMCs and for dry run
 - send emails to VAMC editors, VISNs
 - manage VHA Editors mailing list
-- PAO Newsletter (weekly either Monday or Wednesday)
-- PAO Officer Meeting
-- CMOs to raise awareness and reasons for the work (top task pages are important)
+- announcing in PAO Newsletter (weekly either Monday or Wednesday)
+- announcing at monthly PAO Meeting
+- (under consideration) emailing CMOs to raise awareness and reasons for the work (top task pages are important)
 
 **Communications support from CMS team**
 - trackable links to KB for emails
@@ -72,7 +73,7 @@ Dave: future work required of editors may require more effort and would have dif
 - 2 weeks before launch
 - includes creation of the 3 pages and publishing live
 - VHA DM will need to draft email by Feb. 25 for dry run participants
--  CMS team to work with a few PAOs to test instructions for clarity and self-service and process of updating top task pages
+- CMS team to work with a few PAOs to test instructions for clarity and self-service and process of updating top task pages
 - Candidates: 
   - Erika has names from an earlier meeting with Stan
   - Tara Ricks, VISN 6, new user to have their webmaster test drive the process
