@@ -42,8 +42,8 @@ The card sort will be built in Optimal Workshop and will contain a list of about
 *Action item: Get Optimal Workshop license, and create a card sort with different tokens for recruiting cohorts.*
 
 ### Research materials
-- [Link to conversation guide]()
-- [Link to online card sort]()
+- [Link to conversation guide]()--NOT READY YET
+- [Link to online card sort]()--NOT READY YET
 
 
 ## Recruitment	
