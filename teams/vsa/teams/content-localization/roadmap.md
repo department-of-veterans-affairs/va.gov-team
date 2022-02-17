@@ -186,7 +186,7 @@ OCTO has the UX, UI, and technical infrastructure in place to support a good use
 | [Document and Test Xliff on Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33052) | ---- | ---- | Done |
 | [Documentation Public API & Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32974) | ---- | ---- | Done |
 | [Test and Document CAT Tool using Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33054) | ---- | ---- | Done |
-| [Decision Log - I18N Base Library](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32696) | ---- | ---- | ---- |
+| [Decision Log - I18N Base Library](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32696) | ---- | ---- | Done |
 | [Discovery - Document 1010CG and global component needs for I18N](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32694) | ---- | ---- | Done |
 | [Documentation - Translation of Static Content Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29950) | ---- | ---- | Done |
 | [Documentation & Diagram Form Application](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30195) | ---- | ---- | Done |
