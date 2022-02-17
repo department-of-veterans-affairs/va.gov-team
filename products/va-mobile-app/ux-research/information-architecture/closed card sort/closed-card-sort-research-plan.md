@@ -7,7 +7,7 @@ This work falls within the first phase of a three-phase Mobile IA & Navigation p
 
 The VA Mobile app was designed to allow Veterans to more easily complete key transactions across VA Health and Benefits services. 
 
-As the app grows in its feature set, the VA Mobile App team needs a better understanding of how Veterans would navigate benefits and health services within the mobile app. We want to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as of interest on our roadmap. 
+As the app grows in its feature set, the VA Mobile App team needs a better understanding of how Veterans would navigate benefits and health services within the mobile app. We want to ensure the structure and organization of the app makes sense and can accommodate the new features we have identified as being of interest on our roadmap. Because the mobile app is not the only way that veterans interact with the VA, we also want to ensure that we're considering that larger system of digital and analog touchpoints when we think about our approach to how Veterans find information and features within the app.
 
 [Link to Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md)
 
@@ -96,17 +96,17 @@ This research will allow us to adjust the information architecture (and navigati
 
 #### What it is
 
-In a closed card sort, participants are asked to sort topics from content within your website into predefined categories. A closed card sort works best when you are working with a predefined set of categories, and you want to learn how users sort content items into each category. [Usability.gov - Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+*In a closed card sort, participants are asked to sort topics from content within your website into predefined categories. A closed card sort works best when you are working with a predefined set of categories, and you want to learn how users sort content items into each category. [Usability.gov - Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)*
 
 
 #### Method
 
-Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 35 pieces of current & proposed content from the VA mobile app. Each participant sorts the content cards into one of several fixed categories (i.e., Health, Benefits, etc). They will also be able to add new categories.
+Using Optimal Workshop, we would like to conduct an unmoderated study in which participants are invited by email to participate. After accepting the invitation, participants will receive a link to a card sort activity that contains a list of about 35 pieces of current & proposed content from the VA mobile app. Each participant sorts the content cards into one of several fixed categories (i.e., Health, Benefits, etc). They will also be able to add new categories if they feel that a card doesn't fit into the provided categories.
 
 We would like to get complete sorting responses from **at least 30 Veterans**, in distinct cohorts of fewer than 10 participants per cohort (per PRA). Each cohort will access the study using a unique URL.
 
 * The [cards for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#card-list-for-closed-card-sort) are (with a couple exceptions) the same cards that were included in the [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-Sort-Research-Plan.md), but with reworked descriptions for clarity).
-* The [categories for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#categories-for-closed-card-sort) were based on the[findings from the Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md), a review of the current VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts).
+* The [categories for this study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort/closed-card-sort-categories-and-card-list.md#categories-for-closed-card-sort) were based on the [findings from the Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/Card-Sort-Research-Plan.md), a review of the current VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts).
 
 
 #### Research materials
@@ -226,7 +226,7 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 
 
 ### Prepare
-* Revise card descrtiption text based on open card sort findings
+* Revise card description text based on open card sort findings
 * Create set/s of category labels for closed card sort test/s based on open card sort findings (+ team POV)
 * Create closed card sort test/s on [OptimalWorkShop.com](optimalWorkShop.com)
 * Test card sort preview link with internal UX team members on February 14 & 15, 2022
