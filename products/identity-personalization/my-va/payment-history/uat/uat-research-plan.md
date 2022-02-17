@@ -43,14 +43,14 @@ Based on the outcome of this research study, we will either release our MVP to p
 - Veterans will not encounter any bugs in the Benefit payment and debt section.
 -
 ## Method	
-User acceptance testing (UAT)
+We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions.
 
 ### Location
 Remote via Zoom
 
 ### Research materials
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/uat/notification-preferences-uat-convo-guide.md) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md) 
 
 ## Recruitment	
 Our intended audience for this research is BIPOC Veterans who have payments and debt with VA. We'll use Perigean to recruit them.
