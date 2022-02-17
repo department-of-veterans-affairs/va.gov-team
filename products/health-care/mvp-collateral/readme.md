@@ -1,8 +1,8 @@
 # Million Veteran Program (MVP) Communications & Outreach Toolkits
 
 Contents:
-1. [1 Million Countdown - Current Campaign](#1-million-countdown-campaign-toolkit)
-2. [Women Veterans - Past Campaign](#women-veterans-campaign-toolkit)
+1. **New!** [1 Million Countdown Campaign](#1-million-countdown-campaign-toolkit)
+2. [Women Veterans Campaign](#women-veterans-campaign-toolkit)
 
 ## 1 Million Countdown Campaign Toolkit
 
@@ -92,8 +92,6 @@ The Million Veteran Program invites you to join our campaign to engage and enrol
 
 **Campaign Goal:** To increase awareness among women Veterans, advocates, and other stakeholders about the MVP program, with the ultimate goal of increasing the number and diversity of women enrolled. For more information on the campaign, and the importance of engaging more women Veterans, please read our <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/pdf/MVP-Women-Veterans-Initiative-Brief.pdf">one-page briefer (PDF)</a>.
 
-**Campaign Duration:** March 1, 2021 (Women’s History Month) – September 30, 2021 
-
 You can help by sharing the materials uploaded to this communication toolkit:
 1. [Ad for VAMC televisions and digital screens](#ad-for-vamc-televisions-and-digital-screens)
 2. [Flyers and posters](#flyers-and-posters)
@@ -110,7 +108,7 @@ You can help by sharing the materials uploaded to this communication toolkit:
 
 Please feel free to distribute and share as appropriate. 
 
-**Questions?** Contact Jennifer.Deen@va.gov or Shakeria.Cohen@va.gov
+**Questions?** Contact Jennifer.Deen@va.gov or Claudia.Gutierrez@va.gov
 
 ### Ad for VAMC televisions and digital screens
 
