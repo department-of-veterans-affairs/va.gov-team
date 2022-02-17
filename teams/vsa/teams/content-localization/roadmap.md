@@ -181,16 +181,16 @@ OCTO has the UX, UI, and technical infrastructure in place to support a good use
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| [Documentation: Next steps for CMS localization plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/33629) | ---- | ---- | ---- |
-| [Discovery: "Fact Sheet" Database/Search functionality](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/34429) | ---- | ---- | ---- |
-| [Document and Test Xliff on Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33052) | ---- | ---- | ---- |
-| [Documentation  Public API & Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32974) | ---- | ---- | ---- |
-| [Test and Document CAT Tool using Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33054) | ---- | ---- | ---- |
+| [Documentation: Next steps for CMS localization plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/33629) | Public content api available | ---- | Done |
+| [Discovery: "Fact Sheet" Database/Search functionality](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/34429) | ---- | ---- | Done |
+| [Document and Test Xliff on Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33052) | Installation of mult-lingual modules on Drupal CMS | ---- | Done |
+| [Documentation Public API & Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32974) | ---- | ---- | Done |
+| [Test and Document CAT Tool using Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33054) | ---- | ---- | Done |
 | [Decision Log - I18N Base Library](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32696) | ---- | ---- | ---- |
-| [Discovery - Document 1010CG and global component needs for I18N](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32694) | ---- | ---- | ---- |
-| [Documentation - Translation of Static Content Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29950) | ---- | ---- | ---- |
-| [Documentation & Diagram Form Application](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30195) | ---- | ---- | ---- |
-| [DISCOVERY - Localization for Non-Latin Languages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28981) | ---- | ---- | ---- |
+| [Discovery - Document 1010CG and global component needs for I18N](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32694) | ---- | ---- | Done |
+| [Documentation - Translation of Static Content Solution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/29950) | ---- | ---- | Done |
+| [Documentation & Diagram Form Application](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30195) | ---- | ---- | Done |
+| [DISCOVERY - Localization for Non-Latin Languages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28981) | ---- | ---- | Done |
 
 
 
