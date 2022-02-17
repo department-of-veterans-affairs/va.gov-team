@@ -181,9 +181,9 @@ OCTO has the UX, UI, and technical infrastructure in place to support a good use
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| [Documentation: Next steps for CMS localization plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/33629) | Public content api available | ---- | Done |
+| [Documentation: Next steps for CMS localization plan](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/33629) | ---- | ---- | Done |
 | [Discovery: "Fact Sheet" Database/Search functionality](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/34429) | ---- | ---- | Done |
-| [Document and Test Xliff on Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33052) | Installation of mult-lingual modules on Drupal CMS | ---- | Done |
+| [Document and Test Xliff on Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33052) | ---- | ---- | Done |
 | [Documentation Public API & Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32974) | ---- | ---- | Done |
 | [Test and Document CAT Tool using Drupal Instance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33054) | ---- | ---- | Done |
 | [Decision Log - I18N Base Library](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32696) | ---- | ---- | ---- |
