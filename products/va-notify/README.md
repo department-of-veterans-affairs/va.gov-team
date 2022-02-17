@@ -151,9 +151,9 @@ Lighthouse
 
 ## Incident Response ##
 Points of contact:
-* Co-Tech Lead: [Filip Fafara](mailto://filip.fafara@va.gov)
-* Co-Tech Lead: [Philip.Herbert](mailto://philip.herbert@va.gov)
-* Product Manager: [Maria Becker](mailto://maria.becker@va.gov)
+* Lead: [Kyle MacMillan](mailto://kyle.macmillan@oddball.io)
+* Notifications SME: [Jacob Cheriathundam](mailto://jacob@docme360.com)
+* Product Manager: [Melanie Jones](mailto://melanie.jones@oddball.io)
 
 ## Terms and Conditions
 Please refer to the VA's [Digital Notification Terms and Conditions](https://www.va.gov/privacy-policy/digital-notifications-terms-and-conditions/) page to read about the VA's frequency, guidelines and policies around email, text, and online notifications to Veterans.
