@@ -22,6 +22,7 @@
   -  current email list of VAMC editors: existing or a .csv from the CMS team
   -  pre-launch possibility with VISN 19 as a dry run
   -  pre-launch email to Product Managers/Owners
+  -  dashboard: any features people want to see?
 
 - For VHADM: 
   - Communities of Practice reboot timing?
