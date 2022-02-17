@@ -44,18 +44,15 @@ Non-customizable:
 
 #### Customizable ad for VAMCs with an MVP Clinic:
 
-If your facility has an MVP clinic (you can check here), please add the MVP clinic location directly to the PPT slide (i.e., floor and room number). It is not permissible to include local staff contact information (staff phone numbers/emails).
-
-Please be sure to resize the PPT to your display size requirements.
+If your facility has an MVP clinic (you can check here), please add the MVP clinic location directly to the PPT slide (i.e., floor and room number). It is not permissible to include local staff contact information (staff phone numbers/emails). Please be sure to resize the PPT to your display size requirements.
 
 PPT customizable
 
 
 ### Posters
 
-Each PDF poster has the same content but different portraits and color schemes to accommodate a variety of Veteran audiences. Please use whichever poster best reflects your community.
+Each PDF poster has the same content but different portraits and color schemes to accommodate a variety of Veteran audiences. Please use whichever poster best reflects your community. For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
 
-For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
 - [8.5x11 flyer (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-8.5x11-flyer.pdf)
 - [11x17 poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-11x17-poster.pdf)
 - [24x36 larger poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-24x36-poster.pdf)
@@ -71,9 +68,10 @@ This one-pager explains what MVP is, how participation in MVP can help Veterans�
 
 Below is a Word document with 7 Facebook posts, 7 Instagram posts, and 7 tweets. Please use the below graphic sized by platform to accompany your post or tweet. VA social media managers can also post this content directly from VA’s Social Studio.
 
+- [Social media toolkit (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/doc/MVP-1M-campaign-social-media-toolkit.docx)
+
 ### Social media graphics
 
-Social media graphic
 - [Facebook image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-FB.png)
 - [Instagram image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-IG.png)
 - [Twitter image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Twitter.png)
