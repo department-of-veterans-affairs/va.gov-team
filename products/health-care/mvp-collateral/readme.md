@@ -1,6 +1,10 @@
 # Million Veteran Program (MVP) Communications & Outreach Toolkits
 
-## Current Campaign: 1 Million Countdown
+Contents:
+1. [1 Million Countdown - Current Campaign](#1-million-countdown-campaign-toolkit)
+2. [Women Veterans - Past Campaign](#women-veterans-campaign-toolkit)
+
+## 1 Million Countdown Campaign Toolkit
 
 **What is MVP:** The Million Veteran Program (MVP) is a national research program to learn how genes, lifestyle, and military exposures affect health and illness. Since launching in 2011, over 865,000 Veterans have joined MVP, making it one of the world’s largest programs on genetics and health.
 
@@ -8,12 +12,12 @@
 
 **You can help us reach this historic milestone.** Use the materials in this toolkit to spread the word about MVP among Veterans, family, friends, and advocates:
 
-1. Digital advertisements (for VAMC televisions and digital screens)
-2. Posters
-3. One-pager
-4. Social media toolkit
-5. Social media graphics
-6. Other content (articles, news releases, podcasts, etc.)
+1. [Digital advertisements (for VAMC televisions and digital screens)](#digital-ads-for-vamc-televisions-and-digital-screens)
+2. [Posters](#posters)
+3. [One-pager](#one-pager)
+4. [Social media toolkit](#social-media-toolkit)
+5. [Social media graphics](#social-media-graphics)
+6. [Other content (articles, news releases, podcasts, etc.)](#other-content)
 
 For outreach to women Veterans, you can also use these tailored materials from MVP’s women’s campaign. Materials include posters, videos, social media, blogs, a one-pager, and more.
 
@@ -26,15 +30,25 @@ Below are two advertisements that can be used on digital screens in elevators, w
 #### Digital ad for all VAMCs:
 
 This can be used by any VAMC whether or not they have an MVP clinic (it directs Veterans to join online at mvp.va.gov).
-- PNG non-customizable 1920x1080
-- PNG non-customizable 1237x926
+
+Customizable:
+- [1920x1080 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1920x1080-custom.png)
+- [1280x720 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1280x720-custom.png)
+- [1237x926 customizable ad (PNG](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1237x926-custom.png)
+
+Non-customizable:
+- [1920x1080 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1920x1080-not-custom.png)
+- [1280x720 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1280x720-not-custom.png)
+- [1237x926 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1237x926-not-custom.png)
+
 
 #### Customizable ad for VAMCs with an MVP Clinic:
 
 If your facility has an MVP clinic (you can check here), please add the MVP clinic location directly to the PPT slide (i.e., floor and room number). It is not permissible to include local staff contact information (staff phone numbers/emails).
 
 Please be sure to resize the PPT to your display size requirements.
-·      PPT customizable
+
+PPT customizable
 
 
 ### Posters
@@ -42,23 +56,27 @@ Please be sure to resize the PPT to your display size requirements.
 Each PDF poster has the same content but different portraits and color schemes to accommodate a variety of Veteran audiences. Please use whichever poster best reflects your community.
 
 For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
-- Poster 1: 8X11, 11X17 and 27X33
-- Poster 2: 8X11, 11X17 and 27X33
-- Poster 3: 8X11, 11X17 and 27X33
-- Poster 4: 8X11, 11X17 and 27X33
+- [8.5x11 flyer (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-8.5x11-flyer.pdf)
+- [11x17 poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-11x17-poster.pdf)
+- [24x36 larger poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-24x36-poster.pdf)
 
 ### One-pager
 
 This one-pager explains what MVP is, how participation in MVP can help Veterans’ health, what it means to participate, and how to enroll in the program.
-·      One-pager (PDF): 8.5X11 (flyer), 11X17 (poster) and 27X33 (larger poster)
+
+- [One-pager (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-1-pager.pdf)
+
 
 ### Social media toolkit
 
 Below is a Word document with 7 Facebook posts, 7 Instagram posts, and 7 tweets. Please use the below graphic sized by platform to accompany your post or tweet. VA social media managers can also post this content directly from VA’s Social Studio.
 
-### Social media posts
+### Social media graphics
 
-Social media graphic: Facebook image, Instagram image, and Twitter image
+Social media graphic
+- [Facebook image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-FB.png)
+- [Instagram image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-IG.png)
+- [Twitter image (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Twitter.png)
 
 ### Other content
 
@@ -69,7 +87,7 @@ Note: Newest content is listed first
 
 
 
-## Past Campaign: Women Veterans
+## Women Veterans Campaign Toolkit
 
 The Million Veteran Program invites you to join our campaign to engage and enroll more women Veterans. 
 
