@@ -1,4 +1,4 @@
-- # Mobile App UX Design
+# Mobile App UX Design
 
   This folder is where UX assets for mobile app live or are linked to.
 
