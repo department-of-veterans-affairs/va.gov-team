@@ -43,8 +43,16 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 **How many alerts should appear and where?**
 -   If home address cannot be updated, alert will appear on page.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/home_address_error_alert_on_page.png" />
+
 -   If mailing address cannot be updated during modal flow, in-line error message will appear above the modal buttons - and follow the regular design system guidelines as if this were a page. Following these patterns, this can be retried a few times (guidelines should be in design system) and then at some point close becomes the only option.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/mailing_address_error_alert_in_modal.png" />
+
 -   If both home and mailing are successfully updated after modal flow, two success alerts are shown on the Contact info page. **Why two?** Discussed that having the two alerts does best follow alert guidelines in the design system and logic used elsewhere "after something happens." Best follows user's mental model at this point.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/double_success_alert.png" />
 
 ### Checkbox and modal use
 **Reasoning for why no checkbox in mailing:** 
@@ -69,3 +77,6 @@ I believe this pertains to what Liz had already mocked up for the new versions o
 ### Could we (long term) remove the USPS address validation step if we did validation on the fly while someone inputs an address into the form fields?
 
 ### Military base checkbox
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/military_base_checkbox.png" />
+
