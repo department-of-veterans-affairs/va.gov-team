@@ -1,7 +1,6 @@
 # Research Plan for Authenticated Experience, My VA Benefit Payments and Debts UAT, March 2022
 
 ## Background
-
 Throughout  [My VA 2.0 research and discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research)  in 2020 - 2021, the recurring theme mentioned by Veterans is that seeing payment info on their My VA dashboard is a high priority. The importance of payment information is also reflected in analytics, as viewing payments is a top interaction on VA.gov overall and is a top search term from the My VA dashboard.
 
 This effort aims to add payment information to the My VA dashboard to be elevated for logged-in Veteran’s awareness and attention, as the MVP.
@@ -9,13 +8,11 @@ This effort aims to add payment information to the My VA dashboard to be elevate
 See our [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/payment-history) for more details.
 
 ### OCTO-DE Objectives 
-
 The addition of a payment information section should help fulfill our north star objective of moving toward My VA being the one-stop shop for action items and benefit status, so that it provides more direct, personalized routes to Veterans’ most critical updates and tasks
 
 
 ### Veteran Journey
-
-Since Veterans can incur debt any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
+Since Veterans can incur debt any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
 
 
 ## Research Goals	
@@ -31,7 +28,6 @@ As secondary goals, we’ll follow up on [our last usability study](https://gith
 Based on the outcome of this research study, we will either release our MVP to production, or update our design to correct any significant usability hurdles people encounter.
 
 ### Research questions
-
 - Does the functionality work as expected?
 - Are Veterans able to take action on their payment or debt information without any usability hurdles?
 - Is it important to Veterans with debt to see the number of outstanding debts they have, or just that they have debt?
@@ -39,23 +35,25 @@ Based on the outcome of this research study, we will either release our MVP to p
 
 ### Hypothesis
 - Veterans will be able to easily take action on their payment and debt information from My VA.
-- Veterans will expect to access co-pay information through the health section of My VA.
 - Veterans will not encounter any bugs in the Benefit payment and debt section.
+- Veterans will expect to access co-pay information through the health section of My VA.
+
+ *Action item*: confirm we want to include something about co-pays in UAT
+
 
 ## Method	
 We'll have participants go through a list of specific tasks for UAT, and ask follow-up questions to get feedback on our usability related questions.
 
 ### Location
-Remote via Zoom
+Remote, via Zoom
 
 ### Research materials
-
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/uat/uat-conversation-guide.md) 
 
 ## Recruitment	
 Our intended audience for this research is BIPOC Veterans who have payments and debt with VA. We'll use Perigean to recruit them.
 
-We'll focus our recruitment criteria on the marginalized groups we didn't speak with during our first study (see below).
+We'll focus our recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/discovery-and-research/user-research/findings.md).
 
 ### Recruitment criteria
 
@@ -63,14 +61,16 @@ Please recruit 12 participants for 6 completed sessions.
 
 #### Primary criteria (must-haves
 
-- All participants must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see any sections in profile **other than Account Security**, they are LOA3 and can participate in testing.
+- All participants must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
+	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
+	- If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
+	- If they can see any sections in profile **other than Account Security**, they are LOA3 and can participate in testing.
 
-- All participants must be able to screenshare via Zoom.
-	- Prior to the session, please confirm:
-		- They're comfortable sharing their screen after they've logged into VA.gov.  Financial information will be viewable to the moderator and any observers.
-		- They have Zoom downloaded prior to the session and they know how to screenshare. 
-		- **If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.**
-		- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your VA financial information will be viewable. (Answer should be yes to qualify)
+- All participants must be able to screenshare via Zoom.Prior to the session, please confirm:
+	- They're comfortable sharing their screen after they've logged into VA.gov.  Financial information will be viewable to the moderator and any observers.
+	- They have Zoom downloaded prior to the session and they know how to screenshare. 
+	- **If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.**
+	- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your VA financial information will be viewable. (Answer should be yes to qualify)
 
 - All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
   
@@ -89,13 +89,9 @@ Please recruit 12 participants for 6 completed sessions.
 - All participants should identify as other than white or Caucasian
 - At least 50% of participants should identify as having a cognitive disability
 - At least 50% of participants should be younger than 55
-- Please recruit 4 participants who regularly use zoom magnification and can participate on a desktop device. Screener questions:
-   
-   1. Do you need to use zoom magnification in order to navigate websites? 
-   2. Are you able to participate in the study via a desktop computer or laptop?
-
-   - Answering yes to question **1 AND 2** would qualify the participant for the study.
-
+- Please recruit 4 participants who regularly use zoom magnification tools and can participate on a desktop device. Screener question:
+	- Do you use screen magnification tools (for example, ZoomText, fusion) on your desktop or laptop computer?
+	- Answering yes would qualify the participant for the study.
 #### Secondary criteria (nice-to-haves)
 ##### Inclusion:
 - At least 6 people who use assistive technology (such as screen readers, keyboard magnification, hearing aids, or voice recognition)
@@ -111,31 +107,22 @@ Please recruit 12 participants for 6 completed sessions.
 - 4 participants from the west coast
 
 ## Timeline
-
-If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
-
 ### Prepare
-
 When will the thing you are testing be finalized? 
-
 TBD
 
 Please indicate the date and name of a mock participant for a pilot session. 
-
 * Pilot participant email: tbd
 * Date and time of pilot session: 
   * Please schedule 45 minutes to allow for extra time
   * TBD
 
 ### Research sessions
-
 What dates do you plan to do research? 
-
 TBD
 
 ### Length of sessions
-
-Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
+Sessions will be X minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
 
 ### Availability
 
@@ -146,10 +133,10 @@ Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule
 ## Team Roles	
 Please list the people who will be serving in each role. 
 
-- Moderator: Liz Lantz, liz.lantz@adhocteam.us
+- Moderator: Angela Agosto, angela.agosto@adhocteam.us
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz
 - Participant recruiting & screening:	Perigean
-- Project point of contact: Liz Lantz
+- Project point of contact: Liz Lantz and Angela Agosoto
 - Participant(s) for pilot test:	TBD
 - Note-takers: TBD
 - Observers:	
@@ -157,4 +144,4 @@ Please list the people who will be serving in each role.
   - heather.justice@adhocteam.us
   - lihan@adhocteam.us
   - taylor.mitchell@gcio.com
-  - angela.agosto@adhocteam.us
+  - liz.lantz@adhocteam.us
