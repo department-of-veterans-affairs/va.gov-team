@@ -64,7 +64,7 @@ body:
       description: Please provide the name of your team, your role on that team, and the name of the company you work for.
       placeholder: this adds context
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: request-services
     attributes:
@@ -78,14 +78,14 @@ body:
   - type: textarea
     id: ssh-key
     attributes:
-      label: Public SSH Key
+      label: Public SSH Key (for SOCKS requests only)
       description: Requred for SOCKS. If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions
       placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
   - type: textarea
     id: aws-access
     attributes:
-      label: Desired AWS Services
-      description: Which AWS services do you need access to and why?
+      label: Desired AWS Access
+      description: Please list which resources (bucket names, parameter store paths, EC2 instance name, etc.) would you like to access. Also list what type of access will you need (read, read-write, etc.). If there is a teammate whose permissions you'd like to copy, please list their name.
       placeholder: I need access to S3 to read uploaded files from the /tools-team/uploads bucket.
   - type: input
     id: expiration-date
@@ -95,3 +95,8 @@ body:
       placeholder: timestamp
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        If you need additional infrastructure, please open a separate [Ops request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=operations%2C+devops%2C+needs-grooming&template=ops_issue_template.md&title=) to create that infrastructure.
