@@ -78,6 +78,8 @@ Please recruit 12 participants for 6 completed sessions.
    - Have you ever received an education, compensation, or pension payment from the VA?
    - Answering yes would qualify the participant for the study.
     
+- 4 participants should not have received a payment within the last 30 days.
+
 - At least 50% of participants should have at least one outstanding VBA debt. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts: Screener questions:
   
   1. Veterans can have debt with VA, usually as a result of a VA overpayment.  Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. **Do you currently have an outstanding debt balance with VA, not including health care related debt (like co-pays)?** 
