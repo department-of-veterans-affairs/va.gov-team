@@ -3,7 +3,7 @@
 # **VA Mobile App: Information Architecture & Navigation - High Level Project Summary**
 
 
-This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the IA & Navgation project (part of VA Mobile app Redesign).
+This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the [IA & Navgation project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md)(part of [VA Mobile app Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design/redesign-initiative-brief.md)).
 
 ## Background & Motivation
 
@@ -43,7 +43,9 @@ The following are the [OCTO-DE goals](https://github.com/department-of-veterans-
 
 ### Previous User Research
 
-No previous research exploring IA or veteran mental models are the content in the VA mobile app has been conducted. No previous research examining the usability of the current live VA mobile app has been conducted, however, [User Acceptance Testing (UAT) Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat) was conducted in May 2021, as were several rounds of usability testing with a [Prototype in May 2020](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/prototype-testing) and [March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/usability-testing/round-1).
+No previous research exploring IA or veteran mental models around the specific collection of content in the VA mobile app has been conducted. No previous research examining the usability of the current live VA mobile app has been conducted, however, [User Acceptance Testing (UAT) Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/testing/uat) was conducted in May 2021, as were several rounds of usability testing with a [Prototype in May 2020](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/prototype-testing) and [March 2021](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/usability-testing/round-1).
+
+There has been research conducted around veteran mental models for the content on [VA.gov](https://www.va.gov/), including [Logged-in homepage: Discovery summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md)
 
 
 ## Project Purpose & Goals
@@ -53,7 +55,7 @@ The purpose of this work is to inform the information architecture, content and 
 
 * **Phase I** of this work will give insight on the usability and comprehension of the proposed information architecture direction.
     * It describes a 3-part study that uses the following methods: [open card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort), [closed card sort](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture/closed%20card%20sort), and [tree test].
-* **Phase II** of this work is a [competitive analysis]. It will be done in parallel with Phase I.
+* **Phase II** of this work is a [competitive analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/competitive-analysis). It will be done in parallel with Phase I.
 * **Phase III** of this work will give insight on the usability and comprehension of the proposed UI direction.
 
 
