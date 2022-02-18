@@ -31,7 +31,7 @@ OCTO and broader VA have a better understanding of the engagement and needs of V
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
 | Add ability to track Google Translate usage on VA.gov | None | Tracking added successfully | Complete |
-| Deliver initial LEP needs report | None | Report complete | Complete |
+| [Deliver initial LEP needs report](https://dvagov-my.sharepoint.com/:f:/g/personal/danielle_thierry_va_gov/EoZNyWVWoqlFrwg0Gv7qp4wBESFqCTi5LgBFZ9iL6MLW3A?e=EqaAFR) | None | Report complete | Complete |
 | Build out more robust Domo dashboard | None | Analytics team support | In progress |
 | Create MVP quarterly LEP needs report | None | MVP report delivered | Not started |
 | Translate research recruitment questionnaire into Spanish | - IAA with State Department <br> - Perigean collaboration <br> - OMB review | Screener translated | Discussion phase |
@@ -51,7 +51,7 @@ OCTO has the UX, UI, and technical infrastructure in place to support a good use
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| Document initial findings in foundational report | None | Report delivered | Complete |
+| [Document initial findings in foundational report](https://dvagov-my.sharepoint.com/:f:/g/personal/danielle_thierry_va_gov/EoZNyWVWoqlFrwg0Gv7qp4wBESFqCTi5LgBFZ9iL6MLW3A?e=EqaAFR) | None | Report delivered | Complete |
 | [Discovery: Vocational rehab form PoC](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/35055) | ---- | ---- | ---- |
 | [Research: Online apps candidates for translation](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/34444)---- | ---- | ---- | ---- |
 
