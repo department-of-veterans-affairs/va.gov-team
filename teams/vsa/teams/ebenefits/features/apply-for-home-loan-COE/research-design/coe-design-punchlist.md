@@ -19,12 +19,14 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 - [x] Add reference number to all status alerts
 - [ ] Get URL for Eligibility link on form intro
-- [ ] Add copy for "Tell-me-more" accordions (confirm prototyper accordions work)
+- [ ] Add copy for "Tell-me-more" accordions (confirm prototype accordions work)
 - [ ] Check on design change for "Tell-me-more" accordions
 - [x] Eligible state: move PDF instruction link up one line
 - [ ] Pending states: hide subway map content behind link
 - [ ] Pending states: confirm "speed-up" is replaced with "speed up"
 - [ ] Add "Need help" section to Denied screen in prototype
+- [ ] Add "top" Request a COE link to area above subway map
+- [ ] Add SIP message for form in-progress
 
 ### VA form 26-1880
 
