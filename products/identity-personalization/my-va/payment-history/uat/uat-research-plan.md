@@ -59,27 +59,34 @@ We'll focus our recruitment criteria on the marginalized groups we didn't speak 
 
 Please recruit 12 participants for 6 completed sessions.
 
-#### Primary criteria (must-haves
+#### Primary criteria (must-haves)
 
-- All participants must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
+**All participants **
+- must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
 	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
 	- If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
 	- If they can see any sections in profile **other than Account Security**, they are LOA3 and can participate in testing.
 
-- All participants must be able to screenshare via Zoom.Prior to the session, please confirm:
+- must be able to screenshare via Zoom.Prior to the session, please confirm:
 	- They're comfortable sharing their screen after they've logged into VA.gov.  Financial information will be viewable to the moderator and any observers.
 	- They have Zoom downloaded prior to the session and they know how to screenshare. 
 	- **If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.**
 	- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your VA financial information will be viewable. (Answer should be yes to qualify)
 
-- All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
+- must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
   
-- All participants should have received education benefit or compensation/pension payments from the VA. Screener question:
+- Must have received education benefit or compensation/pension payments from the VA. Screener question:
    - Have you ever received an education, compensation, or pension payment from the VA?
    - Answering yes would qualify the participant for the study.
+
+- Must identify as other than white or Caucasian
+
+**Participant groups**
     
 - 4 participants should not have received a payment within the last 30 days.
-
+- 75% of participants should identify as other than male (female, transgender, non-binary)
+- At least 50% of participants should identify as having a cognitive disability
+- At least 50% of participants should be younger than 55
 - At least 50% of participants should have at least one outstanding VBA debt. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts: Screener questions:
   
   1. Veterans can have debt with VA, usually as a result of a VA overpayment.  Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. **Do you currently have an outstanding debt balance with VA, not including health care related debt (like co-pays)?** 
@@ -87,11 +94,7 @@ Please recruit 12 participants for 6 completed sessions.
   
   - Answering yes to question **1 AND 2** would qualify the participant for the study.
   - Answering yes **only to question 2** would disqualify the participant from the study.
-- 75% of participants should identify as other than male (female, transgender, non-binary)
-- All participants should identify as other than white or Caucasian
-- At least 50% of participants should identify as having a cognitive disability
-- At least 50% of participants should be younger than 55
-- Please recruit 4 participants who regularly use zoom magnification tools and can participate on a desktop device. Screener question:
+- 4 participants should regularly use zoom magnification tools and be able to participate on a desktop device. Screener question:
 	- Do you use screen magnification tools (for example, ZoomText, fusion) on your desktop or laptop computer?
 	- Answering yes would qualify the participant for the study.
 #### Secondary criteria (nice-to-haves)
