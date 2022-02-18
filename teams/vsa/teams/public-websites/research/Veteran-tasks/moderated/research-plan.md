@@ -42,7 +42,7 @@ The card sort will be built in Optimal Workshop and will contain a list of about
 *Action item: Get Optimal Workshop license, and create a card sort with different tokens for recruiting cohorts.*
 
 ### Research materials
-- [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Veteran-Tasks-Feb17.xlsx)--Tasks are highlighted in yellow
+- [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Veteran-tasks-Feb17-EOD.xlsx)--Tasks are highlighted in yellow
 - [Link to conversation guide]()--NOT READY YET
 - [Link to online card sort]()--NOT READY YET
 
