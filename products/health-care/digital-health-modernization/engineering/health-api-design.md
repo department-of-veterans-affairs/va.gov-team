@@ -17,6 +17,7 @@ VA.gov integrates with a large number of upstream systems at VA (on the order of
 * It provides an easy way to monitor all upstreams for availability/latency/error rate because all requests are proxied through a single system. 
 * There are some developer conveniences like downtime notifications for upstream systems built into vets-api. 
 
+![VA.gov facade architecture](assets/Health API Arch General.png)
 
 ## Why not call MHV APIs directly?
 The downside of this API facade pattern, is that the API facade has to be implemented and maintained. Currently that means writing a set of Ruby on Rails API controllers, and an adapter to invoke the upstream system's API. 
@@ -33,6 +34,9 @@ However, we recommend sticking with this pattern for the migrated MHV features.
 You can see the vets-api implementation for secure messaging here:
 * API controllers: https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/controllers/v0 (see `messages_controller.rb`, `folders_controller.rb`, `drafts_controller.rb`) 
 * Upstream adapter: https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/sm
+
+
+![VA.gov facade for MHV](assets/Health API Arch MHV.png)
 
 There is some additional utility code, including the (existing, working) code for establishing and maintaining an MHV API session token. Some of this may warrant revisiting/refactoring as we adjust the behavior around MHV account identifiers. 
 
