@@ -61,7 +61,7 @@ Please recruit 12 participants for 6 completed sessions.
 
 #### Primary criteria (must-haves)
 
-**All participants **
+**All participants**
 - must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
 	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
 	- If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
