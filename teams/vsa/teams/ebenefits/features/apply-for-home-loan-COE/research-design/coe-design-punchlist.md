@@ -17,11 +17,11 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 ### Form intro states
 
-- [ ] Add reference number to all status alerts
+- [x] Add reference number to all status alerts
 - [ ] Get URL for Eligibility link on form intro
 - [ ] Add copy for "Tell-me-more" accordions (confirm prototyper accordions work)
 - [ ] Check on design change for "Tell-me-more" accordions
-- [ ] Eligible state: move PDF instruction link up one line
+- [x] Eligible state: move PDF instruction link up one line
 - [ ] Pending states: hide subway map content behind link
 - [ ] Pending states: confirm "speed-up" is replaced with "speed up"
 - [ ] Add "Need help" section to Denied screen in prototype
@@ -32,8 +32,8 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 ### Your COE States
 
-- [ ] Change "minimum active-duty service requirements" to "minimum service requirement"
-- [ ] Available state: change link text to "Make changes to your COE online by filling out VA Form 26-1880"
+- [x] Change "minimum active-duty service requirements" to "minimum service requirement"
+- [x] Available state: change link text to "Make changes to your COE online by filling out VA Form 26-1880"
 - [ ] Uploader: dropdown capital S on "Report of Separation and Record of Service (NGB Form 22)"
 - [ ] Uploader: make "upload document" button only as wide at the text plus padding
 - [ ] Uploader: hide Submit before upload
