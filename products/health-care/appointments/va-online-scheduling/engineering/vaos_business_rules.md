@@ -123,13 +123,12 @@ In order to open VAOS on va.gov, a user must:
     - Residential address (if they have a residential address on file) 
     - User's current location (via their browsers's location information) 
     - User's registered VistA sites
-- Only one provider can be chosen (original VAOS app can choose up to 3)
+- Only one provider can be chosen (Legacy VAOS can choose up to 3)
 - Users are sent to the community care language page (if they have a residential address) or the reason for appointment page (if they didn't have an address)
 
 ### Community care language page
 
 - A user can choose the preferred language of their provider
-- This page is only shown in the community care request path and if the user does not have a residential address on file (:warning: need to check on this requirement)
 - After choosing a language, the user is sent to the reason for appointment page
 
 ### Reason for visit page
