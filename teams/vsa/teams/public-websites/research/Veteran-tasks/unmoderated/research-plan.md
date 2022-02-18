@@ -43,7 +43,7 @@ We would like to get complete sorting responses from **at least 30 Veterans and 
 *Action item: Add tokens to differentiate the different cohorts in the card sort and create distinct links for each cohort. Add links below.*
 
 ### Research materials
-- [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Veteran-Tasks-Feb17.xlsx)--Tasks are highlighted in yellow
+- [Link to DRAFT task list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/Veteran-tasks-Feb17-EOD.xlsx)--Tasks are highlighted in yellow
 - [Link to moderated research findings]()--NOT READY YET
 - [Link to online card sort]()--NOT READY YET
 
