@@ -13,7 +13,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 ### Public pages
 
-- [ ] Lorem ipsum dolor sit amet
+- [ ] TBD
 
 ### Form intro states
 
@@ -30,7 +30,7 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 ### VA form 26-1880
 
-- [ ] Lorem ipsum dolor sit amet
+- [ ] Needs review
 
 ### Your COE States
 
