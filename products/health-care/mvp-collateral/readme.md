@@ -46,7 +46,7 @@ Non-customizable:
 
 If your facility has an MVP clinic ([you can check here](https://www.research.va.gov/mvp/all-clinics.cfm)), please add the MVP clinic location directly to the PPT slide (i.e., floor and room number). It is not permissible to include local staff contact information (staff phone numbers/emails). Please be sure to resize the PPT to your display size requirements.
 
-PPT customizable
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/ppt/digital-ad-customization.pptx">Digital ad customization PPT</a>
 
 
 ### Posters
