@@ -165,12 +165,6 @@ Veterans **cannot** update their _demographics data_[^2] for upcoming appointmen
 2. The feature is available for use in production, with metrics of usage
 3. The updated demographics information should be propagated to relevant internal systems
 
-## Common Definitions
-
-[^1]: **Fully authenticated**: User has authenticated on va.gov using their ID.me account or another identity provider.  
-[^2]: **Demographics data**: Includes veteran contact information, next of kin information, and emergency contact information.  
-[^3]: **Contact information:** Includes veteran's ?????
-
 ## Systems in play
 
 ### CHIP
@@ -488,3 +482,7 @@ To much red tape and duplication of efforts
 - How long will it take to integrate Vets-API with the new services?
 - Can we get another team to do the work on our behalf?
 - Will we be duplicating functionality by not going with VA.gov Profile or VA Profile?
+
+[^1]: **Fully authenticated**: User has authenticated on va.gov using their ID.me account or another identity provider.  
+[^2]: **Demographics data**: Includes veteran contact information, next of kin information, and emergency contact information.  
+[^3]: **Contact information:** Includes veteran's ?????
