@@ -87,7 +87,7 @@ Please recruit 12 participants for 6 completed sessions.
 - 75% of participants should identify as other than male (female, transgender, non-binary)
 - At least 50% of participants should identify as having a cognitive disability
 - At least 50% of participants should be younger than 55
-- At least 50% of participants should have at least one outstanding VBA debt. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts: Screener questions:
+- 6-8 participants should have at least one outstanding VBA debt. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts: Screener questions:
   
   1. Veterans can have debt with VA, usually as a result of a VA overpayment.  Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. **Do you currently have an outstanding debt balance with VA, not including health care related debt (like co-pays)?** 
   2. Do you have health care related debt with VA?
