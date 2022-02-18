@@ -470,9 +470,10 @@ Personal information work is higher priority, so only move on to bad address ind
 
 ### MHV profile research (Liz)
 
-- Samara to intro this work to Marci & Liz
-- Liz to start research prep & planning
-  - We can talk more about what this should entail since it will be different than research planning for user testing
+This is kind of a pre-engagement sprint as Liz rolls off of My VA work. However, we talked about her being able to do the following.
+
+- VA.gov and MHV profile evaluation and comparison
+- If time, start planning for the rest of the research engagement
   
 ## Sprint 69 (3/9 - 3/22)
 
