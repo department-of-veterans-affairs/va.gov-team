@@ -14,7 +14,6 @@
     - [Staff Facing Questions](#staff-facing-questions)
     - [UX Questions](#ux-questions)
   - [Measuring Success](#measuring-success)
-  - [Common Definitions](#common-definitions)
   - [Systems in play](#systems-in-play)
     - [CHIP](#chip)
     - [LoROTA](#lorota)
