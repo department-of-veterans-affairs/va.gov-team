@@ -9,7 +9,7 @@ See [High Level Project Summary](https://github.com/department-of-veterans-affai
 
 
  **Phase II - Mobile Navigation UI Competitive Analysis**
- - [Competitive analysis]
+ - [Competitive analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-design/information-architecture-navigation/competitive-analysis)
  
  
  **Phase III - Evaluative Research**
