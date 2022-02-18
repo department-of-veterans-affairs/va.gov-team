@@ -1,5 +1,5 @@
 ---
-name: Analytics Discovery 
+name: Analytics Discovery
 about: To conduct discovery and research on analytics, trends
 title: Analytics Discovery - [Product/Initiative/Observation]
 labels: discovery, research

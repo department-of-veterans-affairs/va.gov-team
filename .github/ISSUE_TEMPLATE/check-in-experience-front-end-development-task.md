@@ -1,9 +1,9 @@
 ---
 name: Check In Experience Front End Development Task
-about: For Check In Experience Front End Development Tasking 
-title: '[FE]' 
-labels: vsa-healthcare-exp, frontend, HCE-Checkin, HealthExp - Planned 
-pipeline: 'backlog'
+about: For Check In Experience Front End Development Tasking
+title: "[FE]"
+labels: frontend, HCE-Checkin, HealthExp - Planned, vsa-healthcare-exp
+assignees: ''
 
 ---
 

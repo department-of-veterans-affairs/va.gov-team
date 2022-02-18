@@ -1,6 +1,7 @@
 ---
 name: Redirect, URL change, or vanity URL request
-about: Submit a request to change a URL and/or implement a redirect for a URL. Also for vanity URL requests.
+about: Submit a request to change a URL and/or implement a redirect for a URL. Also
+  for vanity URL requests.
 title: Redirect Request
 labels: Sitewide IA
 assignees: mnorthuis
@@ -42,4 +43,3 @@ requested URL | landing page URL
 - [ ] Implementation team: Work is complete
 - [ ] Implementation team: Validated in production
 - [ ] Requesting team: Validates everything is correct in production and closes ticket
-

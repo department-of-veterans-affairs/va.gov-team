@@ -1,8 +1,10 @@
 ---
 name: Forms Library Request
-about: Use this template to request a change to the forms library, including new features, enhancements, or bugs.
-labels: vsp-design-system-team, needs-grooming, triage
-assignees: cvalarida, caw310
+about: Use this template to request a change to the forms library, including new features,
+  enhancements, or bugs.
+title: ''
+labels: needs-grooming, triage, vsp-design-system-team
+assignees: caw310
 
 ---
 

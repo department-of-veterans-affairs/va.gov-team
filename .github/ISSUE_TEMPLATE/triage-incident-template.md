@@ -3,7 +3,7 @@ name: Triage Incident Template
 about: For incident triage on VSP
 title: ''
 labels: triage, triage-incident
-assignees: alexpappasoddball
+assignees: ''
 
 ---
 

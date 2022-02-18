@@ -2,8 +2,8 @@
 name: Staging Review
 about: Request a Platform staging review
 title: Staging Review [Team Name - Feature Name]
-labels: governance-team, collaboration-cycle, staging-review, collab-cycle-review
-assignees: 
+labels: collab-cycle-review, collaboration-cycle, governance-team, staging-review
+assignees: ''
 
 ---
 

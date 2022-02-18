@@ -2,8 +2,8 @@
 name: Please don't use for now — Request a VSA Development Review
 about: Request a development review for VSA products
 title: Request development review for ENTER_PRODUCT_NAME
-labels: 508/Accessibility, development review, product support
-assignees: 1Copenut, jenstrickland
+labels: 508/Accessibility, product support
+assignees: ''
 
 ---
 

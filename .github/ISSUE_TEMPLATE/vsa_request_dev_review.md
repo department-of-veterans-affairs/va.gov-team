@@ -3,7 +3,7 @@ name: VSA dev intent / spot check review request
 about: Request a VSA design, dev intent, or spot check review
 title: Request a VSA design, dev intent, or spot check review for ENTER_PRODUCT_NAME
 labels: 508/Accessibility, vsa
-assignees: jenstrickland
+assignees: ''
 
 ---
 

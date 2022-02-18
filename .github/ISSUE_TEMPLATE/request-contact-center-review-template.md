@@ -2,8 +2,8 @@
 name: Contact Center Review - Request Template
 about: To request a Contact Center Review for your product
 title: Contact Center Review for [Team Name - Feature Name]
-labels: contact center, collaboration cycle, collab-cycle-review
-assignees: jwoodman5, kimberley2019, starlow00
+labels: collab-cycle-review
+assignees: jwoodman5, Kimberley2019, starlow00
 
 ---
 

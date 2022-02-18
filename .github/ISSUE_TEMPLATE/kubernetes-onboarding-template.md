@@ -1,11 +1,13 @@
 ---
 name: Application Onboarding Template
-about: For onboarding a software application to the Platform's delivery infrastructure (EKS, Kubernetes)
-title: '[Insert app name here] - Application onboarding infrastructure request'
-labels: 'operations, devops, eks, kubernetes, infrastructure, infrastructure-request'
-assignees: ''   
+about: For onboarding a software application to the Platform's delivery infrastructure
+  (EKS, Kubernetes)
+title: "[Insert app name here] - Application onboarding infrastructure request"
+labels: devops, eks, infrastructure, infrastructure-request, operations
+assignees: ''
 
 ---
+
 ## Summary
 The purpose of this template is to capture requirements for onboarding a software application to the Platform's delivery infrastructure. 
 
@@ -82,4 +84,4 @@ _Requesting team_
 
 ### Notes 
 - Please add comments to this issue as checklist items are completed, and...
-- Tag the Infrastructure Team's product manager and product owner to help expedite the process 
+- Tag the Infrastructure Team's product manager and product owner to help expedite the process

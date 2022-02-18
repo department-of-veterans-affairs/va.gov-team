@@ -2,7 +2,7 @@
 name: Ops Onboarding checklist
 about: Onboarding Checklist for members of the VSP Operations team.
 title: VSP Operations Onboarding
-labels: Operations
+labels: ''
 assignees: ''
 
 ---
@@ -73,4 +73,3 @@ More details on our work:
 - [ ] [DevOps repo](https://github.com/department-of-veterans-affairs/devops)
 - [ ] Talk with Jesse about Sprint Objectives & Quarterly Initiatives
 - When creating an issue in GH, make sure to use the “ops issue template”
-

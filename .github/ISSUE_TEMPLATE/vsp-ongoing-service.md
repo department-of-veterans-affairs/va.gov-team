@@ -1,11 +1,12 @@
 ---
 name: VSP Ongoing Service
 about: Top-level epic for tracking an ongoing service that VSP provides
-title: '[Ongoing Service] '
+title: "[Ongoing Service] "
 labels: VSP-Ongoing-Service
 assignees: ''
 
 ---
+
 ## User Story
 
 

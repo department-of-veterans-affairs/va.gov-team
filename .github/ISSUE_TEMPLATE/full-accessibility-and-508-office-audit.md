@@ -2,8 +2,8 @@
 name: Full Accessibility & 508 Office Audit
 about: Request a full accessibility review post launch
 title: Full Accessibility & 508 Office Audit [Team Name - Feature Name]
-labels: 508/Accessibility, governance-team, collaboration-cycle, collab-cycle-review
-assignees: 
+labels: 508/Accessibility, collab-cycle-review, collaboration-cycle, governance-team
+assignees: ''
 
 ---
 

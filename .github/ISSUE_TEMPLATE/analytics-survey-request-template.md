@@ -2,7 +2,7 @@
 name: User Survey - Request Template
 about: To request the adding the Medallia Survey to your product
 title: User Survey Request for [Team]
-labels: VSP-contact-center, medallia
+labels: medallia, VSP-contact-center
 assignees: jwoodman5, Kimberley2019
 
 ---

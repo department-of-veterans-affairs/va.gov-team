@@ -5,7 +5,6 @@ title: Analytics Feature Request/Bug Report
 labels: analytics-insights, enhancement
 assignees: jennaouellet
 
-
 ---
 
 # Analytics Feature Request/Bug Report

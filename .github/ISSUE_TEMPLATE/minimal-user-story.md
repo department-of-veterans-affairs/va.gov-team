@@ -2,7 +2,7 @@
 name: Minimal User Story
 about: A simple user story that covers basic technical requirements
 title: ''
-labels: 'vsa'
+labels: vsa
 assignees: ''
 
 ---

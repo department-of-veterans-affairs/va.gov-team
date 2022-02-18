@@ -1,11 +1,14 @@
 ---
 name: VSA-QA Test Plan
-about: For VSA Product Teams to request QA Test Plan to be developed during Build Phase of development.  Open this ticket AT LEAST 6 WEEKS (3 SPRINTS) BEFORE expected Platform Staging Review.
-title: '[Product/Feature] VSA-QA Test Plan'
-labels: 'vsa-qa'
-assignees: 'tlei123'
+about: For VSA Product Teams to request QA Test Plan to be developed during Build
+  Phase of development.  Open this ticket AT LEAST 6 WEEKS (3 SPRINTS) BEFORE expected
+  Platform Staging Review.
+title: "[Product/Feature] VSA-QA Test Plan"
+labels: vsa-qa
+assignees: tlei123
 
 ---
+
 \[**Product Managers**: Open this ticket **at least 3 Sprints (6 weeks)** before you expect a Platform Staging Review of this Product/Feature.  Then:
 - Replace title's **[Product/Feature]** with your actual product/feature name.
 - Add yourself to Assignees
