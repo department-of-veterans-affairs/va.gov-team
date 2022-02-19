@@ -1,7 +1,5 @@
-# Research Plan for the MyHealtheVet landing page, January 2022
-
 # Research Plan for MHV on VA.gov Usability Round 1
-
+February - March, 2022
 
 ## Background
 This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
