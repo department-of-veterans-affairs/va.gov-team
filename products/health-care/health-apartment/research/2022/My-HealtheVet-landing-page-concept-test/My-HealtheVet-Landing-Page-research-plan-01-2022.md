@@ -1,75 +1,151 @@
-# Research Plan for the MyHealtheVet landing page, January 2022
+# Research Plan for [Team, Product, Date]
+*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
-## Goals
-The intent of the homepage is to be a centralized hub for veterans to manage their healthcare.
+## Background
+Briefly describe the background of your product. Consider:
+- What problem is your product trying to solve?
+- Where is your product situated on VA.gov? (ex: auth vs. unauth)
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-In terms of the Veteran, the goal of this research is this: “I can get what I need related to health.” 
+[Link to product brief](url goes here).
 
-From our team’s perspective, we are testing the IA of the site. We want to ensure the landing page has clear paths to key information in the site since we are bringing My HealtheVet, the VA.gov Health care hub, and other health content under one “roof.”
+### OCTO Objectives 
 
-* At this point, we are not working on user flows. We are testing the findability of key health tasks and info from the My HealtheVet authenticated landing page. 
+Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
 
-### Background
-This project maintains the vision of the Digital Modernization Strategy set in 2017: to provide a single, high-quality digital version of every health product or tool, plus the ability for a Veteran to see all of their health-related VA benefits in one place on VA.gov.
+### Veteran Journey
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+Are there moments that matter? 
 
-This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
+## Research Goals	
+What are you trying to learn from this research? 
+
+*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+
+### Outcome
+How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Research questions
-This study focuses on 2 main areas:
-* **Critical tasks:** Can veterans find key tasks and information when prompted?
-* **Content balance:** Do Veterans go to content pages (instructional, policies, etc.) expecting to be able to perform a task?
+Consider bucketing research questions under research goals. For each question, think about:
+- What will I do with what I learn from this question?
+- Does this question serve the goals of my study?
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
-### Hypotheses
-For each question above, respectively, we believe the following:
-* When given a task, Veterans will be able to find the corresponding action link that enables them to initiate that task. 
-* When given a task, a Veteran won't click on a content page to initiate that task.
+### Hypothesis
+What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+- What do you already know about this problem space?
+- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+- Write a generalized statement that combines what you know + what you think will happen during the study. 
+- Remember to constrain the hypothesis to the goals of your study!
 
-## Method
-We will ask Veterans what health tasks they do and what health tasks they do online. When we do this we will:
-1. Write down their tasks
-2. Have them show us how they do the simplest task
-3. Ask them to do two of their tasks on the concept for the My HealtheVet authenticated landing page 
-4. Ask them to do several tasks to ensure that the landing page has clear paths to key information in the site.
+## Method	
+Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-For testing the mobile concept, we'll use Zoom and staging on VA.gov
+Examples of common research methods include: 
+- Semi-structured interviews - appropriate for generative research
+- Contextual inquiry - appropriate for generative research
+- Card sorts - appropriate for generative and evaluative research; depending on the study design 
+- Tree tests - appropriate for evaluative research
+- Usability testing - appropriate for evaluative research
+- User acceptance testing (UAT) - required before product release
 
-Here is the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-formal-research-12-2021/Conversation-guide.md).
+Additional resources:
+- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
+- Review the [Perigean recruitment guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to understand how Perigean recruits, and what types of research they can support. 
+- If conducting testing on mobile, refer to the [mobile research guidelines.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/mobile-research-guidelines.md)
+- If conducting [unmoderated user research, refer to the guidance here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
 
-## Location
-We'll conduct user research remotely online using the account associated with Perigean
+### Location
+Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-## Recruitment approach
-Our intended audience for this research is Veterans. We are planning to recruit through Perigean. We will use a lean maximum variation strategy in our recruiting strategy. 
+If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
 
-## Recruitment criteria
+If in person, include:
+- Location
+- Point of contact
+- Equipment used for research
 
-### Total number of recruits
-12 veterans
+### Research materials
+*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-### Primary criteria
-* Ideally get at least 4 participants who currently manage their healthcare through MHV
-* Age: At least 4 people age 55+
+Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-### Secondary criteria
-* Gender: At least 4 women
-* Inclusion: 
-  * At least 2 people of color
-  * At least one person who identifies as LGBTQ+
-* Geography: Participants from East Coast, West Coast, and the Midwest
-* Disability: At least three participants who use DAT
+For moderated interviews:
+- [Link to conversation guide](url goes here) 
 
-**What we expect to learn:**
-* Veterans who have "most common tasks" will show us whether those tasks are present and accessible on the new My HealtheVet landing page concept
-* Some of the tasks we'll ask Veterans to find and initiatiate ([see conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-formal-research-12-2021/MyHealtheVet-authenticated-landing-page-Conversation-guide.md)) are pulled directly from our [IA Tree Test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/IA-tree-test-11-2021/IA-tree-test-analysis.md), and had some of the lowest success rates from that test. This research should teach us whether the proposed homepage concept improves the success rate of those tasks.
+For moderated usability tests: 
+- [Link to conversation guide](url goes here)
+- [Link to prototype](url goes here)
 
+For [unmoderated testing:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/unmoderated-research-guidance.md) 
+- [Link to email with instructions](url goes here)
+- [Link to prototype or OptimalSort session for group A](url goes here)
+- [Link to prototype or OptimalSort session for group B](url goes here)
 
-## When?
-Conduct research: TBD, Late January-Early February
+If recruiting outside of Perigean’s participant database:
+- [Link to recruitment flyer](url goes here)
+	
+## Recruitment	
 
-Length of session: 1 hour sessions with 15 minutes between sessions
+OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
-Moderator availability: TBD
+Before writing your recruitment criteria, be sure to review the following resources. 
+- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
+- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
-Draft of conversation guide complete: January 7
+### Recruitment approach
+Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Mock interview complete: TBD
+Pro tip:
+- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
+- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
+- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
+
+Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
+
+### Recruitment criteria
+List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+
+**Primary criteria (must-haves)**
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
+Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
+  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+
+> Pro tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+
+**Secondary criteria (nice-to-haves)**
+What criteria would strengthen your results? 
+
+## Timeline
+If you are using Perigean to recruit please submit 1 FULL week prior to the start of research for remote research, 2+ weeks for in person. 
+
+### Prepare
+When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
+
+Please indicate the date and name of a mock participant for a pilot session. 
+* Pilot participant email:
+* Date and time of pilot session: 
+
+### Research sessions
+What dates do you plan to do research? 
+
+### Length of sessions
+How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours. 
+Specify if you want Perigean to schedule the sessions with buffer time (15 minutes recommended) to allow for participants who can't make it on time, or if you might go over time.
+
+### Availability
+When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+Please request enough dates and time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). 
+	
+## Team Roles	
+Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+- Moderator:	
+- Research guide writing and task development (usually but not always same as moderator):	
+- Participant recruiting & screening:	
+- Project point of contact:	
+- Participant(s) for pilot test:	
+- Note-takers:	
+- Observers:	
+**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+
