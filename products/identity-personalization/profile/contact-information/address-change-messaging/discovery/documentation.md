@@ -4,7 +4,7 @@ DRAFT
 
 ## Background
 
-Based on design feedback from office hours, solutions for Content/IA changes address change modals were updated to meet suggestions that will allow us to move forward with modal solution. Their suggestions included changes to modal content/IA, as well as other questions to address surrounding the entire address update flow. In addition, a one-per-page solution was suggestion, which we will not be exploring for Profile at this time.
+Based on design feedback from office hours, solutions for Content/IA changes address change modals were updated to meet suggestions that will allow us to move forward with modal solution. Their suggestions included changes to modal content/IA, as well as other questions to address surrounding the entire address update flow. In addition, a one-per-page solution was suggested, which we will not be exploring for Profile at this time.
 
 Our team then held a workshop/brainstorming session to discuss the following:
 -   The proposed modal mockups with updates to content/IA (see #35582)
@@ -25,7 +25,7 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 ## Questions:
 
--   How many in-line alerts?
+-   How many in-line alerts should appear and where?
 
 -   Should we replicate checkbox and modal in reverse as well?
 -   How to help avoid confusion between the two addresses?
@@ -56,17 +56,16 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 ### Checkbox and modal use
 **Why not include the checkbox in the mailing field as well as the home field?** 
--   A constant checkbox in mailing could pose a problem because this would be reliant on there being a home address, which there might not be. 
--   Could create room for error if Veterans quickly  check box instead of needing to more thoroughly evaluate mailing address
--   Designers before us worked on this and put checkbox only in home address
+-   A constant checkbox in mailing could pose a problem because this would be reliant on there being a home address, which there might not be (home address is not required).
+-   Could create room for error if Veterans quickly check this checkbox instead of more thoroughly evaluate mailing address. Our goal is to slow them down and prevent errors in the case of mailing address, not provide faster ways to answer that could lead to similar mistakes as those we are working to remedy.
 
 **Why not include the modal in reverse as well - to prompt for home address update after the mailing is updated?** 
 -   Because home address is not required, and this problem was presented to us for Mailing address only, for which it is important that updates are made and correct.
--   Could also open up more possibility error by speeding things up with Mailing address - whereas our goal is to slow the user down so they thoroughly check their mailing address. 
+-   Could also open up more possibility of error by speeding things up with Mailing address - whereas our goal is to slow the user down so they thoroughly check their mailing address. 
 
 ### How to help avoid confusion between the two addresses?
 
-ADD TO THIS PROJECT - Hint text will help users distinguish between home & mailing address.
+Hint text will help users distinguish between home & mailing address and will be added to this project.
 
 ### Checkbox behavior
 
@@ -76,9 +75,7 @@ ADD TO THIS PROJECT - Hint text will help users distinguish between home & maili
 
 ### How to handle scenarios where address entered is not in the USPS database? 
 
-This relates to what Liz had already mocked up for the new versions of the alerts (prompts to look at and re-edit/confirm address if the database does not recognize it). Currently, we will not implement the modal Liz mocked up because this would cause us to use cases where three modals would be shown back-to-back. We will explore the possibility of another solution using her format but not as a modal.
-
-We won't implment the address confirmation modal design at this time. To be added at a later date - new discovery item to explore a way to show address override confirmation alert when not found in the USPS database. It should reference the address confirmation issue already in backlog - #31400 so that they follow the same pattern.
+In previous discovery, Liz mocked up new modal versions of the alerts that prompt Veterans to double-check and either re-edit or confirm their address if the database does not recognize it. We won't implment the address confirmation modal design at this time because it could cause use cases in which three modals would be shown back to back. We will explore ways to use her solution in a non-modal format. 
 
 ### Could we (long term) remove the USPS address validation step if we did validation on the fly while someone inputs an address into the form fields?
 
