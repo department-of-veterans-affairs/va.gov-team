@@ -32,5 +32,5 @@
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| Ensure that all tables and lists in benefit hubs and resources and support are accessible [(Epic #30813)(https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)] | Team capacity  | Successful accessibility review  | Backlog |
+| Ensure that all tables and lists in benefit hubs and resources and support are accessible ([Epic #30813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/30813)) | Team capacity  | Successful accessibility review  | Backlog |
 
