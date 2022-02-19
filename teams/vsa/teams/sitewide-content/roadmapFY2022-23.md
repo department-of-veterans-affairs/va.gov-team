@@ -21,14 +21,12 @@
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
-| Solidify IAA with State Department | Awaiting final authorization | IAA authorization | In progress |
 
 
 
 ### Q2
 
 #### Outcome 1
-
 
 | Initiatives | Dependencies | Measurements | Status |
 | ---- | ---- | ---- | ---- |
@@ -39,4 +37,14 @@
 | "Get benefits" translation: Health care | ---- | ---- | ---- |
 | R&S pilot: Complete phase 1 (community care) | ---- | ---- | ---- |
 | R&S pilot: Kickoff phase 2 expansion (education service) | ---- | ---- | ---- |
-| Expand style guide: Add voice and inclusive, compassionate language sections | ---- | ---- | ---- |
+| Expand style guide: Add voice and inclusive, compassionate language sections (OCTO) | ---- | ---- | ---- |
+| Legacy content migration: Retire 6 life insurance pages | ---- | ---- | ---- |
+
+### Q3
+
+#### Outcome 1
+
+| Initiatives | Dependencies | Measurements | Status |
+| ---- | ---- | ---- | ---- |
+| Create MVP training program (OCTO) | Backlog |
+| Expand style guide: Iterate on error message style guide and dictionary (OCTO) | ---- | ---- | ---- |
