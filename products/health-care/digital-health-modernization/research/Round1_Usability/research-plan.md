@@ -23,7 +23,6 @@ Are there moments that matter?
 ## Research Goals	
 
 
-
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
@@ -55,22 +54,23 @@ This research will be remote via Zoom.
 ## Recruitment	
 
 ### Recruitment approach
-The audience is Veterans with and without VA healthcare, to be recruited by Perigean. 
+The audience is Veterans with and without VA healthcare, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table here](url). 
 
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. [Use the recruitment checker on Microsoft Excel teams](https://governmentcio.sharepoint.com/:x:/r/sites/VSATeam/Shared%20Documents/Accessibility/RecruitmentChecker.xlsx?d=we0ffb06d5bac4cd5902c5f8b23fe988c&csf=1&web=1&e=FzYt5t) to understand OCTO's targets for inclusivity. *Note: if you are struggling to access the online teams link; you can also [use the recruitment checker on Google sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) and take a screenshot of your table to share.*
 
 ### Recruitment criteria
 Please schedule a total of 15 Veterans for an expected completion rate of 10-12 studies. 
 
 **Primary criteria (must-haves)**
 - At least six participants that have VA healthcare and regularly use MyHealtheVet
-- Up to six participants that do not use VA healthcare or MyHealtheVet
-- At least four women
+- Up to six participants that do not use VA healthcare or access their health information via MyHealtheVet
 - Must have access to a laptop or desktop computer to interact with the prototype. 
 
 **Secondary criteria (nice-to-haves)**
-
+- 8 participants over the age of 55 years
+- 4 participants from rural locations
+- At least 2 women
+- 4 participants without a college degree
+- 8 participants with cognitive disabilities
 
 ## Timeline
 
