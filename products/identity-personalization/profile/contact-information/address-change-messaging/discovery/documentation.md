@@ -19,7 +19,7 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 -   Review the product outline
 
--   Meeting with Samara and Marci for an intro to the work.
+-   Team workshop to discuss edge cases and address change-related questions.
 
 -   Researched answers to questions discussed in team workshop. 
 
@@ -55,12 +55,12 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/double_success_alert.png" />
 
 ### Checkbox and modal use
-**Reasoning for why no checkbox in mailing:** 
+**Why not include the checkbox in the mailing field as well as the home field?** 
 -   A constant checkbox in mailing could pose a problem because this would be reliant on there being a home address, which there might not be. 
 -   Could create room for error if Veterans quickly  check box instead of needing to more thoroughly evaluate mailing address
 -   Designers before us worked on this and put checkbox only in home address
 
-**Why no modal to prompt for home address update after mailing updated?** 
+**Why not include the modal in reverse as well - to prompt for home address update after the mailing is updated?** 
 -   Because home address is not required, and this problem was presented to us for Mailing address only, for which it is important that updates are made and correct.
 -   Could also open up more possibility error by speeding things up with Mailing address - whereas our goal is to slow the user down so they thoroughly check their mailing address. 
 
