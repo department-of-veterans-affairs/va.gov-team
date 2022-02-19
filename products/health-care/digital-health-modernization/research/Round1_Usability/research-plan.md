@@ -54,7 +54,7 @@ This research will be remote via Zoom.
 ## Recruitment	
 
 ### Recruitment approach
-The audience is Veterans with and without VA healthcare, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table here](url). 
+The audience is Veterans with and without VA healthcare, to be recruited by Perigean. Participant criteria below were created using a lean but representative approach, see our [Recruitment Checker table](/Recruitment_checker.png). 
 
 
 ### Recruitment criteria
