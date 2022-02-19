@@ -64,6 +64,10 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 -   Because home address is not required, and this problem was presented to us for Mailing address only, for which it is important that updates are made and correct.
 -   Could also open up more possibility error by speeding things up with Mailing address - whereas our goal is to slow the user down so they thoroughly check their mailing address. 
 
+### How to help avoid confusion between the two addresses?
+
+ADD TO THIS PROJECT - Hint text will help users distinguish between home & mailing address.
+
 ### Checkbox behavior
 
 -   If checkbox is checked, auto populates with address and user still needs to press save/update 
@@ -72,11 +76,17 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 ### How to handle scenarios where address entered is not in the USPS database? 
 
-I believe this pertains to what Liz had already mocked up for the new versions of the alerts (prompts to look at and re-edit address). Currently, we will not implement the modal Liz mocked up because this would cause us to use cases where three modals would be shown back-to-back. We will explore the possibility of another solution using her format but not as a modal.
+This relates to what Liz had already mocked up for the new versions of the alerts (prompts to look at and re-edit/confirm address if the database does not recognize it). Currently, we will not implement the modal Liz mocked up because this would cause us to use cases where three modals would be shown back-to-back. We will explore the possibility of another solution using her format but not as a modal.
+
+We won't implment the address confirmation modal design at this time. To be added at a later date - new discovery item to explore a way to show address override confirmation alert when not found in the USPS database. It should reference the address confirmation issue already in backlog - #31400 so that they follow the same pattern.
 
 ### Could we (long term) remove the USPS address validation step if we did validation on the fly while someone inputs an address into the form fields?
 
+Address validation changes are out of scope for this.
+
 ### Military base checkbox
+
+There is a scenario where someone could have a military address for their mailing address, but does NOT have the "I live on a United States military base. Discovery around this has been added to the backlog for further exploration at a later date.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/images/military_base_checkbox.png" />
 
