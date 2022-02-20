@@ -23,6 +23,14 @@
 | ---- | ---- | ---- | ---- |
 
 
+#### Outcome X 
+A team of content experts proactively monitors and manages VA's core benefit content, while VA digital product teams have access to content strategy, plain language, and UX writing services as needed and in a timely manner.
+
+##### VA benefit content work with program partners
+This accounts for unplanned requests that come in regularly from our VA partners across business lines. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
+
+##### Product team work
+This accounts for unplanned requests that come in regularly from our VFS product teams. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
 
 
 ### Q2
@@ -44,6 +52,12 @@ Veterans have more single-source-of-truth content.
 | Establish editorial calendar (with rolling audits process) | ---- | ---- | ---- |
 | Reusable COPE content: Create draft benefit structured content model (OCTO) | ---- | ---- | ---- |
 
+##### VA benefit content work with program partners
+This accounts for unplanned requests that come in regularly from our VA partners across business lines. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
+
+##### Product team work
+This accounts for unplanned requests that come in regularly from our VFS product teams. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
+
 ### Q3
 
 #### Outcome 1
@@ -61,6 +75,12 @@ Veterans have more single-source-of-truth content.
 | R&S pilot: Expand pilot to 2 additional groups | ---- | ---- | ---- |
 | Reusable COPE content: Iterate on benefit structured content model (OCTO) | ---- | ---- | ---- |
 
+##### VA benefit content work with program partners
+This accounts for unplanned requests that come in regularly from our VA partners across business lines. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
+
+##### Product team work
+This accounts for unplanned requests that come in regularly from our VFS product teams. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
+
 ### Q4
 
 #### Outcome 1
@@ -76,4 +96,9 @@ Veterans have more single-source-of-truth content.
 | "Get benefits" translation: Burials | ---- | ---- | ---- |
 | R&S pilot: Expand pilot to 2 to 5 additional groups | ---- | ---- | ---- |
 
+##### VA benefit content work with program partners
+This accounts for unplanned requests that come in regularly from our VA partners across business lines. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
+
+##### Product team work
+This accounts for unplanned requests that come in regularly from our VFS product teams. Due to the unplanned nature of the work, we'll add links to relevant epics and tickets as requests come in.
 
