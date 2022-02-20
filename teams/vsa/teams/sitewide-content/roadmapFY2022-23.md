@@ -39,10 +39,9 @@ Veterans have more single-source-of-truth content.
 | R&S pilot: Complete phase 1 (community care) | ---- | ---- | ---- |
 | R&S pilot: Kickoff phase 2 expansion (education service) | ---- | ---- | ---- |
 | Expand style guide: Add voice and inclusive, compassionate language sections (OCTO) | ---- | ---- | ---- |
-| Expand style guide: Iterate on error message style guide and expand error message dictionary | ---- | ---- | ---- |
 | Legacy content migration: Retire 6 life insurance pages | ---- | ---- | ---- |
 | Establish editorial calendar (with rolling audits process) | ---- | ---- | ---- |
-
+| Content strategy/IA: Create draft benefit structured content model (OCTO) | ---- | ---- | ---- |
 
 #### Outcome 2
 
