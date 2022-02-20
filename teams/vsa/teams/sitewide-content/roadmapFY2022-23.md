@@ -24,6 +24,7 @@
 
 
 
+
 ### Q2
 
 #### Outcome 1
@@ -37,40 +38,11 @@ Veterans have more single-source-of-truth content.
 | Benefit hub optimization (partial): Health care | ---- | ---- | ---- |
 | "Get benefits" translation: Disability | ---- | ---- | ---- |
 | R&S pilot: Complete phase 1 (community care) | ---- | ---- | ---- |
-| R&S pilot: Kickoff phase 2 expansion (education service) | ---- | ---- | ---- |
+| R&S pilot: Expand pilot to include education service | ---- | ---- | ---- |
 | Expand style guide: Add voice and inclusive, compassionate language sections (OCTO) | ---- | ---- | ---- |
-| Legacy content migration: Retire 6 life insurance pages | ---- | ---- | ---- |
+| Legacy content migration: Publish new life insurance content to retire 6 life insurance pages | ---- | ---- | ---- |
 | Establish editorial calendar (with rolling audits process) | ---- | ---- | ---- |
-| Content strategy/IA: Create draft benefit structured content model (OCTO) | ---- | ---- | ---- |
-
-#### Outcome 2
-
-More VA partners can contribute to content in the modernized environment.
-
-
-#### Outcome 3
-
-VA content contributors have deeper documented style and QA guidance. 
-
-
-#### Outcome 4
-
-Veterans can rely on VA.gov content to be timely and relevant, while VA product and business line program teams have clear expectations and understandings of intake processes and response times.
-
-
-#### Outcome 5
-
-Veterans can more easily find the basic information they need to apply for benefits and find targeted content  throughout the benefit journey. VA content team and partners can easily determine whether content belongs in a benefit hub or Resources and Support. 
-
-#### Outcome 6
-
-Product teams building content on the 
-
-
-
-
-
-
+| Reusable COPE content: Create draft benefit structured content model (OCTO) | ---- | ---- | ---- |
 
 ### Q3
 
@@ -86,7 +58,8 @@ Product teams building content on the
 | "Get benefits" translation: Health care | ---- | ---- | ---- |
 | "Get benefits" translation: Education | ---- | ---- | ---- |
 | "Get benefits" translation: Careers | ---- | ---- | ---- |
-
+| R&S pilot: Expand pilot to 2 additional groups | ---- | ---- | ---- |
+| Reusable COPE content: Iterate on benefit structured content model (OCTO) | ---- | ---- | ---- |
 
 ### Q4
 
@@ -101,3 +74,6 @@ Product teams building content on the
 | "Get benefits" translation: Pension | ---- | ---- | ---- |
 | "Get benefits" translation: Life insurance | ---- | ---- | ---- |
 | "Get benefits" translation: Burials | ---- | ---- | ---- |
+| R&S pilot: Expand pilot to 2 to 5 additional groups | ---- | ---- | ---- |
+
+
