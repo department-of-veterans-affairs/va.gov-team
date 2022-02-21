@@ -23,6 +23,8 @@ This discovery is a follow-up task addressing point 2 above -- to answer questio
 
 -   Researched answers to questions discussed in team workshop. 
 
+-   [Discovery review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/meeting-notes/discovery_review_2022-02-16.md) with team
+
 ## Questions:
 
 -   How many in-line alerts should appear and where?
