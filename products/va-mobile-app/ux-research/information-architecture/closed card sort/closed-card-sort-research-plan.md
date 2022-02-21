@@ -97,6 +97,7 @@ This research will allow us to adjust the information architecture (and navigati
 #### What it is
 
 *In a closed card sort, participants are asked to sort topics from content within your website into predefined categories. A closed card sort works best when you are working with a predefined set of categories, and you want to learn how users sort content items into each category. [Usability.gov - Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)*
+[Card Sorting - Methods 18F](https://methods.18f.gov/validate/card-sorting/)
 
 
 #### Method
