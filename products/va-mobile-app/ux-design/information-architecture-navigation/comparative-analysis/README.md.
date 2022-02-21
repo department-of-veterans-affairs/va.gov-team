@@ -1,7 +1,7 @@
-## Competitive Analysis: Navigation UI Patterns
+## Comparative Analysis: Navigation UI Patterns
 Addresses [#2541](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2541)
 
-Competitive analysis will include (but not be limited to) app examples that share similar features and/or functionalities with the VA mobile app (ex: robust user/account data, with an emphasis on omnichannel).
+Comparative analysis will include (but not be limited to) app examples that share similar features and/or functionalities with the VA mobile app (ex: robust user/account data, with an emphasis on omnichannel).
 
 * Explore mobile apps in the market that handle similar information needs in different ways with their navigation models (examples: government, but also health insurance, banking, retail, travel, tickets, whatever else feels like a good parallel in terms of IA needs)
 * Collect screenshots demonstrating the app's navigation model (home, top level nav, other key elements) in a mural board
