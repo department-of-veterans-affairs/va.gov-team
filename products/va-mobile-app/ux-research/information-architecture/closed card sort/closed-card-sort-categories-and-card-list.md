@@ -1,47 +1,54 @@
 
 ## Card List for Closed Card Sort
-Based on the findings from our [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md#key-findings) regarding participants being confused about card descriptions & needing them to be explained ("All cards in sort were not clear to the Veterans", we modified our card descriptions to improve clarity. We also added two new cards.
+Based on the findings from our [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md#key-findings) regarding participants being confused about card descriptions & needing them to be explained ("All cards in sort were not clear to the Veterans", we modified our card descriptions to improve clarity. We also removed 4 cards and added two new cards.
 
 
 
-| [Description text for OPEN Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-card-list.md) | Description text for CLOSED Card Sort |
-| --- | --- |
-| Contact the VA | Contact the VA |
-| Find a VA location | Find a VA location |
-| claim status | Check the status of a disability claim you've filed |
-| vaccine records | Review your history of vaccinations |
-| list of medical appointments | Review your past & upcoming medical appointments |
-| secure messaging | Message your healthcare provider |
-| disability rating | Check your disability rating |
-| manage direct deposit | Manage your direct deposit information |
-| military information | Your branch and period of military service |
-| personal and contact information | Review your personal information and set the address, phone numbers and email address associated with your account. |
-| VA letters and documents (called benefit letters on va.gov) | Access letters and documents proving your veteran status |
-| view direct deposit payment history | Review your direct deposit payment history |
-| biometric sign on setting | Turn on/off the ability to sign in with your finger print or face ID  |
-| notification settings | Manage the types of notifications you would like to receive from the app |
-| N/A | Sign Out of the app |
-| N/A | Share the app |
-| covid-19 updates & information | covid-19 updates & information |
-| disability compensation | Review the history of disability payments made to you |
-| education payments | Review reimbursements the VA has made to you for educational expenses |
-| GI bill balance (also called education benefits) | Review balance of education funds remaining to you |
-| GI bill payments | Review record of payments the VA has made to schools on your behalf |
-| health record | Review your health record |
-| join a video appointment | Join a virtual doctor appointment |
-| labs and tests | Review your labs and test results |
-| list of prescriptions | Review a list of your prescribed medications |
-| Make a doctor appointment | Make a doctor appointment |
-| manage dependents | Manage the dependents benefitting from your disability compensation |
-| Manage GI bill dependents | Transfer GI bill dependents |
-| patient check-in | Check-in for your doctor appointment |
-| pay your health care copay | Pay your health care copay |
-| pay back your overpayments | Repay money you owe the VA |
-| pension payments | Review pension payments the VA has made to you |
-| prescription refill request | Request a prescription refill |
-| schedule an immunization appointment | Schedule a vaccination appointment |
-| travel expense reimbursement | Submit a travel expense reimbursement |
-| Veteran ID card | Review your digital Veteran ID card |
+| | [Description text used in OPEN Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-card-list.md) | Modified description text for CLOSED Card Sort |
+| --- | --- | --- |
+| 1 | biometric sign on setting | Turn on/off the ability to sign in with your finger print or face ID  |
+|  | Blue Button | ~~Blue Button~~ |
+|  | Board of Veterans Appeals reminder | ~~Board of Veterans Appeals reminder~~ |
+| 2 | claim status | Check the status of a disability claim you've filed |
+| 3 | Contact the VA | Contact the VA |
+|  | covid screening tool |  ~~covid screening tool~~ |
+| 4 | COVID-19 updates & information | COVID-19 updates & information |
+| 5 | disability compensation | Review the history of disability payments made to you |
+| 6 | disability rating | Check your disability rating |
+| 7 | education payments | Review reimbursements the VA has made to you for educational expenses |
+| 8 | Find a VA location | Find a VA location |
+| 9 | GI bill balance (also called education benefits) | Review balance of education funds remaining to you |
+| 10 | GI bill payments | Review record of payments the VA has made to schools on your behalf |
+| 11 | health record | Review your health record |
+| 12 | join a video appointment | Join a virtual doctor appointment |
+| 13 | labs and tests | Review your labs and test results |
+| 14 | list of medical appointments | Review your past & upcoming medical appointments |
+| 15 | list of prescriptions | Review a list of your prescribed medications |
+| 16 | Make a doctor appointment | Make a doctor appointment |
+| 17 | manage dependents | Manage the dependents benefitting from your disability compensation |
+| 18 | manage direct deposit | Manage your direct deposit information |
+| 19 | Manage GI bill dependents | Transfer GI bill dependents |
+| 20 | military information | Your branch and period of military service |
+| 21 | N/A | Sign Out of the app |
+| 22 | N/A | Share the app |
+| 23 | notification settings | Manage the types of notifications you would like to receive from the app |
+| 24 | patient check-in | Check-in for your doctor appointment |
+| 25 | pay back your overpayments | Repay money you owe the VA |
+| 26 | pay your health care copay | Pay your health care copay |
+| 27 | pension payments | Review pension payments the VA has made to you |
+| 28 | personal and contact information | Review your personal information and set the address, phone numbers and email address associated with your account. |
+| | personal information update confirmation message | ~~personal information update confirmation message~~ |
+| 29 | prescription refill request | Request a prescription refill |
+| 30 | privacy policy | privacy policy |
+| 31 | schedule an immunization appointment | Schedule a vaccination appointment |
+| 32 | secure messaging | Message your healthcare provider |
+| 33 | travel expense reimbursement | Submit a travel expense reimbursement |
+| 34 | VA letters and documents (called benefit letters on va.gov) | Access letters and documents proving your veteran status |
+| 35 | vaccine records | Review your history of vaccinations |
+| 36 | Veteran ID card | Review your digital Veteran ID card |
+| 37 | view direct deposit payment history | Review your direct deposit payment history |
+
+
 
 ## Categories for Closed Card Sort
 Our hypothesis for the proposed categories (and the cards within them) are based on the dendrogram findings from the Open Card Sort, a review of the VA.gov website structure, and conversations with teams on the VA.gov side about future IA efforts, and was proceded by a ["bucket" exploration activity in mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1634908357710/58074b53d4942298679622026490db78c1ee8806?wid=0-1643840124216)
