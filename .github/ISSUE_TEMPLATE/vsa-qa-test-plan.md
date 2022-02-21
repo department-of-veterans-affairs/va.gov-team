@@ -4,7 +4,7 @@ about: For VSA Product Teams to request QA Test Plan to be developed during Buil
   Phase of development.  Open this ticket AT LEAST 6 WEEKS (3 SPRINTS) BEFORE expected
   Platform Staging Review.
 title: "[Product/Feature] VSA-QA Test Plan"
-labels: vsa-qa
+labels: vsa-qa, vsa-qa-test-plan
 assignees: tlei123
 
 ---
