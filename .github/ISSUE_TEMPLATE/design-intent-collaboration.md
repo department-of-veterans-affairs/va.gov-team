@@ -44,6 +44,7 @@ Provide links or documents for the following:
  
 - [ ] Whiteboard sketch or other lo-fi prototypes or wireframes
 - [ ] User flow
+- [ ] Research artifacts
 - [ ] Any other artifacts you have so far
 
 ## Scheduling
