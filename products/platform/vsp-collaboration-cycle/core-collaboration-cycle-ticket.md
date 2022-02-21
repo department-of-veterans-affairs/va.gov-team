@@ -287,8 +287,8 @@ Update this section with new artifacts as you progress through the Collaboration
 <details>
   <summary>Toggle Sitewide Content and IA Intake Request</summary>
 
-#### VFS Actions
-Placeholder text
+##### VFS actions
+- [ ] Placeholder task
 
 </details>
 
@@ -297,7 +297,7 @@ Placeholder text
   <summary>Toggle Research Plan Review</summary>
 
 #### VFS Actions
-Complete the [research plan review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-plan-review.1781891143.html).
+- [ ] Complete the [research plan review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-plan-review.1781891143.html)
 
 </details>
 
@@ -306,7 +306,8 @@ Complete the [research plan review process](https://depo-platform-documentation.
   <summary>Toggle Analytics Request</summary>
 
 #### VFS Actions
-Complete the [analytics request process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Analytics-request.1782120453.html) and provide a link to your request ticket below.
+- [ ] Complete the [analytics request process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Analytics-request.1782120453.html)
+- [ ] Link to the Analytics Implementation and QA Request ticket below
 
 [Analytics implementation and QA request ticket](#)
 
@@ -317,7 +318,9 @@ Complete the [analytics request process](https://depo-platform-documentation.scr
   <summary>Toggle Contact Center Review</summary>
 
 #### VFS Actions
-Complete the [Contact Center review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Contact-center-review.1782317061.html) and provide a link to your request ticket below.
+- [ ] Complete the [Contact Center review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Contact-center-review.1782317061.html)
+- [ ] Link to the Contact Center review request ticket below
+
   
 [Contact Center review request ticket](#)
 
@@ -381,7 +384,8 @@ Complete the [Contact Center review process](https://depo-platform-documentation
   <summary>Toggle Privacy and Security Review</summary>
   
 #### VFS Actions
-Complete the [Privacy, security, infrastructure readiness review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) and provide a link to your request ticket below.
+- [ ] Complete the [Privacy, security, infrastructure readiness review process](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html)
+- [ ] Link to the Readiness Review ticket below
 
 [Readiness review ticket](#)
 
