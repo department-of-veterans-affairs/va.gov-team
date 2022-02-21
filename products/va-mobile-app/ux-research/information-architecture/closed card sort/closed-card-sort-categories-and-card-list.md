@@ -60,3 +60,5 @@ Our hypothesis for the proposed categories (and the cards within them) are based
 | join a video appointment |  |  |  |  |
 | labs and tests |  |  |  |  |
 | list of prescriptions |  |  |  |  |
+
+[2022 VA Mobile App -  Cards, Categories & IA - Planning & Analysis doc](https://docs.google.com/spreadsheets/d/1yos8_0m-jmjx4ABj-MZsoeanOWlWAGYrr-JxNCYD3ls/edit#gid=702138539)
