@@ -2,35 +2,40 @@
 February - March, 2022
 
 ## Background
-This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information, what we've called our "Health Apartment". As part of this effort, MyHealtheVet (MHV) will be replatformed to VA.gov. We developed a prototype of what MHV on VA.gov could look like, which we are testing as part of this research. This study will build off of the results of our [informal user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/health-apartment/research/2021/homepage-guerilla-test-12-2021/2021-12-guerilla-research-report.pdf), conducted in December 2021. 
 
-
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-
-[Link to product brief](url goes here).
+You can read more about our Digital Health Modernization strategy[here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
 ### OCTO Objectives 
 
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Work with your VA lead and product manager as needed.
+This work supports the following objectives:
+- Veterans can manage their health services online
+- Veterans and their families can find a single, authoritative source of information
+- Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This research fits into these points of a Veteran's Journey:
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
 ## Research Goals	
+The goals of this study are to:
+- determine if Veterans understand the concept of MHV on VA.gov as their "health apartment" 
+- identify major usability or content issues with the current concept of MHV on VA.gov
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Results of this study will help us determine if our proof of concept is headed in the right direction, and if there are any big usability concerns that Veterans experience with the designs. 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+This research will help us answer:
+- Will Veterans understand the concept of the health apartment? 
+- How would Veterans expect to get to the health apartment?
+- What would they expect to see in their health apartment if they were logged in? Not logged in?
+- What are the most important things that folks access/need related to their health or their health benefits?
+- What is the Veteran perception of how the health apartment would fit into how they manage their health at the VA?
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -38,6 +43,7 @@ What do you intend to learn and measure from this study? Think through these pro
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+
 
 ## Method	
 We use conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research is focused on the laptop/desktop experience. Future rounds of research will explore mobile versions of the prototype.
@@ -83,7 +89,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: TBD
 
 ### Research sessions
-- We plan to run sessions from February 2 - March 5th, 2022
+- We plan to run sessions from February 28 - March 5th, 2022
 
 ### Length of sessions
 1 hour sessions with 30 minute breaks in between.
