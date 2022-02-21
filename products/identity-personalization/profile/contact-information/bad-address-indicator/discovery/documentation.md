@@ -10,11 +10,14 @@ DRAFT
 
 -   Researched answers to questions to prepare for the design phase of adding a bad address indicator. Explore possibilities for in-line alerts as well as one-per-page editing
 
+-   Discovery Review with Samara and Marci
+
 ## Initial Questions:
 
 -   Can we proactively email all people who have the bad address indicator to log into VA.gov and update their address? How would this work?
 
-	-   Reached out to VA Notify team about this. Response indicates they have a "self service UI that we would like to give you access to." *Follow-up question: Who would create the content for this?* Christina added to GitHub self service for template if needed. *Is access needed for anyone else?* "Even if you don't move forward, you or someone else should have access to view your current notifications."
+	-   Reached out to VA Notify team. Team members have all been added to the GitHub self service for template if needed.
+	-   Marci and Tom have taken over product and BE questions about VA Notify email capabilities.
 
 -   What's currently going on with on-site notifications / elsewhere on the site or in Profile? [See Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1644526520883/08368c9a6d81a9b02b0caa3f736586539b3d1f20?sender=u28f508d646c449cc1afe4873)
 
@@ -51,7 +54,7 @@ DRAFT
 
 Finding: Important to consider that not only do Veterans not have an indicator that their address is bad and an update is needed, they also need to understand the importance of updating this address and the negative consequences of not doing so - else risk that Veterans continue ignoring the prompt. If urgent enough, another option here is to require this change before anything else can be done on Profile.
 
-## Overall user flow to consider edge cases:
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/images/5-whys.png)
 
 ## Assessing Additional Risks in User Mistakes - Further Predicting User Mistakes
 
@@ -67,6 +70,7 @@ Predicting all possible user mistakes to show pathways in which users may still 
 
 -   New model reminders for Address change can help if a user accidentally updates home address instead of mailing address
 
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/images/unhappy-path.png)
 
 ## Possible Solutions:
 
@@ -94,7 +98,7 @@ Predicting all possible user mistakes to show pathways in which users may still 
 
 -   **On Contact Page:** Either in-line alerts within page or only alert on page that prevents anything else from being done until edited (like notification settings)
 
-*Photos*
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/images/initial-design-direction.png)
 
 ### Additional:
 -   Outside of profile, alerts could be located in MyVA to alert Veterans that changes are needed on Profile:
