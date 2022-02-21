@@ -27,7 +27,7 @@ The goals of this study are to:
 
 
 ### Outcome
-Results of this study will help us determine if our proof of concept is headed in the right direction, and if there are any big usability concerns that Veterans experience with the designs. 
+Results of this study will help us determine if our proof of concept is headed in the right direction, and if there are any big usability concerns that Veterans experience with the designs. This will inform later iterations of the design as we move into a MVP stage of the product.
 
 ### Research questions
 This research will help us answer:
@@ -38,12 +38,9 @@ This research will help us answer:
 - What is the Veteran perception of how the health apartment would fit into how they manage their health at the VA?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
-
+- Veterans will easily understand the idea of a centralized place where they can access their VA medical information
+- Veterans will expect a personalized experience if logged in, such as their specific prescriptions, appointments, or information relevant to their care
+- Veterans will understand the idea of MHV information that is accessible via VA.gov
 
 ## Method	
 We use conduct remote moderated usability studies using a high fidelity Sketch prototype. This round of research is focused on the laptop/desktop experience. Future rounds of research will explore mobile versions of the prototype.
@@ -69,7 +66,7 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 **Primary criteria (must-haves)**
 - At least six participants that have VA healthcare and regularly use MyHealtheVet
 - Up to six participants that do not use VA healthcare or access their health information via MyHealtheVet
-- Must have access to a laptop or desktop computer to interact with the prototype. 
+- Must have access to a laptop or desktop computer to interact with the prototype
 
 **Secondary criteria (nice-to-haves)**
 - 8 participants over the age of 55 years
@@ -82,9 +79,7 @@ Please schedule a total of 15 Veterans for an expected completion rate of 10-12 
 
 
 ### Prepare
-When will the thing you are testing be finalized? (Goes without saying, but should be a few days before testing will begin.)
 
-Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email: TBD
 * Date and time of pilot session: TBD
 
