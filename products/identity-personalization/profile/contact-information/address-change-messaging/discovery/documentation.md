@@ -1,6 +1,5 @@
 # Address Change Messaging Discovery
 
-DRAFT
 
 ## Background
 
