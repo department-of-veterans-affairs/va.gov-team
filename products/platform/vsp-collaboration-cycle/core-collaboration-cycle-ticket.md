@@ -24,7 +24,6 @@ Skip to...
 - **GitHub label for feature:**     <!-- Label should be in the va.gov-team repo -->
 - **Start date of enhancement:**
 - **Feature launch date:**
-- **VA 508 Office audit request ticket number:**
 - **Production URL:**
 - **Front-end information:**
 
