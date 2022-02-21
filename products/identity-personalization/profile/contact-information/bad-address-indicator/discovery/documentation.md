@@ -1,7 +1,5 @@
 # Bad Address Indicator Discovery
 
-DRAFT
-
 ## Activities
 
 -   Review the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator).
