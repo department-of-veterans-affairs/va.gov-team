@@ -1,6 +1,6 @@
 
 ## Card List for Closed Card Sort
-Based on the findings from our [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md#key-findings) regarding participants being confused about card descriptions & needing them to be explained ("All cards in sort were not clear to the Veterans", we modified our card descriptions to improve clarity. We also added 3 new cards.
+Based on the findings from our [Open Card Sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/information-architecture/open%20card%20sort/Card-sort-research-report.md#key-findings) regarding participants being confused about card descriptions & needing them to be explained ("All cards in sort were not clear to the Veterans", we modified our card descriptions to improve clarity. We also added two new cards.
 
 
 
