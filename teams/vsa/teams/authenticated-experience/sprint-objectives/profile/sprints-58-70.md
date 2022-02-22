@@ -458,6 +458,10 @@ Continue build; What do we still need to finish design and FE?
 
 - Provide estimate of how long BE build will take; Continue BE build"
 
+### Address Change Messaging
+
+Wrap up all design work; complete FE if possible.
+
 ### Bad address indicator
 
 Personal information work is higher priority, so only move on to bad address indicator tasks as time allows.
