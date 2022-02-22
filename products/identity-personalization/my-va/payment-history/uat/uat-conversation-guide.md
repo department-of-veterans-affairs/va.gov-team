@@ -2,7 +2,6 @@
 
 - [ ] Make sure dev team has turned on feature for user
 - [ ] Review whether or not the participant roster states the participant has VA debt
-- [ ] Start a thread for observers in _#feedback-backchannel_
 
 ## Intro - 2 minutes
 Thanks for joining us today! My name is Angela and I also have some colleagues on the line observing and taking notes. We've add a new  feature to help Veterans access their most recent payment and debt information and we want to make sure that it is all working properly in your account.
@@ -61,8 +60,7 @@ What are your thoughts on the debt information shown here?
 *If user has debt, and they don’t mention, ask:* How meaningful is it to see the total number of debts?
 
 - [ ] **UAT TASK**: Confirm debt alert reflects accurate count or “Your total VA debt balance is $0” message is displaying.
-- [ ] **Usability**: What do they think about the debt information?
-- [ ] **Usability**: What do they think about the number of outstanding debts?
+- [ ] -**Usability**: Do participants who actually have debt find the debt information helpful, particularly the number of outstanding debts?
 
 ## 3. Confirm all links - X minutes
 Let’s review the links in this section.  Please read them to me.
@@ -71,10 +69,9 @@ Thank you. Now I’ll have you click on each one to make sure it goes to the rig
 
 - [ ] **UAT TASK**: Confirm direct deposit link is showing.
 - [ ]  **UAT TASK**: Confirm Learn more about VA debt link is showing only for users who do not have outstanding debt.
-- [ ] **UAT TASK**: Confirm View payment history link is showing for users who do not have a recent payment
+- [ ] **UAT TASK**: Confirm View payment history link is showing in the list of links with icons for users who do not have a recent payment
 - [ ] **UAT TASK**: Confirm links are behaving as expected
 - [ ] **Usability**:  How easy is it for magnification users to use the links?
-- [ ] **Usability**:  How did Veteran expectations match up with where the links took them?
 
 ## Post-Task Interview - X minutes
 Thank you so much! That was everything I wanted you to review today. This has been really helpful for our team. Do you have any feedback on what we looked at today?
