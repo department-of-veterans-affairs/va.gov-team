@@ -31,12 +31,7 @@ Below are two advertisements that can be used on digital screens in elevators, w
 
 This can be used by any VAMC whether or not they have an MVP clinic (it directs Veterans to join online at mvp.va.gov).
 
-Customizable:
-- [1920x1080 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1920x1080-custom.png)
-- [1280x720 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1280x720-custom.png)
-- [1237x926 customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1237x926-custom.png)
-
-Non-customizable:
+Non-customizable digital ads:
 - [1920x1080 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1920x1080-not-custom.png)
 - [1280x720 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1280x720-not-custom.png)
 - [1237x926 non-customizable ad (PNG)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/mvp-collateral/assets/1M/png/1M-Digital-1237x926-not-custom.png)
