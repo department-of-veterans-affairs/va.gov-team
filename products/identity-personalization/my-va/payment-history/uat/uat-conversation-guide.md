@@ -61,8 +61,8 @@ What are your thoughts on the debt information shown here?
 *If user has debt, and they don’t mention, ask:* How meaningful is it to see the total number of debts?
 
 - [ ] **UAT TASK**: Confirm debt alert reflects accurate count or “Your total VA debt balance is $0” message is displaying.
-- [ ] -**Usability**: What do they think about the debt information?
-- [ ]  **Usability**: What do they think about the number of outstanding debts?
+- [ ] **Usability**: What do they think about the debt information?
+- [ ] **Usability**: What do they think about the number of outstanding debts?
 
 ## 3. Confirm all links - X minutes
 Let’s review the links in this section.  Please read them to me.
