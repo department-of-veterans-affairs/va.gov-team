@@ -1,6 +1,11 @@
 # Visual QA / Design Review Readiness Checklist
+**VSA eBenefits Team | February 2022**
+
+---
 
 The purpose of this checklist is to provide guidance as VA.gov screens/features transition from design to development. The goal is to produce review-ready work products, and to minimize delay and re-work due to missed requirements.
+
+---
 
 ### HTML Structure / Visual Presentation
 | Criteria | Design | Development |
