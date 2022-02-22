@@ -75,9 +75,9 @@
 - [Interactive Sketch prototype](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/PGzGPJr/play)
 - [Check-In Test Data Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
 - [Check-In Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
-- Pre-Check-In User Flow: 
-    [Read-only version](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/qeOEgjk)
-    [Editing version](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/Gm7yvkE)
+- Pre-Check-In User Flow:
+-   [Read-only version](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/qeOEgjk)
+-   [Editing version](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/Gm7yvkE)
 - [Research Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research)
 - [Engineering Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering)
 - [VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)  
