@@ -34,11 +34,36 @@ During the Vets.gov-VA.gov consolidation effort, the health features were remove
 
 ## Challenges with the current mechanism
 ### MHV credential/account linking
+It's fine for the MHV backend to maintain the concept of a user account record with an identifier. However, the fact that the current onboarding flow requires the user to establish an MHV credential associated with that account, is sub-optimal.
+* The MHV credential is being deprecated, so why require more users to establish one? 
+* If a user primarily uses a different credential type, having a latent MHV username/password out there is a security risk.
+* Since the onboarding flow only exists on MHV's site, there's no way for new VA patients to use health features on the mobile app without visiting MHV at least once. 
+
+Given the previous implementation of sequestered accounts and the account creation API, we know it is feasible to establish MHV account records without establishing MHV credentials. 
+
+_Open Question: What, if any, implementation challenges did sequestered accounts create within MHV? Are those still relevant if user-facing features are migrated to VA.gov?_
 
 ### State management for account creation/upgrade
+The account creation API used in the Vets.gov days worked, but did introduce some complexity and state management for Vets.gov to consume it properly:
+* The requirement to display terms and conditions, and the fact that creation and upgrade were separate operations, meant that Vets.gov had to maintain state about exactly where in the process the user was, in case of an error at any stage.
+* Account creation introduces some latency. Vets.gov had to decide when to invoke the account creation process - upon login, upon loading any health tool, etc. to make as smooth a user experience as possible.  
+* Terms and conditions might need updating and re-acceptance by the user.
+* There was a corner case where an account might have been recorded as upgraded but subsequently been downgraded. 
+
+Basically as soon as that state is maintained across multiple systems, there is the possibility that the state is out of sync. 
+
+### No API for MHV account status
+There is no direct API that a client can invoke to say "Given this MHV account ID, what account tier is it?" Instead, VA.gov invoked the blue button API and derived the account tier from the number of health record categories avialable (which numberr differs for basic/advanced/premium accounts). This seems like a brittle implementation. 
 
 ### MHV account status spanning across credentials
+Ultimately the MHV account tier determines what features and data the user is allowed to access, aka authorization. 
+
+Because the MHV account record can be associated with multiple credentials, it introduces the possibility that a user signs in with a high-assurance ID.me credential, and their MHV account gets marked as "upgraded". They can then sign in with a lower-assurance MHV credential and the account is still upgraded, because the status is associated with the account, not the credential.  
+
+In principle, authorization decisions should flow from the identity assurance and authentication assurance of the credential and/or the specific authentication event for a session, rather than being a permanent state of an internal account record. 
 
 ## Options
+
+
 
 ## Recommendation
