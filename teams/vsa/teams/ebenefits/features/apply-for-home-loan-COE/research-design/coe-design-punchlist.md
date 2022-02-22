@@ -30,7 +30,13 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 
 ### VA form 26-1880
 
-- [ ] Needs review
+- [ ] Your application will be saved... add to prototype (maybe "Request")
+- [ ] Confirm order of SIP alert and Finish later link
+- [ ] Adjust margin-top on DOB fieldset
+- [ ] Add application ID to SIP alert in prototype
+- [ ] Remove tell-me-more accordion from prototype
+- [ ] Add "Additional contact info" form title 
+
 
 ### Your COE States
 
@@ -41,7 +47,17 @@ Screens proofed locally the week of February 7, 2022. Reference prototype is ava
 - [ ] Uploader: hide Submit before upload
 - [ ] Check padding on blue border-left for hidden text field; check text field alignment shift
 - [ ] Change padding on paragraph below "You have letters about your COE request" to 24px (or to match other paragraphs)
-
+- [ ] Confim hex color for red label text in prototype
+- [ ] Your service history screen: change third radio button to "I’m a current member of the National Guard or Reserves and was never activated"
+- [ ] Service period list-loop: check padding-left and spaceing above save button
+- [ ] Confirm form section titles/headers are 15px in prototype
+- [ ] Your VA loan history: add title to prototype
+- [ ] Your VA loan history: check alignment of form inputs
+- [ ] Your VA loan history: Use month/year for date selector
+- [ ] Your VA loan history: shorten text field for VA loan number
+- [ ] Doc uploader: check spacing above dropdown and above upload button
+- [ ] Doc upload: can uploaded file card show above dropdown?
+- [ ] 
 
 **HP!** indicates "high priority."
 
