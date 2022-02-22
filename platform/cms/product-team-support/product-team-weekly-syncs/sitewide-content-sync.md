@@ -10,6 +10,11 @@
 <details><summary>Parking lot</summary>
  </details>
 
+## February 22, 2022
+### Agenda
+- Claro launch timing (Rachel)
+- Listening session analysis in progress (Suzanne and Denise)
+
 ## February 9, 2022
 ### Agenda
 - CMS support for R&S pilot
