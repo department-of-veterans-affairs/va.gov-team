@@ -56,10 +56,3 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 | Includes FOR tags within form labels |  N/A  | <ul><li>[ ] Yes</li></ul> |
 | Adheres to appropriate design system color combinations | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Screen ready for 508 Review | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
-
-### Analytics(?)
-| Criteria | Design | Development |
-| :---------- | :----------: | :----------: |
-
-
-
