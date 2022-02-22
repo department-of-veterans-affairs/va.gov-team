@@ -269,7 +269,7 @@ N/A
 ## Approvals
 
 * Review by PO [Leanna Miller](https://github.com/leanna-usds) & [Travis Newby](https://github.com/travis-newby) by Feb 18, 2022
-* Reviewed and approved by Shane Strassberg or Clayton Zook on DATE TBD
+* Reviewed and approved by Shane Strassberg on February 22
 
 
 
