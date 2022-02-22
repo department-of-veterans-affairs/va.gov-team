@@ -10,11 +10,11 @@ Date: 02/22/22
 
 
 **Jump to:**
-- Background
-- Overall Findings
-- Themes
-- Recommendations &amp; Next Steps
-- Further Research Needed
+- [Background](#background)
+- [Overall Findings](#overall-findings)
+- [Themes](#themes)
+- [Recommendations &amp; Next Steps](#recommendations--next-steps)
+- [Further Research Needed](#further-research-needed)
 
 
 # Background
@@ -156,8 +156,8 @@ Participant 7 Quote
 
 ### Further Research Needed
 Recruitment Checker Matrix
-<img width="650" alt="Round 1 Recruitment Checker Matrix" src="https://user-images.githubusercontent.com/22205441/155230641-4ecc0f54-16e8-4940-986c-25da497179d1.png">
 
+<img width="650" alt="Round 1 Recruitment Checker Matrix" src="https://user-images.githubusercontent.com/22205441/155230641-4ecc0f54-16e8-4940-986c-25da497179d1.png">
 
 In the next round of research we need to specify recruiting from the following groups:
 
