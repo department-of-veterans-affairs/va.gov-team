@@ -474,6 +474,8 @@ Personal information work is higher priority, so only move on to bad address ind
 
 ### MHV profile research (Liz)
 
+[Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/mhv-profile-research#readme)
+
 This is kind of a pre-engagement sprint as Liz rolls off of My VA work. However, we talked about her being able to do the following.
 
 - VA.gov and MHV profile evaluation and comparison
