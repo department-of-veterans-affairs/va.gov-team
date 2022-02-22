@@ -12,7 +12,7 @@
 
 ## February 22, 2022
 ### Agenda
-- Claro launch timing (Rachel)
+- Claro launch planned for today
 - Listening session analysis in progress (Suzanne and Denise)
 - Content strategy for the Veteran benefit experience (Danielle and Mikki) - deck for reference: https://docs.google.com/presentation/d/1TYjP6rOCHGMt30DC8eHjNtQTXRQD2L2W/edit?usp=sharing&ouid=106800558061285222301&rtpof=true&sd=true
 
