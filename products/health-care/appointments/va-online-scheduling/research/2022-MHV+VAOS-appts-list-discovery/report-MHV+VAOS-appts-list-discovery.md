@@ -101,9 +101,10 @@ When asked about the most confusing aspect of all appointment lists they saw (MH
 
 ### 3/9 participants were confused to see unfamiliar facilities when navigating from MHV to VAOS.
 
-When scheduling online from MHV a screen pops up asking Veterans to choose from facilities where they are registered. 
+When scheduling online from MHV a screen pops up asking Veterans to choose from facilities where they are registered. This directs Veterans to scheduling portals for sites that don't use VAOS.
 
-[TODO: add image]
+<img width="878" alt="Screen Shot 2022-02-22 at 8 43 10 AM" src="https://user-images.githubusercontent.com/2536801/155178493-b442db89-b737-4cdf-99aa-c6c7f3130db8.png">
+*MHV's list of sites scheduling options.*
 
 These facilities are often unfamiliar to Veterans, or simply nowhere near their current location, as they may have visited them once and not known they were being registered.
 
