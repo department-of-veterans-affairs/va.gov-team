@@ -224,7 +224,7 @@ We estimate it will take participants 15 minutes or less to complete the card so
 
 ## Timeline
 
-The card sort will launch on Feb 28, and should remain open until there are 30 completes or for 2 weeks (whichever is sooner).
+The card sort will open on Feb 28 and should remain open for two weeks (March 14) or until there are 30 completes (whichever is sooner).
 
 
 ### Prepare
