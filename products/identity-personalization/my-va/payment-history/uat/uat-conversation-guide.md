@@ -50,7 +50,6 @@ Does everything related to your payment look right to you?
 - [ ] **UAT TASK:** Confirm that they are LOA3. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
 - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 - [ ] **UAT TASK:** Confirm the payment section is showing
-- [ ] **UAT TASK:** Confirm the payment section is showing
 - [ ] **UAT TASK**: Confirm payment card accurately reflects data or “You haven’t received a payment in the last 30 days” message is displaying.
 - [ ] **Usability**: Do screen magnification users struggle with anything here?
 - [ ] **Usability**: Anything confusing here?
