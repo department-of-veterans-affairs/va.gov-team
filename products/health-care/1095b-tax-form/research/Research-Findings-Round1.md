@@ -1,19 +1,21 @@
 # 1095-B Tax Document Research Findings – Round 1
 
-**Office of the CTO – Digital Experience (OCTO-DE),**  **PRODUCT NAME, TEAM NAME**
+**Office of the CTO – Digital Experience (OCTO-DE),**  **1095-B Tax Form, Team MOVE**
 
 Date: 02/22/22
 
-Design &amp; Research: James Lewis, [james.lewis@frogdesign.com](mailto:james.lewis@frogdesign.com)
- Designer: Grace Hong [grace.hong@frogdesign.com](mailto:grace.hong@frogdesign.com)
+- Design &amp; Research: James Lewis [james.lewis@frogdesign.com](mailto:james.lewis@frogdesign.com)
+- Design: Grace Hong [grace.hong@frogdesign.com](mailto:grace.hong@frogdesign.com)
+- Content: Carl Dickerson [carl@themostudio.com](mailto:carl@themostudio.com)
 
-Content: Carl Dickerson, [carl@themostudio.com](mailto:carl@themostudio.com)
-
-Research Report PDF
 
 **Jump to:**
+- Background
+- Overall Findings
+- Themes
+- Recommendations &amp; Next Steps
+- Further Research Needed
 
-**QUICK LINKS HERE**
 
 # Background
 
