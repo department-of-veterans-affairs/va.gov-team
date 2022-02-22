@@ -262,7 +262,7 @@ N/A
 * Research guide writing and task development: [Holly Collier](https://github.com/htcollier), [Melissa Lefevre](https://github.com/melissa-lefevre)
 * Participant recruiting & screening: Perigean
 * Project point of contact: [Holly Collier](https://github.com/htcollier)
-* Participant(s) for pilot test: TBD
+* Participant(s) for pilot test: Rafael Arroyo
 
 
 
