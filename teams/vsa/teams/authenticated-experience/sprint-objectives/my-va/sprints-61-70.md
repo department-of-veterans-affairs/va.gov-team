@@ -383,7 +383,7 @@ Sprint goal: Complete QA
 
 **Design**
 
-- If not already done, complete UAT planning
+- If not already done, complete UAT planning (#36678, #36679)
 - Depending on when QA is done and if any issues are found, we can start on fixes
 
 **FE**
