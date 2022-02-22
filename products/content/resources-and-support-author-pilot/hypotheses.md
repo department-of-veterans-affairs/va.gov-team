@@ -57,9 +57,10 @@
 - Does a lack of dashboard-level orientation confuse the editorial workflow?
 - From the moment a user logs in, what steps do they take to complete the tasks?
 - What pain points exist in the CMS for the content workflow?
+- Do users know where to find what they need?
 
 
-## Hypothesis 8: Users will have difficulties understanding how the CMS content creation process relates to the front-end website and design. 
+## Hypothesis 8: Users will have difficulties understanding how the CMS content creation process relates to the front-end website and design.
 
 ### What we want to learn:
 - What difficulties will users face as they move throught the CMS to create their content?
@@ -74,7 +75,13 @@
 - Is the guidance within the forms clear?
 - What are the specific pain points within the forms?
 
-## Hypothesis 10: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and create-once-publish-everywhere (COPE) reuse.
+## Hypothesis 10: Users will have a hard time determining if their R&S content is unique while in the CMS.
+
+### What we want to learn:
+- Does the CMS taxonomy cause confusion during the content creation process?
+- How do users determine the content they are creating is unique?
+
+## Hypothesis 11: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and create-once-publish-everywhere (COPE) reuse.
 
 ### What we want to learn:
 - What can we do now with the content types/components we have to help restructure content for better reuse in the future?
