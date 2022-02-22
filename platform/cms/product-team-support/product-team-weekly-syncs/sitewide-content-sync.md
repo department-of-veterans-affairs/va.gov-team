@@ -12,9 +12,12 @@
 
 ## February 22, 2022
 ### Agenda
-- Claro launch planned for today
+- Claro launch planned for today; we will be watching the survey results
 - Listening session analysis in progress (Suzanne and Denise)
 - Content strategy for the Veteran benefit experience (Danielle and Mikki) - deck for reference: https://docs.google.com/presentation/d/1TYjP6rOCHGMt30DC8eHjNtQTXRQD2L2W/edit?usp=sharing&ouid=106800558061285222301&rtpof=true&sd=true
+  - there is a big push at the VA for a health-literate healthcare model
+  - Dave: flagging whether we will be monitoring time to completion? Getting them to the start of the funnel while keeping in mind the overarching goal of VA.gov
+  - send any questions comments to Danielle and Mikki via Slack
 
 ## February 9, 2022
 ### Agenda
