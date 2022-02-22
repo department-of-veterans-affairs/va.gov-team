@@ -90,7 +90,7 @@ Participant 7 Quote:
 
 Paperless Screenshot:
 
-![](RackMultipart20220222-4-10obh7w_html_ae947e6ec098f820.png)
+<img width="326" alt="Paperless Delivery Opt-In wireframe screenshot" src="https://user-images.githubusercontent.com/22205441/155230263-35bcf35b-c0e7-4317-b5c5-cad65559cbf9.png">
 
 Participant 2 Quote:
 
@@ -137,7 +137,7 @@ Participant 7 Quote
 
 ### Finding the 1095-B Document
 
-_Reference Screenshot of VA.gov homepage_
+<img width="448" alt="Example of VA.gov homepage" src="https://user-images.githubusercontent.com/22205441/155230571-4566a875-c786-47c7-8dbf-7fa3e891b540.png">
 
 - Participants were prompted to visit the VA.gov website and asked where they might look for the 1095-B form.
 - **4/6 Participants went to the Records panel first** , with the remaining 2/6 participants going to the Health care panel first.
@@ -156,6 +156,7 @@ _Reference Screenshot of VA.gov homepage_
 
 ### Further Research Needed
 Recruitment Checker Matrix
+<img width="650" alt="Round 1 Recruitment Checker Matrix" src="https://user-images.githubusercontent.com/22205441/155230641-4ecc0f54-16e8-4940-986c-25da497179d1.png">
 
 
 In the next round of research we need to specify recruiting from the following groups:
