@@ -26,7 +26,5 @@ CHIP's [source of truth](https://github.com/department-of-veterans-affairs/chip/
 
 ## Pre-check-in <a name="precheckin"></a> 
 The follwing Sketch files (linkes below) show the overall user flow and decision points for both Read-only and Editing user flows. However, the Sketch document is not the source of truth. It will be updated periodically, but may be out-of-date.
-
-[Read-only](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/qeOEgjk)
-
-[Editing](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/Gm7yvkE)
+  - [Read-only](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/qeOEgjk)
+  - [Editing](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/Gm7yvkE)
