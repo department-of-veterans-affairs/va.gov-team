@@ -80,7 +80,7 @@ Participant 7 Quote:
 
 &quot;_I do both [physical and digital] but I probably prefer the physical mail, because then it&#39;s reminding me of these things I might need… [and] I probably am not going to lose it.&quot;_
 
-## Paperless Opt-In Delivery
+### Paperless Opt-In Delivery
 
 - A second version of the authenticated download screen was shown with an option to sign up for paperless delivery. **Version shown was to test concept, not execution.**
 - Participants generally liked the ability to sign up for paperless delivery, with many of the same reasons cited as preferring digital download
@@ -113,7 +113,7 @@ Participant 8 Quote:
 
 &quot;_Because you&#39;re talking about a phone number for a government entity. And some people are gonna place that in the same category as calling Comcast because their internet&#39;s out… So maybe maybe an option also to, to email, if it&#39;s feasible._
 
-## Do I need this?
+### Do I need this?
 
 - **4/6 Participants were unclear if they actually needed the 1095-B to submit with their taxes.**
 - Participant 3 attended law school and understood the legal requirements clearly.
@@ -133,9 +133,7 @@ Participant 7 Quote
 
 &quot;_It seems like they probably send me something that says I&#39;m covered for Obamacare, or or something.&quot;_
 
-## Finding the 1095-B Document
-
-![](RackMultipart20220222-4-10obh7w_html_4cd67e71aa94e80e.png)
+### Finding the 1095-B Document
 
 _Reference Screenshot of VA.gov homepage_
 
@@ -154,7 +152,9 @@ _Reference Screenshot of VA.gov homepage_
 - Improved visual hierarchy in high fidelity designs
 - For next round of user testing with high fidelity designs, further explore preferences around updating the form (if information is incorrect) and how the participants understand the requirements of keeping the 1095-B document and including it their taxes.
 
-## Further Research Needed
+### Further Research Needed
+Recruitment Checker Matrix
+
 
 In the next round of research we need to specify recruiting from the following groups:
 
@@ -162,4 +162,4 @@ In the next round of research we need to specify recruiting from the following g
 2. Race: Black, Latinx, Biracial, Asian, Native
 3. Confirm LGBTQ Status
 
-![](RackMultipart20220222-4-10obh7w_html_c4d41e000881e45c.png)
+
