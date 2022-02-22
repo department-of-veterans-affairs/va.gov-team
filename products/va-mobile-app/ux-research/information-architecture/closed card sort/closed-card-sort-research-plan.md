@@ -224,7 +224,7 @@ We estimate it will take participants 15 minutes or less to complete the card so
 
 ## Timeline
 
-The card sort will be open for at least 2 weeks starting on Feb XX, and should remain open until there are 30 completes.
+The card sort will launch on Feb 28, and should remain open until there are 30 completes or for 2 weeks (whichever is sooner).
 
 
 ### Prepare
@@ -233,19 +233,18 @@ The card sort will be open for at least 2 weeks starting on Feb XX, and should r
 * Create closed card sort test/s on [OptimalWorkShop.com](optimalWorkShop.com)
 * Test card sort preview link with internal UX team members on February 14 & 15, 2022
 ### Pilot
-* Launch pilot using [OptimalWorkShop.com](optimalWorkShop.com) on TBD
-* Pilot participant: TBD
+* Launch pilot using [OptimalWorkShop.com](optimalWorkShop.com) week of Feb 22
 * Edit protocol after pilot
 ### Study
-* Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com)
+* Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com) Feb 28
 * Analysis of Closed Card Sort
-* Review findings with TBD. Edit based on feedback
+* Review findings with VA mobile UX team, stakeholders. Edit based on feedback
 * Repeat Closed Card Sort with alternate category label sets if needed
 
 
 
 ### Research sessions
-February 2022
+March 2022
 
 
 ### Length of sessions
