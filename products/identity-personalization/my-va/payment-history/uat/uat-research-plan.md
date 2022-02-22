@@ -62,6 +62,7 @@ Please recruit 12 participants for 6 completed sessions.
 #### Primary criteria (must-haves)
 
 **All participants**
+
 - must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means, so please confirm this prior to testing.** 
 	- This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. 
 	- If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. 
@@ -73,7 +74,7 @@ Please recruit 12 participants for 6 completed sessions.
 	- **If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.**
 	- **Qualifier:** Are you willing to share your screen with our moderator after you log in to VA.gov? The session will take you to a section of VA.gov where your VA financial information will be viewable. (Answer should be yes to qualify)
 
-- must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
+- Must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the prototype in production.
   
 - Must have received education benefit or compensation/pension payments from the VA. Screener question:
    - Have you ever received an education, compensation, or pension payment from the VA?
@@ -83,8 +84,10 @@ Please recruit 12 participants for 6 completed sessions.
 
 **Participant groups**
     
-- 4 participants should not have received a payment within the last 30 days.
-- 75% of participants should identify as other than male (female, transgender, non-binary)
+- 4 participants who have received payments from the VA in the past, but have not received a payment in the last month. Screener question (as a follow-up to the first screener above):
+	- Have you received a payment in the last 30 days? 
+	- Answering no would qualify the participant to meet this criteria.
+- 75% of participants should identify as other than male 
 - At least 50% of participants should identify as having a cognitive disability
 - At least 50% of participants should be younger than 55
 - 6-8 participants should have at least one outstanding VBA debt. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts: Screener questions:
@@ -99,9 +102,9 @@ Please recruit 12 participants for 6 completed sessions.
 	- Answering yes would qualify the participant for the study.
 #### Secondary criteria (nice-to-haves)
 ##### Inclusion:
-- At least 6 people who use assistive technology (such as screen readers, keyboard magnification, hearing aids, or voice recognition)
-- At least 3 transgender Veterans
-- At least 3 Veterans living abroad
+- 2 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition)
+- At least 3 Veterans living abroad (please work with researcher to coordinate timezones)
+**action item; confirm with Angela she’d be willing to do this** 
 - At least 6 Veterans who identify as Hispanic, Asian, or Native
 - At least 2 Veterans with other than honorable discharge
 * At least 3 Veterans who have an immigrant origin
