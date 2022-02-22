@@ -50,7 +50,34 @@
 - As we streamline benefit hubs and rely more on crosslinking between hubs and R&S, how much do people use those crosslinks from the benefit hubs and at what points during the application flow?
 - What CTA guidance and/or "rules" can we create to ensure that crosslinks are as helpful and effective as possible? For example, does every R&S article that relates directly to a VA benefit have to have 2 CTAs (1 to the benefit application and 1 to the benefit hub "About" page)?
 
-## Hypothesis 7: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and create-once-publish-everywhere (COPE) reuse.
+## Hypothesis 7: A CMS dashboard could help R&S editors track and search the article library and provide a clear workflow for adding new content. 
+
+### What we want to learn:
+- Would a dashboard be helpful?
+- Does a lack of dashboard-level orientation confuse the editorial workflow?
+- From the moment a user logs in, what steps do they take to complete the tasks?
+- What pain points exist in the CMS for the content workflow?
+
+
+## Hypothesis 8: Users will have difficulties understanding how the CMS content creation process relates to the front-end website and design. 
+
+### What we want to learn:
+- What difficulties will users face as they move throught the CMS to create their content?
+- Will users understand how editorial workflow display on the front-end website?
+- How do users preview their work?
+- Is the node view in the CMS helpful to their mental model?
+
+## Hypothesis 9: Form inconsistencies will confuse editors and surface pain points that the CMS can help evaluate and address. 
+
+### What we want to learn:
+- Do users understand the differences in the forms they are using?
+- Is the guidance within the forms clear?
+- What are the specific pain points within the forms?
+
+## Hypothesis 10: We will incur content, design, and technical debt as we move forward with existing R&S templates because we know that we ultimately want to structure content for greater flexibility and create-once-publish-everywhere (COPE) reuse.
 
 ### What we want to learn:
 - What can we do now with the content types/components we have to help restructure content for better reuse in the future?
+
+
+
