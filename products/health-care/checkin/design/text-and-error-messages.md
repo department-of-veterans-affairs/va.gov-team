@@ -25,6 +25,8 @@ CHIP's [source of truth](https://github.com/department-of-veterans-affairs/chip/
 | Is the system operational? (Any bad request from the server) | (header) We couldn't check you in (body) We're sorry. Something went wrong on our end. Check in with a staff member. | ![generic error](https://user-images.githubusercontent.com/66287082/152366754-44736746-4e6e-4753-9a3a-7c17c5383844.png) |
 
 ## Pre-check-in <a name="precheckin"></a> 
-The follwing Sketch files show the overall user flow and decision points for both Read-only and Editing user flows. However, the Sketch document is not the source of truth. It will be updated periodically, but may be out-of-date.
+The follwing Sketch files (linkes below) show the overall user flow and decision points for both Read-only and Editing user flows. However, the Sketch document is not the source of truth. It will be updated periodically, but may be out-of-date.
+
 [Read-only](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/qeOEgjk)
+
 [Editing](https://www.sketch.com/s/5331b114-280d-4ff5-8d36-ec49b1696b9e/a/Gm7yvkE)
