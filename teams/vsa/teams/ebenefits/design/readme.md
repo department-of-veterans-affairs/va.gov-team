@@ -93,13 +93,13 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 
 ### Team members
 
-- Jason Wolf | jwolf@govcio.com -- eBenefits product manager
-- Kathleen Crawford | kcrawford@govcio.com -- Backend engineer
+- Jason Wolf | jason.wolf@govcio.com -- eBenefits product manager
+- Kathleen Crawford | kathleen.crawford@govcio.com -- Backend engineer
 - Amanda Leaders | amanda.leaders@govcio.com -- Backend engineer
 - Jesse Cohn | jesse.cohn@adhocteam.us -- Frontend engineer
 - Jarek Shoemaker | jerek.shoemaker@adhocteam.us -- Frontend engineer
-- Candy Clark | cclark@govcio.com -- Designer
-- James Adams | jadams@govcio.com -- Designer
+- Candy Clark | candace.clark@govcio.com -- Designer
+- Jim Adams | james.adams@govcio.com -- Designer
 - Matt Self | matt.self2@va.gov -- Product owner
 
 ### Resources
