@@ -11,19 +11,19 @@ The purpose of this document is to provide a clearinghouse for research and desi
 
 | Feature (Github link) | AKA | Status (Feature link) |
 | :--- | :--- | :--- |
-| View Rated Disabilities | Rated disabilities | In production |
-| View Dependents | --- | In production |
-| View Payments | Payment History | In production |
-| VA Form 21-686c/674 | Add/remove dependents | In production |
-| VA Form 28-8832 | Chapter 36/PCPG | In production |
-| VA Form 28-1900 | Chapter 31, CH31, VR&E | In production |
-| Change Direct Deposit (Education) | DD-EDU | In production |
-| VA form 21-0538 | Dependency Verification | In development |
-| VA Form 26-1880 | Certificate of Eligibility, COE, LGY | In development |
-| View Representative | View Rep, POA | In design/development |
-| VA Form 21-22/a | Find/Appoint Representative, POA | In design/development |
-| A Form 26-4555 | Special Adaptive Housing Grant, SAHG | In design |
-| My Documents | Document hub concept | In discovery |
+| [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities) | Rated disabilities | In production |
+| [View Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | --- | In production |
+| [View Payments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-payment-history) | Payment History | In production |
+| [VA Form 21-686c/674](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents) | Add/remove dependents | In production |
+| [VA Form 28-8832](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling) | Chapter 36/PCPG | In production |
+| [VA Form 28-1900](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31) | Chapter 31, CH31, VR&E | In production |
+| [Change Direct Deposit (Education)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/edu-direct-deposit) | DD-EDU | In production |
+| [VA form 21-0538](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/dependency-verification) | Dependency Verification | In development |
+| [VA Form 26-1880](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-for-home-loan-COE) | Certificate of Eligibility, COE, LGY | In development |
+| [View Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA) | View Rep, POA | In design/development |
+| [VA Form 21-22/a](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA) | Find/Appoint Representative, POA | In design/development |
+| [A Form 26-4555](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-apply-SAHG) | Special Adaptive Housing Grant, SAHG | In design |
+| [My Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-my-documents) | Document hub concept | In discovery |
 | Stakeholder Enterprise Portal | SEP | In discovery |
 
 ## Disciplines
@@ -54,7 +54,10 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 ### Collaboration cycle
 - [VA Platform site](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
 
-### Feature Migration Approach
+---
+
+<details>
+  <summary><strong>High-level feature migration approach</strong> (Click to show details)</summary><br>
 
 1. Analyze existing feature
 2. Conduct discovery research on existing feature
@@ -69,14 +72,22 @@ The document below was used for the first 24 moths of VSA. Much of this process 
 11. Second usability testing round
 12. Review feature in production (if possible)
 13. Conduct user acceptance testing
+</details>
 
-### Design tools
+---
+
+<details>
+  <summary><strong>Design tools used</strong> (Click to show details)</summary><br>
+
 - Sketch for Teams
 - UXPin
 - Adobe XD
 - Mural
 - Github markdown
 - VSCode
+</details>  
+  
+---  
 
 ## Team
 
