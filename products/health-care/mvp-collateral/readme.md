@@ -46,7 +46,7 @@ If your facility has an MVP clinic ([you can check here](https://www.research.va
 
 ### Posters
 
-Each PDF poster has the same content but different portraits and color schemes to accommodate a variety of Veteran audiences. Please use whichever poster best reflects your community. For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
+Each PDF poster has the same content but is sized at three different dimensions. Please use whichever size best suits your ourteach purposes. For VAMCs, we recommend placing posters in highly visible locations, such as lobbies, waiting areas, staff break rooms, women’s clinics, etc.
 
 - [8.5x11 flyer (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-8.5x11-flyer.pdf)
 - [11x17 poster (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/health-care/mvp-collateral/assets/1M/pdf/1M-11x17-poster.pdf)
