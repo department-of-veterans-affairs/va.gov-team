@@ -127,5 +127,6 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 Plan reviewed and approved by Dave Conlon on DATE TBD
+
 Plan reviewed and approved by Shane Strassberg or Kevin Hoffman on DATE TBD
 
