@@ -104,10 +104,9 @@ Please recruit 12 participants for 6 completed sessions.
 ##### Inclusion:
 - 2 people who use assistive technology other than zoom magnification (such as screen readers, sighted keyboard users, hearing aids, or voice recognition)
 - At least 3 Veterans living abroad (please work with researcher to coordinate timezones)
-**action item; confirm with Angela she’d be willing to do this** 
 - At least 6 Veterans who identify as Hispanic, Asian, or Native
 - At least 2 Veterans with other than honorable discharge
-* At least 3 Veterans who have an immigrant origin
+- At least 3 Veterans who have an immigrant origin
 
 ##### Geographic distribution:
 - 4 participants from the east coast
