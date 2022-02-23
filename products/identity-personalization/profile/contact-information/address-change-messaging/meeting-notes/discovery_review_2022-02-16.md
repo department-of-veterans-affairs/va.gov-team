@@ -42,6 +42,6 @@
 - Backlog
   - Edit on a separate page - already in backlog - [#31876](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30373)
   - Alert design - New discovery item to explore a way to show address override confirmation alert when not found in the USPS database.   It should reference the address confirmation issue already in backlog - [#31400](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31400) so that they follow the same pattern.
-  - [Discovery] Military address unchecked/checked scenario
+  - [Discovery] Military address unchecked/checked scenario - [#37490](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37490)
 
 
