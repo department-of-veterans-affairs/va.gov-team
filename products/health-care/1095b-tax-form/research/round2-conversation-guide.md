@@ -37,11 +37,13 @@ MODERATOR: To start, I&#39;d like to ask you a few questions about how you use V
 MODERATOR: So, part of what we&#39;ll be focusing on today is getting forms or paperwork from the VA, and how we might improve that.
 
 5. Do you recall getting mail to your home from the VA?
-  A. [FOLLOW UP IF NEEDED] Has there been a lot? Is it particularly helpful?
-  B. [IF MENTIONS 1095-B by name: Go to 6B]
+ - A. [FOLLOW UP IF NEEDED] Has there been a lot? Is it particularly helpful?
+ - B. [IF MENTIONS 1095-B by name: Go to 6B]
+  
 6. Are you familiar with a form called the 1095-B? _PAUSE_
-  A. [IF NO] Its okay, I wasn&#39;t really either! It&#39;s a form that shows proof of health insurance that you might receive from the VA or an employer. In previous years you included it with your taxes to show the IRS you were covered with health insurance.
-  B. [MENTION OF FORM / FAMILIAR]
+  - A. [IF NO] Its okay, I wasn&#39;t really either! It&#39;s a form that shows proof of health insurance that you might receive from the VA or an employer. In previous years you included it with your taxes to show the IRS you were covered with health insurance.
+  - B. [MENTION OF FORM / FAMILIAR] Go to Question 7
+ 
 7. Do you recall ever getting something like that in the mail from the VA or maybe an employer? What do you usually do with something like that?
 8. What about other paperwork or forms you might need when submitting your taxes? How do you organize that?
 9. Do you do taxes yourself or with your spouse? Do you ever use tax filing software like turbo tax?
