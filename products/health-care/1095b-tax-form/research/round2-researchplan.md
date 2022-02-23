@@ -45,15 +45,13 @@ Moment: Engaging VA to access benefits and services
 
 ## Methods &amp; Location
 
-For this round of research, we will conduct an interview followed by a moderated usability testing session with a clickable prototype. Sessions will be 45 minutes each, with a 15-minute buffer afterwards and conducted via Zoom.
+For this round of research, we will conduct an interview followed by a moderated usability testing session with a clickable prototype. Sessions will be 30 minutes each, with a 15-minute buffer afterwards and conducted via Zoom.
 
 ## Research Materials
 
 Prototype in Progress
 
 ## Participants &amp; Recruitment
-
-[See Template Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-plan.md) | [See Example Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/action-items-discovery/research/alerts-discovery-research-plan.md)
 
 **Participant Must Haves (Primary Criteria):**
 
