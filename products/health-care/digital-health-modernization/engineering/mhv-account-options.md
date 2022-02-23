@@ -55,6 +55,9 @@ Basically as soon as that state is maintained across multiple systems, there is 
 ### No API for MHV account status
 There is no direct API that a client can invoke to say "Given this MHV account ID, what account tier is it?" Instead, VA.gov invoked the blue button API and derived the account tier from the number of health record categories avialable (which numberr differs for basic/advanced/premium accounts). This seems like a brittle implementation. 
 
+### Discoverability of basic accounts
+Users can self-register for a low-assurance credential (either an MHV basic account or a non-identity-proofed ID.me or Login.gov credential), but in these cases no information is recorded in MPI. That means that when a user signs in with such a credential, a system like VA.gov has no way of determining if they have an MHV account record. If they use an MHV basic credential, then the credential carries an MHV account identifier with it, but e.g. there's no way to link a non-proofed ID.me credential to existing MHV self-entered data. 
+
 ### MHV account status spanning across credentials
 Ultimately the MHV account tier determines what features and data the user is allowed to access, aka authorization. 
 
@@ -63,7 +66,31 @@ Because the MHV account record can be associated with multiple credentials, it i
 In principle, authorization decisions should flow from the identity assurance and authentication assurance of the credential and/or the specific authentication event for a session, rather than being a permanent state of an internal account record. 
 
 ## Options
+Given the above challenges, how might we address MHV account requirements for the API integration between VA.gov and MHV.
 
+Assumptions:
+1. For the immediate future, the account concept is too ingrained within MHV services to easily remove. _Check this assumption!_
+2. Going forward, users should not need to create an MHV credential to interact with health features on VA.gov.
+3. The system should work both for users who already have an MHV account record and users who don't yet have one.
+4. The system should work for both high-assurance users (who will have full access to all health features) and low-assurance users (who will have limited access to health features). 
 
+### 1. Resurrect the Account Creation API as-is
+The code in vets-api to perform account creation and upgrade, while complex, was well-tested and functional. One option would be to continue using it as currently designed. Most likely it would be triggered upon first visiting any health feature that requires MHV API access. 
+
+### 2. Resurrect the Account Creation API with modifications
+Some potential simplifying modifications to the account creation API:
+* Consider combining creation and upgrade into one operation.
+* Determine whether terms and conditions acceptance is still required and figure out if that belongs in this API or as a seperate resource.
+* Consider adding an API to determine account tier/allowed actions for a user, rather than deriving that from blue button or other information. 
+
+### 3. Embed account creation in the session token API
+Could account creation be done implicitly within the action of obtaining a session token from MHV? If so, this would entail updating the session API to accept an alternate identifier like an ICN, and then the session token API would either use an existing MHV account or create one. _Simpler for VA.gov, but perhaps overloading the intent of that API?_
+
+### 4. Make authorization a function of current authentication context
+Instead of recording account tier as a persistent state of the account, derive a set of allowed actions from the context of the presented credential and authentication event. This would likely be implemented within the session token API by returning some information about what actions were authorized for the current session. 
+
+### 5. Figure out how to link information about low-assurance credentials 
 
 ## Recommendation
+
+
