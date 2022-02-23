@@ -1,21 +1,24 @@
 # Flow of 526EZ submission
+
+Mermaid flowchart of the flow of the 21-526EZ disability compensation form, based on [the mural](https://app.mural.co/t/vsa8243/m/vsa8243/1636749936875/50f454702e8cd9ddf5d4e18b7209a7f6872b51a1?sender=ae9f125f-266e-4da1-9139-b15ad66209ae) and [the actual form](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction).
+
 ```mermaid
 
 flowchart TD
     subgraph Need to file 526EZ?
-    A[File for disability compensation] --> B(Is this the form I need?)
-    B[Is this the form I need?] --> | Yes | C[Are you on active duty right now?]
-    C --> |Yes| E
-    C --> |No| F
-    E[New claim or disagreeing with a VA decision?] --> |New Claim| H
-    E[New claim or disagreeing with a VA decision?] --> |Existing Claim| G
-    G[Update your disability claim] 
-    F[Date of Discharge 90 - 180 days] --> |Not within 90 - 180 days| L
-    F[Date of Discharge] --> |Within 90 - 1| H
-    L[No claim]
+    Start[File for disability compensation] --> needed-form(Is this the form I need?)
+    needed-form[Is this the form I need?] --> | Yes | active-duty[Are you on active duty right now?]
+    active-duty --> |Yes| active-duty-yes
+    active-duty --> |No| new-claim
+    new-claim[New claim or disagreeing with a VA decision?] --> |New Claim| H
+    new-claim[New claim or disagreeing with a VA decision?] --> |Existing Claim| existing-claim
+    existing-claim[Update your disability claim] 
+    active-duty-yes[Date of Discharge 90 - 180 days] --> |Not within 90 - 180 days| no-claim
+    active-duty-yes[Date of Discharge] --> |Within 90 - 180 days| file-526
+    no-claim[No claim]
     end
     subgraph File 526EZ
-    H[File a 526 disability claim online] --> File-526-start
+    file-526[File a 526 disability claim online] --> File-526-start
     File-526-start[Start File 526 ] --> Vet-details
     end
     subgraph Add conditions
