@@ -1,4 +1,4 @@
-# Visual QA / Design Review Readiness Checklist
+# Visual QA / design review readiness checklist
 **VSA eBenefits Team | February 2022**
 
 ---
