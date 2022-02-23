@@ -9,7 +9,7 @@ The purpose of this document is to provide a clearinghouse for research and desi
 
 ## eBenefits Migration features
 
-| Feature | AKA | Status |
+| Feature (Github link) | AKA | Status (Feature link) |
 | :--- | :--- | :--- |
 | View Rated Disabilities | Rated disabilities | In production |
 | View Dependents | --- | In production |
