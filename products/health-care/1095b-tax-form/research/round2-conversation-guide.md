@@ -33,8 +33,6 @@ MODERATOR: To start, I&#39;d like to ask you a few questions about how you use V
 3. Have you previously used any of the digital tools or services on the va.gov website?
   A. [IF YES] Could you tell me an example or two of the things you&#39;ve done on the website, and what your experience has been?
   B. [IF NO] How do you prefer to interact with the VA, if not on the website? Do you use other services like online banking or social media?
-4. Have you ever called a VA customer service telephone number to sign up for something or to ask a question to get help? How did that go?
-  A. [IF NO and clarity needed] So you haven&#39;t called the VA – what resources do you use if you have a question about VA services?
 
 MODERATOR: So, part of what we&#39;ll be focusing on today is getting forms or paperwork from the VA, and how we might improve that.
 
@@ -48,6 +46,7 @@ MODERATOR: So, part of what we&#39;ll be focusing on today is getting forms or p
 8. What about other paperwork or forms you might need when submitting your taxes? How do you organize that?
 9. Do you do taxes yourself or with your spouse? Do you ever use tax filing software like turbo tax?
 10. In the past, do you remember when you might have looked for the 1095-B document? Maybe before, during or after doing your taxes?
+11. Do you know if the 1095-B document is required when you're filing taxes? Whats your understanding of that?
 
 ## Transition to Prototype
 
@@ -113,6 +112,8 @@ _NOTE: Discuss options or allow them to proceed by closing the form, and returni
 
 [NOTE: Discuss problem solving, fixing information with the VA]
 
+Which method would you prefer to update the form? Calling a telephone number, sending an secure message or filling out a form?
+
 **MODERATOR:** Okay, I&#39;d like to click on the top right of the screen and show you a different version of this same page that we&#39;re considering.
 
 [SCREEN: authenticated version with paperless opt-in component]
@@ -125,29 +126,12 @@ Okay, this part of the prototype is finished. Do you have any questions or feedb
 
 [Pause]
 
-### Task 3 (IF TIME): VA.gov Wayfinding
-
-**MODERATOR:** Okay, I&#39;d like to try something a little different. While still sharing your screen, would you mind going to the va.gov website?
-
-So currently, the 1095-B form is not located on the Va.gov website. I&#39;ve looked through the site, but am probably not familiar with it as you. I&#39;m interested if you could walk me through how you might go about looking for the 1095-B form. Where might you start?
-
-**OPTIONS TO DISCUSS:**
-
-  - Main Navigation
-    - Healthcare
-    - Records
-  - Hero sections
-    - Get your VA medical records
-    - Download benefit letters
-  - Footer
-    - VA Forms
-
 ## Wrap Up
 
-**MODERATOR:** So, I think its time to wrap up. My last question is this: based on what you&#39;ve seen today, what do you think about possibly getting a form like the 1095-B from the VA website rather than getting a copy in the mail?
+**MODERATOR:** So, I think its time to wrap up. My last question is this: based on what you&#39;ve seen today, would you prefer getting the 1095-B document on the VA website rather than getting a copy in the mail?
 
 Do you have any questions or other comments for me before we sign off?
 
 Thank you so much, your feedback and insights have been invaluable as we continue working on this project.
 
-[i](#sdendnote1anc) https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/discovery-aug-2019/veteran-conversation-guide.md
+
