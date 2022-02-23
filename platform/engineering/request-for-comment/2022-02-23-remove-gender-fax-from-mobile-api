@@ -1,0 +1,23 @@
+RFC: Removing gender and fax number from mobile api
+Date: 2022-02-23
+Related Issue: department-of-veterans-affairs/va-mobile-app#2565
+Background
+Currently gender and fax are both returned from the mobile API and displayed in the app. 
+
+Motivation
+Profile is removing gender and fax number. More details: https://dsva.slack.com/archives/C018V2JCWRJ/p1643395405843779
+
+Design
+The proposed change for the API would be to add an accessor to the iam_user model to pull gender from the IAM identity or return null if it doesn't exist. This would remove the risk of the profile changes breaking the mobile API by making gender no longer accessible through the user model. Otherwise we propose doing nothing in the API until we are certain these fields have been completely removed from the upstream services and confident most users have updated the app beyond the version where the app no longer shows the fields.
+
+Risks
+  In versions of the app that still include the fields, once profile removes them from the upstream services
+    Gender: Users will see the field in the app, but will see "This information is not available right now" 
+    Fax: Similarly users will still see the field, but will see a button asking them to add a fax number. This could result in a user attempting to add a fax number then returning to the profile screen and still seeing the "add a fax number" button. This seems fairly low risk, because people don't use faxes anymore. LOBs said they haven't sent a fax in 25 years. 
+
+  More details and screens for how the app will show empty gender and fax: department-of-veterans-affairs/va-mobile-app#2445
+
+Alternatives
+The most extreme alternative is to remove the fields all together. This would result in all users immediately seeing the states described above while they might still see the info as is on .gov. We decided against this because we didn't want to cause confusion in the meantime, and it seemed safer to wait until most users have updated the app to a version where the fields are no longer shown to completely remove them   
+
+Another alternative for gender is hard coding the API to return a string that communicates to the user what exactly is going on with the field and that they could update the app to remove it. We decided against this because it requires some copy approval and overall is more effort than the proposed solution. 
