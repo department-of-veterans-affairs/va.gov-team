@@ -2,7 +2,6 @@
 
 # Research Plan for Team MOVE, 1095-B tax form February 22, 2022 
 Round 2 of testing
-Note: to be updated end of day, 2/22/22
 
 ## Background
 
