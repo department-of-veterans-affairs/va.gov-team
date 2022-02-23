@@ -101,12 +101,15 @@ Ask Perigean to recruit **15** Veterans in order to get **8-10** completed sessi
 Team Availability | Time (ET)
 ------------------|--------------
 Mar 14, 2022 | Noon - 3 pm, 4 - 8 pm
-
+Mar 15, 2022 | Noon - 3 pm, 4 - 8 pm
+Mar 16, 2022 | Noon - 3 pm, 4:30 - 8 pm
+Mar 17, 2022 | Noon - 3 pm, 4 - 8 pm
+Mar 18, 2022 | Noon - 3 pm, 4 - 8 pm
 
 Pilot Sessions | Time (ET)
 ---------------|----------
-Feb X, 2022 | TBD 
-Feb X, 2022 | TBD 
+Mar 7, 2022 | TBD 
+Mar 8, 2022 | TBD 
 
 
 ## Team Roles	
@@ -123,5 +126,6 @@ Please list the people who will be serving in each role.
 - [Conversation Guide]()	
 
 ## Approvals
+Plan reviewed and approved by Dave Conlon on DATE TBD
 Plan reviewed and approved by Shane Strassberg or Kevin Hoffman on DATE TBD
 
